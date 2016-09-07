@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
 
-<!ENTITY firstrun_urlbar_message "Добре дошли в &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Добре дошли във &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Намирайте нещата бързо с удобни подсказки при търсене.">
 <!ENTITY firstrun_bookmarks_title "История">
 <!ENTITY firstrun_bookmarks_message "Любимите ви неща най-напред">
@@ -16,29 +16,65 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, винаги до вас">
 <!ENTITY firstrun_sync_subtext "Синхронизирайте разделите, паролите и всичко друго където и да сте.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
+<!ENTITY firstrun_signin_button "Впишете се в Sync">
 <!ENTITY  onboard_start_button_browser "Започнете да сърфирате">
+<!ENTITY firstrun_button_notnow "Не сега">
+<!ENTITY firstrun_button_next "Напред">
 
+<!ENTITY firstrun_tabqueue_title "Препратки">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Включване на опашката от раздели">
+<!ENTITY firstrun_tabqueue_subtext_off "Запазване на препратки, които отваряте от други приложения във &brandShortName;.">
 
+<!ENTITY firstrun_tabqueue_message_on "Успяхме!">
+<!ENTITY firstrun_tabqueue_subtext_on "Винаги можете да го изключите в &settings; под &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Статии">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Премахнете ненужното">
+<!ENTITY firstrun_readerview_subtext "Използвайте изгледа за четене, за да направите статиите по-лесни за четене даже извън мрежа.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Вие">
+<!ENTITY firstrun_account_message "Имате &brandShortName; на друго устройство?">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Отметки">
 <!ENTITY  history_title "История">
 
 <!ENTITY  switch_to_tab "Превключване към раздел">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Показване на версия извън мрежа">
 
+<!ENTITY  crash_reporter_title "&brandShortName; доклад за срив">
+<!ENTITY  crash_message2 "&brandShortName; се срина. След рестарта отворените раздели трябва да бъдат изброени на началната страница на &brandShortName;.">
+<!ENTITY  crash_send_report_message3 "Разкажете на &vendorShortName; за срива, така че нещата да бъдат поправени">
+<!ENTITY  crash_include_url2 "Включително адреса на посетената страница">
+<!ENTITY  crash_sorry "Съжаляваме">
+<!ENTITY  crash_comment "Добавяне на коментар (коментарите са общодостъпни)">
+<!ENTITY  crash_allow_contact2 "Разрешаване на &vendorShortName; да се свързва с мен по повод този доклад">
+<!ENTITY  crash_email "Вашият имейл">
+<!ENTITY  crash_closing_alert "Излизане без изпращане на доклад за срив?">
+<!ENTITY  sending_crash_report "Изпращане на доклад за срив\u2026">
+<!ENTITY  crash_close_label "Затваряне">
+<!ENTITY  crash_restart_label "Рестартиране на &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Търсене или въвеждане на адрес">
 
+<!ENTITY bookmark "Отметка">
+<!ENTITY bookmark_remove "Премахване на отметка">
+<!ENTITY bookmark_added "Отметката е добавена">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Съществуваща отметка">
+<!ENTITY bookmark_removed "Отметката е премахната">
+<!ENTITY bookmark_updated "Отметката е обновена">
+<!ENTITY bookmark_options "Настройки">
+<!ENTITY screenshot_added_to_bookmarks "Снимката на екрана е добавена към отметките">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -47,22 +83,40 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; елемента">
+<!ENTITY bookmark_folder_one_item "1 елемент">
 
+<!ENTITY reader_saved_offline "Запазено за извън мрежа">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Превключване">
 
 <!ENTITY history_today_section "Днес">
 <!ENTITY history_yesterday_section "Вчера">
+<!ENTITY history_week_section3 "Последните 7 дни">
+<!ENTITY history_older_section3 "По-стари от 6 месеца">
 
 <!ENTITY search "Търсене">
+<!ENTITY reload "Презареждане">
+<!ENTITY forward "Напред">
+<!ENTITY menu "Меню">
+<!ENTITY back "Назад">
+<!ENTITY stop "Спиране">
+<!ENTITY site_security "Сигурност на сайта">
 <!ENTITY edit_mode_cancel "Отказ">
 
+<!ENTITY close_tab "Затваряне на раздел">
+<!ENTITY one_tab "1 раздел">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; раздела">
+<!ENTITY new_tab_opened "Добавен е нов раздел">
+<!ENTITY new_private_tab_opened "Добавен е нов поверителен раздел">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ОТВАРЯНЕ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -70,15 +124,24 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Възпроизвежда аудио – &formatS;">
 
+<!ENTITY settings "Настройки">
+<!ENTITY settings_title "Настройки">
+<!ENTITY pref_category_general "Основни">
+<!ENTITY pref_category_general_summary3 "Начало, език, опашка от раздели">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Език">
+<!ENTITY pref_category_language_summary "Промяна на езика на браузъра">
+<!ENTITY pref_browser_locale "Език на браузъра">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Стандартен за системата">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -88,55 +151,127 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Отметка">
+<!ENTITY overlay_share_bookmark_btn_label_already "Съществуваща отметка">
+<!ENTITY overlay_share_send_other "Изпратете до друго устройство">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Изпратете до друго устройство">
+<!ENTITY overlay_share_no_url "Няма препратка в този сайт">
+<!ENTITY overlay_share_select_device "Избор на устройство">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Това устройство не е свързано с Firefox Account">
 
+<!ENTITY pref_category_search3 "Търсене">
+<!ENTITY pref_category_search_summary2 "Добавяне, задаване на стандартни, показване на предложения">
+<!ENTITY pref_category_accessibility "Достъпност">
+<!ENTITY pref_category_accessibility_summary2 "Размер на текста, мащабиране, гласово въвеждане">
+<!ENTITY pref_category_privacy_short "Поверителност">
 <!ENTITY pref_category_privacy_summary4 "Проследяване, регистрации, избор на данни">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Относно &brandShortName;, ЧЗВ, обратна връзка">
+<!ENTITY pref_category_datareporting "Данни">
 <!ENTITY pref_category_logins "Регистрации">
+<!ENTITY pref_learn_more "Научете повече">
+<!ENTITY pref_category_installed_search_engines "Инсталирани машини за търсене">
+<!ENTITY pref_category_add_search_providers "Добавяне на търсещи машини">
+<!ENTITY pref_category_search_restore_defaults "Възстановяване търсещите машини">
+<!ENTITY pref_search_restore_defaults "Връщане на стандартни настройки">
+<!ENTITY pref_search_restore_defaults_summary "Връщане на стандартни настройки">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "СЪВЕТ: Добавете всеки сайт към списъка с търсещи машини като докоснете и задържите полето му за търсене и докоснете пиктограмата &formatI;.">
+<!ENTITY pref_category_advanced "Разширени">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Възстановяване на раздели, икономия на данни, разработчици">
+<!ENTITY pref_category_notifications "Известия">
+<!ENTITY pref_category_notifications_summary "Нови възможности, обновяване на страницата">
+<!ENTITY pref_content_notifications "Обновяване на страницата">
+<!ENTITY pref_content_notifications_summary2 "Откриване на съдържание от сайтове със съответната поддръжка">
+<!ENTITY pref_developer_remotedebugging_usb "Отдалечено отстраняване на дефекти през USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Отдалечено отстраняване на дефекти през Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Отстраняване на дефекти през Wi-Fi изисква устройството ви да има приложение за разчитане на QR кодове.">
+<!ENTITY pref_remember_signons2 "Запазване на регистрации">
 <!ENTITY pref_manage_logins "Управление на регистрации">
 
+<!ENTITY pref_category_home "Начало">
+<!ENTITY pref_category_home_summary "Персонализиране на началната страница">
+<!ENTITY pref_category_home_panels "Панели">
+<!ENTITY pref_category_home_add_ons "Добавки">
+<!ENTITY pref_home_updates2 "Обновяване на съдържанието">
+<!ENTITY pref_home_updates_enabled "Включено">
+<!ENTITY pref_home_updates_wifi "Само през Wi-Fi">
+<!ENTITY pref_category_home_homepage "Начална страница">
+<!ENTITY home_homepage_title "Задаване на начална страница">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Начала страница на &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Потребителска">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Въведете адрес или дума за търсене">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Основни">
+<!ENTITY pref_header_search "Търсене">
+<!ENTITY pref_header_privacy_short "Поверителност">
+<!ENTITY pref_header_accessibility "Достъпност">
+<!ENTITY pref_header_notifications "Известия">
+<!ENTITY pref_header_advanced "Разширени">
+<!ENTITY pref_header_help "Помощ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
+<!ENTITY pref_cookies_menu "Бисквитки">
+<!ENTITY pref_cookies_accept_all "Разрешени">
+<!ENTITY pref_cookies_not_accept_foreign "Разрешени, с изключение на 3-ти страна">
+<!ENTITY pref_cookies_disabled "Забранени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Икономия на данни">
 <!ENTITY pref_category_media "Медия">
+<!ENTITY pref_category_developer_tools "Развойни инструменти">
 
+<!ENTITY pref_tap_to_load_images_title2 "Показване на изображенията">
+<!ENTITY pref_tap_to_load_images_enabled "Винаги">
+<!ENTITY pref_tap_to_load_images_data "Само през Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Блокиране">
 
+<!ENTITY pref_show_web_fonts "Показване на уебшрифтове">
+<!ENTITY pref_show_web_fonts_summary2 "Изтегляне на шрифтовете при отваряне на страницата">
 
+<!ENTITY pref_tracking_protection_title2 "Защита от проследяване">
+<!ENTITY pref_tracking_protection_summary3 "Включена при поверително сърфиране">
+<!ENTITY pref_donottrack_title "Без проследяване">
+<!ENTITY pref_donottrack_summary "&brandShortName; ще казва на сайтовете, че не желаете да бъдете проследявани">
 
+<!ENTITY pref_tracking_protection_enabled "Включено">
+<!ENTITY pref_tracking_protection_enabled_pb "Включено при поверително сърфиране">
+<!ENTITY pref_tracking_protection_disabled "Изключено">
 
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Експериментални възможности">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -373,6 +508,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -385,10 +521,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_summary "Докоснете, за да научите повече">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; е с актуална версия">
 
+<!ENTITY promotion_add_to_homescreen "Добавяне към началния екран">
 
 
 
