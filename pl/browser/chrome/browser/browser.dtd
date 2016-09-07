@@ -178,7 +178,6 @@
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Zarządzaj udostępnianiem mikrofonu tej stronie">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie okien i ekranu">
-<!ENTITY urlbar.pointerLockNotificationAnchor.label "Określ, czy strona ma prawo ukrywać kursor">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Wyświetl zapytanie instalacji usługi">
 <!ENTITY urlbar.translateNotificationAnchor.label "Przetłumacz tę stronę">
 <!ENTITY urlbar.translatedNotificationAnchor.label "Zarządzaj ustawieniami tłumaczenia">
@@ -680,8 +679,6 @@
 <!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
 <!ENTITY trackingContentBlocked.block.accesskey "W">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
-
-<!ENTITY pointerLock.notification.message "Naciśnij Esc w dowolnej chwili, aby wyświetlić go ponownie.">
 
 <!ENTITY pluginNotification.showAll.label "Wyświetl wszystkie">
 <!ENTITY pluginNotification.showAll.accesskey "W">
