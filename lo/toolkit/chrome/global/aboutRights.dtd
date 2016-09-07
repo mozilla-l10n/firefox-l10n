@@ -54,7 +54,9 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-a "&brandFullName; ໃຊ້ບໍລິການຂໍ້ມູນຜ່ານເວັບ (&quot;ບໍລິການ&quot;) ເພື່ອສະຫນອງຄວາມສາມາດເພີ່ມເຕີມໃຫ້ແກ່ທ່ານໃນ &brandShortName;ລຸ້ນນີ້ພາຍໃຕ້ຂໍ້ຕົກລົງທີ່ໄດ້ອະທິບາຍໄວ້ຂ້າງລຸ່ມນີ້. ຖ້າຫາກວ່າທ່ານບໍ່ຕ້ອງການໃຊ້ບໍລິການເຫລົ່ານີ້ ຫລື ບໍ່ສາມາດຍອມຮັບເງືອນໄຂນີ້ໄດ້ ທ່ານອາດຈະປິດການໃຊ້ງານບໍລິການເຫລົ່ານີ້ເອົາໄວ້. ວິທີການປິດການໃຊ້ງານບໍລິການເຫລົ່ານີ້ສາມາດພົບໄດ້ທີ່ ">
 <!ENTITY rights2.webservices-b "ທີ່ນີ້">
+<!ENTITY rights3.webservices-c ". ຄຸນສົມບັດ ແລະ ບໍລິການອື່ນໆສາມາດປິດນຳໃຊ້ງານໄດ້ໃນການຕັ້ງຄ່າຂອງແອັບພລິເຄຊັນ.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
