@@ -106,13 +106,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "क्लिपबोर्डमा कच्चा डेटा प्रतिलिपि गर्नुहोस्">
 
 
+<!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड प्रयास गर्नुहोस">
 <!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताविशेषताहरु">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदानात्मक">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "बिफलता लग">
 
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय लग">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्र्यास गार्डले असक्षम गरिएको बिशेषताहरु  ">
 
