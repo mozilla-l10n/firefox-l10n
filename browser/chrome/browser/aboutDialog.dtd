@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; अद्ययावत आहे">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "सुधारणा प्रणाली प्रशासकाद्वारे बंद केले आहे">
+<!ENTITY update.adminDisabled       "प्रणाली प्रशासकाद्वारे सुधारणा बंद केल्या आहेत">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे">
 <!ENTITY update.restarting          "पुनःसुरु होत आहे…">
@@ -72,7 +72,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "सुधारणा अपयशी. ">
+<!ENTITY update.failed.start        "सुधारणा अपयशी.  ">
 <!ENTITY update.failed.linkText     "अद्ययावत आवृत्ती डाऊनलोड करा">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -80,7 +80,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "सुधारणा येथे उपलब्ध आहे ">
+<!ENTITY update.manual.start        "सुधारणा येथे उपलब्ध आहेत">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "आगत कार्यक्रम">
+<!ENTITY migrationWizard.title          "विझार्ड आयात करा">
 
-<!ENTITY importFrom.label               "याअाधी वापरात असलेली (पर्याय, वाचनखूणा, इतिहास, पासवर्ड व इतर) माहिती येथून आयात करा:">
+<!ENTITY importFrom.label               "पर्याय, वाचनखूणा, इतिहास, पासवर्ड व इतर माहिती येथून आयात करा:">
 <!ENTITY importFromUnix.label           "याअाधी वापरात असलेली (आवडीनिवडी, वाचनखूणा, इतिहास, पासवर्ड व इतर) माहिती येथून आयात करा:">
 <!ENTITY importFromBookmarks.label      "वाचनखूणा येथून आयात करा:">
 

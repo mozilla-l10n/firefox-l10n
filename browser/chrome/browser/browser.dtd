@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "वाचनखूणा साधनपट्टी दृष्य">
 <!ENTITY viewBookmarksToolbar.label         "वाचनखूणा साधनपट्टी दृष्य">
 
-<!ENTITY containersMenu.label "धारक:">
+<!ENTITY containersMenu.label "धारक">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
