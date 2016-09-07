@@ -40,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "Alan">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "Neden">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -48,7 +50,7 @@
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
 
-<!ENTITY netmonitorUI.toolbar.transferred "Aktarıldı">
+<!ENTITY netmonitorUI.toolbar.transferred "Aktarılan">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
