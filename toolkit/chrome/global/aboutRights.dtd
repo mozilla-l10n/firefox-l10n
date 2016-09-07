@@ -58,16 +58,16 @@
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "सुरक्षित ब्राउजिङ: ">
-
+<!ENTITY rights.safebrowsing-b "सुरक्षित ब्राउजिङ बिशेषता असक्षम गर्न सिफारिस गरिएको छैन किनकि त्यसले तपाईंलाई असुरक्षित साइटहरु तिर लान सक्छ। यदि तपाईं बिशेषता पूर्ण रुपमा अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:">
 <!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राथमिकताहरू खोल्नुहोस्">
 <!ENTITY rights.safebrowsing-term2 "सुरक्षा छान्नुहोस्">
-
+<!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; विकल्प जाँच नगर्नुहोस्">
 <!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ अहिले निष्कृय छ">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "स्थान सचेत ब्राउजिङ: ">
-
-
+<!ENTITY rights.locationawarebrowsing-b "सधैं opt-in छ। कुनै स्थान जानकारी कहिल्यै पनि तपाईको अनुमति बिना पठाइएको छैन। तपाईं बिशेषता पूर्ण अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:">
+<!ENTITY rights.locationawarebrowsing-term1a "URL बारमा लेख्नुहोस्">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">
 
@@ -80,8 +80,10 @@
 <!ENTITY rights.webservices-term1-unbranded "यो उत्पादनको लागि कुनै पनि गोपनीयता नीति यहाँ सूचीबद्ध गर्नुपर्छ।">
 <!-- points 1-7 text for branded builds -->
 
+<!ENTITY rights2.webservices-term1 "&vendorShortName; र यसको योगकर्ता, अनुमति पत्र प्रदायक र साझेदारहरु सबैभन्दा सही र अद्यावदिक सेवाहरु प्रदान गर्न काम गर्छन।तर, हामी यो जानकारी व्यापक र त्रुटि-रहित छ भन्ने ग्यारेन्टी गर्न सक्दैनौ। उदाहरणका लागि, सुरक्षित ब्राउजिङ सेवा ले केही जोखिमपूर्ण साइटहरु पहिचान नगर्न सक्छ र त्रुटिले केही सुरक्षित साइट लाई असुरक्षित पहिचान गर्न सक्छ र स्थान जागरूक सेवा, हाम्रो सेवा प्रदायक ले फर्काउने सबै स्थानहरू अनुमान मात्र हो र न हामि न त हाम्रो सेवा प्रदायकले प्रदान गरिएका स्थानहरु को सटीकता ग्यारेन्टी गर्छ।  ">
+<!ENTITY rights.webservices-term2 "&vendorShortName; ले आफ्नै विवेकमा सेवाहरु परिवर्तन गर्न वा टुटाउन सक्छ।">
 
 
 
-
+<!ENTITY rights.webservices-term6 "&vendorShortName; ले आवश्यक रूपमा समय समयमा यी सर्तहरू अद्यावधिक गर्न सक्छन। यी सर्तहरु &vendorShortName; को लिखित सम्झौता बिना परिमार्जन वा रद्द गर्न सकिदैन।">
 
