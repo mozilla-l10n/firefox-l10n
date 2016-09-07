@@ -7,7 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.calendar.view.allview.caption "Главен">
+<!ENTITY pref.calendar.view.allview.caption "Основни">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Дневен и седмичен изглед">
 <!ENTITY pref.calendar.view.multiweekview.caption "Многоседмичен изглед">
 <!ENTITY pref.calendar.view.workweek.caption "Работна седмица">
