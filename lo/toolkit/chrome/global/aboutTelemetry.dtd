@@ -14,7 +14,9 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "  ການບັນທຶກ Extended Telemetry ແມ່ນ <span>ຖືກປິດໃຊ້ງານຢູ່</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "ແຫລ່ງຂໍ້ມູນການປີ້ງ:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "ຂໍ້ມູນການປີ້ງປະຈຸບັນ">
 
 
 
