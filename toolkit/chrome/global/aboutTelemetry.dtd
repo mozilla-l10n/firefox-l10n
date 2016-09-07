@@ -99,6 +99,10 @@
   쓰레드 중단
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  스칼라
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   히스토그램
 ">
