@@ -57,6 +57,7 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!-- zoom -->
 
