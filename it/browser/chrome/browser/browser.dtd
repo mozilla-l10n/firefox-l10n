@@ -159,7 +159,6 @@
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Gestisci la condivisione di fotocamera e/o microfono con il sito">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Gestisci la condivisione del microfono con il sito">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Gestisci la condivisione delle finestre o dello schermo con il sito">
-<!ENTITY urlbar.pointerLockNotificationAnchor.label "Decidi se il sito può nascondere il puntatore">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Visualizza il messaggio di installazione servizio">
 <!ENTITY urlbar.translateNotificationAnchor.label "Traduci questa pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.label "Gestisci la traduzione della pagina">
@@ -600,7 +599,6 @@
 <!ENTITY trackingContentBlocked.block.label "Attiva protezione">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protezione antitracciamento è disattivata">
-<!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
 <!ENTITY pluginNotification.showAll.label "Mostra tutti">
 <!ENTITY pluginNotification.showAll.accesskey "M">
 <!ENTITY pluginActivateNow.label "Consenti adesso">
