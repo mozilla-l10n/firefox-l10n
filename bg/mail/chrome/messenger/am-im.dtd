@@ -4,7 +4,7 @@
 
 <!ENTITY accountWindow.title           "Свойства на сметката">
 <!ENTITY accountWindow.width           "300">
-<!ENTITY account.general               "Общи">
+<!ENTITY account.general               "Основни">
 <!ENTITY account.advanced              "За напреднали">
 <!ENTITY account.name                  "Потребител:">
 <!ENTITY account.password              "Парола:">
