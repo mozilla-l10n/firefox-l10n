@@ -10,7 +10,7 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Mengemaskini">
+<!ENTITY updatePass.label             "Kemas kini">
 <!ENTITY resetPass.label              "Set Semula">
 
 <!-- Manage Account -->
