@@ -86,6 +86,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Dayakan pelayar chrome dan kotak alatan menyahpepijat add-ons">
+<!ENTITY options.enableChrome.tooltip3  "Mengaktifkan pilihan ini akan membolehkan anda untuk menggunakan pelbagai alat pembangun dalam konteks pelayar (via Alatan > Pembangun Web > Kotak Alatan Pelayar) dan debug add-ons dari Pengurus Add-ons">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
