@@ -491,6 +491,11 @@
        <rdf:Description ID="add-ons:manager"
          nc:name="Administrador de complementos"
          nc:link="customize_help.xhtml#using_the_add-ons_manager"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:converter"
+         nc:name="Conversor de complementos"
+         nc:link="customize_help.xhtml#using_the_add-on_converter"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1106,6 +1111,11 @@
 <rdf:Description about="help-indexAZ.rdf#h">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="Developer_Tools"
+         nc:name="Herramientas de desarrollo"
+         nc:link="developer_tools.xhtml#devtools"/>
+     </rdf:li>
+     <rdf:li>     
        <rdf:Description ID="HTML"
          nc:name="HTML" />
      </rdf:li></rdf:Seq>
