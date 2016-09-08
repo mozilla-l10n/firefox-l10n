@@ -48,5 +48,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Fechar ao concluir os downloads">
 <!ENTITY closeWhenDone.tooltip            "Fechar a janela Downloads ao terminar todos os downloads">
 
-<!ENTITY showFolder.label                 "Abrir esta pasta">
+<!ENTITY showFolder.label                 "Mostrar esta pasta">
 <!ENTITY searchBox.label                  "Localizar">

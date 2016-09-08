@@ -4,27 +4,27 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-<!ENTITY projectMenu_label "Projeto">
+<!ENTITY projectMenu_label "Project">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Novo aplicativo…">
+<!ENTITY projectMenu_newApp_label "New App…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Abrir aplicativo empacotado…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "b">
-<!ENTITY projectMenu_importHostedApp_label "Abrir aplicativo hospedado…">
-<!ENTITY projectMenu_importHostedApp_accesskey "r">
-<!ENTITY projectMenu_selectApp_label "Abrir aplicativo…">
-<!ENTITY projectMenu_selectApp_accesskey "A">
-<!ENTITY projectMenu_play_label "Instalar e executar">
+<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Open App…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Install and Run">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Parar aplicativo">
-<!ENTITY projectMenu_stop_accesskey "P">
-<!ENTITY projectMenu_debug_label "Depurar aplicativo">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Remover projeto">
-<!ENTITY projectMenu_remove_accesskey "x">
-<!ENTITY projectMenu_showPrefs_label "Preferências">
+<!ENTITY projectMenu_remove_label "Remove Project">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Preferences">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Gerenciar componentes extras">
+<!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Atualizar abas">
 
@@ -203,16 +203,16 @@
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Opções do simulador">
-<!ENTITY simulator_remove "Excluir simulador">
-<!ENTITY simulator_reset "Restaurar padrões">
-<!ENTITY simulator_name "Nome">
+<!ENTITY simulator_remove "Delete Simulator">
+<!ENTITY simulator_reset "Restore Defaults">
+<!ENTITY simulator_name "Name">
 <!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versão">
-<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_version "Version">
+<!ENTITY simulator_profile "Profile">
 <!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Tela">
-<!ENTITY simulator_pixelRatio "Proporção do Pixel">
+<!ENTITY simulator_device "Device">
+<!ENTITY simulator_screenSize "Screen">
+<!ENTITY simulator_pixelRatio "Pixel Ratio">
 <!ENTITY simulator_tv_data "TV Simulation">
 <!ENTITY simulator_tv_data_open "Config Data">
 <!ENTITY simulator_tv_data_open_button "Open Config Directory…">
