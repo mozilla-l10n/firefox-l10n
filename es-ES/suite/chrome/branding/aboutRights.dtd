@@ -35,8 +35,8 @@
 <!ENTITY rights.safebrowsing-term2 "Seleccione el panel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque las opciones &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "La navegación segura está ahora desactivada">
-<!ENTITY rights.locationawarebrowsing-a "Navegación basada en ubicación:">
-<!ENTITY rights.locationawarebrowsing-b "siempre es ">
+<!ENTITY rights.locationawarebrowsing-a "Navegación basada en ubicación: ">
+<!ENTITY rights.locationawarebrowsing-b "siempre es opcional. Nunca se envía información de localización sin su permiso. Si desea desactivar la característica por completo, siga estos pasos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abra las preferencias de la aplicación">
 <!ENTITY rights.locationawarebrowsing-term2 "Seleccione el panel principal &security.label;">
 <!ENTITY rights.locationawarebrowsing-term3 "Seleccione la opción de &quot;&geoDisabled.label;&quot;">

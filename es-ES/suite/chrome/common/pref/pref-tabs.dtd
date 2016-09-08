@@ -5,7 +5,7 @@
 <!ENTITY tabHeader.label "Navegación con pestañas">
 <!ENTITY tabDisplay.label "Visualización de pestañas">
 <!ENTITY autoHide.label "Esconder la barra de pestañas cuando sólo haya una abierta">
-<!ENTITY autoHide.accesskey "d">
+<!ENTITY autoHide.accesskey2 "r">
 <!ENTITY background.label "Cambiar a las nuevas pestañas abiertas a partir de enlaces">
 <!ENTITY background.accesskey "S">
 <!ENTITY warnOnClose.label "Advertirme al cerrar una ventana con múltiples pestañas">
@@ -18,3 +18,8 @@
 <!ENTITY loadGroupReplace.label "Reemplazar pestañas existentes">
 <!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Abrir pestañas en vez de ventanas cuando:">
+<!ENTITY openManagers.label "Abrir en una pestaña nueva en lugar de en una ventana independiente">
+<!ENTITY openDataManager.label "Administrador de datos">
+<!ENTITY openDataManager.accesskey "d">
+<!ENTITY openAddOnsManager.label "Administrador de complementos">
+<!ENTITY openAddOnsManager.accesskey "e">
