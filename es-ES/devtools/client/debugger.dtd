@@ -13,7 +13,6 @@
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "n">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar todos los puntos de ruptura">
 <!ENTITY debuggerUI.sources.togglePromiseDebugger "Activar depurador Promise">
-<!ENTITY debuggerUI.startTracing "Comenzar a registrar traza">
 <!ENTITY debuggerUI.clearButton "Limpiar">
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar las trazas recopiladas">
 <!ENTITY debuggerUI.pauseExceptions "Detenerse en excepciones">
