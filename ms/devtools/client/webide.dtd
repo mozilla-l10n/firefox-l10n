@@ -110,9 +110,13 @@
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Pulihkan kepada lalai">
 <!ENTITY prefs_manage_components "Urus Komponen Tambahan">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Sambung semula runtime sebelum ini apabila WebIDE bermula">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Sambung semula projek sebelum ini apabila WebIDE bermula">
 <!ENTITY prefs_options_templatesurl "Templat URL">
 <!ENTITY prefs_options_tabsize "Saiz tab">
+<!ENTITY prefs_options_expandtab "Soft tabs">
 <!ENTITY prefs_options_expandtab_tooltip "Gunakan ruang dan bukannya aksara tab">
+<!ENTITY prefs_options_detectindentation "Autoindent">
 <!ENTITY prefs_options_detectindentation_tooltip "Mengandai berasaskan inden pada konteks sumber">
 <!ENTITY prefs_options_autocomplete "Autolengkap">
 <!ENTITY prefs_options_autoclosebrackets "Auto tutup pendakap">
