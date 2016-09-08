@@ -32,6 +32,7 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Nyahsambung">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">

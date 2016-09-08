@@ -68,7 +68,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Jumlah Masa">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Jumlah masa yang digunakan dalam fungsi ini dan kefungsiannya.">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Jumlah masa yang digunakan hanya dalam fungsi ini.">
 <!ENTITY performanceUI.table.totalPercentage          "Jumlah Kos">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Jumlah masa yang digunakan dalam fungsi ini dan kefungsiannya.">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Peratusan masa yang digunakan hanya dalam fungsi ini.">
 <!ENTITY performanceUI.table.samples                  "Contoh">
 <!ENTITY performanceUI.table.function                 "Fungsi">
