@@ -42,6 +42,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Refusà l'access a la datoteca">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Forsa è ella stizzada, spustada u che ti n'es betg autorisà per l'access.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oh Dieu.">
 <!ENTITY generic.longDesc "
@@ -175,8 +181,7 @@
 <!ENTITY cspBlocked.title "Bloccà da las reglas da segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en quella moda perquai che la pagina cuntegna reglas da segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
-<!ENTITY corruptedContentError.title "Errur da cuntegn donnegià">
-<!ENTITY corruptedContentError.longDesc "<p>Impussibel da mussar la pagina dumandada pervia d'ina errur en la transmissiun da datas.</p><ul><li>Contactescha per plaschair il possessur da la website per al infurmar davart quest problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Errur: Cuntegn donnegià">
 
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina">
@@ -206,3 +211,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Infurmaziuns avanzadas: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Tia connexiun n'è betg segira">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

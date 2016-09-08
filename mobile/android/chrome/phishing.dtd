@@ -11,6 +11,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Questa pagina d'internet sut <span id='malware_sitename'/> è annunziada sco pagina attatganta ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Websites attatgantas emprovan d'installar programs che engolan infurmaziuns privatas, dovran tes computer per attatgar auters u donnegian tes sistem.</p><p>Tschertas paginas attatgantas derasan sapientivamain software donnegiusa, ma bleras èn pertutgadas senza che l'administratur saja perencletg u infurmà.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Pagina che engiona!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportà sco pagina cun software nungiavischada!">
