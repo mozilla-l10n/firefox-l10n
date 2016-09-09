@@ -117,3 +117,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fitur Penjaga Kerusakan yang Dinonaktifkan">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solusi sementara">
