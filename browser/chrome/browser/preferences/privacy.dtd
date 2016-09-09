@@ -66,7 +66,7 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
 <!ENTITY  historyHeader.pre.accesskey      "k">
-<!ENTITY  historyHeader.remember.label     "Mengingati sejarah">
+<!ENTITY  historyHeader.remember.label     "Ingat sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
 <!ENTITY  historyHeader.post.label         "">
@@ -79,7 +79,7 @@
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
 <!ENTITY  rememberActions.clearHistory.label  "hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
-<!ENTITY  rememberActions.removeCookies.label "hapuskan kuki individu">
+<!ENTITY  rememberActions.removeCookies.label "alih keluar kuki individu">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
@@ -96,7 +96,7 @@
 <!ENTITY  rememberHistory2.label      "Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "Ingati sejarah carian dan borang">
+<!ENTITY  rememberSearchForm.label       "Ingat sejarah dan borang sejarah">
 <!ENTITY  rememberSearchForm.accesskey   "I">
 
 <!ENTITY  clearOnClose.label             "Buang sejarah apabila &brandShortName; ditutup">
