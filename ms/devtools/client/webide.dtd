@@ -80,6 +80,7 @@
 <!ENTITY runtimePanel_other "Lain-lain">
 <!ENTITY runtimePanel_installsimulator "Pasang Simulasi">
 <!ENTITY runtimePanel_nousbdevice "Tidak nampak peranti anda?">
+<!ENTITY runtimePanel_refreshDevices_label "Muat Semula Peranti">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "sah">
@@ -88,6 +89,7 @@
 <!ENTITY details_description "Huraian">
 <!ENTITY details_location "Lokasi">
 <!ENTITY details_removeProject_button "Buang Projek">
+<!ENTITY details_showPrepackageLog_button "Tunjuk Log Pra-pakej">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "App Baru">
