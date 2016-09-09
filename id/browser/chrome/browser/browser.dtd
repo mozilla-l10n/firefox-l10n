@@ -40,6 +40,8 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Kirim Tab ke Perangkat">
+<!ENTITY  sendTabToDevice.accesskey          "P">
 <!ENTITY  sendPageToDevice.label             "Kirim Laman ke Perangkat">
 <!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Kirim Tautan ke Perangkat">
