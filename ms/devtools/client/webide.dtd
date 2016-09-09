@@ -112,7 +112,9 @@
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Pulihkan kepada lalai">
 <!ENTITY prefs_manage_components "Urus Komponen Tambahan">
+<!ENTITY prefs_options_autoconnectruntime "Sambung semula runtime sebelum ini">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Sambung semula runtime sebelum ini apabila WebIDE bermula">
+<!ENTITY prefs_options_rememberlastproject "Ingat projek lepas">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Sambung semula projek sebelum ini apabila WebIDE bermula">
 <!ENTITY prefs_options_templatesurl "Templat URL">
 <!ENTITY prefs_options_tabsize "Saiz tab">
