@@ -177,7 +177,7 @@
 <!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Sumber">
 <!ENTITY debuggerUI.tabs.traces         "Surih">
-<!ENTITY debuggerUI.tabs.callstack      "Panggil Tindan">
+<!ENTITY debuggerUI.tabs.callstack      "Susunan Panggilan">
 <!ENTITY debuggerUI.tabs.variables      "Pembolehubah">
 <!ENTITY debuggerUI.tabs.events         "Acara">
 
