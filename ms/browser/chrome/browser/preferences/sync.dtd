@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
-<!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
+<!ENTITY welcome.description "Akses tab, tanda buku dan kata laluan anda serta banyak lagi ciri di mana jua anda menggunakan &brandShortName;.">
 <!ENTITY welcome.signIn.label "Daftar Masuk">
 <!ENTITY welcome.createAccount.label "Cipta Akaun">
 
