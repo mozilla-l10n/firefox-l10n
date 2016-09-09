@@ -346,7 +346,7 @@
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY contentSearchInput.label "Pole wyszukiwania">
-<!ENTITY contentSearchSubmit.label "Szukaj">
+<!ENTITY contentSearchSubmit.tooltip "Szukaj">
 
 <!ENTITY searchFor.label "Wyszukaj „">
 <!ENTITY searchWith.label "” z:">
