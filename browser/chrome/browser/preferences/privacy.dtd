@@ -106,4 +106,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "P">
 
 <!ENTITY  browserContainersHeader.label         "Tab Kontainer">
+<!ENTITY  browserContainersLearnMore.label      "Pelajari lebih lanjut">
+<!ENTITY  browserContainersEnabled.label        "Aktifkan Tab Kontainer">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
