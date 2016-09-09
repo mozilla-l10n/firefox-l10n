@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "Спиране зареждането на страницата">
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
 <!ENTITY printButton.label            "Отпечатване">
-<!ENTITY printButton.tooltip          "Отпечатване на тази страница">
+<!ENTITY printButton.tooltip          "Отпечатване на страницата">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Показване информация за уебсайта">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -480,7 +480,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Презареждане на рамката">
 <!ENTITY reloadFrameCmd.accesskey     "з">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Изходен код на маркираното">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Изходен код на избраното">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML код">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
@@ -816,9 +816,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.chatBar.accesskey "ц">
 
 <!ENTITY social.markpageMenu.accesskey "с">
-<!ENTITY social.markpageMenu.label "Запис на страницата…">
+<!ENTITY social.markpageMenu.label "Запазване на страницата в…">
 <!ENTITY social.marklinkMenu.accesskey "в">
-<!ENTITY social.marklinkMenu.label "Запазване на връзката…">
+<!ENTITY social.marklinkMenu.label "Запазване на препратката…">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">

@@ -61,8 +61,8 @@
 <!ENTITY  permClearStorage           "Изчистване на хранилището">
 <!ENTITY  permClearStorage.accesskey "И">
 
-<!ENTITY  securityTab           "Сигурност">
-<!ENTITY  securityTab.accesskey "С">
+<!ENTITY  securityTab           "Защита">
+<!ENTITY  securityTab.accesskey "З">
 <!ENTITY  securityView.certView "Преглед на сертификата">
 <!ENTITY  securityView.accesskey "П">
 <!ENTITY  securityView.unknown   "Неизвестен">

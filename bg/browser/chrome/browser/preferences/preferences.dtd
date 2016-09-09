@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Съдържание">
 <!ENTITY  paneApplications.title  "Приложения">
 <!ENTITY  panePrivacy.title       "Лични данни">
-<!ENTITY  paneSecurity.title      "Сигурност">
+<!ENTITY  paneSecurity.title      "Защита">
 <!ENTITY  paneAdvanced.title      "Разширени">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
