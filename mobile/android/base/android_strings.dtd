@@ -130,7 +130,7 @@
 <!ENTITY settings "Ajustes">
 <!ENTITY settings_title "Ajustes">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Región, lenguaje, cola de pestañas">
+<!ENTITY pref_category_general_summary3 "Región, idioma, cola de pestañas">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -248,7 +248,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Ahorrador de datos">
+<!ENTITY pref_category_data_saver "Ahorro de datos">
 <!ENTITY pref_category_media "Multimedia">
 <!ENTITY pref_category_developer_tools "Herramientas de desarrollador">
 
@@ -588,12 +588,12 @@ size. -->
 <!ENTITY home_clear_history_confirm "¿Estás seguro que deseas limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardas se muestran aquí.">
 <!ENTITY home_closed_tabs_title2 "Cerradas recientemente">
-<!ENTITY home_last_tabs_empty "Tus pestañas recientes son mostradas aquí.">
+<!ENTITY home_last_tabs_empty "Tus pestañas recientes se muestran aquí.">
 <!ENTITY home_restore_all "Restaurar todas">
 <!ENTITY home_closed_tabs_number "&formatD; pestañas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 pestaña">
-<!ENTITY home_most_recent_empty "Los sitios visitados recientemente son mostrados aquí.">
+<!ENTITY home_most_recent_empty "Los sitios visitados recientemente se muestran aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Oye: usando una &formatS1;Nueva pestaña privada&formatS2; no se guardará nada en tu historial.">
