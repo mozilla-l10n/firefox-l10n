@@ -337,11 +337,30 @@
 <!ENTITY pref_clear_private_data2 "Изчистване на лични данни">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Изчистване">
+<!ENTITY pref_clear_on_exit_title3 "Изчистване на лични данни при затваряне">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; автоматично ще изчисти ваши данни, когато изберете \u0022Изход\u0022 от главното меню">
+<!ENTITY pref_clear_on_exit_dialog_title "Изберете кои данни да бъдат изтривани">
+<!ENTITY pref_plugins "Приставки">
+<!ENTITY pref_plugins_enabled "Включени">
+<!ENTITY pref_plugins_tap_to_play2 "Докосване за включване">
+<!ENTITY pref_plugins_disabled "Изключени">
+<!ENTITY pref_text_size "Размер на текста">
+<!ENTITY pref_restore_tabs "Възстановяване на раздели">
+<!ENTITY pref_restore_always "Всеки път">
+<!ENTITY pref_restore_quit "Без възстановяване при изход от &brandShortName;">
+<!ENTITY pref_font_size_tiny "Миниатюрен">
+<!ENTITY pref_font_size_small "Малък">
+<!ENTITY pref_font_size_medium "Среден">
+<!ENTITY pref_font_size_large "Голям">
+<!ENTITY pref_font_size_xlarge "Много голям">
+<!ENTITY pref_font_size_set "Избиране">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "АаБбВв">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
