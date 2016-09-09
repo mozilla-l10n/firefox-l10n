@@ -167,21 +167,27 @@
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
 
 <!ENTITY urlbar.viewSiteInfo.label "Wyświetl informacje o stronie">
-<!ENTITY urlbar.defaultNotificationAnchor.label "Wyświetl powiadomienie">
-<!ENTITY urlbar.geolocationNotificationAnchor.label "Wyświetl zapytanie o położenie">
-<!ENTITY urlbar.addonsNotificationAnchor.label "Wyświetl zapytanie o instalację dodatku">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label "Wyświetl zapytanie o przechowywanie danych offline">
-<!ENTITY urlbar.loginFillNotificationAnchor.label "Zarządzaj danym logowania">
-<!ENTITY urlbar.passwordNotificationAnchor.label "Określ, czy zachować hasło">
-<!ENTITY urlbar.pluginsNotificationAnchor.label "Zarządzaj wtyczkami używanymi na tej stronie">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label "Określ, czy strona ma prawo wyświetlać powiadomienia">
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Zarządzaj udostępnianiem mikrofonu tej stronie">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie okien i ekranu">
-<!ENTITY urlbar.servicesNotificationAnchor.label "Wyświetl zapytanie instalacji usługi">
-<!ENTITY urlbar.translateNotificationAnchor.label "Przetłumacz tę stronę">
-<!ENTITY urlbar.translatedNotificationAnchor.label "Zarządzaj ustawieniami tłumaczenia">
-<!ENTITY urlbar.emeNotificationAnchor.label "Zarządzaj ustawieniami DRM">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip "Wyświetl powiadomienie">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Wyświetl zapytanie o położenie">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip "Wyświetl zapytanie o instalację dodatków">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Wyświetl zapytanie o przechowywanie danych offline">
+<!ENTITY urlbar.loginFillNotificationAnchor.tooltip "Zarządzaj danymi logowania">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip "Określ, czy zachować hasło">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Zarządzaj wtyczkami używanymi na tej stronie">
+<!ENTITY urlbar.webNotificationAnchor.tooltip "Określ, czy strona ma prawo wyświetlać powiadomienia">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej stronie">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie okien i ekranu">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip "Wyświetl zapytanie instalacji usługi">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip "Przetłumacz tę stronę">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip "Zarządzaj ustawieniami tłumaczenia">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip "Zarządzaj ustawieniami DRM">
+<!ENTITY urlbar.cameraBlocked.tooltip "Udostępnianie kamery tej stronie zostało zablokowane">
+<!ENTITY urlbar.microphoneBlocked.tooltip "Udostępnianie mikrofonu tej stronie zostało zablokowane">
+<!ENTITY urlbar.screenBlocked.tooltip "Udostępnianie obrazu ekranu tej stronie zostało zablokowane">
+<!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej stronie zostało zablokowane">
+<!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tą stronę zostało zablokowane">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej strony zostały zablokowane">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 <!ENTITY urlbar.zoomReset.tooltip "Przywróć oryginalny rozmiar">
 
