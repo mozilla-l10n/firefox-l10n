@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "स्थळांकडून कूकीज स्वीकारा">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "तिसरे-पक्षीय कूकिज स्वीकारा:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "नेहमी">
 <!ENTITY  acceptThirdParty.never.label    "कधीच नाही">
 <!ENTITY  acceptThirdParty.visited.label  "भेट दिलेल्यांमधून">
@@ -106,5 +107,5 @@
 
 <!ENTITY  browserContainersHeader.label         "कंटेनर टॅब्स">
 <!ENTITY  browserContainersLearnMore.label      "आणखी शिका">
-
-
+<!ENTITY  browserContainersEnabled.label        "कंटेनर टॅब्स सक्रीय करा">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
