@@ -21,7 +21,7 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
-<!ENTITY toolboxNoAutoHideTooltip      "Tidak membenarkan popup tersimpan secara automatik">
+<!ENTITY toolboxNoAutoHideTooltip      "Nyahdayakan autosorok popup">
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
@@ -121,7 +121,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Alatan Pembangun Firefox Lalai">
+<!ENTITY options.selectDefaultTools.label     "Alatan Pembangun Firefox Piawai">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
