@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label "Powiadamiaj o nowych wiadomościach e-mail">
 <!ENTITY accountAliasGroupbox.caption "Alias lokalny">
 <!ENTITY accountAliasField.label "Alias:">
-<!ENTITY accountAliasInfo.label "Alias lokalny będzie wyświetlany jedynie w rozmowach użytkownika podczas pisania a pozostali go nie zobaczą.">
+<!ENTITY accountAliasInfo.label "Alias lokalny będzie wyświetlany jedynie w rozmowach użytkownika podczas pisania, a pozostali go nie zobaczą.">
 <!ENTITY accountProxySettings.caption "Ustawienia serwera proxy">
 <!ENTITY accountProxySettings.change.label "Zmień…">
 <!ENTITY accountProxySettings.change.accessKey "Z">
