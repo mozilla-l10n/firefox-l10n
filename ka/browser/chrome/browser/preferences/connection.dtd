@@ -7,9 +7,9 @@
 <!ENTITY  window.width                  "45em">
 <!ENTITY  window.macWidth               "45em">
 
-<!ENTITY  proxyTitle.label              "პროქსის კონფიგურირება ინტერნეტ კავშირისთვის">
+<!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტზე წვდომისათვის">
 <!ENTITY  noProxyTypeRadio.label        "პროქსის გარეშე">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "გ">
 <!ENTITY  systemTypeRadio.label         "სისტემური პროქსის პარამეტრებით სარგებლობა">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "პროქსის პარამეტრების ავტოდეტექცია ამ ქსელისთვის">
