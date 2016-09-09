@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "შემოტანის ოსტატი">
+<!ENTITY migrationWizard.title          "გადმოტანის ოსტატი">
 
-<!ENTITY importFrom.label               "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
-<!ENTITY importFromUnix.label           "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFrom.label               "გადმოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFromUnix.label           "გადმოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
 <!ENTITY importFromBookmarks.label      "სანიშნეთა შემოტანა:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">

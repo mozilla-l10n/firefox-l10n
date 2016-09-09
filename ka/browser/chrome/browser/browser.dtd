@@ -777,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY socialToolbar.title        "სოციალური ხელსაწყოთა ზოლის ღილაკი">
 
-<!ENTITY social.ok.label       "დიახ">
+<!ENTITY social.ok.label       "კარგი">
 <!ENTITY social.ok.accesskey   "დ">
 
 <!ENTITY social.toggleSidebar.label "გვერდითი ზოლის ჩვენება">

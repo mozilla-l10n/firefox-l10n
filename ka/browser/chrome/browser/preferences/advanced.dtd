@@ -76,22 +76,22 @@
 <!ENTITY updateTab.label                 "განახლება">
 
 <!ENTITY updateApp.label                 "&brandShortName; განახლებები:">
-<!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებული უსფართხოება)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "განახლებები შემოწმდეს, მაგრამ მე ავირჩევ, დავაინსტალირებ თუ არა მათ">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: უსაფრთხოების რისკი)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებულია უსფართხოება)">
+<!ENTITY updateAuto1.accesskey           "ა">
+<!ENTITY updateCheck.label               "განახლებები შემოწმდეს და შემდეგ გადავწყვეტ.">
+<!ENTITY updateCheck.accesskey           "ა">
+<!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: სახიფათოა)">
+<!ENTITY updateManual.accesskey          "დ">
 
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "ი">
 
-<!ENTITY useService.label                "განახლებების დასაინსტალირებლად ფონური მომსახურების გამოყენება">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "განახლებების დასაყენებლად ფონური მომსახურების გამოყენება">
+<!ENTITY useService.accesskey            "ფ">
 
 <!ENTITY updateOthers.label              "ავტომატური განახლება:">
 <!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+<!ENTITY enableSearchUpdate.accesskey    "ს">
 
 <!ENTITY offlineNotify.label             "შემატყობინე როცა ვებსაიტი ითხოვს მონაცემთა შენახვას ავტონომიური სარგებლობისთვის">
 <!ENTITY offlineNotify.accesskey         "T">

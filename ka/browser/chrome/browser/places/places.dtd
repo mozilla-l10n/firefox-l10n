@@ -96,7 +96,7 @@
 
 <!ENTITY maintenance.label      "იმპორტი და დამარქაფება">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნეები">
+<!ENTITY maintenance.tooltip    "გადმოიტანეთ და დაამარქაფეთ თქვენი სანიშნეები">
 
 <!ENTITY backButton.tooltip  "გადასვლა უკან">
 
