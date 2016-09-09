@@ -106,7 +106,7 @@
 <!ENTITY detailsPane.more.accesskey "в">
 <!ENTITY detailsPane.less.label "По-малко">
 <!ENTITY detailsPane.less.accesskey "м">
-<!ENTITY detailsPane.selectAnItemText.description "Маркирайте елемент, за да го разгледате и редактирате">
+<!ENTITY detailsPane.selectAnItemText.description "Изберете елемент, който да разгледате и редактирате">
 
 <!ENTITY find.label               "Търсене:">
 <!ENTITY find.accesskey           "Т">

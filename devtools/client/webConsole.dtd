@@ -35,9 +35,9 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Журнал на изключенията в JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "Безопасност">
+<!ENTITY btnPageSecurity.label "Защита">
 <!ENTITY btnPageSecurity.tooltip "Журнал на грешките и предупрежденията по безопасността">
-<!ENTITY btnPageSecurity.accesskey "Б">
+<!ENTITY btnPageSecurity.accesskey "З">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
