@@ -68,7 +68,7 @@
 <!ENTITY limitCacheSizeAfter.label       "МБ пространство">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "И">
-<!ENTITY clearOfflineAppCacheNow.label   "Изчистване сега">
+<!ENTITY clearOfflineAppCacheNow.label   "Изчистване">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ч">
 <!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на кеша">
 <!ENTITY overrideSmartCacheSize.accesskey "Н">
