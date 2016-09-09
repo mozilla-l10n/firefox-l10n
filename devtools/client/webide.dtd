@@ -117,24 +117,32 @@
 <!ENTITY prefs_options_rememberlastproject "Ingat projek lepas">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Sambung semula projek sebelum ini apabila WebIDE bermula">
 <!ENTITY prefs_options_templatesurl "Templat URL">
+<!ENTITY prefs_options_templatesurl_tooltip "Indeks template yang disediakan">
+<!ENTITY prefs_options_showeditor_tooltip "Tunjukkan editor dalaman">
 <!ENTITY prefs_options_tabsize "Saiz tab">
 <!ENTITY prefs_options_expandtab "Soft tabs">
 <!ENTITY prefs_options_expandtab_tooltip "Gunakan ruang dan bukannya aksara tab">
 <!ENTITY prefs_options_detectindentation "Autoindent">
 <!ENTITY prefs_options_detectindentation_tooltip "Mengandai berasaskan inden pada konteks sumber">
 <!ENTITY prefs_options_autocomplete "Autolengkap">
+<!ENTITY prefs_options_autocomplete_tooltip "Dayakan kod autolengkap">
 <!ENTITY prefs_options_autoclosebrackets "Auto tutup pendakap">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Menyelitkan tutup pendakap secara automatik">
 <!ENTITY prefs_options_keybindings "Keybindings">
 <!ENTITY prefs_options_keybindings_default "Lalai">
+<!ENTITY prefs_options_autosavefiles "Autosimpan fail">
+<!ENTITY prefs_options_autosavefiles_tooltip "Simpan fail yang diedit secara automatik sebelum projek dijalankan">
 
 <!-- Permissions Table -->
+<!ENTITY permissionstable_title "Permissions Table">
 <!ENTITY permissionstable_name_header "Nama">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_adbIsRoot "ADB ialah root: ">
 <!ENTITY runtimedetails_summonADBRoot "root peranti">
 <!ENTITY runtimedetails_ADBRootWarning "(perlukan bootloader yang tidak berkunci)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Keistemewaan DevTools tanpa had: ">
+<!ENTITY runtimedetails_requestPrivileges "meminta keistimewaan yang lebih tinggi">
 <!ENTITY runtimedetails_privilegesWarning "(Akan but semula peranti. Memerlukan akses root.)">
 
 <!-- Device Preferences and Settings -->
