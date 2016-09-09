@@ -177,17 +177,23 @@
 <!ENTITY wifi_auth_header "Pengenalan Klien">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Titik akhir yang sedang anda berhubungan perlukan lebih banyak maklumat untuk mengesahkan sambungan internet ini.  Sila imbas kod QR di bawah ini via prom pada peranti anda yang lain.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Tiada prom pengimbas QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Ada prom pengimbas QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Jika pranti anda meminta token yang sepatutnya mengimbas kod QR, sila salin nilai di bawah pada peranti tersebut:">
 <!ENTITY wifi_auth_qr_size_note "Jika kod QR kelihatan terlalu kecil untuk mendapatkan sambungan, cuba zum atau besarkan tetingkap.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Log Arahan Pra-pakej">
 
 <!-- Simulator Options -->
+<!ENTITY simulator_remove "Hapuskan Simulator">
 <!ENTITY simulator_reset "Pulihkan kepada lalai">
 <!ENTITY simulator_name "Nama">
 <!ENTITY simulator_software "Perisian">
@@ -198,3 +204,5 @@
 <!ENTITY simulator_screenSize "Skrin">
 <!ENTITY simulator_pixelRatio "Nisbah Piksel">
 <!ENTITY simulator_tv_data "Simulasi TV">
+<!ENTITY simulator_tv_data_open "Config Data">
+<!ENTITY simulator_tv_data_open_button "Buka Direktori Config…">
