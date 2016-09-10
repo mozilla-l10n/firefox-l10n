@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Tukar keutamaan bagi cadangan enjin pencarian…">
+<!ENTITY  suggestionSettings.label      "Tukar keutamaan bagi cadangan enjin carian…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
