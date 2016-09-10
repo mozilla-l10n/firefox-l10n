@@ -57,11 +57,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-
-
+<!ENTITY performanceUI.toolbar.waterfall "ابشار">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "مختلف کارروائیوں براؤزر ریکارڈنگ کے دوران کارکردگی کا مظاہرہ کر رہا ہے ظاہر کرتا ہے، ایک آبشار کے طور پر ایک ترتیب سے باہر رکھی.">
+<!ENTITY performanceUI.toolbar.js-calltree "درخت کال کریں">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "جاوا سکرپٹ افعال براؤزر ریکارڈنگ کے دوران سب سے زیادہ وقت گزارے جہاں پر روشنی ڈالی گئی.">
 <!ENTITY performanceUI.toolbar.memory-calltree "اختصام">
-
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "جہاں ریکارڈنگ کے دوران میموری مختص کیا گیا تھا ظاہر کرتا ہے.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "جے اِس شعلہ چارٹ">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "ریکارڈنگ کے دوران جاوا سکرپٹ کال اسٹیک دکھاتا ہے.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "آونٹن میں شعلہ چارٹ">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -81,7 +83,7 @@
 <!ENTITY performanceUI.table.function.tooltip         "نمونے تقریب کے نام اور ماخذ محل وقوع.">
 <!ENTITY performanceUI.table.totalAlloc               "کل بطور نمونہ اختصام">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "اس مقام پر اورکالز میں نمونے آبجیکٹ مختص کی کل تعداد.">
-
+<!ENTITY performanceUI.table.selfAlloc                "کل بطور نمونہ اختصام">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "اس مقام پر نمونے آبجیکٹ آونٹن کی تعداد.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

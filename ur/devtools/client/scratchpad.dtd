@@ -53,16 +53,18 @@
 <!ENTITY viewMenu.label               "نظارہ">
 <!ENTITY viewMenu.accesskey           "ن">
 
-
+<!ENTITY lineNumbers.label             "سطر نمبر دکھائیں">
+<!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.label                "اختتامی کلمات">
 <!ENTITY wordWrap.accesskey            "ا">
 
-
+<!ENTITY highlightTrailingSpace.label     "ٹریلنگ جگہ نمایاں کریں">
+<!ENTITY highlightTrailingSpace.accesskey "ٹ">
 
 <!ENTITY largerFont.label             "بڑا تر فانٹ">
 <!ENTITY largerFont.accesskey         "ڑ">
-
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
