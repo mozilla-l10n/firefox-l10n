@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "Berhenti memuatkan laman ini">
 <!ENTITY goEndCap.tooltip             "Pergi ke alamat dalam Bar Lokasi">
 <!ENTITY printButton.label            "Cetak">
-<!ENTITY printButton.tooltip          "Cetak laman ini">
+<!ENTITY printButton.tooltip          "Cetak halaman ini">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Lihat maklumat laman">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Lihat Bar Sisi Sejarah">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
-<!ENTITY appMenuRemoteTabs.label "Tab Diselaras">
+<!ENTITY appMenuRemoteTabs.label "Synced Tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Tiada tab terbuka">
@@ -366,7 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Papar Peyelarasan Tab Sidebar">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Papar Synced Tab Sidebar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -738,9 +738,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Tab-tab pelayar">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Tab Diselaras">
+<!ENTITY syncTabsMenu3.label     "Synced Tabs">
 
-<!ENTITY syncedTabs.sidebar.label              "Tab Diselaras">
+<!ENTITY syncedTabs.sidebar.label              "Synced Tabs">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab tersebut di sini.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab yang diselaraskan... lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
@@ -752,17 +752,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Menghidupkan penyelarasan tab untuk melihat senarai tab dari peranti anda yang lain.">
 
 <!ENTITY syncedTabs.context.open.label                       "Buka">
-<!ENTITY syncedTabs.context.open.accesskey                   "B">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Buka di Tab Baru">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "k">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Buka di Tetingkap Baru">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "B">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka dalam Tetingkap Persendirian Baru">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka dalam Tetingkap Peribadi Baru">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tanda buku Tab Ini...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Salin">
-<!ENTITY syncedTabs.context.copy.accesskey                   "S">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.label        "Sync Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Sambung semula ke &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "S">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">

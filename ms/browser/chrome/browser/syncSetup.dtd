@@ -6,7 +6,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Selamat Datang! Jika anda tidak pernah menggunakan &syncBrand.fullName.label; sebelum ini, anda perlu mencipta akaun baru.">
+<!ENTITY setup.pickSetupType.description2 "Selamat Datang! Jika anda tidak pernah menggunakan &syncBrand.fullName.label;; sebelum ini, anda perlu mencipta akaun baru.">
 <!ENTITY button.createNewAccount.label "Buka akaun baru">
 <!ENTITY button.haveAccount.label      "Saya Mempunyai Akaun">
 
@@ -16,7 +16,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Pelayan">
-<!ENTITY serverType.default.label      "Lalai: Mozilla &syncBrand.fullName.label; pelayan">
+<!ENTITY serverType.default.label      "Piawai: Mozilla &syncBrand.fullName.label; pelayan">
 <!ENTITY serverType.custom2.label   "Gunakan server pelanggan">
 <!ENTITY signIn.account2.label      "Akaun">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -53,7 +53,7 @@
 <!ENTITY recoveryKeyBackup.description "Kekunci Pemulihan anda diperlukan untuk mengakses &syncBrand.fullName.label; pada alat lain. Sila buat salinan sandaran. Kami tidak dapat membantu anda mengembalikan Kekunci Pemulihan anda.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Cetak...">
-<!ENTITY button.syncKeyBackup.print.accesskey "C">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Simpan...">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
@@ -63,24 +63,24 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Saya tidak mempunyai alat tersebut pada saya">
 <!ENTITY pairDevice.setup.description.label  "Untuk mengaktifkan, pilih &quot;Gandingkan Peranti&quot; pada peranti lain anda.">
 <!ENTITY addDevice.setup.enterCode.label    "Kemudian,masukkan kod ini:">
-<!ENTITY pairDevice.dialog.description.label "Untuk mengaktifkan, pilih &quot;Gandingkan Peranti&quot; pada peranti lain anda.">
+<!ENTITY pairDevice.dialog.description.label "Untuk mengaktifkan peranti baru anda  pilih &#x0022;Set up Sync &#x0022; pada peranti.">
 <!ENTITY addDevice.dialog.enterCode.label   "Masukkan kod yang dibekalkan oleh peralatan:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Sila cuba sekali lagi.">
-<!ENTITY addDevice.dialog.successful.label  "Peranti tersebut telah berjaya ditambah. Bibit penyelerasan akan mengambil masa beberapa minit dan akan selesai di belakang.">
+<!ENTITY addDevice.dialog.successful.label  "Peranti tersebut telah berjaya ditambah. Permulaan sync akan mengambil masa beberapa minit dan akan siap di latar belakang.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Untuk mengaktif peranti anda, anda perlu memasukan Kunci Pemulihan anda. Sila cetak atau simpan kunci ini dan bawa bersama anda .">
 <!ENTITY addDevice.dialog.connected.label   "Peranti telah disambung">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Daftar Masuk">
-<!ENTITY existingRecoveryKey.description "Anda boleh mendapatkan salinan Kunci Pemulihan anda dengan melayari &syncBrand.shortName.label; Pilihan pada peranti lain anda, dan pilih  &quot;Kunci Pemulihan Saya&quot; dibawah &quot;Menguruskan Akaun&quot;.">
+<!ENTITY existingRecoveryKey.description "Anda boleh mendapatkan salinan Recovery Key anda dengan melayari &syncBrand.shortName.label; Pilihan pada peranti lain anda, dan pilih &&#x0022;My Recovery Key&#x0022; di bawah Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Sedang Mengesahkan...">
 <!ENTITY resetPassword.label          "Set Semula Kata Laluan">
 <!ENTITY resetSyncKey.label           "Saya telah kehilangan peranti yang lain.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Pilihan Sync">
+<!ENTITY setup.optionsPage.title      "Sync Options">
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
-<!ENTITY syncDeviceName.accesskey   "m">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync Saya">
 <!ENTITY engine.bookmarks.label     "Penandabuku">
@@ -96,7 +96,7 @@
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Satukan data peranti ini dengan &syncBrand.shortName.label; data saya">
+<!ENTITY choice2a.merge.main.label       "Satukan data peranti ini dengan data &syncBrand.shortName.label; saya">
 <!ENTITY choice2.merge.recommended.label "Disyorkan:">
 <!ENTITY choice2a.client.main.label      "Gantikan semua data dalam peranti ini dengan &syncBrand.shortName.label; data">
 <!ENTITY choice2a.server.main.label      "Gantikan semua peranti lain dengan data peranti ini">
