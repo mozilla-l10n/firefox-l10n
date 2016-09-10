@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "ဖန်သားပြင် အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "ဖန်သားပြင်အပြည့်">
+<!ENTITY fullScreenCmd.label "အပြည့်ကြည့်ရန်">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "တပ်ဗ်အားလုံးကို ပြပါ">
@@ -597,7 +597,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "ထိန်းချုပ်ခလုတ်များကို ဖျောက်ပါ">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "ဖန်သားပြင်အပြည့်">
+<!ENTITY videoFullScreen.label       "အပြည့်ကြည့်ရန်">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "လျှပ်တစ်ပြက်ရိုက်ချက်ကို သိမ်းမည်…">
 <!ENTITY videoSaveImage.accesskey    "S">
