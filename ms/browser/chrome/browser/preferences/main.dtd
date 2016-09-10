@@ -12,8 +12,8 @@
 
 <!ENTITY homepage.label            "Halaman Utama:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Guna Laman Semasa">
-<!ENTITY useCurrentPage.accesskey  "G">
+<!ENTITY useCurrentPage.label      "Gunakan Halaman Semasa">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Penandabuku…">
 <!ENTITY chooseBookmark.accesskey  "b">
