@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Umum">
 
@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
 <!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Ingatkan saya jika laman web cuba untuk mengalihkan atau mengulang muat laman">
+<!ENTITY blockAutoRefresh.label          "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Menunjukkan papan kekunci sentuh apabila perlu">
 <!ENTITY useOnScreenKeyboard.accesskey   "p">
@@ -56,13 +56,13 @@
 <!ENTITY httpCache.label                 "Cached Kandungan Web">
 
 <!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
 <!ENTITY limitCacheSizeBefore.accesskey  "T">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
@@ -98,7 +98,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "e">
 
-<!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk penggunaan luar talian:">
+<!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Singkir…">
 <!ENTITY offlineAppsListRemove.accesskey "r">

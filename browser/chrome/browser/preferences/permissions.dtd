@@ -9,7 +9,7 @@
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Singkir Laman">
 <!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Singkir Semua Laman">
+<!ENTITY removeallpermissions.label   "Alih keluar Semua Laman web">
 <!ENTITY removeallpermissions.accesskey "i">
 <!ENTITY address.label                "Alamat laman web:">
 <!ENTITY address.accesskey            "l">

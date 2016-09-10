@@ -7,7 +7,7 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Penandabuku
+#define bookmarks_title Tanda buku
 #define bookmarks_heading Penandabuku
 
 #define bookmarks_toolbarfolder Menandabuku Bar Alatan Selonsong

@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Notifikasi">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ketahui lanjut">
-<!ENTITY  notificationsPolicyDesc3.label       "Pilih laman yang dibenarkan untuk menghantar pemberitahuan">
+<!ENTITY  notificationsPolicyDesc3.label       "Pilih laman web yang diberi izin untuk menghantar notifikasi">
 <!ENTITY  notificationsPolicyButton.accesskey  "i">
 <!ENTITY  notificationsPolicyButton.label      "Pilih…">
 <!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu saya">
@@ -42,6 +42,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Pengecualian…">
 <!ENTITY translateExceptions.accesskey "n">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,7 +50,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Terjemahan oleh">
 <!ENTITY translation.options.attribution.afterLogo "">
 

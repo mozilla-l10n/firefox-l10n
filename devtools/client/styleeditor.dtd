@@ -24,7 +24,7 @@
 <!ENTITY saveButton.tooltip         "Simpan lembaran gaya ini ke dalam fail">
 <!ENTITY saveButton.accesskey       "S">
 
-<!ENTITY optionsButton.tooltip      "Pilihan Editor Gaya">
+<!ENTITY optionsButton.tooltip      "pilihan Style Editor">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
