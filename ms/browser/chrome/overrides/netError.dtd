@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Masalah memuatkan laman">
+<!ENTITY loadError.label "Masalah memuatkan halaman">
 <!ENTITY retry.label "Cuba Lagi">
 <!ENTITY returnToPreviousPage.label "Undur">
 <!ENTITY advanced.label "Lanjutan">
@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat menyambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
+<!ENTITY deniedPortAccess.title "Alamat ini disekat">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
@@ -32,7 +32,12 @@
 ">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Semak huruf besar nama atau ralat taip lain.</li>
+  <li>Semak samada fail telah dipindah, dinamakan semula atau dihapuskan.</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
 <!ENTITY fileAccessDenied.longDesc "
@@ -42,43 +47,86 @@
 ">
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini kerana sebab tertentu.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa sebab.</p>
+">
 
 <!ENTITY malformedURI.title "Alamat tidak sah">
-<!ENTITY malformedURI.longDesc "<ul> <li>Alamat Web biasanya ditulis seperti <strong>http://www.example.com/</strong></li> <li>Pastikan yang anda menggunakan slash (cth. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Alamat Web biasanya ditulis seperti
+    <strong>http://www.example.com/</strong></li>
+  <li>Pastikan anda gunakan garis miring (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Sambungan diganggu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumen Luput">
-<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Sekali Lagi untuk meminta dokumen daripada laman web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tiada dalam cache &brandShortName;.</p><ul><li>Sebagai langkah keselamatan, &brandShortName; tidak akan meminta semula dokumen yang sensitif secara automatik.</li><li>Klik butang Cuba Lagi untuk meminta semula dokumen dari laman web.</li></ul>">
 
-<!ENTITY netOffline.title "Mod luat talian">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Tekan &quot;Try Again&quot; untuk menukar kepada mod dalam talian dan muat kembali laman.</li> </ul>">
+<!ENTITY netOffline.title "Mod luar talian">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Tekan &quot;Cuba Lagi &quot; untuk menukar ke mod atas talian dan muat semula halaman.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
-<!ENTITY netReset.title "Sambungan diulang tetap">
+<!ENTITY netReset.title "Sambungan diset semula">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li>
+</ul>
+">
 
-<!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li> <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi berfungsi.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Pelayan proksi menolak sambungan">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
+  <li>Hubungi pentadbir rangkaian anda pelayan proksi
+    berfungsi.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk pastikan yang sambungannya betul.</li> <li>Pastikan komputer anda mempunyai sambungan rangkaian yang berfungsi.</li> <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan yang &brandShortName; dibenarkan mencapai Web.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
+  <li>Semak untuk memastikan komputer anda ada sambungan rangkaian yang berfungsi.</li>
+  <li>Jika komputer atau rangkaian anda dilindungi oleh firewall atau proksi, pastikan
+    bahawa &brandShortName; diberi izin untuk mengakses Web.</li>
+</ul>
+">
 
-<!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari menerima cookie.</li> </ul>">
+<!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Masalah ini kadang kala berpunca daripada menyahdayakan atau tidak mahu menerima
+    kuki.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Periksa untuk pastikan yang sistem anda mempunyai Pengurus Sekuriti Peribadi yang terpasang.</li> <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> </ul>">
