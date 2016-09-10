@@ -72,7 +72,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Daftar Masuk">
-<!ENTITY existingRecoveryKey.description "Anda boleh mendapatkan salinan Recovery Key anda dengan melayari &syncBrand.shortName.label; Pilihan pada peranti lain anda, dan pilih &&#x0022;My Recovery Key&#x0022; di bawah Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Anda boleh mendapatkan salinan Recovery Key anda dengan melayari &syncBrand.shortName.label; Pilihan pada peranti lain anda, dan pilih &#x0022;My Recovery Key&#x0022; di bawah Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Sedang Mengesahkan...">
 <!ENTITY resetPassword.label          "Set Semula Kata Laluan">
 <!ENTITY resetSyncKey.label           "Saya telah kehilangan peranti yang lain.">
