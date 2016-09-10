@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Você não está usando uma janela privativa no momento.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Você não está em uma janela privativa no momento.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
