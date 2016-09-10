@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Você não está usando uma janela privativa no momento.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Você não está em uma janela privativa no momento.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privativa">
 
 <!ENTITY trackingProtection.title                        "Proteção contra rastreamento">
-<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores que pode monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox os rastreadores que podem coletar informações sobre o seu comportamento de navegação serão bloqueados.">
+<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores que podem monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox estes rastreadores serão bloqueados.">
 <!ENTITY trackingProtection.startTour1                   "Veja como funciona">
