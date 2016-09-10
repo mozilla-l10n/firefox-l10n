@@ -22,7 +22,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Halaman Dilaporkan mempunyai Perisian Tidak Diingini!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Halaman laman web di <span id='unwanted_sitename'/> telah dilaporkan mengandungi perisian yang tidak diingini dan telah disekat berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Halaman perisian yang tidak diingini cuba memasang perisian yang mengelirukan dan boleh menjejaskan sistem anda dengan cara yang tidak dijangka.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Laman web Mengelirukan!">

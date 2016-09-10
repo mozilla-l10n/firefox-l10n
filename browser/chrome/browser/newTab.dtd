@@ -11,7 +11,7 @@
 <!ENTITY newtab.customize.title "Sesuaikan halaman Tab Baru anda">
 <!ENTITY newtab.customize.suggested "Paparkan saranan dan laman web teratas">
 <!ENTITY newtab.customize.topsites "Paparkan laman web teratas">
-<!ENTITY newtab.customize.blank2 "Paparkan laman kosong">
+<!ENTITY newtab.customize.blank2 "Paparkan halaman kosong">
 <!ENTITY newtab.undo.removedLabel "Thumbnail dihapus.">
 <!ENTITY newtab.undo.undoButton "Kembali asal.">
 <!ENTITY newtab.undo.restoreButton "Kembalikan Semua.">
