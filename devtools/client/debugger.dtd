@@ -40,6 +40,8 @@
 <!ENTITY debuggerUI.sources.prettyPrint "स्रोत राम्रो बनाउनुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "स्वतः Prettify Minified स्रोतहरू">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -47,6 +49,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "सबै विच्छेदन बिन्दुहरू सक्षम/अक्षम पार्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "बाचा डिबगर टगल गर्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -57,6 +61,8 @@
 <!ENTITY debuggerUI.clearButton "खाली गर्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "एकत्र निशान खाली गर्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">

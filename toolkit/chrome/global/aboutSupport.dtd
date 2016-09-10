@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरू">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "प्रतिवेदन आईडी">
+<!ENTITY aboutSupport.crashes.id "Report ID">
 <!ENTITY aboutSupport.crashes.sendDate "पेश गरियो">
 <!ENTITY aboutSupport.crashes.allReports "सबै क्र्यास प्रतिवेदनहरू">
 <!ENTITY aboutSupport.crashes.noConfig "यो अनुप्रयोग क्र्यास प्रतिवेदनहरू प्रदर्शन गर्नका लागि कन्फिगर गरिएको छैन।">
@@ -19,11 +19,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "नाम">
 <!ENTITY aboutSupport.extensionEnabled "सक्षम पारिएको">
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
-<!ENTITY aboutSupport.extensionId "आईडी">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरु">
 <!ENTITY aboutSupport.experimentName "नाम">
-<!ENTITY aboutSupport.experimentId "आईडी">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "वर्णन">
 <!ENTITY aboutSupport.experimentActive "सक्रिय पार्नुहोस्">
 <!ENTITY aboutSupport.experimentEndDate "समाप्ति मिति">
@@ -33,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोगका आधारहरू">
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
-
+<!ENTITY aboutSupport.appBasicsBuildID "निर्माण आइडि">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्षम गरिएका प्लगइनहरू">
 <!ENTITY aboutSupport.appBasicsBuildConfig "कन्फिगरेसन बनाउनुहोस्">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोगकर्ता-प्रतिनिधि">
-<!ENTITY aboutSupport.appBasicsOS "ओ एस्">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
 <!ENTITY aboutSupport.appBasicsPerformance "कार्यसम्पादन">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -78,7 +78,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js प्राथमिकताहरू">
-<!ENTITY aboutSupport.userJSDescription "तपाईको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरु समावेश छन्। ">
+<!ENTITY aboutSupport.userJSDescription "तपाईको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरु समावेश छन्।">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वपूर्ण ताल्चा लगाइएका प्राथमिकताहरू">
 <!ENTITY aboutSupport.lockedPrefsName "नाम">
@@ -90,8 +90,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseIntegrity "समग्रता">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "समग्रता रूजु गर्नुहोस्">
 
-<!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "बढोत्तरी जीसी">
+<!ENTITY aboutSupport.jsTitle "जाभास्क्रिप्ट">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
 <!ENTITY aboutSupport.a11yActivated "सक्रिय गरिएको">
@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "क्लिपबोर्डमा कच्चा डेटा प्रतिलिपि गर्नुहोस्">
 
+<!ENTITY aboutSupport.sandboxTitle "स्यान्डबक्स">
 
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड प्रयास गर्नुहोस">
 <!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
@@ -112,8 +113,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताविशेषताहरु">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदानात्मक">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "बिफलता लग">
-
-
+<!ENTITY aboutSupport.graphicsGPU1Title "जीपीयू #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "जीपीयू #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय लग">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्र्यास गार्डले असक्षम गरिएको बिशेषताहरु  ">
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्र्यास गार्डले असक्षम गरिएको बिशेषताहरु">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "कार्यक्षेत्र">
