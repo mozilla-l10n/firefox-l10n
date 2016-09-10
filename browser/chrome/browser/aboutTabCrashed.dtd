@@ -5,7 +5,7 @@
 <!ENTITY tabCrashed.header "ข่าวร้ายก่อน: แท็บนี้เกิดข้อขัดข้อง">
 <!ENTITY tabCrashed.message "ตอนนี้เป็นข่าวดี: คุณสามารถปิดแท็บนี้ เรียกคืน หรือเรียกคืนแท็บทั้งหมดของคุณที่เกิดข้อขัดข้อง">
 <!ENTITY tabCrashed.sendReport "ส่งรายงานข้อขัดข้องเพื่อช่วยป้องกันข่าวร้ายเพิ่มเติม">
-<!ENTITY tabCrashed.includeURL "รวมที่อยู่เว็บที่ฉันเข้าด้วย">
+<!ENTITY tabCrashed.includeURL "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY tabCrashed.commentPlaceholder "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
 <!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณตรงนี้">
 <!ENTITY tabCrashed.emailMe "อีเมลหาฉันเมื่อมีข้อมูลที่มากขึ้น">
