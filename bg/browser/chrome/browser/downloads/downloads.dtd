@@ -109,7 +109,7 @@
 <!ENTITY downloadsHistory.label           "Показване на всички изтегляния">
 <!ENTITY downloadsHistory.accesskey       "в">
 
-<!ENTITY clearDownloadsButton.label       "Изчистване на изтегляния">
+<!ENTITY clearDownloadsButton.label       "Изчистване на изтеглянията">
 <!ENTITY clearDownloadsButton.tooltip     "Изчиства завършили, отменени и неуспешни изтегляния">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
