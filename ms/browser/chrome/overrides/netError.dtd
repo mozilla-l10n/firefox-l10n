@@ -128,11 +128,22 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Periksa untuk pastikan yang sistem anda mempunyai Pengurus Sekuriti Peribadi yang terpasang.</li> <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> </ul>">
+<!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Semat untuk memastikan sistem anda ada Pengurus Keselamatan Peribadi
+    yang dipasang.</li>
+  <li>Masalah ini mungkin kerana konfigurasi non-standard pada pelayan.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidak dapat ditunjukkan kerana kesahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi memaklumkan masalah ini.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Halaman yang mahu anda lihat tidak dapat dipapar kerana autentisiti data yang diterima tidak dapat disahkan.</li>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
 <!ENTITY certerror.longpagetitle1 "Sambungan internet anda tidak selamat">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -152,7 +163,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menyekat halaman ini daripada dipaparkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">
