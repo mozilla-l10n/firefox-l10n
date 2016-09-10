@@ -21,7 +21,7 @@
 <!ENTITY toolsMenu.tooltip                    "เครื่องมือสำหรับส่วนเสริม">
 
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
-<!ENTITY cmd.forward.tooltip                  "ไปข้างหน้าหนึ่งหน้า">
+<!ENTITY cmd.forward.tooltip                  "เดินหน้าไปหนึ่งหน้า">
 
 <!ENTITY showUnsignedExtensions.button.label  "ส่วนขยายบางส่วนไม่สามารถยืนยันความถูกต้องได้">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">

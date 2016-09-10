@@ -100,7 +100,7 @@
 
 <!ENTITY backButton.tooltip  "ย้อนกลับ">
 
-<!ENTITY forwardButton.tooltip  "ถัดไป">
+<!ENTITY forwardButton.tooltip  "เดินหน้า">
 
 <!ENTITY detailsPane.more.label "เพิ่มเติม">
 <!ENTITY detailsPane.more.accesskey "e">

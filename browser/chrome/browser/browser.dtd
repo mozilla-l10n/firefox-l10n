@@ -193,8 +193,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
 <!ENTITY backButton.tooltip           "ย้อนกลับหนึ่งหน้า">
-<!ENTITY forwardCmd.label             "ถัดไป">
-<!ENTITY forwardButton.tooltip        "ถัดไปหนึ่งหน้า">
+<!ENTITY forwardCmd.label             "เดินหน้า">
+<!ENTITY forwardButton.tooltip        "เดินหน้าไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ดึงลงเพื่อแสดงประวัติ">
 <!ENTITY reloadCmd.label              "โหลดใหม่">
