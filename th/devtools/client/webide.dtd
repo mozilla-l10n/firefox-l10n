@@ -61,6 +61,7 @@
 <!ENTITY prefs_options_keybindings_default "ปริยาย">
 
 <!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "ชื่อ">
 
 <!-- Runtime Details -->
 
