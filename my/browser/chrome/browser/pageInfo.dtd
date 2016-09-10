@@ -15,73 +15,73 @@
 
 <!ENTITY  generalTab            "အထွေထွေ">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalURL            "လိပ်စာ၊">
-<!ENTITY  generalType           "အမျိုးအစား၊">
-<!ENTITY  generalMode           "လုပ်ဆောင်နေလျှက်အခြေအနေ၊">
-<!ENTITY  generalSize           "အရွယ်အစား၊">
-<!ENTITY  generalReferrer       "အညွန်း URL:">
-<!ENTITY  generalSource         "ကေရှ် ဇစ်မြစ်၊">
-<!ENTITY  generalModified       "ပြုပြင်ချက်၊">
-<!ENTITY  generalEncoding2      "စာသားသိမ်းဆည်းမှုစနစ်။">
+<!ENTITY  generalURL            "လိပ်စာ">
+<!ENTITY  generalType           "အမျိုးအစား">
+<!ENTITY  generalMode           "ချယ်မှုန်းသည့် ပုံစံ">
+<!ENTITY  generalSize           "အရွယ်အစား">
+<!ENTITY  generalReferrer       "အညွှန်း URL">
+<!ENTITY  generalSource         "ယာယီဖိုင်ရင်းမြစ်">
+<!ENTITY  generalModified       "ပြုပြင်ချက်">
+<!ENTITY  generalEncoding2      "စာသားသိမ်းဆည်းမှုစနစ်">
 <!ENTITY  generalMetaName       "အမည်">
-<!ENTITY  generalMetaContent    "ပါဝင်ပစ္စည်း">
+<!ENTITY  generalMetaContent    "အကြောင်းအရာ">
 
 <!ENTITY  mediaTab              "မီဒီယာ">
-<!ENTITY  mediaTab.accesskey    "မ">
-<!ENTITY  mediaLocation         "နေရာတစ်ခု - ">
-<!ENTITY  mediaText             "သက်ဆိုင်ရာ စာသား၊">
-<!ENTITY  mediaAltHeader        "ပြောင်းလဲနားလည်ရန်အတွက်စာ၊">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "တည်နေရာ">
+<!ENTITY  mediaText             "သက်ဆိုင်ရာ စာသား">
+<!ENTITY  mediaAltHeader        "ပြောင်းလဲနားလည်နိုင်စေမည့် စာသား">
 <!ENTITY  mediaAddress          "လိပ်စာ">
 <!ENTITY  mediaType             "အမျိုးအစား">
 <!ENTITY  mediaSize             "အရွယ်အ​စား">
 <!ENTITY  mediaCount            "အရေအတွက်">
-<!ENTITY  mediaDimension        "အတိုင်းအတာများ၊">
-<!ENTITY  mediaLongdesc         "အရှည်ကောက်ဖော်ပြချက်၊">
+<!ENTITY  mediaDimension        "ရှုထောင့်များ">
+<!ENTITY  mediaLongdesc         "ဖော်ပြချက်အပြည့်အစုံ">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "ဤသို့သိမ်းတော့မည်..">
-<!ENTITY  mediaSaveAs.accesskey "ဤ">
+<!ENTITY  mediaSaveAs           "ဤသို့ သိမ်းမည်…">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "မီဒီယာအစမ်းကြိုကြည့်ခြင်း">
+<!ENTITY  mediaPreview          "မီဒီယာအစမ်းကြည့်ခြင်း">
 
 <!ENTITY  feedTab               "သတင်းစဉ်">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "စာရင်းသွင်းပါ">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "ပါမစ်ရှင်များ">
-<!ENTITY  permTab.accesskey     "ပ">
-<!ENTITY  permUseDefault        "မူရင်းအတိုင်းသုံးပါ။">
-<!ENTITY  permAskAlways         "အမြဲမေးပါ။">
+<!ENTITY  permTab               "ခွင့်ပြုချက်များ">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "မူလသတ်မှတ်ထားသည့်အတိုင်း အသုံးပြုမည်">
+<!ENTITY  permAskAlways         "အမြဲမေးပါ">
 <!ENTITY  permAllow             "ခွင့်ပြုပါ">
-<!ENTITY  permAllowSession      "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
+<!ENTITY  permAllowSession      "လက်ရှိကာလအတွက် ခွင့်ပြုပါ">
 <!ENTITY  permBlock             "ပိတ်ဆို့ပါ">
-<!ENTITY  permissionsFor        "ပါမစ်ရှင်သည်ဤအတွက်ဖြစ်သည်၊">
-<!ENTITY  permPlugins           "ပလပ်အင် များ အသုံးပြုမည်။">
+<!ENTITY  permissionsFor        "ခွင့်ပြုချက်များ">
+<!ENTITY  permPlugins           "ပလက်အင်များကို ဖွင့်ပါ">
 
-<!ENTITY  permClearStorage           "မှတ်သားဉာဏ်အားရှင်းလင်းမည်">
-<!ENTITY  permClearStorage.accesskey "မ">
+<!ENTITY  permClearStorage           "သိုလှောင်ကိရိယာကို ရှင်းလင်းမည်">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "လုံခြုံရေး">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "လက်မှတ်ကို ရှုမြင်ပါ">
+<!ENTITY  securityView.certView "သက်သေခံလက်မှက်ကို ကြည့်ရန်">
 <!ENTITY  securityView.accesskey "V ">
-<!ENTITY  securityView.unknown   "မသိသော">
+<!ENTITY  securityView.unknown   "အမည်မသိ">
 
 
-<!ENTITY  securityView.identity.header   "၀တ်ဆိုက်အထောက်အထား">
-<!ENTITY  securityView.identity.owner    "ပိုင်ရှင်၊">
-<!ENTITY  securityView.identity.domain   "၀တ်ဆိုက်၊">
-<!ENTITY  securityView.identity.verifier "ဤအဖွဲ့အစည်းဖြင့်စီစစ်ထားသည်၊">
+<!ENTITY  securityView.identity.header   "ဝဘ်ဆိုက်အထောက်အထား">
+<!ENTITY  securityView.identity.owner    "ပိုင်ရှင်">
+<!ENTITY  securityView.identity.domain   "ဝဘ်ဆိုက်">
+<!ENTITY  securityView.identity.verifier "စီစစ်သူ">
 
-<!ENTITY  securityView.privacy.header                   "လုံခြုံမှူ နှင့် မှတ်တမ်းများ">
-<!ENTITY  securityView.privacy.history                  "ဒီနေ့ရှေ့ပိုင်းတွင်ဒီ၀တ်ဆိုက်အားအလည်သွားဘူးပါသလား?">
-<!ENTITY  securityView.privacy.cookies                  "ယခု၀တ်ဆိုက်သည်မိမိကွန်ပျူတာတွင် သတင်း(ကွတ်ကီးများ)များသိမ်းဆည်းပါသလား?">
-<!ENTITY  securityView.privacy.viewCookies              "ကွတ်ကီးများအားကြည့်မည်">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "K">
-<!ENTITY  securityView.privacy.passwords                "ယခု၀တ်ဆိုက်အတွက်လျှို့၀က်စကားလုံးများသိမ်းထားမိပါသလား?">
-<!ENTITY  securityView.privacy.viewPasswords            "သိမ်းဆည်းထားသောလျှို့ဝှက်စကားလုံးများကိုကြည့်မည်">
+<!ENTITY  securityView.privacy.header                   "ကိုယ်ရေးကာကွယ်မှုနှင့် မှတ်တမ်း">
+<!ENTITY  securityView.privacy.history                  "ဒီဝဘ်ဆိုက်ကို အရင်က ရောက်ဖူးပါသလား။">
+<!ENTITY  securityView.privacy.cookies                  "ဒီဝဘ်ဆိုက်သည် မိမိ၏ကွန်ပျူတာတွင် အချက်အလက်များ (ကွတ်ကီးများ)ကို သိမ်းဆည်းပါသလား။">
+<!ENTITY  securityView.privacy.viewCookies              "ကွတ်ကီးများကို ကြည့်ရန်">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "ဒီဝဘ်ဆိုက်အတွက် စကားဝှက်များကို သိမ်းထားမိပါသလား။">
+<!ENTITY  securityView.privacy.viewPasswords            "သိမ်းထားသည့် စကားဝှက်များကို ကြည့်ရန်">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "နည်းပညာဆိုင်ရာအသေးစိတ်။">
+<!ENTITY  securityView.technical.header                 "နည်းပညာဆိုင်ရာ အသေးစိတ်အချက်အလက်များ">
 
 <!ENTITY  helpButton.label                              "အကူအညီ">
