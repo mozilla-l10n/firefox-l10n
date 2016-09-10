@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat Menyambung">
-<!ENTITY connectionFailure.longDesc "<p>Walaupun tapak itu kelihatan sah, tetapi pelungsur tidak dapat mendirikan sambungan.</p><ul><li>Mungkinkah tapak itu tidak wujud buat sementata waktu? Cuba lagi kemudian.</li><li>Adakah anda juga tidak dapat melayari tapak lain?  Periksa sambungan rangkaian komputer anda.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Walaupun laman web ini nampak sah, tetapi pelayar tidak dapat menyediakan sambungan.</p><ul><li>Mungkin laman web itu dinyahdaya buat sementata waktu? Cuba lagi kemudian.</li><li>Adakah anda juga tidak dapat melayari laman web lain? Semak sambungan rangkaian komputer.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port Dihadkan atas Alasan Keselamatan">
 <!ENTITY deniedPortAccess.longDesc "<p>Alamat yang diminta mengkhususkan port (cth. <q>mozilla.org:80</q> untuk port 80 pada mozilla.org) kebiasaannya digunakan untuk kegunaan  <em>selain</em> daripada pelugsuran Web. Pelungsur telah membatalkan permintaan untuk perlindungan dan sekuriti anda.</p>">
