@@ -59,19 +59,23 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Tunjukkan operasi berbeza yang dilaksanakan pelayar semasa rakaman, disusun secara berurutan sebagai waterfall.">
+<!ENTITY performanceUI.toolbar.js-calltree "Pepohon Panggilan">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Serlahkan fungsi JavaScript masa pelayar yang paling banyak digunakan semasa rakaman.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Peruntukan">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Pamer kedudukan memori semasa rakaman.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Carta JS Flame">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Pamer susunan panggilan JavaScript sepanjang rakaman.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Carta Peruntukan Flame">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Jumlah Masa">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Jumlah masa yang digunakan dalam fungsi ini dan kefungsiannya.">
+<!ENTITY performanceUI.table.selfDuration             "Masa Diri">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Jumlah masa yang digunakan hanya dalam fungsi ini.">
 <!ENTITY performanceUI.table.totalPercentage          "Jumlah Kos">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Jumlah masa yang digunakan dalam fungsi ini dan kefungsiannya.">
+<!ENTITY performanceUI.table.selfPercentage           "Kos Diri">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Peratusan masa yang digunakan hanya dalam fungsi ini.">
 <!ENTITY performanceUI.table.samples                  "Contoh">
 <!ENTITY performanceUI.table.samples.tooltip          "Bilangan fungsi ini disusun apabila profiler mengambil sampel.">
@@ -93,14 +97,18 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Songsangkan Call Tree">
+<!ENTITY performanceUI.invertTree.tooltiptext "Menyongsang pokok panggilan memaparkan laluan panggilan berprofil bermula dari bingkai muda dan berkembang kepada bingkai yang lebih tua.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "Songsangkan Carta Flame">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Menyongsang carta api memaparkan laluan panggilan berprofil bermula dari bingkai muda dan berkembang kepada bingkai yang lebih tua.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Tunjuk Data Platform Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Menunjukkan data platform membolehkan JavaScript Profiler melaporkan untuk memasukkan simbol platform Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
@@ -111,11 +119,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "Meratakan pokok Recursion">
 <!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Ratakan rekursi apabila memeriksa fungsi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Memori Rakaman">
 <!ENTITY performanceUI.enableMemory.tooltiptext "Rakam penggunaan memori semasa memprofil.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
@@ -127,6 +137,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "Rakam Kadar Bingkai">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Rakam kadar bingkai semasa memprofil.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
@@ -140,3 +151,4 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 <!ENTITY performanceUI.console.stopCommandStart "Hentikan rakaman dengan butang Masuk">
+<!ENTITY performanceUI.console.stopCommandEnd   "ke dalam konsol.">

@@ -111,3 +111,6 @@ Ping ">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Muat beban">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Muatan Mentah
+">

@@ -48,14 +48,14 @@
 <!ENTITY  feedSubscribe         "Langgan">
 <!ENTITY  feedSubscribe.accesskey "L">
 
-<!ENTITY  permTab               "Kebenaran">
+<!ENTITY  permTab               "Keizinan">
 <!ENTITY  permTab.accesskey     "K">
 <!ENTITY  permUseDefault        "Guna Piawai">
 <!ENTITY  permAskAlways         "sentiasa menanya">
 <!ENTITY  permAllow             "Benarkan">
 <!ENTITY  permAllowSession      "Sesi ini dibenarkan">
 <!ENTITY  permBlock             "Sekat">
-<!ENTITY  permissionsFor        "Kebenaran untuk:">
+<!ENTITY  permissionsFor        "Keizinan untuk:">
 <!ENTITY  permPlugins           "Plugin Aktif">
 
 <!ENTITY  permClearStorage           "Bersihkan Storan">

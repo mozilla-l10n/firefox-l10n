@@ -28,10 +28,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Aktif">
 <!ENTITY aboutSupport.experimentEndDate "Tarikh Akhir">
 <!ENTITY aboutSupport.experimentHomepage "Homepage">
+<!ENTITY aboutSupport.experimentBranch "Cabang">
 
 <!ENTITY aboutSupport.appBasicsTitle "Aplikasi asas">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
+<!ENTITY aboutSupport.appBasicsBuildID "ID Binaan">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
@@ -59,6 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Tetingkap Multiproses">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Mod Selamat">
 
 <!ENTITY aboutSupport.showDir.label "Buka Direktori">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -83,7 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Tempat Pangkalan Data">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integriti">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Sahkan Integriti">
 
 <!ENTITY aboutSupport.jsTitle "JavaSkrip">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
@@ -102,8 +107,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
+<!ENTITY aboutSupport.safeModeTitle "Cuba Mod Selamat">
 <!ENTITY aboutSupport.restartInSafeMode.label "Mula semula dengan Add-ons Dinyahdayakan…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Ciri-ciri">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostik">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Log Kegagalan">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Ciri Crash Guard Dinyahdaya">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">

@@ -73,6 +73,7 @@
 <!ENTITY certmgr.details.accesskey            "B">
 <!ENTITY certmgr.fields.label                 "Bidang Nilai">
 <!ENTITY certmgr.fields.accesskey             "N">
+<!ENTITY certmgr.hierarchy.label              "Hierarki Sijil">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Tambah Pengecualian...">
 <!ENTITY certmgr.addException.accesskey       "T">
