@@ -5,16 +5,16 @@
 <!ENTITY startup.label             "Permulaan">
 
 <!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
-<!ENTITY startupPage.accesskey     "m">
-<!ENTITY startupHomePage.label     "Paparkan laman utama saya">
-<!ENTITY startupBlankPage.label    "Paparkan laman kosong">
+<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupHomePage.label     "Paparkan halaman utama saya">
+<!ENTITY startupBlankPage.label    "Paparkan halaman kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
-<!ENTITY homepage.label            "Laman Utama:">
-<!ENTITY homepage.accesskey        "U">
+<!ENTITY homepage.label            "Halaman Utama:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
 <!ENTITY useCurrentPage.accesskey  "G">
-<!ENTITY useMultiple.label         "Gunakan Laman Semasa">
+<!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Penandabuku…">
 <!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Kembalikan kepada Asal">

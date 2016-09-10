@@ -38,7 +38,7 @@
 <!ENTITY chooseButton.label           "Pilih…">
 <!ENTITY chooseButton.accesskey       "i">
 
-<!ENTITY translateWebPages.label      "Terjemah kandungan laman">
+<!ENTITY translateWebPages.label      "Terjemah kandungan laman web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Pengecualian…">
 <!ENTITY translateExceptions.accesskey "n">

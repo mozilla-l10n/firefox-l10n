@@ -22,7 +22,7 @@
   -  filters. -->
 <!ENTITY btnPageNet.label   "Jaringan">
 <!ENTITY btnPageNet.tooltip "Log akses ke rangkaian">
-<!ENTITY btnPageNet.accesskey "J">
+<!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
@@ -37,7 +37,7 @@
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Keselamatan">
 <!ENTITY btnPageSecurity.tooltip "Log ralat dan amaran keselamatan">
-<!ENTITY btnPageSecurity.accesskey "K">
+<!ENTITY btnPageSecurity.accesskey "u">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on

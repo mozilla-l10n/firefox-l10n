@@ -5,7 +5,11 @@
 <!ENTITY aboutSupport.pageTitle "Maklumat Menyelesaikan masalah">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila andacuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim &brandShortName;, semak <a id='supportLink'>laman web sokongan</a> kami.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Halaman ini mengandungi maklumat teknikal yang mungkin berguna apabila anda
+  cuba menyelesaikan masalah. Jika anda mencari jawapan soalan lazim
+  berkenaan &brandShortName;, semak di <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.crashes.title "Laporan Kerosakan">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):

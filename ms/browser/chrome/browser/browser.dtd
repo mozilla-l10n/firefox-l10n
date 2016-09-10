@@ -92,8 +92,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Kembalikan Tab Tertutup">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
-<!ENTITY pageSourceCmd.label "Sumber Laman">
-<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.label "Sumber Halaman">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Info Laman">
 <!ENTITY pageInfoCmd.accesskey "L">
@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
-<!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
+<!ENTITY addCurPagesCmd.label "Tanda buku Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
 <!ENTITY recentBookmarks.label "Baru-baru Ini Ditandabukukan">
 <!ENTITY otherBookmarksCmd.label "Lain-lain Penandabuku">
@@ -485,8 +485,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Lihat Sumber Laman">
-<!ENTITY viewPageSourceCmd.accesskey  "S">
+<!ENTITY viewPageSourceCmd.label      "Lihat Sumber Halaman">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Lihat Sumber Bingkai">
 <!ENTITY viewFrameSourceCmd.accesskey "S">
 <!ENTITY viewPageInfoCmd.label        "Lihat Info Laman">
@@ -655,12 +655,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "Gaya Halaman">
+<!ENTITY pageStyleMenu.label "Page Style">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Tiada Gaya">
-<!ENTITY pageStyleNoStyle.accesskey "T">
-<!ENTITY pageStylePersistentOnly.label "Gaya Halaman Asas">
-<!ENTITY pageStylePersistentOnly.accesskey "A">
+<!ENTITY pageStyleNoStyle.label "No Style">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Basic Page Style">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Tukar tetapan menghalang pop-up untuk laman sesawang ini">
 

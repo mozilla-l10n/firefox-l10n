@@ -20,9 +20,9 @@
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Julat Pencetak">
-<!ENTITY allpagesRadio.label "Semua Laman">
-<!ENTITY allpagesRadio.accesskey "S">
-<!ENTITY rangeRadio.label  "Laman">
+<!ENTITY allpagesRadio.label "Semua Halaman">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Halaman">
 <!ENTITY rangeRadio.accesskey  "L">
 <!ENTITY frompageInput.label  "daripada">
 <!ENTITY frompageInput.accesskey  "d">

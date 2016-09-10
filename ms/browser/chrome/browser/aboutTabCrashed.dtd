@@ -5,7 +5,7 @@
 <!ENTITY tabCrashed.header "Berita buruk dahulu: Tab ini telah ranap">
 <!ENTITY tabCrashed.message "Berita baik pula: Anda boleh tutup sahaja tab ini, pulihkan ia atau pulihkan semua tab anda yang telah ranap.">
 <!ENTITY tabCrashed.sendReport "Hantarkan laporan ranap untuk membantu mencegah lebih banyak kerosakan ">
-<!ENTITY tabCrashed.includeURL "Sertakan alamat halaman yang telah saya berada">
+<!ENTITY tabCrashed.includeURL "Sertakan alamat halaman semasa saya ini">
 <!ENTITY tabCrashed.commentPlaceholder "Tambahkan komen (komen boleh dilihat umum)">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat emel anda disini">
 <!ENTITY tabCrashed.emailMe "Hantarkan emel kepada saya apabila ada maklumat lanjut">
