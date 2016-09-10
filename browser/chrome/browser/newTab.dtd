@@ -4,12 +4,12 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Tab Baru">
-<!ENTITY newtab.customize.classic "Paparkan laman web teratas">
-<!ENTITY newtab.customize.cog.enhanced "Sertakan laman web yang dicadangkan">
+<!ENTITY newtab.customize.classic "Paparkan laman teratas">
+<!ENTITY newtab.customize.cog.enhanced "Sertakan laman yang dicadangkan">
 <!ENTITY newtab.customize.cog.title2 "KAWALAN TAB BARU">
 <!ENTITY newtab.customize.cog.learn "Ketahu lebih lanjut mengenai Tab Baru">
 <!ENTITY newtab.customize.title "Sesuaikan halaman Tab Baru anda">
-<!ENTITY newtab.customize.suggested "Paparkan saranan dan laman web teratas">
+<!ENTITY newtab.customize.suggested "Paparkan saranan dan laman teratas">
 <!ENTITY newtab.customize.topsites "Paparkan laman web teratas">
 <!ENTITY newtab.customize.blank2 "Paparkan halaman kosong">
 <!ENTITY newtab.undo.removedLabel "Thumbnail dihapus.">
