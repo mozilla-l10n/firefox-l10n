@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term1a "URL बारमा लेख्नुहोस्">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">
-
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled प्राथमिकतामा दुई पटक क्लिक गर्नुहोस्">
 <!ENTITY rights.locationawarebrowsing-term4 "स्थान-सचेत ब्राउजिङ अहिले अक्षम छ">
 <!-- intro paragraph for unbranded builds -->
 
