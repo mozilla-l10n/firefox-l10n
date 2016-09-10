@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "ไฟล์">
 <!ENTITY fileMenu.accesskey "ฟ">
-<!ENTITY savePageCmd.label "บันทึกเป็น…">
+<!ENTITY savePageCmd.label "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey "ป">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
@@ -42,14 +42,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "ไปบรรทัดที่…">
+<!ENTITY goToLineCmd.label "ไปยังบรรทัดที่…">
 <!ENTITY goToLineCmd.accesskey "ป">
 <!ENTITY goToLineCmd.commandkey "1">
 
 <!ENTITY viewMenu.label           "มุมมอง">
 <!ENTITY viewMenu.accesskey       "ม">
-<!ENTITY reloadCmd.label "เรียกใหม่">
-<!ENTITY reloadCmd.accesskey "ม">
+<!ENTITY reloadCmd.label "โหลดใหม่">
+<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "ปัดบรรทัดล้น"> 
 <!ENTITY menu_wrapLongLines.accesskey "ป">

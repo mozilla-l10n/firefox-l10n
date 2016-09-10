@@ -18,8 +18,8 @@
 <!ENTITY  manualTypeRadio.accesskey     "ต">
 <!ENTITY  autoTypeRadio.label           "ค่า URL สำหรับตั้งค่าพร็อกซีโดยอัตโนมัติ:">
 <!ENTITY  autoTypeRadio.accesskey       "อ">
-<!ENTITY  reload.label                  "เรียกใหม่">
-<!ENTITY  reload.accesskey              "ร">
+<!ENTITY  reload.label                  "โหลดใหม่">
+<!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "พร็อกซี FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "พร็อกซี HTTP:">

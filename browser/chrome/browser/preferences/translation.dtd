@@ -17,7 +17,7 @@
 <!ENTITY treehead.siteName.label          "ไซต์">
 <!ENTITY removeSite.label                 "ลบไซต์นี้">
 <!ENTITY removeSite.accesskey             "ล">
-<!ENTITY removeAllSites.label             "ลบทุกไซต์">
+<!ENTITY removeAllSites.label             "เอาไซต์ทั้งหมดออก">
 <!ENTITY removeAllSites.accesskey         "ท">
 
 <!ENTITY button.close.label               "ปิด">

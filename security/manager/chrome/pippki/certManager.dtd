@@ -21,7 +21,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "รายละเอียด">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "ล">
 
-<!ENTITY certmgr.pending.label                "กำลังตรวจสอบใบรับรอง…">
+<!ENTITY certmgr.pending.label                "กำลังยืนยันความถูกต้องใบรับรอง…">
 <!ENTITY certmgr.subjectinfo.label            "ออกให้">
 <!ENTITY certmgr.issuerinfo.label             "ออกโดย">
 <!ENTITY certmgr.periodofvalidity.label       "ระยะเวลาความถูกต้อง" >
@@ -45,7 +45,7 @@
 <!ENTITY certmgr.certname                     "ชื่อใบรับรอง">
 <!ENTITY certmgr.certserver                   "เซิร์ฟเวอร์">
 <!ENTITY certmgr.override_lifetime            "อายุการใช้งาน">
-<!ENTITY certmgr.tokenname                    "กลไกความปลอดภัย">
+<!ENTITY certmgr.tokenname                    "อุปกรณ์ความปลอดภัย">
 <!ENTITY certmgr.begins                       "เริ่มเมื่อ">
 <!ENTITY certmgr.expires                      "หมดอายุเมื่อ">
 <!ENTITY certmgr.email                        "ที่อยู่อีเมล">
@@ -73,8 +73,6 @@
 <!ENTITY certmgr.details.accesskey            "ข">
 <!ENTITY certmgr.fields.label                 "ค่า">
 <!ENTITY certmgr.fields.accesskey             "ค">
-
-
 <!ENTITY certmgr.addException.label           "เพิ่มข้อยกเว้น…">
 <!ENTITY certmgr.addException.accesskey       "ย">
 

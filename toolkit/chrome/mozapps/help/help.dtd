@@ -10,7 +10,7 @@
 
 <!ENTITY backButton.label               "กลับ">
 <!ENTITY backButton.accesskey           "ก">
-<!ENTITY backButton.tooltip             "ย้อนกลับหนึ่งหน้า">
+<!ENTITY backButton.tooltip             "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY forwardButton.label            "เดินหน้า">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "เดินหน้าไปหนึ่งหน้า">

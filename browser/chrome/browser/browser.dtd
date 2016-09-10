@@ -20,16 +20,16 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "โหลดแท็บใหม่">
-<!ENTITY  reloadTab.accesskey                "ห">
+<!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY  reloadAllTabs.accesskey            "ท">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บไปทางขวา">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ว">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
-<!ENTITY  closeOtherTabs.accesskey           "ด">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -37,95 +37,95 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ปักหมุดแท็บ">
-<!ENTITY  pinTab.accesskey                   "ป">
+<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
-<!ENTITY  unpinTab.accesskey                 "บ">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
-<!ENTITY  sendTabToDevice.accesskey          "อ">
+<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "ส่งหน้าไปยังอุปกรณ์">
-<!ENTITY  sendPageToDevice.accesskey         "อ">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
-<!ENTITY  sendLinkToDevice.accesskey         "อ">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
-<!ENTITY  moveToNewWindow.accesskey          "ป">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
-<!ENTITY  bookmarkAllTabs.accesskey          "แ">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
-<!ENTITY  undoCloseTab.accesskey             "ด">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
-<!ENTITY  closeTab.accesskey                 "ป">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
 
 <!ENTITY tabCmd.label "แท็บใหม่">
-<!ENTITY tabCmd.accesskey "แ">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "เปิดตำแหน่งที่ตั้ง…">
 <!ENTITY openFileCmd.label "เปิดไฟล์…">
-<!ENTITY openFileCmd.accesskey "เ">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
-<!ENTITY printSetupCmd.accesskey "ต">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "แสดงตัวอย่างการพิมพ์">
-<!ENTITY printPreviewCmd.accesskey "ส">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "พิมพ์…">
-<!ENTITY printCmd.accesskey "พ">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
-<!ENTITY goOfflineCmd.accesskey "ฟ">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "แถบเมนู">
-<!ENTITY menubarCmd.accesskey "เ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
-<!ENTITY personalbarCmd.accesskey "ค">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นแท็บทั้งหมด…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "แ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
-<!ENTITY pageSourceCmd.accesskey "น">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
-<!ENTITY pageInfoCmd.accesskey "ข">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "สะท้อนแท็บ">
-<!ENTITY mirrorTabCmd.accesskey "ส">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
-<!ENTITY enterFullScreenCmd.accesskey "เ">
+<!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY exitFullScreenCmd.accesskey "เ">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
-<!ENTITY fullScreenCmd.accesskey "เ">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
-<!ENTITY showAllTabsCmd.accesskey "ม">
+<!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
-<!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
+<!ENTITY fxaUnverified.label "ยืนยันความถูกต้องบัญชีของคุณ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
 <!ENTITY fullScreenClose.tooltip "ปิด">
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
-<!ENTITY fullScreenAutohide.accesskey "ซ">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
-<!ENTITY fullScreenExit.accesskey "เ">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -139,10 +139,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "ออกจากการแสดงผลเต็มจอ (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "ออกจากการแสดงผลเต็มจอ (esc)">
-<!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
-<!ENTITY leaveDOMFullScreen.accesskey "ม">
+<!ENTITY exitDOMFullscreen.button "ออกจากภาพเต็มหน้าจอ (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "ออกจากภาพเต็มหน้าจอ (esc)">
+<!ENTITY leaveDOMFullScreen.label "ออกจากภาพเต็มหน้าจอ">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -154,10 +154,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "เอกสารชิ้นนี้ได้ควบคุมตัวชี้ของคุณ กด Esc เพื่อดึงการควบคุมคืน">
 
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
-<!ENTITY closeWindow.accesskey "ด">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
-<!ENTITY bookmarksMenu.accesskey "น">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -168,16 +168,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "ค้นหาบริการแบ่งปันเพิ่มเติม…">
 <!ENTITY sharePageCmd.label "แบ่งปันหน้านี้">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "บ">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "แบ่งปันลิงก์นี้">
-<!ENTITY shareLink.accesskey "แ">
+<!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "แบ่งปันภาพนี้">
-<!ENTITY shareImage.accesskey "บ">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "แบ่งปันที่เลือก">
-<!ENTITY shareSelect.accesskey "บ">
+<!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "แบ่งปันวิดีโอนี้">
-<!ENTITY shareVideo.accesskey "บ">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu2.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
@@ -187,12 +187,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
 <!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
-<!ENTITY showRecentlyBookmarked.accesskey "ส">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่เพิ่งคั่น">
-<!ENTITY hideRecentlyBookmarked.accesskey "อ">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
-<!ENTITY backButton.tooltip           "ย้อนกลับหนึ่งหน้า">
+<!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY forwardCmd.label             "เดินหน้า">
 <!ENTITY forwardButton.tooltip        "เดินหน้าไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
@@ -259,70 +259,70 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "เครื่องมือ">
-<!ENTITY toolsMenu.accesskey          "ค"> 
+<!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "ใส่คำสำคัญเพื่อค้นหา…">
-<!ENTITY keywordfield.accesskey       "ค">
+<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ดาวน์โหลด">
-<!ENTITY downloads.accesskey          "ด">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ส่วนเสริม">
-<!ENTITY addons.accesskey             "ส">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
-<!ENTITY webDeveloperMenu.accesskey   "พ">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
-<!ENTITY fileMenu.accesskey       "ฟ">
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "แท็บแยกตัวตนใหม่">
-<!ENTITY newUserContext.accesskey         "ย">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ม">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
-<!ENTITY newPrivateWindow.accesskey "ห">
+<!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
-<!ENTITY editMenu.accesskey       "ก"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "เลิกทำ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ล"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ทำซ้ำ">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "ซ"> 
+<!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "ตัด">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ต"> 
+<!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "คัดลอก">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ค"> 
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "วาง">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ว"> 
+<!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "ลบ">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ล"> 
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "เลือกทั้งหมด">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "ท"> 
+<!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
-<!ENTITY preferencesCmd2.accesskey     "ล">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
-<!ENTITY preferencesCmdUnix.accesskey     "ค"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "มุมมอง"> 
-<!ENTITY viewMenu.accesskey       "ม"> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ค"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
