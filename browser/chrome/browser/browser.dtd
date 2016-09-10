@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
 <!ENTITY  sendTabToDevice.accesskey          "P">
 <!ENTITY  sendPageToDevice.label             "Hantar Halaman ke Peranti">
-<!ENTITY  sendPageToDevice.accesskey         "P">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Hantar Penghubung ke Peranti">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab yang diselaraskan... lagi!">
+<!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab disync… lagi!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
@@ -581,7 +581,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Laju (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "L">
-<!ENTITY mediaPlaybackRate150x2.label "Laju (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "Lebih laju (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tab Diselaras">
 
 <!ENTITY syncedTabs.sidebar.label              "Tab Diselaras">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab di sini.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab tersebut di sini.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab yang diselaraskan... lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">

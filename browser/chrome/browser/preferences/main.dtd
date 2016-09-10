@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; adalah bukan pelayar lalai anda">
 
 <!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk berjalan pada masa yang sama">
-<!ENTITY useFirefoxSync.label             "Tip: Ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data di antara mereka.">
+<!ENTITY useFirefoxSync.label             "Tip: Ciri ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data.">
 <!ENTITY getStarted.label                 "Mula menggunakan Sync…">
 
 <!ENTITY e10sEnabled.label                "Hidupkan multi-proses &brandShortName;">

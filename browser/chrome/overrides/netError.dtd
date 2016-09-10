@@ -92,7 +92,16 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengkonfigurasi laman web mereka dengan tidak betul.  Untuk meliindungi maklumat anda daripada dicuri, &brandShortName; tidak membuat sambungan dengan laman web ini.">
 
-<!ENTITY sharedLongDesc "<ul> <li>tidak wujud buat sementara waktu atau terlalu sibuk. Cuba beberapa ketika lagi.</li> <li>Jika anda gagal memuatkan sebarang laman, periksa sambungan rangkaian komputer anda.</li> <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li> </ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Laman web tidak ada buat sementara waktu atau terlalu sibuk. Cuba lagi dalam beberapa
+    ketika.</li>
+  <li>Jika anda tidak dapat memuat sebarang halaman, semak sambungan rangkaian
+    komputer.</li>
+  <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, sila pastikan
+    bahawa &brandShortName; diberi izin mengakses Web.</li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">

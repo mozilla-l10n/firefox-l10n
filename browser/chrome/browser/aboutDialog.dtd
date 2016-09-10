@@ -43,7 +43,7 @@
 <!ENTITY helpus.donateLink          "Hulurkan sumbangan">
 <!ENTITY helpus.middle              " atau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Sertainya!">
+<!ENTITY helpus.getInvolvedLink     "sertainya!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Yang terbaru">
