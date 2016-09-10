@@ -68,17 +68,17 @@
 <!ENTITY  securityView.unknown   "Tidak diketahui">
 
 
-<!ENTITY  securityView.identity.header   "Identiti Laman web">
+<!ENTITY  securityView.identity.header   "Identiti Laman Web">
 <!ENTITY  securityView.identity.owner    "Pemilik:">
-<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.domain   "Laman Web:">
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
 
 <!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.history                  "Pernahkah saya lawati laman web ini sebelum ini?">
 <!ENTITY  securityView.privacy.cookies                  "Adakah laman web ini menyimpan maklumat (kuki) pada komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Papar Cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.passwords                "Adakah saya pernah simpan kata laluan bagi laman web ini?">
 <!ENTITY  securityView.privacy.viewPasswords            "Papar kata laluan yang telah disimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
 

@@ -233,7 +233,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Add-on berikut belum disahkan untuk digunakan dalam &brandShortName;. Anda boleh ">
+<!ENTITY disabledUnsigned.description.start "Add-ons berikut belum disahkan untuk digunakan dalam &brandShortName;. Anda boleh ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "cari pengganti">
 <!ENTITY disabledUnsigned.description.end " atau tanya pembangun untuk mengesahkannya.">
 <!ENTITY disabledUnsigned.learnMore "Ketahui lebih lanjut mengenai usaha kami untuk memastikan anda selamat dalam talian.">

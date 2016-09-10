@@ -206,7 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Lihat maklumat tapak">
+<!ENTITY urlbar.viewSiteInfo.label                      "Lihat maklumat laman">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -217,16 +217,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Mengurus maklumat log masuk anda">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Periksa sama ada anda mahu menyimpan kata laluan anda">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Mengurus plugin yang digunakan untuk halaman ini">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Menukar sama ada anda boleh menerima pemberitahuan dari laman web ini">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tukar sama ada anda boleh menerima notifikasi dari laman ini">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Mengurus perkongsian kamera dan/atau mikrofon anda dengan laman web ini">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Anda kini sedang berkongsi kamera dan/atau mikrofon dengan halaman ini.">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Mengurus perkongsian mikrofon anda dengan laman web ini">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Anda kini sedang berkongsi mikrofon dengan halaman ini.">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Mengurus perkongsian tingkap atau skrin anda dengan laman web ini">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda kini sedang berkongsi tingkap atau skrin anda dengan laman web ini">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Mengurus perkongsian kamera dan/atau mikrofon anda dengan laman ini">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Anda kini sedang berkongsi kamera dan/atau mikrofon dengan laman ini">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Uruskan perkongsian mikrofon anda dengan laman ini">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Anda kini sedang berkongsi mikrofon dengan laman ini">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Uruskan perkongsian tingkap atau skrin anda dengan laman ini">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda kini sedang berkongsi tetingkap atau skrin anda dengan laman ini">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tukar sama ada laman web ini boleh menyembunyikan penunjuk">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tukar sama ada laman ini boleh menyorokkan penunjuk">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Lihat perkhidmatan memasang mesej">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Terjemahkan halaman ini">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Mengurus terjemahan halaman">
@@ -662,7 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basic Page Style">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Tukar tetapan menghalang pop-up untuk laman sesawang ini">
+<!ENTITY pageReportIcon.tooltip            "Tukar tetapan menghalang pop-up untuk laman web ini">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -697,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 <!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
-<!ENTITY identity.connectionVerified2 "Anda disambungkan dengan selamat ke laman web ini, yang dimiliki oleh:">
+<!ENTITY identity.connectionVerified2 "Anda disambungkan dengan selamat ke laman ini, yang dimiliki oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah halaman &brandShortName; yang selamat.">
 <!ENTITY identity.insecureLoginForms2 "Login dimasukkan pada halaman ini boleh dikompromi.">
 
@@ -710,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 <!ENTITY identity.description.insecureLoginForms "Maklumat login anda masukkan pada halaman ini tidak selamat dan boleh dikompromi.">
-<!ENTITY identity.description.weakCipher "Sambungan anda ke halaman ini menggunakan enkripsi yang lemah dan bukan secara persendirian.">
+<!ENTITY identity.description.weakCipher "Sambungan anda ke laman web ini menggunakan enkripsi yang lemah dan bukan secara persendirian.">
 <!ENTITY identity.description.weakCipher2 "Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat">
 <!ENTITY identity.description.passiveLoaded "Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.">
@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
 
 <!ENTITY identity.permissions "Keizinan">
-<!ENTITY identity.permissionsEmpty "Anda tidak memberikan laman web ini sebarang keizinan khas.">
+<!ENTITY identity.permissionsEmpty "Anda tidak memberikan laman ini sebarang keizinan khas.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -834,12 +834,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingProtection.unblock.label "Nyahdayakan perlindungan pada laman ini">
 <!ENTITY trackingProtection.unblock.accesskey "L">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingProtection.unblockPrivate.label "Nyahdayakan perlindungan pada sesi ini">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "L">
 <!ENTITY trackingProtection.block2.label "Bolehkan perlindungan">
 <!ENTITY trackingProtection.block2.accesskey "B">
@@ -848,7 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Sebahagian daripada halaman yang menjejaki aktiviti dalam talian anda telah disekat.">
 <!ENTITY trackingContentBlocked.learnMore "Ketahui Lebih Lanjut">
 <!ENTITY trackingContentBlocked.options "Pilihan">
-<!ENTITY trackingContentBlocked.unblock2.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingContentBlocked.unblock2.label "Nyahdayakan perlindungan pada laman ini">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "d">
 <!ENTITY trackingContentBlocked.block.label "Bolehkan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "B">

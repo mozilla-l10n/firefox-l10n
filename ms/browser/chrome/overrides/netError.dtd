@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat menyambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Alamat ini disekat">
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
@@ -61,7 +61,7 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Sambungan diganggu">
+<!ENTITY netInterrupt.title "Sambungan terganggu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumen Luput">
@@ -105,7 +105,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
-  <li>Hubungi pentadbir rangkaian anda pelayan proksi
+  <li>Hubungi pentadbir rangkaian anda untuk memastikan pelayan proksi
     berfungsi.</li>
 </ul>
 ">
@@ -166,16 +166,16 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menyekat halaman ini daripada dipaparkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Halaman yang anda cuba lihat tidak dapat dipamer kerana ada ralat dalam transmisi data.</p><ul><li>Sila hubungi pemilik laman web ini untuk memaklumkan masalah ini.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 
-<!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman web berbahaya">
+<!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
 <!ENTITY errorReporting.learnMore "Ketahui lanjut…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memaklumkan masalah ini.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Tidak boleh bersambung dengan selamat">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -195,7 +195,10 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTime "<p>Sambungan internet yang selamat ke <span id='wrongSystemTime_URL'/> tidak berjaya kerana jam anda menunjukkan masa yang salah.</p> <p>Komputer anda mengira masa sekarang ialah <span id='wrongSystemTime_systemDate'/>, yang sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk menyelesaikan masalah ini, tukar tetapan tarikh dan masa anda untuk menyesuaikan masa yang betul.</p>">
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak selamat">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman web ini menggunakan Keselamatan pengangkutan ketat HTTP (HSTS) untuk menentukan bahawa &brandShortName; boleh sahaja menyambung kepadanya secara selamat. Hasilnya, ianya tidak mustahil untuk menambah pengecualian bagi Sijil ini.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP
+Strict Transport Security (HSTS) untuk menetapkan bahawa &brandShortName; boleh disambung
+kepadanya dengan selamat. Hasilnya, tidak mungkin boleh menambah pengecualian bagi
+sijil ini.">
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan keratan">
 
 <!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
