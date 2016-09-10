@@ -11,7 +11,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisa.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
-<!ENTITY firstrun_data_subtext2 "Desativar imagens para gastar menos dados em cada site que visita.">
+<!ENTITY firstrun_data_subtext2 "Desative as imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e muito mais em qualquer sítio que os usar.">
@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Artigos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Simplificar">
-<!ENTITY firstrun_readerview_subtext "Utilize a Vista de leitura para tornar os artigos mais fáceis de ler \u2014 mesmo offline.">
+<!ENTITY firstrun_readerview_subtext "Utilize a Vista de leitura para tornar a leitura dos artigos mais fácil \u2014 mesmo off-line.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Você">
@@ -48,7 +48,7 @@
 <!ENTITY  switch_to_tab "Mudar para o separador">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
-<!ENTITY  tab_offline_version "A mostrar versão offline">
+<!ENTITY  tab_offline_version "A mostrar a versão off-line">
 
 <!ENTITY  crash_reporter_title "Relator de falhas do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um problema e falhou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
