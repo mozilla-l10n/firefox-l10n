@@ -43,7 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Tukar keutamaan bagi cadangan enjin carian…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
+<!ENTITY  acceptCookies.label           "Terima kuki dari laman">
 <!ENTITY  acceptCookies.accesskey       "e">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">

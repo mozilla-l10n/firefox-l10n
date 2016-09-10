@@ -27,7 +27,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Permohonan Pengenalan Pengguna">
-<!ENTITY clientAuthAsk.message1 "Laman ini telah memohon anda untuk memperkenalkan diri dengan sijil:">
+<!ENTITY clientAuthAsk.message1 "Laman ini telah meminta anda untuk memperkenalkan diri dengan sijil:">
 <!ENTITY clientAuthAsk.message2 "Pilih sijil untuk dijadikan sebagai pengenalan:">
 <!ENTITY clientAuthAsk.message3 "Perincian sijil terpilih:">
 
