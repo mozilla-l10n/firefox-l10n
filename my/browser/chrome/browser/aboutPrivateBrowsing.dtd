@@ -8,9 +8,9 @@
 
 <!ENTITY privateBrowsing.title                           "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း">
 <!ENTITY privateBrowsing.title.tracking                  "ခြေရာခံကာကွယ်မှုပါဝင်သော လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "သင် သီးသန့်ဝင်းဒိုးအသုံးပြုသောအခါ၊ မီးမြေခွေး ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "သင် သီးသန့်ဝင်းဒိုးအသုံးပြုသောအခါ၊ Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "သည် မသိမ်းဆည်းပါ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        "။">
 <!ENTITY aboutPrivateBrowsing.info.visited               "ကြည့်ရှုခဲ့သည့် စာမျက်နှာများ">
 <!ENTITY aboutPrivateBrowsing.info.searches              "ရှာဖွေမှုများ">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "ကွတ်ကီးများ">

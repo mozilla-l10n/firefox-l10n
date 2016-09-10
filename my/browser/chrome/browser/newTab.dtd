@@ -1,18 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "ဝတ်စာမျက်နှာအသစ်ကြည့်မည်">
-<!ENTITY newtab.customize.classic "သင့်ရဲ့ ထိပ်တန်း ဝက်ဆိုဒ်များ">
-<!ENTITY newtab.customize.cog.enhanced "အကြံပြုထားသည့် ဆိုက်များကို ပါဝင်စေပါ">
-<!ENTITY newtab.customize.cog.title2 "စာမျက်နှာခွဲအသစ် ထိန်းချုပ်ကိရိယာများ">
-<!ENTITY newtab.customize.cog.learn "စာမျက်နှာခွဲအသစ် အကြောင်း ပိုမိုလေ့လာပါ">
-<!ENTITY newtab.customize.title "သင့် စာမျက်နှာခွဲအသစ်ကို စိတ်ကြိုက်ပြုပြင်ပါ">
-<!ENTITY newtab.customize.suggested "အကြံပြုထားသည့် ဆိုက်များနှင့် သင့် ထိပ်တန်းဆိုက်များကို ပြရန်">
-<!ENTITY newtab.customize.topsites "သင့်ရဲ့ ထိပ်တန်း ဆိုက်များ">
-<!ENTITY newtab.customize.blank2 "စာမျက်နှာ အလွတ်ကို ‌ပြပါ">
-<!ENTITY newtab.undo.removedLabel "ပုံသေး အားဖယ်ရှားပြီး">
-<!ENTITY newtab.undo.undoButton "နောက်ပြန်">
-<!ENTITY newtab.undo.restoreButton "အားလုံးပြန်ခေါ်">
-<!ENTITY newtab.undo.closeTooltip "ဖျောက်ထားပါ">
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "တပ်ဗ်အသစ်">
+<!ENTITY newtab.customize.classic "ထိပ်တန်းဝဘ်ဆိုက်များကို ပြပါ">
+<!ENTITY newtab.customize.cog.enhanced "အကြံပြုထားသည့်ဝဘ်ဆိုက်များကိုပါ ထည့်သွင်းပါ">
+<!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
+<!ENTITY newtab.customize.cog.learn "တပ်ဗ်အသစ်အကြောင်း ပိုမိုလေ့လာရန်">
+<!ENTITY newtab.customize.title "တပ်ဗ်အသစ်ကို စိတ်ကြိုက်ပြုပြင်ပါ">
+<!ENTITY newtab.customize.suggested "အကြံပြုထားသည့် ဝဘ်ဆိုက်များနှင့် ထိပ်တန်းဝဘ်ဆိုက်များကို ပြပါ">
+<!ENTITY newtab.customize.topsites "ထိပ်တန်းဝဘ်ဆိုက်များကို ပြပါ">
+<!ENTITY newtab.customize.blank2 "စာမျက်နှာအလွတ်ကို ‌ပြပါ">
+<!ENTITY newtab.undo.removedLabel "နမူနာပုံသေးကို ဖယ်ရှားပြီးပြီ။">
+<!ENTITY newtab.undo.undoButton "မလုပ်တော့ပါ">
+<!ENTITY newtab.undo.restoreButton "အားလုံးကို မူလအတိုင်း ပြန်ထားပါ">
+<!ENTITY newtab.undo.closeTooltip "မပြပါနှင့်">
