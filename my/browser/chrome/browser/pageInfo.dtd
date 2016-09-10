@@ -21,7 +21,7 @@
 <!ENTITY  generalSize           "အရွယ်အစား">
 <!ENTITY  generalReferrer       "အညွှန်း URL">
 <!ENTITY  generalSource         "ယာယီဖိုင်ရင်းမြစ်">
-<!ENTITY  generalModified       "ပြုပြင်ချက်">
+<!ENTITY  generalModified       "ပြုပြင်မွမ်းမံထားသည့်အချိန်">
 <!ENTITY  generalEncoding2      "စာသားသိမ်းဆည်းမှုစနစ်">
 <!ENTITY  generalMetaName       "အမည်">
 <!ENTITY  generalMetaContent    "အကြောင်းအရာ">

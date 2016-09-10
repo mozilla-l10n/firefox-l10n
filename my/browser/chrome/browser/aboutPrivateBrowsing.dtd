@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                           "သီးသန့်ရှာဖွေခြင်း">
-<!ENTITY privateBrowsing.title.tracking                  "ခြေရာခံကာကွယ်မှုပါဝင်သော သီးသန့်ရှာဖွေခြင်း">
+<!ENTITY privateBrowsing.title                           "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း">
+<!ENTITY privateBrowsing.title.tracking                  "ခြေရာခံကာကွယ်မှုပါဝင်သော လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "သင် သီးသန့်ဝင်းဒိုးအသုံးပြုသောအခါ၊ မီးမြေခွေး ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "သည် မသိမ်းဆည်းပါ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">

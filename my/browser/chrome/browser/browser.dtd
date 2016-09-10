@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)">
 
-<!ENTITY appmenu.tooltip                     "မီနူး ဖွင့်">
+<!ENTITY appmenu.tooltip                     "မီနူးကို ဖွင့်ရန်">
 <!ENTITY navbarOverflow.label                "အခြားတန်ဆာပလာများ…">
 
 <!-- Tab context menu -->
@@ -98,13 +98,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "စာမျက်နှာအချက်အလက်">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "တပ်ဗ်ကို ပွားရန်">
+<!ENTITY mirrorTabCmd.label "တပ်ဗ်ကို အပြိုင်ကြည့်ရန်">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "ဖန်သားပြင် အပြည့်ကြည့်ရန် ဝင်ပါ">
+<!ENTITY enterFullScreenCmd.label "မျက်နှာပြင်အပြည့်ကြည့်ရန် ဝင်ပါ">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "ဖန်သားပြင် အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
+<!ENTITY exitFullScreenCmd.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "အပြည့်ကြည့်ရန်">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; သို့ ဝင်ပါ">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; သို့ လက်မှတ်ထိုးဝင်ပါ">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ကို ပြန်လည်ချိတ်ဆက်ပါ">
 <!ENTITY fxaUnverified.label "သင့်အကောင့်ကို အတည်ပြုပါ">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "ပိတ်ပါ">
 <!ENTITY fullScreenAutohide.label "ကိရိယာအတန်းများကို ဖျောက်ပါ">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "ဖန်သားပြင် အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
+<!ENTITY fullScreenExit.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "မြင်ကွင်းအပြည့် ကြည့်ရှုခြင်းမှ ထွက်ရန် (ESC) ခလုတ် ကိုနိုပ်ပါ။">
 <!ENTITY exitDOMFullscreenMac.button "မြင်ကွင်းအပြည့် ကြည့်ရှုခြင်းမှ ထွက်ရန် (ESC) ခလုတ် ကိုနိုပ်ပါ။">
-<!ENTITY leaveDOMFullScreen.label "ဖန်သားပြင် အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
+<!ENTITY leaveDOMFullScreen.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -174,14 +174,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "s">
 <!ENTITY shareImage.label "ပုံကို မျှဝေပါ">
 <!ENTITY shareImage.accesskey "s">
-<!ENTITY shareSelect.label "ရွေးထားသောစာကို မျှဝေပါ">
+<!ENTITY shareSelect.label "ရွေးထားသောစာကို မျှဝေရန်">
 <!ENTITY shareSelect.accesskey "S">
-<!ENTITY shareVideo.label "ဤဗီဒီယိုကို မျှဝေမည်">
+<!ENTITY shareVideo.label "ဤဗီဒီယိုကို မျှဝေရန်">
 <!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu2.label "ဒီစာမျက်နှာမှ ပုံမှန်သတင်း ရယူရန်">
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှ ပုံမှန်သတင်း ရယူရန်">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
-<!ENTITY addCurPagesCmd.label "စာအမှတ် အားလုံးကို မှတ်သားပါ...">
+<!ENTITY addCurPagesCmd.label "တပ်ဗ်အားလုံးကို မှတ်သားပါ...">
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
 <!ENTITY recentBookmarks.label "မကြာသေးမီက မှတ်သားထားသောဝဘ်စာမျက်နှာများ">
 <!ENTITY otherBookmarksCmd.label "အခြား မှတ်သားချက်များ">
@@ -191,13 +191,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.label     "လတ်တလော မှတ်ထားသည်များကို ခေတ္တ ပိတ်ပါ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
-<!ENTITY backCmd.label                "နောက်">
+<!ENTITY backCmd.label                "နောက်သို့">
 <!ENTITY backButton.tooltip           "တစ်မျက်နှာ နောက်ဆုတ်ပါ">
-<!ENTITY forwardCmd.label             "ရှေ့">
+<!ENTITY forwardCmd.label             "ရှေ့သို့">
 <!ENTITY forwardButton.tooltip        "တစ်မျက်နှာ ရှေ့သွားပါ">
 <!ENTITY backForwardButtonMenu.tooltip "မှတ်တမ်းကို ပြသရန် ညာဘက်ကလစ် သို့မဟုတ် ကလစ်ဖိဆွဲချပါ။">
 <!ENTITY backForwardButtonMenuMac.tooltip "မှတ်တမ်းကို ပြသရန် ကလစ်ဖိဆွဲချပါ။">
-<!ENTITY reloadCmd.label              "ပြန်ဖွင့်">
+<!ENTITY reloadCmd.label              "ပြန်ဖွင့်ပါ">
 <!ENTITY reloadButton.tooltip         "လက်ရှိစာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
 <!ENTITY stopCmd.label                "ရပ်">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "အသိပေးချက် ကြည့်ရန်">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "အသိပေးချက်ကို ကြည့်ရန်">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "တည်နေရာတောင်းဆိုမှုကို ကြည့်ရန်">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "အတ်အွန်တပ်ဆင်မှု သတင်းကို ကြည့်ရန်">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "အက်ပ်၏ ကွန်ယက်မဲ့ သိမ်းဆည်းမှု သတင်းကို ကြည့်ရန်">
@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "စာမျက်နှာစုစည်းမှု အသစ်">
+<!ENTITY newUserContext.label             "ကွန်တိန်နာတပ်ဗ်အသစ်">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY newNavigatorCmd.label        "ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -317,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "နှစ်သက်ရာအပြင်အဆင်များ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "လတ်တလောသုံးထားသည့် မှတ်တမ်းကို ရှင်းမည်…">
+<!ENTITY clearRecentHistory.label               "လတ်တလောမှတ်တမ်းကို ရှင်းမည်…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -391,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "ထိုစာမျက်နှာသို့ ပြောင်းကြည့်မည်">
+<!ENTITY urlbar.switchToTab.label     "ထိုတပ်ဗ်သို့ ပြောင်းကြည့်မည်">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "ရှာဖွေမှုကို ပိုမိုလုပ်ဆောင်နိုင်စေရန် အကြံပြုချက်နှင့် တွဲဖက် အသုံးပြုလိုပါသလား။">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ပိုမိုလေ့လာရန်…">
@@ -435,7 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "ရှာဖွေလိုသောအရာ ">
-<!ENTITY searchWith.label             " အတူ။">
+<!ENTITY searchWith.label             " အတူ">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -456,12 +456,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ရှာဖွေရေး အပြင်အဆင်များကို ပြောင်းလဲရန်">
 
-<!ENTITY searchInNewTab.label         "စာမျက်နှာ အသစ်တွင် ရှာရန်">
+<!ENTITY searchInNewTab.label         "တပ်ဗ်အသစ်တွင် ရှာရန်">
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "ပုံသေရှာဖွေရေးယန္တရားအဖြစ် သတ်မှတ်ပါ">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "လင့်ခ်ကို စာမျက်နှာအသစ်တွင် ဖွင့်ပါ">
+<!ENTITY openLinkCmdInTab.label       "လင့်ခ်ကို တပ်ဗ်အသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "လင့်ခ်ကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -469,7 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "လင့်ခ်ကို ဖွင့်ပါ">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "ဘောင်ကို စာမျက်နှာအသစ်တွင် ဖွင့်ပါ">
+<!ENTITY openFrameCmdInTab.label      "ဘောင်ကို တပ်ဗ်အသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ဘောင်ကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
@@ -481,7 +481,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "ဘောင်ကို ပြန်ဖွင့်ပါ">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ရွေးချယ်မှုအရင်းအမြစ်ကို ကြည့်ရန်">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML အရင်းအမြစ်ကို ကြည့်ရန်">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ရင်းမြစ်ကုဒ်ကို ကြည့်ရန်">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -505,7 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "နောက်ခံရုပ်ပုံကို ကြည့်ရန်">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "နောက်ခံပုံအဖြစ် သတ်မှတ်ရန်...">
+<!ENTITY setDesktopBackgroundCmd.label      "နောက်ခံရုပ်ပုံအဖြစ် သတ်မှတ်ရန်...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ဒီစာမျက်နှာကို မှတ်သားပါ">
 <!ENTITY bookmarkThisLinkCmd.label      "ဒီလင့်ခ်ကို မှတ်သားပါ">
@@ -564,7 +564,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "ဖွင့်ပါ">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "ခေတ္တရပ်">
+<!ENTITY mediaPause.label            "ခေတ္တရပ်ပါ">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
@@ -626,7 +626,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "မူလအတိုင်း">
+<!ENTITY fullZoomResetCmd.label         "မူလအတိုင်း ပြန်သတ်မှတ်ရန်">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">

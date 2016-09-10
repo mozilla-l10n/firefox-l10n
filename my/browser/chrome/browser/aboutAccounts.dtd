@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; မှ ကြိုဆိုပါသည်">
-<!ENTITY aboutAccounts.connected "ချိတ်ဆက်ထားသည့် အကောင့်">
+<!ENTITY aboutAccounts.connected "အကောင့်နှင့် ချိတ်ဆက်ထားသည်">
 
-<!ENTITY aboutAccountsConfig.description "သင့် tab များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားတို့ကို တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
-<!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမယ်">
+<!ENTITY aboutAccountsConfig.description "သင့် တပ်ဗ်များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားတို့ကို တစ်ပြေးညီဖြစ်စေရန် လက်မှတ်ထိုးဝင်ရောက်ပါ။">
+<!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမည်">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Sync ဝန်ဆောင်မှုအဟောင်းကို အသုံးပြုနေပါသလား။">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "အပြင်အဆင်များကို တပြေးညီလုပ်ရန်">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "နှစ်သက်ရာအပြင်အဆင်များကို တစ်ပြေးညီလုပ်ရန်">
 <!ENTITY aboutAccounts.noConnection.title "ချိတ်ဆက်မှု မရှိပါ">
-<!ENTITY aboutAccounts.noConnection.description "ဝင်ရောက်ရန် အင်တာနက်သို့ ချိတ်ဆက်ထားရပါမည်။">
+<!ENTITY aboutAccounts.noConnection.description "လက်မှတ်ထိုးဝင်ရောက်ရန် အင်တာနက်နှင့် ချိတ်ဆက်ထားရပါမည်။">
 <!ENTITY aboutAccounts.noConnection.retry "နောက်တစ်ကြိမ် ပြုလုပ်ကြည့်ပါ">

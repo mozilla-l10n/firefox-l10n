@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  brandShorterName      "မီးမြေခွေး">
-<!ENTITY  brandShortName        "မီးမြေခွေး">
-<!ENTITY  brandFullName         "မော်ဇီလာမီးမြေခွေး">
-<!ENTITY  vendorShortName       "မော်ဇီလာ">
-<!ENTITY  trademarkInfo.part1   "မီးမြေခွေးနှင့် မီးမြေခွေးလိုဂိုတို့သည် မော်ဇီလာဖောင်ဒေးရှင်း၏ မူပိုင်အမှတ်တံဆိပ်များဖြစ်သည်။">
+<!ENTITY  brandShorterName      "Firefox">
+<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "Firefox နှင့် Firefox လိုဂိုတို့သည် Mozilla ဖောင်ဒေးရှင်း၏ မူပိုင်အမှတ်တံဆိပ်များဖြစ်သည်။">
