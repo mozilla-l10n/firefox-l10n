@@ -114,11 +114,11 @@
 <!ENTITY view.accesskey           "L">
 <!ENTITY byDate.label             "Secara Tarikh">
 <!ENTITY byDate.accesskey         "S">
-<!ENTITY bySite.label             "Secara Laman">
+<!ENTITY bySite.label             "Mengikut Laman">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Secara Paling Banyak Dilayari">
-<!ENTITY byMostVisited.accesskey  "S">
-<!ENTITY byLastVisited.label      "Secara Tarikh akhir Pelayaran">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Secara Tarikh dan Laman">
-<!ENTITY byDayAndSite.accesskey   "T">
+<!ENTITY byMostVisited.label      "Mengikut Paling Banyak Dilayari">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Mengikut Pelayaran Terakhir">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "Mengikut Tarikh dan Laman">
+<!ENTITY byDayAndSite.accesskey   "t">

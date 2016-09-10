@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Enjin Carian">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 
-<!ENTITY offlineNotify.label             "Beritahu saya apabila laman ini menanyakan untuk simpan data ke kegunaan luar talian">
+<!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketia luar talian">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "e">

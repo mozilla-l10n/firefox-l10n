@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "Tambah Pengecualian Keselamatan">
 <!ENTITY exceptionMgr.exceptionButton.label   "Sahkan Pengecualian Keselamatan">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "c">
-<!ENTITY exceptionMgr.supplementalWarning     "Bank, kedai dan laman web awam yang sah tidak akan meminta anda untuk melakukan ini.">
+<!ENTITY exceptionMgr.supplementalWarning     "Bank, kedai dan laman awam yang sah tidak akan meminta anda untuk melakukan ini.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Pelayan">
 <!ENTITY exceptionMgr.certlocation.url        "Lokasi:">
 <!ENTITY exceptionMgr.certlocation.download   "Mendapatkan sijil">
