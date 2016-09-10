@@ -10,22 +10,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "...को श्रोत ">
+<!ENTITY mainWindow.preface "को श्रोत: ">
 
 <!ENTITY fileMenu.label "फाइल">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "पृष्ठलाई यसरि सङ्ग्रह गर्नुहोस्...">
+<!ENTITY savePageCmd.label "पृष्ठलाई यसरि सङ्ग्रह गर्नुहोस्…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-
-
+<!ENTITY pageSetupCmd.label "पृष्ठ सेटअप…">
+<!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "मुद्रण पूर्वावलोकन">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Pring...">
+<!ENTITY printCmd.label "प्रिन्ट...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-
-
+<!ENTITY closeCmd.label "बन्द गर्नुहोस्">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -36,13 +36,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
-<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textEnlarge.commandkey3 "‌">
 <!ENTITY textReduce.commandkey "-">
-<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReduce.commandkey2 "‌">
 <!ENTITY textReset.commandkey "0">
-<!ENTITY textReset.commandkey2 "">
+<!ENTITY textReset.commandkey2 "‌">
 
-
+<!ENTITY goToLineCmd.label "हरफमा जानुहोस्…">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "दृश्य">
@@ -54,22 +55,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "वाक्यसंरचना हाइलाइटिङ">
 <!ENTITY menu_highlightSyntax.accesskey "H">
-
-
-
-
-
-
+<!ENTITY menu_textSize.label "पाठ आकार">
+<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textEnlarge.label "बढाउनुहोस्">
+<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textReduce.label "घटाउनुहोस्">
+<!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "सामान्य">
 <!ENTITY menu_textReset.accesskey "N">
 
-
+<!ENTITY findOnCmd.label     "यो पृष्ठमा फेला पार्नुहोस्…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "फेरि फेला पार्नुहोस्">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "पछाडि">
 <!ENTITY backCmd.accesskey "B">
@@ -78,6 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-
+<!ENTITY copyLinkCmd.label "लिङ्कको स्थान नकल गर्नुहोस्">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "इमेल ठेगाना प्रतिलिपि गर्नुहोस्">
 <!ENTITY copyEmailCmd.accesskey "E">
