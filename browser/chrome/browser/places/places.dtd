@@ -89,7 +89,7 @@
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Modificado">
 
-<!ENTITY search.label                              "Localizar:">
+<!ENTITY search.label                              "Pesquisar:">
 <!ENTITY search.accesskey                          "z">
 
 <!ENTITY cmd.find.key  "F">
