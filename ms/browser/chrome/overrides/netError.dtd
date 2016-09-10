@@ -19,7 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Periksa alamat kerana kesilapan menaip seperti <strong>ww</strong>.example.com sebaliknya <strong>www</strong>.example.com</li> <li>Jika anda gagal memuatkan sebarang laman, periksa rangkaian komputer  anda</li> <li>Jika komputer atau rangkaian anda dilindungi oleh firewall atau proksi, pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Semak ralat menaip alamat seperti contohnya
+    <strong>ww</strong>.example.com bukannya
+    <strong>www</strong>.example.com</li>
+  <li>Jika anda tidak dapat memuat sebarang halaman, semak sambungan rangkaian
+    komputer.</li>
+  <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, sila pastikan
+    bahawa &brandShortName; di beri izin mengakses Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">

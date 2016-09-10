@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Pelayaran Peribadi">
 <!ENTITY privateBrowsing.title.tracking                  "Pelayaran Peribadi dengan Perlindungan Penjejakan">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Apabila anda belayar dalam Tetingkap Peribadi, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Apabila anda melayar dalam Tetingkap Peribadi, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "tidak menyimpan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "halaman yang dilawati">
@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Pelayaran Peribadi">
 
 <!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
-<!ENTITY trackingProtection.description2                 "Beberapa laman web menggunakan pengesan yang boleh memantau aktiviti anda di Internet. Dengan Perlindungan Penjejakan Firefox akan menyekat banyak pengesan yang boleh mengumpul maklumat mengenai tingkah laku pelayaran anda.">
+<!ENTITY trackingProtection.description2                 "Ada laman web menggunakan pengesan yang boleh memantau aktiviti anda di Internet. Dengan Perlindungan Penjejakan, Firefox akan menyekat banyak jenis pengesan yang boleh mengumpul maklumat tingkah laku pelayaran anda.">
 <!ENTITY trackingProtection.startTour1                   "Ketahui cara ia berfungsi">
