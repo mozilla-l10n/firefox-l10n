@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Tubuhkan &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua alat.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua peranti.">
 
 <!-- The page shown when logged in... -->
 
@@ -18,7 +18,7 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword2.label        "Menukar Katalaluan…">
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
-<!ENTITY resetSync2.label             "Melaras semula Sync…">
+<!ENTITY resetSync2.label             "Reset Sync…">
 
 <!ENTITY pairDevice.label             "Memasangkan Peranti">
 
@@ -105,4 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " untuk segerakkan dengan peranti mudah alih anda.">
+<!ENTITY mobilePromo3.end              " untuk sync dengan peranti mudah alih anda.">
