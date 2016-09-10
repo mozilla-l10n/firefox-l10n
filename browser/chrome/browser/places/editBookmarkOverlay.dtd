@@ -9,7 +9,7 @@
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Lokasi Suapan:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "L">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasi Laman:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Pamer semua folder tandabuku">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sembunyi">

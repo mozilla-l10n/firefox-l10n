@@ -12,7 +12,7 @@
 
 <!ENTITY certmgr.mine                         "Anda memiliki sijil daripada organisasi ini yang mengenali anda:">
 <!ENTITY certmgr.others                       "Anda memiliki sijil pada fail yang mengenal orang ini:">
-<!ENTITY certmgr.websites2                    "Anda ada sijil pada fail yang mengenal pasti pelayar ini:">
+<!ENTITY certmgr.websites2                    "Anda ada sijil pada fail yang mengenal pasti pelayan ini:">
 <!ENTITY certmgr.cas                          "Anda memiliki sijil pada fail yang mengenal autoriti sijil ini:">
 <!ENTITY certmgr.orphans                      "Anda mempunyai sijil pada fail yang tidak sesuai dalam mana-mana katogori:">
 
