@@ -131,7 +131,7 @@
 <!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Semat untuk memastikan sistem anda ada Pengurus Keselamatan Peribadi
+  <li>Semak untuk memastikan sistem anda ada Pengurus Keselamatan Peribadi
     yang dipasang.</li>
   <li>Masalah ini mungkin kerana konfigurasi non-standard pada pelayan.</li>
 </ul>

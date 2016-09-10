@@ -1,37 +1,37 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Values for changepassword.xul -->
 
+<!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Tukar Kata laluan Induk">
 <!ENTITY setPassword.tokenName.label "Peranti Sekuriti">
 <!ENTITY setPassword.oldPassword.label "Katalaluan semasa:">
 <!ENTITY setPassword.newPassword.label "Katalalan baru:">
 <!ENTITY setPassword.reenterPassword.label "Katalaluan baru (lagi):">
 <!ENTITY setPassword.meter.label "Meter kualiti katalaluan">
-<!-- Values for resetpassword.xul -->
 
+<!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Ulang tetap">
 <!ENTITY resetPassword.title  "Ulang tetap Katalaluan Induk">
 <!ENTITY resetPassword.text  "Jika anda ulang tetap katalaluan induk, semua katalaluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kuni peribadi akan dilupakan. Adakah anda pasti untuk mengulangtetap katalaluan induk anda?">
-<!-- Downloading a cert -->
 
+<!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Memuaturun Sijil">
 <!ENTITY downloadCert.message1 "Anda telah ditanya untuk percayakan Autoriti Siil (CA) baru.">
-<!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
+<!ENTITY downloadCert.trustSSL "Percayai CA ini untuk mengenal pasti laman web.">
 <!ENTITY downloadCert.trustEmail "Percayakan CA ini untuk mengenali pengguna emel.">
 <!ENTITY downloadCert.trustObjSign "Percayakan CA ini untuk mengenali pembangun perisian.">
 <!ENTITY downloadCert.message3 "Sebelum mempercayai CA ini untuk sebarang kegunaan, anda perlu memeriksa sijilnya dan polisi dan prosedurnya (jika ada).">
 <!ENTITY downloadCert.viewCert.label "Lihat">
 <!ENTITY downloadCert.viewCert.text "Periksa sijil CA">
-<!-- Strings for the SSL client auth ask dialog -->
 
+<!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Permohonan Pengenalan Pengguna">
 <!ENTITY clientAuthAsk.message1 "Laman ini telah memohon anda untuk memperkenalkan diri dengan sijil:">
 <!ENTITY clientAuthAsk.message2 "Pilih sijil untuk dijadikan sebagai pengenalan:">
 <!ENTITY clientAuthAsk.message3 "Perincian sijil terpilih:">
-<!-- Strings for the cert picker dialog -->
 
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Pilih Sijil">
 <!ENTITY certPicker.info  "Sijil:">
 <!ENTITY certPicker.detailsLabel "Perincian sijil terpilih:">
@@ -44,13 +44,13 @@
 
 <!ENTITY chooseToken.title  "Dialog Pilih Token">
 <!ENTITY chooseToken.message1 "Sila pilih token.">
-<!-- Strings for the CreateCertInfo dialog  -->
 
+<!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Menjana Kucni Peribadi">
 <!ENTITY createCertInfo.msg1 "Penjanaan Kunci sedang dilakukan... Ini akan mengambil sedikit masa...">
 <!ENTITY createCertInfo.msg2 "Sila tunggu...">
-<!-- Strings for protectedAuth dialog -->
 
+<!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Token pengesahan dilindungi">
 <!ENTITY protectedAuth.msg "Sila buat pengesahan kepada token. Kaedah pengesahan adalah bergantung kepada jenis token anda.">
 <!ENTITY protectedAuth.tokenName.label "Token:">

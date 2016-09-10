@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelayaran web, muat turun, borang dan carian anda, dan menyimpan kuki daripada laman-laman web yang anda lawati.">
+<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelayaran web, muat turun, borang dan carian anda, dan menyimpan kuki daripada laman web yang anda pernah lawati.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

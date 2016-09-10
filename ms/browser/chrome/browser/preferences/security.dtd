@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Umum">
 
-<!ENTITY  warnAddonInstall.label        "Beri amaran kepada saya apabila laman cuba melencong atau memuatkan halaman">
+<!ENTITY  warnAddonInstall.label        "Beri amaran apabila laman web cuba memasang add-ons">
 <!ENTITY  warnAddonInstall.accesskey    "a">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Log masuk">
 
-<!ENTITY  rememberLogins.label          "Ingat log masuk untuk laman ini">
+<!ENTITY  rememberLogins.label          "Ingat log masuk untuk laman web ini">
 <!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "e">

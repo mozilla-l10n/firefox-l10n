@@ -13,11 +13,11 @@
 <!ENTITY removeAllLanguages.label         "Singkir Semua Bahasa">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Terjemahan tidak akan ditawarkan kepada tapak berikut:">
-<!ENTITY treehead.siteName.label          "Tapak">
+<!ENTITY noTranslationForSites.label      "Terjemahan tidak akan ditawarkan kepada laman web berikut:">
+<!ENTITY treehead.siteName.label          "Laman web">
 <!ENTITY removeSite.label                 "Singkir Tapak Laman">
 <!ENTITY removeSite.accesskey             "S">
-<!ENTITY removeAllSites.label             "Singkir Semua Tapak Laman">
+<!ENTITY removeAllSites.label             "Singkir Semua Laman Web">
 <!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Tutup">
