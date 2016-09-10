@@ -7,9 +7,9 @@
 
 <!ENTITY treehead.sitename.label      "Laman">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Singkir Laman">
+<!ENTITY removepermission.label       "Alih keluar Laman">
 <!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Alih keluar Semua Laman web">
+<!ENTITY removeallpermissions.label   "Alih keluar Semua Laman">
 <!ENTITY removeallpermissions.accesskey "i">
 <!ENTITY address.label                "Alamat laman web:">
 <!ENTITY address.accesskey            "l">
