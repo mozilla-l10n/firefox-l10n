@@ -73,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "କ୍ଷେତ୍ର ମୂଲ୍ୟ">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "ସାର୍ଟିଫିକେଟ କ୍ରମ">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ବ୍ୟତିକ୍ରମ ଯୋଗକରନ୍ତୁ…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
