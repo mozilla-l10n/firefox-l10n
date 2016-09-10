@@ -71,6 +71,10 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> <li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
+<!ENTITY securityOverride.warningContent "
+<p>Anda tidak perlu menambah pengecualian jika anda menggunakan sambungan internet yang awda tidak mempercayai sepenuhnya atau jika anda tidak biasa melihat amaran untuk pelayan ini.</p>
+<p>Jika anda masih ingin menambah pengecualian bagi laman web ini, anda boleh berbuat demikian di seting penyulitan maju.</p>
+">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>Pelayar menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
@@ -81,6 +85,7 @@
 <!ENTITY remoteXUL.title "Capaian jauh XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang sudah usang dan terdedah kepada serangan. Penyerang boleh mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaik pulih pelayan terlebih dulu sebelum anda boleh melawat laman web ini. </p><p> Kod ralat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

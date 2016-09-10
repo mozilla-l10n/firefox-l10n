@@ -135,6 +135,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Sisip URLs">
 <!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
@@ -229,10 +230,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+<!ENTITY netmonitorUI.security.cipherSuite "Cipher suite:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
-<!ENTITY netmonitorUI.security.hsts "Strict Transport Security HTTP:">
+<!ENTITY netmonitorUI.security.hsts "HTTP Strict Transport Security:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
@@ -323,6 +325,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
+<!ENTITY netmonitorUI.context.saveAllAsHar "Simpan Semua sebagai HAR">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->

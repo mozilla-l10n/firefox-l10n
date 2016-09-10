@@ -36,7 +36,9 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Maklumat Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Keutamaan Peranti">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
@@ -51,9 +53,11 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Zum Keluar">
 <!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Set semula Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Buka App">
+<!ENTITY runtimeButton_label "Pilih Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -72,6 +76,7 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Projek Saya">
 <!ENTITY projectPanel_runtimeApps "Aplikasi Runtime">
 <!ENTITY projectPanel_tabs "Tab">
 <!ENTITY runtimePanel_usb "Peranti USB">
@@ -79,6 +84,7 @@
 <!ENTITY runtimePanel_simulator "Pensimulasi">
 <!ENTITY runtimePanel_other "Lain-lain">
 <!ENTITY runtimePanel_installsimulator "Pasang Simulasi">
+<!ENTITY runtimePanel_noadbhelper "Pasangkan Pembantu ADB">
 <!ENTITY runtimePanel_nousbdevice "Tidak nampak peranti anda?">
 <!ENTITY runtimePanel_refreshDevices_label "Muat Semula Peranti">
 
@@ -88,6 +94,7 @@
 <!ENTITY details_error_header "ralat">
 <!ENTITY details_description "Huraian">
 <!ENTITY details_location "Lokasi">
+<!ENTITY details_manifestURL "ID App">
 <!ENTITY details_removeProject_button "Buang Projek">
 <!ENTITY details_showPrepackageLog_button "Tunjuk Log Pra-pakej">
 
@@ -118,6 +125,7 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Sambung semula projek sebelum ini apabila WebIDE bermula">
 <!ENTITY prefs_options_templatesurl "Templat URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks template yang disediakan">
+<!ENTITY prefs_options_showeditor "Pamerkan editor">
 <!ENTITY prefs_options_showeditor_tooltip "Tunjukkan editor dalaman">
 <!ENTITY prefs_options_tabsize "Saiz tab">
 <!ENTITY prefs_options_expandtab "Soft tabs">
@@ -138,6 +146,7 @@
 <!ENTITY permissionstable_name_header "Nama">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Maklumat Runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB ialah root: ">
 <!ENTITY runtimedetails_summonADBRoot "root peranti">
 <!ENTITY runtimedetails_ADBRootWarning "(perlukan bootloader yang tidak berkunci)">
@@ -193,6 +202,7 @@
 <!ENTITY logs_title "Log Arahan Pra-pakej">
 
 <!-- Simulator Options -->
+<!ENTITY simulator_title "Tetapan Pensimulasi">
 <!ENTITY simulator_remove "Hapuskan Simulator">
 <!ENTITY simulator_reset "Pulihkan kepada lalai">
 <!ENTITY simulator_name "Nama">
