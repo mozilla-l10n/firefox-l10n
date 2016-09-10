@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ဘောင်ကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "လင့်ခ်ကို စာမျက်နှာအစုတွင် ဖွင့်ပါ">
+<!ENTITY openLinkCmdInContainerTab.label "လင့်ခ်ကို ကွန်တိန်နာတပ်ဗ်အသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "ဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "မိုက္ကရိုဖုန်းကို မျှဝေအသုံးပြုမည်">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "လက်ရှိ စာမျက်နှာမှ အော်ဒီယိုကို မျှဝေပါမည်။">
+<!ENTITY getUserMedia.audioCapture.label "ဒီတပ်ဗ်မှ အော်ဒီယိုကို မျှဝေအသုံးပြုပါမည်။">
 <!ENTITY getUserMedia.allWindowsShared.message "သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။">
 
 <!ENTITY trackingProtection.title "ခြေရာခံခြင်း ကာကွယ်မှု">
@@ -890,7 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "ဆက်လက် ဆောင်ရွက်ပါမည်။">
 <!ENTITY panicButton.view.deleteCookies           "မကြာသေးမီ အသုံးပြုထားသည့် <html:strong>ကွက်ကီးများ</html:strong>ကို ဖျက်ရန်">
 <!ENTITY panicButton.view.deleteHistory           "မကြာသေးမီက <html:strong>မှတ်တမ်း</html:strong>ကို ဖျက်ရန်">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>စာမျက်နှာများ</html:strong> နှင့် <html:strong>ဝင်းဒိုးများ</html:strong>အားလုံးကို ပိတ်ပါ">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>တပ်ဗ်များ</html:strong> နှင့် <html:strong>ဝင်းဒိုးများ</html:strong>အားလုံးကို ပိတ်ပါ">
 <!ENTITY panicButton.view.openNewWindow           "ရှင်းလင်းသည့် ဝင်းဒိုးအသစ်တစ်ခုကို ဖွင့်ပါ">
 
 <!ENTITY panicButton.view.undoWarning             "ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။">
