@@ -324,14 +324,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.label         "มุมมอง"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ค"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
-<!ENTITY viewSidebarMenu.accesskey "ง">
+<!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "ป">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "ประวัติ">
-<!ENTITY historyMenu.accesskey "ป">
+<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
@@ -369,24 +369,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
-<!ENTITY customizeMenu.addToToolbar.accesskey "พ">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "เพิ่มไปยังเมนู">
-<!ENTITY customizeMenu.addToPanel.accesskey "ม">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ย้ายไปยังแถบเครื่องมือ">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "ย">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ย้ายไปยังเมนู">
-<!ENTITY customizeMenu.moveToPanel.accesskey "ป">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "เอาออกจากแถบเครื่องมือ">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "อ">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "เอาออกจากเมนู">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "จ">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "เพิ่มรายการเพิ่มเติม…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "เ">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
@@ -457,26 +457,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "เปลี่ยนการตั้งค่าการค้นหา">
 
 <!ENTITY searchInNewTab.label         "ค้นหาในแท็บใหม่">
-<!ENTITY searchInNewTab.accesskey     "แ">
+<!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาปริยาย">
-<!ENTITY searchSetAsDefault.accesskey "ป">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
-<!ENTITY openLinkCmdInTab.accesskey   "ท">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
-<!ENTITY openLinkCmd.accesskey        "น">
+<!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างส่วนตัวใหม่">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "น">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
-<!ENTITY openLinkCmdInCurrent.accesskey "ล">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "เปิดกรอบในแท็บใหม่">
-<!ENTITY openFrameCmdInTab.accesskey  "ท">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
-<!ENTITY openFrameCmd.accesskey       "น">
+<!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
-<!ENTITY showOnlyThisFrameCmd.accesskey "ส">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
 <!ENTITY reloadFrameCmd.accesskey     "ห">
@@ -860,7 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "ม">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "อนุญาตสำหรับครั้งนี้">
+<!ENTITY pluginActivateNow.label "อนุญาตตอนนี้">
 <!ENTITY pluginActivateAlways.label "อนุญาตและจดจำ">
 <!ENTITY pluginBlockNow.label "ปิดกั้นโปรแกรมเสริม">
 
