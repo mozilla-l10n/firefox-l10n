@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
+<!ENTITY syncKey.page.title               "Kekunci &syncBrand.fullName.label; Anda">
 <!ENTITY syncKey.page.description2        "Kekunci ini digunakan untuk mengenyahkod data dalam akaun &syncBrand.fullName.label; anda. Anda perlu masukkan kekunci setiap kali anda menukar &syncBrand.fullName.label; pada peranti baru.">
 <!ENTITY syncKey.keepItSecret.heading     "Dijaga rahsia">
 <!ENTITY syncKey.keepItSecret.description "Akaun &syncBrand.fullName.label; anda telah disulitkan untuk melindungi privasi anda. Tanpa kunci ini, ia akan mengambil bertahun-tahun untuk sesiapa untuk mendapatkan maklumat peribadi anda. Hanya kamu yang memegang kunci ini. Ini bermakna hanya kamu yang dapat akses ke data &syncBrand.fullName.label; anda.">

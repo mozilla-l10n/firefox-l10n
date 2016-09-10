@@ -8,12 +8,12 @@
 <!ENTITY syncCustomize.title              "Apakah yang anda ingin sync?">
 <!ENTITY syncCustomize.description        "Anda boleh menukar pemilihan dalam Pilihan.">
 <!ENTITY syncCustomizeUnix.description    "Anda boleh menukar pemilihan dalam Keutamaan.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
-<!ENTITY engine.bookmarks.label           "Penandabuku">
+<!ENTITY engine.bookmarks.label           "Tanda buku">
 <!ENTITY engine.bookmarks.accesskey       "P">
 <!ENTITY engine.history.label             "Sejarah">
 <!ENTITY engine.history.accesskey         "r">

@@ -30,7 +30,7 @@
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Nyahsambung">
+<!ENTITY runtimeMenu_disconnect_label "Terputus">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
