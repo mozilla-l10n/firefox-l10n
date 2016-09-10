@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "เปลี่ยนรหัสผ่านหลัก">
-<!ENTITY setPassword.tokenName.label "กลไกความปลอดภัย">
+<!ENTITY setPassword.tokenName.label "อุปกรณ์ความปลอดภัย">
 <!ENTITY setPassword.oldPassword.label "รหัสผ่านปัจจุบัน:">
 <!ENTITY setPassword.newPassword.label "รหัสผ่านใหม่:">
 <!ENTITY setPassword.reenterPassword.label "รหัสผ่านใหม่ (อีกครั้ง):">

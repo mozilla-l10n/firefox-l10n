@@ -58,10 +58,10 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "บ">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "เชื่อมโยงอุปกรณ์">
+<!ENTITY pairDevice.title.label             "จับคู่อุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
 <!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
-<!ENTITY pairDevice.setup.description.label  "เปิดการใช้งานโดยเลือก &quot;เชื่อมโยงอุปกรณ์&quot; จากอุปกรณ์ของคุณ">
+<!ENTITY pairDevice.setup.description.label  "เพื่อเปิดใช้งาน เลือก &#x0022;จับคู่อุปกรณ์&#x0022; บนอุปกรณ์อื่นของคุณ">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
 <!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &quot;ติดตั้ง Sync&quot; บนอุปกรณ์ของคุณ">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ลงชื่อเข้า">
 <!ENTITY existingRecoveryKey.description "คุณสามารถคัดลอกกุญแจกู้ข้อมูลโดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ และเลือก  &quot;กุญแจกู้ข้อมูลของฉัน&quot; ภายใต้ &quot;จัดการบัญชี&quot;">
-<!ENTITY verifying.label              "กำลังตรวจสอบ…">
+<!ENTITY verifying.label              "กำลังยืนยันความถูกต้อง…">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
 <!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์ชิ้นอื่นหาย">
 

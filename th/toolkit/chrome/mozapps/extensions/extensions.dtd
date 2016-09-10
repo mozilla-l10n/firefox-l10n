@@ -179,8 +179,8 @@
 <!ENTITY search.filter2.available.tooltip     "แสดงส่วนเสริมที่พร้อมรอติดตั้ง">
 
 <!ENTITY addon.homepage                       "หน้าแรก">
-<!ENTITY addon.details.label                  "รายละเอียด">
-<!ENTITY addon.details.tooltip                "แสดงรายละเอียดเพิ่มเติมสำหรับส่วนเสริมนี้">
+<!ENTITY addon.details.label                  "เพิ่มเติม">
+<!ENTITY addon.details.tooltip                "แสดงรายละเอียดเพิ่มเติมเกี่ยวกับส่วนเสริมนี้">
 <!ENTITY addon.unknownDate                    "ไม่ทราบ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

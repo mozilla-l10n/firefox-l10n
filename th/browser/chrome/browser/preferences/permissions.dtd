@@ -9,7 +9,7 @@
 <!ENTITY treehead.status.label        "สถานะ">
 <!ENTITY removepermission.label       "เอาไซต์ออก">
 <!ENTITY removepermission.accesskey   "เ">
-<!ENTITY removeallpermissions.label   "เอาไซต์ออกทั้งหมด">
+<!ENTITY removeallpermissions.label   "เอาไซต์ทั้งหมดออก">
 <!ENTITY removeallpermissions.accesskey "อ">
 <!ENTITY address.label                "ที่อยู่เว็บไซต์:">
 <!ENTITY address.accesskey            "ว">
