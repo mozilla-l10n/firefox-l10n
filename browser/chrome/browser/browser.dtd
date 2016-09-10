@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "Activations Directory">
-<!ENTITY social.directory.text "तपाईँले डाईरेक्टरीद्वारा &quot;सेयर&quot; सेवा सक्रिय गर्न सक्नुहुन्छ।">
+<!ENTITY social.directory.text "तपाईँले डाईरेक्टरीद्वारा सेयर सेवा सक्रिय गर्न सक्नुहुन्छ।">
 <!ENTITY social.directory.button "मलाई त्यहाँ लानुहोस्!">
 <!ENTITY social.directory.introText "कुनै सेवा &brandShortName; मा थप्न सेवामा थिच्नुहोस्। ">
 <!ENTITY social.directory.viewmore.text "अरु हेर्नुहोस">
