@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Bahasa">
-<!ENTITY languages.customize.description                "Laman-laman web kadangkala boleh diperolehi dalam lebih dari satu bahasa. Pilih bahasa untuk memaparkan laman web ini, mengikut keutamaan:">
+<!ENTITY languages.customize.description                "Halaman laman web kadangkala boleh diperoleh dalam lebih daripada satu bahasa. Pilih bahasa untuk memaparkan halaman laman web ini, mengikut keutamaan:">
 <!ENTITY languages.customize.moveUp.label               "Pindah Atas">
 <!ENTITY languages.customize.moveUp.accesskey           "A">
 <!ENTITY languages.customize.moveDown.label             "Pindah Bawah">

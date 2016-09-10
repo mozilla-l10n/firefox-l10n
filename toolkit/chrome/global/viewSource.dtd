@@ -15,10 +15,10 @@
 <!ENTITY fileMenu.label "Fail">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Simpan Halaman Sebagai...">
-<!ENTITY savePageCmd.accesskey "a">
+<!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tetapan Laman...">
-<!ENTITY pageSetupCmd.accesskey "m">
+<!ENTITY pageSetupCmd.label "Tetapan Halaman…">
+<!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Prapapar Cetakan">
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Cetak">

@@ -9,7 +9,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Laman Mula &brandFullName;">
+<!ENTITY abouthome.pageTitle "&brandFullName; Halaman Mula">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com

@@ -12,7 +12,7 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "Halaman ini adalah dalam">
+<!ENTITY translation.thisPageIsIn.label         "Halaman ini dalam">
 <!ENTITY translation.translateThisPage.label    "Terjemahkan halaman ini?">
 <!ENTITY translation.translate.button           "Terjemah">
 <!ENTITY translation.notNow.button              "Bukan Sekarang">

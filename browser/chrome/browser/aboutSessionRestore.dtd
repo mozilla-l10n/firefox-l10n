@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Sesi Pulih">
+<!ENTITY restorepage.tabtitle       "Sesi Muat Semula">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Nampaknya ini agak memalukan.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; sedang mengalami masalah untuk mendapatkan semula tetingkap dan tab anda. Kebiasaanya ini berpunca dari laman web terkini yang dibuka.">
+<!ENTITY restorepage.errorTitle     "Nampaknya, ini agak memalukan.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; sedang mengalami masalah untuk mendapatkan semula tetingkap dan tab anda. Kebiasaannya ini berpunca dari laman web terkini yang dibuka.">
 <!ENTITY restorepage.tryThis        "Anda boleh cuba:">
-<!ENTITY restorepage.restoreSome    "Membuang satu atau lebih tab yang anda rasakan punca kepada masalah ini">
-<!ENTITY restorepage.startNew       "Memulakan keseluruhan sesi pelungsuran">
+<!ENTITY restorepage.restoreSome    "Mengalih keluar satu atau lebih tab yang anda fikir menjadi punca kepada masalah ini">
+<!ENTITY restorepage.startNew       "Memulakan keseluruhan sesi pelayaran baru">
 
-<!ENTITY restorepage.tryagainButton "Baik pulih">
+<!ENTITY restorepage.tryagainButton "Muat Semula">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Tutup">
 <!ENTITY restorepage.close.access   "C">

@@ -10,7 +10,7 @@
 
 <!ENTITY backButton.label               "Undur">
 <!ENTITY backButton.accesskey           "U">
-<!ENTITY backButton.tooltip             "Undur satu laman">
+<!ENTITY backButton.tooltip             "Undur satu halaman">
 <!ENTITY forwardButton.label            "Maju">
 <!ENTITY forwardButton.accesskey        "M">
 <!ENTITY forwardButton.tooltip          "Maju satu laman">
