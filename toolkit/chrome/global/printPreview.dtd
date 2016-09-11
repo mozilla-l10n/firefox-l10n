@@ -31,7 +31,7 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Adat...">
 <!ENTITY ShrinkToFit.label    "Mengecil Untuk Muat">
-<!ENTITY customPrompt.title   "Skala Penyesuaian...">
+<!ENTITY customPrompt.title   "Custom Scale…">
 <!ENTITY simplifyPage.label   "Permudahkan Halaman">
 <!ENTITY simplifyPage.enabled.tooltip  "Tukar susun atur untuk pembacaan mudah">
 <!ENTITY simplifyPage.disabled.tooltip "Laman ini tidak dapat dipermudahkan secara automatik">
