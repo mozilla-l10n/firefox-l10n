@@ -21,20 +21,20 @@
 <!ENTITY  blockUncommonUnwanted.accesskey "ფ">
 
 <!ENTITY  addonExceptions.label         "გამონაკლისები…">
-<!ENTITY  addonExceptions.accesskey     "E">
+<!ENTITY  addonExceptions.accesskey     "გ">
 
 
-<!ENTITY  logins.label                  "შესვლები">
+<!ENTITY  logins.label                  "შესვლის მონაცემები">
 
 <!ENTITY  rememberLogins.label          "საიტებზე შესვლების დამახსოვრება">
 <!ENTITY  rememberLogins.accesskey      "დ">
 <!ENTITY  passwordExceptions.label      "გამონაკლისები…">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.accesskey  "ნ">
 
 <!ENTITY  useMasterPassword.label        "მთავარი პაროლის გამოყენება">
 <!ENTITY  useMasterPassword.accesskey    "პ">
 <!ENTITY  changeMasterPassword.label     "მთავარი პაროლის შეცვლა…">
-<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  changeMasterPassword.accesskey "მ">
 
 <!ENTITY  savedLogins.label              "შენახული შესვლები…">
-<!ENTITY  savedLogins.accesskey          "L">
+<!ENTITY  savedLogins.accesskey          "შ">
