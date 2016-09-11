@@ -13,15 +13,15 @@
 <!ENTITY devmgr.details.title2                  "Nilai">
 
 <!ENTITY devmgr.button.login.label              "Log Masuk">
-<!ENTITY devmgr.button.login.accesskey          "s">
+<!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Log Keluar">
-<!ENTITY devmgr.button.logout.accesskey         "o">
+<!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "Tukar Katalaluan">
-<!ENTITY devmgr.button.changepw.accesskey       "K">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
 <!ENTITY devmgr.button.load.label               "Muat">
-<!ENTITY devmgr.button.load.accesskey           "M">
+<!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Nyahmuat">
-<!ENTITY devmgr.button.unload.accesskey         "u">
+<!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Masukkan maklumat untuk modul yang anda ingin tambah.">

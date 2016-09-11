@@ -6,19 +6,19 @@
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
-<!ENTITY  trackingProtectionPrivate.accesskey  "m">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
-<!ENTITY  trackingProtectionNever.accesskey    "T">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Ketahui Lanjut">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
-<!ENTITY  trackingProtectionExceptions.accesskey "e">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Penjejakan">
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
-<!ENTITY trackingProtectionPBM5.accesskey     "s">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui Lanjut">
 <!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
-<!ENTITY changeBlockList.accesskey      "T">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -32,11 +32,11 @@
 
 <!ENTITY  locbar.suggest.label          "Semasa menggunakan bar lokasi, cadang:">
 <!ENTITY  locbar.history.label          "Sejarah">
-<!ENTITY  locbar.history.accesskey      "S">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
-<!ENTITY  locbar.bookmarks.accesskey    "a">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Buka tab">
-<!ENTITY  locbar.openpage.accesskey     "B">
+<!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -44,28 +44,28 @@
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman">
-<!ENTITY  acceptCookies.accesskey       "e">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "k">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
 <!ENTITY  keepUntil.label               "Kekalkan sehingga:">
-<!ENTITY  keepUntil.accesskey           "s">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "ianya luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
-<!ENTITY  cookieExceptions.accesskey    "e">
+<!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Tunjuk Cookie…">
-<!ENTITY  showCookies.accesskey         "C">
+<!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
-<!ENTITY  historyHeader.pre.accesskey      "k">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "Ingat sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
@@ -97,13 +97,13 @@
 <!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Ingat sejarah dan borang sejarah">
-<!ENTITY  rememberSearchForm.accesskey   "I">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Buang sejarah apabila &brandShortName; ditutup">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Tetapan…">
-<!ENTITY  clearOnCloseSettings.accesskey "T">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "Tab Penyimpan">
 <!ENTITY  browserContainersLearnMore.label      "Ketahui Lanjut">

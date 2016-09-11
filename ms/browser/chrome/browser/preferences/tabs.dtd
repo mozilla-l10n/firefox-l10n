@@ -12,10 +12,10 @@
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "Ingatkan saya apabila membuka beberapa tab mungkin akan melambatkan &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "b">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchToNewTabs.label        "Apabila saya membuka pautan dalam tetingkap baharu, tukar terus kepadanya">
-<!ENTITY switchToNewTabs.accesskey    "s">
+<!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Pamer sampel tab dalam taskbar Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

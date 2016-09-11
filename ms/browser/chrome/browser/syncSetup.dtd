@@ -21,7 +21,7 @@
 <!ENTITY signIn.account2.label      "Akaun">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Katalaluan">
-<!ENTITY signIn.password.accesskey  "K">
+<!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "Kekunci Pemulihan">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 
@@ -32,7 +32,7 @@
 <!ENTITY setup.choosePassword.label      "Pilih kata laluan">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Sahkan Kata Laluan">
-<!ENTITY setup.confirmPassword.accesskey "S">
+<!ENTITY setup.confirmPassword.accesskey "m">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -84,15 +84,15 @@
 
 <!ENTITY syncMy.label               "Sync Saya">
 <!ENTITY engine.bookmarks.label     "Penandabuku">
-<!ENTITY engine.bookmarks.accesskey "P">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tab-tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Katalaluan">
-<!ENTITY engine.passwords.accesskey "K">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Keutamaan">
-<!ENTITY engine.prefs.accesskey     "K">
+<!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 

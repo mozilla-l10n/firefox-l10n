@@ -10,7 +10,7 @@
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pilih Semua">
-<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Umum">
@@ -39,17 +39,17 @@
 <!ENTITY  mediaLongdesc         "Perihal secara panjang lebar:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Simpan Sebagai...">
-<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Pratonton Media:">
 
 <!ENTITY  feedTab               "Suapan">
-<!ENTITY  feedTab.accesskey     "S">
+<!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Langgan">
-<!ENTITY  feedSubscribe.accesskey "L">
+<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Keizinan">
-<!ENTITY  permTab.accesskey     "K">
+<!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Guna Piawai">
 <!ENTITY  permAskAlways         "sentiasa menanya">
 <!ENTITY  permAllow             "Benarkan">
@@ -59,10 +59,10 @@
 <!ENTITY  permPlugins           "Plugin Aktif">
 
 <!ENTITY  permClearStorage           "Bersihkan Storan">
-<!ENTITY  permClearStorage.accesskey "B">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Keselamatan">
-<!ENTITY  securityTab.accesskey "s">
+<!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "menunjukan sijil">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Tidak diketahui">
@@ -80,7 +80,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Adakah saya pernah simpan kata laluan bagi laman web ini?">
 <!ENTITY  securityView.privacy.viewPasswords            "Papar kata laluan yang telah disimpan">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Butiran Teknikal">
 

@@ -9,15 +9,15 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Undur">
-<!ENTITY backButton.accesskey           "U">
+<!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "Undur satu halaman">
 <!ENTITY forwardButton.label            "Maju">
-<!ENTITY forwardButton.accesskey        "M">
+<!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "Langkau satu halaman">
 <!ENTITY copyCmd.label                  "Salin">
-<!ENTITY copyCmd.accesskey              "S">
+<!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "Pilih Semua">
-<!ENTITY selectAllCmd.accesskey         "a">
+<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Laman Utama">
@@ -29,7 +29,7 @@
 <!ENTITY search.emptytext               "Carian">
 <!ENTITY searchHeader.label             "Hasil carian">
 <!ENTITY toctab.label                   "Kandungan">
-<!ENTITY toctab.accesskey               "K">
+<!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -48,9 +48,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "Sentiasa di Atas">
-<!ENTITY zLevel.accesskey               "t">
+<!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "Zum Keluar">
-<!ENTITY fullZoomReduceBtn.accesskey    "Z">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
 <!ENTITY fullZoomEnlargeBtn.label       "Zum Masuk">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "Z">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

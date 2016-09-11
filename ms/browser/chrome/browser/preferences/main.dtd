@@ -16,25 +16,25 @@
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Penandabuku…">
-<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Kembalikan kepada Asal">
-<!ENTITY restoreDefault.accesskey  "K">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Muat Turun">
 
 <!ENTITY saveTo.label "Simpan fail ke">
-<!ENTITY saveTo.accesskey "f">
+<!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Lungsur…">
-<!ENTITY chooseFolderWin.accesskey    "L">
+<!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Pilih…">
-<!ENTITY chooseFolderMac.accesskey    "i">
+<!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
-<!ENTITY alwaysAsk.accesskey "S">
+<!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Sentiasa semak jika &brandShortName; adalah pelayar lalai anda">
-<!ENTITY alwaysCheckDefault2.accesskey    "s">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Jadikan Lalai">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; pelayar lalai anda">
 <!ENTITY isNotDefault.label               "&brandShortName; adalah bukan pelayar lalai anda">
 

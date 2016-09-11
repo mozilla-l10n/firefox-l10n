@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; bekerje di luar talian">
 <!ENTITY  offline.description             "&brandShortName; perlu masuk talian bagi melihat jika terdapat kemaskinian yang ada untuk penambahan anda bagi menjadikannya serasi dengan versi ini">
 <!ENTITY  offline.toggleOffline.label     "Masuk talian sekarang.">
-<!ENTITY  offline.toggleOffline.accesskey "g">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Penambahan Tidak Serasi">
 <!ENTITY  mismatch.top.label              "Penambahan berikut tidak serasi dengan versi &brandShortName; ini dan telah dilumpuhkan:">

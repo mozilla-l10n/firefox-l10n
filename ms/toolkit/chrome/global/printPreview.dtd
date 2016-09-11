@@ -16,7 +16,7 @@
 <!ENTITY landscape.label      "Lanskap">
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "Tutup">
-<!ENTITY close.accesskey      "T">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
