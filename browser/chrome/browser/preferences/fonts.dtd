@@ -61,13 +61,13 @@
 <!ENTITY  useDefaultFontSerif.label               "ნაჭდევებიანი">
 <!ENTITY  useDefaultFontSansSerif.label           "გროტესკი">
 
-<!ENTITY  allowPagesToUse.label                   "ვებსაიტებისთვის საკუთარი შრიფტების არჩევის ნებართვა ჩემი მითითებულის ნაცვლად">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+<!ENTITY  allowPagesToUse.label                   "საიტებისთვის ჩემ მიერ ზემოთ არჩეულების ნაცვლად საკუთარი შრიფტების გამოყენების ნების მიცემა.">
+<!ENTITY  allowPagesToUse.accesskey               "ნ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ტექსტის კოდირება მოძველებული შიგთავსითვის">
-<!ENTITY languages.customize.Fallback2.label      "ტექსტის საბაზო კოდირება:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომლის კოდირებაც ვერ დადგინდა.">
+<!ENTITY languages.customize.Fallback2.label      "ტექსტის სათადარიგო კოდირება:">
+<!ENTITY languages.customize.Fallback2.accesskey  "ტ">
+<!ENTITY languages.customize.Fallback2.desc       "ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომელიც თავის კოდირების ვერ უთითებს.">
 
 <!ENTITY languages.customize.Fallback.auto        "არჩეული ენისთვის ნაგულისხმევი">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
