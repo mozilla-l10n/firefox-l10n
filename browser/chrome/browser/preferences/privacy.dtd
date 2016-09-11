@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "컨테이너 탭">
+<!ENTITY  browserContainersLearnMore.label      "자세히 보기">
+<!ENTITY  browserContainersEnabled.label        "컨테이너 탭 활성화">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

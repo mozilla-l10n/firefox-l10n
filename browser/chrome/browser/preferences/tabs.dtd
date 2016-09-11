@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab으로 최근 사용한 순서대로 탭 순환">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+
 <!ENTITY newWindowsAsTabs.label       "새 창 대신 새 탭으로 열기">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
