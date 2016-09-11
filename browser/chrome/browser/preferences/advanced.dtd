@@ -30,19 +30,19 @@
 
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
-<!ENTITY healthReportDesc.label          "გეხმარებათ თქვენი ბრაუზერის წარმადობის გაგებაში და მისი ჯანმრთელობის შესახებ მონაცემებს უზიარებს &vendorShortName;-ს">
-<!ENTITY enableHealthReport.label        "&brandShortName;-ის ჯანმრთელობის პატაკის ჩართვა">
+<!ENTITY healthReportDesc.label          "გაწვდით ინფორმაციას თქვენი ბრაუზერის წარმადობაზე და მისი მდგომარეობის მონაცემებს უზიარებს &vendorShortName;-ს">
+<!ENTITY enableHealthReport.label        "&brandShortName;-ის გამართულობის შეტყობინება">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "შეიტვეთ მეტი">
+<!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
-<!ENTITY telemetryDesc.label             "&vendorShortName;-ს უზიარებს თქვენი წარმადობის, გამოყენების, აპრატურის და მორგების მონაცემებს, რათა &brandShortName; უკეთესი გავხადოთ.">
-<!ENTITY enableTelemetryData.label       "დამატებითი მონაცემების გაზიარება (მაგ. მანძილსაზომი)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryDesc.label             "თქვენი ბრაუზერის წარმადობის, გამოყენების, აპრატურის და მორგების მონაცემებს უზიარებს &vendorShortName;-ს , რაც &brandShortName;-ის გაუმჯობესებაში გვეხმარება.">
+<!ENTITY enableTelemetryData.label       "დამატებითი მონაცემების გაზიარება (მაგ. ტელემეტრია)">
+<!ENTITY enableTelemetryData.accesskey   "ტ">
 <!ENTITY telemetryLearnMore.label        "შეიტყვეთ მეტი">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; აგზავნის ავარიული დახურვის შეტყობინებეს, რათა &vendorShortName;-ს დაეხმაროს და თქვენი ბრაუზერი უფრო სტაბილური და დაცული გახდეს">
-<!ENTITY enableCrashReporter.label       "ავარიული დახურვის მომხსენებლის ჩართვა">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterDesc.label         "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის სტაბილურობის და დაცულობის გაუმჯობესებაში ეხმარება.">
+<!ENTITY enableCrashReporter.label       "ავარიული დახურვის მომხსენებელი">
+<!ENTITY enableCrashReporter.accesskey   "ხ">
 <!ENTITY crashReporterLearnMore.label    "შეიტყვეთ მეტი">
 
 <!ENTITY networkTab.label                "ქსელი">
