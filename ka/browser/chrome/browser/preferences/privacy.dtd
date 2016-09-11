@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "გამონაკლისები…">
 <!ENTITY  cookieExceptions.accesskey    "გ">
 
-<!ENTITY  showCookies.label             "ნაჭდევების ჩვენება…">
+<!ENTITY  showCookies.label             "ფუნთუშების ჩვენება…">
 <!ENTITY  showCookies.accesskey         "ჩ">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ბრაუზერი:">
@@ -100,7 +100,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "ფ">
 
 <!ENTITY  clearOnClose.label             "ისტორიის გასუფთავება &brandShortName; ბრაუზერის დახურვისას">
-<!ENTITY  clearOnClose.accesskey         "ც">
+<!ENTITY  clearOnClose.accesskey         "ფ">
 
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
 <!ENTITY  clearOnCloseSettings.accesskey "ტ">
