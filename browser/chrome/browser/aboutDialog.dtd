@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Darihal &brandFullName;">
+<!ENTITY aboutDialog.title          "Perihal &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
@@ -9,11 +9,11 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Semak kemas kini">
-<!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label2                "Ulang semula &brandShortName; untuk Dikemas kini">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label2                "Mula semula &brandShortName; untuk mendapatkan Kemas kini">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Laksanakan Kemaskini...">
-<!ENTITY update.applyButtonBillboard.accesskey    "L">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " adalah ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komuniti global">
-<!ENTITY community.exp.end          " bekerjasama supaya Web ini terbuka, awam dan boleh diakses oleh semua.">
+<!ENTITY community.exp.end          " bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.">
 
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -36,9 +36,9 @@
 <!ENTITY community.middle2          ", satu ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komuniti global">
-<!ENTITY community.end3             " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
+<!ENTITY community.end3             " bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.">
 
-<!ENTITY helpus.start               "Ingin membantu? ">
+<!ENTITY helpus.start               "Anda ingin membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Hulurkan sumbangan">
 <!ENTITY helpus.middle              " atau ">
@@ -46,7 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "sertainya!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Yang terbaru">
+<!ENTITY releaseNotes.link          "Apa yang terbaru">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Maklumat Perlesenan">
@@ -58,13 +58,13 @@
 <!ENTITY bottomLinks.privacy        "Dasar Privasi">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Sedang menyemak pengemaskinian…">
+<!ENTITY update.checkingForUpdates  "Sedang menyemak kemas kini…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; adalah yang terkini">
+<!ENTITY update.noUpdatesFound      "&brandShortName; adalah versi yang terkini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Kemaskini dihalang oleh pentadbir sistem anda">
+<!ENTITY update.adminDisabled       "Kemas kini dinyahdaya oleh pentadbir sistem anda">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sedang dikemaskini oleh pemegang lain">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sedang dikemas kini oleh tika lain">
 <!ENTITY update.restarting          "Memulakan semula...">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -89,8 +89,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Anda tidak boleh melakukan kemas kini yang selanjutnya pada sistem ini. ">
-<!ENTITY update.unsupported.linkText "Ketahui lanjut">
+<!ENTITY update.unsupported.start    "Anda tidak boleh lagi melaksanakan kemas kini dalam sistem ini. ">
+<!ENTITY update.unsupported.linkText "Ketahui selanjutnya">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

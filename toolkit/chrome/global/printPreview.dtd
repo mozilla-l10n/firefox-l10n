@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "Cetak">
-<!ENTITY print.accesskey      "C">
+<!ENTITY print.accesskey      "P">
 <!ENTITY pageSetup.label      "Tetapan Halaman…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Halaman:">

@@ -7,7 +7,7 @@
 <!ENTITY printJobOptions.title "Sifat Pencetak">
 
 <!ENTITY paperInput.label "Saiz kertas:">
-<!ENTITY paperInput.accesskey "k">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Pekerjaan:">
 <!ENTITY jobTitleInput.accesskey "j">

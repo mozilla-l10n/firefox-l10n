@@ -5,7 +5,7 @@
 <!ENTITY  general.label                 "Umum">
 
 <!ENTITY  warnAddonInstall.label        "Beri amaran apabila laman cuba memasang add-ons">
-<!ENTITY  warnAddonInstall.accesskey    "a">
+<!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

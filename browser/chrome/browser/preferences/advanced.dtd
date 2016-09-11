@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "Kebolehcapaian">
 
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk menavigasi antara halaman">
-<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
 <!ENTITY searchStartTyping.accesskey     "s">
 <!ENTITY blockAutoRefresh.label          "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">

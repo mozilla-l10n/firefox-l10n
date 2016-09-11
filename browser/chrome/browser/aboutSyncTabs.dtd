@@ -5,11 +5,11 @@
 <!ENTITY tabs.otherDevices.label               "Tab Dari Peranti Lain">
 
 <!ENTITY tabs.searchText.label                   "Taip di sini untuk mencari tab…">
+
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
-
 <!ENTITY tabs.context.openTab.label                   "Buka Tab Ini">
-<!ENTITY tabs.context.openTab.accesskey               "B">
+<!ENTITY tabs.context.openTab.accesskey               "O">
 <!ENTITY tabs.context.openMultipleTabs.label          "Buka Tab Yang Dipilih">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "B">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Tandabuku Tab Ini...">

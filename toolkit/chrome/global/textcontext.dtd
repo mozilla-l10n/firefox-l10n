@@ -5,7 +5,7 @@
 <!ENTITY cutCmd.label "Potong">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "S">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Tampal">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Kembali Asal">

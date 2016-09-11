@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejakan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
-<!ENTITY  trackingProtectionAlways.accesskey   "a">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
 <!ENTITY  trackingProtectionPrivate.accesskey  "m">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
