@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Кому">
 <!ENTITY fromField4.label "От">
 <!ENTITY senderField4.label "Отправитель">
+<!ENTITY author.label "Автор">
 <!ENTITY organizationField4.label "Организация">
 <!ENTITY replyToField4.label "Обратный адрес">
 <!ENTITY subjectField4.label "Тема">

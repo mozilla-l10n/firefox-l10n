@@ -32,3 +32,12 @@
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">
+<!ENTITY menuBar.tooltip "Панель меню">
+<!ENTITY modeToolbar.tooltip "Панель режима">
+<!ENTITY entryToolbar.tooltip "Панель элемента JavaScript">
+<!ENTITY toolbarsCmd.label "Показать/скрыть">
+<!ENTITY toolbarsCmd.accesskey "к">
+<!ENTITY toolbarMode.label "Режим">
+<!ENTITY toolbarMode.accesskey "ж">
+<!ENTITY toolbarEval.label "Элемент JavaScript">
+<!ENTITY toolbarEval.accesskey "J">
