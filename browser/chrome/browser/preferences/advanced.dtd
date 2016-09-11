@@ -8,25 +8,25 @@
 
 <!ENTITY accessibility.label             "დამხმარე საშუალებები">
 
-<!ENTITY useCursorNavigation.label       "ყოველთვის კურსორის კლავიშების გამოყენება გვერდებზე ნავიგაციისას">
-<!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "კონტექსტის ძებნის ტექსტის შეტანისას">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "გამაფრთხილეთ, როდესაც ვებ-საიტი შეეცდება გადამისამართებას ან გვერდის გადატვირთვას">
-<!ENTITY blockAutoRefresh.accesskey      "b">
-<!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება როდესაც საჭიროა">
-<!ENTITY useOnScreenKeyboard.accesskey   "k">
+<!ENTITY useCursorNavigation.label       "გვერდებს შიგნით მოძრაობისას ყოველთვის კურსორის კლავიშების გამოყენება">
+<!ENTITY useCursorNavigation.accesskey   "რ">
+<!ENTITY searchStartTyping.label         "ტექსტის ძიება აკრეფის დაწყებისთანავე">
+<!ENTITY searchStartTyping.accesskey     "ქ">
+<!ENTITY blockAutoRefresh.label          "გაფრთხილება საიტის მიერ გადამისამართების ან გვერდის განახლების მცდელობისას">
+<!ENTITY blockAutoRefresh.accesskey      "ბ">
+<!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება საჭიროების შემთხვევაში">
+<!ENTITY useOnScreenKeyboard.accesskey   "კ">
 
 <!ENTITY browsing.label                  "ჩვენება">
 
-<!ENTITY useAutoScroll.label             "თვითგადახვევის გამოყენება">
-<!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "მდორე გადახვევის გამოყენება">
-<!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "აპარატული აჩქარების გამოყენება როდესაც ხელმისაწვდომია">
-<!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის შეტანისას">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY useAutoScroll.label             "თვითგადაადგილების გამოყენება">
+<!ENTITY useAutoScroll.accesskey         "თ">
+<!ENTITY useSmoothScrolling.label        "გლუვი გადაადგილების გამოყენება">
+<!ENTITY useSmoothScrolling.accesskey    "გ">
+<!ENTITY allowHWAccel.label              "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
+<!ENTITY allowHWAccel.accesskey          "მ">
+<!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის აკრფეისთანავე">
+<!ENTITY checkSpelling.accesskey         "ფ">
 
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
