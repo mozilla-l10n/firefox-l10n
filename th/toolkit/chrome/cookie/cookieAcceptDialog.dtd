@@ -18,4 +18,4 @@
 
 <!ENTITY     dialog.title                   "ยืนยันตั้งค่าคุกกี้">
 <!ENTITY     dialog.remember.label          "ใช้ตัวเลือกของฉันสำหรับทุกคุกกี้จากเว็บไซต์นี้">
-<!ENTITY     dialog.remember.accesskey      "ช">
+<!ENTITY     dialog.remember.accesskey      "U">
