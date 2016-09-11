@@ -7,7 +7,7 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Atur">
-<!ENTITY organize.accesskey    "A">
+<!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Atur tandabuku anda">
 
 <!ENTITY file.close.label               "Tutup">

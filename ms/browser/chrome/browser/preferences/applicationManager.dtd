@@ -5,4 +5,4 @@
 <!ENTITY appManager.title     "Perincian aplikasi">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Singkir">
-<!ENTITY remove.accesskey     "S">
+<!ENTITY remove.accesskey     "R">

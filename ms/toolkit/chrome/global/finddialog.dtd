@@ -6,7 +6,7 @@
 
 <!ENTITY findDialog.title "Cari dalam Halaman Ini">
 <!ENTITY findField.label "Cari apa:">
-<!ENTITY findField.accesskey "a">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Bungkus">

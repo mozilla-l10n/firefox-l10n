@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lookInMenuList.label   "Cari di:">
-<!ENTITY lookInMenuList.accesskey   "C">
+<!ENTITY lookInMenuList.accesskey   "L">
 <!ENTITY textInput.label        "Nama fail:">
-<!ENTITY textInput.accesskey        "N">
+<!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "Fail daripada jenis:">
 <!ENTITY filterMenuList.accesskey   "j">
 <!ENTITY name.label             "Nama">
