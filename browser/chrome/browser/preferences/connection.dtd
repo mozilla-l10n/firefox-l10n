@@ -10,12 +10,12 @@
 <!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტზე წვდომისათვის">
 <!ENTITY  noProxyTypeRadio.label        "პროქსის გარეშე">
 <!ENTITY  noProxyTypeRadio.accesskey    "გ">
-<!ENTITY  systemTypeRadio.label         "სისტემური პროქსის პარამეტრებით სარგებლობა">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "პროქსის პარამეტრების ავტოდეტექცია ამ ქსელისთვის">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "პროქსის ხელით კონფიგურირება:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  systemTypeRadio.label         "სისტემის პროქსის პარამეტრებით სარგებლობა">
+<!ENTITY  systemTypeRadio.accesskey     "ს">
+<!ENTITY  WPADTypeRadio.label           "პროქსის პარამეტრების ავტომატური დადგენა ამ ქსელისთვის">
+<!ENTITY  WPADTypeRadio.accesskey       "ქ">
+<!ENTITY  manualTypeRadio.label         "პროქსის ხელით გამართვა:">
+<!ENTITY  manualTypeRadio.accesskey     "პ">
 <!ENTITY  autoTypeRadio.label           "პროქსის ავტოკონფიგურირების მისამართი URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "განახლება">
@@ -23,7 +23,7 @@
 <!ENTITY  ftp.label                     "FTP პროქსი:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP პროქსი:">
-<!ENTITY  http.accesskey                "x">
+<!ENTITY  http.accesskey                "ხ">
 <!ENTITY  ssl.label                     "SSL პროქსი:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS სერვერი:">
