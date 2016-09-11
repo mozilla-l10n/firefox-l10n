@@ -18,8 +18,8 @@
 <!ENTITY  manualTypeRadio.accesskey     "პ">
 <!ENTITY  autoTypeRadio.label           "პროქსის ავტომატური გამართვის URL:">
 <!ENTITY  autoTypeRadio.accesskey       "ვ">
-<!ENTITY  reload.label                  "განახლება">
-<!ENTITY  reload.accesskey              "e">
+<!ENTITY  reload.label                  "ხელახლა ჩატვირთვა">
+<!ENTITY  reload.accesskey              "ხ">
 <!ENTITY  ftp.label                     "FTP პროქსი:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP პროქსი:">
