@@ -16,8 +16,8 @@
 <!ENTITY  WPADTypeRadio.accesskey       "ქ">
 <!ENTITY  manualTypeRadio.label         "პროქსის ხელით გამართვა:">
 <!ENTITY  manualTypeRadio.accesskey     "პ">
-<!ENTITY  autoTypeRadio.label           "პროქსის ავტოკონფიგურირების მისამართი URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.label           "პროქსის ავტომატური გამართვის URL:">
+<!ENTITY  autoTypeRadio.accesskey       "ვ">
 <!ENTITY  reload.label                  "განახლება">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP პროქსი:">
@@ -35,15 +35,15 @@
 <!ENTITY  socksRemoteDNS.label2         "პროქსის DNS SOCKS v5-ის გამოყენებისას">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "პორტი:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "პროქსი არაა:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .gia.ge, 192.168.1.0/24">
+<!ENTITY  HTTPport.accesskey            "პ">
+<!ENTITY  SSLport.accesskey             "ო">
+<!ENTITY  FTPport.accesskey             "რ">
+<!ENTITY  SOCKSport.accesskey           "ტ">
+<!ENTITY  noproxy.label                 "პროქსი არ იქნეს გამოყენებული მისამართზე:">
+<!ENTITY  noproxy.accesskey             "ა">
+<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "არ მთხოვო ავთენტიფიკაცია თუ პაროლი შენახულია">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.label          "არ მოითხოვოს ავთენტიფიკაცია თუ პაროლი შენახულია">
+<!ENTITY  autologinproxy.accesskey      "თ">
 <!ENTITY  autologinproxy.tooltip        "ეს პარამეტრი ავტომატურად გატარებთ ავთენტიფიკაციას პროქსიში (როდესაც მათთვის მტკიცებულებები შენახული გაქვთ). თუ ავთენტიფიკაცია ჩაიშალა შეგატყობინებთ. ">
