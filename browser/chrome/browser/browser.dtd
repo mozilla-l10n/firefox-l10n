@@ -148,22 +148,27 @@
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 <!ENTITY urlbar.viewSiteInfo.label "Ver información del sitio">
-<!ENTITY urlbar.defaultNotificationAnchor.label "Ver una notificación">
-<!ENTITY urlbar.geolocationNotificationAnchor.label "Ver la petición de ubicación">
-<!ENTITY urlbar.addonsNotificationAnchor.label "Ver el mensaje de instalación del complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label "Ver el mensaje de almacenamiento de aplicaciones sin conexión">
-<!ENTITY urlbar.loginFillNotificationAnchor.label "Administrar su información de inicio de sesión">
-<!ENTITY urlbar.passwordNotificationAnchor.label "Marque si quiere guardar su contraseña">
-<!ENTITY urlbar.pluginsNotificationAnchor.label "Administrar uso de plugins en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label "Cambiar si puede recibir notificaciones del sitio">
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Administrar compartición de su cámara o micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Administrar compartición de su micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Administrar compartición de sus ventanas o pantalla con el sitio">
-<!ENTITY urlbar.pointerLockNotificationAnchor.label "Cambiar si el sitio puede ocultar el puntero">
-<!ENTITY urlbar.servicesNotificationAnchor.label "Ver el mensaje de instalación de servicio">
-<!ENTITY urlbar.translateNotificationAnchor.label "Traducir esta página">
-<!ENTITY urlbar.translatedNotificationAnchor.label "Administrar traducción de la página">
-<!ENTITY urlbar.emeNotificationAnchor.label "Administrar uso del software DRM">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip "Abrir panel de mensajes">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Abrir panel de peticiones de ubicación">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip "Abrir el panel de mensajes de instalación de complementos">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Abrir panel de mensajes de almacenamiento sin conexión">
+<!ENTITY urlbar.loginFillNotificationAnchor.tooltip "Administrar su información de inicio de sesión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip "Abrir el panel de mensajes de contraseñas">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip "Cambiar si puede recibir notificaciones del sitio">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Administrar la compartición de su cámara o micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Administrar la compartición de su micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Administrar la compartición de sus ventanas o pantalla con el sitio">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip "Abrir panel de mensajes de instalación">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip "Administrar traducción de páginas">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip "Administrar uso de software DRM">
+<!ENTITY urlbar.cameraBlocked.tooltip "Ha bloqueado su cámara para este sitio web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip "Ha bloqueado su micrófono para este sitio web.">
+<!ENTITY urlbar.screenBlocked.tooltip "Ha impedido que este sitio web comparta su pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip "Ha bloqueado la información de ubicación para este sitio web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
 <!ENTITY urlbar.zoomReset.tooltip "Restablecer nivel de aumento">
 <!ENTITY searchItem.title "Buscar">
@@ -296,7 +301,7 @@
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY contentSearchInput.label "Criterios de búsqueda">
-<!ENTITY contentSearchSubmit.label "Enviar búsqueda">
+<!ENTITY contentSearchSubmit.tooltip "Enviar búsqueda">
 <!ENTITY searchFor.label "Buscar ">
 <!ENTITY searchWith.label " con:">
 <!ENTITY search.label "Buscar ">
@@ -599,7 +604,6 @@
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
-<!ENTITY pointerLock.notification.message "Presiona ESC (Escape) en cualquier momento para mostrarlo de nuevo.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "M">
 <!ENTITY pluginActivateNow.label "Permitir ahora">
