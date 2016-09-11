@@ -1,48 +1,32 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
+<!ENTITY printSetup.title    "ການຕັ້ງຄ່າໜ້າເຈ້ຍ">
 
+<!ENTITY basic.tab           "ຮູບແບບ &amp; ຕົວເລືອກ">
 
+<!ENTITY formatGroup.label   "ຮູບແບບ">
 
+<!ENTITY orientation.label   "ທິດທາງ:">
+<!ENTITY portrait.label      "ລວງຕັ້ງ">
+<!ENTITY portrait.accesskey  "P​">
+<!ENTITY landscape.label     "ລວງນອນ">
+<!ENTITY landscape.accesskey "​L​​">
 
+<!ENTITY scale.label         "ຂະໜາດ:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
 
+<!ENTITY shrinkToFit.label   "ຍໍ້ໃຫ້ພໍດີກັບຄວາມກວ້າງຂອງຫນ້າ">
+<!ENTITY shrinkToFit.accesskey "W">
 
+<!ENTITY optionsGroup.label  "ຕົວເລືອກ">
 
-
-
-
-
-
-<!ENTITY optionsGroup.label  "ຕັ້ງຄ່າ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY printBG.label       "ພິມພາບພື້ນຫລັງ (ສີ &amp; ຮູບພາບ)">
+<!ENTITY printBG.accesskey   "B​">
 
 
 
