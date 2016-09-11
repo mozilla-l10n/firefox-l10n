@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Set Semula Semua Add-on Untuk Automatik Kemaskini">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Set semula Semua Add-ons untuk Kemas kini Automatik">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Set Semula Semua Add-on Untuk Manual Kemaskini">
+<!ENTITY updates.resetUpdatesToManual.label          "Set semula Semua Add-ons Untuk Kemas kini Manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Mengemaskini add-on">
 <!ENTITY updates.installed.label              "Add-on anda telah dikemaskinikan.">

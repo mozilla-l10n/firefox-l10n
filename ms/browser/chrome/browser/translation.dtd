@@ -46,7 +46,7 @@
 
 <!ENTITY translation.serviceUnavailable.label   "Terjemahan tidak tersedia pada masa ini. Sila cuba lagi kemudian.">
 
-<!ENTITY translation.options.menu               "Opsyen">
+<!ENTITY translation.options.menu               "Pilihan">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for

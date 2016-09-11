@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
-<!ENTITY performanceUI.startRecording "Mulakan Rakaman Prestasi">
+<!ENTITY performanceUI.startRecording "Start Recording Performance">
 <!ENTITY performanceUI.stopRecording  "Berhenti Merekod Prestasi">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string

@@ -4,7 +4,7 @@
 
 <!ENTITY print.label          "Cetak">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Tetapan Halaman…">
+<!ENTITY pageSetup.label      "Tatacara Halaman…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Halaman:">
 <!ENTITY page.accesskey       "a">
