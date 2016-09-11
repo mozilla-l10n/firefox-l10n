@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "შრიფტები">
 
-<!ENTITY  language.label                          "შრიფტები:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  language.label                          "შრიფტები დამწერლობისთვის:">
+<!ENTITY  language.accesskey                      "შ">
 
 <!ENTITY  size.label                              "ზომა:">
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "ზ">
+<!ENTITY  sizeMonospace.accesskey                 "გ">
 
 <!ENTITY  proportional.label                      "პროპორციული:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "პ">
 
-<!ENTITY  serif.label                             "კონტრასტული:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "თანაბარხაზიანი:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  serif.label                             "ნაჭდევებიანი:">
+<!ENTITY  serif.accesskey                         "ნ">
+<!ENTITY  sans-serif.label                        "გროტესკი:">
+<!ENTITY  sans-serif.accesskey                    "გ">
 <!ENTITY  monospace.label                         "მონოსიგანის:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.accesskey                     "მ">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -54,12 +54,12 @@
 <!ENTITY  font.langGroup.tibetan                  "ტიბეტური">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "შრიფტის უმცირესი ზომა:">
-<!ENTITY minSize.accesskey                        "o">
-<!ENTITY minSize.none                             "უმცირესი">
+<!ENTITY minSize.accesskey                        "ც">
+<!ENTITY minSize.none                             "შეუზღუდავი">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
-<!ENTITY  useDefaultFontSansSerif.label           "თანაბარხაზიანი">
+<!ENTITY  useDefaultFontSerif.label               "ნაჭდევებიანი">
+<!ENTITY  useDefaultFontSansSerif.label           "გროტესკი">
 
 <!ENTITY  allowPagesToUse.label                   "ვებსაიტებისთვის საკუთარი შრიფტების არჩევის ნებართვა ჩემი მითითებულის ნაცვლად">
 <!ENTITY  allowPagesToUse.accesskey               "A">
