@@ -2,17 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY performanceUI.startRecording "Начать запись профайлера">
-<!ENTITY performanceUI.stopRecording "Остановить запись профайлера">
 <!ENTITY performanceUI.bufferStatusTooltip "Профайлер хранит замеры в кольцевом буфере, и как только заполнение буфера достигает лимита для записи, новые замеры начинают перезаписывать замеры в начале записи.">
 <!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Запись данных в реальном времени отключена на не-многопроцессном Firefox.">
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Включите в настройках многопроцессность в Firefox для начала записи данных в реальном времени.">
 <!ENTITY performanceUI.bufferStatusFull "Буфер заполнен полностью. Старые замеры теперь будут перезаписываться.">
 <!ENTITY performanceUI.unavailableNoticePB "Запись профиля в настоящее время недоступна. Пожалуйста, закройте все окна приватного просмотра и попробуйте ещё раз.">
 <!ENTITY performanceUI.loadingNotice "Загрузка…">
-<!ENTITY performanceUI.recordButton.tooltip "Переключает режим записи для записи профайлера.">
-<!ENTITY performanceUI.importButton "Импорт…">
-<!ENTITY performanceUI.clearButton "Очистить">
 <!ENTITY performanceUI.toolbar.waterfall "Водопад">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дерево вызовов">
