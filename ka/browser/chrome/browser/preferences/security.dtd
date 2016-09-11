@@ -32,7 +32,7 @@
 <!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "მთავარი პაროლის გამოყენება">
-<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  useMasterPassword.accesskey    "პ">
 <!ENTITY  changeMasterPassword.label     "მთავარი პაროლის შეცვლა…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
