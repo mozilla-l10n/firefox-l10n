@@ -78,7 +78,7 @@
 <!ENTITY resetSyncKey.label           "Saya telah kehilangan peranti yang lain.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Pilihan Sync">
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
 <!ENTITY syncDeviceName.accesskey   "c">
 
