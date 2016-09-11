@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "დამატებების მმართველი">
 
-<!ENTITY search.placeholder                   "ყველა დამატებაში ძიება">
+<!ENTITY search.placeholder                   "ძიება ყველა დამატებას შორის">
 <!ENTITY search.buttonlabel                   "ძიება">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
+<!ENTITY search.commandkey                    "ძ">
 
 <!ENTITY loading.label                        "იტვირთება…">
 <!ENTITY listEmpty.installed.label            "ამ ტიპის არცერთი დამატება არ გაქვთ დაყენებული.">
@@ -74,29 +74,29 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "დამატებითი ინფორმაციის ჩვენება">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.accesskey            "მ">
 <!ENTITY cmd.findUpdates.label                "განახლებების პოვნა">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.accesskey            "პ">
 <!ENTITY cmd.preferencesWin.label             "პარამეტრები">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesWin.accesskey         "პ">
 <!ENTITY cmd.preferencesUnix.label            "მითითებები">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.accesskey        "თ">
 <!ENTITY cmd.about.label                      "შესახებ">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.about.accesskey                  "შ">
 
 <!ENTITY cmd.enableAddon.label                "ჩართვა">
-<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.accesskey            "ჩ">
 <!ENTITY cmd.disableAddon.label               "ამორთვა">
-<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.accesskey           "ა">
 <!ENTITY cmd.enableTheme.label                "თემის მორგება">
-<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.enableTheme.accesskey            "გ">
 <!ENTITY cmd.disableTheme.label               "თემის მორგების შეჩერება">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.accesskey           "გ">
 <!ENTITY cmd.askToActivate.label              "ნებართვა გასაშვებად">
 <!ENTITY cmd.askToActivate.tooltip            "ნებართვა, დამატების ყოველი გაშვების წინ">
-<!ENTITY cmd.alwaysActivate.label             "ყოველთვის გაუშვი">
+<!ENTITY cmd.alwaysActivate.label             "ყოველთვის გაეშვას">
 <!ENTITY cmd.alwaysActivate.tooltip           "ყოველთვის გამოიყენე ეს დამატება">
-<!ENTITY cmd.neverActivate.label              "არასდროს გაუშვა">
+<!ENTITY cmd.neverActivate.label              "არასდროს გაეშვას">
 <!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენო ეს დამატება">
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
 <!ENTITY cmd.installAddon.label               "ინსტალაცია">
@@ -108,7 +108,7 @@
 <!ENTITY cmd.showPreferencesUnix.label        "პარამეტრები">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.contribute.label                 "მონაწილეობა">
-<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.accesskey             "წ">
 <!ENTITY cmd.contribute.tooltip               "მიიღეთ მონაწილეობა ამ დამატების დეველოპემნტში.">
 
 <!ENTITY cmd.showReleaseNotes.label           "გამოშვების შენიშვნების ჩვენება">
@@ -147,7 +147,7 @@
 <!ENTITY detail.size                          "ზომა">
 
 <!ENTITY detail.checkForUpdates.label         "განახლებების შემოწმება">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "ბ">
 <!ENTITY detail.checkForUpdates.tooltip       "ამ დამატების შემოწმება განახლებაზე">
 <!ENTITY detail.showPreferencesWin.label      "პარამეტრები">
 <!ENTITY detail.showPreferencesWin.accesskey  "პ">
@@ -226,9 +226,9 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "რა არის ეს? ტელემეტრიამ დროდადრო შეიძლება დააყენოს და გაუშვას საცდელი დამატებები.">
 <!ENTITY experiment.info.learnmore "დაწვრილებით">
-<!ENTITY experiment.info.learnmore.accesskey "ტ">
+<!ENTITY experiment.info.learnmore.accesskey "ლ">
 <!ENTITY experiment.info.changetelemetry "ტელემეტრიის პარამეტრები">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
+<!ENTITY experiment.info.changetelemetry.accesskey "ტ">
 
 <!ENTITY setting.learnmore "შეიტყვეთ მეტი…">
 
@@ -243,6 +243,6 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "შემქმნელები, რომლებიც დაინტერესებულნი არიან, რომ მათი დამატებები იყოს დამოწმებული, შეუძლიათ განაგძონ კითხვა ჩვენი ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "სახელმძღვანელოსი">
+<!ENTITY disabledUnsigned.devInfo.start "შემმუშავებლებს, რომელთაც თავიანთი დამატებების დამოწმება სურთ, შეუძლიათ განაგრძონ ჩვენი ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "სახელმძღვანელოს კითხვა">
 <!ENTITY disabledUnsigned.devInfo.end ".">
