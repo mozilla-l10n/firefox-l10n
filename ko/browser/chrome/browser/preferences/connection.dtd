@@ -32,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5를 사용할 때 프록시 DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "포트:">
 <!ENTITY  HTTPport.accesskey            "P">

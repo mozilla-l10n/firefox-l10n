@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "시스템 관리자가 업데이트 사용 불가">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "다른 &brandShortName;에서 이미 업데이트를 하고 있음">
+<!ENTITY update.restarting          "재시작중…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
