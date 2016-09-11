@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Enlaces">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Activar cola de pestañas">
-<!ENTITY firstrun_tabqueue_subtext_off "Guardar enlaces para más tarde en &brandShortName; al tocarlos en otras aplicaciones.">
+<!ENTITY firstrun_tabqueue_subtext_off "Guarda los enlaces para más tarde en &brandShortName; al tocarlos en otras aplicaciones.">
 
 <!ENTITY firstrun_tabqueue_message_on "¡Hecho!">
 <!ENTITY firstrun_tabqueue_subtext_on "Siempre puedes desactivar esto en &settings; bajo &pref_category_general;.">
@@ -210,8 +210,8 @@
 <!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_category_home_add_ons "Complementos">
 <!ENTITY pref_home_updates2 "Actualizaciones de contenido">
-<!ENTITY pref_home_updates_enabled "Habilitado">
-<!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
+<!ENTITY pref_home_updates_enabled "Habilitadas">
+<!ENTITY pref_home_updates_wifi "Solo con Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página de inicio">
 <!ENTITY home_homepage_title "Poner una página de inicio">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -241,9 +241,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Habilitado">
-<!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
-<!ENTITY pref_cookies_disabled "Deshabilitado">
+<!ENTITY pref_cookies_accept_all "Habilitadas">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excluyendo a terceros">
+<!ENTITY pref_cookies_disabled "Deshabilitadas">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -254,23 +254,23 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
-<!ENTITY pref_tap_to_load_images_data "Solo sobre Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
+<!ENTITY pref_tap_to_load_images_data "Solo con Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloquearlas">
 
 <!ENTITY pref_show_web_fonts "Mostrar tipografias de la web">
-<!ENTITY pref_show_web_fonts_summary2 "Descargar tipografias remotas cuando se está cargando una página">
+<!ENTITY pref_show_web_fonts_summary2 "Descarga las tipografías remotas cuando se está cargando una página">
 
 <!ENTITY pref_tracking_protection_title2 "Protección de seguimiento">
-<!ENTITY pref_tracking_protection_summary3 "Habilitado en navegación privada">
+<!ENTITY pref_tracking_protection_summary3 "Habilitada en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
-<!ENTITY pref_donottrack_summary "&brandShortName; le dirá los sitios que no quieres ser rastreado">
+<!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quieres ser rastreado">
 
-<!ENTITY pref_tracking_protection_enabled "Habilitado">
-<!ENTITY pref_tracking_protection_enabled_pb "Habilitado en navegación privada">
+<!ENTITY pref_tracking_protection_enabled "Habilitada">
+<!ENTITY pref_tracking_protection_enabled_pb "Habilitada en navegación privada">
 <!ENTITY pref_tracking_protection_disabled "Desactivado">
 
 <!ENTITY pref_whats_new_notification "Qué hay de nuevo en &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Conoce las nuevas funciones después de una actualización">
+<!ENTITY pref_whats_new_notification_summary "Aprende de las nuevas funciones después de una actualización">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -346,13 +346,13 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos siempre que selecciones \u0022Salir\u0022 en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos limpiar">
 <!ENTITY pref_plugins "Complementos">
-<!ENTITY pref_plugins_enabled "Habilitado">
-<!ENTITY pref_plugins_tap_to_play2 "Tocar para reproducir">
-<!ENTITY pref_plugins_disabled "Deshabilitado">
+<!ENTITY pref_plugins_enabled "Habilitados">
+<!ENTITY pref_plugins_tap_to_play2 "Tocar para usarlos">
+<!ENTITY pref_plugins_disabled "Deshabilitados">
 <!ENTITY pref_text_size "Tamaño del texto">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
-<!ENTITY pref_restore_always "Siempre restaurar">
-<!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
+<!ENTITY pref_restore_always "Restaurarlas siempre">
+<!ENTITY pref_restore_quit "No restaurarlas después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Diminuto">
 <!ENTITY pref_font_size_small "Pequeño">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -375,7 +375,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Siempre activar el aumento">
 <!ENTITY pref_zoom_force_enabled_summary "Fuerza el ajuste para que puedas hacer aumento en cualquier página">
 <!ENTITY pref_voice_input "Entrada de voz">
-<!ENTITY pref_voice_input_summary2 "Permitir dictado de voz en la barra de URL">
+<!ENTITY pref_voice_input_summary2 "Permite el dictado de voz en la barra de URL">
 <!ENTITY pref_qrcode_enabled "Lector de código QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Permitir lector QR en la barra de URL">
 
@@ -445,7 +445,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Actualizaciones automáticas">
-<!ENTITY pref_update_autodownload_wifi "Solo sobre Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
 
@@ -531,10 +531,10 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
-<!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; cuando se está navegando por una página">
+<!ENTITY pref_scroll_title_bar_summary2 "Oculta la barra de herramientas de &brandShortName; cuando se está navegando por una página">
 
 <!ENTITY pref_tab_queue_title3 "Cola de pestañas">
-<!ENTITY pref_tab_queue_summary4 "Guardar enlaces para la próxima vez que abras &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "Guarda los enlaces para la próxima vez que abras &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -704,7 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Para descargar archivos y actualizaciones, permite a &brandShortName; acceso al almacenamiento.">
+<!ENTITY updater_permission_text "Para bajar archivos y actualizaciones, permite a &brandShortName; acceso al almacenamiento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permitir">
 
