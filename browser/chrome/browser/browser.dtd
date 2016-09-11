@@ -41,11 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                    "Tab ablösen">
 <!ENTITY  unpinTab.accesskey                "b">
 <!ENTITY  sendTabToDevice.label              "Tab an Gerät senden">
-<!ENTITY  sendTabToDevice.accesskey          "s">
+<!ENTITY  sendTabToDevice.accesskey          "X">
 <!ENTITY  sendPageToDevice.label             "Seite an Gerät senden">
-<!ENTITY  sendPageToDevice.accesskey         "s">
+<!ENTITY  sendPageToDevice.accesskey         "X">
 <!ENTITY  sendLinkToDevice.label             "Link an Gerät senden">
-<!ENTITY  sendLinkToDevice.accesskey         "s">
+<!ENTITY  sendLinkToDevice.accesskey         "X">
 <!ENTITY  moveToNewWindow.label             "In neues Fenster verschieben">
 <!ENTITY  moveToNewWindow.accesskey         "n">
 <!ENTITY  bookmarkAllTabs.label       		"Lesezeichen für alle Tabs hinzufügen…">
