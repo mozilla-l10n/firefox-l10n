@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title "&brandFullName; 정보">
+<!ENTITY aboutDialog.title          "&brandFullName; 정보">
 
 
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "글로벌 커뮤니티">
 <!ENTITY community.exp.end          "가 하나로 모여 만들고 있습니다. 우리는 인터넷이 공개되어 공공의 이익을 위해 사람들이 아무런 제한없이 접근할 수있는 것이라고 믿고 있습니다. ">
 
-<!ENTITY community.start2 "&brandShortName;는 ">
+<!ENTITY community.start2           "&brandShortName;는 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 "에 의해 제작되며, 인터넷을 개선하기 위해">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "에 의해 제작되며, 인터넷을 개선하기 위해">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "글로벌 커뮤니티">
-<!ENTITY community.end3 "가 하나로 모여 만들고 있습니다. 우리는 인터넷이 공개되어 공공의 이익을 위해 사람들이 아무런 제한없이 접근할 수있는 것이라고 믿고 있습니다. ">
+<!ENTITY community.creditsLink      "글로벌 커뮤니티">
+<!ENTITY community.end3             "가 하나로 모여 만들고 있습니다. 우리는 인터넷이 공개되어 공공의 이익을 위해 사람들이 아무런 제한없이 접근할 수있는 것이라고 믿고 있습니다. ">
 
 <!ENTITY helpus.start               "도움을 주고 싶으십니까? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -44,42 +44,44 @@
 <!ENTITY helpus.getInvolvedLink     "직접 참여 해">
 <!ENTITY helpus.end                 " 보세요!">
 
-<!-- LOCALIZATION NOTE (bottomLinks.license) : This is a link title that links to about : license. -->
-<!ENTITY bottomLinks.license "라이선스 정보">
+<!ENTITY releaseNotes.link          "제품 소개">
 
-<!-- LOCALIZATION NOTE (bottomLinks.rights) : This is a link title that links to about : rights. -->
-<!ENTITY bottomLinks.rights "소프트웨어 이용 권리">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "라이선스 정보">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy) : This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy "개인 정보 보호 정책">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "소프트웨어 이용 권리">
 
-<!-- LOCALIZATION NOTE (update.checkingForUpdates) : try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.checkingForUpdates "소프트웨어 업데이트를 확인 중…">
-<!-- LOCALIZATION NOTE (update.noUpdatesFound) : try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.noUpdatesFound "&brandShortName;는 최신 버전임">
-<!-- LOCALIZATION NOTE (update.adminDisabled) : try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.adminDisabled "시스템 관리자가 업데이트를 비활성화하였음">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "개인 정보 보호 정책">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "소프트웨어 업데이트를 확인 중…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName;는 최신 버전임">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "시스템 관리자가 업데이트를 비활성화하였음">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; 이 다른 인스턴스에 의해 업데이트 되었음">
 
-<!-- LOCALIZATION NOTE (update.failed.start, update.failed.linkText, update.failed.end)
-update.failed.start, update.failed.linkText, and update.failed.end all go into
-one line with linkText being wrapped in an anchor that links to a site to download
-the latest version of Firefox (eg http://www.firefox.com) As this is all in
-one line, try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.failed.start "업데이트를 실패했습니다.">
-<!ENTITY update.failed.linkText "최신 버전 다운로드">
-<!ENTITY update.failed.end ".">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "업데이트를 실패했습니다.">
+<!ENTITY update.failed.linkText     "최신 버전 다운로드">
+<!ENTITY update.failed.end          ".">
 
-<!-- LOCALIZATION NOTE (update.manual.start, update.manual.end) : update.manual.start and update.manual.end
-all go into one line and have an anchor in between with text that is the same as the link to a site
-to download the latest version of Firefox (eg http://www.firefox.com) As this is all in one line,
-try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.manual.start "">
-<!ENTITY update.manual.linkText "최신 버전 다운로드">
-<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "">
+<!ENTITY update.manual.linkText     "최신 버전 다운로드">
+<!ENTITY update.manual.end          "">
 
-<!--linkText,update.unsupported.end):
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
      an anchor that links to a site to provide additional information regarding
@@ -89,20 +91,20 @@ try to make the localized text short (see bug 596813 for screenshots) -->
 <!ENTITY update.unsupported.linkText "더 알아보기">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start, update.downloading.end) : update.downloading.start and
-update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
-is all in one line, try to make the localized text short (see bug 596813 for screenshots) The - is
-the "em dash"(long dash).
-example : Downloading update - 111 KB of 13 MB -->
-<!ENTITY update.downloading.start "업데이트 다운로드 중 -">
-<!ENTITY update.downloading.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "업데이트 다운로드 중 -">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "업데이트 적용중…">
 
-<!-- LOCALIZATION NOTE (channel.description.start, channel.description.end) : channel.description.start and
-channel.description.end create one sentence, with the current channel label inserted in between.
-example : You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start "사용 중인 채널은">
-<!ENTITY channel.description.end "입니다.">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "사용 중인 채널은">
+<!ENTITY channel.description.end    "입니다.">
 
-<!ENTITY cmdCloseMac.commandKey		"w">
+<!ENTITY cmdCloseMac.commandKey "w">
