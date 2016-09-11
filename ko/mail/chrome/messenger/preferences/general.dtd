@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "프로그램 시작시 메시지 창에 시작 페이지 출력">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "주소:">
-<!ENTITY location1.accesskey              "o">
+<!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "기본 설정 복원">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -16,9 +16,10 @@
 
 <!ENTITY newMessagesArrive.label          "메시지 도착 알림">
 <!ENTITY playSound.label                  "소리로 알리기">
-<!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "알림창 띄우기">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings.label  "경고는 시스템 환경 설정의 알림 패널에서 끌 수 있습니다.">
 <!ENTITY customizeMailAlert.label         "사용자 정의…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
