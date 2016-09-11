@@ -674,9 +674,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "สลับทิศทางหน้ากระดาษ">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "น">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "สลับทิศทางข้อความ">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ส">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">

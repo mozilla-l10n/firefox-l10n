@@ -14,7 +14,7 @@
 <!ENTITY  saveFile.accesskey          "บ">
 
 <!ENTITY  rememberChoice.label        "ทำสิ่งนี้กับไฟล์ชนิดนี้โดยอัตโนมัติในครั้งถัดไป">
-<!ENTITY  rememberChoice.accesskey    "โ">
+<!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "ซึ่งเป็น:">
 

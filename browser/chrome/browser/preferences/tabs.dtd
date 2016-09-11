@@ -15,7 +15,7 @@
 <!ENTITY warnOpenManyTabs.accesskey   "ม">
 
 <!ENTITY switchToNewTabs.label        "เมื่อฉันเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
-<!ENTITY switchToNewTabs.accesskey    "ม">
+<!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "แสดงตัวอย่างแท็บในแถบงาน Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "บ">

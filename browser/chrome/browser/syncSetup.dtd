@@ -63,7 +63,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
 <!ENTITY pairDevice.setup.description.label  "เพื่อเปิดใช้งาน เลือก &#x0022;จับคู่อุปกรณ์&#x0022; บนอุปกรณ์อื่นของคุณ">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
-<!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &quot;ติดตั้ง Sync&quot; บนอุปกรณ์ของคุณ">
+<!ENTITY pairDevice.dialog.description.label "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก &#x0022;ตั้งค่า Sync&#x0022; บนอุปกรณ์">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
 <!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์สำเร็จ การประสานในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในเบื้องหลัง">

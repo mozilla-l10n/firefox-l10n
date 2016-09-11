@@ -6,11 +6,11 @@
 
 <!ENTITY  warnAddonInstall.label        "เตือนฉันเมื่อไซต์พยายามที่จะติดตั้งส่วนเสริม">
 <!ENTITY  warnAddonInstall.accesskey    "ต">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "ปิดกั้นเนื้อหาที่อันตรายและหลอกลวง">
 <!ENTITY  enableSafeBrowsing.accesskey    "ป">
 
@@ -27,7 +27,7 @@
 <!ENTITY  logins.label                  "การเข้าสู่ระบบ">
 
 <!ENTITY  rememberLogins.label          "จดจำการเข้าสู่ระบบสำหรับไซต์">
-<!ENTITY  rememberLogins.accesskey      "จ">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "อ">
 
