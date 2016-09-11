@@ -53,8 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "თარგმანი ეკუთვნის">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM მასალები">
+<!ENTITY  drmContent.label             "DRM შიგთავსი">
 
-<!ENTITY  playDRMContent.label         "DRM შიგთავსის ჩვენება">
+<!ENTITY  playDRMContent.label         "DRM შიგთავსის დაკვრა">
 <!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "შეიტყვეთ მეტი">
