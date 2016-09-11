@@ -7,7 +7,7 @@
   - in the Web Developer menu.
   - -->
 
-<!ENTITY title      "Sambung">
+<!ENTITY title      "Connect">
 <!ENTITY header     "Sambung ke peranti jauh">
 <!ENTITY host       "Hos:">
 <!ENTITY port       "liang:">

@@ -29,7 +29,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Katalaluan">
+<!ENTITY engine.passwords.label     "Kata laluan">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Keutamaan">
 <!ENTITY engine.prefs.accesskey     "S">
