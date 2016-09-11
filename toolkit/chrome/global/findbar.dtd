@@ -12,7 +12,7 @@
 <!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa berkenaan">
 <!ENTITY caseSensitive.label "Sepadan kes">
-<!ENTITY caseSensitive.accesskey "a">
+<!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Cari dengan sensitiviti klausa">
 <!ENTITY entireWord.label "Seluruh Perkataan">
 <!ENTITY entireWord.accesskey "w">

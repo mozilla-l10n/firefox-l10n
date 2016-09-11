@@ -8,21 +8,21 @@
 <!ENTITY treehead.sitename.label      "Laman">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Alih keluar Laman">
-<!ENTITY removepermission.accesskey   "S">
+<!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "Alih keluar Semua Laman">
-<!ENTITY removeallpermissions.accesskey "i">
+<!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Alamat laman web:">
-<!ENTITY address.accesskey            "l">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Halang">
-<!ENTITY block.accesskey              "H">
+<!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Benarkan Sesi">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Benarkan">
-<!ENTITY allow.accesskey              "B">
+<!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Batal">
-<!ENTITY button.cancel.accesskey      "B">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Simpan Perubahan">
 <!ENTITY button.ok.accesskey          "S">
 

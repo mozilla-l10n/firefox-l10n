@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Julat masa untuk padam: ">
-<!ENTITY clearTimeDuration.accesskey      "t">
+<!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "jam yang terakhir">
 <!ENTITY clearTimeDuration.last2Hours     "Dua jam yang lepas">
 <!ENTITY clearTimeDuration.last4Hours     "Empat Jam yang Lepas">
@@ -42,22 +42,22 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-<!ENTITY detailsProgressiveDisclosure.label     "Perincian">
+<!ENTITY detailsProgressiveDisclosure.label     "Butiran">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Sejarah">
 <!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.label     "Layar &amp; Sejarah Muat Turun">
-<!ENTITY itemHistoryAndDownloads.accesskey "L">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "Form &amp; Latar Carian">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
-<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "Data Laman web Luar Talian">
-<!ENTITY itemOfflineApps.accesskey         "o">
+<!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Login Aktif">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Keutamaan Laman">

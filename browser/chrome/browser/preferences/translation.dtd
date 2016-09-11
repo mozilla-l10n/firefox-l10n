@@ -9,7 +9,7 @@
 <!ENTITY noTranslationForLanguages.label  "Terjemahan tidak akan ditawarkan kepada bahasa berikut:">
 <!ENTITY treehead.languageName.label      "Bahasa">
 <!ENTITY removeLanguage.label             "Singkir Bahasa">
-<!ENTITY removeLanguage.accesskey         "r">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Singkir Semua Bahasa">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
@@ -21,4 +21,4 @@
 <!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Tutup">
-<!ENTITY button.close.accesskey           "T">
+<!ENTITY button.close.accesskey           "C">

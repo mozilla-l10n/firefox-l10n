@@ -8,15 +8,15 @@
 <!ENTITY findField.label "Cari apa:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
-<!ENTITY caseSensitiveCheckbox.accesskey "S">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Bungkus">
-<!ENTITY wrapCheckbox.accesskey "B">
+<!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY findButton.label "Cari Berikut">
-<!ENTITY findButton.accesskey "C">
+<!ENTITY findButton.accesskey "F">
 <!ENTITY cancelButton.label "Batal">
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY up.label "Naik">
-<!ENTITY up.accesskey "N">
+<!ENTITY up.accesskey "U">
 <!ENTITY down.label "Turun">
-<!ENTITY down.accesskey "T">
+<!ENTITY down.accesskey "D">
 <!ENTITY direction.label "Arah">

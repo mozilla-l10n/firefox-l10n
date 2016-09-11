@@ -15,16 +15,16 @@
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
 <!ENTITY  textColor.label                 "Teks:">
-<!ENTITY  textColor.accesskey             "k">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Latar:">
-<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "Guna warna sistem">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Pautan garis bawah">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Pautan Warna">
 <!ENTITY  linkColor.label                 "Pautan Belum Dilawat:">
-<!ENTITY  linkColor.accesskey             "B">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Pautan Dilawati:">
 <!ENTITY  visitedLinkColor.accesskey      "V">

@@ -13,24 +13,24 @@
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Padam">
-<!ENTITY deleteCmd.accesskey "P">
+<!ENTITY deleteCmd.accesskey "d">
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
-<!ENTITY spellAddToDictionary.accesskey "T">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Undur telah ditambah ke dalam kamus">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Semak Ejaan">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Tiada Cadangan Ejaan)">
 <!ENTITY spellDictionaries.label "Bahasa">
-<!ENTITY spellDictionaries.accesskey "B">
+<!ENTITY spellDictionaries.accesskey "l">
 
 <!ENTITY searchTextBox.clear.label "Kosongkan">
 
 <!ENTITY fillLoginMenu.label          "Isikan Log masuk">
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Isi Kata Laluan">
-<!ENTITY fillPasswordMenu.accesskey   "I">
+<!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Isi Nama pengguna">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Tiada Cadangan Log Masuk)">

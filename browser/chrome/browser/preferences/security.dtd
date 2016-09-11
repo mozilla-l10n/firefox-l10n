@@ -21,7 +21,7 @@
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Pengecualian…">
-<!ENTITY  addonExceptions.accesskey     "P">
+<!ENTITY  addonExceptions.accesskey     "E">
 
 
 <!ENTITY  logins.label                  "Log masuk">
@@ -29,12 +29,12 @@
 <!ENTITY  rememberLogins.label          "Ingat log masuk untuk laman ini">
 <!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
-<!ENTITY  passwordExceptions.accesskey  "e">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Guna katalaluan induk">
-<!ENTITY  useMasterPassword.accesskey    "u">
+<!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk…">
-<!ENTITY  changeMasterPassword.accesskey "T">
+<!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "Login Tersimpan…">
 <!ENTITY  savedLogins.accesskey          "L">

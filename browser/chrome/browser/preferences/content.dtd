@@ -10,38 +10,38 @@
 <!ENTITY  notificationsPolicy.label            "Notifikasi">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ketahui lanjut">
 <!ENTITY  notificationsPolicyDesc3.label       "Pilih laman yang diberi izin untuk menghantar notifikasi">
-<!ENTITY  notificationsPolicyButton.accesskey  "i">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Pilih…">
 <!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu saya">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "g">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Tiada pemberitahuan akan dipaparkan sehingga anda muat semula &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Pengecualian…">
-<!ENTITY  popupExceptions.accesskey   "e">
+<!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "Font &amp; Warna">
 
 <!ENTITY  defaultFont.label           "Font asal:">
-<!ENTITY  defaultFont.accesskey       "F">
+<!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Lanjutan…">
-<!ENTITY  advancedFonts.accesskey     "a">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Warna…">
-<!ENTITY  colors.accesskey            "W">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Bahasa">
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
 <!ENTITY chooseButton.label           "Pilih…">
-<!ENTITY chooseButton.accesskey       "i">
+<!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "Terjemah kandungan laman web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Pengecualian…">
-<!ENTITY translateExceptions.accesskey "n">
+<!ENTITY translateExceptions.accesskey "x">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -56,5 +56,5 @@
 <!ENTITY  drmContent.label             "Kandungan DRM">
 
 <!ENTITY  playDRMContent.label         "Main kandungan DRM">
-<!ENTITY  playDRMContent.accesskey     "M">
+<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "Ketahui lanjut">

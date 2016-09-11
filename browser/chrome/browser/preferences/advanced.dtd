@@ -11,18 +11,18 @@
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk menavigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
-<!ENTITY searchStartTyping.accesskey     "s">
+<!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Menunjukkan papan kekunci sentuh apabila perlu">
-<!ENTITY useOnScreenKeyboard.accesskey   "p">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Melungsur">
 
 <!ENTITY useAutoScroll.label             "Guna autogulung">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Guna gulung lancar">
-<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Periksa ejaan saya tika menaip">
@@ -32,7 +32,7 @@
 
 <!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar anda dan kongsi data dengan &vendorShortName; berkaitan kesihatan pelayar anda">
 <!ENTITY enableHealthReport.label        "Hidupkan &brandShortName; Laporan Kesihatan">
-<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Pelajari Lagi">
 
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Kerosakan">
-<!ENTITY enableCrashReporter.accesskey   "K">
+<!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lagi">
 
 <!ENTITY networkTab.label                "Rangkaian">
@@ -51,7 +51,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Ubah suai…">
-<!ENTITY connectionSettings.accesskey    "b">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Cached Kandungan Web">
 
@@ -64,44 +64,44 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
-<!ENTITY limitCacheSizeBefore.accesskey  "T">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
 <!ENTITY clearCacheNow.label             "Padam Sekarang">
-<!ENTITY clearCacheNow.accesskey         "P">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Padam Sekarang">
-<!ENTITY clearOfflineAppCacheNow.accesskey "n">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
-<!ENTITY overrideSmartCacheSize.accesskey "o">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Mengemaskini">
 
 <!ENTITY updateApp.label                 "&brandShortName; mengemaskini:">
 <!ENTITY updateAuto1.label               "Kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
-<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "Semak sebarang kemaskini, tetapi biarkan saya pilih untuk memasangnya">
-<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
-<!ENTITY updateManual.accesskey          "n">
+<!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateHistory.label             "Pamer Sejarah Kemaskini">
-<!ENTITY updateHistory.accesskey         "P">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Kemaskini automatik:">
 <!ENTITY enableSearchUpdate.label        "Enjin Carian">
-<!ENTITY enableSearchUpdate.accesskey    "r">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketia luar talian">
-<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
-<!ENTITY offlineNotifyExceptions.accesskey "e">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Singkir…">
-<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
@@ -114,6 +114,6 @@
 <!ENTITY enableOCSP.label                "Query pelayan penyambut OCSP untuk memastikan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Lihat Sijil">
-<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
-<!ENTITY viewSecurityDevices.accesskey   "e">
+<!ENTITY viewSecurityDevices.accesskey   "D">

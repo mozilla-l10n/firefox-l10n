@@ -20,12 +20,12 @@
 <!ENTITY pageSetupCmd.label "Tetapan Halaman…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Prapapar Cetakan">
-<!ENTITY printPreviewCmd.accesskey "t">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak">
-<!ENTITY printCmd.accesskey "C">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Tutup">
-<!ENTITY closeCmd.accesskey "T">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
@@ -43,29 +43,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Pergi ke Baris...">
-<!ENTITY goToLineCmd.accesskey "g">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Lihat">
-<!ENTITY viewMenu.accesskey       "L">
+<!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Muat semula">
-<!ENTITY reloadCmd.accesskey "M">
+<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Bungkus Baris Panjang"> 
-<!ENTITY menu_wrapLongLines.accesskey "B">
+<!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "Serlahan Sintaks">
-<!ENTITY menu_highlightSyntax.accesskey "h">
+<!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "Saiz Teks">
-<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Tingkatkan">
-<!ENTITY menu_textEnlarge.accesskey "i">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Kurang">
-<!ENTITY menu_textReduce.accesskey "K">
+<!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Cari dalam Laman Ini...">
-<!ENTITY findOnCmd.accesskey "C">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -74,9 +74,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Kembali">
-<!ENTITY backCmd.accesskey "b">
+<!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Maju">
-<!ENTITY forwardCmd.accesskey "M">
+<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 

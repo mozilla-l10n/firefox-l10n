@@ -21,12 +21,12 @@
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Mengecil untuk muat Lebar laman">
-<!ENTITY shrinkToFit.accesskey "L">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "Opsyen">
 
 <!ENTITY printBG.label       "Cetak Latar (warna imej)">
-<!ENTITY printBG.accesskey   "L">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "Margin &amp; Pengepala/Footer">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "inci">
 <!ENTITY marginUnits.metric  "milimeter">
 <!ENTITY marginTop.label     "Atas:">
-<!ENTITY marginTop.accesskey "t">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "Bawah:">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Kiri:">
-<!ENTITY marginLeft.accesskey "K">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Kanan:">
-<!ENTITY marginRight.accesskey "K">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Pengepala &amp; Pengaki">
 

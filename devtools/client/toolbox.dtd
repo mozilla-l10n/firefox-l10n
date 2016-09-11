@@ -204,7 +204,7 @@
 <!ENTITY options.sourceeditor.expandtab.label           "Inden menggunakan ruang">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Gunakan ruang dan bukannya aksara tab">
 <!ENTITY options.sourceeditor.tabsize.label             "Saiz tab">
-<!ENTITY options.sourceeditor.tabsize.accesskey         "t">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Lalai">

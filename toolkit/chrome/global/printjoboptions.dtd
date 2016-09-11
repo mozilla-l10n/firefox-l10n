@@ -10,20 +10,20 @@
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Pekerjaan:">
-<!ENTITY jobTitleInput.accesskey "j">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Warna:">
 <!ENTITY grayRadio.label "Skala kelabu">
-<!ENTITY grayRadio.accesskey "S">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Warna">
-<!ENTITY colorRadio.accesskey "W">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Ruang daripada pinggir kertas ke Margin">
 <!ENTITY topInput.label "Atas:">
-<!ENTITY topInput.accesskey "t">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Bawah:">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Kiri:">
-<!ENTITY leftInput.accesskey "K">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "Kanan:">
-<!ENTITY rightInput.accesskey "K">
+<!ENTITY rightInput.accesskey "R">
