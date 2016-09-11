@@ -16,7 +16,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName; อยู่เคียงข้างคุณเสมอ">
 <!ENTITY firstrun_sync_subtext "ซิงค์แท็บ รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
 <!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
-<!ENTITY firstrun_signin_button "เข้าสู่ระบบ Sync">
+<!ENTITY firstrun_signin_button "ลงชื่อเข้า Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_notnow "ไม่ใช่ตอนนี้">
 <!ENTITY firstrun_button_next "ถัดไป">
@@ -380,7 +380,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
-<!ENTITY pref_sync2 "เข้าสู่ระบบ">
+<!ENTITY pref_sync2 "ลงชื่อเข้า">
 <!ENTITY pref_sync_summary2 "ซิงค์แท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
 <!ENTITY pref_search_suggestions "แสดงคำแนะนำการค้นหา">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
@@ -735,7 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-<!ENTITY percent "&formatS;&#037;&#037;">
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
