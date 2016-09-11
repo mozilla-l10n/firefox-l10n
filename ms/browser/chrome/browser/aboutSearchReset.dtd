@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Pulihkan Tetapan Carian">
+<!ENTITY searchreset.tabtitle       "Kembalikan semula Tetapan Carian">
 
 <!ENTITY searchreset.pageTitle      "Kembalikan semula tetapan carian anda?">
 
-<!ENTITY searchreset.pageInfo1      "Tetapan carian anda sudah lapok. &brandShortName; boleh membantu mengembalikan tetapan piawai carian anda.">
+<!ENTITY searchreset.pageInfo1      "Tetapan carian anda sudah lapok. &brandShortName; boleh membantu anda mengembalikan semula tetapan piawai carian.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-<!ENTITY searchreset.selector.label "Tindakan ini akan menetapkan enjin piawai carian anda secara lalai">
+<!ENTITY searchreset.selector.label "Tindakan ini akan menatacara enjin piawai carian anda menggunakan">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
