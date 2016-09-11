@@ -10,7 +10,7 @@
 <!ENTITY     props.expires.label            "ვადა:">
 
 <!ENTITY     button.allow.label             "დაშვება">
-<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.allow.accesskey         "დ">
 <!ENTITY     button.session.label           "დაშვება ამ სეანსზე">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "აკრძალვა">
