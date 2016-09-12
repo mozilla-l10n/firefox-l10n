@@ -64,14 +64,14 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "კეშის შეზღუდვა:">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.accesskey  "შ">
 <!ENTITY limitCacheSizeAfter.label       "MB დისკზე">
-<!ENTITY clearCacheNow.label             "გასუფთავება ახლავე">
-<!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება ახლავე">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "კესის ავტომატური მართვის უგულებელყოფა">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY clearCacheNow.label             "გასუფთავება">
+<!ENTITY clearCacheNow.accesskey         "ფ">
+<!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
+<!ENTITY clearOfflineAppCacheNow.accesskey "გ">
+<!ENTITY overrideSmartCacheSize.label    "კეშის ავტომატური მართვის უგულებელყოფა">
+<!ENTITY overrideSmartCacheSize.accesskey "ბ">
 
 <!ENTITY updateTab.label                 "განახლება">
 
@@ -96,7 +96,7 @@
 <!ENTITY offlineNotify.label             "შემატყობინე როცა ვებსაიტი ითხოვს მონაცემთა შენახვას ავტონომიური სარგებლობისთვის">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "გამონაკლისები…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotifyExceptions.accesskey "კ">
 
 <!ENTITY offlineAppsList2.label          "მოცემულ ვებ-საიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">

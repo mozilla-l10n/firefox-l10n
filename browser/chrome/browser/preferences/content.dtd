@@ -17,7 +17,7 @@
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა ჩართვამდე შეტყობინებები არ გამოჩნდება">
 
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.accesskey   "გ">
 
 <!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 
@@ -35,13 +35,13 @@
 
 <!ENTITY languages.label              "ენები">
 <!ENTITY chooseLanguage.label         "მიუთითეთ სასურველი ენა გვერდების საჩვენებლად">
-<!ENTITY chooseButton.label           "შერჩევა…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.label           "არჩევა…">
+<!ENTITY chooseButton.accesskey       "ა">
 
 <!ENTITY translateWebPages.label      "ვებ-შიგთავსის გადათარგმნა">
-<!ENTITY translateWebPages.accesskey  "T">
+<!ENTITY translateWebPages.accesskey  "გ">
 <!ENTITY translateExceptions.label    "გამონაკლისები…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.accesskey "ნ">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

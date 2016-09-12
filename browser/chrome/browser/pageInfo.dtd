@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.width  "700">
 <!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
@@ -27,9 +27,9 @@
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
 <!ENTITY  mediaTab              "მედია">
-<!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "მისამართი:">
-<!ENTITY  mediaText             "ალტერნატული ტექსტი:">
+<!ENTITY  mediaTab.accesskey    "მ">
+<!ENTITY  mediaLocation         "მდებარეობა:">
+<!ENTITY  mediaText             "ასოცირებული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "ტიპი">
@@ -37,50 +37,50 @@
 <!ENTITY  mediaCount            "რაოდენობა">
 <!ENTITY  mediaDimension        "ზომები:">
 <!ENTITY  mediaLongdesc         "დეტალური აღწერა:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "ბ">
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "მედიის ესკიზი">
+<!ENTITY  mediaSaveAs.accesskey "რ">
+<!ENTITY  mediaSaveAs2.accesskey "ე">
+<!ENTITY  mediaPreview          "მედიის წინასწარი ნახვა:">
 
-<!ENTITY  feedTab               "არხები">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "ხელმოწერა">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedTab               "ლენტები">
+<!ENTITY  feedTab.accesskey     "ლ">
+<!ENTITY  feedSubscribe         "გამოწერა">
+<!ENTITY  feedSubscribe.accesskey "გ">
 
-<!ENTITY  permTab               "უფლებები">
-<!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "ნაგულისხმევის გამოყენება">
-<!ENTITY  permAskAlways         "დამეკითხე ყოველთვის">
+<!ENTITY  permTab               "ნებართვები">
+<!ENTITY  permTab.accesskey     "ნ">
+<!ENTITY  permUseDefault        "ტიპობრივი">
+<!ENTITY  permAskAlways         "ყოველთვის კითხვა">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">
-<!ENTITY  permissionsFor        "უფლებები:">
-<!ENTITY  permPlugins           "გააქტიურეთ პლაგინები">
+<!ENTITY  permissionsFor        "უფლებები საიტისთვის:">
+<!ENTITY  permPlugins           "მოდულების გააქტიურება">
 
 <!ENTITY  permClearStorage           "საცავის გასუფთავება">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permClearStorage.accesskey "გ">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "სერთიფიკატის ჩვენება">
-<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityTab.accesskey "უ">
+<!ENTITY  securityView.certView "სერთიფიკატის ნახვა">
+<!ENTITY  securityView.accesskey "ნ">
 <!ENTITY  securityView.unknown   "უცნობია">
 
 
 <!ENTITY  securityView.identity.header   "საიტის ნამდვილობა">
 <!ENTITY  securityView.identity.owner    "მფლობელი: ">
-<!ENTITY  securityView.identity.domain   "ვებ-საიტი:">
+<!ENTITY  securityView.identity.domain   "საიტი:">
 <!ENTITY  securityView.identity.verifier "დამმოწმებელი: ">
 
-<!ENTITY  securityView.privacy.header                   "კონფიდენციალურობის &amp; ისტორია">
-<!ENTITY  securityView.privacy.history                  "ამ ვებ-საიტზე დღემდე შემოსული ვარ?">
-<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს ვებ-საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
-<!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ჩვენება">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "ამ ვებ-საიტისთვის პაროლები შენახული მაქვს?">
-<!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ჩვენება">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.header                   "პრივატულობა და ისტორია">
+<!ENTITY  securityView.privacy.history                  "ამ საიტზე დღემდე ნამყოფი ვარ?">
+<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
+<!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "ფ">
+<!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის პაროლები შენახული მაქვს?">
+<!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ნახვა">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "პ">
 
 <!ENTITY  securityView.technical.header                 "ტექნიკური დეტალები">
 
