@@ -9,5 +9,5 @@
 <!ENTITY bccAddr.label  "Жасырын көшірме:"> 
 <!ENTITY replyAddr.label   "Жауап алушы:"> 
 <!ENTITY newsgroupsAddr.label   "Жаңалықтар тобы:"> 
-
+<!ENTITY followupAddr.label   "Мынаған жауап жазу:"> 
 

@@ -8,7 +8,8 @@
 <!ENTITY editContactName.label "Аты:">
 <!ENTITY editContactName.accesskey "А">
 
-
+<!ENTITY editContactEmail.label "Эл.пошта:">
+<!ENTITY editContactEmail.accesskey "Э">
 
 <!ENTITY editContactAddressBook.label "Адрес кітапшасы:">
 <!ENTITY editContactAddressBook.accesskey "А">
@@ -19,3 +20,4 @@
 <!ENTITY editContactPanelDone.label "Дайын">
 <!ENTITY editContactPanelDone.accesskey "Д">
 
+<!ENTITY contactMoveDisabledWarning.description "Сіз адрестік кітапшаны өзгерте алмайсыз, өйткені контакт хаттарды тарату тізімінде болып тұр.">

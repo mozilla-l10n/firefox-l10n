@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY name.label                 "Аты:">
+<!ENTITY name.accesskey             "А">
 
 
 
 
+<!ENTITY chooseFoldersButton.label "Таңдау…">
+<!ENTITY chooseFoldersButton.accesskey "Т">
 
 
-
-
-
-
-
-
+<!ENTITY newFolderButton.label       "Жасау">
+<!ENTITY newFolderButton.accesskey   "с">
 <!ENTITY editFolderButton.label      "Жаңарту">
 <!ENTITY editFolderButton.accesskey  "Ж">

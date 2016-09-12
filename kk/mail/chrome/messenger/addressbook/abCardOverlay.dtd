@@ -23,9 +23,10 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-
-
-
+<!ENTITY NameField1.label               "Алғашқы:">
+<!ENTITY NameField1.accesskey           "А">
+<!ENTITY NameField2.label               "Соңғы:">
+<!ENTITY NameField2.accesskey           "С">
 
 
 <!ENTITY DisplayName.label              "Көрсету:">
