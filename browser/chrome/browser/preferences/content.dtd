@@ -26,11 +26,11 @@
 <!ENTITY  defaultSize.label           "ზომა:">
 <!ENTITY  defaultSize.accesskey       "ზ">
 
-<!ENTITY  advancedFonts.label         "დამატებით…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.label         "დამატებითი…">
+<!ENTITY  advancedFonts.accesskey     "დ">
 
 <!ENTITY  colors.label                "ფერები…">
-<!ENTITY  colors.accesskey            "C">
+<!ENTITY  colors.accesskey            "ფ">
 
 
 <!ENTITY languages.label              "ენები">
