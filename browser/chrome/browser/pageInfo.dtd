@@ -7,22 +7,22 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "კოპირება">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "ყ">
+<!ENTITY  copy.accesskey        "კ">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "ყველაფრის მონიშვნა">
 <!ENTITY  selectall.accesskey   "ყ">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "ძირითადი">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab            "ზოგადი">
+<!ENTITY  generalTab.accesskey  "ზ">
 <!ENTITY  generalURL            "მისამართი:">
 <!ENTITY  generalType           "ტიპი:">
 <!ENTITY  generalMode           "ასახვის რეჟიმი:">
 <!ENTITY  generalSize           "ზომა:">
-<!ENTITY  generalReferrer       "დამოწმება:">
-<!ENTITY  generalSource         "წყარო:">
-<!ENTITY  generalModified       "შეიცვალა:">
-<!ENTITY  generalEncoding2      "ტექსტის კოდირება">
+<!ENTITY  generalReferrer       "დამოწმების URL:">
+<!ENTITY  generalSource         "კეშის წყარო:">
+<!ENTITY  generalModified       "ბოლო ცვლილება:">
+<!ENTITY  generalEncoding2      "კოდირება:">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
@@ -68,10 +68,10 @@
 <!ENTITY  securityView.unknown   "უცნობია">
 
 
-<!ENTITY  securityView.identity.header   "ვებ-საიტის იდენტურობა">
+<!ENTITY  securityView.identity.header   "საიტის ნამდვილობა">
 <!ENTITY  securityView.identity.owner    "მფლობელი: ">
 <!ENTITY  securityView.identity.domain   "ვებ-საიტი:">
-<!ENTITY  securityView.identity.verifier "შეამოწმა: ">
+<!ENTITY  securityView.identity.verifier "დამმოწმებელი: ">
 
 <!ENTITY  securityView.privacy.header                   "კონფიდენციალურობის &amp; ისტორია">
 <!ENTITY  securityView.privacy.history                  "ამ ვებ-საიტზე დღემდე შემოსული ვარ?">

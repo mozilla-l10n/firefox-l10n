@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.accesskey                   "კ">
 
 
-<!ENTITY syncBrand.shortName.label    "სინქრონიზება">
+<!ENTITY syncBrand.shortName.label    "სინქრონიზაცია">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; - შესვლა…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -773,7 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "ს">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; - ხელახლა დაკავშირება…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "სინქრონიზება">
+<!ENTITY syncToolbarButton.label      "სინქრონიზაცია">
 
 <!ENTITY socialToolbar.title        "სოციალური ხელსაწყოთა ზოლის ღილაკი">
 
