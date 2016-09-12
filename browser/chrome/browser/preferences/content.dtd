@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "ამომხტარი ფანჯრები">
+<!ENTITY  popups.label                "ამომხტომები">
 
-<!ENTITY  blockPopups.label           "ამომხტარი ფანჯრების დაბლოკვა">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.label           "ამომხტომი ფანჯრების დაბლოკვა">
+<!ENTITY  blockPopups.accesskey       "დ">
 
 <!ENTITY  notificationsPolicy.label            "შეტყობინებები">
 <!ENTITY  notificationsPolicyLearnMore.label   "შეიტყვეთ მეტი">
-<!ENTITY  notificationsPolicyDesc3.label       "საიტების არჩევა, რომელთაგან შეტყობინების მიღებაც დაშვებულია">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyDesc3.label       "საიტები, რომელთაგანაც შეტყობინებების მიღება დაშვებულია">
+<!ENTITY  notificationsPolicyButton.accesskey  "რ">
 <!ENTITY  notificationsPolicyButton.label      "არჩევა…">
 <!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "შეტყობინებები არ გამოჩნდება სანამ ხელახლა არ ჩართავთ &brandShortName;-ს">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "წ">
+<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა ჩართვამდე შეტყობინებები არ გამოჩნდება">
 
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 
-<!ENTITY  defaultFont.label           "ნაგულისხმევი შრიფტი:">
-<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultFont.label           "ნაგულისხმები შრიფტი:">
+<!ENTITY  defaultFont.accesskey       "ნ">
 <!ENTITY  defaultSize.label           "ზომა:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultSize.accesskey       "ზ">
 
 <!ENTITY  advancedFonts.label         "დამატებით…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -56,5 +56,5 @@
 <!ENTITY  drmContent.label             "DRM შიგთავსი">
 
 <!ENTITY  playDRMContent.label         "DRM შიგთავსის დაკვრა">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.accesskey     "დ">
 <!ENTITY  playDRMContent.learnMore.label "შეიტყვეთ მეტი">
