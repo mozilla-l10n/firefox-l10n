@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "فائر فاکس WebIDE">
+
 <!ENTITY projectMenu_label "پراجیکٹ">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "نیا اپلی کیشن…">
@@ -88,8 +90,8 @@
 <!-- Lense -->
 
 <!ENTITY details_valid_header "جائز">
-
-
+<!ENTITY details_warning_header "تنبیہات">
+<!ENTITY details_error_header "نقائص">
 <!ENTITY details_description "تصریح">
 <!ENTITY details_location "محل وقوع">
 <!ENTITY details_manifestURL "اپلی کیشن آئی ڈی">
@@ -117,7 +119,7 @@
 <!ENTITY prefs_general_title "عمومی">
 <!ENTITY prefs_restore "طےشدہ بحال کریں">
 <!ENTITY prefs_manage_components "فالتو جزو بندوبست کریں">
-
+<!ENTITY prefs_options_autoconnectruntime "پچھلے رن ٹائم سے دوبارہ مربوط">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
 <!ENTITY prefs_options_rememberlastproject "آخری منصوبے یاد رکھیں">
 <!ENTITY prefs_options_rememberlastproject_tooltip "گزشتہ منصوبے کو بحال کریں جب ویب ائ ڈی ای شروع ہوتا ہے">

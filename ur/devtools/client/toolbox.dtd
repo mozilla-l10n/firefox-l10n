@@ -200,7 +200,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "پوٹ کاری کا کھوج لگائیں">
 <!ENTITY options.sourceeditor.detectindentation.tooltip " مںبع مواد پر منحصر پوٹ کاری کا اندازہ لگائیں">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "خود کار بند ہونے والے بریکٹ">
-
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "خود کار طریقے سے بند خطوط وحدانی داخل کریں">
 <!ENTITY options.sourceeditor.expandtab.label           "فاصلہ رکھ کر پوٹ کاری کریں">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ٹیب کی جگہ سپیس کا استعمال کریں">
 <!ENTITY options.sourceeditor.tabsize.label             "ٹیب سائز">
