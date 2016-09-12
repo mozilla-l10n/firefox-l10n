@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "გამონაკლისები…">
 <!ENTITY  cookieExceptions.accesskey    "გ">
 
-<!ENTITY  showCookies.label             "ფუნთუშების ჩვენება…">
+<!ENTITY  showCookies.label             "ფუნთუშების ნახვა…">
 <!ENTITY  showCookies.accesskey         "ჩ">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ბრაუზერი:">

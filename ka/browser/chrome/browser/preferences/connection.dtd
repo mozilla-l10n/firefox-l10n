@@ -23,7 +23,7 @@
 <!ENTITY  ftp.label                     "FTP პროქსი:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP პროქსი:">
-<!ENTITY  http.accesskey                "ხ">
+<!ENTITY  http.accesskey                "ი">
 <!ENTITY  ssl.label                     "SSL პროქსი:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS სერვერი:">
@@ -42,8 +42,8 @@
 <!ENTITY  noproxy.label                 "პროქსი არ იქნეს გამოყენებული მისამართზე:">
 <!ENTITY  noproxy.accesskey             "ა">
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
-<!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  shareproxy.label              "ყველა პროტოკოლისთვის ამ პროქსი-სერვერის გამოყენება">
+<!ENTITY  shareproxy.accesskey          "ყ">
 <!ENTITY  autologinproxy.label          "არ მოითხოვოს ავთენტიფიკაცია თუ პაროლი შენახულია">
 <!ENTITY  autologinproxy.accesskey      "თ">
 <!ENTITY  autologinproxy.tooltip        "ეს პარამეტრი ავტომატურად გატარებთ ავთენტიფიკაციას პროქსიში (როდესაც მათთვის მტკიცებულებები შენახული გაქვთ). თუ ავთენტიფიკაცია ჩაიშალა შეგატყობინებთ. ">
