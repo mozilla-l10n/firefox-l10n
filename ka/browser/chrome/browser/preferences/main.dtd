@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; ნაგულისხმევი ბრაუზერი არაა">
 
 <!ENTITY separateProfileMode.label        "&brandShortName;-ის და Firefox-ის ერთად გაშვების ნების დართვა">
-<!ENTITY useFirefoxSync.label             "რჩევა: ეს ცალკეულ პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
+<!ENTITY useFirefoxSync.label             "რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
 <!ENTITY getStarted.label                 "Sync-ის გამოყენების დაწყება…">
 
 <!ENTITY e10sEnabled.label                "მრავალპროცესიანი &brandShortName;">
