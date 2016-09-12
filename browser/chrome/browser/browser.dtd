@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "მეტი გაზიარების მომსახურების პოვნა...">
-<!ENTITY sharePageCmd.label "ამ გვერდის გაზიარება">
+<!ENTITY sharePageCmd.label "გვერდის გაზიარება">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "მ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->

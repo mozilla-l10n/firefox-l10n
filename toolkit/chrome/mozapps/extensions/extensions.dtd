@@ -182,7 +182,7 @@
 <!ENTITY search.filter2.available.tooltip     "დასაყენებლად ხელმისაწვდომი დამატებების ჩვენება">
 
 <!ENTITY addon.homepage                       "საწყისი გვერდი">
-<!ENTITY addon.details.label                  "დეტალურად">
+<!ENTITY addon.details.label                  "ვრცლად">
 <!ENTITY addon.details.tooltip                "ვრცლად ამ დამატების შესახებ">
 <!ENTITY addon.unknownDate                    "უცნობი">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
