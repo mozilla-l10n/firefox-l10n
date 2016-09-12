@@ -10,16 +10,16 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "განახლებების შემოწმება">
 <!ENTITY update.checkForUpdatesButton.accesskey   "გ">
-<!ENTITY update.updateButton.label2                "განახლების დასაყენებლად გადატვირთეთ &brandShortName;">
-<!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "განახლების გააქტიურება...">
-<!ENTITY update.applyButtonBillboard.accesskey    "გ">
+<!ENTITY update.updateButton.label2                "განახლების დასაყენებლად ხელახლა გაუშვით &brandShortName;">
+<!ENTITY update.updateButton.accesskey            "ხ">
+<!ENTITY update.applyButtonBillboard.label        "განახლების მიყენება...">
+<!ENTITY update.applyButtonBillboard.accesskey    "მ">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; საცდელი ვერსიაა და შესაძლოა არამდგრადად იმუშაოს.">
+<!ENTITY warningDesc.version        "&brandShortName; ექსპერიმენტულია და შესაძლოა არასტაბილურად იმუშაოს.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "ის ავტომატურად აგზავნის ინფორმაციას კომპიუტერის წარმადობა, ნაწილებისა და მორგების შესახებ &vendorShortName;-ში რათა მოხდეს &brandShortName;-ის გაუმჯობესება.">
+<!ENTITY warningDesc.telemetryDesc  "ის ავტომატურად უგზავნის &vendorShortName;-ს ინფორმაციას წარმადობის, აპარატურლი უზრუნველყოფის და თქვენი ბრაუზერის გამართვის შესახებ, რათა მოხდეს &brandShortName;-ის გაუმჯობესება.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -27,23 +27,23 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " არის ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "მსოფლიო საზოგადოების მიერ">
-<!ENTITY community.exp.end          " ვინც ზრუნავს ღია ინტერნეტზე, რათა ის დარჩეს ყველასათვის გახსნილი და ხელმისაწვდომი.">
+<!ENTITY community.exp.creditsLink  "გლობალური საზოგადოება">
+<!ENTITY community.exp.end          " რომელიც მუშაობს იმაზე, რომ ინტერნეტი დარჩეს ღია, საზოგადოებრივი და ყველასათვის ხელმისაწვდომი.">
 
 <!ENTITY community.start2           "&brandShortName; შექმნილია">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " — ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "მსოფლიო საზოგადოების მიერ">
-<!ENTITY community.end3             ",  ვინც ზრუნავს ღია ინტერნეტზე, რათა ის დარჩეს ყველასათვის გახსნილი და ხელმისაწვდომი.">
+<!ENTITY community.creditsLink      "გლობალური საზოგადოება">
+<!ENTITY community.end3             " რომელიც მუშაობს იმაზე, რომ ინტერნეტი დარჩეს ღია, საზოგადოებრივი და ყველასათვის ხელმისაწვდომი.">
 
 <!ENTITY helpus.start               "გსურს დაგვეხმარო? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "გააკეთეთ შემოწირულობა">
+<!ENTITY helpus.donateLink          "გააკეთე შეწირულება">
 <!ENTITY helpus.middle              " ან ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდით!">
+<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდი!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "რა არის ახალი">
@@ -55,7 +55,7 @@
 <!ENTITY bottomLinks.rights         "მომხმარებლის უფლებები">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "კონფიდენციალობის პოლიტიკა">
+<!ENTITY bottomLinks.privacy        "პრივატულობის პოლიტიკა">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "მიმდინარეობს განახლებების შემოწმება...">
