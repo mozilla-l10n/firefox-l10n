@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "დამოწმება:">
 <!ENTITY  generalSource         "წყარო:">
 <!ENTITY  generalModified       "შეიცვალა:">
-<!ENTITY  generalEncoding2      "ტექსტის დაშიფვრა">
+<!ENTITY  generalEncoding2      "ტექსტის კოდირება">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
