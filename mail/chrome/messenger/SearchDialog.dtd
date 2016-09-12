@@ -24,31 +24,33 @@
 
 <!-- for ABSearchDialog.xul -->
 
-
-
+<!ENTITY propertiesButton.label      "Қасиеттері">
+<!ENTITY propertiesButton.accesskey  "с">
 <!ENTITY composeButton.label         "Жазу">
 <!ENTITY composeButton.accesskey     "з">
-
-
+<!ENTITY deleteCardButton.label      "Өшіру">
+<!ENTITY deleteCardButton.accesskey  "ш">
 
 <!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Ағын">
 <!ENTITY fromColumn.label "Кімнен">
 <!ENTITY recipientColumn.label "Алушы">
 
+<!ENTITY subjectColumn.label "Тақырыбы">
 
 
-
-
+<!ENTITY tagsColumn.label "Тегтер">
 <!ENTITY accountColumn.label "Тіркелгі">
+<!ENTITY statusColumn.label "Күйі">
+<!ENTITY sizeColumn.label "Өлшемі">
 
 
-
-
-
+<!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
+<!ENTITY receivedColumn.label "Алынған">
 
-
-
+<!ENTITY locationColumn.label "Орналасу">
 
 <!-- Thread Pane Tooltips -->
 

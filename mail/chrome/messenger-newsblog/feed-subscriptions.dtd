@@ -4,7 +4,8 @@
 <!-- Subscription Dialog -->
 
 
-
+<!ENTITY feedTitle.label             "Атауы:">
+<!ENTITY feedTitle.accesskey         "А">
 
 
 
