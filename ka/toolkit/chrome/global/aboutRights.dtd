@@ -16,8 +16,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; ბრაუზერი მოგეწოდებათ ">
-<!ENTITY rights.intro-point1b "Mozilla საზოგადო ლიცენზიით">
-<!ENTITY rights.intro-point1c ". ეს ნიშნავს, რომ შეგიძლიათ &brandShortName; ბრაუზერის გამოყენება, კოპირება და გავრცელება.  ასევე, შეგიძლიათ შეცვალოთ &brandShortName; ბრაუზერის პირველწყარო კოდები თქვენი მოთხოვნების შესაბამისად. Mozilla საზოგადო ლიცენზია ასევე გაძლევთ უფლებას გაავრცელოთ თქვენი სახეცვლილი ვერსიები.">
+<!ENTITY rights.intro-point1b "Mozilla საზოგადოებრივი ლიცენზიით">
+<!ENTITY rights.intro-point1c ". ეს ნიშნავს, რომ შეგიძლიათ &brandShortName; ბრაუზერის გამოყენება, კოპირება და გავრცელება.  ასევე, შეგიძლიათ შეცვალოთ &brandShortName; ბრაუზერის პირველწყარო კოდები თქვენი მოთხოვნების შესაბამისად. Mozilla საზოგადოებრივი ლიცენზია ასევე გაძლევთ უფლებას გაავრცელოთ თქვენი სახეცვლილი ვერსიები.">
 
 <!ENTITY rights.intro-point2-a "თქვენ არ გეძლევათ უფლება, რომელიმე სავაჭრო ნიშანზე, ასევე Mozilla Foundation-ის ან მისი რომელიმე მხარის სავაჭრო ნიშნების ლიცენზიაზე, მათ შორის Firefox-ის სახელის ან ლოგოს შეუზღუდავ გამოყენებაზე. დამატებითი ინფორმაცია სავაჭრო ნიშნების შესახებ შეგიძლია მოიძიოთ  ">
 <!ENTITY rights.intro-point2-b "აქ">
@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "ნებისმიერი კონფიდენციალობის პირობები ამ პროდუქტისთვის აქ უნდა აისახოს.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "&brandShortName;-ის ზოგიერთი ფუნქცია იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ ფუნქციების გამორთვის თაობაზე, შეგიძლიათ იხილოთ">
+<!ENTITY rights2.intro-point4a "&brandShortName;-ის ზოგიერთი ფუნქცია იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ ფუნქციების გამორთვის თაობაზე, შეგიძლიათ იხილოთ ">
 <!ENTITY rights.intro-point4b "მომსახურების პირობებში">
 <!ENTITY rights.intro-point4c ".">
 
@@ -47,7 +47,7 @@
 <!ENTITY rights2.webservices-header "&brandFullName; ინტერნეტზე დაფუძნებული საინფორმაციო მომსახურებები">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "გარკვეული ტიპის ვიდეოების გასაშვებად, &brandShortName; ჩამორტვირთავს შიგთავსის გასაშიფრ შესაბამისს მოდულებს, მესამე მხარისგან.">
+<!ENTITY rights.intro-point5 "გარკვეული ტიპის ვიდეოების გასაშვებად, &brandShortName; მესამე მხარისგან. ჩამორტვირთავს შიგთავსის გასაშიფრ შესაბამისს მოდულებს.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in

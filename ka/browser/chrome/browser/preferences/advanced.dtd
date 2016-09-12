@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
 <!ENTITY enableSearchUpdate.accesskey    "ს">
 
-<!ENTITY offlineNotify.label             "შემატყობინე როცა ვებსაიტი ითხოვს მონაცემთა შენახვას ავტონომიური სარგებლობისთვის">
+<!ENTITY offlineNotify.label             "ცნობება საიტის მიერ მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის შესახებ">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "გამონაკლისები…">
 <!ENTITY offlineNotifyExceptions.accesskey "კ">
