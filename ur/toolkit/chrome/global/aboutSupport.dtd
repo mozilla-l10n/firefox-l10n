@@ -105,7 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "سینڈ باکس">
 
 <!ENTITY aboutSupport.safeModeTitle "محفوظ موڈ آزمائیں">
-
+<!ENTITY aboutSupport.restartInSafeMode.label "ایڈز آن نا اہل کر کے دوبارہ شروع کریں...">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "فیچر">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "تشخیصیات">
@@ -114,4 +114,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "فیصلہ لاگ">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "حادثے گارڈ معذور خصوصیات">
-
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "متبادل راستے">
