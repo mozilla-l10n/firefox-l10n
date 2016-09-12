@@ -6,8 +6,8 @@
 <!ENTITY openFileCmd.label "Файлды ашу...">
 <!ENTITY openFileCmd.accesskey "Ф">
 <!ENTITY openFileCmd.key "O">
-
-
+<!ENTITY openRemoteCmd.label "Интернет адресін ашу…">
+<!ENTITY openRemoteCmd.accesskey "д">
 <!ENTITY openRemoteCmd.key "L">
 
 

@@ -7,12 +7,12 @@
 
 
 
-
-
+<!ENTITY resetButton.label           "Тазарту">
+<!ENTITY resetButton.accesskey       "Т">
 <!ENTITY openButton.label            "Ашу">
 <!ENTITY openButton.accesskey        "ш">
-
-
+<!ENTITY deleteButton.label          "Өшіру">
+<!ENTITY deleteButton.accesskey      "р">
 
 
 
