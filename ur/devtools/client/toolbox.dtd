@@ -20,8 +20,12 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "نا اہل بنائیں پاپ اپ خود چھپائیں">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "error افتتاحی براؤزر ٹول باکس:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -34,24 +38,40 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "انداز براؤزر دکھائیں">
+<!ENTITY options.showUserAgentStyles.tooltip "اس پر ٹرننگ براؤزر کی طرف سے بھری ہوئی ہے کہ طےشدہ سٹائل دکھائے گا.">
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "DOM اوصاف تراش">
+<!ENTITY options.collapseAttrs.tooltip "انسپکٹر میں طویل صفات تراش">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "پہلے سے طے شدہ رنگ یونٹ">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.authored "مصنف کے طور پر">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "ہیکس">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "(RGB(A">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
@@ -60,19 +80,25 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* موجودہ سیشن صرف، صفحات دوبارہ">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "براؤزر کروم اورadd-on بگ آلہ خانوں فعال">
+<!ENTITY options.enableChrome.tooltip3  "پر اس اختیار ٹرننگ آپ کو Add-On کے مینیجر سے براؤزر تناظر میں مختلف ڈویلپر کے اوزار استعمال کرنے کے لئے اور ڈیبگ Add-on (ٹولز> ویب ڈیولپر> براؤزر ٹول باکس کے ذریعے) کی اجازت دے گا">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "بعید ٹھیک کر رہا ہے اہل بنائیں">
-
+<!ENTITY options.enableRemote.tooltip   "پر اس اختیار ٹرننگ ڈویلپر کے اوزار Firefox OS طرح ریموٹ فائر فاکس مثال ڈیبگ کرنے کی اجازت دے گا">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableWorkers.label    "کارکن ٹھیک کرنا (ترقی میں) فعال کریں">
 <!ENTITY options.enableWorkers.tooltip  "اس اختیار کو چالو کرنے سے آپ تخلیق کار ٹول کو کارکنان کو  ٹھیک کرنے کی اجازت دیں گے">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -84,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "HTTP کیسہ کو نا اہل بنائیں (جب ٹول بکسا کھلا ہو )">
+<!ENTITY options.disableHTTPCache.tooltip   "اس اختیار کو اہل بنانے سے  HTTPکیسہ تمام ٹیب جن میں ٹول بکس کھلا ہے نا اہلل ہو جائے گا۔ خدمت کارکنا٘ن اس اختیار سے متاثر نہیں ہوں گے۔">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -144,7 +172,7 @@
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS خود تکمیل کریں">
-
+<!ENTITY options.stylesheetAutocompletion.tooltip    "CSS جصوصیات خودکار مکمل، قدر اور منتخب کنندگاں  انداز تدوین کار میں جیسے آپ لکھیں">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
@@ -161,20 +189,22 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
+
+<!ENTITY options.showPlatformData.label    "گیکو پلیٹ فارم کوائف دکھایں">
 <!ENTITY options.showPlatformData.tooltip  "اگر آپ اس اختیار کو فعال ہے تو جاوا پروفائلر رپورٹوں چھپکلی پلیٹ فارم علامتوں میں شامل ہوں گے">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
 
 <!ENTITY options.sourceeditor.label                     "تدوین کار ترجیحات">
+<!ENTITY options.sourceeditor.detectindentation.label   "پوٹ کاری کا کھوج لگائیں">
+<!ENTITY options.sourceeditor.detectindentation.tooltip " مںبع مواد پر منحصر پوٹ کاری کا اندازہ لگائیں">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "خود کار بند ہونے والے بریکٹ">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.expandtab.label           "فاصلہ رکھ کر پوٹ کاری کریں">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ٹیب کی جگہ سپیس کا استعمال کریں">
+<!ENTITY options.sourceeditor.tabsize.label             "ٹیب سائز">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "بٹن بائنڈنگ">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "طے شدہ">
