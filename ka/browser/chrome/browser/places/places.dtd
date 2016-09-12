@@ -110,15 +110,15 @@
 
 <!ENTITY find.label               "ძიება:">
 <!ENTITY find.accesskey           "ძ">
-<!ENTITY view.label               "ჩვენება">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.label               "ხედი">
+<!ENTITY view.accesskey           "ხ">
 <!ENTITY byDate.label             "თარიღით">
-<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.accesskey         "თ">
 <!ENTITY bySite.label             "საიტით">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "სტუმრობებით">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ბოლო სტუმრობით">
-<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY bySite.accesskey         "ს">
+<!ENTITY byMostVisited.label      "მონახულებების რაოდენობით">
+<!ENTITY byMostVisited.accesskey  "მ">
+<!ENTITY byLastVisited.label      "ბოლო მონახულობის თარიღით">
+<!ENTITY byLastVisited.accesskey  "ბ">
 <!ENTITY byDayAndSite.label       "თარიღით და საიტით">
-<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byDayAndSite.accesskey   "ს">
