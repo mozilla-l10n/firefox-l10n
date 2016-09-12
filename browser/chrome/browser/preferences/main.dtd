@@ -24,11 +24,11 @@
 
 <!ENTITY saveTo.label "ფაილების შესანახი მდებარეობა">
 <!ENTITY saveTo.accesskey "ს">
-<!ENTITY chooseFolderWin.label        "დათვალიერება…">
-<!ENTITY chooseFolderWin.accesskey    "ლ">
+<!ENTITY chooseFolderWin.label        "ამორჩევა…">
+<!ENTITY chooseFolderWin.accesskey    "რ">
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ყოველთვის დამეკითხე ფაილების შესანახ მდებარეობას">
+<!ENTITY alwaysAsk.label "ფაილების შესანახი მდებარეობის ყოველ ჯერზე მითითება">
 <!ENTITY alwaysAsk.accesskey "ყ">
 
 <!ENTITY alwaysCheckDefault2.label        "ყოველთვის შემოწმდეს, არის თუ არა &brandShortName; ნაგულისხმევი ბრაუზერი">
