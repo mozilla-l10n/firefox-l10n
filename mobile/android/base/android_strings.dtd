@@ -32,6 +32,7 @@
 <!ENTITY firstrun_readerview_title "Artitgels">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Senza climbim">
+<!ENTITY firstrun_readerview_subtext "Utilisescha la vista da lectura per pudair leger pli simpel artitgels \u2014 schizunt offline.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ti">
@@ -47,6 +48,7 @@
 <!ENTITY  switch_to_tab "Midar al tab">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Mussar la versiun offline">
 
 <!ENTITY  crash_reporter_title "Rapportader da collaps da &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; ha gì in problem ed è collabà. Tes tabs duessan vegnir mussads sin la pagina da partenza da &brandShortName; sche ti reavieschas.">
@@ -73,6 +75,7 @@
 <!ENTITY bookmark_removed "Allontanà il segnapagina">
 <!ENTITY bookmark_updated "Actualisà il segnapagina">
 <!ENTITY bookmark_options "Opziuns">
+<!ENTITY screenshot_added_to_bookmarks "Agiuntà in maletg dal visur als segnapaginas">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -84,9 +87,11 @@
 <!ENTITY bookmark_folder_items "&formatD; elements">
 <!ENTITY bookmark_folder_one_item "1 element">
 
+<!ENTITY reader_saved_offline "Memorisà per la lectura offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Siglir">
 
 <!ENTITY history_today_section "Oz">
 <!ENTITY history_yesterday_section "Ier">
@@ -125,6 +130,7 @@
 <!ENTITY settings "Preferenzas">
 <!ENTITY settings_title "Preferenzas">
 <!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general_summary3 "Partenza, lingua, colonna da tabs">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -163,9 +169,11 @@
 <!ENTITY overlay_no_synced_devices "Chattà nagin apparat collià cun il conto da Firefox">
 
 <!ENTITY pref_category_search3 "Tschertgar">
+<!ENTITY pref_category_search_summary2 "Agiuntar, definir il standard, mussar propostas">
 <!ENTITY pref_category_accessibility "Agids d\&apos;access">
 <!ENTITY pref_category_accessibility_summary2 "Grondezza dal text, zoom, endataziun vocala">
 <!ENTITY pref_category_privacy_short "Sfera privata">
+<!ENTITY pref_category_privacy_summary4 "Fastizar, infurmaziuns d\&apos;annunzia, datas rimnadas">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Davart &brandShortName;, dumondas frequentas, resun">
 <!ENTITY pref_category_datareporting "Decisiuns areguard datas">
@@ -185,6 +193,11 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Restaurar tabs, spargnar datas, utensils per sviluppaders">
+<!ENTITY pref_category_notifications "Communicaziuns">
+<!ENTITY pref_category_notifications_summary "Novas funcziuns, actualisaziuns da websites">
+<!ENTITY pref_content_notifications "Actualisaziuns da websites">
+<!ENTITY pref_content_notifications_summary2 "Scuvra nov cuntegn da paginas sustegnidas">
 <!ENTITY pref_developer_remotedebugging_usb "Debugging a distanza via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debugging a distanza via WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Per utilisar il debugging a distanza via WLAN sto tes apparat disponer dad ina applicaziun per leger codes QR.">
@@ -195,6 +208,7 @@
 <!ENTITY pref_category_home_summary "Persunalisescha tia pagina da partenza">
 <!ENTITY pref_category_home_panels "Panelas">
 <!ENTITY pref_category_home_add_ons "Supplements">
+<!ENTITY pref_home_updates2 "Actualisaziuns da cuntegn">
 <!ENTITY pref_home_updates_enabled "Activà">
 <!ENTITY pref_home_updates_wifi "Mo via WLAN">
 <!ENTITY pref_category_home_homepage "Pagina da partenza">
@@ -233,6 +247,9 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Spargnar datas">
+<!ENTITY pref_category_media "Medias">
+<!ENTITY pref_category_developer_tools "Utensils per sviluppaders">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mussar maletgs">
 <!ENTITY pref_tap_to_load_images_enabled "Adina">
@@ -240,6 +257,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloccà">
 
 <!ENTITY pref_show_web_fonts "Mussar scrittiras dal web">
+<!ENTITY pref_show_web_fonts_summary2 "Telechargiar scrittiras lontanas cun chargiar paginas">
 
 <!ENTITY pref_tracking_protection_title2 "Protecziun cunter il fastizar">
 <!ENTITY pref_tracking_protection_summary3 "Activà en il modus privat">
@@ -250,6 +268,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Activà en il modus privat">
 <!ENTITY pref_tracking_protection_disabled "Deactivà">
 
+<!ENTITY pref_whats_new_notification "Tge è nov en &brandShortName;?">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -556,6 +575,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "Segnapaginas che ti memoriseschas cumparan qua.">
 <!ENTITY home_closed_tabs_title2 "Serrà dacurt">
 <!ENTITY home_last_tabs_empty "Tabs averts dacurt cumparan qua.">
+<!ENTITY home_restore_all "Restaurar tuts">
 <!ENTITY home_closed_tabs_number "&formatD; tabs">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
