@@ -802,7 +802,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरू चाहिन्छ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौँ एड-अनहरू बाट रोज्नुहोस्">
 <!ENTITY customizeMode.restoreDefaults "पूर्वानिर्धारीत स्थितीमा फर्किनुहोस्">
-<!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् वा लुकाउनुहोस्">
+<!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् /लुकाउनुहोस्">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
 <!ENTITY customizeMode.lwthemes "आवरणहरू">
 <!ENTITY customizeMode.lwthemes.myThemes "मेरा आवरणहरू">
