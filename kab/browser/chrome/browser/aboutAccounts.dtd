@@ -5,7 +5,7 @@
 <!ENTITY aboutAccounts.welcome "Ansuf yissek ɣer &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "Amiḍan iqqen">
 
-<!ENTITY aboutAccountsConfig.description "Kcem iwakken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
+<!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ad tseqdaceḍ lqem aqbuṛ n Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync">
