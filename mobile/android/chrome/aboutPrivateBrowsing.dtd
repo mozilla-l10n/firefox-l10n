@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "პირადი დათვალიერების რეჟიმში არ იმყოფებით">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ბლოკავს გვერდის ნაწილებს, რომლებიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ბლოკავს გვერდის იმ ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს უთვალთვალებდეს.">
 <!ENTITY privatebrowsingpage.description.privateDetails "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
