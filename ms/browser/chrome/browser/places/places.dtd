@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Perpustakaan">
+<!ENTITY places.library.title  "Pustaka">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Atur">
+<!ENTITY organize.label        "Urus">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Atur tandabuku anda">
+<!ENTITY organize.tooltip      "Urus tanda buku anda">
 
 <!ENTITY file.close.label               "Tutup">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Paparan">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Tukar pandangan anda">
+<!ENTITY views.tooltip                  "Tukar paparan anda">
 <!ENTITY view.columns.label             "Papar Lajur">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Isih">
