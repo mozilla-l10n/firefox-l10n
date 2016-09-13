@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
 
 <!ENTITY appmenu.tooltip                     "Buksan ang menu">
-
+<!ENTITY navbarOverflow.label                "Marami pang tools...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "E-load ang Tab">
@@ -26,27 +26,30 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
-
-
+<!ENTITY  closeTabsToTheEnd.label            "Isara ang mga Tabs sa Kanan">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeOtherTabs.label               "Isara ang Ibang Tabs">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  pinTab.label                       "I-pin ang Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "I-unpin ang Tab">
+<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Ipadala ang Tab sa Device">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "Ipadala ang Pahina sa Device">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Ipadala ang Link sa Device">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "I-bookmark ang Lahat ng mga Tab…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 
 
 
