@@ -96,7 +96,7 @@
 <!ENTITY details_location "Lokasi">
 <!ENTITY details_manifestURL "ID App">
 <!ENTITY details_removeProject_button "Buang Projek">
-<!ENTITY details_showPrepackageLog_button "Tunjuk Log Pra-pakej">
+<!ENTITY details_showPrepackageLog_button "Papar Log Pra-pakej">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "App Baru">
@@ -125,8 +125,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Sambung semula projek sebelum ini apabila WebIDE bermula">
 <!ENTITY prefs_options_templatesurl "Templat URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks template yang disediakan">
-<!ENTITY prefs_options_showeditor "Pamerkan editor">
-<!ENTITY prefs_options_showeditor_tooltip "Tunjukkan editor dalaman">
+<!ENTITY prefs_options_showeditor "Papar editor">
+<!ENTITY prefs_options_showeditor_tooltip "Papar editor dalaman">
 <!ENTITY prefs_options_tabsize "Saiz tab">
 <!ENTITY prefs_options_expandtab "Soft tabs">
 <!ENTITY prefs_options_expandtab_tooltip "Gunakan ruang dan bukannya aksara tab">

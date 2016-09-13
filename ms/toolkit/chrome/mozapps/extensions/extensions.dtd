@@ -111,8 +111,8 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
 
-<!ENTITY cmd.showReleaseNotes.label           "Tunjuk Nota Pelepasan">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Tunjuk nota pelepasan bagi kemas kini ini">
+<!ENTITY cmd.showReleaseNotes.label           "Papar Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Papar release note untuk kemas kini ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
 
@@ -174,13 +174,13 @@
 
 <!ENTITY search.filter2.label                 "Carian:">
 <!ENTITY search.filter2.installed.label       "Add-on saya">
-<!ENTITY search.filter2.installed.tooltip     "Tunjukkan add-on terpasang">
+<!ENTITY search.filter2.installed.tooltip     "Papar add-ons terpasang">
 <!ENTITY search.filter2.available.label       "Add-ons yang didapati">
-<!ENTITY search.filter2.available.tooltip     "Tunjukkan add-on yang sedia untuk dipasang">
+<!ENTITY search.filter2.available.tooltip     "Papar add-ons yang sedia untuk dipasang">
 
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "Lebih banyak">
-<!ENTITY addon.details.tooltip                "Tunjukkan lebih terperinci bagi add-on ini">
+<!ENTITY addon.details.tooltip                "Papar butiran lanjut add-on ini">
 <!ENTITY addon.unknownDate                    "Tidak diketahui">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

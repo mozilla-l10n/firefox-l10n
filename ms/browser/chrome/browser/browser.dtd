@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Skrin Penuh">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Pamer Semua Tab">
+<!ENTITY showAllTabsCmd.label "Papar Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
@@ -182,11 +182,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tanda buku Semua Tab…">
-<!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
+<!ENTITY showAllBookmarks2.label "Papar Semua Tanda buku">
 <!ENTITY recentBookmarks.label "Baru-baru Ini Ditandabukukan">
 <!ENTITY otherBookmarksCmd.label "Lain-lain Penandabuku">
-<!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
-<!ENTITY showRecentlyBookmarked.label     "Papar Penandabuku Baru-baru Ini">
+<!ENTITY bookmarksToolbarChevron.tooltip "Papar tanda buku selanjutnya">
+<!ENTITY showRecentlyBookmarked.label     "Papar Tanda buku Terkini">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "Sembunyikan Penandabuku Baru-baru Ini">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
@@ -195,8 +195,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Undur satu halaman">
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardButton.tooltip        "Maju sehalaman">
-<!ENTITY backForwardButtonMenu.tooltip "Klik kanan atau tarik turun untuk paparan sejarah">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk paparan sejarah">
+<!ENTITY backForwardButtonMenu.tooltip "Klik-kanan atau tarik turun untuk papar sejarah">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk papar sejarah">
 <!ENTITY reloadCmd.label              "Muat semula">
 <!ENTITY reloadButton.tooltip         "Muat semula laman semasa">
 <!ENTITY stopCmd.label                "Berhenti">
@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Tetingkap yang ditutup semasa">
 <!ENTITY historyRestoreLastSession.label "Pulihkan Sesi Terdahulu">
 
-<!ENTITY showAllHistoryCmd2.label "Pamer Semua Sejarah">
+<!ENTITY showAllHistoryCmd2.label "Papar Semua Sejarah">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Keluar dari Penyesuaian">
 <!ENTITY appMenuCustomizeExit.tooltip "Tamat Penyesuaian">
 <!ENTITY appMenuHistory.label "Sejarah">
-<!ENTITY appMenuHistory.showAll.label "Pamer Semua Sejarah">
+<!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Lapangkan Sejarah Kebelakangan…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Terdahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Lihat Bar Sisi Sejarah">
@@ -475,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Buka Pautan di Tab Bekas Baru">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
-<!ENTITY showOnlyThisFrameCmd.label     "Pamer Hanya Bingkai Ini">
+<!ENTITY showOnlyThisFrameCmd.label     "Papar Hanya Bingkai Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "m">
 <!ENTITY reloadFrameCmd.label         "Tambah isi Bingkai">
@@ -593,7 +593,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Tunjuk Kawalan">
+<!ENTITY mediaShowControls.label     "Papar Kawalan">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Sembunyi Kawalan">
 <!ENTITY mediaHideControls.accesskey "C">
@@ -604,7 +604,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Tunjukan Statistik">
+<!ENTITY videoShowStats.label        "Papar Statistik">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Sembunyi Statistik">
 <!ENTITY videoHideStats.accesskey    "t">
@@ -780,12 +780,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Tunjuk bar sisi">
+<!ENTITY social.toggleSidebar.label "Papar bar sisi">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "Urus Servis…">
 
-<!ENTITY social.toggleNotifications.label "Tunjukkan pemberitahuan desktop">
+<!ENTITY social.toggleNotifications.label "Papar notifikasi desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.learnMore.label "Ketahui Lanjut…">
@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-on">
 <!ENTITY customizeMode.restoreDefaults "Pulih Lalai">
-<!ENTITY customizeMode.toolbars "Tunjuk / Sorok Bar alatan">
+<!ENTITY customizeMode.toolbars "Papar / Sorok Bar alatan">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Tema Saya">
@@ -854,9 +854,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dilumpuhkan">
 
-<!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk paparkan semula.">
+<!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk papar semula.">
 
-<!ENTITY pluginNotification.showAll.label "Pamer Semua">
+<!ENTITY pluginNotification.showAll.label "Papar Semua">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
