@@ -9,7 +9,7 @@
 <!ENTITY restorepage.errorTitle     "Naku, ito ay nakahihiya.">
 <!ENTITY restorepage.problemDesc    "Nahirapan ang &brandShortName; na ibalik ang inyong mga window at tab. Madalas na 'yung pinakabagong binuksan na web page ang dahilan.">
 <!ENTITY restorepage.tryThis        "Maaari mong subukan:">
-<!ENTITY restorepage.restoreSome    "Pagtanggal ng isa o higit pang tabs na sa tingin mo ay sanhi nang problema">
+<!ENTITY restorepage.restoreSome    "Pagtanggal ng isa o higit pang tabs na sa tingin mo ay sanhi ng problema">
 <!ENTITY restorepage.startNew       "Nagsisimula ng panibagong browsing session">
 
 <!ENTITY restorepage.tryagainButton "Ibalik">
