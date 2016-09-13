@@ -163,7 +163,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Hitro Iskanje">
 
 <!-- Results Pane -->
-<!ENTITY Addrbook.label                                 "Imenik …">
+<!ENTITY Addrbook.label                                 "Imenik">
 <!ENTITY Addrbook.accesskey                             "m">
 <!ENTITY GeneratedName.label                            "Ime">
 <!ENTITY GeneratedName.accesskey                        "m">
