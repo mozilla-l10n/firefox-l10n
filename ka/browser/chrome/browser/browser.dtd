@@ -627,7 +627,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "ჩვეულებრივი">
-<!ENTITY fullZoomResetCmd.accesskey     "ა">
+<!ENTITY fullZoomResetCmd.accesskey     "ჩ">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -656,7 +656,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "გვერდის სტილი">
-<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleMenu.accesskey "ს">
 <!ENTITY pageStyleNoStyle.label "სტილის გარეშე">
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "გვერდის ძირითადი სტილი">
