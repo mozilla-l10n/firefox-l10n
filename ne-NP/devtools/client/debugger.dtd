@@ -65,6 +65,8 @@
 <!ENTITY debuggerUI.clearButton.tooltip "एकत्र निशान खाली गर्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
+
+<!ENTITY debuggerUI.pauseExceptions           "अपवाद मा रोक्नुहोस्">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
@@ -78,11 +80,15 @@
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
+
+<!ENTITY debuggerUI.showVarsFilter           "चल फिल्टर बक्स देखाउँनुहोस्">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+
+<!ENTITY debuggerUI.showOnlyEnum           "केवल इन्युमरेबल गुण देखाउँनुहोस्">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -93,6 +99,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+
+<!ENTITY debuggerUI.autoBlackBox           "स्वचालित रूपमा कालाबक्स मिनिफाइड स्रोतहरू">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -113,6 +121,8 @@
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
+
+<!ENTITY debuggerUI.searchFunction           "प्रकार्य परिभाषा लागि खोज">
 <!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
@@ -135,6 +145,8 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables           "फोकस चलहरू ट्री">
 <!ENTITY debuggerUI.focusVariables.key       "भि">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -154,12 +166,14 @@
   -  appears in the source editor context menu for editing a breakpoint. -->
 
 <!ENTITY debuggerUI.seEditMenuCondBreak     "ससर्त ब्रेकपोइन्ट">
-
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "कामदारहरू">
 <!ENTITY debuggerUI.tabs.sources        "स्रोतहरू">
-
-
+<!ENTITY debuggerUI.tabs.traces         "निशानहरू">
+<!ENTITY debuggerUI.tabs.callstack      "कल स्ट्याक">
 <!ENTITY debuggerUI.tabs.variables      "चलहरू">
 <!ENTITY debuggerUI.tabs.events         "घटनाहरू">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
@@ -174,6 +188,8 @@
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "सबै वाच अभिव्यक्तिहरू हटाउनहोस्">
 <!ENTITY debuggerUI.removeAllWatch.key       "इ">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
