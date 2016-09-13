@@ -68,7 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "გ">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
-<!ENTITY printSetupCmd.accesskey "წ">
+<!ENTITY printSetupCmd.accesskey "ტ">
 <!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
 <!ENTITY printPreviewCmd.accesskey "ს">
 <!ENTITY printCmd.label "ამობეჭდვა…">
@@ -515,9 +515,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "რ">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "ც">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "ბლოკის შენახვა როგორც…">
 <!ENTITY saveFrameCmd.accesskey       "F">
