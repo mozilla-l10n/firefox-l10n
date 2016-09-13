@@ -10,4 +10,4 @@
   safeb.palm.notdeceptive.label from phishing-afterload-warning-message.dtd and
   reportDeceptiveSiteMenu.title are never shown at the same time, the same
   accesskey can be used for them. -->
-<!ENTITY reportDeceptiveSiteMenu.accesskey  "მ">
+<!ENTITY reportDeceptiveSiteMenu.accesskey  "თ">
