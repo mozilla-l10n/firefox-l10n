@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Tunjuk Cookie…">
+<!ENTITY  showCookies.label             "Papar Kuki…">
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">

@@ -24,7 +24,7 @@
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
-<!ENTITY showAllExtensions.button.label       "Pamerkan semua penambahan">
+<!ENTITY showAllExtensions.button.label       "Papar semua penambahan">
 <!ENTITY debugAddons.label                    "Add-ons Nyahpepijat">
 <!ENTITY debugAddons.accesskey                "B">
 

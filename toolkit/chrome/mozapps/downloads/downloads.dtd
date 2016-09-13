@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "Buka Folder Berisi">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Tunjuk dalam Finder">
+<!ENTITY cmd.showMac.label                "Papar dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Buka">
 <!ENTITY cmd.open.accesskey               "O">
@@ -48,5 +48,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Tutup apabila muaturun selesai">
 <!ENTITY closeWhenDone.tooltip            "Tutup tetingkap Muaturun apabila semua fail selesai dimuaturun">
 
-<!ENTITY showFolder.label                 "Tunjuk Folder ini">
+<!ENTITY showFolder.label                 "Papar Folder ini">
 <!ENTITY searchBox.label                  "Carian...">

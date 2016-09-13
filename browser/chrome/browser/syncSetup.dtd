@@ -59,7 +59,7 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Hubungkan Peranti">
-<!ENTITY addDevice.showMeHow.label          "Tunjukan saya caranya.">
+<!ENTITY addDevice.showMeHow.label          "Papar caranya kepada saya.">
 <!ENTITY addDevice.dontHaveDevice.label     "Peranti itu tiada dengan saya">
 <!ENTITY pairDevice.setup.description.label  "Untuk mengaktifkan, pilih &#x0022;hubungkan Peranti&#x0022; dengan peranti anda yang lain.">
 <!ENTITY addDevice.setup.enterCode.label    "Kemudian,masukkan kod ini:">

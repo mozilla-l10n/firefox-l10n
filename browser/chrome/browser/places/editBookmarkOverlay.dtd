@@ -20,7 +20,7 @@
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Kata kunci:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Pamer semua tag">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Papar semua tag">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Muatkan penandabuku ini ke dalam bar sisi">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "Pilih…">

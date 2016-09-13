@@ -62,9 +62,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Pepohon Panggilan">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Serlahkan fungsi JavaScript masa pelayar yang paling banyak digunakan semasa rakaman.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Peruntukan">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Pamer kedudukan memori semasa rakaman.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Papar kedudukan memori semasa rakaman.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Carta JS Flame">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Pamer susunan panggilan JavaScript sepanjang rakaman.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Papar susunan panggilan JavaScript sepanjang rakaman.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Carta Peruntukan Flame">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -107,8 +107,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-<!ENTITY performanceUI.showPlatformData             "Tunjuk Data Platform Gecko">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Menunjukkan data platform membolehkan JavaScript Profiler melaporkan untuk memasukkan simbol platform Gecko.">
+<!ENTITY performanceUI.showPlatformData             "Papar Data Platform Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Memaparkan data platform membolehkan JavaScript Profiler melaporkan untuk memasukkan simbol platform Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
