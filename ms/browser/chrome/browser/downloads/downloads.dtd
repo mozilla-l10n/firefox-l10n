@@ -53,7 +53,7 @@
      -->
 <!ENTITY cmd.show.label                   "Buka Kandungan Folder">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Tunjuk Dalam Finder">
+<!ENTITY cmd.showMac.label                "Papar Dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Cuba semula">
 <!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muat turun">

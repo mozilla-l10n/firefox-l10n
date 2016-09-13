@@ -38,8 +38,8 @@
 <!ENTITY translation.translatedTo.label         "kepada">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Tunjuk Yang Asal">
-<!ENTITY translation.showTranslation.button     "Tunjuk Terjemahan">
+<!ENTITY translation.showOriginal.button        "Papar Original">
+<!ENTITY translation.showTranslation.button     "Papar Terjemahan">
 
 <!ENTITY translation.errorTranslating.label     "Berlaku ralat dalam menterjemahkan halaman ini.">
 <!ENTITY translation.tryAgain.button            "Cuba Semula">

@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "Tentang Jaringan">
 <!ENTITY aboutNetworking.warning               "Ini sangat eksperimental. Jangan gunakan tanpa pengawasan orang dewasa.">
-<!ENTITY aboutNetworking.showNextTime          "Tunjukkan amaran ini pada waktu lain">
+<!ENTITY aboutNetworking.showNextTime          "Papar amaran ini pada waktu lain">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Soket">

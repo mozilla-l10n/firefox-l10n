@@ -20,7 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Alatan untuk semua add-on">
 
-<!ENTITY cmd.back.tooltip                     "Pergi kembali laman sebelum">
+<!ENTITY cmd.back.tooltip                     "Undur satu halaman">
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">

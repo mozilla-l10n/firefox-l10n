@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Pilih…">
 <!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu saya">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Tiada pemberitahuan akan dipaparkan sehingga anda muat semula &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Tiada notifikasi akan dipaparkan sehingga anda mula semula &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "E">

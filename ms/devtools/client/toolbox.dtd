@@ -38,8 +38,8 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Tunjuk Gaya Pelayar">
-<!ENTITY options.showUserAgentStyles.tooltip "Menghidupkannya akan dapat memperlihatkan gaya lalai yang dimuatkan oleh pelayar.">
+<!ENTITY options.showUserAgentStyles.label "Papar Browser Styles">
+<!ENTITY options.showUserAgentStyles.tooltip "Mengaktifkan ini akan dapat memaparkan gaya piawai yang dimuatkan oleh pelayar.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
