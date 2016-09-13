@@ -6,30 +6,44 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  परिवर्तन">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR डाटा अपलोड <span>सक्रिय</span> गरिएको छ।">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR डाटा अपलोड <span>निस्क्रिय</span> गरिएको छ।">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "   FHR विस्तारित Telemetry रेकर्डिङ <span> सक्षम </span> गरियो।">
 
 
+<!ENTITY aboutTelemetry.pingDataSource "पिङ डाटा स्रोत:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिङ डाटा">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "अभिलेख गरिएको पिङ डाटा">
 
-
-
+<!ENTITY aboutTelemetry.pingDataDisplay "पिङ डाटा प्रदर्शन:">
 
 <!ENTITY aboutTelemetry.structured "संरचना">
 
 <!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
+<!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डाटा देखाउनुहोस्">
 
+<!ENTITY aboutTelemetry.choosePing "पिङ छान्नुहोस्:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नयाँ पिङ">
 
+<!ENTITY aboutTelemetry.showOlderPing "पुरानो पिङ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "कच्चा पिङ डाटा…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "हप्ता">
 
+<!ENTITY aboutTelemetry.archivePingHeader "पिङ">
 
 <!ENTITY aboutTelemetry.generalDataSection "  सामान्य डाटा">
 
 <!ENTITY aboutTelemetry.environmentDataSection "  परिवेश डाटा">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  टेलीमेट्री लग">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरू">
 

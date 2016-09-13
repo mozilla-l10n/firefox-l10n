@@ -9,6 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "तपाईँको ब्राउजरको सेटिङहरू पुर्वनिर्धारित अवस्थामा पुनर्स्थापना गर्ने छ">
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName; ताजा पार्नुहोस">
 
+<!ENTITY refreshProfile.title                "&brandShortName; लाई अनुरक्षण गर्नुहोस्">
 <!ENTITY refreshProfile.button.label         "&brandShortName; ताजा पार्नुहोस…">
 
 <!ENTITY refreshProfile.cleaning.description "लगभग भयो…">
