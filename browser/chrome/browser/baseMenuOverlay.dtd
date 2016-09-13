@@ -14,27 +14,27 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Bantuan"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "Mengenai &brandShorterName;">
+<!ENTITY aboutProduct2.label      "Perihal &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; Bantuan">
+<!ENTITY productHelp2.label       "Bantuan &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Add-ons…">
+<!ENTITY helpSafeMode.label       "Mulakan semula dengan Add-ons Dinyahdayakan…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Mulakan semula dengan Add-ons">
+<!ENTITY helpSafeMode.stop.label       "Mulakan semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Pelapor Kerosakan">
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas…">
+<!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Lawatan">
@@ -48,7 +48,7 @@
 <!ENTITY hideThisAppCmdMac2.label       "Sorok &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Sorok yang lain-lain">
+<!ENTITY hideOtherAppsCmdMac.label      "Sorok Lain-lain">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Pamer Semua">
