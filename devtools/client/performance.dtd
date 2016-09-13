@@ -58,7 +58,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Tunjukkan operasi berbeza yang dilaksanakan pelayar semasa rakaman, disusun secara berurutan sebagai waterfall.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Papar operasi berbeza yang dilaksanakan pelayar semasa rakaman, disusun secara berurutan sebagai waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Pepohon Panggilan">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Serlahkan fungsi JavaScript masa pelayar yang paling banyak digunakan semasa rakaman.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Peruntukan">

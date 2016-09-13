@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasi Laman:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Pamer semua folder tandabuku">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Papar semua folder tanda buku">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sembunyi">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tag:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">

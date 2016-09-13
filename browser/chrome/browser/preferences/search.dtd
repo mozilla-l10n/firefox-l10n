@@ -9,7 +9,7 @@
 <!ENTITY provideSearchSuggestions.label        "Sediakan cadangan carian">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Paparkan cadangan carian dalam keputusan bar lokasi">
+<!ENTITY showURLBarSuggestions.label           "Papar cadangan carian dalam keputusan bar lokasi">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi &brandShortName; untuk tidak mengingati sejarah.">
 

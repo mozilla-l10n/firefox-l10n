@@ -6,8 +6,8 @@
 
 <!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Paparkan halaman utama saya">
-<!ENTITY startupBlankPage.label    "Paparkan halaman kosong">
+<!ENTITY startupHomePage.label     "Papar halaman utama saya">
+<!ENTITY startupBlankPage.label    "Papar halaman kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
 <!ENTITY homepage.label            "Halaman Utama:">

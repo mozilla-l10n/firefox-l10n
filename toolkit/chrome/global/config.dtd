@@ -9,7 +9,7 @@
 <!ENTITY aboutWarningTitle.label "Ini mungkin membatalkan jaminan anda!">
 <!ENTITY aboutWarningText.label "Mengubah tetapan lanjut ini boleh membahayakan kestabilan, keselamatan dan  prestasi aplikasi. Teruskan, jika anda tahu apa yang anda sedang lakukan.">
 <!ENTITY aboutWarningButton2.label "Saya terima risikonya!">
-<!ENTITY aboutWarningCheckbox.label "Tunjukkan amaran ini pada waktu lain">
+<!ENTITY aboutWarningCheckbox.label "Papar amaran ini pada waktu lain">
 
 <!ENTITY searchPrefs.label "Carian:">
 <!ENTITY searchPrefs.accesskey "r">

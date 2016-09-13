@@ -16,45 +16,45 @@
 <!ENTITY views.label                    "Paparan">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Tukar paparan anda">
-<!ENTITY view.columns.label             "Papar Lajur">
+<!ENTITY view.columns.label             "Papar Kolum">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Isih">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Tidak terisih">
+<!ENTITY view.unsorted.label            "Belum diisih">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A> Z Isihan Tertib Menaik">
+<!ENTITY view.sortAscending.label       "Tertib Isihan A> Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z>A Isihan Tertib Menurun">
+<!ENTITY view.sortDescending.label      "Tertib isihan Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Penandabuku dari HTML">
+<!ENTITY importBookmarksFromHTML.label     "Import Tanda buku dari HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Eksport Penandabuku dari HTML">
+<!ENTITY exportBookmarksToHTML.label       "Eksport Tanda buku ke HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data dari Pelayar yang lain">
+<!ENTITY importOtherBrowser.label          "Import Data dari Pelayar Lain…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "Sandar…">
+<!ENTITY cmd.backup.label               "Sandaran…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Pulih">
+<!ENTITY cmd.restore2.label             "Kembalikan semula">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "Tandabuku Laman Ini…">
+<!ENTITY cmd.bookmarkLink.label         "Tanda buku Halaman Ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Hapus Laman Ini">
+<!ENTITY cmd.delete.label               "Hapus Halaman Ini">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Laman Ini">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
 <!ENTITY cmd.open.label                  "Buka">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Buka di Tetingkap Baru">
+<!ENTITY cmd.open_window.label           "Buka dalam Tetingkap Baru">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Buka Pautan dalam Tetingkap Privasi Baru">
+<!ENTITY cmd.open_private_window.label     "Buka dalam Tetingkap Peribadi Baru">
 <!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Buka di Tab Baru">
+<!ENTITY cmd.open_tab.label              "Buka dalam Tab Baru">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "Buka Semua dalam Tab">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
@@ -62,11 +62,11 @@
 <!ENTITY cmd.properties.label      "Sifat">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Isih Berdasarkan Nama">
+<!ENTITY cmd.sortby_name.label              "Isih Mengikut Nama">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
+<!ENTITY cmd.new_bookmark.label            "Tanda buku Baru…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Folder Baru…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -74,31 +74,31 @@
 <!ENTITY cmd.new_separator.label           "Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat turun Tandabuku Langsung">
+<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Tanda buku Live">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Pindah">
+<!ENTITY cmd.moveBookmarks.label                  "Pindah…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "Nama">
-<!ENTITY col.tags.label          "Tanda-tanda">
+<!ENTITY col.tags.label          "Tag">
 <!ENTITY col.url.label           "Lokasi">
-<!ENTITY col.mostrecentvisit.label "Antara Selalu Dilawati">
-<!ENTITY col.visitcount.label    "Bilangan Melawat">
-<!ENTITY col.description.label   "Huraian">
-<!ENTITY col.dateadded.label     "Menambah">
-<!ENTITY col.lastmodified.label  "Selepas pengubahsuaian">
+<!ENTITY col.mostrecentvisit.label "Lawatan Terkini">
+<!ENTITY col.visitcount.label    "Bilangan Lawatan">
+<!ENTITY col.description.label   "Keterangan">
+<!ENTITY col.dateadded.label     "Ditambah">
+<!ENTITY col.lastmodified.label  "Kali terakhir Penyesesuaian">
 
 <!ENTITY search.label                              "Cari:">
 <!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import dan Sandar">
+<!ENTITY maintenance.label      "Import dan Sandaran">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import dan sandar penandabuku anda">
+<!ENTITY maintenance.tooltip    "Import dan sandar tanda buku anda">
 
-<!ENTITY backButton.tooltip  "Kembali">
+<!ENTITY backButton.tooltip  "Undur">
 
 <!ENTITY forwardButton.tooltip  "Ke hadapan">
 
