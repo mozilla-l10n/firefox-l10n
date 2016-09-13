@@ -27,11 +27,11 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "გასასუფთავებელი დროის პერიოდი:">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.accesskey      "გ">
 <!ENTITY clearTimeDuration.lastHour       "ბოლო საათი">
 <!ENTITY clearTimeDuration.last2Hours     "ბოლო 2 საათი">
 <!ENTITY clearTimeDuration.last4Hours     "ბოლო 4 საათი">
-<!ENTITY clearTimeDuration.today          "ჩემი დღევანდელი ისტორია">
+<!ENTITY clearTimeDuration.today          "დღევანდელი">
 <!ENTITY clearTimeDuration.everything     "ყველაფერი">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
@@ -43,7 +43,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "დეტალები">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ე">
 
 <!ENTITY historySection.label         "ისტორია">
 <!ENTITY dataSection.label            "მონაცემები">

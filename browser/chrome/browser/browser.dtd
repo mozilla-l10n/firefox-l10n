@@ -639,7 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
 
 <!ENTITY quitApplicationCmdWin2.label       "გასვლა">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "ლ">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-დან გამოსვლა">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -658,9 +658,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "გვერდის სტილი">
 <!ENTITY pageStyleMenu.accesskey "ს">
 <!ENTITY pageStyleNoStyle.label "სტილის გარეშე">
-<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStyleNoStyle.accesskey "გ">
 <!ENTITY pageStylePersistentOnly.label "გვერდის ძირითადი სტილი">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
+<!ENTITY pageStylePersistentOnly.accesskey "ძ">
 
 <!ENTITY pageReportIcon.tooltip            "ამ ვებ-საიტისთვის ამომხტარი ფანჯრების დაბლოკვის პარამეტრების შეცვლა">
 
