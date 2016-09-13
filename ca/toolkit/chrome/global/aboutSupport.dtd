@@ -110,8 +110,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Prova el mode segur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinicia amb els complements inhabilitats…">
 
-
-
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnòstics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registre de fallades">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU núm. 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU núm. 2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registre de decisions">

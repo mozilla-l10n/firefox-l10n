@@ -22,6 +22,7 @@
 
 
 
+<!ENTITY aboutTelemetry.raw "JSON sense processar">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Mostra dades de la subsessió">
 
@@ -31,6 +32,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping més antic &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Dades de ping sense processar…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
