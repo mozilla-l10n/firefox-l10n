@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "რედაქტირება">
-<!ENTITY editMenu.accesskey        "E">
+<!ENTITY editMenu.accesskey        "რ">
 <!ENTITY undoCmd.label             "დაბრუნება">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY undoCmd.accesskey         "უ">
 <!ENTITY redoCmd.label             "გამეორება">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.accesskey         "მ">
 <!ENTITY cutCmd.label              "ამოჭრა">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY cutCmd.accesskey          "ა">
 <!ENTITY copyCmd.label             "კოპირება">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY copyCmd.accesskey         "კ">
 <!ENTITY pasteCmd.label            "ჩასმა">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY pasteCmd.accesskey        "მ">
 <!ENTITY deleteCmd.label           "წაშლა">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "ყველაფრის მონიშვნა">
-<!ENTITY selectAllCmd.key          "ყ">
+<!ENTITY deleteCmd.accesskey       "წ">
+<!ENTITY selectAllCmd.label        "ყველას არჩევა">
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ყ">
-<!ENTITY findCmd.label             "ძიება">
+<!ENTITY findCmd.label             "ძებნა">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findCmd.accesskey         "ძ">
 <!ENTITY findAgainCmd.label        "კვლავძიება">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findAgainCmd.accesskey    "კ">
 <!ENTITY findPreviousCmd.label     "წინას პოვნა">
-<!ENTITY findPreviousCmd.accesskey "v">
+<!ENTITY findPreviousCmd.accesskey "წ">
