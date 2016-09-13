@@ -284,7 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Tok dejavnosti">
-<!ENTITY pref_activity_stream_summary "Bogat vizualni vir zgodovine in prenovljena domača stran naredita iskanje v &brandShortName; preprostejše kot kadar koli.">
+<!ENTITY pref_activity_stream_summary "Bogat vizualni tok zgodovine in prenovljena domača stran naredita iskanje s &brandShortName;om preprostejše kot kadarkoli prej.">
 
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno zavračanje elementov sledenja, da vam ni potrebno skrbeti.">
