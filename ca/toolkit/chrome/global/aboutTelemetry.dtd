@@ -20,7 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dades de ping arxivades">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Visualització de dades de ping:">
 
+<!ENTITY aboutTelemetry.structured "Estructurat">
 
 <!ENTITY aboutTelemetry.raw "JSON sense processar">
 
@@ -77,4 +79,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtra (cadenes o /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Càrrega útil">
 
+<!ENTITY aboutTelemetry.rawPayload "  Càrrega útil sense processar">
