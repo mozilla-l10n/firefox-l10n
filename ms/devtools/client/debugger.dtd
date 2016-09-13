@@ -78,25 +78,25 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
-<!ENTITY debuggerUI.showPanesOnInit           "Pamer Pepetak pada Permulaan">
+<!ENTITY debuggerUI.showPanesOnInit           "Papar Panes pada Permulaan">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "Pamer Kotak Penapis Pembolehubah">
+<!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penapis Pembolehubah">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-<!ENTITY debuggerUI.showOnlyEnum           "Tunjuk Sifat Boleh Diangkakan Sahaja">
+<!ENTITY debuggerUI.showOnlyEnum           "Papar Sifat Boleh Diangkakan Sahaja">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource           "Tunjuk Sumber Asal">
+<!ENTITY debuggerUI.showOriginalSource           "Papar Sumber Asal">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for

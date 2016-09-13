@@ -166,8 +166,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Tunjukkan sumber-sumber asal">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Tunjuk sumber asal (iaitu fail Sass) di dalam Editor Gaya dan Inspektor">
+<!ENTITY options.stylesheetSourceMaps.label      "Papar sumber asal">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Papar sumber asal (iaitu fail Sass) di dalam Style Editor dan Inspektor">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -190,7 +190,7 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Tunjuk data platform Gecko">
+<!ENTITY options.showPlatformData.label    "Papar data platform Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Jika anda bolehkan pilihan ini laporan Pemprofil JavaScript akan memasukkan simbol platform Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor

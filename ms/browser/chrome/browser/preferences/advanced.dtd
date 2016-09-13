@@ -83,7 +83,7 @@
 <!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Pamer Sejarah Kemaskini">
+<!ENTITY updateHistory.label             "Papar Sejarah Kemas kini">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">

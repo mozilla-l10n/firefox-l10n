@@ -105,7 +105,9 @@ Ping ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Dapatkan fungsi nama untuk hang stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Pamer data mentah daripada hangs">
+<!ENTITY aboutTelemetry.hideSymbols "
+  Papar data mentah dari hangs
+">
 
 <!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
 
