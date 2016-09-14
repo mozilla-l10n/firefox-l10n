@@ -5,6 +5,13 @@
 <!ENTITY wizard.title             "Yeni Təqvim Yarat" >
 <!ENTITY wizard.label             "Yeni təqvim yarat" >
 
+<!ENTITY initialpage.computer.label  "Kompüterimdə">
+<!ENTITY initialpage.network.label  "Şəbəkədə">
 
+<!ENTITY locationpage.username.label      "İstifadəçi adı:" >
+<!ENTITY locationpage.password.label      "Parol:" >
 
+<!ENTITY custompage.shortdescription  "Təqviminizi fərdiləşdirin" >
 
+<!ENTITY finishpage.shortdescription  "Təqvim Yaradıldı" >
+<!ENTITY finishpage.longdescription   "Təqviminiz yaradıldı." >
