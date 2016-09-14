@@ -422,16 +422,22 @@ size. -->
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Страницата е премахната">
 
+<!ENTITY bookmark_edit_title "Редактиране на отметка">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_cancel       "Отказ">
+<!ENTITY site_settings_clear        "Изчистване">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
 
+<!ENTITY button_ok "Добре">
 <!ENTITY button_cancel "Отказ">
+<!ENTITY button_yes "Да">
+<!ENTITY button_no "Не">
+<!ENTITY button_clear_data "Изчистване">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -439,7 +445,9 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_closed_tabs_number "&formatD; раздела">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 раздел">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -477,10 +485,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Защита от проследяване">
+<!ENTITY doorhanger_tracking_state_enabled "Включено">
+<!ENTITY doorhanger_tracking_state_disabled "Изключено">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
+<!ENTITY learn_more "Научете повече">
 
 
+<!ENTITY bookmarkhistory_import_wait "Моля, изчакайте...">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
@@ -496,6 +509,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 
+<!ENTITY updater_downloading_title2 "Изтегляне на &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Грешка при изтегляне">
 
 
@@ -505,14 +519,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 
     <!-- Guest mode -->
+<!ENTITY guest_session_dialog_continue "Продължаване">
 <!ENTITY guest_session_dialog_cancel "Отказ">
+<!ENTITY guest_browsing_notification_text "Докоснете за изход">
 
+<!ENTITY exit_guest_session_title "&brandShortName; сега ще рестартира">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
@@ -520,9 +539,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Меню">
+<!ENTITY actionbar_done "Готово">
 
 <!-- Voice search in the awesome bar -->
 
@@ -557,6 +579,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
+<!ENTITY restrictable_feature_block_list "Блокиращ списък">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
