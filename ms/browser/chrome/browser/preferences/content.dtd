@@ -21,7 +21,7 @@
 
 <!ENTITY  fontsAndColors.label        "Font &amp; Warna">
 
-<!ENTITY  defaultFont.label           "Font asal:">
+<!ENTITY  defaultFont.label           "Font piawai:">
 <!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">

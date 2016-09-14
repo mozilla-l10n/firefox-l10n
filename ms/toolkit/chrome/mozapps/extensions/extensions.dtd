@@ -133,8 +133,8 @@
 <!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.">
 
 <!ENTITY detail.updateType                    "Kemaskini automatik">
-<!ENTITY detail.updateDefault.label           "Lalai">
-<!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik jika ianya secara asal">
+<!ENTITY detail.updateDefault.label           "Piawai">
+<!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik hanya jika itulah piawai">
 <!ENTITY detail.updateAutomatic.label         "Hidupkan">
 <!ENTITY detail.updateAutomatic.tooltip       "Pasang kemas kini secara automatik">
 <!ENTITY detail.updateManual.label            "Matikan">
