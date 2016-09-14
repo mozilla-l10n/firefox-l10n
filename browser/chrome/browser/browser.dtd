@@ -719,7 +719,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.">
 <!ENTITY identity.description.activeLoaded2 "Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Bolehkan perlindungan">
+<!ENTITY identity.enableMixedContentBlocking.label "Dayakan perlindungan">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Lumpuhkan perlindungan untuk sekarang">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Nyahdayakan perlindungan untuk sesi ini">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Bolehkan perlindungan">
+<!ENTITY trackingProtection.block2.label "Dayakan perlindungan">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Penjejakan">
@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.options "Pilihan">
 <!ENTITY trackingContentBlocked.unblock2.label "Nyahdayakan perlindungan pada laman ini">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Bolehkan perlindungan">
+<!ENTITY trackingContentBlocked.block.label "Dayakan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dilumpuhkan">
 
