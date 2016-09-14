@@ -8,10 +8,10 @@
 # live.
 
 #define bookmarks_title Tanda buku
-#define bookmarks_heading Penandabuku
+#define bookmarks_heading Tanda buku
 
-#define bookmarks_toolbarfolder Menandabuku Bar Alatan Selonsong
-#define bookmarks_toolbarfolder_description Tambah penandabuku untuk selongsong ini supaya dipamerkan di Penandabuku Bar Alatan
+#define bookmarks_toolbarfolder Folder Bar Alat Tanda buku
+#define bookmarks_toolbarfolder_description Tambah tanda buku ke folder ini supaya dipamerkan dalam Bar alat Tanda buku
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

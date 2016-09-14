@@ -33,7 +33,7 @@
 <!ENTITY  locbar.suggest.label          "Semasa menggunakan bar lokasi, cadang:">
 <!ENTITY  locbar.history.label          "Sejarah">
 <!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Tandabuku">
+<!ENTITY  locbar.bookmarks.label        "Tanda buku">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Buka tab">
 <!ENTITY  locbar.openpage.accesskey     "O">
