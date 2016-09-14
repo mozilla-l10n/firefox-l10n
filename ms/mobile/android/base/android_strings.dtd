@@ -60,7 +60,7 @@
 <!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Ulang mula &brandShortName;">
 
-<!ENTITY url_bar_default_text2 "Carian atau masukkan alamat">
+<!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
 <!ENTITY bookmark "Penanda buku">
 <!ENTITY bookmark_remove "Buang tandabuku">
@@ -134,7 +134,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Lalai sistem">
+<!ENTITY locale_system_default "Sistem piawai">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -161,14 +161,15 @@
 <!ENTITY overlay_no_synced_devices "Peranti Firefox akaun yang bersambung tidak dapat dijumpai">
 
 <!ENTITY pref_category_search3 "Carian">
+<!ENTITY pref_category_search_summary2 "Tambah, set piawai, papar cadangan">
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_datareporting "Pilihan data">
 <!ENTITY pref_learn_more "Ketahui lagi">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
 <!ENTITY pref_category_add_search_providers "Tambah lagi penyedia carian">
-<!ENTITY pref_category_search_restore_defaults "Enjin carian dipulihkan">
-<!ENTITY pref_search_restore_defaults "Pulihkan kepada lalai">
-<!ENTITY pref_search_restore_defaults_summary "Pulihkan kepada lalai">
+<!ENTITY pref_category_search_restore_defaults "Kembalikan semula enjin carian">
+<!ENTITY pref_search_restore_defaults "Kembalikan semula piawai">
+<!ENTITY pref_search_restore_defaults_summary "Kembalikan semula piawai">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -300,12 +301,13 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
 <!ENTITY pref_private_data_downloadFiles2 "Muat turun">
 
+<!ENTITY pref_default_browser "Jadikan pelayar piawai">
 <!ENTITY pref_about_firefox "Mengenai &brandShortName;">
 <!ENTITY pref_vendor_faqs "Soalan Lazim">
 <!ENTITY pref_vendor_feedback "Beri maklum balas">
 
-<!ENTITY pref_dialog_set_default "Tetapkan sebagai lalai">
-<!ENTITY pref_dialog_default "Lalai">
+<!ENTITY pref_dialog_set_default "Tetapkan sebagai piawai">
+<!ENTITY pref_dialog_default "Piawai">
 <!ENTITY pref_dialog_remove "Singkir">
 
 <!ENTITY pref_search_last_toast "Anda tidak boleh mengeluarkan atau melumpuhkan enjin carian terakhir anda.">
@@ -632,6 +634,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Perihal pelayar anda">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Sesuaikan dengan ciri tambahan">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
