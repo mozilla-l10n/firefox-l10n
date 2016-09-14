@@ -364,16 +364,57 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Бързата оранжева лисица надскача вашите очаквания с повече скорост, по-голяма гъвкавост и повече защита. Като организация с нестопанска цел сме свободни да изобретяваме сами за себе си без натиск отвън който да влияе на качеството. Това означава по-добро изживяване за вас и по-светло бъдеще за Мрежата.">
 
+<!ENTITY pref_media_autoplay_enabled "Автоматично изпълняване">
+<!ENTITY pref_media_autoplay_enabled_summary "Управлява дали сайтовете да изпълняват автоматично видео и друга медия">
+<!ENTITY pref_zoom_force_enabled "Мащабирането да е винаги включено">
+<!ENTITY pref_zoom_force_enabled_summary "Позволява ви да мащабирате всяка страница">
+<!ENTITY pref_voice_input "Въвеждане чрез глас">
+<!ENTITY pref_voice_input_summary2 "Позволява диктуване от адресната лента">
+<!ENTITY pref_qrcode_enabled "Четец за QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Позволява скенер на QR в адресната лента">
 
+<!ENTITY pref_use_master_password "Използване на главна парола">
+<!ENTITY pref_sync2 "Вписване">
 <!ENTITY pref_sync_summary2 "Синхронизиране на раздели, отметки, регистрации, история">
+<!ENTITY pref_search_suggestions "Показване на подсказки">
+<!ENTITY pref_history_search_suggestions "Показване на историята">
+<!ENTITY pref_import_options "Настройки за внасяне">
+<!ENTITY pref_import_android_summary "Внасяне на отметки и история от фабричния браузър">
+<!ENTITY pref_private_data_history2 "История на сърфиране">
+<!ENTITY pref_private_data_searchHistory "История на търсения">
+<!ENTITY pref_private_data_formdata2 "История на формуляри">
+<!ENTITY pref_private_data_cookies2 "Бисквитки и текущи вписвания">
 <!ENTITY pref_private_data_passwords2 "Запазени регистрации">
+<!ENTITY pref_private_data_cache "Кеш">
+<!ENTITY pref_private_data_offlineApps "Данни за сайтове без мрежа">
+<!ENTITY pref_private_data_siteSettings2 "Настройки на сайтове">
+<!ENTITY pref_private_data_downloadFiles2 "Изтегляния">
+<!ENTITY pref_private_data_syncedTabs "Синхронизирани раздели">
 
+<!ENTITY pref_default_browser "Задаване като стандартен браузър">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Посетете Поддръжка на Mozilla">
+<!ENTITY pref_about_firefox "Относно &brandShortName;">
+<!ENTITY pref_vendor_faqs "Въпроси и отговори">
+<!ENTITY pref_vendor_feedback "Даване на обратна връзка">
 
+<!ENTITY pref_dialog_set_default "Задаване като стандартна">
+<!ENTITY pref_dialog_default "Стандартна">
+<!ENTITY pref_dialog_remove "Премахване">
 
+<!ENTITY pref_search_last_toast "Не можете да премахнете или изключите последната търсеща машина.">
 
+<!ENTITY pref_panels_show "Показване">
+<!ENTITY pref_panels_hide "Скриване">
+<!ENTITY pref_panels_reorder "Промяна на реда">
+<!ENTITY pref_panels_move_up "Нагоре">
+<!ENTITY pref_panels_move_down "Надолу">
 
+<!ENTITY datareporting_notification_title "Статистика и данни за &brandShortName;">
+<!ENTITY datareporting_notification_action "Изберете какво споделяте">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Изберете каква информация да споделяте">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 
@@ -383,15 +424,26 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_telemetry_title "Телеметрия">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Отчети за сривове">
+<!ENTITY datareporting_wifi_title2 "Услуга за местоположение от &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Помогнете на &vendorShortName; да картографира света! Споделете приблизителното си местоположение спрямо Wi-Fi и мобилната мрежа на устройството, за да подобрите нашата услуга за геолокация.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Автоматично обновяване">
+<!ENTITY pref_update_autodownload_wifi "Само през Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Никога">
+<!ENTITY pref_update_autodownload_always "Винаги">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Помощ">
 
+<!ENTITY quit "Изход">
 
+<!ENTITY addons "Добавки">
 <!ENTITY logins "Регистрации">
 
 
@@ -423,9 +475,13 @@ size. -->
 <!ENTITY page_removed "Страницата е премахната">
 
 <!ENTITY bookmark_edit_title "Редактиране на отметка">
+<!ENTITY bookmark_edit_name "Име">
+<!ENTITY bookmark_edit_location "Местоположение">
+<!ENTITY bookmark_edit_keyword "Ключова дума">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Настройки на сайта">
 <!ENTITY site_settings_cancel       "Отказ">
 <!ENTITY site_settings_clear        "Изчистване">
 
