@@ -12,7 +12,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago.">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Ilapat ang Update">
+<!ENTITY update.applyButtonBillboard.label        "I-apply ang Update...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -65,7 +65,7 @@
 <!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator. ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ay kasalukuyang I-naupdate ng isa pang instance">
-<!ENTITY update.restarting          "Simulan ulit...">
+<!ENTITY update.restarting          "Nag-rerestart...">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -73,7 +73,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Hindi matagumpay na Update.">
-<!ENTITY update.failed.linkText     "I-download ang pinakabagong bersyon.">
+<!ENTITY update.failed.linkText     "I-download ang pinakabagong bersyon">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -101,7 +101,7 @@
 <!ENTITY update.downloading.start   "Nagda-download ng update">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Naglalagay ng update ...">
+<!ENTITY update.applying            "Ina-apply ang update...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
