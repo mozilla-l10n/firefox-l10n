@@ -29,7 +29,8 @@
 <!ENTITY  noupdates.wizard.title          "Tiada Penambahan Serasi Ditemui">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; tidak dapat menemui kemaskinian penambahan anda yang tidak serasi.">
 <!ENTITY  noupdates.error.desc            "Terdapat masalah berlaku ketika cuba mencari kemaskinian.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan memeriksa secara berkala dan memberitahu anda apabila kemaskinian serasi untuk penambahana anda ditemui.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan menyemak secara berkala dan memaklumkan anda
+                                           apabila kemas kini yang sesuai untuk add-ons ini ditemui.">
 
 <!ENTITY  finished.wizard.title           "Penambahan Serasi Dipasang">
 <!ENTITY  finished.top.label              "&brandShortName; telah memasang kemaskinian penambahan anda.">

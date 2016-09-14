@@ -31,11 +31,11 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">
 <!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dimatikan. Anda mungkin mempunya add-on yang tidak sesuai.">
-<!ENTITY warning.checkcompatibility.enable.label   "Aktif Keupayaan">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Hidupkan pemeriksaan kesesuaian add-on">
+<!ENTITY warning.checkcompatibility.enable.label   "Dayakan">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Dayakan semakan kesesuaian add-on">
 <!ENTITY warning.updatesecurity.label              "Pemeriksaan keselamatan add-on telah dimatikan. Anda mungkin dikompromi ketika mengemaskini.">
-<!ENTITY warning.updatesecurity.enable.label       "Aktif Keupayaan">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Membenarkan pemeriksaan keselamatan kemaskini add-on">
+<!ENTITY warning.updatesecurity.enable.label       "Dayakan">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Dayakan add-on semakan kemas kini keselamatan">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Cari">
