@@ -178,9 +178,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "С">
 <!ENTITY shareVideo.label "Споделяне на видеозапис">
 <!ENTITY shareVideo.accesskey "С">
-<!ENTITY feedsMenu2.label "Абониране за тази страница">
-<!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
-<!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
+<!ENTITY feedsMenu2.label "Абониране за страницата">
+<!ENTITY subscribeToPageMenupopup.label "Абониране за страницата">
+<!ENTITY subscribeToPageMenuitem.label "Абониране за страницата…">
 <!ENTITY addCurPagesCmd.label "Отмятане на всички раздели…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY recentBookmarks.label "Последни отметки">
