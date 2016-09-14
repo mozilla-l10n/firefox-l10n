@@ -30,7 +30,7 @@
 <!ENTITY datamanCmd.label "Datenverwaltung">
 <!ENTITY datamanCmd.accesskey "D">
 
-<!ENTITY passwordManagerCmd.label "Passwort-Manager">
+<!ENTITY passwordManagerCmd.label "Passwortverwaltung">
 <!ENTITY passwordManagerCmd.accesskey "P">
 
 <!ENTITY passwordDisplayCmd.label "Gespeicherte Passwörter verwalten">
