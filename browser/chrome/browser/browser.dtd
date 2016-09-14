@@ -458,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Cari dalam Tab Baru">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Tetapkan sebagai Enjin Carian Lalai">
+<!ENTITY searchSetAsDefault.label     "Tetapkan sebagai Enjin Carian Piawai">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
@@ -800,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-on">
-<!ENTITY customizeMode.restoreDefaults "Pulih Lalai">
+<!ENTITY customizeMode.restoreDefaults "Kembalikan Piawai">
 <!ENTITY customizeMode.toolbars "Papar / Sorok Bar alatan">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.lwthemes "Tema">

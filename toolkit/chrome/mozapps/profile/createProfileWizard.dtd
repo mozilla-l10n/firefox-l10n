@@ -18,8 +18,8 @@
 <!ENTITY profilePrompt.label            "Masukkan nama profil baru:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "Tetapan pengguna anda, pilihan dan lain-lain yang berkaitan dengan data pengguna akan disimpan di dalam:">
-<!ENTITY profileDefaultName             "Pengguna Default">
+<!ENTITY profileDefaultName             "Pengguna Piawai">
 <!ENTITY button.choosefolder.label      "Pilih Folder…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "Guna Folder Default">
+<!ENTITY button.usedefault.label        "Guna Folder Piawai">
 <!ENTITY button.usedefault.accesskey    "U">

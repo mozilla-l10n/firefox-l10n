@@ -10,7 +10,7 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!ENTITY toolboxCloseButton.tooltip    "Tutup Perkakas Pembangun">
+<!ENTITY toolboxCloseButton.tooltip    "Tutup Developer Tools">
 
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
@@ -50,7 +50,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "Unit warna lalai">
+<!ENTITY options.defaultColorUnit.label "Unit warna piawai">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -122,13 +122,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Alatan Pembangun Firefox Piawai">
+<!ENTITY options.selectDefaultTools.label     "Piawai Firefox Developer Tools">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Alatan Pembangun dipasang oleh add-on">
+<!ENTITY options.selectAdditionalTools.label  "Developer Tools dipasang oleh add-ons">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -207,4 +207,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
-<!ENTITY options.sourceeditor.keybinding.default.label  "Lalai">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Piawai">

@@ -117,7 +117,7 @@
 <!ENTITY prefs_title "Keutamaan">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Umum">
-<!ENTITY prefs_restore "Pulihkan kepada lalai">
+<!ENTITY prefs_restore "Kembalikan Piawai">
 <!ENTITY prefs_manage_components "Urus Komponen Tambahan">
 <!ENTITY prefs_options_autoconnectruntime "Sambung semula runtime sebelum ini">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Sambung semula runtime sebelum ini apabila WebIDE bermula">
@@ -137,7 +137,7 @@
 <!ENTITY prefs_options_autoclosebrackets "Auto tutup pendakap">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Menyelitkan tutup pendakap secara automatik">
 <!ENTITY prefs_options_keybindings "Keybindings">
-<!ENTITY prefs_options_keybindings_default "Lalai">
+<!ENTITY prefs_options_keybindings_default "Piawai">
 <!ENTITY prefs_options_autosavefiles "Autosimpan fail">
 <!ENTITY prefs_options_autosavefiles_tooltip "Simpan fail yang diedit secara automatik sebelum projek dijalankan">
 
@@ -204,7 +204,7 @@
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Tetapan Pensimulasi">
 <!ENTITY simulator_remove "Hapuskan Simulator">
-<!ENTITY simulator_reset "Pulihkan kepada lalai">
+<!ENTITY simulator_reset "Kembalikan Piawai">
 <!ENTITY simulator_name "Nama">
 <!ENTITY simulator_software "Perisian">
 <!ENTITY simulator_version "Versi">
