@@ -11,17 +11,17 @@
   berkenaan &brandShortName;, semak di <a id='supportLink'>support website</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Laporan Kerosakan">
+<!ENTITY aboutSupport.crashes.title "Laporan Ranap">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Laporan">
 <!ENTITY aboutSupport.crashes.sendDate "Dihantar">
-<!ENTITY aboutSupport.crashes.allReports "Semua Pelapor Nahas">
+<!ENTITY aboutSupport.crashes.allReports "Semua Laporan Ranap">
 <!ENTITY aboutSupport.crashes.noConfig "APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.">
 
 <!ENTITY aboutSupport.extensionsTitle "Sambungan">
 <!ENTITY aboutSupport.extensionName "Nama">
-<!ENTITY aboutSupport.extensionEnabled "Bolehkan">
+<!ENTITY aboutSupport.extensionEnabled "Didayakan">
 <!ENTITY aboutSupport.extensionVersion "Versi">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -51,7 +51,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profil Folder">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Mengaktifkan Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Dayakan Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "membina Konfigurasi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
 <!ENTITY aboutSupport.appBasicsOS "OS">

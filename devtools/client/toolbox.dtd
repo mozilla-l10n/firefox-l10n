@@ -92,8 +92,8 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Bolehkan menyahpepijat jauh">
-<!ENTITY options.enableRemote.tooltip   "Menghidupkan pilihan ini akan membenarkan alatan pembangun untuk menyahpepijat misalan Firefox jauh seperti FIrefox OS">
+<!ENTITY options.enableRemote.label3    "Dayakan menyahpepijat jauh">
+<!ENTITY options.enableRemote.tooltip   "Mengaktifkan pilihan ini akan membolehkan developer tools Firefox untuk menyahpepijat jauh tika seperti FIrefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -156,8 +156,8 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "Bolehkan cop masa">
-<!ENTITY options.timestampMessages.tooltip    "Jika anda bolehkan pilihan ini arahan dan output dalam Konsol Web akan memaparkan cop masa">
+<!ENTITY options.timestampMessages.label      "Dayakan cop masa">
+<!ENTITY options.timestampMessages.tooltip    "Jika anda dayakan pilihan ini arahan dan output dalam Konsol Web akan memaparkan cop masa">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -183,7 +183,7 @@
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Bolehkan log kekal">
+<!ENTITY options.enablePersistentLogs.label    "Dayakan log kekal">
 <!ENTITY options.enablePersistentLogs.tooltip  "Jika anda membolehkan pilihan ini Konsol Web dan Pemantau Rangkaian tidak akan melapangkan output setiap kali anda melayari laman baru">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
