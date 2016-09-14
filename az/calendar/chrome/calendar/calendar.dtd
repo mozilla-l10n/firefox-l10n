@@ -101,6 +101,7 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
+<!ENTITY calendar.task-details.status.label          "status">
 
 
 
@@ -228,6 +229,14 @@
 <!ENTITY calendar.alarm.location.label              "Məkan:" >
 
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Dəqiqə" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Dəqiqə" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Dəqiqə" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Dəqiqə" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Dəqiqə" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Saat" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Saat" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Gün" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
@@ -235,14 +244,24 @@
      dialog. -->
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Təqvimi redaktə et">
+<!ENTITY calendar.server.dialog.name.label          "Təqvim Adı:">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Rəng:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Təqvim Serveri (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Məkan:">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Təqvimi Yayımla">
 <!ENTITY calendar.publish.publish.button      "Paylaş">
 <!ENTITY calendar.publish.close.button      "Qapat">
 
+<!ENTITY calendar.publish.example.url.description   "Məsələn http://www.myserver.com/webdav/test.ics kimi">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Təqvim Seç">
@@ -250,7 +269,9 @@
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Təqvimi Çap et">
 <!ENTITY calendar.print.title.label "Başlıq:">
+<!ENTITY calendar.print.range.label "Çap Rejimi">
 <!ENTITY calendar.print.currentView2.label "Mövcud görünüş">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Seçilmiş tədbirlər/tapşırıqlar">
 <!ENTITY calendar.print.tasks.label "Tapşırıqlar">
 <!ENTITY calendar.print.events.label "Tədbirlər">
 <!ENTITY calendar.print.custom.label "Fərdi tarix aralığı:">
@@ -258,8 +279,11 @@
 <!ENTITY calendar.print.to.label "Bitiş:">
 <!ENTITY calendar.print.settingsGroup.label "Çap Tənzimləmələri">
 <!ENTITY calendar.print.optionsGroup.label "Seçimlər">
+<!ENTITY calendar.print.completedtasks.label "Tamamlanmış tapşırıqlar">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detallar…">
+<!ENTITY calendar.error.code "Xəta kodu:">
 <!ENTITY calendar.error.description "Açıqlama:">
 <!ENTITY calendar.error.title "Xəta baş verdi">
 
