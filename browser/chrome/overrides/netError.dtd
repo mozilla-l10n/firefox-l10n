@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Coba Lagi">
 <!ENTITY returnToPreviousPage.label "Mundur">
 <!ENTITY advanced.label "Canggih">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -107,16 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Canggih">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Sambungan aman ke <span id='wrongSystemTime_URL'/> tidak memungkinkan karena tampilan jam Anda menunjukkan waktu yang salah.</p> <p>Komputer Anda menganggap <span id='wrongSystemTime_systemDate'/>, padahal seharusnya <span id='wrongSystemTime_actualDate'/>. Untuk memperbaiki masalah ini, ubah setelan tanggal dan jam Anda menjadi waktu yang benar.</p>">
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
-
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
 
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengorek informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-
 
