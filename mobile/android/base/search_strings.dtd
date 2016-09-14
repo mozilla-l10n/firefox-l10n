@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "&brandShortName; Carian">
+<!ENTITY search_app_name '&brandShortName; Cari'>
+
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Cari dengan &formatS;'>
 
-<!ENTITY search_bar_hint "Carian dengan &formatS;">
+<!ENTITY search_empty_title2 'Mulakan carian'>
+<!ENTITY search_empty_message 'Segera mencari apa sahaja yang anda inginkan'>
 
-<!ENTITY search_empty_title2 "Mulakan carian">
-<!ENTITY search_empty_message "Segera mencari apa sahaja yang anda inginkan">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Tambah kepada bar carian'>
 
-<!ENTITY search_plus_content_description "Tambah kepada bar carian">
+<!ENTITY search_pref_title 'Tetapan'>
+<!ENTITY search_pref_button_content_description 'Tetapan'>
 
-<!ENTITY search_pref_title "Tetapan">
-<!ENTITY search_pref_button_content_description "Tetapan">
+<!ENTITY pref_clearHistory_confirmation 'Sejarah dibuang'>
+<!ENTITY pref_clearHistory_dialogMessage 'Buang semua sejarah carian daripada peranti ini?'>
+<!ENTITY pref_clearHistory_title 'Buang sejarah carian'>
 
-<!ENTITY pref_clearHistory_confirmation "Sejarah dihapuskan">
-<!ENTITY pref_clearHistory_dialogMessage "Padamkan semua carian sejarah daripada peranti ini?">
-<!ENTITY pref_clearHistory_title "Padamkan sejarah carian">
+<!ENTITY search_widget_button_label 'Cari'>
 
-<!ENTITY search_widget_button_label "Carian">
-
-<!ENTITY network_error_title "Tiada sambungan internet">
-<!ENTITY network_error_message "Tap disini untuk menyemak tetapan rangkaian anda">
+<!ENTITY network_error_title 'Tiada sambungan internet'>
+<!ENTITY network_error_message 'Sentuh di sini untuk menyemak tetapan rangkaian anda'>
