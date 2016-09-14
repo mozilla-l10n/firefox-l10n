@@ -415,8 +415,10 @@ size. -->
 <!ENTITY datareporting_notification_action "Изберете какво споделяте">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Изберете каква информация да споделяте">
+<!ENTITY datareporting_notification_summary "За да подобри изживяването ви &brandShortName; изпраща автоматично информация до &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -424,7 +426,12 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Доклад за изправност на &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Споделя данни с &vendorShortName; за изправността на браузъра и ви помага да разберете производителността му">
+<!ENTITY datareporting_abouthr_title "Преглед на доклада за изправност">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
+<!ENTITY datareporting_telemetry_summary "Споделя данни за използването, производителността, хардуера, настройките на браузъра ви с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; изпраща отчети за сривовете, за да помогне на &vendorShortName; да направи браузъра по-стабилен и по-сигурен">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Отчети за сривове">
@@ -445,29 +452,83 @@ size. -->
 
 <!ENTITY addons "Добавки">
 <!ENTITY logins "Регистрации">
+<!ENTITY downloads "Изтегляния">
+<!ENTITY char_encoding "Кодиране на знаците">
 
+<!ENTITY share "Споделяне">
+<!ENTITY share_title "Споделяне чрез">
+<!ENTITY share_image_failed "Изображението не може да бъде споделено">
+<!ENTITY save_as_pdf "Запис като PDF">
+<!ENTITY print "Отпечатване">
+<!ENTITY find_in_page "Търсене в страницата">
+<!ENTITY desktop_mode "Настолна версия на сайта">
+<!ENTITY page "Страница">
+<!ENTITY tools "Инструменти">
+<!ENTITY new_tab "Нов раздел">
+<!ENTITY new_private_tab "Нов поверителен раздел">
+<!ENTITY close_all_tabs "Затваряне на всички раздели">
+<!ENTITY close_private_tabs "Затваряне на поверителните раздели">
+<!ENTITY tabs_normal "Раздели">
+<!ENTITY tabs_private "Поверителни">
+<!ENTITY set_image_fail "Изображението не може да бъде зададено">
+<!ENTITY set_image_path_fail "Изображението не може да бъде запазено">
+<!ENTITY set_image_chooser_title "Задаване на изображението като">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Търсене в страницата">
+<!ENTITY find_prev "Назад">
+<!ENTITY find_next "Напред">
+<!ENTITY find_close "Затваряне">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Изпращане към устройство">
+<!ENTITY media_play "Изпълнение">
+<!ENTITY media_pause "Пауза">
+<!ENTITY media_stop "Стоп">
 
+<!ENTITY contextmenu_open_new_tab "Отваряне в раздел">
+<!ENTITY contextmenu_open_private_tab "Отваряне в поверителен раздел">
+<!ENTITY contextmenu_remove "Премахване">
+<!ENTITY contextmenu_add_to_launcher "Добавяне към началния екран">
+<!ENTITY contextmenu_share "Споделяне">
+<!ENTITY contextmenu_pasteandgo "Поставяне и посещаване">
+<!ENTITY contextmenu_paste "Поставяне">
+<!ENTITY contextmenu_copyurl "Копиране на адрес">
+<!ENTITY contextmenu_edit_bookmark "Редактиране">
+<!ENTITY contextmenu_subscribe "Абониране за страницата">
+<!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
+<!ENTITY contextmenu_top_sites_edit "Редактиране">
+<!ENTITY contextmenu_add_search_engine "Добавяне на търсеща машина">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[без потребителско име]">
+<!ENTITY doorhanger_login_edit_title "Редактиране на регистрацията">
 <!ENTITY doorhanger_login_edit_username_hint "Потребителско име">
 <!ENTITY doorhanger_login_edit_password_hint "Парола">
 <!ENTITY doorhanger_login_edit_toggle "Показване на паролата">
+<!ENTITY doorhanger_login_edit_toast_error "Неуспешно запазване на регистрацията">
+<!ENTITY doorhanger_login_select_message "Копиране на паролата от &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Паролата е копирана в системния буфер">
+<!ENTITY doorhanger_login_select_toast_copy_error "Паролата не може да бъде копирана">
+<!ENTITY doorhanger_login_select_action_text "Изберете друга регистрация">
 <!ENTITY doorhanger_login_select_title "Копиране на паролата от">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Увеличаване на малки площи">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Увеличаване на препратки и полета на формуляри при докосване около тях">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Преглеждане на цял екран">
+<!ENTITY pref_scroll_title_bar_summary2 "Скриване на лентата с инструменти на &brandShortName; при плъзване надолу по страницата">
 
+<!ENTITY pref_tab_queue_title3 "Опашка от раздели">
+<!ENTITY pref_tab_queue_summary4 "Запазете препратки за следващия път, когато отворите &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -487,20 +548,37 @@ size. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Допълнителни действия">
 
+<!ENTITY masterpassword_create_title "Задаване на главна парола">
+<!ENTITY masterpassword_remove_title "Премахване на главна парола">
+<!ENTITY masterpassword_password "Парола">
+<!ENTITY masterpassword_confirm "Потвърждение на паролата">
 
 <!ENTITY button_ok "Добре">
 <!ENTITY button_cancel "Отказ">
 <!ENTITY button_yes "Да">
 <!ENTITY button_no "Не">
 <!ENTITY button_clear_data "Изчистване">
+<!ENTITY button_set "Задаване">
+<!ENTITY button_clear "Изчистване">
+<!ENTITY button_copy "Копиране">
 
+<!ENTITY home_top_sites_title "Най-посещавани">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Добавяне на сайт">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Начала страница на &brandShortName;">
+<!ENTITY home_history_title "История">
+<!ENTITY home_synced_devices_smartfolder "Синхронизирани устртойства">
+<!ENTITY home_synced_devices_number "&formatD; устройства">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 устройство">
+<!ENTITY home_history_back_to2 "Обратно към История">
+<!ENTITY home_clear_history_button "Изчистване история на сърфирането">
 <!ENTITY home_closed_tabs_number "&formatD; раздела">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 раздел">
@@ -656,5 +734,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Добавяне към началния екран">
 
+<!ENTITY helper_first_offline_bookmark_title "Четене извън мрежа">
 
+<!ENTITY helper_triple_readerview_open_title "Достъпно извън мрежа">
+<!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 
