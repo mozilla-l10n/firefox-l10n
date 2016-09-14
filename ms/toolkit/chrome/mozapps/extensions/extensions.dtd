@@ -84,7 +84,7 @@
 <!ENTITY cmd.about.label                      "Mengenai">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "Aktif Keupayaan">
+<!ENTITY cmd.enableAddon.label                "Dayakan">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Lumpuhkan">
 <!ENTITY cmd.disableAddon.accesskey           "D">
