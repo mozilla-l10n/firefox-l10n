@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Import Wizard">
 
-<!ENTITY importFrom.label               "Import Pilihan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
-<!ENTITY importFromUnix.label           "Import Keutamaan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
-<!ENTITY importFromBookmarks.label      "Import Penanda-penanda dari:">
+<!ENTITY importFrom.label               "Import Pilihan, Tanda buku, Sejarah, Kata laluan dan lain-lain data dari:">
+<!ENTITY importFromUnix.label           "Import Keutamaan, Tanda buku, Sejarah, Kata laluan dan lain-lain data dari:">
+<!ENTITY importFromBookmarks.label      "Import Tanda buku dari:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Pelayar Selamat">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang dapat dijumpai.">
+<!ENTITY noMigrationSources.label       "Tiada atur cara yang mengandungi tanda buku, sejarah atau data kata laluan yang dapat dijumpai.">
 
 <!ENTITY importSource.title             "Import Tetapan dan Data">
 <!ENTITY importItems.title              "Butir untuk Diimport">
