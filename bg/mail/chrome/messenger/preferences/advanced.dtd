@@ -40,13 +40,13 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Телеметрия">
-<!ENTITY telemetryDesc.label             "Изпраща данни за производителността, използването, хардуера и персонализирането на вашия пощенски клиент на &vendorShortName;, за да спомогне за подобряването на &brandShortName;">
+<!ENTITY telemetryDesc.label             "Споделя данни за използването, производителността, хардуера, настройките на пощенския ви клиент с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">
 <!ENTITY enableTelemetry.label           "Включване на Телеметрия">
 <!ENTITY enableTelemetry.accesskey       "Т">
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
 <!ENTITY crashReporterSection.label      "Отчети за сривове">
-<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривове, за да спомогне на &vendorShortName; да увеличи стабилността и сигурността на пощенския клиент">
+<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривовете, за да помогне на &vendorShortName; да направи пощенския клиент по-стабилен и по-сигурен">
 <!ENTITY enableCrashReporter.label       "Включване на отчетите">
 <!ENTITY enableCrashReporter.accesskey   "о">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
