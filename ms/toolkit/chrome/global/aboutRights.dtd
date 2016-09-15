@@ -56,7 +56,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Servis&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah, anda boleh mematikan ciri-ciri atau Servis tersebut. Arahan tentang cara untuk mematikan ciri-ciri atau Servis tertentu boleh dijumpai ">
 <!ENTITY rights2.webservices-b "di sini">
-<!ENTITY rights3.webservices-c ". Servis dan ciri-ciri lain boleh dilumpuhkan di dalam keutamaan aplikasi.">
+<!ENTITY rights3.webservices-c ". Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "PelayaranSelamat: ">
@@ -64,7 +64,7 @@
 <!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
 <!ENTITY rights2.safebrowsing-term3 "Nyahpilih pilihan untuk &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "semak seimbas yang selamat teleh kehilangan upaya">
+<!ENTITY rights.safebrowsing-term4 "Pelayaran Selamat kini dinyahdayakan">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "tentang:konfig">
 <!ENTITY rights.locationawarebrowsing-term2 "Taip geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Klik-dua kali pada keutamaan geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Layaran Imbasan-Lokasi telah kehilangan upaya">
+<!ENTITY rights.locationawarebrowsing-term4 "Pelayan Location-Aware kini dinyahdayakan">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Previu perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.">

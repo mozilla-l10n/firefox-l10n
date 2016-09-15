@@ -104,14 +104,14 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label     "Lumpuhkan JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Menghidupkan pilihan ini akan melumpuhkan JavaScript untuk tab semasa. Jika tab atau kekotak alatan ditutup maka tetapan akan dilupakan.">
+<!ENTITY options.disableJavaScript.label     "Nyahdayakan JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Mengaktifkan pilihan ini akan menyahdayakan JavaScript untuk tab semasa. Jika tab atau kotak alat ditutup maka tetapan ini akan diabaikan.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "Lumpuhkan Cache (ketika kekotak alat dibuka)">
-<!ENTITY options.disableHTTPCache.tooltip   "Mengaktifkan pilihan ini akan menyahdayakan cache HTTP untuk semua tab yang ada kotak alatan yang dibuka. Service Workers tidak terkesan dengan pilihan ini.">
+<!ENTITY options.disableHTTPCache.label     "Nyahdayakan Cache HTTP (apabila kotak alat dibuka)">
+<!ENTITY options.disableHTTPCache.tooltip   "Mengaktifkan pilihan ini akan menyahdayakan cache HTTP untuk semua tab yang ada kotak alat yang dibuka. Service Workers tidak terkesan dengan pilihan ini.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and

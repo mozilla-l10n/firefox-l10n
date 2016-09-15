@@ -37,7 +37,7 @@
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; boleh memeriksa secara berkala dan memberitahu anda apabila kemaskinian penambahan anda ditemui.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; akan memeriksa secara berkala dan memberitahu anda apabila kemaskinian penambahan anda ditemui.">
 
-<!ENTITY  adminDisabled.wizard.title      "Tidak dapat Memeriksa Kemaskinian">
+<!ENTITY  adminDisabled.wizard.title      "Tidak dapat Menyemak Kemas kini">
 <!ENTITY  adminDisabled.warning.label     "Adalah mustahil untuk memeriksa kemaskinian penambahan tidak serasi kerana pemasangan perisian untuk &brandShortName; telah dilumpuhkan. Sila hubungi Pentadbir Sistem anda untuk bantuan.">
 
 <!ENTITY  versioninfo.wizard.title        "Memeriksa Keserasian Penambahan">

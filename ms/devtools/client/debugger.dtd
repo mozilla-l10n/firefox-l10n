@@ -48,7 +48,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Bolehkan/lumpuhkan semua breakpoint">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Dayakan/disable semua titik putus">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
