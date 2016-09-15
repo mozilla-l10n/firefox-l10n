@@ -581,14 +581,21 @@ size. -->
 <!ENTITY home_synced_devices_one "1 устройство">
 <!ENTITY home_history_back_to2 "Обратно към История">
 <!ENTITY home_clear_history_button "Изчистване история на сърфирането">
+<!ENTITY home_clear_history_confirm "Сигурни ли сте, че желаете да изтриете историята на сърфирането?">
+<!ENTITY home_bookmarks_empty "Направените отметки се показват тук.">
+<!ENTITY home_closed_tabs_title2 "Наскоро затворени">
+<!ENTITY home_last_tabs_empty "Скоро затворените раздели се показват тук.">
+<!ENTITY home_restore_all "Възстановяване на всички">
 <!ENTITY home_closed_tabs_number "&formatD; раздела">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 раздел">
+<!ENTITY home_most_recent_empty "Скоро посетените страници се показват тук.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Този панел няма съдържание.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
