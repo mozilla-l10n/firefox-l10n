@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
-<!ENTITY containersMenu.label "Conteneurs">
+<!ENTITY containersMenu.label "Contextes">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Nouvel onglet conteneur">
+<!ENTITY newUserContext.label             "Nouvel onglet contextuel">
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY newNavigatorCmd.label        "&#xad;Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -468,7 +468,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "u">
 <!ENTITY showOnlyThisFrameCmd.label     "Afficher ce cadre uniquement">
 <!ENTITY showOnlyThisFrameCmd.accesskey "A">
-<!ENTITY openLinkCmdInContainerTab.label "Ouvrir le lien dans un nouvel onglet conteneur">
+<!ENTITY openLinkCmdInContainerTab.label "Ouvrir le lien dans un nouvel onglet contextuel">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualiser le cadre">
