@@ -283,6 +283,8 @@
 <!ENTITY pref_custom_tabs_summary "Разрешаване на трети приложения да отварят страници в раздели с променен облик.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Поток от дейности">
+<!ENTITY pref_activity_stream_summary "Богатият визуален списък на историята и изцяло новата начална страница правят търсенето неща от &brandShortName; изключително лесно.">
 
 <!ENTITY tracking_protection_prompt_title "Сега със Защитата от проследяване">
 <!ENTITY tracking_protection_prompt_text "Активно блокира проследяващи елементи за ваше спокойствие.">
@@ -502,6 +504,8 @@ size. -->
 <!ENTITY contextmenu_subscribe "Абониране за страницата">
 <!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
 <!ENTITY contextmenu_top_sites_edit "Редактиране">
+<!ENTITY contextmenu_top_sites_pin "Закачане на сайта">
+<!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните сайтове">
 <!ENTITY contextmenu_add_search_engine "Добавяне на търсеща машина">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -592,6 +596,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Скоро посетените страници се показват тук.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Ехоо! Ако използване &formatS1;Нов поверителен раздел&formatS2; историята ви няма да бъде запазена.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -779,18 +784,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Добавки">
+<!ENTITY restrictable_feature_addons_installation_description "Добавя възможности и функции към Firefox. Забележка: Добавки могат да отменят някои ограничения.">
 <!ENTITY restrictable_feature_private_browsing "Поверително сърфиране">
+<!ENTITY restrictable_feature_private_browsing_description "Позволява на близките ви да сърфират без запазване на информация за посетените от тях сайтове и страници.">
 <!ENTITY restrictable_feature_clear_history "Изчистване на историята">
+<!ENTITY restrictable_feature_clear_history_description "Позволява на близките ви да изтриват информация за посетените от тях сайтове и страници.">
 <!ENTITY restrictable_feature_advanced_settings "Разширени настройки">
+<!ENTITY restrictable_feature_advanced_settings_description "Включва внасяне на отметки, възстановяване на раздели и автоматични актуализации. Изключете, за да имате опростени настройки, подходящи за вашите близки.">
 <!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
+<!ENTITY restrictable_feature_camera_microphone_description "Позволява на близките ви да участват в разговори в реално време.">
 <!ENTITY restrictable_feature_block_list "Блокиращ списък">
+<!ENTITY restrictable_feature_block_list_description "Блокира сайтове, съдържащи чувствително съдържание.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: За вашия браузър">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Персонализиране с добавки">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Поддръжка">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Помощ и поддръжка на Firefox за ограничените профили на таблети с Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Научете Мрежата: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
