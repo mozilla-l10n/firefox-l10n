@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "ໂປຣແກຼມເສີມ">
-<!ENTITY aboutAddons.header2                    "ໂປຣແກຼມເສີມຂອງທ່ານ">
+<!ENTITY aboutAddons.title2                     "Add-ons">
+<!ENTITY aboutAddons.header2                    "Add-ons ຂອງທ່ານ">
 <!ENTITY aboutAddons.options                    "ຕັ້ງຄ່າ">
 
 <!ENTITY addonAction.enable                     "ເປີດໃຊ້ງານ">
@@ -11,5 +11,5 @@
 <!ENTITY addonAction.uninstall                  "ຖອນການຕິດຕັ້ງ">
 <!ENTITY addonAction.undo                       "ເອົາກັບຄືນ">
 
-<!ENTITY addonUnsigned.message                  "ໂປຣແກຼມເສີມນີ້ບໍ່ສາມາດຢັ້ງຢືນໄດ້ໂດຍ &brandShortName;.">
+<!ENTITY addonUnsigned.message                  "Add-on ນີ້ບໍ່ສາມາດຢັ້ງຢືນໄດ້ໂດຍ &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "ຮຽນຮູ້ເພີ່ມເຕີມ">

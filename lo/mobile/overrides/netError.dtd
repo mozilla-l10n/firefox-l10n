@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "ມີບັນຫາໃນການໂຫລດຫນ້າເວັບ">
 <!ENTITY retry.label "ຫລອງໃຫມ່ອີກຄັ້ງ">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ບໍ່ສາມາດເຊື່ອມຕໍ່">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>ກວດເບິງການພິມທີ່ຢູ່ຜິດເຊັ່ນວ່າ <strong>ww</strong>.example.com ແທນທີ່ຈະ <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ຖ້າຫາກວ່າທ່ານຍັງບໍ່ສາມາດໂຫລດຫນ້ານີ້ເວັບໄດ້, ໃຫ້ລອງກວດເບິງການເຊື່ອມຕໍກັບ Wi-FI ຫລື ປະລິມານການນຳໃຊ້ຂໍ້ມູນໃນອຸປະກອນຂອງທ່ານ <button id='wifi'>ເປີດນຳໃຊ້ Wi-FI</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
-<!ENTITY fileNotFound.longDesc "<ul> <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li> <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລືບຖີ້ມ.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li> <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລຶບຖີ້ມ.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງຟາຍຂໍ້ມູນໄດ້ຖືກປະຕິເສດ">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "ການເຊື່ອມຕໍ່ທີປອດໄພຫລົ້ມເຫລວ">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>ນີ້ອາດຈະເປັນບັນຫາກ່ຽວກັບການຕັ້ງຄ່າຂອງເຄື່ອງແມ່ຂ່າຍ, ຫຼືມັນອາດຈະມີ ຜູ້ໃດຜູ້ຫນຶ່ງຄວາມພະຍາຍາມທີ່ຈະປອມຕົວເປັນເຄື່ອງແມ່ຂ່າຍ.</li> <li>ຖ້າຫາກວ່າທ່ານໄດ້ເຊື່ອມຕໍ່ກັບເຄື່ອງແມ່ຂ່າຍນີ້ສົບຜົນສໍາເລັດໃນໄລຍະຜ່ານມາ, ຄວາມຜິດພາດທີ່ອາດຈະ ເກີດຂື້ນພຽງຊົ່ວຄາວ, ແລະ ທ່ານສາມາດພະຍາຍາມອີກເທື່ອຫນຶ່ງໃນພາຍຫລັງ.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>ເວັບໃຊ້ນີ້ບໍ່ສາມາດເຂົ້ານຳໃຊ້ໄດ້ຊົ່ວຄ່າວ. ຫລອງເຂົ້າໃຫມ່ອີກຄັ້ງໃນອີກ 2-3 ນາທີຂ້າງຫນ້າ.</li> <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າເວັບໄດ້, ໃຫ້ກວດເບິງປະລິມານການນຳໃຊ້ຂໍ້ມູນ ຫລື ການເຊື່ອມຕໍ່ກັບໄວຟາຍໃນໂທລະສັບຂອງທ່ານ. <button id='wifi'>ເປີດໄວຟາຍ</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ຖືກບັອກໂດຍນະໂຍບາຍຄວາມປອດໄພທາງດ້ານເນື້ອຫາ">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "ຫລືທ່ານສາມາດເພີ່ມຂໍ້ຍົກເວັ້ນ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ພາຂ້ອຍອອກຈາກບ່ອນນີ້!">
 <!ENTITY securityOverride.exceptionButtonLabel "ເພີ່ມຂໍ້ຍົກເວັ້ນ…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ທ່ານບໍ່ຄວນຈະເພີ່ມຂໍ້ຍົກເວັ້ນຖ້າທ່ານກຳລັງເຊື່ອມຕໍ່ກັບອິນເຕີເນັດທີ່ທ່ານບໍ່ໄວ້ໃຈ ຫລື ຖ້າທ່ານບໍ່ເຄີຍເຫັນຄຳເຕືອນສໍາລັບເຄື່ອງແມ່ຂ່າຍນີ້.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

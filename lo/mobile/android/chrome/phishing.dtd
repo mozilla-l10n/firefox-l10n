@@ -8,12 +8,12 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "ຫນ້າເວັບນີ້ອາດຈະເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "ຫນ້າເວັບນີ້ທີ່ <span id='malware_sitename'/> ໄດ້ຖືກລາຍງານວ່າຫນ້າເວັບນີ້ອາດຈະເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ  ແລະ ໄດ້ຖືກບັອກໄວແລ້ວໂດຍອີ່ງໃສ່ການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ຫນ້າເວັບນີ້ທີ່ <span id='malware_sitename'/> ໄດ້ຖືກລາຍງານວ່າຫນ້າເວັບນີ້ອາດຈະເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ  ແລະ ໄດ້ຖືກບັອກໄວ້ແລ້ວໂດຍອີ່ງໃສ່ການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>ຫນ້າເວັບທີ່ມີໄວລັສຈະພະຍາຍາມຕິດຕັ້ງໂປຼແກຣມທີີ່ໃຊ້ເພື່ອຫລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ, ໃຊ້ຄອມພິວເຕີຂອງທ່ານໄປໂຈມຕີເຄື່ອງອື່ນ, ຫລືທຳລາຍລະບົບຂອງທ່ານ. </p><p>ບາງຫນ້າເວັບທີ່ມີໄວລັສຈະມີຈຸດປະສົງກະຈາຍຊັອບແວທີ່ເປັນອັນຕະລາຍ, ແຕວ່າມີຫລາຍຄົນທີ່ຖືກບຸກລຸກໂດຍທີ່ບໍ່ຮູ້ຕົວ ຫລື ບໍ່ໄດ້ຮັບອະນຸຍາດຈາກເຈົ້າຂອງຄອມ.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "ເວັບໄຊຕ໌ປອມແປງ">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ຫນ້າເວັບນີ້ທີ່ <span id='phishing_sitename'/> ໄດ້ຖືກລາຍງານວ່າຫນ້າເວັບນີ້ອາດຈະເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ  ແລະ ໄດ້ຖືກບັອກໄວແລ້ວໂດຍອີ່ງໃສ່ການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ຫນ້າເວັບນີ້ທີ່ <span id='phishing_sitename'/> ໄດ້ຖືກລາຍງານວ່າຫນ້າເວັບນີ້ອາດຈະເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ  ແລະ ໄດ້ຖືກບັອກໄວ້ແລ້ວໂດຍອີ່ງໃສ່ການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>ເວັບໄຊຕ໌ປແປກປອມແມ່ນໄດ້ຮັບການອອກແບບມາເພື່ອຕົວະໃຫ້ທ່ານເຮັດບາງສິ່ງບາງຢ່າງທີ່ເປັນອັນຕະລາຍເຊັ່ນວ່າ: ການຕິດຕັ້ງຊັອບແວເຖື່ອນ, ຫລືເປີດເຜີຍຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ, ລະຫັດຜ່ານ, ເບີໂທລະສັບ ຫລື ຂໍ້ມູນບັດເຄຣດິດ.</p><p>ການປ້ອນຂໍ້ມູນໃດໆເຂົ້າໄປໃນຫນ້າເວັບນີ້ອາດຈະເຮັດເປັນຜົນເຮັດໃຫ້ເກີດການໂຈລະກຳຂໍ້ມູນ ແລະ ການຊໍ້ໂກງອື່ນໆ.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "ລາຍງານຊັອບແວທີ່ບໍ່ພຶງປະສົງແລ້ວ!">

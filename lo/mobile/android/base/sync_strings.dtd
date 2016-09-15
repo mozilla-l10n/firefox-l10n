@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'ຂ້ອຍບໍ່ມີອຸປະກອນຕິດຕົວ…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'ລັອກອິນ'>
+<!ENTITY sync.configure.engines.title.passwords2 'ເຂົ້າສູ່ລະບົບ'>
 <!ENTITY sync.configure.engines.title.history 'ປະຫວັດການໃຊ້ງານ'>
 <!ENTITY sync.configure.engines.title.tabs 'ແທັບ'>
 
@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name '&formatS1; ໃນ &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'ເມນູບຸກມາກສ໌'>
+<!ENTITY bookmarks.folder.menu.label 'ເມນູບຸກມາກ'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ແທັບ'>
 <!ENTITY bookmarks.folder.toolbar.label 'ແຖບເຄື່ອງມືບຸກມາກສ໌'>
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'ແຕະເພື່ອເຂົ້າສູ່ບັນຊີ Firefox ໃຫມ່ຂອງທ່ານ.'>
 <!ENTITY fxaccount_status_bookmarks 'ບຸກມາກສ໌'>
 <!ENTITY fxaccount_status_history 'ປະຫວັດການໃຊ້ງານ'>
-<!ENTITY fxaccount_status_passwords2 'ລັອກອິນ'>
+<!ENTITY fxaccount_status_passwords2 'ເຂົ້າສູ່ລະບົບ'>
 <!ENTITY fxaccount_status_tabs 'ເປີດແທັບ'>
 <!ENTITY fxaccount_status_legal 'ຖືກກົດຫມາຍ' >
 <!-- Localization note: when tapped, the following two strings link to

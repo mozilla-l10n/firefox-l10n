@@ -117,7 +117,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "ປ່ຽນ">
+<!ENTITY switch_button_message "SWITCH">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "ໃຊ້ລະຫັດຜ່ານຫລັກ">
 <!ENTITY pref_sync2 "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY pref_sync_summary2 "ຊິງແທັບຂອງທ່ານ, ບຸກມາກ, ລັອກອິນ, ປະຫວັດການນຳໃຊ້">
+<!ENTITY pref_sync_summary2 "ຊິງແທັບຂອງທ່ານ, ບຸກມາກ, ການເຂົ້າສູ່ລະບົບ, ປະຫວັດການນຳໃຊ້">
 <!ENTITY pref_search_suggestions "ສະແດງຜົນການແນະນຳການຊອກຫາ">
 <!ENTITY pref_history_search_suggestions "ສະແດງປະຫວັດການຊອກຫາ">
 <!ENTITY pref_import_options "ທາງເລືອກໃນການປ້ອນຂໍ້ມູນ">
@@ -390,14 +390,14 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
 <!ENTITY pref_private_data_formdata2 "ແບບຟອມປະຫວັດການໃຊ້ງານ">
 <!ENTITY pref_private_data_cookies2 "ຄຸກກີ &amp; ການເຂົ້າລະບົບທີ່ໃຊ້ງານຢູ່">
-<!ENTITY pref_private_data_passwords2 "ບັກທຶກການລັອກອິນ">
+<!ENTITY pref_private_data_passwords2 "ບັກທຶກການເຂົ້າສູ່ລະບົບໄວ້ແລ້ວ">
 <!ENTITY pref_private_data_cache "ແຄຊ໌">
 <!ENTITY pref_private_data_offlineApps "ຂໍ້ມູນອັອບລາຍຂອງເວັບໃຊ້">
 <!ENTITY pref_private_data_siteSettings2 "ຕັ້ງຄ່າເວັບໃຊ້">
-<!ENTITY pref_private_data_downloadFiles2 "ດາວໂລດ">
+<!ENTITY pref_private_data_downloadFiles2 "ດາວໂຫລດ">
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
-<!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວ໌ເຊີຫລັກ">
+<!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ເຂົ້າໄປທີ່ການສະຫນັບສະຫນູນຂອງ Mozilla">
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
@@ -512,15 +512,15 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[ບໍ່ມີຊື່ຜູ້ໃຊ້]">
-<!ENTITY doorhanger_login_edit_title "ແກ້ໄຂການລັອກອິນ">
+<!ENTITY doorhanger_login_edit_title "ແກ້ໄຂການເຂົ້າສູ່ລະບົບ">
 <!ENTITY doorhanger_login_edit_username_hint "ຊື່ຜູ້ໃຊ້">
 <!ENTITY doorhanger_login_edit_password_hint "ລະຫັດຜ່ານ">
 <!ENTITY doorhanger_login_edit_toggle "ສະແດງລະຫັດຜ່ານ">
-<!ENTITY doorhanger_login_edit_toast_error "ບໍ່ສາມາດບັກທຶກການລັອກອິນ">
+<!ENTITY doorhanger_login_edit_toast_error "ບໍ່ສາມາດບັກທຶກການເຂົ້າສູ່ລະບົບ">
 <!ENTITY doorhanger_login_select_message "ສຳເນົາລະຫັດຜ່ານຈາກ &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "ລະຫັດຜ່ານໄດ້ຖືກສຳເນົາໄປທີ່ clipboard">
 <!ENTITY doorhanger_login_select_toast_copy_error "ບໍ່ສາມາດສຳເນົາລະຫັດຜ່ານ">
-<!ENTITY doorhanger_login_select_action_text "ເລືອກການລັອກອິນອື່ນອີກ">
+<!ENTITY doorhanger_login_select_action_text "ເລືອກການເຂົ້າສູ່ລະບົບອື່ນ">
 <!ENTITY doorhanger_login_select_title "ສຳເນົາລະຫັດຜ່ານຈາກ">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
@@ -669,8 +669,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "ນຳເຂົ້າ">
 <!ENTITY bookmarkhistory_import_both "ການນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດ ຈາກ Android">
-<!ENTITY bookmarkhistory_import_bookmarks "ການນຳເຂົ້າບຸກມາກ ຈາກ Android ">
-<!ENTITY bookmarkhistory_import_history "ການນຳເຂົ້າປະຫວັດ ຈາກ Android ">
+<!ENTITY bookmarkhistory_import_bookmarks "ກຳລັງນຳເຂົ້າບຸກມາກຈາກ
+                                           Android ">
+<!ENTITY bookmarkhistory_import_history "ກຳລັງນຳເຂົ້າປະຫວັດການນຳໃຊ້ຈາກ 
+                                         Android ">
 <!ENTITY bookmarkhistory_import_wait "ກະລູນາລໍຖ້າ...">
 
 <!ENTITY suggestions_prompt3 "ທ່ານຕ້ອງການເປີດໃຊ້ງານການແນະນຳຄຳຄົ້ນຫາຫລືບໍ່?">

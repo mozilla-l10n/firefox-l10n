@@ -1,9 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD
+     SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "ລັອກອິນ">
+<!ENTITY aboutLogins.title                       "ເຂົ້າສູ່ລະບົບ">
 <!ENTITY aboutLogins.update                      "ປັບປຸງ">
-<!ENTITY aboutLogins.emptyLoginText              "ຮັກສາຂໍ້ມູນລັອກອິນຂອງທ່ານໃຫ້ປອດໄພ">
-<!ENTITY aboutLogins.emptyLoginHint              "ລັອກອິນ ແລະ ຂໍ້ມູນປະຈຳຕົວທີ່ທ່ານບັນທຶກໄວ້ໂດຍໃຊ້ &brandShortName; ຈະສະແດງຂື້ນຢູ່ທີນີ້.">
+<!ENTITY aboutLogins.emptyLoginText              "ຮັກສາຂໍ້ມູນການເຂົ້າສູ່ລະບົບຂອງທ່ານໄວ້ໃຫ້ປອດໄພ">
+<!ENTITY aboutLogins.emptyLoginHint              "ເຂົ້າສູ່ລະບົບ ແລະ ຂໍ້ມູນປະຈຳຕົວທີ່ທ່ານໄດ້ບັນທຶກໄວ້ໂດຍໃຊ້ &brandShortName; ຈະສະແດງຂື້ນຢູ່ທີນີ້.">
