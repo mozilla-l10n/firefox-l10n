@@ -23,15 +23,15 @@
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Mulakan semula dengan Add-ons Dinyahdayakan…">
+<!ENTITY helpSafeMode.label       "Mula semula dengan Add-ons Dinyahdayakan…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Mulakan semula dengan Add-ons Didayakan">
+<!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">
+<!ENTITY helpTroubleshootingInfo.label      "Informasi Menyelesaikan masalah">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
