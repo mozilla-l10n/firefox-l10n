@@ -8,9 +8,9 @@
 
 <!ENTITY noTranslationForLanguages.label  "Terjemahan tidak akan ditawarkan kepada bahasa berikut:">
 <!ENTITY treehead.languageName.label      "Bahasa">
-<!ENTITY removeLanguage.label             "Singkir Bahasa">
+<!ENTITY removeLanguage.label             "Alih keluar Bahasa">
 <!ENTITY removeLanguage.accesskey         "R">
-<!ENTITY removeAllLanguages.label         "Singkir Semua Bahasa">
+<!ENTITY removeAllLanguages.label         "Alih keluar Semua Bahasa">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Terjemahan tidak akan ditawarkan kepada laman berikut:">

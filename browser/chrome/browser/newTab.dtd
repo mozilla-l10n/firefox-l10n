@@ -12,7 +12,7 @@
 <!ENTITY newtab.customize.suggested "Papar saranan dan laman teratas anda">
 <!ENTITY newtab.customize.topsites "Papar laman teratas anda">
 <!ENTITY newtab.customize.blank2 "Papar halaman kosong">
-<!ENTITY newtab.undo.removedLabel "Thumbnail dihapus.">
+<!ENTITY newtab.undo.removedLabel "Thumbnail dialih keluar.">
 <!ENTITY newtab.undo.undoButton "Kembali asal.">
 <!ENTITY newtab.undo.restoreButton "Kembalikan Semua.">
 <!ENTITY newtab.undo.closeTooltip "Sembunyi">

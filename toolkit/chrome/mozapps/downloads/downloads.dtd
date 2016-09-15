@@ -33,14 +33,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Buang Dari Senarai">
+<!ENTITY cmd.removeFromList.label         "Alih keluar Dari Senarai">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Kosongkan Senarai">
-<!ENTITY cmd.clearList.tooltip            "Buang muat turun yang telah lengkap, batal dan gagal dari senarai">
+<!ENTITY cmd.clearList.tooltip            "Alih keluar muat turun yang sudah siap, dibatalkan dan gagal daripada senarai">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

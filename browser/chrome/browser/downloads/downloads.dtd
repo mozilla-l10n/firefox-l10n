@@ -60,7 +60,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "Buang Daripada Latar">
+<!ENTITY cmd.removeFromHistory.label      "Alih keluar Daripada Sejarah">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "Kosongkan Senarai">
 <!ENTITY cmd.clearList.accesskey          "a">
@@ -74,19 +74,19 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Buang Fail">
+<!ENTITY cmd.removeFile.label             "Alih keluar Fail">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Buang Fail atau Benarkan Muat turun">
+<!ENTITY cmd.chooseUnblock.label          "Alih keluar Fail atau Izinkan Muat turun">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Buka atau Buang Fail">
+<!ENTITY cmd.chooseOpen.label             "Buka atau Alih keluar Fail">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.

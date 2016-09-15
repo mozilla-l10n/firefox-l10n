@@ -20,7 +20,7 @@
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "App Nyahpepijat">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Buang Projek">
+<!ENTITY projectMenu_remove_label "Alih keluar Projek">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Keutamaan">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
@@ -95,7 +95,7 @@
 <!ENTITY details_description "Huraian">
 <!ENTITY details_location "Lokasi">
 <!ENTITY details_manifestURL "ID App">
-<!ENTITY details_removeProject_button "Buang Projek">
+<!ENTITY details_removeProject_button "Alih keluar Projek">
 <!ENTITY details_showPrepackageLog_button "Papar Log Pra-pakej">
 
 <!-- New App -->

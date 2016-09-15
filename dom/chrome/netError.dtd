@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Pelayar tidak menemui hos pelayan bagi alamat yang diberi.</p><ul><li>Adakah anda telah melakukan kesilapan menaip domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> sebaliknya ialah <q><strong>www</strong>.mozilla.org</q>)</li><li>Adakah anda pasti alamat ini wujud?  Pendaftarannya mungkin telah luput.</li><li>Adakah anda tidak dapat melayari laman lain?  Semak sambungan rangkaian dan tetapan pelayan DNS.</li><li>Adakah komputer atau rangkaian anda dilindungi oleh firewall atau proksi?  Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
-<!ENTITY fileNotFound.longDesc "<ul><li>Adakah item telah dinamakan, disingkir, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau menaip dalam alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Adakah item boleh dinamakan, dialih keluar, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau kesilapan menaip alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>mungkin telah dialih keluar, dipindah, atau keizinan fail yang menyekat aksesnya.</li></ul> ">

@@ -26,7 +26,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "Kembalikan Enjin Carian Piawai">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
-<!ENTITY removeEngine.label                    "Singkir">
+<!ENTITY removeEngine.label                    "Alih keluar">
 <!ENTITY removeEngine.accesskey                "r">
 
 <!ENTITY addMoreSearchEngines.label            "Dapatkan lebih lagi enjin carian...">
