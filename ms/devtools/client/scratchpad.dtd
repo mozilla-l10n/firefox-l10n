@@ -50,7 +50,7 @@
 <!ENTITY closeCmd.key                 "T">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "Lihat">
+<!ENTITY viewMenu.label               "Papar">
 <!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "Papar Nombor Baris">

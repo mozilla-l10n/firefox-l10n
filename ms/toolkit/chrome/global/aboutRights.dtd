@@ -76,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing kini dinyahdayakan">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Previu perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.">
+<!ENTITY rights.webservices-unbranded "Gambaran keseluruhan perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Sebarang syarat-syarat perkhidmatan yang diguna pakai bagi produk ini mestilah disenaraikan di sini.">

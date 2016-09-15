@@ -106,11 +106,11 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Kurangkan">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.selectAnItemText.description "Pilih satu item untuk dilihat dan diedit sifatnya">
+<!ENTITY detailsPane.selectAnItemText.description "Pilih satu item untuk dipapar dan diedit sifatnya">
 
 <!ENTITY find.label               "Carian:">
 <!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "Lihat">
+<!ENTITY view.label               "Papar">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Secara Tarikh">
 <!ENTITY byDate.accesskey         "D">

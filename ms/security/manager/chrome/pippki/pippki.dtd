@@ -22,7 +22,7 @@
 <!ENTITY downloadCert.trustEmail "Percayakan CA ini untuk mengenali pengguna emel.">
 <!ENTITY downloadCert.trustObjSign "Percayakan CA ini untuk mengenali pembangun perisian.">
 <!ENTITY downloadCert.message3 "Sebelum mempercayai CA ini untuk sebarang kegunaan, anda perlu memeriksa sijilnya dan polisi dan prosedurnya (jika ada).">
-<!ENTITY downloadCert.viewCert.label "Lihat">
+<!ENTITY downloadCert.viewCert.label "Papar">
 <!ENTITY downloadCert.viewCert.text "Periksa sijil CA">
 
 <!-- Strings for the SSL client auth ask dialog -->

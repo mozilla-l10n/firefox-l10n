@@ -69,7 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "b">
 <!ENTITY printSetupCmd.label "Persediaan Laman…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Pratonton Cetakan">
+<!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "P">
@@ -206,14 +206,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak halaman ini">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Lihat maklumat laman">
+<!ENTITY urlbar.viewSiteInfo.label                      "Papar maklumat laman">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Papar notifikasi">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Lihat permintaan lokasi">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Lihat add-on memasang mesej">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Lihat penyimpanan mesej app-offline">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Papar permintaan lokasi">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Papar mesej pasang add-on">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Papar mesej storan app-luar talian">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Mengurus maklumat log masuk anda">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Periksa sama ada anda mahu menyimpan kata laluan anda">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Mengurus plugin yang digunakan untuk halaman ini">
@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda kini sedang berkongsi tetingkap atau skrin anda dengan laman ini">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tukar sama ada laman ini boleh menyorokkan penunjuk">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Lihat perkhidmatan memasang mesej">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Papar mesej pasang perkhidmatan">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Terjemahkan halaman ini">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Mengurus terjemahan halaman">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Menguruskan penggunaan perisian DRM">
@@ -321,7 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Lihat"> 
+<!ENTITY viewMenu.label         "Papar"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "Bar alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Lapangkan Sejarah Kebelakangan…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Terdahulu">
-<!ENTITY appMenuHistory.viewSidebar.label "Lihat Bar Sisi Sejarah">
+<!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Synced Tabs">
@@ -357,16 +357,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Tiada tab terbuka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Menghidupkan penyelarasan tab untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab disync… lagi!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Papar Synced Tab Sidebar">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Papar Bar sisi Sync Tab">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -480,14 +480,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "m">
 <!ENTITY reloadFrameCmd.label         "Tambah isi Bingkai">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Lihat sumber yang dipilih">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Lihat Sumber MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Papar Sumber Dipilih">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Papar Sumber MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Lihat Sumber Halaman">
+<!ENTITY viewPageSourceCmd.label      "Papar Sumber Halaman">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Lihat Sumber Bingkai">
+<!ENTITY viewFrameSourceCmd.label     "Papar Sumber Bingkai">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Lihat Info Laman">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
@@ -495,15 +495,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Tambah isi imej">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Lihat Imej">
+<!ENTITY viewImageCmd.label           "Papar Imej">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Lihat Info Imej">
+<!ENTITY viewImageInfoCmd.label       "Papar Info Imej">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Lihat Huraian">
+<!ENTITY viewImageDescCmd.label       "Papar Keterangan">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Lihat Video">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "Lihat Imej Latar Belakang">
+<!ENTITY viewBGImageCmd.label         "Papar Imej Latar belakang">
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Tetapkan Sebagai Latar Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
@@ -744,12 +744,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab tersebut di sini.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab yang diselaraskan... lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tiada tab terbuka">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buka &syncBrand.shortName.label; Keutamaan">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Menghidupkan penyelarasan tab untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
 
 <!ENTITY syncedTabs.context.open.label                       "Buka">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -795,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
 <!ENTITY social.directory.button "Bawa saya keluar dari sini!">
 <!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambahkannya ke &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Lihat Lagi">
+<!ENTITY social.directory.viewmore.text "Papar Selanjutnya">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
