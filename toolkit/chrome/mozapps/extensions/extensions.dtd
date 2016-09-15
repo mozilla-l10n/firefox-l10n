@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemui sebarang add-on yang berpasangan">
-<!ENTITY listEmpty.button.label               "Ketahui lebih lanjut mengenai add-ons">
+<!ENTITY listEmpty.button.label               "Ketahui selanjutnya mengenai add-ons">
 <!ENTITY installAddonFromFile.label           "Pasang Add-on Dari Fail...">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Alatan untuk semua add-on">
@@ -227,7 +227,7 @@
 <!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Ketahui Lebih Lanjut…">
+<!ENTITY setting.learnmore "Ketahui Selanjutnya…">
 
 <!ENTITY disabledUnsigned.heading "Beberapa add-on telah dinyahdayakan">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
