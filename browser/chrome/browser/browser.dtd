@@ -703,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
-<!ENTITY identity.passiveLoaded "Части от страницата, като например изображения, не са шифрирани.">
+<!ENTITY identity.passiveLoaded "Части от страницата, например изображения, не са шифровани.">
 <!ENTITY identity.activeLoaded "Изключихте защитата за тази страница.">
 <!ENTITY identity.weakEncryption "Тази странница използва слабо шифриране.">
 
