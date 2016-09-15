@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Bermula pada Safe Mode">
-<!ENTITY refreshProfile.label         "Set semula &brandShortName;">
+<!ENTITY refreshProfile.label         "Muat semula &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Safe Mode adalah cara khas &brandShortName; yang boleh digunakan untuk menyelesaikan isu-isu.">
 <!ENTITY safeModeDescription4.label   "Tetapan add-ons dan suaian anda akan dinyahdayakan buat sementara waktu.">

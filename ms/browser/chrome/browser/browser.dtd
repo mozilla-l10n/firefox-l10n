@@ -381,9 +381,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Alih ke Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "Singkir daripada Bar Alatan ">
+<!ENTITY customizeMenu.removeFromToolbar.label "Alih keluar daripada Bar alat">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Singkir daripada Menu">
+<!ENTITY customizeMenu.removeFromMenu.label "Alih keluar daripada Menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Tambah Lagi Item… ">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
@@ -725,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ketahui Lebih Lanjut">
 
-<!ENTITY identity.removeCertException.label "Buang Pengecualian">
+<!ENTITY identity.removeCertException.label "Alih keluar Pengecualian">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
