@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Tatacara Halaman…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Prapapar Cetakan">
+<!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak">
 <!ENTITY printCmd.accesskey "P">
@@ -46,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "Lihat">
+<!ENTITY viewMenu.label           "Papar">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Muat semula">
 <!ENTITY reloadCmd.accesskey "R">

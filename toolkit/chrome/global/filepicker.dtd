@@ -14,7 +14,7 @@
 <!ENTITY showHiddenFiles.label  "Papar fail dan direktori tersorok">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "Anda tidak memiliki keizinan yang sesuai untuk mellihat direktori ini.">
+<!ENTITY noPermissionError.label "Anda tidak ada izin yang diperlukan untuk memaparkan direktori ini.">
 
 <!ENTITY folderUp.tooltiptext   "Pergi satu paras ke atas">
 <!ENTITY folderHome.tooltiptext "Pergi ke laman utama">

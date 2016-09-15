@@ -41,7 +41,7 @@
 <!ENTITY  mediaSaveAs           "Simpan Sebagai...">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Pratonton Media:">
+<!ENTITY  mediaPreview          "Previu Media:">
 
 <!ENTITY  feedTab               "Suapan">
 <!ENTITY  feedTab.accesskey     "F">
@@ -63,7 +63,7 @@
 
 <!ENTITY  securityTab           "Keselamatan">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "menunjukan sijil">
+<!ENTITY  securityView.certView "Papar Sijil">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Tidak diketahui">
 

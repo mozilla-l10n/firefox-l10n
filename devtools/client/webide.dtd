@@ -45,7 +45,7 @@
 <!ENTITY runtimeMenu_showSettings_label "Tetapan Peranti">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
-<!ENTITY viewMenu_label "Lihat">
+<!ENTITY viewMenu_label "Papar">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Editor Togol">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">

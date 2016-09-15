@@ -46,7 +46,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Semakan pengemaskinian terkini">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "Lihat kemaskini terbaru">
+<!ENTITY updates.viewUpdates.label            "Papar Kemas kini Terbaru">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -68,7 +68,7 @@
 <!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
 <!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
 <!ENTITY updates.noneFound.label              "Tiada pengemaskinian terbaru dijumpai">
-<!ENTITY updates.manualUpdatesFound.label     "Lihat pengemaskinian yang sedia ada">
+<!ENTITY updates.manualUpdatesFound.label     "Papar Kemas kini Tersedia">
 <!ENTITY updates.updateSelected.label         "Pasang pengemaskinian terkini">
 <!ENTITY updates.updateSelected.tooltip       "Pasangkan kemaskini yang sedia ada di dalam senarai ini">
 
