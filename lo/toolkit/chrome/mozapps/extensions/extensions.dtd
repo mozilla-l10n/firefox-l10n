@@ -12,12 +12,24 @@
 <!ENTITY loading.label                        "ກຳລັງໂຫລດ…">
 <!ENTITY listEmpty.installed.label            "ທ່ານບໍ່ໄດ້ຕິດຕັ້ງ Add-ons ປະເພດນີ້ໄວ້">
 <!ENTITY listEmpty.availableUpdates.label     "ບໍ່ພົບການອັບເດດ">
+<!ENTITY listEmpty.recentUpdates.label        "ທ່ານບໍ່ໄດ້ອັບເດດ Add-ons ຈັກອັນເລີຍ">
+<!ENTITY listEmpty.findUpdates.label          "ກວດເບິງການອັບເດດ">
+<!ENTITY listEmpty.search.label               "ບໍ່ສາມາດຊອກຫາ Add-ons ທີ່ກົງກັນໄດ້">
+<!ENTITY listEmpty.button.label               "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Add-ons ນີ້">
+<!ENTITY installAddonFromFile.label           "ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "ເຄື່ອງມືສຳລັບທຸກ Add-ons">
 
 <!ENTITY cmd.back.tooltip                     "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
 <!ENTITY cmd.forward.tooltip                  "ໄປໜ້າຖັດໄປ">
 
+<!ENTITY showUnsignedExtensions.button.label  "ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້">
+<!ENTITY showAllExtensions.button.label       "ສະແດງ extension ທັງຫມົດ">
+<!ENTITY debugAddons.label                    "ດີບັກ Add-on">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.">
 
 <!-- categories / views -->
 
