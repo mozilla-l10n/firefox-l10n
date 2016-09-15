@@ -13,6 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "P">
 <!ENTITY gdata.migration.showagain.label "Tarkasta aina ">
 
+<!ENTITY gdata.reminder.default "Oletusmuistutus">
 <!ENTITY gdata.reminder.action.sms.label "Lähetä tekstiviesti">
 
 <!ENTITY gdata.wizard.calendars.description "Valitse kalenterit ja tehtävälistat, jotka haluat tilata.">
