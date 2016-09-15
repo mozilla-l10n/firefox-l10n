@@ -222,7 +222,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Apakah ini? Telemetri mungkin dipasang dan melaksanakan eksperimen dari semasa ke semasa.">
-<!ENTITY experiment.info.learnmore "Pelajari Lagi">
+<!ENTITY experiment.info.learnmore "Ketahui Selanjutnya">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
@@ -236,7 +236,7 @@
 <!ENTITY disabledUnsigned.description.start "Add-ons berikut belum disahkan untuk digunakan dalam &brandShortName;. Anda boleh ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "cari pengganti">
 <!ENTITY disabledUnsigned.description.end " atau tanya pembangun untuk mengesahkannya.">
-<!ENTITY disabledUnsigned.learnMore "Ketahui lebih lanjut mengenai usaha kami untuk memastikan anda selamat dalam talian.">
+<!ENTITY disabledUnsigned.learnMore "Ketahui selanjutnya mengenai usaha kami untuk memastikan anda selamat dalam talian.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

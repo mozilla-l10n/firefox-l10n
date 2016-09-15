@@ -17,7 +17,7 @@
 
 <!ENTITY  unsupported.title               "Sistem Tak Disokong">
 <!ENTITY  unsupported.label               "&brandShortName; Anda telah lapuk, tetapi versi yang terbaru tidak  disokong oleh sistem anda. Sila tatar sistem anda, kemudian cuba lagi.  Anda tidak akan melihat notis ini lagi, tetapi anda boleh">
-<!ENTITY  unsupportedLink.label           "ketahui lebih lanjut.">
+<!ENTITY  unsupportedLink.label           "setahui selanjutnya.">
 
 <!ENTITY  clickHere.label                 "Lihat maklumat lanjut perihal kemaskinian ini">
 

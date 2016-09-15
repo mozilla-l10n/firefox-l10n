@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
-<!ENTITY debuggerUI.panesButton.tooltip "Anak tetingkap togol">
+<!ENTITY debuggerUI.panesButton.tooltip "Toggle panes">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
@@ -31,19 +31,19 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-<!ENTITY debuggerUI.optsButton.tooltip  "Opsyen Debugger">
+<!ENTITY debuggerUI.optsButton.tooltip  "Pilihan Debugger">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Togol Kotak Hitam">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Togol Black Boxing">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-<!ENTITY debuggerUI.sources.prettyPrint "Mencantikkan Sumber">
+<!ENTITY debuggerUI.sources.prettyPrint "Prettify Source">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "Auto Mencantikkan Meminikan Sumber">
+<!ENTITY debuggerUI.autoPrettyPrint     "Auto Prettify Minified Sources">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -111,7 +111,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "Tapis Skrip">
+<!ENTITY debuggerUI.searchFile           "Filter Scripts">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">

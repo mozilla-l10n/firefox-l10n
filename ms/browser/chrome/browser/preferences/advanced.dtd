@@ -38,12 +38,12 @@
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
 <!ENTITY enableTelemetryData.label       "Kongsi data tambahan (i.e., Telemetri)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Pelajari Lagi">
+<!ENTITY telemetryLearnMore.label        "Ketahui Selanjutnya">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY enableCrashReporter.label       "Dayakan Pelapor Kerosakan">
 <!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Pelajari Lagi">
+<!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
 
 <!ENTITY networkTab.label                "Rangkaian">
 
