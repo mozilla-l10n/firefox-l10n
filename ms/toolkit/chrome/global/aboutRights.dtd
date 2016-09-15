@@ -59,12 +59,12 @@
 <!ENTITY rights3.webservices-c ". Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "PelayaranSelamat: ">
-<!ENTITY rights.safebrowsing-b "Menyahdaya ciri Pelayaran Selamat tidak digalakkan kerana boleh menyebabkan anda melayari laman yang  tidak selamat.  Jika anda mahu menyahdayakan semua ciri tersebut, ikuti langkah berikut:">
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Menyahdaya ciri Safe Browsing tidak digalakkan kerana boleh menyebabkan anda melayari laman yang  tidak selamat.  Jika anda mahu menyahdayakan semua ciri tersebut, ikuti langkah berikut:">
 <!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
 <!ENTITY rights2.safebrowsing-term3 "Nyahpilih pilihan untuk &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Pelayaran Selamat kini dinyahdayakan">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing kini dinyahdayakan">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "tentang:konfig">
 <!ENTITY rights.locationawarebrowsing-term2 "Taip geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Klik-dua kali pada keutamaan geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Pelayan Location-Aware kini dinyahdayakan">
+<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing kini dinyahdayakan">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Previu perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.">
@@ -82,7 +82,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Sebarang syarat-syarat perkhidmatan yang diguna pakai bagi produk ini mestilah disenaraikan di sini.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; dan penyumbang-penyumbang, pemberi-pemberi lesen dan rakan-rakan bekerja untuk menyediakan perkhidmatan-perkhidmatan yang paling tepat dan up-to-tarikh. Walau bagaimanapun, kami tidak dapat menjamin bahawa maklumat ini adalah komprehensif dan bebas dari kesalahan. Sebagai contoh, Safe Browsing Service tidak boleh mengenal pasti beberapa laman web yang berisiko dan boleh mengenal pasti beberapa laman web yang selamat semasa ralat dan Location Aware Service mengenal pasti semua lokasi yang dikembalikan oleh pembekal perkhidmatan kami hanyalah anggaran sahaja dan kami atau pembekal perkhidmatan kami tidak menjamin ketepatan lokasi yang disediakan.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; serta semua penyumbang, pemberi lesen dan rakan kongsi berusaha untuk menyediakan perkhidmatan yang paling tepat dan terkini.  Walau bagaimanapun, kami tidak dapat menjamin bahawa maklumat ini komprehensif dan bebas daripada ralat. Sebagai contoh, Safe Browsing Service mungkin tidak dapat mengenal pasti beberapa laman berisiko dan mungkin mengenal pasti beberapa laman selamat semasa ralat dan Location Aware Service mengenal pasti semua lokasi yang dikembalikan oleh pembekal perkhidmatan kami hanyalah anggaran sahaja dan kami atau pembekal perkhidmatan kami tidak menjamin ketepatan lokasi yang disediakan.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; mungkin tidak meneruskan atau menukar Perkhidmatan tersebut bergantung kepada budi-bicaranya.">
 <!ENTITY rights2.webservices-term3 "Anda dialu-alukan menggunakan Perkhidmatan ini berserta versi iringan &brandShortName;, dan &vendorShortName; memberikan anda hak berbuat sedemikian.  &vendorShortName; dan pemegang lesennya mempunyai semua hak terhadap Perkhidmatan tersebut.  Terma ini tidak bertujuan untuk menghadkan sebarang hak yang diberikan di bawah lesen sumber terbuka &brandShortName; dan versi kod sumber yang ada kaitan dengan &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Perkhidmatan-perkhidmatan yang disediakan &quot;as-is&quot;. &vendorShortName;, para penyumbang, pemberi-pemberi lesennya, dan pengedar-pengedar, menafikan semua jaminan, sama ada yang dinyatakan atau yang tersirat, termasuk tanpa batasan, jaminan-jaminan bahawa perkhidmatan-perkhidmatan yang boleh diperdagangkan dan sesuai untuk tujuan-tujuan anda yang tertentu. Anda menanggung risiko secara menyeluruh untuk memilih perkhidmatan-perkhidmatan untuk apa jua tujuan anda dan kepada kualiti dan prestasi perkhidmatan-perkhidmatan. Sesetengah bidang kuasa tidak membenarkan pengecualian atau pembatasan jaminan-jaminan yang tersirat, jadi penafian ini tidak mungkin dikenakan kepada anda.">

@@ -172,7 +172,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 
 <!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
-<!ENTITY errorReporting.learnMore "Ketahui lanjut…">
+<!ENTITY errorReporting.learnMore "Ketahui selanjutnya…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memaklumkan masalah ini.</li></ul></p>">

@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Bar Alatan Navigasi">
+<!ENTITY navbarCmd.label "Bar Alat Navigasi">
 <!ENTITY personalbarCmd.label "Bar alat Tanda buku">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Item Bar alat Tanda buku">
@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Pengurangan">
 <!ENTITY fullScreenRestore.tooltip "Baik pulih">
 <!ENTITY fullScreenClose.tooltip "Tutup">
-<!ENTITY fullScreenAutohide.label "Sorok Bar Alatan">
+<!ENTITY fullScreenAutohide.label "Sorok Bar Alat">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Keluar Mod Skrin Penuh">
 <!ENTITY fullScreenExit.accesskey "F">
@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Lihat"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "Bar Alatan"> 
+<!ENTITY viewToolbarsMenu.label       "Bar alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Bar Sebelah">
 <!ENTITY viewSidebarMenu.accesskey "e">
@@ -341,7 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
-<!ENTITY appMenuCustomize.tooltip "Menyesuai Menu dan Bar Alatan">
+<!ENTITY appMenuCustomize.tooltip "Menyesuai Menu dan Bar Alat">
 <!ENTITY appMenuCustomizeExit.label "Keluar dari Penyesuaian">
 <!ENTITY appMenuCustomizeExit.tooltip "Tamat Penyesuaian">
 <!ENTITY appMenuHistory.label "Sejarah">
@@ -368,11 +368,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Papar Synced Tab Sidebar">
 
-<!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
+<!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Tambah ke Menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Pindah ke Bar Alatan">
+<!ENTITY customizeMenu.moveToToolbar.label "Pindah ke Bar Alat">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Tukar ke tab:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Adakah anda ingin meningkatkan pengalaman carian anda dengan cadangan?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ketahui lebih lanjut…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ketahui selanjutnya…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -775,7 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">
+<!ENTITY socialToolbar.title        "Butang Bar Alat Sosial">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -788,7 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Papar notifikasi desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.learnMore.label "Ketahui Lanjut…">
+<!ENTITY social.learnMore.label "Ketahui selanjutnya…">
 <!ENTITY social.learnMore.accesskey "l">
 
 <!ENTITY social.directory.label "Direktori Pengaktifan">
@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-on">
 <!ENTITY customizeMode.restoreDefaults "Kembalikan Piawai">
-<!ENTITY customizeMode.toolbars "Papar / Sorok Bar alatan">
+<!ENTITY customizeMode.toolbars "Papar / Sorok Bar alat">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Tema Saya">
@@ -897,7 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Lupakan!">
 
 <!ENTITY panicButton.thankyou.msg1                "Sejarah terbaru anda telah dibersihkan.">
-<!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
+<!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">

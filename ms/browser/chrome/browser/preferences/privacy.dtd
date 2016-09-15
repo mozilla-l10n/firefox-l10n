@@ -9,14 +9,14 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Ketahui Lanjut">
+<!ENTITY  trackingProtectionLearnMore.label    "Ketahui selanjutnya">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Penjejakan">
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Ketahui Lanjut">
+<!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
 <!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
 <!ENTITY changeBlockList.accesskey      "C">
 
