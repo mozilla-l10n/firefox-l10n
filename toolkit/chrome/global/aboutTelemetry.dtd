@@ -91,6 +91,9 @@ Ping
   Sesutja niti
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalarji">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrami
 ">
