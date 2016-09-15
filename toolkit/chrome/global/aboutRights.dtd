@@ -60,7 +60,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "PelayaranSelamat: ">
-<!ENTITY rights.safebrowsing-b "Menyahdaya ciri Safe Browsing tidak digalakkan kerana boleh menyebabkan anda melayari laman yang  tidak selamat.  Jika anda mahu menyahdayakan semua ciri tersebut, ikuti langkah berikut:">
+<!ENTITY rights.safebrowsing-b "Menyahdaya ciri Pelayaran Selamat tidak digalakkan kerana boleh menyebabkan anda melayari laman yang  tidak selamat.  Jika anda mahu menyahdayakan semua ciri tersebut, ikuti langkah berikut:">
 <!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
 <!ENTITY rights2.safebrowsing-term3 "Nyahpilih pilihan untuk &quot;&enableSafeBrowsing.label;&quot;">

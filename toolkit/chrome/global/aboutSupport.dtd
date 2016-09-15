@@ -99,7 +99,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "akses">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
-<!ENTITY aboutSupport.a11yForceDisabled "Elak Accessibility">
+<!ENTITY aboutSupport.a11yForceDisabled "Halang Akses">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
@@ -120,5 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Ciri Crash Guard Dinyahdaya">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Ciri Crash Guard Dinyahdayakan">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
