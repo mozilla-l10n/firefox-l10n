@@ -1,46 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "ຕົວຈັດການກັບ Add-ons">
 
-
+<!ENTITY search.placeholder                   "ຄົ້ນຫາທຸກ Add-ons">
+<!ENTITY search.buttonlabel                   "ຄົ້ນຫາ">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY loading.label                        "ກຳລັງໂຫລດ…">
+<!ENTITY listEmpty.installed.label            "ທ່ານບໍ່ໄດ້ຕິດຕັ້ງ Add-ons ປະເພດນີ້ໄວ້">
+<!ENTITY listEmpty.availableUpdates.label     "ບໍ່ພົບການອັບເດດ">
 
 <!ENTITY cmd.back.tooltip                     "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
 <!ENTITY cmd.forward.tooltip                  "ໄປໜ້າຖັດໄປ">
 
 
-
-
 <!-- global warnings -->
-
-
-
-
-
 
 <!-- categories / views -->
 
-
-
 <!-- addon updates -->
-
-
-
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -48,60 +32,16 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- addon actions -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY cmd.uninstallAddon.label             "ລຶບ">
 <!ENTITY cmd.uninstallAddon.accesskey         "ລ">
 <!ENTITY cmd.showPreferencesWin.label         "ຕັ້ງຄ່າ">
 
 
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 
 <!-- detail view -->
 
@@ -109,43 +49,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ratings -->
+
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ຍົກເລີກ">
+
+
 <!-- list sorting -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
@@ -155,23 +65,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY addon.checkingForUpdates.label       "ກວດສອບການອັບເດດ...">
-
-
-
-
-
 
 
 
@@ -183,18 +77,9 @@
      to cause this tab to appear. -->
 
 
-
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-

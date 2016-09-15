@@ -7,5 +7,9 @@
 <!ENTITY refreshProfile.dialog.description2  "ສິ່ງນີ້ຈະ:">
 <!ENTITY refreshProfile.dialog.items.label1  "ລຶບ add-ons ແລະ ການປັບແຕ່ງຂອງທ່ານອອກໄປ">
 <!ENTITY refreshProfile.dialog.items.label2  "ກູ້ຄືນການຕັ້ງຄ່າບຣາວເຊີຂອງທ່ານກັບໄປສູ່ຄ່າເດີມຂອງມັນ">
+<!ENTITY refreshProfile.dialog.button.label  "ລີເຟລສ໌ &brandShortName;">
 
+<!ENTITY refreshProfile.title                "ປັບແຕ່ງ &brandShortName; ໃຫ້ດີຂື້ນກ່ວາເກົ່າ">
+<!ENTITY refreshProfile.button.label         "ລີເຟລສ໌ &brandShortName;">
 
+<!ENTITY refreshProfile.cleaning.description "ໄກ້ຈະສໍາເລັດແລ້ວ...">
