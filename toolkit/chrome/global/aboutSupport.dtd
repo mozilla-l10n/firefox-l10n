@@ -97,9 +97,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaSkrip">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
 
-<!ENTITY aboutSupport.a11yTitle "akses">
+<!ENTITY aboutSupport.a11yTitle "Kebolehcapaian">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
-<!ENTITY aboutSupport.a11yForceDisabled "Halang Akses">
+<!ENTITY aboutSupport.a11yForceDisabled "Halang Kebolehcapaian">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 

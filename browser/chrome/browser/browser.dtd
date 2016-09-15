@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Lihat notifikasi">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Papar notifikasi">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Lihat permintaan lokasi">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Lihat add-on memasang mesej">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Lihat penyimpanan mesej app-offline">
@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "Penjejakan">
 <!ENTITY trackingContentBlocked.moreinfo "Sebahagian daripada halaman yang menjejaki aktiviti dalam talian anda telah disekat.">
-<!ENTITY trackingContentBlocked.learnMore "Ketahui Lebih Lanjut">
+<!ENTITY trackingContentBlocked.learnMore "Ketahui Selanjutnya">
 <!ENTITY trackingContentBlocked.options "Pilihan">
 <!ENTITY trackingContentBlocked.unblock2.label "Nyahdayakan perlindungan pada laman ini">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
@@ -900,5 +900,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
