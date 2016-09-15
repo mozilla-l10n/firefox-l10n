@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "memiliki kendali atas penunjuk Anda. Tekan Esc untuk mengembalikan kendali.">
 <!ENTITY pointerlockWarning.generic.label "Dokumen ini memiliki kendali atas pointer Anda. Tekan Esc untuk mengambil kembali kendali.">
 
 <!ENTITY closeWindow.label "Tutup Jendela">
@@ -552,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Salin Alamat Email">
+<!ENTITY copyEmailCmd.label           "Salin Alamat Surel">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bingkai Ini">
 <!ENTITY thisFrameMenu.accesskey          "B">
@@ -572,16 +573,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Keraskan">
 <!ENTITY mediaUnmute.accesskey       "K">
+<!ENTITY mediaPlaybackRate2.label     "Kecepatan Pemutaran">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "Lambat (0.5 ×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Cepat (1.25 ×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Lebih Cepat (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Sangat Cepat (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Pengulangan">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -690,6 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
+<!ENTITY identity.connectionVerified2 "Anda tersambung secara aman ke situs ini, dimiliki oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 
@@ -890,7 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg1                "Riwayat terakhir Anda telah dibersihkan.">
 <!ENTITY panicButton.thankyou.msg2                "Hati-hati dalam Menjelajah!">
-<!ENTITY panicButton.thankyou.buttonlabel         "Terima Kasih!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Trims!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Pelajari lebih lanjut tentang DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

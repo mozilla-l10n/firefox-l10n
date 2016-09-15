@@ -120,3 +120,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengorek informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Anda ingin setelan baku dikembalikan?">
+<!ENTITY prefReset.label "Kembalikan setelan baku">
