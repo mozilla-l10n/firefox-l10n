@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -23,10 +23,9 @@
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Akses ke berkas ditolak">
 
 <!ENTITY generic.title "Ups.">
-
 
 <!ENTITY malformedURI.title "Alamat tidak valid">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -36,7 +35,6 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumen Kedaluwarsa">
-
 
 <!ENTITY netOffline.title "Mode luring">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -89,11 +87,11 @@
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
