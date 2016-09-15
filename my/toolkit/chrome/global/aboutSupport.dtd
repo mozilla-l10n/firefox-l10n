@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
 
 <!ENTITY aboutSupport.crashes.title "ပျက်ဆီးချက်တင်ပြသူ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ထုတ်ပြန်ချက် ID">
-<!ENTITY aboutSupport.crashes.sendDate "Submitted">
+<!ENTITY aboutSupport.crashes.sendDate "တင်သွင်းခဲ့သောအချိန်">
 <!ENTITY aboutSupport.crashes.allReports "အပျက်အစီး အစီရင်ခံစာများ">
 <!ENTITY aboutSupport.crashes.noConfig "ယခု အက်ပလီကေးရှင်းသည် အပျက်အစီး အစီရင်ခံစာများအား​ ပြရန် စီမံမထားပါ">
 
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "အမည်">
 <!ENTITY aboutSupport.appBasicsVersion "မူအဆင့်">
 <!ENTITY aboutSupport.appBasicsBuildID "တည်ဆောင်မှု အိုင်ဒီ">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "အဆင့်မြှင့်လိုင်း">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်း">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်းကို ပြသပါ">
@@ -53,8 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
 <!ENTITY aboutSupport.appBasicsPerformance "လုပ်ဆောင်မှု">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "စာရင်းပြုထားသည့် Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "ပရိုဖိုင်များ">
@@ -75,8 +75,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "အမည်">
 <!ENTITY aboutSupport.modifiedPrefsValue "တန်ဖိုး">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 

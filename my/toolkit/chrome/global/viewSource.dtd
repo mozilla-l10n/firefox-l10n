@@ -12,14 +12,14 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "အရင်းအမြစ်နေရာ -">
 
-<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.label "ဖိုင်">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Save Page As...">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "uစာမျက်နှာတပ်ဆင်ခြင်း">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "အကြိုပုံနှိပ်မြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "ပရင့်ထုတ်ပါ...">
 <!ENTITY printCmd.accesskey "ပ">

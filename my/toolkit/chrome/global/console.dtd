@@ -10,13 +10,13 @@
 
 <!ENTITY all.label          "Aအားလုံး">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Errors">
+<!ENTITY errors.label       "အမှားများ">
 <!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Warnings">
+<!ENTITY warnings.label     "သတိပေးချက်များ">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label     "Messages">
+<!ENTITY messages.label     "စာတိုများ">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Clear">
+<!ENTITY clear.label        "ရှင်းလင်းပါ">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Code:">
 <!ENTITY codeEval.accesskey "o">

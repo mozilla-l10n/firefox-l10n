@@ -18,7 +18,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "Reload">
+<!ENTITY  reload.label                  "ပြန်ဖွင့်ပါ">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">

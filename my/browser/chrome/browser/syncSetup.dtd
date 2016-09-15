@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; တပ်ဆင်ခြင်း">
-<!-- First page of the wizard -->
 
+<!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "ကြိုဆိုပါတယ်။ &syncBrand.fullName.label; ကို တစ်ခါမှ အသုံးမပြုဖူးဘူးဆိုရင် ပထမဆုံး အကောင့်အသစ်တစ်ခု တည်ဆောက်ဖို့ လိုအပ်ပါတယ်။">
 <!ENTITY button.createNewAccount.label "အကောင့်အသစ်ပြုလုပ်မည်။">
@@ -13,10 +13,10 @@
 <!ENTITY setup.choicePage.title.label     "သင်&syncBrand.fullName.label;အား ယခင်က သုံးဘူးပါသလား?">
 <!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; အားယခင်ကမသုံးဘူးပါ။">
 <!ENTITY setup.choicePage.existing2.label "အခြားစက်တွင် &syncBrand.shortName.label; အားသုံးပြီးဖြစ်သည်။">
-<!-- New Account AND Existing Account -->
 
+<!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ဆာဗာ">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; ဆာဗာ">
 <!ENTITY serverType.custom2.label   "ကိုယ်တိုင်ဆာဗာရွေးချယ်မည်">
 <!ENTITY signIn.account2.label      "အကောင့်">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -24,8 +24,8 @@
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "ရီကာဗာကီး">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
-<!-- New Account Page 1: Basic Account Info -->
 
+<!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "အကောင့်အသေးစိတ်">
 <!ENTITY setup.emailAddress.label     "အီးမေးလ် လိပ်စာ">
 <!ENTITY setup.emailAddress.accesskey "E">
@@ -33,9 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "ပတ်စ်၀တ်အားအတည်ပြုပါ">
 <!ENTITY setup.confirmPassword.accesskey "m">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "ကျွန်တော်/ကျွန်မတို့သည်အောက်ပါတို့အားသဘောတူညီပါသည်">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ">
@@ -43,8 +43,8 @@
 <!ENTITY setup.ppLink.label         "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
 <!ENTITY setup.tosAgree3.label      "လက်ခံမည်">
 <!ENTITY setup.tosAgree2.accesskey  "A">
-<!-- My Recovery Key dialog -->
 
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;သည်သင်၏လုံခြုံရေးကိုဂရုစိုက်ပါသည်။">
 <!ENTITY setup.newRecoveryKeyPage.description.label "သင်​၏လုံး၀လုံခြုံရေးအတွက်သင်တင်သမျှအချက်အလက်တိုင်းအား အဲန်ဂရစ်ပြုလုပ်ထားမည်။ရီကာဗာကီးအား ဒီဂရစ်ပြုလုပ်ရန်ဆောင်ထားပါ">
 <!ENTITY recoveryKeyEntry.label        "သင်ရဲ့ရီကာဗာကီး">
@@ -56,8 +56,8 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "သိမ်းရန်...">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "ပစ္စည်းတစ်ခုအားတွဲမည်။">
 <!ENTITY addDevice.showMeHow.label          "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
 <!ENTITY addDevice.dontHaveDevice.label     "ကျွန်တော့်တွင်သင်နှင့်သုံးရန်ကိရိယာမရှိပါ။">
@@ -69,15 +69,15 @@
 <!ENTITY addDevice.dialog.successful.label  "ကိရိယာအားအောင်မြင်စွာတပ်ဆင်ပြီးဖြစ်သည်။ထပ်တူပြုခြင်းသည်မိနစ်အနည်းငယ်ကြာနိုင်ပြီးနောက်ခံပိုင်းတွင်အလုပ်လုပ်ပြီးဆုံးသွားနိုင်သည်။">
 <!ENTITY addDevice.dialog.recoveryKey.label     "သင်၏ကိရိယာအားအတည်ပြုရန်အတွက် ရီကာဗာကီးအားထည့်ပေးပါ။ကျေးဇူးပြုပြီးကီးအားပရင့်သို့သိမ့်ထားပါ။">
 <!ENTITY addDevice.dialog.connected.label   "ကိရိယာအားတပ်ဆင်ပြီး">
-<!-- Existing Account Page 2: Manual Login -->
 
+<!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "၀င်ပါ">
 <!ENTITY existingRecoveryKey.description "&syncBrand.shortName.label; ကိုသွားပြီ Recovery Key အားပြန်လည်ရယူနိုင်ပါသည် ။ Options အားသင်၏ အ​ခြား Device တွင်သွားကာ  &quot;အကောင့်&quot; အောက်ရှိ &quot;ကျွနု်ပ်၏ Recovery Key&quot; အားရွေးကာ ရယူနိုင်ပါသည်။ ">
 <!ENTITY verifying.label              "စစ်ဆေးအတည်ပြုနေသည်။">
 <!ENTITY resetPassword.label          "ပတ်စ်၀တ်အားပြန်လည်ရယူမည်။">
 <!ENTITY resetSyncKey.label           "အခြားထပ်တူပြုကီးသုံးကိရိယာလဲပျောက်သွားပြီးဖြစ်သည်။">
-<!-- Sync Options -->
 
+<!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "ထပ်တူချိတ်ဆက်ဆိုင်ရာအပြင်အဆင်">
 <!ENTITY syncDeviceName.label       "စက်ပစ္စည်းအမည်၊">
 <!ENTITY syncDeviceName.accesskey   "c">
@@ -100,15 +100,15 @@
 <!ENTITY choice2.merge.recommended.label "အကြုံပြုထားသည့်အရာများ">
 <!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
 <!ENTITY choice2a.server.main.label      "အခြားကိရိယာများ ရှိ အချက်အလက်များအား ယခု ကိရိယာထဲရှိ အချက်အလက်များဖြင့် ဖယ်ရှားမည်။">
-<!-- Confirm Merge Options -->
 
+<!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "အတည်ပြုပါ">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; သည် ယခုကိရိယာ၏ ဘယောက်ဆာ အချက်အလက်များအား ချိတ်ဆက်အကောင့်သို့ သယ်ယူသွားမည်။">
 <!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; သည် &syncBrand.fullName.label; မှအချက်အလက်အား ဤကိရိယာသို့ကူးယူမည်။">
 <!ENTITY confirm.server2.label         "သတိပေးချက်၊အောက်ပါကိရိယာများသည်သင်၏မူလအချက်အလက်များအထက်တွင်မှတ်သားသွားမည်ဖြစ်သည်။">
-<!-- New & Existing Account: Setup Complete -->
 
+<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "တပ်ဆင်ခြင်းပြီးဆုံး">
 <!ENTITY changeOptions.label "သင်သည်ယခုအပြင်အဆင်များကို ထပ်တူပြုအပြင်အဆင်များတွင်၀င်ရောက်ပြင်ဆင်နိုင်သည်။">
 <!ENTITY continueUsing.label "ယခုသင်&brandShortName;. အားဆက်လက်သုံးစွဲနိုင်ပါပြီ။">
