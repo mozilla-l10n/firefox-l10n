@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
-<!ENTITY inspectorRemoveAttribute.label        "Buang atribut">
+<!ENTITY inspectorRemoveAttribute.label        "Alih keluar atribut">
 <!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
 <!ENTITY inspector.selectButton.tooltip     "Pilih elemen dengan tetikus">

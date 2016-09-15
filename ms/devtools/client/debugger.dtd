@@ -193,7 +193,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch           "Singkir semua ungkapan pemerhatian">
+<!ENTITY debuggerUI.removeAllWatch           "Alih keluar All Watch Expressions">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 

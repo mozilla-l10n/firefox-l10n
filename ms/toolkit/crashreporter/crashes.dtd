@@ -7,5 +7,5 @@
 <!ENTITY date.heading               "Tarikh Dihantar">
 <!ENTITY noReports.label            "Tiada laporan ranap yang telah dihantar.">
 <!ENTITY noConfig.label             "Aplikasi ini belum ditetapkan untuk memaparkan laporan ranap. Keutamaan <code>breakpad.reportURL</code> mesti ditetapkan.">
-<!ENTITY clearAllReports.label      "Buang Semua Laporan">
+<!ENTITY clearAllReports.label      "Alih keluar Semua Laporan">
 
