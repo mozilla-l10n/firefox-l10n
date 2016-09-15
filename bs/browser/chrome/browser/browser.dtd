@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Otkači tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Pošalji tab na uređaj">
+<!ENTITY  sendTabToDevice.accesskey          "u">
+<!ENTITY  sendPageToDevice.label             "Pošalji stranicu na uređaj">
+<!ENTITY  sendPageToDevice.accesskey         "u">
+<!ENTITY  sendLinkToDevice.label             "Pošalji link na uređaj">
+<!ENTITY  sendLinkToDevice.accesskey         "u">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Zabilježi sve tabove…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži sve tabove">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Prijava u &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.">
+<!ENTITY pointerlockWarning.generic.label "Ovaj dokument ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.">
 
 <!ENTITY closeWindow.label "Zatvori prozor">
 <!ENTITY closeWindow.accesskey "Z">
@@ -178,18 +178,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "z">
 <!ENTITY shareVideo.label "Podijeli ovaj video">
 <!ENTITY shareVideo.accesskey "j">
-
-
+<!ENTITY feedsMenu2.label "Pretplati me na ovu stranicu">
+<!ENTITY subscribeToPageMenupopup.label "Pretplati me na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati me na ovu stranicu…">
 <!ENTITY addCurPagesCmd.label "Zabilježi sve tabove…">
 <!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
-
-
+<!ENTITY recentBookmarks.label "Nedavno zabilježeno">
+<!ENTITY otherBookmarksCmd.label "Druge zabilješke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Prikaži nedavno zabilježeno">
+<!ENTITY showRecentlyBookmarked.accesskey "d">
+<!ENTITY hideRecentlyBookmarked.label     "Sakrij nedavno zabilježeno">
+<!ENTITY hideRecentlyBookmarked.accesskey "a">
 
 <!ENTITY backCmd.label                "Nazad">
 <!ENTITY backButton.tooltip           "Idi nazad jednu stranicu">
@@ -243,7 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
-
+<!ENTITY bookmarksMenuButton.other.label "Druge zabilješke">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži traku sa zabilješkama">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku sa zabilješkama">
 
@@ -299,9 +299,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Isjeci">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "I"> 
-
+<!ENTITY copyCmd.label            "Kopiraj">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Zalijepi">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "p"> 
@@ -353,16 +353,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Sinhronizovani tabovi">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nema otvorenih tabova">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Nema sinhroniziranih tabova… još!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se na Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinhroniziranih tabova">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj u alatnu traku">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -569,22 +572,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Sa zvukom">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Brzina reprodukcije">
+<!ENTITY mediaPlaybackRate2.accesskey "i">
+<!ENTITY mediaPlaybackRate050x2.label "Spora (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normalna">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Brza (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "B">
+<!ENTITY mediaPlaybackRate150x2.label "Brža (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "r">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Suludo brza (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "u">
+<!ENTITY mediaLoop.label             "Ponavljaj">
+<!ENTITY mediaLoop.accesskey         "P">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -688,12 +692,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!ENTITY editBookmark.done.label                     "Gotovo">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sigurna konekcija">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
 <!ENTITY identity.connectionFile "Ova stranica je pohranjena na vaš računar.">
-
+<!ENTITY identity.connectionVerified2 "Povezani ste na siguran način na stranicu, u vlasništvu:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
 <!ENTITY identity.insecureLoginForms2 "Prijave unešene na ovoj stranici mogle bi biti kompromitovane.">
 <!-- Strings for connection state warnings. -->
@@ -721,7 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Saznajte više">
 
-
+<!ENTITY identity.removeCertException.label "Ukloni izuzetak">
+<!ENTITY identity.removeCertException.accesskey "U">
 
 <!ENTITY identity.moreInfoLinkText2 "Više informacija">
 
@@ -735,26 +740,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Sinhronizovani tabovi">
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Sinhronizovani tabovi">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Prijavite se na Firefox na vašim ostalim uređajima da biste vidjeli njihove tabove ovdje.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nema sinhroniziranih tabova… još!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nema otvorenih tabova">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Otvori &syncBrand.shortName.label; postavke">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Otvori">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Otvori u novom tabu">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "O">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Otvori link u novom prozoru">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "p">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otvori link u novom privatnom prozoru">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "r">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Zabilježi ovaj tab…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "Z">
+<!ENTITY syncedTabs.context.copy.label                       "Kopiraj">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
