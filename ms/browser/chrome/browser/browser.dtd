@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah menghalang sebahagian halaman ini yang tidak selamat">
 <!ENTITY identity.passiveLoaded "Sebahagian daripada halaman ini tidak selamat (seperti imej).">
-<!ENTITY identity.activeLoaded "Anda telah melumpuhkan perlindungan untuk halaman ini.">
+<!ENTITY identity.activeLoaded "Anda telah menyahdayakan perlindungan untuk halaman ini.">
 <!ENTITY identity.weakEncryption "Halaman ini menggunakan enkripsi yang lemah.">
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -721,7 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Dayakan perlindungan">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Lumpuhkan perlindungan untuk sekarang">
+<!ENTITY identity.disableMixedContentBlocking.label "Nyahdayakan perlindungan buat masa ni">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ketahui Lebih Lanjut">
 
@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Dayakan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dilumpuhkan">
+<!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dinyahdayakan">
 
 <!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk papar semula.">
 
