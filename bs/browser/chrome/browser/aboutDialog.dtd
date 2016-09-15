@@ -65,7 +65,7 @@
 <!ENTITY update.adminDisabled       "Update-i koje je onemogućio vaš sistemski administrator">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; biva nadograđen od strane druge instance">
-
+<!ENTITY update.restarting          "Restartujem…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
