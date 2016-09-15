@@ -12,13 +12,13 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "ດາວໂຫລດຕົວອັບເດດ">
 <!ENTITY aboutPage.checkForUpdates.downloading  "ກຳຫລັງດາວໂຫລດຕົວອັບເດດ…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "ຕິດຕັ້ງການອັບເດດ">
-<!ENTITY aboutPage.faq.label                    "ຄຳຖາມທີພົບເປັນປະຈຳ">
+<!ENTITY aboutPage.faq.label                    "ຄຳຖາມທີ່ພົບເປັນປະຈຳ">
 <!ENTITY aboutPage.support.label                "ສະຫນັບສະຫນູນ">
 <!ENTITY aboutPage.privacyPolicy.label          "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY aboutPage.rights.label                 "ຮູ້ສິດທິຂອງທ່ານ">
 <!ENTITY aboutPage.relNotes.label               "ຫມາຍເຫດການອອກເວີຊັນໃຫມ່">
-<!ENTITY aboutPage.credits.label                "ເຄລດິດ">
+<!ENTITY aboutPage.credits.label                "ລາຍຊື່ຜູ້ກ່ຽວຂ້ອງ">
 <!ENTITY aboutPage.license.label                "ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "ໄຟຟັອກ ແລະ ຮູບສັນຍາລັກຂອງໄຟຟັອກແມ່ນເຄື່ອງຫມາຍການຄ້າຂອງມູນນິທິໂມຊິລລາ.">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox ແລະ ໂລໂກ້ຂອງ Firefox ແມ່ນເຄື່ອງຫມາຍທາງການຄ້າຂອງມູນນິທິ Mozilla.">

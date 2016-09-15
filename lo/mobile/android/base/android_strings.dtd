@@ -795,11 +795,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "ໄຟຟັອກ: ກ່ຽວກັບຕົວທ່ອງເວັບຂອງທ່ານ">
+<!ENTITY bookmarks_about_browser "Firefox: ກ່ຽວກັບບຣາວເຊີຂອງທ່ານ">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: ປັບແຕ່ງດ້ວຍ add-ons">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "ໄຟຟັອກ: ການສະໜັບສະໜູນ">
+<!ENTITY bookmarks_support "Firefox: ການສະໜັບສະໜູນ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "ການຊ່ວຍເຫຼືອ ແລະ ສະໜັບສະໜູນຂອງ Firefox ສຳລັບໂປຟາຍທີມີຂໍ້ຈຳກັດຢູ່ໃນ Android tablets">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
