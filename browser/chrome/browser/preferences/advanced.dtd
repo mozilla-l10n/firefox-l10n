@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Pilihan Data">
 
-<!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar anda dan berkongsi data dengan &&vendorShortName; berkaitan perstasi pelayar anda ini">
+<!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar dan berkongsi data dengan &vendorShortName; mengenai perstasi pelayar anda ini">
 <!ENTITY enableHealthReport.label        "Dayakan &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Ketahui Selanjutnya">
@@ -41,11 +41,11 @@
 <!ENTITY telemetryLearnMore.label        "Ketahui Selanjutnya">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
-<!ENTITY enableCrashReporter.label       "Dayakan Pelapor Kerosakan">
+<!ENTITY enableCrashReporter.label       "Dayakan Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
 
-<!ENTITY networkTab.label                "Network">
+<!ENTITY networkTab.label                "Rangkaian">
 
 <!ENTITY connection.label                "Sambungan">
 
