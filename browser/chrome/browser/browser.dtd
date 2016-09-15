@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Изпращане на раздела">
+<!ENTITY mirrorTabCmd.label "Излъчване на раздела">
 <!ENTITY mirrorTabCmd.accesskey "И">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
