@@ -180,12 +180,12 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Tidak boleh bersambung dengan selamat">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Maklumat lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Info lanjutan: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Maklumat lanjut: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoUsed.longDesc2 "Info lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Lanjutan">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keselamatan yang ketinggalan zaman dan terdedah kepada serangan. Penyerang dengan mudah boleh mendedahkan maklumat yang anda fikir selamat.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak selamat) Cuba memuatkan <span class='hostname'></span> menggunakan keselamatan ketinggalan zaman">
