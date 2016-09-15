@@ -45,7 +45,7 @@
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
 
-<!ENTITY networkTab.label                "Rangkaian">
+<!ENTITY networkTab.label                "Network">
 
 <!ENTITY connection.label                "Sambungan">
 
@@ -53,7 +53,7 @@
 <!ENTITY connectionSettings.label        "Ubah suai…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Cached Kandungan Web">
+<!ENTITY httpCache.label                 "Cache Kandungan Web">
 
 <!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
 
