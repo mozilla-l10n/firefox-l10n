@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Prihvati kolačiće trećeg lica:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Uvijek">
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
@@ -104,6 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-
+<!ENTITY  browserContainersLearnMore.label      "Saznajte više">
 
 
