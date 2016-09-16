@@ -18,8 +18,8 @@
 <!ENTITY messages.accesskey "پ">
 <!ENTITY clear.label        "صاف کریں">
 <!ENTITY clear.accesskey    "ص">
-
-
+<!ENTITY codeEval.label     "ضابطہ:">
+<!ENTITY codeEval.accesskey "ض">
 <!ENTITY evaluate.label     "جائزہ لیں">
 <!ENTITY evaluate.accesskey "ج">
 <!ENTITY filter2.label      "فلٹر:">

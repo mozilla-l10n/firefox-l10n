@@ -30,7 +30,9 @@
 
 <!ENTITY aboutTelemetry.choosePing "پنگ کا انتخاب کریں">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; جدید تر پنگ">
 
+<!ENTITY aboutTelemetry.showOlderPing "پرانی پنگ  &gt;&gt;">
 
 <!ENTITY aboutTelemetry.rawPingData "خام پنگ ڈیٹا…">
 

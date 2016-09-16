@@ -78,7 +78,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js ترجیحات">
 <!ENTITY aboutSupport.userJSDescription "آپ کے پروفائل میں ایک<a id='prefs-user-js-link'> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو &brandShortName; نے نہیں بنائیں تھیں۔">
 
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "اہم ترمیمی ترجیحات">
+<!ENTITY aboutSupport.lockedPrefsName "نام">
 <!ENTITY aboutSupport.lockedPrefsValue "قدر">
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">

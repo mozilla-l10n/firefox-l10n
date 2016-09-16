@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "کچھ توسیعات کی تصدیق نہیں ہو سکی">
 <!ENTITY showAllExtensions.button.label       "تمام توسیعات دکھائیں">
-
-
+<!ENTITY debugAddons.label                    "ایڈز آن ازالہ کرے">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
