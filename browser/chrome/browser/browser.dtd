@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Логіни введені на цій сторінці можуть бути скомпрометовані.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; заблокував незахищечні частини цієї сторінки.">
+<!ENTITY identity.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
 <!ENTITY identity.passiveLoaded "Частини цієї сторінки (такі як зображення) незахищені.">
 <!ENTITY identity.activeLoaded "Ви вимкнули захист на цій сторінці.">
 <!ENTITY identity.weakEncryption "Ця сторінка використовує слабке шифрування.">
@@ -712,7 +712,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Інформація входу, яку ви вводите на цій сторінці не захищена і може бути скомпрометована.">
 <!ENTITY identity.description.weakCipher "Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.">
 <!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; заблокував незахищечні частини цієї сторінки.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
 <!ENTITY identity.description.passiveLoaded "Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.">
 <!ENTITY identity.description.passiveLoaded2 "Цей веб-сайт має вміст, який не є безпечним (наприклад, зображення).">
 <!ENTITY identity.description.passiveLoaded3 "Хоча &brandShortName; заблокував деякий вміст, все ж на сторінці ще залишається вміст, який не є безпечним (наприклад, зображення).">
