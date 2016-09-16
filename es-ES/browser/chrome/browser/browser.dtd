@@ -152,7 +152,6 @@
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Abrir panel de peticiones de ubicación">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Abrir el panel de mensajes de instalación de complementos">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Abrir panel de mensajes de almacenamiento sin conexión">
-<!ENTITY urlbar.loginFillNotificationAnchor.tooltip "Administrar su información de inicio de sesión">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Abrir el panel de mensajes de contraseñas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Cambiar si puede recibir notificaciones del sitio">
