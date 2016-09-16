@@ -182,6 +182,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en quella moda perquai che la pagina cuntegna reglas da segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Errur: Cuntegn donnegià">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Impussibel da visualisar la pagina che ti vuls chargiar perquai ch'ina errur è sa mussada en la transmissiun da datas.</p><ul><li>Contactescha per plaschair ils possessurs da la website per als infurmar davart quest problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina">
@@ -215,3 +216,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Tia connexiun n'è betg segira">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

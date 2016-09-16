@@ -824,5 +824,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Agiuntar a la pagina da partenza">
 
 <!ENTITY helper_first_offline_bookmark_title "Leger offline">
+<!ENTITY helper_first_offline_bookmark_message "Chatta tes elements da la glista da lectura en ils segnapaginas, perfin sche ti es offline.">
+<!ENTITY helper_first_offline_bookmark_button "Siglir als segnapaginas">
 
+<!ENTITY helper_triple_readerview_open_title "Disponibel offline">
+<!ENTITY helper_triple_readerview_open_message "Marcar elements da la glista da lectura per als leger offline.">
+<!ENTITY helper_triple_readerview_open_button "Agiuntar als segnapaginas">
 

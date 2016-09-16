@@ -14,6 +14,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Pagina che engiona!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "La pagina web sin <span id='phishing_sitename'/> è vegnida annunziada sco pagina che engiona e vegn bloccada sin fundament da tias preferenzas da segirezza.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Paginas che engionan vegnan creadas cun l'intent da ta surmanar da far insatge privlus, p.ex. installar software u tradir infurmaziuns persunalas sco pleds-clav, numers da telefon u da cartas da credit.</p><p>Cun endatar infurmaziuns sin questa pagina d'internet ristgas ti enguladitschs d'identitad ed autras furmas d'engion.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportà sco pagina cun software nungiavischada!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
