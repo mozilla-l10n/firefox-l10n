@@ -472,6 +472,7 @@
 <!ENTITY forwardButton.label "Reenviar">
 <!ENTITY fileButton.label "Archivo">
 <!ENTITY archiveButton.label "Archivar">
+<!ENTITY openConversationButton.label "Conversación">
 <!ENTITY nextButton.label "Siguiente">
 <!ENTITY nextButtonToolbarItem.label "Siguiente no leído">
 <!ENTITY nextMsgButton.label "Siguiente">
@@ -512,6 +513,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Reenviar el mensaje seleccionado como un adjunto">
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
+<!ENTITY openConversationButton.tooltip "Mostrar conversación de este mensaje">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
 <!ENTITY nextMsgButton.tooltip "Moverse al mensaje siguiente">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">

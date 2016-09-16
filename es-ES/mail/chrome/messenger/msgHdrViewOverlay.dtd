@@ -22,6 +22,8 @@
 <!ENTITY originalWebsite4.label "Sitio web">
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar este mensaje">
+<!ENTITY hdrOpenConversationButton1.label "Conversación">
+<!ENTITY hdrOpenConversationButton1.tooltip "Mostrar conversación de este mensaje">
 <!ENTITY hdrSmartReplyButton1.label "Responder a interesados">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Contestar al remitente de este mensaje">
