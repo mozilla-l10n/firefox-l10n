@@ -5,7 +5,6 @@
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " – ">
 
-<!-- Tab context menu -->
 <!ENTITY closeTabCmd2.label "Zamknij kartę">
 <!ENTITY closeTabCmd2.accesskey "Z">
 <!ENTITY closeOtherTabsCmd2.label "Zamknij inne karty">
@@ -16,7 +15,6 @@
 <!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
 <!ENTITY moveToNewWindow.accesskey "n">
 
-<!-- File Menu -->
 <!ENTITY newNewMsgCmd.label "Wiadomość">
 <!ENTITY newNewMsgCmd.accesskey "W">
 <!ENTITY newFolderCmd.label "Folder…">
@@ -88,7 +86,6 @@
 <!ENTITY printSetupCmd.label "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey "n">
 
-<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Usuń wiadomość">
 <!ENTITY deleteMsgCmd.accesskey "U">
 <!ENTITY undeleteMsgCmd.label "Przywróć wiadomość">
@@ -132,7 +129,6 @@
 <!ENTITY redoDefaultCmd.label "Przywróć">
 <!ENTITY redoDefaultCmd.accesskey "P">
 
-<!-- View Menu -->
 <!ENTITY menubarCmd.label "Pasek menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Pasek narzędzi poczty">
@@ -172,7 +168,6 @@
 <!ENTITY folderPaneBar.label "Pasek panelu folderów">
 <!ENTITY folderModeSelector.label "Widoki folderów">
 
-<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortowanie według">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Daty">
@@ -271,7 +266,6 @@
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
-<!-- Search Menu -->
 <!ENTITY findMenu.label "Znajdź">
 <!ENTITY findMenu.accesskey "Z">
 <!ENTITY findCmd.label "Znajdź w tej wiadomości…">
@@ -289,7 +283,6 @@
 <!ENTITY searchAddressesCmd.label "Wyszukaj wizytówki…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 
-<!-- Go Menu -->
 <!ENTITY goMenu.label "Przejdź">
 <!ENTITY goMenu.accesskey "d">
 <!ENTITY nextMenu.label "Następna">
@@ -331,7 +324,6 @@
 <!ENTITY startPageCmd.label "Strona startowa">
 <!ENTITY startPageCmd.accesskey "S">
 
-<!-- Message Menu -->
 <!ENTITY msgMenu.label "Wiadomość">
 <!ENTITY msgMenu.accesskey "m">
 <!ENTITY newMsgCmd.label "Nowa wiadomość">
@@ -446,10 +438,8 @@
 <!ENTITY openFeedWebPageInMP.label "Wyświetlaj strony i podsumowania w panelu wiadomości">
 <!ENTITY openFeedWebPageInMP.accesskey "W">
 
-<!-- Windows Menu -->
 <!ENTITY windowMenu.label "Okno">
 
-<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Narzędzia">
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY addons.label "Dodatki">
@@ -492,7 +482,6 @@
 <!ENTITY filtersApplyToMessage.label "Zastosuj filtry do wiadomości">
 <!ENTITY filtersApplyToMessage.accesskey "w">
 
-<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Pobierz">
 <!ENTITY newMsgButton.label "Napisz">
 <!ENTITY replyButton.label "Odpowiedz">
@@ -501,6 +490,7 @@
 <!ENTITY forwardButton.label "Przekaż">
 <!ENTITY fileButton.label "Przenieś">
 <!ENTITY archiveButton.label "Archiwizuj">
+<!ENTITY openConversationButton.label "Wątek">
 <!ENTITY nextButton.label "Następna">
 <!ENTITY nextButtonToolbarItem.label "Następna nieprzeczytana">
 <!ENTITY nextMsgButton.label "Następna">
@@ -529,7 +519,6 @@
 <!ENTITY compactButton.label "Porządkuj">
 <!ENTITY appmenuButton.label "Menu">
 
-<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie wiadomości">
 <!ENTITY getMsgButton.tooltip "Pobierz nowe wiadomości">
 <!ENTITY getAllNewMsgCmd.label "Pobierz wszystkie nowe wiadomości">
@@ -543,6 +532,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Przekaż zaznaczoną wiadomość jako załącznik">
 <!ENTITY fileButton.tooltip "Przenieś zaznaczoną wiadomość">
 <!ENTITY archiveButton.tooltip "Archiwizuj zaznaczone wiadomości">
+<!ENTITY openConversationButton.tooltip "Wyświetl wątek zaznaczonej wiadomości">
 <!ENTITY nextButton.tooltip "Przejdź do następnej nieprzeczytanej wiadomości">
 <!ENTITY nextMsgButton.tooltip "Przejdź do następnej wiadomości">
 <!ENTITY previousButton.tooltip "Przejdź do poprzedniej nieprzeczytanej wiadomości">
@@ -562,11 +552,9 @@
 <!ENTITY compactButton.tooltip "Porządkuj folder, aby wyczyścić pozostałości po usuniętych wiadomościach">
 <!ENTITY appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">
 
-<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Przekaż bezpośrednio">
 <!ENTITY buttonMenuForwardAsAttachment.label "Przekaż jako załącznik">
 
-<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "W">
 <!ENTITY editRemoteContentSettings.label "Edytuj opcje zdalnej zawartości…">
@@ -574,7 +562,6 @@
 <!ENTITY editRemoteContentSettingsUnix.label "Edytuj preferencje zdalnej zawartości…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
-<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Zignoruj ostrzeżenie dla tej wiadomości">
 <!ENTITY phishingOptionIgnore.accesskey "Z">
 <!ENTITY phishingOptionSettings.label "Edytuj opcje ostrzeżeń o próbach oszustwa…">
@@ -582,7 +569,6 @@
 <!ENTITY phishingOptionSettingsUnix.label "Edytuj preferencje ostrzeżeń o próbach oszustwa…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "E">
 
-<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
 <!ENTITY appmenuNewContactCmd.label "Dodaj kontakt do książki adresowej…">
 <!ENTITY appmenuEditMenu.label "Edycja">
@@ -590,7 +576,6 @@
 <!ENTITY appmenuSelectThread.label "Zaznacz wątek">
 <!ENTITY appmenuSelectFlagged.label "Zaznacz oznaczone gwiazdką">
 
-<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nowa etykieta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Zarządzaj etykietami…">
@@ -601,7 +586,6 @@
 <!ENTITY folderTotalColumn.label "Razem">
 <!ENTITY folderSizeColumn.label "Rozmiar">
 
-<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Pobierz wiadomości">
 <!ENTITY folderContextGetMessages.accesskey "P">
 <!ENTITY folderContextOpenInNewWindow.label "Otwórz w nowym oknie">
@@ -643,12 +627,10 @@
 <!ENTITY folderContextSettings2.label "Ustawienia">
 <!ENTITY folderContextSettings2.accesskey "a">
 
-<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail zawiera:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!ENTITY glodaSearchBar.placeholder "Szukaj wiadomości…">
 
-<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Temat">
 <!ENTITY searchFromMenu.label "Nadawca">
 <!ENTITY searchSubjectOrFromMenu.label "Temat lub nadawca">
@@ -657,7 +639,6 @@
 <!ENTITY searchMessageBody.label "Cała wiadomość">
 <!ENTITY saveAsVirtualFolderMenu.label "Zapisz ustawienia wyszukiwania jako folder…">
 
-<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Wątek">
 <!ENTITY fromColumn.label "Nadawca">
 <!ENTITY recipientColumn.label "Adresat">
@@ -679,7 +660,6 @@
 <!ENTITY idColumn.label "Kolejność otrzymania">
 <!ENTITY attachmentColumn.label "Załączniki">
 
-<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Zaznacz, które kolumny zostaną wyświetlone">
 <!ENTITY threadColumn2.tooltip "Sortowanie według wątków">
 <!ENTITY fromColumn2.tooltip "Sortowanie według nadawcy">
@@ -702,7 +682,6 @@
 <!ENTITY idColumn2.tooltip "Sortowanie według kolejności otrzymania">
 <!ENTITY attachmentColumn2.tooltip "Sortowanie według załącznika">
 
-<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otwórz wiadomość w nowym oknie">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!ENTITY contextOpenNewTab.label "Otwórz wiadomość w nowej karcie">
@@ -749,14 +728,12 @@
 <!ENTITY contextPrintPreview.label "Podgląd wydruku">
 <!ENTITY contextPrintPreview.accesskey "u">
 
-<!-- Thread Pane Column Picker -->
 <!ENTITY columnPicker.resetToInbox.label "Przywróć domyślne">
 <!ENTITY columnPicker.applyTo.label "Zastosuj ustawienia do…">
 <!ENTITY columnPicker.applyToFolder.label "Folderu">
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Folderu i wszystkich folderów w nim zawartych">
 <!ENTITY columnPicker.thisFolder.label "Tego folderu">
 
-<!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Odtwórz">
 <!ENTITY contextPlay.accesskey "O">
 <!ENTITY contextPause.label "Wstrzymaj">
@@ -766,13 +743,11 @@
 <!ENTITY contextUnmute.label "Włącz dźwięk">
 <!ENTITY contextUnmute.accesskey "z">
 
-<!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base1 "Szukaj #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
-<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Dodaj do książki adresowej…">
 <!ENTITY AddToAddressBook.accesskey "k">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj do książki adresowej">
@@ -798,11 +773,9 @@
 <!ENTITY reportPhishingURL.label "Zgłoś oszustwo pocztowe">
 <!ENTITY reportPhishingURL.accesskey "g">
 
-<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "D">
 
-<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Zapisz element docelowy jako…">
 <!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Zapisz obraz jako…">
@@ -822,16 +795,13 @@
 <!ENTITY openLinkInBrowser.label "Otwórz odnośnik w przeglądarce">
 <!ENTITY openLinkInBrowser.accesskey "O">
 
-<!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">
 
-<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimalizuj okno">
 <!ENTITY bringAllToFront.label "Przesuń wszystkie na wierzch">
 <!ENTITY zoomWindow.label "Zmień rozmiar okna">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label "Preferencje">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
