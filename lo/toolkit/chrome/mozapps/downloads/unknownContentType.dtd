@@ -2,17 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  intro2.label                "ທ່ານໄດ້ເລືອກທີ່ຈະເປີດ:">
+<!ENTITY  from.label                  "ຈາກ:">
+<!ENTITY  actionQuestion.label        "&brandShortName; ຄວນຈະເຮັດຫຍັງກັບໄຟລ໌ນີ້?">
 
+<!ENTITY  openWith.label              "ເປີດດ້ວຍ">
+<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  other.label                 "ອື່ນໆ…">
 
+<!ENTITY  saveFile.label              "ບັນທຶກໄຟລ໌">
+<!ENTITY  saveFile.accesskey          "s">
 
+<!ENTITY  rememberChoice.label        "ຕໍ່ຈາກນີ້ໄປແມ່ນໃຫ້ເຮັດໂດຍອັດຕະໂນມັດກັບໄຟລ໌ປະເພດນີ້.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
+<!ENTITY  whichIs.label              "ຊຶ່ງເປັນ:">
 
+<!ENTITY  chooseHandlerMac.label      "ເລືອກ...">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "ຊອກຫາ...">
+<!ENTITY  chooseHandler.accesskey     "B​">
 
-
-
-
-
-
-
-
-
+<!ENTITY  unknownPromptText.label     "ທ່ານຕ້ອງການບັນທຶກໄຟລ໌ນີ້ຫລືບໍ?">

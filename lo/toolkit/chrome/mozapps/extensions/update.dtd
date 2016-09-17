@@ -46,7 +46,20 @@
                                            ເມື່ອພົບການອັບເດດສຳລັບ Add-ons.">
 
 <!ENTITY  adminDisabled.wizard.title      "ບໍ່ສາມາດກວດເບິງວ່າມີຕົວອັບເດດ">
+<!ENTITY  adminDisabled.warning.label     "ບໍ່ສາມາດກວດເບິງການອັບເດດສຳລັບ add-ons ທີ່ບໍ່ສາມາດເຮັດວຽກຮ່ວມກັນໄດ້
+                                           ເພາະວ່າການຕິດຕັ້ງຊັອບແວສຳລັບ &brandShortName; ໄດ້ຖືກປິດໃຊ້ງານ.
+                                           ກະລຸນາຕິດຕໍ່ຫາຜູ້ຄຸ້ມຄອງລະບົບຂອງທ່ານສຳລັບການຊ່ວຍເຫລືອ.">
 
+<!ENTITY  versioninfo.wizard.title        "ກວດສອບເບິງວ່າ Add-ons ສາມາດເຮັດວຽກຮ່ວມກັນໄດ້ບໍ່">
+<!ENTITY  versioninfo.top.label           "ກວດເບິງ add-ons ຂອງທ່ານວ່າສາມາດເຮັດວຽກກັນໄດ້ກັບ
+                                           ເວີຊັນຂອງ &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "ອາດຈະໃຊ້ເວລານ້ອຍຫນຶ່ງ…">
 
+<!ENTITY  installerrors.wizard.title      "ມີບັນຫາໃນການຕິດຕັ້ງອັບເດດ">
+<!ENTITY  installerrors.intro.label       "&brandShortName; ປະສົບກັບບັນຫາໃນຂະນະທີ່ອັບເດດ
+                                           ບາງ add-on ຂອງທ່ານ.">
 
 <!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "ຄິກ Finish ເພື່ອສືບຕໍ່ການເຮັດວຽກຂອງ &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "ຄິກ Done ເພື່ອສືບຕໍ່ການເຮັດວຽກຂອງ &brandShortName;.">
+<!ENTITY  enableChecking.label            "ອະນຸຍາດໃຫ້ &brandShortName; ກວດເບິງການອັບເດດໄດ້.">
