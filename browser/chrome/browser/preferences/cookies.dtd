@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Cookie berikut disimpan pada komputer anda:">
+<!ENTITY     cookiesonsystem.label          "Kuki berikut disimpan dalam komputer anda:">
 <!ENTITY     cookiename.label               "Nama Cookie">
 <!ENTITY     cookiedomain.label             "Laman"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
