@@ -17,7 +17,7 @@
 <!ENTITY certmgr.orphans                      "Anda mempunyai sijil pada fail yang tidak sesuai dalam mana-mana katogori:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "u">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Perincian">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "P">
 
