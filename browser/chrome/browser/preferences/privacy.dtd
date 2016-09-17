@@ -62,7 +62,7 @@
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Papar Kukiâ€¦">
-<!ENTITY  showCookies.accesskey         "â">
+<!ENTITY  showCookies.accesskey         "P">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
 <!ENTITY  historyHeader.pre.accesskey      "a">
