@@ -60,6 +60,8 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "ບໍ່ແນະນຳໃຫ້ປິດນຳໃຊ້ໂຫມດການທ່ອງເວັບແບບປອດໄພເພາະມັນອາດຈະເຮັດໃຫ້ທ່ານເຂົ້າໄປຫາເວັບໄຊຕ໌ທີ່ບໍ່ປອດໄພໄດ້.  ຖ້າວ່າທ່ານຍັງຕ້ອງການປິດໂຫມດນີ້ແມ່ນໃຫ້ດຳເນີນການຕາມຂັ້ນຕອນດັ່ງຕໍ່ໄປນີ້:">
+<!ENTITY rights.safebrowsing-term1 "ເປີດການຕັ້ງຄ່າຂອງແອັບພລິເຄຊັນ">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
