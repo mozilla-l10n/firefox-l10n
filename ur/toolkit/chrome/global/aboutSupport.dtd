@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "ازالہ کاری معلومات">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "اس صفحے کو آپ ایک مسئلہ کو حل کرنے کی کوشش کر رہے ہیں جب مفید ہو سکتا ہے کہ تکنیکی معلومات پر مشتمل ہے. آپ &brandShortName;,  بارے میں عمومی سوالات کے جوابات کے لئے تلاش کر رہے ہیں تو ؛، ہمارے <a id='supportLink'> حمایت کی ویب سائٹ کو چیک کریں</a>.">
+
 <!ENTITY aboutSupport.crashes.title "کریش رپورٹیں">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

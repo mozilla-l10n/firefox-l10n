@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blocklist.title             "آڈ آن مسلہ کر سکٹے ھے">
-<!ENTITY blocklist.style             "چوڑائی:45em; اونچائی: 30em">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; نے تعین کی ہے کہ مندرجہ ذیل اید اون استحکام اور سلامتی کے مسائل کی وجہ بنتے ہیں:">
 <!ENTITY blocklist.softblocked       "آپ کی حفاظت کے ليے تجویز کيا جاتا ھے کی آڈ آن کو نا اہل بنانے کے ساتھ لازمی دوباره شروع کریں ">
 <!ENTITY blocklist.hardblocked       "ان میں اضافہ ons استحکام یا سیکورٹی کے مسائل کا باعث کے ایک اعلی خطرہ ہے اور بلاک کیا گیا ہے، لیکن ایک دوبارہ شروع کرنے کے مکمل طور پر ان کو غیر فعال کرنے کی ضرورت ہے.">
