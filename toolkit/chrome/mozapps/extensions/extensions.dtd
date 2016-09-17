@@ -26,7 +26,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
 <!ENTITY showAllExtensions.button.label       "Papar semua penambahan">
 <!ENTITY debugAddons.label                    "Add-ons Nyahpepijat">
-<!ENTITY debugAddons.accesskey                "B">
+<!ENTITY debugAddons.accesskey                "s">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dinyahdayakan oleh mod selamat.">
@@ -45,9 +45,9 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Semakan pengemaskinian terkini">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.accesskey    "e">
 <!ENTITY updates.viewUpdates.label            "Papar Kemas kini Terbaru">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.accesskey        "P">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
@@ -60,9 +60,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Set semula Semua Add-ons untuk Kemas kini Automatik">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "u">
 <!ENTITY updates.resetUpdatesToManual.label          "Set semula Semua Add-ons Untuk Kemas kini Manual">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "n">
 <!ENTITY updates.updating.label               "Mengemaskini add-on">
 <!ENTITY updates.installed.label              "Add-on anda telah dikemaskinikan.">
 <!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
@@ -74,24 +74,24 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Papar Maklumat Tambahan">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.accesskey            "p">
 <!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.accesskey            "k">
 <!ENTITY cmd.preferencesWin.label             "Opsyen">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Keutamaan">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.accesskey        "m">
 <!ENTITY cmd.about.label                      "Mengenai">
 <!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Dayakan">
-<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.accesskey            "a">
 <!ENTITY cmd.disableAddon.label               "Nyahdayakan">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Tema Digunakan">
-<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.enableTheme.accesskey            "i">
 <!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.accesskey           "r">
 <!ENTITY cmd.askToActivate.label              "Tanya untuk diaktifkan">
 <!ENTITY cmd.askToActivate.tooltip            "Tanya untuk guna add-on setiap masa">
 <!ENTITY cmd.alwaysActivate.label             "Sentiasa Aktif">
@@ -100,7 +100,7 @@
 <!ENTITY cmd.neverActivate.tooltip            "Jangan guna add-on ini">
 <!ENTITY cmd.stateMenu.tooltip                "Tukar semasa add-on ini digunakan">
 <!ENTITY cmd.installAddon.label               "Pasang">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.accesskey           "g">
 <!ENTITY cmd.uninstallAddon.label             "Alih keluar">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
@@ -108,7 +108,7 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Tukarkan keutamaan add-on's ini">
 <!ENTITY cmd.contribute.label                 "Menyumbang">
-<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.accesskey             "a">
 <!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
 
 <!ENTITY cmd.showReleaseNotes.label           "Papar Release Notes">
@@ -144,13 +144,13 @@
 <!ENTITY detail.size                          "Saiz">
 
 <!ENTITY detail.checkForUpdates.label         "Semakan pengemaskinian terkini">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "n">
 <!ENTITY detail.checkForUpdates.tooltip       "Periksa kemas kini bagi add-on ini">
 <!ENTITY detail.showPreferencesWin.label      "Pilihan">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.accesskey  "h">
 <!ENTITY detail.showPreferencesWin.tooltip    "Tukar pilihan add-on ini">
 <!ENTITY detail.showPreferencesUnix.label     "Keutamaan">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.accesskey "a">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Tukarkan keutamaan add-on's ini">
 
 

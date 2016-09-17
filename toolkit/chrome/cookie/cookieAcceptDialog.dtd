@@ -14,7 +14,7 @@
 <!ENTITY     button.session.label           "Benarkan Sessi">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Nafi">
-<!ENTITY     button.deny.accesskey          "D">
+<!ENTITY     button.deny.accesskey          "a">
 
 <!ENTITY     dialog.title                   "Pasti tetapan cookie">
 <!ENTITY     dialog.remember.label          "Gunakan pilihan saya untuk semua kuki dari laman ini">

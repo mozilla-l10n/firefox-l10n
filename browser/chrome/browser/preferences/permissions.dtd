@@ -12,9 +12,9 @@
 <!ENTITY removeallpermissions.label   "Alih keluar Semua Laman">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Alamat laman web:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.accesskey            "m">
 <!ENTITY block.label                  "Halang">
-<!ENTITY block.accesskey              "B">
+<!ENTITY block.accesskey              "a">
 <!ENTITY session.label                "Benarkan Sesi">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Benarkan">
@@ -22,7 +22,7 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Batal">
-<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.cancel.accesskey      "l">
 <!ENTITY button.ok.label              "Simpan Perubahan">
 <!ENTITY button.ok.accesskey          "S">
 

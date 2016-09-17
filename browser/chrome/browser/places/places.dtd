@@ -7,17 +7,17 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Urus">
-<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.accesskey    "r">
 <!ENTITY organize.tooltip      "Urus tanda buku anda">
 
 <!ENTITY file.close.label               "Tutup">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.accesskey           "t">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Paparan">
-<!ENTITY views.accesskey                "V">
+<!ENTITY views.accesskey                "r">
 <!ENTITY views.tooltip                  "Tukar paparan anda">
 <!ENTITY view.columns.label             "Papar Kolum">
-<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.columns.accesskey         "a">
 <!ENTITY view.sort.label                "Isih">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Belum diisih">
@@ -35,29 +35,29 @@
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Sandaran…">
-<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.backup.accesskey           "n">
 <!ENTITY cmd.restore2.label             "Kembalikan semula">
-<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restore2.accesskey         "K">
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.accesskey  "P">
 
 <!ENTITY cmd.bookmarkLink.label         "Tanda buku Halaman Ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Hapus Halaman Ini">
-<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.delete.accesskey           "a">
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Laman Ini">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.accesskey "L">
 
 <!ENTITY cmd.open.label                  "Buka">
-<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open.accesskey              "k">
 <!ENTITY cmd.open_window.label           "Buka dalam Tetingkap Baru">
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "Buka dalam Tetingkap Peribadi Baru">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "Buka dalam Tab Baru">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_tab.accesskey          "u">
 <!ENTITY cmd.open_all_in_tabs.label      "Buka Semua dalam Tab">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "k">
 
 <!ENTITY cmd.properties.label      "Sifat">
 <!ENTITY cmd.properties.accesskey  "i">
@@ -75,10 +75,10 @@
 <!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Muat semula Tanda buku Live">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "v">
 
 <!ENTITY cmd.moveBookmarks.label                  "Pindah…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
+<!ENTITY cmd.moveBookmarks.accesskey              "i">
 
 <!ENTITY col.name.label          "Nama">
 <!ENTITY col.tags.label          "Tag">
@@ -90,7 +90,7 @@
 <!ENTITY col.lastmodified.label  "Kali terakhir Penyesesuaian">
 
 <!ENTITY search.label                              "Cari:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.accesskey                          "C">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -103,21 +103,21 @@
 <!ENTITY forwardButton.tooltip  "Ke hadapan">
 
 <!ENTITY detailsPane.more.label "Tambahan">
-<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.more.accesskey "m">
 <!ENTITY detailsPane.less.label "Kurangkan">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih satu item untuk dipapar dan diedit sifatnya">
 
 <!ENTITY find.label               "Carian:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Papar">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "a">
 <!ENTITY byDate.label             "Secara Tarikh">
-<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.accesskey         "c">
 <!ENTITY bySite.label             "Mengikut Laman">
-<!ENTITY bySite.accesskey         "S">
+<!ENTITY bySite.accesskey         "i">
 <!ENTITY byMostVisited.label      "Mengikut Paling Banyak Dilayari">
-<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byMostVisited.accesskey  "k">
 <!ENTITY byLastVisited.label      "Mengikut Pelayaran Terakhir">
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "Mengikut Tarikh dan Laman">

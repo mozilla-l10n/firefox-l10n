@@ -29,21 +29,21 @@
 <!-- Context Menu -->
 <!ENTITY copyPref.key "S">
 <!ENTITY copyPref.label "Salin">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.accesskey "n">
 <!ENTITY copyName.label "Salin Nama">
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Salin Nilai">
-<!ENTITY copyValue.accesskey "V">
+<!ENTITY copyValue.accesskey "S">
 <!ENTITY modify.label "Ubahsuai">
-<!ENTITY modify.accesskey "M">
+<!ENTITY modify.accesskey "b">
 <!ENTITY toggle.label "Tuil">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Set semula">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "a">
 <!ENTITY new.label "Baru">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "B">
 <!ENTITY string.label "Rentetan">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "e">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">

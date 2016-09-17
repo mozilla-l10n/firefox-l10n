@@ -9,11 +9,11 @@
 
 <!ENTITY  proxyTitle.label              "Konfigur Proksi untuk Capaian Internet">
 <!ENTITY  noProxyTypeRadio.label        "Tiada proksi">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Guna tetapan proksi sistem">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Auto-kesan tetapan proksi untuk rangkaian ini">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.accesskey       "o">
 <!ENTITY  manualTypeRadio.label         "Konfigurasi proksi manual:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL konfigurasi proksi automatik:">
@@ -23,7 +23,7 @@
 <!ENTITY  ftp.label                     "Proksi FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "Proksi HTTP:">
-<!ENTITY  http.accesskey                "x">
+<!ENTITY  http.accesskey                "P">
 <!ENTITY  ssl.label                     "Proksi SSL:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Hos SOCKS:">

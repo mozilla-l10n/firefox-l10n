@@ -4,21 +4,21 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejakan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
-<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionNever.accesskey    "k">
 <!ENTITY  trackingProtectionLearnMore.label    "Ketahui selanjutnya">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
-<!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!ENTITY  trackingProtectionExceptions.accesskey "g">
 
 <!ENTITY tracking.label                 "Penjejakan">
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBM5.accesskey     "k">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
 <!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList.accesskey      "a">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -36,7 +36,7 @@
 <!ENTITY  locbar.bookmarks.label        "Tanda buku">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Buka tab">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.openpage.accesskey     "b">
 <!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -47,13 +47,13 @@
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty.pre.accesskey  "M">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
 <!ENTITY  keepUntil.label               "Kekalkan sehingga:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil.accesskey           "h">
 
 <!ENTITY  expire.label                  "ianya luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
@@ -62,10 +62,10 @@
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Papar Kuki…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "�">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "a">
 <!ENTITY  historyHeader.remember.label     "Ingat sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
@@ -97,7 +97,7 @@
 <!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Ingat sejarah dan borang sejarah">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "h">
 
 <!ENTITY  clearOnClose.label             "Buang sejarah apabila &brandShortName; ditutup">
 <!ENTITY  clearOnClose.accesskey         "r">

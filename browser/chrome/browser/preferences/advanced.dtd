@@ -11,7 +11,7 @@
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk menavigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
-<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY searchStartTyping.accesskey     "r">
 <!ENTITY blockAutoRefresh.label          "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Papar papan kekunci sentuh apabila perlu">
@@ -22,7 +22,7 @@
 <!ENTITY useAutoScroll.label             "Guna autogulung">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Guna gulung lancar">
-<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY useSmoothScrolling.accesskey    "G">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Periksa ejaan saya tika menaip">
@@ -51,7 +51,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Ubah suai…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "U">
 
 <!ENTITY httpCache.label                 "Cache Kandungan Web">
 
@@ -64,10 +64,10 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.accesskey  "d">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
 <!ENTITY clearCacheNow.label             "Padam Sekarang">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.accesskey         "g">
 <!ENTITY clearOfflineAppCacheNow.label   "Padam Sekarang">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
@@ -79,7 +79,7 @@
 <!ENTITY updateAuto1.label               "Kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "Semak sebarang kemaskini, tetapi biarkan saya pilih untuk memasangnya">
-<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateCheck.accesskey           "a">
 <!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -96,7 +96,7 @@
 <!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketia luar talian">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -114,6 +114,6 @@
 <!ENTITY enableOCSP.label                "Query pelayan penyambut OCSP untuk memastikan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Papar Sijil">
-<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCerts.accesskey             "r">
 <!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewSecurityDevices.accesskey   "k">

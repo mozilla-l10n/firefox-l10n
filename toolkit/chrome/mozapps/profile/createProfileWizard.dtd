@@ -16,10 +16,10 @@
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Jika anda mencipta beberapa profil anda boleh panggilnya dengan nama profil. Anda boleh gunakan nama yang disediakan atau gunakan nama yang anda pilih.">
 <!ENTITY profilePrompt.label            "Masukkan nama profil baru:">
-<!ENTITY profilePrompt.accesskey        "E">
+<!ENTITY profilePrompt.accesskey        "a">
 <!ENTITY profileDirectoryExplanation.text   "Tetapan pengguna anda, pilihan dan lain-lain yang berkaitan dengan data pengguna akan disimpan di dalam:">
 <!ENTITY profileDefaultName             "Pengguna Piawai">
 <!ENTITY button.choosefolder.label      "Pilih Folder…">
-<!ENTITY button.choosefolder.accesskey  "C">
+<!ENTITY button.choosefolder.accesskey  "l">
 <!ENTITY button.usedefault.label        "Guna Folder Piawai">
 <!ENTITY button.usedefault.accesskey    "U">

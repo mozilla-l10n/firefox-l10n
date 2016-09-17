@@ -11,23 +11,23 @@
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
 <!ENTITY homepage.label            "Halaman Utama:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.accesskey        "U">
 <!ENTITY useCurrentPage.label      "Gunakan Halaman Semasa">
-<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Tanda buku…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Kembalikan kepada Piawai">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY restoreDefault.accesskey  "a">
 
 <!ENTITY downloads.label     "Muat Turun">
 
 <!ENTITY saveTo.label "Simpan fail ke">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "n">
 <!ENTITY chooseFolderWin.label        "Lungsur…">
-<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Pilih…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "P">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "A">
 

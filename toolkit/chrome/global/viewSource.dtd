@@ -18,14 +18,14 @@
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Tatacara Halaman…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "c">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "a">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Tutup">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "t">
 <!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
@@ -47,9 +47,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Papar">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.accesskey       "p">
 <!ENTITY reloadCmd.label "Muat semula">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Bungkus Baris Panjang"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
@@ -60,12 +60,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textEnlarge.label "Tingkatkan">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Kurang">
-<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReduce.accesskey "a">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Cari dalam Laman Ini...">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "a">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -76,7 +76,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.label "Kembali">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Maju">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardCmd.accesskey "M">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 

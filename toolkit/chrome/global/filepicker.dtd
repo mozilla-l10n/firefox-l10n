@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lookInMenuList.label   "Cari di:">
-<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY lookInMenuList.accesskey   "a">
 <!ENTITY textInput.label        "Nama fail:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "Fail daripada jenis:">
-<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY filterMenuList.accesskey   "l">
 <!ENTITY name.label             "Nama">
 <!ENTITY size.label             "Saiz">
 <!ENTITY lastModified.label     "Selepas pengubahsuaian">

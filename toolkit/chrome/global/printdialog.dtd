@@ -13,7 +13,7 @@
 <!ENTITY fileCheck.label "Cetak ke Fail">
 <!ENTITY fileCheck.accesskey "F">
 <!ENTITY propertiesButton.label "Sifat…">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY propertiesButton.accesskey "f">
 <!ENTITY descText.label "Huraian Pencetak:">
 <!ENTITY printer.label "Pencetak">
 <!ENTITY printerInput.label "Nama Pencetak:">
@@ -23,22 +23,22 @@
 <!ENTITY allpagesRadio.label "Semua Halaman">
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "Halaman">
-<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY rangeRadio.accesskey  "n">
 <!ENTITY frompageInput.label  "daripada">
 <!ENTITY frompageInput.accesskey  "r">
 <!ENTITY topageInput.label  "kepada">
-<!ENTITY topageInput.accesskey  "t">
+<!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Pemilihan">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "P">
 
 <!ENTITY copies.label "Salinan">
 <!ENTITY numCopies.label "Bilangan salinan:">
-<!ENTITY numCopies.accesskey "c">
+<!ENTITY numCopies.accesskey "n">
 
 <!ENTITY printframeGroup.label "Cetak Bingkai">
 <!ENTITY aslaidoutRadio.label "Seperti yang dibentangkan pada skrin">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "S">
 <!ENTITY selectedframeRadio.label  "Bingkai terpilih">
-<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY selectedframeRadio.accesskey  "h">
 <!ENTITY eachframesepRadio.label  "Setiap bingkai berasingan">
 <!ENTITY eachframesepRadio.accesskey  "E">

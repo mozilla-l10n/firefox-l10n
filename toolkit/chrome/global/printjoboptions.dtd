@@ -7,16 +7,16 @@
 <!ENTITY printJobOptions.title "Sifat Pencetak">
 
 <!ENTITY paperInput.label "Saiz kertas:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "S">
 
 <!ENTITY jobTitleInput.label "Pekerjaan:">
 <!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Warna:">
 <!ENTITY grayRadio.label "Skala kelabu">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.accesskey "a">
 <!ENTITY colorRadio.label "Warna">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorRadio.accesskey "r">
 
 <!ENTITY edgeMarginInput.label "Ruang daripada pinggir kertas ke Margin">
 <!ENTITY topInput.label "Atas:">
@@ -24,6 +24,6 @@
 <!ENTITY bottomInput.label "Bawah:">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Kiri:">
-<!ENTITY leftInput.accesskey "L">
+<!ENTITY leftInput.accesskey "i">
 <!ENTITY rightInput.label "Kanan:">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY rightInput.accesskey "K">

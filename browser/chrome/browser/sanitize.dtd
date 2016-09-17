@@ -43,13 +43,13 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Butiran">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "r">
 
 <!ENTITY historySection.label         "Sejarah">
 <!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.label     "Layar &amp; Sejarah Muat Turun">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "M">
 <!ENTITY itemFormSearchHistory.label       "Form &amp; Latar Carian">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookie">
@@ -57,11 +57,11 @@ that require it.  -->
 <!ENTITY itemCache.label                   "Cache">
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "Data Laman web Luar Talian">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.accesskey         "D">
 <!ENTITY itemActiveLogins.label            "Login Aktif">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Keutamaan Laman">
-<!ENTITY itemSitePreferences.accesskey     "S">
+<!ENTITY itemSitePreferences.accesskey     "K">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

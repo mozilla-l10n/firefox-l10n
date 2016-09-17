@@ -6,7 +6,7 @@
 <!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Batal">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY undoCmd.accesskey         "B">
 <!ENTITY redoCmd.label             "Ulangcara">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "r">
@@ -15,7 +15,7 @@
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Salin">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY copyCmd.accesskey         "S">
 <!ENTITY pasteCmd.label            "Tampal">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "p">
@@ -26,10 +26,10 @@
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Cari">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findCmd.accesskey         "r">
 <!ENTITY findAgainCmd.label        "Cari Lagi">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
 <!ENTITY findPreviousCmd.label     "Cari Terdahulu">
-<!ENTITY findPreviousCmd.accesskey "v">
+<!ENTITY findPreviousCmd.accesskey "a">

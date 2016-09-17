@@ -7,7 +7,7 @@
 <!ENTITY editBookmarkOverlay.location.label                  "Lokasi:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Lokasi Suapan:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "u">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasi Laman:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
@@ -17,12 +17,12 @@
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Asingkan tag dengan tanda koma">
 <!ENTITY editBookmarkOverlay.description.label               "Perihal:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.description.accesskey           "r">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Kata kunci:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Papar semua tag">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Muatkan tanda buku ini ke dalam bar sisi">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "e">
 <!ENTITY editBookmarkOverlay.choose.label                    "Pilih…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Folder Baru">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
