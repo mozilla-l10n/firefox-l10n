@@ -6,17 +6,17 @@
 
 <!ENTITY findDialog.title "Cari dalam Halaman Ini">
 <!ENTITY findField.label "Cari apa:">
-<!ENTITY findField.accesskey "n">
+<!ENTITY findField.accesskey "C">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Bungkus">
-<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY findButton.label "Cari Berikut">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findButton.accesskey "C">
 <!ENTITY cancelButton.label "Batal">
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY up.label "Naik">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "N">
 <!ENTITY down.label "Turun">
-<!ENTITY down.accesskey "D">
+<!ENTITY down.accesskey "u">
 <!ENTITY direction.label "Arah">

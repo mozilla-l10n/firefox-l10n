@@ -9,7 +9,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Semak kemas kini">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.checkForUpdatesButton.accesskey   "a">
 <!ENTITY update.updateButton.label2                "Mula semula &brandShortName; untuk mendapatkan Kemas kini">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Laksanakan Kemaskini...">

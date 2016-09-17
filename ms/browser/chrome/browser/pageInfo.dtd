@@ -7,7 +7,7 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Salin">
-<!ENTITY  copy.accesskey        "C">
+<!ENTITY  copy.accesskey        "a">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pilih Semua">
 <!ENTITY  selectall.accesskey   "A">

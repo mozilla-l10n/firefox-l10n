@@ -20,16 +20,16 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Muat Semula Tab">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "u">
 <!ENTITY  reloadAllTabs.label                "Muat Semula Semua Tab">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tutup Tab ke Kanan">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.accesskey        "T">
 <!ENTITY  closeOtherTabs.label               "Tutup Tab Lain">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeOtherTabs.accesskey           "T">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -41,19 +41,19 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Nyahpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
-<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendTabToDevice.accesskey          "b">
 <!ENTITY  sendPageToDevice.label             "Hantar Halaman ke Peranti">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "k">
 <!ENTITY  sendLinkToDevice.label             "Hantar Pautan ke Peranti">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Tanda buku Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Kembalikan Tab Ditutup">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Tutup Tab">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "b">
 
 <!ENTITY  listAllTabs.label      "Senarai semua tab">
 
@@ -65,14 +65,14 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Buka Lokasi…">
 <!ENTITY openFileCmd.label "Buka Fail…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "F">
 <!ENTITY openFileCmd.commandkey "b">
 <!ENTITY printSetupCmd.label "Tatacara Halaman…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "T">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "k">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Kerja Luar Talian">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Sumber Halaman">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "H">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Info Halaman">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -103,11 +103,11 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Masuk Skrin Penuh">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Keluar Skrin Penuh">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "K">
 <!ENTITY fullScreenCmd.label "Skrin Penuh">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "r">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Papar Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -123,9 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Kembalikan semula">
 <!ENTITY fullScreenClose.tooltip "Tutup">
 <!ENTITY fullScreenAutohide.label "Sorok Bar Alat">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "B">
 <!ENTITY fullScreenExit.label "Keluar Mod Skrin Penuh">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.accesskey "l">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "Dokumen ini mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.">
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "u">
 
 <!ENTITY bookmarksMenu.label "Tanda buku">
 <!ENTITY bookmarksMenu.accesskey "B">
@@ -171,13 +171,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Kongsi Pautan Ini">
-<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareLink.accesskey "a">
 <!ENTITY shareImage.label "Kongsi Imej Ini">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "n">
 <!ENTITY shareSelect.label "Kongsi Pilihan">
-<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Kongsi Video Ini">
-<!ENTITY shareVideo.accesskey "r">
+<!ENTITY shareVideo.accesskey "n">
 <!ENTITY feedsMenu2.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenupopup.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan Halaman Ini…">
@@ -187,9 +187,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Tanda buku Lain">
 <!ENTITY bookmarksToolbarChevron.tooltip "Papar tanda buku selanjutnya">
 <!ENTITY showRecentlyBookmarked.label     "Papar Tanda buku Terkini">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.accesskey "T">
 <!ENTITY hideRecentlyBookmarked.label     "Sorok Tanda buku Terkini">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Kembali">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Muat Turun">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.accesskey          "u">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "i">
 
 <!ENTITY fileMenu.label         "Fail"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -286,34 +286,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Tetingkap Peribadi Baru">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "r">
 <!ENTITY newNonRemoteWindow.label   "Tetingkap Non-e10s Baru">
 
 <!ENTITY editMenu.label         "Edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Batal">  
 <!ENTITY undoCmd.key            "K">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "B"> 
 <!ENTITY redoCmd.label            "Buat semula">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "m"> 
 <!ENTITY cutCmd.label           "Potong">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Salin">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.accesskey          "S"> 
 <!ENTITY pasteCmd.label           "Tampal">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Hapus">  
 <!ENTITY deleteCmd.key            "P">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "a"> 
 <!ENTITY selectAllCmd.label         "Pilih Semua">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "Pilihan">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "h">
 <!ENTITY preferencesCmdUnix.label       "Keutamaan">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -322,13 +322,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Papar"> 
-<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewMenu.accesskey       "p"> 
 <!ENTITY viewToolbarsMenu.label       "Bar alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Bar sisi">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Penyesuaian…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewCustomizeToolbar.accesskey     "u">
 
 <!ENTITY historyMenu.label "Sejarah">
 <!ENTITY historyMenu.accesskey "s">
@@ -373,14 +373,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.label "Tambah ke Menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Pindah ke Bar Alat">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "d">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Pindah ke Menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.accesskey "d">
 <!ENTITY customizeMenu.removeFromToolbar.label "Alih keluar daripada Bar alat">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Alih keluar daripada Menu">
@@ -459,48 +459,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.label         "Cari dalam Tab Baru">
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "Tetapkan sebagai Enjin Carian Piawai">
-<!ENTITY searchSetAsDefault.accesskey "D">
+<!ENTITY searchSetAsDefault.accesskey "g">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buka Pautan dalam Tetingkap Baru">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "a">
 <!ENTITY openLinkInPrivateWindowCmd.label "Buka Pautan dalam Tetingkap Privasi Baru">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Buka Pautan">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.accesskey "n">
 <!ENTITY openFrameCmdInTab.label      "Buka Bingkai dalam Tab Baru">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buka Bingkai dalam Tetingkap Baru">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "i">
 <!ENTITY openLinkCmdInContainerTab.label "Buka Pautan dalam Tab Bekas Baru">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+<!ENTITY openLinkCmdInContainerTab.accesskey "B">
 <!ENTITY showOnlyThisFrameCmd.label     "Papar Hanya Bingkai Ini">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY showOnlyThisFrameCmd.accesskey "i">
 <!ENTITY reloadCmd.commandkey         "m">
 <!ENTITY reloadFrameCmd.label         "Muat semula Bingkai">
-<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY reloadFrameCmd.accesskey     "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Papar Sumber Dipilih">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Papar Sumber MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Papar Sumber Halaman">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewPageSourceCmd.accesskey  "P">
 <!ENTITY viewFrameSourceCmd.label     "Papar Sumber Bingkai">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "u">
 <!ENTITY viewPageInfoCmd.label        "Lihat Info Laman">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Lihat Info Bingkai">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Muat Semula Imej">
-<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label           "Papar Imej">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Papar Info Imej">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Papar Keterangan">
-<!ENTITY viewImageDescCmd.accesskey   "D">
+<!ENTITY viewImageDescCmd.accesskey   "g">
 <!ENTITY viewVideoCmd.label           "Papar Video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Papar Imej Latar belakang">
@@ -509,9 +509,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Tanda buku Halaman Ini">
 <!ENTITY bookmarkThisLinkCmd.label      "Tanda buku Pautan Ini">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Tanda buku Bingkai Ini">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "u">
 <!ENTITY emailPageCmd.label           "E-mel Pautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai…">
@@ -520,35 +520,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Simpan Bingkai Sebagai…">
-<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveFrameCmd.accesskey       "i">
 <!ENTITY printFrameCmd.label          "Cetak Bingkai…">
-<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY printFrameCmd.accesskey      "C">
 <!ENTITY saveLinkCmd.label            "Simpan Pautan Sebagai…">
-<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveLinkCmd.accesskey        "a">
 <!ENTITY saveImageCmd.label           "Simpan Imej Sebagai…">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "�">
 <!ENTITY saveVideoCmd.label           "Simpan Video Sebagai…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Simpan Audio Sebagai…">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "S">
 <!ENTITY emailImageCmd.label          "E-mel Imej…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.accesskey      "E">
 <!ENTITY emailVideoCmd.label          "E-mel Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.accesskey      "E">
 <!ENTITY castVideoCmd.label           "Hantar Video Ke Peranti">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "E-mel Audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktifkan plugin ini">
-<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.accesskey      "u">
 <!ENTITY hidePluginCmd.label          "Sorok plugin ini">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.accesskey      "i">
 <!ENTITY copyLinkCmd.label            "Salin Lokasi Pautan">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Salin Lokasi Imej">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Salin Imej">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "n"> 
 <!ENTITY copyVideoURLCmd.label        "Salin Lokasi Video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
@@ -556,31 +556,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.label           "Salin Alamat E-mel">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bingkai Ini">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "n">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Mainkan">
-<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.accesskey         "n">
 <!ENTITY mediaPause.label            "Jeda">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "e">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Senyap">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.accesskey         "p">
 <!ENTITY mediaUnmute.label           "Nyahsenyap">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "N">
 <!ENTITY mediaPlaybackRate2.label     "Kelajuan Permainan">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate2.accesskey "a">
 <!ENTITY mediaPlaybackRate050x2.label "Perlahan (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "e">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Laju (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "L">
 <!ENTITY mediaPlaybackRate150x2.label "Lebih laju (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
@@ -594,11 +594,11 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Papar Kawalan">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Sorok Kawalan">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY videoFullScreen.label       "Skrin Penuh">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.accesskey   "u">
 <!ENTITY videoSaveImage.label        "Simpan Snapshot Sebagai…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -616,18 +616,18 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zum Masuk">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "s">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zum Keluar">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "u">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Set Semula">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.accesskey     "l">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -639,19 +639,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Tutup bar sisi">
 
 <!ENTITY quitApplicationCmdWin2.label       "Keluar">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "K">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Keluar &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Keluar"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "a">
 <!ENTITY quitApplicationCmdMac2.label   "Keluar &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Tutup">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "u">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -674,13 +674,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Tukar Hala Halaman">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "k">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Tukar Hala Teks">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "u">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cari dalam Halaman Ini…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "H">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -752,9 +752,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
 
 <!ENTITY syncedTabs.context.open.label                       "Buka">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.open.accesskey                   "u">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Buka dalam Tab Baru">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "B">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Buka dalam Tetingkap Baru">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka dalam Tetingkap Peribadi Baru">
@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tanda buku Tab Ini...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Salin">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
+<!ENTITY syncedTabs.context.copy.accesskey                   "S">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -817,11 +817,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.markpageMenu.accesskey "P">
 <!ENTITY social.markpageMenu.label "Simpan Halaman Ke…">
-<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.accesskey "a">
 <!ENTITY social.marklinkMenu.label "Simpan Pautan Ke…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Audio dari tab akan dikongsi.">

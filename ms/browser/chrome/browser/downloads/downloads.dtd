@@ -41,11 +41,11 @@
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Jeda">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "J">
 <!ENTITY cmd.resume.label                 "Sambung">
-<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.resume.accesskey             "m">
 <!ENTITY cmd.cancel.label                 "Batal">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.cancel.accesskey             "t">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -70,7 +70,7 @@
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Benarkan Muat turun">
-<!ENTITY cmd.unblock2.accesskey           "o">
+<!ENTITY cmd.unblock2.accesskey           "a">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->

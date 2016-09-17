@@ -25,7 +25,7 @@
 <!ENTITY            pmDescription.label    "&brandShortName; menyimpan maklumat perihal tetapan anda, keutamaan, dan item pengguna lain dalam profil pengguna anda.">
 
 <!ENTITY            offlineState.label    "Bekerja Luar Talian">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "B">
 
 <!ENTITY            useSelected.label       "Mengunakan profil yang dipilih tanpa meminta pada permulaan">
-<!ENTITY            useSelected.accesskey   "s">
+<!ENTITY            useSelected.accesskey   "u">

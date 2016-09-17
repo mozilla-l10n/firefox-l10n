@@ -21,7 +21,7 @@
 <!ENTITY signIn.account2.label      "Akaun">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Kata laluan">
-<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.password.accesskey  "u">
 <!ENTITY signIn.recoveryKey.label       "Kekunci Pemulihan">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 
@@ -32,7 +32,7 @@
 <!ENTITY setup.choosePassword.label      "Pilih Kata laluan">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Sahkan Kata Laluan">
-<!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.confirmPassword.accesskey "S">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -42,7 +42,7 @@
 <!ENTITY setup.tosAgree2.label      "dan">
 <!ENTITY setup.ppLink.label         "Dasar Privasi">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree2.accesskey  "n">
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Prihatin Tentang Privasi Anda">
@@ -53,7 +53,7 @@
 <!ENTITY recoveryKeyBackup.description "Recovery Key anda diperlukan untuk mengakses &syncBrand.fullName.label; pada alat lain. Sila buat salinan sandaran. Kami tidak dapat membantu anda mengembalikan Recovery Key anda.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Cetak...">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.accesskey "e">
 <!ENTITY button.syncKeyBackup.save.label      "Simpan...">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
@@ -80,19 +80,19 @@
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Pilihan Sync">
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "n">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Tanda buku">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.accesskey "b">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Kata laluan">
-<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.passwords.accesskey "K">
 <!ENTITY engine.prefs.label         "Keutamaan">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "m">
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 

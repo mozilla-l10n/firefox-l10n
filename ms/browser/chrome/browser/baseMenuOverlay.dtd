@@ -9,11 +9,11 @@
 <!ENTITY windowMenu.label         "Tetingkap">
 
 <!ENTITY helpMenu.label           "Bantuan"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "n"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Bantuan"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "a">
 <!ENTITY aboutProduct2.label      "Perihal &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Bantuan &brandShorterName;">
@@ -24,15 +24,15 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Mula semula dengan Add-ons Dinyahdayakan…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.accesskey   "�">
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
+<!ENTITY helpSafeMode.stop.accesskey   "d">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Menyelesaikan masalah">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "a">
 
 <!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
 <!ENTITY helpFeedbackPage.accesskey  "S">

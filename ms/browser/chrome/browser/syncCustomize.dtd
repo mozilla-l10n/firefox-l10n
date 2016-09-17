@@ -14,13 +14,13 @@
   for the last two that are marked as being specific to Desktop browsers.
 -->
 <!ENTITY engine.bookmarks.label           "Tanda buku">
-<!ENTITY engine.bookmarks.accesskey       "m">
+<!ENTITY engine.bookmarks.accesskey       "T">
 <!ENTITY engine.history.label             "Sejarah">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "Tab">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Katalaluan">
-<!ENTITY engine.passwords.accesskey       "P">
+<!ENTITY engine.passwords.accesskey       "a">
 <!ENTITY engine.addons.label              "Desktop Add-ons">
 <!ENTITY engine.addons.accesskey          "A">
 <!ENTITY engine.prefs.label               "Pilihan Desktop">
