@@ -2,28 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY playButton.playLabel "ຫຼິ້ນ">
+<!ENTITY playButton.pauseLabel "ຢຸດ">
+<!ENTITY muteButton.muteLabel "ປິດສຽງ">
+<!ENTITY muteButton.unmuteLabel "ເປີດສຽງ">
+<!ENTITY fullscreenButton.enterfullscreenlabel "ເຕັມຈໍ">
+<!ENTITY fullscreenButton.exitfullscreenlabel "ອອກຈາກແບບເຕັມຈໍ">
+<!ENTITY castingButton.castingLabel "Cast to Screen">
+<!ENTITY closedCaption.off "ປິດ">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY stats.media "ມີເດຍ">
+<!ENTITY stats.size "ຂະໜາດ">
+<!ENTITY stats.activity "ກິດຈະກຳ">
+<!ENTITY stats.activityPaused "ຢຸດໄວ້ແລ້ວ">
+<!ENTITY stats.activityPlaying "ກຳລັງຫຼິ້ນ">
+<!ENTITY stats.activityEnded "ຈົບແລ້ວ">
+<!ENTITY stats.activitySeeking "(ກຳລັງຄົ້ນຫາ)">
+<!ENTITY stats.volume "ລະດັບສຽງ">
+<!ENTITY stats.framesParsed "Frames parsed">
 
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
