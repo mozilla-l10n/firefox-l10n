@@ -17,7 +17,7 @@
 <!ENTITY  button-cancel-unix.label     "Batal">
 
 <!ENTITY  button-back-win.label        "&lt; Undur">
-<!ENTITY  button-back-win.accesskey    "&">
+<!ENTITY  button-back-win.accesskey    "U">
 <!ENTITY  button-next-win.label        "Berikut &gt;">
 <!ENTITY  button-next-win.accesskey    "B">
 <!ENTITY  button-finish-win.label      "Tamat">
