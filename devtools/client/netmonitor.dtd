@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• Feu clic en el botó">
 <!ENTITY netmonitorUI.perfNotice2         "per iniciar l'anàlisi de rendiment.">
-
+<!ENTITY netmonitorUI.perfNotice3         "Analitza">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
@@ -24,6 +24,8 @@
 <!ENTITY netmonitorUI.reloadNotice3       "la pàgina per veure informació detallada sobre l'activitat de la xarxa.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status3     "Estat">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -38,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "Domini">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "Causa">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -122,6 +126,8 @@
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
   -  in the network details footer for the "WS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterWS  "WS">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 

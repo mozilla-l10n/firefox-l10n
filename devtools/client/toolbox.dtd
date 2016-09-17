@@ -20,6 +20,8 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "Inhabilita l'amagament automàtic de finestres emergents">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
@@ -42,6 +44,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "Trunca els atributs DOM">
+<!ENTITY options.collapseAttrs.tooltip "Trunca els atributs llargs a l'inspector">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -107,7 +111,7 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "Inhabilita la memòria cau HTTP (quan la caixa d'eines està oberta)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "Activeu aquesta opció per inhabilitar la memòria cau HTTP per a totes les pestanyes que tinguin oberta la caixa d'eines. Aquesta opció no afecta els processos de treball de servei.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
