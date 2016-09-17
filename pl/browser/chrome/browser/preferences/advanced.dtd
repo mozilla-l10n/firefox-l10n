@@ -38,7 +38,7 @@
 <!ENTITY enableTelemetryData.accesskey "U">
 <!ENTITY telemetryLearnMore.label "Więcej informacji">
 
-<!ENTITY crashReporterDesc2.label "Zgłoszenia awarii pomgają organizacji &vendorShortName; poprawiać stabilność, bezpieczeństwo i naprawiać problemy z przeglądarką.">
+<!ENTITY crashReporterDesc2.label "Zgłoszenia awarii pomagają organizacji &vendorShortName; poprawiać stabilność, bezpieczeństwo i naprawiać problemy z przeglądarką.">
 <!ENTITY alwaysSubmitCrashReports.label "Przesyłanie zgromadzonych zgłoszeń awarii programu &brandShortName;">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
