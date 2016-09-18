@@ -65,7 +65,7 @@
 <!ENTITY allowPagesToUse.accesskey               "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tegnkodning for indhold">
-<!ENTITY languages.customize.Fallback2.label      "Reserve-tegnkodning:">
+<!ENTITY languages.customize.Fallback2.label      "Standardtegnkodning:">
 <!ENTITY languages.customize.Fallback2.accesskey  "e">
 <!ENTITY languages.customize.Fallback2.desc       "Denne tegnkodning bruges for indhold, som mangler en erklæring om tegnkodning.">
 

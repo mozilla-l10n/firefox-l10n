@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label "Egenskaber for tekstfelt">
 <!ENTITY Settings.label "Indstillinger">
-<!ENTITY TextAreaName.label "feltnavn:">
+<!ENTITY TextAreaName.label "Feltnavn:">
 <!ENTITY TextAreaName.accessKey "N">
 <!ENTITY TextAreaRows.label "Rækker:">
 <!ENTITY TextAreaRows.accessKey "R">
