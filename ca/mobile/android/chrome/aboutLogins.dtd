@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Inicis de sessió">
 <!ENTITY aboutLogins.update                      "Actualitza">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Protegiu les vostres dades d'inici de sessió">
+<!ENTITY aboutLogins.emptyLoginHint              "Aquí es mostren les dades d'inici de sessió i les credencials que deseu al &brandShortName;.">
