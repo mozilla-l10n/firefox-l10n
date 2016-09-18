@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Vista cumpacta">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Trav d'utensils da la panela d'ordinaturs">
+<!ENTITY folderModeSelector.label "Vistas dad ordinaturs">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Zavrar tenor">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Modifitgar sco nov messadi">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "r">
+<!ENTITY editDraftMsgCmd.label "Modifitgar il sboz dal messadi">
+<!ENTITY editDraftMsgCmd.accesskey "s">
 <!ENTITY createFilter.label "Crear in filter or dal messadi…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Spustar a">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Modifitgar sco nov messadi">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
+<!ENTITY contextEditDraftMsg.label "Modifitgar il sboz dal messadi">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Respunder mo al speditur">
@@ -751,6 +756,7 @@
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "t">
 <!ENTITY contextSaveAs.label "Memorisar sut…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Stampar…">

@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "F">
 <!ENTITY showAnimatedAlert.label          "Mussar in avis">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings.label  "Avertiments pon vegnir deactivads sin la panela dad avis en las preferenzas dal sistem.">
 <!ENTITY customizeMailAlert.label         "Modifitgar…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 
