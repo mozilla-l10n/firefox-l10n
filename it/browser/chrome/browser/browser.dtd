@@ -307,6 +307,7 @@
 <!ENTITY search.label "Cerca con ">
 <!ENTITY searchAfter.label "">
 <!ENTITY changeSearchSettings.button "Impostazioni ricerca">
+<!ENTITY changeSearchSettings.tooltip "Modifica le impostazioni di ricerca">
 <!ENTITY searchInNewTab.label "Cerca in una nuova scheda">
 <!ENTITY searchInNewTab.accesskey "n">
 <!ENTITY searchSetAsDefault.label "Imposta come motore di ricerca predefinito">
