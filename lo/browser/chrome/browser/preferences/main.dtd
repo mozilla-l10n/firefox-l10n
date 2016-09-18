@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "ເລີ່ມທຳງານ">
+<!ENTITY startup.label             "ເລີ່ມເຮັດວຽກ">
 
 <!ENTITY startupPage.label         "ເມື່ອ &brandShortName; ເລີ່ມ:">
 <!ENTITY startupPage.accesskey     "ເ">
@@ -30,13 +30,6 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ຖາມຂ້ອຍທຸກຄັ້ງວ່າຈະບັນທຶກຂໍ້ມູນໄວ້ໃສ">
 <!ENTITY alwaysAsk.accesskey "ຖ">
-
-
-
-
-
-
-
 
 
 
