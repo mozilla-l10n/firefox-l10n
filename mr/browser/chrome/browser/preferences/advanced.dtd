@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "संकेत स्थळ पृष्ठ पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-<!ENTITY useOnScreenKeyboard.label       "जेव्हा आवश्यक असेल तेव्हा टच keyboard दाखवा">
-<!ENTITY useOnScreenKeyboard.accesskey   "k">
+
+
 
 <!ENTITY browsing.label                  "ब्राउजिंग">
 
@@ -35,7 +35,6 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "आणखी शिका">
 
-<!ENTITY telemetryDesc.label             "Shares performance ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
 <!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजे टेलीमेट्री)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "आणखी शिका">
@@ -86,7 +85,7 @@
 <!ENTITY updateHistory.label             "अद्ययावत इतिहास दाखवा">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा (b)">
+<!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "स्वयंरित्या सुधारणा करा:">

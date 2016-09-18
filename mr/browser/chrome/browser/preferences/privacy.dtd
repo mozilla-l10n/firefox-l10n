@@ -64,8 +64,7 @@
 <!ENTITY  showCookies.label             "कुकीज दाखवा…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "इतिहास लक्षात ठेवा">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कधीच लक्षात ठेवु नका">
 <!ENTITY  historyHeader.custom.label       "इतिहासा करीता मनपसंत संयोजना वापरा">
