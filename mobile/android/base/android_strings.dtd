@@ -34,7 +34,6 @@
 <!ENTITY firstrun_readerview_message "Hankkiudu eroon sotkusta">
 <!ENTITY firstrun_readerview_subtext "Käytä lukunäkymää saadaksesi artikkelit näyttämään lukukelpoisimmilta \u2014 jopa yhteydettömässä tilassa.">
 
-
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Sinä">
 <!ENTITY firstrun_account_message "Onko sinulla &brandShortName; toisella laitteella?">
@@ -45,8 +44,6 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Kirjanmerkit">
 <!ENTITY  history_title "Sivuhistoria">
-<!ENTITY  reading_list_title "Lukulista">
-<!ENTITY  recent_tabs_title "Viimeiset välilehdet">
 
 <!ENTITY  switch_to_tab "Siirry välilehteen">
 
@@ -187,13 +184,16 @@
 <!ENTITY pref_category_search_restore_defaults "Palauta hakukoneet">
 <!ENTITY pref_search_restore_defaults "Palauta oletukset">
 <!ENTITY pref_search_restore_defaults_summary "Palauta oletukset">
-<!-- Localization note (pref_search_hint2) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_advanced "Lisäasetukset">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datan säästäminen, kehittäjien työkalut">
 <!ENTITY pref_category_notifications "Ilmoitukset">
 <!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, sivustojen päivitykset">
@@ -245,6 +245,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Datan säästäminen">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Kehittäjien työkalut">
@@ -281,7 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Toimintavirta">
-<!ENTITY pref_activity_stream_summary "Monipuolinen visuaalinen historiasyöte ja uudenlainen kotisivu tekevät entistä helpommaksi löytää juuri sen, mitä etsit &brandShortName;ista.">
+<!ENTITY pref_activity_stream_summary "Monipuolinen visuaalinen historiasyöte ja uudenlainen aloitussivu tekevät entistä helpommaksi löytää juuri sen, mitä etsit &brandShortName;ista.">
 
 <!ENTITY tracking_protection_prompt_title "Seurannan suojauksen tuki nyt mukana">
 <!ENTITY tracking_protection_prompt_text "Estää seurantaelementit aktiivisesti, jotta sinun ei tarvitse huolehtia niistä.">
@@ -313,7 +316,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Avataksesi useita linkkejä kerralla, anna &brandShortName;ille \'piirrä muihin sovelluksiin\' -käyttöoikeus">
+<!ENTITY tab_queue_notification_settings "Avataksesi useita linkkejä kerralla, anna &brandShortName;ille \&apos;piirrä muihin sovelluksiin\&apos; -käyttöoikeus">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -365,7 +368,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\&apos;re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Salli automaattinen toisto">
 <!ENTITY pref_media_autoplay_enabled_summary "Voivatko verkkosivustot toistaa automaattisesti videoita ja muuta sisältöä">
@@ -413,9 +416,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Siirrä alas">
 
 <!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
-<!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
 <!ENTITY datareporting_notification_action "Valitse mitä lähetetään">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
 <!ENTITY datareporting_notification_summary "Parantaaksemme käyttökokemustasi &brandShortName; lähettää automaattisesti joitain tietoja &vendorShortName;lle.">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -435,7 +441,7 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Kaatumisilmoitukset">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;n paikannuspalvelut">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Auta  &vendorShortName;a kartoittamaan maailma! Jaa Wi-Fi- ja matkapuhelinverkoista saatava arvioitu sijaintitietosi parantaaksesi paikannuspalvelujamme.">
-<!-- Localization note (pref_update_autodownload3) : This should mention downloading
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Automaattiset päivitykset">
@@ -705,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Salli">
 
-<!-- Guest mode -->
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Uusi vierasistunto">
 <!ENTITY exit_guest_session "Lopeta vierasistunto">
 <!ENTITY guest_session_dialog_continue "Jatka">
@@ -734,7 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Valikko">
 <!ENTITY actionbar_done "Valmis">
@@ -774,8 +780,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "Scanning for the QR code displayed on your other device">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Lisäosat">
 <!ENTITY restrictable_feature_addons_installation_description "Lisää ominaisuuksia tai toiminnallisuutta Firefoxiin. Huom: Lisäosat voivat poistaa käytöstä tiettyjä rajoituksia.">
@@ -822,5 +828,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Siirry kirjanmerkkeihin">
 
 <!ENTITY helper_triple_readerview_open_title "Saatavilla yhteydettömässä tilassa">
-<!ENTITY helper_triple_readerview_open_message "Lisää lukunäkymä kirjanmerkkeihin lukeaksesi kohteita yhteydettömässä tilassa.">
+<!ENTITY helper_triple_readerview_open_message "Lisää sivuja lukunäkymässä kirjanmerkkeihin lukeaksesi niitä yhteydettömässä tilassa.">
 <!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
+
