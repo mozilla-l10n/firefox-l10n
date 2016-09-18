@@ -32,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socksRemoteDNS.label2         "Käytä välityspalvelinta DNS:lle käytettäessä SOCKS v5:tä">
 <!ENTITY  socksRemoteDNS.accesskey      "E">
 <!ENTITY  port.label                    "Portti:">
 <!ENTITY  HTTPport.accesskey            "P">
