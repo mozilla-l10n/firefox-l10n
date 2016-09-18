@@ -22,7 +22,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "t">
 
 <!ENTITY certmgr.pending.label                "Todennetaan varmennetta…">
-<!ENTITY certmgr.subjectinfo.label            "Asetettu taholle">
+<!ENTITY certmgr.subjectinfo.label            "Myönnetty">
 <!ENTITY certmgr.issuerinfo.label             "Myöntäjä">
 <!ENTITY certmgr.periodofvalidity.label       "Kelpoisuusaika" >
 <!ENTITY certmgr.fingerprints.label           "Sormenjäljet">
@@ -31,7 +31,7 @@
 <!ENTITY certmgr.certdetail.o                 "Organisaatio (O)">
 <!ENTITY certmgr.certdetail.ou                "Organisaation yksikkö (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Sarjanumero">
-<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 -sormenjälki">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256-sormenjälki">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1-sormenjälki">
 
 <!ENTITY certmgr.editcacert.title             "Muokkaa varmentajan varmenteen luotettavuusasetuksia">
