@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "करीता प्रॉक्सी नाही:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ह्या प्रॉक्सी सर्व्हरचा सर्व प्रोटोकॉल्सकरिता वापर करा (s)">
+<!ENTITY  shareproxy.label              "ह्या प्रॉक्सी सर्व्हरचा सर्व प्रोटोकॉल्सकरिता वापर करा">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "पासवर्ड साठवले असल्यास ओळख पटविण्याकरिता विचारू नका">
 <!ENTITY  autologinproxy.accesskey      "i">

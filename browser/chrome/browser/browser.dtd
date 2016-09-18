@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टॅबचे पिन अशक्य करा">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "टॅब Device ला पाठवा">
-<!ENTITY  sendTabToDevice.accesskey          "D">
-<!ENTITY  sendPageToDevice.label             "Device ला पृष्ठ पाठवा">
-<!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "Device ला दुवा पाठवा">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "नवीन पटलाकडे हलवा">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्जना वाचनखूण लावा…">
@@ -173,11 +173,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.label "ही दुवा शेअर करा">
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "ही प्रतिमा शेअर करा">
-<!ENTITY shareImage.accesskey "श">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "निवड शेअर करा">
-<!ENTITY shareSelect.accesskey "श">
+<!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
-<!ENTITY shareVideo.accesskey "श">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu2.label "ह्या पृष्ठाचे सभासद व्हा">
 <!ENTITY subscribeToPageMenupopup.label "ह्या पृष्ठाचे सभासद व्हा">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पृष्ठास भेट द्या...">
@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "नवीन कंटेनर Tab">
-<!ENTITY newUserContext.accesskey         "b">
+
+
 <!ENTITY newNavigatorCmd.label        "नवीन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -385,7 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेन्युतून काढून टाका">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "आणखी घटक समाविष्ट करा (A)…">
+<!ENTITY customizeMenu.addMoreItems.label "आणखी घटक समाविष्ट करा…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -588,8 +588,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "अतिशय जलद (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Loop">
-<!ENTITY mediaLoop.accesskey         "L">
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -658,8 +658,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "पृष्ठ शैली">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "No Style">
-<!ENTITY pageStyleNoStyle.accesskey "N">
+
+
 <!ENTITY pageStylePersistentOnly.label "मूळ पृष्ठ शैली">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "आणखी शिका">
 
 <!ENTITY identity.removeCertException.label "अपवाद काढा">
-<!ENTITY identity.removeCertException.accesskey "क">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
