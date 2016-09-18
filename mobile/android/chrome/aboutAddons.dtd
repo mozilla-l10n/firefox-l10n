@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Desinstal·la">
 <!ENTITY addonAction.undo                       "Desfés">
 
+<!ENTITY addonUnsigned.message                  "El &brandShortName; no ha pogut verificar aquest complement.">
 <!ENTITY addonUnsigned.learnMore                "Més informació">
