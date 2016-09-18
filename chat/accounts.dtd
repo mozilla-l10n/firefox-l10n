@@ -16,8 +16,8 @@
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "Ainda não foi configurada nenhuma conta">
-<!ENTITY accountManager.noAccount.description "Clique no botão &accountManager.newAccount.label; para deixar que o &brandShortName; o guie através do processo de configuração.">
+<!ENTITY accountManager.noAccount.title      "Ainda não configurou qualquer conta">
+<!ENTITY accountManager.noAccount.description "Clique no botão &accountManager.newAccount.label; para que o &brandShortName; o guie através do processo de configuração.">
 <!ENTITY account.autoSignOn.label     "Iniciar sessão ao arrancar">
 <!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label        "Ligar">
