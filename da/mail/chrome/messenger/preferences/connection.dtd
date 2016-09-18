@@ -36,6 +36,6 @@
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Ingen proxy for:">
 <!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Eksempel: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY noproxyExplain.label "Fx .mozilla.org, .net.dk, 192.168.1.0/24">
 <!ENTITY shareproxy.label "Benyt denne proxy-server til alle protokollerne">
 <!ENTITY shareproxy.accesskey "B">

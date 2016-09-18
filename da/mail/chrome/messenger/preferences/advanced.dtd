@@ -48,7 +48,7 @@
 
 <!ENTITY crashReporterSection.label      "Fejlrapportering">
 <!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter til &vendorShortName; for at gøre dit mailprogram mere stabilt og sikkert">
-<!ENTITY enableCrashReporter.label       "Aktiver fejlrapporter">
+<!ENTITY enableCrashReporter.label       "Aktiver fejlrapportering">
 <!ENTITY enableCrashReporter.accesskey   "k">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
 
