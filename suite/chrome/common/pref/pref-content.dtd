@@ -7,8 +7,8 @@
 <!ENTITY siteIcons.label "Значки веб-сайтов">
 <!ENTITY useSiteIcons.label "Показывать значки веб-сайтов">
 <!ENTITY useSiteIcons.accesskey "к">
-<!ENTITY useFavIcons.label "Выискивать значки веб-сайтов, если они не указаны страницей">
-<!ENTITY useFavIcons.accesskey "и">
+<!ENTITY useFavIcons2.label "Пытаться использовать значки серверов, если они не указаны страницей">
+<!ENTITY useFavIcons2.accesskey "ы">
 <!ENTITY scrolling.label "Прокрутка">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
 <!ENTITY useAutoScroll.accesskey "а">
@@ -27,6 +27,6 @@
 <!ENTITY enableAutomaticImageResizing.label "Использовать автоматическое изменение размера изображений">
 <!ENTITY enableAutomaticImageResizing.accesskey "з">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
-<!ENTITY allowHWAccel.accesskey "о">
+<!ENTITY allowHWAccel.accesskey "м">
 <!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
-<!ENTITY blockAutoRefresh.accesskey "р">
+<!ENTITY blockAutoRefresh.accesskey "ж">

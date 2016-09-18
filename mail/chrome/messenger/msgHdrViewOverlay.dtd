@@ -22,6 +22,8 @@
 <!ENTITY originalWebsite4.label "Веб-сайт">
 <!ENTITY hdrArchiveButton1.label "Архивировать">
 <!ENTITY hdrArchiveButton1.tooltip "Архивировать это сообщение">
+<!ENTITY hdrOpenConversationButton1.label "Разговор">
+<!ENTITY hdrOpenConversationButton1.tooltip "Показать разговор для этого сообщения">
 <!ENTITY hdrSmartReplyButton1.label "Умный ответ">
 <!ENTITY hdrReplyButton1.label "Ответить">
 <!ENTITY hdrReplyButton2.tooltip "Ответить отправителю этого сообщения">

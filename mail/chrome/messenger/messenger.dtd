@@ -472,6 +472,7 @@
 <!ENTITY forwardButton.label "Переслать">
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY archiveButton.label "Архивировать">
+<!ENTITY openConversationButton.label "Разговор">
 <!ENTITY nextButton.label "Следующее">
 <!ENTITY nextButtonToolbarItem.label "Следующее непрочитанное">
 <!ENTITY nextMsgButton.label "Следующее">
@@ -512,6 +513,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Переслать выбранное сообщение как вложение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
+<!ENTITY openConversationButton.tooltip "Показать разговор для выделенного сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
 <!ENTITY nextMsgButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">

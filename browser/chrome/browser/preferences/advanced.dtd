@@ -30,9 +30,9 @@
 <!ENTITY enableTelemetryData.label "Делиться дополнительными данными (называемыми Телеметрией)">
 <!ENTITY enableTelemetryData.accesskey "и">
 <!ENTITY telemetryLearnMore.label "Подробнее">
-<!ENTITY crashReporterDesc.label "&brandShortName; отправляет сообщения о падении, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
-<!ENTITY enableCrashReporter.label "Включить отправку сообщений о падении">
-<!ENTITY enableCrashReporter.accesskey "к">
+<!ENTITY crashReporterDesc2.label "Сообщения о падении помогают &vendorShortName; исправлять проблемы и сделать ваш браузер более стабильным и безопасным">
+<!ENTITY alwaysSubmitCrashReports.label "Разрешить &brandShortName; отправлять от вашего имени накопившиеся сообщения о падении">
+<!ENTITY alwaysSubmitCrashReports.accesskey "ш">
 <!ENTITY crashReporterLearnMore.label "Подробнее">
 <!ENTITY networkTab.label "Сеть">
 <!ENTITY connection.label "Соединение">
