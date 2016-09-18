@@ -45,29 +45,25 @@
 <!ENTITY font.langGroup.khmer "Khmerskie">
 <!ENTITY font.langGroup.malayalam "Malajalam">
 <!ENTITY font.langGroup.math "Matematyczne">
-<!ENTITY font.langGroup.oriya "Orija">
+<!ENTITY font.langGroup.odia "Orija">
 <!ENTITY font.langGroup.telugu "Telugu">
 <!ENTITY font.langGroup.kannada "Kannada">
 <!ENTITY font.langGroup.sinhala "Syngaleskie">
 <!ENTITY font.langGroup.tibetan "Tybetańskie">
 
-<!-- Minimum font size -->
 <!ENTITY minSize.label "Minimalny rozmiar czcionki:">
 <!ENTITY minSize.accesskey "M">
 <!ENTITY minSize.none "Brak">
 
-<!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Szeryfowa">
 <!ENTITY useDefaultFontSansSerif.label "Bezszeryfowa">
 
-<!-- fonts in message -->
 <!ENTITY fontControl.label "Zasady używania czcionek">
 <!ENTITY useFixedWidthForPlainText.label "Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst">
 <!ENTITY fixedWidth.accesskey "U">
 <!ENTITY useDocumentFonts.label "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
 <!ENTITY useDocumentFonts.accesskey "Z">
 
-<!-- Language settings -->
 <!ENTITY languagesTitle2.label "Kodowanie tekstu">
 <!ENTITY composingDescription2.label "Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości">
 <!ENTITY sendDefaultCharset.label "Poczta wychodząca:">
