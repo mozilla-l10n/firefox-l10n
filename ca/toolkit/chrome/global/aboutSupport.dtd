@@ -88,7 +88,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Base de dades de llocs">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integritat">
-
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica la integritat">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Recollida de deixalles incremental">
@@ -116,5 +116,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU núm. 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU núm. 2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registre de decisions">
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Característiques del protector de fallades desactivades">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions temporals">
