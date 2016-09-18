@@ -152,7 +152,6 @@
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Открыть панель запроса местоположения">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Открыть панель сообщения об установке дополнения">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Открыть панель сообщения об автономном хранилище">
-<!ENTITY urlbar.loginFillNotificationAnchor.tooltip "Управление данными вашего логина">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Открыть панель запроса на сохранение пароля">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Управление запуском плагина">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Изменение того, можете ли вы получать уведомления с сайта">
@@ -308,6 +307,7 @@
 <!ENTITY searchAfter.label "">
 <!ENTITY searchWithHeader.label "Искать в:">
 <!ENTITY changeSearchSettings.button "Изменить настройки поиска">
+<!ENTITY changeSearchSettings.tooltip "Изменить параметры поиска">
 <!ENTITY searchInNewTab.label "Искать в новой вкладке">
 <!ENTITY searchInNewTab.accesskey "а">
 <!ENTITY searchSetAsDefault.label "Установить как поисковую систему по умолчанию">
