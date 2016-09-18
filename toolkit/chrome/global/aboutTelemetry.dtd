@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloquejos de fils">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Escalars">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrames">
 
