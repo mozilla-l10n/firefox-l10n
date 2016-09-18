@@ -44,6 +44,8 @@
 <!ENTITY helpus.getInvolvedLink     "ta participescha!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Remartgas davart la versiun">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Infurmaziuns davart la licenza">
 

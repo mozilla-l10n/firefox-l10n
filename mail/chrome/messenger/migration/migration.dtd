@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Importar configuraziuns, contos, cudeschets d'adressas, filters ed autras datas da:">
 <!ENTITY importFromNonWin.label         "Importar configuraziuns, contos, cudeschets d'adressas, filters ed autras datas da:">
+<!ENTITY importSourceNotFound.label     "Chattà nagina applicaziun da la quala datas pon vegnir importadas.">
 
 <!ENTITY importFromNothing.label        "Importar nagut">
 <!ENTITY importFromNothing.accesskey    "n">
@@ -16,8 +17,6 @@
 <!ENTITY importFromOExpress.accesskey   "x">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importar configuraziuns ed ordinaturs dad e-mail">
 <!ENTITY importItems.title              "Datas che duain vegnir importadas">
