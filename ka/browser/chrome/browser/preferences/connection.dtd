@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "კავშირის პარამეტრები">
-<!ENTITY  window.width                  "45em">
-<!ENTITY  window.macWidth               "45em">
 
 <!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტზე წვდომისათვის">
 <!ENTITY  noProxyTypeRadio.label        "პროქსის გარეშე">
