@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Rychle odsud pryč!">
 <!ENTITY safeb.palm.decline.label "Ignorovat toto upozornění">
 <!ENTITY safeb.palm.reportPage.label "Proč byla tato stránka zablokována?">
-<!ENTITY safeb.palm.whyForbidden.label "Proč byla tato stránka zablokována?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Nahlášená útočná stránka!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,10 +21,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tato webová stránka na serveru <span id='phishing_sitename'/> byla nahlášena jako klamavá, a proto byla na základě vašeho bezpečnostního nastavení zablokována.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Klamavé stránky jsou takové, které se vás snaží přimět k něčemu nebezpečnému, jako je instalace software nebo prozrazení osobních informací, např. hesel, telefonního čísla nebo čísla kreditní karty.</p><p>Zadání jakýchkoliv informací na této stránce může vést ke krádeži vaší identity nebo jejímu zneužití.</p>">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Zablokovaná stránka">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Webová stránka <span id='forbidden_sitename'/> byla zablokována na základě konfigurace vašeho prohlížeče.">
-
+<!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Nahlásit klamavou stránku…">
 <!ENTITY reportDeceptiveSite.accesskey "l">
 <!ENTITY notADeceptiveSite.label "Tato stránka není klamavá…">

@@ -3,21 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Správce kanálů">
-<!ENTITY learnMore.label  "Zjistit více o kanálech">
+<!ENTITY feedSubscriptions.label     "Správce kanálů">
+<!ENTITY learnMore.label             "Zjistit více o kanálech">
 
-<!ENTITY feedTitle.label "Název:">
-<!ENTITY feedTitle.accesskey "N">
+<!ENTITY feedTitle.label             "Název:">
+<!ENTITY feedTitle.accesskey         "N">
 
-<!ENTITY feedLocation.label "Adresa kanálu: ">
-<!ENTITY feedLocation.accesskey "A">
-<!ENTITY feedLocation.placeholder "Vložte platnou adresu kanálu">
+<!ENTITY feedLocation.label          "Adresa kanálu: ">
+<!ENTITY feedLocation.accesskey      "A">
+<!ENTITY feedLocation.placeholder    "Vložte platnou adresu kanálu">
+<!ENTITY locationValidate.label      "Zkontrolovat platnost">
+<!ENTITY validateText.label          "Zkontrolovat platnost a vrátit platnou adresu.">
 
-<!ENTITY feedFolder.label "Ukládat články do složky: ">
-<!ENTITY feedFolder.accesskey "s">
+<!ENTITY feedFolder.label            "Ukládat články do složky: ">
+<!ENTITY feedFolder.accesskey        "s">
 
-<!ENTITY quickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
-<!ENTITY quickMode.accesskey "o">
+<!ENTITY quickMode.label             "Zobrazit stručný obsah článku namísto načtení webové stránky">
+<!ENTITY quickMode.accesskey         "o">
 
 <!ENTITY autotagEnable.label         "Automaticky vytvořit štítky z názvu &lt;kategorie&gt; v kanálech">
 <!ENTITY autotagEnable.accesskey     "c">
@@ -25,20 +27,15 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Zadejte předponu štítku">
 
-<!ENTITY locationValidate.label "Zkontrolovat platnost">
-<!ENTITY validateText.label "Zkontrolovat platnost a vrátit platnou adresu.">
-
-<!ENTITY button.addFeed.label "Přidat">
-<!ENTITY button.addFeed.accesskey "a">
-<!ENTITY button.editFeed.label "Upravit">
-<!ENTITY button.editFeed.accesskey "U">
-<!ENTITY button.removeFeed.label "Odebrat">
+<!ENTITY button.addFeed.label        "Přidat">
+<!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.removeFeed.label     "Odebrat">
 <!ENTITY button.removeFeed.accesskey "d">
-<!ENTITY button.importOPML.label "Importovat">
+<!ENTITY button.importOPML.label     "Importovat">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "Exportovat">
+<!ENTITY button.exportOPML.label     "Exportovat">
 <!ENTITY button.exportOPML.accesskey "x">
-<!ENTITY button.exportOPML.tooltip "Exportuje kanály se strukturou složek. Ctrl + klepnutí nebo Ctrl + Enter exportuje kanály jako seznam">
+<!ENTITY button.exportOPML.tooltip   "Exportuje kanály se strukturou složek. Ctrl + klepnutí nebo Ctrl + Enter exportuje kanály jako seznam">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Zavřít">
