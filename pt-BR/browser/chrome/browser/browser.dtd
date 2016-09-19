@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página">
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Visualizar informação do site">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver uma notificação">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver o pedido de localização">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver a mensagem de instalação do complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver a mensagem de armazenamento offline do aplicativo">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Gerenciar suas informações de login">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Verificar se você deseja salvar sua senha">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerenciar o uso do plugin nesta página">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Alterar o recebimento de notificações do site">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerenciar o compartilhamento da sua câmera e/ou microfone com o site">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Você está compartilhando sua câmera e/ou microfone com o site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Gerenciar o compartilhamento do seu microfone com o site">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Você esta compartilhando seu microfone com o site">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerenciar o compartilhamento de suas janelas ou tela com o site">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Você esta compartilhando uma janela ou tela com o site">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar a opção do site ocultar o ponteiro">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem da instalação do serviço">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traduzir esta página">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Gerenciar tradução da página">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Gerenciar o uso do software DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
+
 
 <!ENTITY searchItem.title             "Pesquisar">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Termos da pesquisa">
-<!ENTITY contentSearchSubmit.label    "Enviar pesquisa">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Botão da barra de ferramentas social">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Mostrar painel">
-<!ENTITY social.toggleSidebar.accesskey "x">
-
 <!ENTITY social.addons.label "Gerenciar serviços…">
-
-<!ENTITY social.toggleNotifications.label "Mostrar notificações no desktop">
-<!ENTITY social.toggleNotifications.accesskey "E">
-
-<!ENTITY social.learnMore.label "Saber mais…">
-<!ENTITY social.learnMore.accesskey "S">
 
 <!ENTITY social.directory.label "Diretório de ativações">
 <!ENTITY social.directory.text "Você pode ativar serviços de compartilhamento a partir do diretório.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Adicionar temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focar bate-papos">
-<!ENTITY social.chatBar.accesskey "F">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Salvar página no…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Salvar link no…">
 
 <!ENTITY getUserMedia.selectCamera.label "Câmera a compartilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção contra rastreamento está desativada">
-
-<!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "x">
