@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacje dla pomocy technicznej">
-
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Ta strona zawiera informacje techniczne, które mogą być przydatne podczas
   rozwiązywania problemów. Jeśli szukasz odpowiedzi na często zadawane pytania
@@ -54,19 +52,13 @@
 <!ENTITY aboutSupport.appBasicsSafeMode "Tryb awaryjny">
 
 <!ENTITY aboutSupport.showDir.label "Otwórz katalog">
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.showDir.label.  This allows us to use the preferred
-"Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Pokaż w Finderze">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
-variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Pokaż folder">
+<!ENTITY aboutSupport.showWin2.label "Otwórz folder">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ważne zmodyfikowane ustawienia">
 <!ENTITY aboutSupport.modifiedPrefsName "Nazwa">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wartość">
 
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferencje user.js">
 <!ENTITY aboutSupport.userJSDescription "Folder profilu użytkownika zawiera <a id='prefs-user-js-link'>plik user.js</a> z preferencjami, które nie zostały utworzone przez program &brandShortName;.">
 
