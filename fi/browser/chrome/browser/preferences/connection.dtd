@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Yhteysasetukset">
-<!ENTITY  window.width                  "44em">
-<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Määritä välityspalvelinasetukset">
 <!ENTITY  noProxyTypeRadio.label        "Ei välityspalvelinta">
