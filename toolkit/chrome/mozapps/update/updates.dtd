@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "No se pudo aplicar la actualización parcial. &brandShortName; volverá a intentarlo descargando la actualización completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si hay una actualización disponible. Por favor, asegúrate de que tienes la última versión de &brandShortName; en:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Algo esta impidiendo a &brandShortName; hacer una actualización de seguridad. Por favor, asegúrate de que tienes la última versión de &brandShortName; en:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Algo esta tratando de engañar a &brandShortName; para que acepte una actualización insegura. Ponte en contacto con tu proveedor de red y busca ayuda.">
 
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización se instalará la próxima vez que inicies &brandShortName;. Puedes reiniciar  &brandShortName; ahora, o continuar trabajando y reiniciarlo más tarde.">
