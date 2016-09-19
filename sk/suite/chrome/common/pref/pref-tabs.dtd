@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabHeader.label "Prehliadanie na kartách">
+
 <!ENTITY tabDisplay.label "Zobrazovanie kariet">
 <!ENTITY autoHide.label "Skryť panel kariet, ak je otvorená len jedna karta">
-<!ENTITY autoHide.accesskey "S">
 <!ENTITY background.label "Prepnúť na nové karty otvorené z odkazov">
 <!ENTITY background.accesskey "e">
 <!ENTITY warnOnClose.label "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnOnClose.accesskey "U">
 <!ENTITY relatedAfterCurrent.label "Príbuzné karty otvárať za aktuálnou kartou">
 <!ENTITY relatedAfterCurrent.accesskey "b">
+
 <!ENTITY loadGroup.label "Pri otváraní skupiny záložiek">
 <!ENTITY loadGroupAppend.label "Pridať karty">
 <!ENTITY loadGroupAppend.accesskey "d">
 <!ENTITY loadGroupReplace.label "Nahradiť existujúce karty">
 <!ENTITY loadGroupReplace.accesskey "h">
+
 <!ENTITY openTabs.label "Otvoriť karty namiesto okien po">
+

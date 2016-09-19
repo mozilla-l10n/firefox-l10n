@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Všetky typy údajov">
 <!ENTITY select.cookies.label "Len súbory cookies">
 <!ENTITY select.permissions.label "Len povolenia">
-<!ENTITY select.permissionspwd.label "Len oprávnenia hesiel">
 <!ENTITY select.preferences.label "Len nastavenia">
 <!ENTITY select.passwords.label "Len heslá">
 <!ENTITY select.storage.label "Len úložisko">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Povolenia">
-<!ENTITY tab.permissionspwd.label "Oprávnenia hesiel">
 <!ENTITY tab.preferences.label "Nastavenia">
 <!ENTITY tab.passwords.label "Heslá">
 <!ENTITY tab.storage.label "Úložisko">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "Zadajte názov servera">
 <!ENTITY perm.button.add.label "Pridať">
 <!ENTITY perm.button.add.accesskey "P">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "Použiť predvolené">
-<!ENTITY permpwd.AskAlways "Vždy sa opýtať">
-<!ENTITY permpwd.NeverSave "Nikdy neukladať">
-
-<!ENTITY permpwd.host.placeholder "Zadajte názov servera">
-<!ENTITY permpwd.button.add.label "Pridať">
-<!ENTITY permpwd.button.add.accesskey "P">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Nastavenia obsahu je spôsob, akým &brandShortName; ukladá nastavenia ako úroveň priblíženia stránky osobitne pre každú stránku.">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Povolenia">
 <!ENTITY forget.permissions.accesskey "P">
-<!ENTITY forget.permissionspwd.label "Oprávnenia hesiel">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Nastavenia pre obsah">
 <!ENTITY forget.preferences.accesskey "N">
 <!ENTITY forget.passwords.label "Heslá">

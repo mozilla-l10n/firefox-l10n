@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "Pridať">
 <!ENTITY button.addFeed.accesskey    "P">
-<!ENTITY button.editFeed.label       "Upraviť">
-<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Odstrániť">
 <!ENTITY button.removeFeed.accesskey "d">
 <!ENTITY button.importOPML.label     "Importovať">
