@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ρυθμίσεις σύνδεσης">
-<!ENTITY  window.width                  "49em">
-<!ENTITY  window.macWidth               "49em">
 
 <!ENTITY  proxyTitle.label              "Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο">
 <!ENTITY  noProxyTypeRadio.label        "Χωρίς διαμεσολαβητή">
