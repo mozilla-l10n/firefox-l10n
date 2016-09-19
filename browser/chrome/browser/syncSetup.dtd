@@ -10,7 +10,7 @@
 <!ENTITY button.createNewAccount.label "Cipta Akaun Baru">
 <!ENTITY button.haveAccount.label      "Saya Ada Akaun">
 
-<!ENTITY setup.choicePage.title.label     "Pernahkah anda menggunakan &syncBrand.fullName.label; sebelum ini?">
+<!ENTITY setup.choicePage.title.label     "Adakah anda pernah menggunakan &syncBrand.fullName.label; sebelum ini?">
 <!ENTITY setup.choicePage.new.label       "Saya tidak pernah menggunakan &syncBrand.shortName.label; sebelum ini">
 <!ENTITY setup.choicePage.existing2.label "Saya sudah pun menggunakan &syncBrand.shortName.label; pada peranti yang lain">
 
@@ -46,7 +46,7 @@
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Prihatin Tentang Privasi Anda">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Untuk menjamin privasi anda, semua data anda akan disulitkan sebelum dimuat naik. Kunci pemulihan diperlukan untuk menyahsulitkan data anda yang tidak dimuat naikkan lagi.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Untuk menjamin privasi anda, semua data anda akan dienkripsi sebelum dimuat naik. Kunci pemulihan diperlukan untuk menyahenkripsi data anda tidak dimuat naik.">
 <!ENTITY recoveryKeyEntry.label        "Kekunci Pemulihan Anda">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Jana kekunci yang baru">
