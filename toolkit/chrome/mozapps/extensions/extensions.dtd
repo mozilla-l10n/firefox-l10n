@@ -165,8 +165,8 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nama">
 <!ENTITY sort.name.tooltip                    "Susun mengikut nama">
-<!ENTITY sort.dateUpdated.label               "Pengemaskinian terakhir">
-<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemaskini">
+<!ENTITY sort.dateUpdated.label               "Kemas kini Terakhir">
+<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemas kini">
 <!ENTITY sort.relevance.label                 "Padanan terbaik">
 <!ENTITY sort.relevance.tooltip               "Susun mengikut kaitan">
 <!ENTITY sort.price.label                     "Harga">
