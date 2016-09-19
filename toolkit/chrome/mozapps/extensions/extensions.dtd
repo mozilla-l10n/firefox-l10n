@@ -1,22 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Pengurus Add-on">
+<!ENTITY addons.windowTitle                   "Pengurus Add-ons">
 
-<!ENTITY search.placeholder                   "Cari semua add-on">
+<!ENTITY search.placeholder                   "Cari semua add-ons">
 <!ENTITY search.buttonlabel                   "Cari">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Memuatkan...">
-<!ENTITY listEmpty.installed.label            "Anda tidak mempunyai sebarang jenis Add-ons ini yang terpasang">
+<!ENTITY listEmpty.installed.label            "Anda tidak mempunyai add-ons jenis ini yang dipasang">
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemui sebarang add-on yang berpasangan">
 <!ENTITY listEmpty.button.label               "Ketahui selanjutnya mengenai add-ons">
-<!ENTITY installAddonFromFile.label           "Pasang Add-on Dari Fail...">
+<!ENTITY installAddonFromFile.label           "Pasang Add-ons Dari Fail…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Alatan untuk semua add-on">
 
@@ -39,19 +39,19 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Cari">
-<!ENTITY view.discover.label                  "Dapatkan Add-on">
+<!ENTITY view.discover.label                  "Dapatkan Add-ons">
 <!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
 <!ENTITY view.availableUpdates.label          "Kemaskini tersedia">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Semakan pengemaskinian terkini">
+<!ENTITY updates.checkForUpdates.label        "Semak Kemas kini">
 <!ENTITY updates.checkForUpdates.accesskey    "e">
 <!ENTITY updates.viewUpdates.label            "Papar Kemas kini Terbaru">
 <!ENTITY updates.viewUpdates.accesskey        "P">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Kemaskini Add-on secara automatik">
+<!ENTITY updates.updateAddonsAutomatically.label     "Kemas kini Add-ons secara Automatik">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -143,7 +143,7 @@
 <!ENTITY detail.repository                    "Profil add-on">
 <!ENTITY detail.size                          "Saiz">
 
-<!ENTITY detail.checkForUpdates.label         "Semakan pengemaskinian terkini">
+<!ENTITY detail.checkForUpdates.label         "Semak Kemas kini">
 <!ENTITY detail.checkForUpdates.accesskey     "n">
 <!ENTITY detail.checkForUpdates.tooltip       "Periksa kemas kini bagi add-on ini">
 <!ENTITY detail.showPreferencesWin.label      "Pilihan">
