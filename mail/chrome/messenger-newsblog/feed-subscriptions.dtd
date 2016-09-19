@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "Amestar">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Editar">
-<!ENTITY button.editFeed.accesskey   "E">
 <!ENTITY button.removeFeed.label     "Desaniciar">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Importar">
