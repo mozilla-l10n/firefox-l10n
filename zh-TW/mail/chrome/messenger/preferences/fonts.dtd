@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "高棉文">
 <!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆文">
 <!ENTITY  font.langGroup.math                     "數學方程式">
-<!ENTITY  font.langGroup.oriya                    "奧里亞文">
 <!ENTITY  font.langGroup.telugu                   "泰盧固文">
 <!ENTITY  font.langGroup.kannada                  "康納達文">
 <!ENTITY  font.langGroup.sinhala                  "僧加羅文">
@@ -78,4 +77,3 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
 <!ENTITY replyInDefaultCharset3.label     "可用時，在回信中使用預設文字編碼">
 <!ENTITY replyInDefaultCharset3.accesskey "h">
-

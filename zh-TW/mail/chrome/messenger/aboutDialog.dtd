@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title          "關於 &brandFullName;">
 
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "重新啟動 &brandShortName; 進行更新">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "套用更新…">
-<!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -108,4 +106,3 @@
 <!ENTITY channel.description.end    " 更新頻道。">
 
 <!ENTITY cmdCloseMac.commandKey "w">
-

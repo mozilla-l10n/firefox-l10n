@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "新增">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "更新">
-<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "移除">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "匯入">
@@ -41,4 +39,3 @@
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "關閉">
-
