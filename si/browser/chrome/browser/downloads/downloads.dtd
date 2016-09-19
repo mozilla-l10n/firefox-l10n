@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ඉතිහාසයෙන් ඉවත් කරන්න (e)">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "ලැයිස්තුව හිස් කරන්න">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "බාගතකිරීම් පිරිසිදු කරන්න (D)">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "සියළු බාගත කිරීම් පෙන්වන්න">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "බාගතකිරීම් පිරිසිදු කරන්න">
 <!ENTITY clearDownloadsButton.tooltip     "සම්පූර්ණ, අවලංගු කළ හා අසාර්ථක බාගැනීම් පිරිසිදු කරයි">

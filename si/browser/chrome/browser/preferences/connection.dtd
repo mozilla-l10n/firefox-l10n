@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "සම්බන්ධතාවයේ සැකසුම්">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "අන්තර්ජාල ප්‍රවේශයට ප්‍රොක්සි සැකසුම්">
 <!ENTITY  noProxyTypeRadio.label        "ප්‍රොක්සි නැත">

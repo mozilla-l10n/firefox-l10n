@@ -56,10 +56,6 @@ install software on this computer.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; හට යාවත් කාලයක් පවතීදැයි හඳුනාගත නොහැක. කරුණාකර
                                           ඔබ සතුව &brandShortName; නවතම නිකුතුව පවතී දැයි බලන්න:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; ආරක්ෂීතව යාවත්කාලීන කිරීම කිසිවක් විසින් වළකාලයි. 
- &brandShortName;  හි නවතම නිකුතුව ඔබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
-<!ENTITY  errorCertAttrHasUpdate.label    "කිසිවක් විසින් අනාරක්ෂිත යාවත්කාලීන කිරීමක් පිළිගැනීම සඳහා  &brandShortName; 
- යොමුකිරීමට උත්සාහ දරයි. උදව් සඳහා ජාල සැපයුම්කරු සම්බන්ධ කරගන්න.">
 
 <!ENTITY  finishedPage.title              "යාවත් කිරීම ස්ථාපනයට සූදානම්">
 <!ENTITY  finishedPage.text               "යාවත් කිරීම් ස්ථාපනය &brandShortName; මීළඟට ආරම්භ වූ විට සිදු වේ. ඔබට දැන් 
