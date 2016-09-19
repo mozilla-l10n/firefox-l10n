@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ისტორიიდან წაშლა">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "სიის გასუფთავება">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "ჩამოტვირთვების გასუფთავება">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "ყველა ჩამოტვირთვის ჩვენება">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "ჩამოტვირთვების გასუფთავება">
 <!ENTITY clearDownloadsButton.tooltip     "ასუფთავებს დასრულებულ, გაუქმებულ და ჩაშლილ ჩამოტვირთვებს">
