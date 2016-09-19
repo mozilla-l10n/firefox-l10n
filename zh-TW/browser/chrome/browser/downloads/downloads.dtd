@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "自下載記錄移除">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "清空下載清單">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "清空下載清單">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +107,7 @@
 <!ENTITY downloadsHistory.label           "顯示所有下載">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+
 <!ENTITY clearDownloadsButton.label       "清空下載清單">
 <!ENTITY clearDownloadsButton.tooltip     "清除失敗、已取消、已完成的下載項目">
 
@@ -128,4 +127,3 @@
      results in the Downloads view.
      -->
 <!ENTITY downloadsListNoMatch.label       "找不到任何符合的下載項目。">
-

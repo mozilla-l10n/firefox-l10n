@@ -70,9 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "顯示於 Finder">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "開啟資料夾">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "已修改的重要偏好設定">
 <!ENTITY aboutSupport.modifiedPrefsName "名稱">
@@ -120,4 +119,3 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "決策紀錄">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "因 Crash Guard 停用的功能">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
-
