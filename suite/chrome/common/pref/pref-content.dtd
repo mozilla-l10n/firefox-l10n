@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "Íconos del sitio web">
 <!ENTITY useSiteIcons.label                     "Mostrar íconos del sitio web">
 <!ENTITY useSiteIcons.accesskey                 "s">
-<!ENTITY useFavIcons.label                      "Buscar íconos del sitio web más profundamente cuando la página no defina uno">
-<!ENTITY useFavIcons.accesskey                  "a">
 
 <!ENTITY scrolling.label                        "Desplazamiento">
 <!ENTITY useAutoScroll.label                    "Usar desplazamiento automático">
