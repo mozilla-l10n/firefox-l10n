@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "​ទំហំថេរ ៖">
 <!ENTITY  monospace.accesskey                     "រ">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "ឡាតាំង">
 <!ENTITY  font.langGroup.japanese                 "ជប៉ុន">
 <!ENTITY  font.langGroup.trad-chinese             "ភាសា​ចិន​បុរាណ (តៃវ៉ាន់)">
@@ -56,8 +56,8 @@
 <!ENTITY minSize.label                            "​ទំហំ​ពុម្ព​អក្សរ​អប្បបរមា ៖">
 <!ENTITY minSize.accesskey                        "ព">
 <!ENTITY minSize.none                             "គ្មាន">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 

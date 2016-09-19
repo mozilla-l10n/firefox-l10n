@@ -26,9 +26,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ">
 <!ENTITY showAllExtensions.button.label       "បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់">
 
-
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។">
 <!ENTITY warning.checkcompatibility.label          "ការ​ត្រួតពិនិត្យ​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​មាន​កម្មវិធី​បន្ថែម​ដែល​មិន​ឆប​គ្នា ។">
 <!ENTITY warning.checkcompatibility.enable.label   "បើក">
@@ -36,14 +34,14 @@
 <!ENTITY warning.updatesecurity.label              "ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។">
 <!ENTITY warning.updatesecurity.enable.label       "បើក">
 <!ENTITY warning.updatesecurity.enable.tooltip     "បើក​ការ​ត្រួតពិនិត្យមើល​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "ស្វែងរក">
 <!ENTITY view.discover.label                  "យក​កម្មវិធី​បន្ថែម">
 <!ENTITY view.recentUpdates.label             "បច្ចុប្បន្នភាព​ថ្មី​ៗ">
 <!ENTITY view.availableUpdates.label          "មាន​បច្ចុប្បន្នភាព">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ពិនិត្យមើល​បច្ចុប្បន្នភាព">
 <!ENTITY updates.checkForUpdates.accesskey    "ព">
 <!ENTITY updates.viewUpdates.label            "មើល​បច្ចុប្បន្នភាព​ថ្មីៗ">
@@ -71,8 +69,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "មើល​បច្ចុប្បន្នភាព​ដែល​មាន">
 <!ENTITY updates.updateSelected.label         "ដំឡើង​បច្ចុប្បន្នភាព">
 <!ENTITY updates.updateSelected.tooltip       "ដំឡើង​បច្ចុប្បន្នភាព​ដែល​មាន​នៅ​ក្នុង​បញ្ជី​នេះ">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "បង្ហាញ​ព័ត៌មាន​បន្ថែម">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "រក​បច្ចុប្បន្នភាព">
@@ -115,15 +113,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "បង្ហាញ​ឯកសារ​ចេញផ្សាយ​សម្រាប់​បច្ចុប្បន្នភាព​នេះ">
 <!ENTITY cmd.hideReleaseNotes.label           "លាក់​ឯកសារ​ចេញផ្សាយ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "លាក់​ឯកសារ​ចេញផ្សាយ​សម្រាប់​បច្ចុប្បន្នភាព​នេះ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "តើ​អ្វី​ជា​កម្មវិធី​បន្ថែម ?">
 <!ENTITY discover.description2                "កម្មវិធី​បន្ថែម គឺជា​កម្មវិធី​ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្លាស់ប្ដូរ &brandShortName; ដែល​មាន​ មុខងារ ឬ​រចនាប័ទ្ម​ផ្សេងៗ​ទៀត​តាម​តម្រូវការ​ ។ សាកល្បង​ប្រើ​របារ​ចំហៀង​សន្សំ​ពេលវេលា កម្មវិធី​ជូនដំណឹង​អំពី​អាកាសធាតុ ឬ​រូបរាង​ស្បែក​ដើម្បី​ធ្វើឲ្យ &brandShortName; មាន​លក្ខណៈ​ជា​​របស់​អ្នក​ផ្ទាល់ ។">
 <!ENTITY discover.footer                      "នៅ​ពេល​ដែល​អ្នក​បាន​តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត បន្ទះ​នេះ​នឹង​ធ្វើឲ្យ​​ កម្មវិធី​បន្ថែម​ដ៏​ពេញ​និយម​មួយចំនួន​របស់​អ្នក​មាន​លក្ខណៈ​កាន់តែ​ពិសេស​ឡើង​សម្រាប់​​អ្នក​ព្យាយាម។">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "កំណែ">
 <!ENTITY detail.lastupdated.label             "បាន​ធ្វើ​បច្ចុប្បន្នភាព​លើក​ចុងក្រោយ">
 <!ENTITY detail.creator.label                 "អ្នក​អភិវឌ្ឍន៍">
@@ -152,17 +150,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "ចំណូលចិត្ត">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "ការ​វាយតម្លៃ">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ផ្អាក">
 <!ENTITY progress.cancel.tooltip              "បោះបង់">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "ឈ្មោះ">
 <!ENTITY sort.name.tooltip                    "តម្រៀប​តាម​ឈ្មោះ">
 <!ENTITY sort.dateUpdated.label               "បាន​ធ្វើ​បច្ចុប្បន្នភាព​លើក​ចុងក្រោយ">
@@ -215,12 +213,12 @@
 <!ENTITY eula.accept                          "យល់ព្រម និង​ដំឡើង...">
 
 <!ENTITY settings.path.button.label           "រក​មើល…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "តើ​នេះ​ជា​អ្វី? Telemetry អាច​ដំឡើង និង​ដំណើរការ​ការ​សាកល្បង​ពី​ពេល​មួយ​ទៅ​ពេល​មួយ។">
 <!ENTITY experiment.info.learnmore "សិក្សា​​បន្ថែម">
 <!ENTITY experiment.info.learnmore.accesskey "L">
