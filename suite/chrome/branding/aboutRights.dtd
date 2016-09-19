@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c "了解更多关于商标的信息。">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "&brandShortName; 的一些功能（例如崩溃报告器）使您可以向 &vendorShortName; 提供反馈。提交反馈的同时，您授权 &vendorShortName; 和 Mozilla 使用反馈信息改进其应用程序、在其网站上发布反馈信息，以及分发反馈内容。">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "单击">
@@ -43,6 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; 提供可选的基于网络的服务，您可在如下所述的 &brandShortName; 二进制版本中使用这些功能。一些服务（例如附加组件的推荐和更新服务、安全浏览服务、位置感知浏览及通知功能）是默认启用。如果您完全不想使用这些服务，或者无法接受如下条款，您可以禁用服务，操作方法见">
 <!ENTITY rights3.webservices-b "这里">
 <!ENTITY rights3.webservices-c "。其他功能和服务可以在应用程序首选项中启用或禁用。">
 
@@ -64,12 +66,14 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "位置感知浏览：">
+<!ENTITY rights.locationawarebrowsing-b "始终可选退出。没有位置信息会未经您的授权发送。如果您希望完全禁用此功能，请按照下列步骤操作：">
 <!ENTITY rights.locationawarebrowsing-term1 "打开应用程序首选项">
 <!ENTITY rights.locationawarebrowsing-term2 "选择主要 &security.label; 面板">
 <!ENTITY rights.locationawarebrowsing-term3 "选择”&geoDisabled.label;“的选项">
 <!ENTITY rights.locationawarebrowsing-term4 "位置感知浏览现在已禁用">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; 和与 Mozilla 相关的贡献者、许可者以及合作伙伴一起致力于提供最精确和最新的服务。然而，我们并不保证信息是全面且毫无错误的。例如我们的安全浏览服务可能还不能识别出部分危险的网站，甚至还可能出错而误判一些安全的网站，以及由我们的位置感知服务商提供的位置也仅仅是一个大概的位置。我们和我们的服务提供商都不为位置信息的准确性提供保证。">
 <!ENTITY rights.webservices-term1 "&vendorShortName; 可以保留中止或修改服务的权利。">
 <!ENTITY rights.webservices-term2 "欢迎通过 &brandShortName; 使用这些服务，并且您完全有权利使用。 &vendorShortName; 以及其授权者保留服务的所有其他的权利。这些条款并非用于限制任何开源许可给予您关于 &brandShortName; 的权利，而且是与 &brandShortName; 源代码条款一致。">
 <!ENTITY rights.webservices-term3 "本服务是由 &vendorShortName; 及其贡献者、授权者和分销者提供，拒绝所有担保，无论明示或暗示，包括但不限于保证该服务是可交易或适合您的特定目的的担保。您承担选择适合您目的、质量和性能要求之服务的全部风险。某些司法管辖区不允许除外或限制隐含的保证，因此，此免责声明可能对您不适用。">
