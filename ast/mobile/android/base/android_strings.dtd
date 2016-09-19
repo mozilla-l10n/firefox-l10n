@@ -831,3 +831,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Marca elementos de la to vista de llectura pa lleelos ensin conexón.">
 <!ENTITY helper_triple_readerview_open_button "Amestar a Marcadores">
 
+<!ENTITY activity_stream_topsites "Sitios más visitaos">
+<!ENTITY activity_stream_highlights "Destacao">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "Más">
