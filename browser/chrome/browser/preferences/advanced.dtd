@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Ďalšie informácie">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť prehliadač stabilnejším a bezpečnejším.">
-<!ENTITY enableCrashReporter.label       "Povoliť správy o zlyhaní">
-<!ENTITY enableCrashReporter.accesskey   "z">
-<!ENTITY crashReporterLearnMore.label    "Ďalšie informácie">
+<!ENTITY crashReporterLearnMore.label     "Ďalšie informácie">
 
 <!ENTITY networkTab.label                "Sieť">
 
