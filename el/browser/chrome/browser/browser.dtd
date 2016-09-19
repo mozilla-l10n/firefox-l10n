@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία αυτού του σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Εκτύπωση αυτής της σελίδας">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Πληροφορίες ιστοσελίδας">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Δείτε μία ειδοποίηση">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Δείτε το αίτημα διαμοιρασμού τοποθεσίας">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Δείτε το μήνυμα εγκατάστασης του πρόσθετου">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Προβολή του μηνύματος για τον εκτός σύνδεσης αποθηκευτικό χώρο της εφαρμογής">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Διαχειριστείτε τα στοιχεία σύνδεσής σας">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Επιλέξτε εάν θέλετε να αποθηκεύσετε τον κωδικό πρόσβασής σας">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Διαχείριση χρήσης του πρόσθετου στη συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Επιλέξτε αν επιθυμείτε να λαμβάνετε ειδοποιήσεις από τον ιστότοπο">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Διαχείριση διαμοιρασμού της κάμερας ή/και του μικροφώνου σας με τη συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Μοιράζεστε την κάμερα ή/και το μικρόφωνο σας με τη συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Διαχείριση διαμοιρασμού του μικροφώνου με τη συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Μοιράζεστε το μικρόφωνο σας με την συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Διαχείριση διαμοιρασμού του παραθύρου ή της οθόνης σας με τη συγκεκριμένη σελίδα">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Μοιράζεστε το παράθυρο ή την οθόνη σας με τη συγκεκριμένη σελίδα">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Επιλέξτε αν επιθυμείτε να επιτρέπετε στον ιστότοπο να κρύβει τον δείκτη">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Προβολή του μηνύματος εγκατάστασης της υπηρεσίας">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Μετέφρασε αυτή τη σελίδα">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Διαχείριση μετάφρασης της σελίδας">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Διαχείριση της χρήσης του λογισμικού DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
+
 
 <!ENTITY searchItem.title             "Αναζήτηση">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Ερώτημα αναζήτησης">
-<!ENTITY contentSearchSubmit.label    "Υποβολή ερωτήματος">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
 <!ENTITY syncToolbarButton.label      "Συγχρονισμός">
 
-<!ENTITY socialToolbar.title        "Κουμπί εργαλειοθήκης κοινωνικής δικτύωσης">
-
-<!ENTITY social.ok.label       "ΟΚ">
-<!ENTITY social.ok.accesskey   "Ο">
-
-<!ENTITY social.toggleSidebar.label "Προβολή πλευρικής στήλης">
-<!ENTITY social.toggleSidebar.accesskey "σ">
-
 <!ENTITY social.addons.label "Διαχείριση υπηρεσιών…">
-
-<!ENTITY social.toggleNotifications.label "Προβολή ειδοποιήσεων">
-<!ENTITY social.toggleNotifications.accesskey "ν">
-
-<!ENTITY social.learnMore.label "Μάθετε περισσότερα…">
-<!ENTITY social.learnMore.accesskey "λ">
 
 <!ENTITY social.directory.label "Κατάλογος Ενεργοποιήσεων">
 <!ENTITY social.directory.text "Μπορείτε να ενεργοποιήσετε τις υπηρεσίες Κοινοποίησης από τον κατάλογο.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "μ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Λήψη περισσότερων θεμάτων">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "γ">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Εστίαση στις συζητήσεις">
-<!ENTITY social.chatBar.accesskey "ψ">
-
-<!ENTITY social.markpageMenu.accesskey "Π">
-<!ENTITY social.markpageMenu.label "Αποθήκευση σελίδας στο…">
-<!ENTITY social.marklinkMenu.accesskey "λ">
-<!ENTITY social.marklinkMenu.label "Αποθήκευση δεσμού στο…">
 
 <!ENTITY getUserMedia.selectCamera.label "Μοιραστείτε την κάμερα:">
 <!ENTITY getUserMedia.selectCamera.accesskey "Ψ">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingContentBlocked.block.accesskey "Ε">
 <!ENTITY trackingContentBlocked.disabled.message "Η προστασία δεδομένων περιήγησης είναι απενεργοποιημένη">
-
-<!ENTITY pointerLock.notification.message "Πατήστε οποιαδήποτε στιγμή ESC για να εμφανιστεί ξανά.">
 
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">

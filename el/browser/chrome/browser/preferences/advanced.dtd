@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "λ">
 <!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
 
-<!ENTITY crashReporterDesc.label         "Ο &brandShortName; υποβάλλει αναφορές καταρρεύσεων στον &vendorShortName; για την βελτίωση της σταθερότητας και της ασφάλειας του περιηγητή σας">
-<!ENTITY enableCrashReporter.label       "Ενεργοποίηση αναφορών καταρρεύσεων">
-<!ENTITY enableCrashReporter.accesskey   "γ">
-<!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
+<!ENTITY crashReporterLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY networkTab.label                "Δίκτυο">
 

@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "δ">
 <!ENTITY cmd.removeFromHistory.label      "Απομάκρυνση από το ιστορικό">
 <!ENTITY cmd.removeFromHistory.accesskey  "υ">
-<!ENTITY cmd.clearList.label              "Εκκαθάριση λίστας">
-<!ENTITY cmd.clearList.accesskey          "θ">
 <!ENTITY cmd.clearDownloads.label         "Εκκαθάριση λήψεων">
 <!ENTITY cmd.clearDownloads.accesskey     "θ">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Εμφάνιση όλων των λήψεων">
 <!ENTITY downloadsHistory.accesskey       "μ">
+
 
 <!ENTITY clearDownloadsButton.label       "Εκκαθάριση λήψεων">
 <!ENTITY clearDownloadsButton.tooltip     "Απομακρύνει από τη λίστα τις ολοκληρωμένες, ακυρωμένες και αποτυχημένες λήψεις">
