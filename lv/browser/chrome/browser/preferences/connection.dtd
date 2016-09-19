@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Savienojuma iestatījumi">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigurēt starpniekserverus (proxy)">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxy">
