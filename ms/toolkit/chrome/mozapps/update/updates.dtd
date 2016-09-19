@@ -11,7 +11,10 @@
 <!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan  &brandShortName;'s penyemakan penambahbaikan automatik">
 
 <!ENTITY  manualUpdate.title              "Kemaskini tidak boleh dilakukan">
-<!ENTITY  manualUpdate.desc               "Satu kemaskini perlindungan dan kestabilan yang disyorkan sudah tersedia, tetapi anda tidak mempunyai kebenaran sistem yang diperlukan untuk memasangnya. Sila hubungi pentadbir sistem anda, atau cuba lagi dengan sebuah akaun yang mempunyai kebenaran memasang perisian pada komputer ini.">
+<!ENTITY  manualUpdate.desc               "Kemas kini keselamatan dan kestabilan sudah tersedia, tetapi anda
+                                           tidak ada izin sistem yang diperlukan untuk memasangnya. Sila hubungi
+                                           pentadbir sistem anda, atau cuba lagi dari akaun yang ada izin untuk
+                                           memasang perisian ini dalam komputer ini.">
 <!ENTITY  manualUpdate.space.desc         "Satu kemaskini keselamatan dan kestabilan yang disarankan sudah tersedia, tetapi anda tidak mempunya ruang yang cukup untuk memasangnya.">
 <!ENTITY  manualUpdateGetMsg.label        "Anda sentiasa boleh mendapatkan versi terkini &brandShortName; di:">
 

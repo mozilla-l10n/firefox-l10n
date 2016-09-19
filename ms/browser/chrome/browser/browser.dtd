@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "Alih keluar Pengecualian">
 <!ENTITY identity.removeCertException.accesskey "R">
 
-<!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
+<!ENTITY identity.moreInfoLinkText2 "Maklumat Lanjut">
 
 <!ENTITY identity.permissions "Keizinan">
 <!ENTITY identity.permissionsEmpty "Anda tidak memberikan laman ini sebarang keizinan khas.">
