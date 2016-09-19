@@ -14,7 +14,7 @@
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
-<!ENTITY listEmpty.search.label               "Tidak dapat menemui sebarang add-on yang berpasangan">
+<!ENTITY listEmpty.search.label               "Tidak dapat mencari add-ons yang sepadan">
 <!ENTITY listEmpty.button.label               "Ketahui selanjutnya mengenai add-ons">
 <!ENTITY installAddonFromFile.label           "Pasang Add-ons Dari Fail…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -77,7 +77,7 @@
 <!ENTITY cmd.showDetails.accesskey            "p">
 <!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
 <!ENTITY cmd.findUpdates.accesskey            "k">
-<!ENTITY cmd.preferencesWin.label             "Opsyen">
+<!ENTITY cmd.preferencesWin.label             "Pilihan">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Keutamaan">
 <!ENTITY cmd.preferencesUnix.accesskey        "m">
@@ -103,7 +103,7 @@
 <!ENTITY cmd.installAddon.accesskey           "g">
 <!ENTITY cmd.uninstallAddon.label             "Alih keluar">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Opsyen">
+<!ENTITY cmd.showPreferencesWin.label         "Pilihan">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Tukarkan keutamaan add-on's ini">
@@ -172,14 +172,14 @@
 <!ENTITY sort.price.label                     "Harga">
 <!ENTITY sort.price.tooltip                   "Susun mengikut harga">
 
-<!ENTITY search.filter2.label                 "Carian:">
+<!ENTITY search.filter2.label                 "Cari:">
 <!ENTITY search.filter2.installed.label       "Add-on saya">
 <!ENTITY search.filter2.installed.tooltip     "Papar add-ons terpasang">
 <!ENTITY search.filter2.available.label       "Add-ons yang didapati">
 <!ENTITY search.filter2.available.tooltip     "Papar add-ons yang sedia untuk dipasang">
 
 <!ENTITY addon.homepage                       "Homepage">
-<!ENTITY addon.details.label                  "Lebih banyak">
+<!ENTITY addon.details.label                  "Selanjutnya">
 <!ENTITY addon.details.tooltip                "Papar butiran lanjut add-on ini">
 <!ENTITY addon.unknownDate                    "Tidak diketahui">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
@@ -214,7 +214,7 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Terima dan Pasang ...">
 
-<!ENTITY settings.path.button.label           "Carian…">
+<!ENTITY settings.path.button.label           "Cari…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
