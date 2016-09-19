@@ -54,10 +54,6 @@
   -  tooltip for the button that toggles the promise debugger. -->
 <!ENTITY debuggerUI.sources.togglePromiseDebugger "Activer/Désactiver le débogueur de promesses">
 
-<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
-  - the button to start execution tracing. -->
-<!ENTITY debuggerUI.startTracing "Démarrer l’enregistrement des traces">
-
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!ENTITY debuggerUI.clearButton "Effacer">

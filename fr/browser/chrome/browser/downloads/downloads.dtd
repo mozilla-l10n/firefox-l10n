@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
 <!ENTITY cmd.removeFromHistory.label      "Retirer de l’historique">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Effacer la liste">
-<!ENTITY cmd.clearList.accesskey          "l">
+<!ENTITY cmd.clearList2.label             "Effacer le panneau d’aperçu">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Vider la liste des téléchargements">
 <!ENTITY cmd.clearDownloads.accesskey     "V">
 
@@ -109,6 +109,9 @@
      -->
 <!ENTITY downloadsHistory.label           "Afficher tous les téléchargements">
 <!ENTITY downloadsHistory.accesskey       "i">
+
+<!ENTITY openDownloadsFolder.label        "Ouvrir le dossier des téléchargements">
+
 
 <!ENTITY clearDownloadsButton.label       "Vider la liste des téléchargements">
 <!ENTITY clearDownloadsButton.tooltip     "Vider la liste des téléchargements terminés, annulés et qui ont échoué">

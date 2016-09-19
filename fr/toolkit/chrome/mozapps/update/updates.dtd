@@ -42,10 +42,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne parvient pas à déterminer si une mise à jour est disponible. Veuillez
                                            vous assurer que vous disposez de la dernière version de &brandShortName; à :">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Quelque chose empêche &brandShortName; de se mettre à jour de manière sûre.
-                                           Veuillez vous assurer que vous disposez de la dernière version de &brandShortName; à :">
-<!ENTITY  errorCertAttrHasUpdate.label    "Quelque chose essaie de duper &brandShortName; en lui proposant une mise à jour
-                                           non sûre. Veuillez contacter votre fournisseur de réseau pour demander de l’aide.">
 
 <!ENTITY  finishedPage.title              "Mise à jour prête à être installée">
 <!ENTITY  finishedPage.text               "La mise à jour sera installée au prochain démarrage de &brandShortName;. Vous pouvez

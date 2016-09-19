@@ -106,7 +106,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Paramètres…">
 <!ENTITY  clearOnCloseSettings.accesskey "P">
 
-<!ENTITY  browserContainersHeader.label         "Onglets conteneurs">
+<!ENTITY  browserContainersHeader.label         "Onglets contextuels">
 <!ENTITY  browserContainersLearnMore.label      "En savoir plus">
-<!ENTITY  browserContainersEnabled.label        "Activer les onglets conteneurs">
+<!ENTITY  browserContainersEnabled.label        "Activer les onglets contextuels">
 <!ENTITY  browserContainersEnabled.accesskey    "a">
