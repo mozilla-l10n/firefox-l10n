@@ -828,3 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "加入书签的阅读视图项目可以离线阅读。">
 <!ENTITY helper_triple_readerview_open_button "添加书签">
 
+<!ENTITY activity_stream_topsites "常用网站">
+<!ENTITY activity_stream_highlights "高亮">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "更多">
