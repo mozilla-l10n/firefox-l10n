@@ -39,10 +39,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може да утврди дали има достапна надградба.Проверете 
 дали ја имате најновата верзија на &brandShortName; од:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Нешто го спречува &brandShortName; безбедно да се надгради. 
-Проверете дали ја имате најновата верзија на &brandShortName; од:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Нешто се обидува да го измами &brandShortName; со цел да прифати 
-небезбедна надградба. За помош контактирајте со Вашиот провајдер.">
 
 <!ENTITY  finishedPage.title              "Надградбата е спремна за инсталирање">
 <!ENTITY  finishedPage.text               "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
