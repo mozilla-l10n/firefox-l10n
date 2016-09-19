@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "Ikony webových stránok">
 <!ENTITY useSiteIcons.label                     "Zobrazovať ikony webových stránok">
 <!ENTITY useSiteIcons.accesskey                 "Z">
-<!ENTITY useFavIcons.label                      "Agresívne hľadať ikony webových stránok, ak nie sú definované">
-<!ENTITY useFavIcons.accesskey                  "A">
 
 <!ENTITY scrolling.label                        "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label                    "Použiť automatický posun">

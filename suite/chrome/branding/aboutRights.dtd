@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
@@ -11,7 +10,7 @@
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
@@ -24,6 +23,8 @@
 <!ENTITY rights.intro-point2a "Mozilla vám nedáva právo na používanie ochranných známok a logotypov Mozilla a SeaMonkey. Ďalšie informácie o ochranných známkach získate ">
 <!ENTITY rights.intro-point2b "na tejto stránke">
 <!ENTITY rights.intro-point2c ".">
+
+<!-- point 2d is technically point 3. in the list -->
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Zásady ochrany súkromia pre produkty &vendorShortName; nájdete ">
@@ -42,9 +43,6 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; ponúka voliteľné služby (ďalej len &quot;Služby&quot;), ako napríklad službu navrhovania doplnkov či aktualizácie už nainštalovaných doplnkov alebo funkciu SafeBrowsing, ktoré je možné používať s touto binárnou verziou &brandShortName; tak, ako je popísané nižšie. Tieto Služby sú predvolene zapnuté. Ak nechcete tieto Služby používať alebo podmienky ich používania nie sú pre vás prijateľné, inštrukcie na vypnutie funkcie alebo Služby je možné nájsť ">
-<!ENTITY rights2.webservices-b "tu">
-<!ENTITY rights2.webservices-c ". Ďalšie funkcie a Služby je možné vypnúť v nastaveniach aplikácie.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služba Doplnky: ">
@@ -62,10 +60,13 @@
 <!ENTITY rights.safebrowsing-term3 "Zrušte označenie volieb &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Služba SafeBrowsing je teraz vypnutá">
 
-<!-- points 1-6 text for branded builds -->
+<!-- location aware browsing points for branded builds -->
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; môže zrušiť využívanie alebo zmeniť Služby podľa svojho uváženia.">
 <!ENTITY rights.webservices-term2 "Tieto Služby môžete využívať s priloženou verziou produktu &brandShortName;, na jej využívanie máte všetky potrebné práva. &vendorShortName; a jej poskytovatelia licencií si vyhradzujú všetky ostatné práva k Službám. Tieto podmienky používania neobmedzujú akékoľvek práva poskytnuté licenciou na softvér s otvoreným kódom použiteľné na &brandShortName; a príslušnú verziu zdrojového kódu produktu &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Služby sú poskytované &quot;ako sú&quot;. &vendorShortName;, jej prispievatelia, poskytovatelia licencií a distribútori týmto odmietajú všetky výslovné alebo predpokladané záruky zahrňujúce okrem iného záruku, že Služby sú predajné a spôsobilé na konkrétny účel. Nesiete všetko riziko vyplývajúce z výberu Služieb pre svoje účely týkajúce sa kvality a výkonu Služieb. Niektoré jurisdikcie neumožňujú vylúčenie alebo odmietnutie predpokladaných záruk, takže sa vás toto odmietnutie zodpovednosti nemusí týkať.">
 <!ENTITY rights.webservices-term4 "S výnimkou rozsahu určeného zákonom spoločnosť &vendorShortName;, jej prispievatelia, poskytovatelia licencií a distribútori nenesú zodpovednosť za žiadne nepriame, zvláštne, vedľajšie, náhodné, následné, trestné alebo exemplárne škody vzniknuté použitím produktu &brandShortName; a Služieb. Spoločná zodpovednosť vyplývajúca z týchto podmienok nepresiahne 500 USD (päťsto dolárov). Niektoré jurisdikcie neumožňujú vylúčenie alebo odmietnutie zodpovednosti za stanovené škody, takže sa vás toto odmietnutie zodpovednosti nemusí týkať.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; môže z času na čas podľa potreby upraviť tieto podmienky používania. Tieto podmienky používania nesmú byť upravené alebo zrušené bez písomnej dohody so spoločnosťou &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Tieto podmienky používania sa riadia zákonmi štátu Kalifornia, USA, s výnimkou jeho zákonných ustanovení, ktorá si protirečia. Ak bude niektorá časť týchto podmienok považovaná za neplatnú alebo nevynútiteľnú, platnosť zostávajúcich častí zostane úplne nedotknutá. V prípade rozdielov medzi lokalizovanou verziou a anglickým originálom je rozhodujúcim jazykom týchto podmienok anglický jazyk.">
+
