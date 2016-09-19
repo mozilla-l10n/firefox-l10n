@@ -51,10 +51,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne uspe preveriti, ali je na voljo posodobitev.
                                            Prepričajte se, da uporabljate najnovejšo različico &brandShortName;a:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName;a ni mogoče varno posodobiti.
-                                           Prepričajte se, da uporabljate najnovejšo različico &brandShortName;a:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Nekdo želi prelisičiti &brandShortName;, da bi sprejel
-                                           nevarno posodobitev. Za pomoč se obrnite na skrbnika vašega omrežja.">
 
 <!ENTITY  finishedPage.title              "Posodobitev je na voljo">
 <!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 

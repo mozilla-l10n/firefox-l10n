@@ -40,11 +40,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Odpni zavihek">
 <!ENTITY  unpinTab.accesskey                 "O">
-<!ENTITY  sendTabToDevice.label              "Pošlji zavihek v napravo">
+<!ENTITY  sendTabToDevice.label              "Pošlji zavihek na napravo">
 <!ENTITY  sendTabToDevice.accesskey          "N">
-<!ENTITY  sendPageToDevice.label             "Pošlji stran v napravo">
+<!ENTITY  sendPageToDevice.label             "Pošlji stran na napravo">
 <!ENTITY  sendPageToDevice.accesskey         "N">
-<!ENTITY  sendLinkToDevice.label             "Pošlji povezavo v napravo">
+<!ENTITY  sendLinkToDevice.label             "Pošlji povezavo na napravo">
 <!ENTITY  sendLinkToDevice.accesskey         "N">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Dodaj stran med zaznamke">
 <!ENTITY editThisBookmarkCmd.label "Uredi ta zaznamek">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Natisni to stran">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Poglejte podatke o strani">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Poglejte obvestilo">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Poglejte zahtevo za lokacijo">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Poglejte namestitveno sporočilo dodatka">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Poglejte sporočilo aplikacije shrambe brez povezave">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Upravljajte svoje prijavne podatke">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Kliknite, če želite shraniti podatke">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Upravljajte uporabo vtičnika na tej strani">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Spremenite, ali lahko prejemate obvestila te strani">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Ta stran uporablja vašo kamero in/ali mikrofon">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Ta stran uporablja vaš mikrofon">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Upravljajte dovoljenje za deljenje oken ali zaslona na tej strani">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "S to stranjo delite okno ali zaslon">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Določite, ali stran lahko skrije kazalec">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Poglejte sporočilo nameščanja storitve">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Prevedi stran">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Upravljajte prevajanje strani">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Upravljajte uporabo programske opreme z DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
+
 
 <!ENTITY searchItem.title             "Iskanje">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Iskalna poizvedba">
-<!ENTITY contentSearchSubmit.label    "Začni iskanje">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
-<!ENTITY socialToolbar.title        "Gumb družbene vrstice">
-
-<!ENTITY social.ok.label       "V redu">
-<!ENTITY social.ok.accesskey   "V">
-
-<!ENTITY social.toggleSidebar.label "Prikaži stransko vrstico">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Upravljanje storitev …">
-
-<!ENTITY social.toggleNotifications.label "Prikaži namizna obvestila">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Več o tem …">
-<!ENTITY social.learnMore.accesskey "V">
 
 <!ENTITY social.directory.label "Imenik storitev">
 <!ENTITY social.directory.text "Vključite lahko storitve za deljenje iz imenika.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "U">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Več tem">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "V">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Osredotoči klepet">
-<!ENTITY social.chatBar.accesskey "k">
-
-<!ENTITY social.markpageMenu.accesskey "S">
-<!ENTITY social.markpageMenu.label "Shrani stran na …">
-<!ENTITY social.marklinkMenu.accesskey "P">
-<!ENTITY social.marklinkMenu.label "Shrani povezavo na …">
 
 <!ENTITY getUserMedia.selectCamera.label "Uporabi kamero:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Omogoči zaščito">
 <!ENTITY trackingContentBlocked.block.accesskey "O">
 <!ENTITY trackingContentBlocked.disabled.message "Zaščita pred sledenjem je onemogočena">
-
-<!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">

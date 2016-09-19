@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastavitve povezave">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "40em">
 
 <!ENTITY  proxyTitle.label              "Nastavitve posrednika">
 <!ENTITY  noProxyTypeRadio.label        "Brez posrednika">
