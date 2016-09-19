@@ -1,36 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "ທົ່ວໄປ">
 
 
-
-
-
 <!ENTITY blockAutoRefresh.label          "ເຕືອນຂ້ອຍເມື່ອໃຊ້ພະຍາຍາມທີ່ຈະປ່ຽນເສັ້ນທາງ ຫລື ໂລດຫນ້າເວັບ">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -55,42 +33,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY offlineNotifyExceptions.label   "ຍົກເວັ້ນ">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
