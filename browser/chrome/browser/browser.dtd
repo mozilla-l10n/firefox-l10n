@@ -448,6 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Paramètres de recherche">
+<!ENTITY changeSearchSettings.tooltip "Modifier les paramètres de recherche">
 
 <!ENTITY searchInNewTab.label         "Rechercher dans un nouvel onglet">
 <!ENTITY searchInNewTab.accesskey     "R">
