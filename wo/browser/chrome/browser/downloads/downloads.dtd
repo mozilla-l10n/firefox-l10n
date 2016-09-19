@@ -59,8 +59,6 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "D">
 <!ENTITY cmd.copyDownloadLink.label       "Duppi màkkaanu buumu yeb bi">
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
-<!ENTITY cmd.clearList.label              "Dindi lim gi">
-<!ENTITY cmd.clearList.accesskey          "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
@@ -97,6 +95,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Wone yeb yépp">
 <!ENTITY downloadsHistory.accesskey       "W">
+
 
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):

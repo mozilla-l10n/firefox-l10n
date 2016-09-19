@@ -140,9 +140,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Móol">
 <!ENTITY printButton.tooltip          "Móol xët bii">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -534,24 +534,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "J">
 <!ENTITY syncToolbarButton.label      "Jàppante">
 
-<!ENTITY socialToolbar.title        "Butoŋu banqaasu jumtukaay mbooloo">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-
-
-<!ENTITY social.toggleNotifications.label "Wone birali biro bi">
-<!ENTITY social.toggleNotifications.accesskey "b">
-
 
 
 <!ENTITY customizeMode.restoreDefaults "Restore Natural Order">
 <!ENTITY customizeMode.lwthemes "Tem yi">
 <!ENTITY customizeMode.lwthemes.recommended "Santaane nañu leen">
-
-<!ENTITY social.chatBar.commandkey "c">
-
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -562,7 +549,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY trackingContentBlocked.message "Topp tànk">
-
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->

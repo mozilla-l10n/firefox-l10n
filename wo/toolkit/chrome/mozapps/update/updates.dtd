@@ -42,10 +42,6 @@ ci ni mu gëne gaawe.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; mënul xam ndax am na mottali bu féex. Seetal 
 ndax am nga sumbu &brandShortName; bi mujj ci :">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Am na luy tëye &brandShortName; ngir mu mottaliku bu wóor. 
-Seetal ndax am nga sumbu &brandShortName; bi mujj ci :">
-<!ENTITY  errorCertAttrHasUpdate.label    "Am na luy jéema nax &brandShortName; di ko jox mottali 
-bu wóorul. Jéemal seet sa ubbikatu jokkoo ngir ndimbal.">
 
 <!ENTITY  finishedPage.title              "Yeesal gi pare na sampu">
 <!ENTITY  finishedPage.text               "Yeesal gi dina sampu bu &brandShortName; tàmbaliwaatee. Mën nga tàmbaliwaat &brandShortName; léegi, walla nga kontine sa liggéey te tàmbaliwaat ci kanam.">

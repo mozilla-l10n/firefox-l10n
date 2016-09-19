@@ -68,9 +68,6 @@
 <!ENTITY updateManual.label              "Bul seet mukk yeesal yi (tere nañu ko, ab risk la ci wallu kaarange)">
 <!ENTITY updateManual.accesskey          "B">
 
-<!ENTITY updateAutoAddonWarn.label       "Yëgle su fekkeeni dafay suuxal modil yi">
-<!ENTITY updateAutoAddonWarn.accesskey   "Y">
-
 <!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
 <!ENTITY updateHistory.accesskey         "a">
 
