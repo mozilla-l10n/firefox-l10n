@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Preferenzas da connexiun">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "45em">
 
 <!ENTITY  proxyTitle.label              "Configurar ils proxies per l'access a l'internet">
 <!ENTITY  noProxyTypeRadio.label        "Nagin proxy">

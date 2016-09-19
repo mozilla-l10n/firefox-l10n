@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Agiuntar in segnapagina…">
 <!ENTITY editThisBookmarkCmd.label "Modifitgar quest segnapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Stampar questa pagina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mussar infurmaziuns davart la pagina">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Mussar in avis">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Mussar la dumonda da geolocalisaziun">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Mussar il messadi d'installaziun dal supplement">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Mussar il messadi da la memoria offline da questa app">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrar tias infurmaziuns d'annunzia">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Controllar sche ti vuls memorisar tes pled-clav">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar l'utilisaziun da plug-ins sin questa pagina">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Definir sche ti vuls retschaiver notificaziuns da la pagina">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Ti cundividas tia camera e/u tes microfon cun la pagina">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrar la cundivisiun dal microfon cun la pagina">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Ti cundividas il microfon cun la pagina">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrar la cundivisiun da fanestras u dal visur cun la pagina">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Ti cundividas ina fanestra u tes visur cun la pagina">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Definir sche la pagina po zuppentar il punctader da la mieur">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Mussar il messadi d'installaziun da servetschs">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translatar questa pagina">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrar la translaziun da la pagina">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administrar l'utilisaziun da software DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
+
 
 <!ENTITY searchItem.title             "Tschertgar">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Term da tschertgar">
-<!ENTITY contentSearchSubmit.label    "Trametter la tschertga">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronisar">
 
-<!ENTITY socialToolbar.title        "Buttun da la trav d'utensils sociala">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Mussar la trav laterala">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Administrar servertschs…">
-
-<!ENTITY social.toggleNotifications.label "Mussar avis sin il desktop">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Dapli infurmaziuns…">
-<!ENTITY social.learnMore.accesskey "i">
 
 <!ENTITY social.directory.label "Register da servetschs">
 <!ENTITY social.directory.text "Ti pos activar servetschs da cundivider en il register.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telechargiar designs">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focussar il chat">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Memorisar la pagina a…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Memorisar la colliaziun a…">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera per cundivider:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar la protecziun">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protecziun cunter il fastizar è deactivada">
-
-<!ENTITY pointerLock.notification.message "Smatga ESC per mussar puspè quai messadi.">
 
 <!ENTITY pluginNotification.showAll.label "Mussar tuts">
 <!ENTITY pluginNotification.showAll.accesskey "S">
