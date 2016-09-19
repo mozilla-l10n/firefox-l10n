@@ -6,5 +6,8 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
+<!ENTITY doNotTrackCheckbox2.label    "Always apply Do Not Track">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; will send a signal that you don’t want to be tracked whenever Tracking Protection is on.">
 <!ENTITY doNotTrackLearnMore.label    "තවත් දැනගන්න">
