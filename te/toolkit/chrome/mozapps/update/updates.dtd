@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "పరోక్ష  నవీకరణ  ఆపాదించబడదు. &brandShortName; పూర్తి  నవీకరణను  డౌనులోడుచేసి  తిరిగి  ప్రయత్నించాలి.">
 
 <!ENTITY  genericBackgroundError.label    "నవీకరణ అందుబాటులో వుందో లేదో &brandShortName; నిర్థారించలేక పోవుచున్నది. మీరు &brandShortName; యొక్క సరికొత్త వర్షన్‌ను యిచట నుండి కలిగివుండునట్లు చూచుకొనుము:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; సురక్షితంగా నవీకరించబడుటనుండి యేదో నిరోధిస్తోంది. మీరు &brandShortName; యొక్క సరికొత్త వర్షన్‌ను యిచట నుండి కలిగివుండునట్లు చూచుకొనుము:">
-<!ENTITY  errorCertAttrHasUpdate.label    "సురక్షితంకాని నవీకరణను &brandShortName; చేత ఆమోదింపచేయుటకు యేదో ట్రిక్ ప్రయత్నిస్తోంది. దయచేసి మీ నెట్వర్కు వుత్పాదకుని సంప్రదించి సహాయం కోరండి.">
 
 <!ENTITY  finishedPage.title              "నవీకరణ సంస్థాపనకు  సిద్దంగా  వున్నది">
 <!ENTITY  finishedPage.text               "&brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు &brandShortName;ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">

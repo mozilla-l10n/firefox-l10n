@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
 <!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "ప్రకటన చూడండి">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "స్థానపు అభ్యర్ధనను చూడండి">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "పొడిగింత సంస్థాపనా సందేశం చూడండి">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ఏప్-ఆఫ్‌లైన్ స్టోరేజ్ సందేశం చూడండి">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "మీ లాగిన్ సమాచారం నిర్వహించండి">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "మీ సంకేతపదం దాచుకోవడానికి చెక్ చేయండి">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ఈ పేజీలో చొప్పింత వాడుకను నిర్వహించండి">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించుకోండి">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకుంటున్నారు">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ఈ సైటుతో మీ మైక్రోఫోనుని పంచుకుంటున్నారు">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ఈ సైటుతో మీ కిటికీలను లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ఈ సైటుతో మీరు ఒక కిటికీని లేదా మీ తెరను పంచుకుంటున్నారు">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "సూచికని సైటు దాచివుంచాలో లేదో మార్చండి">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "సేవ సంస్థాపన సందేశం చూడండి">
-<!ENTITY urlbar.translateNotificationAnchor.label       "ఈ పేజీని అనువదించండి">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "పేజీ అనువాదాన్ని నిర్వహించండి">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM సాఫ్ట్‌వేరు వాడుకను నిర్వహించండి">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
+
 
 <!ENTITY searchItem.title             "వెతుకు">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
-<!ENTITY contentSearchSubmit.label    "వెతకమని చెప్పు">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
 
-<!ENTITY socialToolbar.title        "సోషన్ సాధనపట్టీ బటన్">
-
-<!ENTITY social.ok.label       "సరే">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "పక్కపట్టీని చూపించు">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "సేవలను నిర్వహించు...">
-
-<!ENTITY social.toggleNotifications.label "డెస్కుటాప్ ప్రకటనలను చూపు">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "మరింత తెలుసుకోండి… (L)">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "క్రియాశీలనల సంచయం">
 <!ENTITY social.directory.text "సంచయం నుండి మీరు భాగస్వామ్య సేవలను క్రియాశీలంచేయవచ్చు.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని థీమ్స్ పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "సంభాషణలపై దృష్టిసారించు">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "పేజీని ఇక్కడ భద్రపరచు…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "లంకెను ఇక్కడ భద్రపరచు…">
 
 <!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
-
-<!ENTITY pointerLock.notification.message "దీనిని మరలా చూపుటకు యెప్పుడైనా ESC వత్తండి.">
 
 <!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు (S)">
 <!ENTITY pluginNotification.showAll.accesskey "S">
