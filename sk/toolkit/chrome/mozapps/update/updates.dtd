@@ -56,10 +56,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nedokázal zistiť, či je dostupná nejaká aktualizácia.
                                            Uistite sa, že máte najnovšiu verziu aplikácie &brandShortName; na stránke:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Z neznámeho dôvodu nie je možné &brandShortName;  bezpečne aktualizovať.
-                                           Uistite sa, že máte najnovšiu verziu aplikácie &brandShortName; na stránke:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Niečo sa snaží prinútiť &brandShortName; akceptovať nezabezpečenú
-                                           aktualizáciu. Kontaktujte správcu sieťového pripojenia a požiadajte o pomoc.">
 
 <!ENTITY  finishedPage.title              "Aktualizácia pripravená na inštaláciu">
 <!ENTITY  finishedPage.text               "Táto aktualizácia bude nainštalovaná pri najbližšom spustení aplikácie

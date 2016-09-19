@@ -3,17 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "O programe &brandFullName;">
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Vyhľadať aktualizácie">
 <!ENTITY update.checkForUpdatesButton.accesskey   "h">
-<!ENTITY update.updateButton.label2                "Reštartovať &brandShortName; a nainštalovať aktualizáciu">
+<!ENTITY update.updateButton.label2               "Reštartovať &brandShortName; a nainštalovať aktualizáciu">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Nainštalovať aktualizáciu…">
-<!ENTITY update.applyButtonBillboard.accesskey    "N">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

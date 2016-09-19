@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Odstrániť z histórie">
 <!ENTITY cmd.removeFromHistory.accesskey  "h">
-<!ENTITY cmd.clearList.label              "Vymazať zoznam">
-<!ENTITY cmd.clearList.accesskey          "V">
 <!ENTITY cmd.clearDownloads.label         "Vymazať zoznam prevzatých súborov">
 <!ENTITY cmd.clearDownloads.accesskey     "m">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Zobraziť všetky prevzaté súbory">
 <!ENTITY downloadsHistory.accesskey       "Z">
+
 
 <!ENTITY clearDownloadsButton.label       "Vymazať zoznam">
 <!ENTITY clearDownloadsButton.tooltip     "Vymaže zoznam dokončených, zrušených a zlyhaných preberaní súborov">
