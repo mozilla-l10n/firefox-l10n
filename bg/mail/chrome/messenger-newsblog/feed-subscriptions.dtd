@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Абонаменти за емисии">
 <!ENTITY learnMore.label             "Научете повече относно емисиите">
 
@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "Добавяне">
 <!ENTITY button.addFeed.accesskey    "Д">
-<!ENTITY button.editFeed.label       "Обновяване">
-<!ENTITY button.editFeed.accesskey   "О">
 <!ENTITY button.removeFeed.label     "Премахване">
 <!ENTITY button.removeFeed.accesskey "П">
 <!ENTITY button.importOPML.label     "Внасяне">

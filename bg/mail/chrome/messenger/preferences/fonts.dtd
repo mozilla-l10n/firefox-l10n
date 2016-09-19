@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "н">
 <!ENTITY  monospace.label                         "Равноширок:">
 <!ENTITY  monospace.accesskey                     "Р">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Латиница">
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "Кхмерски">
 <!ENTITY  font.langGroup.malayalam                "Малаялам">
 <!ENTITY  font.langGroup.math                     "Математически">
-<!ENTITY  font.langGroup.oriya                    "Орийски">
 <!ENTITY  font.langGroup.telugu                   "Телугу">
 <!ENTITY  font.langGroup.kannada                  "Каннадски">
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
@@ -56,19 +55,19 @@
 <!ENTITY minSize.label                            "Минимална големина на шрифт:">
 <!ENTITY minSize.accesskey                        "М">
 <!ENTITY minSize.none                             "Без">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Сериф">
 <!ENTITY  useDefaultFontSansSerif.label           "Сансериф">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Контрол на шрифта">
 <!ENTITY  useFixedWidthForPlainText.label         "Шрифт с фиксирана ширина за съобщения с обикновен текст">
 <!ENTITY  fixedWidth.accesskey                    "ф">
 <!ENTITY  useDocumentFonts.label                  "Писмата могат да използват други шрифтове">
 <!ENTITY  useDocumentFonts.accesskey              "у">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Изходяща поща:">
 <!ENTITY sendDefaultCharset.accesskey     "х">
 <!ENTITY languagesTitle2.label            "Кодиране на текста">
