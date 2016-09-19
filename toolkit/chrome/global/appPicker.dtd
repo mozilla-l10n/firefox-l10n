@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Tiada aplikasi yang dijumpai untuk jenis fail sebegini.">
-<!ENTITY BrowseButton.label    "Carian…">
+<!ENTITY BrowseButton.label    "Cari…">
 <!ENTITY SendMsg.label         "Hantar butiran ini ke:">

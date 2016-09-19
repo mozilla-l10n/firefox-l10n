@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "Set Semula">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Pengurusan akaun">
+<!ENTITY manageAccount.label          "Urus Akaun">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "Menukar Katalaluan…">
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
 <!ENTITY signIn.label                "Daftar masuk">
 <!ENTITY profilePicture.tooltip      "Tukar gambar profil">
-<!ENTITY verifiedManage.label        "Pengurusan Akaun">
+<!ENTITY verifiedManage.label        "Urus Akaun">
 <!ENTITY disconnect.label            "Terputus…">
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">

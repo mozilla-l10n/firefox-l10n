@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton2.label "Saya terima risikonya!">
 <!ENTITY aboutWarningCheckbox.label "Papar amaran ini pada waktu lain">
 
-<!ENTITY searchPrefs.label "Carian:">
+<!ENTITY searchPrefs.label "Cari:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
