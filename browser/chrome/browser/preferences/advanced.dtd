@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "Т">
 <!ENTITY telemetryLearnMore.label        "Докладніше">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; надсилає звіти про падіння в &vendorShortName;, щоб допомогти зробити ваш браузер більш стабільним та безпечним">
-<!ENTITY enableCrashReporter.label       "Увімкнути звіти про падіння">
-<!ENTITY enableCrashReporter.accesskey   "п">
-<!ENTITY crashReporterLearnMore.label    "Докладніше">
+<!ENTITY crashReporterLearnMore.label     "Докладніше">
 
 <!ENTITY networkTab.label                "Мережа">
 
