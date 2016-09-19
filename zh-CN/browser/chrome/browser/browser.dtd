@@ -207,12 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "查看网站信息">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "打开消息面板">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "打开位置请求面板">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "打开附加组件安装消息面板">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "打开离线存储消息面板">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "打开保存密码消息面板">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理插件使用">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "更改您是否接收该网站发来的通知">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "管理您是否与该网站共享摄像头和麦克风">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "管理您是否与该网站共享麦克风">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "管理您是否与该网站共享窗口或屏幕">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "打开安装消息面板">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "翻译此页面">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "管理页面翻译">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 软件使用">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "您已阻止此网站使用您的摄像头。">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "您已阻止此网站使用您的麦克风。">
+<!ENTITY urlbar.screenBlocked.tooltip            "您已阻止此网站共享您的屏幕。">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "您已阻止此网站获取位置信息。">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "您已阻止此网站进行数据存储。">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "您已阻止此网站发送通知。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
 
+<!ENTITY urlbar.zoomReset.tooltip     "重置缩放级别">
 
 <!ENTITY searchItem.title             "搜索">
 
@@ -409,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "搜索查询">
+<!ENTITY contentSearchSubmit.tooltip  "提交搜索">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "更改搜索设置">
+<!ENTITY changeSearchSettings.tooltip "更改搜索设置">
 
 <!ENTITY searchInNewTab.label         "在新标签页中搜索">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -711,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "权限">
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
+<!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

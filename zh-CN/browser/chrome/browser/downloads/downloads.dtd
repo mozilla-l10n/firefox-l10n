@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "从历史记录中移除">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "清除预览面板">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "清除下载记录">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "显示全部下载项">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "打开下载文件夹">
 
 <!ENTITY clearDownloadsButton.label       "清除下载项">
 <!ENTITY clearDownloadsButton.tooltip     "清除已完成、已取消及失败的下载项">

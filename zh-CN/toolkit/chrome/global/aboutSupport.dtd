@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "显示于 Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "打开文件夹">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "修改过的重要首选项">
 <!ENTITY aboutSupport.modifiedPrefsName "名称">

@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "详细了解">
 
+<!ENTITY crashReporterDesc2.label         "崩溃报告可以帮助 &vendorShortName; 修复问题，使浏览器更加稳定和安全">
+<!ENTITY alwaysSubmitCrashReports.label   "允许 &brandShortName; 代表您自动在后台发送积压的崩溃报告">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "详细了解">
 
 <!ENTITY networkTab.label                "网络">
