@@ -3,17 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "За &brandFullName;">
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Провери за ажурирања">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label2                "Рестартирај за &brandShortName; да се ажурира">
+<!ENTITY update.updateButton.label2               "Рестартирај за &brandShortName; да се ажурира">
 <!ENTITY update.updateButton.accesskey            "Р">
-<!ENTITY update.applyButtonBillboard.label        "Постави ажурирање...">
-<!ENTITY update.applyButtonBillboard.accesskey    "а">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

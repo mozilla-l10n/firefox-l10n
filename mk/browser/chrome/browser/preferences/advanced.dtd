@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Дознај повеќе">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; испраќа известувања за уривања за да ѝ помогне на &vendorShortName; да го направи Вашиот прелистувач побезбеден и постабилен">
-<!ENTITY enableCrashReporter.label       "Овозможи го известувачот на уривања">
-<!ENTITY enableCrashReporter.accesskey   "у">
-<!ENTITY crashReporterLearnMore.label    "Дознај повеќе">
+<!ENTITY crashReporterLearnMore.label     "Дознај повеќе">
 
 <!ENTITY networkTab.label                "Мрежа">
 

@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "и">
 <!ENTITY cmd.removeFromHistory.label      "Избриши од историја">
 <!ENTITY cmd.removeFromHistory.accesskey  "б">
-<!ENTITY cmd.clearList.label              "Исчисти список">
-<!ENTITY cmd.clearList.accesskey          "к">
 <!ENTITY cmd.clearDownloads.label         "Исчисти ги преземањата">
 <!ENTITY cmd.clearDownloads.accesskey     "п">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +105,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Прикажи ги сите преземања">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "Исчисти ги преземањата">
 <!ENTITY clearDownloadsButton.tooltip     "Ги чисти списокот од завшени, откажани и неуспешни преземања">

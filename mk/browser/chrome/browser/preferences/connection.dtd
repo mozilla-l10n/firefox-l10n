@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Поставки за врската">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Конфигурирање на посредник за пристап на Интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без посредник">
