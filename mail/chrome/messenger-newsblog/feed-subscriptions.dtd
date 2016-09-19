@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
-<!ENTITY button.editFeed.label       "Posodobi">
-<!ENTITY button.editFeed.accesskey   "P">
 <!ENTITY button.removeFeed.label     "Odstrani">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Uvozi">
