@@ -43,7 +43,7 @@
 <!ENTITY aboutSupport.appBasicsSafeMode "Modalità provvisoria">
 <!ENTITY aboutSupport.showDir.label "Apri percorso">
 <!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
-<!ENTITY aboutSupport.showWin.label "Mostra cartella">
+<!ENTITY aboutSupport.showWin2.label "Apri cartella">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferenze importanti modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
