@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ตั้งค่าการเชื่อมต่อ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "กำหนดค่าพร็อกซีเพื่อเข้าถึงอินเทอร์เน็ต">
 <!ENTITY  noProxyTypeRadio.label        "ไม่มีพร็อกซี">

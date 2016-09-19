@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "ข้อมูลการแก้ไขปัญหา">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  หน้านี้มีข้อมูลทางเทคนิคที่อาจเป็นประโยชน์เมื่อคุณกำลังพยายามแก้ไขปัญหา หากคุณกำลังมองหาคำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับ &brandShortName; ตรวจสอบ <a id='supportLink'>เว็บไซต์สนับสนุน</a> ของเรา">
 
 <!ENTITY aboutSupport.crashes.title "รายงานข้อขัดข้อง">
@@ -29,14 +29,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "วันสิ้นสุด">
 <!ENTITY aboutSupport.experimentHomepage "หน้าแรก">
 
-
 <!ENTITY aboutSupport.appBasicsTitle "พื้นฐานแอปพลิเคชัน">
 <!ENTITY aboutSupport.appBasicsName "ชื่อ">
 <!ENTITY aboutSupport.appBasicsVersion "รุ่น">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ช่องทางปรับรุ่น">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการปรับรุ่น">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
@@ -53,8 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "ระบบปฏิบัติการ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 <!ENTITY aboutSupport.appBasicsPerformance "ประสิทธิภาพ">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ที่ลงทะเบียน">
 
 <!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
@@ -68,15 +67,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "แสดงใน Finder">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "แสดงโฟลเดอร์">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกเปลี่ยนแปลง">
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "การตั้งค่า user.js">
 <!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โพรไฟล์ของคุณมี <a id='prefs-user-js-link'>ไฟล์ user.js</a> ซึ่งมีการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;.">
 
@@ -90,7 +88,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ตรวจสอบความถูกต้อง">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-
 
 <!ENTITY aboutSupport.a11yTitle "การช่วยเข้าถึง">
 <!ENTITY aboutSupport.a11yActivated "ถูกเปิดใช้งาน">
@@ -111,9 +108,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "คุณลักษณะ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "การวินิจฉัย">
-
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-

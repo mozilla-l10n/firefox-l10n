@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-
 <!ENTITY downloads.title                  "ดาวน์โหลด">
+
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -22,8 +23,8 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-
 <!ENTITY downloadDetails.width            "50ch">
+
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -37,7 +38,6 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "หยุดชั่วคราว">
@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ค">
 <!ENTITY cmd.removeFromHistory.label      "ลบจากรายการ">
 <!ENTITY cmd.removeFromHistory.accesskey  "ล">
-<!ENTITY cmd.clearList.label              "ล้างรายการ">
-<!ENTITY cmd.clearList.accesskey          "ร">
 <!ENTITY cmd.clearDownloads.label         "ล้างการดาวน์โหลด">
 <!ENTITY cmd.clearDownloads.accesskey     "ด">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -87,44 +85,45 @@
      file or remove the download. Opening is the default option.
      -->
 <!ENTITY cmd.chooseOpen.label             "เปิดหรือลบไฟล์">
+
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-
 <!ENTITY blocked.label                    "BLOCKED">
+
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-
 <!ENTITY learnMore.label                  "เรียนรู้เพิ่มเติม">
+
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-
 <!ENTITY downloadsHistory.label           "แสดงการดาวน์โหลดทั้งหมด">
 <!ENTITY downloadsHistory.accesskey       "แ">
 
+
 <!ENTITY clearDownloadsButton.label       "ล้างการดาวน์โหลด">
 <!ENTITY clearDownloadsButton.tooltip     "ล้างที่เสร็จสิ้นแล้ว ที่ถูกยกเลิก และที่ดาวน์โหลดล้มเหลว">
+
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
-
 <!ENTITY downloadsListEmpty.label         "ไม่มีการดาวน์โหลด">
+
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-
 <!ENTITY downloadsPanelEmpty.label        "ไม่มีการดาวน์โหลดสำหรับวาระนี้">
+
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-
 <!ENTITY downloadsListNoMatch.label       "ไม่พบการดาวน์โหลดที่เข้าคู่กับการค้นหา">

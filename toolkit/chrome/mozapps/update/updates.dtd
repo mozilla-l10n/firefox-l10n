@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "ไม่สามารถทำการปรับรุ่นแบบบางส่วนได้ &brandShortName; จะพยายามอีกครั้ง โดยการดาวน์โหลดชุดปรับรุ่นแบบเต็ม">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามามารถระบุว่ามีการปรับรุ่นหรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "มีบางสิ่งขัดขวาง &brandShortName; จากการปรับรุ่นอย่างปลอดภัย โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
-<!ENTITY  errorCertAttrHasUpdate.label    "มีบางสิ่งที่พยายามหลอก &brandShortName; ยอมรับการปรับรุ่นที่ไม่ปลอดภัย โปรดติดต่อผู้ให้บริการเครือข่ายของคุณและมองหาความช่วยเหลือ">
 
 <!ENTITY  finishedPage.title              "ชุดปรับรุ่นพร้อมสำหรับการติดตั้งแล้ว">
 <!ENTITY  finishedPage.text               "ชุดปรับรุ่นนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป คุณสามารถเริ่ม &brandShortName; ใหม่ได้เดี๋ยวนี้ หรือคุณอาจใช้งานต่อไปและเริ่มโปรแกรมใหม่ภายหลัง">
