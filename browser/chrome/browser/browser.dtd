@@ -155,7 +155,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "צור סימנייה לדף זה">
 <!ENTITY editThisBookmarkCmd.label "עריכת סימנייה זו">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -199,32 +198,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "הדפסת דף זה">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "הצגת נתוני אתר">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "הצגת התראה">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "הצגת בקשת מיקום">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "הצגת הודעת התקנת תוספת">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "הצגת הודעת אחסון לא מקוון ליישום">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "ניהול נתוני ההתחברויות שלך">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "שמירת ססמה">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ניהול השימוש בתוספים חיצוניים בדף זה">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "החלפת מצב קבלת התרעות מהאתר">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ניהול השיתוף של המצלמה ו/או המיקרופון שלך עם האתר">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "המצלמה ו/או המיקרופון שלך משותפים כעת עם האתר">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ניהול השיתוף של המיקרופון שלך עם האתר">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "המיקרופון שלך משותף כעת עם האתר">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ניהול השיתוף של החלונות או המסך שלך עם האתר">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "החלון או המסך שלך משותפים כעת עם האתר">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "שינוי המצב האם לאפשר לאתר להסתיר את הסמן">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "הצגת הודעת התקנת שירות">
-<!ENTITY urlbar.translateNotificationAnchor.label       "תרגום דף זה">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "ניהול תרגומי דפים">
-<!ENTITY urlbar.emeNotificationAnchor.label             "ניהול השימוש בתכניות DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
+
 
 <!ENTITY searchItem.title             "חיפוש">
 
@@ -414,11 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Search query">
-<!ENTITY contentSearchSubmit.label    "שליחת החיפוש">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -761,21 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "מ">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "כפתור סרגל כלים חברתי">
-
-<!ENTITY social.ok.label       "אישור">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "הצגת סרגל צד">
-<!ENTITY social.toggleSidebar.accesskey "ס">
-
 <!ENTITY social.addons.label "ניהול שירותים…">
-
-<!ENTITY social.toggleNotifications.label "הצגת התראות שולחן עבודה">
-<!ENTITY social.toggleNotifications.accesskey "ת">
-
-<!ENTITY social.learnMore.label "מידע נוסף…">
-<!ENTITY social.learnMore.accesskey "מ">
 
 <!ENTITY social.directory.label "ספריית הפעלות">
 <!ENTITY social.directory.text "ניתן להפעיל את שירותי השיתוף מהספרייה.">
@@ -796,15 +761,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "נ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "קבלת ערכות נושא נוספות">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "התמקדות על הצ׳אטים">
-<!ENTITY social.chatBar.accesskey "צ">
-
-<!ENTITY social.markpageMenu.accesskey "ד">
-<!ENTITY social.markpageMenu.label "שמירת דף אל…">
-<!ENTITY social.marklinkMenu.accesskey "ק">
-<!ENTITY social.marklinkMenu.label "שמירת קישור אל…">
 
 <!ENTITY getUserMedia.selectCamera.label "מצלמה לשיתוף:">
 <!ENTITY getUserMedia.selectCamera.accesskey "צ">
@@ -839,8 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "לאפשר הגנה">
 <!ENTITY trackingContentBlocked.block.accesskey "ה">
 <!ENTITY trackingContentBlocked.disabled.message "הגנת מעקב מנוטרלת">
-
-<!ENTITY pointerLock.notification.message "ניתן ללחוץ ESC בכול עת כדי להציג שוב את המצביע.">
 
 <!ENTITY pluginNotification.showAll.label "הצגת הכול">
 <!ENTITY pluginNotification.showAll.accesskey "כ">
