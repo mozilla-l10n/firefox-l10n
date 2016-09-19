@@ -50,7 +50,7 @@ that require it.  -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Layar &amp; Sejarah Muat Turun">
 <!ENTITY itemHistoryAndDownloads.accesskey "M">
-<!ENTITY itemFormSearchHistory.label       "Form &amp; Latar Carian">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; Sejarah Carian">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
