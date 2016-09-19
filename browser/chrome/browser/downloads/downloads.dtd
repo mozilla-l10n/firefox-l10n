@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-   
+
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromHistory.label      "Уклони из историјата">
 <!ENTITY cmd.removeFromHistory.accesskey  "У">
-<!ENTITY cmd.clearList.label              "Обриши листу">
-<!ENTITY cmd.clearList.accesskey          "О">
 <!ENTITY cmd.clearDownloads.label         "Обриши преузимања">
 <!ENTITY cmd.clearDownloads.accesskey     "р">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Прикажи сва преузимања">
 <!ENTITY downloadsHistory.accesskey       "П">
+
 
 <!ENTITY clearDownloadsButton.label       "Обриши преузимања">
 <!ENTITY clearDownloadsButton.tooltip     "Брише завршена, отказана и неуспела преузимања">

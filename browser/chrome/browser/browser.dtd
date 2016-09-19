@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
- 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -135,6 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "је сада у приказу преко целог екрана">
 <!ENTITY fullscreenWarning.generic.label "Овај документ се приказује преко целог екрана">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -160,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Забележи ову страницу">
 <!ENTITY editThisBookmarkCmd.label "Уреди ову забелешку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -206,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Штампај ову страницу">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Погледај информације сајта">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Прикажи обавештење">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Прикажи захтев за локацију">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Прикажи поруку за инсталацију додатка">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Прикажи поруке за складиштење ван мреже">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Управљај са информацијама за пријаву">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Обележите ако желите да снимите вашу лозинку">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Управљај употребом додатака на овој страници">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промените да ли сајт може да приказује обавештења">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Делите вашу камеру и/или микрофон са сајтом">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Управљајте дељењем вашег микрофона са сајтом">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Делите ваш микрофон са сајтом">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Управљајте дељењем вашег прозора или екрана са сајтом">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Делите ваш прозор или екран са сајтом">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Одлучите да ли сајт може да сакрије показивач">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Прикажи поруку за инсталацију сервиса">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Преведи ову страницу">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Управљајте превођењем странице">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Управљајте употребом DRM софтвера">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
+
 
 <!ENTITY searchItem.title             "Претрага">
 
@@ -242,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Забелешке">
-<!ENTITY bookmarksMenuButton.other.label 	"Остале забелешке">
+<!ENTITY bookmarksMenuButton.other.label "Остале забелешке">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
 
@@ -424,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Упит претраге">
-<!ENTITY contentSearchSubmit.label    "Пошаљи претрагу">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -736,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Језичци прегледача">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Синхронизовани језичци">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизовани језичци">
@@ -774,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ж">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Друштвена трака">
-
-<!ENTITY social.ok.label       "У реду">
-<!ENTITY social.ok.accesskey   "У">
-
-<!ENTITY social.toggleSidebar.label "Прикажи палету">
-<!ENTITY social.toggleSidebar.accesskey "П">
-
 <!ENTITY social.addons.label "Управљање сервисима…">
-
-<!ENTITY social.toggleNotifications.label "Прикажи обавештења на радној површини">
-<!ENTITY social.toggleNotifications.accesskey "о">
-
-<!ENTITY social.learnMore.label "Сазнајте више…">
-<!ENTITY social.learnMore.accesskey "С">
 
 <!ENTITY social.directory.label "Фасцикла активација">
 <!ENTITY social.directory.text "Можете активирати сервисе за дељење из фасцикле.">
@@ -809,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Разговори">
-<!ENTITY social.chatBar.accesskey "Р">
-
-<!ENTITY social.markpageMenu.accesskey "с">
-<!ENTITY social.markpageMenu.label "Сачувај страницу…">
-<!ENTITY social.marklinkMenu.accesskey "в">
-<!ENTITY social.marklinkMenu.label "Сачувај везу…">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за дељење:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
@@ -852,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Омогући заштиту">
 <!ENTITY trackingContentBlocked.block.accesskey "з">
 <!ENTITY trackingContentBlocked.disabled.message "Заштита од праћења је онемогућена">
-
-<!ENTITY pointerLock.notification.message "Притисните ESC да га поново прикажете.">
 
 <!ENTITY pluginNotification.showAll.label "Прикажи све">
 <!ENTITY pluginNotification.showAll.accesskey "С">

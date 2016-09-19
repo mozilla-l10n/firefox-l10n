@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Поставке повезивања">
-<!ENTITY  window.width                  "50em">
-<!ENTITY  window.macWidth               "49em">
 
 <!ENTITY  proxyTitle.label              "Поставке проксија за приступ интернету">
 <!ENTITY  noProxyTypeRadio.label        "Без проксија">
