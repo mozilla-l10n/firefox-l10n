@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Pengaturan Sambungan">
-<!ENTITY  window.width                  "42em">
-<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Atur Proxy untuk Mengakses Internet">
 <!ENTITY  noProxyTypeRadio.label        "Tanpa proxy">
