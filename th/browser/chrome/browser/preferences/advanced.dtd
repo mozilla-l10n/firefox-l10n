@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "ทั่วไป">
 
@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "ว">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย &vendorShortName; ทำเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
-<!ENTITY enableCrashReporter.label       "เปิดใช้งานตัวรายงานข้อขัดข้อง">
-<!ENTITY enableCrashReporter.accesskey   "ต">
-<!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
+<!ENTITY crashReporterLearnMore.label     "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
 
@@ -56,13 +53,13 @@
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
 
 <!ENTITY offlineStorage2.label           "ที่เก็บเนื้อหาเว็บและข้อมูลผู้ใช้แบบออฟไลน์">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "จำกัดแคชไว้ที่">
 <!ENTITY limitCacheSizeBefore.accesskey  "จ">
 <!ENTITY limitCacheSizeAfter.label       "MB">
