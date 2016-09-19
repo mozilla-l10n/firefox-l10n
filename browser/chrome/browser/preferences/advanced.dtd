@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ketahui Selanjutnya">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
-<!ENTITY enableCrashReporter.label       "Dayakan Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
+<!ENTITY crashReporterLearnMore.label     "Ketahui Selanjutnya">
 
 <!ENTITY networkTab.label                "Rangkaian">
 

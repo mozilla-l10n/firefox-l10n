@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Tanda buku Halaman Ini">
 <!ENTITY editThisBookmarkCmd.label "Edit Tanda buku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Cetak halaman ini">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Papar maklumat laman">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Papar notifikasi">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Papar permintaan lokasi">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Papar mesej pasang add-on">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Papar mesej storan app-luar talian">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Urus maklumat log masuk anda">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Semak sama ada anda mahu menyimpan kata laluan anda">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Urus plugin yang digunakan untuk halaman ini">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tukar sama ada anda boleh menerima notifikasi dari laman ini">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Urus perkongsian kamera dan/atau mikrofon anda dengan laman ini">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Anda kini sedang berkongsi kamera dan/atau mikrofon dengan laman ini">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Urus perkongsian mikrofon anda dengan laman ini">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Anda kini sedang berkongsi mikrofon dengan laman ini">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Urus perkongsian tingkap atau skrin anda dengan laman ini">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda kini sedang berkongsi tetingkap atau skrin anda dengan laman ini">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tukar sama ada laman ini boleh menyorokkan penunjuk">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Papar mesej pasang perkhidmatan">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Terjemahkan halaman ini">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Urus terjemahan halaman">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Urus penggunaan perisian DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
+
 
 <!ENTITY searchItem.title             "Cari">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Cari pertanyaan">
-<!ENTITY contentSearchSubmit.label    "Hantar carian">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Butang Bar Alat Sosial">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Papar bar sisi">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Urus Servis…">
-
-<!ENTITY social.toggleNotifications.label "Papar notifikasi desktop">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Ketahui selanjutnya…">
-<!ENTITY social.learnMore.accesskey "l">
 
 <!ENTITY social.directory.label "Direktori Pengaktifan">
 <!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Lebih Banyak Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Simpan Halaman Ke…">
-<!ENTITY social.marklinkMenu.accesskey "a">
-<!ENTITY social.marklinkMenu.label "Simpan Pautan Ke…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Dayakan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dinyahdayakan">
-
-<!ENTITY pointerLock.notification.message "Tekan ESC pada bila-bila masa untuk papar semula.">
 
 <!ENTITY pluginNotification.showAll.label "Papar Semua">
 <!ENTITY pluginNotification.showAll.accesskey "S">

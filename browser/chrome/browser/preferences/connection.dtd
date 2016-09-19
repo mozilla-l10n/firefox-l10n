@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Tetapan Sambungan">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigur Proksi untuk Capaian Internet">
 <!ENTITY  noProxyTypeRadio.label        "Tiada proksi">
