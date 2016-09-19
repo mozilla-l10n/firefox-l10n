@@ -93,7 +93,6 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Povolit vzdálené ladění">
-<!ENTITY options.enableRemote.tooltip   "Zapnutí umožní použít nástroje vývojáře k ladění vzdálené instance Firefoxu - např. Firefox OS.">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -119,10 +118,9 @@
 <!ENTITY options.enableServiceWorkersHTTP.label     "Povolit Service Workers přes HTTP (když jsou nástroje otevřeny)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Zapnutí této volby umožní Service Workers přes HTTP pro všechny panely, které mají panel nástrojů otevřen.">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Výchozí nástroje vývojáře Firefoxu">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools

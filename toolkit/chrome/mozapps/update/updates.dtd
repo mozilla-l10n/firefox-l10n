@@ -43,8 +43,6 @@
 <!ENTITY  errorpatching.intro             "Použití rozdílové aktualizace se nezdařilo. Aplikace &brandShortName; se pokusí stáhnout kompletní aktualizaci.">
 
 <!ENTITY  genericBackgroundError.label    "Aplikaci &brandShortName; se nepodařilo ověřit dostupnost aktualizací. Ověřte prosím, zda máte poslední verzi aplikace &brandShortName; z:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Aplikaci &brandShortName; je bráněno v bezpečné aktualizaci. Ověřte prosím, zda máte poslední verzi aplikace &brandShortName; z:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Aplikaci &brandShortName; je nabízena nezabezpečená aktualizace. Kontaktujte prosím svého správce sítě a požádejte ho o pomoc.">
 
 <!ENTITY  finishedPage.title              "Aktualizace je připravena k instalaci">
 <!ENTITY  finishedPage.text               "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
