@@ -31,9 +31,9 @@
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "g">
 
-<!ENTITY  useMasterPassword.label        "Guna katalaluan induk">
+<!ENTITY  useMasterPassword.label        "Guna kata laluan induk">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk…">
+<!ENTITY  changeMasterPassword.label     "Tukar Kata laluan Induk…">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
 <!ENTITY  savedLogins.label              "Login Tersimpan…">

@@ -190,7 +190,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Mengemaskini">
+<!ENTITY addon.update.postfix                 "Kemas kini">
 <!ENTITY addon.undoAction.label               "Kembali Asal">
 <!ENTITY addon.undoAction.tooltip             "Membatalkan tindakan ini">
 <!ENTITY addon.undoRemove.label               "Kembali Asal">

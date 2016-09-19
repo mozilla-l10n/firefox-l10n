@@ -20,7 +20,7 @@
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
 <!ENTITY resetSync2.label             "Reset Sync…">
 
-<!ENTITY pairDevice.label             "Memasangkan Peranti">
+<!ENTITY pairDevice.label             "Hubungkan Peranti">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Tanda buku">

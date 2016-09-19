@@ -73,7 +73,7 @@
 <!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "Mengemaskini">
+<!ENTITY updateTab.label                 "Kemas kini">
 
 <!ENTITY updateApp.label                 "&brandShortName; mengemaskini:">
 <!ENTITY updateAuto1.label               "Kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
