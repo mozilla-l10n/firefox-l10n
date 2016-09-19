@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "网站图标">
 <!ENTITY useSiteIcons.label                     "显示网站图标">
 <!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "当网页无默认图标时主动寻找一个。">
-<!ENTITY useFavIcons.accesskey                  "A">
 
 <!ENTITY scrolling.label                        "滚动">
 <!ENTITY useAutoScroll.label                    "使用自动滚屏">

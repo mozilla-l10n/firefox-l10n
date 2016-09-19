@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "订阅收取点">
 <!ENTITY learnMore.label             "了解更多关于收取点的信息">
 
@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "添加">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "编辑">
-<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "删除">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "导入">
