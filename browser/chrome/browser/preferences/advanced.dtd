@@ -40,9 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "E">
 <!ENTITY telemetryLearnMore.label        "En savoir plus">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; envoie des rapports de plantage pour aider &vendorShortName; à rendre votre navigateur plus stable et sécurisé">
-<!ENTITY enableCrashReporter.label       "Activer les rapports de plantage">
-<!ENTITY enableCrashReporter.accesskey   "t">
+<!ENTITY crashReporterDesc2.label         "Les rapports de plantages aident &vendorShortName; à corriger les problèmes et à rendre votre navigateur plus stable et sécurisé">
+<!ENTITY alwaysSubmitCrashReports.label   "Autoriser &brandShortName; à envoyer pour vous les rapports de plantages en attente">
+<!ENTITY alwaysSubmitCrashReports.accesskey "u">
 <!ENTITY crashReporterLearnMore.label    "En savoir plus">
 
 <!ENTITY networkTab.label                "Réseau">

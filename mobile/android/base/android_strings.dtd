@@ -825,3 +825,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Marquez les pages du mode lecture pour pouvoir les lire hors connexion.">
 <!ENTITY helper_triple_readerview_open_button "Ajouter aux marque-pages">
 
+<!ENTITY activity_stream_topsites "Les plus visités">
+<!ENTITY activity_stream_highlights "Éléments clés">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "Afficher davantage">
