@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; pošilja poročila o sesutju organizaciji &vendorShortName;, da lahko naredi brskalnik bolj varen in zanesljiv">
-<!ENTITY enableCrashReporter.label       "Omogoči poročila o sesutju">
-<!ENTITY enableCrashReporter.accesskey   "P">
-<!ENTITY crashReporterLearnMore.label    "Več o tem">
+<!ENTITY crashReporterLearnMore.label     "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
 
