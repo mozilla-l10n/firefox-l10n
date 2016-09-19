@@ -93,7 +93,6 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "원격 디버깅 켜기">
-<!ENTITY options.enableRemote.tooltip   "이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 Firefox 인스턴스를 디버깅할 수 있습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -119,10 +118,9 @@
 <!ENTITY options.enableServiceWorkersHTTP.label     "HTTP로 가져온 서비스 워커 쓰기 (도구상자가 열려 있을 때에만)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP로 가져온 서비스 워커를 쓸 수 있습니다.">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "기본 Firefox 개발자 도구">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
