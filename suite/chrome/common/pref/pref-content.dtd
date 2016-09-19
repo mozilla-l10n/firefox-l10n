@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "網頁圖示">
 <!ENTITY useSiteIcons.label                     "顯示網站圖示">
 <!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "若網頁沒有指定，積極地搜尋網頁圖示">
-<!ENTITY useFavIcons.accesskey                  "A">
 
 <!ENTITY scrolling.label                        "捲動">
 <!ENTITY useAutoScroll.label                    "使用自動捲動">
@@ -41,4 +39,3 @@
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY blockAutoRefresh.label                 "當網站試圖重新導向或重新載入頁面時警告">
 <!ENTITY blockAutoRefresh.accesskey             "W">
-
