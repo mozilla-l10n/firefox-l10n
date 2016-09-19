@@ -23,7 +23,7 @@
 <!ENTITY valueColumn.label "Nilai">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Klik untuk isih"> 
+<!ENTITY prefColumnHeader.tooltip "Klik untuk susun"> 
 <!ENTITY columnChooser.tooltip "Klik untuk pilih kolum dipapar"> 
 
 <!-- Context Menu -->

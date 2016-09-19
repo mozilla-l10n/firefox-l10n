@@ -18,13 +18,13 @@
 <!ENTITY views.tooltip                  "Tukar paparan anda">
 <!ENTITY view.columns.label             "Papar Kolum">
 <!ENTITY view.columns.accesskey         "a">
-<!ENTITY view.sort.label                "Isih">
+<!ENTITY view.sort.label                "Susun">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Belum diisih">
+<!ENTITY view.unsorted.label            "Belum disusun">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "Tertib Isihan A> Z">
+<!ENTITY view.sortAscending.label       "Tertib Susunan A> Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Tertib isihan Z > A">
+<!ENTITY view.sortDescending.label      "Tertib susunan Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Import Tanda buku dari HTML…">
@@ -62,7 +62,7 @@
 <!ENTITY cmd.properties.label      "Sifat">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Isih Mengikut Nama">
+<!ENTITY cmd.sortby_name.label              "Susun mengikut Nama">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
@@ -87,7 +87,7 @@
 <!ENTITY col.visitcount.label    "Bilangan Lawatan">
 <!ENTITY col.description.label   "Keterangan">
 <!ENTITY col.dateadded.label     "Ditambah">
-<!ENTITY col.lastmodified.label  "Kali terakhir Penyesesuaian">
+<!ENTITY col.lastmodified.label  "Penyesuaian Terakhir">
 
 <!ENTITY search.label                              "Cari:">
 <!ENTITY search.accesskey                          "C">
