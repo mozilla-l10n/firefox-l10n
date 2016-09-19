@@ -54,10 +54,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si hay una actualización disponible. 
                                            Asegúrate de tener la última versión de  &brandShortName; bajada de:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Algo está evitando que &brandShortName; se actualice de forma segura.
-                                           Asegúrate de tener la última versión de  &brandShortName; bajada de:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Algo está tratando de engañar a &brandShortName; para que acepte una
-                                           actualización insegura. Contacta a tu proveedor de red y busca ayuda.">
 
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización será instalada la próxima vez que se inicie &brandShortName;. 

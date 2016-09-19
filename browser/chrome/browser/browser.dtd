@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Guardar esta página en marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información del sitio">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver una notificación">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver la solicitud de ubicación">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver el mensaje de instalación de complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver el mensaje de almacenamiento sin conexión de la app">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrar la información de conexión">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Revisar diálogo para guardar la contraseña">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de complementos en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Modificar si recibir o no notificaciones del sitio">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar el compartir la cámara y/o micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Estás compartiendo tu cámara y/o micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrar el compartir el micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Estás compartiendo tu micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrar el compartir la ventana o pantalla con el sitio">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Estás compartiendo una ventana o la pantalla con el sitio">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Modificar ajustes de ocultación del puntero por parte del sitio">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver el mensaje de instalación del servicio">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta página">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrar la traducción de la página">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administrar el uso de software DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
+
 
 <!ENTITY searchItem.title             "Buscar">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Buscar por">
-<!ENTITY contentSearchSubmit.label    "Enviar búsqueda">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
-<!ENTITY socialToolbar.title        "Botón de la barra de herramientas social">
-
-<!ENTITY social.ok.label       "Aceptar">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Administrar servicios…">
-
-<!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
-<!ENTITY social.toggleNotifications.accesskey "">
-
-<!ENTITY social.learnMore.label "Aprender más…">
-<!ENTITY social.learnMore.accesskey "l">
 
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puedes activar los servicios para compartir desde el directorio.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Concentrarse en los chats">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Guardar página a…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Guardar enlace a…">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de seguimiento está desactivada">
-
-<!ENTITY pointerLock.notification.message "Presiona ESC en cualquier momento para mostrarlo nuevamente.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todas">
 <!ENTITY pluginNotification.showAll.accesskey "S">
