@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "所有資料類型">
 <!ENTITY select.cookies.label "只有 Cookie">
 <!ENTITY select.permissions.label "只有權限">
-<!ENTITY select.permissionspwd.label "僅密碼權限">
 <!ENTITY select.preferences.label "只有偏好設定">
 <!ENTITY select.passwords.label "只有密碼">
 <!ENTITY select.storage.label "僅儲存空間">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookie">
 <!ENTITY tab.permissions.label "權限">
-<!ENTITY tab.permissionspwd.label "密碼權限">
 <!ENTITY tab.preferences.label "偏好設定">
 <!ENTITY tab.passwords.label "密碼">
 <!ENTITY tab.storage.label "儲存空間">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "輸入一個主機名稱">
 <!ENTITY perm.button.add.label "新增">
 <!ENTITY perm.button.add.accesskey "A">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "使用預設值">
-<!ENTITY permpwd.AskAlways "每次詢問">
-<!ENTITY permpwd.NeverSave "永不儲存">
-
-<!ENTITY permpwd.host.placeholder "輸入一個主機名稱">
-<!ENTITY permpwd.button.add.label "新增">
-<!ENTITY permpwd.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "內容偏好設定是 &brandShortName; 為每個儲存像是縮放等級等不同設定的一個方法。">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "權限">
 <!ENTITY forget.permissions.accesskey "P">
-<!ENTITY forget.permissionspwd.label "密碼權限">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "內容偏好設定">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "密碼">
@@ -167,4 +154,3 @@
 
 <!ENTITY forget.button.label "忘記此資料">
 <!ENTITY forget.button.accesskey "F">
-
