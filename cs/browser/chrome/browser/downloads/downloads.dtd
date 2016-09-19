@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Odebrat z historie">
 <!ENTITY cmd.removeFromHistory.accesskey  "d">
-<!ENTITY cmd.clearList.label              "Smazat seznam">
-<!ENTITY cmd.clearList.accesskey          "m">
 <!ENTITY cmd.clearDownloads.label         "Smazat stahování">
 <!ENTITY cmd.clearDownloads.accesskey     "S">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Zobrazit všechna stahování">
 <!ENTITY downloadsHistory.accesskey       "v">
+
 
 <!ENTITY clearDownloadsButton.label       "Smazat stahování">
 <!ENTITY clearDownloadsButton.tooltip     "Smaže dokončená, zrušená či neúspěšná stahování">

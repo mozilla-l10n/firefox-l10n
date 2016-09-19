@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastavení připojení">
-<!ENTITY  window.width                  "40em">
-<!ENTITY  window.macWidth               "42em">
 
 <!ENTITY  proxyTitle.label              "Nastavení proxy serverů pro přístup k internetu">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxy serveru">

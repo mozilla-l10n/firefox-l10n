@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
 <!ENTITY editThisBookmarkCmd.label "Upravit záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Vytiskne tuto stránku">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobrazit informace o stránce">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Zobrazit upozornění">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Zobrazit žádosti o vaši polohu">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Zobrazit zprávu o instalaci doplňku">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zobrazit zprávu úložiště offline aplikací">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Spravovat vaše přihlašovací údaje">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Zaškrtněte, pokud chcete uložit své heslo">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovat využití zásuvných modulů na této stránce">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změnit, zda můžete ze serveru přijímat upozornění">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sdílíte webkameru a/nebo mikrofon se stránkou">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Spravovat sdílení mikrofonu se stránkou">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Sdílíte mikrofon se stránkou">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Spravovat sdílení oken nebo obrazovky se stránkou">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Sdílíte obrazovku nebo okno se stránkou">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Změnit, zda server může skrývat ukazatel">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Zobrazit zprávu servisní instalace">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Přeložit tuto stránku">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Spravovat překlad stránky">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Správa využívání softwaru DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazit historii">
+
 
 <!ENTITY searchItem.title             "Hledání">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Vyhledávací dotaz">
-<!ENTITY contentSearchSubmit.label    "Potvrdit hledání">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "p">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Tlačítko sdílení">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Zobrazit postranní lištu">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Správce služeb…">
-
-<!ENTITY social.toggleNotifications.label "Zobrazit upozornění">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Zjistit více…">
-<!ENTITY social.learnMore.accesskey "Z">
 
 <!ENTITY social.directory.label "Katalog služeb">
 <!ENTITY social.directory.text "Služby sdílení můžete aktivovat z katalogu.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Přepnout na chat">
-<!ENTITY social.chatBar.accesskey "C">
-
-<!ENTITY social.markpageMenu.accesskey "U">
-<!ENTITY social.markpageMenu.label "Uložit stránku do…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Uložit odkaz do…">
 
 <!ENTITY getUserMedia.selectCamera.label "Sdílet kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Povolit ochranu">
 <!ENTITY trackingContentBlocked.block.accesskey "P">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrana proti sledování je zakázána">
-
-<!ENTITY pointerLock.notification.message "Pro opětovné zobrazení stiskněte ESC.">
 
 <!ENTITY pluginNotification.showAll.label "Zobrazit vše">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
