@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "연결 설정">
-<!ENTITY  window.width                  "42em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "프록시 설정">
 <!ENTITY  noProxyTypeRadio.label        "프록시 사용 안 함">
