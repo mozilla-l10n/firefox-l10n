@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "Opsyen">
 
-<!ENTITY printBG.label       "Cetak Latar (warna imej)">
+<!ENTITY printBG.label       "Cetak Latar belakang (warna &amp; imej)">
 <!ENTITY printBG.accesskey   "j">
 
 <!ENTITY advanced.tab        "Margin &amp; Pengepala/Footer">
