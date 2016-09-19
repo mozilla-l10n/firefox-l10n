@@ -5,7 +5,7 @@
 <!ENTITY syncKey.page.title               "Kekunci &syncBrand.fullName.label; Anda">
 <!ENTITY syncKey.page.description2        "Kekunci ini digunakan untuk mengenyahkod data dalam akaun &syncBrand.fullName.label; anda. Anda perlu masukkan kekunci setiap kali anda menukar &syncBrand.fullName.label; pada peranti baru.">
 <!ENTITY syncKey.keepItSecret.heading     "Dijaga rahsia">
-<!ENTITY syncKey.keepItSecret.description "Akaun &syncBrand.fullName.label; anda telah disulitkan untuk melindungi privasi anda. Tanpa kunci ini, ia akan mengambil bertahun-tahun untuk sesiapa untuk mendapatkan maklumat peribadi anda. Hanya kamu yang memegang kunci ini. Ini bermakna hanya kamu yang dapat akses ke data &syncBrand.fullName.label; anda.">
+<!ENTITY syncKey.keepItSecret.description "Akaun &syncBrand.fullName.label; anda telah dienkripsi untuk melindungi privasi anda. Tanpa kunci ini, tempoh bertahun diperlukan untuk sesiapa yang mahu mendapatkan maklumat peribadi anda. Hanya anda yang memegang kunci ini. Ini bermakna hanya anda boleh mengakses ke data &syncBrand.fullName.label; anda.">
 <!ENTITY syncKey.keepItSafe.heading       "Disimpan selamat">
 <!ENTITY syncKey.keepItSafe1.description  "Jangan hilangkan kata kunci ini.">
 <!ENTITY syncKey.keepItSafe2.description  " Kami tidak akan simpan salinan kata kunci (itu bukan dipanggil simpan rahsia!), jadi ">
