@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ਹੋਰ ਜਾਣੋ">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ &vendorShortName; ਨੂੰ ਭੇਜ ਕੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵੱਧ ਸਥਿਰ ਅਤੇ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰਦਾ ਹੈ।">
-<!ENTITY enableCrashReporter.label       "ਕਰੈਸ਼ ਰਿਪੋਟਰ ਚਾਲੂ">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "ਹੋਰ ਜਾਣੋ">
+<!ENTITY crashReporterLearnMore.label     "ਹੋਰ ਜਾਣੋ">
 
 <!ENTITY networkTab.label                "ਨੈੱਟਵਰਕ">
 

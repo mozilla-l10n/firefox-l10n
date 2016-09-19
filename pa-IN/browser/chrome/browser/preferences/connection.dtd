@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ਇੰਟਰਨੈਟ ਵਰਤਣ ਲਈ ਪਰਾਕਸੀ ਸੰਰਚਨਾ">
 <!ENTITY  noProxyTypeRadio.label        "ਪਰਾਕਸੀ ਨਹੀਂ">

@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "ਸੂਚੀ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -75,7 +73,6 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "ਫਾਈਲ ਨੂੰ ਹਟਾਓ">
-
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
@@ -109,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearDownloadsButton.tooltip     "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
