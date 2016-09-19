@@ -14,8 +14,6 @@
 
 <!ENTITY button.addFeed.label        "Προσθήκη">
 <!ENTITY button.addFeed.accesskey    "θ">
-<!ENTITY button.editFeed.label       "Επεξεργασία">
-<!ENTITY button.editFeed.accesskey   "ξ">
 <!ENTITY button.removeFeed.label     "Απομάκρυνση">
 <!ENTITY button.removeFeed.accesskey "ρ">
 <!ENTITY button.importOPML.label     "Εισαγωγή">
