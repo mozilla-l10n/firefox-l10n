@@ -56,10 +56,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступне надоградње. 
                                            Проверите да ли имате најновију верзију &brandShortName;а са:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Нешто спречава &brandShortName; да се безбедно надогради. 
-                                           Проверите да ли имате најновију верзију &brandShortName;а са:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Нешто покушава да превари &brandShortName; прихватањем несигурне надоградње. 
-                                           Контактирајте свог добављача преже за помоћ.">
 
 <!ENTITY  finishedPage.title              "Надоградња је спремна за инсталацију">
 <!ENTITY  finishedPage.text               "Надоградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете
