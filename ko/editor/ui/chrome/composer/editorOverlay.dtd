@@ -27,9 +27,6 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "삽입">
 <!ENTITY insertMenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "링크…">
-<!ENTITY insertLinkCmd.accesskey "l">
-<!ENTITY insertLinkCmd.key "l">
 <!ENTITY insertAnchorCmd.label "내부 링크…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "이미지…">
@@ -145,7 +142,7 @@
 
 <!ENTITY paragraphMenu.label "문단">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "문단">  
+<!ENTITY paragraphParagraphCmd.label "문단">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "제목1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -268,7 +265,7 @@
 <!ENTITY tableDeleteMenu.label "삭제">
 <!ENTITY tableDeleteMenu.accesskey "D">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
