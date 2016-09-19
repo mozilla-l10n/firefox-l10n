@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title          "О програму &brandFullName;">
 
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
 <!ENTITY update.updateButton.label2               "Поново покрените &brandShortName; да би се применило ажурирање">
 <!ENTITY update.updateButton.accesskey            "о">
-<!ENTITY update.applyButtonBillboard.label        "Примени ажурирање…">
-<!ENTITY update.applyButtonBillboard.accesskey    "р">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
