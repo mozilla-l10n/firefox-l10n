@@ -25,18 +25,18 @@
      -->
 <!ENTITY downloadDetails.width            "52ch">
 
-<!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
+<!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
      number of downloads exceeds the limit that the panel can display.
 
-     A good rule of thumb here is to look at the otherDownloads string
+     A good rule of thumb here is to look at the otherDownloads2 string
      in downloads.properties, and make a reasonable estimate of its
      maximum length. For English, this seems like a reasonable limit:
 
-     +999 other current downloads
+     + 999 other downloads
 
-     that's 28 characters, so we set the minimum width to 28ch.
+     that's 21 characters, so we set the minimum width to 21ch.
      -->
 <!ENTITY downloadsSummary.minWidth2       "22ch">
 
@@ -62,14 +62,10 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Fuortsmite út skiednis">
 <!ENTITY cmd.removeFromHistory.accesskey  "s">
-<!ENTITY cmd.clearList.label              "List wiskje">
-<!ENTITY cmd.clearList.accesskey          "w">
 <!ENTITY cmd.clearDownloads.label         "Downloads wiskje">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
-     a text link when malware or potentially unwanted downloads are blocked.
-     Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
 <!ENTITY cmd.unblock2.label               "Downloaden tastean">
 <!ENTITY cmd.unblock2.accesskey           "o">
@@ -103,7 +99,6 @@
      -->
 <!ENTITY learnMore.label                  "Mear ynfo">
 
-
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
@@ -111,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Alle downloads toane">
 <!ENTITY downloadsHistory.accesskey       "d">
+
 
 <!ENTITY clearDownloadsButton.label       "Downloads wiskje">
 <!ENTITY clearDownloadsButton.tooltip     "Wisket foltôge, annulearre en mislearre downloads">

@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ferbiningsynstellingen">
-<!ENTITY  window.width                  "39em">
-<!ENTITY  window.macWidth               "41em">
 
 <!ENTITY  proxyTitle.label              "Proxy's foar tagong ta ynternet ynstelle">
 <!ENTITY  noProxyTypeRadio.label        "Gjin proxy">
@@ -38,7 +36,6 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Gjin proxy foar:">
 <!ENTITY  noproxy.accesskey             "n">
