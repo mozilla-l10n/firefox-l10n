@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "ទូទៅ">
 
@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "ទ">
 <!ENTITY telemetryLearnMore.label        "សិក្សា​​បន្ថែម">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បីឲ្យ &vendorShortName; ជួយ​ធ្វើឲ្យ​កម្មវិធី​រុករក​របស់​អ្នក​កាន់តែ​មាន​ស្ថិរភាព និង​សុវត្ថិភាព">
-<!ENTITY enableCrashReporter.label       "បើក​កម្មវិធី​ផ្ញើ​របាយការណ៍គាំង">
-<!ENTITY enableCrashReporter.accesskey   "គ">
-<!ENTITY crashReporterLearnMore.label    "សិក្សា​​បន្ថែម">
+<!ENTITY crashReporterLearnMore.label     "សិក្សា​​បន្ថែម">
 
 <!ENTITY networkTab.label                "បណ្តាញ">
 
@@ -56,13 +53,13 @@
 <!ENTITY httpCache.label                 "មាតិកា​បណ្ដាញ​ដែល​បាន​ដាក់​ក្នុង​ឃ្លាំង​សម្ងាត់">
 
 <!ENTITY offlineStorage2.label           "មាតិកា​បណ្ដាញ និង​ទិន្នន័យ​អ្នកប្រើ​ក្រៅ​បណ្ដាញ">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "កំណត់​ឃ្លាំង​សម្ងាត់​ត្រឹម">
 <!ENTITY limitCacheSizeBefore.accesskey  "ម">
 <!ENTITY limitCacheSizeAfter.label       "MB នៃ​ទំហំ">

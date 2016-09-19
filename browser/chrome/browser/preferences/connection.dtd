@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ការ​កំណត់​ការ​តភ្ជាប់">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "កំណត់​រចនាសម្ព័ន្ធ​ប្រូកស៊ី ដើម្បី​ចូល​ដំណើរ​ការ​អ៊ីនធឺណិត">
 <!ENTITY  noProxyTypeRadio.label        "គ្មាន​ប្រូកស៊ី​ទេ ">
