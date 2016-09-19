@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ע">
 <!ENTITY cmd.removeFromHistory.label      "הסרה מההיסטוריה">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "מחיקת רשימה">
-<!ENTITY cmd.clearList.accesskey          "מ">
 <!ENTITY cmd.clearDownloads.label         "ניקוי רשימת ההורדות">
 <!ENTITY cmd.clearDownloads.accesskey     "ה">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +105,7 @@
      -->
 <!ENTITY downloadsHistory.label           "הצגת כול ההורדות">
 <!ENTITY downloadsHistory.accesskey       "ה">
+
 
 <!ENTITY clearDownloadsButton.label       "ניקוי הורדות">
 <!ENTITY clearDownloadsButton.tooltip     "ניקוי ההורדות שהושלמו, בוטלו ונכשלו">

@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "מידע נוסף">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; לעשות את דפדפן שלך יותר יציב ובטוח">
-<!ENTITY enableCrashReporter.label       "אפשר את מדווח הקריסות">
-<!ENTITY enableCrashReporter.accesskey   "מ">
-<!ENTITY crashReporterLearnMore.label    "מידע נוסף">
+<!ENTITY crashReporterLearnMore.label     "מידע נוסף">
 
 <!ENTITY networkTab.label                "רשת">
 

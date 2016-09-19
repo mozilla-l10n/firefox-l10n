@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "הגדרות חיבור">
-<!ENTITY  window.width                  "44em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
 <!ENTITY  noProxyTypeRadio.label        "ללא שרת מתווך">

@@ -47,9 +47,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; לא הצליח לגלות אם יש עדכון זמין. אנא 
 ודא שיש לך את הגרסה העדכנית ביותר של &brandShortName; דרך:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "משהו מונע מ־&brandShortName; לעדכן בצורה מאובטחת.                                           אנא ודא שהורדת את הגרסה העדכנית של &brandShortName; מ־">
-<!ENTITY  errorCertAttrHasUpdate.label    "משהו מנסה להערים על &brandShortName; כדי שיתקבל 
-עדכון המהווה סיכון בטיחותי. אנא צור קשר עם ספק הרשת שלך בבקשת עזרה.">
 
 <!ENTITY  finishedPage.title              "עדכון מוכן להתקנה">
 <!ENTITY  finishedPage.text               "עדכון זה יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
