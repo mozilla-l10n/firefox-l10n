@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "等宽字体：">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "拉丁">
 <!ENTITY  font.langGroup.japanese                 "日语">
 <!ENTITY  font.langGroup.trad-chinese             "繁体中文（中国台湾）">
@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "高棉语">
 <!ENTITY  font.langGroup.malayalam                "马拉亚拉姆">
 <!ENTITY  font.langGroup.math                     "数学">
-<!ENTITY  font.langGroup.oriya                    "奥里亚语">
 <!ENTITY  font.langGroup.telugu                   "泰卢固语">
 <!ENTITY  font.langGroup.kannada                  "埃纳德语">
 <!ENTITY  font.langGroup.sinhala                  "僧伽罗语">
@@ -56,19 +55,19 @@
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "无">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "衬线字体">
 <!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "字体控制">
 <!ENTITY  useFixedWidthForPlainText.label         "用等宽字体显示纯文本信息">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "允许消息使用其他字体">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "发送邮件：">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle2.label            "文字编码">
