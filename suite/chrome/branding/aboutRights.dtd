@@ -43,6 +43,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "这里">
+<!ENTITY rights3.webservices-c "。其他功能和服务可以在应用程序首选项中启用或禁用。">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "附加组件服务：">
@@ -61,6 +63,11 @@
 <!ENTITY rights.safebrowsing-term4 "安全浏览现在已禁用">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "位置感知浏览：">
+<!ENTITY rights.locationawarebrowsing-term1 "打开应用程序首选项">
+<!ENTITY rights.locationawarebrowsing-term2 "选择主要 &security.label; 面板">
+<!ENTITY rights.locationawarebrowsing-term3 "选择”&geoDisabled.label;“的选项">
+<!ENTITY rights.locationawarebrowsing-term4 "位置感知浏览现在已禁用">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; 可以保留中止或修改服务的权利。">
