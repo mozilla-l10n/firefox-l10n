@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Saglabāt šo lapu grāmatzīmēs">
 <!ENTITY editThisBookmarkCmd.label "Rediģēt šo grāmatzīmi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Drukāt šo lapu">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Aplūkot lapas informāciju">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Aplūkot paziņojumu">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Aplūkot atrašanās vietas pieprasījumu">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Aplūkot papildinājuma instalēšanas paziņojumu">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Aplūkot lietotnes nesaistes datu paziņojumu">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Pārvaldīt autorizācijas informāciju">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Atzīmējiet, ja vēlaties saglabāt paroli">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Pārvaldīt spraudņu lietojumu šajā lapā">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Mainiet, vai šī lapa var parādīt paziņojumus">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo lapu">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Jūs šobrīd koplietojat kameru un/vai mikrofonu ar šo lapu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Pārvaldīt mikrofona koplietošanu ar šo lapu">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Jūs šobrīd koplietojat mikrofonu ar šo lapu">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Pārvaldīt logu koplietošanu ar šo lapu">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Jūs šobrīd koplietojat logu vai ekrānu ar šo lapu">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Izmainiet vai lapa drīkst paslēpt peles kursoru">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Aplūkot pakalpojuma instalēšanas paziņojumu">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Tulkot šo lapu">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Pārvaldīt lapas tulkojumu">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Pārvaldīt DRM programmatūras izmantošanu">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
+
 
 <!ENTITY searchItem.title             "Meklēt">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Meklējamā frāze">
-<!ENTITY contentSearchSubmit.label    "Nosūtīt meklējumu">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sinhronizēt">
 
-<!ENTITY socialToolbar.title        "Sociālo rīku joslas poga">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Rādīt sānu joslu">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Pārvaldīt pakalpojumus…">
-
-<!ENTITY social.toggleNotifications.label "Rādīt paziņojumus">
-<!ENTITY social.toggleNotifications.accesskey "d">
-
-<!ENTITY social.learnMore.label "Uzzināt vairāk…">
-<!ENTITY social.learnMore.accesskey "z">
 
 <!ENTITY social.directory.label "Aktivāciju saraksts">
 <!ENTITY social.directory.text "Jūs varat aktivizēt dalīšanās pakalpojumus no šī saraksta.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "P">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Iegūt jaunas tēmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "I">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Parādīt sarunas">
-<!ENTITY social.chatBar.accesskey "r">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Saglabāt lapu…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Saglabāt saiti…">
 
 <!ENTITY getUserMedia.selectCamera.label "Izvēlies kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktivēt aizsardzību">
 <!ENTITY trackingContentBlocked.block.accesskey "b">
 <!ENTITY trackingContentBlocked.disabled.message "Sekošanas aizsardzība ir deaktivēta">
-
-<!ENTITY pointerLock.notification.message "Nospiediet ESC lai to atkal parādītu.">
 
 <!ENTITY pluginNotification.showAll.label "Rādīt visus">
 <!ENTITY pluginNotification.showAll.accesskey "s">
