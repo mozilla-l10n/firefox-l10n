@@ -2,20 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Use Tracking Protection">
 <!ENTITY  trackingProtectionAlways.label       "සැමවිටම">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "Only in private windows">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "කිසිදාක නැත">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "තවත් දැනගන්න">
+<!ENTITY  trackingProtectionExceptions.label   "Exceptions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Tracking">
+<!ENTITY trackingProtectionPBM5.label         "Use Tracking Protection in Private Windows">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY changeBlockList.label          "Change Block List">
 <!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "You can also ">
+<!ENTITY  doNotTrack.settings.label     "manage your Do Not Track settings">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ඉතිහාසය">
 
@@ -28,8 +37,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ටැබ් විවෘත කරන්න (O)">
 <!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "Related searches from the default search engine">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "Change preferences for search engine suggestions…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "අඩවි වෙතින් කුකී පිළිගන්න">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -92,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "සැකසුම්…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "Container Tabs">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
+<!ENTITY  browserContainersEnabled.label        "Enable Container Tabs">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
