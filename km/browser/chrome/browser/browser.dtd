@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "បោះពុម្ព​ទំព័រ​នេះ">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "មើល​ព័ត៌មាន​តំបន់បណ្ដាញ">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "មើល​ការ​ជូនដំណឹង">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "មើល​សំណើ​ទីតាំង">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​អំពី​ការ​ដំឡើង​កម្មវិធី​បន្ថែម">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "មើលសារអំពីការផ្ទុកក្រៅបណ្តាញរបស់កម្មវិធី">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "គ្រប់គ្រងព័ត៌មាន​ការ​ចូល​របស់​អ្នក">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "គូសគ្រីសប្រសិនបើអ្នកចង់រក្សាទុកពាក្យសម្ងាត់របស់អ្នក">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី​ជំនួយ​លើទំព័រនេះ">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ផ្លាស់​ប្ដូរ​ថា​តើ​អ្នក​អាច​ទទួល​ការ​ជូន​ដំណឹង​ពីតំបន់បណ្តាញឬទេ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "គ្រប់​គ្រង​ការ​ចែក​រំលែក​ម៉ាស៊ីនថត និង/ឬ មីក្រូហ្វូនរបស់អ្នកជាមួយតំបន់បណ្តាញ">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "អ្នក​កំពុង​ចែករំលែក​ម៉ាស៊ីន​ថត និង/ឬ ​មីក្រូហ្វូនរបស់អ្នក​ជាមួយ​តំបន់បណ្ដាញ។">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "គ្រប់គ្រងការចែករំលែកមីក្រូហ្វូនជាមួយតំបន់បណ្តាញ">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "អ្នក​កំពុង​ចែករំលែក​មីក្រូហ្វូន​របស់អ្នកជាមួយ​តំបន់បណ្តាញ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "គ្រប់គ្រងការចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "អ្នកកំពុងចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ប្ដូរ​ថា​តើ​វេបសាយ​អាច​លាក់​សញ្ញា​ព្រួញ">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "មើល​សារពីការ​ដំឡើង​សេវាកម្ម">
-<!ENTITY urlbar.translateNotificationAnchor.label       "បក​ប្រែ​ទំព័រ​នេះ">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "គ្រប់​គ្រង​ការ​បកប្រែ​ទំព័រ">
-<!ENTITY urlbar.emeNotificationAnchor.label             "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
+
 
 <!ENTITY searchItem.title             "ស្វែងរក">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "សំណួរ​ស្វែងរក">
-<!ENTITY contentSearchSubmit.label    "ដាក់​ស្នើ​ការ​ស្វែងរក">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ត">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
 
-<!ENTITY socialToolbar.title        "ប៊ូតុង​របារ​ឧបករណ៍​សង្គម">
-
-<!ENTITY social.ok.label       "យល់ព្រម">
-<!ENTITY social.ok.accesskey   "យ">
-
-<!ENTITY social.toggleSidebar.label "បង្ហាញ​របារចំហៀង">
-<!ENTITY social.toggleSidebar.accesskey "ច">
-
 <!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
-
-<!ENTITY social.toggleNotifications.label "បង្ហាញការ​ជូន​ដំណឹង​លើ​ផ្ទៃតុ">
-<!ENTITY social.toggleNotifications.accesskey "ក">
-
-<!ENTITY social.learnMore.label "ស្វែងយល់​បន្ថែម...">
-<!ENTITY social.learnMore.accesskey "ស">
 
 <!ENTITY social.directory.label "ថត​ការ​ធ្វើ​ឲ្យ​សកម្ម​នានា">
 <!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "យក​រូបរាង​ច្រើនទៀត">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ការ​ជជែក​ផ្ដោត">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "ទ">
-<!ENTITY social.markpageMenu.label "រក្សាទុកទំព័រ​ទៅកាន់…">
-<!ENTITY social.marklinkMenu.accesskey "ត">
-<!ENTITY social.marklinkMenu.label "រក្សាទុកតំណ​ទៅកាន់…">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectCamera.accesskey "ម">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "បើក​ការការពារ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ការ​ការ​ពារ​ការ​តាមដានត្រូវបានបិទ">
-
-<!ENTITY pointerLock.notification.message "ចុច ESC ប្រសិនបើ​អ្នក​ចង់​បង្ហាញ​វា​ម្ដងទៀត។">
 
 <!ENTITY pluginNotification.showAll.label "បង្ហាញ​ទាំងអស់">
 <!ENTITY pluginNotification.showAll.accesskey "ង">

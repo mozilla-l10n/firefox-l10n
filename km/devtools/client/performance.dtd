@@ -11,11 +11,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
-  -  the labels shown on the main recording buttons to start/stop recording. -->
-<!ENTITY performanceUI.startRecording "ចាប់ផ្ដើម​ធ្វើការ​ថត">
-<!ENTITY performanceUI.stopRecording  "ឈប់​ធ្វើការ​ថត">
-
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "ម្ចាស់ប្រវត្តិរូបរក្សានូវគំរូក្នុងបាសហ្វើរង្វិលជុំ ហើយនៅពេលដែលបាសហ្វើឈានដល់កម្រិតកំណត់សម្រាប់ការថត គំរូថ្មីៗចាប់ផ្តើមសរសេរជាន់គំរូនៅពេលចាប់ផ្តើមថតដំបូង។">
@@ -42,18 +37,6 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "កំពុង​ផ្ទុក…">
-
-<!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
-  -  on a button that starts a new profile. -->
-<!ENTITY performanceUI.recordButton.tooltip "បិទ/បើក​​ស្ថានភាពថតចម្លងនៃការថត​ដែល​កំពុង​ធ្វើ​">
-
-<!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
-  -  on a button that opens a dialog to import a saved profile data file. -->
-<!ENTITY performanceUI.importButton "នាំចូល…">
-
-<!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
-  -  on a button that removes all the recordings. -->
-<!ENTITY performanceUI.clearButton "សម្អាត">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
