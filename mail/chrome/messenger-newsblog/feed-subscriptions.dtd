@@ -29,8 +29,6 @@
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
-<!ENTITY button.editFeed.label       "Змінити">
-<!ENTITY button.editFeed.accesskey   "З">
 <!ENTITY button.removeFeed.label     "Вилучити">
 <!ENTITY button.removeFeed.accesskey "В">
 <!ENTITY button.importOPML.label     "Імпорт">
