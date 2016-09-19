@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "в">
 <!ENTITY cmd.removeFromHistory.label      "Премахване от списъка">
 <!ENTITY cmd.removeFromHistory.accesskey  "П">
-<!ENTITY cmd.clearList.label              "Изчистване на списъка">
-<!ENTITY cmd.clearList.accesskey          "ч">
 <!ENTITY cmd.clearDownloads.label         "Изчистване на изтеглянията">
 <!ENTITY cmd.clearDownloads.accesskey     "и">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Показване на всички изтегляния">
 <!ENTITY downloadsHistory.accesskey       "в">
+
 
 <!ENTITY clearDownloadsButton.label       "Изчистване на изтеглянията">
 <!ENTITY clearDownloadsButton.tooltip     "Изчиства завършили, отменени и неуспешни изтегляния">
