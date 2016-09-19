@@ -353,6 +353,7 @@
 <!ENTITY searchAfter.label "">
 <!ENTITY searchWithHeader.label "Szukaj z">
 <!ENTITY changeSearchSettings.button "Zmień ustawienia wyszukiwania">
+<!ENTITY changeSearchSettings.tooltip "Zmień ustawienia wyszukiwania">
 
 <!ENTITY searchInNewTab.label "Szukaj w nowej karcie">
 <!ENTITY searchInNewTab.accesskey "S">
