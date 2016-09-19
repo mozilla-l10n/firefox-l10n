@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "මෙම පිටුව සලකුණු කරගන්න">
 <!ENTITY editThisBookmarkCmd.label "මෙම පිටු සලකුණ සකසන්න">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "පිටුව මුද්‍රණය">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "අඩවි තොරතුරු පෙන්වන්න">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "දැනුම්දීමක් පෙන්වන්න">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "ස්ථාන ඉල්ලීම පෙන්වන්න">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "ඇඩෝන ස්ථාපන පණිවුඩය පෙන්වන්න">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "යෙදුම්-මාර්ගගත නොවන ගබඩා පණිවුඩය පෙන්වන්න">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "ඔබේ පිවිසුම් තොරතුරු පාලනය කරන්න">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "ඔබට ඔබේ මුරපදය සුරැකීමට ඇවැසි නම් සලකුණු කරන්න">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ප්ලගින භාවිතය මෙම පිටුවෙන් පාලනය කරන්න">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "අඩවියෙන් ඔබට දැන්වීම් ලැබිය හැකිදැයි පාලනය කරන්න">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදා ගනී">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගනී">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගනී">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "අඩවියට සැරිත්ත සැඟවිය හැකිදැයි යන්න වෙනස් කරන්න">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "සේවා ස්ථාපන පණිවුඩ පෙන්වන්න">
-<!ENTITY urlbar.translateNotificationAnchor.label       "මෙම පිටුව පරිවර්තනය කරන්න">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "පිටු පරිවර්තනය පාලනය">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM මෘදුකාංග භාවිත පාලනය">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
+
 
 <!ENTITY searchItem.title             "සොයන්න">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "සෙවුම් විමසුම">
-<!ENTITY contentSearchSubmit.label    "සෙවුම යවන්න">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
 
-<!ENTITY socialToolbar.title        "සමාජ මෙනුතීරු බොත්තම">
-
-<!ENTITY social.ok.label       "හරි (O)">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "පැතිතීරුව පෙන්වන්න (s)">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "සේවාවන් පරිපාලනය...">
-
-<!ENTITY social.toggleNotifications.label "වැඩතල දැන්වීම් (n)">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "තවත් දැනගන්න... (L)">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "සක්‍රීයකිරීම් නාමාවලිය">
 <!ENTITY social.directory.text "ඔබට නාමාවලිය වෙතින් බෙදාගැනීමේ සේවා සක්‍රීය කළ හැක.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "තවත් තේමා ලබාගන්න">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "සංවාද නාඹිගත (c)">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "පිටුව සුරකින්නේ... (P)">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "වෙත සබැඳිය සුරකින්න... (L)">
 
 <!ENTITY getUserMedia.selectCamera.label "බෙදාගන්නා කැමරාව (C):">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingContentBlocked.block.accesskey "ආ">
 <!ENTITY trackingContentBlocked.disabled.message "ලුහුබැඳීම් ආරක්ශාව අක්‍රීය කරන ලදී">
-
-<!ENTITY pointerLock.notification.message "නැවත ඕනෑම මොහොතක පෙන්වීමට ESC ඔබන්න">
 
 <!ENTITY pluginNotification.showAll.label "සියල්ල පෙන්වන්න (S)">
 <!ENTITY pluginNotification.showAll.accesskey "S">
