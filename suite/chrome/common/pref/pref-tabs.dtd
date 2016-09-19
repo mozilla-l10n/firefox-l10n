@@ -25,5 +25,5 @@
 <!ENTITY openManagers.label "In neuem Tab statt eines alleinstehenden Fensters öffnen">
 <!ENTITY openDataManager.label "Datenverwaltung">
 <!ENTITY openDataManager.accesskey "D">
-<!ENTITY openAddOnsManager.label "Add-on-Manager">
+<!ENTITY openAddOnsManager.label "Add-on-Verwaltung">
 <!ENTITY openAddOnsManager.accesskey "A">
