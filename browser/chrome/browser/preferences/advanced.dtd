@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "संकेत स्थळ पृष्ठ पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
+<!ENTITY useOnScreenKeyboard.label       "जेव्हा आवश्यक असेल तेव्हा टच कीबोर्ड दाखवा">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "ब्राउजिंग">
 
@@ -35,7 +35,8 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "आणखी शिका">
 
-<!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजे टेलीमेट्री)">
+<!ENTITY telemetryDesc.label             "ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
+<!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजे Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "आणखी शिका">
 
