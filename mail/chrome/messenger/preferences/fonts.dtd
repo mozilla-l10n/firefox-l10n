@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "ឡាតាំង">
 <!ENTITY  font.langGroup.japanese                 "Japanese">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "គណិត​វិទ្យា">
-<!ENTITY  font.langGroup.oriya                    "អូរីយ៉ា">
 <!ENTITY  font.langGroup.telugu                   "តេលូហ្គូ​">
 <!ENTITY  font.langGroup.kannada                  "កិណាដា">
 <!ENTITY  font.langGroup.sinhala                  "ស៊ីនហាឡា">
@@ -56,19 +55,19 @@
 <!ENTITY minSize.label                            "Minimum font size:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "None">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Font Control">
 <!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle2.label            "ការ​អ៊ិនកូដ​អត្ថបទ​​">
