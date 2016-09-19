@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "မှတ်တမ်းမှ ဖယ်ရှားပါ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "စာရင်းကို ရှင်းလင်းပါ">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "ဆွဲယူထားသည့်ဖိုင်အားလုံးကို ပြပါ">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ">
 <!ENTITY clearDownloadsButton.tooltip     "ဆွဲယူပြီးသောဖိုင်များ၊ မဆွဲယူတော့သောဖိုင်များနှင့် ဆွဲယူမှုမအောင်မြင်သောဖိုင်များကို ရှင်းလင်းပါ">

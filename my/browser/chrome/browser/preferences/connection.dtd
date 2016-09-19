@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ချိတ်ဆက်မှု အပြင်အဆင်များ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "အင်တာနက်ထဲ ၀င်ရောက်ဖို့ ကြားခံများကို ပြင်ဆင် ဖန်တီးပါ">
 <!ENTITY  noProxyTypeRadio.label        "ကြားခံ မပါy">

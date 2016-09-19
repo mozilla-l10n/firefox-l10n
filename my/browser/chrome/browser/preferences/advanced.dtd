@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "အထွေထွေ">
 
@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ဆက်လက်ဖတ်ရှူရန်">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; သည် အချက်အလက်အချို့အား &vendorShortName; သို့ပေးပို့ခြင်းအားဖြင့် သင်၏ သုံးဆွဲမှူအားပိုမိုတည်ငြိမ်လုံခြုံအောင် လုပ်ရန် ကူညီပါ။">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "ဆက်လက်ဖတ်ရှူရန်">
+<!ENTITY crashReporterLearnMore.label     "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY networkTab.label                "ကွန်ရက် ချိတ်ဆက်မှု">
 
@@ -56,13 +53,13 @@
 <!ENTITY httpCache.label                 "Cached Web Content">
 
 <!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "အရန်သိမ်းဆည်းမှုကို နေရာလပ်">
 <!ENTITY limitCacheSizeBefore.accesskey  "အ">
 <!ENTITY limitCacheSizeAfter.label       "MB ဖြင့် ကန့်သတ်ထားပါ">
