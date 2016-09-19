@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Todos os tipos de dados">
 <!ENTITY select.cookies.label "Somente os cookies">
 <!ENTITY select.permissions.label "Somente as permissões">
-<!ENTITY select.permissionspwd.label "Somente as permissões de senha">
 <!ENTITY select.preferences.label "Somente as preferências">
 <!ENTITY select.passwords.label "Somente as senhas">
 <!ENTITY select.storage.label "Somente o armazenamento">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
-<!ENTITY tab.permissionspwd.label "Permissões de senha">
 <!ENTITY tab.preferences.label "Preferências">
 <!ENTITY tab.passwords.label "Senhas">
 <!ENTITY tab.storage.label "Armazenamento">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "Digite um nome de servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "Use o Padrão">
-<!ENTITY permpwd.AskAlways "Sempre perguntar">
-<!ENTITY permpwd.NeverSave "Nunca salvar">
-
-<!ENTITY permpwd.host.placeholder "Informe um hostname">
-<!ENTITY permpwd.button.add.label "Adicionar">
-<!ENTITY permpwd.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; salvar configurações, como níveis de zoom, especificamente para um site.">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissões">
 <!ENTITY forget.permissions.accesskey "P">
-<!ENTITY forget.permissionspwd.label "Permissões de senha">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Preferências de conteúdo">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Senhas">

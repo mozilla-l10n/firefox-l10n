@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "Ícones de sites">
 <!ENTITY useSiteIcons.label                     "Exibir ícones de sites">
 <!ENTITY useSiteIcons.accesskey                 "E">
-<!ENTITY useFavIcons.label                      "Procurar pelo ícone do site quando a página não define um">
-<!ENTITY useFavIcons.accesskey                  "P">
 
 <!ENTITY scrolling.label                        "Rolagem">
 <!ENTITY useAutoScroll.label                    "Usar autorrolagem">
