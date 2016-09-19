@@ -158,7 +158,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY editThisBookmarkCmd.label "ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -204,32 +203,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "ਸੂਚਨਾ ਨੂੰ ਵੇਖਓ">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "ਟਿਕਾਣਾ ਬੇਨਤੀ ਨੂੰ ਵੇਖੋ">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "ਐਡ-ਆਨ ਇੰਸਟਾਲ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ਐਪ-ਆਫ਼ਲਾਈਨ ਸਟੋਰੇਜ਼ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "ਆਪਣੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "ਜਾਂਚ ਕਰੋ ਕਿ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਲੱਗਇਨ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਤੋਂ ਤੁਸੀਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ਵਿੰਡੋ ਜਾਂ ਆਪਣਈ ਸਕਰੀਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਵਿੰਡੋ ਜਾਂ ਆਪਣੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਪੁਆਇੰਟਰ ਨੂੰ ਲੁਕਾ ਸਕਦੀ ਹੈ">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "ਸਰਵਿਸ ਇੰਸਟਾਲ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
-<!ENTITY urlbar.translateNotificationAnchor.label       "ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "ਸਫ਼ੇ ਦੇ ਅਨੁਵਾਦ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
+
 
 <!ENTITY searchItem.title             "ਖੋਜ">
 
@@ -422,11 +402,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ਖੋਜ ਕਿਊਰੀ">
-<!ENTITY contentSearchSubmit.label    "ਖੋਜ ਨੂੰ ਭੇਜੋ">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -773,21 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ਸਿੰਕ ਕਰੋ">
 
-<!ENTITY socialToolbar.title        "ਸਮਾਜਿਕ ਟੂਲਬਾਰ ਬਟਨ">
-
-<!ENTITY social.ok.label       "ਠੀਕ ਹੈ">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "…ਸੇਵਾ ਦਾ ਪਰਬੰਧ">
-
-<!ENTITY social.toggleNotifications.label "ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਨੂੰ ਵੇਖਾਓ">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "…ਹੋਰ ਜਾਣੋ">
-<!ENTITY social.learnMore.accesskey "l">
 
 <!ENTITY social.directory.label "ਸਰਗਰਮ ਡਾਇਰੈਕਟਰੀ">
 <!ENTITY social.directory.text "ਤੁਸੀਂ ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਸਾਂਝੀਆਂ ਸੇਵਾਵਾਂ ਨੂੰ ਸਰਗਰਮ ਕਰ ਸਕਦੇ ਹੋ।">
@@ -808,15 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ਹੋਰ ਥੀਮ ਲਵੋ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ਗੱਲਬਾਤ ਫੋਕਸ">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "…ਲਈ ਸਫ਼ਾ ਨੂੰ ਸੰਭਾਲੋ">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "…ਲਈ ਲਿੰਕ ਨੂੰ ਸੰਭਾਲੋ">
 
 <!ENTITY getUserMedia.selectCamera.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੈਮਰਾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -851,8 +807,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ">
-
-<!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
 
 <!ENTITY pluginNotification.showAll.label "ਸਭ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
