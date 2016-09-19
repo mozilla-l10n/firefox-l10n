@@ -62,8 +62,6 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "చరిత్ర నుండి తొలగించు (e)">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "జాబితా తుడిచివేయి">
-<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "అన్ని డౌనులోడులను చూపు">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY clearDownloadsButton.tooltip     "పూర్తయిన, రద్దుచేసిన మరియు విఫలమైన దింపుకోళ్ళను తుడిచివేస్తుంది">
