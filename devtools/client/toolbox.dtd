@@ -93,7 +93,6 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "启用远程调试">
-<!ENTITY options.enableRemote.tooltip   "打开此选项将允许开发者工具调试远端 Firefox 实例，比如 Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -119,10 +118,9 @@
 <!ENTITY options.enableServiceWorkersHTTP.label     "启用 Service Workers over HTTP（在工具箱打开时）">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "开启此选项时，将对所有标签页在工具箱打开时启用 Service Workers over HTTP。">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "默认的 Firefox 开发者工具">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
