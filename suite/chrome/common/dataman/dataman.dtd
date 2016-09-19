@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "所有数据类型">
 <!ENTITY select.cookies.label "仅 Cookie">
 <!ENTITY select.permissions.label "仅权限">
-<!ENTITY select.permissionspwd.label "仅密码权限">
 <!ENTITY select.preferences.label "仅首选项">
 <!ENTITY select.passwords.label "仅密码">
 <!ENTITY select.storage.label "仅存储">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookie">
 <!ENTITY tab.permissions.label "权限">
-<!ENTITY tab.permissionspwd.label "密码权限">
 <!ENTITY tab.preferences.label "首选项">
 <!ENTITY tab.passwords.label "密码">
 <!ENTITY tab.storage.label "存储">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "输入一个主机名称">
 <!ENTITY perm.button.add.label "添加">
 <!ENTITY perm.button.add.accesskey "A">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "使用默认设置">
-<!ENTITY permpwd.AskAlways "总是询问">
-<!ENTITY permpwd.NeverSave "总不保存">
-
-<!ENTITY permpwd.host.placeholder "请输入一个主机名称">
-<!ENTITY permpwd.button.add.label "添加">
-<!ENTITY permpwd.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "&brandShortName; 可以通过内容首选项保存它的设置，例如针对特定网站的缩放级别。">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "权限">
 <!ENTITY forget.permissions.accesskey "P">
-<!ENTITY forget.permissionspwd.label "密码权限">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "内容首选项">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "密码">

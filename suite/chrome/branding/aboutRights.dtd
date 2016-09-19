@@ -24,6 +24,8 @@
 <!ENTITY rights.intro-point2b "此处">
 <!ENTITY rights.intro-point2c "了解更多关于商标的信息。">
 
+<!-- point 2d is technically point 3. in the list -->
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "单击">
 <!ENTITY rights.intro-point3b "此处">
@@ -41,9 +43,6 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; 也提供了可选的服务，例如附加组件推荐和更新服务，以及安全浏览功能，您可在如下所述的 &brandShortName; 二进制版本中使用这些功能。这些功能被默认启用。如果您不想要使用这些服务，或者无法接受如下条款，您可以禁用服务，操作方法见 ">
-<!ENTITY rights2.webservices-b "这里">
-<!ENTITY rights2.webservices-c "。其他特性和服务可以在应用程序首选项中禁用。">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "附加组件服务：">
@@ -53,7 +52,6 @@
 <!ENTITY rights.addons-term3 "取消选中 &quot;&autoAddOnsUpdates.label;&quot; 和&quot;&enablePersonalized.label;&quot; 选项">
 <!ENTITY rights.addons-term4 "就这样，附加组件服务已被禁用了">
 
-
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "安全浏览：">
 <!ENTITY rights.safebrowsing-b "不推荐您禁用安全浏览功能，因为那样可能会导致您到达不安全的网站。如果您确定想完全禁用此功能，请按照下列步骤操作：">
@@ -62,8 +60,9 @@
 <!ENTITY rights.safebrowsing-term3 "取消选中“&blockAttackSites.label;”和“&blockWebForgeries.label;”选项">
 <!ENTITY rights.safebrowsing-term4 "安全浏览现在已禁用">
 
+<!-- location aware browsing points for branded builds -->
 
-<!-- points 1-6 text for branded builds -->
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; 可以保留中止或修改服务的权利。">
 <!ENTITY rights.webservices-term2 "欢迎通过 &brandShortName; 使用这些服务，并且您完全有权利使用。 &vendorShortName; 以及其授权者保留服务的所有其他的权利。这些条款并非用于限制任何开源许可给予您关于 &brandShortName; 的权利，而且是与 &brandShortName; 源代码条款一致。">
 <!ENTITY rights.webservices-term3 "本服务是由 &vendorShortName; 及其贡献者、授权者和分销者提供，拒绝所有担保，无论明示或暗示，包括但不限于保证该服务是可交易或适合您的特定目的的担保。您承担选择适合您目的、质量和性能要求之服务的全部风险。某些司法管辖区不允许除外或限制隐含的保证，因此，此免责声明可能对您不适用。">
