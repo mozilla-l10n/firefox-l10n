@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "C">
 <!ENTITY telemetryLearnMore.label        "Deprender más">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; unvia informes de casques p'ayudar a &vendorShortName; a facer más estable y seguru'l to restolador">
-<!ENTITY enableCrashReporter.label       "Activar l'informe de fallos">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Deprender más">
+<!ENTITY crashReporterLearnMore.label     "Deprender más">
 
 <!ENTITY networkTab.label                "Rede">
 

@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Amestar esta páxina a marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar esti marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "E">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprenta esta páxina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información del sitiu">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver un avisu">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver solicitú d'allugamientu">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver mensaxe d'instalación d'add-on">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver mensaxe del almacenamientu d'aplicaciones fuera de llinia">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Xestionar información d'aniciu de sesión">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Conseña si quies guardar la to contraseña">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Xestionar usu de complementos nesta páxina">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Camudar si pues recibir avisos del sitiu o non">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Xestionar compartición de la to cámara y/o micrófonu col sitiu">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Tas compartiendo la to cámara y/o micrófonu col sitiu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Xestionar compartición del to micrófonu col sitiu">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Tas compartiendo'l to micrófonu col sitiu">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Xestionar compartición de les tos ventanes col sitiu">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Tas compartiendo una ventana o la to pantalla col sitiu">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Camudar si'l sitiu pue anubrir el punteru o non">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver el mensaxe d'instalación del serviciu">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta páxina">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Xestionar traducción de páxina">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Xestionar usu de software DRM">
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
+
 
 <!ENTITY searchItem.title             "Guetar">
 
@@ -425,11 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Guetar consulta">
-<!ENTITY contentSearchSubmit.label    "Unviar gueta">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -775,21 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Botón de la barra de ferramientes social">
-
-<!ENTITY social.ok.label       "Aceutar">
-<!ENTITY social.ok.accesskey   "A">
-
-<!ENTITY social.toggleSidebar.label "Amosar barra llateral">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Xestionar servicios…">
-
-<!ENTITY social.toggleNotifications.label "Amosar avisos d'escritoriu">
-<!ENTITY social.toggleNotifications.accesskey "a">
-
-<!ENTITY social.learnMore.label "Depriendi más…">
-<!ENTITY social.learnMore.accesskey "m">
 
 <!ENTITY social.directory.label "Direutoriu d'activaciones">
 <!ENTITY social.directory.text "Pues activar servicios de compartición del direutoriu.">
@@ -810,15 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "L">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Enfocar charres">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "d">
-<!ENTITY social.markpageMenu.label "Guardar páxina en…">
-<!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY social.marklinkMenu.label "Guardar enllaz en…">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara pa compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -853,8 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar proteición">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La proteición de rastrexu ta deshabilitada">
-
-<!ENTITY pointerLock.notification.message "Primi ESC cuando quieras p'amosalu de nueves.">
 
 <!ENTITY pluginNotification.showAll.label "Amosar too">
 <!ENTITY pluginNotification.showAll.accesskey "M">
