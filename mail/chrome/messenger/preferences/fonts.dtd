@@ -47,12 +47,10 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematik">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Singalesiska">
 <!ENTITY  font.langGroup.tibetan                  "Tibetanska">
-
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minsta storlek:">
 <!ENTITY minSize.accesskey                        "M">
@@ -76,6 +74,6 @@
 <!ENTITY composingDescription2.label      "Ange standardtextkodning för att skicka och ta emot e-post">
 
 <!ENTITY viewDefaultCharsetList.label     "Inkommande e-post:">
-<!ENTITY viewDefaultCharsetList.accesskey "e">
+<!ENTITY viewDefaultCharsetList.accesskey  "e">
 <!ENTITY replyInDefaultCharset3.label     "Använd om möjligt standardtextkodning i svaren">
 <!ENTITY replyInDefaultCharset3.accesskey "n">
