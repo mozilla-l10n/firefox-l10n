@@ -24,6 +24,8 @@
 <!ENTITY rights.intro-point2b "zde">
 <!ENTITY rights.intro-point2c ".">
 
+<!-- point 2d is technically point 3. in the list -->
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné ">
 <!ENTITY rights.intro-point3b "zde">
@@ -41,9 +43,6 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; poskytuje informační služby („Služby“), například službu návrhů a aktualizace doplňků, nebo funkci bezpečného prohlížení webu, které jsou dostupné v rámci této binární verze aplikace &brandShortName;, za podmínek popsaných níže. Ve výchozím nastavení jsou tyto služby povoleny. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, postup jak jednotlivé funkce nebo služby zakázat můžete nalézt ">
-<!ENTITY rights2.webservices-b "zde">
-<!ENTITY rights2.webservices-c ". Další funkce a Služby lze zakázat v předvolbách aplikace.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služby doplňků: ">
@@ -53,7 +52,6 @@
 <!ENTITY rights.addons-term3 "Zrušte zaškrtnutí předvolby &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Služby doplňků jsou nyní vypnuty">
 
-
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Bezpečné prohlížení: ">
 <!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení není doporučováno, protože vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
@@ -62,8 +60,9 @@
 <!ENTITY rights.safebrowsing-term3 "Zrušte zaškrtnutí předvolby &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Bezpečné prohlížení je nyní vypnuto">
 
+<!-- location aware browsing points for branded builds -->
 
-<!-- points 1-6 text for branded builds -->
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Organizace &vendorShortName; může libovolně ukončit nebo změnit užívání Služeb.">
 <!ENTITY rights.webservices-term2 "Jste zváni k užití Služeb spojených s touto verzí aplikace &brandShortName; a máte všechna práva k tomu potřebná. &vendorShortName; a držitelé licencí si vyhrazují všechna ostatní práva spojená se Službami. Cílem těchto podmínek není omezení žádných práv udělených v rámci licencí svobodného softwaru vztahujících se na aplikaci &brandShortName; a na odpovídající zdrojový kód této verze aplikace &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Služby jsou poskytovány „tak jak jsou“. Organizace &vendorShortName;, její přispěvatelé, držitelé licencí a distributoři se zříkají všech záruk, ať už vyjádřených nebo předpokládaných, včetně ale nikoliv výhradně, záruk zpeněžitelnosti Služeb a vhodnosti k vašemu určitému účelu. Jste plně zodpovědni za veškerá rizika spojená s volbou Služeb pro vaše účely, a to jak do kvality, tak do výkonnosti Služeb. Některé právní systémy nepovolují vyloučení nebo omezení předpokládaných záruk, v takovém případě toto zřeknutí pro vás neplatí.">

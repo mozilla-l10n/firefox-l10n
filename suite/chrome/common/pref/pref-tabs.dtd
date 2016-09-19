@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabHeader.label "Prohlížení v panelech">
+
 <!ENTITY tabDisplay.label "Zobrazování panelů">
 <!ENTITY autoHide.label "Schovat lištu panelů, pokud je otevřen jen jeden panel">
-<!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Přepnout na nový panel otevřený z odkazu">
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Varovat, pokud zavírám okno s více panely">
 <!ENTITY warnOnClose.accesskey "V">
 <!ENTITY relatedAfterCurrent.label "Otevírat související panely za aktuálním panelem">
 <!ENTITY relatedAfterCurrent.accesskey "O">
+
 <!ENTITY loadGroup.label "Při otevírání skupiny záložek">
 <!ENTITY loadGroupAppend.label "Přidat k panelům">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Nahradit existující panely">
 <!ENTITY loadGroupReplace.accesskey "R">
+
 <!ENTITY openTabs.label "Otevírat panely místo oken při">
+

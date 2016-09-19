@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Všechny typy dat">
 <!ENTITY select.cookies.label "Pouze cookies">
 <!ENTITY select.permissions.label "Pouze povolení">
-<!ENTITY select.permissionspwd.label "Pouze oprávnění hesel">
 <!ENTITY select.preferences.label "Pouze předvolby">
 <!ENTITY select.passwords.label "Pouze hesla">
 <!ENTITY select.storage.label "Pouze úložiště">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Oprávnění">
-<!ENTITY tab.permissionspwd.label "Oprávnění hesel">
 <!ENTITY tab.preferences.label "Předvolby">
 <!ENTITY tab.passwords.label "Hesla">
 <!ENTITY tab.storage.label "Úložiště">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "Vložte název serveru">
 <!ENTITY perm.button.add.label "Přidat">
 <!ENTITY perm.button.add.accesskey "P">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "Použít výchozí">
-<!ENTITY permpwd.AskAlways "Vždy se zeptat">
-<!ENTITY permpwd.NeverSave "Nikdy neukládat">
-
-<!ENTITY permpwd.host.placeholder "Vložte název serveru">
-<!ENTITY permpwd.button.add.label "Přidat">
-<!ENTITY permpwd.button.add.accesskey "a">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Předvolby obsahu umožňují aplikaci &brandShortName; uložit specifická nastavení pro daný server.">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Oprávnění">
 <!ENTITY forget.permissions.accesskey "p">
-<!ENTITY forget.permissionspwd.label "Oprávnění hesel">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Předvolby obsahu">
 <!ENTITY forget.preferences.accesskey "v">
 <!ENTITY forget.passwords.label "Hesla">

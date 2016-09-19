@@ -10,8 +10,6 @@
 <!ENTITY siteIcons.label                        "Ikony webového serveru">
 <!ENTITY useSiteIcons.label                     "Zobrazovat ikony webového serveru">
 <!ENTITY useSiteIcons.accesskey                 "Z">
-<!ENTITY useFavIcons.label                      "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
-<!ENTITY useFavIcons.accesskey                  "A">
 
 <!ENTITY scrolling.label                        "Posunování">
 <!ENTITY useAutoScroll.label                    "Použít automatické posunování">
