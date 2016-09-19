@@ -44,8 +44,6 @@
 <!ENTITY  errorpatching.intro             "Sebahagian Kemaskinian tidak dapat diterapkan. &brandShortName; akan mencuba lagi dengan memuaturun Kemaskinian lengkap.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; tidak boleh menentukan sekiranya ada kemaskini yang sudah tersedia. Sila pastikan bahawa anda ada versi terbaru &brandShortName; daripada:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Ada sesuatu yang menghalang &brandShortName; daripada mengemaskini secara selamat. Sila pastikan bahawa anda ada versi terbaru &brandShortName; daripada:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Ada sesuatu yang cuba untuk memperdaya &brandShortName; untuk menerima satu kemaskini yang tidak selamat. Sila hubungi pembekal rangkaian anda dan minta bantuan.">
 
 <!ENTITY  finishedPage.title              "Kemaskini sedia untuk dipasangkan">
 <!ENTITY  finishedPage.text               "Kemaskini tersebut akan dipasang apabila &brandShortName; bermula. Anda boleh mula semula &brandShortName; sekarang atau teruskan bekerja dan mula semula kemudian.">
