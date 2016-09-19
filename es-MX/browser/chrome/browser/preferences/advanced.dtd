@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber más">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; envía reportes para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
-<!ENTITY enableCrashReporter.label       "Activar el reporte de fallos">
-<!ENTITY enableCrashReporter.accesskey   "f">
-<!ENTITY crashReporterLearnMore.label    "Saber más">
+<!ENTITY crashReporterLearnMore.label     "Saber más">
 
 <!ENTITY networkTab.label                "Red">
 
@@ -82,9 +79,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No buscar actualizaciones (no recomendado: riesgo de seguridad)">
 <!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará cualquiera de mis complementos">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
 
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "M">
