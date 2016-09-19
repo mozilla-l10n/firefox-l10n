@@ -574,20 +574,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Keraskan">
 <!ENTITY mediaUnmute.accesskey       "K">
 <!ENTITY mediaPlaybackRate2.label     "Kecepatan Pemutaran">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate2.accesskey "K">
 <!ENTITY mediaPlaybackRate050x2.label "Lambat (0.5 ×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Cepat (1.25 ×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "C">
 <!ENTITY mediaPlaybackRate150x2.label "Lebih Cepat (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!ENTITY mediaPlaybackRate150x2.accesskey "p">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Sangat Cepat (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.accesskey "t">
 <!ENTITY mediaLoop.label             "Pengulangan">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Selesai">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">

@@ -110,7 +110,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Sambungan aman ke <span id='wrongSystemTime_URL'/> tidak memungkinkan karena tampilan jam Anda menunjukkan waktu yang salah.</p> <p>Komputer Anda menganggap <span id='wrongSystemTime_systemDate'/>, padahal seharusnya <span id='wrongSystemTime_actualDate'/>. Untuk memperbaiki masalah ini, ubah setelan tanggal dan jam Anda menjadi waktu yang benar.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Sambungan aman ke <span id='wrongSystemTime_URL'/> tidak memungkinkan karena jam komputer Anda menunjukkan waktu yang salah.</p> <p>Komputer Anda menganggap waktu sekarang adalah <span id='wrongSystemTime_systemDate'/>, padahal seharusnya <span id='wrongSystemTime_actualDate'/>. Untuk memperbaiki masalah ini, ubah setelan tanggal dan jam komputer Anda untuk menunjukkan waktu yang benar.</p>">
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
@@ -120,5 +120,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengorek informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Anda ingin setelan baku dikembalikan?">
-<!ENTITY prefReset.label "Kembalikan setelan baku">
+<!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Anda ingin setelan baku dipulihkan?">
+<!ENTITY prefReset.label "Pulihkan setelan baku">
