@@ -56,10 +56,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nun ye a determinar si hai un anovamientu disponible. Por
                                            favor asegúrate que tienes la cabera versión de &brandShortName; dende:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Daqué ta evitando que &brandShortName; s'anueve de mou seguru.
-                                           Por favor, asegúrate que tienes la cabera versión de &brandShortName; dende:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Daqué ta tentando d'engañifar a &brandShortName; pa qu'aceute
-                                           un anovamientu inseguru. Contauta col to fornidor de rede y gueta ayuda, por favor.">
 
 <!ENTITY  finishedPage.title              "Anovamientu tresnáu pa instalase">
 <!ENTITY  finishedPage.text               "L'anovamientu instalaráse la próxima vegada qu'anicie &brandShortName;.
