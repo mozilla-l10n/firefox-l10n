@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; એ &vendorShortName; ને મદદ કરવા માટે ભંગાણ અહેવાલને સમાવે છે ખાતરી કરો કે બ્રાઉઝર વધારે સ્થિર અને સુરક્ષિત છે">
-<!ENTITY enableCrashReporter.label       "ભંગાણ અહેવાલકર્તાને સક્રિય કરો">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
+
+
+<!ENTITY crashReporterLearnMore.label     "વધારે શીખો">
 
 <!ENTITY networkTab.label                "નેટવર્ક">
 

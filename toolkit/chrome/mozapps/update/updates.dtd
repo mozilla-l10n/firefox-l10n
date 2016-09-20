@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "અંશતઃ સુધારો લાગુ પાડી શકાયો નહિં. &brandShortName; સંપૂર્ણ સુધારો ડાઉનલોડ કરીને ફરીથી પ્રયત્ન કરશે.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ને નક્કી કરવાનું અસમર્થ જો ત્યાં સુધારો ઉપલબ્ધ હોય તો. મહેરબાની કરીને ચકાસો કે તમારી પાસે &brandShortName; ની તાજેતરની આવૃત્તિ છે:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "કોઇક સુરક્ષિત રીતે સુધારવાથી &brandShortName; ને અટકાવી રહ્યુ છે. મહેરબાની કરીને ખાતરી કરો કે તમારી પાસે &brandShortName; ની તાજેતરની આવૃત્તિ છે:">
-<!ENTITY  errorCertAttrHasUpdate.label    "અસુરક્ષિત સુધારાને સ્વીકારીને &brandShortName; સાથે છેતરપિંડી કરવા કોઇક પ્રયત્ન કરી રહ્યુ છે. મહેરબાની કરીને તમારા નેટવર્ક પોષણકર્તાનો સંપર્ક કરો અને મદદ માટે પ્રયત્ન કરો.">
 
 <!ENTITY  finishedPage.title              "સુધારો સ્થાપન કરવા માટે તૈયાર છે">
 <!ENTITY  finishedPage.text               "સુધારો ફરીવાર જ્યારે તમે &brandShortName; શરૂ કરો ત્યારે સ્થાપિત થઈ જશે. તમે &brandShortName; ને હમણાં પુનઃશરૂ કરી શકો, કે પછી કામ કરવાનું ચાલુ રાખો અને પછીથી પુનઃશરૂ કરો.">

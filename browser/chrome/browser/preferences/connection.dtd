@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "જોડાણ સેટીંગ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ઈન્ટરનેટ વાપરવા માટે પ્રોક્સીઓ રૂપરેખાંકિત કરો">
 <!ENTITY  noProxyTypeRadio.label        "કોઈ પ્રોક્સી નથી">
