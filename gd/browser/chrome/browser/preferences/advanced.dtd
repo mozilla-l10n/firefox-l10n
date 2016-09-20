@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Barrachd fiosrachaidh">
 
-<!ENTITY crashReporterDesc.label         "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; ach an urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
-<!ENTITY enableCrashReporter.label       "Cuir an comas aithrisiche nan tuislidhean">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
+
+
+<!ENTITY crashReporterLearnMore.label     "Barrachd fiosrachaidh">
 
 <!ENTITY networkTab.label                "Lìonra">
 
