@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "l">
 <!ENTITY telemetryLearnMore.label        "Les mer">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; sender krasjrapporter for å hjelpe &vendorShortName; gjøre nettleseren mer stabil og sikker">
-<!ENTITY enableCrashReporter.label       "Slå på krasjrapportering">
-<!ENTITY enableCrashReporter.accesskey   "å">
-<!ENTITY crashReporterLearnMore.label    "Les mer">
+
+
+<!ENTITY crashReporterLearnMore.label     "Les mer">
 
 <!ENTITY networkTab.label                "Nettverk">
 
