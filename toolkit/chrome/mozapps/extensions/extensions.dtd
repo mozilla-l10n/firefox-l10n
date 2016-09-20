@@ -67,9 +67,9 @@
 <!ENTITY updates.installed.label              "Add-on anda telah dikemaskinikan.">
 <!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
 <!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
-<!ENTITY updates.noneFound.label              "Tiada pengemaskinian terbaru dijumpai">
+<!ENTITY updates.noneFound.label              "Tiada kemas kini dijumpai">
 <!ENTITY updates.manualUpdatesFound.label     "Papar Kemas kini Tersedia">
-<!ENTITY updates.updateSelected.label         "Pasang pengemaskinian terkini">
+<!ENTITY updates.updateSelected.label         "Pasang Kemas kini">
 <!ENTITY updates.updateSelected.tooltip       "Pasangkan kemaskini yang sedia ada di dalam senarai ini">
 
 <!-- addon actions -->
@@ -124,7 +124,7 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
-<!ENTITY detail.lastupdated.label             "Pengemaskinian terakhir">
+<!ENTITY detail.lastupdated.label             "Kemas kini Terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
 <!ENTITY detail.homepage.label                "Homepage">
 <!ENTITY detail.numberOfDownloads.label       "Muat Turun">
