@@ -5,15 +5,15 @@
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Tukar Kata laluan Induk">
 <!ENTITY setPassword.tokenName.label "Peranti Sekuriti">
-<!ENTITY setPassword.oldPassword.label "Katalaluan semasa:">
+<!ENTITY setPassword.oldPassword.label "Kata laluan semasa:">
 <!ENTITY setPassword.newPassword.label "Katalalan baru:">
-<!ENTITY setPassword.reenterPassword.label "Katalaluan baru (lagi):">
-<!ENTITY setPassword.meter.label "Meter kualiti katalaluan">
+<!ENTITY setPassword.reenterPassword.label "Kata laluan baru (lagi):">
+<!ENTITY setPassword.meter.label "Meter kualiti kata laluan">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Ulang tetap">
-<!ENTITY resetPassword.title  "Ulang tetap Katalaluan Induk">
-<!ENTITY resetPassword.text  "Jika anda ulang tetap katalaluan induk, semua katalaluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kuni peribadi akan dilupakan. Adakah anda pasti untuk mengulangtetap katalaluan induk anda?">
+<!ENTITY resetPassword.title  "Set semula Kata laluan Induk">
+<!ENTITY resetPassword.text  "Jika anda set semula kata laluan induk, semua kata laluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kunci peribadi akan dilupakan. Adakah anda pasti mahu set semula kata laluan induk anda?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Memuaturun Sijil">
@@ -36,9 +36,9 @@
 <!ENTITY certPicker.info  "Sijil:">
 <!ENTITY certPicker.detailsLabel "Perincian sijil terpilih:">
 
-<!ENTITY pkcs12.setpassword.title  "Pilih Katalaluan Simpanan Sijil">
-<!ENTITY pkcs12.setpassword.message  "Katalaluan simpanan sijil yang anda tetapkan di sini melindungi fail simpanan yang anda akan cipta. Anda mesti menetapkan katalaluan untuk meneruskan simpanan bantuan.">
-<!ENTITY pkcs12.setpassword.label1 "Katalaluan simpanan sijil:">
+<!ENTITY pkcs12.setpassword.title  "Pilih Kata laluan Sandaran Sijil">
+<!ENTITY pkcs12.setpassword.message  "Kata laluan sandaran sijil yang anda tetapkan di sini melindungi fail sandaran yang anda akan cipta.  Anda mesti menetapkan kata laluan untuk meneruskan sandaran.">
+<!ENTITY pkcs12.setpassword.label1 "Kata laluan sandaran sijil:">
 <!ENTITY pkcs12.setpassword.label2 "Katalaluan simpanan sijil (lagi):">
 <!ENTITY pkcs12.setpassword.reminder "Penting: Jika anda lupa katalaluan simpanan sijil anda, anda tidak akan dapat menyembalikan simpanan ini kemudian. Sila buat rekod di tempat selamat.">
 

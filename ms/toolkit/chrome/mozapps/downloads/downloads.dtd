@@ -39,7 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Kosongkan Senarai">
+<!ENTITY cmd.clearList.label              "Buang Senarai">
 <!ENTITY cmd.clearList.tooltip            "Alih keluar muat turun yang sudah siap, dibatalkan dan gagal daripada senarai">
 <!ENTITY cmd.clearList.accesskey          "K">
 <!ENTITY cmd.find.commandKey              "f">

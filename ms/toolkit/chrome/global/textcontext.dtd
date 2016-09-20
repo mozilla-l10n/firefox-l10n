@@ -25,7 +25,7 @@
 <!ENTITY spellDictionaries.label "Bahasa">
 <!ENTITY spellDictionaries.accesskey "h">
 
-<!ENTITY searchTextBox.clear.label "Kosongkan">
+<!ENTITY searchTextBox.clear.label "Buang">
 
 <!ENTITY fillLoginMenu.label          "Isikan Log masuk">
 <!ENTITY fillLoginMenu.accesskey      "i">
