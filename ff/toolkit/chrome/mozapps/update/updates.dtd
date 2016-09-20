@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Kesɗitinal peccoral ngal horiima jammineede. &brandShortName; maa eto kadi aawtaade kesɗitinal kuuɓngal.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; horiima hiisaade so kesɗitinal ena woodi. Tiiɗno ƴeewto so njogii-ɗaa ko yamre sakkitiinde &brandShortName; iwde:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Won ko haɗata &brandShortName; hesɗitinde e kisal. Tiiɗno ƴeewto so njogi-ɗaa ko yamre sakkitiinde &brandShortName; iwde:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Won ko etotoo fuuntude &brandShortName; yoo jaɓ kesɗitinal ngal hisaani. Tiiɗno jokkondir e jeeyoowo ceŋe maa ngal ɗeɓɓude ballal.">
 
 <!ENTITY  finishedPage.title              "Kesɗitinal Hebiima Aafeede">
 <!ENTITY  finishedPage.text               "Kesɗitinal ngal maa aafe tuma nde &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">

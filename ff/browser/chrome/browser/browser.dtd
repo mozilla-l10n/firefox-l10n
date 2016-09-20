@@ -159,7 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Maantoro Ngoo Hello">
 <!ENTITY editThisBookmarkCmd.label "Taƴto Ngol Maantorol">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -204,9 +203,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Waanjito">
 <!ENTITY printButton.tooltip          "Waanjito ngoo hello">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -411,10 +410,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchSubmit.label    "Naatnu njiilaw">
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchSubmit.tooltip  "Naatnu njiilaw">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -438,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Wayly Teelte Njiilaw">
+
 
 
 
@@ -705,6 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Jamirooje">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -742,21 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sanngoɗin">
 
-<!ENTITY socialToolbar.title        "Butoŋ Palal Kuutorɗe Renndo">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Hollu palal sawndo">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Toppito Carwe…">
-
-<!ENTITY social.toggleNotifications.label "Hollir tintine biro">
-<!ENTITY social.toggleNotifications.accesskey "t">
-
-<!ENTITY social.learnMore.label "Ɓeydu humpito…">
-<!ENTITY social.learnMore.accesskey "Ɓ">
 
 <!ENTITY social.directory.label "Runggere Caasnugol">
 <!ENTITY social.directory.text "Aɗa waawi Lollinde carwe iwɗe e ndee runngere.">
@@ -777,15 +764,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Heɓ Ciŋkooje Goɗɗe">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Toɓɓu jeewte">
-<!ENTITY social.chatBar.accesskey "o">
-
-<!ENTITY social.markpageMenu.accesskey "H">
-<!ENTITY social.markpageMenu.label "Daɗndu Hello to…">
-<!ENTITY social.marklinkMenu.accesskey "k">
-<!ENTITY social.marklinkMenu.label "Daɗndu Jokkol to…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -817,8 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Hurmin kisnugol">
 <!ENTITY trackingContentBlocked.block.accesskey "H">
 <!ENTITY trackingContentBlocked.disabled.message "Kisnugol rewindo koko daaƴaa">
-
-<!ENTITY pointerLock.notification.message "Ñoƴƴu ESC tuma fof ngam hollude ɗum goɗngol.">
 
 <!ENTITY pluginNotification.showAll.label "Hollu Fof">
 <!ENTITY pluginNotification.showAll.accesskey "H">
