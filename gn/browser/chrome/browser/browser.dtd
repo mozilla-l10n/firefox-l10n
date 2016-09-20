@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Kuatiarogue mbojoapy">
 <!ENTITY editThisBookmarkCmd.label "Ko techaukaha mbosako'i">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Ko kuatiarogue mbokuatia">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ehecha marandu ko tenda pegua">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Marandu'i jehecha">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Mba'ejerure tendaite rehegua jehecha">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ehecha moimbaha ñe'ẽmondo nemohenda">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ehecha app-offline-pe marandu mbyatypyre">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Eñangareko nde jeike marandu rehe">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Ehechajey eñongatusépa neñe'ẽñemi">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Eñangareko mba'ejoajurã jepuru ko kuatiaroguépe">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Nde eipuruhína neta'ãngamýi ha/térã neñe'ẽataha ko tenda ndive">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Eipuruhína neñe'atãha ko tenda ndive">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Eipuruhína neñe'atãha ko tenda ndive">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Eipuruhína nerovetã térã mba'erechaha ko tenda ndive">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Emoambue tenda oñomiséramo pe hekaha">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ehecha ñe'ẽmondo ñemohenda mba'epytyvõrãva">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Emoñe'ẽasa ko kuatiarogue">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Eñangareko kuatiarogue ñe'ẽasa rehe">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Eñangareko DRM software jepuru rehe">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe'atãha ko tenda ndive">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Emoñe'ẽasa ko kuatiarogue">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Eñangareko kuatiarogue ñe'ẽasa rehe">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
+
 
 <!ENTITY searchItem.title             "Heka">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Porandu jeheka rehegua">
-<!ENTITY contentSearchSubmit.label    "Jeheka mondo">
+<!ENTITY contentSearchSubmit.tooltip  "Jeheka mondo">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Jeheka mba'epytyvõrã moambue">
+
 
 <!ENTITY searchInNewTab.label         "Tendayke pyahúpe jeheka">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Moneĩ">
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Mbojuehe">
 
-<!ENTITY socialToolbar.title        "Tekoha rembipuru renda votõ">
-
-<!ENTITY social.ok.label       "Moneĩ">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Tenda yke jehechauka">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Mba'epytyvõrã ñangareko…">
-
-<!ENTITY social.toggleNotifications.label "Mopyenda momarandu jehechauka">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Kuaave…">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "Marandurenda'aty myanydha">
 <!ENTITY social.directory.text "Ikatu omyendy mba'epytyvõrã marandurenda'aty rehegua.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Ñomongeta mbohape">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Kuatiarogue ñongatu ápe…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Joajuha ñongatu pyahu…">
 
 <!ENTITY getUserMedia.selectCamera.label "Ta'angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Ñemo'ã myandy ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "Ñemo'ã jehapykueho oñemongéma">
-
-<!ENTITY pointerLock.notification.message "Ejopy ESC reikotevẽ vove rehechauka pyahujey hag̃ua.">
 
 <!ENTITY pluginNotification.showAll.label "Techaukapa">
 <!ENTITY pluginNotification.showAll.accesskey "T">

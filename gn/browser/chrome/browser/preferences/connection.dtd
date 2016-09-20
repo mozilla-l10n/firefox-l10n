@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Mba'epytyvõrã jeikekatu rehegua">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Emboheko proxies eike hag̃ua Ñandutípe">
 <!ENTITY  noProxyTypeRadio.label        "Proxy ỹre">

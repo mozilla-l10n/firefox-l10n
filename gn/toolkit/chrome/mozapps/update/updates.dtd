@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Ndaikatúi eipuru ñembohekopyahu pehẽva. &brandShortName; oha'ãta jeýta omboguejývo ñembohekopyahu henyhẽva.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ndaikatúi he'i oĩha peteĩ ñembohekopyahu eipurukuaáva. Ehechajeýke eguerekópa &brandShortName; ipyahuetéva pe:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Oĩvaicha ndoipotáiva &brandShortName; oñembohekopyahu tekokatúpe. Ehechajeýke eguerekópa &brandShortName; ipyahuvéva amo:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Oĩvaicha ombotavyséva &brandShortName;-pe omoneĩ hag̃ua peteĩ ñembohekopyahu ndoikopáiva. Eñe'ẽ neñanduti me'ẽhára ndive ha eheka ñepytyvõ.">
 
 <!ENTITY  finishedPage.title              "Ñembohekopyahu oĩmbáva emohenda hag̃ua">
 <!ENTITY  finishedPage.text               "Pe ñembohekopyahu oñemohendáta emoñepyrũjey vove &brandShortName;. Ikatu emoñepyrũjey &brandShortName; ko'ag̃aite, térã emba'apove ha emoñepyrũjey ag̃amieve.">

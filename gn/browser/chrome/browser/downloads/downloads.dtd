@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
 <!ENTITY cmd.removeFromHistory.label      "Emboguete tembiasakuégui ">
 <!ENTITY cmd.removeFromHistory.accesskey  "m">
-<!ENTITY cmd.clearList.label              "Tysýi ñemopotĩ">
-<!ENTITY cmd.clearList.accesskey          "m">
+
+
 <!ENTITY cmd.clearDownloads.label         "Mboguejypyre mopotĩ">
 <!ENTITY cmd.clearDownloads.accesskey     "M">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Opaite ñemboguejypyre jehechauka">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "Mboguejypyre mopotĩ">
 <!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue">
