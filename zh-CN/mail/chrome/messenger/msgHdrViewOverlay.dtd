@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "收件人">
 <!ENTITY fromField4.label "发件人">
 <!ENTITY senderField4.label "发件人">
+<!ENTITY author.label "作者">
 <!ENTITY organizationField4.label "组织">
 <!ENTITY replyToField4.label "回复地址">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "归档">
 <!ENTITY hdrArchiveButton1.tooltip "归档消息">
+<!ENTITY hdrOpenConversationButton1.label "对话">
+<!ENTITY hdrOpenConversationButton1.tooltip "显示此消息的对话">
 <!ENTITY hdrSmartReplyButton1.label "智能回复">
 <!ENTITY hdrReplyButton1.label "回复">
 <!ENTITY hdrReplyButton2.tooltip "回复至此消息的发送者">
@@ -67,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "打印…">
 <!ENTITY otherActionsPrint1.accesskey "P">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "首先显示附件面板">
 <!ENTITY startExpandedCmd.accesskey    "S">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "打开">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "另存为…">
@@ -91,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "打开附件">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "保存">
 <!ENTITY saveAttachmentButton1.tooltip     "保存附件">
 <!ENTITY saveAllAttachmentsButton1.label   "全部保存">

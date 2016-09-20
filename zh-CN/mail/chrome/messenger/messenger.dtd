@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "转发">
 <!ENTITY fileButton.label "移动">
 <!ENTITY archiveButton.label "归档">
+<!ENTITY openConversationButton.label "对话">
 <!ENTITY nextButton.label "下一个">
 <!ENTITY nextButtonToolbarItem.label "下一条未读">
 <!ENTITY nextMsgButton.label "下一个">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "作为附件转发选中的消息">
 <!ENTITY fileButton.tooltip "移动选择的消息">
 <!ENTITY archiveButton.tooltip "归档选中的消息">
+<!ENTITY openConversationButton.tooltip "显示选定消息的对话">
 <!ENTITY nextButton.tooltip "转至下一条未读消息">
 <!ENTITY nextMsgButton.tooltip "移动到下一条信息">
 <!ENTITY previousButton.tooltip "转到上一条未读消息">
