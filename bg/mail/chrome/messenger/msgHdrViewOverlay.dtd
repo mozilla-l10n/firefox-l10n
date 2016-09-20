@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "До">
 <!ENTITY fromField4.label "От">
 <!ENTITY senderField4.label "Подател">
+<!ENTITY author.label "Автор">
 <!ENTITY organizationField4.label "Организация">
 <!ENTITY replyToField4.label "Отговор-до">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивиране">
 <!ENTITY hdrArchiveButton1.tooltip "Архивира това съобщение">
+<!ENTITY hdrOpenConversationButton1.label "Разговор">
+<!ENTITY hdrOpenConversationButton1.tooltip "Показване на разговора на това съобщение">
 <!ENTITY hdrSmartReplyButton1.label "Умен отговор">
 <!ENTITY hdrReplyButton1.label "Отговор">
 <!ENTITY hdrReplyButton2.tooltip "Отговаряне на подателя на това писмо">
