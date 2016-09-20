@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Elimină din istoric">
 <!ENTITY cmd.removeFromHistory.accesskey  "E">
-<!ENTITY cmd.clearList.label              "Curăță lista">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Șterge descărcările">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +107,7 @@
 
 <!ENTITY downloadsHistory.label           "Arată toate descărcările">
 <!ENTITY downloadsHistory.accesskey       "d">
+
 
 <!ENTITY clearDownloadsButton.label       "Șterge descărcările">
 <!ENTITY clearDownloadsButton.tooltip     "Șterge descărcările încheiate, anulate și eșuate">

@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Setările conexiunii">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Configurează proxy-uri pentru a accesa internetul">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
