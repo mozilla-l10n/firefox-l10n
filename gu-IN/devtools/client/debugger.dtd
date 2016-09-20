@@ -51,10 +51,6 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "બધા બ્રેકપોઇંટને સક્રિય/નિષ્ક્રિય કરો">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
-<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
-  - the button to start execution tracing. -->
-
-<!ENTITY debuggerUI.startTracing "ટ્રેસીંગ શરૂ કરો">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
