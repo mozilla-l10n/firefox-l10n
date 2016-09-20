@@ -207,12 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Показване информация за уебсайта">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отваряне на панел със съобщението">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отваряне на панел със заявката за местоположение">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отваряне на панел със съобщението за инсталиране на добавка">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отваряне на панел със съобщението за работа без мрежа">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отваряне на панел със съобщението за запазване на парола">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от сайта">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление споделянето на вашата камера и/или микрофон със сайта">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управление споделянето на вашия микрофон със сайта">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Управление споделянето на вашите прозорци или екран със сайта">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Отваряне на панел със съобщението за инсталиране">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Превод на страницата">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управление превеждането на страници">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на този сайт достъп до камерата ви.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на този сайт достъп до микрофона ви.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Забранили сте на този сайт споделянето на екрана ви.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Забранили сте на този сайт достъп до местоположението ви.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Забранили сте на този сайт достъп до хранилището.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на този сайт да ви изпраща известия.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Нулиране на мащабирането">
 
 <!ENTITY searchItem.title             "Търсене">
 
@@ -409,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Заявка за търсене">
+<!ENTITY contentSearchSubmit.tooltip  "Изпращане заявка за търсене">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Настройки на търсене">
+<!ENTITY changeSearchSettings.tooltip "Настройки на търсене">
 
 <!ENTITY searchInNewTab.label         "Търсене в нов раздел">
 <!ENTITY searchInNewTab.accesskey     "р">
@@ -711,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
+<!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
