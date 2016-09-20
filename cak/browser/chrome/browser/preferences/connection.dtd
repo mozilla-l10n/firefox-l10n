@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Runuk'ulem okem pa k'amaya'l">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Tinuk'samajïx ri taq proxi richin yatok pa k'amaya'l">
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">

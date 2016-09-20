@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "r">
 <!ENTITY cmd.removeFromHistory.label      "Tiyuj el chupam ri natab'äl">
 <!ENTITY cmd.removeFromHistory.accesskey  "y">
-<!ENTITY cmd.clearList.label              "Tiyuj rucholajem">
-<!ENTITY cmd.clearList.accesskey          "y">
+
+
 <!ENTITY cmd.clearDownloads.label         "Kejosq'ïx taq Qasanïk">
 <!ENTITY cmd.clearDownloads.accesskey     "Q">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Kekut pe ronojel ri qasan">
 <!ENTITY downloadsHistory.accesskey       "K">
+
 
 <!ENTITY clearDownloadsButton.label       "Kejosq'ïx taq Qasanïk">
 <!ENTITY clearDownloadsButton.tooltip     "Tijosq'ïx ronojel, q'aton chuqa' man ütz ta taq qasanïk">

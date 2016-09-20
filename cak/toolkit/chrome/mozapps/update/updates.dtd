@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Man xtikïr ta xsamajïx nik'aj k'exoj ruwäch.  &brandShortName; xtutojtob'ej chik toq xtuqasaj chijun ri k'exoj ruwäch.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; man nitikïr ta nuya' retal we wachel jun k'exoj ruwäch. Tab'ana' utzil, tajikib'a' awi' chi k'o awik'in ri ruk'isib'äl ruwäch ri &brandShortName; pa:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "K'o jun ri man nuya' ta q'ij chi re ri &brandShortName; ütz nuk'ëx ruwäch. Tab'ana' utzil, tajikib'a' awi' chi k'o awik'in ri ruk'isib'äl ruwäch ri &brandShortName; pa: ">
-<!ENTITY  errorCertAttrHasUpdate.label    "K'o jun ri nutojtob'ej nuq'öl ri &brandShortName; richin tuk'ulu' jun itzel k'exoj ruwäch. Kab'etzijon rik'in ri aya'öl b'ey chuqa' takanoj ato'ik.">
 
 <!ENTITY  finishedPage.title              "Ütz chik ri k'exoj ruwäch richin niyak">
 <!ENTITY  finishedPage.text               "Xtiyake ri k'exoj ruwäch toq xtatikirisaj chik &brandShortName;. Wakami ütz natikirisaj chik &brandShortName; ütz chuqa' yasamäj chuqa' natikirisaj chik el pa jun chik ti mej.">

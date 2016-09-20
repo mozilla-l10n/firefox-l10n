@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; yerutäq kitzijol taq sachoj richin nuto' &vendorShortName; chi nub'än jun raxinäq chuqa' ütz awokik'amaya'l">
-<!ENTITY enableCrashReporter.label       "Titzij ri rutzijol taq sachoj">
-<!ENTITY enableCrashReporter.accesskey   "s">
-<!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
+
+
+<!ENTITY crashReporterLearnMore.label     "Tetamäx ch'aqa' chik">
 
 <!ENTITY networkTab.label                "K'amab'ey">
 

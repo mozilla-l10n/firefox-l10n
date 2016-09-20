@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaketal">
 <!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Titz'ajb'äx re ruxaq re'">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Titz'et retamab'al ruxaq k'amaya'l">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Titz'et jun rutzijol">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Titz'et taqoj richin k'ojolib'äl">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Titz'et ri rutzijol toq niyak ri rutz'aqat">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Titz'e ri ruyakik taq rutzijol richin ri chokoy toq elenäq el pa k'amab'ey">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Tanuk'samajij ri awetamab'al  richin awokem pa molojri'ïl">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Tacha' we nawajo' nayäk ri ewan atzij">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Tinuk'samajïx kokisaxik ri taq tz'aqat pa re ruxaq k'amaya'l re'">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Tajin nakomonij ri aq'asäy wachib'äl chuqa' ri q'asäy atzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Tajin nakomonij ri aq'asäy tzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Tinuk'samajib'ëx ri kikomonik taq rutzub'al chuqa' ruwäch ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Tajin nakomonij jun tzuwäch o ri ruwäch rik'in re ruxaq k'amaya'l">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tijalwachïx we ri ruxaq k'amaya'l nitikïr nrewaj ri retal ch'oy">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Titz'et ri rutzijol ruyakik ri samaj">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Titzalq'omïx re ruxaq re'">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Tinuk'samajïx rokisaxik DRM kema'">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tinuk'samajib'ëx ri kikomonik taq rutzub'al chuqa' ruwäch ruxaq k'amaya'l">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Titzalq'omïx re ruxaq re'">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tinuk'samajïx rokisaxik DRM kema'">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
+
 
 <!ENTITY searchItem.title             "Tikanöx">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Tikanöx k'ulb'enïk">
-<!ENTITY contentSearchSubmit.label    "Titaq el ri xkanöx">
+<!ENTITY contentSearchSubmit.tooltip  "Titaq el ri xkanöx">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Kek'ëx ri taq rajowaxïk ri kanoxïk">
+
 
 <!ENTITY searchInNewTab.label         "Tikanöx pa k'ak'a' ruwi'">
 <!ENTITY searchInNewTab.accesskey     "r">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "T">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Ruyib' rucha'osamaj winaqinel samajib'äl">
-
-<!ENTITY social.ok.label       "ÜTZ">
-<!ENTITY social.ok.accesskey   "Ü">
-
-<!ENTITY social.toggleSidebar.label "Tik'ut ri molsamajib'äl">
-<!ENTITY social.toggleSidebar.accesskey "k">
-
 <!ENTITY social.addons.label "Rub'anik samaj…">
-
-<!ENTITY social.toggleNotifications.label "Kek'ut pe taq rutzijol kematz'ib'ab'äl">
-<!ENTITY social.toggleNotifications.accesskey "r">
-
-<!ENTITY social.learnMore.label "Tetamäx ch'aqa' chik…">
-<!ENTITY social.learnMore.accesskey "T">
 
 <!ENTITY social.directory.label "Rucholb'al ri taq tzijïk">
 <!ENTITY social.directory.text "Yatikïr ye'atzïj komon taq samaj chupam ri cholb'äl.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ke'ilitäj ch'aqa' chik taq wachinel">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-
-<!ENTITY social.chatBar.commandkey "C">
-<!ENTITY social.chatBar.label "Rucha'ik taq tzijob'äl">
-<!ENTITY social.chatBar.accesskey "i">
-
-<!ENTITY social.markpageMenu.accesskey "R">
-<!ENTITY social.markpageMenu.label "Ruyakik Ruxaq Pa…">
-<!ENTITY social.marklinkMenu.accesskey "X">
-<!ENTITY social.marklinkMenu.label "Ruyakik Ximöy Pa…">
 
 <!ENTITY getUserMedia.selectCamera.label "Rutaluxik elesäy wachib'äl">
 <!ENTITY getUserMedia.selectCamera.accesskey "e">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Titzij ri chajinïk">
 <!ENTITY trackingContentBlocked.block.accesskey "T">
 <!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajinem chuwäch kanoxïk">
-
-<!ENTITY pointerLock.notification.message "Tapitz'a' ESC richin nitzolin chik pe.">
 
 <!ENTITY pluginNotification.showAll.label "Tik'ut pe ronojel">
 <!ENTITY pluginNotification.showAll.accesskey "T">

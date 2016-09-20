@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Titz'ij ri näj chojmirisaxïk">
-<!ENTITY options.enableRemote.tooltip   "Toq nokisäx re jun cha'oj re', nuya' q'ij chi ke ri taq kisamajib'al b'anöl kema' nikichojmirisaj jun peraj pa Firefox achi'el ri Firefox OS">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -118,11 +118,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Titzij ri samajela' pa samaj rik'in HTTP (Toq jaqäl ri kikaxa taq samajib'äl)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri Samajela' pa samaj rik'in HTTP pa ronojel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Taq kisamajib'äl b'anïk richin Firefox k'o wi.">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
