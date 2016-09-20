@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "जोडणी सेटिंग्स्">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "इंटरनेट वापरण्यासाठी प्रॉक्सी ची मांडणी करा">
 <!ENTITY  noProxyTypeRadio.label        "प्रॉक्सी नाही">
