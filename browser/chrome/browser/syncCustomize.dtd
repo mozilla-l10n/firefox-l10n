@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "රහස්පද">
 <!ENTITY engine.passwords.accesskey       "P">
-<!ENTITY engine.addons.label              "වැඩතල ඇඩෝන (A)">
+<!ENTITY engine.addons.label              "වැඩතල ඇඩෝන">
 <!ENTITY engine.addons.accesskey          "A">
-<!ENTITY engine.prefs.label               "වැඩතල අභිප්‍රේත (s)">
+<!ENTITY engine.prefs.label               "වැඩතල අභිප්‍රේත">
 <!ENTITY engine.prefs.accesskey           "s">

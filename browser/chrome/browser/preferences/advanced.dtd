@@ -109,9 +109,9 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "සැමවිටම විමසන්න">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න (Q)">
+<!ENTITY enableOCSP.label                "සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "සහතික පෙන්වන්න (C)">
+<!ENTITY viewCerts.label                 "සහතික පෙන්වන්න">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග (D)">
+<!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග">
 <!ENTITY viewSecurityDevices.accesskey   "D">

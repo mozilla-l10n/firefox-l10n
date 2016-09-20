@@ -689,7 +689,7 @@
    the "columnPicker.applyToFolder.label" and
    "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
    a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   folder.  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "මේවාට තීරු ආදේශ කරන්න…">

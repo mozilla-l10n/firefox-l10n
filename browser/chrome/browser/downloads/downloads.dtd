@@ -60,10 +60,10 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "බාගත කිරීම් සබැඳිය පිටපත් කරන්න">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "ඉතිහාසයෙන් ඉවත් කරන්න (e)">
+<!ENTITY cmd.removeFromHistory.label      "ඉතිහාසයෙන් ඉවත් කරන්න">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.accesskey         "a">
-<!ENTITY cmd.clearDownloads.label         "බාගතකිරීම් පිරිසිදු කරන්න (D)">
+<!ENTITY cmd.clearDownloads.label         "බාගතකිරීම් පිරිසිදු කරන්න">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -73,7 +73,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "ගොනුව ඉවත් කරන්න (m)">
+<!ENTITY cmd.removeFile.label             "ගොනුව ඉවත් කරන්න">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
