@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "بروزرسانی جزئی قابل اجرا نیست. &brandShortName; سعی میکند بستهٔ کامل را بارگیری و نصب نماید.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; قادر به تشخیص وجود بروزرسانی جدید نیست. لطفاً مطمئن شوید که جدیدترین نسخهٔ &brandShortName; را از این‌جا دریافت کرده‌اید:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; به دلیلی قادر به بروزرسانی ایمن نیست. لطفا مطمئن شوید که جدیدترین نسخهٔ &brandShortName; را از این‌جا دریافت کرده‌اید:">
-<!ENTITY  errorCertAttrHasUpdate.label    "شخصی در حال تلاش است که  &brandShortName; را به منظور پذیرش یک بروزرسانی غیر ایمن فریب دهد. لطفاً با تماس با مدیر شبکهٔ خود درخواست کمک کنید.">
 
 <!ENTITY  finishedPage.title              "بروزرسانی آمادهٔ نصب است">
 <!ENTITY  finishedPage.text               "این بروزرسانی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد. می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه داده و این کار را بعداً انجام دهید.">
