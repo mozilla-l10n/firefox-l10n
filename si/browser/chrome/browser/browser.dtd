@@ -41,7 +41,6 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "ටැබ ගලවන්න">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ටැබය උපාංගයට යවන්න">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "පිටුව උපාංගයට යවන්න">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ඈදුම උපාංගයට යවන්න">
@@ -406,7 +405,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "සෙවුම් විමසුම">
-<!ENTITY contentSearchSubmit.tooltip  "Submit search">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -432,7 +430,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "සෙවුම් සැකසුම් වෙනස් කරන්න">
-<!ENTITY changeSearchSettings.tooltip "Change search settings">
 
 <!ENTITY searchInNewTab.label         "නව ටැබයක සොයන්න">
 <!ENTITY searchInNewTab.accesskey     "T">

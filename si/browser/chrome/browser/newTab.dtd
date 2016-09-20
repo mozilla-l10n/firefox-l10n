@@ -4,13 +4,8 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "නව ටැබය">
-<!ENTITY newtab.customize.classic "Show your top sites">
-<!ENTITY newtab.customize.cog.enhanced "Include suggested sites">
-<!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
 <!ENTITY newtab.customize.cog.learn "නව ටැබය ගැන දැනගන්න">
 <!ENTITY newtab.customize.title "ඔබේ නව ටැබ පිටුව රුචිකරණය කරමින්">
-<!ENTITY newtab.customize.suggested "Show suggested and your top sites">
-<!ENTITY newtab.customize.topsites "Show your top sites">
 <!ENTITY newtab.customize.blank2 "හිස් පිටුව පෙන්වන්න">
 <!ENTITY newtab.undo.removedLabel "කුඩාරුව ඉවත් විය.">
 <!ENTITY newtab.undo.undoButton "අහොසි.">

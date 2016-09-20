@@ -40,7 +40,6 @@
 <!ENTITY syncDeviceName.label       "උපාංග නාමය (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "උපාංග නාමය">
-<!ENTITY changeSyncDeviceName.label "Change Device Name…">
 <!ENTITY cancelChangeSyncDeviceName.label "එපා">
 <!ENTITY saveChangeSyncDeviceName.label "සුරකින්න">
 <!ENTITY unlinkDevice.label           "මෙම උපාංගය අසබැඳි කරන්න">
@@ -71,38 +70,23 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ඔබ පිවිසී නොමැත.">
 <!ENTITY signIn.label                "පිවිසෙන්න">
-<!ENTITY profilePicture.tooltip      "Change profile picture">
-<!ENTITY verifiedManage.label        "Manage Account">
 <!ENTITY disconnect.label            "විසන්ධි...">
 <!ENTITY verify.label                "ඊ-තැපෑල තහවුරු කරන්න">
 <!ENTITY forget.label                "මෙම ඊ-තැපෑල අමතක කරන්න">
 
 <!ENTITY welcome.description "ඔබ &brandShortName; භාවිත කරන ඕනෑම තැනක ඔබේ ටැබ, මුරපද හා තවත් දෑ වෙත පිවිසෙන්න.">
-<!ENTITY welcome.signIn.label "Sign In">
-<!ENTITY welcome.createAccount.label "Create Account">
 
 <!ENTITY welcome.useOldSync.label "සම්මුහුර්තකරණයේ පැරණි නිකුතුවක් භාවිතයෙන්?">
 
-<!ENTITY signedOut.caption            "Take your Web with you">
-<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
-<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Create Account">
-<!ENTITY signedOut.accountBox.signin  "Sign In">
 
-<!ENTITY signedIn.engines.label       "Sync across all devices">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            "Download Firefox for ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
-<!ENTITY mobilePromo3.iOSBefore         " or ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
-<!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " to sync with your mobile device.">
