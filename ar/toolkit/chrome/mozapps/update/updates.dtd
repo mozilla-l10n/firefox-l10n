@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "تعذّر تطبيق التّحديث الجزئي. سيحاول &brandShortName; مرّة أخرى بتنزيل كلّ التّحديث.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; غير قادر على معرفة إذا كان هناك تحديث متاح. رجاءً تأكد من أن لديك آخر نسخة من &brandShortName; من:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "ثمة شيء يمنع &brandShortName; من التحديث بشكل آمن. رجاءً تأكد من أن لديك آخر نسخة من &brandShortName; من:">
-<!ENTITY  errorCertAttrHasUpdate.label    "ثمة شيء يحاول خداع &brandShortName; بأن يجعله يقبل تحديثًا غير آمن. رجاءً تواصل مع مدير الشبكة واطلب منه المساعدة.">
 
 <!ENTITY  finishedPage.title              "التحديث جاهز للتثبيت">
 <!ENTITY  finishedPage.text               "التحديث سيُثبّت في المرة المقبلة التي يبدأ فيها &brandShortName;. يمكنك إعادة تشغيل &brandShortName; الآن أو متابعة العمل وإعادة التشغيل لاحقًا.">
