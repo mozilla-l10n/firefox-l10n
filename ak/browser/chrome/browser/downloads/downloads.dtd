@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Yi Firi Abakɔsɛm mu">
 <!ENTITY cmd.removeFromHistory.accesskey  "Y">
-<!ENTITY cmd.clearList.label              "Pepa List">
-<!ENTITY cmd.clearList.accesskey          "P">
+
+
 <!ENTITY cmd.clearDownloads.label         "Pepa Ntwe">
 <!ENTITY cmd.clearDownloads.accesskey     "N">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Kyerɛ Atweatwe Nyinaa">
 <!ENTITY downloadsHistory.accesskey       "K">
+
 
 <!ENTITY clearDownloadsButton.label       "Pepa Ntwe">
 <!ENTITY clearDownloadsButton.tooltip     "Ewie apepa, atwa na egyae ntwe mu">

@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Sua bio ka ho">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; mane gyae-yɛ amandebɔ de boa &vendorShortName; sɛnea ɛbɛma wo brawsa egyina hɔ pintin abɔ ho ban yiye">
-<!ENTITY enableCrashReporter.label       "Sɔ &#037;Gyae-yɛ Amandebɔ-ni">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Sua bio ka ho">
+
+
+<!ENTITY crashReporterLearnMore.label     "Sua bio ka ho">
 
 <!ENTITY networkTab.label                "Nɛtwɛɛke">
 
