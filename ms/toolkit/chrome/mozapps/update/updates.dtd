@@ -51,7 +51,8 @@
 <!ENTITY  finishedBackgroundPage.text     "Kemaskini untuk keselamatan dan kestabilan &brandShortName; telah dimuat turun dan sedia untuk dipasang.">
 <!ENTITY  finishedBackground.name         "Kemaskini:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Pengemaskinian tersebut akan dipasang pada masa akan datang apabila &brandShortName; dimulakan. Anda  boleh mulakan semula &brandShortName; sekarang, atau teruskan pengunaan dan mulakan semula lain kali.">
+<!ENTITY  finishedBackground.more         "Kemas kini akan dipasang apabila &brandShortName; mula semula. Anda
+                                           boleh mula semula &brandShortName; sekarang, atau teruskan dan mula semula nanti.">
 <!ENTITY  finishedBackground.moreElevated "Kemas kini ini memerlukan keizinan pentadbir. Kemas kini akan 
                                            dipasang apabila &brandShortName; bermula. Anda boleh mulakan semula 
                                            &brandShortName; sekarang, teruskan bekerja dan memulakan semula kemudian, atau menolak 
