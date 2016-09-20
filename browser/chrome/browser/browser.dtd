@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Tutu stronu jako zapołožku składować">
 <!ENTITY editThisBookmarkCmd.label "Tutu zapołožku wobdźěłać">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Tutu stronu ćišćeć">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sydłowe informacije wobhladać">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Zdźělenku pokazać">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Naprašowanje za stejnišćom pokazać">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Zdźělenku přidatkoweje instalacije pokazać">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zdźělenku wo składźe offline nałoženja pokazać">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Waše přizjewjenske informacije rjadować">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrolujće, hač chceće swoje hesło składować">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Wužiwanje tykačow na tutej stronje rjadować">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změńće, hač móžeće zdźělenki wot sydła přijeć">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Dźělenje wašeje kamery a /abo wašeho mikrofona ze sydłom rjadować">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Dźěliće swoju kameru a/abo waš mikrofon ze sydłom">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Dźělenje wašeho mikrofona ze sydłom rjadować">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Dźěliće swój mikrofon ze sydłom">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Dźělenje wašich woknow abo wašeje wobrazowki ze sydłom rjadować">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Dźěliće wokno abo swoju wobrazowku ze sydłom">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Postajće, hač sydło móže pokazowak schować">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Instalowansku zdźělenku słužby pokazać">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Tutu stronu přełožować">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Přełožowanje strony rjadować">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Wužiwanje softwary DRM rjadować">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńće, hač móžeće zdźělenki wot sydła přijeć">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dźělenje wašeje kamery a /abo wašeho mikrofona ze sydłom rjadować">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dźělenje wašeho mikrofona ze sydłom rjadować">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Dźělenje wašich woknow abo wašeje wobrazowki ze sydłom rjadować">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tutu stronu přełožować">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Přełožowanje strony rjadować">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužiwanje softwary DRM rjadować">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
+
 
 <!ENTITY searchItem.title             "Pytać">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Pytanske naprašowanje">
-<!ENTITY contentSearchSubmit.label    "Pytanje startować">
+<!ENTITY contentSearchSubmit.tooltip  "Pytanje startować">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Pytanske nastajenja">
+
 
 <!ENTITY searchInNewTab.label         "W nowym rajtarku pytać">
 <!ENTITY searchInNewTab.accesskey     "r">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Prawa">
 <!ENTITY identity.permissionsEmpty "Njejsće tutomu sydłu wosebite prawa přizwolił.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Tłóčatko symboloweje lajsty za socialne syće">
-
-<!ENTITY social.ok.label       "W porjadku">
-<!ENTITY social.ok.accesskey   "o">
-
-<!ENTITY social.toggleSidebar.label "Bóčnicu pokazać">
-<!ENTITY social.toggleSidebar.accesskey "B">
-
 <!ENTITY social.addons.label "Słužby zrjadować…">
-
-<!ENTITY social.toggleNotifications.label "Desktopowe zdźělenki pokazać">
-<!ENTITY social.toggleNotifications.accesskey "z">
-
-<!ENTITY social.learnMore.label "Dalše informacije…">
-<!ENTITY social.learnMore.accesskey "l">
 
 <!ENTITY social.directory.label "Zapis aktiwizowanjow">
 <!ENTITY social.directory.text "Móžeće dźělenske słužby ze zapisa aktiwizować.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalše drasty wobstarać">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Chaty wuzběhnyć">
-<!ENTITY social.chatBar.accesskey "C">
-
-<!ENTITY social.markpageMenu.accesskey "S">
-<!ENTITY social.markpageMenu.label "Stronu składować do…">
-<!ENTITY social.marklinkMenu.accesskey "W">
-<!ENTITY social.marklinkMenu.label "Wotkaz składować do…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotraž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Škit zmóžnić">
 <!ENTITY trackingContentBlocked.block.accesskey "z">
 <!ENTITY trackingContentBlocked.disabled.message "Škit přećiwo slědowanju je znjemóžnjeny">
-
-<!ENTITY pointerLock.notification.message "Tłóčće ESC kóždy čas, zo byšće jón hišće raz pokazał.">
 
 <!ENTITY pluginNotification.showAll.label "Wšě pokazać">
 <!ENTITY pluginNotification.showAll.accesskey "W">
