@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "इतिहासबाट हटाउनुहोस्">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "सूची खाली गर्नुहोस्">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "डाउनलोडहरू खाली गर्नुहोस्">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "सबै डाउनलोड देखाउनुहोस्">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "डाउनलेाडहरू खाली गर्नुहोस्">
 <!ENTITY clearDownloadsButton.tooltip     "सबै सकिएका, रद्ध गरिएका र विफल भएका डाउनलोडहरू मेटाउनुहोस्">
