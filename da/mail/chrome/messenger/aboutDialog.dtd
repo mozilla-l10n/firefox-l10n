@@ -10,9 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
 <!ENTITY update.updateButton.label2               "Genstart &brandShortName; for at opdatere">
 <!ENTITY update.updateButton.accesskey            "G">
-<!ENTITY update.applyButtonBillboard.label        "Installer opdatering…">
-<!ENTITY update.applyButtonBillboard.accesskey    "I">
-
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; er en eksperimentel udgave og kan være ustabil.">

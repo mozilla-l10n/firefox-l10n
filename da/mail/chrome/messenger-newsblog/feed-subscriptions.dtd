@@ -30,8 +30,8 @@
 
 <!ENTITY button.addFeed.label "Tilføj">
 <!ENTITY button.addFeed.accesskey "ø">
-<!ENTITY button.editFeed.label "Rediger">
-<!ENTITY button.editFeed.accesskey "R">
+<!ENTITY button.updateFeed.label     "Opdater">
+<!ENTITY button.updateFeed.accesskey "d">
 <!ENTITY button.removeFeed.label "Fjern">
 <!ENTITY button.removeFeed.accesskey "F">
 <!ENTITY button.importOPML.label "Importer">

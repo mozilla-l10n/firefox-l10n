@@ -511,6 +511,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.label "Videresend">
 <!ENTITY fileButton.label "Gem">
 <!ENTITY archiveButton.label "Arkiver">
+<!ENTITY openConversationButton.label "Samtale">
 <!ENTITY nextButton.label "Næste">
 <!ENTITY nextButtonToolbarItem.label "Næste ulæste">
 <!ENTITY nextMsgButton.label "Næste">
@@ -553,6 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsAttachment.tooltip "Videresend dem markerede meddelelse som en vedhæftet fil">
 <!ENTITY fileButton.tooltip "Gem den valgte meddelelse">
 <!ENTITY archiveButton.tooltip "Arkiver valgte meddelelser">
+<!ENTITY openConversationButton.tooltip "Vis samtalen med den markerede meddelelse">
 <!ENTITY nextButton.tooltip "Gå til næste ulæste meddelelse">
 <!ENTITY nextMsgButton.tooltip "Gå til den næste meddelelse">
 <!ENTITY previousButton.tooltip "Gå til forrige ulæste meddelelse">
