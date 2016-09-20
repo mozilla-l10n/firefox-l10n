@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "مزید ہیچھِو">
 
-<!ENTITY crashReporterDesc.label         "برانڈ شاٹ ناو؛ چُھ سبمِٹ کران کریش رپورٹ مدد کرنْہ باپت &amp;وینڈر شاٹ ناو؛ اس تُہند براوزر مزید دور تْہ محفوظ بناونْہ باپت&amp;">
-<!ENTITY enableCrashReporter.label       "کریش رپورٹر کْریو اینیبْل&amp;  ">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "مزید ہیچھِو">
+
+
+<!ENTITY crashReporterLearnMore.label     "مزید ہیچھِو">
 
 <!ENTITY networkTab.label                "نیٹ ورك">
 

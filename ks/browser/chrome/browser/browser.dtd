@@ -159,7 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "یتھ صفحس تھٲویو نشان زد">
 <!ENTITY editThisBookmarkCmd.label "یئ نشان زَد كریو ایڈيٹ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -204,9 +203,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "پرینٹ">
 <!ENTITY printButton.tooltip          "یئ صفحئ چھپٲویو">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -411,9 +410,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -438,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "تبدیل کْریو تلاش سیٹینگ">
+
 
 
 
@@ -705,6 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "اجازت">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -742,21 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "سینك">
 
-<!ENTITY socialToolbar.title        "سمٲجی ٹولبار بٹن">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "سایڈ بار ہأیو&amp;">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "سْروس کْریو منیج ۔ ۔ ۔">
-
-<!ENTITY social.toggleNotifications.label "ڈیسْک ٹاپ نوٹیفیکیشن ہأیو&amp;">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "مزید ہیچھِو">
-<!ENTITY social.learnMore.accesskey "م">
 
 <!ENTITY social.directory.label "ایکٹیویشن ڈاریکٹری">
 <!ENTITY social.directory.text "توہیہ ہیکیو ایکٹیویٹ کْرتھ شییر سْروس ڈاریکٹری پیٹھ۔">
@@ -777,15 +764,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "مزید تھیم کْریو حأصل">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "چیٹ کْریو فوکس&amp;">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "کُن کْریو محفوظ پیج ۔ ۔ ۔&amp;">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "کُن کْریو لینک محفوظ ۔ ۔ ۔&amp;">
 
 <!ENTITY getUserMedia.selectCamera.label "کیمرا یوس شییر کرُن چُھ&amp;">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -817,8 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "حفاظت کْریو اینیبْل&amp;">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ٹریکینگ حفاظت چھ ڈیسیبلْڈ">
-
-<!ENTITY pointerLock.notification.message "کْریو پریس کُنِہ تِہ سات یہ دوبار ہاونْہ باپت۔ ESC">
 
 <!ENTITY pluginNotification.showAll.label "سٲری  ہٲویو">
 <!ENTITY pluginNotification.showAll.accesskey "س">

@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ہسٹری  منز ہٹأیو ">
 <!ENTITY cmd.removeFromHistory.accesskey  "ہ">
-<!ENTITY cmd.clearList.label              "فہرست كریو صاف">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "ڈاون لوڈ کْریو کْلیر&amp; ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "سٲری ڈاونلوڈس ہٲویو">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "ڈاون لوڈ کْریو کْلیر">
 <!ENTITY clearDownloadsButton.tooltip     "چُھ کْلیر کران مُکمل، کینسل کرنْہ آمْت تْہ فیل گأمِت ڈاون لوڈ">
