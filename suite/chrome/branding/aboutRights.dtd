@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c " 找到更多關於商標的使用條款。">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 及 Mozilla 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName; 產品的隱私權保護政策請看 ">
@@ -43,6 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; 將附加元件推薦及更新服務、安全瀏覽服務、位置感知瀏覽通知功能等選用服務（以下簡稱「服務」），透過此二進位版本的 &brandShortName; 提供給您使用。若您不想要使用這些「服務」或不接受以下的服務條款，可在">
+<!ENTITY rights3.webservices-b "此處">
+<!ENTITY rights3.webservices-c "找到關閉某功能或服務的方法。其他的功能或服務可在應用程式偏好設定中關閉。">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "附加元件服務:">
@@ -62,12 +66,14 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "位置感知瀏覽:">
+<!ENTITY rights.locationawarebrowsing-b "是永遠可選的，在您同意前不會送出任何資訊。如果您想要完全停用這些功能，請依照以下步驟:">
 <!ENTITY rights.locationawarebrowsing-term1 "開啟應用程式偏好設定">
 <!ENTITY rights.locationawarebrowsing-term2 "選擇主要的 &security.label; 面板">
 <!ENTITY rights.locationawarebrowsing-term3 "選擇「&geoDisabled.label;」的選項">
 <!ENTITY rights.locationawarebrowsing-term4 "位置感知瀏覽現已關閉">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName;、Mozilla 與其貢獻者、授權者，及伙伴致力於提供最新最準確的服務。然而，我們無法保證此資訊足夠完善且沒有錯誤。舉例，Safe Browsing 服務可能無法偵測出某些有風險的網站，或是錯誤地把安全的網站辨識為有問題的網站；位置感知服務當中由我們的服務提供者所回傳的位置資訊僅為估計值，我們與我們的服務提供者皆不保證回傳的位置資訊的準確度。">
 <!ENTITY rights.webservices-term1 "&vendorShortName; 保留嗣後自行修改服務內容或是停止相關服務的權利。">
 <!ENTITY rights.webservices-term2 "服務的提供網站透過本聲明授權使用者經由隨附的 &brandShortName; 使用這些服務。唯 &vendorShortName; 及其授權人保留其他與此服務無直接相關的權利。本網站資訊服務聲明條款，並無意限制任何基於 &brandShortName; 所適用的開放源碼授權條款給予軟體使用者的權利，亦不干預 &brandShortName; 開放源碼版本依其授權條款所能被進行的利用方式。">
 <!ENTITY rights.webservices-term3 "這些「資訊服務」的內容依其現狀提供。&vendorShortName; 與其貢獻者、授權人、與散布者，並不提供任何明示或隱含的保證，不擔保的範圍包含且不限於「資訊服務」的可用性及其他任何特定目的的使用。這些「資訊服務」的品質與效能沒有擔保，您須自行擔負使用此「資訊服務」可能產生的任何風險。若您所處的司法管轄區域不容許聲明條款預先排除或限制隱含性的保證，那麼本聲明裡關於隱含性保證的預先排除規定便不適用於您。">
