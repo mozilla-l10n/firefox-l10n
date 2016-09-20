@@ -61,6 +61,11 @@
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing 就會被停用">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "位置感知瀏覽:">
+<!ENTITY rights.locationawarebrowsing-term1 "開啟應用程式偏好設定">
+<!ENTITY rights.locationawarebrowsing-term2 "選擇主要的 &security.label; 面板">
+<!ENTITY rights.locationawarebrowsing-term3 "選擇「&geoDisabled.label;」的選項">
+<!ENTITY rights.locationawarebrowsing-term4 "位置感知瀏覽現已關閉">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; 保留嗣後自行修改服務內容或是停止相關服務的權利。">
