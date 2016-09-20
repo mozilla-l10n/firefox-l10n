@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "আংশিক আপডেইট প্ৰয়োগ কৰিব পৰা ন'গ'ল। &brandShortName; এ এটা সম্পূৰ্ণ আপডেইট ডাউনল'ড কৰাৰ চেষ্টা কৰিব।">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; এটা আপডেইট উপলব্ধ হয় নে নহয় নিৰ্ধাৰন কৰিবলে অক্ষম। অনুগ্ৰহ নিশ্চিত কৰক যে আপোনাৰ &brandShortName; ৰ শেহতীয়া সংস্কৰণ আছে:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "কিবা এটায় &brandShortName; ক সুৰক্ষিতভাৱে আপডেইট কৰাৰ পৰা প্ৰতিৰোধ কৰি আছে। অনুগ্ৰহ কৰি নিশ্চিত কৰক যে আপোনাৰ &brandShortName; ৰ শেহতীয়া সংস্কৰণ আছে:">
-<!ENTITY  errorCertAttrHasUpdate.label    "কিবা এটায় &brandShortName; ক অসুৰক্ষিত আপডেইট গ্ৰহণ কৰাৰ কাৰণে ফুচলাব চেষ্টা কৰি আছে। অনুগ্ৰহ কৰি আপোনাৰ নেটৱাৰ্ক প্ৰদানকৰ্তাক যোগাযোগ কৰক আৰু সহায় বিচাৰক।">
 
 <!ENTITY  finishedPage.title              "আপডেইট ইনস্টলৰ কাৰণে প্ৰস্তুত">
 <!ENTITY  finishedPage.text               "এই আপডেইট পিছৰ বাৰ &brandShortName; আৰম্ভ হওঁতে ইনস্টল্ড হ'ব। আপুনি &brandShortName; এতিয়া পুনাৰম্ভ কৰিব পাৰে, বা এতিয়া কামত আগবাঢ়ি পিছত পুনাৰম্ভ কৰক।">

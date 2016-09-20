@@ -159,7 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক">
 <!ENTITY editThisBookmarkCmd.label "এই পত্ৰচিহ্ন সম্পাদন কৰক">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -204,9 +203,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "প্ৰিন্ট কৰক">
 <!ENTITY printButton.tooltip          "এই পৃষ্ঠা প্ৰিন্ট কৰক">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -411,9 +410,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -436,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক">
+
 
 
 
@@ -703,6 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "অনুমতিসমূহ">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -740,21 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "সংমিহলি কৰক">
 
-<!ENTITY socialToolbar.title        "সামাজিক টুলবাৰ বুটাম">
-
-<!ENTITY social.ok.label       "ঠিক আছে">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "কাষবাৰ দেখুৱাওক">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "সেৱাসমূহ ব্যৱস্থাপনা কৰক…">
-
-<!ENTITY social.toggleNotifications.label "ডেস্কটপ অধিসূচনাসমূহ দেখুৱাওক">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "অধিক জানক…">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "সক্ৰিয়কৰণ ডাইৰেকটৰি">
 <!ENTITY social.directory.text "আপুনি ডাইৰেকটৰিৰ পৰা অংশীদাৰী সেৱাসমূহ সক্ৰিয় কৰিব পাৰিব।">
@@ -775,15 +762,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "অধিক থীমসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "চেটসমূহত ফকাচ কৰক">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "পৃষ্ঠাক চিহ্নিত অৱস্থানত সংৰক্ষণ কৰক…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "লিঙ্কক চিহ্নিত অৱস্থানত সংৰক্ষণ কৰক…">
 
 <!ENTITY getUserMedia.selectCamera.label "অংশীদাৰী কৰিবলে কেমেৰা:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -815,8 +793,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "সুৰক্ষা সামৰ্থবান কৰক">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "অনুকৰণ সুৰক্ষা অসামৰ্থবান কৰা আছে">
-
-<!ENTITY pointerLock.notification.message "ইয়াক আকৌ দেখুৱাবলে যিকোনো সময়ত ESC টিপক।">
 
 <!ENTITY pluginNotification.showAll.label "সকলো দেখুৱাওক">
 <!ENTITY pluginNotification.showAll.accesskey "S">
