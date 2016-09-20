@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Egin orriaren laster-marka">
 <!ENTITY editThisBookmarkCmd.label "Editatu laster-marka">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ikusi gunearen informazioa">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ikusi jakinarazpena">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ikusi kokalekuaren eskaera">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ikusi gehigarria instalatzeko mezua">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ikusi aplikazioaren lineaz kanpoko biltegiratzearen mezua">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Kudeatu zure saio-hasiera informazioa">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Markatu pasahitza gorde nahi baduzu">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Kudeatu pluginen erabilera orri honetan">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Zure kamera eta/edo mikrofonoa gunearekin partekatzen ari zara">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Kudeatu zure mikrofonoa gunearekin partekatzea">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Zure mikrofonoa gunearekin partekatzen ari zara">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Kudeatu zure leihoak edo pantaila gunearekin partekatzea">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Zure leihoa edo pantaila gunearekin partekatzen ari zara">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Aldatu guneak saguaren erakuslea ezkuta dezakeen ala ez">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ikusi zerbitzuaren instalazio-mezua">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Itzuli orri hau">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Kudeatu orriaren itzulpena">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Kudeatu DRM softwarearen erabilpena">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Kudeatu zure mikrofonoa gunearekin partekatzea">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Kudeatu zure leihoak edo pantaila gunearekin partekatzea">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Itzuli orri hau">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kudeatu orriaren itzulpena">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
+
 
 <!ENTITY searchItem.title             "Bilatu">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Bilaketa-katea">
-<!ENTITY contentSearchSubmit.label    "Bidali bilaketa">
+<!ENTITY contentSearchSubmit.tooltip  "Bidali bilaketa">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Aldatu bilaketa-ezarpenak">
+
 
 <!ENTITY searchInNewTab.label         "Bilatu fitxa berrian">
 <!ENTITY searchInNewTab.accesskey     "f">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Tresna-barra sozialaren botoia">
-
-<!ENTITY social.ok.label       "Ados">
-<!ENTITY social.ok.accesskey   "A">
-
-<!ENTITY social.toggleSidebar.label "Erakutsi alboko barra">
-<!ENTITY social.toggleSidebar.accesskey "E">
-
 <!ENTITY social.addons.label "Kudeatu zerbitzuak…">
-
-<!ENTITY social.toggleNotifications.label "Erakutsi mahaigaineko jakinarazpenak">
-<!ENTITY social.toggleNotifications.accesskey "m">
-
-<!ENTITY social.learnMore.label "Argibide gehiago…">
-<!ENTITY social.learnMore.accesskey "A">
 
 <!ENTITY social.directory.label "Aktibazioen direktorioa">
 <!ENTITY social.directory.text "Partekatzeko zerbitzuak direktoriotik parteka ditzakezu.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu gai gehiago">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Ezarri fokua txatetan">
-<!ENTITY social.chatBar.accesskey "k">
-
-<!ENTITY social.markpageMenu.accesskey "a">
-<!ENTITY social.markpageMenu.label "Gorde orria hona…">
-<!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY social.marklinkMenu.label "Gorde lotura hona…">
 
 <!ENTITY getUserMedia.selectCamera.label "Partekatzeko kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
 <!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
-
-<!ENTITY pointerLock.notification.message "Berriro erakusteko, sakatu ESK tekla edozein unetan.">
 
 <!ENTITY pluginNotification.showAll.label "Erakutsi denak">
 <!ENTITY pluginNotification.showAll.accesskey "E">

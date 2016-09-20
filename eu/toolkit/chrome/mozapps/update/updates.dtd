@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Ezin da eguneraketa partziala ezarri. &brandShortName; eguneraketa osoa deskargatzen saiatuko da.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName;(e)k ezin du zehaztu eguneraketarik eskura dagoen ala ez. Egiaztatu &brandShortName;(r)en azken bertsioa duzula ondorengo helbidean:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; modu seguruan eguneratzea saihesten ari da zerbait. Egiaztatu &brandShortName;(r)en azken bertsioa duzula ondorengo helbidean:">
-<!ENTITY  errorCertAttrHasUpdate.label    "&brandShortName;(e)k eguneraketa ez-seguru bat onartzeko azpikeriatan ari da zerbait. Jar zaitez harremanetan sareko hornitzailearekin eta bilatu laguntza.">
 
 <!ENTITY  finishedPage.title              "Eguneraketa instalatzeko prest">
 <!ENTITY  finishedPage.text               "Eguneraketa &brandShortName; abiarazten den hurrengo aldian ezarriko da. &brandShortName; orain berrabiarazi edo lanean jarraitu eta geroago berrabiaraz dezakezu.">

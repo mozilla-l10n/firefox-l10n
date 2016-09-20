@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Kendu historiatik">
 <!ENTITY cmd.removeFromHistory.accesskey  "K">
-<!ENTITY cmd.clearList.label              "Garbitu zerrenda">
-<!ENTITY cmd.clearList.accesskey          "G">
+
+
 <!ENTITY cmd.clearDownloads.label         "Garbitu deskargak">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Erakutsi deskarga guztiak">
 <!ENTITY downloadsHistory.accesskey       "s">
+
 
 <!ENTITY clearDownloadsButton.label       "Garbitu deskargak">
 <!ENTITY clearDownloadsButton.tooltip     "Burututako, utzitako eta huts egindako deskargak garbitzen ditu">
