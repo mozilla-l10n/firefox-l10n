@@ -139,7 +139,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "I">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -184,11 +183,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Bíe Rábe fɨno">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Bíe íyano ráfue ákata">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Kúega akátari">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Jɨkánoga íyano akátri">
 
 
 
@@ -200,14 +194,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bíe rabe jɨaɨe úiado jóne">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kúe dáma bíe rabe jɨaɨe úiado jóne">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Software DRM kúe dáma taɨjɨa">
 
 
 
-<!ENTITY urlbar.translateNotificationAnchor.label       "Bíe rabe jɨaɨe úiado jóne">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Kúe dáma bíe rabe jɨaɨe úiado jóne">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Software DRM kúe dáma taɨjɨa">
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ákatari jágaɨ">
+
 
 <!ENTITY searchItem.title             "Jéno">
 <!-- Toolbar items --> 
@@ -393,12 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Jɨkánoyena jéno">
-<!ENTITY contentSearchSubmit.label    "Jenóyena  óre">
+<!ENTITY contentSearchSubmit.tooltip  "Jenóyena  óre">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -424,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Jenóyena jɨaɨena jóne">
+
 
 <!ENTITY searchInNewTab.label         "Kómue úitɨraɨ jéno">
 <!ENTITY searchInNewTab.accesskey     "ú">
@@ -689,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Jamano ráfue">
 
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -731,17 +731,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Dáamakɨ">
 
 
-<!ENTITY social.ok.label       "Jɨɨ">
-<!ENTITY social.ok.accesskey   "J">
-
-
-
-
-
-
-<!ENTITY social.learnMore.label "Aiyo onóde...">
-<!ENTITY social.learnMore.accesskey "o">
-
 
 <!ENTITY social.directory.button "¡Dɨne kúe úi!">
 
@@ -759,15 +748,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Chats dɨne éroi">
-<!ENTITY social.chatBar.accesskey "d">
-
-<!ENTITY social.markpageMenu.accesskey "j">
-<!ENTITY social.markpageMenu.label "Rabe jóne bíemo…">
-
-
 
 <!ENTITY getUserMedia.selectCamera.label "Jóreño óra fekáyena:">
 <!ENTITY getUserMedia.selectCamera.accesskey "J">
@@ -799,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.block.label "Rɨidite bonua">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-
 
 
 <!ENTITY pluginNotification.showAll.label "Nate ákatairi">

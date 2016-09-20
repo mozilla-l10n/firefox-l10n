@@ -37,10 +37,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Aiyo ráfue">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ñueñede ite óre kanóyena &vendorShortName; ó mákara ñue íyena.">
-<!ENTITY enableCrashReporter.label       "Maí bóno fɨgoñeiadɨ yoyena">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Aiyo ráfue">
+
+
+<!ENTITY crashReporterLearnMore.label     "Aiyo ráfue">
 
 <!ENTITY networkTab.label                "Fóikui">
 
