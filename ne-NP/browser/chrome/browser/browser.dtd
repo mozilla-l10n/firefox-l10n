@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "यो पृष्ठ मुद्रण गर्नुहोस्">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "साइट जानकारी हेर्नुहोस्">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "जानकारी हेर्नुहोस्">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "स्थान अनुरोध हेर्नुहोस्">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "एड-अन स्थापना सन्देश हेर्नुहोस्">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "अनुप्रयोग अफलाइन भन्डारण सन्देशहरू हेर्नुहोस्">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "तपाईको लग-इन जानकारीको व्यवस्थापन गर्नुहोस्">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईँ आफ्नो पासवर्ड सङ्ग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "यो पृष्ठमा प्लगइन प्रयोगहरू व्यवस्थापन गर्नुहोस् ">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्ने अनुमति दिँदै हुनुहुन्छ ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "यो साइटले तपाईँको माइक्रोफोन प्रयोग गर्दै छ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "आफ्नो साइटमा सञ्झ्याल वा स्क्रिन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्न दिँदै हुनुहुन्छ ">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "यस साइटले पोइन्टर लुकाउन सक्छ कि परिवर्तन गर्नुहोस्">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "सेवा स्थापना सन्देश हेर्नुहोस्">
-<!ENTITY urlbar.translateNotificationAnchor.label       "यो पृष्ठ अनुवाद गर्नुहोस्">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "आफ्नो साइटमा सञ्झ्याल वा स्क्रिन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "यो पृष्ठ अनुवाद गर्नुहोस्">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउने">
+
 
 <!ENTITY searchItem.title             "खोजी गर्नुहोस्">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "खोजी क्वेरी">
-<!ENTITY contentSearchSubmit.label    "खोज बुझाउनुहोस्">
+<!ENTITY contentSearchSubmit.tooltip  "खोज बुझाउनुहोस्">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "खोजि सेटिङ परिवर्तन गर्नुहोस्">
+
 
 <!ENTITY searchInNewTab.label         "नयाँ ट्याबमा खोज्नुहोस्">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "अनुमतिहरू">
 <!ENTITY identity.permissionsEmpty "तपाईँले यस साइटलाई कुनै विशेष अनुमति दिनुभएको छैन।">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिङ्क">
 
-<!ENTITY socialToolbar.title        "समाजिक टुलबार बटन">
-
-<!ENTITY social.ok.label       "ठीक छ">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "साइडबार देखाउनुहोस्">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "सेवाहरू प्रबन्धन गर्नुहोस्...">
-
-<!ENTITY social.toggleNotifications.label "डेस्कटपका सूचनाहरू देखाउनुहोस्">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "अझ जान्नुहोस्">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "Activations Directory">
 <!ENTITY social.directory.text "तपाईँले डाईरेक्टरीद्वारा सेयर सेवा सक्रिय गर्न सक्नुहुन्छ।">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अरु आवरणहरू पाउनुहोस्">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "च्याटमा केन्द्रित">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "पृष्ठहरूलाई यहाँ सङ्ग्रह गर्नुहोस....">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "लिङ्कहरूलाई यहाँ सङ्ग्रह गर्नुहोस....">
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सुचारु गर्नुहोस्">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ट्रयाकिङ् सुरक्षा निस्क्रिय गरियो">
-
-<!ENTITY pointerLock.notification.message "यसलाई फेरि देखाउन कुनै पनि समयमा ESC थिच्नुहोस्">
 
 <!ENTITY pluginNotification.showAll.label "सबै देखाउनुहोस्">
 <!ENTITY pluginNotification.showAll.accesskey "S">
