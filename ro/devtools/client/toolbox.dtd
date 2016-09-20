@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Activați depanarea la distanță">
-<!ENTITY options.enableRemote.tooltip   "Pornind această opțiune vă va permite să depanați folosind uneltele de dezvoltare instanțe Firefox de la distanță precum Firefox OS">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -110,11 +110,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Activează Service Workers prin HTTP (când e deschisă trusa de unelte)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Prin pornirea acestei opțiuni se vor activa service workers peste HTTP pentru toate filele care au trusa de unelte deschisă.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Unelte de dezvoltare Firefox implicite">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
