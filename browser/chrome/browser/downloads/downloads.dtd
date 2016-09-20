@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "N">
 <!ENTITY cmd.removeFromHistory.label      "Bain ón Stair">
 <!ENTITY cmd.removeFromHistory.accesskey  "B">
-<!ENTITY cmd.clearList.label              "Glan an Liosta">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Bánaigh Íosluchtuithe">
 <!ENTITY cmd.clearDownloads.accesskey     "c">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,8 @@
 
 <!ENTITY downloadsHistory.label           "Taispeáin Gach Íosluchtú">
 <!ENTITY downloadsHistory.accesskey       "T">
+
+<!ENTITY openDownloadsFolder.label       "Oscail Fillteán na nÍosluchtuithe">
 
 <!ENTITY clearDownloadsButton.label       "Bánaigh Íosluchtuithe">
 <!ENTITY clearDownloadsButton.tooltip     "Bánaíonn sé seo íosluchtuithe críochnaithe, cealaithe, agus teipthe">

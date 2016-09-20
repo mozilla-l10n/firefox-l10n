@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Níorbh fhéidir an páirt-nuashonrú a chur i bhfeidhm. Déanfaidh &brandShortName; iarracht eile trí nuashonrú iomlán a íosluchtú.">
 
 <!ENTITY  genericBackgroundError.label    "Ní féidir le &brandShortName; a dhéanamh amach an bhfuil nuashonrú ar fáil. Bí cinnte go bhfuil an leagan is déanaí de &brandShortName; agat ó:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Ar fáth éigin, ní féidir le &brandShortName; nuashonrú go sábháilte. Bí cinnte go bhfuil an leagan is déanaí de &brandShortName; agat ó:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Tá rud éigin ag iarraidh cluain a chur ar &brandShortName; sa chaoi go nglacfaidh sé le nuashonrú contúirteach. Téigh i dteagmháil le do sholáthraí seirbhísí Idirlín chun cabhair a fháil.">
 
 <!ENTITY  finishedPage.title              "Nuashonrú Réidh le Suiteáil">
 <!ENTITY  finishedPage.text               "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
