@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Fuortsmite út skiednis">
 <!ENTITY cmd.removeFromHistory.accesskey  "s">
+<!ENTITY cmd.clearList2.label             "Foarbyldpaniel wiskje">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Downloads wiskje">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Alle downloads toane">
 <!ENTITY downloadsHistory.accesskey       "d">
 
+<!ENTITY openDownloadsFolder.label       "Downloadmap iepenje">
 
 <!ENTITY clearDownloadsButton.label       "Downloads wiskje">
 <!ENTITY clearDownloadsButton.tooltip     "Wisket foltôge, annulearre en mislearre downloads">

@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Mear ynfo">
 
+<!ENTITY crashReporterDesc2.label         "Ungelokrapporten helpe &vendorShortName; problemen op te lossen en jo browser stabiler en feiliger te meitsjen">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; tastean om út jo namme sammele ûngelokrapporten te ferstjoeren">
+<!ENTITY alwaysSubmitCrashReports.accesskey "s">
 <!ENTITY crashReporterLearnMore.label     "Mear ynfo">
 
 <!ENTITY networkTab.label                "Netwurk">
