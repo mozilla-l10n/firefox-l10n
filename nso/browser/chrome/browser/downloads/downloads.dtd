@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Tloša historing">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
-<!ENTITY cmd.clearList.label              "Tloša lelokelelo">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Tloša ditaollo">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Laetša ditaollo tšohle">
 <!ENTITY downloadsHistory.accesskey       "L">
+
 
 <!ENTITY clearDownloadsButton.label       "Tloša ditaollo">
 <!ENTITY clearDownloadsButton.tooltip     "Go tloša go phethilwe, ditaollo tše khansetšwego le tše paletšwego">

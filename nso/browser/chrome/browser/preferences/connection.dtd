@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Dipeakanyo tša kgokaganyo">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Beakanya dikemedi go fihlelela inthanete">
 <!ENTITY  noProxyTypeRadio.label        "Ga go na kemedi">
