@@ -27,6 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вмъкване">
 <!ENTITY insertMenu.accesskey "В">
+<!ENTITY insertLinkCmd2.label "Препратка…">
+<!ENTITY insertLinkCmd2.accesskey "а">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Именувана котва…">
 <!ENTITY insertAnchorCmd.accesskey "к">
 <!ENTITY insertImageCmd.label "Изображение…">
