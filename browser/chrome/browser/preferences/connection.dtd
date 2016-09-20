@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ryšio nuostatos">
-<!ENTITY  window.width                  "50em">
-<!ENTITY  window.macWidth               "52em">
 
 <!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
 <!ENTITY  noProxyTypeRadio.label        "Nenaudoti įgaliotojo serverio">
