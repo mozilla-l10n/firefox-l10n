@@ -207,6 +207,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Website-ynformaasje werjaan">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berjochtpaniel iepenje">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lokaasjefersyk-paniel iepenje">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on-ynstallaasjebejocht-paniel iepenje">
 
 
 
