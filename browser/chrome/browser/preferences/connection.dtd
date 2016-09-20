@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Gosodiadau Cysylltu">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd">
 <!ENTITY  noProxyTypeRadio.label        "Dim dirprwy">

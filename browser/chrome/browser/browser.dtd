@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
 <!ENTITY editThisBookmarkCmd.label "Golygu'r Nod Tudalen">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Argraffu'r dudalen">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Gweld manylion y wefan">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Gweld hysbysiad">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Gweld y cais lleoliad">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Gweld y neges gosod ychwanegyn">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Gweld y neges cadw ap all-lein">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Rheoli eich manylion mewngofnodi">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Gwirio os ydych am gadw eich cyfrinair">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Rheoli defnydd ategyn ar y dudalen hon">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rydych yn rhannu eich camera a/neu eich meicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Rheoli rhannu eich meicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Rydych yn rhannu eich meicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Rydych yn rhannu eich ffenestr neu sgrin gyda'r wefan">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Newid p'un ai gall y wefan guddio'r pwyntydd">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Gweld neges gosod gwasanaeth">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Cyfieithu'r dudalen hon">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Rheoli cyfieithu tudalennau">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Rheoli'r defnydd o feddalwedd DRM">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Cyfieithu'r dudalen hon">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Rheoli cyfieithu tudalennau">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
+
 
 <!ENTITY searchItem.title             "Chwilio">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Ymholiad chwilio">
-<!ENTITY contentSearchSubmit.label    "Cyflwyno'r chwilio">
+<!ENTITY contentSearchSubmit.tooltip  "Cyflwyno'r chwilio">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Gosodiadau Chwilio">
+
 
 <!ENTITY searchInNewTab.label         "Chwilio mewn Tab Newydd">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Caniatâd">
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "A">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Botwm Bar Offer Cymdeithasol">
-
-<!ENTITY social.ok.label       "Iawn">
-<!ENTITY social.ok.accesskey   "I">
-
-<!ENTITY social.toggleSidebar.label "Dangos bar ochr">
-<!ENTITY social.toggleSidebar.accesskey "D">
-
 <!ENTITY social.addons.label "Rheoli Gwasanaethau…">
-
-<!ENTITY social.toggleNotifications.label "Dangos hysbysiadau'r bwrdd gwaith">
-<!ENTITY social.toggleNotifications.accesskey "h">
-
-<!ENTITY social.learnMore.label "Dysgu rhagor…">
-<!ENTITY social.learnMore.accesskey "D">
 
 <!ENTITY social.directory.label "Cyfeiriadur Gweithredu">
 <!ENTITY social.directory.text "Mae modd gweithredu'r gwasanaethau Rhannu o'r cyfarwyddiadur.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Canolbwynt sgyrsiau">
-<!ENTITY social.chatBar.accesskey "a">
-
-<!ENTITY social.markpageMenu.accesskey "T">
-<!ENTITY social.markpageMenu.label "Cadw Tudalen i…">
-<!ENTITY social.marklinkMenu.accesskey "D">
-<!ENTITY social.marklinkMenu.label "Cadw'r Ddolen i…">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Galluogi diogelu">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
 <!ENTITY trackingContentBlocked.disabled.message "Mae diogelwch rhag tracio wedi ei analluogi">
-
-<!ENTITY pointerLock.notification.message "Pwyswch ESC ar unrhyw adeg i'w ddangos eto.">
 
 <!ENTITY pluginNotification.showAll.label "Dangos Popeth">
 <!ENTITY pluginNotification.showAll.accesskey "P">
