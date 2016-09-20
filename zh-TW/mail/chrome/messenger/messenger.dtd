@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "轉寄">
 <!ENTITY fileButton.label "檔案">
 <!ENTITY archiveButton.label "備存">
+<!ENTITY openConversationButton.label "討論串">
 <!ENTITY nextButton.label "下一封">
 <!ENTITY nextButtonToolbarItem.label "下一封未讀">
 <!ENTITY nextMsgButton.label "下一封">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "將所選的訊息作為附件轉寄">
 <!ENTITY fileButton.tooltip "歸檔所選的訊息">
 <!ENTITY archiveButton.tooltip "將選取的郵件備存">
+<!ENTITY openConversationButton.tooltip "顯示所選訊息當中的對話內容">
 <!ENTITY nextButton.tooltip "移至下一封未讀郵件">
 <!ENTITY nextMsgButton.tooltip "移動至下一封訊息">
 <!ENTITY previousButton.tooltip "移至上一封未讀郵件">
@@ -924,4 +926,3 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "應用程式圖示選項…">
-

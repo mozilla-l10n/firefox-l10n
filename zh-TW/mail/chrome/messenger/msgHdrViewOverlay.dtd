@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "給">
 <!ENTITY fromField4.label "從">
 <!ENTITY senderField4.label "寄件者">
+<!ENTITY author.label "作者">
 <!ENTITY organizationField4.label "組織">
 <!ENTITY replyToField4.label "回覆至">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "備存">
 <!ENTITY hdrArchiveButton1.tooltip "備存此訊息">
+<!ENTITY hdrOpenConversationButton1.label "討論串">
+<!ENTITY hdrOpenConversationButton1.tooltip "顯示此訊息中的討論內容">
 <!ENTITY hdrSmartReplyButton1.label "智慧回覆">
 <!ENTITY hdrReplyButton1.label "回覆">
 <!ENTITY hdrReplyButton2.tooltip "回應此訊息給寄件者">
@@ -107,4 +110,3 @@
 <!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "在瀏覽器開啟此 Message-ID 的郵件">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
-
