@@ -20,3 +20,6 @@
 
 
 <!ENTITY inspectorEyeDropper.label       "Grab a color from the page">
+<!-- LOCALIZATION NOTE (inspectorBreadcrumbsGroup): A string visible only to a
+     screen reader and is used to label (using aria-label attribute) a container
+     for inspector breadcrumbs -->

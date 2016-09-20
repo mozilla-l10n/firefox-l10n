@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Cha do ghabh an t-ùrachadh phàirteach seo a chur an sàs. Feuchaidh &brandShortName; ris a-rithist 's e a' luchdadh a-nuas ùrachadh iomlan.">
 
 <!ENTITY  genericBackgroundError.label    "Chan urrainn dha &brandShortName; faighinn a-mach a bheil ùrachadh ann. Dèan cinnteach gu bheil an tionndadh as ùire de &brandShortName; agad air:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Tha rudeigin a' bacadh &brandShortName; o ùrachadh gu tèarainte. Dèan cinnteach gu bheil an tionndadh as ùire de &brandShortName; agad air:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Tha cuideigin a' feuchainn ri cur air &brandShortName; gabhail ri ùrachadh mì-thèarainte tro fhoill. Leig fios gu solaraiche an lìonraidh agad is iarr cuideachadh uapa.">
 
 <!ENTITY  finishedPage.title              "Ùrachadh deiseil ri stàladh">
 <!ENTITY  finishedPage.text               "Thèid an t-ùrachadh a stàladh an ath-thuras a thòisicheas &brandShortName;. 'S urrainn dhut &brandShortName; ath-thòiseachadh an-dràsta no leantainn air adhart ris na bha thu a' dèanamh 's ath-thòiseachadh uaireigin eile.">
