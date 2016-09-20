@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber mais">
 
-<!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatórios de falha para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">
-<!ENTITY enableCrashReporter.label       "Ativar o relator de falhas">
-<!ENTITY enableCrashReporter.accesskey   "v">
-<!ENTITY crashReporterLearnMore.label    "Saber mais">
+
+
+<!ENTITY crashReporterLearnMore.label     "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
 

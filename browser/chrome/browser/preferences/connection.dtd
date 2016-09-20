@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Definições da ligação">
-<!ENTITY  window.width                  "40em">
-<!ENTITY  window.macWidth               "42em">
 
 <!ENTITY  proxyTitle.label              "Configurar proxies para aceder à Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
