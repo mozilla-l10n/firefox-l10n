@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Més informació">
 
-<!ENTITY crashReporterDesc.label         "El &brandShortName; tramet informes de fallada per ajudar a &vendorShortName; a fer el navegador més estable i segur">
-<!ENTITY enableCrashReporter.label       "Habilita els informes de fallada">
-<!ENTITY enableCrashReporter.accesskey   "H">
-<!ENTITY crashReporterLearnMore.label    "Més informació">
+
+
+<!ENTITY crashReporterLearnMore.label     "Més informació">
 
 <!ENTITY networkTab.label                "Xarxa">
 

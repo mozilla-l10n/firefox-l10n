@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "L'actualització parcial no s'ha pogut aplicar. El &brandShortName; ho tornarà a provar baixant una actualització completa.">
 
 <!ENTITY  genericBackgroundError.label    "El &brandShortName; no pot determinar si hi ha una actualització disponible. Assegureu-vos que teniu la darrera versió del &brandShortName; de:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Quelcom ha evitat que el &brandShortName; s'actualitzés de forma segura. Assegureu-vos que teniu la darrera versió del &brandShortName; de:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Quelcom està mirant d'enganyar el &brandShortName; perquè accepti una actualització insegura. Contacteu amb el vostre proveïdor de la xarxa i demaneu ajuda.">
 
 <!ENTITY  finishedPage.title              "L'actualització està preparada per poder instal·lar-la">
 <!ENTITY  finishedPage.text               "L'actualització s'instal·larà la propera vegada que s'iniciï el &brandShortName;. Podeu reiniciar el &brandShortName; ara, o continuar treballant i reiniciar-lo més endavant.">

@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Habilita la depuració remota">
-<!ENTITY options.enableRemote.tooltip   "Activeu aquesta opció per permetre a les eines per a desenvolupadors depurar instàncies remotes del Firefox, com el Firefox OS">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -118,11 +118,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Habilita els processos de treball de servei a través de HTTP (quan la caixa d'eines és oberta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Activeu aquesta opció per permetre els processos de treball de servei a través de HTTP en totes les pestanyes que tinguin la caixa d'eines oberta.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Eines per a desenvolupadors per defecte del Firefox">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
