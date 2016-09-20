@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Zêdetir bixwîne">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ji bo ku em dikaribin geroka te hevgirtîtir û ewletir bikin, raporên têkçûnê dişîne ser pêşkêşkarên &vendorShortName;ê">
-<!ENTITY enableCrashReporter.label       "Ragihînera Têkçûnê çalak bike">
-<!ENTITY enableCrashReporter.accesskey   "T">
-<!ENTITY crashReporterLearnMore.label    "Zêdetir bixwîne">
+
+
+<!ENTITY crashReporterLearnMore.label     "Zêdetir bixwîne">
 
 <!ENTITY networkTab.label                "Tor">
 

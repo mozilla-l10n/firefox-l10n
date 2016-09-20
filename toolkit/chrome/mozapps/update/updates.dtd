@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Rojanekirina bi parçe nehat sepandin. &brandShortName; dê daxistina bi temamî biceribîne.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nikare tê derxe ka rojanekirinek heye an na. Tika ye lê binêre ka &brandShortName;a te guhertoya dawî ya vê ye an na:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Hin tişt rojanekirina ewle ya &brandShortName;ê asteng dikin. Tika ye lê binêre ka &brandShortName; guhertoya dawî ye û ji virê ye:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Hin tişt dixwazin bi rojanekirinên ne ewle &brandShortName;ê bixapînin. Ji kerema xwe re bi pêşkêşkara torê re bikeve têkiliyê alîkariyê bixwaze.">
 
 <!ENTITY  finishedPage.title              "Rojanekirin ji bo Sazbûnê Amade ye">
 <!ENTITY  finishedPage.text               "Rojanekirin wê cara bê were sazkirin &brandShortName; destpê dike. Tu dikarî &brandShortName; niha ji nû ve bidî destpêkirin, an jî dikarî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">

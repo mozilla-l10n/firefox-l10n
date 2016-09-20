@@ -157,7 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Vê bijareyê serast bike">
 <!ENTITY bookmarkThisPageCmd.commandkey "D">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -199,9 +198,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Çap bike">
 <!ENTITY printButton.tooltip          "Vê rûpelê çap bike">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -406,10 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "K">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "J">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchSubmit.label    "Lêgerînê bişîne">
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchSubmit.tooltip  "Lêgerînê bişîne">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -429,6 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Eyarên lêgerînê biguherîne">
+
 
 
 
@@ -696,6 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Destûr">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -733,21 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Bişkoka daramûran ya civakî">
-
-<!ENTITY social.ok.label       "Temam">
-<!ENTITY social.ok.accesskey   "T">
-
-<!ENTITY social.toggleSidebar.label "Darikê kêlekê nîşan bide">
-<!ENTITY social.toggleSidebar.accesskey "n">
-
 <!ENTITY social.addons.label "Xizmetan bi rê ve bibe…">
-
-<!ENTITY social.toggleNotifications.label "Danezanên sermaseyê nîşan bide">
-<!ENTITY social.toggleNotifications.accesskey "D">
-
-<!ENTITY social.learnMore.label "Zêdetir bizane…">
-<!ENTITY social.learnMore.accesskey "Z">
 
 
 
@@ -767,15 +754,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Li ser sohbetan hûr bibe">
-<!ENTITY social.chatBar.accesskey "b">
-
-<!ENTITY social.markpageMenu.accesskey "R">
-<!ENTITY social.markpageMenu.label "Rûpelê li virê tomar bike…">
-<!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY social.marklinkMenu.label "Girêdankê li virê tomar bike…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraya parvekirinê:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -807,8 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY pointerLock.notification.message "Dema bixwazî dîsa bibînî pêl ESCê bike.">
 
 <!ENTITY pluginNotification.showAll.label "Hemûyan Nîşan Bide">
 <!ENTITY pluginNotification.showAll.accesskey "H">
