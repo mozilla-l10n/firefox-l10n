@@ -27,6 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vstavi">
 <!ENTITY insertMenu.accesskey "V">
+<!ENTITY insertLinkCmd2.label "Povezavo …">
+<!ENTITY insertLinkCmd2.accesskey "P">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Sidro z imenom …">
 <!ENTITY insertAnchorCmd.accesskey "d">
 <!ENTITY insertImageCmd.label "Sliko …">
