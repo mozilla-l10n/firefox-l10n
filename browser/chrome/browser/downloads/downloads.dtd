@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "പട്ടികയില്‍ നിന്നു നീക്കം ചെയ്യുക">
 <!ENTITY cmd.removeFromHistory.accesskey  "ക">
-<!ENTITY cmd.clearList.label              "പട്ടിക വെടിപ്പാക്കുക">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക">
 <!ENTITY cmd.clearDownloads.accesskey     "ക">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +107,7 @@
 
 <!ENTITY downloadsHistory.label           "എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുകക">
 <!ENTITY downloadsHistory.accesskey       "ക">
+
 
 <!ENTITY clearDownloadsButton.label       "ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക">
 <!ENTITY clearDownloadsButton.tooltip     "പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുന്നു">

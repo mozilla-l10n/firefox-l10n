@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "കൂടുതല്‍ അറിയുക">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; തകർച്ചാവിവരങ്ങൾ &vendorShortName; -മായി പങ്കുവെച്ച് നിങ്ങളുടെ ബ്രൗസർ മെച്ചപ്പെടുത്തുന്നു.">
-<!ENTITY enableCrashReporter.label       "തകർച്ചാനിരീക്ഷണം സജ്ജമാക്കുക.">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "കൂടുതല്‍ അറിയുക">
+
+
+<!ENTITY crashReporterLearnMore.label     "കൂടുതല്‍ അറിയുക">
 
 <!ENTITY networkTab.label                "നെറ്റ്‌വര്‍ക്ക്‌">
 

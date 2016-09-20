@@ -8,15 +8,10 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
-  -  the labels shown on the main recording buttons to start/stop recording. -->
-
-
-
-<!ENTITY performanceUI.startRecording "പ്രകടനം റെക്കോര്‍ഡ് ചെയ്യുന്നത് ആരംഭിയ്ക്കുക">
-<!ENTITY performanceUI.stopRecording  "പ്രകടനം റെക്കോര്‍ഡ് ചെയ്യുന്നത് നിര്‍ത്തുക">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+
 
 <!ENTITY performanceUI.bufferStatusTooltip "പ്രൊഫൈലര്‍ സാമ്പിളുകളെ ഒരു വൃത്താകൃതിയിലുള്ള ബഫറില്‍ സൂക്ഷിക്കുകയും, സൂക്ഷിക്കുന്നതിനുള്ള പരിധിയില്‍ ബഫര്‍ എത്തുമ്പോള്‍ പുതിയ സാമ്പിളുകള്‍ സൂക്ഷിച്ചു വെച്ചിരിക്കുന്നതിന്റെ തുടക്കത്തിലുള്ള സാമ്പിളുകളെ മാറ്റിയെഴുതുകയും ചെയ്യുന്നു.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -42,18 +37,6 @@
   -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "ലഭ്യമാക്കുന്നു…">
-<!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
-  -  on a button that starts a new profile. -->
-
-<!ENTITY performanceUI.recordButton.tooltip "ഒരു പ്രകടനം റെക്കോര്‍ഡ് ചെയ്യുന്നതിന്റെ റെക്കോര്‍ഡിങ് സ്റ്റേറ്റ് ടൊഗിള്‍ ചെയ്യുക.">
-<!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
-  -  on a button that opens a dialog to import a saved profile data file. -->
-
-<!ENTITY performanceUI.importButton "ഇംപോര്‍ട്ട് ചെയ്യുക…">
-<!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
-  -  on a button that removes all the recordings. -->
-
-<!ENTITY performanceUI.clearButton "വൃത്തിയാകുക ">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
