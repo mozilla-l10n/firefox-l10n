@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
 <!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
 <!ENTITY bookmarkThisPageCmd.commandkey "B">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Prenta síðu">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Skoða upplýsingar um vefsvæði">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Skoða tilkynningu">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Skoða staðsetningarbeiðni">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Skoða skilaboð frá uppsetngu viðbótar">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Skoða skilaboð fyrir ónettengda app geymslu">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Sýsla með innskráningar">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Hakaðu við ef þú vilt vista lykilorðið">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Sýsla með notkun á tengiforriti á þessari síðu">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Breyta hvort vefsvæði getur sent þér tilkynningar">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Þú ert að deila myndavél og/eða hljóðnema með vefsvæðinu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Sýsla með að deila hljóðnema á vefsvæðinu">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Þú ert að deila hljóðnema með vefsvæðinu">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Þú ert að deila glugga eða skjánum með vefsvæðinu">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna skilaboðaflipa">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna staðsetningarbeiðnaflipa">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opna skilaboðaflipa fyrir viðbótauppsetningu">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opna skilaboðaflipa fyrir aftengda geymslu">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opna skilaboðaflipa fyrir vistuð lykilorð">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sýsla með notkun tengiforrita">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Breyta hvort vefsvæði getur sent þér tilkynningar">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Breyta hvort vefsvæðið getur falið bendilinn">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Skoða skilaboð fyrir uppsetningu þjónustu">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Þýða þessa síðu">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Sýsla með þýðingar á síðu">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Sýsla með notkun á DRM hugbúnaði">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sýsla með að deila hljóðnema á vefsvæðinu">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Opna skilaboðaflipa uppsetninga">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Þýða þessa síðu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sýsla með þýðingar á síðu">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sýsla með notkun á DRM hugbúnaði">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Þú hefur lokað fyrir myndavélina á þessu vefsvæði.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Þú hefur lokað fyrir hljóðnema á þessu vefsvæði.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Þú hefur lokað fyri gagna geymslu á þessu vefsvæði.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Endurstilla aðdrátt">
 
 <!ENTITY searchItem.title             "Leita">
 <!-- Toolbar items --> 
@@ -424,12 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Leitar fyrirspurn">
-<!ENTITY contentSearchSubmit.label    "Senda leit">
+<!ENTITY contentSearchSubmit.tooltip  "Senda leit">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Breyta leitarstillingum">
+<!ENTITY changeSearchSettings.tooltip "Breyta leitarstillingum">
 
 <!ENTITY searchInNewTab.label         "Leita og birta í nýjum flipa">
 <!ENTITY searchInNewTab.accesskey     "f">
@@ -733,6 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Heimildir">
 <!ENTITY identity.permissionsEmpty "Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.">
+<!ENTITY identity.permissionsReloadHint "Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Samfélags tækjaslá hnappur">
-
-<!ENTITY social.ok.label       "Í lagi">
-<!ENTITY social.ok.accesskey   "l">
-
-<!ENTITY social.toggleSidebar.label "Sýna hliðarslá">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Sýsla með þjónustur…">
-
-<!ENTITY social.toggleNotifications.label "Sýna skjáborðs tilkynningar">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Fræðast meira…">
-<!ENTITY social.learnMore.accesskey "F">
 
 <!ENTITY social.directory.label "Virkjanir">
 <!ENTITY social.directory.text "Þú getur virkja deilingarþjónustur frá þessu skráarsafni.">
@@ -811,15 +800,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ná í fleiri þemu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Sýna spjall">
-<!ENTITY social.chatBar.accesskey "p">
-
-<!ENTITY social.markpageMenu.accesskey "s">
-<!ENTITY social.markpageMenu.label "Vista síðu á…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Vista tengil á…">
 
 <!ENTITY getUserMedia.selectCamera.label "Myndavél til að deila:">
 <!ENTITY getUserMedia.selectCamera.accesskey "y">
@@ -854,8 +834,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Virkja vernd">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Vörn gegn því að fylgst sé með þér er óvirk">
-
-<!ENTITY pointerLock.notification.message "Ýttu á ESC hvenær sem er til að til að sýna aftur.">
 
 <!ENTITY pluginNotification.showAll.label "Sýna allt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
