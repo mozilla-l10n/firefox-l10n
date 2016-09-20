@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ସଂଯୋଗ ବିନ୍ୟାସ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ଇଣ୍ଟରନେଟରେ ପ୍ରବେଶ କରିବାପାଇଁ ପ୍ରକ୍ସିସବୁକୁ ବିନ୍ୟାସ କରନ୍ତୁ">
 <!ENTITY  noProxyTypeRadio.label        "ପ୍ରକ୍ସି ନାହିଁ">

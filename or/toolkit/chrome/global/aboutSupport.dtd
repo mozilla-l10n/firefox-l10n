@@ -62,9 +62,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "ସନ୍ଧାନକାରୀରେ ଦର୍ଶନ୍ତୁ">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "ଫୋଲଡର ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ଆବଶ୍ୟକୀୟ ପରିବର୍ତ୍ତିତ ପସନ୍ଦଗୁଡ଼ିକ">
 <!ENTITY aboutSupport.modifiedPrefsName "ନାମ">
