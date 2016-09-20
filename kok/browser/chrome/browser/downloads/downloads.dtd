@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "इतिहासातल्यान Remove ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "वळेरी साफ करात">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "डावनलोड्स साफ करात">
 <!ENTITY cmd.clearDownloads.accesskey     "ड">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "सगळे डावनलोड दाखयात">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "डावनलोड्स साफ करात">
 <!ENTITY clearDownloadsButton.tooltip     "पुराय जाल्ले, रद्द जाल्ले आनी असफळ डावनलोड्स साफ करता">

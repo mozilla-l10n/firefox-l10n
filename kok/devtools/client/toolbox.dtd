@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "पैसुल्ले डिबगींग सक्षम करात">
-<!ENTITY options.enableRemote.tooltip   "हो विकल्प चालू करप विकासक साधनांक पैसुल्ले फायरफॉक्स इंस्टंसिस देखीक फायरफॉक्स OS डिबग करपाक दिता">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -108,11 +108,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "HTTP चेर सेवा कामगार सक्षम करात (साधनपेटी उक्ती आसतना)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "हो विकल्प चालू करप साधनपेटी उक्ति आशिल्ल्या सगळ्या टॅबांखातीर HTTP चेर सेवा कामगार सक्षम करता.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "मुळावी फायरफॉक्स विकासक साधनां">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

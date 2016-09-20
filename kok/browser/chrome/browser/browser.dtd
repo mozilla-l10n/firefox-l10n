@@ -159,7 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ह्या पानाक बूकमार्क करचें">
 <!ENTITY editThisBookmarkCmd.label "हो बूकमार्क संपादीत करचो">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -204,9 +203,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "छापात">
 <!ENTITY printButton.tooltip          "हे पान छापात">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -411,9 +410,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -440,6 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "सोद स्थापितां बदलात">
+
 
 
 
@@ -707,6 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "अनुमत्यो">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -744,21 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
-<!ENTITY socialToolbar.title        "सामाजिक टूलबार बटन">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "सायडबार दाखयात">
-<!ENTITY social.toggleSidebar.accesskey "स">
-
 <!ENTITY social.addons.label "सेवांचे व्यवस्थापन करात...">
-
-<!ENTITY social.toggleNotifications.label "डेस्कटॉप अधिसुचोवण्यो दाखयात">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "अदिक शिकात…">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "सक्रिय करपाची निदेशिका">
 <!ENTITY social.directory.text "तुमी निदेशिकेतल्यान वाटून घेवपाच्यो सेवा सक्रिय करपाक शकता.">
@@ -779,15 +766,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अदिक संकल्पना मेळयात">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "चॅट्स फोकस करात">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "न पानाची जतनाय करात...">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "न जोडणेची जतनाय करात...">
 
 <!ENTITY getUserMedia.selectCamera.label "वाटून घेवपाक कॅमेरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -819,8 +797,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्षम करात">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ट्रॅकिंग सुरक्षा अक्षम आसा">
-
-<!ENTITY pointerLock.notification.message "ते परत दाखोवपाक खंयच्याय वेळार ESC दामात.">
 
 <!ENTITY pluginNotification.showAll.label "सगळे दाखयात">
 <!ENTITY pluginNotification.showAll.accesskey "S">

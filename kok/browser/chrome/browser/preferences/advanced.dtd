@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "अदिक शिकात">
 
-<!ENTITY crashReporterDesc.label         "&vendorShortName; क तुमचो ब्रावजर अदिक स्थिर आनी सुरक्षित करपाक मदत करपाक &brandShortName; क्रॅश अहवाल सादर करता">
-<!ENTITY enableCrashReporter.label       "क्रॅश अहवाल सक्रिय करात">
-<!ENTITY enableCrashReporter.accesskey   "क">
-<!ENTITY crashReporterLearnMore.label    "अदिक शिकात">
+
+
+<!ENTITY crashReporterLearnMore.label     "अदिक शिकात">
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
