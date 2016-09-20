@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "L'actualización parcial no s'ha puesto aplicar . &brandShortName; tornará a intentar-lo descargando una actualización completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si i hai una actualización disponible. Asegure-se de que tiene a zaguera versión de &brandShortName; de:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Bella cosa ha privau que &brandShortName; s'actualizase de traza segura. Asegure-se que tiene a zaguera versión de &brandShortName; de:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Bella cosa ye mirando d'enganyar a &brandShortName; ta que accepte una actualización insegura. Contacte con o suyo proveedor de ret y demande-le aduya.">
 
 <!ENTITY  finishedPage.title              "L'actualización ye presta ta estar instalada">
 <!ENTITY  finishedPage.text               "L'actualización s'instalará a proxima vegada que s'inicie &brandShortName;. Puede reiniciar &brandShortName; agora, u continar treballando y reiniciar-lo mas entabant.">

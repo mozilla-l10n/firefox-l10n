@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber-ne mas">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ninvia informe de fallos ta aduyar a &vendorShortName; a fer o navegador mas estable y seguro">
-<!ENTITY enableCrashReporter.label       "Activar os informes de fallos">
-<!ENTITY enableCrashReporter.accesskey   "c">
-<!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
+
+
+<!ENTITY crashReporterLearnMore.label     "Saber-ne mas">
 
 <!ENTITY networkTab.label                "Ret">
 

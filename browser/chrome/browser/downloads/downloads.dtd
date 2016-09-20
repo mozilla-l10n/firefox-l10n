@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Eliminar de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "E">
-<!ENTITY cmd.clearList.label              "Limpiar a lista">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Limpiar as descargas">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Amostrar todas as descargas">
 <!ENTITY downloadsHistory.accesskey       "A">
+
 
 <!ENTITY clearDownloadsButton.label       "Limpiar as descargas">
 <!ENTITY clearDownloadsButton.tooltip     "Limpia as descargas completas, canceladas y erronias">

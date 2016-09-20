@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Activar a depuración remota">
-<!ENTITY options.enableRemote.tooltip   "Activar ista opción permitirá a las ferramientas de desembolicador depurar instancias remotas de Firefox, como Firefox OS">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -118,11 +118,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Activar os Service Workers sobre HTTP (quan a caixa de ferramientas siga ubierta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "En activar ista opción s'habilitarán os service workers sobre HTTP pa todas as pestanyas que tienen a caixa de ferramientas ubierta.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Ferramientas de desembolicador de Firefox predeterminadas">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
