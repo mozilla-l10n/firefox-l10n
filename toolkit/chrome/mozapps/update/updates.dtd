@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Installering av den stegvise oppdateringa feila. &brandShortName; vil prøve å lasta ned ei fullstendige oppdatering.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjera om det finst ei tilgjengeleg oppdatering. Kontroller om du har den nyaste versjonen av &brandShortName; frå:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Noko hindrar &brandShortName; frå å oppdatera trygt. Kontroller at du har den nyaste versjonen av &brandShortName; frå:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Nokon prøver å lura &brandShortName; til å akseptere ei utrygg oppdatering. Kontakt nettverksansvarleg for å få hjelp.">
 
 <!ENTITY  finishedPage.title              "Oppdatering klar for innstallering">
 <!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du kan starta &brandShortName; på nytt no, eller halda fram med å arbeida og starta på nytt seinare.">

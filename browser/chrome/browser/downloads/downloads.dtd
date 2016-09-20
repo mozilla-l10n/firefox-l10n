@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Fjern frå historikk">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Tøm liste">
-<!ENTITY cmd.clearList.accesskey          "T">
+
+
 <!ENTITY cmd.clearDownloads.label         "Fjern nedlastingar">
 <!ENTITY cmd.clearDownloads.accesskey     "e">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Vis alle nedlastingar">
 <!ENTITY downloadsHistory.accesskey       "V">
+
 
 <!ENTITY clearDownloadsButton.label       "Slett nedlastingar">
 <!ENTITY clearDownloadsButton.tooltip     "Fjernar fullførde, avbrotne og mislykka nedlastingar">
