@@ -30,13 +30,13 @@
 
 <!ENTITY  locationBar.label             "Bar Lleoliad">
 
-<!ENTITY  locbar.suggest.label          "Pan yn defnyddio'r bar lleoliad, cynnig:">
+<!ENTITY  locbar.suggest.label          "Pan yn defnyddio'r bar lleoliad, cynnig o'ch:">
 <!ENTITY  locbar.history.label          "Hanes">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
 <!ENTITY  locbar.bookmarks.accesskey    "N">
-<!ENTITY  locbar.openpage.label         "Agor tabiau">
-<!ENTITY  locbar.openpage.accesskey     "A">
+<!ENTITY  locbar.openpage.label         "Tabiau ar agor">
+<!ENTITY  locbar.openpage.accesskey     "T">
 <!ENTITY  locbar.searches.label         "Chwiliadau perthnasol o'r peiriant chwilio rhagosodedig">
 <!ENTITY  locbar.searches.accesskey     "h">
 
