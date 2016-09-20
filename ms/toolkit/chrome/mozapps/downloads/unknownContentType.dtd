@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Anda telah memilih untuk buka:">
+<!ENTITY  intro2.label                "Anda telah memilih untuk membuka:">
 <!ENTITY  from.label                  "daripada:">
 <!ENTITY  actionQuestion.label        "Apa perlu &brandShortName; lakukan dengan fail ini?">
 
@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Lakukan ini secara automatik untuk fail seperti ini mulai sekarang.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "yang mana adalah:">
+<!ENTITY  whichIs.label              "iaitu:">
 
 <!ENTITY  chooseHandlerMac.label      "Pilih...">
 <!ENTITY  chooseHandlerMac.accesskey  "i">
