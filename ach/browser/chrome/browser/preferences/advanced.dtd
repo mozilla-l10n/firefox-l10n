@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "P">
 <!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; cwalo ripot me bal wek okony &vendorShortName; me yubu layeny mamegi bedo matek kacel ki ber bedo makato">
-<!ENTITY enableCrashReporter.label       "Ye Lami ripot me bal">
-<!ENTITY enableCrashReporter.accesskey   "b">
-<!ENTITY crashReporterLearnMore.label    "Nong ngec mapol">
+
+
+<!ENTITY crashReporterLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
 

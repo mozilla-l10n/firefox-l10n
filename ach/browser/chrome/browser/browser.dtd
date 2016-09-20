@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Ket alama buk i pot buk man">
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Go pot buk man">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Nen ngec ikom kakube">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Nen lok angeya">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Nen kwac me kabedo">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Nen kwena me keto med-ikome">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Nen kwena me gwoko purugram mape iwiyamo">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Lo ngec me dony iyie mamegi">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Gweti ka imito gwoko mung me donyo ni">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Lo tic ki larwak i potbuk man">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Itye ka nywako lamak cal ki/onyo mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Lo nywako mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Itye ka nywako mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Lo nywako dirica onyo kio mamegi ki kakube">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Itye ka nywako dirica onyo kio mamegi ki kakube">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Loki kono nyo kakube twero kano lacim">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Nen kwena me keto tic">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Kob pot buk man">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Lo kobo potbuk">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Lo tic ki purugram me DRM">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lo nywako dirica onyo kio mamegi ki kakube">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Kob pot buk man">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
+
 
 <!ENTITY searchItem.title             "Yeny">
 <!-- Toolbar items --> 
@@ -421,12 +418,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Lapeny me yeny">
-<!ENTITY contentSearchSubmit.label    "Cwal yeny">
+<!ENTITY contentSearchSubmit.tooltip  "Cwal yeny">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -452,6 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Lok ter me yeny">
+
 
 <!ENTITY searchInNewTab.label         "Yeny i dirica matidi manyen">
 <!ENTITY searchInNewTab.accesskey     "d">
@@ -729,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Rukuca">
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -769,21 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "N">
 <!ENTITY syncToolbarButton.label      "Tim marom">
 
-<!ENTITY socialToolbar.title        "Jarara me gintic me kube ki lwak">
-
-<!ENTITY social.ok.label       "Kakare">
-<!ENTITY social.ok.accesskey   "K">
-
-<!ENTITY social.toggleSidebar.label "Nyut gintic ma i nget">
-<!ENTITY social.toggleSidebar.accesskey "n">
-
 <!ENTITY social.addons.label "Lor tic…">
-
-<!ENTITY social.toggleNotifications.label "Nyut ngec me wang komputa">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Nong ngec mapol…">
-<!ENTITY social.learnMore.accesskey "N">
 
 <!ENTITY social.directory.label "Kabedo me cako tic">
 <!ENTITY social.directory.text "Itwero cako tic me nywak ki i kabedo ne.">
@@ -804,15 +789,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gam them mapol">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Kem boko lok">
-<!ENTITY social.chatBar.accesskey "e">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Gwok pot buk bot…">
-<!ENTITY social.marklinkMenu.accesskey "k">
-<!ENTITY social.marklinkMenu.label "Gwok kakube bot…">
 
 <!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
@@ -847,8 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Cak gwoke">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Kijuko woko gwokke me lubo kor">
-
-<!ENTITY pointerLock.notification.message "Dii ESC cawa mo keken me nyuto doki.">
 
 <!ENTITY pluginNotification.showAll.label "Nyut weng">
 <!ENTITY pluginNotification.showAll.accesskey "N">

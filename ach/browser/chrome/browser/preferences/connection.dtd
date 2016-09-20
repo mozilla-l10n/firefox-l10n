@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ter me Kube">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Yik proxy me nongo intanet">
 <!ENTITY  noProxyTypeRadio.label        "Proxy peke">
