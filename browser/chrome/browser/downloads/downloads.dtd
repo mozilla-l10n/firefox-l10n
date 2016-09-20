@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ಇತಿಹಾಸದಿಂದ ತೆಗೆದುಹಾಕು">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "ಪಟ್ಟಿಯನ್ನು ಅಳಿಸು">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "ಎಲ್ಲಾ ಇಳಿಕೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು">
 <!ENTITY clearDownloadsButton.tooltip     "ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ">
