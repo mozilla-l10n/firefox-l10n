@@ -68,9 +68,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "फाइंडरमध्ये दाखवा">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "फोल्डर दाखवा">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वाचे संपादित पसंती">
 <!ENTITY aboutSupport.modifiedPrefsName "नाव">
@@ -86,8 +85,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स्">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "जागांचा डेटाबेस">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "प्रामाणिकता">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "प्रामाणिकता तपासा">
 
 <!ENTITY aboutSupport.jsTitle "जावास्क्रिप्ट">
 <!ENTITY aboutSupport.jsIncrementalGC "वाढीव GC">
@@ -114,6 +114,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "अपयश लॉग">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय यादी">
 
 
