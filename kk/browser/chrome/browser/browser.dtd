@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Бұл бетті бетбелгілерге қосу">
 <!ENTITY editThisBookmarkCmd.label "Бетбелгіні түзету">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Сайт ақпаратын қарау">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Хабарламаны қарау">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Орналасу сұранымын қарау">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Қосымшаның орнатылу хабарламасын қарау">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "app-offline қойма хабарламасын қарау">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Логин ақпаратыңызды басқару">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Пароліңізді сақтағыңыз келетінінді тексеру">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Бұл парақта плагиндер қолданылуын басқару">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Сіз камераңыз және/немесе микрофонмен бұл сайтпен бөлісудесіз">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Сіз микрофоныңызбен бұл сайтпен бөлісудесіз">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Терезелеріңізбен немесе экранмен бұл сайтпен бөлісуді басқару">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Сіз терезелеріңізбен немесе экранмен бұл сайтпен бөлісудесіз">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Сайт курсоры жасыра ала ма, соны өзгерту">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Қызметтік орнатылу хабарламасын қарау">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Бұл парақты аудару">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Бет аудармасын басқару">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM БҚ қолдануын басқару">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Терезелеріңізбен немесе экранмен бұл сайтпен бөлісуді басқару">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Бұл парақты аудару">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Бет аудармасын басқару">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM БҚ қолдануын басқару">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
+
 
 <!ENTITY searchItem.title             "Іздеу">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Іздеу сұранымы">
-<!ENTITY contentSearchSubmit.label    "Іздеуді жіберу">
+<!ENTITY contentSearchSubmit.tooltip  "Іздеуді жіберу">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Іздеу баптауларын өзгерту">
+
 
 <!ENTITY searchInNewTab.label         "Жаңа бетте іздеу">
 <!ENTITY searchInNewTab.accesskey     "т">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Рұқсаттар">
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Синхрондау">
 
-<!ENTITY socialToolbar.title        "Әлеуметтік панель батырмасы">
-
-<!ENTITY social.ok.label       "ОК">
-<!ENTITY social.ok.accesskey   "О">
-
-<!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
-<!ENTITY social.toggleSidebar.accesskey "Б">
-
 <!ENTITY social.addons.label "Қызметтерді басқару…">
-
-<!ENTITY social.toggleNotifications.label "Хабарламаларды көрсету">
-<!ENTITY social.toggleNotifications.accesskey "Х">
-
-<!ENTITY social.learnMore.label "Көбірек білу…">
-<!ENTITY social.learnMore.accesskey "л">
 
 <!ENTITY social.directory.label "Белсендірулер бумасы">
 <!ENTITY social.directory.text "Сіз бөлісу қызметтерін бұл бумадан белсендіре аласыз,">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "м">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Көбірек темаларды алу">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Чаттарға ауысып отыру">
-<!ENTITY social.chatBar.accesskey "ы">
-
-<!ENTITY social.markpageMenu.accesskey "П">
-<!ENTITY social.markpageMenu.label "Парақты қайда сақтау…">
-<!ENTITY social.marklinkMenu.accesskey "С">
-<!ENTITY social.marklinkMenu.label "Сілтемені қайда сақтау…">
 
 <!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
 <!ENTITY getUserMedia.selectCamera.accesskey "м">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Қорғанысты іске қосу">
 <!ENTITY trackingContentBlocked.block.accesskey "е">
 <!ENTITY trackingContentBlocked.disabled.message "Бақылаудан қорғаныс сөндірілген">
-
-<!ENTITY pointerLock.notification.message "Оны қайта көрсету үшін кез-келген уақытта ESC пернесін басыңыз.">
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
 <!ENTITY pluginNotification.showAll.accesskey "с">

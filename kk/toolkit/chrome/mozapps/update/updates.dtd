@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Жартылай жаңартуды іске асыру мүмкін емес. &brandShortName; қазір толық жаңартуды жүктеп алады.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; қолжетерлік жаңартудың бар-жоғын тексере алмады. Сіз &brandShortName; соңғы нұсқасын қолданатынын осында тексеріңіз:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Бірнәрсе &brandShortName; үшін қауіпсіз жаңартылуға кедергі болып отыр. Сіз &brandShortName; соңғы нұсқасын қолданатынын осында тексеріңіз:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Бірнәрсе &brandShortName; алдап, қауіпсіз емес жаңартуды орнатқысы келіп отыр. Желілік провайдеріңізбен хабарларласып, көмек сұраңыз.">
 
 <!ENTITY  finishedPage.title              "Жаңарту орнатуға дайын">
 <!ENTITY  finishedPage.text               "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз &brandShortName;  қазір, немесе жұмысыңызды жалғастырып, кейін қайта қоса аласыз.">
