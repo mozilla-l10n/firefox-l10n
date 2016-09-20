@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "С">
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
+<!ENTITY crashReporterDesc2.label         "Докладите за сривове помагат на &vendorShortName; да отстранява проблеми и да направи браузъра по-стабилен и по-сигурен">
+<!ENTITY alwaysSubmitCrashReports.label   "Разрешаване на &brandShortName; да изпраща от ваше име предишни доклади за срив">
+<!ENTITY alwaysSubmitCrashReports.accesskey "д">
 <!ENTITY crashReporterLearnMore.label     "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">
