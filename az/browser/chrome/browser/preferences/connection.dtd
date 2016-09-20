@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Bağlantı seçimləri">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "İnternetə bağlanmaq üçün proxy-serverləri nizamla">
 <!ENTITY  noProxyTypeRadio.label        "Proksisiz">

@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Siyahıdan sil">
 <!ENTITY cmd.removeFromHistory.accesskey  "S">
-<!ENTITY cmd.clearList.label              "Siyahını təmizlə">
-<!ENTITY cmd.clearList.accesskey          "t">
+
+
 <!ENTITY cmd.clearDownloads.label         "Yüklənənləri təmizlə">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Bütün endirmələri göstər">
 <!ENTITY downloadsHistory.accesskey       "s">
+
 
 <!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">

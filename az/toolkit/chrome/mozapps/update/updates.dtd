@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Yeniləmə hissəciyi əlavə edilə bilmir. &brandShortName; yeniləməni bütöv endirərək bir daha yoxlayacaq.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; yeniləmə olub-olmadığını yoxlaya bilmir. Zəhmət olmasa buradan ən son &brandShortName; versiyasını işlətdiyinizə əmin olun:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Bir şey &brandShortName; proqramının etibarlı yenilənməsinə maneə törədir. &brandShortName; proqramın ən son versiyasına sahib olub olmadığınıza əmin olun:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Bir şey &brandShortName; proqramını etibarsız bir əlaqəni qəbul elətdirməyə çalışır. Xidmət təminatçınızla əlaqə saxlayın və kömək alın.">
 
 <!ENTITY  finishedPage.title              "Yeniləmə qurulmağa hazırdır">
 <!ENTITY  finishedPage.text               "Yeniləmə &brandShortName; bir sonraki dəfə yenidən başladıqda qurulacaq. &brandShortName; səyyahını indi yenidən başlada, və ya işinizə davam edib daha sonra yeniləyə bilərsiz.">

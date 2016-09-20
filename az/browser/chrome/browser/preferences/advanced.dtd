@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ətraflı">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; xətalar haqqında hesabatı &vendorShortName; üçün göndərir ki, sizin səyyahınızı daha da stabil və qorumalı etsinlər">
-<!ENTITY enableCrashReporter.label       "Xəta Hesablamanı Aktivləşdir">
-<!ENTITY enableCrashReporter.accesskey   "X">
-<!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
+
+
+<!ENTITY crashReporterLearnMore.label     "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
 
