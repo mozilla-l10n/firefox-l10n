@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Zabilježi ovu stranicu">
 <!ENTITY editThisBookmarkCmd.label "Uredi ovu zabilješku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Prikaži informacije o stranici">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Prikaži obavijest">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Prikaži zahtjev lokacije">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Prikaži instalacijsku poruku dodatka">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Prikaži poruku app-offline spremišta">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Upravljajte vašim podacima prijave">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Označite ako želite spremiti vašu lozinku">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Upravljajte korištenjem priključaka na ovoj stranici">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Promijenite postavke primanja obavijesti od ove stranice">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sa stranicom dijelite vašu kameru i/ili mikrofon">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Sa stranicom dijelite vaš mikrofon">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Upravljajte dijeljenjem vaših prozora ili zaslona sa stranicom">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Sa stranicom dijelite prozor ili zaslon">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Promijenite postavke skrivanja pokazivača miša na stranici">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Prikaži instalacijsku poruku servisa">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Prevedi ovu stranicu">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Upravljajte prevođenjem stranice">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Upravljajte korištenjem DRM softvera">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijenite postavke primanja obavijesti od ove stranice">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dijeljenjem vaših prozora ili zaslona sa stranicom">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi ovu stranicu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevođenjem stranice">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
+
 
 <!ENTITY searchItem.title             "Traži">
 <!-- Toolbar items --> 
@@ -280,8 +277,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Datoteka"> 
 <!ENTITY fileMenu.accesskey       "D">
-
-
+<!ENTITY newUserContext.label             "Nova sadržajna kartica">
+<!ENTITY newUserContext.accesskey         "d">
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Pojam pretraživanja">
-<!ENTITY contentSearchSubmit.label    "Pošalji pretragu">
+<!ENTITY contentSearchSubmit.tooltip  "Pošalji pretragu">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -456,6 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Promjeni postavke pretraživača">
 
+
 <!ENTITY searchInNewTab.label         "Traži u novoj kartici">
 <!ENTITY searchInNewTab.accesskey     "t">
 <!ENTITY searchSetAsDefault.label     "Podesi kao zadanu tražilicu">
@@ -473,7 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "p">
-
+<!ENTITY openLinkCmdInContainerTab.label "Otvori poveznicu u novoj sadržajnoj kartici">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ovlasti">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "v">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Tipka društvene trake">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Prikaži bočnu traku">
-<!ENTITY social.toggleSidebar.accesskey "P">
-
 <!ENTITY social.addons.label "Upravljanje servisima…">
-
-<!ENTITY social.toggleNotifications.label "Prikaži obavijesti radne površine">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Saznajte više…">
-<!ENTITY social.learnMore.accesskey "z">
 
 <!ENTITY social.directory.label "Direktorij za aktivacije">
 <!ENTITY social.directory.text "Možete aktivirati usluge za dijeljenje iz direktorija.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "u">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite dodatne teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Fokusiraj časkanja">
-<!ENTITY social.chatBar.accesskey "č">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Spremi stranicu u…">
-<!ENTITY social.marklinkMenu.accesskey "z">
-<!ENTITY social.marklinkMenu.label "Spremi poveznicu u…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera za dijeljenje:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Omogući zaštitu">
 <!ENTITY trackingContentBlocked.block.accesskey "O">
 <!ENTITY trackingContentBlocked.disabled.message "Zaštita od praćenja je isključena">
-
-<!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži sve">
 <!ENTITY pluginNotification.showAll.accesskey "s">
