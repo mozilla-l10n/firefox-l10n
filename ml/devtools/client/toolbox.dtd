@@ -89,7 +89,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "വിദൂര ഡീബഗ്ഗിങ് പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-<!ENTITY options.enableRemote.tooltip   "വിദൂര ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റന്‍സ് ഡീബഗ് ചെയ്യുന്നതിനു് ഡവലപ്പര്‍ പ്രയോഗങ്ങളെ അനുവദിയ്ക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. ഉദാഹരണത്തിനു് ഫയര്‍ഫോക്സ് ഒഎസ്">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -112,11 +112,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യുക (ടൂള്‍ബോക്സ് ഓപ്പണ്‍ ആയിരിക്കുമ്പോള്‍)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകള്‍ക്കും എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യും.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "സ്വതവേയുള്ള ഫയര്‍ഫോക്സ് ഡവലപ്പര്‍ പ്രയോഗങ്ങള്‍">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

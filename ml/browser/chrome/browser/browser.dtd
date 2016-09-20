@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
 <!ENTITY editThisBookmarkCmd.label "ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "ഈ താള്‍ അച്ചടിക്കുക">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "സൈറ്റ് വിവരങ്ങള്‍ കാണുക">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "ഒരു അറിയിപ്പ് കാണുക">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "ഭൂസ്ഥാനത്തിനുള്ള അപേക്ഷ കാണുക">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ സന്ദേശം കാണുക">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ആപ്പ് ഓഫ്‌ലൈന്‍ സംഭരണ സന്ദേശം കാണുക">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "നിങ്ങളുടെ പ്രവേശന വിവരങ്ങള്‍ കൈകാര്യം ചെയ്യുക">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "നിങ്ങളുടെ രഹസ്യവാക്ക് ശേഖരിച്ചുവെക്കാന്‍ ഇത് തിരഞ്ഞെടുക്കുക">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ഈ താളിലുള്ള പ്ലഗിന്‍ ഉപയോഗം ക്രമീകരിക്കുക">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "താങ്കള്‍ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നു">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുകയാണ്">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "താങ്കളുടെ ജാലകം അല്ലെങ്കില്‍ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "താങ്കള്‍ ജാലകം അല്ലെങ്കില്‍ താങ്കളുടെ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നു">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ഈ സൈറ്റിനു് പോയിന്ററിനെ അദൃശ്യമാക്കാന്‍ സാധിക്കുമോ എന്നത് മാറ്റുക">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "സേവനം ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന്റെ സന്ദേശം കാണുക">
-<!ENTITY urlbar.translateNotificationAnchor.label       "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുക">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
-<!ENTITY urlbar.emeNotificationAnchor.label             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "താങ്കളുടെ ജാലകം അല്ലെങ്കില്‍ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുക">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
+
 
 <!ENTITY searchItem.title             "തിരയുക">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "തെരച്ചില്‍ പദം">
-<!ENTITY contentSearchSubmit.label    "തിരയല്‍ സമർപ്പിയ്ക്കുക">
+<!ENTITY contentSearchSubmit.tooltip  "തിരയല്‍ സമർപ്പിയ്ക്കുക">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ">
+
 
 <!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -732,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ആനുകൂല്യങ്ങള്‍">
 <!ENTITY identity.permissionsEmpty "താങ്കള്‍ ഈ വെബ്‌ സൈറ്റിന് പ്രത്യേക അനുമതികള്‍ ഒന്നും നല്‍കിയിട്ടില്ല.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -775,21 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
 
-<!ENTITY socialToolbar.title        "സോഷ്യല്‍ ടൂള്‍ബാര്‍ ബട്ടണ്‍">
-
-<!ENTITY social.ok.label       "ശരി">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "വശത്തുള്ള പാനല്‍ കാണിയ്ക്കുക">
-<!ENTITY social.toggleSidebar.accesskey "വ">
-
 <!ENTITY social.addons.label "സര്‍വീസുകള്‍ കൈകാര്യം ചെയ്യുക...">
-
-<!ENTITY social.toggleNotifications.label "പണിയിടത്തിലുള്ള അറിയിപ്പുകള്‍ കാണിയ്ക്കുക">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "കൂടുതല്‍ അറിയുക...">
-<!ENTITY social.learnMore.accesskey "ത">
 
 <!ENTITY social.directory.label "ആക്ടിവേഷന്‍സ് ഡയറക്ടറി">
 <!ENTITY social.directory.text "ഈ അറയില്‍ നിന്നും പങ്കിടല്‍ സേവനങ്ങള്‍ സജ്ജമാക്കാവുന്നതാണ്.">
@@ -810,15 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
-<!ENTITY social.chatBar.accesskey "ക">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "താള്‍ ഇവിടേക്കു് സൂക്ഷിക്കുക...">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "കണ്ണി ഇവിടേക്കു് സൂക്ഷിക്കുക...">
 
 <!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "മ">
@@ -853,8 +829,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "സുരക്ഷ സജ്ജികരിക്കുക">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "പിന്തുടരല്‍ സംരക്ഷണം പ്രവര്‍ത്തനരഹിതമാണു്">
-
-<!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">
 
 <!ENTITY pluginNotification.showAll.label "എല്ലാം കാണിയ്ക്കുക">
 <!ENTITY pluginNotification.showAll.accesskey "S">

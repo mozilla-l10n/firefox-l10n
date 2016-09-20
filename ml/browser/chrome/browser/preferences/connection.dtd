@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "കണക്ഷന്‍ സെറ്റിങ്ങുകള്‍">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ഇന്റര്‍നെറ്റ്‌ ആക്സസ്‌ ചെയ്യുവാന്‍ പ്രോക്സികള്‍ കോണ്‍ഫിഗര്‍ ചെയ്യുക">
 <!ENTITY  noProxyTypeRadio.label        "പ്രോക്സി ലഭ്യമല്ല">
