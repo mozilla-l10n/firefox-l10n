@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Ithute ka mo go oketšegilego">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; e romela dipego tša go pšhatlega go thuša &vendorShortName; go dira gore praosara ya gago e tie e be e šireletšege">
-<!ENTITY enableCrashReporter.label       "Dumelela sebegi sa go pšhatlega">
-<!ENTITY enableCrashReporter.accesskey   "t">
-<!ENTITY crashReporterLearnMore.label    "Ithute ka mo go oketšegilego">
+
+
+<!ENTITY crashReporterLearnMore.label     "Ithute ka mo go oketšegilego">
 
 <!ENTITY networkTab.label                "Neteweke">
 
