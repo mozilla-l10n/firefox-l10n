@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Suprimeix de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Buida la llista">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Buida la llista de baixades">
 <!ENTITY cmd.clearDownloads.accesskey     "B">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Mostra totes les baixades">
 <!ENTITY downloadsHistory.accesskey       "s">
+
 
 <!ENTITY clearDownloadsButton.label       "Buida la llista de baixades">
 <!ENTITY clearDownloadsButton.tooltip     "Elimina de la llista les baixades acabades, cancel·lades o que han fallat">
