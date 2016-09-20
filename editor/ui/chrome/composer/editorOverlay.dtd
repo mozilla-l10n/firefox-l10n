@@ -27,6 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">
 <!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertLinkCmd2.label "鏈結…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "插入錨點…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "圖片…">
