@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Ne saber mai">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
-<!ENTITY enableCrashReporter.label       "Activar los rapòrts de plantatge">
-<!ENTITY enableCrashReporter.accesskey   "t">
-<!ENTITY crashReporterLearnMore.label    "Ne saber mai">
+
+
+<!ENTITY crashReporterLearnMore.label     "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">
 

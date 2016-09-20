@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
 <!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,10 +206,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Afichar una notificacion">
 
 
 
@@ -219,19 +214,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Actualament, partejatz vòstre microfòn amb lo site">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Actualament, partejatz vòstre microfòn amb lo site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
+
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduire aquesta pagina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
 
 
 
 
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traduire aquesta pagina">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Gerir la traduccion de paginas">
+
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
+
 
 <!ENTITY searchItem.title             "Recercar">
 <!-- Toolbar items --> 
@@ -418,10 +416,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchSubmit.label    "Mandar la recèrca">
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchSubmit.tooltip  "Mandar la recèrca">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -447,6 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Paramètres de recèrca">
+
 
 
 
@@ -718,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permissions">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -759,21 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
-<!ENTITY socialToolbar.title        "Boton de la barra d'aisinas dels mèdias socials">
-
-<!ENTITY social.ok.label       "D'acòrdi">
-<!ENTITY social.ok.accesskey   "c">
-
-<!ENTITY social.toggleSidebar.label "Afichar lo panèl lateral">
-<!ENTITY social.toggleSidebar.accesskey "A">
-
 <!ENTITY social.addons.label "Gerir los servicis…">
-
-<!ENTITY social.toggleNotifications.label "Afichar las notificacions sul burèu">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Ne saber mai…">
-<!ENTITY social.learnMore.accesskey "s">
 
 <!ENTITY social.directory.label "Repertòri d'activacion">
 <!ENTITY social.directory.text "Podètz activar de servici de partiment dempuèi lo repertòri">
@@ -794,15 +780,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Seleccionar las discussions">
-<!ENTITY social.chatBar.accesskey "S">
-
-<!ENTITY social.markpageMenu.accesskey "s">
-<!ENTITY social.markpageMenu.label "Enregistrar la pagina jos...">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Enregistrar lo ligam jos...">
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
@@ -837,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 
-
-<!ENTITY pointerLock.notification.message "Quichatz sus Escap a tot moment per l'afichar tornarmai.">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">

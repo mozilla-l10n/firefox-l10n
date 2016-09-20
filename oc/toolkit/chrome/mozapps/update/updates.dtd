@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "La mesa a jorn parciala a pas pogut èsser aplicada. &brandShortName; va tornar ensajar en telecargant una mesa a jorn completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; capita pas de determinar se una mesa a jorn es disponibla. Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Quicòm empacha &brandShortName; de se metre a jorn d'un biais segur. Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
-<!ENTITY  errorCertAttrHasUpdate.label    "Quicòm ensaja d'enganar &brandShortName; en li prepausant una mesa a jorn Pas segura. Contactatz vòstre provesidor de ret per demandar d'ajuda.">
 
 <!ENTITY  finishedPage.title              "Mesa a jorn prèsta a s'installar">
 <!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
