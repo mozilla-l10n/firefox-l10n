@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Źělna aktualizacija njedajo se nałožyś. &brandShortName; wopytajo hyšći raz, aby dopołnu aktualizaciju ześěgnuł.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; njamóžo zwěsćiś, lěc aktualizacija stoj k dispoziciji. Pšosym zawěsććo, až maśo nejnowšu wersiju &brandShortName; z:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Něco zawoborujo &brandShortName; wěste aktualizěrowanje. Pšosym zawěsććo, až maśo nejnowšu wersiju &brandShortName; z:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Něco wopytujo &brandShortName; k akceptěrowanjeju njewěsteje aktualizacije zawjasć. Pšosym stajśo se ze swójim seśowym póbitowarjom do zwiska a pytajśo pomoc.">
 
 <!ENTITY  finishedPage.title              "Aktualizacija gótowa za instalaciju">
 <!ENTITY  finishedPage.text               "Aktualizacija buźo se pśiducy raz startowaś, gaž &brandShortName; startujo. Móžośo &brandShortName; něnto znowego startowaś abo dalej źěłaś a pózdźej znowego startowaś.">

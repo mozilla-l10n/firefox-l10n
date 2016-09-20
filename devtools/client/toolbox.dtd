@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Daloke pytanje za zmólkami">
-<!ENTITY options.enableRemote.tooltip   "Zmóžnjenje toś togo nastajenja dowólijo wuwijarskim rědam, daloku instancu Firefox ako Firefox OS za zmólkami pśepytaś">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -118,11 +118,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Service worker pśez HTTP zmóžniś (gaž rědowy kašćik jo wócynjony)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědowy kašćik jo wócynjony.">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Standardne wuwijarske rědy Firefox">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
