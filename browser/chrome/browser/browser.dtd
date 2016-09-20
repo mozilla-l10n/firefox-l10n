@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Boekmerk hierdie bladsy">
 <!ENTITY editThisBookmarkCmd.label "Redigeer hierdie boekmerk">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Druk hierdie bladsy">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Wys werfinligting">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Wys 'n kenninsgewing">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Wys die liggingnavraag">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Wys die installasieboodskap van die byvoeging">
-
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Bestuur aanmeldinligting">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Merk as die wagwoord gestoor moet word">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Bestuur die gebruik van inproppe op dié blad">
 
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Die kamera en/of mikrofoon word tans gedeel met die werf">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Bestuur die deel van die mikrofoon met die werf">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Die mikrofoon word tans gedeel met die werf">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Bestuur die deel van vensters of die skerm met die werf">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "'n Venster of die skerm word tans gedeel met die werf">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Verander of die werf die wyser kan versteek">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Wys die diens se installasieboodskap">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Vertaal dié bladsy">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Bestuur bladsyvertaling">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Bestuur die gebruik van DRM-sagteware">
+
+
+
+
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bestuur die deel van die mikrofoon met die werf">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bestuur die deel van vensters of die skerm met die werf">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Vertaal dié bladsy">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Bestuur bladsyvertaling">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Bestuur die gebruik van DRM-sagteware">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Wys geskiedenis">
+
 
 <!ENTITY searchItem.title             "Soek">
 <!-- Toolbar items --> 
@@ -423,12 +420,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Soeknavraag">
-<!ENTITY contentSearchSubmit.label    "Dien soektog in">
+<!ENTITY contentSearchSubmit.tooltip  "Dien soektog in">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -454,6 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Verander soekinstellings">
+
 
 <!ENTITY searchInNewTab.label         "Soek in nuwe oortjie">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -732,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Toestemming">
 <!ENTITY identity.permissionsEmpty "U het geen spesiale toestemming aan dié werf gegee nie. ">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -775,21 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Knoppie vir sosiale nutsbalk">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Wys kantbalk">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Bestuur dienste…">
-
-<!ENTITY social.toggleNotifications.label "Wys werkskermkennisgewings">
-<!ENTITY social.toggleNotifications.accesskey "k">
-
-<!ENTITY social.learnMore.label "Meer inligting…">
-<!ENTITY social.learnMore.accesskey "M">
 
 <!ENTITY social.directory.label "Aktiveringsgids">
 <!ENTITY social.directory.text "Deel-dienste kan vanuit die gids geaktiveer word.">
@@ -810,15 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kry meer temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-
-<!ENTITY social.chatBar.commandkey "c">
-
-
-
-<!ENTITY social.markpageMenu.accesskey "b">
-<!ENTITY social.markpageMenu.label "Stoor bladsy na…">
-<!ENTITY social.marklinkMenu.accesskey "s">
-<!ENTITY social.marklinkMenu.label "Stoor skakel na…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te deel:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -853,8 +829,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Volgbeskerming is gedeaktiveer">
-
-<!ENTITY pointerLock.notification.message "Druk enige tyd ESC om dit weer te wys.">
 
 <!ENTITY pluginNotification.showAll.label "Wys almal">
 <!ENTITY pluginNotification.showAll.accesskey "s">
