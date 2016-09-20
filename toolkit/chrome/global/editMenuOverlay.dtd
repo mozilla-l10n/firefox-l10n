@@ -9,7 +9,6 @@
 <!ENTITY undoCmd.accesskey         "B">
 <!ENTITY redoCmd.label             "Buat semula">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
 <!ENTITY cutCmd.label              "Potong">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
