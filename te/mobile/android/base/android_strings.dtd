@@ -828,3 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ఆఫ్ లైన్లో చదవడానికి బుక్మార్క్ రీడర్ వ్యూ ఉపయోగించండి.">
 <!ENTITY helper_triple_readerview_open_button "బుక్ మార్క్ లకు జోడించండి">
 
+<!ENTITY activity_stream_topsites "అగ్ర సైట్‌లు">
+<!ENTITY activity_stream_highlights "హైలైట్లు">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "మరిన్ని">
