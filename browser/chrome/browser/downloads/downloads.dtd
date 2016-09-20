@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Törlés az előzményekből">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Lista törlése">
-<!ENTITY cmd.clearList.accesskey          "i">
+
+
 <!ENTITY cmd.clearDownloads.label         "Letöltések törlése">
 <!ENTITY cmd.clearDownloads.accesskey     "L">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Minden letöltés megjelenítése">
 <!ENTITY downloadsHistory.accesskey       "M">
+
 
 <!ENTITY clearDownloadsButton.label       "Letöltések törlése">
 <!ENTITY clearDownloadsButton.tooltip     "Törli a befejezett, megszakított és meghiúsult letöltéseket">

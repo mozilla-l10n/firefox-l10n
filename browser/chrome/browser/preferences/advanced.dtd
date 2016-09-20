@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "További tudnivalók">
 
-<!ENTITY crashReporterDesc.label         "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
-<!ENTITY enableCrashReporter.label       "Hibajelentő bekapcsolása ">
-<!ENTITY enableCrashReporter.accesskey   "o">
-<!ENTITY crashReporterLearnMore.label    "További tudnivalók">
+
+
+<!ENTITY crashReporterLearnMore.label     "További tudnivalók">
 
 <!ENTITY networkTab.label                "Hálózat">
 
