@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Холболтын тохируулга">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Интернэтэд орох прокси тохиргоо">
 <!ENTITY  noProxyTypeRadio.label        "Проксигүй">
