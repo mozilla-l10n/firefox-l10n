@@ -216,11 +216,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tukar pilihan samada anda boleh menerima notifikasi dari laman">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Urus perkongsian kamera dan/atau mikrofon anda dengan laman">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Urus perkongsian mikrofon anda dengan laman">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Urus perkongsian tetingkap atau skrin anda dengan laman">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Buka panel mesej pemasangan">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Terjemahkan halaman ini">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Urus terjemahan halaman">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Urus penggunaan perisian DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah menghalang kamera anda untuk laman web ini.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah menghalang mikrofon anda untuk laman web ini.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Anda telah menghalang laman web ini daripada berkongsi skrin anda.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah menghalang maklumat lokasi untuk laman web ini.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah menghalang storan data untuk laman web ini.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menghalang notifikasi untuk laman web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Set semula kadar zum">
 
 <!ENTITY searchItem.title             "Cari">
 
@@ -417,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Cari pertanyaan">
+<!ENTITY contentSearchSubmit.tooltip  "Hantar carian">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -442,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ubah Tetapan Carian">
+<!ENTITY changeSearchSettings.tooltip "Ubah tetapan carian">
 
 <!ENTITY searchInNewTab.label         "Cari dalam Tab Baru">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -719,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Keizinan">
 <!ENTITY identity.permissionsEmpty "Anda tidak memberikan laman ini sebarang keizinan khas.">
+<!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
