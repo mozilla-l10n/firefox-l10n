@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "n">
 <!ENTITY cmd.removeFromHistory.label      "Kkes seg umazray">
 <!ENTITY cmd.removeFromHistory.accesskey  "K">
-<!ENTITY cmd.clearList.label              "Sfeḍ tabdart">
-<!ENTITY cmd.clearList.accesskey          "a">
+<!ENTITY cmd.clearList2.label             "Sfed agalis n teskant">
+<!ENTITY cmd.clearList2.accesskey         "g">
 <!ENTITY cmd.clearDownloads.label         "Sfeḍ izedman">
 <!ENTITY cmd.clearDownloads.accesskey     "z">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,8 @@
 
 <!ENTITY downloadsHistory.label           "Sken akkw izedman">
 <!ENTITY downloadsHistory.accesskey       "w">
+
+<!ENTITY openDownloadsFolder.label       "Ldi akaram n isidar">
 
 <!ENTITY clearDownloadsButton.label       "Sfeḍ izedman">
 <!ENTITY clearDownloadsButton.tooltip     "Sfeḍ izedman imden, ifesxen neɣ wid ur neddi-ara">

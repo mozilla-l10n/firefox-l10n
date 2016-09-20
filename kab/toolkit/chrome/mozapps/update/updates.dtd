@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Lqem s yeḥricen ur yedda ara. &brandShortName; ad iɛreḍ tikelt nniḍen azdam n lqem uɣrid.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ur izmir ara ad yaf ma yella lqem.Ma ulac aɣilif,Wali ma ɣur-k lqem aneggaru n &brandShortName; di:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Yella wayen isweḥlen &brandShortName; seg uleqqem aɣelsan.Ma ulac aɣilif, wali ma ɣuṛ-k lqem aneggaru n &brandShortName; si:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Yella wayen a yettaɛṛaḍen ad ikellex i &brandShortName; s usumer n lqem araɣelsan. Ma ulac aɣilif, nermes anebdal inek n uẓeṭṭa i tallalt.">
 
 <!ENTITY  finishedPage.title              "Lqem ihegga i wesebded.">
 <!ENTITY  finishedPage.text               "Lqem ad ibded di tnekra d-iteddun n &brandShortName;. Tzemreḍaţsnekreḍ &brandShortName; tura neɣ ddu deg umahil inek u senker tikelt nniḍen ticki.">

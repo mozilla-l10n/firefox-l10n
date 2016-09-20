@@ -40,10 +40,10 @@
 <!ENTITY enableTelemetryData.accesskey   "A">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; iţazen assaɣen n uɣelluy iwakken ad imudd tallalt i &vendorShortName; ad yerr imini inek d-urkid u d-aɣelsan.">
-<!ENTITY enableCrashReporter.label       "Rmed assaɣen n uɣelluy">
-<!ENTITY enableCrashReporter.accesskey   "R">
-<!ENTITY crashReporterLearnMore.label    "Issin ugar">
+<!ENTITY crashReporterDesc2.label         "Assaɣen n uɣelluy ad imudd tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig inek d urkid d aɣelsan">
+<!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen assaɣen n uɣelluy deg ugilal">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY crashReporterLearnMore.label     "Issin ugar">
 
 <!ENTITY networkTab.label                "Aẓeṭṭa">
 

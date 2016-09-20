@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter agi">
 <!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebtar agi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Siggez asebter agi">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sken talɣut n usmel">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Sken alɣu">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Sken tansa n usuter">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Sken izen n usebded n uzegrir amernan">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Sken izen n uklas aruqqin n usnas">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Sefrek talɣut n unekcum inek">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Senqed ma tebɣiḍ ad tkelseḍ awal inek uffir">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Sefrek aseqdec n izegrar ɣef usebtar agi">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Snifel ma yella tebɣiḍ ad remseḍ ilɣuten seg usmel">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Sefrek beṭṭu n texdellist inek d/neɣ asawaḍ inek d usmel">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Aql-ak tebḍiḍ takamiṛat akked/neɣ asawaḍ inek d usmel web">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Sefrek beṭṭu n usawaḍ inek d usmel">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Aql-ak tebiḍiḍ asawaḍ inek d usmel web">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Sefrek beṭṭu n isfuyla neɣ igdilen d usmel">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Aql-ak tebiḍiḍ asfaylu neɣ agdil inek d usmel web">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Lddi agalis n yizen ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lddi agalis n usuter n wadig">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Lddi agalis n yizen i wesbded n uzegrir amernan">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad remseḍ ilɣuten seg usmel">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Snifel ma yella asmel yezmer ad yeffer taḥnaccaṭ">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Sken izen n usebded n tenfa">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Suqel asebter agi">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Sefrek tasuqilt n usebtar">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Sefrek aseqdec n useɣẓan DRM">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist inek d/neɣ asawaḍ inek d usmel">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ inek d usmel">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n isfuyla neɣ igdilen d usmel">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter agi">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebtar">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
+<!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-agi si beṭṭu n ugdil inek.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-agi">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-agi. ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Wennez aswir n zoom">
 
 <!ENTITY searchItem.title             "Nadi">
 <!-- Toolbar items --> 
@@ -424,12 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Nadi tuţra">
-<!ENTITY contentSearchSubmit.label    "Azen anadi">
+<!ENTITY contentSearchSubmit.tooltip  "Azen anadi">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Iɣewwaṛen n unadi">
+<!ENTITY changeSearchSettings.tooltip "Snifel iɣewwaṛen n unadi">
 
 <!ENTITY searchInNewTab.label         "Nadi deg iccer amaynut">
 <!ENTITY searchInNewTab.accesskey     "c">
@@ -733,6 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel agi web.">
+<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-saliḍ tikelt nniḍen asebter akken isnifal ad ttwasensen.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
-<!ENTITY socialToolbar.title        "Taqeffalt n ufeggag ametti">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Sken agalis adisan">
-<!ENTITY social.toggleSidebar.accesskey "k">
-
 <!ENTITY social.addons.label "Sefrek tanfiwin…">
-
-<!ENTITY social.toggleNotifications.label "Sken ilɣuten ɣef ufellaru">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Issin ugar">
-<!ENTITY social.learnMore.accesskey "s">
 
 <!ENTITY social.directory.label "Akaram n urremed">
 <!ENTITY social.directory.text "Tzemreḍ aţremdeḍ tanfiwin n beṭṭu seg ukaram.">
@@ -811,15 +800,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n isental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Fren idiwenniyen">
-<!ENTITY social.chatBar.accesskey "F">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Kles asebtar di…">
-<!ENTITY social.marklinkMenu.accesskey "s">
-<!ENTITY social.marklinkMenu.label "Azen aseɣwen i…">
 
 <!ENTITY getUserMedia.selectCamera.label "Taxdellest i beṭṭu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "T">
@@ -854,8 +834,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
 <!ENTITY trackingContentBlocked.block.accesskey "R">
 <!ENTITY trackingContentBlocked.disabled.message "Aḥraz mgal afuɣel irermed">
-
-<!ENTITY pointerLock.notification.message "Sit ɣef ESC melmi tebɣiḍ akken ad iţusken tikelt nniḍen.">
 
 <!ENTITY pluginNotification.showAll.label "Sken imaṛṛa">
 <!ENTITY pluginNotification.showAll.accesskey "S">

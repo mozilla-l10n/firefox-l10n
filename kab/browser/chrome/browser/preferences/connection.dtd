@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Iɣewwaṛen n tuqqna">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Tawila n uqeddac aseɣẓan agrayan i wenkcum ɣeṛ Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ulac aseɣẓan agrayan">
