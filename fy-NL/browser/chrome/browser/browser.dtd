@@ -210,12 +210,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berjochtpaniel iepenje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lokaasjefersyk-paniel iepenje">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on-ynstallaasjebejocht-paniel iepenje">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Offline ûnthâldberjochtpaniel iepenje">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Bewarre oanmeldingenberjochtpaniel iepenje">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gebrûk ynstekker beheare">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Wizigje oft jo notifikaasjes fan de website ûntfange kinne">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dielen fan jo kamera en/of mikrofoan mei de website beheare">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dielen fan jo mikrofoan mei de website beheare">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Dielen fan jo finsters of skerm mei de website beheare">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ynstallaasjeberjochtpaniel iepenje">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dizze side oersette">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sideoersetting beheare">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebrûk fan DRM-software beheare">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Jo hawwe jo kamera foar dizze website blokkearre.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Jo hawwe jo mikrofoan foar dizze website blokkearre.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Jo hawwe jo lokaasjeynformaasje foar dizze website blokkearre.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Jo hawwe gegevensûnthâld foar dizze website blokkearre.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jo hawwe notifikaasjes foar dizze website blokkearre.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Skiednis toane">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Zoomnivo weromsette">
 
 <!ENTITY searchItem.title             "Sykje">
 
@@ -412,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Sykterm">
+<!ENTITY contentSearchSubmit.tooltip  "Sykopdracht ferstjoere">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -437,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Sykynstellingen wizigje">
+<!ENTITY changeSearchSettings.tooltip "Sykynstellingen wizigje">
 
 <!ENTITY searchInNewTab.label         "Sykje yn Nij ljepblêd">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -714,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tastimmingen">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
+<!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
