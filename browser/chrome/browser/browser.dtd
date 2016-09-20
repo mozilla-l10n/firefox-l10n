@@ -166,7 +166,7 @@
 <!ENTITY urlbar.microphoneBlocked.tooltip "Il microfono è bloccato per questo sito.">
 <!ENTITY urlbar.screenBlocked.tooltip "La condivisione dello schermo è bloccata per questo sito.">
 <!ENTITY urlbar.geolocationBlocked.tooltip "Il rilevamento della posizione è bloccato per questo sito.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip "Il salvataggio dei dati è bloccato per questo sito.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip "L’archiviazione non in linea dei dati è bloccata per questo sito.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Le notifiche sono bloccate per questo sito.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Visualizza cronologia">
 <!ENTITY urlbar.zoomReset.tooltip "Reimposta il livello di zoom">
