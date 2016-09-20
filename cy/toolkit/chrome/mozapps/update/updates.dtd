@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Nid oedd modd gosod y Diweddariad rhannol. Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
 
 <!ENTITY  genericBackgroundError.label    "Nid yw &brandShortName; yn gallu penderfynu os oes diweddariad ar gael. Gwnewch yn siŵr fod fersiwn diweddaraf &brandShortName; gennych o:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Mae rhywbeth yn atal &brandShortName; rhag diweddaru'n ddiogel. Gwnewch yn siŵr fod fersiwn diweddaraf o &brandShortName; gennych o:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Mae rhywbeth yn ceisio twyllo &brandShortName; i dderbyn diweddariad anniogel. Cysylltwch â'ch darparwr rhwydwaith er mwyn cael cymorth.">
 
 <!ENTITY  finishedPage.title              "Diweddariad yn Barod i'w Osod">
 <!ENTITY  finishedPage.text               "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">

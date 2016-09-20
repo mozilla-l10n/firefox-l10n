@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Dysgu Rhagor">
 
-<!ENTITY crashReporterDesc.label         "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo &vendorShortName; i wneud eich porwr yn fwy sefydlog a diogel">
-<!ENTITY enableCrashReporter.label       "Galluogi Adroddwr Chwalu">
-<!ENTITY enableCrashReporter.accesskey   "A">
-<!ENTITY crashReporterLearnMore.label    "Dysgu Rhagor">
+
+
+<!ENTITY crashReporterLearnMore.label     "Dysgu Rhagor">
 
 <!ENTITY networkTab.label                "Rhwydwaith">
 

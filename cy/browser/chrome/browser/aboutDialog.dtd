@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Ynghylch &brandFullName;">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
@@ -10,10 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Gwirio am ddiweddariadau">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
-<!ENTITY update.updateButton.label2                "Ailgychwyn &brandShortName; i'w Ddiweddaru">
+<!ENTITY update.updateButton.label2               "Ailgychwyn &brandShortName; i'w Ddiweddaru">
 <!ENTITY update.updateButton.accesskey            "A">
-<!ENTITY update.applyButtonBillboard.label        "Gosod y Diweddariad…">
-<!ENTITY update.applyButtonBillboard.accesskey    "D">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
