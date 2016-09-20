@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "खावसे आपडेटखौ बाहायनो हायाखै। आबुं आपडेटखौ डाउनल'ड खालामनानै &brandShortName;आ फिन नाजागोन।">
 
 <!ENTITY  genericBackgroundError.label    "मोनसे आपडेटआ मोननो हाथाव जायोब्ला &brandShortName; आ थि खालामनो हायाखै।नोंथाङा &brandShortName;नि गोदानथार बिसान दं होननानै रोखा खालाम:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "रैखाथियै आपडेट खालामनाय निफ्राय सोरबा &brandShortName; खौ हेंथा होगासिनो दं।नोंथाङा &brandShortName;नि गोदानथार बिसान दं होननानै रोखा खालाम:">
-<!ENTITY  errorCertAttrHasUpdate.label    "रैखाथिगैयै आपडेटखौ आजावनानै सोरबा &brandShortName; खौ ट्रेक खालामनो नाजागासिनो दं। अननानै नोंथांनि नेटवार्क होग्राजों जगाजग खालाम आरो मदद नागिर।">
 
 <!ENTITY  finishedPage.title              "इनष्टल खालामनो आपडेटआ थियारि">
 <!ENTITY  finishedPage.text               "उननि समाव &brandShortName; खौ जागायनाय समाव आपडेटखौ इनष्टल खालामगोन।नोंथाङा दा &brandShortName; खौ फिन जागायनो हायो, एबा खामानि मावलांबाय था आरो उनाव फिन नाजा।">

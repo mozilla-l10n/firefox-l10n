@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "गोबां सोलों">
 
-<!ENTITY crashReporterDesc.label         "नोंथांनि ब्राउजारखौ बांसिन दिदोम आरो रैखाथि खालामनो &vendorShortName; खौ मदद होनो &brandShortName; आ क्रेस रिपर्टखौ गथायो।">
-<!ENTITY enableCrashReporter.label       "क्रेस रिपर्टारखौ हाहोनाय खालाम">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "गोबां सोलों">
+
+
+<!ENTITY crashReporterLearnMore.label     "गोबां सोलों">
 
 <!ENTITY networkTab.label                "नेटवार्क">
 

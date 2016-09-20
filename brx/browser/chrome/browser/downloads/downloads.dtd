@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "जारिमिन निफ्राय बोखार">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "लिस्टखौ खोमोर (a)">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "डाउनल'डफोरखौ खोमोर">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "गासै डाउनल'डखौ दिन्थि (S)">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "डाउनल'डफोरखौ खोमोर">
 <!ENTITY clearDownloadsButton.tooltip     "डाउनल'डनि फुरा जानाय, बातिल जानाय आरो फेलें जानायखौ खोमोरो">
