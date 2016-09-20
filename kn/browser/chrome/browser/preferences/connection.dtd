@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "ಸಂಪರ್ಕ ಸಿದ್ಧತೆಗಳು">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ಅಂತರಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಪ್ರಾಕ್ಸಿಗಳನ್ನು ಸಂರಚಿಸು">
 <!ENTITY  noProxyTypeRadio.label        "ಯಾವುದೆ ಪ್ರಾಕ್ಸಿ ಇಲ್ಲ">

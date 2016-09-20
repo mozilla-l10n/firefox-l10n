@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು">
 <!ENTITY editThisBookmarkCmd.label "ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ತಾಣದ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "ಒಂದು ಸೂಚನೆಯನ್ನು ನೋಡಿ">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "ಸ್ಥಳದ ಮನವಿಯನ್ನು ನೋಡಿ">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪನಾ ಚಿತ್ರವನ್ನು ನೋಡಿ">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ಆ‌್ಯಪ್‌-ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆ ಸಂದೇಶವನ್ನು ನೋಡಿ">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "ನಿಮ್ಮ ಲಾಗಿನ್ ಮಾಹಿತಿಯನ್ನು ನಿರ್ವಹಿಸಿ">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಉಳಿಸಲು ಬಯಸಿದಲ್ಲಿ ಇದಕ್ಕೆ ಗುರುತುಹಾಕಿ">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "ಈ ಪುಟದಲ್ಲಿ ಪ್ಲಗ್‌ಇನ್ ಬಳಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು/ಅಥವ ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ಈ ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಂಡಿದ್ದೀರಿ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ಈ ತಾಣದೊಂದಿಗೆ ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್‌ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ನೀವು ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ನಿಮ್ಮ ಕಿಟಿಗಳನ್ನು ಅಥವ ತೆರೆಯನ್ನು ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ನೀವು ಒಂದು ಕಿಟಕಿ ಅಥವ ಒಂದು ತೆರೆಯನ್ನು ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ತಾಣವು ಸೂಚಕವನ್ನು ನಿಭಾಯಿಸಬಲ್ಲದೆ ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "ಸೇವೆ ಅನುಸ್ಥಾಪನಾ ಸಂದೇಶವನ್ನು ನೋಡಿ">
-<!ENTITY urlbar.translateNotificationAnchor.label       "ಈ ಪುಟವನ್ನು ಅನುವಾದಿಸು">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "ಪುಟದ ಅನುವಾದವನ್ನು ನಿರ್ವಹಿಸಿ">
-<!ENTITY urlbar.emeNotificationAnchor.label             "DRM ತಂತ್ರಾಂಶವನ್ನು ನಿರ್ವಹಿಸಿ">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ಈ ತಾಣದೊಂದಿಗೆ ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್‌ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ನಿಮ್ಮ ಕಿಟಿಗಳನ್ನು ಅಥವ ತೆರೆಯನ್ನು ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ಈ ಪುಟವನ್ನು ಅನುವಾದಿಸು">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ಪುಟದ ಅನುವಾದವನ್ನು ನಿರ್ವಹಿಸಿ">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM ತಂತ್ರಾಂಶವನ್ನು ನಿರ್ವಹಿಸಿ">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
+
 
 <!ENTITY searchItem.title             "ಹುಡುಕು">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "ಹುಡುಕು ಪ್ರಶ್ನೆ">
-<!ENTITY contentSearchSubmit.label    "ಹುಡುಕನ್ನು ಒಪ್ಪಿಸು">
+<!ENTITY contentSearchSubmit.tooltip  "ಹುಡುಕನ್ನು ಒಪ್ಪಿಸು">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
+
 
 <!ENTITY searchInNewTab.label         "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ಅನುಮತಿಗಳು">
 <!ENTITY identity.permissionsEmpty "ನೀವು ಈ ತಾಣಕ್ಕೆ ಯಾವುದೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಿಲ್ಲ.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌">
 
-<!ENTITY socialToolbar.title        "ಸಾಮಾಜಿಕ ಉಪಕರಣಪಟ್ಟಿ ಗುಂಡಿ">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "sidebar ತೋರಿಸು">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "ಸೇವೆಗಳನ್ನು ನಿರ್ವಹಿಸು...">
-
-<!ENTITY social.toggleNotifications.label "ಗಣಕತೆರೆ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "ಸಕ್ರಿಯವಾದವುಗಳ ನಿರ್ದೇಶಿಕೆ">
 <!ENTITY social.directory.text "ಹಂಚಲು ಬಳಸುವ ಸೇವೆಗಳನ್ನು ನೀವು ನಿರ್ದೆಶಿಕೆಯಿಂದ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ಮಾತುಕತೆಗಳತ್ತ ಗಮನ ಹರಿಸು">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "ಪುಟವನ್ನು ಇಲ್ಲಿಗೆ ಉಳಿಸು (P)…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "ಕೊಂಡಿಯನ್ನು ಇಲ್ಲಿಗೆ ಉಳಿಸು (L)...">
 
 <!ENTITY getUserMedia.selectCamera.label "ಹಂಚಬೇಕಿರುವ ಕ್ಯಾಮೆರಾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
-
-<!ENTITY pointerLock.notification.message "ಅದನ್ನು ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ತೋರಿಸಲು ESC ಅನ್ನು ಒತ್ತಿ.">
 
 <!ENTITY pluginNotification.showAll.label "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು">
 <!ENTITY pluginNotification.showAll.accesskey "S">

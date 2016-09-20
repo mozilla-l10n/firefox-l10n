@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
-<!ENTITY crashReporterDesc.label         "ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿಸಲು &brandShortName; ಕುಸಿತ ವರದಿಗಳನ್ನು  &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ">
-<!ENTITY enableCrashReporter.label       "ಕುಸಿತ ವರದಿಗಾರನನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+
+
+<!ENTITY crashReporterLearnMore.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 <!ENTITY networkTab.label                "ಜಾಲಬಂಧ">
 
