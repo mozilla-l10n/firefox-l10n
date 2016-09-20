@@ -40,8 +40,6 @@
 <!ENTITY  errorpatching.intro             "Entereeza ey'ekitundu egaanye okutekebwako. &brandShortName; eggya kugezaako okutikkula omulundi omulala akatuukaganya akaweddeyo.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; weri okumanya oba waliwo ekituusa ekiriwo. Bamba kakasa nti olina enfuluma ya &brandShortName; esinga okuba eyombuliwo okuva:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Waliwo ekiziyiza &brandShortName; okutuusa esanide mu byokwerinda. Bambi kakasa nti olina enfuluma ya &brandShortName; esinga okuba eyombuliwo okuva:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Waliwo ekigezako okukola &brandShortName; akakodiyo, obubaka obukiriza akatuusa akanafu mu byokwerinda. Bambi tukirira adukanya omukutu gwo osabe obuyambi.">
 
 <!ENTITY  finishedPage.title              "Akatukaganya Katuse Okutteekamu">
 <!ENTITY  finishedPage.text               "Enkyuukakyuuka eggya kuteekebwako omulundi omulala nga &brandShortName; atandika.  Osobola okuddamu okutandisa &brandShortName; kati, oba genda maaso ne byokola ogitandise oluvannyuma.">

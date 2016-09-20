@@ -56,8 +56,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "E">
 
 
-<!ENTITY cmd.clearList.label              "Sangula Olukalala">
-<!ENTITY cmd.clearList.accesskey          "S">
+
+
 
 
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -96,6 +96,7 @@
 
 <!ENTITY downloadsHistory.label           "Laaga Ebitikulwa Byoona">
 <!ENTITY downloadsHistory.accesskey       "L">
+
 
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
