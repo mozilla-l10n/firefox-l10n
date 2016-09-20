@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Alih keluar Daripada Sejarah">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "Buang Panel Previu">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Padam Muat turun">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Papar Semua Muat turun">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Buka Folder Muat turun">
 
 <!ENTITY clearDownloadsButton.label       "Padam Muat turun">
 <!ENTITY clearDownloadsButton.tooltip     "Hapuskan yang telah selesai, batal dan gagalkan muat turun">
