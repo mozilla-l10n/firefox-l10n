@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY removePassword.title              "Alih keluar Kata laluan Induk">
-<!ENTITY removeInfo.label                  "Anda mesti memasukkan katalaluan semasa anda untuk meneruskannya:">
+<!ENTITY removeInfo.label                  "Anda mesti masukkan kata laluan semasa anda untuk meneruskannya:">
 <!ENTITY removeWarning1.label              "Kata laluan Induk anda digunakan untuk melindungi maklumat sensitif contohnya kata laluan laman.">
 <!ENTITY removeWarning2.label              "Jika anda alih keluar Kata laluan Induk, maklumat anda tidak akan dapat dilindungi jika komputer anda terjejas.">
-<!ENTITY setPassword.oldPassword.label     "Katalaluan semasa:">
+<!ENTITY setPassword.oldPassword.label     "Kata laluan semasa:">
 

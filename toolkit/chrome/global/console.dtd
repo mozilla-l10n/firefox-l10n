@@ -16,7 +16,7 @@
 <!ENTITY warnings.accesskey "n">
 <!ENTITY messages.label     "Mesej">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Kosongkan">
+<!ENTITY clear.label        "Buang">
 <!ENTITY clear.accesskey    "n">
 <!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">

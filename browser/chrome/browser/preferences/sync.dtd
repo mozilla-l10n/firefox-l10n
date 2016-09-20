@@ -16,7 +16,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Urus Akaun">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "Menukar Katalaluan…">
+<!ENTITY changePassword2.label        "Tukar Kata laluan…">
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
 <!ENTITY resetSync2.label             "Reset Sync…">
 
