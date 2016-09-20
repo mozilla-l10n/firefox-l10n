@@ -208,29 +208,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Gwelout titouroù al lec'hienn">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Digeriñ penel ar c'hemennadennoù">
-
-
-
-
-
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Digeriñ penel ar goulenn lec'hiadur">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Digeriñ penel kemennadenn staliadur an askouezh">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Digeriñ penel kemennadenn ar c'hadaviñ ezlinenn">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Digeriñ penel kemennadenn enrollañ ar ger-tremen">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Ardeiñ arver an enlugellad">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ardeiñ penaos e c'hallit degemer rebuzadurioù digant al lec'hienn">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Ardeiñ rannadur ho prenestr pe ho skramm gant al lec'hienn">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Digeriñ penel ar gemennadenn staliadur">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Treiñ ar bajenn-mañ">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Ardeiñ troidigezh ar bajenn">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ardeiñ an arver meziantoù DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Stanket ho peus ho kamera evit al lec'hienn-mañ.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Stanket ho peus ho mikrofon evit al lec'hienn-mañ.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Difennet ho peus al lec'hienn-mañ da rannañ ho skramm.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Stanket ho peus an titouroù lec'hiadur evit al lec'hienn-mañ.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Stanket ho peus an titouroù kadaviñ evit al lec'hienn-mañ.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Adderaouekaat al live zoum">
 
 <!ENTITY searchItem.title             "Klask">
 <!-- Toolbar items --> 
@@ -453,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Kemmañ an arventennoù klask">
-
+<!ENTITY changeSearchSettings.tooltip "Kemmañ an arventennoù klask">
 
 <!ENTITY searchInNewTab.label         "Klask en ivinell nevez">
 <!ENTITY searchInNewTab.accesskey     "n">
@@ -732,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Aotreoù">
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
-
+<!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
