@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "к">
 <!ENTITY cmd.removeFromHistory.label      "Тарихтен өшіру">
 <!ENTITY cmd.removeFromHistory.accesskey  "Т">
-<!ENTITY cmd.clearList.label              "Тізімді тазарту">
-<!ENTITY cmd.clearList.accesskey          "Т">
+
+
 <!ENTITY cmd.clearDownloads.label         "Жүктемелерді тазарту">
 <!ENTITY cmd.clearDownloads.accesskey     "д">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Барлық жүктемелерді көрсету">
 <!ENTITY downloadsHistory.accesskey       "к">
+
 
 <!ENTITY clearDownloadsButton.label       "Жүктемелерді тазарту">
 <!ENTITY clearDownloadsButton.tooltip     "Аяқталған, бас тартылған және сәтсіз жүктемелерді тазартады">

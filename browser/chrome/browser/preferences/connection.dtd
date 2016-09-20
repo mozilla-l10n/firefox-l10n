@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Байланыс баптаулары">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Интернетпен байланысу үшін прокси-серверді баптау">
 <!ENTITY  noProxyTypeRadio.label        "Прокси сервері жоқ">
