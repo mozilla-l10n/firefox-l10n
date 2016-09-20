@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Konexio-ezarpenak">
-<!ENTITY  window.width                  "46em">
-<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Konfiguratu internetera sartzeko proxy-ak">
 <!ENTITY  noProxyTypeRadio.label        "Proxy-rik ez">

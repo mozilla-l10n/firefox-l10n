@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(r)a nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
-<!ENTITY enableCrashReporter.label       "Gaitu hutsegite-txostenak">
-<!ENTITY enableCrashReporter.accesskey   "h">
-<!ENTITY crashReporterLearnMore.label    "Argibide gehiago">
+
+
+<!ENTITY crashReporterLearnMore.label     "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
 
