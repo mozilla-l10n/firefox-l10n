@@ -105,7 +105,7 @@
 <!ENTITY cmd.showPreferencesWin.label         "Pilihan">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Tukarkan keutamaan add-on's ini">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Tukar keutamaan add-on ini">
 <!ENTITY cmd.contribute.label                 "Menyumbang">
 <!ENTITY cmd.contribute.accesskey             "a">
 <!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
@@ -150,7 +150,7 @@
 <!ENTITY detail.showPreferencesWin.tooltip    "Tukar pilihan add-on ini">
 <!ENTITY detail.showPreferencesUnix.label     "Keutamaan">
 <!ENTITY detail.showPreferencesUnix.accesskey "a">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Tukarkan keutamaan add-on's ini">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Tukar keutamaan add-on ini">
 
 
 <!-- ratings -->
