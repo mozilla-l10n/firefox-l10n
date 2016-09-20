@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Vidarebefordra">
 <!ENTITY fileButton.label "Spara">
 <!ENTITY archiveButton.label "Arkivera">
+<!ENTITY openConversationButton.label "Konversation">
 <!ENTITY nextButton.label "Nästa">
 <!ENTITY nextButtonToolbarItem.label "Nästa olästa">
 <!ENTITY nextMsgButton.label "Nästa">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Vidarbefordra markerat meddelande som bilaga">
 <!ENTITY fileButton.tooltip "Sparar markerat meddelande">
 <!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
+<!ENTITY openConversationButton.tooltip "Visa konversation för valt meddelande">
 <!ENTITY nextButton.tooltip "Flytta till nästa olästa meddelande">
 <!ENTITY nextMsgButton.tooltip "Flytta till nästa meddelande">
 <!ENTITY previousButton.tooltip "Flytta till föregående olästa meddelande">

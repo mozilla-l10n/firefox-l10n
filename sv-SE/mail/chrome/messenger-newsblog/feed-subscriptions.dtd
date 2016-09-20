@@ -29,6 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Lägg till">
 <!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.updateFeed.label     "Uppdatera">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Ta bort">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label     "Importera">
