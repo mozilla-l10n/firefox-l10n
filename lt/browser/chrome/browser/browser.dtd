@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Peržiūrėti svetainės informaciją">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Peržiūrėti pranešimą">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Peržiūrėti vietos užklausą">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Peržiūrėti priedo įdiegimo pranešimą">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Peržiūrėti neprisijungusios programos atmintinės pranešimą">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Tvarkykite savo prisijungimo informaciją">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Pažymėkite, jei norite įrašyti savo slaptažodį">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Tvarkyti papildinių naudojimą tinklalapyje">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Svetainei leidžiate naudoti jūsų kamerą ir (arba) mikrofoną">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Tvarkyti mikrofono naudojimą svetainėje">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Svetainei leidžiate naudoti jūsų mikrofoną">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Tvarkyti langų ar viso ekrano bendrinimą su svetaine">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Su svetaine bendrinate langą ar visą ekraną">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Pakeisti leidimą svetainei paslėpti rodyklę">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Peržiūrėti serviso diegimo pranešimą">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Išversti šį tinklalapį">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Tvarkyti tinklalapio vertimą">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Tvarkyti DRM programinės įrangos naudojimą">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tvarkyti mikrofono naudojimą svetainėje">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tvarkyti langų ar viso ekrano bendrinimą su svetaine">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Išversti šį tinklalapį">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tvarkyti tinklalapio vertimą">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tvarkyti DRM programinės įrangos naudojimą">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
+
 
 <!ENTITY searchItem.title             "Paieška">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Paieškos užklausa">
-<!ENTITY contentSearchSubmit.label    "Išsiųsti paiešką">
+<!ENTITY contentSearchSubmit.tooltip  "Išsiųsti paiešką">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Keisti paieškos nuostatas">
+
 
 <!ENTITY searchInNewTab.label         "Ieškoti naujoje kortelėje">
 <!ENTITY searchInNewTab.accesskey     "k">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Leidimai">
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "n">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
 
-<!ENTITY socialToolbar.title        "Bendravimo parankinės mygtukas">
-
-<!ENTITY social.ok.label       "Gerai">
-<!ENTITY social.ok.accesskey   "G">
-
-<!ENTITY social.toggleSidebar.label "Rodyti parankinę">
-<!ENTITY social.toggleSidebar.accesskey "o">
-
 <!ENTITY social.addons.label "Tvarkyti tarnybas…">
-
-<!ENTITY social.toggleNotifications.label "Rodyti pranešimus">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Išsamiau…">
-<!ENTITY social.learnMore.accesskey "I">
 
 <!ENTITY social.directory.label "Aktyvinimų aplankas">
 <!ENTITY social.directory.text "Dalinimosi tarnybas galite aktyvinti iš aplanko.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Fokusuoti pokalbius">
-<!ENTITY social.chatBar.accesskey "k">
-
-<!ENTITY social.markpageMenu.accesskey "t">
-<!ENTITY social.markpageMenu.label "Nusiųsti tinklalapį į…">
-<!ENTITY social.marklinkMenu.accesskey "s">
-<!ENTITY social.marklinkMenu.label "Nusiųsti saitą į…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kurią leisite pasiekti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Įjungti apsaugą">
 <!ENTITY trackingContentBlocked.block.accesskey "Į">
 <!ENTITY trackingContentBlocked.disabled.message "Apsauga nuo stebėjimo yra išjungta">
-
-<!ENTITY pointerLock.notification.message "Jeigu norėsite, kad žymeklis būtų vėl parodytas, spauskite klavišą Gr.">
 
 <!ENTITY pluginNotification.showAll.label "Rodyti visus">
 <!ENTITY pluginNotification.showAll.accesskey "v">
