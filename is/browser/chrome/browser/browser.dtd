@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "æ">
 <!ENTITY  moveToNewWindow.label              "Færa yfir í nýjan glugga">
 <!ENTITY  moveToNewWindow.accesskey          "g">
-<!ENTITY  bookmarkAllTabs.label              "Setja flipa í bókamerki…">
+<!ENTITY  bookmarkAllTabs.label              "Setja alla flipa í bókamerki…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Afturkalla loka flipa">
 <!ENTITY  undoCloseTab.accesskey             "u">
@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
-<!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
+<!ENTITY addCurPagesCmd.label "Setja alla flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "f">
 
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "e">
 
 <!ENTITY fileMenu.label         "Skrá"> 
 <!ENTITY fileMenu.accesskey       "S">
@@ -519,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey        "V">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "V">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Vista ramma sem…">
 <!ENTITY saveFrameCmd.accesskey       "a">
@@ -571,7 +571,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Hljóðdeyfa">
+<!ENTITY mediaMute.label             "Hljóðlaus">
 <!ENTITY mediaMute.accesskey         "H">
 <!ENTITY mediaUnmute.label           "Virkja hljóð">
 <!ENTITY mediaUnmute.accesskey       "h">

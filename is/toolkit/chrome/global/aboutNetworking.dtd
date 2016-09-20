@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "Um net">
 <!ENTITY aboutNetworking.warning               "Þetta er á tilraunastigi. Ekki mælt með notkun án hjálpar.">
-<!ENTITY aboutNetworking.showNextTime          "Sýna aðvörun næst">
+<!ENTITY aboutNetworking.showNextTime          "Sýna þessa aðvörun í næsta skipti">
 <!ENTITY aboutNetworking.ok                    "Í lagi">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Tengill">
