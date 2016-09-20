@@ -39,8 +39,8 @@
 <!ENTITY pkcs12.setpassword.title  "Pilih Kata laluan Sandaran Sijil">
 <!ENTITY pkcs12.setpassword.message  "Kata laluan sandaran sijil yang anda tetapkan di sini melindungi fail sandaran yang anda akan cipta.  Anda mesti menetapkan kata laluan untuk meneruskan sandaran.">
 <!ENTITY pkcs12.setpassword.label1 "Kata laluan sandaran sijil:">
-<!ENTITY pkcs12.setpassword.label2 "Katalaluan simpanan sijil (lagi):">
-<!ENTITY pkcs12.setpassword.reminder "Penting: Jika anda lupa katalaluan simpanan sijil anda, anda tidak akan dapat menyembalikan simpanan ini kemudian. Sila buat rekod di tempat selamat.">
+<!ENTITY pkcs12.setpassword.label2 "Kata laluan sandaran sijil (lagi):">
+<!ENTITY pkcs12.setpassword.reminder "Penting: Jika anda lupa kata laluan sandaran sijil anda, anda tidak akan dapat mengembalikan sandaran ini lagi.  Sila catat di lokasi yang selamat.">
 
 <!ENTITY chooseToken.title  "Dialog Pilih Token">
 <!ENTITY chooseToken.message1 "Sila pilih token.">
