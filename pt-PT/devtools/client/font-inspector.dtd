@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Ver todos os tipos de letra desta página">
-
+<!ENTITY showAllFontsUsed "Mostrar todos os tipos de letra utilizados">
 <!ENTITY usedAs "Utilizado como: ">
 <!ENTITY system "sistema">
 <!ENTITY remote "remoto">
