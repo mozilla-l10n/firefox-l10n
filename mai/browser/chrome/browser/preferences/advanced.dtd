@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "ट">
 <!ENTITY telemetryLearnMore.label        "आओर जानू">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; क्रैश रिपोर्ट सौंपेछ जाहिसँ &vendorShortName; क' मदत अहाँक ब्राउज़र केँ अधिक स्थायित्व आओर सुरक्षित बनाबैमे हुए">
-<!ENTITY enableCrashReporter.label       "क्रैश रिपोर्टर सक्रिय करू (C)">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "आओर जानू">
+
+
+<!ENTITY crashReporterLearnMore.label     "आओर जानू">
 
 <!ENTITY networkTab.label                "संजाल">
 
