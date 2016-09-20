@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Cruthaigh Leabharmharc don Leathanach Seo">
 <!ENTITY editThisBookmarkCmd.label "Cuir an Leabharmharc Seo in Eagar">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Priontáil an leathanach seo">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Eolas faoin suíomh">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Féach ar fhógra">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Féach ar an iarratas ar láthair">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Féach ar theachtaireacht shuiteáil an bhreiseáin">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Féach ar an teachtaireacht faoi stóras as líne">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Bainistigh d'fhaisnéis logáil isteach">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Cuir tic anseo más mian leat d'fhocal faire a shábháil">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Bainistigh úsáid breiseán ar an leathanach seo">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Bainistigh comhroinnt do cheamara agus/nó do mhicreafón leis an suíomh">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Tá tú ag roinnt do cheamara agus/nó do mhicreafóin leis an suíomh faoi láthair">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Bainistigh comhroinnt do mhicreafóin leis an suíomh">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Tá tú ag comhroinnt do mhicreafóin leis an suíomh faoi láthair">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Bainistigh comhroinnt fuinneog nó scáileáin leis an suíomh">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Tá tú ag comhroinnt fuinneoige nó do scáileáin leis an suíomh faoi láthair">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "An bhfuil an suíomh in ann an cúrsóir a chur i bhfolach">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Féach ar theachtaireacht shuiteáil na seirbhíse">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Aistrigh an leathanach seo">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Bainistigh aistriúchán an leathanaigh">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Bainistigh bogearraí DRM">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bainistigh comhroinnt do cheamara agus/nó do mhicreafón leis an suíomh">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bainistigh comhroinnt do mhicreafóin leis an suíomh">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bainistigh comhroinnt fuinneog nó scáileáin leis an suíomh">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Aistrigh an leathanach seo">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Bainistigh aistriúchán an leathanaigh">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Bainistigh bogearraí DRM">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taispeáin an stair">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Athshocraigh an leibhéal súmála">
 
 <!ENTITY searchItem.title             "Cuardaigh">
 <!-- Toolbar items --> 
@@ -424,12 +422,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Iarratas cuardaigh">
-<!ENTITY contentSearchSubmit.label    "Aighnigh iarratas">
+<!ENTITY contentSearchSubmit.tooltip  "Aighnigh iarratas">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Socruithe Cuardaigh">
+<!ENTITY changeSearchSettings.tooltip "Athraigh na socruithe cuardaigh">
 
 <!ENTITY searchInNewTab.label         "Cuardaigh i gCluaisín Nua">
 <!ENTITY searchInNewTab.accesskey     "r">
@@ -733,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ceadanna">
 <!ENTITY identity.permissionsEmpty "Níor thug tú aon chead speisialta don suíomh seo.">
+<!ENTITY identity.permissionsReloadHint "Ní mór duit an leathanach a athluchtú chun na hathruithe a chur i bhfeidhm.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "A">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Cnaipe Barra Shóisialta">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Taispeáin an barra taoibh">
-<!ENTITY social.toggleSidebar.accesskey "T">
-
 <!ENTITY social.addons.label "Bainistigh Seirbhísí…">
-
-<!ENTITY social.toggleNotifications.label "Taispeáin fógraí deisce">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Tuilleadh eolais…">
-<!ENTITY social.learnMore.accesskey "T">
 
 <!ENTITY social.directory.label "Eolaire Sóisialta">
 <!ENTITY social.directory.text "Is féidir leat seirbhísí sóisialta a ghníomhachtú ón eolaire.">
@@ -811,15 +797,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Faigh Tuilleadh Téamaí">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Cuir comhráite i bhfócas">
-<!ENTITY social.chatBar.accesskey "C">
-
-<!ENTITY social.markpageMenu.accesskey "L">
-<!ENTITY social.markpageMenu.label "Sábháil an Leathanach le…">
-<!ENTITY social.marklinkMenu.accesskey "N">
-<!ENTITY social.marklinkMenu.label "Sábháil an Nasc le…">
 
 <!ENTITY getUserMedia.selectCamera.label "Ceamara le comhroinnt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Cumasaigh cosaint">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorgaireacht díchumasaithe">
-
-<!ENTITY pointerLock.notification.message "Brúigh ESC am ar bith chun é a thaispeáint arís.">
 
 <!ENTITY pluginNotification.showAll.label "Taispeáin Uile">
 <!ENTITY pluginNotification.showAll.accesskey "T">
