@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bokmerk denne sida">
 <!ENTITY editThisBookmarkCmd.label "Rediger dette bokmerket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinfo">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Vis eit varsel">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vis plasseringsførespurnaden">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Vis installasjonsmeldinga til utvidingshandsamaren">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vis lagringsmelding frå app-offline">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Handsam innloggingsinfo">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontroller om du vil lagra passordet ditt">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Handsam bruk av programtillegg på denne sida">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Vel om du kan ta imot varsel frå nettstaden">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Handsam deling av kamera og/eller mikrofon ppå denne nettstaden">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Du deler kamera og/eller mikrofon med denne nettstaden">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Handsam deling av mikrofon med denne nettstaden">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Du deler mikrofonen din med nettstaden">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Handsam deling av vindauge eller skjerm med nettstaden">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Du deler eit vindauge eller skjermen med nettstaden">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Endre om nettstaden kan gøyma musepeikaren">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Vis melding om tenesteinnstallering">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Omset denne sida">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Handsam sideomsetting">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Handsam bruken av DRM-programvare">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handsam deling av kamera og/eller mikrofon ppå denne nettstaden">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handsam deling av mikrofon med denne nettstaden">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Handsam deling av vindauge eller skjerm med nettstaden">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Omset denne sida">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Handsam sideomsetting">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handsam bruken av DRM-programvare">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
+
 
 <!ENTITY searchItem.title             "Søk">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Søkjespørsmål">
-<!ENTITY contentSearchSubmit.label    "Send søk">
+<!ENTITY contentSearchSubmit.tooltip  "Send søk">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Endra søkjeinnstillingar">
+
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "ø">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
-<!ENTITY socialToolbar.title        "Sosial verktøylinje-knapp">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Vis sidestolpe">
-<!ENTITY social.toggleSidebar.accesskey "V">
-
 <!ENTITY social.addons.label "Handsam tenester …">
-
-<!ENTITY social.toggleNotifications.label "Vis varsel">
-<!ENTITY social.toggleNotifications.accesskey "a">
-
-<!ENTITY social.learnMore.label "Les meir …">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "Aktiveringskatalog">
 <!ENTITY social.directory.text "Du kan slå på tenester for deling frå katalogen.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent fleire tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Fokuser på nettprat">
-<!ENTITY social.chatBar.accesskey "F">
-
-<!ENTITY social.markpageMenu.accesskey "s">
-<!ENTITY social.markpageMenu.label "Lagra side til …">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Lagra lenke til …">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som vert delt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Slå på vern">
 <!ENTITY trackingContentBlocked.block.accesskey "l">
 <!ENTITY trackingContentBlocked.disabled.message "Sporingsvern er slått av">
-
-<!ENTITY pointerLock.notification.message "Trykk ESC når som helst for å visa han att.">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">

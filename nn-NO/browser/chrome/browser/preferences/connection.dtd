@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Tilkoplingsinnstillingar">
-<!ENTITY  window.width                  "38em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenar (proxy) for Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
