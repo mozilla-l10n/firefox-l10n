@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "علّم هذه الصفحة">
 <!ENTITY editThisBookmarkCmd.label "حرّر هذه العلامة">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "اطبع هذه الصفحة">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "اعرض معلومات الموقع">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "اعرض تنبيهًا">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "اعرض طلب المكان">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "اعرض رسالة تثبيت الإضافات">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "اعرض رسالة مساحة تخزين التطبيق للعمل دون اتصال">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "أدر معلومات الولوج">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "تحقق مما إذا كنت تريد حفظ كلمة السر">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "أدِر استخدام الملحقات في هذه الصفحة">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "تشارك كمرتك و ميكروفونك مع هذا الموقع">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "أدر مشاركة ميكروفونك مع هذا الموقع">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "أدر مشاركة كمرتك مع هذا الموقع">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "أدر مشاركة نوافذك أو شاشتك مع هذا الموقع">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "تشارك نافذة أو شاشتك مع هذا الموقع">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "غيّر ما إذا كان يمكن للموقع إخفاء المؤشر">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "اعرض رسالة تثبيت الخدمة">
-<!ENTITY urlbar.translateNotificationAnchor.label       "ترجم هذه الصفحة">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "أدِر ترجمة الصفحة">
-<!ENTITY urlbar.emeNotificationAnchor.label             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "أدر مشاركة ميكروفونك مع هذا الموقع">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "أدر مشاركة نوافذك أو شاشتك مع هذا الموقع">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ترجم هذه الصفحة">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "أدِر ترجمة الصفحة">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
+
 
 <!ENTITY searchItem.title             "ابحث">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "استعلام بحث">
-<!ENTITY contentSearchSubmit.label    "أرسل البحث">
+<!ENTITY contentSearchSubmit.tooltip  "أرسل البحث">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
+
 
 <!ENTITY searchInNewTab.label         "ابحث في لسان جديد">
 <!ENTITY searchInNewTab.accesskey     "س">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "التّصاريح">
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ع">
 <!ENTITY syncToolbarButton.label      "زامن">
 
-<!ENTITY socialToolbar.title        "زر شريط الأدوات الاجتماعي">
-
-<!ENTITY social.ok.label       "حسنا">
-<!ENTITY social.ok.accesskey   "ح">
-
-<!ENTITY social.toggleSidebar.label "أظهر الشريط الجانبي">
-<!ENTITY social.toggleSidebar.accesskey "ش">
-
 <!ENTITY social.addons.label "أدِر الخدمات…">
-
-<!ENTITY social.toggleNotifications.label "أظهر تنبيهات سطح المكتب">
-<!ENTITY social.toggleNotifications.accesskey "ت">
-
-<!ENTITY social.learnMore.label "اطّلع على المزيد…">
-<!ENTITY social.learnMore.accesskey "ط">
 
 <!ENTITY social.directory.label "دليل التفعيل">
 <!ENTITY social.directory.text "يمكنك تفعيل خدمات المشاركة من هذا الدليل.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ركّز على الدردشات">
-<!ENTITY social.chatBar.accesskey "ك">
-
-<!ENTITY social.markpageMenu.accesskey "ل">
-<!ENTITY social.markpageMenu.label "احفظ الصفحة إلى…">
-<!ENTITY social.marklinkMenu.accesskey "ل">
-<!ENTITY social.marklinkMenu.label "احفظ الرابط إلى…">
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "فعّل الحماية">
 <!ENTITY trackingContentBlocked.block.accesskey "ف">
 <!ENTITY trackingContentBlocked.disabled.message "عُطلت حماية التتبع">
-
-<!ENTITY pointerLock.notification.message "اضغط ESC في أي وقت لإظهارها مرة أخرى.">
 
 <!ENTITY pluginNotification.showAll.label "أظهر الكل">
 <!ENTITY pluginNotification.showAll.accesskey "ظ">

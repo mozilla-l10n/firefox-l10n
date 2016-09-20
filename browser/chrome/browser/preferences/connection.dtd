@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "إعدادات الاتّصال">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "اضبط وسطاء الوصول إلى الإنترنت">
 <!ENTITY  noProxyTypeRadio.label        "لا وسيط">
