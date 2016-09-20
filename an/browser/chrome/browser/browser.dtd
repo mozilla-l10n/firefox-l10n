@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Marcar ista pachina con marcapachinas">
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapachinas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprentar ista pachina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Amostrar a información d'o puesto">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Amostrar una notificación">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Amostrar a solicitut d'ubicación">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Amuestra o mensache d'instalación d'o complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Amuestra o mensache d'almagacenamiento difuera d'a linia d'as aplicacions">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Chestiona la información d'inicio de sesión">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Compreba si quiers alzar la tuya clau">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Chestiona l'uso de connectors en ista pachina">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar a opción de recibir notificacions dende iste puesto">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Chestiona a compartición d'a camera u microfono con iste puesto">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Ye compartindo a suya camera u microfono con ista pachina">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Chestiona a compartición d'o microfono con iste puesto">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Ye compartindo o suyo microfono con ista pachina">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Chestiona a compartición d'as finestras u a pantalla con iste puesto">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Ye compartindo una finestra u a pantalla con iste puesto">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Cambiar la opción de si o puesto puet amagar o puntero">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Amostrar o mensache d'instalación d'o servicio">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir ista pachina">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Chestionar la traducción de pachinas">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Chestionar l'uso de software de DRM">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar a opción de recibir notificacions dende iste puesto">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Chestiona a compartición d'a camera u microfono con iste puesto">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Chestiona a compartición d'o microfono con iste puesto">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Chestiona a compartición d'as finestras u a pantalla con iste puesto">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir ista pachina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Chestionar la traducción de pachinas">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Chestionar l'uso de software de DRM">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
+
 
 <!ENTITY searchItem.title             "Mirar">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Consulta de busca">
-<!ENTITY contentSearchSubmit.label    "Ninvia la busca">
+<!ENTITY contentSearchSubmit.tooltip  "Ninvia la busca">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar os achustes de busca">
+
 
 <!ENTITY searchInNewTab.label         "Busca en una pestanya nueva">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dau garra permiso especial ta iste puesto.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Botón d'a barra de ferramientas social">
-
-<!ENTITY social.ok.label       "Acceptar">
-<!ENTITY social.ok.accesskey   "c">
-
-<!ENTITY social.toggleSidebar.label "Amostrar a barra lateral">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Chestionar os servicios…">
-
-<!ENTITY social.toggleNotifications.label "Amostrar as notificacions d'escritorio">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Saber-ne mas…">
-<!ENTITY social.learnMore.accesskey "m">
 
 <!ENTITY social.directory.label "Directorio d'activacions">
 <!ENTITY social.directory.text "Puede activar servicios compartius dende o directorio.">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Aconseguir mas temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Enfocar as conversas">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Alzar a pachina en...">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Alzar o vinclo en...">
 
 <!ENTITY getUserMedia.selectCamera.label "Camara ta compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar a protección">
 <!ENTITY trackingContentBlocked.block.accesskey "v">
 <!ENTITY trackingContentBlocked.disabled.message "A protección d'o seguimiento ye desactivada">
-
-<!ENTITY pointerLock.notification.message "Pretar ESC en qualsiquier momento ta amostrar-lo de nuevas.">
 
 <!ENTITY pluginNotification.showAll.label "Amostrar tot">
 <!ENTITY pluginNotification.showAll.accesskey "m">

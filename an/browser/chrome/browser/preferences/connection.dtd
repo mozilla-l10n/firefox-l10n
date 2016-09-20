@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Configuración de connexión">
-<!ENTITY  window.width                  "44em">
-<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Configurar os proxies ta accedir ta Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
