@@ -78,7 +78,6 @@
 <!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
 <!ENTITY cmd.findUpdates.accesskey            "k">
 <!ENTITY cmd.preferencesWin.label             "Pilihan">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Keutamaan">
 <!ENTITY cmd.preferencesUnix.accesskey        "m">
 <!ENTITY cmd.about.label                      "Mengenai">

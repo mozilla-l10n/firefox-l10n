@@ -5,7 +5,6 @@
 <!ENTITY  popups.label                "Popup">
 
 <!ENTITY  blockPopups.label           "Sekat tetingkap popup">
-<!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Notifikasi">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ketahui selanjutnya">
