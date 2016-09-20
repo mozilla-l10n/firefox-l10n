@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "J">
 <!ENTITY cmd.removeFromHistory.label      "Momtu Ɗum e Aslol">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
-<!ENTITY cmd.clearList.label              "Momtu Doggol">
-<!ENTITY cmd.clearList.accesskey          "m">
+
+
 <!ENTITY cmd.clearDownloads.label         "Momtu Gaawte">
 <!ENTITY cmd.clearDownloads.accesskey     "G">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "Hollu Gaawte Fof">
 <!ENTITY downloadsHistory.accesskey       "H">
+
 
 <!ENTITY clearDownloadsButton.label       "Momtu Gaawte">
 <!ENTITY clearDownloadsButton.tooltip     "Momtugol timmii, gaawte kaaytaaɗe e goorɗe">

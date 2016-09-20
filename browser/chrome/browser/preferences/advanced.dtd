@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Ɓeydu Humpito">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; naatnoytu jaŋte kooke ngam wallude &vendorShortName; ɓeydude yamɗinde e hisnude wanngorde maa">
-<!ENTITY enableCrashReporter.label       "Hurmin Jaŋtorde Kookɗ">
-<!ENTITY enableCrashReporter.accesskey   "J">
-<!ENTITY crashReporterLearnMore.label    "Ɓeydu Humpito">
+
+
+<!ENTITY crashReporterLearnMore.label     "Ɓeydu Humpito">
 
 <!ENTITY networkTab.label                "Laylaytol">
 
