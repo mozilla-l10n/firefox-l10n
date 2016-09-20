@@ -51,10 +51,6 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "সকলো ভগ্নবিন্দু সামৰ্থবান/অসামৰ্থবান কৰক">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
-<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
-  - the button to start execution tracing. -->
-
-<!ENTITY debuggerUI.startTracing "ট্ৰেইচিং আৰম্ভ কৰক">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
