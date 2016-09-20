@@ -30,17 +30,17 @@
 
 <!ENTITY noMigrationSources.label       "Tiada atur cara yang mengandungi tanda buku, sejarah atau data kata laluan yang dapat dijumpai.">
 
-<!ENTITY importSource.title             "Import Tetapan dan Data">
-<!ENTITY importItems.title              "Butir untuk Diimport">
-<!ENTITY importItems.label              "Pilih butir yang ingin diimport:">
+<!ENTITY importSource.title             "Tetapan dan Data Import">
+<!ENTITY importItems.title              "Item untuk Diimport">
+<!ENTITY importItems.label              "Pilih item yang mahu diimport:">
 
 <!ENTITY migrating.title                "Mengimport…">
-<!ENTITY migrating.label                "Butir-butir berikut sedang diimport…">
+<!ENTITY migrating.label                "Item berikut sedang diimport…">
 
 <!ENTITY selectProfile.title            "Pilih Profil">
-<!ENTITY selectProfile.label            "Profil-profil berikut tersedia untuk diimport dari:">
+<!ENTITY selectProfile.label            "Profil berikut tersedia untuk diimport dari:">
 
 <!ENTITY done.title                     "Import Selesai">
-<!ENTITY done.label                     "Butir-butir berikut telah berjaya diimport:">
+<!ENTITY done.label                     "Item berikut telah berjaya diimport:">
 
 <!ENTITY closeSourceBrowser.label       "Sila pastikan pelayar yang dipilih telah ditutup sebelum meneruskan.">
