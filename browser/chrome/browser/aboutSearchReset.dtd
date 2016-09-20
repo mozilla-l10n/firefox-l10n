@@ -19,7 +19,6 @@ before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "ඔබගේ මෙම සැකසුම් ඔබට අවශ්‍ය විට මෙමඟින් සැකසිය හැකිය ">
-<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 <!ENTITY searchreset.link.pageInfo2       "සැකසුම් පිටුව">
 
@@ -27,4 +26,3 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "සෙවුම් යන්ත්‍රය මාරු කරන්න">
-<!ENTITY searchreset.changeEngineButton.access "C">
