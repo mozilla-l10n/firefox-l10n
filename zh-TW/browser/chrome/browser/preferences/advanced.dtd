@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "更多資訊">
 
+<!ENTITY crashReporterDesc2.label         "錯誤回報能幫助 &vendorShortName; 修正問題，讓您的瀏覽器更穩定、更安全">
+<!ENTITY alwaysSubmitCrashReports.label   "允許 &brandShortName; 為您傳送錯誤報告">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "更多資訊">
 
 <!ENTITY networkTab.label                "網路">
