@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Net stillingar">
-<!ENTITY  window.width                  "43em">
-<!ENTITY  window.macWidth               "45em">
 
 <!ENTITY  proxyTitle.label              "Stilla milliþjóna (Proxy) til að tengjast netinu">
 <!ENTITY  noProxyTypeRadio.label        "Enginn milliþjónn">

@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "F">
 <!ENTITY telemetryLearnMore.label        "Fræðast meira">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; sendir hrunskýrslur til að hjálpa &vendorShortName; að gera vafrann stöðugri og öruggari">
-<!ENTITY enableCrashReporter.label       "Virkja hrunskýrslu">
-<!ENTITY enableCrashReporter.accesskey   "h">
-<!ENTITY crashReporterLearnMore.label    "Fræðast meira">
+
+
+<!ENTITY crashReporterLearnMore.label     "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
 

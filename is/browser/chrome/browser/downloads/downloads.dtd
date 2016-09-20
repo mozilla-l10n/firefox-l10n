@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Fjarlægja úr feril">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Hreinsa lista">
-<!ENTITY cmd.clearList.accesskey          "a">
+<!ENTITY cmd.clearList2.label             "Hreinsa forskoðunarrúðu">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Hreinsa niðurhal">
 <!ENTITY cmd.clearDownloads.accesskey     "n">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,8 @@
 
 <!ENTITY downloadsHistory.label           "Sýna öll niðurhöl">
 <!ENTITY downloadsHistory.accesskey       "S">
+
+<!ENTITY openDownloadsFolder.label       "Opna niðurhalsmöppu">
 
 <!ENTITY clearDownloadsButton.label       "Hreinsa niðurhöl">
 <!ENTITY clearDownloadsButton.tooltip     "Hreinsa niðurhöl sem er lokið, hætt við eða sem mistókust">
