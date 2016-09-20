@@ -8,23 +8,23 @@
 
 <!ENTITY privateBrowsing.title                           "Private Browsing">
 <!ENTITY privateBrowsing.title.tracking                  "Private Browsing na may Tracking Protection">
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kapag ikaw ay nag-browse sa isang Private Window, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "huwag i-save">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-
+<!ENTITY aboutPrivateBrowsing.info.visited               "mga binisitang pahina">
 <!ENTITY aboutPrivateBrowsing.info.searches              "searches">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "mga temporary na file">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ay isa-save">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " iyong;">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "mga downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "mga bookmark">
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing  ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ay hindi ka ginagawang anonymous">
-
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Matuto pa ukol sa">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
 
+<!ENTITY trackingProtection.title                        "Tracking Protection">
 <!ENTITY trackingProtection.description2                 "Ang ibang website ay gumagamit ng trackers para masubaybayan ang iyong ginagawa sa Internet. Pag ginamit mo ang Tracking Potection mapipigilan ni Firefox ang maraming mga trackers na maaaring magipon ng impormasyon ukol sa iyong pagkabrowse">
 <!ENTITY trackingProtection.startTour1                   "Tignan kung paano gumagana">
