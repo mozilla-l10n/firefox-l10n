@@ -2,7 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
 <!ENTITY saveCmd.key "S">
+
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Incolla senza formattazione">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
@@ -18,11 +23,10 @@
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY checkSpellingCmd2.key "p">
+
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserisci">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Collegamento…">
-<!ENTITY insertLinkCmd.accesskey "C">
-<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Ancora…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Immagine…">
@@ -39,10 +43,14 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "A capo dopo immagini">
 <!ENTITY insertBreakAllCmd.accesskey "o">
+
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crea collegamento…">
 <!ENTITY createLinkCmd.accesskey "o">
 <!ENTITY editLinkCmd.label "Modifica collegamento in Composer">
 <!ENTITY editLinkCmd.accesskey "l">
+
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Scegli il tipo di carattere">
 <!ENTITY fontfaceMenu.label "Carattere">
 <!ENTITY fontfaceMenu.accesskey "C">
@@ -57,15 +65,18 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ",">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Aumenta">
 <!ENTITY increaseFontSize.accesskey "A">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 ".">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "Dimensione">
 <!ENTITY fontSizeMenu.accesskey "D">
 <!ENTITY size-tinyCmd.label "Molto piccolo">
@@ -80,6 +91,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "M">
 <!ENTITY size-hugeCmd.label "Enorme">
 <!ENTITY size-hugeCmd.accesskey "E">
+
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stile">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Grassetto">
@@ -115,15 +128,18 @@
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variabile">
 <!ENTITY styleVar.accesskey "V">
+
 <!ENTITY formatFontColor.label "Colore testo…">
 <!ENTITY formatFontColor.accesskey "o">
 <!ENTITY tableOrCellColor.label "Colore di sfondo tabella o cella…">
 <!ENTITY tableOrCellColor.accesskey "f">
+
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Rimuovi ancora con nome">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
+
 <!ENTITY paragraphMenu.label "Paragrafo">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Paragrafo">
@@ -144,6 +160,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "I">
 <!ENTITY paragraphPreformatCmd.label "Preformattato">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
+
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Elenco">
 <!ENTITY formatlistMenu.accesskey "E">
 <!ENTITY noneCmd.label "Nessuno">
@@ -158,11 +176,16 @@
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Elenca proprietà…">
 <!ENTITY listPropsCmd.accesskey "E">
+
 <!ENTITY ParagraphSelect.tooltip "Scegli il formato del paragrafo">
+<!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo del testo">
 <!ENTITY bodyTextCmd.accesskey "C">
+<!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Proprietà avanzate">
 <!ENTITY advancedPropertiesCmd.accesskey "P">
+
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Allinea">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Sinistra">
@@ -177,27 +200,38 @@
 <!ENTITY alignJustify.label "Giustifica">
 <!ENTITY alignJustify.accesskey "G">
 <!ENTITY alignJustify.tooltip "Giustificato">
+
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Posizionamento assoluto">
 <!ENTITY layerSendToBack.tooltip "Porta sotto">
 <!ENTITY layerBringToFront.tooltip "Porta sopra">
+
 <!ENTITY increaseIndent.label "Aumenta indentazione">
 <!ENTITY increaseIndent.accesskey "u">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Diminuisci indentazione">
 <!ENTITY decreaseIndent.accesskey "z">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY colorsAndBackground.label "Sfondo e colori pagina…">
 <!ENTITY colorsAndBackground.accesskey "f">
+
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabella">
 <!ENTITY tableMenu.accesskey "b">
+
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Seleziona">
 <!ENTITY tableSelectMenu.accesskey "S">
+
 <!ENTITY tableSelectMenu2.label "Selezione tabella">
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Inserisci tabella">
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Elimina tabella">
 <!ENTITY tableDeleteMenu2.accesskey "b">
+
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Inserisci">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabella">
@@ -227,8 +261,15 @@
 <!ENTITY tableCellBefore.accesskey "d">
 <!ENTITY tableCellAfter.label "Cella successiva">
 <!ENTITY tableCellAfter.accesskey "u">
+<!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Elimina">
 <!ENTITY tableDeleteMenu.accesskey "E">
+
+<!-- text for "Join Cells" is in editor.properties
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
 <!ENTITY tableJoinCells.label "U">
 <!ENTITY tableJoinCells.accesskey "U">
 <!ENTITY tableSplitCell.label "Dividi cella">
@@ -237,6 +278,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Proprietà tabella…">
 <!ENTITY tableProperties.accesskey "P">
+
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
 <!ENTITY cutToolbarCmd.tooltip "Taglia">
@@ -262,6 +305,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Scegli il colore dello sfondo">
 <!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Scegli il colore di selezione testo">
+
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Imposta grandezza carattere">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuisci la dimensione del carattere">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumenta la dimensione del carattere">
@@ -278,17 +323,21 @@
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
 <!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
-<!ENTITY structSelect.label "Seleziona">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "Rimuovi tag">
-<!ENTITY structRemoveTag.accesskey "R">
-<!ENTITY structChangeTag.label "Modifica tag">
-<!ENTITY structChangeTag.accesskey "M">
-<!ENTITY insertTOC.label "Inserisci">
-<!ENTITY insertTOC.accesskey "I">
-<!ENTITY updateTOC.label "Aggiorna">
-<!ENTITY updateTOC.accesskey "A">
-<!ENTITY removeTOC.label "Elimina">
-<!ENTITY removeTOC.accesskey "E">
-<!ENTITY tocMenu.label "Indice argomenti…">
-<!ENTITY tocMenu.accesskey "n">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Seleziona">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "Rimuovi tag">
+<!ENTITY structRemoveTag.accesskey  "R">
+<!ENTITY structChangeTag.label      "Modifica tag">
+<!ENTITY structChangeTag.accesskey  "M">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Inserisci">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Aggiorna">
+<!ENTITY updateTOC.accesskey      "A">
+<!ENTITY removeTOC.label          "Elimina">
+<!ENTITY removeTOC.accesskey      "E">
+<!ENTITY tocMenu.label            "Indice argomenti…">
+<!ENTITY tocMenu.accesskey        "n">
