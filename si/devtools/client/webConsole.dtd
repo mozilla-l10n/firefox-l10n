@@ -57,15 +57,22 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "සේවාදායකය">
+<!ENTITY btnServerLogging.tooltip     "Log messages received from a web server">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "දෝෂ">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Warnings">
+<!ENTITY btnServerLog                 "Log">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Add-on or Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "ප්‍රතිදානය පෙරන්න">
 <!ENTITY btnClear.label        "හිස් කරන්න (r)">
@@ -88,3 +95,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Open in Variables View">
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "Store as global variable">
+<!ENTITY storeAsGlobalVar.accesskey "S">
