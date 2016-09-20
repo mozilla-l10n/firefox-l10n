@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "د">
 <!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; گزارش‌های خرابی را برای کمک به &vendorShortName; ارسال می‌کند تا مرورگر شما امن تر و پایدارتر شود.">
-<!ENTITY enableCrashReporter.label       "فعالسازی گزارش خرابی">
-<!ENTITY enableCrashReporter.accesskey   "خ">
-<!ENTITY crashReporterLearnMore.label    "بیشتر بدانید">
+
+
+<!ENTITY crashReporterLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
 
