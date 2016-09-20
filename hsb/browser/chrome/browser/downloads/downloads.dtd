@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "w">
 <!ENTITY cmd.removeFromHistory.label      "Z historije wotstronić">
 <!ENTITY cmd.removeFromHistory.accesskey  "h">
-<!ENTITY cmd.clearList.label              "Lisćinu wuprózdnić">
-<!ENTITY cmd.clearList.accesskey          "L">
+
+
 <!ENTITY cmd.clearDownloads.label         "Sćehnjenja zhašeć">
 <!ENTITY cmd.clearDownloads.accesskey     "z">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Wšě sćehnjenja pokazać">
 <!ENTITY downloadsHistory.accesskey       "W">
+
 
 <!ENTITY clearDownloadsButton.label       "Sćehnjenja zhašeć">
 <!ENTITY clearDownloadsButton.tooltip     "Zhaša skónčene, přetorhnjene a njeporadźene sćehnjenja">

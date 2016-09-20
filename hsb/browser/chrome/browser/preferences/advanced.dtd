@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalše informacije">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; posrědkuje rozprawy spadow, zo by &vendorShortName; pomhał, waš wobhladowak stabilniši a wěsćiši činił">
-<!ENTITY enableCrashReporter.label       "Rozprawjak spadow zmóžnić">
-<!ENTITY enableCrashReporter.accesskey   "R">
-<!ENTITY crashReporterLearnMore.label    "Dalše informacije">
+
+
+<!ENTITY crashReporterLearnMore.label     "Dalše informacije">
 
 <!ENTITY networkTab.label                "Syć">
 

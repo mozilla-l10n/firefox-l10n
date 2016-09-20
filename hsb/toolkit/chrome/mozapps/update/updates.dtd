@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Dźělna aktualizacija njeda so nałožić. &brandShortName; spyta hišće raz, zo by dospołnu aktualizaciju sćahnył.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; njemóže zwěsćić, hač aktualizacija k dispoziciji steji. Prošu zawěsćće, zo maće najnowšu wersiju &brandShortName; z:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Něšto wobara &brandShortName; wěstemu aktualizowanju. Prošu zawěsćće, zo maće najnowšu wersiju &brandShortName; z:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Něšto pospytuje &brandShortName; k akceptowanju njewěsteje aktualizacije zawjesć. Prošu stajće so ze swojim syćowym poskitkowarjom do zwiska a pytajće pomoc.">
 
 <!ENTITY  finishedPage.title              "Aktualizacija hotowa za instalaciju">
 <!ENTITY  finishedPage.text               "Aktualizacija budźe so přichodny raz startować, hdyž &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować abo dale dźěłać a pozdźišo znowa startować.">

@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastajenja zwiskow">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Proksy za přistup na internet konfigurować">
 <!ENTITY  noProxyTypeRadio.label        "Žadyn proksy">
