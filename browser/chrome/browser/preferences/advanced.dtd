@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন">
 
-<!ENTITY crashReporterDesc.label         "আপনার ব্রাউজারকে আরো স্থিতিশীল এবং নিরাপদ করে তুলতে সাহাজ্য করার জন্য &brandShortName; ক্র্যাশ প্রতিবেদনগুলি &vendorShortName;-র কাছে জমা দেয়">
-<!ENTITY enableCrashReporter.label       "ক্র্যাশ প্রতিবেদক সক্ষম করুন">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "আরও জানুন">
+
+
+<!ENTITY crashReporterLearnMore.label     "আরও জানুন">
 
 <!ENTITY networkTab.label                "নেটওয়ার্ক">
 
