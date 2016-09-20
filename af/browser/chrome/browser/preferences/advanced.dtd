@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Meer inligting">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; dien omvalverslae in om &vendorShortName; te help om die blaaier meer stabiel en veilig te maak">
-<!ENTITY enableCrashReporter.label       "Aktiveer omvalrapporteerder">
-<!ENTITY enableCrashReporter.accesskey   "o">
-<!ENTITY crashReporterLearnMore.label    "Meer inligting">
+
+
+<!ENTITY crashReporterLearnMore.label     "Meer inligting">
 
 <!ENTITY networkTab.label                "Netwerk">
 

@@ -58,8 +58,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "s">
 <!ENTITY cmd.removeFromHistory.label      "Verwyder uit geskiedenis">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Maak lys skoon">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Maak aflaailys skoon">
 <!ENTITY cmd.clearDownloads.accesskey     "M">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "Wys alle aflaaie">
 <!ENTITY downloadsHistory.accesskey       "s">
+
 
 <!ENTITY clearDownloadsButton.label       "Maak aflaailys skoon">
 <!ENTITY clearDownloadsButton.tooltip     "Verwyder voltooide, gekanselleerde en mislukte aflaaie">

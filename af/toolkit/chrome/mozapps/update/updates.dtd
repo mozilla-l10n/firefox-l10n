@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Die gedeeltelike bywerking kon nie toegepas word nie. &brandShortName; sal weer probeer deur 'n volledige bywerking af te laai.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan nie bepaal of daar 'n bywerking is nie. Kontroleer of jy die jongste weergawe van &brandShortName; het by:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Iets verhoed &brandShortName; om beveilig by te werk. Kontroleer of jy die jongste weergawe van &brandShortName; het by:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Iets probeer &brandShortName; om die bos lei om 'n onbeveiligde bywerking te aanvaar. Kontak gerus jou netwerkverskaffer en kry hulp daarvoor.">
 
 <!ENTITY  finishedPage.title              "Bywerking gereed om geïnstalleer te word">
 <!ENTITY  finishedPage.text               "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
