@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Arventennoù kennaskañ">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Kefluniañ proksioù evit haeziñ Internet">
 <!ENTITY  noProxyTypeRadio.label        "Proksi ebet">

@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "i">
 <!ENTITY cmd.removeFromHistory.label      "Lemel diwar ar roll istor">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Skarzhañ ar roll">
-<!ENTITY cmd.clearList.accesskey          "S">
+
+
 <!ENTITY cmd.clearDownloads.label         "Skarzhañ roll ar pellgargadurioù">
 <!ENTITY cmd.clearDownloads.accesskey     "p">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Diskouez an holl bellgargadurioù">
 <!ENTITY downloadsHistory.accesskey       "k">
+
 
 <!ENTITY clearDownloadsButton.label       "Skarzhañ roll ar pellgargadurioù">
 <!ENTITY clearDownloadsButton.tooltip     "Skarzhet eo bet ar pellgargadurioù peurechu, nullet ha c'hwitet">

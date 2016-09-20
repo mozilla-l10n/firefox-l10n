@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; a dreuzkas danevelloù sac'hadenn evit skoazellañ &vendorShortName; lakaat ho merdeer da vezañ stabiloc'h ha diogeloc'h.">
-<!ENTITY enableCrashReporter.label       "Gweredekaat an daneveller sac'hadenn">
-<!ENTITY enableCrashReporter.accesskey   "d">
-<!ENTITY crashReporterLearnMore.label    "Gouzout hiroc'h">
+
+
+<!ENTITY crashReporterLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY networkTab.label                "Rouedad">
 

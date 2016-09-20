@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "N'hall ket bezañ arloet an hizivadur darnel. Klasket e vo en-dro gant &brandShortName; pellgargañ un hizivadur klok.">
 
 <!ENTITY  genericBackgroundError.label    "N'eo ket gouest &brandShortName; da c'houzout hag-eñ ez eus un hizivadenn hegerz. Bezit sur hoc'h eus an handelv diwezhañ eus &brandShortName; digant :">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Emañ un dra bennak o virout &brandShortName; ouzh hizivaat en diogelroez (diarvar). Kit da wiriañ hoc'h eus an handelv diwezhañ eus &brandShortName; digant :">
-<!ENTITY  errorCertAttrHasUpdate.label    "Emañ un dra bennak o klask touellañ &brandShortName; a-benn ma vo degemeret un hizivadenn disur. Kit e darempred gant ho pourchaser rouedad ha goulennit skoazell.">
 
 <!ENTITY  finishedPage.title              "An hizivadur zo prest da vezañ staliet">
 <!ENTITY  finishedPage.text               "Staliet e vo an hizivadur ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; bremañ, pe kenderc'hel gant ho labour.">
