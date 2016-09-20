@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "G">
 <!ENTITY cmd.removeFromHistory.label      "Ji Raboriyê rake">
 <!ENTITY cmd.removeFromHistory.accesskey  "r">
-<!ENTITY cmd.clearList.label              "Lîsteyê paqij bike">
-<!ENTITY cmd.clearList.accesskey          "e">
+
+
 <!ENTITY cmd.clearDownloads.label         "Jêbarkiriyan paqij bike">
 <!ENTITY cmd.clearDownloads.accesskey     "J">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Hemû jêbarkiriyan nîşan bide">
 <!ENTITY downloadsHistory.accesskey       "n">
+
 
 <!ENTITY clearDownloadsButton.label       "Jêbarkiriyan paqij bike">
 <!ENTITY clearDownloadsButton.tooltip     "Jêbarkirinên qediyayî, betalkirî û neserkeftî paqij dike">
