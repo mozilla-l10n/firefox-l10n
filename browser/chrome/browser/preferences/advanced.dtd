@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Իմանալ ավելին">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
-<!ENTITY enableCrashReporter.label       "Միացնել Վթարի Զեկույցը">
-<!ENTITY enableCrashReporter.accesskey   "Վ">
-<!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
+
+
+<!ENTITY crashReporterLearnMore.label     "Իմանալ ավելին">
 
 <!ENTITY networkTab.label                "Ցանցը">
 
