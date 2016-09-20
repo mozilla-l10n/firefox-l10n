@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Ukloni iz historije">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Očisti listu">
-<!ENTITY cmd.clearList.accesskey          "i">
+
+
 <!ENTITY cmd.clearDownloads.label         "Obriši preuzimanja">
 <!ENTITY cmd.clearDownloads.accesskey     "p">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Prikaži sva preuzimanja">
 <!ENTITY downloadsHistory.accesskey       "s">
+
 
 <!ENTITY clearDownloadsButton.label       "Obriši preuzimanja">
 <!ENTITY clearDownloadsButton.tooltip     "Briše završena, otkazana i neuspješna preuzimanja">

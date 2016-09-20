@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Parcijalna nadogradnja nije mogla biti primjenjena. &brandShortName; će pokušati ponovo preuzimanjem cjelokupnog updatea.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne može utvrditi da li postoji dostupan update. Molimo da provjerite da li imate posljednju verziju &brandShortName;-a sa:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Nešto spriječava &brandShortName; da izvrši update na siguran način. Molimo da provjerite da li imate posljednju verziju &brandShortName;-a sa:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Nešto pokušava prevariti &brandShortName; da prihvati nesiguran update. Molimo da kontaktirate mrežnog provajdera i zatražite pomoć.">
 
 <!ENTITY  finishedPage.title              "Update spreman za instalaciju">
 <!ENTITY  finishedPage.text               "Update će biti instaliran sljedeći put kada se &brandShortName; pokrene. Vi možete restartovati &brandShortName; odmah, ili nastaviti sa radom i restartovati kasnije.">
