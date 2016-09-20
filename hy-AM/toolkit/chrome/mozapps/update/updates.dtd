@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Անհնար է կիրառել մասնակի Թարմացումը: &brandShortName;-ն այժմ կփորձի բեռնավորել ամբողջական Թարմացումը:">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; չի կարողանում ստուգել արդյոք կա թարմացում: Խնդրեմ ստուգեք և համոզվեք որ դուք օգտագործում էք &brandShortName;-ի վերջին տարբերակը:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "ԻՆչ որ բան խոչնդոտում է &brandShortName;-ին անվտանգ թարմացումից: Համոզվեք որ դուք ունեք &brandShortName;-ի ամենավերջին տարբերակը՝ ">
-<!ENTITY  errorCertAttrHasUpdate.label    "Ինչ որ բան փորձում է խաբել &brandShortName; որ այն ընդունի վտանգավոր թարմացեւմ: Օգնության համար կապնվեք Ձեր ցանցային ադմինիստրատորի հետ:">
 
 <!ENTITY  finishedPage.title              "Թարմացումը Պատրաստ է Տեղադրման">
 <!ENTITY  finishedPage.text               "Թարմացումը կտեղադրվի &brandShortName;-ը հաջորդ անգամ բացելիս: Դուք կարող եք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը և վերամեկնարկել ավելի ուշ:">

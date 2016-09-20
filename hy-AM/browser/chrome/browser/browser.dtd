@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Դիտել կայքի տեղեկությունը">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Դիտել ծանուցումը">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Դիտել տեղադրության հարցումը">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Դիտել հավելումը տեղադրելու ուղերձը">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Դիտել հավելվածի անցանց պահեստի ուղերձը">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Կառավարել մուտքի ձեր տեղեկությունը">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Ստուգեք, թե արդյոք ցանկանում եք պահել գաղտնաբառը">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Կառավարել բաղադրիչի օգտագործումը այս էջում">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Կառավարել խցիկի և/կամ բարձրախոսի համաօգտագործումը այս կայքի հետ">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Դուք համաօգտագործում եք ձեր խցիկը և/կամ բարձրախոսը այս կայքի հետ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Կառավարել ձեր բարձրախոսի համաօգտագործումը այս կայքի հետ">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Դուք համաօգտագործում եք ձեր բարձրախոսը այս կայքի հետ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Կառավարել պատուհանների կամ էկրանի համաօգտագործումը այս կայքի հետ">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Դուք համաօգտագործում եք պատուհան կամ ձեր էկրանը այս կայքի հետ">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Փոխել, թե արդյոք կայքը կարող է թաքցնել նշիչը">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Դիտել ծառայությունը տեղադրելու ուղերձը">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Թարգմանել այս էջը">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Կառավարել էջի թարգմանությունը">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Կառավարել DRM ծրագրաշարի օգտագործումը">
+
+
+
+
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառավարել խցիկի և/կամ բարձրախոսի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառավարել ձեր բարձրախոսի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Կառավարել պատուհանների կամ էկրանի համաօգտագործումը այս կայքի հետ">
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Թարգմանել այս էջը">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Կառավարել էջի թարգմանությունը">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Կառավարել DRM ծրագրաշարի օգտագործումը">
+
+
+
+
+
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
+
 
 <!ENTITY searchItem.title             "Որոնում">
 <!-- Toolbar items --> 
@@ -424,12 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Որոնման հարցում">
-<!ENTITY contentSearchSubmit.label    "Որոնում">
+<!ENTITY contentSearchSubmit.tooltip  "Որոնում">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -455,6 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Փոխել որոնման կարգավորումները">
+
 
 <!ENTITY searchInNewTab.label         "Որոնել Նոր Ներդիրում">
 <!ENTITY searchInNewTab.accesskey     "Ն">
@@ -733,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Իրավունքներ">
 <!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -776,21 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Վ">
 <!ENTITY syncToolbarButton.label      "Սինք">
 
-<!ENTITY socialToolbar.title        "Սոցիալական Գործիքաշերտի կոճակը">
-
-<!ENTITY social.ok.label       "Լավ">
-<!ENTITY social.ok.accesskey   "Լ">
-
-<!ENTITY social.toggleSidebar.label "Ցուցադրել կողային վահանակը">
-<!ENTITY social.toggleSidebar.accesskey "կ">
-
 <!ENTITY social.addons.label "Կառավարել ծառայությունները…">
-
-<!ENTITY social.toggleNotifications.label "Ցուցադրել աշխատասեղանի ծանուցումները">
-<!ENTITY social.toggleNotifications.accesskey "ծ">
-
-<!ENTITY social.learnMore.label "Իմանալ ավելին...">
-<!ENTITY social.learnMore.accesskey "Ի">
 
 <!ENTITY social.directory.label "Ակտիվացումների գրացուցակ">
 <!ENTITY social.directory.text "Կարող եք ակտիվացնել այլ սարքեր այստեղից:">
@@ -811,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Անցնել զրույցներին">
-<!ENTITY social.chatBar.accesskey "ց">
-
-<!ENTITY social.markpageMenu.accesskey "է">
-<!ENTITY social.markpageMenu.label "Պահպանել էջը...">
-<!ENTITY social.marklinkMenu.accesskey "հ">
-<!ENTITY social.marklinkMenu.label "Պահպանել հղումը...">
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
@@ -854,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանությունը">
 <!ENTITY trackingContentBlocked.block.accesskey "Մ">
 <!ENTITY trackingContentBlocked.disabled.message "Հետագծման պաշտպանությունը անջատված է">
-
-<!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
 <!ENTITY pluginNotification.showAll.accesskey "Ց">
