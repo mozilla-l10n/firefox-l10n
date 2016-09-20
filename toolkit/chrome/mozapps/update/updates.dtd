@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "आंशिक अद्यतन लागू नहि कएल जाए सकल. &brandShortName; एकटा पूरा अद्यतनक डाउनलोड सँ एकर कोशिश करताह.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely. Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY  finishedPage.title              "अद्यतन संस्थापन क लेल तैआर">
 <!ENTITY  finishedPage.text               "ई अद्यतन केँ अगिला बेर तखन संस्थापित कएल जएताह जखन &brandShortName; आरंभ होइछ.अहाँ &brandShortName; केँ आब फेर आरंभ कए सकैत अछि, अथवा काम कएनाइ जारी राखबाक बाद मे फेर आरंभ कए सकैत अछि.">

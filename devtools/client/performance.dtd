@@ -8,15 +8,10 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
-  -  the labels shown on the main recording buttons to start/stop recording. -->
-
-
-
-<!ENTITY performanceUI.startRecording "रिकॉर्डिंग प्रदर्शन शुरू करू">
-<!ENTITY performanceUI.stopRecording  "रिकॉर्डिंग प्रदर्शन बन्न करू">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+
 
 <!ENTITY performanceUI.bufferStatusTooltip "प्रोफाइलरक एकटा परिपत्र बफर मे नमूना जमा करैत अछि, आओर जखन बफर एकटा रिकॉर्डिंग क सीमा तक पहुँच जाएत अछि, नबका नमूना रिकॉर्डिंग क शुरुआत स नमूनाक ऊपरे लिखनाय शुरू कए दैत अछि।">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -42,18 +37,6 @@
   -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "लोड कए रहल अछि…">
-<!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
-  -  on a button that starts a new profile. -->
-
-<!ENTITY performanceUI.recordButton.tooltip "एकटा रिकॉर्डिंग प्रदर्शनक रिकॉर्डिंग स्थिति कए बान्हू.">
-<!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
-  -  on a button that opens a dialog to import a saved profile data file. -->
-
-<!ENTITY performanceUI.importButton "आयात  करू…">
-<!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
-  -  on a button that removes all the recordings. -->
-
-<!ENTITY performanceUI.clearButton "साफ  करू ">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
