@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; akan menghentikan menyegerak dengan akaun anda, tetapi tidak akan menghapus sebarang data pelayaran anda di dalam peranti ini.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Akaun Firefox &formatS; disingkir.'>
+<!ENTITY fxaccount_remove_account_toast 'Akaun Firefox &formatS; dialih keluar.'>
 
 
 <!-- Localization note: this is the name shown by the Android system
@@ -114,6 +114,8 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; tidak tersambung'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sentuh untuk daftar masuk sebagai &formatS;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sentuh untuk daftar masuk sebagai &formatS;'>
