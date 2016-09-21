@@ -30,7 +30,7 @@
 <!ENTITY enableTelemetryData.label "Compartir datos adicionales (i.e., Telemetry)">
 <!ENTITY enableTelemetryData.accesskey "C">
 <!ENTITY telemetryLearnMore.label "Saber más">
-<!ENTITY crashReporterDesc2.label "Los informes de fallos ayudan a &brandShortName; a solucionar problemas y a hacer su navegador más estable y seguro">
+<!ENTITY crashReporterDesc2.label "Los informes de fallos ayudan a &vendorShortName; a solucionar problemas y a hacer su navegador más estable y seguro">
 <!ENTITY alwaysSubmitCrashReports.label "Permitir a &brandShortName; enviar informes de fallos registrados en nombre suyo">
 <!ENTITY alwaysSubmitCrashReports.accesskey "h">
 <!ENTITY crashReporterLearnMore.label "Saber más">
