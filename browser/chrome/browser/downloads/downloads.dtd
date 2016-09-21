@@ -60,7 +60,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లంకెను నకలుతీయి">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "చరిత్ర నుండి తొలగించు (e)">
+<!ENTITY cmd.removeFromHistory.label      "చరిత్ర నుండి తొలగించు">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearDownloads.label         "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
