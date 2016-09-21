@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Inxenye yokuvuselelwa ayikwazanga ukusethsenziswa. I-&brandShortName; izozama futhi ngokulayisha ingenise ukuvuselela okuphelele.">
 
 <!ENTITY  genericBackgroundError.label    "I-&brandShortName; ayikwazi ukuthola ukuthi yingabe ukuvuselela kukhona yini. Sicela  ubenesiqiniseko sokuthi unayo inguquko yamanje ye-&brandShortName; kusuka ku:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Kunento evimbela i-&brandShortName; ukuze ivuselele ngokuvikeleleka.  Sicela ubenesiqiniseko sokuthi unenguqulo yamanje ye-&brandShortName; kusuka ku:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Kunento ezama ukhohlisa i-&brandShortName; ngokuyivumisa ukuvuselela okungavikelelanga. Sicela uxhumane nomnikeli wenethiwekhi bese ufuna usizo.">
 
 <!ENTITY  finishedPage.title              "Ukulungiswa Sekulungele Ukufakelwa">
 <!ENTITY  finishedPage.text               "Ukuvuselela kuzofakwa ngesikhathi esizayo uma i-&brandShortName; iqala. Ungaqala kabusha i-&brandShortName; manje, noma qhubeka ukusebenza bese uqala kabusha ngesikhathi esizayo.">

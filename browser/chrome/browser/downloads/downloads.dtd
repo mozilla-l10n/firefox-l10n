@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "x">
 <!ENTITY cmd.removeFromHistory.label      "Susa Emlandweni">
 <!ENTITY cmd.removeFromHistory.accesskey  "E">
-<!ENTITY cmd.clearList.label              "Sula uhlu">
-<!ENTITY cmd.clearList.accesskey          "S">
+
+
 <!ENTITY cmd.clearDownloads.label         "Susa okulayishiwe kwangeniswa">
 <!ENTITY cmd.clearDownloads.accesskey     "k">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Bonisa konke ukulanda">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "Susa Okulayishiwe kwangeniswa">
 <!ENTITY clearDownloadsButton.tooltip     "Kususa okuqediwe, okulayishwe kwangeniswa okukhanselwe nokuhlulekile">

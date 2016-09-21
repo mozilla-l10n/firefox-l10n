@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Funda okuningi">
 
-<!ENTITY crashReporterDesc.label         "I-&brandShortName; ithumela imibiko yokumahlazeka ukusiza i-&vendorShortName; ukuthi yenze ukubuka kwakho kuhlale kahle futhi kuphephe">
-<!ENTITY enableCrashReporter.label       "Nika amandla umbiko wokumahlazeka">
-<!ENTITY enableCrashReporter.accesskey   "m">
-<!ENTITY crashReporterLearnMore.label    "Funda okuningi">
+
+
+<!ENTITY crashReporterLearnMore.label     "Funda okuningi">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
