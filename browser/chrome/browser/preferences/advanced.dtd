@@ -90,7 +90,7 @@
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Automatysk fernijing:">
-<!ENTITY enableSearchUpdate.label        "Sykmasines">
+<!ENTITY enableSearchUpdate.label        "Sykmasinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "My fertelle as in website freget om gegevens te bewarjen foar offline gebrûk">
@@ -109,7 +109,7 @@
 <!ENTITY certSelection.description       "As in website in sertifikaat fereasket:">
 <!ENTITY certs.auto                      "Automatysk ien selektearje">
 <!ENTITY certs.auto.accesskey            "A">
-<!ENTITY certs.ask                       "My eltse kear freegje">
+<!ENTITY certs.ask                       "My elke kear freegje">
 <!ENTITY certs.ask.accesskey             "e">
 <!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">

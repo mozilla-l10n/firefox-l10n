@@ -93,7 +93,7 @@
 <!ENTITY cmd.disableTheme.label               "Brûk tema net mear">
 <!ENTITY cmd.disableTheme.accesskey           "B">
 <!ENTITY cmd.askToActivate.label              "Freegje om te aktivearjen">
-<!ENTITY cmd.askToActivate.tooltip            "Gerûk fan dizze add-on eltse kear freegje">
+<!ENTITY cmd.askToActivate.tooltip            "Gebrûk fan dizze add-on elke kear freegje">
 <!ENTITY cmd.alwaysActivate.label             "Altyd aktivearje">
 <!ENTITY cmd.alwaysActivate.tooltip           "Dize add-on altyd brûke">
 <!ENTITY cmd.neverActivate.label              "Nea aktivearje">

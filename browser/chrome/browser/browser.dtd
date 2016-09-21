@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
 <!ENTITY identity.connectionVerified2 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
 <!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
-<!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soenen oernommen wurde kinne.">
+<!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
@@ -710,16 +710,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Dizze side brûkt swakke befeiliging.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Jo ferbining mei dizze website is net privee. Gegevens dy't jo ferstjoere soenen troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
+<!ENTITY identity.description.insecure "Jo ferbining mei dizze website is net privee. Gegevens dy't jo ferstjoere, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
 <!ENTITY identity.description.insecureLoginForms "De oanmeldingsgegevens dy't jo op dizze side ynfiere binne net feilich en kinne oernommen wurde.">
 <!ENTITY identity.description.weakCipher "Jo ferbining mei dizze website brûkt swakke fersifering en is net privee.">
 <!ENTITY identity.description.weakCipher2 "Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
-<!ENTITY identity.description.passiveLoaded "Jo ferbining is net privee en gegevens dy't jo mei de website diele soenen troch oaren besjoen wurde kinne.">
+<!ENTITY identity.description.passiveLoaded "Jo ferbining is net privee en gegevens dy't jo mei de website diele soene troch oaren besjoen wurde kinne.">
 <!ENTITY identity.description.passiveLoaded2 "Dizze website befettet ynhâld dy't net befeilige is (lekas ôfbyldingen).">
 <!ENTITY identity.description.passiveLoaded3 "Hoewol &brandShortName; bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy't net befeilige is (lykas ôfbyldingen).">
 <!ENTITY identity.description.activeLoaded "Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.">
-<!ENTITY identity.description.activeLoaded2 "Gegevens dy't jo mei dizze website diele soenen troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
+<!ENTITY identity.description.activeLoaded2 "Gegevens dy't jo mei dizze website diele, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Beskerming ynskeakelje">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "s">
@@ -808,8 +808,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
 <!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje soenen kinne.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje soenen kinne. Jo hawwe beskerming útskeakele.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje kinne soe.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje kinne soe. Jo hawwe beskerming útskeakele.">
 <!ENTITY trackingProtection.notDetected3 "Gjin folcheleminten op dizze side detektearre.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

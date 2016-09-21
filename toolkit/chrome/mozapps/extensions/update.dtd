@@ -29,6 +29,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "W">
 
 <!ENTITY  installing.wizard.title         "Kompatibele add-ons ynstallearje">
+<!ENTITY  installing.top.label            "Downloaden en ynstallaasje fan fernijingen foar jo add-ons…">
 
 <!ENTITY  noupdates.wizard.title          "Gjin kompatibele add-ons fûn">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; kin gjin fernijingen fine foar jo
@@ -52,7 +53,7 @@
 <!ENTITY  versioninfo.wizard.title        "Kompatibiliteitskontrôle fan add-ons ">
 <!ENTITY  versioninfo.top.label           "Kontrolearjen op kompatibiliteit fan jo add-ons mei dizze
                                            ferzje fan &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Dit kin inkele minuten duorje…">
+<!ENTITY  versioninfo.waiting             "Dit kin inkelde minuten duorje…">
 
 <!ENTITY  installerrors.wizard.title      "Problemen mei it ynstallearje fan fernijingen">
 <!ENTITY  installerrors.intro.label       "&brandShortName; hat problemen mei it bywurkjen fan 

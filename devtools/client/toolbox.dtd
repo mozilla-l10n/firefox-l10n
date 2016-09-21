@@ -184,7 +184,7 @@
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.enablePersistentLogs.label    "Oanhâldende registraasjes ynskeakelje">
-<!ENTITY options.enablePersistentLogs.tooltip  "As jo dizze opsje ynskeakelje sil de Web Console en Net Monitor de output net wiskje eltse kear as jo navigearje nei in nije side">
+<!ENTITY options.enablePersistentLogs.tooltip  "As jo dizze opsje ynskeakelje sil de Web Console en Net Monitor de output net wiskje elke kear as jo navigearje nei in nije side">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
