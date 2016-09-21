@@ -62,7 +62,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "从历史记录中移除">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "清除预览面板">
+<!ENTITY cmd.clearList2.label             "清空预览面板">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "清除下载记录">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
