@@ -6,3 +6,4 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Log masuk">
 <!ENTITY aboutLogins.update                      "Mengemaskini">
+<!ENTITY aboutLogins.emptyLoginText              "Pastikan log masuk anda selamat">
