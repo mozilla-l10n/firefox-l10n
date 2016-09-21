@@ -142,7 +142,7 @@
 <!ENTITY attachVCard.label "Persoanlike visitekaart (vCard) taheakje">
 <!ENTITY attachVCard.accesskey "P">
 
-<!ENTITY returnReceiptMenu.label "Lêsbefestiging">
+<!ENTITY returnReceiptMenu.label "Lêsbefêstiging">
 <!ENTITY returnReceiptMenu.accesskey "L">
 <!ENTITY dsnMenu.label "Ofleversteatnotifikaasje">
 <!ENTITY dsnMenu.accesskey "A">
