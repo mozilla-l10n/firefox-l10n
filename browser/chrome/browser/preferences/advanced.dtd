@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
-<!ENTITY crashReporterDesc.label         "&vendorShortName; உங்கள் உலாவியை மேலும் நிலைத்தன்மை கொண்டதாகவும் பாதுகாப்பானதாகவும் மாற்றுவதற்காக &brandShortName;  செயலிழப்பு அறிக்கைகளை சமர்ப்பிக்கும்">
-<!ENTITY enableCrashReporter.label       "செயலிழப்பு அறிக்கையாளரைச் செயல்படுத்தவும்">
-<!ENTITY enableCrashReporter.accesskey   "ச">
-<!ENTITY crashReporterLearnMore.label    "மேலும் அறிய">
+
+
+<!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
 
 <!ENTITY networkTab.label                "பிணையம்">
 

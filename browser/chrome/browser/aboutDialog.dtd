@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName; பற்றி">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
@@ -10,10 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "புதுப்பித்தல்களுக்கு சரிபார்க்கவும்">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ப">
-<!ENTITY update.updateButton.label2                "புதுப்பிக்க &brandShortName; மறுதுவக்கவும்">
+<!ENTITY update.updateButton.label2               "புதுப்பிக்க &brandShortName; மறுதுவக்கவும்">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "புதுப்பித்தலை செயல்படுத்து…">
-<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
