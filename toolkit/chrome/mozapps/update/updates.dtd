@@ -1,21 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  updateWizard.title              "Kemaskinian Perisian">
+<!ENTITY  updateWizard.title              "Kemas kini Perisian">
 
-<!ENTITY  checking.title                  "Memeriksa Kemaskinian">
+<!ENTITY  checking.title                  "Menyemak Kemas kini">
 <!ENTITY  updateCheck.label               "Mencari versi &brandShortName; yang lebih baru">
 
-<!ENTITY  noupdatesfound.title            "Tiada Kemaskinian Ditemui">
+<!ENTITY  noupdatesfound.title            "Tiada Kemas kini Ditemui">
 <!ENTITY  noupdatesautoenabled.intro      "Tiada penambahbaikan yang boleh digunakan. &brandShortName; akan memeriksa  secara berkala bagi penambahbaikan.">
 <!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan  &brandShortName;'s penyemakan penambahbaikan automatik">
 
-<!ENTITY  manualUpdate.title              "Kemaskini tidak boleh dilakukan">
+<!ENTITY  manualUpdate.title              "Kemas kini Gagal">
 <!ENTITY  manualUpdate.desc               "Kemas kini keselamatan dan kestabilan sudah tersedia, tetapi anda
                                            tidak ada izin sistem yang diperlukan untuk memasangnya. Sila hubungi
                                            pentadbir sistem anda, atau cuba lagi dari akaun yang ada izin untuk
                                            memasang perisian ini dalam komputer ini.">
-<!ENTITY  manualUpdate.space.desc         "Satu kemaskini keselamatan dan kestabilan yang disarankan sudah tersedia, tetapi anda tidak mempunya ruang yang cukup untuk memasangnya.">
+<!ENTITY  manualUpdate.space.desc         "Kemas kini keselamatan dan kestabilan tersedia tetapi anda
+                                           tidak ada cukup ruang untuk memasangnya.">
 <!ENTITY  manualUpdateGetMsg.label        "Anda sentiasa boleh mendapatkan versi terkini &brandShortName; di:">
 
 <!ENTITY  unsupported.title               "Sistem Tak Disokong">

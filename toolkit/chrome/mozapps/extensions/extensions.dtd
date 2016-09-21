@@ -11,7 +11,7 @@
 
 <!ENTITY loading.label                        "Memuatkan...">
 <!ENTITY listEmpty.installed.label            "Anda tidak mempunyai add-ons jenis ini yang dipasang">
-<!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
+<!ENTITY listEmpty.availableUpdates.label     "Tiada kemas kini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat mencari add-ons yang sepadan">
@@ -64,23 +64,24 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Set semula Semua Add-ons Untuk Kemas kini Manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "n">
 <!ENTITY updates.updating.label               "Mengemaskini add-on">
-<!ENTITY updates.installed.label              "Add-on anda telah dikemaskinikan.">
-<!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
+<!ENTITY updates.installed.label              "Add-ons anda telah dikemas kini.">
+<!ENTITY updates.downloaded.label             "Kemas kini add-on anda telah dimuat turun.">
 <!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
 <!ENTITY updates.noneFound.label              "Tiada kemas kini dijumpai">
 <!ENTITY updates.manualUpdatesFound.label     "Papar Kemas kini Tersedia">
 <!ENTITY updates.updateSelected.label         "Pasang Kemas kini">
-<!ENTITY updates.updateSelected.tooltip       "Pasangkan kemaskini yang sedia ada di dalam senarai ini">
+<!ENTITY updates.updateSelected.tooltip       "Pasang kemas kini yang tersedia di dalam senarai ini">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Papar Maklumat Tambahan">
 <!ENTITY cmd.showDetails.accesskey            "p">
-<!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
+<!ENTITY cmd.findUpdates.label                "Cari Kemas kini">
 <!ENTITY cmd.findUpdates.accesskey            "k">
 <!ENTITY cmd.preferencesWin.label             "Pilihan">
+<!ENTITY cmd.preferencesWin.accesskey         "p">
 <!ENTITY cmd.preferencesUnix.label            "Keutamaan">
 <!ENTITY cmd.preferencesUnix.accesskey        "m">
-<!ENTITY cmd.about.label                      "Mengenai">
+<!ENTITY cmd.about.label                      "Perihal">
 <!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Dayakan">
@@ -126,19 +127,19 @@
 <!ENTITY detail.version.label                 "Versi">
 <!ENTITY detail.lastupdated.label             "Kemas kini Terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.homepage.label                "Halaman utama">
 <!ENTITY detail.numberOfDownloads.label       "Muat Turun">
 
 <!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.">
 
-<!ENTITY detail.updateType                    "Kemaskini automatik">
+<!ENTITY detail.updateType                    "Kemas kini automatik">
 <!ENTITY detail.updateDefault.label           "Piawai">
 <!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik hanya jika itulah piawai">
 <!ENTITY detail.updateAutomatic.label         "Hidupkan">
 <!ENTITY detail.updateAutomatic.tooltip       "Pasang kemas kini secara automatik">
 <!ENTITY detail.updateManual.label            "Matikan">
 <!ENTITY detail.updateManual.tooltip          "Jangan pasan kemas kini secara automatik">
-<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.home                          "Halaman utama">
 <!ENTITY detail.repository                    "Profil add-on">
 <!ENTITY detail.size                          "Saiz">
 
@@ -172,12 +173,12 @@
 <!ENTITY sort.price.tooltip                   "Susun mengikut harga">
 
 <!ENTITY search.filter2.label                 "Cari:">
-<!ENTITY search.filter2.installed.label       "Add-on saya">
+<!ENTITY search.filter2.installed.label       "Add-ons saya">
 <!ENTITY search.filter2.installed.tooltip     "Papar add-ons terpasang">
-<!ENTITY search.filter2.available.label       "Add-ons yang didapati">
+<!ENTITY search.filter2.available.label       "Add-ons Tersedia">
 <!ENTITY search.filter2.available.tooltip     "Papar add-ons yang sedia untuk dipasang">
 
-<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.homepage                       "Halaman utama">
 <!ENTITY addon.details.label                  "Selanjutnya">
 <!ENTITY addon.details.tooltip                "Papar butiran lanjut add-on ini">
 <!ENTITY addon.unknownDate                    "Tidak diketahui">
@@ -194,17 +195,17 @@
 <!ENTITY addon.undoAction.tooltip             "Membatalkan tindakan ini">
 <!ENTITY addon.undoRemove.label               "Kembali Asal">
 <!ENTITY addon.undoRemove.tooltip             "Kekalkan pemasangan add-on ini">
-<!ENTITY addon.restartNow.label               "Mulakan semula sekarang">
+<!ENTITY addon.restartNow.label               "Mula semula sekarang">
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang add-on ini">
-<!ENTITY addon.updateNow.label                "Kemaskini Sekarang">
+<!ENTITY addon.updateNow.label                "Kemas kini Sekarang">
 <!ENTITY addon.updateNow.tooltip              "Pasang kemas kini bagi add-on ini">
 <!ENTITY addon.includeUpdate.label            "Termasuk dalam Kemas kini">
 <!ENTITY addon.updateAvailable.label          "Kemas kini didapati">
 <!ENTITY addon.checkingForUpdates.label       "Menyemak kemas kini…">
 <!ENTITY addon.releaseNotes.label             "Nota Pelepasan:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, namun terdapat satu ralat memuatkan nota pelepasan.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada ralat memuatkan nota pelepasan.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
 
@@ -228,7 +229,7 @@
 
 <!ENTITY setting.learnmore "Ketahui Selanjutnya…">
 
-<!ENTITY disabledUnsigned.heading "Beberapa add-on telah dinyahdayakan">
+<!ENTITY disabledUnsigned.heading "Beberapa add-ons telah dinyahdayakan">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
