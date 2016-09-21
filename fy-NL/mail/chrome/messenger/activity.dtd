@@ -8,7 +8,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                   "Aktiviteitebehearder">
+<!ENTITY activity.title                  "Aktiviteitebehearder">
 
 <!ENTITY cmd.pause.label                  "Pausearje">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -18,7 +18,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.undo.label                   "Ungedien meitsje">
 <!ENTITY cmd.undo.accesskey               "U">
-<!ENTITY cmd.recover.label                "Werstelle">
+<!ENTITY cmd.recover.label                "Werom bringe">
 <!ENTITY cmd.recover.accesskey            "W">
 <!ENTITY cmd.retry.label                  "Opnij">
 <!ENTITY cmd.retry.accesskey              "O">
