@@ -13,11 +13,11 @@
                                            &brandShortName; syn automatyske fernijingskontrole yn.">
 
 <!ENTITY  manualUpdate.title              "Net yn steat om te fernijen">
-<!ENTITY  manualUpdate.desc               "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
+<!ENTITY  manualUpdate.desc               "In oanrekommandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim kontakt op mei jo
                                            systeembehearder, of probearje it nochris mei in account dy't wol de rjochten hat om
                                            programma's te ynstallearjen op dizze kompjûter.">
-<!ENTITY  manualUpdate.space.desc         "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
+<!ENTITY  manualUpdate.space.desc         "In oanrekommandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net genôch skiifromte om it te ynstallearjen.">
 <!ENTITY  manualUpdateGetMsg.label        "Jo kinne altyd de lêste ferzje fan &brandShortName; krije fan:">
 

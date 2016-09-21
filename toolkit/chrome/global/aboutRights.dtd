@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "oer:rjochten">
@@ -10,7 +9,7 @@
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
@@ -61,7 +60,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Utskeakeljen fan de funksje Feilich sneupjen wurdt net oanrikkemandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:">
+<!ENTITY rights.safebrowsing-b "Utskeakeljen fan de funksje Feilich sneupjen wurdt net oanrekommandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:">
 <!ENTITY rights.safebrowsing-term1 "Iepenje de applikaasjeopsjes">
 <!ENTITY rights.safebrowsing-term2 "Selektearje de seksje Befeiliging">
 <!ENTITY rights2.safebrowsing-term3 "Finkje de opsjes foar ‘&enableSafeBrowsing.label;’ út">
@@ -69,7 +68,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Lokaasjebewust sneupe: ">
-<!ENTITY rights.locationawarebrowsing-b "is altyd opt-yn.  Lokaasje-ynformaasje wurdt noait ferstjoerd sûnder jo tastimming.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:">
+<!ENTITY rights.locationawarebrowsing-b "is altyd opt-yn.  Lokaasje-ynformaasje wurdt nea ferstjoerd sûnder jo tastimming.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:">
 <!ENTITY rights.locationawarebrowsing-term1a "Typ yn de adresbalke ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Typ geo.enabled">

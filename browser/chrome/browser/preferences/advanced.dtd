@@ -76,11 +76,11 @@
 <!ENTITY updateTab.label                 "Fernijing">
 
 <!ENTITY updateApp.label                 "&brandShortName;-fernijingen:">
-<!ENTITY updateAuto1.label               "Fernijingen automatysk ynstallearje (oanrikkemandearre: ferbettere feilichheid)">
+<!ENTITY updateAuto1.label               "Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)">
 <!ENTITY updateAuto1.accesskey           "F">
 <!ENTITY updateCheck.label               "Kontrolearje op fernijingen mar lit my kieze oft ik se ynstallearje wol">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Noait kontrolearje op fernijingen (net oanrikkemandearre: feilichheidsrisiko)">
+<!ENTITY updateManual.label              "Nea kontrolearje op fernijingen (net oanrekommandearre: feilichheidsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateHistory.label             "Fernijingsskiednis toane">

@@ -7,18 +7,18 @@
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Allinnich yn priveefinsters">
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
-<!ENTITY  trackingProtectionNever.label        "Noait">
+<!ENTITY  trackingProtectionNever.label        "Nea">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Mear ynfo">
 <!ENTITY  trackingProtectionExceptions.label   "Utsûnderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
 
-<!ENTITY tracking.label                    "Folgjen">
+<!ENTITY tracking.label                 "Folgjen">
 <!ENTITY trackingProtectionPBM5.label         "Beskerming tsjin folgjen brûke yn priveefinsters">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Mear ynfo">
-<!ENTITY changeBlockList.label          	"Blokkearlist wizigje">
-<!ENTITY changeBlockList.accesskey      	"k">
+<!ENTITY changeBlockList.label          "Blokkearlist wizigje">
+<!ENTITY changeBlockList.accesskey      "k">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -26,7 +26,7 @@
 <!ENTITY  doNotTrack.settings.label     "jo ynstellingen foar Net folgje beheare">
 <!ENTITY  doNotTrack.post.label         ".">
 
-<!ENTITY  history.label 				"Skiednis">
+<!ENTITY  history.label                 "Skiednis">
 
 <!ENTITY  locationBar.label             "Lokaasjebalke">
 
@@ -49,7 +49,7 @@
 <!ENTITY  acceptThirdParty.pre.label      "Cookies fan tredden akseptearje:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "o">
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
-<!ENTITY  acceptThirdParty.never.label    "Noait">
+<!ENTITY  acceptThirdParty.never.label    "Nea">
 <!ENTITY  acceptThirdParty.visited.label  "Fan besochte">
 
 <!ENTITY  keepUntil.label               "Bewarje oant:">
@@ -67,7 +67,7 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; sil:">
 <!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Skiednis ûnthâlde">
-<!ENTITY  historyHeader.dontremember.label "Noait skiednis ûnthâlde">
+<!ENTITY  historyHeader.dontremember.label "Nea skiednis ûnthâlde">
 <!ENTITY  historyHeader.custom.label       "Oanpaste ynstellingen brûke foar skiednis">
 <!ENTITY  historyHeader.post.label         "">
 

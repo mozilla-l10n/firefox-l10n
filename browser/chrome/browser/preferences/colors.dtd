@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Kleuren">
-<!ENTITY window.width                     "43em">
+<!ENTITY  window.width                    "43em">
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overridePageColors.label        "De kleuren opjûn troch de side oerskriuwe mei myn seleksjes hjirboppe:">
@@ -11,7 +11,7 @@
 
 <!ENTITY  overridePageColors.always.label "Altyd">
 <!ENTITY  overridePageColors.auto.label   "Allinnich by tema’s mei heech kontrast">
-<!ENTITY  overridePageColors.never.label  "Noait">
+<!ENTITY  overridePageColors.never.label  "Nea">
 
 <!ENTITY  color                           "Tekst en achtergrûn">
 <!ENTITY  textColor.label                 "Tekst:">

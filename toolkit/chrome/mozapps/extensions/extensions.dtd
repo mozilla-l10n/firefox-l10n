@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of theMozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Add-onbehearder">
@@ -96,8 +96,8 @@
 <!ENTITY cmd.askToActivate.tooltip            "Gerûk fan dizze add-on eltse kear freegje">
 <!ENTITY cmd.alwaysActivate.label             "Altyd aktivearje">
 <!ENTITY cmd.alwaysActivate.tooltip           "Dize add-on altyd brûke">
-<!ENTITY cmd.neverActivate.label              "Noait aktivearje">
-<!ENTITY cmd.neverActivate.tooltip            "Dizze add-on noait brûke">
+<!ENTITY cmd.neverActivate.label              "Nea aktivearje">
+<!ENTITY cmd.neverActivate.tooltip            "Dizze add-on nea brûke">
 <!ENTITY cmd.stateMenu.tooltip                "wizigje as dizze add-on brûkt wurdt">
 <!ENTITY cmd.installAddon.label               "Ynstallearje">
 <!ENTITY cmd.installAddon.accesskey           "Y">
@@ -115,7 +115,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Toan de útjefte-opmerkingen foar dizze fernijing">
 <!ENTITY cmd.hideReleaseNotes.label           "Ferstopje útjefte-opmerkingen">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ferstopje de útjefte-opmerkingen foar dizze fernijing">
-  
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -158,7 +158,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating2.label              		      "Wurdearring:">
+<!ENTITY rating2.label                        "Wurdearring:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
