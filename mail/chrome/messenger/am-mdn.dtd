@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title "Lêsbefestigingen">
-<!ENTITY useGlobalPrefs.label "Myn algemiene lêsbefestigingsynstellingen brûke foar dizze account">
-<!ENTITY useGlobalPrefs.accesskey "g">
-<!ENTITY useCustomPrefs.label "Lêsbefestiging oanpasse foar dizze account">
-<!ENTITY useCustomPrefs.accesskey "p">
+<!ENTITY pane.title                   "Lêsbefestigingen">
+<!ENTITY useGlobalPrefs.label         "Myn algemiene lêsbefestigingsynstellingen brûke foar dizze account">
+<!ENTITY useGlobalPrefs.accesskey     "g">
 <!ENTITY globalReceipts.label         "Algemiene ynstellingen…">
 <!ENTITY globalReceipts.accesskey     "g">
-<!ENTITY requestReceipt.label "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
-<!ENTITY requestReceipt.accesskey "t">
-<!ENTITY receiptArrive.label "As in lêsbefestiging oankomt:">
-<!ENTITY leaveIt.label "Dy yn myn Postfek YN stean litte">
-<!ENTITY leaveIt.accesskey "l">
+<!ENTITY useCustomPrefs.label         "Lêsbefestiging oanpasse foar dizze account">
+<!ENTITY useCustomPrefs.accesskey     "p">
+<!ENTITY requestReceipt.label         "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
+<!ENTITY requestReceipt.accesskey     "t">
+<!ENTITY receiptArrive.label          "As in lêsbefestiging oankomt:">
+<!ENTITY leaveIt.label                "Dy yn myn Postfek YN stean litte">
+<!ENTITY leaveIt.accesskey            "l">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label "Dy nei myn map &quot;Ferstjoerd&quot; ferpleatse">
-<!ENTITY moveToSent.accesskey "f">
-<!ENTITY requestMDN.label "As in fersyk foar in lêsbefestiging oankomt:">
-<!ENTITY returnSome.label "Yn de folgjende gefallen in lêsbefestiging stjoere">
-<!ENTITY returnSome.accesskey "o">
-<!ENTITY never.label "Noait in lêsbefestiging stjoere">
-<!ENTITY never.accesskey "s">
-<!ENTITY notInToCc.label "As ik net yn de Oan of CC fan it berjocht stean:">
-<!ENTITY notInToCc.accesskey "n">
-<!ENTITY outsideDomain.label "As de ôfstjoerder bûten myn domein is:">
-<!ENTITY outsideDomain.accesskey "b">
-<!ENTITY otherCases.label "Yn alle oare gefallen:">
-<!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "My freegje">
-<!ENTITY alwaysSend.label "Altyd ferstjoere">
-<!ENTITY neverSend.label "Noait ferstjoere">
+<!ENTITY moveToSent.label             "Dy nei myn map &quot;Ferstjoerd&quot; ferpleatse">
+<!ENTITY moveToSent.accesskey         "f">
+<!ENTITY requestMDN.label             "As in fersyk foar in lêsbefestiging oankomt:">
+<!ENTITY returnSome.label             "Yn de folgjende gefallen in lêsbefestiging stjoere">
+<!ENTITY returnSome.accesskey         "o">
+<!ENTITY never.label                  "Nea in lêsbefêstiging stjoere">
+<!ENTITY never.accesskey              "s">
+<!ENTITY notInToCc.label              "As ik net yn de Oan of CC fan it berjocht stean:">
+<!ENTITY notInToCc.accesskey          "n">
+<!ENTITY outsideDomain.label          "As de ôfstjoerder bûten myn domein is:">
+<!ENTITY outsideDomain.accesskey      "b">
+<!ENTITY otherCases.label             "Yn alle oare gefallen:">
+<!ENTITY otherCases.accesskey         "a">
+<!ENTITY askMe.label                  "My freegje">
+<!ENTITY alwaysSend.label             "Altyd ferstjoere">
+<!ENTITY neverSend.label              "Nea ferstjoere">

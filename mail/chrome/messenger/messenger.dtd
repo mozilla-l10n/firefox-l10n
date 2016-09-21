@@ -115,16 +115,16 @@
 <!ENTITY folderPropsNewsgroupCmd2.label "Nijsgroepeigenskippen">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Berjocht fuortsmite ûngedien meitsje">
-<!ENTITY redoDeleteMsgCmd.label "Berjocht fuortsmite op 'e nij útfiere">
+<!ENTITY redoDeleteMsgCmd.label "Berjocht fuortsmite opnij útfiere">
 <!ENTITY undoMoveMsgCmd.label "Berjocht ferpleatse ûngedien meitsje">
-<!ENTITY redoMoveMsgCmd.label "Berjocht ferpleatse op 'e nij útfiere">
+<!ENTITY redoMoveMsgCmd.label "Berjocht ferpleatse opnij útfiere">
 <!ENTITY undoCopyMsgCmd.label "Berjocht kopiearje ûngedien meitsje">
-<!ENTITY redoCopyMsgCmd.label "Berjocht kopiearje op 'e nij útfiere">
+<!ENTITY redoCopyMsgCmd.label "Berjocht kopiearje opnij útfiere">
 <!ENTITY undoMarkAllCmd.label "Alles markearje as lêzen ûngedien meitsje">
-<!ENTITY redoMarkAllCmd.label "Alles markearje as lêzen op 'e nij útfiere">
+<!ENTITY redoMarkAllCmd.label "Alles markearje as lêzen opnij útfiere">
 <!ENTITY undoDefaultCmd.label "Ungedien meitsje">
 <!ENTITY undoDefaultCmd.accesskey "U">
-<!ENTITY redoDefaultCmd.label "Op 'e nij útfiere">
+<!ENTITY redoDefaultCmd.label "Opnij útfiere">
 <!ENTITY redoDefaultCmd.accesskey "n">
 
 <!-- View Menu -->
@@ -272,7 +272,7 @@
 <!ENTITY findCmd.label "Yn dit berjocht sykje…">
 <!ENTITY findCmd.accesskey "Y">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Op 'e nij sykje">
+<!ENTITY findAgainCmd.label "Opnij sykje">
 <!ENTITY findAgainCmd.accesskey "O">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -375,7 +375,7 @@
 <!ENTITY copyMessageLocation.accesskey "p">
 <!ENTITY copyMsgToMenu.label "Kopiearje">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveToFolderAgain.label "Op 'e nij ferpleatse">
+<!ENTITY moveToFolderAgain.label "Opnij ferpleatse">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Petear negearje">
@@ -895,7 +895,7 @@
 <!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Stop">
 <!ENTITY stopCmd.accesskey "S">
-<!ENTITY reloadCmd.label "Op 'e nij lade">
+<!ENTITY reloadCmd.label "Opnij lade">
 <!ENTITY reloadCmd.accesskey "l">
 <!ENTITY openInBrowser.label "Yn browser iepenje">
 <!ENTITY openInBrowser.accesskey "i">

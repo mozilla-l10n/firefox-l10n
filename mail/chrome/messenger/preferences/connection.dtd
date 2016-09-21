@@ -15,7 +15,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL foar automatyske proxykonfiguraasje:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Op 'e nij lade">
+<!ENTITY  reload.label                  "Opnij lade">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY  http.accesskey                "H">

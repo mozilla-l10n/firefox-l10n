@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title 						            "Adresboek">
+<!ENTITY addressbookWindow.title                        "Adresboek">
 <!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toant allnnich kontakten nei in sykopdracht">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakten út eksterne adresboeken wurde pas nei in sykopdracht toand">
 <!-- File Menu -->
@@ -46,7 +46,7 @@
 <!ENTITY undoCmd.label                                  "Ungedien meitsje">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "U">
-<!ENTITY redoCmd.label                                  "Op 'e nij útfiere">
+<!ENTITY redoCmd.label                                  "Opnij útfiere">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "e">
 <!ENTITY cutCmd.label                                   "Knippe">
@@ -74,7 +74,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "W">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI                                 "true">
+<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label                           "Eigenskippen">
 <!ENTITY propertiesCmd2.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey                   "F">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nij kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nije list">
@@ -160,7 +160,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Wiidweidich adres sykje">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Fluch sykje">
+<!ENTITY searchItem.title "Fluch sykje">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresboek">
