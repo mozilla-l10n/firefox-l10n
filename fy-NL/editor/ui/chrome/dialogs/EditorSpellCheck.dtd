@@ -23,7 +23,7 @@
 <!ENTITY stopButton.label "Ophâlde">
 <!ENTITY stopButton.accessKey "l">
 <!ENTITY userDictionary.label "Persoanlik wurdboek:">
-<!ENTITY moreDictionaries.label "Mear wurdboeken ynlade…">
+<!ENTITY moreDictionaries.label "Mear wurdlisten downloade…">
 <!ENTITY addToUserDictionaryButton.label "Wurd tafoegje">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
 <!ENTITY editUserDictionaryButton.label "Bewurkje…">

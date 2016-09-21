@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Dizze map foar gebrûk sûnder ferbining selektearje">
 <!ENTITY offlineFolder.check.accesskey           "s">
-<!ENTITY offlineFolder.button.label              "No ynlade">
+<!ENTITY offlineFolder.button.label              "No downloade">
 <!ENTITY offlineFolder.button.accesskey          "d">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Dizze nijsgroep foar gebrûk sûnder ferbining selektearje">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "f">
-<!ENTITY offlineNewsgroup.button.label           "No ynlade">
+<!ENTITY offlineNewsgroup.button.label           "No downloade">
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
 <!ENTITY folderProps.name.label                  "Namme:">

@@ -47,7 +47,7 @@
 <!ENTITY loginInfo.label              "Oanmeldynformaasje">
 <!ENTITY siteName.label               "websitenamme:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "In bynamme om dizze publikaasjewebsite te identifisearjen (byg. ‘Mynwebsite’)">
+<!ENTITY siteName.tooltip             "In bynamme om dizze publikaasjewebsite te identisearjen (byg. ‘Mynwebsite’)">
 <!ENTITY siteUrl.label                "Publikaasjeadres (byg. ‘ftp://ftp.myisp.com/myusername’):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "It FTP://- of HTTP://-adres dat troch jo ISP- of webhostingservice jûn is">

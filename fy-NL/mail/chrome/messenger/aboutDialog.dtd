@@ -1,7 +1,7 @@
-<!ENTITY aboutDialog.title      	"Oer &brandFullName;">
+<!ENTITY aboutDialog.title          "Oer &brandFullName;">
 
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2               "Werstart &brandShortName; om te fernijen">
 <!ENTITY update.updateButton.accesskey            "W">
-<!ENTITY update.applyButtonBillboard.label        "Fernijing tapasse…">
-<!ENTITY update.applyButtonBillboard.accesskey    "F">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -52,7 +50,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Einbrûkersrjochten">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Privacybelied">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -96,7 +94,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Fernijing ynlade — ">
+<!ENTITY update.downloading.start   "Fernijing downloade — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Fernijing tapasse…">
@@ -107,4 +105,4 @@
 <!ENTITY channel.description.start  "Jo binne op dit stuit op it ">
 <!ENTITY channel.description.end    "-fernijingskanaal. ">
 
-<!ENTITY cmdCloseMac.commandKey 	"w">
+<!ENTITY cmdCloseMac.commandKey "w">
