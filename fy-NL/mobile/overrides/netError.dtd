@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Sykje</button>
     </div>
-  <li>As jo gjin inkele side lade kinne, kontrolearje dan de data- of wifi-ferbining fan jo apparaat.
+  <li>As jo gjin inkelde side lade kinne, kontrolearje dan de data- of wifi-ferbining fan jo apparaat.
       <button id='wifi'>Wifi ynskeakelje</button>
   </li>
 </ul>
@@ -75,7 +75,10 @@
 
 <!ENTITY notCached.title "Dokumint ferrûn">
 <!ENTITY notCached.longDesc "<p>It opfrege dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>As befeiligingsmaatregel freget &brandShortName; gefoelige dokuminten net automatysk opnij op.</li><li>Klik op Opnij probearje om it dokumint opnij fan de website op te freegjen.</li></ul>">
+
 <!ENTITY netOffline.title "Offline-moadus">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Probearje opnij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.
@@ -121,6 +124,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kin de proxyserver net fine">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Kontrolearje de proxyynstellingen om wis te wêzen dat se korrekt binne.</li>
@@ -163,10 +168,12 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>De side koe tydlik net beskikber of te drok wêze. Probearje letter opnij.</li>
-  <li>As jo gjin inkele side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.
+  <li>As jo gjin inkelde side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.
     <button id='wifi'>Wifi ynskeakelje</button>
   </li>
 </ul>
@@ -182,7 +189,7 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->

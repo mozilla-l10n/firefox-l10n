@@ -179,7 +179,7 @@
 <!ENTITY pref_category_datareporting "Gegevenskar">
 <!ENTITY pref_category_logins "Oanmeldingen">
 <!ENTITY pref_learn_more "Mear ynfo">
-<!ENTITY pref_category_installed_search_engines "Ynstallearre sykmasines">
+<!ENTITY pref_category_installed_search_engines "Ynstallearre sykmasinen">
 <!ENTITY pref_category_add_search_providers "Mear sykkproviders tafoegje">
 <!ENTITY pref_category_search_restore_defaults "Sykmasinen werombringe">
 <!ENTITY pref_search_restore_defaults "Standertwearden werombringe">
@@ -373,7 +373,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Automatysk ôfspylje tastean">
 <!ENTITY pref_media_autoplay_enabled_summary "Automatysk ôfspylje fan fideo’s en oare mediaynhâld troch websites beheare">
 <!ENTITY pref_zoom_force_enabled "Zoom altyd ynskeakelje">
-<!ENTITY pref_zoom_force_enabled_summary "Oerskriuwe forsearje, sadat jo eltse side zoome kinne">
+<!ENTITY pref_zoom_force_enabled_summary "Oerskriuwe forsearje, sadat jo elke side zoome kinne">
 <!ENTITY pref_voice_input "Spraakynfier">
 <!ENTITY pref_voice_input_summary2 "Spraakdiktee yn de URL-balke tastean">
 <!ENTITY pref_qrcode_enabled "QR-koadelêzer">
@@ -619,7 +619,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Selektearre apparaten net ferstoppe">
 
 <!ENTITY remote_tabs_panel_moved_title "Wêr binne myn ljepblêden bleaun?">
-<!ENTITY remote_tabs_panel_moved_desc "Wy hawwe jo ljepblêden fan oare appraten ferpleatst nei in paniel op jo startside dy’t maklik tagonklik is eltse kear as jo in nij ljepbêd iepenje.">
+<!ENTITY remote_tabs_panel_moved_desc "Wy hawwe jo ljepblêden fan oare apparaten ferpleatst nei in paniel op jo startside dy’t maklik tagonklik is elke kear as jo in nij ljepblêd iepenje.">
 <!ENTITY remote_tabs_panel_moved_link "Bring my nei myn nije paniel.">
 
 <!ENTITY pin_site_dialog_hint "Fier in sykterm yn">
