@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; wurket no yn feilige moadus, wêrtroch jo persoanlike ynstellingen, tema’s en útwreidingen tydlik útskeakele binne.">
-<!ENTITY safeModeDescription2.label       "Jo kinne alle of inkele fan dizze wizigingen permanint meitsje:">
+<!ENTITY safeModeDescription2.label       "Jo kinne alle of inkelde fan dizze wizigingen permanint meitsje:">
 
 <!ENTITY disableAddons.label              "Alle add-ons útskeakelje">
 <!ENTITY disableAddons.accesskey          "t">
