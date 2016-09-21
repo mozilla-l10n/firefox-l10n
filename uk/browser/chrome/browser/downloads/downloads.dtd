@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "п">
 <!ENTITY cmd.removeFromHistory.label      "Видалити з історії">
 <!ENTITY cmd.removeFromHistory.accesskey  "В">
+<!ENTITY cmd.clearList2.label             "Очистити панель перегляду">
+<!ENTITY cmd.clearList2.accesskey         "ч">
 <!ENTITY cmd.clearDownloads.label         "Очистити завантаження">
 <!ENTITY cmd.clearDownloads.accesskey     "ч">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Показати всі завантаження">
 <!ENTITY downloadsHistory.accesskey       "в">
 
+<!ENTITY openDownloadsFolder.label       "Відкрити теку завантажень">
 
 <!ENTITY clearDownloadsButton.label       "Очистити завантаження">
 <!ENTITY clearDownloadsButton.tooltip     "Очистити завершені, скасовані та невдалі завантаження">
