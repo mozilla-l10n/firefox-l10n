@@ -2,14 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Side publisearje">
 <!ENTITY windowTitleSettings.label    "Publikaasjeynstellingen">
-
 <!ENTITY publishTab.label             "Publisearje">
 <!ENTITY settingsTab.label            "Ynstellingen">
-
 <!ENTITY publishButton.label          "Publisearje">
 
 <!-- Publish Tab Panel -->
@@ -29,7 +26,7 @@
 <!ENTITY sameLocationRadio.tooltip    "Bestannen publisearje op deselde lokaasje as de side">
 <!ENTITY useSubdirRadio.label         "Dizze websitesubmap brûke:">
 <!ENTITY useSubdirRadio.accesskey     "s">
-<!ENTITY useSubdirRadio.tooltip       "Bestannen publisearje yn de selektearre websteesubmap">
+<!ENTITY useSubdirRadio.tooltip       "Bestannen publisearje yn de selektearre websitesubmap">
 <!ENTITY otherDirList.tooltip         "Kies of fier de namme yn fan de submap dy't de bestannen yn publisearre wurde sille">
 <!ENTITY pageTitle.label              "Sidetitel:">
 <!ENTITY pageTitle.accesskey          "t">
@@ -50,7 +47,7 @@
 <!ENTITY loginInfo.label              "Oanmeldynformaasje">
 <!ENTITY siteName.label               "websitenamme:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "In bynamme om dizze publikaasjewebsite te identisearjen (byg. ‘Mynwebstee’)">
+<!ENTITY siteName.tooltip             "In bynamme om dizze publikaasjewebsite te identifisearjen (byg. ‘Mynwebsite’)">
 <!ENTITY siteUrl.label                "Publikaasjeadres (byg. ‘ftp://ftp.myisp.com/myusername’):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "It FTP://- of HTTP://-adres dat troch jo ISP- of webhostingservice jûn is">
