@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Xóa khỏi nhật ký">
 <!ENTITY cmd.removeFromHistory.accesskey  "X">
-<!ENTITY cmd.clearList.label              "Xóa trắng danh sách">
-<!ENTITY cmd.clearList.accesskey          "a">
+
+
 <!ENTITY cmd.clearDownloads.label         "Xóa các tải về">
 <!ENTITY cmd.clearDownloads.accesskey     "v">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "Xem tất cả tải về">
 <!ENTITY downloadsHistory.accesskey       "c">
+
 
 <!ENTITY clearDownloadsButton.label       "Xóa các tải về">
 <!ENTITY clearDownloadsButton.tooltip     "Xóa các tải về thành công, bị hủy và thất bại">

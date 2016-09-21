@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Cập nhật từng phần không thể áp dụng được. &brandShortName; sẽ thử lại bằng cách tải gói Cập nhật đầy đủ xuống.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; không thể xác định xem đang có bản cập nhật nào hay không. Vui lòng chắc chắn rằng bạn có phiên bản &brandShortName; mới nhất từ:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Có một thứ đang ngăn không cho &brandShortName; cập nhật an toàn. Vui lòng chắc chắn rằng bạn có phiên bản &brandShortName; mới nhất từ:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Có một thứ đang cố lừa &brandShortName; chấp nhận một bản cập nhật không an toàn. Vui lòng liên hệ nhà cung cấp mạng của bạn và tìm kiếm trợ giúp.">
 
 <!ENTITY  finishedPage.title              "Bản cập nhật đã Sẵn sàng để Cài đặt">
 <!ENTITY  finishedPage.text               "Bản cập nhật sẽ được cài trong lần khởi động tới của &brandShortName;. Bạn có thể khởi động lại &brandShortName; ngay bây giờ, hoặc cứ tiếp tục sử dụng và khởi động lại sau.">
