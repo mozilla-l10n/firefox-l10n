@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "Webstee-URL:">
+<!ENTITY siteUrl.label         "Website-URL:">
 <!ENTITY docSubdir.label       "Sidesubmap:">
 <!ENTITY otherSubdir.label     "Ofbyldingssubmap:">
 

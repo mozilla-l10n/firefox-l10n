@@ -38,10 +38,10 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten brûkt, moat elke tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
-<!ENTITY rights.intro-point4b-unbranded "Webstee Tsjinsten">
+<!ENTITY rights.intro-point4b-unbranded "Websitetsjinsten">
 <!ENTITY rights.intro-point4c-unbranded " seksje.">
 
-<!ENTITY rights.webservices-header "&brandFullName; Webstee Tsjinsten">
+<!ENTITY rights.webservices-header "&brandFullName;-websitetsjinsten">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -55,7 +55,7 @@
 <!ENTITY rights.webservices-e " en de opsjes foar &quot;Automatysk kontrolearje op fernijingen&quot; te deselektearjen.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "In oersicht fan de webstee tsjinsten dy't yn it produkt sitte, tegearre mei ynstruksjes oer hoe't jo se útskeakelje kinne, indien mooglik, soe hjir stean moatte.">
+<!ENTITY rights.webservices-unbranded "In oersicht fan de websitetsjinsten dy't yn it produkt sitte, tegearre mei ynstruksjes oer hoe't jo se útskeakelje kinne, wannear mooglik, soe hjir stean moatte.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tapaste tsjinstbetingsten moatte hjir oanjûn wurde.">
