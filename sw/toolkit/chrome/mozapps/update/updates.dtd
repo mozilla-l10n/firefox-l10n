@@ -40,8 +40,6 @@
 <!ENTITY  errorpatching.intro             "Kisasaisho cha sehemu hakikutekelezwa. &brandShortName; itajaribu tena kupakua Kisasaisho kikamilifu.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; imeshindwa kupata kama kuna kisasaisho kinachopatikana. Tafadhali hakikisha kuwa una toleo jipya zaidi la &brandShortName; kutoka:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Kuna kitu kinachozuia &brandShortName; kusasaisha kwa usalama. Tafadhali hakikisha kuwa una toleo jipya zaidi la &brandShortName; kutoka:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Kuna kitu kinachojaribu kudanganya &brandShortName; kukubali kisasaisho kisicho salama. Tafadhali wasiliana na mtoaji wako wa mtandao na kupata msaada.">
 
 <!ENTITY  finishedPage.title              "Kisasaisho Kiko Tayari Kusakinishwa">
 <!ENTITY  finishedPage.text               "Kisasaisho kitasakinishwa wakati ujao ambapo &brandShortName; itaanza. Unaweza kuwasha upya &brandShortName; sasa, au endelea kufanya kazi na uwashe upya tena baadaye.">

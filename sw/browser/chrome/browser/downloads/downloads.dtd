@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Ondoa Kutoka kwa Historia">
 <!ENTITY cmd.removeFromHistory.accesskey  "d">
-<!ENTITY cmd.clearList.label              "Ondoa Orodha">
-<!ENTITY cmd.clearList.accesskey          "d">
+
+
 <!ENTITY cmd.clearDownloads.label         "Ondoa Vipakuzi">
 <!ENTITY cmd.clearDownloads.accesskey     "V">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Onyesha Vipakuzi Vyoye">
 <!ENTITY downloadsHistory.accesskey       "O">
+
 
 <!ENTITY clearDownloadsButton.label       "Ondoa Vipakuzi">
 <!ENTITY clearDownloadsButton.tooltip     "Ufutaji umekamilisha, ukaghairi na kushinwa vipakuzi">

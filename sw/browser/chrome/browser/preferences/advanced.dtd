@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Jifunze Zaidi">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; huwakilisha ripoti za kishindo ili kusaidia &vendorShortName; kufanya kivinjari chako thabiti na salama zaidi">
-<!ENTITY enableCrashReporter.label       "Wezesha Kiripoti cha Kishindo">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Jifunze Zaidi">
+
+
+<!ENTITY crashReporterLearnMore.label     "Jifunze Zaidi">
 
 <!ENTITY networkTab.label                "Mtandao">
 
