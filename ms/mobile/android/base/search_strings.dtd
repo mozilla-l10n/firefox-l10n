@@ -13,7 +13,7 @@
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Tambah kepada bar carian'>
+<!ENTITY search_plus_content_description 'Tambah ke bar carian'>
 
 <!ENTITY search_pref_title 'Tetapan'>
 <!ENTITY search_pref_button_content_description 'Tetapan'>
