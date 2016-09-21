@@ -77,14 +77,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Terma perkhidmatan'>
 <!ENTITY fxaccount_status_linkprivacy2 'Notis privasi'>
-<!ENTITY fxaccount_status_more 'Lagi&ellipsis;'>
+<!ENTITY fxaccount_status_more 'Lanjutan &ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Putuskan sambungan &ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Singkir Akaun Firefox'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; akan menghentikan menyegerak dengan akaun anda, tetapi tidak akan menghapus sebarang data pelayaran anda di dalam peranti ini.'>
+<!ENTITY fxaccount_remove_account_dialog_title 'Alih keluar Akaun Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; akan berhenti sync akaun anda, tetapi tidak akan menghapus data pelayaran anda pada peranti ini.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Akaun Firefox &formatS; dialih keluar.'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Dayakan Mod Nyahpepijat'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -101,12 +103,12 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Anda perlu menaiktaraf Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Anda perlu menaik taraf Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Akaun telah tersedia. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email atau kata laluan tidak sah'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email atau kata laluan tidak sah'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'E-mel atau kata laluan tidak sah'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'E-mel atau kata laluan tidak sah'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Akaun tidak disahkan'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Pelayan sibuk, cuba lagi nanti'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Pelayan sibuk, cuba lagi nanti '>
