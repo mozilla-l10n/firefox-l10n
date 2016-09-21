@@ -71,7 +71,13 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari menerima cookie.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Periksa untuk pastikan yang sistem anda mempunyai Pengurus Sekuriti Peribadi yang terpasang.</li> <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Semak untuk pastikan sistem anda ada Pengurus Keselamatan Peribadi yang
+    sudah dipasang.</li>
+  <li>Ini mungkin kerana konfigurasi bukan-standard pada pelayan.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Sambungan yang Selamat Gagal">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidah dapat ditunjukan kerana ketentusahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi melaporkan masalah ini.</li> </ul>">
