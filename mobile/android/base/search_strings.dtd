@@ -9,7 +9,7 @@
 <!ENTITY search_bar_hint 'Cari dengan &formatS;'>
 
 <!ENTITY search_empty_title2 'Mulakan carian'>
-<!ENTITY search_empty_message 'Segera mencari apa sahaja yang anda inginkan'>
+<!ENTITY search_empty_message 'Carian pantas untuk apa sahaja maklumat yang anda mahu'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
@@ -25,4 +25,4 @@
 <!ENTITY search_widget_button_label 'Cari'>
 
 <!ENTITY network_error_title 'Tiada sambungan internet'>
-<!ENTITY network_error_message 'Sentuh di sini untuk menyemak tetapan rangkaian anda'>
+<!ENTITY network_error_message 'Tap di sini untuk menyemak tetapan rangkaian anda'>

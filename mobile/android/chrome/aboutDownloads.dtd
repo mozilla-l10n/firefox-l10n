@@ -4,11 +4,11 @@
 
 <!ENTITY aboutDownloads.title                      "Muat Turun">
 <!ENTITY aboutDownloads.header                     "Muat Turun Anda">
-<!ENTITY aboutDownloads.empty                      "Tida Muat Turun">
+<!ENTITY aboutDownloads.empty                      "Tiada Muat turun">
 
 <!ENTITY aboutDownloads.open                       "Buka">
-<!ENTITY aboutDownloads.remove                     "Padam">
-<!ENTITY aboutDownloads.removeAll                  "Padam Semua">
+<!ENTITY aboutDownloads.remove                     "Hapus">
+<!ENTITY aboutDownloads.removeAll                  "Hapus Semua">
 <!ENTITY aboutDownloads.pause                      "Jeda">
 <!ENTITY aboutDownloads.resume                     "Sambung">
 <!ENTITY aboutDownloads.cancel                     "Batal">

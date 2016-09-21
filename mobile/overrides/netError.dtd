@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Masalah memuatkan laman">
+<!ENTITY loadError.label "Masalah memuat halaman">
 <!ENTITY retry.label "Cuba Lagi">
 
 <!-- Specific error messages -->
