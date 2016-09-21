@@ -11,7 +11,7 @@
 #define bookmarks_heading Закладки
 
 #define bookmarks_toolbarfolder Тека панелі закладок
-#define bookmarks_toolbarfolder_description Додайте закладки у цю теку щоб побачити їх на панелі закладок
+#define bookmarks_toolbarfolder_description Додайте закладки в цю теку, щоб бачити їх на панелі закладок
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
