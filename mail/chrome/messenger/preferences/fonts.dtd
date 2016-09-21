@@ -1,4 +1,4 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Wiskunde">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Singaleesk">
@@ -72,9 +72,9 @@
 <!ENTITY sendDefaultCharset.label         "Utgeande e-mailberjochten:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
 <!ENTITY languagesTitle2.label            "Tekstkodearing">
-<!ENTITY composingDescription2.label       "Standert tekstkodearing foar ferstjoeren en ûntfangen fan e-mailberjochten">
+<!ENTITY composingDescription2.label      "Standert tekstkodearing foar ferstjoeren en ûntfangen fan e-mailberjochten">
 
 <!ENTITY viewDefaultCharsetList.label     "Ynkommende e-mailberjochten:">
-<!ENTITY viewDefaultCharsetList.accesskey "Y">
+<!ENTITY viewDefaultCharsetList.accesskey  "Y">
 <!ENTITY replyInDefaultCharset3.label     "Wannear mooglik, yn antwurden de standert tekstkodearing brûke">
-<!ENTITY replyInDefaultCharset3.accesskey  "W">
+<!ENTITY replyInDefaultCharset3.accesskey "W">
