@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Qisman yangilash qoʻllanmadi. Yangilanishni tugatish uchun &brandShortName; yuklab olishga yana urinib koʻradi.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; yangilanish mavjudligini tekshira olmadi. Marhamat, bu yerdan &brandShortName;ning soʻnggi versiyasi oʻrnatilganligini tekshirib koʻring:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Nimadir &brandShortName;ning xavfsiz yangilanishiga toʻsqinlik qilmoqda. Bu yerdan &brandShortName;ning soʻnggi versiyasi oʻrnatilganligini tekshirib koʻring::">
-<!ENTITY  errorCertAttrHasUpdate.label    "Nimadir &brandShortName;ni aldab, xavfli yangilanishni amalga oshirishga  rozi qilmoqchi. Provayderingiz bilan bogʻlaning va yordam soʻrab koʻring.">
 
 <!ENTITY  finishedPage.title              "Yangilanish oʻrnatish uchun tayyor">
 <!ENTITY  finishedPage.text               "Yangilanish &brandShortName; keyingi safar ishga tushirilganda oʻrnatiladi. Siz&brandShortName;ni hozir yoki keyinroq qayta ishga tushirishingiz mumkin.">

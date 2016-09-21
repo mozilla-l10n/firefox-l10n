@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Tarixdan oʻchirish">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
-<!ENTITY cmd.clearList.label              "Roʻyxatni tozalash">
-<!ENTITY cmd.clearList.accesskey          "t">
+
+
 <!ENTITY cmd.clearDownloads.label         "Yuklab olishlarni tozalash">
 <!ENTITY cmd.clearDownloads.accesskey     "Y">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Barcha yuklab olishlarni ko‘rsatish">
 <!ENTITY downloadsHistory.accesskey       "k">
+
 
 <!ENTITY clearDownloadsButton.label       "Yuklab olishlarni tozalash">
 <!ENTITY clearDownloadsButton.tooltip     "Tozalash tugadi, yuklab olishlar bekor qilindi va muvaffaqiyatsiz yakunlandi">

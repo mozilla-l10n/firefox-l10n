@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Masofadan nosozliklarni jo‘natishni yoqish">
-<!ENTITY options.enableRemote.tooltip   "Agar buni tanlasangiz, dasturlash asboblari yordamida masofadagi Firefox obyektlari (Firefox OS kabi) muammolarini hal qilishingiz mumkin">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -106,11 +106,9 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "&quot;Firefox&quot;ning standart dasturlash asboblari">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

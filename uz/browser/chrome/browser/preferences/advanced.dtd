@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Koʻproq oʻrganing">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; &vendorShortName;ga brauzeringizni yaxshi ishlashi va xavfsiz qilishda yordam berish uchun nosozlik ma`lumotlarni joʻnatadi">
-<!ENTITY enableCrashReporter.label       "Nosozlik ma`lumot bergichini yoqish">
-<!ENTITY enableCrashReporter.accesskey   "N">
-<!ENTITY crashReporterLearnMore.label    "Koʻproq oʻrganing">
+
+
+<!ENTITY crashReporterLearnMore.label     "Koʻproq oʻrganing">
 
 <!ENTITY networkTab.label                "Tarmoq">
 

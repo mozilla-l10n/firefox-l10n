@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ulanish parametrlari">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Internetga kirish uchun proksilarni moslash">
 <!ENTITY  noProxyTypeRadio.label        "Proksi yoʻq">
