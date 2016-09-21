@@ -11,7 +11,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब आप निजी विंडो में ब्राउज करते हैं, Firefox">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "नहीं सहेजा है">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "देखे गए पृष्ठ">
+<!ENTITY aboutPrivateBrowsing.info.visited               "‌देखे गए पृष्ठ">
 <!ENTITY aboutPrivateBrowsing.info.searches              "खोज">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "कुकीज़">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फ़ाइल">
