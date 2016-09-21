@@ -20,3 +20,6 @@
 
 
 <!ENTITY inspectorEyeDropper.label       "Välj en färg från sidan">
+<!-- LOCALIZATION NOTE (inspectorBreadcrumbsGroup): A string visible only to a
+     screen reader and is used to label (using aria-label attribute) a container
+     for inspector breadcrumbs -->

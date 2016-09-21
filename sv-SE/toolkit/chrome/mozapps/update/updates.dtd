@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Programfixen kunde inte installeras. &brandShortName; kommer att försöka igen genom att hämta ett komplett uppdateringspaket.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan inte avgöra om det finns någon tillgänglig uppdatering. Kontrollera att du använder den senaste versionen av &brandShortName; från:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Någonting förhindrar &brandShortName; från att uppdatera säkert. Kontrollera att du använder den senaste versionen av &brandShortName; från:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Någonting försöker lura &brandShortName; till att acceptera en osäker uppdatering. Kontakta din nätverksleverantör för hjälp.">
 
 <!ENTITY  finishedPage.title              "Uppdatering färdig att installera">
 <!ENTITY  finishedPage.text               "Uppdateringen kommer att installeras nästa gång &brandShortName; startas. Du kan starta om &brandShortName; nu, eller fortsätta och starta om senare.">
