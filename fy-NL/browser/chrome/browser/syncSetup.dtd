@@ -6,20 +6,20 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Wolkom, as jo &syncBrand.fullName.label; noait earder brûkt hawwe, moatte jo in nij account oanmeitsje.">
+<!ENTITY setup.pickSetupType.description2 "Wolkom, as jo &syncBrand.fullName.label; nea earder brûkt hawwe, moatte jo in nij account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
 <!ENTITY button.haveAccount.label      "Ik haw in account">
 
 <!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; al earder brûkt?">
 <!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earder brûkt">
-<!ENTITY setup.choicePage.existing2.label  "Ik brûk &syncBrand.shortName.label; al op in oar apparaat">
+<!ENTITY setup.choicePage.existing2.label "Ik brûk &syncBrand.shortName.label; al op in oar apparaat">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.default.label      "Standert: Mozilla &syncBrand.fullName.label;-server">
-<!ENTITY serverType.custom2.label    "Brûk in eigen server…">
-<!ENTITY signIn.account2.label       "Account">
-<!ENTITY signIn.account2.accesskey   "A">
+<!ENTITY serverType.custom2.label   "Brûk in eigen server…">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwurd">
 <!ENTITY signIn.password.accesskey  "W">
 <!ENTITY signIn.recoveryKey.label       "Werstelkaai">
@@ -31,8 +31,8 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Kies in wachtwurd">
 <!ENTITY setup.choosePassword.accesskey  "w">
-<!ENTITY setup.confirmPassword.label  "Befestigje wachtwurd">
-<!ENTITY setup.confirmPassword.accesskey  "f">
+<!ENTITY setup.confirmPassword.label     "Befestigje wachtwurd">
+<!ENTITY setup.confirmPassword.accesskey "f">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -44,7 +44,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; tinkt om jo privacy">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Om jo folsleine privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De westelkaai dy't nedich is om jo gegevens te ûntsiferjen wurdt net opladen.">
 <!ENTITY recoveryKeyEntry.label        "Jo werstelkaai">
@@ -57,8 +57,8 @@
 <!ENTITY button.syncKeyBackup.save.label      "Bewarje…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "B">
 
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY pairDevice.title.label              "In apparaat keppelje">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "In apparaat keppelje">
 <!ENTITY addDevice.showMeHow.label          "Toan my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ik haw it apparaat net by my">
 <!ENTITY pairDevice.setup.description.label  "Om te aktivearjen, selektearje ‘In apparaat keppelje’ op jo oare apparaat.">
@@ -67,12 +67,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje opnij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
-<!ENTITY addDevice.dialog.recoveryKey.label "Om jo apparaat te aktivearjen, moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Om jo apparaat te aktivearjen, moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Oannmelde">
-<!ENTITY existingRecoveryKey.description  "Jo kinne in kopy fan jo werstelkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en ‘Myn werstelkaai’ ûnder ‘Behear account’.">
+<!ENTITY existingRecoveryKey.description "Jo kinne in kopy fan jo werstelkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en ‘Myn werstelkaai’ ûnder ‘Behear account’.">
 <!ENTITY verifying.label              "Ferifiearje…">
 <!ENTITY resetPassword.label          "Wachtwurd opnij ynstelle">
 <!ENTITY resetSyncKey.label           "Ik haw myn oare apparaat ferlern.">
@@ -96,10 +96,10 @@
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label      "Kombinearje dizze apparaatgegevens mei myn &syncBrand.shortName.label;-gegevens">
-<!ENTITY choice2.merge.recommended.label "Oanrikkemandearre:">
-<!ENTITY choice2a.client.main.label     "Ferfang all gegevens op dit apparaat troch myn &syncBrand.shortName.label;-gegevens">
-<!ENTITY choice2a.server.main.label     "Ferfang alle gegevens op oare apparaten mei dizze apparaatgegevens">
+<!ENTITY choice2a.merge.main.label       "Kombinearje dizze apparaatgegevens mei myn &syncBrand.shortName.label;-gegevens">
+<!ENTITY choice2.merge.recommended.label "Oanrekommandearre:">
+<!ENTITY choice2a.client.main.label      "Ferfang all gegevens op dit apparaat troch myn &syncBrand.shortName.label;-gegevens">
+<!ENTITY choice2a.server.main.label      "Ferfang alle gegevens op oare apparaten mei dizze apparaatgegevens">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Befêstigje">

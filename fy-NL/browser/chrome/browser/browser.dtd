@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Titelbalke">
 <!ENTITY customizeMode.lwthemes "Tema's">
 <!ENTITY customizeMode.lwthemes.myThemes "Myn tema's">
-<!ENTITY customizeMode.lwthemes.recommended "Oanrikkemandearre">
+<!ENTITY customizeMode.lwthemes.recommended "Oanrekommandearre">
 <!ENTITY customizeMode.lwthemes.menuManage "Beheare">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Krij mear tema's">
