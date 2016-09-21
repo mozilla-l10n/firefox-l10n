@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "w">
 <!ENTITY cmd.removeFromHistory.label      "Z historije wótpóraś">
 <!ENTITY cmd.removeFromHistory.accesskey  "h">
-
-
+<!ENTITY cmd.clearList2.label             "Pśegladowe wokno wuprozniś">
+<!ENTITY cmd.clearList2.accesskey         "l">
 <!ENTITY cmd.clearDownloads.label         "Ześěgnjenja lašowaś">
 <!ENTITY cmd.clearDownloads.accesskey     "Z">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Wšykne ześěgnjenja pokazaś">
 <!ENTITY downloadsHistory.accesskey       "W">
 
+<!ENTITY openDownloadsFolder.label       "Zarědnik ześěgnjenjow wócyniś">
 
 <!ENTITY clearDownloadsButton.label       "Ześěgnjenja lašowaś">
 <!ENTITY clearDownloadsButton.tooltip     "Wulašujo skóńcone, pśetergnjone a njeraźone ześěgnjenja">
