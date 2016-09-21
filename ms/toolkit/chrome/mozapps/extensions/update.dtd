@@ -37,18 +37,22 @@
                                            apabila kemas kini yang sesuai untuk add-ons ini ditemui.">
 
 <!ENTITY  finished.wizard.title           "Penambahan Serasi Dipasang">
-<!ENTITY  finished.top.label              "&brandShortName; telah memasang kemaskinian penambahan anda.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; boleh memeriksa secara berkala dan memberitahu anda apabila kemaskinian penambahan anda ditemui.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; akan memeriksa secara berkala dan memberitahu anda apabila kemaskinian penambahan anda ditemui.">
+<!ENTITY  finished.top.label              "&brandShortName; telah memasang kemas kini add-ons anda.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; boleh menyemak secara berkala dan memaklumkan anda
+                                           apabila kemas kini add-ons ditemui.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; boleh menyemak secara berkala dan memaklumkan anda
+                                           apabila kemas kini add-ons ditemui.">
 
-<!ENTITY  adminDisabled.wizard.title      "Tidak dapat Menyemak Kemas kini">
-<!ENTITY  adminDisabled.warning.label     "Adalah mustahil untuk memeriksa kemaskinian penambahan tidak serasi kerana pemasangan perisian untuk &brandShortName; telah dilumpuhkan. Sila hubungi Pentadbir Sistem anda untuk bantuan.">
+<!ENTITY  adminDisabled.wizard.title      "Gagal Menyemak Kemas kini">
+<!ENTITY  adminDisabled.warning.label     "Mustahil untuk menyemak kemas kini add-ons tidak serasi
+                                           kerana pemasangan perisian untuk &brandShortName; telah dinyahdayakan.
+                                           Sila hubungi Pentadbir Sistem anda untuk bantuan.">
 
 <!ENTITY  versioninfo.wizard.title        "Memeriksa Keserasian Penambahan">
 <!ENTITY  versioninfo.top.label           "Memeriksa keserasian penambahan anda untuk &brandShortName; versi ini.">
 <!ENTITY  versioninfo.waiting             "Ini akan mengambil masa beberapa minit...">
 
-<!ENTITY  installerrors.wizard.title      "Masalah Pemasangan Kemaskinian">
+<!ENTITY  installerrors.wizard.title      "Masalah Memasang Kemas kini">
 <!ENTITY  installerrors.intro.label       "&brandShortName; mengalami masalah apabilamengemaskini sebahagian penambahana anda.">
 
 <!-- general strings used by several of the finish pages -->

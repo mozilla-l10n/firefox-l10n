@@ -43,17 +43,22 @@
 
 <!ENTITY  error.label                     "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian ini. &brandShortName; tidak dapat dikemaskini disebabkan:">
                                            
-<!ENTITY  errorManual.label               "Anda boleh kemaskini manual &brandShortName; dengan melawati pautan ini dan muaturun versi terkini:">
+<!ENTITY  errorManual.label               "Anda boleh kemas kini &brandShortName; secara manual dengan melayari pautan ini
+                                           dan memuat turun versi terkini:">
                                            
-<!ENTITY  errorpatching.intro             "Sebahagian Kemaskinian tidak dapat diterapkan. &brandShortName; akan mencuba lagi dengan memuaturun Kemaskinian lengkap.">
+<!ENTITY  errorpatching.intro             "Sebahagian Kemas kini tidak dapat dilaksanakan. 
+                                           &brandShortName; akan cuba lagi dengan memuat turun Kemas kini lengkap.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; tidak boleh menentukan sekiranya ada kemaskini yang sudah tersedia. Sila pastikan bahawa anda ada versi terbaru &brandShortName; daripada:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat menentukan samada kemas kini tersedia. Sila
+                                           pastikan anda menggunakan versi terkini &brandShortName; dari:">
 
-<!ENTITY  finishedPage.title              "Kemaskini sedia untuk dipasangkan">
-<!ENTITY  finishedPage.text               "Kemaskini tersebut akan dipasang apabila &brandShortName; bermula. Anda boleh mula semula &brandShortName; sekarang atau teruskan bekerja dan mula semula kemudian.">
+<!ENTITY  finishedPage.title              "Kemas kini Sedia Dipasang">
+<!ENTITY  finishedPage.text               "Kemas kini akan dipasang selepas &brandShortName; mula semula. Anda 
+                                           boleh mula semula &brandShortName; sekarang, atau terus mengunakannya dan mula semula kemudian.">
 
-<!ENTITY  finishedBackgroundPage.text     "Kemaskini untuk keselamatan dan kestabilan &brandShortName; telah dimuat turun dan sedia untuk dipasang.">
-<!ENTITY  finishedBackground.name         "Kemaskini:">
+<!ENTITY  finishedBackgroundPage.text     "Kemas kini keselamatan dan kestabilan untuk &brandShortName; telah
+                                           dimuat turun dan sedia untuk dipasang.">
+<!ENTITY  finishedBackground.name         "Kemas kini:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Kemas kini akan dipasang apabila &brandShortName; mula semula. Anda
                                            boleh mula semula &brandShortName; sekarang, atau teruskan dan mula semula nanti.">
