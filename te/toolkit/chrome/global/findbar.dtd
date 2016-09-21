@@ -11,7 +11,7 @@
 <!ENTITY highlightAll.label "అన్నిటిని  ఉద్దీపనం చేయుము">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "పదంయొక్క  అన్ని  సంభవాలను  ఉద్దీపనం చేయుము">
-<!ENTITY caseSensitive.label "బడిని సరిపోల్చు (c)">
+<!ENTITY caseSensitive.label "బడిని సరిపోల్చు">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "చిన్నపెద్ద అక్షరతేడా గుర్తిస్తూ వెతుకు">
 <!ENTITY entireWord.label "మొత్తం పదాలు">

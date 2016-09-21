@@ -26,9 +26,9 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "కుడివైపు ట్యాబులను మూసివేయి (i)">
+<!ENTITY  closeTabsToTheEnd.label            "కుడివైపు ట్యాబులను మూసివేయి">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "వేరే ట్యాబులను మూసివేయి (o)">
+<!ENTITY  closeOtherTabs.label               "వేరే ట్యాబులను మూసివేయి">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "మూలకం విచారణచేయి">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "దస్త్రం (F)"> 
+<!ENTITY fileMenu.label         "దస్త్రం"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "కొత్త కంటైనర్ టాబ్">
 <!ENTITY newUserContext.accesskey         "C">
@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "సవరణ"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "వెనుదెమ్ము (U)">  
+<!ENTITY undoCmd.label            "వెనుదెమ్ము">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "మళ్ళీచేయి">  
@@ -294,18 +294,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ఐచ్ఛికాలు">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "అభిరుచులు (n)">
+<!ENTITY preferencesCmdUnix.label       "అభిరుచులు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "ఇటీవలి చరిత్రను తుడిచివేయి…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "చూడటం (V)"> 
+<!ENTITY viewMenu.label         "చూడటం"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "సాధనముల పట్టీలు"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "పక్క పట్టీ (e)">
+<!ENTITY viewSidebarMenu.label "పక్క పట్టీ">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "మలుచుకొను..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
 <!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన టాబ్లు సైడ్బార్ చూడండి">
 
-<!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి (A)">
+<!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "మెనూకు జతచేయి">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
@@ -365,7 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "మెనూ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "మరిన్ని అంశాలను చేర్చండి… (A)">
+<!ENTITY customizeMenu.addMoreItems.label "మరిన్ని అంశాలను చేర్చండి…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -478,11 +478,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "చిత్ర సమాచారాన్ని చూడండి">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "వివరణను చూడండి (D)">
+<!ENTITY viewImageDescCmd.label       "వివరణను చూడండి">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "దృశ్యకాన్ని చూడండి">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "నేపథ్య చిత్రాన్ని చూడండి (w)">
+<!ENTITY viewBGImageCmd.label         "నేపథ్య చిత్రాన్ని చూడండి">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్ వెనుతలంగా అమర్చు…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ఈమెయిల్ వీడియో…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "వీడియోను పరికరానికి పంపు (e)">
+<!ENTITY castVideoCmd.label           "వీడియోను పరికరానికి పంపు">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ఈమెయిల్ ఆడియో…">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -541,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "ఆడించు (P)">
+<!ENTITY mediaPlay.label             "ఆడించు">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "కొద్దిసేపు ఆపు">
 <!ENTITY mediaPause.accesskey        "P">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
 
-<!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు (S)">
+<!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->

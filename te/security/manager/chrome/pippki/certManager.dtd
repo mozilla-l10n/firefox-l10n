@@ -28,7 +28,7 @@
 <!ENTITY certmgr.fingerprints.label           "వేలుముద్రలు">
 <!ENTITY certmgr.certdetail.title             "ధృవీకరణపత్రం  వివరాలు">
 <!ENTITY certmgr.certdetail.cn                "సామూహికమైన  నామము (CN)">
-<!ENTITY certmgr.certdetail.o                 "వ్యవస్థ (O)">
+<!ENTITY certmgr.certdetail.o                 "వ్యవస్థ">
 <!ENTITY certmgr.certdetail.ou                "వ్యవస్థ యూనిట్ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "వరుస సంఖ్య">
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Fingerprint">
