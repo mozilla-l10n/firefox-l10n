@@ -548,7 +548,6 @@ size. -->
 <!ENTITY button_clear "വൃത്തിയാക്കുക">
 <!ENTITY button_copy "പകര്‍ത്തുക">
 
-<!ENTITY home_top_sites_title "മുഖ്യ സൈറ്റുക‌‌ൾ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേര്‍ക്കുാം">
@@ -799,3 +798,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_button "അടയാളം  ചേര്‍ക്കൂ">
 
+
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
