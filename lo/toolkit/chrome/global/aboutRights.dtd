@@ -62,10 +62,14 @@
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "ບໍ່ແນະນຳໃຫ້ປິດນຳໃຊ້ໂຫມດການທ່ອງເວັບແບບປອດໄພເພາະມັນອາດຈະເຮັດໃຫ້ທ່ານເຂົ້າໄປຫາເວັບໄຊຕ໌ທີ່ບໍ່ປອດໄພໄດ້.  ຖ້າວ່າທ່ານຍັງຕ້ອງການປິດໂຫມດນີ້ແມ່ນໃຫ້ດຳເນີນການຕາມຂັ້ນຕອນດັ່ງຕໍ່ໄປນີ້:">
 <!ENTITY rights.safebrowsing-term1 "ເປີດການຕັ້ງຄ່າຂອງແອັບພລິເຄຊັນ">
+<!ENTITY rights.safebrowsing-term2 "ການເລືອກຄວາມປອດໄພ">
+<!ENTITY rights.safebrowsing-term4 "ໂຫມດການທ່ອງເວັບແບບປອດໄພໄດ້ຖືກປິດນຳໃຊ້">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term1a "ຢູ່ໃນ URL ບາ, ປະເພດ ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "ປະເພດ geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "ດັບເບິນຄິກໃສ່ geo.enabled  ໃນການຕັ້ງຄ່າ">
 
 <!-- intro paragraph for unbranded builds -->
 
