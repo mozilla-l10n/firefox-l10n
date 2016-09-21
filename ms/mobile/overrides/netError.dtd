@@ -58,6 +58,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumen Luput">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak ada dalam cache &brandShortName;.</p><ul><li>Sebagai langkah keselamatan, &brandShortName; tidak akan meminta semula dokumen yang sensitif secara automatik.</li><li>Klik Cuba Lagi untuk meminta semula dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luar talian">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -106,9 +107,25 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidah dapat ditunjukan kerana ketentusahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi melaporkan masalah ini.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ini mungkin masalah konfigurasi pelayan, atau mungkin
+seseorang cuba menyamar sebagai pelayan.</li>
+  <li>Jika anda pernah berjaya membuat sambungan ke pelayan ini, ralat ini mungkin
+sementara, dan anda boleh cuba lagi nanti.</li>
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Laman ini mungkin tidak bersedia atau terlalu sibuk. cuba lagi kemudian.</li>
+  <li>Jika anda gagal memuat mana-mana halaman, semak data telefon atau sambungan Wi-Fi anda.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
@@ -140,3 +157,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sambungan anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang usang dan rentan kepada serangan. Penyerang dengan mudah mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaiki pelayan terlebih dahulu sebelum anda boleh melawat laman ini.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
