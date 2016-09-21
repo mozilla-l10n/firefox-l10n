@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "இணைப்பு அமைப்புகள்">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "இணையத்தை அணுக ப்ராக்ஸிகளை கட்டமைக்கவும்">
 <!ENTITY  noProxyTypeRadio.label        "பதிலாள் இல்லை">

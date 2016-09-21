@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ப">
 <!ENTITY cmd.removeFromHistory.label      "வரலாற்றிலிருந்து நீக்கு">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "பட்டியலை அழி">
-<!ENTITY cmd.clearList.accesskey          "ப">
+
+
 <!ENTITY cmd.clearDownloads.label         "பதிவிறக்கங்களை துடை">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,7 @@
 
 <!ENTITY downloadsHistory.label           "அனைத்து பதிவிறக்கங்களையும் காண்பி">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "பதிவிறக்கங்களை அழி">
 <!ENTITY clearDownloadsButton.tooltip     "முடிந்துவிட்ட, ரத்து செய்த மற்றும் தோல்வியடைந்த பதிவிறக்கங்களை அழிக்கும்">
