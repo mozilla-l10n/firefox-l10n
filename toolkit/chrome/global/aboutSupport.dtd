@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
-<!ENTITY aboutSupport.updateHistoryTitle "Sejarah Kemaskini">
+<!ENTITY aboutSupport.updateHistoryTitle "Kemas kini Sejarah">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">

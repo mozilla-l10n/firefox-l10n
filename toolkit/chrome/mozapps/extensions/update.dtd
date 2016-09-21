@@ -58,4 +58,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klik Tamat untuk terus memulakan &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik Selesai untuk sambung memulakan &brandShortName;.">
-<!ENTITY  enableChecking.label            "Benarkan &brandShortName; memeriksa kemaskinian.">
+<!ENTITY  enableChecking.label            "Izinkan &brandShortName; menyemak kemas kini.">
