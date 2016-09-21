@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Sfeḍ">
 <!ENTITY button_copy "Nɣel">
 
+<!ENTITY home_top_sites_title "Ismal yettwarzan aṭas">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Rnu asmel">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Iferdisen n tmeẓri n umeɣri n tecraḍ ara teɣreḍ deg uskar war tuqqna.">
 <!ENTITY helper_triple_readerview_open_button "Rnu ɣer tecraḍ">
 
-
+<!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
+<!ENTITY activity_stream_highlights "Asebrureq">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Ugar">
