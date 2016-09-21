@@ -10,3 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "Cuba lagi">
 
 <!ENTITY aboutAccounts.restrictedError.title "Terhad">
+<!ENTITY aboutAccounts.restrictedError.description "Anda tidak boleh urus Akaun Firefox dari profil ini.">

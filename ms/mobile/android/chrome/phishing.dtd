@@ -16,6 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Laman mengelirukan direka untuk mmperdaya anda melakukan perkara yang berbahaya, seperti memasang perisian, atau mendedahkan maklumat peribadi, seperti kata laluan, nombor telefon atau maklumat kad kredit.</p><p>Memasukkan sebarang informasi pada halaman web ini mungkin mengakibatkan kecurian identiti atau penipuan lain.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Ini Laporan Laman Perisian Tidak Diingini!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Halaman perisian yang tidak diingini cuba memasang perisian yang mengelirukan dan boleh mengganggu sistem anda.">
