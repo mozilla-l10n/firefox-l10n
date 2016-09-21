@@ -648,12 +648,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; telah menyekat kandungan halaman ini yang tidak selamat.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; telah menyekat sebahagian kandungan halaman ini yang tidak selamat.">
+<!ENTITY mixed_content_display_loaded1 "Sebahagian halaman ini tidak selamat (contohnya imej).">
 <!ENTITY mixed_content_protection_disabled1 "Anda telah menyahdaya perlindungan daripada kandungan yang tidak selamat.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Perlindungan Penjejakan">
 <!ENTITY doorhanger_tracking_state_enabled "Dayakan">
 <!ENTITY doorhanger_tracking_state_disabled "Nyahdaya">
+<!ENTITY doorhanger_tracking_message_enabled1 "Percubaan untuk menjejak tingkah laku anda dalam talian telah disekat.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Halaman ini mengandungi elemen yang boleh menjejak pelayaran anda.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -785,6 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Pelayaran peribadi">
 <!ENTITY restrictable_feature_private_browsing_description "Izinkan ahli keluarga melayar tanpa menyimpan maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
+<!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapuskan maklumat laman yang mereka kunjungi.">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
 <!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tanda buku, mengembalikan semula tab dan kemas kini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
