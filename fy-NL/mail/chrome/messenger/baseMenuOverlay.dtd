@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Probleemoplossende ynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Werstarte mei útskeakele tafoegingen…">
+<!ENTITY helpSafeMode.label     "Opnij starte mei útskeakele add-ons…">
 <!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Utjefteopmerkingen">
 <!ENTITY releaseCmd2.accesskey "U">

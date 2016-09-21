@@ -2,41 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label       			    "Algemien">
-<!ENTITY dataChoicesTab.label    			    "Gegevenskar">
-<!ENTITY itemUpdate.label        			    "Fernijing">
-<!ENTITY itemNetworking.label    			    "Netwurk &amp; skiifromte">
-<!ENTITY itemCertificates.label  			    "Sertifikaten">
+<!ENTITY itemGeneral.label       "Algemien">
+<!ENTITY dataChoicesTab.label    "Gegevenskar">
+<!ENTITY itemUpdate.label        "Fernijing">
+<!ENTITY itemNetworking.label    "Netwurk &amp; skiifromte">
+<!ENTITY itemCertificates.label  "Sertifikaten">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label          "Globaal sykje en yndeksearder ynskeakelje">
-<!ENTITY enableGlodaSearch.accesskey      "y">
-<!ENTITY allowHWAccel.label            		"Hardwarefersnelling brûke wannear beskikber">
-<!ENTITY allowHWAccel.accesskey        		"f">
-<!ENTITY storeType.label               		"Type berjochtenopslach foar nije accounts:">
-<!ENTITY storeType.accesskey           		"b">
-<!ENTITY mboxStore2.label              		"Ien bestân per map (mbox)">
-<!ENTITY maildirStore.label           		"Ien bestân per berjocht (maildir)">
+<!ENTITY enableGlodaSearch.label       "Globaal sykje en yndeksearder ynskeakelje">
+<!ENTITY enableGlodaSearch.accesskey   "y">
+<!ENTITY allowHWAccel.label            "Hardwarefersnelling brûke wannear beskikber">
+<!ENTITY allowHWAccel.accesskey        "f">
+<!ENTITY storeType.label               "Type berjochtenopslach foar nije accounts:">
+<!ENTITY storeType.accesskey           "b">
+<!ENTITY mboxStore2.label              "Ien bestân per map (mbox)">
+<!ENTITY maildirStore.label            "Ien bestân per berjocht (maildir)">
 
-<!ENTITY scrolling.label               		"Skowe">
-<!ENTITY useAutoScroll.label           		"Automatysk skowe brûke">
-<!ENTITY useAutoScroll.accesskey       		"m">
-<!ENTITY useSmoothScrolling.label      		"Floeiend skowe brûke">
-<!ENTITY useSmoothScrolling.accesskey  		"e">
+<!ENTITY scrolling.label               "Skowe">
+<!ENTITY useAutoScroll.label           "Automatysk skowe brûke">
+<!ENTITY useAutoScroll.accesskey       "m">
+<!ENTITY useSmoothScrolling.label      "Floeiend skowe brûke">
+<!ENTITY useSmoothScrolling.accesskey  "e">
 
-<!ENTITY systemIntegration.label			    "Systeemyntegraasje">
-<!ENTITY alwaysCheckDefault.label         "By it opstarten altyd neigean oft &brandShortName; de standert e-mailclient is">
-<!ENTITY alwaysCheckDefault.accesskey     "c">
-<!ENTITY searchIntegration.label			    "Lit &searchIntegration.engineName; troch berjochten sykje">
-<!ENTITY searchIntegration.accesskey		  "S">
-<!ENTITY checkDefaultsNow.label           "No kontrolearje…">
-<!ENTITY checkDefaultsNow.accesskey       "N">
-<!ENTITY configEditDesc.label          		"Wiidweidige konfiguraasje">
-<!ENTITY configEdit.label              		"Konfiguraasjebewurker…">
-<!ENTITY configEdit.accesskey          		"f">
-<!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefêstigingen">
-<!ENTITY showReturnReceipts.label      		"Lêsbefêstigingen…">
-<!ENTITY showReturnReceipts.accesskey  		"L">
+<!ENTITY systemIntegration.label       "Systeemyntegraasje">
+<!ENTITY alwaysCheckDefault.label      "By it opstarten altyd neigean oft &brandShortName; de standert e-mailclient is">
+<!ENTITY alwaysCheckDefault.accesskey  "c">
+<!ENTITY searchIntegration.label       "Lit &searchIntegration.engineName; troch berjochten sykje">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkDefaultsNow.label        "No kontrolearje…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Wiidweidige konfiguraasje">
+<!ENTITY configEdit.label              "Konfiguraasjebewurker…">
+<!ENTITY configEdit.accesskey          "f">
+<!ENTITY returnReceiptsInfo.label      "Bepale hoe't &brandShortName; omgiet mei lêsbefêstigingen">
+<!ENTITY showReturnReceipts.label      "Lêsbefêstigingen…">
+<!ENTITY showReturnReceipts.accesskey  "L">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
@@ -53,11 +53,11 @@
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-fernijingen:">
-<!ENTITY updateAuto.label                "Fernijingen automatysk ynstallearje (oanrikkemandearre: ferbettere feilichheid)">
+<!ENTITY updateAuto.label                "Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Kontrolearje op fernijngen, mar lit my kieze oft ik se ynstallearje wol">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Noait kontrolearje op fernijingen (net oanrikkemandearre: feilichheidsrisiko)">
+<!ENTITY updateManual.label              "Nea kontrolearje op fernijingen (net oanrekommandearre: feilichheidsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Fernijingsskiednis toane">
 <!ENTITY updateHistory.accesskey         "s">
@@ -66,19 +66,19 @@
 <!ENTITY useService.accesskey            "a">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label         		 "Ynstellingen…">
-<!ENTITY showSettings.accesskey    			 "Y">
-<!ENTITY proxiesConfigure.label				   "Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
-<!ENTITY connectionsInfo.caption			   "Ferbining">
-<!ENTITY offlineInfo.caption				     "Sûnder ferbining">
-<!ENTITY offlineInfo.label					     "Sûnder ferbining-ynstellingen konfigurearje">
-<!ENTITY showOffline.label				     	 "Sûnder ferbining…">
-<!ENTITY showOffline.accesskey				   "S">
+<!ENTITY showSettings.label            "Ynstellingen…">
+<!ENTITY showSettings.accesskey        "Y">
+<!ENTITY proxiesConfigure.label        "Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
+<!ENTITY connectionsInfo.caption       "Ferbining">
+<!ENTITY offlineInfo.caption           "Sûnder ferbining">
+<!ENTITY offlineInfo.label             "Sûnder ferbining-ynstellingen konfigurearje">
+<!ENTITY showOffline.label             "Sûnder ferbining…">
+<!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace 							         "Skiifromte">
-<!ENTITY offlineCompactFolders.label        "Mappen komprimearje as it mear besparret as">
-<!ENTITY offlineCompactFolders.accesskey    "M">
-<!ENTITY offlineCompactFoldersMB.label      "MB yn totaal">
+<!ENTITY Diskspace                       "Skiifromte">
+<!ENTITY offlineCompactFolders.label     "Mappen komprimearje as it mear besparret as">
+<!ENTITY offlineCompactFolders.accesskey "M">
+<!ENTITY offlineCompactFoldersMB.label   "MB yn totaal">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -86,11 +86,11 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            	"Oant">
-<!ENTITY useCacheBefore.accesskey        	"O">
-<!ENTITY useCacheAfter.label             	"MB skiifromte brûke foar de buffer">
-<!ENTITY clearCacheNow.label             	"No wiskje">
-<!ENTITY clearCacheNow.accesskey         	"N">
+<!ENTITY useCacheBefore.label            "Oant">
+<!ENTITY useCacheBefore.accesskey        "O">
+<!ENTITY useCacheAfter.label             "MB skiifromte brûke foar de buffer">
+<!ENTITY clearCacheNow.label             "No wiskje">
+<!ENTITY clearCacheNow.accesskey         "N">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "As in server freget om myn persoanlike sertifikaat:">
@@ -101,7 +101,7 @@
 <!ENTITY enableOCSP.label                "OCSP-responderservers freegje om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
 
-<!ENTITY manageCertificates.label         "Sertifikaten beheare">
-<!ENTITY manageCertificates.accesskey     "S">
-<!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
-<!ENTITY viewSecurityDevices.accesskey  	"B">
+<!ENTITY manageCertificates.label "Sertifikaten beheare">
+<!ENTITY manageCertificates.accesskey "S">
+<!ENTITY viewSecurityDevices.label "Befeiligingsapparaten">
+<!ENTITY viewSecurityDevices.accesskey "B">

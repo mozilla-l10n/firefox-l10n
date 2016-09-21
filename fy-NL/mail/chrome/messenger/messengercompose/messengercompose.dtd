@@ -36,8 +36,8 @@
 <!ENTITY saveCmd.label "Bewarje">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "B">
-<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsCmd.label "Bewarje as">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Bestân…">
 <!ENTITY saveAsFileCmd.accesskey "B">
 <!ENTITY saveAsDraftCmd.label "Konsept">
@@ -59,12 +59,12 @@
 <!ENTITY printCmd.accesskey "d">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.accesskey "W">
 <!ENTITY editMenu.label "Bewurkje">
+<!ENTITY editMenu.accesskey "W">
 <!ENTITY undoCmd.label "Ungedien meitsje">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Op 'e nij útfiere">
+<!ENTITY redoCmd.label "Opnij útfiere">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "n">
 <!ENTITY cutCmd.label "Knippe">
@@ -78,30 +78,30 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Op 'e nij rjochtsje">
+<!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Fuortsmite">
 <!ENTITY deleteCmd.accesskey "F">
+<!ENTITY editRewrapCmd.label "Opnij rjochtsje">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY renameAttachmentCmd.label "Bylage omneame…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findBarCmd.label "Sykje…">
-<!ENTITY findBarCmd.key "F">
 <!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Sykje en ferfange…">
 <!ENTITY findReplaceCmd.accesskey "f">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Op 'e nij sykje">
-<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.label "Opnij sykje">
 <!ENTITY findAgainCmd.accesskey "k">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Foarige sykje">
+<!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "r">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Byld">
@@ -217,9 +217,9 @@
 <!ENTITY spellingButton.tooltip "Kontrolearje stavering fan seleksje of folsleine berjocht">
 <!ENTITY statusLanguageText.tooltip "Taal foar staveringshifker">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
-<!ENTITY cutButton.tooltip "Knippe">
-<!ENTITY copyButton.tooltip "Kopiearje">
-<!ENTITY pasteButton.tooltip "Plakke">
+<!ENTITY cutButton.tooltip              "Knippe">
+<!ENTITY copyButton.tooltip             "Kopiearje">
+<!ENTITY pasteButton.tooltip            "Plakke">
 <!ENTITY printButton.tooltip "Dit berjocht ôfdrukke">
 
 <!-- Headers -->
@@ -241,7 +241,6 @@
 <!ENTITY attachments.accesskey "a">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "In glimke ynfoegje">
 <!ENTITY smiley1Cmd.label "Glimke">
 <!ENTITY smiley2Cmd.label "Tryst">
@@ -290,13 +289,13 @@
 <!ENTITY attachFile.label "Bestân(nen) keppelje…">
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konvertearje nei…">
 <!ENTITY convertCloud.accesskey "K">
 <!ENTITY cancelUpload.label "Opladen annulearje">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Standert bylage">
 <!ENTITY convertRegularAttachment.accesskey "b">
-<!ENTITY attachCloud.accesskey "i">
 <!ENTITY attachPage.label "Webside keppelje…">
 <!ENTITY attachPage.accesskey "W">
 

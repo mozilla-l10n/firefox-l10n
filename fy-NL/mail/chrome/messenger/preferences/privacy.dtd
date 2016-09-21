@@ -21,7 +21,7 @@
 <!ENTITY acceptThirdParty.pre.label "Akseptearje tredde-party cookies:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Altyd">
-<!ENTITY acceptThirdParty.never.label "Noait">
+<!ENTITY acceptThirdParty.never.label "Nea">
 <!ENTITY acceptThirdParty.visited.label "Fan besochte">
 <!ENTITY keepUntil.label "Bewarje oant:">
 <!ENTITY keepUntil.accesskey "B">
@@ -36,4 +36,3 @@
 <!ENTITY dntTrackingNotOkay.label2 "Websites witte litte dat ik net folge wurde wol.">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Mear ynfo oer Do Not Track">
-

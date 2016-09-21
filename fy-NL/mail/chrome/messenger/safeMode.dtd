@@ -8,7 +8,7 @@
 <!ENTITY safeModeDescription.label        "&brandShortName; wurket no yn feilige moadus, wêrtroch jo persoanlike ynstellingen, tema’s en útwreidingen tydlik útskeakele binne.">
 <!ENTITY safeModeDescription2.label       "Jo kinne alle of inkele fan dizze wizigingen permanint meitsje:">
 
-<!ENTITY disableAddons.label              "Alle tafoegingen útskeakelje">
+<!ENTITY disableAddons.label              "Alle add-ons útskeakelje">
 <!ENTITY disableAddons.accesskey          "t">
 
 <!ENTITY resetToolbars.label              "Arkbalken en betsjinningen werinisjalisearje">
@@ -19,4 +19,3 @@
 
 <!ENTITY continueButton.label             "Trochgean yn feilige moadus">
 <!ENTITY continueButton.accesskey         "T">
-

@@ -1,16 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title       "Oer jo rjochten">
-<!ENTITY rights.intro-header    "Oer jo rjochten">
+<!ENTITY rights.title            "Oer jo rjochten">
+<!ENTITY rights.intro-header     "Oer jo rjochten">
 <!ENTITY rights.intro "&brandFullName; is fergees en iepen boarne software, makke troch in mienskip fan tûzenen fan oeral oer de wrâld. Der binne in pear dingen dy't jo witte moatte:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
@@ -49,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; biedt opsjonele tsjinsten (&quot;Tsjinsten&quot;), lykas de fernijingstsjinst foar tafoegingen, dy't beskikber binne foar jo gebrûk mei dizze binêre ferzje fan &brandShortName; sa as hjirûnder beskreaun. As jo de Tsjinsten net brûke wolle of de betingsten hjiûnder net akseptabel fine, kinne jo de fernijingstsjinst foar tafoegingen útskeakelje troch by foarkarren ">
+<!ENTITY rights.webservices-a "&brandFullName; biedt opsjonele tsjinsten (&quot;Tsjinsten&quot;), lykas de fernijingstsjinst foar add-ons, dy't beskikber binne foar jo gebrûk mei dizze binêre ferzje fan &brandShortName; sa as hjirûnder beskreaun. As jo de Tsjinsten net brûke wolle of de betingsten hjirûnder net akseptabel fine, kinne jo de fernijingstsjinst foar add-ons útskeakelje troch by foarkarren ">
 <!ENTITY rights.webservices-b "Avansearre">
 <!ENTITY rights.webservices-c " te selektearjen, folge troch it ljepblêd">
 <!ENTITY rights.webservices-d "Fernijing">
