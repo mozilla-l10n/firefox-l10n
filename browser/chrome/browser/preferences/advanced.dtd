@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Wowaleńske rozpšawy pomagaju &vendorShortName;, problemy rozwězaś a waš woglědowak stabilnješy a wěsćejišy cyniś">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Dalšne informacije">
 
 <!ENTITY networkTab.label                "Seś">

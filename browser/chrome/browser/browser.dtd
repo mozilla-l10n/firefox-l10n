@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sedłowe informacije se woglědaś">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobcerk powěsćow wócyniś">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk stojnišćowego napšašowanja wócyniś">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobcerk powěźeńki składowanja offline wócyniś">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobcerk powěźeńki składowanja gronidła wócyniś">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužywanje tykacow zastojaś">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Źělenje wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Źělenje wašych woknow abo wašeje wobrazowki ze sedłom zastojaś">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Wobcerk instalaciskeje powěźeńki wócyniś">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Toś ten bok pśełožowaś">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pśełožowanje boka zastojaś">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužywanje softwary DRM zastojaś">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Sćo toś tomu websedłoju informacijie wó stojnišću zawoborał.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Sćo toś tomu websedłoju zakazał, daty składowaś.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Skalěrowański schójźeńk slědk stajiś">
 
 <!ENTITY searchItem.title             "Pytaś">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Pytańske nastajenja">
-
+<!ENTITY changeSearchSettings.tooltip "Pytańske nastajenja změniś">
 
 <!ENTITY searchInNewTab.label         "W nowem rejtarku pytaś">
 <!ENTITY searchInNewTab.accesskey     "r">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Pšawa">
 <!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
-
+<!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

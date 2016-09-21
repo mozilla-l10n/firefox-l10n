@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Wšykne pisma pokazaś, kótarež wužywaju se na boku">
-
+<!ENTITY showAllFontsUsed "Wše wužyte pisma pokazaś">
 <!ENTITY usedAs "Wužywane ako: ">
 <!ENTITY system "systemowe">
 <!ENTITY remote "daloke">
