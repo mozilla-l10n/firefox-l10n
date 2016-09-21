@@ -59,13 +59,13 @@
 <!ENTITY  crash_allow_contact2 "Izinkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
 <!ENTITY  crash_email "E-mel anda">
 <!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan ranap?">
-<!ENTITY  sending_crash_report "Menghantar laporan nahas\u2026">
+<!ENTITY  sending_crash_report "Menghantar laporan ranap\u2026">
 <!ENTITY  crash_close_label "Tutup">
-<!ENTITY  crash_restart_label "Ulang mula &brandShortName;">
+<!ENTITY  crash_restart_label "Mula semula &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
-<!ENTITY bookmark "Penanda buku">
+<!ENTITY bookmark "Tanda buku">
 <!ENTITY bookmark_remove "Buang tandabuku">
 <!ENTITY bookmark_added "Tanda buku ditambah">
 <!-- Localization note (bookmark_already_added) : This string is

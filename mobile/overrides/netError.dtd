@@ -128,7 +128,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidah dapat ditunjukan kerana ketentusahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi melaporkan masalah ini.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Halaman yang anda cuba lihat tidak boleh dipaparkan kerana autentisiti data yang diterima tidak dapat disahkan.</li>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "
@@ -152,7 +157,7 @@ sementara, dan anda boleh cuba lagi nanti.</li>
 ">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang halaman ini daripada dipaparkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
