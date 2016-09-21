@@ -5,7 +5,9 @@
 <!ENTITY  updateWizard.title              "Kemas kini &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; bekerje di luar talian">
-<!ENTITY  offline.description             "&brandShortName; perlu masuk talian bagi melihat jika terdapat kemaskinian yang ada untuk penambahan anda bagi menjadikannya serasi dengan versi ini">
+<!ENTITY  offline.description             "&brandShortName; perlu ada sambungan Internet untuk menyemak kemas kini
+                                           tersedia untuk add-ons anda supaya sesuai dengan
+                                           versi ini.">
 <!ENTITY  offline.toggleOffline.label     "Masuk talian sekarang.">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
@@ -14,7 +16,7 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; boleh memeriksa jika terdapat versi serasi bagi penambahan ini.">
 
 <!ENTITY  checking.wizard.title           "Memeriksa Penambahan Serasi">
-<!ENTITY  checking.top.label              "Memeriksa kemaskinian bagi penambahan anda yang tidak serasi...">
+<!ENTITY  checking.top.label              "Menyemak kemas kini add-ons anda yang tidak serasi…">
 <!ENTITY  checking.status                 "Ini akan mengambil masa beberapa minit...">
 
 <!ENTITY  found.wizard.title               "Menemui Penambahan Serasi">

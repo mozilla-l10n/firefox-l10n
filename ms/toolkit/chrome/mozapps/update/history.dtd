@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  history.title             "Sejarah Kemaskini">
-<!ENTITY  history.intro             "Kemaskinian berikut telah dipasang:">
+<!ENTITY  history.title             "Sejarah Kemas kini">
+<!ENTITY  history.intro             "Kemas kini berikut telah dipasang:">
 <!ENTITY  closebutton.label         "Tutup">
                                      
-<!ENTITY  noupdates.label           "Tiada lagi kemaskinian dipasang">
+<!ENTITY  noupdates.label           "Masih tiada kemas kini dipasang">
 
-<!ENTITY  name.header               "Kemaskini Nama">
+<!ENTITY  name.header               "Kemas kini Nama">
 <!ENTITY  date.header               "Tarikh Pasang">
 <!ENTITY  type.header               "Jenis">
 <!ENTITY  state.header              "Keadaan">
