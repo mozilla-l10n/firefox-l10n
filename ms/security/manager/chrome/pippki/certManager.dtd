@@ -37,7 +37,7 @@
 <!ENTITY certmgr.editcacert.title             "Edit tetapan sijil CA dipercaya">
 <!ENTITY certmgr.editcert.edittrust           "Edit tetapan dipercaya:">
 <!ENTITY certmgr.editcert.trustssl            "Sijil ini boleh mengenal pasti identiti laman web.">
-<!ENTITY certmgr.editcert.trustemail          "Sijil boleh mengenal pengguna emel.">
+<!ENTITY certmgr.editcert.trustemail          "Sijil ini boleh mengenal pasti pengguna e-mel.">
 <!ENTITY certmgr.editcert.trustobjsign        "Sijil boleh mengenal penipta perisian.">
 
 <!ENTITY certmgr.deletecert.title             "Padam Sijil">
