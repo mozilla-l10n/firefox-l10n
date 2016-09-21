@@ -19,6 +19,17 @@
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
+  <li>Semak alamat untuk kesalahan ejaan seperti
+    <strong>ww</strong>.example.com atau
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
+  <li>Jika anda gagal memnuat mana-mana halaman, semak data peranti anda atau sambungan Wi-Fi.
+    <button id='wifi'>Dayakan Wi-Fi</button>
+  </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
@@ -30,6 +41,18 @@
 <!ENTITY malformedURI.title "Alamat ini tidak sah">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Alamat Web biasanya ditulis seperti
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
+  <li>Pastikan anda menggunakan garis miring (contoh
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Sambungan terganggu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
