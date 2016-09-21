@@ -16,6 +16,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Dalam Pelayaran Peribadi, kami tidak akan menyimpan sejarah atau kuki pelayaran anda. Tanda buku yang anda tambah atau fail yang dimuat turun masih disimpan pada peranti anda.">
 
 <!ENTITY privatebrowsingpage.link.private "Ingin ketahui lebih lanjut?">
 <!ENTITY privatebrowsingpage.link.normal "Buka tab peribadi baru">

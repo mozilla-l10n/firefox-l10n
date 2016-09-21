@@ -185,6 +185,7 @@
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Ciri baru, kemas kini laman web">
 <!ENTITY pref_content_notifications "Kemas kini laman web">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Menyahpepijat Wi-fi perlukan peranti anda yang sudah dipasang app pengimbas kod QR.">
 <!ENTITY pref_manage_logins "Urus log masuk">
 
 <!ENTITY pref_category_home "Utama">
@@ -698,6 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_addons_installation_description "Tambah ciri atau fungsi ke Firefox. Nota: Add-ons boleh menyahdaya sekatan tertentu.">
 <!ENTITY restrictable_feature_private_browsing "Melungsur Secara Peribadi">
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
@@ -719,6 +721,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Maaf! &brandShortName; tidak dapat berfungsi pada peranti ini (&formatS1;, &formatS2;). Sila muat turun versi yang betul.">
 
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings

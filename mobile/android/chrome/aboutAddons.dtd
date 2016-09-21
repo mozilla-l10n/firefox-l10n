@@ -2,13 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "Add-on">
-<!ENTITY aboutAddons.header2                    "Add-on Anda">
+<!ENTITY aboutAddons.title2                     "Add-ons">
+<!ENTITY aboutAddons.header2                    "Add-ons Anda">
 <!ENTITY aboutAddons.options                    "Pilihan">
 
-<!ENTITY addonAction.enable                     "Bolehkan">
-<!ENTITY addonAction.disable                    "Lumpuhkan">
+<!ENTITY addonAction.enable                     "Dayakan">
+<!ENTITY addonAction.disable                    "Nyahdayakan">
 <!ENTITY addonAction.uninstall                  "Nyahpasang">
-<!ENTITY addonAction.undo                       "Kembali Asal">
+<!ENTITY addonAction.undo                       "Batal">
 
+<!ENTITY addonUnsigned.message                  "Add-on ini tidak dapat disahkan oleh &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ketahui lagi">
