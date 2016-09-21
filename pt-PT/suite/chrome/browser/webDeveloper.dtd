@@ -34,7 +34,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label                "Scratchpad">
+<!ENTITY scratchpad.label                "Bloco de rascunho">
 <!ENTITY scratchpad.accesskey            "S">
 <!ENTITY scratchpad.keycode              "VK_F4">
 <!ENTITY scratchpad.keytext              "F4">
