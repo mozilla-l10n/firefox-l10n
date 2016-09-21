@@ -6,11 +6,11 @@
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; hat ûntdekt dat fan de folgjende tafoegingen bekend is dat se stabiliteits- of feilichheidsproblemen feroarsaakje:">
 <!ENTITY blocklist.softblocked       "Foar jo beskerming, wurdt it oanrekommandearre dat jo opnij starte mei dizze add-ons útskeakele.">
-<!ENTITY blocklist.hardblocked       "Dizze tafoegingen hawwe in heech risiko foar stabiliteits- of feilichheidsproblemen en binne blokkearre, mar jo moatte op 'e nij starte om se folslein út te skeakeljen.">
+<!ENTITY blocklist.hardblocked       "Dizze tafoegingen hawwe in heech risiko foar stabiliteits- of feilichheidsproblemen en binne blokkearre, mar jo moatte opnij starte om se folslein út te skeakeljen.">
 <!ENTITY blocklist.softandhard       "De add-ons dy't in heech risiko foar stabiliteits- of feilichheidsproblemen hawwe, binne blokkearre. De oaren hawwe in leger risiko, mar it wurdt tige oanrekommandearre dat jo werstarte mei dizze útskeakele.">
 <!ENTITY blocklist.moreinfo          "Mear ynformaasje">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; op 'e nij starte">
+<!ENTITY blocklist.accept.label      "&brandShortName; opnij starte">
 <!ENTITY blocklist.accept.accesskey  "n">
 
 <!ENTITY blocklist.blocked.label     "Blokkearre">

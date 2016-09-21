@@ -480,7 +480,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "Allinnich dit dielfinster toane">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Dielfinster op 'e nij lade">
+<!ENTITY reloadFrameCmd.label         "Dielfinster opnij lade">
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Boarne fan seleksje besjen">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-boarne besjen">
@@ -495,7 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "y">
 <!ENTITY viewFrameInfoCmd.label       "Dielfinsterynfo besjen">
 <!ENTITY viewFrameInfoCmd.accesskey   "y">
-<!ENTITY reloadImageCmd.label         "Ofbylding op 'e nij lade">
+<!ENTITY reloadImageCmd.label         "Ofbylding opnij lade">
 <!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Ofbylding besjen">
 <!ENTITY viewImageCmd.accesskey       "f">
