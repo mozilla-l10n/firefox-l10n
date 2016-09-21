@@ -209,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ఈ పేజీని అనువదించండి">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">

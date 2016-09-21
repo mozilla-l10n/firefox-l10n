@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "ఈ పేజీలో వాడిన అన్ని ఫాంట్లను చూడండి">
+<!ENTITY showAllFontsUsed "వాడిన ఫాంట్లన్నీ చూపించు">
 <!ENTITY usedAs "ఇలా ఉపయోగించారు: ">
 <!ENTITY system "వ్యవస్థ">
 <!ENTITY remote "రిమోట్">
