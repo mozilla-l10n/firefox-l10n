@@ -4,20 +4,20 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Berjochten ynlade en syngronisearje">
+<!ENTITY MsgSynchronize.label "Berjochten downloade en syngronisearje">
 <!ENTITY MsgSelect.label "Items foar offline gebrûk">
-<!ENTITY MsgSyncDesc.label "As jo al e-mailmappen of nijsgroepen selektearre hawwe foar offline gebrûk, kinne jo se no ynlade en/of syngronisearje. Brûk oars de knop &quot;Selektearje&quot; om e-mailmappen en nijsgroepen te selektearjen foar offline gebrûk.">
-<!ENTITY MsgSyncDirections.label "It folgjende ynlade en/of syngronisearje:">
+<!ENTITY MsgSyncDesc.label "As jo al e-mailmappen of nijsgroepen selektearre hawwe foar offline gebrûk, kinne jo se no downloade en/of syngronisearje. Brûk oars de knop &quot;Selektearje&quot; om e-mailmappen en nijsgroepen te selektearjen foar offline gebrûk.">
+<!ENTITY MsgSyncDirections.label "It folgjende downloade en/of syngronisearje:">
 <!ENTITY syncTypeMail.label "E-mailberjochten">
 <!ENTITY syncTypeMail.accesskey "E">
 <!ENTITY syncTypeNews.label "Nijsgroepberjochten">
 <!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Net-ferstjoerde berjochten ferstjoere">
 <!ENTITY sendMessage.accesskey "f">
-<!ENTITY workOffline.label "Offline wurkje sadree it ynladen en/of syngronisearjen klear is">
+<!ENTITY workOffline.label "Offline wurkje sa gau as it downloaden en/of syngronisearjen klear is">
 <!ENTITY workOffline.accesskey "O">
 <!ENTITY selectButton.label "Selektearje…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Kies e-mailmappen en nijsgroepen foar offline gebrûk.">
-<!ENTITY MsgSelectInd.label "Ynlade">
+<!ENTITY MsgSelectInd.label "Downloade">
 <!ENTITY MsgSelectItems.label "Mappen en nijsgroepen">

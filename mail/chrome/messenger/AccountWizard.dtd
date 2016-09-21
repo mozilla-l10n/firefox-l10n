@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Entities for AccountWizard -->                                                                                                                                                                                    
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Accounthelper">
 <!ENTITY accountWizard.size "width: 42em; height: 40em;">
@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Fier de namme yn dy't jo brûke wolle yn it “Fan”-fjild fan jo útgeande berjochten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(bygelyks “Piet Visser”).">
 <!ENTITY fullnameLabel.label "Jo namme:">
@@ -76,30 +76,25 @@
 <!ENTITY outgoingUsername.label "Utgeande brûkersnamme:">
 <!ENTITY outgoingUsername.accesskey "U">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
--->
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 <!ENTITY modifyOutgoing.suffix "Jo kinne de útgeande servers wizigje yn de accountynstellingen.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Jo besteande útgeande (SMTP-)server, “">
 <!ENTITY haveSmtp1.suffix3 "&quot;, sil brûkt wurde.">
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Jo besteande útgeande (SMTP-)brûkersnamme, &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, sil brûkt wurde.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Jo útgeande (SMTP-)server, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, sil brûkt wurde.">
@@ -120,7 +115,7 @@
 <!ENTITY serverNamePrefix.label "Ynkommende servernamme:">
 <!ENTITY smtpServerNamePrefix.label "Utgeande servernamme (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nijsservernamme (NNTP):">
-<!ENTITY downloadOnLogin.label "Berjochten no ynlade">
+<!ENTITY downloadOnLogin.label "Berjochten no downloade">
 <!ENTITY downloadOnLogin.accesskey "y">
 <!ENTITY deferStorageDesc.label "Fink dizze opsje út om e-mail foar dizze account te bewarjen yn syn eigen map. Dat sil fan dizze account in top-levelaccount meitsje. Oars sil hy diel útmeitsje fan it globale Postfek YN ûnder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postfek YN brûke (e-mail bewarje ûnder Lokale mappen)">

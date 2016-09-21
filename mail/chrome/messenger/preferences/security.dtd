@@ -28,7 +28,7 @@
 <!ENTITY phishingDetector1.intro  "&brandShortName; kin berjochten analysearje op fertochte e-mailscams troch te sjen nei faakfoarkommende techniken dy't brûkt wurde om jo te mislieden.">
 <!ENTITY enablePhishingDetector1.label    "My fertelle oft it lêzen berjocht in fertochte e-mailscam is">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
-<!ENTITY useDownloadedList.label "In ynladen list fan fertochte e-mailscams brûke">
+<!ENTITY useDownloadedList.label "In downloaden list fan fertochte e-mailscams brûke">
 <!ENTITY useDownloadedList.accesskey "d">
 
 <!-- Passwords -->

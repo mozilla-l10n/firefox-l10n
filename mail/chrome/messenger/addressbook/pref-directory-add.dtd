@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Net mear as">
 <!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "resultaten toane">
-<!ENTITY offlineText.label                 "Jo kinne in lokale kopy fan dizze map ynlade, dy't dan beskikber is om te brûken sûnder ferbining.">
+<!ENTITY offlineText.label                 "Jo kinne in lokale kopy fan dizze map downloade, dy't dan beskikber is om offline te brûken.">
 <!ENTITY saslMechanism.label               "Oanmeldmetoade: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Simpel">

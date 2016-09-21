@@ -51,7 +51,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuele account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Folgjende 500 nijsberjochten ynlade">
+<!ENTITY getNextNMsgCmd.label "Folgjende 500 nijsberjochten downloade">
 <!ENTITY getNextNMsgCmd.accesskey "D">
 <!ENTITY sendUnsentCmd.label "Net-ferstjoerde berjochten ferstjoere">
 <!ENTITY sendUnsentCmd.accesskey "n">
@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Sûnder ferbining wurkje">
 <!ENTITY offlineGoOfflineCmd.accesskey "S">
-<!ENTITY synchronizeOfflineCmd.label "No ynlade/syngronisearje…">
+<!ENTITY synchronizeOfflineCmd.label "No downloade/syngronisearje…">
 <!ENTITY synchronizeOfflineCmd.accesskey "d">
 <!ENTITY settingsOfflineCmd2.label "Sûnder ferbining-ynstellingen">
 <!ENTITY settingsOfflineCmd2.accesskey "i">
