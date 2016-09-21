@@ -5,7 +5,7 @@
 <!ENTITY playButton.playLabel "Spila">
 <!ENTITY playButton.pauseLabel "Í bið">
 <!ENTITY muteButton.muteLabel "Hljóðlaus">
-<!ENTITY muteButton.unmuteLabel "Virkja hljóð">
+<!ENTITY muteButton.unmuteLabel "Kveikja á hljóði">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fylla skjá">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Hætta í fullum skjá">
 <!ENTITY castingButton.castingLabel "Senda á skjá">
