@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Tlosa mo Motlhaleng wa tse di fitileng">
 <!ENTITY cmd.removeFromHistory.accesskey  "l">
-<!ENTITY cmd.clearList.label              "Phimola Lenaane">
-<!ENTITY cmd.clearList.accesskey          "m">
+
+
 <!ENTITY cmd.clearDownloads.label         "Phimola Dikopololo">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Botsha Dikopololo Tsotlhe">
 <!ENTITY downloadsHistory.accesskey       "B">
+
 
 <!ENTITY clearDownloadsButton.label       "Phimola Dikopololo">
 <!ENTITY clearDownloadsButton.tooltip     "Diphimolo di digetse, dikopololo tse di khansetsweng le tse di reteletsweng">
