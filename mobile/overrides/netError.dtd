@@ -171,14 +171,22 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Anda tidak sepatutnya menambah pengecualian anda menggunakan sambungan internet yang anda tidak percayai sepenuhnya atau anda tidak biasa melihat amaran untuk pelayan ini.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "
+<p>Anda sepatutnya tidak menambah pengecualian jika anda menggunakan sambungan internet yang memang anda tidak percayai atau jika anda tidak biasa melihat amaran untuk pelayan ini.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "XUL Jarak Jauh">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik tapak web dan beritahu mereka mengenai masalah ini.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Tidak dapat Disambung dengan Selamat">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Info Lanjutan: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Info Lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">

@@ -66,20 +66,20 @@
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
 <!ENTITY bookmark "Tanda buku">
-<!ENTITY bookmark_remove "Buang tandabuku">
+<!ENTITY bookmark_remove "Alih keluar Tanda buku">
 <!ENTITY bookmark_added "Tanda buku ditambah">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Sudah ditanda buku">
-<!ENTITY bookmark_removed "Penandabuku dikeluarkan">
-<!ENTITY bookmark_updated "Penandabuku dikemaskini">
+<!ENTITY bookmark_removed "Tanda buku dialih keluar">
+<!ENTITY bookmark_updated "Tanda buku dikemas kini">
 <!ENTITY bookmark_options "Pilihan">
 <!ENTITY screenshot_added_to_bookmarks "Skrinshot ditambah ke tanda buku">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Cakupan skrin">
+<!ENTITY screenshot_folder_label_in_bookmarks "Skrinshot">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Senarai Bacaan">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
