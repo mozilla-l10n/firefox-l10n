@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; gửi báo cáo sự cố giúp &vendorShortName; cải thiện trình duyệt ổn định và an toàn hơn">
-<!ENTITY enableCrashReporter.label       "Bật Trình Báo Lỗi (C)">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Tìm hiểu thêm">
+
+
+<!ENTITY crashReporterLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY networkTab.label                "Mạng">
 

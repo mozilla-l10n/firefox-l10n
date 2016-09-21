@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Thiết lập Kết nối">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Cấu hình các Proxy để truy cập vào Internet">
 <!ENTITY  noProxyTypeRadio.label        "Không dùng proxy">
