@@ -98,7 +98,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Utsûnderingen…">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList2.label          "De folgjende websteeën hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
+<!ENTITY offlineAppsList2.label          "De folgjende websites hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fuortsmite…">
 <!ENTITY offlineAppsListRemove.accesskey "F">

@@ -45,7 +45,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Dizze side fuortsmite">
 <!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Dit webstee ferjitte">
+<!ENTITY cmd.deleteDomainData.label     "Dizze website ferjitte">
 <!ENTITY cmd.deleteDomainData.accesskey "f">
 
 <!ENTITY cmd.open.label                  "Iepenje">

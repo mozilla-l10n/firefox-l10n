@@ -25,7 +25,7 @@
 <!ENTITY  found.top.label                 "Selektearje de add-on dy't jo ynstallearje wolle:">
 <!ENTITY  found.disabledXPinstall.label   "Dizze fernijingen kinne net ynstallearre wurde, omdat programma-ynstallaasje
                                            op dit stuit útskeakele is. Jo kinne dizze ynstelling hjirûnder wizigje.">
-<!ENTITY  found.enableXPInstall.label     "Websteeën tastean om in programma te ynstallearjen">
+<!ENTITY  found.enableXPInstall.label     "Websites tastean om in programma te ynstallearjen">
 <!ENTITY  found.enableXPInstall.accesskey "W">
 
 <!ENTITY  installing.wizard.title         "Kompatibele add-ons ynstallearje">
