@@ -497,7 +497,6 @@ size. -->
 
 <!ENTITY button_copy "Natto">
 
-<!ENTITY home_top_sites_title "Lowe Dowrowe">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ɓeydu lowre">
@@ -706,3 +705,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
