@@ -664,7 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basisstyl">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Pop-upynstellingen foar dizze webstee feroarje">
+<!ENTITY pageReportIcon.tooltip            "Pop-upynstellingen foar dizze website wizigje">
 
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but

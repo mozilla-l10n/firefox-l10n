@@ -9,7 +9,7 @@
 <!ENTITY setPassword.newPassword.label "Nij wachtwurd:">
 <!ENTITY setPassword.reenterPassword.label "Nij wachtwurd (opnij):">
 <!ENTITY setPassword.meter.label "Wachtwurdkwaliteitsmeter">
-   
+
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Opnij inisjalisearje">
 <!ENTITY resetPassword.title  "Haadwachtwurd opnij inisjalisearje">
@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Sertifikaat downloade">
 <!ENTITY downloadCert.message1 "Jo wurdt frege in nije sertifikaatautoriteit (CA) te fertrouwen.">
-<!ENTITY downloadCert.trustSSL "Fertrouw dizze CA foar it identifisearjen fan websteeën.">
+<!ENTITY downloadCert.trustSSL "Fertrou dizze CA foar it identifisearjen fan websites.">
 <!ENTITY downloadCert.trustEmail "Fertrouw dizze CA foar it identifisearjen fan e-mailbrûkers.">
 <!ENTITY downloadCert.trustObjSign "Fertrouw dizze CA foar it identifisearjen fan ûntwikkelers fan programmatuer.">
 <!ENTITY downloadCert.message3 "Foardat jo dizze CA fertrouwe foar watfoar gebrûk dan ek, moatte jo har sertifikaat bestudearje, lyk as har belied en prosedueres (as se beskikber binne).">
@@ -27,7 +27,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Brûkersidentifikaasjefersyk">
-<!ENTITY clientAuthAsk.message1 "Dizze webstee fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:">
+<!ENTITY clientAuthAsk.message1 "Dizze website fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:">
 <!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as identifikaasje te presentearjen:">
 <!ENTITY clientAuthAsk.message3 "Details fan it selektearre sertifikaat:">
 

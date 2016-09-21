@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Algemien">
 
-<!ENTITY  warnAddonInstall.label		"My warskôgje as websteeën add-ons ynstallearje wolle">
-<!ENTITY  warnAddonInstall.accesskey	"M">
+<!ENTITY  warnAddonInstall.label        "My warskôgje as websites add-ons ynstallearje wolle">
+<!ENTITY  warnAddonInstall.accesskey    "M">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -20,21 +20,21 @@
 <!ENTITY  blockUncommonUnwanted.label     "My warskôgje foar net-winske en ûngebrûklike software">
 <!ENTITY  blockUncommonUnwanted.accesskey "s">
 
-<!ENTITY  addonExceptions.label			"Utsûnderingen…">
-<!ENTITY  addonExceptions.accesskey		"U">
+<!ENTITY  addonExceptions.label         "Utsûnderingen…">
+<!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  logins.label					"Oanmeldingen">
+<!ENTITY  logins.label                  "Oanmeldingen">
 
 <!ENTITY  rememberLogins.label          "Oanmeldingen foar websites ûnthâlde">
 <!ENTITY  rememberLogins.accesskey      "o">
-<!ENTITY  passwordExceptions.label		"Utsûnderingen…">
-<!ENTITY  passwordExceptions.accesskey	"s">
+<!ENTITY  passwordExceptions.label      "Utsûnderingen…">
+<!ENTITY  passwordExceptions.accesskey  "s">
 
-<!ENTITY  useMasterPassword.label		"In haadwachtwurd brûke">
-<!ENTITY  useMasterPassword.accesskey	"I">
-<!ENTITY  changeMasterPassword.label	"Haadwachtwurd wizigje…">
-<!ENTITY  changeMasterPassword.accesskey	"a">
+<!ENTITY  useMasterPassword.label        "In haadwachtwurd brûke">
+<!ENTITY  useMasterPassword.accesskey    "I">
+<!ENTITY  changeMasterPassword.label     "Haadwachtwurd wizigje…">
+<!ENTITY  changeMasterPassword.accesskey "a">
 
 <!ENTITY  savedLogins.label              "Bewarre oanmeldingen…">
 <!ENTITY  savedLogins.accesskey          "m">

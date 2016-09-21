@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c " fûn wurde.">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Inkele ûnderdielen yn &brandShortName;, lykas de Ungelokrapportearder, jouwe jo de mooglikheid om kommentaar te leverjen oan &vendorShortName;. As joe kieze om kommentaar te leverjen, jouwe jo &vendorShortName; tastimming om it kommentaar te brûken om har produkten te ferbetterjen, it kommentaat te publisearjen op syn websteeën en om it kommentaar te fersprieden.">
+<!ENTITY rights.intro-point2.5 "Inkelde ûnderdielen yn &brandShortName;, lykas de Ungelokrapportearder, jouwe jo de mooglikheid om kommentaar te leverjen oan &vendorShortName;. As jo kieze om kommentaar te leverjen, jouwe jo &vendorShortName; tastimming om it kommentaar te brûken om har produkten te ferbetterjen, it kommentaar te publisearjen op syn websites en om it kommentaar te fersprieden.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Hoe't wy jo persoanlike ynformaasje en kommentaar oanlevere oan &vendorShortName; troch &brandShortName; brûke is beskrean yn it ">
@@ -41,7 +41,7 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten brûkt, moat eltse tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
-<!ENTITY rights.intro-point4b-unbranded "Webstee Tsjinsten">
+<!ENTITY rights.intro-point4b-unbranded "Websitetsjinsten">
 <!ENTITY rights.intro-point4c-unbranded " seksje.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Web-basearre ynformaasjetsjinsten">
@@ -76,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Lokaasjebewust sneupe is no útskeakele">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "In oersicht fan de websteetsjinsten dy't yn it produkt sitte, tegearre mei ynstruksjes oer hoe't jo se útskeakelje kinne, indien mooglik, soe hjir stean moatte.">
+<!ENTITY rights.webservices-unbranded "In oersicht fan de websitetsjinsten dy't yn it produkt sitte, tegearre mei ynstruksjes oer hoe't jo se útskeakelje kinne, wannear mooglik, soe hjir stean moatte.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tapaste tsjinstbetingsten moatte hjir oanjûn wurde.">

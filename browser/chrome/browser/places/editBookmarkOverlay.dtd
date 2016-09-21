@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Lokaasje:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Webstee Lokaasje:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Lokaasje website:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
 <!ENTITY editBookmarkOverlay.folder.label                    "Map:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Toan alle blêdwizersmappen">
