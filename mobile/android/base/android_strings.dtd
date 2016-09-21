@@ -283,6 +283,7 @@
 <!ENTITY pref_custom_tabs_summary "Povolit aplikacím třetích stran otevírat URL adresy s přizpůsobeným vzhledem a chováním.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Tok událostí">
 <!ENTITY pref_activity_stream_summary "Bohatý vizuální výpis historie a upravená domovská stránka dělají hledání přesně toho, co v aplikaci &brandShortName; chcete, snazší, než kdy dříve.">
 
 <!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Založte si položky Zobrazení čtečky pro jejich čtení offline.">
 <!ENTITY helper_triple_readerview_open_button "Přidat do záložek">
 
+<!ENTITY activity_stream_topsites "Top stránky">
+<!ENTITY activity_stream_highlights "Vybrané">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
 <!ENTITY activity_stream_more "Více">
