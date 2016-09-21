@@ -23,20 +23,23 @@
 <!ENTITY  unsupported.label               "&brandShortName; Anda telah lapuk, tetapi versi yang terbaru tidak  disokong oleh sistem anda. Sila tatar sistem anda, kemudian cuba lagi.  Anda tidak akan melihat notis ini lagi, tetapi anda boleh">
 <!ENTITY  unsupportedLink.label           "setahui selanjutnya.">
 
-<!ENTITY  clickHere.label                 "Lihat maklumat lanjut perihal kemaskinian ini">
+<!ENTITY  clickHere.label                 "Papar maklumat selanjutnya perihal kemas kini ini">
 
-<!ENTITY  evangelism.desc                 "Adalah amat disarankan agar anda menggunakan kemaskini ini untuk &brandShortName; secepat mungkin.">
+<!ENTITY  evangelism.desc                 "Adan disaran untuk melaksanakan 
+                                           kemas kini untuk &brandShortName; secepat mungkin.">
 
 <!ENTITY  downloadPage.title              "Memuat turun &brandShortName;">
-<!ENTITY  downloading.intro               "Memuaturun kemaskinian...">
-<!ENTITY  connecting.label                "Menyambung kepada pelayan kemaskinian...">
-<!ENTITY  verificationFailedText.label    "&brandShortName; telah gagal mengesahkan intergriti tokokan kemaskinian yang dimuaturunnya, jadi sekarang ia memuaturun pakej kemaskinian lengkap.">
+<!ENTITY  downloading.intro               "Memua turun kemas kini…">
+<!ENTITY  connecting.label                "Menyambung ke pelayan kemas kini…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; tidak dapat mengesahkan integriti 
+                                           tokokan kemas kini yang dimuat turun, kini memuat turun
+                                           pakej kemas kini lengkap.">
 
-<!ENTITY  viewDetails.tooltip             "Papar lebih maklumat untuk kemaskini ini">
+<!ENTITY  viewDetails.tooltip             "Papar butiran kemas kini ini">
 
 <!ENTITY  details.link                    "Perincian">
 
-<!ENTITY  error.title                     "Kemaskini Gagal">
+<!ENTITY  error.title                     "Kemas kini Gagal">
 
 <!ENTITY  error.label                     "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian ini. &brandShortName; tidak dapat dikemaskini disebabkan:">
                                            
