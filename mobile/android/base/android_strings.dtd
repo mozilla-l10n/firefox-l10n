@@ -181,9 +181,9 @@
 <!ENTITY pref_learn_more "Mear ynfo">
 <!ENTITY pref_category_installed_search_engines "Ynstallearre sykmasines">
 <!ENTITY pref_category_add_search_providers "Mear sykkproviders tafoegje">
-<!ENTITY pref_category_search_restore_defaults "Sykmasines werstelle">
-<!ENTITY pref_search_restore_defaults "Standertwearden werstelle">
-<!ENTITY pref_search_restore_defaults_summary "Standertwearden werstelle">
+<!ENTITY pref_category_search_restore_defaults "Sykmasinen werombringe">
+<!ENTITY pref_search_restore_defaults "Standertwearden werombringe">
+<!ENTITY pref_search_restore_defaults_summary "Standertwearden werombringe">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -194,7 +194,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Ljepblêden werstelle, gegevensbesparing, ûntwikkelersark">
+<!ENTITY pref_category_advanced_summary3 "Ljepblêden werombringe, gegevensbesparring, ûntwikkelersark">
 <!ENTITY pref_category_notifications "Notifikaasjes">
 <!ENTITY pref_category_notifications_summary "Nije funksjes, website-fernijingen">
 <!ENTITY pref_content_notifications "Website-fernijingen">
@@ -350,9 +350,9 @@
 <!ENTITY pref_plugins_tap_to_play2 "Oanreitsje foar ôfspyljen">
 <!ENTITY pref_plugins_disabled "Utskeakele">
 <!ENTITY pref_text_size "Tekstgrutte">
-<!ENTITY pref_restore_tabs "Ljepblêden werstelle">
-<!ENTITY pref_restore_always "Altyd werstelle">
-<!ENTITY pref_restore_quit "Net werstelle nei ôfsluten fan &brandShortName;">
+<!ENTITY pref_restore_tabs "Ljepblêden werombringe">
+<!ENTITY pref_restore_always "Altyd werombringe">
+<!ENTITY pref_restore_quit "Net werombringe nei ôfsluten fan &brandShortName;">
 <!ENTITY pref_font_size_tiny "Hiel lyts">
 <!ENTITY pref_font_size_small "Lyts">
 <!ENTITY pref_font_size_medium "Gemiddeld">
@@ -446,7 +446,7 @@ size. -->
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Automatyske fernijingen">
 <!ENTITY pref_update_autodownload_wifi "Allinnich fia wifi">
-<!ENTITY pref_update_autodownload_never "Noait">
+<!ENTITY pref_update_autodownload_never "Nea">
 <!ENTITY pref_update_autodownload_always "Altyd">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -589,7 +589,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "Bewarre blêdwizers komme hjir.">
 <!ENTITY home_closed_tabs_title2 "Koartlyn sluten">
 <!ENTITY home_last_tabs_empty "Jo resinte ljepblêden komme hjir.">
-<!ENTITY home_restore_all "Alle werstelle">
+<!ENTITY home_restore_all "Alle werombringe">
 <!ENTITY home_closed_tabs_number "&formatD; ljepblêden">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ljepblêd">
@@ -717,7 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Trochgean">
 <!ENTITY guest_session_dialog_cancel "Annulearje">
 <!ENTITY new_guest_session_title "&brandShortName; sil no opnij starte">
-<!ENTITY new_guest_session_text2 "De persoan dy’t dit brûkt, sil jo persoanlike navigaasjegegevens (lykas bewarre oanmeldingen, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
+<!ENTITY new_guest_session_text2 "De persoan dy’t dit brûkt, sil jo persoanlike navigaasjegegevens (lykas bewarre oanmeldingen, skiednis of blêdwizers) net sjen kinne.\n\nSa gau as jo gast klear is, wurde syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje werombrocht.">
 <!ENTITY guest_browsing_notification_title "Gastbrowsen is ynskeakele">
 <!ENTITY guest_browsing_notification_text "Tik om ôf te sluten">
 
@@ -756,7 +756,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Lêst syngronisearre: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Lêst syngronisearre: noait">
+<!ENTITY remote_tabs_never_synced "Lêst syngronisearre: nea">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Skiednis wiskje">
 <!ENTITY restrictable_feature_clear_history_description "Lit gezinsleden gegevens oer de troch harren besochte websites fuortsmite.">
 <!ENTITY restrictable_feature_advanced_settings "Avansearre ynstellingen">
-<!ENTITY restrictable_feature_advanced_settings_description "Omfetsje it ymportearjen fan blêdwizers, werstellen fan ljepblêden en automatyske fernijingen. Set dit út foar ferienfâldige ynstellingen dy’t foar elts gezinslid passend binne.">
+<!ENTITY restrictable_feature_advanced_settings_description "Omfetsje it ymportearjen fan blêdwizers, werombringen fan ljepblêden en automatyske fernijingen. Set dit út foar ferienfâldige ynstellingen dy’t foar elk húshâldingslid passend binne.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofoan">
 <!ENTITY restrictable_feature_camera_microphone_description "Lit gezinsleden dielnimme oan realtime-kommunikaasje op websites.">
 <!ENTITY restrictable_feature_block_list "Blokkearlist">
