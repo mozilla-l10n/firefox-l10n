@@ -31,7 +31,7 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Kies in wachtwurd">
 <!ENTITY setup.choosePassword.accesskey  "w">
-<!ENTITY setup.confirmPassword.label     "Befestigje wachtwurd">
+<!ENTITY setup.confirmPassword.label     "Befêstigje wachtwurd">
 <!ENTITY setup.confirmPassword.accesskey "f">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -66,7 +66,7 @@
 <!ENTITY pairDevice.dialog.description.label "Om jo nije apparaat te aktivearjen, selektearje ‘Sync ynstelle’ op it apparaat.">
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje opnij.">
-<!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
+<!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkelde minuten duorje en sil op de achtergrûn slute.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Om jo apparaat te aktivearjen, moatte jo jo werombringkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 

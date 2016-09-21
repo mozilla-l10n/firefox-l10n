@@ -11,7 +11,7 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Opnij lade">
-<!ENTITY aboutNetworking.autoRefresh           "Eltse 3 sekonden opnij lade">
+<!ENTITY aboutNetworking.autoRefresh           "Elke 3 sekonden opnij lade">
 <!ENTITY aboutNetworking.hostname              "Hostnamme">
 <!ENTITY aboutNetworking.port                  "Poarte">
 <!ENTITY aboutNetworking.spdy                  "SPDY">

@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Skiednis">
 <!ENTITY dataSection.label            "Gegevens">
 
-<!ENTITY itemHistoryAndDownloads.label     "Navigaasje- en ynlaadskiednis">
+<!ENTITY itemHistoryAndDownloads.label     "Navigaasje- en downloadskiednis">
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemFormSearchHistory.label       "Formulier- &amp; sykskiednis">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

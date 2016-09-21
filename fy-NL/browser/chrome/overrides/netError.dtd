@@ -24,7 +24,7 @@
   <li>Kontrolearje it adres op typflaters lykas
     <strong>ww</strong>.example.com yn stee fan
     <strong>www</strong>.example.com</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade
+  <li>Kontrolearje jo netwurkferbining as jo gjin inkelde side lade
     kinne.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
     kompjûter of netwurk befeilige is troch in brânmuorre of proxyserver.</li>
@@ -155,7 +155,7 @@ was trying to connect. -->
 <ul>
   <li>Miskien is de website tydlik net beskikber. Probearje it letter 
     nochris.</li>
-  <li>As jo gjin inkele side lade kinne, kontrolearje dan de netwurkferbining
+  <li>As jo gjin inkelde side lade kinne, kontrolearje dan de netwurkferbining
     fan jo kompjûter.</li>
   <li>As jo kompjûter of netwurk befeilige wurdt troch in firewall of proxy,
     soargje der dan foar dat &brandShortName; tagong hat ta it web.</li>
@@ -187,7 +187,7 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Avansearre ynfo: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avansearre">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wienen.">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene.">
 <!ENTITY weakCryptoAdvanced.override "(Net befeilige) <span class='hostname'></span> probearje te laden fia ferâldere befeiliging">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
@@ -204,7 +204,7 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 <!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûnthulle wêrfan jo tochten dat dizze feilich wienen. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">

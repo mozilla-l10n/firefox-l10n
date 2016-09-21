@@ -19,7 +19,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Publike Lisinsje">
 <!ENTITY rights.intro-point1c ". Dit betsjut dat jo &brandShortName; brûke meie, kopiearje en distribuearje nei oaren.  Jo binne ek wolkom om de boarnekoade te bewurkjen of &brandShortName; sa as jo dat wolle. De Mozilla Publike Lisinsje jout jo ek it rjocht om jo oanpaste ferzje te fersprieden.">
 
-<!ENTITY rights.intro-point2-a "Jo krije gjin inkele hannelsrjochten of lisinsjes foar de hannelsmerken fan de Mozilla Foundation of oare partijen, ynklusyf sûndr beheining de Firefox namme of it logo. Fierdere ynformaasje oer hannelsmerken kin ">
+<!ENTITY rights.intro-point2-a "Jo krije gjin inkelde hannelsrjochten of lisinsjes foar de hannelsmerken fan de Mozilla Foundation of oare partijen, ynklusyf sûnder beheining de Firefox namme of it logo. Fierdere ynformaasje oer hannelsmerken kin ">
 <!ENTITY rights.intro-point2-b "hjir">
 <!ENTITY rights.intro-point2-c " fûn wurde.">
 
@@ -32,15 +32,15 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Tapaste privacy betingsten foar dit produkt soenen hjir toant wurde moatte.">
+<!ENTITY rights.intro-point3-unbranded "Tapaste privacy betingsten foar dit produkt soene hjir toand wurde moatte.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Inkele &brandShortName; funksjes meitsje gebrûk fan web-basearre ynformaasje tsjinsten, mar, wy kinne net fersekerje dat se 100&#37; akkuraat of flaterfrij binne. Mear details, ynklusyf ynformaasje oer hoe't jo dizze funksjes útskeakelje kinne dy't dizze tsjinsten brûke, kinne fûn wurde yn de ">
+<!ENTITY rights2.intro-point4a "Inkelde &brandShortName; funksjes meitsje gebrûk fan web-basearre ynformaasje tsjinsten, mar, wy kinne net fersekerje dat se 100&#37; akkuraat of flaterfrij binne. Mear details, ynklusyf ynformaasje oer hoe't jo dizze funksjes útskeakelje kinne dy't dizze tsjinsten brûke, kinne fûn wurde yn de ">
 <!ENTITY rights.intro-point4b "tsjinsttermen">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten brûkt, moat eltse tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
+<!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten brûkt, moat elke tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
 <!ENTITY rights.intro-point4b-unbranded "Websitetsjinsten">
 <!ENTITY rights.intro-point4c-unbranded " seksje.">
 
