@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalše informacije">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Spadowe rozprawy pomhaja &vendorShortName;, problemy rozrisać a waš wohladowak stabilniši a wěsćiši činić">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Dalše informacije">
 
 <!ENTITY networkTab.label                "Syć">
