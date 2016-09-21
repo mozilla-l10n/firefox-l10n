@@ -53,7 +53,12 @@
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Anda perlu memasang perisian lain untuk membuka alamat ini.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li> <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi berfungsi.</li> </ul>">
@@ -101,6 +106,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Info Lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Sambungan anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
