@@ -155,7 +155,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Hlela lolu phawu lokubekisa">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "|">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -197,9 +196,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Printa">
 <!ENTITY printButton.tooltip          "Printa leli khasi">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -397,9 +396,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -419,6 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
 
 
 
@@ -686,6 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Izimvume">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -723,20 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncToolbarButton.label      "i-Sync">
 
-<!ENTITY socialToolbar.title        "Inkinobho yebha lamathuluzi lomphakathi">
-
-<!ENTITY social.ok.label       "KULUNGILE">
-<!ENTITY social.ok.accesskey   "K">
-
-
-
 <!ENTITY social.addons.label "Phatha amasevisi…">
-
-<!ENTITY social.toggleNotifications.label "Bonisa izaziso zedeskithophu">
-<!ENTITY social.toggleNotifications.accesskey "i">
-
-<!ENTITY social.learnMore.label "Funda kabanzi…">
-<!ENTITY social.learnMore.accesskey "F">
 
 
 
@@ -754,14 +742,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.lwthemes.menuGetMore "Thola Izihloko Ezengeziwe">
-
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Izingxoxo eziqondiwe">
-<!ENTITY social.chatBar.accesskey "n">
-
-
-
 
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokwaba:">
@@ -794,8 +774,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY pointerLock.notification.message "Cindezela u-ESC noma kunini ukuze ubonise futhi.">
 
 <!ENTITY pluginNotification.showAll.label "Bonisa Konke">
 <!ENTITY pluginNotification.showAll.accesskey "B">
