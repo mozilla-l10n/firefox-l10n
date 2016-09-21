@@ -570,7 +570,6 @@ size. -->
 <!ENTITY button_clear "Išvalyti">
 <!ENTITY button_copy "Kopijuoti">
 
-<!ENTITY home_top_sites_title "Lankomiausi">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
@@ -828,3 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Įtraukite skaitymo rodinio elementus į adresyną, kad galėtumėte juos skaityti neprisijungę.">
 <!ENTITY helper_triple_readerview_open_button "Įtraukti į adresyną">
 
+
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
