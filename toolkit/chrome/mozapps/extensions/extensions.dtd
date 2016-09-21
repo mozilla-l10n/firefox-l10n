@@ -65,7 +65,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "S">
 <!ENTITY updates.updating.label               "Add-ons oan it bywurkjen">
 <!ENTITY updates.installed.label              "Jo add-ons binne bywurke.">
-<!ENTITY updates.downloaded.label             "Jo add-onsfernijingen binne ynladen.">
+<!ENTITY updates.downloaded.label             "Jo add-onsfernijingen binne download.">
 <!ENTITY updates.restart.label                "Werstart no om de ynstallaasje te foltôgjen.">
 <!ENTITY updates.noneFound.label              "Gjin fernijingen fûn">
 <!ENTITY updates.manualUpdatesFound.label     "Toan beskikbere fernijingen">
@@ -131,7 +131,7 @@
 <!ENTITY detail.lastupdated.label             "Lêst bywurke">
 <!ENTITY detail.creator.label                 "Untwikkeler">
 <!ENTITY detail.homepage.label                "Thússide">
-<!ENTITY detail.numberOfDownloads.label       "Oantal kear ynladen">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
 <!ENTITY detail.contributions.description     "De ûnwikkeler fan dizze add-on freget om stipe foar de trochgeande ûntwikkeling troch it meitsjen fan in lytse bydrage.">
 
