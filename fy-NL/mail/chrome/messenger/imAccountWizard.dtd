@@ -15,7 +15,7 @@
 <!ENTITY accountPasswordTitle.label   "Wachtwurd">
 <!ENTITY accountPasswordInfo.label    "Fier jo wachtwurd yn it ûndersteande fjild yn.">
 <!ENTITY accountPasswordField.label   "Wachtwurd:">
-<!ENTITY accountPasswordManager.label "It ynfierde wachtwurd wurdt bewarre yn de wachtwurdbehearder. Lit dit fjild leech as jo eltse kear as jo mei dit account ferbining meitsje jo wachtwurd ynfolje wolle.">
+<!ENTITY accountPasswordManager.label "It ynfierde wachtwurd wurdt bewarre yn de wachtwurdbehearder. Lit dit fjild leech as jo elke kear as jo mei dit account ferbining meitsje jo wachtwurd ynfolje wolle.">
 
 <!ENTITY accountAdvancedTitle.label   "Avansearre opsjes">
 <!ENTITY accountAdvancedInfo.label    "Fiel jo frij om dizze stap oer te slaan, as jo dat wolle.">

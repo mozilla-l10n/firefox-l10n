@@ -24,7 +24,7 @@
 <!ENTITY community.exp.middle       " is in ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "wrâldwiide mienskip">
-<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier en foar eltsenien tagonklik te hâlden.">
+<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier en foar elkenien tagonklik te hâlden.">
 
 <!ENTITY community.start2           "&brandShortName; is makke troch ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -32,7 +32,7 @@
 <!ENTITY community.middle2          ", in ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wrâldwiide mienskip">
-<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier, en foar eltsenien tagonklik te hâlden.">
+<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier, en foar elkenien tagonklik te hâlden.">
 
 <!ENTITY helpus.start               "Wolle jo helpe? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
