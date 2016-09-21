@@ -294,28 +294,35 @@
 <!ENTITY tab_queue_toast_action "Buka sekarang">
 <!ENTITY tab_queue_prompt_title "Buka berbilang pautan?">
 <!ENTITY tab_queue_prompt_text4 "Simpan pautan sehingga anda buka lagi sekali &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Anda boleh ubahnya dalam Tetapan">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktifkan Setuju untuk mengeluarkan app lain">
 <!ENTITY tab_queue_prompt_positive_action_button "Dayakan">
+<!ENTITY tab_queue_prompt_negative_action_button "Bukan sekarang">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Pergi ke Tetapan">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; tab menunggu">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tab menunggu">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Untuk \&quot;Buka pelbagai pautan\&quot;, Sila dayakan izin \&apos;Keluarkan ke atas app lain\&apos; untuk &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; laman web dikemas kini">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "Tetapan">
@@ -330,18 +337,21 @@
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
+<!ENTITY pref_clear_private_data2 "Buang data peribadi">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Padam sekarang">
+<!ENTITY pref_clear_private_data_now_tablet "Buang sekarang">
+<!ENTITY pref_clear_on_exit_title3 "Buang data perbadi apabila keluar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
-<!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
+<!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang mahu dibuang">
 <!ENTITY pref_plugins "Plugin">
-<!ENTITY pref_plugins_enabled "Dibolehkan">
-<!ENTITY pref_plugins_tap_to_play2 "Tap untuk mainkan">
-<!ENTITY pref_plugins_disabled "Dilumpuhkan">
+<!ENTITY pref_plugins_enabled "Dayakan">
+<!ENTITY pref_plugins_tap_to_play2 "Sentuh untuk memainkan">
+<!ENTITY pref_plugins_disabled "Dinyahdayakan">
 <!ENTITY pref_text_size "Saiz teks">
-<!ENTITY pref_restore_always "Sentiasa memulihkan">
-<!ENTITY pref_restore_quit "Jangan memulihkan selepas berhenti &brandShortName;">
+<!ENTITY pref_restore_tabs "Kembalikan semula tab">
+<!ENTITY pref_restore_always "Sentiasa kembalikan semula">
+<!ENTITY pref_restore_quit "Jangan kembalikan semula selepas keluar &brandShortName;">
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
 <!ENTITY pref_font_size_small "Kecil">
 <!ENTITY pref_font_size_medium "Sederhana">
@@ -357,46 +367,55 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Musang oren yang pantas melompat melebihi jangkaan anda dengan kelajuan yang lebih, lebih fleksibiliti dan lebih keselamatan. Sebagai organisasi tanpa untung, kami bebas untuk melakukan pembaharuan bagi pihak anda tanpa sebarang tekanan untuk berkompromi. Ini bermakna pengalaman yang lebih baik untuk anda dan masa depan yang lebih cerah untuk Web.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\&apos;re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_media_autoplay_enabled "Benarkan auto main">
+<!ENTITY pref_media_autoplay_enabled "Izinkan auto main">
 <!ENTITY pref_media_autoplay_enabled_summary "Kawal jika laman web boleh auto mainkan video dan kandungan media lain">
-<!ENTITY pref_zoom_force_enabled "Sentiasa bolehkan zum">
-<!ENTITY pref_zoom_force_enabled_summary "Paksa langkauan supaya anda boleh zum sebarang laman">
+<!ENTITY pref_zoom_force_enabled "Sentiasa dayakan zum">
+<!ENTITY pref_zoom_force_enabled_summary "Paksa langkauan supaya anda boleh zum mana-mana halaman">
 <!ENTITY pref_voice_input "Input suara">
 <!ENTITY pref_voice_input_summary2 "Izinkan diktasi suara dalam bar URL">
+<!ENTITY pref_qrcode_enabled "pembaca kod QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Izinkan pengimbas QR di dalam bar URL">
 
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
 <!ENTITY pref_sync2 "Daftar masuk">
-<!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
-<!ENTITY pref_private_data_history2 "Sejarah pelungsuran">
+<!ENTITY pref_sync_summary2 "Sync tab, tanda buku, log masuk dan sejarah anda">
+<!ENTITY pref_search_suggestions "Papar cadangan carian">
+<!ENTITY pref_history_search_suggestions "Papar sejarah carian">
+<!ENTITY pref_import_options "Import pilihan">
+<!ENTITY pref_import_android_summary "Import tanda buku dan sejarah dari pelayar terbina dalam">
+<!ENTITY pref_private_data_history2 "Sejarah pelayaran">
+<!ENTITY pref_private_data_searchHistory "Sejaran carian">
+<!ENTITY pref_private_data_formdata2 "Sejarah aksara">
 <!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
 <!ENTITY pref_private_data_passwords2 "Log masuk tersimpan">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
 <!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
 <!ENTITY pref_private_data_downloadFiles2 "Muat turun">
+<!ENTITY pref_private_data_syncedTabs "Tab sync">
 
 <!ENTITY pref_default_browser "Jadikan pelayar piawai">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lawati Mozilla Support">
-<!ENTITY pref_about_firefox "Mengenai &brandShortName;">
-<!ENTITY pref_vendor_faqs "Soalan Lazim">
+<!ENTITY pref_about_firefox "Perihal &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Beri maklum balas">
 
 <!ENTITY pref_dialog_set_default "Tetapkan sebagai piawai">
 <!ENTITY pref_dialog_default "Piawai">
-<!ENTITY pref_dialog_remove "Singkir">
+<!ENTITY pref_dialog_remove "Alih keluar">
 
-<!ENTITY pref_search_last_toast "Anda tidak boleh mengeluarkan atau melumpuhkan enjin carian terakhir anda.">
+<!ENTITY pref_search_last_toast "Anda tidak boleh mengalih keluar atau menyahdayakan enjin carian terakhir anda.">
 
-<!ENTITY pref_panels_show "Tunjuk">
-<!ENTITY pref_panels_hide "Sembunyi">
-<!ENTITY pref_panels_reorder "Tukar urutan">
+<!ENTITY pref_panels_show "Papar">
+<!ENTITY pref_panels_hide "Sorok">
+<!ENTITY pref_panels_reorder "Tukar tertib">
 <!ENTITY pref_panels_move_up "Alih ke atas">
 <!ENTITY pref_panels_move_down "Alih ke bawah">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Pilih bahan perkongsian">
+<!ENTITY datareporting_notification_action "Pilih kandungan untuk dikongsi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
 <!ENTITY datareporting_notification_summary "Bagi menambah baik pengalaman anda, &brandShortName; secara automatik menghantar maklumat ke &vendorShortName;.">
@@ -410,21 +429,23 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Laporan Kesihatan">
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; tentang kesihatan pelayar anda dan membantu anda memahami prestasi pelayar anda">
-<!ENTITY datareporting_abouthr_title "Lihat Laporan Kesihatan saya">
+<!ENTITY datareporting_abouthr_title "Papar Health Report saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan kerosakan untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
+<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Bantu &vendorShortName; memetai dunia! Kongsi lokasi Wi-Fi dan talian peranti anda untuk memperbaikkan perkhidmatan geolokasi kami.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Kemas kini automatik">
 <!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Tidak sekali">
+<!ENTITY pref_update_autodownload_never "Jangan sesekali">
 <!ENTITY pref_update_autodownload_always "Sentiasa">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -443,7 +464,7 @@ size. -->
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY print "Cetak">
 <!ENTITY find_in_page "Cari dalam halaman">
-<!ENTITY desktop_mode "Pinta laman desktop">
+<!ENTITY desktop_mode "Minta laman desktop">
 <!ENTITY page "Halaman">
 <!ENTITY tools "Alatan">
 <!ENTITY new_tab "Tab baru">
