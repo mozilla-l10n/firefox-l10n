@@ -33,6 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Tag'>
 <!ENTITY bookmarks.folder.toolbar.label 'Toolbar Penandabuku'>
+<!ENTITY bookmarks.folder.other.label 'Tanda buku Lain'>
 <!ENTITY bookmarks.folder.desktop.label 'Penandabuku Desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Penandabuku mudah alih'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -46,11 +47,15 @@
 <!ENTITY fxaccount_back_to_browsing 'Undur kepada pelayaran'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Selamat Datang ke &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Log masuk untuk sync tab anda, tanda buku, log masuk &amp; banyak lagi.'>
 <!ENTITY fxaccount_getting_started_get_started 'Mulakan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Mulakan versi lama &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Daftar masuk sebagai'>
+<!ENTITY fxaccount_status_manage_account 'Urus akaun'>
 <!ENTITY fxaccount_status_auth_server 'Pelayan akaun'>
+<!ENTITY fxaccount_status_sync_now 'Sync sekarang'>
+<!ENTITY fxaccount_status_syncing2 'Sedang sync…'>
 <!ENTITY fxaccount_status_device_name 'Nama peranti'>
 <!ENTITY fxaccount_status_sync_server 'Pelayan Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -68,6 +73,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Terma perkhidmatan'>
 <!ENTITY fxaccount_status_linkprivacy2 'Notis privasi'>
 <!ENTITY fxaccount_status_more 'Lagi&ellipsis;'>
 
@@ -103,6 +109,7 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Pelayan sibuk, cuba lagi nanti'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Pelayan sibuk, cuba lagi nanti '>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Terdapat masalah'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Akaun dikunci. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; tidak tersambung'>
 <!-- Localization note: the format string below will be replaced
