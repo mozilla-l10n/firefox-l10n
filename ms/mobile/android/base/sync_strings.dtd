@@ -62,8 +62,9 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: dibolehkan'>
 <!ENTITY fxaccount_status_needs_verification2 'Akaun anda perlu disahkan. Tap untuk hantar semula email pengesahan.'>
 <!ENTITY fxaccount_status_needs_credentials 'Tidak dapat menyambung. Tap untuk mendaftar masuk.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Anda perlu menaik taraf &brandShortName; untuk mendaftar masuk.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; telah ditatacara, tetapi tidak dapat sync secara automatik. Togol “Auto-sync data” di dalam menu Tetapan Akaun Android &gt;.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tap untuk daftar masuk ke Akaun Firefox baru anda.'>
 <!ENTITY fxaccount_status_bookmarks 'Tanda buku'>
 <!ENTITY fxaccount_status_history 'Sejarah'>

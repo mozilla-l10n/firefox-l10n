@@ -110,9 +110,15 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Periksa tetapan proksi untuk memastikan yang ianya adalah betul.</li> <li>Periksa juga yang peranti anda mempunyai sambungan data atau Wi-Fi. <button id='wifi'>Dayakan Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari menerima cookie.</li> </ul>">
+<!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Masalah ini kadang kala disebabkan oleh menyahdaya atau tidak mahu menerima
+    kuki.</li>
+</ul>
+">
 
-<!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Semak untuk pastikan sistem anda ada Pengurus Keselamatan Peribadi yang
@@ -121,7 +127,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sambungan yang Selamat Gagal">
+<!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidah dapat ditunjukan kerana ketentusahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi melaporkan masalah ini.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Selamat Gagal">

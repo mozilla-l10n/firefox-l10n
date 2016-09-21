@@ -42,23 +42,23 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Penandabuku">
+<!ENTITY  bookmarks_title "Tanda buku">
 <!ENTITY  history_title "Sejarah">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "Pamerkan versi luar talian">
+<!ENTITY  tab_offline_version "Papar versi luar talian">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Nahas">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.">
 <!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
 <!ENTITY  crash_include_url2 "Sertakan alamat halaman saya sekarang">
 <!ENTITY  crash_sorry "Kami mohon maaf">
 <!ENTITY  crash_comment "Tambah komen (komen disiarkan kepada umum)">
-<!ENTITY  crash_allow_contact2 "Benarkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
-<!ENTITY  crash_email "Emel anda">
-<!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan nahas?">
+<!ENTITY  crash_allow_contact2 "Izinkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
+<!ENTITY  crash_email "E-mel anda">
+<!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan ranap?">
 <!ENTITY  sending_crash_report "Menghantar laporan nahas\u2026">
 <!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Ulang mula &brandShortName;">
