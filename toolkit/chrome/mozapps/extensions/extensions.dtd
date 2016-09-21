@@ -120,7 +120,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Apakah Add-ons?">
-<!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName; anda sendiri.">
+<!ENTITY discover.description2                "Add-ons ialah paklikasi yang membolehkan anda menyesuai &brandShortName; dengan
+  fungsi atau gaya tambahan. Cuba bar sisi jimat-masa, pemaklum cuaca, atau tema yang menjadikan &brandShortName;
+  kepunyaan anda sendiri.">
 <!ENTITY discover.footer                      "Apabila anda telah disambungkan ke internet, anak tetingkap ini akan  memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba.">
 
 <!-- detail view -->
