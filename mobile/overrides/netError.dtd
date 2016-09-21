@@ -217,4 +217,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûnthulle wêrfan jo tochten dat dizze feilich wienen. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
