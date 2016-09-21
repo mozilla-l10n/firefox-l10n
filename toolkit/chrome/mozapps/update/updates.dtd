@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. kwe-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
 
 <!ENTITY  genericBackgroundError.label    "I-&brandShortName; ayikwazi ukumisela ukuba ingaba kukho uhlaziyo olufumanekayo na. Nceda uqinisekise ukuba unalo uguqulelo lwakutshanje lwe-&brandShortName; olusuka:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo i-&brandShortName; ekuhlaziyeni ngokukhuselekileyo. Nceda uqinisekise ukuba unalo uguqulelo lwakutshanje lwe-&brandShortName; olusuka:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Kukho into ezama ukubhida i-&brandShortName; ekwamkeleni uhlaziyo olungakhuselekanga. Nceda uqhagamshelane nomboneleli wenethiwekhi yakho uze ufune uncedo.">
 
 <!ENTITY  finishedPage.title              "Uhlaziyo luKulungele ukuFakela">
 <!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo i-&brandShortName; iqalisa. Wena ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">

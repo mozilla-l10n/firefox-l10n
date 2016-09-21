@@ -85,11 +85,9 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ukujija olu khetho  kuya kuvulela abasebenzi benkonzo ngaphezu kwe-HTTP yazo zonke iithebhu ezinethulbhoksi evuliweyo">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Izixhobo ZeFirefox Zophuhliso Zedifolti">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

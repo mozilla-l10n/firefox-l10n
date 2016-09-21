@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
 
-<!ENTITY crashReporterDesc.label         "I-&brandShortName; ingenisa iingxelo zokonakala ukunceda i-&vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
-<!ENTITY enableCrashReporter.label       "Yenza sisebenze isiNiki-Ngxelo soMonakalo">
-<!ENTITY enableCrashReporter.accesskey   "i">
-<!ENTITY crashReporterLearnMore.label    "Funda ngaphezulu">
+
+
+<!ENTITY crashReporterLearnMore.label     "Funda ngaphezulu">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
