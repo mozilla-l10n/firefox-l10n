@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Oanpaste ynstellingen brûke foar skiednis">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; sil jo browsing, ynladen bestannen, formulier- en sykskiednis ûnthâlde en cookies fan websites dy't jo besykje bewarje.">
+<!ENTITY  rememberDescription.label      "&brandShortName; sil jo browsing, downloaden bestannen, formulier- en sykskiednis ûnthâlde en cookies fan websites dy't jo besykje bewarje.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
