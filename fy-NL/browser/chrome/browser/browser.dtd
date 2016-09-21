@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje ">
-<!ENTITY fullScreenRestore.tooltip "Werstelle">
+<!ENTITY fullScreenRestore.tooltip "Werom bringe">
 <!ENTITY fullScreenClose.tooltip "Slute">
 <!ENTITY fullScreenAutohide.label "Arkbalken ferstopje ">
 <!ENTITY fullScreenAutohide.accesskey "A">
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Koartlyn sluten ljepblêden">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Koartlyn sluten skermen">
-<!ENTITY historyRestoreLastSession.label "Foargeande sesje werstelle">
+<!ENTITY historyRestoreLastSession.label "Foargeande sesje werom bringe">
 
 <!ENTITY showAllHistoryCmd2.label "Alle skiednis toane">
 <!ENTITY showAllHistoryCmd.commandkey "s">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Skiednis">
 <!ENTITY appMenuHistory.showAll.label "Alle skiednis toane">
 <!ENTITY appMenuHistory.clearRecent.label "Resinte skiednis wiskje…">
-<!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werstelle">
+<!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werom bringe">
 <!ENTITY appMenuHistory.viewSidebar.label "Skiednissydbalke werjaaan">
 <!ENTITY appMenuHelp.tooltip "Menu Help iepenje">
 
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ekstra helpmiddelen en funksjes">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wolle jo mear helpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies út tûzenen add-ons">
-<!ENTITY customizeMode.restoreDefaults "Standertynstellingen werstelle">
+<!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
 <!ENTITY customizeMode.toolbars "Arkbalken toane/ferstopje">
 <!ENTITY customizeMode.titlebar "Titelbalke">
 <!ENTITY customizeMode.lwthemes "Tema's">

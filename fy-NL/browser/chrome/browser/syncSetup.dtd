@@ -22,7 +22,7 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwurd">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.recoveryKey.label       "Werstelkaai">
+<!ENTITY signIn.recoveryKey.label       "Werombringkaai">
 <!ENTITY signIn.recoveryKey.accesskey   "k">
 
 <!-- New Account Page 1: Basic Account Info -->
@@ -47,10 +47,10 @@
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; tinkt om jo privacy">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Om jo folsleine privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De westelkaai dy't nedich is om jo gegevens te ûntsiferjen wurdt net opladen.">
-<!ENTITY recoveryKeyEntry.label        "Jo werstelkaai">
+<!ENTITY recoveryKeyEntry.label        "Jo werombringkaai">
 <!ENTITY recoveryKeyEntry.accesskey    "w">
 <!ENTITY syncGenerateNewKey.label  "Nije kaai oanmeitsje">
-<!ENTITY recoveryKeyBackup.description "Jo werstelkaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje in reservekopy. Wy kinne jo net helpe om jo werstelkaai werom te heljen.">
+<!ENTITY recoveryKeyBackup.description "Jo werombringkaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masinen. Meitsje in reservekopy. Wy kinne jo net helpe om jo werombringkaai werom te heljen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Ofdrukke…">
 <!ENTITY button.syncKeyBackup.print.accesskey "O">
@@ -67,12 +67,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje opnij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Om jo apparaat te aktivearjen, moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Om jo apparaat te aktivearjen, moatte jo jo werombringkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Oannmelde">
-<!ENTITY existingRecoveryKey.description "Jo kinne in kopy fan jo werstelkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en ‘Myn werstelkaai’ ûnder ‘Behear account’.">
+<!ENTITY existingRecoveryKey.description "Jo kinne in kopy fan jo werombringkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en ‘Myn werombringkaai’ ûnder ‘Account beheare’.">
 <!ENTITY verifying.label              "Ferifiearje…">
 <!ENTITY resetPassword.label          "Wachtwurd opnij ynstelle">
 <!ENTITY resetSyncKey.label           "Ik haw myn oare apparaat ferlern.">
