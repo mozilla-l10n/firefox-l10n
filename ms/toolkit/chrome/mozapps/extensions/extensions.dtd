@@ -114,7 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.label           "Papar Release Notes">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Papar release note untuk kemas kini ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemas kini ini">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
