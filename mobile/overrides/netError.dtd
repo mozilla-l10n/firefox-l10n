@@ -44,6 +44,7 @@
   <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>">
 
 <!ENTITY malformedURI.title "Alamat ini tidak sah">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -70,15 +71,25 @@
 <!ENTITY netOffline.title "Mod luar talian">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Cuba lagi. &brandShortName; akan membuat cubaan untuk membuka sambungan dan memuat laman. <button id='wifi'>Dayakan Wi-Fi</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Cuba lagi. &brandShortName; akan cuba membuka sambungan dan memuat semula halaman.
+    <button id='wifi'>Dayakan Wi-Fi</button>
+  </li>
+</ul>
+">
 
-<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
+<!ENTITY contentEncodingError.title "Ralat Pengekodan Kandungan">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Jenis Fail Tidak Selamat">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
-<!ENTITY netReset.title "Sambungan diulang tetap">
+<!ENTITY netReset.title "Sambungan diset semula">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">

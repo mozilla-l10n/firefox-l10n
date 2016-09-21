@@ -15,10 +15,11 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sentiasa di samping anda">
 <!ENTITY firstrun_sync_subtext "Sync tab, kata laluan, dan banyak lagi di mana sahaja anda memerlukannya.">
-<!ENTITY firstrun_signin_button "Log Masuk ke Sync">
+<!ENTITY firstrun_signin_message "Mari berhubung, mari mulakan">
+<!ENTITY firstrun_signin_button "Log masuk ke Sync">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
 <!ENTITY firstrun_button_notnow "Bukan sekarang">
-<!ENTITY firstrun_button_next "Berikutnya">
+<!ENTITY firstrun_button_next "Seterusnya">
 
 <!ENTITY firstrun_tabqueue_title "Pautan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
@@ -30,12 +31,14 @@
 
 <!ENTITY firstrun_readerview_title "Artikel">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Hilangkan kekusutan">
 <!ENTITY firstrun_readerview_subtext "Guna Reader View untuk memudahkan membaca \u2014 walaupun jika di luar talian.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Anda">
 <!ENTITY firstrun_account_message "Anda ada &brandShortName; pada peranti lain?">
 
+<!ENTITY  onboard_start_restricted1 "Kekal selamat dan mengawal dengan versi yang dipermudahkan &brandShortName; ini.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -81,7 +84,6 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_items "&formatD; item">
 <!ENTITY bookmark_folder_one_item "1 item">
 
 <!ENTITY reader_saved_offline "Disimpan di luar talian">
@@ -598,7 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Data peribadi dibersihkan">
 <!ENTITY private_data_fail "Beberapa data peribadi tidak boleh dibersihkan">
 
-<!ENTITY bookmarkhistory_button_import "Import">
 <!ENTITY bookmarkhistory_import_both "Mengimport penandabuku dan sejarah dari Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Mengimport penandabuku dari Android">
 <!ENTITY bookmarkhistory_import_history "Mengimport sejarahdari Android">
