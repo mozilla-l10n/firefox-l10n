@@ -15,10 +15,10 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "m">
 <!ENTITY safeb.palm.reportPage.label "Mengapa halaman ini dihalang?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Halaman Web Serangan Dilaporkan!">
+<!ENTITY safeb.blocked.malwarePage.title "Halaman Penyerang Dilaporkan!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Halaman web di <span id='malware_sitename'/> telah dilaporkan sebagai halaman serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman serangan cuba untuk memasang perisian yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang komputer lain, atau merosakkan sistem anda.</p><p>Sebahagian halaman serangan secara sengaja menyebarkan perisian merbahaya, tetapi banyak berlaku tanpa pengetahuan dan keizinan pemiliknya.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Halaman web di <span id='malware_sitename'/> ini telah dilaporkan sebagai halaman penyerang dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman penyerang cuba memasang perisian yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang komputer lain, atau merosakkan sistem anda.</p><p>Ada beberapa halaman penyerang secara sengaja menyebarkan perisian merbahaya, tetapi masih ada yang berlaku tanpa pengetahuan dan keizinan pemilik.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Halaman Dilaporkan mempunyai Perisian Tidak Diingini!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
