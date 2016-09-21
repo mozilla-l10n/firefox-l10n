@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Jere-taagandiroo mana hin ka kanandi. &brandShortName; ga wiri ka taagandiri timmante zumandi.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ši bara ka tabatandi wala taagandiri ga bara. Taare guna wala nda cimi war goo nda &brandShortName; dumi kokorantaa ne:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Haya foo ga ganji &brandShortName; ma taagandiri nda saajaw. Taare guna wala nda cimi war goo nda &brandShortName; dumi kokorantaa ne:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Haya foo ga wiri ka &brandShortName; darga hal'a yadda hasaraw-baa taagandiri foo ga. Taare hantum war sankaa koyoo se ka faaba ceeci.">
 
 <!ENTITY  finishedPage.title              "Taagandiroo soolu k'a sinji">
 <!ENTITY  finishedPage.text               "Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõda, wala ka gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">

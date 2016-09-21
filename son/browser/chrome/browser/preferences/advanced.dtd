@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Bay ka tonton">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ga kaŋyan bayrandi sanba ka gaa ka &vendorShortName; tee ceecikaw tabatante nda saajante bešere">
-<!ENTITY enableCrashReporter.label       "Kaŋyan bayrandikaw tunandi">
-<!ENTITY enableCrashReporter.accesskey   "K">
-<!ENTITY crashReporterLearnMore.label    "Bay ka tonton">
+
+
+<!ENTITY crashReporterLearnMore.label     "Bay ka tonton">
 
 <!ENTITY networkTab.label                "Sankay">
 
