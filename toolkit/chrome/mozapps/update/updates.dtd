@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Kısmî güncelleme uygulanamadı. &brandShortName; şimdi tüm güncellemeyi indirerek tekrar deneyecek.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; güncelleme olup olmadığını tespit edemedi. Lütfen &brandShortName; uygulamasının son sürümüne sahip olup olmadığınıza buradan bakın:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Bir şey &brandShortName; uygulamasının güvenli güncelleme yapmasını engelliyor. &brandShortName; uygulamasının en son sürümüne sahip olduğunuzdan emin olun:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Bir şey &brandShortName; uygulamasını güvensiz bir bağlantıyı kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla görüşün ve yardım alın.">
 
 <!ENTITY  finishedPage.title              "Güncelleme kurulmaya hazır">
 <!ENTITY  finishedPage.text               "Güncelleme bir sonraki &brandShortName; açılışında yüklenecek. &brandShortName; tarayıcısını hemen yeniden başlatabilir veya şimdi işinize devam edip daha sonra da yeniden başlatabilirsiniz.">

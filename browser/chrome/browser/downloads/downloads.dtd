@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "b">
 <!ENTITY cmd.removeFromHistory.label      "Geçmişten kaldır">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Listeyi temizle">
-<!ENTITY cmd.clearList.accesskey          "t">
+
+
 <!ENTITY cmd.clearDownloads.label         "İndirmeleri temizle">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,7 @@
 
 <!ENTITY downloadsHistory.label           "Tüm indirmeleri göster">
 <!ENTITY downloadsHistory.accesskey       "T">
+
 
 <!ENTITY clearDownloadsButton.label       "İndirmeleri temizle">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, iptal edilen ve başarısız olan indirmeleri temizler">

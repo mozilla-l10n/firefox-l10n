@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
-<!ENTITY  window.width                  "46em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "İnternete erişmek için vekil sunucuları yapılandır">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu yok">
