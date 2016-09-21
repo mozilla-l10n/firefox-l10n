@@ -723,11 +723,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "மேலும் அறிய">
 
+<!ENTITY identity.removeCertException.label "விதிவிலக்கை நீக்கு">
+<!ENTITY identity.removeCertException.accesskey "R">
 
-
+<!ENTITY identity.moreInfoLinkText2 "கூடுதல் தகவலுக்கு...">
 
 <!ENTITY identity.permissions "அனுமதிகள்">
-
+<!ENTITY identity.permissionsEmpty "நீங்கள் இத்தளத்துக்கு சிறப்பு அனுமதிகள் எதையும் வழங்கவில்லை.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -735,31 +737,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "உலாவி கீற்றுகள்">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "ஒத்திசைத்த கீற்றுகள்">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "ஒத்திசைத்த கீற்றுகள்">
+<!ENTITY syncedTabs.sidebar.noclients.label    "பிற கருவிகளின் கீற்றுகளை இங்கு பார்க்க அவற்றில் பயர்பாக்சில் உள்நுழை.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "இதுவரையில்… ஒத்திசைத்த கீற்றுகள் ஏதுமில்லை!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "உங்களின் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "திறந்த கீற்றுகள் இல்லை">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "திற">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "ஒரு புதிய கீற்றில் திறக்கவும்">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "ஒரு புதிய சாளரத்தில் திற">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "புதிய தனிப்பட்ட சாளரத்தில் திற">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "இந்தக் கீற்றை புத்தகக்குறியிடு…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "நகலெடு">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
-
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; இல் உள்நுழை…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "இப்போது ஒத்திசை">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; உடன் மறுமுறை இணைவும்...">
@@ -792,29 +800,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய ஒலிவாங்கி:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "கீற்றிலிருந்து ஒலி பகிரப்படும்.">
 <!ENTITY getUserMedia.allWindowsShared.message "திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.">
 
-
-
-
+<!ENTITY trackingProtection.title "சுவடுதொடரல் பாதுகாப்பு">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; உங்களது தேடல்களைத் தடமறிக்கக் கூடிய பக்கத்தின் பகுதிகளை முடக்குகிறது.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "இத்தளம் உங்களை தடமறியக்கூடிய உறுப்புகளைக் கொண்டுள்ளது. நீங்கள் பாதுகாப்பை முடக்கியுள்ளீர்கள்.">
+<!ENTITY trackingProtection.notDetected3 "எந்த சுவடுதொடரல் உறுப்புகளும் இப்பக்கத்தில் இல்லை.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "இப்பக்கத்தில் பாதுகாப்பை முடக்கு">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு ">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "பாதுகாப்பைச் செயல்படுத்து ">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
 <!ENTITY trackingContentBlocked.moreinfo "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் பகுதிகள் இந்த பக்கத்தில் தடுக்கப்பட்டுள்ளன.">
 <!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
-
-
-
+<!ENTITY trackingContentBlocked.options "தேர்வுகள்">
+<!ENTITY trackingContentBlocked.unblock2.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு ">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "கண்காணிப்பு பாதுகாப்பு முடங்கியுள்ளது">
@@ -863,4 +874,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "பாதுகாப்பான உலவல்!">
 <!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
 
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM பற்றி மேலும் அறிய…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
