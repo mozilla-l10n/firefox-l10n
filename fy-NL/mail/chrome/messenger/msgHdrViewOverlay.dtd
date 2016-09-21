@@ -5,11 +5,11 @@
 <!ENTITY toField4.label "Oan">
 <!ENTITY fromField4.label "Fan">
 <!ENTITY senderField4.label "Ofstjoerder">
+<!ENTITY author.label "Auteur">
 <!ENTITY organizationField4.label "Organisaasje">
 <!ENTITY replyToField4.label "Antwurd-nei">
 
 <!ENTITY subjectField4.label "Underwerp">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Nijsgroepen">
@@ -24,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Argivearje">
 <!ENTITY hdrArchiveButton1.tooltip "Dit berjocht argivearje">
+<!ENTITY hdrOpenConversationButton1.label "Petear">
+<!ENTITY hdrOpenConversationButton1.tooltip "Petear fan dit berjocht toane">
 <!ENTITY hdrSmartReplyButton1.label "Tûk beantwurdzje">
 <!ENTITY hdrReplyButton1.label "Beantwurdzje">
 <!ENTITY hdrReplyButton2.tooltip "Ofstjoerder fan dit berjocht beantwurdzje">
@@ -74,22 +76,22 @@
 <!ENTITY startExpandedCmd.accesskey    "I">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Iepenje">
-<!ENTITY openAttachmentCmd.accesskey "I">
-<!ENTITY saveAsAttachmentCmd.label "Bewarje as…">
-<!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label "Untkeppelje…">
+<!ENTITY openAttachmentCmd.label    "Iepenje">
+<!ENTITY openAttachmentCmd.accesskey    "I">
+<!ENTITY saveAsAttachmentCmd.label    "Bewarje as…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY detachAttachmentCmd.label    "Untkeppelje…">
 <!ENTITY detachAttachmentCmd.accesskey    "U">
-<!ENTITY deleteAttachmentCmd.label "Fuortsmite">
+<!ENTITY deleteAttachmentCmd.label    "Fuortsmite">
 <!ENTITY deleteAttachmentCmd.accesskey    "F">
 <!ENTITY openAllAttachmentsCmd.label    "Iepenje alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "p">
-<!ENTITY saveAllAttachmentsCmd.label "Alles bewarje…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "s">
-<!ENTITY detachAllAttachmentsCmd.label "Alles ûntkeppelje…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "k">
-<!ENTITY deleteAllAttachmentsCmd.label "Alles fuortsmite…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "f">
+<!ENTITY saveAllAttachmentsCmd.label    "Alles bewarje…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "s">
+<!ENTITY detachAllAttachmentsCmd.label    "Alles ûntkeppelje…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "k">
+<!ENTITY deleteAllAttachmentsCmd.label    "Alles fuortsmite…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "f">
 
 <!ENTITY openAttachment.tooltip "Bylagebestân iepenje">
 
@@ -99,8 +101,8 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Alles bewarje">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Alle bylagen bewarje">
 
-<!ENTITY copyLinkCmd.label "Keppelingslokaasje kopiearje">
-<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyLinkCmd.label        "Keppelingslokaasje kopiearje">
+<!ENTITY copyLinkCmd.accesskey    "k">
 
 <!ENTITY CopyMessageId.label "Berjocht-ID kopiearje">
 <!ENTITY CopyMessageId.accesskey "k">

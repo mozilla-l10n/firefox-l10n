@@ -1,8 +1,8 @@
-<!-- his Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappen komprimearje">
-<!ENTITY compactFolders.accesskey "k">
+<!ENTITY compactFolders.accesskey    "k">
 <!ENTITY emptyTrashCmd.label "Jiskefet leechmeitsje">
-<!ENTITY emptyTrashCmd.accesskey "J">
+<!ENTITY emptyTrashCmd.accesskey    "J">
 <!ENTITY offlineMenu.label "Sûnder ferbining">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Sûnder ferbining wurkje">
@@ -106,7 +106,7 @@
 <!ENTITY selectThreadCmd.label "Petear">
 <!ENTITY selectThreadCmd.accesskey "P">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Berjochten mei stjer"> 
+<!ENTITY selectFlaggedCmd.label "Berjochten mei stjer">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Favorite map">
 <!ENTITY menuFavoriteFolder.accesskey "F">
@@ -340,20 +340,20 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "Beantwurdzje">
 <!ENTITY replyMsgCmd.accesskey "a">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Ofstjoerder beantwurdzje">
 <!ENTITY replySenderCmd.accesskey "a">
 <!ENTITY replyNewsgroupCmd2.label "Reagearje nei nijsgroep">
-<!ENTITY replyNewsgroupCmd2.accesskey "r">
+<!ENTITY replyNewsgroupCmd2.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.label "Elk beantwurdzje">
-<!ENTITY replyToAllMsgCmd.accesskey "e">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "e">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "List beantwurdzje">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Trochstjoere">
 <!ENTITY forwardMsgCmd.accesskey "s">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Trochstjoere as">
 <!ENTITY forwardAsMenu.accesskey "t">
 <!ENTITY forwardAsInline.label "Yn it berjocht">
@@ -490,7 +490,7 @@
 <!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd2.label "Accountynstellingen">
 <!ENTITY accountManagerCmd2.accesskey "c">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Debugging op ôfstân tastean">
@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Trochstjoere">
 <!ENTITY fileButton.label "Ferpleatse">
 <!ENTITY archiveButton.label "Argivearje">
+<!ENTITY openConversationButton.label "Petear">
 <!ENTITY nextButton.label "Folgjende">
 <!ENTITY nextButtonToolbarItem.label "Folgjende net lêzen">
 <!ENTITY nextMsgButton.label "Folgjende">
@@ -529,7 +530,6 @@
 <!ENTITY searchItem.title "Fluch sykje">
 <!ENTITY mailViewsToolbarItem.title "E-mailwerjeftes">
 <!ENTITY folderLocationToolbarItem.title "Maplokaasje">
-<!ENTITY chatButton.tooltip "Chatljepblêd toane">
 <!ENTITY tagButton.label "Labelje">
 <!ENTITY compactButton.label "Komprimearje">
 <!ENTITY appmenuButton.label "AppMenu">
@@ -548,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Selektearre berjocht trochstjoere as in bylage">
 <!ENTITY fileButton.tooltip "Selektearre berjocht ferpleatse">
 <!ENTITY archiveButton.tooltip "Selektearre berjocht argivearje">
+<!ENTITY openConversationButton.tooltip "Petear fan selektearre berjocht toane">
 <!ENTITY nextButton.tooltip "Nei it folgjende net-lêzen berjocht gean">
 <!ENTITY nextMsgButton.tooltip "Nei it folgjende berjocht gean">
 <!ENTITY previousButton.tooltip "Nei it foarige net-lêzen berjocht gean">
@@ -562,6 +563,7 @@
 <!ENTITY junkButton.tooltip "Selektearre berjochten as net-winske markearje">
 <!ENTITY notJunkButton.tooltip "Selektearre berjochten as net-winske markearje">
 <!ENTITY addressBookButton.tooltip "Adresboek iepenje">
+<!ENTITY chatButton.tooltip "Chatljepblêd toane">
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
 <!ENTITY appmenuButton1.tooltip "It &brandShortName;-menu toane">
@@ -748,9 +750,9 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiearje nei">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Petear negearje">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "P">
 <!ENTITY contextKillSubthreadMenu.label "Subpetear negearje">
-<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextWatchThreadMenu.label "Subpetear folgje">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
@@ -824,13 +826,13 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
@@ -910,7 +912,7 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label        "Foarkarren">
+<!ENTITY preferencesCmdMac2.label       "Foarkarren">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tsjinsten">
