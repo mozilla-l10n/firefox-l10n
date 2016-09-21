@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "اور سیکھیں">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; &vendorShortName; کو آپ کے براوزر کو قابل بھروسا اور محفوظ بنانے میں مدد دینے کے لیے کریش رپورٹیں بھیجتا ہے">
-<!ENTITY enableCrashReporter.label       "کریش رپورٹ اہل بنائیں">
-<!ENTITY enableCrashReporter.accesskey   "ک">
-<!ENTITY crashReporterLearnMore.label    "اور سیکھیں">
+
+
+<!ENTITY crashReporterLearnMore.label     "اور سیکھیں">
 
 <!ENTITY networkTab.label                "نیٹ ورک">
 

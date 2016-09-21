@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "بعید ٹھیک کر رہا ہے اہل بنائیں">
-<!ENTITY options.enableRemote.tooltip   "پر اس اختیار ٹرننگ ڈویلپر کے اوزار Firefox OS طرح ریموٹ فائر فاکس مثال ڈیبگ کرنے کی اجازت دے گا">
+
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -118,11 +118,9 @@
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "خدمت کارکنان کو  HTTP کے اوپر اہل بنائیں (جب ٹول بکس کھلا ہو )">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "اس اختیار کو چالو کرنے سے HTTP کے اوپر سروس کارکنان کو اہل بنائیں گے کہ تمام ٹیب میں ٹول بکس کھلا ہے۔">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "طےشدہ Firefox ترقی دہندہ ٹول">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

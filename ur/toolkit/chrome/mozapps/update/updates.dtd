@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "جزوی تازہ کاری لاگو نہیں ہو سکی۔ &brandShortName; ایک مکمل تازہ کاری ڈاؤن لوڈ کر کے پھر کوشش کرے گا۔">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; تعین نہیں کر سکا کہ کوئی تازہ کاری دستیاب ہے۔ چیک کریں کہ آپ کے پاس &brandShortName; کا تازہ تریں ورژن ہے، از: ">
-<!ENTITY  errorCertAttrNoUpdate2.label    "کوئی چیز &brandShortName; کو حفاظت سے تازہ کاری کرنے سے روک رہی ہے۔ چیک کریں کہ آپ کے پاس &brandShortName; کا تازہ تریں ورژن ہے، از: ">
-<!ENTITY  errorCertAttrHasUpdate.label    "&brandShortName; کو کوئی دھوکا دے کر ناقابل بھروسا تازہ کاری قبول کروانے کی کوشش کر ریا ہے۔ اپنے نیٹ ورک مہیا کنندہ سے رابطہ کریں اور مدد مانگے۔">
 
 <!ENTITY  finishedPage.title              "تازہ کاری تنصیب کے لیے تیار ہے">
 <!ENTITY  finishedPage.text               "&brandShortName; کے اگلی بار چلنے پر تازہ کاری تنصیب ہو جائے گی۔ آپ &brandShortName; کو ابھی پھر چلا سکتے ہیں، یا اپنا کام جاری رکھ کر بعد میں پھر چلا سکتے ہیں۔">

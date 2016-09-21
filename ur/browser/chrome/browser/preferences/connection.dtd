@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "کنکشن سیٹکگیں">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "رسائی بطرف انٹرنیٹ پراکسی تشکیل کریں">
 <!ENTITY  noProxyTypeRadio.label        "کوئی پراکسی نہیں">
