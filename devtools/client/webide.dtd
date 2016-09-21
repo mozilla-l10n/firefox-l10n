@@ -122,7 +122,7 @@
 <!ENTITY prefs_options_autoconnectruntime "Opnij mei foarige runtime ferbine">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Opnij mei foarige runtime ferbine as WebIDE start">
 <!ENTITY prefs_options_rememberlastproject "Lêste projekt ûnthâlde">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Foarige projekt werstelle as WebIDE start">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Foarige projekt werom bringe as WebIDE start">
 <!ENTITY prefs_options_templatesurl "Sjabloan-URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Yndeks fan beskikbere sjabloanen">
 <!ENTITY prefs_options_showeditor "Editor toane">

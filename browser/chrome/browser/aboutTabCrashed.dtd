@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Earst it slimme nijs: dit ljepblêd is sa krekt ferûngelokke">
-<!ENTITY tabCrashed.message "Mar no it goede nijs: jo kinne dit ljepblêd gewoan slute, werstelle of al jo ferûngelokke ljepblêden werstelle.">
+<!ENTITY tabCrashed.message "Mar no it goede nijs: jo kinne dit ljepblêd gewoan slute, werom bringe of al jo ferûngelokke ljepblêden werombringe.">
 <!ENTITY tabCrashed.sendReport "Ferstjoer in ûngelokrapport om mear slim nijs foar te kommen">
 <!ENTITY tabCrashed.includeURL "It adres fan de besochte side byfoegje">
 <!ENTITY tabCrashed.commentPlaceholder "Foegje in opmerking ta (opmerkingen binne publyklik sichtber)">
@@ -12,5 +12,5 @@
 <!ENTITY tabCrashed.crashReporter "Mozilla-crashreporter">
 <!ENTITY tabCrashed.reportSent "It ûngelokrapport is al ferstjoerd; tank dat jo meihelpe &brandShortName; better te meitsjen!">
 <!ENTITY tabCrashed.closeTab "Dit ljepblêd slute">
-<!ENTITY tabCrashed.restoreTab "Dit ljepblêd werstelle">
-<!ENTITY tabCrashed.restoreAll "Alle ferûngelokke ljepblêden werstelle">
+<!ENTITY tabCrashed.restoreTab "Dit ljepblêd werom bringe">
+<!ENTITY tabCrashed.restoreAll "Alle ferûngelokke ljepblêden werom bringe">

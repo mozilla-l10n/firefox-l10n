@@ -17,7 +17,7 @@
 <!ENTITY manageAccount.label          "Account beheare">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword2.label        "Wachtwurd wizigje…">
-<!ENTITY myRecoveryKey.label          "Myn werstelkaai">
+<!ENTITY myRecoveryKey.label          "Myn werombringkaai">
 <!ENTITY resetSync2.label             "Sync werinisjalisearje…">
 
 <!ENTITY pairDevice.label             "In apparaat keppelje">
@@ -52,9 +52,20 @@
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Privacy-opmerking">
 <!ENTITY determiningAcctStatus.label     "Jo accountsteat bepale…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "is net ferifiearre.">
 
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.beforename.label "Meld jo oan om wer te ferbinen">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -66,11 +77,11 @@
 <!ENTITY verify.label                "E-mail ferifiearje">
 <!ENTITY forget.label                "Ferjit dizze e-mail">
 
-<!ENTITY welcome.description 			"Krij tagong ta jo ljepblêden, blêdwizers, wachtwurden en mear oeral dêr't jo &brandShortName; brûke.">
-<!ENTITY welcome.signIn.label 			"Oanmelde">
-<!ENTITY welcome.createAccount.label	"Account oanmeitsje">
+<!ENTITY welcome.description "Krij tagong ta jo ljepblêden, blêdwizers, wachtwurden en mear oeral dêr't jo &brandShortName; brûke.">
+<!ENTITY welcome.signIn.label "Oanmelde">
+<!ENTITY welcome.createAccount.label "Account oanmeitsje">
 
-<!ENTITY welcome.useOldSync.label 		"Brûke jo in âldere ferzje fan Sync?">
+<!ENTITY welcome.useOldSync.label "Brûke jo in âldere ferzje fan Sync?">
 
 <!ENTITY signedOut.caption            "Nim jo web mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">
@@ -89,7 +100,7 @@
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " of ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
