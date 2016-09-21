@@ -157,7 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Бэлиэни уларытыы">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -199,9 +198,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Бэчээт">
 <!ENTITY printButton.tooltip          "Бу сирэйи бэчээттээ">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
+
+
+
 
 
 
@@ -401,9 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -423,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
 
 
 
@@ -690,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Көҥүллээһин">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -727,20 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncToolbarButton.label      "Синхронизация">
 
-<!ENTITY socialToolbar.title        "Социал-ситимнэр хапталлара">
-
-<!ENTITY social.ok.label       "Сөп">
-<!ENTITY social.ok.accesskey   "С">
-
-
-
 <!ENTITY social.addons.label "Сулууспалары салайыы…">
-
-<!ENTITY social.toggleNotifications.label "Биллэриилэри көрдөрөр буол">
-<!ENTITY social.toggleNotifications.accesskey "к">
-
-<!ENTITY social.learnMore.label "Сиһилии…">
-<!ENTITY social.learnMore.accesskey "С">
 
 
 
@@ -756,14 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.lwthemes.menuManage "Салайыы">
-
-
-
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Чааттарга барыы">
-<!ENTITY social.chatBar.accesskey "т">
-
 
 
 
@@ -798,8 +778,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY pointerLock.notification.message "Хаһан баҕарар ESC баттаан маны хат көрүөххэ сөп.">
 
 <!ENTITY pluginNotification.showAll.label "Барытын көрдөр">
 <!ENTITY pluginNotification.showAll.accesskey "Б">

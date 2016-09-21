@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Холбонуу туруоруулара">
-<!ENTITY  window.width                  "52em">
-<!ENTITY  window.macWidth               "56em">
 
 <!ENTITY  proxyTitle.label              "Интэриниэккэ проксинан киирии туруоруулара">
 <!ENTITY  noProxyTypeRadio.label        "Проксита суох">

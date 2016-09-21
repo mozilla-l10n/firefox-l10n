@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "с">
 <!ENTITY cmd.removeFromHistory.label      "Тиһиктэн таһаар">
 <!ENTITY cmd.removeFromHistory.accesskey  "а">
-<!ENTITY cmd.clearList.label              "Тиһиги ыраастаа ">
-<!ENTITY cmd.clearList.accesskey          "р">
+
+
 <!ENTITY cmd.clearDownloads.label         "Хачайдаммыты ыраастаа">
 <!ENTITY cmd.clearDownloads.accesskey     "ы">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -102,6 +102,7 @@
 
 <!ENTITY downloadsHistory.label           "Хачайдааһыннары барыларын көрдөр">
 <!ENTITY downloadsHistory.accesskey       "ө">
+
 
 <!ENTITY clearDownloadsButton.label       "Хачайдаммыты ыраастаа">
 <!ENTITY clearDownloadsButton.tooltip     "Түмүктэммит, тохтотуллубут уонна сатамматах хачайдааһыннары сотор">

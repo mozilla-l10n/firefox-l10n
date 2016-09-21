@@ -41,8 +41,6 @@
 <!ENTITY  errorpatching.intro             "Саҥардыы сороҕо эрэ турар кыаҕа суох. &brandShortName; толору саҥардыыны туруоран көрүө.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; саҥардыы баарын-суоҕун кыайан быһаарбата. Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Туохтан эрэ сылтаан &brandShortName; саҥардыллар кыаҕа суох. Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Ким эрэ &brandShortName; албыннаан куттал суоһуон сөп саҥардыытын уга сатыыр. Бука диэн провайдергын кытта ситимнэһэн көмөтө көрдөө.">
 
 <!ENTITY  finishedPage.title              "Саҥардыы туруорарга бэлэм">
 <!ENTITY  finishedPage.text               "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">

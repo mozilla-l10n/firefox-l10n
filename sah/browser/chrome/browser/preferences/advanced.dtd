@@ -40,10 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Сиһилии">
 
-<!ENTITY crashReporterDesc.label         "&vendorShortName; браузеры быдан бигэ уонна көмүскэллээх оҥорорун туһугар &brandShortName; саахаллар туһунан отчуоттары ыытар">
-<!ENTITY enableCrashReporter.label       "Саахал туһунан тыллабыры ыытыыны холбуурга">
-<!ENTITY enableCrashReporter.accesskey   "х">
-<!ENTITY crashReporterLearnMore.label    "Сиһилии">
+
+
+<!ENTITY crashReporterLearnMore.label     "Сиһилии">
 
 <!ENTITY networkTab.label                "Ситим">
 
