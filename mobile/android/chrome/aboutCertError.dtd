@@ -25,8 +25,11 @@ laman ini tanpa masalah, ralat ini bermakna ada seseorang
 cuba menyamar sebagai laman ini, dan anda tidak perlu teruskan.">
 <!ENTITY certerror.getMeOutOfHere.label "Keluarkan saya dari sini!">
 
-<!ENTITY certerror.expert.heading "Saya faham akan risiko ini">
-<!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. <b>Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang mengganggu sambungan anda.</b>">
+<!ENTITY certerror.expert.heading "Saya Faham akan Risiko ini">
+<!ENTITY certerror.expert.content "Jika anda faham apanya yang sedang berlaku, anda
+boleh memaklumkan &brandShortName; untuk mula percayakan identiti laman ini.
+<b>Malah jika anda percayakan laman ini, ralat ini bermakna ada seseorang
+mengganggu sambungan anda ini.</b>">
 <!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian kecuali
 anda tahu ada alasan yang bagus laman ini tidak menggunakan pengenalan yang dipercayai.">
 <!ENTITY certerror.addTemporaryException.label "Lawat laman">

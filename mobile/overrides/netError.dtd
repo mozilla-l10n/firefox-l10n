@@ -32,9 +32,16 @@
   </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Semak huruf besar nama atau ralat taip lain.</li>
+  <li>Semak samada fail telah dipindah, dinamakan semula atau dihapuskan.</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ini disekat">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
 
