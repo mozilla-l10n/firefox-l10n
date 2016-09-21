@@ -44,8 +44,8 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "பக்கத்தைச் சாதனத்திற்கு அனுப்பவும்">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-
-
+<!ENTITY  sendLinkToDevice.label             "கருவிக்கு இணைப்பை அனுப்பு">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
@@ -277,8 +277,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "கோப்பு"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "புதிய கொள்கலன் தத்தல்">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -354,14 +354,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.title "இதுவரையில்… ஒத்திசைத்த கீற்றுகள் இல்லை!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ஒத்திசைவு முன்னுரிமைகள்">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "உங்கள் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
+<!ENTITY appMenuRemoteTabs.signin.label "ஒத்திசைக்க உள்நுழை">
+<!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
@@ -388,12 +390,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "கீற்றுக்கு மாற்று:">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "உங்கள் தேடல் அனுபவத்தை பரிந்துரைகள் மூலம் மேம்படுத்த விருப்பமா?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "மேலும் அறிய...">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "|">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "இல்லை">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ஆம்">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -422,6 +425,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "தேடல் கேள்வி">
+<!ENTITY contentSearchSubmit.tooltip  "தேடலைச் சமர்ப்பி">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -434,6 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "தேடு ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -447,9 +454,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "தேடல் அமைவுகளை மாற்று">
 
 
-
-
-
+<!ENTITY searchInNewTab.label         "புதிய கீற்றில் தேடு">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "இயல்புநிலை தேடும் பொறியாக வை">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "இணைப்பை புதிய கீற்றில் திற">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -463,8 +471,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "புதிய உள்ளடக்க கீற்றில் தொடுப்பைத் திற">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -563,22 +571,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ஒலிக்கச் செய்">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "இயக்கு வேகம்">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "மெது (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "இயல்பான">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "வேகம் (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "வேகமாக (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "கேலியான (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "சுழற்சி">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -635,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;ஐ விட்டு வெளியேறு">
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; விட்டு வெளியேறு">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -643,6 +652,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "பக்கப் பாணி">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -681,32 +691,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "சரி">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
-
-
-
-
+<!ENTITY identity.connectionSecure "பாதுகாப்பான இணைப்பு">
+<!ENTITY identity.connectionNotSecure "இணைப்பு பாதுகாப்பற்றது">
+<!ENTITY identity.connectionFile "உங்கள் கணினியில் இப்பக்கம் சேமிக்கப்பட்டது. ">
+<!ENTITY identity.connectionVerified2 "நீங்கள் இத்தளத்தில் பாதுகாப்புடன் இணைக்கப்பட்டுள்ளீர்கள், சொந்தக்காரர்:">
+<!ENTITY identity.connectionInternal "இது பாதுகாப்பான &brandShortName; பக்கம்.">
+<!ENTITY identity.insecureLoginForms2 "இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; இப்பக்கத்தின் பாதுகாப்பற்ற சில பகுதிகளைத் தடுத்துள்ளது.">
+<!ENTITY identity.passiveLoaded "இந்த பக்கத்தின் சில பகுதிகள் பாதுகாப்பற்றது (எ.கா. படங்கள்).">
+<!ENTITY identity.activeLoaded "நீங்கள் இப்பக்கத்தில் பாதுகாப்பை முடக்கிவிட்டீர்கள்.">
+<!ENTITY identity.weakEncryption "இப்பக்கம் பாதுகாப்பற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துகிறது.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.description.insecure "இத்தளத்துடன் உங்கள் இணைப்பு தனிமையானதல்ல. நீங்கள் சமர்பிக்கும் தகவல்கள் பிறரால் பார்க்க முடியும் (கடவுச்சொல், செய்தி, கடன் அட்டை, மேலும் பல.).">
+<!ENTITY identity.description.insecureLoginForms "இப்பக்கதில் நீங்கள் உள்ளிடும் நுழைவு தகவல்கள் பாதுகாப்பானதல்ல தாக்கப்படக்கூடியவை.">
+<!ENTITY identity.description.weakCipher "இத்தளத்துடன் உங்கள் இணைப்பு வலுவற்ற குறியாக்கத்தைப் பயன்படுத்துகிறது மேலும் தனிமையானதல்ல.">
+<!ENTITY identity.description.weakCipher2 "மற்றவர்கள் உங்கள் தகவல்களை பார்க்கலாம் அல்லது தளத்தின் நடத்தையை மாற்றியமைக்கலாம்.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; பாதுகாப்பற்ற பக்கத்தின் பகுதிகளை முடக்கியுள்ளது.">
+<!ENTITY identity.description.passiveLoaded "உங்கள் இணைப்பு தனிமையானதல்ல மற்றும் நீங்கள் தளத்துடன் பகிரும் தகவல்கள் மற்றவர்களால் பார்க்க இயலும்.">
+<!ENTITY identity.description.passiveLoaded2 "இத்தளம் பாதுகாப்பற்ற உள்ளடக்கங்களை கொண்டுள்ளது (எகா.படங்கள்).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; சில உள்ளடக்கங்களை முடக்கினாலும், இன்னும் பாதுகாப்பற்ற உள்ளடக்கம் உள்ளது (எ.கா.படங்கள் போன்றவை).">
+<!ENTITY identity.description.activeLoaded "இத்தளம் பாதுகாப்பற்ற உள்ளடக்கம் கொண்டுள்ளது (சிறுநிரல் போன்றவை) மேலும் உங்கள் இணைப்பு தனிமையானதல்ல.">
+<!ENTITY identity.description.activeLoaded2 "இத்தளத்துடன் நீங்கள் பகிரும் தகவல்கள் பிறரால் பார்க்க முடியும் (கடவுச்சொல், செய்தி, கடன் அட்டை, மேலும் பல.).">
 
 
 <!ENTITY identity.disableMixedContentBlocking.label "இப்பொழுது பாதுகாப்பை முடக்கு">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "மேலும் அறிய">
 
 
 
