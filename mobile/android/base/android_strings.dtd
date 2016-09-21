@@ -16,7 +16,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, sentiasa di samping anda">
 <!ENTITY firstrun_sync_subtext "Sync tab, kata laluan, dan banyak lagi di mana sahaja anda memerlukannya.">
 <!ENTITY firstrun_signin_message "Mari berhubung, mari mulakan">
-<!ENTITY firstrun_signin_button "Log masuk ke Sync">
+<!ENTITY firstrun_signin_button "Daftar masuk Sync">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
 <!ENTITY firstrun_button_notnow "Bukan sekarang">
 <!ENTITY firstrun_button_next "Seterusnya">
@@ -166,7 +166,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Peranti Firefox akaun yang bersambung tidak dapat dijumpai">
+<!ENTITY overlay_no_synced_devices "Tiada Akaun Firefox yang dihubungkan dengan peranti">
 
 <!ENTITY pref_category_search3 "Cari">
 <!ENTITY pref_category_search_summary2 "Tambah, set piawai, papar cadangan">
@@ -788,7 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Pelayaran peribadi">
 <!ENTITY restrictable_feature_private_browsing_description "Izinkan ahli keluarga melayar tanpa menyimpan maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
-<!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapuskan maklumat laman yang mereka kunjungi.">
+<!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapus maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
 <!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tanda buku, mengembalikan semula tab dan kemas kini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
