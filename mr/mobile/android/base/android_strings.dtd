@@ -570,7 +570,6 @@ size. -->
 <!ENTITY button_clear "पुसा">
 <!ENTITY button_copy "प्रत बनवा">
 
-<!ENTITY home_top_sites_title "खास साईट्स">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साईट जोडा">
@@ -828,3 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "वाचक पद्धत घटकांना ऑफलाइन वाचण्यासाठी वाचनखूण लावा.">
 <!ENTITY helper_triple_readerview_open_button "वाचणखूणा बघा">
 
+
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
