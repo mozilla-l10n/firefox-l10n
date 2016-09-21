@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "সাইটের তথ্য দেখাও">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "বার্তা প্যানেল খুলুন">
 
 
 
@@ -218,15 +219,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "সাইটটির সাথে আপনার মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "সাইটটির সাথে আপনার উইন্ডোজ কিংবা স্ক্রিন শেয়ার নিয়ন্ত্রণ করুন">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ইনস্টল বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "এই পাতাটি অনুবাদ করুন">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "পাতার অনুবাদ নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM সফটওয়্যারের ব্যবহার নিয়ন্ত্রণ করুন">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "আপনি এই ওয়েব সাইটের জন্য আপনার ক্যামেরা ব্লক করেছেন">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "আপনি এই ওয়েব সাইটের জন্য আপনার মাইক্রোফোন ব্লক করেছেন।">
 
 
 
-
-
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
