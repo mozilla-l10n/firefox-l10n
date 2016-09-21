@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Skarzhañ">
 <!ENTITY button_copy "Eilañ">
 
+<!ENTITY home_top_sites_title "Lec\u0027hiennoù e-touez re wellañ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ouzhpennañ ul lec\u0027hienn">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Lakait elfennoù ar mod lenn er sinedoù evit o lenn ezlinenn.">
 <!ENTITY helper_triple_readerview_open_button "Ouzhpennañ d\u0027ar sinedoù">
 
-
+<!ENTITY activity_stream_topsites "Lec\u0027hiennoù e-touez re wellañ">
+<!ENTITY activity_stream_highlights "Usskedoù">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Muioc\u0027h">
