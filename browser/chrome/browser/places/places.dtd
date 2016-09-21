@@ -103,6 +103,7 @@
 <!ENTITY forwardButton.tooltip  "Ke hadapan">
 
 <!ENTITY detailsPane.more.label "Selanjutnya">
+<!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Kurangkan">
 <!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih satu item untuk dipapar dan diedit sifatnya">
