@@ -6,9 +6,9 @@
 <!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
 <!ENTITY safeb.palm.reportPage.label "Mengapa halaman ini dihalang?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Laman Web Serangan Dilaporkan!">
+<!ENTITY safeb.blocked.malwarePage.title "Ini Halaman Penyerang!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Laman web di <span id='malware_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Laman web di <span id='malware_sitename'/> telah dilaporkan sebagai laman web penyerang dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman penyerang cuba memasang atur cara yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang yang lain, atau merosakkan sistem anda.</p><p>Ada beberapa halaman penyerang secara sengaja menyebarkan perisian berbahaya, tetapi masih ada banyak juga berlaku tanpa pengetahuan dan keizinan pemilik.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Laman Mengelirukan!">

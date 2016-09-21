@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDevices.title              "Peranti">
 <!ENTITY aboutDevices.header             "Peranti anda">
-<!ENTITY aboutDevices.refresh            "Segar semula">
+<!ENTITY aboutDevices.refresh            "Muat semula">
 <!ENTITY aboutDevices.addDeviceHeader    "Tambah peranti">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">

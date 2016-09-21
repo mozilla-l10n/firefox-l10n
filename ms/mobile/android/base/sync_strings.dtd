@@ -11,7 +11,7 @@
 <!ENTITY sync.title.connect.label 'Sambung ke &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Untuk aktifkan peranti baru anda, pilih “Set up &syncBrand.shortName.label;” pada peranti anda.'>
+<!ENTITY sync.subtitle.connect.label 'Untuk aktifkan peranti baru anda, pilih “Tatacara &syncBrand.shortName.label;” pada peranti anda.'>
 <!ENTITY sync.subtitle.pair.label 'Untuk mengaktifkan, pilih “Gandingkan peranti” pada peranti anda yang lain.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Peranti tersebut tidak berada dengan saya…'>
@@ -64,6 +64,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'Tidak dapat menyambung. Tap untuk mendaftar masuk.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tap untuk daftar masuk ke Akaun Firefox baru anda.'>
 <!ENTITY fxaccount_status_bookmarks 'Tanda buku'>
 <!ENTITY fxaccount_status_history 'Sejarah'>
 <!ENTITY fxaccount_status_passwords2 'Log masuk'>
@@ -114,8 +115,8 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; tidak tersambung'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sentuh untuk daftar masuk sebagai &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap untuk daftar masuk sebagai &formatS;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sentuh untuk daftar masuk sebagai &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap untuk daftar masuk sebagai &formatS;'>

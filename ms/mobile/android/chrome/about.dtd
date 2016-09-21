@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Mengenai &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; sedang dieksperimen dan ia masih tidak stabil.">
-<!ENTITY aboutPage.telemetryStart               " Ia secara automatik menghantar maklumat mengenai prestasi, perkakasan, penggunaan dan penyesuaian kembali ke ">
+<!ENTITY aboutPage.telemetryStart               " Menghantar maklumat prestasi, perkakasan, penggunaan dan penyesuaian secara automatik kembali ke ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " untuk membantu menjadikan &brandShortName; lebih baik.">
-<!ENTITY aboutPage.checkForUpdates.link         "Semak untuk Kemas kini »">
+<!ENTITY aboutPage.checkForUpdates.link         "Semak Kemas kini »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari pengemaskinian…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tiada pengemaskinian didapati">
 <!ENTITY aboutPage.checkForUpdates.available2   "Muat turun kemaskini">

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Akaun Firefox">
+<!ENTITY aboutAccounts.connected.description "Anda dihubungkan sebagai">
+<!ENTITY aboutAccounts.syncPreferences.label "Tap di sini untuk menyemak tetapan Sycn">
 
 <!ENTITY aboutAccounts.noConnection.title "Tiada sambungan internet">
 <!ENTITY aboutAccounts.retry.label "Cuba lagi">
 
+<!ENTITY aboutAccounts.restrictedError.title "Terhad">
