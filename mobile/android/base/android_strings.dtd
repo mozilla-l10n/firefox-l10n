@@ -14,10 +14,10 @@
 <!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, altyd oan jo side">
-<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr\'t jo it brûke.">
+<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr\&apos;t jo it brûke.">
 <!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_signin_button "Oanmelde by Sync">
-<!ENTITY onboard_start_button_browser "Start mei browsen">
+<!ENTITY  onboard_start_button_browser "Start mei browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Folgjende">
 
@@ -330,7 +330,6 @@
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!ENTITY content_notification_action_read_now "No lêze">
-
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -368,7 +367,7 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "A">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "De flugge oranje foks ljept oer jo ferwachtingen mei mear faasje, mear fleksibiliteit en mear feilichheid. As non-profitorganisaasje binne wy frij om yn jo belang en sûnder druk foar kompromissen te ynnovearjen. Dat betsjut in bettere ûnderfining foar jo en in strieljende takomst foar it ynternet.">
 
 <!ENTITY pref_media_autoplay_enabled "Automatysk ôfspylje tastean">
@@ -596,14 +595,14 @@ size. -->
 <!ENTITY home_closed_tabs_one "1 ljepblêd">
 <!ENTITY home_most_recent_empty "Hjir ferskine jo meast resint besochte websites.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
-       The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil gjin skiednis fan jo bewarje.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Gjin ynhâld foar dit paniel fûn.">
 
-<!-- Localization note (home_move_back_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "Tebek nei &formatS;">
 
@@ -693,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Blêdwizers en skiednis">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Fernijing foar &brandShortName; beskikber">
 <!ENTITY updater_start_select2 "Reitsje oan om te downloaden">
 
@@ -741,7 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Klear">
@@ -795,7 +794,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofoan">
 <!ENTITY restrictable_feature_camera_microphone_description "Lit gezinsleden dielnimme oan realtime-kommunikaasje op websites.">
 <!ENTITY restrictable_feature_block_list "Blokkearlist">
-<!ENTITY restrictable_feature_block_list_description "Blokkearje websites dy\'t gefoelige ynhâld befetsje.">
+<!ENTITY restrictable_feature_block_list_description "Blokkearje websites dy\&apos;t gefoelige ynhâld befetsje.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -831,3 +830,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Offline beskikber">
 <!ENTITY helper_triple_readerview_open_message "Meitsje blêdwizers foar lêzerwerjefte-items om se offline te lêzen.">
 <!ENTITY helper_triple_readerview_open_button "Tafoegje oan blêdwizers">
+
+<!ENTITY activity_stream_topsites "Topwebsites">
+<!ENTITY activity_stream_highlights "Hichtepunten">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "Mear">
