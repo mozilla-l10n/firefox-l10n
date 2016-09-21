@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
 
 <!-- Calendar Invitations Dialog -->
 <!ENTITY calendar.invitations.dialog.invitations.text                   "Utnûgingen">
 <!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Utnûgingslist bywurkje.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Gjin ûnbefestige útnûgingen fûn.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Gjin ûnbefêstige útnûgingen fûn.">
 
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label                  "Akseptearje">

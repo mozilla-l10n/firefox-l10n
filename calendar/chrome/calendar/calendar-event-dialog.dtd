@@ -20,7 +20,7 @@
 <!ENTITY newevent.todoStatus.cancelled.label      "Annulearre" >
 <!ENTITY newevent.status.tentative.label          "Foarlopich" >
 <!ENTITY newevent.status.tentative.accesskey      "F" >
-<!ENTITY newevent.status.confirmed.label          "Befestige" >
+<!ENTITY newevent.status.confirmed.label          "Befêstige" >
 <!ENTITY newevent.status.confirmed.accesskey      "B" >
 <!ENTITY newevent.status.needsaction.label        "Hanneling fereaske" >
 <!ENTITY newevent.status.inprogress.label         "Dwaande" >
