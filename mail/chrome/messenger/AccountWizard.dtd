@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Om berjochten ûntfange te kinnen, moatte jo earst in account oanmeitsje.">
 <!ENTITY accountTypeTitle.label "Nij account oanmeitsje">
-<!ENTITY accountTypeDesc2.label "Dizze helper sammelt de ynformaasje dy't nedich is om in account oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
+<!ENTITY accountTypeDesc2.label "Dizze helper sammelet de ynformaasje dy't nedich is om in account oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
 <!ENTITY accountTypeDirections.label "Selektearje it type account dat jo oanmeitsje wolle:">
 <!ENTITY accountTypeMail.label "E-mailaccount">
 <!ENTITY accountTypeMail.accesskey "m">
