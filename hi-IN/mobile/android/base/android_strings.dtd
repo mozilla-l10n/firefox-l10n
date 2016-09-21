@@ -104,9 +104,10 @@
 <!ENTITY edit_mode_cancel "रद्द करें">
 
 <!ENTITY close_tab "टैब बंद करें">
-
+<!ENTITY one_tab "1 टैब">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
 <!ENTITY new_private_tab_opened "नयी निजी टैब खुल गयी">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -190,7 +191,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर औज़ार पुनर्बहाल करें">
-
+<!ENTITY pref_category_notifications "अधिसूचना">
 <!ENTITY pref_category_notifications_summary "नई विशेषताए, वेबसाइट अद्यतन">
 <!ENTITY pref_content_notifications "वेबसाइट अद्यतन">
 <!ENTITY pref_content_notifications_summary2 "समर्थित साईटो से नई सामग्री खोजें">
@@ -230,7 +231,7 @@
 <!ENTITY pref_header_search "खोजें">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
 <!ENTITY pref_header_accessibility "पहुँच">
-
+<!ENTITY pref_header_notifications "अधिसूचना">
 <!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मदद">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -385,7 +386,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "सिंक किया टैब">
 
 <!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनाये">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाए">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_vendor_faqs "आम सवाल">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया दें">
@@ -452,7 +453,7 @@ size. -->
 <!ENTITY save_as_pdf "बतौर पीडीएफ़ सहेजें">
 <!ENTITY print "छापें">
 <!ENTITY find_in_page "पृष्ठ में ढूँढें">
-
+<!ENTITY desktop_mode "डेस्कटॉप साइट के लिए आग्रह करें">
 <!ENTITY page "पृष्ठ">
 <!ENTITY tools "औज़ार">
 <!ENTITY new_tab "नया टैब">
@@ -557,6 +558,7 @@ size. -->
 <!ENTITY button_clear "साफ़ करें">
 <!ENTITY button_copy "नक़ल लें">
 
+<!ENTITY home_top_sites_title "टॉप साइटें">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साइट जोड़ें">
@@ -572,11 +574,12 @@ size. -->
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
 <!ENTITY home_bookmarks_empty "आपके सहेजे पुस्तचिह्न यहाँ दिखेंगे.">
-
+<!ENTITY home_closed_tabs_title2 "हाल ही में बंद किए टैब">
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
-
-
+<!ENTITY home_restore_all "टैब पुनर्बहाल करें">
+<!ENTITY home_closed_tabs_number "&formatD; टैब">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 टैब">
 <!ENTITY home_most_recent_empty "आपके देखे हुए सबसे हालिया वेबसाइट यहाँ दिखाए गए हैं.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -608,6 +611,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "खोज बीजशब्द दर्ज करें">
 
+<!ENTITY filepicker_title "फ़ाइल चुनें">
 <!ENTITY filepicker_audio_title "आवाज़ चुनें या रिकॉर्ड करें">
 <!ENTITY filepicker_image_title "तस्वीर चुनें या खींचें">
 <!ENTITY filepicker_video_title "वीडियो चुनें या रिकॉर्ड करें">
@@ -635,6 +639,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "इस पेज के भाग सुरक्षित नहीं हैं (जैसे कि चित्र).">
 <!ENTITY mixed_content_protection_disabled1 "आपने असुरक्षित तत्वों से सुरक्षा निष्क्रिय कर दिया है.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "ट्रैकिंग संरक्षण">
 <!ENTITY doorhanger_tracking_state_enabled "सक्रिय">
 <!ENTITY doorhanger_tracking_state_disabled "निष्क्रिय">
 <!ENTITY doorhanger_tracking_message_enabled1 "आपका ऑनलाइन व्यवहार पर नजर रखने का प्रयास को अवरोध कर दिया गया हैं.">
@@ -799,6 +805,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title " &brandShortName; अद्यतन है">
 <!ENTITY whatsnew_notification_summary "इस संस्करण में क्या नया है यह ढूंढें">
 
+<!ENTITY promotion_add_to_homescreen "मुख्य स्क्रीन में जोड़ें">
 
 
 
