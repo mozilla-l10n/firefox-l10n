@@ -568,7 +568,6 @@ size. -->
 <!ENTITY button_clear "امسح">
 <!ENTITY button_copy "انسخ">
 
-<!ENTITY home_top_sites_title "المواقع الأكثر زيارة">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
@@ -826,3 +825,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_button "أضِف إلى العلامات">
 
+
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
