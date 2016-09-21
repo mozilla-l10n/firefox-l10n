@@ -40,10 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Daha fazla bilgi al">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName;, tarayıcınızı daha kararlı ve güvenli hâle getirmemize yardımcı olmak için çökme raporlarını &vendorShortName; sunucularına gönderir">
-<!ENTITY enableCrashReporter.label       "Çökme Habercisi’ni etkinleştir">
-<!ENTITY enableCrashReporter.accesskey   "H">
-<!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi al">
+
+
+<!ENTITY crashReporterLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
 
