@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Zhašeć">
 <!ENTITY button_copy "Kopěrować">
 
+<!ENTITY home_top_sites_title "Najhusćišo wopytane sydła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Sydło přidać">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Składujće zapiski čitanskeho napohlada jako zapołožki, zo byšće je offline čitał.">
 <!ENTITY helper_triple_readerview_open_button "K zapołožkam přidać">
 
-
+<!ENTITY activity_stream_topsites "Najhusćišo wopytane sydła">
+<!ENTITY activity_stream_highlights "Wjerški">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Wjace">
