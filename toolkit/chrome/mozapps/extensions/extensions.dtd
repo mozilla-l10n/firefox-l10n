@@ -35,13 +35,13 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Dayakan semakan kesesuaian add-on">
 <!ENTITY warning.updatesecurity.label              "Semakan keselamatan kemas kini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.">
 <!ENTITY warning.updatesecurity.enable.label       "Dayakan">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Dayakan add-on semakan kemas kini keselamatan">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Dayakan semakan keselamatan kemas kini add-on">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Dapatkan Add-ons">
-<!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
-<!ENTITY view.availableUpdates.label          "Kemaskini tersedia">
+<!ENTITY view.recentUpdates.label             "Kemas kini Terkini">
+<!ENTITY view.availableUpdates.label          "Kemas kini Tersedia">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Semak Kemas kini">
