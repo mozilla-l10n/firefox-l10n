@@ -14,7 +14,7 @@
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grutte">
 <!ENTITY stats.activity "Aktiviteit">
-<!ENTITY stats.activityPaused "Pausearre">
+<!ENTITY stats.activityPaused "Pauzearre">
 <!ENTITY stats.activityPlaying "Spilet">
 <!ENTITY stats.activityEnded "Beëinige">
 <!ENTITY stats.activitySeeking "(sykje)">

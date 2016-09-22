@@ -161,7 +161,7 @@
 <!ENTITY rating2.label                        "Wurdearring:">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.pause.tooltip               "Pauze">
 <!ENTITY progress.cancel.tooltip              "Annulearje">
 
 
