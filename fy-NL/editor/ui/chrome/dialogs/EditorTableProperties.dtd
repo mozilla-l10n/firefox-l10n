@@ -70,6 +70,6 @@
 <!ENTITY pixels.label                     "piksels">
 <!ENTITY backgroundColor.label            "Achtergrûnkleur:">
 <!ENTITY backgroundColor.accessKey        "E">
-<!ENTITY AlignLeft.label                  "Links">
+<!ENTITY AlignLeft.label                  "Lofts">
 <!ENTITY AlignCenter.label                "Sintrearre">
 <!ENTITY AlignRight.label                 "Rjochts">

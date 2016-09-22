@@ -7,7 +7,7 @@
 <!ENTITY conversationsHeader.label     "Petearen">
 <!ENTITY searchResultConversation.label "Sykresultaat">
 <!ENTITY chat.noConv.title             "Petearen wurde hjir werjûn.">
-<!ENTITY chat.noConv.description       "Brûk de kontaktlist yn it linkerpaniel om in petear te begjinnen.">
+<!ENTITY chat.noConv.description       "Brûk de kontaktlist yn it lofterpaniel om in petear te begjinnen.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; hat op dit stuit gjin foarige petearen foar dit kontakt bewarre.">
 <!ENTITY chat.noAccount.title             "Jo hawwe noch gjin chataccount ynsteld.">
 <!ENTITY chat.noAccount.description       "Lit &brandShortName; jo troch it ynstelproses fan jo chataccount liede.">
