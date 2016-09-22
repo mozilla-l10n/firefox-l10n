@@ -191,15 +191,15 @@
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Utlynje">
 <!ENTITY alignMenu.accesskey "U">
-<!ENTITY alignLeft.label "Links">
+<!ENTITY alignLeft.label "Lofts">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "Links útlynje">
+<!ENTITY alignLeft.tooltip "Lofts rjochtsje">
 <!ENTITY alignCenter.label "Sintrearre">
 <!ENTITY alignCenter.accesskey "S">
 <!ENTITY alignCenter.tooltip "Sintrearje">
 <!ENTITY alignRight.label "Rjochts">
 <!ENTITY alignRight.accesskey "R">
-<!ENTITY alignRight.tooltip "Rjochts útlynje">
+<!ENTITY alignRight.tooltip "Rjochts rjochtsje">
 <!ENTITY alignJustify.label "Utfolje">
 <!ENTITY alignJustify.accesskey "U">
 <!ENTITY alignJustify.tooltip "Utfolje">
@@ -322,10 +322,10 @@
 <!ENTITY indentToolbarCmd.tooltip "Ynspringen fergrutsje">
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
 <!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
-<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarzje útlynje">
-<!ENTITY alignCenterButton.tooltip "Tekst sintrearre útlynje">
-<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje útlynje">
-<!ENTITY alignJustifyButton.tooltip "Tekst by de linker- en rjochtermarzje útlynje">
+<!ENTITY alignLeftButton.tooltip "Tekst by de loftermarzje rjochtsje">
+<!ENTITY alignCenterButton.tooltip "Tekst sintrearre rjochtsje">
+<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje rjochtsje">
+<!ENTITY alignJustifyButton.tooltip "Tekst by de lofter- en rjochtermarzje rjochtsje">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selektearje">
