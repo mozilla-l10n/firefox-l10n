@@ -8,9 +8,9 @@
 <!ENTITY archiveGranularityPrefix.label "By it argivearjen fan berjochten, pleats se yn:">
 <!ENTITY archiveFlat.label "Ien inkelde map">
 <!ENTITY archiveFlat.accesskey "I">
-<!ENTITY archiveYearly.label "Argyfmap per jier">
+<!ENTITY archiveYearly.label "Argyfmappen yn it jier">
 <!ENTITY archiveYearly.accesskey "j">
-<!ENTITY archiveMonthly.label "Argyfmap per moanne">
+<!ENTITY archiveMonthly.label "Argyfmappen yn 'e moanne">
 <!ENTITY archiveMonthly.accesskey "m">
 <!ENTITY keepFolderStructure.label "Bewarje de besteande mapstruktuer fan de argivearre berjochten">
 <!ENTITY keepFolderStructure.accesskey "b">
