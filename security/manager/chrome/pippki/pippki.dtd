@@ -28,7 +28,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Brûkersidentifikaasjefersyk">
 <!ENTITY clientAuthAsk.message1 "Dizze website fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:">
-<!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as identifikaasje te presentearjen:">
+<!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as identifikaasje te presintearjen:">
 <!ENTITY clientAuthAsk.message3 "Details fan it selektearre sertifikaat:">
 
 <!-- Strings for the cert picker dialog -->
