@@ -209,8 +209,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otevře panel zpráv">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otevře panel se žádostmi o polohu">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Změní, zda můžete ze serveru přijímat oznámení">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovat sdílení mikrofonu se stránkou">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Spravovat sdílení oken nebo obrazovky se stránkou">
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Přeloží tuto stránku">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovat překlad stránky">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Správa využívání softwaru DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Zakázali jste této stránce přístup k vaší kameře.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Zakázali jste této stránce přístup k vašemu mikrofonu.">
@@ -219,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazit historii">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Obnoví velikost stránky">
 
 <!ENTITY searchItem.title             "Hledání">
 
@@ -415,6 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Vyhledávací dotaz">
+<!ENTITY contentSearchSubmit.tooltip  "Potvrdí hledání">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -440,6 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Změnit nastavení vyhledávání">
+<!ENTITY changeSearchSettings.tooltip "Změní nastavení vyhledávání">
 
 <!ENTITY searchInNewTab.label         "Hledat v novém panelu">
 <!ENTITY searchInNewTab.accesskey     "n">
