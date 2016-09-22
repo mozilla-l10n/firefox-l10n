@@ -102,9 +102,9 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Foarnamme achternamme">
+<!ENTITY firstLastCmd2.label                            "Foarnamme efternamme">
 <!ENTITY firstLastCmd2.accesskey                        "F">
-<!ENTITY lastFirstCmd.label                             "Achternamme, foarnamme">
+<!ENTITY lastFirstCmd.label                             "Efternamme, foarnamme">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Werjeftenamme">
 <!ENTITY displayNameCmd.accesskey                       "W">

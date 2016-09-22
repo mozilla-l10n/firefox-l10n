@@ -22,7 +22,7 @@
 <!ENTITY size.accesskey                       "G">
 <!ENTITY fontColor.label                      "Tekstkleur:">
 <!ENTITY fontColor.accesskey                  "k">
-<!ENTITY bgColor.label                        "Achtergrûnkleur:">
+<!ENTITY bgColor.label                        "Eftergrûnkleur:">
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standertwearden tebeksette">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">

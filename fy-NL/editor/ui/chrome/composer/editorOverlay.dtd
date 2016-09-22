@@ -206,7 +206,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Leech">
-<!ENTITY layerSendToBack.tooltip "Nei achter bringe">
+<!ENTITY layerSendToBack.tooltip "Nei efter bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
 <!ENTITY increaseIndent.label "Ynspringe fergrutsje">

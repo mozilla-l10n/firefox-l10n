@@ -68,7 +68,7 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Grutte">
 <!ENTITY pixels.label                     "piksels">
-<!ENTITY backgroundColor.label            "Achtergrûnkleur:">
+<!ENTITY backgroundColor.label            "Eftergrûnkleur:">
 <!ENTITY backgroundColor.accessKey        "E">
 <!ENTITY AlignLeft.label                  "Lofts">
 <!ENTITY AlignCenter.label                "Sintrearre">

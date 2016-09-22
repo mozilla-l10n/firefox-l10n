@@ -13,10 +13,10 @@
 <!ENTITY  overridePageColors.auto.label   "Allinnich by tema’s mei heech kontrast">
 <!ENTITY  overridePageColors.never.label  "Nea">
 
-<!ENTITY  color                           "Tekst en achtergrûn">
+<!ENTITY  color                           "Tekst en eftergrûn">
 <!ENTITY  textColor.label                 "Tekst:">
 <!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Achtergrûn:">
+<!ENTITY  backgroundColor.label           "Eftergrûn:">
 <!ENTITY  backgroundColor.accesskey       "g">
 <!ENTITY  useSystemColors.label           "Brûk systeemkleuren">
 <!ENTITY  useSystemColors.accesskey       "s">

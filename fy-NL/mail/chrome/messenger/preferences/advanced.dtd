@@ -62,7 +62,7 @@
 <!ENTITY updateHistory.label             "Fernijingsskiednis toane">
 <!ENTITY updateHistory.accesskey         "s">
 
-<!ENTITY useService.label                "In achtergrûntsjinst brûke om fernijingen te ynstallearjen">
+<!ENTITY useService.label                "In eftergrûntsjinst brûke om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
 <!-- Networking and Disk Space -->

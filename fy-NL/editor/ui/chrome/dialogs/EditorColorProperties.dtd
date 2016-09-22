@@ -20,9 +20,9 @@
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "Besochte keppeling">
 <!ENTITY visitedLinkText.accessKey "B">
-<!ENTITY background.label "Achtergrûn:">
+<!ENTITY background.label "Eftergrûn:">
 <!ENTITY background.accessKey "t">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Achtergrûnôfbylding:">
+<!ENTITY backgroundImage.label "Eftergrûnôfbylding:">
 <!ENTITY backgroundImage.accessKey "f">
-<!ENTITY backgroundImage.tooltip "In ôfbyldingsbestân as achtergrûn foar jo side brûke">
+<!ENTITY backgroundImage.tooltip "In ôfbyldingsbestân as eftergrûn foar jo side brûke">

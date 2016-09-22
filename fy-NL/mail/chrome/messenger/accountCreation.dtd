@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard.title          "E-mailaccount ynstelle">
-<!ENTITY name.label                		   "Jo namme">
+<!ENTITY name.label                      "Jo namme">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Foarnamme Achternamme">
+<!ENTITY name.placeholder                "Foarnamme Efternamme">
 <!ENTITY name.text                       "Jo namme, as toant oan oaren">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "l">
@@ -20,15 +20,15 @@
 <!ENTITY imapLong.label                  "IMAP (mappen op in oare kompjûter)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op jo kompjûter bewarje)">
 
-<!ENTITY incoming.label		  			       "Ynkommend:">
-<!ENTITY outgoing.label             	   "Utgeand:">
+<!ENTITY incoming.label                  "Ynkommend:">
+<!ENTITY outgoing.label                  "Utgeand:">
 <!ENTITY username.label                  "Brûkersnamme:">
 <!ENTITY hostname.label                  "Serverhostnamme">
 <!ENTITY port.label                      "Poarte">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentikaasje">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP3">
+<!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Autodeteksje">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
