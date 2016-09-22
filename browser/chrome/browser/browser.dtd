@@ -207,6 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobrazit informace o stránce">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otevře panel zpráv">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otevře panel se žádostmi o polohu">
 
 
 
@@ -715,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oprávnění">
 <!ENTITY identity.permissionsEmpty "Pro tento server nemáte udělena žádná zvláštní oprávnění.">
+<!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
