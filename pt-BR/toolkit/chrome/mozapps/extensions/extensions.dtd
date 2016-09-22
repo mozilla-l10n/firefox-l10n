@@ -129,7 +129,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
 <!ENTITY detail.lastupdated.label             "Última atualização">
-<!ENTITY detail.creator.label                 "Desenvolvedor">
+<!ENTITY detail.creator.label                 "Developer">
 <!ENTITY detail.homepage.label                "Página inicial">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
