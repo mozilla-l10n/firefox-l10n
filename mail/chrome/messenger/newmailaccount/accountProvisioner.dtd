@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Hallo ">
 <!ENTITY success.title.after ", de folgjende e-mailadressen binne foar jo beskikber:">
 <!ENTITY success.tip "(Jo kinne ek sykje op bynammen of oare termen om mear e-mailadressen te finen)">
-<!ENTITY partnership.description "Yn gearwurking mei in oantal providers kin &brandShortName; jo in nij e-mailaccount oanbiede. Folje yn de boppesteande fjilden jo foar- en achternamme of oare wurden dy't jo befalle yn, om te starten.">
+<!ENTITY partnership.description "Yn gearwurking mei in oantal providers kin &brandShortName; jo in nij e-mailaccount oanbiede. Folje yn de boppesteande fjilden jo foar- en efternamme of oare wurden dy't jo befalle yn, om te starten.">
 <!ENTITY existing.header "Jo hawwe al in adres dy't jo brûke wolle?">
 <!ENTITY tinyheader.title "Hawwe jo al in adres?">
 <!ENTITY tinyheader.existing "Slach dit oer en gebrûk myn besteande e-mailadres">
