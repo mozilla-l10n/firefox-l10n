@@ -13,7 +13,7 @@
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Alamat laman web:">
 <!ENTITY address.accesskey            "m">
-<!ENTITY block.label                  "Halang">
+<!ENTITY block.label                  "Sekat">
 <!ENTITY block.accesskey              "a">
 <!ENTITY session.label                "Benarkan Sesi">
 <!ENTITY session.accesskey            "S">
