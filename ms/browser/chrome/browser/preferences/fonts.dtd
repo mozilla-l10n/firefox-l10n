@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
 
-<!ENTITY languages.customize.Fallback.auto        "Lalai untuk Locale Semasa">
+<!ENTITY languages.customize.Fallback.auto        "Locale Semasa Piawai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arab">
