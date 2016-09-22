@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "क्या अपने खोज सेटिंग्स को पुनःस्थापित करना चाहते हैं?">
 
-<!ENTITY searchreset.pageInfo1      "आपका खोज सेटिंग्स पुरानी हो सकती हैं. &brandShortName; डिफ़ॉल्ट खोज सेटिंग्स को पुनःस्थापित करने में मदद कर सकता हैं.">
+<!ENTITY searchreset.pageInfo1      "आपकी खोज सेटिंग्स पुरानी हो सकती हैं. &brandShortName; डिफ़ॉल्ट खोज सेटिंग्स को पुनःस्थापित करने में आपकी मदद कर सकता हैं.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
