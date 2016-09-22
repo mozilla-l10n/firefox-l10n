@@ -99,7 +99,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Kebolehcapaian">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
-<!ENTITY aboutSupport.a11yForceDisabled "Halang Kebolehcapaian">
+<!ENTITY aboutSupport.a11yForceDisabled "Halang Aksesibiliti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
