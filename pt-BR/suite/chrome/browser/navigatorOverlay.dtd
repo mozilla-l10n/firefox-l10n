@@ -142,5 +142,5 @@
 <!ENTITY popupsManager.label "Gerenciador de Popups">
 <!ENTITY popupsManager.accesskey "o">
 
-<!ENTITY clearPrivateDataCmd.label "Limpar dados privados…">
+<!ENTITY clearPrivateDataCmd.label "Limpar dados privativos…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
