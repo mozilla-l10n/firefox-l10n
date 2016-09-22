@@ -7,8 +7,8 @@
 <!ENTITY siteIcons.label "Iconos de sitios web">
 <!ENTITY useSiteIcons.label "Mostrar iconos de sitios web">
 <!ENTITY useSiteIcons.accesskey "M">
-<!ENTITY useFavIcons.label "Buscar de modo agresivo iconos de sitio web si la página no indica uno">
-<!ENTITY useFavIcons.accesskey "B">
+<!ENTITY useFavIcons2.label "Intentar usar el icono web del servidor cuando la página no defina uno propio">
+<!ENTITY useFavIcons2.accesskey "f">
 <!ENTITY scrolling.label "Desplazamiento">
 <!ENTITY useAutoScroll.label "Usar desplazamiento automático">
 <!ENTITY useAutoScroll.accesskey "e">
