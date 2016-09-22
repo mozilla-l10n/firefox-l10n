@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "Zobrazit všechna písma použitá ve stránce">
+<!ENTITY showAllFontsUsed "Zobrazit všechna použitá písma">
 <!ENTITY usedAs "Použito jako: ">
 <!ENTITY system "systémový">
 <!ENTITY remote "vzdálený">

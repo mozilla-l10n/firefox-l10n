@@ -107,6 +107,7 @@
 <!ENTITY downloadsHistory.label           "Zobrazit všechna stahování">
 <!ENTITY downloadsHistory.accesskey       "v">
 
+<!ENTITY openDownloadsFolder.label       "Otevřít složku se staženými soubory">
 
 <!ENTITY clearDownloadsButton.label       "Smazat stahování">
 <!ENTITY clearDownloadsButton.tooltip     "Smaže dokončená, zrušená či neúspěšná stahování">
