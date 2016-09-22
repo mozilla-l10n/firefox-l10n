@@ -33,7 +33,7 @@
 <!ENTITY warning.checkcompatibility.label          "Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.">
 <!ENTITY warning.checkcompatibility.enable.label   "Ynskeakelje">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Skeakelje kontrole fan kompatibileit foar add-ons yn">
-<!ENTITY warning.updatesecurity.label              "Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne achterrinne mei fernijingen.">
+<!ENTITY warning.updatesecurity.label              "Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.">
 <!ENTITY warning.updatesecurity.enable.label       "Ynskeakelje">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Skeakelje feilichheidskontrole foar add-onsfernijingen yn">
 
