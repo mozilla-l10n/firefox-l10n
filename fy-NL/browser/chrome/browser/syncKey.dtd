@@ -5,7 +5,7 @@
 <!ENTITY syncKey.page.title               "Jo &syncBrand.fullName.label;-kaai">
 <!ENTITY syncKey.page.description2        "Dizze kaai wurdt brûkt om gegevens te ûntsiferjen yn jo &syncBrand.fullName.label; account. Jo moatte de kaai ynfiere elke kear as jo &syncBrand.fullName.label; konfigurearje op in nij apparaat.">
 <!ENTITY syncKey.keepItSecret.heading     "Hâld it geheim">
-<!ENTITY syncKey.keepItSecret.description "Om jo privacy te beskermen, is jo &syncBrand.fullName.label;-account fersifere. Sûnder dizze kaai, soe it jierren duorje foardat ien jo persoanlike ynformaasje ûntsiferje kin. Jo binne de ienige dy't oer dizze kaai beskikke. Dit betsjut dat jo de ienichste binne dy't tagong hat ta jo &syncBrand.fullName.label; gegevens.">
+<!ENTITY syncKey.keepItSecret.description "Om jo privacy te beskermen, is jo &syncBrand.fullName.label;-account fersifere. Sûnder dizze kaai, soe it jierren duorje foardat ien jo persoanlike ynformaasje ûntsiferje kin. Jo binne de iennichste dy't oer dizze kaai beskikke. Dit betsjut dat jo de iennichste binne dy't tagong hat ta jo &syncBrand.fullName.label;-gegevens.">
 <!ENTITY syncKey.keepItSafe.heading       "Hâld it feilich">
 <!ENTITY syncKey.keepItSafe1.description  "Ferlies dizze kaai net.">
 <!ENTITY syncKey.keepItSafe2.description  " Wy bewarje net in kopy fan jo kaai (dan soe it net in geheim bliuwe!) dus ">
