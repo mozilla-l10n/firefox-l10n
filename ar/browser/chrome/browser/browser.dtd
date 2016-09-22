@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "اعرض معلومات الموقع">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "افتح لوحة الرسائل">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "افتح لوحة طلب المكان">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "افتح لوحة رسائل تثبيت الإضافات">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "افتح لوحة رسائل مساحة التخزين دون اتصال">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "افتح لوحة رسائل حفظ كلمة السر">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "أدر الملحقات المستخدمة">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "أدر مشاركة ميكروفونك مع هذا الموقع">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "أدر مشاركة نوافذك أو شاشتك مع هذا الموقع">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "افتح لوحة رسائل التثبيت">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ترجم هذه الصفحة">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "أدِر ترجمة الصفحة">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "لقد حظرت كمرتك عن هذا الموقع.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "لقد حظرت ميكروفونك عن هذا الموقع.">
+<!ENTITY urlbar.screenBlocked.tooltip            "لقد حظرت هذا الموقع من مشاركة شاشتك.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "لقد حظرت معلومات مكانك عن هذا الموقع.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "لقد حظرت تخزين البيانات عن هذا الموقع.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حظرت التنبيهات عن هذا الموقع.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
+<!ENTITY urlbar.zoomReset.tooltip     "صفّر مستوى التقريب">
 
 <!ENTITY searchItem.title             "ابحث">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
-
+<!ENTITY changeSearchSettings.tooltip "غيّر إعدادات البحث">
 
 <!ENTITY searchInNewTab.label         "ابحث في لسان جديد">
 <!ENTITY searchInNewTab.accesskey     "س">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "التّصاريح">
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
-
+<!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

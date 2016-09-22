@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ر">
 <!ENTITY cmd.removeFromHistory.label      "احذف من التأريخ">
 <!ENTITY cmd.removeFromHistory.accesskey  "ح">
-
-
+<!ENTITY cmd.clearList2.label             "امسح لوحة المعاينة">
+<!ENTITY cmd.clearList2.accesskey         "م">
 <!ENTITY cmd.clearDownloads.label         "امسح التنزيلات">
 <!ENTITY cmd.clearDownloads.accesskey     "س">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "أظهر كل التنزيلات">
 <!ENTITY downloadsHistory.accesskey       "ك">
 
+<!ENTITY openDownloadsFolder.label       "افتح مجلد التنزيلات">
 
 <!ENTITY clearDownloadsButton.label       "امسح التنزيلات">
 <!ENTITY clearDownloadsButton.tooltip     "امسح التنزيلات المكتملة و غير المكتملة و الملغاة">
