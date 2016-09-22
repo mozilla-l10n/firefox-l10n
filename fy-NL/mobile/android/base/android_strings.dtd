@@ -489,7 +489,7 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Ferstjoer nei apparaat">
 <!ENTITY media_play "Ofspylje">
-<!ENTITY media_pause "Pausearje">
+<!ENTITY media_pause "Pauzearje">
 <!ENTITY media_stop "Stopje">
 
 <!ENTITY contextmenu_open_new_tab "Iepenje yn nij ljepblêd">
