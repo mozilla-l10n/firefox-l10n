@@ -28,6 +28,7 @@
 <!ENTITY generic.title "ओफ्फ.">
 
 
+<!ENTITY malformedURI.title "पता वैध नहीं है">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -54,6 +55,7 @@
 <!ENTITY netTimeout.title "कनेक्शन का समय समाप्त हो गया">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "प्रॉक्सी सर्वर कनेक्शन अस्वीकार कर रहा है">
@@ -64,6 +66,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>जाँचें और यह सुनिश्चत करें कि प्रॉक्सी सेटिंग्स सही हैं.</li> <li>जाँचें और यह सुनिश्चत करें कि आपके साधन का डाटा या वाई-फाई कनेक्शन शुरू है. <button id='wifi'>वाई-फाई शुरू करें</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
 <!ENTITY redirectLoop.longDesc "<ul> <li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होती है.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर से अप्रत्याशित अनुक्रिया">
@@ -102,9 +105,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "विस्तृत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "आपका संपर्क असुरक्षित है">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "विस्तृत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "आपका संपर्क असुरक्षित है">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
