@@ -80,12 +80,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Oanropstruktuer omkeare">
-<!ENTITY performanceUI.invertTree.tooltiptext "Omkearen fan de oanropstruktuer jout de profilearre oanroppaden fanôf de jongste frames en útwreidzjend nei de âldere frames wer">
+<!ENTITY performanceUI.invertTree.tooltiptext "Omkearen fan de oanropstruktuer jout de profilearre oanroppaden fan de jongste frames en útwreidzjend nei de âldere frames wer ôf">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Flamechart omkeare">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Omkearen fan de flamechart jout de profilearre oanroppaden fanôf de jongste frames en útwreidzjend nei de âldere frames wer">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Omkearen fan de flamechart jout de profilearre oanroppaden fan de jongste frames en útwreidzjend nei de âldere frames wer ôf">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
