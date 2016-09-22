@@ -4,7 +4,7 @@
 
 <!ENTITY tabCrashed.header "Más notícias primeiro: esta aba travou">
 <!ENTITY tabCrashed.message "Agora, a boa notícia: você pode fechar esta aba, restaurá-la ou restaurar todas as abas travadas.">
-<!ENTITY tabCrashed.sendReport "Enviar um relatório de erro para ajudar a evitar mais más notícias">
+<!ENTITY tabCrashed.sendReport "Enviar um relatório de travamento para ajudar a evitar mais más notícias">
 <!ENTITY tabCrashed.includeURL "Incluir o endereço da página em que eu estava">
 <!ENTITY tabCrashed.commentPlaceholder "Adicionar um comentário (comentários são visíveis publicamente)">
 <!ENTITY tabCrashed.emailPlaceholder "Entre com seu endereço de e-mail aqui">
