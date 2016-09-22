@@ -207,12 +207,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Visualizar informação do site">
 
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerenciar plugin em uso">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Alterar o recebimento de notificações do site">
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduzir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerenciar tradução da página">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Redefinir nível de zoom">
 
 <!ENTITY searchItem.title             "Pesquisar">
 
@@ -434,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Alterar configurações de pesquisa">
+<!ENTITY changeSearchSettings.tooltip "Alterar configurações de pesquisa">
 
 <!ENTITY searchInNewTab.label         "Pesquisar em uma nova aba">
 <!ENTITY searchInNewTab.accesskey     "P">
