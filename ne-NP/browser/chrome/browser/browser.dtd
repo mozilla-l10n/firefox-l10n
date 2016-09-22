@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.beforeDomain.label "‌">
 <!ENTITY pointerlockWarning.afterDomain.label "तपाईको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
 <!ENTITY pointerlockWarning.generic.label "तपाईंको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।">
 
