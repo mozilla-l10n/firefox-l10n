@@ -130,7 +130,7 @@
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_general "عام">
-<!ENTITY pref_category_general_summary3 "الرئيسية، اللغة، طابور الألسنة">
+<!ENTITY pref_category_general_summary3 "الرئيسية، و اللغة، و طابور الألسنة">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -169,9 +169,9 @@
 <!ENTITY overlay_no_synced_devices "لم يُعثر على أيّ جهاز مربوط بحساب فيرفكس">
 
 <!ENTITY pref_category_search3 "البحث">
-<!ENTITY pref_category_search_summary2 "أضف، حدد المبدئي، أظهر الاقتراحات">
+<!ENTITY pref_category_search_summary2 "أضف، و حدد المبدئي، و أظهر الاقتراحات">
 <!ENTITY pref_category_accessibility "الإتاحة">
-<!ENTITY pref_category_accessibility_summary2 "حجم النص، التقريب، الإدخال بالصوت">
+<!ENTITY pref_category_accessibility_summary2 "حجم النص، و التقريب، و الإدخال بالصوت">
 <!ENTITY pref_category_privacy_short "الخصوصية">
 <!ENTITY pref_category_privacy_summary4 "التّعقّب، و جلسات الولوج، و اختيار البيانات">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -196,7 +196,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "استعادة الألسنة، و حافظ البيانات، و أدوات المطوّرين">
 <!ENTITY pref_category_notifications "التنبيهات">
-<!ENTITY pref_category_notifications_summary "المزايا جديده، و تحديثات الموقع">
+<!ENTITY pref_category_notifications_summary "المزايا الجديدة، و تحديثات الموقع">
 <!ENTITY pref_content_notifications "تحديثات الموقع">
 <!ENTITY pref_content_notifications_summary2 "اكتشف محتوى جديد من المواقع المدعومة">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
@@ -457,8 +457,8 @@ size. -->
 <!ENTITY downloads "التنزيلات">
 <!ENTITY char_encoding "ترميز المحارف">
 
-<!ENTITY share "تشارك">
-<!ENTITY share_title "تشارك عبر">
+<!ENTITY share "شارك">
+<!ENTITY share_title "شارك عبر">
 <!ENTITY share_image_failed "تعّذرت مشاركة هذا الموقع">
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY print "اطبع">
