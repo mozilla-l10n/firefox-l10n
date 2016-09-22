@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "डाउनलोड">
+<!ENTITY downloads.title                  "डाउनलोड‌">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -23,7 +23,7 @@
      That's 50 characters, so we set the width at 50ch.
      -->
 
-<!ENTITY downloadDetails.width            "50ch">
+<!ENTITY downloadDetails.width            "‌50सीएच">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -38,7 +38,7 @@
      that's 21 characters, so we set the minimum width to 21ch.
      -->
 
-<!ENTITY downloadsSummary.minWidth2       "21ch">
+<!ENTITY downloadsSummary.minWidth2       "21सीएच">
 
 <!ENTITY cmd.pause.label                  "ठहराएँ">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -55,8 +55,8 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                " फाइंडर में दिखाएँ">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "फिर कोशिश करें">
-<!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ">
+<!ENTITY cmd.retry.label                  "फिर कोशिश‌ करें">
+<!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ‌">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "डाउनलोड कड़ी की नकल करें">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
@@ -92,7 +92,7 @@
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
 
-<!ENTITY blocked.label                    "अवरूद्ध">
+<!ENTITY blocked.label                    "अवरूद्ध‌">
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
@@ -106,19 +106,19 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "सभी डाउनलोड्स दिखाएँ">
+<!ENTITY downloadsHistory.label           "सभी डाउनलोड्स दिखाएँ‌‌">
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY openDownloadsFolder.label       "डाउनलोड फ़ोल्डर खोलें">
 
-<!ENTITY clearDownloadsButton.label       "डाउनलोड साफ़ करें">
+<!ENTITY clearDownloadsButton.label       "‌डाउनलोड्स साफ़ करें">
 <!ENTITY clearDownloadsButton.tooltip     " संपन्न, रद्द, और विफल डाउनलोड को हटाया">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "वहाँ कोई डाउनलोड के लिए नहीं है.">
+<!ENTITY downloadsListEmpty.label         "कोई डाउनलोड्स नहीं है.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
