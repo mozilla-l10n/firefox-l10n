@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messageMarkByDate.label "Berjochten op datum as lêzen markearje">
-<!ENTITY markByDateLower.label "Berjochten as lêzen markearje fanôf:">
+<!ENTITY markByDateLower.label "Berjochten as lêzen markearje fan ôf:">
 <!ENTITY markByDateLower.accesskey "M">
 <!ENTITY markByDateUpper.label "Oant en mei:">
 <!ENTITY markByDateUpper.accesskey "O">
