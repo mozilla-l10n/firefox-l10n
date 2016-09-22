@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Vinavant">
 <!ENTITY fileButton.label "Datoteca">
 <!ENTITY archiveButton.label "Archivar">
+<!ENTITY openConversationButton.label "Conversaziun">
 <!ENTITY nextButton.label "Enavant">
 <!ENTITY nextButtonToolbarItem.label "Proxim nunlegì">
 <!ENTITY nextMsgButton.label "Proxim">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Trametter vinavant il messadi selecziunà sco agiunta">
 <!ENTITY fileButton.tooltip "Archivar il messadi tschernì">
 <!ENTITY archiveButton.tooltip "Archivar ils messadis tschernids">
+<!ENTITY openConversationButton.tooltip "Mussar la conversaziun dal messadi tschernì">
 <!ENTITY nextButton.tooltip "Ir al proxim messadi nunlegì">
 <!ENTITY nextMsgButton.tooltip "Ir al proxim messadi">
 <!ENTITY previousButton.tooltip "Ir al messadi nunlegì precedent">
