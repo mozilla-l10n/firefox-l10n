@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "ت">
 <!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
-
-
+<!ENTITY crashReporterDesc2.label         "بلاغات الانهيار تساعد &vendorShortName; على إصلاح المشاكل و جعل متصفحك أكثر أمانًا و ثباتًا">
+<!ENTITY alwaysSubmitCrashReports.label   "اسمح بأن يُرسل &brandShortName; بلاغات الانهيار المعلقة نيابة عنك">
+<!ENTITY alwaysSubmitCrashReports.accesskey "ن">
 <!ENTITY crashReporterLearnMore.label     "اطّلع على المزيد">
 
 <!ENTITY networkTab.label                "الشبكة">
