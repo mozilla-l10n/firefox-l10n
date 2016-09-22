@@ -17,7 +17,7 @@
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
 <!ENTITY trackingProtectionPBM5.accesskey     "k">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
-<!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
+<!ENTITY changeBlockList.label          "Tukar Senarai Sekatan">
 <!ENTITY changeBlockList.accesskey      "a">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
