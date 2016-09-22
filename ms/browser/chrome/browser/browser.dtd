@@ -224,12 +224,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Urus terjemahan halaman">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Urus penggunaan perisian DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah menghalang kamera anda untuk laman web ini.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah menghalang mikrofon anda untuk laman web ini.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Anda telah menghalang laman web ini daripada berkongsi skrin anda.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah menghalang maklumat lokasi untuk laman web ini.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah menghalang storan data untuk laman web ini.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menghalang notifikasi untuk laman web ini.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah menyekat kamera anda untuk laman web ini.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah menyekat mikrofon anda untuk laman web ini.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Anda telah menyekat laman web ini daripada berkongsi skrin anda.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah menyekat maklumat lokasi untuk laman web ini.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah menyekat storan data untuk laman web ini.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menyekat notifikasi untuk laman web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
 
@@ -664,14 +664,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basic Page Style">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Tukar tetapan menghalang pop-up untuk laman web ini">
+<!ENTITY pageReportIcon.tooltip            "Tukar tetapan sekatan popup untuk laman web ini">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Edit Keutamaan Penghalang Popup…">
-<!ENTITY editPopupSettings.label "Edit Pilihan Penghalang Popup…">
+<!ENTITY editPopupSettingsUnix.label "Edit Keutamaan Penyekat Popup…">
+<!ENTITY editPopupSettings.label "Edit Pilihan Penyekat Popup…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; telah menghalang sebahagian halaman ini yang tidak selamat">
+<!ENTITY identity.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat.">
 <!ENTITY identity.passiveLoaded "Sebahagian daripada halaman ini tidak selamat (seperti imej).">
 <!ENTITY identity.activeLoaded "Anda telah menyahdayakan perlindungan untuk halaman ini.">
 <!ENTITY identity.weakEncryption "Halaman ini menggunakan enkripsi yang lemah.">
