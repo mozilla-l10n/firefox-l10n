@@ -431,7 +431,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; tentang kesihatan pelayar anda dan membantu anda memahami prestasi pelayar anda">
+<!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda dan membantu anda memahami prestasi pelayar anda">
 <!ENTITY datareporting_abouthr_title "Papar Health Report saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
