@@ -64,7 +64,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions           "Pausearje by útsûnderingen">
+<!ENTITY debuggerUI.pauseExceptions           "Pauzearje by útsûnderingen">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the

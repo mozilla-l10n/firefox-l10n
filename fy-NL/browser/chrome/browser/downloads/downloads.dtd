@@ -40,7 +40,7 @@
      -->
 <!ENTITY downloadsSummary.minWidth2       "22ch">
 
-<!ENTITY cmd.pause.label                  "Pausearje">
+<!ENTITY cmd.pause.label                  "Pauzearje">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Ferfetsje">
 <!ENTITY cmd.resume.accesskey             "F">
