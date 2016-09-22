@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "Get ekki tengst">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Aðgangur að þessari gátt er ekki leyfður">
+<!ENTITY deniedPortAccess.title "Aðgangur að gátt er ekki leyfður">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Netþjónn fannst ekki">
