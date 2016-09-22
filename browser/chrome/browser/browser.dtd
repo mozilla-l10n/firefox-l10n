@@ -42,8 +42,8 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 
 
-
-
+<!ENTITY  sendPageToDevice.label             "Device में पृष्ठ भेजें">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 
 
 <!ENTITY  moveToNewWindow.label              " नए विंडो में खिसकाएँ">
@@ -185,7 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
-<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ">
+<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "हाल के पुस्तचिह्नित छिपायें">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
@@ -225,10 +225,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेयर का उपयोग प्रबंधित करे ">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "आप इस वेबसाइट के लिए अपने कैमरा को अवरूद्ध किये हैं.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "आपने इस वेबसाइट के लिए अपने माइक्रोफ़ोन को अवरूद्ध किया हैं.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "आपने इस वेबसाइट के लिए अपने माइक्रोफ़ोन को अवरूद्ध किया है">
 <!ENTITY urlbar.screenBlocked.tooltip            "आपने अपने स्क्रीन को साझा करने से इस वेबसाइट को अवरूद्ध किया हैं.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "आपने इस वेबसाइट के लिए स्थान की सूचना अवरुद्ध किये है.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "आपने इस वेबसाइट के लिए डेटा संग्रह को अवरुद्ध किये है.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "आपने इस वेबसाइट के लिए डेटा संग्रह को अवरुद्ध किया है.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपने इस वेबसाइट के लिए अधिसूचना अवरुद्ध किये है.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
@@ -296,7 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            " फिर करें">  
-<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.key            "Y‌">  
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           " काटें">  
 <!ENTITY cutCmd.key             "X">  
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी दिखाएँ">
 <!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
-<!ENTITY appMenuRemoteTabs.label "सिंक किये हुए टैब्स">
+<!ENTITY appMenuRemoteTabs.label "समकालीन टैब्स">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "कोई टैब खुला नहीं">
@@ -362,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "अभी तक! कोई समन्वयित टैब नहीं...">
+<!ENTITY appMenuRemoteTabs.noclients.title "अभी तक! कोई समन्वयित टैब‌‌ नहीं...">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें">
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "अधिक सूचना">
 
 <!ENTITY identity.permissions " अनुमति">
-<!ENTITY identity.permissionsEmpty "आपने इस साइट को कोई विशेष अनुमति नहीं दी है.">
+<!ENTITY identity.permissionsEmpty "आपने इस साइट को कोई विशेष अनुमति नहीं दी है.‌‌‌">
 <!ENTITY identity.permissionsReloadHint "बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -744,12 +744,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "सिंक किये हुए टैब्स">
 
-<!ENTITY syncedTabs.sidebar.label              "सिंक हुए टैब्स">
+<!ENTITY syncedTabs.sidebar.label              "संकलित टैब्स">
 <!ENTITY syncedTabs.sidebar.noclients.label    "अपने दूसरे उपकरणों से Firefox साइन इन कर उनके टैब देखें.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "अभी तक! कोई समन्वयित टैब नहीं...">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दूसरे उपकरणों से साइन इन करें.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "खोलें &syncBrand.shortName.label; वरीयताएँ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे">
 
 <!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; पृष्ठ के उन हिस्सों को ब्लॉक कर रहा है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं। ">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; पृष्ठ के उन हिस्सों को बाधित कर रहा है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "यह साइट उस तत्वो को शामिल करता है जो आपके ब्राउज़िंग पर नजर रख सकता हैं. आप सुरक्षा निष्क्रिय कर दिये हैं.">
 <!ENTITY trackingProtection.notDetected3 "कोई भी ट्रैकिंग तत्व इस पेज पर जांचा नहीं गया.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -848,7 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
-<!ENTITY pluginNotification.width "28em">
+<!ENTITY pluginNotification.width "2‌‌8em">
 
 <!ENTITY uiTour.infoPanel.close "बन्द करें">
 
