@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Тазарту">
 <!ENTITY button_copy "Көшіру">
 
+<!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Сайтты қосу">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Оқу тізімінің нәрселерін желіден тыс оқу үшін бетбелгілерге қосыңыз.">
 <!ENTITY helper_triple_readerview_open_button "Бетбелгілерге қосу">
 
+<!ENTITY activity_stream_topsites "Топ сайттар">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Көбірек">
