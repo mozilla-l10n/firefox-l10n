@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "सबै डाउनलोड देखाउनुहोस्">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "डाउनलोड फोल्डर खोल्नुहोस्">
 
 <!ENTITY clearDownloadsButton.label       "डाउनलेाडहरू खाली गर्नुहोस्">
 <!ENTITY clearDownloadsButton.tooltip     "सबै सकिएका, रद्ध गरिएका र विफल भएका डाउनलोडहरू मेटाउनुहोस्">
