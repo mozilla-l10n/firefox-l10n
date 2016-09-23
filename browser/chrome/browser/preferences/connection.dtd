@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
 
+
+
 <!ENTITY  proxyTitle.label              "İnternete erişmek için vekil sunucuları yapılandır">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu yok">
 <!ENTITY  noProxyTypeRadio.accesskey    "e">
