@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Kapcsolat beállításai">
 
+
+
 <!ENTITY  proxyTitle.label              "Proxy beállítása az internet eléréséhez">
 <!ENTITY  noProxyTypeRadio.label        "Nincs proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "N">
