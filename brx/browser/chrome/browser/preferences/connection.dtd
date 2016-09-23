@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "फोनांजाब सेटिं">
 
+
+
 <!ENTITY  proxyTitle.label              "इन्टारनेटआव हाबनो प्रक्सिफोरखौ महर दा">
 <!ENTITY  noProxyTypeRadio.label        "प्रक्सि गैया (y)">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
