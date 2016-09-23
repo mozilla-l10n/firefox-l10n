@@ -207,7 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Titz'et retamab'al ruxaq k'amaya'l">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Jaqäl rupas tzijol">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Rupas ruk'utuxik rokem k'ojlem">
 
 
 
