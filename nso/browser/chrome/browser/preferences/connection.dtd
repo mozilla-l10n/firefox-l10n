@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Dipeakanyo tša kgokaganyo">
 
+
+
 <!ENTITY  proxyTitle.label              "Beakanya dikemedi go fihlelela inthanete">
 <!ENTITY  noProxyTypeRadio.label        "Ga go na kemedi">
 <!ENTITY  noProxyTypeRadio.accesskey    "i">
