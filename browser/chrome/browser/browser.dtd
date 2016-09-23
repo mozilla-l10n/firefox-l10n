@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "i">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
 <!ENTITY  unpinTab.accesskey                 "x">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Trimite fila la dispozitiv">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Trimite pagina la dispozitiv">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Trimite linkul la dispozitiv">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele…">
@@ -218,8 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradu această pagină">
-
-
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
 
 
 
@@ -451,9 +451,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Schimbă setările de căutare">
 
 
-
-
-
+<!ENTITY searchInNewTab.label         "Caută într-o filă nouă">
+<!ENTITY searchInNewTab.accesskey     "t">
+<!ENTITY searchSetAsDefault.label     "Setează ca motor de căutare implicit">
+<!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Deschide linkul într-o filă nouă">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -467,7 +468,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "D">
-
+<!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă container nouă">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "A">

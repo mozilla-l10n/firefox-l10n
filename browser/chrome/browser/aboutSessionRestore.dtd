@@ -52,7 +52,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migrează celelalte grupuri de file">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "Am eliminat grupurile de file, însă ți-am salvat filele">
 
 
 
