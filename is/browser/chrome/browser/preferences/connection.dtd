@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Net stillingar">
 
+
+
 <!ENTITY  proxyTitle.label              "Stilla milliþjóna (Proxy) til að tengjast netinu">
 <!ENTITY  noProxyTypeRadio.label        "Enginn milliþjónn">
 <!ENTITY  noProxyTypeRadio.accesskey    "þ">
