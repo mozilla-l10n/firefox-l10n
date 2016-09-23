@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Verbindingopstelling">
 
+
+
 <!ENTITY  proxyTitle.label              "Stel instaanbedieners op vir internettoegang">
 <!ENTITY  noProxyTypeRadio.label        "Geen instaanbediener">
 <!ENTITY  noProxyTypeRadio.accesskey    "G">
