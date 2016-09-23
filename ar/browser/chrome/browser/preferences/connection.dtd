@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "إعدادات الاتّصال">
 
+
+
 <!ENTITY  proxyTitle.label              "اضبط وسطاء الوصول إلى الإنترنت">
 <!ENTITY  noProxyTypeRadio.label        "لا وسيط">
 <!ENTITY  noProxyTypeRadio.accesskey    "ل">
