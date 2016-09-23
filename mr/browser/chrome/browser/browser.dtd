@@ -207,8 +207,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "संकेतस्थळाची माहिती पहा">
 
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "संदेश पॅनल उघडा">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थळ विनंती पॅनल उघडा">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          " अॅड-ऑन स्थापना संदेश पॅनल उघडा">
 
 
 
