@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Paràmetres de connexió">
 
+
+
 <!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sense servidor intermediari">
 <!ENTITY  noProxyTypeRadio.accesskey    "v">
