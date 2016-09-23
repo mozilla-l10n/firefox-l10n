@@ -1,7 +1,6 @@
 atlas-sk
 azet-sk
 bing
-eBay
 google
 slovnik-sk
 wikipedia-sk
