@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "இணைப்பு அமைப்புகள்">
 
+
+
 <!ENTITY  proxyTitle.label              "இணையத்தை அணுக ப்ராக்ஸிகளை கட்டமைக்கவும்">
 <!ENTITY  noProxyTypeRadio.label        "பதிலாள் இல்லை">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
