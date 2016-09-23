@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Setările conexiunii">
 
+
+
 <!ENTITY  proxyTitle.label              "Configurează proxy-uri pentru a accesa internetul">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
