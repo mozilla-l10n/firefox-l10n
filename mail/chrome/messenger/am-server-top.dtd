@@ -53,7 +53,7 @@
 <!ENTITY modelDeleteImmediately.label "It daliks fuortsmite">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Postfek YN opskjinje (&quot;Expunge&quot;) by ôfsluten">
+<!ENTITY expungeOnExit.label "Postfek YN opskjinje (‘Expunge’) by ôfsluten">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Jiskefet leechmeitsje by ôfsluten">
 <!ENTITY emptyTrashOnExit.accesskey "f">
