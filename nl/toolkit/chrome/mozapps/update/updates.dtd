@@ -56,10 +56,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan niet bepalen of er een update beschikbaar is.
                                            Verzeker u ervan dat u de nieuwste versie van &brandShortName; hebt van:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Iets voorkomt dat &brandShortName; veilig wordt bijgewerkt.
-                                           Verzeker u ervan dat u de nieuwste versie van &brandShortName; hebt van:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Iets probeert &brandShortName; te verleiden om een onveilige update
-                                           te accepteren. Neem contact op met uw netwerkprovider en vraag om hulp.">
 
 <!ENTITY  finishedPage.title              "Update gereed voor installatie">
 <!ENTITY  finishedPage.text               "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
