@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Configuración de connexión">
 
+
+
 <!ENTITY  proxyTitle.label              "Configurar os proxies ta accedir ta Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
