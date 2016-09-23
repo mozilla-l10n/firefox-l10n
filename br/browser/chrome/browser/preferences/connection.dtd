@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Arventennoù kennaskañ">
 
+
+
 <!ENTITY  proxyTitle.label              "Kefluniañ proksioù evit haeziñ Internet">
 <!ENTITY  noProxyTypeRadio.label        "Proksi ebet">
 <!ENTITY  noProxyTypeRadio.accesskey    "b">
