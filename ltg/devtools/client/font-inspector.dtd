@@ -5,12 +5,12 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY fontInspectorTitle "Fonti">
-<!ENTITY showAllFonts "Apsaverit vysus itymā lopā izmontuotūs fontus">
-<!ENTITY usedAs "Izmantuots kai: ">
-<!ENTITY system "sistemys">
-<!ENTITY remote "attuolynuots">
+<!ENTITY showAllFonts "See all the fonts used in the page">
+<!ENTITY showAllFontsUsed "Show all fonts used">
+<!ENTITY usedAs "Used as: ">
+<!ENTITY system "system">
+<!ENTITY remote "remote">
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
 
-<!ENTITY previewHint "Prīkšskatejuma teksts">
+<!ENTITY previewHint "Preview Text">

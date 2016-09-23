@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Puorbauda atjaunynuojumus">
 <!ENTITY  updateCheck.label               "Meklej jaunuoku &brandShortName; verseju…">
 
-<!ENTITY  pluginupdatesfound.title        "Atrosti spraudņu atjaunynuojumi">
-<!ENTITY  pluginupdatesfound.label        "Vīnam voi vairuokim spraudnim atrostys jaunuokys versejis.">
-<!ENTITY  pluginupdateslink.label         "Uzzinit kai atjaunynuot spraudņus.">
-
 <!ENTITY  noupdatesfound.title            "Nav atrosti atjaunynuojumi">
 <!ENTITY  noupdatesautoenabled.intro      "Jaunu atjaunynuojumu nav. &brandShortName; ik pa breižam puorbaudeis atjaunynuojumus.">
 <!ENTITY  noupdatesautodisabled.intro     "Jaunu atjaunynuojumu nav. Puorbaudit tūs vēļreiz vāluok voi ari aktivizejit &brandShortName; automatiskū atjaunynuojumu puorbaudi.">
@@ -46,8 +42,6 @@
                                            &brandShortName; will try again by downloading a complete Update.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; navar nūteikt voi ir pīejams tei atjaunynuojums. Lyudzu puorsalīcinojit, ka jiusim ir jaunuokuo &brandShortName; verseja nu:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Koč kas līdz &brandShortName; drūsais atsajaunynuot. Lyudzu puorsalīcinojit, ka jiusim ir jaunuokuo &brandShortName; verseja nu:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Koč kas rauga apmuoneit &brandShortName;, kab tys pījemtu nadrūsu atjaunynuojumu. Lyudzu sasazynojit ar sovu teikla nūdrūsynuotuoju i meklejit paleidzeibu.">
 
 <!ENTITY  finishedPage.title              "Atjaunynuojumi ir gotovi uzstuodeišonai">
 <!ENTITY  finishedPage.text               "Atjaunynuojumi tiks uzstuodeiti nuokamū reizi, kod &brandShortName; tiks palaists. Jius varot puorstarteit &brandShortName; tiuleņ voi ari turpynuot struoduot i izdareit tū vāluok.">

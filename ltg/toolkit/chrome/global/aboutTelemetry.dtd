@@ -76,6 +76,10 @@ Week
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Pavedīni uzakuoršonuos">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrammys">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "

@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Savīnuojuma īstatiejumi">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigureit storpnīkserverus (proxy)">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxy">
@@ -32,7 +30,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Attuolynuotais DNS">
+<!ENTITY  socksRemoteDNS.label2         "Storpnīkservera DNS izmontojūt SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Ports:">
 <!ENTITY  HTTPport.accesskey            "P">

@@ -14,3 +14,6 @@
 <!ENTITY caseSensitive.label "Lelū, mozū burtu atbiļsteiba">
 <!ENTITY caseSensitive.accesskey "L">
 <!ENTITY caseSensitive.tooltiptext "Mekleit uztverūt lelūs i mozūs burtus kai atškireigus simbolus">
+<!ENTITY entireWord.label "Whole Words">
+<!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "Search whole words only">

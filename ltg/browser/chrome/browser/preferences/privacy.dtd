@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Īstatiejumi…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "Container Tabs">
+<!ENTITY  browserContainersLearnMore.label      "Uzzynojit vairuok">
+<!ENTITY  browserContainersEnabled.label        "Enable Container Tabs">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

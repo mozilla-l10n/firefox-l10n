@@ -1,179 +1,27 @@
-<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users edit the
-     (outer) HTML of the current node -->
-<!ENTITY inspectorHTMLEdit.label       "Redigeit kai HTML">
-<!ENTITY inspectorHTMLEdit.accesskey   "e">
-<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     inner HTML of the current node -->
-
-<!ENTITY inspectorCopyInnerHTML.label       "Īkšiejais HTML">
-<!ENTITY inspectorCopyInnerHTML.accesskey   "k">
-<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     outer HTML of the current node -->
-
-<!ENTITY inspectorCopyOuterHTML.label       "Uorejais HTML">
-<!ENTITY inspectorCopyOuterHTML.accesskey   "o">
-<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the CSS Selector of the current node -->
-
-<!ENTITY inspectorCopyCSSSelector.label "CSS selektors">
-<!ENTITY inspectorCopyCSSSelector.accesskey "S">
-<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste outer
-     HTML in the current node -->
-
-<!ENTITY inspectorPasteOuterHTML.label      "Uorejais HTML">
-<!ENTITY inspectorPasteOuterHTML.accesskey  "o">
-<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste inner
-     HTML in the current node -->
-
-<!ENTITY inspectorPasteInnerHTML.label      "Īkšiejais HTML">
-<!ENTITY inspectorPasteInnerHTML.accesskey  "Ī">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other Paste
-     items, which allow to paste HTML:
-     - before the current node
-     - after the current node
-     - as the first child of the current node
-     - as the last child of the current node -->
-
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Īleimeit…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML before the current node -->
-
-<!ENTITY inspectorHTMLPasteBefore.label      "Pyrms">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "P">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML after the current node -->
-
-<!ENTITY inspectorHTMLPasteAfter.label       "Piec">
-<!ENTITY inspectorHTMLPasteAfter.accesskey   "c">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the first child the current node -->
-
-<!ENTITY inspectorHTMLPasteFirstChild.label      "Kai pyrmū bārnu">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "p">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the last child the current node -->
-
-<!ENTITY inspectorHTMLPasteLastChild.label       "Kai piedejū bārnu">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey   "b">
-<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users scroll
-     the current node into view -->
-
-<!ENTITY inspectorScrollNodeIntoView.label       "Rytynuot iz radzamū">
-<!ENTITY inspectorScrollNodeIntoView.accesskey   "u">
-<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users delete the
-     current node -->
-
-<!ENTITY inspectorHTMLDelete.label          "Dzēst elementu">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     attribute items, which allow to:
-     - add new attribute
-     - edit attribute
-     - remove attribute -->
-
-<!ENTITY inspectorAttributesSubmenu.label      "Atributi">
-<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
-<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users add attribute
-     to current node -->
-
-<!ENTITY inspectorAddAttribute.label        "Pīvīnuot atributu">
-<!ENTITY inspectorAddAttribute.accesskey    "a">
-<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users edit attribute
-     for current node -->
-
-<!ENTITY inspectorEditAttribute.label        "Redigeit atributu">
-<!ENTITY inspectorEditAttribute.accesskey    "e">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Remove Attribute">
+<!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
-<!ENTITY inspectorRemoveAttribute.label        "Aizvuokt atributu">
-<!ENTITY inspectorRemoveAttribute.accesskey    "r">
-
-<!ENTITY inspector.selectButton.tooltip     "Izavielit elementu ar peli">
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
 
-<!ENTITY inspectorSearchHTML.label3 "Mekleit HTML">
-<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the URL embedding the image data encoded in Base 64 (what we name
-     here Image Data URL). For more information:
-     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-
-<!ENTITY inspectorImageDataUri.label       "Attālā datu adress">
-<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users see
-     the DOM properties of the current node. When triggered, this item
-     opens the split Console and displays the properties in its side panel. -->
-
-<!ENTITY inspectorShowDOMProperties.label       "Ruodeit DOM īstatiejumus">
-<!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
-     shown in the inspector contextual-menu for the item that outputs a
-     variable for the current node to the console. When triggered,
-     this item opens the split Console. -->
-
-<!ENTITY inspectorUseInConsole.label       "Izmantuot konsolej">
-<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
-     shown in the inspector contextual-menu for recursively expanding
-     mark-up elements -->
-
-<!ENTITY inspectorExpandNode.label       "Expand All">
-<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
-     shown in the inspector contextual-menu for recursively collapsing
-     mark-up elements -->
-
-<!ENTITY inspectorCollapseNode.label       "Collapse">
-<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users take
-     a screenshot of the currently selected node. -->
-
-<!ENTITY inspectorScreenshotNode.label       "Screenshot Node">
-<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users
-     duplicate the currently selected node. -->
-
-<!ENTITY inspectorDuplicateNode.label       "Kopēt elementu">
+<!ENTITY inspectorSearchHTML.label3 "Search HTML">
 <!-- LOCALIZATION NOTE (inspectorAddNode.label): This is the label shown in
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
-<!ENTITY inspectorAddNode.label       "Izveiduot jaunu elementu">
-<!ENTITY inspectorAddNode.accesskey   "I">
-<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     copy items, which allow to:
-     - Copy Inner HTML
-     - Copy Outer HTML
-     - Copy Unique selector
-     - Copy Image data URI -->
+<!ENTITY inspectorAddNode.label       "Create New Node">
+<!ENTITY inspectorAddNode.accesskey   "C">
+<!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
+     a button in the inspector which toggles the Eyedropper tool -->
 
-<!ENTITY inspectorCopyHTMLSubmenu.label      "Kopēt">
-<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     paste items, which allow to:
-     - Paste Inner HTML
-     - Paste Outer HTML
-     - Before
-     - After
-     - As First Child
-     - As Last Child -->
 
-<!ENTITY inspectorPasteHTMLSubmenu.label      "Īleimeit">
+<!ENTITY inspectorEyeDropper.label       "Grab a color from the page">
+<!-- LOCALIZATION NOTE (inspectorBreadcrumbsGroup): A string visible only to a
+     screen reader and is used to label (using aria-label attribute) a container
+     for inspector breadcrumbs -->
+
+<!ENTITY inspectorBreadcrumbsGroup       "Breadcrumbs">

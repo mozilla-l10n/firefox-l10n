@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pa vysu ekranu">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Aiztaiseit pylnekrana režymu">
 <!ENTITY castingButton.castingLabel "Puorraideit iz ekranu">
+<!ENTITY closedCaption.off "Izslāgts">
 
 <!ENTITY stats.media "Vide">
 <!ENTITY stats.size "Izmārs">

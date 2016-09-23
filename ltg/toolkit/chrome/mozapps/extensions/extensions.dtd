@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktivēt">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktivēt papyldynuojumu drūseibys puorbaudi">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Puorbaudit, kab puorlīcynuotūs, voi jiusu spraudnim nav atjaunynuojumu">
-<!ENTITY info.plugincheck.tooltip               "Puorbaudit, kab puorlīcynuotūs, voi jiusu spraudnim nav atjaunynuojumu">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Mekliešona">
