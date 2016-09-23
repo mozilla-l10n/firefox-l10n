@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Tilkoblingsinnstillinger">
 
+
+
 <!ENTITY  proxyTitle.label              "Konfigurer proxy for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
