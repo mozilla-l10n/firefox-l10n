@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Thiết lập Kết nối">
 
+
+
 <!ENTITY  proxyTitle.label              "Cấu hình các Proxy để truy cập vào Internet">
 <!ENTITY  noProxyTypeRadio.label        "Không dùng proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
