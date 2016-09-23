@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Mipangilio ya Muunganisho">
 
+
+
 <!ENTITY  proxyTitle.label              "Sanidi Proxi Kufikia Wavuti">
 <!ENTITY  noProxyTypeRadio.label        "Hakuna proksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "i">
