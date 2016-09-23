@@ -830,3 +830,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Offline beschikbaar">
 <!ENTITY helper_triple_readerview_open_message "Maak bladwijzers voor lezerweergave-items om ze offline te lezen.">
 <!ENTITY helper_triple_readerview_open_button "Toevoegen aan bladwijzers">
+
+<!ENTITY activity_stream_topsites "Topwebsites">
+<!ENTITY activity_stream_highlights "Highlights">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "Meer">
