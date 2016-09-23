@@ -150,7 +150,7 @@
 <!ENTITY quickFilterBar.resultsLabel.minWidth
          "100">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
      quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
@@ -168,9 +168,8 @@
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
-     linux (which use the control key).  We use the keybinding for cmd_find
-     used by the find-in-message mechanism, so that's the letter to indicate
-     if you don't use 'f' for your localization.
+     linux (which use the control key).  This should match the value of
+     quickFilterBar.show.key above.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
          "&lt;Ctrl+Shift+K&gt;">
@@ -185,7 +184,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanMode.tooltip "Label filtermoadus">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Label filtermodus">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
