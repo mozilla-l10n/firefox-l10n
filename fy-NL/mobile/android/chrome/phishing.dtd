@@ -9,7 +9,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Rapportearre oanfalside!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "De side op <span id='malware_sitename'/> is rapportearre as in oanfalside en is blokkearre op basis fan jo befeiligingsfoarkarren.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden probearje programma’s te ynstallearjen dy't priveeynformaasje stelle, jo kompjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p>Guon oanfalssiden ferspriede bewust gefaarlike software, mar in protte binne kompromittearre sûnder de kunde of tastimming fan harren eigners.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden probearje programma’s te ynstallearjen dy't priveeynformaasje stelle, jo kompjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p>Guon oanfalsiden ferspriede bewust gefaarlike software, mar in protte binne kompromittearre sûnder de kunde of tastimming fan harren eigeners.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Misliedende website!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,3 +20,4 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Dizze webside op <span id='unwanted_sitename'/> is rapportearre as in webside dy't net-winske software befettet en is blokkearre op basis fan jo befeiligingsfoarkarren.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kin en jo systeem op ûnferwachte manieren beÿnfloedzje kin.">
+
