@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "کنکشن سیٹکگیں">
 
+
+
 <!ENTITY  proxyTitle.label              "رسائی بطرف انٹرنیٹ پراکسی تشکیل کریں">
 <!ENTITY  noProxyTypeRadio.label        "کوئی پراکسی نہیں">
 <!ENTITY  noProxyTypeRadio.accesskey    "پ">
