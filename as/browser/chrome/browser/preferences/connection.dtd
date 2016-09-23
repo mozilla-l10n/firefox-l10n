@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "সংযোগ সংহতিসমূহ">
 
+
+
 <!ENTITY  proxyTitle.label              "ইন্টাৰনেট অভিগম কৰিবলৈ প্ৰক্সিৰ সংৰূপণ কৰক">
 <!ENTITY  noProxyTypeRadio.label        "কোনো প্ৰক্সি নাই">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
