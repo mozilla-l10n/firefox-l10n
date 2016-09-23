@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "تنظیمات اتصال">
 
+
+
 <!ENTITY  proxyTitle.label              "پیکربندی پیشکارها جهت دسترسی به اینترنت">
 <!ENTITY  noProxyTypeRadio.label        "بدون پیشکار">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
