@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Runuk'ulem okem pa k'amaya'l">
 
+
+
 <!ENTITY  proxyTitle.label              "Tinuk'samajïx ri taq proxi richin yatok pa k'amaya'l">
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">

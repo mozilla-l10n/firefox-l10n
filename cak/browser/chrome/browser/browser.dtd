@@ -227,12 +227,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.">
-
-
-
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Xq'at ri ruk'ojlem etamab'äl pa re ruxaq k'amaya'l re'.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Xq'at ri ruyakik tzij pa re ruxaq k'amaya'l re'.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Xeq'at ri taq rutzijol pa re ruxaq k'amaya'l re'.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Titz'olïx pa rupalem ri nab'ey tzub'al">
 
 <!ENTITY searchItem.title             "Tikanöx">
 <!-- Toolbar items --> 
@@ -455,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Kek'ëx ri taq rajowaxïk ri kanoxïk">
-
+<!ENTITY changeSearchSettings.tooltip "Tijal kinuk'ulem kanob'äl">
 
 <!ENTITY searchInNewTab.label         "Tikanöx pa k'ak'a' ruwi'">
 <!ENTITY searchInNewTab.accesskey     "r">
@@ -734,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
-
+<!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
