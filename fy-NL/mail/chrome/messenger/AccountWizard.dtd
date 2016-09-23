@@ -24,12 +24,12 @@
 <!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't jo identifisearret by oaren as se berjochten fan jo ûntfange.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Fier de namme yn dy't jo brûke wolle yn it “Fan”-fjild fan jo útgeande berjochten">
+<!ENTITY fullnameDesc.label "Fier de namme yn dy't jo brûke wolle yn it ‘Fan’-fjild fan jo útgeande berjochten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(bygelyks “Piet Visser”).">
+<!ENTITY fullnameExample.label "(bygelyks ‘Piet Visser’).">
 <!ENTITY fullnameLabel.label "Jo namme:">
 <!ENTITY fullnameLabel.accesskey "J">
 
