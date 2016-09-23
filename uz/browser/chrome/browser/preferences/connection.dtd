@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Ulanish parametrlari">
 
+
+
 <!ENTITY  proxyTitle.label              "Internetga kirish uchun proksilarni moslash">
 <!ENTITY  noProxyTypeRadio.label        "Proksi yoʻq">
 <!ENTITY  noProxyTypeRadio.accesskey    "s">
