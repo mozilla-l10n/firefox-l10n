@@ -209,22 +209,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Jaqäl rupas tzijol">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Rupas ruk'utuxik rokem k'ojlem">
-
-
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Tijaq tz'aqat pa rupas tzijol richin niyak">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Tijaq rupas tzijol eyakon toq manäq k'amab'ey">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Tijaq ewan tzij yakon pa rupas tzijol">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tinuk'samajib'ëx ri kikomonik taq rutzub'al chuqa' ruwäch ruxaq k'amaya'l">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Tijaq yakoj pa rupas tzijol">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Titzalq'omïx re ruxaq re'">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tinuk'samajïx rokisaxik DRM kema'">
 
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.">
 
 
 
