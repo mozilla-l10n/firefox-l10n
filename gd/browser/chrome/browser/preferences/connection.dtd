@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
 
+
+
 <!ENTITY  proxyTitle.label              "Rèitich progsaidhean a chum inntrigeadh dhan lìon">
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">
 <!ENTITY  noProxyTypeRadio.accesskey    "G">
