@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Se alla typsnitt som används på sidan">
-
+<!ENTITY showAllFontsUsed "Visa alla typsnitt som används ">
 <!ENTITY usedAs "Används som: ">
 <!ENTITY system "system">
 <!ENTITY remote "fjärr">
