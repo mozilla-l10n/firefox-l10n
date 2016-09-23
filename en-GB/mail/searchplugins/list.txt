@@ -1,7 +1,6 @@
 amazon-en-GB
 aol-en-GB
 bing
-eBay-en-GB
 google
 twitter
 wikipedia
