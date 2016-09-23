@@ -53,15 +53,15 @@
 <!ENTITY defaultPortLabel.label "Standert:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Fier de namme yn fan jo ynkommende server (bygelyks &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.description "Fier de namme yn fan jo ynkommende server (bygelyks ‘mail.example.net’).">
 <!ENTITY incomingServer.label "Ynkommende server:">
 <!ENTITY incomingServer.accesskey "o">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Fier de ynkommende brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (bygelyks &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Fier de ynkommende brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (bygelyks ‘jsmit’).">
 <!ENTITY incomingUsername.label "Brûkersnamme:">
 <!ENTITY incomingUsername.accesskey "B">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Fier de namme yn fan jo nijsserver (NNTP) (bygelyks “news.example.net”).">
+<!ENTITY newsServerNameDesc.label "Fier de namme yn fan jo nijsserver (NNTP) (bygelyks ‘news.example.net’).">
 <!ENTITY newsServerLabel.label "Nijsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Utgeande serverynformaasje">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Fier de namme yn fan jo útgeande server (SMTP) (bygelyks &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Fier de namme yn fan jo útgeande server (SMTP) (bygelyks ‘smtp.example.net’).">
 <!ENTITY outgoingServer.label "Utgeande server:">
 <!ENTITY outgoingServer.accesskey "d">
 <!ENTITY outgoingUsername.description "Fier de útgeande brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (dit is meastentiids itselde as jo ynkommende brûkersnamme).">
@@ -84,26 +84,26 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Jo besteande útgeande (SMTP-)server, “">
+<!ENTITY haveSmtp1.prefix "Jo besteande útgeande (SMTP-)server, ‘">
 <!ENTITY haveSmtp1.suffix3 "&quot;, sil brûkt wurde.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Jo besteande útgeande (SMTP-)brûkersnamme, &quot;">
+<!ENTITY haveSmtp2.prefix "Jo besteande útgeande (SMTP-)brûkersnamme, ‘">
 <!ENTITY haveSmtp2.suffix3 "&quot;, sil brûkt wurde.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Jo útgeande (SMTP-)server, &quot;">
+<!ENTITY haveSmtp3.prefix "Jo útgeande (SMTP-)server, ‘">
 <!ENTITY haveSmtp3.suffix3 "&quot;, sil brûkt wurde.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Accountnamme">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Fier de namme yn foar dit account (bygelyks &quot;Wurkaccount&quot;, &quot;Thúsaccount&quot; of &quot;Nijsaccount&quot;).">
+<!ENTITY accnameDesc.label "Fier de namme yn foar dit account (bygelyks ‘Wurkaccount’, ‘Thúsaccount’ of ‘Nijsaccount’).">
 <!ENTITY accnameLabel.label "Accountnamme:">
 <!ENTITY accnameLabel.accesskey "A">
 
