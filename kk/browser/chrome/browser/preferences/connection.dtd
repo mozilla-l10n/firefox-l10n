@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Байланыс баптаулары">
 
+
+
 <!ENTITY  proxyTitle.label              "Интернетпен байланысу үшін прокси-серверді баптау">
 <!ENTITY  noProxyTypeRadio.label        "Прокси сервері жоқ">
 <!ENTITY  noProxyTypeRadio.accesskey    "ж">
