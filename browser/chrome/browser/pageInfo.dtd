@@ -17,7 +17,7 @@
 <!ENTITY  generalTab.accesskey  "A">
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Rendermoadus:">
+<!ENTITY  generalMode           "Rendermodus:">
 <!ENTITY  generalSize           "Grutte:">
 <!ENTITY  generalReferrer       "Ferwizende URL:">
 <!ENTITY  generalSource         "Bufferboarne:">
@@ -69,7 +69,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Website identiteit">
-<!ENTITY  securityView.identity.owner    "Eigner: ">
+<!ENTITY  securityView.identity.owner    "Eigener: ">
 <!ENTITY  securityView.identity.domain   "Website: ">
 <!ENTITY  securityView.identity.verifier "Befêstige troch: ">
 
