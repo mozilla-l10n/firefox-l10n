@@ -102,11 +102,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Start fuldskærmstilstand">
+<!ENTITY enterFullScreenCmd.label "Start fuld skærm">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Afslut fuldskærmstilstand">
+<!ENTITY exitFullScreenCmd.label "Afslut fuld skærm">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "Fuldskærm">
+<!ENTITY fullScreenCmd.label "Fuld skærm">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Vis alle faneblade">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Luk">
 <!ENTITY fullScreenAutohide.label "Skjul værktøjslinjer">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Afslut fuldskærmstilstand">
+<!ENTITY fullScreenExit.label "Afslut fuld skærm">
 <!ENTITY fullScreenExit.accesskey "A">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Senest lukkede vinduer">
 <!ENTITY historyRestoreLastSession.label "Gendan forrige session">
 
-<!ENTITY showAllHistoryCmd2.label "Vis historik">
+<!ENTITY showAllHistoryCmd2.label "Vis al historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tilpas">
@@ -597,7 +597,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Skjul knapper">
 <!ENTITY mediaHideControls.accesskey "n">
-<!ENTITY videoFullScreen.label       "Fuldskærm">
+<!ENTITY videoFullScreen.label       "Fuld skærm">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Gem snapshot som…">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -719,10 +719,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Slå beskyttelse til">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "t">
-<!ENTITY identity.disableMixedContentBlocking.label "Slå beskyttelse fra indtil videre">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "f">
+<!ENTITY identity.enableMixedContentBlocking.label "Aktiver beskyttelse">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
+<!ENTITY identity.disableMixedContentBlocking.label "Deaktiver beskyttelse indtil videre">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Læs mere">
 
 <!ENTITY identity.removeCertException.label "Fjern undtagelser">

@@ -348,11 +348,11 @@
 <!ENTITY pref_restore_tabs "Gendan faneblade">
 <!ENTITY pref_restore_always "Gendan altid">
 <!ENTITY pref_restore_quit "Gendan ikke efter lukning af &brandShortName;">
-<!ENTITY pref_font_size_tiny "Ekstra lille">
+<!ENTITY pref_font_size_tiny "Meget lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
 <!ENTITY pref_font_size_large "Stor">
-<!ENTITY pref_font_size_xlarge "Ekstra Stor">
+<!ENTITY pref_font_size_xlarge "Meget Stor">
 <!ENTITY pref_font_size_set "Indstil">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -828,3 +828,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Tilgængelig offline">
 <!ENTITY helper_triple_readerview_open_message "Bogmærk elementer i læsevisning, så du kan læse dem offline.">
 <!ENTITY helper_triple_readerview_open_button "Føj til bogmærker">
+
+<!ENTITY activity_stream_topsites "Mest besøgte websider">
+<!ENTITY activity_stream_highlights "Højdepunkter">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "Mere">

@@ -56,10 +56,6 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan ikke fastslå om der er en opdatering tilgængelig.
                                            Undersøg om du har den seneste version af &brandShortName; fra:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Noget forhindrer &brandShortName; i at opdatere på sikker vis.
-                                           Undersøg om du har den seneste version af &brandShortName; fra:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Noget forsøger at lokke &brandShortName; til at acceptere en usikker opdatering.
-                                           Kontakt venligst din netudbyder og søg assistance.">
 
 <!ENTITY  finishedPage.title              "Opdatering klar til at blive installeret">
 <!ENTITY  finishedPage.text               "Opdateringen vil blive installeret næste gang &brandShortName; startes. Du kan

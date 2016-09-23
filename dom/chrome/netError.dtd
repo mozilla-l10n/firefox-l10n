@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.title "Adressen kunne ikke findes">
 <!ENTITY dnsNotFound.longDesc "<p>Webstedet kunne ikke findes. Dette kan skyldes:</p><ul><li>At du har tastet forkert. Kontrollèr, at du har indtastet adressen korrekt, fx <q><strong>www</strong>.mozilla.org</q> og ikke <q><strong>ww</strong>.mozilla.org</q></li><li>At domænet ikke eksisterer. Det er måske blevet nedlagt?</li><li>At der er problemer med din internetforbindelse. Kontrollèr, om du kan besøge andre websteder, og at du ikke har blokeret webstedet i din DNS-opsætning.</li><li>At din computer beskyttes af en forkert opsat firewall eller proxy. Kontrollèr dine indstillinger for firewall og proxy.</li></ul>">
 
-<!ENTITY fileNotFound.title "Filen kunne ikke findes">
+<!ENTITY fileNotFound.title "Fil ikke fundet">
 <!ENTITY fileNotFound.longDesc "<ul><li>Er filen blevet omdøbt, fjernet eller flyttet?</li><li>Er der en stave- eller typografisk fejl i adressen? (Bemærk, at nogle servere behandler store og små bogstaver forskelligt)</li><li>Har du passende adgangstilladelse til den specifikke fil?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
@@ -96,4 +96,4 @@
 <!ENTITY inadequateSecurityError.title "Usikker forbindelse">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger sikkerhed, der er forældet eller sårbart for angreb. En angriber kan nemt få adgang til informationer, som du ellers tror er sikre. Webstedets administrator er nødt til at rette problemet på serveren, før du kan besøge dette websted.</p><p>Fejlmeddelelse: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

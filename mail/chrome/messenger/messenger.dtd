@@ -349,7 +349,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svar kun afsenderen">
 <!ENTITY replySenderCmd.accesskey "S">
-<!ENTITY replyNewsgroupCmd2.label "Svar nyhedsgruppen">
+<!ENTITY replyNewsgroupCmd2.label "Svar til nyhedsgruppen">
 <!ENTITY replyNewsgroupCmd2.accesskey  "n">
 <!ENTITY replyToAllMsgCmd.label "Svar alle">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
@@ -366,7 +366,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Vedhæftet fil">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editAsNewMsgCmd.label "Rediger meddelelsen som ny">
+<!ENTITY editAsNewMsgCmd.label "Rediger som ny meddelelse">
 <!ENTITY editAsNewMsgCmd.accesskey "R">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger kladde">
@@ -511,6 +511,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.label "Videresend">
 <!ENTITY fileButton.label "Gem">
 <!ENTITY archiveButton.label "Arkiver">
+<!ENTITY openConversationButton.label "Samtale">
 <!ENTITY nextButton.label "Næste">
 <!ENTITY nextButtonToolbarItem.label "Næste ulæste">
 <!ENTITY nextMsgButton.label "Næste">
@@ -549,10 +550,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Svar til afsenderen og alle modtagerne">
 <!ENTITY replyListButton.tooltip "Svar til mailingliste">
 <!ENTITY forwardButton.tooltip "Videresend den valgte meddelelse">
-<!ENTITY forwardAsInline.tooltip "Videresend den markerede meddelelse som en del af selve meddelelsen">
-<!ENTITY forwardAsAttachment.tooltip "Videresend dem markerede meddelelse som en vedhæftet fil">
+<!ENTITY forwardAsInline.tooltip "Videresend den valgte meddelelse som en del af selve meddelelsen">
+<!ENTITY forwardAsAttachment.tooltip "Videresend den valgte meddelelse som en vedhæftet fil">
 <!ENTITY fileButton.tooltip "Gem den valgte meddelelse">
 <!ENTITY archiveButton.tooltip "Arkiver valgte meddelelser">
+<!ENTITY openConversationButton.tooltip "Vis den valgte meddelelses samtale">
 <!ENTITY nextButton.tooltip "Gå til næste ulæste meddelelse">
 <!ENTITY nextMsgButton.tooltip "Gå til den næste meddelelse">
 <!ENTITY previousButton.tooltip "Gå til forrige ulæste meddelelse">
@@ -646,7 +648,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSearchForMessages.accesskey "g">
 <!ENTITY folderContextProperties2.label "Egenskaber">
 <!ENTITY folderContextProperties2.accesskey "E">
-<!ENTITY folderContextFavoriteFolder.label "Favoritmapper">
+<!ENTITY folderContextFavoriteFolder.label "Favoritmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
 <!ENTITY folderContextSettings2.label "Indstillinger">
 <!ENTITY folderContextSettings2.accesskey "I">
