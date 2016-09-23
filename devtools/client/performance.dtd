@@ -41,6 +41,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.selfDuration.tooltip     "La cantidá de tiempu gastao namái nesta función.">
+<!ENTITY performanceUI.table.totalPercentage          "Costu total">
 <!ENTITY performanceUI.table.samples                  "Amueses">
 <!ENTITY performanceUI.table.function                 "Función">
 
