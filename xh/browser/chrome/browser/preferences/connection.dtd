@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Iisetingi zonxibelelwano">
 
+
+
 <!ENTITY  proxyTitle.label              "Lungisa iiproksi ukungena kwi-intanethi">
 <!ENTITY  noProxyTypeRadio.label        "Akukho proksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "A">
