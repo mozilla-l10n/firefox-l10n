@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Kɔnɛkhyen nhyehyɛe">
 
+
+
 <!ENTITY  proxyTitle.label              "Hyehyɛ aprɔksi sɛ wɔnwɔ intanɛte akwan-nya">
 <!ENTITY  noProxyTypeRadio.label        "Prɔksi biara nni hɔ">
 <!ENTITY  noProxyTypeRadio.accesskey    "b">
