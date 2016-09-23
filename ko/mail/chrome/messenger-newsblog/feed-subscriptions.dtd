@@ -29,6 +29,8 @@
 
 <!ENTITY button.addFeed.label        "추가">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.updateFeed.label     "업데이트">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "제거">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "가져오기">

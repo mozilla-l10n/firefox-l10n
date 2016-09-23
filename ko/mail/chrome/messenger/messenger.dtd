@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "전달">
 <!ENTITY fileButton.label "파일">
 <!ENTITY archiveButton.label "보관">
+<!ENTITY openConversationButton.label "대화">
 <!ENTITY nextButton.label "다음">
 <!ENTITY nextButtonToolbarItem.label "다음 항목">
 <!ENTITY nextMsgButton.label "다음 메시지">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "선택한 메시지를 첨부로 전달">
 <!ENTITY fileButton.tooltip "선택한 메시지 파일">
 <!ENTITY archiveButton.tooltip "선택한 메시지 보관">
+<!ENTITY openConversationButton.tooltip "선택한 메시지의 대화 보기">
 <!ENTITY nextButton.tooltip "다음 읽지 않은 메일로 이동">
 <!ENTITY nextMsgButton.tooltip "다음 메시지로 이동">
 <!ENTITY previousButton.tooltip "읽지 않은 이전 메시지로 이동">
