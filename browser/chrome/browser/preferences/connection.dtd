@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Tilkoplingsinnstillingar">
 
+
+
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenar (proxy) for Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
