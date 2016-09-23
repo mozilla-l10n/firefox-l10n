@@ -207,11 +207,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Visa webbplatsinformation">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Öppna meddelande panel">
-
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Öppna tilläggs installation meddelande panel">
-
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Öppna sparade lösenord meddelande panel">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Öppna meddelandepanel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Öppna platsförfråganspanel">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Öppna meddelandepanel för tilläggsinstallation">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Öppna meddelandepanel för lagring offline">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Öppna meddelandepanel för sparade lösenord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hantera plugins som används">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
 
@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hantera delning av dina fönster eller skärm med webbplatsen">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Öppna installera meddelande panel">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Öppna meddelandepanel för installation">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Översätt denna sida">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hantera sidaöversättning">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
@@ -227,8 +227,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blockerat din kamera för denna webbsida.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blockerat din mikrofon för denna webbsida.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blockerat denna webbsida från att få dela din skärm">
-
-
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blockerat platsinformation för denna webbplats.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blockerat datalagring för denna webbplats.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blockerat notifieringar för denna webbsida.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
