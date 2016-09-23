@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Ter me Kube">
 
+
+
 <!ENTITY  proxyTitle.label              "Yik proxy me nongo intanet">
 <!ENTITY  noProxyTypeRadio.label        "Proxy peke">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
