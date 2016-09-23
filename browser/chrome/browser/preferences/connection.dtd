@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Definições da ligação">
 
+
+
 <!ENTITY  proxyTitle.label              "Configurar proxies para aceder à Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
