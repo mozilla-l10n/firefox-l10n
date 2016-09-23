@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Ukuhlelwa koxhumano">
 
+
+
 <!ENTITY  proxyTitle.label              "Misa ama-proxy ukuba afinyelele ku-inthanethi">
 <!ENTITY  noProxyTypeRadio.label        "Ayikho i-proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
