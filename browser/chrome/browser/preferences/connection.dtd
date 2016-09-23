@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Gosodiadau Cysylltu">
 
+
+
 <!ENTITY  proxyTitle.label              "Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd">
 <!ENTITY  noProxyTypeRadio.label        "Dim dirprwy">
 <!ENTITY  noProxyTypeRadio.accesskey    "D">
