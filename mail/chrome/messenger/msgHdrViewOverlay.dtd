@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "받는 사람 ">
 <!ENTITY fromField4.label "보낸 사람 ">
 <!ENTITY senderField4.label "보낸 사람 ">
+<!ENTITY author.label "저자">
 <!ENTITY organizationField4.label "조직 ">
 <!ENTITY replyToField4.label "답장 주소 ">
 
@@ -15,23 +16,25 @@
 <!ENTITY followupToField4.label "전달 ">
 <!ENTITY tagsHdr4.label "태그  ">
 <!ENTITY dateField4.label "보낸 일자 ">
-<!ENTITY userAgentField4.label			"User Agent ">
-<!ENTITY referencesField4.label			"References ">
-<!ENTITY messageIdField4.label			"Message ID ">
-<!ENTITY inReplyToField4.label			"In Reply To ">
+<!ENTITY userAgentField4.label "User Agent ">
+<!ENTITY referencesField4.label "References ">
+<!ENTITY messageIdField4.label "Message ID ">
+<!ENTITY inReplyToField4.label "In Reply To ">
 <!ENTITY originalWebsite4.label "웹 사이트 ">
 
 <!ENTITY hdrArchiveButton1.label "보관">
 <!ENTITY hdrArchiveButton1.tooltip "이 메시지 보관">
-<!ENTITY hdrSmartReplyButton1.label		"빠른 답장">
+<!ENTITY hdrOpenConversationButton1.label "대화">
+<!ENTITY hdrOpenConversationButton1.tooltip "이 메시지의 대화 보기">
+<!ENTITY hdrSmartReplyButton1.label "빠른 답장">
 <!ENTITY hdrReplyButton1.label "답장">
-<!ENTITY hdrReplyButton2.tooltip		"이 메시지를 보낸 사람에게 답장">
+<!ENTITY hdrReplyButton2.tooltip "이 메시지를 보낸 사람에게 답장">
 <!ENTITY hdrReplyAllButton1.label "전체 답장">
 <!ENTITY hdrReplyAllButton1.tooltip "보낸이와 모든 수신자에 답장">
 <!ENTITY hdrReplyListButton1.label "리스트로 답장">
 <!ENTITY hdrReplyListButton1.tooltip "메일링 리스트로 답장">
-<!ENTITY hdrFollowupButton1.label		"팔로우업">
-<!ENTITY hdrFollowupButton1.tooltip		"이 뉴스 그룹에 팔로우업 투고">
+<!ENTITY hdrFollowupButton1.label "팔로우업">
+<!ENTITY hdrFollowupButton1.tooltip "이 뉴스 그룹에 팔로우업 투고">
 <!ENTITY hdrMenuForwardButton.label "다른 이름으로 전달">
 <!ENTITY hdrForwardButton1.label "전달">
 <!ENTITY hdrForwardButton1.tooltip "이 메시지를 전달">
@@ -68,41 +71,42 @@
 <!ENTITY otherActionsPrint1.label "인쇄…">
 <!ENTITY otherActionsPrint1.accesskey "P">
 
-<!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "열기">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "다른 이름으로 저장…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "첨부 파일 분리…">
-<!ENTITY detachAttachmentCmd.accesskey "D">
-<!ENTITY deleteAttachmentCmd.label "삭제">
-<!ENTITY deleteAttachmentCmd.accesskey "e">
-<!ENTITY openAllAttachmentsCmd.label		"모두 열기…">
-<!ENTITY openAllAttachmentsCmd.accesskey	"O">
-<!ENTITY saveAllAttachmentsCmd.label "모두 저장…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "모든 첨부 분리…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "모두 삭제…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
-<!ENTITY openAttachment.tooltip "첨부 파일 열기">
-
 <!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "시작할 때 첨부파일 창 보이기">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "열기">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "다른 이름으로 저장…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "첨부 파일 분리…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
+<!ENTITY deleteAttachmentCmd.label    "삭제">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "모두 열기…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "모두 저장…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "모든 첨부 분리…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "모두 삭제…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY openAttachment.tooltip "첨부 파일 열기">
+
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label "저장">
-<!ENTITY saveAttachmentButton1.tooltip "첨부 파일을 저장합니다">
-<!ENTITY saveAllAttachmentsButton1.label "모두 저장">
+<!ENTITY saveAttachmentButton1.label       "저장">
+<!ENTITY saveAttachmentButton1.tooltip     "첨부 파일을 저장합니다">
+<!ENTITY saveAllAttachmentsButton1.label   "모두 저장">
 <!ENTITY saveAllAttachmentsButton1.tooltip "첨부된 모든 파일을 저장합니다">
 
-<!ENTITY copyLinkCmd.label			"링크 URL 복사">
-<!ENTITY copyLinkCmd.accesskey			"C">
+<!ENTITY copyLinkCmd.label        "링크 URL 복사">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label			"메시지 ID를 카피">
-<!ENTITY CopyMessageId.accesskey		"C">
+<!ENTITY CopyMessageId.label "메시지 ID를 카피">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Message-ID로 열기">
-<!ENTITY OpenMessageForMsgId.accesskey		"O">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Message-ID로 웹 브라우저 열기">
-<!ENTITY OpenBrowserWithMsgId.accesskey		"B">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
