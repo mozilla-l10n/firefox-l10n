@@ -8,9 +8,9 @@
 <!ENTITY sourceEditField.label "Fier LaTeX-boarnekoade yn:">
 
 <!ENTITY options.label "Opsjes">
-<!ENTITY optionInline.label "Ynline moadus">
+<!ENTITY optionInline.label "Ynline modus">
 <!ENTITY optionInline.accesskey "N">
-<!ENTITY optionDisplay.label "Foarbyldmoadus">
+<!ENTITY optionDisplay.label "Foarbyldmodus">
 <!ENTITY optionDisplay.accesskey "F">
 <!ENTITY optionLTR.label "Rjochting lofts-nei-rjochts">
 <!ENTITY optionLTR.accesskey "l">
