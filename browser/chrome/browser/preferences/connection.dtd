@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Холболтын тохируулга">
 
+
+
 <!ENTITY  proxyTitle.label              "Интернэтэд орох прокси тохиргоо">
 <!ENTITY  noProxyTypeRadio.label        "Проксигүй">
 <!ENTITY  noProxyTypeRadio.accesskey    "с">
