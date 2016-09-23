@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Postavke konekcije">
 
+
+
 <!ENTITY  proxyTitle.label              "Konfigurišite Proxy za pristup internetu">
 <!ENTITY  noProxyTypeRadio.label        "Nema proxyja">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
