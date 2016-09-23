@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Nastajenja zwiskow">
 
+
+
 <!ENTITY  proxyTitle.label              "Proksy za pśistup na internet konfigěrurowaś">
 <!ENTITY  noProxyTypeRadio.label        "Žeden proksy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
