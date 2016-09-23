@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "कनेक्शन सेटिंग">
 
+
+
 <!ENTITY  proxyTitle.label              "इंटरनेट अभिगम के लिये प्रॉक्सी विन्यस्त करें">
 <!ENTITY  noProxyTypeRadio.label        "कोई प्रॉक्सी नहीं">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
