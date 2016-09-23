@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "File personalizate">
-
+<!ENTITY pref_custom_tabs_summary "Permite aplicațiilor terțe să deschidă URL-uri cu un aspect personalizat.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux de activități">
@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Șterge">
 <!ENTITY button_copy "Copiază">
 
+<!ENTITY home_top_sites_title "Site-uri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adaugă un site">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Însemnează elementele pentru modul lectură pentru a le citi offline.">
 <!ENTITY helper_triple_readerview_open_button "Mergi la semnele de carte">
 
-
+<!ENTITY activity_stream_topsites "Site-uri de top">
+<!ENTITY activity_stream_highlights "Evidențieri">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Mai multe">
