@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "जोडणी सेटिंग्स्">
 
+
+
 <!ENTITY  proxyTitle.label              "इंटरनेट वापरण्यासाठी प्रॉक्सी ची मांडणी करा">
 <!ENTITY  noProxyTypeRadio.label        "प्रॉक्सी नाही">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
