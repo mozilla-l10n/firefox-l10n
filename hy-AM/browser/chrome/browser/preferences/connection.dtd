@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Միացման կարգավորումներ">
 
+
+
 <!ENTITY  proxyTitle.label              "Կարգավորել համացանցին միանալու միջնորդներ">
 <!ENTITY  noProxyTypeRadio.label        "Առանց միջնորդի">
 <!ENTITY  noProxyTypeRadio.accesskey    "ի">
