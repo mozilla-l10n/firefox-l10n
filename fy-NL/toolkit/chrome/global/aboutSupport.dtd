@@ -65,7 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproses-finsters">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Feilige moadus">
+<!ENTITY aboutSupport.appBasicsSafeMode "Feilige modus">
 
 <!ENTITY aboutSupport.showDir.label "Map iepenje">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -111,7 +111,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Probearje de feilige moadus">
+<!ENTITY aboutSupport.safeModeTitle "Probearje de feilige modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Werstart mei útskeakele add-ons…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funksjes">

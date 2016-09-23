@@ -6,7 +6,7 @@
      is not supported on some devices. Include a trailing space as needed. -->
 <!ENTITY unsupportedPlatform.pre                             "It spyt ús, mar &brandShortName; kin gjin Flash ôfspylje op dit apparaat. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Mear ynfo…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "Bestân">
 <!ENTITY plugin.mimeTypes                                    "MIME-typen">
-<!ENTITY plugin.flashProtectedMode.label                     "Befeilige moadus fan Adobe Flash ynskeakelje">
+<!ENTITY plugin.flashProtectedMode.label                     "Befeilige modus fan Adobe Flash ynskeakelje">

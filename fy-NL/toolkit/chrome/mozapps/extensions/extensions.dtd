@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle add-ons binne útskeakele troch feilige moadus.">
+<!ENTITY warning.safemode.label                    "Alle add-ons binne útskeakele troch feilige modus.">
 <!ENTITY warning.checkcompatibility.label          "Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.">
 <!ENTITY warning.checkcompatibility.enable.label   "Ynskeakelje">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Skeakelje kontrole fan kompatibileit foar add-ons yn">
