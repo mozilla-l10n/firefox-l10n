@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Ta bort från historik">
 <!ENTITY cmd.removeFromHistory.accesskey  "T">
-
-
+<!ENTITY cmd.clearList2.label             "Rensa förhandsgranskningsruta">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Rensa hämtningar">
 <!ENTITY cmd.clearDownloads.accesskey     "h">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Visa alla hämtningar">
 <!ENTITY downloadsHistory.accesskey       "V">
 
+<!ENTITY openDownloadsFolder.label       "Öppna nedladdningsmapp">
 
 <!ENTITY clearDownloadsButton.label       "Rensa hämtningar">
 <!ENTITY clearDownloadsButton.tooltip     "Rensar bort slutförda, avbrutna och misslyckade hämtningar">

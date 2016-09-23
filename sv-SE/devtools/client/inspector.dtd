@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
-<!ENTITY inspectorRemoveAttribute.label        "Ta bort attirbut">
+<!ENTITY inspectorRemoveAttribute.label        "Ta bort attribut">
 <!ENTITY inspectorRemoveAttribute.accesskey    "T">
 
 <!ENTITY inspector.selectButton.tooltip     "Välj element med musen">
@@ -23,3 +23,5 @@
 <!-- LOCALIZATION NOTE (inspectorBreadcrumbsGroup): A string visible only to a
      screen reader and is used to label (using aria-label attribute) a container
      for inspector breadcrumbs -->
+
+<!ENTITY inspectorBreadcrumbsGroup       "Länkstigar">
