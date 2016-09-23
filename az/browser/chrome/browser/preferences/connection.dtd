@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Bağlantı seçimləri">
 
+
+
 <!ENTITY  proxyTitle.label              "İnternetə bağlanmaq üçün proxy-serverləri nizamla">
 <!ENTITY  noProxyTypeRadio.label        "Proksisiz">
 <!ENTITY  noProxyTypeRadio.accesskey    "s">
