@@ -207,17 +207,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Visa webbplatsinformation">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Öppna meddelande panel">
 
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Öppna tilläggs installation meddelande panel">
 
-
-
-
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Öppna sparade lösenord meddelande panel">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hantera plugins som används">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hantera delning av dina fönster eller skärm med webbplatsen">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Öppna installera meddelande panel">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Översätt denna sida">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hantera sidaöversättning">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
@@ -231,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Återställ zoomnivå">
 
 <!ENTITY searchItem.title             "Sök">
 <!-- Toolbar items --> 
@@ -453,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ändra sökinställningar">
-
+<!ENTITY changeSearchSettings.tooltip "Ändra sökinställningar">
 
 <!ENTITY searchInNewTab.label         "Sök i ny flik">
 <!ENTITY searchInNewTab.accesskey     "f">
@@ -732,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Rättigheter">
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
-
+<!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
