@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Konexio-ezarpenak">
 
+
+
 <!ENTITY  proxyTitle.label              "Konfiguratu internetera sartzeko proxy-ak">
 <!ENTITY  noProxyTypeRadio.label        "Proxy-rik ez">
 <!ENTITY  noProxyTypeRadio.accesskey    "z">
