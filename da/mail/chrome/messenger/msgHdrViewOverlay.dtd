@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Til">
 <!ENTITY fromField4.label "Fra">
 <!ENTITY senderField4.label "Afsender">
+<!ENTITY author.label "Skrevet af">
 <!ENTITY organizationField4.label "Organisation">
 <!ENTITY replyToField4.label "Svar til">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meddelelse">
+<!ENTITY hdrOpenConversationButton1.label "Samtale">
+<!ENTITY hdrOpenConversationButton1.tooltip "Vis denne meddelelses samtale">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
 <!ENTITY hdrReplyButton1.label "Svar">
 <!ENTITY hdrReplyButton2.tooltip "Svar til afsenderen af denne meddelelse">

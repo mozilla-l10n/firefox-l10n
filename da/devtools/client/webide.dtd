@@ -131,7 +131,7 @@
 <!ENTITY prefs_options_expandtab "Bløde tabulatortegn">
 <!ENTITY prefs_options_expandtab_tooltip "Brug mellemrum i stedet for tabulatortegn">
 <!ENTITY prefs_options_detectindentation "Autoindryk">
-<!ENTITY prefs_options_detectindentation_tooltip "Gæt indrykning baseret på kildeindhold">
+<!ENTITY prefs_options_detectindentation_tooltip "Gæt indrykning baseret på kildens indhold">
 <!ENTITY prefs_options_autocomplete "Autofuldfør">
 <!ENTITY prefs_options_autocomplete_tooltip "Aktiver automatisk fuldførelse af kode">
 <!ENTITY prefs_options_autoclosebrackets "Luk automatisk parenteser">
