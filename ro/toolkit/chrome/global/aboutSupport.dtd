@@ -111,9 +111,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funcționalități">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostic">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Jurnal de erori">
 
 
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Jurnal de decizii">
 
 

@@ -104,6 +104,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Setări…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "File container">
 
-
-
+<!ENTITY  browserContainersEnabled.label        "Activează filele container">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
