@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "Teelte Seŋorde">
 
+
+
 <!ENTITY  proxyTitle.label              "Teelto Proxiije ngam Naatde e Internet">
 <!ENTITY  noProxyTypeRadio.label        "Alaa proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
