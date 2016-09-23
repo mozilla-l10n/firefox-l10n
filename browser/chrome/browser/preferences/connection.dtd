@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "कनेक्शन सेटिंग">
 
+
+
 <!ENTITY  proxyTitle.label              "इंटरनेट पहुँचक लेल प्राक्सी विन्यस्त  करू ">
 <!ENTITY  noProxyTypeRadio.label        "कोनो प्राक्सी नहि">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
