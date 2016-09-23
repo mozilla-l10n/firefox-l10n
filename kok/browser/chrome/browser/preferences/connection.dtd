@@ -5,6 +5,8 @@
 
 <!ENTITY  connectionsDialog.title       "जोडणी स्थापितां">
 
+
+
 <!ENTITY  proxyTitle.label              "इंटरनेटांत प्रवेश मेळोवपाखातीर प्रतिपत्र संरचनाय करात">
 <!ENTITY  noProxyTypeRadio.label        "प्रॉक्सी ना">
 <!ENTITY  noProxyTypeRadio.accesskey    "क">
