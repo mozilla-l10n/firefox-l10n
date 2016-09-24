@@ -44,8 +44,8 @@ can reach it easily. -->
 
 <!ENTITY  sendPageToDevice.label             "Device में पृष्ठ भेजें">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-
-
+<!ENTITY  sendLinkToDevice.label             "Device में कड़ी भेजें">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              " नए विंडो में खिसकाएँ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें… ">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              " डाउनलोड">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "वाई">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 " सहयुक्तियाँ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "ए">
@@ -295,10 +295,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "पहले जैसा">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            " फिर करें">  
+<!ENTITY redoCmd.label            "दोहराएँ">  
 <!ENTITY redoCmd.key            "Y‌">  
 <!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           " काटें">  
+<!ENTITY cutCmd.label           "काटें">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "नक़ल करें">  
@@ -396,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "क्या आप सुझावों के साथ अपना खोज अनुभव को बढ़ावा देना चाहते हैं?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ओर जानें…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "एल">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नहीं| ">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "हाँ">
@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "अभी तक! कोई समन्वयित टैब नहीं...">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दूसरे उपकरणों से साइन इन करें.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं ">
+<!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "खोलें &syncBrand.shortName.label; वरीयताएँ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "सिंक">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;… में साइन इन करें...">
-<!ENTITY syncSignIn.accesskey         "वाय">
+
 <!ENTITY syncSyncNowItem.label        " अब तुल्यकालित करें">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; फिर से कनेक्ट करें... ">
