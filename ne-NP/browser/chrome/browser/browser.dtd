@@ -209,16 +209,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "सन्देश प्यानल खोल">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थान अनुरोध प्यानल खोल">
-
-
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "एडअन स्थापना सन्देश प्यानल खोल्नुहोस्">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "अफलाइन सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "पासवर्ड सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "आफ्नो साइटमा सञ्झ्याल वा स्क्रिन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "स्थापना सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "यो पृष्ठ अनुवाद गर्नुहोस्">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
@@ -232,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउने">
 
+<!ENTITY urlbar.zoomReset.tooltip     "जुम स्तर पूर्वरूपमा फर्काउनुहोस्">
 
 <!ENTITY searchItem.title             "खोजी गर्नुहोस्">
 <!-- Toolbar items --> 
@@ -454,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "खोजि सेटिङ परिवर्तन गर्नुहोस्">
-
+<!ENTITY changeSearchSettings.tooltip "खोजी सेटिङ परिवर्तन गर्नुहोस्">
 
 <!ENTITY searchInNewTab.label         "नयाँ ट्याबमा खोज्नुहोस्">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -733,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "अनुमतिहरू">
 <!ENTITY identity.permissionsEmpty "तपाईँले यस साइटलाई कुनै विशेष अनुमति दिनुभएको छैन।">
-
+<!ENTITY identity.permissionsReloadHint "परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
