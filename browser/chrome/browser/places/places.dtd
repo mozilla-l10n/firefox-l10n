@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
-<!ENTITY places.library.title  "लाइब्रेरी">
-<!ENTITY places.library.width  "700">
+<!ENTITY places.library.title  "लाइब्रे‌री">
+<!ENTITY places.library.width  "700‌">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "व्यवस्थित करें">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
+<!ENTITY organize.tooltip      "अपने पुस्तचिह्नों‌ को व्यवस्थित करें">
 
 <!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
-<!ENTITY cmd.close.key                  "w">
+<!ENTITY cmd.close.key                  "w‌">
 <!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "अपना दृश्य बदलें">
-<!ENTITY view.columns.label             "स्तंभ दिखाएँ">
+<!ENTITY views.tooltip                  "अपना दृश्य बद‌लें">
+<!ENTITY view.columns.label             "‌स्तंभ दिखाएँ">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "छाँटें">
+<!ENTITY view.sort.label                "छाँटें‌">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "बिना छाँटा">
 <!ENTITY view.unsorted.accesskey        "U">
