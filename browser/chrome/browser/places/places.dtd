@@ -20,16 +20,16 @@
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "छाँटें‌">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "बिना छाँटा">
+<!ENTITY view.unsorted.label            "असंयोजित">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z छाँटन क्रम">
+<!ENTITY view.sortAscending.label       "A > Z संयोजन क्रम">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A छाँटन क्रम">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     " HTML में पुस्तचिह्न आयात करें…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "HTML में पुस्तचिह्न निर्यात करें…">
+<!ENTITY exportBookmarksToHTML.label       "HTML में पुस्तचिह्न‌ निर्यात करें…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "दूसरे ब्राउज़र से आँकड़ा आयात करें…">
 <!ENTITY importOtherBrowser.accesskey      "A">
