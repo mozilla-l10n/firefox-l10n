@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "نمایش اطلاعات سایت">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "باز کردن تابلو پیام‌ها">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "باز کردن تابلوی درخواستِ مکان">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "باز کردن تابلو پیام‌های نصب افزودنی‌ها">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "باز کردن تابلو ذخیرهٔ برون‌خط">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "باز کردن تابلو پیام‌های ذخیره گذواژه">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "مدیریت استفاده از افزونه">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "مدیریت به اشتراک‌گذاری پنجره یا صفحه خود با پایگاه">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "باز کردن تابلو پیام‌های نصب">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ترجمه این صفحه">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "مدیریت صفحه ترجمه">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "مدیریت استفاده از نرم‌افزار‌های DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "شما این پایگاه‌وب را برای دسترسی به دوربین مسدود کرده‌اید.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "شما این پایگاه‌وب را برای دسترسی به میکروفن مسدود کرده‌اید.">
+<!ENTITY urlbar.screenBlocked.tooltip            "شما این پایگاه‌وب را برای اشتراک‌گذاری صفحهٔ خود مسدود کرده‌اید.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "شما این پایگاه‌وب را برای دسترسی به اطلاعات مکانی مسدود کرده‌اید.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "شما این پایگاه‌وب را برای امکان ارسال اعلان مسدود کرده‌اید.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "نمایش تاریخچه">
 
+<!ENTITY urlbar.zoomReset.tooltip     "تنظیم مجدد سطح بزرگنمایی">
 
 <!ENTITY searchItem.title             "جست‌وجو">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "تغییر تنظیمات جستجو">
-
+<!ENTITY changeSearchSettings.tooltip "تغییر تنظیمات جستجو">
 
 <!ENTITY searchInNewTab.label         "جست‌وجو در زبانه جدید">
 <!ENTITY searchInNewTab.accesskey     "ز">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "مجوزها">
 <!ENTITY identity.permissionsEmpty "شما به این سایت هیچ دسترسی خاصی نداده‌اید.">
-
+<!ENTITY identity.permissionsReloadHint "ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

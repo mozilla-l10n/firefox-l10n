@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ش">
 <!ENTITY cmd.removeFromHistory.label      "حذف از تاریخچه">
 <!ENTITY cmd.removeFromHistory.accesskey  "ح">
-
-
+<!ENTITY cmd.clearList2.label             "پاک کردن تابلو پیش‌نمایش">
+<!ENTITY cmd.clearList2.accesskey         "پ">
 <!ENTITY cmd.clearDownloads.label         "پاک کردن دانلودها">
 <!ENTITY cmd.clearDownloads.accesskey     "د">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "همۀدانلودها را نشان بده">
 <!ENTITY downloadsHistory.accesskey       "ن">
 
+<!ENTITY openDownloadsFolder.label       "باز کردن پوشه بارگیری‌ها">
 
 <!ENTITY clearDownloadsButton.label       "پاک کردن دریافتی ها">
 <!ENTITY clearDownloadsButton.tooltip     "دانلودهای کامل شده و صرف نظر شده و شکست خورده را پاک میکند">
