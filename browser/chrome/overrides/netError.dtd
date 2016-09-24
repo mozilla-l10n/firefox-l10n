@@ -110,7 +110,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p> <span id='wrongSystemTime_URL'/> मा सुरक्षित जडान सम्भव छैन किनभने तपाईंको घडीले गलत समय देखाएको जस्तो देखिन्छ।</p><p>तपाईको कम्पयुटर ले यो सोच्दै छ <span id='wrongSystemTime_systemDate'/> जब कि यो <span id='wrongSystemTime_actualDate'/>हुनु पर्थ्यो। यो समस्या समाधान गर्न, तपाईको मिति र समय सेटिङ्गहरुलाई सही समयमा परिवर्तन गर्नुहोस।</p>">
+<!ENTITY certerror.wrongSystemTime "<p> <span id='wrongSystemTime_URL'/> मा सुरक्षित जडान सम्भव छैन किनभने तपाईँको घडीले गलत समय देखाएको जस्तो देखिन्छ।</p><p>तपाईँको कम्पयुटरले यो सोच्दै छ <span id='wrongSystemTime_systemDate'/> जब कि यो <span id='wrongSystemTime_actualDate'/>हुनु पर्थ्यो। यो समस्या समाधान गर्न, तपाईँको मिति र समय सेटिङ्गहरूलाई सही समयमा परिवर्तन गर्नुहोस्।</p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यो साइटले &brandShortName; मात्र सुरक्षित जडान गर्न सक्छ भन्ने निर्दिष्ट गर्न  HTTP Strict Transport Security (HSTS) प्रयोग गर्छ । फलस्वरूप, यो प्रमाणपत्रको लागि अपवाद थप्न सम्भव छैन।">
