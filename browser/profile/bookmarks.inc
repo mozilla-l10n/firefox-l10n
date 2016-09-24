@@ -11,7 +11,7 @@
 #define bookmarks_heading Tanda buku
 
 #define bookmarks_toolbarfolder Folder Bar Alat Tanda buku
-#define bookmarks_toolbarfolder_description Tambah tanda buku ke folder ini supaya dipamerkan dalam Bar alat Tanda buku
+#define bookmarks_toolbarfolder_description Tambah tanda buku ke folder ini supaya dipapar dalam Bar alat Tanda buku
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
