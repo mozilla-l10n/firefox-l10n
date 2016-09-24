@@ -62,6 +62,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Odebrat z historie">
 <!ENTITY cmd.removeFromHistory.accesskey  "d">
+<!ENTITY cmd.clearList2.label             "Smazat panel náhledu">
 <!ENTITY cmd.clearDownloads.label         "Smazat stahování">
 <!ENTITY cmd.clearDownloads.accesskey     "S">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):

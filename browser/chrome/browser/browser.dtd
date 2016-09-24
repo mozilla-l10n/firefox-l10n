@@ -209,12 +209,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otevře panel zpráv">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otevře panel se žádostmi o polohu">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otevřít panel zpráv instalace doplňku">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otevřít panel zpráv uložení hesla">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změní, zda můžete ze serveru přijímat oznámení">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovat sdílení mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Spravovat sdílení oken nebo obrazovky se stránkou">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Otevřít instalační panel zpráv">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Přeloží tuto stránku">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovat překlad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Správa využívání softwaru DRM">
