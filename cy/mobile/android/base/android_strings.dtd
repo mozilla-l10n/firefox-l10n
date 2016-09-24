@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Clirio">
 <!ENTITY button_copy "Torri">
 
+<!ENTITY home_top_sites_title "Hoff Wefannau">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ychwanegu gwefan">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Gosod Nod Tudalen i eitemau Golwg Darllen i\u0027w darllen all-lein.">
 <!ENTITY helper_triple_readerview_open_button "Ychwanegu at y Nodau Tudalen">
 
-
+<!ENTITY activity_stream_topsites "Hoff Wefannau">
+<!ENTITY activity_stream_highlights "Uchafbwyntiau">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Rhagor">
