@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
+<!ENTITY urlbar.zoomReset.tooltip     "झूम पातळी मूळस्थितीत आणा">
 
 <!ENTITY searchItem.title             "शोधा">
 <!-- Toolbar items --> 
@@ -455,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "शोध सेटिंग बदला">
-
+<!ENTITY changeSearchSettings.tooltip "शोध सेटिंगस बदला">
 
 <!ENTITY searchInNewTab.label         "नवीन टॅबमध्ये शोधा">
 <!ENTITY searchInNewTab.accesskey     "T">
