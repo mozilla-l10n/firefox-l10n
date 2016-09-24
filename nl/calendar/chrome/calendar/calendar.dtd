@@ -290,8 +290,8 @@
 <!ENTITY calendar.alarm.location.label              "Locatie:" >
 <!ENTITY calendar.alarm.details.label               "Details…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Sluimeren voor" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimeren voor" >
+<!ENTITY calendar.alarm.snoozefor.label             "Uitstellen voor" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Alle uitstellen voor" >
 <!ENTITY calendar.alarm.title.label                 "Agendaherinneringen" >
 <!ENTITY calendar.alarm.dismiss.label               "Verwijderen" >
 <!ENTITY calendar.alarm.dismissall.label            "Alle verwijderen" >
@@ -309,7 +309,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Sluimeren annuleren">
+<!ENTITY calendar.alarm.snooze.cancel               "Uitstellen annuleren">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Agenda bewerken">
