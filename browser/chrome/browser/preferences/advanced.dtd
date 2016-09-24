@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "आणखी शिका">
 
-
-
+<!ENTITY crashReporterDesc2.label         "क्रॅश अहवाल &vendorShortName; ला आपल्या अडचणी सोडविण्यासाठी आणि ब्राउझर अधिक स्थिर व सुरक्षित ठेवण्यासाठी मदत करतो">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; ला आपल्या वतीने अनुशेषित क्रॅश अहवाल पाठविण्याची परवानगी द्या">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "आणखी शिका">
 
 <!ENTITY networkTab.label                "नेटवर्क">
