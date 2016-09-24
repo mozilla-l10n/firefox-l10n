@@ -1,8 +1,0 @@
-<!ENTITY inspectorRemoveAttribute.label "Удалить атрибут">
-<!ENTITY inspectorRemoveAttribute.accesskey "а">
-<!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
-<!ENTITY inspectorSearchHTML.label3 "Поиск в HTML">
-<!ENTITY inspectorAddNode.label "Создать новый узел">
-<!ENTITY inspectorAddNode.accesskey "з">
-<!ENTITY inspectorEyeDropper.label "Захватить цвет со страницы">
-<!ENTITY inspectorBreadcrumbsGroup "Навигационная цепочка">
