@@ -70,7 +70,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>तपाईँको प्रणालीमा व्यक्तिगत सुरक्षा प्रबन्धक छ भनेर सुनिश्चित गर्न जाँच गर्नुहोस्।</li> <li>यस्तो हुनुको कारण सर्भरमा गैर मानक कन्फिगरेसनले गर्दा हुन सक्दछ।</li> </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त गरेको तथ्याङ्कको प्रमाणिकरण गर्न नसकेको हुँदा तपाईले हेर्न खोजिरहनुभएको पृष्ठ देखाउन सकिएन।</li> <li>कृपयाा वेबसाइट मालिकलाई यो समस्याको बारेमा जानकारी गराउनुहोस।</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त गरेको तथ्याङ्कको प्रमाणिकरण गर्न नसकेको हुँदा तपाईँले हेर्न खोजि रहनु भएको पृष्ठ देखाउन सकिएन।</li> <li>कृपयाा वेबसाइट मालिकलाई यो समस्याको बारेमा जानकारी गराउनुहोस्।</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "तपाईँको जडान सुरक्षित छैन">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -119,7 +119,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ले सुरक्षा टेक्नोलोजी चलाउछ जून मिति गुज्रेको छ र आक्रमण प्रति असुरक्षित छ। हमलाकारिले गोप्य कुरा सजिलै खोल्न सक्छ जून तपाईले सुरक्षित छ भनेर सोच्नु हुन्छ. वेबसाइट मुख्य प्रबन्धकले साइट हेर्नु भन्दा पहिले सर्भर निर्धारित गर्नु पर्छ.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>   .    ">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ले सुरक्षा टेक्नोलोजी चलाउछ जुन मिति गुज्रेको छ र आक्रमण प्रति असुरक्षित छ। हमलाकारीले गोप्य कुरा सजिलै खोल्न सक्छ जुन तपाईँले सुरक्षित छ भनेर सोच्नु हुन्छ। वेबसाइट मुख्य प्रबन्धकले साइट हेर्नु भन्दा पहिले सर्भर निर्धारित गर्नु पर्छ।</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p> । ">
 
-<!ENTITY prefReset.longDesc "तपाईको नेटवर्क सुरक्षा सेटिङ्हरूका कारण यो पैदा भएको जस्तो देखिन्छ। के तपाईं पूर्वनिर्धारित सेटिङहरू पुनःस्थापित गर्न चाहनुहुन्छ?">
+<!ENTITY prefReset.longDesc "तपाईँको नेटवर्क सुरक्षा सेटिङ्हरूका कारण यो पैदा भएको जस्तो देखिन्छ। के तपाईँ पूर्वनिर्धारित सेटिङहरू पुनः स्थापित गर्न चाहनुहुन्छ?">
 <!ENTITY prefReset.label "पूर्वनिर्धारित सेटिङहरू पूर्वावस्थामा ल्याउनुहोस्">
