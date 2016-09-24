@@ -74,6 +74,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Прикажи у Finder-у">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Отвори фасциклу">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важне измењене поставке">
 <!ENTITY aboutSupport.modifiedPrefsName "Назив">
