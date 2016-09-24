@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "پاک کردن">
 <!ENTITY button_copy "رونوشت">
 
+<!ENTITY home_top_sites_title "سایت‌های برتر">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "افزودن یک سایت">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "نمایش موارد نشانک های مطالعه جهت مطالعه آن ها به صورت آفلاین.">
 <!ENTITY helper_triple_readerview_open_button "اضافه کردن به نشانک‌ها">
 
-
+<!ENTITY activity_stream_topsites "سایت‌های برتر">
+<!ENTITY activity_stream_highlights "برجسته‌ها">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "بیشتر">
