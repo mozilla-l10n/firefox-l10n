@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "यदि तपाईँले धेरै प्रोफाइलहरू सिर्जना गर्नुभयो भने तपाईँ तिनीहरूलाई भिन्न प्रोफाइल नामहरूबाट भन्न सक्नुहुन्छ। तपाईँ यहाँ दिइएको नाम वा आफ्नै नाम प्रयोग गर्न सक्नुहुन्छ।">
 <!ENTITY profilePrompt.label            "नयाँ प्रोफाइल नाम प्रविष्ट गर्नुहोस्:">
 <!ENTITY profilePrompt.accesskey        "E">
-<!ENTITY profileDirectoryExplanation.text   "तपाई प्रयोग सेटिंग , प्राथमिकता र अरु प्रयोग कर्ता सम्बन्धित तथ्यांक संचित गरिएको छ ">
+<!ENTITY profileDirectoryExplanation.text   "तपाईँको प्रयोगकर्ता सेटिङ , प्राथमिकता र अरु प्रयोग कर्ता सम्बन्धित तथ्याङ्कहरू यहाँ सञ्चित गरिएको छ ">
 <!ENTITY profileDefaultName             "पूर्वनिर्धारित प्रयोगकर्ता">
 <!ENTITY button.choosefolder.label      "&amp; फोल्डर छान्नुहोस् ">
 <!ENTITY button.choosefolder.accesskey  "C">

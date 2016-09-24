@@ -52,5 +52,5 @@
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "सुरक्षित टोकन प्रमाणीकरण">
-<!ENTITY protectedAuth.msg "टोकन गर्न प्रमाणित गर्नुहोस्। प्रमाणीकरण विधि तपाईंको टोकन को प्रकार मा निर्भर गर्दछ।">
+<!ENTITY protectedAuth.msg "कृपया टोकनको लागि प्रमाणित गर्नुहोस् । प्रमाणीकरण विधि तपाईँको टोकनको प्रकारमा निर्भर गर्दछ।">
 <!ENTITY protectedAuth.tokenName.label "टोकन:">

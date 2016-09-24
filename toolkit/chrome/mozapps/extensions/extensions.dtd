@@ -33,7 +33,7 @@
 <!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एड-अनहरू हुन सक्छन्।">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
 <!ENTITY warning.checkcompatibility.enable.tooltip "एड-अन समर्थन जाँच सक्षम पार्नुहोस्">
-<!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईं अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
+<!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
 <!-- categories / views -->
@@ -120,8 +120,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
-<!ENTITY discover.description2                "एड-अनहरू तपाईंलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
-<!ENTITY discover.footer                      "तपाईं इन्टरनेटमा जोडिएको बेला, यस पेनले  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
+<!ENTITY discover.description2                "एड-अनहरू तपाईँलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
+<!ENTITY discover.footer                      "तपाईँ इन्टरनेटमा जोडिएको बेला, यस पेनले  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
@@ -130,7 +130,7 @@
 <!ENTITY detail.homepage.label                "गृहपृष्ठ">
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
 
-<!ENTITY detail.contributions.description     "यस एड-अनको विकासकर्ताले तपाईंसंग एउटा सानो योगदान मागेर यसको निरन्तर विकासमा मदत माग्छन्।">
+<!ENTITY detail.contributions.description     "यस एड-अनको विकासकर्ताले तपाईँसँग एउटा सानो योगदान मागेर यसको निरन्तर विकासमा मदत माग्छन्।">
 
 <!ENTITY detail.updateType                    "स्वतः अद्यावधि">
 <!ENTITY detail.updateDefault.label           "पूर्वनिर्धारित">
@@ -236,7 +236,7 @@
 <!ENTITY disabledUnsigned.description.start "निम्न एड-अनहरू &brandShortName; मा प्रयोग गर्न प्रमाणित भएको छैन। तपाईँ सक्नुहुन्छ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "प्रतिस्थापन खोज्नुहोस्">
 <!ENTITY disabledUnsigned.description.end " वा विकासकर्तालाई तिनीहरू प्रमाणित गर्न भन्नुहोस्।">
-<!ENTITY disabledUnsigned.learnMore "तपाईंलाई अनलाइनमा सुरक्षित राख्ने हाम्रो प्रयासमा बारे अधिक जान्नुहोस्।">
+<!ENTITY disabledUnsigned.learnMore "तपाईँलाई अनलाइनमा सुरक्षित राख्ने हाम्रो प्रयासमा बारे अधिक जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

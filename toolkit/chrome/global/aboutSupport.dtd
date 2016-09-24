@@ -77,7 +77,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js प्राथमिकताहरू">
-<!ENTITY aboutSupport.userJSDescription "तपाईको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरु समावेश छन्।">
+<!ENTITY aboutSupport.userJSDescription "तपाईँको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरू समावेश छन्।">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वपूर्ण ताल्चा लगाइएका प्राथमिकताहरू">
 <!ENTITY aboutSupport.lockedPrefsName "नाम">
