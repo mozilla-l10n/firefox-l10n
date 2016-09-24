@@ -67,7 +67,7 @@
 <!ENTITY updates.installed.label              "Add-ons anda telah dikemas kini.">
 <!ENTITY updates.downloaded.label             "Kemas kini add-on anda telah dimuat turun.">
 <!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
-<!ENTITY updates.noneFound.label              "Tiada kemas kini dijumpai">
+<!ENTITY updates.noneFound.label              "Tiada kemas kini ditemui">
 <!ENTITY updates.manualUpdatesFound.label     "Papar Kemas kini Tersedia">
 <!ENTITY updates.updateSelected.label         "Pasang Kemas kini">
 <!ENTITY updates.updateSelected.tooltip       "Pasang kemas kini yang tersedia di dalam senarai ini">
