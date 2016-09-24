@@ -4,6 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "Параметри з’єднання">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Настроювання проксі для доступу в інтернет">
 <!ENTITY  noProxyTypeRadio.label        "Без проксі">
