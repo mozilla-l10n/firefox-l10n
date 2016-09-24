@@ -74,6 +74,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Abrir carpeta">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
@@ -108,7 +109,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto al portapapeles">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en bruto al portapapeles">
 
-<!ENTITY aboutSupport.sandboxTitle "Caja de arena">
+<!ENTITY aboutSupport.sandboxTitle "Aislamiento">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar el modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar sin complementos…">

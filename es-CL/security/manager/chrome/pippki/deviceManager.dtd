@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
+<!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "Este certificado personal no puede ser instalado porque no posees la clave privada correspondiente que fue creada cuando el certificado fue solicitado.">
 <!ENTITY devmgr.details.title                   "Detalles">
