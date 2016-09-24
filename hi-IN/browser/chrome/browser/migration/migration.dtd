@@ -11,19 +11,19 @@
 
 <!ENTITY importFromIE.label             "Microsoft इंटरनेट‌ एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromEdge.label           "माइक्रोसॉफ्ट‌ एज">
-<!ENTITY importFromEdge.accesskey       "ए">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "कुछ भी आयात न करें">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "सफारी">
-<!ENTITY importFromSafari.accesskey     "स">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "क्रोम कैनरी">
 <!ENTITY importFromCanary.accesskey     "n">
-<!ENTITY importFromChrome.label         "क्रोम‌">
+<!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromChromium.label       "क्रोमियम">
+<!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromFirefox.label        "फ़ायरफ़ॉक्स">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र‌">
 <!ENTITY importFrom360se.accesskey      "3">
