@@ -54,7 +54,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; menggunakan perkhidmatan maklumat -berasaskan-web (&quot;Perkhidmatans&quot;) untuk menyediakan beberapa ciri yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu daripada Perkhidmatan atau tidak menerima terma dibawah, anda boleh nyahdayakan mana-mana ciri Perkhidmatan tersebut. Arahan mengenai cara untuk menyahdayakan ciri atau Perkhidmatan tertentu boleh ditemui di ">
+<!ENTITY rights2.webservices-a "&brandFullName; menggunakan perkhidmatan maklumat -berasaskan-web (&quot;Perkhidmatans&quot;) untuk menyediakan beberapa ciri yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu daripada Perkhidmatan atau tidak menerima terma di bawah, anda boleh nyahdayakan mana-mana ciri Perkhidmatan tersebut. Arahan mengenai cara untuk menyahdayakan ciri atau Perkhidmatan tertentu boleh ditemui di ">
 <!ENTITY rights2.webservices-b "di sini">
 <!ENTITY rights3.webservices-c ". Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.">
 
