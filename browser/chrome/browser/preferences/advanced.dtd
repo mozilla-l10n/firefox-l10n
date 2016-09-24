@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
+<!ENTITY crashReporterDesc2.label         "Құлау жөнінде хабарламалар &vendorShortName; үшін мәселелерді шешу және браузеріңізді тұрақтылау және қауіпсіз қылуға көмектеседі">
 
 
 <!ENTITY crashReporterLearnMore.label     "Көбірек білу">
