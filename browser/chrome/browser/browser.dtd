@@ -207,12 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Погледај информације сајта">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори панел са порукама">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отвори панел за захтев локације">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отвори панел са инсталацијом додатака">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отвори панел за ванмрежно складиште">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отвори панел за снимање лозинке">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управљајте додацима">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промените да ли сајт може да приказује обавештења">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управљајте дељењем вашег микрофона са сајтом">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Управљајте дељењем вашег прозора или екрана са сајтом">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Отвори панел за инсалацију порука">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Преведи ову страницу">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управљајте превођењем странице">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управљајте употребом DRM софтвера">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Блокирали сте камеру за овај веб сајт.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Блокирали сте микрофон за овај веб сајт.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Блокирали сте дељење екрана за овај веб сајт.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Блокирали сте локацију за овај веб сајт.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Блокирали сте складиште за овај веб сајт.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Ресетуј ниво увеличавање">
 
 <!ENTITY searchItem.title             "Претрага">
 
@@ -409,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Упит претраге">
+<!ENTITY contentSearchSubmit.tooltip  "Пошаљи претрагу">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Промени поставке претраге">
+<!ENTITY changeSearchSettings.tooltip "Промени поставке претраге">
 
 <!ENTITY searchInNewTab.label         "Претражи у новом језичку">
 <!ENTITY searchInNewTab.accesskey     "ј">
@@ -711,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дозволе">
 <!ENTITY identity.permissionsEmpty "Овом сајту нису додељене никакве специјалне дозволе.">
+<!ENTITY identity.permissionsReloadHint "Можда ћете морати поново учитати страницу да примените промене.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
