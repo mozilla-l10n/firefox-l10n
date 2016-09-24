@@ -80,7 +80,7 @@
 <!ENTITY fxaccount_status_more "अझै&ellipsis;">
 <!ENTITY fxaccount_remove_account "जडान अन्त&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "फायरफक्स खाता हटाउने?">
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox खाता हटाउने?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो कम्प्युटरमा तपाईँको ब्राउजिङ डेटा मेटिने छैन।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->

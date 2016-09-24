@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "इजाजतपत्र सूचना">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "फायरफक्स र फायरफक्सको लोगो मोजिल्ला फाउन्डेसनका ट्रेडमार्कहरु हुन्।">
+<!ENTITY aboutPage.logoTrademark                "Firefox र Firefox को लोगो Mozilla Foundation को ट्रेडमार्कहरु हुन्।">

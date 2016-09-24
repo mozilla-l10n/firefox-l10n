@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "फायरफक्स एकाउन्टस्">
+<!ENTITY aboutAccounts.connected.title "Firefox खाताहरू">
 <!ENTITY aboutAccounts.connected.description "को रुपमा तपाई यसमा जडान हुनुभएको छ।">
 <!ENTITY aboutAccounts.syncPreferences.label "सेटिङहरू समक्रमण गर्न यहा टयाप् गर्नुहोस्">
 
@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "पुन:प्रयास गर्नुहोस्">
 
 <!ENTITY aboutAccounts.restrictedError.title "निषेधित">
-<!ENTITY aboutAccounts.restrictedError.description "तपाइले यस प्रोफाइलबाट फायरफक्स अकाउन्ट व्यवस्थापन गर्न सक्नुहुन्न।">
+<!ENTITY aboutAccounts.restrictedError.description "तपाइले यस प्रोफाइलबाट Firefox अकाउन्ट व्यवस्थापन गर्न सक्नुहुन्न।">

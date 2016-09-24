@@ -10,7 +10,7 @@
 <!ENTITY firstrun_bookmarks_message "तपाईंको मन पर्ने, अगाडि र केन्द्र">
 <!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको बुकमार्क र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
 <!ENTITY firstrun_data_title "डाटा">
-<!ENTITY firstrun_data_message "कम डाटा, अधिक बचतहरु">
+<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस।">
 <!ENTITY firstrun_sync_title "सिङ्क">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैं तपाईँको पक्षमा">
@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सक्रिय पार्नुहोस">
-<!ENTITY firstrun_tabqueue_subtext_off "पछिको लागि &brandShortName; लिङ्कहरु सुरक्षित; जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गर्दा.">
+<!ENTITY firstrun_tabqueue_subtext_off "जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गरेर पछिको लागि &brandShortName; मा लिङ्कहरू सङ्ग्रह गर्नुहोस्।">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
 <!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुनेछ।">
@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "अव्यवस्था गुमाउनुहोस">
-<!ENTITY firstrun_readerview_subtext "लेखहरु \u2014 अफलाइनमा पनि अझ राम्ररी पढ्न पाठक मोडमा प्रबेश गर्नुहोस।">
+<!ENTITY firstrun_readerview_subtext "लेखहरू \u2014 अफलाइनमा पनि अझ राम्ररी पढ्न पाठक मोडमा प्रवेश गर्नुहोस।">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "तपाई">
@@ -95,7 +95,7 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "हिजो">
-<!ENTITY history_week_section3 "बितेका ७ दिनहरु">
+<!ENTITY history_week_section3 "बितेका ७ दिनहरू">
 <!ENTITY history_older_section3 "६ महिना भन्दा पुरानो">
 
 <!ENTITY search "खोजी गर्नुहोस्">
@@ -202,13 +202,13 @@
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाइ-फाइ डिबगिङको लागी QR कोड पाठक एप तपाइको उपकरणमा अावश्यक छ।">
-<!ENTITY pref_remember_signons2 "लगइनहरु सम्झने">
-<!ENTITY pref_manage_logins "लग इनहरु व्यवस्थापन गर्नुहोस्">
+<!ENTITY pref_remember_signons2 "लगइनहरू सम्झनुहोस्">
+<!ENTITY pref_manage_logins "लगइनहरू व्यवस्थापन गर्नुहोस्">
 
 <!ENTITY pref_category_home "गृह">
 <!ENTITY pref_category_home_summary "आफ्नो गृहपृष्ठ अनुकुलन गर्नुहोस्">
-<!ENTITY pref_category_home_panels "प्यानलहरु">
-<!ENTITY pref_category_home_add_ons "एड-अनहरु">
+<!ENTITY pref_category_home_panels "प्यानलहरू">
+<!ENTITY pref_category_home_add_ons "एडअनहरू">
 <!ENTITY pref_home_updates2 "सामग्री अद्यावधिकहरू">
 <!ENTITY pref_home_updates_enabled "सक्षम पारियो">
 <!ENTITY pref_home_updates_wifi "केवल वाइफाइको माध्यमबाट">
@@ -252,7 +252,7 @@
 <!ENTITY pref_category_media "मिडिया">
 <!ENTITY pref_category_developer_tools "विकासकर्ता उपकरणहरू">
 
-<!ENTITY pref_tap_to_load_images_title2 "छविहरु देखाउनुहोस्">
+<!ENTITY pref_tap_to_load_images_title2 "तस्विरहरू देखाउनुहोस्">
 <!ENTITY pref_tap_to_load_images_enabled "सधैं">
 <!ENTITY pref_tap_to_load_images_data "केवल वाइफाइको माध्यमबाट">
 <!ENTITY pref_tap_to_load_images_disabled2 "निषेधित">
@@ -280,14 +280,14 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "अनुकुल ट्याबहरू">
-<!ENTITY pref_custom_tabs_summary "तेश्रो पक्षी एप्लिकेशनलाइ URLहरु अनुकुलित रुप र अनुभवका साथ  प्रयोग गर्न पायीयोस ">
+<!ENTITY pref_custom_tabs_summary "तेश्रो पक्षका एपहरूलाई URLहरू अनुकुलित रुप र अनुभवका साथ खोल्न दिनुहोस्।">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
 <!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ। ">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
-<!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने बस्तुहरु रोक्नुहोस।">
+<!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने बस्तुहरू रोक्नुहोस्।">
 <!ENTITY tracking_protection_prompt_tip_text "थप जान्न को लागि गोपनीयता सेटिङमा भ्रमण गर्नुहोस्">
 <!ENTITY tracking_protection_prompt_action_button "पाएँ!">
 
@@ -309,7 +309,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; ट्याबहरु पर्खदै">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ट्याबहरू पर्खदै">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "१ ट्याब पर्खदै">
@@ -382,14 +382,14 @@ size. -->
 <!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
 <!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "ट्याबहरू, पुस्तकचीनोहरू, लग-ईनहरू, र ईतिहासहरू Sync गर्नुहोस्">
-<!ENTITY pref_search_suggestions "खोजि सुझाबहरु देखाउनुहोस्">
+<!ENTITY pref_search_suggestions "खोजी सुझावहरू देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
 <!ENTITY pref_import_options "आयात विकल्पहरू">
 <!ENTITY pref_import_android_summary "मुल ब्रावजरबाट त्यहाँ भएको बुकमार्क र ईतिहास भित्र्याउनुहोस्। ">
 <!ENTITY pref_private_data_history2 "ब्राउजिङ इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
 <!ENTITY pref_private_data_formdata2 "फारम इतिहास">
-<!ENTITY pref_private_data_cookies2 "कुकिज र सक्रिय लगइनहरु">
+<!ENTITY pref_private_data_cookies2 "कुकिज र सक्रिय लगइनहरू">
 <!ENTITY pref_private_data_passwords2 "सङ्ग्रहित लग-इनहरू">
 <!ENTITY pref_private_data_cache "क्यास">
 <!ENTITY pref_private_data_offlineApps "अफलाइन वेबसाइट डाटा">
@@ -400,7 +400,7 @@ size. -->
 <!ENTITY pref_default_browser "पूर्वनिर्धारित ब्राउजर बनाउनुहोस्">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support खोल्नुहोस्">
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
-<!ENTITY pref_vendor_faqs "FAQहरु">
+<!ENTITY pref_vendor_faqs "FAQ हरू">
 <!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
 
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारितको रूपमा सेट गर्नुहोस्">
@@ -418,7 +418,7 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; तथ्यांक र डेटा">
 <!ENTITY datareporting_notification_action "बाँड्ने कुराहरू छान्नुहोस्">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "बाँड्ने जानकारीहरु छान्नुहोस्">
+<!ENTITY datareporting_notification_action_long "बाँड्ने जानकारीहरू छान्नुहोस्">
 <!ENTITY datareporting_notification_summary "तपाईंको अनुभब राम्रो बनाउनको लागि &brandShortName; ले स्वत: रुपमा केही आंकडा &vendorShortName; लाई पठाउछ। ">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
@@ -435,7 +435,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्। ">
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
 <!ENTITY datareporting_telemetry_summary "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; संग बाड्दछ">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ क्र्यास प्रतिवेदनहरू पेस गर्छ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्र्यास प्रतिवेदक">
@@ -444,7 +444,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरु">
+<!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरू">
 <!ENTITY pref_update_autodownload_wifi "केवल वाइफाइको माध्यमबाट">
 <!ENTITY pref_update_autodownload_never "कहिले पनि">
 <!ENTITY pref_update_autodownload_always "सधै">
@@ -454,7 +454,7 @@ size. -->
 
 <!ENTITY quit "बाहिर निस्कनुहोस्">
 
-<!ENTITY addons "एड-अनहरु">
+<!ENTITY addons "एडअनहरू">
 <!ENTITY logins "लग-इनहरू">
 <!ENTITY downloads "डाउनलोडहरू">
 <!ENTITY char_encoding "वर्ण सङ्केतन">
@@ -554,7 +554,7 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
-<!ENTITY page_action_dropmarker_description "थप कृयाकलापहरु">
+<!ENTITY page_action_dropmarker_description "थप कृयाकलापहरू">
 
 <!ENTITY masterpassword_create_title "मुख्य पासवर्ड सिर्जना गर्नुहोस्">
 <!ENTITY masterpassword_remove_title "मुख्य पासवर्ड मेटाउनुहोस्">
@@ -570,7 +570,7 @@ size. -->
 <!ENTITY button_clear "खाली गर्नुहोस्">
 <!ENTITY button_copy "प्रतिलिपि बनाउनुहोस्">
 
-<!ENTITY home_top_sites_title "शीर्ष साईटहरु">
+<!ENTITY home_top_sites_title "शीर्ष साइटहरू">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साईट थप्नुहोस्। ">
@@ -580,20 +580,20 @@ size. -->
 <!ENTITY home_title "&brandShortName; गृह">
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_synced_devices_smartfolder "सिङ्क गरिएको उपकरणहरू">
-<!ENTITY home_synced_devices_number "&formatD; उपकरणहरु ">
+<!ENTITY home_synced_devices_number "&formatD; उपकरणहरू">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "१ उपकरण">
 <!ENTITY home_history_back_to2 "पहिलेको सबै ईतिहासमा जाने">
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 <!ENTITY home_clear_history_confirm "तपाईँ इतिहास बिर्सन निश्चित हुनुहुन्छ?">
 <!ENTITY home_bookmarks_empty "तपाईँले सन्चित गरेक पुस्तकचीनोहरू यहाँ देखा पर्दछ।">
-<!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरु">
+<!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरू">
 <!ENTITY home_last_tabs_empty "तपाईँको हालसालैको ट्याबहरू यहाँ देखा पर्छ।">
 <!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने ">
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
-<!ENTITY home_most_recent_empty "तपाईं भर्खरै जानुभएको वेबसाईटहरु यहाँ देखिन्छ। ">
+<!ENTITY home_most_recent_empty "तपाईँ भर्खरै जानुभएको वेबसासटहरू यहाँ देखिन्छन्। ">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
@@ -610,16 +610,16 @@ size. -->
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; उपकरणहरु लुकेका छन्">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; उपकरणहरू लुकेका छन्">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "लुकेको उपकरणहरु">
+<!ENTITY home_remote_tabs_hidden_devices_title "लुकाइएका उपकरणहरू">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएको उपकरणहरुलाई नलुकाउनुहोस्। ">
+<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका उपकरणहरूलाई नलुकाउनुहोस्। ">
 
-<!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरु कहाँ गयो? ">
-<!ENTITY remote_tabs_panel_moved_desc "तपाइले हरेक पटक नयाँ ट्याब खोल्दा पहुंच सहज बनाउन तपाइको अन्य उपकरणहरुबाट ट्याबहरु तपाइको गृह पृष्ठको एउटा प्यानलमा सारिसकेका छाैं।">
+<!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो? ">
+<!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य उपकरणहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
 <!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्। ">
 
 <!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्। ">
@@ -649,15 +649,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ। ">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ। ">
-<!ENTITY mixed_content_display_loaded1 "पेजको यो भागहरु स्रक्षित छैन (जस्तैकी फोटो)">
-<!ENTITY mixed_content_protection_disabled1 "तपाईंले असुरक्षित कुराहरुबाट सुरक्षा बन्द गर्नुभयो। ">
+<!ENTITY mixed_content_display_loaded1 "पेजका यी भागहरू सुरक्षित छैन (जस्तै कि फोटो)।">
+<!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित कुराहरूबाट सुरक्षा बन्द गर्नुभयो। ">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
 <!ENTITY doorhanger_tracking_state_enabled "सक्षम पारिएको छ">
 <!ENTITY doorhanger_tracking_state_disabled "अक्षम पारिएको छ">
-<!ENTITY doorhanger_tracking_message_enabled1 "तपाइको अनलाइन व्यवहार ट्रयाक गर्ने प्रयासहरु अवरुद्ध भएका छन्।">
-<!ENTITY doorhanger_tracking_message_disabled2 "यो पृष्ठमा तपाईंको ब्राउजिङ ट्र्याक गर्न सक्ने तत्वहरु रहेका छन्।">
+<!ENTITY doorhanger_tracking_message_enabled1 "तपाईँको अनलाइन व्यवहार ट्र्याक गर्ने प्रयासहरू अवरुद्ध भएका छन्।">
+<!ENTITY doorhanger_tracking_message_disabled2 "यो पृष्ठमा तपाईँको ब्राउजिङ ट्र्याक गर्न सक्ने तत्वहरू रहेका छन्।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "अझै जान्नुहोस्">
@@ -801,7 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "एन्ड्रोइड ट्याब्लेटमा प्रतिबन्धित प्रोफाइलका लागि फायरफक्स सहायता र समर्थन">
+<!ENTITY bookmarks_restricted_support2 "Android ट्याब्लेटमा प्रतिबन्धित प्रोफाइलका लागि Firefox सहायता र समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "वेबको बारेमा सिक्नुहोस्: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
