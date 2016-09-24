@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Zjistit více">
 
 <!ENTITY crashReporterDesc2.label         "Hlášení o pádech pomáhají &vendorShortName; opravovat chyby a dělat váš prohlížeč stabilnějším a bezpečnějším">
+<!ENTITY alwaysSubmitCrashReports.label   "Povolit aplikaci &brandShortName; odesílat hlášení o pádech vaším jménem">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Zjistit více">
 
 <!ENTITY networkTab.label                "Síť">
