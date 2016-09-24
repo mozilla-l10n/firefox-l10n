@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Gweld manylion y wefan">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Agor y panel negesu">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad ">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Agor panel neges gosod yr ychwanegyn">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Agor y panel neges storio all-lein">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Agor panel neges y cyfrinair cadw">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Agor panel y neges gosod">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Cyfieithu'r dudalen hon">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Rheoli cyfieithu tudalennau">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Rydych wedi diffodd eich camera ar gyfer y wefan hon.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Rydych wedi rhwystro'r manylion lleoliad ar gyfer y wefan hon.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Rydych wedi rhwystro storio data ar gyfer y wefan hon.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Ailosod lefel chwyddo">
 
 <!ENTITY searchItem.title             "Chwilio">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Gosodiadau Chwilio">
-
+<!ENTITY changeSearchSettings.tooltip "Newid y gosodiadau chwilio">
 
 <!ENTITY searchInNewTab.label         "Chwilio mewn Tab Newydd">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Caniatâd">
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
-
+<!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
