@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశం యొక్క పానెల్ తెరువండి">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ఈ పేజీని అనువదించండి">
