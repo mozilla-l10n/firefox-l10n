@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bladwijzer voor deze pagina maken">
 <!ENTITY editThisBookmarkCmd.label "Deze bladwijzer bewerken">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -207,32 +206,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Website-informatie weergeven">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Een notificatie weergeven">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "De locatieaanvraag weergeven">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Het add-on-installatiebericht weergeven">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Het app-offlineopslagbericht weergeven">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Uw aanmeldingsgegevens beheren">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Controleren of u uw wachtwoord wilt opslaan">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Plug-in-gebruik op deze pagina beheren">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Wijzigen of u notificaties van de website kunt ontvangen">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Delen van uw camera en/of microfoon met de website beheren">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "U deelt uw camera en/of microfoon met de website">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Delen van uw microfoon met de website beheren">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "U deelt uw microfoon met de website">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Delen van uw vensters of scherm met de website beheren">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "U deelt een venster of uw scherm met de website">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berichtpaneel openen">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Paneel voor locatieaanvraag openen">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Berichtpaneel voor add-on-installatie openen">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Berichtpaneel voor offlineopslag openen">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Berichtpaneel voor opslaan van wachtwoord openen">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plug-in-gebruik beheren">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Wijzigen of u notificaties van de website kunt ontvangen">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Wijzigen of de website de aanwijzer kan verbergen">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Het service-installatiebericht weergeven">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Deze pagina vertalen">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Paginavertaling beheren">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Gebruik van DRM-software beheren">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Delen van uw camera en/of microfoon met de website beheren">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Delen van uw microfoon met de website beheren">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Delen van uw vensters of scherm met de website beheren">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Berichtpaneel voor installatie openen">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Deze pagina vertalen">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Paginavertaling beheren">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebruik van DRM-software beheren">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "U hebt uw camera voor deze website geblokkeerd.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "U hebt uw microfoon voor deze website geblokkeerd.">
+<!ENTITY urlbar.screenBlocked.tooltip            "U hebt het delen van uw scherm voor deze website geblokkeerd.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "U hebt locatiegegevens voor deze website geblokkeerd.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "U hebt gegevensopslag voor deze website geblokkeerd.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Zoomniveau terugzetten">
 
 <!ENTITY searchItem.title             "Zoeken">
 
@@ -425,11 +426,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Zoekterm">
-<!ENTITY contentSearchSubmit.label    "Zoekopdracht verzenden">
+<!ENTITY contentSearchSubmit.tooltip  "Zoekopdracht verzenden">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -455,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Zoekinstellingen wijzigen">
+<!ENTITY changeSearchSettings.tooltip "Zoekinstellingen wijzigen">
 
 <!ENTITY searchInNewTab.label         "Zoeken in Nieuw tabblad">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -732,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Toestemmingen">
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
+<!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -775,21 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
 
-<!ENTITY socialToolbar.title        "Sociale-werkbalkknop">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Zijbalk tonen">
-<!ENTITY social.toggleSidebar.accesskey "Z">
-
 <!ENTITY social.addons.label "Services beheren…">
-
-<!ENTITY social.toggleNotifications.label "Desktopnotificaties tonen">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "Meer info…">
-<!ENTITY social.learnMore.accesskey "M">
 
 <!ENTITY social.directory.label "Activeringslijst">
 <!ENTITY social.directory.text "U kunt deelservices van de lijst activeren.">
@@ -810,15 +799,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Meer thema’s verkrijgen">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Chats op voorgrond">
-<!ENTITY social.chatBar.accesskey "C">
-
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Pagina opslaan naar…">
-<!ENTITY social.marklinkMenu.accesskey "K">
-<!ENTITY social.marklinkMenu.label "Koppeling opslaan naar…">
 
 <!ENTITY getUserMedia.selectCamera.label "Te delen camera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -853,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Bescherming inschakelen">
 <!ENTITY trackingContentBlocked.block.accesskey "B">
 <!ENTITY trackingContentBlocked.disabled.message "Bescherming tegen volgen is uitgeschakeld">
-
-<!ENTITY pointerLock.notification.message "Druk op ESC om het nogmaals te tonen.">
 
 <!ENTITY pluginNotification.showAll.label "Alles tonen">
 <!ENTITY pluginNotification.showAll.accesskey "A">
