@@ -44,7 +44,7 @@
 <!ENTITY aboutSupport.appBasicsSafeMode "Безопасный Режим">
 <!ENTITY aboutSupport.showDir.label "Открыть каталог">
 <!ENTITY aboutSupport.showMac.label "Показать в Finder">
-<!ENTITY aboutSupport.showWin.label "Показать папку">
+<!ENTITY aboutSupport.showWin2.label "Открыть папку">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важные изменённые настройки">
 <!ENTITY aboutSupport.modifiedPrefsName "Имя">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значение">
