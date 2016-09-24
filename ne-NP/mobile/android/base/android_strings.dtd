@@ -781,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "एड-अनहरु">
-<!ENTITY restrictable_feature_addons_installation_description "फायरफक्समा विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एडअनहरुले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एडअनहरुले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउजिङ">
 <!ENTITY restrictable_feature_private_browsing_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा जानकारी बचत नगरी भ्रमण गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
@@ -795,13 +795,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
-<!ENTITY bookmarks_about_browser "फायरफक्स: तपाइको ब्राउजरको बारेमा">
+<!ENTITY bookmarks_about_browser "Firefox: तपाईँको ब्राउजरको बारेमा">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "फायरफक्स: एडअनहरुको साथ अनुकूलित बनाउनुहोस्">
+<!ENTITY bookmarks_addons "Firefox: एडअनहरुको साथ अनुकूलित बनाउनुहोस्">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "फायरफक्स: समर्थन">
+<!ENTITY bookmarks_support "Firefox: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "एन्ड्रोइड पाटीमा प्रतिबन्धित प्रोफाइलका लागि फायरफक्स सहायता र समर्थन">
+<!ENTITY bookmarks_restricted_support2 "एन्ड्रोइड ट्याब्लेटमा प्रतिबन्धित प्रोफाइलका लागि फायरफक्स सहायता र समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "वेबको बारेमा सिक्नुहोस्: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
