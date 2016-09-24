@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromHistory.label      "Tynnu o'r Hanes">
 <!ENTITY cmd.removeFromHistory.accesskey  "y">
-
-
+<!ENTITY cmd.clearList2.label             "Clirio'r Panel Rhagolwg">
+<!ENTITY cmd.clearList2.accesskey         "r">
 <!ENTITY cmd.clearDownloads.label         "Clirio Llwythi">
 <!ENTITY cmd.clearDownloads.accesskey     "L">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Dangos Pob Llwyth">
 <!ENTITY downloadsHistory.accesskey       "D">
 
+<!ENTITY openDownloadsFolder.label       "Agor y Ffolder Llwytho i Lawr">
 
 <!ENTITY clearDownloadsButton.label       "Clirio'r Llwythi">
 <!ENTITY clearDownloadsButton.tooltip     "Yn clirio llwythi cwblhawyd, dilëwyd a methwyd">
