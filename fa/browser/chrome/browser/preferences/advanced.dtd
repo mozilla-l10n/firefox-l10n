@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "د">
 <!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
-
-
+<!ENTITY crashReporterDesc2.label         "گزارش‌های فروپاشی به &vendorShortName; کمک می‌کند تا مشکلات را برطرف و مرورگر شما را پایدارتر و امن‌تر کند">
+<!ENTITY alwaysSubmitCrashReports.label   "اجازه به &brandShortName; برای ارسال وقایع ثبت شدهٔ گزارش‌های فروپاشی از طرف شما">
+<!ENTITY alwaysSubmitCrashReports.accesskey "و">
 <!ENTITY crashReporterLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
