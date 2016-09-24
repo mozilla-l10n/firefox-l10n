@@ -19,7 +19,7 @@
 <!ENTITY rights.intro-point1b "lesen awam Mozilla">
 <!ENTITY rights.intro-point1c ". Ini bermaksud anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain. Anda juga dialu-alukan untuk mengolah kod sumber &brandShortName; mengikut keperluan anda. Lesen Umum Mozilla juga memberikan hak kepada anda untuk mengedarkan versi yang telah diubah.">
 
-<!ENTITY rights.intro-point2-a "Anda tidak diberi hak tanda dagangan atau lesen untuk tanda dagangan Mozilla Foundation atau mana-mana pihak, termasuk tidak terhad kepada nama Firefox atau logonya. Maklumat tambahan mengenai tanda dagangan boleh ditemui ">
+<!ENTITY rights.intro-point2-a "Anda tidak diberi hak tanda dagangan atau lesen untuk tanda dagangan Mozilla Foundation atau mana-mana pihak, termasuk tidak terhad kepada nama Firefox atau logonya. Maklumat tambahan mengenai tanda dagangan boleh ditemui di ">
 <!ENTITY rights.intro-point2-b "Di sini">
 <!ENTITY rights.intro-point2-c ".">
 
@@ -54,7 +54,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Servis&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah, anda boleh mematikan ciri-ciri atau Servis tersebut. Arahan tentang cara untuk mematikan ciri-ciri atau Servis tertentu boleh dijumpai ">
+<!ENTITY rights2.webservices-a "&brandFullName; menggunakan perkhidmatan maklumat -berasaskan-web (&quot;Perkhidmatans&quot;) untuk menyediakan beberapa ciri yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu daripada Perkhidmatan atau tidak menerima terma dibawah, anda boleh nyahdayakan mana-mana ciri Perkhidmatan tersebut. Arahan mengenai cara untuk menyahdayakan ciri atau Perkhidmatan tertentu boleh ditemui di ">
 <!ENTITY rights2.webservices-b "di sini">
 <!ENTITY rights3.webservices-c ". Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.">
 
