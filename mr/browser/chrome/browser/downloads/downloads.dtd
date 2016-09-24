@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "इतिहासातून काढून टाका">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-
-
+<!ENTITY cmd.clearList2.label             "पूर्वावलोकन फलक साफ करा">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "डाउनलोड्स नष्ट करा">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
