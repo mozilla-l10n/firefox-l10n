@@ -40,10 +40,10 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Meer info">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw browser stabieler en veiliger te maken">
-<!ENTITY enableCrashReporter.label       "Crashreporter inschakelen">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Meer info">
+<!ENTITY crashReporterDesc2.label         "Crashrapporten helpen &vendorShortName; problemen te verhelpen en maken uw browser stabieler en veiliger">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; toestaan namens u achterstallige crashrapporten te verzenden">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY crashReporterLearnMore.label     "Meer info">
 
 <!ENTITY networkTab.label                "Netwerk">
 

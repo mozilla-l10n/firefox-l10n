@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Verwijderen uit geschiedenis">
 <!ENTITY cmd.removeFromHistory.accesskey  "V">
-<!ENTITY cmd.clearList.label              "Lijst wissen">
-<!ENTITY cmd.clearList.accesskey          "w">
+<!ENTITY cmd.clearList2.label             "Voorbeeldpaneel wissen">
+<!ENTITY cmd.clearList2.accesskey         "w">
 <!ENTITY cmd.clearDownloads.label         "Downloads wissen">
 <!ENTITY cmd.clearDownloads.accesskey     "w">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,8 @@
      -->
 <!ENTITY downloadsHistory.label           "Alle downloads tonen">
 <!ENTITY downloadsHistory.accesskey       "A">
+
+<!ENTITY openDownloadsFolder.label       "Map Downloads openen">
 
 <!ENTITY clearDownloadsButton.label       "Downloads wissen">
 <!ENTITY clearDownloadsButton.tooltip     "Wist voltooide, geannuleerde en mislukte downloads">
