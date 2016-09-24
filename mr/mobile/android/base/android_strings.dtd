@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "पुसा">
 <!ENTITY button_copy "प्रत बनवा">
 
+<!ENTITY home_top_sites_title "खास साईट्स">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साईट जोडा">
