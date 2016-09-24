@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromHistory.label      "Уклони из историјата">
 <!ENTITY cmd.removeFromHistory.accesskey  "У">
+<!ENTITY cmd.clearList2.label             "Обриши панел за преглед">
+<!ENTITY cmd.clearList2.accesskey         "ф">
 <!ENTITY cmd.clearDownloads.label         "Обриши преузимања">
 <!ENTITY cmd.clearDownloads.accesskey     "р">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Прикажи сва преузимања">
 <!ENTITY downloadsHistory.accesskey       "П">
 
+<!ENTITY openDownloadsFolder.label       "Отвори фасциклу преузимања">
 
 <!ENTITY clearDownloadsButton.label       "Обриши преузимања">
 <!ENTITY clearDownloadsButton.tooltip     "Брише завршена, отказана и неуспела преузимања">
