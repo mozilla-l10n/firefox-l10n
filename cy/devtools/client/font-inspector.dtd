@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Gweld pob ffont sy'n cael ei ddefnyddio ar y dudalen">
-
+<!ENTITY showAllFontsUsed "Dangos pob ffont sy'n cael ei ddefnyddio">
 <!ENTITY usedAs "Defnyddiwyd fel: ">
 <!ENTITY system "system">
 <!ENTITY remote "pell">
