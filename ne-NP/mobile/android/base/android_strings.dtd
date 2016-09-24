@@ -593,7 +593,7 @@ size. -->
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
-<!ENTITY home_most_recent_empty "तपाईँ भर्खरै जानुभएको वेबसासटहरू यहाँ देखिन्छन्। ">
+<!ENTITY home_most_recent_empty "तपाईँ भर्खरै भ्रमण गर्नुभएको वेबसासटहरू यहाँ देखिन्छन्। ">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
@@ -630,7 +630,7 @@ size. -->
 <!ENTITY filepicker_video_title "छनौट वा भिडियो रेकर्ड">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "तपाई यसमा जडान हुनुभएको छ:">
+<!ENTITY identity_connected_to "तपाईँ यसमा जडान हुनुभएको छ:">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -650,7 +650,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ। ">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ। ">
 <!ENTITY mixed_content_display_loaded1 "पेजका यी भागहरू सुरक्षित छैन (जस्तै कि फोटो)।">
-<!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित कुराहरूबाट सुरक्षा बन्द गर्नुभयो। ">
+<!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित सामग्रीबाट सुरक्षा बन्द गर्नुभयो। ">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
@@ -673,7 +673,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "इतिहासहरु एन्ड्रोइडबाट आयात गरिदै">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा गर्नुहोस्...">
 
-<!ENTITY suggestions_prompt3 "तपाईं खोज सुझावहरू लिन चाहनुहुन्छ?">
+<!ENTITY suggestions_prompt3 "तपाईँ खोज सुझावहरू लिन चाहनुहुन्छ?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
