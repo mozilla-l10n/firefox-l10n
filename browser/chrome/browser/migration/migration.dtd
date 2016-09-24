@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Pelayar Selamat">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Tiada atur cara yang mengandungi tanda buku, sejarah atau data kata laluan yang dapat dijumpai.">
+<!ENTITY noMigrationSources.label       "Tiada atur cara yang mengandungi tanda buku, sejarah atau data kata laluan yang dapat ditemui.">
 
 <!ENTITY importSource.title             "Tetapan dan Data Import">
 <!ENTITY importItems.title              "Item untuk Diimport">
