@@ -207,12 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información del sitio">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensajes">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir panel de solicitud de ubicación">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensaje de instalación de complemento">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensaje de almacenamiento sin conexión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensaje de almacenamiento de contraseñas">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionar uso de complemento">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si puedes recibir o no notificaciones del sitio">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionar compartición de la cámara y/o micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionar compartición de micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionar compartición de ventanas o pantalla con el sitio">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensaje de instalación">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionar traducción de página">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionar uso de software DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Has bloqueado tu cámara para este sitio.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Has bloqueado tu micrófono para este sitio.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Has bloqueado a este sitio la posibilidad de compartir tu pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Has bloqueado la información de ubicación para este sitio.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Has bloqueado el almacenamiento de datos para este sitio.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Has bloqueado las notificaciones para este sitio.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Reiniciar nivel de aumento">
 
 <!ENTITY searchItem.title             "Buscar">
 
@@ -409,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Buscar por">
+<!ENTITY contentSearchSubmit.tooltip  "Enviar búsqueda">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar ajustes de búsqueda">
+<!ENTITY changeSearchSettings.tooltip "Cambiar ajustes de búsqueda">
 
 <!ENTITY searchInNewTab.label         "Buscar en nueva pestaña">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -711,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No has dado permisos especiales a este sitio.">
+<!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que los cambios se apliquen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
