@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "तपाई यो चाहन सक्नुहुन्छ: ">
+<!ENTITY  rememberActions.pre.label           "तपाईँ यो चाहन सक्नुहुन्छ: ">
 <!ENTITY  rememberActions.clearHistory.label  "तपाईँको हालसालको इतिहास मेटाउनुहोस्">
 <!ENTITY  rememberActions.middle.label        ", अथवा ">
 <!ENTITY  rememberActions.removeCookies.label "एक-एक कुकीहरू हटाउनुहोस्">
@@ -86,7 +86,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "तपाई यो पनि चाहन सक्नुहुन्छ: ">
+<!ENTITY  dontrememberActions.pre.label          "तपाईँ यो पनि चाहन सक्नुहुन्छ: ">
 <!ENTITY  dontrememberActions.clearHistory.label "अहिलेको सबै इतिहास मेटाउनुहोस्">
 <!ENTITY  dontrememberActions.post.label         "।">
 

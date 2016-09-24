@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "‌">
-<!ENTITY pointerlockWarning.afterDomain.label "तपाईको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
-<!ENTITY pointerlockWarning.generic.label "तपाईंको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।">
+<!ENTITY pointerlockWarning.afterDomain.label "तपाईँको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन Esc थिच्नुहोस्।">
+<!ENTITY pointerlockWarning.generic.label "तपाईँको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
 <!ENTITY closeWindow.accesskey "d">
@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
@@ -223,12 +223,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "तपाईंले यो वेबसाइट को लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईंले यो वेबसाइट को लागि आफ्नो माईक्रोफोन अवरुद्ध गर्नु भएको छ">
-<!ENTITY urlbar.screenBlocked.tooltip            "तपाईं आफ्नो स्क्रीन साझेदारी देखि यो वेबसाइट अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईंले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईंले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईंले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.cameraBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
+<!ENTITY urlbar.screenBlocked.tooltip            "तपाईँ आफ्नो स्क्रीन साझेदारी देखि यो वेबसाइट अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउने">
 
@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "अझै समन्वयन नभएका ट्याबहरू…">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य उपकरणहरूको ट्याबहरू तपाईं यहाँ हेर्न चाहनुहुन्छ?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य उपकरणहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
@@ -698,14 +698,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "जडानलाई सुरक्षित बनाउनुहोस्">
 <!ENTITY identity.connectionNotSecure "जडान सुरक्षित छैन">
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
-<!ENTITY identity.connectionVerified2 "तपाईं सुरक्षित रूपमा यो साइटमा जोडिनु भएको छ, संचालक:">
+<!ENTITY identity.connectionVerified2 "तपाईँ सुरक्षित रूपमा यो साइटमा जोडिनु भएको छ, संचालक:">
 <!ENTITY identity.connectionInternal "यो सुरक्षित &brandShortName; पाना हो।">
 <!ENTITY identity.insecureLoginForms2 "यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।">
 <!ENTITY identity.passiveLoaded "यो पृष्ठको भागहरू सुरक्षित छैनन् (जस्तै चित्रहरू)।">
-<!ENTITY identity.activeLoaded "तपाईँले यो पृष्ठमा संरक्षण असक्षम गर्नुभएको छ।">
+<!ENTITY identity.activeLoaded "तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।">
 <!ENTITY identity.weakEncryption "यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ ।">
 <!-- Strings for connection state warnings in the subview. -->
 

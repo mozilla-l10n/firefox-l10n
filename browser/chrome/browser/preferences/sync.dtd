@@ -51,7 +51,7 @@
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "गोपनीयता नीति">
-<!ENTITY determiningAcctStatus.label     "तपाईंको खाता स्थिति निर्धारण गरिदैँ…">
+<!ENTITY determiningAcctStatus.label     "तपाईँको खाता स्थिति निर्धारण गरिदैँ…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or

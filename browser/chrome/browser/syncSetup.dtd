@@ -50,7 +50,7 @@
 <!ENTITY recoveryKeyEntry.label        "तपाईँको पुनर्स्थापना साँचो">
 <!ENTITY recoveryKeyEntry.accesskey    "स">
 <!ENTITY syncGenerateNewKey.label  "नयाँ कुञ्जी उत्पन्न गर्नुहोस्">
-<!ENTITY recoveryKeyBackup.description "अरु यन्त्रबाट &syncBrand.fullName.label;मा प्रवेश गर्नको लागि तपाईको रिकोभरि कि चाहिन्छ।कृपया एउटा जगेडा प्रतिलिपि बनाउनुहोस्।तपाईको रिकोभरि कि पुनः प्राप्त गर्न हामीले मदत गर्न सक्दैनाै।">
+<!ENTITY recoveryKeyBackup.description "अरु यन्त्रबाट &syncBrand.fullName.label;मा प्रवेश गर्नको लागि तपाईँको रिकोभरी कि चाहिन्छ।कृपया एउटा जगेडा प्रतिलिपि बनाउनुहोस्।तपाईँको रिकोभरि कि पुनः प्राप्त गर्न हामीले मद्दत गर्न सक्दैनाैँ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "Pring...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "साइन इन गर्नुहोस्">
-<!ENTITY existingRecoveryKey.description "अर्को उपकरणको &syncBrand.shortName.label; विकल्पमा गइ  &quot;खाता प्रबन्ध&quot; अनतर्गत &quot;मेरो रिकोभरि&quot; चयन गरि तपाईले आफ्नो रिकोभरि कि को प्रतिलिपि प्राप्त गर्न सक्नुहुनेछ।">
+<!ENTITY existingRecoveryKey.description "अर्को उपकरणको &syncBrand.shortName.label; विकल्पमा गएर  &quot;खाता प्रबन्ध&quot; अनतर्गत &quot;मेरो रिकोभरी&quot; चयन गरेर तपाईँले आफ्नो रिकोभरी किको प्रतिलिपि प्राप्त गर्न सक्नुहुनेछ।">
 <!ENTITY verifying.label              "रूजु गर्दै…">
 <!ENTITY resetPassword.label          "पासवर्ड रिसेट गर्नुहोस्">
 <!ENTITY resetSyncKey.label           "मैले मेरो अर्को उपकरण हराएँ।">
@@ -103,12 +103,12 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि गर्नुहोस्">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ले अब तपाईंको सिङ्क खातामा सबै उपकरणको ब्राउजर डाटा मर्ज गर्नेछ।">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ले अब तपाईँको सिङ्क खातामा सबै उपकरणको ब्राउजर डाटा मर्ज गर्नेछ।">
 <!ENTITY confirm.client3.label         "चेतावनी: यस उपकरणमा निम्न &brandShortName; डाटा  मेटिने छ:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ले त्यसपछि यो उपकरणमा तपाईँको &syncBrand.fullName.label; डाटा प्रतिलिपि गर्नेछ।">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्न उपकरणहरूमा तपाईँको स्थानीय डाटा अधिलेखित गरिनेछ:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "सेटअप समाप्त">
-<!ENTITY changeOptions.label "तपाईं तलबाट सिङ्क विकल्प चयन गरेर यस प्राथमिकता परिवर्तन गर्न सक्नुहुन्छ।">
-<!ENTITY continueUsing.label "तपाईं अब &brandShortName; उपयोग जारी हुन सक्छ।">
+<!ENTITY changeOptions.label "तपाईँ तलबाट सिङ्क विकल्प चयन गरेर यस प्राथमिकता परिवर्तन गर्न सक्नुहुन्छ।">
+<!ENTITY continueUsing.label "तपाईँ अब &brandShortName; उपयोग जारी हुन सक्छ।">
