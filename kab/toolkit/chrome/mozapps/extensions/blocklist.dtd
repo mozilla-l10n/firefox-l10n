@@ -5,8 +5,8 @@
 <!ENTITY blocklist.title             "Izegrar imernan izemren ad gren uguren">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; yufa-d d akken izegrar agi iùernan sarawen-d uguren n urkad ne n tɣellist:">
-
-
+<!ENTITY blocklist.softblocked       "I ummesten inek, yelha limer ad tekkseḍ izegrar sakin senker tikelt nniḍen.">
+<!ENTITY blocklist.hardblocked       "Izegrar agi ur d-ttawin ara arkad akked tɣellist, ihi ttusweḥlen, acukan yessefk ad tesnekreḍ tikelt nniḍen akken ad yettwakkes urmad nsen.">
 
 <!ENTITY blocklist.moreinfo          "Ugar n telɣut">
 
