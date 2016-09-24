@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,9 +17,9 @@
 
 <!ENTITY appmenu.tooltip                     "Buksan ang menu">
 <!ENTITY navbarOverflow.label                "Marami pang tools...">
-<!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "E-load ang Tab">
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "I-reload ang Tab">
 <!ENTITY  reloadTab.accesskey                "E">
 <!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tabs">
 <!ENTITY  reloadAllTabs.accesskey            "L">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Isara ang Ibang Tabs">
 <!ENTITY  closeOtherTabs.accesskey           "o">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "I-pin ang Tab">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "I-unpin ang Tab">
@@ -52,10 +52,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 
 
-
-
-
-
 <!ENTITY tabCmd.label "Bagong Tab">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -65,10 +61,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Magbukas ng file…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
-
-
-
-
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
@@ -76,16 +68,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
 <!ENTITY goOfflineCmd.accesskey "G">
 
-
-
 <!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
-
-
-
-
-
 
 
 <!ENTITY pageSourceCmd.label "Source code ng web page">
@@ -94,8 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
@@ -110,105 +93,55 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
-
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
 <!ENTITY fullScreenAutohide.accesskey "I">
 <!ENTITY fullScreenExit.label "Itigil ang pag-gamit ng buong screen">
 <!ENTITY fullScreenExit.accesskey "I">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
 
 <!ENTITY closeWindow.label "Isara ang Window">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Mga bukmark">
 <!ENTITY bookmarksMenu.accesskey "b">
-
 <!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-
-
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
-
-
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
-
-
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
-
-
-
-
 <!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
-
 <!ENTITY forwardButton.tooltip        "Pumunta sa susunod na web page">
 <!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
-
-
 <!ENTITY reloadButton.tooltip         "I-reload ang kasalukuyang web page">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ihinto ang pagkakarga ng pahina">
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
-
-
-
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -218,18 +151,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY searchItem.title             "Hanapin">
-<!-- Toolbar items -->
+
+<!-- Toolbar items --> 
 
 <!ENTITY bookmarksCmd.commandkey "b">
 
-
-
 <!ENTITY viewBookmarksToolbar.label         "Tingnan ang Bookmarks Toolbar">
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "H">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -244,47 +176,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Mga Download">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
 <!ENTITY addons.label                 "Mga Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 
-
 <!ENTITY inspectContextMenu.accesskey "I">
 
-
-
-
+ 
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 
-
-
-
-
-
+ 
+ 
+  
 <!ENTITY undoCmd.key            "Z">  
-
+ 
 <!ENTITY redoCmd.label            "Ulitin">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "U"> 
-
+  
 <!ENTITY cutCmd.key             "X">  
-
-
+ 
+  
 <!ENTITY copyCmd.key            "C">  
-
-
+ 
+  
 <!ENTITY pasteCmd.key           "V">  
-
+ 
 <!ENTITY deleteCmd.label          "Burahin">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "B"> 
-
+  
 <!ENTITY selectAllCmd.key         "A">  
-
+ 
 <!ENTITY preferencesCmd2.label       "Options">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Mga Preferences">
@@ -297,29 +223,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "T"> 
 <!ENTITY viewToolbarsMenu.label       "Mga Toolbars"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-
-
 <!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
-
-
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Bagong Sarang mga Window">
 
-
 <!ENTITY showAllHistoryCmd.commandkey "I">
 
 <!ENTITY appMenuCustomize.label "I-Customize">
-
-
-
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -329,38 +241,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 
-
-
-
-
-
-
-
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
-
-
-
-
-
 
 
 <!-- 
@@ -385,9 +274,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -400,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -409,23 +300,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 
 
-
-
-
 <!ENTITY openLinkCmdInTab.label       "Buksan ang Link sa Bagong Tab">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY openLinkCmd.accesskey        "W">
-
-
 <!ENTITY openLinkCmdInCurrent.label     "Open Link">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "Buksan ang Frame sa Bagong Tab">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -450,93 +334,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
-
-
 <!ENTITY viewVideoCmd.label           "Tanawan ang Bidyo">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ipakita ang Background Image">
 <!ENTITY viewBGImageCmd.accesskey     "k">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
-
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "M">
-
 <!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "I-print ang Frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
-
-
-
-
-
-
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
 <!ENTITY copyImageCmd.accesskey       "o">
-
-
+ 
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-
-
 <!ENTITY thisFrameMenu.label              "Eto ang Frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -555,6 +394,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Itago ang Statistics">
 <!ENTITY videoHideStats.accesskey    "S">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -562,10 +402,8 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -577,15 +415,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
 <!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-
-
+ 
 <!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
@@ -598,8 +431,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Walang Style">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-
-
 
 <!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this web site">
 
@@ -621,40 +452,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
 <!ENTITY findOnCmd.accesskey "H">
 <!ENTITY findOnCmd.commandkey "f">
-
-
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 
 
-
-
-
-
-
-
-
 <!-- Strings for connection state warnings. -->
 
-
-
 <!-- Strings for connection state warnings in the subview. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -663,21 +469,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-
-
-
 
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
@@ -688,111 +485,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY social.learnMore.label "Alamin pa">
-<!ENTITY social.learnMore.accesskey "A">
-
-
-
 <!ENTITY social.directory.introText "E click ang serbisyo para maidagdag sa &brandShortName;.">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
-
-
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-
 <!ENTITY pluginBlockNow.label "I-block ang Plugin">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
+
 
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-
-
-
 
 
 
