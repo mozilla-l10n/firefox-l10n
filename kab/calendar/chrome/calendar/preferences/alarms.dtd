@@ -5,25 +5,25 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+<!ENTITY pref.playasound "Urar imesli">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 
 
+<!ENTITY pref.calendar.alarms.sound.browse.label "Snirem…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "S">
+<!ENTITY pref.calendar.alarms.sound.play.label "Urar">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "U">
 
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.defalarm4events.label "Aɣewwaṛ n usmekti amezwer i tedyanin:">
+<!ENTITY pref.defalarm4events.accesskey "ɣ">
+<!ENTITY pref.defalarm4todos.label "Aɣewwaṛ n usmekti amezwer i twuriwin:">
+<!ENTITY pref.defalarm4todos.accesskey "ɣ">
+<!ENTITY pref.alarm.on "Yermed">
+<!ENTITY pref.alarm.off "Ur yermid ara">
 
 
 
