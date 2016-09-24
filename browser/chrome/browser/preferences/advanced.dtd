@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Aprender más">
 
 <!ENTITY networkTab.label                "Red">
