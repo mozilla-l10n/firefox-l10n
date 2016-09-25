@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "C">
 <!ENTITY telemetryLearnMore.label        "Deprender más">
 
+<!ENTITY crashReporterDesc2.label         "Los informes de fallu ayuden a &vendorShortName; a iguar problemes y facer más estable y seguru'l to restolador.">
+<!ENTITY alwaysSubmitCrashReports.label   "Permitir que &brandShortName; unvie casques atrasaos nel to nome">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Deprender más">
 
 <!ENTITY networkTab.label                "Rede">
