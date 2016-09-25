@@ -41,8 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
 
 <!ENTITY crashReporterDesc2.label         "क्रयास् रिपोटले &vendorShortName; लाई समस्या समाधान गर्न मद्दत गर्छ र तपाईँको ब्राउजरलाई स्थिर र सुरक्षित बनाउँछ">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; लाई तपाईँको तर्फबाट ब्याकलग क्रयास् रिपोट पठाउन अनुमति दिनुहोस्">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY networkTab.label                "नेटवर्क">
