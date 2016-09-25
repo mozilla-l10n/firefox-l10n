@@ -2,51 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY windowTitle "Firefox WebIDE">
 
 
 
@@ -61,87 +17,33 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "Tabs">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
 <!ENTITY details_description "Paglalarawan">
 <!ENTITY details_location "Lokasyon">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Isara">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "Pangkalahatan">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
-
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 
@@ -159,17 +61,6 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
 <!ENTITY simulator_version "Bersyon">
-
-
-
-
-
-
-
-

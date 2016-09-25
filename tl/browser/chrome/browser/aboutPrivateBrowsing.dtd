@@ -22,6 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "mga bookmark">
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing  ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ay hindi ka ginagawang anonymous">
+<!ENTITY aboutPrivateBrowsing.note.after                 " sa Internet. Maaari pa ring malaman ng iyong employer o ng iyong Internet service provider kung anu-anong webpage ang binisita mo.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Matuto pa ukol sa">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
 
