@@ -23,13 +23,15 @@
 
 <!ENTITY firstrun_tabqueue_title "लिंक">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-
+<!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करें">
+<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; में बाद के लिए श्रृंखला सहेजें ‌उन्हें अन्य एप्स में करने के दौरान ‌">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
 
 
 <!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "अव्यवस्था छोडें ">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
@@ -45,6 +47,8 @@
 
 <!ENTITY  switch_to_tab "टैब पर जाएँ">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "ऑफलाइन संस्करण दिखाएँ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रैश रिपोर्टर">
 <!ENTITY  crash_message2 "&brandShortName; किसी वजह से क्रैश कर गया. जब आप फिर शुरू करें तब आपके टैब &brandShortName; के पहले पन्ने पर सूचीबद्ध होने चाहिए.">
@@ -268,11 +272,17 @@
 <!ENTITY pref_whats_new_notification_summary "अद्यतन के बाद नई विशेषताओ के बारे में जाने">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "प्रायोगिक विशेषताएँ">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "मनपसंद टैब">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "गतिविधि धारा">
 
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रैकिंग संरक्षण के साथ">
@@ -322,6 +332,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "&formatS; पर अद्यतन हुआ ">
 
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
@@ -567,10 +578,11 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; घर">
 <!ENTITY home_history_title "इतिहास">
-
-
+<!ENTITY home_synced_devices_smartfolder "संकलित उपकरण">
+<!ENTITY home_synced_devices_number "&formatD; उपकरण">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "1उपकरण">
+<!ENTITY home_history_back_to2 "पूर्ण इतिहास पर वापस जायें ">
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
 <!ENTITY home_bookmarks_empty "आपके सहेजे पुस्तचिह्न यहाँ दिखेंगे.">
@@ -807,6 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "मुख्य स्क्रीन में जोड़ें">
 
+<!ENTITY helper_first_offline_bookmark_title "ऑफलाइन पढ़ें">
 
 
 
