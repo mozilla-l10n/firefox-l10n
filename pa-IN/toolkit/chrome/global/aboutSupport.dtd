@@ -74,6 +74,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Finder ਵਿੱਚ ਵੇਖਾਓ">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ਖਾਸ ਬਦਲੀਆਂ ਗਈਆਂ ਪਸੰਦ">
 <!ENTITY aboutSupport.modifiedPrefsName "ਨਾਂ">

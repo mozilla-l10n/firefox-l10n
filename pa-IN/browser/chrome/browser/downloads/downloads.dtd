@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "Clear Preview Panel">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Open Downloads Folder">
 
 <!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearDownloadsButton.tooltip     "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
