@@ -30,7 +30,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "বুকমার্ক মেনু">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label ".">
 <!ENTITY bookmarks.folder.tags.label "ট্যাগ">
 <!ENTITY bookmarks.folder.toolbar.label "বুকমার্ক টুলবার">
 <!ENTITY bookmarks.folder.other.label "অন্যান্য বুকমার্কসমূহ">
