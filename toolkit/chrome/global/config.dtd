@@ -38,7 +38,7 @@
 <!ENTITY modify.accesskey "E">
 <!ENTITY toggle.label "Inverter valor">
 <!ENTITY toggle.accesskey "I">
-<!ENTITY reset.label "Restaurar o padrão">
+<!ENTITY reset.label "Redefinir">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nova preferência">
 <!ENTITY new.accesskey "N">
