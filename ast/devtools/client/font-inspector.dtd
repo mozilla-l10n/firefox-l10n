@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "Ver toles fontes usaes nesta páxina">
+<!ENTITY showAllFontsUsed "Amosar toles fontes usaes">
 <!ENTITY usedAs "Úsase como: ">
 <!ENTITY system "sistema">
 <!ENTITY remote "remota">
