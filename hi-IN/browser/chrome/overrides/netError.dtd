@@ -68,6 +68,7 @@
 <!ENTITY unknownSocketType.title " सर्वर से अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>सुनिश्चित करने के लिए जाँचें कि आपके सिस्टम में निजी सुरक्षा प्रबंधक स्थापित है.</li> <li>यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.</li> </ul>">
 
+<!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि प्राप्त आंकड़ा की प्रमाणिकता जांची नहीं जा सकी.</li> <li>कृपया वेब साइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> </ul>">
 
 <!-- Localization note (certerror.introPara) - The text content of the span tag
