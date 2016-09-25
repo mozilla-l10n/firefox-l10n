@@ -41,7 +41,7 @@
 <!ENTITY telemetryLearnMore.label        "আরও জানুন…">
 
 <!ENTITY crashReporterDesc2.label         "ক্র্যাশ প্রতিবেদনগুলি &vendorShortName; কে সাহায্য করে; সমস্যাগুলি ঠিক করুন এবং আপনার ব্রাউজার আরো স্থিতিশীল এবং নিরাপদ করুন">
-<!ENTITY alwaysSubmitCrashReports.label   "আপনার পক্ষ থেকে যাতে backlogged ক্র্যাশ রিপোর্টগুলো প্রেরণ করার জন্যে &vendorShortName; কে অনুমতি দিন">
+<!ENTITY alwaysSubmitCrashReports.label   "আপনার backlogged জমে থাকা ক্র্যাশ রিপোর্ট প্রেরণ করার জন্যে &brandShortName; কে অনুমতি দিন">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "আরও জানুন…">
 
