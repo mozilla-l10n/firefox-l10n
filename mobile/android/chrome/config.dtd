@@ -12,9 +12,9 @@
 <!ENTITY newPref.valueInteger          "Inteiro">
 
 <!ENTITY newPref.stringPlaceholder     "Forneça uma string">
-<!ENTITY newPref.numberPlaceholder     "Forneça um número inteiro">
+<!ENTITY newPref.numberPlaceholder     "Digite um número">
 
-<!ENTITY newPref.toggleButton          "Inverter valor">
+<!ENTITY newPref.toggleButton          "Alternar">
 <!ENTITY newPref.cancelButton          "Cancelar">
 
 <!ENTITY contextMenu.copyPrefName      "Copiar nome">
