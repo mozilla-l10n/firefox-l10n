@@ -93,6 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "రిమోట్ డీబగ్గింగ్ చేతనంచేయి">
+<!ENTITY options.enableRemote.tooltip2  "ఈ ఐచ్చికం ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -121,6 +122,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "అన్ని డెవెలపర్ టూల్స్">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
