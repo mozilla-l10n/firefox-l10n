@@ -15,7 +15,7 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "खोज">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "कुकीज़">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फाइलें">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "सहेज दिया जायेगा">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "आपका:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "डाउनलोड्स">
