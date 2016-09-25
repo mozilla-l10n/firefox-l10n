@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "আপনি এই ওয়েব সাইটের জন্য আপনার মাইক্রোফোন ব্লক করেছেন।">
 
 <!ENTITY urlbar.geolocationBlocked.tooltip       "আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন।">
-
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "আপনি এই ওয়েব সাইটের জন্য ডাটা স্টোরেজ ব্লক করেছেন।">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "সার্চ সেটিংস বদল করুন">
-
+<!ENTITY changeSearchSettings.tooltip "অনুসন্ধানের সেটিংস বদল করুন">
 
 <!ENTITY searchInNewTab.label         "নতুন ট্যাবে অনুসন্ধান T">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "অনুমোদন (P)">
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
-
+<!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পৃষ্ঠাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
