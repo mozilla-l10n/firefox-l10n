@@ -283,7 +283,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
-
+<!ENTITY pref_activity_stream_summary "आप मुख्यतः जो पाना चाहते हैं उसे &brandShortName; में ढूँढ़ने की अपेक्षा एक बहुमूल्य दृश्य इतिहास फ़ीड और रीइमेजिनेड आमुख इसे आसान बनाता है ">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रैकिंग संरक्षण के साथ">
 <!ENTITY tracking_protection_prompt_text "सक्रिय रूप से ट्रैकिंग तत्वों को अवरोध करता है इसीलिए आपको चिंता करने की जरुरत नही हैं.">

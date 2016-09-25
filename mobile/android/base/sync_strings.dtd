@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label "टैग">
 <!ENTITY bookmarks.folder.toolbar.label "पुस्तचिह्न औज़ारपट्टी">
 <!ENTITY bookmarks.folder.other.label "अन्य पुस्तचिह्न">
-<!ENTITY bookmarks.folder.desktop.label "Desktop Bookmarks">
+<!ENTITY bookmarks.folder.desktop.label "डेस्कटॉप पुस्तचिह्न">
 <!ENTITY bookmarks.folder.mobile.label "मोबाइल पुस्तचिह्न">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "टांगा हुआ">
