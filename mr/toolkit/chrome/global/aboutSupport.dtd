@@ -116,5 +116,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय यादी">
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्रॅश गार्ड निष्क्रिय वैशिष्ट्ये">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "वर्कअरोउंड्स">
