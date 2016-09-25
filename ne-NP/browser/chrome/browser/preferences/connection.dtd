@@ -5,7 +5,7 @@
 
 <!ENTITY  connectionsDialog.title       "३७ em">
 <!ENTITY  window.width2                 "49em">
-
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "इन्टरनेट पहुँच गर्न प्रोक्सिहरू कन्फिगर गर्नुहोस्">
 <!ENTITY  noProxyTypeRadio.label        "प्रोक्सी प्रयोग नगर्नु">

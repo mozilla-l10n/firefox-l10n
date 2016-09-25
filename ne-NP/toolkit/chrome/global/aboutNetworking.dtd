@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "सञ्जालीकरणको बारेमा">
-<!ENTITY aboutNetworking.warning               "यो धेरै प्रयोगात्मक छ . कुनै वयस्कको पर्यवेक्षणको  बिना उपयोग नगर्नुहोस् ">
+<!ENTITY aboutNetworking.warning               "यो धेरै प्रयोगात्मक छ। कुनै वयस्कको पर्यवेक्षणको बिना उपयोग नगर्नुहोस्।">
 <!ENTITY aboutNetworking.showNextTime          "यो चेतावनी अर्को पटक देखाउनुहोस्">
 <!ENTITY aboutNetworking.ok                    "ठिक छ">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
