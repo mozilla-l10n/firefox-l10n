@@ -485,7 +485,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
 <!ENTITY viewBGImageCmd.accesskey     "พ">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">

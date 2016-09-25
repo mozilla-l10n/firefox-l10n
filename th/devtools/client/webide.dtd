@@ -6,6 +6,7 @@
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_debug_label "แก้จุดบกพร่องแอพ">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
+<!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
@@ -32,6 +33,7 @@
 <!ENTITY projectPanel_tabs "แท็บ">
 <!ENTITY runtimePanel_other "อื่น ๆ">
 <!ENTITY runtimePanel_nousbdevice "ไม่พบอุปกรณ์ของคุณ?">
+<!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "ถูกต้อง">
