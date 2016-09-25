@@ -8,19 +8,19 @@
 <!ENTITY zoomWindow.label         "जुम गर्नुहोस्">
 <!ENTITY windowMenu.label         "सञ्झ्याल">
 
-<!ENTITY helpMenu.label           "मद्दत"> 
+<!ENTITY helpMenu.label           "सहयोग"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "सहयोग"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.label      "&brandShorterName; को बारेमा">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; सहयोग">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
+<!ENTITY helpKeyboardShortcuts.label     "कुञ्जीपाटी सर्टकटहरू">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
@@ -31,10 +31,10 @@
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting सुचना">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Submit प्रतिक्रिया…">
+<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिनुहोस्…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tour">

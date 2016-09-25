@@ -28,7 +28,7 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "दाँयातिरका ट्याबहरू बन्द गर्नुहोस्">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "अन्य ट्याबहरू बन्द गर्नुहोस् ">
+<!ENTITY  closeOtherTabs.label               "अन्य ट्याबहरू बन्द गर्नुहोस्">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -36,13 +36,13 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ट्याबलाई पिन गर्नुहोस">
+<!ENTITY  pinTab.label                       "ट्याबलाई पिन गर्नुहोस्">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ट्याबलाई अनपिन गर्नुहोस्">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "साधन मा ट्याब पठाउनुहोस">
-<!ENTITY  sendTabToDevice.accesskey          "स">
-<!ENTITY  sendPageToDevice.label             "उपकरणमा पृष्ठ पठाउनुहोस्">
+<!ENTITY  sendTabToDevice.label              "ट्याब उपकरणमा पठाउनुहोस्">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "पृष्ठ उपकरणमा पठाउनुहोस्">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "उपकरणमा लिङ्क पठाउनुहोस्">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
