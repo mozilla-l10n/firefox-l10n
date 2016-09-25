@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "‌600">
+<!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C‌‌">
@@ -38,7 +38,7 @@
 <!ENTITY  mediaDimension        "आया‌म:">
 <!ENTITY  mediaLongdesc         "लंबा विव‌रण:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "के रूप मेंं सहेजें…">
+<!ENTITY  mediaSaveAs           "ऐसे सहेजें…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "मीडिया पूर्वावलोकन‌:">
@@ -69,8 +69,8 @@
 
 
 <!ENTITY  securityView.identity.header   "वेब साइट‌ सुरक्षा">
-<!ENTITY  securityView.identity.owner    "स्वामी‌: ">
-<!ENTITY  securityView.identity.domain   "वेब साइट‌: ">
+<!ENTITY  securityView.identity.owner    "स्वामी‌:">
+<!ENTITY  securityView.identity.domain   "वेब साइट‌:">
 <!ENTITY  securityView.identity.verifier "इसके द्वारा सत्यापित: ‌">
 
 <!ENTITY  securityView.privacy.header                   "गोपनीयता व इतिहास‌">
