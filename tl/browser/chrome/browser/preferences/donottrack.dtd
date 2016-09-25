@@ -5,4 +5,5 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 

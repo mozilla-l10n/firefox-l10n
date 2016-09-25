@@ -4,10 +4,7 @@
 
 <!ENTITY lookInMenuList.label   "Hanapin sa:">
 <!ENTITY lookInMenuList.accesskey   "H">
-
-
-
-
+<!ENTITY textInput.accesskey        "n">
 <!ENTITY name.label             "Pangalan">
 <!ENTITY size.label             "Sukat">
 <!ENTITY lastModified.label     "Huling Binago">
@@ -15,6 +12,5 @@
 <!ENTITY showHiddenFiles.accesskey  "s">
 
 <!ENTITY noPermissionError.label "Wala kayong pahintulot na tingnan ang directory na ito.">
-
 
 <!ENTITY folderNew.tooltiptext  "Gumawa ng bagong direktory">

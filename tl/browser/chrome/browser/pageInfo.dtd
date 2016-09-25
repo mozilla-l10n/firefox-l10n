@@ -4,25 +4,17 @@
 
 <!ENTITY  pageInfoWindow.width  "600">
 
-
 <!ENTITY  copy.key              "C">
-
-
+<!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-
-
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Pangkalahatan">
 <!ENTITY  generalTab.accesskey  "g">
-
 <!ENTITY  generalType           "Uri:">
-
 <!ENTITY  generalSize           "Sukat:">
 <!ENTITY  generalReferrer       "Pinanggalingan na URL:">
-
 <!ENTITY  generalModified       "Ayusin:">
-
 <!ENTITY  generalMetaName       "Pangalan">
 <!ENTITY  generalMetaContent    "Nilalaman">
 
@@ -31,14 +23,11 @@
 <!ENTITY  mediaLocation         "Lokasyon:">
 <!ENTITY  mediaText             "Kaugnay na Text:">
 <!ENTITY  mediaAltHeader        "Alternate na Text">
-
-
 <!ENTITY  mediaSize             "Sukat">
 <!ENTITY  mediaCount            "Bilang">
 <!ENTITY  mediaDimension        "Mga sukat:">
 <!ENTITY  mediaLongdesc         "mahabang paglalarawan:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Preview ng Media:">
@@ -52,7 +41,6 @@
 <!ENTITY  permUseDefault        "Gamitin ang Nakatakda">
 <!ENTITY  permAskAlways         "Palaging itanong">
 <!ENTITY  permAllow             "Payagan">
-
 <!ENTITY  permBlock             "Harangin">
 <!ENTITY  permissionsFor        "Mga Pahintulot para sa:">
 <!ENTITY  permPlugins           "I-activate ang mga Plugin">

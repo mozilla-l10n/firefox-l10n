@@ -4,39 +4,13 @@
 
 <!ENTITY print.label          "I-print...">
 <!ENTITY print.accesskey      "p">
-
-
+<!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Pahina:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "ng">
-
-
-
-
-
-
 <!ENTITY close.label          "Close">
 <!ENTITY close.accesskey      "C">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY homearrow.tooltip    "Unang pahina">
 <!ENTITY endarrow.tooltip     "Huling pahina">
 <!ENTITY nextarrow.tooltip    "Susunod na pahina">
-
