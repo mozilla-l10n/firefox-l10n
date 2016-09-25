@@ -66,13 +66,13 @@
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
-<!ENTITY btnConsoleSharedWorkers "साझा वर्कर्स">
+<!ENTITY btnConsoleSharedWorkers "साझा श्रमिक">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleServiceWorkers "सर्विस वर्कर्स">
+<!ENTITY btnConsoleServiceWorkers "सर्विस श्रमिक">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "ऐड-ऑन या क्रोम वर्कर्स">
+<!ENTITY btnConsoleWindowlessWorkers "ऐड-ऑन या क्रोम श्रमिक">
 
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
 <!ENTITY btnClear.label        "साफ़ करें">
