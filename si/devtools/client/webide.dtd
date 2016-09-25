@@ -6,11 +6,14 @@
 
 <!ENTITY projectMenu_label "ව්‍යාපෘතිය">
 <!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "නව යෙදුම...">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ස්ථාපනය කර ධාවනය කරන්න">
 <!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "ඇපය නවත්වන්න">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_accesskey "R">

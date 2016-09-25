@@ -26,3 +26,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "සෙවුම් යන්ත්‍රය මාරු කරන්න">
+<!ENTITY searchreset.changeEngineButton.access "C">
