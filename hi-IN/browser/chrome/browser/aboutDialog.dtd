@@ -23,7 +23,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  " &vendorShortName;">
-<!ENTITY community.exp.middle       "एक है.">
+<!ENTITY community.exp.middle       "एक है">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  " वैश्विक समुदाय है">
 <!ENTITY community.exp.end          "जो वेब को खुला, सार्वजनिक और सभी की पहुँच के लिए बने रहने देने के लिए काम करते हैं.">
@@ -33,13 +33,13 @@
 <!ENTITY community.mozillaLink      " &vendorShortName;">
 <!ENTITY community.middle2          ", एक">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "वैश्विक समुदाय ">
-<!ENTITY community.end3             "जो वेब को खुला, सार्वजनिक और सभी की पहुँच के लिए बने रहने देने के लिए काम करते हैं. ">
+<!ENTITY community.creditsLink      "वैश्विक समुदाय">
+<!ENTITY community.end3             "जो वेब को खुला, सार्वजनिक और सभी की पहुँच के लिए बने रहने देने के लिए काम करते हैं.">
 
 <!ENTITY helpus.start               "मदद करना चाहते हैं? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "दान करें">
-<!ENTITY helpus.middle              "या">
+<!ENTITY helpus.middle              " या ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "शामिल हों!">
 <!ENTITY helpus.end                 "अथवा">
@@ -70,7 +70,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "अद्यतन विफल.">
+<!ENTITY update.failed.start        "अद्यतन विफल. ">
 <!ENTITY update.failed.linkText     " नवीनत संस्करण डाउनलोड करें">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -78,7 +78,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "उपलब्ध अद्यतन">
+<!ENTITY update.manual.start        "उपलब्ध अद्यतन ">
 <!ENTITY update.manual.end          "f">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "आप इस तंत्र पर आगे अद्यतन नहीं कर सकते हैं.">
+<!ENTITY update.unsupported.start    "आप इस तंत्र पर आगे अद्यतन नहीं कर सकते हैं. ">
 <!ENTITY update.unsupported.linkText "अधिक जानें.">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -105,4 +105,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "आप अभी यहाँ हैं ">
-<!ENTITY channel.description.end    "चैनल अद्यतन करें.">
+<!ENTITY channel.description.end    " चैनल अद्यतन करें. ">
