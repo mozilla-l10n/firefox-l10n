@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Tukar Kata laluan Induk…">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
-<!ENTITY  savedLogins.label              "Login Tersimpan…">
+<!ENTITY  savedLogins.label              "Log masuk Tersimpan…">
 <!ENTITY  savedLogins.accesskey          "L">

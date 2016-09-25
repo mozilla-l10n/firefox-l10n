@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "Data Laman web Luar Talian">
 <!ENTITY itemOfflineApps.accesskey         "D">
-<!ENTITY itemActiveLogins.label            "Login Aktif">
+<!ENTITY itemActiveLogins.label            "Log masuk Aktif">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Keutamaan Laman">
 <!ENTITY itemSitePreferences.accesskey     "K">
