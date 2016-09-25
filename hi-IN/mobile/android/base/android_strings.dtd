@@ -269,6 +269,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम करें">
 <!ENTITY pref_tracking_protection_disabled "अक्षम करें">
 
+<!ENTITY pref_whats_new_notification "&brandShortName; में क्या नया है ">
 <!ENTITY pref_whats_new_notification_summary "अद्यतन के बाद नई विशेषताओ के बारे में जाने">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -346,7 +347,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें">
 <!ENTITY pref_plugins "प्लगइन">
 <!ENTITY pref_plugins_enabled "सक्षम">
-
+<!ENTITY pref_plugins_tap_to_play2 "चलाने के लिए स्पर्श करें ">
 <!ENTITY pref_plugins_disabled "अक्षम">
 <!ENTITY pref_text_size "पाठ आकार">
 <!ENTITY pref_restore_tabs "टैब पुनर्बहाल करें">
