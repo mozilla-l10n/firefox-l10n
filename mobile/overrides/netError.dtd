@@ -82,7 +82,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
-
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; इस प्रकार से पृष्ठ लोड होने से रोका गया गया क्योंकि पृष्ठ के पास अंतर्वस्तु सुरक्षा नीति है जो इसे अनुमति नही देता है.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि आंकड़ा संचारण में त्रुटि पाया गया.</p><ul><li>कृपया वेबसाइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li></ul>">
@@ -94,6 +94,9 @@
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>यदि आप इंटरनेट संपर्क का उपयोग कर रहे हैं  जिस पर आप पूर्ण से विश्वास नहीं करते हैं या आप इस सर्वर के लिए चेतावनी नहीं देख पा रहे हैं तो आपको अपवाद नहीं जोड़ना चाहिए .</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट स्वामी को इस समस्या के बारे में सूचित करने के संपर्क करें.</li></ul></p>">
