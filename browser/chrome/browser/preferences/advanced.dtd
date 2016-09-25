@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "మరింత తెలుసుకోండి">
 
+<!ENTITY crashReporterDesc2.label         "క్రాష్ నివేదికల సహాయమ్ &vendorShortName; సమస్యలు పరిష్కరించండి మరియు మీ బ్రౌసెర్ని మరింత స్థిరంగా మరియు భద్రంగా చెయ్యండి">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; మీ తరపున backlogged క్రాష్ నివేదికలను పంపడానికి అనుమతించండి">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "మరింత నేర్చుకోండి">
 
 <!ENTITY networkTab.label                "నెట్వర్క్">
