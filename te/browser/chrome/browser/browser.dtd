@@ -208,7 +208,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశం యొక్క పానెల్ తెరువండి">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "నగర అభ్యర్థన ప్యానెల్ ఓపెన్చెయ్యండి">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "సంస్థాపన సందేశం ప్యానెల్ లను ఒపెన్ చెయ్యండి">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్లైన్ నిల్వ సందేశాన్ని ప్యానెల్ ఓపెన్ చెయ్యండి">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్వర్డ్ సందేశాన్ని సేవ్ ప్యానెల్ ని ఒపెన్ చెయ్యండి">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించుకోండి">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ఈ సైటుతో మీ కిటికీలను లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ఈ పేజీని అనువదించండి">
 
@@ -411,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
+<!ENTITY contentSearchSubmit.tooltip  "శోధన సమర్పించండి">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -436,6 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "అన్వేషణ అమర్పులను మార్చు">
+<!ENTITY changeSearchSettings.tooltip "సెట్టింగుల శొదన మార్చండి">
 
 <!ENTITY searchInNewTab.label         "కొత్త టాబులో వెతుకు">
 <!ENTITY searchInNewTab.accesskey     "T">
