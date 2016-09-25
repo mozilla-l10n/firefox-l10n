@@ -19,11 +19,13 @@
 <!-- point 2.5 text for official branded builds -->
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "ඇතැම් &brandShortName; විශේශාංග ජාලගත තොරතුරු සේවා භාවිත කරයි, කෙසේ වුවත්, අපට ඒවා 100&#037; නිවැරදි හා දෝශ රහිත ලෙස වගකිව නොහැක. එම සේවා භාවිත කරන විශේෂාංග අක්‍රීය කිරීමද ඇතුළුව තවත් තොරතුරු දැනගැනීමට පිවිසෙන්න ">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 

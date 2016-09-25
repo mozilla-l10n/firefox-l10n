@@ -16,6 +16,7 @@
 <!ENTITY projectMenu_stop_label "ඇපය නවත්වන්න">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "ව්‍යාපෘතිය ඉවත් කරන ලදි">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "අභිප්‍රේත">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
