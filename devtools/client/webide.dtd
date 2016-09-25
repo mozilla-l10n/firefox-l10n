@@ -93,7 +93,7 @@
 <!ENTITY details_warning_header "alertas">
 <!ENTITY details_error_header "erros">
 <!ENTITY details_description "Descrição">
-<!ENTITY details_location "Localização">
+<!ENTITY details_location "Location">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Remover projeto">
 <!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
