@@ -4,8 +4,10 @@
 
 
 <!ENTITY  connectionsDialog.title       "Axustes de conexón">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "Configurar proxies pal accesu a Internet">
+<!ENTITY  proxyTitle.label              "Configurar proxies p'acceder a internet">
 <!ENTITY  noProxyTypeRadio.label        "Ensin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar los datos de proxy del sistema">
