@@ -178,8 +178,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "Compartilhar este vídeo">
 <!ENTITY shareVideo.accesskey "h">
 <!ENTITY feedsMenu2.label "Subscrever para esta página">
-<!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
-<!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
+<!ENTITY subscribeToPageMenupopup.label "Subscrever para esta página">
+<!ENTITY subscribeToPageMenuitem.label "Subscrever para esta página…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
@@ -191,10 +191,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Voltar">
-<!ENTITY backButton.tooltip           "Página anterior">
+<!ENTITY backButton.tooltip           "Voltar uma página">
 <!ENTITY forwardCmd.label             "Avançar">
-<!ENTITY forwardButton.tooltip        "Próxima página">
-<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou clique movendo o mouse para baixo para ver o histórico">
+<!ENTITY forwardButton.tooltip        "Avançar uma página">
+<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar a história">
 <!ENTITY backForwardButtonMenuMac.tooltip "Puxe-o para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
