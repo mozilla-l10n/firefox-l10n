@@ -23,7 +23,8 @@
 <!ENTITY fileNotFound.title "फाइल नहीं मिली">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "फ़ाइल तक पहुँच रद्द की गयी">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>इसे हटाया, खिसकाया जा सकता है या फाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li> </ul>">
 
 <!ENTITY generic.title "ओफ्फ.">
 
@@ -67,7 +68,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>जाँचें और यह सुनिश्चत करें कि प्रॉक्सी सेटिंग्स सही हैं.</li> <li>जाँचें और यह सुनिश्चत करें कि आपके साधन का डाटा या वाई-फाई कनेक्शन शुरू है. <button id='wifi'>वाई-फाई शुरू करें</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
-<!ENTITY redirectLoop.longDesc "<ul> <li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होती है.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>यह समस्या कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होती है.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर से अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>सुनिश्चित करने के लिए जाँचें कि आपका सिस्टम निजी सुरक्षा प्रबंधक संस्थापित रखे है.</li> <li>यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.</li> </ul>">
@@ -113,3 +114,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "आपका संपर्क असुरक्षित है">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>सुरक्षा तकनीक उपयोग करता है जो आपेक्ष के लिए पुराना और भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है. जिसे आप सुरक्षित समझते हैं.वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करन होगा.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
