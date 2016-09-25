@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY refreshProfile.dialog.title         "เรียก &brandShortName; ใหม่">
+<!ENTITY refreshProfile.dialog.title         "ตั้งค่า &brandShortName; ใหม่">
 <!ENTITY refreshProfile.dialog.description1  "เริ่มใหม่เพื่อแก้ไขปัญหาและเรียกคืนประสิทธิภาพ">
 <!ENTITY refreshProfile.dialog.description2  "สิ่งนี้จะ:">
 <!ENTITY refreshProfile.dialog.items.label1  "เอาส่วนเสริมและการปรับแต่งของคุณออก">

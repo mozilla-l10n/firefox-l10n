@@ -47,7 +47,7 @@
 <!ENTITY connection.label                "การเชื่อมต่อ">
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
-<!ENTITY connectionSettings.label        "ตั้งค่า…">
+<!ENTITY connectionSettings.label        "การตั้งค่า…">
 <!ENTITY connectionSettings.accesskey    "ต">
 
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
