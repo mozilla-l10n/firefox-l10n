@@ -210,6 +210,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bloquiesti la to cámara pa esti sitiu web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bloquiesti'l to micrófonu pa esti sitiu web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bloquiesti la compartición de pantalla pa esti sitiu web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bloquiesti la to información d'allugamientu pa esti sitiu web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bloquiesti l'almacenamientu de datos pa esti sitiu web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bloquiesti los avisos pa esti sitiu web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
 
@@ -711,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "Nun-y concediesti permisu especial dalu a esti sitiu.">
+<!ENTITY identity.permissionsReloadHint "Quiciabes precises recargar la páxina p'aplicar les camudancies.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
