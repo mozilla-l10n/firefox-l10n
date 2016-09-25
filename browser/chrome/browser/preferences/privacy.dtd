@@ -48,7 +48,7 @@
 
 
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
-<!ENTITY  acceptThirdParty.never.label    "कभी न ">
+<!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण किए हुए से">
 
 <!ENTITY  keepUntil.label               "बनाए रखें:">
@@ -79,7 +79,7 @@
 <!ENTITY  rememberActions.clearHistory.label  "अपने हालिया इतिहास साफ कर">
 <!ENTITY  rememberActions.middle.label        ", या ">
 <!ENTITY  rememberActions.removeCookies.label "अपने व्यक्तिगत कुकीज़ हटा">
-<!ENTITY  rememberActions.post.label          " सकते हैं.">
+<!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
