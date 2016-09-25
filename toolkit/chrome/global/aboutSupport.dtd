@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "ফাইন্ডারে প্রদর্শন">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "ফোল্ডার খুলুন">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
