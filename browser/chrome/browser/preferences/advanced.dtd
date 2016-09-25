@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
 
+<!ENTITY crashReporterDesc2.label         "क्रयास् रिपोटले &vendorShortName; लाई समस्या समाधान गर्न मद्दत गर्छ र तपाईँको ब्राउजरलाई स्थिर र सुरक्षित बनाउँछ">
 
 
 <!ENTITY crashReporterLearnMore.label     "अझ जान्नुहोस्">
