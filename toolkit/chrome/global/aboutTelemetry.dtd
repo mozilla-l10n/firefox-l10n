@@ -100,6 +100,10 @@
   ਥਰਿੱਡ ਹੈਂਗ
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  ਸਕੇਲਰ
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   ਹਿਸਟੋਗਰਾਮ
 ">

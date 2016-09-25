@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY fullscreenButton.exitfullscreenlabel "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ">
 <!ENTITY castingButton.castingLabel "ਸਕਰੀਨ ਉੱਤੇ ਕਾਸਟ ਕਰੋ">
+<!ENTITY closedCaption.off "ਬੰਦ">
 
 <!ENTITY stats.media "ਮੀਡਿਆ">
 <!ENTITY stats.size "ਆਕਾਰ">
