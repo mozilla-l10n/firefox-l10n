@@ -1,13 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -18,7 +21,8 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-
+<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "Bagong Window">
 <!ENTITY newWindowCmd.accesskey       "n">
@@ -27,8 +31,6 @@
 <!ENTITY openFileCmd.label            "Open File…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
-
-
 
 
 
@@ -49,19 +51,7 @@
 
 
 
-
-
-
-
-
-<!-- + is above this key on many keyboards -->
-
-
-
-
-
-
-
+ <!-- + is above this key on many keyboards -->
 
 
 
@@ -71,9 +61,7 @@
 <!ENTITY inspect.accesskey            "i">
 <!ENTITY inspect.key                  "i">
 
-
 <!ENTITY display.key                  "l">
-
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -84,9 +72,9 @@
   -->
 
 
-
 <!ENTITY contentContext.label         "Nilalaman">
 <!ENTITY contentContext.accesskey     "N">
+
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -98,20 +86,15 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
-
 <!ENTITY documentationLink.label      "Scratchpad Help sa MDN">
 <!ENTITY documentationLink.accesskey  "D">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-
-
 <!ENTITY resetContext2.label          "I-reset ang mga Variable">
 <!ENTITY resetContext2.accesskey      "t">
-
-
 
 
 
@@ -119,10 +102,8 @@
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-
-

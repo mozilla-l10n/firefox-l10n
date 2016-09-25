@@ -4,11 +4,10 @@
 
 <!ENTITY startup.label             "Nagsisimula">
 
-
+<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "Ipakita ang aking home page">
 <!ENTITY startupBlankPage.label    "Magpakita ng blankong pahina">
 <!ENTITY startupLastSession.label  "Ipakita ang aking mga window at tab mula sa huling beses">
-
 
 <!ENTITY useCurrentPage.label      "Gamitin ang Kasalukuyang Pahina">
 <!ENTITY useCurrentPage.accesskey  "G">
@@ -20,7 +19,6 @@
 
 <!ENTITY downloads.label     "Mga Download">
 
-
 <!ENTITY chooseFolderWin.label        "Browse…">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Choose…">
@@ -28,12 +26,6 @@
 <!ENTITY alwaysAsk.label "Always ask me where to save files">
 <!ENTITY alwaysAsk.accesskey "A">
 
-
-
-
 <!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
-
-
-
 
 
