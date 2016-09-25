@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
+<!ENTITY devmgr.style2                          "వెడల్పు: 67em; పొడవు: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "రక్షణ  మాడ్యూళ్ళు  మరియు  సాధనాలు">
 <!ENTITY devmgr.details.title                   "వివరములు">
