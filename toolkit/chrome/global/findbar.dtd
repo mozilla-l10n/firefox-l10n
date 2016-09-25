@@ -14,3 +14,5 @@
 <!ENTITY caseSensitive.label "අක්ෂර ගැලපුම">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "අක්ශර සංවේදීව සොයන්න">
+<!ENTITY entireWord.label "මුළු වචනයම">
+<!ENTITY entireWord.accesskey "w">
