@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix " (निजी ब्राउज़िंग)">
 
 <!ENTITY appmenu.tooltip                     "मेन्यू खोलें">
-<!ENTITY navbarOverflow.label                "अधिक औज़ार... ">
+<!ENTITY navbarOverflow.label                "अधिक औज़ार…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    " टैब फिर लोड करें">
@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              " नए विंडो में खिसकाएँ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें… ">
+<!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "बंद टैब वापस लें">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; वरीयताएँ खोलें.">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; फिर से कनेक्ट करें|">
-<!ENTITY fxaUnverified.label "अपना ख़ाता सत्यापित करें ">
+<!ENTITY fxaUnverified.label "अपना ख़ाता सत्यापित करें">
 
 
 <!ENTITY fullScreenMinimize.tooltip " न्यूनतम करें">
@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
 <!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
-<!ENTITY bookmarkThisPageCmd.commandkey "डी ">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -185,12 +185,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
-<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ ">
+<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "हाल के पुस्तचिह्नित छिपायें">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
-<!ENTITY backCmd.label                "पीछे ">
+<!ENTITY backCmd.label                "पीछे">
 <!ENTITY backButton.tooltip           " एक पृष्ठ पीछे जाएँ">
 <!ENTITY forwardCmd.label             "आगे">
 <!ENTITY forwardButton.tooltip        " एक पृष्ठ आगे जाएँ">

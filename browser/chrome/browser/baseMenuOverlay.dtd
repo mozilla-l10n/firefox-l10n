@@ -12,8 +12,8 @@
 <!ENTITY helpMenu.accesskey       "स"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "सहायता "> 
-<!ENTITY helpMenuWin.accesskey    "स">
+<!ENTITY helpMenuWin.label        "मदद"> 
+<!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; मदद">
@@ -31,7 +31,7 @@
 <!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य विवरण">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना ">
+<!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया जमा करें...">
@@ -49,6 +49,6 @@
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "अन्य छिपा‌एँ">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "सभी दिखाएँ ">
+<!ENTITY showAllAppsCmdMac.label        "सभी दिखाएँ">
