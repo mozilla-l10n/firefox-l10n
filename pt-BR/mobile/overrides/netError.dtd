@@ -5,12 +5,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Falha no carregamento da página">
+<!ENTITY loadError.label "Problema ao carregar a página">
 <!ENTITY retry.label "Tentar de novo">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Não é possível conectar-se">
+<!ENTITY connectionFailure.title "Não foi possível conectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Endereço restrito">

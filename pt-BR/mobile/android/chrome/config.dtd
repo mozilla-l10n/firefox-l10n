@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Localizar">
+<!ENTITY toolbar.searchPlaceholder     "Pesquisar">
 
 <!ENTITY newPref.namePlaceholder       "Nome">
 
 <!ENTITY newPref.valueBoolean          "Boolean">
 <!ENTITY newPref.valueString           "String">
-<!ENTITY newPref.valueInteger          "Número inteiro">
+<!ENTITY newPref.valueInteger          "Inteiro">
 
 <!ENTITY newPref.stringPlaceholder     "Forneça uma string">
 <!ENTITY newPref.numberPlaceholder     "Forneça um número inteiro">
