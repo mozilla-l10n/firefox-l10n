@@ -7,14 +7,14 @@
 
 <!ENTITY newPref.namePlaceholder       "नाम">
 
-<!ENTITY newPref.valueBoolean          "Boolean">
-<!ENTITY newPref.valueString           "String">
-<!ENTITY newPref.valueInteger          "Integer">
+<!ENTITY newPref.valueBoolean          "बुलियन">
+<!ENTITY newPref.valueString           "स्ट्रिंग">
+<!ENTITY newPref.valueInteger          "पूर्णाँक">
 
 <!ENTITY newPref.stringPlaceholder     "स्ट्रिंग दर्ज करें">
 <!ENTITY newPref.numberPlaceholder     "संख्या दर्ज करें">
 
-<!ENTITY newPref.toggleButton          "Toggle">
+<!ENTITY newPref.toggleButton          "टॉगल">
 <!ENTITY newPref.cancelButton          "रद्द करें">
 
 <!ENTITY contextMenu.copyPrefName      "नाम की नक़ल लें">

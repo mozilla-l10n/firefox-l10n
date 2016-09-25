@@ -2,13 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
+<!ENTITY safeb.palm.accept.label "यहाँ से मुझे बाहर निकालें!">
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
 <!ENTITY safeb.palm.reportPage.label "यह पृष्ठ क्यों रोका गया था?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "रिपोर्ट की गई हमलावर साइट!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> पर यह वेब पृष्ठ एक अटैक पृष्ठ के रूप में सूचित किया गया है और आपके सुरक्षा प्राथमिकताओं के आधार पर अवरूद्ध किया गया है.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>भेद्य पृष्ठ प्रोग्राम संस्थापित करने की कोशिश करते हैं जो निजी सूचनाओं को चुराते हैं, आपके कम्प्यूटर का उपयोग अन्य को भेदने के लिए करते हैं , या आपके तंत्र को क्षति पहुँचाते हैं.</p><p>कुछ भेद्य पृष्ठ साभिप्राय हानिकारक सॉफ्टवेयर को अस्तव्यस्त करते हैं लेकिन बहुत से बिना मालिक की जानकारी या अनुमति के बिना समझौता कर लेते हैं.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "धोखादायक साईट!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
