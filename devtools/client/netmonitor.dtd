@@ -93,7 +93,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterHTML   "एचटीएमएल">
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
 
@@ -180,7 +180,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
 
-<!ENTITY netmonitorUI.response.mime       "माइम प्रकारः">
+<!ENTITY netmonitorUI.response.mime       "MIME प्रकारः">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
@@ -190,7 +190,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 
-<!ENTITY netmonitorUI.timings.dns         "डीएनएस विभदन:">
+<!ENTITY netmonitorUI.timings.dns         "DNS विभदन:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
@@ -247,7 +247,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
-<!ENTITY netmonitorUI.context.copyUrl     "यूआरएल की प्रतिलिपि बनाएँ">
+<!ENTITY netmonitorUI.context.copyUrl     "URL की प्रतिलिपि बनाएँ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
@@ -255,7 +255,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
 
-<!ENTITY netmonitorUI.context.copyUrlParams     "यूआरएल पेरामीटर का नकल करें">
+<!ENTITY netmonitorUI.context.copyUrlParams     "URL पेरामीटर का नकल करें">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 
