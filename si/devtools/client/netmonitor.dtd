@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
+<!ENTITY netmonitorUI.perfNotice2         "ක්‍රියාකාරීත්ව විශ්ලේෂණය ඇරඹීමේ බොත්තම.">
 <!ENTITY netmonitorUI.perfNotice3         "විශ්ලේෂණය">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
@@ -69,6 +70,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
+<!ENTITY netmonitorUI.tab.response        "ප්‍රතිචාරය">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
@@ -79,6 +81,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
+<!ENTITY netmonitorUI.tab.security        "ආරක්ෂාව">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
