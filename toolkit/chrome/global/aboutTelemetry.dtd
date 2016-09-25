@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड हँग्ज">
 
+<!ENTITY aboutTelemetry.scalarsSection "  स्केलर">
 
 <!ENTITY aboutTelemetry.histogramsSection "  हिस्टोग्राम्स">
 
