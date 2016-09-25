@@ -28,14 +28,14 @@
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
-<!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
+<!ENTITY alwaysAsk.label "Sentiasa tanya di mana saya mahu menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "Sentiasa semak jika &brandShortName; adalah pelayar piawai anda">
+<!ENTITY alwaysCheckDefault2.label        "Sentiasa semak samada &brandShortName; adalah pelayar piawai anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Jadikan Piawai">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; pelayar piawai anda">
+<!ENTITY isDefault.label                  "&brandShortName; kini adalah pelayar piawai anda">
 <!ENTITY isNotDefault.label               "&brandShortName; bukan pelayar piawai anda">
 
 <!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk berjalan pada masa yang sama">
