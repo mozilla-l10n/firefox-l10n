@@ -219,11 +219,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ఈ సైటుతో మీ కిటికీలను లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ప్యానెల్ ఇన్స్టాల్ సందేశాన్ని తెరవండి">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ఈ పేజీని అనువదించండి">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "పేజీ అనువాదాన్ని నిర్వహించండి">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM సాఫ్ట్‌వేరు వాడుకను నిర్వహించండి">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "మీరు ఈ వెబ్సైట్ కోసం మీ కెమెరా నిరోధించారు.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "మీరు ఈ వెబ్సైట్ కోసం మీ మైక్రోఫోన్ని నిరోధించారు.">
+<!ENTITY urlbar.screenBlocked.tooltip            "మీరు మీ స్క్రీన్ను భాగస్వామ్యం నుండి ఈ వెబ్సైట్ నిరోధించారు.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "మీరు ఈ వెబ్సైట్ కోసం స్థాన సమాచారాన్ని నిరోధించారు.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "మీరు ఈ వెబ్సైట్ కోసం డేటా నిల్వ నిరోధించారు.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "మీరు ఈ వెబ్ సైట్ కోసం బ్లాక్ ప్రకటనలను చేశారు.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
+<!ENTITY urlbar.zoomReset.tooltip     "పరివీక్షణ స్థాయిని రీసెట్ చేయి">
 
 <!ENTITY searchItem.title             "వెతుకు">
 
@@ -724,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులూ ఇవ్వలేదు.">
+<!ENTITY identity.permissionsReloadHint "మార్పులు దరఖాస్తు కోసం మీరు పేజీ రీలోడ్ అవసరం కావచ్చు.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

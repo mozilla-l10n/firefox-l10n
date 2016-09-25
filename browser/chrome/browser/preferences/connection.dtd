@@ -4,6 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "అనుసంధానం అమరికలు">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "ప్రోక్సీలు అంతర్జాలమును వాడుకొనునట్లు ఆకృతీకరించు">
 <!ENTITY  noProxyTypeRadio.label        "ఏ ప్రోక్సీలేదు">
