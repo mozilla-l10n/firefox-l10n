@@ -9,5 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Sem conexão à internet">
 <!ENTITY aboutAccounts.retry.label "Tentar novamente">
 
-<!ENTITY aboutAccounts.restrictedError.title "Restringido">
+<!ENTITY aboutAccounts.restrictedError.title "Restrito">
 <!ENTITY aboutAccounts.restrictedError.description "Você não pode gerenciar contas Firefox a partir deste perfil.">

@@ -65,7 +65,7 @@
 <!ENTITY netInterrupt.title "Conexão interrompida">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY notCached.title "Documento fora de validade">
+<!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em Tentar de novo para solicitar mais uma vez o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
@@ -87,7 +87,7 @@
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "Conexão reiniciada">
+<!ENTITY netReset.title "A conexão foi redefinida">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Tempo limite atingido">

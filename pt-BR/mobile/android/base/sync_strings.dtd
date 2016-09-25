@@ -14,7 +14,7 @@
 <!ENTITY sync.subtitle.connect.label 'Para ativar seu novo dispositivo, selecionar “Configurar &syncBrand.shortName.label;” nele.'>
 <!ENTITY sync.subtitle.pair.label 'Para ativar, selecionar “Parear dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'O dispositivo não está comigo…'>
+<!ENTITY sync.link.nodevice.label 'Não tenho o aparelho comigo…'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Logins'>
@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label 'Favoritos do desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Favoritos do dispositivo móvel'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Afixado'>
+<!ENTITY bookmarks.folder.pinned.label 'Fixo'>
 
 <!-- Firefox Account strings. -->
 

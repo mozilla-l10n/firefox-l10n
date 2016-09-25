@@ -6,11 +6,11 @@
 <!ENTITY aboutPage.telemetryStart               " Automaticamente envia dados sobre hardware, uso, personalização e desempenho para a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " de forma a ajudar a melhorar o &brandShortName;.">
-<!ENTITY aboutPage.checkForUpdates.link         "Verificar atualização »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
+<!ENTITY aboutPage.checkForUpdates.link         "Verificar se há atualizações »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Procurando por atualizações…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível">
-<!ENTITY aboutPage.checkForUpdates.available2   "Receber atualização">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Recebendo atualização…">
+<!ENTITY aboutPage.checkForUpdates.available2   "Baixar atualização">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Baixando atualização…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Suporte">
@@ -19,6 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "Notas da versão">
 <!ENTITY aboutPage.credits.label                "Créditos">
 <!ENTITY aboutPage.license.label                "Informações de licenciamento">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox e logotipos Firefox são marcas comerciais da Mozilla Foundation.">
