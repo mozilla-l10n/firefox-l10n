@@ -207,7 +207,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Aplūkot lapas informāciju">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Atvērt ziņojumu paneli">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Atvērt atrašanās vietu pieprasījumu paneli">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Atvērt papildinājumu instalēšanas ziņojumu paneli">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Atvērt nesaistes datu saglabāšanas ziņojumu paneli">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Atvērt paroles saglabāšanas ziņojumu paneli">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pārvaldīt papildinājumu izmantošanu">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Izmainiet vai varat saņemt paziņojumus no šīs lapas">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu">
 
 
 
