@@ -207,8 +207,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mussar infurmaziuns davart la pagina">
 
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Definir sche ti vuls retschaiver notificaziuns da la pagina">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar la cundivisiun dal microfon cun la pagina">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar la cundivisiun da fanestras u dal visur cun la pagina">
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Translatar questa pagina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar la translaziun da la pagina">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar l'utilisaziun da software DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
