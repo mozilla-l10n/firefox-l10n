@@ -18,21 +18,21 @@
 <!ENTITY warningDesc.telemetryDesc  "С цел подобряване на &brandShortName; към &vendorShortName; автоматично се изпраща информация за производителността, хардуера и използваните настройки.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Използването на изпитателните версии помага за подобряване на качеството на любимия ви имейл клиент.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " е ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "глобална общност">
-<!ENTITY community.exp.end          " работеща заедно за една отворена и общодостъпна за всички Мрежа. ">
+<!ENTITY community.exp.end          ", работеща заедно за една отворена и общодостъпна Мрежа.">
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", която е ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобална общност">
-<!ENTITY community.end3             " работеща заедно за една отворена и общодостъпна за всички Мрежа.">
+<!ENTITY community.end3             ", работеща заедно за една отворена и общодостъпна Мрежа.">
 
 <!ENTITY helpus.start               "Искате да помогнете? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
