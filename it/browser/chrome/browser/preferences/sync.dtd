@@ -27,11 +27,13 @@
 <!ENTITY engine.addons.label "Componenti aggiuntivi">
 <!ENTITY engine.addons.accesskey "o">
 <!ENTITY syncDeviceName.label "Nome dispositivo:">
-<!ENTITY syncDeviceName.accesskey "m">
 <!ENTITY fxaSyncDeviceName.label "Nome dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambia nome dispositivo…">
+<!ENTITY changeSyncDeviceName.label.accesskey "d">
 <!ENTITY cancelChangeSyncDeviceName.label "Annulla">
+<!ENTITY cancelChangeSyncDeviceName.label.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salva">
+<!ENTITY saveChangeSyncDeviceName.label.accesskey "S">
 <!ENTITY unlinkDevice.label "Scollega questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
@@ -43,11 +45,17 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
+<!ENTITY signIn.label.accesskey "A">
 <!ENTITY profilePicture.tooltip "Cambia l’immagine del profilo">
 <!ENTITY verifiedManage.label "Gestisci account">
+<!ENTITY verifiedManage.label.accesskey "G">
 <!ENTITY disconnect.label "Disconnetti…">
+<!ENTITY disconnect.label.accesskey "t">
 <!ENTITY verify.label "Verifica email">
+<!ENTITY verify.label.accesskey "V">
 <!ENTITY forget.label "Dimentica questa email">
+<!ENTITY forget.label.accesskey "m">
+<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey "e">
 <!ENTITY welcome.description "Schede, segnalibri, password e altre informazioni accessibili in qualunque situazione utilizzando &brandShortName;.">
 <!ENTITY welcome.signIn.label "Accedi">
 <!ENTITY welcome.createAccount.label "Crea un account">
@@ -56,7 +64,9 @@
 <!ENTITY signedOut.description "Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.">
 <!ENTITY signedOut.accountBox.title "Connetti &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create "Crea un account">
+<!ENTITY signedOut.accountBox.create.accesskey "u">
 <!ENTITY signedOut.accountBox.signin "Accedi">
+<!ENTITY signedOut.accountBox.signin.accesskey "i">
 <!ENTITY signedIn.engines.label "Sincronizza attraverso i dispositivi">
 <!ENTITY mobilePromo3.start "Scarica Firefox per ">
 <!ENTITY mobilePromo3.androidLink "Android">
