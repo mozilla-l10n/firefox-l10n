@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Voltar uma página">
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardButton.tooltip        "Avançar uma página">
-<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar a história">
+<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrate-o para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Recarregar página atual">
