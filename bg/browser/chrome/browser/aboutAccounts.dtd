@@ -10,5 +10,5 @@
 <!ENTITY aboutAccountsConfig.useOldSync.label "Използвате по-стара версия на Sync ли?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Настройки на Sync">
 <!ENTITY aboutAccounts.noConnection.title "Няма връзка с Интернет">
-<!ENTITY aboutAccounts.noConnection.description "Трябва да сте свързан към Интернет, за да можете да се впишете.">
+<!ENTITY aboutAccounts.noConnection.description "Трябва да сте свързан към Интернет, за да може да се впишете.">
 <!ENTITY aboutAccounts.noConnection.retry "Нов опит">

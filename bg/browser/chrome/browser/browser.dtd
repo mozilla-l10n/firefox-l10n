@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "Управление на услуги…">
 
 <!ENTITY social.directory.label "Списък с услуги">
-<!ENTITY social.directory.text "Можете да включите Услугите за споделяне от този списък.">
+<!ENTITY social.directory.text "Може да включите Услугите за споделяне от този списък.">
 <!ENTITY social.directory.button "Натам!">
 <!ENTITY social.directory.introText "Щракнете на услуга, за да я добавите към &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Други услуги">
