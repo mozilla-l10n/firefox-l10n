@@ -201,7 +201,7 @@
 <!ENTITY pref_content_notifications_summary2 "समर्थित साइटबाट नयाँ सामग्री पत्ता लगउनुहोस्">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाइ-फाइ डिबगिङको लागी QR कोड पाठक एप तपाइको उपकरणमा अावश्यक छ।">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाइ-फाइ डिबगिङको लागि QR कोड पाठक एप तपाईँको उपकरणमा अावश्यक छ।">
 <!ENTITY pref_remember_signons2 "लगइनहरू सम्झनुहोस्">
 <!ENTITY pref_manage_logins "लगइनहरू व्यवस्थापन गर्नुहोस्">
 
@@ -343,7 +343,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "अहिले खाली गर्नुहोस्">
 <!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डेटा हटाउनुहोस्">
-<!ENTITY pref_clear_on_exit_summary2 "तपाईँले मुख्य मेनु बाट \u0022बाहिर निस्कनुहोस\u0022 थिच्नुभयो भने &brandShortName; ले तपाईँको सबै डाटाहरू स्वत: हटाउनेछ">
+<!ENTITY pref_clear_on_exit_summary2 "तपाईँले मुख्य मेनु बाट \u0022बाहिर निस्कनुहोस\u0022 थिच्नुभयो भने &brandShortName; ले तपाईँको सबै डाटाहरू स्वतः हटाउनेछ">
 <!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
 <!ENTITY pref_plugins "प्लगइनहरू">
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
@@ -371,7 +371,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तिब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामि तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस् ">
-<!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वत: चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
+<!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
 <!ENTITY pref_zoom_force_enabled "zoom लाई सधै सक्षम पार्नुहोस">
 <!ENTITY pref_zoom_force_enabled_summary " कुनै पनि पेज zoom गर्न अधिरोहण गर्नुहोस">
 <!ENTITY pref_voice_input "आवाज आगत">
@@ -668,9 +668,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "केही निजी डाटा हटाउन सकिएन">
 
 <!ENTITY bookmarkhistory_button_import "आयात">
-<!ENTITY bookmarkhistory_import_both "बुक्मार्कहरु र इतिहास एन्ड्रोइडबाट आयात गरिदै">
-<!ENTITY bookmarkhistory_import_bookmarks "पुस्तकचिनो एन्ड्रोइडबाट आयात गरिदै">
-<!ENTITY bookmarkhistory_import_history "इतिहासहरु एन्ड्रोइडबाट आयात गरिदै">
+<!ENTITY bookmarkhistory_import_both "बुक्मार्कहरू र इतिहास Android बाट आयात गरिँदै">
+<!ENTITY bookmarkhistory_import_bookmarks "पुस्तकचिनो Android बाट आयात गरिँदै">
+<!ENTITY bookmarkhistory_import_history "इतिहासहरू Android बाट आयात गरिँदै">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा गर्नुहोस्...">
 
 <!ENTITY suggestions_prompt3 "तपाईँ खोज सुझावहरू लिन चाहनुहुन्छ?">
@@ -685,7 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "&formatS2;को लागी &formatS1; खोज्ने">
+<!ENTITY suggestion_for_engine "&formatS2;को लागि &formatS1; खोज्ने">
 
 <!ENTITY searchable_description "पुस्तकचिनो र इतिहास">
 <!-- Updater notifications --> 

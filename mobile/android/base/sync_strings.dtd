@@ -63,8 +63,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "तपाईंको खाता प्रमाणिकरण गर्न आवश्यक छ। प्रमाणीकरण ईमेल पुन: पठाउन ट्याप गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_credentials "संपर्क सफल भएन। भित्र जान यहाँ छुनुहोस्  ">
 <!ENTITY fxaccount_status_needs_upgrade "तपाईंले साइन इन गर्नको लागि &brandShortName; स्तरवृद्धि गर्न आवश्यक छ।">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। एन्ड्रोइड सेटिङहरू &gt; डाटा उपयोगमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। एन्ड्रोइड सेटिङहरू &gt;खाताहरुमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। Android सेटिङहरू &gt; डाटा उपयोगमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। Android सेटिङहरू &gt;खाताहरुमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_finish_migrating "Firefox को नयाँ खातामा जानको लागि लगिन गर्न यहाँ छुनुहोस्">
 <!ENTITY fxaccount_status_bookmarks "पुस्तकचिनो">
 <!ENTITY fxaccount_status_history "इतिहास">
