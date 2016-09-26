@@ -56,7 +56,7 @@
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिदैछ…">
+<!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिँदै छ…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; अप टु डेट छ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -99,7 +99,7 @@
 <!ENTITY update.downloading.start   "अद्यावधिकहरू डाउनलोड हुदैँछन् — ">
 <!ENTITY update.downloading.end     "‍">
 
-<!ENTITY update.applying            "अद्यावधिक लागू गरिदै…">
+<!ENTITY update.applying            "अद्यावधिक लागू गरिँदै…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

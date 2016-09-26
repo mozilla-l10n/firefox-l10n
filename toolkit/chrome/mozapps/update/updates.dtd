@@ -45,7 +45,7 @@
 <!ENTITY  finishedPage.title              "अद्यावधिक स्थापना गर्न तयार">
 <!ENTITY  finishedPage.text               "यो अद्यावधिक अर्को समय &brandShortName; सुरू हुँदा स्थापना हुनेछ। तपाईं &brandShortName; लाई अहिले वा पछि पुनः सुचारू गर्न सक्नुहुन्छ।">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName; को लागी सुरक्षा र स्थिरता अद्यावधिक डाउनलोड भएको छ र यो स्थापित हुन तयार छ।">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; को लागि सुरक्षा र स्थिरता अद्यावधिक डाउनलोड भएको छ र यो स्थापित हुन तयार छ।">
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "यो अद्यावधिक अर्को समय &brandShortName; सुरू हुँदा स्थापना हुनेछ। तपाईंँले &brandShortName; लाई अहिले वा पछि पुनः सुचारू गर्न सक्नुहुन्छ।">

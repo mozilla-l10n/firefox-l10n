@@ -16,7 +16,7 @@
      deliberate for formatting around the embedded links. -->
 
 <!ENTITY rights.intro-point1a "&brandShortName; यी शर्तहरू अन्तर्गत उपलब्ध छ ">
-<!ENTITY rights.intro-point1b "मोजिल्ला सार्वजनिक इजाजतपत्र">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c "। यसको अर्थ, तपाईँले &brandShortName; प्रयोग गर्नुका साथै, प्रतिलिपि बनाउन र अरुलाई बाँड्न पनि सक्नुहुन्छ।  &brandShortName; को स्रोत कोडलाई अाफ्नो चाहना अनुरुप बदल्न पनि तपाईँलाई स्वागत छ।Mozilla Public License तपाईँको बदलिएको संस्करणहरू बाड्ने अधिकार पनि तपाईँलाई दिएको छ।">
 
 <!ENTITY rights.intro-point2-a "तपाईँ Mozilla Foundation वा कुनै पनि पक्षाको ट्रेडमार्क अधिकार वा लाइसेन्स प्रदान गरिएको छैन। साथै तपाईँलाई Firefox को नाम र लोगो पनि प्रयोगमा पनि असमित अधिकार छैन। ‌ट्रेडमार्क सम्बन्धी थप जानकारी पाउन सकिन्छ ">

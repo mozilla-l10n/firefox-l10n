@@ -89,7 +89,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद थप्नुहोस्...">
 
-<!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर मोजिल्लालाई खराब साइटहरू चिन्न र ब्लक गर्न मद्दत गर्नुहोस्">
+<!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozillaलाई खराब साइटहरू चिन्न र ब्लक गर्न मद्दत गर्नुहोस्">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 
 <!ENTITY remoteXUL.title "दूर XUL">

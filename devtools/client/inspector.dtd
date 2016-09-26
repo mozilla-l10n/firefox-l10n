@@ -4,7 +4,7 @@
 <!ENTITY inspectorRemoveAttribute.label        "विशेषता हटाउनुहोस्">
 <!ENTITY inspectorRemoveAttribute.accesskey    "व">
 
-<!ENTITY inspector.selectButton.tooltip     "माउसबाट तत्व चयन गर्नुहोस्">
+<!ENTITY inspector.selectButton.tooltip     "माउसबाट वस्तु चयन गर्नुहोस्">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
 

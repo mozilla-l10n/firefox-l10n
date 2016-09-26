@@ -10,7 +10,7 @@
 <!ENTITY restorepage.problemDesc    "&brandShortName;लाई तपाईँको सञ्झ्याल र ट्याब पुनः हासिल गर्न समस्या भइरहेको समस्या सामान्यतया यो भर्खरै खोलिएको वेब पृष्ठको कारणले हुन्छ।">
 <!ENTITY restorepage.tryThis        "तपाईँले यो प्रयास गर्न सक्नुहुन्छ:">
 <!ENTITY restorepage.restoreSome    "तपाईँले सोच्नु भएको एक वा बढि ट्याबहरू, जसका काराणले समस्या भइरहेको छ, हटाउँदै">
-<!ENTITY restorepage.startNew       "पूर्णरुपले नया ब्राउजिङ सत्र सुरु गरिदै">
+<!ENTITY restorepage.startNew       "पूर्णरुपले नया ब्राउजिङ सत्र सुरु गरिँदै">
 
 <!ENTITY restorepage.tryagainButton "पूर्ववस्थामा ल्याउनुहोस्">
 <!ENTITY restorepage.restore.access "R">
@@ -56,5 +56,5 @@ their language.
 <!ENTITY tabgroupsmigration.learnaboutaddons    "ट्याब समूह प्रतिस्थापन एड-अन बारे जान्नुहोस्।">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; ले तपाईँको सबै समूह पुस्तकचिनो गरेकोले तपाईँले केही गुमाउनुभएको छैन।">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "पुस्तक चिन्हित् ट्याब समूह देखाउनुहोस्">
-<!ENTITY tabgroupsmigration.restoredescription  "तपाईँ पनि अब Windows मा केही वा सबै पृष्ठभूमीको समूह पुनर्स्थापना रोज्न सक्नुहुन्छ:">
+<!ENTITY tabgroupsmigration.restoredescription  "तपाईँ पनि अब Windows मा केही वा सबै पृष्ठभूमिको समूह पुनर्स्थापना रोज्न सक्नुहुन्छ:">
 
