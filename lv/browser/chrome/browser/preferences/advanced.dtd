@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Uzzināt vairāk">
 
+<!ENTITY crashReporterDesc2.label         "Avāriju ziņojumi palīdz &vendorShortName; salabot problēmas un padarīt jūsu pārlūku drošāku un stabilāku">
+<!ENTITY alwaysSubmitCrashReports.label   "Atļaut &brandShortName; sūtīt uzkrātos avāriju ziņojumus jūsu vārdā">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Uzzināt vairāk">
 
 <!ENTITY networkTab.label                "Tīkls">
