@@ -216,11 +216,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Izmainiet vai varat saņemt paziņojumus no šīs lapas">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Pārvaldiet mikrofona koplietošanu ar šo lapu">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Pārvaldiet loga vai visa ekrāna koplietošanu ar šo lapu">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Atvērt instalācijas ziņojumu paneli">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tulkot šo lapu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pārvaldīt lapas tulkojumus">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pārvaldīt DRM programmatūras izmantošanu">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Kameras izmantošana šajā lapā ir bloķēta.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofona izmantošana šajā lapā ir bloķēta.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ekrāna koplietošana ar šo lapu ir bloķēta.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Atrašanās vietas informācijas koplietošana ar šo lapu ir bloķēta.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Šīs lapas datu glabāšana ir bloķēta.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņojumu saņemšana no šīs lapas ir bloķēta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Atiestatīt palielinājumu">
 
 <!ENTITY searchItem.title             "Meklēt">
 
@@ -417,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Meklējamā frāze">
+<!ENTITY contentSearchSubmit.tooltip  "Nosūtīt meklējumu">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -442,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Mainīt meklēšanas iestatījumus">
+<!ENTITY changeSearchSettings.tooltip "Mainīt meklēšanas iestatījumus">
 
 <!ENTITY searchInNewTab.label         "Meklēt jaunā cilnē">
 <!ENTITY searchInNewTab.accesskey     "c">
@@ -719,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Atļaujas">
 <!ENTITY identity.permissionsEmpty "Šai lapai nav piešķirtas nekādas īpašas atļaujas.">
+<!ENTITY identity.permissionsReloadHint "Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
