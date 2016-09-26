@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kontrolliert die Maus. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.">
-<!ENTITY pointerlockWarning.generic.label "Dieses Dokument kontrolliert die Maus. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.">
+<!ENTITY pointerlockWarning.afterDomain.label "kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.">
+<!ENTITY pointerlockWarning.generic.label "Dieses Dokument kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.">
 
 <!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "h">
