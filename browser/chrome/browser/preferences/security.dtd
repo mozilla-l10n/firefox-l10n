@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "सामान्य">
 
-<!ENTITY  warnAddonInstall.label        "साइटहरूले एड-अन स्थापित गर्न खोजेमा मलाई सचेत गर्नुहोस्">
+<!ENTITY  warnAddonInstall.label        "साइटहरूले एडअन स्थापित गर्न खोजेमा मलाई सचेत गर्नुहोस्">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

@@ -60,13 +60,13 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  एड-अन विवरणहरू">
+<!ENTITY aboutTelemetry.addonDetailsSection "  एडअन विवरणहरू">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "सत्र जानकारी">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  एड-अनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  एडअनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
 
 <!ENTITY aboutTelemetry.toggle "  टगल सेक्सनमा क्लिक गर्नुहोस्">
 

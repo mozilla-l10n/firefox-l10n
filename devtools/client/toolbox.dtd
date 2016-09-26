@@ -112,7 +112,7 @@
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "एड-अनहरूद्वारा स्थापित भएका विकासकर्ता उपकरणहरू">
+<!ENTITY options.selectAdditionalTools.label  "एडअनहरूद्वारा स्थापित भएका विकासकर्ता उपकरणहरू">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->

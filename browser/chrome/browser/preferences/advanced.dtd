@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "महीन स्क्रोल प्रयोग गर्नुहोस्">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "उपलब्ध भएमा यन्त्र गति प्रयोग गर्नुहोस्">
+<!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "टाइप गर्दागर्दै अक्षर विन्यास जाँच गर्नुहोस्">
 <!ENTITY checkSpelling.accesskey         "t">
@@ -115,5 +115,5 @@
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरू">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा उपकरणहरू">
 <!ENTITY viewSecurityDevices.accesskey   "D">

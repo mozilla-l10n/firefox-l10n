@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "कुञ्जीपाटी सर्टकटहरू">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
+<!ENTITY helpSafeMode.label       "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस्...">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस">
+<!ENTITY helpSafeMode.stop.label       "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस्">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">

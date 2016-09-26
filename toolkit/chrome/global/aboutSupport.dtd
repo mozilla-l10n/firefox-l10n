@@ -108,7 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "स्यान्डबक्स">
 
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड प्रयास गर्नुहोस">
-<!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
+<!ENTITY aboutSupport.restartInSafeMode.label "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताविशेषताहरु">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदानात्मक">

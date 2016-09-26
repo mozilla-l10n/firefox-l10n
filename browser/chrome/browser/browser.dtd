@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "‌">
-<!ENTITY pointerlockWarning.afterDomain.label "तपाईँको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन Esc थिच्नुहोस्।">
+<!ENTITY pointerlockWarning.afterDomain.label "तपाईँको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो नियन्त्रणमा ल्याउन Esc थिच्नुहोस्।">
 <!ENTITY pointerlockWarning.generic.label "तपाईँको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
@@ -262,14 +262,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "उपकरणहरू">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "यस खोजिका लागि एउटा किवर्ड थप्नुहोस्">
+<!ENTITY keywordfield.label           "यस खोजीका लागि एउटा किवर्ड थप्नुहोस्">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनलोडहरू">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "एड-अन">
+<!ENTITY addons.label                 "एडअनहरू">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "खोजि सेटिङ परिवर्तन गर्नुहोस्">
+<!ENTITY changeSearchSettings.button  "खोजी सेटिङ परिवर्तन गर्नुहोस्">
 <!ENTITY changeSearchSettings.tooltip "खोजी सेटिङ परिवर्तन गर्नुहोस्">
 
 <!ENTITY searchInNewTab.label         "नयाँ ट्याबमा खोज्नुहोस्">
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "थप उपकरण र विशेषताहरू">
 <!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरू चाहिन्छ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौँ एड-अनहरू बाट रोज्नुहोस्">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौँ एडअनहरूबाट रोज्नुहोस्">
 <!ENTITY customizeMode.restoreDefaults "पूर्वानिर्धारीत स्थितीमा फर्किनुहोस्">
 <!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् /लुकाउनुहोस्">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
