@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label                "Изскачащи прозорци">
 
-<!ENTITY  blockPopups.label           "Блокиране на изскачащи прозорци">
+<!ENTITY  blockPopups.label           "Блокиране на изскачащите прозорци">
 <!ENTITY  blockPopups.accesskey       "Б">
 
 <!ENTITY  notificationsPolicy.label            "Известия">
@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Избиране…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме безпокойте">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "з">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия, докато не рестартирате &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия до следващ рестарт на &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Изключения…">
 <!ENTITY  popupExceptions.accesskey   "з">

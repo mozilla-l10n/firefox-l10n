@@ -17,6 +17,6 @@
 <!ENTITY switchToNewTabs.label        "При отваряне на препратка в раздел, да се превключи към него">
 <!ENTITY switchToNewTabs.accesskey    "П">
 
-<!ENTITY showTabsInTaskbar.label          "Показване на съдържанието на разделите в Windows taskbar">
+<!ENTITY showTabsInTaskbar.label          "Преглед на разделите в лентата със задачите на Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "с">
 <!ENTITY tabsGroup.label          "Раздели">
