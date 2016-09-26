@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "禁用">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; 中的新变化">
-<!ENTITY pref_whats_new_notification_summary "了解更新后有什么新功能">
+<!ENTITY pref_whats_new_notification_summary "更新后了解有哪些新功能">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -352,7 +352,7 @@
 <!ENTITY pref_text_size "文字大小">
 <!ENTITY pref_restore_tabs "恢复标签页">
 <!ENTITY pref_restore_always "总是恢复">
-<!ENTITY pref_restore_quit "退出 &brandShortName; 后不要恢复">
+<!ENTITY pref_restore_quit "曾明确退出 &brandShortName; 则不要恢复">
 <!ENTITY pref_font_size_tiny "极小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -459,7 +459,7 @@ size. -->
 <!ENTITY downloads "下载">
 <!ENTITY char_encoding "字符编码">
 
-<!ENTITY share "共享">
+<!ENTITY share "分享">
 <!ENTITY share_title "分享，通过">
 <!ENTITY share_image_failed "无法分享这个图像">
 <!ENTITY save_as_pdf "另存为 PDF">
@@ -496,7 +496,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "在隐私浏览标签页中打开">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
-<!ENTITY contextmenu_share "共享">
+<!ENTITY contextmenu_share "分享">
 <!ENTITY contextmenu_pasteandgo "粘贴并访问">
 <!ENTITY contextmenu_paste "粘贴">
 <!ENTITY contextmenu_copyurl "复制地址">
