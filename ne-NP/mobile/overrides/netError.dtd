@@ -33,9 +33,9 @@
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब ठेगानाहरु सामान्यतया यसरी लेखिन्छ<strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>कृपया तपाईं अगाडिपट्तीको Slash प्रयोग गर्नुभएको छ भन्ने निस्चित गर्नुहोस् (जस्तै <strong>/</strong>)</li> </ul>↔ बुझाउने">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब ठेगानाहरू सामान्यतया यसरी लेखिन्छ<strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>कृपया तपाईं अगाडि पट्टिको Slash प्रयोग गर्नुभएको छ भन्ने निश्चित गर्नुहोस् (जस्तै <strong>/</strong>)</li> </ul>↔ बुझाउने">
 
-<!ENTITY netInterrupt.title "यो जडानमा हस्तछेप भएको छ">
+<!ENTITY netInterrupt.title "यो जडानमा अवरोध भएको छ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "कागजातको समयसीमा समाप्त भयो">
@@ -67,10 +67,10 @@
 <!ENTITY proxyResolveFailure.title "प्रोक्सी सर्भरको खोजि गर्न असमर्थ भयो/">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्रॉक्सी सेटिंग्स सहि छ पक्का गारी जाच्नु.</li> <li>पक्का गारी जाच्नु. की तपाई को डिवाइस ले डाटा अथवा वईफयी बाट काम भयको छ / <button id='wifi'>Enable Wi-Fi</button> </li> </ul>   ">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्रोक्सी सेटिङ सहि छ भन्ने पक्का गर्नुहोस्।</li> <li>तपाईँको उपकरणमा काम गर्ने डेटा या वाइफाइ जडान छ भन्ने निश्चित गर्नुहोस् <button id='wifi'>Enable Wi-Fi</button> </li> </ul>   ">
 
 <!ENTITY redirectLoop.title "यो पृष्‍ठ उचित ढंगले रीडाएरेकटिंग भयन / ">
-<!ENTITY redirectLoop.longDesc " <ul> <li>यो समस्या कहीले काही कूकीज लाई लुकाईएको अथवा अस्विकार गरिएको कारणले भयको हो </li> </ul> ">
+<!ENTITY redirectLoop.longDesc " <ul> <li>यो समस्या कहिले काहीँ कुकीजलाई असक्षम अथवा अस्विकार गरिएको कारणले भएको हो </li> </ul> ">
 
 <!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया ">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>पक्का भयर जचनू की तपै को सिस्टमले  Personal Security Manager install  गरे को छ</li> <li>सरवरमा नॉन-स्टेन्डर्ड कॉन्फिग्रेसन को कारण ले यो भय को हुन सक्छ </li> </ul>">
