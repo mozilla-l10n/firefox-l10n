@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Намерени съвместими добавки">
 <!ENTITY  found.top.label                 "Изберете добавките, които искате да инсталирате:">
-<!ENTITY  found.disabledXPinstall.label   "Тези обновявания не могат да бъдат инсталирани, защото в момента инсталирането на софтуер е изключено. По-долу можете да промените това.">
+<!ENTITY  found.disabledXPinstall.label   "Тези обновявания не могат да бъдат инсталирани, защото в момента инсталирането на софтуер е изключено. По-долу може да промените това.">
 <!ENTITY  found.enableXPInstall.label     "Разрешаване на сайтове да инсталират софтуер">
 <!ENTITY  found.enableXPInstall.accesskey "Р">
 
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Проблеми при инсталиране на обновявания">
 <!ENTITY  installerrors.intro.label       "&brandShortName; откри проблеми при обновяването на някои добавки.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Натиснете „Завършване“, за да стартирате &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Натиснете „Готово“, за да стартирате &brandShortName;.">
 <!ENTITY  enableChecking.label            "Разрешаване на &brandShortName; да проверява за обновявания.">

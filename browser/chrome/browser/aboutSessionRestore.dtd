@@ -8,7 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Извинявайте за невъзстановената предишна сесия.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; не можа да възстанови предишните ви прозорци и раздели. Обикновено причината е в последната отворена страница.">
-<!ENTITY restorepage.tryThis        "Можете да опитате:">
+<!ENTITY restorepage.tryThis        "Може да опитате:">
 <!ENTITY restorepage.restoreSome    "Да затворите един или повече раздели, които смятате, че причиняват проблема">
 <!ENTITY restorepage.startNew       "Да започнете нова сесия">
 
@@ -56,5 +56,5 @@ their language.
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Научете повече за добавката, заменяща групите раздели.">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; направи отметки за всички ваши групи, така че не сте загубили нищо.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Показване на отметките на групите раздели">
-<!ENTITY tabgroupsmigration.restoredescription  "Също можете да възстановите още сега някои или всички непоказани групи в прозорци:">
+<!ENTITY tabgroupsmigration.restoredescription  "Също може да възстановите още сега някои или всички непоказани групи в прозорци:">
 

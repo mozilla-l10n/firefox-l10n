@@ -6,8 +6,8 @@
 <!ENTITY syncCustomize.acceptButton.label "Начало">
 
 <!ENTITY syncCustomize.title              "Какво искате да се синхронизира?">
-<!ENTITY syncCustomize.description        "Можете да промените избора си в Настройки.">
-<!ENTITY syncCustomizeUnix.description    "Можете да промените избора си в Настройки.">
+<!ENTITY syncCustomize.description        "Може да промените избора си в Настройки.">
+<!ENTITY syncCustomizeUnix.description    "Може да промените избора си в Настройки.">
 
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
