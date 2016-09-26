@@ -23,7 +23,7 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Махнете ме от тук!">
 
 <!ENTITY certerror.expert.heading "Разбирам риска">
-<!ENTITY certerror.expert.content "Ако разбирате, какво се случва, можете да укажете &brandShortName; да се доверява на идентификацията на този сайт .
+<!ENTITY certerror.expert.content "Ако разбирате, какво се случва, може да укажете на &brandShortName; да се доверява на идентификацията на този сайт .
 <b>Дори и да се доверявате на сайта, тази грешка може да означава, че някой подправя вашата връзка.</b>">
 <!ENTITY certerror.expert.contentPara2 "Не добавяйте изключение, освен ако не знаете основателна причина
 този сайт не използва надеждна идентификация.">

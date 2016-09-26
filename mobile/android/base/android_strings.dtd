@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Запазване на препратки, които отваряте от други приложения във &brandShortName;.">
 
 <!ENTITY firstrun_tabqueue_message_on "Успяхме!">
-<!ENTITY firstrun_tabqueue_subtext_on "Винаги можете да го изключите в &settings; под &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "Винаги може да го изключите в &settings; под &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Статии">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -295,7 +295,7 @@
 <!ENTITY tab_queue_toast_action "Отваряне">
 <!ENTITY tab_queue_prompt_title "Отваряте няколко препратки?">
 <!ENTITY tab_queue_prompt_text4 "Запазете ги за следващия път, когато отворите &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "Можете да промените това по всяко време в Настройки">
+<!ENTITY tab_queue_prompt_tip_text2 "Може да промените това по всяко време в Настройки">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Разрешете изчертаването отгоре на другите приложения">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_dialog_default "Стандартна">
 <!ENTITY pref_dialog_remove "Премахване">
 
-<!ENTITY pref_search_last_toast "Не можете да премахнете или изключите последната търсеща машина.">
+<!ENTITY pref_search_last_toast "Не може да премахнете или изключите последната търсеща машина.">
 
 <!ENTITY pref_panels_show "Показване">
 <!ENTITY pref_panels_hide "Скриване">
