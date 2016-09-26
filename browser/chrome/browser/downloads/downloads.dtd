@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Notīrīt no vēstures">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
+<!ENTITY cmd.clearList2.label             "Notīrīt priekšskatījuma paneli">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Notīrīt lejupielādes">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Rādīt visas lejupielādes">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY openDownloadsFolder.label       "Atvērt lejupielāžu mapi">
 
 <!ENTITY clearDownloadsButton.label       "Notīrīt lejupielādes">
 <!ENTITY clearDownloadsButton.tooltip     "Notīra pabeigtās, atceltās un neveiksmīgās lejupielādes">
