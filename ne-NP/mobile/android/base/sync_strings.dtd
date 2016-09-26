@@ -56,7 +56,7 @@
 <!ENTITY fxaccount_status_auth_server "खाता सर्भर">
 <!ENTITY fxaccount_status_sync_now "अब सिङ्क गर्नुहोस्">
 <!ENTITY fxaccount_status_syncing2 "सिङ्क गरिँदै…">
-<!ENTITY fxaccount_status_device_name "यन्त्रको नाम">
+<!ENTITY fxaccount_status_device_name "उपकरणको नाम">
 <!ENTITY fxaccount_status_sync_server "साधनको नामः">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
