@@ -76,11 +76,11 @@
 <!ENTITY updateTab.label                 "Обновяване">
 
 <!ENTITY updateApp.label                 "Обновявания на &brandShortName;:">
-<!ENTITY updateAuto1.label               "Автоматично инсталиране на обновявания (препоръчвано: подобрява безопасността)">
+<!ENTITY updateAuto1.label               "Автоматично инсталиране на обновявания (препоръчано: подобрява защитата)">
 <!ENTITY updateAuto1.accesskey           "А">
 <!ENTITY updateCheck.label               "Проверка за обновявания, но показване на избор дали да се инсталират">
 <!ENTITY updateCheck.accesskey           "П">
-<!ENTITY updateManual.label              "Никога не се проверява за обновявания (не е препоръчвано: риск за безопасността)">
+<!ENTITY updateManual.label              "Никога да не се проверява за обновявания (не е препоръчано: риск за безопасността)">
 <!ENTITY updateManual.accesskey          "Н">
 
 <!ENTITY updateHistory.label             "История на обновяванията">
@@ -90,7 +90,7 @@
 <!ENTITY useService.accesskey            "у">
 
 <!ENTITY updateOthers.label              "Автоматично обновяване на:">
-<!ENTITY enableSearchUpdate.label        "Търсачки">
+<!ENTITY enableSearchUpdate.label        "Търсещи машини">
 <!ENTITY enableSearchUpdate.accesskey    "Т">
 
 <!ENTITY offlineNotify.label             "Предупреждение, когато сайт иска да съхрани информация за работа извън мрежата">

@@ -24,12 +24,12 @@
 <!ENTITY devmgr.button.unload.accesskey         "О">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Въведете информация за модула, който добавяте.">
-<!ENTITY loaddevice.modname                     "Име на модул:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.info                        "Въведете информация за добавяния модул.">
+<!ENTITY loaddevice.modname                     "Име на модула:">
+<!ENTITY loaddevice.modname.accesskey           "м">
 <!ENTITY loaddevice.modname.default             "Нов модул на PKCS#11">
-<!ENTITY loaddevice.filename                    "Име на файл на модул:">
-<!ENTITY loaddevice.filename.accesskey          "ф">
+<!ENTITY loaddevice.filename                    "Файл на модула:">
+<!ENTITY loaddevice.filename.accesskey          "Ф">
 <!ENTITY loaddevice.browse                      "Разглеждане…">
 <!ENTITY loaddevice.browse.accesskey            "Р">
 

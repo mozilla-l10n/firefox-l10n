@@ -11,10 +11,10 @@
 <!ENTITY certmgr.tab.orphan2                  "Други">
 
 <!ENTITY certmgr.mine                         "Имате сертификати от тези организации, които ви идентифицират:">
-<!ENTITY certmgr.others                       "Имате сертификати във файл, които идентифицират следните хора:">
-<!ENTITY certmgr.websites2                    "Във файла имате сертификати, идентифициращи следните сървъри:">
-<!ENTITY certmgr.cas                          "Имате сертификати във файл, които идентифицират следните сертификатни удостоверители:">
-<!ENTITY certmgr.orphans                      "Във файла имате сертификати, които не попадат в никоя от другите категории:">
+<!ENTITY certmgr.others                       "Имате инсталирани сертификати, които идентифицират следните хора:">
+<!ENTITY certmgr.websites2                    "Имате инсталирани сертификати, които идентифицират следните сървъри:">
+<!ENTITY certmgr.cas                          "Имате инсталирани сертификати, които идентифицират следните удостоверители на сертификати:">
+<!ENTITY certmgr.orphans                      "Имате инсталирани сертификати, които не попадат в никоя от другите категории:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Основни">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">
@@ -61,7 +61,7 @@
 <!ENTITY certmgr.export.accesskey             "И">
 <!ENTITY certmgr.delete2.label                "Изтриване…">
 <!ENTITY certmgr.delete2.accesskey            "т">
-<!ENTITY certmgr.delete_builtin.label         "Изтриване или недоверяване повече…">
+<!ENTITY certmgr.delete_builtin.label         "Изтриване или недоверяване…">
 <!ENTITY certmgr.delete_builtin.accesskey     "д">
 <!ENTITY certmgr.backup2.label                "Резервно копие…">
 <!ENTITY certmgr.backup2.accesskey            "Р">
