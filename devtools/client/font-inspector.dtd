@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "이 페이지에 사용된 모든 글꼴 보기">
+<!ENTITY showAllFontsUsed "사용된 모든 글꼴 보기">
 <!ENTITY usedAs "다음으로 쓰임: ">
 <!ENTITY system "시스템">
 <!ENTITY remote "원격">
