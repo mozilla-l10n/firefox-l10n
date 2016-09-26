@@ -47,7 +47,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "एउटा निजी कुञ्जी उत्पन्न गरिँदै">
-<!ENTITY createCertInfo.msg1 "कुञ्जीउत्पति प्रगतिमा… यसकोलागी केही मिनेट लाग्न सक्छ…।">
+<!ENTITY createCertInfo.msg1 "कुञ्जीउत्पति प्रगतिमा… यसको लागि केही मिनेट लाग्न सक्छ…।">
 <!ENTITY createCertInfo.msg2 "कृपया प्रतिक्षा गर्नुहोस्…">
 <!-- Strings for protectedAuth dialog -->
 

@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "ट्रयाक विरुद्धको सुरक्षा ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ले यो पेजको भागहरू रोकिरहेको छ जसले तपाईँको ब्राउजिङ गतिविधि ट्रयाक गर्न सक्छ।">
-<!ENTITY trackingProtection.detectedNotBlocked3 "यो साइटमा तपाईँको ब्राउजिङ ट्र्याक गर्न सक्ने तत्वहरू छन्। तपाईँले संरक्षण अक्षम गर्नुभएको छ।">
+<!ENTITY trackingProtection.detectedNotBlocked3 "यो साइटमा तपाईँको ब्राउजिङ ट्र्याक गर्न सक्ने तत्त्वहरू छन्। तपाईँले संरक्षण अक्षम गर्नुभएको छ।">
 <!ENTITY trackingProtection.notDetected3 "यस पानामा कुनै पनि ट्रयाकगर्ने अवयव भेटिएन।">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

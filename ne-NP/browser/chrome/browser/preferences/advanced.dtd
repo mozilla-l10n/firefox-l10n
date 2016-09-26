@@ -80,7 +80,7 @@
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "अद्यावधिको लागि जाँच गर्नुहोस् ,तर सफ्टवेयर स्थापना गर्ने कि नगर्ने मलाई छान्नदिनुहोस्">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "अद्यावधिहरूको लागि कहिल्यै जाँच नगर्ने (सिफारिस गरिदैन: सुरक्षा जोखिम)">
+<!ENTITY updateManual.label              "अद्यावधिहरूको लागि कहिल्यै जाँच नगर्ने (सिफारिस गरिँदैन: सुरक्षा जोखिम)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
