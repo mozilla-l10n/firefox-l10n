@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
 <!ENTITY  historyHeader.post.label         "‌">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजि इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
+<!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजी इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

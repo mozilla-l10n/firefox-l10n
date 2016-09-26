@@ -45,7 +45,7 @@
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 <!ENTITY certmgr.certserver                   "सर्भर">
 <!ENTITY certmgr.override_lifetime            "जीवन काल">
-<!ENTITY certmgr.tokenname                    "सुरक्षा यन्त्र">
+<!ENTITY certmgr.tokenname                    "सुरक्षा उपकरण">
 <!ENTITY certmgr.begins                       "सुरु">
 <!ENTITY certmgr.expires                      "समाप्त">
 <!ENTITY certmgr.email                        "इमेल ठेगाना">

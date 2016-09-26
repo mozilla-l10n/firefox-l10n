@@ -1,39 +1,39 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "एड-अन प्रबन्धक">
+<!ENTITY addons.windowTitle                   "एडअन प्रबन्धक">
 
-<!ENTITY search.placeholder                   "सबै एड-अन खोज्नुहोस्">
+<!ENTITY search.placeholder                   "सबै एडअन खोज्नुहोस्">
 <!ENTITY search.buttonlabel                   "खोजी गर्नुहोस्">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "लोड हुँदैछ…">
-<!ENTITY listEmpty.installed.label            "तपाईँले यस प्रकारको कुनै पनि एड-अन स्थापना गर्नुभएको छैन">
+<!ENTITY listEmpty.installed.label            "तपाईँले यस प्रकारको कुनै पनि एडअन स्थापना गर्नुभएको छैन">
 <!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
-<!ENTITY listEmpty.recentUpdates.label        "तपाईँले हालै कुनै पनि एड-अनहरू स्थापना गर्नु भएको छैन">
+<!ENTITY listEmpty.recentUpdates.label        "तपाईँले हालै कुनै पनि एडअनहरू स्थापना गर्नु भएको छैन">
 <!ENTITY listEmpty.findUpdates.label          "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
-<!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एड-अन पाइएन">
-<!ENTITY listEmpty.button.label               "एड-अन बारेमा थप जान्नुहोस्">
-<!ENTITY installAddonFromFile.label           "फाइलबाट एड-अनहरू स्थापना गर्नुहोस्…">
+<!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एडअन पाइएन">
+<!ENTITY listEmpty.button.label               "एडअन बारेमा थप जान्नुहोस्">
+<!ENTITY installAddonFromFile.label           "फाइलबाट एडअनहरू स्थापना गर्नुहोस्…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "सबै एड-अनहरूको लागि उपकरणहरू">
+<!ENTITY toolsMenu.tooltip                    "सबै एडअनहरूको लागि उपकरणहरू">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
 
 <!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
-<!ENTITY debugAddons.label                    "एड-अनहरू डिबग गर्नुहोस्">
+<!ENTITY debugAddons.label                    "एडअनहरू डिबग गर्नुहोस्">
 <!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "सबै एड-अनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
-<!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एड-अनहरू हुन सक्छन्।">
+<!ENTITY warning.safemode.label                    "सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
+<!ENTITY warning.checkcompatibility.label          "एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
-<!ENTITY warning.checkcompatibility.enable.tooltip "एड-अन समर्थन जाँच सक्षम पार्नुहोस्">
-<!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
+<!ENTITY warning.checkcompatibility.enable.tooltip "एडअन समर्थन जाँच सक्षम पार्नुहोस्">
+<!ENTITY warning.updatesecurity.label              "एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
 <!-- categories / views -->

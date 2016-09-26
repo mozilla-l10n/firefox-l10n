@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY setPassword.title                 "मुख्य पासवर्ड परिवर्तन गर्नुहोस्">
-<!ENTITY setPassword.tokenName.label       "सुरक्षा यन्त्र">
+<!ENTITY setPassword.tokenName.label       "सुरक्षा उपकरण">
 <!ENTITY setPassword.oldPassword.label     "हालको पासवर्ड:">
 <!ENTITY setPassword.newPassword.label     "नयाँ पासवर्ड प्रविष्ट गर्नुहोस्:">
 <!ENTITY setPassword.reenterPassword.label "पासवर्ड पुनः प्रविष्टि गर्नुहोस्:">
