@@ -25,7 +25,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Търсене</button>
     </div>
-  <li>Ако не можете да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.
+  <li>Ако не може да отворите друга страница, проверете връзката за мобилни данни или Wi-Fi.
     <button id='wifi'>Включване на Wi-Fi</button>
   </li>
 </ul>">
@@ -108,13 +108,13 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Това е или проблем с настройките на сървъра, или някой се опитва се представи за него.</li> <li>Ако и преди сте се свързвали успешно с него, има вероятност грешката да е временна и можете да опитате по-късно.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Това е или проблем с настройките на сървъра, или някой се опитва се представи за него.</li> <li>Ако и преди сте се свързвали успешно с него, има вероятност грешката да е временна и може да опитате по-късно.</li> </ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "<ul>
   <li>Сайтът може да е временно недостъпен или натоварен. Опитайте отново след малко.</li>
-  <li>Ако не можете да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.
+  <li>Ако не може да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.
     <button id='wifi'>Включване на Wi-Fi</button>
   </li>
 </ul>">
@@ -125,7 +125,7 @@
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърлянето на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
+<!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 
