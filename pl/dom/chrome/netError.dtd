@@ -36,10 +36,10 @@
 <!ENTITY netOffline.longDesc2 "<p>Przeglądarka pracuje w trybie offline i nie może pobrać żądanego elementu.</p><ul><li>Czy komputer podłączony jest do działającej sieci?</li><li>Naciśnij „Spróbuj ponownie”, by przejść do trybu online i odświeżyć stronę.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
-<!ENTITY contentEncodingError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Niebezpieczny typ pliku">
-<!ENTITY unsafeContentType.longDesc "<ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY netReset.title "Przerwane połączenie">
 <!ENTITY netReset.longDesc "<p>Połączenie sieciowe zostało przerwane podczas negocjacji. Spróbuj ponownie.</p>">
@@ -75,10 +75,10 @@
 <!ENTITY cspBlocked.longDesc "<p>Przeglądarka uniemożliwiła tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Połączenie nie gwarantuje bezpieczeństwa">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne. Administrator strony musi naprawić serwer, zanim będzie można ją odwiedzić.</p><p>Kod błędu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

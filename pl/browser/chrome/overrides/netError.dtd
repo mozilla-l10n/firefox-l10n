@@ -41,10 +41,10 @@
 <!ENTITY netOffline.longDesc2 "<ul><li>Naciśnij „Spróbuj ponownie”, by przejść do trybu online i odświeżyć stronę.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
-<!ENTITY contentEncodingError.longDesc "<ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Niebezpieczny typ pliku">
-<!ENTITY unsafeContentType.longDesc "<ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY netReset.title "Przerwane połączenie">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -68,7 +68,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Należy sprawdzić, czy zainstalowany jest menedżer zabezpieczeń (PSM).</li><li>Powodem tego błędu może też być niestandardowa konfiguracja serwera.</li></ul>">
 
 <!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul><li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
 <!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 
@@ -87,7 +87,7 @@
 <!ENTITY errorReporting.learnMore "Więcej informacji…">
 
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY sslv3Used.longDesc2 "Szczegóły: SSL_ERROR_UNSUPPORTED_VERSION">
