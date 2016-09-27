@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Yir isallen: Iccer agi yeɣli">
-<!ENTITY tabCrashed.message "Tzemreḍ aţ-medleḍ iccer agi, aţ-iddareṭ, neɣ arred akkw iccaren yeɣlin.">
+<!ENTITY tabCrashed.message "Tzemreḍ ad tmedleḍ iccer agi, ad t-iddareḍ, neɣ erred akk iccaren yeɣlin.">
 <!ENTITY tabCrashed.sendReport "Azen assaɣ n uɣelluy iwakken aţ-ssinfeḍ yir isallen">
 <!ENTITY tabCrashed.includeURL "Seddu tansa n usebtar anda telliḍ">
-<!ENTITY tabCrashed.commentPlaceholder "Rnu awennit (Iwenniten aten-walin akkw yemdanen)">
+<!ENTITY tabCrashed.commentPlaceholder "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY tabCrashed.emailPlaceholder "Sekcem dagi tansa n yimayl inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.crashReporter "Assaɣ n uɣelluy n Mozilla">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan assaɣ n uɣelluy; tanemmirt-ik ɣef uttekki n usnerni n &brandShortName;.">
 <!ENTITY tabCrashed.closeTab "Mdel iccer agi">
 <!ENTITY tabCrashed.restoreTab "Err-ed iccer agi">
-<!ENTITY tabCrashed.restoreAll "Err-ed akkw iccaren yeɣlin">
+<!ENTITY tabCrashed.restoreAll "Err-d akk iccaren yeɣlin">

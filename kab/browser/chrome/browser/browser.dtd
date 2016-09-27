@@ -48,14 +48,14 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "b">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amayanut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
-<!ENTITY  bookmarkAllTabs.label              "Creḍ akkw Iccaren...">
+<!ENTITY  bookmarkAllTabs.label              "Creḍ akk Iccaren...">
 <!ENTITY  bookmarkAllTabs.accesskey          "c">
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
 <!ENTITY  undoCloseTab.accesskey             "S">
 <!ENTITY  closeTab.label                     "Mdel accer">
 <!ENTITY  closeTab.accesskey                 "M">
 
-<!ENTITY  listAllTabs.label      "Bder akkw iccaren">
+<!ENTITY  listAllTabs.label      "Bder akk iccaren">
 
 <!ENTITY tabCmd.label "Iccer amaynut">
 <!ENTITY tabCmd.accesskey "I">
@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Smiren akk iccaren">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "m">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ceḍ akkw iccaren…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Creḍ akk iccaren…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "e">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
@@ -109,8 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Agdil ačuran">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Sken akkw iccaren">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.label "Sken akk iccaren">
+<!ENTITY showAllTabsCmd.accesskey "k">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Qqen ɣer &syncBrand.shortName.label;">
@@ -180,8 +180,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Multeɣ ɣer usebtar agi">
 <!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebtar agi">
 <!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebtar agi…">
-<!ENTITY addCurPagesCmd.label "Creḍ akkw Iccaren...">
-<!ENTITY showAllBookmarks2.label "Sken akkw ticraḍ n isebtar">
+<!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
+<!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
 <!ENTITY otherBookmarksCmd.label "Ticrad nniḍen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n ticraḍ n isebtar">
@@ -806,7 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ n beṭṭu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "A">
 <!ENTITY getUserMedia.audioCapture.label "Ameslaw seg iccer i tebḍiḍ.">
-<!ENTITY getUserMedia.allWindowsShared.message "Akkw isfuyla umanen deg ugdil inek ad ţwabḍun.">
+<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla umanen deg ugdil inek ad ttwabḍun.">
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; isewḥel kra n yeḥricen n usebtar ig zemren ad sfuɣlen tunigin inek.">
