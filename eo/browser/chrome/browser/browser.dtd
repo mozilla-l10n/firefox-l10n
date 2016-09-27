@@ -206,27 +206,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vidi informon de la retejo">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Vidi sciigon">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vidi la peton de pozicio">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Vidi la mesaĝon de instalo de la aldonaĵo">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vidi la mesaĝon de konservado de malkonektitaĵoj">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administri vian akreditilon">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontroli ĉu vi volas konservi vian pasvorton">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administri la uzon de kromprogramoj en tiu ĉi paĝo">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ŝanĝi, ĉu vi povas ricevi sciigojn el tiu ĉi retejo">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administri la dividon de via filmilo kaj/aŭ mikrofono kun la retejo">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administri la dividon de via mikrofono kun la retejo">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administri la dividon de viaj fenestroj aŭ via ekrano kun la retejo">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Malfermi panelon de mesaĝoj">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Malfermi panelon de peto de pozicio">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Malfermi panelon de mesaĝoj de instalo de aldonaĵo">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Malfermi panelon de konservejo por malkonektitaĵoj">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Malfermi panelon de konservo de pasvortoj">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administri uzon de kromprogramoj">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Decidi ĉu vi povas ricevi sciigojn el la retejo">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Elekti ĉu la retejo povas kaŝi la musmontrilon">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Vidi la mesaĝon de instalo de la servo">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traduki tiun ĉi paĝon">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administri la tradukon de paĝo">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administri la uzon de programaron DRM">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administri dividon de via filmilo kaj/aŭ mikrofonon kun la retejo">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administri dividon de via mikrofono kun la retejo">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administri dividon de viaj fenestroj aŭ ekrano kun la retejo">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Malfermi panelon de mesaĝoj de instalo">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduki tiun ĉi paĝon">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administri tradukadon de paĝo">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administri uzon de DRM programaro">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Vi blokis vian filmilon por tiu ĉi retejo.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Vi blokis vian mikrofonon por tiu ĉi retejo.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Vi blokis dividon de la ekrano por tiu retejo.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Vi blokis informon pri via pozicio por tiu ĉi retejo.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Vi blokis konservon de datumoj por ti ĉi retejo.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vi blokis sciigojn por tiu ĉi retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
@@ -423,11 +426,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Kion serĉi">
-<!ENTITY contentSearchSubmit.label    "Sendi serĉon">
+<!ENTITY contentSearchSubmit.tooltip  "Sendi serĉon">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -453,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ŝanĝi agordojn de serĉo">
+<!ENTITY changeSearchSettings.tooltip "Ŝanĝi agordojn de serĉo">
 
 <!ENTITY searchInNewTab.label         "Serĉi en nova langeto">
 <!ENTITY searchInNewTab.accesskey     "l">
@@ -829,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktivigi protekton">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protekto kontraŭ spurado ne estas aktiva">
-
-<!ENTITY pointerLock.notification.message "Premu ESC iam ajn por denove montri ĝin.">
 
 <!ENTITY pluginNotification.showAll.label "Montri ĉion">
 <!ENTITY pluginNotification.showAll.accesskey "M">
