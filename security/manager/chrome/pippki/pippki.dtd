@@ -46,7 +46,7 @@
 <!ENTITY chooseToken.message1 "Por favor, selecione um token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Gerando uma chave privada">
+<!ENTITY createCertInfo.title "Gerando uma chave privativa">
 <!ENTITY createCertInfo.msg1 "Geração de chave em progresso… Pode levar alguns minutos….">
 <!ENTITY createCertInfo.msg2 "Por favor, aguarde…">
 

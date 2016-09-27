@@ -32,12 +32,12 @@
 <!ENTITY runtimeMenu_accesskey "m">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabela de permissões">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
-<!ENTITY runtimeMenu_takeScreenshot_label "Imagem da página">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "I">
-<!ENTITY runtimeMenu_showDetails_label "Propriedades do ambiente de execução">
-<!ENTITY runtimeMenu_showDetails_accesskey "P">
+<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitorar">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferência do dispositivo">
@@ -102,12 +102,12 @@
 <!ENTITY newAppWindowTitle "Novo aplicativo">
 <!ENTITY newAppHeader "Selecionar modelo">
 <!ENTITY newAppLoadingTemplate "Carregando modelos…">
-<!ENTITY newAppProjectName "Nome do projeto:">
+<!ENTITY newAppProjectName "Project Name:">
 
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Fechar">
+<!ENTITY deck_close "Close">
 
 <!-- Addons -->
 <!ENTITY addons_title "Componentes extras">
