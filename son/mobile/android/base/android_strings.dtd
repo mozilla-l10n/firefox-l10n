@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Tuusu">
 <!ENTITY button_copy "Berandi">
 
+<!ENTITY home_top_sites_title "Nungu kaasey">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Hantumkaw gunari doo-šilbay ka caw bila nda ciyari.">
 <!ENTITY helper_triple_readerview_open_button "Tonton doo-šilbawey ga">
 
-
+<!ENTITY activity_stream_topsites "Nungu kaasey">
+<!ENTITY activity_stream_highlights "Fellantey">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Ka tonton">
