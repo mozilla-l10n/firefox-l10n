@@ -42,7 +42,7 @@
 <!ENTITY helpus.middle              " neɣ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ttekki!">
-<!ENTITY helpus.end                 "-">
+<!ENTITY helpus.end                 "‌">
 
 <!ENTITY releaseNotes.link          "D acu i d amaynut">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
