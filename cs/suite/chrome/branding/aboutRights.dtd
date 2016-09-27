@@ -43,6 +43,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "zde">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služby doplňků: ">
@@ -61,6 +62,9 @@
 <!ENTITY rights.safebrowsing-term4 "Bezpečné prohlížení je nyní vypnuto">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Prohlížení se znalostí polohy: ">
+<!ENTITY rights.locationawarebrowsing-term1 "Otevřít předvolby aplikace">
+<!ENTITY rights.locationawarebrowsing-term4 "Prohlížení se znalostí polohy je nyní vypnuto">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Organizace &vendorShortName; může libovolně ukončit nebo změnit užívání Služeb.">
