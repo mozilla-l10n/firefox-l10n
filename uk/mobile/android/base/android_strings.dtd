@@ -169,7 +169,7 @@
 <!ENTITY overlay_no_synced_devices "Не знайдено пристроїв, підключених до облікового запису Firefox">
 
 <!ENTITY pref_category_search3 "Пошук">
-<!ENTITY pref_category_search_summary2 "Додати, встановити типовим, пропозиції">
+<!ENTITY pref_category_search_summary2 "Додавання, встановлення типовим, пропозиції">
 <!ENTITY pref_category_accessibility "Доступність">
 <!ENTITY pref_category_accessibility_summary2 "Розмір тексту, масштабування, голосове введення">
 <!ENTITY pref_category_privacy_short "Приватність">
