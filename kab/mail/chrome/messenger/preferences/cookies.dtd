@@ -9,7 +9,7 @@
 <!ENTITY cookiedomain.label                "Asmel web">
 <!ENTITY button.removecookie.label         "Kkes inagan n tuqqna">
 <!ENTITY button.removecookie.accesskey     "K">
-<!ENTITY button.removeallcookies.label     "Kkes akkw inagan n tuqqna">
+<!ENTITY button.removeallcookies.label     "Kkes akk inagan n tuqqna">
 <!ENTITY button.removeallcookies.accesskey "a">
 
 <!ENTITY props.name.label                  "Isem:">

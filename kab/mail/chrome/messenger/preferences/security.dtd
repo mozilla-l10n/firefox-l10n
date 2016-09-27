@@ -35,7 +35,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; yezmer ad yecfu ɣef awalen uffiren n imiḍan inek imeṛṛa.">
 <!ENTITY useMasterPassword.label        "Seqdec awal uffir agejdan">
 <!ENTITY useMasterPassword.accesskey    "S">
-<!ENTITY masterPassword.intro           "Awal uffir agejdan ad immesten akkw awalen-ik uffiren, acukan issefk ad tsekcmeḍ yiwen i yal tiɣimit.">
+<!ENTITY masterPassword.intro           "Awal uffir agejdan ad immesten akk awalen-ik uffiren, acukan issefk ad tsekcmeḍ yiwen i yal tiɣimit.">
 <!ENTITY changeMasterPassword.label     "Snifel awal uffir agejdan…">
 <!ENTITY changeMasterPassword.accesskey "S">
 <!ENTITY savedPasswords.label           "Awalen uffiren iţwakelsen…">
