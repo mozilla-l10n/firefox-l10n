@@ -207,9 +207,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "سائٹ کی معلومات کا نظارہ کریں">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "پیغام پینل کھولیں">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "محل وقوع درخواست پینل کھولیں">
 
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "آف لائن ذخیرہ پیغام پینل کھولیں">
 
 
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "تبدیل کریں کے آپ اس سائٹ سے اطلاع وصول کرنا چاہتے ہے یا نہیں">
