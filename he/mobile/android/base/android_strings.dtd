@@ -82,6 +82,7 @@
 <!ENTITY bookmark_folder_items "&formatD; פריטים">
 <!ENTITY bookmark_folder_one_item "פריט אחד">
 
+<!ENTITY reader_saved_offline "נשמר בלי צורך בחיבור לרשת">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -805,3 +806,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "‏‏זמין במצב לא מקוון">
 <!ENTITY helper_triple_readerview_open_button "הוספה למועדפים">
 
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
