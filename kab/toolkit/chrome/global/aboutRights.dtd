@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "Issefk akkw tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan agi ad ttwabedrent dagi.">
+<!ENTITY rights.intro-point3-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent dagi.">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "Kran n temhalin n &brandShortName; seqdacent tanfiwin n telɣut ɣef Web; acu kan, ur nezmir ara aneḍmen ɣer 100&#037; d akken ur gbirent ara tuccḍiwin. Tzemreḍ ad tafeḍ talɣut leqqayen, ula d talɣut ɣef urermed n tanfiwin di ">
@@ -40,7 +40,7 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Ma yella asɣeẓan agi isedduy tanfiwin web, isefk akkw tisertiyin n useqdec    ittusnasen ɣef tanfiwin agi ad cudden ɣeṛ tigezmi.">
+<!ENTITY rights.intro-point4a-unbranded "Ma yella asɣeẓan-agi isedduy tanfiwin web, isefk akk tisertiyin n useqdec ittusnasen ɣef tanfiwin-agi ad cudden ɣeṛ tigezmi.">
 <!ENTITY rights.intro-point4b-unbranded "Tanfiwin n isemlen web">
 <!ENTITY rights.intro-point4c-unbranded " tigezmi.">
 
@@ -79,7 +79,7 @@
 <!ENTITY rights.webservices-unbranded "Taskant n tenfiwin n isemlen web yeddan deg useɣẓan, id d-yeglan s tinaḍin ɣef wamek ad tureremdent, ma yebbwi-d waddad, issefk ad ittumel dagi.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "Issefk akkw tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan agi ad ttwabedrent dagi.">
+<!ENTITY rights.webservices-term1-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent dagi.">
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights2.webservices-term1 "&vendorShortName; d imttekiyen ines, imuragen, d imendiden mahalen akken ad farasen tanfiwin tufrinin u d timaynutin. Acu kan, ur nezmir ara anedmen d akken talɣut agi ad tili leqqayet neɣ ur ɣur-s ara tuccḍiwin. Amedya, tanfa n usewḥel n yir isemlen web tezmer ur tessawad ara ad temmel kra n isemlen iweɛren neɣ ad tecceḍ di kra degsen yellan d iɣelsanen. Ayen nniḍen, akk adigen yettwamlen sɣuṛ tanfa n usideg n tirakalt d asteg kan. mačči d nekkni neɣ isaǧǧawen n tanfa a yizmiren ad ḍemnen tisseddi nsen.">

@@ -20,7 +20,7 @@
 <!ENTITY printerInput.accesskey "s">
 
 <!ENTITY printrangeGroup.label "Isebtaren">
-<!ENTITY allpagesRadio.label "Akkw">
+<!ENTITY allpagesRadio.label "Akk">
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "Isebtaren">
 <!ENTITY rangeRadio.accesskey  "I">

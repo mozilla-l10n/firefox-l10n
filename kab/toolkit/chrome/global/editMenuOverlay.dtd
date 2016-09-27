@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "t">
 <!ENTITY deleteCmd.label           "Kkes">
 <!ENTITY deleteCmd.accesskey       "K">
-<!ENTITY selectAllCmd.label        "Fren akkw">
+<!ENTITY selectAllCmd.label        "Fren akk">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Af">

@@ -7,5 +7,5 @@
 <!ENTITY date.heading               "Azemz n tuzzna">
 <!ENTITY noReports.label            "Ula d yiwen n ussaɣ n uɣelluy ur iţwazen.">
 <!ENTITY noConfig.label             "Asnas agi ur iţusbadu ara akken ad isken assaɣen n uɣelluy. Issefk aţbaduḍ imeţţi <code>breakpad.reportURL</code>.">
-<!ENTITY clearAllReports.label      "Kkes akkw issaɣen">
+<!ENTITY clearAllReports.label      "Kkes akk issaɣen">
 

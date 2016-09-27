@@ -34,7 +34,7 @@
 <!ENTITY report.disabled                                     "Assaɣ n uɣelluy ireremed.">
 <!ENTITY report.failed                                       "Tuzzna ur tiddi ara.">
 <!ENTITY report.unavailable                                  "Ulac assaɣ.">
-<!ENTITY report.comment                                      "Rnu awennit (Iwenniten aten-walin akkw yemdanen)">
+<!ENTITY report.comment                                      "Rnu awennit (Iwenniten aten-walin akk yemdanen)">
 <!ENTITY report.pageURL                                      "Seddu URL n asebtar">
 
 <!ENTITY plugin.file                                         "Afaylu">

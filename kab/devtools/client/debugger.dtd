@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Remed/rermed akkw igazen n uzgu">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Remed/rermed akk igazen n uzgu">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
 
@@ -189,7 +189,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch           "Kkes akkw tinfaliyin timucaṛin">
+<!ENTITY debuggerUI.removeAllWatch           "Kkes akk tinfaliyin timucaṛin">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that

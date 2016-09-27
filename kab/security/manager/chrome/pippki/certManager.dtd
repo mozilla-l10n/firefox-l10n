@@ -65,7 +65,7 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "K">
 <!ENTITY certmgr.backup2.label                "Kles…">
 <!ENTITY certmgr.backup2.accesskey            "l">
-<!ENTITY certmgr.backupall2.label             "Kles akkw…">
+<!ENTITY certmgr.backupall2.label             "Kles akk…">
 <!ENTITY certmgr.backupall2.accesskey         "s">
 <!ENTITY certmgr.restore2.label               "Kter…">
 <!ENTITY certmgr.restore2.accesskey           "r">

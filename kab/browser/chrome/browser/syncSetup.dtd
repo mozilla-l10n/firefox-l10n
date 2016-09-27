@@ -103,7 +103,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Sentem">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ad ihul tura akkw isefka n iminig n yibenk agi d wid n umiḍan n umtawi.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ad ihul tura akk isefka n iminig n yibenk agi d wid n umiḍan n umtawi.">
 <!ENTITY confirm.client3.label         "Ɣur-k : isefka yagi n &brandShortName; ɣef yibenk agi ad ţwakksen:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ad inɣel sakin isefka-ik n &syncBrand.fullName.label; ɣer yibenk agi.">
 <!ENTITY confirm.server2.label         "Alɣu: Isefka n ibenkan agi ad ttwasfeɛjen s isefka-ik idiganen :">
