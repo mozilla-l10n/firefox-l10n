@@ -47,7 +47,7 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Awid iznan imaynuten i">
 <!ENTITY getNewMsgForCmd.accesskey "y">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "Akkw imiḍanen">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Akk imiḍanen">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "m">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Amiḍan amiran">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "n">
@@ -214,7 +214,7 @@
 <!ENTITY msgsMenu.accesskey "z">
 <!ENTITY threads.label "Asqeṛdec">
 <!ENTITY threads.accesskey "q">
-<!ENTITY allMsgsCmd.label "Akkw">
+<!ENTITY allMsgsCmd.label "Akk">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Snefli akk asqerdec">
 <!ENTITY expandAllThreadsCmd.accesskey "S">
@@ -233,7 +233,7 @@
 
 <!ENTITY headersMenu.label "Iqeṛṛa">
 <!ENTITY headersMenu.accesskey "q">
-<!ENTITY headersAllCmd.label "Akkw">
+<!ENTITY headersAllCmd.label "Akk">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Amagnu">
 <!ENTITY headersNormalCmd.accesskey "m">
@@ -500,7 +500,7 @@
 <!ENTITY getMsgButton1.label "Awid iznan">
 <!ENTITY newMsgButton.label "Aru">
 <!ENTITY replyButton.label "Err">
-<!ENTITY replyAllButton.label "Err-asen akkw">
+<!ENTITY replyAllButton.label "Err-asen akk">
 <!ENTITY replyListButton.label "Err i tebdart">
 <!ENTITY forwardButton.label "Ɣer &amp;zdat">
 <!ENTITY fileButton.label "Afaylu">
@@ -536,7 +536,7 @@
 
 <!ENTITY advancedButton.tooltip "Anadi leqqayen n iznan">
 <!ENTITY getMsgButton.tooltip "Awi-d iznan imaynuten">
-<!ENTITY getAllNewMsgCmd.label "Awid akkw iznan imaynuten ">
+<!ENTITY getAllNewMsgCmd.label "Awi-d akk iznan imaynuten ">
 <!ENTITY getAllNewMsgCmd.accesskey "y">
 <!ENTITY newMsgButton.tooltip "Rnu izen amaynut">
 <!ENTITY replyButton.tooltip "Err i yizen">
@@ -727,7 +727,7 @@
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup2.label "Ḍfaṛ igrawen n isalen">
 <!ENTITY contextReplyNewsgroup2.accesskey "f">
-<!ENTITY contextReplyAll.label "Err-asen akkw">
+<!ENTITY contextReplyAll.label "Err-asen akk">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Err i tebdart">
 <!ENTITY contextReplyList.accesskey "b">
@@ -906,7 +906,7 @@
 
 <!ENTITY minimizeWindow.label "Semẓi">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Awid akkw ɣer zdat">
+<!ENTITY bringAllToFront.label "Awi-d akk ɣer zdat">
 <!ENTITY zoomWindow.label "Zoom">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 

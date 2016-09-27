@@ -14,7 +14,7 @@
 <!ENTITY bulletList.value "Tabdart s tneqqidin (s war uṭṭunen)">
 <!ENTITY numberList.value "Tabdart tumḍint">
 <!ENTITY definitionList.value "Tabdart n tbadut">
-<!ENTITY changeEntireListRadio.label "Snifel akkw tabdart">
+<!ENTITY changeEntireListRadio.label "Snifel akk tabdart">
 <!ENTITY changeEntireListRadio.accessKey "n">
 <!ENTITY changeSelectedRadio.label "Snifel kan iferdisen ifernen">
 <!ENTITY changeSelectedRadio.accessKey "f">
