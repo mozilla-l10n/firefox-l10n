@@ -67,7 +67,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Безбедни режим">
 
-<!ENTITY aboutSupport.showDir.label "Отвори Фасциклу">
+<!ENTITY aboutSupport.showDir.label "Отвори фасциклу">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
