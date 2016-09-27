@@ -26,7 +26,7 @@
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar pré-definição">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-<!ENTITY defaultToParagraph.label             "Utilizar como predefinição o formato Paragrafo em vez de Corpo de texto">
+<!ENTITY defaultToParagraph.label             "Utilizar como predefinição o formato Parágrafo em vez de Corpo de texto">
 <!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
