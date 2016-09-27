@@ -10,7 +10,7 @@
 <!ENTITY treehead.languageName.label      "Tutlayin">
 <!ENTITY removeLanguage.label             "Kkes tutlayin">
 <!ENTITY removeLanguage.accesskey         "K">
-<!ENTITY removeAllLanguages.label         "Kkes akkw tutlayin">
+<!ENTITY removeAllLanguages.label         "Kkes akk tutlayin">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Ulac tasuqilt ad nsumer i yisemlen agi:">

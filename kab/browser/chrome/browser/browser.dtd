@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Mahel war tuqqna">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.accesskey "q">
 
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
 <!ENTITY menubarCmd.accesskey "A">
@@ -262,8 +262,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ifecka">
 <!ENTITY toolsMenu.accesskey          "I"> 
 
-<!ENTITY keywordfield.label           "Rnu awal n tsaruţ i wenadi agi…">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.label           "Rnu awal n tsarutt i wenadi agi…">
+<!ENTITY keywordfield.accesskey       "w">
 
 <!ENTITY downloads.label              "isidar">
 <!ENTITY downloads.accesskey          "i">
@@ -595,8 +595,8 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Séken isenqaden">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.label     "Sken isenqaden">
+<!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Fer isenqaden">
 <!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label       "Agdil aččuran">
@@ -654,7 +654,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "Mdel">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "M">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -869,7 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Ma tɣeleḍ :">
 <!ENTITY panicButton.view.deleteCookies           "Sfeḍ <html:strong>inagan n tuqqna</html:strong> n melmi kan">
 <!ENTITY panicButton.view.deleteHistory           "Sfeḍ <html:strong> amazray </html:strong> n melmi kan">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Mdel akkw <html:strong>iccaren</html:strong> d isfuyla<html:strong>imaṛṛa</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Mdel akk<html:strong>iccaren</html:strong> d isfuyla<html:strong>imaṛṛa</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Ldi asfaylu ilem amaynut">
 
 <!ENTITY panicButton.view.undoWarning             "Ulac tuɣalin ɣer deffir.">

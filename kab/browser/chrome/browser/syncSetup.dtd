@@ -46,7 +46,7 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; iseḥbibir ɣef tbaḍnit-ik">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Iwakken anqadeṛ tabaḍnit inek, akkw isefka inek ad ttwagelhen send tuzna nsen ɣeṛ uqeddac. Tasarutt n tukksa n uwgelhen n isefka yinek ur tettwazan ara.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Iwakken anqadeṛ tabaḍnit inek, akk isefka inek ad ttwagelhen send tuzna nsen ɣeṛ uqeddac. Tasarutt n tukksa n uwgelhen n isefka yinek ur tettwazan ara.">
 <!ENTITY recoveryKeyEntry.label        "Taasaruţ-ik n tririt">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Sirew tasaruţ tamaynut">
