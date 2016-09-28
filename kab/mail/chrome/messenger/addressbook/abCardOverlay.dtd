@@ -89,7 +89,7 @@
 <!ENTITY Department.label               "Agezdu:">
 <!ENTITY Department.accesskey           "z">
 <!ENTITY Company.label                  "Tuddsa:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "d">
 <!ENTITY WorkAddress.label              "Tansa:">
 <!ENTITY WorkAddress.accesskey          "n">
 <!ENTITY WorkAddress2.label             "">

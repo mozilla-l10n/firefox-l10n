@@ -48,8 +48,8 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Eǧǧ-d iznan ɣef uqeddac">
 <!ENTITY leaveMsgsOnSrvr.accesskey "E">
-<!ENTITY portNum.label "Tabburt">
-<!ENTITY portNum.accesskey "o">
+<!ENTITY portNum.label "Tabburt:">
+<!ENTITY portNum.accesskey "b">
 <!ENTITY defaultPortLabel.label "Amezwer:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->

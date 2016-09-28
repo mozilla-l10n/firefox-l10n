@@ -41,7 +41,7 @@
 <!ENTITY deleteByAgeFromServer.accesskey "f">
 <!ENTITY daysEnd.label "ussan">
 <!ENTITY deleteOnServer2.label "Arama kkseɣ-ten">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.accesskey "k">
 <!ENTITY downloadOnBiff.label "Zdem iznan imaynuten s wudem awurman">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Isem n useqdac-ik">
@@ -51,7 +51,7 @@
 <!ENTITY modelMarkDeleted.label "Cṛeḍ amzun yettwakkes">
 <!ENTITY modelMarkDeleted.accesskey "m">
 <!ENTITY modelDeleteImmediately.label "Kkes-it tura">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "u">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Sfeḍ tanaka (&quot;Expunge&quot;) di tuffɣa">
 <!ENTITY expungeOnExit.accesskey "E">

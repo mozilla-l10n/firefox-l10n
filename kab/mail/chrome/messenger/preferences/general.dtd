@@ -4,7 +4,7 @@
 
 <!ENTITY messengerStartPage.label         "Asebtar agejdan n &brandShortName; ">
 <!ENTITY enableStartPage.label            "Ticki &brandShortName; yekker, sken asebter agejdan deg temnaṭ n yizen">
-<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY enableStartPage.accesskey        "T">
 <!ENTITY location.label                   "Adig:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Err-ed iɣewwaṛen n uwennez n tazwara">
@@ -22,14 +22,14 @@
 <!ENTITY customizeMailAlert.label         "Sagen…">
 <!ENTITY customizeMailAlert.accesskey     "S">
 
-<!ENTITY showTrayIcon.label               "Sken ">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.label               "Sken tignit n ufeggag n unagraw">
+<!ENTITY showTrayIcon.accesskey           "n">
 
 <!ENTITY play.label                       "Urar">
 <!ENTITY play.accesskey                   "U">
 <!ENTITY systemsound.label                "Imesli n unagraw amezwer i yimayl amaynut">
 <!ENTITY systemsoundMac.label             "Imeslin n ulɣu n unagraw">
-<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsoundMac.accesskey         "g">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Seqdec afaylu n imesli agi">
 <!ENTITY customsound.accesskey            "S">

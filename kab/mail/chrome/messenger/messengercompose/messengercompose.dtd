@@ -64,9 +64,9 @@
 <!ENTITY undoCmd.label "Sefsax">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "S">
-<!ENTITY redoCmd.label "Z">
+<!ENTITY redoCmd.label "Err-d">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
+<!ENTITY redoCmd.accesskey "E">
 <!ENTITY cutCmd.label "Gzem">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "G">

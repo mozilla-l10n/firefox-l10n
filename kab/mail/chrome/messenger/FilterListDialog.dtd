@@ -30,8 +30,8 @@
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Seḥbes">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Selkem imzizdeg (i-en) yettwafernen ɣef:">
-<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY folderPickerPrefix.label "Selkem imzizdeg (i-en) yettwafernen di:">
+<!ENTITY folderPickerPrefix.accesskey "w">
 <!ENTITY helpButton.label "Tallalt">
 <!ENTITY helpButton.accesskey "l">
 <!ENTITY closeCmd.key "W"> 

@@ -124,8 +124,8 @@
 <!ENTITY redoMarkAllCmd.label "Uăl ɣer ucraḍ n tɣuri n yiznan">
 <!ENTITY undoDefaultCmd.label "Sefsax">
 <!ENTITY undoDefaultCmd.accesskey "S">
-<!ENTITY redoDefaultCmd.label "Z">
-<!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY redoDefaultCmd.label "Err-d">
+<!ENTITY redoDefaultCmd.accesskey "E">
 <!-- View Menu -->
 
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
@@ -138,7 +138,7 @@
 <!ENTITY messagePaneLayoutStyle.label "Aseflu">
 <!ENTITY messagePaneLayoutStyle.accesskey "s">
 <!ENTITY messagePaneClassic.label "Timeẓri Klasik">
-<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneClassic.accesskey "m">
 <!ENTITY messagePaneWide.label "Timeẓri tahrawant">
 <!ENTITY messagePaneWide.accesskey "w">
 <!ENTITY messagePaneVertical.label "Timeẓri tubdiṭ">
@@ -477,10 +477,10 @@
 <!ENTITY filtersApplyToSelection.accesskey "k">
 <!ENTITY filtersApplyToMessage.label "Selkem imzizdigen ɣef yizen">
 <!ENTITY filtersApplyToMessage.accesskey "k">
-<!ENTITY runJunkControls.label "Selkem ">
-<!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Kkes ">
-<!ENTITY deleteJunk.accesskey "D">
+<!ENTITY runJunkControls.label "Selkem isenqaden n imaylen ispamen deg ukaram">
+<!ENTITY runJunkControls.accesskey "l">
+<!ENTITY deleteJunk.label "Kkes imaylen yettwaceṛḍen d ispamen deg ukaram">
+<!ENTITY deleteJunk.accesskey "K">
 <!ENTITY importCmd.label "Kter…">
 <!ENTITY importCmd.accesskey "r">
 <!ENTITY errorConsoleCmd.label "Tadiwent n tuccḍa">
