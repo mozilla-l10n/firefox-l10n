@@ -769,7 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">
 
 
-<!ENTITY syncBrand.shortName.label    "Mtawi">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Qqen ɣer &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
