@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ဆက်လက်ဖတ်ရှူရန်">
 
+<!ENTITY crashReporterDesc2.label         "ပျက်စီးမှုအစီရင်ခံစာများသည် &vendorShortName; က ပြဿနာများကို ဖြေရှင်းရာတွင် အထောက်အကူပြုသည်။ ထို့ပြင် ဘရောင်ဇာကို ပိုမိုတည်ငြိမ် ကောင်းမွန်စေရန်နှင့် လုံခြုံစေရန် အထောက်အကူပြုသည်။">
+<!ENTITY alwaysSubmitCrashReports.label   "မတင်ပို့ရသေးသော ပျက်စီးမှုအစီရင်ခံစာများကို ကိုယ်စားပေးပို့ရန် &brandShortName; ကို ခွင့်ပေးပါ။">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY networkTab.label                "ကွန်ရက် ချိတ်ဆက်မှု">
