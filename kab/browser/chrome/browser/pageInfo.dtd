@@ -65,7 +65,7 @@
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Sken aselkin">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY  securityView.unknown   "Arussin">
 
 
 <!ENTITY  securityView.identity.header   "Tamagit n usmel web">

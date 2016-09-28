@@ -36,7 +36,7 @@
 <!ENTITY  font.langGroup.hebrew                   "Taɛebranit">
 <!ENTITY  font.langGroup.arabic                   "Taɛrabt">
 <!ENTITY  font.langGroup.devanagari               "Tadibanagarit">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "Taṭamilit">
 <!ENTITY  font.langGroup.armenian                 "Taṛminit">
 <!ENTITY  font.langGroup.bengali                  "Tabengalit">
 <!ENTITY  font.langGroup.canadian                 "Unṭiq akanadi yedduklen">
@@ -51,7 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "Taluggut">
 <!ENTITY  font.langGroup.kannada                  "Takannadit">
 <!ENTITY  font.langGroup.sinhala                  "Tasinhalit">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.tibetan                  "Tatibitant">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Teɣzi taddayt n tsefsit:">
 <!ENTITY minSize.accesskey                        "T">

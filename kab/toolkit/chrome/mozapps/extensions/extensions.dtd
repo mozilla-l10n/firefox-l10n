@@ -181,7 +181,7 @@
 <!ENTITY addon.homepage                       "Asebtar agejdan">
 <!ENTITY addon.details.label                  "Ugar">
 <!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir agi amernan">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "Arussin">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

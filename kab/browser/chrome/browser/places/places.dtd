@@ -87,7 +87,7 @@
 <!ENTITY col.visitcount.label    "Amḍan n tmerziwin">
 <!ENTITY col.description.label   "Aglam">
 <!ENTITY col.dateadded.label     "Azem n tmerna">
-<!ENTITY col.lastmodified.label  "Last Modified">
+<!ENTITY col.lastmodified.label  "Asnifel aneggaru">
 
 <!ENTITY search.label                              "Nadi:">
 <!ENTITY search.accesskey                          "N">

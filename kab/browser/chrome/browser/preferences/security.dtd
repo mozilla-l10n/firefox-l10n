@@ -11,10 +11,10 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
-<!ENTITY  enableSafeBrowsing.accesskey    "B">
+<!ENTITY  enableSafeBrowsing.label        "Sewḥel yir agbur neɣ win iweɛṛen">
+<!ENTITY  enableSafeBrowsing.accesskey    "S">
 
-<!ENTITY  blockDownloads.label            "Block dangerous downloads">
+<!ENTITY  blockDownloads.label            "Sewḥel yir asider">
 <!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Ansuf yissek ɣer &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "Ansuf yis-k ɣer &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "Amiḍan iqqen">
 
 <!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
