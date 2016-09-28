@@ -396,11 +396,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "გსურთ ძიების პროცესის შემოთავაზებებით გაუმჯობესება?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "გაიგეთ მეტი…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "გ">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "არა">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ა">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "დიახ">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "დ">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
