@@ -207,12 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "საიტის ინფორმაციის ჩვენება">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "შეტყობინებების პანელის გახსნა">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის პანელის გახსნა">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ინსტალაციის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "მოდულის გამოყენების მართვა">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ამ საიტისთვის თქვენი კამერის და/ან მიკროფონის გაზიარების მართვა">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ამ საიტისთვის თქვენი მიკროფონის გაზიარების მართვა">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ამ საიტისთვის თქვენი ფანჯრების ან ეკრანის გაზიარების მართვა">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ინსტალაციის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ამ გვერდის თარგმნა">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტს თქვენი კამერის გამოყენების უფლება არ მიეცით.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტს თქვენი მიკროფონის გამოყენების უფლება არ მიეცით.">
+<!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტს თქვენი ეკრანის გაზიარების უფლება არ მიეცით.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტს თქვენი მდებარეობის ინფორმაცია არ გაუზიარეთ.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "ამ საიტს მონაცემების საცავის გამოყენების უფლება არ მიეცით.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტს შეტყობინებების ჩვენების უფლება არ მიეცით.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
+<!ENTITY urlbar.zoomReset.tooltip     "გადიდების დონის ჩამოყრა">
 
 <!ENTITY searchItem.title             "ძიება">
 
@@ -409,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ძებნის მოთხოვნა">
+<!ENTITY contentSearchSubmit.tooltip  "ძიების გადაგზავნა">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ძიების პარამეტრების შეცვლა">
+<!ENTITY changeSearchSettings.tooltip "ძიების პარამეტრების შეცვლა">
 
 <!ENTITY searchInNewTab.label         "ძიება ახალ ჩანართში">
 <!ENTITY searchInNewTab.accesskey     "ნ">
@@ -711,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "უფლებები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
+<!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
