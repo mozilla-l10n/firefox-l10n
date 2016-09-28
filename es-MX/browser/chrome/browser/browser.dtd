@@ -224,9 +224,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar traducción de la página">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar el uso del software DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tu cámara está bloqueada para este sitio web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tu micrófono está bloqueado para este sitio web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Este sitio web está bloqueado para compartir tu pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Está bloqueada tu información de ubicación para este sitio web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Está bloqueado el almacenamiento de datos para este sitio web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Están bloqueadas las notificaciones para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Restablecer el nivel de zoom">
 
 <!ENTITY searchItem.title             "Buscar">
 
