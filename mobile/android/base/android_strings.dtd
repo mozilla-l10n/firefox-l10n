@@ -388,7 +388,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
-<!ENTITY pref_private_data_formdata2 "Desde historial">
+<!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; Inicios de sesión activos">
 <!ENTITY pref_private_data_passwords2 "Inicios de sesión guardados">
 <!ENTITY pref_private_data_cache "Caché">
