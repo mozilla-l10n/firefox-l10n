@@ -47,7 +47,7 @@
 
 <!ENTITY viewMenu_label "Exibir">
 <!ENTITY viewMenu_accesskey "x">
-<!ENTITY viewMenu_toggleEditor_label "Alternar editor">
+<!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "A">
 <!ENTITY viewMenu_zoomin_label "Aumentar zoom">
 <!ENTITY viewMenu_zoomin_accesskey "I">
