@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Awalen n tsarutt n usmekti n imeddayen">
-<!ENTITY attachKeywordText.label          "&brandShortName; ak i d-yelqu ɣef imeddayen yettwattun ticki tettedduḍ ad tazneḍ imayl igebren yiwen seg wawalen agi n tsarutt.">
+<!ENTITY attachKeywordText.label          "&brandShortName; ak i d-yelɣu ɣef imeddayen yettwattun ticki t-ttedduḍ ad tazneḍ imayl igebren yiwen seg wawalen agi n tsarutt.">
 <!ENTITY addKeywordButton.label           "Rnu">
 <!ENTITY addKeywordButton.accesskey       "R">
 <!ENTITY editKeywordButton.label          "Ẓreg">
