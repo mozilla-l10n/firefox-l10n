@@ -7,7 +7,8 @@
 <!ENTITY  updateCheck.label               "Mencari versi &brandShortName; yang lebih baru">
 
 <!ENTITY  noupdatesfound.title            "Tiada Kemas kini Ditemui">
-<!ENTITY  noupdatesautoenabled.intro      "Tiada penambahbaikan yang boleh digunakan. &brandShortName; akan memeriksa  secara berkala bagi penambahbaikan.">
+<!ENTITY  noupdatesautoenabled.intro      "Tiada kemas kini tersedia. &brandShortName; akan semak
+                                           kemas kini secara berkala.">
 <!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan  &brandShortName;'s penyemakan penambahbaikan automatik">
 
 <!ENTITY  manualUpdate.title              "Kemas kini Gagal">

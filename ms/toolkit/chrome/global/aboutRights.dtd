@@ -28,7 +28,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Bagaimana kami menggunakan maklumat peribadi dan maklum balas yang dihantar kepada &vendorShortName; melalui &brandShortName; adalah seperti yang diterangkan di dalam ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Dasar Persendirian">
+<!ENTITY rights2.intro-point3b "&brandShortName; Polisi Privasi">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
