@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Para">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remetente">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Empresa">
 <!ENTITY replyToField4.label "Responder para">
 
