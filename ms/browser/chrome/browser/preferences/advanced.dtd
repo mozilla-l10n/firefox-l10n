@@ -55,7 +55,7 @@
 
 <!ENTITY httpCache.label                 "Cache Kandungan Web">
 
-<!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
+<!ENTITY offlineStorage2.label           "Data Kandungan Web Luar talian dan Pengguna">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -63,7 +63,7 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
+<!ENTITY limitCacheSizeBefore.label      "Had cache kepada">
 <!ENTITY limitCacheSizeBefore.accesskey  "d">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
 <!ENTITY clearCacheNow.label             "Padam Sekarang">
@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Enjin Carian">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketia luar talian">
+<!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketika luar talian">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">

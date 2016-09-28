@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Semua Laporan Ranap">
 <!ENTITY aboutSupport.crashes.noConfig "APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.">
 
-<!ENTITY aboutSupport.extensionsTitle "Sambungan">
+<!ENTITY aboutSupport.extensionsTitle "Ekstensi">
 <!ENTITY aboutSupport.extensionName "Nama">
 <!ENTITY aboutSupport.extensionEnabled "Didayakan">
 <!ENTITY aboutSupport.extensionVersion "Versi">

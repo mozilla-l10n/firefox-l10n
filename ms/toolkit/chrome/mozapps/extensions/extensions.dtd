@@ -23,8 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Undur satu halaman">
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
-<!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
-<!ENTITY showAllExtensions.button.label       "Papar semua penambahan">
+<!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat disahkan">
+<!ENTITY showAllExtensions.button.label       "Papar semua ekstensi">
 <!ENTITY debugAddons.label                    "Add-ons Nyahpepijat">
 <!ENTITY debugAddons.accesskey                "s">
 
