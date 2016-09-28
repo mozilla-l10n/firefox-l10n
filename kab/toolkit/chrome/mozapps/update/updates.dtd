@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  updateWizard.title              "Software Update">
+<!ENTITY  updateWizard.title              "Aleqqem n useɣẓan">
 
 <!ENTITY  checking.title                  "Anadi n ileqman">
 <!ENTITY  updateCheck.label               "Anadi n ileqman imaynuten n &brandShortName;…">
@@ -32,7 +32,7 @@
 
 <!ENTITY  details.link                    "Aglam leqqayen">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "Aleqqem ur yeddi ara">
 
 <!ENTITY  error.label                     "Llan wuuren deg usenqed, deg uzdam neɣ deg usebded n lqem agi. &brandShortName; ur yezmir ara ad iţwaleqqem imi:">
                                            

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY playButton.playLabel "Urar">
-<!ENTITY playButton.pauseLabel "Pause">
+<!ENTITY playButton.pauseLabel "Seṛǧu">
 <!ENTITY muteButton.muteLabel "Asusam">
 <!ENTITY muteButton.unmuteLabel "Amesli">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Agdil ačuṛan">

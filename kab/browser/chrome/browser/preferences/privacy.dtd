@@ -17,7 +17,7 @@
 <!ENTITY trackingProtectionPBM5.label         "Seqdec ammesten mgal asfuɣel ɣef usfaylu uslig">
 <!ENTITY trackingProtectionPBM5.accesskey     "q">
 <!ENTITY trackingProtectionPBMLearnMore.label "Issin ugar">
-<!ENTITY changeBlockList.label          "Snifel tabdart n iḥder">
+<!ENTITY changeBlockList.label          "Snifel tabdart n usewḥel">
 <!ENTITY changeBlockList.accesskey      "S">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "I">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerz ara ɣef umazray">
-<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen yugnen i wemaraya">
+<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray agi">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yesmal yettwarzan.">

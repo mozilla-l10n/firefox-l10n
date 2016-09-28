@@ -65,7 +65,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Err talast n tuffirt ɣer">
 <!ENTITY limitCacheSizeBefore.accesskey  "E">
-<!ENTITY limitCacheSizeAfter.label       "MB n wadeg">
+<!ENTITY limitCacheSizeAfter.label       "MAṬ n wadeg">
 <!ENTITY clearCacheNow.label             "Sfeḍ tura">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!ENTITY clearOfflineAppCacheNow.label   "Sfeḍ tura">
