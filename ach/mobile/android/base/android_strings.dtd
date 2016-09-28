@@ -427,7 +427,7 @@ size. -->
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 <!ENTITY print "Go">
-
+<!ENTITY find_in_page "Nong i potbuk">
 
 <!ENTITY page "Potbuk">
 <!ENTITY tools "Gitic">
@@ -442,6 +442,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Ter cal calo">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Nong i potbuk">
 <!ENTITY find_prev "Mukato">
 <!ENTITY find_next "Malubo">
 <!ENTITY find_close "Lor">
@@ -530,6 +532,7 @@ size. -->
 <!ENTITY button_clear "Jwa">
 <!ENTITY button_copy "Lok">
 
+<!ENTITY home_top_sites_title "Kakube maloyo">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Med kakube">
@@ -545,7 +548,7 @@ size. -->
 <!ENTITY home_clear_history_button "Jwa yeny mukato">
 <!ENTITY home_clear_history_confirm "Imoko ada ni imito jwayo gin mukato ni?">
 <!ENTITY home_bookmarks_empty "Alamabuk ma i gwoko nyute kany.">
-
+<!ENTITY home_closed_tabs_title2 "Ma kiloro cokki">
 <!ENTITY home_last_tabs_empty "Dirica matino ni ma cokki nyute kany.">
 
 
@@ -581,6 +584,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Ket lok mapire tek me yeny">
 
+<!ENTITY filepicker_title "Yer Pwail">
 <!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
 <!ENTITY filepicker_image_title "Yer onyo ter cal">
 <!ENTITY filepicker_video_title "Yer onyo ket video">
@@ -775,6 +779,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY activity_stream_topsites "Kakube maloyo">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
