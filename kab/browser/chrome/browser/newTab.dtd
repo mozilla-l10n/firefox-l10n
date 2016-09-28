@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Iccer amaynut">
-<!ENTITY newtab.customize.classic "Sken isemlen web iţwarzan aṭas">
+<!ENTITY newtab.customize.classic "Sken ismal web yettwarzan aṭas">
 <!ENTITY newtab.customize.cog.enhanced "Suddu iselmen iţusumren">
 <!ENTITY newtab.customize.cog.title2 "ASENQED N YICCER AMAYNUT">
 <!ENTITY newtab.customize.cog.learn "Issin ɣef iccer amaynut">
 <!ENTITY newtab.customize.title "Sagen asebtar iccer amaynut">
-<!ENTITY newtab.customize.suggested "Sken isemlen web iţwarzan aṭṭas d wid d iţusumren">
-<!ENTITY newtab.customize.topsites "Sken isemlen web iţwarzan aṭas">
+<!ENTITY newtab.customize.suggested "Sken ismal web yettwarzan aṭas d wid d yettwasumren s waṭas">
+<!ENTITY newtab.customize.topsites "Sken ismal web yettwarzan aṭas">
 <!ENTITY newtab.customize.blank2 "Sken asebtar ilem">
 <!ENTITY newtab.undo.removedLabel "Tanfult tettwakkes.">
 <!ENTITY newtab.undo.undoButton "Sefsex">

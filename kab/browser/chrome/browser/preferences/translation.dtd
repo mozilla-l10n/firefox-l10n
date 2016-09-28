@@ -13,12 +13,12 @@
 <!ENTITY removeAllLanguages.label         "Kkes akk tutlayin">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Ulac tasuqilt ad nsumer i yisemlen agi:">
-<!ENTITY treehead.siteName.label          "Isemlen web">
+<!ENTITY noTranslationForSites.label      "Ulac tasuqilt ad d-nsumer i yesmal agi:">
+<!ENTITY treehead.siteName.label          "Ismal web">
 <!ENTITY removeSite.label                 "Kkes asmel">
 <!ENTITY removeSite.accesskey             "s">
-<!ENTITY removeAllSites.label             "Kkes akkw isemlen">
-<!ENTITY removeAllSites.accesskey         "w">
+<!ENTITY removeAllSites.label             "Kkes akkismal">
+<!ENTITY removeAllSites.accesskey         "k">
 
 <!ENTITY button.close.label               "Mdel">
 <!ENTITY button.close.accesskey           "M">

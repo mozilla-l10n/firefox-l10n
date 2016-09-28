@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Amatu">
 
-<!ENTITY  warnAddonInstall.label        "Lɣu ticki isemlen ţaɛraḍen asebdeb n izegrar isemmadanen">
+<!ENTITY  warnAddonInstall.label        "Lɣu ticki ismal ttaɛraḍen asebdeb n izegrar">
 <!ENTITY  warnAddonInstall.accesskey    "L">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Inekcumen">
 
-<!ENTITY  rememberLogins.label          "Kles inekcumen ɣer isemlen">
-<!ENTITY  rememberLogins.accesskey      "K">
+<!ENTITY  rememberLogins.label          "Cfu ɣef inekcumen ɣer yesmal">
+<!ENTITY  rememberLogins.accesskey      "C">
 <!ENTITY  passwordExceptions.label      "Tisuraf…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 

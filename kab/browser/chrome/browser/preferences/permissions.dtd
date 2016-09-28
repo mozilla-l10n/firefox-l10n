@@ -9,7 +9,7 @@
 <!ENTITY treehead.status.label        "Addad">
 <!ENTITY removepermission.label       "Kkes asmel web">
 <!ENTITY removepermission.accesskey   "K">
-<!ENTITY removeallpermissions.label   "Kkes akk isemlen web">
+<!ENTITY removeallpermissions.label   "Kkes akk ismal web">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Tansa n usmel web.">
 <!ENTITY address.accesskey            "T">

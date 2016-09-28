@@ -43,14 +43,14 @@
 <!ENTITY  suggestionSettings.label      "Snifel ismenyifen i yisumar n umsedday n unandi…">
 <!ENTITY  suggestionSettings.accesskey  "n">
 
-<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n isemlen agi">
+<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yesmal agi">
 <!ENTITY  acceptCookies.accesskey       "Q">
 
 <!ENTITY  acceptThirdParty.pre.label      "Qbel inagan n tuqqna n wis kraḍ:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Q">
 <!ENTITY  acceptThirdParty.always.label   "Yal ass">
 <!ENTITY  acceptThirdParty.never.label    "Weṛǧin">
-<!ENTITY  acceptThirdParty.visited.label  "Seg isemlen wi-ɣeṛ terziḍ">
+<!ENTITY  acceptThirdParty.visited.label  "Seg ismal wiɣeṛ terziḍ">
 
 <!ENTITY  keepUntil.label               "Gebr-iten arama:">
 <!ENTITY  keepUntil.accesskey           "G">
@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen yugnen i wemaraya">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, izedman, tiferkiyin, amazray n unadi, d inagan n tuqqna n isemlen yeţwarzan.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yesmal yettwarzan.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

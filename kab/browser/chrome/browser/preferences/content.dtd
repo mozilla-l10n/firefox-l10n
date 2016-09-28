@@ -9,10 +9,10 @@
 
 <!ENTITY  notificationsPolicy.label            "Ilɣuten">
 <!ENTITY  notificationsPolicyLearnMore.label   "Issin ugar">
-<!ENTITY  notificationsPolicyDesc3.label       "Fren isemlen web ig zemren ak-d-aznen ilɣuten">
+<!ENTITY  notificationsPolicyDesc3.label       "Fren ismal web i yezemren ak-d-aznen ilɣuten">
 <!ENTITY  notificationsPolicyButton.accesskey  "F">
 <!ENTITY  notificationsPolicyButton.label      "Fren…">
-<!ENTITY  notificationsDoNotDisturb.label      "Ur yiţcebbwil ara">
+<!ENTITY  notificationsDoNotDisturb.label      "Ur yittcebbwil ara">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "r">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣut ad ituseknen skud ur tsenkireḍ ara &brandShortName; tikkelt nniḍen">
 
