@@ -207,9 +207,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ဝဘ်ဆိုက် ၏ အချက်အလက်ကို ကြည့်ရန်">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "စာတိုပန်နယ်ကို ဖွင့်ပါ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "တည်နေရာတောင်းဆိုမှု ပန်နယ်ကို ဖွင့်ပါ">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ချိတ်ဆက်မဲ့ အချက်အလက်သိမ်းစနစ်ဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "စကားဝှက်သိမ်းခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "အသုံးပြုနေသော ပလက်ဂ်အင်ကို စီမံရန်">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "ယခုဝဘ်ဆိုက်ထံမှ အသိပေးချက်များ ရယူနိုင်ရန်ဖြစ်စေ မရယူနိုင်ရန်ဖြစ်စေ ပြောင်းလဲသတ်မှတ်နိုင်သည်။">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ကင်မရာ နှင့်/သို့မဟုတ် မိုက္ကရိုဖုန်းကို ယခုဝဘ်ဆိုက်နှင့်အတူ မျှဝေအသုံးပြုခြင်းကို စီမံနိုင်သည်။">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ယခုဝဘ်ဆိုက်နှင့်အတူ မိုက္ကရိုဖုန်း မျှဝေအသုံးပြုခြင်းကို စီမံရန်">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ယခုဝဘ်ဆိုက်နှင့်အတူ ဝင်းဒိုးများနှင့် မျက်နှာပြင်များ မျှဝေအသုံးပြုခြင်းကို စီမံရန်">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ဒီစာမျက်နှာကို ဘာသာပြန်ပါ">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "စာမျက်နှာဘာသာပြန်ခြင်းကို စီမံခန့်ခွဲရန်">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM အပျော့ထည်များ အသုံးပြုခြင်းကို စီမံရန်">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ယခုဝဘ်ဆိုက်အတွက် မိုက္ကရိုဖုန်းအသုံးပြုခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.screenBlocked.tooltip            "ယခုဝဘ်ဆိုက်ကို မျက်နှာပြင် မျှဝေအသုံးပြုခြင်းမှ တားဆီးထားသည်။">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် တည်နေရာဆိုင်ရာ အချက်အလက်ကောက်ယူခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
@@ -667,7 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "အဘိဓာန်များကို ထည့်ပါ…">
+<!ENTITY spellAddDictionaries.label "အဘိဓာန်ထဲသို့ ထည့်ပါ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ပြီးပြီ">
