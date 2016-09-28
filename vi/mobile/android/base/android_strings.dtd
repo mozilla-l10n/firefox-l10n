@@ -17,7 +17,7 @@
 
 
 
-
+<!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
 
 
 
@@ -31,6 +31,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 
+<!ENTITY  onboard_start_restricted1 "Giữ an toàn và kiểm soát với phiên bản đơn giản hoá này của &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -53,12 +54,14 @@
 <!ENTITY  crash_close_label "Đóng">
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Tìm kiếm hoặc nhập địa chỉ">
 
-
+<!ENTITY bookmark_remove "Xóa trang đánh dấu">
 <!ENTITY bookmark_added "Trang đánh dấu đã được thêm">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Đã được đánh dấu">
 <!ENTITY bookmark_removed "Trang đánh dấu đã được xóa">
 <!ENTITY bookmark_updated "Trang đánh dấu đã được cập nhật">
 <!ENTITY bookmark_options "Tùy chọn">
@@ -83,7 +86,7 @@
 <!ENTITY search "Tìm kiếm">
 <!ENTITY reload "Tải lại">
 <!ENTITY forward "Tiến">
-
+<!ENTITY menu "Trình đơn">
 <!ENTITY back "Lùi">
 
 <!ENTITY site_security "Bảo mật trang">
@@ -94,10 +97,11 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY new_tab_opened "Thẻ mới đã được mở">
-
+<!ENTITY new_private_tab_opened "Thẻ riêng tư mới đã được mở">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "CHUYỂN">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -113,28 +117,35 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-
+<!ENTITY pref_category_language_summary "Thay đổi ngôn ngữ của trình duyệt">
+<!ENTITY pref_browser_locale "Ngôn ngữ trình duyệt">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Mặc định của hệ thống">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Thêm vào &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Đã được đánh dấu">
+<!ENTITY overlay_share_send_other "Gửi sang thiết bị khác">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
+<!ENTITY overlay_share_send_tab_btn_label "Gửi sang thiết bị khác">
+<!ENTITY overlay_share_no_url "Không phát hiện liên kết trong chia sẻ này">
+<!ENTITY overlay_share_select_device "Chọn thiết bị">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Không phát hiện thiết bị được kết nối tài khoản Firefox">
 
 
 
@@ -145,12 +156,12 @@
 
 <!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
 
-
-
-
-
-
-
+<!ENTITY pref_learn_more "Tìm hiểu thêm">
+<!ENTITY pref_category_installed_search_engines "Công cụ tìm kiếm đã được cài đặt">
+<!ENTITY pref_category_add_search_providers "Thêm nhiều công cụ tìm kiếm">
+<!ENTITY pref_category_search_restore_defaults "Phục hồi công cụ tìm kiếm">
+<!ENTITY pref_search_restore_defaults "Phục hồi mặc định">
+<!ENTITY pref_search_restore_defaults_summary "Phục hồi mặc định">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -164,9 +175,9 @@
 
 
 
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Gỡ rối từ xa qua USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Gỡ rối từ xa qua WiFi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Gỡ rồi qua WiFi yêu cầu thiết bị phải có một ứng dụng đọc mã QR được cài đặt.">
 
 
 
@@ -202,7 +213,7 @@
 <!ENTITY pref_cookies_menu "Cookie">
 
 
-
+<!ENTITY pref_cookies_disabled "Đã tắt">
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
@@ -268,6 +279,7 @@
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
 
+<!ENTITY pref_char_encoding "Mã ký tự">
 <!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
 <!ENTITY pref_char_encoding_off "Không hiển thị trình đơn">
 
@@ -277,9 +289,9 @@
 
 
 <!ENTITY pref_plugins "Phần bổ trợ">
+<!ENTITY pref_plugins_enabled "Đã bật">
 
-
-
+<!ENTITY pref_plugins_disabled "Đã tắt">
 <!ENTITY pref_text_size "Cỡ chữ">
 
 
@@ -289,7 +301,7 @@
 
 
 
-
+<!ENTITY pref_font_size_set "Thiết lập">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -362,6 +374,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Cập nhật tự động">
 
 <!ENTITY pref_update_autodownload_never "Không bao giờ">
 
@@ -409,7 +422,7 @@ size. -->
 
 <!ENTITY contextmenu_paste "Dán">
 <!ENTITY contextmenu_copyurl "Sao chép địa chỉ">
-
+<!ENTITY contextmenu_edit_bookmark "Sửa">
 
 
 
@@ -452,6 +465,7 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY masterpassword_create_title "Tạo mật khẩu chính">
 <!ENTITY masterpassword_remove_title "Xóa Mật Khẩu Chính">
 
 <!ENTITY masterpassword_confirm "Xác nhận mật khẩu">
