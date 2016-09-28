@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Sayfada kullanılan tüm yazı tiplerini gör">
-
+<!ENTITY showAllFontsUsed "Kullanılan tüm yazı tiplerini göster">
 <!ENTITY usedAs "Kullanılan isim: ">
 <!ENTITY system "sistem">
 <!ENTITY remote "uzak">
