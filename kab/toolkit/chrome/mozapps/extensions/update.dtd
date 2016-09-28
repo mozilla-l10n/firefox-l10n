@@ -47,6 +47,6 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; yufa-d uguren deg uleqqem n kra n izegrar imernan ">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Sit ɣef Fak iwakken aţedduḍ d usenker n &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Sit ɣef Fak iwakken aţedduḍ d usenker n &brandShortName;.">
+<!ENTITY  clickFinish.label               "Sit ɣef Fak akken ad tedduḍ deg usenker n &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Sit ɣef Fak akken ad tedduḍ d usenker n &brandShortName;.">
 <!ENTITY  enableChecking.label            "Sireg i &brandShortName; asenqed n ileqman.">

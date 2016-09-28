@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
-<!ENTITY healthReportDesc.label          "Ak d-imudd tallalt iwakken ad tegzuḍ timellit n iminig inek w-ad yazen i &vendorShortName; talɣut ɣef adddad n tezmert n iminig inek.">
+<!ENTITY healthReportDesc.label          "Ak d-imudd tallalt akken ad tegzuḍ timellit n iminig inek w-ad yazen i &vendorShortName; talɣut ɣef adddad n tezmert n iminig inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Issin ugar">
@@ -111,7 +111,7 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Steqsi y-id yal tikelt">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP iwakken ad sentmen taneɣbalt n iselkan ">
+<!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkan ">
 <!ENTITY enableOCSP.accesskey            "S">
 <!ENTITY viewCerts.label                 "Sken iselkan">
 <!ENTITY viewCerts.accesskey             "S">

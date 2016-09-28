@@ -9,9 +9,9 @@
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; ad igber talɣut n iɣewwaṛen n yismenyifen-ik deg umaɣnu-ik udmawan.">
 <!ENTITY profileCreationExplanation_2.text  "Ma yella tebḍiḍ anɣel agi n &brandShortName; akked iseqdacen nniḍen, tzemreḍ ad tesqedceḍ imeɣna akken ad tǧeḍ talɣut n yal aseqdac iman-is. Iwaya, Issefk yal aseqdac ad yernu ameɣnu ines.">
 <!ENTITY profileCreationExplanation_3.text  "Ma telliḍ s yiman-ik kan i tessaqdaceḍ anɣel agi n &brandShortName;, issefk ihi ɣersum ad yili ɣur-k yiwen umaqru. Ma tebɣiḍ, tzemred ad ternuḍ imeɣna nniḍen i kečč. Amedya, izmer ad tesɛuḍ imaɣna imgaraden i weseqdec udmawan neɣ asedri.">
-<!ENTITY profileCreationExplanation_4.text  "Iwakken aţebduḍ timernan umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;">
-<!ENTITY profileCreationExplanation_4Mac.text  "Iwakken aţebduḍ timernan umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Iwakken aţebduḍ timernan umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;.">
+<!ENTITY profileCreationExplanation_4.text  "Akken ad tebduḍ timerna n umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;">
+<!ENTITY profileCreationExplanation_4Mac.text  "Akken ad tebduḍ timerna n umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Akken ad tebduḍ timerna n umaɣnu yinek, sit ɣef &quot;ɣer zdat&quot;.">
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text      "Ma tenrniḍ imeɣna, tzemreḍ ad tesemgiredeḍ s yisem. Tzemreḍ ad tesqedceḍ isem i d-ittusumren neɣ fren isem s yiman-ik.">

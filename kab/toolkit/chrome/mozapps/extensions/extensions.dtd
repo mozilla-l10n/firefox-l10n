@@ -66,7 +66,7 @@
 <!ENTITY updates.updating.label               "Aleqqem n izegrar imernan">
 <!ENTITY updates.installed.label              "Izegrar-inek imernan ţwaleqmen.">
 <!ENTITY updates.downloaded.label             "Ileqman n izegrar-inek imernan ţwazedmen.">
-<!ENTITY updates.restart.label                "Senker i tikelt nniḍen tura iwakken aţfakeḍ asebded">
+<!ENTITY updates.restart.label                "Senker i tikelt nniḍen tura akken ad tfakeḍ asebded">
 <!ENTITY updates.noneFound.label              "ulac ileqman yettwafen">
 <!ENTITY updates.manualUpdatesFound.label     "Sken ileqman yellan">
 <!ENTITY updates.updateSelected.label         "Sebded ileqman">

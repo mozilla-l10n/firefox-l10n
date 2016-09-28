@@ -17,7 +17,7 @@
 
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.default.label      "S uwennez amezwaru: Aqeddac Mozilla &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Sewdec aqeddac yugenen…">
+<!ENTITY serverType.custom2.label   "Seqdec aqeddac udmawan…">
 <!ENTITY signIn.account2.label      "Amiḍan">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Awal uffir">
@@ -46,7 +46,7 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; iseḥbibir ɣef tbaḍnit-ik">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Iwakken anqadeṛ tabaḍnit inek, akk isefka inek ad ttwagelhen send tuzna nsen ɣeṛ uqeddac. Tasarutt n tukksa n uwgelhen n isefka yinek ur tettwazan ara.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "akken ad nqadeṛ tabaḍnit inek, akk isefka inek ad ttwagelhen send tuzna nsen ɣeṛ uqeddac. Tasarutt n tukksa n uwgelhen n isefka yinek ur tettwazan ara.">
 <!ENTITY recoveryKeyEntry.label        "Taasaruţ-ik n tririt">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Sirew tasaruţ tamaynut">
@@ -61,13 +61,13 @@
 <!ENTITY pairDevice.title.label             "Cudd ɣer wallal/ibenk">
 <!ENTITY addDevice.showMeHow.label          "Mli yid amek?">
 <!ENTITY addDevice.dontHaveDevice.label     "Ulac yidi ibenk agi">
-<!ENTITY pairDevice.setup.description.label  "Iwakken ad irmed, fren &quot;Sdukel ibenk&quot; ɣef yibenk inek nniḍen.">
+<!ENTITY pairDevice.setup.description.label  "Akken ad irmed, fren &quot;Sdukel ibenk&quot; ɣef yibenk inek nniḍen.">
 <!ENTITY addDevice.setup.enterCode.label    "Sakin, sekcem tangalt agi:">
-<!ENTITY pairDevice.dialog.description.label "Iwakken ad irmed yibenk inek amaynut, fren &quot;Swel amtawi&quot; ɣef yibenk.">
+<!ENTITY pairDevice.dialog.description.label "Akken ad irmed yibenk inek amaynut, fren &quot;Swel amtawi&quot; ɣef yibenk.">
 <!ENTITY addDevice.dialog.enterCode.label   "Sekcem tangalt ik d-yefka yibenk">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ɛreḍ tikelt nniḍen.">
 <!ENTITY addDevice.dialog.successful.label  "Ibenk yerna. Yezmer d akken amtawi amezwaru ad yeṭṭef deqs n tesdatin u ad ifak deg ugilal.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Iwakken ad irmed yiben agi, tesriḍ aţsekmeḍ tasaruţ n tririt. Ma ulac aɣilif seggez-iţ neɣ kels-iţ iwakken aţili qef afus.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Akken ad irmed yibenk agi, tesriḍ ad tsekcmeḍ tasarutt n tririt. Ma ulac aɣilif seggez-itt neɣ sekles-itt akken ad tili ɣef afus.">
 <!ENTITY addDevice.dialog.connected.label   "Ibenk yeqqen">
 <!-- Existing Account Page 2: Manual Login -->
 
