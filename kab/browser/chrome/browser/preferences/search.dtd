@@ -10,7 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "S">
 
 <!ENTITY showURLBarSuggestions.label           "Sken isumar n unadi deg ugmuḍ n ufeggag n tensa">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions.accesskey       "S">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Anadi n isumar ur d ittwaskan ara deg igemmaḍ n ufeggag n tensa acku tsewleḍ &brandShortName; akken ur iḥerrez ara amazaray.">
 
 <!ENTITY redirectWindowsSearch.label "Seqdec amsedday agi n unadi i wenadi si Windows">

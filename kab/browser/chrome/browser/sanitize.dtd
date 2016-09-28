@@ -57,7 +57,7 @@ that require it.  -->
 <!ENTITY itemCache.label                   "Tuffirt">
 <!ENTITY itemCache.accesskey               "u">
 <!ENTITY itemOfflineApps.label             "Isefka war tuqqna n usmel web">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.accesskey         "q">
 <!ENTITY itemActiveLogins.label            "Tuqqniwin turmidin">
 <!ENTITY itemActiveLogins.accesskey        "q">
 <!ENTITY itemSitePreferences.label         "Ismenyifen n usmel web">

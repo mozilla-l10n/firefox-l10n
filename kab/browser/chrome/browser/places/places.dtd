@@ -69,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.label            "Tacreṭ n uqebtar tamaynut…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Akaram Amaynut...">
-<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Anabraz amaynut">
 <!ENTITY cmd.new_separator.accesskey       "b">

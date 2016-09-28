@@ -28,8 +28,8 @@
 
 <!ENTITY  rememberLogins.label          "Kles inekcumen ɣer isemlen">
 <!ENTITY  rememberLogins.accesskey      "K">
-<!ENTITY  passwordExceptions.label      "Tisuraft…">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.label      "Tisuraf…">
+<!ENTITY  passwordExceptions.accesskey  "r">
 
 <!ENTITY  useMasterPassword.label        "Seqdec awal uffir agejdan">
 <!ENTITY  useMasterPassword.accesskey    "S">

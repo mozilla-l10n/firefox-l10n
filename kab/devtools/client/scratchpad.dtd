@@ -34,10 +34,10 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Ifuyla yeldin melmi kan">
-<!ENTITY openRecentMenu.accesskey     "R">
+<!ENTITY openRecentMenu.accesskey     "m">
 
-<!ENTITY revertCmd.label              "Uɣal ɣer uklas aneggaru…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.label              "Uɣal…">
+<!ENTITY revertCmd.accesskey          "U">
 
 <!ENTITY saveFileCmd.label            "Kles">
 <!ENTITY saveFileCmd.accesskey        "K">

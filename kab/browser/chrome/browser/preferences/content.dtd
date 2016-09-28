@@ -40,8 +40,8 @@
 
 <!ENTITY translateWebPages.label      "Suqel agbur web">
 <!ENTITY translateWebPages.accesskey  "S">
-<!ENTITY translateExceptions.label    "Tisuraft…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.label    "Tisuraf…">
+<!ENTITY translateExceptions.accesskey "r">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'

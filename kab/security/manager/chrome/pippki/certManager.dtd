@@ -71,12 +71,12 @@
 <!ENTITY certmgr.restore2.accesskey           "r">
 <!ENTITY certmgr.details.label                "Urtan n uselkin">
 <!ENTITY certmgr.details.accesskey            "U">
-<!ENTITY certmgr.fields.label                 "Azal n wurtu">
-<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.fields.label                 "Azal n wurti">
+<!ENTITY certmgr.fields.accesskey             "z">
 <!ENTITY certmgr.hierarchy.label              "Amyellel n iselkan">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Rnu tasureft…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.accesskey       "a">
 
 <!ENTITY exceptionMgr.title                   "Rnu tasureft n tɣellist">
 <!ENTITY exceptionMgr.exceptionButton.label   "Sentem tasureft n tɣellist">

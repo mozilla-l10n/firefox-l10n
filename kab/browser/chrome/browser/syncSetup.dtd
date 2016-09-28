@@ -29,15 +29,15 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Aglam leqqayen n umiḍan">
 <!ENTITY setup.emailAddress.label     "Tansa imayl">
 <!ENTITY setup.emailAddress.accesskey "n">
-<!ENTITY setup.choosePassword.label      "Feren awal uffir">
-<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "Fren awal uffir">
+<!ENTITY setup.choosePassword.accesskey  "F">
 <!ENTITY setup.confirmPassword.label     "Sentem awal uffir">
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
 <!ENTITY setup.tosAgree1.label      "Qebleɣ">
-<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosAgree1.accesskey  "Q">
 <!ENTITY setup.tosLink.label        "Tiwtilin n useqdec">
 <!ENTITY setup.tosAgree2.label      "d">
 <!ENTITY setup.ppLink.label         "Tasertit n tbaḍnit">
@@ -52,8 +52,8 @@
 <!ENTITY syncGenerateNewKey.label  "Sirew tasaruţ tamaynut">
 <!ENTITY recoveryKeyBackup.description "Tasarutt inek n tririt tesra i wakken ad tkecmeḍ ɣeṛ &syncBrand.fullName.label; ɣef ibenkan nniḍen. Ma ulac aɣilif egg anɣel n uklas. Ur nezmir ara ak d-nefk tallalt i tririt ines.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Siggez">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.label     "Siggez…">
+<!ENTITY button.syncKeyBackup.print.accesskey "i">
 <!ENTITY button.syncKeyBackup.save.label      "Kles…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "K">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->

@@ -33,8 +33,8 @@
 <!ENTITY  locbar.suggest.label          "Ticki t-sqedceḍ affeggag n tensa, sumer:">
 <!ENTITY  locbar.history.label          "Amazray">
 <!ENTITY  locbar.history.accesskey      "A">
-<!ENTITY  locbar.bookmarks.label        "Isɣalen">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.label        "Ticraḍ n isebtar">
+<!ENTITY  locbar.bookmarks.accesskey    "T">
 <!ENTITY  locbar.openpage.label         "Iccaren yeldin">
 <!ENTITY  locbar.openpage.accesskey     "I">
 <!ENTITY  locbar.searches.label         "Anadi icudden ɣer umsedday n unadi">
@@ -91,7 +91,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Seqdec yal ass askar n tunigin tusligt">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "g">
 
 <!ENTITY  rememberHistory2.label      "Ḥrez amazray n tunigin d izedman">
 <!ENTITY  rememberHistory2.accesskey  "t">

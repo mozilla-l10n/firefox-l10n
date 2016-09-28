@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Assaɣen n uɣelluy ad imudd tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig inek d urkid d aɣelsan">
 <!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen assaɣen n uɣelluy deg ugilal">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Issin ugar">
 
 <!ENTITY networkTab.label                "Aẓeṭṭa">
@@ -71,7 +71,7 @@
 <!ENTITY clearOfflineAppCacheNow.label   "Sfeḍ tura">
 <!ENTITY clearOfflineAppCacheNow.accesskey "t">
 <!ENTITY overrideSmartCacheSize.label    "Snifel asefrek awurman n tuffirt">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.accesskey "n">
 
 <!ENTITY updateTab.label                 "Leqqem">
 

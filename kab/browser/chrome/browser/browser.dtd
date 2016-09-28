@@ -185,8 +185,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
 <!ENTITY otherBookmarksCmd.label "Ticrad nniḍen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n ticraḍ n isebtar">
-<!ENTITY showRecentlyBookmarked.label     "Wid ittwacerḍen melmi kan">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.label     "Wali tid ittwacerḍen melmi kan">
+<!ENTITY showRecentlyBookmarked.accesskey "W">
 <!ENTITY hideRecentlyBookmarked.label     "Ffer wid ittwacerḍen melmi kan">
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Aneflay web">
 <!ENTITY webDeveloperMenu.accesskey   "A">
 
-<!ENTITY inspectContextMenu.label     "Sekyed aferdis">
+<!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "Afaylu"> 
@@ -295,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Sefsex">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "S"> 
-<!ENTITY redoCmd.label            "Err-ed">  
+<!ENTITY redoCmd.label            "Err-d">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "E"> 
 <!ENTITY cutCmd.label           "Gzem">  
@@ -475,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
+<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n uma&amp;gbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar agi kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
@@ -491,8 +491,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "T">
 <!ENTITY viewFrameSourceCmd.label     "Tangalt aɣbalu n ukatar">
 <!ENTITY viewFrameSourceCmd.accesskey "g">
-<!ENTITY viewPageInfoCmd.label        "Talɣut ɣef usebtar">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.label        "Wali talɣut n usebter">
+<!ENTITY viewPageInfoCmd.accesskey    "l">
 <!ENTITY viewFrameInfoCmd.label       "Talɣut ɣef ukatar agi">
 <!ENTITY viewFrameInfoCmd.accesskey   "l">
 <!ENTITY reloadImageCmd.label         "Smiren tugna">
