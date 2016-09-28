@@ -55,13 +55,15 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "ထပ်ကြိုးစားပါ">
+<!ENTITY cmd.retry.label                  "ထပ်မံဆောင်ရွက်ကြည့်ပါ">
 <!ENTITY cmd.goToDownloadPage.label       "ဆွဲယူရမည့် စာမျက်နှာသို့ သွားပါ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ဆွဲယူရမည့်လင့်ခ်ကို ကူးယူပါ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "မှတ်တမ်းမှ ဖယ်ရှားပါ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "အစမ်းကြည့်ပန်နယ်ကို ရှင်းလင်းပါ">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "ဆွဲယူထားသည့်ဖိုင်အားလုံးကို ပြပါ">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Downloads ဖိုင်တွဲကို ဖွင့်ပါ">
 
 <!ENTITY clearDownloadsButton.label       "ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ">
 <!ENTITY clearDownloadsButton.tooltip     "ဆွဲယူပြီးသောဖိုင်များ၊ မဆွဲယူတော့သောဖိုင်များနှင့် ဆွဲယူမှုမအောင်မြင်သောဖိုင်များကို ရှင်းလင်းပါ">
