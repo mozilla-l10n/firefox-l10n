@@ -49,7 +49,7 @@
 
 <!ENTITY connection.label                "Sambungan">
 
-<!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
+<!ENTITY connectionDesc.label            "Konfigur cara &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Ubah suai…">
 <!ENTITY connectionSettings.accesskey    "U">
 
