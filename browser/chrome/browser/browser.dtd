@@ -452,7 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Aldatu bilaketa-ezarpenak">
-
+<!ENTITY changeSearchSettings.tooltip "Aldatu bilaketa-ezarpenak">
 
 <!ENTITY searchInNewTab.label         "Bilatu fitxa berrian">
 <!ENTITY searchInNewTab.accesskey     "f">
@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
-
+<!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

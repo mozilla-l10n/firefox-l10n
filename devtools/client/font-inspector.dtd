@@ -6,7 +6,7 @@
 
 
 <!ENTITY showAllFonts "Ikusi orrian erabilitako letra-tipo guztiak">
-
+<!ENTITY showAllFontsUsed "Erakutsi erabilitako letra-tipo guztiak">
 <!ENTITY usedAs "Honela erabilia:">
 <!ENTITY system "sistemakoa">
 <!ENTITY remote "urrunekoa">
