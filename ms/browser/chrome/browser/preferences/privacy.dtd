@@ -5,7 +5,7 @@
 <!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejakan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
-<!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
+<!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
 <!ENTITY  trackingProtectionNever.accesskey    "k">
@@ -90,7 +90,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "hapuskan semua sejarah layaran semasa">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Sentiasa gunakan mod pelayaran persendirian">
+<!ENTITY  privateBrowsingPermanent2.label "Sentiasa gunakan mod pelayaran peribadi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun">
