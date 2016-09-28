@@ -54,7 +54,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Отпечатване…">
 <!ENTITY button.syncKeyBackup.print.accesskey "п">
-<!ENTITY button.syncKeyBackup.save.label      "Запис…">
+<!ENTITY button.syncKeyBackup.save.label      "Запазване…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "З">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->

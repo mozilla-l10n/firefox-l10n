@@ -38,7 +38,7 @@
 <!ENTITY  mediaDimension        "Размер:">
 <!ENTITY  mediaLongdesc         "Дълго описание:">
 <!ENTITY  mediaBlockImage.accesskey "Б">
-<!ENTITY  mediaSaveAs           "Запис като…">
+<!ENTITY  mediaSaveAs           "Запазване като…">
 <!ENTITY  mediaSaveAs.accesskey "З">
 <!ENTITY  mediaSaveAs2.accesskey "к">
 <!ENTITY  mediaPreview          "Предварителен преглед:">

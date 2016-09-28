@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "ж">
 <!ENTITY saveVideoCmd.label           "Запазване на видеото като…">
 <!ENTITY saveVideoCmd.accesskey       "в">
-<!ENTITY saveAudioCmd.label           "Запис на аудиото като…">
+<!ENTITY saveAudioCmd.label           "Запазване на аудиото като…">
 <!ENTITY saveAudioCmd.accesskey       "а">
 <!ENTITY emailImageCmd.label          "Изпращане на изображението като мейл…">
 <!ENTITY emailImageCmd.accesskey      "ж">
@@ -601,7 +601,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label       "Цял екран">
 <!ENTITY videoFullScreen.accesskey   "Ц">
-<!ENTITY videoSaveImage.label        "Запис на снимката като…">
+<!ENTITY videoSaveImage.label        "Запазване на снимката като…">
 <!ENTITY videoSaveImage.accesskey    "с">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu

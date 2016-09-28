@@ -20,7 +20,7 @@
 
 <!ENTITY visibilityToggle.tooltip   "Превключване на видимостта на стилов лист">
 
-<!ENTITY saveButton.label           "Запис">
+<!ENTITY saveButton.label           "Запазване">
 <!ENTITY saveButton.tooltip         "Запазване на стиловият лист във файл">
 <!ENTITY saveButton.accesskey       "З">
 
