@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Gỡ bỏ">
 <!ENTITY addonAction.undo                       "Hoàn tác">
 
+<!ENTITY addonUnsigned.message                  "&brandShortName; không thể xác thực tiện ích này.">
 

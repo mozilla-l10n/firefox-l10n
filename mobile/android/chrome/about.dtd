@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
-
+<!ENTITY aboutPage.telemetryStart               " Thông tin về hiệu suất, phần cứng, sử dụng và tuỳ biến sẽ được tự động gửi về ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
-
+<!ENTITY aboutPage.telemetryEnd                 " để giúp cho &brandShortName; tốt hơn.">
+<!ENTITY aboutPage.checkForUpdates.link         "Kiểm tra cập nhật »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
-
-
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Tải cập nhật xuống">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Đang tải cập nhật xuống…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Cài đặt cập nhật">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hỗ trợ">
 <!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "Công trạng">
 <!ENTITY aboutPage.license.label                "Thông tin Giấy phép">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox và logo Firefox là thương hiệu của tổ chức Mozilla.">
