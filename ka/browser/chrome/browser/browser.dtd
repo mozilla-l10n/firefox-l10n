@@ -512,8 +512,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "ამ გვერდის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.label      "ამ ბმულის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
-<!ENTITY bookmarkThisFrameCmd.label      "ბლოკის სანიშნეებში შეტანა…">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.label      "ამ ჩარჩოს ჩანიშვნა">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
@@ -678,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.label        "გვერდის მიმართულების შეცვლა">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "მ">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების შეცვლა">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ც">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ძებნა ამ გვერდზე…">
