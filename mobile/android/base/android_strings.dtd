@@ -42,7 +42,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "বুকমার্কসমুহ">
+<!ENTITY  bookmarks_title "বুকমার্ক">
 <!ENTITY  history_title "ইতিহাস">
 
 <!ENTITY  switch_to_tab "ট্যাবে সুইচ করুন">
@@ -570,7 +570,7 @@ size. -->
 <!ENTITY button_clear "মুছুন">
 <!ENTITY button_copy "অনুলিপি">
 
-<!ENTITY home_top_sites_title "শীর্ষ সাইটসমূহ">
+<!ENTITY home_top_sites_title "শীর্ষ সাইট">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
@@ -596,7 +596,7 @@ size. -->
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিক কালে ভিজিট করা ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব&formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
+<!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -828,7 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "অফলাইলে পড়তে পাঠক প্রদর্শন আইটেম বুকমার্ক করুন।">
 <!ENTITY helper_triple_readerview_open_button "বুকমার্কে যুক্ত কর">
 
-<!ENTITY activity_stream_topsites "শীর্ষ সাইটসমূহ">
+<!ENTITY activity_stream_topsites "শীর্ষ সাইট">
 <!ENTITY activity_stream_highlights "হাইলাইট">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
