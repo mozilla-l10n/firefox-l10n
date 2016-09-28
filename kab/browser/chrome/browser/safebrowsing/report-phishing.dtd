@@ -5,7 +5,7 @@
   item. Either this or safeb.palm.notdeceptive.label from
   phishing-afterload-warning-message.dtd is shown. -->
 
-<!ENTITY reportDeceptiveSiteMenu.title      "Mlaɣ-d asmel ur nemɛin ara…">
+<!ENTITY reportDeceptiveSiteMenu.title      "Mmel-aɣ-d asmel ur nemɛin ara…">
 <!-- Localization note (reportDeceptiveSiteMenu.accesskey) - Because
   safeb.palm.notdeceptive.label from phishing-afterload-warning-message.dtd and
   reportDeceptiveSiteMenu.title are never shown at the same time, the same

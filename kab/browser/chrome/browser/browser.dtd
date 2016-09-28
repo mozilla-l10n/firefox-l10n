@@ -276,8 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Aneflay web">
 <!ENTITY webDeveloperMenu.accesskey   "A">
 
-<!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "&amp;Sweḍ aferdis">
+<!ENTITY inspectContextMenu.accesskey "S">
 
 <!ENTITY fileMenu.label         "Afaylu"> 
 <!ENTITY fileMenu.accesskey       "f">
@@ -476,7 +476,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
 <!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n uma&amp;gbar amaynut">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+<!ENTITY openLinkCmdInContainerTab.accesskey "g">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar agi kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
