@@ -207,11 +207,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información de sitio">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensajes">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir panel de solicitud de ubicación">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensajes de instalación de complementos">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensajes de almacenamiento sin conexión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensajes de contraseñas guardadas">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitio">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir tu cámara y/o micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir tu micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar compartir tus ventanas o pantalla con el sitio">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensaje de instalación">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar traducción de la página">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar el uso del software DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
