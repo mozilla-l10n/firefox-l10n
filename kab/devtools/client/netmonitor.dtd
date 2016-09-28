@@ -21,7 +21,7 @@
 
 <!ENTITY netmonitorUI.reloadNotice1       "• Selkem tuţra neɣ">
 <!ENTITY netmonitorUI.reloadNotice2       "Smiren">
-<!ENTITY netmonitorUI.reloadNotice3       "Asebtar anda atwaliḍ talqut leqqayen ɣef urmud n uzeṭṭa.">
+<!ENTITY netmonitorUI.reloadNotice3       "Asebter anda ad twaliḍ talɣut leqqayen ɣef urmud n uzeṭṭa.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
