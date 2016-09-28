@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Restaurar o estado inicial">
 <!ENTITY resetPassword.title  "Excluir a senha mestra">
-<!ENTITY resetPassword.text  "Ao remover a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão perdidas. Deseja realmente remover a senha mestra?">
+<!ENTITY resetPassword.text  "Se remover a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privativas serão perdidas. Tem certeza que deseja remover a senha mestra?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Recebendo o certificado">
