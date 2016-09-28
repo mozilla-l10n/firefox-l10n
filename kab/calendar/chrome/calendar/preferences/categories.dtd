@@ -9,7 +9,7 @@
 
 <!ENTITY pref.categories.add.title "Rnu taggayt">
 <!ENTITY pref.categories.addButton.label "Rnu...">
-<!ENTITY pref.categories.addButton.accesskey "A">
+<!ENTITY pref.categories.addButton.accesskey "R">
 <!ENTITY pref.categories.edit.title "Ẓreg taggayt">
 <!ENTITY pref.categories.editButton.label "Ẓreg...">
 <!ENTITY pref.categories.editButton.accesskey "Ẓ">
