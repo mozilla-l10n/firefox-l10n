@@ -593,7 +593,7 @@ size. -->
 <!ENTITY home_closed_tabs_number "&formatD; ট্যাব">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ট্যাব">
-<!ENTITY home_most_recent_empty "আপনার সাম্প্রতিক কালে ভিজিট করা ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
+<!ENTITY home_most_recent_empty "সাম্প্রতিককালে আপনার দর্শন করা ওয়েবসাইট এখানে দেখাবে।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
