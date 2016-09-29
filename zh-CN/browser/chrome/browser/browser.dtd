@@ -525,7 +525,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "打印框架…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "将链接另存为…">
+<!ENTITY saveLinkCmd.label            "从链接另存文件…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "将图像另存为…">
 <!ENTITY saveImageCmd.accesskey       "v">
