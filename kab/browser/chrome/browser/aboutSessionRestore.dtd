@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Ifuk!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ihegga.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Err-ed akk isfuyla d-yiccaren">
-<!ENTITY welcomeback2.label.restoreSome "Fren ayen tebɣiḍ ad arreḍ">
+<!ENTITY welcomeback2.label.restoreAll  "Err-d akk isfuyla d-yiccaren">
+<!ENTITY welcomeback2.label.restoreSome "Fren ayen tebɣiḍ ad d-erreḍ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -44,7 +44,7 @@ their language.
 -->
 
 
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Agganen d izegrar inek ttwakksen, iɣewwaṛen n iminig inek uɣalen ɣer wazalen nsen amezwer. Ma yella ugur inek ur yefri-ara, tzemreḍ ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Aggan akked izegrar inek ttwakksen, iɣewwaṛen n iminig inek uɣalen ɣer wazalen nsen amezwer. Ma yella ugur inek ur yefri-ara, tzemreḍ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "issin ugar ɣef ayen tzemreḍ ad tmaheleḍ.">

@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Fren…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ur yittcebbwil ara">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "r">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣut ad ituseknen skud ur tsenkireḍ ara &brandShortName; tikkelt nniḍen">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣu ad yettwaseknen skud ur tsenkreḍ ara &brandShortName; tikkelt nniḍen">
 
 <!ENTITY  popupExceptions.label       "Tisuraf…">
 <!ENTITY  popupExceptions.accesskey   "s">

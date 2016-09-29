@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Isebtar imiranen">
 <!ENTITY chooseBookmark.label      "Ticraḍ n isebtar…">
 <!ENTITY chooseBookmark.accesskey  "T">
-<!ENTITY restoreDefault.label      "Err-ed tawila n tazwara">
+<!ENTITY restoreDefault.label      "Err-d tawila n tazwara">
 <!ENTITY restoreDefault.accesskey  "E">
 
 <!ENTITY downloads.label     "Izedman">
@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "u">
 <!ENTITY chooseFolderMac.label        "Fren…">
 <!ENTITY chooseFolderMac.accesskey    "F">
-<!ENTITY alwaysAsk.label "Suter yal tikelt anda atkelseḍ ifuyla">
+<!ENTITY alwaysAsk.label "Suter yal tikelt aniɣe ad ttwakelsen fuyla">
 <!ENTITY alwaysAsk.accesskey "S">
 
 <!ENTITY alwaysCheckDefault2.label        "Senqed yal tikelt ma yella &brandShortName; d iminig-ik amezwer">
@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; mačči d iminig-inek amezwer">
 
 <!ENTITY separateProfileMode.label        "Sireg &brandShortName; ed Firefox ad selkmen s wudem anmaway">
-<!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ţusqedcen. Tzemreḍ aţfaṛseḍ si Sync i beṭṭu n isefka yinek gar-asen.">
+<!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ţusqedcen. Tzemreḍ ad tfaṛseḍ si Sync i beṭṭu n isefka yinek gar-asen.">
 <!ENTITY getStarted.label                 "Seqdec Synch…">
 
 <!ENTITY e10sEnabled.label                "Rmed agetakala n &brandShortName;">

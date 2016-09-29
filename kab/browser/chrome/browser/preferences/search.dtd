@@ -23,7 +23,7 @@
 <!ENTITY engineNameColumn.label                "Amsedday n unadi">
 <!ENTITY engineKeywordColumn.label             "Awal n tsaruţ">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Err-ed imseddayen n unadi n tazwara">
+<!ENTITY restoreDefaultSearchEngines.label     "Err-d imseddayen n unadi amezwer">
 <!ENTITY restoreDefaultSearchEngines.accesskey "E">
 
 <!ENTITY removeEngine.label                    "Kkes">

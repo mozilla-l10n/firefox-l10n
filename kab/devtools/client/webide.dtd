@@ -117,12 +117,12 @@
 <!ENTITY prefs_title "Ismenyifen">
 <!ENTITY prefs_editor_title "Amaẓrag">
 <!ENTITY prefs_general_title "Amatu">
-<!ENTITY prefs_restore "Err-ed iɣewwaṛen n uwennez n tazwara">
+<!ENTITY prefs_restore "Err-d iɣewwaṛen imezwar">
 <!ENTITY prefs_manage_components "Sefrek isuddas isemmadanen">
 <!ENTITY prefs_options_autoconnectruntime "Qqen tikelt nniḍen ɣer twennaṭ taneggarut">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Qqen tikelt nniḍen ɣer twennaṭ taneggarut di tnekra n WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Cfu ɣef usenfaṛ aneggaru">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Err-ed asenfaṛ aneggaru di tnekra n WebIDE">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Err-d asenfaṛ aneggaru di tnekra n WebIDE">
 <!ENTITY prefs_options_templatesurl "URL n tneɣrufin">
 <!ENTITY prefs_options_templatesurl_tooltip "Amatar n tneɣrufin yellan">
 <!ENTITY prefs_options_showeditor "Sken amaẓrag">
@@ -198,7 +198,7 @@
 
 <!ENTITY simulator_title "Iɣewwaṛen n serwas">
 <!ENTITY simulator_remove "Kkes aserwas">
-<!ENTITY simulator_reset "Err-ed iɣewwaṛen n uwennez n tazwara">
+<!ENTITY simulator_reset "Err-ed iɣewwaṛen imezwar">
 <!ENTITY simulator_name "Isem">
 <!ENTITY simulator_software "Aseɣẓan">
 <!ENTITY simulator_version "Version">

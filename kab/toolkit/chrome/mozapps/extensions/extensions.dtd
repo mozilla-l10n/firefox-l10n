@@ -98,7 +98,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Seqdac dima azegrir agi amernan">
 <!ENTITY cmd.neverActivate.label              "Weṛǧin rmed">
 <!ENTITY cmd.neverActivate.tooltip            "Weṛǧin seqdec azegrir agi amernan">
-<!ENTITY cmd.stateMenu.tooltip                "Fren melmi at-sqedceḍ azegrir agi amernan">
+<!ENTITY cmd.stateMenu.tooltip                "Fren melmi ad tesqedceḍ azegrir agi">
 <!ENTITY cmd.installAddon.label               "Sebded">
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kkes">

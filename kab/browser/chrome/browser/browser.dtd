@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Semẓi">
-<!ENTITY fullScreenRestore.tooltip "Err-ed">
+<!ENTITY fullScreenRestore.tooltip "Err-d">
 <!ENTITY fullScreenClose.tooltip "Mdel">
 <!ENTITY fullScreenAutohide.label "Ffer afeggag n ifecka">
 <!ENTITY fullScreenAutohide.accesskey "F">
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Iccaren imedlen melmi kan">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Isfuyla imedlen melmi kan">
-<!ENTITY historyRestoreLastSession.label "Err-ed tiɣimit izrin">
+<!ENTITY historyRestoreLastSession.label "Err-d tiɣimit izrin">
 
 <!ENTITY showAllHistoryCmd2.label "Sken amazray i maṛṛa">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Amazray">
 <!ENTITY appMenuHistory.showAll.label "Sken amazray i maṛṛa">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray inek n melmi kan…">
-<!ENTITY appMenuHistory.restoreSession.label "Err-ed tiɣimit izrin">
+<!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit izrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
 <!ENTITY appMenuHelp.tooltip "Ldi umuɣ n tallalt">
 
@@ -790,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ifecka d tmahilin isemmadanen">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
-<!ENTITY customizeMode.restoreDefaults "Err-ed tawila n uwennez n tazwara">
+<!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
 <!ENTITY customizeMode.toolbars "Sken/Ffer afeggag n ifecka">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
 <!ENTITY customizeMode.lwthemes "Isental">
