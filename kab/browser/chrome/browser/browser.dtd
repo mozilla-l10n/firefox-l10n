@@ -173,8 +173,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "u">
 <!ENTITY shareImage.label "Bḍu tugna yagi">
 <!ENTITY shareImage.accesskey "n">
-<!ENTITY shareSelect.label "Bḍ&amp;u afran agi ">
-<!ENTITY shareSelect.accesskey "f">
+<!ENTITY shareSelect.label "Bḍu afran agi ">
+<!ENTITY shareSelect.accesskey "u">
 <!ENTITY shareVideo.label "Bḍu asaru yagi">
 <!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu2.label "Multeɣ ɣer usebtar agi">
@@ -475,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n uma&amp;gbar amaynut">
+<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "g">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar agi kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
@@ -790,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ifecka d tmahilin isemmadanen">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
-<!ENTITY customizeMode.restoreDefaults "&amp;Err-ed tawila n uwennez n tazwara">
+<!ENTITY customizeMode.restoreDefaults "Err-ed tawila n uwennez n tazwara">
 <!ENTITY customizeMode.toolbars "Sken/Ffer afeggag n ifecka">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
 <!ENTITY customizeMode.lwthemes "Isental">
