@@ -207,7 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "தள தகவலினைப் பார்">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "செய்தி பலகத்தை திறக்கவும்">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "இடம் கோரும் பலகத்தை திறக்கவும்">
 
 
 
