@@ -223,14 +223,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "صفحہ کہ ترجمہ کو بندوبست کریں">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM سافٹ ویئر کہ استعمال کو بندوبست کریں">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "آپ نے اس ویب سائٹ کے لیئے کیمرہ بلاک کیا ہوا ہے">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "آپ نے اس ویب سائٹ کے لیئے مائیکروفون بلاک کیا ہوا ہے۔">
+<!ENTITY urlbar.screenBlocked.tooltip            "آپ نے اس ویب سائٹ کو سکرین کا اشتراک کرنے سے بلاک کیا ہے">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "آپ نے اس ویب سائٹ کے لیئے کوائف کے ذخیرہ کو بلاک کیا ہوا ہے">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
+<!ENTITY urlbar.zoomReset.tooltip     "زوم سطح پھر سیٹ کریں">
 
 <!ENTITY searchItem.title             "تلاش کریں">
 <!-- Toolbar items --> 
