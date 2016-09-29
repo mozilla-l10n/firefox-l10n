@@ -37,7 +37,7 @@
 <!ENTITY netOffline.title "Netwurk sûnder ferbining">
 <!ENTITY netOffline.longDesc2 "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Klik &quot;Probearje opnij&quot; om nei online modus te gean en laad de side opnij.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Ynhâldkodearingsflater">
+<!ENTITY contentEncodingError.title "Ynhâldkodearringsflater">
 <!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in flater of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Unfeilich bestânstype">

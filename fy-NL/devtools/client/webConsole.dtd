@@ -36,7 +36,7 @@
 <!ENTITY btnPageJS.tooltip  "JavaScript-útsûnderingen registrearje">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Feilichheid">
-<!ENTITY btnPageSecurity.tooltip "Log feilichheidsflaters en warskôgings">
+<!ENTITY btnPageSecurity.tooltip "Loch feilichheidsflaters en warskôgingen">
 <!ENTITY btnPageSecurity.accesskey "F">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
@@ -92,7 +92,7 @@
 <!ENTITY copyURLCmd.label     "Keppelingslokaasje kopiearje">
 <!ENTITY copyURLCmd.accesskey "a">
 
-<!ENTITY closeCmd.key  "W">
+<!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Iepenje yn Fariabelen-werjefte">
