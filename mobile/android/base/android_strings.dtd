@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "Išjungta">
 
 <!ENTITY pref_whats_new_notification "Kas naujo „&brandShortName;“">
-<!ENTITY pref_whats_new_notification_summary "Sužinokite apie naujas galimybes po atnaujinimo">
+<!ENTITY pref_whats_new_notification_summary "Sužinokite apie naujas funkcijas po atnaujinimo">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Išvalyti">
 <!ENTITY button_copy "Kopijuoti">
 
+<!ENTITY home_top_sites_title "Lankomiausios">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Įtraukite skaitymo rodinio elementus į adresyną, kad galėtumėte juos skaityti neprisijungę.">
 <!ENTITY helper_triple_readerview_open_button "Įtraukti į adresyną">
 
+<!ENTITY activity_stream_topsites "Lankomiausios">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Daugiau">
