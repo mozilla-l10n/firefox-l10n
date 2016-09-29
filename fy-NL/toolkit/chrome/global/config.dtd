@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Dit kin jo garânsje ûnnut meitsje!">
-<!ENTITY aboutWarningText.label "Fia dizze konfiguraasjeside kinne jo wiidweide foarkarren oanpasse dy't dizze applikaasje bestjoere. It is mooglik dat jo skaadlike neveneffekten feroarsaakje troch de weardes fan dizze foarkarren te feroarjen. Jo moatte allinnich trochgean as jo witte wat jo dogge of as jo de oanwizings folgje fan in betrouber advies.">
+<!ENTITY aboutWarningText.label "Fia dizze konfiguraasjeside kinne jo wiidweidige foarkarren oanpasse dy't dizze applikaasje bestjoere. It is mooglik dat jo skaadlike njonkeneffekten feroarsaakje troch de wearden fan dizze foarkarren te wizigjen. Jo moatte allinnich trochgean as jo witte wat jo dogge of as jo de oanwizingen folgje fan in betrouber advys.">
 <!ENTITY aboutWarningButton2.label "Ik akseptearje it risiko!">
 <!ENTITY aboutWarningCheckbox.label "Lit dizze warskôging de folgjende kear wer sjen">
 
@@ -23,8 +23,8 @@
 <!ENTITY valueColumn.label "Wearde">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Klik om te sortearjen">
-<!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen">
+<!ENTITY prefColumnHeader.tooltip "Klik om te sortearjen"> 
+<!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "K">
@@ -46,5 +46,5 @@
 <!ENTITY string.accesskey "T">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.accesskey "B">
 <!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">
