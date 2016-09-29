@@ -20,13 +20,13 @@
 <!ENTITY warningDesc.telemetryDesc  "С цел подобряване, &brandShortName; автоматично изпраща информация за производителността, хардуера, начина на ползване и настройките към &vendorShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "Използването на изпитателните версии помага за подобряване на качеството на любимия ви четец.">
+<!ENTITY community.exp.start        "Използвайки изпитателна версия вие помагате за повишаване на качеството на любимия си четец. ">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " е ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "глобална общност">
-<!ENTITY community.exp.end          ", работеща заедно за една отворена и общодостъпна Мрежа.">
+<!ENTITY community.exp.creditsLink  "глобална, сплотена общност">
+<!ENTITY community.exp.end          ", работеща за една отворена и общодостъпна Мрежа.">
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
