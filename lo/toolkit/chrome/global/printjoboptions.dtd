@@ -1,22 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
+<!ENTITY printJobOptions.title "ຄຸນສົມບັດຂອງເຄື່ອງພິມ">
 
+<!ENTITY paperInput.label "ຂະຫນາດເຈ້ຍ:">
+<!ENTITY paperInput.accesskey "P">
 
+<!ENTITY jobTitleInput.label "ຫົວຂໍ້:">
+<!ENTITY jobTitleInput.accesskey "J">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY colorGroup.label "ສີ:">
+<!ENTITY grayRadio.label "ລະດັບສີເທົ່າ">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "ສີ">
+<!ENTITY colorRadio.accesskey "C">
 
