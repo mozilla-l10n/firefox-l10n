@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Redefinir nível de zoom">
+<!ENTITY urlbar.zoomReset.tooltip     "Resetar nível de zoom">
 
 <!ENTITY searchItem.title             "Pesquisar">
 
@@ -623,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Normal">
+<!ENTITY fullZoomResetCmd.label         "Resetar">
 <!ENTITY fullZoomResetCmd.accesskey     "N">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
