@@ -18,7 +18,7 @@
 <!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "Tukar Kata laluan">
 <!ENTITY devmgr.button.changepw.accesskey       "a">
-<!ENTITY devmgr.button.load.label               "Muat">
+<!ENTITY devmgr.button.load.label               "Muatkan">
 <!ENTITY devmgr.button.load.accesskey           "a">
 <!ENTITY devmgr.button.unload.label             "Nyahmuat">
 <!ENTITY devmgr.button.unload.accesskey         "U">

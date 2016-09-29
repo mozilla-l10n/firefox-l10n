@@ -20,7 +20,7 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Mengecil untuk muat Lebar laman">
+<!ENTITY shrinkToFit.label   "Kecilkan supaya muat Lebar Halaman">
 <!ENTITY shrinkToFit.accesskey "c">
 
 <!ENTITY optionsGroup.label  "Pilihan">
