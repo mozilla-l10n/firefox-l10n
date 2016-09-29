@@ -4,7 +4,7 @@
 
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Side-ynstellings">
+<!ENTITY printSetup.title    "Side-ynstellingen">
 
 <!ENTITY basic.tab           "Formaat &amp; opsjes">
 
@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "Opsjes">
 
-<!ENTITY printBG.label       "Eftergrun ôfdrukke (kleuren &amp; ôfbyldings)">
+<!ENTITY printBG.label       "Eftergrûn ôfdrukke (kleuren &amp; ôfbyldingen)">
 <!ENTITY printBG.accesskey   "E">
 
 <!ENTITY advanced.tab        "Marzjes &amp; kop-/fuotteksten">
