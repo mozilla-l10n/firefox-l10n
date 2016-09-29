@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "Zum">
 <!ENTITY windowMenu.label         "Tetingkap">
 
-<!ENTITY helpMenu.label           "Bantuan">
-<!ENTITY helpMenu.accesskey       "n">
+<!ENTITY helpMenu.label           "Bantuan"> 
+<!ENTITY helpMenu.accesskey       "n"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Bantuan">
+<!ENTITY helpMenuWin.label        "Bantuan"> 
 <!ENTITY helpMenuWin.accesskey    "a">
 <!ENTITY aboutProduct2.label      "Perihal &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
@@ -28,10 +28,10 @@
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "d">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY healthReport2.label      "&brandShorterName; Laporan Sistem">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Informasi Menyelesaikan masalah">
+<!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
 <!ENTITY helpTroubleshootingInfo.accesskey  "a">
 
 <!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
