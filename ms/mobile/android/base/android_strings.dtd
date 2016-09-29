@@ -579,7 +579,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Halaman Utama">
 <!ENTITY home_history_title "Sejarah">
-<!ENTITY home_synced_devices_smartfolder "Sync peranti">
+<!ENTITY home_synced_devices_smartfolder "Peranti Sync">
 <!ENTITY home_synced_devices_number "&formatD; peranti">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 peranti">
