@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Pašalinti iš žurnalo">
 <!ENTITY cmd.removeFromHistory.accesskey  "š">
-
-
+<!ENTITY cmd.clearList2.label             "Išvalyti peržiūros skydelį">
+<!ENTITY cmd.clearList2.accesskey         "v">
 <!ENTITY cmd.clearDownloads.label         "Išvalyti atsiuntimus">
 <!ENTITY cmd.clearDownloads.accesskey     "v">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Rodyti visus atsiuntimus">
 <!ENTITY downloadsHistory.accesskey       "R">
 
+<!ENTITY openDownloadsFolder.label       "Atverti atsiuntimų aplanką">
 
 <!ENTITY clearDownloadsButton.label       "Išvalyti atsiuntimus">
 <!ENTITY clearDownloadsButton.tooltip     "Pašalinti iš sąrašo užbaigtus, nutrauktus ir nepavykusius atsiuntimus">
