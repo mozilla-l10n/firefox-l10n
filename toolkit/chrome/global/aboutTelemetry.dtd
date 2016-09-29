@@ -141,7 +141,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Trage SQL debugging is ynskeakel. Folsleine SQL-strings kine hjirûnder toant wurde, mar se sille net ferstjoerd wurde nei Telemetry.
+  NOTE: Trage SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
