@@ -74,7 +74,7 @@
 <!ENTITY setup.signInPage.title.label "Identificação">
 <!ENTITY existingRecoveryKey.description "Você pode obter uma cópia da sua chave de recuperação em Opções do &syncBrand.shortName.label; no seu outro dispositivo e então selecionando &#x0022;Minha chave de recuperação&#x0022; em &#x0022;Gerenciar conta&#x0022;.">
 <!ENTITY verifying.label              "Verificando…">
-<!ENTITY resetPassword.label          "Redefinir senha">
+<!ENTITY resetPassword.label          "Resetar senha">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
 
 <!-- Sync Options -->
