@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Изтегляния">
 
-<!ENTITY saveTo.label "Записване на файловете в">
+<!ENTITY saveTo.label "Запазване на файловете в">
 <!ENTITY saveTo.accesskey "З">
 <!ENTITY chooseFolderWin.label        "Разглеждане…">
 <!ENTITY chooseFolderWin.accesskey    "Р">
