@@ -4,7 +4,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "ফায়ারফক্স সিঙ্ক">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "সিঙ্ক">
 <!-- Main titles. -->
 
@@ -80,17 +80,17 @@
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?">
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox Account মুছে ফেলবেন?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "ফায়ারফক্স অ্যাকাউন্ট &formatS; মুছে ফেলা হয়েছে।">
+<!ENTITY fxaccount_remove_account_toast "Firefox Account &formatS; মুছে ফেলা হয়েছে।">
 
 <!ENTITY fxaccount_enable_debug_mode "ডিবাগ মোড সক্রিয় করুন">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
-<!ENTITY fxaccount_account_type_label "ফায়ারফক্স">
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -103,7 +103,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "আপনাকে ফায়ারফক্স আপগ্রেড করতে হবে">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "আপনাকে Firefox হালনাগাদ করতে হবে">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "এই অ্যাকাউন্টটি আগে থেকেই আছে &formatS1;">

@@ -397,7 +397,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোড">
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
-<!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার নির্ধারণ কুরুন">
+<!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার করুন">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -781,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "অ্যাড-অন">
-<!ENTITY restrictable_feature_addons_installation_description "ফায়ারফক্সে বৈশিষ্ট্য বা কার্যকারিতা যোগ করুন। উল্লেখ্য: অ্যাড-অন কিছু নিষেধাজ্ঞা নিষ্ক্রিয় করতে পারে।">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox এ বৈশিষ্ট্য বা কার্যকারিতা যোগ করুন। উল্লেখ্য: অ্যাড-অন কিছু নিষেধাজ্ঞা নিষ্ক্রিয় করতে পারে।">
 <!ENTITY restrictable_feature_private_browsing "একান্ত ব্রাউজিং">
 <!ENTITY restrictable_feature_private_browsing_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য সংরক্ষণ ছাড়াই ব্রাউজ করতে দেয়।">
 <!ENTITY restrictable_feature_clear_history "ইতিহাস মুছে ফেলুন">
@@ -801,7 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Support">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "ফায়ারফক্সে অ্যান্ড্রোয়েড ট্যাবলেটে সুরক্ষিত প্রোফাইলের জন্য সাহায্য এবং সমর্থন রয়েছে">
+<!ENTITY bookmarks_restricted_support2 "Android ট্যাবলেটে সুরক্ষিত প্রোফাইলের জন্য Firefox সাহায্য ও সাপোর্ট রয়েছে।">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "ওয়েব সম্পর্কে জানুন: মজিলা ওয়েবমেকার">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
