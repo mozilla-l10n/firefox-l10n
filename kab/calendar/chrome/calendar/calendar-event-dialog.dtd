@@ -74,30 +74,32 @@
 <!ENTITY  event.menu.item.delete.accesskey                "K">
 <!ENTITY  event.menu.item.page.setup.label                "Asbadu n usebter">
 <!ENTITY  event.menu.item.page.setup.accesskey            "b">
+<!ENTITY  event.menu.item.print.label                     "Siggez">
+<!ENTITY  event.menu.item.print.accesskey                 "S">
 
+<!ENTITY  event.menu.edit.label                           "Ẓreg">
+<!ENTITY  event.menu.edit.accesskey                       "Ẓ">
+<!ENTITY  event.menu.edit.undo.label                      "Sefsax">
+<!ENTITY  event.menu.edit.undo.accesskey                  "S">
+<!ENTITY  event.menu.edit.redo.label                      "Err-d">
+<!ENTITY  event.menu.edit.redo.accesskey                  "E">
+<!ENTITY  event.menu.edit.cut.label                       "Gzem">
+<!ENTITY  event.menu.edit.cut.accesskey                   "G">
+<!ENTITY  event.menu.edit.copy.label                      "Nɣel">
+<!ENTITY  event.menu.edit.copy.accesskey                  "N">
+<!ENTITY  event.menu.edit.paste.label                     "Senteḍ">
+<!ENTITY  event.menu.edit.paste.accesskey                 "n">
+<!ENTITY  event.menu.edit.select.all.label                "Fren akk">
+<!ENTITY  event.menu.edit.select.all.accesskey            "F">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.view.label                           "Sken">
+<!ENTITY  event.menu.view.accesskey                       "n">
+<!ENTITY  event.menu.view.toolbars.label                  "Ifeggagen n ifecka">
+<!ENTITY  event.menu.view.toolbars.accesskey              "I">
+<!ENTITY  event.menu.view.toolbars.event.label            "Afeggeg n ifecka n tedyant">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "A">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Sagen…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "S">
 
 
 
