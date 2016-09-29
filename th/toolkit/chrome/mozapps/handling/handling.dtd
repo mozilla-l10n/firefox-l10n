@@ -4,7 +4,6 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-
 <!ENTITY ChooseApp.label "เลือก…">
 <!ENTITY ChooseApp.accessKey "ล">
-
+<!ENTITY accept "เปิดลิงก์">
