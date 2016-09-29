@@ -50,9 +50,9 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Papar versi luar talian">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Ranap">
 <!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.">
-<!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
+<!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; perihal ranap ini supaya mereka boleh membaikinya">
 <!ENTITY  crash_include_url2 "Sertakan alamat halaman saya sekarang">
 <!ENTITY  crash_sorry "Kami mohon maaf">
 <!ENTITY  crash_comment "Tambah komen (komen disiarkan kepada umum)">
@@ -206,7 +206,7 @@
 <!ENTITY pref_manage_logins "Urus log masuk">
 
 <!ENTITY pref_category_home "Halaman utama">
-<!ENTITY pref_category_home_summary "Menyesuai halaman utama anda">
+<!ENTITY pref_category_home_summary "Penyesuaian halaman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
 <!ENTITY pref_home_updates2 "Kemas kini kandungan">
@@ -279,7 +279,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Tab Tersuai">
+<!ENTITY pref_custom_tabs "Tab Penyesuaian">
 <!ENTITY pref_custom_tabs_summary "Izinkan app pihak ketiga untuk membuka URLs dengan penyesuaian gaya dan bentuk.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
@@ -387,7 +387,7 @@ size. -->
 <!ENTITY pref_import_options "Import pilihan">
 <!ENTITY pref_import_android_summary "Import tanda buku dan sejarah dari pelayar terbina dalam">
 <!ENTITY pref_private_data_history2 "Sejarah pelayaran">
-<!ENTITY pref_private_data_searchHistory "Sejaran carian">
+<!ENTITY pref_private_data_searchHistory "Sejarah carian">
 <!ENTITY pref_private_data_formdata2 "Sejarah aksara">
 <!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
 <!ENTITY pref_private_data_passwords2 "Log masuk tersimpan">
@@ -435,10 +435,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Papar Health Report saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan kerosakan untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
+<!ENTITY datareporting_crashreporter_title_short "Pelapor Ranap">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Bantu &vendorShortName; memetai dunia! Kongsi lokasi Wi-Fi dan talian peranti anda untuk memperbaikkan perkhidmatan geolokasi kami.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
@@ -465,7 +465,7 @@ size. -->
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY print "Cetak">
 <!ENTITY find_in_page "Cari dalam halaman">
-<!ENTITY desktop_mode "Minta laman desktop">
+<!ENTITY desktop_mode "Pinta laman desktop">
 <!ENTITY page "Halaman">
 <!ENTITY tools "Alatan">
 <!ENTITY new_tab "Tab baru">
@@ -493,7 +493,7 @@ size. -->
 <!ENTITY media_stop "Berhenti">
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
-<!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
+<!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
 <!ENTITY contextmenu_remove "Alih keluar">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Halaman utama">
 <!ENTITY contextmenu_share "Kongsi">
@@ -587,13 +587,13 @@ size. -->
 <!ENTITY home_clear_history_button "Buang sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu membuang sejarah anda?">
 <!ENTITY home_bookmarks_empty "Tanda buku yang anda simpan dipaparkan di sini.">
-<!ENTITY home_closed_tabs_title2 "Ditutup baru-baru ini">
-<!ENTITY home_last_tabs_empty "Tab terbaru anda dipaparkan di sini.">
+<!ENTITY home_closed_tabs_title2 "Terkini ditutup">
+<!ENTITY home_last_tabs_empty "Tab terkini anda dipaparkan di sini.">
 <!ENTITY home_restore_all "Ambil semula semua">
 <!ENTITY home_closed_tabs_number "&formatD; tab">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
-<!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
+<!ENTITY home_most_recent_empty "Laman web terkini yang anda kerap lawati akan dipaparkan di sini.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: menggunakan &formatS1; Tab Peribadi Baru&formatS2; tidak akan menyimpan sejarah anda.">
@@ -620,7 +620,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
 <!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab anda daripada peranti lain ke panel pada halaman utama anda yang mudah dicapai setiap kali anda membuka tab baru.">
-<!ENTITY remote_tabs_panel_moved_link "Bawa saya ke panel baru saya.">
+<!ENTITY remote_tabs_panel_moved_link "Bawa saya ke panel baru.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
