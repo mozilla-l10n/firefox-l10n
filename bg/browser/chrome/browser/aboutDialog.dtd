@@ -33,8 +33,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "глобална общност">
-<!ENTITY community.end3             ", работеща заедно за една отворена и общодостъпна Мрежа.">
+<!ENTITY community.creditsLink      "глобална, сплотена общност">
+<!ENTITY community.end3             ", работеща за една отворена и общодостъпна Мрежа.">
 
 <!ENTITY helpus.start               "Искате да помогнете? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -71,14 +71,14 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Обновяването е неуспешно. ">
-<!ENTITY update.failed.linkText     "Изтеглете последната версия">
+<!ENTITY update.failed.linkText     "Изтегляне на последната версия">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Обновяванията са налични в ">
+<!ENTITY update.manual.start        "Обновяванията са налични на ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
