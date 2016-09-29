@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
-<!ENTITY alwaysAsk.label "Sentiasa tanya di mana saya mahu menyimpan fail">
+<!ENTITY alwaysAsk.label "Sentiasa tanya saya lokasi untuk simpan fail">
 <!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Sentiasa semak samada &brandShortName; adalah pelayar piawai anda">
@@ -38,8 +38,8 @@
 <!ENTITY isDefault.label                  "&brandShortName; kini adalah pelayar piawai anda">
 <!ENTITY isNotDefault.label               "&brandShortName; bukan pelayar piawai anda">
 
-<!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk berjalan pada masa yang sama">
+<!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk dilancarkan pada masa yang sama">
 <!ENTITY useFirefoxSync.label             "Tip: Ciri ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data.">
-<!ENTITY getStarted.label                 "Mula menggunakan Sync…">
+<!ENTITY getStarted.label                 "Mulakan Sync…">
 
 <!ENTITY e10sEnabled.label                "Dayakan multi-proses &brandShortName;">
