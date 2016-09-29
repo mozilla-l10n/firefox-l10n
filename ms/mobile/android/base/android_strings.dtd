@@ -51,10 +51,10 @@
 <!ENTITY  tab_offline_version "Papar versi luar talian">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Pelapor Ranap">
-<!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.">
+<!ENTITY  crash_message2 "&brandShortName; ada masalah dan ranap. Tab anda sepatutnya ada disenaraikan pada halaman Permulaan &brandShortName; apabila anda mula semula.">
 <!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; perihal ranap ini supaya mereka boleh membaikinya">
 <!ENTITY  crash_include_url2 "Sertakan alamat halaman saya sekarang">
-<!ENTITY  crash_sorry "Kami mohon maaf">
+<!ENTITY  crash_sorry "Kami minta maaf">
 <!ENTITY  crash_comment "Tambah komen (komen disiarkan kepada umum)">
 <!ENTITY  crash_allow_contact2 "Izinkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
 <!ENTITY  crash_email "E-mel anda">
@@ -430,7 +430,7 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_title "&brandShortName; Laporan Sistem">
 <!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda dan membantu anda memahami prestasi pelayar anda">
 <!ENTITY datareporting_abouthr_title "Papar Health Report saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
