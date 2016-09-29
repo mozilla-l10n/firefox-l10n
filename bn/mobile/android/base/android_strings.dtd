@@ -166,7 +166,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "কোন ফায়ারফক্স অ্যাকাউন্ট সংযুক্ত ডিভাইস পাওয়া যায়নি">
+<!ENTITY overlay_no_synced_devices "কোন Firefox Account সংযুক্ত ডিভাইস পাওয়া যায়নি">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary2 "যোগ, ডিফল্ট সেট, প্রস্তাবনা দেখাও">
@@ -795,11 +795,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
-<!ENTITY bookmarks_about_browser "ফায়ারফক্স: আপনার ব্রাউজার পরিচিতি">
+<!ENTITY bookmarks_about_browser "Firefox: আপনার ব্রাউজার পরিচিতি">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "ফায়ারফক্স: অ্যাড-অনের মাধ্যমে কাস্টমাইজ করুন">
+<!ENTITY bookmarks_addons "Firefox: অ্যাড-অন দিয়ে কাস্টমাইজ করুন">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "ফায়ারফক্স: সমর্থন">
+<!ENTITY bookmarks_support "Firefox: Support">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "ফায়ারফক্সে অ্যান্ড্রোয়েড ট্যাবলেটে সুরক্ষিত প্রোফাইলের জন্য সাহায্য এবং সমর্থন রয়েছে">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
