@@ -26,7 +26,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "З">
 <!ENTITY newOtherAccountsCmd.label "Други регистрации…">
 <!ENTITY newOtherAccountsCmd.accesskey "Д">
-<!ENTITY newCreateEmailAccountCmd.label "Получаване на нова регистрация…">
+<!ENTITY newCreateEmailAccountCmd.label "Получаване на нова сметка…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "П">
 <!ENTITY newExistingEmailAccountCmd.label "Съществуваща регистрация…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "С">

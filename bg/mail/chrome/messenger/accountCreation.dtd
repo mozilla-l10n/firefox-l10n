@@ -53,7 +53,7 @@
 <!ENTITY half-manual-test.accesskey      "Т">
 <!ENTITY manual-edit.label               "Ръчна настройка">
 <!ENTITY manual-edit.accesskey           "Р">
-<!ENTITY switch-to-provisioner.label     "Получаване на нова регистрация">
+<!ENTITY switch-to-provisioner.label     "Получаване на нова сметка">
 <!ENTITY switch-to-provisioner.accesskey "П">
 
 
