@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مائیکروفون کی سائٹ کہ ساتھ حصہ داری کو بندوبست کریں">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "اپنی ونڈوں یا سکرین اس سائٹ کے ساتھ حصہ داری کے لئے بندوبست کریں">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "پیغام کے پینل کو کھولیں اور تنصیب کریں">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "اس صفحہ کا ترجمہ کریں">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "صفحہ کہ ترجمہ کو بندوبست کریں">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM سافٹ ویئر کہ استعمال کو بندوبست کریں">

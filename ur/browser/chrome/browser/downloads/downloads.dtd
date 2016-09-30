@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "تمام ڈاؤن لوڈ دکھائیں">
 <!ENTITY downloadsHistory.accesskey       "ت">
 
+<!ENTITY openDownloadsFolder.label       "ڈاؤن لوڈ پوشہ کھولیں">
 
 <!ENTITY clearDownloadsButton.label       "ڈاؤن لوڈ خالی کریں">
 <!ENTITY clearDownloadsButton.tooltip     "مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے">
