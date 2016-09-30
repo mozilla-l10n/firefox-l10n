@@ -5,7 +5,8 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Font Inspector strings.
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
-<!ENTITY showAllFonts "Zobraziť zoznam písiem použitých na tejto stránke">
+<!ENTITY showAllFonts "Zobraziť všetky písma použité na tejto stránke">
+<!ENTITY showAllFontsUsed "Zobraziť všetky použité písma">
 <!ENTITY usedAs "Použité ako: ">
 <!ENTITY system "systémové">
 <!ENTITY remote "vzdialené">
