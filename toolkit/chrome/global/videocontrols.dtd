@@ -14,7 +14,7 @@
 <!ENTITY stats.media "สื่อ">
 <!ENTITY stats.size "ขนาด">
 <!ENTITY stats.activity "กิจกรรม">
-<!ENTITY stats.activityPaused "หยุด">
+<!ENTITY stats.activityPaused "ถูกหยุดชั่วคราว">
 <!ENTITY stats.activityPlaying "กำลังเล่น">
 <!ENTITY stats.activityEnded "จบแล้ว">
 <!ENTITY stats.activitySeeking "(กำลังค้นหา)">
