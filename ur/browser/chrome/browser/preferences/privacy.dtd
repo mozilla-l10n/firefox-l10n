@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "سابقات یاد رکھے">
 <!ENTITY  historyHeader.dontremember.label "کبھی سابقات نہ یاد رکھے">
 <!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص ترتیب استعمال کریں">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "‍">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براؤزنگ، ڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں سنبھالے گا۔">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
