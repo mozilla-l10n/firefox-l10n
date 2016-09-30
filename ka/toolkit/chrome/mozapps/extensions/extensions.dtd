@@ -103,9 +103,9 @@
 <!ENTITY cmd.installAddon.accesskey           "ი">
 <!ENTITY cmd.uninstallAddon.label             "ამოღება">
 <!ENTITY cmd.uninstallAddon.accesskey         "ა">
-<!ENTITY cmd.showPreferencesWin.label         "პარამეტრები">
+<!ENTITY cmd.showPreferencesWin.label         "გამართვა">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
-<!ENTITY cmd.showPreferencesUnix.label        "პარამეტრები">
+<!ENTITY cmd.showPreferencesUnix.label        "გამართვა">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.contribute.label                 "მონაწილეობა">
 <!ENTITY cmd.contribute.accesskey             "წ">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.label         "განახლებების შემოწმება">
 <!ENTITY detail.checkForUpdates.accesskey     "ბ">
 <!ENTITY detail.checkForUpdates.tooltip       "ამ დამატების შემოწმება განახლებაზე">
-<!ENTITY detail.showPreferencesWin.label      "პარამეტრები">
-<!ENTITY detail.showPreferencesWin.accesskey  "პ">
+<!ENTITY detail.showPreferencesWin.label      "გამართვა">
+<!ENTITY detail.showPreferencesWin.accesskey  "გ">
 <!ENTITY detail.showPreferencesWin.tooltip    "ამ დამატების პარამეტრების შეცვლა">
-<!ENTITY detail.showPreferencesUnix.label     "პარამეტრები">
+<!ENTITY detail.showPreferencesUnix.label     "გამართვა">
 <!ENTITY detail.showPreferencesUnix.accesskey "რ">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ამ დამატების პარამეტრების შეცვლა">
 

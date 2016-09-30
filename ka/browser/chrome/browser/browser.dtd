@@ -487,9 +487,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "გვერდის ვებ კოდების ჩვენება">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "ბლოკის ვებ კოდების ჩვენება">
+<!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
+<!ENTITY viewPageSourceCmd.accesskey  "ჩ">
+<!ENTITY viewFrameSourceCmd.label     "ჩარჩოს წყაროს ჩვენება">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "გვერდის მონაცემების ჩვენება">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
@@ -554,9 +554,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის კოპირება">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "ო">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "ე">
 <!ENTITY thisFrameMenu.label              "ეს ბლოკი">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
@@ -653,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "დახურვა">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "დ">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
