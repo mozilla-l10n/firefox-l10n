@@ -29,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите отдясно">
 <!ENTITY  closeTabsToTheEnd.accesskey        "д">
 <!ENTITY  closeOtherTabs.label               "Затваряне на другите раздели">
-<!ENTITY  closeOtherTabs.accesskey           "З">
+<!ENTITY  closeOtherTabs.accesskey           "д">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Отмятане на всички раздели…">
 <!ENTITY  bookmarkAllTabs.accesskey          "О">
-<!ENTITY  undoCloseTab.label                 "Отмяна на затварянето на раздел">
+<!ENTITY  undoCloseTab.label                 "Отваряне на затворен раздел">
 <!ENTITY  undoCloseTab.accesskey             "О">
 <!ENTITY  closeTab.label                     "Затваряне на раздела">
 <!ENTITY  closeTab.accesskey                 "З">
@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "в">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане на всички раздели…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "О">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Отмяна затварянето на раздел">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Отваряне на затворен раздел">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "О">
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
