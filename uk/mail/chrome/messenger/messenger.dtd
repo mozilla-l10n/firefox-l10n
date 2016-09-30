@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Переслати">
 <!ENTITY fileButton.label "Помістити">
 <!ENTITY archiveButton.label "Архівувати">
+<!ENTITY openConversationButton.label "Розмова">
 <!ENTITY nextButton.label "Наступний">
 <!ENTITY nextButtonToolbarItem.label "Наступний нечитаний">
 <!ENTITY nextMsgButton.label "Наступний">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Переслати вибране повідомлення у вигляді вкладення">
 <!ENTITY fileButton.tooltip "Помістити вибраний лист в потрібну теку">
 <!ENTITY archiveButton.tooltip "Архівувати вибрані листи">
+<!ENTITY openConversationButton.tooltip "Показати розмову для обраного повідомлення">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного листа">
 <!ENTITY nextMsgButton.tooltip "Перейти до наступного листа">
 <!ENTITY previousButton.tooltip "Перейти до попереднього непрочитаного листа">

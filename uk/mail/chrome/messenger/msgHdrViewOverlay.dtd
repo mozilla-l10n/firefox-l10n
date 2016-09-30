@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Кому ">
 <!ENTITY fromField4.label "Від ">
 <!ENTITY senderField4.label "Відправник ">
+<!ENTITY author.label "Автор">
 <!ENTITY organizationField4.label "Організація ">
 <!ENTITY replyToField4.label "Відповідати-до ">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Архівувати">
 <!ENTITY hdrArchiveButton1.tooltip "Архівувати цей лист">
+<!ENTITY hdrOpenConversationButton1.label "Розмова">
+<!ENTITY hdrOpenConversationButton1.tooltip "Показати розмову цього повідомлення">
 <!ENTITY hdrSmartReplyButton1.label "Розумна відповідь">
 <!ENTITY hdrReplyButton1.label "Відповісти">
 <!ENTITY hdrReplyButton2.tooltip "Відповісти автору цього листа">
