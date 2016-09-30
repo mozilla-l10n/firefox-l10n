@@ -77,7 +77,7 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "मेरी परियोजना">
-<!ENTITY projectPanel_runtimeApps "रनटाइम एप्प">
+<!ENTITY projectPanel_runtimeApps "रनटाइम ऐप्स">
 <!ENTITY projectPanel_tabs "टैब">
 <!ENTITY runtimePanel_usb "USB युक्तियाँ">
 <!ENTITY runtimePanel_wifi "Wi-Fi युक्ति">
