@@ -18,7 +18,7 @@
 <!ENTITY copyCmd.accesskey         "კ">
 <!ENTITY pasteCmd.label            "ჩასმა">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "მ">
+<!ENTITY pasteCmd.accesskey        "ჩ">
 <!ENTITY deleteCmd.label           "წაშლა">
 <!ENTITY deleteCmd.accesskey       "წ">
 <!ENTITY selectAllCmd.label        "ყველას არჩევა">

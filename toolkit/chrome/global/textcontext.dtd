@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "ამოჭრა">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "ა">
 <!ENTITY copyCmd.label "კოპირება">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "კ">
 <!ENTITY pasteCmd.label "ჩასმა">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "ჩ">
 <!ENTITY undoCmd.label "დაბრუნება">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.accesskey "დ">
 <!ENTITY selectAllCmd.label "ყველაფრის მონიშვნა">
 <!ENTITY selectAllCmd.accesskey "ყ">
 <!ENTITY deleteCmd.label "წაშლა">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.accesskey "წ">
 
 <!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
 <!ENTITY spellAddToDictionary.accesskey "o">
