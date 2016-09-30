@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "मनपसंद टैब">
-<!ENTITY pref_custom_tabs_summary "अनुकूलित दृश्य और अनुभव के साथ URLs खोलने के लिए अन्य पक्ष एप्प को अनुमति दें.">
+<!ENTITY pref_custom_tabs_summary "अनुकूलित दृश्य और अनुभव के साथ URLs खोलने के लिए अन्य पक्ष ऐप्स को अनुमति दें.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
