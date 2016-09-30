@@ -21,3 +21,5 @@
 
 <!ENTITY openTabs.label "Abrir em nova aba quando">
 
+<!ENTITY openDataManager.label "Gerenciador de dados">
+<!ENTITY openAddOnsManager.label "Gerenciador de complementos">

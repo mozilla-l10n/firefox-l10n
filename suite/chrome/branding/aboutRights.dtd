@@ -43,6 +43,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "aqui">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Serviços dos complementos:">
@@ -61,6 +62,7 @@
 <!ENTITY rights.safebrowsing-term4 "A Navegação Segura agora está desativada">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term4 "O serviço de navegação sensível à localização está desativado agora">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os serviços a qualquer momento.">
