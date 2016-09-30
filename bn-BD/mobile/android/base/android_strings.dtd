@@ -466,7 +466,7 @@ size. -->
 <!ENTITY print "মুদ্রণ">
 <!ENTITY find_in_page "পাতায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের জন্য অনুরোধ">
-<!ENTITY page "পেজ">
+<!ENTITY page "পাতা">
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
