@@ -62,7 +62,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "в">
 <!ENTITY cmd.removeFromHistory.label      "Премахване от списъка">
 <!ENTITY cmd.removeFromHistory.accesskey  "П">
-<!ENTITY cmd.clearList2.label             "Изчистване на панела за преглед">
+<!ENTITY cmd.clearList2.label             "Изчистване на списъка">
 <!ENTITY cmd.clearList2.accesskey         "п">
 <!ENTITY cmd.clearDownloads.label         "Изчистване на изтеглянията">
 <!ENTITY cmd.clearDownloads.accesskey     "и">
