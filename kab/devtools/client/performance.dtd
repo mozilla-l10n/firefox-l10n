@@ -30,6 +30,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Acercur">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Isken-d timhalin iseqdac wuminig di lawan n usekles, atan ttwaskenen-d s wudem ulkim am ucercur">
 <!ENTITY performanceUI.toolbar.js-calltree "Aseklu n usiwel">
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Isnasen">
