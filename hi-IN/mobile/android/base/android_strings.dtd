@@ -526,7 +526,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "छोटे क्षेत्र आवर्द्धित करें">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "लिंक और फ़ॉर्म क्षेत्र को उनके नजदीक स्पर्श करने पर बड़ा करें ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -828,6 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "पाठ्य दृष्टि वस्तुओं को ऑफलाइन पढ़ने के लिए उन्हें पुस्तचिन्हित करें.">
 <!ENTITY helper_triple_readerview_open_button "पुस्तचिह्नों में जोड़ें">
 
+<!ENTITY activity_stream_topsites "सर्वोत्तम साइटें">
 <!ENTITY activity_stream_highlights "प्रमुखताएँ">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->

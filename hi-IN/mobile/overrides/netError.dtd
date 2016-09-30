@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>टंकण त्रुटि हेतु पता जाँचें जैसे कि <strong>ww</strong>.example.com के बदले <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>यदि आप किसी भी पृष्ठों को लोड कर पाने में असमर्थ हैं, तो अपने उपकरण के डेटा या वाई फाई कनेक्शन को जाँचें. <button id='wifi'>वाई फाई सक्रिय करें</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहीं मिली">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> </ul>">
@@ -27,17 +28,18 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>इसे हटाया, खिसकाया जा सकता है या फाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li> </ul>">
 
 <!ENTITY generic.title "ओफ्फ.">
-
+<!ENTITY generic.longDesc "<p>&brandShortName; कुछ कारणों से इस पृष्ठ को लोड नहीं किया जा सकता है.</p>">
 
 <!ENTITY malformedURI.title "पता वैध नहीं है">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब पते सामान्यतः इस प्रकार लिखे जाते हैं <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>सुनिश्चित करें कि आप अग्रेषण तिर्यक का उपयोग कर रहे हैं (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्तावेज़ का समय समाप्त">
-
+<!ENTITY notCached.longDesc "<p>अनुरोध किया गया दस्तावेज़ &brandShortName; के अस्थाई भंडार में उपलब्ध नहीं है.</p><ul><li>सुरक्षा सावधानी के रूप में, &brandShortName; स्वतः संवेदनशील दस्तावेज़ों के लिए पुनः आग्रह नहीं करता है.</li><li>वेबसाइट से दस्तावेज़ को पुनः आग्रह करने के लिए पुनः प्रयाश करें को दबाएँ.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन मोड">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -77,7 +79,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं, नहीं दिखाया जा सकता क्योंकि प्राप्त डाटा की प्रमाणिकता जाॅंची नहीं जा सकी.</li> <li>कृपया वेबसाइट के मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> </ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>यह सर्वर के विन्यास के साथ समस्या हो सकती है, या यह कोई ऐसा हो सकता है जो सर्वर के रूप को बदलने की कोशिश कर रहा है.</li> <li>यदि आप पहले इस सर्वर से सफलतापूर्वक सम्पर्क स्थापित कर चुके हैं, तो त्रुटि अस्थायी हो सकती है, और आप बाद में पुनः कोशिश कर सकते हैं.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
