@@ -8,7 +8,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు">
+<!ENTITY update.checkForUpdatesButton.label       "నవీకరణలకై తనిఖీ చేయండి">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "నవీకరించుటకు &brandShortName; ను పునఃప్రారంభించుము">
 <!ENTITY update.updateButton.accesskey            "R">
