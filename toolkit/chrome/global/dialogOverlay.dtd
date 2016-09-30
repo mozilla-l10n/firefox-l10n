@@ -7,4 +7,4 @@
 <!-- OK Cancel Buttons -->
 <!ENTITY okButton.label      "კარგი">
 <!ENTITY cancelButton.label  "გაუქმება">
-<!ENTITY helpButton.label    "დახმარება">
+<!ENTITY helpButton.label    "?">

@@ -6,9 +6,9 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელის შესაძლოა გამოსადეგი იყო, როდესაც
-  პრობლემის გადაჭრას ცდილობთ.. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე
-  ეძებთ პასუხს, შეამოწმეთ ჩვენი <a id='supportLink'>დახმარების ვებ-საიტი</a>.">
+  ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელიც შესაძლოა წარმოქმნილი პრობლემის
+  მოგვარებაში დაგეხმაროთ. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე  
+  ეძებთ პასუხს, შეამოწმეთ ჩვენი <a id='supportLink'> მხარდაჭერის საიტი</a>.">
 
 <!ENTITY aboutSupport.crashes.title "ავარიული გათიშვის ანგარიშგება">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
