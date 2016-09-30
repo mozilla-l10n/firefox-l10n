@@ -83,6 +83,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY sharedLongDesc3 "<ul> <li>यह साईट अस्थाई रूप से अनुपलब्ध या अत्यंत व्यस्त हो सकता है.कुछ क्षणों में पुनः प्रयाश करें.</li> <li>यदि आप किसी भी पृष्ठ को लोड कर पाने में असमर्थ हैं, तो अपने मोबाइल उपकरण के डेटा या वाई फाई कनेक्शन की जाँच करें. <button id='wifi'>वाई फाई सक्रिय करें</button> </li> </ul>">
+
 <!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; इस प्रकार से पृष्ठ लोड होने से रोका गया गया क्योंकि पृष्ठ के पास अंतर्वस्तु सुरक्षा नीति है जो इसे अनुमति नही देता है.</p>">
 
