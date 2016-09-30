@@ -51,7 +51,7 @@
 <!ENTITY  tab_offline_version "অফলাইন সংস্করণ দেখাচ্ছে">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
-<!ENTITY  crash_message2 "&brandShortName; তে একটি ত্রুটি হয়েছে এবং ক্র্যাশ করেছে। যখন আপনি পুনরায় চালু করবেন, আপনার ট্যাব সমূহ &brandShortName; এর প্রারম্ভিক পৃষ্ঠায় তালিকাবদ্ধ থাকবে।">
+<!ENTITY  crash_message2 "&brandShortName; তে একটি ত্রুটি হয়েছে এবং ক্র্যাশ করেছে। যখন আপনি পুনরায় চালু করবেন, আপনার ট্যাব &brandShortName; এর প্রারম্ভিক পাতায় তালিকাবদ্ধ থাকবে।">
 <!ENTITY  crash_send_report_message3 "এই নষ্ট হয়ে যাওয়া সম্পর্কে &vendorShortName; বলুন যাতে তারা এটা ঠিক করতে পারে">
 <!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন">
 <!ENTITY  crash_sorry "আমরা দুঃখিত">
@@ -196,8 +196,8 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, ডেটা রক্ষক, ডেভেলপার টুলগুলো ফিরিয়ে আনুন">
 <!ENTITY pref_category_notifications "ঘোষণা">
-<!ENTITY pref_category_notifications_summary "নতুন ফিচারসমূহ, ওয়েবসাইট হালনাগাদসমূহ">
-<!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদসমূহ">
+<!ENTITY pref_category_notifications_summary "নতুন ফিচার, ওয়েবসাইট হালনাগাদ">
+<!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদ">
 <!ENTITY pref_content_notifications_summary2 "সমর্থিত সাইট থেকে নতুন বিষয়বস্তু আবিষ্কার করুন">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
@@ -250,7 +250,7 @@
 
 <!ENTITY pref_category_data_saver "ডাটা রক্ষাকারী">
 <!ENTITY pref_category_media "মিডিয়া">
-<!ENTITY pref_category_developer_tools "ডেভলপার টুলসমূহ">
+<!ENTITY pref_category_developer_tools "ডেভলপার টুল">
 
 <!ENTITY pref_tap_to_load_images_title2 "ছবি দেখাও">
 <!ENTITY pref_tap_to_load_images_enabled "সর্বদা">
@@ -385,7 +385,7 @@ size. -->
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_history_search_suggestions "অনুসন্ধানের ইতিহাস দেখাও">
 <!ENTITY pref_import_options "ইম্পোর্ট অপশন">
-<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সমূহ এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
+<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
 <!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "চালিয়ে যান">
 <!ENTITY guest_session_dialog_cancel "বাতিল">
 <!ENTITY new_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
-<!ENTITY new_guest_session_text2 "যে ব্যাক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্কসমূহ)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
+<!ENTITY new_guest_session_text2 "যে ব্যাক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্ক)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
 <!ENTITY guest_browsing_notification_text "প্রস্থান করতে ট্যাপ করুন">
 
