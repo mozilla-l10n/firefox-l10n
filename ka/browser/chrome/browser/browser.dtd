@@ -292,21 +292,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "რედაქტირება"> 
 <!ENTITY editMenu.accesskey       "რ"> 
-<!ENTITY undoCmd.label            "მოქმედების დაბრუნება">  
+<!ENTITY undoCmd.label            "დაბრუნება">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "მ"> 
+<!ENTITY undoCmd.accesskey          "დ"> 
 <!ENTITY redoCmd.label            "კვლავ შესრულება">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "კ"> 
 <!ENTITY cutCmd.label           "ამოჭრა">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "რ"> 
+<!ENTITY cutCmd.accesskey         "ა"> 
 <!ENTITY copyCmd.label            "კოპირება">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "კ"> 
 <!ENTITY pasteCmd.label           "ჩასმა">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ს"> 
+<!ENTITY pasteCmd.accesskey         "ჩ"> 
 <!ENTITY deleteCmd.label          "წაშლა">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "წ"> 

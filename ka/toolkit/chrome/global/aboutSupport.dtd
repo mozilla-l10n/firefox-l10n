@@ -108,7 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში კოპირება">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
 
-<!ENTITY aboutSupport.sandboxTitle "ქვიშის ყუთი">
+<!ENTITY aboutSupport.sandboxTitle "საქვიშარი">
 
 <!ENTITY aboutSupport.safeModeTitle "უსაფრთხო რეჟიმის ცდა">
 <!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
