@@ -127,8 +127,8 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "অডিও চলছে – &formatS;">
 
-<!ENTITY settings "সেটিংসমূহ">
-<!ENTITY settings_title "সেটিংসমূহ">
+<!ENTITY settings "সেটিং">
+<!ENTITY settings_title "সেটিং">
 <!ENTITY pref_category_general "সাধারণ">
 <!ENTITY pref_category_general_summary3 "হোম, ভাষা, ট্যাব কিউ">
 <!-- Localization note (pref_category_language) : This is the preferences
@@ -288,7 +288,7 @@
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
-<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যাক্তিগত গোপনীয়তা সেটিংস এ যান">
+<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যাক্তিগত গোপনীয়তা সেটিং এ যান">
 <!ENTITY tracking_protection_prompt_action_button "পেয়েছি!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
@@ -434,7 +434,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
 <!ENTITY datareporting_abouthr_title "আমার হেলথ রিপোর্ট দেখি">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
-<!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName; কে জানায়">
+<!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও উন্নত করতে আমাদের সহযোগিতা করতে আপনার ব্রাউজারের কার্যকারিতা, ব্যবহার, হার্ডওয়্যার এবং কাস্টমাইজেশন সম্পর্কিত তথ্য &vendorShortName; এর সাথে শেয়ার করে">
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
