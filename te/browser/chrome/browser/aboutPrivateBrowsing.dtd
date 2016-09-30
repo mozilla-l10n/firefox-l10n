@@ -8,14 +8,14 @@
 
 <!ENTITY privateBrowsing.title                           "ప్రైవేట్ బ్రౌజింగ్">
 <!ENTITY privateBrowsing.title.tracking                  "ప్రైవేట్ బ్రౌజింగ్ తో ట్రాకింగ్ సంరక్షణ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "మీరు ఒక ప్రైవేట్ విండోలో బ్రౌజ్ చేసేటప్పుడు, ఫైర్ఫాక్సు ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "మీరు ఒక ప్రైవేట్ విండోలో బ్రౌజ్ చేసేటప్పుడు, Firefox  ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "సేవ్ చేయవద్దు">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "సందర్శించిన పేజీలు">
 <!ENTITY aboutPrivateBrowsing.info.searches              "శోధనలు">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "కుకీలు">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "తాత్కాలిక ఫైళ్ళు">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "ఫైర్‌ఫాక్స్ ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "సేవ్ చేస్తుంది">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " మీ:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "డౌన్‌లోడ్లు">
@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "ప్రైవేట్ బ్రౌజింగ్">
 
 <!ENTITY trackingProtection.title                        "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.description2                 "కొన్ని వెబ్సైట్లు ఇంటర్నెట్ లో మీ కార్యాచరణ మానిటర్ గుర్తించేవి ఉపయోగించండి. ట్రాకింగ్ సంరక్షణ ఫైర్ఫాక్స్ మీ బ్రౌజింగ్ ప్రవర్తన గురించి సమాచారాన్ని సేకరించడానికి అనేక గుర్తించేవి నిరోధించగలరు.">
+<!ENTITY trackingProtection.description2                 "కొన్ని వెబ్సైట్లు ఇంటర్నెట్ లో మీ కార్యాచరణ మానిటర్ గుర్తించేవి ఉపయోగించండి. ట్రాకింగ్ సంరక్షణ Firefox మీ బ్రౌజింగ్ ప్రవర్తన గురించి సమాచారాన్ని సేకరించడానికి అనేక గుర్తించేవి నిరోధించగలరు.">
 <!ENTITY trackingProtection.startTour1                   "ఎలా పనిచేస్తుందో చూడండి">
