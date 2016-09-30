@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Aucune connexion">
 <!ENTITY aboutAccounts.noConnection.description "Vous devez disposer d’une connexion à Internet pour vous connecter.">
 <!ENTITY aboutAccounts.noConnection.retry "Réessayer">
+<!ENTITY aboutAccounts.badConfig.title "Configuration incorrecte">
+<!ENTITY aboutAccounts.badConfig.description "Impossible de déterminer la configuration serveur de votre compte Firefox. Veuillez réessayer plus tard.">
