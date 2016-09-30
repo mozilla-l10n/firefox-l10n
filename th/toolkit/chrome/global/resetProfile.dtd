@@ -7,9 +7,9 @@
 <!ENTITY refreshProfile.dialog.description2  "สิ่งนี้จะ:">
 <!ENTITY refreshProfile.dialog.items.label1  "เอาส่วนเสริมและการปรับแต่งของคุณออก">
 <!ENTITY refreshProfile.dialog.items.label2  "เรียกคืนการตั้งค่าเบราว์เซอร์ปริยายของคุณ">
-<!ENTITY refreshProfile.dialog.button.label  "เรียก &brandShortName; ใหม่">
+<!ENTITY refreshProfile.dialog.button.label  "ตั้งค่า &brandShortName; ใหม่">
 
 <!ENTITY refreshProfile.title                "รีดประสิทธิภาพ &brandShortName;">
-<!ENTITY refreshProfile.button.label         "เรียก &brandShortName; ใหม่…">
+<!ENTITY refreshProfile.button.label         "ตั้งค่า &brandShortName; ใหม่…">
 
 <!ENTITY refreshProfile.cleaning.description "เกือบเสร็จสิ้น…">
