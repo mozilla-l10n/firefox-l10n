@@ -771,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "სინქრონიზაცია">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; - შესვლა…">
-<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSignIn.accesskey         "შ">
 <!ENTITY syncSyncNowItem.label        "სინქრონირება ახლა">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; - ხელახლა დაკავშირება…">
