@@ -233,7 +233,7 @@
 <!ENTITY pref_import_options "Opciones de importación">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
-<!ENTITY pref_private_data_searchHistory "Buscar en historial">
+<!ENTITY pref_private_data_searchHistory "Historial de búsquedas">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
 <!ENTITY pref_private_data_passwords2 "Credenciales guardadas">
