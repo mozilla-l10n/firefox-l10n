@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
 <!ENTITY syncedTabs.sidebar.label              "సింకైన ట్యాబులు">
-<!ENTITY syncedTabs.sidebar.noclients.label    "ఇక్కడ వారి టాబులు వీక్షించడానికి మీ ఇతర పరికరాల నుండి ఫైర్ఫాక్స్ సైన్ ఇన్ చేయండి.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాలలో టాబ్ లను వీక్షించడానికి Firefoxకు ప్రవేశించండి.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
