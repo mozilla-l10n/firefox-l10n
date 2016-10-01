@@ -207,9 +207,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Tampilkan informasi situs">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buka panel pesan">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kelola penggunaan plug-in">
 
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Buka panel pesan pasang">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Terjemahkan laman ini">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kelola terjemahan laman">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kelola penggunaan perangkat lunak DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah memblokir kamera Anda untuk situs web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
@@ -434,6 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ubah Pengaturan Pencarian">
+<!ENTITY changeSearchSettings.tooltip "Ubah setelan pencarian">
 
 <!ENTITY searchInNewTab.label         "Cari di Tab Baru">
 <!ENTITY searchInNewTab.accesskey     "T">

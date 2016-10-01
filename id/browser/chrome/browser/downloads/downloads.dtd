@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "T">
 <!ENTITY cmd.removeFromHistory.label      "Hapus dari Riwayat">
 <!ENTITY cmd.removeFromHistory.accesskey  "H">
+<!ENTITY cmd.clearList2.label             "Bersihkan Panel Pratinjau">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Bersihkan Unduhan">
 <!ENTITY cmd.clearDownloads.accesskey     "U">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Tampilkan Semua Unduhan">
 <!ENTITY downloadsHistory.accesskey       "U">
 
+<!ENTITY openDownloadsFolder.label       "Buka Folder Unduhan">
 
 <!ENTITY clearDownloadsButton.label       "Bersihkan Unduhan">
 <!ENTITY clearDownloadsButton.tooltip     "Bersihkan semua unduhan yang selesai, dibatalkan, atau gagal">
