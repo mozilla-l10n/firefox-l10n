@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Některé funkce v aplikaci &brandShortName;, jako je například hlášení pádů, vám dávají možnost poskytnout &vendorShortName; zpětnou vazbu. Tím, že se rozhodnete zpětnou vazbu odeslat, dáváte souhlas &vendorShortName; a Mozille k využití zpětné vazby k vylepšení jejich aplikací a k jejímu zveřejnění.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné ">
