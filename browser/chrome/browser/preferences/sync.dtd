@@ -8,7 +8,7 @@
 <!ENTITY updatePass.label "Обновить">
 <!ENTITY resetPass.label "Сбросить">
 <!ENTITY manageAccount.label "Управление учётной записью">
-<!ENTITY manageAccount.accesskey "в">
+<!ENTITY manageAccount.accesskey "ю">
 <!ENTITY changePassword2.label "Сменить пароль…">
 <!ENTITY myRecoveryKey.label "Мой ключ восстановления">
 <!ENTITY resetSync2.label "Заменить или объединить данные синхронизации…">
@@ -21,17 +21,19 @@
 <!ENTITY engine.history.label "Историю">
 <!ENTITY engine.history.accesskey "т">
 <!ENTITY engine.passwords.label "Пароли">
-<!ENTITY engine.passwords.accesskey "р">
+<!ENTITY engine.passwords.accesskey "а">
 <!ENTITY engine.prefs.label "Настройки">
-<!ENTITY engine.prefs.accesskey "о">
+<!ENTITY engine.prefs.accesskey "й">
 <!ENTITY engine.addons.label "Дополнения">
 <!ENTITY engine.addons.accesskey "п">
 <!ENTITY syncDeviceName.label "Имя устройства:">
-<!ENTITY syncDeviceName.accesskey "м">
 <!ENTITY fxaSyncDeviceName.label "Имя устройства">
 <!ENTITY changeSyncDeviceName.label "Сменить имя устройства…">
+<!ENTITY changeSyncDeviceName.label.accesskey "я">
 <!ENTITY cancelChangeSyncDeviceName.label "Отмена">
+<!ENTITY cancelChangeSyncDeviceName.label.accesskey "е">
 <!ENTITY saveChangeSyncDeviceName.label "Сохранить">
+<!ENTITY saveChangeSyncDeviceName.label.accesskey "х">
 <!ENTITY unlinkDevice.label "Отсоединить это устройство">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
@@ -43,11 +45,17 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Вы не вошли.">
 <!ENTITY signIn.label "Войти">
+<!ENTITY signIn.label.accesskey "о">
 <!ENTITY profilePicture.tooltip "Изменить фотографию в профиле">
 <!ENTITY verifiedManage.label "Управление аккаунтом">
+<!ENTITY verifiedManage.label.accesskey "в">
 <!ENTITY disconnect.label "Отсоединить…">
+<!ENTITY disconnect.label.accesskey "н">
 <!ENTITY verify.label "Подтвердить эл. почту">
+<!ENTITY verify.label.accesskey "э">
 <!ENTITY forget.label "Забыть об этой эл. почте">
+<!ENTITY forget.label.accesskey "ы">
+<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey "ч">
 <!ENTITY welcome.description "Доступ к вкладкам, закладкам, паролям и другим данным из любого места, где вы используете &brandShortName;.">
 <!ENTITY welcome.signIn.label "Войти">
 <!ENTITY welcome.createAccount.label "Создать учётную запись">
@@ -56,7 +64,9 @@
 <!ENTITY signedOut.description "Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.">
 <!ENTITY signedOut.accountBox.title "Соединитесь с Учётной записью Firefox">
 <!ENTITY signedOut.accountBox.create "Создать учётную запись">
+<!ENTITY signedOut.accountBox.create.accesskey "з">
 <!ENTITY signedOut.accountBox.signin "Войти">
+<!ENTITY signedOut.accountBox.signin.accesskey "и">
 <!ENTITY signedIn.engines.label "Синхронизировать со всеми устройствами">
 <!ENTITY mobilePromo3.start "Загрузите Firefox для ">
 <!ENTITY mobilePromo3.androidLink "Android">
