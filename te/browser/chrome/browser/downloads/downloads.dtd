@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "దింపుకోళ్ళు">
+<!ENTITY downloads.title                  "డౌన్‌లోడ్‌లు">
 
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
