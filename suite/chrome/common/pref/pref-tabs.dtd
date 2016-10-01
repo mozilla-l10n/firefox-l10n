@@ -21,5 +21,6 @@
 
 <!ENTITY openTabs.label "Otevírat panely místo oken při">
 
+<!ENTITY openManagers.label "Otevřít v novém panelu místo samostatného okna">
 <!ENTITY openDataManager.label "Správce dat">
 <!ENTITY openAddOnsManager.label "Správce doplňků">
