@@ -29,6 +29,12 @@
 <!ENTITY aboutNetworking.messagesReceived "Сообщений получено">
 <!ENTITY aboutNetworking.bytesSent "Байт отправлено">
 <!ENTITY aboutNetworking.bytesReceived "Байт получено">
+<!ENTITY aboutNetworking.logging "Журнал">
+<!ENTITY aboutNetworking.logTutorial "Для получения инструкций о том, как использовать этот инструмент, прочтите статью <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
+<!ENTITY aboutNetworking.currentLogFile "Текущий файл журнала:">
+<!ENTITY aboutNetworking.currentLogModules "Текущие модули журнала:">
+<!ENTITY aboutNetworking.setLogFile "Указать файл журнала">
+<!ENTITY aboutNetworking.setLogModules "Указать модули журнала">
 <!ENTITY aboutNetworking.dnsLookup "Запрос DNS">
 <!ENTITY aboutNetworking.dnsLookupButton "Запросить">
 <!ENTITY aboutNetworking.dnsDomain "Домен">
