@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ค">
 <!ENTITY cmd.removeFromHistory.label      "ลบจากรายการ">
 <!ENTITY cmd.removeFromHistory.accesskey  "ล">
+<!ENTITY cmd.clearList2.label             "ล้างแผงแสดงตัวอย่าง">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ล้างการดาวน์โหลด">
 <!ENTITY cmd.clearDownloads.accesskey     "ด">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "แสดงการดาวน์โหลดทั้งหมด">
 <!ENTITY downloadsHistory.accesskey       "แ">
 
+<!ENTITY openDownloadsFolder.label       "เปิดโฟลเดอร์ดาวน์โหลด">
 
 <!ENTITY clearDownloadsButton.label       "ล้างการดาวน์โหลด">
 <!ENTITY clearDownloadsButton.tooltip     "ล้างที่เสร็จสิ้นแล้ว ที่ถูกยกเลิก และที่ดาวน์โหลดล้มเหลว">
