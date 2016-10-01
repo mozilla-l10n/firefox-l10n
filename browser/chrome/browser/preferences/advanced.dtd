@@ -41,8 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
 <!ENTITY crashReporterDesc2.label         "Құлау жөнінде хабарламалар &vendorShortName; үшін мәселелерді шешу және браузеріңізді тұрақтылау және қауіпсіз қылуға көмектеседі">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; үшін сіздің атыңыздан құлаулар жөнінде архивті хабарламаларды жіберуді рұқсат ету">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Көбірек білу">
 
 <!ENTITY networkTab.label                "Желі">
