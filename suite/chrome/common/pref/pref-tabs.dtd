@@ -26,3 +26,4 @@
 <!ENTITY openDataManager.label "Správca údajov">
 <!ENTITY openDataManager.accesskey "S">
 <!ENTITY openAddOnsManager.label "Správca doplnkov">
+<!ENTITY openAddOnsManager.accesskey "p">
