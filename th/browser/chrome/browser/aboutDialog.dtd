@@ -9,7 +9,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการปรับปรุง">
-<!ENTITY update.checkForUpdatesButton.accesskey   "ต">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "เริ่มการทำงาน &brandShortName; ใหม่เพื่อปรับปรุง">
 <!ENTITY update.updateButton.accesskey            "R">
 
@@ -31,7 +31,7 @@
 <!ENTITY community.start2           "&brandShortName; ออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          " ซึ่งเป็น ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ชุมชนระดับโลก">
 <!ENTITY community.end3             " ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน">
