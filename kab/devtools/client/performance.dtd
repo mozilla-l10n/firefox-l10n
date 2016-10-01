@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "Asekles n umaɣnu ur iwjiḍ ara imira.  Ttxilek mdel akk isfuyla n tunigin tusligt. ">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
