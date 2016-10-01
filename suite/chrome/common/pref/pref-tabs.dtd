@@ -6,6 +6,7 @@
 
 <!ENTITY tabDisplay.label "Zobrazovanie kariet">
 <!ENTITY autoHide.label "Skryť panel kariet, ak je otvorená len jedna karta">
+<!ENTITY autoHide.accesskey2 "l">
 <!ENTITY background.label "Prepnúť na nové karty otvorené z odkazov">
 <!ENTITY background.accesskey "e">
 <!ENTITY warnOnClose.label "Upozorniť pri zatváraní viacerých kariet">
@@ -21,3 +22,7 @@
 
 <!ENTITY openTabs.label "Otvoriť karty namiesto okien po">
 
+<!ENTITY openManagers.label "Otvoriť na novej karte namiesto nového okna">
+<!ENTITY openDataManager.label "Správca údajov">
+<!ENTITY openDataManager.accesskey "S">
+<!ENTITY openAddOnsManager.label "Správca doplnkov">
