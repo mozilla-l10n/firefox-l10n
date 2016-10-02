@@ -5,7 +5,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Pusingan Ctrl+Tab mengikut tertib tab yang baru digunakan">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Buka tingkap dalam tab baru">
+<!ENTITY newWindowsAsTabs.label       "Buka tetingkap dalam tab baru">
 <!ENTITY newWindowsAsTabs.accesskey   "a">
 
 <!ENTITY warnCloseMultipleTabs.label  "Ingatkan saya apabila menutup beberapa tab">
