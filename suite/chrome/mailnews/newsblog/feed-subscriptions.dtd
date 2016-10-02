@@ -30,8 +30,8 @@
 
 <!ENTITY button.addFeed.label       "Lägg till">
 <!ENTITY button.addFeed.accesskey   "L">
-<!ENTITY button.editFeed.label      "Redigera">
-<!ENTITY button.editFeed.accesskey  "e">
+<!ENTITY button.updateFeed.label      "Redigera">
+<!ENTITY button.updateFeed.accesskey  "e">
 <!ENTITY button.removeFeed.label "Ta bort">
 <!ENTITY button.removeFeed.accesskey   "b">
 <!ENTITY button.importOPML.label "Importera">
