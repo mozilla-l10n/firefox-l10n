@@ -3,14 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
 
+<!ENTITY feedSubscriptions.label     "Жаңалықтар таспаларына жазылу">
+<!ENTITY learnMore.label             "Таспалар жөнінде көбірек білу">
 
 <!ENTITY feedTitle.label             "Атауы:">
 <!ENTITY feedTitle.accesskey         "А">
 
-
-
-
-
+<!ENTITY feedLocation.label          "Таспа сілтемесі:">
+<!ENTITY feedLocation.accesskey      "п">
+<!ENTITY feedLocation.placeholder    "Қосу үшін жарамды таспа сілтемесін енгізіңіз">
+<!ENTITY locationValidate.label      "Дұрыстығын тексеру">
+<!ENTITY validateText.label          "Дұрыстығын тексеріп, жарамды сілтемені алу.">
 
 
 
