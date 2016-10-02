@@ -10,6 +10,6 @@
 <!ENTITY fit.label                  "Muatkan">
 <!ENTITY preview.label              "Previu">
 <!ENTITY color.label                "Warna:">
-<!ENTITY setDesktopBackground.title "Set Paparan Dinding">
+<!ENTITY setDesktopBackground.title "Set Latar belakang Desktop">
 <!ENTITY openDesktopPrefs.label     "Buka Keutamaan Desktop">
 <!ENTITY closeWindow.key            "w">
