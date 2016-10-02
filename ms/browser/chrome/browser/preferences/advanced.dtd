@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Umum">
 
-<!ENTITY accessibility.label             "Kebolehcapaian">
+<!ENTITY accessibility.label             "Aksesibiliti">
 
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk menavigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
@@ -19,9 +19,9 @@
 
 <!ENTITY browsing.label                  "Melungsur">
 
-<!ENTITY useAutoScroll.label             "Guna autogulung">
+<!ENTITY useAutoScroll.label             "Guna autoskrol">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Guna gulung lancar">
+<!ENTITY useSmoothScrolling.label        "Guna skrol lancar">
 <!ENTITY useSmoothScrolling.accesskey    "G">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
