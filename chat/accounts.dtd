@@ -6,13 +6,17 @@
 <!ENTITY accounts.title                      "Тіркелгілер - &brandShortName;">
 
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Лезде хабарласу қалып-күйі">
 
 
-
-
-
+<!ENTITY accountManager.newAccount.label     "Жаңа тіркелгі">
+<!ENTITY accountManager.newAccount.accesskey "Ж">
+<!ENTITY accountManager.close.label          "Жабу">
+<!ENTITY accountManager.close.accesskey      "Ж">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "к">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Бапталған тіркелгілер жоқ">
 
 
 
