@@ -106,10 +106,12 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "असुरक्षित कनेक्शन">
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
-
+<!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
+<!ENTITY prefReset.label "तयशुदा  सेटिंग्स पुरानी स्थिति में लाएं">
