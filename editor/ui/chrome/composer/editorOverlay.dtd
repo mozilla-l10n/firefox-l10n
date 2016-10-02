@@ -27,6 +27,7 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserisci">
 <!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertLinkCmd2.label "Collegamento…">
 <!ENTITY insertAnchorCmd.label "Ancora…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Immagine…">
