@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Seall fiosrachadh na làraich-lìn">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Fosgail panail nan teachdaireachdan">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Fosgail panail iarrtasan an ionaid">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Fosgail panail teachdaireachdan stàladh thuilleadan">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Fosgail panail teachdaireachdan an stòrais far loidhne">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Fosgail panail teachdaireachdan sàbhaladh fhaclan-faire">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Stiùirich cleachdadh a’ phlugain">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Stiùirich co-roinneadh a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Stiùirich co-roinneadh nan uinneagan no na sgrìn agad leis an làrach">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Fosgail panail teachdaireachdan an stàlaidh">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Eadar-theangaich an duilleag seo">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Stiùirich eadar-theangachadh na duilleige">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Stiùirich cleachdadh de bhathar-bog fo DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bhac thu an camara agad air an làrach-lìn seo.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bhac thu am micreofon agad air an làrach-lìn seo.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bhac thu stòras dàta air an làrach-lìn seo.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bhac thu brathan air an làrach-lìn seo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Ath-shuidhich ìre an t-sùim">
 
 <!ENTITY searchItem.title             "Lorg">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Roghainnean luirg">
-
+<!ENTITY changeSearchSettings.tooltip "Atharraich na roghainnean luirg">
 
 <!ENTITY searchInNewTab.label         "Lorg ann an taba ùr">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ceadan">
 <!ENTITY identity.permissionsEmpty "Cha dug thu cead sònraichte sam bith dhan làrach seo.">
-
+<!ENTITY identity.permissionsReloadHint "Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

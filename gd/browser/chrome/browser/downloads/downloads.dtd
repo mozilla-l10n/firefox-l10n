@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Thoir air falbh on eachdraidh">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-
-
+<!ENTITY cmd.clearList2.label             "Falamhaich panail an ro-sheallaidh">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Falamhaich na chaidh a luchdadh a-nuas">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Seall gach rud a chaidh a luchdadh a-nuas">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Fosgail pasgan nan luchdadh a-nuas">
 
 <!ENTITY clearDownloadsButton.label       "Falamhaich na chaidh a luchdadh a-nuas">
 <!ENTITY clearDownloadsButton.tooltip     "Falamhaichidh seo na chaidh a luchdadh a-nuas, a' gabhail a-steach feadhainn a sguireadh dhiubh no a dh'fhàillig">
