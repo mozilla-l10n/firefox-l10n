@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "Herstart &brandShortName; om bij te werken">
 <!ENTITY update.updateButton.accesskey            "H">
-<!ENTITY update.applyButtonBillboard.label        "Update toepassen…">
-<!ENTITY update.applyButtonBillboard.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

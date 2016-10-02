@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Aan">
 <!ENTITY fromField4.label "Van">
 <!ENTITY senderField4.label "Afzender">
+<!ENTITY author.label "Auteur">
 <!ENTITY organizationField4.label "Organisatie">
 <!ENTITY replyToField4.label "Antwoord-naar">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiveren">
 <!ENTITY hdrArchiveButton1.tooltip "Dit bericht archiveren">
+<!ENTITY hdrOpenConversationButton1.label "Conversatie">
+<!ENTITY hdrOpenConversationButton1.tooltip "Conversatie van dit bericht weergeven">
 <!ENTITY hdrSmartReplyButton1.label "Slim beantwoorden">
 <!ENTITY hdrReplyButton1.label "Beantwoorden">
 <!ENTITY hdrReplyButton2.tooltip "Afzender van dit bericht beantwoorden">
