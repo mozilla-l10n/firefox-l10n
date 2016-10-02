@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Odesílatel">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Společnost">
 <!ENTITY replyToField4.label "Odpověď">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivovat">
 <!ENTITY hdrArchiveButton1.tooltip "Archivuje tuto zprávu">
+<!ENTITY hdrOpenConversationButton1.label "Konverzace">
+<!ENTITY hdrOpenConversationButton1.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY hdrSmartReplyButton1.label "Odpovědět chytře">
 <!ENTITY hdrReplyButton1.label "Odpovědět">
 <!ENTITY hdrReplyButton2.tooltip "Odpoví odesilateli této zprávy">

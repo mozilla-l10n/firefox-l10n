@@ -29,6 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Přidat">
 <!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.updateFeed.label     "Aktualizovat">
+<!ENTITY button.updateFeed.accesskey "k">
 <!ENTITY button.removeFeed.label     "Odebrat">
 <!ENTITY button.removeFeed.accesskey "d">
 <!ENTITY button.importOPML.label     "Importovat">

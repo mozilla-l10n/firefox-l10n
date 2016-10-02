@@ -27,6 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložit">
 <!ENTITY insertMenu.accesskey "l">
+<!ENTITY insertLinkCmd2.label "Odkaz…">
+<!ENTITY insertLinkCmd2.accesskey "d">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Cílová kotva…">
 <!ENTITY insertAnchorCmd.accesskey "c">
 <!ENTITY insertImageCmd.label "Obrázek…">
