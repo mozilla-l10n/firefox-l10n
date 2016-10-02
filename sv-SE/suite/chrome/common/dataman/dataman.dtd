@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Alla datatyper">
 <!ENTITY select.cookies.label "Enbart kakor">
 <!ENTITY select.permissions.label "Enbart sekretess">
-<!ENTITY select.permissionspwd.label "Enbart lösenordstillåtelser">
 <!ENTITY select.preferences.label "Enbart inställningar">
 <!ENTITY select.passwords.label "Enbart lösenord">
 <!ENTITY select.storage.label "Enbart lagring">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Kakor">
 <!ENTITY tab.permissions.label "Sekretess">
-<!ENTITY tab.permissionspwd.label "Lösenordstillåtelser">
 <!ENTITY tab.preferences.label "Inställningar">
 <!ENTITY tab.passwords.label "Lösenord">
 <!ENTITY tab.storage.label "Lagring">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "Ange ett servernamn">
 <!ENTITY perm.button.add.label "Lägg till">
 <!ENTITY perm.button.add.accesskey "L">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "Använd standard">
-<!ENTITY permpwd.AskAlways "Fråga alltid">
-<!ENTITY permpwd.NeverSave "Spara aldrig">
-
-<!ENTITY permpwd.host.placeholder "Ange ett servernamn">
-<!ENTITY permpwd.button.add.label "Lägg till">
-<!ENTITY permpwd.button.add.accesskey "L">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Innehållsinställningar är ett sätt för &brandShortName; att spara inställningar, t.ex. zoom-nivå, unikt för en webbplats.">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "K">
 <!ENTITY forget.permissions.label "Sekretess">
 <!ENTITY forget.permissions.accesskey "S">
-<!ENTITY forget.permissionspwd.label "Lösenordstillåtelser">
-<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Innehållsinställningar">
 <!ENTITY forget.preferences.accesskey "I">
 <!ENTITY forget.passwords.label "Lösenord">

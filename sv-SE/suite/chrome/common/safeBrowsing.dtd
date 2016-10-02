@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Ta mig härifrån!">
 <!ENTITY safeb.palm.decline.label "Ignorera denna varning">
 <!ENTITY safeb.palm.reportPage.label "Varför blockerades denna sida?">
-<!ENTITY safeb.palm.whyForbidden.label "Varför blockerades denna sida?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapporterad attackerade sida!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,10 +20,6 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Denna webbsida på <span id='phishing_sitename'/> har rapporterats som en vilseledande plats och har blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Vilseledande webbplatser är utformade för att lura dig att göra något farligt, som att installera ett program, eller avslöja personlig information, som lösenord, telefonnummer eller kreditkortsnummer.</p><p>Att ange någon information på denna webbsida kan leda till identitetsstöld eller andra bedrägerier.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blockerad webbplats">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Webbsidan på <span id='forbidden_sitename'/> har blockerats av din administratörsprofil.">
 
 <!ENTITY reportDeceptiveSite.label "Rapportera vilseledande plats…">
 <!ENTITY reportDeceptiveSite.accesskey "v">

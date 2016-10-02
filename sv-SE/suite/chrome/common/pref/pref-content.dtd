@@ -10,8 +10,8 @@
 <!ENTITY siteIcons.label                        "Webbplatsikoner">
 <!ENTITY useSiteIcons.label                     "Visa webbplatsikoner">
 <!ENTITY useSiteIcons.accesskey                 "i">
-<!ENTITY useFavIcons.label                      "Leta aktivt efter webbplatsikoner när sidan inte anger någon">
-<!ENTITY useFavIcons.accesskey                  "L">
+<!ENTITY useFavIcons2.label                      "Försök använda serverns ikon när sidan inte anger någon">
+<!ENTITY useFavIcons2.accesskey                  "r">
 
 <!ENTITY scrolling.label                        "Rullning">
 <!ENTITY useAutoScroll.label                    "Använd automatisk rullning">
