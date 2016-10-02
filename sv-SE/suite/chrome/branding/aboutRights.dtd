@@ -24,6 +24,9 @@
 <!ENTITY rights.intro-point2b "här">
 <!ENTITY rights.intro-point2c ".">
 
+<!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Vissa funktioner i &brandShortName;, såsom Kraschrapportören, ger dig möjlighet att ge feedback till &vendorShortName;. Genom att skicka in feedback  ger du &vendorShortName; and Mozilla tillstånd att använda den för att förbättra sina produkter, publicera denna feedback på sina webbplatser och att distribuera den.">
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Sekretesspolicyer för &vendorShortName;s produkter kan du hitta ">
 <!ENTITY rights.intro-point3b "här">
@@ -41,9 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; erbjuder tilläggstjänster (&quot;Tjänster&quot;), såsom förslag och uppdateringar av tillägg eller Säker surfning, som du kan använda i den här binära versionen av &brandShortName; och som beskrivs nedan.  Dessa tjänster är från början aktiverade.  Om du inte vill använda tjänsterna eller om nedanstående villkorär oacceptabla, hittar du instruktioner för hur man inaktiverar en viss funktion eller tjänst ">
-<!ENTITY rights2.webservices-b "här">
-<!ENTITY rights2.webservices-c ". Andra funktioner och tjänster kan inaktiveras i applikationens inställningar">
+<!ENTITY rights3.webservices-a "&brandFullName; erbjuder tilläggstjänster (&quot;Tjänster&quot;), som du kan använda i den här binära versionen av &brandShortName; och som beskrivs nedan.  Vissa av dessa tjänster (såsom förslag och uppdateringar av tillägg, Säker surfning och notifieringar från tjänsten positionsberoende surfning) är från början aktiverade.  Om du inte vill använda tjänsterna eller om nedanstående villkor är oacceptabla, hittar du instruktioner för hur man inaktiverar en viss funktion eller tjänst ">
+<!ENTITY rights3.webservices-b "här">
+<!ENTITY rights3.webservices-c ". Andra funktioner och tjänster kan aktiveras eller inaktiveras i applikationens inställningar">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Tilläggstjänster: ">
@@ -62,7 +65,17 @@
 <!ENTITY rights.safebrowsing-term3 "Bocka ur alternativen &quot;&blockAttackSites.label;&quot; och &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Säker surfning är nu inaktiverad">
 
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Positionsberoende surfning: ">
+<!ENTITY rights.locationawarebrowsing-b "kräver alltid ditt medgivande. Ingen positionsinformation skickas utan ditt tillstånd. Om du helt vill inaktivera funktionen, följ dessa steg:">
+<!ENTITY rights.locationawarebrowsing-term1 "Öppna applikationens inställningar">
+<!ENTITY rights.locationawarebrowsing-term2 "Välj huvudalternativet &security.label; ">
+<!ENTITY rights.locationawarebrowsing-term3 "Välj alternativet att &quot;&geoDisabled.label;&quot;">
+<!ENTITY rights.locationawarebrowsing-term4 "Positionsberoende surfning är nu inaktiverat">
+
+
 <!-- points 1-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; och Mozilla tillsammans med sina medarbetare, licensgivare och partners strävar efter att tillhandahålla pålitliga och uppdaterade tjänster.  Vi kan dock inte garantera att dessa uppgifter är fullständiga och felfria. Till exempel kanske Säker surfning inte identifierar en del riskabla webbplatser medan andra säkra webbplatser felaktigt pekas ut. För Positionsberoende surfning kommer alla positioner som våra tjänsteleverantörer returnerar endast att vara uppskattningar och varken vi eller våra tjänsteleverantörer garanterar precisionen i de förmedlade positionerna.">
 <!ENTITY rights.webservices-term1 "&vendorShortName; förbehåller sig rätten att efter eget gottfinnande upphöra med eller modifiera dessa tjänster.">
 <!ENTITY rights.webservices-term2 "Du är fri att använda dessa Tjänster med den medföljande versionen av &brandShortName;, och du har alla nödvändiga rättigheter för att göra det. &vendorShortName; och dess licensgivare förbehåller sig alla andra rättigheter i Tjänsterna. Dessa villkor är inte avsedda att begränsa några rättigheter givna enligt licenser för öppen källkod som tillämpas på &brandShortName; och motsvarande källkodsversioner av &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Tjänsterna tillhandahålls i ”befintligt skick”.  &vendorShortName; och dess medarbetare, licensgivare och distributörer, frånsäger sig alla garantier, uttryckliga såväl som underförstådda, inklusive några garantier att Tjänsterna är funktionella och ändamålsenliga för dina syften. Du bär själv hela ansvaret för valet att använda Tjänsterna för dina syften och för kvalitén och prestandan i Tjänsterna. Vissa jurisdiktioner tillåter inte uteslutande eller begränsningar av underförstådda garantier, så denna ansvarsbegränsning är kanske inte tillämplig i ditt fall.">
