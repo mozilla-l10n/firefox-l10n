@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Conocer más">
 
 <!ENTITY crashReporterDesc2.label         "Los informes de fallos ayudan a que &vendorShortName; solucione los problemas y haga al navegador más estable y seguro">
+<!ENTITY alwaysSubmitCrashReports.label   "Permitir que &brandShortName; envíe informes de fallos acumulados en su nombre">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Conocer más">
 
 <!ENTITY networkTab.label                "Red">
