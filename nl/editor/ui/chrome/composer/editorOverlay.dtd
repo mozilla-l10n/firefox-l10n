@@ -27,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Invoegen">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Koppeling…">
-<!ENTITY insertLinkCmd.accesskey "K">
-<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertLinkCmd2.label "Koppeling…">
+<!ENTITY insertLinkCmd2.accesskey "K">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Ankerverwijzing…">
 <!ENTITY insertAnchorCmd.accesskey "n">
 <!ENTITY insertImageCmd.label "Afbeelding…">
