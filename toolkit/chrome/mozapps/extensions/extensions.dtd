@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Anda tidak mempunyai add-ons jenis ini yang dipasang">
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemas kini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
-<!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
+<!ENTITY listEmpty.findUpdates.label          "Semak Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat mencari add-ons yang sepadan">
 <!ENTITY listEmpty.button.label               "Ketahui selanjutnya mengenai add-ons">
 <!ENTITY installAddonFromFile.label           "Pasang Add-ons Dari Fail…">
@@ -147,7 +147,7 @@
 
 <!ENTITY detail.checkForUpdates.label         "Semak Kemas kini">
 <!ENTITY detail.checkForUpdates.accesskey     "n">
-<!ENTITY detail.checkForUpdates.tooltip       "Periksa kemas kini bagi add-on ini">
+<!ENTITY detail.checkForUpdates.tooltip       "Semak kemas kini add-on ini">
 <!ENTITY detail.showPreferencesWin.label      "Pilihan">
 <!ENTITY detail.showPreferencesWin.accesskey  "h">
 <!ENTITY detail.showPreferencesWin.tooltip    "Tukar pilihan add-on ini">
