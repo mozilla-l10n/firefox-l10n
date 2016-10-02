@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Kata laluan">
 <!ENTITY engine.passwords.accesskey       "a">
-<!ENTITY engine.addons.label              "Desktop Add-ons">
+<!ENTITY engine.addons.label              "Add-ons Desktop">
 <!ENTITY engine.addons.accesskey          "A">
-<!ENTITY engine.prefs.label               "Pilihan Desktop">
+<!ENTITY engine.prefs.label               "Keutamaan Desktop">
 <!ENTITY engine.prefs.accesskey           "S">
