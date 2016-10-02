@@ -9,21 +9,21 @@
 <!ENTITY openRemoteCmd.label "Интернет адресін ашу…">
 <!ENTITY openRemoteCmd.accesskey "д">
 <!ENTITY openRemoteCmd.key "L">
-
-
+<!ENTITY fileRecentMenu.label "Соңғы белгілер">
+<!ENTITY fileRecentMenu.accesskey "С">
 <!ENTITY saveCmd.label "Сақтау">
 <!ENTITY saveCmd.accesskey "С">
 <!ENTITY saveAsCmd.label "Қалайша сақтау…">
 <!ENTITY saveAsCmd.accesskey "й">
-
-
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Сақтау және мәтін кодталуын өзгерту">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "к">
+<!ENTITY publishCmd.label "Жариялау">
+<!ENTITY publishCmd.accesskey "и">
 <!ENTITY publishCmd.key "S">
-
-
-
-
+<!ENTITY publishAsCmd.label "Қалайша жариялау…">
+<!ENTITY publishAsCmd.accesskey "и">
+<!ENTITY fileRevert.label "Қайтару">
+<!ENTITY fileRevert.accesskey "т">
 <!-- Edit menu items -->
 
 <!-- Toolbar buttons/items -->
@@ -31,6 +31,6 @@
 <!ENTITY newToolbarCmd.label "Жаңа">
 
 <!ENTITY openToolbarCmd.label "Ашу">
-
-
-
+<!ENTITY openToolbarCmd.tooltip "Жергілікті файлды ашу">
+<!ENTITY saveToolbarCmd.tooltip "Файлды жергілікті орналасуға сақтау">
+<!ENTITY publishToolbarCmd.tooltip "Файлды қашықтағы орналасуға жүктеу">

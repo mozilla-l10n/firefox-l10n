@@ -18,18 +18,18 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Бапталған тіркелгілер жоқ">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY account.autoSignOn.label     "Іске қосылған кезде кіру">
+<!ENTITY account.autoSignOn.accesskey "к">
+<!ENTITY account.connect.label        "Байланысу">
+<!ENTITY account.connect.accesskey    "а">
+<!ENTITY account.disconnect.label     "Байланысты үзу">
+<!ENTITY account.disconnect.accesskey "з">
+<!ENTITY account.delete.label         "Өшіру">
+<!ENTITY account.delete.accesskey     "ш">
+<!ENTITY account.edit.label           "Қасиеттері">
+<!ENTITY account.edit.accesskey       "а">
+<!ENTITY account.moveup.label         "Жоғары жылжыту">
+<!ENTITY account.movedown.label       "Төмен жылжыту">
 
 
 
