@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Přeposlat">
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY archiveButton.label "Archivovat">
+<!ENTITY openConversationButton.label "Konverzace">
 <!ENTITY nextButton.label "Další">
 <!ENTITY nextButtonToolbarItem.label "Další nepřečtená">
 <!ENTITY nextMsgButton.label "Další">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Přepošle označenou zprávu jako přílohu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
+<!ENTITY openConversationButton.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
 <!ENTITY nextMsgButton.tooltip "Přejde na další zprávu">
 <!ENTITY previousButton.tooltip "Přejde na předcházející nepřečtenou zprávu">
