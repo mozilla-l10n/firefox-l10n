@@ -25,7 +25,7 @@
 <!ENTITY hdrArchiveButton1.label "Archiveren">
 <!ENTITY hdrArchiveButton1.tooltip "Dit bericht archiveren">
 <!ENTITY hdrOpenConversationButton1.label "Conversatie">
-<!ENTITY hdrOpenConversationButton1.tooltip "Conversatie van dit bericht weergeven">
+<!ENTITY hdrOpenConversationButton1.tooltip "Conversatie van dit bericht tonen">
 <!ENTITY hdrSmartReplyButton1.label "Slim beantwoorden">
 <!ENTITY hdrReplyButton1.label "Beantwoorden">
 <!ENTITY hdrReplyButton2.tooltip "Afzender van dit bericht beantwoorden">
