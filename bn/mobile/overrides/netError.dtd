@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul><li> এরকম কোন বানান ভুল হয়েছে কিনা তা অ্যাড্রেসের সাথে মিলিয়ে নিন <strong>ww</strong>.example.com দিয়েছেন কিনা এইটার পরিবর্তে <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>অনুসন্ধান</button> </div> <li>আপনি যদি কোন পেজ লোড করতে সক্ষম না হন তাহলে, আপনার ডিভাইসের ডেটা এবং ওয়াইফাই কানেকশন পরীক্ষা করে নিন। <button id='wifi'>ওয়াইফাই চালু করুন</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul><li> এরকম কোন বানান ভুল হয়েছে কিনা তা ঠিকানার সাথে মিলিয়ে নিন <strong>ww</strong>.example.com দিয়েছেন কিনা এইটার পরিবর্তে <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>অনুসন্ধান</button> </div> <li>আপনি যদি কোন পাতা লোড করতে সক্ষম না হন তাহলে, আপনার ডিভাইসের ডাটা এবং ওয়াইফাই কানেকশন পরীক্ষা করে নিন। <button id='wifi'>ওয়াইফাই চালু করুন</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান পরিবর্তন, নাম পরিবর্তন হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
@@ -44,7 +44,7 @@
 <!ENTITY netOffline.title "অফলাইন মোড">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>আবার চেষ্টা করুন। &brandShortName; একটি কানেকশন যুক্ত করার এবং পুনরায় পেজ লোড করার চেষ্টা করবে। <button id='wifi'>Wi-Fi সক্রিয় করুন</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>আবার চেষ্টা করুন। &brandShortName; একটি কানেকশন যুক্ত করার এবং পুনরায় পাতা লোড করার চেষ্টা করবে। <button id='wifi'>Wi-Fi সক্রিয় করুন</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তুর এনকোডিং-এ ত্রুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েবসাইট নির্মাতাদের অবগত করুন।</li> </ul>">
@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>এই সাইট সাময়িকভাবে পাওয়া যাচ্ছে না কিংবা খুব ব্যস্ত। কিছুক্ষণ পর আবার চেষ্টা করুন।</li> <li>কোন পেজ লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর তথ্য বা ওয়াই ফাই সংযোগ পরীক্ষা করুন। <button id='wifi'> ওয়াইফাই সক্রিয় করুন</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>এই সাইট সাময়িকভাবে পাওয়া যাচ্ছে না কিংবা খুব ব্যস্ত। কিছুক্ষণ পর আবার চেষ্টা করুন।</li> <li>কোন পাতা লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর ডাটা বা ওয়াই ফাই সংযোগ পরীক্ষা করুন। <button id='wifi'> ওয়াইফাই সক্রিয় করুন</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>বএভাবে পৃষ্ঠাটি লোড করতে &brandShortName; প্রতিরোধ করে কারন পৃষ্ঠাটির বিষয়বস্তু নিরাপত্তা নীতিমালা এটিকে অনুমোদন দেয়না। </p>">
