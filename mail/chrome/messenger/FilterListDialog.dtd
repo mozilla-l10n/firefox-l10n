@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Хабарламалар сүзгілері">
+<!ENTITY nameColumn.label "Сүзгі атауы">
 <!ENTITY activeColumn.label "Іске қосылған">
 <!ENTITY newButton.label "Жаңа…">
 <!ENTITY newButton.accesskey "Ж">
@@ -9,7 +11,7 @@
 <!ENTITY editButton.accesskey "Ө">
 <!ENTITY deleteButton.label "Өшіру">
 <!ENTITY deleteButton.accesskey "р">
-
+<!ENTITY reorderTopButton "Жоғарыға жылжыту">
 
 
 <!ENTITY reorderUpButton.label "Жоғарыға">

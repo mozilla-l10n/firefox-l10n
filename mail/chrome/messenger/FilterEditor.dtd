@@ -4,50 +4,57 @@
 
 <!ENTITY window.title "Сүзгі ережелері">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-
-
+<!ENTITY filterName.label "Сүзгі атауы:">
+<!ENTITY filterName.accesskey "С">
 
 <!ENTITY junk.label "Ескі-құсқы">
 
 
+<!ENTITY lowestPriorityCmd.label "Ең төмен">
 <!ENTITY lowPriorityCmd.label "Төмен">
 <!ENTITY normalPriorityCmd.label "Кәдімгі">
 <!ENTITY highPriorityCmd.label "Жоғары">
+<!ENTITY highestPriorityCmd.label "Ең жоғары">
+
+<!ENTITY contextDesc.label "Сүзгіні қолдану шарты:">
+<!ENTITY contextIncomingMail.label "Жаңа поштаны алу:">
+<!ENTITY contextIncomingMail.accesskey "л">
+<!ENTITY contextManual.label "Қолмен орындау">
+<!ENTITY contextManual.accesskey "р">
 
 
+<!ENTITY contextOutgoing.label "Жібергеннен кейін">
+<!ENTITY contextOutgoing.accesskey "б">
+<!ENTITY contextArchive.label "Архивтеу">
+<!ENTITY contextArchive.accesskey "А">
 
+<!ENTITY filterActionDesc.label "Келесі әрекеттерді орындау:">
+<!ENTITY filterActionDesc.accesskey "н">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY filterActionOrderWarning.label "Ескерту: Сүзгі әрекеттері басқа ретпен орындалатын болады.">
+<!ENTITY filterActionOrder.label "Орындалу ретін қарау">
 <!-- New Style Filter Rule Actions -->
 
-
-
+<!ENTITY moveMessage.label "Хабарламаны қайда жылжыту">
+<!ENTITY copyMessage.label "Хабарлама көшірмесін қайда жасау">
+<!ENTITY forwardTo.label "Хабарламаны қайда қайта бағдарлау">
+<!ENTITY replyWithTemplate.label "Үлгімен жауап беру">
 <!ENTITY markMessageRead.label "Оқылған ретінде белгілеу">
 <!ENTITY markMessageUnread.label "Оқылмаған ретінде белгілеу">
+<!ENTITY markMessageStarred.label "Жұлдызшаны қосу">
+<!ENTITY setPriority.label "Приоритетті келесідей орнату">
+<!ENTITY addTag.label "Хабарламаға тег қою">
+
+<!ENTITY deleteMessage.label "Хабарламаны өшіру">
+<!ENTITY deleteFromPOP.label "POP серверінен өшіру">
+<!ENTITY fetchFromPOP.label "POP серверінен алу">
 
 
 
+<!ENTITY stopExecution.label "Сүзгі орындалуын тоқтату">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY addAction.tooltip "Жаңа әрекетті қосу">
+<!ENTITY removeAction.tooltip "Бұл әрекетті өшіру">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
