@@ -13,13 +13,13 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
-<!ENTITY netmonitorUI.perfNotice1         "• Klik pada">
-<!ENTITY netmonitorUI.perfNotice2         "butang untuk memulakan analisa prestasi.">
+<!ENTITY netmonitorUI.perfNotice1         "• Klik pada butang">
+<!ENTITY netmonitorUI.perfNotice2         "untuk memulakan analisa prestasi.">
 <!ENTITY netmonitorUI.perfNotice3         "Analisis">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice1       "• Lakukan permohonan untuk">
+<!ENTITY netmonitorUI.reloadNotice1       "• Laksanakan permintaan untuk">
 <!ENTITY netmonitorUI.reloadNotice2       "Muat semula">
 <!ENTITY netmonitorUI.reloadNotice3       "halaman untuk melihat maklumat terperinci aktiviti rangkaian.">
 
@@ -135,7 +135,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
-<!ENTITY netmonitorUI.footer.filterFreetext.label  "Sisip URLs">
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Tapis URLs">
 <!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed

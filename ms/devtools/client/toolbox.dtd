@@ -10,7 +10,7 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!ENTITY toolboxCloseButton.tooltip    "Tutup Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip    "Tutup Alatan Pembangun">
 
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
@@ -122,13 +122,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Developer Tools Piawai">
+<!ENTITY options.selectDefaultTools.label2    "Alatan Pembangun Piawai">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Developer Tools dipasang oleh add-ons">
+<!ENTITY options.selectAdditionalTools.label  "Alatan Pembangun dipasang oleh add-ons">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
