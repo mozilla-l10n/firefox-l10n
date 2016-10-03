@@ -295,7 +295,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Izen ur nettwaɣri ara">
 <!ENTITY nextUnreadMsgCmd.accesskey "e">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Izen s yetran">
+<!ENTITY nextStarredMsgCmd.label "Izen s yitran">
 <!ENTITY nextStarredMsgCmd.accesskey "e">
 <!ENTITY nextUnreadThread.label "Asqerdec ur nettwaɣri ara">
 <!ENTITY nextUnreadThread.accesskey "A">
