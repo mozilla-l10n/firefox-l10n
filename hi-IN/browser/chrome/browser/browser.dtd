@@ -40,8 +40,8 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     " टैब का पिन निकालें">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
+<!ENTITY  sendTabToDevice.label              "टैब को उपकरण में भेजें">
+<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Device में पृष्ठ भेजें">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Device में कड़ी भेजें">
