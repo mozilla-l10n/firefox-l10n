@@ -268,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Verwijderen">
 <!ENTITY tableDeleteMenu.accesskey "V">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
