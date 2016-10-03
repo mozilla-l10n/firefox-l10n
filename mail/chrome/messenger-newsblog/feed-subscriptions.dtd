@@ -17,7 +17,8 @@
 
 
 
-
+<!ENTITY quickMode.label             "Веб парағын жүктеп алу орнына мақаланың қысқаша қорытындысын көрсету">
+<!ENTITY quickMode.accesskey         "с">
 
 
 
