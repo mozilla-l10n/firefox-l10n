@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "নিষ্ক্রিয়">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; এ নতুন কি আছে">
-<!ENTITY pref_whats_new_notification_summary "একটি হালনাগাদের পর নতুন বৈশিষ্ট্যগুলি সম্পর্কে জানুন">
+<!ENTITY pref_whats_new_notification_summary "একটি হালনাগাদের পর নতুন বৈশিষ্ট্যগুলো সম্পর্কে জানুন">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
@@ -371,7 +371,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "আপনার প্রত্যাশার চাইতে আরো দ্রুত গতিতে কমলা রংয়ের শিয়ালটি আরো অনেক উঁচুতে লাফাতে পারে, আরো নমনীয় ভাবে এবং আরো নিরাপদে। অলাভজনক হিসেবে, আপনার তরফ থেকে কোনো ধরনের আপোষ করার চাপ ছাড়াই আমরা বিনামূল্যে পরিবর্তন করে দিচ্ছি। এটি হবে আপনার জন্য একটি ভাল অভিজ্ঞতা এবং ওয়েবের জন্যে এক উজ্জ্বল ভবিষ্যত।">
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
-<!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে কিনা তা নিয়ন্ত্রণ করুন">
+<!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট ভিডিও এবং অন্যান্য মিডিয়া স্বয়ংক্রিয়ভাবে চালাবে কিনা তা নিয়ন্ত্রণ করুন">
 <!ENTITY pref_zoom_force_enabled "সবসময় জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
@@ -470,8 +470,8 @@ size. -->
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
-<!ENTITY close_all_tabs "সবগুলি ট্যাব বন্ধ করুন">
-<!ENTITY close_private_tabs "ব্যক্তিগত ট্যাবগুলি বন্ধ করুন">
+<!ENTITY close_all_tabs "সব ট্যাব বন্ধ করুন">
+<!ENTITY close_private_tabs "ব্যক্তিগত ট্যাব বন্ধ করুন">
 <!ENTITY tabs_normal "ট্যাব">
 <!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY set_image_fail "ছবি সেট করা যায়নি">
@@ -501,7 +501,7 @@ size. -->
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
-<!ENTITY contextmenu_subscribe "পেজটি সাবস্ক্রাইব করুন">
+<!ENTITY contextmenu_subscribe "পাতায় সাবস্ক্রাইব করুন">
 <!ENTITY contextmenu_site_settings "সাইট সেটিং সম্পাদনা করুন">
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা">
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
@@ -586,9 +586,9 @@ size. -->
 <!ENTITY home_history_back_to2 "পূর্ণ ইতিহাসে ফেরত যাও">
 <!ENTITY home_clear_history_button "ব্রাউজিং ইতিহাস মুছে ফেলুন">
 <!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
-<!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
+<!ENTITY home_bookmarks_empty "আপনার সংরক্ষিত বুকমার্ক এখানে দেখাবে।">
 <!ENTITY home_closed_tabs_title2 "সম্প্রতি বন্ধ করা ট্যাব">
-<!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
+<!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাব এখানে দেখাবে।">
 <!ENTITY home_restore_all "সবকিছু পুনরুদ্ধার">
 <!ENTITY home_closed_tabs_number "&formatD; ট্যাব">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
@@ -610,13 +610,13 @@ size. -->
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ডিভাইসগুলি লুকায়িত">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; লুকায়িত ডিভাইস">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "গোপন ডিভাইসগুলি">
+<!ENTITY home_remote_tabs_hidden_devices_title "লুকায়িত ডিভাইস">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস গুলি প্রকাশ করুন">
+<!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস অনির্বাচন করুন">
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাব কোথায় গিয়েছিলে?">
 <!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার নীড় পাতায় একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
