@@ -208,6 +208,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Visualizar informação do site">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de pedido de localização">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de complemento">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir painel de mensagem de armazenamento off-line">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir painel de mensagem de senha salva">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerenciar plugin em uso">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Alterar o recebimento de notificações do site">
 
@@ -215,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gerenciar o compartilhamento do seu microfone com o site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gerenciar o compartilhamento de suas janelas ou tela com o site">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir painel de mensagem de instalação">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerenciar tradução da página">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
