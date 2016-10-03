@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Odoslať ďalej">
 <!ENTITY fileButton.label "Uložiť">
 <!ENTITY archiveButton.label "Archivovať">
+<!ENTITY openConversationButton.label "Konverzácie">
 <!ENTITY nextButton.label "Ďalšia">
 <!ENTITY nextButtonToolbarItem.label "Ďalšie vlákno">
 <!ENTITY nextMsgButton.label "Ďalšia">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Odoslať ďalej zvolenú správu ako prílohu">
 <!ENTITY fileButton.tooltip "Uložiť označenú správu do súboru">
 <!ENTITY archiveButton.tooltip "Presunúť označené správy do archívu">
+<!ENTITY openConversationButton.tooltip "Zobraziť konverzáciu k vybranej správe">
 <!ENTITY nextButton.tooltip "Presunúť sa na nasledujúcu neprečítanú správu">
 <!ENTITY nextMsgButton.tooltip "Presunúť sa na nasledujúcu správu">
 <!ENTITY previousButton.tooltip "Presunúť sa na predchádzajúcu neprečítanú správu">
