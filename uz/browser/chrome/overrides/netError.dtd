@@ -19,10 +19,10 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server topilmadi">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Manzil to‘g‘ri kiritilganligini tekshiring.Masalan, <strong>www</strong>.example.com o‘rniga<strong>ww</strong>.example.com kiritilgan bo‘lishi mumkin.</li> <li>Agar birorta ham sahifa yuklanmagan bo‘lsa, kompyuteringizning tarmoqqaulanishini tekshirib ko‘ring.</li> <li>Agar kompyuter yoki tarmog‘ingiz fayervol bilan himoyalangan bo‘lsa,&brandShortName;ning internetga kirishdan to‘silmaganligini tekshirib ko‘ring.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Manzil to‘g‘ri kiritilganligini tekshiring. Masalan, <strong>www</strong>.example.com o‘rniga<strong>ww</strong>.example.com kiritilgan bo‘lishi mumkin.</li> <li>Agar birorta ham sahifa yuklanmagan bo‘lsa, kompyuterning tarmoqqa ulanganini tekshirib ko‘ring.</li> <li>Agar kompyuter yoki tarmoq fayervol bilan himoyalangan bo‘lsa, &brandShortName;ning internetga kirishdan to‘silmaganligini tekshirib ko‘ring.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fayl topilmadi">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> <li>Faylning o‘chirilganligi, nomi o‘zgartirilganligi va ko‘chirilganligini tekshirib ko‘ring.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichik harfdaligi yoki matndagi boshqa xatolarini tekshiring.</li> <li>Fayl o‘chirilgan, nomi o‘zgargan yoki ko‘chirilgan bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.</li> </ul>">
