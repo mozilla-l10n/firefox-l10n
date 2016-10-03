@@ -130,7 +130,7 @@
 <!ENTITY settings "সেটিং">
 <!ENTITY settings_title "সেটিং">
 <!ENTITY pref_category_general "সাধারণ">
-<!ENTITY pref_category_general_summary3 "হোম, ভাষা, ট্যাব কিউ">
+<!ENTITY pref_category_general_summary3 "নীড়, ভাষা, ট্যাব কিউ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -205,8 +205,8 @@
 <!ENTITY pref_remember_signons2 "লগইন মনে রাখো">
 <!ENTITY pref_manage_logins "লগইন ব্যবস্থাপনা">
 
-<!ENTITY pref_category_home "হোম">
-<!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
+<!ENTITY pref_category_home "নীড়">
+<!ENTITY pref_category_home_summary "আপনার নীড়পাতা কাস্টমাইজ করুন">
 <!ENTITY pref_category_home_panels "প্যানেল">
 <!ENTITY pref_category_home_add_ons "অ্যাড-অন">
 <!ENTITY pref_home_updates2 "বিষয়বস্তু হালনাগাদ">
@@ -217,7 +217,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; হোম">
+<!ENTITY home_homepage_radio_default "&brandShortName; নীড়">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "একটি সমৃদ্ধ ভিজ্যুয়াল ইতিহাস ফিড এবং একটি পুনঃপরিকল্পিত হোম পেইজ &brandShortName; এ আপনি যা খুঁজছেন তা খুঁজে পাওয়া সবচেয়ে সহজ করেছে।">
+<!ENTITY pref_activity_stream_summary "একটি সমৃদ্ধ ভিজ্যুয়াল ইতিহাস ফিড এবং একটি পুনঃপরিকল্পিত নীড় পাতা &brandShortName; এ আপনি যা খুঁজছেন তা খুঁজে পাওয়া সবচেয়ে সহজ করেছে।">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
@@ -495,7 +495,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "অপসারণ">
-<!ENTITY contextmenu_add_to_launcher "হোম স্ক্রীনে যোগ করা হবে">
+<!ENTITY contextmenu_add_to_launcher "নীড় স্ক্রিনে যোগ করুন">
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
@@ -577,7 +577,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "&brandShortName; হোম">
+<!ENTITY home_title "&brandShortName; নীড়">
 <!ENTITY home_history_title "ইতিহাস">
 <!ENTITY home_synced_devices_smartfolder "সিঙ্ককৃত ডিভাইস">
 <!ENTITY home_synced_devices_number "&formatD; ডিভাইস">
@@ -619,7 +619,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস গুলি প্রকাশ করুন">
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাব কোথায় গিয়েছিলে?">
-<!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার হোম পেজের একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
+<!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার নীড় পাতায় একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
 <!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
 
 <!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
@@ -803,7 +803,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Android ট্যাবলেটে সুরক্ষিত প্রোফাইলের জন্য Firefox সাহায্য ও সাপোর্ট রয়েছে।">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "ওয়েব সম্পর্কে জানুন: মজিলা ওয়েবমেকার">
+<!ENTITY bookmarks_restricted_webmaker "ওয়েব সম্পর্কে জানুন: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
@@ -818,7 +818,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; হালনাগাদ করা হয়েছে">
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
 
-<!ENTITY promotion_add_to_homescreen "হোম স্ক্রিনে যুক্ত করুন">
+<!ENTITY promotion_add_to_homescreen "নীড় স্ক্রিনে যুক্ত করুন">
 
 <!ENTITY helper_first_offline_bookmark_title "অফলাইনে পড়ুন">
 <!ENTITY helper_first_offline_bookmark_message "আপনার পাঠক প্রদর্শন আইটেম বুকমার্কসহ অফলাইনে দেখুন।">
