@@ -75,11 +75,11 @@
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
 <!ENTITY bookmark_options "অপশন">
-<!ENTITY screenshot_added_to_bookmarks "স্ক্রীনশট বুকমার্কে যুক্ত হয়েছে">
+<!ENTITY screenshot_added_to_bookmarks "স্ক্রিনশট বুকমার্কে যুক্ত হয়েছে">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "স্ক্রীনশট">
+<!ENTITY screenshot_folder_label_in_bookmarks "স্ক্রিনশট">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "পঠন তালিকা">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -113,7 +113,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; টি ট্যাব">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
-<!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে">
+<!ENTITY new_private_tab_opened "নতুন ব্যাক্তিগত ট্যাব খোলা হয়েছে">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
+<!ENTITY pref_search_hint2 "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান সেবা প্রদানকারীর তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষণ চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_advanced "উচ্চপর্যায়">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -261,7 +261,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "পাতা লোড হওয়ার সময় রিমোট ফন্ট ডাউনলোড কর">
 
 <!ENTITY pref_tracking_protection_title2 "ট্র্যাকিং সুরক্ষা">
-<!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
+<!ENTITY pref_tracking_protection_summary3 "ব্যাক্তিগত ব্রাউজিং এ সক্রিয় রয়েছে">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবে না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
-<!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগিন">
+<!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগইন">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের সেটিং">
@@ -596,7 +596,7 @@ size. -->
 <!ENTITY home_most_recent_empty "সাম্প্রতিককালে আপনার দর্শন করা ওয়েবসাইট এখানে দেখাবে।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
+<!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন ব্যাক্তিগত ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -673,7 +673,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাসইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
 
-<!ENTITY suggestions_prompt3 "আপনি কি পরামর্শ অনুসন্ধান আরম্ভ করতে চান?">
+<!ENTITY suggestions_prompt3 "আপনি কি অনুসন্ধান পরামর্শ সক্রিয় করতে চান?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -759,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "এই লিঙ্কটি &formatS;-এ খুলবে। আপনি কি প্রাইভেট ব্রাউজিং বন্ধ করবেন?">
+<!ENTITY intent_uri_private_browsing_prompt "এই লিঙ্কটি &formatS;-এ খুলবে। আপনি কি ব্যাক্তিগত ব্রাউজিং বন্ধ করবেন?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -782,7 +782,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_addons_installation "অ্যাড-অন">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox এ বৈশিষ্ট্য বা কার্যকারিতা যোগ করুন। উল্লেখ্য: অ্যাড-অন কিছু নিষেধাজ্ঞা নিষ্ক্রিয় করতে পারে।">
-<!ENTITY restrictable_feature_private_browsing "একান্ত ব্রাউজিং">
+<!ENTITY restrictable_feature_private_browsing "ব্যাক্তিগত ব্রাউজিং">
 <!ENTITY restrictable_feature_private_browsing_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য সংরক্ষণ ছাড়াই ব্রাউজ করতে দেয়।">
 <!ENTITY restrictable_feature_clear_history "ইতিহাস মুছে ফেলুন">
 <!ENTITY restrictable_feature_clear_history_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য মুছে ফেলতে দেয়।">
