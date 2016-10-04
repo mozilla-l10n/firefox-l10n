@@ -29,13 +29,13 @@
 <!ENTITY sync.default.client.name '&formatS1; pada &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Menu Tanda buku'>
+<!ENTITY bookmarks.folder.menu.label 'Menu Tandabuku'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Tag'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bar alat Tanda buku'>
-<!ENTITY bookmarks.folder.other.label 'Tanda buku Lain'>
-<!ENTITY bookmarks.folder.desktop.label 'Tanda buku Desktop'>
-<!ENTITY bookmarks.folder.mobile.label 'Tanda buku Telefon'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bar alat Tandabuku'>
+<!ENTITY bookmarks.folder.other.label 'Tandabuku Lain'>
+<!ENTITY bookmarks.folder.desktop.label 'Tandabuku Desktop'>
+<!ENTITY bookmarks.folder.mobile.label 'Tandabuku Telefon'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Dipinkan'>
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Kembali untuk melayar'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Selamat Datang ke &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Log masuk untuk sync tab anda, tanda buku, log masuk &amp; banyak lagi.'>
+<!ENTITY fxaccount_getting_started_description2 'Log masuk untuk sync tab anda, tandabuku, log masuk &amp; banyak lagi.'>
 <!ENTITY fxaccount_getting_started_get_started 'Mulakan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Menggunakan versi lama &syncBrand.shortName.label;?'>
 
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; telah ditatacara, tetapi tidak dapat sync secara automatik. Togol “Auto-sync data” di dalam menu Tetapan Akaun Android &gt;.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tap untuk daftar masuk ke Akaun Firefox baru anda.'>
-<!ENTITY fxaccount_status_bookmarks 'Tanda buku'>
+<!ENTITY fxaccount_status_bookmarks 'Tandabuku'>
 <!ENTITY fxaccount_status_history 'Sejarah'>
 <!ENTITY fxaccount_status_passwords2 'Log masuk'>
 <!ENTITY fxaccount_status_tabs 'Buka tab'>

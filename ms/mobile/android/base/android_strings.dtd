@@ -8,7 +8,7 @@
 <!ENTITY firstrun_urlbar_subtext "Cari maklumat lebih pantas dengan pintasan cadangan carian yang amat berguna.">
 <!ENTITY firstrun_bookmarks_title "Sejarah">
 <!ENTITY firstrun_bookmarks_message "Kegemaran anda, hadapan dan tengah">
-<!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil carian daripada tanda buku dan sejarah apabila anda buat carian.">
+<!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil carian daripada tandabuku dan sejarah apabila anda buat carian.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Kurang data, lebih penjimatan">
 <!ENTITY firstrun_data_subtext2 "Nyahaktifkan imej dalam setiap laman yang anda lawati untuk mengurangkan kadar penggunaan data.">
@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Tanda buku">
+<!ENTITY  bookmarks_title "Tandabuku">
 <!ENTITY  history_title "Sejarah">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
@@ -65,17 +65,17 @@
 
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
-<!ENTITY bookmark "Tanda buku">
-<!ENTITY bookmark_remove "Alih keluar Tanda buku">
-<!ENTITY bookmark_added "Tanda buku ditambah">
+<!ENTITY bookmark "Tandabuku">
+<!ENTITY bookmark_remove "Alih keluar tandabuku">
+<!ENTITY bookmark_added "Tandabuku ditambah">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Sudah ditanda buku">
-<!ENTITY bookmark_removed "Tanda buku dialih keluar">
+<!ENTITY bookmark_already_added "Sudah ditandabuku">
+<!ENTITY bookmark_removed "Tandabuku dialih keluar">
 <!ENTITY bookmark_updated "Tandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
-<!ENTITY screenshot_added_to_bookmarks "Skrinshot ditambah ke tanda buku">
+<!ENTITY screenshot_added_to_bookmarks "Skrinshot ditambah ke tandabuku">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -152,8 +152,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Tanda buku">
-<!ENTITY overlay_share_bookmark_btn_label_already "Sudah ditanda buku">
+<!ENTITY overlay_share_bookmark_btn_label "Tandabuku">
+<!ENTITY overlay_share_bookmark_btn_label_already "Sudah ditandabuku">
 <!ENTITY overlay_share_send_other "Hantar ke peranti lain">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -381,11 +381,11 @@ size. -->
 
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
 <!ENTITY pref_sync2 "Daftar masuk">
-<!ENTITY pref_sync_summary2 "Sync tab, tanda buku, log masuk dan sejarah anda">
+<!ENTITY pref_sync_summary2 "Sync tab, tandabuku, log masuk dan sejarah anda">
 <!ENTITY pref_search_suggestions "Papar cadangan carian">
 <!ENTITY pref_history_search_suggestions "Papar sejarah carian">
 <!ENTITY pref_import_options "Import pilihan">
-<!ENTITY pref_import_android_summary "Import tanda buku dan sejarah dari pelayar terbina dalam">
+<!ENTITY pref_import_android_summary "Import tandabuku dan sejarah dari pelayar terbina dalam">
 <!ENTITY pref_private_data_history2 "Sejarah pelayaran">
 <!ENTITY pref_private_data_searchHistory "Sejarah carian">
 <!ENTITY pref_private_data_formdata2 "Sejarah aksara">
@@ -541,7 +541,7 @@ size. -->
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Halaman dialih keluar">
 
-<!ENTITY bookmark_edit_title "Edit Tanda buku">
+<!ENTITY bookmark_edit_title "Edit Tandabuku">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata kunci">
@@ -586,7 +586,7 @@ size. -->
 <!ENTITY home_history_back_to2 "Kembali ke Sejarah penuh">
 <!ENTITY home_clear_history_button "Buang sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu membuang sejarah anda?">
-<!ENTITY home_bookmarks_empty "Tanda buku yang anda simpan dipaparkan di sini.">
+<!ENTITY home_bookmarks_empty "Tandabuku yang anda simpan dipaparkan di sini.">
 <!ENTITY home_closed_tabs_title2 "Terkini ditutup">
 <!ENTITY home_last_tabs_empty "Tab terkini anda dipaparkan di sini.">
 <!ENTITY home_restore_all "Ambil semula semua">
@@ -668,9 +668,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Beberapa data peribadi tidak dapat dibuang">
 
 <!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Mengimport tanda buku dan sejarah
+<!ENTITY bookmarkhistory_import_both "Mengimport tandabuku dan sejarah
                                       daripada Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Mengimport tanda buku
+<!ENTITY bookmarkhistory_import_bookmarks "Mengimport tandabuku
                                            daripada Android">
 <!ENTITY bookmarkhistory_import_history "Mengimport sejarah
                                          daripada Android">
@@ -690,7 +690,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Cari &formatS1; untuk &formatS2;">
 
-<!ENTITY searchable_description "Tanda buku dan sejarah">
+<!ENTITY searchable_description "Tandabuku dan sejarah">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Kemaskini tersedia untuk &brandShortName;">
@@ -717,7 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Sambung">
 <!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
-<!ENTITY new_guest_session_text2 "Pelawat yang menggunakannya tidak akan dapat melihat data pelayaran peribadi anda (seperti log masuk tersimpan, sejaran atau tanda buku).\n\n Apabila pelawat anda keluar, data pelayaran mereka akan dihapuskan dan sesi anda dikembalikan semula.">
+<!ENTITY new_guest_session_text2 "Pelawat yang menggunakannya tidak akan dapat melihat data pelayaran peribadi anda (seperti log masuk tersimpan, sejaran atau tandabuku).\n\n Apabila pelawat anda keluar, data pelayaran mereka akan dihapuskan dan sesi anda dikembalikan semula.">
 <!ENTITY guest_browsing_notification_title "Pelayaran pelawat didayakan">
 <!ENTITY guest_browsing_notification_text "Tap untuk keluar">
 
@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
 <!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapus maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
-<!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tanda buku, mengembalikan semula tab dan kemaskini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
+<!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tandabuku, mengembalikan semula tab dan kemaskini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Izinkan ahli keluarga berkomunikasi dalam masa sebenar dalam laman web.">
 <!ENTITY restrictable_feature_block_list "Senarai Sekatan">
@@ -824,12 +824,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Tambah ke skrin halaman utama">
 
 <!ENTITY helper_first_offline_bookmark_title "Baca luar talian">
-<!ENTITY helper_first_offline_bookmark_message "Cari item Reader View anda dalam Tanda buku, walaupun di luar talian.">
-<!ENTITY helper_first_offline_bookmark_button "Pergi ke Tanda buku">
+<!ENTITY helper_first_offline_bookmark_message "Cari item Reader View anda dalam Tandabuku, walaupun di luar talian.">
+<!ENTITY helper_first_offline_bookmark_button "Pergi ke Tandabuku">
 
 <!ENTITY helper_triple_readerview_open_title "Tersedia di luar talian">
-<!ENTITY helper_triple_readerview_open_message "Tanda buku item Reader View untuk dibaca di luar talian.">
-<!ENTITY helper_triple_readerview_open_button "Tambah dalam Tanda buku">
+<!ENTITY helper_triple_readerview_open_message "Tandabuku item Reader View untuk dibaca di luar talian.">
+<!ENTITY helper_triple_readerview_open_button "Tambah dalam Tandabuku">
 
 <!ENTITY activity_stream_topsites "Laman Teratas">
 <!ENTITY activity_stream_highlights "Serlahkan">
