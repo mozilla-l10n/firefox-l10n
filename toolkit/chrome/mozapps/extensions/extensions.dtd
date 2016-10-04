@@ -33,25 +33,25 @@
 <!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dimatikan. Anda mungkin mempunya add-on yang tidak sesuai.">
 <!ENTITY warning.checkcompatibility.enable.label   "Dayakan">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Dayakan semakan kesesuaian add-on">
-<!ENTITY warning.updatesecurity.label              "Semakan keselamatan kemas kini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.">
+<!ENTITY warning.updatesecurity.label              "Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.">
 <!ENTITY warning.updatesecurity.enable.label       "Dayakan">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Dayakan semakan keselamatan kemas kini add-on">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Dayakan semakan keselamatan kemaskini add-on">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Dapatkan Add-ons">
-<!ENTITY view.recentUpdates.label             "Kemas kini Terkini">
-<!ENTITY view.availableUpdates.label          "Kemas kini Tersedia">
+<!ENTITY view.recentUpdates.label             "Kemaskini Terkini">
+<!ENTITY view.availableUpdates.label          "Kemaskini Tersedia">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Semak Kemas kini">
+<!ENTITY updates.checkForUpdates.label        "Semak Kemaskini">
 <!ENTITY updates.checkForUpdates.accesskey    "e">
-<!ENTITY updates.viewUpdates.label            "Papar Kemas kini Terbaru">
+<!ENTITY updates.viewUpdates.label            "Papar Kemaskini Terbaru">
 <!ENTITY updates.viewUpdates.accesskey        "P">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Kemas kini Add-ons secara Automatik">
+<!ENTITY updates.updateAddonsAutomatically.label     "Kemaskini Add-ons secara Automatik">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,23 +59,23 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Set semula Semua Add-ons untuk Kemas kini Automatik">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Set semula Semua Add-ons untuk Kemaskini Automatik">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "u">
-<!ENTITY updates.resetUpdatesToManual.label          "Set semula Semua Add-ons Untuk Kemas kini Manual">
+<!ENTITY updates.resetUpdatesToManual.label          "Set semula Semua Add-ons Untuk Kemaskini Manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "n">
 <!ENTITY updates.updating.label               "Mengemaskini add-on">
-<!ENTITY updates.installed.label              "Add-ons anda telah dikemas kini.">
-<!ENTITY updates.downloaded.label             "Kemas kini add-on anda telah dimuat turun.">
+<!ENTITY updates.installed.label              "Add-ons anda telah dikemaskini.">
+<!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
 <!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
-<!ENTITY updates.noneFound.label              "Tiada kemas kini ditemui">
-<!ENTITY updates.manualUpdatesFound.label     "Papar Kemas kini Tersedia">
-<!ENTITY updates.updateSelected.label         "Pasang Kemas kini">
-<!ENTITY updates.updateSelected.tooltip       "Pasang kemas kini yang tersedia di dalam senarai ini">
+<!ENTITY updates.noneFound.label              "Tiada kemaskini ditemui">
+<!ENTITY updates.manualUpdatesFound.label     "Papar Kemaskini Tersedia">
+<!ENTITY updates.updateSelected.label         "Pasang Kemaskini">
+<!ENTITY updates.updateSelected.tooltip       "Pasang kemaskini yang tersedia di dalam senarai ini">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Papar Maklumat Tambahan">
 <!ENTITY cmd.showDetails.accesskey            "p">
-<!ENTITY cmd.findUpdates.label                "Cari Kemas kini">
+<!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
 <!ENTITY cmd.findUpdates.accesskey            "k">
 <!ENTITY cmd.preferencesWin.label             "Pilihan">
 <!ENTITY cmd.preferencesWin.accesskey         "p">
@@ -112,9 +112,9 @@
 <!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
 
 <!ENTITY cmd.showReleaseNotes.label           "Papar Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Papar release note untuk kemas kini ini">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Papar nota pelepasan untuk kemaskini ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemas kini ini">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -127,27 +127,27 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
-<!ENTITY detail.lastupdated.label             "Kemas kini Terakhir">
+<!ENTITY detail.lastupdated.label             "Kemaskini Terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
 <!ENTITY detail.homepage.label                "Halaman utama">
 <!ENTITY detail.numberOfDownloads.label       "Muat Turun">
 
 <!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.">
 
-<!ENTITY detail.updateType                    "Kemas kini automatik">
+<!ENTITY detail.updateType                    "Kemaskini automatik">
 <!ENTITY detail.updateDefault.label           "Piawai">
-<!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik hanya jika itulah piawai">
+<!ENTITY detail.updateDefault.tooltip         "Pasang kemaskini secara automatik hanya jika itulah piawai">
 <!ENTITY detail.updateAutomatic.label         "Hidupkan">
-<!ENTITY detail.updateAutomatic.tooltip       "Pasang kemas kini secara automatik">
+<!ENTITY detail.updateAutomatic.tooltip       "Pasang kemaskini secara automatik">
 <!ENTITY detail.updateManual.label            "Matikan">
-<!ENTITY detail.updateManual.tooltip          "Jangan pasan kemas kini secara automatik">
+<!ENTITY detail.updateManual.tooltip          "Jangan pasang kemaskini secara automatik">
 <!ENTITY detail.home                          "Halaman utama">
 <!ENTITY detail.repository                    "Profil add-on">
 <!ENTITY detail.size                          "Saiz">
 
-<!ENTITY detail.checkForUpdates.label         "Semak Kemas kini">
+<!ENTITY detail.checkForUpdates.label         "Semak Kemaskini">
 <!ENTITY detail.checkForUpdates.accesskey     "n">
-<!ENTITY detail.checkForUpdates.tooltip       "Semak kemas kini add-on ini">
+<!ENTITY detail.checkForUpdates.tooltip       "Semak kemaskini add-on ini">
 <!ENTITY detail.showPreferencesWin.label      "Pilihan">
 <!ENTITY detail.showPreferencesWin.accesskey  "h">
 <!ENTITY detail.showPreferencesWin.tooltip    "Tukar pilihan add-on ini">
@@ -167,8 +167,8 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nama">
 <!ENTITY sort.name.tooltip                    "Susun mengikut nama">
-<!ENTITY sort.dateUpdated.label               "Kemas kini Terakhir">
-<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemas kini">
+<!ENTITY sort.dateUpdated.label               "Kemaskini Terakhir">
+<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemaskini">
 <!ENTITY sort.relevance.label                 "Padanan terbaik">
 <!ENTITY sort.relevance.tooltip               "Susun mengikut kaitan">
 <!ENTITY sort.price.label                     "Harga">
@@ -192,7 +192,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Kemas kini">
+<!ENTITY addon.update.postfix                 "Kemaskini">
 <!ENTITY addon.undoAction.label               "Kembali Asal">
 <!ENTITY addon.undoAction.tooltip             "Membatalkan tindakan ini">
 <!ENTITY addon.undoRemove.label               "Kembali Asal">
@@ -200,11 +200,11 @@
 <!ENTITY addon.restartNow.label               "Mula semula sekarang">
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang add-on ini">
-<!ENTITY addon.updateNow.label                "Kemas kini Sekarang">
-<!ENTITY addon.updateNow.tooltip              "Pasang kemas kini bagi add-on ini">
-<!ENTITY addon.includeUpdate.label            "Termasuk dalam Kemas kini">
-<!ENTITY addon.updateAvailable.label          "Kemas kini didapati">
-<!ENTITY addon.checkingForUpdates.label       "Menyemak kemas kini…">
+<!ENTITY addon.updateNow.label                "Kemaskini Sekarang">
+<!ENTITY addon.updateNow.tooltip              "Pasang kemaskini bagi add-on ini">
+<!ENTITY addon.includeUpdate.label            "Termasuk dalam Kemaskini">
+<!ENTITY addon.updateAvailable.label          "Kemaskini tersedia">
+<!ENTITY addon.checkingForUpdates.label       "Menyemak kemaskini…">
 <!ENTITY addon.releaseNotes.label             "Nota Pelepasan:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada ralat memuatkan nota pelepasan.">

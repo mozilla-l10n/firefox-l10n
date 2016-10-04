@@ -23,7 +23,7 @@
 <!ENTITY pairDevice.label             "Hubungkan Peranti">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Tanda buku">
+<!ENTITY engine.bookmarks.label     "Tandabuku">
 <!ENTITY engine.bookmarks.accesskey "a">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -77,14 +77,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Sahkan E-mel">
 <!ENTITY forget.label                "Lupakan E-mel ini">
 
-<!ENTITY welcome.description "Akses tab, tanda buku dan kata laluan anda serta banyak lagi ciri di mana jua anda menggunakan &brandShortName;.">
+<!ENTITY welcome.description "Akses tab, tandabuku dan kata laluan anda serta banyak lagi ciri di mana jua anda menggunakan &brandShortName;.">
 <!ENTITY welcome.signIn.label "Daftar Masuk">
 <!ENTITY welcome.createAccount.label "Cipta Akaun">
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">
 
 <!ENTITY signedOut.caption            "Bawa Web dengan anda">
-<!ENTITY signedOut.description        "Sync tanda buku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
+<!ENTITY signedOut.description        "Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
 <!ENTITY signedOut.accountBox.title   "Sambung dengan &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cipta Akaun">
 <!ENTITY signedOut.accountBox.signin  "Daftar Masuk">

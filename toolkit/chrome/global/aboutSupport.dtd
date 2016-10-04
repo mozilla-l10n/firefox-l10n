@@ -41,9 +41,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Saluran Kemas kini">
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Kemas kini Sejarah">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Papar Sejarah Kemas kini">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Saluran Kemaskini">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Sejarah Kemaskini">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Papar Sejarah Kemaskini">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktori Profil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
-<!ENTITY aboutSupport.updateHistoryTitle "Kemas kini Sejarah">
+<!ENTITY aboutSupport.updateHistoryTitle "Kemaskini Sejarah">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">

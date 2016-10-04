@@ -27,24 +27,24 @@
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Memasang Penambahan Serasi">
-<!ENTITY  installing.top.label            "Memua turun dan memasang kemas kini untuk add-ons anda…">
+<!ENTITY  installing.top.label            "Memua turun dan memasang kemaskini untuk add-ons anda…">
 
 <!ENTITY  noupdates.wizard.title          "Tiada Penambahan Serasi Ditemui">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; tidak dapat mencari kemas kini untuk
+<!ENTITY  noupdates.intro.desc            "&brandShortName; tidak dapat mencari kemaskini untuk
                                            add-ons tidak serasi anda.">
-<!ENTITY  noupdates.error.desc            "Ada beberapa masalah ketika cuba mencari kemas kini.">
+<!ENTITY  noupdates.error.desc            "Ada beberapa masalah ketika cuba mencari kemaskini.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan menyemak secara berkala dan memaklumkan anda
-                                           apabila kemas kini yang sesuai untuk add-ons ini ditemui.">
+                                           apabila kemaskini yang sesuai untuk add-ons ini ditemui.">
 
 <!ENTITY  finished.wizard.title           "Penambahan Serasi Dipasang">
-<!ENTITY  finished.top.label              "&brandShortName; telah memasang kemas kini add-ons anda.">
+<!ENTITY  finished.top.label              "&brandShortName; telah memasang kemaskini add-ons anda.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; boleh menyemak secara berkala dan memaklumkan anda
-                                           apabila kemas kini add-ons ditemui.">
+                                           apabila kemaskini add-ons ditemui.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; boleh menyemak secara berkala dan memaklumkan anda
-                                           apabila kemas kini add-ons ditemui.">
+                                           apabila kemaskini add-ons ditemui.">
 
-<!ENTITY  adminDisabled.wizard.title      "Gagal Menyemak Kemas kini">
-<!ENTITY  adminDisabled.warning.label     "Mustahil untuk menyemak kemas kini add-ons tidak serasi
+<!ENTITY  adminDisabled.wizard.title      "Gagal Menyemak Kemaskini">
+<!ENTITY  adminDisabled.warning.label     "Mustahil untuk menyemak kemaskini add-ons tidak serasi
                                            kerana pemasangan perisian untuk &brandShortName; telah dinyahdayakan.
                                            Sila hubungi Pentadbir Sistem anda untuk bantuan.">
 
@@ -52,10 +52,10 @@
 <!ENTITY  versioninfo.top.label           "Memeriksa keserasian penambahan anda untuk &brandShortName; versi ini.">
 <!ENTITY  versioninfo.waiting             "Ini akan mengambil masa beberapa minit...">
 
-<!ENTITY  installerrors.wizard.title      "Masalah Memasang Kemas kini">
+<!ENTITY  installerrors.wizard.title      "Masalah Memasang Kemaskini">
 <!ENTITY  installerrors.intro.label       "&brandShortName; mengalami masalah apabilamengemaskini sebahagian penambahana anda.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klik Tamat untuk terus memulakan &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik Selesai untuk sambung memulakan &brandShortName;.">
-<!ENTITY  enableChecking.label            "Izinkan &brandShortName; menyemak kemas kini.">
+<!ENTITY  enableChecking.label            "Izinkan &brandShortName; menyemak kemaskini.">

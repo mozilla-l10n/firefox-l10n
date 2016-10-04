@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Urus">
 <!ENTITY organize.accesskey    "r">
-<!ENTITY organize.tooltip      "Urus tanda buku anda">
+<!ENTITY organize.tooltip      "Urus tandabuku anda">
 
 <!ENTITY file.close.label               "Tutup">
 <!ENTITY file.close.accesskey           "t">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Tertib susunan Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Tanda buku dari HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Import Tandabuku dari HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Eksport Tanda buku ke HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Eksport Tandabuku ke HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Import Data dari Pelayar Lain…">
 <!ENTITY importOtherBrowser.accesskey      "A">
@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Tanda buku Halaman Ini…">
+<!ENTITY cmd.bookmarkLink.label         "Tandabuku Halaman Ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Hapus Halaman Ini">
 <!ENTITY cmd.delete.accesskey           "a">
@@ -66,7 +66,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Tanda buku Baru…">
+<!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Folder Baru…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -74,7 +74,7 @@
 <!ENTITY cmd.new_separator.label           "Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Tanda buku Live">
+<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Tandabuku Live">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "v">
 
 <!ENTITY cmd.moveBookmarks.label                  "Pindah…">
@@ -96,7 +96,7 @@
 
 <!ENTITY maintenance.label      "Import dan Sandaran">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import dan sandar tanda buku anda">
+<!ENTITY maintenance.tooltip    "Import dan sandar tandabuku anda">
 
 <!ENTITY backButton.tooltip  "Undur">
 

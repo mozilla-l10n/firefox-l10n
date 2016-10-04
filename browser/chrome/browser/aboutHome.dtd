@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; ialah perisian percuma dan sumber terbuka yang dihasilkan oleh sebuah organisasi tanpa untung, iaitu Mozilla Foundation. <a>Ketahui hak anda...</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Tanda buku">
+<!ENTITY abouthome.bookmarksButton.label "Tandabuku">
 <!ENTITY abouthome.historyButton.label   "Sejarah">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->

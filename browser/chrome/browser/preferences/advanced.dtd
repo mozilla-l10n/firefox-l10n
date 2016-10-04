@@ -73,23 +73,23 @@
 <!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "Kemas kini">
+<!ENTITY updateTab.label                 "Kemaskini">
 
 <!ENTITY updateApp.label                 "&brandShortName; mengemaskini:">
-<!ENTITY updateAuto1.label               "Pasang kemas kini secara automatik (digalakkan: meningkatkan keselamatan)">
+<!ENTITY updateAuto1.label               "Pasang kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Semak kemas kini, tetapi saya yang pilih untuk memasangnya">
+<!ENTITY updateCheck.label               "Semak kemaskini, tetapi saya yang pilih untuk memasangnya">
 <!ENTITY updateCheck.accesskey           "a">
-<!ENTITY updateManual.label              "Jangan sesekali semak kemas kini (tidak digalakkan: risiko keselamatan)">
+<!ENTITY updateManual.label              "Jangan sesekali semak kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Papar Sejarah Kemas kini">
+<!ENTITY updateHistory.label             "Papar Sejarah Kemaskini">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Kemas kini automatik:">
+<!ENTITY updateOthers.label              "Kemaskini automatik:">
 <!ENTITY enableSearchUpdate.label        "Enjin Carian">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
