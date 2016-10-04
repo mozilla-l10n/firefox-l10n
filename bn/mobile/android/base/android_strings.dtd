@@ -499,7 +499,7 @@ size. -->
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
-<!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
+<!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করুন">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
 <!ENTITY contextmenu_subscribe "পাতায় সাবস্ক্রাইব করুন">
 <!ENTITY contextmenu_site_settings "সাইট সেটিং সম্পাদনা করুন">
