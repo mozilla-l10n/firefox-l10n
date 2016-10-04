@@ -13,7 +13,7 @@
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-<!ENTITY firstrun_sync_message "&brandShortName;, সবসময় আপনার পাশে">
+<!ENTITY firstrun_sync_message "&brandShortName;, সর্বদা আপনার পাশে">
 <!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন না কেন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
@@ -53,7 +53,7 @@
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
 <!ENTITY  crash_message2 "&brandShortName; তে একটি ত্রুটি হয়েছে এবং ক্র্যাশ করেছে। যখন আপনি পুনরায় চালু করবেন, আপনার ট্যাব &brandShortName; এর প্রারম্ভিক পাতায় তালিকাবদ্ধ থাকবে।">
 <!ENTITY  crash_send_report_message3 "এই নষ্ট হয়ে যাওয়া সম্পর্কে &vendorShortName; বলুন যাতে তারা এটা ঠিক করতে পারে">
-<!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন">
+<!ENTITY  crash_include_url2 "আমি যে পাতায় ছিলাম সেই পাতার ঠিকানা অন্তর্ভুক্ত কর">
 <!ENTITY  crash_sorry "আমরা দুঃখিত">
 <!ENTITY  crash_comment "মন্তব্য যোগ করুন (মন্তব্যগুলো সবাই দেখতে পাবে)">
 <!ENTITY  crash_allow_contact2 "এই প্রতিবেদন সম্পর্কে যোগাযোগ করতে &vendorShortName; কে অনুমোদন দেয়া হবে">
@@ -351,7 +351,7 @@
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
 <!ENTITY pref_restore_tabs "ট্যাব পুনরুদ্ধার করুন">
-<!ENTITY pref_restore_always "সবসময় রিস্টোর করুন">
+<!ENTITY pref_restore_always "সর্বদা রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
 <!ENTITY pref_font_size_small "ছোট">
@@ -372,7 +372,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট ভিডিও এবং অন্যান্য মিডিয়া স্বয়ংক্রিয়ভাবে চালাবে কিনা তা নিয়ন্ত্রণ করুন">
-<!ENTITY pref_zoom_force_enabled "সবসময় জুম সক্রিয় রাখুন">
+<!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
 <!ENTITY pref_voice_input_summary2 "URL বারে কণ্ঠ নির্দেশনার অনুমতি দিন">
@@ -539,7 +539,7 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
+<!ENTITY page_removed "পাতা অপসারিত হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা">
 <!ENTITY bookmark_edit_name "নাম">
@@ -589,7 +589,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "আপনার সংরক্ষিত বুকমার্ক এখানে দেখাবে।">
 <!ENTITY home_closed_tabs_title2 "সম্প্রতি বন্ধ করা ট্যাব">
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাব এখানে দেখাবে।">
-<!ENTITY home_restore_all "সবকিছু পুনরুদ্ধার">
+<!ENTITY home_restore_all "সব কিছু পুনরুদ্ধার">
 <!ENTITY home_closed_tabs_number "&formatD; ট্যাব">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ট্যাব">
