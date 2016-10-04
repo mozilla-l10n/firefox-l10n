@@ -13,7 +13,7 @@
 <!ENTITY searchStartTyping.label         "ค้นหาข้อความเมื่อฉันเริ่มพิมพ์">
 <!ENTITY searchStartTyping.accesskey     "ค">
 <!ENTITY blockAutoRefresh.label          "เตือนทุกครั้งเมื่อเว็บไซต์จะทำการเปลี่ยนเส้นทางหรือเรียกหน้าเว็บใหม่">
-<!ENTITY blockAutoRefresh.accesskey      "ว">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์สัมผัสเมื่อต้องการ">
 <!ENTITY useOnScreenKeyboard.accesskey   "ป">
 

@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "เริ่มในโหมดปลอดภัย">
-<!ENTITY refreshProfile.label         "ตั้งค่า &brandShortName; ใหม่">
+<!ENTITY refreshProfile.label         "ล้าง &brandShortName; ใหม่">
 
 <!ENTITY safeModeDescription3.label   "โหมดปลอดภัยเป็นโหมดพิเศษของ &brandShortName; ที่สามารถใช้ในการแก้ไขปัญหา">
 <!ENTITY safeModeDescription4.label   "ส่วนเสริมและการตั้งค่าที่กำหนดเองของคุณจะถูกปิดใช้งานชั่วคราว">
