@@ -11,7 +11,7 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "เรียกใหม่">
-<!ENTITY aboutNetworking.autoRefresh           "เรียกใหม่เองทุก 3 วินาที">
+<!ENTITY aboutNetworking.autoRefresh           "เรียกใหม่อัตโนมัติทุก 3 วินาที">
 <!ENTITY aboutNetworking.hostname              "ชื่อโฮสต์">
 <!ENTITY aboutNetworking.port                  "พอร์ต">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
@@ -29,7 +29,4 @@
 <!ENTITY aboutNetworking.messagesReceived      "ข้อความที่รับ">
 <!ENTITY aboutNetworking.bytesSent             "จำนวนไบต์ที่ส่ง">
 <!ENTITY aboutNetworking.bytesReceived         "จำนวนไบต์ที่รับ">
-
-
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
-
