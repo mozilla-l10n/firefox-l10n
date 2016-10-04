@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Telugu (IN)
+#define MOZ_LANG_TITLE తెలుగు (IN)
