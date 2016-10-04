@@ -102,7 +102,7 @@
 <!ENTITY edit_mode_cancel "റദ്ദാക്കുക">
 
 <!ENTITY close_tab "റ്റാബ് അടയ്ക്കുക">
-
+<!ENTITY one_tab "ഒരു ടാബ്">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY new_tab_opened "പുതിയ ടാബ് തുറന്നു">
