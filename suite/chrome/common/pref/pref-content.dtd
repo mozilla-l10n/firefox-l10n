@@ -10,6 +10,8 @@
 <!ENTITY siteIcons.label                        "Ícones de sites">
 <!ENTITY useSiteIcons.label                     "Exibir ícones de sites">
 <!ENTITY useSiteIcons.accesskey                 "E">
+<!ENTITY useFavIcons2.label                     "Tente usar o favicon de servidores quando a página não define um ícone">
+<!ENTITY useFavIcons2.accesskey                 "i">
 
 <!ENTITY scrolling.label                        "Rolagem">
 <!ENTITY useAutoScroll.label                    "Usar autorrolagem">
