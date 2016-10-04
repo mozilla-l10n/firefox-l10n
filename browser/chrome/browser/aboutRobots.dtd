@@ -14,7 +14,7 @@
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "మిమ్ములను శాంతితో మరియు మంచిమనసుతో చూచుటకు మేము వచ్చాము!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
-<!ENTITY robots.errorLongDesc1 "రోబోట్లు మానవులకు హానిచేయవు లేదా, వాటి చేతలద్వారా మానవులను  చేయనివ్వవు.">
+<!ENTITY robots.errorLongDesc1 "రోబోట్లు మానవులకు హానిచేయవు లేదా, వాటి చేతలద్వారా మానవులను చేయనివ్వవు.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "మీరు నమ్మలేనటువంటి వాటిని రాబోట్‌లు చూసాయి.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
