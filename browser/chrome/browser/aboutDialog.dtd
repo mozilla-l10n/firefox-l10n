@@ -8,7 +8,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Checar se há atualizações">
+<!ENTITY update.checkForUpdatesButton.label       "Verificar se há atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "Reiniciar o &brandShortName; para atualizar">
 <!ENTITY update.updateButton.accesskey            "R">
