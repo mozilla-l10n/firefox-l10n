@@ -73,7 +73,7 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Sudah ditanda buku">
 <!ENTITY bookmark_removed "Tanda buku dialih keluar">
-<!ENTITY bookmark_updated "Tanda buku dikemas kini">
+<!ENTITY bookmark_updated "Tandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
 <!ENTITY screenshot_added_to_bookmarks "Skrinshot ditambah ke tanda buku">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -196,8 +196,8 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Kembalikan semula tab, penjimat data, alatan pembangun">
 <!ENTITY pref_category_notifications "Notifikasi">
-<!ENTITY pref_category_notifications_summary "Ciri baru, kemas kini laman web">
-<!ENTITY pref_content_notifications "Kemas kini laman web">
+<!ENTITY pref_category_notifications_summary "Ciri baru, kemaskini laman web">
+<!ENTITY pref_content_notifications "Kemaskini laman web">
 <!ENTITY pref_content_notifications_summary2 "Ketahui kandungan baru dari laman sokongan">
 <!ENTITY pref_developer_remotedebugging_usb "Nyahpepijat jauh via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nyahpepijat jauh via Wifi">
@@ -209,7 +209,7 @@
 <!ENTITY pref_category_home_summary "Penyesuaian halaman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
-<!ENTITY pref_home_updates2 "Kemas kini kandungan">
+<!ENTITY pref_home_updates2 "Kemaskini kandungan">
 <!ENTITY pref_home_updates_enabled "Dayakan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_category_home_homepage "Halaman utama">
@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "Nyahdayakan">
 
 <!ENTITY pref_whats_new_notification "Berita terbaru di &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Ketahui perihal ciri baru selepas kemas kini">
+<!ENTITY pref_whats_new_notification_summary "Ketahui perihal ciri baru selepas kemaskini">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -284,7 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Strim Aktiviti">
-<!ENTITY pref_activity_stream_summary "Halaman utama &brandShortName; yang penuh dengan suapan visual sejarah dan dikemas kini semula menjadikannya lebih mudah untuk anda menemukan apa yang anda cari.">
+<!ENTITY pref_activity_stream_summary "Halaman utama &brandShortName; yang penuh dengan suapan visual sejarah dan dikemaskini semula menjadikannya lebih mudah untuk anda menemukan apa yang anda cari.">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Pelindungan Penjejakan">
 <!ENTITY tracking_protection_prompt_text "Menyekat elemen penjejakan secara aktif supaya anda tidak rasa bimbang.">
@@ -323,7 +323,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; laman web dikemas kini">
+<!ENTITY content_notification_title_plural "&formatD; laman web dikemaskini">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "Tetapan">
@@ -333,7 +333,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Dikemas kini pada &formatS;">
+<!ENTITY content_notification_updated_on "Dikemaskini pada &formatS;">
 
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
@@ -444,7 +444,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Kemas kini automatik">
+<!ENTITY pref_update_autodownload3 "Kemaskini automatik">
 <!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Jangan sesekali">
 <!ENTITY pref_update_autodownload_always "Sentiasa">
@@ -693,12 +693,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Tanda buku dan sejarah">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Kemas kini tersedia untuk &brandShortName;">
+<!ENTITY updater_start_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_start_select2 "Sentuh untuk muat turun">
 
 <!ENTITY updater_downloading_title2 "Memuat turun &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Muat turun gagal">
-<!ENTITY updater_downloading_select2 "Sentuh untuk memasang kemas kini sebaik sahaja dimuat turun">
+<!ENTITY updater_downloading_select2 "Sentuh untuk memasang kemaskini sebaik sahaja dimuat turun">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk cuba lagi">
 
 <!ENTITY updater_apply_title2 "Kemas kini tersedia untuk &brandShortName;">
