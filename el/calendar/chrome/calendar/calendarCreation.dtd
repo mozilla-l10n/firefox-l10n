@@ -2,7 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY wizard.label             "Δημιουργήστε νέο ημερολόγιο" >
 
+<!ENTITY initialpage.description    "Το ημερολόγιό σας μπορεί να αποθηκευτεί στον υπολογιστή σας ή σε κάποιο διακομιστή ώστε να έχετε πρόσβαση σε αυτό από μακριά ή να το μοιράζεστε με τους φίλους σας και τους συνεργάτες σας." >
+<!ENTITY initialpage.computer.label  "Στον υπολογιστή μου">
+<!ENTITY initialpage.network.label  "Στο δίκτυο">
 
 
 
