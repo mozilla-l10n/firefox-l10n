@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "Kemas kini &brandShortName;">
+<!ENTITY  updateWizard.title              "Kemaskini &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; bekerje di luar talian">
-<!ENTITY  offline.description             "&brandShortName; perlu ada sambungan Internet untuk menyemak kemas kini
+<!ENTITY  offline.description             "&brandShortName; perlu ada sambungan Internet untuk menyemak kemaskini
                                            tersedia untuk add-ons anda supaya sesuai dengan
                                            versi ini.">
 <!ENTITY  offline.toggleOffline.label     "Masuk talian sekarang.">
@@ -16,12 +16,12 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; boleh memeriksa jika terdapat versi serasi bagi penambahan ini.">
 
 <!ENTITY  checking.wizard.title           "Memeriksa Penambahan Serasi">
-<!ENTITY  checking.top.label              "Menyemak kemas kini add-ons anda yang tidak serasi…">
+<!ENTITY  checking.top.label              "Menyemak kemaskini add-ons anda yang tidak serasi…">
 <!ENTITY  checking.status                 "Ini akan mengambil masa beberapa minit...">
 
 <!ENTITY  found.wizard.title               "Menemui Penambahan Serasi">
 <!ENTITY  found.top.label                 "Pilih penambahan yang anda ingin pasang:">
-<!ENTITY  found.disabledXPinstall.label   "Kemas kini tidak dapat dipasang kerana pemasangan perisian kini sedang
+<!ENTITY  found.disabledXPinstall.label   "Kemaskini tidak dapat dipasang kerana pemasangan perisian kini sedang
                                            dinyahdaya. Anda boleh ubah tetapan ini di bawah.">
 <!ENTITY  found.enableXPInstall.label     "Izinkan laman web memasang perisian">
 <!ENTITY  found.enableXPInstall.accesskey "A">

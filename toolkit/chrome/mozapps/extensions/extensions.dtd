@@ -11,9 +11,9 @@
 
 <!ENTITY loading.label                        "Memuatkan...">
 <!ENTITY listEmpty.installed.label            "Anda tidak mempunyai add-ons jenis ini yang dipasang">
-<!ENTITY listEmpty.availableUpdates.label     "Tiada kemas kini ditemui">
+<!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
-<!ENTITY listEmpty.findUpdates.label          "Semak Kemas kini">
+<!ENTITY listEmpty.findUpdates.label          "Semak Kemaskini">
 <!ENTITY listEmpty.search.label               "Tidak dapat mencari add-ons yang sepadan">
 <!ENTITY listEmpty.button.label               "Ketahui selanjutnya mengenai add-ons">
 <!ENTITY installAddonFromFile.label           "Pasang Add-ons Dari Fail…">
