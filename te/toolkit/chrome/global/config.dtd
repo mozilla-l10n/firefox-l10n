@@ -17,14 +17,14 @@
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "అభీష్టం  నామము">
+<!ENTITY prefColumn.label "అభీష్టం నామము">
 <!ENTITY lockColumn.label "స్థితి">
 <!ENTITY typeColumn.label "రకం">
 <!ENTITY valueColumn.label "విలువ">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "క్రమపరుచుటకు  నొక్కండి"> 
-<!ENTITY columnChooser.tooltip "నిలువువరుసలను  ఎంపికచేసి  ప్రదర్శించుటకు  నొక్కండి"> 
+<!ENTITY prefColumnHeader.tooltip "క్రమపరుచుటకు నొక్కండి"> 
+<!ENTITY columnChooser.tooltip "నిలువువరుసలను ఎంపికచేసి ప్రదర్శించుటకు నొక్కండి"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
@@ -32,7 +32,7 @@
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "నామమును నకలుతీయుము">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "విలవను  నకలుతీయుము">
+<!ENTITY copyValue.label "విలవను నకలుతీయుము">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "సవరించు">
 <!ENTITY modify.accesskey "M">

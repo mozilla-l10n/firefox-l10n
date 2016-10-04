@@ -147,7 +147,7 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "రన్‌టైమ్ సమాచారం">
-<!ENTITY runtimedetails_adbIsRoot "ADB యే root:  ">
+<!ENTITY runtimedetails_adbIsRoot "ADB root:  ">
 <!ENTITY runtimedetails_summonADBRoot "root పరికరం">
 <!ENTITY runtimedetails_ADBRootWarning "(లాక్‌చేయని బూట్‌లోడర్ అవసరం)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "అపరిమితమైన DevTools అధికారాలు: ">
