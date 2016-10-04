@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Haal me hier vandaan!">
 <!ENTITY safeb.palm.decline.label "Deze waarschuwing negeren">
 <!ENTITY safeb.palm.reportPage.label "Waarom werd deze pagina geblokkeerd?">
-<!ENTITY safeb.palm.whyForbidden.label "Waarom werd deze pagina geblokkeerd?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Gerapporteerde aanvalpagina!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,10 +20,6 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "De website op <span id='phishing_sitename'/> is gerapporteerd als een misleidende website en is geblokkeerd op basis van uw beveiligingsvoorkeuren.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misleidende websites zijn ontworpen om u iets gevaarlijks te laten doen, zoals het installeren van software, of het delen van uw persoonlijke gegevens, zoals wachtwoorden, telefoonnummers of creditcardgegevens.</p><p>Het invoeren van persoonlijke gegevens op deze webpagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Geblokkeerde website">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "De webpagina op <span id='forbidden_sitename'/> is geblokkeerd door uw beheerdersprofiel.">
 
 <!ENTITY reportDeceptiveSite.label "Misleidende website rapporteren…">
 <!ENTITY reportDeceptiveSite.accesskey "M">

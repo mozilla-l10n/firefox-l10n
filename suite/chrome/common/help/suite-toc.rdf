@@ -75,7 +75,6 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="nav-doc-searchweb" nc:name="Fast Searches" nc:link="nav_help.xhtml#fast_searches"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-smartsearch" nc:name="Sidebar Advanced Search Mode" nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchprefs" nc:name="Setting Search Preferences" nc:link="nav_help.xhtml#setting_search_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchpage" nc:name="Searching Within a Page" nc:link="nav_help.xhtml#searching_within_a_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-find_as_you_type" nc:name="Using Find-as-you-type" nc:link="nav_help.xhtml#using_find_as_you_type"/></rdf:li>
@@ -206,7 +205,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Replying to a Message" nc:link="mailnews_using_mail.xhtml#replying_to_a_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Forwarding a Message" nc:link="mailnews_using_mail.xhtml#forwarding_a_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Confirming That Your Message Was Opened" nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Saving and Editing a Message Draft" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Saving and Editing a Draft Message" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_draft_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Creating and Using Templates" nc:link="mailnews_using_mail.xhtml#creating_and_using_templates" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -745,6 +744,7 @@
 <rdf:Description about="#cust-toolbar">
     <nc:subheadings>
       <rdf:Seq>
+        <rdf:li> <rdf:Description ID="cust-menu" nc:name="Menu Bar"  nc:link="customize_help.xhtml#menu_bar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-main" nc:name="Navigation Toolbar"  nc:link="customize_help.xhtml#navigation_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-personal" nc:name="Personal Toolbar"  nc:link="customize_help.xhtml#personal_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-status" nc:name="Status Bar"  nc:link="customize_help.xhtml#status_bar"/> </rdf:li>
