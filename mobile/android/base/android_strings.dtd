@@ -113,7 +113,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; টি ট্যাব">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
-<!ENTITY new_private_tab_opened "নতুন ব্যাক্তিগত ট্যাব খোলা হয়েছে">
+<!ENTITY new_private_tab_opened "নতুন ব্যক্তিগত ট্যাব খোলা হয়েছে">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -261,7 +261,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "পাতা লোড হওয়ার সময় রিমোট ফন্ট ডাউনলোড কর">
 
 <!ENTITY pref_tracking_protection_title2 "ট্র্যাকিং সুরক্ষা">
-<!ENTITY pref_tracking_protection_summary3 "ব্যাক্তিগত ব্রাউজিং এ সক্রিয় রয়েছে">
+<!ENTITY pref_tracking_protection_summary3 "ব্যক্তিগত ব্রাউজিং এ সক্রিয় রয়েছে">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবে না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -288,7 +288,7 @@
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
-<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যাক্তিগত গোপনীয়তা সেটিং এ যান">
+<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যক্তিগত গোপনীয়তা সেটিং এ যান">
 <!ENTITY tracking_protection_prompt_action_button "পেয়েছি!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
@@ -431,7 +431,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; হেলথ রিপোর্ট">
-<!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
+<!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউজারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডাটা শেয়ার করে যা ব্রাউজারের কার্যকারিতা অনুধাবন করতে আপনাকে সাহায্য করে">
 <!ENTITY datareporting_abouthr_title "আমার হেলথ রিপোর্ট দেখি">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও উন্নত করতে আমাদের সহযোগিতা করতে আপনার ব্রাউজারের কার্যকারিতা, ব্যবহার, হার্ডওয়্যার এবং কাস্টমাইজেশন সম্পর্কিত তথ্য &vendorShortName; এর সাথে শেয়ার করে">
@@ -440,7 +440,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ক্র্যাশ রিপোর্টার">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; লোকেশন সার্ভিস">
-<!ENTITY datareporting_wifi_geolocation_summary4 "সাহায্য করুন &vendorShortName; পৃথিবীকে ম্যাপ করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করুন আমাদের ভৈগোলিক অবস্থানের সার্ভিসকে সাহায্য করার জন্য।">
+<!ENTITY datareporting_wifi_geolocation_summary4 "পৃথিবীকে ম্যাপ করতে &vendorShortName; কে সাহায্য করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করে আমাদের জিওলোকেশন সার্ভিসকে উন্নত করতে সাহায্য করুন।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -469,7 +469,7 @@ size. -->
 <!ENTITY page "পাতা">
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
-<!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
+<!ENTITY new_private_tab "নতুন ব্যক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সব ট্যাব বন্ধ করুন">
 <!ENTITY close_private_tabs "ব্যক্তিগত ট্যাব বন্ধ করুন">
 <!ENTITY tabs_normal "ট্যাব">
@@ -492,8 +492,8 @@ size. -->
 <!ENTITY media_pause "বিরতি">
 <!ENTITY media_stop "থামুন">
 
-<!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
-<!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
+<!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খুলুন">
+<!ENTITY contextmenu_open_private_tab "ব্যক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "অপসারণ">
 <!ENTITY contextmenu_add_to_launcher "নীড় স্ক্রিনে যোগ করুন">
 <!ENTITY contextmenu_share "শেয়ার">
@@ -596,7 +596,7 @@ size. -->
 <!ENTITY home_most_recent_empty "সাম্প্রতিককালে আপনার দর্শন করা ওয়েবসাইট এখানে দেখাবে।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন ব্যাক্তিগত ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
+<!ENTITY home_most_recent_emptyhint2 "হুমম: &formatS1; ব্যবহার করলে নতুন ব্যক্তিগত ট্যাব &formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -759,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "এই লিঙ্কটি &formatS;-এ খুলবে। আপনি কি ব্যাক্তিগত ব্রাউজিং বন্ধ করবেন?">
+<!ENTITY intent_uri_private_browsing_prompt "এই লিঙ্কটি &formatS;-এ খুলবে। আপনি কি ব্যক্তিগত ব্রাউজিং বন্ধ করবেন?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -782,7 +782,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_addons_installation "অ্যাড-অন">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox এ বৈশিষ্ট্য বা কার্যকারিতা যোগ করুন। উল্লেখ্য: অ্যাড-অন কিছু নিষেধাজ্ঞা নিষ্ক্রিয় করতে পারে।">
-<!ENTITY restrictable_feature_private_browsing "ব্যাক্তিগত ব্রাউজিং">
+<!ENTITY restrictable_feature_private_browsing "ব্যক্তিগত ব্রাউজিং">
 <!ENTITY restrictable_feature_private_browsing_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য সংরক্ষণ ছাড়াই ব্রাউজ করতে দেয়।">
 <!ENTITY restrictable_feature_clear_history "ইতিহাস মুছে ফেলুন">
 <!ENTITY restrictable_feature_clear_history_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য মুছে ফেলতে দেয়।">
