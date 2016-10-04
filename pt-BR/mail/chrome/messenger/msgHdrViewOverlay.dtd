@@ -25,6 +25,7 @@
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquivar esta mensagem">
 <!ENTITY hdrOpenConversationButton1.label "Conversa">
+<!ENTITY hdrOpenConversationButton1.tooltip "Mostrar a conversa desta mensagem">
 <!ENTITY hdrSmartReplyButton1.label "Responder inteligente">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder ao remetente desta mensagem">
