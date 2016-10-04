@@ -44,7 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de Add-on-suggestie en updateservice, de veilig surfen functie of de locatiebewust navigeren notificatiefunctie) zijn standaard geactiveerd. Als u geen van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de locatiebewust navigeren notificatiefunctie) zijn standaard geactiveerd. Als u geen van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
 <!ENTITY rights3.webservices-b "hier">
 <!ENTITY rights3.webservices-c " vinden. Andere onderdelen en diensten kunnen worden in- of uitgeschakeld in de voorkeuren van de toepassing.">
 
@@ -58,7 +58,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Veilig surfen: ">
-<!ENTITY rights.safebrowsing-b "uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
+<!ENTITY rights.safebrowsing-b "uitschakelen van de dienst Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de dienst volledig wilt uitschakelen, volg dan de volgende stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer het hoofd &security.label;-paneel">
 <!ENTITY rights.safebrowsing-term3 "Vink de opties ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ uit">
