@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Alle gegevenstypen">
 <!ENTITY select.cookies.label "Alleen cookies">
 <!ENTITY select.permissions.label "Alleen toestemmingen">
-<!ENTITY select.permissionspwd.label "Alleen wachtwoordtoestemmingen">
 <!ENTITY select.preferences.label "Alleen voorkeuren">
 <!ENTITY select.passwords.label "Alleen wachtwoorden">
 <!ENTITY select.storage.label "Alleen opslag">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Toestemmingen">
-<!ENTITY tab.permissionspwd.label "Wachtwoordtoestemmingen">
 <!ENTITY tab.preferences.label "Voorkeuren">
 <!ENTITY tab.passwords.label "Wachtwoorden">
 <!ENTITY tab.storage.label "Opslag">
@@ -75,15 +73,6 @@
 <!ENTITY perm.host.placeholder "Voer een hostnaam in">
 <!ENTITY perm.button.add.label "Toevoegen">
 <!ENTITY perm.button.add.accesskey "T">
-
-<!-- password permissions -->
-<!ENTITY permpwd.UseDefault "Standaard gebruiken">
-<!ENTITY permpwd.AskAlways "Altijd vragen">
-<!ENTITY permpwd.NeverSave "Nooit opslaan">
-
-<!ENTITY permpwd.host.placeholder "Voer een hostnaam in">
-<!ENTITY permpwd.button.add.label "Toevoegen">
-<!ENTITY permpwd.button.add.accesskey "T">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Inhoudsvoorkeuren zijn een manier voor &brandShortName; om de instellingen voor een specifieke website op te slaan.">
@@ -154,8 +143,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Toestemmingen">
 <!ENTITY forget.permissions.accesskey "T">
-<!ENTITY forget.permissionspwd.label "Wachtwoordtoestemmingen">
-<!ENTITY forget.permissionspwd.accesskey "a">
 <!ENTITY forget.preferences.label "Inhoudsvoorkeuren">
 <!ENTITY forget.preferences.accesskey "I">
 <!ENTITY forget.passwords.label "Wachtwoorden">

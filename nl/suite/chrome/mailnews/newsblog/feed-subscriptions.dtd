@@ -30,8 +30,8 @@
 
 <!ENTITY button.addFeed.label        "Toevoegen">
 <!ENTITY button.addFeed.accesskey    "o">
-<!ENTITY button.editFeed.label       "Bijwerken">
-<!ENTITY button.editFeed.accesskey   "w">
+<!ENTITY button.updateFeed.label     "Bijwerken">
+<!ENTITY button.updateFeed.accesskey "w">
 <!ENTITY button.removeFeed.label     "Verwijderen">
 <!ENTITY button.removeFeed.accesskey "V">
 <!ENTITY button.importOPML.label     "Importeren">
