@@ -856,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "忘记最近：">
+<!ENTITY panicButton.view.mainTimeframeDesc       "忘掉最近：">
 <!ENTITY panicButton.view.5min                    "5 分钟">
 <!ENTITY panicButton.view.2hr                     "2 小时">
 <!ENTITY panicButton.view.day                     "24 小时">
@@ -872,10 +872,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.openNewWindow           "打开一个新的窗口">
 
 <!ENTITY panicButton.view.undoWarning             "此操作无法撤销。">
-<!ENTITY panicButton.view.forgetButton            "忘记吧！">
+<!ENTITY panicButton.view.forgetButton            "忘掉吧！">
 
 <!ENTITY panicButton.thankyou.msg1                "您近期的历史记录已清除。">
-<!ENTITY panicButton.thankyou.msg2                "享受安全的浏览吧！">
+<!ENTITY panicButton.thankyou.msg2                "享受安全的浏览体验吧！">
 <!ENTITY panicButton.thankyou.buttonlabel         "谢谢！">
 
 <!ENTITY emeLearnMoreContextMenu.label            "详细了解有关 DRM…">
