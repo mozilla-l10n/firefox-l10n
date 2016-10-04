@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Encaminhar">
 <!ENTITY fileButton.label "Mover">
 <!ENTITY archiveButton.label "Arquivar">
+<!ENTITY openConversationButton.label "Conversa">
 <!ENTITY nextButton.label "Próxima">
 <!ENTITY nextButtonToolbarItem.label "Próxima não lida">
 <!ENTITY nextMsgButton.label "Próxima">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
+<!ENTITY openConversationButton.tooltip "Mostrar a conversa das mensagens selecionadas">
 <!ENTITY nextButton.tooltip "Mover para próxima mensagem não lida">
 <!ENTITY nextMsgButton.tooltip "Mover para próxima mensagem">
 <!ENTITY previousButton.tooltip "Mover para mensagem anterior não lida">

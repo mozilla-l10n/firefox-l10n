@@ -30,6 +30,7 @@
 <!ENTITY button.addFeed.label        "Novo">
 <!ENTITY button.addFeed.accesskey    "N">
 <!ENTITY button.updateFeed.label     "Atualizar">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Remover">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Importar">
