@@ -44,13 +44,13 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de locatiebewust navigeren notificatiefunctie) zijn standaard geactiveerd. Als u geen van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de notificatiefunctie van de dienst Locatiebewust navigeren) zijn standaard geactiveerd. Als u een of meer van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
 <!ENTITY rights3.webservices-b "hier">
 <!ENTITY rights3.webservices-c " vinden. Andere onderdelen en diensten kunnen worden in- of uitgeschakeld in de voorkeuren van de toepassing.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Add-ondiensten: ">
-<!ENTITY rights.addons-b "standaard zal &brandShortName; add-ons op de &view.discover.label;-pagina voorstellen en periodiek controleren op updates. Als u de functie volledig wilt uitschakelen om informatie-uitwisseling over geïnstalleerde add-ons met de server te voorkomen, volg dan de volgende stappen:">
+<!ENTITY rights.addons-b "standaard zal &brandShortName; add-ons op de &view.discover.label;-pagina voorstellen en periodiek controleren op updates. Als u de functie volledig wilt uitschakelen om informatie-uitwisseling over geïnstalleerde add-ons met de server te voorkomen, volg dan deze stappen:">
 <!ENTITY rights.addons-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.addons-term2 "Selecteer in de &advance.label; categorie het &smart.label;-paneel ">
 <!ENTITY rights.addons-term3 "Vink de opties ‘&autoAddOnsUpdates.label;’ en ‘&enablePersonalized.label;’ uit">
@@ -58,7 +58,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Veilig surfen: ">
-<!ENTITY rights.safebrowsing-b "uitschakelen van de dienst Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de dienst volledig wilt uitschakelen, volg dan de volgende stappen:">
+<!ENTITY rights.safebrowsing-b "uitschakelen van de dienst Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de dienst volledig wilt uitschakelen, volg dan deze stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer het hoofd &security.label;-paneel">
 <!ENTITY rights.safebrowsing-term3 "Vink de opties ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ uit">
