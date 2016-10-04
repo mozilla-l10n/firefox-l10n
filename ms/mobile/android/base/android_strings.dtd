@@ -701,13 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Sentuh untuk memasang kemaskini sebaik sahaja dimuat turun">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk cuba lagi">
 
-<!ENTITY updater_apply_title2 "Kemas kini tersedia untuk &brandShortName;">
-<!ENTITY updater_apply_select2 "Sentuh untuk kemas kini">
+<!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
+<!ENTITY updater_apply_select2 "Sentuh untuk kemaskini">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Untuk memuat turun fail dan kemas kini, izinkan &brandShortName; kebenaran untuk mengakses storan.">
+<!ENTITY updater_permission_text "Untuk memuat turun fail dan kemaskini, izinkan &brandShortName; kebenaran untuk mengakses storan.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Izinkan">
 
@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
 <!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapus maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
-<!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tanda buku, mengembalikan semula tab dan kemas kini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
+<!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tanda buku, mengembalikan semula tab dan kemaskini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Izinkan ahli keluarga berkomunikasi dalam masa sebenar dalam laman web.">
 <!ENTITY restrictable_feature_block_list "Senarai Sekatan">
@@ -813,7 +813,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Maaf! &brandShortName; tidak dapat berfungsi pada peranti ini (&formatS1;, &formatS2;). Sila muat turun versi yang betul.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; tidak akan ada kemas kini lagi">
+<!ENTITY eol_notification_title2 "&brandShortName; tidak akan ada kemaskini lagi">
 <!ENTITY eol_notification_summary "Tap untuk ketahui selanjutnya">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
