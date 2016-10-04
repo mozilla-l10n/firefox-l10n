@@ -106,7 +106,7 @@
 <!ENTITY selectThreadCmd.label "Conversatie">
 <!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Berichten met ster"> 
+<!ENTITY selectFlaggedCmd.label "Berichten met ster">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Favoriete map">
 <!ENTITY menuFavoriteFolder.accesskey "F">
@@ -548,7 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Geselecteerde bericht doorsturen als bijlage">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht verplaatsen">
 <!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
-<!ENTITY openConversationButton.tooltip "Conversatie van geselecteerde bericht weergeven">
+<!ENTITY openConversationButton.tooltip "Conversatie van geselecteerde bericht tonen">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY nextMsgButton.tooltip "Naar het volgende bericht gaan">
 <!ENTITY previousButton.tooltip "Naar het vorige ongelezen bericht gaan">
@@ -826,7 +826,7 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
