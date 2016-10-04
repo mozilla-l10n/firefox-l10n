@@ -6,12 +6,12 @@
 <!ENTITY aboutPage.telemetryStart               " Menghantar maklumat prestasi, perkakasan, penggunaan dan penyesuaian secara automatik kembali ke ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " untuk membantu menjadikan &brandShortName; lebih baik.">
-<!ENTITY aboutPage.checkForUpdates.link         "Semak Kemas kini »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Mencari kemas kini…">
-<!ENTITY aboutPage.checkForUpdates.none         "Tiada kemas kini tersedia">
-<!ENTITY aboutPage.checkForUpdates.available2   "Muat turun kemas kini">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Memuat turun kemas kini…">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemas kini">
+<!ENTITY aboutPage.checkForUpdates.link         "Semak Kemaskini »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Mencari kemaskini…">
+<!ENTITY aboutPage.checkForUpdates.none         "Tiada kemaskini tersedia">
+<!ENTITY aboutPage.checkForUpdates.available2   "Muat turun kemaskini">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Memuat turun kemaskini…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemaskini">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Sokongan">
 <!ENTITY aboutPage.privacyPolicy.label          "Dasar Privasi">
