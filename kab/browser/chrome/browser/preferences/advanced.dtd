@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Imseddayen n unadi">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Lɣu-yid ticki asmel yebɣa ad ikles isefka i weseqdec arusrid">
+<!ENTITY offlineNotify.label             "Lɣu-yid ticki asmel yebɣa ad isekles isefka i useqdec arusrid">
 <!ENTITY offlineNotify.accesskey         "L">
 <!ENTITY offlineNotifyExceptions.label   "Tisuraf…">
 <!ENTITY offlineNotifyExceptions.accesskey "T">

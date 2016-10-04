@@ -24,7 +24,7 @@
 <!ENTITY  underlineLinks.label            "Derrer iseɣwan">
 <!ENTITY  underlineLinks.accesskey        "D">
 <!ENTITY  links                           "Initen n iseɣwan">
-<!ENTITY  linkColor.label                 "Iseɣwan ur iţwarzan ara:">
+<!ENTITY  linkColor.label                 "Iseɣwan ur yettwarzan ara:">
 <!ENTITY  linkColor.accesskey             "I">
-<!ENTITY  visitedLinkColor.label          "Iseɣwan iţwarzan:">
+<!ENTITY  visitedLinkColor.label          "Iseɣwan yettwarzan:">
 <!ENTITY  visitedLinkColor.accesskey      "s">
