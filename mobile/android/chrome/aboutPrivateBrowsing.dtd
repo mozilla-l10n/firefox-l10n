@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Anda tidak berada dalam Pelayaran Peribadi">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; menyekat sebahagian halaman yang mungkin menjejaki aktiviti pelayaran anda.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Kita tidak akan menyimpan sejarah, tetapi fail yang dimuat turun dan tanda buku baru akan masih disimpan pada peranti anda.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Kita tidak akan menyimpan sejarah, tetapi fail yang dimuat turun dan tandabuku baru akan masih disimpan pada peranti anda.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "Dalam Pelayaran Peribadi, kami tidak akan menyimpan sejarah atau kuki pelayaran anda. Tanda buku yang anda tambah atau fail yang dimuat turun masih disimpan pada peranti anda.">
+<!ENTITY privatebrowsingpage.description.normal2 "Dalam Pelayaran Peribadi, kami tidak akan menyimpan sejarah atau kuki pelayaran anda. Tandabuku yang anda tambah atau fail yang dimuat turun masih disimpan pada peranti anda.">
 
 <!ENTITY privatebrowsingpage.link.private "Mahu ketahui selanjutnya?">
 <!ENTITY privatebrowsingpage.link.normal "Buka tab peribadi baru">
