@@ -83,7 +83,7 @@
 <!ENTITY syncDeviceName.accesskey   "n">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Tanda buku">
+<!ENTITY engine.bookmarks.label     "Tandabuku">
 <!ENTITY engine.bookmarks.accesskey "b">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">

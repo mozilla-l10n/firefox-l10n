@@ -7,11 +7,11 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Tanda buku
-#define bookmarks_heading Tanda buku
+#define bookmarks_title Tandabuku
+#define bookmarks_heading Tandabuku
 
-#define bookmarks_toolbarfolder Folder Bar Alat Tanda buku
-#define bookmarks_toolbarfolder_description Tambah tanda buku ke folder ini supaya dipapar dalam Bar alat Tanda buku
+#define bookmarks_toolbarfolder Folder Bar Alat Tandabuku
+#define bookmarks_toolbarfolder_description Tambah tandabuku ke folder ini supaya dipapar dalam Bar alat Tandabuku
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

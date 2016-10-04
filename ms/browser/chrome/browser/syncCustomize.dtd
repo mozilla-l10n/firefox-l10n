@@ -13,7 +13,7 @@
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-<!ENTITY engine.bookmarks.label           "Tanda buku">
+<!ENTITY engine.bookmarks.label           "Tandabuku">
 <!ENTITY engine.bookmarks.accesskey       "T">
 <!ENTITY engine.history.label             "Sejarah">
 <!ENTITY engine.history.accesskey         "r">

@@ -12,9 +12,9 @@
 <!ENTITY tabs.context.openTab.accesskey               "B">
 <!ENTITY tabs.context.openMultipleTabs.label          "Buka Tab Yang Dipilih">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "n">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Tanda buku Tab Ini…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Tandabuku Tab Ini…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Tanda buku Tab Yang Dipilih...">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Tandabuku Tab Yang Dipilih…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
 <!ENTITY tabs.context.refreshList.label               "Muat Semula Senarai">
 <!ENTITY tabs.context.refreshList.accesskey           "R">

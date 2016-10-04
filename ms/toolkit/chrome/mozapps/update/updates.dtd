@@ -30,40 +30,40 @@
                                            kemaskini untuk &brandShortName; secepat mungkin.">
 
 <!ENTITY  downloadPage.title              "Memuat turun &brandShortName;">
-<!ENTITY  downloading.intro               "Memua turun kemas kini…">
-<!ENTITY  connecting.label                "Menyambung ke pelayan kemas kini…">
+<!ENTITY  downloading.intro               "Memua turun kemaskini…">
+<!ENTITY  connecting.label                "Menyambung ke pelayan kemaskini…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; tidak dapat mengesahkan integriti 
-                                           tokokan kemas kini yang dimuat turun, kini memuat turun
-                                           pakej kemas kini lengkap.">
+                                           tokokan kemaskini yang dimuat turun, kini memuat turun
+                                           pakej kemaskini lengkap.">
 
-<!ENTITY  viewDetails.tooltip             "Papar butiran kemas kini ini">
+<!ENTITY  viewDetails.tooltip             "Papar butiran kemaskini ini">
 
 <!ENTITY  details.link                    "Perincian">
 
-<!ENTITY  error.title                     "Kemas kini Gagal">
+<!ENTITY  error.title                     "Gagal Dikemaskini">
 
 <!ENTITY  error.label                     "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian ini. &brandShortName; tidak dapat dikemaskini disebabkan:">
                                            
-<!ENTITY  errorManual.label               "Anda boleh kemas kini &brandShortName; secara manual dengan melayari pautan ini
+<!ENTITY  errorManual.label               "Anda boleh kemaskini &brandShortName; secara manual dengan melayari pautan ini
                                            dan memuat turun versi terkini:">
                                            
-<!ENTITY  errorpatching.intro             "Sebahagian Kemas kini tidak dapat dilaksanakan. 
-                                           &brandShortName; akan cuba lagi dengan memuat turun Kemas kini lengkap.">
+<!ENTITY  errorpatching.intro             "Sebahagian Kemaskini tidak dapat dilaksanakan. 
+                                           &brandShortName; akan cuba lagi dengan memuat turun Kemaskini lengkap.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat menentukan samada kemas kini tersedia. Sila
+<!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat menentukan samada kemaskini tersedia. Sila
                                            pastikan anda menggunakan versi terkini &brandShortName; dari:">
 
-<!ENTITY  finishedPage.title              "Kemas kini Sedia Dipasang">
-<!ENTITY  finishedPage.text               "Kemas kini akan dipasang selepas &brandShortName; mula semula. Anda 
+<!ENTITY  finishedPage.title              "Kemaskini Sedia Dipasang">
+<!ENTITY  finishedPage.text               "Kemaskini akan dipasang selepas &brandShortName; mula semula. Anda 
                                            boleh mula semula &brandShortName; sekarang, atau terus mengunakannya dan mula semula kemudian.">
 
-<!ENTITY  finishedBackgroundPage.text     "Kemas kini keselamatan dan kestabilan untuk &brandShortName; telah
+<!ENTITY  finishedBackgroundPage.text     "Kemaskini keselamatan dan kestabilan untuk &brandShortName; telah
                                            dimuat turun dan sedia untuk dipasang.">
-<!ENTITY  finishedBackground.name         "Kemas kini:">
+<!ENTITY  finishedBackground.name         "Kemaskini:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Kemas kini akan dipasang apabila &brandShortName; mula semula. Anda
+<!ENTITY  finishedBackground.more         "Kemaskini akan dipasang apabila &brandShortName; mula semula. Anda
                                            boleh mula semula &brandShortName; sekarang, atau teruskan dan mula semula nanti.">
-<!ENTITY  finishedBackground.moreElevated "Kemas kini ini memerlukan keizinan pentadbir. Kemas kini akan 
+<!ENTITY  finishedBackground.moreElevated "Kemaskini ini memerlukan keizinan pentadbir. Kemaskini akan 
                                            dipasang apabila &brandShortName; bermula. Anda boleh mulakan semula 
                                            &brandShortName; sekarang, teruskan bekerja dan memulakan semula kemudian, atau menolak 
                                            pengemaskinian ini.">

@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasi Laman:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Papar semua folder tanda buku">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Papar semua folder tandabuku">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sembunyi">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tag:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Kata kunci:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Papar semua tag">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Muatkan tanda buku ini ke dalam bar sisi">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Muatkan tandabuku ini ke dalam bar sisi">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "e">
 <!ENTITY editBookmarkOverlay.choose.label                    "Pilih…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Folder Baru">

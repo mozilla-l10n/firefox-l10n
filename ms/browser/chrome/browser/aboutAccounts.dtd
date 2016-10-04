@@ -5,7 +5,7 @@
 <!ENTITY aboutAccounts.welcome "Selamat Datang ke &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "Akaun berjaya dihubungkan">
 
-<!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab, tanda buku, kata laluan &amp; serta ciri yang lain.">
+<!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab, tandabuku, kata laluan &amp; serta ciri yang lain.">
 <!ENTITY aboutAccountsConfig.startButton.label "Mari mulakan">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Anda menggunakan Sync versi lama?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync keutamaan">
