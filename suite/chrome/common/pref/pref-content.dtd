@@ -10,7 +10,7 @@
 <!ENTITY siteIcons.label                        "Websitepictogrammen">
 <!ENTITY useSiteIcons.label                     "Websitepictogrammen tonen">
 <!ENTITY useSiteIcons.accesskey                 "W">
-<!ENTITY useFavIcons2.label                     "Probeer de favicon van de server te gebruiken als de pagina er geen definieert">
+<!ENTITY useFavIcons2.label                     "De favicon van de server proberen te gebruiken als de pagina er geen definieert">
 <!ENTITY useFavIcons2.accesskey                 "P">
 
 <!ENTITY scrolling.label                        "Scrollen">
