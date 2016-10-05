@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 " శోధన">
+<!ENTITY search.label                 "శోధన ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
@@ -551,7 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయుము">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "దృశ్య  స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyVideoURLCmd.label        "దృశ్య స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -871,7 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>టాబ్లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయి">
 <!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండో తెరువుము">
 
-<!ENTITY panicButton.view.undoWarning             "ఈ చర్యని  చేసినతర్వాత పూర్వస్థితి తెప్పించలేము.">
+<!ENTITY panicButton.view.undoWarning             "ఈ చర్యని చేసినతర్వాత పూర్వస్థితి తెప్పించలేము.">
 <!ENTITY panicButton.view.forgetButton            "మర్చిపో!">
 
 <!ENTITY panicButton.thankyou.msg1                "ఇటీవలి మీ చరిత్ర తుడిచివేయబడింది.">
