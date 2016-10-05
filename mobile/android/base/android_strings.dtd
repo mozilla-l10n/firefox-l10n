@@ -462,7 +462,7 @@ size. -->
 <!ENTITY share "Споделяне">
 <!ENTITY share_title "Споделяне чрез">
 <!ENTITY share_image_failed "Изображението не може да бъде споделено">
-<!ENTITY save_as_pdf "Запис като PDF">
+<!ENTITY save_as_pdf "Запазване като PDF">
 <!ENTITY print "Отпечатване">
 <!ENTITY find_in_page "Търсене в страницата">
 <!ENTITY desktop_mode "Настолна версия на сайта">
