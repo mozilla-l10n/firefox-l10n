@@ -30,3 +30,7 @@
 <!ENTITY manageCerts2.accesskey "Z">
 <!ENTITY manageDevices.label "Urządzenia zabezpieczające">
 <!ENTITY manageDevices.accesskey "U">
+
+<!ENTITY certPicker.title "Wybierz certyfikat">
+<!ENTITY certPicker.info "Certyfikat:">
+<!ENTITY certPicker.detailsLabel "Szczegóły wybranego certyfikatu:">
