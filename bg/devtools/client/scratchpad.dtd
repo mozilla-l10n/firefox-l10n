@@ -29,15 +29,15 @@
 <!ENTITY newWindowCmd.accesskey       "Н">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Отваряне на файл…">
+<!ENTITY openFileCmd.label            "Отваряне…">
 <!ENTITY openFileCmd.accesskey        "О">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Отваряне на скорошни">
 <!ENTITY openRecentMenu.accesskey     "с">
 
-<!ENTITY revertCmd.label              "Обръщане…">
-<!ENTITY revertCmd.accesskey          "щ">
+<!ENTITY revertCmd.label              "Възстановяване…">
+<!ENTITY revertCmd.accesskey          "В">
 
 <!ENTITY saveFileCmd.label            "Запазване">
 <!ENTITY saveFileCmd.accesskey        "З">
@@ -78,7 +78,7 @@
 <!ENTITY editMenu.label               "Редактиране">
 <!ENTITY editMenu.accesskey           "Р">
 
-<!ENTITY run.label                    "Пускане">
+<!ENTITY run.label                    "Изпълняване">
 <!ENTITY run.accesskey                "П">
 <!ENTITY run.key                      "r">
 
@@ -90,7 +90,7 @@
 <!ENTITY display.accesskey            "П">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Украсено отпечатване">
+<!ENTITY pprint.label                 "Подреждане на кода">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "У">
 
