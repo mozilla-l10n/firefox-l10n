@@ -53,8 +53,8 @@
 <!ENTITY viewMenu.label               "Изглед">
 <!ENTITY viewMenu.accesskey           "И">
 
-<!ENTITY lineNumbers.label             "Показване на номерата на редовете">
-<!ENTITY lineNumbers.accesskey         "н">
+<!ENTITY lineNumbers.label             "Номерирани редове">
+<!ENTITY lineNumbers.accesskey         "Н">
 
 <!ENTITY wordWrap.label                "Пренасяне на текста">
 <!ENTITY wordWrap.accesskey            "П">
