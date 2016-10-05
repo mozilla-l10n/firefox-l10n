@@ -5,8 +5,10 @@
 <!ENTITY toField4.label "A">
 <!ENTITY fromField4.label "Da">
 <!ENTITY senderField4.label "Mittente">
+<!ENTITY author.label "Autore">
 <!ENTITY organizationField4.label "Organizzazione">
 <!ENTITY replyToField4.label "Rispondi-a">
+
 <!ENTITY subjectField4.label "Oggetto">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Ccn">
@@ -19,8 +21,11 @@
 <!ENTITY messageIdField4.label "ID del Messaggio">
 <!ENTITY inReplyToField4.label "In risposta a">
 <!ENTITY originalWebsite4.label "Sito Web">
+
 <!ENTITY hdrArchiveButton1.label "Archivia">
 <!ENTITY hdrArchiveButton1.tooltip "Archivia questo messaggio">
+<!ENTITY hdrOpenConversationButton1.label "Conversazione">
+<!ENTITY hdrOpenConversationButton1.tooltip "Visualizza conversazione di questo messaggio">
 <!ENTITY hdrSmartReplyButton1.label "Risposta veloce">
 <!ENTITY hdrReplyButton1.label "Rispondi">
 <!ENTITY hdrReplyButton2.tooltip "Rispondere al mittente del messaggio">
@@ -37,6 +42,7 @@
 <!ENTITY hdrJunkButton1.tooltip "Segna questo messaggio indesiderato">
 <!ENTITY hdrTrashButton1.label "Elimina">
 <!ENTITY hdrTrashButton1.tooltip "Elimina questo messaggio">
+
 <!ENTITY hdrViewToolbarShowFull.label "Visualizza icone e testo">
 <!ENTITY hdrViewToolbarShowFull.accesskey "z">
 <!ENTITY hdrViewToolbarShowIcons.label "Visualizza solo icone">
@@ -45,6 +51,7 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Visualizza sempre Rispondi al mittente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
 <!ENTITY otherActionsButton2.label "Altro">
 <!ENTITY otherActionsButton.tooltip "Altre azioni">
 <!ENTITY otherActionsOpenConversation1.label "Apri nella conversazione">
@@ -63,31 +70,40 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Stampa…">
 <!ENTITY otherActionsPrint1.accesskey "S">
-<!ENTITY startExpandedCmd.label "Mostrare il pannello degli allegati dall'inizio">
-<!ENTITY startExpandedCmd.accesskey "M">
-<!ENTITY openAttachmentCmd.label "Apri">
-<!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Salva come…">
-<!ENTITY saveAsAttachmentCmd.accesskey "v">
-<!ENTITY detachAttachmentCmd.label "Separa…">
-<!ENTITY detachAttachmentCmd.accesskey "p">
-<!ENTITY deleteAttachmentCmd.label "Elimina">
-<!ENTITY deleteAttachmentCmd.accesskey "e">
-<!ENTITY openAllAttachmentsCmd.label "Apri tutti…">
-<!ENTITY openAllAttachmentsCmd.accesskey "A">
-<!ENTITY saveAllAttachmentsCmd.label "Salva tutti…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "t">
-<!ENTITY detachAllAttachmentsCmd.label "Separa tutto…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "S">
-<!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Mostrare il pannello degli allegati dall'inizio">
+<!ENTITY startExpandedCmd.accesskey    "M">
+
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Apri">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Salva come…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "v">
+<!ENTITY detachAttachmentCmd.label    "Separa…">
+<!ENTITY detachAttachmentCmd.accesskey    "p">
+<!ENTITY deleteAttachmentCmd.label    "Elimina">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "Apri tutti…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "A">
+<!ENTITY saveAllAttachmentsCmd.label    "Salva tutti…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "t">
+<!ENTITY detachAllAttachmentsCmd.label    "Separa tutto…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "S">
+<!ENTITY deleteAllAttachmentsCmd.label    "Elimina tutti…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
 <!ENTITY openAttachment.tooltip "Apri il file allegato">
-<!ENTITY saveAttachmentButton1.label "Salva">
-<!ENTITY saveAttachmentButton1.tooltip "Salva il file allegato">
-<!ENTITY saveAllAttachmentsButton1.label "Salva tutto">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Salva">
+<!ENTITY saveAttachmentButton1.tooltip     "Salva il file allegato">
+<!ENTITY saveAllAttachmentsButton1.label   "Salva tutto">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Salva tutti gli allegati">
-<!ENTITY copyLinkCmd.label "Copia link">
-<!ENTITY copyLinkCmd.accesskey "C">
+
+<!ENTITY copyLinkCmd.label        "Copia link">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
 <!ENTITY CopyMessageId.label "Copiare l'identificativo del messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Apri il messaggio con questo ID">
