@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "লিঙ্ক">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ট্যাব কিউ চালু করুন">
-<!ENTITY firstrun_tabqueue_subtext_off "অন্য অ্যাপে থাকাকালীন কোন লিংক ট্যাপ করে তা পরবর্তীতে ব্যবহারের জন্য &brandShortName; এ সংরক্ষণ করুন।">
+<!ENTITY firstrun_tabqueue_subtext_off "অন্য অ্যাপে থাকাকালীন কোন লিঙ্ক ট্যাপ করে তা পরবর্তীতে ব্যবহারের জন্য &brandShortName; এ সংরক্ষণ করুন।">
 
 <!ENTITY firstrun_tabqueue_message_on "সফল!">
 <!ENTITY firstrun_tabqueue_subtext_on "আপনি যেকোন সময় &pref_category_general; এর আওতায় &settings; থেকে এটি বন্ধ করতে পারবেন।">
@@ -383,11 +383,11 @@ size. -->
 <!ENTITY pref_sync2 "সাইন ইন">
 <!ENTITY pref_sync_summary2 "আপনার ট্যাব, বুকমার্ক, লগইন, ইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
-<!ENTITY pref_history_search_suggestions "অনুসন্ধানের ইতিহাস দেখাও">
+<!ENTITY pref_history_search_suggestions "অনুসন্ধান ইতিহাস দেখাও">
 <!ENTITY pref_import_options "ইম্পোর্ট অপশন">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
 <!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
-<!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
+<!ENTITY pref_private_data_searchHistory "অনুসন্ধান ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
 <!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগইন">
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "চালিয়ে যান">
 <!ENTITY guest_session_dialog_cancel "বাতিল">
 <!ENTITY new_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
-<!ENTITY new_guest_session_text2 "যে ব্যাক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্ক)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
+<!ENTITY new_guest_session_text2 "যে ব্যক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্ক)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
 <!ENTITY guest_browsing_notification_text "প্রস্থান করতে ট্যাপ করুন">
 
