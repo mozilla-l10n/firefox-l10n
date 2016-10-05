@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+
+
+<!ENTITY performanceUI.bufferStatusTooltip "Amaɣnay yesseklas imedyaten di tkatut n uḥraz tuwnist, ticki takatut teččuṛ, imedyaten imaynuten ad sfeɛjen asekles si tazwara.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
@@ -39,7 +43,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "Acercur">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Isken-d timhalin iseqdac wuminig di lawan n usekles, atan ttwaskenen-d s wudem ulkim am ucercur">
 <!ENTITY performanceUI.toolbar.js-calltree "Aseklu n usiwel">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ad isebṛu req tiwuriwin Javascript anida iminig yettawi deqs n wakud deg usekles.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Isnasen">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Tesekanay anda tettwakren takatut di lawan usekles.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Udlif JS">
