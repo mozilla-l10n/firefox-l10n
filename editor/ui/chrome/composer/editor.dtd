@@ -9,37 +9,43 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
 <!ENTITY previewToolbarCmd.label "Шолу">
-
+<!ENTITY previewToolbarCmd.tooltip "Бұл парақты браузерде жүктеу">
 <!-- File menu items -->
 
-
-
-
-
+<!ENTITY exportToTextCmd.label "Мәтінге экспорттау…">
+<!ENTITY exportToTextCmd.accesskey "к">
+<!ENTITY previewCmd.label "Парақты шолу">
+<!ENTITY previewCmd.accesskey "ш">
+<!ENTITY sendPageCmd.label "Парақты жіберу…">
+<!ENTITY sendPageCmd.accesskey "б">
 <!-- View menu items -->
 
-
-
+<!ENTITY formattingToolbarCmd.label "Пішімдеу саймандар панелі">
+<!ENTITY formattingToolbarCmd.accesskey "П">
 
 
 <!-- Format menu items -->
 
+<!ENTITY formatMenu.label "Пішім">
+<!ENTITY formatMenu.accesskey "ш">
 
 
 
 
 <!-- Tools menu items -->
 
+<!ENTITY validateCmd.label "HTML тексеру">
+<!ENTITY validateCmd.accesskey "т">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Қалыпты">
 
 
 
-
-
-
-
+<!ENTITY AllTagsModeTab.label "HTML тегтері">
+<!ENTITY AllTagsMode.label "HTML тегтері">
+<!ENTITY AllTagsMode.accesskey "е">
+<!ENTITY AllTagsMode.tooltip "Барлық HTML тегтері үшін таңбашаларды көрсету">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -47,9 +53,9 @@
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Бастапқы коды">
-
-
-
+<!ENTITY HTMLSourceMode.label "HTML бастапқы коды">
+<!ENTITY HTMLSourceMode.accesskey "а">
+<!ENTITY HTMLSourceMode.tooltip "Бастапқы HTML кодын түзету">
 <!ENTITY PreviewModeTab.label "Алдын-ала қарау">
 <!ENTITY PreviewMode.label "Карап-шығу">
 <!ENTITY PreviewMode.accesskey "К">

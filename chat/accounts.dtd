@@ -17,7 +17,7 @@
 <!ENTITY accountManager.close.commandkey     "к">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Бапталған тіркелгілер жоқ">
-
+<!ENTITY accountManager.noAccount.description "&brandShortName; үшін сізге тіркелгіні баптауға көмектесу үшін &accountManager.newAccount.label; батырмасына басыңыз.">
 <!ENTITY account.autoSignOn.label     "Іске қосылған кезде кіру">
 <!ENTITY account.autoSignOn.accesskey "к">
 <!ENTITY account.connect.label        "Байланысу">
@@ -30,12 +30,12 @@
 <!ENTITY account.edit.accesskey       "а">
 <!ENTITY account.moveup.label         "Жоғары жылжыту">
 <!ENTITY account.movedown.label       "Төмен жылжыту">
-
-
-
-
-
-
-
-
-
+<!ENTITY account.cancelReconnection.label         "Қайта байланысудан бас тарту">
+<!ENTITY account.cancelReconnection.accesskey     "с">
+<!ENTITY account.copyDebugLog.label     "Жөндеу журналын көшіріп алу">
+<!ENTITY account.copyDebugLog.accesskey "к">
+<!ENTITY account.showDebugLog.label     "Жөндеу журналын көрсету">
+<!ENTITY account.showDebugLog.accesskey "с">
+<!ENTITY account.connecting           "Байланысу…">
+<!ENTITY account.disconnecting        "Байланысты үзу…">
+<!ENTITY account.disconnected         "Байланыспаған">
