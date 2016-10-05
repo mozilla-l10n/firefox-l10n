@@ -54,7 +54,7 @@
 
 <!ENTITY performanceUI.table.totalDuration            "Asemday n wakud">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Akud yezrin di twuri agi yakk di tigad imumi tsawel.">
-
+<!ENTITY performanceUI.table.selfDuration             "Man-ukud ">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Akud yezrin kan di twuri agi.">
 <!ENTITY performanceUI.table.totalPercentage          "Asamday n tesqamt">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri agi yakk di tigad imumi tsawel.">
