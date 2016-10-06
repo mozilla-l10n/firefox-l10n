@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Daha fazla bilgi al">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Çökme raporları, &vendorShortName;’nın sorunları gidermesini, tarayıcınızı daha güvenilir ve güvenli hale getirmesini sağlar">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; geriye dönük çökme raporlarını benim adıma gönderebilir">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
@@ -92,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey    "A">
 
-<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde bana bildir">
+<!ENTITY offlineNotify.label             "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
 <!ENTITY offlineNotify.accesskey         "v">
 <!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
 <!ENTITY offlineNotifyExceptions.accesskey "c">
