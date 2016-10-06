@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ر">
 <!ENTITY cmd.removeFromHistory.label      "سابقات سے ہٹائیں">
 <!ENTITY cmd.removeFromHistory.accesskey  "ہ">
-
-
+<!ENTITY cmd.clearList2.label             "صاف پیش نظارہ پینل">
+<!ENTITY cmd.clearList2.accesskey         "ف">
 <!ENTITY cmd.clearDownloads.label         "ڈاؤن لوڈ خالی کریں">
 <!ENTITY cmd.clearDownloads.accesskey     "ڈ">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
