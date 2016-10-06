@@ -280,8 +280,10 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Özel sekmeler">
-
+<!ENTITY pref_custom_tabs_summary "Üçüncü parti uygulamaların URL’leri özelleştirilmiş bir görünümle açmasına izin ver.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "Etkinlik Akışı">
 
 
 <!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Eşitlenmiş sekmeler">
 
 <!ENTITY pref_default_browser "Varsayılan tarayıcı yap">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Destek’i ziyaret et">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_vendor_faqs "SSS">
 <!ENTITY pref_vendor_feedback "Geri bildirim gönder">
@@ -568,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Temizle">
 <!ENTITY button_copy "Kopyala">
 
+<!ENTITY home_top_sites_title "Önemli Siteler">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Site ekle">
@@ -584,7 +587,7 @@ size. -->
 <!ENTITY home_clear_history_button "Tarama geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
-
+<!ENTITY home_closed_tabs_title2 "Son kapatılan">
 <!ENTITY home_last_tabs_empty "Son sekmeleriniz burada görünür.">
 <!ENTITY home_restore_all "Tümünü geri yükle">
 <!ENTITY home_closed_tabs_number "&formatD; sekme">
@@ -825,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Çevrimdışı okumak istediğiniz Okuyucu Görünümü öğelerini yer imlerine ekleyin.">
 <!ENTITY helper_triple_readerview_open_button "Yer imlerine git">
 
-
+<!ENTITY activity_stream_topsites "Önemli Siteler">
+<!ENTITY activity_stream_highlights "Anılar">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Devamı">
