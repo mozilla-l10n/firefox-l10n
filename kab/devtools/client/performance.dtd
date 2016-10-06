@@ -63,7 +63,7 @@
 <!ENTITY performanceUI.table.samples                  "Imadyaten">
 <!ENTITY performanceUI.table.samples.tooltip          "Amḍan n tikal anda tawuri agi tella di tnebdant makken amaɣnay yeṭṭef-d amadya.">
 <!ENTITY performanceUI.table.function                 "Tawuri">
-
+<!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
 
 
 
