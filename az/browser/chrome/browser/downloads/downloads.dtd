@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Bütün endirmələri göstər">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY openDownloadsFolder.label       "Endirmələr Qovluğunu Aç">
 
 <!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">
