@@ -44,9 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de notificatiefunctie van de dienst Locatiebewust navigeren) zijn standaard geactiveerd. Als u een of meer van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de notificatiefunctie van de dienst Locatiebewust navigeren) zijn standaard geactiveerd. Als u een of meer van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u ">
 <!ENTITY rights3.webservices-b "hier">
-<!ENTITY rights3.webservices-c " vinden. Andere onderdelen en diensten kunnen worden in- of uitgeschakeld in de voorkeuren van de toepassing.">
+<!ENTITY rights3.webservices-c " instructies over het uitschakelen van een bepaalde functie of dienst vinden.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Add-ondiensten: ">
