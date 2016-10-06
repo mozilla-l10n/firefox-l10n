@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Pelajari Lebih Lanjut">
 
+<!ENTITY crashReporterDesc2.label         "Laporan kerusakan membantu &vendorShortName; memperbaiki masalah dan membuat peramban Anda lebih stabil dan aman">
+<!ENTITY alwaysSubmitCrashReports.label   "Izinkan &brandShortName; mengirim laporan kerusakan backlogged atas nama Anda">
+<!ENTITY alwaysSubmitCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label     "Pelajari Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Jaringan">
