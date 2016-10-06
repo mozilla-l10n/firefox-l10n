@@ -209,8 +209,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "செய்தி பலகத்தை திறக்கவும்">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "இடம் கோரும் பலகத்தை திறக்கவும்">
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "இணைப்பில்லா சேமிப்பு செய்தி பலகத்தைத் திற">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "செருகி பயன்பாட்டை நிர்வகி">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று">
