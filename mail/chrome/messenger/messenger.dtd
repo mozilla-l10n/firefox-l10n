@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Проследи">
 <!ENTITY fileButton.label "Датотека">
 <!ENTITY archiveButton.label "Архивирај">
+<!ENTITY openConversationButton.label "Разговор">
 <!ENTITY nextButton.label "Следеће">
 <!ENTITY nextButtonToolbarItem.label "Следећа непрочитана">
 <!ENTITY nextMsgButton.label "Следећа">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Проследи изабрану поруку као прилог">
 <!ENTITY fileButton.tooltip "Сачувај изабрану поруку">
 <!ENTITY archiveButton.tooltip "Архивирај изабране поруке">
+<!ENTITY openConversationButton.tooltip "Прикажи разговор у изабраној поруци">
 <!ENTITY nextButton.tooltip "Иди на следећу непрочитану поруку">
 <!ENTITY nextMsgButton.tooltip "Иди на следећу поруку">
 <!ENTITY previousButton.tooltip "Иди на претходну непрочитану поруку">
