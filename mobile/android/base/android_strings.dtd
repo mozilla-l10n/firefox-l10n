@@ -179,9 +179,9 @@
 <!ENTITY pref_category_datareporting "তথ্য পছন্দ">
 <!ENTITY pref_category_logins "লগইন">
 <!ENTITY pref_learn_more "আরও জানুন">
-<!ENTITY pref_category_installed_search_engines "ইন্সটলকৃত সার্চ ইঞ্জিন">
-<!ENTITY pref_category_add_search_providers "আরও সার্চসেবা প্রদানকারী যোগ করুন">
-<!ENTITY pref_category_search_restore_defaults "সার্চ ইঞ্জিন পুনরুদ্ধার করুন">
+<!ENTITY pref_category_installed_search_engines "ইন্সটলকৃত অনুসন্ধান ইঞ্জিন">
+<!ENTITY pref_category_add_search_providers "আরও অনুসন্ধান সেবা প্রদানকারী যোগ করুন">
+<!ENTITY pref_category_search_restore_defaults "অনুসন্ধান ইঞ্জিন পুনরুদ্ধার করুন">
 <!ENTITY pref_search_restore_defaults "ডিফল্ট পুনরুদ্ধার করুন">
 <!ENTITY pref_search_restore_defaults_summary "ডিফল্ট পুনরুদ্ধার করুন">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_dialog_default "ডিফল্ট">
 <!ENTITY pref_dialog_remove "মুছে ফেলুন">
 
-<!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ সার্চ ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
+<!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ অনুসন্ধান ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
 
 <!ENTITY pref_panels_show "প্রদর্শন করুন">
 <!ENTITY pref_panels_hide "আড়াল">
@@ -506,7 +506,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা">
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
 <!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
-<!ENTITY contextmenu_add_search_engine "একটি সার্চ ইঞ্জিন যোগ করুন">
+<!ENTITY contextmenu_add_search_engine "অনুসন্ধান ইঞ্জিন যোগ করুন">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -622,7 +622,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার নীড় পাতায় একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
 <!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
 
-<!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
+<!ENTITY pin_site_dialog_hint "অনুসন্ধানের জন্য শব্দ দিন">
 
 <!ENTITY filepicker_title "ফাইল নির্বাচন করুন">
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
