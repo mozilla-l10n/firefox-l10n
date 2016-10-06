@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sayt haqidagi ma’lumotni ko‘rish">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Xabar panelini ochish">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Joylashuvni so‘rash panelini ochish">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Qo‘shimcha dastur o‘rnatish xabari panelini ochish">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Xabarlarni oflayn saqlash panelini ochish">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolni saqlash xabari panelini ochish">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plaginlarni boshqarishdan foydalanilmoqda">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Saytdan eslatma olish imkoniyatini o‘zgartirish">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Oynalar yoki ekranni sayt bilan bo‘lishishni boshqarish">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Xabarni o‘rnatish panelini ochish">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bu sahifa tarjima qilish">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sahifani tarjima qilishi boshqarish">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM dasturidan foydalanishni boshqarish">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt uchun kamerani bloklab qo‘ygansiz.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt uchun mikrofonni bloklab qo‘ygansiz.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt uchun joylashuv ma’lumotini bloklab qo‘ygansiz.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt uchun ma’lumotlarni saqlashni bloklab qo‘ygansiz.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu saytdan bildirishnomalarni olishni bloklab qo‘ygansiz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Masshtabni asl holiga tiklash">
 
 <!ENTITY searchItem.title             "Izlash">
 <!-- Toolbar items --> 
@@ -452,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Qidiruv sozlamalarini o‘zgartirish">
-
+<!ENTITY changeSearchSettings.tooltip "Qidiruv sozlamalarini o‘zgartirish">
 
 <!ENTITY searchInNewTab.label         "Yangi ichki oynadan qidirish">
 <!ENTITY searchInNewTab.accesskey     "i">
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ruxsatlar">
 <!ENTITY identity.permissionsEmpty "Bu saytga hech qanday maxsus ruxsat bermagansiz.">
-
+<!ENTITY identity.permissionsReloadHint "O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
