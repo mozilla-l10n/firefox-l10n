@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "За">
 <!ENTITY fromField4.label "Од">
 <!ENTITY senderField4.label "Пошиљалац">
+<!ENTITY author.label "Писац">
 <!ENTITY organizationField4.label "Организација">
 <!ENTITY replyToField4.label "Одговор за">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивирај">
 <!ENTITY hdrArchiveButton1.tooltip "Архивирај ову поруку">
+<!ENTITY hdrOpenConversationButton1.label "Разговор">
+<!ENTITY hdrOpenConversationButton1.tooltip "Прикажи разговор унутар ове поруке">
 <!ENTITY hdrSmartReplyButton1.label "Паметно одговори">
 <!ENTITY hdrReplyButton1.label "Одговори">
 <!ENTITY hdrReplyButton2.tooltip "Одговори пошиљаоцу ове поруке">
