@@ -110,8 +110,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ইমেল অথবা পাসওয়ার্ড বৈধ নয়">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ইমেল অথবা পাসওয়ার্ড বৈধ নয়">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "অ্যাকাউন্ট যাচাই করা হয়নি">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "সার্ভার ব্যস্ত, শীঘ্রই আবার চেস্টা করুন">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "সার্ভার ব্যস্ত, শীঘ্রই আবার চেস্টা করুন">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "সার্ভার ব্যস্ত, শীঘ্রই আবার চেষ্টা করুন">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "সার্ভার ব্যস্ত, শীঘ্রই আবার চেষ্টা করুন">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "একটি সমস্যা আছে">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "অ্যাকাউন্ট লক হয়ে গেছে। &formatS1;">
 

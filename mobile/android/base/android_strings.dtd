@@ -382,7 +382,7 @@ size. -->
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_sync2 "সাইন ইন">
 <!ENTITY pref_sync_summary2 "আপনার ট্যাব, বুকমার্ক, লগইন, ইতিহাস সিঙ্ক করুন">
-<!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
+<!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_history_search_suggestions "অনুসন্ধান ইতিহাস দেখাও">
 <!ENTITY pref_import_options "ইম্পোর্ট অপশন">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
@@ -409,7 +409,7 @@ size. -->
 
 <!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ অনুসন্ধান ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
 
-<!ENTITY pref_panels_show "প্রদর্শন করুন">
+<!ENTITY pref_panels_show "দেখাও">
 <!ENTITY pref_panels_hide "আড়াল">
 <!ENTITY pref_panels_reorder "ক্রম পরিবর্তন করুন">
 <!ENTITY pref_panels_move_up "উপরে উঠান">
@@ -497,7 +497,7 @@ size. -->
 <!ENTITY contextmenu_remove "অপসারণ">
 <!ENTITY contextmenu_add_to_launcher "নীড় স্ক্রিনে যোগ করুন">
 <!ENTITY contextmenu_share "শেয়ার">
-<!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
+<!ENTITY contextmenu_pasteandgo "প্রতিলেপন ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করুন">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
