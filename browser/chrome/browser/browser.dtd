@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Допълнителни инструменти и възможности">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
-<!ENTITY customizeMode.restoreDefaults "Връщане до стандартни настройки">
+<!ENTITY customizeMode.restoreDefaults "Връщане на стандартни настройки">
 <!ENTITY customizeMode.toolbars "Показване / скриване на ленти с инструменти">
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
 <!ENTITY customizeMode.lwthemes "Теми">
