@@ -195,8 +195,11 @@
 <!ENTITY wifi_auth_yes_scanner "Ɣur-k afentay akken ad tesnirmeḍ tangalt QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-
+<!ENTITY wifi_auth_token_request "Ma yella ibenk niḍḍen yessuter ajiṭun deg umdiq n tengalt QR, nɣel ma ulac aɣilif, azal n daw-a ɣer yibenk nniḍen.">
+<!ENTITY wifi_auth_qr_size_note "Ma yella tangalt QR meẓẓiyeḍ i tuqqna akken ad tettwag akken iwata, ɛreḍ asemɣeṛ neɣ asihrew n usfaylu.">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Iɣmisen n tludna n ukmas uzwir">
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "Iɣewwaṛen n serwas">
@@ -210,6 +213,6 @@
 <!ENTITY simulator_device "Allal">
 <!ENTITY simulator_screenSize "Agdil">
 <!ENTITY simulator_pixelRatio "Afmiḍi n ipiksilen">
-
+<!ENTITY simulator_tv_data "TV Simulation">
 <!ENTITY simulator_tv_data_open "Isefka n uswel">
 <!ENTITY simulator_tv_data_open_button "Ldi akaram n uswel…">
