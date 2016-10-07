@@ -166,7 +166,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
+<!ENTITY overlay_no_synced_devices "Firefox ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary2 "డిఫాల్ట్ గా సెట్ చెయ్యండి, ప్రదర్శన సూచనలను జోడించండి">
@@ -781,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "యాడ్-ఆన్స్‍">
-<!ENTITY restrictable_feature_addons_installation_description "ఫైర్ఫాక్స్ లక్షణాలు లేదా కార్యాచరణ జోడించండి. గమనిక: ఆడ్డన్స్ నిర్దిష్ట పరిమితులను నిలిపివేయవచ్చు.">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox లక్షణాలు లేదా కార్యాచరణ జోడించండి. గమనిక: ఆడ్డన్స్ నిర్దిష్ట పరిమితులను నిలిపివేయవచ్చు.">
 <!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
 <!ENTITY restrictable_feature_private_browsing_description "కుటుంబ సభ్యులు వారు సందర్శించిన సైట్లు మరియు పేజీల గురించి సమాచారాన్ని సేవ్ చేయకుండా బ్రౌజ్ చేయడానికి అనుమతిస్తుంది.">
 <!ENTITY restrictable_feature_clear_history "చరిత్రను క్లియర్ చేయి">
@@ -795,13 +795,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "ఫైర్ఫాక్స్: మీ బ్రౌజర్ గురించి">
+<!ENTITY bookmarks_about_browser "Firefox: మీ బ్రౌజర్ గురించి">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "ఫైర్ఫాక్సు: యాడాన్లతో అభిమతీకరించుకోండి">
+<!ENTITY bookmarks_addons "Firefox: యాడాన్లతో అభిమతీకరించుకోండి">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "ఫైర్‌ఫాక్స్: మద్దత్తు">
+<!ENTITY bookmarks_support "Firefox: మద్దత్తు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "ఫైర్ఫాక్స్ సహాయం మరియు ఆండ్రాయిడ్ టాబ్లెట్లలో పరిమితం ప్రొఫైల్స్ మద్దతు">
+<!ENTITY bookmarks_restricted_support2 "Firefox సహాయం మరియు Android టాబ్లెట్లలో పరిమితం ప్రొఫైల్స్ మద్దతు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "వెబ్ గురించి నేర్చుకోండి: మొజిల్లా ఆధారితం వెబ్ మేకర్">
 

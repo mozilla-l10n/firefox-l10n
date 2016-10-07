@@ -4,8 +4,8 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "ఫైర్‌ఫాక్స్ సింక్">
-<!ENTITY syncBrand.shortName.label "సింక్">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; కు అనుసంధానమవ్వు'>
@@ -65,7 +65,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; ఖాతాలు వద్ద “ఆటో-సింక్ డేటా” ఎంచుకోండి.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'మీ కొత్త ఫైర్‌ఫాక్స్ ఖాతా లోనికి ప్రవేశించడానికి తాకండి.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'మీ కొత్త Firefox ఖాతా లోనికి ప్రవేశించడానికి తాకండి.'>
 <!ENTITY fxaccount_status_bookmarks 'బుక్‌మార్కులు'>
 <!ENTITY fxaccount_status_history 'చరిత్ర'>
 <!ENTITY fxaccount_status_passwords2 'లాగిన్ లు'>
@@ -80,17 +80,17 @@
 <!ENTITY fxaccount_status_more 'మరిన్ని&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'డిస్కనెక్ట్&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'ఫైర్‌ఫాక్స్ ఖాతాను తొలగించాలా?'>
+<!ENTITY fxaccount_remove_account_dialog_title 'Firefox ఖాతాను తొలగించాలా?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; మీ ఖాతాతో సింక్ అవ్వడాన్ని ఆపుతుంది, కానీ ఈ పరికరంపైని మీ విహారణ డేటాను తొలగించదు.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.'>
+<!ENTITY fxaccount_remove_account_toast 'Firefox ఖాతా &formatS; తొలగించబడింది.'>
 
 <!ENTITY fxaccount_enable_debug_mode 'డీబగ్ రీతి ప్రారంభించు'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label 'ఫైర్‌ఫాక్స్'>
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
@@ -103,7 +103,7 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'మీరు ఫైర్‌ఫాక్స్‌ను నవీకరించుకోవాలి'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'మీరు Firefox ను నవీకరించుకోవాలి'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ఖాతా ఇప్పటికే ఉంది. &formatS1;'>
