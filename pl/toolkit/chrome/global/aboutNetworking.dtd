@@ -36,6 +36,8 @@
 <!ENTITY aboutNetworking.currentLogModules "Moduły:">
 <!ENTITY aboutNetworking.setLogFile "Ustaw jako plik dziennika">
 <!ENTITY aboutNetworking.setLogModules "Wybierz moduły">
+<!ENTITY aboutNetworking.startLogging "Rozpocznij zapisywanie">
+<!ENTITY aboutNetworking.stopLogging "Zatrzymaj zapisywanie">
 
 <!ENTITY aboutNetworking.dnsLookup "Przeszukiwanie DNS">
 <!ENTITY aboutNetworking.dnsLookupButton "Wyszukaj">
