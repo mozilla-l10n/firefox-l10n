@@ -16,10 +16,10 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; ">
-<!ENTITY rights.intro-point1b "మీకు మొజిల్లా పబ్లిక్ లైసెన్సు షరతుల ద్వారా మీకు అందజేయబడుతుంది.">
-<!ENTITY rights.intro-point1c "మీరు &brandShortName; ను వాడుకొనుట, నకలు చేయుట, ఇతరులకు ఇచ్చుట చేయవచ్చు.  &brandShortName; మూలపు కోడ్ ని మీ అవసరాలకొరకు మార్చవచ్చు. మొజిల్లా పబ్లిక్ లైసెన్సు ఇలా మార్చిన వాటిని ఇతరులకు ఇచ్చే హక్కుని మీకు ఇస్తుంది.">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". మీరు &brandShortName; ను వాడుకొనుట, నకలు చేయుట, ఇతరులకు ఇచ్చుట చేయవచ్చు.  &brandShortName; మూలపు కోడ్ ని మీ అవసరాలకొరకు మార్చవచ్చు. Mozilla పబ్లిక్ లైసెన్సు ఇలా మార్చిన వాటిని ఇతరులకు ఇచ్చే హక్కుని మీకు ఇస్తుంది.">
 
-<!ENTITY rights.intro-point2-a "మొజిల్లా సంస్థ లేదా యే యితర పార్టీ యొక్క లైసెన్సులను లేదా వ్యాపార గుర్తులపై, ఫైర్‌ఫాక్స్ పేరు లేదా చిహ్నముపై మీకు యెటువంటి వ్యాపారగుర్తు హక్కులను యిచ్చుటలేదు. వ్యాపారచిహ్నాలగురించి మరింత  సమాచారం ">
+<!ENTITY rights.intro-point2-a "Mozilla సంస్థ లేదా యే యితర పార్టీ యొక్క లైసెన్సులను లేదా వ్యాపార గుర్తులపై, Firefox పేరు లేదా చిహ్నముపై మీకు యెటువంటి వ్యాపారగుర్తు హక్కులను యిచ్చుటలేదు. వ్యాపారచిహ్నాలగురించి మరింత సమాచారం ">
 <!ENTITY rights.intro-point2-b "యిక్కడ చూడవచ్చు">
 <!ENTITY rights.intro-point2-c ".">
 
