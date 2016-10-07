@@ -13,7 +13,7 @@
 <!ENTITY aboutPage.checkForUpdates.downloading  "হালনাগাদ ডাউনলোড করা হচ্ছে... ">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "হালনাগাদ ইনস্টল করুন">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "সমর্থন">
+<!ENTITY aboutPage.support.label                "সাপোর্ট">
 <!ENTITY aboutPage.privacyPolicy.label          "গোপনীয়তা নীতিমালা">
 <!ENTITY aboutPage.rights.label                 "আপনার অধিকার জানুন">
 <!ENTITY aboutPage.relNotes.label               "প্রকাশের বিবরণ">
