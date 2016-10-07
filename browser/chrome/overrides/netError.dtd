@@ -93,7 +93,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 
-<!ENTITY errorReporting.automatic2 "ఈ లోపాలు వంటి రిపోర్ట్ మొజిల్లా గుర్తించడానికి సహాయంగా మరియు హానికరమైన సైట్లను బ్లాక్ చేస్తుంది">
+<!ENTITY errorReporting.automatic2 "ఈ లోపాలు వంటి రిపోర్ట్ Mozilla గుర్తించడానికి సహాయంగా మరియు హానికరమైన సైట్లను బ్లాక్ చేస్తుంది">
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
