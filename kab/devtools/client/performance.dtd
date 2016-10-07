@@ -66,7 +66,7 @@
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
 <!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍanasemday  n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
-
+<!ENTITY performanceUI.table.selfAlloc                "Iḥerriyen isemdayen">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -97,10 +97,12 @@
   -  should be displayed. -->
 
 <!ENTITY performanceUI.showJITOptimizations             "Sken asefrer JIT">
-
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Wali JIT, isefka n usefrer n tukkist di yal akatar JavaScript.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+
+<!ENTITY performanceUI.flattenTreeRecursion             "Lebbeḍ aseklu n usniles">
 <!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Aplatir Arbre Recursion">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
