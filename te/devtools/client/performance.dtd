@@ -18,12 +18,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "రియల్ టైమ్ డేటా రికార్డింగ్ మల్టిప్రాసెస్ ఫైర్ఫాక్స్ లో నిలిపివేయబడింది.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "రియల్ టైమ్ డేటా రికార్డింగ్ మల్టిప్రాసెస్ Firefox లో నిలిపివేయబడింది.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "రియల్ టైమ్ రికార్డింగ్ డేటా రెండరింగ్ కోసం అభిరుచులలో బహుళ విధానాలను ఫైర్ఫాక్స్ ప్రారంభించును.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "రియల్ టైమ్ రికార్డింగ్ డేటా రెండరింగ్ కోసం అభిరుచులలో బహుళ విధానాలను Firefox ప్రారంభించును.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
