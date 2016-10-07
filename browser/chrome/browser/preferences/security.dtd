@@ -16,7 +16,8 @@
 
 
 
-
+<!ENTITY  blockUncommonUnwanted.label     "मुझे अनचाहे एवं असामान्य सॉफ्टवेर के बारे में चेतावनी दें">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "अपवाद…">
 <!ENTITY  addonExceptions.accesskey     "E">
