@@ -48,7 +48,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Tesekanay anda tettwakren takatut di lawan usekles.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Udlif JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Teskanay tanebdant usiwel n JavaScrupt di lawan usekles">
-
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Idlifen n uḥraz">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -58,14 +58,14 @@
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Akud yezrin kan di twuri agi.">
 <!ENTITY performanceUI.table.totalPercentage          "Asamday n tesqamt">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri agi yakk di tigad imumi tsawel.">
-
+<!ENTITY performanceUI.table.selfPercentage           "Tasqamt tasuft">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Afmiḍi n wakud yezrin di twuri agi.">
 <!ENTITY performanceUI.table.samples                  "Imadyaten">
 <!ENTITY performanceUI.table.samples.tooltip          "Amḍan n tikal anda tawuri agi tella di tnebdant makken amaɣnay yeṭṭef-d amadya.">
 <!ENTITY performanceUI.table.function                 "Tawuri">
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
-
-
+<!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍanasemday  n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
 
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
