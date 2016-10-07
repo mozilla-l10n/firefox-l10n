@@ -398,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
 <!ENTITY pref_default_browser "డీఫాల్ట్ బ్రౌజర్ గా చేయండి">
-<!ENTITY pref_default_browser_mozilla_support_tablet "మొజిల్లా మద్దతు సందర్శించండి">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla మద్దతు సందర్శించండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
 <!ENTITY pref_vendor_feedback "అభిప్రాయాన్ని తెలియజేయండి">
@@ -803,7 +803,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox సహాయం మరియు Android టాబ్లెట్లలో పరిమితం ప్రొఫైల్స్ మద్దతు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "వెబ్ గురించి నేర్చుకోండి: మొజిల్లా ఆధారితం వెబ్ మేకర్">
+<!ENTITY bookmarks_restricted_webmaker "వెబ్ గురించి నేర్చుకోండి: Mozilla ఆధారితం Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
