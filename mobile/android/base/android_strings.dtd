@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "துடை">
 <!ENTITY button_copy "நகலெடு">
 
+<!ENTITY home_top_sites_title "பார்த்தவை">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ஒரு இணையத்தளத்தை சேர்">
@@ -827,6 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "இணைப்பின்றி படிக்க வாசிப்பு பார்வை உருப்படிகளை புத்தகக்குறியிடு.">
 <!ENTITY helper_triple_readerview_open_button "புத்தக்குறிகளில் சேர்">
 
+<!ENTITY activity_stream_topsites "பார்த்தவை">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "மேலும்">
