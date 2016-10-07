@@ -38,8 +38,8 @@
 <!ENTITY isDefault.label                  "&brandShortName; ప్రస్తుతం మీ అప్రమేయ విహారిణి">
 <!ENTITY isNotDefault.label               "&brandShortName; ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు">
 
-<!ENTITY separateProfileMode.label        "&brandShortName;నీ ఫైర్‌ఫాక్స్‌నీ ఒకేసారి నడుపుకునేలా అనుమతించు">
-<!ENTITY useFirefoxSync.label             "చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి సింక్‌ను వాడండి.">
+<!ENTITY separateProfileMode.label        "&brandShortName;ని మరియు Firefox ని అనుమతించి ఒకేసారి నడుపవచ్చును">
+<!ENTITY useFirefoxSync.label             "చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి Syncను వాడండి.">
 <!ENTITY getStarted.label                 "సింక్‌ను వాడటం మొదలుపెట్టండి…">
 
 <!ENTITY e10sEnabled.label                "మల్టీ-ప్రోసెస్ &brandShortName; చేతనించు">
