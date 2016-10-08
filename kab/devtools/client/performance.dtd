@@ -48,7 +48,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Tesekanay anda tettwakren takatut di lawan usekles.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Udlif JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Teskanay tanebdant usiwel n JavaScrupt di lawan usekles">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Idlifen n uḥraz">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Idlifen n uḥeṛṛi ">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
