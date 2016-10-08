@@ -7,9 +7,9 @@
 
 <!ENTITY treehead.sitename.label      "Lloc web">
 <!ENTITY treehead.status.label        "Estat">
-<!ENTITY removepermission.label       "Suprimeix el lloc web">
-<!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Suprimeix tots els llocs web">
+<!ENTITY removepermission.label       "Suprimeix el lloc">
+<!ENTITY removepermission.accesskey   "r">
+<!ENTITY removeallpermissions.label   "Suprimeix tots els llocs">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Adreça del lloc web:">
 <!ENTITY address.accesskey            "d">
@@ -24,5 +24,5 @@
 <!ENTITY button.cancel.label          "Cancel·la">
 <!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Desa els canvis">
-<!ENTITY button.ok.accesskey          "D">
+<!ENTITY button.ok.accesskey          "s">
 
