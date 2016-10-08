@@ -10,7 +10,9 @@
 
 <!ENTITY aboutTelemetry.uploadDisabled "Asali n isefka FHR <span>itturemed</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Asekles n tilisɣelt ɣuzzifen <span>yermed</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Asekles n tilisɣelt ɣuzzifen <span>ur yermid ara</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Aɣbalu n isefka n Ping:">
 
@@ -20,6 +22,7 @@
 
 <!ENTITY aboutTelemetry.pingDataDisplay "Askan n isefka n Ping:">
 
+<!ENTITY aboutTelemetry.structured "Yettusemkes">
 
 <!ENTITY aboutTelemetry.raw "Izirig JSON">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping aqbuṛ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Isefka ping irewwayen…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Dduṛt">
 
@@ -48,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Asewḥel n tinelli n uselken">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Afesnan">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Imazrudlifen">
 
@@ -67,9 +72,14 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (ulac isefk d iţugemren)">
 
+<!ENTITY aboutTelemetry.fullSqlWarning "  Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.">
 
+<!ENTITY aboutTelemetry.fetchSymbols "  Awi-d ismawen n twuriwin i tnebdanin n usewḥel">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Sken isefka irewwayen n isewḥal">
 
+<!ENTITY aboutTelemetry.filterText "  Zizdeg (izriren n isekkilen neɣ tinfaliyin tiluganin)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "   Payload">
 
+<!ENTITY aboutTelemetry.rawPayload "   Payload arewway">
