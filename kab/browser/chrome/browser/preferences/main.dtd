@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "D">
 <!ENTITY startupHomePage.label     "Sken asebtar-iw agejdan">
 <!ENTITY startupBlankPage.label    "Sken asebtar ilem">
-<!ENTITY startupLastSession.label  "Sken iccaren ineggura ed isfuyla iţusqedcen">
+<!ENTITY startupLastSession.label  "Sken iccaren ineggura akked isfuyla yettusqedcen">
 
 <!ENTITY homepage.label            "Asebtar agejdan:">
 <!ENTITY homepage.accesskey        "A">

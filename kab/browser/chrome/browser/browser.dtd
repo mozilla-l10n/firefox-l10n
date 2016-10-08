@@ -233,12 +233,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Wennez aswir n zoom">
+<!ENTITY urlbar.zoomReset.tooltip     "Wennez aswir n usemɣeṛ/asemẓi">
 
 <!ENTITY searchItem.title             "Nadi">
 <!-- Toolbar items --> 
 
-<!ENTITY homeButton.label             "Asebtar agejdan">
+<!ENTITY homeButton.label             "Asebter agejdan">
 
 <!ENTITY bookmarksButton.label          "Ticraḍ n isebtar">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -509,14 +509,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "S">
 <!ENTITY setDesktopBackgroundCmd.label      "Fren tugna n ugilal...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "F">
-<!ENTITY bookmarkPageCmd2.label       "Creḍ asebtar agi">
+<!ENTITY bookmarkPageCmd2.label       "Creḍ asebter agi">
 <!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen agi">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar agi">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebtar…">
 <!ENTITY emailPageCmd.accesskey       "A">
-<!ENTITY savePageCmd.label            "Kles Asebtar di...">
+<!ENTITY savePageCmd.label            "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey        "l">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
@@ -617,15 +617,15 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom ɣer Zdat">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "o">
+<!ENTITY fullZoomEnlargeCmd.label       "Semɣeṛ">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom ɣer deffir">
-<!ENTITY fullZoomReduceCmd.accesskey    "Z">
+<!ENTITY fullZoomReduceCmd.label        "Semẓi">
+<!ENTITY fullZoomReduceCmd.accesskey    "S">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -634,10 +634,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoomi aḍris kan">
-<!ENTITY fullZoomToggleCmd.accesskey    "Z">
-<!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoomToggleCmd.label        "Semɣer kan aḍris">
+<!ENTITY fullZoomToggleCmd.accesskey    "S">
+<!ENTITY fullZoom.label                 "Semɣeṛ">
+<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mdel agalis adisan">
 
@@ -699,16 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
-<!ENTITY identity.connectionFile "Asebtar agi yettwakles deg uselkim inek.">
+<!ENTITY identity.connectionFile "Asebter agi yettwakles deg uselkim inek.">
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel agi, iselkem sɣuṛ:">
-<!ENTITY identity.connectionInternal "Wagi d-asebtar &brandShortName; aɣelsan.">
+<!ENTITY identity.connectionInternal "Wagi d-asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel agi, ad ttwakren.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d inelnanen deg usebtar agi.">
 <!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebtar agi d iraɣelsanen (am tugniwin).">
 <!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebtar agi.">
-<!ENTITY identity.weakEncryption "Asebtar agi iseqdac awgelhen meẓẓiyen">
+<!ENTITY identity.weakEncryption "Asebter agi iseqdac awgelhen meẓẓiyen">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Tuqqna yinek ɣer usmel agi mačči tusligt.Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, art.). ">
@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "d">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ldi deg usfaylu uslig amaynut">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "L">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Creḍ asebtar agi…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Creḍ asebter agi…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "C">
 <!ENTITY syncedTabs.context.copy.label                       "Nɣel">
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">

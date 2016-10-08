@@ -49,11 +49,11 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Rmed/Sens amẓrag ">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "Zoom ɣer zdat">
+<!ENTITY viewMenu_zoomin_label "Semɣeṛ">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Zoom ɣer deffir">
+<!ENTITY viewMenu_zoomout_label "Semẓi">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Wennez aswir n zoom">
+<!ENTITY viewMenu_resetzoom_label "Wennez aswir n usemɣer/asemẓi">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ldi asnas">
