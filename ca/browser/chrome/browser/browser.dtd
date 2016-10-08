@@ -667,8 +667,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editeu les preferències del blocatge d'emergents…">
-<!ENTITY editPopupSettings.label "Editeu les opcions del blocatge d'emergents…">
+<!ENTITY editPopupSettingsUnix.label "Edita les preferències de blocatge de finestres emergents…">
+<!ENTITY editPopupSettings.label "Edita les opcions de blocatge de finestres emergents…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "n">
 
