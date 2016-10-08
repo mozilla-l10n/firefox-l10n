@@ -209,16 +209,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mesaj panelini aç">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mövqe sorğusu panelini aç">
-
-
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Əlavə quraşdırma mesaj panelini aç">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Oflayn saxlama mesaj panelini aç">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolu saxlama mesaj panelini aç">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Qoşma istifadəsini idarə et">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Saytdan bildiriş alıb alamayacağınızı dəyişdirin">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera və/və ya mikrofonu saytla paylaşmağınızı idarə edin">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonu saytla paylaşmağınızı idarə edin">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Pəncərə və ya ekranları saytla paylaşmağınızı idarə edin">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Quraşdırma mesaj panelini aç">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bu səhifəni tərcümə et">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Səhifə tərcüməsini idarə et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM proqramının istifadəsini idarə et">
