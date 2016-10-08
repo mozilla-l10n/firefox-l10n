@@ -12,8 +12,8 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-<!ENTITY translation.thisPageIsIn.label         "Asebtar agi atan di">
-<!ENTITY translation.translateThisPage.label    "Suqel asebtar agi?">
+<!ENTITY translation.thisPageIsIn.label         "Asebter agi yella di">
+<!ENTITY translation.translateThisPage.label    "Suqel asebter agi?">
 <!ENTITY translation.translate.button           "Suqel">
 <!ENTITY translation.notNow.button              "Ticki">
 
@@ -34,11 +34,11 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "Asebtar agi iţusuqel-ed si">
+<!ENTITY translation.translatedFrom.label       "Asebter agi yettusuqel-d si">
 <!ENTITY translation.translatedTo.label         "to">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Sken asebtar aɣbalu">
+<!ENTITY translation.showOriginal.button        "Sken asebter aneẓli">
 <!ENTITY translation.showTranslation.button     "Sken tasuqilt">
 
 <!ENTITY translation.errorTranslating.label     "Tuccḍa di tsuqilt n usebtar agi.">

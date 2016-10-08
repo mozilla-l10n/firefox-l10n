@@ -6,11 +6,11 @@
 
 <!ENTITY startupPage.label         "Di tnekra n &brandShortName;:">
 <!ENTITY startupPage.accesskey     "D">
-<!ENTITY startupHomePage.label     "Sken asebtar-iw agejdan">
-<!ENTITY startupBlankPage.label    "Sken asebtar ilem">
+<!ENTITY startupHomePage.label     "Sken asebter-iw agejdan">
+<!ENTITY startupBlankPage.label    "Sken asebter ilem">
 <!ENTITY startupLastSession.label  "Sken iccaren ineggura akked isfuyla yettusqedcen">
 
-<!ENTITY homepage.label            "Asebtar agejdan:">
+<!ENTITY homepage.label            "Asebter agejdan:">
 <!ENTITY homepage.accesskey        "A">
 <!ENTITY useCurrentPage.label      "Asebtar amiran">
 <!ENTITY useCurrentPage.accesskey  "s">

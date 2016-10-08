@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Snifel initen d iţunefken deg asebtar s wid ifernen nig-a:">
+<!ENTITY  overridePageColors.label        "Snifel initen i d-ittunefken deg asebter s wid yettwafernen nig-a:">
 <!ENTITY  overridePageColors.accesskey    "S">
 
 <!ENTITY  overridePageColors.always.label "Yal tikelt">

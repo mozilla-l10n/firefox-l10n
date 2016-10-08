@@ -28,7 +28,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.</li></ul>">
 
 <!ENTITY generic.title "Tuţra ur tezmir ara aţaweḍ">
-<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebtar agi.</p>">
+<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter agi.</p>">
 
 <!ENTITY malformedURI.title "Tansa agi ţarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
@@ -63,7 +63,7 @@
 <!ENTITY proxyResolveFailure.title "Aqeddac aseɣẓan agrayan ulac-it">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrayan ma llan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim inek t-ţeddu.</li> <li>Ma yella aselkim inek neɣ aẓeṭṭa inek iţummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Asebtar ur iwehi ara akken iwata">
+<!ENTITY redirectLoop.title "Asebter ur iwehi ara akken iwata">
 <!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekk-ad seg urermed neɣ tuggin n inagan n tuqqna.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara">
