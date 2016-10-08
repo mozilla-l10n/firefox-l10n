@@ -81,7 +81,7 @@
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
 
-<!ENTITY options.context.triggersPageRefresh  "*I tɣimit agi, ad isali tikelt nniḍen asebtar">
+<!ENTITY options.context.triggersPageRefresh  "* Tiɣimit agi, ad isali tikelt nniḍen asebter">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
