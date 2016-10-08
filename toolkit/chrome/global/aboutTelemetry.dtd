@@ -31,6 +31,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  بيانات عامة">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  بيانات البيئة">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  سجل تليمتري">
 
@@ -47,7 +48,7 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  قياسات بسيطة">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  تفاصيل الملحقة">
+<!ENTITY aboutTelemetry.addonDetailsSection "  تفاصيل الإضافة">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  كتابات متأخرّة">
 
