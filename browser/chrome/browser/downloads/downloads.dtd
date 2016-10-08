@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Siyahıdan sil">
 <!ENTITY cmd.removeFromHistory.accesskey  "S">
-
-
+<!ENTITY cmd.clearList2.label             "Ön baxış panelini təmizlə">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Yüklənənləri təmizlə">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
