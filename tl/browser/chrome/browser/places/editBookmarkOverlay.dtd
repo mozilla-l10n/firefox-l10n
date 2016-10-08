@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editBookmarkOverlay.name.label                      "Name:">
+<!ENTITY editBookmarkOverlay.name.label                      "Pangalan:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Lokasyon:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
@@ -12,17 +12,9 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ipakita ang Lahat ng mga Bookmark Folder">
-
-
-
-
 <!ENTITY editBookmarkOverlay.description.label               "Description:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
-
-
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ipakita ang lahat ng tags">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "I-load ang bookmark na ito sa sidebar">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
 <!ENTITY editBookmarkOverlay.choose.label                    "Mamili">
-
-
