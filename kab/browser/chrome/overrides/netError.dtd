@@ -70,7 +70,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur tedda ara">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebtar agi i tebɣiḍ aţwaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed  tasestebt n isefka d-itturemsen</li><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna yinek d taraɣelsant">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -84,7 +84,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebtar agi acku tasertit n tɣellist n ugbur ur ţ-iǧǧi ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebtar agi i tebɣiḍ aţwaliḍ ur yizmir ara ad iţwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">

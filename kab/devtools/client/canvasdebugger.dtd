@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
 
-<!ENTITY canvasDebuggerUI.reloadNotice2   "Asebtar n useɣti n yemnaḍen &lt;abeckil&gt;.">
+<!ENTITY canvasDebuggerUI.reloadNotice2   "Asebter n useɣti n yemnaḍen &lt;abeckil&gt;.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
