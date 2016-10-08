@@ -19,5 +19,5 @@
 <!ENTITY paneAdvanced.title       "متقدم">
 <!ENTITY paneAccount.title        "الحسابات">
 
-<!ENTITY okButton.title           "موافق">
-<!ENTITY okButton.accesskey       "م">
+<!ENTITY okButton.title           "حسنا">
+<!ENTITY okButton.accesskey       "ح">
