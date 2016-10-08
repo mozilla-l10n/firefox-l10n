@@ -22,3 +22,5 @@
 <!ENTITY shaderEditorUI.reloadNotice2   "الصفحة لتحرر كود GLSL.">
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
+
+<!ENTITY shaderEditorUI.emptyNotice     "ينتظر إنشاء سياق WebGL…">
