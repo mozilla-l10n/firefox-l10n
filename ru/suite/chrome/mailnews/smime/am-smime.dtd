@@ -29,3 +29,6 @@
 <!ENTITY manageCerts2.accesskey "п">
 <!ENTITY manageDevices.label "Управление устройствами…">
 <!ENTITY manageDevices.accesskey "р">
+<!ENTITY certPicker.title "Выбор сертификата">
+<!ENTITY certPicker.info "Сертификат:">
+<!ENTITY certPicker.detailsLabel "Информация о выбранном сертификате:">

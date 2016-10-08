@@ -56,6 +56,8 @@
 <!ENTITY aboutTelemetry.scalarsSection "
   Скаляры
 ">
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Скаляры ключей">
 <!ENTITY aboutTelemetry.histogramsSection "
    Гистограммы ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
