@@ -28,6 +28,7 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "Blocchi del browser">
 <!ENTITY aboutTelemetry.threadHangStatsSection "Blocchi dei thread">
 <!ENTITY aboutTelemetry.scalarsSection "Scalari">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Scalari con chiave">
 <!ENTITY aboutTelemetry.histogramsSection "Istogrammi">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Istogrammi con chiave">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazioni semplici">
