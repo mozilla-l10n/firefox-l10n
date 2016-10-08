@@ -207,7 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sayt məlumatlarını gör">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mesaj panelini aç">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mövqe sorğusu panelini aç">
 
 
 
