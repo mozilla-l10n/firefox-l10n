@@ -171,7 +171,7 @@
 <!ENTITY pref_category_search3 "Nadi">
 <!ENTITY pref_category_search_summary2 "Rnu, Sbadu d amezwer, sken isumar">
 <!ENTITY pref_category_accessibility "Tuffart">
-<!ENTITY pref_category_accessibility_summary2 "Tzɣzi n uḍris, zoom, anekcam n taɣect">
+<!ENTITY pref_category_accessibility_summary2 "Teɣzi n uḍris, asemɣeṛ/Asemẓi, anekcam n taɣect">
 <!ENTITY pref_category_privacy_short "Tabaḍnit">
 <!ENTITY pref_category_privacy_summary4 "Asfuɣel, anekcum, afran n isefka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -372,7 +372,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
-<!ENTITY pref_zoom_force_enabled "Rmad yal tikelt zoom">
+<!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣeṛ/asemẓi">
 <!ENTITY pref_zoom_force_enabled_summary "Ɛeddi iɣewwaṛen akken ad tezmireḍ ad tesmeɣreḍ neɣ ad tsemẓiyeḍ isebtar">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
 <!ENTITY pref_voice_input_summary2 "Sireg asuter s taɣect deg ufeggag n tensa URL">
