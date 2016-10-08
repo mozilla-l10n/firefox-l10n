@@ -35,6 +35,8 @@
 <!ENTITY aboutNetworking.currentLogModules "Текущие модули журнала:">
 <!ENTITY aboutNetworking.setLogFile "Указать файл журнала">
 <!ENTITY aboutNetworking.setLogModules "Указать модули журнала">
+<!ENTITY aboutNetworking.startLogging "Начать ведение журнала">
+<!ENTITY aboutNetworking.stopLogging "Остановить ведение журнала">
 <!ENTITY aboutNetworking.dnsLookup "Запрос DNS">
 <!ENTITY aboutNetworking.dnsLookupButton "Запросить">
 <!ENTITY aboutNetworking.dnsDomain "Домен">
