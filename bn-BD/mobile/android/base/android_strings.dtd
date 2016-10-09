@@ -67,13 +67,13 @@
 
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_remove "বুকমার্ক মুছে ফেলুন">
-<!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
+<!ENTITY bookmark_added "বুকমার্ক যোগ হয়েছে">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "বুকমার্ক করা আছে">
-<!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
-<!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
+<!ENTITY bookmark_removed "বুকমার্ক অপসারণ হয়েছে">
+<!ENTITY bookmark_updated "বুকমার্ক আপডেট হয়েছে">
 <!ENTITY bookmark_options "অপশন">
 <!ENTITY screenshot_added_to_bookmarks "স্ক্রিনশট বুকমার্কে যুক্ত হয়েছে">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -385,7 +385,7 @@ size. -->
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_history_search_suggestions "অনুসন্ধান ইতিহাস দেখাও">
 <!ENTITY pref_import_options "ইম্পোর্ট অপশন">
-<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
+<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধান ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
@@ -668,9 +668,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
 
 <!ENTITY bookmarkhistory_button_import "ইম্পোর্ট">
-<!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)ইম্পোর্ট করুন">
-<!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক ইম্পোর্ট করুন">
-<!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাসইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_both "Android থেকে বুকমার্ক এবং ইতিহাস ইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_bookmarks "Android থেকে বুকমার্ক ইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
 
 <!ENTITY suggestions_prompt3 "আপনি কি অনুসন্ধান পরামর্শ সক্রিয় করতে চান?">
@@ -687,7 +687,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS1; এ &formatS2; এর জন্য খোঁজ করুন">
 
-<!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
+<!ENTITY searchable_description "বুকমার্ক ও ইতিহাস">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName; এর জন্য হালনাগাদ বিদ্যমান">
