@@ -44,8 +44,8 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.accesskey          "j">
 <!ENTITY  sendPageToDevice.label             "Moɲoo sanba jinaa ga">
 <!ENTITY  sendPageToDevice.accesskey         "j">
-
-
+<!ENTITY  sendLinkToDevice.label             "Dobu sanba jinaa do">
+<!ENTITY  sendLinkToDevice.accesskey         "j">
 <!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
 <!ENTITY  moveToNewWindow.accesskey          "z">
 <!ENTITY  bookmarkAllTabs.label              "Kanjey kul šilbay…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Kanjey kul cebe">
 <!ENTITY showAllTabsCmd.accesskey "K">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Huru &syncBrand.shortName.label; ra">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ibaayey feeri">
