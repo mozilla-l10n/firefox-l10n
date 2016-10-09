@@ -399,7 +399,7 @@ size. -->
 
 <!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার করুন">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
-<!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
+<!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
 
