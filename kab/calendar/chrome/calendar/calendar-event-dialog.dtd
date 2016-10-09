@@ -103,31 +103,32 @@
 
 
 
+<!ENTITY  event.menu.options.label                            "Iɣewwaṛen">
+<!ENTITY  event.menu.options.accesskey                        "w">
 
 
 
 
+<!ENTITY  event.menu.options.priority2.label                  "Tazwart">
+<!ENTITY  event.menu.options.priority2.accesskey              "z">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Ur iban ara anwa">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "b">
+<!ENTITY  event.menu.options.priority.low.label               "Meẓẓi">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "Amagnu">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Muqqer">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.options.privacy.confidential.label       "Seken-d Akkud d uzemz kan">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.private.label            "Tadyant Tusligt">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Sken akkud am">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
 
 
 
@@ -144,18 +145,37 @@
 
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label                        "Sekles u M&amp;del">
+<!ENTITY  event.toolbar.delete.label                      "Kkes">
 
 
 
+<!ENTITY  event.toolbar.save.tooltip                      "Sekles u M&amp;del">
+<!ENTITY  event.toolbar.delete.tooltip                    "Kkes">
 
-
-
-
-
+<!ENTITY  event.toolbar.attachments.tooltip               "Rnu Tasawit">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Senfel Tusligt">
+<!ENTITY  event.toolbar.priority.tooltip                  "Senfel Tazwart">
 
 
 <!-- Main page -->
 
+<!ENTITY event.location.label                             "Adig" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Taggayt:">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "Rrnu Taggayt Tamaynut" >
+<!ENTITY event.calendar.label                             "Awitay" >
+<!ENTITY event.calendar.accesskey                         "C">
+
+
+
+
+<!ENTITY event.from.label                                 "Bdu" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Bdu:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Tagara:" >
 
 
 
@@ -163,36 +183,20 @@
 
 
 
+<!ENTITY event.until.label                                "Ar ma:">
+
+<!ENTITY event.reminder.label                             "Ccefu:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Aglam:" >
+<!ENTITY event.description.accesskey                      "p">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.attachments.menubutton.label               "Qqen">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Asebter web...">
+<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.popup.remove.label             "Kkes" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
 
 
 
