@@ -21,7 +21,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "যদি আপনি আগে সবসময় কোন সমস্যা ছাড়াই এই সাইটে গিয়ে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ এই সাইটটি জাল করার চেষ্টা করছে, এবং আপনার এটির সাথে সংযোগ বিচ্ছিন্ন করা উচিৎ।">
 <!ENTITY certerror.getMeOutOfHere.label "আমাকে উদ্ধার করো!">
 
-<!ENTITY certerror.expert.heading "আমি এর ঝুঁকি সম্পর্কে অবগত আছি ">
+<!ENTITY certerror.expert.heading "আমি ঝুঁকি সম্পর্কে অবগত আছি">
 <!ENTITY certerror.expert.content "আপনি যদি বুঝে থাকেন কি হচ্ছে, আপনি বলতে &brandShortName; কে বলতে পারেন যে এই সাইটের পরিচয় যেনো বিশ্বাস করা হয়।<b>যদিও আপনি এই সাইটকে বিশ্বাস করে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ আপনার সংযোগের ক্ষতি করার চেষ্টা করছে</b>">
 <!ENTITY certerror.expert.contentPara2 "ব্যতিক্রম যোগ করবেন নাযতক্ষণ না আপনি একটি গ্রহনযোগ্য কারণ দেখেন যে, কেনো এই সাইটটি নির্ভরযোগ্য পরিচয় প্রমান ব্যবহার করছে না।">
 <!ENTITY certerror.addTemporaryException.label "ওয়েবসাইট-এ যান">
