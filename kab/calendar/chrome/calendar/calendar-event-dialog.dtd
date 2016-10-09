@@ -197,31 +197,63 @@
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Kkes" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "lddi" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "Kkes akk" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "Qqen Asebter web..." >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+
+<!ENTITY event.priority2.label                            "Tazwart:">
+
+<!ENTITY event.reminder.none.label                        "Ur ccefu ara" >
+<!ENTITY event.reminder.0minutes.before.label             "0 Dqiqa Uqbel" >
+<!ENTITY event.reminder.5minutes.before.label             "5 Dqayeq uqbel" >
+<!ENTITY event.reminder.15minutes.before.label            "15 Dqayeq uqbel" >
+<!ENTITY event.reminder.30minutes.before.label            "30 Dqayeq uqbel" >
+<!ENTITY event.reminder.1hour.before.label                "1 asrag uqbel" >
+<!ENTITY event.reminder.2hours.before.label               "2 n yesragen uqbel" >
+<!ENTITY event.reminder.12hours.before.label              "12 n yesragen uqbel" >
+<!ENTITY event.reminder.1day.before.label                 "1 n wass uqbel" >
+<!ENTITY event.reminder.2days.before.label                "2 n wussan uqbel" >
+<!ENTITY event.reminder.1week.before.label                "1 n ddurt uqbel" >
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Akkud am:">
+<!ENTITY event.statusbarpanel.privacy.label               "Tasawit:">
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.does.not.repeat.label             "Ur tettales ara">
+<!ENTITY event.repeat.daily.label                       "Yal ass">
+<!ENTITY event.repeat.weekly.label                      "Yal ddurt">
+<!ENTITY event.repeat.every.weekday.label               "Yal ddurt">
+<!ENTITY event.repeat.bi.weekly.label                   "Sin iberdan i ddurt">
+<!ENTITY event.repeat.monthly.label                     "Yal aggur">
+<!ENTITY event.repeat.yearly.label                      "Yal asseggas">
+
+
+
+<!ENTITY event.recurrence.day.label                     "Yal ass" >
+<!ENTITY event.recurrence.week.label                    "Yal ddurt" >
+<!ENTITY event.recurrence.month.label                   "Yal aggur" >
+
+
+<!ENTITY event.recurrence.pattern.every.label           "Yal" >
+<!ENTITY repeat.units.days.both                         "Ass (ussan)" >
+
+
+
+
+
+<!ENTITY repeat.units.months.both                       "Aggur (agguren)" >
+
+<!ENTITY event.recurrence.monthly.first.label           "Amezwaru">
+<!ENTITY event.recurrence.monthly.second.label          "Wissin">
+<!ENTITY event.recurrence.monthly.third.label           "wis krad">
+<!ENTITY event.recurrence.monthly.fourth.label          "wis ukkus">
+<!ENTITY event.recurrence.monthly.fifth.label           "wis semmus">
+<!ENTITY event.recurrence.monthly.last.label            "Annegarru">
 
 
 
@@ -229,38 +261,11 @@
 
 
 
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ass n waggur">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.every.label                        "Yal:" >
+<!ENTITY repeat.units.years.both                             "Asseggas (iseggassen)" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -275,6 +280,35 @@
 
 
 
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Magu" >
+
+
+
+
+
+
+
+
+<!ENTITY event.recurrence.yearly.first.label                 "Amezwaru">
+
+
+
+
+<!ENTITY event.recurrence.yearly.last.label                  "Aneggaru">
+
+
+
+
+
+
+
+<!ENTITY event.recurrence.pattern.yearly.day.label           "Ass" >
+
+
+
+
+
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Magu" >
 
 
 
@@ -284,41 +318,12 @@
 
 
 
+<!ENTITY event.recurrence.repeat.for.label              "Snulfu" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.repeat.until.label                       "Lles ar ma" >
 
 <!-- Attendees dialog -->
-
+<!ENTITY event.organizer.label                  "Suddes">
 
 
 
@@ -327,6 +332,7 @@
 
 
 
+<!ENTITY event.freebusy.legend.unknown          "Ulac issalen" >
 
 
 
@@ -334,13 +340,22 @@
 
 
 
-
-
-
+<!ENTITY event.attendee.usertype.room           "Taxxamt">
+<!ENTITY event.attendee.usertype.unknown        "Arussin">
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
 
+<!ENTITY read.only.general.label         "Amatu">
+<!ENTITY read.only.title.label           "Tineɣremt">
+
+
+<!ENTITY read.only.event.end.label       "Azemz n tagara">
+
+<!ENTITY read.only.repeat.label          "Tisnilas:">
+<!ENTITY read.only.location.label        "Adig">
+<!ENTITY read.only.category.label        "Taggayt:">
+<!ENTITY read.only.organizer.label       "Suddes">
 
 
 
@@ -348,13 +363,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY read.only.description.label     "Aglam">
 
