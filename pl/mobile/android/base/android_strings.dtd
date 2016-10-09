@@ -589,3 +589,6 @@
 
 <!ENTITY activity_stream_topsites "Popularne">
 <!ENTITY activity_stream_highlights "Wyróżnione">
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Zakładka">
+<!ENTITY activity_stream_highlight_label_visited "Odwiedzone">
