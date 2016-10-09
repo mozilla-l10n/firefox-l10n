@@ -13,7 +13,7 @@
 <!ENTITY openButton.accesskey        "ш">
 <!ENTITY deleteButton.label          "Өшіру">
 <!ENTITY deleteButton.accesskey      "р">
-
+<!ENTITY searchDialogTitle.label     "Хабарламалардан іздеу">
 <!ENTITY results.label               "Нәтижелер">
 
 
@@ -38,14 +38,14 @@
 <!ENTITY recipientColumn.label "Алушы">
 
 <!ENTITY subjectColumn.label "Тақырыбы">
-
-
+<!ENTITY dateColumn.label "Күні">
+<!ENTITY priorityColumn.label "Приоритеті">
 <!ENTITY tagsColumn.label "Тегтер">
 <!ENTITY accountColumn.label "Тіркелгі">
 <!ENTITY statusColumn.label "Күйі">
 <!ENTITY sizeColumn.label "Өлшемі">
 
-
+<!ENTITY unreadColumn.label "Оқылмаған">
 <!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
