@@ -169,8 +169,8 @@
 <!ENTITY event.calendar.accesskey                         "C">
 
 
-
-
+<!ENTITY event.alldayevent.label                          "Tadyant n wass imeṛṛa" >
+<!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Bdu" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "Bdu:" >
