@@ -204,7 +204,7 @@
 <!ENTITY pref_category_experimental "Funkcje eksperymentalne">
 
 <!ENTITY pref_custom_tabs "Niestandardowe karty">
-<!ENTITY pref_custom_tabs_summary "Zewnętrzne aplikacje mogą otwierać karty o niestandardowym wyglądzie.">
+<!ENTITY pref_custom_tabs_summary2 "Aplikacje mogą otwierać strony za pomocą niestandardowej wersji Firefoksa">
 
 <!ENTITY pref_activity_stream "Activity Stream">
 <!ENTITY pref_activity_stream_summary "Wizualna historia i nowa strona domowa, ułatwiające wyszukiwanie treści w przeglądarce &brandShortName;.">
