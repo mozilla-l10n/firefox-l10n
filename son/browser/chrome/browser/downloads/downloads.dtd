@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
 <!ENTITY cmd.removeFromHistory.label      "Kaa taarikoo ra">
 <!ENTITY cmd.removeFromHistory.accesskey  "a">
-
-
+<!ENTITY cmd.clearList2.label             "Moofur feddiyoo kaa">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Zumandey tuusu">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Zumandey kul cebe">
 <!ENTITY downloadsHistory.accesskey       "c">
 
+<!ENTITY openDownloadsFolder.label       "Zumandey foolaa feeri">
 
 <!ENTITY clearDownloadsButton.label       "Zumandey tuusu">
 <!ENTITY clearDownloadsButton.tooltip     "Zumandey kaŋ timme, naŋandi nda hasara tuusu">
