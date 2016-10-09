@@ -13,15 +13,15 @@
 <!ENTITY deleteButton.accesskey "р">
 <!ENTITY reorderTopButton "Жоғарыға жылжыту">
 
-
+<!ENTITY reorderTopButton.toolTip "Сүзгіні басқалардан бұрын орындалатындай етіп орналастыру">
 <!ENTITY reorderUpButton.label "Жоғарыға">
 <!ENTITY reorderUpButton.accesskey "а">
 <!ENTITY reorderDownButton.label "Төменге">
 <!ENTITY reorderDownButton.accesskey "е">
+<!ENTITY reorderBottomButton "Астына жылжыту">
 
-
-
-
+<!ENTITY reorderBottomButton.toolTip "Сүзгіні басқалардан кейін орындалатындай етіп орналастыру">
+<!ENTITY filterHeader.label "Іске қосылған сүзгілер төмендегідей ретпен автожөнелтіледі.">
 
 
 
