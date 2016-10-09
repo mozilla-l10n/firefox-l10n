@@ -168,7 +168,7 @@
 <!ENTITY pref_whats_new_notification_summary "Узнавать о новых возможностях после обновления">
 <!ENTITY pref_category_experimental "Экспериментальные возможности">
 <!ENTITY pref_custom_tabs "Настраиваемые вкладки">
-<!ENTITY pref_custom_tabs_summary "Разрешить сторонним приложениям открывать вкладки с настроенным интерфейсом.">
+<!ENTITY pref_custom_tabs_summary2 "Разрешить приложениям открывать веб-сайты, используя преднастроенную версию Firefox">
 <!ENTITY pref_activity_stream "Лента активности">
 <!ENTITY pref_activity_stream_summary "Наглядная история действий и переосмысленная домашняя страница делают поиск в &brandShortName; именно того, что вы ищете, проще, чем когда-либо прежде.">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
@@ -479,4 +479,5 @@
 <!ENTITY helper_triple_readerview_open_button "Добавить в закладки">
 <!ENTITY activity_stream_topsites "Топ сайтов">
 <!ENTITY activity_stream_highlights "Главное">
-<!ENTITY activity_stream_more "Больше">
+<!ENTITY activity_stream_highlight_label_bookmarked "В закладках">
+<!ENTITY activity_stream_highlight_label_visited "Посещено">
