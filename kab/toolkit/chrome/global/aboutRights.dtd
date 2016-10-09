@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Kra n tmahilin di &brandShortName; am wassaɣ n uɣelluy, ak-yeǧǧ ad d-erreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa agi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut agi n tririt i wakken ad isnerni ifarisen ines, ad isuffeɣ tiririt agi ɣef isemlen ines web, u aten-imudd i wiyaḍ.">
+<!ENTITY rights.intro-point2.5 "Kra n tmahilin di &brandShortName; am wassaɣ n uɣelluy, ak-yeǧǧ ad d-erreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa agi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut agi n tririt akken ad isnerni ifarisen ines, ad isuffeɣ tiririt agi ɣef yesmal ines web, u aten-imudd i wiyaḍ.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Tarray amek  anseqdec tilɣa yinek tudmawanin d tririt yuznen i &vendorShortName; s wallal n &brandShortName; tettwagelem di ">
@@ -41,7 +41,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Ma yella asɣeẓan-agi isedduy tanfiwin web, isefk akk tisertiyin n useqdec ittusnasen ɣef tanfiwin-agi ad cudden ɣeṛ tigezmi.">
-<!ENTITY rights.intro-point4b-unbranded "Tanfiwin n isemlen web">
+<!ENTITY rights.intro-point4b-unbranded "Tanfiwin n yesmal web">
 <!ENTITY rights.intro-point4c-unbranded " tigezmi.">
 
 <!ENTITY rights2.webservices-header "Tanfiwin n telɣut web n &brandFullName;">
@@ -60,11 +60,11 @@
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Tunigin taɣelsant: ">
-<!ENTITY rights.safebrowsing-b "Ur yelhi ara ma tekkseḍ armad n tunigin taɣelsant acku yezmer ad tinigeḍ deg isemlen iraɣelsanen. Me tebɣiḍ ad tekkseḍ tamahilt s wudem unṣib, ddu s wayagi:">
+<!ENTITY rights.safebrowsing-b "Ur yelhi ara ma tekkseḍ armad n tunigin taɣelsant acku yezmer ad tinigeḍ deg ismal ur nelli ara d iɣelsanen. Me tebɣiḍ ad tekkseḍ tamahilt s wudem unṣib, ddu s wayagi:">
 <!ENTITY rights.safebrowsing-term1 "Ldi ismenyifen neɣ iɣewwaṛen n usnas">
 <!ENTITY rights.safebrowsing-term2 "Fren agalis n tɣellist">
 <!ENTITY rights2.safebrowsing-term3 "Kkes acraḍ n uɣewwaṛ ɣer &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Asewḥel n isemlen ariɣelsanen iţururmed ihi">
+<!ENTITY rights.safebrowsing-term4 "Asewḥel n ismal ur nelli ara d iɣelsanen yettwakkes urmad ihi">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Tunigin yersen ɣef usideg n tirakalt ">
@@ -76,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Asideg n tirakalt t-ţurermed ihi">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Taskant n tenfiwin n isemlen web yeddan deg useɣẓan, id d-yeglan s tinaḍin ɣef wamek ad tureremdent, ma yebbwi-d waddad, issefk ad ittumel dagi.">
+<!ENTITY rights.webservices-unbranded "Taskant n tenfiwin n yesmal web yeddan deg useɣẓan, id d-yeglan s tinaḍin ɣef wamek ad tureremdent, ma yebbwi-d waddad, issefk ad ittumel dagi.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent dagi.">

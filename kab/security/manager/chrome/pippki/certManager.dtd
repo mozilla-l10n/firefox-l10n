@@ -36,7 +36,7 @@
 
 <!ENTITY certmgr.editcacert.title             "Ẓreg iɣewwaṛen n teflest n udabu n uselken">
 <!ENTITY certmgr.editcert.edittrust           "Ẓreg iɣewwaṛen n teflest:">
-<!ENTITY certmgr.editcert.trustssl            "Aselkin agi yezmer ad isulu isemlen web.">
+<!ENTITY certmgr.editcert.trustssl            "Aselkin agi yezmer ad isulu ismal web.">
 <!ENTITY certmgr.editcert.trustemail          "Aselkin agi yezmer ad isulu imaylen n iseqdacen.">
 <!ENTITY certmgr.editcert.trustobjsign        "Aselkin agi yezmer ad isulu imfarasen n iseẓɣan.">
 
@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "Rnu tasureft n tɣellist">
 <!ENTITY exceptionMgr.exceptionButton.label   "Sentem tasureft n tɣellist">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "S">
-<!ENTITY exceptionMgr.supplementalWarning     "Lbankat, timidal d isemlen web izayzen izerfanen ur ssuturen ara ad teggeḍ aya.">
+<!ENTITY exceptionMgr.supplementalWarning     "Lbankat, timidal d ismal web izayzen izerfanen ur ssuturen ara ad teggeḍ aya.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Aqeddac">
 <!ENTITY exceptionMgr.certlocation.url        "Tansa:">
 <!ENTITY exceptionMgr.certlocation.download   "Awid aselkin">
