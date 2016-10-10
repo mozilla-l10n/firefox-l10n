@@ -98,7 +98,7 @@
 <!ENTITY history_week_section3 "গত ৭ দিন">
 <!ENTITY history_older_section3 "৬ মাসের বেশি পুরনো">
 
-<!ENTITY search "খুঁজুন">
+<!ENTITY search "অনুসন্ধান">
 <!ENTITY reload "পুনরায় লোড">
 <!ENTITY forward "পরবর্তী">
 <!ENTITY menu "মেনু">
@@ -401,7 +401,7 @@ size. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
-<!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
+<!ENTITY pref_vendor_feedback "প্রতিক্রিয়া জানান">
 
 <!ENTITY pref_dialog_set_default "ডিফল্ট হিসেবে নির্ধারণ করুন">
 <!ENTITY pref_dialog_default "ডিফল্ট">
@@ -464,7 +464,7 @@ size. -->
 <!ENTITY share_image_failed "এই ছবি শেয়ার করতে অক্ষম">
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
 <!ENTITY print "মুদ্রণ">
-<!ENTITY find_in_page "পাতায় খুঁজুন">
+<!ENTITY find_in_page "পাতায় অনুসন্ধান">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের জন্য অনুরোধ">
 <!ENTITY page "পাতা">
 <!ENTITY tools "টুল">
@@ -480,7 +480,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "পাতায় খুঁজুন">
+<!ENTITY find_text "পাতায় অনুসন্ধান">
 <!ENTITY find_prev "পূর্ববর্তী">
 <!ENTITY find_next "পরবর্তী">
 <!ENTITY find_close "বন্ধ">
