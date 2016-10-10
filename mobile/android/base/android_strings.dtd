@@ -73,7 +73,7 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "বুকমার্ক করা আছে">
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ হয়েছে">
-<!ENTITY bookmark_updated "বুকমার্ক আপডেট হয়েছে">
+<!ENTITY bookmark_updated "বুকমার্ক হালনাগাদ হয়েছে">
 <!ENTITY bookmark_options "অপশন">
 <!ENTITY screenshot_added_to_bookmarks "স্ক্রিনশট বুকমার্কে যুক্ত হয়েছে">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -194,7 +194,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "ট্যাব, ডেটা রক্ষক, ডেভেলপার টুলগুলো ফিরিয়ে আনুন">
+<!ENTITY pref_category_advanced_summary3 "ট্যাব, ডাটা রক্ষক, ডেভেলপার টুলগুলো পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "ঘোষণা">
 <!ENTITY pref_category_notifications_summary "নতুন ফিচার, ওয়েবসাইট হালনাগাদ">
 <!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদ">
@@ -336,8 +336,8 @@
 <!ENTITY content_notification_updated_on "&formatS; এ হালনাগাদ">
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
-<!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
-<!ENTITY pref_char_encoding_off "মেনু প্রদর্শিত হবে না">
+<!ENTITY pref_char_encoding_on "মেনু দেখাও">
+<!ENTITY pref_char_encoding_off "মেনু দেখিও না">
 <!ENTITY pref_clear_private_data2 "ব্যক্তিগত ডাটা মুছুন">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
@@ -499,7 +499,7 @@ size. -->
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "প্রতিলেপন ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
-<!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করুন">
+<!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
 <!ENTITY contextmenu_subscribe "পাতায় সাবস্ক্রাইব করুন">
 <!ENTITY contextmenu_site_settings "সাইট সেটিং সম্পাদনা করুন">
@@ -515,13 +515,13 @@ size. -->
 <!ENTITY doorhanger_login_edit_title "লগইন সম্পাদনা করুন">
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
-<!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন">
+<!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড দেখাও">
 <!ENTITY doorhanger_login_edit_toast_error "লগইন সেভ করতে ব্যর্থ">
-<!ENTITY doorhanger_login_select_message "&formatS; থেকে পাসওয়ার্ড কপি করবেন কি?">
-<!ENTITY doorhanger_login_select_toast_copy "ক্লিপবোর্ডে পাসওয়ার্ড কপি করা হয়েছে">
-<!ENTITY doorhanger_login_select_toast_copy_error "পাসওয়ার্ড কপি করা যাচ্ছে না">
+<!ENTITY doorhanger_login_select_message "&formatS; থেকে পাসওয়ার্ড অনুলিপি করবেন কি?">
+<!ENTITY doorhanger_login_select_toast_copy "ক্লিপবোর্ডে পাসওয়ার্ড অনুলিপি করা হয়েছে">
+<!ENTITY doorhanger_login_select_toast_copy_error "পাসওয়ার্ড অনুলিপি করা যাচ্ছে না">
 <!ENTITY doorhanger_login_select_action_text "অন্য আরেকটি লগইন নির্বাচন করুন">
-<!ENTITY doorhanger_login_select_title "পাসওয়ার্ড কপি করুন">
+<!ENTITY doorhanger_login_select_title "পাসওয়ার্ড অনুলিপি করুন">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -704,7 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "ফাইল এবং হালনাগাদ ডাউনলোড করতে, স্টোরেজ ব্যবহারে &brandShortName; কে অনুমোদন দিন।">
+<!ENTITY updater_permission_text "ফাইল ডাউনলোড ও হালনাগাদে, স্টোরেজ ব্যবহারে &brandShortName; কে অনুমোদন দিন।">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "অনুমোদন">
 <!-- Guest mode -->    
@@ -714,12 +714,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "চালিয়ে যান">
 <!ENTITY guest_session_dialog_cancel "বাতিল">
 <!ENTITY new_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
-<!ENTITY new_guest_session_text2 "যে ব্যক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্ক)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
+<!ENTITY new_guest_session_text2 "যে ব্যক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডাটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্ক)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
 <!ENTITY guest_browsing_notification_text "প্রস্থান করতে ট্যাপ করুন">
 
 <!ENTITY exit_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
-<!ENTITY exit_guest_session_text "এই সেশন থেকে ব্রাউজিং ডেটা মুছে ফেলা হবে।">
+<!ENTITY exit_guest_session_text "এই সেশন থেকে ব্রাউজিং ডাটা মুছে ফেলা হবে।">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit

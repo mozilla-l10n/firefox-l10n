@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "টোগোল">
 <!ENTITY newPref.cancelButton          "বাতিল">
 
-<!ENTITY contextMenu.copyPrefName      "নাম কপি করুন">
-<!ENTITY contextMenu.copyPrefValue     "ভ্যালু কপি করুন">
+<!ENTITY contextMenu.copyPrefName      "নাম অনুলিপি">
+<!ENTITY contextMenu.copyPrefValue     "মান অনুলিপি">
