@@ -24,9 +24,9 @@
 <!ENTITY  generalModified       "Iţusnifel:">
 <!ENTITY  generalEncoding2      "Asettengel n uḍris:">
 <!ENTITY  generalMetaName       "Isem">
-<!ENTITY  generalMetaContent    "A Gbur">
+<!ENTITY  generalMetaContent    "Agbur">
 
-<!ENTITY  mediaTab              "Allalen n teywalt">
+<!ENTITY  mediaTab              "Allalen n teɣwalt">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Adeg:">
 <!ENTITY  mediaText             "Aḍris iccuden:">
@@ -38,15 +38,15 @@
 <!ENTITY  mediaDimension        "tisektiwin">
 <!ENTITY  mediaLongdesc         "Aglam ɣuzzifen:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Kles daw:">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs           "Sekles s yisem…">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "y">
 <!ENTITY  mediaPreview          "Taskant n wallal n teywalt:">
 
 <!ENTITY  feedTab               "Isuddam">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Dmeg">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe         "Jerred">
+<!ENTITY  feedSubscribe.accesskey "J">
 
 <!ENTITY  permTab               "Tisirag">
 <!ENTITY  permTab.accesskey     "P">
@@ -59,12 +59,12 @@
 <!ENTITY  permPlugins           "Rmed izegrar ">
 
 <!ENTITY  permClearStorage           "Kkes isefka">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permClearStorage.accesskey "K">
 
 <!ENTITY  securityTab           "Taɣellist">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Sken aselkin">
-<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.accesskey "k">
 <!ENTITY  securityView.unknown   "Arussin">
 
 
@@ -77,9 +77,9 @@
 <!ENTITY  securityView.privacy.history                  "Rziɣ yakan ɣeṛ usmel agi web?">
 <!ENTITY  securityView.privacy.cookies                  "Asmel agi web igemer talɣut (inagan n tuqqna) ɣef uselkim inu?">
 <!ENTITY  securityView.privacy.viewCookies              "Wali inagan n tuqqna">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Kelseɣ awal uffir i wesmel agi web?">
-<!ENTITY  securityView.privacy.viewPasswords            "Wali awalen uffiren ikelsen">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
+<!ENTITY  securityView.privacy.passwords                "Skelseɣ awal uffir i wesmel agi web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Wali awalen uffiren yettwakelsen">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Talqayt tatiknikt">
