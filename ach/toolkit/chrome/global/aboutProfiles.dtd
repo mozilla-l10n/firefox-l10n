@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
+<!ENTITY aboutProfiles.restart.title "Cak odoco">
+<!ENTITY aboutProfiles.restart.inSafeMode "Cak odoco ki Med-ikome ma kijuko woko…">
+<!ENTITY aboutProfiles.restart.normal "Cak odoco kit ma jwi…">
