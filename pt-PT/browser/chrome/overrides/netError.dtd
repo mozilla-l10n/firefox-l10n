@@ -64,7 +64,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifique se as definições do proxy estão corretas.</li> <li>Verifique se o seu computador tem uma ligação de rede ativa.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou um proxy, verifique se o &brandShortName; tem permissão de acesso à Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "A página não está a redirecionar corretamente">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Este problema, ás vezes, pode ser causado por desativar ou recusar aceitar cookies.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Este problema pode, por vezes, ser causado pela não-aceitação ou desativação das cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verifique se o seu sistema tem o Personal Security Manager instalado.</li> <li>Isto pode ser causado por uma configuração não comum no servidor.</li> </ul>">
