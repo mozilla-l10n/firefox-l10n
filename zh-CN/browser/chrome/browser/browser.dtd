@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "新建隐私浏览窗口">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "新建非多进程窗口">
+<!ENTITY newNonRemoteWindow.label   "新建单进程窗口">
 
 <!ENTITY editMenu.label         "编辑"> 
 <!ENTITY editMenu.accesskey       "E"> 

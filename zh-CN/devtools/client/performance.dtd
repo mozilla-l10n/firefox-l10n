@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "在非多进程的 Firefox 上，实时呈现数据记录已被禁用。">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "在单进程的 Firefox 上，实时呈现数据记录已被禁用。">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
