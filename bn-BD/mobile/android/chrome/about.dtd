@@ -16,7 +16,7 @@
 <!ENTITY aboutPage.support.label                "সাপোর্ট">
 <!ENTITY aboutPage.privacyPolicy.label          "গোপনীয়তা নীতিমালা">
 <!ENTITY aboutPage.rights.label                 "আপনার অধিকার জানুন">
-<!ENTITY aboutPage.relNotes.label               "প্রকাশের বিবরণ">
+<!ENTITY aboutPage.relNotes.label               "রিলিজ নোট">
 <!ENTITY aboutPage.credits.label                "স্বীকৃতি">
 <!ENTITY aboutPage.license.label                "লাইসেন্সিং তথ্য">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
