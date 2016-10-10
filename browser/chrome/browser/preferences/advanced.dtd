@@ -8,9 +8,9 @@
 
 <!ENTITY accessibility.label             "无障碍环境">
 
-<!ENTITY useCursorNavigation.label       "始终使用光标键在页面内导航">
+<!ENTITY useCursorNavigation.label       "始终使用方向键在页面内导航">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "即时查找输入的文本">
+<!ENTITY searchStartTyping.label         "在我输入时就在页面内查找">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "当网站试图重定向或重新载入页面时发出警告">
 <!ENTITY blockAutoRefresh.accesskey      "b">
@@ -41,7 +41,7 @@
 <!ENTITY telemetryLearnMore.label        "详细了解">
 
 <!ENTITY crashReporterDesc2.label         "崩溃报告可以帮助 &vendorShortName; 修复问题，使浏览器更加稳定和安全">
-<!ENTITY alwaysSubmitCrashReports.label   "允许 &brandShortName; 代表您自动在后台发送积压的崩溃报告">
+<!ENTITY alwaysSubmitCrashReports.label   "允许 &brandShortName; 为您自动反馈还未提交的崩溃报告">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "详细了解">
 
