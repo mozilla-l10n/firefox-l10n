@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem pri nalaganju strani">
+<!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusi znova">
 
 <!-- Specific error messages -->
@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Morda ste se zmotili pri črkovanju naslova, npr.
-    <strong>ww</strong>.primer.si namesto
-    <strong>www</strong>.primer.si</li>
+    <strong>ww</strong>.example.com namesto
+    <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Išči</button>
@@ -37,15 +37,20 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Prepričajte se, da v imenu datoteke velike in male črke prav nastopajo in da ni drugih tipkarskih napak.</li>
-  <li>Poglejte, da se morda datoteke ni prestavilo, preimenovalo ali zbrisalo.</li>
+  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.</li>
+  <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
+</ul>">
+
+<!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Morda je bila odstranjena, premaknjena ali pa dovoljenja preprečujejo dostop do nje.</li>
 </ul>
 ">
 
-
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; te strani iz neznanega vzroka ni mogoče naložiti.</p>
+<p>&brandShortName; iz neznanega razloga ne more naložiti te strani.</p>
 ">
 
 <!ENTITY malformedURI.title "Ta naslov ni veljaven">
@@ -54,7 +59,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Spletni naslovi so običajno zapisani v naslednji obliki: 
-    <strong>http://www.primer.si/</strong></li>
+    <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Išči</button>
@@ -111,8 +116,8 @@
 <!ENTITY proxyConnectFailure.title "Proxy strežnik zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Preverite proxy nastavitve, da so brez napake.</li>
-  <li>Obrnite se na administratorja mreže, da zveste ali posredniški strežnik dela.</li>
+  <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
+  <li>Pri skrbniku svojega omrežja preverite, da posrednik deluje.</li>
 </ul>
 ">
 
@@ -171,13 +176,13 @@
 ">
 
 <!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
-<!ENTITY cspBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
-<!ENTITY corruptedContentError.title "Napaka zaradi pokvarjene vsebine">
-<!ENTITY corruptedContentError.longDesc "<p>Stran, ki si jo želite ogledati, ni mogoče prikazati, ker je pri prenosu prišlo do napake</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka v prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo ...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Odpelji me na domačo stran!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hočem stran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -193,7 +198,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Varna povezava ni mogoča">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -204,3 +209,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Dodatni podatki: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

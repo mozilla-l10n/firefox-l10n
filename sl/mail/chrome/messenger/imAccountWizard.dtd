@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "S">
 
 <!ENTITY accountSummaryTitle.label   "Povzetek">
-<!ENTITY accountSummaryInfo.label    "Povzetek vnesenih podatkov je prikazan spodaj. Preverite jih preden se račun ustvari.">
+<!ENTITY accountSummaryInfo.label    "Povzetek vnesenih podatkov je prikazan spodaj. Preverite jih, preden se račun ustvari.">
 <!ENTITY accountSummary.connectNow.label "Poveži zdaj ta račun.">

@@ -62,13 +62,13 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "P">
 <!ENTITY cmd.removeFromHistory.label      "Odstrani iz zgodovine">
 <!ENTITY cmd.removeFromHistory.accesskey  "z">
-<!ENTITY cmd.clearList.label              "Počisti seznam">
-<!ENTITY cmd.clearList.accesskey          "I">
 <!ENTITY cmd.clearDownloads.label         "Počisti prenose">
 <!ENTITY cmd.clearDownloads.accesskey     "S">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Dovoli prenos">
+<!ENTITY cmd.unblock2.accesskey           "D">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -78,11 +78,13 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Odstrani datoteko ali dovoli prenos">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Odpri ali odstrani datoteko">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -104,6 +106,7 @@
      -->
 <!ENTITY downloadsHistory.label           "Prikaži vse prenose">
 <!ENTITY downloadsHistory.accesskey       "S">
+
 
 <!ENTITY clearDownloadsButton.label       "Počisti prenose">
 <!ENTITY clearDownloadsButton.tooltip     "Počisti dokončane, preklicane in spodletele prenose">

@@ -30,9 +30,7 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
 <!ENTITY retentionKeepRecent.accesskey "v">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vedno izbriši prebrana sporočila (razveljavi nastavitve o starosti)">
-<!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
+<!ENTITY retentionApplyToFlagged.label "Vedno obdrži označena sporočila">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Sinhronizacija">

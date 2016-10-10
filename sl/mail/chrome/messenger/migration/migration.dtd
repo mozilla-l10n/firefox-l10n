@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Uvozi možnosti, nastavitve računa, imenik, filtre in druge podatke iz:">
 <!ENTITY importFromNonWin.label         "Uvozi nastavitve, nastavitve računa, imenik, filtre in druge podatke iz:">
+<!ENTITY importSourceNotFound.label     "Najden ni bil noben program, iz katerega bi lahko uvozili podatke.">
 
 <!ENTITY importFromNothing.label        "Ne uvozi ničesar">
 <!ENTITY importFromNothing.accesskey    "N">
@@ -16,8 +17,6 @@
 <!ENTITY importFromOExpress.accesskey   "x">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Uvozi nastavitve in mape s pošto">
 <!ENTITY importItems.title              "Možnosti uvoza">

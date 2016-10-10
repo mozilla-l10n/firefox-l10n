@@ -8,7 +8,7 @@
 <!ENTITY setPassword.oldPassword.label "Trenutno geslo:">
 <!ENTITY setPassword.newPassword.label "Novo geslo:">
 <!ENTITY setPassword.reenterPassword.label "Novo geslo (ponovno):">
-<!ENTITY setPassword.meter.label "Merilec kakovosti gesla">
+<!ENTITY setPassword.meter.label "Merilnik kakovosti gesla">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Ponastavi">
