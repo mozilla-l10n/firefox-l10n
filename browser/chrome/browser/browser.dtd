@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отваряне настройките на &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Свързване наново с &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Свързване наново със &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Проверка на сметка">
 
 
@@ -774,7 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "В">
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
 <!ENTITY syncSyncNowItem.accesskey    "С">
-<!ENTITY syncReAuthItem.label         "Свързване наново с &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Свързване наново със &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "С">
 <!ENTITY syncToolbarButton.label      "Sync">
 
