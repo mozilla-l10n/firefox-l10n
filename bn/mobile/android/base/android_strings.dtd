@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "স্বাগতম">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; এ স্বাগতম">
-<!ENTITY firstrun_urlbar_subtext "উপরকারী অনুসন্ধান প্রস্তাবনা শর্টকার্টের মাধ্যমে আরও দ্রুত বিভিন্ন জিনিষ খুঁজে নিন।">
+<!ENTITY firstrun_urlbar_subtext "উপরকারী অনুসন্ধান পরামর্শ শর্টকার্টের মাধ্যমে আরও দ্রুত বিভিন্ন জিনিষ খুঁজে নিন।">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন।">
@@ -179,7 +179,7 @@
 <!ENTITY pref_category_datareporting "তথ্য পছন্দ">
 <!ENTITY pref_category_logins "লগইন">
 <!ENTITY pref_learn_more "আরও জানুন">
-<!ENTITY pref_category_installed_search_engines "ইন্সটলকৃত অনুসন্ধান ইঞ্জিন">
+<!ENTITY pref_category_installed_search_engines "ইন্সটল করা অনুসন্ধান ইঞ্জিন">
 <!ENTITY pref_category_add_search_providers "আরও অনুসন্ধান সেবা প্রদানকারী যোগ করুন">
 <!ENTITY pref_category_search_restore_defaults "অনুসন্ধান ইঞ্জিন পুনরুদ্ধার করুন">
 <!ENTITY pref_search_restore_defaults "ডিফল্ট পুনরুদ্ধার করুন">
