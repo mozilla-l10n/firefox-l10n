@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Nyut dirica matino weng">
 <!ENTITY showAllTabsCmd.accesskey "w">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Dony iye &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Yab ter me &syncBrand.shortName.label;">
@@ -182,11 +182,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
 <!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
 <!ENTITY showAllBookmarks2.label "Nyut alama buk weng">
-
+<!ENTITY recentBookmarks.label "Ma kiketo Alamabuk cokki">
 <!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
-
-
+<!ENTITY showRecentlyBookmarked.label     "Nyut ma kiketo alamabuk cokki">
+<!ENTITY showRecentlyBookmarked.accesskey "t">
 <!ENTITY hideRecentlyBookmarked.label     "kan ma kiketo Alama me buk kombedi">
 <!ENTITY hideRecentlyBookmarked.accesskey "k">
 
@@ -222,9 +222,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
 
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Igengo woko lamak cal mamegi pi kakube man.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Igengo woko mikropon mamegi pi kakube man.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
 
 
 
