@@ -746,7 +746,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
+<!ENTITY syncedTabs.context.open.label                       "Yab">
+<!ENTITY syncedTabs.context.open.accesskey                   "Y">
 
 
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Yab i dirica manyen">
