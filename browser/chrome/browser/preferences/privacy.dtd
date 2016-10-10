@@ -37,7 +37,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "О">
 <!ENTITY  locbar.openpage.label         "Отворени раздели">
 <!ENTITY  locbar.openpage.accesskey     "р">
-<!ENTITY  locbar.searches.label         "Подобни търсения в стандартната търсеща машина">
+<!ENTITY  locbar.searches.label         "Подобни търсения от стандартната търсеща машина">
 <!ENTITY  locbar.searches.accesskey     "П">
 
 <!ENTITY  suggestionSettings.label      "Промяна настройките на подсказките от търсещите машини…">
