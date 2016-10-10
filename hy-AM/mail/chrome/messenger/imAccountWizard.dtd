@@ -7,7 +7,7 @@
 <!ENTITY accountProtocolTitle.label   "Զրույցի ցանկը">
 <!ENTITY accountProtocolInfo.label    "Ընտրեք զրույցի ցանցը։">
 <!ENTITY accountProtocolField.label   "Ցանց՝">
-<!ENTITY accountProtocolGetMore.label "Ավելին...">
+<!ENTITY accountProtocolGetMore.label "Իմանալ ավելին...">
 
 <!ENTITY accountUsernameTitle.label   "Օգտվողի Անունը">
 <!ENTITY accountUsernameDuplicate.label "Այս փոստարկղը արդեն կարգավորված է!">
