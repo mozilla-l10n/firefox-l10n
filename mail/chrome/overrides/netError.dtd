@@ -19,8 +19,8 @@
 <!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Preverite vtipkani naslov, da ni v njem napak, kot na primer 
-<strong>ww</strong>.primer.si namesto 
-<strong>www</strong>.primer.si</li> 
+<strong>ww</strong>.example.com namesto 
+<strong>www</strong>.example.com</li> 
 <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
 z omrežjem.</li> 
 <li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
@@ -46,7 +46,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Spletne naslove se običajno piše takole: 
-<strong>http://www.primer.si/</strong></li> 
+<strong>http://www.example.com/</strong></li> 
 <li>Pazite, da boste uporabljali poševnico (t.j. 
 <strong>/</strong>).</li> 
 </ul>">
@@ -63,14 +63,18 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Povezava je bila obnovljena">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -80,7 +84,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 
 <!ENTITY unknownProtocolFound.title "Naslova ni bilo mogoče razumeti">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Morda boste morali namestiti kak drug program, da odprete ta naslov</li> 
+<li>Za odpiranje tega naslova boste morda morali namestiti dodaten program.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
@@ -91,11 +95,12 @@ deluje.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Preverite nastavitve posrednika, da so brez napak.</li> 
-<li>Preverite, ali je vaš računalnik dejavno povezan z omrežjem.</li> 
-<li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
-da ima &brandShortName; pravico dostopati do omrežja.</li> 
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
+  <li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li>
+  <li>Če uporabljate posrednika ali požarni zid, se prepričajte, 
+    da ima &brandShortName; dovoljenja za dostop do spleta.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
@@ -105,17 +110,19 @@ piškotkov.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Preverite, ali ima vaš sistem Upravitelja za osebno varnost 
-nameščenega.</li> 
+<!ENTITY unknownSocketType.longDesc "
+<ul> 
+<li>Preverite, ali je na vašem sistemu nameščen upravitelj osebne varnosti.</li> 
 <li>To je lahko posledica nestandardnih nastavitev na strežniku.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Varna povezava ni uspela">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Želene strani ni mogoče prikazati, ker pristnosti podatkov v njej ni bilo mogoče preveriti.</li> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.</li>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Varna povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -134,14 +141,14 @@ z omrežjem.</li>
 da ima &brandShortName; pravico dostopati do omrežja.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
+<!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
-<!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
-<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se na lastnike strani in jih obvestite o težavi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Napaka pokvarjene vsebine">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
-<!ENTITY securityOverride.getMeOutOfHereButton "Hočem vstran!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hočem stran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -155,4 +162,9 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tej težavi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko enostavno razkrije podatke, ki naj bi bili zaščiteni. Skrbnik spletne strani bo moral najprej popraviti strežnik, preden lahko obiščete stran.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

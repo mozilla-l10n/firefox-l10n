@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Latinski">
+<!ENTITY  font.langGroup.latin                    "latinica">
 <!ENTITY  font.langGroup.japanese                 "Japonščino">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalno kitajščino (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Poenostavljeno kitajščino">
@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Kamboščino">
 <!ENTITY  font.langGroup.malayalam                "Malajalamščino">
 <!ENTITY  font.langGroup.math                     "Matematika">
-<!ENTITY  font.langGroup.oriya                    "orijansko">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "telugu">
 <!ENTITY  font.langGroup.kannada                  "kanadsko">
 <!ENTITY  font.langGroup.sinhala                  "singalsko">

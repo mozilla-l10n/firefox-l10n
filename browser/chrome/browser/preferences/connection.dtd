@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastavitve povezave">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "40em">
 
 <!ENTITY  proxyTitle.label              "Nastavitve posrednika">
 <!ENTITY  noProxyTypeRadio.label        "Brez posrednika">
@@ -32,7 +30,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Oddaljen DNS">
+<!ENTITY  socksRemoteDNS.label2         "Posredniški DNS, kadar se uporablja SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Vrata:">
 <!ENTITY  HTTPport.accesskey            "v">

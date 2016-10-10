@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Dobrošli v &brandShortName;u">
+<!ENTITY window.title "Dobrodošli v &brandShortName;u">
 <!ENTITY header2.label "Želite nov e-poštni naslov?">
 <!ENTITY other.languages "Prikazujemo samo ponudnike na vašem področju.  Za prikaz vseh ponudnikov kliknite tu.">
 <!ENTITY error.line1 "Na žalost predlaganih e-naslovov ni bilo mogoče najti.">

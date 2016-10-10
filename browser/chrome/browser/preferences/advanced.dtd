@@ -40,10 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; pošilja poročila o sesutju organizaciji &vendorShortName;, da lahko naredi brskalnik bolj varen in zanesljiv">
-<!ENTITY enableCrashReporter.label       "Omogoči poročila o sesutju">
-<!ENTITY enableCrashReporter.accesskey   "P">
-<!ENTITY crashReporterLearnMore.label    "Več o tem">
+<!ENTITY crashReporterLearnMore.label     "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
 
@@ -82,9 +79,6 @@
 <!ENTITY updateCheck.accesskey           "R">
 <!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateAutoAddonWarn.label       "Obvesti me, ali bo to povzročilo nezdružljivost mojih dodatkov">
-<!ENTITY updateAutoAddonWarn.accesskey   "O">
 
 <!ENTITY updateHistory.label             "Zgodovina posodobitev">
 <!ENTITY updateHistory.accesskey         "Z">

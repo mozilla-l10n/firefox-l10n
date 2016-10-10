@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "P">
 <!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Opozori me, če bo to onemogočilo razširitve in teme">
-<!ENTITY updateAutoAddonWarn.accesskey   "O">
 <!ENTITY updateHistory.label             "Pokaži zgodovino posodobitev">
 <!ENTITY updateHistory.accesskey         "o">
 
