@@ -195,7 +195,7 @@
 <!ENTITY addon.undoAction.tooltip             "Dok cen odoco">
 <!ENTITY addon.undoRemove.label               "Dok cen">
 <!ENTITY addon.undoRemove.tooltip             "Gwok med-ikome man ma okete">
-<!ENTITY addon.restartNow.label               "Cak niitit kombedi">
+<!ENTITY addon.restartNow.label               "Cak odoco kombedi">
 <!ENTITY addon.install.label                  "Keti">
 <!ENTITY addon.install.tooltip                "Ket med-ikome man">
 <!ENTITY addon.updateNow.label                "Ket ngec manyen kombedi">
