@@ -74,6 +74,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Finder에 표시">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "폴더 열기">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "변경 설정 목록">
 <!ENTITY aboutSupport.modifiedPrefsName "이름">
