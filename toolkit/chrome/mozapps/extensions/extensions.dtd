@@ -23,7 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "In side tebek gean">
 <!ENTITY cmd.forward.tooltip                  "In side foarút gean">
 
-<!ENTITY showUnsignedExtensions.button.label  "Guon útwreidingen koenen net ferifiearre wurde">
+<!ENTITY showUnsignedExtensions.button.label  "Guon útwreidingen koene net ferifiearre wurde">
 <!ENTITY showAllExtensions.button.label       "Alle útwreidingen toane">
 <!ENTITY debugAddons.label                    "Add-ons debugge">
 <!ENTITY debugAddons.accesskey                "b">

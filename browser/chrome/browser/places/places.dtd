@@ -16,9 +16,9 @@
 <!ENTITY views.label                    "Byld">
 <!ENTITY views.accesskey                "B">
 <!ENTITY views.tooltip                  "Jo werjefte wizigje">
-<!ENTITY view.columns.label             "Toan kolommen">
+<!ENTITY view.columns.label             "Kolommen toane">
 <!ENTITY view.columns.accesskey         "T">
-<!ENTITY view.sort.label                "Sortearre">
+<!ENTITY view.sort.label                "Sortearje">
 <!ENTITY view.sort.accesskey            "s">
 <!ENTITY view.unsorted.label            "Net sortearre">
 <!ENTITY view.unsorted.accesskey        "N">
@@ -94,7 +94,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Ymport en Reservekopy">
+<!ENTITY maintenance.label      "Ymportearje en reservekopy meitsje">
 <!ENTITY maintenance.accesskey  "Y">
 <!ENTITY maintenance.tooltip    "Jo blêdwizers ymportearje en reservekopy meitsje">
 
