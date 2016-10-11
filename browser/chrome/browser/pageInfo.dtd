@@ -30,7 +30,7 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Lokaasje:">
 <!ENTITY  mediaText             "Assosjearre tekst:">
-<!ENTITY  mediaAltHeader        "Alternatieve tekst">
+<!ENTITY  mediaAltHeader        "Alternative tekst">
 <!ENTITY  mediaAddress          "Adres">
 <!ENTITY  mediaType             "Type">
 <!ENTITY  mediaSize             "Grutte">
