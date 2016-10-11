@@ -32,7 +32,7 @@
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; периодично ще проверява за обновявания и ще ви информира, когато се появят съвместими версии.">
 
 <!ENTITY  finished.wizard.title           "Инсталирани съвместими добавки">
-<!ENTITY  finished.top.label              "&brandShortName; инсталира обновяванията на добавките.">
+<!ENTITY  finished.top.label              "Добавките на &brandShortName; са обновени.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; може да проверява за обновявания на добавките и да ви информира за това.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ще проверява за обновявания на добавките и да ви информира за това.">
 
