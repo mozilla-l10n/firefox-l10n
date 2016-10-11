@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Писане и адресиране">
 <!ENTITY addressingGroupTitle.label "Адресиране">
@@ -16,12 +16,12 @@
 <!ENTITY directories.label         "се използва друг LDAP сървър:">
 <!ENTITY directories.accesskey     "с">
 <!ENTITY directoriesNone.label     "Без">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Писане">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Писане на писма в HTML формат">
+<!ENTITY useHtml.label                        "Писане на писма във формат HTML">
 <!ENTITY useHtml.accesskey                    "а">
 <!ENTITY autoQuote.label                      "При отговор автоматично се цитира оригиналното писмо">
 <!ENTITY autoQuote.accesskey                  "ц">

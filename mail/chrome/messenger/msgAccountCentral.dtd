@@ -4,7 +4,7 @@
 
 <!ENTITY emailSectionHdr.label        "Електронна поща">
 <!ENTITY readMsgsLink.label           "Четене на писма">
-<!ENTITY composeMsgLink.label         "Писане на ново писмо">
+<!ENTITY composeMsgLink.label         "Писане на писмо">
 
 <!ENTITY newsSectionHdr.label         "Дискусионни групи">
 <!ENTITY subscribeNewsLink.label      "Управление на абонирането за дискусионни групи">
@@ -17,7 +17,7 @@
 
 <!ENTITY accountsSectionHdr.label     "Регистрации">
 <!ENTITY subscribeImapFolders.label   "Управление на абонирането за папка">
-<!ENTITY settingsLink.label           "Преглед настройките на регистрацията">
+<!ENTITY settingsLink.label           "Преглед на настройките">
 <!ENTITY newAcctLink.label            "Създаване на сметка">
 <!ENTITY newAcct.label                "Създаване на сметка:">
 

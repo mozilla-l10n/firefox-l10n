@@ -863,7 +863,7 @@
 <!ENTITY ViewContact.accesskey "П">
 <!ENTITY SubscribeToNewsgroup.label "Абониране за дискусионна група">
 <!ENTITY SubscribeToNewsgroup.accesskey "д">
-<!ENTITY SendMessageTo.label "Писане на съобщение до">
+<!ENTITY SendMessageTo.label "Писане на писмо до">
 <!ENTITY SendMessageTo.accesskey "с">
 <!ENTITY CopyEmailAddress.label "Копиране на пощенския адрес">
 <!ENTITY CopyEmailAddress.accesskey "К">

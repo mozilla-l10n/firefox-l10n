@@ -6,7 +6,7 @@
 <!ENTITY requestReceipt.label          "При изпращане на писмо, винаги се изисква обратна разписка">
 <!ENTITY requestReceipt.accesskey      "П">
 <!ENTITY receiptArrive.label           "При пристигане на обратна разписка:">
-<!ENTITY leaveIt.label                 "Остава в Пощенска кутия">
+<!ENTITY leaveIt.label                 "Остава във Входяща папка">
 <!ENTITY leaveIt.accesskey             "О">
 <!ENTITY moveToSent.label              "Премества се в папка &quot;Изпратени&quot;">
 <!ENTITY moveToSent.accesskey          "р">
