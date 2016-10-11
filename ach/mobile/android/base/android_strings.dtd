@@ -18,7 +18,7 @@
 <!ENTITY firstrun_signin_message "Kube, caki">
 <!ENTITY firstrun_signin_button "Dony iye wek itim marom">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
-<!ENTITY firstrun_button_notnow "pe kombedi">
+<!ENTITY firstrun_button_notnow "Pe kombedi">
 <!ENTITY firstrun_button_next "Malubo">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
