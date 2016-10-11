@@ -23,9 +23,9 @@
 <!ENTITY overrideNamespaces.label "Сървърът може да променя тези именни пространства">
 <!ENTITY overrideNamespaces.accesskey "С">
 <!ENTITY pop3DeferringDesc.label "При изтегляне на поща от този сървър да се използва следната папка за съхранение на нови писма:" >
-<!ENTITY accountInbox.label "Пощенска кутия на тази поща">
+<!ENTITY accountInbox.label "Входяща кутия на тази сметка">
 <!ENTITY accountInbox.accesskey "з">
-<!ENTITY deferToServer.label "Пощенска кутия на друга поща">
+<!ENTITY deferToServer.label "Входяща кутия на друга сметка">
 <!ENTITY deferToServer.accesskey "у">
 <!ENTITY deferGetNewMail.label "Включително и този сървър при получаване на нова поща">
 <!ENTITY deferGetNewMail.accesskey "В">
