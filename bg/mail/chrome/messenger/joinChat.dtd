@@ -6,5 +6,5 @@
 <!ENTITY name.label                     "Стая">
 <!ENTITY optional.label                 "(допълнително)">
 <!ENTITY account.label                  "Сметка">
-<!ENTITY autojoin.label                 "Автоматично присъединяване към тази стая за разговори">
+<!ENTITY autojoin.label                 "Автоматично присъединяване">
 <!ENTITY autojoin.accesskey             "А">
