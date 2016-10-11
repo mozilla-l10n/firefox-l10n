@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                       "Jo hawwe sertifikaten as bestân dy't dizze minsken identifisearje:">
 <!ENTITY certmgr.websites2                    "Jo hawwe sertifikaten as bestân dy't dizze servers identifisearje:">
 <!ENTITY certmgr.cas                          "Jo hawwe sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
-<!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten as bestân dy't net passe yn ien fan de oare kategoryën:">
+<!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten as bestân dy't net passe yn ien fan de oare kategoryen:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemien">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
@@ -54,7 +54,7 @@
 <!ENTITY certmgr.close.label                  "Slute">
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label                  "Werjaan…">
-<!ENTITY certmgr.view2.accesskey              "T">
+<!ENTITY certmgr.view2.accesskey              "W">
 <!ENTITY certmgr.edit3.label                  "Fertrouwen bewurkje…">
 <!ENTITY certmgr.edit3.accesskey              "B">
 <!ENTITY certmgr.export.label                 "Eksportearje…">
