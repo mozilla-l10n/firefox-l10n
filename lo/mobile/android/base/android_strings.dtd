@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "ໃຊ້ລະຫັດຜ່ານຫລັກ">
 <!ENTITY pref_sync2 "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY pref_sync_summary2 "ຊິງແທັບຂອງທ່ານ, ບຸກມາກ, ການເຂົ້າສູ່ລະບົບ, ປະຫວັດການນຳໃຊ້">
+<!ENTITY pref_sync_summary2 "Sync ແທັບ, ບຸກມາກ, ການເຂົ້າສູ່ລະບົບ ແລະ ປະຫວັດການນຳໃຊ້ຂອງທ່ານ">
 <!ENTITY pref_search_suggestions "ສະແດງຜົນການແນະນຳການຊອກຫາ">
 <!ENTITY pref_history_search_suggestions "ສະແດງປະຫວັດການຊອກຫາ">
 <!ENTITY pref_import_options "ທາງເລືອກໃນການປ້ອນຂໍ້ມູນ">
@@ -706,7 +706,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ເພື່ອດາວໂຫລດຟາຍຂໍ້ມູນ ແລະ ອັບເດດ, ກະລຸນາອະນຸຍາດສຶດທິໃຫ້ແກ່ &brandShortName; ສາມາດເຂົ້າເຖິງພື້ນທີ່ຈັດເກັບຂໍ້ມູນໄດ້.">
+<!ENTITY updater_permission_text "ເພື່ອດາວໂຫລດຟາຍຂໍ້ມູນ ແລະ ອັບເດດ, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ &brandShortName; ສາມາດເຂົ້າເຖິງພື້ນທີ່ຈັດເກັບຂໍ້ມູນໄດ້.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "ອະນຸຍາດ">
 

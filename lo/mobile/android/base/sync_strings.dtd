@@ -54,10 +54,10 @@
 <!ENTITY fxaccount_status_signed_in_as 'ເຂົ້າສູ່ລະບົບດ້ວຍ'>
 <!ENTITY fxaccount_status_manage_account 'ຈັດການບັນຊີ'>
 <!ENTITY fxaccount_status_auth_server 'ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ'>
-<!ENTITY fxaccount_status_sync_now 'ຊິງໃນຂະນະນີ້'>
-<!ENTITY fxaccount_status_syncing2 'ກຳລັງຊິງ…'>
+<!ENTITY fxaccount_status_sync_now 'Sync ຕອນນີ້'>
+<!ENTITY fxaccount_status_syncing2 'ກຳລັງ Sync…'>
 <!ENTITY fxaccount_status_device_name 'ຊື່ອຸປະກອນ'>
-<!ENTITY fxaccount_status_sync_server 'ຊິງເຄື່ອງແມ່ຂ່າຍ'>
+<!ENTITY fxaccount_status_sync_server 'Sync ຄື່ອງແມ່ຂ່າຍ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ເປີດໃຊ້ງານ'>
 <!ENTITY fxaccount_status_needs_verification2 'ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢັ້ງຢືນ. ແຕະເພື່ອສົ່ງອີເມວຢືນຢັນຄືນໃຫມ່ອີກຄັ້ງຫນຶ່ງ.'>
