@@ -184,7 +184,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
+<!ENTITY pref_category_notifications "Jami angeya">
 
 
 
@@ -220,7 +220,7 @@
 <!ENTITY pref_header_search "Yeny">
 <!ENTITY pref_header_privacy_short "Mung">
 <!ENTITY pref_header_accessibility "Kit me nongo">
-
+<!ENTITY pref_header_notifications "Jami angeya">
 <!ENTITY pref_header_advanced "Ma lamal">
 <!ENTITY pref_header_help "Kony">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -277,7 +277,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Cit i ter">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -289,14 +289,17 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Ter">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Kwan kombedi">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -363,7 +366,8 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Gam">
 <!ENTITY pref_private_data_syncedTabs "Dirica matino ma kitimo marom">
 
-
+<!ENTITY pref_default_browser "Ket calo layeny makwongo">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
 <!ENTITY pref_about_firefox "Makwako &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
 <!ENTITY pref_vendor_feedback "Mi lagam">
@@ -409,6 +413,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Ngec manyen mapire kene">
 <!ENTITY pref_update_autodownload_wifi "Ki i Wi-Fi keken">
 <!ENTITY pref_update_autodownload_never "Pe">
 <!ENTITY pref_update_autodownload_always "Jwijwi">
@@ -551,7 +556,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "Alamabuk ma i gwoko nyute kany.">
 <!ENTITY home_closed_tabs_title2 "Ma kiloro cokki">
 <!ENTITY home_last_tabs_empty "Dirica matino ni ma cokki nyute kany.">
-
+<!ENTITY home_restore_all "Dwok weng">
 
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Kakube ma ilimo cokki loyo nyute kany.">
@@ -778,9 +783,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY helper_triple_readerview_open_button "Med ikom alamabuk">
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Mapol">
