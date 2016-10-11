@@ -31,7 +31,7 @@
 <!ENTITY firstrun_readerview_subtext "Ti ki lakwan we coc onen ma ber me akwana \u2014 kede bene i pe iyamo">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
-<!ENTITY firstrun_account_title "in">
+<!ENTITY firstrun_account_title "Yin">
 
 
 <!ENTITY  onboard_start_restricted1 "Bed maber kadong iloc ki kit &brandShortName; man ma kiyubo ma yoti.">
