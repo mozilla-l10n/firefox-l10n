@@ -89,7 +89,7 @@
 <!ENTITY useService.label                "Brûk in eftergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY updateOthers.label              "Automatysk fernijing:">
+<!ENTITY updateOthers.label              "Automatysk fernije:">
 <!ENTITY enableSearchUpdate.label        "Sykmasinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 

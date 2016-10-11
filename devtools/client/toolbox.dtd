@@ -33,7 +33,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-<!ENTITY options.context.inspector "Inspector">
+<!ENTITY options.context.inspector "Ynspektor">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
@@ -45,7 +45,7 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "DOM-attributen ôfkappe">
-<!ENTITY options.collapseAttrs.tooltip "Lange attributen yn de inspector ôfkappe">
+<!ENTITY options.collapseAttrs.tooltip "Lange attributen yn de ynspektor ôfkappe">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -167,7 +167,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Orizjinele boarne toane">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Orizjinele boarne toane (byg. Sass-bestannen) yn de Stylbewurker en Inspector">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Orizjinele boarne toane (byg. Sass-bestannen) yn de Stylbewurker en Ynspektor">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->

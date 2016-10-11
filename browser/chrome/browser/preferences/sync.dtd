@@ -83,7 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Brûke jo in âldere ferzje fan Sync?">
 
-<!ENTITY signedOut.caption            "Nim jo web mei">
+<!ENTITY signedOut.caption            "Nim jo web mei jo mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">
 <!ENTITY signedOut.accountBox.title   "Ferbining meitsje mei in &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Account oanmeitsje">
