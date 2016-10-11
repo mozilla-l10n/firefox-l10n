@@ -211,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Velg om du kan motta varsler fra nettstedet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Behandle deling av kamera og/eller mikrofon på dette nettstedet">
