@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Следенето в реално време е изключено за еднопроцесен Firefox.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Записването в реално време е изключено за еднопроцесен Firefox.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -45,9 +45,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Дърво на извикванията">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Осветяване функциите на JavaScript, където браузърът прекарва най-много време, докато се следи производителността.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Заделяния">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показване къде е била заделена паметта по време на следенето.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показване къде е била заделена паметта по време на записването.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Огнена диаграма на JS">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показване стека на извикванията на JavaScript по време на следенето.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показване стека на извикванията на JavaScript по време на записването.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Огнена диаграма на заделянията">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -71,7 +71,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "Избор на данните за показване във времевата линия">
+<!ENTITY performanceUI.options.filter.tooltiptext "Избор на данните във времевата линия">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
@@ -97,7 +97,7 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "Оптимизации на JIT">
-<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Следене на извадките от данните за оптимизацията на JIT при всеки кадър от JavaScript.">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Извадки от данните за оптимизацията на JIT за всеки кадър от JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
@@ -108,20 +108,20 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableMemory             "Следене на паметта">
-<!ENTITY performanceUI.enableMemory.tooltiptext "Следене употребата на паметта по време на профайлването.">
+<!ENTITY performanceUI.enableMemory             "Записване на паметта">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Записване на употребата на памет по време на профилирането.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableAllocations             "Следене на заделянията">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Следене на заделянията на Object по време на профайлването.">
+<!ENTITY performanceUI.enableAllocations             "Записване на заделянията">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Записване на заделянията на Object по време на профилирането.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Следене на фреймрейта">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Следене на фреймрейта по време на профайлването.">
+<!ENTITY performanceUI.enableFramerate             "Записване на скоростта на кадрите">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Записване на скоростта на кадрите по време на профилирането.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
@@ -133,5 +133,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-<!ENTITY performanceUI.console.stopCommandStart "За спиране на следенето въведете">
+<!ENTITY performanceUI.console.stopCommandStart "За спиране на записването въведете">
 <!ENTITY performanceUI.console.stopCommandEnd   "в конзолата.">
