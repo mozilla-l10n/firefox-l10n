@@ -156,7 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Mdel asfaylu">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Ticraḍ n isebdar">
+<!ENTITY bookmarksMenu.label "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter agi">
 <!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebtar agi">
