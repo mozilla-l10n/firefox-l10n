@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Ferwizende URL:">
 <!ENTITY  generalSource         "Bufferboarne:">
 <!ENTITY  generalModified       "Wizige:">
-<!ENTITY  generalEncoding2      "Tekstkodearing:">
+<!ENTITY  generalEncoding2      "Tekstkodearring:">
 <!ENTITY  generalMetaName       "Namme">
 <!ENTITY  generalMetaContent    "Ynhâld">
 
@@ -68,12 +68,12 @@
 <!ENTITY  securityView.unknown   "Unbekend">
 
 
-<!ENTITY  securityView.identity.header   "Website identiteit">
+<!ENTITY  securityView.identity.header   "Website-identiteit">
 <!ENTITY  securityView.identity.owner    "Eigener: ">
 <!ENTITY  securityView.identity.domain   "Website: ">
 <!ENTITY  securityView.identity.verifier "Befêstige troch: ">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; Skiednis">
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; skiednis">
 <!ENTITY  securityView.privacy.history                  "Haw ik dizze website al earder as hjoed besocht?">
 <!ENTITY  securityView.privacy.cookies                  "Bewarret dizze website ynformaasje (cookies) op myn kompjûter?">
 <!ENTITY  securityView.privacy.viewCookies              "Cookies besjen">
