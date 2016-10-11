@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "P">
 
 <!ENTITY goOfflineCmd.label "Offline wurkje">
-<!ENTITY goOfflineCmd.accesskey "f">
+<!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY menubarCmd.label "Menubalke">
 <!ENTITY menubarCmd.accesskey "M">
@@ -96,7 +96,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Side-ynfo">
-<!ENTITY pageInfoCmd.accesskey "y">
+<!ENTITY pageInfoCmd.accesskey "f">
 <!ENTITY pageInfoCmd.commandkey "y">
 <!ENTITY mirrorTabCmd.label "Ljepblêd spegelje">
 <!ENTITY mirrorTabCmd.accesskey "s">
@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Byld"> 
-<!ENTITY viewMenu.accesskey       "B"> 
+<!ENTITY viewMenu.accesskey       "y"> 
 <!ENTITY viewToolbarsMenu.label       "Arkbalken"> 
 <!ENTITY viewToolbarsMenu.accesskey     "A"> 
 <!ENTITY viewSidebarMenu.label "Sidebalke">
@@ -629,7 +629,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Tebeksette">
-<!ENTITY fullZoomResetCmd.accesskey     "T">
+<!ENTITY fullZoomResetCmd.accesskey     "b">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -658,7 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Sidestyl">
-<!ENTITY pageStyleMenu.accesskey "S">
+<!ENTITY pageStyleMenu.accesskey "d">
 <!ENTITY pageStyleNoStyle.label "Gjin styl">
 <!ENTITY pageStyleNoStyle.accesskey "G">
 <!ENTITY pageStylePersistentOnly.label "Basisstyl">
