@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "Онлайн контакти">
-<!ENTITY offlineContactsHeader.label   "Офлайн контакти">
+<!ENTITY onlineContactsHeader.label    "Контакти на линия">
+<!ENTITY offlineContactsHeader.label   "Контакти без мрежа">
 <!ENTITY conversationsHeader.label     "Разговори">
 <!ENTITY searchResultConversation.label "Резултати от търсенето">
 <!ENTITY chat.noConv.title             "Разговорите ще бъдат показвани тук.">
@@ -34,11 +34,11 @@
 
 <!ENTITY addBuddyButton.label          "Добавяне на контакт">
 <!ENTITY joinChatButton.label          "Присъединяване към разговор">
-<!ENTITY chatAccountsButton.label      "Показване на сметките">
+<!ENTITY chatAccountsButton.label      "Списък със сметки">
 
-<!ENTITY status.available          "На разположение">
-<!ENTITY status.unavailable        "Недостъпен">
-<!ENTITY status.offline            "Офлайн">
+<!ENTITY status.available          "На линия">
+<!ENTITY status.unavailable        "Зает">
+<!ENTITY status.offline            "Без мрежа">
 
 <!ENTITY openLinkCmd.label            "Отваряне на препратка…">
 <!ENTITY openLinkCmd.accesskey        "О">

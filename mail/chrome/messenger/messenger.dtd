@@ -460,8 +460,8 @@
 <!ENTITY activitymanager.accesskey "в">
 <!ENTITY imAccountsStatus.label "Състояние на разговора">
 <!ENTITY imAccountsStatus.accesskey "С">
-<!ENTITY imStatus.available          "Наличен">
-<!ENTITY imStatus.unavailable        "Недостъпен">
+<!ENTITY imStatus.available          "На линия">
+<!ENTITY imStatus.unavailable        "Зает">
 <!ENTITY imStatus.offline            "Без връзка">
 <!ENTITY imStatus.showAccounts       "Показване на сметките…">
 <!ENTITY joinChatCmd.label "Присъединяване към разговор…">
