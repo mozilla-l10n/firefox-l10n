@@ -716,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
 <!ENTITY identity.description.passiveLoaded "Jo ferbining is net privee en gegevens dy't jo mei de website diele soene troch oaren besjoen wurde kinne.">
-<!ENTITY identity.description.passiveLoaded2 "Dizze website befettet ynhâld dy't net befeilige is (lekas ôfbyldingen).">
+<!ENTITY identity.description.passiveLoaded2 "Dizze website befettet ynhâld dy't net befeilige is (lykas ôfbyldingen).">
 <!ENTITY identity.description.passiveLoaded3 "Hoewol &brandShortName; bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy't net befeilige is (lykas ôfbyldingen).">
 <!ENTITY identity.description.activeLoaded "Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.">
 <!ENTITY identity.description.activeLoaded2 "Gegevens dy't jo mei dizze website diele, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
