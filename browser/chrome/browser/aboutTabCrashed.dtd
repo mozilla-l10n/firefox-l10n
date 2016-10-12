@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "一个坏消息：此标签页已经崩溃">
-<!ENTITY tabCrashed.message "好消息是：您可以选择关闭此标签页，恢复此标签页，或者恢复所有已崩溃的标签页。这不会影响其余标签页。">
+<!ENTITY tabCrashed.header "坏消息：此标签页已经崩溃">
+<!ENTITY tabCrashed.message "好消息是：您可以选择关闭此标签页、恢复此标签页，或者一次恢复所有已崩溃的标签页。这不会影响其余标签页。">
 <!ENTITY tabCrashed.sendReport "提交崩溃报告以帮助我们解决问题">
-<!ENTITY tabCrashed.includeURL "包含我所浏览页面的网址">
+<!ENTITY tabCrashed.includeURL "附上我所浏览页面的网址">
 <!ENTITY tabCrashed.commentPlaceholder "加上附注（附注公开可见）">
 <!ENTITY tabCrashed.emailPlaceholder "请在这里输入您的电子邮件地址">
 <!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
