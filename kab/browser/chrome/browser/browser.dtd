@@ -815,13 +815,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Rermed ammesten n usmel agi">
-<!ENTITY trackingProtection.unblock.accesskey "R">
+<!ENTITY trackingProtection.unblock.label "Kkes armad n ummesten n usmel agi">
+<!ENTITY trackingProtection.unblock.accesskey "K">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Rermed ammesten n tɣimit agi">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "R">
+<!ENTITY trackingProtection.unblockPrivate.label "Kkes armad n ummesten n tɣimit agi">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "K">
 <!ENTITY trackingProtection.block2.label "Rmed amesten">
 <!ENTITY trackingProtection.block2.accesskey "R">
 
@@ -829,11 +829,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Kra n tazunin n usebtar agi ig ţfuɣalen armud inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
 <!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
-<!ENTITY trackingContentBlocked.unblock2.label "Rermed ammesten n usmel agi">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "R">
+<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel agi">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "K">
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
 <!ENTITY trackingContentBlocked.block.accesskey "R">
-<!ENTITY trackingContentBlocked.disabled.message "Aḥraz mgal afuɣel irermed">
+<!ENTITY trackingContentBlocked.disabled.message "Ammesten mgal asfuɣel ur yermid ara">
 
 <!ENTITY pluginNotification.showAll.label "Sken imaṛṛa">
 <!ENTITY pluginNotification.showAll.accesskey "S">

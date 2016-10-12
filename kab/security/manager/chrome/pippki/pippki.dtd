@@ -20,7 +20,7 @@
 <!ENTITY downloadCert.message1 "Sutren-ak-d asentem n udabu n uselken amaynut (CA).">
 <!ENTITY downloadCert.trustSSL "Sentem abadu yagi n uselken akken ad suluḍ ismal web.">
 <!ENTITY downloadCert.trustEmail "Sentem adabu yagi n uselken i wesulu n iseqdacen n yimayl. ">
-<!ENTITY downloadCert.trustObjSign "Sentem adabu yagi n uselken i wesulu n ineflayen n iseɣẓan.">
+<!ENTITY downloadCert.trustObjSign "Sentem adabu yagi n uselken i wesulu n ineflayen n iseɣẓanen.">
 <!ENTITY downloadCert.message3 "Send ad tesentmeḍ adabu agi  n uselken CA, issefk ad ittusekyed, ad ttusekeydent tarrayin ines d tisekkirin ines (ma yella wamek).">
 <!ENTITY downloadCert.viewCert.label "Timeẓri">
 <!ENTITY downloadCert.viewCert.text "Sekyed aselkin n udabu n selken">

@@ -86,8 +86,8 @@
 
 <!ENTITY cmd.enableAddon.label                "Rmed">
 <!ENTITY cmd.enableAddon.accesskey            "R">
-<!ENTITY cmd.disableAddon.label               "Rermed">
-<!ENTITY cmd.disableAddon.accesskey           "R">
+<!ENTITY cmd.disableAddon.label               "Ssens">
+<!ENTITY cmd.disableAddon.accesskey           "S">
 <!ENTITY cmd.enableTheme.label                "Snes asentel">
 <!ENTITY cmd.enableTheme.accesskey            "S">
 <!ENTITY cmd.disableTheme.label               "Kkes asentel">
@@ -137,7 +137,7 @@
 <!ENTITY detail.updateDefault.tooltip         "Sebded ileqman s wudem awurman ma yella d-amezwer kan.">
 <!ENTITY detail.updateAutomatic.label         "Remden">
 <!ENTITY detail.updateAutomatic.tooltip       "Sebded ileqman s wudem awurman">
-<!ENTITY detail.updateManual.label            "Irermed">
+<!ENTITY detail.updateManual.label            "Yensa">
 <!ENTITY detail.updateManual.tooltip          "Ur sebdad ara ileqman s wudem awurman">
 <!ENTITY detail.home                          "Asebtar agejdan">
 <!ENTITY detail.repository                    "Amaɣnu n uzegrir amernan">

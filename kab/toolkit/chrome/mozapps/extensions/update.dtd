@@ -19,8 +19,8 @@
 
 <!ENTITY  found.wizard.title               "Izegrar imernan imsaḍan ţwaffen">
 <!ENTITY  found.top.label                 "Fren izegrar imernan tebɣiḍ ad tesbeddeḍ:">
-<!ENTITY  found.disabledXPinstall.label   "Ileqman agi ur zmiren ara ad ttwasebedden acku asebded n iseɣẓan yetturermed  akka tura. Tzemred as tesnifleḍ aɣewwaṛ ddaw agi:">
-<!ENTITY  found.enableXPInstall.label     "Sireg isemlen web ad sebedden iseɣẓanen">
+<!ENTITY  found.disabledXPinstall.label   "Ileqman agi ur zmiren ara ad ttwasebedden acku asebded n iseɣẓanen yetturermed  akka tura. Tzemred as tesnifleḍ aɣewwaṛ daw agi:">
+<!ENTITY  found.enableXPInstall.label     "Sireg ismal web ad sebedden iseɣẓanen">
 <!ENTITY  found.enableXPInstall.accesskey "S">
 
 <!ENTITY  installing.wizard.title         "Asebded n izegrar imernan imṣadan">
