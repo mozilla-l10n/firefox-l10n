@@ -92,7 +92,7 @@
 
 <!ENTITY pprint.label                 "Подреждане на кода">
 <!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "У">
+<!ENTITY pprint.accesskey             "П">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
