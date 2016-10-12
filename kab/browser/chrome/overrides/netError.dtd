@@ -64,7 +64,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrayan ma llan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim inek t-ţeddu.</li> <li>Ma yella aselkim inek neɣ aẓeṭṭa inek iţummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Asebter ur iwehi ara akken iwata">
-<!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekk-ad seg urermed neɣ tuggin n inagan n tuqqna.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekk-ad si tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
