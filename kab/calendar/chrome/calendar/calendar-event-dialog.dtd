@@ -160,8 +160,8 @@
 
 <!-- Main page -->
 
-<!ENTITY event.location.label                             "Adig" >
-<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.location.label                             "Adig:" >
+<!ENTITY event.location.accesskey                         "A">
 <!ENTITY event.categories.label                           "Taggayt:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "Rrnu Taggayt Tamaynut" >
