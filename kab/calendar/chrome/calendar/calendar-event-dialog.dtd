@@ -114,21 +114,21 @@
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ur iban ara anwa">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "b">
 <!ENTITY  event.menu.options.priority.low.label               "Meẓẓi">
-<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.low.accesskey           "M">
 <!ENTITY  event.menu.options.priority.normal.label            "Amagnu">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "Muqqer">
-<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.priority.high.accesskey          "q">
 
 
 
 
 <!ENTITY  event.menu.options.privacy.confidential.label       "Seken-d Akkud d uzemz kan">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
-<!ENTITY  event.menu.options.privacy.private.label            "Tadyant Tusligt">
-<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.privacy.private.label            "Tadyant tusligt">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "d">
 <!ENTITY  event.menu.options.show.time.label                  "Sken akkud am">
-<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.accesskey              "n">
 
 
 
@@ -174,7 +174,7 @@
 <!ENTITY event.from.label                                 "Bdu" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "Bdu:" >
-<!ENTITY task.from.accesskey                              "S">
+<!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "Tagara:" >
 
 
@@ -185,8 +185,8 @@
 
 <!ENTITY event.until.label                                "Ar ma:">
 
-<!ENTITY event.reminder.label                             "Ccefu:" >
-<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.reminder.label                             "Mmekti-d:" >
+<!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Aglam:" >
 <!ENTITY event.description.accesskey                      "p">
 
