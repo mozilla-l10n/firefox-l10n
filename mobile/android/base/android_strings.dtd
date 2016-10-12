@@ -169,7 +169,7 @@
 <!ENTITY pref_whats_new_notification_summary "Visualizza informazioni sulle nuove caratteristiche dopo un aggiornamento">
 <!ENTITY pref_category_experimental "Caratteristiche sperimentali">
 <!ENTITY pref_custom_tabs "Schede personalizzate">
-<!ENTITY pref_custom_tabs_summary2 "Consenti alle app di aprire siti web in una versione personalizzata di Firefox.">
+<!ENTITY pref_custom_tabs_summary3 "Consenti alle app di aprire siti web in una versione personalizzata di &brandShortName;.">
 <!ENTITY pref_activity_stream "Flusso attività">
 <!ENTITY pref_activity_stream_summary "Una visualizzazione della cronologia ricca di informazioni e una pagina iniziale completamente ripensata rendono ancora più semplice trovare tutte ciò che serve in &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
