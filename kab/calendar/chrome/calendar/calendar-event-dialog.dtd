@@ -165,14 +165,14 @@
 <!ENTITY event.categories.label                           "Taggayt:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "Rrnu Taggayt Tamaynut" >
-<!ENTITY event.calendar.label                             "Awitay" >
-<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.calendar.label                             "Awitay:" >
+<!ENTITY event.calendar.accesskey                         "y">
 
 
 <!ENTITY event.alldayevent.label                          "Tadyant n wass imeṛṛa" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Bdu" >
-<!ENTITY event.from.accesskey                             "S">
+<!ENTITY event.from.label                                 "Bdu:" >
+<!ENTITY event.from.accesskey                             "B">
 <!ENTITY task.from.label                                  "Bdu:" >
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "Tagara:" >
@@ -188,21 +188,21 @@
 <!ENTITY event.reminder.label                             "Mmekti-d:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Aglam:" >
-<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.description.accesskey                      "m">
 
 
 <!ENTITY event.attachments.menubutton.label               "Qqen">
-<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.menubutton.accesskey           "Q">
 <!ENTITY event.attachments.url.label                      "Asebter web...">
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Kkes" >
-<!ENTITY event.attachments.popup.remove.accesskey         "R" >
-<!ENTITY event.attachments.popup.open.label               "lddi" >
-<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.remove.accesskey         "K" >
+<!ENTITY event.attachments.popup.open.label               "Ldi" >
+<!ENTITY event.attachments.popup.open.accesskey           "L" >
 <!ENTITY event.attachments.popup.removeAll.label          "Kkes akk" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
-<!ENTITY event.attachments.popup.attachPage.label         "Qqen Asebter web..." >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.attachments.popup.attachPage.label         "Qqen asebter web..." >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
 
 <!ENTITY event.priority2.label                            "Tazwart:">
 
