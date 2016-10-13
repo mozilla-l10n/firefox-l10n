@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Aseɣwen n ufaylu">
 <!ENTITY attachCloudCmd.accesskey "f">
-<!ENTITY attachPageCmd.label "Asebtar web…">
+<!ENTITY attachPageCmd.label "Asebter web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Takarda tudmawant (vCard)">

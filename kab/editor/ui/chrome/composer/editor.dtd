@@ -12,14 +12,14 @@
 
 <!ENTITY compositionToolbar.tooltip "Afeggag n isefka n usuddes">
 <!ENTITY previewToolbarCmd.label "Ḍum">
-<!ENTITY previewToolbarCmd.tooltip "Sali-d asebtar agi ɣef iminig">
+<!ENTITY previewToolbarCmd.tooltip "Sali-d asebter agi ɣef iminig">
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Sifeḍ ɣer uḍris…">
 <!ENTITY exportToTextCmd.accesskey "S">
-<!ENTITY previewCmd.label "Ḍum asebtar">
-<!ENTITY previewCmd.accesskey "u">
-<!ENTITY sendPageCmd.label "Azen asebtar…">
+<!ENTITY previewCmd.label "Snirem asebter">
+<!ENTITY previewCmd.accesskey "i">
+<!ENTITY sendPageCmd.label "Azen asebter…">
 <!ENTITY sendPageCmd.accesskey "A">
 <!-- View menu items -->
 

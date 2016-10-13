@@ -31,7 +31,7 @@
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Amaynut">
-<!ENTITY newToolbarCmd.tooltip "Rnu asebtar amsuddes amaynut">
+<!ENTITY newToolbarCmd.tooltip "Rnu asebter amsuddes amaynut">
 <!ENTITY openToolbarCmd.label "Ldi">
 <!ENTITY openToolbarCmd.tooltip "Ldi afaylu adigan">
 <!ENTITY saveToolbarCmd.tooltip "Kles afaylu ɣef adeg adigan">

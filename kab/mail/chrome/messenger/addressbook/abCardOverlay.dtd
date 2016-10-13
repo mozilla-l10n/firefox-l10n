@@ -72,7 +72,7 @@
 <!ENTITY HomeZipCode.accesskey          "g">
 <!ENTITY HomeCountry.label              "Tamurt:">
 <!ENTITY HomeCountry.accesskey          "T">
-<!ENTITY HomeWebPage.label              "Asebtar web:">
+<!ENTITY HomeWebPage.label              "Asebter web:">
 <!ENTITY HomeWebPage.accesskey          "w">
 <!ENTITY Birthday.label                 "Azemz n tlalit:">
 <!ENTITY Birthday.accesskey             "A">
@@ -102,7 +102,7 @@
 <!ENTITY WorkZipCode.accesskey          "g">
 <!ENTITY WorkCountry.label              "Tamurt:">
 <!ENTITY WorkCountry.accesskey          "T">
-<!ENTITY WorkWebPage.label              "Asebtar web:">
+<!ENTITY WorkWebPage.label              "Asebter web:">
 <!ENTITY WorkWebPage.accesskey          "w">
 
 <!ENTITY Other.tab                      "Wiyaḍ">

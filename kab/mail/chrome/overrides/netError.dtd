@@ -26,7 +26,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Ahat yettwakkes, yettwasenkez, neɣ d izerfan ɣef ufaylu i yesweḥlen anekcum.</li> </ul>">
 
 <!ENTITY generic.title "Ay ay ay.">
-<!ENTITY generic.longDesc "<p>S teɣẓinin tarussinin &brandShortName; ur izmir ara ad isali asebtar agi.</p>">
+<!ENTITY generic.longDesc "<p>S teɣẓinin ur nettwassen ara &brandShortName; ur izmir ara ad isali asebter agi.</p>">
 
 <!ENTITY malformedURI.title "Tansa tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tansiwin web ttwarunt am <strong>http://www.example.com/</strong></li> <li>Wali ma yella tesseqdaceḍ islacen  (amedya <strong>/</strong>).</li> </ul>">
@@ -38,7 +38,7 @@
 <!ENTITY notCached.longDesc "<p>Isemli i d-sutreḍ ulac-it di  tuffirt.</p><ul><li>Ɣef udem n tɣellist, &brandShortName; ur isutur ara tikelt nniḍen isemliyen yeṭṭafaṛen taṛuzi.</li><li>Sit ɣef Ɛreḍ tikelt nniḍen akken ad tesutreḍ tikelt nniḍen isemli seg usmel web.</li></ul>">
 
 <!ENTITY netOffline.title "Aska war tuqqna">
-<!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken aţuɣaleḍ ɣer s srid u smiren asebtar.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur agi.</li> </ul>">
@@ -68,7 +68,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur teddi ara">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebtar agi i tebɣiḍ aţwaliḍ ur yizmir ara ad iţwasken, acku ur nemzir ara ansenqed  asesteb n isefka d-itturemsen</li><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad yettwasken, acku ur nemzir ara ad nsenqed  asesteb n isefka d-itturemsen</li><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
 
 <!ENTITY nssBadCert.title "Tuqqna taɣelsant ur teddi ara">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ayagi yezmer ad yili d-ugur n twila n uqeddac neɣ d-albaɛḍ ig ɛarḍenad yakwer tamagit n uqeddac agi.</li> <li>Ma yella teqqneḍ yakan s trennawt ɣer uqeddac agi, tuccḍa tezmerahat aţili  ţuskudant, u tzemreḍ aţɛerḍeḍ i tikelt nniḍen ticki.</li> </ul>">

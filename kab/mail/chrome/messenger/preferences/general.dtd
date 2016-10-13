@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "Asebtar agejdan n &brandShortName; ">
+<!ENTITY messengerStartPage.label         "Asebter agejdan n &brandShortName; ">
 <!ENTITY enableStartPage.label            "Ticki &brandShortName; yekker, sken asebter agejdan deg temnaṭ n yizen">
 <!ENTITY enableStartPage.accesskey        "T">
 <!ENTITY location.label                   "Adig:">
@@ -36,4 +36,4 @@
 <!ENTITY browse.label                     "Ḍum…">
 <!ENTITY browse.accesskey                 "Ḍ">
 
-<!ENTITY defaultSearchEngine.label        "Amsedday n unadi amezwar">
+<!ENTITY defaultSearchEngine.label        "Amsedday n unadi amezwer">
