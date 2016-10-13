@@ -8,16 +8,16 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "నవీకరణలకై తనిఖీ చేయండి">
+<!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "నవీకరించుటకు &brandShortName; ను పునఃప్రారంభించుము">
+<!ENTITY update.updateButton.label2               "తాజాకరించడానికి &brandShortName;ను పునఃప్రారంభించండి">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; ప్రయోగాత్మకమైనది మరియు స్థిరంగా ఉండకపోవచ్చు.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName;‌ను మరింతగా మెరుగుపరచడానికి ఉపయోగపడే పనితనం, హార్డువేర్, వాడుక మరియు అనురూపనల గురించిన సమాచారాన్ని &vendorShortName;కు స్వయంచాలకంగా పంపిస్తుంది.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName;‌ను మరింతగా మెరుగుపరచడానికి ఉపయోగపడే పనితనం, హార్డువేరు, వాడుక మరియు అనురూపనల గురించిన సమాచారాన్ని &vendorShortName;కు స్వయంచాలకంగా పంపిస్తుంది.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -56,11 +56,11 @@
 <!ENTITY bottomLinks.privacy        "గోప్యతా విధానం">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు చూస్తున్నాం…">
+<!ENTITY update.checkingForUpdates  "తాజాకరణల కొరకు చూస్తున్నాం…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; తాజాగా ఉంది">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "నవీకరణలు మీ సిస్టమ్ నిర్వహణాధికారిచే అచేతనము చేయబడినవి">
+<!ENTITY update.adminDisabled       "మీ సిస్టమ్ నిర్వహణాధికారి తాజాకరణలను అచేతనం చేసారు">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; అనునది వేరొక సంభవంచే నవీకరించబడింది">
 <!ENTITY update.restarting          "తిరిగి ప్రారంభం అవుతోంది…">
@@ -70,7 +70,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "నవీకరణ విఫలమైంది. ">
+<!ENTITY update.failed.start        "తాజాకరణ విఫలమైంది. ">
 <!ENTITY update.failed.linkText     "సరికొత్త వర్షన్‌ను దింపుకోండి">
 <!ENTITY update.failed.end          "">
 
@@ -96,13 +96,13 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "నవీకరణను దింపుకుంటోంది — ">
+<!ENTITY update.downloading.start   "తాజాకరణను దింపుకుంటోంది — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "నవీకరణను ఆపాదిస్తున్నాం…">
+<!ENTITY update.applying            "తాజాకరణను ఆపాదిస్తున్నాం…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "మీరు ప్రస్తుతం ">
-<!ENTITY channel.description.end    " నవీకరణ ఛానల్‌పై ఉన్నారు. ">
+<!ENTITY channel.description.end    " తాజాకరణ ఛానల్‌పై ఉన్నారు. ">
