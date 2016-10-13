@@ -40,5 +40,8 @@
 <!ENTITY modeToolbar.tooltip   "Lišta módu">
 <!ENTITY entryToolbar.tooltip  "Lišta vstupu JavaScriptu">
 <!ENTITY toolbarsCmd.label     "Nástrojové lišty">
+<!ENTITY toolbarsCmd.accesskey "N">
 <!ENTITY toolbarMode.label     "Režim">
+<!ENTITY toolbarMode.accesskey "m">
 <!ENTITY toolbarEval.label     "Vstup JavaScriptu">
+<!ENTITY toolbarEval.accesskey "J">

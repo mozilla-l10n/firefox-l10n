@@ -64,7 +64,10 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Prohlížení se znalostí polohy: ">
+<!ENTITY rights.locationawarebrowsing-b "Služby se znalostí polohy si vždy musí vyžádat váš souhlas, bez kterého nejsou odeslány žádné informace o poloze. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
 <!ENTITY rights.locationawarebrowsing-term1 "Otevřít předvolby aplikace">
+<!ENTITY rights.locationawarebrowsing-term2 "Zvolte panel &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Zvolte volbu &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "Prohlížení se znalostí polohy je nyní vypnuto">
 
 <!-- points 0-6 text for branded builds -->
