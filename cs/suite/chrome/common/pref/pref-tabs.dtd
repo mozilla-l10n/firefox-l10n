@@ -6,6 +6,7 @@
 
 <!ENTITY tabDisplay.label "Zobrazování panelů">
 <!ENTITY autoHide.label "Schovat lištu panelů, pokud je otevřen jen jeden panel">
+<!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Přepnout na nový panel otevřený z odkazu">
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Varovat, pokud zavírám okno s více panely">
@@ -23,4 +24,6 @@
 
 <!ENTITY openManagers.label "Otevřít v novém panelu místo samostatného okna">
 <!ENTITY openDataManager.label "Správce dat">
+<!ENTITY openDataManager.accesskey "a">
 <!ENTITY openAddOnsManager.label "Správce doplňků">
+<!ENTITY openAddOnsManager.accesskey "d">
