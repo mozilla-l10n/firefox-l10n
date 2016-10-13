@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Taɣellist">
 <!ENTITY securityTab.label "Taɣellist">
-<!ENTITY securityHeading.label "Akken ad tzzneḍ u ad tremseḍ iznan yettwazemlen neɣ yettwawgelhen, yessefk ad d-muddeḍ aselkin n uzmul umdin akked uselkin n uwgelhen.">
+<!ENTITY securityHeading.label "Akken ad tzzneḍ u ad d-remseḍ iznan yettwazemlen neɣ yettwawgelhen, yessefk ad d-muddeḍ aselkin n uzmul umdin akked uselkin n uwgelhen.">
 <!ENTITY encryptionGroupTitle.label "Awgelhen">
 <!ENTITY encryptionChoiceLabel.label "Aɣewwaṛ n uwgelhen amezwer di tuzzna nyeznan:">
 <!ENTITY neverEncrypt.label "Werǧin (ur seqdac ara awgelhen)">
