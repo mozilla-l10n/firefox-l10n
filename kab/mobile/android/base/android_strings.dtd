@@ -65,7 +65,7 @@
 
 <!ENTITY url_bar_default_text2 "Nadi neɣ sekcem tansa">
 
-<!ENTITY bookmark "Creḍ asebtar agi">
+<!ENTITY bookmark "Creḍ asebter agi">
 <!ENTITY bookmark_remove "Kkes tacreṭ n usebter">
 <!ENTITY bookmark_added "Tacreṭ n usesebtar terna">
 <!-- Localization note (bookmark_already_added) : This string is
@@ -100,7 +100,7 @@
 
 <!ENTITY search "Nadi">
 <!ENTITY reload "Smiren">
-<!ENTITY forward "Asebtar d-iteddun">
+<!ENTITY forward "Asebter d-iteddun">
 <!ENTITY menu "Umuɣ">
 <!ENTITY back "Uɣal ɣer deffir">
 <!ENTITY stop "Rken">
@@ -152,7 +152,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebtar agi">
+<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenk nniḍen">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
