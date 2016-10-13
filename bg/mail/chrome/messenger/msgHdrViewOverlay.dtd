@@ -54,8 +54,8 @@
 
 <!ENTITY otherActionsButton2.label "Още">
 <!ENTITY otherActionsButton.tooltip "Още действия">
-<!ENTITY otherActionsOpenConversation1.label "Отваряне в диалога">
-<!ENTITY otherActionsOpenConversation1.accesskey "д">
+<!ENTITY otherActionsOpenConversation1.label "Отваряне на нишката">
+<!ENTITY otherActionsOpenConversation1.accesskey "н">
 <!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в нов прозорец">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "н">
 <!ENTITY otherActionsOpenInNewTab1.label "Отваряне в раздел">
@@ -67,7 +67,7 @@
 <!ENTITY saveAsMenuItem1.label "Запис като…">
 <!ENTITY saveAsMenuItem1.accesskey "З">
 <!ENTITY viewSourceMenuItem1.label "Преглед на изходния код">
-<!ENTITY viewSourceMenuItem1.accesskey "П">
+<!ENTITY viewSourceMenuItem1.accesskey "и">
 <!ENTITY otherActionsPrint1.label "Печат…">
 <!ENTITY otherActionsPrint1.accesskey "П">
 
