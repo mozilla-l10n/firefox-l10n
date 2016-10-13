@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad remseḍ ilɣuten seg usmel">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad d-remseḍ ilɣuten seg usmel">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist inek d/neɣ asawaḍ inek d usmel">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ inek d usmel">
