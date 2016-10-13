@@ -29,11 +29,11 @@
 <!ENTITY syncDeviceName.label "Nome dispositivo:">
 <!ENTITY fxaSyncDeviceName.label "Nome dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambia nome dispositivo…">
-<!ENTITY changeSyncDeviceName.label.accesskey "d">
+<!ENTITY changeSyncDeviceName.accesskey "d">
 <!ENTITY cancelChangeSyncDeviceName.label "Annulla">
-<!ENTITY cancelChangeSyncDeviceName.label.accesskey "n">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salva">
-<!ENTITY saveChangeSyncDeviceName.label.accesskey "S">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
 <!ENTITY unlinkDevice.label "Scollega questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
@@ -45,17 +45,16 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
-<!ENTITY signIn.label.accesskey "A">
+<!ENTITY signIn.accesskey "A">
 <!ENTITY profilePicture.tooltip "Cambia l’immagine del profilo">
 <!ENTITY verifiedManage.label "Gestisci account">
-<!ENTITY verifiedManage.label.accesskey "G">
+<!ENTITY verifiedManage.accesskey "G">
 <!ENTITY disconnect.label "Disconnetti…">
-<!ENTITY disconnect.label.accesskey "t">
+<!ENTITY disconnect.accesskey "t">
 <!ENTITY verify.label "Verifica email">
-<!ENTITY verify.label.accesskey "V">
+<!ENTITY verify.accesskey "V">
 <!ENTITY forget.label "Dimentica questa email">
-<!ENTITY forget.label.accesskey "m">
-<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey "e">
+<!ENTITY forget.accesskey "m">
 <!ENTITY welcome.description "Schede, segnalibri, password e altre informazioni accessibili in qualunque situazione utilizzando &brandShortName;.">
 <!ENTITY welcome.signIn.label "Accedi">
 <!ENTITY welcome.createAccount.label "Crea un account">
