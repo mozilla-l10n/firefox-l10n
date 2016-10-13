@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwar">
+<!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Fren amsedday n unadi amezwar. &brandShortName; ad t-iseqdec deg ufeggag n tensa, affeggag n unadi akked usebter n usenker.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Fren amsedday n unadi amezwer. &brandShortName; ad t-iseqdec deg ufeggag n tensa, affeggag n unadi akked usebter n usenker.">
 
 <!ENTITY provideSearchSuggestions.label        "Sken isumar n unadi">
 <!ENTITY provideSearchSuggestions.accesskey    "S">

@@ -39,7 +39,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Sken iminig n iɣunab">
-<!ENTITY options.showUserAgentStyles.tooltip "Armad n uɣewwaṛ agi ad yesken iɣunab imezwaren id yessuli iminig.">
+<!ENTITY options.showUserAgentStyles.tooltip "Armad n uɣewwaṛ agi ad d-yesken iɣunab imezwar i d-yessuli iminig.">
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->

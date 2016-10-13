@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
 
-<!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebtar">
+<!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
 <!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Talɣut ɣef usebtar">
@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n isental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
-<!ENTITY getUserMedia.selectCamera.label "Taxdellest i beṭṭu:">
+<!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "T">
 <!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ n beṭṭu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "A">

@@ -22,7 +22,7 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Awal uffir">
 <!ENTITY signIn.password.accesskey  "A">
-<!ENTITY signIn.recoveryKey.label       "Tasaruţ n tririt">
+<!ENTITY signIn.recoveryKey.label       "Tasarutt n tririt">
 <!ENTITY signIn.recoveryKey.accesskey   "T">
 <!-- New Account Page 1: Basic Account Info -->
 

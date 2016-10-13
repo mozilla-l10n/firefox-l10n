@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; d-aseɣẓan ilelli, d-aɣbalu yeldin n Mozilla. <a>Izerfan-ik…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Ticraḍ n usebtar">
+<!ENTITY abouthome.bookmarksButton.label "Ticraḍ n usebter">
 <!ENTITY abouthome.historyButton.label   "Amazray">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
