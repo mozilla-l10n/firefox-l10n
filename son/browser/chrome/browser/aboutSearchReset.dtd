@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "War ceeciyan kayandiyaney yeeti?">
 
+<!ENTITY searchreset.pageInfo1      "A ka hin ka kaŋ war ceeci kayandiyaney žen. &brandShortName;  gar war gaa ka tilasu ceeci kayandiyaney yeeti.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
