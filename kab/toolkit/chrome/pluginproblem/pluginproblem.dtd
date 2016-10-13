@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Smiren asebtar">
+<!ENTITY reloadPlugin.middle                                 "Smiren asebter">
 <!ENTITY reloadPlugin.post                                   " i weɛraḍ tikelt nniḍen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Azen assaɣ n uɣelluy">
@@ -35,7 +35,7 @@
 <!ENTITY report.failed                                       "Tuzzna ur tiddi ara.">
 <!ENTITY report.unavailable                                  "Ulac assaɣ.">
 <!ENTITY report.comment                                      "Rnu awennit (Iwenniten aten-walin akk yemdanen)">
-<!ENTITY report.pageURL                                      "Seddu URL n asebtar">
+<!ENTITY report.pageURL                                      "Seddu URL n usebter">
 
 <!ENTITY plugin.file                                         "Afaylu">
 <!ENTITY plugin.mimeTypes                                    "Tiwsiyin MIME">

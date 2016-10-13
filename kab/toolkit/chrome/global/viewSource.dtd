@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "Afaylu">
 <!ENTITY fileMenu.accesskey "f">
-<!ENTITY savePageCmd.label "Kles asebtar daw…">
+<!ENTITY savePageCmd.label "Sekles asebter daw…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Tarusi n isebtaren…">

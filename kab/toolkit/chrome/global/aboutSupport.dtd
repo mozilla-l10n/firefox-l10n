@@ -27,7 +27,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Aglam">
 <!ENTITY aboutSupport.experimentActive "Urmid">
 <!ENTITY aboutSupport.experimentEndDate "Azemz n tagara">
-<!ENTITY aboutSupport.experimentHomepage "Asebtar agejdan">
+<!ENTITY aboutSupport.experimentHomepage "Asebter agejdan">
 <!ENTITY aboutSupport.experimentBranch "Taseṭṭa">
 
 <!ENTITY aboutSupport.appBasicsTitle "Iɣewwaṛen izaduren n usnas">
