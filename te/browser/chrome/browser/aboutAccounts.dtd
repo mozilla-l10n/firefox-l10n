@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;కి స్వాగతం">
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; కి స్వాగతం">
 <!ENTITY aboutAccounts.connected "ఖాతా అనుసంధానమయ్యింది">
 
 <!ENTITY aboutAccountsConfig.description "మీ ట్యాబులను, ఇష్టాంశాలను మరియు సంకేతపదాలను, ఇంకా మరెన్నింటినో sync చేసుకోడానికి ప్రవేశించండి.">
