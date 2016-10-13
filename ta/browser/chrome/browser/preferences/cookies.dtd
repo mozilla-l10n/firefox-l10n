@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "பாதை:">
 <!ENTITY     props.secure.label             "இதற்கு அனுப்பு:">
 <!ENTITY     props.expires.label            "காலாவதியாகிவிட்டது:">
-
+<!ENTITY     props.container.label          "கொள்கலம்:">
 
 <!ENTITY     window.title                   "குக்கீகள்">
 <!ENTITY     windowClose.key                "w">
