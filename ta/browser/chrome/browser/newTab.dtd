@@ -11,7 +11,7 @@
 <!ENTITY newtab.customize.title "உங்களின் புதிய கீற்றுப் பக்கத்தை தனிபயனாக்கவும்">
 <!ENTITY newtab.customize.suggested "பரிந்துரைத்த உங்களின் முதன்மை தளங்களைக் காட்டு">
 <!ENTITY newtab.customize.topsites "உங்கள் முதன்மை தளங்களைக் காண்பி">
-
+<!ENTITY newtab.customize.blank2 "வெற்று பக்கத்தைக் காட்டு">
 <!ENTITY newtab.undo.removedLabel "சிறுபடம் நீக்கப்பட்டது.">
 <!ENTITY newtab.undo.undoButton "செயல்தவிர்.">
 <!ENTITY newtab.undo.restoreButton "அனைத்தும் மீட்டமை.">
