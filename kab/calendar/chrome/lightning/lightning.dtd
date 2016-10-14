@@ -6,27 +6,53 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Awitay">
 <!-- New menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.new.event.label    "Tadyant…">
+<!ENTITY lightning.menupopup.new.event.accesskey "d">
+<!ENTITY lightning.menupopup.new.task.label     "Tawuri…">
+<!ENTITY lightning.menupopup.new.task.accesskey "w">
+<!ENTITY lightning.menupopup.new.calendar.label "Awitay…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "t">
 <!-- Open menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.open.label               "Ldi">
+<!ENTITY lightning.menupopup.open.accesskey           "L">
+<!ENTITY lightning.menupopup.open.message.label       "Izen yettwakelsen…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "z">
+<!ENTITY lightning.menupopup.open.calendar.label      "Afaylu n uwitay…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "y">
 <!-- View Menu -->
 
-
-
+<!ENTITY lightning.menu.view.calendar.label            "Awitay">
+<!ENTITY lightning.menu.view.calendar.accesskey        "t">
+<!ENTITY lightning.menu.view.tasks.label               "Tawuri">
+<!ENTITY lightning.menu.view.tasks.accesskey           "r">
 <!-- Events and Tasks menu -->
 
 <!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "Imayl:">
 <!-- iMIP Bar (meeting support) -->
 
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Qbel">
+
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Qbel imeṛṛa">
+
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Rnu">
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Agwi">
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnMore.label                                    "Ugar">
 
 
 
@@ -36,20 +62,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Leqqem">
 
 
 <!-- Lightning specific keybindings -->
