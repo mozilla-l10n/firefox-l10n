@@ -4,6 +4,8 @@
 -->
 <!-- Calendar Invitations Dialog -->
 
+<!ENTITY calendar.invitations.dialog.invitations.text                   "Tinubgiwin">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Aleqqem n tebdart n tnubgiwin">
 
 <!-- Calendar Invitations List -->
 

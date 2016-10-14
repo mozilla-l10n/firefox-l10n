@@ -129,12 +129,13 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "d">
 <!ENTITY  event.menu.options.show.time.label                  "Sken akkud am">
 <!ENTITY  event.menu.options.show.time.accesskey              "n">
+<!ENTITY  event.menu.options.show.time.busy.label             "Ur yestuffi ara">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "U">
+<!ENTITY  event.menu.options.show.time.free.label             "Yestuffa">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "Y">
 
-
-
-
-
-
+<!ENTITY event.invite.attendees.label                     "Ɛṛeḍ-d imttekkiyen…">
+<!ENTITY event.invite.attendees.accesskey                 "Ɛ">
 
 
 
