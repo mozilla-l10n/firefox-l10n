@@ -362,7 +362,7 @@
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_share "Udostępnij">
 <!ENTITY contextmenu_pasteandgo "Wklej i przejdź do strony">
-<!ENTITY contextmenu_paste "Kopiuj">
+<!ENTITY contextmenu_paste "Wklej">
 <!ENTITY contextmenu_copyurl "Kopiuj adres">
 <!ENTITY contextmenu_edit_bookmark "Zmień">
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
