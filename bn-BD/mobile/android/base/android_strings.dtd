@@ -105,7 +105,7 @@
 <!ENTITY back "পূর্ববর্তী">
 <!ENTITY stop "থামুন">
 <!ENTITY site_security "সাইটের নিরাপত্তা">
-<!ENTITY edit_mode_cancel "বাতিল করুন">
+<!ENTITY edit_mode_cancel "বাতিল">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
 <!ENTITY one_tab "1 ট্যাব">
@@ -169,7 +169,7 @@
 <!ENTITY overlay_no_synced_devices "কোন Firefox Account সংযুক্ত ডিভাইস পাওয়া যায়নি">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
-<!ENTITY pref_category_search_summary2 "যোগ, ডিফল্ট সেট, প্রস্তাবনা দেখাও">
+<!ENTITY pref_category_search_summary2 "যোগ, ডিফল্ট সেট, পরামর্শ দেখাও">
 <!ENTITY pref_category_accessibility "প্রবেশযোগ্যতা">
 <!ENTITY pref_category_accessibility_summary2 "টেক্সটের আকার, জুম করা, ভয়েস ইনপুট">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
