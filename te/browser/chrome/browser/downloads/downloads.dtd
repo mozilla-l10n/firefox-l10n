@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "డౌన్‌లోడ్‌లు">
+<!ENTITY downloads.title                  "దింపుకోళ్ళు">
 
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
@@ -42,74 +42,74 @@
 
 <!ENTITY cmd.pause.label                  "నిలిపివుంచు">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "తిరిగికొనసాగించు">
+<!ENTITY cmd.resume.label                 "కొనసాగించు">
 <!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "రద్దు">
+<!ENTITY cmd.cancel.label                 "రద్దుచేయి">
 <!ENTITY cmd.cancel.accesskey             "C">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "కలిగివున్న ఫోల్టర్‌ను తెరువుము">
+<!ENTITY cmd.show.label                   "ఈ ఫైలు ఉన్న సంచయాన్ని తెరువు">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "శోధకి యందు చూపుము">
+<!ENTITY cmd.showMac.label                "ఫైండర్‌లో చూపించు">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "తిరిగిప్రయత్నించు">
-<!ENTITY cmd.goToDownloadPage.label       "డౌనులోడు పేజీనకు వెళ్ళు">
+<!ENTITY cmd.retry.label                  "మళ్ళీ ప్రయత్నించు">
+<!ENTITY cmd.goToDownloadPage.label       "డౌనులోడు పేజీకి వెళ్ళు">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లంకెను నకలుతీయి">
+<!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లంకెను కాపీచేయి">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "చరిత్ర నుండి తొలగించు">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "ప్రత్యేక ప్రదర్శన పానెల్ ను నివృత్తి చేయుము">
+<!ENTITY cmd.clearList2.label             "మునుజూపు ప్యానెలుని తుడిచివేయి">
 <!ENTITY cmd.clearList2.accesskey         "అ">
 <!ENTITY cmd.clearDownloads.label         "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock2.label               "డౌన్లోడ్ ను అనుమతించు">
+<!ENTITY cmd.unblock2.label               "దింపుకోలుని అనుమతించు">
 <!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "ఫైల్‌ని తీసివేయి">
+<!ENTITY cmd.removeFile.label             "ఫైలుని తీసివేయి">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "ఫైలు తొలగించు లేదా డౌన్లోడ్ ను అనుమతించు">
+<!ENTITY cmd.chooseUnblock.label          "ఫైలు తొలగించు లేదా దింపుకోలుని అనుమతించు">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "తెరువు లేదా ఫైలు తొలగించండి">
+<!ENTITY cmd.chooseOpen.label             "తెరువు లేదా ఫైలుని తొలగించు">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY blocked.label                    "నిరోధించెను">
+<!ENTITY blocked.label                    "నిరోధించబడింది">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY learnMore.label                  "మరింత నేర్చుకోండి">
+<!ENTITY learnMore.label                  "మరింత తెలుసుకోండి">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "అన్ని డౌనులోడులను చూపు">
+<!ENTITY downloadsHistory.label           "దింపుకోళ్ళంటినీ చూపించు">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "డౌనులోడు సంచయంను తెరువుము">
+<!ENTITY openDownloadsFolder.label       "దింపుకోళ్ళ సంచయాన్ని తెరువు">
 
 <!ENTITY clearDownloadsButton.label       "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY clearDownloadsButton.tooltip     "పూర్తయిన, రద్దుచేసిన మరియు విఫలమైన దింపుకోళ్ళను తుడిచివేస్తుంది">
