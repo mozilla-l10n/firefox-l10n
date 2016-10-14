@@ -364,7 +364,7 @@
 <!ENTITY contextmenu_pasteandgo "Wklej i przejdź do strony">
 <!ENTITY contextmenu_paste "Wklej">
 <!ENTITY contextmenu_copyurl "Kopiuj adres">
-<!ENTITY contextmenu_edit_bookmark "Zmień">
+<!ENTITY contextmenu_edit_bookmark "Edytuj">
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
 <!ENTITY contextmenu_subscribe "Subskrybuj stronę">
 <!ENTITY contextmenu_site_settings "Edytuj ustawienia witryny">
@@ -396,7 +396,7 @@
 
 <!ENTITY page_removed "Usunięto stronę">
 
-<!ENTITY bookmark_edit_title "Zmień zakładkę">
+<!ENTITY bookmark_edit_title "Edytuj zakładkę">
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
