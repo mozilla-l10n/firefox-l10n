@@ -4,13 +4,13 @@
 
 <!ENTITY tabCrashed.header "ముందు చెడు వార్త: ఈ ట్యాబు క్రాష్ అయింది">
 <!ENTITY tabCrashed.message "ఇప్పుడు మంచి వార్త: మీరు ఈ ట్యాబుని మూసివేయవచ్చు, పునరుద్ధరించవచ్చు లేదా క్రాషైన అన్ని ట్యాబులను పునరుద్ధరించుకోవచ్చు.">
-<!ENTITY tabCrashed.sendReport "క్రాష్ నివేదిక సమర్పించి మరలా జరగకుండా ఉంచుటలో సహాయపడండి">
-<!ENTITY tabCrashed.includeURL "నేను ఉన్న పేజీ చిరునామాను కూడా చేర్చు">
+<!ENTITY tabCrashed.sendReport "మరిన్ని చెడు వార్తలను నివారించడానికి క్రాష్ నివేదికను సమర్పించండి">
+<!ENTITY tabCrashed.includeURL "నేను చూస్తున్న పేజీ చిరునామాను కూడా చేర్చు">
 <!ENTITY tabCrashed.commentPlaceholder "ఒక వ్యాఖ్యను జోడించండి (వ్యాఖ్యలు బహిరంగంగా కనిపిస్తాయి)">
 <!ENTITY tabCrashed.emailPlaceholder "మీ ఈమెయిల్ చిరునామాను ఇక్కడ ఇవ్వండి">
-<!ENTITY tabCrashed.emailMe "తాజా సమాచారం అందుబాటులో ఉన్నప్పుడు నాకు ఈమెయిలు చెయ్యి">
+<!ENTITY tabCrashed.emailMe "మరింత సమాచారం అందుబాటులో ఉన్నప్పుడు నాకు ఈమెయిలు చెయ్యండి">
 <!ENTITY tabCrashed.crashReporter "Mozilla క్రాష్ రిపోర్టర్">
-<!ENTITY tabCrashed.reportSent "క్రాష్ నివేదిక ఇప్పటికే సమర్పించబడెను; &brandShortName; ను ఉత్తమంగా చేయుటలో సహాయపడినందకు ధన్యవాదాలు!">
-<!ENTITY tabCrashed.closeTab "ఈ ట్యాబ్‌ను మూసివేయి">
-<!ENTITY tabCrashed.restoreTab "ఈ టాబ్ తిరిగివుంచు">
-<!ENTITY tabCrashed.restoreAll "క్రాషైన అన్ని టాబ్‌లు తిరిగివుంచు">
+<!ENTITY tabCrashed.reportSent "క్రాష్ నివేదిక ఇప్పటికే సమర్పించబడింది; &brandShortName;‌ను మెరుగుపరచడానికి తోడ్పడినందుకు కృతజ్ఞతలు!">
+<!ENTITY tabCrashed.closeTab "ఈ ట్యాబును మూసివేయి">
+<!ENTITY tabCrashed.restoreTab "ఈ ట్యాబును పునరుద్ధరించు">
+<!ENTITY tabCrashed.restoreAll "క్రాషైన ట్యాబులన్నింటినీ పునరుద్ధరించు">
