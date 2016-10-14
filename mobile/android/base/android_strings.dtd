@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Mobile">
+<!ENTITY  bookmarks_title "Σελιδοδείκτες">
 <!ENTITY  history_title "Ιστορικό">
 
 <!ENTITY  switch_to_tab "Μετάβαση σε καρτέλα">
@@ -831,3 +831,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Προσθέστε τα στοιχεία της προβολής ανάγνωσης στους σελιδοδείκτες για να τα διαβάζετε χωρίς σύνδεση.">
 <!ENTITY helper_triple_readerview_open_button "Προσθήκη στους σελιδοδείκτες">
 
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
