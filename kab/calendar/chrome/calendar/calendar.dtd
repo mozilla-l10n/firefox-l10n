@@ -55,30 +55,34 @@
 
 
 
+<!ENTITY calendar.nextday.label                 "Ass d-iteddun" >
+<!ENTITY calendar.prevday.label                 "Ass yezrin" >
+<!ENTITY calendar.nextday.accesskey             "d" >
+<!ENTITY calendar.prevday.accesskey             "z" >
+<!ENTITY calendar.nextweek.label                "Dduṛt d-iteddun" >
+<!ENTITY calendar.prevweek.label                "Dduṛt yezrin" >
+<!ENTITY calendar.nextweek.accesskey            "D" >
+<!ENTITY calendar.prevweek.accesskey            "i" >
+<!ENTITY calendar.nextmonth.label               "Aggur d-iteddun" >
+<!ENTITY calendar.prevmonth.label               "Aggur yezrin" >
+<!ENTITY calendar.nextmonth.accesskey           "u" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Yiwen n wass ɣer zdat" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Yiwen n wass ɣer deffir" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Yiwet n dduṛt ɣer zdat" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Yiwet n dduṛt ɣer deffir" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Yiwen n waggur ɣer zdat" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Yiwen n waggur ɣer deffir" >
 
+<!ENTITY calendar.newevent.button.label         "Rnu tadyant" >
+<!ENTITY calendar.newtask.button.label          "Rnu tawuri" >
+<!ENTITY calendar.print.button.label            "Siggez" >
+<!ENTITY calendar.print.button.accesskey        "S">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.day.button.label              "Ass" >
+<!ENTITY calendar.week.button.label             "Dduṛt" >
+<!ENTITY calendar.month.button.label            "Aggur" >
 
 
 
@@ -210,33 +214,46 @@
 
 
 
-
-
+<!ENTITY calendar.context.properties.label             "Timeẓliyin">
+<!ENTITY calendar.context.properties.accesskey         "T">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
+<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showall.label                "Sken akk iwitayen">
+<!ENTITY calendar.context.showall.accesskey            "w">
 
+<!ENTITY calendar.context.convertmenu.label              "Sel&amp;ket ɣer">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "Tadyant…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "d">
+<!ENTITY calendar.context.convertmenu.message.label      "Izen…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "z">
+<!ENTITY calendar.context.convertmenu.task.label         "Tawuri…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "w">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Aggur meẓẓiyen">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "g">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "Tabdart n uwitay">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "b">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.tasks.view.filtertasks.label           "Zizdeg tiwiriwin">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "Z">
 <!-- Calendar Alarm Dialog -->
 
+
+<!ENTITY calendar.alarm.location.label              "Adig:" >
+<!ENTITY calendar.alarm.details.label               "Talqayt…" >
 
 
 
