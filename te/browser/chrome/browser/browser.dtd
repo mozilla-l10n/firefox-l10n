@@ -83,13 +83,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "మార్గదర్శక పనిముట్లపట్టీ">
 <!ENTITY personalbarCmd.label "ఇష్టాంశాల పట్టీ">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ఇష్టాంశముల సాధనములపట్టీ అంశములు">
+<!ENTITY bookmarksToolbarItem.label "ఇష్టాంశాల పట్టీ అంశాలు">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "అన్ని టాబ్‌లను తిరిగిలోడ్ చేయి">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ట్యాబులన్నింటినీ మళ్ళీ లోడు చేయి">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "అన్ని టాబ్‌లను యిష్టాంశము చేయి…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "మూసినటాబ్ తిరిగివుంచు">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "మూసిన ట్యాబుని తిరిగి తెరువు">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "పేజీ మూలం">
@@ -102,29 +102,29 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "నిండుతెరలో చూడండి">
+<!ENTITY enterFullScreenCmd.label "నిండు తెరలో చూపించు">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "నిండుతెర నిష్క్రమించు">
+<!ENTITY exitFullScreenCmd.label "నిండు తెర వదిలివెళ్ళు">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "పూర్తి తెర">
+<!ENTITY fullScreenCmd.label "నిండు తెర">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
+<!ENTITY showAllTabsCmd.label "ట్యాబులన్నింటినీ చూపించు">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "ఆర్">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
-<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభీష్టాలు తెరువు">
-<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభిరుచులను తెరువు">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label;కి మళ్ళీ అనుసంధానించు">
 <!ENTITY fxaUnverified.label "మీ ఖాతాను నిర్ధారించండి">
 
 
 <!ENTITY fullScreenMinimize.tooltip "చిన్నదిచేయు">
-<!ENTITY fullScreenRestore.tooltip "తిరిగివుంచు">
+<!ENTITY fullScreenRestore.tooltip "పునరుద్ధరించు">
 <!ENTITY fullScreenClose.tooltip "మూసివేయి">
-<!ENTITY fullScreenAutohide.label "సాధనపట్టీలను మరుగుపరచుము">
+<!ENTITY fullScreenAutohide.label "పనిముట్ల పట్టీలను దాచు">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
+<!ENTITY fullScreenExit.label "నిండు తెర రీతిని వదలివెళ్ళు">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -133,15 +133,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ఇప్పుడు పూర్తి తెరలో వుంది">
-<!ENTITY fullscreenWarning.generic.label "ఈ పత్రం ఇప్పుడు పూర్తి తెరలో వుంది">
+<!ENTITY fullscreenWarning.afterDomain.label "ఇప్పుడు నిండు తెరలో ఉంది">
+<!ENTITY fullscreenWarning.generic.label "ఈ పత్రం ఇప్పుడు నిండు తెరలో ఉంది">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "పూర్తి తెర నిష్క్రమించు (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "పూర్తి తెర నిష్క్రమించు (esc)">
-<!ENTITY leaveDOMFullScreen.label "నిండుతెర నిష్క్రమించు">
+<!ENTITY exitDOMFullscreen.button "నిండు తెరను వదలివెళ్ళు (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "నిండు తెరను వదలివెళ్ళు (esc)">
+<!ENTITY leaveDOMFullScreen.label "నిండు తెరను వదలివెళ్ళు">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -149,67 +149,67 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "మీ పాయింటర్ కు నియంత్రణ ఉంది. నియంత్రణ తిరిగి తీసుకోవడానికి Esc ను నొక్కండి.">
-<!ENTITY pointerlockWarning.generic.label "మీ పాయింటర్ కు నియంత్రణ ఉంది. నియంత్రణ తిరిగి తీసుకోవడానికి Esc ను నొక్కండి.">
+<!ENTITY pointerlockWarning.beforeDomain.label "మీ పాయింటర్ ">
+<!ENTITY pointerlockWarning.afterDomain.label " నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.">
+<!ENTITY pointerlockWarning.generic.label "మీ పాయింటర్ ఈ పత్రపు నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.">
 
-<!ENTITY closeWindow.label "విండో మూయి">
+<!ENTITY closeWindow.label "విండో మూసివేయి">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
-<!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
+<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశంగా చేయి">
+<!ENTITY editThisBookmarkCmd.label "ఈ ఇష్టాంశాన్ని సరిదిద్దు">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "మరిన్ని భాగస్వామ్య పరికరాలు కనుగొను...">
+<!ENTITY findShareServices.label "మరిన్ని పంచుకోలు సేవలను కనుగొనండి…">
 <!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ఈ లంకెను పంచుకోండి">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "ఈ ఇమేజ్‌ను పంచుకోండి">
+<!ENTITY shareImage.label "ఈ బొమ్మను పంచుకోండి">
 <!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "భాగస్వామ్య ఎంపిక">
+<!ENTITY shareSelect.label "ఎంపికను పంచుకోండి">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ఈ వీడియోను పంచుకోండి">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "ఈ పేజీకి సబ్స్క్రైబ్ అవ్వండి">
-<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి సబ్స్క్రైబ్ అవ్వండి">
-<!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
-<!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
-<!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
-<!ENTITY recentBookmarks.label "ఇటీవల బుక్మార్కు చేసినది">
-<!ENTITY otherBookmarksCmd.label "ఇతర బుక్మార్కులు">
-<!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
-<!ENTITY showRecentlyBookmarked.label     "ఇటీవల బుక్మార్కు చేసినవి చూపించు">
+<!ENTITY feedsMenu2.label "ఈ పేజీకి చందాచేరండి">
+<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాచేరండి">
+<!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాచేరండి…">
+<!ENTITY addCurPagesCmd.label "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
+<!ENTITY showAllBookmarks2.label "ఇష్టాంశాలన్నింటినీ చూపించు">
+<!ENTITY recentBookmarks.label "ఇటీవల ఇష్టాంశాలుగా చేసినవి">
+<!ENTITY otherBookmarksCmd.label "ఇతర ఇష్టాంశాలు">
+<!ENTITY bookmarksToolbarChevron.tooltip "మరిన్ని ఇష్టాంశాలను చూపించు">
+<!ENTITY showRecentlyBookmarked.label     "ఇటీవలి ఇష్టాంశాలను చూపించు">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "ఇటీవల బుక్మార్కు చేసినవి దాచిపెట్టు">
+<!ENTITY hideRecentlyBookmarked.label     "ఇటీవలి ఇష్టాంశాలను దాచు">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "వెనుకకు">
-<!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
+<!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళు">
 <!ENTITY forwardCmd.label             "ముందుకు">
-<!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళుము">
-<!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కండి లేదా కిందికి లాగండి">
-<!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపుటకు కిందకు లాగండి">
-<!ENTITY reloadCmd.label              "తిరిగిలోడుచేయి">
-<!ENTITY reloadButton.tooltip         "ప్రస్తుత పేజీని తిరిగిలోడుచేయి">
-<!ENTITY stopCmd.label                "ఆపుము">
+<!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళు">
+<!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూడడానికి కుడి-నొక్కు నొక్కండి లేదా కిందికి లాగండి">
+<!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూడడానికి కిందకు లాగండి">
+<!ENTITY reloadCmd.label              "మళ్ళీ లోడుచేయి">
+<!ENTITY reloadButton.tooltip         "ఈ పేజీని మళ్ళీ లోడు చేయి">
+<!ENTITY stopCmd.label                "ఆపు">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగ్‌ను ఆపుము">
-<!ENTITY goEndCap.tooltip             "స్థితిపట్టీలో చిరునామాకు వెళ్ళుము">
+<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపు">
+<!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళు">
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశం యొక్క పానెల్ తెరువండి">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "నగర అభ్యర్థన ప్యానెల్ ఓపెన్చెయ్యండి">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "సంస్థాపన సందేశం ప్యానెల్ లను ఒపెన్ చెయ్యండి">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలు తెరువు">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలు తెరువు">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్లైన్ నిల్వ సందేశాన్ని ప్యానెల్ ఓపెన్ చెయ్యండి">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్వర్డ్ సందేశాన్ని సేవ్ ప్యానెల్ ని ఒపెన్ చెయ్యండి">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
@@ -244,11 +244,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
-<!ENTITY bookmarksMenuButton.other.label "ఇతర బుక్మార్కులు">
+<!ENTITY bookmarksMenuButton.other.label "ఇతర ఇష్టాంశాలు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
-<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
+<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల పట్టీని చూడండి">
 
-<!ENTITY containersMenu.label "కంటెయినర్ లు">
+<!ENTITY containersMenu.label "కంటెయినర్లు">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "పొడిగింతలు">
+<!ENTITY addons.label                 "ఆడ్-ఆన్స్">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "చూడటం"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "సాధనముల పట్టీలు"> 
+<!ENTITY viewToolbarsMenu.label       "పనిముట్ల పట్టీలు"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "పక్క పట్టీ">
 <!ENTITY viewSidebarMenu.accesskey "e">
