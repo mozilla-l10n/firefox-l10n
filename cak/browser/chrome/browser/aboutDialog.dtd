@@ -41,7 +41,7 @@
 <!ENTITY helpus.donateLink          "Taya' jun sipanïk">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "¡Kato’on!">
+<!ENTITY helpus.getInvolvedLink     "¡kato’on!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Achike natzijoj">

@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Palaqinem Wichin)">
 
-<!ENTITY appmenu.tooltip                     "Tijaq ri MENU">
+<!ENTITY appmenu.tooltip                     "Tijaq ri k'utüy samaj">
 <!ENTITY navbarOverflow.label                "Ch'aqa' chik Samajib'äl…">
 <!-- Tab context menu -->
 
@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Tok pa &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri rajowaxïk &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Tanik'oj ri ataqoya'l">
 
@@ -463,7 +463,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Tiya' achi'el ruk'amon wi pe chi kanob'äl">
 <!ENTITY searchSetAsDefault.accesskey "r">
 
-<!ENTITY openLinkCmdInTab.label       "Rujaqij ximon tzij pa jun k'ak'a' ruwi'">
+<!ENTITY openLinkCmdInTab.label       "Tijaq ximonel pa jun k'ak'a' ruwi'">
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch">
 <!ENTITY openLinkCmd.accesskey        "T">
@@ -541,10 +541,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "t">
 <!ENTITY emailAudioCmd.label          "Titaq k'oxomal…">
 <!ENTITY emailAudioCmd.accesskey      "t">
-<!ENTITY playPluginCmd.label          "Rutziji re pluyin">
+<!ENTITY playPluginCmd.label          "Titzij re nak'ab'äl re'">
 <!ENTITY playPluginCmd.accesskey      "t">
-<!ENTITY hidePluginCmd.label          "Rewaxik re pluyin">
-<!ENTITY hidePluginCmd.accesskey      "i">
+<!ENTITY hidePluginCmd.label          "Tewäx re nak'ab'äl re'">
+<!ENTITY hidePluginCmd.accesskey      "e">
 <!ENTITY copyLinkCmd.label            "Ruwachib'exik rub'ey ximon tzij">
 <!ENTITY copyLinkCmd.accesskey        "i">
 <!ENTITY copyImageCmd.label           "Ruwachib'exik rub'ey wachib'äl">
