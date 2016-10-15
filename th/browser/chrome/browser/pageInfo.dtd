@@ -56,7 +56,7 @@
 <!ENTITY  permAllowSession      "อนุญาตในวาระ">
 <!ENTITY  permBlock             "ปิดกั้น">
 <!ENTITY  permissionsFor        "การอนุญาตสำหรับ:">
-<!ENTITY  permPlugins           "เปิดใช้งานโปรแกรมเสริม">
+<!ENTITY  permPlugins           "เปิดใช้งานปลั๊กอิน">
 
 <!ENTITY  permClearStorage           "ล้างที่เก็บข้อมูล">
 <!ENTITY  permClearStorage.accesskey "C">
