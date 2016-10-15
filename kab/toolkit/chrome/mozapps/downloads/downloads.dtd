@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Asenker…">
 <!ENTITY scanning.label                   "Anadi n infafaden…">
 
-<!ENTITY downloads.title                  "Izedman">
+<!ENTITY downloads.title                  "Isidar">
 
 <!ENTITY cmd.pause.label                  "Asteɛfu">
 <!ENTITY cmd.pause.accesskey              "A">
@@ -40,13 +40,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Sfeḍ tabdart">
-<!ENTITY cmd.clearList.tooltip            "Kkes izedman imden, ifesxen neɣ wid ur nebbiḍ-ara si tebdart">
+<!ENTITY cmd.clearList.tooltip            "Kkes isidar imden, ifesxen neɣ wid ur nebbiḍ-ara si tebdart">
 <!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Mdel ticki izedman fuken">
-<!ENTITY closeWhenDone.tooltip            "Mdel asfaylu n izedman ticki akk ifuyla ţuzedmen">
+<!ENTITY closeWhenDone.label              "Mdel ticki isidar fuken">
+<!ENTITY closeWhenDone.tooltip            "Mdel asfaylu n isidar ticki akk ifuyla yettwasidren">
 
 <!ENTITY showFolder.label                 "Sken akaram agi">
 <!ENTITY searchBox.label                  "Nadi…">

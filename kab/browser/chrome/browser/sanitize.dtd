@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Amazray">
 <!ENTITY dataSection.label            "Isefka">
 
-<!ENTITY itemHistoryAndDownloads.label     "Amazray n tunigin d izedman">
+<!ENTITY itemHistoryAndDownloads.label     "Amazray n tunigin d isidar">
 <!ENTITY itemHistoryAndDownloads.accesskey "A">
 <!ENTITY itemFormSearchHistory.label       "Amazray n tferkit d unadi">
 <!ENTITY itemFormSearchHistory.accesskey   "m">
