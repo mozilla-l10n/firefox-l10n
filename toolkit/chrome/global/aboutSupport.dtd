@@ -46,7 +46,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "โฟลเดอร์โพรไฟล์">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "โปรแกรมเสริมที่ถูกเปิดใช้งาน">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ปลั๊กอินที่เปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "ระบบปฏิบัติการ">
