@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Izedman">
-<!ENTITY aboutDownloads.header                     "Izedman-ik">
-<!ENTITY aboutDownloads.empty                      "Ulac izedman.">
+<!ENTITY aboutDownloads.title                      "Isidar">
+<!ENTITY aboutDownloads.header                     "Isidar-ik">
+<!ENTITY aboutDownloads.empty                      "Ulac isidar.">
 
 <!ENTITY aboutDownloads.open                       "Ldi">
 <!ENTITY aboutDownloads.remove                     "Kkes">

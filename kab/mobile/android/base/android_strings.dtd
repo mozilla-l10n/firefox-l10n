@@ -394,7 +394,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Tuffirt">
 <!ENTITY pref_private_data_offlineApps "Isefka n isemlen web war tuqqna">
 <!ENTITY pref_private_data_siteSettings2 "Iɣewwaṛen n usmel">
-<!ENTITY pref_private_data_downloadFiles2 "Izedman">
+<!ENTITY pref_private_data_downloadFiles2 "Isidar">
 <!ENTITY pref_private_data_syncedTabs "Iccaren yemtawin">
 
 <!ENTITY pref_default_browser "Err-it d iminig amezwer">
@@ -456,7 +456,7 @@ size. -->
 
 <!ENTITY addons "Izegrar imernan">
 <!ENTITY logins "Inekcam">
-<!ENTITY downloads "Izedman">
+<!ENTITY downloads "Isidar">
 <!ENTITY char_encoding "Asengel n Isekkilen">
 
 <!ENTITY share "Bḍu">
