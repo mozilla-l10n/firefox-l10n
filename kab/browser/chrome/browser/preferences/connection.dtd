@@ -7,14 +7,14 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "Tawila n uqeddac aseɣẓan agrayan i wenkcum ɣeṛ Internet">
-<!ENTITY  noProxyTypeRadio.label        "Ulac aseɣẓan agrayan">
+<!ENTITY  proxyTitle.label              "Tawila n uqeddac apṛuksi i unkcum ɣeṛ Internet">
+<!ENTITY  noProxyTypeRadio.label        "Ulac apṛuksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "l">
-<!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n useɣẓan agrayan n unagraw">
+<!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n upṛuksi n unagraw">
 <!ENTITY  systemTypeRadio.accesskey     "S">
-<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n useɣẓan agrayan n uẓeṭṭa agi">
+<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n upṛuksi n uẓeṭṭa agi">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
-<!ENTITY  manualTypeRadio.label         "Tawila s ufus n useɣẓan agrayan:">
+<!ENTITY  manualTypeRadio.label         "Tawila s ufus n upṛuksi:">
 <!ENTITY  manualTypeRadio.accesskey     "w">
 <!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n useɣẓan agrayan:">
 <!ENTITY  autoTypeRadio.accesskey       "n">
