@@ -29,11 +29,11 @@
 <!ENTITY syncDeviceName.label "Имя устройства:">
 <!ENTITY fxaSyncDeviceName.label "Имя устройства">
 <!ENTITY changeSyncDeviceName.label "Сменить имя устройства…">
-<!ENTITY changeSyncDeviceName.label.accesskey "я">
+<!ENTITY changeSyncDeviceName.accesskey "я">
 <!ENTITY cancelChangeSyncDeviceName.label "Отмена">
-<!ENTITY cancelChangeSyncDeviceName.label.accesskey "е">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "е">
 <!ENTITY saveChangeSyncDeviceName.label "Сохранить">
-<!ENTITY saveChangeSyncDeviceName.label.accesskey "х">
+<!ENTITY saveChangeSyncDeviceName.accesskey "х">
 <!ENTITY unlinkDevice.label "Отсоединить это устройство">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
@@ -45,17 +45,16 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Вы не вошли.">
 <!ENTITY signIn.label "Войти">
-<!ENTITY signIn.label.accesskey "о">
+<!ENTITY signIn.accesskey "о">
 <!ENTITY profilePicture.tooltip "Изменить фотографию в профиле">
 <!ENTITY verifiedManage.label "Управление аккаунтом">
-<!ENTITY verifiedManage.label.accesskey "в">
+<!ENTITY verifiedManage.accesskey "в">
 <!ENTITY disconnect.label "Отсоединить…">
-<!ENTITY disconnect.label.accesskey "н">
+<!ENTITY disconnect.accesskey "н">
 <!ENTITY verify.label "Подтвердить эл. почту">
-<!ENTITY verify.label.accesskey "э">
+<!ENTITY verify.accesskey "э">
 <!ENTITY forget.label "Забыть об этой эл. почте">
-<!ENTITY forget.label.accesskey "ы">
-<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey "ч">
+<!ENTITY forget.accesskey "ы">
 <!ENTITY welcome.description "Доступ к вкладкам, закладкам, паролям и другим данным из любого места, где вы используете &brandShortName;.">
 <!ENTITY welcome.signIn.label "Войти">
 <!ENTITY welcome.createAccount.label "Создать учётную запись">
