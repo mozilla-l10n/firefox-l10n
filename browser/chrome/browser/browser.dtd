@@ -521,9 +521,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "ส">
 <!ENTITY emailAudioCmd.label          "ส่งอีเมลเสียง…">
 <!ENTITY emailAudioCmd.accesskey      "ม">
-<!ENTITY playPluginCmd.label          "เปิดใช้งานโปรแกรมเสริมนี้">
+<!ENTITY playPluginCmd.label          "เปิดใช้งานปลั๊กอินนี้">
 <!ENTITY playPluginCmd.accesskey      "ป">
-<!ENTITY hidePluginCmd.label          "ซ่อนโปรแกรมเสริมนี้">
+<!ENTITY hidePluginCmd.label          "ซ่อนปลั๊กอินนี้">
 <!ENTITY hidePluginCmd.accesskey      "ซ">
 <!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "ต">
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "อนุญาตตอนนี้">
 <!ENTITY pluginActivateAlways.label "อนุญาตและจดจำ">
-<!ENTITY pluginBlockNow.label "ปิดกั้นโปรแกรมเสริม">
+<!ENTITY pluginBlockNow.label "ปิดกั้นปลั๊กอิน">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
