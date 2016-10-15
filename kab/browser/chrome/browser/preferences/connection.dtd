@@ -16,15 +16,15 @@
 <!ENTITY  WPADTypeRadio.accesskey       "T">
 <!ENTITY  manualTypeRadio.label         "Tawila s ufus n upṛuksi:">
 <!ENTITY  manualTypeRadio.accesskey     "w">
-<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n useɣẓan agrayan:">
+<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n upṛuksi">
 <!ENTITY  autoTypeRadio.accesskey       "n">
 <!ENTITY  reload.label                  "Smiren">
 <!ENTITY  reload.accesskey              "S">
-<!ENTITY  ftp.label                     "Aseɣẓan agrayan FTP:">
+<!ENTITY  ftp.label                     "Apṛuksi FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Aseɣẓan agrayan HTTP:">
+<!ENTITY  http.label                    "Apṛuksi HTTP:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Aseɣẓan agrayan SSL:">
+<!ENTITY  ssl.label                     "Apṛuksi SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Asenneftaɣ SOCKS:">
 <!ENTITY  socks.accesskey               "C">
@@ -39,11 +39,11 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ulac aseɣẓan agrayan i:">
+<!ENTITY  noproxy.label                 "Ulac apṛuksi i:">
 <!ENTITY  noproxy.accesskey             "U">
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Seqdec aqeddac agi, aseɣẓan agrayan, i yal aneggaf">
+<!ENTITY  shareproxy.label              "Seqdec aqeddac agi, apṛuksi, i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">
 <!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yekles">
 <!ENTITY  autologinproxy.accesskey      "k">
-<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ agi ak isesteb s wudem awurman deg iqeddacen n useɣẓan agrayan, anda awal uffir yekles. Ticki asesteb ur yeddi ara, ak-d-nsuter awal uffir.">
+<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ agi ak isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, ak-d-nsuter awal uffir.">

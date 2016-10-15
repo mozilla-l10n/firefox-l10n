@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "Iccaren inmeggagen yellan:">
 <!ENTITY availableProcesses "Ikalan inmeggagen yellan:">
 <!ENTITY connectionError "Tuccḍa:">
-<!ENTITY errorTimeout "Tuccḍa: amenḍar n uraǧu n tuqqna yezri.">
+<!ENTITY errorTimeout "Tuccḍa: tanzagt n uraǧu n tuqqna tezri.">
 <!ENTITY errorRefused "Tuccḍa: tuqqna tegdel.">
 <!ENTITY errorUnexpected "Tuccḍa tarussint.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
