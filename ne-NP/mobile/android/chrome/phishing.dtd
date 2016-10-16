@@ -9,12 +9,12 @@
 <!ENTITY safeb.blocked.malwarePage.title "उजुर गरिएको आक्रमण साइट!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/>मा यो साइट आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईंको सुरक्षा प्राथमिकताहरूका अनुसार बन्द गरिएको छ ।">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>आक्रमण पृष्ठले त्यस्तो कार्यक्रम स्थापना गर्ने प्रयास गर्छ जुन तपाईको गोप्य सूचना चोर्न, तपाईको सुसांख्य यन्त्र अरुलाई आक्रमण गर्न वा तपाइको प्रणाली बिगार्न प्रयोग हुन सक्छ।</p><p>केहि आक्रमण पृष्ठले जानीबुझी हानिकारक सफ्टवेयर वितरण गर्छन तर धेरैले भने मालिकको ज्ञान बिना तथा अनुमति बिनानै हानिकारक सफ्टवेयर वितरण गर्छन।</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>आक्रमण पृष्ठले त्यस्तो कार्यक्रम स्थापना गर्ने प्रयास गर्छ जुन तपाईँकोको गोप्य सूचना चोर्न, तपाईको सुसांख्य यन्त्र अरुलाई आक्रमण गर्न वा तपाईँको उपकरण बिगार्न प्रयोग हुन सक्छ।</p><p>केहि आक्रमण पृष्ठले जानी बुझी हानिकारक सफ्टवेयर वितरण गर्छन तर धेरैले भने मालिकको ज्ञान बिना तथा अनुमति बिनानै हानिकारक सफ्टवेयर वितरण गर्छन।</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "छल गर्ने साइट!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "यो साइट <span id='phishing_sitename'/> आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईंको सुरक्षा प्राथमिकताहरूका अनुसार अबरुद्द गरिएको छ।">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p> भ्रामक साइटहरु तपाइलाई झुक्काएर केहि खतरनाक कार्य जस्तै सफ्टवेयर स्थापना, वा आफ्नो व्यक्तिगत जानकारी खुलासा गर्न जस्तै पासवर्ड, फोन नम्बर वा क्रेडिट कार्ड गर्न डिजाइन गरियको हुन्छ।</p><p> यस वेब पेज मा कुनै पनि जानकारी राख्दा पहिचान चोरी वा अन्य ठगी को परिणाम आउन सक्छ। </p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p> भ्रामक साइटहरू तपाईँलाई झुक्काएर केहि खतरनाक कार्य जस्तै सफ्टवेयर स्थापना, वा आफ्नो व्यक्तिगत जानकारी खुलासा गर्न जस्तै पासवर्ड, फोन नम्बर वा क्रेडिट कार्ड गर्न डिजाइन गरियको हुन्छ।</p><p> यस वेब पेज मा कुनै पनि जानकारी राख्दा पहिचान चोरी वा अन्य ठगी को परिणाम आउन सक्छ। </p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "अवाञ्छित सफ्टवेयर साइटबारे प्रतिवेदन पठाइयो!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

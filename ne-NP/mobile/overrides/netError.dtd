@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "सर्भर फेला परेन">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ठेगानालाई लेखाइको गल्तीहरुको लागि जाच्नुहोस् जस्तै<strong>www</strong>.example.com को साटो<strong>ww</strong>.example.com</li><div id='searchbox'><input id='searchtext' type='search'></input><button id='searchbutton'>खोज</button></div><li>यदी तपाईं कुनै पृष्‍ठहरु लोड गर्न असफल हुनुभएमा तपाईंको उपकरणहरुको डाटा ईन्टरनेट अथवा Wi-Fi जडान जांच्नुहोस्।<button id='wifi'>Wi-Fi अन गर्ने</button></li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ठेगानालाई लेखाइको गल्तीहरूको लागि जाच्नुहोस् जस्तै<strong>www</strong>.example.com को साटो<strong>ww</strong>.example.com</li><div id='searchbox'><input id='searchtext' type='search'></input><button id='searchbutton'>खोज</button></div><li>यदि तपाईँ कुनै पृष्‍ठहरू लोड गर्न असफल हुनुभएमा तपाईँको उपकरणहरूको डाटा इन्टरनेट अथवा Wi-Fi जडान जाँच्नुहोस्।<button id='wifi'>Wi-Fi अन गर्ने</button></li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल फेला परेन">
 <!ENTITY fileNotFound.longDesc "<ul><li>अक्षर ठूलो पार्न वा अरु किसिमको टाइपिङ् त्रुटिको निम्ति फाइलको नाम परीक्षण गर्नुहोस्।</li> <li>फाइल सरिएको, नाम परिवर्तन गरिएको वा मेटिएको परीक्षणको निम्ति हेर्नुहोस्।</li> </ul>">
@@ -100,7 +100,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>यदी यो इन्टरनेट जडानमा तपाईँलाई पुर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
+<!ENTITY securityOverride.warningContent "<p>यदि यो इन्टरनेट जडानमा तपाईँलाई पूर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
 
 <!ENTITY remoteXUL.title "दूर XUL ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
