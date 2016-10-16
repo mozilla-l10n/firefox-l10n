@@ -754,15 +754,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
 
-<!ENTITY syncedTabs.context.open.label                       "తెరువు">
+<!ENTITY syncedTabs.context.open.label                       "తెరువుము">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త ట్యాబ్‌ నందు తెరువుము">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండో నందు తెరువుము">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువుము">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబ్ బుక్మార్క్ చెయ్యి...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబ్ ను బుక్మార్క్ చెయ్యండి...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "కాపీ చేయి">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
@@ -772,32 +772,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; లోనికి ప్రవేశించండి…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
+<!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ చేయండి">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; తిరిగి అనుసంధానించు...">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; కు తిరిగి అనుసంధానించుము...">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
 
 <!ENTITY social.addons.label "సేవలను నిర్వహించు...">
 
 <!ENTITY social.directory.label "క్రియాశీలనల సంచయం">
-<!ENTITY social.directory.text "సంచయం నుండి మీరు భాగస్వామ్య సేవలను క్రియాశీలంచేయవచ్చు.">
-<!ENTITY social.directory.button "నన్ను అక్కడకు తీసుకుపో!">
-<!ENTITY social.directory.introText "సేవను &brandShortName; కు జతచేయుటకు దానిపై నొక్కుము.">
-<!ENTITY social.directory.viewmore.text "మరిన్ని దర్శించు">
+<!ENTITY social.directory.text "మీరు సంచయం నుండి భాగస్వామ్య సేవలను క్రియాశీలం చేయవచ్చు.">
+<!ENTITY social.directory.button "నన్ను అక్కడకు తీసుకునిపో!">
+<!ENTITY social.directory.introText "సేవను &brandShortName; కు జతచేయుటకు దాని పై నొక్కుము.">
+<!ENTITY social.directory.viewmore.text "మరిన్ని వీక్షించుము">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
-<!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను తిరిగివుంచు">
-<!ENTITY customizeMode.toolbars "సాధనపట్టీలు చూపు / దాయి">
+<!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
+<!ENTITY customizeMode.toolbars "ఉపకరణపట్టీలను చూపు/అదృశ్యం చెయ్యి">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
-<!ENTITY customizeMode.lwthemes "థీమ్స్">
-<!ENTITY customizeMode.lwthemes.myThemes "నా థీమ్స్">
-<!ENTITY customizeMode.lwthemes.recommended "సిఫార్సుచేయబడినది">
+<!ENTITY customizeMode.lwthemes "థీములు">
+<!ENTITY customizeMode.lwthemes.myThemes "నా థీమ్ లు">
+<!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినది">
 <!ENTITY customizeMode.lwthemes.menuManage "నిర్వహించండి">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని థీమ్స్ పొందండి">
+<!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని థీములను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
@@ -805,16 +805,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "ట్యాబ్ నుండి ఆడియో పంచబడును.">
-<!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
+<!ENTITY getUserMedia.allWindowsShared.message "మీ తెర పైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.detectedBlocked3 "మీ విహరణ జాడ తెలుసుకునేందు ఈ పైజీపై వున్న భాగములను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY trackingProtection.detectedBlocked3 "మీ విహరణ జాడ తెలుసుకునేందు ఈ పైజీ పై ఉన్న భాగములను &brandShortName; నిరోధిస్తోంది.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లను ఈ సైట్ కలిగివుంది. మీరు రక్షణను అచేతనించారు.">
-<!ENTITY trackingProtection.notDetected3 "ఈ పేజీపైన ఎటువంటి జాడ తెలుసుకొనే ఎలిమెంట్స్ లేవు.">
+<!ENTITY trackingProtection.notDetected3 "ఈ పేజీ పైన ఎటువంటి జాడ తెలుసుకొనే ఎలిమెంట్స్ లేవు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
+<!ENTITY trackingProtection.unblock.label "ఈ సైటు కొరకు రక్షణను అచేతనంచేయి">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -824,23 +824,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ఆరాతీస్తోంది">
+<!ENTITY trackingContentBlocked.message "ట్రాక్ చేయబడుతోంది">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
-<!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకో">
-<!ENTITY trackingContentBlocked.options "ఎంపికలు">
+<!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకోండి">
+<!ENTITY trackingContentBlocked.options "ఐచ్ఛికములు">
 <!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
 
-<!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు">
+<!ENTITY pluginNotification.showAll.label "అన్నీ చూపించుము">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ఇప్పుడు అనుమతించు">
-<!ENTITY pluginActivateAlways.label "అనుమతించి గుర్తుపెట్టుకో">
-<!ENTITY pluginBlockNow.label "ప్లగిన్ను నిరోధించు">
+<!ENTITY pluginActivateNow.label "ఇప్పుడు అనుమతించుము">
+<!ENTITY pluginActivateAlways.label "అనుమతించు మరియు గుర్తుంచుకోనుము">
+<!ENTITY pluginBlockNow.label "ప్లగిన్ ను నిరోధించుము">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -849,14 +849,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY uiTour.infoPanel.close "మూసివేయి">
+<!ENTITY uiTour.infoPanel.close "మూసివేయండి">
 
 <!ENTITY appMenuSidebars.label         "పక్కపట్టీలు">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "ఈ గతాన్ని మరిచిపో:">
+<!ENTITY panicButton.view.mainTimeframeDesc       "గతాన్ని మరిచిపో:">
 <!ENTITY panicButton.view.5min                    "ఐదు నిమిషాలు">
 <!ENTITY panicButton.view.2hr                     "రెండు గంటలు">
 <!ENTITY panicButton.view.day                     "24 గంటలు">
@@ -866,17 +866,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
-<!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబ్ లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయి">
-<!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండో తెరువుము">
+<!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించుము">
+<!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించుము">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబ్ లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయండి">
+<!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండోను తెరువుము">
 
-<!ENTITY panicButton.view.undoWarning             "ఈ చర్యని చేసినతర్వాత పూర్వస్థితి తెప్పించలేము.">
+<!ENTITY panicButton.view.undoWarning             "ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.">
 <!ENTITY panicButton.view.forgetButton            "మర్చిపో!">
 
-<!ENTITY panicButton.thankyou.msg1                "ఇటీవలి మీ చరిత్ర తుడిచివేయబడింది.">
+<!ENTITY panicButton.thankyou.msg1                "మీ ఇటీవలి చరిత్ర తుడిచివేయబడింది.">
 <!ENTITY panicButton.thankyou.msg2                "సురక్షిత విహారణ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ధన్యవాదములు!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకో...">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకోండి...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
