@@ -93,6 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Aktifkan pendebugan daring">
+<!ENTITY options.enableRemote.tooltip2  "Mengaktifkan opsi ini akan memungkinkan pengembang untuk mendebug salinan jarak jauh misalnya Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -109,6 +110,8 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Menonaktifkan HTTP Cache (saat kotak peralatan terbuka)">
+<!ENTITY options.disableHTTPCache.tooltip   "Mengaktifkan opsi ini akan menonaktifkan cache HTTP untuk semua tab yang kotak peralatannya terbuka. Layanan Pekerja tidak terpengaruh oleh opsi ini.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
@@ -119,6 +122,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Alat Pengembang Tetap">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
