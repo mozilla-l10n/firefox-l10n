@@ -28,8 +28,8 @@
 
 <!ENTITY button.addFeed.label        "Ajouter">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Modifier">
-<!ENTITY button.editFeed.accesskey   "M">
+<!ENTITY button.updateFeed.label     "Mettre à jour">
+<!ENTITY button.updateFeed.accesskey "M">
 <!ENTITY button.removeFeed.label     "Supprimer">
 <!ENTITY button.removeFeed.accesskey "S">
 <!ENTITY button.importOPML.label     "Importer">
