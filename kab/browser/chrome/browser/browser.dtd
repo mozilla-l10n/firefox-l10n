@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
 <!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Talɣut ɣef usebtar">
+<!ENTITY pageInfoCmd.label "Talɣut ɣef usebter">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Sleg iccer">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter agi">
-<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebtar agi">
+<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebter agi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -177,9 +177,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "u">
 <!ENTITY shareVideo.label "Bḍu asaru yagi">
 <!ENTITY shareVideo.accesskey "s">
-<!ENTITY feedsMenu2.label "Multeɣ ɣer usebtar agi">
-<!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebtar agi">
-<!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebtar agi…">
+<!ENTITY feedsMenu2.label "Multeɣ ɣer usebter agi">
+<!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter agi">
+<!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebter agi…">
 <!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
@@ -191,17 +191,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "ɣer deffir">
-<!ENTITY backButton.tooltip           "Uγal s yiwen usebtar">
+<!ENTITY backButton.tooltip           "Uγal s yiwen usebter">
 <!ENTITY forwardCmd.label             "ɣer zdat">
-<!ENTITY forwardButton.tooltip        "Aẓ s yiwen usebtar">
+<!ENTITY forwardButton.tooltip        "Aẓ s yiwen usebter">
 <!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣaṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣaṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
 <!ENTITY reloadButton.tooltip         "Sali-d asebter amiran">
 <!ENTITY stopCmd.label                "Sḥbes">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Rken asali n usebtar agi">
-<!ENTITY goEndCap.tooltip             "Ddu ɣer usebtar n ufeggag n tensa">
+<!ENTITY stopButton.tooltip           "Rken asali n usebter agi">
+<!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tensa">
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebter agi">
 
@@ -221,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter agi">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebtar">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenuButton.other.label "Ticrad nniḍen">
-<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n ticraḍ n usebtar">
+<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n ticraḍ n usebter">
 <!ENTITY viewBookmarksToolbar.label         "Skena afeggag  udmawan">
 
 <!ENTITY containersMenu.label "Imagbaren">
@@ -487,7 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Tangalt taɣbalut n usebtar">
+<!ENTITY viewPageSourceCmd.label      "Tangalt taɣbalut n usebter">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
 <!ENTITY viewFrameSourceCmd.label     "Tangalt aɣbalu n ukatar">
 <!ENTITY viewFrameSourceCmd.accesskey "g">
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar agi">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
-<!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebtar…">
+<!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey        "l">
@@ -658,11 +658,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "Aɣanib n usebtar">
+<!ENTITY pageStyleMenu.label "Aɣanib n usebter">
 <!ENTITY pageStyleMenu.accesskey "b">
 <!ENTITY pageStyleNoStyle.label "Ulac aɣanib">
 <!ENTITY pageStyleNoStyle.accesskey "l">
-<!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebtar">
+<!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n isfuyla udhimen n usmel agi web">
@@ -676,13 +676,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "r">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Snifel taɣda n usebtar">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Snifel tanila n usebter">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Snifel taɣda n uḍris">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Nadi deg usebtar agi…">
+<!ENTITY findOnCmd.label     "Nadi deg usebter agi…">
 <!ENTITY findOnCmd.accesskey "d">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nadi ɣer zdat">
@@ -705,9 +705,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel agi, ad ttwakren.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d inelnanen deg usebtar agi.">
-<!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebtar agi d iraɣelsanen (am tugniwin).">
-<!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebtar agi.">
+<!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d inelnanen deg usebter agi.">
+<!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebter agi d iraɣelsanen (am tugniwin).">
+<!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebter agi.">
 <!ENTITY identity.weakEncryption "Asebter agi iseqdac awgelhen meẓẓiyen">
 <!-- Strings for connection state warnings in the subview. -->
 
