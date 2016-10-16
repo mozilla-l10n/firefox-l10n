@@ -60,13 +60,13 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Iktazalen iḥerfiyen">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar imernan">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Talɣut n tɣimit">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  udlif amazray id d-leqḍen izegrar imernan">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Adlef amazray i d-leqḍen izegrar">
 
 <!ENTITY aboutTelemetry.toggle "  Sit ɣef Snefli/Fneẓ tigezmi">
 

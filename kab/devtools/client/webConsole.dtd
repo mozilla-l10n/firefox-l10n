@@ -69,7 +69,7 @@
 <!ENTITY btnConsoleSharedWorkers "Inmahalen ibḍan">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleServiceWorkers "Tanfa Workers">
+<!ENTITY btnConsoleServiceWorkers "Ameẓlu Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Workers n izegrar neɣ n chrome ">
