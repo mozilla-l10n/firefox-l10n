@@ -275,7 +275,8 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Onglets personnalisés">
-<!ENTITY pref_custom_tabs_summary "Autoriser les applications tierces à ouvrir des adresses web avec une apparence personnalisée.">
+<!ENTITY pref_custom_tabs_summary3 "Autoriser les applications à ouvrir les sites web en utilisant une version personnalisée de &brandShortName;">
+
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Flux d’activité">
@@ -827,6 +828,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Les plus visités">
 <!ENTITY activity_stream_highlights "Éléments clés">
-<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
-     when pressed. -->
-<!ENTITY activity_stream_more "Afficher davantage">
+
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Ajoutés aux marque-pages">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Visités">
+

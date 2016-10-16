@@ -40,11 +40,11 @@
 <!ENTITY syncDeviceName.label         "Nom de l’appareil :">
 <!ENTITY fxaSyncDeviceName.label      "Nom de l’appareil">
 <!ENTITY changeSyncDeviceName.label   "Changer le nom de l’appareil…">
-<!ENTITY changeSyncDeviceName.label.accesskey "c">
+<!ENTITY changeSyncDeviceName.accesskey "c">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuler">
-<!ENTITY cancelChangeSyncDeviceName.label.accesskey "A">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Enregistrer">
-<!ENTITY saveChangeSyncDeviceName.label.accesskey "E">
+<!ENTITY saveChangeSyncDeviceName.accesskey "E">
 <!ENTITY unlinkDevice.label           "Retirer cet appareil">
 
 <!-- Footer stuff -->
@@ -64,18 +64,17 @@
 <!ENTITY signIn.label                "Connexion">
 <!ENTITY profilePicture.tooltip      "Changer la photo de profil">
 <!ENTITY verifiedManage.label        "Gérer le compte">
-<!ENTITY verifiedManage.label.accesskey    "G">
+<!ENTITY verifiedManage.accesskey    "G">
 <!ENTITY disconnect.label            "Se déconnecter…">
-<!ENTITY disconnect.label.accesskey        "d">
+<!ENTITY disconnect.accesskey        "d">
 <!ENTITY verify.label                "Vérifier l’adresse électronique">
-<!ENTITY verify.label.accesskey            "V">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oublier cette adresse électronique">
-<!ENTITY forget.label.accesskey            "b">
-<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey            "b">
+<!ENTITY forget.accesskey            "b">
 
 <!ENTITY welcome.description "Accédez à vos onglets, marque-pages, mots de passe et bien plus, quel que soit l’appareil sur lequel vous utilisez &brandShortName;.">
 <!ENTITY welcome.signIn.label "Se connecter">
-<!ENTITY signIn.label.accesskey            "S">
+<!ENTITY signIn.accesskey            "S">
 <!ENTITY welcome.createAccount.label "Créer un compte">
 <!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
 
