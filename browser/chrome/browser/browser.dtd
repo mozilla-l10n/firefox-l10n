@@ -503,8 +503,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "వివరణను చూడండి">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "దృశ్యకాన్ని చూడండి">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.label           "వీడియో ను వీక్షించండి">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "నేపథ్య చిత్రాన్ని చూడండి">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్ వెనుతలంగా అమర్చు…">
@@ -514,28 +514,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయుము">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "ఈమెయిల్ లంకె…">
+<!ENTITY emailPageCmd.label           "లింక్ ను ఈమెయిల్ చేయి…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "పేజీని యిలా భద్రపరచు...">
+<!ENTITY savePageCmd.label            "పేజీని ఇలా భద్రపరచు...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "ఫ్రేముని ఇలా భద్రపరచు…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "చట్రమును ముద్రించు…">
+<!ENTITY printFrameCmd.label          "ఫ్రేమును ముద్రించు…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "లింకుని యిలా భద్రపరచు...">
+<!ENTITY saveLinkCmd.label            "లింకుని ఇలా భద్రపరచు...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "చిత్రాన్ని యిలా భద్రపరచు...">
+<!ENTITY saveImageCmd.label           "చిత్రాన్ని ఇలా భద్రపరచు...">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "దృశ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "శ్రవ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "ఈమెయిల్ చిత్రము…">
+<!ENTITY emailImageCmd.label          "చిత్రమును ఈమెయిల్ చేయి…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "ఈమెయిల్ వీడియో…">
+<!ENTITY emailVideoCmd.label          "వీడియోను ఈమెయిల్ చేయి…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "వీడియోను పరికరానికి పంపు">
 <!ENTITY castVideoCmd.accesskey       "e">
@@ -543,7 +543,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ఈ ప్లగిన్ క్రియాశీలపరచు">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "ఈ ప్లగిన్ మరుగునవుంచు">
+<!ENTITY hidePluginCmd.label          "ఈ ప్లగిన్ ను దాచుము">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -595,20 +595,20 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "మీటలు చూపు">
+<!ENTITY mediaShowControls.label     "నియంత్రికలను చూపుము">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "మీటలు దాచు">
+<!ENTITY mediaHideControls.label     "నియంత్రికలు దాచుము">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "పూర్తి తెర">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "స్నాప్‌షాట్ యిలా దాయి…">
+<!ENTITY videoSaveImage.label        "స్నాప్‌షాట్ ఇలా భద్రపరుచుము…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "గణాంకాలు చూపు">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "గణాంకాలు మరుగునవుంచు">
+<!ENTITY videoHideStats.label        "గణాంకాలు మరుగున ఉంచు">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
@@ -617,7 +617,7 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
+<!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌ చేయి">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -628,17 +628,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "తిరిగివుంచు">
+<!ENTITY fullZoomResetCmd.label         "తిరిగి అమర్చు">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "పాఠ్యము మాత్రమే జూమ్‌చేయి">
+<!ENTITY fullZoomToggleCmd.label        "పాఠ్యము మాత్రమే జూమ్‌ చేయుము">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "జూమ్">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూయి">
+<!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూసివేయి">
 
 <!ENTITY quitApplicationCmdWin2.label       "నిష్క్రమించు">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -651,20 +651,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "మూయి">  
+<!ENTITY closeCmd.label                 "మూసివేయి">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "పేజీ శైలి">
+<!ENTITY pageStyleMenu.label "పేజీ యొక్క శైలి">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "ఏశైలి లేదు">
+<!ENTITY pageStyleNoStyle.label "ఏ శైలి లేదు">
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "ప్రాధమిక పేజీ శైలి">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు కొరకు సమూహ బ్లాకింగ్ అమరికలను మార్చు">
+<!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు కొరకు పాప్అప్ బ్లాకింగ్ అమరికలను మార్చండి">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -677,82 +677,82 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "పేజీ దిశను మార్చు">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "పాఠ్యము దిశను మార్చు">
+<!ENTITY bidiSwitchTextDirectionItem.label        "పాఠ్యము యొక్క దిశను మార్చు">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ఈ పేజీలో కనుగొను...">
+<!ENTITY findOnCmd.label     "ఈ పేజీలో కనుగొనుము...">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "మరలా కనుగొను">
+<!ENTITY findAgainCmd.label  "మరలా కనుగొనుము">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "పదకోశాలను కలుపు...">
+<!ENTITY spellAddDictionaries.label "పదకోశాలను జోడించండి...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "అయినది">
+<!ENTITY editBookmark.done.label                     "పూర్తయింది">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
-<!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
-<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
-<!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా యాజమాన్యంలో, ఈ సైట్ కు కనెక్ట్ అయ్యారు:">
+<!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితమైనది కాదు">
+<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు నిల్వవుంచబడును.">
+<!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా ఈ సైట్ కు అనుసంధానమయ్యారు, యాజమాన్యం:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
-<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలోని ప్రవేశించిన లాగిన్ లు రాజీపడతాయి.">
+<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలోనికి ప్రవేశించిన లాగిన్ లు రాజీపడతాయి.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీనందు నిరోధించినది.">
-<!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితం కావు (చిత్రాలు వంటివి).">
+<!ENTITY identity.activeBlocked "అసురక్షితమన భాగాలను &brandShortName; ఈ పేజీ నందు నిరోధించినది.">
+<!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితమైనవి కావు (చిత్రాలు వంటివి).">
 <!ENTITY identity.activeLoaded "ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.">
-<!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ఉపయోగిస్తోంది.">
+<!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ను ఉపయోగిస్తోంది.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
-<!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితంకాదు మరియు రాజీపడవచ్చు.">
-<!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
+<!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితమైనది కాదు మరియు రాజీపడవచ్చు.">
+<!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో ఉన్నది మరియు గుట్టుగా లేదు.">
 <!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.">
 <!ENTITY identity.description.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీలో నిరోధించినది.">
-<!ENTITY identity.description.passiveLoaded "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడం మరియు మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
+<!ENTITY identity.description.passiveLoaded "ఈ సైటుకు మీ అనుసంధానం వ్యక్తిగతమైనది కాదు మరియు మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
 <!ENTITY identity.description.passiveLoaded2 "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (చిత్రాలు వంటివి).">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName; కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా పేజీపై సురక్షితం కాని కాంటెంట్ వుంది (చిత్రాలు వంటివి).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా పేజీ పై సురక్షితం కాని కాంటెంట్ వుంది (చిత్రాలు వంటివి).">
 <!ENTITY identity.description.activeLoaded "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్ట్స్ వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.">
 <!ENTITY identity.description.activeLoaded2 "ఈ సైటుతో మీరు పంచుకున్న సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "రక్షణను చేతనించు">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనించు">
+<!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనము చేయి">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
 
-<!ENTITY identity.removeCertException.label "ఎక్సెప్షన్ ను తొలగించు">
+<!ENTITY identity.removeCertException.label "అభ్యంతరమును తొలగించుము">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
 <!ENTITY identity.permissions "అనుమతులు">
-<!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులూ ఇవ్వలేదు.">
-<!ENTITY identity.permissionsReloadHint "మార్పులు దరఖాస్తు కోసం మీరు పేజీ రీలోడ్ అవసరం కావచ్చు.">
+<!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
+<!ENTITY identity.permissionsReloadHint "మార్పులు వర్తించుట కోసం మీరు పేజీని రీలోడ్ చేయడం అవసరం కావచ్చు.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "విహారిణి ట్యాబ్‌లు">
+<!ENTITY tabsToolbar.label "విహారిణి ట్యాబులు">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
 <!ENTITY syncedTabs.sidebar.label              "సింకైన ట్యాబులు">
-<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాలలో ట్యాబ్ లను వీక్షించడానికి Firefoxకు ప్రవేశించండి.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాలలో ట్యాబ్ లను వీక్షించడానికి Firefox కు ప్రవేశించండి.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబ్ లు లేవు... ఇంకా!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబ్ లు చూడాలనుకుంటున్నారా?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబులు చూడాలనుకుంటున్నారా?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ప్రాధాన్యతలు తెరవండి">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
 
 <!ENTITY syncedTabs.context.open.label                       "తెరువుము">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
