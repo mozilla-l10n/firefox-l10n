@@ -35,6 +35,8 @@
 <!ENTITY aboutNetworking.currentLogModules     "Modules de journalisation actuels :">
 <!ENTITY aboutNetworking.setLogFile            "Définir un fichier de journalisation">
 <!ENTITY aboutNetworking.setLogModules         "Définir des modules de journalisation">
+<!ENTITY aboutNetworking.startLogging          "Lancer la journalisation">
+<!ENTITY aboutNetworking.stopLogging           "Arrêter la journalisation">
 <!ENTITY aboutNetworking.dnsLookup             "Recherche DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Résolution">
 <!ENTITY aboutNetworking.dnsDomain             "Domaine">
