@@ -350,7 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
 <!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
 <!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
-<!ENTITY appMenuHelp.tooltip "సహాయం మెనుని తెరువు">
+<!ENTITY appMenuHelp.tooltip "సహాయ మెనుని తెరువుము">
 
 <!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -358,29 +358,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "తెరిచివున్న ట్యాబులు లేవు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ప్రారంభించండి.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్ లు లేవు... ఇంకా!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబ్ లు చూడాలనుకుంటున్నారా?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ ప్రాధాన్యతలు">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
 <!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన ట్యాబ్ లు సైడ్బార్ చూడండి">
 
-<!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి">
+<!ENTITY customizeMenu.addToToolbar.label "పనిముట్ల పట్టీకి జతచేయి">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "మెనూకు జతచేయి">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "సాధనపట్టీకి కదుల్చు">
+<!ENTITY customizeMenu.moveToToolbar.label "సాధనపట్టీకి వెళ్ళండి">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "మెనూకు కదల్చు">
+<!ENTITY customizeMenu.moveToPanel.label "మెనూకు కదలండి">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "సాధనపట్టీ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
