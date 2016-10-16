@@ -509,6 +509,7 @@
 <!ENTITY forwardButton.label "Transférer">
 <!ENTITY fileButton.label "Classer">
 <!ENTITY archiveButton.label "Archiver">
+<!ENTITY openConversationButton.label "Conversation">
 <!ENTITY nextButton.label "Suivant">
 <!ENTITY nextButtonToolbarItem.label "Non lu suivant">
 <!ENTITY nextMsgButton.label "Suivant">
@@ -551,6 +552,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Transférer le message sélectionné au format pièce jointe">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
+<!ENTITY openConversationButton.tooltip "Afficher la conversation du message sélectionné">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
 <!ENTITY nextMsgButton.tooltip "Aller au prochain message">
 <!ENTITY goForwardButton.tooltip "Avancer d’un message">

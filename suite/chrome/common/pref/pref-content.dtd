@@ -9,8 +9,9 @@
 <!ENTITY siteIcons.label                        "Icônes de sites web">
 <!ENTITY useSiteIcons.label                     "Afficher les icônes de sites web">
 <!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "Rechercher activement les icônes de sites web quand la page n’en définit pas">
-<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY useFavIcons2.label                     "Essayer d’utiliser l’icône du serveur lorsque la page n’en définit pas">
+<!ENTITY useFavIcons2.accesskey                 "a">
+
 
 <!ENTITY scrolling.label                        "Défilement">
 <!ENTITY useAutoScroll.label                    "Utiliser le défilement automatique">
@@ -26,7 +27,7 @@
 <!ENTITY minZoom.label                          "De">
 <!ENTITY minZoom.accesskey                      "e">
 <!ENTITY maxZoom.label                          "à">
-<!ENTITY maxZoom.accesskey                      "">
+<!ENTITY maxZoom.accesskey                      "à">
 <!ENTITY percent.label                          " &#37;">
 
 <!ENTITY siteSpecific.label                     "Retenir les niveaux de zoom pour chaque site">
