@@ -214,6 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitio">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir cámara y/o micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar compartir ventanas o pantalla con el sitio">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensajes de instalación">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
@@ -222,11 +225,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado la cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Se ha bloqueado la información de ubicación para este sitio web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha bloqueado almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Restablecer nivel de zoom">
 
 <!ENTITY searchItem.title             "Buscar">
 
