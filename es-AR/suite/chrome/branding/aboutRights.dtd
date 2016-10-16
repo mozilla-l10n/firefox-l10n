@@ -43,6 +43,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "aquí">
+<!ENTITY rights3.webservices-c ". Otras funciones y Servicios pueden ser habilitados o no en las preferencias de la aplicación.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Servicios de complementos: ">
@@ -61,6 +63,9 @@
 <!ENTITY rights.safebrowsing-term4 "La navegación segura ahora está deshabilitada">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navegación con ubicación geográfica: ">
+<!ENTITY rights.locationawarebrowsing-term1 "Abrir las preferencias de la aplicación">
+<!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; puede discontinuar o cambiar los servicios según considere oportuno.">
