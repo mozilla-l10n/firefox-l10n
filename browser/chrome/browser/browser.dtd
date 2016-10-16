@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "పేజీ సమాచారం">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "మిర్రర్ టాబ్">
+<!ENTITY mirrorTabCmd.label "మిర్రర్ ట్యాబ్">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "దస్త్రం"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "కొత్త కంటైనర్ టాబ్">
+<!ENTITY newUserContext.label             "కొత్త కంటైనర్ ట్యాబ్">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -358,16 +358,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "తెరిచివున్న ట్యాబులు లేవు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి టాబ్ సింక్ ను ఆన్ చేయండి.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
+<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్ లు లేవు... ఇంకా!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబ్ లు చూడాలనుకుంటున్నారా?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ ప్రాధాన్యతలు">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
-<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన టాబ్లు సైడ్బార్ చూడండి">
+<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన ట్యాబ్ లు సైడ్బార్ చూడండి">
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
+<!ENTITY urlbar.switchToTab.label     "ట్యాబ్‌నకు మారుము:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
@@ -541,9 +541,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ఈమెయిల్ ఆడియో…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "ఈ చొప్పింత క్రియాశీలపరచు">
+<!ENTITY playPluginCmd.label          "ఈ ప్లగిన్ క్రియాశీలపరచు">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "ఈ చొప్పింత మరుగునవుంచు">
+<!ENTITY hidePluginCmd.label          "ఈ ప్లగిన్ మరుగునవుంచు">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -738,31 +738,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
+<!ENTITY tabsToolbar.label "విహారిణి ట్యాబ్‌లు">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
 <!ENTITY syncedTabs.sidebar.label              "సింకైన ట్యాబులు">
-<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాలలో టాబ్ లను వీక్షించడానికి Firefoxకు ప్రవేశించండి.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
+<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాలలో ట్యాబ్ లను వీక్షించడానికి Firefoxకు ప్రవేశించండి.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబ్ లు లేవు... ఇంకా!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబ్ లు చూడాలనుకుంటున్నారా?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ప్రాధాన్యతలు తెరవండి">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి టాబ్ సింక్ ను ఆన్ చేయండి.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి ట్యాబ్ సింక్ ను ఆన్ చేయండి.">
 
 <!ENTITY syncedTabs.context.open.label                       "తెరువు">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త టాబ్‌ నందు తెరువుము">
+<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త ట్యాబ్‌ నందు తెరువుము">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండో నందు తెరువుము">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ టాబ్ బుక్మార్క్ చెయ్యి...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబ్ బుక్మార్క్ చెయ్యి...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "కాపీ చేయి">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "టాబ్ నుండి ఆడియో పంచబడును.">
+<!ENTITY getUserMedia.audioCapture.label "ట్యాబ్ నుండి ఆడియో పంచబడును.">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
@@ -868,7 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
 <!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
 <!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>టాబ్లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయి">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబ్ లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయి">
 <!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండో తెరువుము">
 
 <!ENTITY panicButton.view.undoWarning             "ఈ చర్యని చేసినతర్వాత పూర్వస్థితి తెప్పించలేము.">
