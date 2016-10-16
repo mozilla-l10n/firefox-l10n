@@ -200,17 +200,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "ఈ పేజీని మళ్ళీ లోడు చేయి">
 <!ENTITY stopCmd.label                "ఆపు">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపు">
-<!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళు">
+<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపివేయండి">
+<!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి">
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలు తెరువు">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలు తెరువు">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్లైన్ నిల్వ సందేశాన్ని ప్యానెల్ ఓపెన్ చెయ్యండి">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెల్ ను తెరువుము">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెల్ ను తెరువుము">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెల్ ను తెరువు">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్ లైన్ నిల్వ సందేశ ప్యానెల్ ను తెరవండి">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్వర్డ్ సందేశాన్ని సేవ్ ప్యానెల్ ని ఒపెన్ చెయ్యండి">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
@@ -235,10 +235,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.zoomReset.tooltip     "పరివీక్షణ స్థాయిని రీసెట్ చేయి">
 
-<!ENTITY searchItem.title             "వెతుకు">
+<!ENTITY searchItem.title             "శోధించు">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label             "ముంగిలి">
+<!ENTITY homeButton.label             "హోం">
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenuButton.other.label "ఇతర ఇష్టాంశాలు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
-<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల పట్టీని చూడండి">
+<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల సాధనపట్టీని చూడండి">
 
 <!ENTITY containersMenu.label "కంటెయినర్లు">
 
@@ -262,10 +262,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "పనిముట్లు">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "ఈ శోధనకు కీపదాన్ని చేర్చండి…">
+<!ENTITY keywordfield.label           "ఈ శోధనకు కీలక పదాన్ని చేర్చండి…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "దింపుకోళ్ళు">
+<!ENTITY downloads.label              "డౌన్ లోడ్ లు">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "సవరణ"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "వెనుదెమ్ము">  
+<!ENTITY undoCmd.label            "చర్యరద్దు">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "మళ్ళీచేయి">  
+<!ENTITY redoCmd.label            "పునరాచరణ">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "కత్తిరించు">  
@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "అన్నిటిని ఎన్నుకొనుము">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "ఐచ్ఛికాలు">
+<!ENTITY preferencesCmd2.label       "ఐచ్ఛికములు">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "అభిరుచులు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
@@ -328,12 +328,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "పక్క పట్టీ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "మలుచుకొను..."> 
+<!ENTITY viewCustomizeToolbar.label       "అనుకూలీకరణ..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "చరిత్ర">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "ఇటీవల మూసిన టాబులు">
+<!ENTITY historyUndoMenu.label "ఇటీవల మూసిన ట్యాబులు">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
 <!ENTITY historyRestoreLastSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
@@ -341,10 +341,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "మలచుము">
+<!ENTITY appMenuCustomize.label "అనుకూలపరచు">
 <!ENTITY appMenuCustomize.tooltip "మెనూని పనిముట్ల పట్టీని తీర్చిదిద్దుకోండి">
-<!ENTITY appMenuCustomizeExit.label "మలచుకొనుటనుండి నిష్క్రమించు">
-<!ENTITY appMenuCustomizeExit.tooltip "తీర్చిదిద్దుకోడాన్ని ముగించండి">
+<!ENTITY appMenuCustomizeExit.label "అనుకూలీకరణను నిష్క్రమించండి">
+<!ENTITY appMenuCustomizeExit.tooltip "అనుకూలీకరణను ముగించండి">
 <!ENTITY appMenuHistory.label "చరిత్ర">
 <!ENTITY appMenuHistory.showAll.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
@@ -380,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "మెనూకు కదలండి">
+<!ENTITY customizeMenu.moveToPanel.label "మెనూకు వెళ్ళండి">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "సాధనపట్టీ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "ట్యాబ్‌నకు మారుము:">
+<!ENTITY urlbar.switchToTab.label     "ట్యాబ్‌ నకు మారుము:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
@@ -430,12 +430,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
-<!ENTITY contentSearchSubmit.tooltip  "శోధన సమర్పించండి">
+<!ENTITY contentSearchSubmit.tooltip  "శోధనను సమర్పించండి">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "దీని కొరకు అన్వేషించు ">
+<!ENTITY searchFor.label              " దీని కొరకు అన్వేషించుము">
 <!ENTITY searchWith.label             " దీనితో:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
