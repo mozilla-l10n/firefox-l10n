@@ -17,7 +17,7 @@
 <!ENTITY clickToActivatePlugin                               "प्लगइन सक्रिय गर्नुहोस्।">
 <!ENTITY checkForUpdates                                     "अपडेटको लागि जाँच गर्नुहोस्...">
 <!ENTITY disabledPlugin                                      "यो प्लगइन निस्क्रिय गरिएको छ।">
-<!ENTITY blockedPlugin.label                                 "यो प्लगइन तपाइँको सुरक्षाका लागि बन्द गरिएको छ।">
+<!ENTITY blockedPlugin.label                                 "यो प्लगइन तपाईँको सुरक्षाका लागि बन्द गरिएको छ।">
 <!ENTITY hidePluginBtn.label                                 "प्लगइन लुकाउनुहोस्">
 <!ENTITY managePlugins                                       "प्लगइन व्यवस्थापन गर्नुहोस् ...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
