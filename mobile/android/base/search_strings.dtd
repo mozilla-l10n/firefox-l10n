@@ -9,7 +9,7 @@
 <!ENTITY search_bar_hint "&formatS;को साथ खोज">
 
 <!ENTITY search_empty_title2 "खोजी सुरुगर्नुहोस्">
-<!ENTITY search_empty_message "तपाइले चहानुभएको कुनैपनि कुराबारे चाडै खोज्नु">
+<!ENTITY search_empty_message "तपाईँले चहानुभएको कुनैपनि कुरा बारे चाँडै खोज्नुहोस्">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 

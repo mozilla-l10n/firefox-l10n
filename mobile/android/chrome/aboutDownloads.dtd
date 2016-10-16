@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "डाउनलोडहरू">
-<!ENTITY aboutDownloads.header                     "तपाइको डाउनलोडहरू">
+<!ENTITY aboutDownloads.header                     "तपाईँको डाउनलोडहरू">
 <!ENTITY aboutDownloads.empty                      "कुनै डाउनलोडहरू छैनन्">
 
 <!ENTITY aboutDownloads.open                       "खोल्नुहोस्">
