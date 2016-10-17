@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ఈ లంకెను పంచుకోండి">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "ఈ చిత్రమును పంచుకోండి">
+<!ENTITY shareImage.label "ఈ బొమ్మను పంచుకోండి">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "ఎంపికను పంచుకోండి">
 <!ENTITY shareSelect.accesskey "r">
@@ -362,27 +362,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్ లు లేవు... ఇంకా!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ ట్యాబ్ లు చూడాలనుకుంటున్నారా?">
+<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబులు లేవు… ఇంకా!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ ప్రాధాన్యతలు">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
-<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన ట్యాబ్ లు సైడ్బార్ చూడండి">
+<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్రనిత ట్యాబుల ప్రక్కపట్టీని చూడండి">
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్ల పట్టీకి జతచేయి">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "మెనూకు జతచేయి">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "సాధనపట్టీకి వెళ్ళండి">
+<!ENTITY customizeMenu.moveToToolbar.label "పనిముట్ల పట్టీకి తరలించు">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "మెనూకు వెళ్ళండి">
+<!ENTITY customizeMenu.moveToPanel.label "మెనూకి తరలించు">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "సాధనపట్టీ నుండి తీసివేయి">
+<!ENTITY customizeMenu.removeFromToolbar.label "పనిముట్ల పట్టీ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "మెనూ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "ట్యాబ్‌ నకు మారుము:">
+<!ENTITY urlbar.switchToTab.label     "ట్యాబుకు మారు:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
@@ -599,7 +599,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "నియంత్రికలు దాచుము">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "పూర్తి తెర">
+<!ENTITY videoFullScreen.label       "నిండు తెర">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "స్నాప్‌షాట్ ఇలా భద్రపరుచుము…">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -698,14 +698,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితమైనది కాదు">
-<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు నిల్వవుంచబడును.">
+<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్లో నిల్వవుంచబడును.">
 <!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా ఈ సైట్ కు అనుసంధానమయ్యారు, యాజమాన్యం:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
-<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలోనికి ప్రవేశించిన లాగిన్ లు రాజీపడతాయి.">
+<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలో ఇచ్చిన లాగిన్లు రాజీపడవచ్చు.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "అసురక్షితమన భాగాలను &brandShortName; ఈ పేజీ నందు నిరోధించినది.">
-<!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితమైనవి కావు (చిత్రాలు వంటివి).">
+<!ENTITY identity.activeBlocked "ఈ పేజీలో సురక్షితంకాని భాగాలను &brandShortName; నిరోధించింది.">
+<!ENTITY identity.passiveLoaded "ఈ పేజీలోని కొన్ని భాగాలు సురక్షితమైనవి కావు (బొమ్మల వంటివి).">
 <!ENTITY identity.activeLoaded "ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.">
 <!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ను ఉపయోగిస్తోంది.">
 
@@ -838,9 +838,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ఇప్పుడు అనుమతించుము">
-<!ENTITY pluginActivateAlways.label "అనుమతించు మరియు గుర్తుంచుకోనుము">
-<!ENTITY pluginBlockNow.label "ప్లగిన్ ను నిరోధించుము">
+<!ENTITY pluginActivateNow.label "ఇప్పుడు అనుమతించు">
+<!ENTITY pluginActivateAlways.label "అనుమతించి గుర్తుంచుకో">
+<!ENTITY pluginBlockNow.label "ప్లగిన్ను నిరోధించు">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
