@@ -495,17 +495,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ఫ్రేము సమాచారాన్ని చూడండి">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "చిత్రాన్ని తిరిగి లోడుచేయి">
+<!ENTITY reloadImageCmd.label         "బొమ్మని తిరిగి లోడుచేయి">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "చిత్రాన్ని చూడండి">
+<!ENTITY viewImageCmd.label           "బొమ్మని చూడండి">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "చిత్ర సమాచారాన్ని చూడండి">
+<!ENTITY viewImageInfoCmd.label       "బొమ్మ యొక్క సమాచారాన్ని చూడండి">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "వివరణను చూడండి">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "వీడియో ను వీక్షించండి">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "నేపథ్య చిత్రాన్ని చూడండి">
+<!ENTITY viewBGImageCmd.label         "నేపథ్య బొమ్మని చూడండి">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్ వెనుతలంగా అమర్చు…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
@@ -527,13 +527,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "లింకుని ఇలా భద్రపరచు...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "చిత్రాన్ని ఇలా భద్రపరచు...">
+<!ENTITY saveImageCmd.label           "బొమ్మని ఇలా భద్రపరచు...">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "దృశ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "శ్రవ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "చిత్రమును ఈమెయిల్ చేయి…">
+<!ENTITY emailImageCmd.label          "బొమ్మను ఈమెయిల్ చేయి…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "వీడియోను ఈమెయిల్ చేయి…">
 <!ENTITY emailVideoCmd.accesskey      "a">
@@ -547,9 +547,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయి">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "చిత్ర స్థానాన్ని నకలు తీయి">
+<!ENTITY copyImageCmd.label           "బొమ్మ స్థానాన్ని నకలు తీయి">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయి">
+<!ENTITY copyImageContentsCmd.label   "బొమ్మని నకలు తీయి">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "దృశ్య స్థానాన్ని నకలు తీయి">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
