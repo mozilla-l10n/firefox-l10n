@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenuButton.other.label "ఇతర ఇష్టాంశాలు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
-<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల సాధనపట్టీని చూడండి">
+<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల పట్టీని చూడండి">
 
 <!ENTITY containersMenu.label "కంటైనర్లు">
 
@@ -699,9 +699,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితమైనది కాదు">
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.">
-<!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా ఈ సైట్ కు అనుసంధానమయ్యారు, యాజమాన్యం:">
+<!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా ఈ సైటుకి అనుసంధానమయ్యారు, యాజమాన్యం:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
-<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలో ఇచ్చిన లాగిన్లు రాజీపడవచ్చు.">
+<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "ఈ పేజీలో సురక్షితంకాని భాగాలను &brandShortName; నిరోధించింది.">
@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).">
-<!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితమైనది కాదు మరియు రాజీపడవచ్చు.">
+<!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు ఇచ్చిన లాగిన్ సమాచారం సురక్షితమైనది కాదు మరియు రాజీపడవచ్చు.">
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్‌క్రిప్షన్‌తో ఉన్నది మరియు గుట్టుగా లేదు.">
 <!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.">
 <!ENTITY identity.description.activeBlocked "ఈ పేజీలో సురక్షితంకాని భాగాలను &brandShortName; నిరోధించింది.">
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
-<!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని రీలోడ్ చెయ్యాల్సిరావచ్చు.">
+<!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "మీ ఇతర పరికరాలోని ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితా చూడడానికి ప్రవేశించండి.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; అభిరుచులు తెరవు">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; అభిరుచులు తెరువు">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడటానికి ట్యాబుల సింకింగుని చేతనం చెయ్యండి.">
@@ -762,9 +762,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబ్ ను బుక్మార్క్ చెయ్యండి...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబును ఇష్టాంశంగా చేయి…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "కాపీ చేయి">
+<!ENTITY syncedTabs.context.copy.label                       "కాపీచేయి">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; లోనికి ప్రవేశించండి…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ చేయండి">
+<!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ చేయి">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; కు తిరిగి అనుసంధానించు...">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -781,20 +781,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "సేవలను నిర్వహించు...">
 
 <!ENTITY social.directory.label "క్రియాశీలనల సంచయం">
-<!ENTITY social.directory.text "మీరు సంచయం నుండి భాగస్వామ్య సేవలను క్రియాశీలం చేయవచ్చు.">
+<!ENTITY social.directory.text "మీరు సంచయం నుండి పంచుకోలు సేవలను చేతనం చేయవచ్చు.">
 <!ENTITY social.directory.button "నన్ను అక్కడకు తీసుకెళ్ళు!">
-<!ENTITY social.directory.introText "సేవను &brandShortName; కు జతచేయుటకు దాని పై నొక్కండి.">
+<!ENTITY social.directory.introText "ఒక సేవను &brandShortName;కు చేర్చడానికి దానిపై నొక్కండి.">
 <!ENTITY social.directory.viewmore.text "ఇంకా చూడండి">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
 <!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
-<!ENTITY customizeMode.toolbars "ఉపకరణపట్టీలను చూపు/అదృశ్యం చెయ్యి">
+<!ENTITY customizeMode.toolbars "పనిముట్లపట్టీలను చూపించు / దాచు">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
 <!ENTITY customizeMode.lwthemes "అలంకారాలు">
 <!ENTITY customizeMode.lwthemes.myThemes "నా అలంకారాలు">
-<!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినది">
+<!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినవి">
 <!ENTITY customizeMode.lwthemes.menuManage "నిర్వహించండి">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
@@ -805,16 +805,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకోవాల్సిన మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "ట్యాబు నుండి వచ్చే ఆడియో పంచుకోబడుతుంది.">
-<!ENTITY getUserMedia.allWindowsShared.message "మీ తెర పైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
+<!ENTITY getUserMedia.allWindowsShared.message "మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.detectedBlocked3 "మీ విహరణ జాడ తెలుసుకునేందు ఈ పైజీ పై ఉన్న భాగములను &brandShortName; నిరోధిస్తోంది.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లను ఈ సైట్ కలిగివుంది. మీరు రక్షణను అచేతనించారు.">
-<!ENTITY trackingProtection.notDetected3 "ఈ పేజీ పైన ఎటువంటి జాడ తెలుసుకొనే ఎలిమెంట్స్ లేవు.">
+<!ENTITY trackingProtection.detectedBlocked3 "ఈ పైజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "ఈ సైటులో మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లు ఉన్నాయి. మీరు రక్షణను అచేతనించారు.">
+<!ENTITY trackingProtection.notDetected3 "ఈ పేజీలో జాడ తెలుసుకొనే ఎలిమెంట్లు ఏమీ కనబడలేదు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ఈ సైటు కొరకు రక్షణను అచేతనంచేయి">
+<!ENTITY trackingProtection.unblock.label "ఈ సైటులో రక్షణను అచేతనంచేయి">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ట్రాక్ చేయబడుతోంది">
+<!ENTITY trackingContentBlocked.message "ట్రాకింగు">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
 <!ENTITY trackingContentBlocked.learnMore "మరింత తెలుసుకోండి">
 <!ENTITY trackingContentBlocked.options "ఎంపికలు">
@@ -868,7 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
 <!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
 <!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబ్ లు</html:strong> మరియు <html:strong>విండోలు</html:strong> మూయండి">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబులనూ</html:strong> <html:strong>విండోలనూ</html:strong> మూసివేయి">
 <!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండోను తెరువు">
 
 <!ENTITY panicButton.view.undoWarning             "ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.">
