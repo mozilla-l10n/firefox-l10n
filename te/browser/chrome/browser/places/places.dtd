@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
-<!ENTITY places.library.title  "దాచిన సంచయము">
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "గ్రంథాలయం">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "అమర్చు">
+<!ENTITY organize.label        "నిర్వహించు">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "మీ యిష్టాంశములను నిర్వహించు">
+<!ENTITY organize.tooltip      "మీ ఇష్టాంశాలను నిర్వహించండి">
 
-<!ENTITY file.close.label               "మూయుము">
+<!ENTITY file.close.label               "మూసివేయి">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "దర్శనాలు">
