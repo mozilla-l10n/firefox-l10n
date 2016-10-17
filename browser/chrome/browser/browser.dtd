@@ -677,11 +677,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "పేజీ దిశను మార్చు">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "పాఠ్యము యొక్క దిశను మార్చు">
+<!ENTITY bidiSwitchTextDirectionItem.label        "పాఠ్య దిశను మార్చు">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ఈ పేజీలో కనుగొనుము...">
+<!ENTITY findOnCmd.label     "ఈ పేజీలో వెతకండి…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "మరలా కనుగొనుము">
