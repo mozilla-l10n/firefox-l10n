@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "శోధన ">
+<!ENTITY search.label                 "">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
@@ -551,7 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "బొమ్మని నకలు తీయి">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "దృశ్య స్థానాన్ని నకలు తీయి">
+<!ENTITY copyVideoURLCmd.label        "వీడియో స్థానాన్ని కాపీచేయి">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయి">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
