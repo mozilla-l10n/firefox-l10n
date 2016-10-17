@@ -480,7 +480,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమును మాత్రమే చూపించు">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "ఫ్రేమ్ ను తిరిగిలోడు చేయుము">
+<!ENTITY reloadFrameCmd.label         "ఫ్రేమ్ ను తిరిగిలోడు చేయి">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ఎన్నుకొన్న ములాన్ని వీక్షించు">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ములాన్ని వీక్షించండి">
@@ -512,7 +512,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశముచేయి">
 <!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయుము">
+<!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయి">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "లింక్ ను ఈమెయిల్ చేయి…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -545,17 +545,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "ఈ ప్లగిన్ ను దాచు">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
+<!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయి">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "చిత్ర స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyImageCmd.label           "చిత్ర స్థానాన్ని నకలు తీయి">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయుము">
+<!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయి">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "దృశ్య స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyVideoURLCmd.label        "దృశ్య స్థానాన్ని నకలు తీయి">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయి">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయుము">
+<!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయి">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -633,7 +633,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "పాఠ్యము మాత్రమే జూమ్‌ చేయుము">
+<!ENTITY fullZoomToggleCmd.label        "పాఠ్యము మాత్రమే జూమ్‌ చేయి">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "జూమ్">
 <!ENTITY fullZoom.accesskey             "Z">
@@ -670,7 +670,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "పాప్అప్ బ్లాకరు ఆభీష్టాలను సరిచేయి...">
+<!ENTITY editPopupSettingsUnix.label "పాప్అప్ బ్లాకరు అభిరుచులను సరిచేయి…">
 <!ENTITY editPopupSettings.label "పాప్అప్ బ్లాకరు ఐచ్ఛికాలను సరిచేయి...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
