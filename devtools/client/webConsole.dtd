@@ -72,7 +72,7 @@
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "Chrome- eller tilføjelses-Workers">
+<!ENTITY btnConsoleWindowlessWorkers "Chrome- eller tilføjelses-workers">
 
 <!ENTITY filterOutput.placeholder "Filtrer output">
 <!ENTITY btnClear.label        "Ryd">

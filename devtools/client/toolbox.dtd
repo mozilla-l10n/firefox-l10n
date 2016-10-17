@@ -111,7 +111,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Slå HTTP-cache fra (når Værktøj er åben)">
-<!ENTITY options.disableHTTPCache.tooltip   "Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøjerne åbne. Service Workers er ikke påvirket af denne indstilling.">
+<!ENTITY options.disableHTTPCache.tooltip   "Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøjerne åbne. Service workers er ikke påvirket af denne indstilling.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
