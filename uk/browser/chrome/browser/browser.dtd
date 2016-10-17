@@ -238,7 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Пошук">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label             "Домашня сторінка">
+<!ENTITY homeButton.label             "Домівка">
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
