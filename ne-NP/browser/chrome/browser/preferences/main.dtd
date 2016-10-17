@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्">
 <!ENTITY chooseBookmark.label      "पुस्तकचिनो प्रयोग गर्नुहोस्...">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "पूर्वनिर्धारित रुपमा लग्नुहोस्">
+<!ENTITY restoreDefault.label      "पूर्वनिर्धारित रूपमा लग्नुहोस्">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "डाउनलोडहरू">

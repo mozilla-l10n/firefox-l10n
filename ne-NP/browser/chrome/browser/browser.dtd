@@ -507,7 +507,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "पृष्ठभूमिको तस्विर हेर्नुहोस्">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रुपमा बसाउनुहोस्…">
+<!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रूपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कलाई पुस्तकचिनो हाल्नुहोस्">
@@ -529,9 +529,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "यस रूपमा तस्विर सङ्ग्रह गर्नुहोस्…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "भिडियो अरू रुपमा सङ्ग्रह गर्नुहोस्…">
+<!ENTITY saveVideoCmd.label           "भिडियो अरू रूपमा सङ्ग्रह गर्नुहोस्…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "अडियोलाई यस रुपमा सङ्ग्रह गर्नुहोस्...">
+<!ENTITY saveAudioCmd.label           "अडियोलाई यस रूपमा सङ्ग्रह गर्नुहोस्...">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "तस्विरलाई इमेल गर्नुहोस्">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -601,7 +601,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "पूरा पर्दा">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "यस रुपमा स्न्यापसट सङ्ग्रह गर्नुहोस्...">
+<!ENTITY videoSaveImage.label        "यस रूपमा स्न्यापसट सङ्ग्रह गर्नुहोस्...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
