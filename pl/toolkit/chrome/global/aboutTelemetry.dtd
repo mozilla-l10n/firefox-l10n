@@ -35,6 +35,7 @@
 ">
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zawieszenia wątków">
 <!ENTITY aboutTelemetry.scalarsSection "Skalary">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed scalars">
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramy
 ">
