@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(అంతరంగిక విహారణ)">
 
-<!ENTITY appmenu.tooltip                     "మెనుని తెరువు">
+<!ENTITY appmenu.tooltip                     "మెనూని తెరువు">
 <!ENTITY navbarOverflow.label                "మరిన్ని పనిముట్లు…">
 
 <!-- Tab context menu -->
@@ -200,18 +200,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "ఈ పేజీని మళ్ళీ లోడు చేయి">
 <!ENTITY stopCmd.label                "ఆపివేయండి">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపివేయండి">
+<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపివేయి">
 <!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి">
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెల్ ను తెరువుము">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెల్ ను తెరువుము">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెల్ ను తెరువు">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్ లైన్ నిల్వ సందేశ ప్యానెల్ ను తెరవండి">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్వర్డ్ భద్రపరచు సందేశపు ప్యానెల్ ని తెరవండి">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలుని తెరువు">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 
@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ఈ సైటుతో మీ విండోలు లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ఇన్స్టాల్ సందేశపు ప్యానెల్ ను తెరవండి">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "స్థాపన సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ఈ పేజీని అనువదించండి">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "పేజీ అనువాదాన్ని నిర్వహించండి">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM సాఫ్ట్‌వేరు వాడుకను నిర్వహించండి">
@@ -310,10 +310,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "తొలగించు">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "అన్నిటిని ఎన్నుకొనుము">  
+<!ENTITY selectAllCmd.label         "అన్నిటినీ ఎంచుకో">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "ఐచ్ఛికములు">
+<!ENTITY preferencesCmd2.label       "ఎంపికలు">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "అభిరుచులు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
@@ -792,19 +792,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY customizeMode.toolbars "ఉపకరణపట్టీలను చూపు/అదృశ్యం చెయ్యి">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
-<!ENTITY customizeMode.lwthemes "థీములు">
-<!ENTITY customizeMode.lwthemes.myThemes "నా థీమ్ లు">
+<!ENTITY customizeMode.lwthemes "అలంకారాలు">
+<!ENTITY customizeMode.lwthemes.myThemes "నా అలంకారాలు">
 <!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినది">
 <!ENTITY customizeMode.lwthemes.menuManage "నిర్వహించండి">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని థీములను పొందండి">
+<!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
-<!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
+<!ENTITY getUserMedia.selectCamera.label "పంచుకోవాల్సిన కేమెరా:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
+<!ENTITY getUserMedia.selectMicrophone.label "పంచుకోవాల్సిన మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "ట్యాబ్ నుండి ఆడియో పంచబడును.">
+<!ENTITY getUserMedia.audioCapture.label "ట్యాబు నుండి వచ్చే ఆడియో పంచుకోబడుతుంది.">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెర పైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
@@ -826,8 +826,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "ట్రాక్ చేయబడుతోంది">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
-<!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకోండి">
-<!ENTITY trackingContentBlocked.options "ఐచ్ఛికములు">
+<!ENTITY trackingContentBlocked.learnMore "మరింత తెలుసుకోండి">
+<!ENTITY trackingContentBlocked.options "ఎంపికలు">
 <!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
@@ -849,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY uiTour.infoPanel.close "మూసివేయండి">
+<!ENTITY uiTour.infoPanel.close "మూసివేయి">
 
 <!ENTITY appMenuSidebars.label         "పక్కపట్టీలు">
 
@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg1                "మీ ఇటీవలి చరిత్ర తుడిచివేయబడింది.">
 <!ENTITY panicButton.thankyou.msg2                "సురక్షిత విహారణ!">
-<!ENTITY panicButton.thankyou.buttonlabel         "ధన్యవాదములు!">
+<!ENTITY panicButton.thankyou.buttonlabel         "కృతజ్ఞతలు!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకోండి...">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకోండి…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
