@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabs.otherDevices.label               "ఇతర పరికరాల నుండి ట్యాబులు">
+<!ENTITY tabs.otherDevices.label               "ఇతర పరికరాల లోని ట్యాబులు">
 
-<!ENTITY tabs.searchText.label                   "ట్యాబులను కనుక్కోడానికి ఇక్కడ టైపు చెయ్యండి…">
+<!ENTITY tabs.searchText.label                   "ట్యాబులను వెతకడానికి ఇక్కడ టైపు చెయ్యండి…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
