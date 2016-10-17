@@ -164,7 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "మరిన్ని భాగస్వమ్య సేవలను కనుగొనండి…">
+<!ENTITY findShareServices.label "మరిన్ని పంచుకోలు సేవలను కనుగొనండి…">
 <!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -178,7 +178,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "ఈ వీడియోను పంచుకోండి">
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu2.label "ఈ పేజీకి చందాచేరండి">
-<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి సంప్రదించండి">
+<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాచేరండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి సంప్రదించండి…">
 <!ENTITY addCurPagesCmd.label "ట్యాబులు అన్నింటినీ ఇష్టాంశాలుగా చేయి…">
 <!ENTITY showAllBookmarks2.label "ఇష్టాంశాలు అన్నింటినీ చూపించు">
@@ -211,11 +211,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలును తెరువు">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలుని తెరువు">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైటు నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించుకోండి">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ఈ సైటుతో మీ విండోలు లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
 
@@ -224,16 +224,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "పేజీ అనువాదాన్ని నిర్వహించండి">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM సాఫ్ట్‌వేరు వాడుకను నిర్వహించండి">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "మీరు ఈ వెబ్ సైట్ కోసం మీ కెమెరాను నిరోధించారు.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "మీరు ఈ వెబ్ సైట్ కోసం మీ మైక్రోఫోన్ ని నిరోధించారు.">
-<!ENTITY urlbar.screenBlocked.tooltip            "మీరు మీ స్క్రీన్ ను భాగస్వామ్యం నుండి ఈ వెబ్ సైట్ ని నిరోధించారు.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "మీరు ఈ వెబ్ సైట్ కోసం స్థాన సమాచారాన్ని నిరోధించారు.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "మీరు ఈ వెబ్ సైట్ కోసం డేటా నిల్వ చేయుటను నిరోధించారు.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "మీరు ఈ వెబ్ సైట్ కోసం ప్రకటనలను బ్లాక్ చేశారు.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "మీ కెమెరాను వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "మీ మైక్రోఫోనును వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
+<!ENTITY urlbar.screenBlocked.tooltip            "మీ తెరను పంచుకోకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "మీ స్థాన సమాచారాన్ని వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "డేటా నిల్వ చేయకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
-<!ENTITY urlbar.zoomReset.tooltip     "పరివీక్షణ స్థాయిని రీసెట్ చేయి">
+<!ENTITY urlbar.zoomReset.tooltip     "జూమ్ స్థాయిని పునరుద్ధరించు">
 
 <!ENTITY searchItem.title             "వెతుకు">
 
@@ -445,7 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY search.label                 "">
-<!ENTITY searchAfter.label            "">
+<!ENTITY searchAfter.label            "తో వెతుకు">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "అన్వేషణ అమర్పులను మార్చండి">
-<!ENTITY changeSearchSettings.tooltip "శోధన సెట్టింగులను మార్చండి">
+<!ENTITY changeSearchSettings.tooltip "వెతుకుడు అమరికలను మార్చండి">
 
 <!ENTITY searchInNewTab.label         "కొత్త ట్యాబులో శోధించండి">
 <!ENTITY searchInNewTab.accesskey     "T">
