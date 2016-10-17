@@ -303,7 +303,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "अहिले होइन">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "सेटिङ्गमा जानुहोस्">
+<!ENTITY tab_queue_prompt_settings_button "सेटिङमा जानुहोस्">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
