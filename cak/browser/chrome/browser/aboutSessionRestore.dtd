@@ -9,13 +9,13 @@
 <!ENTITY restorepage.errorTitle     "K'ayew jub'a' rere'.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; k'ayew nub'än chuwäch nok chik chupam ri taq tzuwäch chuqa' taq ruwi'. Rere' nib'anatäj toq nab'ey xatok chupam jun ruxaq k'amaya'l.">
 <!ENTITY restorepage.tryThis        "Tikirel natojtob'ej:">
-<!ENTITY restorepage.restoreSome    "Kelesäx el ri ketal jun o junjun taq ruwi', ri nikiya' k'ayewal.">
+<!ENTITY restorepage.restoreSome    "Kelesäx el ri ketal jun o junjun taq ruwi', ri nikiya' k'ayewal">
 <!ENTITY restorepage.startNew       "Titikirisäx jun chik k'ak'a' chi molojri'ïl">
 
 <!ENTITY restorepage.tryagainButton "Tichojmirisäx">
-<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.restore.access "M">
 <!ENTITY restorepage.closeButton    "Titz'apïx">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.close.access   "P">
 
 <!ENTITY restorepage.restoreHeader  "Titzolïx">
 <!ENTITY restorepage.listHeader     "Taq tzuwäch chuqa' taq ruwi'">
