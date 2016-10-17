@@ -529,9 +529,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "బొమ్మని ఇలా భద్రపరచు…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "దృశ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
+<!ENTITY saveVideoCmd.label           "వీడియోను వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "శ్రవ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
+<!ENTITY saveAudioCmd.label           "ఆడియోను వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "బొమ్మను ఈమెయిలు చేయి…">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -539,7 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "వీడియోను పరికరానికి పంపు">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "ఈమెయిల్ ఆడియో…">
+<!ENTITY emailAudioCmd.label          "ఆడియోను ఈమెయిలు చేయి…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ఈ ప్లగిన్ను చేతనించు">
 <!ENTITY playPluginCmd.accesskey      "c">
