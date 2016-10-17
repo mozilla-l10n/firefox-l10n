@@ -42,8 +42,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
-<!ENTITY options.collapseAttrs.label "DOM विशेषताहरु छोट्टयाउनुहोस्">
-<!ENTITY options.collapseAttrs.tooltip "लामो बिशेषताहरु निरीक्षकमा छोट्टयाउनुहोस्">
+<!ENTITY options.collapseAttrs.label "DOM विशेषताहरू छोट्टयाउनुहोस्">
+<!ENTITY options.collapseAttrs.tooltip "लामो विशेषताहरू निरीक्षकमा छोट्टयाउनुहोस्">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->

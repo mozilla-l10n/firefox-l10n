@@ -114,7 +114,7 @@
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "मिति अनुरूप">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "साइट अनुरुप">
+<!ENTITY bySite.label             "साइट अनुरूप">
 <!ENTITY bySite.accesskey         "S">
 <!ENTITY byMostVisited.label      "धेरै अगान्तुक आएको अनुसार">
 <!ENTITY byMostVisited.accesskey  "V">

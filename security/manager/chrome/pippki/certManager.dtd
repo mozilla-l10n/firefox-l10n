@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "सुरक्षा अपवाद थप्नुहोस्">
 <!ENTITY exceptionMgr.exceptionButton.label   "सुरक्षा अपवाद पुष्टि गर्नुहोस्">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "वैध बैँक, स्टोर, र अन्य सार्वजनिक साइटहरुले तपाईँलाई यस्तो प्रश्न सोध्दैनन्।">
+<!ENTITY exceptionMgr.supplementalWarning     "वैध बैँक, स्टोर, र अन्य सार्वजनिक साइटहरूले तपाईँलाई यस्तो प्रश्न सोध्दैनन्।">
 <!ENTITY exceptionMgr.certlocation.caption2   "सर्भर">
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
 <!ENTITY exceptionMgr.certlocation.download   "प्रमाणपत्र प्राप्तगर्नुहोस्">
