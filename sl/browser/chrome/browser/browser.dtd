@@ -207,12 +207,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Poglejte podatke o strani">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Odpri ploščo s sporočili">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dovoljenje za deljenje oken ali zaslona na tej strani">
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi stran">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevod strani">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Za to stran ste zavrnili uporabo mikrofona.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Za to stran ste zavrnili deljenje zaslona.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Za to stran ste zavrnili uporabo podatkov o lokaciji.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Za to stran ste zavrnili shranjevanje podatkov.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Za to stran ste zavrnili prikaz obvestil.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Ponastavi raven povečave">
 
 <!ENTITY searchItem.title             "Iskanje">
 
@@ -409,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Iskalna poizvedba">
+<!ENTITY contentSearchSubmit.tooltip  "Začni iskati">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Spremeni nastavitve iskanja">
+<!ENTITY changeSearchSettings.tooltip "Spremeni nastavitve iskanja">
 
 <!ENTITY searchInNewTab.label         "Išči v novem zavihku">
 <!ENTITY searchInNewTab.accesskey     "Z">
@@ -711,6 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
+<!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

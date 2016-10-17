@@ -93,6 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Omogoči oddaljeno razhroščevanje">
+<!ENTITY options.enableRemote.tooltip2  "Vklop te možnosti bo razvojnim orodjem omogočil razhroščevanje oddaljenega primerka (npr. OS-a Firefox)">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -121,6 +122,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Privzeta razvojna orodja">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools

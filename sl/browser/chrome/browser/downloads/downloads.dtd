@@ -62,6 +62,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "P">
 <!ENTITY cmd.removeFromHistory.label      "Odstrani iz zgodovine">
 <!ENTITY cmd.removeFromHistory.accesskey  "z">
+<!ENTITY cmd.clearList2.label             "Počisti ploščo predogleda">
 <!ENTITY cmd.clearDownloads.label         "Počisti prenose">
 <!ENTITY cmd.clearDownloads.accesskey     "S">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +108,7 @@
 <!ENTITY downloadsHistory.label           "Prikaži vse prenose">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Odpri mapo s prenosi">
 
 <!ENTITY clearDownloadsButton.label       "Počisti prenose">
 <!ENTITY clearDownloadsButton.tooltip     "Počisti dokončane, preklicane in spodletele prenose">
