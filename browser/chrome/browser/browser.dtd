@@ -208,11 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Wys werfinligting">
 
 
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Open paneel met boodskappe oor byvoeginginstallasie">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Open paneel met boodskappe oor stoorplek vanlyn">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Open paneel vir die stoor van wagwoorde">
 
-
-
-
-
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Verander of boodskappe van dié werf ontvang kan word">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bestuur die deel van die mikrofoon met die werf">
@@ -222,14 +222,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Bestuur bladsyvertaling">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Bestuur die gebruik van DRM-sagteware">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "U het die kamera geblok vir dié webwerf.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "U het die mikrofoon geblok vir dié webwerf.">
+<!ENTITY urlbar.screenBlocked.tooltip            "U het dié webwerf geblok om die skerm te deel.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "U het ligginginligting geblok vir dié webwerf.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "U het die datastoorplek geblok vir dié webwerf.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "U het kennisgewings geblok vir dié webwerf.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Wys geskiedenis">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Stel zoemvlak terug">
 
 <!ENTITY searchItem.title             "Soek">
 <!-- Toolbar items --> 
@@ -451,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Verander soekinstellings">
-
+<!ENTITY changeSearchSettings.tooltip "Verander soekinstellings">
 
 <!ENTITY searchInNewTab.label         "Soek in nuwe oortjie">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -730,7 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Toestemming">
 <!ENTITY identity.permissionsEmpty "U het geen spesiale toestemming aan dié werf gegee nie. ">
-
+<!ENTITY identity.permissionsReloadHint "Dit is dalk nodig om die bladsy te herlaai voor veranderinge toegepas word.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
