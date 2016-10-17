@@ -396,7 +396,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinkronizirane kartice">
 
 <!ENTITY pref_default_browser "Učinite zadanim pretraživačem">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Posjetite Mozillinu podršku">
 <!ENTITY pref_about_firefox "O &brandShortName;">
 <!ENTITY pref_vendor_faqs "Često postavljana pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
@@ -586,8 +586,8 @@ size. -->
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
 
 <!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
-
-
+<!ENTITY home_restore_all "Vrati sve kartice">
+<!ENTITY home_closed_tabs_number "&formatD; kartice">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Ovdje se pojavljuju web stranice koje ste zadnje posjetili.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
@@ -824,6 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Zabilježite stavke Prikaza čitača kako biste ih čitali i kada nema interneta.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj u zabilješke">
 
-
+<!ENTITY activity_stream_highlights "Najvažnije">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
+<!ENTITY activity_stream_more "Više">
