@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "S">
 <!ENTITY  unpinTab.label                     "Trek oortjie los">
 <!ENTITY  unpinTab.accesskey                 "t">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Stuur oortjie na toestel">
+<!ENTITY  sendTabToDevice.accesskey          "r">
+<!ENTITY  sendPageToDevice.label             "Stuur bladsy na toestel">
+<!ENTITY  sendPageToDevice.accesskey         "r">
+<!ENTITY  sendLinkToDevice.label             "Stuur skakel na toestel">
+<!ENTITY  sendLinkToDevice.accesskey         "r">
 <!ENTITY  moveToNewWindow.label              "Skuif na nuwe venster">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Boekmerk alle oortjies…">
