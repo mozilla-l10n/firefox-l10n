@@ -211,9 +211,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buka panel permintaan lokasi">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buka panel pesan pemasangan pengaya">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buka panel pesan penyimpanan luring">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel simpan sandi pesan">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel pesan penyimpanan sandi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kelola penggunaan plug-in">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Mengubah apakah Anda dapay menerima pemberitahuan dari situs ini">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Mengubah apakah Anda dapat menerima pemberitahuan dari situs ini">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mengelola berbagi mikrofon Anda dengan situs ini">
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah memblokir kamera Anda untuk situs web ini.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah memblokir mikrofon Anda untuk situs web ini.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Anda telah memblokir situs ini untuk membagi layar Anda.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Anda telah memblokir situs ini untuk berbagi layar Anda.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah memblokir informasi lokasi untuk situs web ini.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah memblokir penyimpanan data untuk situs web ini.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah memblokir notifikasi untuk situs web ini.">
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Hak Akses">
 <!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
-<!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk mengaplikasikan perubahan.">
+<!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

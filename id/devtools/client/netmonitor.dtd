@@ -15,7 +15,7 @@
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• Klik pada tombol">
 <!ENTITY netmonitorUI.perfNotice2         "untuk memulai analisis kinerja.">
-<!ENTITY netmonitorUI.perfNotice3         "Analisa">
+<!ENTITY netmonitorUI.perfNotice3         "Analisis">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
