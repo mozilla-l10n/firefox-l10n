@@ -192,7 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళండి">
-<!ENTITY forwardCmd.label             "ముందు">
+<!ENTITY forwardCmd.label             "ముందుకు">
 <!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళండి">
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూడడానికి కుడి-క్లిక్ నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూడడానికి కిందకు లాగండి">
@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలును తెరువు">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెల్ ను తెరువు">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలును తెరువు">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలుని తెరువు">
@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "ఈ శోధనకు కీలక పదాన్ని చేర్చండి…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "డౌన్ లోడ్ లు">
+<!ENTITY downloads.label              "దింపుకోళ్ళు">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -350,7 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
 <!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
 <!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
-<!ENTITY appMenuHelp.tooltip "సహాయ మెనుని తెరువు">
+<!ENTITY appMenuHelp.tooltip "సహాయ మెనూని తెరువు">
 
 <!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబులు లేవు… ఇంకా!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ ప్రాధాన్యతలు">
+<!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ అభిరుచులు">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
 <!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
 <!ENTITY appMenuRemoteTabs.sidebar.label "సింక్రనిత ట్యాబుల ప్రక్కపట్టీని చూడండి">
@@ -465,19 +465,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "లింకుని కొత్త ట్యాబులో తెరువు">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "లింకుని కొత్త విండో నందు తెరువు">
+<!ENTITY openLinkCmd.label            "లింకుని కొత్త విండోలో తెరువు">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "లింకుని కొత్త అంతరంగిక విండో నందు తెరువు">
+<!ENTITY openLinkInPrivateWindowCmd.label "లింకుని కొత్త అంతరంగిక విండోలో తెరువు">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "లింకును తెరువు">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "ఫ్రేముని కొత్త ట్యాబులో తెరువు">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "ఫ్రేముని కొత్త విండో నందు తెరువు">
+<!ENTITY openFrameCmd.label           "ఫ్రేముని కొత్త విండోలో తెరువు">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "లింకును కొత్త కంటైనర్ ట్యాబులో తెరవండి">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
-<!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే ప్రదర్శించు">
+<!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమును మాత్రమే చూపించు">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ఫ్రేమ్ ను తిరిగిలోడు చేయుము">
@@ -756,9 +756,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.open.label                       "తెరువు">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త ట్యాబ్‌ నందు తెరువు">
+<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త ట్యాబులో తెరువు">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండో నందు తెరువు">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
@@ -782,9 +782,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "క్రియాశీలనల సంచయం">
 <!ENTITY social.directory.text "మీరు సంచయం నుండి భాగస్వామ్య సేవలను క్రియాశీలం చేయవచ్చు.">
-<!ENTITY social.directory.button "నన్ను అక్కడకు తీసుకునిపో!">
+<!ENTITY social.directory.button "నన్ను అక్కడకు తీసుకెళ్ళు!">
 <!ENTITY social.directory.introText "సేవను &brandShortName; కు జతచేయుటకు దాని పై నొక్కండి.">
-<!ENTITY social.directory.viewmore.text "మరిన్ని వీక్షించు">
+<!ENTITY social.directory.viewmore.text "ఇంకా చూడండి">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
