@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip     "Åbn panelet for beskeder om app-offline-lager">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip      "Åbn panelet for beskeder om at gemme adgangskoder">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
-<!ENTITY urlbar.webNotsNotificationAnchor.tooltip       "Vælg om du kan modtage beskeder fra webstedet">
+<!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du kan modtage beskeder fra webstedet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
