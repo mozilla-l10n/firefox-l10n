@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Kassensitief">
 <!ENTITY caseSensitive.accesskey "s">
 <!ENTITY caseSensitive.tooltiptext "Soek met in inagneming van hoof- en kleinletters">
-
-
-
+<!ENTITY entireWord.label "Hele woorde">
+<!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "Soek slegs vir hele woorde">

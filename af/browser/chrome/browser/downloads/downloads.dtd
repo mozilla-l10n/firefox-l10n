@@ -105,6 +105,7 @@
 <!ENTITY downloadsHistory.label           "Wys alle aflaaie">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY openDownloadsFolder.label       "Open aflaaigids">
 
 <!ENTITY clearDownloadsButton.label       "Maak aflaailys skoon">
 <!ENTITY clearDownloadsButton.tooltip     "Verwyder voltooide, gekanselleerde en mislukte aflaaie">
