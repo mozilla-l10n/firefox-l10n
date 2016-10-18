@@ -34,7 +34,7 @@
 
 <!ENTITY event.attendees.notify.label               "Lɣu imttekkiyen">
 <!ENTITY event.attendees.notify.accesskey           "t">
-
+<!ENTITY event.attendees.notifyundisclosed.label    "Yal tinnubga i yiman-is">
 
 
 <!-- Keyboard Shortcuts -->
@@ -119,10 +119,10 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "Muqqer">
 <!ENTITY  event.menu.options.priority.high.accesskey          "q">
-
-
-
-
+<!ENTITY  event.menu.options.privacy.label                    "Tabaḍnit">
+<!ENTITY  event.menu.options.privacy.accesskey                "b">
+<!ENTITY  event.menu.options.privacy.public.label             "Tadyant tazayezt">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "d">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Seken-d Akkud d uzemz kan">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
 <!ENTITY  event.menu.options.privacy.private.label            "Tadyant tusligt">
@@ -149,15 +149,15 @@
 <!ENTITY  event.toolbar.save.label                        "Sekles u M&amp;del">
 <!ENTITY  event.toolbar.delete.label                      "Kkes">
 
-
+<!ENTITY  event.toolbar.privacy.label                     "Tabaḍnit">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Sekles u M&amp;del">
 <!ENTITY  event.toolbar.delete.tooltip                    "Kkes">
 
 <!ENTITY  event.toolbar.attachments.tooltip               "Rnu Tasawit">
-<!ENTITY  event.toolbar.privacy.tooltip                   "Senfel Tusligt">
-<!ENTITY  event.toolbar.priority.tooltip                  "Senfel Tazwart">
-
+<!ENTITY  event.toolbar.privacy.tooltip                   "Snifel tabaḍnit">
+<!ENTITY  event.toolbar.priority.tooltip                  "Snifel Tazwart">
+<!ENTITY  event.toolbar.status.tooltip                    "Snifel addad">
 
 <!-- Main page -->
 
