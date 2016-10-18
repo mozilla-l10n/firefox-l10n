@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "l">
 <!ENTITY telemetryLearnMore.label        "Les mer">
 
+<!ENTITY crashReporterDesc2.label         "Krasjrapporter hjelper &vendorShortName; å løse problemer og gjøre nettleseren mer stabil og sikker">
 
 
 <!ENTITY crashReporterLearnMore.label     "Les mer">
