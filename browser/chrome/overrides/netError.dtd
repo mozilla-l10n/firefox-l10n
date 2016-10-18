@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Nun s'alcontro'l sirvidor">
+<!ENTITY dnsNotFound.title "Nun s'alcontró'l sirvidor">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Comprueba los fallos d'escritura na direición como
