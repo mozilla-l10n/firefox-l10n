@@ -7,7 +7,7 @@
 
 <!ENTITY showAllFonts "पृष्ठमा प्रयोग गरिएको सबै फन्टहरू हेर्नुहोस्">
 
-<!ENTITY usedAs "यस रुपमा प्रयोग: ">
+<!ENTITY usedAs "यस रूपमा प्रयोग भएको: ">
 <!ENTITY system "प्रणाली">
 <!ENTITY remote "टाढा">
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
