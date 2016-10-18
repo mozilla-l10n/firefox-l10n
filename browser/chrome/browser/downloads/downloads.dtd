@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Prikaži sva preuzimanja">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY openDownloadsFolder.label       "Otvori mapu preuzimanja">
 
 <!ENTITY clearDownloadsButton.label       "Očisti preuzimanja">
 <!ENTITY clearDownloadsButton.tooltip     "Briše dovršena, otkazana i neuspjela preuzimanja">
