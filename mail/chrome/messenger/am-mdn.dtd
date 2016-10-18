@@ -29,5 +29,5 @@
 <!ENTITY otherCases.label             "I alle andre tilfeller:">
 <!ENTITY otherCases.accesskey         "I">
 <!ENTITY askMe.label                  "Spør meg">
-<!ENTITY alwaysSend.label             "Alltid send">
+<!ENTITY alwaysSend.label             "Send alltid">
 <!ENTITY neverSend.label              "Aldri send">
