@@ -63,7 +63,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.clearList2.label              "Ryd liste">
-<!ENTITY cmd.clearList1.accesskey          "R">
+<!ENTITY cmd.clearList2.accesskey          "R">
 <!ENTITY cmd.clearDownloads.label         "Ryd filhentninger">
 <!ENTITY cmd.clearDownloads.accesskey     "f">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
