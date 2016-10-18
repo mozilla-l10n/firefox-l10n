@@ -207,7 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinformasjon">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Åpne meldingspanel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Åpne panel for stedsforespørsel">
 
 
 
@@ -222,14 +223,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Behandle sideoversettelser">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Behandle bruk av DRM-programmer">
 
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for dette nettstedet.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for dette nettstedet.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert dette nettstedet fra å dele din skjerm.">
 
 
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Tilbakestill zoom">
 
 <!ENTITY searchItem.title             "Søk">
 <!-- Toolbar items --> 
@@ -452,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Endre søkeinnstillinger">
-
+<!ENTITY changeSearchSettings.tooltip "Endre søkeinnstillinger">
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "T">
