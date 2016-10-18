@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Subscrever para esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever para esta página…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
-<!ENTITY showAllBookmarks2.label "Mostrar todos os favoritos">
+<!ENTITY showAllBookmarks2.label "Mostrar favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais favoritos">
@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
-<!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
+<!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
@@ -633,7 +633,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Somente do texto">
+<!ENTITY fullZoomToggleCmd.label        "Somente o texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
