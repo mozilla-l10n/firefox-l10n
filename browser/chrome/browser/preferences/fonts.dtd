@@ -78,10 +78,10 @@
 <!ENTITY languages.customize.Fallback.cewindows   "Централноевропейски, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Китайско, упростено">
+<!ENTITY languages.customize.Fallback.simplified  "Китайски, опростен">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Китайско, традиционно">
+<!ENTITY languages.customize.Fallback.traditional "Китайски, традиционен">
 <!ENTITY languages.customize.Fallback.cyrillic    "Кирилица">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
