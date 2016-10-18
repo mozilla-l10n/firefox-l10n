@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Bywerking:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
-
+<!ENTITY  finishedBackground.moreElevated "Dié bywerking vereis administrateursregte. Die bywerking sal geïnstalleer word die volgende keer wat &brandShortName; begin. Herbegin &brandShortName; gerus nou, werk verder en herbegin later, of weier dié bywerking.">
 
 <!ENTITY  update.details.label            "Besonderhede">
 <!ENTITY  update.installedOn.label        "Geïnstalleer op:">
