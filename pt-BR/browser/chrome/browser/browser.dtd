@@ -177,9 +177,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "h">
 <!ENTITY shareVideo.label "Compartilhar este vídeo">
 <!ENTITY shareVideo.accesskey "h">
-<!ENTITY feedsMenu2.label "Subscrever para esta página">
-<!ENTITY subscribeToPageMenupopup.label "Subscrever para esta página">
-<!ENTITY subscribeToPageMenuitem.label "Subscrever para esta página…">
+<!ENTITY feedsMenu2.label "Assinar esta página">
+<!ENTITY subscribeToPageMenupopup.label "Assinar esta página">
+<!ENTITY subscribeToPageMenuitem.label "Assinar esta página…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
 <!ENTITY showAllBookmarks2.label "Mostrar favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
