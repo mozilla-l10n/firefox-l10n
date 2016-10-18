@@ -61,47 +61,47 @@
 <!ENTITY  useDefaultFontSerif.label               "Серифен">
 <!ENTITY  useDefaultFontSansSerif.label           "Безсерифен">
 
-<!ENTITY  allowPagesToUse.label                   "Позволяване на страниците да избират собствен шрифт вместо горните">
-<!ENTITY  allowPagesToUse.accesskey               "П">
+<!ENTITY  allowPagesToUse.label                   "Страниците могат да избират собствен шрифт вместо избраните по-горе">
+<!ENTITY  allowPagesToUse.accesskey               "т">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на остаряло съдържание">
-<!ENTITY languages.customize.Fallback2.label      "Резервна кодировка:">
+<!ENTITY languages.customize.Fallback2.label      "Резервно кодиране:">
 <!ENTITY languages.customize.Fallback2.accesskey  "к">
-<!ENTITY languages.customize.Fallback2.desc       "Това кодиране ще се използва за съдържание, което не предоставя информация за своята кодировка.">
+<!ENTITY languages.customize.Fallback2.desc       "Това кодиране на знаците ще бъде използвано за съдържание, което не предостави информация за своята кодировка.">
 
 <!ENTITY languages.customize.Fallback.auto        "Текущият локал да стане стандартен">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Арабска">
-<!ENTITY languages.customize.Fallback.baltic      "Балтийска">
+<!ENTITY languages.customize.Fallback.arabic      "Арабско">
+<!ENTITY languages.customize.Fallback.baltic      "Балтийско">
 <!ENTITY languages.customize.Fallback.ceiso       "Централно-европейски езици, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Централно-европейски езици, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Китайска, опростена">
+<!ENTITY languages.customize.Fallback.simplified  "Китайско, опростено">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Китайска, традиционна">
-<!ENTITY languages.customize.Fallback.cyrillic    "Кирилска">
+<!ENTITY languages.customize.Fallback.traditional "Китайско, традиционно">
+<!ENTITY languages.customize.Fallback.cyrillic    "Кирилица">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Гръцка">
+<!ENTITY languages.customize.Fallback.greek       "Гръцко">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Еврейска">
+<!ENTITY languages.customize.Fallback.hebrew      "Еврейско">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Японска">
+<!ENTITY languages.customize.Fallback.japanese    "Японско">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Корейска">
+<!ENTITY languages.customize.Fallback.korean      "Корейско">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "Тайска">
+<!ENTITY languages.customize.Fallback.thai        "Тайско">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Турска">
+<!ENTITY languages.customize.Fallback.turkish     "Турско">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Виетнамска">
-<!ENTITY languages.customize.Fallback.other       "Друга (вкл. западно-европейски)">
+<!ENTITY languages.customize.Fallback.vietnamese  "Виетнамско">
+<!ENTITY languages.customize.Fallback.other       "Друго (вкл. западно-европейско)">
