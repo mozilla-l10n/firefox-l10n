@@ -110,12 +110,16 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Onveilige verbinding">
+<!ENTITY certerror.wrongSystemTime "<p>'n Beveiligde verbinding na <span id='wrongSystemTime_URL'/> is nie moontlik nie omdat dit lyk of die horlosie verkeerd is.</p> <p>Die rekenaar dink dit is <span id='wrongSystemTime_systemDate'/>, maar dit moet <span id='wrongSystemTime_actualDate'/> wees. Om dit reg te maak, stel die datum en tyd om reg te wees.</p>">
 
+<!ENTITY certerror.pagetitle1  "Onveilige verbinding">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dié werf gebruik HTTP Strict Transport Security (HSTS) om te spesifiseer dat &brandShortName; slegs beveiligd mag koppel. Gevolglik is dit nie moontlik om 'n uitsondering vir dié sertifikaat by te voeg nie.">
 <!ENTITY certerror.copyToClipboard.label "Kopieer teks na die knipbord">
 
 <!ENTITY inadequateSecurityError.title "Die verbinding is nie beveilig nie">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gebruik verouderde sekuriteittegnologie en is kwesbaar vir aanvalle. 'n Aanvaller kan maklik inligting bekom wat mens sou dink veilig was. Die webwerfadministrateur sal die bediener eers moet regmaak voordat die werf besoek kan word.</p><p>Foutkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Dit lyk of u instellings vir netwerksekuriteit dit dalk veroorsaak. Wil u die verstekinstellings herstel?">
+<!ENTITY prefReset.label "Herstel verstekinstellings">

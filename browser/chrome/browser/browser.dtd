@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "beheer tans die wyser. Druk Esc om beheer terug te kry.">
+<!ENTITY pointerlockWarning.generic.label "Dié dokument beheer tans die wyser. Druk Esc om beheer terug te kry.">
 
 <!ENTITY closeWindow.label "Sluit venster">
 <!ENTITY closeWindow.accesskey "v">
