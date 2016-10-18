@@ -9,9 +9,9 @@
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
 <!ENTITY tabs.context.openTab.label                   "Tijaq re ruwi' re'">
-<!ENTITY tabs.context.openTab.accesskey               "T">
+<!ENTITY tabs.context.openTab.accesskey               "j">
 <!ENTITY tabs.context.openMultipleTabs.label          "Kejaq ri cha'on taq ruwi'">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "K">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "j">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Titaq re ruwi' re' pa taq yaketal…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "y">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ketz'aqatisäx pa taq yaketal ri cha'on taq ruwi'…">
