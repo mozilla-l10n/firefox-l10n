@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "Doelmaak…">
 <!ENTITY ShrinkToFit.label    "Krimp om te pas">
 <!ENTITY customPrompt.title   "Skaleer doelgemaak…">
-
-
-
+<!ENTITY simplifyPage.label   "Vereenvoudig bladsy">
+<!ENTITY simplifyPage.enabled.tooltip  "Verander uitleg om lees te vergemaklik">
+<!ENTITY simplifyPage.disabled.tooltip "Dié bladsy kan nie outomaties vereenvoudig word nie">
 
 <!ENTITY homearrow.tooltip    "Eerste bladsy">
 <!ENTITY endarrow.tooltip     "Laaste bladsy">
