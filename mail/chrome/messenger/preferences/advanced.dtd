@@ -5,7 +5,7 @@
 <!ENTITY itemGeneral.label       "Основни">
 <!ENTITY dataChoicesTab.label    "Възможности за данни">
 <!ENTITY itemUpdate.label        "Обновяване">
-<!ENTITY itemNetworking.label    "Мрежа и дисково място">
+<!ENTITY itemNetworking.label    "Мрежа и дисково пространство">
 <!ENTITY itemCertificates.label  "Сертификати">
 
 <!-- General Settings -->
@@ -75,7 +75,7 @@
 <!ENTITY showOffline.label             "Без връзка…">
 <!ENTITY showOffline.accesskey         "Б">
 
-<!ENTITY Diskspace                       "Дисково място">
+<!ENTITY Diskspace                       "Дисково пространство">
 <!ENTITY offlineCompactFolders.label     "Уплътняване на папките, когато ще се спести над">
 <!ENTITY offlineCompactFolders.accesskey "У">
 <!ENTITY offlineCompactFoldersMB.label   "MB общо">
@@ -88,7 +88,7 @@
 -->
 <!ENTITY useCacheBefore.label            "Използване не повече от">
 <!ENTITY useCacheBefore.accesskey        "п">
-<!ENTITY useCacheAfter.label             "МБ място за кеша">
+<!ENTITY useCacheAfter.label             "МБ за кеш">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "ч">
 

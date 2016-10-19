@@ -3,6 +3,6 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY cloudfileMgmt.privacyPolicy "Политика за поверителност">
 <!ENTITY cloudfileMgmt.termsOfService "Условия на услугата">
-<!ENTITY cloudfileMgmt.usedSpace "Използвано място:">
-<!ENTITY cloudfileMgmt.unusedSpace "Неизползвано място:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Поискване на повече място">
+<!ENTITY cloudfileMgmt.usedSpace "Използвано пространство:">
+<!ENTITY cloudfileMgmt.unusedSpace "Неизползвано пространство:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Искане на повече пространство">
