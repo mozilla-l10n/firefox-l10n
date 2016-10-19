@@ -9,13 +9,13 @@
 <!ENTITY folderCharsetFallback2.accesskey        "e">
 <!ENTITY folderCharsetEnforce2.label             "Codering op alle berichten in de map toepassen (de in berichten opgegeven tekstcodering en autodetectie worden genegeerd)">
 <!ENTITY folderCharsetEnforce2.accesskey         "a">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">      
+<!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">
 <!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Soms raakt het mapindexbestand (.msf) beschadigd en kunnen berichten lijken te ontbreken of verwijderde berichten zichtbaar blijven; repareren van de map kan deze problemen oplossen.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Berichten in deze map meenemen in globale zoekresultaten">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
-     
+
 <!ENTITY retention.label "Behoudbeleid">
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
@@ -53,8 +53,8 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Delen">
-<!ENTITY privileges.button.label                 "Privileges…">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.label                 "Bevoegdheden…">
+<!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "U hebt de volgende rechten:">
 <!ENTITY folderType.label                        "Maptype:">
 
