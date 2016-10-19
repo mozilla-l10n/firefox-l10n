@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.download.title            "Descargas">
 
 <!ENTITY downloadBehavior.label         "Cuando comience una descarga">
 <!ENTITY doNothing.label                "No abrir nada">
 <!ENTITY doNothing.accesskey            "d">
-<!ENTITY openDM.label                   "Abrir el administrador de descargas">
-<!ENTITY openDM.accesskey               "m">
 <!ENTITY openProgressDialog.label       "Abrir un diálogo de progreso">
 <!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY openDM.label                   "Abrir el administrador de descargas">
+<!ENTITY openDM.accesskey               "m">
 <!ENTITY flashWhenOpen.label            "Parpadear el administrador de descargas si ya está abierto">
 <!ENTITY flashWhenOpen.accesskey        "P">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY migrationWizard.title           "Asistente de importación">
 
 <!ENTITY importAllFrom.label             "Importar todos los ítems de:">
@@ -6,9 +10,9 @@
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Archivo">
-<!ENTITY importFromFile.accesskey        "F">
+<!ENTITY importFromFile.accesskey        "A">
 <!ENTITY importFromNothing.label         "No importar nada">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromNothing.accesskey     "d">
 
 <!ENTITY importSource.title              "Importar opciones y datos">
 <!ENTITY importItems.title               "Ítems a importar">

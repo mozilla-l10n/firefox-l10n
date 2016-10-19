@@ -24,7 +24,7 @@ este sitio sin problemas, este error podría significar que alguien está
 tratando de imitar ese sitio y no debería continuar.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
 Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se
-conecte de forma segura. Como resultado, no es posible agregar una excepción a este
+conecte de forma segura. Como resultado no es posible agregar una excepción para este
 certificado.">
 <!ENTITY certerror.getMeOutOfHere.label "Esto suena mal, quiero ir a mi página de inicio">
 

@@ -27,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insertar">
 <!ENTITY insertMenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "Enlace…">
-<!ENTITY insertLinkCmd.accesskey "E">
-<!ENTITY insertLinkCmd.key "d">
+<!ENTITY insertLinkCmd2.label "Enlace…">
+<!ENTITY insertLinkCmd2.accesskey "l">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Enlace interno con nombre…">
 <!ENTITY insertAnchorCmd.accesskey "l">
 <!ENTITY insertImageCmd.label "Imagen…">
@@ -268,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Eliminar">
 <!ENTITY tableDeleteMenu.accesskey "E">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -328,19 +328,19 @@
 <!ENTITY alignJustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Seleccionar">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "Eliminar etiqueta">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Cambiar etiqueta">
-<!ENTITY structChangeTag.accesskey "C">
+<!ENTITY structSelect.label         "Seleccionar">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "Eliminar etiqueta">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Cambiar etiqueta">
+<!ENTITY structChangeTag.accesskey  "C">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Insertar">
-<!ENTITY insertTOC.accesskey "I">
-<!ENTITY updateTOC.label "Actualizar">
-<!ENTITY updateTOC.accesskey "u">
-<!ENTITY removeTOC.label "Eliminar">
-<!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Tabla de contenidos…">
-<!ENTITY tocMenu.accesskey "b">
+<!ENTITY insertTOC.label          "Insertar">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Actualizar">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Eliminar">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Tabla de contenidos…">
+<!ENTITY tocMenu.accesskey        "b">

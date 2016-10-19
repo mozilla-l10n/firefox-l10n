@@ -10,13 +10,13 @@
 
 <!ENTITY clearPrivateData.label           "Borrar datos privados">
 
-<!ENTITY alwaysClear.label                "Siempre borrar mis datos privados al cerrar &brandShortName;">
+<!ENTITY alwaysClear.label                "Siempre borrar mis datos privados cuando cierre &brandShortName;">
 <!ENTITY alwaysClear.accesskey            "S">
 
 <!ENTITY askBeforeClear.label             "Preguntarme antes de borrar datos privados">
-<!ENTITY askBeforeClear.accesskey         "v">
+<!ENTITY askBeforeClear.accesskey         "P">
 
-<!ENTITY clearDataSettings.label          "Cuando pida que &brandShortName; borre mis datos privados, debería eliminar:">
+<!ENTITY clearDataSettings.label          "Cuando pida a &brandShortName; que borre miss datos privados, debería borrar:">
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.

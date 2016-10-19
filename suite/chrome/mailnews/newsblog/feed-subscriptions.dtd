@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Suscripciones a canales">
-<!ENTITY learnMore.label             "Conocer más sobre los canales">
+<!ENTITY learnMore.label             "Concer más sobre los canales">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL del canal:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Ingrese una dirección de canal valida para agregar">
+<!ENTITY locationValidate.label      "Validar">
+<!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
 
 <!ENTITY feedFolder.label            "Almacenar los artículos en:">
 <!ENTITY feedFolder.accesskey        "s">
@@ -25,13 +27,10 @@
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Ingrese un prefijo de etiqueta">
 
-<!ENTITY locationValidate.label      "Validar">
-<!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
-
 <!ENTITY button.addFeed.label        "Agregar">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Editar">
-<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.updateFeed.label     "Actualizar">
+<!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Eliminar">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importar">

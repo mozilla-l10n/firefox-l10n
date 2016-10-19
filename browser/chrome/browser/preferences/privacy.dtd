@@ -26,7 +26,7 @@
 <!ENTITY  doNotTrack.settings.label     "administrar las opciones de rastreo">
 <!ENTITY  doNotTrack.post.label         ".">
 
-<!ENTITY  history.label "Historial">
+<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de direcciones">
 
@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Opciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "O">
+
+<!ENTITY  browserContainersHeader.label         "Pestañas contenedoras">
+<!ENTITY  browserContainersLearnMore.label      "Conocer más">
+<!ENTITY  browserContainersEnabled.label        "Habilitar pestañas contenedoras">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
