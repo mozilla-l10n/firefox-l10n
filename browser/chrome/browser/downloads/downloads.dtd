@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "기록에서 삭제">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "미리보기 창 비우기">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "다운로드 항목 지우기">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "다운로드 항목 모두 보기">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "다운로드 폴더 열기">
 
 <!ENTITY clearDownloadsButton.label       "다운로드 항목 지우기">
 <!ENTITY clearDownloadsButton.tooltip     "완료, 취소, 그리고 실패한 다운로드 항목 지우기">
