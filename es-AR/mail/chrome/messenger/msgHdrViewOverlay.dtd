@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "A">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remitente">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Organización">
 <!ENTITY replyToField4.label "Responder a">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar este mensaje">
+<!ENTITY hdrOpenConversationButton1.label "Conversación">
+<!ENTITY hdrOpenConversationButton1.tooltip "Mostrar conversación de este mensaje">
 <!ENTITY hdrSmartReplyButton1.label "Respuesta inteligente">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder al remitente de este mensaje">
@@ -73,22 +76,22 @@
 <!ENTITY startExpandedCmd.accesskey    "s">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Abrir">
-<!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Guardar como…">
-<!ENTITY saveAsAttachmentCmd.accesskey "a">
+<!ENTITY openAttachmentCmd.label    "Abrir">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Despegar…">
-<!ENTITY detachAttachmentCmd.accesskey    "D">  
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Borrar">
-<!ENTITY deleteAttachmentCmd.accesskey    "B">  
+<!ENTITY deleteAttachmentCmd.accesskey    "B">
 <!ENTITY openAllAttachmentsCmd.label    "Abrir todos…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "g">
-<!ENTITY detachAllAttachmentsCmd.label    "Despegar todo…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "s">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "r">  
+<!ENTITY detachAllAttachmentsCmd.label    "Despegar todo…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "s">
+<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "r">
 
 <!ENTITY openAttachment.tooltip "Abrir el archivo adjunto">
 
@@ -98,8 +101,8 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Guardar todo">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Guardar todos los archivos adjuntos">
 
-<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.label        "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copiar ID del mensaje">
 <!ENTITY CopyMessageId.accesskey "C">

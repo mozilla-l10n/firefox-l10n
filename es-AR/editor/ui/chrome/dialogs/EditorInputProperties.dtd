@@ -18,33 +18,33 @@
 <!ENTITY image.value "Imagen">
 <!ENTITY button.value "Botón">
 
-<!ENTITY InputSettings.label "Field Settings">
+<!ENTITY InputSettings.label "Opciones de campos">
 <!ENTITY InputName.label "Nombre de campo:">
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nombre de grupo:">
-<!ENTITY GroupName.accesskey "N">
+<!ENTITY GroupName.accesskey "b">
 <!ENTITY InputValue.label "Valor de campo:">
 <!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valor inicial:">
-<!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
-<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InitialValue.accesskey "a">
+<!ENTITY InputChecked.label "Verificado inicialmente">
+<!ENTITY InputChecked.accesskey "c">
 <!ENTITY InputSelected.label "Inicialmente seleccionado">
-<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.accesskey "s">
 <!ENTITY InputReadOnly.label "Sólo lectura">
-<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputReadOnly.accesskey "l">
 <!ENTITY InputDisabled.label "Deshabilitado">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Índice de tabulación:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Tamaño de campo:">
-<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextSize.accesskey "m">
 <!ENTITY TextLength.label "Longitud máxima:">
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "Tecla de acceso:">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
+<!ENTITY AccessKey.accesskey "T">
+<!ENTITY Accept.label "Aceptar tipos:">
 <!ENTITY Accept.accesskey "A">
 
 <!ENTITY ImageProperties.label "Propiedades de imagen...">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.accesskey "e">

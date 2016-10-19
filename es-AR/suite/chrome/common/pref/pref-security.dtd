@@ -8,7 +8,7 @@
 <!ENTITY tracking.label                   "Rastreo de usuarios">
 <!ENTITY trackingIntro.label              "Los sitios web pueden rastrear la forma de uso, afectando su privacidad.">
 
-<!ENTITY doNotTrack.label                 "Decirle a los sitios mis preferencias de rastreo">
+<!ENTITY doNotTrack.label                 "Decirle a los sitios que no quiero ser rastreado">
 <!ENTITY doNotTrack.accesskey             "t">
 <!ENTITY trackProtect.label               "Evitar actividades de rastreo de sitios conocidos">
 <!ENTITY trackProtect.accesskey           "n">

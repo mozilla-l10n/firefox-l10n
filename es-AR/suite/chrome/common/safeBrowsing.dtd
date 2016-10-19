@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "¡Sáquenme de aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
-<!ENTITY safeb.palm.whyForbidden.label "¿Por qué fue bloqueada esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,10 +21,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página web en <span id='phishing_sitename'/> ha sido infromada como un sitio engañoso y fue bloqueada según las preferencias de seguridad.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los sitios engañosos están diseñados para llevarlo a hacer algo peligroso, como instalar software o revelar información personal como contraseñas, números de teléfono o tarjetas de crédito.</p><p>Ingresar cualquier información en esta página web puede resultar en robo de identidad o algún otro fraude.</p>">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "El sitio web en <span id='forbidden_sitename'/> ha sido bloqueado por el administrador del perfil.">
-
+<!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Informar sitio engañoso…">
 <!ENTITY reportDeceptiveSite.accesskey "s">
 <!ENTITY notADeceptiveSite.label "Este no es un sitio engañoso…">

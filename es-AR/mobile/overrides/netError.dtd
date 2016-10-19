@@ -210,3 +210,4 @@ No deberías agregar una excepción si estás usando una conexión a Internet en
 <!ENTITY inadequateSecurityError.title "La conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría revelar información que parece segura muy fácilmente. El administrador del sitio web necesitará arreglar el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

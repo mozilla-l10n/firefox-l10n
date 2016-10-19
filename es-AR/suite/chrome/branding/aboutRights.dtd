@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -20,6 +24,8 @@
 <!ENTITY rights.intro-point2b "aquí">
 <!ENTITY rights.intro-point2c ".">
 
+<!-- point 2d is technically point 3. in the list -->
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Las políticas de privacidad para los productos de &vendorShortName; pueden encontrarse ">
 <!ENTITY rights.intro-point3b "aquí">
@@ -37,9 +43,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Servicios&quot;), como la sugerencia de complementos y servicios de actualización o la funcionalidad de navegación segura, que están disponibles para usar con esta versión binaria de &brandShortName; como se describen debajo.  Estos servicios están habilitados por defecto.  Si no desea usar los servicios o los términos son inaceptables, puede encontrar instrucciones sobre como deshabilitar una funcionalidad o servicio en particular ">
-<!ENTITY rights2.webservices-b "aquí">
-<!ENTITY rights2.webservices-c ". Otras funcionalidades y servicios pueden deshabilitarse en las preferencias de la aplicación.">
+<!ENTITY rights3.webservices-b "aquí">
+<!ENTITY rights3.webservices-c ". Otras funciones y Servicios pueden ser habilitados o no en las preferencias de la aplicación.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Servicios de complementos: ">
@@ -49,7 +54,6 @@
 <!ENTITY rights.addons-term3 "Desmarque las opciones a &quot;&autoAddOnsUpdates.label;&quot; y &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Los servicios de complementos ahora están deshabilitados">
 
-
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navegación segura: ">
 <!ENTITY rights.safebrowsing-b "No se recomienda deshabilitar la funcionalidad de navegaciíón segura porque puede resultar en la visita a sitios inseguros.  Si desea deshabilitar la funcionalidad complemtamente, siga estos pasos:">
@@ -58,8 +62,12 @@
 <!ENTITY rights.safebrowsing-term3 "Desmarque las opciones a &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "La navegación segura ahora está deshabilitada">
 
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navegación con ubicación geográfica: ">
+<!ENTITY rights.locationawarebrowsing-term1 "Abrir las preferencias de la aplicación">
+<!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
-<!-- points 1-6 text for branded builds -->
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; puede discontinuar o cambiar los servicios según considere oportuno.">
 <!ENTITY rights.webservices-term2 "Puede usar estos servicios con la versión de &brandShortName;, y tiene plenos derechos para hacerlo. &vendorShortName; y sus licenciatarios se reservan todos los demás derechos en cuanto a los servicios. Estos términos no tienen la intención de limitar ningún derecho otorgado por una licencia de código abierto aplicable a &brandShortName; y las versiones correspondientes en base al código de &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Los servicios son ofrecidos &quot;tal como está.&quot;  &vendorShortName;, sus contribuyentes, licenciatarios y distribuidores rechazan toda clase de garantía, explícita o implícita, incluídas, sin perjuicio de lo antes mencionado, las garantías de que el servicio es comercializable y que cumple con sus necesidades particulares. Usted acepta el riesgo que implica seleccionar este servicio para su propósito así como a la calidad y el desempeño del servicio. Algunas jurisdicciones no permiten la exclusión o limitación de las garantías implícitas, por lo tanto, esta exención de responsabilidad puede no ser aplicable en su caso.">

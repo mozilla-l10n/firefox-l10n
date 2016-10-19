@@ -306,5 +306,5 @@
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Personalizar dirección origen…">
+<!ENTITY customizeFromAddress.label "Personalizar desde dirección…">
 <!ENTITY customizeFromAddress.accesskey "a">

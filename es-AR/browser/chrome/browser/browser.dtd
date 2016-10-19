@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Despegar pestaña">
 <!ENTITY  unpinTab.accesskey                 "g">
+<!ENTITY  sendTabToDevice.label              "Enviar pestaña a dispositivo">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Enviar página a dispositivo">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Enviar enlace a dispositivo">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mover a nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
 <!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Ingresar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
@@ -128,6 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ahora está en pantalla completa">
 <!ENTITY fullscreenWarning.generic.label "Este documento está ahora en pantalla completa">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +143,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Salir de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "tiene el control del puntero. Esc para recuperarlo.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tiene el control del puntero. Esc para recuperarlo.">
 
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "C">
@@ -144,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Marcar esta página">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -190,32 +206,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información del sitio">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver una notificación">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver el pedido de ubicación">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver el mensaje de instalación del complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver el mensaje de almacenamiento de app-offline">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrar la información de ingreso">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Marcar si desea guardar la contraseñá">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de plugins en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar si desea recibir notificaciones de este sitio">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar compartición de cámara y/o micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está compartiendo cámara y/o micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrar compartición de micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está compartiendo el micrófono con el sitio">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrar compartición de ventanas o pantalla con el sitio">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está compartiendo una ventana con el sitio">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensajes">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensajes de instalación de complementos">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensajes de almacenamiento sin conexión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensajes de contraseñas guardadas">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitio">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Cambiar si el sitio puede ocultar el puntero">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver el mensaje de instalación de servicio">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta página">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrar traducción de página">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administrar uso de software DRM">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir cámara y/o micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir micrófono con el sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar compartir ventanas o pantalla con el sitio">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensajes de instalación">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar traducción de página">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado la cámara para este sitio web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Se ha bloqueado la información de ubicación para este sitio web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha bloqueado almacenamiento de datos para este sitio web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Restablecer nivel de zoom">
 
 <!ENTITY searchItem.title             "Buscar">
 
@@ -408,11 +424,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Pedido de búsqueda">
-<!ENTITY contentSearchSubmit.label    "Enviar búsqueda">
+<!ENTITY contentSearchSubmit.tooltip  "Enviar búsqueda">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -438,6 +454,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar configuración de búsqueda">
+<!ENTITY changeSearchSettings.tooltip "Cambiar opciones de búsqueda">
 
 <!ENTITY searchInNewTab.label         "Buscar en nueva pestaña">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -715,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
+<!ENTITY identity.permissionsReloadHint "Hay que recargar la página para que se apliquen los cambios.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -758,25 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
-<!ENTITY socialToolbar.title        "Barra de herramientas sociales">
-
-<!ENTITY social.ok.label       "Aceptar">
-<!ENTITY social.ok.accesskey   "A">
-
-<!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
-<!ENTITY social.toggleSidebar.accesskey "s">
-
 <!ENTITY social.addons.label "Administrar servicios…">
-
-<!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.activated.description "Se han habilitado servicios de <label/>. Puede cambiar su configuración para estos servicios en el <label class='text-link'>administrador de complementos</label>.">
-<!ENTITY social.activated.undo.label "¡Epa, deshacer ésto!">
-<!ENTITY social.activated.undo.accesskey "h">
-<!ENTITY social.learnMore.label "Conocer más…">
-<!ENTITY social.learnMore.accesskey "m">
-<!ENTITY social.closeNotificationItem.label "No ahora">
 
 <!ENTITY social.directory.label "Directorio de activacioness">
 <!ENTITY social.directory.text "Puede activar servicios de compartición desde el directorio.">
@@ -797,15 +797,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "m">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Guardar página en…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Guardar enlace en…">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -840,8 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Habilitar protección">
 <!ENTITY trackingContentBlocked.block.accesskey "H">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de rastreo está deshabilitada">
-
-<!ENTITY pointerLock.notification.message "Pulse ESC en cualquier momento para mostrarlo nuevamente.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "s">

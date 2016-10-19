@@ -27,7 +27,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -45,7 +45,7 @@
 
 <!ENTITY closeCmd.label         "Cerrar">  
 <!ENTITY closeCmd.key         "W">  
-<!ENTITY closeCmd.accesskey      "c">
+<!ENTITY closeCmd.accesskey      "C">
 
 <!ENTITY quitApplicationCmd.label   "Salir"> 
 <!ENTITY quitApplicationCmd.key      "Q"> 
