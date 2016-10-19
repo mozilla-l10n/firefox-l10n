@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Normaal">
 <!ENTITY NormalMode.label "Normale bewerkingsmodus">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Tabelranden en ankerverwijzingen tonen">
+<!ENTITY NormalMode.tooltip "Tabelranden en benoemde ankers tonen">
 <!ENTITY AllTagsModeTab.label "HTML-tags">
 <!ENTITY AllTagsMode.label "HTML-tags">
 <!ENTITY AllTagsMode.accesskey "a">
