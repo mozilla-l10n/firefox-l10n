@@ -40,7 +40,7 @@
 <!ENTITY syncDeviceName.label       "சாதனத்தின் பெயர்">
 <!ENTITY syncDeviceName.accesskey   "ச">
 
-
+<!ENTITY changeSyncDeviceName.label "கருவிப் பெயரை மாற்றவும்…">
 <!ENTITY cancelChangeSyncDeviceName.label "விடு">
 <!ENTITY saveChangeSyncDeviceName.label "சேமி">
 <!ENTITY unlinkDevice.label           "இந்த சாதனத்தின் இணைப்பை அகற்ற">
@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "நீங்கள் உள்நுழையவில்லை.">
 <!ENTITY signIn.label                "உள்நுழை">
-
+<!ENTITY profilePicture.tooltip      "சுயவிவரப் படத்தை மாற்று">
 
 <!ENTITY disconnect.label            "துண்டி...">
 <!ENTITY verify.label                "மின்னஞ்சலை உறுதிச்செய்">
@@ -83,6 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "ஒத்திசைவின் பழைய பதிப்பை பயன்னடுத்துகிறதா?">
 
+<!ENTITY signedOut.caption            "உங்கள் வலையை உங்களுடன் எடுத்துக் கொள்ளுங்கள்">
 
 
 

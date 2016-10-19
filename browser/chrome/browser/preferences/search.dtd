@@ -9,10 +9,12 @@
 <!ENTITY provideSearchSuggestions.label        "தேடல் பரிந்துரைகளை வழங்கு">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "தேடல் பரிந்துரைகளை இடப்பட்டை முடிவுகளில் காட்டு">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் &brandShortName; என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.">
 
-
-
-
+<!ENTITY redirectWindowsSearch.label "விண்டோசிலிருந்து தேட இந்த தேடுப்பொறியைப் பயன்படுத்துன">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "ஒரு சொடுக்கில் தேடு பொறிகள்">
 

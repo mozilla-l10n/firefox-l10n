@@ -20,6 +20,8 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "புகுபதிகைகள்">
+
 
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
