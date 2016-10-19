@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "தடமறியல் பாதுகாப்பை பயன்படுத்து">
 
 
-
+<!ENTITY  trackingProtectionPrivate.label      "தனிப்பட்ட சாளரத்தில் மட்டும்">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 
 
 <!ENTITY  trackingProtectionLearnMore.label    "மேலும் அறி">
@@ -12,14 +14,16 @@
 
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
+<!ENTITY trackingProtectionPBM5.label         "தனிப்பட்ட சாளரத்தில் தடமறியல் பாதுகாப்பை பயன்படுத்து">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
-
-
-
-
+<!ENTITY changeBlockList.label          "தடை பட்டியலை மாற்று">
+<!ENTITY changeBlockList.accesskey      "C">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "நீங்களும் ">
+<!ENTITY  doNotTrack.settings.label     "தடமறியாதே அமைவுகளை நிர்வகிக்கலாம்">
 
 
 <!ENTITY  history.label                 "வரலாறு">
