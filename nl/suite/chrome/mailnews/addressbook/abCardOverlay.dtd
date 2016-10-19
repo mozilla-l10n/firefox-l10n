@@ -95,8 +95,8 @@
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Stad:">
-<!ENTITY WorkCity.accesskey             "S">
+<!ENTITY WorkCity.label                 "Plaats:">
+<!ENTITY WorkCity.accesskey             "s">
 <!ENTITY WorkState.label                "Provincie:">
 <!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label              "Postcode:">
