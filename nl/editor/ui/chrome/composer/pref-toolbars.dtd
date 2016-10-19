@@ -20,7 +20,7 @@
 <!ENTITY hline.label            "H. lijn">
 <!ENTITY table.label            "Tabel">
 <!ENTITY link.label             "Koppeling">
-<!ENTITY anchor.label           "Ankerverwijzing">
+<!ENTITY anchor.label           "Anker">
 
 <!ENTITY formatting.caption     "Deze knoppen tonen in de opmaakwerkbalk:">
 

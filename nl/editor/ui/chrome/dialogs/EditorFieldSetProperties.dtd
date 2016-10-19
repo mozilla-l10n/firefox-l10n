@@ -13,7 +13,7 @@
 <!ENTITY LegendAlign.accesskey "u">
 <!ENTITY AlignDefault.label "Standaard">
 <!ENTITY AlignLeft.label "Links">
-<!ENTITY AlignCenter.label "Gecentreerd">
+<!ENTITY AlignCenter.label "Centrum">
 <!ENTITY AlignRight.label "Rechts">
 
 <!ENTITY RemoveFieldSet.label "Veldverzameling verwijderen">
