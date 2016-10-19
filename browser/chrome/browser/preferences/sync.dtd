@@ -84,16 +84,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "ஒத்திசைவின் பழைய பதிப்பை பயன்னடுத்துகிறதா?">
 
 <!ENTITY signedOut.caption            "உங்கள் வலையை உங்களுடன் எடுத்துக் கொள்ளுங்கள்">
+<!ENTITY signedOut.description        "புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், கூடுதல் இணைப்புகள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; உடன் இணையுங்கள்">
 
 
 
-
-
+<!ENTITY signedIn.engines.label       "எல்லா கருவிகளையும் ஒத்திசையுங்கள்">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
-<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 
+
+<!ENTITY mobilePromo3.start            "பயர்பாக்ஸை பதிவிறக்கு ">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "ஆண்ட்ராய்டு">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+
+<!ENTITY mobilePromo3.iOSBefore         " அல்லது ">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
+
+<!ENTITY mobilePromo3.end              " உங்கள் கைபேசியுடன் ஒத்திசை.">
