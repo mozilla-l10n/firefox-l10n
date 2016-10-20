@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "ב">
 <!ENTITY cmd.show.label                   "פתח תיקייה מכילה">
 <!ENTITY cmd.show.accesskey               "ת">
-<!ENTITY cmd.showMac.label                "הצג ב־Finder">
+<!ENTITY cmd.showMac.label                "הצגה ב־Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "פתח">
 <!ENTITY cmd.open.accesskey               "פ">

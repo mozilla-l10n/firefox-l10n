@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "תצוגות">
 <!ENTITY views.accesskey                "ת">
 <!ENTITY views.tooltip                  "שנה את התצוגה שלך">
-<!ENTITY view.columns.label             "הצג עמודות">
+<!ENTITY view.columns.label             "הצגת עמודות">
 <!ENTITY view.columns.accesskey         "ה">
 <!ENTITY view.sort.label                "מיין">
 <!ENTITY view.sort.accesskey            "מ">
