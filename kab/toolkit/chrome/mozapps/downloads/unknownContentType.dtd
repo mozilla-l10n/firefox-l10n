@@ -10,8 +10,8 @@
 <!ENTITY  openWith.accesskey          "L">
 <!ENTITY  other.label                 "Wiyaḍ…">
 
-<!ENTITY  saveFile.label              "Kles afaylu">
-<!ENTITY  saveFile.accesskey          "K">
+<!ENTITY  saveFile.label              "Sekles afaylu">
+<!ENTITY  saveFile.accesskey          "k">
 
 <!ENTITY  rememberChoice.label        "Egg aya yal tikelt s wudem awurman i yifuyla meṛṛa.">
 <!ENTITY  rememberChoice.accesskey    "E">
