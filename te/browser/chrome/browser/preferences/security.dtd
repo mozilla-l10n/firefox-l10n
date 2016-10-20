@@ -20,7 +20,7 @@
 <!ENTITY  blockUncommonUnwanted.label     "అవాంఛిత మరియు అసాధారణం సాఫ్ట్ వేర్ గురించి నన్ను హెచ్చరించు">
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
-<!ENTITY  addonExceptions.label         "ఆక్షేపణలు…">
+<!ENTITY  addonExceptions.label         "మినహాయింపులు…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -28,7 +28,7 @@
 
 <!ENTITY  rememberLogins.label          "సైట్ల కొరకు లాగిన్స్ గుర్తుంచుకో">
 <!ENTITY  rememberLogins.accesskey      "R">
-<!ENTITY  passwordExceptions.label      "ఆక్షేపణలు…">
+<!ENTITY  passwordExceptions.label      "మినహాయింపులు…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "ముఖ్య సంకేతపదమును ఉపయోగించండి">
