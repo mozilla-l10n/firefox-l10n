@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; అమర్చుము">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; అమర్పు">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; అనునది మీరు మీ పరికరములు అన్నిటిపైన చరిత్రను, యిష్టాంశములను, సంకేతపదములను యాక్సెస్ చేయుటకు మరియు టాబ్‌లను తెరువుటకు అనుమతినిచ్చును.">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "నవీకరణ">
-<!ENTITY resetPass.label              "తిరిగివుంచు">
+<!ENTITY updatePass.label             "తాజాకరించు">
+<!ENTITY resetPass.label              "పునరుద్ధరించు">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు">
@@ -25,13 +25,13 @@
 <!ENTITY syncMy.label               "నావి యివి సింక్‌చేయి">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశములు">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "టాబ్‌లు">
+<!ENTITY engine.tabs.label          "ట్యాబులు">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "సంకేతపదములు">
+<!ENTITY engine.passwords.label     "సంకేతపదాలు">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "అభీష్టాలు">
+<!ENTITY engine.prefs.label         "అభిరుచులు">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
@@ -42,12 +42,12 @@
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
 <!ENTITY changeSyncDeviceName.label "పరికరం పేరు మార్చు…">
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
-<!ENTITY saveChangeSyncDeviceName.label "దాచు">
+<!ENTITY saveChangeSyncDeviceName.label "భద్రపరచు">
 <!ENTITY unlinkDevice.label           "ఈ పరికరం లంకెతీయి">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "సేవా నిభందనలు">
-<!ENTITY prefs.ppLink.label         "గోప్యతా విదానం">
+<!ENTITY prefs.tosLink.label        "సేవా నిబంధనలు">
+<!ENTITY prefs.ppLink.label         "గోప్యతా విధానం">
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "గోప్యతా నోటీసు">
