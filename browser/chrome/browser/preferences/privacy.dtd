@@ -10,7 +10,7 @@
 <!ENTITY  trackingProtectionNever.label        "ఎప్పటికీ కాదు">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "ఇంకా తెలుసుకోండి">
-<!ENTITY  trackingProtectionExceptions.label   "ఆక్షేపణలు…">
+<!ENTITY  trackingProtectionExceptions.label   "మినహాయింపులు…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ఆరాతీస్తోంది">
@@ -56,7 +56,7 @@
 <!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "వాటికి కాలము తీరినది">
-<!ENTITY  close.label                   "&brandShorterName; ని మూసివేశాను">
+<!ENTITY  close.label                   "&brandShortName; ని మూసివేశాను">
 
 <!ENTITY  cookieExceptions.label        "ఎక్సెప్షన్లు...">
 <!ENTITY  cookieExceptions.accesskey    "E">
