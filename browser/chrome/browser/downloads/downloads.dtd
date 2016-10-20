@@ -109,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Vis alle nedlastingar">
 <!ENTITY downloadsHistory.accesskey       "V">
 
+<!ENTITY openDownloadsFolder.label       "Opna nedlastingsmappe">
 
 <!ENTITY clearDownloadsButton.label       "Slett nedlastingar">
 <!ENTITY clearDownloadsButton.tooltip     "Fjernar fullførde, avbrotne og mislykka nedlastingar">

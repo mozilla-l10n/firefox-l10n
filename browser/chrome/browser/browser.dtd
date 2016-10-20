@@ -207,7 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinfo">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna meldingspanel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna panel for plasseringsførespurnad">
 
 
 
