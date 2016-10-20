@@ -5,25 +5,25 @@
 <!ENTITY  trackingProtectionHeader.label       "ట్రాకింగ్ సంరక్షణను ఉపయోగించండి">
 <!ENTITY  trackingProtectionAlways.label       "ఎల్లప్పుడూ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-<!ENTITY  trackingProtectionPrivate.label      "ప్రైవేట్ విండోలలో మాత్రమే">
+<!ENTITY  trackingProtectionPrivate.label      "కేవలం ఆంతరంగిక విండోలో మాత్రమే">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
-<!ENTITY  trackingProtectionNever.label        "ఎప్పటికీకాదు">
+<!ENTITY  trackingProtectionNever.label        "ఎప్పటికీ కాదు">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "మరింత తెలుసుకోండి">
-<!ENTITY  trackingProtectionExceptions.label   "మినహాయింపులు…">
+<!ENTITY  trackingProtectionLearnMore.label    "ఇంకా తెలుసుకోండి">
+<!ENTITY  trackingProtectionExceptions.label   "ఆక్షేపణలు…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ఆరాతీస్తోంది">
-<!ENTITY trackingProtectionPBM5.label         "జాడ పట్టడంపై రక్షణ ను ఆంతరంగిక విండోలలో  వుపయోగించు">
+<!ENTITY trackingProtectionPBM5.label         "జాడ పట్టడం పై రక్షణను అంతరంగిక విండోలో ఉపయోగించు">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "మరింత తెలుసుకోండి">
+<!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
 <!ENTITY changeBlockList.label          "నిషేధిత జాబితా మార్చు">
 <!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "మీరు కూడా ">
-<!ENTITY  doNotTrack.settings.label     "మీ ట్రాక్ చేయవద్దు సెట్టింగులను నిర్వహించండి">
+<!ENTITY  doNotTrack.settings.label     "మీ ట్రాక్ చేయవద్దు అమరికలను నిర్వహించండి">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "చరిత్ర">
@@ -35,28 +35,28 @@
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "తెరిచిన టాబ్‌లు">
+<!ENTITY  locbar.openpage.label         "తెరిచిన ట్యాబులు">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "అప్రమేయ శోధన యంత్రం నుండి సంభందిత శోధనలు">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "శోధన యత్రం సూచనల కొరకై అభీష్టాలను మార్చు...">
+<!ENTITY  suggestionSettings.label      "శోధన యత్రం సూచనల కొరకై అభీష్టాలను మార్చు…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
+<!ENTITY  acceptCookies.label           "సైటుల నుండి కుకీలను ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "మూడో-వ్యక్తి కుకీలను ఆమోదించుము:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "మూడో-పార్టీ కుకీలను ఆమోదించు:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "ఎల్లప్పుడూ">
 <!ENTITY  acceptThirdParty.never.label    "ఎప్పటికీకాదు">
 <!ENTITY  acceptThirdParty.visited.label  "దర్శించిన వాటినుండి">
 
-<!ENTITY  keepUntil.label               "ఇంతవరకు వుంచు:">
+<!ENTITY  keepUntil.label               "ఇంత వరకు ఉంచు:">
 <!ENTITY  keepUntil.accesskey           "u">
 
-<!ENTITY  expire.label                  "వాటికి కాలముతీరినది">
-<!ENTITY  close.label                   "నేను  &brandShortName; మూసితిని">
+<!ENTITY  expire.label                  "వాటికి కాలము తీరినది">
+<!ENTITY  close.label                   "&brandShorterName; ని మూసివేశాను">
 
 <!ENTITY  cookieExceptions.label        "ఎక్సెప్షన్లు...">
 <!ENTITY  cookieExceptions.accesskey    "E">
@@ -66,46 +66,46 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకుంటుంది">
-<!ENTITY  historyHeader.dontremember.label "ఎప్పుడు  చరిత్రని గుర్తు పెట్టుకోదు">
-<!ENTITY  historyHeader.custom.label       "చరిత్రకు వ్యక్తిగత అమరికలు వాడు">
+<!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకో">
+<!ENTITY  historyHeader.dontremember.label "ఎప్పుడు చరిత్రని గుర్తు పెట్టుకోవద్దు">
+<!ENTITY  historyHeader.custom.label       "చరిత్ర కోసం అనుకూలీకరించిన అమరికలు వాడు">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; మీ వీక్షణ, దిగుమతి, ఫారమ్ మరియు శోధన చరిత్ర గుర్తుంచుకుంటుంది మరియు, మీరు దర్శించిన వెబ్ సైటులయొక్క కుకీలను దాచుతుంది.">
+<!ENTITY  rememberDescription.label      "&brandShortName; మీ వీక్షణ, దిగుమతి, ఫారమ్ మరియు శోధన చరిత్ర గుర్తుంచుకుంటుంది మరియు, మీరు దర్శించిన వెబ్ సైటుల యొక్క కుకీలను దాచుతుంది.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "మీరు  ">
-<!ENTITY  rememberActions.clearHistory.label  "ఇటీవలి చరిత్రను తొలగించుకోవచ్చు">
+<!ENTITY  rememberActions.pre.label           "మీరు కావాలంటే ">
+<!ENTITY  rememberActions.clearHistory.label  "మీ ఇటీవలి చరిత్రను తొలగించు">
 <!ENTITY  rememberActions.middle.label        ", లేక ">
-<!ENTITY  rememberActions.removeCookies.label "విడి కుకీలను తొలగించవచ్చు">
+<!ENTITY  rememberActions.removeCookies.label "విడి కుకీలను తొలగించు">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; గోప్యవీక్షణం  అమరికలనే వాడుతుంది మరియు  మీ  వీక్షణ చరిత్రని గుర్తుంచుకొనదు.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "మీరు ">
-<!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్రని కూడా తొలగించుకోవచ్చు">
+<!ENTITY  dontrememberActions.pre.label          "మీరు కావాలంటే ">
+<!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్ర ముత్తమును తొలగించు">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిను వుపయోగించుము">
+<!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిను ఉపయోగించు">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "నా విహరణ మరియు దింపుకోలు చరిత్రను గుర్తుంచుకొనుము">
+<!ENTITY  rememberHistory2.label      "నా విహరణ మరియు డౌన్ లోడ్ చరిత్రను గుర్తుంచుకో">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "నా శోధన మరియు ఫారమ్ చరిత్రని గుర్తుపెట్టుకో">
+<!ENTITY  rememberSearchForm.label       "నా శోధన మరియు ఫార్మ్ చరిత్రని గుర్తుపెట్టుకో">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; మూయునపుడు చరిత్రని చెరిపివేయి">
+<!ENTITY  clearOnClose.label             "&brandShortName; మూసినపుడు చరిత్రని చెరిపివేయి">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "కంటేనర్ ట్యాబ్స్">
-<!ENTITY  browserContainersLearnMore.label      "ఇంకా నేర్చుకో">
-<!ENTITY  browserContainersEnabled.label        "కంటేనర్ ట్యాబ్స్ ఎనేబల్ చేయి">
-<!ENTITY  browserContainersEnabled.accesskey    "ఎన్">
+<!ENTITY  browserContainersLearnMore.label      "ఇంకా తెలుసుకోండి">
+<!ENTITY  browserContainersEnabled.label        "కంటేనర్ ట్యాబులను చేతనం చేయి">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

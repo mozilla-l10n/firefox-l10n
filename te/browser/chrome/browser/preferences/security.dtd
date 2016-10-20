@@ -11,16 +11,16 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "ప్రమాదకరమైన మరియు మోసపూరిత కంటెంట్ ను నిరోధించవచ్చు">
+<!ENTITY  enableSafeBrowsing.label        "ప్రమాదకరమైన మరియు మోసపూరిత కంటెంట్ ను నిరోధించు">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-<!ENTITY  blockDownloads.label            "ప్రమాదకరమైన డౌన్లోడ్ లను నిరోధించవచ్చు">
+<!ENTITY  blockDownloads.label            "ప్రమాదకరమైన డౌన్లోడ్ లను నిరోధించు">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "అవాంఛిత మరియు అసాధారణం సాఫ్ట్వేర్ గురించి నాకు హెచ్చరిస్తుంది">
+<!ENTITY  blockUncommonUnwanted.label     "అవాంఛిత మరియు అసాధారణం సాఫ్ట్ వేర్ గురించి నన్ను హెచ్చరించు">
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
-<!ENTITY  addonExceptions.label         "ఎక్సెప్షన్లు...">
+<!ENTITY  addonExceptions.label         "ఆక్షేపణలు…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -28,10 +28,10 @@
 
 <!ENTITY  rememberLogins.label          "సైట్ల కొరకు లాగిన్స్ గుర్తుంచుకో">
 <!ENTITY  rememberLogins.accesskey      "R">
-<!ENTITY  passwordExceptions.label      "ఎక్సెప్షన్లు...">
+<!ENTITY  passwordExceptions.label      "ఆక్షేపణలు…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "ముఖ్య సంకేతపదమును వుపయోగించండి">
+<!ENTITY  useMasterPassword.label        "ముఖ్య సంకేతపదమును ఉపయోగించండి">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "ముఖ్య సంకేతపదమును మార్చండి...">
 <!ENTITY  changeMasterPassword.accesskey "M">
