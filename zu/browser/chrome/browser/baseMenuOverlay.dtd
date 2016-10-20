@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Usizo"> 
 <!ENTITY helpMenuWin.accesskey    "U">
-
-
+<!ENTITY aboutProduct2.label      "Mayelana ne-&brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "M">
 
 
 <!ENTITY helpMac.commandkey       "?">
