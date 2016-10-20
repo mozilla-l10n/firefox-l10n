@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ఇటీవల ఉపయోగించిన క్రమంలో టాబ్లు ద్వారా తిరుగుతుంది">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ఇటీవల వాడిన క్రమంలో ట్యాబులను చుట్టుదిప్పుతుంది">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "కొత్త విండోలను కొత్త టాబ్ లో తెరుచు">
