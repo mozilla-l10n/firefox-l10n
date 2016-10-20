@@ -46,7 +46,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "בדוק עדכונים">
 <!ENTITY updates.checkForUpdates.accesskey    "ב">
-<!ENTITY updates.viewUpdates.label            "הצג עדכונים אחרונים">
+<!ENTITY updates.viewUpdates.label            "הצגת עדכונים אחרונים">
 <!ENTITY updates.viewUpdates.accesskey        "ה">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -73,7 +73,7 @@
 <!ENTITY updates.updateSelected.tooltip       "התקן את העדכונים הזמינים ברשימה זו">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "הצג מידע נוסף">
+<!ENTITY cmd.showDetails.label                "הצגת מידע נוסף">
 <!ENTITY cmd.showDetails.accesskey            "ה">
 <!ENTITY cmd.findUpdates.label                "מצא עדכונים">
 <!ENTITY cmd.findUpdates.accesskey            "מ">
