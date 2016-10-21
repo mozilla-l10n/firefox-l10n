@@ -14,14 +14,14 @@
 
 <!ENTITY fileMenu.label "ఫైల్">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "పేజీని ఇలా భద్రపరచు...">
+<!ENTITY savePageCmd.label "పేజీని ఇలా భద్రపరచు…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "పేజీ అమరిక...">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ముద్రణ అమరిక">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ముద్రించు...">
+<!ENTITY printCmd.label "ముద్రించు…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "మూయి">

@@ -50,7 +50,7 @@
 <!ENTITY connection.label                "అనుసంధానము">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
-<!ENTITY connectionSettings.label        "అమరికలు...">
+<!ENTITY connectionSettings.label        "అమరికలు…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "క్యాచీ చేసిన వెబ్ విషయం">

@@ -71,7 +71,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ముద్రణ మునుజూపు">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ముద్రించు...">
+<!ENTITY printCmd.label "ముద్రించు…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -778,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
 
-<!ENTITY social.addons.label "సేవలను నిర్వహించు...">
+<!ENTITY social.addons.label "సేవలను నిర్వహించు…">
 
 <!ENTITY social.directory.label "క్రియాశీలనల సంచయం">
 <!ENTITY social.directory.text "మీరు సంచయం నుండి పంచుకోలు సేవలను చేతనం చేయవచ్చు.">
