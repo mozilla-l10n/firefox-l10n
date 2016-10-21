@@ -22,7 +22,7 @@
 
 <!ENTITY pairDevice.label             "ఒక పరికరాన్ని జోడీచేయి">
 
-<!ENTITY syncMy.label               "నావి యివి సింక్‌చేయి">
+<!ENTITY syncMy.label               "వీటిని సింక్‌చేయి">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశాలు">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ట్యాబులు">
