@@ -87,25 +87,25 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "మీరు కావాలంటే ">
-<!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్ర ముత్తమును తొలగించు">
+<!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్ర మొత్తాన్నీ తుడిచివేసుకోవచ్చు">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిను ఉపయోగించు">
+<!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "నా విహరణ మరియు డౌన్ లోడ్ చరిత్రను గుర్తుంచుకో">
+<!ENTITY  rememberHistory2.label      "నా విహరణ, దింపుకోలు చరిత్రను గుర్తుంచుకో">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "నా శోధన మరియు ఫార్మ్ చరిత్రని గుర్తుపెట్టుకో">
+<!ENTITY  rememberSearchForm.label       "నా శోధన, ఫారాల చరిత్రని గుర్తుపెట్టుకో">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; మూసినపుడు చరిత్రని చెరిపివేయి">
+<!ENTITY  clearOnClose.label             "&brandShortName;‌ను మూసివేసినపుడు చరిత్రని తుడిచివేయి">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "కంటేనర్ ట్యాబ్స్">
+<!ENTITY  browserContainersHeader.label         "కంటైనర్ ట్యాబులు">
 <!ENTITY  browserContainersLearnMore.label      "ఇంకా తెలుసుకోండి">
-<!ENTITY  browserContainersEnabled.label        "కంటేనర్ ట్యాబులను చేతనం చేయి">
+<!ENTITY  browserContainersEnabled.label        "కంటైనర్ ట్యాబులను చేతనం చేయి">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
