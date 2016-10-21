@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "分享此图像">
 <!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "分享选中部分">
+<!ENTITY shareSelect.label "分享选中的部分">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "分享此视频">
 <!ENTITY shareVideo.accesskey "r">
@@ -715,11 +715,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "您与此网站的连接使用了较弱的加密，并不私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可能查看您的信息或修改该网站的行为。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
-<!ENTITY identity.description.passiveLoaded "您的连接非私密，您提供给此网站的信息可能被其他人看到。">
+<!ENTITY identity.description.passiveLoaded "您的连接并不私密，您提供给此网站的信息可能会被其他人看到。">
 <!ENTITY identity.description.passiveLoaded2 "此网站包含不安全的内容（例如图像）。">
 <!ENTITY identity.description.passiveLoaded3 "尽管 &brandShortName; 已拦截部分内容，但页面上仍有内容不安全（例如图像）。">
 <!ENTITY identity.description.activeLoaded "此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。">
-<!ENTITY identity.description.activeLoaded2 "您提供给此网站的信息（例如密码、邮件、信用卡等）可能被其他人看到。">
+<!ENTITY identity.description.activeLoaded2 "您提供给此网站的信息（例如密码、聊天消息、信用卡等）可能会被其他人看到。">
 
 <!ENTITY identity.enableMixedContentBlocking.label "启用保护">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
