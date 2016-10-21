@@ -9,11 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "స్థానపట్టీ ఫలితాలలో శోధన సలహాలను చూపించు">
+<!ENTITY showURLBarSuggestions.label           "స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించు">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "స్థాన పట్టీ ఫలితాలలో శోధన సలహాలను చూపించలేము ఎందుకంటే &brandShortName; మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే &brandShortName; మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.">
 
-<!ENTITY redirectWindowsSearch.label "విండోస్ నుండి వచ్చే శోధనలకు ఈ శోధన యంత్రాన్ని వాడండి">
+<!ENTITY redirectWindowsSearch.label "విండోస్ నుండి వచ్చే శోధనలకు ఈ శోధన యంత్రాన్ని వాడు">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "ఒక్క-నొక్కు శోధన యంత్రాలు">

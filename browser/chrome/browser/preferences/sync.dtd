@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; అమర్పు">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; అనునది మీరు మీ పరికరములు అన్నిటిపైన చరిత్రను, యిష్టాంశములను, సంకేతపదములను యాక్సెస్ చేయుటకు మరియు టాబ్‌లను తెరువుటకు అనుమతినిచ్చును.">
+<!ENTITY weaveDesc.label            "మీ పరికరాలన్నింటి లోని చరిత్రను, ఇష్టాంశాలను, సంకేతపదాలను, తెరిచివున్న ట్యాబులను మీరు చూడడానికి &syncBrand.fullName.label; వీలుకల్పిస్తుంది.">
 
 <!-- The page shown when logged in... -->
 
@@ -18,12 +18,12 @@
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">
 <!ENTITY myRecoveryKey.label          "నా రికవరీ కీ">
-<!ENTITY resetSync2.label             "సింక్ తిరిగివుంచు…">
+<!ENTITY resetSync2.label             "Syncని పునరుద్ధరించు…">
 
-<!ENTITY pairDevice.label             "ఒక పరికరంను జోడీచేయి">
+<!ENTITY pairDevice.label             "ఒక పరికరాన్ని జోడీచేయి">
 
 <!ENTITY syncMy.label               "నావి యివి సింక్‌చేయి">
-<!ENTITY engine.bookmarks.label     "ఇష్టాంశములు">
+<!ENTITY engine.bookmarks.label     "ఇష్టాంశాలు">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ట్యాబులు">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -66,27 +66,27 @@ signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "తిరిగిఅనుసంధానించుటకు సైన్ ఇన్ అవ్వండి">
+<!ENTITY signedInLoginFailure.beforename.label "మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "మీరు ప్రవేశించి లేరు.">
 <!ENTITY signIn.label                "ప్రవేశించండి">
 <!ENTITY profilePicture.tooltip      "ప్రొఫైల్ చిత్రం మార్చు">
 <!ENTITY verifiedManage.label        "ఖాతాను నిర్వహించు">
-<!ENTITY disconnect.label            "అననుసంధానించు...">
-<!ENTITY verify.label                "ఈమెయిల్ నిర్థారించు">
+<!ENTITY disconnect.label            "అననుసంధానించు…">
+<!ENTITY verify.label                "ఈమెయిలు నిర్థారించు">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 
-<!ENTITY welcome.description "మీరు &brandShortName; ను ఉపయోగించునప్పుడు మీ టాబ్‌లను, ఇష్టాంశములను, సంకేతపదములను మరియు మరిన్నిటిని ఏక్సెస్ చేయండి.">
-<!ENTITY welcome.signIn.label "సైన్ ఇన్">
-<!ENTITY welcome.createAccount.label "ఖాతాను సృష్టించు">
+<!ENTITY welcome.description "మీరు &brandShortName;‌ను ఎక్కడ వాడుతున్నా మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను, ఇంకా మరెన్నిటినో ఏక్సెస్ చెయ్యండి.">
+<!ENTITY welcome.signIn.label "ప్రవేశించండి">
+<!ENTITY welcome.createAccount.label "ఖాతాను సృష్టించుకోండి">
 
-<!ENTITY welcome.useOldSync.label "సింక్ పాత వెర్షనును వాడుతున్నారా?">
+<!ENTITY welcome.useOldSync.label "Sync పాత వెర్షనును వాడుతున్నారా?">
 
-<!ENTITY signedOut.caption            "మీ వెబ్ మీతో తీసుకువెళ్ళండి">
-<!ENTITY signedOut.description        "మీ అన్ని పరికరాలనందలి ఇష్టాంశాలు, చరిత్ర, టాబ్స్, సంకేతపదాలు, పొడిగింతలు, మరియు అభీష్టాలు సింక్రొనైజ్ చేయండి.">
-<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; తో అనుసంధానించు">
-<!ENTITY signedOut.accountBox.create  "ఖాతాను సృష్టించు">
+<!ENTITY signedOut.caption            "మీ జాలాన్ని మీతో తీసుకువెళ్ళండి">
+<!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">
+<!ENTITY signedOut.accountBox.title   "ఒక &syncBrand.fxAccount.label;‌తో అనుసంధానించండి">
+<!ENTITY signedOut.accountBox.create  "ఖాతాను సృష్టించుకోండి">
 <!ENTITY signedOut.accountBox.signin  "సైన్ ఇన్">
 
 <!ENTITY signedIn.engines.label       "అన్ని పరికరాలు సింక్ చేయి">
