@@ -13,8 +13,8 @@
 <!ENTITY  trackingProtectionExceptions.label   "మినహాయింపులు…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "ఆరాతీస్తోంది">
-<!ENTITY trackingProtectionPBM5.label         "జాడ పట్టడం పై రక్షణను అంతరంగిక విండోలో ఉపయోగించు">
+<!ENTITY tracking.label                 "ట్రాకింగు">
+<!ENTITY trackingProtectionPBM5.label         "అంతరంగిక విండోలలో ట్రాకింగ్ సంరక్షణను">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
 <!ENTITY changeBlockList.label          "నిషేధిత జాబితా మార్చు">
