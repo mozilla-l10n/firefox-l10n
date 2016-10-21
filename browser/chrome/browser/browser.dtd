@@ -727,8 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "И">
 <!ENTITY identity.learnMore "Научете повече">
 
-<!ENTITY identity.removeCertException.label "Премахване на изключение">
-<!ENTITY identity.removeCertException.accesskey "х">
+<!ENTITY identity.removeCertException.label "Премахване на изключението">
+<!ENTITY identity.removeCertException.accesskey "П">
 
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
