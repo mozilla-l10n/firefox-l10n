@@ -6,18 +6,18 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "సుస్వాగతం! ఇంతకు మునుపెన్నడూ మీరు &syncBrand.fullName.label; వుపయోగించి వుండకపోతే, మీరు కొత్త ఖాతాను సృష్టించవలసి వుంటుంది.">
-<!ENTITY button.createNewAccount.label "కొత్త ఖాతాను సృష్టించుము">
-<!ENTITY button.haveAccount.label      "నేను వొక ఖాతా కలిగివున్నాను">
+<!ENTITY setup.pickSetupType.description2 "స్వాగతం! మీరు ఇంతక ముందెన్నడో &syncBrand.fullName.label; ని ఉపయోగించికపోతే, మీరు ఒక కొత్త ఖాతాను సృష్టించవలసి ఉంటుంది.">
+<!ENTITY button.createNewAccount.label "కొత్త ఖాతాను సృష్టించు">
+<!ENTITY button.haveAccount.label      "నేను ఒక ఖాతాను కలిగివున్నాను">
 
-<!ENTITY setup.choicePage.title.label     "మీరు &syncBrand.fullName.label; ను యింతకు ముందు వుపయోగించారా?">
-<!ENTITY setup.choicePage.new.label       "నేను యింతకు ముందెన్నడూ &syncBrand.shortName.label; వుపయోగించలేదు">
-<!ENTITY setup.choicePage.existing2.label "నేను యిప్పటికే &syncBrand.shortName.label; ను వేరే పరికరంపై వుపయోగించుచున్నాను">
+<!ENTITY setup.choicePage.title.label     "మీరు &syncBrand.fullName.label; ను ఇంతకు ముందు ఉపయోగించారా?">
+<!ENTITY setup.choicePage.new.label       "నేను ఇంతకు ముందెన్నడూ &syncBrand.shortName.label; ఉపయోగించలేదు">
+<!ENTITY setup.choicePage.existing2.label "నేను ఇప్పటికే &syncBrand.shortName.label; ను వేరే పరికరం పై ఉపయోగింస్తున్నాను">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "సర్వర్">
-<!ENTITY serverType.default.label      "అప్రమేయ: Mozilla &syncBrand.fullName.label; సేవిక">
-<!ENTITY serverType.custom2.label   "ఒక మలచిన సేవిక వుపయోగించు…">
+<!ENTITY serverType.default.label      "అప్రమేయ: Mozilla &syncBrand.fullName.label; సర్వర్">
+<!ENTITY serverType.custom2.label   "ఒక మలచిన సర్వర్ ను ఉపయోగించు…">
 <!ENTITY signIn.account2.label      "ఖాతా">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "సంకేతపదము">
@@ -103,7 +103,7 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "నిర్థారించు">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; యిప్పుడు యీ పరికరం యొక్క విహారిణి దత్తాంశం నంతటిని మీ సింక్ ఖాతాలోనికి కలుపును.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ఇప్పుడు యీ పరికరం యొక్క విహారిణి దత్తాంశం నంతటిని మీ సింక్ ఖాతాలోనికి కలుపును.">
 <!ENTITY confirm.client3.label         "హెచ్చరిక: ఈ పరికరం నందలి యీ కింది &brandShortName; దత్తాంశం తొలగించబడును:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; అప్పుడు మీ &syncBrand.fullName.label; దత్తాంశంను యీ పరికరంకు నకలు తీయును.">
 <!ENTITY confirm.server2.label         "హెచ్చరిక: మీ స్థానిక దత్తాంశంతో యీ కింది పరికరములు తిరిగివ్రాయబడును:">
@@ -111,4 +111,4 @@
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "అమర్పు పూర్తైనది">
 <!ENTITY changeOptions.label "కింది సింక్ ఐచ్ఛికములను యెంపికచేయుట ద్వారా మీరు యీ అభీష్టమును మార్చగలరు.">
-<!ENTITY continueUsing.label "మీరు యిప్పుడు &brandShortName; ను వుపయోగించుట కొనసాగించవచ్చును.">
+<!ENTITY continueUsing.label "మీరు ఇప్పుడు &brandShortName; ను ఉపయోగించుట కొనసాగించవచ్చును.">
