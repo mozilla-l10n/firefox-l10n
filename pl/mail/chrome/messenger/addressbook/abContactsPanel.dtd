@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookPicker.label "Książka adresowa:">
 <!ENTITY addressbookPicker.accesskey "K">
-<!ENTITY searchContacts.label "Szukaj kontakty:">
+<!ENTITY searchContacts.label "Szukaj:">
 <!ENTITY searchContacts.accesskey "S">
 <!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail">
 
