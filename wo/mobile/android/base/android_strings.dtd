@@ -190,6 +190,8 @@
 <!ENTITY pref_category_home_panels "Panels">
 <!ENTITY pref_home_updates_enabled "Enabled">
 <!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
+<!ENTITY pref_category_home_homepage "Page bou djeuk">
+<!ENTITY home_homepage_title "Tanal sa page bou djeuk">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -204,6 +206,7 @@
      text field. -->
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_search "Seet">
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_help "Help">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -215,7 +218,9 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_developer_tools "Djoumtoukayou developpeur">
 
+<!ENTITY pref_tap_to_load_images_enabled "Sa sounee">
 
 
 <!ENTITY pref_donottrack_title "Do not track">
@@ -253,14 +258,17 @@
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Neub njel li">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Lireul">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
 
 <!ENTITY pref_char_encoding "Suulale araf yi">
 <!ENTITY pref_char_encoding_on "Wone njël li">
+<!ENTITY pref_char_encoding_off "Neub njël li">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \u0022Quit\u0022 from the main menu">
@@ -644,3 +652,5 @@ dale ko ci Android">
 
 
 
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
