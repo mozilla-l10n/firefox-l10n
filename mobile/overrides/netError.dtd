@@ -113,7 +113,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Proxy strežnik zavrača povezave">
+<!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
@@ -121,7 +121,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Proky strežnika ni mogoče najti">
+<!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
