@@ -58,7 +58,7 @@
 <!ENTITY  expire.label                  "వాటికి కాలము తీరినది">
 <!ENTITY  close.label                   "&brandShortName; ని మూసివేశాను">
 
-<!ENTITY  cookieExceptions.label        "ఎక్సెప్షన్లు...">
+<!ENTITY  cookieExceptions.label        "మినహాయింపులు…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "కుకీలను చూపించు...">
