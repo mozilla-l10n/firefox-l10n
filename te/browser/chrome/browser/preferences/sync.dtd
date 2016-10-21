@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "పునరుద్ధరించు">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు">
+<!ENTITY manageAccount.label          "ఖాతా నిర్వహణ">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">
 <!ENTITY myRecoveryKey.label          "నా రికవరీ కీ">
@@ -87,22 +87,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">
 <!ENTITY signedOut.accountBox.title   "ఒక &syncBrand.fxAccount.label;‌తో అనుసంధానించండి">
 <!ENTITY signedOut.accountBox.create  "ఖాతాను సృష్టించుకోండి">
-<!ENTITY signedOut.accountBox.signin  "సైన్ ఇన్">
+<!ENTITY signedOut.accountBox.signin  "ప్రవేశించండి">
 
-<!ENTITY signedIn.engines.label       "అన్ని పరికరాలు సింక్ చేయి">
+<!ENTITY signedIn.engines.label       "పరికరాలన్నింటిలోనూ వీటిని సింక్రనించు">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            " కోసం Firefox డౌన్లోడ్ చేయండి">
+<!ENTITY mobilePromo3.start            "మీ మొబైలు పరికరంతో సింక్రనించడానికి Firefoxని ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo3.androidLink      "Android">
+<!ENTITY mobilePromo3.androidLink      "ఆండ్రాయిడ్">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " లేదా ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " మీ మొబైల్ పరికరంతో సింక్ చేయడానికి">
+<!ENTITY mobilePromo3.end              " లో దించుకోండి.">
