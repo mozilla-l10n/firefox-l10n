@@ -22,16 +22,16 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "ఈ మూలం బ్లాక్ బాక్స్ అయినది: దీని బ్రేక్‌పాయింట్లు అచేతనమైను, స్టెప్పింగ్ దానికుండా వెళ్ళిపోతోంది.">
+<!ENTITY debuggerUI.blackBoxMessage.label "ఈ మూలం బ్లాక్ బాక్స్ అయినది: దీని బ్రేక్‌పాయింట్లు అచేతనమైనవి, స్టెప్పింగ్ దాని నుండి వెళ్ళిపోతోంది.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలం బ్లాక్ బాక్సింగ్ ఆపు">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలం బ్లాక్ బాక్సింగ్ ను ఆపు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-<!ENTITY debuggerUI.optsButton.tooltip  "డీబగ్గర్ ఐచ్చికాలు">
+<!ENTITY debuggerUI.optsButton.tooltip  "డీబగ్గర్ ఎంపికలు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
