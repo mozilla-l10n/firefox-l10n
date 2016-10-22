@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "ట్రబుల్‌షూటింగ్ సమాచారము">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  మీరు వొక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు వుపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును యీ పేజీ కలిగివుంటుంది. మీరు &brandShortName; గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a id='supportLink'>తోడ్పాటు వెబ్ సైట్</a> చూడండి.">
+<!ENTITY aboutSupport.pageSubtitle "  మీరు వొక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు ఉపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును యీ పేజీ కలిగివుంటుంది. మీరు &brandShortName; గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a id='supportLink'>తోడ్పాటు వెబ్ సైట్</a> చూడండి.">
 
 <!ENTITY aboutSupport.crashes.title "క్రాష్ నివేదికలు">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -102,8 +102,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "సంస్థాపనా చరిత్ర">
 <!ENTITY aboutSupport.updateHistoryTitle "తాజాకరణ చరిత్ర">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు నకలుతీయుము">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "ముడి దత్తాంశంను క్లిప్‌బోర్డునకు నకలుతీయును">
+<!ENTITY aboutSupport.copyTextToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు కాపీతీయుము">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ముడి దత్తాంశంను క్లిప్‌బోర్డునకు కాపీతీయును">
 
 <!ENTITY aboutSupport.sandboxTitle "శాండ్ బాక్స్">
 

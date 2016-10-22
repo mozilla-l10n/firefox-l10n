@@ -13,7 +13,7 @@
 <!ENTITY cutCmd.label              "కత్తిరించు">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "నకలుతీయు">
+<!ENTITY copyCmd.label             "కాపీతీయు">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
 <!ENTITY pasteCmd.label            "అతికించు">
