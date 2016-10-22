@@ -93,7 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Slå remote debugging til">
-<!ENTITY options.enableRemote.tooltip  "Tillader at udviklerværktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Tillader at udviklerværktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -119,10 +119,10 @@
 <!ENTITY options.enableServiceWorkersHTTP.label     "Aktiver service workers over HTTP (når værktøjerne er åbnet)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Aktiverer du denne funktion, vil du aktivere service workers over HTTP i alle faneblade, hvor værktøjerne er åbnet.">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Indbyggede udviklerværktøjer i Firefox">
+<!ENTITY options.selectDefaultTools.label2    "Standard-udviklerværktøjer">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
