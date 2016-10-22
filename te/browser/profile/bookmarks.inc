@@ -10,12 +10,12 @@
 #define bookmarks_title ఇష్టాంశాలు
 #define bookmarks_heading ఇష్టాంశాలు
 
-#define bookmarks_toolbarfolder ఇష్టాంశముల సాధనములపట్టీ సంచయం
-#define bookmarks_toolbarfolder_description ఇష్టాంశముల సాధనపట్టీ నందు వాటిని చూడుటకు యిష్టాంశములను యీ సంచయంకు జతచేయి
+#define bookmarks_toolbarfolder ఇష్టాంశముల సాధనాలపట్టీ సంచయం
+#define bookmarks_toolbarfolder_description ఇష్టాంశముల సాధనపట్టీ నందు వాటిని చూడుటకు ఇష్టాంశములను ఈ సంచయముకు జతచేయి
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
-#define getting_started ప్రారంభించి నేర్చుకోండి
+#define getting_started ప్రారంభించబడుతోంది
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -27,7 +27,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize Firefox ను ఇచ్ఛానుసారం మలచు
+#define firefox_customize Firefox ను మలచు
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
