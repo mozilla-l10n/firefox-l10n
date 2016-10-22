@@ -6,7 +6,7 @@
 <!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "నకలుతీయి">
+<!ENTITY  copy.label            "కాపీ చేయి">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "అన్నిటిని ఎన్నుకొనుము">

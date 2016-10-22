@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "వడపోత:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "నకలుతీయు">  
+<!ENTITY copyCmd.label       "కాపీతీయు">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "మొదట > చివరి క్రమపరిచిన విధం">

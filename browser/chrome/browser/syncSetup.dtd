@@ -72,7 +72,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ప్రవేశించు">
-<!ENTITY existingRecoveryKey.description "మీరు మీ యితర పరికరముపైని &syncBrand.shortName.label; ఐచ్ఛికములకు వెళ్ళి, &quot;నా రికవరీ కీను&quot; &quot;ఖాతా నిర్వహించు&quot; కిందన  యెంచుకొనుట ద్వారా మీ రికవరీ కీ యొక్క నకలును పొందగలరు.">
+<!ENTITY existingRecoveryKey.description "మీరు మీ యితర పరికరముపైని &syncBrand.shortName.label; ఐచ్ఛికములకు వెళ్ళి, &quot;నా రికవరీ కీను&quot; &quot;ఖాతా నిర్వహించు&quot; కిందన  యెంచుకొనుట ద్వారా మీ రికవరీ కీ యొక్క కాపీను పొందగలరు.">
 <!ENTITY verifying.label              "పరిశీలిస్తున్నది…">
 <!ENTITY resetPassword.label          "సంకేతపదమును తిరిగిఅమర్చు">
 <!ENTITY resetSyncKey.label           "నేను నా ఇతర పరికరమును కోల్పోయాను.">

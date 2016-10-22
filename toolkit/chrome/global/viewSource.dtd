@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "లింకు స్థానము నకలుతీయి">
+<!ENTITY copyLinkCmd.label "లింకు స్థానము కాపీ చేయి">
 <!ENTITY copyLinkCmd.accesskey "L">
-<!ENTITY copyEmailCmd.label "ఈమెయిల్ చిరునామా నకలుతీయి">
+<!ENTITY copyEmailCmd.label "ఈమెయిల్ చిరునామా కాపీ చేయి">
 <!ENTITY copyEmailCmd.accesskey "E">
