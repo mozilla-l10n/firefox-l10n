@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• బటన్ పై నొక్కి">
-<!ENTITY netmonitorUI.perfNotice2         "పనితనం విశ్లేషణ ప్రారంభించుము.">
+<!ENTITY netmonitorUI.perfNotice2         "పనితనం విశ్లేషణ ప్రారంభించు.">
 <!ENTITY netmonitorUI.perfNotice3         "విశ్లేషణ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
@@ -251,7 +251,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
-<!ENTITY netmonitorUI.context.copyUrl     "URL నకలుతీయి">
+<!ENTITY netmonitorUI.context.copyUrl     "URL కాపీ చేయి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
@@ -277,7 +277,7 @@
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
-<!ENTITY netmonitorUI.context.copyAsCurl    "cURL నకలుతీయి">
+<!ENTITY netmonitorUI.context.copyAsCurl    "cURL కాపీ చేయి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
@@ -309,7 +309,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "చిత్రాన్ని దత్తాంశ URI వలె నకలుతీయి">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "చిత్రాన్ని దత్తాంశ URI వలె కాపీ చేయి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->

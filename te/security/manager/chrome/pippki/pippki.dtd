@@ -52,5 +52,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "రక్షించబడిన టోకెన్ ధృవీకరణ">
-<!ENTITY protectedAuth.msg "దయచేసి ఈటోకెన్‌కు ధృవీకరించుము. ధృవీకరణ విధానం మీటోకెన్‌యొక్క రకముపై ఆధారపడుతుంది.">
+<!ENTITY protectedAuth.msg "దయచేసి ఈటోకెన్‌కు ధృవీకరించు. ధృవీకరణ విధానం మీటోకెన్‌యొక్క రకముపై ఆధారపడుతుంది.">
 <!ENTITY protectedAuth.tokenName.label "టోకెన్:">

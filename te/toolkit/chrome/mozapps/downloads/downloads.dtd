@@ -19,7 +19,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "రద్దుచేయి">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "కలిగిఉన్న సంచయంను తెరువుము">
+<!ENTITY cmd.show.label                   "కలిగిఉన్న సంచయంను తెరువు">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ఫైండర్ నందు చూపుము">
 <!ENTITY cmd.showMac.accesskey            "F">
@@ -39,8 +39,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "జాబితాను శుభ్రపరచుము">
-<!ENTITY cmd.clearList.tooltip            "పుర్తైన, రద్దైన, మరియు విఫలమైన డౌన్‌లోడులను జాబితానుండి తొలగించుము">
+<!ENTITY cmd.clearList.label              "జాబితాను శుభ్రపరచు">
+<!ENTITY cmd.clearList.tooltip            "పుర్తైన, రద్దైన, మరియు విఫలమైన డౌన్‌లోడులను జాబితానుండి తొలగించు">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

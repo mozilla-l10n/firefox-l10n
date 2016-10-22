@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "దయచేసి క్షమించాలి.">
-<!ENTITY restorepage.problemDesc    "మీ విండోలు, టాబ్లు &brandShortName; తిరిగి వుంచటం కుదరలేదు.  దీనికి సాధారణ కారణం ఇటీవల తెరువబడిన వెబ్ పేజీ.">
+<!ENTITY restorepage.problemDesc    "మీ విండోలు, ట్యాబ్లు &brandShortName; తిరిగి వుంచటం కుదరలేదు.  దీనికి సాధారణ కారణం ఇటీవల తెరువబడిన వెబ్ పేజీ.">
 <!ENTITY restorepage.tryThis        "తిరిగి ప్రయత్నించండి:">
 <!ENTITY restorepage.restoreSome    "సమస్యకు మూలమని మీరు అనుకొన్న ఒకటి లేక మరిన్న టాబులను తొలగించండి.">
 <!ENTITY restorepage.startNew       "సరికొత్త  విహరిణి  స్థితిని  మొదలుపెట్టండి.">
@@ -34,7 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "సఫలం!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; సిద్ధంగా ఉంది.">
 
-<!ENTITY welcomeback2.label.restoreAll  "అన్ని విండోలు మరియు టాబ్‌లు తిరిగివుంచు">
+<!ENTITY welcomeback2.label.restoreAll  "అన్ని విండోలు మరియు ట్యాబ్‌లు తిరిగివుంచు">
 <!ENTITY welcomeback2.label.restoreSome "మీకు కావలసినవే తిరిగివుంచు">
 
 
@@ -51,10 +51,10 @@ their language.
 
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "మీ ఇతర టాబ్ గుంపులు మైగ్రేట్ చేయండి">
-<!ENTITY tabgroupsmigration.pagetitle2          "మేము టాబ్ గుంపులు తొలగించాము, కానీ మీ టాబ్లు సేవ్ చేశాము">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "టాబ్ గుంపులు భర్తీ ఆడ్-ఆన్స్ గురించి తెలుసుకోండి.">
+<!ENTITY tabgroupsmigration.tabtitle            "మీ ఇతర ట్యాబ్ గుంపులు మైగ్రేట్ చేయండి">
+<!ENTITY tabgroupsmigration.pagetitle2          "మేము ట్యాబ్ గుంపులు తొలగించాము, కానీ మీ ట్యాబ్లు సేవ్ చేశాము">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "ట్యాబ్ గుంపులు భర్తీ ఆడ్-ఆన్స్ గురించి తెలుసుకోండి.">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; మీ అన్ని గ్రూప్లు బుక్ మార్క్ చేయబడింది కాబట్టి మీరు ఏదీ కోల్పోలేదు.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "బుక్మార్క్ టాబ్ గుంపులు చూపించు">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "బుక్మార్క్ ట్యాబ్ గుంపులు చూపించు">
 <!ENTITY tabgroupsmigration.restoredescription  "మీరు కూడా ఇప్పుడు కొన్ని లేదా అన్ని నేపథ్య సమూహాలు పునరుద్ధరించడానికి విండోస్ లోకి ఎంచుకోవచ్చు:">
 

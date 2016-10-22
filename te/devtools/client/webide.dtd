@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "అదనపు భాగాలు నిర్వహించండి">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-<!ENTITY projectMenu_refreshTabs_label "రిఫ్రెష్ టాబ్లు">
+<!ENTITY projectMenu_refreshTabs_label "రిఫ్రెష్ ట్యాబ్లు">
 
 <!ENTITY runtimeMenu_label "రన్‌టైమ్">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -78,7 +78,7 @@
 
 <!ENTITY projectPanel_myProjects "నా ప్రోజెక్టులు">
 <!ENTITY projectPanel_runtimeApps "రన్‌టైమ్ అనువర్తనాలు">
-<!ENTITY projectPanel_tabs "టాబ్‌లు">
+<!ENTITY projectPanel_tabs "ట్యాబ్‌లు">
 <!ENTITY runtimePanel_usb "USB పరికరాలు">
 <!ENTITY runtimePanel_wifi "Wi-Fi పరికరాలు">
 <!ENTITY runtimePanel_simulator "సిమ్యులేటర్లు">
@@ -111,7 +111,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "అదనపు కాంపోనెంట్లు">
-<!ENTITY addons_aboutaddons "పొడిగింతలు నిర్వాహికను తెరువుము">
+<!ENTITY addons_aboutaddons "పొడిగింతలు నిర్వాహికను తెరువు">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "అభిరుచులు">
@@ -127,9 +127,9 @@
 <!ENTITY prefs_options_templatesurl_tooltip "అందుబాటులోని మాదిరిల సూచిక">
 <!ENTITY prefs_options_showeditor "ఎడిటర్ చూపు">
 <!ENTITY prefs_options_showeditor_tooltip "అంతర్గత ఎడిటర్ చూపు">
-<!ENTITY prefs_options_tabsize "టాబ్ పరిమాణం">
-<!ENTITY prefs_options_expandtab "సాఫ్ట్ టాబ్లు">
-<!ENTITY prefs_options_expandtab_tooltip "టాబ్ కారెక్టర్ బదులుగా ఖాళీలను ఉపయోగించు">
+<!ENTITY prefs_options_tabsize "ట్యాబ్ పరిమాణం">
+<!ENTITY prefs_options_expandtab "సాఫ్ట్ ట్యాబ్లు">
+<!ENTITY prefs_options_expandtab_tooltip "ట్యాబ్ కారెక్టర్ బదులుగా ఖాళీలను ఉపయోగించు">
 <!ENTITY prefs_options_detectindentation "ఆటోఇండెంట్">
 <!ENTITY prefs_options_detectindentation_tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
 <!ENTITY prefs_options_autocomplete "స్వయంసమాప్తి">
@@ -215,4 +215,4 @@
 <!ENTITY simulator_pixelRatio "పిక్సెల్ నిష్పత్తి">
 <!ENTITY simulator_tv_data "TV సిమ్యులేషన్">
 <!ENTITY simulator_tv_data_open "కాన్ఫిగ్ డేటా">
-<!ENTITY simulator_tv_data_open_button "కాన్ఫిగ్ సంచయం తెరువుము…">
+<!ENTITY simulator_tv_data_open_button "కాన్ఫిగ్ సంచయం తెరువు…">
