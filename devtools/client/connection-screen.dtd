@@ -14,7 +14,7 @@
 <!ENTITY connect    "సంధానం">
 <!ENTITY connecting "అనుసంధానించుతోంది…">
 <!ENTITY availableAddons "అందుబాటులోని రిమోట్ పొడిగింతలు:">
-<!ENTITY availableTabs "అందుబాటులోని రిమోట్ టాబ్లు:">
+<!ENTITY availableTabs "అందుబాటులోని రిమోట్ ట్యాబ్లు:">
 <!ENTITY availableProcesses "అందుబాటులోని రిమోట్ ప్రోసెస్‌లు:">
 <!ENTITY connectionError "దోషం:">
 <!ENTITY errorTimeout "దోషం: అనుసంధానం సమయంముగిసెను.">

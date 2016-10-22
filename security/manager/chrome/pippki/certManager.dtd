@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "ధృవీకరణపత్రం స్థితి">
 <!ENTITY exceptionMgr.certstatus.viewCert     "దర్శనం…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "ఈ ఆక్షేపణను శాశ్వతంగా నిల్వవుంచుము">
+<!ENTITY exceptionMgr.permanent.label         "ఈ ఆక్షేపణను శాశ్వతంగా నిల్వవుంచు">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

@@ -60,15 +60,15 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "రక్షితబ్రౌజింగ్: ">
-<!ENTITY rights.safebrowsing-b "రక్షిత బ్రౌజింగ్ సౌలభ్యమును అచేతనము చేయుట సిఫార్సు చేయుటలేదు యెంచేతంటే అది మీరు సురక్షితంకాని సైటులకు వెళ్ళుటకు కారణం కావచ్చును. మీరు యీ సౌలభ్యమును పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
-<!ENTITY rights.safebrowsing-term1 "అనువర్తనము అభీష్టాలను తెరువుము">
+<!ENTITY rights.safebrowsing-b "రక్షిత బ్రౌజింగ్ సౌలభ్యమును అచేతనము చేయుట సిఫార్సు చేయుటలేదు యెంచేతంటే అది మీరు సురక్షితంకాని సైటులకు వెళ్ళుటకు కారణం కావచ్చును. మీరు యీ సౌలభ్యమును పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించు:">
+<!ENTITY rights.safebrowsing-term1 "అనువర్తనము అభీష్టాలను తెరువు">
 <!ENTITY rights.safebrowsing-term2 "రక్షమ యెంపికను యెంపికచేయుము">
 <!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; కి ఎంపిక గుర్తుచేయవద్దు">
 <!ENTITY rights.safebrowsing-term4 "రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "స్థానము తెలిసిన బ్రౌజింగ్: ">
-<!ENTITY rights.locationawarebrowsing-b "మీ అనుమతి లేకుండా యెప్పుడూ కూడా స్థానము సమాచారము పంపబడదు. ఈ సౌలభ్యమును మీరు పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
+<!ENTITY rights.locationawarebrowsing-b "మీ అనుమతి లేకుండా యెప్పుడూ కూడా స్థానము సమాచారము పంపబడదు. ఈ సౌలభ్యమును మీరు పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించు:">
 <!ENTITY rights.locationawarebrowsing-term1a "URL పట్టీనందు, యిది టైపు చేయుము ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled టైపు చేయుము">

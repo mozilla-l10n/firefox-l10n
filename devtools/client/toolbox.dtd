@@ -105,19 +105,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript * అచేతనంచేయి">
-<!ENTITY options.disableJavaScript.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన ఈ ప్రస్తుత టాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ టాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
+<!ENTITY options.disableJavaScript.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "ఆపివేయి HTTP కాష్ ని (టూల్ బాక్స్ తెరిచినప్పుడు)">
-<!ENTITY options.disableHTTPCache.tooltip   "ఈ ఎంపికను టర్నింగ్ టూల్ బాక్స్ తెరిచిన అన్ని టాబ్ల కోసం HTTP కాష్ ను ఆపివేస్తుంది. సేవా ఉద్యోగులు ఈ ఎంపిక ద్వారా ప్రభావితం కాదు.">
+<!ENTITY options.disableHTTPCache.tooltip   "ఈ ఎంపికను టర్నింగ్ టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP కాష్ ను ఆపివేస్తుంది. సేవా ఉద్యోగులు ఈ ఎంపిక ద్వారా ప్రభావితం కాదు.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "సర్వీస్ వర్కర్స్ ప్రారంభించు HTTP పైగా (టూల్ బాక్స్ తెరిచినప్పుడు)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని టాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -202,8 +202,8 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "బ్రాకెట్లు స్వయంచాలకంగామూయి">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును">
 <!ENTITY options.sourceeditor.expandtab.label           "ఖాళీలు ఉపయోగిస్తూ ఇండెంట్">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "టాబ్ కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు">
-<!ENTITY options.sourceeditor.tabsize.label             "టాబ్ పరిమాణం">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ట్యాబ్ కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు">
+<!ENTITY options.sourceeditor.tabsize.label             "ట్యాబ్ పరిమాణం">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "కీబైండిగ్లు">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">

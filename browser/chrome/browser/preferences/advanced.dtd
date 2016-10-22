@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "సున్నిత స్క్రోలింగ్ ఉపయోగించు">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించుము">
+<!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "నేను టైపు చేసిన విధంగా నా స్పెల్లింగ్ ను పరిశీలించు">
 <!ENTITY checkSpelling.accesskey         "t">

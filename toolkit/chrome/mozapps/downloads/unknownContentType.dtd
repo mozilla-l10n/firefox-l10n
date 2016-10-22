@@ -6,7 +6,7 @@
 <!ENTITY  from.label                  "నుండి:">
 <!ENTITY  actionQuestion.label        "&brandShortName; ఈ ఫైల్ తో ఏమి చేయాలి?">
 
-<!ENTITY  openWith.label              "దీనితో తెరువుము">
+<!ENTITY  openWith.label              "దీనితో తెరువు">
 <!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "ఇతర...">
 

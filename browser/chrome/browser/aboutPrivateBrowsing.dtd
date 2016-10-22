@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ఆంతరంగిక విండో తెరువుము">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ఆంతరంగిక విండో తెరువు">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ప్రైవేట్ బ్రౌజింగ్">
