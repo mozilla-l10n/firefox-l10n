@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Læs mere">
 
-<!ENTITY crashReporterDesc2.label         "&vendorShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
+<!ENTITY crashReporterDesc2.label         "Fejlrapporter hjælper &vendorShortName; med at gøre din browser mere stabil og sikker">
 <!ENTITY alwaysSubmitCrashReports.label   "Tillad at &brandShortName; sender ophobede fejlrapporter på dine vegne">
 <!ENTITY alwaysSubmitCrashReports.accesskey "f">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
