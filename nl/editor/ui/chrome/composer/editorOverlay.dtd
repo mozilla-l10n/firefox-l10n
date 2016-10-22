@@ -194,7 +194,7 @@
 <!ENTITY alignLeft.label "Links">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Links uitlijnen">
-<!ENTITY alignCenter.label "Centrum">
+<!ENTITY alignCenter.label "Gecentreerd">
 <!ENTITY alignCenter.accesskey "G">
 <!ENTITY alignCenter.tooltip "Gecentreerd uitlijnen">
 <!ENTITY alignRight.label "Rechts">

@@ -59,7 +59,7 @@
 <!ENTITY folderType.label                        "Maptype:">
 
 <!ENTITY folderQuotaTab.label                    "Quotum">
-<!ENTITY folderQuotaRoot.label                   "Quotum root:">
+<!ENTITY folderQuotaRoot.label                   "Quotumhoofdmap:">
 <!ENTITY folderQuotaUsage.label                  "Gebruik:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

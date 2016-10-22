@@ -15,8 +15,8 @@
 <!ENTITY alignmentBox.label "Uitlijning">
 <!ENTITY leftRadio.label "Links">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Centrum">
-<!ENTITY centerRadio.accessKey "C">
+<!ENTITY centerRadio.label "Gecentreerd">
+<!ENTITY centerRadio.accessKey "c">
 <!ENTITY rightRadio.label "Rechts">
 <!ENTITY rightRadio.accessKey "R">
 

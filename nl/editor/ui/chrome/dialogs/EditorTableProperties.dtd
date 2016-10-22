@@ -59,7 +59,7 @@
 <!ENTITY cellWrap.label                   "Uitlijnen">
 <!ENTITY cellNoWrap.label                 "Niet uitlijnen">
 <!ENTITY cellAlignTop.label               "Boven">
-<!ENTITY cellAlignMiddle.label            "Midden">
+<!ENTITY cellAlignMiddle.label            "Gecentreerd">
 <!ENTITY cellAlignBottom.label            "Onder">
 <!ENTITY cellAlignJustify.label           "Uitvullen">
 <!ENTITY cellInheritColor.label           "(Tabelkleur laten doorschijnen)">
@@ -71,5 +71,5 @@
 <!ENTITY backgroundColor.label            "Achtergrondkleur:">
 <!ENTITY backgroundColor.accessKey        "A">
 <!ENTITY AlignLeft.label                  "Links">
-<!ENTITY AlignCenter.label                "Centrum">
+<!ENTITY AlignCenter.label                "Gecentreerd">
 <!ENTITY AlignRight.label                 "Rechts">
