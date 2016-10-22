@@ -46,6 +46,9 @@
 <!ENTITY options.webconsole.label "Console web">
 <!ENTITY options.timestampMessages.label "Attiva timestamp">
 <!ENTITY options.timestampMessages.tooltip "Attivando questa opzione verrà visualizzato nella Console web il timestamp associato a comandi e risultati">
+<!ENTITY options.debugger.label "Debugger">
+<!ENTITY options.sourceMaps.label "Attiva mapping di origine">
+<!ENTITY options.sourceMaps.tooltip "Attivando questa opzione il mapping di origine verrà utilizzato per i riferimenti al codice sorgente in Debugger e Console.">
 <!ENTITY options.styleeditor.label "Editor stili">
 <!ENTITY options.stylesheetSourceMaps.label "Visualizza sorgenti originali">
 <!ENTITY options.stylesheetSourceMaps.tooltip "Visualizza sorgenti originali (ad es. file Sass) in Editor stili e Analisi pagina">
