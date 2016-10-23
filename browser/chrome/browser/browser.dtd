@@ -69,7 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "แสดงตัวอย่างการพิมพ์">
+<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "P">
@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
-<!ENTITY fxaUnverified.label "ยืนยันความถูกต้องบัญชีของคุณ">
+<!ENTITY fxaUnverified.label "ตรวจสอบบัญชีของคุณ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
@@ -207,10 +207,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ดูข้อมูลไซต์">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "เปิดแผงข้อความ">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "แปลหน้านี้">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
+<!ENTITY urlbar.screenBlocked.tooltip            "คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
