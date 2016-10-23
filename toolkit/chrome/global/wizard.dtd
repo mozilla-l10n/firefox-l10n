@@ -6,7 +6,7 @@
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "ดำเนินการต่อ">
 <!ENTITY  button-next-mac.accesskey    "ท">
-<!ENTITY  button-finish-mac.label      "เสร็จ">
+<!ENTITY  button-finish-mac.label      "เสร็จสิ้น">
 <!ENTITY  button-cancel-mac.label      "ยกเลิก">
 
 <!ENTITY  button-back-unix.label       "ย้อนกลับ">

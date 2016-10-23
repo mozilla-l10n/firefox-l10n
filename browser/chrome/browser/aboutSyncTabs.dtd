@@ -12,7 +12,7 @@
 <!ENTITY tabs.context.openTab.accesskey               "ป">
 <!ENTITY tabs.context.openMultipleTabs.label          "เปิดแท็บที่เลือก">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "ป">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "คั่นหน้าแท็บนี้…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "คั่นแท็บนี้…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "ค">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "คั่นหน้าแท็บที่เลือก…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "ค">
