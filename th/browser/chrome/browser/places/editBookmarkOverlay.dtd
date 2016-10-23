@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "ชื่อ:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "ช">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "ตำแหน่งที่ตั้ง:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "ต">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "ตำแหน่งที่ตั้งฟีด:">

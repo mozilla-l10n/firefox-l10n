@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "ชนิดเนื้อหา">
-<!ENTITY  typeColumn.accesskey    "ช">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "การกระทำ">
 <!ENTITY  actionColumn2.accesskey "ก">

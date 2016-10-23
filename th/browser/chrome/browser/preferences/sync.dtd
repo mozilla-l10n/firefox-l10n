@@ -4,7 +4,7 @@
 
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "ตั้งค่า &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "ต">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ของคุณระหว่างอุปกรณ์ทั้งหมดของคุณ">
 
 <!-- The page shown when logged in... -->
