@@ -97,7 +97,7 @@
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
 <!ENTITY pref_category_search3 "Buscar">
-<!ENTITY pref_category_search_summary2 "Añadir, estabecer predet., mostrar sugerencias">
+<!ENTITY pref_category_search_summary2 "Añadir, establecer predet., mostrar sugerencias">
 <!ENTITY pref_category_accessibility "Accesibilidad">
 <!ENTITY pref_category_accessibility_summary2 "Tamaño, entrada por voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
