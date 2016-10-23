@@ -208,8 +208,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "ดูข้อมูลไซต์">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "เปิดแผงข้อความ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "เปิดแผงการร้องขอตำแหน่งที่ตั้ง">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "เปิดแผงข้อความการติดตั้งส่วนเสริม">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "เปิดแผงข้อความที่เก็บข้อมูลออฟไลน์">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "เปิดแผงข้อความบันทึกรหัสผ่าน">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "จัดการการใช้ปลั๊กอิน">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "จัดการการแบ่งปันหน้าต่างหรือหน้าจอของคุณกับไซต์">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "เปิดแผงข้อความการติดตั้ง">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "แปลหน้านี้">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
