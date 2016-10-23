@@ -12,5 +12,5 @@
 <!ENTITY useSmallIcons.label      "ใช้ไอคอนเล็ก">
 <!ENTITY restoreDefaultSet.label  "เรียกคืนค่าปริยาย">
 <!ENTITY addNewToolbar.label      "เพิ่มแถบเครื่องมือใหม่">
-<!ENTITY saveChanges.label        "เสร็จ">
+<!ENTITY saveChanges.label        "เสร็จสิ้น">
 <!ENTITY undoChanges.label        "เลิกทำการเปลี่ยนแปลง">
