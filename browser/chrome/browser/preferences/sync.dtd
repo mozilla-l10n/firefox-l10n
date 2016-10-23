@@ -74,7 +74,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
 <!ENTITY disconnect.label            "ตัดการเชื่อมต่อ…">
-<!ENTITY verify.label                "ยืนยันอีเมล">
+<!ENTITY verify.label                "ตรวจสอบอีเมล">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
 
 <!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้ &brandShortName;">
