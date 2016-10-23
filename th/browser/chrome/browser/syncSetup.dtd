@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ลงชื่อเข้า">
 <!ENTITY existingRecoveryKey.description "คุณสามารถคัดลอกกุญแจกู้ข้อมูลโดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ และเลือก  &quot;กุญแจกู้ข้อมูลของฉัน&quot; ภายใต้ &quot;จัดการบัญชี&quot;">
-<!ENTITY verifying.label              "กำลังยืนยันความถูกต้อง…">
+<!ENTITY verifying.label              "กำลังตรวจสอบ…">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
 <!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์ชิ้นอื่นหาย">
 

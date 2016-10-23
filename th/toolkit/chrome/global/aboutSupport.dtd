@@ -84,8 +84,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "กราฟิก">
 
-<!ENTITY aboutSupport.placeDatabaseIntegrity "ความถูกต้อง">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ตรวจสอบความถูกต้อง">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "ความสมบูรณ์">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ตรวจสอบความสมบูรณ์">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
