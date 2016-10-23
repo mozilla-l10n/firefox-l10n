@@ -212,10 +212,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "แปลหน้านี้">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.screenBlocked.tooltip            "คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "คุณได้ปิดกั้นข้อมูลตำแหน่งที่ตั้งสำหรับเว็บไซต์นี้">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "คุณได้ปิดกั้นที่เก็บข้อมูลสำหรับเว็บไซต์นี้">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
@@ -416,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "คำค้นหา">
+<!ENTITY contentSearchSubmit.tooltip  "ค้นหา">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -638,16 +643,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "ปิด">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "ป">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "ลักษณะหน้า">
-<!ENTITY pageStyleMenu.accesskey "ษ">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ไม่มีลักษณะ">
-<!ENTITY pageStyleNoStyle.accesskey "ไ">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "ลักษณะหน้าพื้นฐาน">
-<!ENTITY pageStylePersistentOnly.accesskey "พ">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
@@ -657,7 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "แก้ไขการตั้งค่าตัวปิดกั้นป๊อปอัป…">
 <!ENTITY editPopupSettings.label "แก้ไขตัวเลือกตัวปิดกั้นป๊อปอัป…">
-<!ENTITY editPopupSettings.accesskey "แ">
+<!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "สลับทิศทางหน้ากระดาษ">
@@ -676,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
-<!ENTITY spellAddDictionaries.accesskey "พ">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
