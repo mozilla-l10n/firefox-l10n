@@ -17,9 +17,11 @@
 <!ENTITY viewMenu_label "ดู">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "ขยายเข้า">
-<!ENTITY viewMenu_zoomout_label "ขยายออก">
-<!ENTITY viewMenu_resetzoom_label "กลับค่าเดิมของการขยาย">
+<!ENTITY viewMenu_zoomin_label "ซูมเข้า">
+<!ENTITY viewMenu_zoomout_label "ซูมออก">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "กลับค่าเดิมของการซูม">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -30,6 +32,10 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_tabs "แท็บ">
 <!ENTITY runtimePanel_other "อื่น ๆ">
