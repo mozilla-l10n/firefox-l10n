@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lookInMenuList.label   "มองหาใน:">
-<!ENTITY lookInMenuList.accesskey   "ม">
+<!ENTITY lookInMenuList.accesskey   "L">
 <!ENTITY textInput.label        "ชื่อไฟล์:">
 <!ENTITY textInput.accesskey        "ช">
 <!ENTITY filterMenuList.label   "ชนิดไฟล์:">

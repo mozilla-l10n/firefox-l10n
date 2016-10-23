@@ -9,15 +9,15 @@
 <!ENTITY  button-finish-mac.label      "เสร็จ">
 <!ENTITY  button-cancel-mac.label      "ยกเลิก">
 
-<!ENTITY  button-back-unix.label       "ก่อนหน้า">
-<!ENTITY  button-back-unix.accesskey   "ก">
+<!ENTITY  button-back-unix.label       "ย้อนกลับ">
+<!ENTITY  button-back-unix.accesskey   "B">
 <!ENTITY  button-next-unix.label       "ถัดไป">
 <!ENTITY  button-next-unix.accesskey   "ถ">
 <!ENTITY  button-finish-unix.label     "เสร็จ">
 <!ENTITY  button-cancel-unix.label     "ยกเลิก">
 
 <!ENTITY  button-back-win.label        "&lt; ย้อนกลับ">
-<!ENTITY  button-back-win.accesskey    "ย">
+<!ENTITY  button-back-win.accesskey    "B">
 <!ENTITY  button-next-win.label        "ถัดไป &gt;">
 <!ENTITY  button-next-win.accesskey    "ถ">
 <!ENTITY  button-finish-win.label      "เสร็จ">

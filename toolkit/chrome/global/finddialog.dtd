@@ -6,7 +6,7 @@
 
 <!ENTITY findDialog.title "ค้นหาในหน้านี้">
 <!ENTITY findField.label "ค้นหาสิ่งใด:">
-<!ENTITY findField.accesskey "ห">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "ตัวพิมพ์ใหญ่เล็กตรงกัน">
 <!ENTITY caseSensitiveCheckbox.accesskey "ล">
 <!ENTITY wrapCheckbox.label "ปัดบรรทัดล้น">

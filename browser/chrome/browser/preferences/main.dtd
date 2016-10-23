@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
 <!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม:">
-<!ENTITY startupPage.accesskey     "ร">
+<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "แสดงหน้าแรกของฉัน">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
 <!ENTITY startupLastSession.label  "แสดงหน้าต่างและแท็บของฉันจากครั้งก่อน">
