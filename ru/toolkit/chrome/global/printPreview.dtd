@@ -7,7 +7,7 @@
 <!ENTITY pageSetup.label "Параметры…">
 <!ENTITY pageSetup.accesskey "а">
 <!ENTITY page.label "Страница:">
-<!ENTITY page.accesskey "р">
+<!ENTITY page.accesskey "и">
 <!ENTITY of.label "из">
 <!ENTITY scale.label "Масштаб:">
 <!ENTITY scale.accesskey "ш">
@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label "Сжать по размеру">
 <!ENTITY customPrompt.title "Настроить масштаб…">
 <!ENTITY simplifyPage.label "Упростить страницу">
+<!ENTITY simplifyPage.accesskey "п">
 <!ENTITY simplifyPage.enabled.tooltip "Изменить макет для облегчения её чтения">
 <!ENTITY simplifyPage.disabled.tooltip "Эта страница не может быть автоматически упрощена">
 <!ENTITY homearrow.tooltip "Первая страница">

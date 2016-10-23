@@ -46,6 +46,9 @@
 <!ENTITY options.webconsole.label "Веб-консоль">
 <!ENTITY options.timestampMessages.label "Показывать метки времени">
 <!ENTITY options.timestampMessages.tooltip "Если вы включите эту настройку, команды и вывод в Веб-консоли будут сопровождаться метками времени">
+<!ENTITY options.debugger.label "Отладчик">
+<!ENTITY options.sourceMaps.label "Включить Карты Исходников">
+<!ENTITY options.sourceMaps.tooltip "Если вы включите эту настройку, исходники будут картированы в Отладчике и Консоли.">
 <!ENTITY options.styleeditor.label "Редактор стилей">
 <!ENTITY options.stylesheetSourceMaps.label "Показывать оригинальные исходники">
 <!ENTITY options.stylesheetSourceMaps.tooltip "Показывать оригинальные исходники (напр. файлы Sass) в Редакторе стилей и Инспекторе">
