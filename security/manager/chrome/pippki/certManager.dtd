@@ -21,7 +21,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "รายละเอียด">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "ล">
 
-<!ENTITY certmgr.pending.label                "กำลังยืนยันความถูกต้องใบรับรอง…">
+<!ENTITY certmgr.pending.label                "กำลังตรวจสอบใบรับรอง…">
 <!ENTITY certmgr.subjectinfo.label            "ออกให้">
 <!ENTITY certmgr.issuerinfo.label             "ออกโดย">
 <!ENTITY certmgr.periodofvalidity.label       "ระยะเวลาความถูกต้อง" >
