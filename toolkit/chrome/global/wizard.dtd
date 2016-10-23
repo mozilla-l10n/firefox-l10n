@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "ย้อนกลับ">
-<!ENTITY  button-back-mac.accesskey    "ย">
+<!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "ดำเนินการต่อ">
 <!ENTITY  button-next-mac.accesskey    "ท">
 <!ENTITY  button-finish-mac.label      "เสร็จ">
