@@ -20,6 +20,7 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+<!ENTITY toolboxNoAutoHideTooltip      "ปิดใช้งานการซ่อนป๊อปอัปอัตโนมัติ">
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
@@ -50,7 +51,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.accesskey "ป">
+<!ENTITY options.defaultColorUnit.accesskey "U">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
