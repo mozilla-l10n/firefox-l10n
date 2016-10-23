@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_debug_label "แก้จุดบกพร่องแอพ">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">

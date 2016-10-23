@@ -7,7 +7,7 @@
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "ยินดีต้อนรับ! หากคุณไม่เคยใช้งาน &syncBrand.fullName.label; มาก่อน คุณจำเป็นต้องสร้างบัญชีใหม่">
-<!ENTITY button.createNewAccount.label "สร้างบัญชีผู้ใช้ใหม่">
+<!ENTITY button.createNewAccount.label "สร้างบัญชี">
 <!ENTITY button.haveAccount.label      "ฉันมีบัญชีผู้ใช้แล้ว">
 
 <!ENTITY setup.choicePage.title.label     "คุณเคยใช้ &syncBrand.fullName.label; มาก่อนหรือไม่?">

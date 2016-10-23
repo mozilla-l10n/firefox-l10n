@@ -4,7 +4,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "คุณไม่ได้อยู่ในหน้าต่างท่องเว็บแบบส่วนตัว">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "เปิดหน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ส">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "การท่องเว็บแบบส่วนตัว">
 <!ENTITY privateBrowsing.title.tracking                  "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการตามรอย">

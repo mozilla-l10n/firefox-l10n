@@ -5,7 +5,7 @@
 <!ENTITY  fontsDialog.title                       "แบบอักษร">
 
 <!ENTITY  language.label                          "แบบอักษรสำหรับ:">
-<!ENTITY  language.accesskey                      "แ">
+<!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "ขนาด:">
 <!ENTITY  sizeProportional.accesskey              "z">
