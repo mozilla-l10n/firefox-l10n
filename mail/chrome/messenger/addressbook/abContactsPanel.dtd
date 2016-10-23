@@ -4,11 +4,11 @@
 
 <!ENTITY addressbookPicker.label "Адресная книга:">
 <!ENTITY addressbookPicker.accesskey "е">
-<!ENTITY searchInput.label "Поиск:">
-<!ENTITY searchInput.accesskey "и">
+<!ENTITY searchContacts.label "Поиск контактов:">
+<!ENTITY searchContacts.accesskey "в">
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес">
 <!ENTITY deleteAddrBookCard.label "Удалить">
-<!ENTITY deleteAddrBookCard.accesskey "д">
+<!ENTITY deleteAddrBookCard.accesskey "л">
 <!ENTITY addrBookCardProperties.label "Свойства">
 <!ENTITY addrBookCardProperties.accesskey "в">
 <!ENTITY addtoToFieldMenu.label "Кому">
