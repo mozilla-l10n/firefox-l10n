@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Unpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Send Tab to Device">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "Send Page to Device">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Send Link to Device">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Move to New Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Show All Tabs">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Sign in to &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; preferences">
