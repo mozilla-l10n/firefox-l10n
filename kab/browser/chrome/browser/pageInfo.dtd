@@ -37,7 +37,7 @@
 <!ENTITY  mediaCount            "Amḍan">
 <!ENTITY  mediaDimension        "tisektiwin">
 <!ENTITY  mediaLongdesc         "Aglam ɣuzzifen:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "u">
 <!ENTITY  mediaSaveAs           "Sekles s yisem…">
 <!ENTITY  mediaSaveAs.accesskey "S">
 <!ENTITY  mediaSaveAs2.accesskey "y">
