@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలాన్ని బ్లాక్‌బాక్స్ చెయ్యడం ఆపు">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలాన్ని బ్లాక్‌బాక్స్ చెయ్యవద్దు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
@@ -39,11 +39,11 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-<!ENTITY debuggerUI.sources.prettyPrint "మూలాన్ని ప్రెట్టిఫై చేయి">
+<!ENTITY debuggerUI.sources.prettyPrint "మూలాన్ని ప్రెటిఫై చేయి">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "మినిఫైడ్ మూలాలను స్వయంచాలకంగా అద్బుతీకరించు">
+<!ENTITY debuggerUI.autoPrettyPrint     "మినిఫైడ్ మూలాలను స్వయంచాలకంగా ప్రెటిఫై చేయి">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -69,7 +69,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "పట్టిన ఆక్షేపణలు విస్మరించు">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "పట్టుకున్న ఆక్షేపణలను విస్మరించు">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
@@ -79,7 +79,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "వేరియబుల్స్ వడపోత పెట్టె చూపు">
+<!ENTITY debuggerUI.showVarsFilter           "వేరియబుల్స్ వడపోత పెట్టె చూపించు">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
@@ -98,7 +98,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-<!ENTITY debuggerUI.autoBlackBox           "మినిఫైడ్ మూలాలు స్వయంచాలకంగా బ్లాక్ బాక్స్ చేయి">
+<!ENTITY debuggerUI.autoBlackBox           "మినిఫైడ్ మూలాలను స్వయంచాలకంగా బ్లాక్‌బాక్స్ చేయి">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
