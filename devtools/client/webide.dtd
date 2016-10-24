@@ -2,10 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_debug_label "แก้จุดบกพร่องแอพ">
+<!ENTITY projectMenu_remove_label "เอาโครงการออก">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
 <!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
@@ -16,6 +18,7 @@
 
 <!ENTITY viewMenu_label "ดู">
 <!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "เปิด/ปิดตัวแก้ไข">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ซูมเข้า">
 <!ENTITY viewMenu_zoomout_label "ซูมออก">
