@@ -46,7 +46,7 @@
 <!ENTITY netReset.title "Tenging slitnaði">
 <!ENTITY netReset.longDesc "<p>Net rofnaði meðan verið var að semja um tengingu. Reynið aftur.</p>">
 
-<!ENTITY netTimeout.title "Tengitími rann út">
+<!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
 <!ENTITY netTimeout.longDesc "<p>Umbeðið vefsvæði svaraði ekki tengingu og vafrinn hætti að bíða eftir svari.</p><ul><li>Getur verið að svæðið sé í mikilli notkun eða sé niðri tímabundið?  Reyndu aftur seinna.</li><li>Geturðu haft samband við önnur svæði? Athugaðu nettengingu tölvunnar.</li><li>Er tölvan eða netið varið af eldvegg eða milliþjóni?  Rangar stillingar geta haft áhrif á vafra.</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Óþekkt samskiptaregla">
