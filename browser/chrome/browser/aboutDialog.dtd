@@ -44,6 +44,7 @@
 <!ENTITY helpus.getInvolvedLink     "যোগদান করুন!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "নতুন কি">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "লাইসেন্স সংক্রান্ত তথ্য">
@@ -62,7 +63,7 @@
 <!ENTITY update.adminDisabled       "সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা আপডেট প্রাপ্তি নিষ্ক্রিয় করা হয়েছে">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; আরেকটি প্রতিলিপিতে আপডেট হচ্ছে ">
-
+<!ENTITY update.restarting          "পুনরারম্ভ…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

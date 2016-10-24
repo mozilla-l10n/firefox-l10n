@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "আর্কাইভ পিং ডেটা">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "পিং ডাটা পরিদর্শন:">
 
+<!ENTITY aboutTelemetry.structured "কাঠামোবদ্ধ">
 
+<!ENTITY aboutTelemetry.raw "র JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "subsession তথ্য প্রদর্শন করা হোক">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "পুরন পিং &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "র পিং ডাটা…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "সপ্তাহ">
 
@@ -48,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "থ্রেড হ্যাং">
 
+<!ENTITY aboutTelemetry.scalarsSection "  স্কেলারস">
 
 <!ENTITY aboutTelemetry.histogramsSection "স্তম্ভচিত্র">
 
@@ -59,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "লেট রাইটস্">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  সেশন সংক্রান্ত তথ্য">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "অ্যাড-অনস দ্বারা সংগৃহীত স্তম্ভচিত্র">
 
@@ -74,4 +80,6 @@
 
 <!ENTITY aboutTelemetry.filterText "ফিল্টার (স্ট্রিং অথবা /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  পে-লোড">
 
+<!ENTITY aboutTelemetry.rawPayload "  র পে-লোড">
