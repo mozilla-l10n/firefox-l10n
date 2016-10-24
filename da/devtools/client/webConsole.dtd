@@ -37,7 +37,7 @@
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Sikkerhed">
 <!ENTITY btnPageSecurity.tooltip "Logfør sikkerhedsfejl og -advarsler">
-<!ENTITY btnPageSecurity.accesskey "S">
+<!ENTITY btnPageSecurity.accesskey "K">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
