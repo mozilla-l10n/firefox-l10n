@@ -69,6 +69,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "แสดงใน Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "เปิดโฟลเดอร์">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกเปลี่ยนแปลง">
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
