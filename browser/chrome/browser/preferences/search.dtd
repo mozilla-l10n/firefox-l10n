@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Hokku wasiyaaji njiilaw">
 <!ENTITY provideSearchSuggestions.accesskey    "w">
 
-
+<!ENTITY showURLBarSuggestions.label           "Hollu basiye njiilaw e njaltudi palal nokkuure">
+<!ENTITY showURLBarSuggestions.accesskey       "n">
 
 
 
