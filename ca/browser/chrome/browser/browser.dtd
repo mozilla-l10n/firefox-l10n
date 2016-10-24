@@ -222,7 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestiona la traducció de pàgines">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
 
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a aquest lloc web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a aquest lloc web.">
 
 
 
@@ -452,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Canvia els paràmetres de cerca">
-
+<!ENTITY changeSearchSettings.tooltip "Canvia els paràmetres de cerca">
 
 <!ENTITY searchInNewTab.label         "Cerca en una pestanya nova">
 <!ENTITY searchInNewTab.accesskey     "t">
