@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Er filen blevet omdøbt, fjernet eller flyttet?</li><li>Er der en stave- eller typografisk fejl i adressen? (Bemærk, at nogle servere behandler store og små bogstaver forskelligt)</li><li>Har du passende adgangstilladelse til den specifikke fil?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan være blevet slettet, flyttet eller fil-tilladelserne kan forhindre adgang.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan være blevet slettet, flyttet eller tilladelserne for filen kan forhindre adgang.</li></ul>">
 
 <!ENTITY generic.title "Kan ikke færdiggøre forespørgsel">
 <!ENTITY generic.longDesc "<p>Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.<br/>Kontrollèr, at navnet og stien er rigtig.</p>">
