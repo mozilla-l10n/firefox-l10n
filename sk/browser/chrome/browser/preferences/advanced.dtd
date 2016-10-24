@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Ďalšie informácie">
 
-<!ENTITY crashReporterDesc2.label         "Správy o zlyhaní pomáhajú spoločnosti &vendorShortName; opravovať chyba a robiť prehliadač stabilnejším a bezpečnejším">
+<!ENTITY crashReporterDesc2.label         "Správy o zlyhaní pomáhajú spoločnosti &vendorShortName; opravovať chyby a robiť prehliadač stabilnejším a bezpečnejším">
 <!ENTITY alwaysSubmitCrashReports.label   "Povoliť prehliadaču &brandShortName; odosielať vo vašom mene správy o zlyhaní">
 <!ENTITY alwaysSubmitCrashReports.accesskey "p">
 <!ENTITY crashReporterLearnMore.label     "Ďalšie informácie">
