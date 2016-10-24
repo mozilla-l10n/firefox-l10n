@@ -40,7 +40,7 @@
 
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "पज">
+<!ENTITY cmd.pause.label                  "रोक्नुहोस्">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "पुनः निरन्तरता दिनुहोस्">
 <!ENTITY cmd.resume.accesskey             "R">
