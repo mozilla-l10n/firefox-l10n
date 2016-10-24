@@ -14,7 +14,8 @@
 <!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें (B)">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-
+<!ENTITY  blockDownloads.label            "खतरनाक डाउनलोड बाधित करें ">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonUnwanted.label     "मुझे अनचाहे एवं असामान्य सॉफ्टवेर के बारे में चेतावनी दें">
 <!ENTITY  blockUncommonUnwanted.accesskey "c">

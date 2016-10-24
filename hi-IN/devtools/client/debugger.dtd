@@ -165,6 +165,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
+<!ENTITY debuggerUI.seEditMenuCondBreak     "प्रतिबंधात्मक विरामबिंदु संपादित करें ">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "बी ">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 

@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "त्रिपक्षीय कुकीज़ स्वीकारें:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
 <!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण किए हुए से">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्स…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "आधान टैब">
+<!ENTITY  browserContainersLearnMore.label      "और जानें">
+<!ENTITY  browserContainersEnabled.label        "आधान टैब चालू करें ">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

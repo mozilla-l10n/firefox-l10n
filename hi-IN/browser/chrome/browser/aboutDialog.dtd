@@ -20,7 +20,7 @@
 <!ENTITY warningDesc.telemetryDesc  "यह अपने आप प्रदर्शन, हार्डवेयर, प्रयोग और मनपसंदीकरण के बारे में &vendorShortName; को सूचना भेजता है ताकि &brandShortName; को बेहतर बनाया जा सके">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "‌">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  " &vendorShortName;">
 <!ENTITY community.exp.middle       "एक है">
@@ -72,7 +72,7 @@
 
 <!ENTITY update.failed.start        "अद्यतन विफल. ">
 <!ENTITY update.failed.linkText     " नवीनत संस्करण डाउनलोड करें">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "‌‌‌‌">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
@@ -89,7 +89,7 @@
 
 <!ENTITY update.unsupported.start    "आप इस तंत्र पर आगे अद्यतन नहीं कर सकते हैं. ">
 <!ENTITY update.unsupported.linkText "अधिक जानें.">
-<!ENTITY update.unsupported.end      "">
+<!ENTITY update.unsupported.end      "‌‌‌‌‌">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -97,7 +97,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "अद्यतन डाउनलोड कर रहा है — ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "‌">
 
 <!ENTITY update.applying            " अद्यतन लागू कर रहा है…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
