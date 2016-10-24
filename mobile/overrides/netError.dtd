@@ -45,7 +45,7 @@
 <!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Den kan være blevet slettet, flyttet eller fil-tilladelserne kan forhindre adgang.</li>
+  <li>Den kan være blevet slettet, flyttet eller tilladelserne for filen kan forhindre adgang.</li>
 </ul>
 ">
 
