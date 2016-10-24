@@ -35,11 +35,11 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-<!ENTITY debuggerUI.sources.blackBoxTooltip "బ్లాక్ బాక్సింగ్ మార్చు">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "బ్లాక్‌బాక్సింగ్ మార్చు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-<!ENTITY debuggerUI.sources.prettyPrint "మూలం ప్రెట్టిఫై చేయి">
+<!ENTITY debuggerUI.sources.prettyPrint "మూలాన్ని ప్రెట్టిఫై చేయి">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
@@ -86,13 +86,13 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-<!ENTITY debuggerUI.showOnlyEnum           "ఎన్యూమరబుల్ లక్షణాలను మాత్రమే చూపు">
+<!ENTITY debuggerUI.showOnlyEnum           "ఎన్యూమరబుల్ లక్షణాలను మాత్రమే చూపించు">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource           "వాస్తవ మూలాలను చూపు">
+<!ENTITY debuggerUI.showOriginalSource           "అసలు మూలాలను చూపించు">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
@@ -107,7 +107,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "వడపోత స్క్రిప్టులు">
+<!ENTITY debuggerUI.searchFile           "స్క్రిప్టుల వడపోత">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
@@ -120,7 +120,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
-<!ENTITY debuggerUI.searchFunction           "ఫంక్షన్ నిర్వచనం కొరకు శోధించు">
+<!ENTITY debuggerUI.searchFunction           "ఫంక్షన్ నిర్వచనం కొరకు వెతుకు">
 <!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 
@@ -170,26 +170,26 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-<!ENTITY debuggerUI.tabs.workers        "వర్కర్స్">
+<!ENTITY debuggerUI.tabs.workers        "వర్కర్లు">
 <!ENTITY debuggerUI.tabs.sources        "మూలాలు">
-<!ENTITY debuggerUI.tabs.traces         "ట్రేస్‌లు">
+<!ENTITY debuggerUI.tabs.traces         "ట్రేసులు">
 <!ENTITY debuggerUI.tabs.callstack      "కాల్ స్టాక్">
 <!ENTITY debuggerUI.tabs.variables      "వేరియబుల్స్">
 <!ENTITY debuggerUI.tabs.events         "ఘటనలు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch      "ఎక్సుప్రెషన్ వాచ్ చేయుటకు ఎంపిక">
+<!ENTITY debuggerUI.seMenuAddWatch      "ఎంపిక నుండి వాచ్ వ్యక్తీకరణ">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
-<!ENTITY debuggerUI.addWatch            "వాచ్ యెక్సుప్రెషన్ జతచేయి">
+<!ENTITY debuggerUI.addWatch            "వాచ్ వ్యక్తీకరణను చేర్చు">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch           "అన్ని వాచ్ యెక్సుప్రెషన్లను తీసివేయి">
+<!ENTITY debuggerUI.removeAllWatch           "వాచ్ వ్యక్తీకరణలన్నింటినీ తీసివేయి">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 
