@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Prikaži informacije stranice">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvori panel s porukama">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori panel sa zahtjevima lokacije">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori panel s porukama instalacije add-ona">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori panel s porukama offline pohrane">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori panel s porukama o spašenim lozinkama">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem plugina">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijenite da li možete primati obavještenja sa stranice">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dijeljenjem vaših prozora ili ekrana sa stranicom">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Otvori panel s instalacijskim porukama">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi ovu stranicu">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prijevodom stranica">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte upotrebom DRM softvera">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Blokirali ste vašu kameru za ovu web stranicu.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Blokirali ste vaš mikrofon za ovu web stranicu.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Blokirali ste dijeljenje vašeg ekrana ovoj web stranici.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Blokirali ste lokacijske informacije za ovu web stranicu.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Blokirali ste pohranjivanje podataka za ovu web stranicu.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokirali ste notifikacije za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Resetuj stepen zumiranja">
 
 <!ENTITY searchItem.title             "Traži">
 <!-- Toolbar items --> 
