@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "অনান্য ট্যাব গ্রুপ গুলি অভিপ্রয়াণ করুন ">
+<!ENTITY tabgroupsmigration.pagetitle2          "আমরা ট্যাব দল মুছে ফেলেছি, কিন্তু আপনার ট্যাব সংরক্ষণ করেই">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "জানুন ট্যাব গ্রুপ প্রতিস্থাপন অ্যাড অন গুলি সম্পরকে ">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; আপনার সমস্ত বুকমার্কসমূহ যাতে আপনি আপনার কোনোকিছু হারাতে না পারেন।">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "বুকমার্ক করা ট্যাব গ্রুপগুলি দেখান">
+<!ENTITY tabgroupsmigration.restoredescription  "আপনি বাছতে পারেন পুনরুদ্ধার করার কিছু অথবা সবকটা পটভূমি দলগুলি উইন্ডোজে এখনিঃ">
 
