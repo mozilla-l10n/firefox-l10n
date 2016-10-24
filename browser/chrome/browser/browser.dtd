@@ -224,14 +224,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Səhifə tərcüməsini idarə et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM proqramının istifadəsini idarə et">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı bloklamısınız.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt üçün mikrofonunuzu bloklamısınız.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bu saytı ekranınızı paylaşmaqdan bloklamısınız.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt üçün məkan məlumatlarını bloklamısınız.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt üçün məlumat saxlanmasını bloklamısınız.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sayt üçün bildirişləri bloklamısınız.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixçəni göstər">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Yaxınlaşdırma ölçüsünü sıfırlayın">
 
 <!ENTITY searchItem.title             "Axtar">
 <!-- Toolbar items --> 
@@ -454,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Axtarış Tənzimləmələrini Dəyiş">
-
+<!ENTITY changeSearchSettings.tooltip "Axtarış tənzimləmələrinizi dəyişdir">
 
 <!ENTITY searchInNewTab.label         "Yeni vərəqdə axtar">
 <!ENTITY searchInNewTab.accesskey     "v">
@@ -733,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Səlahiyyətlər">
 <!ENTITY identity.permissionsEmpty "Bu sayta heç bir xüsusi icazə verməmisiniz.">
-
+<!ENTITY identity.permissionsReloadHint "Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
