@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip "మూయి">
+<!ENTITY debuggerUI.closeButton.tooltip "మూసివేయి">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -22,12 +22,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "ఈ మూలం బ్లాక్ బాక్స్ అయినది: దీని బ్రేక్‌పాయింట్లు అచేతనమైనవి, స్టెప్పింగ్ దాని నుండి వెళ్ళిపోతోంది.">
+<!ENTITY debuggerUI.blackBoxMessage.label "ఈ మూలం బ్లాక్‌బాక్స్ చేయబడింది: దీని బ్రేక్‌పాయింట్లు అచేతనమైనవి, స్టెప్పింగ్ దీని గుండా వెళ్ళదు.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలం బ్లాక్ బాక్సింగ్ ను ఆపు">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "ఈ మూలాన్ని బ్లాక్‌బాక్స్ చెయ్యడం ఆపు">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
@@ -56,15 +56,15 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
-<!ENTITY debuggerUI.clearButton "చెరిపివేయి">
+<!ENTITY debuggerUI.clearButton "తుడిచివేయి">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
-<!ENTITY debuggerUI.clearButton.tooltip "సేకరించిన ట్రేస్‌లు తొలగించు">
+<!ENTITY debuggerUI.clearButton.tooltip "సేకరించిన ట్రేసులను తుడిచివేయి">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions           "ఆక్షేపణల పై నిలుపుదల">
+<!ENTITY debuggerUI.pauseExceptions           "ఆక్షేపణలు వచ్చినపుడు ఆపు">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
@@ -74,7 +74,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
-<!ENTITY debuggerUI.showPanesOnInit           "ప్రారంభం నందు పేన్‌లను చూపు">
+<!ENTITY debuggerUI.showPanesOnInit           "మొదలపైనప్పుడు పేన్లను చూపు">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
@@ -114,7 +114,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal           "అన్ని ఫైళ్ళలో శోధించు">
+<!ENTITY debuggerUI.searchGlobal           "అన్ని ఫైళ్ళలో వెతుకు">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 
@@ -150,7 +150,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "ఈ కింది ఎక్సుప్రెషన్ true అయితే మాత్రమే ఈ బ్రేక్‌పాయింట్ అనునది నిర్వర్తనాన్ని అపుతుంది">
+<!ENTITY debuggerUI.condBreakPanelTitle "ఈ కింది వ్యక్తీకరణ ఒప్పు అయినప్పుడు మాత్రమే ఈ బ్రేక్‌పాయింట్ పనిచేస్తుంది">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
@@ -165,7 +165,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-<!ENTITY debuggerUI.seEditMenuCondBreak     "నియంత్రణ బ్రేక్‌పాయింట్ సరిచేయి">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "షరతుల బ్రేక్‌పాయింటును సరిదిద్దు">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
@@ -215,6 +215,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
-<!ENTITY debuggerUI.context.copyUrl           "URL కాపీ చేయి">
+<!ENTITY debuggerUI.context.copyUrl           "URL కాపీచేయి">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "C">
 <!ENTITY debuggerUI.context.copyUrl.key "C">
