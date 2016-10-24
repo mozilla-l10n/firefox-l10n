@@ -186,9 +186,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Andre bogmærker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 <!ENTITY showRecentlyBookmarked.label     "Vis de seneste bogmærker">
-<!ENTITY showRecentlyBookmarked.accesskey "s">
-<!ENTITY hideRecentlyBookmarked.label     "Skjul seneste bogmærker">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
+<!ENTITY showRecentlyBookmarked.accesskey "d">
+<!ENTITY hideRecentlyBookmarked.label     "Skjul de seneste bogmærker">
+<!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Tilbage">
 <!ENTITY backButton.tooltip           "Gå en side tilbage">
