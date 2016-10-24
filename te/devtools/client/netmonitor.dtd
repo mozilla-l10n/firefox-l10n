@@ -199,7 +199,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
-<!ENTITY netmonitorUI.timings.connect     "అనుసంధానించుతోంది…">
+<!ENTITY netmonitorUI.timings.connect     "అనుసంధానించడం:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
@@ -209,12 +209,12 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
-<!ENTITY netmonitorUI.timings.wait        "వేచిచూస్తోంది:">
+<!ENTITY netmonitorUI.timings.wait        "వేచిచూడడం:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
-<!ENTITY netmonitorUI.timings.receive     "స్వీకరిస్తున్నది:">
+<!ENTITY netmonitorUI.timings.receive     "అందుకోవడం:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
