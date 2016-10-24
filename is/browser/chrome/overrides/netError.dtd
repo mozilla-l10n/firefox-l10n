@@ -51,7 +51,7 @@
 <!ENTITY netReset.title "Tenging slitnaði">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Tengitími rann út">
+<!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Óþekkt samskiptaregla">
