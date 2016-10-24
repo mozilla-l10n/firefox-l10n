@@ -56,7 +56,7 @@
 <!ENTITY  keepUntil.accesskey           "G">
 
 <!ENTITY  expire.label                  "expirarem">
-<!ENTITY  close.label                   "Eu fechar o &brandShortName;">
+<!ENTITY  close.label                   "eu fechar o &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Exceções…">
 <!ENTITY  cookieExceptions.accesskey    "E">
