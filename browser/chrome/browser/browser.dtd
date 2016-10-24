@@ -566,7 +566,7 @@ items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "प्ले">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "पज">
+<!ENTITY mediaPause.label            "रोक्नुहोस्">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu

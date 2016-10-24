@@ -158,7 +158,7 @@
 <!ENTITY rating2.label                        "रेटिङ">
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "पज">
+<!ENTITY progress.pause.tooltip               "रोक्नुहोस्">
 <!ENTITY progress.cancel.tooltip              "रद्द गर्नुहोस्">
 <!-- list sorting -->
 
