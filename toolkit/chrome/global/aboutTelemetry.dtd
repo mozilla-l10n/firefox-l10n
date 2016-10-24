@@ -24,7 +24,7 @@
 
 <!ENTITY aboutTelemetry.structured "నిర్మితీకృత">
 
-<!ENTITY aboutTelemetry.raw "రా JSON">
+<!ENTITY aboutTelemetry.raw "ముడి JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "ఉప సెషన్ డేటా చూపించు">
 
