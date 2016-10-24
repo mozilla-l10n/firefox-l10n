@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "பக்கத்தை ஏற்றுவதில் சிக்கல்">
 <!ENTITY retry.label "மீண்டும் முயற்சிக்கவும்">
-
-
+<!ENTITY returnToPreviousPage.label "பின்செல்">
+<!ENTITY advanced.label "மேம்பட்ட">
 <!-- Specific error messages -->
 
 
@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalization or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "கோப்பு அணுகல் மறுக்கப்பட்டது">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>கோப்பு நீக்கப்பட்டிருக்கலாம், நகர்த்தப்பட்டிருக்கலாம் அல்லது அனுமதி மறுக்கப்பட்டிருக்கலாம்</li> </ul>">
 
 <!ENTITY generic.title "அச்சச்சோ.">
 <!ENTITY generic.longDesc "<p>சில காரணங்களால் &brandShortName; ஆல் இந்த பக்கத்தை ஏற்ற முடியாது.</p>">
@@ -70,6 +71,7 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>பெறப்பட்ட தரவின் அங்கீகாரத்தன்மையை சரிபார்க்க முடியாததால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</li> <li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கலை தெரிவிக்கவும்.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -93,18 +95,23 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "பாதுகாப்பாக இணைக்க இயலவில்லை">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "அதிக தகவல்: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "மேம்பட்ட தகவல்: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "மேம்பட்டது">
 
-
-
+<!ENTITY weakCryptoAdvanced.override "(பாதுகாப்பற்றதா) ஏற்ற முயற்சிக்கவும் <span class='hostname'></span> காலாவதியான பாதுகாப்பை பயன்படுத்துகிறது">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "பாதுகாப்பற்ற இணைப்பு">
 
+<!ENTITY certerror.copyToClipboard.label "உரையை ஒட்டுப்பலகைக்கு நகலெடு">
 
-
+<!ENTITY inadequateSecurityError.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
