@@ -40,8 +40,8 @@
 
 <!ENTITY translateWebPages.label      "Перекладати веб вміст">
 <!ENTITY translateWebPages.accesskey  "П">
-<!ENTITY translateExceptions.label    "Виключення…">
-<!ENTITY translateExceptions.accesskey "л">
+<!ENTITY translateExceptions.label    "Винятки…">
+<!ENTITY translateExceptions.accesskey "н">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

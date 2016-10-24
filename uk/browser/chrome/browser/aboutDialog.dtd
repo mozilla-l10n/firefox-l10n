@@ -31,7 +31,7 @@
 <!ENTITY community.start2           "&brandShortName; був розроблений в ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " — ">
+<!ENTITY community.middle2          " - ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобальній спільноті">
 <!ENTITY community.end3             ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
