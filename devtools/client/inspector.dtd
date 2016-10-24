@@ -13,8 +13,15 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!ENTITY inspectorAddNode.label       "नया नोड बनाएँ">
+<!ENTITY inspectorAddNode.accesskey   "C">
 <!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
      a button in the inspector which toggles the Eyedropper tool -->
+
+
+<!ENTITY inspectorEyeDropper.label       "पृष्ठ से एक रंग लें ">
 <!-- LOCALIZATION NOTE (inspectorBreadcrumbsGroup): A string visible only to a
      screen reader and is used to label (using aria-label attribute) a container
      for inspector breadcrumbs -->
+
+<!ENTITY inspectorBreadcrumbsGroup       "गहराईयाँ ">

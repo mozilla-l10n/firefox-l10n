@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "फ़ाइल नहीं मिली त्रुटि">
 <!ENTITY fileNotFound.longDesc "<ul><li>क्या आइटम के नाम को बदला गया है, हटाया गया, अथवा स्थान बदला गया?</li><li>क्या पते में किसी स्पेलिंग, बड़े अक्षर, अथवा अन्य टाइपो की त्रुटि है</li><li>क्या अनुरोध के संबंध में आप को पहुँच की पूरी अनुमति प्राप्त है </li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "फ़ाइल तक पहुँच रद्द की गयी">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>यह हटाया, खिसकाया गया हो सकता है या फ़ाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li></ul>">
 
 <!ENTITY generic.title "आग्रह पूरा नहीं कर सकता">
 <!ENTITY generic.longDesc "<p>इस समस्या या त्रुटि के बारे में अतिरिक्त जानकारी अभी अनुपलब्ध है.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट स्वामी को इस समस्या के बारे में सूचित करने के संपर्क करें.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "आपका संपर्क सुरक्षित नही है">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> सुरक्षा तकनीक का उपयोग करता है जो पुराना और आक्रमण हेतु भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है जिसे आप सुरक्षित समझते हैं. वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करना होगा.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

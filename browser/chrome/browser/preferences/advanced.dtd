@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "और जानें">
 
-
-
+<!ENTITY crashReporterDesc2.label         "क्रेश विवरण &vendorShortName; समस्याएँ ठीक करने और आपके ब्राउज़र को ज्यादा स्थायी और सुरक्षित रखने में मदद करता है ">
+<!ENTITY alwaysSubmitCrashReports.label   "आपके निमित्त कार्यसंचित क्रेश विवरण भेजने हेतु &brandShortName; को अनुमति दें">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "और जानें">
 
 <!ENTITY networkTab.label                "संजाल">

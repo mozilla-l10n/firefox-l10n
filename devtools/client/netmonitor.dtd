@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• पर क्लिक करें">
 <!ENTITY netmonitorUI.perfNotice2         "यह बटन प्रदर्शन के विश्लेषण शुरू करने के लिए.">
-
+<!ENTITY netmonitorUI.perfNotice3         "विश्लेषण">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
@@ -40,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "डोमेन">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "कारण">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -124,6 +126,8 @@
 <!ENTITY netmonitorUI.footer.filterFlash  "फ्लैश">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
   -  in the network details footer for the "WS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterWS  "डब्ल्यूएस">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
