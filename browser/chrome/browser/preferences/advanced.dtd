@@ -40,9 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "Z">
 <!ENTITY telemetryLearnMore.label        "Weitere Informationen">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; übermittelt Absturzberichte, um &vendorShortName; dabei zu helfen, den Browser stabiler und sicherer zu machen.">
-<!ENTITY enableCrashReporter.label       "Absturzmelder aktivieren">
-<!ENTITY enableCrashReporter.accesskey   "A">
+<!ENTITY crashReporterDesc2.label         "Absturzberichte helfen &vendorShortName; dabei, Probleme zu beheben und den Browser stabiler und sicherer zu machen.">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; erlauben, bislang nicht gesendete Absturzberichte zu übermitteln">
+<!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label    "Weitere Informationen">
 
 <!ENTITY networkTab.label                "Netzwerk">
