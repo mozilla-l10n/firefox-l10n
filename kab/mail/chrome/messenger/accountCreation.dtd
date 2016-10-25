@@ -41,8 +41,8 @@
 <!ENTITY advancedSetup.accesskey         "q">
 <!ENTITY cancel.label                    "Sefsex">
 <!ENTITY cancel.accesskey                "S">
-<!ENTITY continue.label                  "Ɣlel">
-<!ENTITY continue.accesskey              "Ɣ">
+<!ENTITY continue.label                  "Kemmel">
+<!ENTITY continue.accesskey              "K">
 <!ENTITY stop.label                      "Rken">
 <!ENTITY stop.accesskey                  "R">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
