@@ -103,5 +103,5 @@
 <!ENTITY languages.customize.Fallback.turkish     "Turcu">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamés">
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamita">
 <!ENTITY languages.customize.Fallback.other       "Otros (incl. européu occidental)">

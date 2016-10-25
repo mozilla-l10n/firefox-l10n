@@ -106,6 +106,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
 <!ENTITY  browserContainersHeader.label         "Llingüetes contenedores">
-<!ENTITY  browserContainersLearnMore.label      "Deprendi más">
+<!ENTITY  browserContainersLearnMore.label      "Depriendi más">
 <!ENTITY  browserContainersEnabled.label        "Habilitar llingüetes contenedores">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

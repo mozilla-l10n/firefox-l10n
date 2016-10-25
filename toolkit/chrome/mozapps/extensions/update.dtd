@@ -12,8 +12,8 @@
 <!ENTITY  offline.toggleOffline.accesskey "P">
 
 <!ENTITY  mismatch.win.title              "Complementos incompatibles">
-<!ENTITY  mismatch.top.label              "Los siguientes complementos nun son compatibles con esta versión de
-                                           &brandShortName; y desactiváronse:">
+<!ENTITY  mismatch.top.label              "Los add-ons de darréu nun son compatibles con esta versión de
+                                           &brandShortName; y deshabilitáronse:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; pue comprobar si hai versiones compatibles
                                            disponibles d'estos complementos.">
 
@@ -41,10 +41,10 @@
 
 <!ENTITY  finished.wizard.title           "Complementos compatibles instalaos">
 <!ENTITY  finished.top.label              "&brandShortName; instaló los anovamientos a los tos complementos.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; pue guetar davezu ya informate
-                                           cuandu alcuentre anovamientos pa los complementos.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; va guetar periódicamente ya informaráte
-                                           cuandu alcuentre anovamientos pa los complementos.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; pue comprobar davezu ya informate
+                                           cuando s'alcuentren anovamientos p'add-ons.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; comprobará davezu ya informaráte
+                                           cuando s'alcuentren anovamientos p'add-ons.">
 
 <!ENTITY  adminDisabled.wizard.title      "Nun puen comprobase anovamientos">
 <!ENTITY  adminDisabled.warning.label     "Nun ye dable guetar anovamientos de los complementos incompatibles
@@ -62,5 +62,5 @@
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Calca Finar pa siguir aniciando &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Calca Fináu pa siguir aniciando &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Calca Fecho pa siguir aniciando &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir a &brandShortName; guetar anovamientos.">
