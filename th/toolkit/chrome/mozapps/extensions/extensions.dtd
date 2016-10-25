@@ -96,8 +96,8 @@
 <!ENTITY cmd.askToActivate.tooltip            "ถามเพื่อใช้ส่วนเสริมนี้ในแต่ละครั้ง">
 <!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานตลอด">
 <!ENTITY cmd.alwaysActivate.tooltip           "เปิดใช้ส่วนเสริมนี้ตลอด">
-<!ENTITY cmd.neverActivate.label              "ไม่เปิดใช้งาน">
-<!ENTITY cmd.neverActivate.tooltip            "ไม่เปิดใช้ส่วนเสริมนี้">
+<!ENTITY cmd.neverActivate.label              "ไม่เปิดใช้งานเสมอ">
+<!ENTITY cmd.neverActivate.tooltip            "ไม่ใช้ส่วนเสริมนี้เสมอ">
 <!ENTITY cmd.stateMenu.tooltip                "เปลี่ยนเมื่อส่วนเสริมนี้ทำงาน">
 <!ENTITY cmd.installAddon.label               "ติดตั้ง">
 <!ENTITY cmd.installAddon.accesskey           "ต">
