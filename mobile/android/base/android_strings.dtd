@@ -464,8 +464,11 @@ size. -->
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY print "Cetak">
 <!ENTITY find_in_page "Temukan di laman">
+<!ENTITY desktop_mode "Minta situs desktop">
 <!ENTITY page "Laman">
 <!ENTITY tools "Alat">
+<!ENTITY new_tab "Tab baru">
+<!ENTITY new_private_tab "Tab pribadi baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
 <!ENTITY close_private_tabs "Tutup Tab Pribadi">
 <!ENTITY tabs_normal "Tab">
@@ -476,6 +479,7 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Temukan di Laman">
 <!ENTITY find_prev "Sebelumnya">
 <!ENTITY find_next "Selanjutnya">
 <!ENTITY find_close "Tutup">
@@ -574,9 +578,11 @@ size. -->
 <!ENTITY home_title "Beranda &brandShortName;">
 <!ENTITY home_history_title "Riwayat">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_history_back_to2 "Kembali ke Riwayat lengkap">
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat Anda?">
 <!ENTITY home_bookmarks_empty "Markah yang disimpan akan tampil di sini.">
+<!ENTITY home_closed_tabs_title2 "Baru saja ditutup">
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Situs yang sering dikunjungi terakhir akan tampil di sini.">
@@ -639,6 +645,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Anda telah menonaktifkan perlindungan dari konten tidak aman.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Perlindungan Pelacakan">
 <!ENTITY doorhanger_tracking_state_enabled "Aktif">
 <!ENTITY doorhanger_tracking_state_disabled "Dinonaktifkan">
 <!ENTITY doorhanger_tracking_message_enabled1 "Percobaan untuk melacak perilaku daring Anda telah diblokir.">
@@ -803,9 +810,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; sudah dalam versi terbaru">
 <!ENTITY whatsnew_notification_summary "Lihat apa yang baru pada versi ini">
 
+<!ENTITY promotion_add_to_homescreen "Tambahkan ke layar beranda">
 
 <!ENTITY helper_first_offline_bookmark_title "Baca luring">
 
 
+<!ENTITY activity_stream_topsites "Situs Teratas">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
