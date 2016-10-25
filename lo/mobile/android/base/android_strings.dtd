@@ -189,15 +189,15 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໄຊຕ໌ເຂົ້າໄປໃນລາຍການຂອງຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງການຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນໄປແຕະທີ່ໄອຄອນ &formatI;">
+<!ENTITY pref_search_hint2 "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໄຊທເຂົ້າໄປໃນລາຍການຂອງຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງການຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນໄປແຕະທີ່ໄອຄອນ &formatI;">
 <!ENTITY pref_category_advanced "ຂັ້ນສູງ">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ກູ້ຄືນແທັບ, ຜູ້ຝາກຂໍ້ມູນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
 <!ENTITY pref_category_notifications "ການແຈ້ງເຕືອນ">
-<!ENTITY pref_category_notifications_summary "ຄຸນລັກສະນະໃຫມ່, ການອັບເດດເວັບໄຊຕ໌">
-<!ENTITY pref_content_notifications "ການອັບເດດເວັບໄຊຕ໌">
+<!ENTITY pref_category_notifications_summary "ຄຸນລັກສະນະໃຫມ່, ການອັບເດດເວັບໄຊທ">
+<!ENTITY pref_content_notifications "ການອັບເດດເວັບໄຊທ">
 <!ENTITY pref_content_notifications_summary2 "ຄົ້ນພົບເນື້ອຫາໃຫມ່ຈາກເວັບທີ່ໄດ້ຮັບການຮັບຮອງ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກທາງໄກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກທາງໄກຜ່ານທາງ Wi-Fi">
@@ -323,7 +323,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "ອັບເດດເວັບໄຊຕ໌ &formatD;">
+<!ENTITY content_notification_title_plural "ອັບເດດເວັບໄຊທ &formatD;">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "ການຕັ້ງຄ່າ">
@@ -465,7 +465,7 @@ size. -->
 <!ENTITY save_as_pdf "ບັກທຶກເປັນ PDF">
 <!ENTITY print "ພິມ">
 <!ENTITY find_in_page "ຄົ້ນຫາໃນຫນ້ານີ້">
-<!ENTITY desktop_mode "ຂໍນຳໃຊ້ເວັບໄຊຕ໌ສຳລັບເດສກ໌ທັອບ">
+<!ENTITY desktop_mode "ຂໍນຳໃຊ້ເວັບໄຊທສຳລັບເດສທັອບ">
 <!ENTITY page "ຫນ້າ">
 <!ENTITY tools "ເຄື່ອງມື">
 <!ENTITY new_tab "ແທັບໃຫມ່">
@@ -504,8 +504,8 @@ size. -->
 <!ENTITY contextmenu_subscribe "ເປັນສະມາຊິກຫນ້ານີ້">
 <!ENTITY contextmenu_site_settings "ແກ້ໄຂການຕັ້ງຄ່າເວັບໃຊ້">
 <!ENTITY contextmenu_top_sites_edit "ແກ້ໄຂ">
-<!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊຕ໌">
-<!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊຕ໌">
+<!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊທ">
+<!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊທ">
 <!ENTITY contextmenu_add_search_engine "ເພີ່ມລະບົບການຊອກຫາ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "ການຄົ້ນຫາແບບເຕັມຈໍ">
-<!ENTITY pref_scroll_title_bar_summary2 "ເຊື່ອງ &brandShortName; ແຖບຫົວຂໍ້ເມື່ອເລື່ອນຫນ້າເວັບໄຊຕ໌ລົງ.">
+<!ENTITY pref_scroll_title_bar_summary2 "ເຊື່ອງ &brandShortName; ແຖບຫົວຂໍ້ເມື່ອເລື່ອນຫນ້າເວັບໄຊທລົງ.">
 
 <!ENTITY pref_tab_queue_title3 "ຄິວແທັບ">
 <!ENTITY pref_tab_queue_summary4 "ບັນທຶກໄວ້ຈົນກະທັ້ງທ່ານເປີດໃນຄັ້ງຕໍ່ໄປ &brandShortName;">
@@ -539,7 +539,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "ຫນ້າເວັບໄຊຕ໌ໄດ້ຖືກລົບອອກແລ້ວ">
+<!ENTITY page_removed "ຫນ້າເວັບໄຊທໄດ້ຖືກລົບອອກແລ້ວ">
 
 <!ENTITY bookmark_edit_title "ແກ້ໄຂບຸກມາກສ໌">
 <!ENTITY bookmark_edit_name "ຊື່">
@@ -548,7 +548,7 @@ size. -->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "ການຕັ້ງຄ່າເວັບໄຊຕ໌">
+<!ENTITY site_settings_title3       "ການຕັ້ງຄ່າເວັບໄຊທ">
 <!ENTITY site_settings_cancel       "ຍົກເລີກ">
 <!ENTITY site_settings_clear        "ລົບລ້າງ">
 
@@ -570,10 +570,10 @@ size. -->
 <!ENTITY button_clear "ລົບລ້າງ">
 <!ENTITY button_copy "ສຳເນົາ">
 
-<!ENTITY home_top_sites_title "ເວັບໄຊຕ໌ຍອດນິຍົມ">
+<!ENTITY home_top_sites_title "ເວັບໄຊທຍອດນິຍົມ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "ເພີ່ມເວັບໄຊຕ໌">
+<!ENTITY home_top_sites_add "ເພີ່ມເວັບໄຊທ">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
@@ -593,7 +593,7 @@ size. -->
 <!ENTITY home_closed_tabs_number "&formatD; ແທັບ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ແທັບ">
-<!ENTITY home_most_recent_empty "ເວັບໄຊຕ໌ທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
+<!ENTITY home_most_recent_empty "ເວັບໄຊທທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ນຳໃຊ້ &formatS1; ແທັບສ່ວນຕົວໃຫມ່ &formatS2; ຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ.">
@@ -785,15 +785,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
 <!ENTITY restrictable_feature_addons_installation_description "ເພີ່ມຄຸນສົມບັດ ຫຼື ຟັງຊັນການເຮັດວຽກໃຫ້ກັບ Firefox. ຫມາຍເຫດ: Add-ons ທີມີຢູ່ອາດຈະຖືກປິດໃຊ້ງານເນື່ອງຈາກມີຂໍ້ຈໍາກັດສະເພາະໃດຫນຶ່ງ.">
 <!ENTITY restrictable_feature_private_browsing "ການທ່ອງເວັບແບບສ່ວນຕົວ">
-<!ENTITY restrictable_feature_private_browsing_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດເຂົ້າທ່ອງເວັບໄດ້ໂດຍປາສະຈາກການບັນທຶກຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
+<!ENTITY restrictable_feature_private_browsing_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດເຂົ້າທ່ອງເວັບໄດ້ໂດຍປາສະຈາກການບັນທຶກຂໍ້ມູນກ່ຽວກັບເວັບໄຊທ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
 <!ENTITY restrictable_feature_clear_history "ລຶບປະຫວັດການໃຊ້ງານ">
-<!ENTITY restrictable_feature_clear_history_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດລືບຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
+<!ENTITY restrictable_feature_clear_history_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດລືບຂໍ້ມູນກ່ຽວກັບເວັບໄຊທ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
 <!ENTITY restrictable_feature_advanced_settings "ການຕັ້ງຄ່າຂັ້ນສູງ">
 <!ENTITY restrictable_feature_advanced_settings_description "ນີ້ປະກອບໄປດ້ວຍການນຳເຂົ້າບຸກມາກ, ການກູ້ຄືນແທັບ ແລະ ການອັບເດດແບບອັດຕະໂນມັດ. ປິດເພື່ອເຮັດໃຫ້ການຕັ້ງຄ່າງ່າຍດາຍ ແລະ ເຫມາະສົມສຳລັບສະມາຊິກໃນຄອບຄົວທຸກຄົນ.">
 <!ENTITY restrictable_feature_camera_microphone "ກ້ອງຖ່າຍ ແລະ ໄມໂຄຣໂຟນ">
-<!ENTITY restrictable_feature_camera_microphone_description "ອະນຸຍາດໃຫ້ສະມາຊິກໃນຄອບຄົວມີສ່ວນຮ່ວມໃນການສື່ສານແບບ real time ໃນເວັບໄຊຕ໌.">
+<!ENTITY restrictable_feature_camera_microphone_description "ອະນຸຍາດໃຫ້ສະມາຊິກໃນຄອບຄົວມີສ່ວນຮ່ວມໃນການສື່ສານແບບ real time ໃນເວັບໄຊທ.">
 <!ENTITY restrictable_feature_block_list "ລາຍການບັອກ">
-<!ENTITY restrictable_feature_block_list_description "ບລັອກເວັບໄຊຕ໌ທີ່ປະກອບມີເນື້ອຫາທີ່ລະອຽດອ່ອນ.">
+<!ENTITY restrictable_feature_block_list_description "ບລັອກເວັບໄຊຕທີ່ປະກອບມີເນື້ອຫາທີ່ລະອຽດອ່ອນ.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -830,7 +830,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ບຸກມາກລາຍການອ່ານເອົາໄວ້ເພື່ອເອົາໄວ້ອ່ານຕອນອັອບລາຍ.">
 <!ENTITY helper_triple_readerview_open_button "ເພີ່ມເຂົ້າໄປໃນບຸກມາກສ໌">
 
-<!ENTITY activity_stream_topsites "ເວັບໄຊຕ໌ຍອດນິຍົມ">
+<!ENTITY activity_stream_topsites "ເວັບໄຊທຍອດນິຍົມ">
 <!ENTITY activity_stream_highlights "ຈຸດເດັ່ນ">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
