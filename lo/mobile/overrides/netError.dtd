@@ -33,13 +33,13 @@
 <!ENTITY malformedURI.title "ທີ່ຢູ່ນີ້ບໍ່ຖືກຕ້ອງ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>ປົກກະຕິແລ້ວທີ່ຢູ່ຂອງເວັບໄຊຕ໌ແມ່ນຈະມັກຂຽນໃນຮູບແບບນີ້ <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ກວດເບິງໃຫ້ແນ່ໃຈວ່າທ່ານກຳລັງໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (i.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ປົກກະຕິແລ້ວທີ່ຢູ່ຂອງເວັບໄຊທແມ່ນຈະມັກຂຽນໃນຮູບແບບນີ້ <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ກວດເບິງໃຫ້ແນ່ໃຈວ່າທ່ານກຳລັງໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "ການເຊື່ອມຕໍ່ຖືກລົບກວນ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ເອກະສານຫມົດອາຍຸ">
-<!ENTITY notCached.longDesc "<p>ເອກະສານທີໄດ້ຮ້ອງຂໍໄປບໍ່ມີຢູ່ໃນຖານຄວາມຈຳຊົວຄ່າວຂອງ &brandShortName;.</p><ul><li>ເພື່ອເປັນການຮັກສາຄວາມປອດໄພ, &brandShortName; ຈະບໍ່ມີການຮ້ອງຂໍເອກະສານທີ່ລະອຽດອ່ອນຄືນແບບອັດຕະໂນມັດ.</li><li>ຄິກໃສ່ລອງອີກຄັ້ງເພື່ອຮ້ອງຂໍເອກະສານນີ້ຄືນອີກເທື່ອຫນຶ່ງຈາກເວັບໄຊຕ໌ນີ້.</li></ul>">
+<!ENTITY notCached.longDesc "<p>ເອກະສານທີໄດ້ຮ້ອງຂໍໄປບໍ່ມີຢູ່ໃນຖານຄວາມຈຳຊົວຄ່າວຂອງ &brandShortName;.</p><ul><li>ເພື່ອເປັນການຮັກສາຄວາມປອດໄພ, &brandShortName; ຈະບໍ່ມີການຮ້ອງຂໍເອກະສານທີ່ລະອຽດອ່ອນຄືນແບບອັດຕະໂນມັດ.</li><li>ຄິກໃສ່ລອງອີກຄັ້ງເພື່ອຮ້ອງຂໍເອກະສານນີ້ຄືນອີກເທື່ອຫນຶ່ງຈາກເວັບໄຊທນີ້.</li></ul>">
 
 <!ENTITY netOffline.title "ໂຫມດອັອບໄລນ໌">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.

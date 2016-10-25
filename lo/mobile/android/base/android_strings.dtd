@@ -11,7 +11,7 @@
 <!ENTITY firstrun_bookmarks_subtext "ນຳເອົາຜົນລັບມາຈາກບຸກມາກສ໌ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
 <!ENTITY firstrun_data_title "ຂໍ້ມູນ">
 <!ENTITY firstrun_data_message "ນຳໃຊ້ຂໍ້ມູນນ້ອຍລົງ ປະຫຍັດຫລາຍຂື້ນກ່ວາເກົ່າ">
-<!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊຕ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
+<!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊທທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, ຢູ່ຄຽງຂ້າງທ່ານສະເຫມີ">
 <!ENTITY firstrun_sync_subtext "Sync ແທັບ, ລະຫັດຜ່ານຂອງທ່ານ ແລະ ໃນທຸກໆບ່ອນທີ່ທ່ານນຳໃຊ້ມັນ.">
