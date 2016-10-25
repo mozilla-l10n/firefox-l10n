@@ -4,8 +4,8 @@
 
 <!ENTITY  button-back-mac.label        "Uɣal ɣeṛ deffir">
 <!ENTITY  button-back-mac.accesskey    "U">
-<!ENTITY  button-next-mac.label        "Ɣlel">
-<!ENTITY  button-next-mac.accesskey    "Ɣ">
+<!ENTITY  button-next-mac.label        "Kemmel">
+<!ENTITY  button-next-mac.accesskey    "K">
 <!ENTITY  button-finish-mac.label      "Immed">
 <!ENTITY  button-cancel-mac.label      "Sefsex">
 
