@@ -166,7 +166,7 @@
 <!ENTITY pref_category_search3 "Cerca">
 
 <!ENTITY pref_category_accessibility "Accessibilitat">
-
+<!ENTITY pref_category_accessibility_summary2 "Mida del text, escala i entrada de veu">
 <!ENTITY pref_category_privacy_short "Privadesa">
 
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -555,6 +555,7 @@ size. -->
 <!ENTITY button_clear "Neteja">
 <!ENTITY button_copy "Copia">
 
+<!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
@@ -630,6 +631,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Connexió insegura">
 <!ENTITY identity_connection_chromeui "Aquesta és una pàgina del &brandShortName; segura">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all1 "El &brandShortName; ha blocat el contingut insegur d\u0027aquesta pàgina.">
 <!ENTITY mixed_content_blocked_some1 "El &brandShortName; ha blocat part del contingut insegur d\u0027aquesta pàgina.">
 <!ENTITY mixed_content_display_loaded1 "Parts d\u0027aquesta pàgina no són segures (com les imatges).">
 
@@ -803,6 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_button "Afegeix a les adreces d\u0027interès">
 
+<!ENTITY activity_stream_topsites "Destacats">
 
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
