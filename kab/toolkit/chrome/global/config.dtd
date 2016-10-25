@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Γef:ɣlef">
+<!ENTITY window.title "ɣef:tawila">
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
@@ -42,7 +42,7 @@
 <!ENTITY reset.accesskey "W">
 <!ENTITY new.label "Amaynut">
 <!ENTITY new.accesskey "m">
-<!ENTITY string.label "Azrar n isekkilen">
+<!ENTITY string.label "Azrir n isekkilen">
 <!ENTITY string.accesskey "A">
 <!ENTITY integer.label "Ummid">
 <!ENTITY integer.accesskey "U">

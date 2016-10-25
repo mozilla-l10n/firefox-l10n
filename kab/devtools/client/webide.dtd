@@ -157,7 +157,7 @@
 
 <!ENTITY device_typeboolean "Abulan">
 <!ENTITY device_typenumber "Ummid">
-<!ENTITY device_typestring "Azrar">
+<!ENTITY device_typestring "Azrir">
 <!ENTITY device_typeobject "Ta Γawsa">
 <!ENTITY device_typenone "Fren tawsit">
 <!-- Device Preferences -->
