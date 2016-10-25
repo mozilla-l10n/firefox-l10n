@@ -279,6 +279,8 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Tab Ubah Suai">
+<!ENTITY pref_custom_tabs_summary "Mengijinkan aplikasi pihak ke tiga untuk membuka URLs dengan tampilan yang diubahsuaikan.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aliran Aktivitas">
@@ -320,6 +322,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; situs web diperbarui">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "Setelan">
@@ -329,6 +332,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Diperbarui pada &formatS;">
 
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
@@ -393,6 +397,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Tab yang disinkronkan">
 
 <!ENTITY pref_default_browser "Jadikan peramban utama">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Kunjungi Dukungan Mozilla">
 <!ENTITY pref_about_firefox "Tentang &brandShortName;">
 <!ENTITY pref_vendor_faqs "T&amp;J">
 <!ENTITY pref_vendor_feedback "Kirim Saran">
@@ -458,6 +463,7 @@ size. -->
 <!ENTITY share_image_failed "Gagal berbagi gambar ini">
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY print "Cetak">
+<!ENTITY find_in_page "Temukan di laman">
 <!ENTITY page "Laman">
 <!ENTITY tools "Alat">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
@@ -801,3 +807,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Baca luring">
 
 
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
