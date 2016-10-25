@@ -8,7 +8,7 @@
 <!ENTITY  trackingProtectionPrivate.label      "เฉพาะในหน้าต่างส่วนตัว">
 <!ENTITY  trackingProtectionPrivate.accesskey  "พ">
 <!ENTITY  trackingProtectionNever.label        "ไม่เลย">
-<!ENTITY  trackingProtectionNever.accesskey    "ไ">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ข">
