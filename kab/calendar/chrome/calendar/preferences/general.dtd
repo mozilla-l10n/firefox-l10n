@@ -7,27 +7,36 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "Iɣawwaṛen imuta" >
+<!ENTITY pref.dateformat.label "Amasal n wazemz:" >
+<!ENTITY pref.dateformat.accesskey "s">
+<!ENTITY pref.dateformat.long "Aɣezfan" >
+<!ENTITY pref.dateformat.short "Awezlan"  >
 
+<!ENTITY pref.timezones.caption "Izḍi usrig">
+<!ENTITY pref.timezones.label "Fre aɣṛem iqeṛben ɣer yezḍi usrig inek:">
+<!ENTITY pref.timezones.accesskey "k">
 
+<!ENTITY pref.defaults.label "Azalen imezwar n iferdisen imaynuten">
+<!ENTITY pref.events.label "Tidyanin">
+<!ENTITY pref.tasks.label "Tiwuriwin">
 
+<!ENTITY pref.default_event_length.label "Teɣzi tamezwert:" >
+<!ENTITY pref.default_event_length.accesskey "z">
 
+<!ENTITY pref.default_task_none.label "Ulac">
+<!ENTITY pref.default_task_start_of_day.label "Tzwara n wass">
+<!ENTITY pref.default_task_end_of_day.label "Tagara n wass">
+<!ENTITY pref.default_task_tomorrow.label "Azekka">
+<!ENTITY pref.default_task_next_week.label "Ddurt d-iteddun">
+<!ENTITY pref.default_task_offset_current.label "Iqqen ɣer wakud amiran">
+<!ENTITY pref.default_task_offset_start.label "Iqqen ɣer tazwara">
+<!ENTITY pref.default_task_offset_next_hour.label "Iqqen ɣer usrag d-iteddun">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Agalis Ass-a">
+<!ENTITY pref.soondays.label "Tigezmi d-iteddun teskan-d:">
+<!ENTITY pref.soondays.accesskey "g">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.accessibility.label "Tuffart" >
+<!ENTITY pref.systemcolors.label "Sefrer initen i tuffart" >
+<!ENTITY pref.systemcolors.accesskey "n">

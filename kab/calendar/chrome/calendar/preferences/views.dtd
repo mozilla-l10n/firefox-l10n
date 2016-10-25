@@ -7,27 +7,33 @@
   -->
 
 
+<!ENTITY pref.calendar.view.allview.caption "Amatu">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Timeẓriyin Wassneɣ n Dduṛt">
+<!ENTITY pref.calendar.view.multiweekview.caption "Timeẓri s deqs n dduṛtat">
+<!ENTITY pref.calendar.view.workweek.caption "Ddurt n umahil">
 
+<!ENTITY pref.weekstarts.label "Dduṛt tbeddu di:">
+<!ENTITY pref.weekstarts.accesskey "D">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Sken uṭṭun n dduṛt di tmeẓriyin akked waggur meẓẓiyen">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "S">
+<!ENTITY pref.daysoff.label "Seddu ussan agi di dduṛt n umahil:">
 
+<!ENTITY pref.calendar.view.daystart.label "Ass ad yebdu di:">
+<!ENTITY pref.calendar.view.daystart.accesskey "s">
+<!ENTITY pref.calendar.view.dayend.label "Ass ad ifak di:">
+<!ENTITY pref.calendar.view.dayend.accesskey "f">
+<!ENTITY pref.calendar.view.visiblehours.label "Sken:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "n">
+<!ENTITY pref.calendar.view.visiblehoursend.label "Isragen deg iwet n tikelt">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Amḍan n dduṛtat ara d-yettwaseknen (ad ddunt ula dduṛtat yezrin):">
+<!ENTITY pref.numberofweeks.accesskey "ḍ">
+<!ENTITY pref.numberofpreviousweeks.label "Dduṛtat yezrin ara d-yettwaseknen:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "z">
+<!ENTITY pref.numberofweeks.0 "ula yiwen">
+<!ENTITY pref.numberofweeks.1 "1 n dduṛt">
+<!ENTITY pref.numberofweeks.2 "2 n dduṛtat">
+<!ENTITY pref.numberofweeks.3 "3 n dduṛtat">
+<!ENTITY pref.numberofweeks.4 "4 n dduṛtat">
+<!ENTITY pref.numberofweeks.5 "5 n dduṛtat">
+<!ENTITY pref.numberofweeks.6 "6 n dduṛtat">

@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Awitay Google">
+
+<!ENTITY gdata.privacy.default.label "Aɣewwaṛ amezwer Google">
+<!ENTITY gdata.privacy.default.accesskey "G">
 
 
+<!ENTITY gdata.migration.upgrade.label "Leqqem">
+<!ENTITY gdata.migration.upgrade.accesskey "L">
+<!ENTITY gdata.migration.showagain.label "Senqad yal tikelt">
 
+<!ENTITY gdata.reminder.default "Asmekti amezwer">
+<!ENTITY gdata.reminder.action.sms.label "Azen izen n uḍris">
 
+<!ENTITY gdata.wizard.calendars.description "Ma ulac aɣilif fren tibdarin n iwitayen akked twuriwin anda tebɣid ad tejerredeḍ.">
 
-
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Ma ulac aɣilif ddu ɣer imecwar d-iteddun akken ad tesbaduḍ iwitayen inek.">
