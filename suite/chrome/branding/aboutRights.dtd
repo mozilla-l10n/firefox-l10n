@@ -62,6 +62,8 @@
 <!ENTITY rights.safebrowsing-term4 "A Navegação Segura agora está desativada">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term2 "Selecione o painel principal &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Selecione a opção para &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "O serviço de navegação sensível à localização está desativado agora">
 
 <!-- points 0-6 text for branded builds -->
