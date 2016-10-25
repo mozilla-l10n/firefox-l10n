@@ -489,7 +489,7 @@ size. -->
 
 <!ENTITY media_sending_to "उपकरणमा पठाउदै">
 <!ENTITY media_play "प्ले गर्नुहोस्">
-<!ENTITY media_pause "पज गर्नुहोस्">
+<!ENTITY media_pause "रोक्नुहोस्">
 <!ENTITY media_stop "रोक्नुहोस्">
 
 <!ENTITY contextmenu_open_new_tab "नयाँ ट्याबमा खोल्नुहोस्">
