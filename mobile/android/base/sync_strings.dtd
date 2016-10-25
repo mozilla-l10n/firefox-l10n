@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ট্যাগসমূহ">
 <!ENTITY bookmarks.folder.toolbar.label "বুকমার্ক টুল-বার">
-
+<!ENTITY bookmarks.folder.other.label "অন্যান্য বুকমার্কগুলি">
 <!ENTITY bookmarks.folder.desktop.label "ডেস্কটপের বুকমার্কসমূহ">
 <!ENTITY bookmarks.folder.mobile.label "মোবাইলের বুকমার্কসমূহ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
-
+<!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
 <!ENTITY fxaccount_status_passwords2 "লগ ইন গুলি">
 <!ENTITY fxaccount_status_tabs "উন্মুক্ত ট্যাবগুলি">
@@ -75,9 +75,10 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "সেবার শর্তাবলী">
+<!ENTITY fxaccount_status_linkprivacy2 "গোপনীয়তা সংক্রান্ত বিজ্ঞপ্তি">
 <!ENTITY fxaccount_status_more "অারো&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।">
