@@ -90,7 +90,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-<!ENTITY performanceUI.showPlatformData             "గెకో ప్లాట్‌ఫాం దత్తాంశం చూపుము">
+<!ENTITY performanceUI.showPlatformData             "గెకో ప్లాట్‌ఫాం దత్తాంశం చూపు">
 <!ENTITY performanceUI.showPlatformData.tooltiptext "ప్రాట్వార్మ్ డేటా చూపించడం వలన JavaScript ప్రొఫైలర్ గీకో చిహ్నాలు క్రింది వాటిని కలిగి నివేదిస్తాడు.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string

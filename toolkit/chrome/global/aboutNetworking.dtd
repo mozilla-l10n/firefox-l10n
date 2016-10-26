@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "నెట్వర్కింగ్ గురించి">
 <!ENTITY aboutNetworking.warning               "ఇది ప్రయోగాత్మకమైంది. పెద్దవారు లేకుండా ఉపయోగించవద్దు.">
-<!ENTITY aboutNetworking.showNextTime          "తరువాతసారి ఈ హెచ్చరికను చూపుము">
+<!ENTITY aboutNetworking.showNextTime          "తరువాతసారి ఈ హెచ్చరికను చూపు">
 <!ENTITY aboutNetworking.ok                    "సరే">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "సాకెట్లు">

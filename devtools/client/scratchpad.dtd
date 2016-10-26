@@ -53,7 +53,7 @@
 <!ENTITY viewMenu.label               "దర్శించు">
 <!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "వరుస సంఖ్యలను చూపుము">
+<!ENTITY lineNumbers.label             "వరుస సంఖ్యలను చూపు">
 <!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.label                "వ్రాప్ టెక్స్ట్">
