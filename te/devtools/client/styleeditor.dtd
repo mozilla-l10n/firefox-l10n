@@ -36,7 +36,7 @@
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "@media పక్కపట్టీ చూపుము">
+<!ENTITY showMediaSidebar.label     "@media పక్కపట్టీ చూపు">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->

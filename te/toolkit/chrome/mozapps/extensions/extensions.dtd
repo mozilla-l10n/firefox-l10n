@@ -73,7 +73,7 @@
 <!ENTITY updates.updateSelected.tooltip       "అందుబాటులోని నవీకరణలను యిజాబితానందు సంస్థాపించు">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "మరింత సమాచారమును చూపుము">
+<!ENTITY cmd.showDetails.label                "మరింత సమాచారమును చూపు">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "నవీకరణలను కనుగొనుము">
 <!ENTITY cmd.findUpdates.accesskey            "F">
@@ -90,7 +90,7 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "ఐచ్ఛికశైలిని దరించు">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "ఐచ్ఛికశైలిని దరించుటను ఆపుము">
+<!ENTITY cmd.disableTheme.label               "ఐచ్ఛికశైలిని దరించుటను ఆపు">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "క్రియాశీలపరచుటకు అడుగు">
 <!ENTITY cmd.askToActivate.tooltip            "ప్రతిసారి యిపొడిగింత ఉపయోగించుటకు అడుగు">
@@ -111,8 +111,8 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ఈ పొడిగింత అభివృద్దిలో పాల్గొనుము">
 
-<!ENTITY cmd.showReleaseNotes.label           "విడుదల నోట్స్ చూపుము">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ చూపుము">
+<!ENTITY cmd.showReleaseNotes.label           "విడుదల నోట్స్ చూపు">
+<!ENTITY cmd.showReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ చూపు">
 <!ENTITY cmd.hideReleaseNotes.label           "విడుదల నోట్స్ మరుగుపరచు">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ మరుగుపరచు">
 
@@ -174,13 +174,13 @@
 
 <!ENTITY search.filter2.label                 "వెతుకు:">
 <!ENTITY search.filter2.installed.label       "నా పొడిగింతలు">
-<!ENTITY search.filter2.installed.tooltip     "సంస్థాపిత పొడిగింతలు చూపుము">
+<!ENTITY search.filter2.installed.tooltip     "సంస్థాపిత పొడిగింతలు చూపు">
 <!ENTITY search.filter2.available.label       "అందుబాటులోని పొడిగింతలు">
-<!ENTITY search.filter2.available.tooltip     "సంస్థాపించుటకు అందుబాటులోని పొడిగింతలు చూపుము">
+<!ENTITY search.filter2.available.tooltip     "సంస్థాపించుటకు అందుబాటులోని పొడిగింతలు చూపు">
 
 <!ENTITY addon.homepage                       "నివాసపేజీ">
 <!ENTITY addon.details.label                  "ఇంకా">
-<!ENTITY addon.details.tooltip                "ఈ యాడ్-గురించి మరిన్ని వివరములను చూపుము">
+<!ENTITY addon.details.tooltip                "ఈ యాడ్-గురించి మరిన్ని వివరములను చూపు">
 <!ENTITY addon.unknownDate                    "తెలియని">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

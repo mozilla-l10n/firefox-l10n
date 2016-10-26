@@ -96,7 +96,7 @@
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "ఈ పరికరం యొక్క దత్తాంశంను నా &syncBrand.shortName.label; దత్తాంశం‌తో కలుపుము">
+<!ENTITY choice2a.merge.main.label       "ఈ పరికరం యొక్క దత్తాంశంను నా &syncBrand.shortName.label; దత్తాంశం‌తో కలుపు">
 <!ENTITY choice2.merge.recommended.label "సిఫార్సుచేయబడినది:">
 <!ENTITY choice2a.client.main.label      "ఈ పరికరం పైని దత్తాంశం మొత్తాన్ని నా &syncBrand.shortName.label; దత్తాంశముతో పునఃస్థాపించు">
 <!ENTITY choice2a.server.main.label      "ఈ పరికరం యొక్క దత్తాంశంతో అన్ని ఇతర పరికరాలను పునఃస్థాపించు">

@@ -50,7 +50,7 @@
 <!ENTITY contentEncodingError.longDesc "<ul> <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్యగురించి తెలియజెప్పండి.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "భద్రముకాని ఫైల్ రకము">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>వెబ్‌సైటు యజమానులను సంప్రదించి దయచేసి వారికి ఈ సమస్యగురించి తెలియజెప్పుము.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>వెబ్‌సైటు యజమానులను సంప్రదించి దయచేసి వారికి ఈ సమస్యగురించి తెలియజెప్పు.</li> </ul>">
 
 <!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
