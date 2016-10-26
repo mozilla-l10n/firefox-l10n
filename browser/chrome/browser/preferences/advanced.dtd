@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
+<!ENTITY searchStartTyping.label         "Guetar testu entrín teclexe">
 <!ENTITY searchStartTyping.accesskey     "G">
 <!ENTITY blockAutoRefresh.label          "Avisame de qué páxines intenten redireicionar o recargar">
 <!ENTITY blockAutoRefresh.accesskey      "v">
