@@ -35,7 +35,7 @@
 <!ENTITY event.attendees.notify.label               "Lɣu imttekkiyen">
 <!ENTITY event.attendees.notify.accesskey           "t">
 <!ENTITY event.attendees.notifyundisclosed.label    "Yal tinnubga i yiman-is">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "Y">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Aɣewwaṛ agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
 <!-- Keyboard Shortcuts -->
 
@@ -179,15 +179,15 @@
 <!ENTITY task.from.label                                  "Bdu:" >
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "Tagara:" >
-<!ENTITY event.to.accesskey                               "u">
+<!ENTITY event.to.accesskey                               "g">
 <!ENTITY task.to.label                                    "Azemz n tagara:" >
 <!ENTITY task.to.accesskey                                "g">
 <!ENTITY task.status.label                                "Addad:" >
 <!ENTITY task.status.accesskey                            "d">
 <!ENTITY event.repeat.label                               "Snilest:" >
 <!ENTITY event.repeat.accesskey                           "n">
-<!ENTITY event.until.label                                "Ar ma:">
-<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.until.label                                "Arma:">
+<!ENTITY event.until.accesskey                            "m">
 <!ENTITY event.reminder.label                             "Mmekti-d:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Aglam:" >
