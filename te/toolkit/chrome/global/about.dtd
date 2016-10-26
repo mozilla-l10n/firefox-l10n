@@ -25,6 +25,6 @@
 <!ENTITY about.buildconfig.beforeTheLink "చూడండి ">
 <!ENTITY about.buildconfig.linkTitle     "నిర్మాణ ఆకృతీకరణను">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.buildconfig.afterTheLink  " యీ రూపాంతరమునకు ఉపయోగించినది.">
+<!ENTITY about.buildconfig.afterTheLink  " యిరూపాంతరమునకు ఉపయోగించినది.">
 
 <!ENTITY about.buildIdentifier        "నిర్మాణ ఐడెంటిఫైర్: ">

@@ -5,7 +5,7 @@
 <!ENTITY syncKey.page.title               "మీ &syncBrand.fullName.label; కీ">
 <!ENTITY syncKey.page.description2        "ఈ కీ మీ &syncBrand.fullName.label; ఖాతాలోని దత్తాంశంను డీకోడ్ చేయుటకు ఉపయోగించును. మీరు మీ కొత్త పరికరము పై &syncBrand.fullName.label; ని ఆకృతీకరించిన ప్రతిసారి కీ ను ప్రవేశపెట్టవలసి వుంటుంది.">
 <!ENTITY syncKey.keepItSecret.heading     "దీనిని రహస్యంగా ఉంచు">
-<!ENTITY syncKey.keepItSecret.description "మీ గోప్యతను కాపాడుటకు మీ &syncBrand.fullName.label; ఖాతా యెన్క్రిప్టు చేయబడెను. ఈ కీ లేకుండా, మీ వ్యక్తిగత సమాచారము యెవరైనా డీకోడ్ చేయుటకు సంవత్సరాలు పడుతుంది. మీరు మాత్రమే యీ కీను కలిగివుంటారు. దానర్ధం మీరు మాత్రమే మీ &syncBrand.fullName.label; దత్తాంశంను యాక్సెస్ చేయగలరు.">
+<!ENTITY syncKey.keepItSecret.description "మీ గోప్యతను కాపాడుటకు మీ &syncBrand.fullName.label; ఖాతా యెన్క్రిప్టు చేయబడెను. ఈ కీ లేకుండా, మీ వ్యక్తిగత సమాచారము యెవరైనా డీకోడ్ చేయుటకు సంవత్సరాలు పడుతుంది. మీరు మాత్రమే యికీను కలిగివుంటారు. దానర్ధం మీరు మాత్రమే మీ &syncBrand.fullName.label; దత్తాంశంను యాక్సెస్ చేయగలరు.">
 <!ENTITY syncKey.keepItSafe.heading       "దీనిని భద్రముగా ఉంచండి">
 <!ENTITY syncKey.keepItSafe1.description  "ఈ కీ ను పోగొట్టుకోవద్దు.">
 <!ENTITY syncKey.keepItSafe2.description  " మీ కీ యొక్క కాపీ పెట్టుకోము (అప్పుడు దీనిని రహస్యంగా ఉంచడం అనరు!) అందుకని ">

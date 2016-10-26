@@ -58,7 +58,7 @@
 <!ENTITY cmd.retry.label                  "మళ్ళీ ప్రయత్నించు">
 <!ENTITY cmd.goToDownloadPage.label       "డౌనులోడు పేజీకి వెళ్ళు">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లంకెను కాపీచేయి">
+<!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లింకును కాపీచేయి">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "చరిత్ర నుండి తొలగించు">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">

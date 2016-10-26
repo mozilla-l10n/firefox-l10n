@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "పేజీని పరికరానికి పంపు">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "లంకెను పరికరానికి పంపు">
+<!ENTITY  sendLinkToDevice.label             "లింకును పరికరానికి పంపు">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "కొత్త విండోకి తరలించు">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ఈ లంకెను పంచుకోండి">
+<!ENTITY shareLink.label "ఈ లింకును పంచుకోండి">
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "ఈ బొమ్మను పంచుకోండి">
 <!ENTITY shareImage.accesskey "r">
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ ఫ్రేమును ఇష్టాంశంగా చేయి">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "లంకెను ఈమెయిలు చేయి…">
+<!ENTITY emailPageCmd.label           "లింకును ఈమెయిలు చేయి…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "పేజీని ఇలా భద్రపరచు…">
 <!ENTITY savePageCmd.accesskey        "A">

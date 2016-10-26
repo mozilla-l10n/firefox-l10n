@@ -43,7 +43,7 @@
 <!ENTITY changeSyncDeviceName.label "పరికరం పేరు మార్చు…">
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
 <!ENTITY saveChangeSyncDeviceName.label "భద్రపరచు">
-<!ENTITY unlinkDevice.label           "ఈ పరికరం లంకెతీయి">
+<!ENTITY unlinkDevice.label           "ఈ పరికరం లింకుతీయి">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "సేవా నిబంధనలు">

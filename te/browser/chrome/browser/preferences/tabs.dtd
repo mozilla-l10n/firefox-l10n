@@ -14,7 +14,7 @@
 <!ENTITY warnOpenManyTabs.label       "ఎక్కువ ట్యాబులు తెరిచినప్పుడు &brandShortName; నెమ్మదిస్తుందనుకుంటే నన్ను హెచ్చరించు">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchToNewTabs.label        "నేను లంకెను కొత్త ట్యాబులో తెరిచినప్పుడు, వెంటనే ఆ ట్యాబుకి మారు">
+<!ENTITY switchToNewTabs.label        "నేను లింకును కొత్త ట్యాబులో తెరిచినప్పుడు, వెంటనే ఆ ట్యాబుకి మారు">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "ట్యాబు మునుజూపులను విండోస్ టాస్క్‌బారులో చూపించు">
