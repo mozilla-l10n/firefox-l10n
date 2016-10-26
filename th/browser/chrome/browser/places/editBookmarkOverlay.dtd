@@ -5,7 +5,7 @@
 <!ENTITY editBookmarkOverlay.name.label                      "ชื่อ:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "ตำแหน่งที่ตั้ง:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "ต">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "ตำแหน่งที่ตั้งฟีด:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ต">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "ตำแหน่งที่ตั้งไซต์:">
