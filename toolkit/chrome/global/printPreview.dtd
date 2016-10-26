@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Etigi por adapti">
 <!ENTITY customPrompt.title   "Persone agordita skalado …">
 <!ENTITY simplifyPage.label   "Simpligi paĝon">
+<!ENTITY simplifyPage.accesskey "S">
 <!ENTITY simplifyPage.enabled.tooltip  "Ŝanĝi la distribuon por pli facila lego">
 <!ENTITY simplifyPage.disabled.tooltip "Ne eblas aŭtomate simpligi tiun ĉi paĝon">
 

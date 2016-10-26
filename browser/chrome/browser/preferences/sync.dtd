@@ -40,11 +40,11 @@
 <!ENTITY syncDeviceName.label       "Nomo de aparato:">
 <!ENTITY fxaSyncDeviceName.label       "Nomo de aparato">
 <!ENTITY changeSyncDeviceName.label "Ŝanĝi nomon de aparato…">
-<!ENTITY changeSyncDeviceName.label.accesskey "a">
+<!ENTITY changeSyncDeviceName.accesskey "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Nuligi">
-<!ENTITY cancelChangeSyncDeviceName.label.accesskey "N">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "N">
 <!ENTITY saveChangeSyncDeviceName.label "Konservi">
-<!ENTITY saveChangeSyncDeviceName.label.accesskey "K">
+<!ENTITY saveChangeSyncDeviceName.accesskey "K">
 <!ENTITY unlinkDevice.label           "Malligi tiun ĉi aparaton">
 
 <!-- Footer stuff -->
@@ -73,17 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Vi ne komencis seancon.">
 <!ENTITY signIn.label                "Komenci seancon">
-<!ENTITY signIn.label.accesskey            "K">
+<!ENTITY signIn.accesskey            "K">
 <!ENTITY profilePicture.tooltip      "Ŝanĝi bildon de profilo">
 <!ENTITY verifiedManage.label        "Administri konton">
-<!ENTITY verifiedManage.label.accesskey    "A">
+<!ENTITY verifiedManage.accesskey    "A">
 <!ENTITY disconnect.label            "Malkonekti…">
-<!ENTITY disconnect.label.accesskey        "M">
+<!ENTITY disconnect.accesskey        "M">
 <!ENTITY verify.label                "Konfirmi retpoŝton">
-<!ENTITY verify.label.accesskey            "r">
+<!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Forgesi tiun ĉi retpoŝton">
-<!ENTITY forget.label.accesskey            "F">
-<!ENTITY rejectUnlinkFxaAccount.forget.label.accesskey            "e">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "Aliri viajn langetojn, legosignojn, pasvortojn kaj aliajn aferojn, kie ajn vi uzas &brandShortName;.">
 <!ENTITY welcome.signIn.label "Komenci seancon">
