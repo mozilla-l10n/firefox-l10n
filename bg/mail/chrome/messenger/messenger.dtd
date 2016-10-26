@@ -429,8 +429,8 @@
 <!ENTITY openMessageWindowCmd.label "Отваряне на писмо">
 <!ENTITY openMessageWindowCmd.accesskey "я">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Отваряне на нишката">
-<!ENTITY openConversationCmd.accesskey "н">
+<!ENTITY openConversationCmd.label "Преглед на диалога">
+<!ENTITY openConversationCmd.accesskey "д">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Притурки">
 <!ENTITY openAttachmentListCmd.accesskey "т">
