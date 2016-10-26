@@ -5,7 +5,7 @@
 <!ENTITY print.label          "พิมพ์…">
 <!ENTITY print.accesskey      "P">
 <!ENTITY pageSetup.label      "ตั้งค่าหน้า…">
-<!ENTITY pageSetup.accesskey  "ต">
+<!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "หน้า:">
 <!ENTITY page.accesskey       "น">
 <!ENTITY of.label             "จาก">

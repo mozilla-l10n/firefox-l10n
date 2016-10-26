@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 <!ENTITY tabs.context.openTab.label                   "เปิดแท็บนี้">
-<!ENTITY tabs.context.openTab.accesskey               "ป">
+<!ENTITY tabs.context.openTab.accesskey               "O">
 <!ENTITY tabs.context.openMultipleTabs.label          "เปิดแท็บที่เลือก">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "ป">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "คั่นแท็บนี้…">
