@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Actualmente no estás en una ventana privada.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "En este momento no estás en una ventana privada.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir una ventana privada">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
 <!ENTITY privateBrowsing.title.tracking                  "Navegación Privada con Protección de Rastreo">
@@ -12,16 +12,16 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "las páginas visitadas">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Búsquedas">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Archivos temporales">
+<!ENTITY aboutPrivateBrowsing.info.searches              "las búsquedas">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "las cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "los archivos temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "guardará">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " tu:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "Descargas">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " tus:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "descargas">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navegación Privada ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "eso no te hace anónimo">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "no te vuelve anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " en el Internet. Tu empleador o tu proveedor de Internet aún puede saber que páginas visitas.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Conoce más acerca de">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegación Privada">
