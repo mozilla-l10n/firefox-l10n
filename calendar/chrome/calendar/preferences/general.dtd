@@ -7,9 +7,18 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.mainbox.label "Γενικές ρυθμίσεις" >
+<!ENTITY pref.dateformat.short "Σύντομη"  >
 
+<!ENTITY pref.timezones.caption "Ζώνη ώρας">
+<!ENTITY pref.timezones.label "Επιλέξτε την κοντινότερη πόλη στη ζώνη ώρας σας:">
 
+<!ENTITY pref.defaults.label "Προεπιλεγμένες τιμές για νέα στοιχεία">
+<!ENTITY pref.events.label "Συμβάντα">
+<!ENTITY pref.tasks.label "Εργασίες">
 
+<!ENTITY pref.default_event_length.label "Προεπιλεγμένη διάρκεια:" >
 
+<!ENTITY pref.default_task_tomorrow.label "Αύριο">
 
 

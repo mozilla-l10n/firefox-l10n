@@ -18,10 +18,13 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "θ">
 <!ENTITY pref.daysoff.label "Να συμπεριληφθούν αυτές οι ημέρες στις εργάσιμες:">
 
-<!ENTITY pref.calendar.view.daystart.label "Η ημέρα ξεκινάει στις:">
-<!ENTITY pref.calendar.view.dayend.label "Η ημέρα τελειώνει στις:">
+<!ENTITY pref.calendar.view.daystart.label "Η ημέρα ξεκινάει:">
+<!ENTITY pref.calendar.view.daystart.accesskey "κ">
+<!ENTITY pref.calendar.view.dayend.label "Η ημέρα τελειώνει:">
 <!ENTITY pref.calendar.view.dayend.accesskey "τ">
-<!ENTITY pref.calendar.view.visiblehours.label "Εμφάνιση:">
+<!ENTITY pref.calendar.view.visiblehours.label "Να εμφανίζονται:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "φ">
+<!ENTITY pref.calendar.view.visiblehoursend.label "ώρες τη φορά">
 
 <!ENTITY pref.numberofweeks.label "Αριθμός εβδομάδων προς εμφάνιση (συμπεριλαμβανομένων των προηγούμενων εβδομάδων):">
 <!ENTITY pref.numberofweeks.accesskey "ε">
