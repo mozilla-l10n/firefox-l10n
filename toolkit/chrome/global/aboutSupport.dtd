@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.crashes.title "Доклади за сривове">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "ID на доклад">
+<!ENTITY aboutSupport.crashes.id "Идентификатор на доклад">
 <!ENTITY aboutSupport.crashes.sendDate "Изпратен">
 <!ENTITY aboutSupport.crashes.allReports "Всички доклади за сривове">
 <!ENTITY aboutSupport.crashes.noConfig "Приложението не е настроено да показва доклади за сривове.">
