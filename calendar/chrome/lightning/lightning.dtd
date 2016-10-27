@@ -8,21 +8,61 @@
   -->
 
 <!-- Tools menu -->
+<!ENTITY lightning.preferencesLabel "Ημερολόγιο">
 
 <!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.task.label     "Εργασία…">
+<!ENTITY lightning.menupopup.new.calendar.label "Ημερολόγιο…">
 
 <!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Άνοιγμα">
+<!ENTITY lightning.menupopup.open.message.label       "Αποθηκευμένο μήνυμα…">
+<!ENTITY lightning.menupopup.open.calendar.label      "Αρχείο ημερολογίου…">
 
 <!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Ημερολόγιο">
+<!ENTITY lightning.menu.view.tasks.label               "Εργασίες">
 
 <!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Συμβάντα και εργασίες">
 
 <!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.email.label               "Διεύθυνση ηλεκτρονικού ταχυδρομείου:">
 
 <!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Αποδοχή">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Αποδοχή πρόσκλησης σε συμβάν">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Αποδοχή όλων">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Αποδοχή πρόσκλησης για όλα τα στιγμιότυπα του συμβάντος">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Προσθήκη">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Προσθήκη του συμβάντος στο ημερολόγιο">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Αρνητική απάντηση">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Αρνητική απάντηση στην πρόσκληση σε συμβάν">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Αρνητική απάντηση σε όλα">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Αρνητική απάντηση στην πρόσκληση για όλα τα στιγμιότυπα του συμβάντος">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Διαγραφή">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Διαγραφή από το ημερολόγιο">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Λεπτομέρειες…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Εμφάνιση λεπτομερειών συμβάντος">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Περισσότερα">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Κλικ για εμφάνιση περισσότερων επιλογών">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Επιβεβαίωση εκ νέου">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Αποστέλλεται μια επιβεβαίωση εκ νέου στο διοργανωτή">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Αποθήκευση αντιγράφου">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Αποθήκευση αντιγράφου του συμβάντος στο ημερολόγιο ανεξάρτητα από την απάντηση στο διοργανωτή. Η λίστα με τους παρευρισκόμενους θα σβηστεί.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Αβεβαιότητα">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Αποδοχή πρόσκλησης σε συμβάν αλλά με αβεβαιότητα">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Αβεβαιότητα για όλα">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Αποδοχή πρόσκλησης για όλα τα στιγμιότυπα του συμβάντος αλλά με αβεβαιότητα">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Ενημέρωση">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ενημέρωση του συμβάντος στο ημερολόγιο">
+<!ENTITY lightning.imipbar.description                                      "Αυτό το μήνυμα περιέχει πρόσκληση σε συμβάν.">
 
 <!-- Lightning specific keybindings -->
 
 <!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Δημιουργία νέου ημερολογίου">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Εμφάνιση μίνι μήνα">
+<!ENTITY todaypane.showMiniday.label "Εμφάνιση μίνι ημέρας">
