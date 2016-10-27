@@ -45,7 +45,7 @@
   -  panel. -->
 
 <!ENTITY options.collapseAttrs.label "DOM को भागों मैं तोड़ें">
-
+<!ENTITY options.collapseAttrs.tooltip "निरीक्षक में बड़ी विशेषताओं को छाँटें">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -93,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "इस विकल्प को चालू करना डेवलपर टूल को फ़ायरफ़ॉक्स OS जैसे फ़ायरफ़ॉक्स उदाहरण को डिबग करने की स्वीकृति देगादूरस्थ डिबगिंग सक्रिय करें">
-
+<!ENTITY options.enableRemote.tooltip2  "इस विकल्प को चालू करना डेवलपर टूल को Firefox OS जैसे दूरस्थ अवस्था को दोषमुक्त करने की स्वीकृति देगा">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
