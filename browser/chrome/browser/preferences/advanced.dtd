@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "ว">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
