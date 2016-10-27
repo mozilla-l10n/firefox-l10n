@@ -17,9 +17,11 @@
 <!ENTITY newMessagesArrive.label "Po odebraniu nowej wiadomości:">
 <!ENTITY playSound.label "odtwarzaj dźwięk">
 <!ENTITY playSound1.accesskey "o">
+<!ENTITY playSoundMac.label "odtwarzaj plik:">
+<!ENTITY playSoundMac.accesskey "o">
 <!ENTITY showAnimatedAlert.label "wyświetlaj powiadomienie">
 <!ENTITY showAnimatedAlert.accesskey "w">
-<!ENTITY notificationAlertSettings.label "Powiadomienia można wyłączyć w panelu Powiadomienia Preferencji systemowych.">
+<!ENTITY notificationAlertSettings2.label "Powiadomienia i domyślny dźwięk można wyłączyć w panelu Powiadomienia Preferencji systemowych.">
 <!ENTITY customizeMailAlert.label "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "s">
 
@@ -29,8 +31,6 @@
 <!ENTITY play.label "Odtwórz">
 <!ENTITY play.accesskey "r">
 <!ENTITY systemsound.label "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
-<!ENTITY systemsoundMac.label "systemowy dźwięk powiadomienia">
-<!ENTITY systemsoundMac.accesskey "m">
 <!ENTITY systemsound.accesskey "m">
 <!ENTITY customsound.label "użyj pliku">
 <!ENTITY customsound.accesskey "u">
