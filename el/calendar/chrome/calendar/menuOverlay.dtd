@@ -3,19 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
+<!ENTITY event.new.event                        "Νέο συμβάν…">
 
+<!ENTITY event.new.task                         "Νέα εργασία…">
 
+<!ENTITY calendar.import.label                  "Εισαγωγή…">
 
+<!ENTITY calendar.export.label                  "Εξαγωγή…">
 
+<!ENTITY calendar.publish.label                 "Δημοσίευση…">
 
+<!ENTITY calendar.deletecalendar.label          "Διαγραφή επιλεγμένου ημερολογίου…">
+<!ENTITY calendar.unsubscribecalendar.label     "Κατάργηση συνδρομής στο επιλεγμένο ημερολόγιο…">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Αφαίρεση του επιλεγμένου ημερολογίου…">
 
 
+<!ENTITY calendar.menu.customize.label          "Προσαρμογή…">
 
+<!ENTITY showUnifinderCmd.label                 "Εύρεση συμβάντων">
+<!ENTITY showUnifinderCmd.tooltip               "Εναλλαγή παραθύρου εύρεσης συμβάντων">
 
+<!ENTITY calendar.displaytodos.checkbox.label       "Εμφάνιση εργασιών στο ημερολόγιο">
 
+<!ENTITY goTodayCmd.label                       "Σήμερα">
 
+<!ENTITY showCurrentView.label                  "Τρέχουσα προβολή">
 
+<!ENTITY calendar.properties.label              "Ιδιότητες ημερολογίου…">

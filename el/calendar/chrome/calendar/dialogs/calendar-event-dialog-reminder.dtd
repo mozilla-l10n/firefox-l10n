@@ -2,6 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY reminderdialog.title                              "Ορισμός υπενθυμίσεων">
+<!ENTITY reminder.add.label                                "Προσθήκη">
+<!ENTITY reminder.remove.label                             "Διαγραφή">
 
+<!ENTITY reminder.reminderDetails.label                    "Λεπτομέρειες υπενθύμισης">
+<!ENTITY reminder.action.label                             "Επιλογή ενέργειας υπενθύμισης">
 
+<!ENTITY reminder.action.email.label                       "Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου">
 
+<!ENTITY alarm.units.minutes                               "λεπτά" >
+<!ENTITY alarm.units.hours                                 "ώρες" >
+<!ENTITY alarm.units.days                                  "ημέρες" >
