@@ -37,7 +37,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "บางคุณสมบัติของ &brandShortName; ใช้บริการข้อมูลจากเว็บภายนอก อย่างไรก็ตาม เราไม่สามารถรับประกันได้ว่าบริการเหล่านั้นจะทำงานได้ถูกต้อง 100&#037; หรือปราศจากความผิดพลาด รายละเอียดเพิ่มเติมรวมไปถึงวิธียกเลิกใช้บริการเหล่านั้น สามารถอ่านได้ที่ ">
 <!ENTITY rights.intro-point4b "ข้อตกลงบริการ">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4c "">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "ถ้าผลิตภัณฑ์นี้ได้ทำการรวมบริการเว็บไว้ ข้อตกลงบริการใด ๆ สำหรับบริการนั้น ๆ ที่สามารถนำไปปรับใช้ได้จะถูกลงรายการไว้ที่ส่วน">
