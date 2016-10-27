@@ -68,10 +68,12 @@
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
+<!ENTITY  event.toolbar.privacy.label                     "Ιδιωτικότητα">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Πρόσκληση συμμετεχόντων">
+<!ENTITY  event.toolbar.attachments.tooltip               "Προσθήκη επισυνάψεων">
 <!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
 
 <!-- Main page -->
