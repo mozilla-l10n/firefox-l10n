@@ -12,7 +12,7 @@
 <!ENTITY syncKey.keepItSafe3.description  "เราช่วยคุณกู้คืนมาไม่ได้">
 <!ENTITY syncKey.keepItSafe4a.description " หากคุณทำหาย คุณจะต้องใช้กุญแจนี้ทุกครั้งที่เชื่อมต่ออุปกรณ์ใหม่เข้ากับ &syncBrand.fullName.label;">
 <!ENTITY syncKey.findOutMore1.label       "เรียนรู้เพิ่มเติมเกี่ยวกับ &syncBrand.fullName.label; และความเป็นส่วนตัวของคุณได้ที่ ">
-<!ENTITY syncKey.findOutMore2.label       ".">
+<!ENTITY syncKey.findOutMore2.label       "">
 <!ENTITY syncKey.footer1.label            "ข้อตกลงการให้บริการของ &syncBrand.fullName.label; อยู่ที่ ">
 <!ENTITY syncKey.footer2.label            " นโยบายความเป็นส่วนตัวอยู่ที่ ">
-<!ENTITY syncKey.footer3.label            ".">
+<!ENTITY syncKey.footer3.label            "">
