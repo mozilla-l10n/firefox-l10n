@@ -2,9 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Επεξεργασία στοιχείου" >
 
 
 
+<!ENTITY newevent.status.needsaction.label        "Απαιτείται ενέργεια" >
+<!ENTITY newevent.status.inprogress.label         "Σε εξέλιξη" >
+<!ENTITY newevent.status.completed.label          "Ολοκληρώθηκε στις" >
 
 <!-- The following entity is for New Task dialog only -->
 
@@ -15,26 +19,124 @@
 <!-- Keyboard Shortcuts -->
 
 <!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "Νέο">
+<!ENTITY  event.menu.item.new.event.label                 "Συμβάν">
+<!ENTITY  event.menu.item.new.task.label                  "Εργασία">
+<!ENTITY  event.menu.item.new.message.label               "Μήνυμα">
+<!ENTITY  event.menu.item.new.contact.label               "Επαφή βιβλίου διευθύνσεων">
+<!ENTITY  event.menu.item.close.label                     "Κλείσιμο">
+<!ENTITY  event.menu.item.save.label                      "Αποθήκευση">
+<!ENTITY  event.menu.item.saveandclose.label              "Αποθήκευση και κλείσιμο">
+<!ENTITY  event.menu.item.page.setup.label                "Διαμόρφωση σελίδας">
+<!ENTITY  event.menu.item.print.label                     "Εκτύπωση">
 
+<!ENTITY  event.menu.edit.label                           "Επεξεργασία">
+<!ENTITY  event.menu.edit.undo.label                      "Αναίρεση">
+<!ENTITY  event.menu.edit.cut.label                       "Αποκοπή">
+<!ENTITY  event.menu.edit.copy.label                      "Αντιγραφή">
+<!ENTITY  event.menu.edit.paste.label                     "Επικόλληση">
+<!ENTITY  event.menu.edit.select.all.label                "Επιλογή όλων">
 
+<!ENTITY  event.menu.view.label                           "Προβολή">
+<!ENTITY  event.menu.view.toolbars.label                  "Γραμμές εργαλείων">
+<!ENTITY  event.menu.view.toolbars.event.label            "Γραμμή εργαλείων γεγονότος">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Προσαρμογή…">
 
+<!ENTITY  event.menu.options.label                            "Επιλογές">
+<!ENTITY  event.menu.options.timezone2.label                  "Εμφάνιση ζωνών ώρας">
+<!ENTITY  event.menu.options.priority2.label                  "Προτεραιότητα">
+<!ENTITY  event.menu.options.priority.low.label               "Χαμηλή">
+<!ENTITY  event.menu.options.priority.normal.label            "Κανονική">
+<!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
+<!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Εμφάνιση ώρας και ημερομηνίας μόνο">
+<!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτικό συμβάν">
+<!ENTITY  event.menu.options.show.time.label                  "Εμφάνιση ώρας ως">
+<!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
+<!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
 
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Αποθήκευση και κλείσιμο">
+<!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Αποθήκευση και κλείσιμο">
+<!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
+<!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Τίτλος:" >
+<!ENTITY event.location.label                             "Τοποθεσία:" >
+<!ENTITY event.categories.label                           "Κατηγορία:">
+<!ENTITY event.categories.textbox.label                   "Προσθήκη νέας κατηγορίας" >
+<!ENTITY event.calendar.label                             "Ημερολόγιο:" >
+<!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
+<!ENTITY event.from.label                                 "Έναρξη:" >
+<!ENTITY task.from.label                                  "Έναρξη:" >
+<!ENTITY event.to.label                                   "Λήξη:" >
+<!ENTITY task.to.label                                    "Προθεσμία:" >
+<!ENTITY task.status.label                                "Κατάσταση:" >
+<!ENTITY event.repeat.label                               "Επανάληψη:" >
+<!ENTITY event.until.label                                "Έως:">
+<!ENTITY event.reminder.label                             "Υπενθύμιση:" >
+<!ENTITY event.description.label                          "Περιγραφή:" >
+<!ENTITY event.attachments.label                          "Συνημμένα:" >
+<!ENTITY event.attachments.menubutton.label               "Επισύναψη">
+<!ENTITY event.attachments.url.label                      "Ιστοσελίδα…">
+<!ENTITY event.attachments.popup.remove.label             "Αφαίρεση" >
+<!ENTITY event.attachments.popup.open.label               "Άνοιγμα" >
+<!ENTITY event.attachments.popup.removeAll.label          "Αφαίρεση όλων" >
+<!ENTITY event.attachments.popup.attachPage.label         "Επισύναψη ιστοσελίδας…" >
+<!ENTITY event.priority2.label                            "Προτεραιότητα:">
 
+<!ENTITY event.reminder.none.label                        "Χωρίς υπενθύμιση " >
+<!ENTITY event.reminder.0minutes.before.label             "0 λεπτά πριν" >
+<!ENTITY event.reminder.5minutes.before.label             "5 λεπτά πριν" >
+<!ENTITY event.reminder.15minutes.before.label            "15 λεπτά πριν" >
+<!ENTITY event.reminder.30minutes.before.label            "30 λεπτά πριν" >
+<!ENTITY event.reminder.1hour.before.label                "1 ώρα πριν" >
+<!ENTITY event.reminder.2hours.before.label               "2 ώρες πριν" >
+<!ENTITY event.reminder.12hours.before.label              "12 ώρες πριν" >
+<!ENTITY event.reminder.1day.before.label                 "1 ημέρα πριν" >
+<!ENTITY event.reminder.2days.before.label                "2 ημέρες πριν" >
+<!ENTITY event.reminder.1week.before.label                "1 εβδομάδα πριν" >
 
+<!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
 
 <!-- Recurrence dialog -->
 
 
+<!ENTITY event.recurrence.pattern.label                 "Μοτίβο επανάληψης">
+<!ENTITY event.recurrence.occurs.label                  "Επανάληψη" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Κάθε" >
+<!ENTITY repeat.units.days.both                         "ημέρα(ες)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Μόνο τις καθημερινές" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Κάθε" >
+<!ENTITY repeat.units.weeks.both                        "εβδομάδα(ες)" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Κάθε" >
+<!ENTITY repeat.units.months.both                       "μήνα(ες)" >
+<!ENTITY event.recurrence.monthly.first.label           "Την πρώτη">
+<!ENTITY event.recurrence.monthly.second.label          "Τη δεύτερη">
+<!ENTITY event.recurrence.monthly.third.label           "Την τρίτη">
+<!ENTITY event.recurrence.monthly.fourth.label          "Την τέταρτη">
+<!ENTITY event.recurrence.monthly.fifth.label           "Την πέμπτη">
+<!ENTITY event.recurrence.monthly.last.label            "Την τελευταία">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Κυριακή" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Δευτέρα" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Τρίτη" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Τετάρτη" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Πέμπτη" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Παρασκευή" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Σάββατο" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ημέρα του μήνα">
 
+<!ENTITY event.recurrence.every.label                        "Κάθε:" >
+<!ENTITY repeat.units.years.both                             "Έτος(η)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Κάθε" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -44,11 +146,56 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Κυριακή" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Δευτέρα" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Τρίτη" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Τετάρτη" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Πέμπτη" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Παρασκευή" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Σάββατο" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "ημέρα" >
+<!ENTITY event.recurrence.of.label                           "του" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Ιανουαρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Φεβρουαρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Μαρτίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Απριλίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Μαΐου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Ιουνίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Ιουλίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Αυγούστου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Σεπτεμβρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Οκτωβρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Νοεμβρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Δεκεμβρίου" >
 
+<!ENTITY event.recurrence.range.label                   "Εύρος επανάληψης">
+<!ENTITY event.recurrence.repeat.for.label              "Δημιουργία" >
+<!ENTITY event.repeat.until.label                       "Επανάληψη μέχρι" >
+<!ENTITY event.recurrence.preview.label                 "Προεπισκόπηση">
 
 <!-- Attendees dialog -->
+<!ENTITY event.organizer.label                  "Διοργανωτής">
+<!ENTITY event.freebusy.legend.busy_unavailable "Εκτός γραφείου" >
+<!ENTITY event.attendee.usertype.group          "Ομάδα">
+<!ENTITY event.attendee.usertype.room           "Αίθουσα">
+<!ENTITY event.attendee.usertype.unknown        "Άγνωστο">
 
 <!-- Timezone dialog -->
+<!ENTITY event.timezone.custom.label     "Περισσότερες ζώνες ώρας…">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "Γενικά">
+<!ENTITY read.only.title.label           "Τίτλος:">
+<!ENTITY read.only.task.due.label        "Προθεσμία:">
+<!ENTITY read.only.repeat.label          "Επανάληψη:">
+<!ENTITY read.only.location.label        "Τοποθεσία:">
+<!ENTITY read.only.category.label        "Κατηγορία:">
+<!ENTITY read.only.organizer.label       "Διοργανωτής:">
+<!ENTITY read.only.reply.label           "Απάντηση:">
+<!ENTITY read.only.accept.label          "Θα παρευρεθώ">
+<!ENTITY read.only.decline.label         "Δεν θα παρευρεθώ">
+<!ENTITY read.only.tentative.label       "Ίσως παρευρεθώ">
+<!ENTITY read.only.needs.action.label    "Θα επιβεβαιώσω αργότερα">
+<!ENTITY read.only.reminder.label        "Υπενθύμιση:">
+<!ENTITY read.only.description.label     "Περιγραφή">
 <!ENTITY read.only.link.label            "Σχετικός σύνδεσμος">

@@ -7,3 +7,12 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.categories.add.title "Προσθήκη κατηγορίας">
+<!ENTITY pref.categories.addButton.label "Προσθήκη…">
+<!ENTITY pref.categories.edit.title "Επεξεργασία κατηγορίας">
+<!ENTITY pref.categories.name.label "Όνομα">
+<!ENTITY pref.categories.color.label "Χρώμα">
+<!ENTITY pref.categories.usecolor.label "Χρήση χρώματος">
+<!ENTITY pref.categories.overwrite "Υπάρχει ήδη κατηγορία με αυτό το όνομα. \n Θέλετε να την αντικαταστήσετε;">
+<!ENTITY pref.categories.overwrite.title "Προειδοποίηση: Διπλότυπο όνομα">
+<!ENTITY pref.categories.noBlankCategories "Πρέπει να εισαγάγετε όνομα κατηγορίας.">
