@@ -11,6 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Ημερολόγιο">
 
 <!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Συμβάν…">
 <!ENTITY lightning.menupopup.new.task.label     "Εργασία…">
 <!ENTITY lightning.menupopup.new.calendar.label "Ημερολόγιο…">
 

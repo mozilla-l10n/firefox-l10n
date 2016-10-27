@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Γραμμή εργαλείων ημερολογίου">
+<!ENTITY lightning.toolbar.task.name "Γραμμή εργαλείων εργασιών">
 
 <!ENTITY lightning.toolbar.sync.label "Συγχρονισμός">
 <!ENTITY lightning.toolbar.sync.tooltip "Ανανέωση ημερολογίων και συγχρονισμός αλλαγών">
@@ -20,6 +21,8 @@
 <!ENTITY lightning.toolbar.task.label         "Εργασίες">
 
 <!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Συμβάν">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Δημιουργία νέου συμβάντος">
 <!ENTITY lightning.toolbar.newtask.label      "Εργασία">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Δημιουργία νέας εργασίας">
 
@@ -29,3 +32,4 @@
 <!ENTITY lightning.toolbar.month.label               "Μήνας">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Εμφάνιση του μενού του &brandShortName;">
