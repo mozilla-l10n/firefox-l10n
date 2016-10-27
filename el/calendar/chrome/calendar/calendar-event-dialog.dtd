@@ -6,11 +6,13 @@
 
 
 
+<!ENTITY newevent.status.label                    "Κατάσταση" >
 <!ENTITY newevent.status.needsaction.label        "Απαιτείται ενέργεια" >
 <!ENTITY newevent.status.inprogress.label         "Σε εξέλιξη" >
 <!ENTITY newevent.status.completed.label          "Ολοκληρώθηκε στις" >
 
 <!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; ολοκληρωμένο">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
@@ -146,6 +148,12 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
+<!ENTITY event.recurrence.yearly.first.label                 "Την πρώτη">
+<!ENTITY event.recurrence.yearly.second.label                "Τη δεύτερη">
+<!ENTITY event.recurrence.yearly.third.label                 "Την τρίτη">
+<!ENTITY event.recurrence.yearly.fourth.label                "Την τέταρτη">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Την πέμπτη">
+<!ENTITY event.recurrence.yearly.last.label                  "Την τελευταία">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Κυριακή" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Δευτέρα" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Τρίτη" >
@@ -176,6 +184,9 @@
 <!-- Attendees dialog -->
 <!ENTITY event.organizer.label                  "Διοργανωτής">
 <!ENTITY event.freebusy.legend.busy_unavailable "Εκτός γραφείου" >
+<!ENTITY event.freebusy.legend.unknown          "Χωρίς πληροφορία" >
+<!ENTITY event.attendee.role.chair              "Κράτηση θέσης">
+<!ENTITY event.attendee.usertype.individual     "Μεμονωμένο άτομο">
 <!ENTITY event.attendee.usertype.group          "Ομάδα">
 <!ENTITY event.attendee.usertype.room           "Αίθουσα">
 <!ENTITY event.attendee.usertype.unknown        "Άγνωστο">
