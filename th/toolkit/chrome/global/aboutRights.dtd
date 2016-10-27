@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "คุณไม่ได้รับสิทธิหรือใบอนุญาตในเครื่องหมายการค้าใด ๆ ที่เป็นเครื่องหมายการค้าของมูลนิธิ Mozilla หรือบุคคลใด ๆ ไม่จำกัดทั้งชื่อหรือโลโก้ของ Firefox ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าอาจพบได้ ">
 <!ENTITY rights.intro-point2-b "ที่นี่">
-<!ENTITY rights.intro-point2-c ".">
+<!ENTITY rights.intro-point2-c "">
 
 <!-- point 2.5 text for official branded builds -->
 <!ENTITY rights.intro-point2.5 "บางคุณลักษณะใน &brandShortName; อย่างตัวรายงานข้อขัดข้อง ให้ตัวเลือกคุณในการเสนอข้อคิดเห็นมายัง &vendorShortName; โดยการเลือกส่งข้อคิดเห็นหมายถึงคุณให้อนุญาต &vendorShortName; ในการใช้ข้อคิดเห็นนั้นเพื่อปรับปรุงผลิตภัณฑ์ เผยแพร่ข้อคิดเห็นบนเว็บไซต์ และแจกจ่ายข้อคิดเห็น">
@@ -29,7 +29,7 @@
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "วิธีที่เราใช้ข้อมูลส่วนบุคคลและข้อคิดเห็นของคุณที่ส่งมายัง &vendorShortName; ผ่าน &brandShortName; ได้รับการอธิบายไว้ใน ">
 <!ENTITY rights2.intro-point3b "นโยบายความเป็นส่วนตัว &brandShortName;">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3c "">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ที่บังคับใช้สำหรับผลิตภัณฑ์นี้ควรถูกแสดงรายการไว้ที่นี่">
