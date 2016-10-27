@@ -53,11 +53,13 @@
 <!ENTITY  event.menu.options.attendees.label                  "Πρόσκληση συμμετεχόντων…">
 <!ENTITY  event.menu.options.timezone2.label                  "Εμφάνιση ζωνών ώρας">
 <!ENTITY  event.menu.options.priority2.label                  "Προτεραιότητα">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Μη καθορισμένη">
 <!ENTITY  event.menu.options.priority.low.label               "Χαμηλή">
 <!ENTITY  event.menu.options.priority.normal.label            "Κανονική">
 <!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
+<!ENTITY  event.menu.options.privacy.label                    "Ιδιωτικότητα">
 <!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Εμφάνιση ώρας και ημερομηνίας μόνο">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Εμφάνιση μόνο ώρας και ημερομηνίας">
 <!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτικό συμβάν">
 <!ENTITY  event.menu.options.show.time.label                  "Εμφάνιση ώρας ως">
 <!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
