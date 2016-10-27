@@ -204,7 +204,7 @@
 <!ENTITY event.freebusy.legend.unknown          "Χωρίς πληροφορία" >
 <!ENTITY event.attendee.role.required           "Απαιτούμενη συμμετοχή">
 <!ENTITY event.attendee.role.optional           "Προαιρετική συμμετοχή">
-<!ENTITY event.attendee.role.chair              "Κράτηση θέσης">
+<!ENTITY event.attendee.role.chair              "Επικεφαλής">
 <!ENTITY event.attendee.role.nonparticipant     "Μη συμμετέχων">
 <!ENTITY event.attendee.usertype.individual     "Μεμονωμένο άτομο">
 <!ENTITY event.attendee.usertype.group          "Ομάδα">
@@ -230,5 +230,6 @@
 <!ENTITY read.only.tentative.label       "Ίσως παρευρεθώ">
 <!ENTITY read.only.needs.action.label    "Θα επιβεβαιώσω αργότερα">
 <!ENTITY read.only.reminder.label        "Υπενθύμιση:">
+<!ENTITY read.only.attendees.label       "Συμμετέχοντες">
 <!ENTITY read.only.description.label     "Περιγραφή">
 <!ENTITY read.only.link.label            "Σχετικός σύνδεσμος">
