@@ -7,4 +7,16 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.alarmgoesoff.label "Όταν εκπνέει ο χρόνος της υπενθύμισης:">
+<!ENTITY pref.playasound "Αναπαραγωγή ήχου">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Χρήση προεπιλεγμένου ήχου">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Εξερεύνηση…">
+<!ENTITY pref.calendar.alarms.sound.play.label "Αναπαραγωγή">
+<!ENTITY pref.showalarmbox "Εμφάνιση του παραθύρου διαλόγου υπενθύμισης">
+<!ENTITY pref.missedalarms "Εμφάνιση υπενθυμίσεων που σας διέφυγαν">
+<!ENTITY pref.calendar.alarms.defaults.label "Προεπιλογές υπενθύμισης">
+<!ENTITY pref.defalarm4events.label "Προεπιλεγμένη ρύθμιση υπενθύμισης για συμβάντα:">
+<!ENTITY pref.defalarm4todos.label "Προεπιλεγμένη ρύθμιση υπενθύμισης για εργασίες:">
+<!ENTITY pref.defalarmlen4events.label "Προεπιλεγμένος χρόνος που να ορίζεται η υπενθύμιση πριν από συμβάν:">
+<!ENTITY pref.defalarmlen4todos.label "Προεπιλεγμένος χρόνος που να ορίζεται η υπενθύμιση πριν από εργασία:">
 
