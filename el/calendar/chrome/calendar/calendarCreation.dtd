@@ -2,11 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY wizard.title             "Δημιουργία νέου ημερολογίου" >
 <!ENTITY wizard.label             "Δημιουργήστε νέο ημερολόγιο" >
 
 <!ENTITY initialpage.description    "Το ημερολόγιό σας μπορεί να αποθηκευτεί στον υπολογιστή σας ή σε κάποιο διακομιστή ώστε να έχετε πρόσβαση σε αυτό από μακριά ή να το μοιράζεστε με τους φίλους σας και τους συνεργάτες σας." >
 <!ENTITY initialpage.computer.label  "Στον υπολογιστή μου">
 <!ENTITY initialpage.network.label  "Στο δίκτυο">
 
+<!ENTITY locationpage.login.description   "Προαιρετικά: εισαγάγετε όνομα χρήστη και κωδικό πρόσβασης" >
+<!ENTITY locationpage.username.label      "Όνομα χρήστη:" >
+<!ENTITY locationpage.password.label      "Συνθηματικό:" >
 
+<!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τα γεγονότα από αυτό το ημερολόγιο." >
 
+<!ENTITY finishpage.shortdescription  "Το ημερολόγιο δημιουργήθηκε" >
+<!ENTITY finishpage.longdescription   "Το ημερολόγιό σας έχει δημιουργηθεί." >
