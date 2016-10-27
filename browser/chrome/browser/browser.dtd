@@ -225,12 +225,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plassinformasjon for denne nettstaden.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for denne nettstaden.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Tilbakestill zoomnivå">
 
 <!ENTITY searchItem.title             "Søk">
 <!-- Toolbar items --> 
