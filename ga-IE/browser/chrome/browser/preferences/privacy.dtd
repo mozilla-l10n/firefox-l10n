@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Is féidir leatsa freisin">
-<!ENTITY  doNotTrack.settings.label     "bainistigh do chuid socruithe Ná Lorgtar Mé">
+<!ENTITY  doNotTrack.settings.label     "bainistigh do chuid socruithe Ná Lorgaítear Mé">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Stair">

@@ -207,8 +207,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Eolas faoin suíomh">
 
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Oscail painéal na dteachtaireachtaí">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Oscail painéal an iarratais suímh">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Oscail an painéal um theachtaireachtaí suiteála breiseáin">
 
 
 
@@ -545,13 +546,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyImageCmd.label           "Cóipeáil Suíomh na hÍomhá">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "ó">
 <!ENTITY copyImageContentsCmd.label   "Cóipeáil an Íomhá">
 <!ENTITY copyImageContentsCmd.accesskey  "p"> 
 <!ENTITY copyVideoURLCmd.label        "Cóipeáil Suíomh an Fhíseáin">
-<!ENTITY copyVideoURLCmd.accesskey    "p">
+<!ENTITY copyVideoURLCmd.accesskey    "ó">
 <!ENTITY copyAudioURLCmd.label        "Cóipeáil Suíomh na Fuaime">
-<!ENTITY copyAudioURLCmd.accesskey    "C">
+<!ENTITY copyAudioURLCmd.accesskey    "ó">
 <!ENTITY copyEmailCmd.label           "Cóipeáil an Seoladh Ríomhphoist">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "An Fráma Seo">
