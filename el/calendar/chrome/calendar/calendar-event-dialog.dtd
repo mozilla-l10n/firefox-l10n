@@ -74,6 +74,7 @@
 <!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.attachments.tooltip               "Προσθήκη επισυνάψεων">
+<!ENTITY  event.toolbar.priority.tooltip                  "Αλλαγή προτεραιότητας">
 <!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
 
 <!-- Main page -->
