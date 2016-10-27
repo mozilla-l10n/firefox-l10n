@@ -79,7 +79,20 @@
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Τρέχουσες εργασίες">
 
+<!ENTITY calendar.task-details.title.label           "τίτλος">
+<!ENTITY calendar.task-details.organizer.label       "από">
+<!ENTITY calendar.task-details.priority.label        "προτεραιότητα">
+<!ENTITY calendar.task-details.priority.low.label    "Χαμηλή">
+<!ENTITY calendar.task-details.priority.normal.label "Κανονική">
+<!ENTITY calendar.task-details.priority.high.label   "Υψηλή">
+<!ENTITY calendar.task-details.status.label          "κατάσταση">
+<!ENTITY calendar.task-details.category.label        "κατηγορία">
+<!ENTITY calendar.task-details.repeat.label          "επανάληψη">
+<!ENTITY calendar.task-details.attachments.label     "συνημμένα">
 
+<!ENTITY calendar.task.category.button.tooltip  "Κατηγοριοποίηση εργασιών">
+<!ENTITY calendar.task.complete.button.tooltip  "Σημείωση επιλεγμένων εργασιών ως ολοκληρωμένες">
+<!ENTITY calendar.task.priority.button.tooltip  "Αλλαγή της προτεραιότητας">
 
 
 <!-- Context Menu -->
@@ -163,12 +176,23 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Εργασία…">
 
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "Λίστα ημερολογίων">
 
+<!ENTITY calendar.tasks.view.filtertasks.label           "Φιλτράρισμα εργασιών">
 
 <!-- Calendar Alarm Dialog -->
 
+<!ENTITY calendar.alarm.location.label              "Τοποθεσία:" >
 
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 λεπτά" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 λεπτά" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 λεπτά" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 λεπτά" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 λεπτά" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 ώρα" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 ώρες" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 ημέρα" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
@@ -176,22 +200,41 @@
      dialog. -->
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Επεξεργασία ημερολογίου">
+<!ENTITY calendar.server.dialog.name.label          "Όνομα ημερολογίου:">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Χρώμα:">
 <!ENTITY calendarproperties.location.label                 "Τοποθεσία:">
+<!ENTITY calendarproperties.refreshInterval.label          "Ανανέωση ημερολογίου:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Με μη αυτόματο τρόπο">
 <!ENTITY calendarproperties.name.label                     "Όνομα:">
 <!ENTITY calendarproperties.readonly.label                 "Μόνο για ανάγνωση">
+<!ENTITY calendarproperties.firealarms.label               "Εμφάνιση υπενθυμίσεων">
 <!ENTITY calendarproperties.forceDisabled.label            "Ο πάροχος για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
+<!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Δημοσίευση ημερολογίου">
+<!ENTITY calendar.publish.publish.button      "Δημοσίευση">
 <!ENTITY calendar.publish.close.button      "Κλείσιμο">
 
+<!ENTITY calendar.publish.example.url.description   "Κάτι σαν http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Επιλογή ημερολογίου">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Εκτύπωση κάποιου ημερολογίου">
 <!ENTITY calendar.print.title.label "Τίτλος:">
+<!ENTITY calendar.print.layout.label "Διάταξη:">
+<!ENTITY calendar.print.range.label "Τι να εκτυπωθεί">
+<!ENTITY calendar.print.currentView2.label "Τρέχουσα προβολή">
 <!ENTITY calendar.print.tasks.label "Εργασίες">
+<!ENTITY calendar.print.events.label "Συμβάντα">
+<!ENTITY calendar.print.custom.label "Προσαρμοσμένο εύρος ημερομηνιών:">
+<!ENTITY calendar.print.from.label "Από:">
+<!ENTITY calendar.print.to.label "Έως:">
 <!ENTITY calendar.print.settingsGroup.label "Ρυθμίσεις εκτύπωσης">
 <!ENTITY calendar.print.optionsGroup.label "Επιλογές">
 <!ENTITY calendar.print.completedtasks.label "Ολοκληρωμένες εργασίες">
