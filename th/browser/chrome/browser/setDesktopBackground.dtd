@@ -4,7 +4,7 @@
 
 <!ENTITY position.label             "ตำแหน่ง:">
 <!ENTITY tile.label                 "ไทล์">
-<!ENTITY center.label               "วางตรงกลาง">
+<!ENTITY center.label               "กึ่งกลาง">
 <!ENTITY stretch.label              "ยืดเต็มหน้าจอ">
 <!ENTITY fill.label                 "ขยายเต็มหน้าจอ">
 <!ENTITY fit.label                  "พอดีหน้าจอ">
