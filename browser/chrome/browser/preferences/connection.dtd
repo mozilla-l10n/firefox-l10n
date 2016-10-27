@@ -5,18 +5,19 @@
 
 <!ENTITY  connectionsDialog.title       "ตั้งค่าการเชื่อมต่อ">
 <!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "กำหนดค่าพร็อกซีเพื่อเข้าถึงอินเทอร์เน็ต">
 <!ENTITY  noProxyTypeRadio.label        "ไม่มีพร็อกซี">
-<!ENTITY  noProxyTypeRadio.accesskey    "พ">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "ใช้การตั้งค่าพร็อกซีของระบบ">
-<!ENTITY  systemTypeRadio.accesskey     "ใ">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "ค้นหาการตั้งค่าพร็อกซีสำหรับเครือข่ายโดยอัตโนมัติ">
-<!ENTITY  WPADTypeRadio.accesskey       "ข">
-<!ENTITY  manualTypeRadio.label         "ค่าพร็อกซีที่ตั้งด้วยตนเอง:">
-<!ENTITY  manualTypeRadio.accesskey     "ต">
-<!ENTITY  autoTypeRadio.label           "ค่า URL สำหรับตั้งค่าพร็อกซีโดยอัตโนมัติ:">
-<!ENTITY  autoTypeRadio.accesskey       "อ">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "การกำหนดค่าพร็อกซีด้วยตนเอง:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL กำหนดค่าพร็อกซีอัตโนมัติ:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "โหลดใหม่">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "พร็อกซี FTP:">
@@ -39,10 +40,10 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ไม่มีพร็อกซีสำหรับ:">
-<!ENTITY  noproxy.accesskey             "ไ">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับทุกโพรโทคอล">
-<!ENTITY  shareproxy.accesskey          "ช">
+<!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโพรโทคอลทั้งหมด">
+<!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "ไม่ต้องขึ้นข้อความพร้อมรับสำหรับการพิสูจน์ ถ้ารหัสผ่านได้รับการบันทึกแล้ว">
-<!ENTITY  autologinproxy.accesskey      "พ">
+<!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "ตัวเลือกนี้จะทำการพิสูจน์ไปยังพร็อกซี่อย่างเงียบเมื่อคุณได้ทำการบันทึกหลักฐานอ้างอิงไว้แล้ว คุณจะได้รับการเตือนถ้าการพิสูจน์เกิดข้อผิดพลาด">
