@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "โครงการ">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_debug_label "ดีบั๊กแอป">
