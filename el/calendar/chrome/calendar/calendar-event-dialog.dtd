@@ -4,6 +4,7 @@
 
 <!ENTITY event.title.label                  "Επεξεργασία στοιχείου" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Διατήρηση της διάρκειας κατά την αλλαγή της ημερομηνίας λήξης">
 
 
 <!ENTITY newevent.status.label                    "Κατάσταση" >
@@ -118,9 +119,11 @@
 
 <!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
+<!ENTITY event.statusbarpanel.privacy.label               "Ιδιωτικότητα:">
 
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.bi.weekly.label                   "Ανά δεκαπενθήμερο">
 
 <!ENTITY event.recurrence.pattern.label                 "Μοτίβο επανάληψης">
 <!ENTITY event.recurrence.occurs.label                  "Επανάληψη" >
@@ -134,6 +137,7 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Κάθε" >
 <!ENTITY repeat.units.months.both                       "μήνα(ες)" >
+<!ENTITY event.recurrence.monthly.every.label           "Κάθε" >
 <!ENTITY event.recurrence.monthly.first.label           "Την πρώτη">
 <!ENTITY event.recurrence.monthly.second.label          "Τη δεύτερη">
 <!ENTITY event.recurrence.monthly.third.label           "Την τρίτη">
