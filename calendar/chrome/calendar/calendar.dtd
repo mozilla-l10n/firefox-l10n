@@ -13,6 +13,7 @@
 
 <!ENTITY calendar.today.button.label          "Σήμερα">
 <!ENTITY calendar.tomorrow.button.label       "Αύριο">
+<!ENTITY calendar.upcoming.button.label       "Επερχόμενες">
 
 <!ENTITY calendar.events.filter.all.label "Όλα τα συμβάντα">
 <!ENTITY calendar.events.filter.today.label "Σημερινά συμβάντα">
@@ -29,6 +30,7 @@
 <!ENTITY calendar.unifinder.tree.done.label                "Έγινε">
 <!ENTITY calendar.unifinder.tree.priority.label            "Προτεραιότητα">
 <!ENTITY calendar.unifinder.tree.title.label               "Τίτλος">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Ταξινόμηση με βάση τον τίτλο">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ταξινόμηση κατά ημερομηνία έναρξης">
 <!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
@@ -36,20 +38,46 @@
 
 
 
+<!ENTITY calendar.nextmonth.label               "Επόμενος μήνας" >
+<!ENTITY calendar.prevmonth.label               "Προηγούμενος μήνας" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Μία ημέρα μπροστά" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Μία ημέρα πίσω" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Μία εβδομάδα μπροστά" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Μία εβδομάδα πίσω" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Ένα μήνα μπροστά" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Ένα μήνα πίσω" >
 
+<!ENTITY calendar.newevent.button.label         "Νέο συμβάν" >
+<!ENTITY calendar.newtask.button.label          "Νέα εργασία" >
+<!ENTITY calendar.print.button.label            "Εκτύπωση" >
 
+<!ENTITY calendar.day.button.label              "Ημέρα" >
+<!ENTITY calendar.week.button.label             "Εβδομάδα" >
+<!ENTITY calendar.month.button.label            "Μήνας" >
+<!ENTITY calendar.multiweek.button.label        "Πολλαπλές εβδομάδες" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Εμφάνιση ολοκληρωμένων εργασιών" >
 
 
 <!ENTITY calendar.search.options.searchfor " που περιέχουν">
 
+<!ENTITY calendar.list.header.label                 "Ημερολόγιο">
 
+<!ENTITY calendar.task.filter.title.label           "Εμφάνιση">
+<!ENTITY calendar.task.filter.all.label             "Όλα">
+<!ENTITY calendar.task.filter.today.label           "Σήμερα">
+<!ENTITY calendar.task.filter.next7days.label       "Επόμενες επτά ημέρες">
+<!ENTITY calendar.task.filter.notstarted.label      "Εργασίες που δεν έχουν ξεκινήσει">
+<!ENTITY calendar.task.filter.overdue.label         "Εκπρόθεσμες εργασίες">
+<!ENTITY calendar.task.filter.completed.label       "Ολοκληρωμένες εργασίες">
+<!ENTITY calendar.task.filter.open.label            "Ανολοκλήρωτες εργασίες">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Τρέχουσες εργασίες">
 
 
 
