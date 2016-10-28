@@ -12,20 +12,29 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Συμβάν…">
+<!ENTITY lightning.menupopup.new.event.accesskey "Σ">
 <!ENTITY lightning.menupopup.new.task.label     "Εργασία…">
+<!ENTITY lightning.menupopup.new.task.accesskey "Ε">
 <!ENTITY lightning.menupopup.new.calendar.label "Ημερολόγιο…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "Η">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Άνοιγμα">
+<!ENTITY lightning.menupopup.open.accesskey           "α">
 <!ENTITY lightning.menupopup.open.message.label       "Αποθηκευμένο μήνυμα…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "μ">
 <!ENTITY lightning.menupopup.open.calendar.label      "Αρχείο ημερολογίου…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "η">
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Ημερολόγιο">
+<!ENTITY lightning.menu.view.calendar.accesskey        "Η">
 <!ENTITY lightning.menu.view.tasks.label               "Εργασίες">
+<!ENTITY lightning.menu.view.tasks.accesskey           "ρ">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Συμβάντα και εργασίες">
+<!ENTITY lightning.menu.eventtask.accesskey            "Σ">
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "Διεύθυνση ηλεκτρονικού ταχυδρομείου:">
@@ -66,4 +75,11 @@
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Εμφάνιση μίνι μήνα">
+<!ENTITY todaypane.showMinimonth.accesskey "μ">
 <!ENTITY todaypane.showMiniday.label "Εμφάνιση μίνι ημέρας">
+<!ENTITY todaypane.showMiniday.accesskey  "η">
+<!ENTITY todaypane.showNone.label "Τίποτα από τα δύο">
+<!ENTITY todaypane.showNone.accesskey "Τ">
+<!ENTITY todaypane.showTodayPane.label "Εμφάνιση παραθύρου ημέρας">
+<!ENTITY todaypane.showTodayPane.accesskey "π">
+<!ENTITY todaypane.statusButton.label "Παράθυρο ημέρας">
