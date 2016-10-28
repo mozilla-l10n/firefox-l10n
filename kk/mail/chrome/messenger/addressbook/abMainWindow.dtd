@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Адрестік кітапша">
-
+<!ENTITY blankResultsPaneMessage.label                  "Бұл адрестік кітапша контакттарды тек іздеуден кейін көрсетеді">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
