@@ -6,6 +6,7 @@
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Διατήρηση της διάρκειας κατά την αλλαγή της ημερομηνίας λήξης">
 
+<!ENTITY newevent.from.label                "Από" >
 
 <!ENTITY newevent.status.label                    "Κατάσταση" >
 <!ENTITY newevent.status.tentative.label          "Αβεβαιότητα" >
@@ -240,6 +241,9 @@
 <!ENTITY invite.title.label                     "Πρόσκληση συμμετεχόντων">
 <!ENTITY event.organizer.label                  "Διοργανωτής">
 <!ENTITY event.freebusy.suggest.slot            "Προτεινόμενο χρονικό περιθώριο:">
+<!ENTITY event.freebusy.button.next.slot        "Επόμενο περιθώριο">
+<!ENTITY event.freebusy.button.previous.slot    "Προηγούμενο περιθώριο">
+<!ENTITY event.freebusy.zoom                    "Επίπεδο μεγέθυνσης:">
 <!ENTITY event.freebusy.legend.free             "Διαθέσιμος/η" >
 <!ENTITY event.freebusy.legend.busy             "Απασχολημένος/η" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Με επιφύλαξη" >
