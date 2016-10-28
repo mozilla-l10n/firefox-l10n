@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ការ​រក​មើល​ឯកជន)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ការ​រក​មើលជា​​ឯកជន)">
 
 <!ENTITY appmenu.tooltip                     "បើក​ម៉ឺនុយ">
 <!ENTITY navbarOverflow.label                "ឧបករណ៍​ច្រើន​ទៀត…">
@@ -207,7 +207,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "មើល​ព័ត៌មាន​តំបន់បណ្ដាញ">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "បើក​ផ្ទាំង​សារ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "បើក​ផ្ទាំង​ស្នើ​ទីតាំង">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "បើក​ផ្ទាំង​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "បើក​ផ្ទាំង​សារ​ទំហំ​ផ្ទុក​គ្មាន​អ៊ីនធឺណិត">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "បើក​ផ្ទាំង​សារ​រក្សាទុក​ពាក្យ​សម្ងាត់">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "ប្ដូរ​ថា​ តើ​អ្នក​អាច​ទទួល​ការ​ជូនដំណឹង​ពី​ទំព័រ​បណ្ដាញ​នេះ​ដែរ​ឬ​ទេ">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
 
 
 
