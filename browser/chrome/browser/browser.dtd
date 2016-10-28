@@ -207,8 +207,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobraziť informácie o stránke">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvorí panel správ">
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Preloží túto stránku">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
@@ -409,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Výraz vyhľadávania">
+<!ENTITY contentSearchSubmit.tooltip  "Odoslať vyhľadávanie">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Zmeniť nastavenia vyhľadávania">
+<!ENTITY changeSearchSettings.tooltip "Zmeniť nastavenia vyhľadávania">
 
 <!ENTITY searchInNewTab.label         "Vyhľadať na novej karte">
 <!ENTITY searchInNewTab.accesskey     "h">
