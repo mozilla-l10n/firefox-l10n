@@ -24,7 +24,7 @@
 <!ENTITY saveButton.tooltip         "ఈ శైలి షీట్‌ను ఫైలునకు దాయి">
 <!ENTITY saveButton.accesskey       "S">
 
-<!ENTITY optionsButton.tooltip      "శైలి సరికూర్పరి ఐచ్చికాలు">
+<!ENTITY optionsButton.tooltip      "శైలి సరికూర్పరి ఎంపికలు">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
