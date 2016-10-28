@@ -35,6 +35,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.memory-calltree "การจัดสรร">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
