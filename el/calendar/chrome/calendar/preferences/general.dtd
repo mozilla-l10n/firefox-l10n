@@ -33,7 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "Σε σχέση με την έναρξη">
 <!ENTITY pref.default_task_offset_next_hour.label "Σε σχέση με την επόμενη ώρα">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Παράθυρο σημερινής ημέρας">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Παράθυρο ημέρας">
 <!ENTITY pref.soondays.label "Η ενότητα «Επερχόμενα» εμφανίζει:">
 <!ENTITY pref.soondays.accesskey "π">
 

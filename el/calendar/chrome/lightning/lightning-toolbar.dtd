@@ -18,7 +18,9 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Ημερολόγιο">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Μετάβαση στην καρτέλα ημερολογίου">
 <!ENTITY lightning.toolbar.task.label         "Εργασίες">
+<!ENTITY lightning.toolbar.task.tooltip       "Μετάβαση στην καρτέλα εργασιών">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Συμβάν">
@@ -33,3 +35,5 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Εμφάνιση του μενού του &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Παράθυρο ημερολογίου">
+<!ENTITY lightning.toolbar.calendarpane.label        "Εμφάνιση παραθύρου ημερολογίου">
