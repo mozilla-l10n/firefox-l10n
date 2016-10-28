@@ -156,6 +156,7 @@
 <!ENTITY progress.level.100            "100&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "Μη καθορισμένη">
 <!ENTITY priority.level.low                 "Χαμηλή">
 <!ENTITY priority.level.low.accesskey       "Χ">
 <!ENTITY priority.level.normal              "Κανονική">
