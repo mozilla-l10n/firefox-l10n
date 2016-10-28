@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ច">
 <!ENTITY cmd.removeFromHistory.label      "យក​ចេញពី​ប្រវត្តិ">
 <!ENTITY cmd.removeFromHistory.accesskey  "យ">
+<!ENTITY cmd.clearList2.label             "ផ្ទាំង​សម្អាត​ការ​មើល​ជា​មុន">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "សម្អាត​ការ​ទាញ​យក">
 <!ENTITY cmd.clearDownloads.accesskey     "ទ">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "បង្ហាញ​ការ​ទាញ​យក​ទាំងអស់">
 <!ENTITY downloadsHistory.accesskey       "ញ">
 
+<!ENTITY openDownloadsFolder.label       "បើក​ថត​ទាញយក">
 
 <!ENTITY clearDownloadsButton.label       "សម្អាត​ការ​ទាញ​យក">
 <!ENTITY clearDownloadsButton.tooltip     "សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ">
