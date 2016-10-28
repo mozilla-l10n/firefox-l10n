@@ -56,6 +56,7 @@
 <!ENTITY  event.menu.view.toolbars.label                  "Γραμμές εργαλείων">
 <!ENTITY  event.menu.view.toolbars.event.label            "Γραμμή εργαλείων γεγονότος">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Προσαρμογή…">
+<!ENTITY  event.menu.view.showlink.label                  "Εμφάνιση σχετικού συνδέσμου">
 
 <!ENTITY  event.menu.options.label                            "Επιλογές">
 <!ENTITY  event.menu.options.attendees.label                  "Πρόσκληση συμμετεχόντων…">
@@ -114,6 +115,7 @@
 <!ENTITY event.attendees.accesskey                        "μ">
 <!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
 <!ENTITY event.from.label                                 "Έναρξη:" >
+<!ENTITY event.from.accesskey                             "ν">
 <!ENTITY task.from.label                                  "Έναρξη:" >
 <!ENTITY task.from.accesskey                              "ν">
 <!ENTITY event.to.label                                   "Λήξη:" >
