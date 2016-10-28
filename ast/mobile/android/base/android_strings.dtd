@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "Conseyu: Amiesta cualesquier sitiu al to llistáu de fornidores de gueta teniendo primío nel so campu de gueta y dempués calca nel iconu &formatI;.">
+<!ENTITY pref_search_hint2 "TIP: Amiesta cualquier sitiu web a la llista de fornidores de gueta primiendo nel campu de gueta y calcando dempués nel iconu &formatI;.">
 <!ENTITY pref_category_advanced "Avanzao">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
