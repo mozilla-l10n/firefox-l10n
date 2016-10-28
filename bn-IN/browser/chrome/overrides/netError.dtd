@@ -9,8 +9,8 @@
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "ফিরে যান">
 <!ENTITY advanced.label "উন্নত">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "সংযোগ করতে ব্যর্থ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -58,7 +58,6 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>চিহ্নিত ঠিকানা খোলার জন্য সম্ভবত কয়েকটি সফ্টওয়্যার ইনস্টল করা আবশ্যক।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "প্রক্সি সার্ভার সংযোগ প্রত্যাখ্যান করছে">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>প্রক্সি যাচাই করে নিন</li> <li>নেটওয়ার্ক চালক এর সাথে যোগাযোগ করে নিশ্চিত করুন যে প্রক্সি সার্ভার কাজ করছে। working.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>প্রক্সি সেটিংস ঠিক দেওয়া আছে নাকি দেখে নিন</li> <li>কম্যুটারে চালু নেট কানেকশান আছে কিনা দেখে নিন</li> <li>ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকলে, নিশ্চিত করুন যে that &brandShortName; কে ওয়েব ব্যবহারের অনুমতি দেওয়া আছে।</li> </ul>">
@@ -107,9 +106,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "উন্নত">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> নিরাপত্তা টেকনোলজি ব্যবহার করে যা পুরোনো এবং আক্রমণ প্রবণ। একজন আক্রমণকারী সহজে তথ্য ছিনিয়ে নিতে পারে যা আপনি সুরক্ষিত ভাবছেন।">
 <!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) লোড করার চেষ্টা করুন <span class='hostname'></span>পুরোনো নিরাপত্তা ব্যবহার করে">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p>একটি সুরক্ষিত সংযোগ <span id='wrongSystemTime_URL'/> সম্ভব নয় কারণ আপনার ঘড়ি ভুল সময় দেখাচ্ছে।</p> <p>আপনার কম্পিউটার ভাবে <span id='wrongSystemTime_systemDate'/>, যখন এটা হতে হবে <span id='wrongSystemTime_actualDate'/>। এ সমস্যা সমাধান করবার জন্য, আপনার তারিখ এবং সময় মেলানোর চেষ্টা করুন সঠিক সময়ের জন্য।</p>">
 
 <!ENTITY certerror.pagetitle1  "নিরাপত্তাহীন সংযোগ">
