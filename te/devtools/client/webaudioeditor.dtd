@@ -21,11 +21,11 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
-<!ENTITY webAudioEditorUI.emptyNotice     "ఆడియో కాంటెక్స్ట్ సృష్టించబడునంతవరకు వేచివుండు...">
+<!ENTITY webAudioEditorUI.emptyNotice     "ఆడియో కాంటెక్స్ట్ సృష్టించడానికి వేచివున్నది…">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
-<!ENTITY webAudioEditorUI.tab.properties2 "లక్షణములు">
+<!ENTITY webAudioEditorUI.tab.properties2 "లక్షణాలు">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->
@@ -33,11 +33,11 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
-<!ENTITY webAudioEditorUI.inspectorTitle  "ఆడియోనోడ్ ఇన్‌స్పెక్టర్">
+<!ENTITY webAudioEditorUI.inspectorTitle  "AudioNode ఇన్‌స్పెక్టర్">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
-<!ENTITY webAudioEditorUI.inspectorEmpty  "ఏ ఆడియోనోడ్ ఎంపికకాలేదు.">
+<!ENTITY webAudioEditorUI.inspectorEmpty  "ఏ AudioNode ఎంపికకాలేదు.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
@@ -45,7 +45,7 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
-<!ENTITY webAudioEditorUI.automationEmpty "నోడ్లు AudioParams లక్షణాలు కలిగిలేవు.">
+<!ENTITY webAudioEditorUI.automationEmpty "నోడ్లు AudioParams కలిగిలేవు.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
