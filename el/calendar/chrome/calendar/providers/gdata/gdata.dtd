@@ -2,9 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Ημερολόγιο Google">
 
 
+<!ENTITY gdata.migration.upgrade.label "Αναβάθμιση">
 
 <!ENTITY gdata.reminder.default "Προεπιλεγμένη υπενθύμιση">
+<!ENTITY gdata.reminder.action.sms.label "Αποστολή μηνύματος κειμένου">
 
 
+<!ENTITY gdata.wizard.nextstep.description "Παρακαλούμε προχωρήστε στο επόμενο βήμα για να εγκαταστήσετε τα ημερολόγιά σας.">

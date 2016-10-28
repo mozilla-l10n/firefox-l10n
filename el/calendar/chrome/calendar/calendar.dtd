@@ -82,6 +82,7 @@
 <!ENTITY calendar.onlyworkday.checkbox.label    "Εργάσιμες ημέρες εβδομάδας μόνο" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Εμφάνιση ολοκληρωμένων εργασιών" >
 
+<!ENTITY calendar.orientation.label "Περιστροφή προβολής" >
 
 <!ENTITY calendar.search.options.searchfor " που περιέχουν">
 
