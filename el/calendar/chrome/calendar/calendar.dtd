@@ -241,6 +241,7 @@
 <!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "Χρώμα:">
 <!ENTITY calendarproperties.wcap.label                     "Διακομιστής ημερολογίου Sun Java System (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Μορφή:">
 <!ENTITY calendarproperties.location.label                 "Τοποθεσία:">
 <!ENTITY calendarproperties.refreshInterval.label          "Ανανέωση ημερολογίου:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Με μη αυτόματο τρόπο">
@@ -266,6 +267,7 @@
 <!ENTITY calendar.print.layout.label "Διάταξη:">
 <!ENTITY calendar.print.range.label "Τι να εκτυπωθεί">
 <!ENTITY calendar.print.currentView2.label "Τρέχουσα προβολή">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Επιλεγμένα συμβάντα/εργασίες">
 <!ENTITY calendar.print.tasks.label "Εργασίες">
 <!ENTITY calendar.print.events.label "Συμβάντα">
 <!ENTITY calendar.print.custom.label "Προσαρμοσμένο εύρος ημερομηνιών:">
@@ -273,6 +275,7 @@
 <!ENTITY calendar.print.to.label "Έως:">
 <!ENTITY calendar.print.settingsGroup.label "Ρυθμίσεις εκτύπωσης">
 <!ENTITY calendar.print.optionsGroup.label "Επιλογές">
+<!ENTITY calendar.print.taskswithnoduedate.label "Εργασίες χωρίς προθεσμία">
 <!ENTITY calendar.print.completedtasks.label "Ολοκληρωμένες εργασίες">
 
 <!-- Error reporting -->
