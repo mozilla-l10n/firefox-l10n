@@ -117,6 +117,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Σημείωση επιλεγμένων εργασιών ως ολοκληρωμένες">
 <!ENTITY calendar.task.priority.button.tooltip  "Αλλαγή της προτεραιότητας">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Φιλτράρισμα εργασιών #1">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Άνοιγμα">
@@ -131,6 +132,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
+<!ENTITY calendar.context.attendance.menu.label       "Συμμετοχή" >
 <!ENTITY calendar.context.attendance.occurrence.label "Αυτό το στιγμιότυπο" >
 <!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
 
