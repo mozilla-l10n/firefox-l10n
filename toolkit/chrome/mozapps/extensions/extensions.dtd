@@ -77,7 +77,7 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "నవీకరణలను కనుగొనుము">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "ఐచ్ఛికములు">
+<!ENTITY cmd.preferencesWin.label             "ఎంపికలు">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "అభీష్టాలు">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
@@ -90,7 +90,7 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "ఐచ్ఛికశైలిని దరించు">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "ఐచ్ఛికశైలిని దరించుటను ఆపు">
+<!ENTITY cmd.disableTheme.label               "ఎంపిక శైలిని దరించుటను ఆపు">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "క్రియాశీలపరచుటకు అడుగు">
 <!ENTITY cmd.askToActivate.tooltip            "ప్రతిసారి ఈ పొడిగింత ఉపయోగించుటకు అడుగు">
@@ -103,8 +103,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "తీసివేయి">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ఐచ్ఛికములు">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ఈ పొడిగింత యొక్క ఐచ్ఛికములను మార్చు">
+<!ENTITY cmd.showPreferencesWin.label         "ఎంపికలు">
+<!ENTITY cmd.showPreferencesWin.tooltip       "ఈ పొడిగింత యొక్క ఎంపికలను మార్చు">
 <!ENTITY cmd.showPreferencesUnix.label        "అభీష్టాలు">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు">
 <!ENTITY cmd.contribute.label                 "పాల్గొనుము">
@@ -146,9 +146,9 @@
 <!ENTITY detail.checkForUpdates.label         "నవీకరణల కొరకు పరిశీలించు">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించు">
-<!ENTITY detail.showPreferencesWin.label      "ఐచ్ఛికములు">
+<!ENTITY detail.showPreferencesWin.label      "ఎంపికలు">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "ఈ పొడిగింత యొక్క ఐచ్ఛికములను మార్చు">
+<!ENTITY detail.showPreferencesWin.tooltip    "ఈ పొడిగింత యొక్క ఎంపికలను మార్చు">
 <!ENTITY detail.showPreferencesUnix.label     "అభీష్టాలు">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు">
