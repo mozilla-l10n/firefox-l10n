@@ -13,7 +13,7 @@
 
 <!ENTITY calendar.today.button.label          "Σήμερα">
 <!ENTITY calendar.tomorrow.button.label       "Αύριο">
-<!ENTITY calendar.upcoming.button.label       "Επερχόμενες">
+<!ENTITY calendar.upcoming.button.label       "Επερχόμενα">
 
 <!ENTITY calendar.events.filter.all.label "Όλα τα συμβάντα">
 <!ENTITY calendar.events.filter.today.label "Σημερινά συμβάντα">
@@ -35,6 +35,7 @@
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ταξινόμηση με βάση τον τίτλο">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ταξινόμηση κατά ημερομηνία έναρξης">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Προθεσμία">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ταξινόμηση κατά προθεσμία">
 <!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ταξινόμηση κατά κατηγορία">
@@ -53,6 +54,7 @@
 <!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε προβολή ημέρας" >
 <!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε προβολή εβδομάδας" >
 <!ENTITY calendar.month.button.tooltip          "Εναλλαγή σε προβολή μήνα" >
+<!ENTITY calendar.multiweek.button.tooltip      "Εναλλαγή σε προβολή πολλών εβδομάδων" >
 
 <!ENTITY calendar.nextday.label                 "Επόμενη ημέρα" >
 <!ENTITY calendar.prevday.label                 "Προηγούμενη ημέρα" >
@@ -157,6 +159,7 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Μη καθορισμένη">
+<!ENTITY priority.level.none.accesskey      "Μ">
 <!ENTITY priority.level.low                 "Χαμηλή">
 <!ENTITY priority.level.low.accesskey       "Χ">
 <!ENTITY priority.level.normal              "Κανονική">
@@ -165,6 +168,7 @@
 <!ENTITY priority.level.high.accesskey      "Υ">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 ώρα">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "ρ">
 <!ENTITY calendar.context.postpone.1day.label       "1 ημέρα">
 <!ENTITY calendar.context.postpone.1day.accesskey   "η">
 <!ENTITY calendar.context.postpone.1week.label      "1 εβδομάδα">
@@ -206,6 +210,7 @@
 <!ENTITY calendar.context.showall.label                "Εμφάνιση όλων των ημερολογίων">
 
 <!ENTITY calendar.context.convertmenu.label              "Μετατροπή σε">
+<!ENTITY calendar.context.convertmenu.event.label        "Συμβάν…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "Σ">
 <!ENTITY calendar.context.convertmenu.message.label      "Μήνυμα…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "Μ">
@@ -252,7 +257,9 @@
 <!ENTITY calendarproperties.name.label                     "Όνομα:">
 <!ENTITY calendarproperties.readonly.label                 "Μόνο για ανάγνωση">
 <!ENTITY calendarproperties.firealarms.label               "Εμφάνιση υπενθυμίσεων">
-<!ENTITY calendarproperties.forceDisabled.label            "Ο πάροχος για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
+<!ENTITY calendarproperties.cache3.label                   "Υποστήριξη εκτός σύνδεσης">
+<!ENTITY calendarproperties.enabled.label                  "Ενεργοποίηση αυτού του ημερολογίου">
+<!ENTITY calendarproperties.forceDisabled.label            "Η υπηρεσία παροχής για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
 <!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
 
 <!-- Calendar Publish Dialog -->
