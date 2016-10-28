@@ -9,6 +9,7 @@
 <!ENTITY newevent.from.label                "Από" >
 
 <!ENTITY newevent.status.label                    "Κατάσταση" >
+<!ENTITY newevent.status.accesskey                "Κ" >
 <!ENTITY newevent.status.tentative.label          "Με επιφύλαξη" >
 <!ENTITY newevent.status.needsaction.label        "Απαιτείται ενέργεια" >
 <!ENTITY newevent.status.inprogress.label         "Σε εξέλιξη" >
@@ -114,6 +115,7 @@
 <!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
 <!ENTITY event.from.label                                 "Έναρξη:" >
 <!ENTITY task.from.label                                  "Έναρξη:" >
+<!ENTITY task.from.accesskey                              "ν">
 <!ENTITY event.to.label                                   "Λήξη:" >
 <!ENTITY event.to.accesskey                               "ξ">
 <!ENTITY task.to.label                                    "Προθεσμία:" >
@@ -121,7 +123,9 @@
 <!ENTITY task.status.label                                "Κατάσταση:" >
 <!ENTITY task.status.accesskey                            "Κ">
 <!ENTITY event.repeat.label                               "Επανάληψη:" >
+<!ENTITY event.repeat.accesskey                           "ψ">
 <!ENTITY event.until.label                                "έως και τις:">
+<!ENTITY event.until.accesskey                            "ω">
 <!ENTITY event.reminder.label                             "Υπενθύμιση:" >
 <!ENTITY event.reminder.accesskey                         "Υ">
 <!ENTITY event.description.label                          "Περιγραφή:" >
@@ -212,6 +216,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Ιανουαρίου" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Φεβρουαρίου" >
