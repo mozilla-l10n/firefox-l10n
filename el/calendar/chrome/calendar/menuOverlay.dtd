@@ -4,12 +4,15 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Νέο συμβάν…">
+<!ENTITY event.new.event.accesskey              "β">
 
 <!ENTITY event.new.task                         "Νέα εργασία…">
+<!ENTITY event.new.task.accesskey               "α">
 
 <!ENTITY calendar.import.label                  "Εισαγωγή…">
 
 <!ENTITY calendar.export.label                  "Εξαγωγή…">
+<!ENTITY calendar.export.accesskey              "ξ">
 
 <!ENTITY calendar.publish.label                 "Δημοσίευση…">
 
