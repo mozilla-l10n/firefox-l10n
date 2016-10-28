@@ -104,6 +104,10 @@ Semajno
   Skalaroj
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Skalaroj kun ŝlosilo
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Grafikaĵoj
 ">
