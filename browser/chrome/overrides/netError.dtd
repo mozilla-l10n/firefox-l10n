@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Проблем при зареждане на страница">
+<!ENTITY loadError.label "Проблем при зареждане на страницата">
 <!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY advanced.label "Допълнително">
@@ -28,11 +28,11 @@
 <!ENTITY fileNotFound.title "Файлът не е намерен">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Достъпът до файла беше отказан">
+<!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li></ul>">
 
-<!ENTITY generic.title "Опа.">
-<!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
+<!ENTITY generic.title "Олеле.">
+<!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
 <!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
