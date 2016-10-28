@@ -191,12 +191,15 @@
 <!ENTITY event.recurrence.pattern.yearly.month.8.label       "Αυγούστου" >
 <!ENTITY event.recurrence.pattern.yearly.month.9.label       "Σεπτεμβρίου" >
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Οκτωβρίου" >
-<!ENTITY event.recurrence.yearly.first.label                 "Την πρώτη">
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Νοεμβρίου" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Δεκεμβρίου" >
+<!ENTITY event.recurrence.yearly.every.label                 "κάθε">
+<!ENTITY event.recurrence.yearly.first.label                 "την πρώτη">
 <!ENTITY event.recurrence.yearly.second.label                "Τη δεύτερη">
-<!ENTITY event.recurrence.yearly.third.label                 "Την τρίτη">
-<!ENTITY event.recurrence.yearly.fourth.label                "Την τέταρτη">
-<!ENTITY event.recurrence.yearly.fifth.label                 "Την πέμπτη">
-<!ENTITY event.recurrence.yearly.last.label                  "Την τελευταία">
+<!ENTITY event.recurrence.yearly.third.label                 "την τρίτη">
+<!ENTITY event.recurrence.yearly.fourth.label                "την τέταρτη">
+<!ENTITY event.recurrence.yearly.fifth.label                 "την πέμπτη">
+<!ENTITY event.recurrence.yearly.last.label                  "την τελευταία">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Κυριακή" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Δευτέρα" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Τρίτη" >
@@ -219,9 +222,11 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Νοεμβρίου" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Δεκεμβρίου" >
 
-<!ENTITY event.recurrence.range.label                   "Εύρος επανάληψης">
-<!ENTITY event.recurrence.repeat.for.label              "Δημιουργία" >
-<!ENTITY event.repeat.until.label                       "Επανάληψη μέχρι" >
+<!ENTITY event.recurrence.range.label                   "Εμβέλεια επανάληψης">
+<!ENTITY event.recurrence.forever.label                 "Χωρίς τέλος" >
+<!ENTITY event.recurrence.repeat.for.label              "Να δημιουργηθεί/ούν" >
+<!ENTITY event.recurrence.appointments.label            "στιγμιότυπο/α" >
+<!ENTITY event.repeat.until.label                       "Να επαναλαμβάνεται μέχρι και τις" >
 <!ENTITY event.recurrence.preview.label                 "Προεπισκόπηση">
 
 <!-- Attendees dialog -->
