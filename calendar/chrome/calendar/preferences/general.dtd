@@ -27,9 +27,16 @@
 <!ENTITY pref.default_task_none.label "Καμία">
 <!ENTITY pref.default_task_start_of_day.label "Αρχή ημέρας">
 <!ENTITY pref.default_task_end_of_day.label "Τέλος ημέρας">
-<!ENTITY pref.default_task_tomorrow.label "Αύριο">
+<!ENTITY pref.default_task_tomorrow.label "Αυριανή ημέρα">
 <!ENTITY pref.default_task_next_week.label "Επόμενη εβδομάδα">
+<!ENTITY pref.default_task_offset_current.label "Σε σχέση με την τρέχουσα χρονική στιγμή">
+<!ENTITY pref.default_task_offset_start.label "Σε σχέση με την έναρξη">
+<!ENTITY pref.default_task_offset_next_hour.label "Σε σχέση με την επόμενη ώρα">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Παράθυρο σημερινής ημέρας">
+<!ENTITY pref.soondays.label "Η ενότητα «Επερχόμενα» εμφανίζει:">
+<!ENTITY pref.soondays.accesskey "π">
 
 <!ENTITY pref.accessibility.label "Προσιτότητα" >
 <!ENTITY pref.systemcolors.label "Βελτιστοποίηση χρωμάτων για προσιτότητα" >
+<!ENTITY pref.systemcolors.accesskey "Β">
