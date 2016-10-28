@@ -72,7 +72,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ప్రవేశించు">
-<!ENTITY existingRecoveryKey.description "మీరు మీ ఇతర పరికరముపైని &syncBrand.shortName.label; ఐచ్ఛికములకు వెళ్ళి, &quot;నా రికవరీ కీను&quot; &quot;ఖాతా నిర్వహించు&quot; కిందన  యెంచుకొనుట ద్వారా మీ రికవరీ కీ యొక్క కాపీను పొందగలరు.">
+<!ENTITY existingRecoveryKey.description "మీరు మీ ఇతర పరికరముపైని &syncBrand.shortName.label; ఎంపికలకు వెళ్ళి, &quot;నా రికవరీ కీను&quot; &quot;ఖాతా నిర్వహించు&quot; కిందన  యెంచుకొనుట ద్వారా మీ రికవరీ కీ యొక్క కాపీను పొందగలరు.">
 <!ENTITY verifying.label              "పరిశీలిస్తున్నది…">
 <!ENTITY resetPassword.label          "సంకేతపదమును తిరిగిఅమర్చు">
 <!ENTITY resetSyncKey.label           "నేను నా ఇతర పరికరమును కోల్పోయాను.">
@@ -110,5 +110,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "అమర్పు పూర్తైనది">
-<!ENTITY changeOptions.label "కింది సింక్ ఐచ్ఛికములను ఎంపిక చేయుట ద్వారా మీరు ఈ అభీష్టమును మార్చగలరు.">
+<!ENTITY changeOptions.label "కింది సింక్ ఎంపికలను ఎంపిక చేయుట ద్వారా మీరు ఈ అభీష్టమును మార్చగలరు.">
 <!ENTITY continueUsing.label "మీరు ఇప్పుడు &brandShortName; ను ఉపయోగించుట కొనసాగించవచ్చును.">
