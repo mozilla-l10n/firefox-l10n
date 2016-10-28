@@ -9,7 +9,7 @@
 <!ENTITY newevent.from.label                "Από" >
 
 <!ENTITY newevent.status.label                    "Κατάσταση" >
-<!ENTITY newevent.status.tentative.label          "Αβεβαιότητα" >
+<!ENTITY newevent.status.tentative.label          "Με επιφύλαξη" >
 <!ENTITY newevent.status.needsaction.label        "Απαιτείται ενέργεια" >
 <!ENTITY newevent.status.inprogress.label         "Σε εξέλιξη" >
 <!ENTITY newevent.status.completed.label          "Ολοκληρώθηκε στις" >
@@ -41,10 +41,14 @@
 <!ENTITY  event.menu.item.print.label                     "Εκτύπωση">
 
 <!ENTITY  event.menu.edit.label                           "Επεξεργασία">
+<!ENTITY  event.menu.edit.accesskey                       "Ε">
 <!ENTITY  event.menu.edit.undo.label                      "Αναίρεση">
 <!ENTITY  event.menu.edit.cut.label                       "Αποκοπή">
+<!ENTITY  event.menu.edit.cut.accesskey                   "κ">
 <!ENTITY  event.menu.edit.copy.label                      "Αντιγραφή">
+<!ENTITY  event.menu.edit.copy.accesskey                  "γ">
 <!ENTITY  event.menu.edit.paste.label                     "Επικόλληση">
+<!ENTITY  event.menu.edit.paste.accesskey                 "λ">
 <!ENTITY  event.menu.edit.select.all.label                "Επιλογή όλων">
 
 <!ENTITY  event.menu.view.label                           "Προβολή">
@@ -58,13 +62,19 @@
 <!ENTITY  event.menu.options.priority2.label                  "Προτεραιότητα">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Μη καθορισμένη">
 <!ENTITY  event.menu.options.priority.low.label               "Χαμηλή">
+<!ENTITY  event.menu.options.priority.low.accesskey           "Χ">
 <!ENTITY  event.menu.options.priority.normal.label            "Κανονική">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "Κ">
 <!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
+<!ENTITY  event.menu.options.priority.high.accesskey          "Υ">
 <!ENTITY  event.menu.options.privacy.label                    "Ιδιωτικότητα">
 <!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Εμφάνιση μόνο ώρας και ημερομηνίας">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "Δ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Αποκάλυψη μόνο ώρας και ημερομηνίας">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Α">
 <!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτικό συμβάν">
-<!ENTITY  event.menu.options.show.time.label                  "Εμφάνιση ώρας ως">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "Ι">
+<!ENTITY  event.menu.options.show.time.label                  "Να εμφανίζομαι ως">
 <!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
 <!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
 
@@ -87,6 +97,7 @@
 <!ENTITY  event.toolbar.privacy.tooltip                   "Αλλαγή ιδιωτικότητας">
 <!ENTITY  event.toolbar.priority.tooltip                  "Αλλαγή προτεραιότητας">
 <!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Αλλαγή της εμφάνισης ως διαθέσιμος/απασχολημένος">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Τίτλος:" >
@@ -99,17 +110,24 @@
 <!ENTITY event.calendar.label                             "Ημερολόγιο:" >
 <!ENTITY event.calendar.accesskey                         "Η">
 <!ENTITY event.attendees.label                            "Συμμετέχοντες:" >
+<!ENTITY event.attendees.accesskey                        "μ">
 <!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
 <!ENTITY event.from.label                                 "Έναρξη:" >
 <!ENTITY task.from.label                                  "Έναρξη:" >
 <!ENTITY event.to.label                                   "Λήξη:" >
+<!ENTITY event.to.accesskey                               "ξ">
 <!ENTITY task.to.label                                    "Προθεσμία:" >
+<!ENTITY task.to.accesskey                                "Π">
 <!ENTITY task.status.label                                "Κατάσταση:" >
+<!ENTITY task.status.accesskey                            "Κ">
 <!ENTITY event.repeat.label                               "Επανάληψη:" >
 <!ENTITY event.until.label                                "έως και τις:">
 <!ENTITY event.reminder.label                             "Υπενθύμιση:" >
+<!ENTITY event.reminder.accesskey                         "Υ">
 <!ENTITY event.description.label                          "Περιγραφή:" >
+<!ENTITY event.description.accesskey                      "φ">
 <!ENTITY event.attachments.label                          "Συνημμένα:" >
+<!ENTITY event.attachments.accesskey                      "Σ" >
 <!ENTITY event.attachments.menubutton.label               "Επισύναψη">
 <!ENTITY event.attachments.url.label                      "Ιστοσελίδα…">
 <!ENTITY event.attachments.popup.remove.label             "Αφαίρεση" >
@@ -134,6 +152,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Κατά τη διάρκεια αυτού του συμβάντος εμφανίζομαι ως:">
 <!ENTITY event.statusbarpanel.privacy.label               "Ιδιωτικότητα:">
 
 <!-- Recurrence dialog -->
