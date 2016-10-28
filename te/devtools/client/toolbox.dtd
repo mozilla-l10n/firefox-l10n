@@ -93,7 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "రిమోట్ డీబగ్గింగ్ చేతనంచేయి">
-<!ENTITY options.enableRemote.tooltip2  "ఈ ఐచ్చికం ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును">
+<!ENTITY options.enableRemote.tooltip2  "ఈ ఎంపిక ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -105,7 +105,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript * అచేతనంచేయి">
-<!ENTITY options.disableJavaScript.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
+<!ENTITY options.disableJavaScript.tooltip   "ఈ ఎంపిక ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
@@ -157,7 +157,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "టైమ్‌స్టాంప్స్ చేతనంచేయి">
-<!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఐచ్చికం చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
+<!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఎంపిక చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -184,14 +184,14 @@
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.enablePersistentLogs.label    "స్థిరమైన లాగ్‌లను చేతనంచేయును">
-<!ENTITY options.enablePersistentLogs.tooltip  "మీరు ఈ ఐచ్చికం చేతనంచేస్తే వెబ్ కన్సోల్ మరియు నెట్వర్క్ పర్యవేక్షకి అనునవి మీరు ప్రతిసారి కొత్త పేజీకు వెళ్ళినప్పుడు అవుట్పుట్‌ను శుభ్రంచేయవు">
+<!ENTITY options.enablePersistentLogs.tooltip  "మీరు ఈ ఎంపిక చేతనంచేస్తే వెబ్ కన్సోల్ మరియు నెట్వర్క్ పర్యవేక్షకి అనునవి మీరు ప్రతిసారి కొత్త పేజీకు వెళ్ళినప్పుడు అవుట్పుట్‌ను శుభ్రంచేయవు">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "గెకో ప్లాట్‌ఫాం దత్తాంశం చూపు">
-<!ENTITY options.showPlatformData.tooltip  "మీరు ఈ ఐచ్చికం చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునదిగెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును">
+<!ENTITY options.showPlatformData.tooltip  "మీరు ఈ ఎంపిక చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునదిగెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->

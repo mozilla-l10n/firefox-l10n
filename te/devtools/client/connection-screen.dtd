@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox Developer Tools రిమోట్ పరికరాలను (అంటే, Android కోసం Firefox మరియు Firefox OS లను) డీబగ్ చేయగలవు. రిమోట్ పరికరంలో మీరు 'రిమోట్ డీబగ్గింగ్' ఐచ్చికం ఆన్‌ చేసి ఉండేలా చూసుకోండి. మరింత వివరాలకు, చూడండి ">
+<!ENTITY remoteHelp "Firefox Developer Tools రిమోట్ పరికరాలను (అంటే, Android కోసం Firefox మరియు Firefox OS లను) డీబగ్ చేయగలవు. రిమోట్ పరికరంలో మీరు 'రిమోట్ డీబగ్గింగ్' ఎంపిక ఆన్‌ చేసి ఉండేలా చూసుకోండి. మరింత వివరాలకు, చూడండి ">
 <!ENTITY remoteDocumentation "పత్రీకరణ">
 <!ENTITY remoteHelpSuffix ".">
 
