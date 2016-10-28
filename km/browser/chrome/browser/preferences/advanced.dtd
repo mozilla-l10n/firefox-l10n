@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "ទ">
 <!ENTITY telemetryLearnMore.label        "សិក្សា​​បន្ថែម">
 
+<!ENTITY crashReporterDesc2.label         "របាយការណ៍​ភាព​ជាប់គាំង​ជួយ &vendorShortName; ដោះស្រាយ​បញ្ហា និង​ធ្វើ​ឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​​មាន​ស្ថេរភាព និង​សុវត្ថិភាព​បន្ថែម">
+<!ENTITY alwaysSubmitCrashReports.label   "អនុញ្ញាត​ឲ្យ &brandShortName; ផ្ញើ​របាយការណ៍​ភាព​ជាប់​គាំង​ដែល​បាន​បម្រុង​ជំនួសអ្នក">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "សិក្សា​​បន្ថែម">
 
 <!ENTITY networkTab.label                "បណ្តាញ">
