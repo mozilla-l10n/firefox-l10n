@@ -208,6 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobraziť informácie o stránke">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvorí panel správ">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Preloží túto stránku">
