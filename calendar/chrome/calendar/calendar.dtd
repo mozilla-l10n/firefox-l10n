@@ -29,15 +29,34 @@
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Έγινε">
 <!ENTITY calendar.unifinder.tree.priority.label            "Προτεραιότητα">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ταξινόμηση κατά σειρά προτεραιότητας">
 <!ENTITY calendar.unifinder.tree.title.label               "Τίτλος">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ταξινόμηση με βάση τον τίτλο">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ταξινόμηση κατά ημερομηνία έναρξης">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ταξινόμηση κατά προθεσμία">
 <!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ταξινόμηση κατά κατηγορία">
 <!ENTITY calendar.unifinder.tree.location.label            "Τοποθεσία">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Ταξινόμηση κατά τοποθεσία">
+<!ENTITY calendar.unifinder.tree.status.label              "Κατάσταση">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ταξινόμηση κατά σειρά κατάστασης">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Όνομα ημερολογίου">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ταξινόμηση κατά όνομα ημερολογίου">
+<!ENTITY calendar.unifinder.tree.duration.label            "Προθεσμία">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ταξινόμηση με βάση το χρόνο που υπολείπεται μέχρι την προθεσμία">
+<!ENTITY calendar.unifinder.close.tooltip                  "Κλείσιμο αναζήτησης συμβάντων και λίστας συμβάντων">
 
+<!ENTITY calendar.today.button.tooltip          "Μετάβαση στη σημερινή ημέρα" >
 
+<!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε προβολή ημέρας" >
+<!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε προβολή εβδομάδας" >
+<!ENTITY calendar.month.button.tooltip          "Εναλλαγή σε προβολή μήνα" >
 
+<!ENTITY calendar.nextday.label                 "Επόμενη ημέρα" >
+<!ENTITY calendar.prevday.label                 "Προηγούμενη ημέρα" >
+<!ENTITY calendar.nextweek.label                "Επόμενη εβδομάδα" >
+<!ENTITY calendar.prevweek.label                "Προηγούμενη εβδομάδα" >
 <!ENTITY calendar.nextmonth.label               "Επόμενος μήνας" >
 <!ENTITY calendar.prevmonth.label               "Προηγούμενος μήνας" >
 
@@ -56,6 +75,7 @@
 <!ENTITY calendar.week.button.label             "Εβδομάδα" >
 <!ENTITY calendar.month.button.label            "Μήνας" >
 <!ENTITY calendar.multiweek.button.label        "Πολλαπλές εβδομάδες" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Εργάσιμες ημέρες εβδομάδας μόνο" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Εμφάνιση ολοκληρωμένων εργασιών" >
 
 
@@ -89,6 +109,8 @@
 <!ENTITY calendar.task-details.category.label        "κατηγορία">
 <!ENTITY calendar.task-details.repeat.label          "επανάληψη">
 <!ENTITY calendar.task-details.attachments.label     "συνημμένα">
+<!ENTITY calendar.task-details.start.label           "ημερομηνία έναρξης">
+<!ENTITY calendar.task-details.due.label             "ημερομηνία λήξης της προθεσμίας">
 
 <!ENTITY calendar.task.category.button.tooltip  "Κατηγοριοποίηση εργασιών">
 <!ENTITY calendar.task.complete.button.tooltip  "Σημείωση επιλεγμένων εργασιών ως ολοκληρωμένες">
@@ -108,6 +130,8 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
+<!ENTITY calendar.context.attendance.occurrence.label "Αυτό το στιγμιότυπο" >
+<!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Πρόοδος">
@@ -118,10 +142,15 @@
 
 <!ENTITY calendar.context.markcompleted.label     "Σημείωση ως ολοκληρωμένη">
 
+<!ENTITY progress.level.0             "0&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.low                 "Χαμηλή">
@@ -131,6 +160,7 @@
 <!ENTITY priority.level.high                "Υψηλή">
 <!ENTITY priority.level.high.accesskey      "Υ">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 ώρα">
 <!ENTITY calendar.context.postpone.1day.label       "1 ημέρα">
 <!ENTITY calendar.context.postpone.1day.accesskey   "η">
 <!ENTITY calendar.context.postpone.1week.label      "1 εβδομάδα">
@@ -155,6 +185,7 @@
       list. -->
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
+<!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">
 <!ENTITY calendar.context.publish.accesskey            "η">
 <!ENTITY calendar.context.export.label                 "Εξαγωγή ημερολογίου…">
 <!ENTITY calendar.context.properties.label             "Ιδιότητες">
@@ -172,9 +203,11 @@
 
 <!ENTITY calendar.context.convertmenu.label              "Μετατροπή σε">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "Σ">
+<!ENTITY calendar.context.convertmenu.message.label      "Μήνυμα…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "Μ">
 <!ENTITY calendar.context.convertmenu.task.label         "Εργασία…">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Μίνι μήνας">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Λίστα ημερολογίων">
 
@@ -183,7 +216,9 @@
 <!-- Calendar Alarm Dialog -->
 
 <!ENTITY calendar.alarm.location.label              "Τοποθεσία:" >
+<!ENTITY calendar.alarm.details.label               "Λεπτομέρειες…" >
 
+<!ENTITY calendar.alarm.title.label                 "Υπενθυμίσεις ημερολογίου" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 λεπτά" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 λεπτά" >
@@ -205,6 +240,7 @@
 
 <!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "Χρώμα:">
+<!ENTITY calendarproperties.wcap.label                     "Διακομιστής ημερολογίου Sun Java System (WCAP)">
 <!ENTITY calendarproperties.location.label                 "Τοποθεσία:">
 <!ENTITY calendarproperties.refreshInterval.label          "Ανανέωση ημερολογίου:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Με μη αυτόματο τρόπο">
