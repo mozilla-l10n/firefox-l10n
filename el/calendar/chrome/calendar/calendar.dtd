@@ -50,6 +50,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Κλείσιμο αναζήτησης συμβάντων και λίστας συμβάντων">
 
 <!ENTITY calendar.today.button.tooltip          "Μετάβαση στη σημερινή ημέρα" >
+<!ENTITY calendar.todaypane.button.tooltip      "Εμφάνιση παραθύρου σημερινής ημέρας" >
 
 <!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε προβολή ημέρας" >
 <!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε προβολή εβδομάδας" >
@@ -134,6 +135,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
+<!ENTITY calendar.context.button.label                "Παράθυρο σημερινής ημέρας" >
 <!ENTITY calendar.context.attendance.menu.label       "Συμμετοχή" >
 <!ENTITY calendar.context.attendance.occurrence.label "Αυτό το στιγμιότυπο" >
 <!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
