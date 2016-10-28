@@ -6,7 +6,7 @@
 <!ENTITY syncCustomize.acceptButton.label "ప్రారంభించు">
 
 <!ENTITY syncCustomize.title              "మీరు ఏమి సింక్ చేయాలని అనుకుంటున్నారు?">
-<!ENTITY syncCustomize.description        "మీరు ఈ ఎంపికను ఐచ్చికాలలో మార్చవచ్చు.">
+<!ENTITY syncCustomize.description        "మీరు ఈ ఎంపికను ఎంపికలలో మార్చవచ్చు.">
 <!ENTITY syncCustomizeUnix.description    "మీరు ఈ అభీష్టాలను ఎంపికనందు మార్చవచ్చు.">
 
 <!--
