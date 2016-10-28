@@ -54,21 +54,21 @@
 
 <!-- Thread Pane Tooltips -->
 
+<!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
+<!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
+
+<!ENTITY subjectColumn2.tooltip "Тақырыбы бойынша сұрыптау">
+<!ENTITY dateColumn2.tooltip "Күні бойынша сұрыптау">
+<!ENTITY priorityColumn2.tooltip "Приоритеті бойынша сұрыптау">
+<!ENTITY tagsColumn2.tooltip "Тегтер бойынша сұрыптау">
+<!ENTITY accountColumn2.tooltip "Тіркелгі бойынша сұрыптау">
+<!ENTITY statusColumn2.tooltip "Қалып-күйі бойынша сұрыптау">
+<!ENTITY sizeColumn2.tooltip "Өлшемі бойынша сұрыптау">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Оқылғаны бойынша сұрыптау">
+<!ENTITY receivedColumn2.tooltip "Алынған күні бойынша сұрыптау">
+<!ENTITY starredColumn2.tooltip "Жұлдызша бойынша сұрыптау">
+<!ENTITY locationColumn2.tooltip "Орналасуы бойынша сұрыптау">
+<!ENTITY idColumn2.tooltip "Алынған реті бойынша сұрыптау">
