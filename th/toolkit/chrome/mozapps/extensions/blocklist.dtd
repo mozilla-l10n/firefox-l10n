@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY blocklist.title             "ส่วนเสริมที่อาจจะสร้างปัญหา">
+<!ENTITY blocklist.title             "ส่วนเสริมที่อาจก่อให้เกิดปัญหา">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; ได้ตรวจสอบแล้วว่าส่วนเสริมดังกล่าวอาจจะสร้างปัญหาด้านเสถียรภาพและความปลอดภัย:">
 <!ENTITY blocklist.softblocked       "เพื่อการป้องกันของคุณ เราแนะนำให้คุณปิดใช้งานส่วนเสริมเหล่านี้แล้วเริ่มเบราเซอร์ใหม่">
@@ -11,7 +11,7 @@
 <!ENTITY blocklist.moreinfo          "ข้อมูลเพิ่มเติม">
 
 <!ENTITY blocklist.accept.label      "เริ่มการทำงาน &brandShortName; ใหม่">
-<!ENTITY blocklist.accept.accesskey  "เ">
+<!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "ถูกปิดกั้น">
 <!ENTITY blocklist.checkbox.label    "ปิดใช้งาน">
