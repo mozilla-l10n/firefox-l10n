@@ -67,16 +67,22 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
 
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
+<!ENTITY event.email.attendees.label                      "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς όλους τους συμμετέχοντες…">
+<!ENTITY event.email.tentative.attendees.label            "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς τους αναποφάσιστους συμμετέχοντες…">
+<!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
+<!ENTITY event.remove.attendee.label                      "Αφαίρεση συμμετέχοντα">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
+<!ENTITY  event.toolbar.attendees.label                   "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.privacy.label                     "Ιδιωτικότητα">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.attachments.tooltip               "Προσθήκη επισυνάψεων">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Αλλαγή ιδιωτικότητας">
 <!ENTITY  event.toolbar.priority.tooltip                  "Αλλαγή προτεραιότητας">
 <!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
 
@@ -86,6 +92,7 @@
 <!ENTITY event.categories.label                           "Κατηγορία:">
 <!ENTITY event.categories.textbox.label                   "Προσθήκη νέας κατηγορίας" >
 <!ENTITY event.calendar.label                             "Ημερολόγιο:" >
+<!ENTITY event.attendees.label                            "Συμμετέχοντες:" >
 <!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
 <!ENTITY event.from.label                                 "Έναρξη:" >
 <!ENTITY task.from.label                                  "Έναρξη:" >
@@ -103,6 +110,7 @@
 <!ENTITY event.attachments.popup.open.label               "Άνοιγμα" >
 <!ENTITY event.attachments.popup.removeAll.label          "Αφαίρεση όλων" >
 <!ENTITY event.attachments.popup.attachPage.label         "Επισύναψη ιστοσελίδας…" >
+<!ENTITY event.url.label                                  "Σχετικός σύνδεσμος:" >
 <!ENTITY event.priority2.label                            "Προτεραιότητα:">
 
 <!ENTITY event.reminder.none.label                        "Χωρίς υπενθύμιση " >
@@ -116,6 +124,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 ημέρα πριν" >
 <!ENTITY event.reminder.2days.before.label                "2 ημέρες πριν" >
 <!ENTITY event.reminder.1week.before.label                "1 εβδομάδα πριν" >
+<!ENTITY event.reminder.custom.label                      "Προσαρμογή…" >
 
 <!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
@@ -123,17 +132,19 @@
 
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.does.not.repeat.label             "Δεν επαναλαμβάνεται">
 <!ENTITY event.repeat.bi.weekly.label                   "Ανά δεκαπενθήμερο">
 
 <!ENTITY event.recurrence.pattern.label                 "Μοτίβο επανάληψης">
 <!ENTITY event.recurrence.occurs.label                  "Επανάληψη" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Κάθε" >
-<!ENTITY repeat.units.days.both                         "ημέρα(ες)" >
+<!ENTITY repeat.units.days.both                         "ημέρα/ες" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Μόνο τις καθημερινές" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Κάθε" >
 <!ENTITY repeat.units.weeks.both                        "εβδομάδα(ες)" >
+<!ENTITY event.recurrence.on.label                      "Στις:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Κάθε" >
 <!ENTITY repeat.units.months.both                       "μήνα(ες)" >
