@@ -216,11 +216,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ប្ដូរ​ថា​ តើ​អ្នក​អាច​ទទួល​ការ​ជូនដំណឹង​ពី​ទំព័រ​បណ្ដាញ​នេះ​ដែរ​ឬ​ទេ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "គ្រប់គ្រង​ការ​ចែករំលែក​មីក្រូហ្វូន​របស់​អ្នក​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "គ្រប់គ្រង​ការ​ចែករំលែក​វីនដូ ឬ​អេក្រង់​របស់​អ្នក​ជាមួយ​ទំព័រ​បណ្ដាញ">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "បើក​ផ្ទាំង​សារ​ដំឡើង">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "បកប្រែ​ទំព័រ​នេះ">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "គ្រប់គ្រង​ការ​បកប្រែ​ទំព័រ">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "គ្រប់គ្រង​ការ​ប្រើប្រាស់​កម្មវិធី DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "អ្នក​បាន​បិទ​កាមេរ៉ា​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "អ្នក​បាន​បិទ​មីក្រូហ្វូន​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។">
+<!ENTITY urlbar.screenBlocked.tooltip            "អ្នក​បាន​បិទ​វិបសាយ​នេះ​ពី​ការ​ចែករំលែក​អេក្រង់​របស់​អ្នក។">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "អ្នក​បាន​បិទ​ព័ត៌មាន​អំពី​ទីតាំង​សម្រាប់​វិបសាយ​នេះ។">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "អ្នក​បាន​បិទ​ទំហំ​ផ្ទុក​ទិន្នន័យ​សម្រាប់​វិបសាយ​នេះ។">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "អ្នក​បាន​បិទ​ការ​ជូនដំណឹង​សម្រាប់​វិបសាយ​នេះ។">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
 
+<!ENTITY urlbar.zoomReset.tooltip     "កំណត់​កម្រិត​ពង្រីក/បង្រួម​ឡើងវិញ">
 
 <!ENTITY searchItem.title             "ស្វែងរក">
 
@@ -417,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "សំណួរ​ស្វែងរក">
+<!ENTITY contentSearchSubmit.tooltip  "ដាក់​ស្នើ​ការ​ស្វែងរក">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -442,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក">
+<!ENTITY changeSearchSettings.tooltip "ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក">
 
 <!ENTITY searchInNewTab.label         "ស្វែងរក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -719,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ការ​អនុញ្ញាត">
 <!ENTITY identity.permissionsEmpty "អ្នក​មិន​បាន​ផ្ដល់​សិទ្ធិ​អនុញ្ញាត​ពិសេស​ណា​មួយ​​ដល់​តំបន់បណ្ដាញ​នេះ​ទេ។">
+<!ENTITY identity.permissionsReloadHint "អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
