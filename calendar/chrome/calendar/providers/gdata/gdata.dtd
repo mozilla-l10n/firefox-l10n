@@ -5,10 +5,12 @@
 <!ENTITY gdata-provider.label "Ημερολόγιο Google">
 
 
+<!ENTITY gdata.migration.description "Η υπηρεσία παροχής για το ημερολόγιο Google έχει εντοπίσει ότι έχετε υπάρχοντα ημερολόγια που έχουν πρόσβαση στο ημερολόγιο Google σε λειτουργία μόνο για ανάγνωση. Εάν θα επιθυμούσατε να αναβαθμίσετε οποιοδήποτε από αυτά τα ημερολόγια, παρακαλούμε επιλέξτε το παρακάτω">
 <!ENTITY gdata.migration.upgrade.label "Αναβάθμιση">
 
 <!ENTITY gdata.reminder.default "Προεπιλεγμένη υπενθύμιση">
 <!ENTITY gdata.reminder.action.sms.label "Αποστολή μηνύματος κειμένου">
 
+<!ENTITY gdata.wizard.calendars.description "Παρακαλούμε επιλέξτε ημερολόγια και λίστες εργασιών στα οποία θα θέλατε να εγγραφείτε.">
 
 <!ENTITY gdata.wizard.nextstep.description "Παρακαλούμε προχωρήστε στο επόμενο βήμα για να εγκαταστήσετε τα ημερολόγιά σας.">
