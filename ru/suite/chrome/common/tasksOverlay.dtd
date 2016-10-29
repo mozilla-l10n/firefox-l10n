@@ -10,7 +10,7 @@
 <!ENTITY editorCmd.commandkey "4">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "о">
-<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY errorConsoleCmd.commandkey "o">
 <!ENTITY taskNavigator.tooltip "Браузер">
 <!ENTITY taskComposer.tooltip "Компоновщик">
 <!ENTITY webDevelopment.label "Веб-разработка">

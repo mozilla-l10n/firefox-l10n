@@ -12,7 +12,6 @@
 <!ENTITY debuggerUI.autoPrettyPrint "Автоматически прихорашивать минимизированные исходники">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "в">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Включить/отключить все точки останова">
-<!ENTITY debuggerUI.sources.togglePromiseDebugger "Показать/скрыть отладчик Promise">
 <!ENTITY debuggerUI.clearButton "Очистить">
 <!ENTITY debuggerUI.clearButton.tooltip "Очистить собранные трассировки">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливаться на исключениях">
