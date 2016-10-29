@@ -11,11 +11,15 @@
 <!ENTITY pref.playasound "Αναπαραγωγή ήχου">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "χ">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Χρήση προεπιλεγμένου ήχου">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "λ">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Εξερεύνηση…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "ξ">
 <!ENTITY pref.calendar.alarms.sound.play.label "Αναπαραγωγή">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "π">
 <!ENTITY pref.showalarmbox "Εμφάνιση του παραθύρου διαλόγου υπενθύμισης">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "θ">
 <!ENTITY pref.missedalarms "Εμφάνιση υπενθυμίσεων που σας διέφυγαν">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "δ">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "φ">
 <!ENTITY pref.calendar.alarms.defaults.label "Προεπιλογές υπενθύμισης">
 <!ENTITY pref.defalarm4events.label "Να μπαίνει υπενθύμιση για συμβάντα εκ προεπιλογής:">
 <!ENTITY pref.defalarm4events.accesskey "σ">
@@ -24,5 +28,9 @@
 <!ENTITY pref.alarm.on "Ναι">
 <!ENTITY pref.alarm.off "Όχι">
 <!ENTITY pref.defalarmlen4events.label "Προεπιλεγμένος χρόνος που να ορίζεται η υπενθύμιση πριν από συμβάν:">
+<!ENTITY pref.defalarmlen4events.accesskey "υ">
 <!ENTITY pref.defalarmlen4todos.label "Προεπιλεγμένος χρόνος που να ορίζεται η υπενθύμιση πριν από εργασία:">
+<!ENTITY pref.defalarmlen4todos.accesskey "ρ">
 
+<!ENTITY pref.defaultsnoozelength.label "Προεπιλεγμένη διάρκεια αναστολής υπενθύμισης:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "δ">
