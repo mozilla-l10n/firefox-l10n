@@ -203,7 +203,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "自动插入关闭括号">
 <!ENTITY options.sourceeditor.expandtab.label           "使用空格缩进">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "使用空格而非制表符缩进">
-<!ENTITY options.sourceeditor.tabsize.label             "缩进尺寸">
+<!ENTITY options.sourceeditor.tabsize.label             "制表符尺寸">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "按键绑定">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
