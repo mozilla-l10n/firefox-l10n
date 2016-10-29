@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Прилагодете">
 <!ENTITY appMenuCustomize.tooltip "Прилагодете ги менијата и алатниците">
-<!ENTITY appMenuCustomizeExit.label "Напуштете го прилагодувањето">
+<!ENTITY appMenuCustomizeExit.label "Готово">
 <!ENTITY appMenuCustomizeExit.tooltip "Завршете со прилагодувањето">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
