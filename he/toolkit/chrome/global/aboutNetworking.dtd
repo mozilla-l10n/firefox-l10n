@@ -30,3 +30,4 @@
 <!ENTITY aboutNetworking.bytesSent             "בתים שנשלחו">
 <!ENTITY aboutNetworking.bytesReceived         "בתים שהתקבלו">
 <!ENTITY aboutNetworking.dnsLookup             "חיפוש ב־DNS">
+<!ENTITY aboutNetworking.dnsDomain             "שם מתחם">

@@ -201,7 +201,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "תרגום עמוד זה">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ניהול תרגומי עמודים">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך מפני אתר זה.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך מפני אתר זה.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
@@ -423,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "שינוי הגדרות חיפוש">
+<!ENTITY changeSearchSettings.tooltip "שינוי הגדרות חיפוש">
 
 <!ENTITY searchInNewTab.label         "חיפוש בלשונית חדשה">
 <!ENTITY searchInNewTab.accesskey     "ל">
@@ -697,6 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
+<!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
