@@ -202,6 +202,7 @@
 <!ENTITY calendar.context.postpone.1week.accesskey  "ε">
 
 <!ENTITY calendar.copylink.label       "Αντιγραφή τοποθεσίας συνδέσμου">
+<!ENTITY calendar.copylink.accesskey   "υ">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -222,6 +223,8 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Κατάργηση ημερολογίου…">
 <!ENTITY calendar.context.removeserver.accesskey       "Κ">
+<!ENTITY calendar.context.unsubscribeserver.label      "Απεγγραφή από το ημερολόγιο…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "γ">
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
 <!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">
@@ -309,6 +312,7 @@
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Δημοσίευση ημερολογίου">
+<!ENTITY calendar.publish.url.label                 "Δημοσίευση URL">
 <!ENTITY calendar.publish.publish.button      "Δημοσίευση">
 <!ENTITY calendar.publish.close.button      "Κλείσιμο">
 
