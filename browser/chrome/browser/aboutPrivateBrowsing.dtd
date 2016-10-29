@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "隐私浏览模式">
-<!ENTITY privateBrowsing.title.tracking                  "隐私浏览模式现已附带跟踪保护">
+<!ENTITY privateBrowsing.title.tracking                  "隐私浏览模式加上跟踪保护功能">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "当您在隐私窗口中浏览时，Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "不会保存">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        "：">
