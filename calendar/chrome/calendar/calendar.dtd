@@ -4,6 +4,7 @@
 
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Ημερολόγιο">
+<!ENTITY calendar.calendar.accesskey "Η">
 
 <!ENTITY calendar.newevent.button.tooltip         "Δημιουργία νέου συμβάντος" >
 <!ENTITY calendar.newtask.button.tooltip          "Δημιουργία νέας εργασίας" >
@@ -194,7 +195,7 @@
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
-<!ENTITY calendar.context.removeserver.label           "Διαγραφή ημερολογίου…">
+<!ENTITY calendar.context.removeserver.label           "Κατάργηση ημερολογίου…">
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
 <!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">

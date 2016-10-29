@@ -13,7 +13,7 @@
 <!ENTITY pref.categories.edit.title "Επεξεργασία κατηγορίας">
 <!ENTITY pref.categories.editButton.label "Επεξεργασία…">
 <!ENTITY pref.categories.editButton.accesskey "Ε">
-<!ENTITY pref.categories.removeButton.label "Διαγραφή">
+<!ENTITY pref.categories.removeButton.label "Κατάργηση">
 <!ENTITY pref.categories.removeButton.accesskey "Δ">
 <!ENTITY pref.categories.name.label "Όνομα">
 <!ENTITY pref.categories.color.label "Χρώμα">
