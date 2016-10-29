@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Hwehwɛ Ntoso">
 <!ENTITY update.checkForUpdatesButton.accesskey   "H">
-<!ENTITY update.updateButton.label2               "পুনরায় চালু করুর ও মার্কর সংক্ষিপ্ত নাম হাল নাগাদ করুন।">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
