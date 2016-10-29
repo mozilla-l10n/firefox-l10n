@@ -34,6 +34,7 @@
 
 
 
+<!ENTITY translation.options.menu               "Опции">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
