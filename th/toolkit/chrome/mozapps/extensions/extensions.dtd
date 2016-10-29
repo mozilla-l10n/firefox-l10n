@@ -94,7 +94,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "ก">
 <!ENTITY cmd.askToActivate.label              "ถามเพื่อเปิดใช้งาน">
 <!ENTITY cmd.askToActivate.tooltip            "ถามเพื่อใช้ส่วนเสริมนี้ในแต่ละครั้ง">
-<!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานตลอด">
+<!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานเสมอ">
 <!ENTITY cmd.alwaysActivate.tooltip           "เปิดใช้ส่วนเสริมนี้ตลอด">
 <!ENTITY cmd.neverActivate.label              "ไม่เปิดใช้งานเสมอ">
 <!ENTITY cmd.neverActivate.tooltip            "ไม่ใช้ส่วนเสริมนี้เสมอ">
