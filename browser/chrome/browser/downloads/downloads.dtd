@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Fjern frå historikk">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-
-
+<!ENTITY cmd.clearList2.label             "Reins&amp; førehandsvisingsruta">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Fjern nedlastingar">
 <!ENTITY cmd.clearDownloads.accesskey     "e">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
