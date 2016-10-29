@@ -225,7 +225,7 @@
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
 <!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">
-<!ENTITY calendar.context.publish.accesskey            "η">
+<!ENTITY calendar.context.publish.accesskey            "Δ">
 <!ENTITY calendar.context.export.label                 "Εξαγωγή ημερολογίου…">
 <!ENTITY calendar.context.export.accesskey             "ξ">
 <!ENTITY calendar.context.properties.label             "Ιδιότητες">
@@ -233,16 +233,21 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "η">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "η">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "μ">
 <!ENTITY calendar.context.showall.label                "Εμφάνιση όλων των ημερολογίων">
-<!ENTITY calendar.context.showall.accesskey            "φ">
+<!ENTITY calendar.context.showall.accesskey            "ω">
 
 <!ENTITY calendar.context.convertmenu.label              "Μετατροπή σε">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "ρ">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "Μ">
 <!ENTITY calendar.context.convertmenu.event.label        "Συμβάν…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "Σ">
 <!ENTITY calendar.context.convertmenu.message.label      "Μήνυμα…">
