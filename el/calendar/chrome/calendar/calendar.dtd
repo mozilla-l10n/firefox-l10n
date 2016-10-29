@@ -102,12 +102,19 @@
 
 <!ENTITY calendar.task.filter.title.label           "Εμφάνιση">
 <!ENTITY calendar.task.filter.all.label             "Όλες">
+<!ENTITY calendar.task.filter.all.accesskey         "λ">
 <!ENTITY calendar.task.filter.today.label           "Σήμερα">
+<!ENTITY calendar.task.filter.today.accesskey       "Σ">
 <!ENTITY calendar.task.filter.next7days.label       "Επόμενες επτά ημέρες">
+<!ENTITY calendar.task.filter.next7days.accesskey   "η">
 <!ENTITY calendar.task.filter.notstarted.label      "Εργασίες που δεν έχουν ξεκινήσει">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "ξ">
 <!ENTITY calendar.task.filter.overdue.label         "Εκπρόθεσμες εργασίες">
+<!ENTITY calendar.task.filter.overdue.accesskey     "θ">
 <!ENTITY calendar.task.filter.completed.label       "Ολοκληρωμένες εργασίες">
+<!ENTITY calendar.task.filter.completed.accesskey   "Ο">
 <!ENTITY calendar.task.filter.open.label            "Ανολοκλήρωτες εργασίες">
+<!ENTITY calendar.task.filter.open.accesskey        "Α">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
@@ -115,6 +122,7 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Τρέχουσες εργασίες">
+<!ENTITY calendar.task.filter.current.accesskey     "Τ">
 
 <!ENTITY calendar.task-details.title.label           "τίτλος">
 <!ENTITY calendar.task-details.organizer.label       "από">
@@ -155,12 +163,16 @@
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Πρόοδος">
+<!ENTITY calendar.context.progress.accesskey          "Π">
 <!ENTITY calendar.context.priority.label              "Προτεραιότητα">
+<!ENTITY calendar.context.priority.accesskey          "ρ">
 <!ENTITY calendar.context.postpone.label              "Αναβολή εργασίας">
+<!ENTITY calendar.context.postpone.accesskey          "Α">
 
 <!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Σημείωση ως ολοκληρωμένη">
+<!ENTITY calendar.context.markcompleted.accesskey "ο">
 
 <!ENTITY progress.level.0             "0&percnt; ολοκληρωμένη">
 <!ENTITY progress.level.0.accesskey   "0">
@@ -183,10 +195,11 @@
 <!ENTITY priority.level.high.accesskey      "Υ">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 ώρα">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "ρ">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "α">
 <!ENTITY calendar.context.postpone.1day.label       "1 ημέρα">
 <!ENTITY calendar.context.postpone.1day.accesskey   "η">
 <!ENTITY calendar.context.postpone.1week.label      "1 εβδομάδα">
+<!ENTITY calendar.context.postpone.1week.accesskey  "ε">
 
 <!ENTITY calendar.copylink.label       "Αντιγραφή τοποθεσίας συνδέσμου">
 
@@ -199,6 +212,7 @@
 <!ENTITY calendar.context.newserver.label              "Νέο ημερολόγιο…">
 <!ENTITY calendar.context.newserver.accesskey          "Ν">
 <!ENTITY calendar.context.findcalendar.label           "Εύρεση ημερολογίου…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "ρ" >
 <!ENTITY calendar.context.deleteserver2.label          "Διαγραφή ημερολογίου…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "Δ">
 
@@ -207,11 +221,13 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Κατάργηση ημερολογίου…">
+<!ENTITY calendar.context.removeserver.accesskey       "Κ">
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
 <!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">
 <!ENTITY calendar.context.publish.accesskey            "η">
 <!ENTITY calendar.context.export.label                 "Εξαγωγή ημερολογίου…">
+<!ENTITY calendar.context.export.accesskey             "ξ">
 <!ENTITY calendar.context.properties.label             "Ιδιότητες">
 <!ENTITY calendar.context.properties.accesskey         "Ι">
 
@@ -224,6 +240,7 @@
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 <!ENTITY calendar.context.showall.label                "Εμφάνιση όλων των ημερολογίων">
+<!ENTITY calendar.context.showall.accesskey            "φ">
 
 <!ENTITY calendar.context.convertmenu.label              "Μετατροπή σε">
 <!ENTITY calendar.context.convertmenu.event.label        "Συμβάν…">
@@ -231,12 +248,16 @@
 <!ENTITY calendar.context.convertmenu.message.label      "Μήνυμα…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "Μ">
 <!ENTITY calendar.context.convertmenu.task.label         "Εργασία…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "Ε">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Μίνι μήνας">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "Μ">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Λίστα ημερολογίων">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "Λ">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Φιλτράρισμα εργασιών">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "Φ">
 
 <!-- Calendar Alarm Dialog -->
 
