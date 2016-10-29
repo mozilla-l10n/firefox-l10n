@@ -34,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing " पुराना पिंग &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "असंपूर्ण पिंग आंकड़ा…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
@@ -51,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "लड़ी लटका">
 
+<!ENTITY aboutTelemetry.scalarsSection "  अदिश">
 
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
 
@@ -80,3 +82,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "भार">
 
+<!ENTITY aboutTelemetry.rawPayload "  असंपूर्ण पेलोड">
