@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Γραμμή εργαλείων ημερολογίου">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "η">
 <!ENTITY lightning.toolbar.task.name "Γραμμή εργαλείων εργασιών">
+<!ENTITY lightning.toolbar.task.name.accesskey "ε">
 
 <!ENTITY lightning.toolbar.sync.label "Συγχρονισμός">
 <!ENTITY lightning.toolbar.sync.tooltip "Ανανέωση ημερολογίων και συγχρονισμός αλλαγών">
@@ -30,11 +32,17 @@
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Ημέρα">
+<!ENTITY lightning.toolbar.day.accesskey             "Η">
 <!ENTITY lightning.toolbar.week.label                "Εβδομάδα">
+<!ENTITY lightning.toolbar.week.accesskey            "Ε">
 <!ENTITY lightning.toolbar.multiweek.label           "Πολλές εβδομάδες">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "Π">
 <!ENTITY lightning.toolbar.month.label               "Μήνας">
+<!ENTITY lightning.toolbar.month.accesskey           "Μ">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Εμφάνιση του μενού του &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Παράθυρο ημερολογίου">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "θ">
 <!ENTITY lightning.toolbar.calendarpane.label        "Εμφάνιση παραθύρου ημερολογίου">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "η">
