@@ -209,10 +209,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Palauta oletuslähennystaso">
 
 <!ENTITY searchItem.title             "Etsi">
 
@@ -409,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Hakutermit">
+<!ENTITY contentSearchSubmit.tooltip  "Lähetä haku">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Muuta hakuasetuksia">
+<!ENTITY changeSearchSettings.tooltip "Muuta hakuasetuksia">
 
 <!ENTITY searchInNewTab.label         "Etsi uudessa välilehdessä">
 <!ENTITY searchInNewTab.accesskey     "E">
