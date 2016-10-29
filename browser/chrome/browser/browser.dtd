@@ -664,7 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Основний стиль сторінки">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 
-<!ENTITY pageReportIcon.tooltip            "Змінити параметри блокування виринаючих вікон для цього сайта">
+<!ENTITY pageReportIcon.tooltip            "Змінити параметри блокування виринаючих вікон для цього сайту">
 
 <!ENTITY allowPopups.accesskey "о">
 <!-- On Windows we use the term "Options" to describe settings, but
