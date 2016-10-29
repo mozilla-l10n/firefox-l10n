@@ -13,6 +13,7 @@
 <!ENTITY locationpage.username.label      "Όνομα χρήστη:" >
 <!ENTITY locationpage.password.label      "Συνθηματικό:" >
 
+<!ENTITY custompage.shortdescription  "Προσαρμογή του ημερολογίου σας" >
 <!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τα γεγονότα από αυτό το ημερολόγιο." >
 
 <!ENTITY finishpage.shortdescription  "Το ημερολόγιο δημιουργήθηκε" >

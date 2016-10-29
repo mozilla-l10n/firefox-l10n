@@ -78,7 +78,7 @@
 <!ENTITY calendar.day.button.label              "Ημέρα" >
 <!ENTITY calendar.week.button.label             "Εβδομάδα" >
 <!ENTITY calendar.month.button.label            "Μήνας" >
-<!ENTITY calendar.multiweek.button.label        "Πολλαπλές εβδομάδες" >
+<!ENTITY calendar.multiweek.button.label        "Πολλές εβδομάδες" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Εργάσιμες ημέρες εβδομάδας μόνο" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Εμφάνιση ολοκληρωμένων εργασιών" >
 
@@ -230,6 +230,8 @@
 <!ENTITY calendar.alarm.location.label              "Τοποθεσία:" >
 <!ENTITY calendar.alarm.details.label               "Λεπτομέρειες…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Αναστολή υπενθύμισης για" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Αναστολή όλων των υπενθυμίσεων για" >
 <!ENTITY calendar.alarm.title.label                 "Υπενθυμίσεις ημερολογίου" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 λεπτά" >
@@ -245,6 +247,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Ακύρωση αναστολής υπενθύμισης">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Επεξεργασία ημερολογίου">
