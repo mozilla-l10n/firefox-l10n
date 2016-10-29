@@ -698,7 +698,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "La conexón con esti sitiu web usa cifráu feble y nun ye privada.">
 <!ENTITY identity.description.weakCipher2 "Otra xente pue ver la to información o midificar el comportamientu'l sitiu web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloquió partes d'esta páxina que nun son segures.">
-<!ENTITY identity.description.passiveLoaded "La conexón nun ye privada y la información que compartas col sitiu pue ser vista por otros.">
+<!ENTITY identity.description.passiveLoaded "La to conexón nun ye privada y la información que compartas col sitiu podríen vela otros.">
 <!ENTITY identity.description.passiveLoaded2 "Esti sitiu web contién conteníu que nun ye seguru (por exemplu: imáxenes).">
 <!ENTITY identity.description.passiveLoaded3 "Magar que &brandShortName; bloquiare daqué conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes).">
 <!ENTITY identity.description.activeLoaded "Esti sitiu web contién conteníu que nun ye seguru (como scripts) y la to conexón a ella nun ye privada.">
