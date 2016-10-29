@@ -21,8 +21,10 @@
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Ημερολόγιο">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Μετάβαση στην καρτέλα ημερολογίου">
+<!ENTITY lightning.toolbar.calendar.accesskey "η">
 <!ENTITY lightning.toolbar.task.label         "Εργασίες">
 <!ENTITY lightning.toolbar.task.tooltip       "Μετάβαση στην καρτέλα εργασιών">
+<!ENTITY lightning.toolbar.task.accesskey     "ε">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Συμβάν">
