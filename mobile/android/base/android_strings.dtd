@@ -481,3 +481,5 @@
 <!ENTITY activity_stream_highlights "Главное">
 <!ENTITY activity_stream_highlight_label_bookmarked "В закладках">
 <!ENTITY activity_stream_highlight_label_visited "Посещено">
+<!ENTITY activity_stream_dismiss "Убрать">
+<!ENTITY activity_stream_delete_history "Удалить из истории">
