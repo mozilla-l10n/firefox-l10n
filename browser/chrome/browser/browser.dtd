@@ -40,7 +40,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "取消固定标签页">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "发送标签页到设备">
+<!ENTITY  sendTabToDevice.label              "把标签页发送到设备">
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "发送页面到设备">
 <!ENTITY  sendPageToDevice.accesskey         "D">
