@@ -31,6 +31,7 @@
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Ημέρα">
 <!ENTITY lightning.toolbar.week.label                "Εβδομάδα">
+<!ENTITY lightning.toolbar.multiweek.label           "Πολλές εβδομάδες">
 <!ENTITY lightning.toolbar.month.label               "Μήνας">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->

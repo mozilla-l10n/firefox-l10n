@@ -55,7 +55,7 @@
 <!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε προβολή ημέρας" >
 <!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε προβολή εβδομάδας" >
 <!ENTITY calendar.month.button.tooltip          "Εναλλαγή σε προβολή μήνα" >
-<!ENTITY calendar.multiweek.button.tooltip      "Εναλλαγή σε προβολή πολλών εβδομάδων" >
+<!ENTITY calendar.multiweek.button.tooltip      "Εναλλαγή σε πολυεβδομαδιαία προβολή" >
 
 <!ENTITY calendar.nextday.label                 "Επόμενη ημέρα" >
 <!ENTITY calendar.prevday.label                 "Προηγούμενη ημέρα" >
@@ -194,6 +194,7 @@
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Διαγραφή ημερολογίου…">
 <!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
 <!ENTITY calendar.context.synccalendars.accesskey      "Σ">
 <!ENTITY calendar.context.publish.label                "Δημοσίευση ημερολογίου…">
