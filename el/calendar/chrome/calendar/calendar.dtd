@@ -34,10 +34,15 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ταξινόμηση κατά σειρά προτεραιότητας">
 <!ENTITY calendar.unifinder.tree.title.label               "Τίτλος">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ταξινόμηση με βάση τον τίτλο">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; ολοκληρωμένη">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Έναρξη">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ταξινόμηση κατά ημερομηνία έναρξης">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Λήξη">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ταξινόμηση κατά ημερομηνία λήξης">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Προθεσμία">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ταξινόμηση κατά προθεσμία">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ταξινόμηση κατά ημερομηνία ολοκλήρωσης">
 <!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ταξινόμηση κατά κατηγορία">
 <!ENTITY calendar.unifinder.tree.location.label            "Τοποθεσία">
@@ -75,22 +80,28 @@
 <!ENTITY calendar.newevent.button.label         "Νέο συμβάν" >
 <!ENTITY calendar.newtask.button.label          "Νέα εργασία" >
 <!ENTITY calendar.print.button.label            "Εκτύπωση" >
+<!ENTITY calendar.print.button.accesskey        "π">
 
 <!ENTITY calendar.day.button.label              "Ημέρα" >
 <!ENTITY calendar.week.button.label             "Εβδομάδα" >
 <!ENTITY calendar.month.button.label            "Μήνας" >
 <!ENTITY calendar.multiweek.button.label        "Πολλές εβδομάδες" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Εργάσιμες ημέρες εβδομάδας μόνο" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "Ε" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Προβολή εργασιών στο ημερολόγιο" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "Π" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Εμφάνιση ολοκληρωμένων εργασιών" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "ο" >
 
 <!ENTITY calendar.orientation.label "Περιστροφή προβολής" >
+<!ENTITY calendar.orientation.accesskey "ρ" >
 
 <!ENTITY calendar.search.options.searchfor " που περιέχουν">
 
 <!ENTITY calendar.list.header.label                 "Ημερολόγιο">
 
 <!ENTITY calendar.task.filter.title.label           "Εμφάνιση">
-<!ENTITY calendar.task.filter.all.label             "Όλα">
+<!ENTITY calendar.task.filter.all.label             "Όλες">
 <!ENTITY calendar.task.filter.today.label           "Σήμερα">
 <!ENTITY calendar.task.filter.next7days.label       "Επόμενες επτά ημέρες">
 <!ENTITY calendar.task.filter.notstarted.label      "Εργασίες που δεν έχουν ξεκινήσει">
