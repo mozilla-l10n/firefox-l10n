@@ -211,6 +211,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Olet estänyt tämän sivuston jakamasta näyttöäsi.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Olet estänyt sijaintitiedot tältä sivustolta.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Olet estänyt tietojen tallentamisen tietovarastoon tältä sivustolta.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Olet estänyt ilmoitukset tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
