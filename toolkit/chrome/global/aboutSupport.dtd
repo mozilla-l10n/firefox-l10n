@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "उपयोक्ता प्रतिनिधि">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
-
+<!ENTITY aboutSupport.appBasicsPerformance "प्रदर्शन">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "सर्विस श्रमिक पंजीकृत किया गया">
@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "फाइंडर में पता करें">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "फ़ोल्डर खोलें">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण रूपांतरित वरीयताएँ">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
@@ -85,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "चित्रादि">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "स्थान डेटाबेस ">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "अखंडता">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "अखंडता सत्यापित करें">
 
 <!ENTITY aboutSupport.jsTitle "जावा स्क्रिप्ट">
 <!ENTITY aboutSupport.jsIncrementalGC "संवर्द्धित GC">
@@ -108,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड में कोशिश करें">
 <!ENTITY aboutSupport.restartInSafeMode.label "निष्क्रिय सहयुक्तियों के साथ फिर आरंभ करें...">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताएँ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदान">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "असफल लॉग">
+<!ENTITY aboutSupport.graphicsGPU1Title "जीपीयू #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "जीपीयू #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय लॉग">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्रैश गार्ड निष्क्रिय सुविधाएँ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "वर्कअराउन्ड">
