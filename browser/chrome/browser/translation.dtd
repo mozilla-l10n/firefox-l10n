@@ -12,12 +12,12 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "ఈ పేజీ ఇక్కడ ఉంది">
-<!ENTITY translation.translateThisPage.label    "ఈ పేజీను అనువదించాలా?">
+<!ENTITY translation.thisPageIsIn.label         "ఈ పేజీ">
+<!ENTITY translation.translateThisPage.label    "లో ఉంది. ఈ పేజీని అనువదించాలా?">
 <!ENTITY translation.translate.button           "అనువదించు">
 <!ENTITY translation.notNow.button              "ఇప్పుడు కాదు">
 
-<!ENTITY translation.translatingContent.label   "పేజీ కాంటెంట్ అనువదిస్తోంది...">
+<!ENTITY translation.translatingContent.label   "పేజీలో విషయం అనువాదమవుతోంది…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -34,9 +34,9 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "ఈ పేజీ దీనినుండి అనువదించబడెను">
-<!ENTITY translation.translatedTo.label         "కు">
-<!ENTITY translation.translatedToSuffix.label   "">
+<!ENTITY translation.translatedFrom.label       "ఈ పేజీ">
+<!ENTITY translation.translatedTo.label         "నుండి">
+<!ENTITY translation.translatedToSuffix.label   "లోనికి అనువదించబడింది">
 
 <!ENTITY translation.showOriginal.button        "అసలును చూపించు">
 <!ENTITY translation.showTranslation.button     "అనువాదాన్ని చూపించు">
