@@ -21,9 +21,9 @@
 <!ENTITY pref.missedalarms "Εμφάνιση υπενθυμίσεων που σας διέφυγαν">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "φ">
 <!ENTITY pref.calendar.alarms.defaults.label "Προεπιλογές υπενθύμισης">
-<!ENTITY pref.defalarm4events.label "Να μπαίνει υπενθύμιση για συμβάντα εκ προεπιλογής:">
+<!ENTITY pref.defalarm4events.label "Να μπαίνει εκ προεπιλογής υπενθύμιση για συμβάντα:">
 <!ENTITY pref.defalarm4events.accesskey "σ">
-<!ENTITY pref.defalarm4todos.label "Να μπαίνει υπενθύμιση για συμβάντα εκ προεπιλογής:">
+<!ENTITY pref.defalarm4todos.label "Να μπαίνει εκ προεπιλογής υπενθύμιση για εργασίες:">
 <!ENTITY pref.defalarm4todos.accesskey "ε">
 <!ENTITY pref.alarm.on "Ναι">
 <!ENTITY pref.alarm.off "Όχι">
