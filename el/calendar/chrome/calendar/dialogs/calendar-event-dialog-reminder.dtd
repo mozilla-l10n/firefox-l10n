@@ -4,11 +4,14 @@
 
 <!ENTITY reminderdialog.title                              "Ορισμός υπενθυμίσεων">
 <!ENTITY reminder.add.label                                "Προσθήκη">
+<!ENTITY reminder.add.accesskey                            "Π">
 <!ENTITY reminder.remove.label                             "Κατάργηση">
+<!ENTITY reminder.remove.accesskey                         "Κ">
 
 <!ENTITY reminder.reminderDetails.label                    "Λεπτομέρειες υπενθύμισης">
 <!ENTITY reminder.action.label                             "Επιλογή ενέργειας υπενθύμισης">
 
+<!ENTITY reminder.action.alert.label                       "Εμφάνιση αναδυόμενης ειδοποίησης">
 <!ENTITY reminder.action.email.label                       "Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου">
 
 <!ENTITY alarm.units.minutes                               "λεπτά" >

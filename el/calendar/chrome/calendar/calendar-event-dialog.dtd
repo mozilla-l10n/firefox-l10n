@@ -7,6 +7,7 @@
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Διατήρηση της διάρκειας κατά την αλλαγή της ημερομηνίας λήξης">
 
 <!ENTITY newevent.from.label                "Από" >
+<!ENTITY newevent.to.label                  "Έως" >
 
 <!ENTITY newevent.status.label                    "Κατάσταση" >
 <!ENTITY newevent.status.accesskey                "Κ" >
@@ -167,7 +168,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Κατά τη διάρκεια αυτού του συμβάντος εμφανίζομαι ως:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Στο διάστημα του συμβάντος εμφανίζομαι ως:">
 <!ENTITY event.statusbarpanel.privacy.label               "Ιδιωτικότητα:">
 
 <!-- Recurrence dialog -->
