@@ -3,11 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Αποθηκευμένα αρχεία">
+<!ENTITY aboutDownloads.empty                      "Κανένα αποθηκευμένο αρχείο">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.label                            "Άνοιγμα φακέλου λήψης">
 <!ENTITY cmd.open.label                            "Άνοιγμα">
 <!ENTITY cmd.removeFromHistory.label               "Αφαίρεση από το ιστορικό">
 <!ENTITY cmd.searchDownloads.label                 "Αναζήτηση…">
