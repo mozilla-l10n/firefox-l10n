@@ -74,6 +74,8 @@ Ping
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares
 ">
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Escalares con nombre">
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
