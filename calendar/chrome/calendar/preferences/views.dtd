@@ -12,7 +12,7 @@
 <!ENTITY pref.calendar.view.multiweekview.caption "Προβολή πολλαπλών εβδομάδων">
 <!ENTITY pref.calendar.view.workweek.caption "Εργάσιμες ημέρες">
 
-<!ENTITY pref.weekstarts.label "Η εβδομάδα ξεκινάει την:">
+<!ENTITY pref.weekstarts.label "Η εβδομάδα ξεκινάει:">
 <!ENTITY pref.weekstarts.accesskey "ξ">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Εμφάνιση αριθμού εβδομάδας σε προβολές και μίνι μήνα">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "θ">
