@@ -29,3 +29,6 @@
 <!ENTITY manageCerts2.accesskey "A">
 <!ENTITY manageDevices.label "Administrar dispositivos de seguridad…">
 <!ENTITY manageDevices.accesskey "i">
+<!ENTITY certPicker.title "Seleccione certificado">
+<!ENTITY certPicker.info "Certificado:">
+<!ENTITY certPicker.detailsLabel "Detalles del certificado seleccionado:">

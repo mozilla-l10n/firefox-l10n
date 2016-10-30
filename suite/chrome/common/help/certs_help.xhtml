@@ -154,7 +154,7 @@
   leer mensajes antiguos de correo electrónico que haya cifrado con la
   clave privada correspondiente.</p>
 
-<h2 id="peoples">Personas</h2>
+<h2 id="people">Personas</h2>
 
 <p>La pestaña Personas del <a href="#certificate_manager">administrador de
   certificados</a> muestra certificados de correo electrónico almacenados que
@@ -177,10 +177,6 @@
 <ul>
   <li><strong>Ver</strong>: visualiza información detallada sobre los
     certificados seleccionados.</li>
-  <li><strong>Editar</strong>: Vea o cambie las opciones de confianza que el
-    administrador de certificados asocia con el certificado seleccionado. Puede
-    usar estas opciones para designar un certificado de correo electrónico como
-    uno en el que confía (o no) a efectos de identificación.</li>
   <li><strong>Importar</strong>: importa un archivo que contiene uno o más
     certificados. Al hacer clic en Importar, lo primero que le pide el
     administrador de certificados es que localice el archivo que contiene
@@ -217,14 +213,6 @@
 <ul>
   <li><strong>Ver</strong>: visualice información detallada sobre los
     certificados seleccionados.</li>
-  <li><strong>Editar</strong>: visualice o modifique los valores de confianza
-    que el administrador de certificados asocia a los certificados
-    seleccionados. Puede utilizar estos valores para designar un certificado
-    de sitio web como de confianza o no a efectos de identificación.</li>
-  <li><strong>Importar</strong>: importa un archivo que contiene uno o más
-    certificados. Al hacer clic en Importar, lo primero que le pide el
-    administrador de certificados es que localice el archivo que contiene
-    el/los certificado(s).</li>
   <li><strong>Exportar</strong>: exporta el certificado seleccionado. Puede
    elegir entre varios formatos.</li>
   <li><strong>Eliminar</strong>: elimina los certificados seleccionados.</li>
@@ -234,55 +222,8 @@
     precaución.</li>
 </ul>
 
-<h3 id="edit_website_certificate_trust_settings">Modificar los valores de
-  confianza de un certificado de sitio web</h3>
-
-<p>Al seleccionar un certificado de sitio web de la pestaña
-  <a href="#servers">Servidores</a> del administrador de certificados y hacer
-  clic en Editar, aparece una ventana denominada <q>Editar valores de confianza
-  de certificado de sitio web</q>. Desde aquí se puede indicar si se desea
-  confiar en el certificado seleccionado para la identificación del sitio web y
-  para configurar una conexión cifrada con él.</p>
-
-<p>El cuadro de diálogo contiene los siguientes elementos:</p>
-
-<ul>
-  <li><strong>El certificado <q><em>nombre del certificado</em></q> lo
-    emitió</strong>: facilita información sobre la
-    <a href="glossary.xhtml#certificate_authority">autoridad certificadora</a>
-    que emitió el certificado.</li>
-  <li><strong>Editar valores de confianza de certificados</strong>:
-    <ul>
-      <li><strong>Confiar en la autenticidad de este certificado</strong>: a
-        partir del momento en el que se selecciona esta opción, el
-        administrador de certificados confía en este certificado para
-        propósitos de identificación de este sitio web o
-        configuración de una conexión cifrada. Si selecciona
-        esta opción y, a continuación, intenta visitar el sitio
-        web,  podrá acceder a él con muy pocos mensajes de
-        advertencia o ninguno.</li>
-      <li><strong>No confiar en la autenticidad de este certificado</strong>:
-        a partir del momento en el que se selecciona  esta opción, el
-        administrador de certificados deja de confiar en este certificado para
-        propósitos de identificación de este sitio web o
-        configuración de una conexión cifrada. Si selecciona
-        esta opción y, a continuación, intenta visitar el sitio
-        web, aparecerá un mensaje de advertencia o varios antes de que
-        pueda acceder a él.</li>
-    </ul>
-  </li>
-  <li><strong>Editar confianza en CA</strong>: haga clic en este botón
-    para indicar los valores de confianza para la autoridad certificadora (CA)
-    que emitió el certificado de sitio web. Estos valores le permiten
-    confiar o no en diferentes tipos de certificado emitidos por esa autoridad
-    certificadora. Puede decidir, por ejemplo, confiar en todos los
-    certificados de sitio web emitidos por esa autoridad.</li>
-</ul>
-
-<p>Haga clic en Aceptar para confirmar su elección.</p>
-
 <h3 id="delete_website_certificates">Eliminar un certificado de sitio web</h3>
- 
+
 <p>Antes de suprimir un certificado de servidor de la pestaña
   <a href="#servers">Servidores</a> del administrador de certificados,
   asegúrese de que no volverá a necesitarlo para identificar un sitio web o
@@ -307,7 +248,7 @@
 <ul>
   <li><strong>Ver</strong>: visualiza información detallada sobre los
     certificados seleccionados.</li>
-  <li><strong>Editar</strong>: muestra o modifica los valores que el
+  <li><strong>Editar confianza</strong>: muestra o modifica los valores que el
     administrador de certificados asocia a los certificados seleccionados.
     Puede utilizar estos valores para designar cuáles son los tipos de
     certificados (si es que existe alguno) emitidos por las CA
@@ -317,8 +258,9 @@
     administrador de certificados es que localice el archivo que contiene
     el/los certificado(s).</li>
   <li><strong>Exportar</strong>: exporta el certificado seleccionado. Puede
-   elegir entre varios formatos.</li>
-  <li><strong>Eliminar</strong>: elimina los certificados seleccionados.</li>
+    elegir entre varios formatos.</li>
+  <li><strong>Eliminar o dejar de confiar</strong>: elimina los certificados
+    seleccionados.</li>
 </ul>
 
 <p>Para garantizar la confianza plena en una
