@@ -7,7 +7,7 @@
 
 <!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Ad tseqdaceḍ lqem aqbuṛ n Sync?">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Tuɣ tesseqdaceḍ lqem aqbuṛ n Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync">
 <!ENTITY aboutAccounts.noConnection.title "Ulac tuqqna">
 <!ENTITY aboutAccounts.noConnection.description "Issefk ad teqqneḍ ɣeṛ Internet akken ad tkecmeḍ.">

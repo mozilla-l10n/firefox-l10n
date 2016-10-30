@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebtar">
 <!ENTITY useCursorNavigation.accesskey   "S">
-<!ENTITY searchStartTyping.label         "Nadi aḍris ticki tsenkreḍ tira">
+<!ENTITY searchStartTyping.label         "Nadi aḍris ticki tebda tira">
 <!ENTITY searchStartTyping.accesskey     "N">
 <!ENTITY blockAutoRefresh.label          "Lɣu-yid ticki asmel web ad yeɛreḍ asnifel n ubrid neɣ asniles n usali">
 <!ENTITY blockAutoRefresh.accesskey      "L">
@@ -25,22 +25,22 @@
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">
-<!ENTITY checkSpelling.label             "Senqed taɣdira yinu ma ara  ţaruɣ">
+<!ENTITY checkSpelling.label             "Senqed taɣdira yinu mi ara ttaruɣ">
 <!ENTITY checkSpelling.accesskey         "q">
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
-<!ENTITY healthReportDesc.label          "Ak d-imudd tallalt akken ad tegzuḍ timellit n iminig inek w-ad yazen i &vendorShortName; talɣut ɣef adddad n tezmert n iminig inek.">
+<!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Issin ugar">
+<!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
-<!ENTITY telemetryDesc.label             "Ad yazen tilɣa ɣef timellit, arrumn aseqdec d waggen i &vendorShortName; i wakken aɣ-q yefk afus i wesnerni n tɣara n &brandShortName;">
+<!ENTITY telemetryDesc.label             "Ad yazen tilɣa ɣef timellit, aseqdec, arrum d waggen i &vendorShortName; i wakken ad aɣ-d-yefk afus i usnerni n tɣara n &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Azen isefka isemmadanen (Amedya: isefka tilisɣal)">
 <!ENTITY enableTelemetryData.accesskey   "A">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
 
-<!ENTITY crashReporterDesc2.label         "Assaɣen n uɣelluy ad imudd tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig inek d urkid d aɣelsan">
+<!ENTITY crashReporterDesc2.label         "Assaɣen n uɣelluy ad mudden tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig inek d urkid d aɣelsan">
 <!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen assaɣen n uɣelluy deg ugilal">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Issin ugar">
@@ -78,7 +78,7 @@
 <!ENTITY updateApp.label                 "Ileqman n &brandShortName;:">
 <!ENTITY updateAuto1.label               "Sebded s wudem awurman ileqman (yelha i tɣellist inek)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Senqed ma llan ileqman, acu kan ǧǧi-yi a t-nesbeddeɣ">
+<!ENTITY updateCheck.label               "Senqed ma llan ileqman, acu kan eǧǧ-iyi a ten-sbeddeɣ">
 <!ENTITY updateCheck.accesskey           "n">
 <!ENTITY updateManual.label              "Weṛǧin ad tesneqdeḍ ileqman (ur ilhi ara acku yella wugur n tɣellist)">
 <!ENTITY updateManual.accesskey          "W">
@@ -86,14 +86,14 @@
 <!ENTITY updateHistory.label             "Sken amazray n ileqman">
 <!ENTITY updateHistory.accesskey         "S">
 
-<!ENTITY useService.label                "Seqdec ameẓlu n ugilal i wesebded n ileqman">
+<!ENTITY useService.label                "Seqdec ameẓlu n ugilal i usebded n ileqman">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Leqqem s wudem awurman">
 <!ENTITY enableSearchUpdate.label        "Imseddayen n unadi">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Lɣu-yid ticki asmel yebɣa ad isekles isefka i useqdec arusrid">
+<!ENTITY offlineNotify.label             "Lɣu-yi-d ticki asmel yebɣa ad isekles isefka i useqdec arusrid">
 <!ENTITY offlineNotify.accesskey         "L">
 <!ENTITY offlineNotifyExceptions.label   "Tisuraf…">
 <!ENTITY offlineNotifyExceptions.accesskey "T">
@@ -104,16 +104,16 @@
 <!ENTITY offlineAppsListRemove.accesskey "K">
 <!ENTITY offlineAppRemove.confirm        "Kkes isefka war tuqqna">
 
-<!ENTITY certificateTab.label            "Iselkan">
-<!ENTITY certSelection.label             "Tuţra">
-<!ENTITY certSelection.description       "Ticki aqeddac isuter iselkan-iw udmawanen:">
+<!ENTITY certificateTab.label            "Iselkinen">
+<!ENTITY certSelection.label             "Tuttriwin">
+<!ENTITY certSelection.description       "Ticki aqeddac isuter aselkin-iw udmawan:">
 <!ENTITY certs.auto                      "Fren yiwen s wudem awurman">
 <!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Steqsi y-id yal tikelt">
+<!ENTITY certs.ask                       "Steqsi-yi-d yal tikelt">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkan ">
+<!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen ">
 <!ENTITY enableOCSP.accesskey            "S">
-<!ENTITY viewCerts.label                 "Sken iselkan">
+<!ENTITY viewCerts.label                 "Sken iselkinen">
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Taɣellist n ibenkan">
 <!ENTITY viewSecurityDevices.accesskey   "T">

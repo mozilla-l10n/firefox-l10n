@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Nadi ileqman">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-<!ENTITY update.updateButton.label2               "Senker itikelt nniden &brandShortName; i weleqqem">
+<!ENTITY update.updateButton.label2               "Ales asenker i tikelt nniḍen &brandShortName; i uleqqem">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
