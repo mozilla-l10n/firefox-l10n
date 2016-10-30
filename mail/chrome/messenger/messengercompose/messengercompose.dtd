@@ -43,6 +43,7 @@
 <!ENTITY sendLaterCmd.accesskey "β">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
 <!ENTITY printSetupCmd.accesskey "φ">
+<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printCmd.label "Εκτύπωση...">
 <!ENTITY printCmd.accesskey "π">
 
@@ -67,6 +68,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "τ">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.accesskey "λ">
+<!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση...">
 <!ENTITY findReplaceCmd.accesskey "ρ">
 <!ENTITY findReplaceCmd.key "F">
@@ -115,6 +117,7 @@
 <!ENTITY returnReceiptMenu.accesskey "Β">
 <!ENTITY dsnMenu.label "Ειδοποίηση παράδοσης">
 <!ENTITY dsnMenu.accesskey "δ">
+<!ENTITY deliveryFormatMenu.label "Μορφή παράδοσης">
 <!ENTITY autoFormatCmd.label "Αυτόματος εντοπισμός">
 <!ENTITY autoFormatCmd.accesskey "τ">
 <!ENTITY plainTextFormatCmd.label "Μόνο απλό κείμενο">
@@ -125,6 +128,8 @@
 <!ENTITY bothFormatCmd.accesskey "κ">
 <!ENTITY priorityMenu.label "Προτεραιότητα">
 <!ENTITY priorityMenu.accesskey "ρ">
+<!ENTITY priorityButton.title "Προτεραιότητα">
+<!ENTITY priorityButton.tooltiptext "Αλλαγή προτεραιότητας του μηνύματος">
 <!ENTITY priorityButton.label "Προτεραιότητα:">
 <!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
 <!ENTITY lowestPriorityCmd.accesskey "λ">
@@ -168,6 +173,7 @@
 <!ENTITY attachButton.label "Επισύναψη">
 <!ENTITY spellingButton.label "Ορθογραφία">
 <!ENTITY saveButton.label "Αποθήκευση">
+<!ENTITY printButton.label "Εκτύπωση">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">

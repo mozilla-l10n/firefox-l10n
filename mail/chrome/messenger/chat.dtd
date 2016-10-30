@@ -12,5 +12,8 @@
 <!ENTITY openConversationButton.tooltip  "Έναρξη συνομιλίας">
 <!ENTITY closeConversationButton.tooltip "Κλείσιμο συνομιλίας">
 
+<!ENTITY addBuddyButton.label          "Προσθήκη επαφής">
+<!ENTITY chatAccountsButton.label      "Εμφάνιση λογαριασμών">
 
 
+<!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου…">
