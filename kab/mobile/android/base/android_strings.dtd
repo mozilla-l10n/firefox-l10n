@@ -24,15 +24,15 @@
 <!ENTITY firstrun_tabqueue_title "Iseɣwan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Rmed adras n yiccer">
-<!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaru-ṭen deg isnasen nniḍen.">
+<!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaruḍ-ten deg isnasen nniḍen.">
 
 <!ENTITY firstrun_tabqueue_message_on "Yedda!">
 <!ENTITY firstrun_tabqueue_subtext_on "Tzemreḍ yal tikelt tebɣid ad tekkseḍ armad di &settings; di &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Imagraden">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Bru i wayen ur tesrid ara">
-<!ENTITY firstrun_readerview_subtext "Seqdec Timeẓri n tɣuṛi akken ad terred imagraden cebḥen i tɣuri \u2014 xas s war tuqqna">
+<!ENTITY firstrun_readerview_message "Bellez ayen ur tesriḍ ara">
+<!ENTITY firstrun_readerview_subtext "Seqdec Timeẓri n tɣuṛi akken ad terreḍ imagraden cebḥen i tɣuri \u2014 xas ur telli tuqqna">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Kečč">
@@ -316,7 +316,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-ldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; di  &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; di  &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -434,13 +434,13 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig inek">
 <!ENTITY datareporting_abouthr_title "Wali aneqqis n tezmert-iw">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
-<!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugenn n umsaq inek n tirawt akked &vendorShortName; akken aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserkeḍ u ad iɣelles ugar imineg inek.">
+<!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig inek.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Amassaɣay n uɣelluy">
 <!ENTITY datareporting_wifi_title2 "Ameẓlu n tensa n &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Mudd afus i &vendorShortName; deg usuneq n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yiben inek akken ad yenerni umeẓlu n usideg arakal.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Mudd afus i &vendorShortName; deg usuneɣ n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yibenk inek akken ad yennerni umeẓlu n usideg arakal.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -619,7 +619,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Sken ibenkan yettwafernen">
 
 <!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer inu?">
-<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek si ibenkan nniḍen ɣer ugalis ɣef usebter agejdan inek i yezemren ad tettwakcem s wudem fessusen yal tikelt ara d-ldiḍ iccer amaynut.">
+<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek si ibenkan nniḍen ɣer ugalis ɣef usebter agejdan inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
 <!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis inu amaynut.">
 
 <!ENTITY pin_site_dialog_hint "Sekcem awal n tsarutt n unadi">
@@ -709,7 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "Sireg">
 <!-- Guest mode -->    
 
-<!ENTITY new_guest_session "Taiɣimit tanebgit tamaynut">
+<!ENTITY new_guest_session "Tiɣimit tanebgit tamaynut">
 <!ENTITY exit_guest_session "Ffeɣ si tɣimit tanebgit">
 <!ENTITY guest_session_dialog_continue "Ddu ɣer zdat">
 <!ENTITY guest_session_dialog_cancel "Sefsex">
