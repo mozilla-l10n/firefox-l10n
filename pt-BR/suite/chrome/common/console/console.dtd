@@ -37,4 +37,5 @@
 <!ENTITY focus2.commandkey     "d">
 
 <!ENTITY menuBar.tooltip       "Barra de menu">
+<!ENTITY toolbarsCmd.label     "Mostrar/Ocultar">
 <!ENTITY toolbarMode.label     "Modo">
