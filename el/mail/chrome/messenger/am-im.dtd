@@ -4,3 +4,8 @@
 
 <!ENTITY accountWindow.title           "Ιδιότητες λογαριασμού">
 <!ENTITY account.general               "Γενικά">
+<!ENTITY account.name                  "Όνομα χρήστη:">
+<!ENTITY account.password              "Συνθηματικό:">
+<!ENTITY account.alias                 "Ψευδώνυμο:">
+<!ENTITY account.proxySettings.caption "Ρυθμίσεις διαμεσολαβητή:">
+<!ENTITY account.proxySettings.change.label     "Αλλαγή…">

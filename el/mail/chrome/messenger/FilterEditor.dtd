@@ -18,6 +18,7 @@
 <!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
 <!ENTITY contextIncomingMail.label "Λήψη νέας αλληλογραφίας">
 <!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
+<!ENTITY contextOutgoing.label "Μετά την αποστολή">
 
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
 <!ENTITY filterActionDesc.accesskey "κ">

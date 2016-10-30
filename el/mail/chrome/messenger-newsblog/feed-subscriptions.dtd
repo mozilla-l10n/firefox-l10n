@@ -9,12 +9,17 @@
 <!ENTITY feedTitle.label             "Τίτλος:">
 <!ENTITY feedTitle.accesskey         "Τ">
 
+<!ENTITY locationValidate.label      "Επαλήθευση">
 
+<!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
 
+<!ENTITY quickMode.label             "Εμφάνιση της σύνοψης του άρθρου αντί για φόρτωση της ιστοσελίδας">
 
+<!ENTITY autotagUsePrefix.label      "Να μπει στις ετικέτες το πρόθεμα:">
 
 <!ENTITY button.addFeed.label        "Προσθήκη">
 <!ENTITY button.addFeed.accesskey    "θ">
+<!ENTITY button.updateFeed.label     "Ενημέρωση">
 <!ENTITY button.removeFeed.label     "Απομάκρυνση">
 <!ENTITY button.removeFeed.accesskey "ρ">
 <!ENTITY button.importOPML.label     "Εισαγωγή">

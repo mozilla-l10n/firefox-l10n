@@ -23,4 +23,5 @@
 <!ENTITY ispHeaders.label "Να είναι έμπιστες οι κεφαλίδες ανεπιθυμήτων που καθορίζονται από: ">
 <!ENTITY ispHeaders.accesskey "φ">
 
+<!ENTITY junkClassification.label "Επιλογή">
 
