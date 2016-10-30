@@ -4,6 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Συνδρομές σε αρχεία ροής">
+<!ENTITY learnMore.label             "Μάθετε περισσότερα για τις ροές">
 
 <!ENTITY feedTitle.label             "Τίτλος:">
 <!ENTITY feedTitle.accesskey         "Τ">
