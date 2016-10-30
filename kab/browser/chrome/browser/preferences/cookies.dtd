@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Inagan agi n tuqqna kelsen ɣef unasiw inek:">
+<!ENTITY     cookiesonsystem.label          "Inagan agi n tuqqna kelsen deg uselkim inek:">
 <!ENTITY     cookiename.label               "Isem n unagi n tuqqna">
 <!ENTITY     cookiedomain.label             "Asmel"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
@@ -19,7 +19,7 @@
 <!ENTITY     props.value.label              "Agbur:">
 <!ENTITY     props.domain.label             "Asenneftaɣ:">
 <!ENTITY     props.path.label               "Abrid:">
-<!ENTITY     props.secure.label             "Aceggaɛ i:">
+<!ENTITY     props.secure.label             "Azen i:">
 <!ENTITY     props.expires.label            "Ad immet:">
 <!ENTITY     props.container.label          "Amagbar:">
 

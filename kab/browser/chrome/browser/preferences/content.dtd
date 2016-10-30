@@ -9,12 +9,12 @@
 
 <!ENTITY  notificationsPolicy.label            "Ilɣuten">
 <!ENTITY  notificationsPolicyLearnMore.label   "Issin ugar">
-<!ENTITY  notificationsPolicyDesc3.label       "Fren ismal web i yezemren ak-d-aznen ilɣuten">
+<!ENTITY  notificationsPolicyDesc3.label       "Fren ismal web i izemren a k-d-aznen ilɣuten">
 <!ENTITY  notificationsPolicyButton.accesskey  "F">
 <!ENTITY  notificationsPolicyButton.label      "Fren…">
-<!ENTITY  notificationsDoNotDisturb.label      "Ur yittcebbwil ara">
+<!ENTITY  notificationsDoNotDisturb.label      "Ur yi-ttcewwil ara">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "r">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣu ad yettwaseknen skud ur tsenkreḍ ara &brandShortName; tikkelt nniḍen">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣu ad yettwaseknen skud ur tulseḍ ara asenker i &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Tisuraf…">
 <!ENTITY  popupExceptions.accesskey   "s">
@@ -34,7 +34,7 @@
 
 
 <!ENTITY languages.label              "Tutlayin">
-<!ENTITY chooseLanguage.label         "Fren tutlayt tebɣiḍ i weskan n isebtar">
+<!ENTITY chooseLanguage.label         "Fren tutlayt tebɣiḍ i uskan n isebtar">
 <!ENTITY chooseButton.label           "Fren…">
 <!ENTITY chooseButton.accesskey       "F">
 
@@ -50,7 +50,7 @@
   -  browser/translation.dtd
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "Tasqilt sɣuṛ">
+<!ENTITY translation.options.attribution.beforeLogo "Tasuqilt sɣuṛ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent.label             "Agbur DRM">

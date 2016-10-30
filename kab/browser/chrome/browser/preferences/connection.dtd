@@ -7,7 +7,7 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "Tawila n uqeddac apṛuksi i unkcum ɣeṛ Internet">
+<!ENTITY  proxyTitle.label              "Tawila n uqeddac apṛuksi i unekcum ɣeṛ Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ulac apṛuksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "l">
 <!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n upṛuksi n unagraw">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "c">
 <!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yekles">
 <!ENTITY  autologinproxy.accesskey      "k">
-<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ agi ak isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, ak-d-nsuter awal uffir.">
+<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ agi a k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, a k-d-nsuter awal uffir.">

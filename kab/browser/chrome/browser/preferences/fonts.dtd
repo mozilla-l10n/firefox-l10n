@@ -25,9 +25,9 @@
 
 <!ENTITY  font.langGroup.latin                    "Tutlayin tilaṭiniyin">
 <!ENTITY  font.langGroup.japanese                 "Tajapunit">
-<!ENTITY  font.langGroup.trad-chinese             "Tacinit tamesayt (Ṭaywan)">
+<!ENTITY  font.langGroup.trad-chinese             "Tacinit tamensayt (Ṭaywan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Tacinit tafessast">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Tacinit tamesayt (Hung Kung) ">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tacinit tamensayt (Hung Kung) ">
 <!ENTITY  font.langGroup.korean                   "Takurit">
 <!ENTITY  font.langGroup.cyrillic                 "Tasirilikt">
 <!ENTITY  font.langGroup.el                       "Tagrigit">
@@ -36,7 +36,7 @@
 <!ENTITY  font.langGroup.hebrew                   "Taɛebranit">
 <!ENTITY  font.langGroup.arabic                   "Taɛrabt">
 <!ENTITY  font.langGroup.devanagari               "Tadibanagarit">
-<!ENTITY  font.langGroup.tamil                    "Taṭamilit">
+<!ENTITY  font.langGroup.tamil                    "Taṭamilt">
 <!ENTITY  font.langGroup.armenian                 "Taṛminit">
 <!ENTITY  font.langGroup.bengali                  "Tabengalit">
 <!ENTITY  font.langGroup.canadian                 "Unṭiq akanadi yedduklen">
@@ -61,13 +61,13 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
-<!ENTITY  allowPagesToUse.label                   "Sireg isebtar web ad sqedcen tiseftiyin nsen deg umḍiq n tidak ifernen daw agi">
+<!ENTITY  allowPagesToUse.label                   "Sireg isebtar web ad sqedcen tisefsiyin nsen deg umḍiq n tidak ifernen daw agi">
 <!ENTITY  allowPagesToUse.accesskey               "S">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i wegbur aqbuṛ">
+<!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
 <!ENTITY languages.customize.Fallback2.label      "Asettengel n uḍris n ufran aneggaru:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Asettengel agi n uḍris iţuseqdec i wegbur aqbuṛ ur d-neţammal ara asettengel-ines.">
+<!ENTITY languages.customize.Fallback2.desc       "Asettengel agi n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

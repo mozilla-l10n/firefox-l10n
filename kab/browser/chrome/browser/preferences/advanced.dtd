@@ -105,7 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kkes isefka war tuqqna">
 
 <!ENTITY certificateTab.label            "Iselkinen">
-<!ENTITY certSelection.label             "Tuttriwin">
+<!ENTITY certSelection.label             "Isutren">
 <!ENTITY certSelection.description       "Ticki aqeddac isuter aselkin-iw udmawan:">
 <!ENTITY certs.auto                      "Fren yiwen s wudem awurman">
 <!ENTITY certs.auto.accesskey            "S">
