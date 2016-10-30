@@ -120,8 +120,8 @@
 <!ENTITY redoMoveMsgCmd.label "Ripeti sposta messaggio">
 <!ENTITY undoCopyMsgCmd.label "Annulla copia messaggio">
 <!ENTITY redoCopyMsgCmd.label "Ripeti copia messaggio">
-<!ENTITY undoMarkAllCmd.label "Annulla 'segna tutti letti'">
-<!ENTITY redoMarkAllCmd.label "Ripristina 'segna tutti letti'">
+<!ENTITY undoMarkAllCmd.label "Annulla 'Segna tutti letti'">
+<!ENTITY redoMarkAllCmd.label "Ripristina 'Segna tutti letti'">
 <!ENTITY undoDefaultCmd.label "Annulla">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Ripeti">
@@ -566,7 +566,7 @@
 <!ENTITY chatButton.tooltip "Mostra scheda della chat">
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
-<!ENTITY appmenuButton1.tooltip "Mostra il Menu di &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Mostra il menu di &brandShortName;">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Inoltra nel messaggio">
