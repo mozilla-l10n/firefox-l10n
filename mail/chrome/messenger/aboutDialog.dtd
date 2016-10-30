@@ -23,6 +23,7 @@
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
 <!ENTITY community.end3             " που συνεργάζεται για να κρατήσει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο σε όλους.">
 
+<!ENTITY helpus.start               "Θέλετε να βοηθήσετε; ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 

@@ -20,5 +20,8 @@
 <!ENTITY chooseFolderMac.label        "Επιλογή…">
 <!ENTITY chooseFolderMac.accesskey    "π">
 
+<!ENTITY attachments.incoming.label   "Εισερχόμενα">
+<!ENTITY attachments.outgoing.label   "Εξερχόμενα">
 
+<!ENTITY addCloudFileAccount.label        "Προσθήκη">
 

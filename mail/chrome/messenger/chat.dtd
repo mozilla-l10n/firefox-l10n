@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY chat.noConv.title             "Οι συνομιλίες θα εμφανιστούν εδώ.">
 
 
+<!ENTITY openConversationCmd.label     "Έναρξη συνομιλίας">
+<!ENTITY closeConversationCmd.label    "Κλείσιμο συνομιλίας">
+<!ENTITY aliasCmd.label                "Μετονομασία">
 
+<!ENTITY openConversationButton.tooltip  "Έναρξη συνομιλίας">
+<!ENTITY closeConversationButton.tooltip "Κλείσιμο συνομιλίας">
 
 
 

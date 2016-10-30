@@ -6,5 +6,7 @@
 <!ENTITY identitiesListAdd.accesskey  "θ">
 <!ENTITY identitiesListEdit.label "Επεξεργασία...">
 <!ENTITY identitiesListEdit.accesskey "ξ">
+<!ENTITY identitiesListDefault.label "Ορισμός προεπιλογής">
 <!ENTITY identitiesListDelete.label "Διαγραφή">
 <!ENTITY identitiesListDelete.accesskey "γ">
+<!ENTITY identitiesListClose.label "Κλείσιμο">

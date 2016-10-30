@@ -23,6 +23,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
 <!ENTITY attachVCardCmd.accesskey "ο">
+<!ENTITY remindLater.label "Υπενθύμιση αργότερα">
 <!ENTITY closeCmd.label "Κλείσιμο">
 <!ENTITY closeCmd.accesskey "λ">
 <!ENTITY saveCmd.label "Αποθήκευση">
@@ -238,3 +239,4 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Επαφές">
 
+<!-- Identity popup customize menuitem -->

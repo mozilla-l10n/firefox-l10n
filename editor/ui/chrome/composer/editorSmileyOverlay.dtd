@@ -7,4 +7,9 @@
 <!ENTITY insertSmiley.accesskey "Φ">
 
 <!ENTITY smiley1Cmd.tooltip "Εισαγωγή μιας χαρούμενης φατσούλας">
+<!ENTITY smiley3Cmd.label "Κλείσιμο ματιού">
+<!ENTITY smiley4Cmd.label "Βγάλσιμο γλώσσας">
+<!ENTITY smiley5Cmd.label "Γέλιο">
+<!ENTITY smiley7Cmd.label "Αναποφάσιστος">
+<!ENTITY smiley8Cmd.label "Έκπληξη">
 
