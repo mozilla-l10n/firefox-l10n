@@ -27,3 +27,4 @@
 <!ENTITY button.exportOPML.label     "Εξαγωγή">
 <!ENTITY button.exportOPML.accesskey "ξ">
 
+<!ENTITY button.close.label          "Κλείσιμο">

@@ -67,6 +67,7 @@
 <!ENTITY Birthday.label                 "Γενέθλια">
 <!ENTITY Birthday.accesskey             "θ">
 <!ENTITY Or.value                       "ή">
+<!ENTITY Age.placeholder                "Ηλικία">
 
 <!ENTITY Work.tab                       "Εργασία">
 <!ENTITY Work.accesskey                 "γ">
@@ -98,6 +99,8 @@
 <!ENTITY Notes.label                    "Σημειώσεις:">
 <!ENTITY Notes.accesskey                "μ">
 
+<!ENTITY XMPP.label                     "Αναγνωριστικό Jabber:">
+<!ENTITY IRC.label                      "Ψευδώνυμο IRC:">
 
 <!ENTITY Photo.tab                      "Φωτογραφία">
 <!ENTITY Photo.accesskey                "ω">
