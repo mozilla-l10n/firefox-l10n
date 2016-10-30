@@ -207,8 +207,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver información del sitiu">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensaxes">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir panel de solicitú de llocalización">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensaxes d'instalación de complementos">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensaxes d'almacenamientu ensin conexón">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensaxes de contraseñes guardaes">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Remanar usu de plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitiu">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Remanar compartir cámara y/o micrófonu col sitiu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Remanar compartir micrófonu col sitiu">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Remanar compartir ventanes o pantalla col sitiu">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensaxe d'instalación">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta páxina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Remanar la traducción de páxina">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Remanar l'usu del software DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bloquiesti la to cámara pa esti sitiu web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bloquiesti'l to micrófonu pa esti sitiu web.">
@@ -219,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Restablecer nivel de zoom">
 
 <!ENTITY searchItem.title             "Guetar">
 
@@ -415,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Guetar consulta">
+<!ENTITY contentSearchSubmit.tooltip  "Unviar busca">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -440,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Camudar axustes de gueta">
+<!ENTITY changeSearchSettings.tooltip "Camudar preferencies de busca">
 
 <!ENTITY searchInNewTab.label         "Guetar en llingüeta nueva">
 <!ENTITY searchInNewTab.accesskey     "L">
