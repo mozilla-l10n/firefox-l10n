@@ -179,7 +179,7 @@
 <!ENTITY event.repeat.every.weekday.label               "Μόνο τις καθημερινές">
 <!ENTITY event.repeat.bi.weekly.label                   "Ανά δεκαπενθήμερο">
 <!ENTITY event.repeat.monthly.label                     "Μηνιαίως">
-<!ENTITY event.repeat.yearly.label                      "Ετήσιως">
+<!ENTITY event.repeat.yearly.label                      "Ετησίως">
 <!ENTITY event.repeat.custom.label                      "Προσαρμογή…">
 
 <!ENTITY event.recurrence.pattern.label                 "Μοτίβο επανάληψης">
@@ -213,8 +213,8 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "Πέμπτη" >
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Παρασκευή" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Σάββατο" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ημέρα του μήνα">
-<!ENTITY event.recurrence.repeat.recur.label            "Επανάληψη την/στις">
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "ημέρα του μήνα">
+<!ENTITY event.recurrence.repeat.recur.label            "Επανάληψη την/τις">
 
 <!ENTITY event.recurrence.every.label                        "ανά:" >
 <!ENTITY repeat.units.years.both                             "έτος/η" >

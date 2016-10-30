@@ -58,9 +58,9 @@
 <!ENTITY calendar.today.button.tooltip          "Μετάβαση στη σημερινή ημέρα" >
 <!ENTITY calendar.todaypane.button.tooltip      "Εμφάνιση παραθύρου σημερινής ημέρας" >
 
-<!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε προβολή ημέρας" >
-<!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε προβολή εβδομάδας" >
-<!ENTITY calendar.month.button.tooltip          "Εναλλαγή σε προβολή μήνα" >
+<!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε ημερήσια προβολή" >
+<!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε εβδομαδιαία προβολή" >
+<!ENTITY calendar.month.button.tooltip          "Εναλλαγή σε μηνιαία προβολή" >
 <!ENTITY calendar.multiweek.button.tooltip      "Εναλλαγή σε πολυεβδομαδιαία προβολή" >
 
 <!ENTITY calendar.nextday.label                 "Επόμενη ημέρα" >
