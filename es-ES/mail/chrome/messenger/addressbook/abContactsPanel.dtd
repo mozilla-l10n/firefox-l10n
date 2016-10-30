@@ -4,8 +4,8 @@
 
 <!ENTITY addressbookPicker.label "Libreta de direcciones:">
 <!ENTITY addressbookPicker.accesskey "L">
-<!ENTITY searchInput.label "Buscar:">
-<!ENTITY searchInput.accesskey "u">
+<!ENTITY searchContacts.label "Buscar contactos:">
+<!ENTITY searchContacts.accesskey "n">
 <!ENTITY SearchNameOrEmail.label "Nombre o dirección de correo">
 <!ENTITY deleteAddrBookCard.label "Eliminar">
 <!ENTITY deleteAddrBookCard.accesskey "E">

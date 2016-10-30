@@ -15,9 +15,11 @@
 <!ENTITY newMessagesArrive.label "Cuando lleguen mensajes nuevos:">
 <!ENTITY playSound.label "Reproducir un sonido">
 <!ENTITY playSound1.accesskey "o">
+<!ENTITY playSoundMac.label "Reproducir el siguiente archivo de sonido:">
+<!ENTITY playSoundMac.accesskey "h">
 <!ENTITY showAnimatedAlert.label "Mostrar una alerta">
 <!ENTITY showAnimatedAlert.accesskey "M">
-<!ENTITY notificationAlertSettings.label "Las alertas pueden desactivarse en el panel de notificaciones de las preferencias del sistema.">
+<!ENTITY notificationAlertSettings2.label "Las alertas y el sonido predeterminado pueden desactivarse en el panel Notificaciones de las preferencias del sistema.">
 <!ENTITY customizeMailAlert.label "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey "P">
 <!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
@@ -25,8 +27,6 @@
 <!ENTITY play.label "Reproducir">
 <!ENTITY play.accesskey "r">
 <!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
-<!ENTITY systemsoundMac.label "Sonido de alerta del sistema">
-<!ENTITY systemsoundMac.accesskey "m">
 <!ENTITY systemsound.accesskey "n">
 <!ENTITY customsound.label "Usar el siguiente archivo de sonido">
 <!ENTITY customsound.accesskey "U">
