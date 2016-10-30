@@ -168,7 +168,7 @@
 <!ENTITY pref_whats_new_notification_summary "Conoza las nuevas funciones tras una actualización">
 <!ENTITY pref_category_experimental "Características experimentales">
 <!ENTITY pref_custom_tabs "Pestañas personalizadas">
-<!ENTITY pref_custom_tabs_summary "Permitir a aplicaciones de terceros abrir URL con un aspecto personalizado.">
+<!ENTITY pref_custom_tabs_summary3 "Permitir a apps abrir webs usando una versión personalizada de &brandShortName;">
 <!ENTITY pref_activity_stream "Flujo de actividad">
 <!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que estás buscando en &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
@@ -482,4 +482,7 @@
 <!ENTITY helper_triple_readerview_open_button "Añadir a marcadores">
 <!ENTITY activity_stream_topsites "Frecuentes">
 <!ENTITY activity_stream_highlights "Destacados">
-<!ENTITY activity_stream_more "Más">
+<!ENTITY activity_stream_highlight_label_bookmarked "Añadido a marcadores">
+<!ENTITY activity_stream_highlight_label_visited "Visitado">
+<!ENTITY activity_stream_dismiss "Ocultar">
+<!ENTITY activity_stream_delete_history "Eliminar del historial">
