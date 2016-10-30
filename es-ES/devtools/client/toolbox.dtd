@@ -46,6 +46,9 @@
 <!ENTITY options.webconsole.label "Consola web">
 <!ENTITY options.timestampMessages.label "Activar marcas de tiempo">
 <!ENTITY options.timestampMessages.tooltip "Si activa esta opción, las órdenes y sus salidas en la consola web mostrarán una marca de tiempo">
+<!ENTITY options.debugger.label "Depurador">
+<!ENTITY options.sourceMaps.label "Activar mapas de código fuente">
+<!ENTITY options.sourceMaps.tooltip "Si activa esta opción el código fuente se mapeará en el depurador y la consola.">
 <!ENTITY options.styleeditor.label "Editor de estilos">
 <!ENTITY options.stylesheetSourceMaps.label "Mostrar fuentes originales">
 <!ENTITY options.stylesheetSourceMaps.tooltip "Mostrar fuentes originales (p.e., archivos Sass) en el editor y el inspector de estilos">
