@@ -14,7 +14,7 @@
 
 <!ENTITY pref.weekstarts.label "Η εβδομάδα ξεκινάει:">
 <!ENTITY pref.weekstarts.accesskey "ξ">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Εμφάνιση αριθμού εβδομάδας σε προβολές και μίνι μήνα">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Εμφάνιση αριθμού εβδομάδας στις διάφορες προβολές και στον μίνι μήνα">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "θ">
 <!ENTITY pref.daysoff.label "Να συμπεριληφθούν αυτές οι ημέρες στις εργάσιμες:">
 
