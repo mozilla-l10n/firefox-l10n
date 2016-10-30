@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "పేజీని లోడుచేయడంలో సమస్య">
-<!ENTITY retry.label "మరలా ప్రయత్నించు">
+<!ENTITY retry.label "మళ్ళీ ప్రయత్నించు">
 <!ENTITY returnToPreviousPage.label "వెనక్కి వెళ్ళు">
 <!ENTITY advanced.label "ఉన్నతం">
 
