@@ -65,10 +65,16 @@
 
 <!ENTITY calendar.nextday.label                 "Επόμενη ημέρα" >
 <!ENTITY calendar.prevday.label                 "Προηγούμενη ημέρα" >
+<!ENTITY calendar.nextday.accesskey             "Ε" >
+<!ENTITY calendar.prevday.accesskey             "Π" >
 <!ENTITY calendar.nextweek.label                "Επόμενη εβδομάδα" >
 <!ENTITY calendar.prevweek.label                "Προηγούμενη εβδομάδα" >
+<!ENTITY calendar.nextweek.accesskey            "Ε" >
+<!ENTITY calendar.prevweek.accesskey            "Π" >
 <!ENTITY calendar.nextmonth.label               "Επόμενος μήνας" >
 <!ENTITY calendar.prevmonth.label               "Προηγούμενος μήνας" >
+<!ENTITY calendar.nextmonth.accesskey           "Ε" >
+<!ENTITY calendar.prevmonth.accesskey           "Π" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Μία ημέρα μπροστά" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Μία ημέρα πίσω" >
@@ -145,11 +151,17 @@
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Άνοιγμα">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "α">
 <!ENTITY calendar.context.modifyorviewtask.label      "Άνοιγμα εργασίας…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "α">
 <!ENTITY calendar.context.newevent.label              "Νέο συμβάν…">
+<!ENTITY calendar.context.newevent.accesskey          "υ">
 <!ENTITY calendar.context.newtodo.label               "Νέα εργασία…">
+<!ENTITY calendar.context.newtodo.accesskey           "Ν">
 <!ENTITY calendar.context.deletetask.label            "Διαγραφή εργασίας">
+<!ENTITY calendar.context.deletetask.accesskey        "Δ">
 <!ENTITY calendar.context.deleteevent.label           "Διαγραφή συμβάντος">
+<!ENTITY calendar.context.deleteevent.accesskey       "Δ">
 <!ENTITY calendar.context.cutevent.label              "Αποκοπή">
 <!ENTITY calendar.context.cutevent.accesskey          "κ">
 <!ENTITY calendar.context.copyevent.label             "Αντιγραφή">
@@ -157,7 +169,9 @@
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
 <!ENTITY calendar.context.button.label                "Παράθυρο ημέρας" >
+<!ENTITY calendar.context.button.accesskey            "θ" >
 <!ENTITY calendar.context.attendance.menu.label       "Συμμετοχή" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "χ" >
 <!ENTITY calendar.context.attendance.occurrence.label "Αυτό το στιγμιότυπο" >
 <!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
 
@@ -167,7 +181,7 @@
 <!ENTITY calendar.context.priority.label              "Προτεραιότητα">
 <!ENTITY calendar.context.priority.accesskey          "ρ">
 <!ENTITY calendar.context.postpone.label              "Αναβολή εργασίας">
-<!ENTITY calendar.context.postpone.accesskey          "Α">
+<!ENTITY calendar.context.postpone.accesskey          "β">
 
 <!--=percent sign-->
 
@@ -309,6 +323,7 @@
 <!ENTITY calendarproperties.enabled.label                  "Ενεργοποίηση αυτού του ημερολογίου">
 <!ENTITY calendarproperties.forceDisabled.label            "Η υπηρεσία παροχής για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
 <!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "φ">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Δημοσίευση ημερολογίου">
