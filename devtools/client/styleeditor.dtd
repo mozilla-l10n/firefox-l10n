@@ -15,6 +15,7 @@
 <!ENTITY importButton.label         "Εισαγωγή…">
 
 
+<!ENTITY saveButton.label           "Αποθήκευση">
 
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
