@@ -808,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "Quref-aɣ! &brandShortName; ur i t-eddu ara ɣef yibenk agi (&formatS1;, &formatS2;). Ma ulac aɣilif sider-d lqem ameɣtu.">
+<!ENTITY unsupported_sdk_version "Suref-aɣ! &brandShortName; ur i t-eddu ara ɣef yibenk agi (&formatS1;, &formatS2;). Ma ulac aɣilif sider-d lqem ameɣtu.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ur yettwalqam ara si sya d asawen">
 <!ENTITY eol_notification_summary "Senned akken ad tissined ugar">
