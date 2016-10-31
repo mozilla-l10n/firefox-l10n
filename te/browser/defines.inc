@@ -6,9 +6,7 @@
 #define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
-
 # variable definition and use the format specified.
-
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Krishnababu Krothapalli</em:contributor> <em:contributor>Arjuna Rao Chavala</em:contributor> <em:contributor>Veeven</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Krishnababu Krothapalli</em:contributor> <em:contributor>Arjuna Rao Chavala</em:contributor> <em:contributor>Veeven</em:contributor> <em:contributor>Dinesh Mv</em:contributor> <em:contributor>Jayesh Kr</em:contributor> <em:contributor>Sandeep Kapalawai</em:contributor>
 
 #unfilter emptyLines
