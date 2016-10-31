@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label "Weiterleiten">
 <!ENTITY fileButton.label "Ablegen">
 <!ENTITY archiveButton.label "Archivieren">
+<!ENTITY openConversationButton.label "Themenbaum">
 <!ENTITY nextButton.label "Nächste">
 <!ENTITY nextButtonToolbarItem.label "Nächste ungelesene">
 <!ENTITY nextMsgButton.label "Nächste">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Ausgewählte Nachricht als Anhang weiterleiten">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
 <!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
+<!ENTITY openConversationButton.tooltip "Themenbaum der Nachricht anzeigen">
 <!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht">
 <!ENTITY nextMsgButton.tooltip "Gehe zur nächsten Nachricht">
 <!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht">
