@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY chat.noConv.title             "Οι συνομιλίες θα εμφανιστούν εδώ.">
+<!ENTITY chat.noPreviousConv.description       "Το &brandShortName; δεν έχει επί του παρόντος προηγούμενες συνομιλίες αποθηκευμένες για αυτήν την επαφή.">
 
 
 <!ENTITY openConversationCmd.label     "Έναρξη συνομιλίας">
