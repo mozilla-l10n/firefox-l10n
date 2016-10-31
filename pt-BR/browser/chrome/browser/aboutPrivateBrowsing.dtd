@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privativa">
 
 <!ENTITY trackingProtection.title                        "Proteção contra rastreamento">
-<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores que podem monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox estes rastreadores serão bloqueados.">
+<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores que podem monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox muitos destes rastreadores serão bloqueados.">
 <!ENTITY trackingProtection.startTour1                   "Veja como funciona">
