@@ -209,9 +209,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvorí panel správ">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvorí panel so žiadosťou o polohu">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvorí panel správ inštalácie doplnkov">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvorí panel správ offline úložiska">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvorí panel správ uloženia hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať oznámenia">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Spravovať zdieľanie vašich okien alebo obrazovky so stránkou">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Otvoriť inštalačný panel správ">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Preloží túto stránku">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovať preklad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
@@ -726,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oprávnenia">
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne oprávnenia.">
+<!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
