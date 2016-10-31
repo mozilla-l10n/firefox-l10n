@@ -45,31 +45,46 @@
 <p>&brandShortName; ఏదో ఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
 <!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
-<!ENTITY malformedURI.longDesc "<ul> <li>సాధారణంగా వెబ్ చిరునామాలను ఇలావ్రాస్తారు <strong>http://www.example.com/</strong></li> <li>మీరు ఫార్వార్డు స్లాషెస్‌ను ఖచ్చితంగా ఉపయోగించునట్లు చేయండి (అది <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>సాధారణంగా జాల చిరునామాలను ఇలా వ్రాస్తారు <strong>http://www.example.com/</strong></li>
+  <li>మీరు ఫార్వార్డు స్లాషులనే (అంటే <strong>/</strong>) వాడుతున్నారో లేదో చూసుకోండి .</li>
+</ul>">
 
-<!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
+<!ENTITY netInterrupt.title "అనుసంధానానికి అంతరాయం కలిగింది">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "పత్రము గడువుతీరినది">
-<!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
+<!ENTITY notCached.title "పత్రం కాలం చెల్లింది">
+<!ENTITY notCached.longDesc "<p>అభ్యర్ధించిన పత్రం &brandShortName; క్యాషేలో లేదు.</p><ul><li> భద్రతాపరమైన ముందు జాగ్రత్తగా, &brandShortName; సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైటు నుండి పత్రాన్ని తిరిగి-అభ్యర్ధించడానికి మళ్ళీ ప్రయత్నించు నొక్కండి.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!ENTITY netOffline.longDesc2 "<ul> <li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>ఆన్‌లైన్ రీతికి మారి పేజీని తిరిగి లోడు చేయడానికి &quot;మళ్ళీ ప్రయత్నించు&quot; నొక్కండి.</li>
+</ul>">
 
-<!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్యగురించి తెలియజెప్పండి.</li> </ul>">
+<!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్‌కోడింగ్ తప్పిదం">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్య గురించి తెలియజేయండి.</li>
+</ul>">
 
-<!ENTITY unsafeContentType.title "భద్రముకాని ఫైల్ రకము">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>వెబ్‌సైటు యజమానులను సంప్రదించి దయచేసి వారికి ఈ సమస్యగురించి తెలియజెప్పు.</li> </ul>">
+<!ENTITY unsafeContentType.title "సురక్షితం కాని ఫైలు రకం">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్య గురించి తెలియజేయండి.</li>
+</ul>">
 
-<!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
+<!ENTITY netReset.title "అనుసంధానం పునరుద్ధరించబడింది">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
+<!ENTITY netTimeout.title "అనుసంధాన సమయం అయిపోయింది">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "ఆ చిరునామా అర్థం కాలేదు">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన అవసరం ఉండవచ్చు.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>ఈ చిరునామాను తెరవడానికి మీరు వేరే సాఫ్టువేరును స్థాపించుకోవాల్సిరావచ్చు.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "ఆప్రోక్సీ సేవిక అనుసంధానాలను తిరస్కరిస్తోంది.">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>ప్రోక్సీ అమరికలు ఖచ్చితంగా సరైనవిగా వుంచుటకు పరిశీలించండి.</li> <li>ప్రోక్సీ సేవిక ఖచ్చితంగా  పనిచేయునట్లు చేయుటకు మీనెట్వర్క్  నిర్వహణాధికారిని సంప్రదించండి.</li> </ul>">
