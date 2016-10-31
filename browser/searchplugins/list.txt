@@ -1,0 +1,6 @@
+bing
+drae
+google
+twitter
+wikipedia-es
+yahoo-es
