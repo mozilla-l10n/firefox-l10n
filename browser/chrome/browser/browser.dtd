@@ -208,14 +208,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobraziť informácie o stránke">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvorí panel správ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvorí panel so žiadosťou o polohu">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Preloží túto stránku">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovať preklad stránky">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tejto stránke ste zakázali prístup k vašej kamere.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tejto stránke ste zakázali prístup v vášmu mikrofónu.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Tejto stránke ste zakázali zdieľanie vašej obrazovky.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tejto stránke ste zakázali ukladať údaje do vášho počítača.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Obnoviť úroveň priblíženia">
 
 <!ENTITY searchItem.title             "Vyhľadávanie">
 
