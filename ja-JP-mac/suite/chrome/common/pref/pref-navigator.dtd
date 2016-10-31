@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.navigator.title           "ブラウザ">
+<!ENTITY pref.navigator.title           "ブラウザー">
 
 <!ENTITY navRadio.label                 "次の場合:">
 <!ENTITY navRadio.accesskey             "n">
-<!ENTITY navStartPageMenu.label         "ブラウザの起動時">
+<!ENTITY navStartPageMenu.label         "ブラウザーの起動時">
 <!ENTITY newWinPageMenu.label           "新規ウインドウを開いたとき">
 <!ENTITY newTabPageMenu.label           "新規タブを開いたとき">
 
@@ -41,10 +41,10 @@
 <!ENTITY useDefault.label               "初期設定に戻す">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "デフォルト Web ブラウザ">
-<!ENTITY defaultBrowserButton.label     "デフォルト Web ブラウザに設定">
+<!ENTITY defaultBrowserGroup.label      "デフォルト Web ブラウザー">
+<!ENTITY defaultBrowserButton.label     "デフォルト Web ブラウザーに設定">
 <!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText             "&brandShortName; はすでにデフォルト Web ブラウザに設定されています。">
-<!ENTITY defaultPendingText             "OK をクリックすると &brandShortName; はデフォルト Web ブラウザに設定されます。">
-<!ENTITY wasMadeDefaultText             "&brandShortName; はデフォルト Web ブラウザに設定されています。">
-<!ENTITY makeDefaultText                "&brandShortName; をデフォルト Web ブラウザに設定します。">
+<!ENTITY alreadyDefaultText             "&brandShortName; はすでにデフォルト Web ブラウザーに設定されています。">
+<!ENTITY defaultPendingText             "OK をクリックすると &brandShortName; はデフォルト Web ブラウザーに設定されます。">
+<!ENTITY wasMadeDefaultText             "&brandShortName; はデフォルト Web ブラウザーに設定されています。">
+<!ENTITY makeDefaultText                "&brandShortName; をデフォルト Web ブラウザーに設定します。">
