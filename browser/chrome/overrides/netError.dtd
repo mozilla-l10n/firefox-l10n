@@ -15,18 +15,20 @@
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "ఈచిరునామా నిషిద్దం">
+<!ENTITY deniedPortAccess.title "ఈ చిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-<!ENTITY dnsNotFound.longDesc "<ul>
-  <li>చిరునామాలో <strong>www</strong>.example.com బదులుగా <strong>ww</strong>.example.com టైపుచేయడం లాంటి తప్పులు ఉన్నాయేమో పరిశీలించండి</li>
-   <li>మీరు వేరే పేజీలను కూడా తెరవలేకపోతూంటే, మీ కంప్యూటర్ నెట్‌వర్క్ అనుసంధానాన్ని సరిచూసుకోండి.</li> 
-  <li>మీ కంప్యూటర్ లేక నెట్‌వర్క్ గానీ  ఫైర్‌వాల్ చేత రక్షించబడుతూంటే, &brandShortName;కి జాలానికి అనుసంధానమయ్యే అనుమతి ఉండేట్లు చూసుకోండి.</li>
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>చిరునామాలో <strong>www</strong>.example.com బదులుగా <strong>ww</strong>.example.com టైపుచేయడం లాంటి తప్పులు ఉన్నాయేమో పరిశీలించండి</li>
+   <li>మీరు వేరే పేజీలను కూడా తెరవలేకపోతూంటే, మీ కంప్యూటర్ నెట్‌వర్క్ అనుసంధానాన్ని సరిచూసుకోండి.</li> 
+  <li>మీ కంప్యూటర్ లేక నెట్‌వర్క్ గానీ  ఫైర్‌వాల్ చేత రక్షించబడుతూంటే, &brandShortName;కి జాలానికి అనుసంధానమయ్యే అనుమతి ఉండేట్లు చూసుకోండి.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "ఫైలు కనబడ లేదు">
-<!ENTITY fileNotFound.longDesc "<ul>
+<!ENTITY fileNotFound.longDesc "
+<ul>
   <li>కేపిటలైజేషన్ లేదా ఇతర టైపింగు పొరపాట్లు ఫైలు పేరులో ఉన్నాయేమో చూడండి.</li>
   <li>ఫైలు తరలించబడిందో, పేరు మార్చబడిందో, లేదా తొలగించబడిందో కూడా సరిచూసుకోండి.</li>
 </ul>">
