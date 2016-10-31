@@ -14,7 +14,7 @@
 <!ENTITY warnOpenManyTabs.label       "Lɣu-yid ticki ilukkez &brandShortName; ma ldin aṭas n yiccaren">
 <!ENTITY warnOpenManyTabs.accesskey   "L">
 
-<!ENTITY switchToNewTabs.label        "Ticki ad ldiḍ aseɣwen deg iccer amaynut, ddu ɣur-s imir">
+<!ENTITY switchToNewTabs.label        "Ticki ad ldiɣ aseɣwen deg iccer amaynut, ddu ɣur-s imir">
 <!ENTITY switchToNewTabs.accesskey    "T">
 
 <!ENTITY showTabsInTaskbar.label          "Sken taskant n yiccaren deg ufeggag n twira n Windows">

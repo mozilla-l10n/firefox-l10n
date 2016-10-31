@@ -6,18 +6,18 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Ulac tasuqilt ad nsumer i tutlayin agi:">
+<!ENTITY noTranslationForLanguages.label  "Ur d-tettwasumar ara tsuqilt i tutlayin agi:">
 <!ENTITY treehead.languageName.label      "Tutlayin">
 <!ENTITY removeLanguage.label             "Kkes tutlayin">
 <!ENTITY removeLanguage.accesskey         "K">
 <!ENTITY removeAllLanguages.label         "Kkes akk tutlayin">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Ulac tasuqilt ad d-nsumer i yesmal agi:">
+<!ENTITY noTranslationForSites.label      "Ur d-tettwasumar ara tsuqilt i yismal agi:">
 <!ENTITY treehead.siteName.label          "Ismal web">
 <!ENTITY removeSite.label                 "Kkes asmel">
 <!ENTITY removeSite.accesskey             "s">
-<!ENTITY removeAllSites.label             "Kkes akkismal">
+<!ENTITY removeAllSites.label             "Kkes akk ismal">
 <!ENTITY removeAllSites.accesskey         "k">
 
 <!ENTITY button.close.label               "Mdel">

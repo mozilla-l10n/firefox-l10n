@@ -109,7 +109,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Snifel ismenyaf n uzegrir agi">
 <!ENTITY cmd.contribute.label                 "Ţekki">
 <!ENTITY cmd.contribute.accesskey             "k">
-<!ENTITY cmd.contribute.tooltip               "Ţekki di tneflit n uzegrir amernan">
+<!ENTITY cmd.contribute.tooltip               "Ţekki di tneflit n uzegrir">
 
 <!ENTITY cmd.showReleaseNotes.label           "Sken iwenniten n lqem">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Sken iwenniten n lqem agi">
@@ -130,7 +130,7 @@
 <!ENTITY detail.homepage.label                "Asebter agejdan">
 <!ENTITY detail.numberOfDownloads.label       "Isidar">
 
-<!ENTITY detail.contributions.description     "Aneflay n uzegrir agi amernan isutur-ak-d tallalt akken ad iseddu taneflit ines ticki tmuddeḍ-as cwiṭ n tewsa.">
+<!ENTITY detail.contributions.description     "Aneflay n uzegrir agi isutur-ak-d tallalt akken ad iseddu taneflit ines ticki tmuddeḍ-as cwiṭ n tewsa.">
 
 <!ENTITY detail.updateType                    "Aleqqem awurman">
 <!ENTITY detail.updateDefault.label           "Awennez amezwaru">
@@ -140,12 +140,12 @@
 <!ENTITY detail.updateManual.label            "Yensa">
 <!ENTITY detail.updateManual.tooltip          "Ur sebdad ara ileqman s wudem awurman">
 <!ENTITY detail.home                          "Asebter agejdan">
-<!ENTITY detail.repository                    "Amaɣnu n uzegrir amernan">
+<!ENTITY detail.repository                    "Amaɣnu n uzegrir">
 <!ENTITY detail.size                          "Teɣzi">
 
 <!ENTITY detail.checkForUpdates.label         "Senqed ma llan ileqman imaynuten">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "senqed ileqman n uzegrir agi amernan">
+<!ENTITY detail.checkForUpdates.tooltip       "senqed ileqman n uzegrir agi">
 <!ENTITY detail.showPreferencesWin.label      "Iɣewwaṛen">
 <!ENTITY detail.showPreferencesWin.accesskey  "w">
 <!ENTITY detail.showPreferencesWin.tooltip    "Snifel iɣewwaṛen n uzegrir agi">
@@ -180,7 +180,7 @@
 
 <!ENTITY addon.homepage                       "Asebter agejdan">
 <!ENTITY addon.details.label                  "Ugar">
-<!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir agi amernan">
+<!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir agi">
 <!ENTITY addon.unknownDate                    "Arussin">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -197,9 +197,9 @@
 <!ENTITY addon.undoRemove.tooltip             "Eǧǧ azegrir agi yebded">
 <!ENTITY addon.restartNow.label               "Senker tikelt nniḍen tura">
 <!ENTITY addon.install.label                  "Sebded">
-<!ENTITY addon.install.tooltip                "Sebded azegrir amernan">
+<!ENTITY addon.install.tooltip                "Sebded azegrir">
 <!ENTITY addon.updateNow.label                "Leqqem tura">
-<!ENTITY addon.updateNow.tooltip              "Sebded lqem i wezgrir agi amernan">
+<!ENTITY addon.updateNow.tooltip              "Sebded lqem i wezgrir agi">
 <!ENTITY addon.includeUpdate.label            "Rnu ɣer uleqqem">
 <!ENTITY addon.updateAvailable.label          "Lqem ihegga">
 <!ENTITY addon.checkingForUpdates.label       "Asenqed n ileqman…">

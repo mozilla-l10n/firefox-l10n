@@ -23,14 +23,14 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Tzemreḍ daɣen ">
-<!ENTITY  doNotTrack.settings.label     "Sefrek iɣewwaṛen &quot;Ur Yisfuɣul Ara&quot; innek">
+<!ENTITY  doNotTrack.settings.label     "Sefrek iɣewwaṛen-inek n &quot;Ur Sfuɣul Ara&quot;">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Amazray">
 
-<!ENTITY  locationBar.label             "Afeggag n wadig">
+<!ENTITY  locationBar.label             "Afeggag n tansa">
 
-<!ENTITY  locbar.suggest.label          "Ticki tesqedceḍ affeggag n tensa, sumer:">
+<!ENTITY  locbar.suggest.label          "Ticki tesqedceḍ afeggag n tansa, sumer:">
 <!ENTITY  locbar.history.label          "Amazray">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Ticraḍ n isebtar">
@@ -40,19 +40,19 @@
 <!ENTITY  locbar.searches.label         "Anadi icudden ɣer umsedday n unadi">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Snifel ismenyifen i yisumar n umsedday n unandi…">
+<!ENTITY  suggestionSettings.label      "Snifel ismenyifen i yisumar n umsedday n unadi…">
 <!ENTITY  suggestionSettings.accesskey  "n">
 
-<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yesmal agi">
+<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yismal agi">
 <!ENTITY  acceptCookies.accesskey       "Q">
 
 <!ENTITY  acceptThirdParty.pre.label      "Qbel inagan n tuqqna n wis kraḍ:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Q">
 <!ENTITY  acceptThirdParty.always.label   "Yal ass">
 <!ENTITY  acceptThirdParty.never.label    "Weṛǧin">
-<!ENTITY  acceptThirdParty.visited.label  "Seg ismal wiɣeṛ terziḍ">
+<!ENTITY  acceptThirdParty.visited.label  "Seg yismal ɣur terziḍ">
 
-<!ENTITY  keepUntil.label               "Gebr-iten arama:">
+<!ENTITY  keepUntil.label               "Gber-iten alama:">
 <!ENTITY  keepUntil.accesskey           "G">
 
 <!ENTITY  expire.label                  "Aneffeṛ nsen">
@@ -67,11 +67,11 @@
 <!ENTITY  historyHeader.pre.label          "Illugan n uḥraz n &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "I">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
-<!ENTITY  historyHeader.dontremember.label "Ur ḥerz ara ɣef umazray">
+<!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
 <!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray agi">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yesmal yettwarzan.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yismal yettwarzan.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "kkes inagan n tuqqna ilmisen">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ad iseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerz-ara amazray n tunigin inek.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin inek.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -99,7 +99,7 @@
 <!ENTITY  rememberSearchForm.label       "Ḥrez amazray n unadi d tferkit">
 <!ENTITY  rememberSearchForm.accesskey   "u">
 
-<!ENTITY  clearOnClose.label             "Sfeḍ amazray ticki t-medleḍ &brandShortName;">
+<!ENTITY  clearOnClose.label             "Sfeḍ amazray ticki tmedleḍ &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Iɣewwaṛen">

@@ -4,24 +4,24 @@
 
 <!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Fren amsedday n unadi amezwer. &brandShortName; ad t-iseqdec deg ufeggag n tensa, affeggag n unadi akked usebter n usenker.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Fren amsedday n unadi amezwer. &brandShortName; ad t-isseqdec deg ufeggag n tansa, afeggag n unadi akked usebter n usenker.">
 
 <!ENTITY provideSearchSuggestions.label        "Sken isumar n unadi">
 <!ENTITY provideSearchSuggestions.accesskey    "S">
 
-<!ENTITY showURLBarSuggestions.label           "Sken isumar n unadi deg ugmuḍ n ufeggag n tensa">
+<!ENTITY showURLBarSuggestions.label           "Sken isumar n unadi deg ugmuḍ n ufeggag n tansa">
 <!ENTITY showURLBarSuggestions.accesskey       "S">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Anadi n isumar ur d ittwaskan ara deg igemmaḍ n ufeggag n tensa acku tsewleḍ &brandShortName; akken ur iḥerrez ara amazaray.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ &brandShortName; akken ur iḥerrez ara amazray.">
 
-<!ENTITY redirectWindowsSearch.label "Seqdec amsedday agi n unadi i wenadi si Windows">
+<!ENTITY redirectWindowsSearch.label "Seqdec amsedday agi n unadi i unadi si Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Imseddayen n unadi ara tkecmeḍ s yiwen n usiti">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Afeggag n unadi ak yeǧǧ ad tesnifleḍ amsedday n unadi s ucelqef. Fren wid ad sekneḍ.">
+<!ENTITY chooseWhichOneToDisplay.label         "Afeggag n unadi a k-yeǧǧ ad tesnifleḍ amsedday n unadi s ucelqef. Fren wid ad d-tsekneḍ.">
 
 <!ENTITY engineNameColumn.label                "Amsedday n unadi">
-<!ENTITY engineKeywordColumn.label             "Awal n tsaruţ">
+<!ENTITY engineKeywordColumn.label             "Awal tasarut">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Err-d imseddayen n unadi amezwer">
 <!ENTITY restoreDefaultSearchEngines.accesskey "E">
@@ -29,4 +29,4 @@
 <!ENTITY removeEngine.label                    "Kkes">
 <!ENTITY removeEngine.accesskey                "K">
 
-<!ENTITY addMoreSearchEngines.label            "Rnu ugar n imseddayen n unadi…">
+<!ENTITY addMoreSearchEngines.label            "Rnu ugar n yimseddayen n unadi…">

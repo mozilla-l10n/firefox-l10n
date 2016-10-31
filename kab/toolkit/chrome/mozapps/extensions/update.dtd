@@ -26,7 +26,7 @@
 <!ENTITY  installing.wizard.title         "Asebded n izegrar imernan imṣadan">
 <!ENTITY  installing.top.label            "Azdam d usebded n ileqman n izegrar imernan…">
 
-<!ENTITY  noupdates.wizard.title          "Ulac azegrir amernan imṣadan">
+<!ENTITY  noupdates.wizard.title          "Ulac azegrir imṣadan">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; ur yezmir ara ad yaf ileqman i yizegrar inek ur nemṣada ara.">
 <!ENTITY  noupdates.error.desc            "Kra n wuguren ţumugren-d deg unadi n ileqman.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ad isenqed si s ya ɣer da u wak-id inermes ɣef ileqman imṣadan ticki heggan.">
