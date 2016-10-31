@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Lddi agalis n yizen ">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lddi agalis n usuter n wadig">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Lddi agalis n yizen i wesbded n uzegrir amernan">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Lddi agalis n yizen i wesbded n uzegrir">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
@@ -541,9 +541,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Azen ameslaw s yimayl…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Rmed azegrir agi amernan">
+<!ENTITY playPluginCmd.label          "Rmed azegrir agi">
 <!ENTITY playPluginCmd.accesskey      "z">
-<!ENTITY hidePluginCmd.label          "Ffer Azegrir agi amernan">
+<!ENTITY hidePluginCmd.label          "Ffer Azegrir agi">
 <!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Nɣel tansa n useɣwen">
 <!ENTITY copyLinkCmd.accesskey        "N">
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "Rmed tura">
 <!ENTITY pluginActivateAlways.label "Sireg u cfu">
-<!ENTITY pluginBlockNow.label "Sewḥel azegrir amernan">
+<!ENTITY pluginBlockNow.label "Sewḥel azegrir">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
