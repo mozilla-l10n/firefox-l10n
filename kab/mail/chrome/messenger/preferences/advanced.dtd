@@ -78,7 +78,7 @@
 <!ENTITY Diskspace                       "Tallunt n udebṣi">
 <!ENTITY offlineCompactFolders.label     "Ssed akk ikaramen ma yella ad yeḥrez amkan ugar n">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "Asemday s MB">
+<!ENTITY offlineCompactFoldersMB.label   "Asemday s MAṬ">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
