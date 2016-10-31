@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "Você também pode ">
-<!ENTITY  doNotTrack.settings.label     "gerenciar as configurações Não me rastreie">
+<!ENTITY  doNotTrack.settings.label     "gerenciar as configurações Não rastrear">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Histórico">
