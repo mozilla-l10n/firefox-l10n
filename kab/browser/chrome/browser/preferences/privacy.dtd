@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Tzemreḍ daɣen ">
-<!ENTITY  doNotTrack.settings.label     "Sefrek iɣewwaṛen &quot;Ur Yisfuɣul Ara&quot; inek">
+<!ENTITY  doNotTrack.settings.label     "Sefrek iɣewwaṛen &quot;Ur Yisfuɣul Ara&quot; innek">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Amazray">
