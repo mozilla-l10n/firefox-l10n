@@ -141,26 +141,26 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "కాంటెంట్ రక్షణ విధానం చేత నిరోధించబడింది">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ఈ పేజీను ఈ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యిపేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
+<!ENTITY cspBlocked.longDesc "<p>ఈ పేజీ ఈ విధంగా లోడవడాన్ని &brandShortName; నియంత్రించింది ఎందుకంటే ఈ పేజీ కాంటెంట్ రక్షణ విధానం దీన్ని అనుమతించదు.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "పాడైన విషయ దోషం">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యిసమస్య గురించి తెలుపండి.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు చూడడానికి ప్రయత్నిస్తూన్న పేజీ చూపించబడదు ఎందుకంటే డేటా బదలాయింపులో తప్పిదం గుర్తించబడింది.</p><ul><li>దయచేసి వెబ్‌సైటు యజమాలనుల సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 
-<!ENTITY errorReporting.automatic2 "ఈ లోపాలు వంటి రిపోర్ట్ Mozilla గుర్తించడానికి సహాయంగా మరియు హానికరమైన సైట్లను బ్లాక్ చేస్తుంది">
+<!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>దయజేసి వెబ్‌సైటు యజమాలను సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "సురక్షితంగా అనుసంధానం కాలేకున్నాము">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "మీ కనెక్షన్ సురక్షితమైనది కాదు">
+<!ENTITY weakCryptoUsed.title "మీ అనుసంధానం సురక్షితం కాదు">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_NO_CYPHER_OVERLAP">
