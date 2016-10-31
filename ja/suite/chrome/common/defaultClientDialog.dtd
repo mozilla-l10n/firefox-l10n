@@ -5,7 +5,7 @@
 <!ENTITY defaultClient.title  "既定のクライアント">
 <!ENTITY defaultClient.intro  "&brandShortName; を 既定のクライアント に設定する:">
 
-<!ENTITY browser.label "ブラウザ">
+<!ENTITY browser.label "ブラウザー">
 <!ENTITY email.label "メール">
 <!ENTITY newsgroups.label "ニュース">
 <!ENTITY feeds.label "フィード">

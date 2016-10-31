@@ -12,9 +12,9 @@
 <!ENTITY chooseFile.label "ファイルを選択...">
 <!ENTITY chooseFile.accesskey "C">
 <!ENTITY newPrivate.label "新しいプライベートウィンドウ">
-<!ENTITY newWindow.label "新しいブラウザウィンドウ">
-<!ENTITY newTab.label "新しいブラウザのタブ">
-<!ENTITY currentTab.label "現在のブラウザのタブ">
+<!ENTITY newWindow.label "新しいブラウザーウィンドウ">
+<!ENTITY newTab.label "新しいブラウザーのタブ">
+<!ENTITY currentTab.label "現在のブラウザーのタブ">
 <!ENTITY editNewWindow.label "新しい Composer ウィンドウ">
 <!ENTITY open.label "開く">
 <!ENTITY caption.label "ウェブページを開く">
