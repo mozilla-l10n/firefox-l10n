@@ -62,8 +62,8 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "మీ సిస్టమ్ నిర్వహణాధికారి తాజాకరణలను అచేతనం చేసారు">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; అనునది వేరొక సంభవంచే నవీకరించబడింది">
-<!ENTITY update.restarting          "తిరిగి ప్రారంభం అవుతోంది…">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;ను మరో అంశ తాజకరిస్తోంది">
+<!ENTITY update.restarting          "పునఃప్రారంభమవుతోంది…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -71,14 +71,14 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "తాజాకరణ విఫలమైంది. ">
-<!ENTITY update.failed.linkText     "సరికొత్త వర్షన్‌ను దింపుకోండి">
+<!ENTITY update.failed.linkText     "సరికొత్త వెర్షన్‌ను దింపుకోండి">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "నవీకరణలు ఇక్కడ అందుబాటులోవున్నాయి ">
+<!ENTITY update.manual.start        "తాజాకరణలు ఇక్కడ అందుబాటులోవున్నాయి ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -89,7 +89,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "ఈ వ్యవస్థపై మీరు ఇంకేమీ తాజాకరణలు చెయ్యలేరు. ">
 <!ENTITY update.unsupported.linkText "మరింత తెలుసుకోండి">
-<!ENTITY update.unsupported.end      "మరింత తెలుసుకోండి">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
