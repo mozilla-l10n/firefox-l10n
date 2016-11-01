@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; d armitan yerna ur yerkid ara.">
 <!ENTITY aboutPage.telemetryStart               " Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec akked usagen i ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "akken ad yefk tallalt i wesnefli n &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 "akken ad yefk tallalt i usnefli n &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Senqed ileqman»">
 <!ENTITY aboutPage.checkForUpdates.checking     "Anadi n ileqman…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ulac ileqman">
@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Talɣut n turagt">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "Firefox d iluguten n Firefox  d ticraḍ yettwasersen i tesbeddit Mozilla.">
+<!ENTITY aboutPage.logoTrademark                "Firefox d iluguten n Firefox d ticraḍ yettwasersen i tesbeddit Mozilla.">

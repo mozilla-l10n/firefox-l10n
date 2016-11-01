@@ -10,21 +10,21 @@ by NSS/PSM via netError.xhtml. -->
 
 
 <!ENTITY certerror.pagetitle  "Tuqqna taraselkant">
-<!ENTITY certerror.longpagetitle "Tuqqna yagi ţaraselkant">
+<!ENTITY certerror.longpagetitle "Tuqqna agi d taraselkant">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Tsutreḍ i &brandShortName; tuqqna  s tɣellist ɣeṛ <b>#1</b>, acukan ur nezmir-ara ad nesentem d akken tuqqna yinek ad teddu s tɣellist.">
+<!ENTITY certerror.introPara1 "Tsutreḍ i &brandShortName; tuqqna s tɣellist ɣeṛ <b>#1</b>, acukan ur nezmir ara ad nesentem d akken tuqqna inek ad teddu s tɣellist.">
 
-<!ENTITY certerror.whatShouldIDo.heading "D acu ara ggeɣ?">
-<!ENTITY certerror.whatShouldIDo.content "Ma t-tteqneḍ ɣer wesmel agi s war uguren, tuccḍa yagi ahat d yiwen ara yettaɛrḍen ad yakwer tamagit n usmel agi, ihi ur yessek ara ad tkemleḍ.">
-<!ENTITY certerror.getMeOutOfHere.label "Amek ar ad fɣeɣ s agi!">
+<!ENTITY certerror.whatShouldIDo.heading "D acu ara geɣ?">
+<!ENTITY certerror.whatShouldIDo.content "Ma tugh tannumi tetteqqneḍ ɣer usmel agi war uguren, tuccḍa agi ahat d yiwen ara yettaɛrḍen ad yaker tamagit n usmel agi, ihi ur yessefk ara ad tkemmleḍ.">
+<!ENTITY certerror.getMeOutOfHere.label "Amek ar ad ffɣeɣ sya!">
 
 <!ENTITY certerror.expert.heading "Gziɣ tilufa">
-<!ENTITY certerror.expert.content "Ma teẓriḍ ayen iḍerrun, tzemreḍ ad tinniḍ i &brandShortName; ad yamen usulu n usmel agi.  <b>Xas akken teggiḍ laman deg usmel agi, tuccda yagi tezmer ad tili d-albaɛḍ ara yettakwren tuqqna yinek.</b>">
+<!ENTITY certerror.expert.content "Ma teẓriḍ ayen iḍerrun, tzemreḍ ad tiniḍ i &brandShortName; ad yamen usulu n usmel agi.  <b>Xas akken tgiḍ laman deg usmel agi, tuccḍa agi tezmer ad tili d albaɛḍ i la yettakren tuqqna inek.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ur rennu ara tasureft arma teẓriḍ d akken tella ssebba acuɣeṛ asmel agi ur yesseqdac ara asulu yettwamanen.">
 <!ENTITY certerror.addTemporaryException.label "Rzu ɣer usmel">
-<!ENTITY certerror.addPermanentException.label "Rnu tasereft timezgit">
+<!ENTITY certerror.addPermanentException.label "Rnu tasureft timezgit">
 
 <!ENTITY certerror.technical.heading "Talqayt tatiknikant">

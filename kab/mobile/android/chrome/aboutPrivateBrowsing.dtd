@@ -7,19 +7,19 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.title.private "+ Ammestel mgal asfuɣel">
+<!ENTITY privatebrowsingpage.title.private "+ Ammesten mgal asfuɣel">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Aqla-k di tunigin tusligt">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n n tunigin inek.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Ur neceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk inek.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ur nceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk inek.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Di tunigin tusligt, ur neceffu ara ɣer umazray n tunigin neɣ inagan n tuqqna. Ticraḍ terniḍ akked d ifuyla i d-sidreḍ ad qqimen ttwakelsen ɣef yibenk inek.">
+<!ENTITY privatebrowsingpage.description.normal2 "Di tunigin tusligt, ur nceffu ara ɣer umazray n tunigin neɣ inagan n tuqqna. Ticraḍ terniḍ akked d ifuyla i d-tessidreḍ ad qqimen ttwakelsen ɣef yibenk inek.">
 
-<!ENTITY privatebrowsingpage.link.private "Acu ara tissineḍ ugar?">
+<!ENTITY privatebrowsingpage.link.private "Tebɣiḍ ad tissineḍ ugar?">
 <!ENTITY privatebrowsingpage.link.normal "Ldi iccer uslig amaynut">
