@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Doo-waaney aleewawey taa:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Waati kul">
 <!ENTITY  acceptThirdParty.never.label    "Abada">
 <!ENTITY  acceptThirdParty.visited.label  "Kaŋ gunandi">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Kayandiyaney…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Diikey kanjey">
+<!ENTITY  browserContainersLearnMore.label      "Bay ka tonton">
+<!ENTITY  browserContainersEnabled.label        "Diikey kanjey tunandi">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

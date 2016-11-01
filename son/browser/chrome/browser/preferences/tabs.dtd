@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab willandey kanjey game goyyan kanandi koraw ra">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "Zanfun taagey feeri kanji taaga foo ra de">
+<!ENTITY newWindowsAsTabs.accesskey   "a">
 
 <!ENTITY warnCloseMultipleTabs.label  "Ay yaamar waati kaŋ kanji booboyaŋ ga daaba">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
