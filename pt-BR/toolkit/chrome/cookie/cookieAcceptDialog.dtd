@@ -9,7 +9,7 @@
 <!ENTITY     props.secure.label             "Enviar:">
 <!ENTITY     props.expires.label            "Validade:">
 
-<!ENTITY     button.allow.label             "Aceitar">
+<!ENTITY     button.allow.label             "Permitir">
 <!ENTITY     button.allow.accesskey         "A">
 <!ENTITY     button.session.label           "Excluir ao sair">
 <!ENTITY     button.session.accesskey       "x">
