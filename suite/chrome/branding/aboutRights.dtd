@@ -43,6 +43,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-c ". Ďalšie funkcie a Služby je možné povoliť, alebo vypnúť v nastaveniach aplikácie.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služba Doplnky: ">
@@ -61,6 +62,11 @@
 <!ENTITY rights.safebrowsing-term4 "Služba SafeBrowsing je teraz vypnutá">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Služba Prehliadanie s geolokáciou: ">
+<!ENTITY rights.locationawarebrowsing-b "Je vždy voliteľná. Bez vášho povolenia nie sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:">
+<!ENTITY rights.locationawarebrowsing-term1 "Otvorte okno nastavení aplikácie">
+<!ENTITY rights.locationawarebrowsing-term2 "Zvoľte panel &security.label;">
+<!ENTITY rights.locationawarebrowsing-term4 "Prehliadanie so zisťovaním polohy je vypnuté">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; môže zrušiť využívanie alebo zmeniť Služby podľa svojho uváženia.">
