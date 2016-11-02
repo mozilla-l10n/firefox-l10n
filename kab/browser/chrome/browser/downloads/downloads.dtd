@@ -42,7 +42,7 @@
 
 <!ENTITY cmd.pause.label                  "Asteɛfu">
 <!ENTITY cmd.pause.accesskey              "A">
-<!ENTITY cmd.resume.label                 "Ɣlel">
+<!ENTITY cmd.resume.label                 "Kemmel">
 <!ENTITY cmd.resume.accesskey             "l">
 <!ENTITY cmd.cancel.label                 "Semmet">
 <!ENTITY cmd.cancel.accesskey             "S">
