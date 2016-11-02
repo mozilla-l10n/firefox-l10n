@@ -210,24 +210,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Oscail painéal na dteachtaireachtaí">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Oscail painéal an iarratais suímh">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Oscail an painéal um theachtaireachtaí suiteála breiseáin">
-
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Oscail painéal teachtaireachtaí an stórais as líne">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Oscail painéal teachtaireachtaí sábháil focal faire">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bainistigh úsáid na bhforlíontán">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bainistigh comhroinnt do cheamara agus/nó do mhicreafón leis an suíomh">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bainistigh comhroinnt do mhicreafóin leis an suíomh">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bainistigh comhroinnt fuinneog nó scáileáin leis an suíomh">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Oscail painéal teachtaireachtaí na suiteála">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Aistrigh an leathanach seo">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Bainistigh aistriúchán an leathanaigh">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Bainistigh bogearraí DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Chuir tú cosc ar do cheamara ar an suíomh seo.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Chuir tú cosc ar do mhicreafón ar an suíomh seo.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Chuir tú cosc ar an suíomh seo do scáileán a chomhroinnt.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Chuir tú cosc ar an suíomh seo an áit ina bhfuil tú a fheiceáil.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Chuir tú cosc ar stóras sonraí ar an suíomh seo.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Chuir tú cosc ar fhógraí ón suíomh seo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taispeáin an stair">
 
