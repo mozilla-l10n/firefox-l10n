@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "N">
 <!ENTITY cmd.removeFromHistory.label      "Bain ón Stair">
 <!ENTITY cmd.removeFromHistory.accesskey  "B">
-
-
+<!ENTITY cmd.clearList2.label             "Glan Painéal an Réamhamhairc">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Bánaigh Íosluchtuithe">
 <!ENTITY cmd.clearDownloads.accesskey     "c">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
