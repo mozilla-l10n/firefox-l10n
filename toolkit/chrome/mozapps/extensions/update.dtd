@@ -24,7 +24,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "ย">
 
 <!ENTITY  installing.wizard.title         "ติดตั้งส่วนเสริมที่เข้ากันได้">
-<!ENTITY  installing.top.label            "ดาวน์โหลดและติดตั้งรายการอัพเดตให้กับส่วนเสริม…">
+<!ENTITY  installing.top.label            "กำลังดาวน์โหลดและติดตั้งการปรับปรุงให้กับส่วนเสริมของคุณ…">
 
 <!ENTITY  noupdates.wizard.title          "ไม่พบส่วนเสริมที่เข้ากันได้">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; ไม่สามารถค้นหารายการอัพเดตสำหรับ ส่วนเสริมที่ไม่เข้ากันได้">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "ปัญหาการติดตั้งรายการปรับรุ่น">
 <!ENTITY  installerrors.intro.label       "&brandShortName; พบปัญหาระหว่างการปรับรุ่นส่วนเสริม บางตัวของคุณ">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "คลิก เสร็จสิ้น เพื่อเริ่มการทำงานของ &brandShortName;">
 <!ENTITY  clickFinish.labelMac            "คลิก เสร็จสิ้น เพื่อเริ่มการทำงานของ &brandShortName;">
 <!ENTITY  enableChecking.label            "อนุญาตให้ &brandShortName; ตรวจสอบรายการปรับรุ่น">
