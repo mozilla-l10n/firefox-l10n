@@ -173,36 +173,36 @@
 <!ENTITY devicesetting_search "Search settings">
 <!ENTITY devicesetting_newname "New setting name">
 <!ENTITY devicesetting_newtext "Setting value">
-<!ENTITY devicesetting_addnew "Adicionar nova configuração">
+<!ENTITY devicesetting_addnew "Add new setting">
 
 <!-- Monitor -->
-<!ENTITY monitor_title "Monitorar">
-<!ENTITY monitor_help "Ajuda">
+<!ENTITY monitor_title "Monitor">
+<!ENTITY monitor_help "Help">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-<!ENTITY wifi_auth_header "Identificação do cliente">
+<!ENTITY wifi_auth_header "Client Identification">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "O ponto a que está conectando necessita de mais informação para autenticar esta conexão.  Por favor, digitalizar o código QR abaixo via o prompt em seu outro dispositivo.">
+<!ENTITY wifi_auth_scan_request "The endpoint you are connecting to needs more information to authenticate this connection.  Please scan the QR code below via the prompt on your other device.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "Nenhum scanner QR pronto?">
+<!ENTITY wifi_auth_no_scanner "No QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Tem um scanner QR pronto?">
+<!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez de um código QR, copie o valor abaixo para o seu outro dispositivo:">
+<!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
 <!ENTITY wifi_auth_qr_size_note "If the QR code appears too small for the connection to be successfully established, try zooming or enlarging the window.">
 
 <!-- Logs panel -->
-<!ENTITY logs_title "Registros de comandos pré-empacotamento">
+<!ENTITY logs_title "Pre-packaging Command Logs">
 
 <!-- Simulator Options -->
-<!ENTITY simulator_title "Opções do simulador">
+<!ENTITY simulator_title "Simulator Options">
 <!ENTITY simulator_remove "Delete Simulator">
 <!ENTITY simulator_reset "Restore Defaults">
 <!ENTITY simulator_name "Name">
