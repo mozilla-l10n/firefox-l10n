@@ -6,6 +6,7 @@
 
 <!ENTITY tabDisplay.label "Geral">
 <!ENTITY autoHide.label "Exibir a barra de abas apenas se houver mais de uma aba">
+<!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Carregar links em primeiro plano">
 <!ENTITY background.accesskey "s">
 <!ENTITY warnOnClose.label "Alertar ao fechar uma janela com várias abas">
@@ -21,5 +22,8 @@
 
 <!ENTITY openTabs.label "Abrir em nova aba quando">
 
+<!ENTITY openManagers.label "Abra uma nova aba ao invés de uma nova janela">
 <!ENTITY openDataManager.label "Gerenciador de dados">
+<!ENTITY openDataManager.accesskey "D">
 <!ENTITY openAddOnsManager.label "Gerenciador de complementos">
+<!ENTITY openAddOnsManager.accesskey "n">
