@@ -455,8 +455,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "వెతుకుడు అమరికలు">
-<!ENTITY changeSearchSettings.tooltip "వెతుకుడు అమరికలను మార్చండి">
+<!ENTITY changeSearchSettings.button  "శోధనా అమర్పులను మార్చు">
+<!ENTITY changeSearchSettings.tooltip "శోధనా అమర్పులను మార్చు">
 
 <!ENTITY searchInNewTab.label         "కొత్త ట్యాబులో వెతుకు">
 <!ENTITY searchInNewTab.accesskey     "T">
