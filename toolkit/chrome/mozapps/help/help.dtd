@@ -50,7 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Sempre visível">
 <!ENTITY zLevel.accesskey               "e">
 
-<!ENTITY fullZoomReduceBtn.label        "Diminuir zoom">
+<!ENTITY fullZoomReduceBtn.label        "Reduzir">
 <!ENTITY fullZoomReduceBtn.accesskey    "D">
-<!ENTITY fullZoomEnlargeBtn.label       "Aumentar zoom">
+<!ENTITY fullZoomEnlargeBtn.label       "Ampliar">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "u">

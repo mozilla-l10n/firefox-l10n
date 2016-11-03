@@ -49,11 +49,11 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "A">
-<!ENTITY viewMenu_zoomin_label "Aumentar zoom">
+<!ENTITY viewMenu_zoomin_label "Zoom In">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Diminuir zoom">
+<!ENTITY viewMenu_zoomout_label "Zoom Out">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Redefinir zoom">
+<!ENTITY viewMenu_resetzoom_label "Reset Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicativo">
