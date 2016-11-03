@@ -17,7 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.extensionsTitle "Isiɣzaf">
 <!ENTITY aboutSupport.extensionName "Isem">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
+<!ENTITY aboutSupport.extensionEnabled "Yettwarmed">
 <!ENTITY aboutSupport.extensionVersion "Lqem">
 <!ENTITY aboutSupport.extensionId "Asulay">
 
