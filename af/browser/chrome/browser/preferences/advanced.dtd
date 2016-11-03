@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Omvalverslae help &vendorShortName; om probleme op te los en die blaaier meer stabiel en veilig te maak">
 <!ENTITY alwaysSubmitCrashReports.label   "Laat &brandShortName; toe om opgehoopte omvalverslae namens u te stuur">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "h">
 <!ENTITY crashReporterLearnMore.label     "Meer inligting">
 
 <!ENTITY networkTab.label                "Netwerk">
