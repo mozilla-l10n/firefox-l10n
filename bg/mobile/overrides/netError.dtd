@@ -37,7 +37,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li></ul>">
 
 <!ENTITY generic.title "Ооох.">
-<!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
+<!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
