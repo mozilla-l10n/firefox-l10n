@@ -221,4 +221,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Minimizar">
 <!ENTITY minimizeWindow.key                             "M">
 <!ENTITY bringAllToFront.label                          "Trazer todas para frente">
-<!ENTITY zoomWindow.label                               "Ampliar/Reduzir">
+<!ENTITY zoomWindow.label                               "Zoom">

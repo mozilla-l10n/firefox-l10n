@@ -196,7 +196,7 @@
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Trazer Todas para Frente">
-<!ENTITY zoomWindow.label "Ampliar/Reduzir">
+<!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Janela">
 
 <!-- Mail Toolbar -->
