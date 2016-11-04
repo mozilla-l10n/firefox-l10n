@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY openURL.label     "URL కొత్త  ట్యాబ్ నందు తెరువు">
+<!ENTITY openURL.label     "URL కొత్త ట్యాబులో తెరువు">
 <!ENTITY openURL.accesskey "T">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
@@ -89,7 +89,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "లింకు స్థానాన్ని కాపీతీయుము">
+<!ENTITY copyURLCmd.label     "లింకు స్థానాన్ని కాపీచేయి">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
