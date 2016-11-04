@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Sobre rede">
-<!ENTITY aboutNetworking.warning               "Recurso bastante experimental. Não use sem a supervisão de adultos.">
+<!ENTITY aboutNetworking.warning               "Isto é muito experimental. Não usar sem a supervisão de adultos.">
 <!ENTITY aboutNetworking.showNextTime          "Sempre exibir este alerta">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">

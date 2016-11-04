@@ -5,7 +5,7 @@
 <!ENTITY title           "Instalar complemento">
 <!ENTITY intro           "Um outro aplicativo no seu computador deseja modificar 
 o &brandShortName; com este complemento:">
-<!ENTITY warning         "Somente instale extensões e temas de autores que têm a sua confiança.">
+<!ENTITY warning         "Somente instalar extensões e temas de autores que confia.">
 <!ENTITY allow           "Permitir esta instalação">
 <!ENTITY later           "É sempre possível mudar de ideia através do 
 gerenciador de complementos.">
