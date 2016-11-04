@@ -9,7 +9,7 @@
 <!ENTITY aboutDownloads.open                       "Отваряне">
 <!ENTITY aboutDownloads.remove                     "Изтриване">
 <!ENTITY aboutDownloads.removeAll                  "Изтриване на всички">
-<!ENTITY aboutDownloads.pause                      "На пауза">
+<!ENTITY aboutDownloads.pause                      "Пауза">
 <!ENTITY aboutDownloads.resume                     "Продължаване">
 <!ENTITY aboutDownloads.cancel                     "Прекъсване">
 <!ENTITY aboutDownloads.retry                      "Нов опит">
