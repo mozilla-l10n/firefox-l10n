@@ -713,13 +713,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "Tuqqna yinek ɣer usmel-agi mačči tusligt.Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, art.). ">
 <!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqda id-muddeḍ ɣef usebter-agi mačči d aɣelsan u yezmer ad ittwakwer.">
-<!ENTITY identity.description.weakCipher "Tuqqna yinek ɣeṛ usmel-agi teseqdac awgelhen meẓẓiyen u mačči tusligt.">
+<!ENTITY identity.description.weakCipher "Tuqqna yinek ɣeṛ usmel-agi teseqdac awgelhen meẓẓiyen u mačči d tusligt.">
 <!ENTITY identity.description.weakCipher2 "Zemren imdanen nniḍen ad walin talɣut neɣ ad sniflen tiddin n usmel web.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n taẓunyeḥricen ur nelli ara d iɣelsanen deg usebter-agi.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-agi ur nelli ara d iɣelsanen.">
 <!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-agi acku tuqqna yinek mačči d tusligt.">
-<!ENTITY identity.description.passiveLoaded2 "Asmel-agi igber agbur araɣelsan (am tugniwin)">
+<!ENTITY identity.description.passiveLoaded2 "Asmel-agi isεa agbur araɣelsan (am tugniwin)">
 <!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; isewḥel kra n ugbur, mazal yalan kra n ugbur ur nelli d aɣelsan ɣef usebter (am tugniwin).">
-<!ENTITY identity.description.activeLoaded "Asmel-agi igber agbur araɣelsan (am iskripten) u tuqqna yinek ɣur-s mačči d tusligt.">
+<!ENTITY identity.description.activeLoaded "Asmel-agi isεa agbur araɣelsan (am iskripten) u tuqqna yinek ɣur-s mačči d tusligt.">
 <!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-agi (am awalen uffiren, iznan, art.). ">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Rmed ammesten">
