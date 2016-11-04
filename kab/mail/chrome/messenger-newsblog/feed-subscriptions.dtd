@@ -18,7 +18,7 @@
 <!ENTITY feedFolder.label            "Kles imagraden di:">
 <!ENTITY feedFolder.accesskey        "K">
 
-<!ENTITY quickMode.label             "Sken agzul n umagrad deg umḍiq n usali n usebtar web">
+<!ENTITY quickMode.label             "Sken agzul n umagrad deg umḍiq n usali n usebter web">
 <!ENTITY quickMode.accesskey         "S">
 
 <!ENTITY autotagEnable.label         "Rnu tibzimin s wudem awurman seg ismawen n &lt;taggayt&gt; n isuddam">

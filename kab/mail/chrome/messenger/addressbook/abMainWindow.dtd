@@ -28,7 +28,7 @@
 <!ENTITY closeCmd.label                                 "Mdel">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "M">
-<!ENTITY printSetupCmd.label                            "Asbadu n usebtar…">
+<!ENTITY printSetupCmd.label                            "Asbadu n usebter…">
 <!ENTITY printSetupCmd.accesskey                        "b">
 <!ENTITY printPreviewContactCmd.label                   "Siggez taskant n unermis">
 <!ENTITY printPreviewContactCmd.accesskey               "s">

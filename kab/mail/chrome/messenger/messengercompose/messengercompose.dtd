@@ -50,7 +50,7 @@
 <!ENTITY sendLaterCmd.label "Azen ticki">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "Asbadu n usebtar…">
+<!ENTITY printSetupCmd.label "Asbadu n usebter…">
 <!ENTITY printSetupCmd.accesskey "b">
 <!ENTITY printPreviewCmd.label "Wali send asiggez">
 <!ENTITY printPreviewCmd.accesskey "g">
