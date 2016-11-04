@@ -7,9 +7,9 @@
 <!ENTITY  offline.title                   "&brandShortName; กำลังทำงานออฟไลน์">
 <!ENTITY  offline.description             "&brandShortName; ต้องการเชื่อมต่อออนไลน์ เพื่อตรวจสอบว่ามีรายการปรับรุ่นสำหรับส่วนเสริม ที่เข้ากันได้กับรุ่นนี้">
 <!ENTITY  offline.toggleOffline.label     "ออนไลน์เดี๋ยวนี้">
-<!ENTITY  offline.toggleOffline.accesskey "อ">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
-<!ENTITY  mismatch.win.title              "ส่วนเสริมเข้ากันไม่ได้">
+<!ENTITY  mismatch.win.title              "ส่วนเสริมที่เข้ากันไม่ได้">
 <!ENTITY  mismatch.top.label              "ส่วนเสริมเหล่านี้เข้ากันไม่ได้กับ &brandShortName; รุ่นนี้ และถูกปิดการใช้งาน :">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; สามารถตรวจสอบว่ามีส่วนเสริมรุ่นที่เข้ากันได้ ให้ใช้หรือไม่">
 
