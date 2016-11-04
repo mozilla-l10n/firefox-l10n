@@ -4,7 +4,7 @@
 <!ENTITY about.version                "lqem">
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.credits.beforeLink     "Wali tabdart n">
+<!ENTITY about.credits.beforeLink     "Wali tabdart n ">
 <!ENTITY about.credits.linkTitle      "Iwiziwen">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.credits.afterLink      " ɣer usenfar Mozilla.">
@@ -13,18 +13,18 @@
 <!ENTITY about.license.beforeTheLink  "Ɣeṛ ">
 <!ENTITY about.license.linkTitle      "Talɣut n turagt">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   " usenfar agi.">
+<!ENTITY about.license.afterTheLink   " usenfar-a.">
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
 <!ENTITY about.relnotes.beforeTheLink "Ɣeṛ ">
 <!ENTITY about.relnotes.linkTitle     "Iwenniten n lqem">
 <!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.relnotes.afterTheLink  " i lqem agi.">
+<!ENTITY about.relnotes.afterTheLink  " i lqem-a.">
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
 <!ENTITY about.buildconfig.beforeTheLink "Wali ">
 <!ENTITY about.buildconfig.linkTitle     "tawila n usefsu">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.buildconfig.afterTheLink  " iţuseqdec i lqem agi.">
+<!ENTITY about.buildconfig.afterTheLink  " ittuseqdec i lqem-a.">
 
 <!ENTITY about.buildIdentifier        "Asulay n usefsu: ">
