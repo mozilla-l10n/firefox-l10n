@@ -113,7 +113,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; iccaren">
 <!ENTITY new_tab_opened "Iccer amaynut yeldi">
-<!ENTITY new_private_tab_opened "Ulac iccer uslig i d-yettwaldin">
+<!ENTITY new_private_tab_opened "Iccer uslig amaynut yelldi">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -147,14 +147,14 @@
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
 
-<!ENTITY overlay_share_label "Ɣef &brandShortName;">
+<!ENTITY overlay_share_label "Rnu ɣer &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
-<!ENTITY overlay_share_send_other "Azen ɣer yibenk nniḍen">
+<!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -173,7 +173,7 @@
 <!ENTITY pref_category_accessibility "Tuffart">
 <!ENTITY pref_category_accessibility_summary2 "Teɣzi n uḍris, asemɣeṛ/Asemẓi, anekcam n taɣect">
 <!ENTITY pref_category_privacy_short "Tabaḍnit">
-<!ENTITY pref_category_privacy_summary4 "Asfuɣel, anekcum, afran n isefka">
+<!ENTITY pref_category_privacy_summary4 "Asfuɣel, inekcumen,afran n isefka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Ɣef &brandShortName;, isteqsiyen yettwasnen FAQs, tiktiwin">
 <!ENTITY pref_category_datareporting "Afran n isefka">

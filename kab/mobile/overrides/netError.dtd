@@ -70,7 +70,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Senqed ma yella iɣewwaṛen n upṛuksi d imeɣta.</li> <li>Wali ma yella ibenkan ɣur-sen isefka itteddun neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Asebter ur yettuwelleh ara akken iwata">
-<!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekka-d si tukksa n urmad neɣ agami n inagan n tuqqna.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekka-d seg tukksa n urmad neɣ agami n inagan n tuqqna.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur ittuswel ara akken iwata.</li></ul>">
