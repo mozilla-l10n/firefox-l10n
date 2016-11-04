@@ -158,7 +158,7 @@
 <!ENTITY rating2.label                        "Оценка">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Спиране">
+<!ENTITY progress.pause.tooltip               "Пауза">
 <!ENTITY progress.cancel.tooltip              "Прекъсване">
 
 

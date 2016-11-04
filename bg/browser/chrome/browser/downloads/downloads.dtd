@@ -56,10 +56,10 @@
 <!ENTITY cmd.showMac.label                "Показване във Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Нов опит">
-<!ENTITY cmd.goToDownloadPage.label       "Отиване на страницата, откъдето е изтеглено">
+<!ENTITY cmd.goToDownloadPage.label       "Отваряне на целевата страница">
 <!ENTITY cmd.goToDownloadPage.accesskey   "О">
-<!ENTITY cmd.copyDownloadLink.label       "Копиране на връзката за изтегляне">
-<!ENTITY cmd.copyDownloadLink.accesskey   "в">
+<!ENTITY cmd.copyDownloadLink.label       "Копиране на препратка за изтегляне">
+<!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromHistory.label      "Премахване от списъка">
 <!ENTITY cmd.removeFromHistory.accesskey  "П">
 <!ENTITY cmd.clearList2.label             "Изчистване на списъка">
@@ -123,7 +123,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "За сега няма изтеглени файлове.">
+<!ENTITY downloadsPanelEmpty.label        "За момента няма изтеглени файлове.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no

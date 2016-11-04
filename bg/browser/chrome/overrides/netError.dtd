@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Проблем при зареждане на страницата">
+<!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY advanced.label "Допълнително">
@@ -62,7 +62,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Уверете се, че настройките на прокси сървъра са правилни.</li> <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Уверете се, че настройките на прокси сървъра са правилни.</li>
+  <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li>
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Уверете се, че настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали &brandShortName; има право на достъп до Интернет.</li></ul>">

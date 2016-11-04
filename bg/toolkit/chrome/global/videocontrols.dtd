@@ -14,7 +14,7 @@
 <!ENTITY stats.media "Медия">
 <!ENTITY stats.size "Големина">
 <!ENTITY stats.activity "Активност">
-<!ENTITY stats.activityPaused "Пауза">
+<!ENTITY stats.activityPaused "На пауза">
 <!ENTITY stats.activityPlaying "Възпроизвеждане">
 <!ENTITY stats.activityEnded "Край">
 <!ENTITY stats.activitySeeking "(преместване)">
