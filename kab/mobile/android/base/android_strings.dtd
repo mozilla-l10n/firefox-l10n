@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Ansuf">
+<!ENTITY firstrun_panel_title_welcome "Anṣuf yis-k">
 
 <!ENTITY firstrun_urlbar_message "Ansuf ɣeṛ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
@@ -14,7 +14,7 @@
 <!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel i tẓureḍ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, yal tikelt s idis-ik">
-<!ENTITY firstrun_sync_subtext "Semtawi iccaren inek, awalen uffiren, akked ugar yal amḍiq anida i t-teseqdaceḍ.">
+<!ENTITY firstrun_sync_subtext "Semtawi iccaren inek, awalen uffiren, akked ugar di yal amḍiq anida i t-teseqdaceḍ.">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
@@ -36,13 +36,13 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Kečč">
-<!ENTITY firstrun_account_message "Ɣur-k &brandShortName; ɣef yibenk nniḍen?">
+<!ENTITY firstrun_account_message "Ɣur-k &brandShortName; deg yibenk nniḍen?">
 
-<!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem agi aḥerfi n &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem-agi aḥerfi n &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Ticraḍ n isebtaren">
+<!ENTITY  bookmarks_title "Ticraḍ n isebtar">
 <!ENTITY  history_title "Amazray">
 
 <!ENTITY  switch_to_tab "Uɣal ɣer yiccer">
@@ -51,12 +51,12 @@
 <!ENTITY  tab_offline_version "Sken lqem n war tuqqna">
 
 <!ENTITY  crash_reporter_title "Amassaɣay n uɣelluy &brandShortName; ">
-<!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren ɣef usebtar agejdan n &brandShortName; ticki t-senkreṭ.">
-<!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy agi akken ad yefru wugur">
-<!ENTITY  crash_include_url2 "Seddu tansa n usebtar anda lliɣ">
+<!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren deg usebtar agejdan n &brandShortName; ticki t-senkreṭ.">
+<!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy-agi akken ad yefru wugur">
+<!ENTITY  crash_include_url2 "Seddu tansa n usebter anda lliɣ">
 <!ENTITY  crash_sorry "Sureft-aɣ">
-<!ENTITY  crash_comment "Rnu awennit (Iwenniten aten-walin akk yemdanen)">
-<!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken a yid-inermes ɣef uneqqis agi">
+<!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
+<!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
 <!ENTITY  crash_email "Imayl inek">
 <!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ assaɣ n uɣelluy?">
 <!ENTITY  sending_crash_report "Tuzzna n ussaɣ n uɣelluy\u2026">
@@ -65,15 +65,15 @@
 
 <!ENTITY url_bar_default_text2 "Nadi neɣ sekcem tansa">
 
-<!ENTITY bookmark "Creḍ asebtar agi">
-<!ENTITY bookmark_remove "Kkes tacreṭ n usebtar">
-<!ENTITY bookmark_added "Tacreṭ n usebtar terna">
+<!ENTITY bookmark "Creḍ asebter-agi">
+<!ENTITY bookmark_remove "Kkes tacreṭ n usebter">
+<!ENTITY bookmark_added "Tacreṭ n usebter terna">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Yettwacreḍ yakan">
-<!ENTITY bookmark_removed "Tacreṭ n usebtar tettwakkes">
-<!ENTITY bookmark_updated "Tacreṭ n usebtar tettwaleqqem">
+<!ENTITY bookmark_removed "Tacreṭ n usebter tettwakkes">
+<!ENTITY bookmark_updated "Tacreṭ n usebter tettwaleqqem">
 <!ENTITY bookmark_options "Iɣewwaṛen">
 <!ENTITY screenshot_added_to_bookmarks "Tuṭṭfa n ugdil yettwarna ɣer tecraḍ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -152,7 +152,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebtar agi">
+<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter-agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
