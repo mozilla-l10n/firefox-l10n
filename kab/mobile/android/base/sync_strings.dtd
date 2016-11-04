@@ -29,13 +29,13 @@
 <!ENTITY sync.default.client.name "&formatS1; ɣef &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Umuɣ n tecraḍ n isebtaren">
+<!ENTITY bookmarks.folder.menu.label "Umuɣ n ticraḍ n isebtar">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tibzimin">
 <!ENTITY bookmarks.folder.toolbar.label "Afeggag udmawan">
 <!ENTITY bookmarks.folder.other.label "Ticrad nniḍen">
 <!ENTITY bookmarks.folder.desktop.label "Ticraḍ n ufellaru">
-<!ENTITY bookmarks.folder.mobile.label "Ticraḍ n usebtar n tiliɣṛi">
+<!ENTITY bookmarks.folder.mobile.label "Ticraḍ n usebter n tiliɣṛi">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ttwasentan">
 <!-- Firefox Account strings. -->
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg iɣewwaṛen Android &gt; Aseqdec n isefka.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg umuɣ iɣewwaṛen Android &gt; Imiḍanen.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Senned akken ad tkecmeḍ ɛer umiḍan inek Firefox amaynut.">
-<!ENTITY fxaccount_status_bookmarks "Ticraḍ n usebtar">
+<!ENTITY fxaccount_status_bookmarks "Ticraḍ n isebtar">
 <!ENTITY fxaccount_status_history "Amazray">
 <!ENTITY fxaccount_status_passwords2 "Inekcam">
 <!ENTITY fxaccount_status_tabs "Ldi iccaren">
