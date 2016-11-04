@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name "&formatS1; ɣef &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Umuɣ n tecraḍ n isebtar">
+<!ENTITY bookmarks.folder.menu.label "Umuɣ n tecraḍ n isebtaren">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tibzimin">
 <!ENTITY bookmarks.folder.toolbar.label "Afeggag udmawan">

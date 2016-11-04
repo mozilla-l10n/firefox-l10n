@@ -8,7 +8,7 @@
 <!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
 <!ENTITY firstrun_bookmarks_title "Amazray">
 <!ENTITY firstrun_bookmarks_message "Ismenyifen-inek; sdat akked tlemmast">
-<!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtar akked umazray-inek ticki tettnadiḍ.">
+<!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtaren akked umazray-inek ticki tettnadiḍ.">
 <!ENTITY firstrun_data_title "Isefka">
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
 <!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel i tẓureḍ.">
@@ -42,7 +42,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Ticraḍ n isebtar">
+<!ENTITY  bookmarks_title "Ticraḍ n isebtaren">
 <!ENTITY  history_title "Amazray">
 
 <!ENTITY  switch_to_tab "Uɣal ɣer yiccer">
@@ -53,7 +53,7 @@
 <!ENTITY  crash_reporter_title "Amassaɣay n uɣelluy &brandShortName; ">
 <!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren ɣef usebtar agejdan n &brandShortName; ticki t-senkreṭ.">
 <!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy agi akken ad yefru wugur">
-<!ENTITY  crash_include_url2 "Seddu tansa n usebter anda lliɣ">
+<!ENTITY  crash_include_url2 "Seddu tansa n usebtar anda lliɣ">
 <!ENTITY  crash_sorry "Sureft-aɣ">
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten aten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken a yid-inermes ɣef uneqqis agi">
@@ -65,15 +65,15 @@
 
 <!ENTITY url_bar_default_text2 "Nadi neɣ sekcem tansa">
 
-<!ENTITY bookmark "Creḍ asebter agi">
-<!ENTITY bookmark_remove "Kkes tacreṭ n usebter">
-<!ENTITY bookmark_added "Tacreṭ n usebter terna">
+<!ENTITY bookmark "Creḍ asebtar agi">
+<!ENTITY bookmark_remove "Kkes tacreṭ n usebtar">
+<!ENTITY bookmark_added "Tacreṭ n usebtar terna">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Yettwacreḍ yakan">
-<!ENTITY bookmark_removed "Tacreṭ n usebter tettwakkes">
-<!ENTITY bookmark_updated "Tacreṭ n usebter tettwaleqqem">
+<!ENTITY bookmark_removed "Tacreṭ n usebtar tettwakkes">
+<!ENTITY bookmark_updated "Tacreṭ n usebtar tettwaleqqem">
 <!ENTITY bookmark_options "Iɣewwaṛen">
 <!ENTITY screenshot_added_to_bookmarks "Tuṭṭfa n ugdil yettwarna ɣer tecraḍ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -100,7 +100,7 @@
 
 <!ENTITY search "Nadi">
 <!ENTITY reload "Smiren">
-<!ENTITY forward "Asebter d-iteddun">
+<!ENTITY forward "Asebtar d-itteddun">
 <!ENTITY menu "Umuɣ">
 <!ENTITY back "Uɣal ɣer deffir">
 <!ENTITY stop "Rken">
@@ -152,7 +152,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter agi">
+<!ENTITY overlay_share_bookmark_btn_label "Creḍ asebtar agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -206,18 +206,18 @@
 <!ENTITY pref_manage_logins "Sefrek inekcam">
 
 <!ENTITY pref_category_home "Agejdan">
-<!ENTITY pref_category_home_summary "Sagen asebter inek agejdan">
+<!ENTITY pref_category_home_summary "Sagen asebtar inek agejdan">
 <!ENTITY pref_category_home_panels "Igalisen">
 <!ENTITY pref_category_home_add_ons "Izegrar">
 <!ENTITY pref_home_updates2 "Ileqman n ugbur">
 <!ENTITY pref_home_updates_enabled "Irmed">
 <!ENTITY pref_home_updates_wifi "S Wi-Fi kan">
-<!ENTITY pref_category_home_homepage "Asebter agejdan">
-<!ENTITY home_homepage_title "Sbadu asebter agejdan">
+<!ENTITY pref_category_home_homepage "Asebtar agejdan">
+<!ENTITY home_homepage_title "Sbadu asebtar agejdan">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Asebter agejdan &brandShortName;">
+<!ENTITY home_homepage_radio_default "Asebtar agejdan &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -258,11 +258,11 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Iwḥel">
 
 <!ENTITY pref_show_web_fonts "Sken tisefsiyin web">
-<!ENTITY pref_show_web_fonts_summary2 "Sider tisefsiyin tinmeggagin ticki yettali-d usebter">
+<!ENTITY pref_show_web_fonts_summary2 "Sider tisefsiyin tinmeggagin ticki yettali-d usebtar">
 
 <!ENTITY pref_tracking_protection_title2 "Ammesten mgal asfuɣel">
 <!ENTITY pref_tracking_protection_summary3 "yettwarmed deg tunigin tusligt">
-<!ENTITY pref_donottrack_title "UR sfuɣul ara">
+<!ENTITY pref_donottrack_title "Ur sfuɣul ara">
 <!ENTITY pref_donottrack_summary "&brandShortName; ad yini i yismal d akken ur tebɣiḍ ara ak-sfuɣlen">
 
 <!ENTITY pref_tracking_protection_enabled "Irmed">
@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Asuddem n warmud">
-<!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebter agejdan atrar sifsusen abrid akken ad d-tafeḍ ayen tebɣiḍ deg &brandShortName;">
+<!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebtar agejdan atrar sifsusen abrid akken ad d-tafeḍ ayen tebɣiḍ deg &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Tura s ummesten mgal asfuɣel">
 <!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yettili ara wugur yid-k.">
@@ -368,12 +368,12 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Uccen ačinawi arurad ad ifaṛes tagnitt seg ayen i tettraǧuḍ s zreb, s ugar n tfullaẓt akked tɣellist. Nekkni d tarbaɛt ur nmahal ara ɣer idrimen, d illiliyen akke ad d-dnesnulfu s yisem nwen s war cedda. Ayagi yemmal-d tarmirt ifazen i kečč akked uzekka ifazen i Web.">
+<!ENTITY pref_font_size_preview_text "Uccen ačinawi arurad ad ifaṛes tagnitt seg ayen i tettraǧuḍ s zreb, s ugar n tfullaẓt akked tɣellist. Nekkni d tarbaɛt ur nmahal ara ɣer idrimen, d illiliyen akken ad d-dnesnulfu s yisem nwen s war cedda. Ay-agi yemmal-d tarmirt ifazen i kečč akked uzekka ifazen i Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
 <!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣeṛ/asemẓi">
-<!ENTITY pref_zoom_force_enabled_summary "Ɛeddi iɣewwaṛen akken ad tezmireḍ ad tesmeɣreḍ neɣ ad tsemẓiyeḍ isebtar">
+<!ENTITY pref_zoom_force_enabled_summary "Ɛeddi iɣewwaṛen akken ad tezmireḍ ad tesmeɣreḍ neɣ ad tsemẓiyeḍ isebtaren">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
 <!ENTITY pref_voice_input_summary2 "Sireg asuter s taɣect deg ufeggag n tansa URL">
 <!ENTITY pref_qrcode_enabled "Amerɣri n tengalt QR">
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Seqdec awal uffir agejdan">
 <!ENTITY pref_sync2 "Qqen">
-<!ENTITY pref_sync_summary2 "Semtawi iccaren inek, ticraḍ n isebtar, inekcam, amazray">
+<!ENTITY pref_sync_summary2 "Semtawi iccaren inek, ticraḍ n isebtaren, inekcam, amazray">
 <!ENTITY pref_search_suggestions "Sken isumren n unadi">
 <!ENTITY pref_history_search_suggestions "Sken amazray n unadi">
 <!ENTITY pref_import_options "Kter iɣewwaṛen">
@@ -432,7 +432,7 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "Amassaɣay n uɣelluy &brandShortName; ">
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig inek">
-<!ENTITY datareporting_abouthr_title "Wali aneqqis n tezmert-iw">
+<!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
 <!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig inek.">
@@ -464,9 +464,9 @@ size. -->
 <!ENTITY share_image_failed "Ur izmir ara ad yebḍu tugna agi">
 <!ENTITY save_as_pdf "Kles d PDF">
 <!ENTITY print "Siggez">
-<!ENTITY find_in_page "Nadi deg usebter">
+<!ENTITY find_in_page "Nadi deg usebtar">
 <!ENTITY desktop_mode "Suter asmel n ufellaru">
-<!ENTITY page "Asebter">
+<!ENTITY page "Asebtar">
 <!ENTITY tools "Ifecka">
 <!ENTITY new_tab "Iccer amaynut">
 <!ENTITY new_private_tab "Iccer uslig amaynut">
@@ -480,7 +480,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Nadi deg usebter">
+<!ENTITY find_text "Nadi deg usebtar">
 <!ENTITY find_prev "Ɣeṛ deffir">
 <!ENTITY find_next "Ɣer zdat">
 <!ENTITY find_close "Mdel">
@@ -501,7 +501,7 @@ size. -->
 <!ENTITY contextmenu_paste "Senteḍ">
 <!ENTITY contextmenu_copyurl "Nɣel tansa">
 <!ENTITY contextmenu_edit_bookmark "Snifel">
-<!ENTITY contextmenu_subscribe "Jerred ɣer usebter">
+<!ENTITY contextmenu_subscribe "Jerred ɣer usebtar">
 <!ENTITY contextmenu_site_settings "Ẓreg iɣewwaṛen n usmel">
 <!ENTITY contextmenu_top_sites_edit "Snifel">
 <!ENTITY contextmenu_top_sites_pin "Sentu asmel">
@@ -531,7 +531,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Tunigin deg ugdil aččuran">
-<!ENTITY pref_scroll_title_bar_summary2 "Ffer afegga n ifecka n &brandShortName; deg udrerem n usebter d akesser ">
+<!ENTITY pref_scroll_title_bar_summary2 "Ffer afeggag n ifecka n &brandShortName; deg udrerem n usebtar d akessar">
 
 <!ENTITY pref_tab_queue_title3 "Adras n ticcer">
 <!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
@@ -541,7 +541,7 @@ size. -->
 
 <!ENTITY page_removed "Asbter yettwakkes">
 
-<!ENTITY bookmark_edit_title "Ẓreg tacreṭ n usebter">
+<!ENTITY bookmark_edit_title "Ẓreg tacreṭ n usebtar">
 <!ENTITY bookmark_edit_name "Isem">
 <!ENTITY bookmark_edit_location "Tansa:">
 <!ENTITY bookmark_edit_keyword "Awal n tsaruţ">
@@ -577,7 +577,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "Asebter agejdan &brandShortName;">
+<!ENTITY home_title "Asebtar agejdan &brandShortName;">
 <!ENTITY home_history_title "Amazray">
 <!ENTITY home_synced_devices_smartfolder "Ibenkan yemtawin">
 <!ENTITY home_synced_devices_number "&formatD; n ibenkan">
@@ -619,7 +619,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Sken ibenkan yettwafernen">
 
 <!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer inu?">
-<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek seg ibenkan nniḍen ɣer ugalis ɣef usebter agejdan inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
+<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek seg ibenkan nniḍen ɣer ugalis ɣef usebtar agejdan inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
 <!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis inu amaynut.">
 
 <!ENTITY pin_site_dialog_hint "Sekcem awal n tsarut n unadi">
@@ -644,12 +644,12 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Tuqqna taɣelsant">
 <!ENTITY identity_connection_insecure "Tuqqna taraɣelsant">
-<!ENTITY identity_connection_chromeui "Wagi d asebter aɣelsan n &brandShortName; ">
+<!ENTITY identity_connection_chromeui "Wa d asebtar aɣelsan n &brandShortName; ">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; isewḥel agbur araɣelsan ɣef usebter agi.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; isewḥel kra n ugbur araɣelsan ɣef usebter agi.">
-<!ENTITY mixed_content_display_loaded1 "Kra n yeḥricen ɣef usebter agi mačči d iɣelsanen (am tugniwin).">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; isewḥel agbur araɣelsan ɣef usebtar agi.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; isewḥel kra n ugbur araɣelsan ɣef usebtar agi.">
+<!ENTITY mixed_content_display_loaded1 "Kra n yeḥricen n usebtar agi mačči d iɣelsanen (am tugniwin).">
 <!ENTITY mixed_content_protection_disabled1 "Tekkseḍ armad n ummesten mgal agbur araɣelsan.">
 <!-- Tracking content notifications in site identity popup -->
 
@@ -657,7 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "Irmed">
 <!ENTITY doorhanger_tracking_state_disabled "Arurmid">
 <!ENTITY doorhanger_tracking_message_enabled1 "Aɛraḍ n usfuɣel deg tunigin inek yettwasewḥel.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Asebter agi yegber iferdisen i izemren ad sfuɣlen tunigin inek.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Asebtar agi yegber iferdisen i izemren ad sfuɣlen tunigin inek.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Issin ugar">
@@ -783,9 +783,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Izegrar imernan">
 <!ENTITY restrictable_feature_addons_installation_description "Rnu timeẓliyin neq timahilin ɣer Firefox: Rnu izegrar i yezemren ad kksen armad n kra tsuraf.">
 <!ENTITY restrictable_feature_private_browsing "Tunigin tusligt">
-<!ENTITY restrictable_feature_private_browsing_description "Eǧǧ tawawacult-ik ad tesnirem s war asekles n telɣut ɣef ismal akked isebtar i walan.">
+<!ENTITY restrictable_feature_private_browsing_description "Eǧǧ tawacult-ik ad tesnirem s war asekles n telɣut ɣef ismal akked isebtaren i walan.">
 <!ENTITY restrictable_feature_clear_history "Sfeḍ amazray">
-<!ENTITY restrictable_feature_clear_history_description "Eǧǧ tawawacult-ik ad kksen talɣut ɣef ismal akked isebtar i walan.">
+<!ENTITY restrictable_feature_clear_history_description "Eǧǧ tawacult-ik ad kksen talɣut ɣef ismal akked isebtaren i walan.">
 <!ENTITY restrictable_feature_advanced_settings "Iɣewwaṛen leqqayen">
 <!ENTITY restrictable_feature_advanced_settings_description "Ayagi yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen deg twacult-ik.">
 <!ENTITY restrictable_feature_camera_microphone "Takamirat &amp; usawaḍ">
