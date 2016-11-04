@@ -40,8 +40,8 @@
 <!ENTITY enableTelemetryData.accesskey   "Т">
 <!ENTITY telemetryLearnMore.label        "Докладніше">
 
-<!ENTITY crashReporterDesc2.label         "Звіти про падіння &vendorShortName; виправляють проблеми і роблять браузер більш стабільним та безпечним">
-<!ENTITY alwaysSubmitCrashReports.label   "Дозволити &brandShortName; надсилати зібрані звіти про падіння">
+<!ENTITY crashReporterDesc2.label         "Звіти про збої допомагають &vendorShortName; виправляти проблеми і роблять браузер стабільнішим та безпечнішим">
+<!ENTITY alwaysSubmitCrashReports.label   "Дозволити &brandShortName; надсилати зібрані звіти про збої">
 <!ENTITY alwaysSubmitCrashReports.accesskey "з">
 <!ENTITY crashReporterLearnMore.label     "Докладніше">
 

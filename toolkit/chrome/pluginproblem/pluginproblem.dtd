@@ -6,7 +6,7 @@
      is not supported on some devices. Include a trailing space as needed. -->
 <!ENTITY unsupportedPlatform.pre                             "Нам дуже шкода, але &brandShortName; не може відтворювати Flash на цьому пристрої. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Докладніше…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
@@ -28,10 +28,10 @@
 <!ENTITY reloadPlugin.middle                                 "Перезавантажити сторінку">
 <!ENTITY reloadPlugin.post                                   " щоб спробувати знову.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Надіслати звіт про падіння">
+<!ENTITY report.please                                       "Надіслати звіт про збій">
 <!ENTITY report.submitting                                   "Надсилання звіту…">
-<!ENTITY report.submitted                                    "Звіт про падіння надіслано.">
-<!ENTITY report.disabled                                     "Звіти про падіння вимкнено.">
+<!ENTITY report.submitted                                    "Звіт про збій надіслано.">
+<!ENTITY report.disabled                                     "Звіти про збої вимкнено.">
 <!ENTITY report.failed                                       "Надсилання не вдалося.">
 <!ENTITY report.unavailable                                  "Немає доступного звіту.">
 <!ENTITY report.comment                                      "Додати коментар (коментарі бачать всі)">
