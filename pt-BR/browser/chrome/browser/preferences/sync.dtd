@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Você não está conectado.">
-<!ENTITY signIn.label                "Identificar-se">
+<!ENTITY signIn.label                "Entrar">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY verifiedManage.label        "Gerenciar Conta">
 <!ENTITY disconnect.label            "Desconectar…">
@@ -85,7 +85,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Leve a sua web com você">
 <!ENTITY signedOut.description        "Sincronize os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
-<!ENTITY signedOut.accountBox.title   "Conecte-se com uma &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.title   "Conectar com uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
 <!ENTITY signedOut.accountBox.signin  "Entrar">
 
@@ -96,7 +96,7 @@ both, to better adapt this sentence to their language.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            "Baixe o Firefox para ">
+<!ENTITY mobilePromo3.start            "Baixar o Firefox para ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
