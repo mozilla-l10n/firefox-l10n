@@ -184,7 +184,7 @@
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Rmed asniɣmes yezgan">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ma tremdeḍ aɣewwar agi, tadiwent web d asekrak n uẓeṭṭa ur isfaḍ ara inekcam yal tikelt ad tinigeḍ ɣeṛ usebtar amaynut">
+<!ENTITY options.enablePersistentLogs.tooltip  "Ma tremdeḍ aɣewwar-agi, tadiwent web d asekrak n uẓeṭṭa ur isfaḍ ara inekcam yal tikelt ad tinigeḍ ɣeṛ usebter amaynut">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

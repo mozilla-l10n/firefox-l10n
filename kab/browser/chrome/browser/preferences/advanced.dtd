@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Tuffart">
 
-<!ENTITY useCursorNavigation.label       "Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebtar">
+<!ENTITY useCursorNavigation.label       "Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebter">
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchStartTyping.label         "Nadi aḍris ticki tebda tira">
 <!ENTITY searchStartTyping.accesskey     "N">

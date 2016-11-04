@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "Suqel">
 <!ENTITY translation.notNow.button              "Ticki">
 
-<!ENTITY translation.translatingContent.label   "Asuqel n ugbut n usebtar…">
+<!ENTITY translation.translatingContent.label   "Asuqel n ugbut n isebtar…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -41,7 +41,7 @@
 <!ENTITY translation.showOriginal.button        "Sken asebter aneẓli">
 <!ENTITY translation.showTranslation.button     "Sken tasuqilt">
 
-<!ENTITY translation.errorTranslating.label     "Tuccḍa di tsuqilt n usebtar agi.">
+<!ENTITY translation.errorTranslating.label     "Tuccḍa di tsuqilt n usebter-agi.">
 <!ENTITY translation.tryAgain.button            "Ɛreḍ i tikelt nniḍen">
 
 <!ENTITY translation.serviceUnavailable.label   "Ameẓlu n tsulqilt ulac-itt. Ɛreḍ ticki.">

@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Ugur deg usali n usebtar">
+<!ENTITY loadError.label "Ugur deg usali n usebter">
 <!ENTITY retry.label "Ɛreḍ i tikelt nniḍen">
 <!ENTITY returnToPreviousPage.label "Uɣal ɣeṛ deffir">
 <!ENTITY advanced.label "Iɣewwaṛen leqqayen">
@@ -78,10 +78,10 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel nsen.  Iwakken ad ttummesten telɣut inek si tkwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel agi web.">
 
-<!ENTITY sharedLongDesc "<ul><li>Asmel agi ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-saliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li><li>Ma yella aselkim inek neɣ aẓeṭṭa inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
+<!ENTITY sharedLongDesc "<ul><li>Asmel-agi ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-saliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li><li>Ma yella aselkim inek neɣ aẓeṭṭa inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebtar agi acku tasertit n tɣellist n ugbur ur ţ-iǧǧi ara.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">

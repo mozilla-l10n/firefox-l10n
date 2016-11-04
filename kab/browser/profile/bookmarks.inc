@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Ticcraḍ n usebtar
+#define bookmarks_title Ticcraḍ n isebtar
 
 
-#define bookmarks_heading Ticṛaḍ n usebtar
+#define bookmarks_heading Ticṛaḍ n isebtar
 
 
 #define bookmarks_toolbarfolder Afeggag u&dmawan
 
 
-#define bookmarks_toolbarfolder_description Rnu ticraḍ n isebtaren ɣef ukaram agi i wakken a ten-twaliḍ ɣef ufeggag udmawan
+#define bookmarks_toolbarfolder_description Rnu ticraḍ n isebtar ukaram-agi i wakken a ten-twaliḍ ɣef ufeggag udmawan
 
 
 # LOCALIZATION NOTE (getting_started):

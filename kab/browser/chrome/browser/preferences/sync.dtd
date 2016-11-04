@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Swel &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ak yeǧǧ ad tkecmeḍ ɣer umazray inek, ticraḍ n isebtar inek, awalen-ik uffiren, iccaren yeldin si yal aselkim ed wallal.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ad k-yeǧǧ ad tkecmeḍ ɣer umazray inek, ticraḍ n isebtar inek, awalen-ik uffiren, iccaren yeldin si yal aselkim d yal ibenk.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Senqed tansa yinek imayl">
 <!ENTITY forget.label                "Ttu tansa agi imayl">
 
-<!ENTITY welcome.description "Kcem ɣer iccaren ik, ticraḍ n isebtar, awalen uffiren ed wayen yugaren aya si yal allal i tseqdaceḍ &brandShortName;.">
+<!ENTITY welcome.description "Kcem ɣer iccaren-ik, ticraḍ n isebtar, awalen uffiren d wayen yugaren aya si yal ibenk i tseqdaceḍ &brandShortName;.">
 <!ENTITY welcome.signIn.label "Kcem">
 <!ENTITY welcome.createAccount.label "Rnu amiḍan">
 

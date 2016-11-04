@@ -83,7 +83,7 @@
 <!ENTITY syncDeviceName.accesskey   "l">
 
 <!ENTITY syncMy.label               "Mtawi">
-<!ENTITY engine.bookmarks.label     "Ticraḍ n usebtar">
+<!ENTITY engine.bookmarks.label     "Ticraḍ n isebtar">
 <!ENTITY engine.bookmarks.accesskey "T">
 <!ENTITY engine.tabs.label          "Iccaren">
 <!ENTITY engine.tabs.accesskey      "I">
