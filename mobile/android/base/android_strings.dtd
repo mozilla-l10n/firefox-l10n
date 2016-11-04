@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Изход от сесията на гост">
 <!ENTITY guest_session_dialog_continue "Продължаване">
 <!ENTITY guest_session_dialog_cancel "Отказ">
-<!ENTITY new_guest_session_title "&brandShortName; ще рестартира сега">
+<!ENTITY new_guest_session_title "&brandShortName; сега ще рестартира">
 <!ENTITY new_guest_session_text2 "Човекът, който го използва няма достъп до вашите данни за сърфиране като запазени регистрации, история или отметки.\n\nКогато гостът приключи неговите данни ще бъдат заличени, а вашата сесия – възстановена.">
 <!ENTITY guest_browsing_notification_title "Разглеждането като гост е включено">
 <!ENTITY guest_browsing_notification_text "Докоснете за изход">
