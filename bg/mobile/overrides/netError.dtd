@@ -86,7 +86,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверете настройките на проксито, за да уверите, че са правилни.</li> <li>Свържете се с мрежовия ви администратор, за да се уверите, че прокси сървъра работи.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Уверете се, че настройките на прокси сървъра са правилни.</li>
+  <li>Свържете се с мрежовият си администратор, за да се уверите, че прокси сървъра работи.</li>
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
