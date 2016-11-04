@@ -4,7 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "Fontes">
 
-<!ENTITY  language.label                          "Fontes padrão para:">
+<!ENTITY  language.label                          "Fontes para:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Tamanho:">
