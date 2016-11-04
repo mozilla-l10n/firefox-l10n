@@ -4,9 +4,9 @@
 
 <!ENTITY print.label          "Siggez…">
 <!ENTITY print.accesskey      "g">
-<!ENTITY pageSetup.label      "Tarusi n usebtar…">
+<!ENTITY pageSetup.label      "Tarusi n usebter…">
 <!ENTITY pageSetup.accesskey  "a">
-<!ENTITY page.label           "Asebtar:">
+<!ENTITY page.label           "Asebter:">
 <!ENTITY page.accesskey       "s">
 <!ENTITY of.label             "ɣef">
 <!ENTITY scale.label          "Sellum:">
@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Sagen…">
-<!ENTITY ShrinkToFit.label    "Serwes ɣer usebtar">
+<!ENTITY ShrinkToFit.label    "Serwes ɣer usebter">
 <!ENTITY customPrompt.title   "Sellum yugnen…">
 <!ENTITY simplifyPage.label   "Sefrs asebter">
 <!ENTITY simplifyPage.enabled.tooltip  "Snifek taneɣruft i tɣuri fessusen">

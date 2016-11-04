@@ -4,7 +4,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printSetup.title    "Tarusi n usebtar">
+<!ENTITY printSetup.title    "Tarusi n usebter">
 
 <!ENTITY basic.tab           "Amasal d iɣewwaṛen">
 
@@ -20,15 +20,15 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Serwes ɣer teɣzi n usebtar">
+<!ENTITY shrinkToFit.label   "Serwes ɣer teɣzi n usebter">
 <!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "Iɣewwaṛen">
 
-<!ENTITY printBG.label       "Siggez agilal n usebtar (initen d tugniwin)">
+<!ENTITY printBG.label       "Siggez agilal n usebter (initen d tugniwin)">
 <!ENTITY printBG.accesskey   "g">
 
-<!ENTITY advanced.tab        "Timiwa, iqeṛṛa d iḍarren n usebtar">
+<!ENTITY advanced.tab        "Timiwa, iqeṛṛa d iḍarren n usebter">
 
 <!ENTITY marginGroup.label   "Timiwa (#1)">
 <!ENTITY marginUnits.inches  "idebbuzen">

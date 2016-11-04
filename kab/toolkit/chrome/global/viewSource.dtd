@@ -17,7 +17,7 @@
 <!ENTITY savePageCmd.label "Sekles asebter daw…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tarusi n isebtaren…">
+<!ENTITY pageSetupCmd.label "Tarusi n isebtar…">
 <!ENTITY pageSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Taskant send asiggez">
 <!ENTITY printPreviewCmd.accesskey "s">
@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Amagnu">
 <!ENTITY menu_textReset.accesskey "A">
 
-<!ENTITY findOnCmd.label     "Nadi deg usebtar…">
+<!ENTITY findOnCmd.label     "Nadi deg usebter…">
 <!ENTITY findOnCmd.accesskey "N">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nadi ɣer zdat">

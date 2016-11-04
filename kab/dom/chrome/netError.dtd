@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Tuccḍa deg usali n usebtar">
+<!ENTITY loadError.label "Tuccḍa deg usali n usebter">
 <!ENTITY retry.label "Ɛreḍ i tikelt nniḍen">
 <!-- Specific error messages -->
 
@@ -74,7 +74,7 @@
 <!ENTITY securityOverride.warningContent "<p>Ur issefk ara aţernuḍ tasureft ma tseqdaceḍ tuqqna ɣer Internet anda ur teggiḍ ara taflest neɣ anda ur tuɣeḍ ara tanumi ţawḍenk-id wulɣuten i weqeddac agi.</p><p>Ma tebɣiḍ aţernuḍ tasureft i wesmel agi, tzemreḍ aţ-ternud deg iɣewwaṛen leqqayen n uwgelhen.</p>">
 
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
-<!ENTITY cspBlocked.longDesc "<p>Iminig isewḥel asali n usebtar agi acku tasertit n tɣellist n ugbur ur ţ-iǧǧi ara.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Iminig isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">

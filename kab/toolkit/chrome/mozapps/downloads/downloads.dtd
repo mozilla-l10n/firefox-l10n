@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "d">
 <!ENTITY cmd.retry.label                  "Ɛreḍ tikelt nniḍen">
 <!ENTITY cmd.retry.accesskey              "r">
-<!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebtar n uzdam">
+<!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebter n uzdam">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">
 <!ENTITY cmd.copyDownloadLink.label       "Nɣel tansa taɣbalut n uzdam">
 <!ENTITY cmd.copyDownloadLink.accesskey   "n">

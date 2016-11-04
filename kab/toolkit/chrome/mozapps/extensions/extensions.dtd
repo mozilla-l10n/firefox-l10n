@@ -20,8 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "S">
 <!ENTITY toolsMenu.tooltip                    "Ifecka i yizegrar imaṛṛa">
 
-<!ENTITY cmd.back.tooltip                     "Uγal s yiwen n usebtar">
-<!ENTITY cmd.forward.tooltip                  "Aẓ s yiwen usebtar">
+<!ENTITY cmd.back.tooltip                     "Uγal s yiwen n usebter">
+<!ENTITY cmd.forward.tooltip                  "Aẓ s yiwen usebter">
 
 <!ENTITY showUnsignedExtensions.button.label  "Kra n iseɣzaf ur ţwasenqed ara">
 <!ENTITY showAllExtensions.button.label       "Sken akk iseɣzaf">

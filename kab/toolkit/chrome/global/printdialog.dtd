@@ -19,10 +19,10 @@
 <!ENTITY printerInput.label "Isem n tsaggazt:">
 <!ENTITY printerInput.accesskey "s">
 
-<!ENTITY printrangeGroup.label "Isebtaren">
+<!ENTITY printrangeGroup.label "Isebtar">
 <!ENTITY allpagesRadio.label "Akk">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "Isebtaren">
+<!ENTITY rangeRadio.label  "Isebtar">
 <!ENTITY rangeRadio.accesskey  "I">
 <!ENTITY frompageInput.label  "si">
 <!ENTITY frompageInput.accesskey  "i">
