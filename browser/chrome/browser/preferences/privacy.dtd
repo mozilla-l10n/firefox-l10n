@@ -79,3 +79,5 @@
 <!ENTITY browserContainersLearnMore.label "Ulteriori informazioni">
 <!ENTITY browserContainersEnabled.label "Attiva schede contenitore">
 <!ENTITY browserContainersEnabled.accesskey "h">
+<!ENTITY browserContainersSettings.label "Impostazioni…">
+<!ENTITY browserContainersSettings.accesskey "I">
