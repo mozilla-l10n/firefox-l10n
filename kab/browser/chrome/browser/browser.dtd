@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Ldi afaylu…">
 <!ENTITY openFileCmd.accesskey "L">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tarusi n isebtaren…">
+<!ENTITY printSetupCmd.label "Tarusi n isebtar…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Awali send asiggez">
 <!ENTITY printPreviewCmd.accesskey "s">
@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
 <!ENTITY identity.connectionFile "Asebter agi yettwakles deg uselkim inek.">
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel agi, iselkem sɣuṛ:">
-<!ENTITY identity.connectionInternal "Wa d asebtar &brandShortName; aɣelsan.">
+<!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel agi, ad ttwakren.">
 <!-- Strings for connection state warnings. -->
 

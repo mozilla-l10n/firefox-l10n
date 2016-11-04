@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Suddes">
 <!ENTITY organize.accesskey    "S">
-<!ENTITY organize.tooltip      "Suddes ticraḍ n usebtar">
+<!ENTITY organize.tooltip      "Suddes ticraḍ n isebtar">
 
 <!ENTITY file.close.label               "Mdel">
 <!ENTITY file.close.accesskey           "M">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Amizzwer amnusruy Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Kter tivcraḍ n isebtar s umasal HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Kter ticraḍ n isebtar s umasal HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
-<!ENTITY exportBookmarksToHTML.label       "Sifeḍ ticrad n usebtar s umasal HTML…:">
+<!ENTITY exportBookmarksToHTML.label       "Sifeḍ ticrad n isebtar s umasal HTML…:">
 <!ENTITY exportBookmarksToHTML.accesskey   "S">
 <!ENTITY importOtherBrowser.label          "Kter isefka seg iminig nniḍen">
 <!ENTITY importOtherBrowser.accesskey      "i">
@@ -96,7 +96,7 @@
 
 <!ENTITY maintenance.label      "Kter u ḥrez">
 <!ENTITY maintenance.accesskey  "K">
-<!ENTITY maintenance.tooltip    "Kter u ḥrez ticraḍ-ik n usebtar">
+<!ENTITY maintenance.tooltip    "Kter u ḥrez ticraḍ-ik n isebtar">
 
 <!ENTITY backButton.tooltip  "Uɣal ɣer deffir">
 

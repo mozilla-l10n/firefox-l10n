@@ -56,7 +56,7 @@
 <!ENTITY cmd.showMac.label                "Ldi di Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Ɛreḍ i tikelt nniḍen">
-<!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebtar n uzdam">
+<!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebter n uzdam">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">
 <!ENTITY cmd.copyDownloadLink.label       "Nɣel tansa taɣbalut n uzdam">
 <!ENTITY cmd.copyDownloadLink.accesskey   "n">
