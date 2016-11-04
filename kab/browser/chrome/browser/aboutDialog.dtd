@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw agi. ">
+<!ENTITY update.unsupported.start    "Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. ">
 <!ENTITY update.unsupported.linkText "Issin ugar">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
