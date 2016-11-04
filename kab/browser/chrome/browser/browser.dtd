@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
 <!ENTITY identity.connectionFile "Asebter agi yettwakles deg uselkim inek.">
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel agi, iselkem sɣuṛ:">
-<!ENTITY identity.connectionInternal "Wagi d-asebter &brandShortName; aɣelsan.">
+<!ENTITY identity.connectionInternal "Wa d asebtar &brandShortName; aɣelsan.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel agi, ad ttwakren.">
 <!-- Strings for connection state warnings. -->
 

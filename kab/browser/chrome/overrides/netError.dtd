@@ -89,7 +89,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">
 
-<!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am tagi, d tallalt ad d-muddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex.">
+<!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am ta, d tallalt ad d-tmuddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex.">
 <!ENTITY errorReporting.learnMore "Issin ugar…">
 
 <!ENTITY remoteXUL.title "XUL anmeggag">
