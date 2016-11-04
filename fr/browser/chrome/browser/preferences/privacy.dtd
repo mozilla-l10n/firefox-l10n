@@ -110,3 +110,4 @@
 <!ENTITY  browserContainersLearnMore.label      "En savoir plus">
 <!ENTITY  browserContainersEnabled.label        "Activer les onglets contextuels">
 <!ENTITY  browserContainersEnabled.accesskey    "a">
+<!ENTITY  browserContainersSettings.label        "Paramètres…">
