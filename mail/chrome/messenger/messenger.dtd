@@ -341,7 +341,7 @@
 <!ENTITY replyMsgCmd.label "Ateb">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "Ateb yr Anfonwr yn Unig">
+<!ENTITY replySenderCmd.label "Ateb i'r Anfonwr yn Unig">
 <!ENTITY replySenderCmd.accesskey "t">
 <!ENTITY replyNewsgroupCmd2.label "Dilyn Grŵp Newyddion">
 <!ENTITY replyNewsgroupCmd2.accesskey  "D">
@@ -504,7 +504,7 @@
 <!ENTITY replyListButton.label "Ateb i'r Rhestr">
 <!ENTITY forwardButton.label "Ymlaen">
 <!ENTITY fileButton.label "Ffeil">
-<!ENTITY archiveButton.label "Archif">
+<!ENTITY archiveButton.label "Archifo">
 <!ENTITY nextButton.label "Nesaf">
 <!ENTITY nextButtonToolbarItem.label "Nesaf Heb ei Ddarllen">
 <!ENTITY nextMsgButton.label "Nesaf">
@@ -721,9 +721,9 @@
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
 <!ENTITY contextEditDraftMsg.label "Golygu Neges Ddrafft">
-<!ENTITY contextArchive.label "Archif">
+<!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Ateb yr Anfonwr yn Unig">
+<!ENTITY contextReplySender.label "Ateb i'r Anfonwr yn Unig">
 <!ENTITY contextReplySender.accesskey "n">
 <!ENTITY contextReplyNewsgroup2.label "Dilyn Grŵp Newyddion">
 <!ENTITY contextReplyNewsgroup2.accesskey "D">
