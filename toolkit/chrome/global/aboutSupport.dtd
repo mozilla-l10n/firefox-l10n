@@ -11,12 +11,12 @@
   &brandShortName; — відвідайте наш <a id='supportLink'>сайт підтримки</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Звіти про аварії">
+<!ENTITY aboutSupport.crashes.title "Звіти про збої">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Код звіту">
+<!ENTITY aboutSupport.crashes.id "ID звіту">
 <!ENTITY aboutSupport.crashes.sendDate "Надіслано">
-<!ENTITY aboutSupport.crashes.allReports "Всі звіти">
+<!ENTITY aboutSupport.crashes.allReports "Всі звіти про збої">
 <!ENTITY aboutSupport.crashes.noConfig "Ця програма не була сконфігурована показувати звіти про аварії.">
 
 <!ENTITY aboutSupport.extensionsTitle "Розширення">
