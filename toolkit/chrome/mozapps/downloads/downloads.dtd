@@ -13,7 +13,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Изтегляне на файлове">
 
-<!ENTITY cmd.pause.label                  "Спиране">
+<!ENTITY cmd.pause.label                  "Пауза">
 <!ENTITY cmd.pause.accesskey              "С">
 <!ENTITY cmd.resume.label                 "Продължаване">
 <!ENTITY cmd.resume.accesskey             "П">
@@ -29,9 +29,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "с">
 <!ENTITY cmd.retry.label                  "Нов опит">
 <!ENTITY cmd.retry.accesskey              "Н">
-<!ENTITY cmd.goToDownloadPage.label       "Посещаване на страницата">
-<!ENTITY cmd.goToDownloadPage.accesskey   "П">
-<!ENTITY cmd.copyDownloadLink.label       "Копиране на връзката">
+<!ENTITY cmd.goToDownloadPage.label       "Отваряне на целевата страница">
+<!ENTITY cmd.goToDownloadPage.accesskey   "О">
+<!ENTITY cmd.copyDownloadLink.label       "Копиране на препратка за изтегляне">
 <!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromList.label         "Премахване от списъка">
 <!ENTITY cmd.removeFromList.accesskey     "м">
