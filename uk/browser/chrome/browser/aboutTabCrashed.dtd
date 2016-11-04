@@ -9,8 +9,8 @@
 <!ENTITY tabCrashed.commentPlaceholder "Додати коментар (коментарі бачать всі)">
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
 <!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
-<!ENTITY tabCrashed.crashReporter "Звіт про падіння Mozilla">
-<!ENTITY tabCrashed.reportSent "Звіт про падіння надіслано; дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
+<!ENTITY tabCrashed.crashReporter "Звіти про збої Mozilla">
+<!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
 <!ENTITY tabCrashed.closeTab "Закрити цю вкладку">
 <!ENTITY tabCrashed.restoreTab "Відновити цю вкладку">
-<!ENTITY tabCrashed.restoreAll "Відновити всі вкладки, які впали">
+<!ENTITY tabCrashed.restoreAll "Відновити всі вкладки, які аварійно завершили роботу">
