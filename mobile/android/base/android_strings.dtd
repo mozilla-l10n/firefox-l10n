@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Bienllegáu">
+<!ENTITY firstrun_panel_title_welcome "Afáyate">
 
-<!ENTITY firstrun_urlbar_message "Bienllegáu a &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Afáyate en &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Alcuentra coses aína per duana de los atayos de suxerencies de gueta.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
@@ -583,7 +583,7 @@ size. -->
 <!ENTITY home_synced_devices_number "&formatD; preseos">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 preséu">
-<!ENTITY home_history_back_to2 "Volver a tol historial">
+<!ENTITY home_history_back_to2 "Volver pa tol historial">
 <!ENTITY home_clear_history_button "Llimpiar historial de restolar">
 <!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar el to historial?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
