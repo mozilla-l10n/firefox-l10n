@@ -50,16 +50,16 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Показ автономної версії">
 
-<!ENTITY  crash_reporter_title "Звіти про падіння &brandShortName;">
+<!ENTITY  crash_reporter_title "Звіти про збої &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; зіткнувся з проблемою та аварійно завершив роботу. Ваші вкладки повинні бути показані на початковій сторінці &brandShortName; після перезапуску.">
-<!ENTITY  crash_send_report_message3 "Повідомте &vendorShortName; про це падіння, щоб вони змогли його виправити">
+<!ENTITY  crash_send_report_message3 "Повідомте &vendorShortName; про цей збій, щоб вони змогли його виправити">
 <!ENTITY  crash_include_url2 "Включно з адресою відвіданої сторінки">
 <!ENTITY  crash_sorry "Перепрошуємо">
 <!ENTITY  crash_comment "Додати коментар (коментарі публічно видимі)">
 <!ENTITY  crash_allow_contact2 "Дозволити &vendorShortName; зв’язатись з вами стосовно цього звіту">
 <!ENTITY  crash_email "Ваш email">
-<!ENTITY  crash_closing_alert "Вийти після відправки звіту про падіння?">
-<!ENTITY  sending_crash_report "Відправка звіту про падіння\u2026">
+<!ENTITY  crash_closing_alert "Вийти після надсилання звіту про збій?">
+<!ENTITY  sending_crash_report "Надсилання звіту про збій\u2026">
 <!ENTITY  crash_close_label "Закрити">
 <!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
 
