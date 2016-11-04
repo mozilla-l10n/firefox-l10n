@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab percorre as guias na ordem recentemente utilizada">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab alterna entre as abas por ordem de uso">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Quando sites requisitarem uma nova janela, abrir uma aba">
