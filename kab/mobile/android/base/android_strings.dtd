@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Ansuf yis-k">
+<!ENTITY firstrun_panel_title_welcome "Ansuf">
 
-<!ENTITY firstrun_urlbar_message "Ansuf yis-k ɣeṛ &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Ansuf ɣeṛ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
 <!ENTITY firstrun_bookmarks_title "Amazray">
 <!ENTITY firstrun_bookmarks_message "Ismenyifen-inek; sdat akked tlemmast">
 <!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtar akked umazray-inek ticki tettnadiḍ.">
 <!ENTITY firstrun_data_title "Isefka">
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
-<!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka di yal asmel i tẓureḍ.">
+<!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel i tẓureḍ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, yal tikelt s idis-ik">
-<!ENTITY firstrun_sync_subtext "Mtawi iccaren inek, awalen uffiren, akked ugar yal amḍiq anida i t-teseqdaceḍ.">
+<!ENTITY firstrun_sync_subtext "Semtawi iccaren inek, awalen uffiren, akked ugar yal amḍiq anida i t-teseqdaceḍ.">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaruḍ-ten deg isnasen nniḍen.">
 
 <!ENTITY firstrun_tabqueue_message_on "Yedda!">
-<!ENTITY firstrun_tabqueue_subtext_on "Tzemreḍ yal tikelt tebɣid ad tekkseḍ armad di &settings; di &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "Tzemreḍ yal tikelt tebɣid ad tekkseḍ armad deg &settings; deg &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Imagraden">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -38,7 +38,7 @@
 <!ENTITY firstrun_account_title "Kečč">
 <!ENTITY firstrun_account_message "Ɣur-k &brandShortName; ɣef yibenk nniḍen?">
 
-<!ENTITY  onboard_start_restricted1 "Qim d aɣelsan udiɣ mahel s useqdec n lqem agi aḥerfi n &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem agi aḥerfi n &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -161,7 +161,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Azen ɣer yibenk nniḍen">
-<!ENTITY overlay_share_no_url "Ulac aseɣwen yettwafen di beṭṭu agi">
+<!ENTITY overlay_share_no_url "Ulac aseɣwen yettwafen deg beṭṭu agi">
 <!ENTITY overlay_share_select_device "Fren ibenk">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -261,15 +261,15 @@
 <!ENTITY pref_show_web_fonts_summary2 "Sider tisefsiyin tinmeggagin ticki yettali-d usebter">
 
 <!ENTITY pref_tracking_protection_title2 "Ammesten mgal asfuɣel">
-<!ENTITY pref_tracking_protection_summary3 "yettwarmed di tunigin tusligt">
+<!ENTITY pref_tracking_protection_summary3 "yettwarmed deg tunigin tusligt">
 <!ENTITY pref_donottrack_title "UR sfuɣul ara">
 <!ENTITY pref_donottrack_summary "&brandShortName; ad yini i yismal d akken ur tebɣiḍ ara ak-sfuɣlen">
 
 <!ENTITY pref_tracking_protection_enabled "Irmed">
-<!ENTITY pref_tracking_protection_enabled_pb "Yettwarmed di tunigin tusligt">
+<!ENTITY pref_tracking_protection_enabled_pb "Yettwarmed deg tunigin tusligt">
 <!ENTITY pref_tracking_protection_disabled "Arurmid">
 
-<!ENTITY pref_whats_new_notification "D acu-t i d amaynut di &brandShortName;">
+<!ENTITY pref_whats_new_notification "D acu i d amaynut deg &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Issin ɣef tmahilin timaynutin send aleqqem">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -284,17 +284,17 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Asuddem n warmud">
-<!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebter agejdan atrar sifsusen abrid akken ad d-afen ayen tebɣiḍ di &brandShortName;">
+<!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebter agejdan atrar sifsusen abrid akken ad d-tafeḍ ayen tebɣiḍ deg &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Tura s ummesten mgal asfuɣel">
-<!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yittili ara wugur yid-k.">
+<!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yettili ara wugur yid-k.">
 <!ENTITY tracking_protection_prompt_tip_text "Wali iɣewwaṛen n tbadnit akken ad tissineḍ ugar">
 <!ENTITY tracking_protection_prompt_action_button "Gziɣ!">
 
-<!ENTITY tab_queue_toast_message3 "Iccer yettwasekles di &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Iccer yettwasekles deg &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ldi tura">
-<!ENTITY tab_queue_prompt_title "Ldi deqs n iseqwen?">
-<!ENTITY tab_queue_prompt_text4 "Sekles-iten arma teldiḍ-d &brandShortName; tikelt d-iteddun.">
+<!ENTITY tab_queue_prompt_title "Ldi deqs n iseɣwan?">
+<!ENTITY tab_queue_prompt_text4 "Sekles-iten arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
 <!ENTITY tab_queue_prompt_tip_text2 "Tzemreḍ ad tesnifleḍ ayagi ticki deg iɣewwaṛen">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
@@ -316,7 +316,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; di  &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; deg &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -333,7 +333,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Yettwalqem di &formatS;">
+<!ENTITY content_notification_updated_on "Yettwalqem deg &formatS;">
 
 <!ENTITY pref_char_encoding "Asettengel n isekkilen">
 <!ENTITY pref_char_encoding_on "Sken umuɣ">
@@ -342,7 +342,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Sfeḍ tura">
-<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen di tuffɣa">
+<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka yinek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
 <!ENTITY pref_plugins "Izegrar imernan">
@@ -352,7 +352,7 @@
 <!ENTITY pref_text_size "Teɣzi n uḍris">
 <!ENTITY pref_restore_tabs "Err-d iccaren">
 <!ENTITY pref_restore_always "Ttarra-d yal tikelt">
-<!ENTITY pref_restore_quit "Ur d-ttaray ara seld ma teffɣeḍ si &brandShortName;">
+<!ENTITY pref_restore_quit "Ur d-ttarra ara seld ma teffɣeḍ seg &brandShortName;">
 <!ENTITY pref_font_size_tiny "Meẓẓi aṭas">
 <!ENTITY pref_font_size_small "Meẓẓi">
 <!ENTITY pref_font_size_medium "Alemmas">
@@ -375,14 +375,14 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣeṛ/asemẓi">
 <!ENTITY pref_zoom_force_enabled_summary "Ɛeddi iɣewwaṛen akken ad tezmireḍ ad tesmeɣreḍ neɣ ad tsemẓiyeḍ isebtar">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
-<!ENTITY pref_voice_input_summary2 "Sireg asuter s taɣect deg ufeggag n tensa URL">
+<!ENTITY pref_voice_input_summary2 "Sireg asuter s taɣect deg ufeggag n tansa URL">
 <!ENTITY pref_qrcode_enabled "Amerɣri n tengalt QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Sireg asnirem QR deg ufeggag n tansa URL">
 
 <!ENTITY pref_use_master_password "Seqdec awal uffir agejdan">
 <!ENTITY pref_sync2 "Qqen">
-<!ENTITY pref_sync_summary2 "Mtawi iccaren inek, ticraḍ n isebtar, inekcam, amazray">
-<!ENTITY pref_search_suggestions "Asumer n unadi">
+<!ENTITY pref_sync_summary2 "Semtawi iccaren inek, ticraḍ n isebtar, inekcam, amazray">
+<!ENTITY pref_search_suggestions "Sken isumren n unadi">
 <!ENTITY pref_history_search_suggestions "Sken amazray n unadi">
 <!ENTITY pref_import_options "Kter iɣewwaṛen">
 <!ENTITY pref_import_android_summary "Kter ticraḍ akked umazray seg iminig adigan">
@@ -517,11 +517,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Awal uffir">
 <!ENTITY doorhanger_login_edit_toggle "Sken awal uffir">
 <!ENTITY doorhanger_login_edit_toast_error "Ur izmir ara ad isekles awal uffir">
-<!ENTITY doorhanger_login_select_message "Nɣel awal uffir si &formatS;?">
+<!ENTITY doorhanger_login_select_message "Nɣel awal uffir seg &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Awal uffir yettwanɣel ɣef affus">
 <!ENTITY doorhanger_login_select_toast_copy_error "Ur yezmir ara ad yenɣel awal uffir">
 <!ENTITY doorhanger_login_select_action_text "Fren anekcam nniḍen">
-<!ENTITY doorhanger_login_select_title "Nɣel awal uffir si">
+<!ENTITY doorhanger_login_select_title "Nɣel awal uffir seg">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -530,11 +530,11 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Tunnigin deg ugdil aččuran">
+<!ENTITY pref_scroll_title_bar2 "Tunigin deg ugdil aččuran">
 <!ENTITY pref_scroll_title_bar_summary2 "Ffer afegga n ifecka n &brandShortName; deg udrerem n usebter d akesser ">
 
 <!ENTITY pref_tab_queue_title3 "Adras n ticcer">
-<!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-iteddun.">
+<!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -619,10 +619,10 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Sken ibenkan yettwafernen">
 
 <!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer inu?">
-<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek si ibenkan nniḍen ɣer ugalis ɣef usebter agejdan inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
+<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren inek seg ibenkan nniḍen ɣer ugalis ɣef usebter agejdan inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
 <!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis inu amaynut.">
 
-<!ENTITY pin_site_dialog_hint "Sekcem awal n tsarutt n unadi">
+<!ENTITY pin_site_dialog_hint "Sekcem awal n tsarut n unadi">
 
 <!ENTITY filepicker_title "Fren afaylu">
 <!ENTITY filepicker_audio_title "Fren neɣ sekles imesli">
@@ -656,8 +656,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Ammesten mgal asfuɣel">
 <!ENTITY doorhanger_tracking_state_enabled "Irmed">
 <!ENTITY doorhanger_tracking_state_disabled "Arurmid">
-<!ENTITY doorhanger_tracking_message_enabled1 "Aɛraḍ n usfuɣel di tunigin inek yettwasewḥel.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Asebter agi yegber iferdisen i yezemren ad sfuɣlen tunigin inek.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Aɛraḍ n usfuɣel deg tunigin inek yettwasewḥel.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Asebter agi yegber iferdisen i izemren ad sfuɣlen tunigin inek.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Issin ugar">
@@ -668,12 +668,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Kra n isefka usligen ur zmiren ara ad ttwasefḍen">
 
 <!ENTITY bookmarkhistory_button_import "Kter">
-<!ENTITY bookmarkhistory_import_both "Akter n tecraḍ d umazray si Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Akter n tecṛaḍ si Android">
-<!ENTITY bookmarkhistory_import_history "Akter n umazray si Android">
+<!ENTITY bookmarkhistory_import_both "Akter n tecraḍ d umazray seg Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Akter n tecṛaḍ seg Android">
+<!ENTITY bookmarkhistory_import_history "Akter n umazray seg Android">
 <!ENTITY bookmarkhistory_import_wait "Ṛǧu ma ulac aɣilif…">
 
-<!ENTITY suggestions_prompt3 "Tebɣiḍ ad tekkseḍ armad n isumar n unadi?">
+<!ENTITY suggestions_prompt3 "Tebɣiḍ ad tekkseḍ armad n isumren n unadi?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -691,7 +691,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Lqem n &brandShortName; yellan">
-<!ENTITY updater_start_select2 "Nnal akken ad d-sidreḍ">
+<!ENTITY updater_start_select2 "Nnal akken ad d-tessidreḍ">
 
 <!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ifuyla ittwazedmen">
@@ -704,13 +704,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Akken ad d-sidreḍ ifuyla akked ileqman, mudd i &brandShortName;  tasiregt n unekcum ɣer usekles.">
+<!ENTITY updater_permission_text "Akken ad d-tessidreḍ ifuyla akked ileqman, mudd i &brandShortName; tasiregt n unekcum ɣer usekles.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Sireg">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Tiɣimit tanebgit tamaynut">
-<!ENTITY exit_guest_session "Ffeɣ si tɣimit tanebgit">
+<!ENTITY exit_guest_session "Ffeɣ seg tɣimit tanebgit">
 <!ENTITY guest_session_dialog_continue "Ddu ɣer zdat">
 <!ENTITY guest_session_dialog_cancel "Sefsex">
 <!ENTITY new_guest_session_title "&brandShortName; ad yekker tura">
@@ -751,15 +751,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "Amtawi aneggaru: &formatS;">
+<!ENTITY remote_tabs_last_synced "Asemtawi aneggaru: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Amtawi aneggaru: weṛǧin">
+<!ENTITY remote_tabs_never_synced "Asemtawi aneggaru: weṛǧin">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "Aseɣwen agi ad d-yeldidi &formatS;. Tebɣiḍ ad teffɣeḍ si tunigin tusligt?">
+<!ENTITY intent_uri_private_browsing_prompt "Aseɣwen agi ad d-yeldi deg &formatS;. Tebɣiḍ ad teffɣeḍ seg tunigin tusligt?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -767,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Ffeɣ si tunigin tusligt?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Ffeɣ seg tunigin tusligt?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -787,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Sfeḍ amazray">
 <!ENTITY restrictable_feature_clear_history_description "Eǧǧ tawawacult-ik ad kksen talɣut ɣef ismal akked isebtar i walan.">
 <!ENTITY restrictable_feature_advanced_settings "Iɣewwaṛen leqqayen">
-<!ENTITY restrictable_feature_advanced_settings_description "Ayagi yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen di twacult-ik.">
+<!ENTITY restrictable_feature_advanced_settings_description "Ayagi yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen deg twacult-ik.">
 <!ENTITY restrictable_feature_camera_microphone "Takamirat &amp; usawaḍ">
 <!ENTITY restrictable_feature_camera_microphone_description "Ad isireg i twacult ad mmeslayen lwaḥid ɣef yesmal web.">
 <!ENTITY restrictable_feature_block_list "Tabdart n usewḥel">
@@ -808,9 +808,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "Suref-aɣ! &brandShortName; ur i t-eddu ara ɣef yibenk agi (&formatS1;, &formatS2;). Ma ulac aɣilif sider-d lqem ameɣtu.">
+<!ENTITY unsupported_sdk_version "Suref-aɣ! &brandShortName; ur itteddu ara ɣef yibenk agi (&formatS1;, &formatS2;). Ma ulac aɣilif sider-d lqem ameɣtu.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ur yettwalqam ara si sya d asawen">
+<!ENTITY eol_notification_title2 "&brandShortName; ur yettwalqam ara seg sya d asawen">
 <!ENTITY eol_notification_summary "Senned akken ad tissined ugar">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
@@ -820,15 +820,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Rnu ɣer ugdil agejdan">
 
-<!ENTITY helper_first_offline_bookmark_title "Ɣaṛ di war tuqqna">
-<!ENTITY helper_first_offline_bookmark_message "Aff-d iferdisen inek n uskan n umeɣṛi di ticraḍ, xas di war tuqqna.">
-<!ENTITY helper_first_offline_bookmark_button "Ddu ɣe tecraḍ">
+<!ENTITY helper_first_offline_bookmark_title "Ɣer deg war tuqqna">
+<!ENTITY helper_first_offline_bookmark_message "Af-d iferdisen inek n uskan n umeɣṛi deg ticraḍ, xas deg war tuqqna.">
+<!ENTITY helper_first_offline_bookmark_button "Ddu ɣer tecraḍ">
 
 <!ENTITY helper_triple_readerview_open_title "Yella deg uskar war tuqqna">
 <!ENTITY helper_triple_readerview_open_message "Iferdisen n tmeẓri n umeɣri n tecraḍ ara teɣreḍ deg uskar war tuqqna.">
 <!ENTITY helper_triple_readerview_open_button "Rnu ɣer tecraḍ">
 
-<!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
+<!ENTITY activity_stream_topsites "Ismal ɣur yettwarza aṭas">
 <!ENTITY activity_stream_highlights "Asebrureq">
 <!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
      when pressed. -->
