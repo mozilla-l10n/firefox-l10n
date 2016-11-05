@@ -79,3 +79,5 @@
 <!ENTITY browserContainersLearnMore.label "Подробнее">
 <!ENTITY browserContainersEnabled.label "Включить «Вкладки в контейнере»">
 <!ENTITY browserContainersEnabled.accesskey "ч">
+<!ENTITY browserContainersSettings.label "Параметры…">
+<!ENTITY browserContainersSettings.accesskey "м">
