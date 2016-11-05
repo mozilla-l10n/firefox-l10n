@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "צפייה בכל הגופנים שבשימוש בדף זה">
+<!ENTITY showAllFontsUsed "הצגת כל הגופנים בשימוש">
 <!ENTITY usedAs "בשימוש בתור:">
 <!ENTITY system "מערכת">
 <!ENTITY remote "מרוחק">
