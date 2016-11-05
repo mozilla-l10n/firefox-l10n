@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Voltar a navegar'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bem-vindo ao &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Entre para sincronizar suas abas, favoritos, senhas e mais.'>
+<!ENTITY fxaccount_getting_started_description2 'Entrar para sincronizar suas abas, favoritos, senhas e mais.'>
 <!ENTITY fxaccount_getting_started_get_started 'Começar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Usando uma versão anterior do &syncBrand.shortName.label;?'>
 
