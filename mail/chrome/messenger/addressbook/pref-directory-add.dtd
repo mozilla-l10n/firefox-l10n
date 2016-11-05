@@ -20,7 +20,7 @@
 <!ENTITY Advanced.tab                      "Ειδικές επιλογές">
 <!ENTITY portNumber.label                  "Αριθμός θύρας:">
 <!ENTITY portNumber.accesskey              "θ">
-<!ENTITY searchFilter.label                "Φίλτρο Αναζήτησης:">
+<!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
 <!ENTITY searchFilter.accesskey            "Φ">
 <!ENTITY scope.label                       "Σκοπός:">
 <!ENTITY scope.accesskey                   "κ">
