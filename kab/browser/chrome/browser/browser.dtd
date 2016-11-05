@@ -826,10 +826,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "R">
 
 <!ENTITY trackingContentBlocked.message "Asfuɣel">
-<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter agi i yesfuɣulen armud inek s srid, weḥlen.">
+<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-agi i yesfuɣulen armud inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
 <!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
-<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel agi">
+<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-agi">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "K">
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
 <!ENTITY trackingContentBlocked.block.accesskey "R">
