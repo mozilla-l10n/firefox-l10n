@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ikusi gunearen informazioa">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ireki mezuen panela">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ireki helbide-eskaeren panela">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ireki gehigarrien instalazio-mezuen panela">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ireki lineaz kanpoko biltegiratzearen mezuen panela">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ireki pasahitza gordetzeko mezuen panela">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kudeatu pluginen erabilera">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Kudeatu zure mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Kudeatu zure leihoak edo pantaila gunearekin partekatzea">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ireki instalazio-mezuen panela">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Itzuli orri hau">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kudeatu orriaren itzulpena">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Kamera blokeatuta daukazu webgune honetarako.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofonoa blokeatuta daukazu webgune honetarako.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Pantaila partekatzea blokeatuta daukazu webgune honetarako.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Datuen biltegiratzea blokeatuta daukazu webgune honetarako.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Berrezarri zoomaren maila">
 
 <!ENTITY searchItem.title             "Bilatu">
 <!-- Toolbar items --> 

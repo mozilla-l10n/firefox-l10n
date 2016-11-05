@@ -41,8 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
 <!ENTITY crashReporterDesc2.label         "Hutsegite-txostenek arazoak konpondu eta zure nabigatzailea egonkor eta seguruagoa egiten laguntzen diote &vendorShortName;(r)i">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "Baimendu &brandShortName;(r)i atzeratutako hutsegite-txostenak zuregatik bidaltzea">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
