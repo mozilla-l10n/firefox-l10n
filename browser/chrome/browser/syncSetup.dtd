@@ -71,7 +71,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Identificação">
+<!ENTITY setup.signInPage.title.label "Entrar">
 <!ENTITY existingRecoveryKey.description "Você pode obter uma cópia da sua chave de recuperação em Opções do &syncBrand.shortName.label; no seu outro dispositivo e então selecionando &#x0022;Minha chave de recuperação&#x0022; em &#x0022;Gerenciar conta&#x0022;.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Resetar senha">

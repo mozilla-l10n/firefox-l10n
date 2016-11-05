@@ -12,9 +12,9 @@
 <!ENTITY devmgr.details.title                   "Detalhes">
 <!ENTITY devmgr.details.title2                  "Valor">
 
-<!ENTITY devmgr.button.login.label              "Logar">
+<!ENTITY devmgr.button.login.label              "Entrar">
 <!ENTITY devmgr.button.login.accesskey          "L">
-<!ENTITY devmgr.button.logout.label             "Deslogar">
+<!ENTITY devmgr.button.logout.label             "Sair">
 <!ENTITY devmgr.button.logout.accesskey         "D">
 <!ENTITY devmgr.button.changepw.label           "Alterar senha">
 <!ENTITY devmgr.button.changepw.accesskey       "M">
