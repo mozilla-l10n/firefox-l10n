@@ -20,6 +20,8 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "Onemogući automatsko skrivanje popup-a">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
@@ -42,6 +44,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "Skrati DOM atribute">
+<!ENTITY options.collapseAttrs.tooltip "Skrati duge atribute u inspektoru">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -87,7 +91,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Omogući udaljeno debuggiranje">
-
+<!ENTITY options.enableRemote.tooltip2  "Uključivanje ove opcije će omogućiti razvojnim alatima da debagiraju udaljene instance poput Firefox OS-a">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -104,6 +108,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Onemogući HTTP keš (kada je toolbox otvoren)">
+<!ENTITY options.disableHTTPCache.tooltip   "Uključivanje ove opcije će onemogućiti HTTP keš za sve tabove koji imaju otvoren toolbox. Ovo neće uticati na Service Workere.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -113,6 +119,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "Izvorni razvojni alati">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
