@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Naučite više">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Izvještaji o rušenju pomažu &vendorShortName;-i da popravi probleme i učini vaš browser stabilnijim i sigurnijim">
+<!ENTITY alwaysSubmitCrashReports.label   "Omogući &brandShortName;u da u vaše ime šalje zapisane izvještaje o rušenju">
+<!ENTITY alwaysSubmitCrashReports.accesskey "a">
 <!ENTITY crashReporterLearnMore.label     "Naučite više">
 
 <!ENTITY networkTab.label                "Mreža">

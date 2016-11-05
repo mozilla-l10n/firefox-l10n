@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži traku sa zabilješkama">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku sa zabilješkama">
 
+<!ENTITY containersMenu.label "Containeri">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -280,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fajl"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Novi Container tab">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -455,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Promijeni postavke pretraživača">
-
+<!ENTITY changeSearchSettings.tooltip "Promijeni postavke za pretragu">
 
 <!ENTITY searchInNewTab.label         "Traži u novom tabu">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -474,8 +475,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "n">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Otvori link u novom Container tabu">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -734,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisije">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dodijelili nikakve posebne dozvole.">
-
+<!ENTITY identity.permissionsReloadHint "Možda ćete morati ponovo učitati stranicu radi primjene izmjena.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
