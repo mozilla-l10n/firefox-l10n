@@ -165,7 +165,7 @@
 <!ENTITY compactVersion.label "Visualização compacta">
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra de Ferramentas do Painel de Pastas">
-<!ENTITY folderModeSelector.label "Modos de exibição de pasta">
+<!ENTITY folderModeSelector.label "Visualização de pastas">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
