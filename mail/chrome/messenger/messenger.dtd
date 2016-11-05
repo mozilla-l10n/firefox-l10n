@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "χ">
 <!ENTITY newIMAccountCmd.label "Λογαριασμός Συνομιλίας…">
 <!ENTITY newIMAccountCmd.accesskey "Σ">
-<!ENTITY newFeedAccountCmd.label "Λογαριασμός Ροής…">
+<!ENTITY newFeedAccountCmd.label "Λογαριασμός ροής…">
 <!ENTITY newFeedAccountCmd.accesskey "Ρ">
 <!ENTITY newIMContactCmd.label "Επαφή Συνομιλίας…">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
@@ -102,8 +102,8 @@
 <!ENTITY selectMenu.accesskey "λ">
 <!ENTITY all.label "Όλα">
 <!ENTITY all.accesskey "λ">
-<!ENTITY selectThreadCmd.label "Αλληλουχία">
-<!ENTITY selectThreadCmd.accesskey "χ">
+<!ENTITY selectThreadCmd.label "Νήμα συζήτησης">
+<!ENTITY selectThreadCmd.accesskey "ζ">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Μηνύματα με αστέρι">
 <!ENTITY selectFlaggedCmd.accesskey "σ">
