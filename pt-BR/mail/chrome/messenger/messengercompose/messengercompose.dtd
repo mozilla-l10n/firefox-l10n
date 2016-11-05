@@ -104,7 +104,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Exibir">
+<!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "x">
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">

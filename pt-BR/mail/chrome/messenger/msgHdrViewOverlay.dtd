@@ -47,7 +47,7 @@
 <!ENTITY hdrViewToolbarShowFull.accesskey "x">
 <!ENTITY hdrViewToolbarShowIcons.label "Exibir somente ícones">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "E">
-<!ENTITY hdrViewToolbarShowText.label "Exibir somente texto">
+<!ENTITY hdrViewToolbarShowText.label "Mostrar somente texto">
 <!ENTITY hdrViewToolbarShowText.accesskey "b">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre exibir o “Responder a”">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "S">
