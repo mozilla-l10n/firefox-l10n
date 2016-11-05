@@ -36,8 +36,8 @@
 <!ENTITY openRecentMenu.label         "เปิดล่าสุด">
 <!ENTITY openRecentMenu.accesskey     "ล">
 
-<!ENTITY revertCmd.label              "ยกเลิกการเปลี่ยนแปลง…">
-<!ENTITY revertCmd.accesskey          "ย">
+<!ENTITY revertCmd.label              "เปลี่ยนกลับ…">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "บันทึก">
 <!ENTITY saveFileCmd.accesskey        "บ">
