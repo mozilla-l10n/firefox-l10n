@@ -16,7 +16,7 @@
 <!ENTITY highPriorityCmd.label "Uchel">
 <!ENTITY highestPriorityCmd.label "Uchaf">
 
-<!ENTITY contextDesc.label "Gosod yr hidl pan:">
+<!ENTITY contextDesc.label "Gosod yr hidl pan yn:">
 <!ENTITY contextIncomingMail.label "Estyn E-bost Newydd:">
 <!ENTITY contextIncomingMail.accesskey "E">
 <!ENTITY contextManual.label "Rhedeg â Llaw">
@@ -28,8 +28,8 @@
 <!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
 
-<!ENTITY filterActionDesc.label "Cyflawni'r gweithredoedd:">
-<!ENTITY filterActionDesc.accesskey "C">
+<!ENTITY filterActionDesc.label "Gwneud hyn:">
+<!ENTITY filterActionDesc.accesskey "G">
 
 <!ENTITY filterActionOrderWarning.label "Sylw: Bydd gweithredoedd hidlo'n cael eu rhedeg mewn trefn gwahanol.">
 <!ENTITY filterActionOrder.label "Gw. trefn weithredu">
