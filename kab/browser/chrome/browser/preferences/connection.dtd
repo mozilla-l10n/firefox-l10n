@@ -12,7 +12,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "l">
 <!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n upṛuksi n unagraw">
 <!ENTITY  systemTypeRadio.accesskey     "S">
-<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n upṛuksi n uẓeṭṭa agi">
+<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n upṛuksi n uẓeṭṭa-a">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
 <!ENTITY  manualTypeRadio.label         "Tawila s ufus n upṛuksi:">
 <!ENTITY  manualTypeRadio.accesskey     "w">
@@ -42,8 +42,8 @@
 <!ENTITY  noproxy.label                 "Ulac apṛuksi i:">
 <!ENTITY  noproxy.accesskey             "U">
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Seqdec aqeddac agi, apṛuksi, i yal aneggaf">
+<!ENTITY  shareproxy.label              "Seqdec aqeddac-a, apṛuksi, i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">
 <!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yekles">
 <!ENTITY  autologinproxy.accesskey      "k">
-<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ agi a k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, a k-d-nsuter awal uffir.">
+<!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ-a a k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, a k-d-nessuter awal uffir.">

@@ -112,7 +112,7 @@
 <!ENTITY openDownloadsFolder.label       "Ldi akaram n isidar">
 
 <!ENTITY clearDownloadsButton.label       "Sfeḍ isidar">
-<!ENTITY clearDownloadsButton.tooltip     "Sfeḍ isidar imden, ifesxen neɣ wid ur neddi-ara">
+<!ENTITY clearDownloadsButton.tooltip     "Sfeḍ isidar immden, ifesxen neɣ wid ur neddi ara">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
@@ -123,7 +123,7 @@
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Ulac isidar di tɣimit-agi.">
+<!ENTITY downloadsPanelEmpty.label        "Ulac isidar deg tɣimit-a.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.

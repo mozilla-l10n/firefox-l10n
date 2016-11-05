@@ -29,7 +29,7 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Kter ticraḍ n isebtar s umasal HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
-<!ENTITY exportBookmarksToHTML.label       "Sifeḍ ticrad n isebtar s umasal HTML…:">
+<!ENTITY exportBookmarksToHTML.label       "Sifeḍ ticraḍ n isebtaren s umasal HTML…:">
 <!ENTITY exportBookmarksToHTML.accesskey   "S">
 <!ENTITY importOtherBrowser.label          "Kter isefka seg iminig nniḍen">
 <!ENTITY importOtherBrowser.accesskey      "i">

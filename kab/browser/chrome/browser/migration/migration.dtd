@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Amarag n ukter">
 
-<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen si:">
-<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen si: ">
-<!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtar si: ">
+<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtaren, amazray, awalen uffiren d isefka nniḍen seg:">
+<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtaren, amazray, awalen uffiren d isefka nniḍen seg: ">
+<!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtaren seg: ">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -38,7 +38,7 @@
 <!ENTITY migrating.label                "Iferdisen agi ad ţwaktaren aka tura…">
 
 <!ENTITY selectProfile.title            "Fren amaɣnu">
-<!ENTITY selectProfile.label            "Imaɣuten agi heggan i wakken ad-ţwaketren si:">
+<!ENTITY selectProfile.label            "Imaɣuten agi heggan i wakken ad ttwaketren seg:">
 
 <!ENTITY done.title                     "Aktar immed">
 <!ENTITY done.label                     "Iferdisen agi ţwaketren akken iwata:">

@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; mačči d iminig-inek amezwer">
 
 <!ENTITY separateProfileMode.label        "Sireg &brandShortName; ed Firefox ad selkmen s wudem anmaway">
-<!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ si Sync i beṭṭu n isefka yinek gar-asen.">
+<!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg Sync i beṭṭu n isefka-inek gar-asen.">
 <!ENTITY getStarted.label                 "Seqdec Sync…">
 
 <!ENTITY e10sEnabled.label                "Rmed agetakala n &brandShortName;">
