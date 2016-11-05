@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Ldi afaylu…">
 <!ENTITY openFileCmd.accesskey "L">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tarusi n isebtar…">
+<!ENTITY printSetupCmd.label "Tarusi n isebtaren…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Awali send asiggez">
 <!ENTITY printPreviewCmd.accesskey "s">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqad n usewwaṛ inek. Sit ɣef tqeffalt n usenser akken ad teṭfeḍ asewwaṛ.">
-<!ENTITY pointerlockWarning.generic.label "Isemli-agi yeṭṭef asewwaṛ inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
+<!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
+<!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
 
 <!ENTITY closeWindow.label "Mdel asfaylu">
 <!ENTITY closeWindow.accesskey "d">
@@ -194,8 +194,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Uγal s yiwen usebter">
 <!ENTITY forwardCmd.label             "ɣer zdat">
 <!ENTITY forwardButton.tooltip        "Aẓ s yiwen usebter">
-<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣaṛdayt s adda akken ad twaliḍ amazray">
-<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣaṛdayt s adda akken ad twaliḍ amazray">
+<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
+<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
 <!ENTITY reloadButton.tooltip         "Sali-d asebter amiran">
 <!ENTITY stopCmd.label                "Sḥbes">
@@ -203,7 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "Rken asali n usebter-agi">
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tensa">
 <!ENTITY printButton.label            "Siggez">
-<!ENTITY printButton.tooltip          "Siggez asebter-agi">
+<!ENTITY printButton.tooltip          "Siggez asebtar-a">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sken talɣut n usmel">
 
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
-<!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-agi si beṭṭu n ugdil inek.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-agi">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-agi. ">
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Ugar n telɣut">
 
 <!ENTITY identity.permissions "Tisirag">
-<!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel-agi web.">
+<!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel-a web.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-saliḍ tikelt nniḍen asebter akken isnifal ad ttwasensen.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -784,7 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Akaram n urremed">
 <!ENTITY social.directory.text "Tzemreḍ aţremdeḍ tanfiwin n beṭṭu seg ukaram.">
 <!ENTITY social.directory.button "Ldi akaram">
-<!ENTITY social.directory.introText "Sit ɣef tenfa akken aţternuḍ ɣer &brandShortName;.">
+<!ENTITY social.directory.introText "Sit ɣef tenfa akken ad tt-ternuḍ ɣer &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Skan ugar">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ifecka d tmahilin isemmadanen">
