@@ -329,6 +329,8 @@
 <!ENTITY forwardAsAttachmentCmd.accesskey "μ">
 <!ENTITY editAsNewMsgCmd.label "Τροποποίηση μηνύματος ως νέου">
 <!ENTITY editAsNewMsgCmd.accesskey "ν">
+<!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
+<!ENTITY editDraftMsgCmd.accesskey "χ">
 <!ENTITY createFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
 <!ENTITY createFilter.accesskey "Φ">
 <!ENTITY moveMsgToMenu.label "Μετακίνηση σε">
@@ -465,10 +467,13 @@
 <!ENTITY replyAllButton.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
 <!ENTITY replyListButton.tooltip "Απάντηση στη λίστα αλληλογραφίας">
 <!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
+<!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένο">
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
 <!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
+<!ENTITY nextMsgButton.tooltip "Μετάβαση στο επόμενο μήνυμα">
 <!ENTITY previousButton.tooltip "Μετάβαση στο προηγούμενο μη αναγνωσμένο">
+<!ENTITY previousMsgButton.tooltip "Μετάβαση στο προηγούμενο μήνυμα">
 <!ENTITY goForwardButton.tooltip "Μετάβαση μπροστά ένα μήνυμα">
 <!ENTITY goBackButton.tooltip "Μετάβαση πίσω ένα μήνυμα">
 <!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
@@ -483,12 +488,16 @@
 <!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsAttachment.label "Προώθηση ως συνημμένο">
 
 <!-- Remote Content Button Popup -->
 
 <!-- Phishing Button Popup -->
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewContactCmd.label "Επαφή βιβλίου διευθύνσεων…">
+<!ENTITY appmenuEditMenu.label "Επεξεργασία">
+<!ENTITY appmenuToolbarLayout.label "Διάταξη εργαλειοθήκης…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Νέα ετικέτα">
@@ -620,6 +629,7 @@
 <!ENTITY contextReplyList.accesskey "λ">
 <!ENTITY contextForward.label "Προώθηση">
 <!ENTITY contextForward.accesskey "θ">
+<!ENTITY contextForwardAsAttachmentItem.label "Συνημμένο">
 <!ENTITY contextMultiForwardAsAttachment.label "Προώθηση ως συνημμένα">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "σ">
 <!ENTITY contextMoveMsgMenu.label "Μετακίνηση σε">
@@ -628,6 +638,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "φ">
 <!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
 <!ENTITY contextCopyMsgMenu.accesskey "ι">
+<!ENTITY contextKillThreadMenu.label "Αγνόηση νήματος">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
@@ -736,6 +747,8 @@
 <!ENTITY SendMessageTo.accesskey "Σ">
 <!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης Email">
 <!ENTITY CopyEmailAddress.accesskey "γ">
+<!ENTITY CopyNameAndEmailAddress.label "Αντιγραφή ονόματος και διεύθυνσης ηλεκτρονικού ταχυδρομείου">
+<!ENTITY CopyNameAndEmailAddress.accesskey "ο">
 <!ENTITY CopyNewsgroupName.label "Αντιγραφή ονόματος ομάδας">
 <!ENTITY CopyNewsgroupName.accesskey "γ">
 <!ENTITY CopyNewsgroupURL.label "Αντιγραφή URL ομάδας συζητήσεων">
