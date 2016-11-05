@@ -123,7 +123,7 @@
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Ulac isidar di tɣimit agi.">
+<!ENTITY downloadsPanelEmpty.label        "Ulac isidar di tɣimit-agi.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
