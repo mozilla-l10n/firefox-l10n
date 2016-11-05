@@ -22,7 +22,7 @@
 
 <!ENTITY openTabs.label "Abrir em nova aba quando">
 
-<!ENTITY openManagers.label "Abra uma nova aba ao invés de uma nova janela">
+<!ENTITY openManagers.label "Abrir uma nova aba ao invés de uma nova janela">
 <!ENTITY openDataManager.label "Gerenciador de dados">
 <!ENTITY openDataManager.accesskey "D">
 <!ENTITY openAddOnsManager.label "Gerenciador de complementos">
