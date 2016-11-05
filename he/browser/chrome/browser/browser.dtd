@@ -199,6 +199,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "הצגת נתוני אתר">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "פתיחת חלונית הודעות">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ניהול שיתוף תוספים חיצוניים">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "תרגום עמוד זה">
@@ -209,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
+<!ENTITY urlbar.zoomReset.tooltip     "איפוס רמת התקריב">
 
 <!ENTITY searchItem.title             "חיפוש">
 
@@ -402,6 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Search query">
+<!ENTITY contentSearchSubmit.tooltip  "שליחת החיפוש">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
