@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY siteUrl.label         "Gunearen URLa:">
-<!ENTITY docSubdir.label       "Orrialde-azpidirektorioa:">
+<!ENTITY docSubdir.label       "Orriaren azpidirektorioa:">
 <!ENTITY otherSubdir.label     "Irudi azpidirektorioa:">
 
 <!ENTITY status.label          "Argitaratzen...">

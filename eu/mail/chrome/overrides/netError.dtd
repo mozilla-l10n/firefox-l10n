@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Arazoa orrialdea kargatzean">
+<!ENTITY loadError.label "Arazoa orria kargatzerakoan">
 <!ENTITY retry.label "Saiatu berriro">
 <!-- Specific error messages -->
 
@@ -20,12 +20,12 @@
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.eus <strong>www</strong>.adibidea.eus-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li><li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Fitxategiaren izena birbegiratu ia errorerik daukan.</li> <li>Begiratu ia fitxategia lekuz mugitu, izena aldatu edo ezabatu duten.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">
 
 
 
 <!ENTITY generic.title "Iepa.">
-<!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orrialdea kargatu.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidea.eus/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (adib.<strong>/</strong>).</li> </ul>">
@@ -37,7 +37,7 @@
 <!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orrialdea berritzeko.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Edukiaren kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Arazoaren berri emateko, jarri harremanetan webgunearen jabeekin.</li> </ul>">
@@ -60,19 +60,19 @@
 <!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li> <li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Orrialdeak ez du birbideraketa ondo egiten">
+<!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ustekabeko erantzuna zerbitzaritik">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Egiaztatu zure sistemak instalatuta duela Segurtasun-kudeatzaile Pertsonala (PSM).</li> <li>Zerbitzariaren konfigurazio ezohikoak eragina izan lezake.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orrialdea ezin da bistaratu jasotako datuen benetakotasuna ezin delako egiaztatu.</li> <li>Jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orria ezin da bistaratu jasotako datuen benetakotasuna ezin delako egiaztatu.</li> <li>Jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Hau zerbitzariaren konfigurazioan errore bat dela eta izan daiteke, edo norbait zerbitzariaren nortasuna hartzen ari dela.</li> <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea aldirokoa izan daiteke eta geroago saia zaitezke.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orrialderik ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orrialde hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">

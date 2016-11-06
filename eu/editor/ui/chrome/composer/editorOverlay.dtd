@@ -218,7 +218,7 @@
 <!ENTITY decreaseIndent.accesskey "x">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Orrialdearen koloreak eta atzeko planoa…">
+<!ENTITY colorsAndBackground.label "Orriaren koloreak eta atzeko planoa…">
 <!ENTITY colorsAndBackground.accesskey "p">
 <!-- Table Menu -->
 
@@ -291,11 +291,11 @@
 <!ENTITY copyToolbarCmd.tooltip "Kopiatu">
 <!ENTITY pasteToolbarCmd.tooltip "Itsatsi">
 <!ENTITY printToolbarCmd.label "Inprimatu">
-<!ENTITY printToolbarCmd.tooltip "Inprimatu orrialde hau">
+<!ENTITY printToolbarCmd.tooltip "Inprimatu orri hau">
 <!ENTITY findToolbarCmd.label "Bilatu">
-<!ENTITY findToolbarCmd.tooltip "Bilatu testua orrialdean">
+<!ENTITY findToolbarCmd.tooltip "Bilatu testua orrian">
 <!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Egiaztatu hautapenaren ortografia edo orrialdea osoaren ortografia">
+<!ENTITY spellToolbarCmd.tooltip "Egiaztatu hautapenaren ortografia edo orri osoaren ortografia">
 <!ENTITY imageToolbarCmd.label "Irudia">
 <!ENTITY imageToolbarCmd.tooltip "Txertatu irudi berria edo aldatu hautatutako irudiaren propietateak">
 <!ENTITY hruleToolbarCmd.label "Lerro horizontala">
