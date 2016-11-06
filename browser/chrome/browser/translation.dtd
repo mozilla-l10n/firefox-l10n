@@ -72,4 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-<!ENTITY translation.options.attribution.yandexTranslate "ขับเคลื่อนโดย Yandex การแปล">
+<!ENTITY translation.options.attribution.yandexTranslate "ขับเคลื่อนโดย Yandex.Translate">
