@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "Z">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronizatu">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Berritu egutegiak eta sinkronizatu aldaketak">
 <!ENTITY lightning.toolbar.delete.label "Ezabatu">
 
 <!ENTITY lightning.toolbar.edit.label "Editatu">
