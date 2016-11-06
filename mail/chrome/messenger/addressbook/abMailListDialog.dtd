@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mailListWindow.title "Lista de correo">
+<!ENTITY mailListWindowAdd.title "Nueva lista de correo">
 <!ENTITY addToAddressBook.label "Añadir a: ">
 <!ENTITY ListName.label "Nombre de lista: ">
 <!ENTITY ListNickName.label "Apodo de lista: ">
