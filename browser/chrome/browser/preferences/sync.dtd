@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "ตั้งค่า &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ของคุณระหว่างอุปกรณ์ทั้งหมดของคุณ">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ, ที่คั่นหน้า, รหัสผ่าน และแท็บที่เปิดไว้ของคุณระหว่างอุปกรณ์ทั้งหมดของคุณ">
 
 <!-- The page shown when logged in... -->
 
@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "กำลังใช้งาน Sync รุ่นเก่ากว่า?">
 
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
-<!ENTITY signedOut.description        "ประสานที่คั่นหน้า ประวัติ แท็บ รหัสผ่าน ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
+<!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
 <!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
