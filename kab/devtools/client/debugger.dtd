@@ -22,12 +22,12 @@
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.label "Aɣbalu agi iţusers di tnaka taberkant: Agazen ines n uzgu rermden, u yeǧǧaṭ uselken asurif s usurif.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Aɣbalu-yagi ittusers di tnaka taberkant: Agazen-ines n uzgu rermden, u yeǧǧaṭ uselken asurif s usurif.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "KKsed aɣbalu agi si tnaka taberkant">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "KKsed aɣbalu-yagi si tnaka taberkant">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 

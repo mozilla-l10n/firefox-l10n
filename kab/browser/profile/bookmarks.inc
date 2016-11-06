@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder Afeggag u&dmawan
 
 
-#define bookmarks_toolbarfolder_description Rnu ticraḍ n isebtar ukaram-agi i wakken a ten-twaliḍ ɣef ufeggag udmawan
+#define bookmarks_toolbarfolder_description Rnu ticraḍ n isebtar i ukaram-agi i wakken ad ten-twaliḍ ɣef ufeggag udmawan
 
 
 # LOCALIZATION NOTE (getting_started):
