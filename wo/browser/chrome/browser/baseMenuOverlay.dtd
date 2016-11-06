@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Wàññi">
+<!ENTITY minimizeWindow.label     "Tuutil">
 <!ENTITY bringAllToFront.label    "Indi lépp ci kanam">
 <!ENTITY zoomWindow.label         "Rëyal">
 <!ENTITY windowMenu.label         "Palanteer">
 
 <!ENTITY helpMenu.label           "Ndimbal"> 
-<!ENTITY helpMenu.accesskey       "d"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndimbal"> 
@@ -31,21 +31,24 @@
 <!ENTITY healthReport2.label      "Xibaari wér-gi-yaramu &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Xibaari depaane">
-<!ENTITY helpTroubleshootingInfo.accesskey  "X">
+<!ENTITY helpTroubleshootingInfo.label      "Xibaari dëng-dëng">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Joxe sa xalaat…">
-<!ENTITY helpFeedbackPage.accesskey  "J">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour2.label            "Wëraalu ci &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Taamu yi…">
+<!ENTITY preferencesCmdMac.label        "Taamu...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Sarwiis yi">
+<!ENTITY servicesMenuMac.label          "Liggéey">
 
+<!ENTITY hideThisAppCmdMac2.label       "Nëbb &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Nëbb yeneen yi">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Wane lépp">
+<!ENTITY showAllAppsCmdMac.label        "Wone lépp">

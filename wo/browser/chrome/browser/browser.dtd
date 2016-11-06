@@ -13,25 +13,39 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Njoowum biir)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Njoowug sutura)">
 
+<!ENTITY appmenu.tooltip                     "Ubbi njël li">
+<!ENTITY navbarOverflow.label                "Yeneeni jumtukaay...">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Yeesal koñ bi">
-<!ENTITY  reloadTab.accesskey                "o">
+<!ENTITY  reloadTab.label                    "Yeesal Làcc wi">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Yeesal Làcc yépp">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Tëj Làcc wi ci ndijoor">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeOtherTabs.label               "Tëj Làcc yépp">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Tappal koñ bi">
+<!ENTITY  pinTab.label                       "Caabi Làcc wi">
 <!ENTITY  pinTab.accesskey                   "T">
-<!ENTITY  unpinTab.label                     "Bayyi koñ bi">
-<!ENTITY  unpinTab.accesskey                 "B">
+<!ENTITY  unpinTab.label                     "Caabeedi Làcc wi">
+<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Yónnee Làcc wi ab jumtukaay">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "Yónnee Xët wi ab jumtukaay">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Yónnee Lëkkalekaay bi ab jumtukaay">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Randal mu jëm ci palanteer bu bees">
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  closeTab.label                     "Tëj koñ bi">
