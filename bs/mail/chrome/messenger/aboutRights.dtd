@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-
-
-
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "O vašim pravima">
+<!ENTITY rights.intro-header     "O vašim pravima">
+<!ENTITY rights.intro "&brandFullName; je besplatan softver otvorenog koda, kojeg je razvila zajednica hiljada ljudi iz cijelog svijeta. Postoji nekoliko stvari koje trebate znati:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,14 +15,21 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
+<!ENTITY rights.intro-point1a "&brandShortName; vam je dostupan pod uslovima ">
+<!ENTITY rights.intro-point1b "Mozilla Public licence">
+<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati &brandShortName; drugima.  Također smijete mijenjati izvorni kod &brandShortName;a prema vašim potrebama. Mozilla Public licenca vam daje pravo da distribuirate vaše modificirane verzije.">
 
-
-
-
+<!ENTITY rights.intro-point2a "Nisu vam odobrena nikakva prava na Mozilla i Thunderbird zaštitne znakove ili logo. Dodatne informacije o zaštitnim znakovima možete naći ">
+<!ENTITY rights.intro-point2b "ovdje">
+<!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-
+<!ENTITY rights.intro-point3a "Police privatnosti za &vendorShortName; proizvode se mogu naći ">
+<!ENTITY rights.intro-point3b "ovdje">
+<!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Bilo koja primjenjiva polica privatnosti za ovaj proizvod bi trebala biti izlistana ovdje.">
 <!-- point 4 text for official branded builds -->
 
 

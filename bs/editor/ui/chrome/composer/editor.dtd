@@ -5,36 +5,49 @@
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
 
 
+<!ENTITY compositionToolbar.tooltip "Alatna traka sastavljanja">
+<!ENTITY previewToolbarCmd.label "Pregled">
+<!ENTITY previewToolbarCmd.tooltip "Učitaj ovu stranicu u browseru">
 <!-- File menu items -->
 
-
-
-
-
+<!ENTITY exportToTextCmd.label "Izvoz u tekst…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Pregledaj stranu">
+<!ENTITY previewCmd.accesskey "g">
+<!ENTITY sendPageCmd.label "Pošalji stranu…">
+<!ENTITY sendPageCmd.accesskey "a">
 <!-- View menu items -->
 
-
-
-
-
+<!ENTITY compositionToolbarCmd.label "Alatna traka sastavljanja">
+<!ENTITY compositionToolbarCmd.accesskey "s">
+<!ENTITY formattingToolbarCmd.label "Alatna traka formatiranja">
+<!ENTITY formattingToolbarCmd.accesskey "f">
+<!ENTITY editmodeToolbarCmd.label "Alatna traka režima uređivanja">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 <!-- Format menu items -->
 
-
-
-
-
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Mreža pozicioniranja">
+<!ENTITY grid.accesskey "z">
+<!ENTITY pageProperties.label "Naslov stranice i postavke…">
+<!ENTITY pageProperties.accesskey "N">
 <!-- Tools menu items -->
 
+<!ENTITY validateCmd.label "Validacija HTML-a">
+<!ENTITY validateCmd.accesskey "V">
 <!-- Display Mode toolbar and View menu items -->
 
+<!ENTITY NormalModeTab.label "Normalno">
+<!ENTITY NormalMode.label "Normalni režim uređivanja">
+<!ENTITY NormalMode.accesskey "N">
 
-
-
+<!ENTITY AllTagsModeTab.label "HTML tagovi">
 
 
 
