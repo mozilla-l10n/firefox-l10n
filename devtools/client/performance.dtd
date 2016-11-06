@@ -17,6 +17,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Deshabilitóse la grabación en tiempu real en Firefox non multiprocesu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -52,16 +53,20 @@
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "El porcentaxe gastáu de tiempu nesta función y les funciones a les que llama.">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "El porcentaxe gastáu de tiempu namái dientro d'esta función.">
 <!ENTITY performanceUI.table.samples                  "Amueses">
+<!ENTITY performanceUI.table.samples.tooltip          "El númberu de vegaes qu'esta función tuvo nel stack cuando'l perfilador tomo una amuesa.">
 <!ENTITY performanceUI.table.function                 "Función">
+<!ENTITY performanceUI.table.function.tooltip         "El nome y allugamientu fonte de la función que se tomó.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "Configurar les preferencies de rindimientu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!ENTITY performanceUI.invertTree             "Invertir árbole de llamaes">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
@@ -69,6 +74,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Amosar datos de la plataforma Gecko">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
@@ -81,14 +87,20 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Grabar memoria">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Grabar consumu de memoria entrín se perfila.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "Grabar allugamientos">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Grabar allugamientos d'oxetos entrín se perfila.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "Grabar tasa de frames">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Grabar tasa de frames entrín se perfila.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
@@ -100,4 +112,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "Parar grabación introduciendo">
 <!ENTITY performanceUI.console.stopCommandEnd   "na consola.">
