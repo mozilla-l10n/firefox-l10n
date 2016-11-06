@@ -67,7 +67,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
 <!ENTITY languages.customize.Fallback2.label      "Asettengel n uḍris n ufran aneggaru:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Asettengel agi n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
+<!ENTITY languages.customize.Fallback2.desc       "Asettengel-agi n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

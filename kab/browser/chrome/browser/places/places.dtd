@@ -41,11 +41,11 @@
 <!ENTITY cmd.restoreFromFile.label      "Fren afaylu…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.bookmarkLink.label         "Creḍ asebter agi…">
+<!ENTITY cmd.bookmarkLink.label         "Creḍ asebter-agi…">
 <!ENTITY cmd.bookmarkLink.accesskey     "C">
-<!ENTITY cmd.delete.label               "Kkes asebter agi">
+<!ENTITY cmd.delete.label               "Kkes asebter-agi">
 <!ENTITY cmd.delete.accesskey           "K">
-<!ENTITY cmd.deleteDomainData.label     "Ţu asmel agi">
+<!ENTITY cmd.deleteDomainData.label     "Ttu asmel-agi">
 <!ENTITY cmd.deleteDomainData.accesskey "a">
 
 <!ENTITY cmd.open.label                  "Ldi">

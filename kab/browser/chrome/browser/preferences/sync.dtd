@@ -43,7 +43,7 @@
 <!ENTITY changeSyncDeviceName.label "Snifel isem n wallal…">
 <!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
 <!ENTITY saveChangeSyncDeviceName.label "Kles">
-<!ENTITY unlinkDevice.label           "Kkes allal agi">
+<!ENTITY unlinkDevice.label           "Kkes allal-agi">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Tiwtilin n useqdec">
@@ -75,7 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "Sefrek imiḍanen">
 <!ENTITY disconnect.label            "Tuffɣa…">
 <!ENTITY verify.label                "Senqed tansa yinek imayl">
-<!ENTITY forget.label                "Ttu tansa agi imayl">
+<!ENTITY forget.label                "Ttu tansa-agi imayl">
 
 <!ENTITY welcome.description "Kcem ɣer iccaren-ik, ticraḍ n isebtaren, awalen uffiren d wayen yugaren aya seg yal ibenk i tseqdaceḍ &brandShortName;.">
 <!ENTITY welcome.signIn.label "Kcem">

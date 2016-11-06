@@ -43,7 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Snifel ismenyifen i yisumar n umsedday n unadi…">
 <!ENTITY  suggestionSettings.accesskey  "n">
 
-<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yismal agi">
+<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yismal-agi">
 <!ENTITY  acceptCookies.accesskey       "Q">
 
 <!ENTITY  acceptThirdParty.pre.label      "Qbel inagan n tuqqna n wis kraḍ:">
@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "I">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
-<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray agi">
+<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-agi">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yismal yettwarzan.">
