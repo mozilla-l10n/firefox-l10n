@@ -4,5 +4,8 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
-
+<!ENTITY mailViewSetupTitle.label "Postavke prikaza poruke">
+<!ENTITY mailViewHeading.label "Naziv prikaza poruke:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Kada je izabran ovaj prikaz, prikaži samo poruke koje:">
 

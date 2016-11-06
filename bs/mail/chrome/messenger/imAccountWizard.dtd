@@ -2,24 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle.label            "Čarobnjak Chat računa">
+
+<!ENTITY accountProtocolTitle.label   "Mreža za Chat">
+<!ENTITY accountProtocolInfo.label    "Izaberite mrežu vašeg chat računa.">
+<!ENTITY accountProtocolField.label   "Mreža:">
+<!ENTITY accountProtocolGetMore.label "Dobavi još…">
+
+<!ENTITY accountUsernameTitle.label   "Korisničko ime">
+<!ENTITY accountUsernameDuplicate.label "Ovaj račun je već podešen!">
+
+<!ENTITY accountPasswordTitle.label   "Lozinka">
+
+<!ENTITY accountPasswordField.label   "Lozinka:">
 
 
+<!ENTITY accountAdvancedTitle.label   "Napredne opcije">
+<!ENTITY accountAdvancedInfo.label    "Možete preskočiti ovaj korak ukoliko želite.">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY accountAliasGroupbox.caption "Lokalni alias">
+<!ENTITY accountAliasField.label      "Alias:">
+<!ENTITY accountAliasInfo.label       "Ovo će biti prikazano u vašim razgovorima dok pričate, vanjski kontakti ovo neće vidjeti.">
+<!ENTITY accountProxySettings.caption "Proxy postavke">
+<!ENTITY accountProxySettings.change.label     "Promjeni…">
+<!ENTITY accountProxySettings.change.accessKey "P">
 
 
 
