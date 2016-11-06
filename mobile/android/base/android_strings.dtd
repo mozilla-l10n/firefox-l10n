@@ -316,7 +316,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานการอนุญาต \u0027วาดทับแอปอื่นๆ\u0027 สำหรับ &brandShortName;">
+<!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานการอนุญาต \&apos;วาดทับแอปอื่นๆ\&apos; สำหรับ &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync2 "ลงชื่อเข้า">
-<!ENTITY pref_sync_summary2 "ซิงค์แท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
+<!ENTITY pref_sync_summary2 "ซิงค์แท็บ, ที่คั่นหน้า, การเข้าสู่ระบบ และประวัติของคุณ">
 <!ENTITY pref_search_suggestions "แสดงคำแนะนำการค้นหา">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ดำเนินการต่อ">
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
-<!ENTITY new_guest_session_text2 "บุคคลที่ใช้งานจะไม่สามารถเห็นข้อมูลการท่องเว็บส่วนบุคคลใด ๆ ของคุณ (อย่างการเข้าสู่ระบบที่บันทึกไว้ ประวัติ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จ ข้อมูลการท่องเว็บของเขาจะถูกลบและวาระของคุณจะถูกเรียกคืน">
+<!ENTITY new_guest_session_text2 "บุคคลที่ใช้งานจะไม่สามารถเห็นข้อมูลการท่องเว็บส่วนบุคคลใด ๆ ของคุณ (อย่างการเข้าสู่ระบบที่บันทึกไว้, ประวัติ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จ ข้อมูลการท่องเว็บของเขาจะถูกลบและวาระของคุณจะถูกเรียกคืน">
 <!ENTITY guest_browsing_notification_title "การท่องเว็บสำหรับผู้มาเยือนถูกเปิดใช้งาน">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
@@ -787,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 <!ENTITY restrictable_feature_clear_history_description "อนุญาตให้สมาชิกในครอบครัวลบข้อมูลเกี่ยวกับไซต์และหน้าที่พวกเขาเยี่ยมชม">
 <!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
-<!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า การเรียกคืนแท็บ และการปรับปรุงอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
+<!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า, การเรียกคืนแท็บ และการปรับปรุงอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
 <!ENTITY restrictable_feature_camera_microphone_description "อนุญาตให้สมาชิกในครอบครัวมีส่วนร่วมในการสื่อสารตามเวลาจริงบนเว็บไซต์">
 <!ENTITY restrictable_feature_block_list "รายการการปิดกั้น">
@@ -808,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1; &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
+<!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1;, &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
 
 <!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการปรับปรุงอีกต่อไป">
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
