@@ -60,14 +60,14 @@
 
 <!ENTITY pairDevice.title.label             "Cudd ɣer wallal/ibenk">
 <!ENTITY addDevice.showMeHow.label          "Mli yid amek?">
-<!ENTITY addDevice.dontHaveDevice.label     "Ulac yidi ibenk agi">
+<!ENTITY addDevice.dontHaveDevice.label     "Ulac yidi ibenk-agi">
 <!ENTITY pairDevice.setup.description.label  "Akken ad irmed, fren &quot;Sdukel ibenk&quot; ɣef yibenk inek nniḍen.">
-<!ENTITY addDevice.setup.enterCode.label    "Sakin, sekcem tangalt agi:">
+<!ENTITY addDevice.setup.enterCode.label    "Sakin, sekcem tangalt-agi:">
 <!ENTITY pairDevice.dialog.description.label "Akken ad irmed yibenk inek amaynut, fren &quot;Swel amtawi&quot; ɣef yibenk.">
 <!ENTITY addDevice.dialog.enterCode.label   "Sekcem tangalt ik d-yefka yibenk">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ɛreḍ tikelt nniḍen.">
 <!ENTITY addDevice.dialog.successful.label  "Ibenk yerna. Yezmer d akken amtawi amezwaru ad yeṭṭef deqs n tesdatin u ad ifak deg ugilal.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Akken ad irmed yibenk agi, tesriḍ ad tsekcmeḍ tasarutt n tririt. Ma ulac aɣilif seggez-itt neɣ sekles-itt akken ad tili ɣef afus.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Akken ad irmed yibenk-agi, tesriḍ ad tsekcmeḍ tasarutt n tririt. Ma ulac aɣilif seggez-itt neɣ sekles-itt akken ad tili ɣef afus.">
 <!ENTITY addDevice.dialog.connected.label   "Ibenk yeqqen">
 <!-- Existing Account Page 2: Manual Login -->
 
@@ -96,19 +96,19 @@
 <!ENTITY engine.addons.label        "Izegrar">
 <!ENTITY engine.addons.accesskey    "z">
 
-<!ENTITY choice2a.merge.main.label       "Smezdi isefka n yibenk agi d wid n &syncBrand.shortName.label;-iw">
+<!ENTITY choice2a.merge.main.label       "Smezdi isefka n yibenk-agi d wid n &syncBrand.shortName.label; ">
 <!ENTITY choice2.merge.recommended.label "Ihul:">
-<!ENTITY choice2a.client.main.label      "Semselsi akk isefka n yibenk agi s wid n &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "Semselsi akk isefka n ibenkan-iw nniḍen akked wid n yibenk agi">
+<!ENTITY choice2a.client.main.label      "Semselsi akk isefka n yibenk-agi s wid n &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Semselsi akk isefka n ibenkan-iw nniḍen akked wid n yibenk-agi">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Sentem">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ad ihul tura akk isefka n iminig n yibenk agi d wid n umiḍan n umtawi.">
-<!ENTITY confirm.client3.label         "Ɣur-k : isefka yagi n &brandShortName; ɣef yibenk agi ad ţwakksen:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; ad inɣel sakin isefka-ik n &syncBrand.fullName.label; ɣer yibenk agi.">
-<!ENTITY confirm.server2.label         "Alɣu: Isefka n ibenkan agi ad ttwasfeɛjen s isefka-ik idiganen :">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ad ihul tura akk isefka n iminig n yibenk-agi d wid n umiḍan n umtawi.">
+<!ENTITY confirm.client3.label         "Ɣur-k : isefka-yagi n &brandShortName; ɣef yibenk-agi ad ittwakksen:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; ad inɣel sakin isefka-ik n &syncBrand.fullName.label; ɣer yibenk-agi.">
+<!ENTITY confirm.server2.label         "Alɣu: Isefka n ibenkan-agi ad ttwasfeɛjen s isefka-ik idiganen :">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Tawila temmed">
-<!ENTITY changeOptions.label "Tzemreḍ aţsnifleḍ asmenyif agi s ufran n iɣewwaṛen agi n umtawi.">
+<!ENTITY changeOptions.label "Tzemreḍ ad tsnifleḍ asmenyif-agi s ufran n iɣewwaṛen-agi n umtawi.">
 <!ENTITY continueUsing.label "Tzemreḍ tura ad tkemmleḍ aseqdec amagnu n &brandShortName;.">

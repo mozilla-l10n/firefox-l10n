@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "Igguma ad iqqen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Tansa agi tegdel">
+<!ENTITY deniedPortAccess.title "Tansa-yagi tegdel">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ulac tansa n uqeddac">
@@ -28,25 +28,25 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.</li></ul>">
 
 <!ENTITY generic.title "Ayhu.">
-<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter agi.</p>">
+<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
 
-<!ENTITY malformedURI.title "Tansa agi ţarameɣtut">
+<!ENTITY malformedURI.title "Tansa-yagi d tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tuqqna terken">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Isemli yemmut">
-<!ENTITY notCached.longDesc "<p>Isemli ittusutren ulac it di tuffirt n &brandShortName;.</p><ul><li>Ilmendad n tɣellist, &brandShortName; ara s twurmant isemliyen imḥulfuyen.</li><li>Sit ɣef ɛreḍ i wesuter n isemli agi seg usmel web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Isemli ittusutren ulac it di tuffirt n &brandShortName;.</p><ul><li>Ilmendad n tɣellist, &brandShortName; ara s twurmant isemliyen imḥulfuyen.</li><li>Sit ɣef ɛreḍ i wesuter n isemli-yagi seg usmel web.</li></ul>">
 
 <!ENTITY netOffline.title "Askar war tuqqna">
 <!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur agi.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tawsit n ufaylu aranelkan">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur agi.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
 
 <!ENTITY netReset.title "Tuqqna teţuwennez tikelt nniḍen.">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -55,7 +55,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
-<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmired ad telidiḍ tawsit n tensa agi.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmired ad telidiḍ tawsit n tensa-yagi.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Aqeddac aseɣẓan agrayan yugi tuqqniwin.">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>Senqed iɣewwaṛen n useɣẓan agrayan ma llan d imeɣta.</li> <li>Nermes anebdal n uẓeṭṭa i wakken at waliḍ ma yella aqeddac aseɣẓan agrayan  iteddu.</li></ul>">
@@ -64,19 +64,19 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrayan ma llan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim inek t-ţeddu.</li> <li>Ma yella aselkim inek neɣ aẓeṭṭa inek iţummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Asebter ur iwehi ara akken iwata">
-<!ENTITY redirectLoop.longDesc "<ul><li>Ugur agi ahat yekk-ad si tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Ugur-agi ahat yekka-d si tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur tedda ara">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li><li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna yinek d taraɣelsant">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel nsen.  Iwakken ad ttummesten telɣut inek si tkwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel agi web.">
+<!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel nsen.  Iwakken ad ttummesten telɣut inek si tkwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-agi web.">
 
 <!ENTITY sharedLongDesc "<ul><li>Asmel-agi ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-saliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li><li>Ma yella aselkim inek neɣ aẓeṭṭa inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
 
@@ -84,7 +84,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur agi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">
@@ -93,7 +93,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Issin ugar…">
 
 <!ENTITY remoteXUL.title "XUL anmeggag">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur agi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ur yezmir ara ad yeqqen s tɣellist">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -113,7 +113,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTime "<p>Tuqqna taɣelsant ɣer <span id='wrongSystemTime_URL'/> ur tezmir ara ad teddu acku saɛa yinek ur d-skan ara akud iseḥḥan.</p> <p>Aselkim inek iqil d win i d akud <span id='wrongSystemTime_systemDate'/>, Ma yella d wa i d akud <span id='wrongSystemTime_actualDate'/>. Akken ad terfuḍ ugur, Snifeliɣawwaṛen n wazemz d wakud akken ɣer wakud iseḥan.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) i wakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i weselkin agi.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) i wakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i weselkin-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
 
 <!ENTITY inadequateSecurityError.title "Tuqqna yinek d taraɣelsant">
@@ -121,5 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>yesseqdac tatiknulujit yezrin ur yezmiren ara ad temmesten mgal azḍam. Azeddam yezmer ad yakker talɣut i tɣileḍ tettummesten. Anedbal n usmel yesra di tazwara ad yefru aqeddac send ad tinigeḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURIT</p>">
 
-<!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa yinek i d-yebbin ayagi. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
+<!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa yinek i d-yebbin ay-agi. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
