@@ -5,9 +5,9 @@
 <!ENTITY  updateWizard.title              "Anovamientu de &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; ta en mou ensin conexón">
-<!ENTITY  offline.description             "&brandShortName; necesita pasar a mou con conexón pa ver
-                                           si hai anovamientos disponibles pa facer los tos complementos
-                                           compatibles con esta versión.">
+<!ENTITY  offline.description             "&brandShortName; precisa tar en llinia pa ver si hai anovamientos
+                                           disponible pa los tos add-ons pa facelos compatible con esta
+                                           versión.">
 <!ENTITY  offline.toggleOffline.label     "Pasar a mou con conexón agora.">
 <!ENTITY  offline.toggleOffline.accesskey "P">
 
