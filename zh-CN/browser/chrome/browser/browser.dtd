@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
 <!ENTITY appMenuHelp.tooltip "打开帮助菜单">
 
-<!ENTITY appMenuRemoteTabs.label "同步的标签页">
+<!ENTITY appMenuRemoteTabs.label "受同步的标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "没有打开的标签页">
@@ -362,12 +362,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "还没有已同步的标签页！">
+<!ENTITY appMenuRemoteTabs.noclients.title "还没有同步过来的标签页！">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步服务首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
-<!ENTITY appMenuRemoteTabs.sidebar.label "查看已同步标签页侧栏">
+<!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
 
 <!ENTITY customizeMenu.addToToolbar.label "添加到工具栏">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -741,11 +741,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "浏览器标签页">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "同步的标签页">
+<!ENTITY syncTabsMenu3.label     "受同步的标签页">
 
-<!ENTITY syncedTabs.sidebar.label              "同步的标签页">
+<!ENTITY syncedTabs.sidebar.label              "受同步的标签页">
 <!ENTITY syncedTabs.sidebar.noclients.label    "在这里查看您在其他设备上登录的 Firefox 的标签页。">
-<!ENTITY syncedTabs.sidebar.noclients.title    "还没有已同步的标签页！">
+<!ENTITY syncedTabs.sidebar.noclients.title    "还没有同步过来的标签页！">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登录即可查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
