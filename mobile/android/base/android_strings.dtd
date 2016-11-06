@@ -130,7 +130,7 @@
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_general "ทั่วไป">
-<!ENTITY pref_category_general_summary3 "หน้าแรก ภาษา คิวแท็บ">
+<!ENTITY pref_category_general_summary3 "หน้าแรก, ภาษา, คิวแท็บ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -169,13 +169,13 @@
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-<!ENTITY pref_category_search_summary2 "เพิ่ม ตั้งค่าปริยาย แสดงคำแนะนำ">
+<!ENTITY pref_category_search_summary2 "เพิ่ม, ตั้งค่าปริยาย, แสดงคำแนะนำ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
-<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ซูม การรับค่าด้วยเสียง">
+<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร, ซูม, การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-<!ENTITY pref_category_privacy_summary4 "การตามรอย การเข้าสู่ระบบ ตัวเลือกข้อมูล">
+<!ENTITY pref_category_privacy_summary4 "การตามรอย, การเข้าสู่ระบบ, ตัวเลือกข้อมูล">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName; คำถามที่พบบ่อย ข้อคิดเห็น">
+<!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName;, คำถามที่พบบ่อย, ข้อคิดเห็น">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_category_logins "การเข้าสู่ระบบ">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
@@ -194,9 +194,9 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "การเรียกคืนแท็บ การประหยัดข้อมูล เครื่องมือนักพัฒนา">
+<!ENTITY pref_category_advanced_summary3 "การเรียกคืนแท็บ, การประหยัดข้อมูล, เครื่องมือนักพัฒนา">
 <!ENTITY pref_category_notifications "การแจ้งเตือน">
-<!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่ การปรับปรุงเว็บไซต์">
+<!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่, การปรับปรุงเว็บไซต์">
 <!ENTITY pref_content_notifications "การปรับปรุงเว็บไซต์">
 <!ENTITY pref_content_notifications_summary2 "ค้นพบเนื้อหาใหม่จากไซต์ที่รองรับ">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">

@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'ย้อนกลับไปยังการท่องเว็บ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'ยินดีต้อนรับสู่ &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'ลงชื่อเข้าเพื่อซิงค์แท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ'>
+<!ENTITY fxaccount_getting_started_description2 'ลงชื่อเข้าเพื่อซิงค์แท็บ, ที่คั่นหน้า, การเข้าสู่ระบบ และอื่น ๆ ของคุณ'>
 <!ENTITY fxaccount_getting_started_get_started 'เริ่มต้นใช้งาน'>
 <!ENTITY fxaccount_getting_started_old_firefox 'กำลังใช้งาน &syncBrand.shortName.label; รุ่นเก่ากว่า?'>
 
