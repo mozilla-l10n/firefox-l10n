@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Isfuyla imedlen melmi kan">
 <!ENTITY historyRestoreLastSession.label "Err-d tiɣimit izrin">
 
-<!ENTITY showAllHistoryCmd2.label "Sken amazray i maṛṛa">
+<!ENTITY showAllHistoryCmd2.label "Sken akk amazray">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Sagen">
@@ -346,7 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Ffeɣ seg aggan">
 <!ENTITY appMenuCustomizeExit.tooltip "Fak aggan">
 <!ENTITY appMenuHistory.label "Amazray">
-<!ENTITY appMenuHistory.showAll.label "Sken amazray i maṛṛa">
+<!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray inek n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit izrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
