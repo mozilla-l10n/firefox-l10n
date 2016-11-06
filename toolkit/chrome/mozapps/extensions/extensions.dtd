@@ -88,9 +88,9 @@
 <!ENTITY cmd.enableAddon.accesskey            "G">
 <!ENTITY cmd.disableAddon.label               "Desgaitu">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Jantzi gaia">
+<!ENTITY cmd.enableTheme.label                "Jantzi itxura">
 <!ENTITY cmd.enableTheme.accesskey            "J">
-<!ENTITY cmd.disableTheme.label               "Erantzi gaia">
+<!ENTITY cmd.disableTheme.label               "Erantzi itxura">
 <!ENTITY cmd.disableTheme.accesskey           "E">
 <!ENTITY cmd.askToActivate.label              "Galdetu aktibatzea">
 <!ENTITY cmd.askToActivate.tooltip            "Galdetu aldiro gehigarri hau erabiltzea">
@@ -120,7 +120,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Zer dira gehigarriak?">
-<!ENTITY discover.description2                "&brandShortName; aparteko funtzionaltasun edo estiloarekin pertsonalizatzeko aplikazioak dira gehigarriak. Proba ezazu denbora aurrezteko alboko barra bat, eguraldiaren jakinarazlea edo &brandShortName;(r)en itxura zeure egiteko gai bat.">
+<!ENTITY discover.description2                "&brandShortName; aparteko funtzionaltasun edo estiloarekin pertsonalizatzeko aplikazioak dira gehigarriak. Proba ezazu denbora aurrezteko alboko barra bat, eguraldiaren jakinarazlea edo &brandShortName;(r)en itxura zeure egiteko itxura bat.">
 <!ENTITY discover.footer                      "Internetera konektatuta zaudenean, panel honetan gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!-- detail view -->
 
