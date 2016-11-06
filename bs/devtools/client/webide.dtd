@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ako vas drugi uređaj traži token umjesto skeniranja QR koda, kopirajte navedenu vrijednost na drugi uređaj:">
-
+<!ENTITY wifi_auth_qr_size_note "Ukoliko se QR kod čini premalim za uspješnu uspostavu veze, pokušajte uvećati ili proširiti prozor.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-packaging command zapisnici">
@@ -213,6 +213,6 @@
 <!ENTITY simulator_device "Uređaj">
 <!ENTITY simulator_screenSize "Ekran">
 <!ENTITY simulator_pixelRatio "Odnos piksela">
-
+<!ENTITY simulator_tv_data "TV simulacija">
 <!ENTITY simulator_tv_data_open "Konfig podaci">
-
+<!ENTITY simulator_tv_data_open_button "Otvori konfiguracijski direktorij…">
