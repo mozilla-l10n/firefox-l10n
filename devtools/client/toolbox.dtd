@@ -134,6 +134,7 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.tooltip "เปิด/ปิดชุดตกแต่งเบราว์เซอร์ Developer Edition">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -141,7 +142,7 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "เปิดใช้งานตราเวลา">
+<!ENTITY options.timestampMessages.label      "เปิดใช้งานการประทับเวลา">
 <!ENTITY options.timestampMessages.tooltip    "ถ้าคุณเปิดใช้งานตัวเลือกคำสั่งนี้ การแสดงผลในเว็บคอนโซลจะแสดงตราเวลา">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
@@ -175,7 +176,7 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "แสดงข้อมูล Gecko platform">
+<!ENTITY options.showPlatformData.label    "แสดงข้อมูลแพลตฟอร์ม Gecko">
 <!ENTITY options.showPlatformData.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ รายงานตัวเก็บประวัติ JavaScript จะรวมสัญลักษณ์ของ Gecko platform เข้าไปด้วย">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor

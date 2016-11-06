@@ -136,10 +136,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+<!ENTITY netmonitorUI.footer.perf   "เปิด/ปิดการวิเคราะห์ประสิทธิภาพ…">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
-<!ENTITY netmonitorUI.panesButton.tooltip "Toggle network info">
+<!ENTITY netmonitorUI.panesButton.tooltip "เปิด/ปิดข้อมูลเครือข่าย">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
