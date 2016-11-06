@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Ezgaitu kontrol-lauki hau kontu honen posta bere direktorio propioan gordetzeko. Hau ezarriz gero, goi-mailako kontu bezala agertuko da. Bestela, karpeta lokaletako postontzi orokorraren parte izango da.">
 <!ENTITY deferStorage.label "Erabili postontzi orokorra (gorde posta karpeta lokaletan)">
 <!ENTITY deferStorage.accesskey "o">
-<!ENTITY clickFinish.label "Egin klik Amaitu botoian ezarpen hauek gorde eta morroitik irteteko.">
-<!ENTITY clickFinish.labelMac "Egin klik Eginda botoian ezarpen hauek gorde eta morroitik irteteko.">
+<!ENTITY clickFinish.label "Egin klik 'Amaitu' botoian ezarpen hauek gorde eta morroitik irteteko.">
+<!ENTITY clickFinish.labelMac "Egin klik 'Eginda' botoian ezarpen hauek gorde eta morroitik irteteko.">

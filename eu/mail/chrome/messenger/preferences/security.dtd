@@ -8,7 +8,7 @@
 
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.">
+<!ENTITY junkMail.intro "Ezarri zabor-postaren ezarpen lehenetsiak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.">
 <!ENTITY manualMark.label "Mezuak zabor gisa markatzen ditudanean:">
 <!ENTITY manualMark.accesskey "z">
 <!ENTITY manualMarkModeMove.label "Aldatu lekuz kontuaren &quot;Zaborra&quot; karpetara">

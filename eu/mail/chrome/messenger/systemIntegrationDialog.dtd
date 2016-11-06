@@ -6,13 +6,13 @@
 <!ENTITY acceptIntegration.label  "Ezarri lehenetsi gisa">
 <!ENTITY cancelIntegration.label  "Saltatu integrazioa">
 <!ENTITY cancelIntegration2.label  "Utzi">
-<!ENTITY defaultClient.intro  "Erabili &brandShortName; lehenetsitako bezero gisa honentzat:">
+<!ENTITY defaultClient.intro  "Erabili &brandShortName; bezero lehenetsi gisa honentzat:">
 
 <!ENTITY email.label "E-posta">
 <!ENTITY newsgroups.label "Berri-taldeak">
 <!ENTITY feeds.label "Jarioak">
 
-<!ENTITY unsetDefault.tooltip "Ezin da &brandShortName; barruan &brandShortName; lehenetsitako bezero gisa desezarri. Beste aplikazio bat lehenesteko erabili bere 'Ezarri lehenetsitako gisa' elkarrizketa-koadroa.">
+<!ENTITY unsetDefault.tooltip "Ezin da &brandShortName; barruan &brandShortName; bezero lehenetsi gisa desezarri. Beste aplikazio bat lehenesteko, erabili bere 'Ezarri lehenetsitako gisa' elkarrizketa-koadroa.">
 
 <!ENTITY checkOnStartup.label "Egiaztatu beti &brandShortName; abiaraztean">
 <!ENTITY checkOnStartup.accesskey "a">

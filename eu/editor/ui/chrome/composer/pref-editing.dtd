@@ -6,7 +6,7 @@
 
 <!ENTITY  authorName.label          "Egilea:">
 <!ENTITY  authorName.accesskey      "g">
-<!ENTITY  pageColorHeader           "Lehenetsitako orriaren itxura">
+<!ENTITY  pageColorHeader           "Orri lehenetsiaren itxura">
 
 <!ENTITY defaultColors.label        "Irakurlearen kolore lehenetsiak (ez ezarri kolorerik orrian)">
 <!ENTITY defaultColors.accesskey    "z">

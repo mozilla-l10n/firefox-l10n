@@ -254,8 +254,8 @@
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Laburpena">
 <!ENTITY viewFeedSummary.accesskey "n">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Lehenetsitako formatua">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "L">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formatu lehenetsia">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "l">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Bistaratu eranskinak barnean">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
