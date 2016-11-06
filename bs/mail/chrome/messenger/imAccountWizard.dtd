@@ -24,8 +24,9 @@
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Ovo će biti prikazano u vašim razgovorima dok pričate, vanjski kontakti ovo neće vidjeti.">
 <!ENTITY accountProxySettings.caption "Proxy postavke">
-<!ENTITY accountProxySettings.change.label     "Promjeni…">
+<!ENTITY accountProxySettings.change.label     "Promijeni…">
 <!ENTITY accountProxySettings.change.accessKey "P">
 
-
-
+<!ENTITY accountSummaryTitle.label   "Sažetak">
+<!ENTITY accountSummaryInfo.label    "Sažetak informacija koje ste unijeli je prikazan ispod. Provjerite ih prije kreiranja računa.">
+<!ENTITY accountSummary.connectNow.label "Poveži ovaj račun odmah.">

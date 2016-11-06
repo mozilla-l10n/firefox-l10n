@@ -2,15 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
+
+<!ENTITY mailListWindow.title           "Mailing lista">
 <!-- Labels -->
+<!ENTITY addToAddressBook.label         "Dodaj u: ">
 
-
-
+<!ENTITY ListName.label                 "Naziv liste: ">
+<!ENTITY ListNickName.label             "Nadimak liste: ">
+<!ENTITY ListDescription.label          "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
-
+<!ENTITY AddressTitle.label             "Upišite email adrese da biste ih dodali na mailing listu:">
+<!ENTITY UpButton.label                 "Pomjeri gore">
+<!ENTITY DownButton.label               "Pomjeri dolje">
 <!-- Access Keys -->
 
-
-
+<!ENTITY addToAddressBook.accesskey     "D">
+<!ENTITY ListName.accesskey             "l">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.accesskey      "O">
 
