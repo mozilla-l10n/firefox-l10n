@@ -207,9 +207,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "사이트 정보 보기">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "메시지 패널 열기">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "위치 요청 패널 열기">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "부가기능 설치 메시지 패널 열기">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "오프라인 저장소 메시지 패널 열기">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "저장된 비밀번호 메시지 패널 열기">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "사이트에서 알림을 수신할지 변경">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "사이트에서 카메라와 마이크를 사용할지 관리">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "사이트에서 마이크를 사용할지 관리">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "사이트에서 창이나 화면을 공유할지를 관리">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "설치 메시지 패널 열기">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "페이지 번역">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "페이지 번역 관리">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM 소프트웨어 사용 관리">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "이 사이트에서 카메라 사용을 차단하였습니다.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "이 사이트에서 마이크 사용을 차단하였습니다.">
+<!ENTITY urlbar.screenBlocked.tooltip            "이 사이트에서 화면 공유를 차단하였습니다.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "이 사이트에서 위치 정보 사용을 차단하였습니다.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "이 사이트에서 데이터 저장소 사용을 차단하였습니다.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "이 사이트에서 알림 사용을 차단하였습니다.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
 
@@ -455,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "새 창에 프레임 열기">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "새 컨테이너 탭에서 링크 열기">
+<!ENTITY openLinkCmdInContainerTab.label "새 포함 탭에서 링크 열기">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 보이기">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
