@@ -91,10 +91,13 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Amosar datos de la plataforma Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Amosar los datos de plataforma habilita los informes del perfilador de JavaScript pa incluyir símbolos de plataforma Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Amosar optimizaciones de JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Amuesa los datos d'optimización JIT recoyíos n'amuesa en cada frame de JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
