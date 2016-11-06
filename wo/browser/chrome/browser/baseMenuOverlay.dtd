@@ -5,7 +5,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Wàññi">
 <!ENTITY bringAllToFront.label    "Indi lépp ci kanam">
-<!ENTITY zoomWindow.label         "Yambalaŋ">
+<!ENTITY zoomWindow.label         "Rëyal">
 <!ENTITY windowMenu.label         "Palanteer">
 
 <!ENTITY helpMenu.label           "Ndimbal"> 
@@ -13,28 +13,29 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndimbal"> 
-<!ENTITY helpMenuWin.accesskey    "N">
-
-
-
-
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "Ñeel &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "Ndimbal ci &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "Ñalli arafukaay bi">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpSafeMode.label       "Tambaliwaat te doxadil yokkéef yi …">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Tambaliwaat te doxal yokkéef yi…">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY helpSafeMode.label       "Tambaliwaat ak modil yi suux…">
-<!ENTITY helpSafeMode.accesskey   "T">
-
-
-
-
+<!ENTITY healthReport2.label      "Xibaari wér-gi-yaramu &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Xibaari depaane">
 <!ENTITY helpTroubleshootingInfo.accesskey  "X">
 
 <!ENTITY helpFeedbackPage.label      "Joxe sa xalaat…">
 <!ENTITY helpFeedbackPage.accesskey  "J">
-
 
 
 <!ENTITY preferencesCmdMac.label        "Taamu yi…">
