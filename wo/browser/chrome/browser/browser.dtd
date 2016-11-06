@@ -46,26 +46,31 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Yónnee Lëkkalekaay bi ab jumtukaay">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  moveToNewWindow.label              "Randal mu jëm ci palanteer bu bees">
-<!ENTITY  moveToNewWindow.accesskey          "p">
-<!ENTITY  closeTab.label                     "Tëj koñ bi">
-<!ENTITY  closeTab.accesskey                 "T">
+<!ENTITY  moveToNewWindow.label              "Yóbb ci Palanteer bu Bees">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "Duggal Làcc yépp ci màndarga-xët yi...">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Tijjiwaat Làcc wiñ tëj">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Tëj Làcc wi">
+<!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "Lim koñ yépp">
+<!ENTITY  listAllTabs.label      "Lim Làcc yépp">
 
-<!ENTITY tabCmd.label "Koñ bu bees">
-<!ENTITY tabCmd.accesskey "K">
+<!ENTITY tabCmd.label "Làcc wu wees">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openFileCmd.label "Ubbi benn dencukaay…">
-<!ENTITY openFileCmd.accesskey "U">
+<!ENTITY openLocationCmd.label "Ubbi fa mu nekk...">
+<!ENTITY openFileCmd.label "Ubbi ab dencukaay…">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Lalinu xët…">
-<!ENTITY printSetupCmd.accesskey "L">
-<!ENTITY printPreviewCmd.label "Gisaane laata móol">
-<!ENTITY printPreviewCmd.accesskey "G">
+<!ENTITY printSetupCmd.label "Jekk-jekkali xët…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Gisandi laata móol">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Móol…">
 <!ENTITY printCmd.accesskey "M">
 <!ENTITY printCmd.commandkey "p">
