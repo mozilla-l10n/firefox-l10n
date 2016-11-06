@@ -88,10 +88,13 @@
 <!ENTITY  event.menu.options.label                            "Επιλογές">
 <!ENTITY  event.menu.options.accesskey                        "λ">
 <!ENTITY  event.menu.options.attendees.label                  "Πρόσκληση συμμετεχόντων…">
+<!ENTITY  event.menu.options.attendees.accesskey              "σ">
 <!ENTITY  event.menu.options.timezone2.label                  "Εμφάνιση ζωνών ώρας">
+<!ENTITY  event.menu.options.timezone2.accesskey              "ζ">
 <!ENTITY  event.menu.options.priority2.label                  "Προτεραιότητα">
 <!ENTITY  event.menu.options.priority2.accesskey              "Π">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Μη καθορισμένη">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "Μ">
 <!ENTITY  event.menu.options.priority.low.label               "Χαμηλή">
 <!ENTITY  event.menu.options.priority.low.accesskey           "Χ">
 <!ENTITY  event.menu.options.priority.normal.label            "Κανονική">
@@ -99,6 +102,7 @@
 <!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
 <!ENTITY  event.menu.options.priority.high.accesskey          "Υ">
 <!ENTITY  event.menu.options.privacy.label                    "Ιδιωτικότητα">
+<!ENTITY  event.menu.options.privacy.accesskey                "Ι">
 <!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "Δ">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Αποκάλυψη μόνο ώρας και ημερομηνίας">
@@ -106,10 +110,14 @@
 <!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτικό συμβάν">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "Ι">
 <!ENTITY  event.menu.options.show.time.label                  "Να εμφανίζομαι ως">
+<!ENTITY  event.menu.options.show.time.accesskey              "Ν">
 <!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "Α">
 <!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "Δ">
 
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
+<!ENTITY event.invite.attendees.accesskey                 "σ">
 <!ENTITY event.email.attendees.label                      "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς όλους τους συμμετέχοντες…">
 <!ENTITY event.email.tentative.attendees.label            "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς τους αναποφάσιστους συμμετέχοντες…">
 <!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
@@ -143,6 +151,7 @@
 <!ENTITY event.attendees.label                            "Συμμετέχοντες:" >
 <!ENTITY event.attendees.accesskey                        "μ">
 <!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
+<!ENTITY event.alldayevent.accesskey                      "Ο">
 <!ENTITY event.from.label                                 "Έναρξη:" >
 <!ENTITY event.from.accesskey                             "ν">
 <!ENTITY task.from.label                                  "Έναρξη:" >
