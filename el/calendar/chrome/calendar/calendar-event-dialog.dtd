@@ -33,27 +33,39 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Ειδοποίηση συμμετεχόντων">
 <!ENTITY event.attendees.notifyundisclosed.label    "Χωριστή πρόσκληση ανά συμμετέχοντα">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "Χ">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
 
 <!-- Keyboard Shortcuts -->
 
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Νέο">
+<!ENTITY  event.menu.item.new.accesskey                   "Ν">
 <!ENTITY  event.menu.item.new.event.label                 "Συμβάν">
+<!ENTITY  event.menu.item.new.event.accesskey             "Σ">
 <!ENTITY  event.menu.item.new.task.label                  "Εργασία">
-<!ENTITY  event.menu.item.new.task.accesskey              "α">
+<!ENTITY  event.menu.item.new.task.accesskey              "Ε">
 <!ENTITY  event.menu.item.new.message.label               "Μήνυμα">
+<!ENTITY  event.menu.item.new.message.accesskey           "Μ">
 <!ENTITY  event.menu.item.new.contact.label               "Επαφή βιβλίου διευθύνσεων">
+<!ENTITY  event.menu.item.new.contact.accesskey           "φ">
 <!ENTITY  event.menu.item.close.label                     "Κλείσιμο">
+<!ENTITY  event.menu.item.close.accesskey                 "Κ">
 <!ENTITY  event.menu.item.save.label                      "Αποθήκευση">
+<!ENTITY  event.menu.item.save.accesskey                  "Α">
 <!ENTITY  event.menu.item.saveandclose.label              "Αποθήκευση και κλείσιμο">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "θ">
 <!ENTITY  event.menu.item.delete.label                    "Διαγραφή…">
+<!ENTITY  event.menu.item.delete.accesskey                "Δ">
 <!ENTITY  event.menu.item.page.setup.label                "Διαμόρφωση σελίδας">
+<!ENTITY  event.menu.item.page.setup.accesskey            "μ">
 <!ENTITY  event.menu.item.print.label                     "Εκτύπωση">
+<!ENTITY  event.menu.item.print.accesskey                 "Ε">
 
 <!ENTITY  event.menu.edit.label                           "Επεξεργασία">
 <!ENTITY  event.menu.edit.accesskey                       "Ε">
 <!ENTITY  event.menu.edit.undo.label                      "Αναίρεση">
+<!ENTITY  event.menu.edit.undo.accesskey                  "ρ">
 <!ENTITY  event.menu.edit.cut.label                       "Αποκοπή">
 <!ENTITY  event.menu.edit.cut.accesskey                   "κ">
 <!ENTITY  event.menu.edit.copy.label                      "Αντιγραφή">
@@ -63,15 +75,22 @@
 <!ENTITY  event.menu.edit.select.all.label                "Επιλογή όλων">
 
 <!ENTITY  event.menu.view.label                           "Προβολή">
+<!ENTITY  event.menu.view.accesskey                       "Π">
 <!ENTITY  event.menu.view.toolbars.label                  "Γραμμές εργαλείων">
+<!ENTITY  event.menu.view.toolbars.accesskey              "Γ">
 <!ENTITY  event.menu.view.toolbars.event.label            "Γραμμή εργαλείων γεγονότος">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "Γ">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Προσαρμογή…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "Π">
 <!ENTITY  event.menu.view.showlink.label                  "Εμφάνιση σχετικού συνδέσμου">
+<!ENTITY  event.menu.view.showlink.accesskey              "Ε">
 
 <!ENTITY  event.menu.options.label                            "Επιλογές">
+<!ENTITY  event.menu.options.accesskey                        "λ">
 <!ENTITY  event.menu.options.attendees.label                  "Πρόσκληση συμμετεχόντων…">
 <!ENTITY  event.menu.options.timezone2.label                  "Εμφάνιση ζωνών ώρας">
 <!ENTITY  event.menu.options.priority2.label                  "Προτεραιότητα">
+<!ENTITY  event.menu.options.priority2.accesskey              "Π">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Μη καθορισμένη">
 <!ENTITY  event.menu.options.priority.low.label               "Χαμηλή">
 <!ENTITY  event.menu.options.priority.low.accesskey           "Χ">
