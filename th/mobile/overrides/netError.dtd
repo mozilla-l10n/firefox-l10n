@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "เกิดปัญหาในการโหลดหน้า">
 <!ENTITY retry.label "ลองอีกครั้ง">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -22,10 +22,10 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>ตรวจสอบข้อผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์ของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
-<!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย, เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก, ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
 
 <!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "การเชื่อมต่อปลอดภัยล้มเหลว">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>สิ่งนี้อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
 <!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้นหากคุณกำลังใช้งานการเชื่อมต่ออินเทอร์เน็ตที่คุณไม่เชื่อถือโดยสมบูรณ์ หรือหากคุณไม่เคยเห็นคำเตือนสำหรับเซิร์ฟเวอร์นี้</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
