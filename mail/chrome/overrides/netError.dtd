@@ -75,7 +75,7 @@
 <!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orrialde hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukiaren errorea">
 

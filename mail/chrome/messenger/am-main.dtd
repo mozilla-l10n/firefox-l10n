@@ -7,7 +7,7 @@
 <!ENTITY accountTitle.label "Kontu-ezarpenak">
 <!ENTITY accountName.label "Kontuaren izena:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY identityTitle.label "Lehenetsitako identitatea">
+<!ENTITY identityTitle.label "Identitate lehenetsia">
 <!ENTITY identityDesc.label "Kontu bakoitzak identitate bat du, besteen aurrean identifikatzen zaituen informazioa duena zure mezuak jasotzen dituztenean.">
 <!ENTITY name.label "Zure izena:">
 <!ENTITY name.accesskey "Z">
@@ -39,4 +39,4 @@
 
 <!ENTITY smtpName.label "Irteerako SMTP zerbitzaria:">
 <!ENTITY smtpName.accesskey "o">
-<!ENTITY smtpDefaultServer.label "Erabili lehenetsitako zerbitzaria">
+<!ENTITY smtpDefaultServer.label "Erabili zerbitzari lehenetsia">

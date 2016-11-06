@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "u">
 
 <!ENTITY systemIntegration.label       "Sistemaren integrazioa">
-<!ENTITY alwaysCheckDefault.label      "Egiaztatu beti &brandShortName; lehenetsitako posta-bezeroa dela abiaraztean">
+<!ENTITY alwaysCheckDefault.label      "Egiaztatu beti &brandShortName; posta-bezero lehenetsia dela abiaraztean">
 <!ENTITY alwaysCheckDefault.accesskey  "g">
 <!ENTITY searchIntegration.label       "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
 <!ENTITY searchIntegration.accesskey   "B">

@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Segurtasuna">
 <!ENTITY securityHeading.label "Sinatutako edo zifratutako mezuak bidali eta jasotzeko, sinatzeko zein zifratzeko ziurtagiri digital bana zehaztu behar duzu.">
 <!ENTITY encryptionGroupTitle.label "Zifratzea">
-<!ENTITY encryptionChoiceLabel.label "Mezuak bidaltzerakoan lehenetsitako zifratze-ezarpenak:">
+<!ENTITY encryptionChoiceLabel.label "Mezuak bidaltzeko zifratze-ezarpen lehenetsiak:">
 <!ENTITY neverEncrypt.label "Inoiz ez (ez erabili zifratzerik)">
 <!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">

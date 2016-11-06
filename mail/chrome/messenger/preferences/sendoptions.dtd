@@ -15,7 +15,7 @@
 <!ENTITY sendHTML.accesskey           "s">
 <!ENTITY sendBoth.label               "Bidali mezua bai HTML eta testu arrunt gisa ere">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Oharra: Erabili helbide-liburua hartzaileen lehenetsitako testu-formatua ezartzeko.">
+<!ENTITY override.label               "Oharra: erabili helbide-liburua hartzaileen testu-formatu lehenetsa ezartzeko.">
 
 <!ENTITY domaindesc.label             "Behean zerrendatutako domeinu-izen batera mezu bat bidaltzean, &brandShortName;(e)k mezua formatu egokian bidaliko du automatikoki.">
 <!ENTITY HTMLTab.label                "HTML domeinuak">

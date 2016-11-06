@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName;(r)en modu segurua">
 <!ENTITY window.width                     "45em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; modu seguruan ari da exekutatzen eta behin-behinean zure ezarpen pertsonalizatuak, gaiak eta hedapenak desgaituko dira.">
+<!ENTITY safeModeDescription.label        "&brandShortName; modu seguruan ari da exekutatzen eta behin-behinean zure ezarpen pertsonalizatuak, itxurak eta hedapenak desgaituko dira.">
 <!ENTITY safeModeDescription2.label       "Ondorengo ekintzetatik batzuk betirako ezar ditzakezu:">
 
 <!ENTITY disableAddons.label              "Desgaitu gehigarri guztiak">
