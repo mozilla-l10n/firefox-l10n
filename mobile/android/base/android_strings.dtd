@@ -530,7 +530,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
+<!ENTITY pref_scroll_title_bar2 "Fullskärmssurfning">
 <!ENTITY pref_scroll_title_bar_summary2 "Dölj &brandShortName; verktygsfältet när du bläddrar ner en sida">
 
 <!ENTITY pref_tab_queue_title3 "Flik köad">
@@ -584,7 +584,7 @@ size. -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 enhet">
 <!ENTITY home_history_back_to2 "Tillbaka till fullständig Historik">
-<!ENTITY home_clear_history_button "Töm bläddringshistorik">
+<!ENTITY home_clear_history_button "Rensa webbläsarhistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
 <!ENTITY home_closed_tabs_title2 "Nyligen stängda">
