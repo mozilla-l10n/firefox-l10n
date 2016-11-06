@@ -22,13 +22,13 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.eus <strong>www</strong>.adibidea.eus-en ordez</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa. <button id='wifi'>Gaitu Wi-Fia</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi izenean maiuskula/minuskula edo bestelako akatsik dagoen.</li> <li>Egiaztatu fitxategia lekuz aldatu, izenez aldatu edo ezabatu den.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Fitxategi-atzipena ukatu egin da">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.</li> </ul>">
 
 <!ENTITY generic.title "Iepa.">
-<!ENTITY generic.longDesc "<p>&brandShortName;ek ezin du orria kargatu.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -69,7 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Egiaztatu zure gailuaren datu- edo WiFi-konexioa badabilela. <button id='wifi'>Gaitu Wi-Fia</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Orriak ez du berbideraketa ondo egiten">
+<!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Batzuetan arazo hau cookieak desgaitu edo ukatzeagatik da.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ustekabeko erantzuna zerbitzaritik">

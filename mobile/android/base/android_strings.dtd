@@ -99,7 +99,7 @@
 <!ENTITY history_older_section3 "6 hilabete baino zaharragoa">
 
 <!ENTITY search "Bilatu">
-<!ENTITY reload "Birkargatu">
+<!ENTITY reload "Berritu">
 <!ENTITY forward "Aurrera">
 <!ENTITY menu "Menua">
 <!ENTITY back "Atzera">
@@ -382,7 +382,7 @@ size. -->
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
 <!ENTITY pref_sync2 "Hasi saioa">
 <!ENTITY pref_sync_summary2 "Sinkronizatu zure fitxak, laster-markak, saio-hasierak, historia">
-<!ENTITY pref_search_suggestions "Erakutsi bilaketa-gomendioak">
+<!ENTITY pref_search_suggestions "Erakutsi bilaketa-iradokizunak">
 <!ENTITY pref_history_search_suggestions "Erakutsi bilaketen historia">
 <!ENTITY pref_import_options "Inportatzeko aukerak">
 <!ENTITY pref_import_android_summary "Inportatu laster-markak eta historia nabigatzaile natibotik">
@@ -673,7 +673,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Historia inportatzen Android-etik">
 <!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
 
-<!ENTITY suggestions_prompt3 "Bilaketa-gomendioak gaitu nahi dituzu?">
+<!ENTITY suggestions_prompt3 "Bilaketa-iradokizunak gaitu nahi dituzu?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
