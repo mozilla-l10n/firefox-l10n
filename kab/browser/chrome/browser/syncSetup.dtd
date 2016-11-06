@@ -49,7 +49,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "akken ad nqadeṛ tabaḍnit inek, akk isefka inek ad ttwagelhen send tuzna nsen ɣeṛ uqeddac. Tasarutt n tukksa n uwgelhen n isefka yinek ur tettwazan ara.">
 <!ENTITY recoveryKeyEntry.label        "Taasaruţ-ik n tririt">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "Sirew tasaruţ tamaynut">
+<!ENTITY syncGenerateNewKey.label  "Sirew tasarut tamaynut">
 <!ENTITY recoveryKeyBackup.description "Tasarutt inek n tririt tesra i wakken ad tkecmeḍ ɣeṛ &syncBrand.fullName.label; ɣef ibenkan nniḍen. Ma ulac aɣilif egg anɣel n uklas. Ur nezmir ara ak d-nefk tallalt i tririt ines.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Siggez…">
@@ -98,8 +98,8 @@
 
 <!ENTITY choice2a.merge.main.label       "Smezdi isefka n yibenk-agi d wid n &syncBrand.shortName.label; ">
 <!ENTITY choice2.merge.recommended.label "Ihul:">
-<!ENTITY choice2a.client.main.label      "Semselsi akk isefka n yibenk-agi s wid n &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "Semselsi akk isefka n ibenkan-iw nniḍen akked wid n yibenk-agi">
+<!ENTITY choice2a.client.main.label      "Semselsi akk isefka n yibenk-a s wid n &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Semselsi akk isefka n ibenkan-iw nniḍen akked wid n yibenk-a">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Sentem">

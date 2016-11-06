@@ -34,7 +34,7 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "Asebter-agi yettusuqel-d si">
+<!ENTITY translation.translatedFrom.label       "Asebtar-a yettusuqel-d seg">
 <!ENTITY translation.translatedTo.label         "to">
 <!ENTITY translation.translatedToSuffix.label   "">
 
