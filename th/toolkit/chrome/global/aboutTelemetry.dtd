@@ -54,7 +54,9 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ฮิสโทแกรมที่เก็บโดยส่วนเสริม">
 
-<!ENTITY aboutTelemetry.toggle "  คลิกเพื่อซ่อน/แสดง">
+<!ENTITY aboutTelemetry.toggle "
+  คลิกเพื่อเปิด/ปิดส่วน
+">
 
 <!ENTITY aboutTelemetry.emptySection "  (ไม่มีข้อมูลถูกเก็บ)">
 
