@@ -35,12 +35,12 @@
 <!ENTITY importItems.label              "Fren iferdisen ara yeţwaketren ">
 
 <!ENTITY migrating.title                "Aktar…">
-<!ENTITY migrating.label                "Iferdisen agi ad ţwaktaren aka tura…">
+<!ENTITY migrating.label                "Iferdisen-agi ad ttwaktaren aka tura…">
 
 <!ENTITY selectProfile.title            "Fren amaɣnu">
-<!ENTITY selectProfile.label            "Imaɣuten agi heggan i wakken ad ttwaketren seg:">
+<!ENTITY selectProfile.label            "Imaɣuten-agi heggan i wakken ad ttwaketren seg:">
 
 <!ENTITY done.title                     "Aktar immed">
-<!ENTITY done.label                     "Iferdisen agi ţwaketren akken iwata:">
+<!ENTITY done.label                     "Iferdisen-agi ttwaketren akken iwata:">
 
 <!ENTITY closeSourceBrowser.label       "Ma ulac aɣilif, wali ma yella iminig inek yemdel send ad tedduḍ deg umahil inek.">
