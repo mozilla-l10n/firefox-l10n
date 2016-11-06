@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "Bilaketa-motor lehenetsiko erlazionatutako bilaketak">
 <!ENTITY  locbar.searches.accesskey     "z">
 
-<!ENTITY  suggestionSettings.label      "Aldatu bilaketa-motorren gomendioetarako hobespenak…">
+<!ENTITY  suggestionSettings.label      "Aldatu bilaketa-motorren iradokizunetarako hobespenak…">
 <!ENTITY  suggestionSettings.accesskey  "d">
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
