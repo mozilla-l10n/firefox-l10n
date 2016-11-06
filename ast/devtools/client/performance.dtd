@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "El perfilador atroxa amueses nun búfer circular y namái que'l búfer algama la llende pa una grabación, les amueses nueves entamen a sobrescribir les vieyes nel entamu de la grabación.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -41,6 +42,8 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Saltadoriu">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Amuesa les operaciones diferentes que'l restolador ta faciendo na grabación, representándoles de mou secuencial como un saltadoriu.">
+<!ENTITY performanceUI.toolbar.js-calltree "Árbole de llamaes">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Resalta funciones de JavaScript u'l restolador gastó la mayor parte del tiempu na grabación.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allugamientos">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Amuesa u s'allugó la memoria na grabación.">
 
