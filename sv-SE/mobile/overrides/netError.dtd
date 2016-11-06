@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Servern hittades inte">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontrollera adressen för skrivfel t.ex. <strong>ww</strong>.example.com istället för  <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button> </div> <li>Om du inte kan öppna sidor, kolla enhetens data eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontrollera adressen efter skrivfel som t.ex. <strong>ww</strong>.example.com istället för <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button> </div> <li>Om du inte kan öppna sidor, kolla enhetens data eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
