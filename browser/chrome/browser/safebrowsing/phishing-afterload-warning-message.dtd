@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "¡Sácame d'equí!">
+<!ENTITY safeb.palm.accept.label "¡Sacáime d'equí!">
 <!ENTITY safeb.palm.decline.label "Inorar esta alvertencia">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
