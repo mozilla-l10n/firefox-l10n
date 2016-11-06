@@ -753,17 +753,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 
 <!ENTITY syncedTabs.context.open.label                       "เปิด">
-<!ENTITY syncedTabs.context.open.accesskey                   "ป">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "เปิดในแท็บใหม่">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ม">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "เปิดในหน้าต่างใหม่">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ใ">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "เปิดในหน้าต่างส่วนตัวใหม่">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ส">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "คั่นแท็บนี้…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ค">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "คัดลอก">
-<!ENTITY syncedTabs.context.copy.accesskey                   "ค">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -771,9 +771,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
-<!ENTITY syncSyncNowItem.accesskey    "ซ">
-<!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; อีกครั้ง…">
-<!ENTITY syncReAuthItem.accesskey     "เ">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ซิงค์">
 
 <!ENTITY social.addons.label "จัดการบริการ…">

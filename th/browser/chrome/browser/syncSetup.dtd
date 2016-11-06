@@ -53,9 +53,9 @@
 <!ENTITY recoveryKeyBackup.description "&syncBrand.fullName.label; ต้องการกุญแจกู้ข้อมูลของคุณในการใช้งานกับเครื่องอื่น โปรดสำรองกุญแจกู้ข้อมูลไว้ เราไม่สามารถช่วยคุณกู้กุญแจกู้ข้อมูลของคุณได้">
 
 <!ENTITY button.syncKeyBackup.print.label     "พิมพ์…">
-<!ENTITY button.syncKeyBackup.print.accesskey "พ">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "บันทึก…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "บ">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "จับคู่อุปกรณ์">
