@@ -28,5 +28,5 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "ไซต์หลอกลวง!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "หน้าเว็บนี้ที่ <span id='phishing_sitename'/> ถูกรายงานว่าเป็นไซต์หลอกลวงและถูกปิดกั้นตามการตั้งค่าความปลอดภัยของคุณ">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ไซต์หลอกลวงถูกออกแบบมาเพื่อหลอกล่อให้คุณทำบางอย่างที่อันตราย อย่างการติดตั้งซอฟต์แวร์ หรือเปิดเผยข้อมูลส่วนตัวของคุณอย่างรหัสผ่าน หมายเลขโทรศัพท์ หรือบัตรเครดิต</p><p>การป้อนข้อมูลใด ๆ ในหน้าเว็บนี้อาจส่งผลให้เกิดการโจรกรรมข้อมูลส่วนตัวหรือการฉ้อฉลอื่น</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ไซต์หลอกลวงถูกออกแบบมาเพื่อหลอกล่อให้คุณทำบางอย่างที่อันตราย อย่างการติดตั้งซอฟต์แวร์ หรือเปิดเผยข้อมูลส่วนตัวของคุณอย่างรหัสผ่าน, หมายเลขโทรศัพท์ หรือบัตรเครดิต</p><p>การป้อนข้อมูลใด ๆ ในหน้าเว็บนี้อาจส่งผลให้เกิดการโจรกรรมข้อมูลส่วนตัวหรือการฉ้อฉลอื่น</p>">
 
