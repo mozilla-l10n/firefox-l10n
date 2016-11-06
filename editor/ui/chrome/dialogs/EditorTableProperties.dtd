@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "Taularen ezkerraldean">
 <!ENTITY tableCaptionRight.label          "Taularen eskuinaldean">
 <!ENTITY tableCaptionNone.label           "Bat ere ez">
-<!ENTITY tableInheritColor.label           "(Orrialdearen kolorea hedatu)">
+<!ENTITY tableInheritColor.label           "(Hedatu orriaren kolorea)">
 
 <!ENTITY cellSelection.label              "Aukera">
 <!ENTITY cellSelectCell.label             "Gelaxka">

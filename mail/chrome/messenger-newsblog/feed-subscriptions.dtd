@@ -18,7 +18,7 @@
 <!ENTITY feedFolder.label            "Gorde artikuluak hemen:">
 <!ENTITY feedFolder.accesskey        "G">
 
-<!ENTITY quickMode.label             "Erakutsi artikuluaren laburpena web orrialdea kargatu ordez">
+<!ENTITY quickMode.label             "Erakutsi artikuluaren laburpena web orria kargatu ordez">
 <!ENTITY quickMode.accesskey         "E">
 
 <!ENTITY autotagEnable.label         "Sortu etiketak automatikoki &lt;kategorien&gt; izenetatik">
