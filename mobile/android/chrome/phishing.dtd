@@ -12,6 +12,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kelle njangu eotoo ko aafde topirɗe gujjirɗe humpito maa suraango, kuutoroo ordinateer maa ngam yande e woɗɓe, walla bonna yuɓɓo maa.</p><p>Yoga e kelle njangu ɗee ena cara topirɗe bonɗe e teyre, kono keewɗe ko bonnooje tawa jeyɗo-ɗe oo anndaa walla yamiraani.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Ngoo hello geese to <span id='phishing_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
