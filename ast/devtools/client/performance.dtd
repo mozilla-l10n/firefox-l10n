@@ -46,22 +46,32 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Resalta funciones de JavaScript u'l restolador gastó la mayor parte del tiempu na grabación.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allugamientos">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Amuesa u s'allugó la memoria na grabación.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "Gráficu de llamaes JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Amuesa la pila de llamaes nel cursu de la grabación.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Gráficu de llamaes d'allugamientos">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Tiempu total">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "La cantidá de tiempu gastada nesta función y les funciones a les que llama.">
+<!ENTITY performanceUI.table.selfDuration             "Tiempu individual">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "La cantidá de tiempu gastao namái nesta función.">
 <!ENTITY performanceUI.table.totalPercentage          "Costu total">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "El porcentaxe gastáu de tiempu nesta función y les funciones a les que llama.">
+<!ENTITY performanceUI.table.selfPercentage           "Costu individual">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "El porcentaxe gastáu de tiempu namái dientro d'esta función.">
 <!ENTITY performanceUI.table.samples                  "Amueses">
 <!ENTITY performanceUI.table.samples.tooltip          "El númberu de vegaes qu'esta función tuvo nel stack cuando'l perfilador tomo una amuesa.">
 <!ENTITY performanceUI.table.function                 "Función">
 <!ENTITY performanceUI.table.function.tooltip         "El nome y allugamientu fonte de la función que se tomó.">
+<!ENTITY performanceUI.table.totalAlloc               "Allugamientos totales d'amueses">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Númberu total d'allugamientos d'oxetos recoyíos n'amuesa nesti allugamientu y nes llamaes.">
+<!ENTITY performanceUI.table.selfAlloc                "Allugamientos individuales recoyíos n'amuesa">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "El númberu d'allugamientos d'oxetos recoyíos n'amuesa nesti allugamientu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Esbilla qué datos amosar na llinia temporal">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
@@ -70,9 +80,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Invertir árbole de llamaes">
+<!ENTITY performanceUI.invertTree.tooltiptext "Invertir l'árbole de llames amuesa los caminos de llamaes perfilaes dende los frames más nuevos y espandiendo los vieyos.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "Invertir gráfica de llamaes">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Invertir la gráfica de llamaes amuesa los caminos de llamaes perfilaes dende los frames más nuevos y espandiendo los vieyos.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
