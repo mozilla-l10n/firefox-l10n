@@ -150,7 +150,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
-<!ENTITY debuggerUI.condBreakPanelTitle "Agzu yagi n uzgu ad irken aselkem ma yella tanfalit agi d tuzɣant">
+<!ENTITY debuggerUI.condBreakPanelTitle "Agzu-yagi n uzgu ad irken aselkem ma yella tanfalit-agi d tuzɣant">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
