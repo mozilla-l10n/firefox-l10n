@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
-<!ENTITY performanceUI.bufferStatusFull "Takatut n weḥraz teččur. Alemmec aqbur atan ad ittwasfeḍ. ">
+<!ENTITY performanceUI.bufferStatusFull "Takatut n uḥraz teččur. Alemmec aqbur atan ad ittwasfeḍ. ">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
@@ -41,7 +41,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Acercur">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Isken-d timhalin iseqdac wuminig di lawan n usekles, atan ttwaskenen-d s wudem ulkim am ucercur">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Isken-d timhalin iseqdac yiminig deg lawan n usekles, atan ttwaskenen-d s wudem ulkim am ucercur">
 <!ENTITY performanceUI.toolbar.js-calltree "Aseklu n usiwel">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ad isebṛu req tiwuriwin Javascript anida iminig yettawi deqs n wakud deg usekles.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Isnasen">

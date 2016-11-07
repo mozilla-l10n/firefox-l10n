@@ -19,7 +19,7 @@
   -  This is the heading and body text for the CSS usage part of the report -->
 
 <!ENTITY csscoverage.unused "Ilugan ur nţuseqdac ara">
-<!ENTITY csscoverage.noMatches "Ulac timseḍriwin i yilugan agi:">
+<!ENTITY csscoverage.noMatches "Ulac timseḍriwin i yilugan-agi:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.header):
   -  This is the heading for the CSS optimization part of the report -->
 
@@ -44,4 +44,4 @@
 <!ENTITY csscoverage.footer1 "Wali">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "Amagrad MDN ɣef ufecku n tduli CSS">
-<!ENTITY csscoverage.footer4 "i wulɣuten yellan deg ussaɣ agi.">
+<!ENTITY csscoverage.footer4 "i wulɣuten yellan deg ussaɣ-agi.">

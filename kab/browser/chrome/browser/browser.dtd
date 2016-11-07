@@ -429,7 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 
-<!ENTITY contentSearchInput.label     "Nadi tuţra">
+<!ENTITY contentSearchInput.label     "Nadi tuttra">
 <!ENTITY contentSearchSubmit.tooltip  "Azen anadi">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel-a web.">
-<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-saliḍ tikelt nniḍen asebter akken isnifal ad ttwasensen.">
+<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt nniḍen asebter akken isnifal ad ttwasensen.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -782,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "Sefrek tanfiwin…">
 
 <!ENTITY social.directory.label "Akaram n urremed">
-<!ENTITY social.directory.text "Tzemreḍ aţremdeḍ tanfiwin n beṭṭu seg ukaram.">
+<!ENTITY social.directory.text "Tzemreḍ ad tremdeḍ tanfiwin n beṭṭu seg ukaram.">
 <!ENTITY social.directory.button "Ldi akaram">
 <!ENTITY social.directory.introText "Sit ɣef tenfa akken ad tt-ternuḍ ɣer &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Skan ugar">

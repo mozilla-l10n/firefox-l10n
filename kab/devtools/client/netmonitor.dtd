@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
-<!ENTITY netmonitorUI.reloadNotice1       "• Selkem tuţra neɣ">
+<!ENTITY netmonitorUI.reloadNotice1       "• Selkem tuttra neɣ">
 <!ENTITY netmonitorUI.reloadNotice2       "Smiren">
 <!ENTITY netmonitorUI.reloadNotice3       "Asebter anda ad twaliḍ talɣut leqqayen ɣef urmud n uzeṭṭa.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
@@ -152,11 +152,11 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
 
-<!ENTITY netmonitorUI.summary.url         "URL n tuţra:">
+<!ENTITY netmonitorUI.summary.url         "URL n tuttra:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
-<!ENTITY netmonitorUI.summary.method      "Tarrayt n tuţra:">
+<!ENTITY netmonitorUI.summary.method      "Tarrayt n tuttra:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
 
@@ -285,7 +285,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
 
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Nɣel iqeṛṛa n tuţra">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Nɣel iqeṛṛa n tuttra">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 
@@ -347,7 +347,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
 
-<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Iqaṛṛa n tuţra:">
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Iqaṛṛa n tuttra:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
 
@@ -373,19 +373,19 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 
-<!ENTITY netmonitorUI.custom.newRequest   "Tuţra tamaynut">
+<!ENTITY netmonitorUI.custom.newRequest   "Tuttra tamaynut">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.query        "tuţra n uzrar n isekkilen:">
+<!ENTITY netmonitorUI.custom.query        "tuttra n uzrar n isekkilen:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.headers      "Iqaṛṛa n tuţra:">
+<!ENTITY netmonitorUI.custom.headers      "Iqeṛṛa n tuttra:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.postData     "Tafekka n tuţra:">
+<!ENTITY netmonitorUI.custom.postData     "Tafekka n tuttra:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 
