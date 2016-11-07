@@ -21,7 +21,7 @@
 <!ENTITY visibilityToggle.tooltip   "Sken/Ffer tiferkit n uɣanib">
 
 <!ENTITY saveButton.label           "Kles">
-<!ENTITY saveButton.tooltip         "Kles tiferkit agi n uɣanib ɣeṛ u faylu">
+<!ENTITY saveButton.tooltip         "Kles tiferkit-agi n uɣanib ɣeṛ u faylu">
 <!ENTITY saveButton.accesskey       "K">
 
 <!ENTITY optionsButton.tooltip      "Iɣewwaṛen n umaẓrag n uɣanib">
@@ -46,11 +46,11 @@
 
 <!ENTITY mediaRules.label           "Ilugan @media">
 
-<!ENTITY editorTextbox.placeholder  "Sekcem tawsit CSS dagi.">
+<!ENTITY editorTextbox.placeholder  "Sekcem tawsit CSS d-agi.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 
-<!ENTITY noStyleSheet.label         "Asebter agi ur ɣuṛ-s ara tiferkit n uɣanib.">
+<!ENTITY noStyleSheet.label         "Asebter-agi ur ɣuṛ-s ara tiferkit n uɣanib.">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->

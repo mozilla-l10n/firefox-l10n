@@ -39,7 +39,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Sken iminig n iɣunab">
-<!ENTITY options.showUserAgentStyles.tooltip "Armad n uɣewwaṛ agi ad d-yesken iɣunab imezwar i d-yessuli iminig.">
+<!ENTITY options.showUserAgentStyles.tooltip "Armad n uɣewwaṛ-agi ad d-yesken iɣunab imezwar i d-yessuli iminig.">
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
@@ -81,31 +81,31 @@
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
 
-<!ENTITY options.context.triggersPageRefresh  "* Tiɣimit agi, ad isali tikelt nniḍen asebter">
+<!ENTITY options.context.triggersPageRefresh  "* Tiɣimit-agi, ad isali tikelt nniḍen asebter">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Rmed tanaka n ifecka n teseɣtit n chrome n iminig d izegrar ">
-<!ENTITY options.enableChrome.tooltip3  "Armad n uɣewwaṛ agi ak yeǧǧ aţsqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d-isireg taseɣtit n izegrar seg umsefrak n izegrar ">
+<!ENTITY options.enableChrome.tooltip3  "Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tsqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d-isireg taseɣtit n izegrar seg umsefrak n izegrar ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Rmed taseɣtit tanmeggagt">
-<!ENTITY options.enableRemote.tooltip2  "Armad n uɣewwaṛ agi ak-yeǧǧ ad tesqedceḍ ifecka n tneflit di tseɣtit n tummant tanmeggagt am Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit di tseɣtit n tummant tanmeggagt am Firefox OS">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Rmen tasertit worker (di tneflit)">
-<!ENTITY options.enableWorkers.tooltip  "Ma tremdeḍ asfren agi ayagi ad isireg ifecla n tneflit akken ad seɣtin inmahalen.">
+<!ENTITY options.enableWorkers.tooltip  "Ma tremdeḍ asfren-agi. ay-agi ad isireg ifecla n tneflit akken ad seɣtin inmahalen.">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "Ssens JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Armad n uɣewwaṛ agi ad irermed JavaScript i yiccer amiran. Aɣewwaṛ agi ad iţwaţu ticki tmedleḍ iccer neɣ tanaka n ifecka.">
+<!ENTITY options.disableJavaScript.tooltip   "Armad n uɣewwaṛ-agi ad irermed JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.">
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
