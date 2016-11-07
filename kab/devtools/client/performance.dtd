@@ -53,21 +53,21 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY performanceUI.table.totalDuration            "Asemday n wakud">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "Akud yezrin di twuri agi yakk di tigad imumi tsawel.">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Akud yezrin di twuri-yagi yakk di tigad imumi tsawel.">
 <!ENTITY performanceUI.table.selfDuration             "Man-ukud ">
-<!ENTITY performanceUI.table.selfDuration.tooltip     "Akud yezrin kan di twuri agi.">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Akud yezrin kan di twuri-yagi.">
 <!ENTITY performanceUI.table.totalPercentage          "Asamday n tesqamt">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri agi yakk di tigad imumi tsawel.">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri-yagi yakk di tigad imumi tsawel.">
 <!ENTITY performanceUI.table.selfPercentage           "Tasqamt tasuft">
-<!ENTITY performanceUI.table.selfPercentage.tooltip   "Afmiḍi n wakud yezrin di twuri agi.">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Afmiḍi n wakud yezrin di twuri-yagi.">
 <!ENTITY performanceUI.table.samples                  "Imadyaten">
-<!ENTITY performanceUI.table.samples.tooltip          "Amḍan n tikal anda tawuri agi tella di tnebdant makken amaɣnay yeṭṭef-d amadya.">
+<!ENTITY performanceUI.table.samples.tooltip          "Amḍan n tikal anda tawuri-yagi tella di tnebdant makken amaɣnay yeṭṭef-d amadya.">
 <!ENTITY performanceUI.table.function                 "Tawuri">
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
 <!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍanasemday  n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍanasemday n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 <!ENTITY performanceUI.table.selfAlloc                "Iḥerriyen isemdayen">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig agi.">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 
