@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Ulac talɣut tasemmadant ɣef ugur neɣ tuccḍa-yagi.</p>">
 
 <!ENTITY malformedURI.title "Tansa tarameɣtut">
-<!ENTITY malformedURI.longDesc "<p>Tansa id muddeḍ ur tella ara deg umasal ittwasnen. Ma ulac aɣilif senqed afeggag n tensa akken ad teɣtiḍ tuccḍiwin sakin ɛreḍ tikelt nniḍen.</p>">
+<!ENTITY malformedURI.longDesc "<p>Tansa i d-tmuddeḍ ur tella ara deg umasal ittwassnen. Ma ulac aɣilif senqed afeggag n tansa akken ad teseɣtiḍ tuccḍiwin sakin ɛreḍ tikelt nniḍen.</p>">
 
 <!ENTITY netInterrupt.title "Tuqqna teţwaqsef">
 <!ENTITY netInterrupt.longDesc "<p>Iminig iqqen akken iwata acukan tuqqna teḥbes di tuzzna n telɣut. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.</p><ul><li>Tzemreḍ ad tkcemeḍ ɣer ismal nniḍen?Senqdeḍ tuqqna n uselkim inek ɣeṛ uẓeṭṭa.</li><li> Izga wugur? Nermes anebdal-ik n unagraw neɣ aseǧǧaw-ik Internet ɣef tallat.</li></ul>">
@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>Isemli id yettusutren ulac-it di tuffirt n iminig.</p><ul><li>ɣef teɣẓint n tɣellist, iminig ur isutur ara s wudem awurman isemliyen imḥulfuyen.</li><li>Sit ɣef 'Ɛṛeḍ tikelt nniḍen' iwakken ad tsutreḍ isemli seg usmel.</li></ul>">
 
 <!ENTITY netOffline.title "Aska war tuqqna">
-<!ENTITY netOffline.longDesc2 "<p>Iminig iteddu deg uskar war tuqqna. Ur yezmir ara ad yeqqen ɣer tensa d-yettwamlen.</p><ul><li>Aselkim inek iqqen ɣer uẓeṭṭa urmid?</li><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar usrid u sali-d asebter inek tiket nniḍen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Iminig itteddu deg uskar war tuqqna. Ur yezmir ara ad yeqqen ɣer tansa d-yettwamlen.</p><ul><li>Aselkim inek iqqen ɣer uẓeṭṭa urmid?</li><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar usrid u sali-d asebter inek tiket nniḍen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku iseqdac tawsit usekkussem tarameɣtut neɣ ur yettusefraken ara.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">

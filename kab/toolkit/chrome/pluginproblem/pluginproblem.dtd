@@ -28,12 +28,12 @@
 <!ENTITY reloadPlugin.middle                                 "Smiren asebter">
 <!ENTITY reloadPlugin.post                                   " i weɛraḍ tikelt nniḍen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Azen assaɣ n uɣelluy">
+<!ENTITY report.please                                       "Azen aneqqis n uɣelluy">
 <!ENTITY report.submitting                                   "Tuzzna n ussaɣ…">
-<!ENTITY report.submitted                                    "Assaɣ n uɣelluy yuzen.">
-<!ENTITY report.disabled                                     "Assaɣ n uɣelluy ireremed.">
+<!ENTITY report.submitted                                    "Aneqqis n uɣelluy yettwazen.">
+<!ENTITY report.disabled                                     "Aneqqis n uɣelluy ireremed.">
 <!ENTITY report.failed                                       "Tuzzna ur tiddi ara.">
-<!ENTITY report.unavailable                                  "Ulac assaɣ.">
+<!ENTITY report.unavailable                                  "Ulac aneqqis.">
 <!ENTITY report.comment                                      "Rnu awennit (Iwenniten aten-walin akk yemdanen)">
 <!ENTITY report.pageURL                                      "Seddu URL n usebter">
 

@@ -7,13 +7,13 @@
 
 <!ENTITY aboutSupport.pageSubtitle "  Asebter agi igber talɣut tatiknikant ig zemren attwulem ticki tettaɛraḍeḍad tefruḍ ugur. Ma yella tettnadiḍ tiririt ɣef isteqsiyen n &brandShortName;,senqed <a id='supportLink'> asmel nneɣ Web</a>.">
 
-<!ENTITY aboutSupport.crashes.title "Assaɣen n uɣelluy">
+<!ENTITY aboutSupport.crashes.title "Ineqqisen n uɣelluy">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Asulay n ussaɣ">
 <!ENTITY aboutSupport.crashes.sendDate "Azemz n tuzzna">
-<!ENTITY aboutSupport.crashes.allReports "Akk assaɣen n uɣelluy">
-<!ENTITY aboutSupport.crashes.noConfig "Asnas agi ur iţuswel ara akken ad isken assaɣen n uɣelluy.">
+<!ENTITY aboutSupport.crashes.allReports "Akk ineqqisen n uɣelluy">
+<!ENTITY aboutSupport.crashes.noConfig "Asnas agi ur ittuswel ara akken ad isken ineqqisen n uɣelluy.">
 
 <!ENTITY aboutSupport.extensionsTitle "Isiɣzaf">
 <!ENTITY aboutSupport.extensionName "Isem">

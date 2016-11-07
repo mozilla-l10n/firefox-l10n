@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Sḥbes">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Rken asali n usebter-agi">
-<!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tensa">
+<!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebtar-a">
 
