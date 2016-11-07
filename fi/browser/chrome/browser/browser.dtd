@@ -207,6 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Näytä sivuston tiedot">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avaa viestipaneeli">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallitse liitännäisen käyttöä">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
