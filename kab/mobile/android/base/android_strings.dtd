@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Anṣuf yis-k">
+<!ENTITY firstrun_panel_title_welcome "Ansuf">
 
-<!ENTITY firstrun_urlbar_message "Ansuf ɣeṛ &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Ansuf ɣer &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
 <!ENTITY firstrun_bookmarks_title "Amazray">
 <!ENTITY firstrun_bookmarks_message "Ismenyifen-inek; sdat akked tlemmast">
@@ -50,7 +50,7 @@
 
 <!ENTITY  tab_offline_version "Sken lqem n war tuqqna">
 
-<!ENTITY  crash_reporter_title "Amassaɣay n uɣelluy &brandShortName; ">
+<!ENTITY  crash_reporter_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
 <!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren deg usebter agejdan n &brandShortName; ticki t-senkreṭ.">
 <!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy-agi akken ad yefru wugur">
 <!ENTITY  crash_include_url2 "Seddu tansa n usebter anda lliɣ">
@@ -58,7 +58,7 @@
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
 <!ENTITY  crash_email "Imayl inek">
-<!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ assaɣ n uɣelluy?">
+<!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ aneqqis n uɣelluy?">
 <!ENTITY  sending_crash_report "Tuzzna n ussaɣ n uɣelluy\u2026">
 <!ENTITY  crash_close_label "Mdel">
 <!ENTITY  crash_restart_label "Senker i tikelt nniḍen &brandShortName;">
@@ -430,15 +430,15 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "Amassaɣay n uɣelluy &brandShortName; ">
+<!ENTITY datareporting_fhr_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig inek">
 <!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
 <!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig inek.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen aneqqis n uɣelluy akken &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig-inek.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Amassaɣay n uɣelluy">
+<!ENTITY datareporting_crashreporter_title_short "Amazan n ineqqisen n uɣelluy">
 <!ENTITY datareporting_wifi_title2 "Ameẓlu n tensa n &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Mudd afus i &vendorShortName; deg usuneɣ n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yibenk inek akken ad yennerni umeẓlu n usideg arakal.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
