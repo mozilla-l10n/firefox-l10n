@@ -41,8 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Les meir">
 
 <!ENTITY crashReporterDesc2.label         "Krasjrapportar hjelper &vendorShortName; med å løysa problem og gjera nettlesaren meir stabil og sikker">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "Tillat &brandShortName; å senda etterslepne krasjrapportar på dine vegne">
+<!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Les meir">
 
 <!ENTITY networkTab.label                "Nettverk">
