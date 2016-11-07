@@ -458,7 +458,7 @@
 <!ENTITY addons.accesskey "a">
 <!ENTITY activitymanager.label "Rheolwr Gweithgaredd">
 <!ENTITY activitymanager.accesskey "R">
-<!ENTITY imAccountsStatus.label "Statws sgwrsio">
+<!ENTITY imAccountsStatus.label "Statws Sgwrsio">
 <!ENTITY imAccountsStatus.accesskey "t">
 <!ENTITY imStatus.available          "Ar Gael">
 <!ENTITY imStatus.unavailable        "Ddim ar Gael">
