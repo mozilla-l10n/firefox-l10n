@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Bonisa kwisifumanisi">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Vula iFolda">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Iipriferensi ezilungisiweyo ezibalulekileyo">
 <!ENTITY aboutSupport.modifiedPrefsName "Igama">

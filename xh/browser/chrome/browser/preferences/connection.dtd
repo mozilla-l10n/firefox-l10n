@@ -5,7 +5,7 @@
 
 <!ENTITY  connectionsDialog.title       "Iisetingi zonxibelelwano">
 
-
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Lungisa iiproksi ukungena kwi-intanethi">
 <!ENTITY  noProxyTypeRadio.label        "Akukho proksi">

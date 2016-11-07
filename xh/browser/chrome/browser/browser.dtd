@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "isilumkisosesikriniesipheleleyo.ngaphambikwedomeyini.label">
 <!ENTITY fullscreenWarning.afterDomain.label "ngoku siskrini esipheleleyo">
 <!ENTITY fullscreenWarning.generic.label "Olu xwebhu ngoku lusiskrini esipheleleyo">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.beforeDomain.label "isilumkisosesitshixosesalathisi.ngaphambikwedomeyini.label">
 <!ENTITY pointerlockWarning.afterDomain.label "ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.">
 <!ENTITY pointerlockWarning.generic.label "Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.">
 
@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Jonga inkcazelo yesayithi">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Iphanele yomyalezo ovulekileyo">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Iphanele yesicelo yendawo evulekileyo">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Vula iphanele yokongezelela umyalezo wokufakela">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Vula iphanele yomyalezo wokugcina ngaphandle kwe-intanethi">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Vula iphanele yokulondoloza umyalezo wephasiwedi">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lawula ukusetyenziswa kwezinto eziplagwayo">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tshintsha enoba ungafumana isaziso kule sayithi">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lawula ukwabelana kwakho ngeefestile okanye iskrini nesayithi">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Vula iphanele yomyalezo wokufakela">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Guqulela eli khasi">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lawula ukuguqulelwa kwekhasi">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lawula ukusetyenziswa kwesoftwe ye-DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Uyibhlokile ikhamera yakho kule webhusayithi.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Uyibhlokile imayikhrofoni yakho kule webhusayithi.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Uyibhlokile inkcazelo yendawo kule webhusayithi.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ukubhlokile ukugcinwa kwedatha kule webhusayithi.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Uzibhlokile izaziso kule webhusayithi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Seta ngokutsha umlinganiselo wokubona kude nakufutshane">
 
 <!ENTITY searchItem.title             "Khangela">
 <!-- Toolbar items --> 
@@ -731,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Iimvume">
 <!ENTITY identity.permissionsEmpty "Akunikanga le sayithi nayiphi na imvume ekhethekileyo.">
-
+<!ENTITY identity.permissionsReloadHint "Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
