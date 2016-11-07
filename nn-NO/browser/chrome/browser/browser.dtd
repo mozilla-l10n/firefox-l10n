@@ -209,22 +209,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna panel for plasseringsførespurnad">
-
-
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opna meldingspanel for utvidingsinstallasjon">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opna meldingspanel for fråkopla data">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opna meldingspanel for lagring av passord">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handsam deling av kamera og/eller mikrofon ppå denne nettstaden">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handsam deling av mikrofon med denne nettstaden">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Handsam deling av vindauge eller skjerm med nettstaden">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Opna meldingspanel for installasjon">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Omset denne sida">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Handsam sideomsetting">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handsam bruken av DRM-programvare">
 
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for denne nettstaden.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for denne nettstaden.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert denne nettstaden frå å dele skjermen din.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plassinformasjon for denne nettstaden.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for denne nettstaden.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
@@ -454,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Endra søkjeinnstillingar">
-
+<!ENTITY changeSearchSettings.tooltip "Endra søkjeinnstillingar">
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "ø">
@@ -733,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
-
+<!ENTITY identity.permissionsReloadHint "Du må kanskje lasta sida på nytt for at endringane skal gjelda.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
