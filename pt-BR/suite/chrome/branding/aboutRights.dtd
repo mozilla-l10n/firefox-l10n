@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Alguns recursos no &brandShortName;, como o Relator de Problemas, dá a opção de fornecer feedback para o &vendorShortName;. Escolhendo enviar o feedback, você dá permissão para o &vendorShortName; e a Mozilla de usar o feedback para melhorar suas aplicações, de publica-lo em seus sites, e de distribuí-lo.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
@@ -43,7 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; oferece serviços baseados na web opcionais (&quot;Serviços&quot;) que são disponíveis para seu uso com essa versão binária do &brandShortName; como descrita abaixo.  Alguns desses serviços (assim como o serviço de sugestão de Complementos e de atualização, o serviço de Navegação Segura, ou o recurso de notificação de Navegação Ciente da Localização) estão ativadas por padrão.  Se você não quer usar nenhum desses Serviços ou os termos abaixo são inaceitáveis, instruções sobre como desativar um determinado recurso ou Serviço podem ser encontradas ">
 <!ENTITY rights3.webservices-b "aqui">
+<!ENTITY rights3.webservices-c ". Outros recursos e Serviços podem ser ativados ou desativados nas preferências do aplicativo.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Serviços dos complementos:">
@@ -62,12 +65,15 @@
 <!ENTITY rights.safebrowsing-term4 "A Navegação Segura agora está desativada">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navegação ciente de localização: ">
+<!ENTITY rights.locationawarebrowsing-b "é sempre alertado antes. Nenhuma informação de localização é enviada sem a sua autorização. Caso deseje desativar totalmente este recurso, siga este passos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.locationawarebrowsing-term2 "Selecione o painel principal &security.label;">
 <!ENTITY rights.locationawarebrowsing-term3 "Selecione a opção para &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "O serviço de navegação sensível à localização está desativado agora">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; e Mozilla juntamente com seus colaboradores, licenciadores e parceiros trabalham para prestar serviços mais precisos e atualizados. No entanto, não podemos garantir que essa informação seja compreensiva e livre de erros. Por exemplo, o Serviço de Navegação Segura pode não identificar alguns sites perigosos e pode identificar alguns sites seguros com erro, e todos os locais do Serviço de Localização Ciente retornados pelos nossos prestadores de serviços são apenas estimativas. Nem nós, nem nossos prestadores de serviços garantem a precisão dos locais fornecidos.">
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os serviços a qualquer momento.">
 <!ENTITY rights.webservices-term2 "Você é bem-vindo para utilizar estes Serviços com a versão associada do &brandShortName;, e possui todos os direitos necessários para fazê-lo. A &vendorShortName; e seus licenciadores reservam todos os outros direitos sobre os Serviços. Estes termos não são intencionados a limitar nenhum dos direitos concedidos com as licenças de código aberto aplicáveis ao &brandShortName; e as correspondentes versões do código-fonte do &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Os Serviços são fornecidos “tais como estão”. A &vendorShortName;, seus colaboradores, licenciadores e distribuidores se isentam de todas as garantias, sejam expressas ou implícitas, incluindo, entre outras, garantias de que os Serviços sejam comercializáveis e apropriados para os seus fins particulares. Você tolera todo o risco quanto a seleção dos Serviços para os seus fins e quanto à qualidade e desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou limitação de garantias implícitas, de forma que esta isenção pode não se aplicar a você.">
