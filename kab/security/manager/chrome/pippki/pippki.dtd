@@ -18,16 +18,16 @@
 
 <!ENTITY downloadCert.title "Asider n uselkin">
 <!ENTITY downloadCert.message1 "Sutren-ak-d asentem n udabu n uselken amaynut (CA).">
-<!ENTITY downloadCert.trustSSL "Sentem abadu yagi n uselken akken ad suluḍ ismal web.">
-<!ENTITY downloadCert.trustEmail "Sentem adabu yagi n uselken i wesulu n iseqdacen n yimayl. ">
-<!ENTITY downloadCert.trustObjSign "Sentem adabu yagi n uselken i wesulu n ineflayen n iseɣẓanen.">
-<!ENTITY downloadCert.message3 "Send ad tesentmeḍ adabu agi  n uselken CA, issefk ad ittusekyed, ad ttusekeydent tarrayin ines d tisekkirin ines (ma yella wamek).">
+<!ENTITY downloadCert.trustSSL "Sentem abadu-yagi n uselken akken ad suluḍ ismal web.">
+<!ENTITY downloadCert.trustEmail "Sentem adabu-yagi n uselken i wesulu n iseqdacen n yimayl. ">
+<!ENTITY downloadCert.trustObjSign "Sentem adabu-yagi n uselken i wesulu n ineflayen n iseɣẓanen.">
+<!ENTITY downloadCert.message3 "Send ad tesentmeḍ adabu-yagi n uselken CA, issefk ad ittusekyed, ad ttusekeydent tarrayin ines d tisekkirin ines (ma yella wamek).">
 <!ENTITY downloadCert.viewCert.label "Timeẓri">
 <!ENTITY downloadCert.viewCert.text "Sekyed aselkin n udabu n selken">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Asuter n usulu n useqdac">
-<!ENTITY clientAuthAsk.message1 "Asmel agi ad yessutur asulu s uselkin n tɣellist:">
+<!ENTITY clientAuthAsk.message1 "Asmel-agi ad yessutur asulu s uselkin n tɣellist:">
 <!ENTITY clientAuthAsk.message2 "Fren aselkin i wesulay">
 <!ENTITY clientAuthAsk.message3 "Aglam n iselkan i fernen:">
 <!-- Strings for the cert picker dialog -->
@@ -37,10 +37,10 @@
 <!ENTITY certPicker.detailsLabel "Aglam leqqayen n uselkin ifernen:">
 
 <!ENTITY pkcs12.setpassword.title  "Fen awal uffir n uḥraz n uselkin">
-<!ENTITY pkcs12.setpassword.message  "Awal uffir n usekles n uselkin i tesbaduḍ yakan, iḥrez ayaylu n usekles i terniḍ. Issefk ad muddeḍ awal uffir i wesenker  n usekles agi.">
+<!ENTITY pkcs12.setpassword.message  "Awal uffir n usekles n uselkin i tesbaduḍ yakan, iḥrez ayaylu n usekles i terniḍ. Issefk ad muddeḍ awal uffir i wesenker n usekles-agi.">
 <!ENTITY pkcs12.setpassword.label1 "Awal uffir n usekles n uselkin:">
 <!ENTITY pkcs12.setpassword.label2 "Awal uffir n usekles n uselkin (tikelt nniḍen): ">
-<!ENTITY pkcs12.setpassword.reminder "Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin inek, ur tettizmireḍ ara ad d-erreḍ aḥraz agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.">
+<!ENTITY pkcs12.setpassword.reminder "Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin inek, ur tettizmireḍ ara ad d-erreḍ aḥraz-agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.">
 
 <!ENTITY chooseToken.title  "Afran n ujiṭun">
 <!ENTITY chooseToken.message1 "Ma ulac aɣilif, fren ajiṭun.">

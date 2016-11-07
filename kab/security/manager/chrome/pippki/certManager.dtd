@@ -36,9 +36,9 @@
 
 <!ENTITY certmgr.editcacert.title             "Ẓreg iɣewwaṛen n teflest n udabu n uselken">
 <!ENTITY certmgr.editcert.edittrust           "Ẓreg iɣewwaṛen n teflest:">
-<!ENTITY certmgr.editcert.trustssl            "Aselkin agi yezmer ad isulu ismal web.">
-<!ENTITY certmgr.editcert.trustemail          "Aselkin agi yezmer ad isulu imaylen n iseqdacen.">
-<!ENTITY certmgr.editcert.trustobjsign        "Aselkin agi yezmer ad isulu imfarasen n iseẓɣan.">
+<!ENTITY certmgr.editcert.trustssl            "Aselkin-agi yezmer ad isulu ismal web.">
+<!ENTITY certmgr.editcert.trustemail          "Aselkin-agi yezmer ad isulu imaylen n iseqdacen.">
+<!ENTITY certmgr.editcert.trustobjsign        "Aselkin-agi yezmer ad isulu imfarasen n iseẓɣan.">
 
 <!ENTITY certmgr.deletecert.title             "Kkes aselkin">
 
@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Addad n uselkin">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Timeẓri…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "kles ilebda tasureft agi">
+<!ENTITY exceptionMgr.permanent.label         "kles ilebda tasureft-agi">
 <!ENTITY exceptionMgr.permanent.accesskey     "k">
