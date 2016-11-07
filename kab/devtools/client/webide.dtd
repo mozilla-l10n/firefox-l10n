@@ -186,7 +186,7 @@
 <!ENTITY wifi_auth_header "Asulu n umsaɣ">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Taneqqiṭ n tagara anida ara tetteqqneḍ tessutu talɣut nniḍen n usesteb n tuqqna agi. Ma ulac aɣkif, sekcem ajiṭun daw-a seg  ufentay yettwaseknen ɣef yibenk nniḍen.">
+<!ENTITY wifi_auth_scan_request "Taneqqiṭ n tagara anida ara tetteqqneḍ tessutu talɣut nniḍen n usesteb n tuqqna-yagi. Ma ulac aɣkif, sekcem ajiṭun daw-a seg  ufentay yettwaseknen ɣef yibenk nniḍen.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Ulac afentay akken ad tesnirmeḍ tangalt QR?">

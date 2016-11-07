@@ -191,7 +191,7 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Sken isefka n telɣubliṭ Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Ma tremdeḍ asefren agi, assaɣen n umaɣnay JavaScript ad seddun izamulen n telɣubliṭ Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ma tremdeḍ asefren-agi, assaɣen n umaɣnay JavaScript ad seddun izamulen n telɣubliṭ Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
