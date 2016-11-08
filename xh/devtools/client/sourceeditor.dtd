@@ -15,5 +15,5 @@
 
 
 <!ENTITY gotoLineCmd.label         "Xhumela emgceni…">
-
+<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "X">
