@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "amek ara fɣeɣ s yagi!">
-<!ENTITY safeb.palm.decline.label "Ttu alɣu agi">
+<!ENTITY safeb.palm.decline.label "Ttu alɣu-yagi">
 <!ENTITY safeb.palm.reportPage.label "Acuɣer iwḥel usebter-agi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "D asebter n uẓḍam!">

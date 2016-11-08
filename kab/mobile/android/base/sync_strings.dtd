@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "Ffeɣ seg&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Kkes amidan Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ad iseḥbes asemtawi d umiḍan inek, acu kan ur ittekkes ara isefka yinek n tunigin seg uselkim agi.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ad iseḥbes asemtawi d umiḍan inek, acu kan ur ittekkes ara isefka yinek n tunigin seg uselkim-agi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Amiḍan Firefox &formatS; yettwakkes">
