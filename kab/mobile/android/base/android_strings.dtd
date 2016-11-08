@@ -335,7 +335,7 @@
      documentation for DateFormat.getMediumDateFormat(). -->
 <!ENTITY content_notification_updated_on "Yettwalqem deg &formatS;">
 
-<!ENTITY pref_char_encoding "Asettengel n isekkilen">
+<!ENTITY pref_char_encoding "Asettengel n tfinaɣin">
 <!ENTITY pref_char_encoding_on "Sken umuɣ">
 <!ENTITY pref_char_encoding_off "Ur skan ara umuɣ">
 <!ENTITY pref_clear_private_data2 "Sfeḍ lǧeṛṛat-iw">
@@ -457,7 +457,7 @@ size. -->
 <!ENTITY addons "Izegrar imernan">
 <!ENTITY logins "Inekcam">
 <!ENTITY downloads "Isidar">
-<!ENTITY char_encoding "Asengel n Isekkilen">
+<!ENTITY char_encoding "Asengel n Tfinaɣin">
 
 <!ENTITY share "Bḍu">
 <!ENTITY share_title "Bḍu s">
