@@ -103,7 +103,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>Issefk ad ternuḍ tasureft ma tseqdaceḍ tuqqna ɣer Internet anda tegreḍ taflest neɣ anda ur tuɣeḍ ara tannumi ttawḍen-k-id wulɣuten i uqeddac-agi.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL anmeggag">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur agi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ur yezmir ara ad yeqqen s wudem aɣelsan">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
