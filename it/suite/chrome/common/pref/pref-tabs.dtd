@@ -5,7 +5,7 @@
 <!ENTITY tabHeader.label "Schede di navigazione">
 <!ENTITY tabDisplay.label "Visualizzazione schede">
 <!ENTITY autoHide.label "Nascondi la barra delle schede quando è aperta una sola scheda">
-<!ENTITY autoHide.accesskey "N">
+<!ENTITY autoHide.accesskey2 "N">
 <!ENTITY background.label "Passa alle nuove schede aperte dai collegamenti">
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Avvisa alla chiusura di una finestra con più schede">
@@ -18,3 +18,8 @@
 <!ENTITY loadGroupReplace.label "Sostituisci le schede aperte">
 <!ENTITY loadGroupReplace.accesskey "o">
 <!ENTITY openTabs.label "Apri una scheda al posto di una finestra con">
+<!ENTITY openManagers.label "Apri in una nuova scheda invece che in una finestra autonoma">
+<!ENTITY openDataManager.label "Gestione dati">
+<!ENTITY openDataManager.accesskey "G">
+<!ENTITY openAddOnsManager.label "Gestione componenti aggiuntivi">
+<!ENTITY openAddOnsManager.accesskey "c">
