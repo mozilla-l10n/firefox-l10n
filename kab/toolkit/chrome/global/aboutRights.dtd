@@ -17,14 +17,14 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; yellan akken llant tiskarin n">
 <!ENTITY rights.intro-point1b "Turagt tazayezt n Mozilla">
-<!ENTITY rights.intro-point1c ". Ayagi yebɣa ad yini tmzemreḍ aţqedceḍ, aţneɣleḍ u aţzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ diɣen ad tesnifleḍ tangalut aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ak teǧǧ daɣen ad tzuzreḍ ileqman ittusniflen.">
+<!ENTITY rights.intro-point1c ". A-yagi yebɣa ad yini tmzemreḍ ad tqedceḍ, ad tneɣleḍ u ad tzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ diɣen ad tesnifleḍ tangalut aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ak teǧǧ daɣen ad tzuzreḍ ileqman ittusniflen.">
 
 <!ENTITY rights.intro-point2-a "Ur ɣuṛ-k ara azref neɣ turagt ɣef ticṛaḍ yersen n Mozilla neɣ n wis kraḍ ɣas war tilisa ɣef yisem neɣ alugu n Firfox. Tzemreḍ aţwaliḍ talɣut tasemmadant ɣef ticṛaḍ yersen ">
-<!ENTITY rights.intro-point2-b "dagi">
+<!ENTITY rights.intro-point2-b "d-agi">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Kra n tmahilin deg &brandShortName; am uneqqis n uɣelluy, ad k-yeǧǧ ad d-terreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa agi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut agi n tririt akken ad isnerni ifarisen ines, ad isuffeɣ tiririt agi ɣef yesmal ines web, u a ten-imudd i wiyaḍ.">
+<!ENTITY rights.intro-point2.5 "Kra n tmahilin deg &brandShortName; am uneqqis n uɣelluy, ad k-yeǧǧ ad d-terreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa-yagi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut-agi n tririt akken ad isnerni ifarisen ines, ad isuffeɣ tiririt-agi ɣef yesmal ines web, u a ten-imudd i wiyaḍ.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Tarray amek  anseqdec tilɣa yinek tudmawanin d tririt yuznen i &vendorShortName; s wallal n &brandShortName; tettwagelem di ">
@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent dagi.">
+<!ENTITY rights.intro-point3-unbranded "Issefk akkw n tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent d-agi.">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "Kran n temhalin n &brandShortName; seqdacent tanfiwin n telɣut ɣef Web; acu kan, ur nezmir ara aneḍmen ɣer 100&#037; d akken ur gbirent ara tuccḍiwin. Tzemreḍ ad tafeḍ talɣut leqqayen, ula d talɣut ɣef urermed n tanfiwin di ">
@@ -54,13 +54,13 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; iseqdac tanfiwin n telɣut Web  (&quot;Services&quot;) akken ak-d-imudd kra n temhalin di lqem agi imsin n &brandShortName; akken d-ittwaskan daw-a. Ma tebɣiḍ ur teseqdaceḍ ara yiwet si tanfiwin agi neɣ ma tebɣiḍ ur tqebleḍ ara tiwtilin agi, tzemreḍ ad tekkseḍ armad n temhalt neɣ tanfa. Ma ulac aɣilif, wali:">
-<!ENTITY rights2.webservices-b "dagi">
+<!ENTITY rights2.webservices-a "&brandFullName; iseqdac tanfiwin n telɣut Web  (&quot;Services&quot;) akken ak-d-imudd kra n temhalin di lqem-agi imsin n &brandShortName; akken d-ittwaskan daw-a. Ma tebɣiḍ ur teseqdaceḍ ara yiwet si tanfiwin-agi neɣ ma tebɣiḍ ur tqebleḍ ara tiwtilin-agi, tzemreḍ ad tekkseḍ armad n temhalt neɣ tanfa. Ma ulac aɣilif, wali:">
+<!ENTITY rights2.webservices-b "d-agi">
 <!ENTITY rights3.webservices-c "Tzemreḍ ad tekkseḍ armad n timahilin d tanfiwin nniḍen.deg ismenyifen n usnas.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Tunigin taɣelsant: ">
-<!ENTITY rights.safebrowsing-b "Ur yelhi ara ma tekkseḍ armad n tunigin taɣelsant acku yezmer ad tinigeḍ deg ismal ur nelli ara d iɣelsanen. Me tebɣiḍ ad tekkseḍ tamahilt s wudem unṣib, ddu s wayagi:">
+<!ENTITY rights.safebrowsing-b "Ur yelhi ara ma tekkseḍ armad n tunigin taɣelsant acku yezmer ad tinigeḍ deg ismal ur nelli ara d iɣelsanen. Me tebɣiḍ ad tekkseḍ tamahilt s wudem unṣib, ddu s wa-yagi:">
 <!ENTITY rights.safebrowsing-term1 "Ldi ismenyifen neɣ iɣewwaṛen n usnas">
 <!ENTITY rights.safebrowsing-term2 "Fren agalis n tɣellist">
 <!ENTITY rights2.safebrowsing-term3 "Kkes acraḍ n uɣewwaṛ ɣer &quot;&enableSafeBrowsing.label;&quot;">
@@ -68,7 +68,7 @@
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Tunigin yersen ɣef usideg n tirakalt ">
-<!ENTITY rights.locationawarebrowsing-b "yal tikelt s usuter. Ula d yiwet n telɣut n tansa yinek ur tettwazen s war tasiregt inek. Ma tebɣiḍ ad treremdeḍ tamahilt i lebda, ḍfer tinaḍin agi: ">
+<!ENTITY rights.locationawarebrowsing-b "yal tikelt s usuter. Ula d yiwet n telɣut n tansa yinek ur tettwazen s war tasiregt inek. Ma tebɣiḍ ad treremdeḍ tamahilt i lebda, ḍfer tinaḍin-agi: ">
 <!ENTITY rights.locationawarebrowsing-term1a "Deg ufeggag n tansa, sekcem ">
 <!ENTITY rights.locationawarebrowsing-term1b "ɣef:tawila">
 <!ENTITY rights.locationawarebrowsing-term2 "Nadi geo.enabled">
@@ -76,16 +76,16 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Asideg n tirakalt t-ţurermed ihi">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Taskant n tenfiwin n yesmal web yeddan deg useɣẓan, id d-yeglan s tinaḍin ɣef wamek ad tureremdent, ma yebbwi-d waddad, issefk ad ittumel dagi.">
+<!ENTITY rights.webservices-unbranded "Taskant n tenfiwin n yesmal web yeddan deg useɣẓan, id d-yeglan s tinaḍin ɣef wamek ad tureremdent, ma yebbwi-d waddad, issefk ad ittumel d-agi.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent dagi.">
+<!ENTITY rights.webservices-term1-unbranded "Issefk akk tisertiyin n tbaḍnit ittusnasen ɣef useɣẓan-agi ad ttwabedrent d-agi.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term1 "&vendorShortName; d imttekiyen ines, imuragen, d imendiden mahalen akken ad farasen tanfiwin tufrinin u d timaynutin. Acu kan, ur nezmir ara anedmen d akken talɣut agi ad tili leqqayet neɣ ur ɣur-s ara tuccḍiwin. Amedya, tanfa n usewḥel n yir isemlen web tezmer ur tessawad ara ad temmel kra n isemlen iweɛren neɣ ad tecceḍ di kra degsen yellan d iɣelsanen. Ayen nniḍen, akk adigen yettwamlen sɣuṛ tanfa n usideg n tirakalt d asteg kan. mačči d nekkni neɣ isaǧǧawen n tanfa a yizmiren ad ḍemnen tisseddi nsen.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; d imttekiyen ines, imuragen, d imendiden mahalen akken ad farasen tanfiwin tufrinin u d timaynutin. Acu kan, ur nezmir ara anedmen d akken talɣut-agi ad tili leqqayet neɣ ur ɣur-s ara tuccḍiwin. Amedya, tanfa n usewḥel n yir isemlen web tezmer ur tessawad ara ad temmel kra n isemlen iweɛren neɣ ad tecceḍ di kra deg-sen yellan d iɣelsanen. Ayen nniḍen, akk adigen yettwamlen sɣuṛ tanfa n usideg n tirakalt d asteg kan. mačči d nekkni neɣ isaǧǧawen n tanfa a yizmiren ad ḍemnen tisseddi-nsen.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; izmer ad yerken neɣ ad isnifel tanfiwin s tuffra.">
-<!ENTITY rights2.webservices-term3 "Ansuf yiss-k ɣeṛ useqdec n tanfiwin agi s lqem n &brandShortName; i ten t-id-iseglan, u &vendorShortName; ak iḍmen izerfan isran. &vendorShortName; d imuragen ines ḥeṛṛen akk izerfan nniḍen n uselkin di tanfiwin. Tiwtilin agi ur llint ara akken ad arrent tilisa i yizarfan n id-fkan iselkan n useɣẓan ilelli ittusnasen ɣef &brandShortName; neɣ ɣef tengalt taɣbalut n ileqman n &brandShortName;.">
-<!ENTITY rights.webservices-term4 "Tanfiwin ttunefkent &quot;am kken.&quot; &vendorShortName;, imttekkiyen-is, imuragen d iwziwzayen, ur ittak ara asdem, ama s wudem aflalay neq araflalay, ula s war talast, isedman anida tanfa tezmer ad tettwazenz u ad tettuserwes akken llan wasaren inek. Ad tawiḍ akk tamasit n ufran n tanfiwinn wayen tesriḍ, taɣaṛa, neɣ tamellit n tanfiwin. Kra n isuḍaf ur sirigen ara tukksa neɣ tiggin n talast n isedman iraflalayen, ihi tawtilit agi n war asdem ur tettusnas ara fell-ak.">
+<!ENTITY rights2.webservices-term3 "Ansuf yiss-k ɣeṛ useqdec n tanfiwin-agi s lqem n &brandShortName; i tent-id-iseglan, u &vendorShortName; ak iḍmen izerfan isran. &vendorShortName; d imuragen ines ḥeṛṛen akk izerfan nniḍen n uselkin di tanfiwin. Tiwtilin-agi ur llint ara akken ad arrent tilisa i yizarfan id-fkan iselkan n useɣẓan ilelli ittusnasen ɣef &brandShortName; neɣ ɣef tengalt taɣbalut n ileqman n &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Tanfiwin ttunefkent &quot;am kken.&quot; &vendorShortName;, imttekkiyen-is, imuragen d iwziwzayen, ur ittak ara asdem, ama s wudem aflalay neq araflalay, ula s war talast, isedman anida tanfa tezmer ad tettwazenz u ad tettuserwes akken llan wasaren inek. Ad tawiḍ akk tamasit n ufran n tanfiwinn wayen tesriḍ, taɣaṛa, neɣ tamellit n tanfiwin. Kra n isuḍaf ur sirigen ara tukksa neɣ tiggin n talast n isedman iraflalayen, ihi tawtilit-agi n war asdem ur tettusnas ara fell-ak.">
 <!ENTITY rights.webservices-term5 "Arama yesra-t usaḍuf, &vendorShortName;, imttekiyen ines, imuragen d iwziwzayen will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you">
-<!ENTITY rights.webservices-term6 "&vendorShortName; izmer ad isnifel tiwtlin agi ticki isra seg akud ɣeṛ wayeḍ. Tiwtilin agi ur zmirent ara ad ttusniflent s war amtawa n &vendorShortName;.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; izmer ad isnifel tiwtlin-agi ticki isra seg akud ɣeṛ wayeḍ. Tiwtilin-agi ur zmirent ara ad ttusniflent s war amtawa n &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">

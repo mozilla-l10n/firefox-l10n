@@ -13,7 +13,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Asulay n ussaɣ">
 <!ENTITY aboutSupport.crashes.sendDate "Azemz n tuzzna">
 <!ENTITY aboutSupport.crashes.allReports "Akk ineqqisen n uɣelluy">
-<!ENTITY aboutSupport.crashes.noConfig "Asnas agi ur ittuswel ara akken ad isken ineqqisen n uɣelluy.">
+<!ENTITY aboutSupport.crashes.noConfig "Asnas-agi ur ittuswel ara akken ad isken ineqqisen n uɣelluy.">
 
 <!ENTITY aboutSupport.extensionsTitle "Isiɣzaf">
 <!ENTITY aboutSupport.extensionName "Isem">
