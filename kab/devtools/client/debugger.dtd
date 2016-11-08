@@ -27,7 +27,7 @@
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "KKsed aɣbalu-yagi si tnaka taberkant">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "KKes-d aɣbalu-yagi seg tnaka taberkant">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -79,7 +79,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
-<!ENTITY debuggerUI.showVarsFilter           "Sken tanaka n usizdeg n umuţi">
+<!ENTITY debuggerUI.showVarsFilter           "Sken tanaka n usizdeg n umutti">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -98,7 +98,7 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
-<!ENTITY debuggerUI.autoBlackBox           "Err s twurmant di tnaka taberkant iɣbula ussiden ">
+<!ENTITY debuggerUI.autoBlackBox           "Err iɣbula ussiden s twurmant deg tnaka taberkant ">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->

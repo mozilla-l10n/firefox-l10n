@@ -198,7 +198,7 @@
 
 <!ENTITY options.sourceeditor.label                     "Ismenyifen n umaẓrag">
 <!ENTITY options.sourceeditor.detectindentation.label   "Kkes arigel">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Sumer arigel aaken illa ugbur aɣbalu">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Sumer arigel akken illa ugbur aɣbalu">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Mdel s twurmant ticciwin d ">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ger s wudem awurman ticcewt tumdilt">
 <!ENTITY options.sourceeditor.expandtab.label           "Rigel s useqdec n tallunt">
