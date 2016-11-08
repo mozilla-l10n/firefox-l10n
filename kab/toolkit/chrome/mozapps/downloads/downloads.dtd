@@ -48,5 +48,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Mdel ticki isidar fuken">
 <!ENTITY closeWhenDone.tooltip            "Mdel asfaylu n isidar ticki akk ifuyla yettwasidren">
 
-<!ENTITY showFolder.label                 "Sken akaram agi">
+<!ENTITY showFolder.label                 "Sken akaram-agi">
 <!ENTITY searchBox.label                  "Nadi…">

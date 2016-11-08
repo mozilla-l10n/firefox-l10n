@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Asali…">
-<!ENTITY listEmpty.installed.label            "Ur ɣur-k ara azegrir yettwasebden n tewsit agi ">
+<!ENTITY listEmpty.installed.label            "Ur ɣur-k ara azegrir yettwasebden n tewsit-agi ">
 <!ENTITY listEmpty.availableUpdates.label     "ulac ileqman yettwafen">
 <!ENTITY listEmpty.recentUpdates.label        "Acḥal aya ur tesnifleḍ ara izegrar-ik">
 <!ENTITY listEmpty.findUpdates.label          "Senqed ma llan ileqman">
@@ -70,7 +70,7 @@
 <!ENTITY updates.noneFound.label              "ulac ileqman yettwafen">
 <!ENTITY updates.manualUpdatesFound.label     "Sken ileqman yellan">
 <!ENTITY updates.updateSelected.label         "Sebded ileqman">
-<!ENTITY updates.updateSelected.tooltip       "Sebded ileqman yellan di tebdart agi">
+<!ENTITY updates.updateSelected.tooltip       "Sebded ileqman yellan di tebdart-agi">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Sken ugar n telɣut">
@@ -93,35 +93,35 @@
 <!ENTITY cmd.disableTheme.label               "Kkes asentel">
 <!ENTITY cmd.disableTheme.accesskey           "K">
 <!ENTITY cmd.askToActivate.label              "Suter armed">
-<!ENTITY cmd.askToActivate.tooltip            "Suter yal tikelt aseqdec n azegrir agi">
+<!ENTITY cmd.askToActivate.tooltip            "Suter yal tikelt aseqdec n azegrir-agi">
 <!ENTITY cmd.alwaysActivate.label             "Rmed yal tikelt">
-<!ENTITY cmd.alwaysActivate.tooltip           "Seqdac dima azegrir agi">
+<!ENTITY cmd.alwaysActivate.tooltip           "Seqdac dima azegrir-agi">
 <!ENTITY cmd.neverActivate.label              "Weṛǧin rmed">
-<!ENTITY cmd.neverActivate.tooltip            "Weṛǧin seqdec azegrir agi">
-<!ENTITY cmd.stateMenu.tooltip                "Fren melmi ad tesqedceḍ azegrir agi">
+<!ENTITY cmd.neverActivate.tooltip            "Weṛǧin seqdec azegrir-agi">
+<!ENTITY cmd.stateMenu.tooltip                "Fren melmi ad tesqedceḍ azegrir-agi">
 <!ENTITY cmd.installAddon.label               "Sebded">
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kkes">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Iɣewwaṛen">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Snifel iɣewwaṛen n uzegrir agi">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Snifel iɣewwaṛen n uzegrir-agi">
 <!ENTITY cmd.showPreferencesUnix.label        "Ismenyifen">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Snifel ismenyaf n uzegrir agi">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Snifel ismenyaf n uzegrir-agi">
 <!ENTITY cmd.contribute.label                 "Ţekki">
 <!ENTITY cmd.contribute.accesskey             "k">
 <!ENTITY cmd.contribute.tooltip               "Ţekki di tneflit n uzegrir">
 
 <!ENTITY cmd.showReleaseNotes.label           "Sken iwenniten n lqem">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Sken iwenniten n lqem agi">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Sken iwenniten n lqem-agi">
 <!ENTITY cmd.hideReleaseNotes.label           "Ffer iwenniten n lqem">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ffer iwenniten n lqem agi">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ffer iwenniten n lqem-agi">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "D acu i d-izegrar?">
 <!ENTITY discover.description2                "Izegrar d isnasen ak yeǧǧen ad tsagneḍ &brandShortName; s  tmahilin neɣ iɣunab isemmadanen. Fares tagwnitt s ugalis adisan, qaṛeɛ tagnawt neɣ snifel arwes n &brandShortName; akken tebɣiḍ. ">
-<!ENTITY discover.footer                      "Ticki tuqqna yinek ɣer Internet termed, agalis agi ak d-isken kra n izegrar ifazen d wid yettwasnen aṭas.">
+<!ENTITY discover.footer                      "Ticki tuqqna yinek ɣer Internet termed, agalis-agi ad k-d-isken kra n izegrar ifazen d wid yettwasnen aṭas.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Lqem">
@@ -130,7 +130,7 @@
 <!ENTITY detail.homepage.label                "Asebter agejdan">
 <!ENTITY detail.numberOfDownloads.label       "Isidar">
 
-<!ENTITY detail.contributions.description     "Aneflay n uzegrir agi isutur-ak-d tallalt akken ad iseddu taneflit ines ticki tmuddeḍ-as cwiṭ n tewsa.">
+<!ENTITY detail.contributions.description     "Aneflay n uzegrir-agi isutur-ak-d tallalt akken ad iseddu taneflit ines ticki tmuddeḍ-as cwiṭ n tewsa.">
 
 <!ENTITY detail.updateType                    "Aleqqem awurman">
 <!ENTITY detail.updateDefault.label           "Awennez amezwaru">
@@ -145,13 +145,13 @@
 
 <!ENTITY detail.checkForUpdates.label         "Senqed ma llan ileqman imaynuten">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "senqed ileqman n uzegrir agi">
+<!ENTITY detail.checkForUpdates.tooltip       "senqed ileqman n uzegrir-agi">
 <!ENTITY detail.showPreferencesWin.label      "Iɣewwaṛen">
 <!ENTITY detail.showPreferencesWin.accesskey  "w">
-<!ENTITY detail.showPreferencesWin.tooltip    "Snifel iɣewwaṛen n uzegrir agi">
+<!ENTITY detail.showPreferencesWin.tooltip    "Snifel iɣewwaṛen n uzegrir-agi">
 <!ENTITY detail.showPreferencesUnix.label     "Ismenyifen">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Snifel ismenyaf n uzegrir agi">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Snifel ismenyaf n uzegrir-agi">
 <!-- ratings -->
 
 
@@ -180,7 +180,7 @@
 
 <!ENTITY addon.homepage                       "Asebter agejdan">
 <!ENTITY addon.details.label                  "Ugar">
-<!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir agi">
+<!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir-agi">
 <!ENTITY addon.unknownDate                    "Arussin">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -192,14 +192,14 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "Leqqem">
 <!ENTITY addon.undoAction.label               "Sefsex">
-<!ENTITY addon.undoAction.tooltip             "Sefseɣ tigawt agi">
+<!ENTITY addon.undoAction.tooltip             "Sefseɣ tigawt-agi">
 <!ENTITY addon.undoRemove.label               "Sefsax">
-<!ENTITY addon.undoRemove.tooltip             "Eǧǧ azegrir agi yebded">
+<!ENTITY addon.undoRemove.tooltip             "Eǧǧ azegrir-agi yebded">
 <!ENTITY addon.restartNow.label               "Senker tikelt nniḍen tura">
 <!ENTITY addon.install.label                  "Sebded">
 <!ENTITY addon.install.tooltip                "Sebded azegrir">
 <!ENTITY addon.updateNow.label                "Leqqem tura">
-<!ENTITY addon.updateNow.tooltip              "Sebded lqem i wezgrir agi">
+<!ENTITY addon.updateNow.tooltip              "Sebded lqem i wezgrir-agi">
 <!ENTITY addon.includeUpdate.label            "Rnu ɣer uleqqem">
 <!ENTITY addon.updateAvailable.label          "Lqem ihegga">
 <!ENTITY addon.checkingForUpdates.label       "Asenqed n ileqman…">
@@ -233,7 +233,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Izegrar agi ur ttwasneqden ara i useqdec n &brandShortName;. Tzemreḍ ">
+<!ENTITY disabledUnsigned.description.start "Izegrar-agi ur ttwasneqden ara i useqdec n &brandShortName;. Tzemreḍ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "nadi izegrar igdazalen">
 <!ENTITY disabledUnsigned.description.end " neɣ suter aneflay aten id-isenqed.">
 <!ENTITY disabledUnsigned.learnMore "Issin ugar ɣef ayen n mahel akken ak-d-mudd ugar n tɣellist s srid.">

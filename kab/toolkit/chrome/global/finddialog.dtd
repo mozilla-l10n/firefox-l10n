@@ -4,7 +4,7 @@
 <!-- extracted from finddialog.xul -->
 
 
-<!ENTITY findDialog.title "Af deq usebter-agi">
+<!ENTITY findDialog.title "Af deg usebter-agi">
 <!ENTITY findField.label "Aḍris at nadiḍ:">
 <!ENTITY findField.accesskey "A">
 <!ENTITY caseSensitiveCheckbox.label "Qadeṛ amasal n isekkilen">
