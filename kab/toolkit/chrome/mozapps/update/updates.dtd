@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Lqem:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Lqem ad ibded di tnekra d-iteddun n &brandShortName;. Tzemreḍaţsnekreḍ &brandShortName; tura neɣ ddu deg umahil inek u senker tikelt nniḍen ticki.">
-<!ENTITY  finishedBackground.moreElevated "Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded di tnekra i d-iteddun n &brandShortName;. Tzemred ad tsenkreḍ tikelt nniden &brandShortName; tura, neɣ kemmel amahil u senker ticki neɣ agwi aleqqem-agi.">
+<!ENTITY  finishedBackground.moreElevated "Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded di tnekra i d-iteddun n &brandShortName;. Tzemred ad tsenkreḍ tikelt nniden &brandShortName; tura, neɣ kemmel amahil u senker ticki neɣ agwi aleqqem-agi. ">
 
 <!ENTITY  update.details.label            "Aglam leqqayen">
 <!ENTITY  update.installedOn.label        "Ibded di:">
