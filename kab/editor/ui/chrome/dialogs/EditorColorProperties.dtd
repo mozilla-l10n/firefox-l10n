@@ -10,7 +10,7 @@
 <!ENTITY defaultColorsRadio.tooltip "Seqdec kan iɣewwaṛen n yiniten seg umeskan (ameɣri) n iminig">
 <!ENTITY customColorsRadio.label "Seqdac initen inek:">
 <!ENTITY customColorsRadio.accessKey "q">
-<!ENTITY customColorsRadio.tooltip "Iɣewwaṛen agi n yiniten ad semselsin iɣewwaṛen n iminig n umeskan">
+<!ENTITY customColorsRadio.tooltip "Iɣewwaṛen-agi n yiniten ad semselsin iɣewwaṛen n iminig n umeskan">
 
 <!ENTITY normalText.label "Aḍris amagnu">
 <!ENTITY normalText.accessKey "m">

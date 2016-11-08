@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Fren taẓrigt n isnifal">
-<!ENTITY conflictWarning.label "Asebter agi yesnifel-it useɣzan nniden, acukan ɣur-k isnifal nniḍen deg umsuddes.">
+<!ENTITY conflictWarning.label "Asebter-agi yesnifel-it useɣzan nniden, acukan ɣur-k isnifal nniḍen deg umsuddes.">
 <!ENTITY conflictResolve.label "Fren anwa lqem ara teǧǧeḍ:">
 <!ENTITY keepCurrentPageButton.label "Ḥrez isnifal n usebter amiran">
 <!ENTITY useOtherPageButton.label "Semselsi asebter amiran s isnifal nniḍen">

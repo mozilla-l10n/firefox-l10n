@@ -20,7 +20,7 @@
 <!ENTITY  showPublishDialog.label       "Skan yal ass asfaylu n udiwenni di tezrigt n isebtar">
 <!ENTITY  showPublishDialog.accesskey   "S">
 <!ENTITY  composerEditing.label         "Taẓrigt">
-<!ENTITY  maintainStructure.label       "Ḥrez taneɣruft n tfelwit agi ticki taggareḍ neɣ tettekkseḍ tibniqin">
+<!ENTITY  maintainStructure.label       "Ḥrez taneɣruft n tfelwit-agi ticki taggareḍ neɣ tettekkseḍ tibniqin">
 <!ENTITY  maintainStructure.tooltip     "Ad yeḥrez talɣa n tfelwit tasremt s tmerna s wudem awurman n tebniqin seld timerna neɣ tukksa n tebniqin.">
 <!ENTITY  maintainStructure.accesskey   "r">
 <!ENTITY  useCSS.label                  "Seqdec iɣunab CSS deg umḍiq n iferdisen akked imyerren HTML">

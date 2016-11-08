@@ -15,9 +15,9 @@
 <!ENTITY siteList.tooltip             "Fren asmel anida tebɣiḍ ad eẓergeḍ">
 <!ENTITY newSiteButton.label          "Asmel amaynut">
 <!ENTITY newSiteButton.accesskey      "A">
-<!ENTITY docDirList.label             "Akaram asnawan n usmel i usebter agi:">
+<!ENTITY docDirList.label             "Akaram asnawan n usmel i usebter-agi:">
 <!ENTITY docDirList.accesskey         "t">
-<!ENTITY docDirList.tooltip           "Fren neɣ sekcem isem n ukaram anmeggag i usebter agi">
+<!ENTITY docDirList.tooltip           "Fren neɣ sekcem isem n ukaram anmeggag i usebter-agi">
 <!ENTITY publishImgCheckbox.label     "Seddu tugniwin akked ifuyla nniḍen.">
 <!ENTITY publishImgCheckbox.accesskey "n">
 <!ENTITY publishImgCheckbox.tooltip   "Ẓreg tugniwin akked ifuyla nniḍen i d-ittunefken deg usebter agi">

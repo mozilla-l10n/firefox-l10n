@@ -291,7 +291,7 @@
 <!ENTITY copyToolbarCmd.tooltip "Nɣel">
 <!ENTITY pasteToolbarCmd.tooltip "Senteḍ">
 <!ENTITY printToolbarCmd.label "Siggez">
-<!ENTITY printToolbarCmd.tooltip "Siggez asebter agi">
+<!ENTITY printToolbarCmd.tooltip "Siggez asebter-agi">
 <!ENTITY findToolbarCmd.label "Af">
 <!ENTITY findToolbarCmd.tooltip "Nadi aḍris deg usebter">
 <!ENTITY spellToolbarCmd.label "Mmel s usekkil">

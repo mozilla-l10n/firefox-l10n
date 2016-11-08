@@ -12,7 +12,7 @@
 
 <!ENTITY compositionToolbar.tooltip "Afeggag n isefka n usuddes">
 <!ENTITY previewToolbarCmd.label "Ḍum">
-<!ENTITY previewToolbarCmd.tooltip "Sali-d asebter agi ɣef iminig">
+<!ENTITY previewToolbarCmd.tooltip "Sali-d asebter-agi ɣef iminig">
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Sifeḍ ɣer uḍris…">
