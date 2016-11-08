@@ -24,7 +24,7 @@
 <!ENTITY calendar.events.filter.next7Days.label "tidyanin di 7 n wussan d-iteddun">
 <!ENTITY calendar.events.filter.next14Days.label "Tidyanin di 14 n wussan d-iteddun">
 <!ENTITY calendar.events.filter.next31Days.label "Tidyanin di 31 n wussan d-iteddun">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Tidyanin deg aggur agi">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Tidyanin deg aggur-agi">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
@@ -176,7 +176,7 @@
 <!ENTITY calendar.context.button.accesskey            "A" >
 <!ENTITY calendar.context.attendance.menu.label       "Tihawt" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "w" >
-<!ENTITY calendar.context.attendance.occurrence.label "Tamseḍrit agi" >
+<!ENTITY calendar.context.attendance.occurrence.label "Tamseḍrit-agi" >
 <!ENTITY calendar.context.attendance.all.label        "Akk temsedriwin" >
 <!-- Task Context Menu -->
 
@@ -329,8 +329,8 @@
 <!ENTITY calendarproperties.readonly.label                 "Taɣuri kan">
 <!ENTITY calendarproperties.firealarms.label               "Sken ismektiyen">
 <!ENTITY calendarproperties.cache3.label                   "Tallelt war tuqqna">
-<!ENTITY calendarproperties.enabled.label                  "Rmed awitay agi">
-<!ENTITY calendarproperties.forceDisabled.label            "Asaǧǧaw n uwitay agi ur yettwaf ara. Ayagi iḍerru-d ticki tessensen neɣ tekksed kra n izegrar.">
+<!ENTITY calendarproperties.enabled.label                  "Rmed awitay-agi">
+<!ENTITY calendarproperties.forceDisabled.label            "Asaǧǧaw n uwitay-agi ur yettwaf ara. Ay-agi iḍerru-d ticki tessensen neɣ tekksed kra n izegrar.">
 <!ENTITY calendarproperties.unsubscribe.label              "Ffeɣ seg ujerred">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "F">
 <!-- Calendar Publish Dialog -->

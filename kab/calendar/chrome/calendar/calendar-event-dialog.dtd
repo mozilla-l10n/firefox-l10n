@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.accesskey           "t">
 <!ENTITY event.attendees.notifyundisclosed.label    "Yal tinnubga i yiman-is">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "Y">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aɣewwaṛ agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aɣewwaṛ-agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
