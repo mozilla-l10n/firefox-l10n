@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Arată în Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Deschide dosarul">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferințe importante modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nume">
