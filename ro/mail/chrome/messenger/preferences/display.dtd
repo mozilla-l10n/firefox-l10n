@@ -41,8 +41,8 @@
 <!ENTITY defaultFont.accesskey   "F">
 <!ENTITY defaultSize.label       "Mărime:">
 <!ENTITY defaultSize.accesskey   "M">
-<!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "Fonturi…">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avansat…">
 <!ENTITY colorButton.label       "Culori…">
 <!ENTITY colorButton.accesskey   "C">
 <!-- Advanced -->
