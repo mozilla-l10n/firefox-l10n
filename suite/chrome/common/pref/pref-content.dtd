@@ -7,8 +7,8 @@
 <!ENTITY siteIcons.label "Icone sito web">
 <!ENTITY useSiteIcons.label "Mostra icone sito web">
 <!ENTITY useSiteIcons.accesskey "M">
-<!ENTITY useFavIcons.label "Cerca accuratamente l&apos;icona del sito web quando la pagina non ne definisce una">
-<!ENTITY useFavIcons.accesskey "C">
+<!ENTITY useFavIcons2.label "Prova ad usare l&apos;icona del server quando la pagina non ne definisce una">
+<!ENTITY useFavIcons2.accesskey "P">
 <!ENTITY scrolling.label "Scorrimento">
 <!ENTITY useAutoScroll.label "Usa lo scorrimento automatico">
 <!ENTITY useAutoScroll.accesskey "s">

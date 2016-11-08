@@ -46,9 +46,9 @@
 <!ENTITY siteUrl.label "Percorso di pubblicazione (ad es.: 'ftp://ftp.isp.com/nomeutente'):">
 <!ENTITY siteUrl.accesskey "P">
 <!ENTITY siteUrl.tooltip "L'indirizzo ftp:// o http:// fornito dal proprio ISP o servizio di hosting web">
-<!ENTITY browseUrl.label "Indirizzo HTTP della pagina home (ad es.: 'http://www.isp.com/nomeutente'):">
+<!ENTITY browseUrl.label "Indirizzo HTTP della pagina iniziale (ad es.: 'http://www.isp.com/nomeutente'):">
 <!ENTITY browseUrl.accesskey "H">
-<!ENTITY browseUrl.tooltip "L'indirizzo http:// della cartella home (senza il nome del file)">
+<!ENTITY browseUrl.tooltip "L'indirizzo http:// della cartella iniziale (senza il nome del file)">
 <!ENTITY username.label "Nome utente:">
 <!ENTITY username.accesskey "u">
 <!ENTITY username.tooltip "Il nome utente usato per accedere all'ISP od al servizio di hosting web">
