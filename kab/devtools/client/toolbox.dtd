@@ -202,7 +202,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Mdel s twurmant ticciwin d ">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ger s wudem awurman ticcewt tumdilt">
 <!ENTITY options.sourceeditor.expandtab.label           "Rigel s useqdec n tallunt">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Seqdec asekkil ilem deg umḍiq n usekkil n trigla">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Seqdec tafinaɣt tilemt deg umḍiq n tfinaɣt n trigla">
 <!ENTITY options.sourceeditor.tabsize.label             "Teɣzi n yiccer">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "z">
 <!ENTITY options.sourceeditor.keybinding.label          "Inegzumen n unasiw">

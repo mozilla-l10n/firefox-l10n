@@ -129,7 +129,7 @@
 <!ENTITY prefs_options_showeditor_tooltip "Sken amaẓrag agensan">
 <!ENTITY prefs_options_tabsize "Teɣzi n yiccer">
 <!ENTITY prefs_options_expandtab "Tarigliwin s tallunin">
-<!ENTITY prefs_options_expandtab_tooltip "Seqdec asekkil ilem deg umḍiq n usekkil n trigla">
+<!ENTITY prefs_options_expandtab_tooltip "Seqdec tafinaɣt tilemt deg umḍiq n tfinaɣt n trigla">
 <!ENTITY prefs_options_detectindentation "Arigel awurman">
 <!ENTITY prefs_options_detectindentation_tooltip "Sumer arigel akken illa ugbur aɣbalu">
 <!ENTITY prefs_options_autocomplete "Taččart tawurmant">
