@@ -828,3 +828,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "오프라인에서 읽을 수 있도록 읽기 모드 항목들을 북마크합니다.">
 <!ENTITY helper_triple_readerview_open_button "북마크에 추가">
 
+<!ENTITY activity_stream_topsites "상위 사이트">
+<!ENTITY activity_stream_highlights "하이라이트">
+<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
+     when pressed. -->
+<!ENTITY activity_stream_more "더 보기">
