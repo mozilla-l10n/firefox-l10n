@@ -235,7 +235,7 @@
      but we can convert to a global search for them.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kemmel anadi inek ɣer ikaramen agi">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kemmel anadi inek ɣer ikaramen-agi">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.

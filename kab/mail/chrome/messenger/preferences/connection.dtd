@@ -9,7 +9,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "l">
 <!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n useɣẓan agrayan n unagraw">
 <!ENTITY  systemTypeRadio.accesskey     "S">
-<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n useɣẓan agrayan n uẓeṭṭa agi">
+<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n useɣẓan agrayan n uẓeṭṭa-yagi">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
 <!ENTITY  manualTypeRadio.label         "Tawila s ufus n useɣẓan agrayan:">
 <!ENTITY  manualTypeRadio.accesskey     "w">
@@ -36,5 +36,5 @@
 <!ENTITY  noproxy.label                 "Ulac aseɣẓan agrayan i:">
 <!ENTITY  noproxy.accesskey             "U">
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Seqdec aqeddac agi n useɣẓan agrayan i yal aneggaf">
+<!ENTITY  shareproxy.label              "Seqdec aqeddac-agi n useɣẓan agrayan i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">

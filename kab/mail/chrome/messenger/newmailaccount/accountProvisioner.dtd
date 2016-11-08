@@ -20,22 +20,22 @@
      around the name that the user has typed in to the search input. -->
 
 <!ENTITY success.title.before "Azul ">
-<!ENTITY success.title.after ", tezemreḍ ad tesqedceḍ tansiwin agi n yimayl: ">
+<!ENTITY success.title.after ", tezemreḍ ad tesqedceḍ tansiwin-agi n yimayl: ">
 <!ENTITY success.tip "(Tzemreḍ ad d-nadiḍ meffer ismawen neɣ awal nniḍen akken ad tafeḍ imaylen)">
 <!ENTITY partnership.description "Deg umɛiwen akked deqs n isaǧǧăwen, &brandShortName;  yezmer ak-d-imudd amiḍan n tirawt amaynut. Ččaṛ kan isem inek amenzu d wis sin, neɣ awalen tebɣiḍ, deg urtan daw-a akken ad tebduḍ.">
 <!ENTITY existing.header "Ɣur-k yakan tansa imayl i tebɣiḍ ad tesqedceḍ?">
 <!ENTITY tinyheader.title "Ɣur-k tansa?">
-<!ENTITY tinyheader.existing "Zgel ayagi u seqdec imayl-inu yellan">
+<!ENTITY tinyheader.existing "Zgel ay-agi u seqdec imayl-inu yellan">
 <!ENTITY content.close "Ahat ad sewleɣ amiḍan-iw ticki.">
 <!ENTITY successful.title "Ayuz!">
 <!ENTITY successful.successMessage "Tebaduḍ akken iwata amiḍan inek.">
 <!ENTITY successful.write "Aru kra n imaylen">
 <!ENTITY successful.write.desc "Eǧǧ imdukal-ik akked twacult inek ɣef tensa inek tamaynut.<br/>Ɛef aya i terniḍ amiḍan inek neɣ ala?">
 <!ENTITY successful.customize "Sugen &brandShortName; s kra n izegrar yelhan">
-<!ENTITY successful.customize.desc "Llan wagimen n izegrara ak-yeǧǧen ad terreḍ &brandShortName;  d udmawan akken ad yerr ɣer ayen tettraǧud.">
+<!ENTITY successful.customize.desc "Llan wagimen n izegrara ad k-yeǧǧen ad terreḍ &brandShortName;  d udmawan akken ad yerr ɣer ayen tettraǧud.">
 <!ENTITY successful.attach "Seddu azmul udmawan deg imayl inu">
 <!ENTITY successful.attach.desc "Tzemreḍ ad tessedduḍ abdar neɣ kra n telqut nniḍen ɣef yiman-ik ɣer tagara n yal izen ara tazneḍ.">
-<!ENTITY successful.close "Mdel asfaylu agi.">
+<!ENTITY successful.close "Mdel asfaylu-agi.">
 <!ENTITY input.namePlaceholder "Isem akke meffer isem-ik">
 <!ENTITY input.search "Nadi">
 <!ENTITY search_engine.title "Sagen amsedday inek n unadi">

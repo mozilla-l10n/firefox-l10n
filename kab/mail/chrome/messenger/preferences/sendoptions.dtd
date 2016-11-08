@@ -17,7 +17,7 @@
 <!ENTITY sendBoth.accesskey           "z">
 <!ENTITY override.label               "Tamawt: Seqdec Imedlis n tensa akken ad temleḍ imasalen n uḍris i tebɣiḍ i yinermisen.">
 
-<!ENTITY domaindesc.label             "Ticki tuzneḍ izen ɣer tensa s yiwen n yesmawen agi n taɣult, &brandShortName; ad yazen s wudem awurman izen s umasal ameɣtu.">
+<!ENTITY domaindesc.label             "Ticki tuzneḍ izen ɣer tensa s yiwen n yesmawen-agi n taɣult, &brandShortName; ad yazen s wudem awurman izen s umasal ameɣtu.">
 <!ENTITY HTMLTab.label                "Tiɣula HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Tiɣula n uḍris ačuṛan">

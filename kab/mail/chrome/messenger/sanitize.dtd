@@ -34,6 +34,6 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 
-<!ENTITY sanitizeEverythingUndoWarning     "UR tezmireḍ ara ad tesfesxeḍ tigawt agi">
+<!ENTITY sanitizeEverythingUndoWarning     "UR tezmireḍ ara ad tesfesxeḍ tigawt-agi">
 
 <!ENTITY dialog.width                 "28em">

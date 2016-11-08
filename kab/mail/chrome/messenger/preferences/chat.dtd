@@ -17,7 +17,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "tisdatin anda ulac-iyi">
 
-<!ENTITY  andSetStatusToAway.label      "u sbadu addad inu ɣer Ulac-it s yizen agi n waddad">
+<!ENTITY  andSetStatusToAway.label      "u sbadu addad inu ɣer Ulac-it s yizen-agi n waddad">
 <!ENTITY  andSetStatusToAway.accesskey  "U">
 
 <!ENTITY  sendTyping.label              "Azen alɣu ticki ttaruɣ deg udiwenni">
@@ -35,7 +35,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "U">
 <!ENTITY  systemSound.label                   "Imesli n unagraw amezwer i yimayl amaynut">
 <!ENTITY  systemSound.accesskey               "m">
-<!ENTITY  customsound.label                   "Seqdec afaylu agi n imesli">
+<!ENTITY  customsound.label                   "Seqdec afaylu-yagi n imesli">
 <!ENTITY  customsound.accesskey               "S">
 <!ENTITY  browse.label                        "Ḍum…">
 <!ENTITY  browse.accesskey                    "Ḍ">

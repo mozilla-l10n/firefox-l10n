@@ -209,18 +209,18 @@
 <!ENTITY printButton.label "Siggez">
 <!-- Mail Toolbar Tooltips -->
 
-<!ENTITY sendButton.tooltip "Azen Izen agi tura">
-<!ENTITY sendlaterButton.tooltip "Azen izen agi ticki">
+<!ENTITY sendButton.tooltip "Azen Izen-agi tura">
+<!ENTITY sendlaterButton.tooltip "Azen izen-agi ticki">
 <!ENTITY quoteButton.tooltip "Bder-d izen yezrin">
 <!ENTITY addressButton.tooltip "Fren aɣerwaḍ seg imedlis n tensa">
 <!ENTITY attachButton.tooltip "Seddu amedday">
 <!ENTITY spellingButton.tooltip "Seɣti taɣdira n ufran neɣ izen imeṛṛa">
 <!ENTITY statusLanguageText.tooltip "Tutlayt n useɣti n teɣdira">
-<!ENTITY saveButton.tooltip "Sekles izen agi">
+<!ENTITY saveButton.tooltip "Sekles izen-agi">
 <!ENTITY cutButton.tooltip              "Gzem">
 <!ENTITY copyButton.tooltip             "Nɣel">
 <!ENTITY pasteButton.tooltip            "Senteḍ">
-<!ENTITY printButton.tooltip "Siggez izen agi">
+<!ENTITY printButton.tooltip "Siggez izen-agi">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

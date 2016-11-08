@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label     "Yemeɣra akk ayagi">
+<!ENTITY matchAll.label     "Yemeɣra akk ay-agi">
 <!ENTITY matchAll.accesskey "Y">
-<!ENTITY matchAny.label     "Yemeɣra yiwen seg ayagi">
+<!ENTITY matchAny.label     "Yemeɣra yiwen seg ay-agi">
 <!ENTITY matchAny.accesskey "m">
 <!ENTITY matchAllMsgs.label     "Yemeɣra akk iznan">
 <!ENTITY matchAllMsgs.accesskey "z">

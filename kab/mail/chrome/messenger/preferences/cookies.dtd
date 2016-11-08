@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Inagan agi n tuqqna kelsen ɣef uselkim inek:">
+<!ENTITY cookiesonsystem.label             "Inagan-agi n tuqqna kelsen ɣef uselkim inek:">
 <!ENTITY cookiename.label                  "Isem n unagi n tuqqna">
 <!ENTITY cookiedomain.label                "Asmel web">
 <!ENTITY button.removecookie.label         "Kkes inagan n tuqqna">

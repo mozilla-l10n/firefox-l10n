@@ -26,7 +26,7 @@
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "&brandShortName; yezmer ad yesleḍ iznan igebren imaylen n ukellex s unadi n tetikniyin yettwasnen i yettuseqdacen akken ak-kelxen.">
-<!ENTITY enablePhishingDetector1.label    "Ini-d ma yella izen agi aɣareɣ akka tura d imayl n ukellex">
+<!ENTITY enablePhishingDetector1.label    "Ini-d ma yella izen-agi ad ɣareɣ akka tura d imayl n ukellex">
 <!ENTITY enablePhishingDetector1.accesskey  "I">
 <!ENTITY useDownloadedList.label "Seqdec tabdart yettwasidren n imaylen yettbanen d akellex">
 <!ENTITY useDownloadedList.accesskey "q">

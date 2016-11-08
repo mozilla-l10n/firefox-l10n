@@ -22,23 +22,23 @@
 <!ENTITY originalWebsite4.label "Asmel web">
 
 <!ENTITY hdrArchiveButton1.label "Aɣbaṛ">
-<!ENTITY hdrArchiveButton1.tooltip "Ḥrez izen agi">
+<!ENTITY hdrArchiveButton1.tooltip "Ḥrez izen-agi">
 <!ENTITY hdrSmartReplyButton1.label "Tiririt s tigzi">
 <!ENTITY hdrReplyButton1.label "Err">
-<!ENTITY hdrReplyButton2.tooltip "Err i umazan n yizen agi">
+<!ENTITY hdrReplyButton2.tooltip "Err i umazan n yizen-agi">
 <!ENTITY hdrReplyAllButton1.label "Err-asen akk">
 <!ENTITY hdrReplyAllButton1.tooltip "Err i umazan d inermisen imeṛṛa">
 <!ENTITY hdrReplyListButton1.label "Err i tebdart">
 <!ENTITY hdrReplyListButton1.tooltip "Err i tabdart n tirawt">
 <!ENTITY hdrFollowupButton1.label "Ḍfaṛ">
-<!ENTITY hdrFollowupButton1.tooltip "Azen aseḍfeṛ i ugraw agi n isalen">
+<!ENTITY hdrFollowupButton1.tooltip "Azen aseḍfeṛ i ugraw-agi n isalen">
 <!ENTITY hdrMenuForwardButton.label "Welleh am">
 <!ENTITY hdrForwardButton1.label "Welleh">
-<!ENTITY hdrForwardButton1.tooltip "Welleh izen agi">
+<!ENTITY hdrForwardButton1.tooltip "Welleh izen-agi">
 <!ENTITY hdrJunkButton1.label "Aspam">
-<!ENTITY hdrJunkButton1.tooltip "Creḍ izen agi d aspam">
+<!ENTITY hdrJunkButton1.tooltip "Creḍ izen-agi d aspam">
 <!ENTITY hdrTrashButton1.label "Kkes">
-<!ENTITY hdrTrashButton1.tooltip "Kkes izen agi">
+<!ENTITY hdrTrashButton1.tooltip "Kkes izen-agi">
 
 <!ENTITY hdrViewToolbarShowFull.label "Sken tiginitin akked uḍris">
 <!ENTITY hdrViewToolbarShowFull.accesskey "ḍ">

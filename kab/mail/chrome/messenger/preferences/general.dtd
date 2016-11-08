@@ -31,7 +31,7 @@
 <!ENTITY systemsoundMac.label             "Imeslin n ulɣu n unagraw">
 <!ENTITY systemsoundMac.accesskey         "g">
 <!ENTITY systemsound.accesskey            "y">
-<!ENTITY customsound.label                "Seqdec afaylu n imesli agi">
+<!ENTITY customsound.label                "Seqdec afaylu n imesli-agi">
 <!ENTITY customsound.accesskey            "S">
 <!ENTITY browse.label                     "Ḍum…">
 <!ENTITY browse.accesskey                 "Ḍ">
