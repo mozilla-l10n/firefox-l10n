@@ -114,5 +114,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> பழமையான பாதுகாப்பு தொழில்நுட்பத்தைக் கொண்டிருப்பதால் பாதிப்பு ஏற்படும். இணைய திருடர்கள் பாதுகாப்பற்ற தரவுகளை வெளியாக்கலாம். நீங்கள் தளத்தைப் பார்வையிடும் முன் இந்தச் சேவகனை நிர்வகிப்பவர் தளத்தைச் சரி செய்தல் வேண்டும்.</p><p>பிழைக் குறியீடு: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "உங்கள் பிணையப் பாதுகாப்பு அமைகள் இதற்குக் காரணமாக இருக்கலாம். முன்னிருப்பை மீட்டமைக்க விரும்புகிறீர்களா?">
+<!ENTITY prefReset.label "முன்னிருப்பை மீட்டமை">
