@@ -17,15 +17,15 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; ittumag i kečč ddaw tewtilin n ">
 <!ENTITY rights.intro-point1b "Turagt tazayezt n Mozilla">
-<!ENTITY rights.intro-point1c ". Ayagi yebɣa ad yini tmzemreḍ ad tesqedceḍ, ad tesneɣleḍ u ad tezzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ diɣen ad tesnifleḍ tangalt aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ak teǧǧ daɣen ad tezzuzreḍ ileqman ittusniflen.">
+<!ENTITY rights.intro-point1c ". Ay-agi yebɣa ad yini tmzemreḍ ad tesqedceḍ, ad tesneɣleḍ u ad tezzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ diɣen ad tesnifleḍ tangalt aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ak teǧǧ daɣen ad tezzuzreḍ ileqman ittusniflen.">
 
 <!ENTITY rights.intro-point2a "Mozilla ur k-tettmuddu ara izerfan n tecraḍ neɣ iluguten n Mozilla akked Thunderbird. Yezmer ad tefaeḍ ugar n telɣut ɣef ticraḍ ">
-<!ENTITY rights.intro-point2b "dagi">
+<!ENTITY rights.intro-point2b "d-agi">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "Yezmer ad tafeḍ tasertit tabaḍnit n ifarisen n &vendorShortName;">
-<!ENTITY rights.intro-point3b "dagi">
+<!ENTITY rights.intro-point3b "d-agi">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 

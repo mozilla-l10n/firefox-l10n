@@ -20,12 +20,12 @@
 <!ENTITY docDirList.tooltip           "Fren neɣ sekcem isem n ukaram anmeggag i usebter-agi">
 <!ENTITY publishImgCheckbox.label     "Seddu tugniwin akked ifuyla nniḍen.">
 <!ENTITY publishImgCheckbox.accesskey "n">
-<!ENTITY publishImgCheckbox.tooltip   "Ẓreg tugniwin akked ifuyla nniḍen i d-ittunefken deg usebter agi">
+<!ENTITY publishImgCheckbox.tooltip   "Ẓreg tugniwin akked ifuyla nniḍen i d-ittunefken deg usebter-agi">
 <!ENTITY sameLocationRadio.label      "Seqdec adig nni iman-is am usebter">
 <!ENTITY sameLocationRadio.accesskey  "q">
 <!ENTITY sameLocationRadio.tooltip    "Suffeɣ ifuyla ɣer wadig nni iman-is am usebter">
-<!ENTITY useSubdirRadio.label         "Seqdec ikaramen agi isnawanen n usmel:">
-<!ENTITY useSubdirRadio.accesskey     "s">
+<!ENTITY useSubdirRadio.label         "Ẓreg tugniwin akked ifuyla nniḍen i d-ittunefken deg usebter-agi ">
+<!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Suffeɣ ifuyla ɣer ukaram asnawan anmeggag yettwafernen">
 <!ENTITY otherDirList.tooltip         "Fren neɣ sekcem isem n ukaram asnwan anmeggag aniɣer ad tessuffɣeḍ ifuyla.">
 <!ENTITY pageTitle.label              "Azwel n usebtar:">
@@ -47,7 +47,7 @@
 <!ENTITY loginInfo.label              "Talɣut n unekcum">
 <!ENTITY siteName.label               "Isem n usmel wab:">
 <!ENTITY siteName.accesskey           "s">
-<!ENTITY siteName.tooltip             "Meffer isem i yesuluyen asmel agi n tezrigt (amedya: 'Asmel-iw')">
+<!ENTITY siteName.tooltip             "Meffer isem i yesuluyen asmel-agi n tezrigt (amedya: 'Asmel-iw')">
 <!ENTITY siteUrl.label                "Tansa n teẓrigt (amedya: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Tansa  FTP:// neɣ HTTP:// i k-d-imidd  ISP yineqk neɣ ameẓlu n tnezduɣt web.">
@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Awal uffir icudden ɣer yisem n useqdac">
 <!ENTITY savePassword.label           "Se~kles awal uffir">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Fren wagi akken ad tesekelseḍ awal inek uffir s wudem aɣalsan s useqdec n umsefrak n wawal uffir">
+<!ENTITY savePassword.tooltip         "Fren w-agi akken ad tesekelseḍ awal inek uffir s wudem aɣalsan s useqdec n umsefrak n wawal uffir">

@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Akken ad d-remseḍ iznan, tesriḍ ad tesbaduḍ amiḍan.">
 <!ENTITY accountTypeTitle.label "Tawila n umiḍan amaynut">
-<!ENTITY accountTypeDesc2.label "Amarag agi ad yekqeḍ talɣut ilaqen i wesbadu n umiḍan. Ma yella ur tezṛiḍ ara talɣut ilaqen, nermes anedbal inek n unagraw neɣ aseǧǧaw n umeẓlu Internet.">
+<!ENTITY accountTypeDesc2.label "Amarag-agi ad yekqeḍ talɣut ilaqen i wesbadu n umiḍan. Ma yella ur tezṛiḍ ara talɣut ilaqen, nermes anedbal inek n unagraw neɣ aseǧǧaw n umeẓlu Internet.">
 <!ENTITY accountTypeDirections.label "Fren anaw n umiḍan i tebɣiḍ ad tesbaduḍ:">
 <!ENTITY accountTypeMail.label "Amiḍan n yimayl">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Sekcem isem n uqeddac inek uffiɣ (SMTP) (amedya, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Aqeddac uffiɣ ">
 <!ENTITY outgoingServer.accesskey "q">
-<!ENTITY outgoingUsername.description "Sekcem isem n useqdac inek uffiɣ ik-d-yefka u saǧǧaw inek n yimayl (wagi am yisem n useqdac inek ukcim).">
+<!ENTITY outgoingUsername.description "Sekcem isem n useqdac inek uffiɣ ik-d-yefka u saǧǧaw inek n yimayl (w-agi am yisem n useqdac inek ukcim).">
 <!ENTITY outgoingUsername.label "Isem n uqeddac uffiɣ:">
 <!ENTITY outgoingUsername.accesskey "I">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
@@ -110,15 +110,15 @@
 
 
 <!ENTITY completionTitle.label "Ayuz!">
-<!ENTITY completionText.label "Ma ulac aɣilif, senqed talɣut daw agi ma yalla ţameɣtut.">
+<!ENTITY completionText.label "Ma ulac aɣilif, senqed talɣut daw-agi ma yalla d tameɣtut.">
 <!ENTITY serverTypePrefix.label "Tawsit n uqeddac ukcim:">
 <!ENTITY serverNamePrefix.label "Isem n uqeddac ukcim:">
 <!ENTITY smtpServerNamePrefix.label "Isem n uqeddac uffiɣ (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Isem n uqeddac n isalen (NNTP):">
 <!ENTITY downloadOnLogin.label "Zdem tura iznan">
 <!ENTITY downloadOnLogin.accesskey "Z">
-<!ENTITY deferStorageDesc.label "Tukksa n ṛṛcem n texxamt agi ad yesekles imaylen n umiḍan agi deg ukaram ines. Ayagi ad yesban amiḍan deg uswir n ufella. Neq ma ulac, ad d-iban ɣef umiḍan n tebwaṭtamatut n ikaramen idiganen.">
+<!ENTITY deferStorageDesc.label "Tukksa n ṛṛcem n texxamt-agi ad yesekles imaylen n umiḍan-agi deg ukaram ines. Ay-agi ad yesban amiḍan deg uswir n ufella. Neq ma ulac, ad d-iban ɣef umiḍan n tebwaṭ tamatut n ikaramen idiganen.">
 <!ENTITY deferStorage.label "Seqdec tabwaṭ tamatut (ad yesekles imaylen ɣef ikaramen idiganen)">
 <!ENTITY deferStorage.accesskey "b">
-<!ENTITY clickFinish.label "Sit ɣef Fak akken ad tessekelseḍ iɣewwaṛen agi sakin ad teffɣeḍ seg umarag n umiḍan.">
-<!ENTITY clickFinish.labelMac "Sit ɣef Yemmed akken ad tessekelseḍ iɣewwaṛen agi sakin ad teffɣeḍ seg umarag n umiḍan.">
+<!ENTITY clickFinish.label "Sit ɣef Fak akken ad tessekelseḍ iɣewwaṛen-agi sakin ad teffɣeḍ seg umarag n umiḍan.">
+<!ENTITY clickFinish.labelMac "Sit ɣef Yemmed akken ad tessekelseḍ iɣewwaṛen-agi sakin ad teffɣeḍ seg umarag n umiḍan.">

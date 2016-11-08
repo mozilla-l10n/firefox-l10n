@@ -4,10 +4,10 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
-<!ENTITY menu_securityEncryptRequire.label "Wgelhen izen agi">
+<!ENTITY menu_securityEncryptRequire.label "Wgelhen izen-agi">
 <!ENTITY menu_securityEncryptRequire.accesskey "W">
 
-<!ENTITY menu_securitySign.label "Zmel s wudem umḍin izen agi">
+<!ENTITY menu_securitySign.label "Zmel s wudem umḍin izen-agi">
 <!ENTITY menu_securitySign.accesskey "z">
 
 <!ENTITY menu_securityStatus.label "Wali talɣt n tɣellist">
