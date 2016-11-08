@@ -206,14 +206,14 @@
 <!ENTITY pref_manage_logins "Stiùirich na clàraidhean a-steach">
 
 <!ENTITY pref_category_home "Dhachaigh">
-<!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
+<!ENTITY pref_category_home_summary "Gnàthaich an duilleag mhòr agad">
 <!ENTITY pref_category_home_panels "Panailean">
 <!ENTITY pref_category_home_add_ons "Tuilleadain">
 <!ENTITY pref_home_updates2 "Ùrachaidhean susbaint">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
-<!ENTITY pref_category_home_homepage "Duilleag-dhachaigh">
-<!ENTITY home_homepage_title "Suidhich duilleag-dhachaigh">
+<!ENTITY pref_category_home_homepage "An duilleag mhòr">
+<!ENTITY home_homepage_title "Suidhich an duilleag mhòr">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
