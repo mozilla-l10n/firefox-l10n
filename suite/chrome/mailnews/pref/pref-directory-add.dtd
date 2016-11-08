@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
-<!ENTITY newDirectoryTitle.label "Proprietà server directory">
 <!ENTITY directoryName.label "Nome:">
 <!ENTITY directoryName.accesskey "N">
 <!ENTITY directoryHostname.label "Nome host:">
