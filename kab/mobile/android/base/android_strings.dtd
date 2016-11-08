@@ -175,7 +175,7 @@
 <!ENTITY pref_category_privacy_short "Tabaḍnit">
 <!ENTITY pref_category_privacy_summary4 "Asfuɣel, inekcumen,afran n isefka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Ɣef &brandShortName;, isteqsiyen yettwasnen FAQs, tiktiwin">
+<!ENTITY pref_category_vendor_summary2 "Ɣef &brandShortName;, isteqsiyen yettwassnen FAQs, tiktiwin">
 <!ENTITY pref_category_datareporting "Afran n isefka">
 <!ENTITY pref_category_logins "Inekcumen">
 <!ENTITY pref_learn_more "Issin ugar">
