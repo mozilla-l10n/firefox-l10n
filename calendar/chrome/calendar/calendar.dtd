@@ -363,7 +363,7 @@
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Detalii…">
-<!ENTITY calendar.error.code "Cod de eroare:">
+<!ENTITY calendar.error.code "Codul erorii:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">
 <!-- Extract buttons in message header -->
