@@ -34,10 +34,10 @@
 <!ENTITY focus2.commandkey "d">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY modeToolbar.tooltip "Modalità barra strumenti">
-<!ENTITY entryToolbar.tooltip "Barra strumenti elemento javascript">
+<!ENTITY entryToolbar.tooltip "Barra strumenti immissione javascript">
 <!ENTITY toolbarsCmd.label "Mostra/nascondi">
-<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY toolbarsCmd.accesskey "n">
 <!ENTITY toolbarMode.label "Modalità">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label "Elemento javascript">
-<!ENTITY toolbarEval.accesskey "J">
+<!ENTITY toolbarEval.accesskey "E">

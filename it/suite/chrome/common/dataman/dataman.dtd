@@ -53,8 +53,8 @@
 <!ENTITY perm.AllowSession "Permetti per la sessione">
 <!ENTITY perm.Block "Blocca">
 <!ENTITY perm.host.placeholder "Inserire nome host">
-<!ENTITY permpwd.button.add.label "Aggiungi">
-<!ENTITY permpwd.button.add.accesskey "A">
+<!ENTITY perm.button.add.label "Aggiungi">
+<!ENTITY perm.button.add.accesskey "A">
 <!ENTITY prefs.description "Le preferenze di contenuto sono un modo per &brandShortName; di salvare le proprie impostazioni specifiche per un sito come il livello di zoom.">
 <!ENTITY prefs.tree.host.label "Sito">
 <!ENTITY prefs.tree.name.label "Nome preferenza">
