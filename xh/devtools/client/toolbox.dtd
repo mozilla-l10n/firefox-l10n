@@ -109,14 +109,18 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-
+<!ENTITY options.disableHTTPCache.tooltip   "Ukuvulela olu khetho kuza kuvala uvimba weHTTP kuzo zonke iithebhu ezivule ithulbhoks. AbaSebenzi beeNkonzo abachatshazelwa bona lolu khetho.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
+<!ENTITY options.enableServiceWorkersHTTP.label     "Vulela abaSebenzi beeNkonzo kwiHTTP (xa ithulbhoks ivuliwe)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ukujija olu khetho  kuya kuvulela abasebenzi benkonzo ngaphezu kwe-HTTP yazo zonke iithebhu ezinethulbhoksi evuliweyo">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "IziXhobo zomPhuhlisi zesiQhelo">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -126,9 +130,13 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "AmaQhosha eThulbhoks aFumanekayo">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* Ayixhaswa kwithulbhoks ekhoyo">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
