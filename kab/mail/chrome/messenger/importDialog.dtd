@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Akaram n ukter &brandShortName; ">
 <!ENTITY importShortDesc.label    "Kter imaylen, Imedlisen n tensa, Iɣewwaṛen, imzizdigen seg iseɣẓanen nniḍen">
 
-<!ENTITY importDescription1.label "Amarag agi ad d-yekter ɣer &brandShortName; iznan, inekcam n imedlis n tensa, amulteɣ n usuddem, ismenyaf, akked imzizdigen seg iseɣẓanen n tirawt akked imasalen yettwasnen n imedlisen n tensa.">
+<!ENTITY importDescription1.label "Amarag-agi ad d-yekter ɣer &brandShortName; iznan, inekcam n imedlis n tensa, amulteɣ n usuddem, ismenyaf, akked imzizdigen seg iseɣẓanen n tirawt akked imasalen yettwasnen n imedlisen n tensa.">
 <!ENTITY importDescription2.label "Ticki ttwaketren, ad tizmired ad tkecmeḍ ɣer-sen di &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Ma ulac aɣilif fren anaw n ufaylu i tebɣid ad tketreḍ:">

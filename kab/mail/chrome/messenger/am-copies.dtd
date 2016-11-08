@@ -11,11 +11,11 @@
 <!ENTITY fccReplyFollowsParent.label "Sers tiririt deg ukaram n yizen ara tettarraḍ">
 <!ENTITY fccReplyFollowsParent.accesskey "e">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Azen Anɣ.I i tensiwin agi:">
+<!ENTITY ccAddress.label "Azen Anɣ.I i tensiwin-agi:">
 <!ENTITY ccAddress.accesskey "I">
 <!ENTITY ccAddressList.placeholder "Frez tansiwin s ticcert">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Azen Anɣ.Uff i tensiwin agi:">
+<!ENTITY bccAddress.label "Azen Anɣ.Uff i tensiwin-agi:">
 <!ENTITY bccAddress.accesskey "U">
 <!ENTITY bccAddressList.placeholder "Frez tansiwin s ticcert">
 <!ENTITY saveMessageDlg.label "Sken adiwenni n usentem ticki izen yettwasekles">

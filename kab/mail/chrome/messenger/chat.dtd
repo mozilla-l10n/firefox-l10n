@@ -6,9 +6,9 @@
 <!ENTITY offlineContactsHeader.label   "Inermisen iruqqinen">
 <!ENTITY conversationsHeader.label     "Idiwenniten">
 <!ENTITY searchResultConversation.label "Agemuḍ n unadi">
-<!ENTITY chat.noConv.title             "Idiwenniyen ad ttuseknen dagi.">
+<!ENTITY chat.noConv.title             "Idiwenniyen ad ttuseknen d-agi.">
 <!ENTITY chat.noConv.description       "Seqdec tabdart n umermis n uẓelmaḍ n ugalis i wensenker n udiwenni.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName; ulac degs akka tura idiwinniyen yettwakelsen i unermis agi.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; ulac degs akka tura idiwinniyen yettwakelsen i unermis-agi.">
 <!ENTITY chat.noAccount.title             "Ur tesbaduḍ ara aùiḍan n usqerdec ara tura.">
 <!ENTITY chat.noAccount.description       "Eǧǧ &brandShortName; ak-d-yesken  akala n  usebded n umiḍan inek n udiwenni usrid.">
 <!ENTITY chat.accountWizard.button       "Bdu">

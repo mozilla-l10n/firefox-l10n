@@ -145,7 +145,7 @@
 <!ENTITY GenericPhoto.label             "Tugna timcettelt">
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Amezwer">
-<!ENTITY PhotoFile.label                "Ɣef uselkim agi">
+<!ENTITY PhotoFile.label                "Ɣef uselkim-agi">
 <!ENTITY PhotoFile.accesskey            "f">
 <!ENTITY BrowsePhoto.label              "Ḍum">
 <!ENTITY BrowsePhoto.accesskey          "u">

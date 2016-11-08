@@ -8,7 +8,7 @@
 <!ENTITY addressingGroupTitle.label "Asuddes">
 <!ENTITY addressingText.label      "Ticki tettnadiḍ tansiwin:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Seqdec iɣewwaṛen inu  n uqeddac LDAP amatu deg umiḍan agi">
+<!ENTITY useGlobal.label           "Seqdec iɣewwaṛen inu  n uqeddac LDAP amatu deg umiḍan-agi">
 <!ENTITY useGlobal.accesskey       "q">
 <!ENTITY editDirectories.label     "Ẓreg ikaramen...">
 <!ENTITY editDirectories.accesskey "Ẓ">

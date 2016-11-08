@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Ur d-ttarra ara ugan n">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "igmaḍ">
-<!ENTITY offlineText.label                 "Tzemreḍ ad d-sidreḍ anɣel adigan n ukaram agi akken ad yeli ihegga i weseqdec ticki temahaleḍ s war tuqqna.">
+<!ENTITY offlineText.label                 "Tzemreḍ ad d-sidreḍ anɣel adigan n ukaram-agi akken ad yeli ihegga i weseqdec ticki temahaleḍ s war tuqqna.">
 <!ENTITY saslMechanism.label               "tarrayt n unekcum: ">
 <!ENTITY saslMechanism.accesskey           "k">
 <!ENTITY saslOff.label                     "Aḥerfi">

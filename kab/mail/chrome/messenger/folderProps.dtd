@@ -12,8 +12,8 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bnu tikelt nniḍen amatar n ufaylu n ugzul">
 <!ENTITY folderRebuildSummaryFile2.label         "Seggem akaram">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "g">
-<!ENTITY folderRebuildSummaryFile.explanation    "Tikwal, afaylu n umatar n ukaram (.msf) ixetteṛ udiɣ yezmer d akken kra n yeznan ad ṛuḥen, iznan nni den yettwakksen ad banen. Aseggem n ukaram agi yemzer ad yefru uguren agi.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Seddu iznan deg ukaram agi deg igmaḍ n unadi amatu">
+<!ENTITY folderRebuildSummaryFile.explanation    "Tikwal, afaylu n umatar n ukaram (.msf) ixetteṛ udiɣ yezmer d akken kra n yeznan ad ṛuḥen, iznan nni den yettwakksen ad banen. Aseggem n ukaram-agi yemzer ad yefru uguren-agi.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Seddu iznan deg ukaram-agi deg igmaḍ n unadi amatu">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "z">
 
 <!ENTITY retention.label "Tasertit n tuṭṭfa">
@@ -34,10 +34,10 @@
 <!ENTITY retentionApplyToFlagged.accesskey "z">
 
 <!ENTITY folderSynchronizationTab.label          "Amtawi">
-<!ENTITY folderCheckForNewMessages2.label         "Ticki bbḍen-k-id yeznan imaynuten ɣef umiḍan agi, senqad akaram agi yal tikelt">
+<!ENTITY folderCheckForNewMessages2.label         "Ticki bbḍen-k-id yeznan imaynuten ɣef umiḍan-agi, senqad akaram-agi yal tikelt">
 <!ENTITY folderCheckForNewMessages2.accesskey     "ḍ">
 
-<!ENTITY offlineFolder.check.label               "Fren akaram agi i useqdec n war tuqqna">
+<!ENTITY offlineFolder.check.label               "Fren akaram-agi i useqdec n war tuqqna">
 <!ENTITY offlineFolder.check.accesskey           "F">
 <!ENTITY offlineFolder.button.label              "Zdem tura">
 <!ENTITY offlineFolder.button.accesskey          "Z">
@@ -55,7 +55,7 @@
 <!ENTITY folderSharingTab.label                  "Beṭṭu">
 <!ENTITY privileges.button.label                 "Tiseglutin…">
 <!ENTITY privileges.button.accesskey             "g">
-<!ENTITY permissionsDesc.label                   "Ɣur-k tisirag agi:">
+<!ENTITY permissionsDesc.label                   "Ɣur-k tisirag-agi:">
 <!ENTITY folderType.label                        "Tawsit n ukaram:">
 
 <!ENTITY folderQuotaTab.label                    "Amur">

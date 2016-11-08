@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "W">
 <!ENTITY alwaysEncryptMessage.label "Yettawsra(ur yezmir ara ad yazen izen arama akk iɣewaḍen ɣur-sen iselkan)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Seqdec aselkin agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
+<!ENTITY encryptionCert.message "Seqdec aselkin-agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
 <!ENTITY digitalSign.certificate.button "Fren...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Sfeḍ">
@@ -23,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Azmul umḍin">
 <!ENTITY signMessage.label "Zmel s wudem umḍin iznan (amezwer)">
 <!ENTITY signMessage.accesskey "Z">
-<!ENTITY signingCert.message "Seqdec aselkin agi i uzmel s wudem umḍin n yeznan i d-remseḍ:">
+<!ENTITY signingCert.message "Seqdec aselkin-agi i uzmel s wudem umḍin n yeznan i d-remseḍ:">
 
 <!ENTITY certificates.label "Iselkan">
 <!ENTITY manageCerts2.label "Sefrek iselkan">

@@ -269,7 +269,7 @@
 
 <!ENTITY findMenu.label "Nadi">
 <!ENTITY findMenu.accesskey "N">
-<!ENTITY findCmd.label "Nadi deg izen agi…">
+<!ENTITY findCmd.label "Nadi deg izen-agi…">
 <!ENTITY findCmd.accesskey "N">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Nadi ɣer zdat">
@@ -556,7 +556,7 @@
 <!ENTITY deleteButton.tooltip "Kkes izen neɣ akaram ifernen">
 <!ENTITY undeleteButton.tooltip "Sefsex tukksa n yizen ifernen">
 <!ENTITY markButton.tooltip "Cṛeḍ iznan">
-<!ENTITY printButton.tooltip "Siggez izen agi">
+<!ENTITY printButton.tooltip "Siggez izen-agi">
 <!ENTITY stopButton.tooltip "Seḥbes asiweḍ amiran">
 <!ENTITY junkButton.tooltip "Creḍ iznan yettwafernen am uspam">
 <!ENTITY notJunkButton.tooltip "Creḍ iznan yettwafernen mačči d aspam">
@@ -571,7 +571,7 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Welleh am umedday">
 <!-- Remote Content Button Popup -->
 
-<!ENTITY remoteContentOptionsAllowForMsg.label "Sken agbur anmeggag ɣef izen agi">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Sken agbur anmeggag ɣef izen-agi">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "k">
 <!ENTITY editRemoteContentSettings.label "Ẓreg iɣewwaṛen n ugbur anmeggag…">
 <!ENTITY editRemoteContentSettings.accesskey "Ẓ">
@@ -579,7 +579,7 @@
 <!ENTITY editRemoteContentSettingsUnix.accesskey "Ẓ">
 <!-- Phishing Button Popup -->
 
-<!ENTITY phishingOptionIgnore.label "Anef alɣu i yizen agi">
+<!ENTITY phishingOptionIgnore.label "Anef alɣu i yizen-agi">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Ẓreg iɣewwaṛen n tiffin n ukellex…">
 <!ENTITY phishingOptionSettings.accesskey "Ẓ">
@@ -808,7 +808,7 @@
    items are "This folder", "B", and "C".  This is the equivalent of the
    "File here" option for the move to/copy to widge.t
   -->
-<!ENTITY columnPicker.thisFolder.label "Akaram agi">
+<!ENTITY columnPicker.thisFolder.label "Akaram-agi">
 <!-- Media (video/audio) controls -->
 
 

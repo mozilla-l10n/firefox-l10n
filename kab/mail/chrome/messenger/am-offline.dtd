@@ -5,7 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Akken ad teḥerzeḍ amkan deg udebṣi, ur d-sidir ara:">
 <!ENTITY doNotDownloadNntp.label "Akken ad tḥ€rzeḍ amkan ɣef udebṣi, ur sidir ara i useqdec deg uskar war tuqqna:">
 <!ENTITY doNotDownloadImap.label "Akken ad teḥ€rzeḍ amkan ɣef udebṣi, asider n yeznan seg uqeddac akked uḥraz n yenɣal idiganen i useqdec deg uskar war tuqqna yezmer ad yettusewḥel s uwtay neɣ s teɣzi.">
-<!ENTITY allFoldersOffline.label "Ḥrez iznan n umiḍan agi ɣef uselkim agi">
+<!ENTITY allFoldersOffline.label "Ḥrez iznan n umiḍan-agi ɣef uselkim-agi">
 <!ENTITY allFoldersOffline.accesskey "ḍ">
 <!ENTITY offlineNotDownload.label "Iznan meqqren ɣef">
 <!ENTITY offlineNotDownload.accesskey "z">

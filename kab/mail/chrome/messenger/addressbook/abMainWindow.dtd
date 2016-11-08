@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Imedlis n tensa">
-<!ENTITY blankResultsPaneMessage.label                  "Imedlis agi n tensa iskaned kan inermisen deffir unadi">
+<!ENTITY blankResultsPaneMessage.label                  "Imedlis-agi n tensa iskaned kan inermisen deffir unadi">
 <!ENTITY localResultsOnlyMessage.label                  "Inermisen n imedlisen n tensa inmeggagen ttuskanen-d kan ticki tnunaḍ">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Afaylu">
@@ -211,7 +211,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Tansiwin">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Awi-d takarfḍa n tarakalt">
-<!ENTITY mapIt.tooltip                                  "Sken takarḍa n tarakalt n tensa agi si Web">
+<!ENTITY mapIt.tooltip                                  "Sken takarḍa n tarakalt n tensa-yagi si Web">
 <!-- Status Bar -->
 
 <!ENTITY statusText.label                               "">

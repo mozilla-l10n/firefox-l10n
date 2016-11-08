@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Inagan n waggaḍ">
-<!ENTITY useGlobalPrefs.label         "Seqdec ismenyifen inu imuta n inagan n waggaḍ deg umidan agi">
+<!ENTITY useGlobalPrefs.label         "Seqdec ismenyifen inu imuta n inagan n waggaḍ deg umidan-agi">
 <!ENTITY useGlobalPrefs.accesskey     "q">
 <!ENTITY globalReceipts.label         "Iɣewwaṛen imuta…">
 <!ENTITY globalReceipts.accesskey     "ɣ">
-<!ENTITY useCustomPrefs.label         "Sagen inagan n waggaḍ i umiḍan agi">
+<!ENTITY useCustomPrefs.label         "Sagen inagan n waggaḍ i umiḍan-agi">
 <!ENTITY useCustomPrefs.accesskey     "g">
 <!ENTITY requestReceipt.label         "&amp;Ticki ttuzneḍ iznan, sutur yal tikelt inagan n waggaḍ">
 <!ENTITY requestReceipt.accesskey     "c">
