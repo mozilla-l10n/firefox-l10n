@@ -16,27 +16,27 @@
 <!ENTITY  manualUpdateGetMsg.label        "Tzemreḍ yal tikelt ad awiḍ lqem aneggaru n &brandShortName; ɣef:">
 
 <!ENTITY  unsupported.title               "Anagraw ur iţusefrak ara">
-<!ENTITY  unsupported.label               "&brandShortName; yinek ur yelqim ara, acu kan lqem aneggaru ur iţusefrak ara deg unagraw inek. Ma ulac aɣilif leqqem anagraw inek, sakin ɛṛeḍ tikelt nniḍen.Izen agi wuṛǧin ad iţusken, acu kan tzemreḍ">
+<!ENTITY  unsupported.label               "&brandShortName; yinek ur yelqim ara, acu kan lqem aneggaru ur ittusefrak ara deg unagraw inek. Ma ulac aɣilif leqqem anagraw inek, sakin ɛṛeḍ tikelt nniḍen.Izen-agi wuṛǧin ad ittusken, acu kan tzemreḍ">
 <!ENTITY  unsupportedLink.label           "Issin ugar">
 
-<!ENTITY  clickHere.label                 "Ugar n telɣut ɣef lqem agi">
+<!ENTITY  clickHere.label                 "Ugar n telɣut ɣef lqem-agi">
 
-<!ENTITY  evangelism.desc                 "Issefk ad tesneseḍ lqem agi n &brandShortName; s zreb.">
+<!ENTITY  evangelism.desc                 "Issefk ad tesneseḍ lqem-agi n &brandShortName; s zreb.">
 
 <!ENTITY  downloadPage.title              "Azdam n &brandShortName;">
 <!ENTITY  downloading.intro               "Azdam n lqem…">
 <!ENTITY  connecting.label                "Tuqqna ɣer uqeddac n uleqqem…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ur yezmir ara ad isenqedtimmad s yeḥhricen i d-iţwazedmen, lqem uɣrid ad iţwazdam akka tura.">
 
-<!ENTITY  viewDetails.tooltip             "Sken aglam leqqayen n lqem agi">
+<!ENTITY  viewDetails.tooltip             "Sken aglam leqqayen n lqem-agi">
 
 <!ENTITY  details.link                    "Aglam leqqayen">
 
 <!ENTITY  error.title                     "Aleqqem ur yeddi ara">
 
-<!ENTITY  error.label                     "Llan wuuren deg usenqed, deg uzdam neɣ deg usebded n lqem agi. &brandShortName; ur yezmir ara ad iţwaleqqem imi:">
+<!ENTITY  error.label                     "Llan wuuren deg usenqed, deg uzdam neɣ deg usebded n lqem-agi. &brandShortName; ur yezmir ara ad ittwaleqqem imi:">
                                            
-<!ENTITY  errorManual.label               "Tzemreḍ aţleqmeḍ &brandShortName; s ufus ma tefreḍ aseɣwen agi  u ma tzedmeḍ lqem anegaru:">
+<!ENTITY  errorManual.label               "Tzemreḍ aţleqmeḍ &brandShortName; s ufus ma tefreḍ aseɣwen-agi u ma tzedmeḍ lqem anegaru:">
                                            
 <!ENTITY  errorpatching.intro             "Lqem s yeḥricen ur yedda ara. &brandShortName; ad iɛreḍ tikelt nniḍen azdam n lqem uɣrid.">
 
@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Lqem:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Lqem ad ibded di tnekra d-iteddun n &brandShortName;. Tzemreḍaţsnekreḍ &brandShortName; tura neɣ ddu deg umahil inek u senker tikelt nniḍen ticki.">
-<!ENTITY  finishedBackground.moreElevated "Aleqqem agi yesra taseglut n unedbal. Aleqqem ad yettwasebded di tnekra i d-iteddun n &brandShortName;. Tzemred ad tsenkreḍ tikelt nniden &brandShortName; tura, neɣ kemmel amahil u senker ticki neɣ agwi aleqqem agi.">
+<!ENTITY  finishedBackground.moreElevated "Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded di tnekra i d-iteddun n &brandShortName;. Tzemred ad tsenkreḍ tikelt nniden &brandShortName; tura, neɣ kemmel amahil u senker ticki neɣ agwi aleqqem-agi.">
 
 <!ENTITY  update.details.label            "Aglam leqqayen">
 <!ENTITY  update.installedOn.label        "Ibded di:">
