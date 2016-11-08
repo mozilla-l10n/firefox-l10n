@@ -11,7 +11,7 @@
 
 <!ENTITY     button.allow.label             "อนุญาต">
 <!ENTITY     button.allow.accesskey         "อ">
-<!ENTITY     button.session.label           "อนุญาตสำหรับวาระ">
+<!ENTITY     button.session.label           "อนุญาตในวาระ">
 <!ENTITY     button.session.accesskey       "ว">
 <!ENTITY     button.deny.label              "ปฏิเสธ">
 <!ENTITY     button.deny.accesskey          "ป">
