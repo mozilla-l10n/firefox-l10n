@@ -69,7 +69,7 @@
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> </ul>">
 
-
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server..</p> <p>Dacă totuși dorești să adaugi o excepție pentru acest site, o poți face în setările avansate pentru criptare.</p>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>Browserul a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
@@ -80,6 +80,7 @@
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
