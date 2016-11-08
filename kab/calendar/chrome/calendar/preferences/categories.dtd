@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Ini">
 <!ENTITY pref.categories.usecolor.label "Seqdec ini">
 <!ENTITY pref.categories.none.label "(ula yiwen)">
-<!ENTITY pref.categories.overwrite "Taggayt tella yakan s yisem agi. \n Tebɣiḍ ad tesfeɛjeḍ?">
+<!ENTITY pref.categories.overwrite "Taggayt tella yakan s yisem-agi. \n Tebɣiḍ ad tesfeɛjeḍ?">
 <!ENTITY pref.categories.overwrite.title "Ɣur-k: Isem yella yakan">
 <!ENTITY pref.categories.noBlankCategories "Yessefk ad teskecmeḍ isem n taggayt.">

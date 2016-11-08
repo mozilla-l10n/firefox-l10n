@@ -66,7 +66,7 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Qbel tinnubga n tedyant si tazwara i tuɣalin n tedyant">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Leqqem">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Snifel tadyant deg uwitay">
-<!ENTITY lightning.imipbar.description                                      "Izen agi yegber tinnibga ɣer tedyant.">
+<!ENTITY lightning.imipbar.description                                      "Izen-agi yegber tinnibga ɣer tedyant.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">
