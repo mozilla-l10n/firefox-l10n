@@ -47,7 +47,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Trimite linkul la dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
-<!ENTITY  moveToNewWindow.accesskey          "M">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Însemnează toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
