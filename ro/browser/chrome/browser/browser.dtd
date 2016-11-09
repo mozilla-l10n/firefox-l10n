@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Semne de carte">
 <!ENTITY bookmarksMenu.accesskey "S">
-<!ENTITY bookmarkThisPageCmd.label "Pune un semn de carte la această pagină">
+<!ENTITY bookmarkThisPageCmd.label "Însemnează această pagină">
 <!ENTITY editThisBookmarkCmd.label "Editează acest semn de carte">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -180,15 +180,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
-<!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
+<!ENTITY addCurPagesCmd.label "Însemnează toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
 <!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY otherBookmarksCmd.label "Alte semne de carte">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Afișează cele recent însemnate">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Ascunde cele recent însemnate">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Înapoi">
 <!ENTITY backButton.tooltip           "Mergi cu o pagină înapoi">
@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Fereastră non-e10s nouă">
+<!ENTITY newNonRemoteWindow.label   "Fereastră non e10s nouă">
 
 <!ENTITY editMenu.label         "Editare"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -354,11 +354,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Pornește sincronizarea filelor pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Nicio filă sincronizată…încă!">
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sincronizare">
@@ -502,10 +503,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label      "Setează ca tapet pe spațiul de lucru…">
+<!ENTITY setDesktopBackgroundCmd.label      "Setează ca fundal pentru desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Pune un semn de carte la această pagină">
-<!ENTITY bookmarkThisLinkCmd.label      "Pune semn de carte la acest link">
+<!ENTITY bookmarkPageCmd2.label       "Însemnează această pagină">
+<!ENTITY bookmarkThisLinkCmd.label      "Însemnează acest link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Pune semn de carte la acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
@@ -567,9 +568,9 @@ items are mutually exclusive. -->
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Dezactivează sunetul">
-<!ENTITY mediaMute.accesskey         "n">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activează sunetul">
-<!ENTITY mediaUnmute.accesskey       "n">
+<!ENTITY mediaUnmute.accesskey       "m">
 
 
 
@@ -677,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Găsește în această pagină…">
-<!ENTITY findOnCmd.accesskey "n">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Găsește din nou">
 <!ENTITY findAgainCmd.accesskey "G">
@@ -755,8 +756,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide într-o fereastră privată nouă">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Însemnează această filă">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copiază">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
