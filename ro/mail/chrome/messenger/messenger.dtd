@@ -21,7 +21,7 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "Mută într-o fereastră nouă">
-<!ENTITY moveToNewWindow.accesskey "M">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">

@@ -21,7 +21,7 @@
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "Spațiere:">
 <!ENTITY tableSpacing.accessKey           "S">
-<!ENTITY tablePadding.label               "Spațiu umplere:">
+<!ENTITY tablePadding.label               "Spațiu de umplere:">
 <!ENTITY tablePadding.accessKey           "p">
 <!ENTITY tablePxBetwCells.label           "pixeli între celule">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
