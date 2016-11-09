@@ -29,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Închide filele de la dreapta">
 <!ENTITY  closeTabsToTheEnd.accesskey        "d">
 <!ENTITY  closeOtherTabs.label               "Închide celelalte file">
-<!ENTITY  closeOtherTabs.accesskey           "h">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -37,9 +37,9 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "Fixează fila">
-<!ENTITY  pinTab.accesskey                   "i">
+<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
-<!ENTITY  unpinTab.accesskey                 "x">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Trimite fila la dispozitiv">
 <!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Trimite pagina la dispozitiv">
@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "M">
-<!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele…">
+<!ENTITY  bookmarkAllTabs.label              "Însemnează toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
 <!ENTITY  undoCloseTab.accesskey             "u">
@@ -63,7 +63,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Deschide o adresă…">
+<!ENTITY openLocationCmd.label "Deschide locație…">
 <!ENTITY openFileCmd.label "Deschide fișierul…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Lucrează offline">
-<!ENTITY goOfflineCmd.accesskey "z">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Reîncarcă toate filele">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Pune semne de carte la toate filele…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Însemnează toate filele…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anulează închiderea filei">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
@@ -98,19 +98,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Informații despre pagină">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Duplicați fila">
-<!ENTITY mirrorTabCmd.accesskey "l">
+<!ENTITY mirrorTabCmd.label "Duplică fila">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Intrați în ecran complet">
-<!ENTITY enterFullScreenCmd.accesskey "r">
+<!ENTITY enterFullScreenCmd.label "Intră în ecran complet">
+<!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Ieși din ecranul complet">
-<!ENTITY exitFullScreenCmd.accesskey "r">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Ecran complet">
-<!ENTITY fullScreenCmd.accesskey "r">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Restaurează">
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de unelte">
-<!ENTITY fullScreenAutohide.accesskey "A">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Ieși din modul ecran complet">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Împărtășește acest link">
-<!ENTITY shareLink.accesskey "s">
+<!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "Împărtășește această imagine">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "Împărtășește selecția">
