@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
-<!ENTITY doNotTrackCheckbox2.label    "Uvijek primjeni Nemoj me pratiti">
+<!ENTITY doNotTrackCheckbox2.label    "Uvijek primijeni Nemoj me pratiti">
 <!ENTITY doNotTrackCheckbox2.accesskey "U">
 
 <!ENTITY doNotTrackTPInfo.description "&brandShortName; će signalizirati stranicama da ne želite biti praćeni kad god zaštita od praćenja bude uključena.">
