@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "అంతరంగిక విహరణ">
 
 <!ENTITY trackingProtection.title                        "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.description2                 "కొన్ని వెబ్సైట్లు ఇంటర్నెట్ లో మీ కార్యాచరణ మానిటర్ గుర్తించేవి ఉపయోగించండి. ట్రాకింగ్ సంరక్షణ Firefox మీ బ్రౌజింగ్ ప్రవర్తన గురించి సమాచారాన్ని సేకరించడానికి అనేక గుర్తించేవి నిరోధించగలరు.">
-<!ENTITY trackingProtection.startTour1                   "ఎలా పనిచేస్తుందో చూడండి">
+<!ENTITY trackingProtection.description2                 "కొన్ని వెబ్‌సైట్లు అంతర్జాలంలో మీ కార్యకలాపాలను గమనించే ట్రాకర్లను వాడతాయి. మీ విహారణ అలవాట్ల గురించి సమాచారాన్ని సేకరించే అనేక ట్రాకర్లను Firefox ట్రాకింగ్ సంరక్షణతో నిరోధిస్తుంది.">
+<!ENTITY trackingProtection.startTour1                   "ఇది ఎలా పనిచేస్తుందో చూడండి">
