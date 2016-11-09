@@ -73,11 +73,11 @@
 <!ENTITY btnClear.accesskey    "a">
 
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "‌">
 
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "‌">
 
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‌‌">
 
 <!ENTITY copyURLCmd.label     "Kopa Indawo Yelinki">
 <!ENTITY copyURLCmd.accesskey "n">
