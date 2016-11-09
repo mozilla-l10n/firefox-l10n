@@ -10,7 +10,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "j">
 <!ENTITY update.updateButton.label2               "Restartuj &brandShortName; za update">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Primjeni update…">
+<!ENTITY update.applyButtonBillboard.label        "Primijeni update…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
