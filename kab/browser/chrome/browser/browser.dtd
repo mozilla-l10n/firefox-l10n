@@ -215,8 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad d-remseḍ ilɣuten seg usmel">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist inek d/neɣ asawaḍ inek d usmel">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ inek d usmel">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist-inek d/neɣ asawaḍ inek d usmel">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-inek d usmel">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n isfuyla neɣ igdilen d usmel">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ inek i usmelweb-agi">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-inek i usmelweb-agi">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-agi">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-agi">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s"> 
 
-<!ENTITY clearRecentHistory.label               "Sfeḍ amazray inek n melmi kan…">
+<!ENTITY clearRecentHistory.label               "Sfeḍ amazray-inek n melmi kan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Fak aggan">
 <!ENTITY appMenuHistory.label "Amazray">
 <!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
-<!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray inek n melmi kan…">
+<!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-inek n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit izrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
 <!ENTITY appMenuHelp.tooltip "Ldi umuɣ n tallalt">
@@ -358,12 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ulac iccaren yeldin">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan inek nniḍen">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Ulac iccaren yemtawi…yakan!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ iccaren inek seg ibenkan nniḍen d-agi?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ iccaren-inek seg ibenkan nniḍen d-agi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad-sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
-<!ENTITY identity.connectionFile "Asebter-agi yettwakles deg uselkim inek.">
+<!ENTITY identity.connectionFile "Asebter-agi yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel-agi, iselkem sɣuṛ:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-agi, ad ttwakren.">
@@ -747,13 +747,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Iccaren yemtawin">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg ibenkan nniḍen akken ad sekneḍ iccaren-is nniḍen.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ulac iccaren yemtawi…yakan!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ iccaren inek seg ibenkan nniḍen d-agi?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ iccaren-inek seg ibenkan nniḍen d-agi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ulac iccaren yeldin">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ldi ismenyifen n &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan inek nniḍen.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen.">
 
 <!ENTITY syncedTabs.context.open.label                       "Ldi">
 <!ENTITY syncedTabs.context.open.accesskey                   "L">
@@ -806,11 +806,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ n beṭṭu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "A">
 <!ENTITY getUserMedia.audioCapture.label "Ameslaw seg iccer i tebḍiḍ.">
-<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla umanen deg ugdil inek ad ttwabḍun.">
+<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla umanen deg ugdil-inek ad ttwabḍun.">
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; isewḥel kra n yeḥricen n usebter izemren ad sfuɣlen tunigin inek.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-agi igber iferdisen i yezemren ad sfuɣlen tunigin inek. Treremdeḍ ammesten. ">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; isewḥel kra n yeḥricen n usebter izemren ad sfuɣlen tunigin-inek.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-agi igber iferdisen i yezemren ad sfuɣlen tunigin-inek. Treremdeḍ ammesten. ">
 <!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen ig ttwafen ɣef usebter-agi.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "R">
 
 <!ENTITY trackingContentBlocked.message "Asfuɣel">
-<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-agi i yesfuɣulen armud inek s srid, weḥlen.">
+<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-agi i yesfuɣulen armud-inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
 <!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
 <!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-agi">
@@ -875,7 +875,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Ulac tuɣalin ɣer deffir.">
 <!ENTITY panicButton.view.forgetButton            "Sfeḍ!">
 
-<!ENTITY panicButton.thankyou.msg1                "Amazray inek n melmi kan yesfeḍ.">
+<!ENTITY panicButton.thankyou.msg1                "Amazray-inek n melmi kan yesfeḍ.">
 <!ENTITY panicButton.thankyou.msg2                "Tunigin igarrezen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
 
