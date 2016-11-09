@@ -40,8 +40,8 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
 
-<!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &amp; igamaelishunquliweyolomthengisi; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
-<!ENTITY alwaysSubmitCrashReports.label   "Vumela &amp; igamaelishunquliweyolomthengisi; lithumele iingxelo ezifumbileyo egameni lakho">
+<!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &vendorShortName; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
+<!ENTITY alwaysSubmitCrashReports.label   "Vumela &brandShortName; lithumele iingxelo ezifumbileyo egameni lakho">
 <!ENTITY alwaysSubmitCrashReports.accesskey "f">
 <!ENTITY crashReporterLearnMore.label     "Funda ngaphezulu">
 
