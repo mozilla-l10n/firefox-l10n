@@ -10,6 +10,7 @@
 <!ENTITY locationEditField.label "Adres obrazu:">
 <!ENTITY locationEditField.accessKey "A">
 <!ENTITY locationEditField.tooltip "Wprowadź nazwę pliku obrazu, ścieżkę dostępu lub adres URL">
+<!ENTITY locationEditField.shortenedDataURI "Skrócony adres Data URI (skopiowanie umieści pełny adres w schowku)">
 <!ENTITY title.label                 "Etykieta:">
 <!ENTITY title.accessKey             "k">
 <!ENTITY title.tooltip               "Atrybut „title” wyświetlany jako etykieta">
