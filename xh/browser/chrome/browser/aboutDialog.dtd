@@ -20,7 +20,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo lwe-&vendorShortName; ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "I-Firefox">
+<!ENTITY community.exp.start        "‌">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "I-&vendorShortName;">
 <!ENTITY community.exp.middle       " yi ">
@@ -42,7 +42,7 @@
 <!ENTITY helpus.middle              " okanye ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "zibandakanye!">
-<!ENTITY helpus.end                 "sincede.end">
+<!ENTITY helpus.end                 "‌">
 
 <!ENTITY releaseNotes.link          "Yintoni entsha">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -97,7 +97,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Ikhuphela isihlaziyi — ">
-<!ENTITY update.downloading.end     "hlaziya.iyakhuphela.end">
+<!ENTITY update.downloading.end     "‌">
 
 <!ENTITY update.applying            "Ukwenza uhlaziyo…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
