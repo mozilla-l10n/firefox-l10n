@@ -11,7 +11,7 @@
 
 
 <!ENTITY newButton.label            "Amaynut">
-<!ENTITY newButton.tooltip          "Sirew u rnu tiferkit n uɣanib tamaynut ɣer isemli">
+<!ENTITY newButton.tooltip          "Sirew ternuḍ tiferkit n uɣanib tamaynut ɣer isemli">
 <!ENTITY newButton.accesskey        "A">
 
 <!ENTITY importButton.label         "Kter…">
@@ -46,7 +46,7 @@
 
 <!ENTITY mediaRules.label           "Ilugan @media">
 
-<!ENTITY editorTextbox.placeholder  "Sekcem tawsit CSS d-agi.">
+<!ENTITY editorTextbox.placeholder  "Sekcem tawsit CSS da.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 

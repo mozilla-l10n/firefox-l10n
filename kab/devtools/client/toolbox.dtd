@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Rmed tanaka n ifecka n teseɣtit n chrome n iminig d izegrar ">
-<!ENTITY options.enableChrome.tooltip3  "Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tsqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d-isireg taseɣtit n izegrar seg umsefrak n izegrar ">
+<!ENTITY options.enableChrome.tooltip3  "Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d yessireg taseɣtit n izegrar seg umsefrak n izegrar ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
