@@ -15,7 +15,7 @@
 <!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și Știri dar timpul de deschidere al dosarului crește)">
-<!ENTITY searchOnline.accesskey "o">
+<!ENTITY searchOnline.accesskey "s">
 <!ENTITY newFolderButton.label       "Creează">
 <!ENTITY newFolderButton.accesskey   "r">
 <!ENTITY editFolderButton.label      "Actualizează">
