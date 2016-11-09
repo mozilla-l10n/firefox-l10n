@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Comprobar la ortografía mientres s'escribe">
+<!ENTITY checkSpelling.label             "Comprobar ortografía entrín teclexo">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
