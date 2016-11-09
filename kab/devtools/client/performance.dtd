@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY performanceUI.bufferStatusTooltip "Amaɣnay yesseklas imedyaten di tkatut n uḥraz tuwnist, ticki takatut teččuṛ, imedyaten imaynuten ad sfeɛjen asekles si tazwara.">
+<!ENTITY performanceUI.bufferStatusTooltip "Amaɣnay yesseklas imedyaten deg tkatut n uḥraz tuwnist, ticki takatut teččuṛ, imedyaten imaynuten ad sfeɛjen asekles seg tazwara.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
@@ -47,7 +47,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Isnasen">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Tesekanay anda tettwakren takatut di lawan usekles.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Udlif JS">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Teskanay tanebdant usiwel n JavaScrupt di lawan usekles">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Teskanay tanebdant usiwel n JavaScrupt deg lawan usekles">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Idlifen n uḥeṛṛi ">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -65,7 +65,7 @@
 <!ENTITY performanceUI.table.function                 "Tawuri">
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
 <!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍanasemday n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍan asemday n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 <!ENTITY performanceUI.table.selfAlloc                "Iḥerriyen isemdayen">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
@@ -79,8 +79,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
-<!ENTITY performanceUI.invertTree             "Ţţi aseklu n usiwel">
-<!ENTITY performanceUI.invertTree.tooltiptext "Tuţya n useklu n usiwel ad isken iberdan n isawalen iţumeɣnun seg izilalen imaynuten ɣer iqbuṛen.">
+<!ENTITY performanceUI.invertTree             "Tti aseklu n usiwel">
+<!ENTITY performanceUI.invertTree.tooltiptext "Tuttya n useklu n usiwel ad isken iberdan n isiwlen ittumeɣnun seg izilalen imaynuten ɣer iqbuṛen.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
