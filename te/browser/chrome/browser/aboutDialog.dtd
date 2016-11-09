@@ -99,7 +99,7 @@
 <!ENTITY update.downloading.start   "తాజాకరణను దింపుకుంటోంది — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "తాజాకరణను ఆపాదిస్తున్నాం…">
+<!ENTITY update.applying            "తాజాకరణను ఆపాదిస్తోంది…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
