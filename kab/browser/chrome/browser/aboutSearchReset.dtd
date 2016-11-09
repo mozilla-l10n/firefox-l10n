@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Err-d iɣewwaṛen n unadi?">
 
-<!ENTITY searchreset.pageInfo1      "Iɣewwaṛen inek n unadi d-iqburen. &brandShortName; yezmer ad yerr iɣewwaṛen n unadi imezwar.">
+<!ENTITY searchreset.pageInfo1      "Iɣewwaṛen-inek n unadi d-iqburen. &brandShortName; yezmer ad yerr iɣewwaṛen n unadi imezwar.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 

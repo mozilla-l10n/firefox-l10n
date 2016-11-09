@@ -7,7 +7,7 @@
 <!ENTITY tabCrashed.sendReport "Azen aneqqis n uɣelluy akken ad tessinfeḍ yir isallen">
 <!ENTITY tabCrashed.includeURL "Seddu tansa n usebter anda telliḍ">
 <!ENTITY tabCrashed.commentPlaceholder "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
-<!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl inek">
+<!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl-inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.crashReporter "Aneqqis n uɣelluy n Mozilla">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan aneqqis n uɣelluy; tanemmirt-ik ɣef uttekki deg usnerni n &brandShortName;.">
