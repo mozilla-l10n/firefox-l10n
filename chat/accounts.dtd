@@ -17,8 +17,25 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Entá nun se configuró cuenta dala">
+<!ENTITY accountManager.noAccount.description "Primi nel botón &accountManager.newAccount.label; pa dexar que &brandShortName; te guie pel procesu de configurar una.">
 <!ENTITY account.autoSignOn.label     "Aniciar sesión al arrancar">
 <!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label        "Coneutar">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Desconeutar">
+<!ENTITY account.disconnect.accesskey "e">
+<!ENTITY account.delete.label         "Desaniciar">
+<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.edit.label           "Propiedaes">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Xubir">
+<!ENTITY account.movedown.label       "Baxar">
+<!ENTITY account.cancelReconnection.label         "Encaboxar reconexón">
+<!ENTITY account.cancelReconnection.accesskey     "X">
+<!ENTITY account.copyDebugLog.label     "Copiar rexistru de depuración">
+<!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.showDebugLog.label     "Amosar rexistru de depuración">
+<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Coneutando…">
 <!ENTITY account.disconnecting        "Desconeutando…">
+<!ENTITY account.disconnected         "Ensin coneutar">
