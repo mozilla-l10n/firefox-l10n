@@ -10,6 +10,6 @@
 <!ENTITY fit.label                  "Potrivește">
 <!ENTITY preview.label              "Previzualizare">
 <!ENTITY color.label                "Culoare:">
-<!ENTITY setDesktopBackground.title "Setare fundal pentru spațiul de lucru">
+<!ENTITY setDesktopBackground.title "Setează fundalul pentru desktop">
 <!ENTITY openDesktopPrefs.label     "Deschide Preferințe desktop">
 <!ENTITY closeWindow.key            "w">
