@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ulac tansa n uqeddac">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tansa ɣef tuccḍiwin am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim inek neɣ aẓeṭṭa inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tansa ɣef tuccḍiwin am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Senqed isem n ufaylu ma yura s isekkilen meqqṛen neɣ meẓẓiyen neɣ tuccdiwin n tira nniḍen.</li><li>Senqed ma yella afaylu ur ittusenkez ara, ur ittusnifel ara neɣ ur ittwakkes ara.</li></ul>">
@@ -105,12 +105,12 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Talɣut leqqayen: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Talɣut leqqayen">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>iseqdac taṭiknulujit n tɣellist taqbuṛt u d taraɣelsant i uẓdam. Aẓeddam yezmer ad yawi tabaḍnit inek it-ɣiled d taɣelsant.">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>iseqdac taṭiknulujit n tɣellist taqbuṛt u d taraɣelsant i uẓdam. Aẓeddam yezmer ad yawi tabaḍnit-inek it-ɣiled d taɣelsant.">
 <!ENTITY weakCryptoAdvanced.override "(Mačči d aɣelsan) Ɛreḍ asali <span class='hostname'></span> s useqdec n tɣellist taqbuṛt.">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Tuqqna taɣelsant ɣer <span id='wrongSystemTime_URL'/> ur tezmir ara ad teddu acku saɛa yinek ur d-skan ara akud iseḥḥan.</p> <p>Aselkim inek iqil d win i d akud <span id='wrongSystemTime_systemDate'/>, Ma yella d wa i d akud <span id='wrongSystemTime_actualDate'/>. Akken ad terfuḍ ugur, Snifeliɣawwaṛen n wazemz d wakud akken ɣer wakud iseḥan.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Tuqqna taɣelsant ɣer <span id='wrongSystemTime_URL'/> ur tezmir ara ad teddu acku saɛa yinek ur d-skan ara akud iseḥḥan.</p> <p>Aselkim-inek iqil d win i d akud <span id='wrongSystemTime_systemDate'/>, Ma yella d wa i d akud <span id='wrongSystemTime_actualDate'/>. Akken ad terfuḍ ugur, Snifeliɣawwaṛen n wazemz d wakud akken ɣer wakud iseḥan.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) i wakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i weselkin-agi.">

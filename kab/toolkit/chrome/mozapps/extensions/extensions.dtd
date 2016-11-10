@@ -66,7 +66,7 @@
 <!ENTITY updates.updating.label               "Aleqqem n izegrar">
 <!ENTITY updates.installed.label              "Izegrar-inek ttwaleqqmen.">
 <!ENTITY updates.downloaded.label             "Ileqman n izegrar-inek ttusidren-d.">
-<!ENTITY updates.restart.label                "Senker i tikelt nniḍen tura akken ad tfakeḍ asebded">
+<!ENTITY updates.restart.label                "Ales asenker tura akken ad tfakeḍ asebded">
 <!ENTITY updates.noneFound.label              "ulac ileqman yettwafen">
 <!ENTITY updates.manualUpdatesFound.label     "Sken ileqman yellan">
 <!ENTITY updates.updateSelected.label         "Sebded ileqman">
@@ -195,7 +195,7 @@
 <!ENTITY addon.undoAction.tooltip             "Sefseɣ tigawt-agi">
 <!ENTITY addon.undoRemove.label               "Sefsax">
 <!ENTITY addon.undoRemove.tooltip             "Eǧǧ azegrir-agi yebded">
-<!ENTITY addon.restartNow.label               "Senker tikelt nniḍen tura">
+<!ENTITY addon.restartNow.label               "Ales asenker tura">
 <!ENTITY addon.install.label                  "Sebded">
 <!ENTITY addon.install.tooltip                "Sebded azegrir">
 <!ENTITY addon.updateNow.label                "Leqqem tura">

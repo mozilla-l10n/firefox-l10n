@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "Talɣut ɣef imaɣna">
 <!ENTITY aboutProfiles.subtitle "Asebter-agi ad k-d-imud tallalt i wesefrek n imeɣna inek. Yal ameɣnu d amaḍal i yimanis i yebren amazray ines, ticraḍ n usebter ines, iɣawwaṛen ines d izegrar ines.">
 <!ENTITY aboutProfiles.create "Rnu amaɣnu amaynut">
-<!ENTITY aboutProfiles.restart.title "Senker i tikelt nniḍen">
-<!ENTITY aboutProfiles.restart.inSafeMode "Senker i tikelt nniḍen s urermed n izegrar…">
-<!ENTITY aboutProfiles.restart.normal "Senker i tikelt nniḍen s magnu…">
+<!ENTITY aboutProfiles.restart.title "Ales asenker">
+<!ENTITY aboutProfiles.restart.inSafeMode "Ales asenker s urermed n izegrar…">
+<!ENTITY aboutProfiles.restart.normal "Ales asenker s wudem amagnu…">

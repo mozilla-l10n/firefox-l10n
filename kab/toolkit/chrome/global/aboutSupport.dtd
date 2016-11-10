@@ -108,7 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "Ɛreḍ deg uskar war abrir">
-<!ENTITY aboutSupport.restartInSafeMode.label "Senker s izegrar irurmiden…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ales asenker s izegrar irurmiden…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Timahilin">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Tasleṭ">

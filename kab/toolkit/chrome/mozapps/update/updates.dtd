@@ -43,13 +43,13 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ur izmir ara ad yaf ma yella lqem.Ma ulac aɣilif,Wali ma ɣur-k lqem aneggaru n &brandShortName; di:">
 
 <!ENTITY  finishedPage.title              "Lqem ihegga i wesebded.">
-<!ENTITY  finishedPage.text               "Lqem ad ibded di tnekra d-iteddun n &brandShortName;. Tzemreḍaţsnekreḍ &brandShortName; tura neɣ ddu deg umahil inek u senker tikelt nniḍen ticki.">
+<!ENTITY  finishedPage.text               "Lqem ad ibded deg usenker d-itteddun n &brandShortName;. Tzemreḍ ad talseḍ asenker n &brandShortName; tura neɣ smed amahil inek u ales asenker ticki.">
 
 <!ENTITY  finishedBackgroundPage.text     "Lqem n urkad d tɣellist &brandShortName; teţwazdem-ed u thegga i wesebded.">
 <!ENTITY  finishedBackground.name         "Lqem:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Lqem ad ibded di tnekra d-iteddun n &brandShortName;. Tzemreḍaţsnekreḍ &brandShortName; tura neɣ ddu deg umahil inek u senker tikelt nniḍen ticki.">
-<!ENTITY  finishedBackground.moreElevated "Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded di tnekra i d-iteddun n &brandShortName;. Tzemred ad tsenkreḍ tikelt nniden &brandShortName; tura, neɣ kemmel amahil u senker ticki neɣ agwi aleqqem-agi. ">
+<!ENTITY  finishedBackground.more         "Lqem ad ibded deg usenker d-itteddun n &brandShortName;. Tzemreḍ ad talseḍ asenker n &brandShortName; tura neɣ smed amahil-inek talseḍ asenker ticki.">
+<!ENTITY  finishedBackground.moreElevated "Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded deg usenker i d-itteddun n &brandShortName;. Tzemreḍ ad talseḍ asenker n &brandShortName; tura, neɣ smed amahil talseḍ asenker ticki neɣ agwi aleqqem-agi. ">
 
 <!ENTITY  update.details.label            "Aglam leqqayen">
 <!ENTITY  update.installedOn.label        "Ibded di:">
