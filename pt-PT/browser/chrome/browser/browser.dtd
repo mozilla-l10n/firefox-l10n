@@ -190,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.label     "Ocultar marcadores recentemente adicionados">
 <!ENTITY hideRecentlyBookmarked.accesskey "c">
 
-<!ENTITY backCmd.label                "Anterior">
+<!ENTITY backCmd.label                "Retroceder">
 <!ENTITY backButton.tooltip           "Retroceder uma página">
 <!ENTITY forwardCmd.label             "Seguinte">
 <!ENTITY forwardButton.tooltip        "Ir para a página seguinte">
