@@ -8,9 +8,9 @@
 <!ENTITY directories.label         "LDAP direktorijski server:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 
-
-
-
-
-
-
+<!ENTITY addDirectory.label        "Dodaj">
+<!ENTITY addDirectory.accesskey    "a">
+<!ENTITY editDirectory.label       "Uredi">
+<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY deleteDirectory.label     "Obriši">
+<!ENTITY deleteDirectory.accesskey "O">
