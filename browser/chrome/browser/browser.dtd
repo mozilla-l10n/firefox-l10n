@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación Privada)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
 <!ENTITY appmenu.tooltip                     "Abrir menú">
 <!ENTITY navbarOverflow.label                "Más herramientas…">
@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "T">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -37,15 +37,15 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Anclar pestaña">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Desanclar pestaña">
-<!ENTITY  unpinTab.accesskey                 "e">
+<!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendTabToDevice.label              "Enviar pestaña a dispositivo">
-<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Enviar página a dispositivo">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar enlace a dispositivo">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Agregar pestañas a marcadores…">
@@ -705,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
-<!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (cómo imágenes).">
+<!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (por ejemplo imágenes).">
 <!ENTITY identity.activeLoaded "Has deshabilitado la protección en esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa encriptación débil.">
 
@@ -716,8 +716,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver tu información o modificar el comportamiento del sitio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.description.passiveLoaded "Tu conexión no es privada y la información que compartas con el sitio puede ser vista por otros.">
-<!ENTITY identity.description.passiveLoaded2 "Este sitio web tiene contenido que no es seguro (tales cómo imágenes).">
-<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; haya bloqueado algo del contenido, siempre existe contenido en la página que no es seguro (tales cómo imágenes).">
+<!ENTITY identity.description.passiveLoaded2 "Este sitio web tiene contenido que no es seguro (por ejemplo imágenes).">
+<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; bloqueó parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo imágenes).">
 <!ENTITY identity.description.activeLoaded "Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.">
 <!ENTITY identity.description.activeLoaded2 "La información que compartas con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).">
 
