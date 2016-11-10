@@ -884,7 +884,7 @@
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Koppeling opslaan als…">
-<!ENTITY saveLinkAsCmd.accesskey "d">
+<!ENTITY saveLinkAsCmd.accesskey "l">
 <!ENTITY saveImageAsCmd.label "Afbeelding opslaan als…">
 <!ENTITY saveImageAsCmd.accesskey "p">
 <!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">

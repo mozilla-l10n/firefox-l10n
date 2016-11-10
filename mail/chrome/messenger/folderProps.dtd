@@ -54,7 +54,7 @@
 
 <!ENTITY folderSharingTab.label                  "Delen">
 <!ENTITY privileges.button.label                 "Bevoegdheden…">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "U hebt de volgende rechten:">
 <!ENTITY folderType.label                        "Maptype:">
 
