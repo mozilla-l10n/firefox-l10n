@@ -12,7 +12,7 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Sfeḍ">
-<!ENTITY resetPassword.title  "Reset Master Password">
+<!ENTITY resetPassword.title  "Ales awennez n wawal uffir agejdan">
 <!ENTITY resetPassword.text  "Me tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifekfa n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan? ">
 <!-- Downloading a cert -->
 

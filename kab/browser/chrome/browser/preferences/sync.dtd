@@ -83,8 +83,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Tugh tseqdaceḍ lqem aqbuṛ n Sync?">
 
-<!ENTITY signedOut.caption            "Awi web inek yid-k">
-<!ENTITY signedOut.description        "Mtawi ticraḍ inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan inek akk.">
+<!ENTITY signedOut.caption            "Awi web-inek yid-k">
+<!ENTITY signedOut.description        "Mtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
 <!ENTITY signedOut.accountBox.title   "Qqen ɣer &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Rnu amiḍan">
 <!ENTITY signedOut.accountBox.signin  "Kcem">

@@ -23,10 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "Inegzumen n unasiw">
 <!ENTITY helpKeyboardShortcuts.accesskey "I">
 
-<!ENTITY helpSafeMode.label       "Senker izegrar arurmiden…">
-<!ENTITY helpSafeMode.accesskey   "S">
-<!ENTITY helpSafeMode.stop.label       "Senker s izegrar urmiden">
-<!ENTITY helpSafeMode.stop.accesskey   "S">
+<!ENTITY helpSafeMode.label       "Ales asenker s izegrar irurmiden…">
+<!ENTITY helpSafeMode.accesskey   "A">
+<!ENTITY helpSafeMode.stop.label       "Ales asenker s izegrar urmiden">
+<!ENTITY helpSafeMode.stop.accesskey   "A">
 
 <!ENTITY healthReport2.label      "Tacrawt n tezmert n &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "T">
