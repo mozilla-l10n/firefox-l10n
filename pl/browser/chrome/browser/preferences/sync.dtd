@@ -60,6 +60,7 @@
 <!ENTITY disconnect.label "Rozłącz…">
 <!ENTITY disconnect.accesskey "R">
 <!ENTITY verify.label "Zweryfikuj adres e-mail">
+<!ENTITY verify.accesskey "s">
 <!ENTITY forget.label "Usuń adres e-mail">
 <!ENTITY forget.accesskey "U">
 
