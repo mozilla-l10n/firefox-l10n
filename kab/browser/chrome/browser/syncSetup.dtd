@@ -50,7 +50,7 @@
 <!ENTITY recoveryKeyEntry.label        "Taasaruţ-ik n tririt">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Sirew tasarut tamaynut">
-<!ENTITY recoveryKeyBackup.description "Tasarutt-inek n tririt tesra i wakken ad tkecmeḍ ɣeṛ &syncBrand.fullName.label; ɣef ibenkan nniḍen. Ma ulac aɣilif egg anɣel n uklas. Ur nezmir ara ak d-nefk tallalt i tririt-ines.">
+<!ENTITY recoveryKeyBackup.description "Tasarut-inek n tririt tettwasra iwakken ad tkecmeḍ ɣeṛ &syncBrand.fullName.label; ɣef ibenkan nniḍen. Ma ulac aɣilif eg anɣel n uklas. Ur nezmir ara a k-d-nefk tallalt i tririt-ines.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Siggez…">
 <!ENTITY button.syncKeyBackup.print.accesskey "i">

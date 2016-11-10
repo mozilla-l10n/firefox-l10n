@@ -35,7 +35,7 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
-<!ENTITY telemetryDesc.label             "Ad yazen tilɣa ɣef timellit, aseqdec, arrum d waggen i &vendorShortName; i wakken ad aɣ-d-yefk afus i usnerni n tɣara n &brandShortName;">
+<!ENTITY telemetryDesc.label             "Ad yazen tilɣa ɣef timellit, aseqdec, arrum d waggen i &vendorShortName; iwakken ad aɣ-d-yefk afus i usnerni n tɣara n &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Azen isefka isemmadanen (Amedya: isefka tilisɣal)">
 <!ENTITY enableTelemetryData.accesskey   "A">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">

@@ -37,7 +37,7 @@
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ad isenqed si s ya ɣer da u w-ak d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
 
 <!ENTITY  adminDisabled.wizard.title      "D-awezɣi asenqed n tilin n ileqman">
-<!ENTITY  adminDisabled.warning.label     "D-awezɣi asenqed n tilin n ileqman i yizegrar inek ur nemṣada ara acku asebded n iseɣẓanen i &brandShortName; iţurermed. Ma ulac aɣilif, nermes anebdal n unagraw-ik ma tebɣiḍ tallalt.">
+<!ENTITY  adminDisabled.warning.label     "D awezɣi asenqed n tilin n ileqman i yizegrar inek ur nemṣada ara acku asebded n iseɣẓanen i &brandShortName; itturermed. Ma ulac aɣilif, nermes anedbal n unagraw-ik ma tebɣiḍ tallalt.">
 
 <!ENTITY  versioninfo.wizard.title        "Asenqed n umsaḍa n izegrar imernan">
 <!ENTITY  versioninfo.top.label           "Asenqed n umṣada n izegrar inek imernan d lqem-agi &brandShortName;.">
