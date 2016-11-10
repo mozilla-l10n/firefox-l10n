@@ -18,7 +18,7 @@
 <!ENTITY newPageFromTemplateCmd.label           "Webpagina op basis van sjabloon">
 <!ENTITY newPageFromTemplateCmd.accesskey       "s">
 <!ENTITY newPageFromDraftCmd.label              "Webpagina op basis van concept">
-<!ENTITY newPageFromDraftCmd.accesskey          "k">
+<!ENTITY newPageFromDraftCmd.accesskey          "c">
 <!ENTITY newNavigatorCmd.label                  "Browservenster">
 <!ENTITY newNavigatorCmd.key                    "N">
 <!ENTITY newNavigatorCmd.accesskey              "v">

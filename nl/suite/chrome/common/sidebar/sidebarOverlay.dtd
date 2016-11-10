@@ -11,7 +11,7 @@
 <!ENTITY sidebar.hide.label             "Tabblad verbergen">
 <!ENTITY sidebar.hide.accesskey         "v">
 <!ENTITY sidebar.switch.label           "Wisselen naar tabblad">
-<!ENTITY sidebar.switch.accesskey       "O">
+<!ENTITY sidebar.switch.accesskey       "W">
 <!ENTITY sidebarCmd.label               "Zijbalk">
 <!ENTITY sidebarCmd.accesskey           "Z">
 <!ENTITY sidebar.loading.label          "Laden…">

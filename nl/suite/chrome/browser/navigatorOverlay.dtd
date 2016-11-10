@@ -76,7 +76,7 @@
 <!ENTITY bookmarksMenu.label "Bladwijzers">
 <!ENTITY bookmarksMenu.accesskey "a">
 <!ENTITY addCurPageCmd.label "Bladwijzer voor deze pagina maken">
-<!ENTITY addCurPageCmd.accesskey "t">
+<!ENTITY addCurPageCmd.accesskey "w">
 <!ENTITY addCurPageAsCmd.label "Bladwijzer archiveren…">
 <!ENTITY addCurPageAsCmd.accesskey "a">
 <!ENTITY addCurPageAsCmd.commandkey "d">

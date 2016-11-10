@@ -204,7 +204,7 @@
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Berichttekst als">
-<!ENTITY bodyMenu.accesskey "o">
+<!ENTITY bodyMenu.accesskey "e">
 <!ENTITY bodyAllowHTML.label "Originele HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
 <!ENTITY bodySanitized.label "Vereenvoudigde HTML">
