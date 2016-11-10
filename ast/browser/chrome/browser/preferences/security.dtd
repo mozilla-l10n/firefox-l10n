@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Xeneral">
 
-<!ENTITY  warnAddonInstall.label        "Alvertime cuando dalgún sitiu intente instalar complementos">
+<!ENTITY  warnAddonInstall.label        "Alvertime cuando los sitios tenten d'instalar add-ons">
 <!ENTITY  warnAddonInstall.accesskey    "v">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
