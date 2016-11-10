@@ -10,7 +10,7 @@
 <!ENTITY syncKey.keepItSafe1.description  "Ur sṛuḥu ara tasarutt-agi.">
 <!ENTITY syncKey.keepItSafe2.description  " Ur nḥerrez ara anɣel n tsarutt inek (ma ulac mačči s tabaḍnit !) ihi, ">
 <!ENTITY syncKey.keepItSafe3.description  "Ur nezmir ara a d-nefk tallalt i tririt ines">
-<!ENTITY syncKey.keepItSafe4a.description " ma tṛuḥ. Issefk ad tqedceḍ tasarutt-agi yal tikelt ara ad teqqneḍ ibenk amaynut ɣer &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description " ma tṛuḥ. Issefk ad tesqedceḍ tasarut-agi yal tikelt ara ad teqqneḍ ibenk amaynut ɣer &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Ugar n telqut ɣef &syncBrand.fullName.label; d tudert-ik tabaḍnit, ddu ɣer ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Tiwtilin n useqdec n &syncBrand.fullName.label; llant deg tansa ">

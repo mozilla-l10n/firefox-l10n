@@ -75,7 +75,7 @@
 <!ENTITY existingRecoveryKey.description "Tzemreḍ ad awiḍ anɛel n tsarutt inek n tririt ma teddiḍ ɣeṛ iɣwwaṛen n &syncBrand.shortName.label; n yibenk inek nniḍen s ufran n &quot;Tasarutt inu n tririt&quot; di &quot;Asefrek n umiḍan&quot;.">
 <!ENTITY verifying.label              "Asenqed…">
 <!ENTITY resetPassword.label          "Wennez tikelt nniḍen awal uffir">
-<!ENTITY resetSyncKey.label           "Iṛuḥ iyi yibenk-enni nniḍen.">
+<!ENTITY resetSyncKey.label           "Iṛu-iyi yibenk-nni nniḍen.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Iɣawwaṛen n umtawi">
