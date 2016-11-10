@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
-<!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig inek.">
+<!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig-inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig-inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "A">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
 
-<!ENTITY crashReporterDesc2.label         "Ineqqisen n uɣelluy ad mudden tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig inek d urkid d aɣelsan">
+<!ENTITY crashReporterDesc2.label         "Ineqqisen n uɣelluy ad mudden tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig-inek d urkid d aɣelsan">
 <!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen ineqqisen n uɣelluy deg ugilal">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Issin ugar">
@@ -76,7 +76,7 @@
 <!ENTITY updateTab.label                 "Leqqem">
 
 <!ENTITY updateApp.label                 "Ileqman n &brandShortName;:">
-<!ENTITY updateAuto1.label               "Sebded s wudem awurman ileqman (yelha i tɣellist inek)">
+<!ENTITY updateAuto1.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "Senqed ma llan ileqman, acu kan eǧǧ-iyi a ten-sbeddeɣ">
 <!ENTITY updateCheck.accesskey           "n">
