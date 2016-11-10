@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Relatórios de falha ajudam a &vendorShortName; a reparar problemas e fazer o seu navegador mais estável e seguro">
 <!ENTITY alwaysSubmitCrashReports.label   "Permitir que o &brandShortName; envie relatórios de falha pendentes em seu nome">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "n">
 <!ENTITY crashReporterLearnMore.label     "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
