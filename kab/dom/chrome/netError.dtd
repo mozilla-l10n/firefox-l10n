@@ -29,13 +29,13 @@
 <!ENTITY malformedURI.longDesc "<p>Tansa i d-tmuddeḍ ur tella ara deg umasal ittwassnen. Ma ulac aɣilif senqed afeggag n tansa akken ad teseɣtiḍ tuccḍiwin sakin ɛreḍ tikelt nniḍen.</p>">
 
 <!ENTITY netInterrupt.title "Tuqqna teţwaqsef">
-<!ENTITY netInterrupt.longDesc "<p>Iminig iqqen akken iwata acukan tuqqna teḥbes deg tuzzna n telɣut. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.</p><ul><li>Tzemreḍ ad tkecmeḍ ɣer ismal nniḍen?Senqed tuqqna n uselkim inek ɣeṛ uẓeṭṭa.</li><li> Izga wugur? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik Internet ɣef tallat.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Iminig iqqen akken iwata acukan tuqqna teḥbes deg tuzzna n telɣut. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.</p><ul><li>Tzemreḍ ad tkecmeḍ ɣer ismal nniḍen?Senqed tuqqna n uselkim-inek ɣeṛ uẓeṭṭa.</li><li> Izga wugur? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik Internet ɣef tallat.</li></ul>">
 
 <!ENTITY notCached.title "Isemli yemmut">
 <!ENTITY notCached.longDesc "<p>Isemli id yettusutren ulac-it di tuffirt n iminig.</p><ul><li>ɣef teɣẓint n tɣellist, iminig ur isutur ara s wudem awurman isemliyen imḥulfuyen.</li><li>Sit ɣef 'Ɛṛeḍ tikelt nniḍen' iwakken ad tsutreḍ isemli seg usmel.</li></ul>">
 
 <!ENTITY netOffline.title "Aska war tuqqna">
-<!ENTITY netOffline.longDesc2 "<p>Iminig itteddu deg uskar war tuqqna. Ur yezmir ara ad yeqqen ɣer tansa d-yettwamlen.</p><ul><li>Aselkim inek iqqen ɣer uẓeṭṭa urmid?</li><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar usrid u sali-d asebter inek tiket nniḍen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Iminig itteddu deg uskar war tuqqna. Ur yezmir ara ad yeqqen ɣer tansa d-yettwamlen.</p><ul><li>Aselkim inek iqqen ɣer uẓeṭṭa urmid?</li><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar usrid u sali-d asebter-inek tiket nniḍen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku iseqdac tawsit usekkussem tarameɣtut neɣ ur yettusefraken ara.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
@@ -47,19 +47,19 @@
 <!ENTITY netReset.longDesc "<p>Aseɣwen ɣer uẓeṭṭa yegzem makken ittaɛraḍ ad yeqqen. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.</p>">
 
 <!ENTITY netTimeout.title "Akud n uṛaǧu yezri">
-<!ENTITY netTimeout.longDesc "<p>Asmel ittusutren ur d yerri ara i tuttra n tuqqna, iminig yerken araǧu n tririt.</p><ul><li>Ahat iṭuqqet usuter n tuttriwin ɣef uqeddac neɣ yerken kra n wakud akka tura?  ɛṛeḍ tikelt nniḍen.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li> <li>Aselkim inek neɣ aqeddac inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan? Iɣewwaṛen irmeɣta zemren ad sweḥlen tunigin deg Web.</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Asmel ittusutren ur d yerri ara i tuttra n tuqqna, iminig yerken araǧu n tririt.</p><ul><li>Ahat iṭuqqet usuter n tuttriwin ɣef uqeddac neɣ yerken kra n wakud akka tura?  ɛṛeḍ tikelt nniḍen.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li> <li>Aselkim-inek neɣ aqeddac-inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan? Iɣewwaṛen irmeɣta zemren ad sweḥlen tunigin deg Web.</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Aneggaf arussin">
 <!ENTITY unknownProtocolFound.longDesc "<p>Tansa temmaled aneggaf (amedya <q>wxyz://</q>) arussin n iminig, ihi iminig ur yezmir ara ad iqqen ɣer usmel.</p><ul><li>Tettaɛraḍeḍ ad tkecmeḍ ɣer tanfiwin n wallalen n teywalt neɣ araḍris? Senqed asmel ma yesra ayen nniḍen.</li><li>Kra n ineggafen sran aseɣẓan neɣ azegrir wis kraḍ send ad ten-yissin iminig.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Tuqqna yugiţ uqeddac aseɣẓan agrayan">
-<!ENTITY proxyConnectFailure.longDesc "<p>Iminig inek ittuswel akken ad iseqdec aqeddac apṛuksi, acu kan apṛuksi yuggi tuqqna.</p><ul><li>Tawila n uminig inek d tameɣtut? Senqed iɣewwaṛen u ɛreḍ tikelt nniḍen.</li><li>Aseɣẓan agrawan isirig tuqqniwin seg uẓeṭṭa-yagi?</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Iminig-inek ittuswel akken ad iseqdec aqeddac apṛuksi, acu kan apṛuksi yuggi tuqqna.</p><ul><li>Tawila n uminig inek d tameɣtut? Senqed iɣewwaṛen u ɛreḍ tikelt nniḍen.</li><li>Aseɣẓan agrawan isirig tuqqniwin seg uẓeṭṭa-yagi?</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Ulac aqeddac aseɣẓan agrayan">
-<!ENTITY proxyResolveFailure.longDesc "<p>Iminig inek ittuswel akken ad iseqdec aqeddac aseɣẓan agrawan, acu kan aseɣẓan agrayan ulac-it.</p><ul><li>Tawila n uminig inek ţameɣtut? Senqed iɣewwaṛen u ɛreḍ tikelt nniḍen.</li><li>Aselkim inek iqqen ɣer uẓaṭṭa urmid?</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Iminig-inek ittuswel akken ad iseqdec aqeddac aseɣẓan agrawan, acu kan aseɣẓan agrayan ulac-it.</p><ul><li>Tawila n uminig-inek d tameɣtut? Senqed iɣewwaṛen u ɛreḍ tikelt nniḍen.</li><li>Aselkim-inek iqqen ɣer uẓaṭṭa urmid?</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
 
 <!ENTITY redirectLoop.title "Asebter-agi ur iweha ara akken iwata">
-<!ENTITY redirectLoop.longDesc "<p>Iminig inek yerken araǧu n tririt n usmel. Asmel yerna awehi akken tuttra weṛǧin ad taweḍ.</p><ul><li>Ahat treremdeḍ neɣ tesweḥleḍ inagan n tuqqna isran ɣef usmel-agi?</li><li><em>AWENNIT</em>: Ma yella ugur ur yefri ara ticki tremdeḍ inagan n tuqqna, ahat ugur atan di twila n uqeddac mačči deg uselkim inek.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Iminig-inek yerken araǧu n tririt n usmel. Asmel yerna awehi akken tuttra weṛǧin ad taweḍ.</p><ul><li>Ahat treremdeḍ neɣ tesweḥleḍ inagan n tuqqna isran ɣef usmel-agi?</li><li><em>AWENNIT</em>: Ma yella ugur ur yefri ara ticki tremdeḍ inagan n tuqqna, ahat ugur atan di twila n uqeddac mačči deg uselkim-inek.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Tiririt n uqeddac mačči tameɣtut">
 <!ENTITY unknownSocketType.longDesc "<p>Asmel yerr-ad tiririt ur nettwaṛǧi ara i weẓeṭṭa, iminig ur yezmir ara ad yeddu.</p> ">
