@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Página de origem:">
 <!ENTITY  generalSource         "Origem do cache:">
 <!ENTITY  generalModified       "Modificada em:">
-<!ENTITY  generalEncoding2      "Codificação do texto:">
+<!ENTITY  generalEncoding2      "Codificação de texto:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Valor">
 
