@@ -184,7 +184,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
-<!ENTITY netmonitorUI.response.mime       "Tipu MIME:">
+<!ENTITY netmonitorUI.response.mime       "Triba MIME:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
