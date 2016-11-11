@@ -22,10 +22,10 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Záložky">
 <!ENTITY aboutPrivateBrowsing.note.before                "Anonymní prohlížení ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vás na internetu neudělá zcela anonymní.">
-<!ENTITY aboutPrivateBrowsing.note.after                 " Váš zaměstnavatel nebo poskytovatel internetu může stále zjistit, jaké stránky navštěvujete.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " váš zaměstnavatel nebo poskytovatel internetu budou stále moci zjistit, které stránky navštěvujete.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Zjistěte více o">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Anonymním prohlížení">
 
 <!ENTITY trackingProtection.title                        "Ochrana proti sledování">
-<!ENTITY trackingProtection.description2                 "Některé webové stránky používají sledovací prvky, které mohou sledovat vaši aktivitu napříč internetem. S ochranou proti sledování bude Firefox blokovat mnohé sledovací prvky, které mohou sbírat informace o vašem chování při prohlížení.">
-<!ENTITY trackingProtection.startTour1                   "Podívejte se, jak to funguje">
+<!ENTITY trackingProtection.description2                 "Některé webové stránky používají prvky, které vás mohou sledovat napříč internetem. S ochranou proti sledování bude Firefox blokovat mnohé sledovací prvky, které o vás mohou sbírat informace.">
+<!ENTITY trackingProtection.startTour1                   "Jak to funguje">
