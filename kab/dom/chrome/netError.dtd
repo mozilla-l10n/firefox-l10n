@@ -8,13 +8,13 @@
 
 
 <!ENTITY connectionFailure.title "Iguma ad yeqqen">
-<!ENTITY connectionFailure.longDesc "<p>Ɣas akken asmel yettban d ameɣtu, iminig ur izmir ara ad yeqqen.</p><ul><li>Ahat asmel ulac-it akka kra n wakud tura? Ɛreḍ tikelt nniḍen ticki.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li> <li>Aselkim inek neɣ aqeddac inek ittummesten s uɣwṛab n tmes neɣ apṛuksi? Iɣewwaṛen arimeɣta zemren ad sweḥlen tunigin di Web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Ɣas akken asmel yettban d ameɣtu, iminig ur izmir ara ad yeqqen.</p><ul><li>Ahat asmel ulac-it akka kra n wakud tura? Ɛreḍ tikelt nniḍen ticki.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li> <li>Aselkim-inek neɣ aqeddac-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi? Iɣewwaṛen arimeɣta zemren ad sweḥlen tunigin di Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Tabburt tezzem s taɣẓint n tɣellist">
 <!ENTITY deniedPortAccess.longDesc "<p>Tansa d-ittusutren temmal-d tabburt (amedya. <q> mozilla.org:80</q> i tebburt 80 ɣef mozilla.org) i yettuseqdacen deg<em>umnaḍ</em> nniḍen war tunigin deg web. Iminig isefsex tuttra n ummesten-inek d tɣellist-inek.</p>">
 
 <!ENTITY dnsNotFound.title "Ulac tansa">
-<!ENTITY dnsNotFound.longDesc "<p>Iminig inek ur d yufi ara aqeddac asenneftaɣ n tansa d-ittunefken.</p><ul><li>Ahat tecḍeḍ makken tesekcmeḍ tansan taɣult? (amedya. <q><strong>ww</strong>.mozilla.org </q>deg umḍiq n <q><strong>www</strong>.mozilla.org</q>) </li> <li>Tansa yagi n taɣult tella yakan?  Ahat aklas ines yezri.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ yesmal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek akk d iɣewwaṛen n uqeddac DNS.</li> <li>Aselkim inek neɣ aqeddac inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan?  Iɣewwaṛen irameɣta zemren ad sweḥlen tunigin di Web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Iminig-inek ur d yufi ara aqeddac asenneftaɣ n tansa d-ittunefken.</p><ul><li>Ahat tecḍeḍ makken tesekcmeḍ tansan taɣult? (amedya. <q><strong>ww</strong>.mozilla.org </q>deg umḍiq n <q><strong>www</strong>.mozilla.org</q>) </li> <li>Tansa yagi n taɣult tella yakan?  Ahat aklas ines yezri.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ yesmal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek akk d iɣewwaṛen n uqeddac DNS.</li> <li>Aselkim-inek neɣ aqeddac inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan?  Iɣewwaṛen irameɣta zemren ad sweḥlen tunigin di Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ahat afaylu ittusnifel, ittwakkes  neɣ ittusenkez?</li><li>Llant tuccḍiwin n teɣdira, isekkilen imeqqṛanen, neɣ tuccḍiwin nniḍen?</li><li>Ɣur-k tasiregt ara iqadden ɣef ufaylu agi?</li></ul>">
