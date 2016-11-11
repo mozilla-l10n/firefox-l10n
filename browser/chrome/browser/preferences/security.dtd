@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Bloquiar descargues peligroses">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "Alvertime tocante a software indeseyable y non común">
+<!ENTITY  blockUncommonUnwanted.label     "Alvertime tocante a software indeseable y non común">
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Esceiciones…">
