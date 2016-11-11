@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fallu al coneutar">
-<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun pudo afitar una conexón.</p><ul><li>¿Puede ser que'l sitiu nun tea disponible temporalmente? Inténtalo otra vuelta más sero.</li><li>¿Nun puedes restolar n'otros sitios?  Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o darrera d'un tornafueos? Una configuración incorreuta puede interferir na navegación.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun foi a afitar una conexón.</p><ul><li>¿Pudo'l sitiu nun tar temporalmente disponible? Volvi tentalo más sero.</li><li>¿Nun yes a restolar otros sitios?  Comprueba la conexón de rede del ordenador.</li><li>¿Ta l'ordenador protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interferir nel restolar web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puertu restrinxíu por razones de seguridá">
 <!ENTITY deniedPortAccess.longDesc "<p>La direición solicitada especificaba un puertu (p.ex. <q>mozilla.org:80</q> pal puertu 80 de mozilla.org) usáu davezu pa propósitos <em>distintos</em> a restolar pela Web. El restolador encaboxó la solicitú por proteición y seguridá.</p>">
