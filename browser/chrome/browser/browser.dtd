@@ -207,6 +207,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mussar infurmaziuns davart la pagina">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avrir la panela da messadis">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avrir la panela d'installaziun da supplements">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avrir la panela per la memoria offline">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avrir la panela per memorisar pleds-clav">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Definir sche ti vuls retschaiver notificaziuns da la pagina">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
