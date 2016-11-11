@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Wiyaḍ">
 <!ENTITY runtimePanel_installsimulator "Sebded aserwas">
 <!ENTITY runtimePanel_noadbhelper "Sebded ADB Helper">
-<!ENTITY runtimePanel_nousbdevice "Ur tezmireḍ ara ad twaliḍ ibenk inek?">
+<!ENTITY runtimePanel_nousbdevice "Ur tezmireḍ ara ad twaliḍ ibenk-inek?">
 <!ENTITY runtimePanel_refreshDevices_label "Smiren ibenkan">
 <!-- Lense -->
 
