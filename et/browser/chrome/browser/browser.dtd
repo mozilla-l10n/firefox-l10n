@@ -208,12 +208,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Vaata saidi teavet">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ava teavituse paneel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ava asukohataotluse paneel">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ava lisa paigaldamise teavituspaneel">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ava võrguta režiimi andmete teavituspaneel">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ava parooli salvestamise teavituspaneel">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Halda pluginate kasutust">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Määra, kas soovid sellelt saidilt teavitusi saada">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Halda kaamera ja/või mikrofoni jagamist saidiga">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Halda mikrofoni jagamist saidiga">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Halda ekraani või akende jagamist saidiga">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ava paigaldamise teavituspaneel">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tõlgi see leht">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Halda lehe tõlkimist">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Halda DRM-tarkvara kasutust">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Oled sellel lehel keelanud kaamera kasutamise.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Oled sellel lehel keelanud mikrofoni kasutamise.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Oled sellel lehel keelanud ekraanijagamise.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Oled sellel lehel keelanud asukohateabe kasutamise.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Oled sellel lehel keelanud andmete salvestamise.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Oled sellel lehel teavitused keelanud.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Taasta algsuurus">
 
 <!ENTITY searchItem.title             "Otsi">
 
@@ -410,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Otsingukast">
+<!ENTITY contentSearchSubmit.tooltip  "Soorita otsing">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -435,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Muuda otsingu sätteid">
+<!ENTITY changeSearchSettings.tooltip "Otsingu sätete muutmine">
 
 <!ENTITY searchInNewTab.label         "Soorita otsing uuel kaardil">
 <!ENTITY searchInNewTab.accesskey     "S">
@@ -712,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Õigused">
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
+<!ENTITY identity.permissionsReloadHint "Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
