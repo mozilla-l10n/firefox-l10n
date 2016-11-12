@@ -78,7 +78,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Ismenyifen n user.js">
-<!ENTITY aboutSupport.userJSDescription "Akaram inek n umaɣni ɣuṛ-s<a id='prefs-user-js-link'> afaylu user.js</a> igebren imenyifen ur yerni ara &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Akaram-inek n umaɣni ɣuṛ-s<a id='prefs-user-js-link'> afaylu user.js</a> igebren imenyifen ur yerni ara &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Ismenyifen ixataren ittusekwren">
 <!ENTITY aboutSupport.lockedPrefsName "Isem">
