@@ -27,20 +27,20 @@
 <!ENTITY  installing.top.label            "Azdam d usebded n ileqman n izegrar imernan…">
 
 <!ENTITY  noupdates.wizard.title          "Ulac azegrir imṣadan">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; ur yezmir ara ad yaf ileqman i yizegrar inek ur nemṣada ara.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; ur yezmir ara ad yaf ileqman i yizegrar-inek ur nemṣada ara.">
 <!ENTITY  noupdates.error.desc            "Kra n wuguren ţumugren-d deg unadi n ileqman.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ad isenqed si s ya ɣer da u wak-id inermes ɣef ileqman imṣadan ticki heggan.">
 
 <!ENTITY  finished.wizard.title           "Izegrar imernan imsaḍan bedden">
-<!ENTITY  finished.top.label              "&brandShortName; isebded ileqman n izegrar inek.">
+<!ENTITY  finished.top.label              "&brandShortName; isebded ileqman n izegrar-inek.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; ad isenqed si s ya ɣer da u wak-d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ad isenqed si s ya ɣer da u w-ak d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
 
 <!ENTITY  adminDisabled.wizard.title      "D-awezɣi asenqed n tilin n ileqman">
-<!ENTITY  adminDisabled.warning.label     "D awezɣi asenqed n tilin n ileqman i yizegrar inek ur nemṣada ara acku asebded n iseɣẓanen i &brandShortName; itturermed. Ma ulac aɣilif, nermes anedbal n unagraw-ik ma tebɣiḍ tallalt.">
+<!ENTITY  adminDisabled.warning.label     "D awezɣi asenqed n tilin n ileqman i yizegrar-inek ur nemṣada ara acku asebded n iseɣẓanen i &brandShortName; itturermed. Ma ulac aɣilif, nermes anedbal n unagraw-ik ma tebɣiḍ tallalt.aramsaḍan">
 
 <!ENTITY  versioninfo.wizard.title        "Asenqed n umsaḍa n izegrar imernan">
-<!ENTITY  versioninfo.top.label           "Asenqed n umṣada n izegrar inek imernan d lqem-agi &brandShortName;.">
+<!ENTITY  versioninfo.top.label           "Asenqed n umṣada n izegrar-inek imernan d lqem-agi &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Ay-agi yezmer ad yawi kra n tesdatin…">
 
 <!ENTITY  installerrors.wizard.title      "Ugure deg usebded n ileqman">

@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "Ma tenrniḍ imeɣna, tzemreḍ ad tesemgiredeḍ s yisem. Tzemreḍ ad tesqedceḍ isem i d-ittusumren neɣ fren isem s yiman-ik.">
 <!ENTITY profilePrompt.label            "Sekcem isem amaynut n umaɣnu">
 <!ENTITY profilePrompt.accesskey        "k">
-<!ENTITY profileDirectoryExplanation.text   "Iɣewwaṛen-ik n useqdac, isemnyifen, d isefka inek usligen ad ţwakelsen imaṛṛa di:">
+<!ENTITY profileDirectoryExplanation.text   "Iɣewwaṛen-ik n useqdac, isemnyifen, d isefka-inek usligen ad ttwakelsen imaṛṛa di:">
 <!ENTITY profileDefaultName             "Aseqdac n amezwer">
 <!ENTITY button.choosefolder.label      "Fren akaram…">
 <!ENTITY button.choosefolder.accesskey  "F">
