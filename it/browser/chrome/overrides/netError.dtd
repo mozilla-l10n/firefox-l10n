@@ -39,6 +39,11 @@
 <!ENTITY generic.longDesc "
 <p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
 ">
+<!ENTITY captivePortal.title "Accedi alla rete">
+<!ENTITY captivePortal.longDesc "
+<p>Potrebbe essere necessario accedere alla rete per navigare in Internet.</p>
+">
+<!ENTITY openPortalLoginPage.label "Apri la pagina di accesso">
 <!ENTITY malformedURI.title "L’indirizzo non è valido">
 <!ENTITY malformedURI.longDesc "
 <ul>
