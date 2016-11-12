@@ -65,7 +65,7 @@
 <!ENTITY rights.safebrowsing-b "Nuk këshillohet çaktivizimi i veçorisë Shfletim i Parrezik, pasi mund të bëjë që të shkoni te sajte jo të parrezik.  Nëse dëshironi ta çaktivizoni tërësisht këtë veçori, ndiqni hapat vijues:">
 <!ENTITY rights.safebrowsing-term1 "Hapni parapëlqimet e aplikacionit">
 <!ENTITY rights.safebrowsing-term2 "Përzgjidhni ndarjen Siguri">
-<!ENTITY rights.safebrowsing-term3 "Hiquni shenjën mundësive te &quot;&blockAttackSites.label;&quot; dhe &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Hiqjani shenjën mundësisë te &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Shfletimi i Parrezik Sigurt tani është çaktivizuar">
 
 <!-- location aware browsing points for branded builds -->

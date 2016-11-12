@@ -96,6 +96,11 @@ Ping
   Ngecje Rrjedhe
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalarë
+">
+
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histograme
 ">
@@ -156,8 +161,4 @@ Ping
 
 <!ENTITY aboutTelemetry.rawPingData "
 Të dhëna të papërpunuara pingjesh ...
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Të dhëna të Papërpunuara Ngarkese
 ">

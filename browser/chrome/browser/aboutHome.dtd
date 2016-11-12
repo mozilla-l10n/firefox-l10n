@@ -2,9 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
 
@@ -19,11 +18,9 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Është e lehtë ta përshtatni Firefox-in tuaj pikërisht si e doni. <a>Zgjidhni prej mijëra shtesash për të</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Është e lehtë ta personalizoni Firefox-in tuaj pikërisht si e doni. <a>Zgjidhni prej mijëra shtesash për të</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName;-i është software i lirë dhe me burim të hapur, ndërtuar nga organizmi jofitimprurës Mozilla Foundation. <a>Njihni të drejtat tuaja…</a>">
-
-<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!ENTITY abouthome.bookmarksButton.label "Faqerojtës">
 <!ENTITY abouthome.historyButton.label   "Historik">
@@ -34,8 +31,8 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Parapëlqime">
 <!ENTITY abouthome.addonsButton.label    "Shtesa">
-
 <!ENTITY abouthome.downloadsButton.label "Shkarkime">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
