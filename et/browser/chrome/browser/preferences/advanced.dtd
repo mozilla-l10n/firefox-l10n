@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Rohkem teavet">
 
+<!ENTITY crashReporterDesc2.label         "Vearaportid aitavad &vendorShortName;l probleeme parandada ning sinu brauserit stabiilsemaks ja turvalisemaks teha">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName;il lubatakse saatmata vearaporteid saata">
+<!ENTITY alwaysSubmitCrashReports.accesskey "v">
 <!ENTITY crashReporterLearnMore.label     "Rohkem teavet">
 
 <!ENTITY networkTab.label                "Võrk">

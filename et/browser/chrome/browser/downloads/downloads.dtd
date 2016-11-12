@@ -62,6 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Eemalda ajaloost">
 <!ENTITY cmd.removeFromHistory.accesskey  "E">
+<!ENTITY cmd.clearList2.label             "Puhasta eelvaate paneel">
+<!ENTITY cmd.clearList2.accesskey         "e">
 <!ENTITY cmd.clearDownloads.label         "Puhasta allalaadimiste nimekiri">
 <!ENTITY cmd.clearDownloads.accesskey     "u">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -107,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Kuva kõiki allalaadimisi">
 <!ENTITY downloadsHistory.accesskey       "v">
 
+<!ENTITY openDownloadsFolder.label       "Ava allalaadimiste kaust">
 
 <!ENTITY clearDownloadsButton.label       "Puhasta allalaadimiste nimekiri">
 <!ENTITY clearDownloadsButton.tooltip     "Eemalda lõpetatud, katkestatud ja ebaõnnestunud allalaadimised nimekirjast">

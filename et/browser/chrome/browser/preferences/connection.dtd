@@ -4,6 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "Ühenduse sätted">
+<!ENTITY  window.width2                 "53em">
+<!ENTITY  window.macWidth2              "48em">
 
 <!ENTITY  proxyTitle.label              "Interneti puhverserveri häälestamine">
 <!ENTITY  noProxyTypeRadio.label        "Internetti ühendutakse otse">
