@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vaata saidi teavet">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ava teavituse paneel">
 
 
 
