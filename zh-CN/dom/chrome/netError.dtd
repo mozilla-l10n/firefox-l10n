@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "连接失败">
-<!ENTITY connectionFailure.longDesc "<p>虽然此站点似乎有效，但浏览器无法建立连接到该站点。</p><ul><li>该站点是否暂时不可用？请稍后再试。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接。</li><li>您的计算机或网络是否被防火墙、代理服务器保护？请尝试修正可能不正确的设置。</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>与此网站连接失败，但网址似乎是正确的。</p><ul><li>可能是此网站暂停服务了？请稍后再试。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接。</li><li>您的计算机或网络是否开启了防火墙、代理服务器？请确认它们是否正确设置了。</li></ul>">
 
 <!ENTITY deniedPortAccess.title "安全原因导致访问端口受限">
 <!ENTITY deniedPortAccess.longDesc "<p>请求的地址中指定了一个端口（例如 <q>mozilla.org:80</q> 对应 mozilla.org 的80端口），该端口通常是用作<em>其他</em>用途。因此，为了您的安全考虑，浏览器取消了该请求。</p>">
@@ -77,14 +77,14 @@
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.warningContent "
-<p>您不应该添加例外，如果你使用的是您不完全信任的互联网连接，或如果你不习惯看到此服务器的警告。</p>
+<p>您不应该在使用的是您不完全信任的互联网连接，或者没有常常遇到警告的情况下，为此服务器添加例外。</p>
 <p>如果你仍然想为此站点添加例外，可以在高级加密设置中这样做。</p>
 ">
 
 <!ENTITY cspBlocked.title "依照内容安全策略而拦截">
 <!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的载入，因为该页面含有安全政策不允许的内容。</p>">
 
-<!ENTITY corruptedContentErrorv2.title "损坏内容错误">
+<!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY remoteXUL.title "远程 XUL">
