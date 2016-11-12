@@ -38,6 +38,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Mund të jetë hequr, lëvizur, ose hyrjen mund të jenë duke e penguar lejet mbi kartelën.</li>
+</ul>
+">
+
 <!ENTITY generic.title "Oh.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
@@ -134,11 +141,13 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Lidhja juaj s&apos;është e sigurt">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "I zoti i <span class='hostname'/> e ka formësuar sajtin e vet jo si duhet.  Që të mbrohen nga vjedhjet të dhënat tuaja, &brandShortName;-i s&apos;është lidhur te ky sajt.">
+<!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Mund të jetë problem i formësimit të shërbyesit, ose mundet që dikush të jetë duke imituar shërbyesin.</li>
+  <li>Nëse në të kaluarën jeni lidhur me sukses te ky shërbyes, gabimi mund të jetë i përkohshëm, dhe mund të riprovonit më vonë.</li>
+</ul>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -149,17 +158,49 @@ was trying to connect. -->
 </ul>
 ">
 
+<!ENTITY malwareBlocked.title "Sajt i Dyshuar për Sulme!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Sajtet e sulmeve përpiqen të instalojnë programe që grabisin të dhëna private, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
+<p>Të zotët e sajteve që besojnë se sajti i tyre është raportuar gabimisht si sajt sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtimin e çështjes</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "E dyshuar si Sajesë Web!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Të dhënët e çfarëdo lloj të dhëne në këtë faqe mund të shpjerë në përvetësim të identitetit ose të ngjashme.</p>
+<p>Këto lloje sajesash web përdoren në mashtrime të njohura edhe si sulme karremëzimi, gjatë të cilëve faqe web dhe email-e të gënjeshtërt përdoren për të imituar burime që u besoni.</p>
+">
+
+<!ENTITY forbiddenBlocked.title "Sajt i Ndaluar">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje, ngaqë është formësuar ta bllokojë atë.</p>
+">
+
 <!ENTITY cspBlocked.title "Bllokuar nga një Rregull mbi Sigurinë e Lëndës">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie që nuk e lejon.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni, nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
 
-
+<!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
 
-<!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që ta ndihmoni Mozilla-n në identifikimin dhe bllokimim e sajteve dashakeqë">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>Nuk do të duhej të shtonit një përjashtim, nëse përdorni një lidhje internet të cilën nuk e besoni plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizim për këtë shërbyes.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY errorReporting.automatic2 "Raportoni gabime si ky që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
 <!ENTITY errorReporting.learnMore "Mësoni më tepër…">
+<!ENTITY errorReporting.sending "Po dërgohet raporti">
+<!ENTITY errorReporting.sent "Raporti u dërgua">
+<!ENTITY errorReporting.tryAgain "Riprovoni">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">
@@ -169,6 +210,11 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Të dhëna të mëtejshme: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY unwantedBlocked.title "Sajt i Dyshuar për Software të Padëshiruar!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Faqe software-i të padëshiruar përpiqen të instalojnë software që mund të jetë i rrejshëm dhe të ndikojë mbi sistemin tuaj në rrugë të paparashikuara.</p>
+">
+
 <!ENTITY weakCryptoUsed.title "Lidhja juaj s&apos;është e sigurt">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
@@ -176,22 +222,3 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Të mëtejshme">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme nga sulme kibernetike. Një agresor mund të marrë lehtësisht të dhëna që ju mendoni se i keni të parrezikuara.">
 <!ENTITY weakCryptoAdvanced.override "(E pasigurt) Provoni të ngarkoni <span class='hostname'></span> duke përdorur teknologji të vjetruar">
-
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>S&apos;është e mundur një lidhje e sigurt me <span id='wrongSystemTime_URL'/>, ngaqë ora juaj duket se jep kohë të gabuar.</p> <p>Kompjuteri juaj tregon <span id='wrongSystemTime_systemDate'/>, ndërkohë që duhet të jetë <span id='wrongSystemTime_actualDate'/>. Që ta ndreqni këtë problem, ndryshoni rregullimet tuaja për datën dhe kohën, që të përputhen me kohën e saktë.</p>">
-
-<!ENTITY certerror.pagetitle1  "Lidhje e Pasigurt">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP
-Strict Transport Security (HSTS) për të treguar që &brandShortName;-i mund të lidhet
-me të vetëm në mënyrë të sigurt. Si pasojë, s&apos;është e mundur të shtohet
-përjashtim për këtë dëshmi.">
-<!ENTITY certerror.copyToClipboard.label "Kopjoje tekstin te e papastra">
-
-<!ENTITY inadequateSecurityError.title "Lidhja juaj s&apos;është e sigurt">
-<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
-     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe pre e sulmeve. Një agresor do të mund të zbulonte lehtë të dhëna të cilat mendoni se janë të parrezikuara. Para se të mund të vizitoni sajtin, përgjegjësi i tij duhet të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-
-<!ENTITY prefReset.longDesc "Duket se kjo mund të jetë duke u shkaktuar nga rregullimet tuaja lidhur me sigurinë në rrjet. Doni që të rikthehen rregullimet parazgjedhje?">
-<!ENTITY prefReset.label "Restore default settings">

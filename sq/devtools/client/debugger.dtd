@@ -163,7 +163,12 @@
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Shtoni Pikëndërprerje të Kushtëzuar">
-<!ENTITY debuggerUI.seMenuCondBreak.key "z">
+<!ENTITY debuggerUI.seMenuCondBreak.key "S">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Përpunoni Pikëndërprerje të Kushtëzuar">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->

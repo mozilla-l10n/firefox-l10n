@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Layout View strings.
   - The Layout View is the panel accessible at the bottom of the Inspector
   - sidebar. -->
@@ -17,3 +21,8 @@
 <!ENTITY border.tooltip        "anë">
 <!ENTITY padding.tooltip        "mbushje">
 <!ENTITY content.tooltip        "lëndë">
+
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+<!ENTITY geometry.button.tooltip  "Përpunoni pozicion">
