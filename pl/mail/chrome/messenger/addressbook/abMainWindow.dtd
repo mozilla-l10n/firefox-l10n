@@ -72,9 +72,15 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Zamień miejscami Imię/Nazwisko">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "w">
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label "Właściwości">
-<!ENTITY propertiesCmd2.accesskey "i">
+<!ENTITY propertiesMenu.label "Właściwości">
+<!ENTITY propertiesMenu.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
+<!ENTITY abPropertiesMenu.label "Właściwości książki adresowej">
+<!ENTITY abPropertiesMenu.accesskey "i">
+<!ENTITY contactPropertiesMenu.label "Właściwości kontaktu">
+<!ENTITY contactPropertiesMenu.accesskey "i">
+<!ENTITY mailingListPropertiesMenu.label "Właściwości listy dystrybucyjnej">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY Addrbook.label "Książka adresowa">
 <!ENTITY Addrbook.accesskey "a">
@@ -127,8 +133,15 @@
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
 <!ENTITY newlistButton.accesskey "l">
-<!ENTITY editButton2.label "Właściwości">
-<!ENTITY editButton2.accesskey "W">
+<!ENTITY editPropertiesButton.label "Edytuj">
+<!ENTITY propertiesContext.label "Właściwości">
+<!ENTITY propertiesContext.accesskey "W">
+<!ENTITY abPropertiesContext.label "Właściwości">
+<!ENTITY abPropertiesContext.accesskey "W">
+<!ENTITY editContactContext.label "Edytuj kontakt">
+<!ENTITY editContactContext.accesskey "E">
+<!ENTITY editMailingListContext.label "Edytuj listę">
+<!ENTITY editMailingListContext.accesskey "E">
 <!ENTITY newmsgButton.label "Napisz">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Nowa wiadomość błyskawiczna">
@@ -140,7 +153,10 @@
 
 <!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
 <!ENTITY newlistButton.tooltip "Dodaj nową listę dystrybucyjną">
-<!ENTITY editButton2.tooltip "Edytuj zaznaczony element">
+<!ENTITY editPropertiesButton.tooltip "Edytuj zaznaczony element">
+<!ENTITY editAbPropertiesButton.tooltip "Edytuj właściwości zaznaczonej książki adresowej">
+<!ENTITY editContactPropertiesButton.tooltip "Edytuj zaznaczony kontakt">
+<!ENTITY editMailingListPropertiesButton.tooltip "Edytuj zaznaczoną listę dystrybucyjną">
 <!ENTITY newmsgButton.tooltip "Wyślij wiadomość">
 <!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton2.tooltip "Usuń zaznaczony element">
