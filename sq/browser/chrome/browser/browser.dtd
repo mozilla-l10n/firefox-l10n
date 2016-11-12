@@ -40,12 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Çfiksoje Skedën">
 <!ENTITY  unpinTab.accesskey                 "ç">
-<!ENTITY  sendTabToDevice.label              "Dërgoje Skedën te Pajisja">
-<!ENTITY  sendTabToDevice.accesskey          "P">
-<!ENTITY  sendPageToDevice.label             "Dërgoje Faqen te Pajisja">
-<!ENTITY  sendPageToDevice.accesskey         "P">
-<!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
-<!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
@@ -111,7 +105,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Shfaqini Krejt Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
-<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Hyni te &syncBrand.shortName.label;-u">
 <!ENTITY fxaSignedIn.tooltip "Hapni parapëlqimet mbi &syncBrand.shortName.label;-un">
@@ -142,16 +135,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Dilni Nga Gjendja Krejt Ekrani (esc)">
 <!ENTITY leaveDOMFullScreen.label "Dilni Nga Gjendja Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "është në kontroll të kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.">
-<!ENTITY pointerlockWarning.generic.label "Kursori është nën kontrollin e kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.">
-
 
 <!ENTITY closeWindow.label "Mbylleni Dritaren">
 <!ENTITY closeWindow.accesskey "D">
@@ -790,8 +773,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Shfaq njoftime në desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
+<!ENTITY social.activated.description "Shërbimet prej <label/> janë aktivizuar. Rregullimet tuaja për shërbimet mund t&apos;i ndryshoni te <label class='text-link'>Përgjegjësi i Shtesave</label>.">
+<!ENTITY social.activated.undo.label "Oh, zhbëje këtë!">
+<!ENTITY social.activated.undo.accesskey "z">
 <!ENTITY social.learnMore.label "Mësoni më tepër…">
 <!ENTITY social.learnMore.accesskey "M">
+<!ENTITY social.closeNotificationItem.label "Jo Tani">
 
 <!ENTITY social.directory.label "Listë Aktivizimesh">
 <!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
