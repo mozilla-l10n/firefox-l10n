@@ -510,9 +510,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "設為桌布…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "將本頁加入書籤">
-<!ENTITY bookmarkThisLinkCmd.label      "此鏈結加入書籤">
+<!ENTITY bookmarkThisLinkCmd.label      "將此鏈結加入書籤">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "此頁框加入書籤">
+<!ENTITY bookmarkThisFrameCmd.label      "將此頁框加入書籤">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "郵寄鏈結…">
 <!ENTITY emailPageCmd.accesskey       "E">
