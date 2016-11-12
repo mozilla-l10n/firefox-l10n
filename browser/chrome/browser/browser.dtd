@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Extension :">
 <!ENTITY urlbar.switchToTab.label     "Aller à l’onglet :">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Voulez-vous améliorer la façon dont vous effectuez des recherches en activant les suggestions ?">
