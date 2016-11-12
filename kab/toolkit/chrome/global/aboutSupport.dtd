@@ -61,7 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Isfuyla agetakala">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Askar war abrir">
+<!ENTITY aboutSupport.appBasicsSafeMode "Askar aɣelsan">
 
 <!ENTITY aboutSupport.showDir.label "Ldi akaram">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Ɛreḍ deg uskar war abrir">
+<!ENTITY aboutSupport.safeModeTitle "Ɛreḍ deg uskar aɣelsan">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ales asenker s izegrar irurmiden…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Timahilin">
