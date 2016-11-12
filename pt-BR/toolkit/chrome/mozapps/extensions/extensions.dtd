@@ -75,7 +75,7 @@
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar mais informações">
 <!ENTITY cmd.showDetails.accesskey            "E">
-<!ENTITY cmd.findUpdates.label                "Verificar atualização">
+<!ENTITY cmd.findUpdates.label                "Localizar atualizações">
 <!ENTITY cmd.findUpdates.accesskey            "V">
 <!ENTITY cmd.preferencesWin.label             "Opções">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
