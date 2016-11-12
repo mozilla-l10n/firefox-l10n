@@ -17,7 +17,7 @@
 <!ENTITY clickToActivatePlugin                               "Rmed azegrir.">
 <!ENTITY checkForUpdates                                     "Senqed ileqman…">
 <!ENTITY disabledPlugin                                      "Azegrir-agi ur yermid ara.">
-<!ENTITY blockedPlugin.label                                 "Azegrir-agi amernan ad ittusewḥel i ummesten inek.">
+<!ENTITY blockedPlugin.label                                 "Azegrir-agi amernan ad ittusewḥel i ummesten-inek.">
 <!ENTITY hidePluginBtn.label                                 "Ffer azegrir-agi">
 <!ENTITY managePlugins                                       "Sefrek izegrar imernan…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
