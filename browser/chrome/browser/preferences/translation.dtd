@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Nun va ufrise traducción pa les llingües de darréu:">
+<!ENTITY noTranslationForLanguages.label  "Nun s'ufrirá la traducción pa les llingües de darréu:">
 <!ENTITY treehead.languageName.label      "Llingües">
 <!ENTITY removeLanguage.label             "Desaniciar llingua">
 <!ENTITY removeLanguage.accesskey         "D">
 <!ENTITY removeAllLanguages.label         "Desaniciar toles llingües">
 <!ENTITY removeAllLanguages.accesskey     "t">
 
-<!ENTITY noTranslationForSites.label      "Nun va ufrise traducción pa los sitios de darréu:">
+<!ENTITY noTranslationForSites.label      "Nun s'ufrirá la traducción pa los sitios de darréu:">
 <!ENTITY treehead.siteName.label          "Sitios">
 <!ENTITY removeSite.label                 "Desaniciar sitiu">
 <!ENTITY removeSite.accesskey             "s">

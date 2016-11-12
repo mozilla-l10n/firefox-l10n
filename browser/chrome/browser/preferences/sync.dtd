@@ -5,22 +5,22 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permite accesu a los tos marcadores, historial, contraseñes, preferencies y llingüetes en dellos equipos.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; déxate acceder al to historial, marcadores, contraseñes y llingüetes abiertes pente tolos tos preseos.">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Anovar">
-<!ENTITY resetPass.label              "Restablecer">
+<!ENTITY resetPass.label              "Reafitar">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Alministrar cuenta">
+<!ENTITY manageAccount.label          "Xestionar cuenta">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword2.label        "Camudar contraseña…">
-<!ENTITY myRecoveryKey.label          "La mio clave de Recuperación">
-<!ENTITY resetSync2.label             "Restablecer Sync…">
+<!ENTITY myRecoveryKey.label          "La mio clave de recuperación">
+<!ENTITY resetSync2.label             "Reafitar Sync…">
 
-<!ENTITY pairDevice.label             "Emparexar un preséu">
+<!ENTITY pairDevice.label             "Empareyar un preséu">
 
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
@@ -33,24 +33,24 @@
 <!ENTITY engine.passwords.accesskey "ñ">
 <!ENTITY engine.prefs.label         "Preferencies">
 <!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "C">
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nome del preséu:">
 <!ENTITY syncDeviceName.accesskey   "N">
-<!ENTITY fxaSyncDeviceName.label       "Nome de preséu">
-<!ENTITY changeSyncDeviceName.label "Camudar nome de preséu…">
+<!ENTITY fxaSyncDeviceName.label       "Nome del preséu">
+<!ENTITY changeSyncDeviceName.label "Camudar nome del preséu…">
 <!ENTITY cancelChangeSyncDeviceName.label "Encaboxar">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
 <!ENTITY unlinkDevice.label           "Desvincular esti preséu.">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Términos del Serviciu">
+<!ENTITY prefs.tosLink.label        "Términos del serviciu">
 <!ENTITY prefs.ppLink.label         "Política de privacidá">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Avisu sobre privacidá">
+<!ENTITY fxaPrivacyNotice.link.label "Avisu de privacidá">
 <!ENTITY determiningAcctStatus.label     "Determinando l'estáu de la to cuenta…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
@@ -59,44 +59,44 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "nun ta verificáu.">
+<!ENTITY signedInUnverified.aftername.label "nun ta verificada.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "Anicia sesión pa reconeutate">
+<!ENTITY signedInLoginFailure.beforename.label "Anicia sesión pa reconeutate, por favor">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Nun s'anició sesión.">
+<!ENTITY notSignedIn.label           "Nun aniciesti sesión.">
 <!ENTITY signIn.label                "Aniciar sesión">
-<!ENTITY profilePicture.tooltip      "Camudar imaxe de perfil">
-<!ENTITY verifiedManage.label        "Remanar cuenta">
+<!ENTITY profilePicture.tooltip      "Camudar semeya de perfil">
+<!ENTITY verifiedManage.label        "Xestionar cuenta">
 <!ENTITY disconnect.label            "Desconeutar…">
 <!ENTITY verify.label                "Verificar mensaxe">
-<!ENTITY forget.label                "Escaez esti mensaxe">
+<!ENTITY forget.label                "Escaecer esti corréu">
 
-<!ENTITY welcome.description "Accede a les llingüetes, marcadores, contraseñes y más siempre qu'uses &brandShortName;.">
+<!ENTITY welcome.description "Accedi a les tos llingüetes, marcadores, contraseñes y más siempres qu'uses &brandShortName;.">
 <!ENTITY welcome.signIn.label "Aniciar sesión">
 <!ENTITY welcome.createAccount.label "Crear cuenta">
 
 <!ENTITY welcome.useOldSync.label "¿Uses una versión vieya de Sync?">
 
 <!ENTITY signedOut.caption            "Lleva la web contigo">
-<!ENTITY signedOut.description        "Sincroniza los marcadores, historial, llingüetes, contraseñes, complementos y preferencies ente tolos tos preseos.">
+<!ENTITY signedOut.description        "Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.">
 <!ENTITY signedOut.accountBox.title   "Coneutar con una &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear cuenta">
 <!ENTITY signedOut.accountBox.signin  "Aniciar sesión">
 
-<!ENTITY signedIn.engines.label       "Sincronizar ente tolos preseos">
+<!ENTITY signedIn.engines.label       "Sincronizar pente tolos preseos">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            "Descarga Firefox pa ">
+<!ENTITY mobilePromo3.start            "Baxa Firefox pa ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
