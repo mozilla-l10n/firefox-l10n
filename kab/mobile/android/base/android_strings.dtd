@@ -14,17 +14,17 @@
 <!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel i tẓureḍ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, yal tikelt s idis-ik">
-<!ENTITY firstrun_sync_subtext "Semtawi iccaren inek, awalen uffiren, akked ugar di yal amḍiq anida i t-teseqdaceḍ.">
+<!ENTITY firstrun_sync_subtext "Semtawi iccaren-inek, awalen uffiren, akked ugar deg yal amḍiq anida i t-teseqdaceḍ.">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
-<!ENTITY firstrun_button_next "Ɣer zdat">
+<!ENTITY firstrun_button_next "Ɣer sdat">
 
 <!ENTITY firstrun_tabqueue_title "Iseɣwan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Rmed adras n yiccer">
-<!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaruḍ-ten deg isnasen nniḍen.">
+<!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaruḍ-ten deg yisnasen nniḍen.">
 
 <!ENTITY firstrun_tabqueue_message_on "Yedda!">
 <!ENTITY firstrun_tabqueue_subtext_on "Tzemreḍ yal tikelt tebɣid ad tekkseḍ armad deg &settings; deg &pref_category_general;.">
