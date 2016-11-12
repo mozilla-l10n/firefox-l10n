@@ -103,7 +103,7 @@
 
 <!ENTITY accnameTitle.label "Isem n umiḍan">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Sekcem isem n umiḍan inke (imadyaten, &quot;Work Account&quot;, &quot;Home Account&quot; neɣ &quot;News Account&quot;).">
+<!ENTITY accnameDesc.label "Sekcem isem n umiḍan inek (imedyaten, &quot;Work Account&quot;, &quot;Home Account&quot; neɣ &quot;News Account&quot;).">
 <!ENTITY accnameLabel.label "Isem n umiḍan:">
 <!ENTITY accnameLabel.accesskey "s">
 <!-- Entities for Done (Congratulations) page -->
