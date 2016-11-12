@@ -80,13 +80,13 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "ลบไฟล์หรืออนุญาตการดาวน์โหลด">
+<!ENTITY cmd.chooseUnblock.label          "เอาไฟล์ออกหรืออนุญาตการดาวน์โหลด">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "เปิดหรือลบไฟล์">
+<!ENTITY cmd.chooseOpen.label             "เปิดหรือเอาไฟล์ออก">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
