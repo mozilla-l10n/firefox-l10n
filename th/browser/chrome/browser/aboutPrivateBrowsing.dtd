@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "คุณไม่ได้อยู่ในหน้าต่างท่องเว็บแบบส่วนตัว">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "เปิดหน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "ขณะนี้คุณไม่ได้อยู่ในหน้าต่างส่วนตัว">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "เปิดหน้าต่างส่วนตัว">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "การท่องเว็บแบบส่วนตัว">
 <!ENTITY privateBrowsing.title.tracking                  "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการตามรอย">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "เมื่อคุณเรียกดูหน้าต่างแบบส่วนตัว Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "เมื่อคุณเรียกดูในหน้าต่างส่วนตัว Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ไม่บันทึก">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "หน้าที่เยี่ยมชมแล้ว">
@@ -22,7 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ที่คั่นหน้า">
 <!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ไม่ได้ทำให้คุณนิรนาม">
-<!ENTITY aboutPrivateBrowsing.note.after                 " บนอินเทอร์เน็ต โปรดรู้ไว้ว่าผู้ให้บริการอินเทอร์เน็ตที่คุณใช้หรือนายจ้างของคุณจะยังสามารถติดตามประวัติการดูเว็บของคุณได้อยู่">
+<!ENTITY aboutPrivateBrowsing.note.after                 " บนอินเทอร์เน็ต นายจ้างหรือผู้ให้บริการอินเทอร์เน็ตยังคงสามารถทราบว่าคุณเยี่ยมชมหน้าใดบ้าง">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "เรียนรู้เพิ่มเติมเกี่ยวกับ">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "การท่องเว็บแบบส่วนตัว">
 
