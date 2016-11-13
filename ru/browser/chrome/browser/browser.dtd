@@ -288,6 +288,7 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Введите поисковый запрос или адрес">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.extension.label "Расширение:">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
 <!ENTITY urlbar.searchSuggestionsNotification.question "Вы хотели бы расширить свои возможности поиска с помощью предложений?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Подробнее…">

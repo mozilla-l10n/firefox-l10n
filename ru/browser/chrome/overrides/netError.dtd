@@ -41,6 +41,14 @@
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не может загрузить эту страницу по неопределённой причине.</p>
 ">
+
+<!ENTITY captivePortal.title "Вход в сеть">
+<!ENTITY captivePortal.longDesc "
+<p>Эта сеть может потребовать от вас произвести авторизацию для получения доступа в Интернет.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Открыть страницу входа">
+
 <!ENTITY malformedURI.title "Формат адреса неверен">
 <!ENTITY malformedURI.longDesc "
 <ul>
