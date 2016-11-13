@@ -288,6 +288,7 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.extension.label "Extensión:">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la pestaña:">
 <!ENTITY urlbar.searchSuggestionsNotification.question "¿Le gustaría mejorar su experiencia de búsqueda con sugerencias?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber más…">
