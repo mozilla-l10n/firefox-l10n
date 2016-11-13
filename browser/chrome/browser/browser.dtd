@@ -1,7 +1,3 @@
-
-
-
-
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -783,12 +779,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Shfaq njoftime në desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Shërbimet prej <label/> janë aktivizuar. Rregullimet tuaja për shërbimet mund t&apos;i ndryshoni te <label class='text-link'>Përgjegjësi i Shtesave</label>.">
-<!ENTITY social.activated.undo.label "Oh, zhbëje këtë!">
-<!ENTITY social.activated.undo.accesskey "z">
 <!ENTITY social.learnMore.label "Mësoni më tepër…">
 <!ENTITY social.learnMore.accesskey "M">
-<!ENTITY social.closeNotificationItem.label "Jo Tani">
 
 <!ENTITY social.directory.label "Listë Aktivizimesh">
 <!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
