@@ -208,6 +208,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Poglejte podatke o strani">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Odpri ploščo s sporočili">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Odpri ploščo z zahtevami za lokacijo">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Odpri ploščo s sporočili o namestitvah dodatkov">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Odpri ploščo s sporočili o shrambi brez povezave">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Odpri ploščo s sporočili o shranjevanju gesel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
 
@@ -215,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dovoljenje za deljenje oken ali zaslona na tej strani">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Odpri ploščo s sporočili o namestitvah">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi stran">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevod strani">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
