@@ -51,11 +51,11 @@
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
-<!ENTITY connectionSettings.accesskey    "ต">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
 
-<!ENTITY offlineStorage2.label           "ที่เก็บเนื้อหาเว็บและข้อมูลผู้ใช้แบบออฟไลน์">
+<!ENTITY offlineStorage2.label           "เนื้อหาเว็บออฟไลน์และข้อมูลผู้ใช้">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -64,44 +64,44 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "จำกัดแคชไว้ที่">
-<!ENTITY limitCacheSizeBefore.accesskey  "จ">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ล้างตอนนี้">
-<!ENTITY clearCacheNow.accesskey         "ล">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ด">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคชอัตโนมัติ">
-<!ENTITY overrideSmartCacheSize.accesskey "ท">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "ปรับรุ่น">
+<!ENTITY updateTab.label                 "ปรับปรุง">
 
-<!ENTITY updateApp.label                 "ปรับรุ่น &brandShortName;:">
+<!ENTITY updateApp.label                 "ปรับปรุง &brandShortName;:">
 <!ENTITY updateAuto1.label               "ติดตั้งการปรับปรุงอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
-<!ENTITY updateAuto1.accesskey           "ต">
+<!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "ตรวจสอบสำหรับการปรับปรุง แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheck.accesskey           "ต">
+<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "ไม่ตรวจสอบสำหรับการปรับปรุงเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
-<!ENTITY updateManual.accesskey          "ม">
+<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "แสดงประวัติการปรับรุ่น">
-<!ENTITY updateHistory.accesskey         "ป">
+<!ENTITY updateHistory.label             "แสดงประวัติการปรับปรุง">
+<!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "ติดตั้งการปรับรุ่นแบบเบื้องหลัง">
-<!ENTITY useService.accesskey            "บ">
+<!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการปรับปรุง">
+<!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "ปรับรุ่นอัตโนมัติ:">
+<!ENTITY updateOthers.label              "ปรับปรุงอัตโนมัติ:">
 <!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
-<!ENTITY enableSearchUpdate.accesskey    "ค">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "แจ้งเมื่อเว็บไซต์ต้องการเก็บข้อมูลไว้ใช้ตอนออฟไลน์">
-<!ENTITY offlineNotify.accesskey         "จ">
+<!ENTITY offlineNotify.label             "แจ้งฉันเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
+<!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ข้อยกเว้น…">
-<!ENTITY offlineNotifyExceptions.accesskey "อ">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับการใช้งานออฟไลน์:">
+<!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "เอาออก…">
-<!ENTITY offlineAppsListRemove.accesskey "เ">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
