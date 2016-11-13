@@ -4,9 +4,9 @@
 
 <!ENTITY wizard.title             "Rnu awitay amaynut" >
 <!ENTITY wizard.label             "Rnu awitay amaynut" >
-<!ENTITY wizard.description       "Sideg awitay inek" >
+<!ENTITY wizard.description       "Sideg awitay-inek" >
 
-<!ENTITY initialpage.description    "Awitay inek yezmer ad yettwakles ɣef uselkim inek neɣ ɣef uqeddac akken ad tkecmeḍ ɣur-s s wudem anmeggag neq ad ttebḍuṭ akked yemdukal neɣ wid ukud txeddmeḍ." >
+<!ENTITY initialpage.description    "Awitay-inek yezmer ad yettwakles ɣef uselkim inek neɣ ɣef uqeddac akken ad tkecmeḍ ɣur-s s wudem anmeggag neq ad ttebḍuṭ akked yemdukal neɣ wid ukud txeddmeḍ." >
 <!ENTITY initialpage.computer.label  "Ɣef uselkim inu">
 <!ENTITY initialpage.network.label  "Ɣef uẓeṭṭa">
 
@@ -15,8 +15,8 @@
 <!ENTITY locationpage.username.label      "Isem n useqdac:" >
 <!ENTITY locationpage.password.label      "Awal uffir:" >
 
-<!ENTITY custompage.shortdescription  "Sagen awitay inek" >
+<!ENTITY custompage.shortdescription  "Sagen awitay-inek" >
 <!ENTITY custompage.longdescription   "Tzemreḍ ad tmuddeḍ meffer isem i uwitay udiɣ ad ternuḍ tiɣmiwin n tedyanin n uwitay-agi." >
 
 <!ENTITY finishpage.shortdescription  "Awitay yettwarna" >
-<!ENTITY finishpage.longdescription   "Awitay inek yettwarna." >
+<!ENTITY finishpage.longdescription   "Awitay-inek yettwarna." >
