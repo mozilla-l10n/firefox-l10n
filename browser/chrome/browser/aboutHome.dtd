@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Është e lehtë ta personalizoni Firefox-in tuaj pikërisht si e doni. <a>Zgjidhni prej mijëra shtesash për të</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Është e lehtë ta përshtatni Firefox-in tuaj pikërisht si e doni. <a>Zgjidhni prej mijëra shtesash për të</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName;-i është software i lirë dhe me burim të hapur, ndërtuar nga organizmi jofitimprurës Mozilla Foundation. <a>Njihni të drejtat tuaja…</a>">
 

@@ -38,7 +38,7 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth2       "21ch">
+<!ENTITY downloadsSummary.minWidth2       "25ch">
 
 <!ENTITY cmd.pause.label                  "Pushoje">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -80,7 +80,7 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Hiqe Kartelën ose Lejoni Shkarkimin">
+<!ENTITY cmd.chooseUnblock.label          "Hiqeni Kartelën ose Lejoni Shkarkimin">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
