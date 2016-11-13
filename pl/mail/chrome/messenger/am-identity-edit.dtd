@@ -8,3 +8,8 @@
 <!ENTITY settingsTab.label "Ustawienia">
 <!ENTITY copiesFoldersTab.label "Kopie i foldery">
 <!ENTITY addressingTab.label "Tworzenie i adresowanie wiadomości">
+
+<!ENTITY publicData.label "Dane publiczne">
+<!ENTITY privateData.label "Dane prywatne">
+<!ENTITY identityAlias.label "Etykieta tożsamości:">
+<!ENTITY identityAlias.accesskey "E">
