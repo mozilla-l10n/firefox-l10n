@@ -27,7 +27,7 @@
 
 <!ENTITY searchTextBox.clear.label "ล้าง">
 
-<!ENTITY fillLoginMenu.label          "เเติมเต็มการเข้าระบบ">
+<!ENTITY fillLoginMenu.label          "กรอกการเข้าสู่ระบบ">
 <!ENTITY fillLoginMenu.accesskey      "เ">
 <!ENTITY fillPasswordMenu.label       "กรอกรหัสผ่าน">
 <!ENTITY fillPasswordMenu.accesskey   "ก">
