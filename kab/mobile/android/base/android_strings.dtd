@@ -57,7 +57,7 @@
 <!ENTITY  crash_sorry "Sureft-aɣ">
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
-<!ENTITY  crash_email "Imayl inek">
+<!ENTITY  crash_email "Imayl-inek">
 <!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ aneqqis n uɣelluy?">
 <!ENTITY  sending_crash_report "Tuzzna n ussaɣ n uɣelluy\u2026">
 <!ENTITY  crash_close_label "Mdel">
@@ -136,7 +136,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Tutlayt">
-<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig inek">
+<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig-inek">
 <!ENTITY pref_browser_locale "Tutlayt n iminig">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TAXBALUT: Rnu yal asmel web ɣer tebdart inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti yines n unadi sakin nnal tignit &formatI;.">
+<!ENTITY pref_search_hint2 "TAXBALUT: Rnu yal asmel web ɣer tebdart-inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti yines n unadi sakin nnal tignit &formatI;.">
 <!ENTITY pref_category_advanced "Talqayt">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -201,12 +201,12 @@
 <!ENTITY pref_content_notifications_summary2 "Wali agbur amaynut seg ismal yettwasferken">
 <!ENTITY pref_developer_remotedebugging_usb "Taseɣtit tanmeggagt s USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Taseɣtit tanmeggagt s Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Taseɣtit tanmeggagt tesra ibenk inek ad yili ɣur-s usnas n umeɣri QR yebded yakan.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Taseɣtit tanmeggagt tesra ibenk-inek ad yili ɣur-s usnas n umeɣri QR yebded yakan.">
 <!ENTITY pref_remember_signons2 "Cfu ɣef inekcam">
 <!ENTITY pref_manage_logins "Sefrek inekcam">
 
 <!ENTITY pref_category_home "Agejdan">
-<!ENTITY pref_category_home_summary "Sagen asebter inek agejdan">
+<!ENTITY pref_category_home_summary "Sagen asebter-inek agejdan">
 <!ENTITY pref_category_home_panels "Igalisen">
 <!ENTITY pref_category_home_add_ons "Izegrar">
 <!ENTITY pref_home_updates2 "Ileqman n ugbur">
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Seqdec awal uffir agejdan">
 <!ENTITY pref_sync2 "Qqen">
-<!ENTITY pref_sync_summary2 "Semtawi iccaren inek, ticraḍ n isebtar, inekcam, amazray">
+<!ENTITY pref_sync_summary2 "Semtawi iccaren-inek, ticraḍ n isebtar, inekcam, amazray">
 <!ENTITY pref_search_suggestions "Sken isumren n unadi">
 <!ENTITY pref_history_search_suggestions "Sken amazray n unadi">
 <!ENTITY pref_import_options "Kter iɣewwaṛen">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_dialog_default "Amezwer">
 <!ENTITY pref_dialog_remove "Kkes">
 
-<!ENTITY pref_search_last_toast "Ur tezmired ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday inek n unadi aneggaru.">
+<!ENTITY pref_search_last_toast "Ur tezmired ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday-inek n unadi aneggaru.">
 
 <!ENTITY pref_panels_show "Sken">
 <!ENTITY pref_panels_hide "Ffer">
@@ -419,7 +419,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Fren ayen ara tebḍuḍ">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Fren talɣut ara tebḍuḍ">
-<!ENTITY datareporting_notification_summary "Akken ad nesnerni tarmit inek, &brandShortName; ad yazen s wudem awurman kra n telɣut i &vendorShortName;.">
+<!ENTITY datareporting_notification_summary "Akken ad nesnerni tarmit-inek, &brandShortName; ad yazen s wudem awurman kra n telɣut i &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -431,7 +431,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
-<!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig inek">
+<!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig-inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig-inek">
 <!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
 <!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
