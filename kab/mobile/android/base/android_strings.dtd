@@ -434,7 +434,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig-inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig-inek">
 <!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
-<!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
+<!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig-inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen aneqqis n uɣelluy akken &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig-inek.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
