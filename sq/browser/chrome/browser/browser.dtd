@@ -1,3 +1,7 @@
+
+
+
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -40,6 +44,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Çfiksoje Skedën">
 <!ENTITY  unpinTab.accesskey                 "ç">
+<!ENTITY  sendTabToDevice.label              "Dërgoje Skedën te Pajisja">
+<!ENTITY  sendTabToDevice.accesskey          "P">
+<!ENTITY  sendPageToDevice.label             "Dërgoje Faqen te Pajisja">
+<!ENTITY  sendPageToDevice.accesskey         "P">
+<!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
+<!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
@@ -891,3 +901,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mësoni më tepër rreth DRM-s…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+-     pointerlockWarning.afterDomain.label): these two strings are used
+-     respectively before and after the domain requiring pointerlock.
+-     Localizers can use one of them, or both, to better adapt this
+-     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "është në kontroll të kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.">
+<!ENTITY pointerlockWarning.generic.label "Kursori është nën kontrollin e kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.">
+

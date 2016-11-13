@@ -38,3 +38,14 @@
 
 <!ENTITY  savedLogins.label              "Kredenciale të Ruajtura…">
 <!ENTITY  savedLogins.accesskey          "K">
+
+
+<!ENTITY  enableSafeBrowsing.label        "Bllokoni lëndë të rrezikshme dhe të rrejshme">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
+ 
+<!ENTITY  blockDownloads.label            "Bllokoni shkarkime të rrezikshme">
+<!ENTITY  blockDownloads.accesskey        "z">
+
+<!ENTITY  blockUncommonUnwanted.label     "Sinjalizomë rreth software-i të padëshiruar dhe jo të zakonshëm">
+<!ENTITY  blockUncommonUnwanted.accesskey "d">
+
