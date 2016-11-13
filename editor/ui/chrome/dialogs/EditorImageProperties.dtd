@@ -7,6 +7,7 @@
 <!ENTITY locationEditField.label "Indirizzo immagine:">
 <!ENTITY locationEditField.accessKey "I">
 <!ENTITY locationEditField.tooltip "Inserisci il nome del file o l'indirizzo dell'immagine">
+<!ENTITY locationEditField.shortenedDataURI "URI dati accorciato (il comando copia scriverà l'URI intero negli appunti)">
 <!ENTITY title.label "Suggerimento:">
 <!ENTITY title.accessKey "u">
 <!ENTITY title.tooltip "L'attributo html 'title' che viene mostrato come suggerimento.">
