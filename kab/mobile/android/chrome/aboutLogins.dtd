@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Inekcam">
 <!ENTITY aboutLogins.update                      "Leqqem">
-<!ENTITY aboutLogins.emptyLoginText              "Ḥrez inekcam inek">
+<!ENTITY aboutLogins.emptyLoginText              "Ḥrez inekcam-inek">
 <!ENTITY aboutLogins.emptyLoginHint              "Inekcam akked telɣut n usesteb yettwakelsen s useqdec n &brandShortName; ad ttwaseknen d-agi.">

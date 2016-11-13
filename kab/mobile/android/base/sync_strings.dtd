@@ -60,12 +60,12 @@
 <!ENTITY fxaccount_status_sync_server "Aqeddac n usemtawi">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: irmed">
-<!ENTITY fxaccount_status_needs_verification2 "Amiḍan inek yesra asenqed. Senned akken ad tazneḍ tikelt nniḍen imayl n usenqed.">
+<!ENTITY fxaccount_status_needs_verification2 "Amiḍan-inek yesra asenqed. Senned akken ad tazneḍ tikelt nniḍen imayl n usenqed.">
 <!ENTITY fxaccount_status_needs_credentials "Ur yezmir ara ad yeqqen. Senned akken ad tkecmeḍ.">
 <!ENTITY fxaccount_status_needs_upgrade "Teriḍ ad leqqmeḍ &brandShortName; akken ad tkecmeḍ.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg iɣewwaṛen Android &gt; Aseqdec n isefka.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg umuɣ iɣewwaṛen Android &gt; Imiḍanen.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Senned akken ad tkecmeḍ ɛer umiḍan inek Firefox amaynut.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Senned akken ad tkecmeḍ ɛer umiḍan-inek Firefox amaynut.">
 <!ENTITY fxaccount_status_bookmarks "Ticraḍ n isebtar">
 <!ENTITY fxaccount_status_history "Amazray">
 <!ENTITY fxaccount_status_passwords2 "Inekcam">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "Ffeɣ seg&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Kkes amidan Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ad iseḥbes asemtawi d umiḍan inek, acu kan ur ittekkes ara isefka yinek n tunigin seg uselkim-agi.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ad iseḥbes asemtawi d umiḍan-inek, acu kan ur ittekkes ara isefka yinek n tunigin seg uselkim-agi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Amiḍan Firefox &formatS; yettwakkes">

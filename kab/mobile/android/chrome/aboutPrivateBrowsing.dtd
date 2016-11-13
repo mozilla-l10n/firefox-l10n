@@ -13,8 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Aql-ak deg tunigin tusligt">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n tunigin inek.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Ur nceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk inek.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n tunigin-inek.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ur nceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk-inek.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

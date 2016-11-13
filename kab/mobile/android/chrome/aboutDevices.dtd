@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDevices.title              "Ibenkan">
-<!ENTITY aboutDevices.header             "Ibenkan inek">
+<!ENTITY aboutDevices.header             "Ibenkan-inek">
 <!ENTITY aboutDevices.refresh            "Smiren">
 <!ENTITY aboutDevices.addDeviceHeader    "Rnu ibenk">
 <!ENTITY aboutDevices.roku               "Roku">
