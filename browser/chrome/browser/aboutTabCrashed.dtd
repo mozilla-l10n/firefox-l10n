@@ -7,7 +7,7 @@
 <!ENTITY tabCrashed.sendReport "ส่งรายงานข้อขัดข้องเพื่อช่วยป้องกันข่าวร้ายเพิ่มเติม">
 <!ENTITY tabCrashed.includeURL "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY tabCrashed.commentPlaceholder "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
-<!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณตรงนี้">
+<!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณที่นี่">
 <!ENTITY tabCrashed.emailMe "อีเมลหาฉันเมื่อมีข้อมูลที่มากขึ้น">
 <!ENTITY tabCrashed.crashReporter "ตัวรายงานข้อขัดข้อง Mozilla">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">

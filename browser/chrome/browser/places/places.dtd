@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "สำรองข้อมูล…">
 <!ENTITY cmd.backup.accesskey           "ส">
-<!ENTITY cmd.restore2.label             "คืนค่าเดิม">
+<!ENTITY cmd.restore2.label             "เรียกคืน">
 <!ENTITY cmd.restore2.accesskey         "ด">
 <!ENTITY cmd.restoreFromFile.label      "เลือกไฟล์…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ล">
