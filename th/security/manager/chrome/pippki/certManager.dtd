@@ -57,11 +57,11 @@
 <!ENTITY certmgr.view2.accesskey              "ด">
 <!ENTITY certmgr.edit3.label                  "แก้ไขการเชื่อถือ…">
 <!ENTITY certmgr.edit3.accesskey              "ก">
-<!ENTITY certmgr.export.label                 "ส่งออก">
+<!ENTITY certmgr.export.label                 "ส่งออก…">
 <!ENTITY certmgr.export.accesskey             "ส">
-<!ENTITY certmgr.delete2.label                "ลบ">
+<!ENTITY certmgr.delete2.label                "ลบ…">
 <!ENTITY certmgr.delete2.accesskey            "ล">
-<!ENTITY certmgr.delete_builtin.label         "ลบหรือไม่เชื่อถือ…">
+<!ENTITY certmgr.delete_builtin.label         "ลบหรือเลิกเชื่อถือ…">
 <!ENTITY certmgr.delete_builtin.accesskey     "ถ">
 <!ENTITY certmgr.backup2.label                "สำรองข้อมูล…">
 <!ENTITY certmgr.backup2.accesskey            "ร">
