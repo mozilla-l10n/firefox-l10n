@@ -20,8 +20,12 @@
 <!ENTITY whitelistHeader.label "Να μην είναι ανεπιθύμητα τα μηνύματα που ο αποστολέας τους είναι στο: ">
 <!ENTITY whitelistHeader.accesskey "μ">
 
+<!ENTITY ispHeadersWarning.label "Αν είναι ενεργοποιημένο, το &brandShortName; θα λαμβάνει υπόψη τα μηνύματα που έχουν σημειωθεί από τον εξωτερικό ταξινομητή ως ανεπιθύμητα.">
 <!ENTITY ispHeaders.label "Να είναι έμπιστες οι κεφαλίδες ανεπιθυμήτων που καθορίζονται από: ">
 <!ENTITY ispHeaders.accesskey "φ">
 
 <!ENTITY junkClassification.label "Επιλογή">
+<!ENTITY junkActions.label "Προορισμός και φύλαξη">
 
+<!ENTITY globalJunkPrefs.label "Καθολικές Προτιμήσεις Ανεπιθύμητων…">
+<!ENTITY globalJunkPrefs.accesskey "Θ">
