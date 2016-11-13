@@ -63,6 +63,7 @@
 <!ENTITY cmd.removeFromHistory.label      "Odstrani iz zgodovine">
 <!ENTITY cmd.removeFromHistory.accesskey  "z">
 <!ENTITY cmd.clearList2.label             "Počisti ploščo predogleda">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Počisti prenose">
 <!ENTITY cmd.clearDownloads.accesskey     "S">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):

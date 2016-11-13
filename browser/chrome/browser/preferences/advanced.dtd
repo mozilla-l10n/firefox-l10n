@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
 <!ENTITY crashReporterDesc2.label         "Poročila o sesutju brskalniku &vendorShortName; pomagajo popraviti težave in ga narediti bolj stabilnega in varnega">
+<!ENTITY alwaysSubmitCrashReports.label   "Dovoli &brandShortName;u, da v vašem imenu pošilja poročila o sesutju iz zaloge">
+<!ENTITY alwaysSubmitCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label     "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
