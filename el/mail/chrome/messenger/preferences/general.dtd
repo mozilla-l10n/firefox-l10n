@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "π">
 <!ENTITY showAnimatedAlert.label          "Εμφάνιση μιας ειδοποίησης">
 <!ENTITY showAnimatedAlert.accesskey      "φ">
+<!ENTITY notificationAlertSettings.label  "Οι ειδοποιήσεις μπορούν να απενεργοποιηθούν στην προβολή Ειδοποιήσεις στις Προτιμήσεις Συστήματος.">
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 

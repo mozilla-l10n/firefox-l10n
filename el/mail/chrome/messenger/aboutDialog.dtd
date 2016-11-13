@@ -18,6 +18,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες σχετικά με επιδόσεις, υλικό, χρήση και προσαρμογές στο &vendorShortName; για να βοηθήσει να γίνει καλύτερο το &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "Το &vendorShortName;">
 <!ENTITY community.exp.middle       " είναι μια ">
@@ -39,6 +40,7 @@
 <!ENTITY helpus.middle              " ή ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "εμπλακείτε κι εσείς!">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Σημειώσεις έκδοσης">
 
@@ -103,3 +105,4 @@
 <!ENTITY channel.description.start  "Βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης ">
 <!ENTITY channel.description.end    " .">
 
+<!ENTITY cmdCloseMac.commandKey "w">

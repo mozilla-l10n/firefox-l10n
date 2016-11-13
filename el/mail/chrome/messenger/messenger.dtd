@@ -35,6 +35,7 @@
 <!ENTITY newFeedAccountCmd.label "Λογαριασμός ροής…">
 <!ENTITY newFeedAccountCmd.accesskey "Ρ">
 <!ENTITY newIMContactCmd.label "Επαφή Συνομιλίας…">
+<!ENTITY newIMContactCmd.accesskey "η">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY saveAsMenu.label "Αποθήκευση ως">
@@ -161,7 +162,10 @@
 <!ENTITY favoriteFolders.accesskey "γ">
 <!ENTITY recentFolders.label "Πρόσφατοι">
 <!ENTITY recentFolders.accesskey "ρ">
+<!ENTITY compactVersion.label "Συμπτυγμένη όψη">
+<!ENTITY compactVersion.accesskey "Σ">
 <!ENTITY folderPaneBar.label "Εργαλειοθήκη Πλαισίου Φακέλων">
+<!ENTITY folderModeSelector.label "Όψεις φακέλων">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ταξινόμηση κατά">
@@ -190,6 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "π">
 <!ENTITY sortByRecipientCmd.label "Παραλήπτη">
 <!ENTITY sortByRecipientCmd.accesskey "ρ">
+<!ENTITY sortByCorrespondentCmd.label "Ανταποκριτές">
+<!ENTITY sortByCorrespondentCmd.accesskey "ν">
 <!ENTITY sortByUnreadCmd.label "Αναγνωσμένα">
 <!ENTITY sortByUnreadCmd.accesskey "γ">
 <!ENTITY sortByOrderReceivedCmd.label "Κατά σειρά παραλαβής">
@@ -212,8 +218,10 @@
 <!ENTITY allMsgsCmd.accesskey "α">
 <!ENTITY expandAllThreadsCmd.label "Ανάπτυξη όλων των αλληλουχιών">
 <!ENTITY expandAllThreadsCmd.accesskey "π">
+<!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Σύμπτυξη όλων των αλληλουχιών">
 <!ENTITY collapseAllThreadsCmd.accesskey "μ">
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Μη αναγνωσμένα">
 <!ENTITY unreadMsgsCmd.accesskey "Μ">
 <!ENTITY threadsWithUnreadCmd.label "Αλληλουχίες με μη αναγνωσμένα">
@@ -232,6 +240,7 @@
 <!ENTITY bodyMenu.label "Κυρίως κείμενο μηνύματος ως">
 <!ENTITY bodyMenu.accesskey "ρ">
 <!ENTITY bodyAllowHTML.label "Πρωτότυπο HTML">
+<!ENTITY bodyAllowHTML.accesskey "Η">
 <!ENTITY bodySanitized.label "Απλό HTML">
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Απλό κείμενο">
@@ -253,16 +262,25 @@
 
 <!ENTITY pageSourceCmd.label "Κώδικας μηνύματος">
 <!ENTITY pageSourceCmd.accesskey "κ">
+<!ENTITY pageSourceCmd.key "κ">
+<!ENTITY getNewMessagesCmd.key "ε">
+<!ENTITY getAllNewMessagesCmd.key "Ε">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Εύρεση">
 <!ENTITY findMenu.accesskey "Ε">
 <!ENTITY findCmd.label "Εύρεση σε αυτό το μήνυμα...">
 <!ENTITY findCmd.accesskey "σ">
+<!ENTITY findCmd.key "ρ">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
 <!ENTITY findAgainCmd.accesskey "ξ">
+<!ENTITY findAgainCmd.key "ξ">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "ο">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
 <!ENTITY searchMailCmd.accesskey "μ">
+<!ENTITY searchMailCmd.key "ζ">
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων">
 <!ENTITY searchAddressesCmd.accesskey "ζ">
 
@@ -273,12 +291,15 @@
 <!ENTITY nextMenu.accesskey "ν">
 <!ENTITY nextMsgCmd.label "Μήνυμα">
 <!ENTITY nextMsgCmd.accesskey "Μ">
+<!ENTITY nextMsgCmd.key "π">
 <!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
 <!ENTITY nextUnreadMsgCmd.accesskey "ν">
+<!ENTITY nextUnreadMsgCmd.key "ο">
 <!ENTITY nextStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY nextStarredMsgCmd.accesskey "σ">
 <!ENTITY nextUnreadThread.label "Μη αναγνωσμένη αλληλουχία">
 <!ENTITY nextUnreadThread.accesskey "γ">
+<!ENTITY nextUnreadThread.key "π">
 <!ENTITY prevMenu.label "Προηγούμενο">
 <!ENTITY prevMenu.accesskey "Π">
 <!ENTITY prevMsgCmd.label "Μήνυμα">

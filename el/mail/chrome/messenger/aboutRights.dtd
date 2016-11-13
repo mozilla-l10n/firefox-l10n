@@ -55,8 +55,10 @@
 <!ENTITY rights.webservices-e " και αποεπιλέξτε την επιλογή &quot;Αυτόματος έλεγχος για ενημερώσεις&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Μια σύνοψη των υπηρεσιών ιστοτόπου που το προϊόν παρέχει, μαζί με οδηγίες για την απενεργοποίησή τους, αν γίνεται, θα πρέπει να περιλαμβάνονται εδώ.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Οποιοιδήποτε εφαρμοστέοι όροι υπηρεσιών για το προϊόν αυτό εμφανίζονται εδώ.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Ο &vendorShortName; διατηρεί το δικαίωμα να διακόψει ή να αλλάξει τις Υπηρεσίες κατά βούληση.">
