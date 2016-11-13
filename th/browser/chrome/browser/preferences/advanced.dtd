@@ -66,9 +66,9 @@
 <!ENTITY limitCacheSizeBefore.label      "จำกัดแคชไว้ที่">
 <!ENTITY limitCacheSizeBefore.accesskey  "จ">
 <!ENTITY limitCacheSizeAfter.label       "MB">
-<!ENTITY clearCacheNow.label             "ล้างเดี๋ยวนี้">
+<!ENTITY clearCacheNow.label             "ล้างตอนนี้">
 <!ENTITY clearCacheNow.accesskey         "ล">
-<!ENTITY clearOfflineAppCacheNow.label   "ล้างเดี๋ยวนี้">
+<!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ด">
 <!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ท">

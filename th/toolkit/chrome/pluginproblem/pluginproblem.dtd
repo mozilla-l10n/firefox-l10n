@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "แตะที่นี่เพือเปิดใช้งานปลั๊กอิน">
 <!ENTITY clickToActivatePlugin                               "เปิดใช้งานปลั๊กอิน">
-<!ENTITY checkForUpdates                                     "ตรวจสอบการปรับรุ่น...">
+<!ENTITY checkForUpdates                                     "ตรวจสอบการปรับปรุง…">
 <!ENTITY disabledPlugin                                      "ปลั๊กอินนี้ถูกปิดใช้งาน">
 <!ENTITY blockedPlugin.label                                 "ปลั๊กอินนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
 <!ENTITY hidePluginBtn.label                                 "ซ่อนปลั๊กอิน">
