@@ -25,6 +25,7 @@
 <!ENTITY hdrArchiveButton1.label "Αρχειοθέτηση">
 <!ENTITY hdrArchiveButton1.tooltip "Αρχειοθέτηση αυτού του μηνύματος">
 <!ENTITY hdrOpenConversationButton1.label "Συζήτηση">
+<!ENTITY hdrOpenConversationButton1.tooltip "Εμφάνιση της συζήτησης για το μήνυμα">
 <!ENTITY hdrSmartReplyButton1.label "Έξυπνη απάντηση">
 <!ENTITY hdrReplyButton1.label "Απάντηση">
 <!ENTITY hdrReplyButton2.tooltip "Απάντηση στον αποστολέα αυτού του μηνύματος">

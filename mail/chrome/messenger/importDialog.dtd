@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "ξ">
 <!ENTITY acctName.label           "Όνομα:">
 <!ENTITY acctName.accesskey       "ν">
+<!ENTITY noModulesFound.label     "Δεν βρέθηκε καμία εφαρμογή ή αρχείο για εισαγωγή δεδομένων.">
 
 <!ENTITY back.label               "&lt; Πίσω">
 <!ENTITY forward.label            "Επόμενο &gt;">
