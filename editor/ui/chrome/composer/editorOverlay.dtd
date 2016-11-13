@@ -27,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label                    "Lisamine">
 <!ENTITY insertMenu.accesskey                "L">
-<!ENTITY insertLinkCmd.label                 "Link...">
-<!ENTITY insertLinkCmd.accesskey             "L">
-<!ENTITY insertLinkCmd.key                   "l">
+<!ENTITY insertLinkCmd2.label                "Link…">
+<!ENTITY insertLinkCmd2.accesskey            "L">
+<!ENTITY insertLinkCmd2.key                  "l">
 <!ENTITY insertAnchorCmd.label               "Nimega ankur...">
 <!ENTITY insertAnchorCmd.accesskey           "N">
 <!ENTITY insertImageCmd.label                "Pilt...">
