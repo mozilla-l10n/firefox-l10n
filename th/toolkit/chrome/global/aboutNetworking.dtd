@@ -16,7 +16,7 @@
 <!ENTITY aboutNetworking.port                  "พอร์ต">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "ทำงาน">
+<!ENTITY aboutNetworking.active                "ใช้งาน">
 <!ENTITY aboutNetworking.idle                  "ว่าง">
 <!ENTITY aboutNetworking.host                  "โฮสต์">
 <!ENTITY aboutNetworking.tcp                   "TCP">
