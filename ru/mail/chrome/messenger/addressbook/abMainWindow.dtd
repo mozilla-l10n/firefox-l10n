@@ -69,9 +69,15 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Поменять местами имя и фамилию">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "П">
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label "Свойства">
-<!ENTITY propertiesCmd2.accesskey "в">
+<!ENTITY propertiesMenu.label "Свойства">
+<!ENTITY propertiesMenu.accesskey "в">
 <!ENTITY propertiesCmd.key "i">
+<!ENTITY abPropertiesMenu.label "Свойства адресной книги">
+<!ENTITY abPropertiesMenu.accesskey "в">
+<!ENTITY contactPropertiesMenu.label "Свойства контакта">
+<!ENTITY contactPropertiesMenu.accesskey "в">
+<!ENTITY mailingListPropertiesMenu.label "Свойства списка рассылки">
+<!ENTITY mailingListPropertiesMenu.accesskey "в">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "и">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
@@ -119,8 +125,15 @@
 <!ENTITY newContactButton.accesskey "к">
 <!ENTITY newlistButton.label "Создать список">
 <!ENTITY newlistButton.accesskey "С">
-<!ENTITY editButton2.label "Свойства">
-<!ENTITY editButton2.accesskey "в">
+<!ENTITY editPropertiesButton.label "Изменить">
+<!ENTITY propertiesContext.label "Свойства">
+<!ENTITY propertiesContext.accesskey "в">
+<!ENTITY abPropertiesContext.label "Свойства">
+<!ENTITY abPropertiesContext.accesskey "в">
+<!ENTITY editContactContext.label "Изменить контакт">
+<!ENTITY editContactContext.accesskey "м">
+<!ENTITY editMailingListContext.label "Изменить список">
+<!ENTITY editMailingListContext.accesskey "м">
 <!ENTITY newmsgButton.label "Создать сообщение">
 <!ENTITY newmsgButton.accesskey "з">
 <!ENTITY newIM.label "Мгновенное сообщение">
@@ -131,7 +144,10 @@
 <!ENTITY deleteButton2.accesskey "д">
 <!ENTITY newContactButton.tooltip "Создание нового контакта адресной книги">
 <!ENTITY newlistButton.tooltip "Создание нового списка рассылки">
-<!ENTITY editButton2.tooltip "Изменение выбранного элемента">
+<!ENTITY editPropertiesButton.tooltip "Изменение выбранного элемента">
+<!ENTITY editAbPropertiesButton.tooltip "Изменение свойств выбранной адресной книги">
+<!ENTITY editContactPropertiesButton.tooltip "Изменение выбранного контакта">
+<!ENTITY editMailingListPropertiesButton.tooltip "Изменение выбранного списка рассылки">
 <!ENTITY newmsgButton.tooltip "Создание сообщения">
 <!ENTITY newIM.tooltip "Отправить мгновенное сообщение или начать беседу">
 <!ENTITY deleteButton2.tooltip "Удаление выбранного элемента">

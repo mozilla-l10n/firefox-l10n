@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mailListWindow.title "Список рассылки">
+<!ENTITY mailListWindowAdd.title "Новый список рассылки">
 <!ENTITY addToAddressBook.label "Добавить в:">
 <!ENTITY ListName.label "Имя списка:">
 <!ENTITY ListNickName.label "Псевдоним списка:">
@@ -10,7 +10,7 @@
 <!ENTITY AddressTitle.label "Введите адреса, чтобы добавить их в список рассылки:">
 <!ENTITY UpButton.label "Вверх">
 <!ENTITY DownButton.label "Вниз">
-<!ENTITY addToAddressBook.accesskey "Д">
-<!ENTITY ListName.accesskey "И">
-<!ENTITY ListNickName.accesskey "П">
-<!ENTITY ListDescription.accesskey "О">
+<!ENTITY addToAddressBook.accesskey "о">
+<!ENTITY ListName.accesskey "м">
+<!ENTITY ListNickName.accesskey "е">
+<!ENTITY ListDescription.accesskey "и">

@@ -7,6 +7,7 @@
 <!ENTITY locationEditField.label "Адрес изображения:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Введите имя файла с изображением или его адрес">
+<!ENTITY locationEditField.shortenedDataURI "Укороченный URI данных (копия поместит полный URI в буфер обмена)">
 <!ENTITY title.label "Всплывающая подсказка:">
 <!ENTITY title.accessKey "В">
 <!ENTITY title.tooltip "Атрибут «title», отображаемый как всплывающая подсказка">
