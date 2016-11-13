@@ -505,6 +505,7 @@
 <!ENTITY forwardButton.label                           "Edasta">
 <!ENTITY fileButton.label                              "Salvesta">
 <!ENTITY archiveButton.label                           "Arhiveeri">
+<!ENTITY openConversationButton.label                  "Vestlus">
 <!ENTITY nextButton.label                              "Järgmine">
 <!ENTITY nextButtonToolbarItem.label                   "Järgmine lugemata">
 <!ENTITY nextMsgButton.label                           "Järgmine">
@@ -547,6 +548,7 @@
 <!ENTITY forwardAsAttachment.tooltip                   "Edasta valitud kiri manusena">
 <!ENTITY fileButton.tooltip                            "Salvesta valitud kiri">
 <!ENTITY archiveButton.tooltip                         "Arhiveeri valitud kirjad">
+<!ENTITY openConversationButton.tooltip                "Kuva valitud kirja vestlust">
 <!ENTITY nextButton.tooltip                            "Kuva järgmist lugemata kirja">
 <!ENTITY nextMsgButton.tooltip                         "Kuva järgmist kirja">
 <!ENTITY previousButton.tooltip                        "Kuva eelmist lugemata kirja">

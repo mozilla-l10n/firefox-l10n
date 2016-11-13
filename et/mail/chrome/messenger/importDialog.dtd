@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey   "P">
 <!ENTITY acctName.label                "Nimi:">
 <!ENTITY acctName.accesskey            "N">
+<!ENTITY noModulesFound.label          "Rakendust või faili, kust andmeid importida, ei leitud.">
 
 <!ENTITY back.label                    "&lt; Tagasi">
 <!ENTITY forward.label                 "Edasi &gt;">

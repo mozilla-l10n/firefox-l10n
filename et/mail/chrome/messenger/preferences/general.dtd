@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey           "g">
 <!ENTITY showAnimatedAlert.label        "kuvatakse teadet">
 <!ENTITY showAnimatedAlert.accesskey    "u">
+<!ENTITY notificationAlertSettings.label  "Teated saab keelata Märguannete paneelil süsteemi eelistustes.">
 <!ENTITY customizeMailAlert.label       "Kohanda...">
 <!ENTITY customizeMailAlert.accesskey   "K">
 
