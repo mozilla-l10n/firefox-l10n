@@ -11,7 +11,7 @@
 <!ENTITY sync.title.connect.label "Tuqqna ɣer &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Akken ad yettwarmed yibenk inek amaynut, fren “Sbadu &syncBrand.shortName.label;” ɣef yibenk.">
+<!ENTITY sync.subtitle.connect.label "Akken ad yettwarmed yibenk-inek amaynut, fren “Sbadu &syncBrand.shortName.label;” ɣef yibenk.">
 <!ENTITY sync.subtitle.pair.label "Akken ad yettwarmed, fren “Sdukel ibenk” ɣef yibenk nniḍen.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "Ur yelli yibenk-a ɣur-i…">
