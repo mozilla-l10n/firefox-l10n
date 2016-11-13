@@ -106,6 +106,7 @@
 <!ENTITY downloadsHistory.label           "הצגת כול ההורדות">
 <!ENTITY downloadsHistory.accesskey       "ה">
 
+<!ENTITY openDownloadsFolder.label       "פתיחת תיקיית ההורדות">
 
 <!ENTITY clearDownloadsButton.label       "ניקוי הורדות">
 <!ENTITY clearDownloadsButton.tooltip     "ניקוי ההורדות שהושלמו, בוטלו ונכשלו">
