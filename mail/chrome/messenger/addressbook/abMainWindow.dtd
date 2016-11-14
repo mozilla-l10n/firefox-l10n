@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Адресник">
 <!ENTITY blankResultsPaneMessage.label                  "Този адресник показва контакти само след търсене">
 <!ENTITY localResultsOnlyMessage.label                  "Контакти от отдалечени адресници ще се покажат след като ги потърсите">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Свойства">
-<!ENTITY propertiesCmd2.accesskey                       "й">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "в">
 <!ENTITY newlistButton.label                            "Нов списък">
 <!ENTITY newlistButton.accesskey                        "Н">
-<!ENTITY editButton2.label                              "Свойства">
-<!ENTITY editButton2.accesskey                          "й">
 <!ENTITY newmsgButton.label                             "Писане на писмо">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Бързо съобщение">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Създава нова визитка в адресника">
 <!ENTITY newlistButton.tooltip                          "Създава нов списък">
-<!ENTITY editButton2.tooltip                            "Редактиране на избраната позиция">
 <!ENTITY newmsgButton.tooltip                           "Изпращане на писмо">
 <!ENTITY newIM.tooltip                                  "Изпращане на бързо съобщение или покана за разговор">
 <!ENTITY deleteButton2.tooltip                          "Изтриване на избраната позиция">

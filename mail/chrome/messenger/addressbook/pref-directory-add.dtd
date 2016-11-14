@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Свойства на сървъра директория">
 <!ENTITY directoryName.label               "Име:">
 <!ENTITY directoryName.accesskey           "И">
 <!ENTITY directoryHostname.label           "Име на хост:">
@@ -38,9 +37,9 @@
 <!ENTITY saslOff.accesskey                 "р">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-
 <!ENTITY newDirectoryWidth                 "36em">
