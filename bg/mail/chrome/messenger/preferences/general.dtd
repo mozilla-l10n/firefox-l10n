@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
 <!ENTITY playSound.label                  "Изсвирва звук">
-<!ENTITY playSound1.accesskey              "у">
+<!ENTITY playSound1.accesskey             "у">
 <!ENTITY showAnimatedAlert.label          "Показване на известие">
 <!ENTITY showAnimatedAlert.accesskey      "и">
-<!ENTITY notificationAlertSettings.label  "Можете да изключите предупрежденията от панела Уведомяване в Системни настройки.">
 <!ENTITY customizeMailAlert.label         "Нагласяване…">
 <!ENTITY customizeMailAlert.accesskey     "Н">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Прослушва">
 <!ENTITY play.accesskey                   "ш">
 <!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">
-<!ENTITY systemsoundMac.label             "Предупредителен системен звук">
-<!ENTITY systemsoundMac.accesskey         "м">
 <!ENTITY systemsound.accesskey            "м">
 <!ENTITY customsound.label                "Използване на следния звуков файл">
 <!ENTITY customsound.accesskey            "И">

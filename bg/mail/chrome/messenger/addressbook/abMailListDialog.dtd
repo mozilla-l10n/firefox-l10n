@@ -1,9 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Title -->
 
-<!ENTITY mailListWindow.title           "Пощенски списък">
+<!-- Title -->
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Добавяне към:">
 
@@ -14,8 +13,8 @@
 <!ENTITY AddressTitle.label             "Напишете адреси, за да ги добавите към пощенския списък:">
 <!ENTITY UpButton.label                 "Премества нагоре">
 <!ENTITY DownButton.label               "Премества надолу">
-<!-- Access Keys -->
 
+<!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "Д">
 <!ENTITY ListName.accesskey             "И">
 <!ENTITY ListNickName.accesskey         "П">
