@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Adresár">
 <!ENTITY blankResultsPaneMessage.label                  "Tento adresár zobrazuje kontakty až po vyhľadávaní">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakty zo vzdialených adresárov nie sú zobrazené až pokiaľ nevykonáte hľadanie">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Súbor">
 <!ENTITY fileMenu.accesskey                             "S">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Vlastnosti">
-<!ENTITY propertiesCmd2.accesskey                       "l">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nový zoznam">
 <!ENTITY newlistButton.accesskey                        "z">
-<!ENTITY editButton2.label                              "Vlastnosti">
-<!ENTITY editButton2.accesskey                          "l">
 <!ENTITY newmsgButton.label                             "Nová správa">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Rýchla správa">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Vytvoriť nový kontakt adresára">
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
-<!ENTITY editButton2.tooltip                            "Upraviť označený kontakt">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">
