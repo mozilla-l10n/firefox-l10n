@@ -1,6 +1,0 @@
-amazon-france
-freelang
-google
-klask
-wikipedia-br
-yahoo-france
