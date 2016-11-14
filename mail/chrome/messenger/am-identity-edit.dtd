@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kopior &amp; mappar">
 <!ENTITY addressingTab.label    "Skriva &amp; adressera">
 
+<!ENTITY publicData.label        "Publik data">
+<!ENTITY privateData.label       "Privat data">
+<!ENTITY identityAlias.label     "Identitetsetikett:">
+<!ENTITY identityAlias.accesskey "k">

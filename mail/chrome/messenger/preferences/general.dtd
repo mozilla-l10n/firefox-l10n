@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "När ny e-post kommer:">
 <!ENTITY playSound.label                  "Spela upp ett ljud">
 <!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSoundMac.label               "Spela följande ljudfil:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Visa en meddelanderuta">
 <!ENTITY showAnimatedAlert.accesskey      "V">
+<!ENTITY notificationAlertSettings2.label "Varningar och standardljud kan stängas av aviseringsfältet i Systeminställningar.">
 <!ENTITY customizeMailAlert.label         "Anpassa…">
 <!ENTITY customizeMailAlert.accesskey     "n">
 

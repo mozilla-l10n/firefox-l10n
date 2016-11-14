@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Egenskaper">
+<!ENTITY propertiesMenu.accesskey                       "e">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Egenskaper för adressbok">
+<!ENTITY abPropertiesMenu.accesskey                     "e">
+<!ENTITY contactPropertiesMenu.label                    "Egenskaper för kontakter">
+<!ENTITY contactPropertiesMenu.accesskey                "e">
+<!ENTITY mailingListPropertiesMenu.label                "Egenskaper för mejllista">
+<!ENTITY mailingListPropertiesMenu.accesskey            "e">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Visa">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny utskickslista">
 <!ENTITY newlistButton.accesskey                        "u">
+<!ENTITY editPropertiesButton.label                     "Redigera">
+<!ENTITY propertiesContext.label                        "Egenskaper">
+<!ENTITY propertiesContext.accesskey                    "e">
+<!ENTITY abPropertiesContext.label                      "Egenskaper">
+<!ENTITY abPropertiesContext.accesskey                  "e">
+<!ENTITY editContactContext.label                       "Redigera kontakt">
+<!ENTITY editContactContext.accesskey                   "R">
+<!ENTITY editMailingListContext.label                   "Redigera lista">
+<!ENTITY editMailingListContext.accesskey               "R">
 <!ENTITY newmsgButton.label                             "Skriv meddelande">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "IM">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt">
 <!ENTITY newlistButton.tooltip                          "Skapa en utskickslista">
+<!ENTITY editPropertiesButton.tooltip                   "Redigera markerad post">
+<!ENTITY editAbPropertiesButton.tooltip                 "Redigera egenskaperna för den valda adressboken">
+<!ENTITY editContactPropertiesButton.tooltip            "Redigera den valda kontakten">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Redigera den valda mejllistan">
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
 <!ENTITY deleteButton2.tooltip                          "Ta bort markerad post">

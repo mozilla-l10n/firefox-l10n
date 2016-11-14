@@ -9,9 +9,13 @@
 <!ENTITY abPropertiesMenu.accesskey         "e">
 <!ENTITY contactPropertiesMenu.label        "Egenskaper för kontakter">
 <!ENTITY contactPropertiesMenu.accesskey    "e">
+<!ENTITY mailingListPropertiesMenu.label    "Egenskaper för mejllista">
+<!ENTITY mailingListPropertiesMenu.accesskey "e">
 
 <!ENTITY addressbookPicker.label            "Adressbok:">
 <!ENTITY addressbookPicker.accesskey        "r">
+<!ENTITY searchContacts.label               "Sök efter kontakter:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
 
 <!ENTITY addtoToFieldMenu.label             "Lägg till i Till-fältet">

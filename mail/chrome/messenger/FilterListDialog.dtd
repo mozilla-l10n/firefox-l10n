@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Aktiv">
 <!ENTITY newButton.label "Ny…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Kopiera…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Redigera…">
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Ta bort">
@@ -36,3 +38,6 @@
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Sök filter efter namn…">
+
+
+
