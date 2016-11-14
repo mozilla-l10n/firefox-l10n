@@ -16,9 +16,9 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Hallinnoi tiliä">
 <!ENTITY manageAccount.accesskey      "H">
-<!ENTITY changePassword2.label         "Vaihda salasana…">
+<!ENTITY changePassword2.label        "Vaihda salasana…">
 <!ENTITY myRecoveryKey.label          "Palautusavaimeni">
-<!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
+<!ENTITY resetSync2.label             "Aloita synkronointi alusta…">
 
 <!ENTITY pairDevice.label             "Liitä laite">
 
@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Laitteen nimi:">
-<!ENTITY syncDeviceName.accesskey   "L">
 <!ENTITY fxaSyncDeviceName.label       "Laitteen nimi">
 <!ENTITY changeSyncDeviceName.label "Muuta laitteen nimeä…">
 <!ENTITY cancelChangeSyncDeviceName.label "Peruuta">
