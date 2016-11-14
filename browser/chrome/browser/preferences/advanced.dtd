@@ -73,23 +73,23 @@
 <!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "ปรับปรุง">
+<!ENTITY updateTab.label                 "อัปเดต">
 
-<!ENTITY updateApp.label                 "ปรับปรุง &brandShortName;:">
-<!ENTITY updateAuto1.label               "ติดตั้งการปรับปรุงอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
+<!ENTITY updateApp.label                 "อัปเดต &brandShortName;:">
+<!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "ตรวจสอบสำหรับการปรับปรุง แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateCheck.label               "ตรวจสอบการอัปเดต แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "ไม่ตรวจสอบสำหรับการปรับปรุงเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
+<!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "แสดงประวัติการปรับปรุง">
+<!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการปรับปรุง">
+<!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "ปรับปรุงอัตโนมัติ:">
+<!ENTITY updateOthers.label              "อัปเดตโดยอัตโนมัติ:">
 <!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
