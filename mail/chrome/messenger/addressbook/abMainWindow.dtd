@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "주소록">
 <!ENTITY blankResultsPaneMessage.label                  "이 주소록은 검색된 연락처만 보여줍니다">
 <!ENTITY localResultsOnlyMessage.label                  "원격 주소록의 연락처는 검색하기 전에는 볼 수 없습니다">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "파일">
 <!ENTITY fileMenu.accesskey                             "f">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "속성">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "새 목록">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "속성">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "쓰기">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "메신저 메시지">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "새 연락처 만들기">
 <!ENTITY newlistButton.tooltip                          "새 목록 만들기">
-<!ENTITY editButton2.tooltip                            "선택한 연락처 편집">
 <!ENTITY newmsgButton.tooltip                           "새 메시지 만들기">
 <!ENTITY newIM.tooltip                                  "인스턴트 메시지 또는 채팅 보내기">
 <!ENTITY deleteButton2.tooltip                          "선택한 항목 삭제">
