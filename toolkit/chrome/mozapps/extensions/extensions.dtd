@@ -128,7 +128,7 @@
 <!ENTITY detail.lastupdated.label             "ปรับปรุงล่าสุด">
 <!ENTITY detail.creator.label                 "นักพัฒนา">
 <!ENTITY detail.homepage.label                "หน้าแรก">
-<!ENTITY detail.numberOfDownloads.label       "จำนวนดาวน์โหลด">
+<!ENTITY detail.numberOfDownloads.label       "ดาวน์โหลด">
 
 <!ENTITY detail.contributions.description     "ผู้พัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนความต่อเนื่องของการพัฒนาโดยสมทบทุนสักเล็กน้อย">
 

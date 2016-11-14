@@ -87,7 +87,7 @@
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
 <!ENTITY col.description.label   "คำอธิบาย">
 <!ENTITY col.dateadded.label     "เพิ่มเมื่อ">
-<!ENTITY col.lastmodified.label  "แก้ไขล่าสุดเมื่อ">
+<!ENTITY col.lastmodified.label  "เปลี่ยนแปลงล่าสุด">
 
 <!ENTITY search.label                              "ค้นหา:">
 <!ENTITY search.accesskey                          "ค">
