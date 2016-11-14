@@ -49,12 +49,3 @@ their language.
 
 <!ENTITY welcomeback2.link.pageInfo2        "depriendi más tocante a lo que pues facer.">
 
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "Migra los tos otros grupos de llingüetes">
-<!ENTITY tabgroupsmigration.pagetitle2          "Desaniciemos los Grupos de llingüetes pero guardáronse les tos llingüetes">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Depriendi tocante a los complementos de troquéu de Grupos de llingüetes.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; punxo en Marcadores tolos tos grupos pa qu'asina nun se perdiere nada.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Amosar grupos de llingüetes en marcadores">
-<!ENTITY tabgroupsmigration.restoredescription  "Agora tamién pues escoyer restaurar dellos o tolos grupos de fondu nes ventanes:">
-
