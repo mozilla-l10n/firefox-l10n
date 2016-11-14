@@ -6,7 +6,6 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "身份設定">
 <!ENTITY identityListDesc.label "此身份的詳細資訊:">
 
 <!ENTITY settingsTab.label       "設定">

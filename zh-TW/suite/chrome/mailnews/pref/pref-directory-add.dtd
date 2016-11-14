@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "目錄伺服器屬性">
 <!ENTITY directoryName.label               "名稱:">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "主機名稱:">
@@ -44,4 +43,3 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "36em">
-
