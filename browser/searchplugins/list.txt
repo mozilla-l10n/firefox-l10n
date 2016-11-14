@@ -1,5 +1,0 @@
-amazondotcom
-bing
-google
-wikipediaro
-yahoo
