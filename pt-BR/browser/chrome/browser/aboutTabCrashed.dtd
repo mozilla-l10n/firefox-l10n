@@ -15,6 +15,7 @@
      translation. -->
 <!ENTITY tabCrashed.offerHelp "Podemos ajudá-lo!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
+<!ENTITY tabCrashed.requestReport "Relatar esta aba">
 <!ENTITY tabCrashed.emailPlaceholder "Entre com seu endereço de e-mail aqui">
 <!ENTITY tabCrashed.emailMe "Me envie um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório de erro enviado; obrigado por ajudar a tornar o &brandShortName; melhor!">
