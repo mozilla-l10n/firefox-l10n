@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as identifikaasje te presintearjen:">
 <!ENTITY clientAuthAsk.message3 "Details fan it selektearre sertifikaat:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Sertifikaat selektearje">
-<!ENTITY certPicker.info  "Sertifikaat:">
-<!ENTITY certPicker.detailsLabel "Details fan it selektearre sertifikaat:">
-
 <!ENTITY pkcs12.setpassword.title  "Kies in wachtwurd foar de reservekopy fan it sertifikaat">
 <!ENTITY pkcs12.setpassword.message  "It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.">
 <!ENTITY pkcs12.setpassword.label1 "Wachtwurd foar de reservekopy fan it sertifikaat:">
