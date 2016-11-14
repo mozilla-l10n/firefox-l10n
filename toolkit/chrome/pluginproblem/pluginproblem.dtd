@@ -2,21 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
-     is not supported on some devices. Include a trailing space as needed. -->
-<!ENTITY unsupportedPlatform.pre                             "Λυπούμαστε αλλά ο &brandShortName; δεν μπορεί να χρησιμοποιήσει το Flash σε αυτή τη συσκευή. ">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "Μάθετε περισσότερα…">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
-
-<!ENTITY missingPlugin                                       "Απαιτείται μια πρόσθετη λειτουργία για να προβληθεί αυτό το περιεχόμενο.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για να ενεργοποιήσετε την πρόσθετη λειτουργία.">
 <!ENTITY clickToActivatePlugin                               "Ενεργοποίηση πρόσθετης λειτουργίας.">
 <!ENTITY checkForUpdates                                     "Έλεγχος για ενημερώσεις…">
-<!ENTITY disabledPlugin                                      "Αυτή η πρόσθετη λειτουργία είναι απενεργοποιημένη.">
 <!ENTITY blockedPlugin.label                                 "Αυτή η πρόσθετη λειτουργία έχει αποκλειστεί για την ασφάλειά σας.">
 <!ENTITY hidePluginBtn.label                                 "Απόκρυψη πρόσθετης λειτουργίας">
 <!ENTITY managePlugins                                       "Διαχείριση πρόσθετων λειτουργιών…">
