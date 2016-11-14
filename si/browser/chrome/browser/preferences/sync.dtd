@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "උපාංග නාමය:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "උපාංග නාමය">
 <!ENTITY cancelChangeSyncDeviceName.label "එපා">
 <!ENTITY saveChangeSyncDeviceName.label "සුරකින්න">

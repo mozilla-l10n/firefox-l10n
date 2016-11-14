@@ -2,21 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
-     is not supported on some devices. Include a trailing space as needed. -->
-<!ENTITY unsupportedPlatform.pre                             "අපට සමාවන්න. නමුත් &brandShortName; හට මෙම උපාංය මත Flash වාදනය කළ නොහැක. ">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "වැඩිදුර දැනගන්න…">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
-
-<!ENTITY missingPlugin                                       "මෙම අන්තර්ගත දැක්වීමට ප්ලගිනයක් අවශ්‍යයි.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ප්ලගිනය සක්‍රීය කිරීමට මෙහි ටැප් කරන්න.">
 <!ENTITY clickToActivatePlugin                               "ප්ලගිනය සක්‍රීය කරන්න.">
 <!ENTITY checkForUpdates                                     "යාවත් සඳහා පරික්ෂා කරන්න...">
-<!ENTITY disabledPlugin                                      "මෙම ප්ලගිනය අක්‍රීය කර ඇත.">
 <!ENTITY blockedPlugin.label                                 "ඔබේ ආරක්ෂාව සඳහා මෙම ප්ලගින වළක්වා ඇත.">
 <!ENTITY hidePluginBtn.label                                 "ප්ලගින සඟවන්න">
 <!ENTITY managePlugins                                       "ප්ලගින කළමණාකරණය...">
