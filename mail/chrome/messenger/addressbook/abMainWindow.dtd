@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Adresboek">
 <!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toant allnnich kontakten nei in sykopdracht">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakten út eksterne adresboeken wurde pas nei in sykopdracht toand">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Bestân">
 <!ENTITY fileMenu.accesskey                             "B">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Eigenskippen">
-<!ENTITY propertiesCmd2.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nije list">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Eigenskippen">
-<!ENTITY editButton2.accesskey                          "E">
 <!ENTITY newmsgButton.label                             "Opstelle">
 <!ENTITY newmsgButton.accesskey                         "O">
 <!ENTITY newIM.label                                    "Ynstant-berjocht">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Nij adresboekkontakt oanmeitsje">
 <!ENTITY newlistButton.tooltip                          "Nije list oanmeitsje">
-<!ENTITY editButton2.tooltip                            "Selektearre kontakt bewurkje">
 <!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoere">
 <!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
 <!ENTITY deleteButton2.tooltip                          "Selektearre item fuortsmite">
