@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Επιλέξτε ένα πιστοποιητικό για να το παρουσιάσετε ως ταυτότητα:">
 <!ENTITY clientAuthAsk.message3 "Λεπτομέρειες επιλεγμένου πιστοποιητικού:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Επιλογή πιστοποιητικού">
-<!ENTITY certPicker.info  "Πιστοποιητικό:">
-<!ENTITY certPicker.detailsLabel "Λεπτομέρειες επιλεγμένων πιστοποιητικών:">
-
 <!ENTITY pkcs12.setpassword.title  "Επιλογή κωδικού αντιγράφου ασφαλείας πιστοποιητικού">
 <!ENTITY pkcs12.setpassword.message  "Ο κωδικός αντιγράφου ασφάλειας πιστοποιητικού προστατεύει το αντίγραφο που πρόκειται να δημιουργήσετε. Θα πρέπει να καθορίσετε αυτόν τον κωδικό ώστε να προχωρήσει η διαδικασία ">
 <!ENTITY pkcs12.setpassword.label1 "Κωδικός αντιγράφου ασφάλειας πιστοποιητικού:">

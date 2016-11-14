@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
-<!ENTITY syncDeviceName.accesskey   "υ">
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
 <!ENTITY changeSyncDeviceName.label "Μετονομασία συσκευής…">
 <!ENTITY cancelChangeSyncDeviceName.label "Ακύρωση">

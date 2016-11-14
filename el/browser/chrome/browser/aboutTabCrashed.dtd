@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Τα άσχημα νέα πρώτα: Αυτή η καρτέλα κατέρρευσε">
-<!ENTITY tabCrashed.message "Και τώρα τα καλά νέα: Μπορείτε να κλείσετε την καρτέλα και να την επαναφέρετε ή να επαναφέρετε όλες τις καρτέλες που κατέρρευσαν.">
-<!ENTITY tabCrashed.sendReport "Υποβάλετε μια αναφορά κατάρρευσης για να αποφύγετε τα άσχημα νέα στο μέλλον">
-<!ENTITY tabCrashed.includeURL "Να συμπεριληφθεί η διεύθυνση της ιστοσελίδας που βρισκόμουν">
-<!ENTITY tabCrashed.commentPlaceholder "Προσθήκη σχολίου (τα σχόλια είναι δημόσια)">
-<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε την διεύθυνση email σας">
-<!ENTITY tabCrashed.emailMe "Στείλτε μου email όταν είναι διαθέσιμες περισσότερες πληροφορίες">
-<!ENTITY tabCrashed.crashReporter "Εργαλείο αναφοράς προβλημάτων του Mozilla">
-<!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης υποβλήθηκε. Σας ευχαριστούμε που συμβάλλετε στην βελτίωση του &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Κλείσιμο καρτέλας">
 <!ENTITY tabCrashed.restoreTab "Επαναφορά καρτέλας">
 <!ENTITY tabCrashed.restoreAll "Επαναφορά όλων των καρτελών που κατέρρευσαν">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε την διεύθυνση email σας">
+<!ENTITY tabCrashed.emailMe "Στείλτε μου email όταν είναι διαθέσιμες περισσότερες πληροφορίες">
+<!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης υποβλήθηκε. Σας ευχαριστούμε που συμβάλλετε στην βελτίωση του &brandShortName;!">
