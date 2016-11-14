@@ -1,20 +1,7 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "מאפייני שרת מדריך">
 <!ENTITY directoryName.label               "שם:">
 <!ENTITY directoryName.accesskey           "ש">
 <!ENTITY directoryHostname.label           "שם שרת מארח:">
@@ -56,4 +43,3 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "36em">
-

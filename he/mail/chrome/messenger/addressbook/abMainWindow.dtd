@@ -2,21 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-#
--->
 <!ENTITY addressbookWindow.title                        "ספר כתובות">
 
 <!-- File Menu -->
@@ -89,15 +74,13 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "מאפיינים…">
-<!ENTITY propertiesCmd.accesskey                        "מ">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "תצוגה">
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "סרגלי כלים">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY menubarCmd.label                               "שורת תפריט">
 <!ENTITY menubarCmd.accesskey                           "ש">
 <!ENTITY showAbToolbarCmd.label                         "סרגל כלים פנקס כתובות">
@@ -113,11 +96,11 @@
 <!ENTITY showContactPane2.label                         "לוח אנשי קשר">
 <!ENTITY showContactPane2.accesskey                     "א">
 <!ENTITY menu_ShowNameAs.label                          "הצג שם בצורה">
-<!ENTITY menu_ShowNameAs.accesskey                      "צ"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "צ">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "פרטי משפחה">
-<!ENTITY firstLastCmd2.accesskey                        "פ"> 
+<!ENTITY firstLastCmd2.accesskey                        "פ">
 <!ENTITY lastFirstCmd.label                             "שם משפחה,  שם פרטי">
 <!ENTITY lastFirstCmd.accesskey                         "מ">
 <!ENTITY displayNameCmd.label                           "שם תצוגה">
@@ -137,18 +120,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "ב">
 <!ENTITY exportCmd.label                                "יצוא…">
 <!ENTITY exportCmd.accesskey                            "צ">
-<!ENTITY preferencesCmd.label                           "אפשרויות…">
-<!ENTITY preferencesCmd.accesskey                       "א">
 <!ENTITY preferencesCmdUnix.label                       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey                   "ע">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "איש קשר חדש">
 <!ENTITY newContactButton.accesskey                     "ק">
 <!ENTITY newlistButton.label                            "רשימה חדשה">
 <!ENTITY newlistButton.accesskey                        "ר">
-<!ENTITY editButton2.label                              "מאפיינים">
-<!ENTITY editButton2.accesskey                          "א">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
 <!ENTITY newIM.label                                    "הודעה מידית">
@@ -159,10 +138,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip                          "צור רשימה חדשה">
-<!ENTITY editButton2.tooltip                            "עריכת הפריט הנבחר">
 <!ENTITY newmsgButton.tooltip                           "שלח הודעת דואר">
 <!ENTITY newIM.tooltip                                  "שלח הודעה מידית או צ׳אט">
-<!ENTITY deleteButton2.tooltip                           "מחיקת פריטים נבחרים">
+<!ENTITY deleteButton2.tooltip                          "מחיקת פריטים נבחרים">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "ספר כתובות">
@@ -179,8 +157,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "ש">
 <!ENTITY PrimaryEmail.label                             "דוא״ל">
 <!ENTITY PrimaryEmail.accesskey                         "ד">
-<!ENTITY ScreenName.label                               "שם מסך">
-<!ENTITY ScreenName.accesskey                           "מ">
 <!ENTITY Company.label                                  "ארגון">
 <!ENTITY Company.accesskey                              "א">
 <!ENTITY NickName.label                                 "כינוי">
@@ -223,12 +199,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "הצג מפה של כתובת זו מהאינטרנט">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "חלון">
-<!ENTITY minimizeWindow.label "מזער חלון">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "הבא הכול לקידמה">
-<!ENTITY zoomWindow.label "הגדל חלון">
-
+<!ENTITY windowMenu.label                               "חלון">
+<!ENTITY minimizeWindow.label                           "מזער חלון">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "הבא הכול לקידמה">
+<!ENTITY zoomWindow.label                               "הגדל חלון">
