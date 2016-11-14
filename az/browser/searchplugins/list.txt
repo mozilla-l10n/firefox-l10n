@@ -1,6 +1,0 @@
-amazondotcom
-azerdict
-bing
-google
-wikipedia-az
-yandex-az
