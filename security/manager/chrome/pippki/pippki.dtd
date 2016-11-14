@@ -9,9 +9,9 @@
 <!ENTITY setPassword.newPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ:">
 <!ENTITY setPassword.reenterPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):">
 <!ENTITY setPassword.meter.label "ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ">
-<!ENTITY resetPasswordButtonLabel "ਮੁੜ-ਲੋਡ ਕਰੋ">
 
 <!-- Values for resetpassword.xul -->
+<!ENTITY resetPasswordButtonLabel "ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY resetPassword.title  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!ENTITY resetPassword.text  "ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਗੁਪਤ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?">
 
@@ -31,17 +31,11 @@
 <!ENTITY clientAuthAsk.message2 "ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਪਛਾਣ ਵੇਖਾਉਣ ਲਈ ਚੁਣੋ:">
 <!ENTITY clientAuthAsk.message3 "ਚੁਣੇ ਸਰਟੀਫਕੇਟ ਦਾ ਵੇਰਵਾ:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "ਸਰਟੀਫਕੇਟ ਨੂੰ ਚੁਣੋ">
-<!ENTITY certPicker.info  "ਸਰਟੀਫਕੇਟ:">
-<!ENTITY certPicker.detailsLabel "ਚੁਣੇ ਸਰਟੀਫਕੇਟ ਦਾ ਵੇਰਵਾ:">
-
 <!ENTITY pkcs12.setpassword.title  "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਦਾ ਪਾਸਵਰਡ ਚੁਣੋ।">
 <!ENTITY pkcs12.setpassword.message  "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਬੈਕਅੱਪ ਫਾਈਲਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਬਣਾਉਣਾ ਜਾ ਰਹੇ ਹੋ, ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਬੈਕਅੱਪ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦੇਣਾ ਲਾਜ਼ਮੀ ਹੈ।">
 <!ENTITY pkcs12.setpassword.label1 "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ:">
 <!ENTITY pkcs12.setpassword.label2 "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ (ਪੁਸ਼ਟੀ):">
 <!ENTITY pkcs12.setpassword.reminder "ਖਾਸ: ਜੇਕਰ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਤਾਂ ਤੁਸੀਨ ਇਸ ਬੈਕਅੱਪ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਰੱਖੋ।">
-
 
 <!ENTITY chooseToken.title  "ਟੋਕਨ ਚੋਣ ਡਾਈਲਾਗ">
 <!ENTITY chooseToken.message1 "ਟੋਕਨ ਨੂੰ ਚੁਣੋ ਜੀ।">
@@ -50,7 +44,6 @@
 <!ENTITY createCertInfo.title "ਇੱਕ ਨਿੱਜੀ ਕੁੰਜੀ ਬਣਾਈ ਜਾ ਰਹੀ ਹੈ">
 <!ENTITY createCertInfo.msg1 "ਕੁੰਜੀ ਨਿਰਮਾਣ ਅਧੀਨ ਹੈ… ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ…">
 <!ENTITY createCertInfo.msg2 "...ਉਡੀਕੋ ਜੀ">
-
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "ਸੁਰੱਖਿਅਤ ਟੋਕਨ ਦੀ ਪਰਮਾਣਕਿਤਾ">

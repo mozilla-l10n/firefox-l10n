@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; ਸੈਟਅੱਪ">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਭ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਅਤੀਤ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਵਰਤਣ ਦਿੰਦਾ ਹੈ।">
+
+<!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ਅੱਪਡੇਟ ਕਰੋ">
@@ -14,21 +16,15 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ਖਾਤੇ ਦਾ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
-
-<!ENTITY changePassword2.label         "…ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
+<!ENTITY changePassword2.label        "…ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
 <!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
 <!ENTITY resetSync2.label             "…ਸਿੰਕ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 
 <!ENTITY pairDevice.label             "ਇੱਕ ਡਿਵਾਈਸ ਨੂੰ ਪੇਅਰ ਕਰੋ">
 
-
-
-<!-- Sync Settings -->
-
 <!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ ਮੇਰੇ">
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
-
 <!ENTITY engine.tabs.label          "ਟੈਬਾਂ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ਅਤੀਤ">
@@ -42,18 +38,15 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ">
 <!ENTITY changeSyncDeviceName.label "…ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਬਦਲੋ">
 <!ENTITY cancelChangeSyncDeviceName.label "ਰੱਦ ਕਰੋ">
 <!ENTITY saveChangeSyncDeviceName.label "ਸੰਭਾਲੋ">
 <!ENTITY unlinkDevice.label           "ਇਹ ਡਿਵਾਈਸ ਅਣ-ਲਿੰਕ ਕਰੋ">
 
-
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ">
 <!ENTITY prefs.ppLink.label         "ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ">
-
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ">
