@@ -1,5 +1,0 @@
-amazondotcom
-google
-wikipedia-te
-wiktionary-te
-yahoo-in
