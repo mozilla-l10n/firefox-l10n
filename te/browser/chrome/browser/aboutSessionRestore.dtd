@@ -49,12 +49,3 @@ their language.
 
 <!ENTITY welcomeback2.link.pageInfo2        "మీరు ఇంకా ఏమి చేయవచ్చో తెలుసుకోండి.">
 
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "మీ ఇతర ట్యాబు గ్రూపుల తరలింపు">
-<!ENTITY tabgroupsmigration.pagetitle2          "మేము ట్యాబు గ్రూపులు తొలగించాము, కానీ మీ ట్యాబులు భద్రపరిచాం">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "ట్యాబు గ్రూపుల ప్రత్యామ్నాయ పొడగింత గురించి తెలుసుకోండి.">
-<!ENTITY tabgroupsmigration.description2        "మీ గ్రూపులన్నింటినీ &brandShortName; ఇష్టాంశాలుగా గుర్తించింది, మీరు ఏమీ కోల్పోలేదు.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "ఇష్టాంశాలుగా గుర్తించిన ట్యాబు గ్రూపులను చూపించు">
-<!ENTITY tabgroupsmigration.restoredescription  "మీరు ఇప్పుడు కొన్ని లేదా అన్ని నేపథ్య గ్రూపులను విండోలలో పునరుద్ధరించుకోవచ్చు:">
-

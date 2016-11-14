@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "పరికరం పేరు:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
 <!ENTITY changeSyncDeviceName.label "పరికరం పేరు మార్చు…">
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
