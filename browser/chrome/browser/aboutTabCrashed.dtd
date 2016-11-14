@@ -7,8 +7,8 @@
 <!ENTITY tabCrashed.restoreAll "Ripristina tutte le schede bloccate">
 <!ENTITY tabCrashed.header2 "Argh! Questa scheda si è bloccata.">
 <!ENTITY tabCrashed.offerHelp "Possiamo aiutarti!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Seleziona &tabCrashed.restoreTab; per ricaricare il contenuto della pagina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Seleziona &tabCrashed.restoreTab; o &tabCrashed.restoreAll; per ricaricare il contenuto della pagina.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Seleziona &tabCrashed.restoreTab; per ricaricare la pagina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Seleziona &tabCrashed.restoreTab; o &tabCrashed.restoreAll; per ricaricare la pagina.">
 <!ENTITY tabCrashed.requestHelp "Sei disposto ad aiutarci?">
 <!ENTITY tabCrashed.requestHelpMessage "Le segnalazioni di arresto anomalo ci aiutano a diagnosticare i problemi e migliorare &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Segnala questa scheda">
