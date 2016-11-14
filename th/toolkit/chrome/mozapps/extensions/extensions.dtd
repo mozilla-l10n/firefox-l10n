@@ -40,7 +40,7 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
-<!ENTITY view.recentUpdates.label             "การปรับรุ่นเมื่อเร็ว ๆ นี้">
+<!ENTITY view.recentUpdates.label             "การอัปเดตเมื่อเร็ว ๆ นี้">
 <!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้งานได้">
 
 <!-- addon updates -->
@@ -59,11 +59,11 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "ตั้งค่าให้ปรับรุ่นส่วนเสริมทุกตัวโดยอัตโนมัติ">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "ค">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "กลับค่าเดิมของส่วนเสริมทั้งหมดให้อัปเดตโดยอัตโนมัติ">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "ตั้งค่าให้ปรับรุ่นส่วนเสริมแต่ละตัวด้วยมือ">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "ค">
-<!ENTITY updates.updating.label               "กำลังปรับรุ่นส่วนเสริม">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "กำลังอัปเดตส่วนเสริม">
 <!ENTITY updates.installed.label              "อัปเดตส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.downloaded.label             "ดาวน์โหลดส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.restart.label                "เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์">
