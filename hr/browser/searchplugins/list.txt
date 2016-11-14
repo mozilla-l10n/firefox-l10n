@@ -1,7 +1,0 @@
-amazon-en-GB
-bing
-eudict
-google
-twitter
-wikipedia-hr
-yahoo
