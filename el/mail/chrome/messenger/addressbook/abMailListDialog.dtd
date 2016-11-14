@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Λίστα αλληλογραφίας">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Προσθήκη σε:">
 

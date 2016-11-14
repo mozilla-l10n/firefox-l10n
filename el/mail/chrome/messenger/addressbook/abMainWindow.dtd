@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
 <!ENTITY blankResultsPaneMessage.label                  "Αυτό το βιβλίο διευθύνσεων εμφανίζει επαφές μόνο μετά από μια αναζήτηση">
 <!ENTITY localResultsOnlyMessage.label                  "Επαφές από απομακρυσμένα βιβλία διευθύνσεων δεν εμφανίζονται μέχρι να γίνει αναζήτηση">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Αρχείο">
 <!ENTITY fileMenu.accesskey                             "χ">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Ιδιότητες">
-<!ENTITY propertiesCmd2.accesskey                       "δ">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "φ">
 <!ENTITY newlistButton.label                            "Νέα λίστα">
 <!ENTITY newlistButton.accesskey                        "λ">
-<!ENTITY editButton2.label                              "Ιδιότητες">
-<!ENTITY editButton2.accesskey                          "δ">
 <!ENTITY newmsgButton.label                             "Σύνταξη">
 <!ENTITY newmsgButton.accesskey                         "Σ">
 <!ENTITY newIM.label                                    "Άμεσο Μήνυμα">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
-<!ENTITY editButton2.tooltip                            "Επεξεργασία επιλεγμένου αντικειμένου">
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
 <!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">

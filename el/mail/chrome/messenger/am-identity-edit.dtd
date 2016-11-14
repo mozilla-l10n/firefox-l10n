@@ -6,9 +6,9 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Ρυθμίσεις ταυτότητας">
 <!ENTITY identityListDesc.label "Ρύθμιση αυτής της ταυτότητας:">
 
 <!ENTITY settingsTab.label       "Ρυθμίσεις">
 <!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; Φάκελοι">
 <!ENTITY addressingTab.label    "Σύνταξη &amp; Διευθυνσιοδότηση">
+

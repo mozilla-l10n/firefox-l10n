@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
 <!ENTITY playSound.label                  "Αναπαραγωγή ενός ήχου">
-<!ENTITY playSound1.accesskey              "π">
+<!ENTITY playSound1.accesskey             "π">
 <!ENTITY showAnimatedAlert.label          "Εμφάνιση μιας ειδοποίησης">
 <!ENTITY showAnimatedAlert.accesskey      "φ">
-<!ENTITY notificationAlertSettings.label  "Οι ειδοποιήσεις μπορούν να απενεργοποιηθούν στην προβολή Ειδοποιήσεις στις Προτιμήσεις Συστήματος.">
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Αναπαραγωγή">
 <!ENTITY play.accesskey                   "π">
 <!ENTITY systemsound.label                "Προεπιλεγμένος ήχος συστήματος για νέο μήνυμα">
-<!ENTITY systemsoundMac.label             "Ήχος προειδοποίησης συστήματος">
-<!ENTITY systemsoundMac.accesskey         "χ">
 <!ENTITY systemsound.accesskey            "χ">
 <!ENTITY customsound.label                "Χρήση του ακόλουθου αρχείου ήχου">
 <!ENTITY customsound.accesskey            "Χ">
