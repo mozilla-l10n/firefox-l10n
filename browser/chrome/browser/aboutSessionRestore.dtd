@@ -49,12 +49,3 @@ their language.
 
 <!ENTITY welcomeback2.link.pageInfo2        "дознајте повеќе за тоа што Вие можете да направите.">
 
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "Мигрирајте ги Вашите други групи на јазичиња">
-<!ENTITY tabgroupsmigration.pagetitle2          "Групирањето на јазичиња е отстрането, но Вашите јазичиња беа зачувани">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Дознајте за додатоци со коишто можете повторно да групирате јазичиња.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; ги сними сите Ваши групи како обележувачи, па не изгубивте ништо.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Прикажи обележани групи на јазичиња">
-<!ENTITY tabgroupsmigration.restoredescription  "Сега исто така можете да изберете да вратите некои или сите групи во прозорци:">
-
