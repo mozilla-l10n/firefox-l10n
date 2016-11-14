@@ -2,21 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
-     is not supported on some devices. Include a trailing space as needed. -->
-<!ENTITY unsupportedPlatform.pre                             "మమ్మల్ని క్షమించండి, కానీ &brandShortName; ఈ పరికరంలో ఫ్లాష్ ప్లే కాదు. ">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "ఇంకా తెలుసుకోండి…">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
-
-<!ENTITY missingPlugin                                       "ఈ విషయాన్ని చూపించడానికి ఒక ప్లగిన్ కావాలి.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ప్లగ్ఇన్ సక్రియం చేయడానికి ఇక్కడ నొక్కండి.">
 <!ENTITY clickToActivatePlugin                               "ప్లగ్ఇన్ సక్రియం చేయండి.">
 <!ENTITY checkForUpdates                                     "నవీకరణల కొరకు పరిశీలించు…">
-<!ENTITY disabledPlugin                                      "ఈ ప్లగ్ఇన్ నిలిపివేయబడింది.">
 <!ENTITY blockedPlugin.label                                 "ఈ ప్లగ్ఇన్ మీ రక్షణ కోసం బ్లాక్ చెయ్యబడింది.">
 <!ENTITY hidePluginBtn.label                                 "ప్లగిన్ ని దాచు">
 <!ENTITY managePlugins                                       "ప్లగిన్లను నిర్వహించండి...">
