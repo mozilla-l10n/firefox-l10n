@@ -1,6 +1,0 @@
-amazon-it
-bing
-google
-hoepli
-wikipedia-it
-yahoo-it
