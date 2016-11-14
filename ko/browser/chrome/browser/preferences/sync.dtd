@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "기기 이름:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "기기 이름">
 <!ENTITY changeSyncDeviceName.label "기기 이름 바꾸기…">
 <!ENTITY cancelChangeSyncDeviceName.label "취소">
