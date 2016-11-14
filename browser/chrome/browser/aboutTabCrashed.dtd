@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Спочатку погані новини: Ця вкладка аварійно завершила роботу">
-<!ENTITY tabCrashed.message "Тепер хороші новини: Ви можете просто закрити цю вкладку, а потім відновити її, або відновити всі вкладки, що аварійно завершили роботу.">
-<!ENTITY tabCrashed.sendReport "Надіслати звіт про цей збій, щоб допомогти запобігти поганим новинам">
-<!ENTITY tabCrashed.includeURL "Включити адресу відвіданої сторінки">
-<!ENTITY tabCrashed.commentPlaceholder "Додати коментар (коментарі бачать всі)">
-<!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
-<!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
-<!ENTITY tabCrashed.crashReporter "Звіти про збої Mozilla">
-<!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
 <!ENTITY tabCrashed.closeTab "Закрити цю вкладку">
 <!ENTITY tabCrashed.restoreTab "Відновити цю вкладку">
 <!ENTITY tabCrashed.restoreAll "Відновити всі вкладки, які аварійно завершили роботу">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
+<!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
+<!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
