@@ -13,5 +13,10 @@
 
 <!ENTITY name.label           "Nome:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY icon.label           "Ícone:">
+<!ENTITY icon.accesskey       "I">
+<!ENTITY color.label          "Cor:">
+<!ENTITY color.accesskey      "o">
 
+<!ENTITY button.ok.label      "Pronto">
 
