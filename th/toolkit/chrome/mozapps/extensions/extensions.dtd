@@ -64,13 +64,13 @@
 <!ENTITY updates.resetUpdatesToManual.label          "ตั้งค่าให้ปรับรุ่นส่วนเสริมแต่ละตัวด้วยมือ">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "ค">
 <!ENTITY updates.updating.label               "กำลังปรับรุ่นส่วนเสริม">
-<!ENTITY updates.installed.label              "ปรับรุ่นส่วนเสริมของคุณแล้ว">
+<!ENTITY updates.installed.label              "อัปเดตส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.downloaded.label             "ดาวน์โหลดส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.restart.label                "เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์">
-<!ENTITY updates.noneFound.label              "ไม่พบการปรับรุ่น">
-<!ENTITY updates.manualUpdatesFound.label     "ดูการปรับรุ่นที่ตรวจพบ">
-<!ENTITY updates.updateSelected.label         "ติดตั้งการปรับรุ่น">
-<!ENTITY updates.updateSelected.tooltip       "ติดตั้งการปรับรุ่นทั้งหมดในรายการนี้">
+<!ENTITY updates.noneFound.label              "ไม่พบการอัปเดต">
+<!ENTITY updates.manualUpdatesFound.label     "ดูการอัปเดตที่ใช้งานได้">
+<!ENTITY updates.updateSelected.label         "ติดตั้งการอัปเดต">
+<!ENTITY updates.updateSelected.tooltip       "ติดตั้งการอัปเดตที่มีในรายการนี้">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "แสดงข้อมูลเพิ่มเติม">
@@ -112,9 +112,9 @@
 <!ENTITY cmd.contribute.tooltip               "เข้าร่วมพัฒนาส่วนเสริมนี้">
 
 <!ENTITY cmd.showReleaseNotes.label           "แสดงบันทึกประจำรุ่น">
-<!ENTITY cmd.showReleaseNotes.tooltip         "แสดงบันทึกประจำรุ่นสำหรับการปรับรุ่นครั้งนี้">
+<!ENTITY cmd.showReleaseNotes.tooltip         "แสดงบันทึกประจำรุ่นสำหรับการอัปเดตนี้">
 <!ENTITY cmd.hideReleaseNotes.label           "ซ่อนบันทึกประจำรุ่น">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ซ่อนบันทึกประจำรุ่นสำหรับการปรับรุ่นครั้งนี้">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "ซ่อนบันทึกประจำรุ่นสำหรับการอัปเดตนี้">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
