@@ -54,6 +54,9 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "Scalars">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "柱狀圖">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Keyed Histograms">
