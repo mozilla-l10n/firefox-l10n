@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "裝置名稱:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "裝置名稱">
 <!ENTITY changeSyncDeviceName.label "修改裝置名稱…">
 <!ENTITY cancelChangeSyncDeviceName.label "取消">
@@ -106,4 +105,3 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              "以與您的行動裝置同步。">
-
