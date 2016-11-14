@@ -36,8 +36,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "ช่องทางปรับรุ่น">
-<!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการปรับรุ่น">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ช่องทางการอัปเดต">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการอัปเดต">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรีโพรไฟล์">
@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "รุ่น Library">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
-<!ENTITY aboutSupport.updateHistoryTitle "ประวัติการปรับรุ่น">
+<!ENTITY aboutSupport.updateHistoryTitle "ประวัติการอัปเดต">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "คัดลอกข้อมูลดิบไปยังคลิปบอร์ด">

@@ -14,7 +14,7 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; สามารถตรวจสอบว่ามีส่วนเสริมรุ่นที่เข้ากันได้ ให้ใช้หรือไม่">
 
 <!ENTITY  checking.wizard.title           "ตรวจสอบส่วนเสริมที่เข้ากันได้">
-<!ENTITY  checking.top.label              "ตรวจสอบหารายการปรับรุ่นสำหรับส่วนเสริมที่เข้ากันไม่ได้…">
+<!ENTITY  checking.top.label              "กำลังตรวจสอบการอัปเดตสำหรับส่วนเสริมที่เข้ากันไม่ได้ของคุณ…">
 <!ENTITY  checking.status                 "อาจใช้เวลาสักครู่…">
 
 <!ENTITY  found.wizard.title               "พบส่วนเสริมที่เข้ากันได้">
@@ -43,7 +43,7 @@
 <!ENTITY  versioninfo.top.label           "ตรวจสอบความเข้ากันได้ระหว่างส่วนเสริมของคุณกับ &brandShortName; รุ่นนี้">
 <!ENTITY  versioninfo.waiting             "อาจใช้เวลาสักครู่…">
 
-<!ENTITY  installerrors.wizard.title      "ปัญหาการติดตั้งรายการปรับรุ่น">
+<!ENTITY  installerrors.wizard.title      "เกิดปัญหาในการติดตั้งการอัปเดต">
 <!ENTITY  installerrors.intro.label       "&brandShortName; พบปัญหาระหว่างการปรับรุ่นส่วนเสริม บางตัวของคุณ">
 
 <!-- general strings used by several of the finish pages -->
