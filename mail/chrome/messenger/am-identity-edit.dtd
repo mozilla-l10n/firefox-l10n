@@ -6,9 +6,9 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 74ch;">
-<!ENTITY identityTitle.label "Налаштування ідентифікатора">
 <!ENTITY identityListDesc.label "Налаштувати параметри для цього ідентифікатора:">
 
 <!ENTITY settingsTab.label       "Параметри">
 <!ENTITY copiesFoldersTab.label "Копії та теки">
 <!ENTITY addressingTab.label    "Написання та адресація">
+
