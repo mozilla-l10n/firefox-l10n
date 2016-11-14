@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
+     equal to the value of accountManager.size entity minus the value
+     of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Подешавања идентитета">
 <!ENTITY identityListDesc.label "Измените подешавања овог налога:">
 
 <!ENTITY settingsTab.label       "Подешавања">
 <!ENTITY copiesFoldersTab.label "Копије и фасцикле">
 <!ENTITY addressingTab.label    "Састављање и адресирање">
+
