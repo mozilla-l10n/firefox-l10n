@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Име на текущото устройство:">
-<!ENTITY syncDeviceName.accesskey   "И">
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
 <!ENTITY changeSyncDeviceName.label "Преименуване…">
 <!ENTITY cancelChangeSyncDeviceName.label "Отказ">
