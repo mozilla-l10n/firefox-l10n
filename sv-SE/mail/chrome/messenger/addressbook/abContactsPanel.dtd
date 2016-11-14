@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Egenskaper">
+<!ENTITY propertiesMenu.accesskey           "e">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Egenskaper för adressbok">
+<!ENTITY abPropertiesMenu.accesskey         "e">
+<!ENTITY contactPropertiesMenu.label        "Egenskaper för kontakter">
+<!ENTITY contactPropertiesMenu.accesskey    "e">
 
 <!ENTITY addressbookPicker.label            "Adressbok:">
 <!ENTITY addressbookPicker.accesskey        "r">
@@ -15,6 +22,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "D">
 <!ENTITY deleteAddrBookCard.label           "Ta bort">
 <!ENTITY deleteAddrBookCard.accesskey       "b">
+<!ENTITY propertiesContext.label            "Egenskaper">
+<!ENTITY propertiesContext.accesskey        "e">
+<!ENTITY abPropertiesContext.label          "Egenskaper">
+<!ENTITY abPropertiesContext.accesskey      "e">
+<!ENTITY editContactContext.label           "Redigera kontakt">
+<!ENTITY editContactContext.accesskey       "R">
+<!ENTITY editMailingListContext.label       "Redigera lista">
+<!ENTITY editMailingListContext.accesskey   "R">
 
 <!ENTITY toButton.label                     ">> Till:">
 <!ENTITY toButton.accesskey                 "T">
