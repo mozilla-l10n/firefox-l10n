@@ -280,7 +280,6 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Abas personalizadas">
-<!ENTITY pref_custom_tabs_summary "Permitir que aplicativos de terceiros abram URLs com uma aparência personalizada.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
@@ -833,6 +832,12 @@ do Android">
 
 <!ENTITY activity_stream_topsites "Sites preferidos">
 <!ENTITY activity_stream_highlights "Destaques">
-<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
-     when pressed. -->
-<!ENTITY activity_stream_more "Mais">
+
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
+is simply hidden from the Activity Stream panel. -->
