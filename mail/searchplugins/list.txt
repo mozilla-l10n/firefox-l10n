@@ -1,6 +1,0 @@
-amazon-it
-bing
-google
-twitter
-wikipedia-it
-yahoo-it
