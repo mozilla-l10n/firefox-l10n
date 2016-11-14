@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Tools menu -->
 <!ENTITY lightning.preferencesLabel "Kalendarz">
 
-<!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label        "Wydarzenie…">
 <!ENTITY lightning.menupopup.new.event.accesskey    "d">
 <!ENTITY lightning.menupopup.new.task.label         "Zadanie…">
@@ -13,7 +11,6 @@
 <!ENTITY lightning.menupopup.new.calendar.label     "Kalendarz…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Otwórz">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Zapisana wiadomość…">
@@ -21,17 +18,14 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Plik kalendarza…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
-<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label           "Kalendarz">
 <!ENTITY lightning.menu.view.calendar.accesskey       "r">
 <!ENTITY lightning.menu.view.tasks.label              "Zadania">
 <!ENTITY lightning.menu.view.tasks.accesskey          "a">
 
-<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label       "Wydarzenia i zadania">
 <!ENTITY lightning.menu.eventtask.accesskey   "a">
 
-<!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!ENTITY lightning.imipbar.btnAccept.label "Zaakceptuj">
@@ -44,6 +38,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext "Odrzuć zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Odrzuć wszystkie">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Odrzuć zaproszenie na wszystkie powtórzenia wydarzenia">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label "Odrzuć">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext "Odrzuć kontrpropozycję">
 <!ENTITY lightning.imipbar.btnDelete.label "Usuń">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Usuń z kalendarza">
 <!ENTITY lightning.imipbar.btnDetails.label "Szczegóły…">
@@ -52,6 +48,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Wyświetl więcej opcji">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Zaakceptuj powtórnie">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Wyślij powtórne potwierdzenie do organizatora">
+<!ENTITY lightning.imipbar.btnReschedule.label "Przełóż">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext "Przełóż wydarzenie">
 <!ENTITY lightning.imipbar.btnSaveCopy.label "Zapisz kopię">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Zapisz kopię wydarzenia w kalendarzu, niezależnie od odpowiedzi wysłanej do organizatora. Lista uczestników zostanie wyczyszczona.">
 <!ENTITY lightning.imipbar.btnTentative.label "Wstępnie zaakceptuj">
@@ -62,16 +60,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext "Uaktualnij wydarzenie w kalendarzu">
 <!ENTITY lightning.imipbar.description "Wiadomość zawiera zaproszenie na wydarzenie.">
 
-<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new  "I">
 <!ENTITY lightning.keys.todo.new   "D">
 
-<!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Utwórz nowy kalendarz">
 
-<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label      "Pokaż kalendarz podręczny">
 <!ENTITY todaypane.showMinimonth.accesskey  "k">
 <!ENTITY todaypane.showMiniday.label        "Pokaż podgląd dnia">

@@ -28,7 +28,6 @@
 <!ENTITY newevent.status.inprogress.label   "Trwa" >
 <!ENTITY newevent.status.completed.label    "Wykonane" >
 
-<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; wykonania">
 
 <!ENTITY event.attendees.notify.label "Powiadom uczestników">
@@ -36,8 +35,10 @@
 <!ENTITY event.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "O">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
+<!ENTITY event.attendees.disallowcounter.label "Nie pozwalaj na kontrpropozycje">
+<!ENTITY event.attendees.disallowcounter.accesskey "N">
+<!ENTITY event.attendees.disallowcounter.tooltip "Wskazuje, że kontrpropozycje nie będą przyjmowane">
 
-<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -52,7 +53,6 @@
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
 
-<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nowy">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Wydarzenie">
@@ -144,7 +144,6 @@
 <!ENTITY event.remove.attendee.label "Usuń uczestnika">
 <!ENTITY event.remove.attendee.accesskey "s">
 
-<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
 <!ENTITY  event.toolbar.delete.label                      "Usuń">
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
@@ -159,7 +158,13 @@
 <!ENTITY event.toolbar.status.tooltip "Zmień stan">
 <!ENTITY event.toolbar.freebusy.tooltip "Zmień czas na zajęty lub wolny">
 
-<!-- Main page -->
+<!ENTITY counter.button.proposal.label "Złóż propozycję">
+<!ENTITY counter.button.proposal.accesskey "p">
+<!ENTITY counter.button.proposal.tooltip "Złóż dane propozycji do formularza.">
+<!ENTITY counter.button.original.label "Złóż oryginalne dane">
+<!ENTITY counter.button.original.accesskey "r">
+<!ENTITY counter.button.original.tooltip "Złóż oryginalne dane do formularza.">
+
 <!ENTITY event.title.textbox.label                        "Nazwa:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
 <!ENTITY event.location.label                             "Miejsce:" >
@@ -228,8 +233,6 @@
 <!ENTITY event.statusbarpanel.freebusy.label "Pokaż czas jako:">
 <!ENTITY event.statusbarpanel.privacy.label "Prywatność:">
 
-<!-- Recurrence dialog -->
-
 <!ENTITY recurrence.title.label                         "Ustawienie powtarzania">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nie powtarzaj">
@@ -279,13 +282,6 @@
 <!ENTITY repeat.units.years.both                             "lat" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "" >
 
-<!-- LOCALIZATON NOTE
-     Some languages use a preposition when describing dates:
-     Portuguese: 6 de Setembro
-     English: 6 [of] September
-     event.recurrence.pattern.yearly.of.label is "of" in
-     Edit recurrence window -> Recurrence pattern -> Repeat yearly
--->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "stycznia" >
@@ -336,7 +332,6 @@
 <!ENTITY event.repeat.until.label                       "Powtarzaj do" >
 <!ENTITY event.recurrence.preview.label                 "Podgląd">
 
-<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Zaproś uczestników">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Sugeruj okienko:">
@@ -358,12 +353,9 @@
 <!ENTITY event.attendee.usertype.room "Pokój">
 <!ENTITY event.attendee.usertype.unknown "Nieznany">
 
-<!-- Timezone dialog -->
-
 <!ENTITY timezone.title.label            "Wybór strefy czasowej">
 <!ENTITY event.timezone.custom.label     "Więcej stref czasowych…">
 
-<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Główne">
 <!ENTITY read.only.title.label           "Nazwa:">
 <!ENTITY read.only.event.start.label     "Początek:">
