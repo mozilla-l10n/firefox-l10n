@@ -1,6 +1,0 @@
-google
-bing
-yahoo
-wikipedia-sv-SE
-tyda-sv-SE
-prisjakt-sv-SE
