@@ -734,7 +734,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ਇਜਾਜ਼ਤਾਂ">
 <!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
-
 <!ENTITY identity.permissionsReloadHint "You may need to reload the page for changes to apply.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
