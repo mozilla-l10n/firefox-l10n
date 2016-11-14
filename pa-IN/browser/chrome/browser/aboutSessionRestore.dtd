@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 
@@ -49,12 +49,3 @@ their language.
 
 <!ENTITY welcomeback2.link.pageInfo2        "ਰਾਹੀਂ ਸਿੱਖੋ ਕਿ ਤੁਸੀਂ ਹੋਰ ਕੀ ਕਰ ਸਕਦੇ ਹੋ।">
 
-
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "ਆਪਣੇ ਹੋਰ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਮਾਈਗਰੇਟ ਕਰੋ">
-<!ENTITY tabgroupsmigration.pagetitle2          "ਅਸੀਂ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਹਟਾ ਚੁੱਕੇ ਹਨ, ਪਰ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਹੈ">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "ਟੈਬ ਗਰੁੱਪ ਦੇ ਬਦਲਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; ਨੇ ਤੁਹਾਡੇ ਗਰੁੱਪਾਂ ਨੂੰ ਬੁੱਕਮਾਰਕ ਵਜੋਂ ਸੰਭਾਲਿਆ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਕੋਲੋ ਕੁਝ ਵੀ ਗੁੰਮ ਨਾ ਹੋਵੇ।">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਵੇਖੋ">
-<!ENTITY tabgroupsmigration.restoredescription  "ਤੁਸੀਂ ਕੁਝ ਜਾਂ ਸਾਰੇ ਬੈਕਗਰਾਊਂਡ ਗਰੁੱਪਾਂ ਨੂੰ ਹੁਣੇ ਵਿੰਡੋ ਵਿੱਚ ਬਹਾਲ ਕਰਨ ਦੀ ਚੋਣ ਵੀ ਕਰ ਸਕਦੇ ਹੋ:">
