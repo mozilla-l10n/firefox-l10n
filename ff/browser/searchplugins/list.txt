@@ -1,6 +1,0 @@
-google
-amazon-france
-bing
-wikipedia-fr
-yahoo-france
-cnrtl-tlfi-fr
