@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "שם ההתקן:">
-<!ENTITY syncDeviceName.accesskey   "ש">
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">
 <!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
 <!ENTITY cancelChangeSyncDeviceName.label "ביטול">
