@@ -1,7 +1,0 @@
-atlas-sk
-azet-sk
-dunaj-sk
-google
-slovnik-sk
-wikipedia-sk
-zoznam-sk
