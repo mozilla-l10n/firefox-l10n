@@ -466,13 +466,8 @@
 <!ENTITY runJunkControls.accesskey "p">
 <!ENTITY deleteJunk.label "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey "e">
-<!ENTITY errorConsoleCmd.label "Konsola błędów">
-<!ENTITY errorConsoleCmd.accesskey "s">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Wyczyść historię przeglądania…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY allowRemoteDebugging.label "Zezwalaj na zdalne debugowanie">
-<!ENTITY allowRemoteDebugging.accesskey "n">
 <!ENTITY filtersCmd2.label "Filtrowanie wiadomości">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Zastosuj filtry w bieżącym folderze">
@@ -481,6 +476,24 @@
 <!ENTITY filtersApplyToSelection.accesskey "w">
 <!ENTITY filtersApplyToMessage.label "Zastosuj filtry do wiadomości">
 <!ENTITY filtersApplyToMessage.accesskey "w">
+
+<!ENTITY devtoolsMenu.label "Narzędzia dla programistów">
+<!ENTITY devtoolsMenu.accesskey "N">
+<!ENTITY devToolboxCmd.label "Zestaw narzędzi dla programistów">
+<!ENTITY devToolboxCmd.accesskey "Z">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Debuger dodatków">
+<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY tabsDebugCmd.label "Debuger ramek treści">
+<!ENTITY tabsDebugCmd.accesskey "r">
+<!ENTITY errorConsoleCmd.label "Konsola błędów">
+<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Brudnopis">
+<!ENTITY scratchpadCmd.accesskey "B">
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!ENTITY getMsgButton1.label "Pobierz">
 <!ENTITY newMsgButton.label "Napisz">
