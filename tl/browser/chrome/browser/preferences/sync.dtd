@@ -1,22 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
 
+<!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
 
 <!-- The page shown when logged in... -->
+
 <!-- Login error feedback -->
-
-
 <!ENTITY updatePass.label             "Pagsasangayon">
 <!ENTITY resetPass.label              "I-reset">
-<!-- Manage Account -->
 
+<!-- Manage Account -->
 <!ENTITY changePassword2.label        "Palitang ang Password">
 <!ENTITY myRecoveryKey.label          "Aking Pampanumalik na Susi">
-
 
 <!ENTITY pairDevice.label             "I-pares sa isa pang Aparato">
 
@@ -25,25 +23,21 @@
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tabs">
 <!ENTITY engine.tabs.accesskey      "T">
-
-
 <!ENTITY engine.passwords.label     "Passwords">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Mga Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
+
 <!-- Device Settings -->
-
-
-
-
 <!ENTITY saveChangeSyncDeviceName.label "I-save">
 <!ENTITY unlinkDevice.label           "I-unlink ang Device na Ito">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tuntunin ng Serbisyo">
 <!ENTITY prefs.ppLink.label         "Patakaran sa Privacy">
+
 <!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
@@ -51,7 +45,6 @@ signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
@@ -66,22 +59,13 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
+
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 

@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "Mga Crash Report na Naiulat">
-
-<!ENTITY date.heading               "Petsa ng Pagpadala">
 <!ENTITY noReports.label            "Walang crash report na napadala.">
 <!ENTITY noConfig.label             "Hindi naka-configure ang application upang magpakita ng mga crash report. Kailangan i-set ang preference na <code>breakpad.reportURL</code>.">
 <!ENTITY clearAllReports.label      "Alisin Lahat ng mga Ulat">
-
