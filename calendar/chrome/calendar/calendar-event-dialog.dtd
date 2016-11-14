@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 完成">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "通知參與者">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "分別為參與者發出邀請函">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "此選項將會為每位參加者發送獨立的邀請郵件，每封邀請函當中只會有收件者自己，不會揭露其他收件者的身分。">
+<!ENTITY event.attendees.notify.label                "通知參與者">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "分別為參與者發出邀請函">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "此選項將會為每位參加者發送獨立的邀請郵件，每封邀請函當中只會有收件者自己，不會揭露其他收件者的身分。">
+<!ENTITY event.attendees.disallowcounter.label       "不允許反對">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "表示您不接受反對提議">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "變更優先權">
 <!ENTITY  event.toolbar.status.tooltip                    "變更狀態">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "變更空閒/忙碌時間">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "使用提議資料">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "套用提議資料到表單">
+<!ENTITY counter.button.original.label                    "使用原始資料">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "套用原始資料到表單">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "標題:" >
@@ -380,4 +392,3 @@
 <!ENTITY read.only.attendees.label       "與會者">
 <!ENTITY read.only.description.label     "描述">
 <!ENTITY read.only.link.label            "相關鏈結">
-
