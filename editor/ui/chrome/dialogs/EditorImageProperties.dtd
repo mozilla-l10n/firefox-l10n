@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Bildens plats:">
 <!ENTITY locationEditField.accessKey "s">
 <!ENTITY locationEditField.tooltip "Ange bildens filnamn eller plats">
+<!ENTITY locationEditField.shortenedDataURI "Avkortade data-URI (kopiera kommer att placera hela URI till klippbordet )">
 <!ENTITY title.label "Hjälptext:">
 <!ENTITY title.accessKey "ä">
 <!ENTITY title.tooltip "HTML-attributet «title» visar en hjälptext">
