@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "裝置名稱:">
 <!ENTITY fxaSyncDeviceName.label       "裝置名稱">
 <!ENTITY changeSyncDeviceName.label "修改裝置名稱…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "取消">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "儲存">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "解除此裝置的連結">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "您尚未登入。">
 <!ENTITY signIn.label                "登入">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "更改個人資料照片">
 <!ENTITY verifiedManage.label        "管理帳號">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "取消連線…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "驗證電子郵件地址">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘記此電子郵件地址">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "在隨處使用 &brandShortName; 時都能存取您已開啟的分頁、書籤、密碼。">
 <!ENTITY welcome.signIn.label "登入">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。">
 <!ENTITY signedOut.accountBox.title   "連線到 &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "建立帳號">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "登入">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "在所有裝置間同步">
 

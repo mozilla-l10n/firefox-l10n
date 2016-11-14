@@ -159,6 +159,15 @@
 <!ENTITY options.timestampMessages.label      "開啟時間戳記">
 <!ENTITY options.timestampMessages.tooltip    "若您啟用設定，網頁主控台的輸出內容將包含時間戳記">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "除錯器">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "開啟原始碼對應">
+<!ENTITY options.sourceMaps.tooltip    "若您開啟此選項，將會在除錯器與主控台中進行原始碼對應。">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
