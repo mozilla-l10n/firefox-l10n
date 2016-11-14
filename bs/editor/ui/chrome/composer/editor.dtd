@@ -46,17 +46,18 @@
 <!ENTITY NormalModeTab.label "Normalno">
 <!ENTITY NormalMode.label "Normalni režim uređivanja">
 <!ENTITY NormalMode.accesskey "N">
-
+<!ENTITY NormalMode.tooltip "Prikaži okvir tabele i imenovane anchor-e">
 <!ENTITY AllTagsModeTab.label "HTML tagovi">
-
-
-
+<!ENTITY AllTagsMode.label "HTML Oznake">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Prikaži ikone za sve HTML oznake">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
-
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Izvor">
 
 
 
