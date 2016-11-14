@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "Sche in nov messadi arriva:">
 <!ENTITY playSound.label                  "Far ir in tun">
-<!ENTITY playSound1.accesskey              "F">
+<!ENTITY playSound1.accesskey             "F">
 <!ENTITY showAnimatedAlert.label          "Mussar in avis">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY notificationAlertSettings.label  "Avertiments pon vegnir deactivads sin la panela dad avis en las preferenzas dal sistem.">
 <!ENTITY customizeMailAlert.label         "Modifitgar…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Fa ir">
 <!ENTITY play.accesskey                   "i">
 <!ENTITY systemsound.label                "Tun predefinì dal sistem per in nov messadi">
-<!ENTITY systemsoundMac.label             "Tun dad avertiment dal sistem">
-<!ENTITY systemsoundMac.accesskey         "T">
 <!ENTITY systemsound.accesskey            "T">
 <!ENTITY customsound.label                "Utilisar la suandanta datoteca da tun">
 <!ENTITY customsound.accesskey            "U">

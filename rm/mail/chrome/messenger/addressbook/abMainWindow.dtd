@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Cudeschet d'adressas">
 <!ENTITY blankResultsPaneMessage.label                  "Quest cudeschet d'adressas mussa mo contacts suenter ina tschertga">
 <!ENTITY localResultsOnlyMessage.label                  "Contacts da cudeschets d'adressas lontans vegnan mo mussads sche ti als tschertgas">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteca">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Caracteristicas">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Nova glista">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Caracteristicas">
-<!ENTITY editButton2.accesskey                          "r">
 <!ENTITY newmsgButton.label                             "Scriver">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Messadi immediat">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear in nov contact">
 <!ENTITY newlistButton.tooltip                          "Crear ina nova glista da distribuziun">
-<!ENTITY editButton2.tooltip                            "Modifitgar l'element tschernì">
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
 <!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
