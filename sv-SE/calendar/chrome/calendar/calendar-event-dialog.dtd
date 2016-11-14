@@ -165,6 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Ändra ledig/upptagen tid">
 
 <!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Lägg till förslag">
+<!ENTITY counter.button.proposal.accesskey                "f">
+<!ENTITY counter.button.proposal.tooltip                  "Lägg till förslagsdata till formuläret.">
+<!ENTITY counter.button.original.label                    "Lägg till originaldata">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Lägg till originaldata till formuläret.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
