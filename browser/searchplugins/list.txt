@@ -1,6 +1,0 @@
-amazon-it
-bing
-google
-paroledigenova-lij
-wikipedia-lij
-yahoo-it
