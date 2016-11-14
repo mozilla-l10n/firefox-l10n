@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Osoitekirja">
 <!ENTITY blankResultsPaneMessage.label                  "Tämä osoitekirja näyttää vain yhteystietoja vain haun jälkeen">
 <!ENTITY localResultsOnlyMessage.label                  "Yhteystietoja etäosoitekirjoista ei näytetä ennen hakua">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Tiedosto">
 <!ENTITY fileMenu.accesskey                             "T">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Ominaisuudet">
-<!ENTITY propertiesCmd2.accesskey                       "n">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "U">
 <!ENTITY newlistButton.label                            "Uusi lista">
 <!ENTITY newlistButton.accesskey                        "s">
-<!ENTITY editButton2.label                              "Ominaisuudet">
-<!ENTITY editButton2.accesskey                          "O">
 <!ENTITY newmsgButton.label                             "Lähetä">
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Pikaviesti">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Luo uusi yhteystieto osoitekirjaan">
 <!ENTITY newlistButton.tooltip                          "Luo uusi lista">
-<!ENTITY editButton2.tooltip                            "Muokkaa valittua tietoa">
 <!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostia">
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti tai keskustele">
 <!ENTITY deleteButton2.tooltip                          "Poista valittu tieto">
