@@ -2,22 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY addressbookPicker.label            "Adressbok:">
 <!ENTITY addressbookPicker.accesskey        "r">
-<!ENTITY searchInput.label                  "Sök efter:">
-<!ENTITY searchInput.accesskey              "ö">
 <!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
 
-<!ENTITY deleteAddrBookCard.label           "Ta bort">
-<!ENTITY deleteAddrBookCard.accesskey       "b">
-<!ENTITY addrBookCardProperties.label       "Egenskaper">
-<!ENTITY addrBookCardProperties.accesskey   "E">
 <!ENTITY addtoToFieldMenu.label             "Lägg till i Till-fältet">
 <!ENTITY addtoToFieldMenu.accesskey         "T">
 <!ENTITY addtoCcFieldMenu.label             "Lägg till i Kopia-fältet">
 <!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Lägg till i Dold kopia-fältet">
 <!ENTITY addtoBccFieldMenu.accesskey        "D">
+<!ENTITY deleteAddrBookCard.label           "Ta bort">
+<!ENTITY deleteAddrBookCard.accesskey       "b">
 
 <!ENTITY toButton.label                     ">> Till:">
 <!ENTITY toButton.accesskey                 "T">

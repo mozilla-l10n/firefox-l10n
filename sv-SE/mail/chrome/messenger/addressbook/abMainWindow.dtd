@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Adressboken">
 <!ENTITY blankResultsPaneMessage.label                  "Denna adressbok visar kontakter endast efter en sökning">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakter från fjärradressböcker visas inte förrän du söker">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arkiv">
 <!ENTITY fileMenu.accesskey                             "A">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Egenskaper">
-<!ENTITY propertiesCmd2.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny utskickslista">
 <!ENTITY newlistButton.accesskey                        "u">
-<!ENTITY editButton2.label                              "Egenskaper">
-<!ENTITY editButton2.accesskey                          "E">
 <!ENTITY newmsgButton.label                             "Skriv meddelande">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "IM">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt">
 <!ENTITY newlistButton.tooltip                          "Skapa en utskickslista">
-<!ENTITY editButton2.tooltip                            "Redigera markerad post">
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
 <!ENTITY deleteButton2.tooltip                          "Ta bort markerad post">
