@@ -2,24 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
-# Yaron <sh.yaron@gmail.com>
-# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
-# hatul <amiadb@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-#
--->
-<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -49,8 +32,6 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "ק">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
-<!ENTITY openAttachmentCmd.label "קבצים מצורפים">
-<!ENTITY openAttachmentCmd.accesskey "פ">
 <!ENTITY saveAsMenu.label "שמור">
 <!ENTITY saveAsMenu.accesskey "מ">
 <!ENTITY saveAsFileCmd.label "כקובץ">
@@ -76,17 +57,15 @@
 <!ENTITY renameFolder.accesskey "ש">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "כווץ תיקיות">
-<!ENTITY compactFolders.accesskey    "כ">
+<!ENTITY compactFolders.accesskey "כ">
 <!ENTITY emptyTrashCmd.label "רוקן אשפה">
-<!ENTITY emptyTrashCmd.accesskey    "א">
+<!ENTITY emptyTrashCmd.accesskey "א">
 <!ENTITY offlineMenu.label "לא־מקוון">
 <!ENTITY offlineMenu.accesskey "ל">
 <!ENTITY offlineGoOfflineCmd.label "עבוד לא־מקוון">
 <!ENTITY offlineGoOfflineCmd.accesskey "ל">
 <!ENTITY synchronizeOfflineCmd.label "הורד/סנכרן כעת...">
 <!ENTITY synchronizeOfflineCmd.accesskey "ס">
-<!ENTITY settingsOfflineCmd.label "הגדרות לא־מקוון...">
-<!ENTITY settingsOfflineCmd.accesskey "ג">
 <!ENTITY downloadSelectedCmd.label "קבל הודעות מסומנות">
 <!ENTITY downloadSelectedCmd.accesskey "מ">
 <!ENTITY downloadStarredCmd.label "קבל הודעות מסומנות בכוכבית">
@@ -123,9 +102,6 @@
 <!ENTITY selectFlaggedCmd.accesskey "מ">
 <!ENTITY menuFavoriteFolder.label "תיקייה מועדפת">
 <!ENTITY menuFavoriteFolder.accesskey "ע">
-<!ENTITY folderPropsCmd.label "מאפיינים…">
-<!ENTITY folderPropsFolderCmd.label "מאפייני תיקייה...">
-<!ENTITY folderPropsNewsgroupCmd.label "מאפייני קבוצת דיון...">
 <!ENTITY folderPropsCmd.accesskey "א">
 <!ENTITY undoDeleteMsgCmd.label "בטל מחיקת הודעה">
 <!ENTITY redoDeleteMsgCmd.label "בצע שוב מחיקת הודעה">
@@ -265,33 +241,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "הצג נספחים בתוך השורה">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "ש">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ה">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "התרחקות">
-<!ENTITY fullZoomReduceCmd.accesskey    "ק">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "איפוס">
-<!ENTITY fullZoomResetCmd.accesskey     "ר">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "שנה גודל טקסט בלבד">
-<!ENTITY fullZoomToggleCmd.accesskey    "א">
-<!ENTITY fullZoom.label                 "מרחק מתצוגה">
-<!ENTITY fullZoom.accesskey             "מ">
-
 <!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
 <!ENTITY pageSourceCmd.accesskey "מ">
 <!ENTITY pageSourceCmd.key "u">
@@ -350,8 +299,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "ס">
 <!ENTITY folderMenu.label "תיקייה">
 <!ENTITY folderMenu.accesskey "ת">
-<!ENTITY thisFolder.label "תיקייה זו">
-<!ENTITY thisFolder.accesskey "ז">
 <!ENTITY goRecentlyClosedTabs.label "לשוניות שנסגרו לאחרונה">
 <!ENTITY goRecentlyClosedTabs.accesskey "א">
 <!ENTITY startPageCmd.label "דף הפתיחה">
@@ -366,34 +313,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "ה">
 <!ENTITY archiveMsgCmd.label "העבר לארכיון">
 <!ENTITY archiveMsgCmd.accesskey "א">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "בטל הודעה">
 <!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "השב">
 <!ENTITY replyMsgCmd.accesskey "ש">
-<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "השב לשולח בלבד">
 <!ENTITY replySenderCmd.accesskey "ב">
-<!ENTITY replyNewsgroupCmd.label "השב לקבוצת דיון">
-<!ENTITY replyNewsgroupCmd.accesskey  "ק">
 <!ENTITY replyToAllMsgCmd.label "השב לכולם">
-<!ENTITY replyToAllMsgCmd.accesskey  "כ">
-<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToAllMsgCmd.accesskey "כ">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "השב לרשימה">
-<!ENTITY replyToListMsgCmd.accesskey  "ר">
-<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY replyToListMsgCmd.accesskey "ר">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "העבר">
 <!ENTITY forwardMsgCmd.accesskey "ע">
-<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "העבר בתור">
 <!ENTITY forwardAsMenu.accesskey "ר">
 <!ENTITY forwardAsInline.label "גוף הודעה">
 <!ENTITY forwardAsInline.accesskey "ג">
 <!ENTITY forwardAsAttachmentCmd.label "קובץ מצורף">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "ערוך כהודעה חדשה">
-<!ENTITY editMsgAsNewCmd.accesskey "ע">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "צור מסנן מהודעה…">
 <!ENTITY createFilter.accesskey "צ">
 <!ENTITY moveMsgToMenu.label "העבר">
@@ -416,10 +358,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "עקוב אחר נושא דיון">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "תייק כאן">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "העתק לכאן">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "תווית">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -465,12 +403,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "פתח בדיון">
 <!ENTITY openConversationCmd.accesskey "ד">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "פתח הודעת הזנה">
-<!ENTITY openFeedMessage.accesskey "פ">
-<!ENTITY openFeedWebPageInWindow.label "דף אינטרנט בחלון חדש">
-<!ENTITY openFeedWebPageInWindow.accesskey "א">
-<!ENTITY openFeedSummaryInWindow.label "תקציר בחלון חדש">
-<!ENTITY openFeedSummaryInWindow.accesskey "ת">
 <!ENTITY openFeedWebPageInMP.label "החלף בין דף אינטרנט ותקציר בחלונית ההודעה">
 <!ENTITY openFeedWebPageInMP.accesskey "ח">
 
@@ -492,8 +424,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY savedFiles.label "קבצים שמורים">
 <!ENTITY savedFiles.accesskey "ק">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "מסנני הודעות...">
-<!ENTITY filtersCmd.accesskey "ס">
 <!ENTITY filtersApply.label "הפעל מסננים על התיקייה">
 <!ENTITY filtersApply.accesskey "מ">
 <!ENTITY filtersApplyToSelection.label "הפעל מסננים על הודעות נבחרות">
@@ -506,16 +436,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "ח">
 <!ENTITY importCmd.label "ייבוא…">
 <!ENTITY importCmd.accesskey "י">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
+
+<!-- Developer Tools Submenu -->
 <!ENTITY errorConsoleCmd.label "מסוף שגיאות">
 <!ENTITY errorConsoleCmd.accesskey "ש">
-<!ENTITY accountManagerCmd.label "הגדרות חשבון…">
-<!ENTITY accountManagerCmd.accesskey "ה">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
-        which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "ה">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "קבל דואר">
 <!ENTITY newMsgButton.label "כתיבה">
 <!ENTITY replyButton.label "השב">
 <!ENTITY replyAllButton.label "השב לכולם">
@@ -572,19 +509,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagButton.tooltip "סמן הודעות בתוויות">
 <!ENTITY compactButton.tooltip "הסר הודעות שנמחקו מתיקייה מסומנת">
 
+<!-- Toolbar Button Popup -->
+
+<!-- Remote Content Button Popup -->
+
+<!-- Phishing Button Popup -->
+
+<!-- AppMenu Popup -->
+
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "תווית חדשה…">
 <!ENTITY addNewTag.accesskey "ת">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "שם">
 <!ENTITY folderSizeColumn.label "גודל">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "קבל הודעות">
 <!ENTITY folderContextGetMessages.accesskey "ק">
-<!ENTITY folderContextOpenNewWindow.label "פתיחה">
-<!ENTITY folderContextOpenNewWindow.accesskey "פ">
 <!ENTITY folderContextOpenNewTab.label "פתח בלשונית חדשה">
 <!ENTITY folderContextOpenNewTab.accesskey "ש">
 <!ENTITY folderContextNew.label "תת תיקייה חדשה…">
@@ -611,12 +553,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "חיפוש הודעות…">
 <!ENTITY folderContextSearchForMessages.accesskey "ח">
-<!ENTITY folderContextProperties.label "מאפיינים…">
-<!ENTITY folderContextProperties.accesskey "א">
 <!ENTITY folderContextFavoriteFolder.label "תיקייה מועדפת">
 <!ENTITY folderContextFavoriteFolder.accesskey "ע">
-<!ENTITY folderContextSettings.label "הגדרות…">
-<!ENTITY folderContextSettings.accesskey "ג">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "שם או דוא״ל מכילים:">
@@ -656,26 +594,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "נספחים">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה">
-<!ENTITY threadColumn.tooltip "לחץ להצגת נושאי דיון">
-<!ENTITY fromColumn.tooltip "לחץ למיון לפי מאת">
-<!ENTITY recipientColumn.tooltip "לחץ למיון לפי נמען">
-<!ENTITY subjectColumn.tooltip "לחץ למיון לפי נושא">
-<!ENTITY dateColumn.tooltip "לחץ למיון לפי תאריך">
-<!ENTITY priorityColumn.tooltip "לחץ למיון לפי עדיפות">
-<!ENTITY tagsColumn.tooltip "לחץ למיון לפי תוויות">
-<!ENTITY accountColumn.tooltip "לחץ למיון לפי חשבון">
-<!ENTITY statusColumn.tooltip "לחץ למיון לפי מצב">
-<!ENTITY sizeColumn.tooltip "לחץ למיון לפי גודל">
-<!ENTITY junkStatusColumn.tooltip "לחץ למיון לפי מצב זבל">
-<!ENTITY unreadColumn.tooltip "מספר הודעות שלא נקראו בנושא דיון">
-<!ENTITY totalColumn.tooltip "מספר כל ההודעות בנושא דיון">
-<!ENTITY readColumn.tooltip "לחץ למיון לפי הודעות שנקראו">
-<!ENTITY receivedColumn.tooltip "לחץ למיון לפי תאריך קבלה">
-<!ENTITY starredColumn.tooltip "לחץ למיון לפי כוכבית">
-<!ENTITY locationColumn.tooltip "לחץ למיון לפי מיקום">
-<!ENTITY idColumn.tooltip "לחץ למיון לפי סדר הקבלה">
-<!ENTITY attachmentColumn.tooltip "לחץ למיון לפי קבצים מצורפים">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "פתח הודעה בחלון חדש">
@@ -688,28 +606,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "ל">
 <!ENTITY contextOpenConversation.label "פתח הודעה בדיון">
 <!ENTITY contextOpenConversation.accesskey "ד">
-<!ENTITY contextEditAsNew.label "ערוך כחדש...">
-<!ENTITY contextEditAsNew.accesskey "ע">
 <!ENTITY contextArchive.label "העבר לארכיון">
 <!ENTITY contextArchive.accesskey "א">
 <!ENTITY contextReplySender.label "השב לשולח בלבד">
 <!ENTITY contextReplySender.accesskey "ש">
-<!ENTITY contextReplyNewsgroup.label "השב לקבוצת דיון">
-<!ENTITY contextReplyNewsgroup.accesskey "ק">
 <!ENTITY contextReplyAll.label "השב לכולם">
 <!ENTITY contextReplyAll.accesskey "כ">
 <!ENTITY contextReplyList.label "השב לרשימה">
 <!ENTITY contextReplyList.accesskey "ר">
 <!ENTITY contextForward.label "העבר">
 <!ENTITY contextForward.accesskey "ע">
-<!ENTITY contextForwardAsAttachment.label "העבר כקובץ מצורף">
-<!ENTITY contextForwardAsAttachment.accesskey "מ">
 <!ENTITY contextMoveMsgMenu.label "העבר אל">
 <!ENTITY contextMoveMsgMenu.accesskey "ע">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "אחרונים">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "א">
 <!ENTITY contextCopyMsgMenu.label "העתק אל">
 <!ENTITY contextCopyMsgMenu.accesskey "ת">
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
+  -->
 <!ENTITY contextSaveAs.label "שמור בשם...">
 <!ENTITY contextSaveAs.accesskey "ש">
 <!ENTITY contextPrint.label "הדפסה...">
@@ -719,47 +635,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "אפס עמודות לברירת המחדל">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "החל עמודות אל…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "תיקייה…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "תיקייה ותיקיות משנה…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "תיקייה זו">
 
@@ -774,63 +690,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.label "בטל השתקה">
 <!ENTITY contextUnmute.accesskey "ב">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "דואר זבל">
-<!ENTITY junkBarButton1.label "לא זבל">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "כדי להגן על הפרטיות שלך,  &brandShortName; חסם תוכן מרוחק בהודעה זו.">
-<!ENTITY loadRemoteContentButton3.label "הצג תוכן מרוחק">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "ייתכן והודעה זו היא הונאה.">
-<!ENTITY removePhishingBarButton1.label "התעלם מהאזהרה">
-<!ENTITY disablePhishingWarning1.label "נטרול איתור נוכלות לכל ההודעות">
-<!ENTITY reportPhishingError1.label "הודעה זו איננה הונאה.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "התעלם">
-<!ENTITY mdnBarIgnoreButton2.accesskey "ה">
-<!ENTITY mdnBarSendButton2.label "שליחת קבלה חוזרת">
-<!ENTITY mdnBarSendButton2.accesskey "ח">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
-     -->
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
-     This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+<!-- LOCALIZATION NOTE (search.label.base1):
+      This is the base of the empty text for the global search box. We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllMessages.label.base "חיפוש… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+  -->
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+  -->
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+  -->
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "הוספה לספר הכתובות...">
 <!ENTITY AddToAddressBook.accesskey "פ">
 <!ENTITY AddDirectlyToAddressBook.label "הוספה לספר כתובות">
 <!ENTITY AddDirectlyToAddressBook.accesskey "פ">
-<!ENTITY EditContact.label "ערוך איש קשר…">
-<!ENTITY EditContact.accesskey "ע">
 <!ENTITY ViewContact.label "הצג איש קשר">
 <!ENTITY ViewContact.accesskey "ה">
 <!ENTITY SubscribeToNewsgroup.label "הרשמה לקבוצת דיון">
@@ -875,14 +765,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Statusbar -->
 <!ENTITY statusText.label "הסתיים">
 
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "מזעור">
 <!ENTITY minimizeWindow.key "מ">
 <!ENTITY bringAllToFront.label "העברה לחזית">
 <!ENTITY zoomWindow.label "הגדלת חלון">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "העדפות…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "שרותים">
@@ -894,3 +783,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "הצג הכול">
 
+<!-- Mac OS X Dock Icon pop-up menu -->
