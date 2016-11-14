@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a la pestaña:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "¿Te gustaría mejorar tus búsquedas con sugerencias?">
