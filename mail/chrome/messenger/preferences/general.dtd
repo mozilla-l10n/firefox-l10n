@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "All'arrivo di un messaggio:">
 <!ENTITY playSound.label                  "Riproduci un suono">
-<!ENTITY playSound1.accesskey              "o">
+<!ENTITY playSound1.accesskey             "o">
 <!ENTITY showAnimatedAlert.label          "Mostra un avviso">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-<!ENTITY notificationAlertSettings.label  "È possibile disattivare gli avvisi nella sezione Notifiche delle Preferenze di Sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Ascolta">
 <!ENTITY play.accesskey                   "A">
 <!ENTITY systemsound.label                "Suono predefinito di sistema per nuova posta">
-<!ENTITY systemsoundMac.label             "Suono di avviso predefinito">
-<!ENTITY systemsoundMac.accesskey         "p">
 <!ENTITY systemsound.accesskey            "p">
 <!ENTITY customsound.label                "Utilizza questo file audio">
 <!ENTITY customsound.accesskey            "U">

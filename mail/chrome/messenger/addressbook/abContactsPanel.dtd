@@ -2,24 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label "Rubrica:">
-<!ENTITY addressbookPicker.accesskey "R">
-<!ENTITY searchInput.label "Cerca:">
-<!ENTITY searchInput.accesskey "e">
-<!ENTITY SearchNameOrEmail.label "Nome o email">
-<!ENTITY deleteAddrBookCard.label "Elimina">
-<!ENTITY deleteAddrBookCard.accesskey "E">
-<!ENTITY addrBookCardProperties.label "Proprietà">
-<!ENTITY addrBookCardProperties.accesskey "P">
-<!ENTITY addtoToFieldMenu.label "Aggiungi al campo A">
-<!ENTITY addtoToFieldMenu.accesskey "A">
-<!ENTITY addtoCcFieldMenu.label "Aggiungi al campo Cc">
-<!ENTITY addtoCcFieldMenu.accesskey "C">
-<!ENTITY addtoBccFieldMenu.label "Aggiungi al campo Ccn">
-<!ENTITY addtoBccFieldMenu.accesskey "n">
-<!ENTITY toButton.label "Aggiungi a A:">
-<!ENTITY toButton.accesskey "A">
-<!ENTITY ccButton.label "Aggiungi a Cc:">
-<!ENTITY ccButton.accesskey "C">
-<!ENTITY bccButton.label "Aggiungi a Ccn:">
-<!ENTITY bccButton.accesskey "n">
+
+<!ENTITY addressbookPicker.label            "Rubrica:">
+<!ENTITY addressbookPicker.accesskey        "R">
+<!ENTITY SearchNameOrEmail.label            "Nome o email">
+
+<!ENTITY addtoToFieldMenu.label             "Aggiungi al campo A">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Aggiungi al campo Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Aggiungi al campo Ccn">
+<!ENTITY addtoBccFieldMenu.accesskey        "n">
+<!ENTITY deleteAddrBookCard.label           "Elimina">
+<!ENTITY deleteAddrBookCard.accesskey       "E">
+
+<!ENTITY toButton.label                     "Aggiungi a A:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Aggiungi a Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Aggiungi a Ccn:">
+<!ENTITY bccButton.accesskey                "n">
