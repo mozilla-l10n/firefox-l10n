@@ -37,7 +37,7 @@
 <!ENTITY migrating.title                "Importando…">
 <!ENTITY migrating.label                "Estes itens estão sendo importados…">
 
-<!ENTITY selectProfile.title            "Perfil">
+<!ENTITY selectProfile.title            "Selecionar perfil">
 <!ENTITY selectProfile.label            "Estes perfis estão disponíveis para importação:">
 
 <!ENTITY done.title                     "Importação concluída">
