@@ -37,6 +37,6 @@
 <!ENTITY manageIdentities.accesskey	"M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label			"送信 (SMTP) サーバ:">
+<!ENTITY smtpName.label			"送信 (SMTP) サーバー:">
 <!ENTITY smtpName.accesskey		"u">
-<!ENTITY smtpDefaultServer.label	"既定のサーバを使用する">
+<!ENTITY smtpDefaultServer.label	"既定のサーバーを使用する">
