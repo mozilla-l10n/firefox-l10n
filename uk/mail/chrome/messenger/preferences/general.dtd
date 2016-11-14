@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
 <!ENTITY playSound.label                  "Відтворити звук">
-<!ENTITY playSound1.accesskey              "з">
+<!ENTITY playSound1.accesskey             "з">
 <!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
 <!ENTITY showAnimatedAlert.accesskey      "с">
-<!ENTITY notificationAlertSettings.label  "Попередження можна вимкнути в розділі сповіщень системних налаштувань.">
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Відтворити">
 <!ENTITY play.accesskey                   "в">
 <!ENTITY systemsound.label                "Стандартний системний звук для нової пошти">
-<!ENTITY systemsoundMac.label             "Звук системного повідомлення">
-<!ENTITY systemsoundMac.accesskey         "у">
 <!ENTITY systemsound.accesskey            "у">
 <!ENTITY customsound.label                "Використовувати наступний звуковий файл">
 <!ENTITY customsound.accesskey            "В">

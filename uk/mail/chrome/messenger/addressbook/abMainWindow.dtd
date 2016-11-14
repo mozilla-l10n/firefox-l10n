@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Адресна книга">
 <!ENTITY blankResultsPaneMessage.label                  "Ця адресна книга показує контакти лише після пошуку">
 <!ENTITY localResultsOnlyMessage.label                  "Контакти з віддалених адресних книг не показуються, поки ви не скористаєтесь пошуком">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Властивості">
-<!ENTITY propertiesCmd2.accesskey                       "т">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">
 <!ENTITY newlistButton.accesskey                        "С">
-<!ENTITY editButton2.label                              "Редагувати">
-<!ENTITY editButton2.accesskey                          "Р">
 <!ENTITY newmsgButton.label                             "Лист">
 <!ENTITY newmsgButton.accesskey                         "Л">
 <!ENTITY newIM.label                                    "Звісточку">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
 <!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
-<!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
 <!ENTITY newmsgButton.tooltip                           "Написати листа">
 <!ENTITY newIM.tooltip                                  "Надіслати миттєве повідомлення або чат">
 <!ENTITY deleteButton2.tooltip                          "Видалити вибраний елемент">
