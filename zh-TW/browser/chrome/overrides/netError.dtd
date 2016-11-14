@@ -44,6 +44,11 @@
 <p>&brandShortName; 因為某些原因無法載入此網頁。</p>
 ">
 
+<!ENTITY captivePortal.title "登入到網路">
+<!ENTITY captivePortal.longDesc "<p>這個網路可能會需要您先登入才能存取網際網路。</p>">
+
+<!ENTITY openPortalLoginPage.label "開啟登入頁面">
+
 <!ENTITY malformedURI.title "不正確的網址">
 <!ENTITY malformedURI.longDesc "<ul>
    <li>網址通常長的像
@@ -186,4 +191,3 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
 <!ENTITY prefReset.label "還原預設設定">
-

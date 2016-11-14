@@ -109,4 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "詳細資訊">
 <!ENTITY  browserContainersEnabled.label        "開啟容器分頁">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
+<!ENTITY  browserContainersSettings.label        "設定…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
