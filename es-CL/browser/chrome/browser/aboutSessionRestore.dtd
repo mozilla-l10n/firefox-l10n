@@ -49,12 +49,3 @@ their language.
 
 <!ENTITY welcomeback2.link.pageInfo2        "aprende más sobre lo que puedes hacer.">
 
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-<!ENTITY tabgroupsmigration.tabtitle            "Migra tus otros grupos de pestañas">
-<!ENTITY tabgroupsmigration.pagetitle2          "Hemos eliminado los grupos de pestañas, pero guardado tus pestañas">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Aprende sobre los complementos de reemplazo para los grupos de pestañas.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; ha guardado en marcadores todos tus grupos de pestañas, así que no has perdido nada.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Mostrar grupos de pestañas guardados como marcadores">
-<!ENTITY tabgroupsmigration.restoredescription  "También puede elegir restaurar algunos o todos tus grupos de pestañas en ventanas ahora mismo:">
-
