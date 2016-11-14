@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privatno surfanje">
 
 <!ENTITY trackingProtection.title                        "Zaštita od praćenja">
-<!ENTITY trackingProtection.description2                 "Neke web stranice koriste trackere koji mogu pratiti vašu aktivnost na Internetu. Sa zaštitom od praćenja Firefox će blokirati mnoge trackere koji mogu skupljati informacije o vašem surfanju.">
+<!ENTITY trackingProtection.description2                 "Neke web stranice koriste trackere koji mogu pratiti vašu aktivnost na Internetu. Firefox će zaštitom od praćenja blokirati mnoge trackere koji mogu skupljati informacije o vašem surfanju.">
 <!ENTITY trackingProtection.startTour1                   "Pogledajte kako ovo radi">
