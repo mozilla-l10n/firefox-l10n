@@ -1,10 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Title -->
-<!ENTITY mailListWindow.title           "새 목록">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "추가:">
+
 <!ENTITY ListName.label                 "목록 이름:">
 <!ENTITY ListNickName.label             "목록 별명:">
 <!ENTITY ListDescription.label          "설명:">
@@ -12,8 +13,10 @@
 <!ENTITY AddressTitle.label             "아래의 목록을 입력하거나 끌어서 가져오기:">
 <!ENTITY UpButton.label                 "위로 이동">
 <!ENTITY DownButton.label               "아래로 이동">
+
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
+
