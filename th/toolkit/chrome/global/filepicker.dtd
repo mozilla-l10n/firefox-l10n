@@ -10,7 +10,7 @@
 <!ENTITY filterMenuList.accesskey   "ช">
 <!ENTITY name.label             "ชื่อ">
 <!ENTITY size.label             "ขนาด">
-<!ENTITY lastModified.label     "แก้ไขล่าสุด">
+<!ENTITY lastModified.label     "เปลี่ยนแปลงล่าสุด">
 <!ENTITY showHiddenFiles.label  "แสดงไฟล์และไดเรกทอรีที่ซ่อนอยู่">
 <!ENTITY showHiddenFiles.accesskey  "แ">
 
