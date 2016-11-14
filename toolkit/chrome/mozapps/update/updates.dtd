@@ -26,15 +26,15 @@
 <!ENTITY  evangelism.desc                 "ขอแนะนำอย่างยิ่งว่า คุณควรปรับรุ่น &brandShortName; โดยด่วนที่สุดเท่าที่จะทำได้">
 
 <!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
-<!ENTITY  downloading.intro               "กำลังดาวน์โหลดชุดปรับรุ่น…">
-<!ENTITY  connecting.label                "เชื่อมต่อกับเซิร์ฟเวอร์การปรับรุ่น…">
+<!ENTITY  downloading.intro               "กำลังดาวน์โหลดการอัปเดต…">
+<!ENTITY  connecting.label                "กำลังเชื่อมต่อกับเซิร์ฟเวอร์อัปเดต…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับรุ่น แบบทบเพิ่มได้ดังนั้นขณะนี้โปรแกรมจึงกำลังดาวน์โหลด ชุดปรับรุ่นแบบเต็มแทน">
 
-<!ENTITY  viewDetails.tooltip             "ดูรายละเอียดของชุดปรับรุ่นนี้">
+<!ENTITY  viewDetails.tooltip             "ดูรายละเอียดการอัปเดตนี้">
 
 <!ENTITY  details.link                    "รายละเอียด">
 
-<!ENTITY  error.title                     "ปรับรุ่นไม่สำเร็จ">
+<!ENTITY  error.title                     "การอัปเดตล้มเหลว">
 
 <!ENTITY  error.label                     "มีปัญหาในการตรวจสอบ, ดาวน์โหลด, หรือ ติดตั้งชุดปรับรุ่นนี้ ไม่สามารถปรับรุ่น &brandShortName; ได้เพราะ :">
                                            

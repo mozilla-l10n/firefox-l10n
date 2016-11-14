@@ -41,17 +41,17 @@
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การปรับรุ่นเมื่อเร็ว ๆ นี้">
-<!ENTITY view.availableUpdates.label          "การปรับรุ่นที่ตรวจพบ">
+<!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้งานได้">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "ตรวจสอบการปรับรุ่น">
-<!ENTITY updates.checkForUpdates.accesskey    "ต">
-<!ENTITY updates.viewUpdates.label            "ดูการปรับรุ่นเมื่อเร็ว ๆ นี้">
-<!ENTITY updates.viewUpdates.accesskey        "ด">
+<!ENTITY updates.checkForUpdates.label        "ตรวจสอบการอัปเดต">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "ดูการอัปเดตเมื่อเร็ว ๆ นี้">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "ปรับรุ่นส่วนเสริมนี้โดยอัตโนมัติ">
+<!ENTITY updates.updateAddonsAutomatically.label     "อัปเดตส่วนเสริมโดยอัตโนมัติ">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "อ">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -75,8 +75,8 @@
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "แสดงข้อมูลเพิ่มเติม">
 <!ENTITY cmd.showDetails.accesskey            "ส">
-<!ENTITY cmd.findUpdates.label                "ค้นหาการปรับรุ่น">
-<!ENTITY cmd.findUpdates.accesskey            "ห">
+<!ENTITY cmd.findUpdates.label                "ค้นหาการอัปเดต">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "ตัวเลือก">
 <!ENTITY cmd.preferencesWin.accesskey         "ล">
 <!ENTITY cmd.preferencesUnix.label            "การตั้งค่า">
@@ -125,27 +125,27 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "รุ่น">
-<!ENTITY detail.lastupdated.label             "ปรับปรุงล่าสุด">
+<!ENTITY detail.lastupdated.label             "อัปเดตล่าสุด">
 <!ENTITY detail.creator.label                 "นักพัฒนา">
 <!ENTITY detail.homepage.label                "หน้าแรก">
 <!ENTITY detail.numberOfDownloads.label       "ดาวน์โหลด">
 
 <!ENTITY detail.contributions.description     "ผู้พัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนความต่อเนื่องของการพัฒนาโดยสมทบทุนสักเล็กน้อย">
 
-<!ENTITY detail.updateType                    "การปรับรุ่นอัตโนมัติ">
+<!ENTITY detail.updateType                    "การอัปเดตอัตโนมัติ">
 <!ENTITY detail.updateDefault.label           "ปริยาย">
-<!ENTITY detail.updateDefault.tooltip         "ติดตั้งการปรับปรุงโดยอัตโนมัติเฉพาะเมื่อเป็นค่าปริยาย">
+<!ENTITY detail.updateDefault.tooltip         "ติดตั้งการอัปเดตโดยอัตโนมัติเฉพาะเมื่อเป็นค่าปริยาย">
 <!ENTITY detail.updateAutomatic.label         "เปิด">
-<!ENTITY detail.updateAutomatic.tooltip       "ติดตั้งการปรับรุ่นโดยอัตโนมัติ">
+<!ENTITY detail.updateAutomatic.tooltip       "ติดตั้งการอัปเดตโดยอัตโนมัติ">
 <!ENTITY detail.updateManual.label            "ปิด">
-<!ENTITY detail.updateManual.tooltip          "ไม่ติดตั้งการปรับปรุงโดยอัตโนมัติ">
+<!ENTITY detail.updateManual.tooltip          "ไม่ติดตั้งการอัปเดตโดยอัตโนมัติ">
 <!ENTITY detail.home                          "หน้าแรก">
 <!ENTITY detail.repository                    "โพรไฟล์ส่วนเสริม">
 <!ENTITY detail.size                          "ขนาด">
 
-<!ENTITY detail.checkForUpdates.label         "ตรวจสอบการปรับรุ่น">
-<!ENTITY detail.checkForUpdates.accesskey     "ต">
-<!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการปรับรุ่นของส่วนเสริมนี้">
+<!ENTITY detail.checkForUpdates.label         "ตรวจสอบการอัปเดต">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
 <!ENTITY detail.showPreferencesWin.accesskey  "ล">
 <!ENTITY detail.showPreferencesWin.tooltip    "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
@@ -165,8 +165,8 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "ชื่อ">
 <!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
-<!ENTITY sort.dateUpdated.label               "ปรับปรุงล่าสุด">
-<!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันปรับรุ่น">
+<!ENTITY sort.dateUpdated.label               "อัปเดตล่าสุด">
+<!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันที่อัปเดต">
 <!ENTITY sort.relevance.label                 "ตรงกันที่สุด">
 <!ENTITY sort.relevance.tooltip               "เรียงตามความตรงกัน">
 <!ENTITY sort.price.label                     "ราคา">
@@ -190,7 +190,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "ปรับรุ่น">
+<!ENTITY addon.update.postfix                 "อัปเดต">
 <!ENTITY addon.undoAction.label               "เลิกทำ">
 <!ENTITY addon.undoAction.tooltip             "เลิกทำการกระทำนี้">
 <!ENTITY addon.undoRemove.label               "เลิกทำ">
@@ -198,11 +198,11 @@
 <!ENTITY addon.restartNow.label               "เริ่มการทำงานใหม่ตอนนี้">
 <!ENTITY addon.install.label                  "ติดตั้ง">
 <!ENTITY addon.install.tooltip                "ติดตั้งส่วนเสริมนี้">
-<!ENTITY addon.updateNow.label                "ปรับรุ่นเดี๋ยวนี้">
-<!ENTITY addon.updateNow.tooltip              "ติดตั้งการปรับรุ่นสำหรับส่วนเสริมนี้">
-<!ENTITY addon.includeUpdate.label            "รวมในการปรับรุ่น">
-<!ENTITY addon.updateAvailable.label          "พบการปรับรุ่น">
-<!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการปรับปรุง…">
+<!ENTITY addon.updateNow.label                "อัปเดตตอนนี้">
+<!ENTITY addon.updateNow.tooltip              "ติดตั้งการอัปเดตสำหรับส่วนเสริมนี้">
+<!ENTITY addon.includeUpdate.label            "รวมในการอัปเดต">
+<!ENTITY addon.updateAvailable.label          "มีการอัปเดตที่ใช้งานได้">
+<!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการอัปเดต…">
 <!ENTITY addon.releaseNotes.label             "บันทึกประจำรุ่น:">
 <!ENTITY addon.loadingReleaseNotes.label      "กำลังโหลด…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ขออภัย เราพบข้อผิดพลาดขณะโหลดบันทึกประจำรุ่น">
