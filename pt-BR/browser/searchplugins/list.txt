@@ -1,7 +1,0 @@
-bing
-buscape
-google
-mercadolivre
-twitter
-wikipedia-br
-yahoo-br
