@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Imenik">
 <!ENTITY blankResultsPaneMessage.label                  "Ta imenik bo prikazal stike samo po iskanju">
 <!ENTITY localResultsOnlyMessage.label                  "Stiki iz oddaljenih imenikov ne bodo prikazani, dokler jih ne iščete">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteka">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Lastnosti">
-<!ENTITY propertiesCmd2.accesskey                       "L">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "s">
 <!ENTITY newlistButton.label                            "Nov seznam">
 <!ENTITY newlistButton.accesskey                        "e">
-<!ENTITY editButton2.label                              "Lastnosti">
-<!ENTITY editButton2.accesskey                          "L">
 <!ENTITY newmsgButton.label                             "Sestavi">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Neposredno sporočilo">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Ustvari nov stik v imeniku">
 <!ENTITY newlistButton.tooltip                          "Ustvari nov seznam">
-<!ENTITY editButton2.tooltip                            "Uredi izbrani predmet">
 <!ENTITY newmsgButton.tooltip                           "Pošlji poštno sporočilo">
 <!ENTITY newIM.tooltip                                  "Pošlji neposredno sporočilo ali klepetaj">
 <!ENTITY deleteButton2.tooltip                          "Izbriši izbrani predmet">
