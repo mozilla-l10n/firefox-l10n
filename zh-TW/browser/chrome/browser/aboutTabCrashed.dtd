@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "當有更多資訊時請 Email 給我">
 <!ENTITY tabCrashed.reportSent "錯誤報告已送出，感謝您幫忙讓 &brandShortName; 變得更好！">
 <!ENTITY tabCrashed.requestAutoSubmit "要求背景分頁">
+<!ENTITY tabCrashed.autoSubmit "可調整偏好設定，自動送出紀錄到的錯誤報告（也可避免未來繼續收到這樣的訊息）">
