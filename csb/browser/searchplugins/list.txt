@@ -1,7 +1,0 @@
-google
-wp-pl
-allegro-pl
-wikipedia-csb
-pwn-pl
-merlin-pl
-fbc-pl
