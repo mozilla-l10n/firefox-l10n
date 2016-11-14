@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Glista d'e-mail">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Agiuntar a: ">
 
