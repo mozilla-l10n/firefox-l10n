@@ -114,9 +114,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Recursos">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
-<!ENTITY aboutSupport.graphicsFailureLogTitle "Log de falhas">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de falhas">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-<!ENTITY aboutSupport.graphicsDecisionLogTitle "Log de decisão">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisões">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Proteção contra travamentos desativada">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluções alternativas">
