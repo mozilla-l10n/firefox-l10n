@@ -10,7 +10,7 @@
 
 <!ENTITY defaultColors.label        "Initen imezwar n umeɣri (Ur sbaduy ara initen ɣef usebter)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Seqadec initen inek:">
+<!ENTITY customColors.label         "Seqadec initen-inek:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "Aḍris amagnu">

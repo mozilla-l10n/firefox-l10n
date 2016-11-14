@@ -51,7 +51,7 @@
 <!ENTITY siteUrl.label                "Tansa n teẓrigt (amedya: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Tansa  FTP:// neɣ HTTP:// i k-d-imidd  ISP yineqk neɣ ameẓlu n tnezduɣt web.">
-<!ENTITY browseUrl.label              "Tansa HTTP n usebter inek agejdan (amedya.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.label              "Tansa HTTP n usebter-inek agejdan (amedya.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "tansa  HTTP:// n ukaram inek agejdan (ur sedday ara isem n ufaylu)">
 <!ENTITY username.label               "Isem n useqdac:">
