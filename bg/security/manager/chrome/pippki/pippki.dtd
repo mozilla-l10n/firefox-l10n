@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Избор на сертификат, който да се представи за идентификация:">
 <!ENTITY clientAuthAsk.message3 "Подробности за избрания сертификат:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Избор на сертификат">
-<!ENTITY certPicker.info  "Сертификат:">
-<!ENTITY certPicker.detailsLabel "Подробности за избрания сертификат:">
-
 <!ENTITY pkcs12.setpassword.title  "Избор на парола за резервно копие на сертификат">
 <!ENTITY pkcs12.setpassword.message  "Паролата за резервно копие на сертификат защитава файла с резервно копие, който създавате. Трябва да поставите паролата, за да продължи създаването на резервно копие.">
 <!ENTITY pkcs12.setpassword.label1 "Парола на резервното копие на сертификат:">
