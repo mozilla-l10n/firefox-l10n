@@ -2,22 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY addressbookPicker.label            "Catálogo de endereços:">
 <!ENTITY addressbookPicker.accesskey        "t">
-<!ENTITY searchInput.label                  "Localizar:">
-<!ENTITY searchInput.accesskey              "z">
 <!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
 
-<!ENTITY deleteAddrBookCard.label           "Excluir">
-<!ENTITY deleteAddrBookCard.accesskey       "x">
-<!ENTITY addrBookCardProperties.label       "Propriedades">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Adicionar ao campo Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Adicionar ao campo Cco">
 <!ENTITY addtoBccFieldMenu.accesskey        "d">
+<!ENTITY deleteAddrBookCard.label           "Excluir">
+<!ENTITY deleteAddrBookCard.accesskey       "x">
 
 <!ENTITY toButton.label                     "Adicionar ao Para:">
 <!ENTITY toButton.accesskey                 "P">

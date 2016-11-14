@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
 <!ENTITY blankResultsPaneMessage.label                  "Esse catálogo de endereços mostra os contatos só depois de uma pesquisa">
 <!ENTITY localResultsOnlyMessage.label                  "Contatos do catálogo de endereços remotos não são mostradas até que você pesquise">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
 <!ENTITY fileMenu.accesskey                             "A">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Propriedades">
-<!ENTITY propertiesCmd2.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Propriedades">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Nova msg">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Msg instantânea">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
-<!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
