@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header             "Halvad uudised kõigepealt: see kaart jooksis kokku">
-<!ENTITY tabCrashed.message            "Nüüd head uudised: sa võid selle kaardi lihtsalt sulgeda, taastada või taastada kõik kokkujooksnud kaardid.">
-<!ENTITY tabCrashed.sendReport         "Edaspidiste halbade uudiste vältimiseks anna meile sellest veast teada">
-<!ENTITY tabCrashed.includeURL         "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
-<!ENTITY tabCrashed.commentPlaceholder "Lisa kommentaar (kommentaarid on avalikult nähtavad)">
-<!ENTITY tabCrashed.emailPlaceholder   "Sisesta siia oma e-posti aadress">
-<!ENTITY tabCrashed.emailMe            "Saadetakse e-kiri, kui tekib rohkem teavet">
-<!ENTITY tabCrashed.crashReporter      "Mozilla vearaportid">
-<!ENTITY tabCrashed.reportSent         "Vearaport on juba saadetud. Täname, et aitad &brandShortName;i paremaks teha!">
-<!ENTITY tabCrashed.closeTab           "Sulge see kaart">
-<!ENTITY tabCrashed.restoreTab         "Taasta see kaart">
-<!ENTITY tabCrashed.restoreAll         "Taasta kõik kokkujooksnud kaardid">
+<!ENTITY tabCrashed.closeTab "Sulge see kaart">
+<!ENTITY tabCrashed.restoreTab "Taasta see kaart">
+<!ENTITY tabCrashed.restoreAll "Taasta kõik kokkujooksnud kaardid">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.emailPlaceholder "Sisesta siia oma e-posti aadress">
+<!ENTITY tabCrashed.emailMe "Saadetakse e-kiri, kui tekib rohkem teavet">
+<!ENTITY tabCrashed.reportSent "Vearaport on juba saadetud. Täname, et aitad &brandShortName;i paremaks teha!">
