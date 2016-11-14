@@ -2,36 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label "Propiedades del servidor de directorios">
-<!ENTITY directoryName.label "Nombre:">
-<!ENTITY directoryName.accesskey "N">
-<!ENTITY directoryHostname.label "Servidor:">
-<!ENTITY directoryHostname.accesskey "o">
-<!ENTITY directoryBaseDN.label "DN base:">
-<!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "Buscar">
-<!ENTITY findButton.accesskey "B">
-<!ENTITY directorySecure.label "Usar conexión segura (SSL)">
-<!ENTITY directorySecure.accesskey "U">
-<!ENTITY directoryLogin.label "DN para inicio de sesión:">
-<!ENTITY directoryLogin.accesskey "i">
-<!ENTITY General.tab "General">
-<!ENTITY Offline.tab "Desconectado">
-<!ENTITY Advanced.tab "Avanzadas">
-<!ENTITY portNumber.label "Número de puerto:">
-<!ENTITY portNumber.accesskey "p">
-<!ENTITY searchFilter.label "Filtro de búsqueda:">
-<!ENTITY searchFilter.accesskey "F">
-<!ENTITY scope.label "Alcance:">
-<!ENTITY scope.accesskey "c">
-<!ENTITY scopeOneLevel.label "Un nivel">
-<!ENTITY scopeOneLevel.accesskey "l">
-<!ENTITY scopeSubtree.label "Subárbol">
-<!ENTITY scopeSubtree.accesskey "S">
-<!ENTITY return.label "No devolver más que esto">
-<!ENTITY return.accesskey "r">
-<!ENTITY results.label "resultados">
-<!ENTITY offlineText.label "Puede descargar una copia en local de este directorio para poder trabajar con ella cuando este desconectado.">
+<!ENTITY directoryName.label               "Nombre:">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Servidor:">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "DN base:">
+<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY findButton.label                  "Buscar">
+<!ENTITY findButton.accesskey              "B">
+<!ENTITY directorySecure.label             "Usar conexión segura (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.label              "DN para inicio de sesión:">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY General.tab                       "General">
+<!ENTITY Offline.tab                       "Desconectado">
+<!ENTITY Advanced.tab                      "Avanzadas">
+<!ENTITY portNumber.label                  "Número de puerto:">
+<!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.label                "Filtro de búsqueda:">
+<!ENTITY searchFilter.accesskey            "F">
+<!ENTITY scope.label                       "Alcance:">
+<!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.label               "Un nivel">
+<!ENTITY scopeOneLevel.accesskey           "l">
+<!ENTITY scopeSubtree.label                "Subárbol">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "No devolver más que esto">
+<!ENTITY return.accesskey                  "r">
+<!ENTITY results.label                     "resultados">
+<!ENTITY offlineText.label                 "Puede descargar una copia en local de este directorio para poder trabajar con ella cuando este desconectado.">
 <!ENTITY saslMechanism.label               "Método de ingreso: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Simple">
@@ -43,4 +42,4 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth "36em">
+<!ENTITY newDirectoryWidth                 "36em">
