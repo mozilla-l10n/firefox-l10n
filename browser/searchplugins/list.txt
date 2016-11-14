@@ -1,5 +1,0 @@
-bing
-google
-twitter
-wikipedia-ne
-yahoo
