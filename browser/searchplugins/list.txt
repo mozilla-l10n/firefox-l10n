@@ -1,5 +1,0 @@
-bing
-bookplus-fi
-google
-wikipedia-fi
-yahoo-fi
