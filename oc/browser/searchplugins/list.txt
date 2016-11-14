@@ -1,6 +1,0 @@
-amazon-france
-bing
-google
-wikipedia-oc
-wiktionary-oc
-yahoo-france
