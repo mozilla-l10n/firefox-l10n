@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nombre de dispositivo:">
-<!ENTITY syncDeviceName.accesskey   "N">
 <!ENTITY fxaSyncDeviceName.label       "Nombre de dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambiar nombre de dispositivo…">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
