@@ -1,6 +1,0 @@
-amazon-en-GB
-google
-palasprint
-termau
-wikipedia-cy
-yahoo-en-GB
