@@ -2,15 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mailListWindow.title "Lista di distribuzione">
-<!ENTITY addToAddressBook.label "Aggiungi a: ">
-<!ENTITY ListName.label "Nome della lista: ">
-<!ENTITY ListNickName.label "Soprannome della lista: ">
-<!ENTITY ListDescription.label "Descrizione: ">
-<!ENTITY AddressTitle.label "Inserire gli indirizzi email per aggiungerli alla lista di distribuzione:">
-<!ENTITY UpButton.label "Sposta in alto">
-<!ENTITY DownButton.label "Sposta in basso">
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "S">
-<!ENTITY ListDescription.accesskey "D">
+<!-- Title -->
+<!-- Labels -->
+<!ENTITY addToAddressBook.label         "Aggiungi a: ">
+
+<!ENTITY ListName.label                 "Nome della lista: ">
+<!ENTITY ListNickName.label             "Soprannome della lista: ">
+<!ENTITY ListDescription.label          "Descrizione: ">
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Inserire gli indirizzi email per aggiungerli alla lista di distribuzione:">
+<!ENTITY UpButton.label                 "Sposta in alto">
+<!ENTITY DownButton.label               "Sposta in basso">
+
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "N">
+<!ENTITY ListNickName.accesskey         "S">
+<!ENTITY ListDescription.accesskey      "D">
+
