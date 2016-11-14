@@ -1,7 +1,0 @@
-amazon-en-GB
-aol-en-GB
-bing
-google
-twitter
-wikipedia
-yahoo-en-GB
