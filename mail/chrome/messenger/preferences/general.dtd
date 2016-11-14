@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">
-<!ENTITY playSound1.accesskey              "c">
+<!ENTITY playSound1.accesskey             "c">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-<!ENTITY notificationAlertSettings.label  "Alertas podem ser desativados no Painel de Notificações das Preferências do Sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
-<!ENTITY systemsoundMac.label             "Som de alerta do sistema">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Usar este arquivo de som:">
 <!ENTITY customsound.accesskey            "U">
