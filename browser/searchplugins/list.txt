@@ -1,4 +1,0 @@
-amazondotcom
-google
-wikipedia-si
-yahoo
