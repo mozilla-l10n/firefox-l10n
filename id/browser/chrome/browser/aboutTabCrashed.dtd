@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Pertama-tama: kabar buruk: Tab ini mogok">
-<!ENTITY tabCrashed.message "Kabar baiknya: Anda cukup menutup tab ini saja, memulihkannya, atau memulihkan semua tab yang mogok.">
-<!ENTITY tabCrashed.sendReport "Kirimkan laporan mogok untuk membantu mencegah kabar buruk lainnya">
-<!ENTITY tabCrashed.includeURL "Sertakan alamat laman web yang terakhir ditampilkan">
-<!ENTITY tabCrashed.commentPlaceholder "Tambahkan komentar (ditampilkan secara publik)">
-<!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat email Anda di sini">
-<!ENTITY tabCrashed.emailMe "Kirimi saya email saat informasi lebih lanjut tersedia">
-<!ENTITY tabCrashed.crashReporter "Pelapor Mogok Mozilla">
-<!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Tutup Tab Ini">
 <!ENTITY tabCrashed.restoreTab "Pulihkan Tab Ini">
 <!ENTITY tabCrashed.restoreAll "Pulihkan Semua Tab Mogok">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat email Anda di sini">
+<!ENTITY tabCrashed.emailMe "Kirimi saya email saat informasi lebih lanjut tersedia">
+<!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
