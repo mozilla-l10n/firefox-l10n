@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Pilih sijil untuk dijadikan sebagai pengenalan:">
 <!ENTITY clientAuthAsk.message3 "Perincian sijil terpilih:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Pilih Sijil">
-<!ENTITY certPicker.info  "Sijil:">
-<!ENTITY certPicker.detailsLabel "Perincian sijil terpilih:">
-
 <!ENTITY pkcs12.setpassword.title  "Pilih Kata laluan Sandaran Sijil">
 <!ENTITY pkcs12.setpassword.message  "Kata laluan sandaran sijil yang anda tetapkan di sini melindungi fail sandaran yang anda akan cipta.  Anda mesti menetapkan kata laluan untuk meneruskan sandaran.">
 <!ENTITY pkcs12.setpassword.label1 "Kata laluan sandaran sijil:">
