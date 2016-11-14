@@ -16,10 +16,9 @@
 
 <!ENTITY newMessagesArrive.label          "Када нове поруке стигну:">
 <!ENTITY playSound.label                  "Пусти звук">
-<!ENTITY playSound1.accesskey              "з">
+<!ENTITY playSound1.accesskey             "з">
 <!ENTITY showAnimatedAlert.label          "Прикажи узбуну">
 <!ENTITY showAnimatedAlert.accesskey      "б">
-<!ENTITY notificationAlertSettings.label  "Узбуне могу бити искључене у обавештајној површи системских поставки.">
 <!ENTITY customizeMailAlert.label         "Прилагоди…">
 <!ENTITY customizeMailAlert.accesskey     "д">
 
@@ -29,8 +28,6 @@
 <!ENTITY play.label                       "Пусти">
 <!ENTITY play.accesskey                   "П">
 <!ENTITY systemsound.label                "Подразумевани системски звук за нову пошту">
-<!ENTITY systemsoundMac.label             "Системски звук узбуне">
-<!ENTITY systemsoundMac.accesskey         "и">
 <!ENTITY systemsound.accesskey            "и">
 <!ENTITY customsound.label                "Користи следећу звучну датотеку">
 <!ENTITY customsound.accesskey            "р">

@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Именик">
 <!ENTITY blankResultsPaneMessage.label                  "Овај именик приказује контакте само након претраживања">
 <!ENTITY localResultsOnlyMessage.label                  "Контакти из удаљених именика нису приказани док не започнете претрагу">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Датотека">
 <!ENTITY fileMenu.accesskey                             "д">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Својства">
-<!ENTITY propertiesCmd2.accesskey                       "ј">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "к">
 <!ENTITY newlistButton.label                            "Нови списак">
 <!ENTITY newlistButton.accesskey                        "с">
-<!ENTITY editButton2.label                              "Својства">
-<!ENTITY editButton2.accesskey                          "ј">
 <!ENTITY newmsgButton.label                             "Писање">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Инстант порука">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Направи нови контакт у именику">
 <!ENTITY newlistButton.tooltip                          "Направи нови списак">
-<!ENTITY editButton2.tooltip                            "Уреди изабрану ставку">
 <!ENTITY newmsgButton.tooltip                           "Пошаљи е-поруку">
 <!ENTITY newIM.tooltip                                  "Пошаљи инстант поруку или ћаскај">
 <!ENTITY deleteButton2.tooltip                          "Обриши изабрану ставку">
