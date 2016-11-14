@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "Cuando aporten mensaxes nuevos:">
 <!ENTITY playSound.label                  "Reproducir un soníu">
-<!ENTITY playSound1.accesskey              "o">
+<!ENTITY playSound1.accesskey             "o">
 <!ENTITY showAnimatedAlert.label          "Amosar un avisu/alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
@@ -28,8 +28,6 @@
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "r">
 <!ENTITY systemsound.label                "Soníu por defeutu del sistema pa corréu nuevu">
-<!ENTITY systemsoundMac.label             "Soníu d'avisu del sistema">
-<!ENTITY systemsoundMac.accesskey         "m">
 <!ENTITY systemsound.accesskey            "n">
 <!ENTITY customsound.label                "Usar el siguiente ficheru de soníu">
 <!ENTITY customsound.accesskey            "U">
