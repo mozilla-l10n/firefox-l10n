@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
 
+<!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; S အားတပ်ဆင်မည်">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; သည်သင့်အား လျှို့ ၀က်သောစကားလုံးများ၊မှတ်ဉာဏ်များ ၀တ်ဆိုဒ်များအား သင်၏စက်ကိရိယားအားလုံးတွင်သုံးစွဲရယူနိုင်စေသည်။">
+
 <!-- The page shown when logged in... -->
+
 <!-- Login error feedback -->
-
-
 <!ENTITY updatePass.label             "မွမ်းမံချက်">
 <!ENTITY resetPass.label              "ပြန်ချိန်တယ်">
-<!-- Manage Account -->
 
+<!-- Manage Account -->
 <!ENTITY manageAccount.label          "n အကောင့်အားပြင်ဆင်မည်">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "ပတ်စ်၀တ်ပြောင်းမည်...">
@@ -35,37 +35,36 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY engine.addons.accesskey    "ပ">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "c စက်ပစ္စည်းအမည်:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "ကိရိယာအမည်">
 <!ENTITY changeSyncDeviceName.label "ကိရိယာအမည်ကို ပြောင်းလဲရန်…">
 <!ENTITY cancelChangeSyncDeviceName.label "ပယ်​ဖျက်ပါ">
 <!ENTITY saveChangeSyncDeviceName.label "သိမ်းဆည်းပါ">
 <!ENTITY unlinkDevice.label           "ဤကိရိယားအားဖြုတ်မည်">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ">
 <!ENTITY prefs.ppLink.label         "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
-<!-- Firefox Accounts stuff -->
 
+<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "ပရိုက်ဗစ်ဆီ သတိပေးချက်">
 <!ENTITY determiningAcctStatus.label     "သင့်အကောင့်အခြေအနေ အားရယူနေသှ် ...">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "​သှ် အတည်မပြု ရသေးပါ">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "ပြန်လည်ချိတ်ဆက် ရန် အကောင့်ဖြင့် ဝင်ရောက်ပါ ">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -90,17 +89,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "၀င်ပါ">
 
 <!ENTITY signedIn.engines.label       "ကိရိယာအားလုံးကို တပြေးညီ ဖြစ်စေပါ">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-
 <!ENTITY mobilePromo3.start            "ထိုစနစ်အတွက် မီးမြေခွေးကို ဆွဲယူကူးပါ၊ ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " သို့မဟုတ် ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">

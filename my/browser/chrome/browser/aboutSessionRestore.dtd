@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "ယခင်အသုံးပြုခဲ့သည့်အပိုင်းကို ပြန်ဖွင့်ပါ">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "အားနာပါတယ်၊ စိတ်မကောင်းပါဘူး။">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ဟာ သင့်ရဲ့ ၀င်းဒိုးနဲ့ စာအမှတ်များကို ပြန်ဖေါ်ဖို့ အခက်အခဲ ရှိနေတယ်။ ဒါဟာ လတ်တလော ဖွင့်နေတဲ့ ကွန်ရက် စာမျက်နှာ တခုကြောင့် ဖြစ်တယ်။">
 <!ENTITY restorepage.tryThis        "သင် စမ်းကြည့်နိုင်တယ် - ">
@@ -21,10 +21,10 @@
 <!ENTITY restorepage.listHeader     "၀င်းဒိုးများနှင့် တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "၀င်းဒိုး &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "စကြစို့။">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -36,25 +36,16 @@
 
 <!ENTITY welcomeback2.label.restoreAll  "ဝင်းဒိုးနှင့် တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
 <!ENTITY welcomeback2.label.restoreSome "သင်ကြည့်ချင်သည့်တစ်ခုကို ပြန်ဖွင့်ရန်">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "သင့်ပေါင်းစပ်ပရိုဂရမ်များနှင့် ပြုပြင်ချက်များကို ဖယ်ရှားပြီးပါပြီ။ ထို့ပြင် သင့်ဘရောက်ဇာအပြင်အဆင်များကိုလည်း မူလအတိုင်း ပြန်လည်သတ်မှတ်ပြီးပါပြီ။ အကယ်၍ ဤဆောင်ရွက်ချက်သည် သင့်ပြဿနာကို မပြင်ဆင်နိုင်ပါက၊ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "သင်အသုံးပြုနိုင်သည်များကို ပိုမိုလေ့လာရန်။">
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-
-<!ENTITY tabgroupsmigration.tabtitle            "သင်၏ အခြားတပ်ဗ်အစုများကို ပူးပေါင်းပါ">
-<!ENTITY tabgroupsmigration.pagetitle2          "ကျွန်တော်တို့ တပ်ဗ်အစုများကို ဖျက်ထားသည်။ သို့သော် သင့်တပ်ဗ်များကို သိမ်းထားပါသည်။">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "တပ်ဗ်အစုများနေရာတွင် အစားထိုးသည့် အတ်အွန်များအကြောင်း ကြည့်ရှုပါ။">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; သည် သင့်တပ်ဗ်အစုများအားလုံးကို မှတ်သားပြီးပါပြီ။ ထို့အတွက်ကြောင့် မည်သည့်အရာမျှ မဆုံးရှုံးတော့ပါ။">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "မှတ်သားထားသည့် တပ်ဗ်အစုများကို ပြရန်">
-<!ENTITY tabgroupsmigration.restoredescription  "သင်သည် သိမ်းထားသည့် တပ်ဗ်အစုများ အားလုံး (သို့) အချို့ကို ဝင်းဒိုးများအဖြစ်သို့ မူလအတိုင်း ပြန်လည်ထုတ်ယူရန် ရွေးချယ်နိုင်သည်။">
 

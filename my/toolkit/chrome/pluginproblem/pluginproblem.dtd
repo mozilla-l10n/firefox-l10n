@@ -2,21 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
-     is not supported on some devices. Include a trailing space as needed. -->
-<!ENTITY unsupportedPlatform.pre                             "ဝမ်းနည်းပါတယ် &brandShortName; ပေါ်တွင် Flash မသုံးဆွဲနိုင်ပါ။ ">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "ဆက်လေ့လာ…">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
-
-<!ENTITY missingPlugin                                       "ယခု ပုံစာကိုယ် အားပြသရန် ထပ်ပေါင်းဆော့ဝဲလ် တစ်ခုလိုသည်။">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ထပ်ပေါင်းဆော့ဝဲလ်အား သုံးရန် ဤတွင်ထိပါ">
 <!ENTITY clickToActivatePlugin                               "ထပ်ပေါင်းဆော့ဝဲလ် အသက်သွင်း">
 <!ENTITY checkForUpdates                                     "အသစ်ဆွဲချမှုများအား စစ်ဆေးပါ…">
-<!ENTITY disabledPlugin                                      "ယခုထပ်ပေါင်းဆော့ဝဲလ်အားပိတ်ထားပါ">
 <!ENTITY blockedPlugin.label                                 "သင့်ကို ကာကွယ်ရန်အတွက် ယခု ထပ်ပေါင်းဆော့ဝဲလ်အား ပိတ်ထားသှ်">
 <!ENTITY hidePluginBtn.label                                 "ထပ်ပေါင်းဆော့ဝဲလ်အား ဖွက်ထားပါ">
 <!ENTITY managePlugins                                       "ထပ်ပေါင်းဆော့ဝဲလ်အား စီမံခန့်ခွဲပါ…">

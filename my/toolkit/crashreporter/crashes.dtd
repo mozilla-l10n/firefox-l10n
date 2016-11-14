@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "ပျက်စီးခြင်း ထုတ်ပြန်ချက်များကို တင်သွင်းပါ">
 <!ENTITY id.heading                 "ထုတ်ပြန်ချက် ID">
-<!ENTITY date.heading               "တင်သွင်းတဲ့ နေ့စွဲ">
 <!ENTITY noReports.label            "ပျက်စီးမှု ထုတ်ပြန်ချက်များကို တင်သွင်းမထားဘူး။">
 <!ENTITY noConfig.label             "ဒီလုပ်ငန်းသုံးကိရိယာကို ပျက်စီးမှု ထုတ်ပြန်ချက်များ ပြသဖို့ ဖန်တီးမထားဘူး။ ဦးစားပေးချက် <code>breakpad.reportURL</code> ကို ချမှတ်ရမယ်။">
 <!ENTITY clearAllReports.label      "တင်ပြချက်အားလုံးကိုဖျက်ပစ်မည်။">
-
