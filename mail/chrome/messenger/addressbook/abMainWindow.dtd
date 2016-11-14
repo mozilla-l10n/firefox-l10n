@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Llibreta de direiciones">
 <!ENTITY blankResultsPaneMessage.label                  "Esta llibreta de direiciones namái amuesa contautos dempués d'una gueta">
 <!ENTITY localResultsOnlyMessage.label                  "Nun s'amuesen los contautos d'una llibreta de direiciones remota fasta que guetes">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ficheru">
 <!ENTITY fileMenu.accesskey                             "i">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Propiedaes">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Llista nueva">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Propiedaes">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Redactar">
 <!ENTITY newmsgButton.accesskey                         "t">
 <!ENTITY newIM.label                                    "IM">
@@ -147,7 +144,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear un contautu nuevu na llibreta de direiciones">
 <!ENTITY newlistButton.tooltip                          "Crear llista nueva">
-<!ENTITY editButton2.tooltip                            "Editar l'elementu esbilláu">
 <!ENTITY newmsgButton.tooltip                           "Unviar un mensaxe de corréu">
 <!ENTITY newIM.tooltip                                  "Unviar un mensaxe o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip                          "Desaniciar elementu esbilláu">
