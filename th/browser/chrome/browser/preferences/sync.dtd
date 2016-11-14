@@ -38,7 +38,6 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "ชื่ออุปกรณ์:">
-<!ENTITY syncDeviceName.accesskey   "อ">
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
 <!ENTITY changeSyncDeviceName.label "เปลี่ยนชื่ออุปกรณ์…">
 <!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
