@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Amarag n umiḍan n udiwenni usrid">
 
 <!ENTITY accountProtocolTitle.label   "Aẓeṭṭa n udiwenni usrid">
-<!ENTITY accountProtocolInfo.label    "Ma ulac aɣilif fren aẓeṭṭa n umiḍan inek">
+<!ENTITY accountProtocolInfo.label    "Ma ulac aɣilif fren aẓeṭṭa n umiḍan-inek">
 <!ENTITY accountProtocolField.label   "Aẓeṭṭa:">
 <!ENTITY accountProtocolGetMore.label "Awi-d ugar...">
 
@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Lɣu-yi-d ɣef iznan imaynuten">
 <!ENTITY accountAliasGroupbox.caption "Tabzimt tadigant">
 <!ENTITY accountAliasField.label      "Tabzimt:">
-<!ENTITY accountAliasInfo.label       "Ay-agi ad-yettwasken deg usqerdec inek ticki tettmeslayeḍ, inermisen inmeggagen ur tettwalin ara.">
+<!ENTITY accountAliasInfo.label       "Ay-agi ad-yettwasken deg usqerdec-inek ticki tettmeslayeḍ, inermisen inmeggagen ur tettwalin ara.">
 <!ENTITY accountProxySettings.caption "Iɣewwwaṛen n upṛuksi">
 <!ENTITY accountProxySettings.change.label     "Snifel...">
 <!ENTITY accountProxySettings.change.accessKey "n">

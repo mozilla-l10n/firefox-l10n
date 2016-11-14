@@ -3,5 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Talast n usekles tebbeḍ">
-<!ENTITY fileExceedsQuota.description "Tebbḍeḍ ɣer talast n 2 GAṬ n usekles n umiḍan inek .">
-<!ENTITY fileExceedsQuota.description1 "Aseqdec inek amiran n weḥraz  #XXX GAṬ.">
+<!ENTITY fileExceedsQuota.description "Tebbḍeḍ ɣer talast n 2 GAṬ n usekles n umiḍan-inek .">
+<!ENTITY fileExceedsQuota.description1 "Aseqdec-inek amiran n weḥraz  #XXX GAṬ.">

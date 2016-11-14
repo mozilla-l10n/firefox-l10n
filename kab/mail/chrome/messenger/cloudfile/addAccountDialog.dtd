@@ -5,9 +5,9 @@
 <!ENTITY addAccountDialog.menuTitle "Fren ibenk n usekles s srid">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Isem n umiḍan:">
-<!ENTITY addAccountDialog.noAccountText "Suref iyi, acu kan lqem inek n tura n &brandShortName; yettaǧa kan yiwen n umiḍan seg tenfa n usekles s srid.">
+<!ENTITY addAccountDialog.noAccountText "Suref iyi, acu kan lqem-inek n tura n &brandShortName; yettaǧa kan yiwen n umiḍan seg tenfa n usekles s srid.">
 <!ENTITY addAccountDialog.createAccountText2 "Tzemreḍ ad tazneḍ imeddayen meqqren s useqdec n yiwen gar imeẓla n uḥraz usriden. Ma ulac aɣilif, sbadu amiḍan yellan neɣ rnu amiḍan amaynut.">
 <!ENTITY addAccountDialog.authorizing "Asenqed n tsirag....">
-<!ENTITY addAccountDialog.error "Teḍra-d tuccḍa di twila n umiḍan inek!">
+<!ENTITY addAccountDialog.error "Teḍra-d tuccḍa di twila n umiḍan-inek!">
 <!ENTITY addAccountDialog.acceptButton.label "Sbadu amiḍan">
 <!ENTITY addAccountDialog.learnMore "Issin ugar…">

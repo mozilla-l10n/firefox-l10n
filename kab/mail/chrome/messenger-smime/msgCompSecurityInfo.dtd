@@ -6,7 +6,7 @@
 
 <!ENTITY title.label "Taɣellist n yizen">
 <!ENTITY subject.plaintextWarning "Ma ulac aɣilif wali: Izirigen n usentel n yeznan n yimayl werǧin ttwawgelhenen">
-<!ENTITY status.heading "Igburen n yizen inek ad yettwazen am akka:">
+<!ENTITY status.heading "Igburen n yizen-inek ad yettwazen am akka:">
 <!ENTITY status.signed "Azmul umḍin:">
 <!ENTITY status.encrypted "Awgelhen:">
 <!ENTITY status.certificates "Iselkinen:">

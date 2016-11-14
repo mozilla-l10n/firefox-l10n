@@ -53,7 +53,7 @@
 <!ENTITY siteUrl.tooltip              "Tansa  FTP:// neɣ HTTP:// i k-d-imidd  ISP yineqk neɣ ameẓlu n tnezduɣt web.">
 <!ENTITY browseUrl.label              "Tansa HTTP n usebter-inek agejdan (amedya.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "tansa  HTTP:// n ukaram inek agejdan (ur sedday ara isem n ufaylu)">
+<!ENTITY browseUrl.tooltip            "tansa  HTTP:// n ukaram-inek agejdan (ur sedday ara isem n ufaylu)">
 <!ENTITY username.label               "Isem n useqdac:">
 <!ENTITY username.accesskey           "s">
 <!ENTITY username.tooltip             "Isem n useqdac i teseqdaceḍ akken ad tkecmeḍ ɣer ISP yinek neɣ ameẓlu n tnezduɣt web">
@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Awal uffir icudden ɣer yisem n useqdac">
 <!ENTITY savePassword.label           "Se~kles awal uffir">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Fren w-agi akken ad tesekelseḍ awal inek uffir s wudem aɣalsan s useqdec n umsefrak n wawal uffir">
+<!ENTITY savePassword.tooltip         "Fren w-agi akken ad tesekelseḍ awal-inek uffir s wudem aɣalsan s useqdec n umsefrak n wawal uffir">

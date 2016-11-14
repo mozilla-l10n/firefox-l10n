@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Iɣewwaṛen n uqeddac uffiɣ (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDescription.label "Ticki tessefrakeḍ timagiyin inek tzemreḍ ad tesqedceḍ aqeddac seg tebdart agi s ufran ines d aqeddac uffiɣ (SMTP), neɣ tzemreḍ ad tesqedceḍ aqeddac amezwer si tebdart-agi s ufran n &quot;Seqdec aqeddac amezwzer&quot;.">
+<!ENTITY smtpDescription.label "Ticki tessefrakeḍ timagiyin-inek tzemreḍ ad tesqedceḍ aqeddac seg tebdart agi s ufran ines d aqeddac uffiɣ (SMTP), neɣ tzemreḍ ad tesqedceḍ aqeddac amezwer si tebdart-agi s ufran n &quot;Seqdec aqeddac amezwzer&quot;.">
 
 <!ENTITY smtpListAdd.label  "Rnu...">
 <!ENTITY smtpListAdd.accesskey  "R">
