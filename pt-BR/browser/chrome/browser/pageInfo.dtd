@@ -5,7 +5,7 @@
 <!ENTITY  pageInfoWindow.width  "620">
 <!ENTITY  pageInfoWindow.height "550">
 
-<!ENTITY  copy.key              "c">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "a">
@@ -17,35 +17,35 @@
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Endereço:">
 <!ENTITY  generalType           "Tipo:">
-<!ENTITY  generalMode           "Renderização:">
+<!ENTITY  generalMode           "Modo de renderização:">
 <!ENTITY  generalSize           "Tamanho:">
 <!ENTITY  generalReferrer       "Página de origem:">
 <!ENTITY  generalSource         "Origem do cache:">
-<!ENTITY  generalModified       "Modificada em:">
+<!ENTITY  generalModified       "Modificado:">
 <!ENTITY  generalEncoding2      "Codificação de texto:">
 <!ENTITY  generalMetaName       "Nome">
-<!ENTITY  generalMetaContent    "Valor">
+<!ENTITY  generalMetaContent    "Conteúdo">
 
 <!ENTITY  mediaTab              "Mídia">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Endereço:">
-<!ENTITY  mediaText             "Texto substituto:">
-<!ENTITY  mediaAltHeader        "Texto substituto">
+<!ENTITY  mediaText             "Texto associado:">
+<!ENTITY  mediaAltHeader        "Texto alternativo">
 <!ENTITY  mediaAddress          "Endereço">
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Tamanho">
 <!ENTITY  mediaCount            "Quantidade">
 <!ENTITY  mediaDimension        "Dimensões:">
-<!ENTITY  mediaLongdesc         "Descrição longa em:">
+<!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvar como…">
 <!ENTITY  mediaSaveAs.accesskey "v">
 <!ENTITY  mediaSaveAs2.accesskey "a">
 <!ENTITY  mediaPreview          "Visualizar mídia:">
 
-<!ENTITY  feedTab               "RSS">
-<!ENTITY  feedTab.accesskey     "R">
-<!ENTITY  feedSubscribe         "Inscrever">
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Assinar">
 <!ENTITY  feedSubscribe.accesskey "I">
 
 <!ENTITY  permTab               "Permissões">
