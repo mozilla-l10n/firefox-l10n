@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Selecione um certificado para apresentar como identificação:">
 <!ENTITY clientAuthAsk.message3 "Detalhes do certificado selecionado:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Selecionar certificado">
-<!ENTITY certPicker.info  "Certificado:">
-<!ENTITY certPicker.detailsLabel "Detalhes do certificado selecionado:">
-
 <!ENTITY pkcs12.setpassword.title  "Escolha uma senha de backup do certificado">
 <!ENTITY pkcs12.setpassword.message  "A senha de backup do certificado que você definir protege o arquivo backup que será criado. Você deve definir esta senha para prosseguir com o backup.">
 <!ENTITY pkcs12.setpassword.label1 "Senha de backup do certificado:">
