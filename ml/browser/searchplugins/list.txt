@@ -1,6 +1,0 @@
-bing
-google
-rediff
-webdunia
-wikipedia
-wikipedia-ml
