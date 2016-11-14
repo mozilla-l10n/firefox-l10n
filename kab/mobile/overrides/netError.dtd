@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "ulac aqeddac">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Senqed tuccḍiwin deg tira n tansiwin am <strong>ww</strong>.example.com deg umḍiq n <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nadi</button> </div> <li>Ma tekkseḍ armad n usali n yal asebter, senqed isefka n yibenk inek neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Senqed tuccḍiwin deg tira n tansiwin am <strong>ww</strong>.example.com deg umḍiq n <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nadi</button> </div> <li>Ma tekkseḍ armad n usali n yal asebter, senqed isefka n yibenk-inek neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Senqed isekkilen imeqqṛanen n yisem n ufaylu neɣ tuccḍiwin nniḍen.</li> <li>Wali ma yella afaylu yettwasenkez, yettwasnifel yisem-is neɣ yettwakkes.</li> </ul>">
