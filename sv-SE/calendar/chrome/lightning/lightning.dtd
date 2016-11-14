@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avböj inbjudan till händelsen">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avböj alla">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avböj inbjudan till alla händelsens tillfällen">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Avböj">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Avböj motförslag">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Ta bort">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ta bort från kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klicka för att se fler val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Förnya bekräftelse">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Skickar en förnyad bekräftelse till organisatören">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Schemalägg på nytt">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Schemalägg händelse på nytt">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Spara en kopia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Spara en kopia av händelsen i kalendern oberoende av svaret till organisatören. Listan på deltagare kommer att tömmas.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Preliminär">
@@ -66,7 +70,7 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptera inbjudan till alla händelsens tillfällen preliminärt">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Uppdatera">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Uppdatera händelse i kalender">
-<!ENTITY lightning.imipbar.description "Detta meddelande innehåller en inbjudan till en händelse.">
+<!ENTITY lightning.imipbar.description                                      "Detta meddelande innehåller en inbjudan till en händelse.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

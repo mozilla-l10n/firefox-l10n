@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; färdigt">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Meddela deltagare">
-<!ENTITY event.attendees.notify.accesskey           "d">
-<!ENTITY event.attendees.notifyundisclosed.label    "Separat inbjudan till varje deltagare">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "p">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Detta alternativ skickar en inbjudan per deltagare. Varje inbjudan innehåller bara en mottagare så att övriga deltagares identitet inte lämnas ut.">
+<!ENTITY event.attendees.notify.label                "Meddela deltagare">
+<!ENTITY event.attendees.notify.accesskey            "d">
+<!ENTITY event.attendees.notifyundisclosed.label     "Separat inbjudan till varje deltagare">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "p">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Detta alternativ skickar en inbjudan per deltagare. Varje inbjudan innehåller bara en mottagare så att övriga deltagares identitet inte lämnas ut.">
+<!ENTITY event.attendees.disallowcounter.label       "Tillåt inte motförslag">
+<!ENTITY event.attendees.disallowcounter.accesskey   "n">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Anger att du inte kommer att acceptera motförslag">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Ändra prioritet">
 <!ENTITY  event.toolbar.status.tooltip                    "Ändra status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Ändra ledig/upptagen tid">
+
+<!-- Counter box -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
