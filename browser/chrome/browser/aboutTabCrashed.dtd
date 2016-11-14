@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "坏消息：此标签页已经崩溃">
-<!ENTITY tabCrashed.message "好消息是：您可以选择关闭此标签页、恢复此标签页，或者恢复所有已崩溃的标签页。此操作不会影响其余标签页。">
-<!ENTITY tabCrashed.sendReport "提交崩溃报告以帮助我们解决问题">
-<!ENTITY tabCrashed.includeURL "附上我所浏览页面的网址">
-<!ENTITY tabCrashed.commentPlaceholder "加上附注（附注公开可见）">
-<!ENTITY tabCrashed.emailPlaceholder "请在这里输入您的电子邮件地址">
-<!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
-<!ENTITY tabCrashed.crashReporter "Mozilla 崩溃报告器">
-<!ENTITY tabCrashed.reportSent "崩溃报告已提交。感谢您帮助 &brandShortName; 变得更好！">
 <!ENTITY tabCrashed.closeTab "关闭此标签页">
 <!ENTITY tabCrashed.restoreTab "恢复此标签页">
 <!ENTITY tabCrashed.restoreAll "恢复所有已崩溃的标签页">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.emailPlaceholder "请在这里输入您的电子邮件地址">
+<!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
+<!ENTITY tabCrashed.reportSent "崩溃报告已提交。感谢您帮助 &brandShortName; 变得更好！">
