@@ -10,7 +10,7 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "ปรับปรุง">
+<!ENTITY updatePass.label             "อัปเดต">
 <!ENTITY resetPass.label              "กลับค่าเดิม">
 
 <!-- Manage Account -->

@@ -8,9 +8,9 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการปรับปรุง">
+<!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการอัปเดต">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "เริ่มการทำงาน &brandShortName; ใหม่เพื่อปรับปรุง">
+<!ENTITY update.updateButton.label2               "เริ่มการทำงาน &brandShortName; ใหม่เพื่ออัปเดต">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -56,7 +56,7 @@
 <!ENTITY bottomLinks.privacy        "นโยบายความเป็นส่วนตัว">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "ตรวจสอบการปรับรุ่น…">
+<!ENTITY update.checkingForUpdates  "กำลังตรวจสอบการปรับปรุง…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

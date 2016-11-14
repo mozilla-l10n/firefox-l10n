@@ -11,9 +11,9 @@
 
 <!ENTITY loading.label                        "กำลังโหลด…">
 <!ENTITY listEmpty.installed.label            "คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้">
-<!ENTITY listEmpty.availableUpdates.label     "ไม่พบการปรับรุ่น">
-<!ENTITY listEmpty.recentUpdates.label        "คุณไม่ได้ปรับรุ่นส่วนเสริมเมื่อเร็ว ๆ นี้">
-<!ENTITY listEmpty.findUpdates.label          "ตรวจหาการปรับรุ่น">
+<!ENTITY listEmpty.availableUpdates.label     "ไม่พบการอัปเดต">
+<!ENTITY listEmpty.recentUpdates.label        "คุณไม่ได้อัปเดตส่วนเสริมใด ๆ เมื่อเร็ว ๆ นี้">
+<!ENTITY listEmpty.findUpdates.label          "ตรวจสอบการอัปเดต">
 <!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมที่ตรงกัน">
 <!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
 <!ENTITY installAddonFromFile.label           "ติดตั้งส่วนเสริมจากไฟล์…">
@@ -202,7 +202,7 @@
 <!ENTITY addon.updateNow.tooltip              "ติดตั้งการปรับรุ่นสำหรับส่วนเสริมนี้">
 <!ENTITY addon.includeUpdate.label            "รวมในการปรับรุ่น">
 <!ENTITY addon.updateAvailable.label          "พบการปรับรุ่น">
-<!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการปรับรุ่น…">
+<!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการปรับปรุง…">
 <!ENTITY addon.releaseNotes.label             "บันทึกประจำรุ่น:">
 <!ENTITY addon.loadingReleaseNotes.label      "กำลังโหลด…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ขออภัย เราพบข้อผิดพลาดขณะโหลดบันทึกประจำรุ่น">
