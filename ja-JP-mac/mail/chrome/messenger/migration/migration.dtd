@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title		"設定移行アシスタント">
 
-<!ENTITY importFromWin.label		"オプション、アカウント設定、アドレス帳、フィルタ、その他のデータの読み込む対象を選んでください:">
-<!ENTITY importFromNonWin.label		"設定、アカウント設定、アドレス帳、フィルタ、その他のデータの読み込む対象を選んでください:">
+<!ENTITY importFromWin.label		"オプション、アカウント設定、アドレス帳、フィルター、その他のデータの読み込む対象を選んでください:">
+<!ENTITY importFromNonWin.label		"設定、アカウント設定、アドレス帳、フィルター、その他のデータの読み込む対象を選んでください:">
 <!ENTITY importSourceNotFound.label	"データの読み込み元のアプリケーションが見つかりませんでした。">
 
 <!ENTITY importFromNothing.label	"設定を読み込まない">
