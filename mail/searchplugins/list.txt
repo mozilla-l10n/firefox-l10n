@@ -1,6 +1,0 @@
-google
-twitter
-yahoo-en-GB
-amazon-en-GB
-focal
-wikipedia-ga-IE
