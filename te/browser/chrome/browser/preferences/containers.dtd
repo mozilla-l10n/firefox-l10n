@@ -13,6 +13,10 @@
 
 <!ENTITY name.label           "పేరు:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY icon.label           "ఐకాన్:">
+<!ENTITY icon.accesskey       "I">
+<!ENTITY color.label          "రంగు:">
+<!ENTITY color.accesskey      "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "పూర్తయింది">
