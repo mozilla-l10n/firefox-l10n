@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kopyen &amp; mappen">
 <!ENTITY addressingTab.label    "Opstelle &amp; adressearing">
 
+<!ENTITY publicData.label        "Publike gegevens">
+<!ENTITY privateData.label       "Priveegegevens">
+<!ENTITY identityAlias.label     "Identiteitslabel:">
+<!ENTITY identityAlias.accesskey "b">

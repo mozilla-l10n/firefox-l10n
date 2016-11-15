@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Eigenskippen">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Adresboekeigenskippen">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Kontakteigenskippen">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Mailinglisteigenskippen">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Kontakten sykje:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Namme of e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Tafoegje oan it Oan-fjild">
@@ -15,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Fuortsmite">
 <!ENTITY deleteAddrBookCard.accesskey       "F">
+<!ENTITY propertiesContext.label            "Eigenskippen">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Eigenskippen">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Kontakt bewurkje">
+<!ENTITY editContactContext.accesskey       "K">
+<!ENTITY editMailingListContext.label       "List bewurkje">
+<!ENTITY editMailingListContext.accesskey   "L">
 
 <!ENTITY toButton.label                     "Tafoegje oan Oan:">
 <!ENTITY toButton.accesskey                 "A">
