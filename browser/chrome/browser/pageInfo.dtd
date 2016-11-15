@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Γενικά">
 <!ENTITY  generalTab.accesskey  "Γ">
+<!ENTITY  generalTitle          "Τίτλος:">
 <!ENTITY  generalURL            "Διεύθυνση:">
 <!ENTITY  generalType           "Τύπος:">
 <!ENTITY  generalMode           "Λειτουργία εμφάνισης:">
