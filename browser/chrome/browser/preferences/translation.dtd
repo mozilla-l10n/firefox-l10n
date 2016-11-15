@@ -8,7 +8,7 @@
 
 <!ENTITY noTranslationForLanguages.label  "การแปลจะไม่ถูกนำเสนอในภาษาเหล่านี้:">
 <!ENTITY treehead.languageName.label      "ภาษา">
-<!ENTITY removeLanguage.label             "ลบภาษานี้">
+<!ENTITY removeLanguage.label             "เอาภาษาออก">
 <!ENTITY removeLanguage.accesskey         "ล">
 <!ENTITY removeAllLanguages.label         "เอาภาษาทั้งหมดออก">
 <!ENTITY removeAllLanguages.accesskey     "ท">

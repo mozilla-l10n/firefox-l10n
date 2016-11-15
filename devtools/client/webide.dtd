@@ -10,6 +10,7 @@
 <!ENTITY projectMenu_selectApp_label "เปิดแอป…">
 <!ENTITY projectMenu_debug_label "ดีบั๊กแอป">
 <!ENTITY projectMenu_remove_label "เอาโครงการออก">
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
 <!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
