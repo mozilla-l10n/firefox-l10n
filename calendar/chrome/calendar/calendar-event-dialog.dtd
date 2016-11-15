@@ -29,14 +29,16 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; 完成">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "通知参与者">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "分别邀请各参与者">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "此选项将分别为每个参与者发送一封邀请信。每封邀请信只包含收件方，而不会披露其他参与者。">
+<!ENTITY event.attendees.notify.label                "通知参与者">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "分别邀请各参与者">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "此选项将分别为每个参与者发送一封邀请信。每封邀请信只包含收件方，而不会披露其他参与者。">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +161,10 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "更改优先级">
 <!ENTITY  event.toolbar.status.tooltip                    "更改状态">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "更改忙/闲时间">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.original.accesskey                "r">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "标题：" >
