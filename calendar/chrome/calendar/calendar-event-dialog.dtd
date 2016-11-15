@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; foltôge">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Dielnimmers ynljochtsje">
-<!ENTITY event.attendees.notify.accesskey           "y">
-<!ENTITY event.attendees.notifyundisclosed.label    "Utnûging skiede per dielnimmer">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "s">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Dizze opsje stjoert ien útnûgings-e-mail per dielnimmer. Elke útnûging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
+<!ENTITY event.attendees.notify.label                "Dielnimmers ynljochtsje">
+<!ENTITY event.attendees.notify.accesskey            "y">
+<!ENTITY event.attendees.notifyundisclosed.label     "Utnûging skiede per dielnimmer">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "s">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Dizze opsje stjoert ien útnûgings-e-mail per dielnimmer. Elke útnûging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
+<!ENTITY event.attendees.disallowcounter.label       "Teller net tastean">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Jout oan dat jo gjin tellerfoarstellen akseptearje">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Priority wizigje">
 <!ENTITY  event.toolbar.status.tooltip                    "Steat wizigje">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Frij/Beskikber-tiid wizigje">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Foarstel tapasse">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Foarstelde gegevens tapasse yn it formulier.">
+<!ENTITY counter.button.original.label                    "Orizjinele gegevens tapasse">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Orizjinele gegevens tapasse yn it formulier.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
