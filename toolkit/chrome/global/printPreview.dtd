@@ -4,19 +4,19 @@
 
 <!ENTITY print.label          "พิมพ์…">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "ตั้งค่าหน้า…">
+<!ENTITY pageSetup.label      "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "หน้า:">
-<!ENTITY page.accesskey       "น">
+<!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "จาก">
 <!ENTITY scale.label          "มาตราส่วน:">
-<!ENTITY scale.accesskey      "ม">
+<!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "แนวตั้ง">
-<!ENTITY portrait.accesskey   "ง">
+<!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "แนวนอน">
-<!ENTITY landscape.accesskey  "น">
+<!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "ปิด">
-<!ENTITY close.accesskey      "ป">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "ย่อให้พอดี">
 <!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
 <!ENTITY simplifyPage.label   "หน้าแบบเรียบง่าย">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "เปลี่ยนเค้าโครงเพื่อการอ่านที่ง่ายขึ้น">
 <!ENTITY simplifyPage.disabled.tooltip "หน้านี้ไม่สามารถทำให้เรียบง่ายได้โดยอัตโนมัติ">
 
