@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY removeButton.label           "移除">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeAccount.label          "移除账号信息">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeData.label             "移除消息数据">
+<!ENTITY removeData.accesskey         "d">
+<!ENTITY showData.label               "显示数据位置">
+<!ENTITY showData.accesskey           "S">
+<!ENTITY progressSuccess              "移除成功。">
+<!ENTITY progressFailure              "移除失败。">
