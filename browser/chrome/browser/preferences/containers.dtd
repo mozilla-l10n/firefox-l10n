@@ -5,6 +5,10 @@
 <!ENTITY label.label          "ชื่อ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
+<!ENTITY window.width         "45em">
 
+<!ENTITY name.label           "ชื่อ:">
+<!ENTITY color.label          "สี:">
 
+<!ENTITY button.ok.label      "เสร็จสิ้น">
 

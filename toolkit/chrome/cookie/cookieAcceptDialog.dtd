@@ -6,7 +6,7 @@
 <!ENTITY     props.value.label              "เนื้อหา:">
 <!ENTITY     props.domain.label             "โฮสต์:">
 <!ENTITY     props.path.label               "เส้นทาง:">
-<!ENTITY     props.secure.label             "ส่งเพื่อ:">
+<!ENTITY     props.secure.label             "ส่งสำหรับ:">
 <!ENTITY     props.expires.label            "หมดอายุ:">
 
 <!ENTITY     button.allow.label             "อนุญาต">

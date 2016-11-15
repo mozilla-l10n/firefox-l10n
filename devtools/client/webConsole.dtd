@@ -45,6 +45,7 @@
 <!ENTITY btnPageLogging.label   "การบันทึก">
 <!ENTITY btnPageLogging.tooltip "บันทึกข้อความที่ส่งไปยัง window.console">
 <!ENTITY btnConsoleErrors       "ข้อผิดพลาด">
+<!ENTITY btnConsoleInfo         "ข้อมูล">
 <!ENTITY btnConsoleWarnings     "คำเตือน">
 <!ENTITY btnConsoleLog          "บันทึก">
 <!ENTITY btnConsoleXhr          "XHR">
