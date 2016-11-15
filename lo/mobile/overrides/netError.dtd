@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "ບໍ່ພົບເຊີເວີ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ກວດເບິງການພິມທີ່ຢູ່ຜິດເຊັ່ນວ່າ <strong>ww</strong>.example.com ແທນທີ່ຈະ <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ຖ້າຫາກວ່າທ່ານຍັງບໍ່ສາມາດໂຫລດຫນ້ານີ້ເວັບໄດ້, ໃຫ້ລອງກວດເບິງການເຊື່ອມຕໍກັບ Wi-FI ຫລື ປະລິມານການນຳໃຊ້ຂໍ້ມູນໃນອຸປະກອນຂອງທ່ານ <button id='wifi'>ເປີດນຳໃຊ້ Wi-FI</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ກວດເບິງການພິມທີ່ຢູ່ເບິງວ່າຜິດບໍ່ ເຊັ່ນວ່າ <strong>ww</strong>.example.com ແທນທີ່ຈະເປັນ <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ຖ້າຫາກວ່າທ່ານຍັງບໍ່ສາມາດໂຫລດຫນ້ານີ້ເວັບໄດ້, ໃຫ້ລອງກວດເບິງການເຊື່ອມຕໍກັບ Wi-FI ຫລື ປະລິມານການນຳໃຊ້ຂໍ້ມູນໃນອຸປະກອນຂອງທ່ານ <button id='wifi'>ເປີດນຳໃຊ້ Wi-FI</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li> <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລຶບຖີ້ມ.</li> </ul>">

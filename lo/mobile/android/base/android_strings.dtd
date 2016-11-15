@@ -57,7 +57,7 @@
 <!ENTITY  crash_sorry "ພວກເຮົາຕ້ອງຂໍອະໄພ">
 <!ENTITY  crash_comment "ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນຈະປະກົດຕໍ່ສາທາລະນະ)">
 <!ENTITY  crash_allow_contact2 "ອະນຸຍາດໃຫ້ &vendorShortName; ຕິດຕໍ່ຫາຂ້ອຍກ່ຽວກັບລາຍງານນີ້">
-<!ENTITY  crash_email "ອີເມວຂອງທ່ານ">
+<!ENTITY  crash_email "ອີເມຣຂອງທ່ານ">
 <!ENTITY  crash_closing_alert "ຕ້ອງການອອກໂດຍປາສະຈາກການສົ່ງລາຍງານຂໍ້ຜິດພາດ?">
 <!ENTITY  sending_crash_report "ກຳລັງສົ່ງລາຍງານຂໍ້ຜິດພາດ\u2026">
 <!ENTITY  crash_close_label "ປິດ">
@@ -280,6 +280,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "ການປັບແຕ່ງແທັບ">
+<!ENTITY pref_custom_tabs_summary3 "ອະນຸຍາດໃຫ້ແອັບເປີດເວັບໄຊທ໌ໂດຍນຳໃຊ້ລຸ້ນທີ່ປັບແຕ່ງຂອງ &brandShortName;">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
@@ -464,7 +465,7 @@ size. -->
 <!ENTITY save_as_pdf "ບັກທຶກເປັນ PDF">
 <!ENTITY print "ພິມ">
 <!ENTITY find_in_page "ຄົ້ນຫາໃນຫນ້ານີ້">
-<!ENTITY desktop_mode "ຂໍນຳໃຊ້ເວັບໄຊທ໌ສຳລັບເດສທັອບ">
+<!ENTITY desktop_mode "ຂໍນຳໃຊ້ເວັບໄຊທ໌ສຳລັບເດສກ໌ທັອບ">
 <!ENTITY page "ຫນ້າ">
 <!ENTITY tools "ເຄື່ອງມື">
 <!ENTITY new_tab "ແທັບໃຫມ່">
@@ -834,9 +835,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "ບຸກມາກໄວ້ແລ້ວ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "ເຂົ້າໄປເບິງມາແລ້ວ">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "ຍົກເລີກ">
+<!ENTITY activity_stream_delete_history "ລຶບອອກຈາກປະຫວັດການນຳໃຊ້">
