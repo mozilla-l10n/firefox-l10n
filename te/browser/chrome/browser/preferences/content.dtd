@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "గమనింపులు">
-<!ENTITY  notificationsPolicyLearnMore.label   "మరింత తెలుసుకోండి">
+<!ENTITY  notificationsPolicyLearnMore.label   "ఇంకా తెలుసుకోండి">
 <!ENTITY  notificationsPolicyDesc3.label       "ఏయే సైట్లు మీకు గమనింపులను పంపవచ్చో ఎంచుకోండి">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "ఎంచుకోండి…">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM కాంటెంట్ నడుపు">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "మరింత తెలుసుకోండి">
+<!ENTITY  playDRMContent.learnMore.label "ఇంకా తెలుసుకోండి">
