@@ -171,15 +171,15 @@
 <!ENTITY sort.dateUpdated.label               "อัปเดตล่าสุด">
 <!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันที่อัปเดต">
 <!ENTITY sort.relevance.label                 "ตรงกันที่สุด">
-<!ENTITY sort.relevance.tooltip               "เรียงตามความตรงกัน">
+<!ENTITY sort.relevance.tooltip               "เรียงตามความเกี่ยวข้อง">
 <!ENTITY sort.price.label                     "ราคา">
 <!ENTITY sort.price.tooltip                   "เรียงตามราคา">
 
 <!ENTITY search.filter2.label                 "ค้นหา:">
 <!ENTITY search.filter2.installed.label       "ส่วนเสริมของฉัน">
 <!ENTITY search.filter2.installed.tooltip     "แสดงส่วนเสริมที่ติดตั้งไว้">
-<!ENTITY search.filter2.available.label       "ส่วนเสริมรอติดตั้ง">
-<!ENTITY search.filter2.available.tooltip     "แสดงส่วนเสริมที่พร้อมรอติดตั้ง">
+<!ENTITY search.filter2.available.label       "ส่วนเสริมที่ใช้งานได้">
+<!ENTITY search.filter2.available.tooltip     "แสดงส่วนเสริมที่ติดตั้งได้">
 
 <!ENTITY addon.homepage                       "หน้าแรก">
 <!ENTITY addon.details.label                  "เพิ่มเติม">
@@ -197,7 +197,7 @@
 <!ENTITY addon.undoAction.label               "เลิกทำ">
 <!ENTITY addon.undoAction.tooltip             "เลิกทำการกระทำนี้">
 <!ENTITY addon.undoRemove.label               "เลิกทำ">
-<!ENTITY addon.undoRemove.tooltip             "เก็บส่วนเสริมนี้ไว้">
+<!ENTITY addon.undoRemove.tooltip             "ติดตั้งส่วนเสริมนี้ต่อไป">
 <!ENTITY addon.restartNow.label               "เริ่มการทำงานใหม่ตอนนี้">
 <!ENTITY addon.install.label                  "ติดตั้ง">
 <!ENTITY addon.install.tooltip                "ติดตั้งส่วนเสริมนี้">
@@ -232,11 +232,11 @@
 
 <!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
 
-<!ENTITY disabledUnsigned.heading "ส่วนเสริมบางอันถูกปิดการใช้งาน">
+<!ENTITY disabledUnsigned.heading "ส่วนเสริมบางส่วนถูกปิดใช้งาน">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "ส่วนเสริมต่อไปนี้ไม่ได้ถูกยืนยันความถูกต้องเพื่อที่จะใช้งานใน &brandShortName; คุณสามารถ ">
+<!ENTITY disabledUnsigned.description.start "ส่วนเสริมดังต่อไปนี้ไม่ได้รับการตรวจสอบสำหรับใช้ใน &brandShortName; คุณสามารถ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "หาตัวแทนที่">
 <!ENTITY disabledUnsigned.description.end " หรือถามนักพัฒนาเพื่อทำให้ส่วนเสริมได้รับการยืนยัน">
 <!ENTITY disabledUnsigned.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้ปลอดภัยยามคุณออนไลน์">
