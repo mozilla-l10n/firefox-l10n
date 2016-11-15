@@ -567,7 +567,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "เล่น">
 <!ENTITY mediaPlay.accesskey         "ล">
 <!ENTITY mediaPause.label            "หยุดชั่วคราว">
-<!ENTITY mediaPause.accesskey        "ช">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
