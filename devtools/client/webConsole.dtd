@@ -60,6 +60,7 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "ตัวทำงานที่แบ่งปัน">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleServiceWorkers "ตัวทำงานบริการ">
