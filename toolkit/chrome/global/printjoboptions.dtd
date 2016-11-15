@@ -7,8 +7,17 @@
 <!ENTITY printJobOptions.title "Ιδιότητες εκτυπωτή">
 
 <!ENTITY paperInput.label "Μέγεθος χαρτιού:">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Τίτλος εργασίας:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Έγχρωμη:">
+<!ENTITY grayRadio.label "Κλίμακα του γκρι">
+<!ENTITY grayRadio.accesskey "G">
 
+<!ENTITY edgeMarginInput.label "Κενό από την άκρη του χαρτιού ως το περιθώριο">
+<!ENTITY topInput.label "Πάνω:">
+<!ENTITY bottomInput.label "Κάτω:">
+<!ENTITY leftInput.label "Αριστερά:">
+<!ENTITY rightInput.label "Δεξιά:">
