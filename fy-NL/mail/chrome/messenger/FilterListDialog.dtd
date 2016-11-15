@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Aktyf">
 <!ENTITY newButton.label "Nij…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Kopiearje…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Bewurkje…">
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Fuortsmite">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "S">
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Filters op namme sykje…">
+
+
+
