@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "అనుసంధానం లేదు">
 <!ENTITY aboutAccounts.noConnection.description "లోనికి ప్రవేశించడానికి మీరు అంతర్జాలానికి అనుసంధానమై ఉండాలి.">
 <!ENTITY aboutAccounts.noConnection.retry "మళ్ళీ ప్రయత్నించు">
+<!ENTITY aboutAccounts.badConfig.title "చెడ్డ ఆకృతీకరణ">
+<!ENTITY aboutAccounts.badConfig.description "మీ Firefox ఖాతా సర్వర్ ఆకృతీకరణ గుర్తించలేకపోయింది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.">
