@@ -60,7 +60,7 @@
 <!ENTITY fxaccount_status_sync_server 'Sync ຄື່ອງແມ່ຂ່າຍ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ເປີດໃຊ້ງານ'>
-<!ENTITY fxaccount_status_needs_verification2 'ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢັ້ງຢືນ. ແຕະເພື່ອສົ່ງອີເມວຢືນຢັນຄືນໃຫມ່ອີກຄັ້ງຫນຶ່ງ.'>
+<!ENTITY fxaccount_status_needs_verification2 'ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢັ້ງຢືນ. ແຕະເພື່ອສົ່ງອີເມຣຢືນຢັນຄືນໃຫມ່ອີກຄັ້ງຫນຶ່ງ.'>
 <!ENTITY fxaccount_status_needs_credentials 'ບໍ່ສາມາດເຊື່ອມຕໍ່. ແຕະເພື່ອເຂົ້າສູ່ລະບົບ.'>
 <!ENTITY fxaccount_status_needs_upgrade 'ທ່ານຈຳເປັນຕ້ອງອັບເກຣດ &brandShortName; ເພື່ອເຂົ້າສູ່ລະບົບ.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Data Usage'>
@@ -107,8 +107,8 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ບັນຊີນີ້ມີຮຽບຮ້ອຍແລ້ວ. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ອີເມວ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ອີເມວ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ອີເມຣ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ອີເມຣ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ບັນຊີຫຍັງບໍ່ໄດ້ຮັບການຢືນຢັນ'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້ '>
