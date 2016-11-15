@@ -54,7 +54,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "ประสิทธิภาพ">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ที่ลงทะเบียน">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "ตัวทำงานบริการที่ลงทะเบียน">
 
 <!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
 
