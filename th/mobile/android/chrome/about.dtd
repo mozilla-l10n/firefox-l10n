@@ -6,12 +6,12 @@
 <!ENTITY aboutPage.telemetryStart               " จะส่งข้อมูลเกี่ยวกับประสิทธิภาพ, ฮาร์ดแวร์, การใช้งาน และการปรับแต่งกลับไปยัง ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " โดยอัตโนมัติ เพื่อช่วยทำ &brandShortName; ให้ดียิ่งขึ้น">
-<!ENTITY aboutPage.checkForUpdates.link         "ตรวจสอบสำหรับการปรับปรุง »">
-<!ENTITY aboutPage.checkForUpdates.checking     "กำลังหาการปรับปรุง…">
-<!ENTITY aboutPage.checkForUpdates.none         "ไม่มีการปรับปรุงที่ใช้งานได้">
-<!ENTITY aboutPage.checkForUpdates.available2   "ดาวน์โหลดการปรับปรุง">
-<!ENTITY aboutPage.checkForUpdates.downloading  "กำลังดาวน์โหลดการปรับปรุง…">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "ติดตั้งการปรับปรุง">
+<!ENTITY aboutPage.checkForUpdates.link         "ตรวจสอบการอัปเดต »">
+<!ENTITY aboutPage.checkForUpdates.checking     "กำลังมองหาการอัปเดต…">
+<!ENTITY aboutPage.checkForUpdates.none         "ไม่มีการอัปเดตที่ใช้งานได้">
+<!ENTITY aboutPage.checkForUpdates.available2   "ดาวน์โหลดการอัปเดต">
+<!ENTITY aboutPage.checkForUpdates.downloading  "กำลังดาวน์โหลดการอัปเดต…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "ติดตั้งการอัปเดต">
 <!ENTITY aboutPage.faq.label                    "คำถามที่พบบ่อย">
 <!ENTITY aboutPage.support.label                "การสนับสนุน">
 <!ENTITY aboutPage.privacyPolicy.label          "นโยบายความเป็นส่วนตัว">
