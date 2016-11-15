@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "详细了解">
 <!ENTITY  browserContainersEnabled.label        "启用身份标签页">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "设置…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
