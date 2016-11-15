@@ -13,6 +13,9 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "Μπορούμε να σας βοηθήσουμε!">
+<!ENTITY tabCrashed.requestHelp "Θα μας βοηθήσετε;">
+<!ENTITY tabCrashed.requestReport "Αναφορά αυτής της καρτέλας">
 <!ENTITY tabCrashed.emailPlaceholder "Εισάγετε την διεύθυνση email σας">
 <!ENTITY tabCrashed.emailMe "Στείλτε μου email όταν είναι διαθέσιμες περισσότερες πληροφορίες">
 <!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης υποβλήθηκε. Σας ευχαριστούμε που συμβάλλετε στην βελτίωση του &brandShortName;!">
