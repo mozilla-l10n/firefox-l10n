@@ -12,3 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.title "ไม่มีการเชื่อมต่อ">
 <!ENTITY aboutAccounts.noConnection.description "คุณต้องเชื่อมต่ออินเทอร์เน็ตเพื่อลงชื่อเข้า">
 <!ENTITY aboutAccounts.noConnection.retry "ลองอีกครั้ง">
+<!ENTITY aboutAccounts.badConfig.title "การกำหนดค่าไม่ดี">
