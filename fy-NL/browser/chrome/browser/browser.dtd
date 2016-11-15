@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Utwreiding:">
 <!ENTITY urlbar.switchToTab.label     "Wikselje nei ljepblêd:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Wolle jo jo sykûnderfining ferbetterje mei suggestjes?">

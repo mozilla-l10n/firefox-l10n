@@ -51,6 +51,10 @@
 <p>&brandShortName; kin om ien oft oare reden dizze side net lade.</p>
 ">
 
+<!ENTITY captivePortal.title "Oanmelde by netwurk">
+
+<!ENTITY openPortalLoginPage.label "Oanmeldside iepenje">
+
 <!ENTITY malformedURI.title "It adres jildt net">
 <!ENTITY malformedURI.longDesc "
 <ul>
