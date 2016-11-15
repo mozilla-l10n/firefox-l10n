@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Ofbyldingslokaasje:">
 <!ENTITY locationEditField.accessKey "f">
 <!ENTITY locationEditField.tooltip "Typ de bestânsnamme of -lokaasje fan de ôfbylding">
+<!ENTITY locationEditField.shortenedDataURI "Ynkoarte URI-gegevens (kopiearjen sil de folsleine URI op it klamboerd sette)">
 <!ENTITY title.label "Arktip:">
 <!ENTITY title.accessKey "t">
 <!ENTITY title.tooltip "It HTML-attribút ‘title’ dat ferskynt as sweefjende tip">
