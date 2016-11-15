@@ -6,6 +6,7 @@
 <!ENTITY addButton.label      "添加新身份">
 <!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; 返回“隐私”">
 
 <!ENTITY window.title         "添加新身份">
 <!ENTITY window.width         "45em">

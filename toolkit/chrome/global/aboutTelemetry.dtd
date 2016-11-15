@@ -56,6 +56,10 @@
   标量
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  键控标量
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  直方图">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "键控直方图">
