@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "调整到适合">
 <!ENTITY customPrompt.title   "自定义比例…">
 <!ENTITY simplifyPage.label   "简化页面">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "更改便于阅读的布局">
 <!ENTITY simplifyPage.disabled.tooltip "此网页不能被自动简化">
 

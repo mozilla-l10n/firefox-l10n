@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "设备名称：">
 <!ENTITY fxaSyncDeviceName.label       "设备名称">
 <!ENTITY changeSyncDeviceName.label "更改设备名称…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "取消">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "保存">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "断开此设备">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "您尚未登录。">
 <!ENTITY signIn.label                "登录">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "更改头像">
 <!ENTITY verifiedManage.label        "管理账户">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "断开…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "验证邮箱">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘记此邮箱">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "随时随地获取您在 &brandShortName; 上的标签页、书签、密码等信息。">
 <!ENTITY welcome.signIn.label "登录">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "跨越您的所有设备，同步您的书签、历史记录、标签页、密码、附加组件、首选项。">
 <!ENTITY signedOut.accountBox.title   "使用 &syncBrand.fxAccount.label; 登录并同步">
 <!ENTITY signedOut.accountBox.create  "创建账户">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "登录">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "在所有设备上同步">
 

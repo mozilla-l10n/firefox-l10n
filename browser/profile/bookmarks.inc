@@ -37,4 +37,36 @@
 # link title for https://www.mozilla.org/en-US/about/
 #define firefox_about 关于我们
 
+# LOCALIZATION NOTE (nightly_heading):
+# Firefox Nightly links folder name
+#define nightly_heading Firefox Nightly 资源
+
+# LOCALIZATION NOTE (nightly_blog):
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog Firefox Nightly 博客
+
+# LOCALIZATION NOTE (bugzilla):
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Mozilla 缺陷跟踪网站
+
+# LOCALIZATION NOTE (mdn):
+# Nightly builds only, link title for https://developer.mozilla.org/
+#define mdn Mozilla 开发者网络
+
+# LOCALIZATION NOTE (nightly_tester_tools):
+# Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Nightly Tester Tools
+
+# LOCALIZATION NOTE (crashes):
+# Nightly builds only, link title for about:crashes
+#define crashes 您的所有崩溃
+
+# LOCALIZATION NOTE (irc):
+# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc 在 IRC 上讨论 Nightly
+
+# LOCALIZATION NOTE (planet):
+# Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planet Mozilla
+
 #unfilter emptyLines
