@@ -105,9 +105,9 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "วิธีใช้">
+<!ENTITY helpMenu.label               "ช่วยเหลือ">
 <!ENTITY helpMenu.accesskey           "ช">
-<!ENTITY helpMenuWin.label            "วิธีใช้">
+<!ENTITY helpMenuWin.label            "ช่วยเหลือ">
 <!ENTITY helpMenuWin.accesskey        "ช">
 
 <!ENTITY documentationLink.label      "วิธีใช้กระดานทดบน MDN">

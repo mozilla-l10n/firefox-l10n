@@ -52,7 +52,8 @@
 <!ENTITY details_valid_header "ถูกต้อง">
 <!ENTITY details_warning_header "คำเตือน">
 <!ENTITY details_description "คำอธิบาย">
-<!ENTITY details_location "ที่ตั้ง">
+<!ENTITY details_location "ตำแหน่งที่ตั้ง">
+<!ENTITY details_removeProject_button "เอาโครงการออก">
 
 <!-- New App -->
 <!ENTITY newAppLoadingTemplate "กำลังโหลดแม่แบบ…">
@@ -94,7 +95,7 @@
 <!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
 
 <!-- Monitor -->
-<!ENTITY monitor_help "วิธีใช้">
+<!ENTITY monitor_help "ช่วยเหลือ">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

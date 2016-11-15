@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ย">
 <!ENTITY exceptionMgr.supplementalWarning     "ธนาคาร, ห้างร้าน และเว็บไซต์สาธารณะที่ถูกกฎหมายจะไม่ให้คุณทำเช่นนี้">
 <!ENTITY exceptionMgr.certlocation.caption2   "เซิร์ฟเวอร์">
-<!ENTITY exceptionMgr.certlocation.url        "ตำแหน่งที่ตั้ง :">
+<!ENTITY exceptionMgr.certlocation.url        "ตำแหน่งที่ตั้ง:">
 <!ENTITY exceptionMgr.certlocation.download   "รับใบรับรอง">
 <!ENTITY exceptionMgr.certlocation.accesskey  "ร">
 <!ENTITY exceptionMgr.certstatus.caption      "สถานะใบรับรอง">

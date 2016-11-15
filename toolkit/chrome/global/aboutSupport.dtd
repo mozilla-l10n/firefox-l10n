@@ -38,7 +38,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ช่องทางการอัปเดต">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการอัปเดต">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการอัปเดต">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรีโพรไฟล์">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
