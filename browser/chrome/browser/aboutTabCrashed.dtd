@@ -13,6 +13,8 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "แท็บของคุณเพิ่งขัดข้อง">
+<!ENTITY tabCrashed.requestReport "รายงานแท็บนี้">
 <!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณที่นี่">
-<!ENTITY tabCrashed.emailMe "อีเมลหาฉันเมื่อมีข้อมูลที่มากขึ้น">
+<!ENTITY tabCrashed.emailMe "ส่งอีเมลหาฉันเมื่อมีข้อมูลเพิ่มเติม">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">
