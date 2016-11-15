@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "拒绝事件邀请">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "全部拒绝">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "拒绝该事件的每次邀请">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "拒绝">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "拒绝计数提案">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "删除">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "从日历中删除">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "详细信息…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "点击显示更多选项">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新确认">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "发送一个再次确认到组织者">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "重新安排">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "重新安排该事件">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "保存副本">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "在日历中保存一份只回复组织者的独立事件副本，参与者列表被清空。">
 <!ENTITY lightning.imipbar.btnTentative.label                               "暂定">

@@ -38,7 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "分别邀请各参与者">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "此选项将分别为每个参与者发送一封邀请信。每封邀请信只包含收件方，而不会披露其他参与者。">
+<!ENTITY event.attendees.disallowcounter.label       "不允许计数">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "表示您不接受计数提案">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -163,8 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "更改忙/闲时间">
 
 <!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "应用提案">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "应用提案数据到表单。">
+<!ENTITY counter.button.original.label                    "应用原始数据">
 <!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "应用发件人的原始数据。">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "标题：" >
