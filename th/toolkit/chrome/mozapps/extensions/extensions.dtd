@@ -100,16 +100,16 @@
 <!ENTITY cmd.neverActivate.tooltip            "ไม่ใช้ส่วนเสริมนี้เสมอ">
 <!ENTITY cmd.stateMenu.tooltip                "เปลี่ยนเมื่อส่วนเสริมนี้ทำงาน">
 <!ENTITY cmd.installAddon.label               "ติดตั้ง">
-<!ENTITY cmd.installAddon.accesskey           "ต">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
-<!ENTITY cmd.uninstallAddon.accesskey         "อ">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "การตั้งค่า">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
-<!ENTITY cmd.contribute.label                 "เข้าร่วม">
-<!ENTITY cmd.contribute.accesskey             "ม">
-<!ENTITY cmd.contribute.tooltip               "เข้าร่วมพัฒนาส่วนเสริมนี้">
+<!ENTITY cmd.contribute.label                 "สนับสนุน">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "สนับสนุนการพัฒนาส่วนเสริมนี้">
 
 <!ENTITY cmd.showReleaseNotes.label           "แสดงบันทึกประจำรุ่น">
 <!ENTITY cmd.showReleaseNotes.tooltip         "แสดงบันทึกประจำรุ่นสำหรับการอัปเดตนี้">
@@ -120,8 +120,11 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "ส่วนเสริมคืออะไร?">
-<!ENTITY discover.description2                "ส่วนเสริมคือโปรแกรมที่ทำให้คุณปรับแต่งความสามารถพิเศษหรือรูปโฉมของ &brandShortName; ได้ ลองใช้แถบข้างที่ช่วยประหยัดเวลาใช้งาน ส่วนเสริมเตือนสภาพอากาศ หรือชุดตกแต่งเพื่อสร้าง &brandShortName; ที่เป็นของคุณเองดูสิ">
-<!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่ออินเทอร์เน็ต ช่องนี้จะแสดงส่วนเสริมยอดเยี่ยมและส่วนเสริมยอดนิยมให้คุณลองใช้ดู">
+<!ENTITY discover.description2                "ส่วนเสริมคือแอปพลิเคชันที่ช่วยให้คุณปรับแต่ง &brandShortName; ด้วย
+  ความสามารถหรือลักษณะพิเศษ ลองแถบข้างที่ช่วยประหยัดเวลา, ตัวแจ้งสภาพอากาศ หรือชุดตกแต่งเพื่อทำให้ &brandShortName;
+  เป็นของคุณเอง">
+<!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่อกับอินเทอร์เน็ต บานหน้าต่างนี้จะแสดง
+  บางส่วนของส่วนเสริมที่ดีที่สุดและได้รับความนิยมสูงสุดเพื่อให้คุณลองใช้">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "รุ่น">
@@ -147,10 +150,10 @@
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
-<!ENTITY detail.showPreferencesWin.accesskey  "ล">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
-<!ENTITY detail.showPreferencesUnix.accesskey "ก">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 
 
