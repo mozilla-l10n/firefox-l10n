@@ -36,10 +36,10 @@
 <!ENTITY useMasterPassword.label "Utiliser un mot de passe principal">
 <!ENTITY useMasterPassword.accesskey "U">
 <!ENTITY masterPassword.intro "Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
-<!ENTITY changeMasterPassword.label "Modifier le mot de passe principal…">
-<!ENTITY changeMasterPassword.accesskey "M">
+<!ENTITY changeMasterPassword.label "Gérer le mot de passe principal…">
+<!ENTITY changeMasterPassword.accesskey "G">
 <!ENTITY savedPasswords.label "Mots de passe enregistrés…">
-<!ENTITY savedPasswords.accesskey "o">
+<!ENTITY savedPasswords.accesskey "M">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d’analyser les courriers entrants avant qu’ils ne soient stockés localement.">

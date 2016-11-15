@@ -40,7 +40,7 @@
 <!ENTITY  locbar.openpage.label         "Onglets ouverts">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Recherches similaires du moteur de recherche par défaut">
-<!ENTITY  locbar.searches.accesskey     "s">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings.label      "Modifier les préférences pour les suggestions de recherche…">
 <!ENTITY  suggestionSettings.accesskey  "f">
@@ -109,4 +109,6 @@
 <!ENTITY  browserContainersHeader.label         "Onglets contextuels">
 <!ENTITY  browserContainersLearnMore.label      "En savoir plus">
 <!ENTITY  browserContainersEnabled.label        "Activer les onglets contextuels">
-<!ENTITY  browserContainersEnabled.accesskey    "a">
+<!ENTITY  browserContainersEnabled.accesskey    "g">
+<!ENTITY  browserContainersSettings.label        "Paramètres…">
+<!ENTITY  browserContainersSettings.accesskey    "s">

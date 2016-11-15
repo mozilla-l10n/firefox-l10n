@@ -47,6 +47,13 @@
 <p>Pour une raison inconnue, &brandShortName; ne peut pas charger cette page.</p>
 ">
 
+<!ENTITY captivePortal.title "Se connecter au réseau">
+<!ENTITY captivePortal.longDesc "
+<p>Ce réseau nécessite peut-être que vous vous connectiez à un compte pour utiliser Internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Ouvrir la page de connexion">
+
 <!ENTITY malformedURI.title "L’adresse n’est pas valide">
 <!ENTITY malformedURI.longDesc "
 <ul>
