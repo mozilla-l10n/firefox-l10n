@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Negeseuon Derbyniwyd">
 <!ENTITY aboutNetworking.bytesSent             "Didau Wedi'u Hanfon">
 <!ENTITY aboutNetworking.bytesReceived         "Didau Wedi'u Derbyn">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Chwilio DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Datrys">
 <!ENTITY aboutNetworking.dnsDomain             "Parth">
