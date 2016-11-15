@@ -44,7 +44,10 @@
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ఏదో ఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
+<!ENTITY captivePortal.title "నెట్వర్కులోనికి ప్రవేశించండి">
+<!ENTITY captivePortal.longDesc "<p>ఈ నెట్వర్క్ మీరు ఇంటర్నెట్ ఉపయోగించడానికి మీ లాగిన్ ను కోరవచ్చును.</p>">
 
+<!ENTITY openPortalLoginPage.label "లాగిన్ పేజీని తెరువు">
 
 <!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!ENTITY malformedURI.longDesc "
