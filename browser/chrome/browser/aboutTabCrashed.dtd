@@ -13,6 +13,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Bah. Jo ljepblêd is krekt ferûngelokke.">
+<!ENTITY tabCrashed.offerHelp "Wy kinne jo helpe!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Kies &tabCrashed.restoreTab; om sideynhâld opnij te laden.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Kies &tabCrashed.restoreTab; of &tabCrashed.restoreAll; om sideynhâld opnij te laden.">
+<!ENTITY tabCrashed.requestHelp "Wolle jo ús helpe?">
+<!ENTITY tabCrashed.requestHelpMessage "Ungelokrapporten helpe ús problemen te ûndersykjen en &brandShortName; te ferbetterjen.">
+<!ENTITY tabCrashed.requestReport "Dit ljepblêd rapportearje">
+<!ENTITY tabCrashed.sendReport2 "Stjoer in ungelokrapport foar it aktuele ljepblêd">
+<!ENTITY tabCrashed.commentPlaceholder2 "Opsjoneel kommentaren (kommentaren binne publyklik sichtber)">
+<!ENTITY tabCrashed.includeURL2 "Side-URL opnimme yn dit ûngelokrapport">
 <!ENTITY tabCrashed.emailPlaceholder "Fier hjir jo e-mailadres yn">
 <!ENTITY tabCrashed.emailMe "My in e-mailberjocht stjoere sa gau as der mear ynformaasje beskikber is">
 <!ENTITY tabCrashed.reportSent "It ûngelokrapport is al ferstjoerd; tank dat jo meihelpe &brandShortName; better te meitsjen!">
+<!ENTITY tabCrashed.requestAutoSubmit "Eftergrûnljepblêden fersykje">
+<!ENTITY tabCrashed.autoSubmit "Fernij foarkarren om automatysk eardere ûngelokrapporten yn te tsjinjen (en yn de takomst minder berjochten lykas dizze fan ús te krijen)">
