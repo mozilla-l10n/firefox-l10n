@@ -44,6 +44,8 @@
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ఏదో ఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
+
+
 <!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!ENTITY malformedURI.longDesc "
 <ul>
@@ -150,7 +152,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 
 <!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
-<!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
+<!ENTITY errorReporting.learnMore "ఇంకా తెలుసుకోండి…">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>దయజేసి వెబ్‌సైటు యజమాలను సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul></p>">

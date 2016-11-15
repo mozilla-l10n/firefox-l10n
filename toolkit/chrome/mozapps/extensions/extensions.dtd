@@ -227,7 +227,7 @@
 <!ENTITY experiment.info.changetelemetry "టెలీమెట్రీ అమరికలు">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "మరింత తెలుసుకోండి…">
+<!ENTITY setting.learnmore "ఇంకా తెలుసుకోండి…">
 
 <!ENTITY disabledUnsigned.heading "కొన్ని పొడిగింతలు అచేతనించబడ్డాయి">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):

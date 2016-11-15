@@ -88,7 +88,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "ఈ వ్యవస్థపై మీరు ఇంకేమీ తాజాకరణలు చెయ్యలేరు. ">
-<!ENTITY update.unsupported.linkText "మరింత తెలుసుకోండి">
+<!ENTITY update.unsupported.linkText "ఇంకా తెలుసుకోండి">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
