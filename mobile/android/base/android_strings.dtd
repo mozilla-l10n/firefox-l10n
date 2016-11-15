@@ -73,7 +73,7 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "คั่นหน้าอยู่แล้ว">
 <!ENTITY bookmark_removed "เอาที่คั่นหน้าออกแล้ว">
-<!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
+<!ENTITY bookmark_updated "อัปเดตที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
 <!ENTITY screenshot_added_to_bookmarks "เพิ่มภาพหน้าจอไปยังที่คั่นหน้าแล้ว">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -196,8 +196,8 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "การเรียกคืนแท็บ, การประหยัดข้อมูล, เครื่องมือนักพัฒนา">
 <!ENTITY pref_category_notifications "การแจ้งเตือน">
-<!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่, การปรับปรุงเว็บไซต์">
-<!ENTITY pref_content_notifications "การปรับปรุงเว็บไซต์">
+<!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่, การอัปเดตเว็บไซต์">
+<!ENTITY pref_content_notifications "การอัปเดตเว็บไซต์">
 <!ENTITY pref_content_notifications_summary2 "ค้นพบเนื้อหาใหม่จากไซต์ที่รองรับ">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
@@ -209,7 +209,7 @@
 <!ENTITY pref_category_home_summary "ปรับแต่งหน้าแรกของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
 <!ENTITY pref_category_home_add_ons "ส่วนเสริม">
-<!ENTITY pref_home_updates2 "การปรับปรุงเนื้อหา">
+<!ENTITY pref_home_updates2 "การอัปเดตเนื้อหา">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
 <!ENTITY pref_whats_new_notification "มีอะไรใหม่ใน &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "เรียนรู้เกี่ยวกับคุณลักษณะใหม่หลังจากการปรับปรุง">
+<!ENTITY pref_whats_new_notification_summary "เรียนรู้เกี่ยวกับคุณลักษณะใหม่หลังจากการอัปเดต">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -323,7 +323,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "ปรับปรุง &formatD; เว็บไซต์แล้ว">
+<!ENTITY content_notification_title_plural "อัปเดต &formatD; เว็บไซต์แล้ว">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "การตั้งค่า">
@@ -333,7 +333,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "ปรับปรุงเมื่อ &formatS;">
+<!ENTITY content_notification_updated_on "อัปเดตเมื่อ &formatS;">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -444,7 +444,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "การปรับปรุงอัตโนมัติ">
+<!ENTITY pref_update_autodownload3 "การอัปเดตอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่เลย">
 <!ENTITY pref_update_autodownload_always "เสมอ">
@@ -690,21 +690,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติ">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "มีการปรับปรุงที่ใช้งานได้สำหรับ &brandShortName;">
+<!ENTITY updater_start_title2 "มีการอัปเดตที่ใช้งานได้สำหรับ &brandShortName;">
 <!ENTITY updater_start_select2 "สัมผัสเพื่อดาวน์โหลด">
 
 <!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "การดาวน์โหลดล้มเหลว">
-<!ENTITY updater_downloading_select2 "สัมผัสเพื่อใช้การปรับปรุงเมื่อดาวน์โหลดเสร็จ">
+<!ENTITY updater_downloading_select2 "สัมผัสเพื่อเรียกใช้การอัปเดตเมื่อดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "สัมผัสเพื่อลองใหม่">
 
-<!ENTITY updater_apply_title2 "มีการปรับปรุงที่ใช้งานได้สำหรับ &brandShortName;">
-<!ENTITY updater_apply_select2 "สัมผัสเพื่อปรับปรุง">
+<!ENTITY updater_apply_title2 "มีการอัปเดตที่ใช้งานได้สำหรับ &brandShortName;">
+<!ENTITY updater_apply_select2 "สัมผัสเพื่ออัปเดต">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "เพื่อดาวน์โหลดไฟล์และการปรับปรุง อนุญาตให้ &brandShortName; เข้าถึงที่เก็บข้อมูล">
+<!ENTITY updater_permission_text "เพื่อดาวน์โหลดไฟล์และการอัปเดต อนุญาตให้ &brandShortName; เข้าถึงที่เก็บข้อมูล">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "อนุญาต">
 
@@ -787,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 <!ENTITY restrictable_feature_clear_history_description "อนุญาตให้สมาชิกในครอบครัวลบข้อมูลเกี่ยวกับไซต์และหน้าที่พวกเขาเยี่ยมชม">
 <!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
-<!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า, การเรียกคืนแท็บ และการปรับปรุงอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
+<!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า, การเรียกคืนแท็บ และการอัปเดตอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
 <!ENTITY restrictable_feature_camera_microphone_description "อนุญาตให้สมาชิกในครอบครัวมีส่วนร่วมในการสื่อสารตามเวลาจริงบนเว็บไซต์">
 <!ENTITY restrictable_feature_block_list "รายการการปิดกั้น">
@@ -810,7 +810,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1;, &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
 
-<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการปรับปรุงอีกต่อไป">
+<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการอัปเดตอีกต่อไป">
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
