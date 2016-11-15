@@ -39,12 +39,15 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
+#define nightly_heading Firefox Nightly వనరులు
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog Firefox Nightly బ్లాగు
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Mozilla బగ్ ట్రాకర్
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
@@ -59,6 +62,7 @@
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc Nightly గురించి IRCలో చర్చించు
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
