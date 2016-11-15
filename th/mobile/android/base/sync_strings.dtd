@@ -62,7 +62,7 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ถูกเปิดใช้งาน'>
 <!ENTITY fxaccount_status_needs_verification2 'บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลสำหรับยืนยันตัวตนใหม่'>
 <!ENTITY fxaccount_status_needs_credentials 'ไม่สามารถเชื่อมต่อ แตะเพื่อลงชื่อเข้า'>
-<!ENTITY fxaccount_status_needs_upgrade 'คุณจำเป็นต้องปรับรุ่น &brandShortName; เพื่อลงชื่อเข้า'>
+<!ENTITY fxaccount_status_needs_upgrade 'คุณจำเป็นต้องอัปเกรด &brandShortName; เพื่อลงชื่อเข้า'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ซิงค์โดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ใน การตั้งค่า Android &gt; การใช้ข้อมูล'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ซิงค์โดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนู การตั้งค่า Android &gt; บัญชี'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'แตะเพื่อลงชื่อเข้าบัญชี Firefox ใหม่ของคุณ'>
@@ -103,7 +103,7 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'คุณจำเป็นต้องปรับรุ่น Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'คุณจำเป็นต้องอัปเกรด Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'บัญชีมีอยู่แล้ว &formatS1;'>
@@ -120,7 +120,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'แตะเพื่อลงชื่อเข้าเป็น &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'เสร็จสิ้นการปรับรุ่น &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'เสร็จสิ้นการอัปเกรด &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'แตะเพื่อลงชื่อเข้าเป็น &formatS;'>
