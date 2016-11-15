@@ -392,10 +392,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "పొడిగింపు:">
 <!ENTITY urlbar.switchToTab.label     "ట్యాబుకు మారు:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ఇంకా తెలుసుకోండి…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "కాదు">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -725,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనించు">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
+<!ENTITY identity.learnMore "ఇంకా తెలుసుకోండి">
 
 <!ENTITY identity.removeCertException.label "మినహాయింపును తొలగించు">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -826,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "ట్రాకింగు">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
-<!ENTITY trackingContentBlocked.learnMore "మరింత తెలుసుకోండి">
+<!ENTITY trackingContentBlocked.learnMore "ఇంకా తెలుసుకోండి">
 <!ENTITY trackingContentBlocked.options "ఎంపికలు">
 <!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
@@ -878,5 +879,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "సురక్షిత విహారణ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "కృతజ్ఞతలు!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకోండి…">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి ఇంకా తెలుసుకోండి…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

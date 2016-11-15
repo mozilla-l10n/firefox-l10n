@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "విషయ సంగ్రహం">
 <!ENTITY  paneApplications.title  "అనువర్తనాలు">
 <!ENTITY  panePrivacy.title       "గోప్యత">
+<!ENTITY  paneContainers.title    "కంటైనర్ ట్యాబులు">
 <!ENTITY  paneSecurity.title      "రక్షణ">
 <!ENTITY  paneAdvanced.title      "ఉన్నతం">
 

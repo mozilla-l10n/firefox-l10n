@@ -159,6 +159,13 @@
 <!ENTITY options.timestampMessages.label      "టైమ్‌స్టాంప్స్ చేతనంచేయి">
 <!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఎంపిక చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "డీబగ్గర్">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

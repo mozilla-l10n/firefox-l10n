@@ -29,6 +29,8 @@
 <!ENTITY aboutNetworking.messagesReceived      "స్వీకరించిన సందేశాలు">
 <!ENTITY aboutNetworking.bytesSent             "పంపిన బైట్లు">
 <!ENTITY aboutNetworking.bytesReceived         "స్వీకరించిన బైట్లు">
+<!ENTITY aboutNetworking.startLogging          "లాగింగ్ ప్రారంభించు">
+<!ENTITY aboutNetworking.stopLogging           "లాగింగ్ ఆపివేయి">
 <!ENTITY aboutNetworking.dnsLookup             "DNS శోధన">
 <!ENTITY aboutNetworking.dnsLookupButton       "పరిష్కరించు">
 <!ENTITY aboutNetworking.dnsDomain             "డొమైన్">
