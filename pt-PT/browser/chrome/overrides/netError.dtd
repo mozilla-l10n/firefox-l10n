@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
 
