@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Utnûging skiede per dielnimmer">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "s">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Dizze opsje stjoert ien útnûgings-e-mail per dielnimmer. Elke útnûging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
-<!ENTITY event.attendees.disallowcounter.label       "Teller net tastean">
+<!ENTITY event.attendees.disallowcounter.label       "Nij foarstel net tastean">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Jout oan dat jo gjin tellerfoarstellen akseptearje">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Jout oan dat jo gjin nije foarstellen akseptearje">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
