@@ -64,11 +64,11 @@
 <!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "M">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; debe:">
-<!ENTITY  historyHeader.pre.accesskey      "d">
-<!ENTITY  historyHeader.remember.label     "Recordar el historial">
-<!ENTITY  historyHeader.dontremember.label "Nunca recordar el historial">
-<!ENTITY  historyHeader.custom.label       "Usar configuraciones personalizadas para el historial">
+<!ENTITY  historyHeader.pre.label          "Quiero que &brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "Q">
+<!ENTITY  historyHeader.remember.label     "Recuerde el historial">
+<!ENTITY  historyHeader.dontremember.label "No guarde el historial">
+<!ENTITY  historyHeader.custom.label       "Utilice configuraciones personalizadas para el historial">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; recordará tu historial de navegación, descargas, formularios y búsquedas, y guardará las cookies de los sitios web que visites.">
