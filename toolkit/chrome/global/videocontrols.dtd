@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY playButton.playLabel "เล่น">
-<!ENTITY playButton.pauseLabel "หยุด">
+<!ENTITY playButton.pauseLabel "หยุดชั่วคราว">
 <!ENTITY muteButton.muteLabel "ปิดเสียง">
 <!ENTITY muteButton.unmuteLabel "เปิดเสียง">
 <!ENTITY fullscreenButton.enterfullscreenlabel "เต็มจอ">
