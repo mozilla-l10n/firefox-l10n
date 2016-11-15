@@ -31,3 +31,7 @@
 <!ENTITY manageDevices.label "管理安全裝置…">
 <!ENTITY manageDevices.accesskey "g">
 
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "選擇憑證">
+<!ENTITY certPicker.info  "憑證">
+<!ENTITY certPicker.detailsLabel "選擇的憑證的詳細資訊:">
