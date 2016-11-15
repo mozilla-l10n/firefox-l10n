@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Wps.">
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
 <!ENTITY malformedURI.longDesc "<ul> <li>Fel rheol mae cyfeiriadau Gwe'n cael eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
 

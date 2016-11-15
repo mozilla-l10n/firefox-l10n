@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "I">
 <!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
 <!ENTITY urlbar.accesskey             "g">
+
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Hoffech chi wella eich profiad chwilio drwy ychwanegu awgrymiadau?">
