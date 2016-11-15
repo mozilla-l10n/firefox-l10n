@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "ఇంకా తెలుసుకోండి">
 <!ENTITY  browserContainersEnabled.label        "కంటైనర్ ట్యాబులను చేతనం చేయి">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "అమరికలు…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
