@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "接收消息">
 <!ENTITY aboutNetworking.bytesSent             "发送字节">
 <!ENTITY aboutNetworking.bytesReceived         "接收字节">
+<!ENTITY aboutNetworking.logging               "日志">
+<!ENTITY aboutNetworking.logTutorial           "参见 <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP 日志</a> 了解如何使用此工具。">
+<!ENTITY aboutNetworking.currentLogFile        "当前日志文件：">
+<!ENTITY aboutNetworking.currentLogModules     "当前日志模块：">
+<!ENTITY aboutNetworking.setLogFile            "设置设置文件">
+<!ENTITY aboutNetworking.setLogModules         "设置日志模块">
+<!ENTITY aboutNetworking.startLogging          "开始记录日志">
+<!ENTITY aboutNetworking.stopLogging           "停止记录日志">
 <!ENTITY aboutNetworking.dnsLookup             "DNS 查询">
 <!ENTITY aboutNetworking.dnsLookupButton       "解析">
 <!ENTITY aboutNetworking.dnsDomain             "域名">
