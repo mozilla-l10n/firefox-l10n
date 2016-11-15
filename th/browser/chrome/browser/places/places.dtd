@@ -82,7 +82,7 @@
 
 <!ENTITY col.name.label          "ชื่อ">
 <!ENTITY col.tags.label          "ป้ายกำกับ">
-<!ENTITY col.url.label           "ที่ตั้ง">
+<!ENTITY col.url.label           "ตำแหน่งที่ตั้ง">
 <!ENTITY col.mostrecentvisit.label "ที่เยี่ยมชมเร็ว ๆ นี้">
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
 <!ENTITY col.description.label   "คำอธิบาย">
