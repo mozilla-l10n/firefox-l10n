@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
 <!ENTITY  browserContainersEnabled.label        "Ativar abas container">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Configurações…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
