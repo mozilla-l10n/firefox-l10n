@@ -43,6 +43,10 @@ do seu computador.</li> 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
 
+<!ENTITY captivePortal.title "Autenticar na rede">
+
+<!ENTITY openPortalLoginPage.label "Abrir página de autenticação">
+
 <!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Endereços web são geralmente escritos como 
