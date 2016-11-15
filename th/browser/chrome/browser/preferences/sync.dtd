@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "ชื่ออุปกรณ์:">
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
 <!ENTITY changeSyncDeviceName.label "เปลี่ยนชื่ออุปกรณ์…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "บันทึก">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "เลิกเชื่อมโยงอุปกรณ์นี้">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "คุณไม่ได้ลงชื่อเข้า">
 <!ENTITY signIn.label                "ลงชื่อเข้า">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "ตัดการเชื่อมต่อ…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้ &brandShortName;">
 <!ENTITY welcome.signIn.label "ลงชื่อเข้า">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "ซิงค์ระหว่างอุปกรณ์ทั้งหมด">
 

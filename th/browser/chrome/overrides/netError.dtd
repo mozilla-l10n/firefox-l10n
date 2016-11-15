@@ -9,8 +9,8 @@
 <!ENTITY retry.label "ลองอีกครั้ง">
 <!ENTITY returnToPreviousPage.label "ย้อนกลับ">
 <!ENTITY advanced.label "ขั้นสูง">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -29,6 +29,10 @@
 
 <!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
+
+<!ENTITY captivePortal.title "เข้าสู่ระบบเครือข่าย">
+
+<!ENTITY openPortalLoginPage.label "เปิดหน้าเข้าสู่ระบบ">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!ENTITY malformedURI.longDesc "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
@@ -107,9 +111,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย">
 <!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) ลองโหลด <span class='hostname'></span> โดยใช้ความปลอดภัยที่ล้าสมัย">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p>การเชื่อมต่อปลอดภัยไปยัง <span id='wrongSystemTime_URL'/> เป็นไปไม่ได้เนื่องจากนาฬิกาของคุณดูเหมือนจะแสดงเวลาผิด</p> <p>คอมพิวเตอร์ของคุณคิดว่าคือ <span id='wrongSystemTime_systemDate'/> ขณะที่ควรจะเป็น <span id='wrongSystemTime_actualDate'/> เพื่อแก้ปัญหานี้ เปลี่ยนการตั้งค่าวันที่และเวลาของคุณเพื่อให้ตรงกับเวลาที่ถูกต้อง</p>">
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
