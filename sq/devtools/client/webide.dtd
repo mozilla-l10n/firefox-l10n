@@ -196,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Nëse pajisja juaj tjetër kërkon një token, në vend se të skanimit të një kodi QR, ju lutemi, kopjoni te pajisja tjetër vlerën më poshtë:">
+<!ENTITY wifi_auth_qr_size_note "Nëse kodi QR duket shumë i vogël që lidhja të vendoset me sukses, provoni ta zmadhoni ose zgjeroni dritaren.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Regjistrime Urdhrash Pre-packaging">
