@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Kopo ya Boitshupo jwa Modirisi">
 <!ENTITY clientAuthAsk.message1 "Setsha seno se kopile gore o itshupe ka setifikeiti:">
 <!ENTITY clientAuthAsk.message2 "Tlhopha setifikeiti se o tla se tlhagisang jaaka boitshupo:">
-<!ENTITY clientAuthAsk.message3 "Dintlha tsa setifikeiti se se tlhophilweng:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Tlhopha setifikeiti">
-<!ENTITY certPicker.info  "Setifikeiti:">
-<!ENTITY certPicker.detailsLabel "Dintlha tsa setifikeiti se se tlhophilweng:">
 
 <!ENTITY pkcs12.setpassword.title  "Tlhopha khunololamoraba ya Poloko ya Setifikeiti">
 <!ENTITY pkcs12.setpassword.message  "Khunololamoraba ya poloko ya setifikeiti e o e tlhomileng fano e sireletsa faele ya poloko e o tlogang o e tlhama.  O tshwanetse go tlhoma khunololamoraba eno go tswelela ka poloko.">

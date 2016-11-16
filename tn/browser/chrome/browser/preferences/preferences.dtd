@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Diteng">
 <!ENTITY  paneApplications.title  "Dirweboleta">
 <!ENTITY  panePrivacy.title       "Sephiri">
+
 <!ENTITY  paneSecurity.title      "Pabalesego">
 <!ENTITY  paneAdvanced.title      "Tsweletseng">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
