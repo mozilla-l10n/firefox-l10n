@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Trobar a siguient aparición d'a frase">
 <!ENTITY previous.tooltip "Trobar l'anterior aparición d'a frase">
 <!ENTITY findCloseButton.tooltip "Zarrar a barra de busca">
-<!ENTITY highlightAll.label "Resaltar-lo tot">
-<!ENTITY highlightAll.accesskey "R">
+
+
 <!ENTITY highlightAll.tooltiptext "Resaltar todas as aparicions d'a frase">
 <!ENTITY caseSensitive.label "Coincidir mayusclas">
 <!ENTITY caseSensitive.accesskey "C">

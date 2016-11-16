@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Complementos">
 <!ENTITY engine.addons.accesskey    "C">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Nombre d'o dispositivo:">
-<!ENTITY syncDeviceName.accesskey   "m">
 <!ENTITY fxaSyncDeviceName.label       "Nombre d'o dispositivo">
-<!ENTITY changeSyncDeviceName.label "Cambear o nombre d'o dispositivo…">
-<!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
-<!ENTITY saveChangeSyncDeviceName.label "Alzar">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Desvincular iste dispositivo">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "No ha encetau garra sesión.">
-<!ENTITY signIn.label                "Connectar-se">
+
+
 <!ENTITY profilePicture.tooltip      "Cambiar a imachen de perfil">
-<!ENTITY verifiedManage.label        "Chestionar a cuenta">
-<!ENTITY disconnect.label            "Desconnectar...">
-<!ENTITY verify.label                "Verificar mensache">
-<!ENTITY forget.label                "Oblide iste mensache">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Acceda a las suyas pestanyas, marcapachinas, claus y mas siempre que faiga servir &brandShortName;.">
 <!ENTITY welcome.signIn.label "Connectar-se">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Connectar con una &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creyar una cuenta">
+
 <!ENTITY signedOut.accountBox.signin  "Connectar-se">
+
 
 <!ENTITY signedIn.engines.label       "Sincronizar entre totz os dispositivos">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
