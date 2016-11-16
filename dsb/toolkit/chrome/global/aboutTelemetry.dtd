@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalary">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Skoděrowane histogramy">

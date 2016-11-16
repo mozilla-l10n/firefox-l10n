@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Dostane powěsći">
 <!ENTITY aboutNetworking.bytesSent             "Pósłane bajty">
 <!ENTITY aboutNetworking.bytesReceived         "Dostane bajty">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS-pytanje">
 <!ENTITY aboutNetworking.dnsLookupButton       "Rozeznaś">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">

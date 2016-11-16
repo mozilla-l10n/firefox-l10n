@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Hopla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok někakeje pśicyny dla cytaś.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Adresa njejo płaśiwa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webadrese pišu se zwětšego <strong>http://www.example.com/</strong>.</li> <li>Zawěsććo, až wužywaśo doprědka schylone nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">
 
