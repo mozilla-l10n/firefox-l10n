@@ -29,6 +29,9 @@
 <!ENTITY generic.title "O!O!">
 <!ENTITY generic.longDesc "<p>&brandShortName; e ka se hlahlele letlakala le ka lebaka le itšego.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Aterese ga e šome">
 <!ENTITY malformedURI.longDesc "<ul> <li>Diaterese tša wepe gantši di ngwalwa ka tsela ye <strong>http://www.example.com/</strong></li> <li>Kgonthišetša gore o diriša methaladi yeo e robaletšego pele (ke gore. <strong>/</strong>).</li> </ul>">
 

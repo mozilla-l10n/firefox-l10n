@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Dikagare">
 <!ENTITY  paneApplications.title  "Ditirišo">
 <!ENTITY  panePrivacy.title       "Bosephiri">
+
 <!ENTITY  paneSecurity.title      "Tšhireletšego">
 <!ENTITY  paneAdvanced.title      "Gatetšego pele">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
