@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Okuqukethwe">
 <!ENTITY  paneApplications.title  "Izinhlelokusebenza">
 <!ENTITY  panePrivacy.title       "Okwangasese">
+
 <!ENTITY  paneSecurity.title      "Ukuphepha">
 <!ENTITY  paneAdvanced.title      "Okuthuthukile">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
