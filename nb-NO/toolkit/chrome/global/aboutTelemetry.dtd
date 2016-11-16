@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalarer">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrammer">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrammer etter nøkler">
