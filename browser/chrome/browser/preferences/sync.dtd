@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Қосымшалар">
 <!ENTITY engine.addons.accesskey    "о">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Құрылғы аты:">
-<!ENTITY syncDeviceName.accesskey   "а">
 <!ENTITY fxaSyncDeviceName.label       "Құрылғы аты">
-<!ENTITY changeSyncDeviceName.label "Құрылғы атын өзгерту…">
-<!ENTITY cancelChangeSyncDeviceName.label "Бас тарту">
-<!ENTITY saveChangeSyncDeviceName.label "Сақтау">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Бұл құрылғыны өшіру">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Сіз кірген жоқсыз.">
-<!ENTITY signIn.label                "Кіру">
+
+
 <!ENTITY profilePicture.tooltip      "Профиль суретін ауыстыру">
-<!ENTITY verifiedManage.label        "Тіркелгіні басқару">
-<!ENTITY disconnect.label            "Байланысты үзу…">
-<!ENTITY verify.label                "Эл. поштаны растау">
-<!ENTITY forget.label                "Бұл эл. поштаны алып тастау">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "&brandShortName; қолданатын барлық жерлеріңізде де өз беттер, бетбелгілер және парольдерге қатынаңыз.">
 <!ENTITY welcome.signIn.label "Кіру">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; көмегімен байланысу">
 <!ENTITY signedOut.accountBox.create  "Тіркелгіні жасау">
+
 <!ENTITY signedOut.accountBox.signin  "Кіру">
+
 
 <!ENTITY signedIn.engines.label       "Барлық құрылғылар арасында синхрондау">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
