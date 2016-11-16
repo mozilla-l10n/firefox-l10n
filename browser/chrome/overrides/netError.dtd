@@ -30,8 +30,10 @@
 <!ENTITY generic.title "متأسفیم.">
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
+<!ENTITY captivePortal.title "ورود به شبکه">
+<!ENTITY captivePortal.longDesc "<p>ممکن است این شبکه برای اتصال به اینترنت نیاز به ورود داشته باشد.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "باز کردن صفحه ورود">
 
 <!ENTITY malformedURI.title "نشانی معتبر نیست">
 <!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">

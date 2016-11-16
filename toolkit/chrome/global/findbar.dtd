@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "پیدا کردن رخداد بعدی عبارت">
 <!ENTITY previous.tooltip "پیدا کردن رخداد قبلی عبارت">
 <!ENTITY findCloseButton.tooltip "بستن نوار پیدا کردن">
-
-
+<!ENTITY highlightAll.label "پررنگ‌سازی همه">
+<!ENTITY highlightAll.accesskey "ه">
 <!ENTITY highlightAll.tooltiptext "پررنگ‌سازی همهٔ رخدادهای عبارت">
 <!ENTITY caseSensitive.label "تطابق بزرگی و کوچکی حروف">
 <!ENTITY caseSensitive.accesskey "ط">

@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "عمومی">
 <!ENTITY  generalTab.accesskey  "ع">
-
+<!ENTITY  generalTitle          "عنوان:">
 <!ENTITY  generalURL            "نشانی:">
 <!ENTITY  generalType           "نوع:">
 <!ENTITY  generalMode           "حالت ترسیم:">
