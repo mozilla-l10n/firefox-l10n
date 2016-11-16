@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "区分大小写">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "以大小写敏感方式搜索">
-<!ENTITY entireWord.label "整个语段">
+<!ENTITY entireWord.label "整小句匹配">
 <!ENTITY entireWord.accesskey "w">
-<!ENTITY entireWord.tooltiptext "仅搜索整个中文语段或整个单词（如英文单词）">
+<!ENTITY entireWord.tooltiptext "仅搜索以符号分隔开的整个中文小句，或是整个单词（如英文单词）">
