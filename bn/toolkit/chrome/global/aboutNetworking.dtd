@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "বার্তা গৃহীত হয়েছে">
 <!ENTITY aboutNetworking.bytesSent             "প্রেরিত বাইট">
 <!ENTITY aboutNetworking.bytesReceived         "প্রাপ্ত বাইট">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "ডিএনএস লুকআপ">
 <!ENTITY aboutNetworking.dnsLookupButton       "রিজলভ">
 <!ENTITY aboutNetworking.dnsDomain             "ডোমেইন">
