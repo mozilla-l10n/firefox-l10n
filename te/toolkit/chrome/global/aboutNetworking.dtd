@@ -29,6 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "స్వీకరించిన సందేశాలు">
 <!ENTITY aboutNetworking.bytesSent             "పంపిన బైట్లు">
 <!ENTITY aboutNetworking.bytesReceived         "స్వీకరించిన బైట్లు">
+<!ENTITY aboutNetworking.logTutorial           "ఈ పనిముట్టును ఎలా వాడుకోవాలో సూచనల కోసం <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP లాగింగ్</a>‌ను చూడండి.">
 <!ENTITY aboutNetworking.startLogging          "లాగింగ్ ప్రారంభించు">
 <!ENTITY aboutNetworking.stopLogging           "లాగింగ్ ఆపివేయి">
 <!ENTITY aboutNetworking.dnsLookup             "DNS శోధన">
