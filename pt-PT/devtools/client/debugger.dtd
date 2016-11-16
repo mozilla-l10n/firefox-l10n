@@ -167,7 +167,7 @@
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.workers        "Workers">
-<!ENTITY debuggerUI.tabs.sources        "Origens">
+<!ENTITY debuggerUI.tabs.sources        "Fontes">
 <!ENTITY debuggerUI.tabs.traces         "Traces">
 <!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Variáveis">

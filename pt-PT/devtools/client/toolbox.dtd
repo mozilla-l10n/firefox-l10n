@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da consola web irão mostrar uma marca temporal">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Depurador">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Ativar mapas de fonte">
+<!ENTITY options.sourceMaps.tooltip    "Se ativar esta opção as fontes serão mapeadas no depurador e na consola.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

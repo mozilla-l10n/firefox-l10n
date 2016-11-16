@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
+<!ENTITY captivePortal.title "Iniciar sessão à rede">
+<!ENTITY captivePortal.longDesc "<p>Esta rede pode necessitar que inicie sessão para utilizar a internet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Abrir página de início de sessão">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
