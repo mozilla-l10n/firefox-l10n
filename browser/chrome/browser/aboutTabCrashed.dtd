@@ -2,15 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "An droch-naidheachd an toiseach: Thuislich an taba seo">
-<!ENTITY tabCrashed.message "Agus an deagh-naidheachd a-nis: 'S urrainn dhut an taba seo a dhùnadh, aiseag no na tabaichean uile a thuislich aiseag.">
-<!ENTITY tabCrashed.sendReport "Cuir thugainn aithisg mun tuisleach airson 's gun urrainn dhuinn a chàradh">
-<!ENTITY tabCrashed.includeURL "Gabh a-steach seòladh na duilleige far an robh mi">
-<!ENTITY tabCrashed.commentPlaceholder "Cuir beachd ris (chithear na beachdan gu poblach)">
-<!ENTITY tabCrashed.emailPlaceholder "Cuir a-steach am post-d agad an-seo">
-<!ENTITY tabCrashed.emailMe "Cuir post-d thugam nuair a bhios fiosrachadh ri fhaighinn">
-<!ENTITY tabCrashed.crashReporter "Aithrisiche thuislidhean Mozilla">
-<!ENTITY tabCrashed.reportSent "Chaidh an aithisg mun tuisleach a chur mu thràth, mòran taing airson taic a chumail rinn a' leasachadh &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Dùin an taba seo">
 <!ENTITY tabCrashed.restoreTab "Aisig an taba seo">
 <!ENTITY tabCrashed.restoreAll "Aisig gach taba a thuislich">
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY tabCrashed.emailPlaceholder "Cuir a-steach am post-d agad an-seo">
+<!ENTITY tabCrashed.emailMe "Cuir post-d thugam nuair a bhios fiosrachadh ri fhaighinn">
+<!ENTITY tabCrashed.reportSent "Chaidh an aithisg mun tuisleach a chur mu thràth, mòran taing airson taic a chumail rinn a' leasachadh &brandShortName;!">
+
+
