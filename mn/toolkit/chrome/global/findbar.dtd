@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Хайлтын дараагийн олдцыг харуулна">
 <!ENTITY previous.tooltip "Хайлтын өмнөх олдцыг харуулна">
 <!ENTITY findCloseButton.tooltip "Олох самбарыг хаах">
-<!ENTITY highlightAll.label "Бүгдийг тодотгох">
-<!ENTITY highlightAll.accesskey "Б">
+
+
 <!ENTITY highlightAll.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
 
 

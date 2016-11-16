@@ -34,12 +34,12 @@
 <!ENTITY engine.addons.accesskey    "Н">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "төхөөрөмжийн нэр">
-<!ENTITY syncDeviceName.accesskey   "c">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Цуцал">
-<!ENTITY saveChangeSyncDeviceName.label "Хадгал">
+
+
+
+
 <!ENTITY unlinkDevice.label           "энэ төхөөрөмжийн холболтыг салгах">
 <!-- Footer stuff -->
 
@@ -61,6 +61,13 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
 
 
 

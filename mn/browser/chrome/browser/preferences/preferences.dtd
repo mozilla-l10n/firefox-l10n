@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Вэб бүтэц">
 <!ENTITY  paneApplications.title  "Програмууд">
 <!ENTITY  panePrivacy.title       "Хувийн нууц">
+
 <!ENTITY  paneSecurity.title      "Нууцлал">
 <!ENTITY  paneAdvanced.title      "Нэмэлт">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

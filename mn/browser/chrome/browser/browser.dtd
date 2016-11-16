@@ -351,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Үгүй">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Тийм">
