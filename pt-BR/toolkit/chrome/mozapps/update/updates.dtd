@@ -9,8 +9,8 @@
 <!ENTITY  noupdatesfound.title            "Nenhuma atualização encontrada">
 <!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; verificará 
 periodicamente a disponibilidade de novas versões.">
-<!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor, verifique mais tarde ou ative 
-a verificação automática de atualizações do &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor, verifique mais tarde ou habilite
+                                           a verificação automática de atualizações do &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Não é possível atualizar">
 <!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade, mas você 
