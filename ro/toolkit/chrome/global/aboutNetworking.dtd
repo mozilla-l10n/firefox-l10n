@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mesaje primite">
 <!ENTITY aboutNetworking.bytesSent             "Byți trimiși">
 <!ENTITY aboutNetworking.bytesReceived         "Byți primiți">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Analiză DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Rezolvă">
 <!ENTITY aboutNetworking.dnsDomain             "Domeniu">
