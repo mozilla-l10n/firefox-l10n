@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
 <!ENTITY urlbar.accesskey             "ð">
-
+<!ENTITY urlbar.extension.label       "Skráarending:">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Viltu bæta leitina með því að nota uppástungur?">
