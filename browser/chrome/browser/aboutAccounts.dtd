@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Bağlantı yok">
 <!ENTITY aboutAccounts.noConnection.description "Giriş yapmak için internete bağlı olmalısınız.">
 <!ENTITY aboutAccounts.noConnection.retry "Yeniden dene">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Hatalı yapılandırma">
+<!ENTITY aboutAccounts.badConfig.description "Firefox Hesabı sunucu yapılandırmanız tespit edilemedi. Lütfen daha sonra yeniden deneyin.">

@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Genel">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Başlık:">
 <!ENTITY  generalURL            "Adres:">
 <!ENTITY  generalType           "Tür:">
 <!ENTITY  generalMode           "Yorum kipi:">
