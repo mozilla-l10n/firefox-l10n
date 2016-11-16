@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "Ɓ">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Innde Kaɓirgol:">
-<!ENTITY syncDeviceName.accesskey   "d">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Haaytu">
-<!ENTITY saveChangeSyncDeviceName.label "Danndu">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Seŋtu ngol kaɓirgol">
 <!-- Footer stuff -->
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "A seŋaaki.">
-<!ENTITY signIn.label                "Winndito">
 
 
-<!ENTITY disconnect.label            "Seŋtondir">
-<!ENTITY verify.label                "Ƴeewto Iimeel">
-<!ENTITY forget.label                "Yejjit oo Iimeel">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Heɓ tabbe, maantore, finndeeji maa e geɗe goɗɗe tuma kala nde kuutori-ɗaa &brandShortName;.">
 
 
 
 <!ENTITY welcome.useOldSync.label "huutoraade baar Sync ɓooyɗo">
+
+
 
 
 

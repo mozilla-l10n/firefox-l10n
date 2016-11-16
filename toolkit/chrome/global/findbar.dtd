@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Yiylo cilol garowol konngol ngol">
 <!ENTITY previous.tooltip "Yiylo cilol ɓennugol konngol ngol">
 <!ENTITY findCloseButton.tooltip "Uddu palal njiilaw">
-<!ENTITY highlightAll.label "Jalbin Fof">
-<!ENTITY highlightAll.accesskey "F">
+
+
 <!ENTITY highlightAll.tooltiptext "Jalbin cili konngol ngol kala">
 <!ENTITY caseSensitive.label "Jaaɓnu darnde">
 <!ENTITY caseSensitive.accesskey "d">

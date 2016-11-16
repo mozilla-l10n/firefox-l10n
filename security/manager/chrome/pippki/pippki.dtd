@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Ɗaɓɓitannde Innitol Kuutoro">
 <!ENTITY clientAuthAsk.message1 "Ndee lowre ɗaɓɓitii yo a innito huutoraade seedamfaagu:">
 <!ENTITY clientAuthAsk.message2 "Suɓo seedamfaagu ngam wonande ma innitol:">
-<!ENTITY clientAuthAsk.message3 "Cariiɗe seedamfaagu labaangu nguu:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Labo Seedamfaagu">
-<!ENTITY certPicker.info  "Seedamfaaji:">
-<!ENTITY certPicker.detailsLabel "Cariiɗe seedamfaagu labaangu:">
 
 <!ENTITY pkcs12.setpassword.title  "Suɓo Finnde Dannditol Seedamfaagu">
 <!ENTITY pkcs12.setpassword.message  "Finnde dannditol seedamfaagu nde labi-ɗaa ɗoo ndee suurat fiilde dannditol nde ngon-ɗaa e sosde ndee. Aɗa foti suɓaade finnde ngam jokkude e dannditol ngol.">
