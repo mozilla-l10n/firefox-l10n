@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Søk eller skriv inn ei adresse">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Utviding:">
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetra søkjeopplevinga di med søkjeforslag?">

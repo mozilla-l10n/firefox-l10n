@@ -48,13 +48,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "les meir om kva du kan gjera.">
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-
-<!ENTITY tabgroupsmigration.tabtitle            "Migrer dei andre fanegruppene">
-<!ENTITY tabgroupsmigration.pagetitle2          "Me har fjerna fanegrupper, men har teke vare på fanene dine">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Lær meir om erstaningsutvidingar for fanegrupper">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; har laga bokmerke av alle fanegruppene dine, slik at du ikkje har mista noko.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Vis bokmerkte fanegrupper">
-<!ENTITY tabgroupsmigration.restoredescription  "Du kan òg velja å gjenoppretta nokre eller alle bakgrunnsgruppene til vindauge no:">
 

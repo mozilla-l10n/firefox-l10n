@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Forminsk til å passa">
 <!ENTITY customPrompt.title   "Eigendefinert skala …">
 <!ENTITY simplifyPage.label   "Forenkla sida">
+<!ENTITY simplifyPage.accesskey "F">
 <!ENTITY simplifyPage.enabled.tooltip  "Endra utsjånad for lettare lesing">
 <!ENTITY simplifyPage.disabled.tooltip "Denne sida kan ikkje automatisk forenklast">
 

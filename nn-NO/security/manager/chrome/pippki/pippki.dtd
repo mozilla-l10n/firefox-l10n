@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Førespurnad om brukaridentifikasjon">
 <!ENTITY clientAuthAsk.message1 "Denne nettstaden har bede om at du identifiserer deg sjølv med eit sertifikat:">
 <!ENTITY clientAuthAsk.message2 "Vel sertifikat som du vil bruka som identifikasjon:">
-<!ENTITY clientAuthAsk.message3 "Detaljar om valt sertifikat:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Vel sertifikat">
-<!ENTITY certPicker.info  "Sertifikat:">
-<!ENTITY certPicker.detailsLabel "Detaljar om valt sertifikat:">
 
 <!ENTITY pkcs12.setpassword.title  "Vel passord for tryggingskopi av sertifikat">
 <!ENTITY pkcs12.setpassword.message  "Passordet for tryggingskopien du vel her, vil verna tryggingskopi-fila du lagar no. Du må skriva inn dette passordet for å halda fram med tryggingskopieringa.">
