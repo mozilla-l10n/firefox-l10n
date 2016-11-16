@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Úps.">
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Níl an seoladh bailí">
 <!ENTITY malformedURI.longDesc "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.example.com/</strong></li> <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li> </ul>">
 
