@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Meldingar mottatt">
 <!ENTITY aboutNetworking.bytesSent             "Byte sendt">
 <!ENTITY aboutNetworking.bytesReceived         "Byte motteke">
+<!ENTITY aboutNetworking.logging               "Loggar">
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS-oppslag">
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå opp">
 <!ENTITY aboutNetworking.dnsDomain             "Domene">

@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Les meir">
 <!ENTITY  browserContainersEnabled.label        "Aktiver innehaldsfaner">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
+<!ENTITY  browserContainersSettings.label        "Innstillingar …">
+<!ENTITY  browserContainersSettings.accesskey    "I">
