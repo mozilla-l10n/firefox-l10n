@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Leita að næsta tilfelli þessara orða">
 <!ENTITY previous.tooltip "Leita að fyrra tilfelli þessara orða">
 <!ENTITY findCloseButton.tooltip "Loka leitarslá">
-
-
+<!ENTITY highlightAll.label "Lita allt">
+<!ENTITY highlightAll.accesskey "L">
 <!ENTITY highlightAll.tooltiptext "Lita öll tilvik orðsins">
 <!ENTITY caseSensitive.label "Stafrétt">
 <!ENTITY caseSensitive.accesskey "S">
