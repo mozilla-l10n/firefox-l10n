@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "Bidalitako hutsegite-txostenak">
+<!ENTITY crashesSubmitted.label     "Bidalitako hutsegite-txostenak">
 <!ENTITY id.heading                 "Txostenaren IDa">
-<!ENTITY date.heading               "Noiz bidalia">
+
+<!ENTITY dateSubmitted.heading      "Noiz bidalia">
 <!ENTITY noReports.label            "Ez da bidali hutsegite-txostenik.">
 <!ENTITY noConfig.label             "Aplikazio hau ez da konfiguratu hutsegite-txostenak bistaratzeko. Horretarako <code>breakpad.reportURL</code> hobespena ezarri behar da.">
 <!ENTITY clearAllReports.label      "Ezabatu txosten guztiak">
-
