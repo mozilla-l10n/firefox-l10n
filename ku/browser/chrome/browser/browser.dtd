@@ -373,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Peyveke lêgerînê yan jî navnîşanek">
 <!ENTITY urlbar.accesskey             "D">
+
 <!ENTITY urlbar.switchToTab.label     "Derbasî hilpekînê bibe:">
 
 
