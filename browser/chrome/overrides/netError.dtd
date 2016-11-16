@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "L'adreça no és vàlida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Les adreces web normalment s'escriuen així: <strong>http://www.example.com/</strong></li> <li>Assegureu-vos que utilitzeu les barres inclinades (<strong>/</strong>).</li> </ul>">
 

@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Missatges rebuts">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviats">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes rebuts">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Consulta DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resol">
 <!ENTITY aboutNetworking.dnsDomain             "Domini">

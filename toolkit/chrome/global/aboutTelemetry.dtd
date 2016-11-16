@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrames">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrames amb clau">
