@@ -12,8 +12,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2                "Riniseni &brandShortName;-in që të Përditësohet">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Zbatoni Përditësim…">
-<!ENTITY update.applyButtonBillboard.accesskey    "Z">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; është eksperimentale dhe mund të jetë e paqëndrueshme.">
