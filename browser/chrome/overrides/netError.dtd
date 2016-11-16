@@ -29,6 +29,9 @@
 <!ENTITY generic.title "ओफ्फ.">
 <!ENTITY generic.longDesc "<p>&brandShortName; किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .</p>">
 
+
+
+
 <!ENTITY malformedURI.title "पता वैध नहि अछि ">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब पता प्रायः एहि तरह लिखा जाएत अछि <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करू जे अहाँ फारवर्ड स्लैश क प्रयोग कए रहल छी (यानी <strong>/</strong>).</li> </ul>">
 
