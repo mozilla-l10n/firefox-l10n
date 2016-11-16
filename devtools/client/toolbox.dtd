@@ -159,6 +159,14 @@
 <!ENTITY options.timestampMessages.label      "Tiidstempels ynskeakelje">
 <!ENTITY options.timestampMessages.tooltip    "As jo dizze opsje ynskeakelje, sille opdrachten en útfier yn de webconsole in tiidstempel werjaan">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Debugger">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Boarneferwizingen ynskeakelje">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
