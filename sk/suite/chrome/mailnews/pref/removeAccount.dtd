@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Odstrániť účet a údaje">
+<!ENTITY removeButton.label           "Odstrániť">
+<!ENTITY removeButton.accesskey       "O">
+<!ENTITY removeAccount.label          "Odstrániť údaje o účte">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY showData.label               "Zobraziť umiestnenie údajov">
+<!ENTITY showData.accesskey           "Z">
+<!ENTITY progressPending              "Odstraňovanie zvolených údajov…">
+<!ENTITY progressSuccess              "Odstránenie bolo úspešné.">
+<!ENTITY progressFailure              "Odstránenie zlyhalo.">
