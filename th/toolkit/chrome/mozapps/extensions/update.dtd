@@ -5,23 +5,23 @@
 <!ENTITY  updateWizard.title              "อัปเดต &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; กำลังทำงานออฟไลน์">
-<!ENTITY  offline.description             "&brandShortName; ต้องการเชื่อมต่อออนไลน์ เพื่อตรวจสอบว่ามีรายการปรับรุ่นสำหรับส่วนเสริม ที่เข้ากันได้กับรุ่นนี้">
-<!ENTITY  offline.toggleOffline.label     "ออนไลน์เดี๋ยวนี้">
+<!ENTITY  offline.description             "&brandShortName; จำเป็นต้องออนไลน์เพื่อดูว่ามีอัปเดตที่ใช้งานได้สำหรับส่วนเสริมของคุณหรือไม่ เพื่อทำให้เข้ากันได้กับรุ่นนี้">
+<!ENTITY  offline.toggleOffline.label     "ออนไลน์ตอนนี้">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "ส่วนเสริมที่เข้ากันไม่ได้">
-<!ENTITY  mismatch.top.label              "ส่วนเสริมเหล่านี้เข้ากันไม่ได้กับ &brandShortName; รุ่นนี้ และถูกปิดการใช้งาน :">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; สามารถตรวจสอบว่ามีส่วนเสริมรุ่นที่เข้ากันได้ ให้ใช้หรือไม่">
+<!ENTITY  mismatch.top.label              "ส่วนเสริมดังต่อไปนี้เข้ากันไม่ได้กับ &brandShortName; รุ่นนี้และถูกปิดใช้งาน:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; สามารถตรวจสอบว่าส่วนเสริมเหล่านี้มีรุ่นที่เข้ากันได้หรือไม่">
 
-<!ENTITY  checking.wizard.title           "ตรวจสอบส่วนเสริมที่เข้ากันได้">
+<!ENTITY  checking.wizard.title           "กำลังตรวจสอบส่วนเสริมที่เข้ากันได้">
 <!ENTITY  checking.top.label              "กำลังตรวจสอบการอัปเดตสำหรับส่วนเสริมที่เข้ากันไม่ได้ของคุณ…">
 <!ENTITY  checking.status                 "อาจใช้เวลาสักครู่…">
 
 <!ENTITY  found.wizard.title               "พบส่วนเสริมที่เข้ากันได้">
 <!ENTITY  found.top.label                 "เลือกส่วนเสริมที่คุณต้องการติดตั้ง:">
-<!ENTITY  found.disabledXPinstall.label   "ไม่สามารถติดตั้งรายการปรับรุ่นเหล่านี้ เนื่องจากการติดตั้งโปรแกรมถูกปิดการใช้งาน คุณสามารถเปลี่ยนการตั้งค่าได้ด้านล่าง">
-<!ENTITY  found.enableXPInstall.label     "ยอมให้เว็บไซต์ติดตั้งโปรแกรมได้">
-<!ENTITY  found.enableXPInstall.accesskey "ย">
+<!ENTITY  found.disabledXPinstall.label   "ไม่สามารถติดตั้งการอัปเดตเหล่านี้เนื่องจากการติดตั้งซอฟต์แวร์ถูกปิดใช้งานอยู่ในขณะนี้ คุณสามารถเปลี่ยนการตั้งค่านี้ได้ด้านล่าง">
+<!ENTITY  found.enableXPInstall.label     "อนุญาตให้เว็บไซต์ติดตั้งซอฟต์แวร์">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "ติดตั้งส่วนเสริมที่เข้ากันได้">
 <!ENTITY  installing.top.label            "กำลังดาวน์โหลดและติดตั้งการปรับปรุงให้กับส่วนเสริมของคุณ…">
