@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ayhu.">
 <!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Tansa-yagi d tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
 

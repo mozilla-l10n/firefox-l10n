@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Izegrar">
 <!ENTITY engine.addons.accesskey    "z">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Isem n wallal:">
-<!ENTITY syncDeviceName.accesskey   "l">
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
-<!ENTITY changeSyncDeviceName.label "Snifel isem n wallal…">
-<!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
-<!ENTITY saveChangeSyncDeviceName.label "Kles">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Kkes allal-agi">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Ur teqqineḍ ara.">
-<!ENTITY signIn.label                "Tuqqna">
+
+
 <!ENTITY profilePicture.tooltip      "Snifel tugna n umaɣnu">
-<!ENTITY verifiedManage.label        "Sefrek imiḍanen">
-<!ENTITY disconnect.label            "Tuffɣa…">
-<!ENTITY verify.label                "Senqed tansa yinek imayl">
-<!ENTITY forget.label                "Ttu tansa-agi imayl">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Kcem ɣer iccaren-ik, ticraḍ n isebtaren, awalen uffiren d wayen yugaren aya seg yal ibenk i tseqdaceḍ &brandShortName;.">
 <!ENTITY welcome.signIn.label "Kcem">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Mtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
 <!ENTITY signedOut.accountBox.title   "Qqen ɣer &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Rnu amiḍan">
+
 <!ENTITY signedOut.accountBox.signin  "Kcem">
+
 
 <!ENTITY signedIn.engines.label       "Mtawi d ibenkan akk">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

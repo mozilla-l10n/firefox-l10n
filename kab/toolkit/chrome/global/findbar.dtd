@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Aff-d timseḍriwt n twinest d-iteddun">
 <!ENTITY previous.tooltip "Aff-d tamseḍriwt n twinest n deffir">
 <!ENTITY findCloseButton.tooltip "Mdel affeggag n unadi">
-<!ENTITY highlightAll.label "Err izirig imaṛṛa">
-<!ENTITY highlightAll.accesskey "z">
+
+
 <!ENTITY highlightAll.tooltiptext "Err izirig ɣef temsedriwin n twinest">
 <!ENTITY caseSensitive.label "Qadeṛ amasal n isekkilen">
 <!ENTITY caseSensitive.accesskey "Q">

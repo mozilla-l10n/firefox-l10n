@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Iznan ţwarmsen-d">
 <!ENTITY aboutNetworking.bytesSent             "Iṭamḍanen iţwaceggɛen">
 <!ENTITY aboutNetworking.bytesReceived         "Itamḍanen iţwaremsen">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Anadi DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Fru">
 <!ENTITY aboutNetworking.dnsDomain             "Taɣult">

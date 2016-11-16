@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Asuter n usulu n useqdac">
 <!ENTITY clientAuthAsk.message1 "Asmel-agi ad yessutur asulu s uselkin n tɣellist:">
 <!ENTITY clientAuthAsk.message2 "Fren aselkin i wesulay">
-<!ENTITY clientAuthAsk.message3 "Aglam n iselkan i fernen:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Fren aselkin">
-<!ENTITY certPicker.info  "Aselkin">
-<!ENTITY certPicker.detailsLabel "Aglam leqqayen n uselkin ifernen:">
 
 <!ENTITY pkcs12.setpassword.title  "Fen awal uffir n uḥraz n uselkin">
 <!ENTITY pkcs12.setpassword.message  "Awal uffir n usekles n uselkin i tesbaduḍ yakan, iḥrez ayaylu n usekles i terniḍ. Issefk ad muddeḍ awal uffir i wesenker n usekles-agi.">
