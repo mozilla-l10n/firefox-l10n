@@ -39,10 +39,10 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Mësoni Më Tepër">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName;-i parashtron te &vendorShortName; njoftime vithisjesh që të ndihmojë për ta bërë shfletuesin tuaj më të qëndrueshëm dhe më të sigurt">
-<!ENTITY enableCrashReporter.label       "Aktivizoje Njoftuesin e Vithisjeve">
-<!ENTITY enableCrashReporter.accesskey   "V">
-<!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
+<!ENTITY crashReporterDesc2.label         "Njoftimet mbi vithisje e ndihmojnë &vendorShortName;-n të ndreqë probleme dhe ta bëjë shfletuesin tuaj më të qëndrueshëm dhe të sigurt">
+<!ENTITY alwaysSubmitCrashReports.label   "Lejoje &brandShortName;-in të dërgojë njoftime vithisjesh në emrin tuaj">
+<!ENTITY alwaysSubmitCrashReports.accesskey "L">
+<!ENTITY crashReporterLearnMore.label     "Mësoni Më Tepër">
 
 <!ENTITY networkTab.label                "Rrjet">
 
