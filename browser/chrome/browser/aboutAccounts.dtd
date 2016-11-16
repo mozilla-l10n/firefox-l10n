@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Nincs kapcsolat">
 <!ENTITY aboutAccounts.noConnection.description "Csatlakoznia kell az internetre a bejelentkezéshez.">
 <!ENTITY aboutAccounts.noConnection.retry "Próbálja újra">
+
+

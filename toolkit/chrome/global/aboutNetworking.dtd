@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Kapott üzenetek">
 <!ENTITY aboutNetworking.bytesSent             "Küldött bájtok">
 <!ENTITY aboutNetworking.bytesReceived         "Kapott bájtok">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS kikeresés">
 <!ENTITY aboutNetworking.dnsLookupButton       "Feloldás">
 <!ENTITY aboutNetworking.dnsDomain             "Tartomány">
