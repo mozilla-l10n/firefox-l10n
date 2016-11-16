@@ -35,15 +35,15 @@ de aplicativos está desativada. Você pode mudar esta definição abaixo.">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não encontrou atualizações para 
 os seus complementos incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Alguns problemas foram encontrados ao tentar localizar atualizações.">
-<!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e notificará 
-quando encontrar atualizações compatíveis destes complementos.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; irá verificar periodicamente e informá-lo 
+                                           quando encontrar atualizações compatíveis para estas extensões.">
 
 <!ENTITY  finished.wizard.title           "Instaladas extensões e temas compatíveis">
 <!ENTITY  finished.top.label              "O &brandShortName; instalou as atualizações das extensões e temas.">
 <!ENTITY  finished.checkDisabled.desc     "O &brandShortName; pode verificar periodicamente e notificar 
 quando encontrar atualizações das extensões e temas.">
-<!ENTITY  finished.checkEnabled.desc      "O &brandShortName; verificará periodicamente e o notificará 
-quando atualizações forem encontradas.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; irá verificar periodicamente e informá-lo 
+                                           quando encontrar atualizações para estas extensões.">
 
 <!ENTITY  adminDisabled.wizard.title      "Não foi possível verificar atualizações">
 <!ENTITY  adminDisabled.warning.label     "Não foi possível verificar atualizações de complementos incompatíveis 

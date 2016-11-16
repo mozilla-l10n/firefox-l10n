@@ -31,10 +31,10 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Todos os complementos foram desativados pelo modo de segurança.">
 <!ENTITY warning.checkcompatibility.label          "A verificação de compatibilidade está desativada. Você pode ter complementos incompatíveis.">
-<!ENTITY warning.checkcompatibility.enable.label   "Ativar">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Ativar verificação de compatibilidade">
+<!ENTITY warning.checkcompatibility.enable.label   "Habilitar">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificação de compatibilidade de extensões">
 <!ENTITY warning.updatesecurity.label              "A verificação de segurança da conexão está desativada. Atualizações de complementos podem comprometer seu computador.">
-<!ENTITY warning.updatesecurity.enable.label       "Ativar">
+<!ENTITY warning.updatesecurity.enable.label       "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança da conexão de atualização">
 
 <!-- categories / views -->
@@ -84,8 +84,8 @@
 <!ENTITY cmd.about.label                      "Sobre">
 <!ENTITY cmd.about.accesskey                  "S">
 
-<!ENTITY cmd.enableAddon.label                "Ativar">
-<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.enableAddon.label                "Habilitar">
+<!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Desativar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Aplicar tema">
