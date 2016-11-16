@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "संदेश प्राप्त">
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स भेजा">
 <!ENTITY aboutNetworking.bytesReceived         "बाइट्स हस्तगत">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "डीएनएस अवलोकन">
 <!ENTITY aboutNetworking.dnsLookupButton       "समाधान करें">
 <!ENTITY aboutNetworking.dnsDomain             "डोमेन">
