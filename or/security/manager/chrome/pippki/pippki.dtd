@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "ଚାଳକ ଚିହ୍ନଟ ଅନୁରୋଧ">
 <!ENTITY clientAuthAsk.message1 "ଏହି ସାଇଟ ଅନୁରୋଧ କରିଥିଲାଯେ ଆପଣ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ସାହାଯ୍ୟରେ ନିଜେ ନିଜକୁ ଚିହ୍ନଟ କରାନ୍ତୁ:">
 <!ENTITY clientAuthAsk.message2 "ପରିଚୟ ଆକାରରେ ଉପସ୍ଥିତ କରିବା ପାଇଁ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ଚୟନ କରନ୍ତୁ:">
-<!ENTITY clientAuthAsk.message3 "ବଚ୍ଛିତ ପ୍ରମାଣପତ୍ରର ବିସ୍ତୃତ ବିବରଣୀ:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "ପ୍ରମାଣପତ୍ର ଚୟନ କରନ୍ତୁ">
-<!ENTITY certPicker.info  "ପ୍ରମାଣପତ୍ର:">
-<!ENTITY certPicker.detailsLabel "ବଚ୍ଛିତ ପ୍ରମାଣପତ୍ରର ବିସ୍ତୃତ ବିବରଣୀ:">
 
 <!ENTITY pkcs12.setpassword.title  "ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ ଚୟନ କରନ୍ତୁ">
 <!ENTITY pkcs12.setpassword.message  "ଆପଣ ଏଠାରେ ବିନ୍ୟାସ କରିଥିବା ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ ଆପଣ ନିର୍ମାଣ କରିବାକୁ ଯାଉଥିବା ନକଲ ସଂରକ୍ଷଣ ଫାଇଲକୁ ରକ୍ଷାକରେ. ନକଲ ସଂରକ୍ଷଣ ସହିତ ଆଗକୁ ବଢ଼ିବା ପାଇଁ ଆପଣଙ୍କୁ ଏହି ପ୍ରବେଶ ସଂକେତକୁ ବିନ୍ୟାସ କରିବାକୁ ପଡ଼ିବ.">

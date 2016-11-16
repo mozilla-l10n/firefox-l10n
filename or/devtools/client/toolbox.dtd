@@ -138,6 +138,11 @@
 
 <!ENTITY options.timestampMessages.label      "ସମୟ ଚିହ୍ନକୁ ସକ୍ରିୟ କରନ୍ତୁ">
 <!ENTITY options.timestampMessages.tooltip    "ଯଦି ଆପଣ ଏହି ବିକଳ୍ପ ନିର୍ଦ୍ଦେଶକୁ ସକ୍ରିୟ କରନ୍ତି ଏବଂୱେବ କୋନସୋଲରେ ଫଳାଫଳ ଏକ ସମୟ ଚିହ୍ନ ଦର୍ଶାଇବ">
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
