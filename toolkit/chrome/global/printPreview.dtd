@@ -32,7 +32,8 @@
 <!ENTITY Custom.label         "سفارشی…">
 <!ENTITY ShrinkToFit.label    "کوچک کردن به اندازهٔ صفحه">
 <!ENTITY customPrompt.title   "مقیاس سفارشی…">
-<!ENTITY simplifyPage.label   "ساده‌سازی صفحه">
+
+
 <!ENTITY simplifyPage.enabled.tooltip  "تغییر چیدمان برای خواندن آسان‌تر">
 <!ENTITY simplifyPage.disabled.tooltip "این صفحه نمی‌تواند به صورت خودکار ساده‌سازی شود">
 
