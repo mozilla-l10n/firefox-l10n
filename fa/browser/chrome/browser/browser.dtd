@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "متنی برای جست‌وجو یا یک آدرس وارد کنید">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "ضمیمه:">
 <!ENTITY urlbar.switchToTab.label     "پرش به زبانه:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "آیا مایلید که تجربه‌ی جست‌وجو خود را با پیشنهادات بهبود دهید؟">
