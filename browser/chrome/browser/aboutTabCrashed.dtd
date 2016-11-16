@@ -15,6 +15,7 @@
      translation. -->
 <!ENTITY tabCrashed.offerHelp "Podemos ajudá-lo!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a página.">
 <!ENTITY tabCrashed.requestHelp "Você vai nos ajudar?">
 <!ENTITY tabCrashed.requestHelpMessage "Relatórios de travamentos nos ajudarão a diagnosticar os problemas e deixar o &brandShortName; melhor.">
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
@@ -25,3 +26,4 @@
 <!ENTITY tabCrashed.emailMe "Me envie um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório de erro enviado; obrigado por ajudar a tornar o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit "Requisitar abas em segundo plano">
+<!ENTITY tabCrashed.autoSubmit "Atualizar as preferências para enviar relatórios de travamento atrasados automaticamente (e receber menos mensagens nossa como estas no futuro)">
