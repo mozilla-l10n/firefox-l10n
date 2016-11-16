@@ -36,9 +36,9 @@
 <!ENTITY NickName.label                 "Alcunha:">
 <!ENTITY NickName.accesskey             "u">
 
-<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "E-mail alternativo:">
+<!ENTITY SecondEmail.label              "Email adicional:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefere receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "a">
@@ -124,13 +124,13 @@
 <!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
 <!ENTITY GenericPhoto.label             "Fotografia genérica">
 <!ENTITY GenericPhoto.accesskey         "g">
-<!ENTITY DefaultPhoto.label             "Pré-definida">
+<!ENTITY DefaultPhoto.label             "Predefinida">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "e">
 <!ENTITY BrowsePhoto.label              "Navegar">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Introduza ou cole o endereço web de uma fotografia">
+<!ENTITY PhotoURL.placeholder           "Digite ou cole o endereço web de uma fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">

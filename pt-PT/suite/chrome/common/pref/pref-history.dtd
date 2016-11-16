@@ -11,8 +11,8 @@
 <!ENTITY  clearHistory.label                "Limpar histórico">
 <!ENTITY  clearHistory.accesskey            "h">
 
-<!ENTITY  locationBarHistory.caption        "Barra de localização do histórico">
-<!ENTITY  urlBarHistoryEnabled.caption      "Ativar histórico da barra de endereço">
+<!ENTITY  locationBarHistory.caption        "Histórico da barra de localização">
+<!ENTITY  urlBarHistoryEnabled.caption      "Ativar histórico da barra de localização">
 <!ENTITY  urlBarHistoryEnabled.accesskey    "e">
 <!ENTITY  clearLocationBar.label            "Limpar lista de sites guardados na barra de localização.">
 <!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">

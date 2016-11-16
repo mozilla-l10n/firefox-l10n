@@ -12,7 +12,7 @@
 
 <!ENTITY quitApplicationCmd.label       "Sair"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "S">
+<!ENTITY quitApplicationCmd.accesskey   "r">
 
 <!ENTITY redoCmd.key                    "Y">  
 <!ENTITY findReplaceCmd.key             "H">

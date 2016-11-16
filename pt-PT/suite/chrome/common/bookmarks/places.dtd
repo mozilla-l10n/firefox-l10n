@@ -43,12 +43,12 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "A">
 <!ENTITY cmd.delete.label               "Apagar esta página">
 <!ENTITY cmd.delete.accesskey           "A">
-<!ENTITY cmd.deleteDomainData.label     "Esquecer este sítio">
+<!ENTITY cmd.deleteDomainData.label     "Esquecer este site">
 <!ENTITY cmd.deleteDomainData.accesskey "s">
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_tab.label              "Abrir em novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir num novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_window.label           "Abrir em nova janela">
 <!ENTITY cmd.open_window.accesskey       "n">
@@ -109,6 +109,6 @@
 <!ENTITY detailsPane.fewer.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para ver e editar as suas propriedades">
 
-<!ENTITY editBookmark.done.label "Feito">
+<!ENTITY editBookmark.done.label "OK">
 <!ENTITY editBookmark.cancel.label "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">

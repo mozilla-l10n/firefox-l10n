@@ -12,21 +12,23 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentarem redirecionar-me ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey      "t">
+<!ENTITY blockAutoRefresh.label          "Avisar-me se os websites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado touch quando necessário">
+<!ENTITY useOnScreenKeyboard.accesskey   "t">
 
 <!ENTITY browsing.label                  "Navegação">
 
 <!ENTITY useAutoScroll.label             "Utilizar deslocação automática">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Suavizar deslocação">
-<!ENTITY useSmoothScrolling.accesskey    "z">
+<!ENTITY useSmoothScrolling.label        "Utilizar deslocação suave">
+<!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Se disponível, utilizar aceleração de hardware">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Corrigir ortografia ao escrever">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY dataChoicesTab.label            "Escolha de dados">
+<!ENTITY dataChoicesTab.label            "Escolhas de dados">
 
 <!ENTITY healthReportDesc.label          "Ajuda-o a compreender melhor o desempenho do seu navegador e partilha os seus dados com a &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Ativar o relatório de desempenho do &brandShortName;">
@@ -38,10 +40,10 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber mais">
 
-<!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o navegador mais estável e seguro">
-<!ENTITY enableCrashReporter.label       "Ativar o relator de erros">
-<!ENTITY enableCrashReporter.accesskey   "v">
-<!ENTITY crashReporterLearnMore.label    "Saber mais">
+<!ENTITY crashReporterDesc2.label         "Relatórios de falha ajudam a &vendorShortName; a reparar problemas e fazer o seu navegador mais estável e seguro">
+<!ENTITY alwaysSubmitCrashReports.label   "Permitir que o &brandShortName; envie relatórios de falha pendentes em seu nome">
+<!ENTITY alwaysSubmitCrashReports.accesskey "n">
+<!ENTITY crashReporterLearnMore.label     "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
 
@@ -74,15 +76,12 @@
 <!ENTITY updateTab.label                 "Atualização">
 
 <!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
-<!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
-<!ENTITY updateAuto1.accesskey           "m">
-<!ENTITY updateCheck.label               "Procurar atualizações e pedir-me para selecionar as que quero instalar">
+<!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria de segurança)">
+<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheck.label               "Procurar atualizações e pedir para selecionar as que pretendo instalar">
 <!ENTITY updateCheck.accesskey           "c">
-<!ENTITY updateManual.label              "Não procurar atualizações (não recomendado: riscos de segurança)">
+<!ENTITY updateManual.label              "Nunca procurar atualizações (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateAutoAddonWarn.label       "Avisar-me se este procedimento desativar algum dos meus extras">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
 
 <!ENTITY updateHistory.label             "Mostrar o histórico das atualizações">
 <!ENTITY updateHistory.accesskey         "h">
@@ -94,12 +93,12 @@
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Avisar quando um sítio pedir para guardar dados para o modo offline">
+<!ENTITY offlineNotify.label             "Avisar-me quando um website pedir para guardar dados para uso no modo offline">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Exceções…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Os seguintes sítios web têm permissão para guardar dados no modo offline:">
+<!ENTITY offlineAppsList2.label          "Os seguintes websites têm permissão para guardar dados para uso no modo offline:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Remover…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

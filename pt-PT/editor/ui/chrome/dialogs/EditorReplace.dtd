@@ -11,8 +11,8 @@
 <!ENTITY replaceField.accesskey "u">
 <!ENTITY caseSensitiveCheckbox.label "Ocorrência exata">
 <!ENTITY caseSensitiveCheckbox.accesskey "i">
-<!ENTITY wrapCheckbox.label "Translineação">
-<!ENTITY wrapCheckbox.accesskey "T">
+<!ENTITY wrapCheckbox.label "Encapsular à volta">
+<!ENTITY wrapCheckbox.accesskey "E">
 <!ENTITY backwardsCheckbox.label "Pesquisar para trás">
 <!ENTITY backwardsCheckbox.accesskey "t">
 <!ENTITY findNextButton.label "Localizar seguinte">

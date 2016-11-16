@@ -76,5 +76,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
-<!ENTITY replyInDefaultCharset3.label     "Se possível, utilizar codificação pré-definida nas respostas">
+<!ENTITY replyInDefaultCharset3.label     "Se possível, utilizar codificação predefinida nas respostas">
 <!ENTITY replyInDefaultCharset3.accesskey "u">

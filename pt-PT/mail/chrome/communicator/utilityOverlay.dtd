@@ -49,10 +49,10 @@
 
 <!ENTITY quitApplicationCmd.label  "Sair">
 <!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "S">
+<!ENTITY quitApplicationCmd.accesskey  "r">
 
 <!ENTITY quitApplicationCmdUnix.label  "Sair">
-<!ENTITY quitApplicationCmdUnix.accesskey  "S">
+<!ENTITY quitApplicationCmdUnix.accesskey  "r">
 
 <!ENTITY quitApplicationCmdMac.label  "Sair do &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "S">
+<!ENTITY quitApplicationCmdMac.accesskey  "r">

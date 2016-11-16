@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
 
-<!ENTITY popupWindowRejectCmd.label     "Recusar janelas pop-up deste site">
+<!ENTITY popupWindowRejectCmd.label     "Recusar janelas popup deste site">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas pop-up deste site">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
@@ -17,10 +17,10 @@
 <!ENTITY openLinkInWindowCmd.accesskey "b">
 <!ENTITY openFrameCmd.label           "Abrir moldura em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-<!ENTITY openFrameCmdInTab.label      "Abrir moldura em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
-<!ENTITY keywordfield.label           "Adicionar palavra-chave a esta pesquisa…">
-<!ENTITY keywordfield.accesskey       "q">
+<!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
+<!ENTITY keywordfield.accesskey       "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY goBackCmd.label              "Recuar">
@@ -57,8 +57,8 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label     "Definir como imagem de fundo…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "D">
+<!ENTITY setDesktopBackgroundCmd.label     "Definir como fundo do ambiente de trabalho…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
@@ -94,7 +94,7 @@
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Esta moldura">
 <!ENTITY thisFrameMenu.accesskey      "o">
@@ -149,3 +149,6 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Descarregar mais dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "d">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspecionar elemento">
+<!ENTITY devtoolsInspect.accesskey      "n">

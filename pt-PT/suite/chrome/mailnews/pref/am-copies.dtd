@@ -5,7 +5,7 @@
 
 
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
-<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
+<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente:">
 <!ENTITY fccMailFolder.label "Guardar uma cópia em:">
 <!ENTITY fccMailFolder.accesskey "G">
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem a ser respondida para">
@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Rascunhos e modelos">
-<!ENTITY keepDrafts.label "Guardar rascunhos em:">
+<!ENTITY keepDrafts2.label "Manter mensagens de rascunho em:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "c">

@@ -31,7 +31,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da conta">
 <!ENTITY setup.confirmPassword.label             "Confirmar palavra-passe">
 <!ENTITY setup.confirmPassword.accesskey         "C">
-<!ENTITY setup.emailAddress.label                "Endereço de e-mail">
+<!ENTITY setup.emailAddress.label                "Endereço de email">
 <!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -45,7 +45,7 @@
 <!-- New Account Page 2: Recovery Key -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; respeita a sua privacidade">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade, toda a sua informação é cifrada antes de ser carregada. A chave de recuperação necessária para decifrar a informação não é enviada.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade, toda a sua informação é encriptada antes de ser carregada. A chave de recuperação necessária para desencriptar a informação não é enviada.">
 <!ENTITY recoveryKeyEntry.label        "A sua chave de recuperação">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY recoveryGenerateNewKey.label  "Criar uma nova chave">

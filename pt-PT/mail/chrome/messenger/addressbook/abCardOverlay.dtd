@@ -144,13 +144,13 @@
 <!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
 <!ENTITY GenericPhoto.label             "Fotografia genérica">
 <!ENTITY GenericPhoto.accesskey         "g">
-<!ENTITY DefaultPhoto.label             "Pré-definida">
+<!ENTITY DefaultPhoto.label             "Predefinida">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "p">
 <!ENTITY BrowsePhoto.label              "Navegar">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Escreva ou cole o endereço web da fotografia">
+<!ENTITY PhotoURL.placeholder           "Digite ou cole o endereço web da fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">

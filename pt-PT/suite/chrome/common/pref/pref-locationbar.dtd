@@ -8,13 +8,13 @@
 <!ENTITY autoComplete.label                    "Conclusão automática">
 <!ENTITY autoCompleteMatchHistory.label        "Sugerir automaticamente sites do Histórico">
 <!ENTITY autoCompleteMatchHistory.accesskey    "a">
-<!ENTITY autoCompleteMatchBookmarks.label      "Sugerir automaticamente sítios web dos Marcadores">
+<!ENTITY autoCompleteMatchBookmarks.label      "Sugerir automaticamente websites dos Marcadores">
 <!ENTITY autoCompleteMatchBookmarks.accesskey  "M">
 <!ENTITY autoCompleteAutoFill.label            "Conclusão automática com a melhor opção">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostrar lista com os resultados">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os sítios web escritos anteriormente">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os websites escritos anteriormente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
@@ -30,8 +30,8 @@
 <!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatação">
-<!ENTITY domainFormatting.label                "Destacar domínio efetivo para os sítios web e servidores FTP">
-<!ENTITY domainFormatting.accesskey            "D">
+<!ENTITY domainFormatting.label                "Destacar domínio efetivo para os websites e servidores FTP">
+<!ENTITY domainFormatting.accesskey            "d">
 <!ENTITY highlightSecure.label                 "Destaca páginas web com um nível de segurança alto">
 <!ENTITY highlightSecure.accesskey             "c">
 

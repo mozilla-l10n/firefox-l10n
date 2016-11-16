@@ -10,7 +10,7 @@
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
 <!ENTITY menuitemRememberPrevState        "Memorizar estado anterior">
-<!ENTITY menuitemAskMe                    "Perguntar-me pelo estado ao iniciar">
+<!ENTITY menuitemAskMe                    "Perguntar-me pelo estado online no arranque">
 <!ENTITY menuitemAlwaysOnline             "Iniciar sempre no modo online">
 <!ENTITY menuitemAlwaysOffline            "Iniciar sempre no modo offline">
 <!ENTITY menuitemAutomatic                "Detetar automaticamente (se disponível)">

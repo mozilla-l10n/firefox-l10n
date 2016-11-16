@@ -15,11 +15,11 @@
 
 <!ENTITY viewingMessages.label            "Exibição da mensagem">
 <!ENTITY notifications.label              "Notificações">
-<!ENTITY address.label                    "Endereçamento">
 <!ENTITY composingMessages.label          "Composição">
 <!ENTITY format.label                     "Formato de envio">
-<!ENTITY return.label                     "Recibos de leitura">
+<!ENTITY address.label                    "Endereçamento">
 <!ENTITY junk.label                       "Lixo eletrónico">
 <!ENTITY tags.label                       "Etiquetas">
+<!ENTITY return.label                     "Recibos de leitura">
 <!ENTITY characterEncoding2.label         "Codificação de texto">
 <!ENTITY networkStorage.label             "Rede e armazenamento">

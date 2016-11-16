@@ -10,7 +10,7 @@
 <!ENTITY newGroupsTab.label           "Novos grupos">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Atualizar">
-<!ENTITY refreshButton.accesskey      "A">
+<!ENTITY refreshButton.accesskey      "r">
 <!ENTITY stopButton.label             "Parar">
 <!ENTITY stopButton.accesskey         "a">
 <!ENTITY server.label                 "Conta:">
