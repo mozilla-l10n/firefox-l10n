@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -777,26 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
 
-<!ENTITY socialToolbar.title        "Buton Paneli për Shoqëroret">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Shfaqe anështyllën">
-<!ENTITY social.toggleSidebar.accesskey "S">
-
 <!ENTITY social.addons.label "Administroni Shërbime…">
-
-<!ENTITY social.toggleNotifications.label "Shfaq njoftime në desktop">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.activated.description "Shërbimet prej <label/> janë aktivizuar. Rregullimet tuaja për shërbimet mund t&apos;i ndryshoni te <label class='text-link'>Përgjegjësi i Shtesave</label>.">
-<!ENTITY social.activated.undo.label "Oh, zhbëje këtë!">
-<!ENTITY social.activated.undo.accesskey "z">
-<!ENTITY social.learnMore.label "Mësoni më tepër…">
-<!ENTITY social.learnMore.accesskey "M">
-<!ENTITY social.closeNotificationItem.label "Jo Tani">
-
 <!ENTITY social.directory.label "Listë Aktivizimesh">
 <!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
 <!ENTITY social.directory.button "Shpjemë atje!">
@@ -816,15 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Përqendrohu te fjalosjet">
-<!ENTITY social.chatBar.accesskey "f">
-
-<!ENTITY social.markpageMenu.accesskey "F">
-<!ENTITY social.markpageMenu.label "Ruaje Faqen Te…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Ruaje Lidhjen Te…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -859,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktivizoje mbrojtjen">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Mbrojtja nga gjurmimet është e çaktivizuar">
-
-<!ENTITY pointerLock.notification.message "Që të rishfaqet, shtypni ESC në çfarëdo çasti.">
 
 <!ENTITY pluginNotification.showAll.label "Shfaqi Krejt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
