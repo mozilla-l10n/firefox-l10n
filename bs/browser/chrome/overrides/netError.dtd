@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Adresa je nevažeća">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web adrese su obično napisane kao <strong>http://www.primjer.ba/</strong></li> <li>Pobrinite se da koristite kose crte (tj. <strong>/</strong>).</li> </ul>">
 

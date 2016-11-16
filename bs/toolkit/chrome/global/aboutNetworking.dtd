@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Poruka primljeno">
 <!ENTITY aboutNetworking.bytesSent             "Bajta poslano">
 <!ENTITY aboutNetworking.bytesReceived         "Bajta primljeno">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Riješi">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">

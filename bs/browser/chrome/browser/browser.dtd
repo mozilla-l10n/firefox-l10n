@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Unesite termin za pretragu ili adresu">
 <!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "Prebaci se na tab:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Da li biste željeli unaprijediti vaše iskustvo pretraživanja pomoću prijedloga?">

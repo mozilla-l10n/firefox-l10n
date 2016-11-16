@@ -2,15 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Najprije loše vijesti: ovaj tab se srušio">
-<!ENTITY tabCrashed.message "A sada dobre vijesti: možete zatvoriti samo ovaj tab, vratiti ga ili vratiti sve vaše srušene tabove.">
-<!ENTITY tabCrashed.sendReport "Pošaljite izvještaj o rušenju kako biste pomogli da spriječimo više loših vijesti.">
-<!ENTITY tabCrashed.includeURL "Uključi adresu stranice na kojoj sam bio">
-<!ENTITY tabCrashed.commentPlaceholder "Napišite komentar (komentari su javno vidljivi)">
-<!ENTITY tabCrashed.emailPlaceholder "Unesite vašu email adresu ovdje">
-<!ENTITY tabCrashed.emailMe "Pošalji mi email kada više informacija bude dostupno">
-<!ENTITY tabCrashed.crashReporter "Mozilla izvjestilac o rušenju">
-<!ENTITY tabCrashed.reportSent "Izvještaj o rušenju je već poslan; hvala vam što pomažete da unaprijedimo &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Zatvori ovaj tab">
 <!ENTITY tabCrashed.restoreTab "Vrati ovaj tab">
 <!ENTITY tabCrashed.restoreAll "Vrati sve srušene tabove">
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY tabCrashed.emailPlaceholder "Unesite vašu email adresu ovdje">
+<!ENTITY tabCrashed.emailMe "Pošalji mi email kada više informacija bude dostupno">
+<!ENTITY tabCrashed.reportSent "Izvještaj o rušenju je već poslan; hvala vam što pomažete da unaprijedimo &brandShortName;!">
+
+
