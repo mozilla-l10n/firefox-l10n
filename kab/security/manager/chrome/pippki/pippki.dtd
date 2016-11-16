@@ -42,7 +42,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Asirew n tsaruţ tusligt">
-<!ENTITY createCertInfo.msg1 "Asirew n tsaruţ iteddu… Izmer ad yeṭṭef kra n tesadin….">
+<!ENTITY createCertInfo.msg1 "Asirew n tsaruţ iteddu… Izmer ad yeṭṭef kra n tesdatin….">
 <!ENTITY createCertInfo.msg2 "Ṛǧǧu ma ulac aɣilif…">
 <!-- Strings for protectedAuth dialog -->
 
