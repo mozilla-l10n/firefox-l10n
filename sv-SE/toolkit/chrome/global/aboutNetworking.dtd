@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mottagna meddelanden">
 <!ENTITY aboutNetworking.bytesSent             "Skickade byte">
 <!ENTITY aboutNetworking.bytesReceived         "Mottagna byte">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS-uppslagning">
 <!ENTITY aboutNetworking.dnsLookupButton       "Lös fel">
 <!ENTITY aboutNetworking.dnsDomain             "Domän">

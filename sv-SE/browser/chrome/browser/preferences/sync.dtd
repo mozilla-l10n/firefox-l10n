@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Tillägg">
 <!ENTITY engine.addons.accesskey    "T">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Enhetens namn:">
-<!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY fxaSyncDeviceName.label       "Enhetens namn">
-<!ENTITY changeSyncDeviceName.label "Byt enhetens namn…">
-<!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
-<!ENTITY saveChangeSyncDeviceName.label "Spara">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Avregistrera enheten">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Du är inte inloggad.">
-<!ENTITY signIn.label                "Logga in">
+
+
 <!ENTITY profilePicture.tooltip      "Ändra profilbild">
-<!ENTITY verifiedManage.label        "Hantera Konto">
-<!ENTITY disconnect.label            "Koppla ifrån…">
-<!ENTITY verify.label                "Verifiera e-postadress">
-<!ENTITY forget.label                "Glöm den här e-postadressen">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Kom åt dina flikar, bokmärken, lösenord och annat var du än använder &brandShortName;.">
 <!ENTITY welcome.signIn.label "Logga In">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.">
 <!ENTITY signedOut.accountBox.title   "Anslut med ett &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Skapa konto">
+
 <!ENTITY signedOut.accountBox.signin  "Logga in">
+
 
 <!ENTITY signedIn.engines.label       "Synka mellan alla enheter">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
