@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puet cargar la pachina por bella razón.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "L'adreza no ye valida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Las adrezas web s'escriben por un regular como <strong>http://www.eixemplo.com/</strong></li> <li>Asegure-se que ye emplegando barras inclinadas enta debant (ye decir <strong>/</strong>).</li> </ul>">
 

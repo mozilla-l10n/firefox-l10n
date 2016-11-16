@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mensaches recibius">
 <!ENTITY aboutNetworking.bytesSent             "Bytes ninviaus">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recibius">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
