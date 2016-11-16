@@ -20,11 +20,11 @@
 <!ENTITY tabCrashed.requestHelp "А ви нам допоможете?">
 <!ENTITY tabCrashed.requestHelpMessage "Звіти про збої допомагають нам виявляти проблеми і робити &brandShortName; кращим.">
 <!ENTITY tabCrashed.requestReport "Повідомте про збій вкладки">
-<!ENTITY tabCrashed.sendReport2 "Надішліть звіт про збій для вкладки, яку ви переглядаєте">
+<!ENTITY tabCrashed.sendReport2 "Надіслати звіт про збій вкладки">
 <!ENTITY tabCrashed.commentPlaceholder2 "Необов'язковий коментар (коментарі бачать всі)">
 <!ENTITY tabCrashed.includeURL2 "Додати адресу URL сторінки до цього звіту">
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
 <!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
 <!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
-<!ENTITY tabCrashed.requestAutoSubmit "Запит вкладок на задньому плані">
-<!ENTITY tabCrashed.autoSubmit "Оновити налаштування для автоматичного надсилання звітів про збої без вашої участі (менше таких повідомлень в майбутньому)">
+<!ENTITY tabCrashed.requestAutoSubmit "Запити на задньому плані">
+<!ENTITY tabCrashed.autoSubmit "Автоматично надсилати звіти про збої без вашої участі (менше таких повідомлень в майбутньому)">
