@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Осы сөздердің мәтіннен келесі табылуын іздеу">
 <!ENTITY previous.tooltip "Осы сөздердің мәтіннен алдыңғы табылуын іздеу">
 <!ENTITY findCloseButton.tooltip "Іздеу панелін жабу">
-<!ENTITY highlightAll.label "Барлығын түспен ерекшелеу">
-<!ENTITY highlightAll.accesskey "л">
+
+
 <!ENTITY highlightAll.tooltiptext "Осы сөздердің мәтіннен барлық кездесулерін түспен ерекшелеу">
 <!ENTITY caseSensitive.label "Регистрді ескеру">
 <!ENTITY caseSensitive.accesskey "и">
