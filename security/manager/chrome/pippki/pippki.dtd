@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Lêpirsîna Diyarkirina Bikarhêner">
 <!ENTITY clientAuthAsk.message1 "Ev herêm diyarkirina sertîfîkaya te dixwaze:">
 <!ENTITY clientAuthAsk.message2 "Sertîfîkaya ku dê di nasînê de bê bikaranîn hilbijêre:">
-<!ENTITY clientAuthAsk.message3 "Kitekitên sertîfîkaya hatî hilbijartin:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Sertîfîka hilbijêre">
-<!ENTITY certPicker.info  "Sertîfîka:">
-<!ENTITY certPicker.detailsLabel "Kitekitên sertîfîkaya hatî hilbijartin:">
 
 <!ENTITY pkcs12.setpassword.title  "Nasnavê xwe yê hilanîna sertîfîkayê hilbijêre">
 <!ENTITY pkcs12.setpassword.message  "Nasnavê hilanîna sertîfîkayê yê ku tu têketiyê, pelên ku dixwazî hilînî diparêze. Ji bo ku dikaribî hilanînê pêk bînî, divê nasnavê diyar bikî. ">

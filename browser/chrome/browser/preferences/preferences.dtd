@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Naverok">
 <!ENTITY  paneApplications.title  "Sepan">
 <!ENTITY  panePrivacy.title       "Nepenî">
+
 <!ENTITY  paneSecurity.title      "Ewlekarî">
 <!ENTITY  paneAdvanced.title      "Pesend">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

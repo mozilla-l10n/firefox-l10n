@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Navê cîhazê:">
-<!ENTITY syncDeviceName.accesskey   "c">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Betal">
-<!ENTITY saveChangeSyncDeviceName.label "Guherandinan Tomar Bike">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Girêdana vê cîhazê qut bike">
 <!-- Footer stuff -->
 
@@ -64,6 +64,13 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
 
 
 
