@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Taq rutzijol ek'ulun">
 <!ENTITY aboutNetworking.bytesSent             "Taq wayt etaqon">
 <!ENTITY aboutNetworking.bytesReceived         "Taq wayt ek'ulun">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Rukanoxik DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Tisol">
 <!ENTITY aboutNetworking.dnsDomain             "Ruk'ojlem b'ey">
