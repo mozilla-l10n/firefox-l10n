@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Иһинээҕитэ">
 <!ENTITY  paneApplications.title  "Эбиискэлэр">
 <!ENTITY  panePrivacy.title       "Тус эйгэ">
+
 <!ENTITY  paneSecurity.title      "Көмүскэл">
 <!ENTITY  paneAdvanced.title      "Эбии">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

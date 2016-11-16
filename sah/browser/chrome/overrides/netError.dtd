@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Бабат-татай.">
 <!ENTITY generic.longDesc "<p>&brandShortName; бу сирэйи тоҕо эрэ кыайан хачайдаабата.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Аадырыс формаата алҕастаах">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ситим аадырыстар маннык суруллаллар <strong>http://www.example.com/</strong></li> <li>Маннык иҥнэри слэш бэлиэ тыллар быыстарыгар баарын көр (i.e. <strong>/</strong>).</li> </ul>">
 

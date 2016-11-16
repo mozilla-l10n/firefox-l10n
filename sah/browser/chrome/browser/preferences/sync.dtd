@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "Э">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Тэрил аата:">
-<!ENTITY syncDeviceName.accesskey   "р">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Салҕаама">
-<!ENTITY saveChangeSyncDeviceName.label "Бигэргэт">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Бу тэрили араар">
 <!-- Footer stuff -->
 
@@ -75,7 +75,14 @@ both, to better adapt this sentence to their language.
 
 
 
+
+
+
+
+
 <!ENTITY welcome.useOldSync.label "Sync эргэ барылын туһанаҕын дуо?">
+
+
 
 
 

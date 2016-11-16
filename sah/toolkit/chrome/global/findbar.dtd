@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Этии тиэкискэ бу кэннинээҕи киириитин бул">
 <!ENTITY previous.tooltip "Этии тиэкискэ бу иннинээҕи киириитин бул">
 <!ENTITY findCloseButton.tooltip "Көрдөөһүнү көстүбэт гын">
-<!ENTITY highlightAll.label "Барытын сырдатан көрдөр">
-<!ENTITY highlightAll.accesskey "т">
+
+
 <!ENTITY highlightAll.tooltiptext "Этиини тиэкискэ баарын барытын сырдатан көрдөр">
 
 
