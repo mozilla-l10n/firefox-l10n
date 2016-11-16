@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Skilaboð móttekin">
 <!ENTITY aboutNetworking.bytesSent             "Send bæti">
 <!ENTITY aboutNetworking.bytesReceived         "Móttekin bæti">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Skráningar">
+<!ENTITY aboutNetworking.logTutorial           "Kíktu á<a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> fyrir upplýsngar um hvernig á að nota þetta verkfæri.">
+<!ENTITY aboutNetworking.currentLogFile        "Núverandi skráningarskrá:">
+<!ENTITY aboutNetworking.currentLogModules     "Núverandi skráningar einingar:">
+<!ENTITY aboutNetworking.setLogFile            "Setja skráningarskrá">
+<!ENTITY aboutNetworking.setLogModules         "Setja skráningar einingar">
+<!ENTITY aboutNetworking.startLogging          "Hefja skráningu">
+<!ENTITY aboutNetworking.stopLogging           "Stöðva skráningu">
 <!ENTITY aboutNetworking.dnsLookup             "DNS uppfletting">
 <!ENTITY aboutNetworking.dnsLookupButton       "Finna">
 <!ENTITY aboutNetworking.dnsDomain             "Lén">

@@ -100,7 +100,7 @@
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 
 
-#define bugzilla Mozilla Bug Tracker
+#define bugzilla Mozilla villu skráning
 
 
 # LOCALIZATION NOTE (mdn):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Allar hrun skýrslur
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Umræður um Nightly á IRC
 
 
 # LOCALIZATION NOTE (planet):
