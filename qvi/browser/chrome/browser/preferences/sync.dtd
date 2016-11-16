@@ -33,6 +33,8 @@
 
 
 
+
+
 <!-- Footer stuff -->
 
 <!-- Firefox Accounts stuff -->
@@ -51,6 +53,13 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
 
 
 
