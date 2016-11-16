@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Gusaba Ikiranga Ukoresha">
 <!ENTITY clientAuthAsk.message1 "Uru rubuga rwasabye ko utanga igikuranga ukoresheje icyemezo:">
 <!ENTITY clientAuthAsk.message2 "Guhitamo icyemezo cyo gutangwa nk'ikiranga:">
-<!ENTITY clientAuthAsk.message3 "Ibisobanuro by'icyemezo cyatoranyijwe:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Guhitamo Icyemezo">
-<!ENTITY certPicker.info  "Icyemezo:">
-<!ENTITY certPicker.detailsLabel "Ibisobanuro by'Icyemezo cyatoranyijwe:">
 
 <!ENTITY pkcs12.setpassword.title  "Guhitamo Ijambobanga ry'Inyibutsacyemezo">
 <!ENTITY pkcs12.setpassword.message  "Ijambobanga ry'inyibutsacyemezo washyize hano ririnda dosiye nyibutsa uri hafi kurema. Ugomba gushyiraho iri jambobanga kugira ngo ukomeze ujya ku nyibutsa.">

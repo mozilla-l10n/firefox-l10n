@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Oya">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Yego">

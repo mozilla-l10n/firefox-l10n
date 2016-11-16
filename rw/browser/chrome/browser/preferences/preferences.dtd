@@ -18,6 +18,7 @@
 <!ENTITY  paneContent.title       "Ibikubiyemo">
 <!ENTITY  paneApplications.title  "Porogaramu">
 <!ENTITY  panePrivacy.title       "Ubuzima Bwite">
+
 <!ENTITY  paneSecurity.title      "Umutekano">
 <!ENTITY  paneAdvanced.title      "Bihanitse">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
