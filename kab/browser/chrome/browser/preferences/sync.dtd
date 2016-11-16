@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Izegrar">
 <!ENTITY engine.addons.accesskey    "z">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Isem n yibenk:">
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Snifel isem n yibenk…">
+<!ENTITY changeSyncDeviceName.accesskey "n">
+<!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "x">
+<!ENTITY saveChangeSyncDeviceName.label "Sekles">
+<!ENTITY saveChangeSyncDeviceName.accesskey "l">
 <!ENTITY unlinkDevice.label           "Kkes allal-agi">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Ur teqqineḍ ara.">
-
-
+<!ENTITY signIn.label                "Qqen">
+<!ENTITY signIn.accesskey            "Q">
 <!ENTITY profilePicture.tooltip      "Snifel tugna n umaɣnu">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Sefrek imiḍanen">
+<!ENTITY verifiedManage.accesskey    "m">
+<!ENTITY disconnect.label            "Tuffɣa…">
+<!ENTITY disconnect.accesskey        "T">
+<!ENTITY verify.label                "Senqed tansa imayl">
+<!ENTITY verify.accesskey            "e">
+<!ENTITY forget.label                "Ttu tansa-agi imayl">
+<!ENTITY forget.accesskey            "y">
 
 <!ENTITY welcome.description "Kcem ɣer iccaren-ik, ticraḍ n isebtaren, awalen uffiren d wayen yugaren aya seg yal ibenk i tseqdaceḍ &brandShortName;.">
 <!ENTITY welcome.signIn.label "Kcem">

@@ -13,13 +13,15 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
+<!ENTITY tabCrashed.header2 "Ihuh. Iccer inek aken kan yeɣli.">
+<!ENTITY tabCrashed.offerHelp "NEzmer ak-d-nefk afus!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Fren &tabCrashed.restoreTab; akken ad d-saliḍ agbur n usebter .">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-saliḍ agbur n usebter.">
+<!ENTITY tabCrashed.requestHelp "Aɣ-d-muddeḍ afus?">
 
 
 
-
-
-
-
+<!ENTITY tabCrashed.commentPlaceholder2 "Iwenniten ifrayanen (Iwenniten ad ten-walin akk yemdanen)">
 
 <!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl-inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">

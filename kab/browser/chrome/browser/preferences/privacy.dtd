@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Issin ugar">
 <!ENTITY  browserContainersEnabled.label        "Rmed Iccaren imagbaren">
 <!ENTITY  browserContainersEnabled.accesskey    "g">
-
-
+<!ENTITY  browserContainersSettings.label        "Iɣewwaṛen…">
+<!ENTITY  browserContainersSettings.accesskey    "I">

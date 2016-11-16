@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Ansuf ɣer &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Amiḍan iqqen">
+<!ENTITY aboutAccounts.connected "Amiḍan yeqqen">
 
-<!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
+<!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n yisebtar, awalen uffiren d wayen nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Tuɣ tesseqdaceḍ lqem aqbuṛ n Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync">
 <!ENTITY aboutAccounts.noConnection.title "Ulac tuqqna">
-<!ENTITY aboutAccounts.noConnection.description "Issefk ad teqqneḍ ɣeṛ Internet akken ad tkecmeḍ.">
-<!ENTITY aboutAccounts.noConnection.retry "Ɛreḍ tikelt nniḍen">
-
-
+<!ENTITY aboutAccounts.noConnection.description "Yessefk ad teqqneḍ ɣeṛ Internet akken ad tkecmeḍ.">
+<!ENTITY aboutAccounts.noConnection.retry "Ɛreḍ tikkelt nniḍen">
+<!ENTITY aboutAccounts.badConfig.title "Yir tawila">
+<!ENTITY aboutAccounts.badConfig.description "Ur yezmir ara ad d-yaf tawila n uqeddac n umiḍan Firefox. Ma ulac aɣilif ɛreḍ tikkelt nniḍen.">

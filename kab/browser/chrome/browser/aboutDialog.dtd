@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Talɣut ɣef n &brandFullName;">
+<!ENTITY aboutDialog.title          "Ɣef &brandFullName;">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -17,10 +17,10 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; d armitan yerna ur yerkid ara.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; i akken ad d-yefk tallalt n usnerni n &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; iwakken ad d-yefk tallelt n usnerni n &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        " Taglizit">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " d ">
