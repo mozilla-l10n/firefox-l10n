@@ -13,11 +13,13 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
+<!ENTITY tabCrashed.header2 "Arghh. Din flik kraschade precis.">
+<!ENTITY tabCrashed.offerHelp "Vi kan hjälpa dig!">
 
 
+<!ENTITY tabCrashed.requestHelp "Vill du hjälpa oss?">
 
-
-
+<!ENTITY tabCrashed.requestReport "Rapportera denna flik">
 
 
 

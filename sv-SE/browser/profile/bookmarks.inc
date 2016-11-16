@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Firefox Nightly blogg
 
 
 # LOCALIZATION NOTE (bugzilla):
