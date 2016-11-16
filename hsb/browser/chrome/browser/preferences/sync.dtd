@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Přidatki">
 <!ENTITY engine.addons.accesskey    "P">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Mjeno grata:">
-<!ENTITY syncDeviceName.accesskey   "r">
 <!ENTITY fxaSyncDeviceName.label       "Mjeno grata">
-<!ENTITY changeSyncDeviceName.label "Mjeno grata změnić…">
-<!ENTITY cancelChangeSyncDeviceName.label "Přetorhnyć">
-<!ENTITY saveChangeSyncDeviceName.label "Składować">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Zwisk z tutym gratom dźělić">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Njejsće so zregistrował.">
-<!ENTITY signIn.label                "Registrować">
+
+
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změnić">
-<!ENTITY verifiedManage.label        "Konto zrjadować">
-<!ENTITY disconnect.label            "Zwisk dźělić…">
-<!ENTITY verify.label                "E-mejl přepruwować">
-<!ENTITY forget.label                "Tutu e-mejl zabyć">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Mějće přistup na swoje rajtarki, zapołožki, hesła a wjace, hdźežkuli &brandShortName; wužiwaće.">
 <!ENTITY welcome.signIn.label "Přizjewić">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.">
 <!ENTITY signedOut.accountBox.title   "Z &syncBrand.fxAccount.label; zwjazać">
 <!ENTITY signedOut.accountBox.create  "Konto załožić">
+
 <!ENTITY signedOut.accountBox.signin  "Přizjewić">
+
 
 <!ENTITY signedIn.engines.label       "Mjez wšěmi gratami synchronizować">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
