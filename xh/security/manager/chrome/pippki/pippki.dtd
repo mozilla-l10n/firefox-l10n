@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Isicelo Sokuchongeka Somsebenzisi">
 <!ENTITY clientAuthAsk.message1 "Esi siza sicele ukuba uzichonge ngesatifikethi:">
 <!ENTITY clientAuthAsk.message2 "Khetha isatifikethi osinikela nengendlela yokuchongeka:">
-<!ENTITY clientAuthAsk.message3 "Iinkcukacha zesatifikethi esikhethiweyo:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Khetha Isatifikethi">
-<!ENTITY certPicker.info  "Isatifikethi:">
-<!ENTITY certPicker.detailsLabel "Iinkcukacha zesatifikethi esikhethiweyo:">
 
 <!ENTITY pkcs12.setpassword.title  "Khetha Isatifikethi Segama Lokugqithisa Lekopi Egciniweyo">
 <!ENTITY pkcs12.setpassword.message  "Igama lokugqithisa lekopi yesatifikethi osimiselayo apho sikhusela ifayili yekopi eciniweyo oza kuyiyila msinyane.  Kufuneka umisele eli gama lokugqithisa ukuze uqhube ngekopi egcinwayo.">
