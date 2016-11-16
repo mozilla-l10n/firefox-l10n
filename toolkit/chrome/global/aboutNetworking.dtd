@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Poruka primljena">
 <!ENTITY aboutNetworking.bytesSent             "Poslano bajtova">
 <!ENTITY aboutNetworking.bytesReceived         "Primljeno bajtova">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS upit">
 <!ENTITY aboutNetworking.dnsLookupButton       "Razrješi">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
