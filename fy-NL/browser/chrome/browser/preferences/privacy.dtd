@@ -110,3 +110,4 @@
 <!ENTITY  browserContainersEnabled.label        "Kontenerljepblêden ynskeakelje">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Ynstellingen…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
