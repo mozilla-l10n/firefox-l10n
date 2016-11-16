@@ -29,6 +29,9 @@
 <!ENTITY generic.title "അയ്യോ!!">
 <!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName;-ന്‌ ഈ താള്‍ ലോഡ്‌ ചെയ്യുവാന്‍ സാധ്യമല്ല</p>">
 
+
+
+
 <!ENTITY malformedURI.title "വിലാസം വാലിഡ്‌ അല്ല">
 <!ENTITY malformedURI.longDesc "<ul> <li>വെബിന്റെ വിലാസങ്ങള്‍ സാധാരണ ഇപ്രകാരമാണ് എഴുതുന്നത്: <strong>http://www.example.com/</strong></li> <li>മുന്നോട്ടുള്ള സ്ളാഷ് ആണുപയോഗിക്കുന്നത് എന്നുറപ്പാക്കുക (അതായത്, <strong>/</strong>).</li> </ul>">
 
