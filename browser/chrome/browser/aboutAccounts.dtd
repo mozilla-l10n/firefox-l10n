@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Немає з'єднання">
 <!ENTITY aboutAccounts.noConnection.description "Щоб виконати вхід, у вас повинно бути підключення до Інтернету.">
 <!ENTITY aboutAccounts.noConnection.retry "Спробувати знову">
+<!ENTITY aboutAccounts.badConfig.title "Неправильна конфігурація">
+<!ENTITY aboutAccounts.badConfig.description "Не вдалося визначити конфігурацію сервера вашого облікового запису Firefox. Спробуйте знову пізніше.">
