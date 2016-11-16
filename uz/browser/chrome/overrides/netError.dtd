@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Obbo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Xato manzil">
 <!ENTITY malformedURI.longDesc "<ul> <li>Veb manzillar, odatda, quyidagicha:<strong>http://www.example.com/</strong> yoziladi</li> <li>/ belgisini to‘g‘ri yozilganligini tekshirib ko‘ring <strong>/</strong>).</li> </ul>">
 

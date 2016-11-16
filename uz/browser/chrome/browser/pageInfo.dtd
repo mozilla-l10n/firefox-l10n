@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Umumiy">
 <!ENTITY  generalTab.accesskey  "G">
+
 <!ENTITY  generalURL            "Manzil:">
 <!ENTITY  generalType           "Turi:">
 <!ENTITY  generalMode           "Render usuli:">

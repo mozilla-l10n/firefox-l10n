@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Tarkibi">
 <!ENTITY  paneApplications.title  "Ilova dasturlar">
 <!ENTITY  panePrivacy.title       "Shaxsiylik">
+
 <!ENTITY  paneSecurity.title      "Xavfsizlik">
 <!ENTITY  paneAdvanced.title      "Qoʻshimcha">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

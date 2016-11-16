@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Iboradagi keyingi hodisani topish">
 <!ENTITY previous.tooltip "Iboradagi oldingi hodisani topish">
 <!ENTITY findCloseButton.tooltip "Topish panelini yopish">
-<!ENTITY highlightAll.label "Barchasini ajratib koʻrsatish">
-<!ENTITY highlightAll.accesskey "a">
+
+
 <!ENTITY highlightAll.tooltiptext "Iboradagi barcha hodisalarni ajratib koʻrsatish">
 <!ENTITY caseSensitive.label "Katta-kichik harflarni farqlash">
 <!ENTITY caseSensitive.accesskey "c">

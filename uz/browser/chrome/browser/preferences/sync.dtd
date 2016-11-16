@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Qoʻshimcha dasturlar">
 <!ENTITY engine.addons.accesskey    "Q">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Qurilma nomi:">
-<!ENTITY syncDeviceName.accesskey   "Q">
 <!ENTITY fxaSyncDeviceName.label       "Qurilma nomi">
-<!ENTITY changeSyncDeviceName.label "Qurilma nomini o‘zgartirish…">
-<!ENTITY cancelChangeSyncDeviceName.label "Bekor qilish">
-<!ENTITY saveChangeSyncDeviceName.label "Saqlash">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Ushbu qurilmani uzish">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Siz kirmagansiz.">
-<!ENTITY signIn.label                "Kirish">
+
+
 <!ENTITY profilePicture.tooltip      "Profil rasmini o‘zgartirish">
-<!ENTITY verifiedManage.label        "Hisobni boshqarish">
-<!ENTITY disconnect.label            "Ajratilmoqda…">
-<!ENTITY verify.label                "E-pochtani tasdiqlash">
-<!ENTITY forget.label                "Ushbu e-pochtani unutish">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Qayerda &brandShortName;dan foydalansangiz, o‘sha yerdan ichki oynalar, xatcho‘plar, parollar va boshqa ma’lumotlarga kirish.">
 <!ENTITY welcome.signIn.label "Kirish">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; bilan ulanish">
 <!ENTITY signedOut.accountBox.create  "Hisob yaratish">
+
 <!ENTITY signedOut.accountBox.signin  "Kirish">
+
 
 <!ENTITY signedIn.engines.label       "Barcha qurilmalar aro sinxronlang">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

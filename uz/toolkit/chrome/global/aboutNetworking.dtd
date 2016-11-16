@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Xabarlar qabul qilindi">
 <!ENTITY aboutNetworking.bytesSent             "Joʻnatilgan baytlar">
 <!ENTITY aboutNetworking.bytesReceived         "Qabul qilingan baytlar">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS topish">
 <!ENTITY aboutNetworking.dnsLookupButton       "Hal qilish">
 <!ENTITY aboutNetworking.dnsDomain             "Domen">
