@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Bağlantı yok">
 <!ENTITY aboutAccounts.noConnection.description "Giriş yapmak için internete bağlı olmalısınız.">
 <!ENTITY aboutAccounts.noConnection.retry "Yeniden dene">
+
+
