@@ -29,6 +29,9 @@
 <!ENTITY generic.title "आरे रे">
 <!ENTITY generic.longDesc "<p>&brandShortName; काय कारणाक लागून हे पान चालू जावपाक शकना</p>">
 
+
+
+
 <!ENTITY malformedURI.title "नामो वैध ना">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब नामो चड करून <strong>http://www.example.com/ भशेन बरयले वतात</strong></li> <li>तुमी फुडले स्लॅश वापरात हाजी खात्री करात (देख. <strong>/</strong>).</li> </ul>">
 
