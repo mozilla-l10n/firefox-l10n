@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Neispravna adresa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Adrese web stranica se obično pišu u formatu poput <strong>http://www.example.com/</strong></li> <li>Provjerite da upisujete kose crte prema naprijed (tj. <strong>/</strong>).</li> </ul>">
 
