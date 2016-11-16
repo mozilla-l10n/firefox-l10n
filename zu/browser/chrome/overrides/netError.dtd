@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Hayi bo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; alikwazi ukulayisha leli khasi ngenxa yesizathu esithile.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Leli kheli alisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> <li>Amakheli ewebhu avame ukubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuthi usebenzisa isileshi esibheke phambili (isib. <strong>/</strong>).</li> </ul>">
 

@@ -30,11 +30,6 @@
 <!ENTITY clientAuthAsk.message1 "Le ngosi icele ukuba uzihlonze ngesitifiketi:">
 <!ENTITY clientAuthAsk.message2 "Khetha isitifiketi ozosiveza lapho uzihlonza:">
 
-<!-- Strings for the cert picker dialog -->
-
-<!ENTITY certPicker.title "Khetha Isitifiketi">
-<!ENTITY certPicker.info  "Isitifiketi:">
-
 
 <!ENTITY pkcs12.setpassword.title  "Khetha Igama Lokungena Lesitifiketi Ozosigcina">
 <!ENTITY pkcs12.setpassword.message  "Igama lokungena lesitifiketi ozosigcina olibhale lapha livikela ifayela eligciniwe osuzolakha.  Kufanele wakhe leli gama lokungena ukuze uqhubeka nokugcina.">
