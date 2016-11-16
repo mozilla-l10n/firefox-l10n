@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Ďalšie informácie">
 <!ENTITY  browserContainersEnabled.label        "Povoliť kontajnerové karty">
 <!ENTITY  browserContainersEnabled.accesskey    "o">
+<!ENTITY  browserContainersSettings.label        "Nastavenia…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
