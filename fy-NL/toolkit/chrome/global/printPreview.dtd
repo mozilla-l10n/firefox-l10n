@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Ferlytsje oant papierformaat">
 <!ENTITY customPrompt.title   "Oanpaste skaal…">
 <!ENTITY simplifyPage.label   "Side ferienfâldigje">
+<!ENTITY simplifyPage.accesskey "n">
 <!ENTITY simplifyPage.enabled.tooltip  "Wizigje layout om makliker te lêzen">
 <!ENTITY simplifyPage.disabled.tooltip "Dizze side kin net automatysk ferienfâldige wurde">
 

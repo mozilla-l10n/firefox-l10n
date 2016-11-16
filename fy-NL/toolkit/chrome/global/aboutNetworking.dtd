@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Berjochten ûntfongen">
 <!ENTITY aboutNetworking.bytesSent             "Bytes ferstjoerd">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes ûntfongen">
+<!ENTITY aboutNetworking.logging               "Logboekregistraasje">
+<!ENTITY aboutNetworking.logTutorial           "Sjoch op <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP-Logging</a> foar ynstruksjes oer hoe dit ark te brûken.">
+<!ENTITY aboutNetworking.currentLogFile        "Aktuele lochbestân:">
+<!ENTITY aboutNetworking.currentLogModules     "Aktuele lochmodules:">
+<!ENTITY aboutNetworking.setLogFile            "Lochbestân ynstelle">
+<!ENTITY aboutNetworking.setLogModules         "Lochodules ynstelle">
+<!ENTITY aboutNetworking.startLogging          "Loggen starte">
+<!ENTITY aboutNetworking.stopLogging           "Loggen stopje">
 <!ENTITY aboutNetworking.dnsLookup             "DNS-sykaksje">
 <!ENTITY aboutNetworking.dnsLookupButton       "Omsette">
 <!ENTITY aboutNetworking.dnsDomain             "Domein">
