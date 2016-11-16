@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  عددی">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
 
 <!ENTITY aboutTelemetry.histogramsSection "  نمودارهای هیستوگرام">
 
