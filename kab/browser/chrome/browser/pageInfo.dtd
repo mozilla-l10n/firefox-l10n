@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Amatu">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Azwel:">
 <!ENTITY  generalURL            "Tansa:">
 <!ENTITY  generalType           "Tawsit:">
 <!ENTITY  generalMode           "Askar n tririt:">
