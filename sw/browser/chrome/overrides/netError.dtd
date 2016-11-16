@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Lo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; haiwezi kupakia ukurasa huu kwa sababu fulani.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Anwani sio sahihi">
 <!ENTITY malformedURI.longDesc "<ul> <li>Anwani za tovuti kawaida huandikwa kama <strong>http://www.example.com/</strong></li> <li>Hakikisha kuwa unatumia mikwaju mbele (k.v. <strong>/</strong>).</li> </ul>">
 

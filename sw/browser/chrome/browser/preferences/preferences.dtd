@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Yaliyomo">
 <!ENTITY  paneApplications.title  "Programu tumizi">
 <!ENTITY  panePrivacy.title       "Faragha">
+
 <!ENTITY  paneSecurity.title      "Usalama">
 <!ENTITY  paneAdvanced.title      "Ya hali ya juu">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
