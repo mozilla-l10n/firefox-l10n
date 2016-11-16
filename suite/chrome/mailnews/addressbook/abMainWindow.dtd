@@ -45,8 +45,8 @@
 <!ENTITY propertiesCmd.key                              "i">  
 <!-- View Menu -->
 
-<!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do livro de endereços"> 
-<!ENTITY showAbToolbarCmd.accesskey                     "a">  
+<!ENTITY showAbToolbarCmd.label                         "Barra de endereços"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "o">  
 <!ENTITY layoutMenu.label                               "Esquema">
 <!ENTITY layoutMenu.accesskey                           "E">
 <!ENTITY showDirectoryPane.label                        "Painel de diretório">
@@ -81,11 +81,11 @@
 <!ENTITY deleteItemButton.accesskey                     "A">
 <!ENTITY newimButton.label                              "Mensagem instantânea">  
 <!ENTITY newimButton.accesskey                          "i">  
-<!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e e-mail">
+<!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e email">
 <!ENTITY searchBox.title                                "Pesquisar">
 <!-- Tooltips -->
 
-<!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do livro de endereços">
+<!ENTITY addressbookToolbar.tooltip                     "Barra de endereços">
 <!ENTITY newContactButton.tooltip                       "Criar um novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista"> 
 <!ENTITY editItemButton.tooltip                         "Editar o elemento selecionado">

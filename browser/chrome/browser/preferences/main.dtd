@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Início">
+<!ENTITY startup.label             "Arranque">
 
 <!ENTITY startupPage.label         "Ao iniciar o &brandShortName;:">
 <!ENTITY startupPage.accesskey     "o">
@@ -28,10 +28,10 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Escolher…">
 <!ENTITY chooseFolderMac.accesskey    "E">
-<!ENTITY alwaysAsk.label "Perguntar sempre onde guardar os ficheiros">
-<!ENTITY alwaysAsk.accesskey "s">
+<!ENTITY alwaysAsk.label "Perguntar sempre onde guardar ficheiros">
+<!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY alwaysCheckDefault2.label        "Verificar sempre se o &brandShortName; é o navegador predefinido">
+<!ENTITY alwaysCheckDefault2.label        "Verificar sempre se o &brandShortName; é o seu navegador predefinido">
 <!ENTITY alwaysCheckDefault2.accesskey    "V">
 <!ENTITY setAsMyDefaultBrowser2.label     "Tornar predefinido">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "T">

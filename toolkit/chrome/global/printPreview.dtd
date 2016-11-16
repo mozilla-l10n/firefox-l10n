@@ -33,6 +33,10 @@
 <!ENTITY ShrinkToFit.label    "Redimensionar para caber">
 <!ENTITY customPrompt.title   "Escala personalizada…">
 
+
+<!ENTITY simplifyPage.enabled.tooltip  "Alterar design para uma leitura mais fácil">
+<!ENTITY simplifyPage.disabled.tooltip "Esta página não pode ser simplificada automaticamente">
+
 <!ENTITY homearrow.tooltip    "Primeira página">
 <!ENTITY endarrow.tooltip     "Última página">
 <!ENTITY nextarrow.tooltip    "Página seguinte">

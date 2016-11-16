@@ -70,13 +70,13 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
-<!ENTITY synchronizeOfflineCmd.label "Descarregar ou sincronizar agora…">
+<!ENTITY synchronizeOfflineCmd.label "Descarregar/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Definições do modo offline">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
 <!ENTITY downloadSelectedCmd.label "Obter mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Transferir mensagens com estrela">
+<!ENTITY downloadStarredCmd.label "Obter mensagens com estrela">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "p">
@@ -104,7 +104,7 @@
 <!ENTITY all.label "Tudo">
 <!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Tópico">
-<!ENTITY selectThreadCmd.accesskey "c">
+<!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens com estrela">
 <!ENTITY selectFlaggedCmd.accesskey "s">
@@ -114,8 +114,8 @@
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
 <!ENTITY folderPropsCmd.accesskey "e">
-<!ENTITY undoDeleteMsgCmd.label "Anular (excluir mensagem)">
-<!ENTITY redoDeleteMsgCmd.label "Refazer (excluir mensagem)">
+<!ENTITY undoDeleteMsgCmd.label "Anular (apagar mensagem)">
+<!ENTITY redoDeleteMsgCmd.label "Refazer (apagar mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Anular (mover mensagem)">
 <!ENTITY redoMoveMsgCmd.label "Refazer (mover mensagem)">
 <!ENTITY undoCopyMsgCmd.label "Anular (copiar mensagem)">
@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visão compactada">
 <!ENTITY compactVersion.accesskey "c">
+<!ENTITY folderPaneBar.label "Barra do painel de pastas">
+<!ENTITY folderModeSelector.label "Vistas de pastas">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Ordenar por">
@@ -203,7 +205,7 @@
 <!ENTITY sortDescending.label "Descendente">
 <!ENTITY sortDescending.accesskey "d">
 <!ENTITY sortThreaded.label "Agrupar por tópicos">
-<!ENTITY sortThreaded.accesskey "p">
+<!ENTITY sortThreaded.accesskey "t">
 <!ENTITY sortUnthreaded.label "Não agrupar">
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupar pela ordem">
@@ -223,7 +225,7 @@
 <!ENTITY unreadMsgsCmd.label "Não lidas">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Tópicos não lidos">
-<!ENTITY threadsWithUnreadCmd.accesskey "c">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Tópicos monitorizados não lidos">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Tópicos ignorados">
@@ -235,19 +237,19 @@
 <!ENTITY headersAllCmd.accesskey "T">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Texto da mensagem como">
-<!ENTITY bodyMenu.accesskey "o">
+<!ENTITY bodyMenu.label "Corpo da mensagem como">
+<!ENTITY bodyMenu.accesskey "m">
 <!ENTITY bodyAllowHTML.label "Formato HTML">
 <!ENTITY bodyAllowHTML.accesskey "F">
 <!ENTITY bodySanitized.label "HTML simples">
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "S">
-<!ENTITY bodyAllParts.label "Todas as partes do texto">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
 <!ENTITY bodyAllParts.accesskey "a">
 
-<!ENTITY bodyMenuFeed.label "Texto da mensagem de fonte como">
-<!ENTITY bodyMenuFeed.accesskey "n">
+<!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
+<!ENTITY bodyMenuFeed.accesskey "f">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editar como nova">
 <!ENTITY editAsNewMsgCmd.accesskey "d">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Editar mensagem de rascunho">
+<!ENTITY editDraftMsgCmd.accesskey "r">
 <!ENTITY createFilter.label "Criar filtro a partir da mensagem...">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
@@ -708,7 +712,7 @@
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Abrir mensagem em novo separador">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextOpenConversation.label "Abrir mensagem na conversa">
 <!ENTITY contextOpenConversation.accesskey "n">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editar como nova">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar mensagem de rascunho">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignorar tópico">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY contextWatchThreadMenu.label "Monitorizar tópico">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "u">
 <!ENTITY contextPrint.label "Imprimir...">
@@ -758,7 +769,7 @@
    customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Repor colunas pré-definidas">
+<!ENTITY columnPicker.resetToInbox.label "Repor colunas predefinidas">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -812,11 +823,11 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -825,7 +836,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Pesquisar… #1">
+<!ENTITY search.label.base1 "Pesquisa #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -854,6 +865,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar endereço de e-mail">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar nome e endereço de e-mail">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
@@ -875,7 +888,7 @@
 <!ENTITY copyLinkCmd.label "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">
-<!ENTITY copyImageAllCmd.accesskey "i">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Parar">

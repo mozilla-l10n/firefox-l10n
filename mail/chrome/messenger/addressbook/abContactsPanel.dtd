@@ -12,7 +12,7 @@
 <!ENTITY deleteAddrBookCard.accesskey       "A">
 <!ENTITY addrBookCardProperties.label       "Propriedades">
 <!ENTITY addrBookCardProperties.accesskey   "P">
-<!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para ">
+<!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Adicionar ao campo Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">

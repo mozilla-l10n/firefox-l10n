@@ -24,5 +24,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Sobre o &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "S">
+<!ENTITY aboutMenuCmd.label "Acerca do &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "A">

@@ -71,5 +71,5 @@
 
 
 <!ENTITY  header2                                 "Quando uma página web escolhe o seu próprio tipo de letra">
-<!ENTITY  useDefaultFont.label                    "Usar os meus tipos de letra predefinidos e ignorar os tipos de letra definidos pelas páginas">
+<!ENTITY  useDefaultFont.label                    "Utilizar os meus tipos de letra predefinidos, ignorando os tipos de letra que a página escolheu">
 <!ENTITY  useDefaultFont.accesskey                "U">

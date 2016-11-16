@@ -71,7 +71,7 @@
 <!ENTITY statusColumn2.tooltip "Ordenar por estado">
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
 <!ENTITY junkStatusColumn2.tooltip "Ordenar por estado do lixo eletrónico">
-<!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas no tópico">
+<!ENTITY unreadColumn2.tooltip "N.º de mensagens não lidas no tópico">
 <!ENTITY totalColumn2.tooltip "Número total de mensagens no tópico">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
 <!ENTITY receivedColumn2.tooltip "Ordenar por data de receção">

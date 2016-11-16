@@ -11,7 +11,7 @@
 <!ENTITY chat.noPreviousConv.description       "Atualmente, o &brandShortName; não tem qualquer conversa guardada para este contacto.">
 <!ENTITY chat.noAccount.title             "Ainda não configurou uma conta de chat.">
 <!ENTITY chat.noAccount.description       "Deixar que o &brandShortName; o ajude no processo de configuração da conta de chat.">
-<!ENTITY chat.accountWizard.button       "Iniciar">
+<!ENTITY chat.accountWizard.button       "Começar">
 <!ENTITY chat.noConnectedAccount.title             "As suas contas de chat não estão ligadas.">
 <!ENTITY chat.noConnectedAccount.description       "Pode ligar as contas no diálogo 'Estado do chat':">
 <!ENTITY chat.showAccountManager.button       "Mostrar estado do chat">

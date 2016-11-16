@@ -14,7 +14,7 @@
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Pré-definida:">
+<!ENTITY serverPortDefault.label "Predefinida:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Procurar novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "n">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor quando chegam novas mensagens">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Segurança da ligação:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
@@ -74,7 +76,7 @@
 <!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado...">
 <!ENTITY advancedButton.accesskey "a">
-<!ENTITY serverDefaultCharset2.label "Codificação pré-definida:">
+<!ENTITY serverDefaultCharset2.label "Codificação predefinida:">
 <!ENTITY localPath.label "Diretório local:">
 <!ENTITY localFolderPicker.label "Escolha o diretório local">
 <!ENTITY browseFolder.label "Procurar...">
@@ -83,7 +85,7 @@
 <!ENTITY browseNewsrc.accesskey "r">
 
 <!ENTITY accountTitle.label "Definições da conta">
-<!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
+<!ENTITY accountSettingsDesc.label "Esta é uma conta especial.  Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Um ficheiro por pasta (mbox)">

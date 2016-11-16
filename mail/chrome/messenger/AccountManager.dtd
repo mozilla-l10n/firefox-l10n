@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Adicionar outra conta…">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Utilizar como pré-definida">
+<!ENTITY setDefaultButton.label "Utilizar como predefinida">
 <!ENTITY setDefaultButton.accesskey "U">
 <!ENTITY removeButton.label "Remover conta">
 <!ENTITY removeButton.accesskey "R">

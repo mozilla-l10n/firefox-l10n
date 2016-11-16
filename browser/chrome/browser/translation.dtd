@@ -42,9 +42,9 @@
 <!ENTITY translation.showTranslation.button     "Mostrar tradução">
 
 <!ENTITY translation.errorTranslating.label     "Ocorreu um erro ao traduzir esta página.">
-<!ENTITY translation.tryAgain.button            "Voltar a tentar">
+<!ENTITY translation.tryAgain.button            "Tentar novamente">
 
-<!ENTITY translation.serviceUnavailable.label   "A tradução ainda não está disponível. Por favor tente mais tarde.">
+<!ENTITY translation.serviceUnavailable.label   "A tradução ainda não está disponível. Por favor, volte a tentar mais tarde.">
 
 <!ENTITY translation.options.menu               "Opções">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Nunca traduzir este sítio">
+<!ENTITY translation.options.neverForSite.label "Nunca traduzir este site">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "Preferências da tradução">
 <!ENTITY translation.options.preferences.accesskey "t">

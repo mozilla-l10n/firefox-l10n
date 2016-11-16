@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "URL do sítio:">
+<!ENTITY siteUrl.label         "URL do site:">
 <!ENTITY docSubdir.label       "Subdiretório da página:">
 <!ENTITY otherSubdir.label     "Subdiretório da imagem:">
 

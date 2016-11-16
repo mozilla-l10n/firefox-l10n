@@ -8,7 +8,7 @@
 
 <!ENTITY addAccountButton.label "Adicionar conta...">
 <!ENTITY addAccountButton.accesskey "A">
-<!ENTITY setDefaultButton.label "Pré-definir">
+<!ENTITY setDefaultButton.label "Predefinir">
 <!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Remover conta">
 <!ENTITY removeButton.accesskey "R">

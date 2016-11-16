@@ -17,7 +17,7 @@
 
 <!ENTITY tagsHdr.label "Etiquetas: ">
 <!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "Agente de utilizador: ">
+<!ENTITY userAgentField.label "User-Agent: ">
 <!ENTITY referencesField.label "Referências: ">
 <!ENTITY messageIdField.label "ID da mensagem: ">
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">

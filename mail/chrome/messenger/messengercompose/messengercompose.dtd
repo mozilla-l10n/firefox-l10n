@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
-<!ENTITY msgComposeWindow.title "Edição: (sem assunto)">
+<!ENTITY msgComposeWindow.title "Escrever: (sem assunto)">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "Ficheiro">
@@ -78,10 +78,10 @@
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Apagar">
 <!ENTITY deleteCmd.accesskey "A">
-<!ENTITY editRewrapCmd.label "w">
+<!ENTITY editRewrapCmd.label "Encapsular novamente">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Mudar nome do anexo...">
 <!ENTITY renameAttachmentCmd.accesskey "e">
@@ -110,7 +110,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showCompositionToolbarCmd.label "Barra de ferramentas de composição">
+<!ENTITY showCompositionToolbarCmd.label "Barra de composição">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "f">
@@ -305,4 +305,7 @@
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "Contactos">
+<!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Personalizar endereço 'De'…">
+<!ENTITY customizeFromAddress.accesskey "a">

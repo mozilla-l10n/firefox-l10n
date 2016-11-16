@@ -7,7 +7,7 @@
 <!ENTITY accountTitle.label "Definições da conta">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY identityTitle.label "Identidade pré-definida">
+<!ENTITY identityTitle.label "Identidade predefinida">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas veem quando leem as suas mensagens.">
 <!ENTITY name.label "O seu nome:">
 <!ENTITY name.accesskey "n">

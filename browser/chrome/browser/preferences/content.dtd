@@ -2,10 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Janelas pop-up">
+<!ENTITY  popups.label                "Pop-ups">
 
 <!ENTITY  blockPopups.label           "Bloquear janelas pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicy.label            "Notificações">
+<!ENTITY  notificationsPolicyLearnMore.label   "Saber mais">
+<!ENTITY  notificationsPolicyDesc3.label       "Escolha os sites que estão autorizados a enviar-lhe notificações">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Escolher…">
+<!ENTITY  notificationsDoNotDisturb.label      "Não me perturbar">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Nenhuma notificação será apresentada até reiniciar o &brandShortName;">
+
 <!ENTITY  popupExceptions.label       "Exceções…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
