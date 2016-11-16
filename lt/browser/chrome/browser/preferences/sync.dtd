@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "priedus">
 <!ENTITY engine.addons.accesskey    "p">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Įrenginio vardas:">
-<!ENTITY syncDeviceName.accesskey   "v">
 <!ENTITY fxaSyncDeviceName.label       "Įrenginio pavadinimas">
-<!ENTITY changeSyncDeviceName.label "Keisti įrenginio pavadinimą…">
-<!ENTITY cancelChangeSyncDeviceName.label "Atsisakyti">
-<!ENTITY saveChangeSyncDeviceName.label "Įrašyti">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "reikia prisijungti iš naujo">
 
 <!ENTITY notSignedIn.label           "Jūs nesate prisijungę.">
-<!ENTITY signIn.label                "Prisijungti">
+
+
 <!ENTITY profilePicture.tooltip      "Keisti profilio nuotrauką">
-<!ENTITY verifiedManage.label        "Tvarkyti paskyrą">
-<!ENTITY disconnect.label            "Atsijungti…">
-<!ENTITY verify.label                "Patvirtinti el. pašto adresą">
-<!ENTITY forget.label                "Užmiršti šį el. pašto adresą">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Pasiekite savo korteles, adresyną, slaptažodžius ir kitką – kur besinaudotumėte „&brandShortName;“.">
 <!ENTITY welcome.signIn.label "Prisijungti">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
 <!ENTITY signedOut.accountBox.title   "Jungtis su &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Kurti paskyrą">
+
 <!ENTITY signedOut.accountBox.signin  "Prisijungti">
+
 
 <!ENTITY signedIn.engines.label       "Sinchronizuokite visuose įrenginiuose">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Gauta pranešimų">
 <!ENTITY aboutNetworking.bytesSent             "Išsiųsta baitų">
 <!ENTITY aboutNetworking.bytesReceived         "Gauta baitų">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS paieška">
 <!ENTITY aboutNetworking.dnsLookupButton       "Nustatyti">
 <!ENTITY aboutNetworking.dnsDomain             "Sritis">
