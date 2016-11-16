@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ডিভাইচৰ নাম:">
-<!ENTITY syncDeviceName.accesskey   "c">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "বাতিল কৰক">
-<!ENTITY saveChangeSyncDeviceName.label "সংৰক্ষণ কৰক">
+
+
+
+
 <!ENTITY unlinkDevice.label           "এই ডিভাইচৰ সংযোগ বিচ্ছিন্ন কৰক">
 <!-- Footer stuff -->
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "আপুনি ছাইন্ড ইন নহয়।">
-<!ENTITY signIn.label                "ছাইন ইন কৰক">
 
 
-<!ENTITY disconnect.label            "বিচ্ছিন্ন কৰক…">
-<!ENTITY verify.label                "ইমেইল সতা সত্য নিৰূপণ কৰক">
-<!ENTITY forget.label                "এই ইমেইল পাহৰি যাওক">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "আপুনি য'তে &brandShortName; ব্যৱহাৰ কৰে তাতে আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱাৰ্ডসমূহ আৰু অধিক অভিগম কৰক।">
 
 
 
 <!ENTITY welcome.useOldSync.label "সংমিহলিৰ এটা পুৰনি সংস্কৰণ ব্যৱহাৰ কৰিছে?">
+
+
 
 
 
