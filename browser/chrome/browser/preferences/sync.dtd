@@ -33,8 +33,10 @@
 
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Kureka">
-<!ENTITY saveChangeSyncDeviceName.label "Kubika">
+
+
+
+
 
 <!-- Footer stuff -->
 
@@ -67,7 +69,14 @@ both, to better adapt this sentence to their language.
 
 
 
+
+
+
+
+
 <!ENTITY welcome.useOldSync.label "Uri gukoresha uburyo bwo guhuza bwa kare">
+
+
 
 
 
