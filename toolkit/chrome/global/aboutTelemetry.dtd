@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Escalares codificados">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
