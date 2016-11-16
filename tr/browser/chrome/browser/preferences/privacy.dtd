@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Daha fazla bilgi al">
 <!ENTITY  browserContainersEnabled.label        "Kapsayıcı sekmeleri etkinleştir">
 <!ENTITY  browserContainersEnabled.accesskey    "K">
-
-
+<!ENTITY  browserContainersSettings.label        "Ayarlar…">
+<!ENTITY  browserContainersSettings.accesskey    "A">

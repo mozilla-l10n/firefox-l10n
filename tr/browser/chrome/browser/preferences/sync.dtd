@@ -36,9 +36,11 @@
 <!ENTITY engine.addons.label        "Eklentiler">
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "&amp;Cihaz adı:">
 <!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
-
-
+<!ENTITY changeSyncDeviceName.label "Cihaz adını değiştir…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 
 
 
@@ -75,8 +77,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
 
 
-
-
+<!ENTITY disconnect.label            "Bağlantıyı kes…">
+<!ENTITY disconnect.accesskey        "B">
 
 
 
