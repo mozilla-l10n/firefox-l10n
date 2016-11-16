@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Jɨaɨe">
 <!ENTITY engine.addons.accesskey    "J">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Jóriaɨ mámekɨ:">
-<!ENTITY syncDeviceName.accesskey   "m">
 <!ENTITY fxaSyncDeviceName.label       "Jóriaɨ mámekɨ">
-<!ENTITY changeSyncDeviceName.label "Jóriaɨ jɨaɨe mamekɨ jóne...">
-<!ENTITY cancelChangeSyncDeviceName.label "Fúita">
-<!ENTITY saveChangeSyncDeviceName.label "Jóne">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Óni jóneri jóriaɨ">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "Ábɨno nitayena taɨne yuamo">
 
 <!ENTITY notSignedIn.label           "Yuamo taɨneñedɨio.">
-<!ENTITY signIn.label                "Mámekɨ yóne">
+
+
 <!ENTITY profilePicture.tooltip      "Jɨaɨe jóreño ó náama mamekɨmo jóne">
-<!ENTITY verifiedManage.label        "Kúe dáma fákara">
-<!ENTITY disconnect.label            "Óni áño...">
-<!ENTITY verify.label                "Ñúe éroir ó úiraɨma">
-<!ENTITY forget.label                "Féitari ó úiraɨma">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Ó taɨjɨamo íyano fakara, rɨgɨnua úitɨraɨ dɨga jofo bi biemo &brandShortName;.">
 <!ENTITY welcome.signIn.label "Mámekɨ yóne">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.">
 <!ENTITY signedOut.accountBox.title   "Zɨtade &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Fákara fɨno">
+
 <!ENTITY signedOut.accountBox.signin  "Mámekɨ yóne">
+
 
 <!ENTITY signedIn.engines.label       "Jóriaɨ damakɨ jóne">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

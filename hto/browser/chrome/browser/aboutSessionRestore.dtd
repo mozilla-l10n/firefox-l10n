@@ -41,13 +41,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "Áiyo óníri ó fɨnoka">
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-
-<!ENTITY tabgroupsmigration.tabtitle            "Éroi jɨamakɨ ináizɨte útɨraɨmo">
-<!ENTITY tabgroupsmigration.pagetitle2          "Óni óga jɨamakɨ ináizɨte útɨraɨmo, ó úitɨraɨ ñue jonega">
-
-
-
-
 
