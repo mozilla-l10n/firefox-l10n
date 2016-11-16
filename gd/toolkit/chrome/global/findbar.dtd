@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Lorg ath-làthair na h-abairt seo">
 <!ENTITY previous.tooltip "Lorg làthair roimhe na h-abairt seo">
 <!ENTITY findCloseButton.tooltip "Dùin am bàr luirg">
-<!ENTITY highlightAll.label "Soillsich a h-uile">
-<!ENTITY highlightAll.accesskey "a">
+
+
 <!ENTITY highlightAll.tooltiptext "Soillsich gach làthair na h-abairt seo">
 <!ENTITY caseSensitive.label "Aire do litrichean mòra is beaga">
 <!ENTITY caseSensitive.accesskey "c">

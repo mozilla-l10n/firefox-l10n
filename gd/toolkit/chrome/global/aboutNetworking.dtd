@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Teachdaireachdan a fhuaradh">
 <!ENTITY aboutNetworking.bytesSent             "Bytes a chaidh a chur">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes a fhuaradh">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "Lorg DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Fuasgail">
 <!ENTITY aboutNetworking.dnsDomain             "Àrainn">
