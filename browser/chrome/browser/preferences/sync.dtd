@@ -41,7 +41,9 @@
 <!ENTITY fxaSyncDeviceName.label       "Nome do dispositivo">
 <!ENTITY changeSyncDeviceName.label "Alterar nome do dispositivo…">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salvar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "Desconectar este dispositivo">
 
 <!-- Footer stuff -->
@@ -72,8 +74,11 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Entrar">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY verifiedManage.label        "Gerenciar Conta">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Desconectar…">
-<!ENTITY verify.label                "Confirmar e-mail">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "Verificar e-mail">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Esquecer este e-mail">
 
 <!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
@@ -86,6 +91,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincronize os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conectar com uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Entrar">
 
 <!ENTITY signedIn.engines.label       "Sincronização entre dispositivos">
