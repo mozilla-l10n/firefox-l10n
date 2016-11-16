@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Általános">
 <!ENTITY  generalTab.accesskey  "l">
+
 <!ENTITY  generalURL            "Cím:">
 <!ENTITY  generalType           "Típus:">
 <!ENTITY  generalMode           "Megjelenítési mód:">

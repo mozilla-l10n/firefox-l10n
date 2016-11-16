@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Eszköznév:">
-<!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY fxaSyncDeviceName.label       "Eszköznév">
-<!ENTITY changeSyncDeviceName.label "Eszköznév módosítása…">
-<!ENTITY cancelChangeSyncDeviceName.label "Mégse">
-<!ENTITY saveChangeSyncDeviceName.label "Mentés">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label " újracsatlakoztatásához">
 
 <!ENTITY notSignedIn.label           "Nincs bejelentkezve.">
-<!ENTITY signIn.label                "Bejelentkezés">
+
+
 <!ENTITY profilePicture.tooltip      "Profilkép módosítása">
-<!ENTITY verifiedManage.label        "Fiók kezelése">
-<!ENTITY disconnect.label            "Bontás…">
-<!ENTITY verify.label                "E-mail ellenőrzése">
-<!ENTITY forget.label                "E-mail elfelejtése">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Érje el lapjait, könyvjelzőit, jelszavait és sok mást bárhol is használja a &brandShortName;ot.">
 <!ENTITY welcome.signIn.label "Bejelentkezés">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">
 <!ENTITY signedOut.accountBox.title   "Kapcsolódjon egy &syncBrand.fxAccount.label;kal">
 <!ENTITY signedOut.accountBox.create  "Fiók létrehozása">
+
 <!ENTITY signedOut.accountBox.signin  "Bejelentkezés">
+
 
 <!ENTITY signedIn.engines.label       "Szinkronizáljon minden eszközén">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
