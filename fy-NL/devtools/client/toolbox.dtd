@@ -166,6 +166,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "Boarneferwizingen ynskeakelje">
+<!ENTITY options.sourceMaps.tooltip    "As jo dizze opsje ynskeakelje, sille boarnen yn de debugger en konsôle ferwize wurde.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
