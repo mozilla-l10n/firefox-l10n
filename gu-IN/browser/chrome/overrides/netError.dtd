@@ -29,6 +29,9 @@
 <!ENTITY generic.title "અરરર.">
 <!ENTITY generic.longDesc "<p>&brandShortName; અમુક કારણોસર આ પાનું લાવી શકતા નથી.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "સરનામું માન્ય નથી">
 <!ENTITY malformedURI.longDesc "<ul> <li>વેબ સરનામાઓ સામાન્ય રીતે <strong>http://www.example.com/</strong> લખાય છે</li> <li>ખાતરી કરો કે તમે આગળ આવતા સ્લેશો વાપરી રહ્યા છો (એટલે કે <strong>/</strong>).</li> </ul>">
 

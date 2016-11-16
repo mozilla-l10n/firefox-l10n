@@ -30,12 +30,7 @@
 <!ENTITY clientAuthAsk.title "વપરાશકર્તા ઓળખ વિનંતી">
 <!ENTITY clientAuthAsk.message1 "આ સાઇટે તમને પ્રમાણપત્ર સાથે તમારી ઓળખાણ આપવા માટે વિનંતી કરી છે:">
 <!ENTITY clientAuthAsk.message2 "ઓળખ તરીકે આપવા પ્રમાણપત્ર પસંદ કરો:">
-<!ENTITY clientAuthAsk.message3 "પસંદ કરેલા પ્રમાણપત્રની વિગતો:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "પ્રમાણપત્ર પસંદ કરો">
-<!ENTITY certPicker.info  "પ્રમાણપત્ર:">
-<!ENTITY certPicker.detailsLabel "પસંદ કરેલા પ્રમાણપત્રની વિગતો:">
 
 <!ENTITY pkcs12.setpassword.title  "પ્રમાણપત્ર બેકઅપ પાસવર્ડ પસંદ કરો">
 <!ENTITY pkcs12.setpassword.message  "પ્રમાણપત્ર બેકઅપ પાસવર્ડ તમારી બેકઅપ ફાઇલો માટે વપરાશે.">
