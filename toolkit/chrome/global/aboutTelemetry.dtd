@@ -104,6 +104,10 @@ Ping
   Skalars
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Keyed Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammen
 ">
