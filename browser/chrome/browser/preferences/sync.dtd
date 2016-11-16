@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Apparaatnamme:">
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnamme">
 <!ENTITY changeSyncDeviceName.label "Apparaatnamme wizigje…">
+<!ENTITY changeSyncDeviceName.accesskey "w">
 <!ENTITY cancelChangeSyncDeviceName.label "Annulearje">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "e">
 <!ENTITY saveChangeSyncDeviceName.label "Bewarje">
+<!ENTITY saveChangeSyncDeviceName.accesskey "B">
 <!ENTITY unlinkDevice.label           "Dit apparaat ûntkeppelje">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Jo binne net oanmeld.">
 <!ENTITY signIn.label                "Oanmelde">
+<!ENTITY signIn.accesskey            "m">
 <!ENTITY profilePicture.tooltip      "Profylôfbylding wizigje">
 <!ENTITY verifiedManage.label        "Account beheare">
+<!ENTITY verifiedManage.accesskey    "h">
 <!ENTITY disconnect.label            "Ofmelde…">
+<!ENTITY disconnect.accesskey        "O">
 <!ENTITY verify.label                "E-mail ferifiearje">
+<!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Ferjit dizze e-mail">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "Krij tagong ta jo ljepblêden, blêdwizers, wachtwurden en mear oeral dêr't jo &brandShortName; brûke.">
 <!ENTITY welcome.signIn.label "Oanmelde">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">
 <!ENTITY signedOut.accountBox.title   "Ferbining meitsje mei in &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Account oanmeitsje">
+<!ENTITY signedOut.accountBox.create.accesskey  "c">
 <!ENTITY signedOut.accountBox.signin  "Oanmelde">
+<!ENTITY signedOut.accountBox.signin.accesskey  "d">
 
 <!ENTITY signedIn.engines.label       "Syngronisearje op alle apparaten">
 
