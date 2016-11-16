@@ -96,9 +96,10 @@
 <!ENTITY edit_mode_cancel "Anullar">
 
 <!ENTITY close_tab "Tampar l\u0027onglet">
-
+<!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; onglets">
 <!ENTITY new_tab_opened "Novèl onglet dobèrt">
 
 <!-- Localization note (switch_button_message): This string should be as short
@@ -516,6 +517,7 @@ size. -->
 <!ENTITY button_clear "Escafar">
 <!ENTITY button_copy "Copiar">
 
+<!ENTITY home_top_sites_title "Sites favorits">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Apondre un site">
@@ -534,8 +536,9 @@ size. -->
 
 
 
-
+<!ENTITY home_closed_tabs_number "&formatD; onglets">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 onglet">
 <!ENTITY home_most_recent_empty "Los sites visitats recentament s\u0027afichan aicí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -737,6 +740,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_button "Anatz als marcapaginas">
 
+<!ENTITY activity_stream_topsites "Sites favorits">
+<!ENTITY activity_stream_highlights "Enlusiments">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
+is simply hidden from the Activity Stream panel. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_more): Link that opens the detailed bookmark/history lists
-     when pressed. -->
