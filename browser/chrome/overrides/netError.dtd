@@ -30,6 +30,9 @@
 <!ENTITY generic.title "ओहो।">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणले यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
+
+
+
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सामान्यतया यसरी लेखिन्छ <strong>http://www.example.com/</strong></li> <li>तपाईँले अगाडिको स्ल्यास (जस्तै <strong>/</strong>) प्रयोग गर्नु भएको छ भन्ने निश्चित गर्नुहोस्)।</li> </ul>">
 
