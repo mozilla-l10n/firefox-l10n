@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Bataga duwantey">
 <!ENTITY aboutNetworking.bytesSent             "Cebsu-ize sanbantey">
 <!ENTITY aboutNetworking.bytesReceived         "Cebsu-ize duwantey">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS gunari">
 <!ENTITY aboutNetworking.dnsLookupButton       "Anniya">
 <!ENTITY aboutNetworking.dnsDomain             "Laama">

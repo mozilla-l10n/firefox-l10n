@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Tontoney">
 <!ENTITY engine.addons.accesskey    "T">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Jinaa maaɲoo:">
-<!ENTITY syncDeviceName.accesskey   "n">
 <!ENTITY fxaSyncDeviceName.label       "Jinay maa">
-<!ENTITY changeSyncDeviceName.label "Jinay maa barmay…">
-<!ENTITY cancelChangeSyncDeviceName.label "Naŋ">
-<!ENTITY saveChangeSyncDeviceName.label "Gaabu">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Dobu kaa jinaa woo ga">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "War mana huru.">
-<!ENTITY signIn.label                "Huru">
+
+
 <!ENTITY profilePicture.tooltip      "Alhaali bii barmay">
-<!ENTITY verifiedManage.label        "Kontu juwal">
-<!ENTITY disconnect.label            "Ciyari dunbu…">
-<!ENTITY verify.label                "Bbataga aderesu koroši">
-<!ENTITY forget.label                "Dirŋa bataga aderesoo woo">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "War kanjey, doo-šilbawey, šennikufaley nda haya taney guna waati kul kaŋ war ga goy nda &brandShortName;.">
 <!ENTITY welcome.signIn.label "Huru">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.">
 <!ENTITY signedOut.accountBox.title   "Ciya nda &syncBrand.fxAccount.label; foo">
 <!ENTITY signedOut.accountBox.create  "Kontu tee">
+
 <!ENTITY signedOut.accountBox.signin  "Huru">
+
 
 <!ENTITY signedIn.engines.label       "Hangandi jinawey kul ga">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
