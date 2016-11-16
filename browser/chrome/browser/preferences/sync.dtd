@@ -52,7 +52,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidade">
-<!ENTITY determiningAcctStatus.label     "Verificando o status da sua conta…">
+<!ENTITY determiningAcctStatus.label     "Determinando o status da sua conta…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Por favor, entrar para reconectar">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Você não está conectado.">
+<!ENTITY notSignedIn.label           "Você não entrou.">
 <!ENTITY signIn.label                "Entrar">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY verifiedManage.label        "Gerenciar Conta">
@@ -81,14 +81,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Esquecer este e-mail">
 
-<!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
+<!ENTITY welcome.description "Acessar suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
 <!ENTITY welcome.signIn.label "Entrar">
 <!ENTITY welcome.createAccount.label "Criar conta">
 
 <!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
 
 <!ENTITY signedOut.caption            "Leve a sua web com você">
-<!ENTITY signedOut.description        "Sincronize os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
+<!ENTITY signedOut.description        "Sincronizar os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conectar com uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
