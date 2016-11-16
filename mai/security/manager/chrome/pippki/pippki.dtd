@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "प्रयोक्ता पहचान आग्रह">
 <!ENTITY clientAuthAsk.message1 "ई साइट ने आपसे एकटाटा प्रमाणपत्र सँ अपने केँ पहचानने क आग्रह कएल  अछि :">
 <!ENTITY clientAuthAsk.message2 "एकटाटा पहचान क रूपेँ एकटाटा प्रमाणपत्र  कलेल  चुनू:">
-<!ENTITY clientAuthAsk.message3 "चयनित प्रमाणपत्र क विवरण:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "प्रमाणपत्र चुनू">
-<!ENTITY certPicker.info  "प्रमाणपत्र:">
-<!ENTITY certPicker.detailsLabel "चयनित प्रमाणपत्रक विवरण:">
 
 <!ENTITY pkcs12.setpassword.title  "प्रमाणपत्र बैकअप गुड़किल्ली चुनू">
 <!ENTITY pkcs12.setpassword.message  "प्रमाणपत्र बैकअप गुड़किल्ली जकरा अहाँ एतए सेट कएने छी बैकअफ फाइलक रक्षा करैत अछि  जकरा अहाँ बनाबैक करीब अछि .  अहाँकेँ जरूर एहि गुड़किल्ली केँ सेट कएनाइ चाही एहि बैकअपक सँग.">
