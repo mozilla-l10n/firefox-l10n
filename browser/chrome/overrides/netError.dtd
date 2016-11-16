@@ -29,6 +29,9 @@
 <!ENTITY generic.title "ଆହାଃ">
 <!ENTITY generic.longDesc "<p>&brandShortName; କୌଣସି କାରଣବଶତଃ ଏହି ପୃଷ୍ଠାକୁ ଧାରଣ କରିପାରିବ ନାହିଁ।</p>">
 
+
+
+
 <!ENTITY malformedURI.title "ଏହି ଠିକଣାଟି ବୈଧ ନୁହେଁ">
 <!ENTITY malformedURI.longDesc "<ul> <li>ୱେବ ଠିକଣାଗୁଡ଼ିକ ସାଧାରଣତଃ ଏହି ପ୍ରକାରେ ଲେଖାଯାଇଥାଏ <strong>http://www.example.com/</strong></li> <li>ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ  ତୀର୍ଯକ ରେଖା ବ୍ୟବହାର କରୁଛନ୍ତି (i.e. <strong>/</strong>).</li> </ul>">
 
