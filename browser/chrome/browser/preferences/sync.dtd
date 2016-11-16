@@ -37,8 +37,8 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
-<!ENTITY syncDeviceName.accesskey   "c">
+
+
 
 
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "તમે પ્રવેશેલ નથી.">
-<!ENTITY signIn.label                "પ્રવેશો">
 
 
-<!ENTITY disconnect.label            "જોડાણ તૂટી ગયુ…">
-<!ENTITY verify.label                "ઇમેઇલને ચકાસો">
-<!ENTITY forget.label                "આ ઇમેઇલને ભૂલી જાઓ">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "ટૅબ, બુકમાર્ક, પાસવર્ડ અને વધારેને વાપરો ગમે ત્યાં તમે &brandShortName; વાપરો.">
 <!ENTITY welcome.signIn.label "પ્રવેશો">
 <!ENTITY welcome.createAccount.label "ખાતાને બનાવો">
 
 <!ENTITY welcome.useOldSync.label "શું તમે સુમેળની જૂની આવૃત્તિને વાપરી રહ્યા છે?">
+
+
 
 
 

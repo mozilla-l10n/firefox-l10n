@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "સમાવિષ્ટ">
 <!ENTITY  paneApplications.title  "કાર્યક્રમો">
 <!ENTITY  panePrivacy.title       "ખાનગીપણું">
+
 <!ENTITY  paneSecurity.title      "સુરક્ષા">
 <!ENTITY  paneAdvanced.title      "અદ્યતન">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
