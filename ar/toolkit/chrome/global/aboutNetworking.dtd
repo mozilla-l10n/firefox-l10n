@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "الرسائل المُستلمة">
 <!ENTITY aboutNetworking.bytesSent             "البايتات المرسلة">
 <!ENTITY aboutNetworking.bytesReceived         "البايتات المستلمة">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "بحث DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "حُلّ">
 <!ENTITY aboutNetworking.dnsDomain             "النطاق">
