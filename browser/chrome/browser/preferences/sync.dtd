@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Breiseáin">
 <!ENTITY engine.addons.accesskey    "B">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Ainm an Ghléis:">
-<!ENTITY syncDeviceName.accesskey   "s">
 <!ENTITY fxaSyncDeviceName.label       "Ainm an Ghléis">
-<!ENTITY changeSyncDeviceName.label "Athraigh Ainm an Ghléis…">
-<!ENTITY cancelChangeSyncDeviceName.label "Cealaigh">
-<!ENTITY saveChangeSyncDeviceName.label "Sábháil">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Dínasc an Gléas Seo">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Níl tú logáilte isteach.">
-<!ENTITY signIn.label                "Logáil isteach">
+
+
 <!ENTITY profilePicture.tooltip      "Athraigh an pictiúr próifíle">
-<!ENTITY verifiedManage.label        "Bainistigh mo Chuntas">
-<!ENTITY disconnect.label            "Dícheangail…">
-<!ENTITY verify.label                "Dearbhaigh an Seoladh Ríomhphoist">
-<!ENTITY forget.label                "Déan Dearmad den Seoladh Ríomhphoist seo">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Is féidir teacht ar do chuid cluaisíní, leabharmharcanna, focal faire, agus araile cibé áit a n-úsáideann tú &brandShortName;.">
 <!ENTITY welcome.signIn.label "Logáil Isteach">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.">
 <!ENTITY signedOut.accountBox.title   "Ceangail le &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cruthaigh Cuntas">
+
 <!ENTITY signedOut.accountBox.signin  "Logáil Isteach">
+
 
 <!ENTITY signedIn.engines.label       "Sioncronaigh trasna gach gléas">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

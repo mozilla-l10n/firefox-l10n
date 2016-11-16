@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cuardaigh nó cuir seoladh isteach">
 <!ENTITY urlbar.accesskey             "m">
+
 <!ENTITY urlbar.switchToTab.label     "Téigh go cluaisín:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "An bhfuil fonn ort do chuardaigh a fheabhsú trí mholtaí a sheoladh?">
