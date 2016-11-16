@@ -1,22 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
-     is not supported on some devices. Include a trailing space as needed. -->
-
-<!ENTITY unsupportedPlatform.pre                             "हमें माफ करें, लेकिन &brandShortName; इस युक्ति पर फ्लैश नहीं चला सकता है.">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "अधिक जानें...">
-<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "‍">
-
-<!ENTITY missingPlugin                                       "इस सामग्री को दिखाने के लिए प्लगइन जरूरी है.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
 <!ENTITY tapToPlayPlugin                                     "प्लगिन सक्रिय करने के लिए यहाँ टैप करें.">
 <!ENTITY clickToActivatePlugin                               "प्लगिन सक्रिय करें.">
 <!ENTITY checkForUpdates                                     "अद्यतन के लिए जाँचें...">
-<!ENTITY disabledPlugin                                      "यह प्लगइन निष्क्रिय किया गया है">
 <!ENTITY blockedPlugin.label                                 "यह प्लगिन आपकी सुरक्षा के लिए रोका गया है |">
 <!ENTITY hidePluginBtn.label                                 "प्लगइन छिपाएँ |">
 <!ENTITY managePlugins                                       "प्लगइन को प्रबंधित करें…">
