@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "جملُك بیٲكھ واقعئ ژئھنڈیو ">
 <!ENTITY previous.tooltip "جملُك پت۪یوم واقعئ ژئھنڈیو ">
 <!ENTITY findCloseButton.tooltip "ژھأنڈیو  بار  كریو بند">
-<!ENTITY highlightAll.label "تمام کْریو ہاے لایِٹ&amp;">
-<!ENTITY highlightAll.accesskey "A">
+
+
 <!ENTITY highlightAll.tooltiptext "جملیك سئری واقعئ كریو نمایاں ">
 <!ENTITY caseSensitive.label "میچ کْریو  كیس">
 <!ENTITY caseSensitive.accesskey "م">

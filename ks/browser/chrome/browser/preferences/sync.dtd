@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ڈیوایِس ناو:&amp;">
-<!ENTITY syncDeviceName.accesskey   "c">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "منسوخ">
-<!ENTITY saveChangeSyncDeviceName.label "محفوظ تھئویو">
+
+
+
+
 <!ENTITY unlinkDevice.label           "یئ آلئ كریو اَن لینك">
 <!-- Footer stuff -->
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "توہیہ چھیو نْہ ساینْڈ اِن۔">
-<!ENTITY signIn.label                "ساین  اِن">
 
 
-<!ENTITY disconnect.label            "ڈیسکنیکٹْہ کْریو ۔ ۔ ۔">
-<!ENTITY verify.label                "ایمیلس کْریو تصدیق">
-<!ENTITY forget.label                "یہ ایمیل گوو مشید">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "ایسیس کْریو پنْنے ٹیب، بوک مارْک، پاس وأرڈ تْہ مزید ییتنس تِہ توہیہ استعمال کْریو &amp;برانڈ شاٹ ناو؛۔">
 
 
 
 <!ENTITY welcome.useOldSync.label "استعمال چھاہ کران اکھ پرون وْرجن سینکُک؟">
+
+
 
 
 

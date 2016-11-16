@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "استیمال كرئن وئل سنز پرزناونچ درخواست ">
 <!ENTITY clientAuthAsk.message1 "یئ سایٹ چھئوئ تہئ گزئرش كران زئ تہئ پرنئویو پنن پان سرٹئفیكیٹئ سئتھ ">
 <!ENTITY clientAuthAsk.message2 "سرٹئفیكیٹ ژعریو شناخت پرزناونئ  خٲطرئ:">
-<!ENTITY clientAuthAsk.message3 "ژعرمئژ۪ی سرٹئفیكیٹس ہنز تفصیلات :">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "سرٹیفکیٹ ژعریو">
-<!ENTITY certPicker.info  "سرٹیفیکیٹ  ">
-<!ENTITY certPicker.detailsLabel "ژعرمئژ۪ی سرٹئفیكیٹس ہنز تفصیلات :">
 
 <!ENTITY pkcs12.setpassword.title  "سرٹئفیكیٹ بیك اپ خوفیئ لفظ ژعریو">
 <!ENTITY pkcs12.setpassword.message  "سُہ سرٹیفیکیٹ بیک اپ پاس وأرڈ یوس توہیہ ییتنس سیٹ کور چُھ بچاوان بیک اپ فایل یوس بناونس توہیہ تیار چھیو۔ توہیہ چُھ ضرور یہ پاس وأرڈ سیٹ کرُن بیک اپس سْیت برونہہ پکنْہ باپت۔">
