@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -212,27 +211,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Shihni një njoftim">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Shihni kërkesën për vend">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Shihni mesazhin e instalimit të shtesës">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Shihni mesazhin për depozitim jashtë linje nga aplikacioni">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Administroni të dhënat tuaja për hyrje">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "I vini shenjë nëse doni të ruhet fjalëkalimi juaj">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administroni përdorim shtojcash në këtë faqe">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Po ndani me sajtin kamerën dhe/ose mikrofonin tuaj">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administroni ndarjen me sajtin të mikrofonit tuaj">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Po ndani me sajtin mikrofonin tuaj">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administroni ndarjen me sajtin të dritares ose skenës tuaj">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Po ndani me sajtin dritaren ose skenën tuaj">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administroni ndarjen me sajtin të mikrofonit tuaj">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administroni ndarjen me sajtin të dritares ose ekranit tuaj">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Ndryshoni zgjedhjen për shfaqje apo jo nga sajti të treguesit">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Shihni mesazhin mbi instalimin e shërbimit">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Përkthejeni këtë faqe">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administroni përkthim faqeje">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administroni përdorim software-i DRM">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Hap panelin e mesazheve të instalimit">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Përkthejeni këtë faqe">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administroni përkthim faqeje">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administroni përdorim software-i DRM">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e të dhënave mbi vendin tuaj.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ia keni bllokuar këtij sajti depozitimin e të dhënave.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Ricaktoni shkallë zmadhimi/zvogëlimi">
 
 <!ENTITY searchItem.title             "Kërkoni">
 
@@ -429,7 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Varg kërkimi">
-<!ENTITY contentSearchSubmit.label    "Parashtrojeni kërkimin">
+<!ENTITY contentSearchSubmit.tooltip  "Parashtrojeni kërkimin">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -455,6 +459,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ndryshoji Rregullimet e Kërkimit">
+<!ENTITY changeSearchSettings.tooltip "Ndryshoni rregullimet e kërkimit">
+
 
 <!ENTITY searchInNewTab.label         "Kërkoni në Skedë të Re">
 <!ENTITY searchInNewTab.accesskey     "S">
@@ -734,6 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Leje">
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
+<!ENTITY identity.permissionsReloadHint "Mund t&apos;ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -777,26 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
 
-<!ENTITY socialToolbar.title        "Buton Paneli për Shoqëroret">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Shfaqe anështyllën">
-<!ENTITY social.toggleSidebar.accesskey "S">
-
 <!ENTITY social.addons.label "Administroni Shërbime…">
-
-<!ENTITY social.toggleNotifications.label "Shfaq njoftime në desktop">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.activated.description "Shërbimet prej <label/> janë aktivizuar. Rregullimet tuaja për shërbimet mund t&apos;i ndryshoni te <label class='text-link'>Përgjegjësi i Shtesave</label>.">
-<!ENTITY social.activated.undo.label "Oh, zhbëje këtë!">
-<!ENTITY social.activated.undo.accesskey "z">
-<!ENTITY social.learnMore.label "Mësoni më tepër…">
-<!ENTITY social.learnMore.accesskey "M">
-<!ENTITY social.closeNotificationItem.label "Jo Tani">
-
 <!ENTITY social.directory.label "Listë Aktivizimesh">
 <!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
 <!ENTITY social.directory.button "Shpjemë atje!">
@@ -816,15 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Përqendrohu te fjalosjet">
-<!ENTITY social.chatBar.accesskey "f">
-
-<!ENTITY social.markpageMenu.accesskey "F">
-<!ENTITY social.markpageMenu.label "Ruaje Faqen Te…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Ruaje Lidhjen Te…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -859,8 +838,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktivizoje mbrojtjen">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Mbrojtja nga gjurmimet është e çaktivizuar">
-
-<!ENTITY pointerLock.notification.message "Që të rishfaqet, shtypni ESC në çfarëdo çasti.">
 
 <!ENTITY pluginNotification.showAll.label "Shfaqi Krejt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
