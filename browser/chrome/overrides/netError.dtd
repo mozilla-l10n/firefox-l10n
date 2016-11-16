@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Adressen er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.eksempel.no/</strong></li> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
 
