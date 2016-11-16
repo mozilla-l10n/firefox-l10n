@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "பொது">
 <!ENTITY  generalTab.accesskey  "G">
+
 <!ENTITY  generalURL            "முகவரி:">
 <!ENTITY  generalType           "வகை:">
 <!ENTITY  generalMode           "காட்டும் முறைமை:">
