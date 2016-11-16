@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Jasotako mezuak">
 <!ENTITY aboutNetworking.bytesSent             "Bidalitako byteak">
 <!ENTITY aboutNetworking.bytesReceived         "Jasotako byteak">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS bilaketa">
 <!ENTITY aboutNetworking.dnsLookupButton       "Ebatzi">
 <!ENTITY aboutNetworking.dnsDomain             "Domeinua">

@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Bilatu esaldiaren hurrengo parekatzea">
 <!ENTITY previous.tooltip "Bilatu esaldiaren aurreko parekatzea">
 <!ENTITY findCloseButton.tooltip "Itxi bilaketa barra">
-<!ENTITY highlightAll.label "Nabarmendu guztia">
-<!ENTITY highlightAll.accesskey "z">
+
+
 <!ENTITY highlightAll.tooltiptext "Nabarmendu esaldiaren agerpen guztiak">
 <!ENTITY caseSensitive.label "Bereizi maiuskulak/minuskulak">
 <!ENTITY caseSensitive.accesskey "B">

@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Gehigarriak">
 <!ENTITY engine.addons.accesskey    "G">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Gailuaren izena:">
-<!ENTITY syncDeviceName.accesskey   "G">
 <!ENTITY fxaSyncDeviceName.label       "Gailuaren izena">
-<!ENTITY changeSyncDeviceName.label "Aldatu gailuaren izena…">
-<!ENTITY cancelChangeSyncDeviceName.label "Utzi">
-<!ENTITY saveChangeSyncDeviceName.label "Gorde">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Deslotu gailu hau">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Ez duzu saiorik hasi.">
-<!ENTITY signIn.label                "Hasi saioa">
+
+
 <!ENTITY profilePicture.tooltip      "Aldatu profileko argazkia">
-<!ENTITY verifiedManage.label        "Kudeatu kontua">
-<!ENTITY disconnect.label            "Deskonektatu…">
-<!ENTITY verify.label                "Egiaztatu helbide elektronikoa">
-<!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Izan zure fitxen, laster-marken, pasahitzen eta gehiagoren sarbidea &brandShortName; erabiltzen duzun toki orotan.">
 <!ENTITY welcome.signIn.label "Hasi saioa">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.">
 <!ENTITY signedOut.accountBox.title   "Konektatu &syncBrand.fxAccount.label; erabiliz">
 <!ENTITY signedOut.accountBox.create  "Sortu kontua">
+
 <!ENTITY signedOut.accountBox.signin  "Hasi saioa">
+
 
 <!ENTITY signedIn.engines.label       "Sinkronizatu gailu guztien artean">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

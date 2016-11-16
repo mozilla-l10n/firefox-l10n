@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Idatzi bilaketa edo helbidea">
 <!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu iradokizunekin?">
