@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Ebirimu">
 <!ENTITY  paneApplications.title  "Enkozesa">
 <!ENTITY  panePrivacy.title       "Ebyekyama">
+
 <!ENTITY  paneSecurity.title      "Ebyokwerinda">
 <!ENTITY  paneAdvanced.title      "Bussukkulumu">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

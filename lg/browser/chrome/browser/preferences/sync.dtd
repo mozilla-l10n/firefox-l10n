@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Elinya lye Ekyuma:">
-<!ENTITY syncDeviceName.accesskey   "k">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Sazaamu">
-<!ENTITY saveChangeSyncDeviceName.label "Tereka">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Jja Enkwaso Kukuma Kano">
 <!-- Footer stuff -->
 
@@ -75,7 +75,14 @@ both, to better adapt this sentence to their language.
 
 
 
+
+
+
+
+
 <!ENTITY welcome.useOldSync.label "Kozesa enkola enkade eya Sync?">
+
+
 
 
 

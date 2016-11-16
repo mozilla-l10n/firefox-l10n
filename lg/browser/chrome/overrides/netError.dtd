@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; terisobola kutikka muko guno olw'ensonga ezimu.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Endagiriro tetukana">
 <!ENTITY malformedURI.longDesc "<ul> <li>Endagiriro ze`ntimbe zitera okuwandikibwa nga <strong>http://www.example.com/</strong></li> <li>Ffuba okulaba nti okozesa obusale bw`omumaaso (i.e. <strong>/</strong>).</li> </ul>">
 
