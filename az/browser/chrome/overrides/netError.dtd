@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Uups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni yükləyə bilmir.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Ünvan səhvdir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
 

@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "İstifadəçi təyin etmə sorğusu">
 <!ENTITY clientAuthAsk.message1 "Bu zona sizin öz təsdiq sənədinizin təyin etməsini istəyir:">
 <!ENTITY clientAuthAsk.message2 "Təyin etməd' istifadə ediləcək təsdiq sənədini seçin:">
-<!ENTITY clientAuthAsk.message3 "Seçilən təsdiq sənədinin detalları:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Təsdiq sənədi seçin">
-<!ENTITY certPicker.info  "Təsdiq sənədi:">
-<!ENTITY certPicker.detailsLabel "Seçilən təsdiq sənədinin detalları:">
 
 <!ENTITY pkcs12.setpassword.title  "Təsdiq sənədi ehtiyatlama şifrənizi seçin">
 <!ENTITY pkcs12.setpassword.message  "Qoyduğunuz təsdiq sənədi ehtiyatlama şifrəsi, yaratmaq istədiyiniz ehtiyatlama fayllarınızı qoruyur. Ehtiyatlamaya davam etmək üçün bu şifrəni qoymalısınız.">

@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Bir sonrakı uyğun gələn ifadəni tap">
 <!ENTITY previous.tooltip "Bir öncəki uyğun gələn ifadəni tap">
 <!ENTITY findCloseButton.tooltip "Axtarış sətrini bağla">
-<!ENTITY highlightAll.label "Hamısını İşıqlandır">
-<!ENTITY highlightAll.accesskey "H">
+
+
 <!ENTITY highlightAll.tooltiptext "Mətndə uyğun gələn bütün ifadələri işıqlandır">
 <!ENTITY caseSensitive.label "Reqistri nəzərə al">
 <!ENTITY caseSensitive.accesskey "n">
