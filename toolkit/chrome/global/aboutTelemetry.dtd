@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalärer">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Nyckelhistogram">

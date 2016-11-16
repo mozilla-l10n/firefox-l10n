@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Hoppsan.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte visa sidan.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Adressen är inte giltig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <li>Kontrollera att du använder framåtlutande snedstreck (dvs <strong>/</strong>).</li> </ul>">
 
