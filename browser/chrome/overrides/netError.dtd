@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Lỗi.">
 <!ENTITY generic.longDesc "<p>Vì lý do nào đó, &brandShortName; không thể mở trang này.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Địa chỉ không hợp lệ">
 <!ENTITY malformedURI.longDesc "<ul> <li>Địa chỉ Web thường được viết như sau <strong>http://www.mozilla.com/</strong></li> <li>Hãy chắc chắn rằng bạn đang dùng đúng dấu xổ chéo (tức là dấu <strong>/</strong>).</li> </ul>">
 

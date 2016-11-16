@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "T">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Tên thiết bị:">
-<!ENTITY syncDeviceName.accesskey   "b">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Hủy bỏ">
-<!ENTITY saveChangeSyncDeviceName.label "Lưu">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Bỏ liên kết thiết bị này">
 <!-- Footer stuff -->
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Bạn chưa đăng nhập.">
-<!ENTITY signIn.label                "Đăng nhập">
 
 
-<!ENTITY disconnect.label            "Ngắt kết nối…">
-<!ENTITY verify.label                "Kiểm tra email">
-<!ENTITY forget.label                "Quên email này đi">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Truy cập các tab, đánh dấu trang, mật khẩu và nhiều thứ khác bất kỳ nơi đâu bạn dùng &brandShortName;.">
 
 
 
 <!ENTITY welcome.useOldSync.label "Bạn đang dùng bản Sync cũ?">
+
+
 
 
 
