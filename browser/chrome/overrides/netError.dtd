@@ -30,6 +30,9 @@
 <!ENTITY generic.title "ওহ্ হো!">
 <!ENTITY generic.longDesc "<p>কোনো কারণে &brandShortName; এই পৃষ্ঠাটি লোড করতে পারছে না।</p>">
 
+
+
+
 <!ENTITY malformedURI.title "ঠিকানাটি কার্যকর নয়">
 <!ENTITY malformedURI.longDesc "<ul> <li>ওয়েব ঠিকানা সাধারণত এভাবে লেখা হয় - <strong>http://www.example.com/</strong></li> <li>আপনি ফরওয়ার্ড স্ল্যাশ (<strong>/</strong>) ব্যবহার করেছেন কিনা তা পরীক্ষা করুন।</li> </ul>">
 
