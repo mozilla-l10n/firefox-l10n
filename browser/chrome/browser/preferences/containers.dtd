@@ -2,17 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY label.label          "Namn">
+
 
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
+<!ENTITY window.width         "45em">
 
-
-
-
-
-
-
-
+<!ENTITY name.label           "Namn:">
+<!ENTITY name.accesskey       "N">
+<!ENTITY icon.label           "Ikon:">
+<!ENTITY icon.accesskey       "I">
+<!ENTITY color.label          "Färg:">
+<!ENTITY color.accesskey      "o">
+<!ENTITY windowClose.key      "w">
 
 
 
