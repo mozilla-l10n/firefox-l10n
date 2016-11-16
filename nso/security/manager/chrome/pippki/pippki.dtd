@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Kgopelo ya Tlhatho ya Modiriši">
 <!ENTITY clientAuthAsk.message1 "Saete ye e kgopetše gore o itlhathe ka setifikheiti:">
 <!ENTITY clientAuthAsk.message2 "Kgetha setifikheiti go se hlagiša bjalo ka sehlathi:">
-<!ENTITY clientAuthAsk.message3 "Tshedimošo ya setifikheiti se se kgethilwego:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Kgetha Setifikheiti">
-<!ENTITY certPicker.info  "Setifikheiti:">
-<!ENTITY certPicker.detailsLabel "Dinyakwa tša setifikheiti se se kgethilwego:">
 
 <!ENTITY pkcs12.setpassword.title  "Kgetha Lentšuphetišo la Thekgo ya Setifikheiti">
 <!ENTITY pkcs12.setpassword.message  "Lentšuphetišo la thekgo ya setifikheiti leo o le beilego mo e šireletša thekgo ya faele yeo o lego kgauswi le go e hlama.  O swanetše go beakanya lentšuphetišo le go tšwela pele ka thekgo.">
