@@ -834,7 +834,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Besökt">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "Ignorera">
+<!ENTITY activity_stream_delete_history "Ta bort från historik">
