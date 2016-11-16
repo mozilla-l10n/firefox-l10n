@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Med-ikome">
 <!ENTITY engine.addons.accesskey    "M">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Nying Nyonyo:">
-<!ENTITY syncDeviceName.accesskey   "y">
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
-<!ENTITY changeSyncDeviceName.label "Lok nying nyonyo…">
-<!ENTITY cancelChangeSyncDeviceName.label "Juk">
-<!ENTITY saveChangeSyncDeviceName.label "Gwok">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Ngol kube ki nyonyo man">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Pe i donyo iye.">
-<!ENTITY signIn.label                "Dony iyie">
+
+
 <!ENTITY profilePicture.tooltip      "Lok cal me propwail">
-<!ENTITY verifiedManage.label        "Lo Akaunt">
-<!ENTITY disconnect.label            "Wek kube…">
-<!ENTITY verify.label                "Mok ada pa email">
-<!ENTITY forget.label                "Wek wiyi owil ikom email man">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Nong dirica matino, alama me buk, mung me donyo ki mukene mamegi ka itiyo ki &brandShortName;.">
 <!ENTITY welcome.signIn.label "Dony iye">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Tim alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki jami ayera i nyonyo ni weng marom.">
 <!ENTITY signedOut.accountBox.title   "Kube ki &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cwe akaunt">
+
 <!ENTITY signedOut.accountBox.signin  "Dony iye">
+
 
 <!ENTITY signedIn.engines.label       "Tii marom i nyonyo weng">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

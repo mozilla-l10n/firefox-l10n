@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Nong en matime malubo kore pi lok">
 <!ENTITY previous.tooltip "Nong en matime malubo kore pi lok">
 <!ENTITY findCloseButton.tooltip "Lor gintic me nong">
-<!ENTITY highlightAll.label "Wer weng">
-<!ENTITY highlightAll.accesskey "w">
+
+
 <!ENTITY highlightAll.tooltiptext "Puu lok matime weng">
 <!ENTITY caseSensitive.label "Lok marwate">
 <!ENTITY caseSensitive.accesskey "t">
