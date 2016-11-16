@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "Shihni krejt shkronjat e përdorura në këtë faqe">
+<!ENTITY showAllFontsUsed "Shfaq krejt shkronjat e përdorura">
 <!ENTITY usedAs "Të përdorura si: ">
 <!ENTITY system "sistem">
 <!ENTITY remote "së largëti">
