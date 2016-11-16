@@ -156,6 +156,11 @@
 
 <!ENTITY options.timestampMessages.label      "ಸಮಯಮುದ್ರೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY options.timestampMessages.tooltip    "ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ ಜಾಲ ಕನ್ಸೋಲ್‌ನಲ್ಲಿನ ಆದೇಶಗಳು ಮತ್ತು ಔಟ್‌ಪುಟ್‌ ಒಂದು ಸಮಯಮುದ್ರೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.">
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

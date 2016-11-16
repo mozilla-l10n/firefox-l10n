@@ -30,6 +30,9 @@
 <!ENTITY generic.title "ಓಹ್.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಕೆಲವೊಂದು ಕಾರಣದಿಂದಾಗಿ ಲೋಡ್‍ ಮಾಡಲಾಗುವುದಿಲ್ಲ.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "ವಿಳಾಸವು ಸಮಂಜಸವಾಗಿಲ್ಲ">
 <!ENTITY malformedURI.longDesc "<ul> <li>ಜಾಲ ವಿಳಾಸವು ಸಾಮಾನ್ಯವಾಗಿ     <strong>http://www.example.com/</strong> ರೀತಿಯಲ್ಲಿ  ಬರೆಯಲ್ಪಡುತ್ತದೆ</li> <li>ಮುಮ್ಮುಖವಾಗಿರುವ ಅಡ್ಡಗೆರಗಳನ್ನು ನೀವು ಬಳಸಿದ್ದೀರ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ (ಉದಾ. <strong>/</strong>).</li> </ul>">
 
