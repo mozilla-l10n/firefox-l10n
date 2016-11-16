@@ -31,7 +31,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra personala">
-
+<!ENTITY bookmarks.folder.other.label "Autres marcapaginas">
 <!ENTITY bookmarks.folder.desktop.label "Marcapaginas ordenador">
 <!ENTITY bookmarks.folder.mobile.label "Marcapaginas mobils">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
