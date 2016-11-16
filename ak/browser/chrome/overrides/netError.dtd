@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Agyei.">
 <!ENTITY generic.longDesc "<p>Siantiri bi nti &brandShortName; nntumi nnkyerɛ krataafa yi.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Adrɛs no nnyɛ nokware">
 <!ENTITY malformedURI.longDesc "<ul> <li>Wɔtaa kyerɛw wɛb adrɛs te sɛ <strong>http://www.mfatoho.com/</strong></li> <li>Hwɛ sɛ wo de enim nslahye (te sɛ <strong>/</strong>) rekyerɛw adrɛs no.</li> </ul>">
 

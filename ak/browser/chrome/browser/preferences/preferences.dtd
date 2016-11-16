@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Kɔntɛnt">
 <!ENTITY  paneApplications.title  "Mplekehyɛn">
 <!ENTITY  panePrivacy.title       "Siesɛm">
+
 <!ENTITY  paneSecurity.title      "Bambɔ">
 <!ENTITY  paneAdvanced.title      "Akɔenim">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
