@@ -29,6 +29,9 @@
 <!ENTITY generic.title "ক্ষমা কৰিব।">
 <!ENTITY generic.longDesc "<p>&brandShortName; কিবা কাৰণৰ বাবে এই পৃষ্ঠা ল'ড কৰিব নোৱাৰি।</p>">
 
+
+
+
 <!ENTITY malformedURI.title "অবৈধ ঠিকনা">
 <!ENTITY malformedURI.longDesc "<ul> <li>ৱেব ঠিকনা সাধাৰণতে এই ধৰণে লিখা হয় <strong>http://www.example.com/</strong></li> <li>ফৰ্ৱাৰ্ড স্লেছ ব্যৱহাৰ কৰাটো সুনিশ্চিত কৰক (i.e. <strong>/</strong>).</li> </ul>">
 

@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "ব্যৱহাৰকাৰীৰ পৰিচয়ৰ অনুৰোধ">
 <!ENTITY clientAuthAsk.message1 "আপুনি নিজকে এটা প্ৰমাণপত্ৰৰে পৰিচয় দিবলৈ এই ছাইটে অনুৰোধ কৰিছে:">
 <!ENTITY clientAuthAsk.message2 "চিনাকি দিবলৈ এটা প্ৰমাণপত্ৰ বাছক:">
-<!ENTITY clientAuthAsk.message3 "নিৰ্বাচিত প্ৰমাণপত্ৰৰ বিৱৰণ:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "প্ৰমাণপত্ৰ বাছক">
-<!ENTITY certPicker.info  "প্ৰমাণপত্ৰ:">
-<!ENTITY certPicker.detailsLabel "নিৰ্বাচিত প্ৰমাণপত্ৰৰ বিৱৰণ:">
 
 <!ENTITY pkcs12.setpassword.title  "প্ৰমাণপত্ৰ বেকআপ পাছৱাৰ্ড বাছক">
 <!ENTITY pkcs12.setpassword.message  "আপুনি নিৰ্ধাৰণ কৰা প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ডই আপুনি সৃষ্টি কৰিব লোৱা বেক-আপ ফাইলক ৰক্ষা কৰে।  এই কাৰ্য্যত আগবাঢ়িবলৈ আপুনি পাছৱাৰ্ড নিৰ্ধাৰণ কৰিব লাগিব।">

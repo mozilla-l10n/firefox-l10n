@@ -138,6 +138,11 @@
 
 <!ENTITY options.timestampMessages.label      "টাইমস্টেম্প সামৰ্থবান">
 <!ENTITY options.timestampMessages.tooltip    "যদি আপুনি এই বিকল্প কমান্ডসমূহ সামৰ্থবান কৰে তেন্তে ৱেব কনচৌলে এটা টাইমস্টাম্প প্ৰদৰ্শন কৰিব">
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
