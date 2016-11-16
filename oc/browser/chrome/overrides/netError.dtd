@@ -29,6 +29,9 @@
 <!ENTITY generic.title "La requèsta pòt pas abotir">
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
 <!ENTITY malformedURI.longDesc "<ul> <li>La sintaxi de las adreças web es generalament <strong>http://www.exemple.com/</strong></li> <li>Asseguratz-vos qu'utilizatz plan las bonas barras oblicas (es a dire <strong>/</strong>).</li> </ul>">
 
