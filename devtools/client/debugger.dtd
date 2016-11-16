@@ -49,8 +49,6 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Enable/disable all breakpoints">
-<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
-  -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -162,9 +160,11 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "பணியாளர்கள்">
 <!ENTITY debuggerUI.tabs.sources        "மூலங்கள் ">
 <!ENTITY debuggerUI.tabs.traces         "தடையங்கள்">
 <!ENTITY debuggerUI.tabs.callstack      "அழைப்பு படுகை">
@@ -191,24 +191,20 @@
   -  step in and step out). -->
 
 <!ENTITY debuggerUI.stepping.resume1    "VK_F8">
-<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
-<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
-<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
 <!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "புதிய கீற்றில் திற">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "URL ஐ நகலெடு">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">

@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "க">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "சாதனத்தின் பெயர்">
-<!ENTITY syncDeviceName.accesskey   "ச">
 
-<!ENTITY changeSyncDeviceName.label "கருவிப் பெயரை மாற்றவும்…">
-<!ENTITY cancelChangeSyncDeviceName.label "விடு">
-<!ENTITY saveChangeSyncDeviceName.label "சேமி">
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "இந்த சாதனத்தின் இணைப்பை அகற்ற">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "நீங்கள் உள்நுழையவில்லை.">
-<!ENTITY signIn.label                "உள்நுழை">
+
+
 <!ENTITY profilePicture.tooltip      "சுயவிவரப் படத்தை மாற்று">
 
-<!ENTITY disconnect.label            "துண்டி...">
-<!ENTITY verify.label                "மின்னஞ்சலை உறுதிச்செய்">
-<!ENTITY forget.label                "இந்த மடலை மறந்துவிடு">
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "உங்களுடைய கீற்றுகள், புத்தகக்குறிகள், கடவுச்சொற்களை நீங்கள் எங்கு &brandShortName; பயன்படுத்தினாலும் அனுக முடியும்.">
 
@@ -86,6 +91,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "உங்கள் வலையை உங்களுடன் எடுத்துக் கொள்ளுங்கள்">
 <!ENTITY signedOut.description        "புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், கூடுதல் இணைப்புகள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; உடன் இணையுங்கள்">
+
+
 
 
 
