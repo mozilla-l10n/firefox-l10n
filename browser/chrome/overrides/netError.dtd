@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Уучлаарай.">
 <!ENTITY generic.longDesc "<p>&brandShortName; энэ хуудсыг зарим шалтгаанаар дуудаж чадахгүй байна.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Хаяг зөв биш байна">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ихэнх вэб хуудас голцуу <strong>http://www.example.com/</strong></li> гэсэн хэлбэртэй байдаг. <li>Та хөтлөх тэмдгийг (жишээлбэл <strong>/</strong>) хэрэглэж буй эсэхээ шалгана уу.</li> </ul>">
 

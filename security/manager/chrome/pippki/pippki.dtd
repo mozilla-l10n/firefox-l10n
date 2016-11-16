@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "Хэрэглэгчийг таниулах хүсэлт">
 <!ENTITY clientAuthAsk.message1 "Энэ хуудас таныг өөрийгөө гэрчилгээтэйгээ хамт таниулахыг хүсэж байна:">
 <!ENTITY clientAuthAsk.message2 "Таних явцыг харуулахын тулд гэрчилгээг сонгох:">
-<!ENTITY clientAuthAsk.message3 "Сонгосон гэрчилгээний нарийн мэдээлэл:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Гэрчилгээ сонго">
-<!ENTITY certPicker.info  "Гэрчилгээ:">
-<!ENTITY certPicker.detailsLabel "Сонгосон гэрчилгээний нарийн мэдээлэл:">
 
 <!ENTITY pkcs12.setpassword.title  "Гэрчилгээний нөөцлөх нууц үгийг сонго">
 <!ENTITY pkcs12.setpassword.message  "Таны энд оруулах гэрчилгээний нөөцлөх нууц үг нь таны үүсгэх нөөцлөх файлыг хамгаалахад хэрэглэгдэнэ. Та энэ нууц үгийг нөөцлөх үйлдэлтэй хамт оруулах ёстой.">
