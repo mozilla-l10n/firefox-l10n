@@ -29,6 +29,9 @@
 <!ENTITY generic.title "Ndo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ñiiɓirɗe geese keewi winndireede ko <strong>http://www.yeru.com/</strong></li> <li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. <strong>/</strong>).</li> </ul>">
 
