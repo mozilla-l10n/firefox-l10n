@@ -28,6 +28,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label "Separar la invitación por asistente">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "S">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Esta opción envía un mensaje de invitación a cada asistente. Cada invitación sólo contiene un asistente como destinatario, de modo que no se revela al resto de asistentes.">
+<!ENTITY event.attendees.disallowcounter.label "Desactivar contrapropuestas">
+<!ENTITY event.attendees.disallowcounter.accesskey "D">
+<!ENTITY event.attendees.disallowcounter.tooltip "Indica que no aceptará contrapropuestas">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
 <!ENTITY event.dialog.new.message.key2 "N">
@@ -139,6 +142,12 @@
 <!ENTITY event.toolbar.priority.tooltip "Cambiar prioridad">
 <!ENTITY event.toolbar.status.tooltip "Cambiar estado">
 <!ENTITY event.toolbar.freebusy.tooltip "Cambiar horario libre/ocupado">
+<!ENTITY counter.button.proposal.label "Aplicar propuesta">
+<!ENTITY counter.button.proposal.accesskey "c">
+<!ENTITY counter.button.proposal.tooltip "Aplicar los datos propuestos al formulario.">
+<!ENTITY counter.button.original.label "Aplicar datos originales">
+<!ENTITY counter.button.original.accesskey "A">
+<!ENTITY counter.button.original.tooltip "Aplicar los datos originales al formulario.">
 <!ENTITY event.title.textbox.label "Título:">
 <!ENTITY event.title.textbox.accesskey "u">
 <!ENTITY event.location.label "Lugar:">

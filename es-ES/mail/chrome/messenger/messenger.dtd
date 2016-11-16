@@ -454,16 +454,27 @@
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Limpiar historial reciente…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Configuración de cuenta">
 <!ENTITY accountManagerCmd2.accesskey "C">
 <!ENTITY accountManagerCmdUnix2.accesskey "C">
-<!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
-<!ENTITY allowRemoteDebugging.accesskey "r">
+<!ENTITY devtoolsMenu.label "Herramientas de desarrollador">
+<!ENTITY devtoolsMenu.accesskey "H">
+<!ENTITY devToolboxCmd.label "Caja de herramientas de desarrollador">
+<!ENTITY devToolboxCmd.accesskey "C">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Depurador del complemento">
+<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY tabsDebugCmd.label "Depurador del marco de contenido">
+<!ENTITY tabsDebugCmd.accesskey "a">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Borrador">
+<!ENTITY scratchpadCmd.accesskey "B">
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!ENTITY scratchpadCmd.keytext "F4">
 <!ENTITY getMsgButton1.label "Recibir mensajes">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
