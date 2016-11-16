@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Ææ.">
 <!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
+<!ENTITY captivePortal.title "Innskráning á net">
+<!ENTITY captivePortal.longDesc "<p>Á þessu netsvæði gætirðu þurft að skrá þig inn á Internetið.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Opna innskráningarsíðu">
 
 <!ENTITY malformedURI.title "Veffang ekki löglegt">
 <!ENTITY malformedURI.longDesc "<ul> <li>Veffang er venjulega skrifað sem <strong>http://www.example.com/</strong></li> <li>Vertu viss um að þú sért að slá inn skástrik (þ.e. <strong>/</strong>).</li> </ul>">
