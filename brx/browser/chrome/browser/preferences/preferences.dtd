@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "थानाय आयदा">
 <!ENTITY  paneApplications.title  "एप्लिकेसन">
 <!ENTITY  panePrivacy.title       "गुमुर">
+
 <!ENTITY  paneSecurity.title      "रैखाथि">
 <!ENTITY  paneAdvanced.title      "जौगानाय">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

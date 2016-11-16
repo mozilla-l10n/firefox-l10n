@@ -37,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "डिभाइसनि मुं:">
-<!ENTITY syncDeviceName.accesskey   "c">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "नेवसि">
-<!ENTITY saveChangeSyncDeviceName.label "थिना दोन">
+
+
+
+
 <!ENTITY unlinkDevice.label           "बे डिभाइसखौ आनलिंक खालाम">
 <!-- Footer stuff -->
 
@@ -70,18 +70,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "नोंथाङा साइन-इन खालामाखै।">
-<!ENTITY signIn.label                "साइन-इन खालाम">
 
 
-<!ENTITY disconnect.label            "फोनांजाबगैयै खालाम...">
-<!ENTITY verify.label                "इ-मेइलखौ थारबिजिर">
-<!ENTITY forget.label                "बे इ-मेइलखौ बावलां">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "जेब्लानो नोंथाङा &brandShortName; खौ बाहायो अब्लानो नोंथांनि टेब, बुकमार्क, पासवार्डखौ हाबहो।">
 
 
 
 <!ENTITY welcome.useOldSync.label "सिन्कनि गोजामसिन बिसानखौ बाहायगासिनो दं?">
+
+
 
 
 

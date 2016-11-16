@@ -378,6 +378,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "आं">
 <!ENTITY urlbar.placeholder2          "थंखौ नागिर एबा हाबहो">
 <!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "टेबाव थां:">
 
 

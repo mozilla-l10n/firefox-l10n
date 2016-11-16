@@ -29,12 +29,7 @@
 <!ENTITY clientAuthAsk.title "बाहायग्रानि सिनायथि खावलायनाय">
 <!ENTITY clientAuthAsk.message1 "बे साइटा मोनसे चार्टिफिकेटजों नोंथांखौ गावजों सिनायथि होनो खावलायबाय:">
 <!ENTITY clientAuthAsk.message2 "सिनायथि बादि मोनसे चार्टिफिकेट दिनथिनो बासिख:">
-<!ENTITY clientAuthAsk.message3 "सायखखानाय चार्टिफिकेटनि गुवारै:">
-<!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "चार्टिफिकेट सायख">
-<!ENTITY certPicker.info  "चार्टिफिकेट:">
-<!ENTITY certPicker.detailsLabel "सायखखानाय चार्टिफिकेटनि गुवारै:">
 
 <!ENTITY pkcs12.setpassword.title  "मोनसे चार्टिफिकेट बेकआप पासवार्ड बासिख">
 <!ENTITY pkcs12.setpassword.message  "नोंथाङा बेयाव फजखानाय सार्टिफिकेट बेकआप पासवार्डआ नोंथाङा दासो सोरजिनो नागिरनाय बेकआपखौ रैखाथि खालामो। नोंथाङा बेकआपजों दावगालांनो लुबैयोब्ला बे पासवार्ड फजथार नांगोन।">

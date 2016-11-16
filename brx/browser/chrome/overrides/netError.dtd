@@ -29,6 +29,9 @@
 <!ENTITY generic.title "हाय">
 <!ENTITY generic.longDesc "<p>माखासे जाहोननि थाखाय &brandShortName; आ बिलाइखौ ल'ड खालामनो हाया।</p>">
 
+
+
+
 <!ENTITY malformedURI.title "थंआ बाहाय जाथाव नङा">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब थंखौ सरासनस्रायै http://www.example.com/ बादि <strong> लिरनाय जायो।</strong></li> <li>नोंथाङा फरवार्ड (सिंगांथिं) स्लेस (जेरै- <strong>/</strong>) खौ बाहायगासिनो दं नामा रोखा खालाम।</li> </ul>">
 
