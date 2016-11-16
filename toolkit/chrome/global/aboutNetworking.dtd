@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Skilaboð móttekin">
 <!ENTITY aboutNetworking.bytesSent             "Send bæti">
 <!ENTITY aboutNetworking.bytesReceived         "Móttekin bæti">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS uppfletting">
 <!ENTITY aboutNetworking.dnsLookupButton       "Finna">
 <!ENTITY aboutNetworking.dnsDomain             "Lén">
