@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Հաղորդագրությունները ուղարկվել են">
 <!ENTITY aboutNetworking.bytesSent             "Բայթ է ուղարկվել">
 <!ENTITY aboutNetworking.bytesReceived         "Բայթ է ստացվել">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS փնտրում">
 <!ENTITY aboutNetworking.dnsLookupButton       "Ուղղել">
 <!ENTITY aboutNetworking.dnsDomain             "Տիրույթ">
