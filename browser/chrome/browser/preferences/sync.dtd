@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Հավելումները">
 <!ENTITY engine.addons.accesskey    "Հ">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Սարքի անունը.">
-<!ENTITY syncDeviceName.accesskey   "ք">
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
-<!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
-<!ENTITY cancelChangeSyncDeviceName.label "Չեղարկել">
-<!ENTITY saveChangeSyncDeviceName.label "Պահպանել ">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Դուք մուտք չեք գործել:">
-<!ENTITY signIn.label                "Մուտք գործել">
+
+
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
-<!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
-<!ENTITY disconnect.label            "Անջատել հաշիվը...">
-<!ENTITY verify.label                "Հաստատել էլ. փոստը">
-<!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Մուտք գործեք ձեր ներդիրներին, էջանիշերին, գաղտնաբառերին՝ ցանկացած վայրից &brandShortName;-ը օգտագործելիս: ">
 <!ENTITY welcome.signIn.label "Մուտք գործել">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
 <!ENTITY signedOut.accountBox.title   "Կապակցել &syncBrand.fxAccount.label;-ի հետ">
 <!ENTITY signedOut.accountBox.create  "Ստեղծել Հաշիվ">
+
 <!ENTITY signedOut.accountBox.signin  "Մուտք գործել">
+
 
 <!ENTITY signedIn.engines.label       "Սինք՝ բոլոր սարքերի միջև">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
