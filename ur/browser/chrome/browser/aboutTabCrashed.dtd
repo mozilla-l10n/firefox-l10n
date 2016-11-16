@@ -2,15 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "پہلے بری خبر: یہ ٹیب کریش ہو گیا ہے">
-<!ENTITY tabCrashed.message "اب ایک خوش خبری: آپ صرف اس ٹیب کو بند کر سکتے ہیں، بحال کر سکتے ہیں یا تمام تباہ شدہ ٹیب بحال کر سکتے ہیں۔">
-<!ENTITY tabCrashed.sendReport "مزید بری خبروں کو روکنے کے لیے مدد کرنے کے لیے تباہ رپورٹ جمع کرائیں">
-<!ENTITY tabCrashed.includeURL "میں جس صفحہ پر تھا اس کا پتہ شامل کریں">
-<!ENTITY tabCrashed.commentPlaceholder "تبصرہ ڈالیں (تبصرے سب کو نظر آتے ہیں)">
-<!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
-<!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
-<!ENTITY tabCrashed.crashReporter "Mozilla تباہ رپورٹر">
-<!ENTITY tabCrashed.reportSent "تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ &brandShortName; کو بہتر بنانے کے لیے مدد دینے کا شکریہ!">
 <!ENTITY tabCrashed.closeTab "یہ ٹیب بند کریں">
 <!ENTITY tabCrashed.restoreTab "یہ ٹیب دوبارہ چلائیں">
 <!ENTITY tabCrashed.restoreAll "تمام تباہ شدہ ٹیب بحال کریں">
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
+<!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
+<!ENTITY tabCrashed.reportSent "تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ &brandShortName; کو بہتر بنانے کے لیے مدد دینے کا شکریہ!">
+
+

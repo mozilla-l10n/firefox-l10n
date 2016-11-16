@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "پیغامات وصولے گیے">
 <!ENTITY aboutNetworking.bytesSent             "بائیٹس بھیج دئیے گیے">
 <!ENTITY aboutNetworking.bytesReceived         "بائیٹس وصولے گیے">
+
+
+
+
+
+
+
+
 <!ENTITY aboutNetworking.dnsLookup             "DNS تلاش کریں">
 <!ENTITY aboutNetworking.dnsLookupButton       "حل کریں">
 <!ENTITY aboutNetworking.dnsDomain             "عمل داری">

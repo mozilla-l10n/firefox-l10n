@@ -121,6 +121,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "طےشدہ تخلیق کار ٹول">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -156,6 +158,11 @@
 
 <!ENTITY options.timestampMessages.label      "وقت سٹیمپ اہل بنائیں">
 <!ENTITY options.timestampMessages.tooltip    "اگر آپ اس اختیار کو اہل بناتے ہیں تو ویب کنسول پر احکام اور آؤٹ پٹ ایک وقت سٹیمپ دکھائیں گے">
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

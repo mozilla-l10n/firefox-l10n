@@ -211,8 +211,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "محل وقوع درخواست پینل کھولیں">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "اظافہ جات کا تنصیب کار پیغام کا پینل کھولیں">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "آف لائن ذخیرہ پیغام پینل کھولیں">
-
-
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "مہفوظ شدہ پیغام پینل کھولیں">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "پلگ ان کو بندوبست کریں">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "تبدیل کریں کے آپ اس سائٹ سے اطلاع وصول کرنا چاہتے ہے یا نہیں">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "کیمرہ اور مائیکروفون کی سائٹ کے ساتھ حصہ داری کو بندوبست کریں">
@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "تلاش کریں یا پتہ داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "کیا آپ اپنے تلاش انجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
@@ -456,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "تلاش سیٹکگیں تبدیل کریں">
-
+<!ENTITY changeSearchSettings.tooltip "تلاش کی سیٹکگیں تبدیل کریں">
 
 <!ENTITY searchInNewTab.label         "نئے ٹیب میں تلاش کرے">
 <!ENTITY searchInNewTab.accesskey     "ٹ">
