@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "los moduls complementaris">
 <!ENTITY engine.addons.accesskey    "u">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Nom de l'aparelh :">
-<!ENTITY syncDeviceName.accesskey   "d">
 <!ENTITY fxaSyncDeviceName.label       "Nom de l'aparelh">
 
-<!ENTITY cancelChangeSyncDeviceName.label "Anullar">
-<!ENTITY saveChangeSyncDeviceName.label "Enregistrar">
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Levar aqueste aparelh">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Sètz pas connectat.">
-<!ENTITY signIn.label                "Connexion">
+
+
 <!ENTITY profilePicture.tooltip      "Cambiar la fòto de perfil de l'utilizaire">
-<!ENTITY verifiedManage.label        "Gestion del compte">
-<!ENTITY disconnect.label            "Desconnectar...">
-<!ENTITY verify.label                "Verificar l'adreça electronica">
-<!ENTITY forget.label                "Doblidar aquesta adreça electronica">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Accedissètz a vòstres onglets, marcapaginas, senhals e plan mai encara, qual que siá l'aparelh sul qual utilizatz &brandShortName;.">
 <!ENTITY welcome.signIn.label "Connexion">
@@ -86,7 +91,9 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY signedOut.accountBox.create  "Crear un compte">
+
 <!ENTITY signedOut.accountBox.signin  "Connexion">
+
 
 <!ENTITY signedIn.engines.label       "Sincronizar dins totes los dispositius">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

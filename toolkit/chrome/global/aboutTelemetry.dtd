@@ -14,6 +14,7 @@
 
 
 
+<!ENTITY aboutTelemetry.structured "Estructurat">
 
 
 
@@ -21,7 +22,9 @@
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 
@@ -33,6 +36,8 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Blocatges dels fials d'execucion">
+
+<!ENTITY aboutTelemetry.scalarsSection "  Escalars">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">

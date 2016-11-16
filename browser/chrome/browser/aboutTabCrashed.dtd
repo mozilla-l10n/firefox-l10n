@@ -2,15 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Damne, l'onglet a plantat...">
-
-<!ENTITY tabCrashed.sendReport "Mandar un rapòrt de plantatge per reduire las riscas de rencontrar de problèmas">
-<!ENTITY tabCrashed.includeURL "Inclure l'URL de la pagina ont vos trobàvetz">
-<!ENTITY tabCrashed.commentPlaceholder "Apondre un comentari (los comentaris son visibles publicament)">
-<!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
-
-<!ENTITY tabCrashed.crashReporter "Rapòrts de plantatge de Mozilla">
-
 <!ENTITY tabCrashed.closeTab "Tampar aqueste onglet">
 <!ENTITY tabCrashed.restoreTab "Restablir aqueste onglet">
 <!ENTITY tabCrashed.restoreAll "Restablir totes los onglets plantats">
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
+
+
+
+
