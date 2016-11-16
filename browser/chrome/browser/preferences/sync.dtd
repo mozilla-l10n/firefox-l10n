@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Suplimente">
 <!ENTITY engine.addons.accesskey    "S">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Numele dispozitivului:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "Numele dispozitivului">
-<!ENTITY changeSyncDeviceName.label "Schimbă numele dispozitivului…">
-<!ENTITY cancelChangeSyncDeviceName.label "Renunță">
-<!ENTITY saveChangeSyncDeviceName.label "Salvează">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nu ești autentificat.">
-<!ENTITY signIn.label                "Autentifică-te">
+
+
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
-<!ENTITY verifiedManage.label        "Gestionează contul">
-<!ENTITY disconnect.label            "Deconectează-te…">
-<!ENTITY verify.label                "Verifică e-mailul">
-<!ENTITY forget.label                "Uită acest e-mail">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Accesează filele, semnele de carte, parolele și altele ori de câte ori folosești &brandShortName;.">
 <!ENTITY welcome.signIn.label "Autentifică-te">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creează cont">
+
 <!ENTITY signedOut.accountBox.signin  "Autentifică-te">
+
 
 <!ENTITY signedIn.engines.label       "Sincronizează pe toate dispozitivele">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
