@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Rozšírenie:">
 <!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Chcete vylepšiť vyhľadávanie zahrnutím návrhov z vyhľadávacích modulov?">
