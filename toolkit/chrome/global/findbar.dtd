@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Localizar próxima ocorrência da frase">
 <!ENTITY previous.tooltip "Localizar ocorrência anterior da frase">
 <!ENTITY findCloseButton.tooltip "Fechar barra de localização">
-
-
+<!ENTITY highlightAll.label "Realçar tudo">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Realçar todas as ocorrências da frase">
 <!ENTITY caseSensitive.label "Diferenciar maiúsculas de minúsculas">
 <!ENTITY caseSensitive.accesskey "c">

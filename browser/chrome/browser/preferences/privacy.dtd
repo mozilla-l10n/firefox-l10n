@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
 <!ENTITY  browserContainersEnabled.label        "Ativar separadores contentores">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Definições…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
