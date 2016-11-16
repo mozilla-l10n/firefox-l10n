@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Igrawen n isalen">
 <!ENTITY feeds.label "Isuddam RSS">
 
-<!ENTITY unsetDefault.tooltip "Ur tezmireḍ ara ad tekkseḍ &brandShortName; d amsaɣ inek amezwer deg &brandShortName;. Akken ad tarreḍ asnas nniḍen d amezwer, yessefk ad tferneḍ deg tnaka n 'Sbadu-t d amezwer'">
+<!ENTITY unsetDefault.tooltip "Ur tezmireḍ ara ad tekkseḍ &brandShortName; d amsaɣ-inek amezwer deg &brandShortName;. Akken ad tarreḍ asnas nniḍen d amezwer, yessefk ad tferneḍ deg tnaka n 'Sbadu-t d amezwer'">
 
 <!ENTITY checkOnStartup.label "Selkam yal tikelt asenqed agi di tnekra n &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "i">

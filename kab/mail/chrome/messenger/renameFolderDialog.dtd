@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY renameFolderDialog.title          "Snifel isem n ukaram">
-<!ENTITY rename.label                      "Sekcem isem amaynut i ukaram inek:">
+<!ENTITY rename.label                      "Sekcem isem amaynut i ukaram-inek:">
 <!ENTITY rename.accesskey                  "E">
 <!ENTITY accept.label                      "Snifel isem">
 <!ENTITY accept.accesskey                  "S">

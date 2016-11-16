@@ -32,7 +32,7 @@
 <!ENTITY useDownloadedList.accesskey "q">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro           "&brandShortName; yezmer ad yecfu ɣef awalen uffiren n imiḍan inek imeṛṛa.">
+<!ENTITY savedPasswords.intro           "&brandShortName; yezmer ad yecfu ɣef awalen uffiren n imiḍan-inek imeṛṛa.">
 <!ENTITY useMasterPassword.label        "Seqdec awal uffir agejdan">
 <!ENTITY useMasterPassword.accesskey    "S">
 <!ENTITY masterPassword.intro           "Awal uffir agejdan ad immesten akk awalen-ik uffiren, acukan issefk ad tsekcmeḍ yiwen i yal tiɣimit.">

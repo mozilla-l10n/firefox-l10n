@@ -27,7 +27,7 @@
 <!ENTITY convertEmoticons.accesskey    "ẓ">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label     "Tibzimin zemrent ad ttwasqedcent akken ad gent taggayin neɣ ad smizzewrent iznan inek.">
+<!ENTITY displayTagsText.label     "Tibzimin zemrent ad ttwasqedcent akken ad gent taggayin neɣ ad smizzewrent iznan-inek.">
 <!ENTITY addTagButton.label        "Rnu">
 <!ENTITY addTagButton.accesskey    "R">
 <!ENTITY editTagButton.label       "Ẓreg">

@@ -77,7 +77,7 @@
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Sken kan iznan n yemdanen  yellan ɣef imedlis inek n tensa">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Sken kan iznan n yemdanen yellan ɣef imedlis-inek n tensa">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
@@ -235,7 +235,7 @@
      but we can convert to a global search for them.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kemmel anadi inek ɣer ikaramen-agi">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kemmel anadi yinek ɣer ikaramen-agi">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.

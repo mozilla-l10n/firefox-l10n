@@ -9,7 +9,7 @@
 <!ENTITY description.label          "Rnu-t d adakaram n:">
 <!ENTITY description.accesskey      "R">
 <!ENTITY folderRestriction1.label   "Aqeddac-agi iseḥreṣ ikaramen ɣeṛ snat kan tewsiyin.">
-<!ENTITY folderRestriction2.label   "Sireg akaram inek amaynut akken ad igber:">
+<!ENTITY folderRestriction2.label   "Sireg akaram-inek amaynut akken ad igber:">
 <!ENTITY foldersOnly.label          "Ikaramen kan">
 <!ENTITY messagesOnly.label         "Iznan kan">
 <!ENTITY accept.label               "Rnu akaram">

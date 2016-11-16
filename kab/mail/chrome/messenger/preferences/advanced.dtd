@@ -40,20 +40,20 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Tilisɣelt">
-<!ENTITY telemetryDesc.label             "Ad yebḍu isefka n timellit, aseqdec, arrum d usugenn n umsaq inek n tirawt akked &vendorShortName; akken aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
+<!ENTITY telemetryDesc.label             "Ad yebḍu isefka n timellit, aseqdec, arrum d usugenn n umsaq-inek n tirawt akked &vendorShortName; akken aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
 <!ENTITY enableTelemetry.label           "Rmed tilisɣelt">
 <!ENTITY enableTelemetry.accesskey       "l">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
 
 <!ENTITY crashReporterSection.label      "Amassaɣay n uɣelluy">
-<!ENTITY crashReporterDesc.label         "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserkeḍ u ad iɣelles amsaɣ inek n yimayl.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ad yazen assaɣ n uɣelluy akken  &vendorShortName; ad yizmir ad iserkeḍ u ad iɣelles amsaɣ-inek n yimayl.">
 <!ENTITY enableCrashReporter.label       "Rmed amassaɣay n uɣelluy">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Ileqman n &brandShortName;:">
-<!ENTITY updateAuto.label                "Sebded s wudem awurman ileqman (yelha i tɣellist inek)">
+<!ENTITY updateAuto.label                "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Senqed ma llan ileqman, acu kan eǧǧi-yi a t-nesbeddeɣ">
 <!ENTITY updateCheck.accesskey           "n">

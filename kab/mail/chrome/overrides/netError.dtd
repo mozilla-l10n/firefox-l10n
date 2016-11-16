@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ulac aqeddac">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tensa am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara aţinigeḍ ɣef isemlen, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim inek neɣ aẓeṭṭa inek iţummesten s uɣwṛab n tmes neɣ aseɣẓan agrawan, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tensa am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara ad tinigeḍ ɣef isemlen, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrawan, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Senqed isekkilen imeqqṛanen n yisem n ufaylu neɣ tuccḍiwin nniḍen.</li> <li>Wali ma yella afaylu yettwasenkez, yettwasnifel yisem-is neɣ yettwakkes.</li> </ul>">
@@ -59,7 +59,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrawan d imeɣta.</li> <li>Nermes anebdal-ik n uẓeṭṭa iwakken ad twaliḍ ma yella aqeddac aseɣẓan arayan  iiteddu.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Aqeddac aseɣẓan agrawan ulac-it">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrawan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim inek t-ţeddu.</li> <li>Ma yella aselkim inek neɣ aẓeṭṭa inek iţummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrawan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim-inek t-tteddu.</li> <li>Ma yella aselkim-inek neɣ aẓeṭṭa yinek ittummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Asebter ur yettuwelleh ara akken iwata">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ugur-agi yettek-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
@@ -73,7 +73,7 @@
 <!ENTITY nssBadCert.title "Tuqqna taɣelsant ur teddi ara">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ay-agi yezmer ad yili d ugur n twila n uqeddac neɣ d albaɛḍ i yɛarḍenad yakwer tamagit n uqeddac-agi.</li> <li>Ma yella teqqneḍ yakan s trennawt ɣer uqeddac-agi, tuccḍa tezmerahat ad tili  d tuskudant, u tzemreḍ ad tɛerḍeḍ i tikelt nniḍen ticki.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Asmel ulac-it akka tura neɣ ur yestufi ara. Ɛreḍ tikkelt nniden akka kra n wakud.</li> <li>Ma yella ur tezmireḍ ara ad d-saliḍ isebtar, senqed tuqqna yinek n uẓeṭṭa Internet.</li> <li> Ma yella aselkim inek yettumesten s uɣrab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer web.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Asmel ulac-it akka tura neɣ ur yestufi ara. Ɛreḍ tikkelt nniden akka kra n wakud.</li> <li>Ma yella ur tezmireḍ ara ad d-saliḍ isebtar, senqed tuqqna yinek n uẓeṭṭa Internet.</li> <li> Ma yella aselkim-inek yettumesten s uɣrab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Tesweḥl-it tsertit n tɣellist n ugbur.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; yesewḥel asebter-agi seg usali s wudem-agi acku asebter yegber tasertit n tɣellist n ugbur i t-isweḥlen.</p>">
