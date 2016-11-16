@@ -36,13 +36,13 @@
 <!ENTITY engine.addons.label        "Moĩmbaha">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Mba'e'oka Réra:">
-<!ENTITY syncDeviceName.accesskey   "k">
 <!ENTITY fxaSyncDeviceName.label       "Mba'e'oka Réra">
-<!ENTITY changeSyncDeviceName.label "Emoambue mba'e'oka réra…">
-<!ENTITY cancelChangeSyncDeviceName.label "Heja">
-<!ENTITY saveChangeSyncDeviceName.label "Eñongatu">
+
+
+
+
+
+
 <!ENTITY unlinkDevice.label           "Ko mba'e'okágui jepoi">
 <!-- Footer stuff -->
 
@@ -70,12 +70,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Noñepyrúi tembiapo.">
-<!ENTITY signIn.label                "Eike">
+
+
 <!ENTITY profilePicture.tooltip      "Emoambue nera'ãga nemba'ete pegua">
-<!ENTITY verifiedManage.label        "Mba'ete ñangarekoha">
-<!ENTITY disconnect.label            "Ñesẽte…">
-<!ENTITY verify.label                "Marandu hechajey">
-<!ENTITY forget.label                "Eñembyesarái ko marandúgui">
+
+
+
+
+
+
+
+
 
 <!ENTITY welcome.description "Eike nde tendayke, techaukaha, ñe'ẽñemi ha hetave eipuru vove &brandShortName;.">
 <!ENTITY welcome.signIn.label "Eike">
@@ -87,7 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.">
 <!ENTITY signedOut.accountBox.title   "Eike &syncBrand.fxAccount.label; ndive">
 <!ENTITY signedOut.accountBox.create  "Mba'ete moheñói">
+
 <!ENTITY signedOut.accountBox.signin  "Eike">
+
 
 <!ENTITY signedIn.engines.label       "Embojuehe opaite mba'e'okápe">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

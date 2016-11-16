@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Ndi.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba'érepa.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Pe kundaharape ndoikói">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ñanduti kundaharape ojehai jepi kóicha <strong>http://www.example.com/</strong></li> <li>Ema'ẽjey eipuru porãpa barra ojero'áva tenonde gotyo (i.e. <strong>/</strong>).</li> </ul>">
 

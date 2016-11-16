@@ -48,13 +48,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "Reñemoaranduve upe ejaposèvape">
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-
-<!ENTITY tabgroupsmigration.tabtitle            "Eguerova ambue ne Tendayke Aty">
-<!ENTITY tabgroupsmigration.pagetitle2          "Ore romboguetéma Tendaykekuéra Aty, hákatu roñongatu ne tendaykekuéra">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Eikuaave moĩmbaha rehegua omyengoviáva Tendayke Aty">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; omongurusu opaite aty ikatu hag̃uáicha nokañýi mba'evete.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Tendayke Mongurusupyre Aty Jechauka">
-<!ENTITY tabgroupsmigration.restoredescription  "Embojevyjeykuaa avei ko ovetãme sa'i térã hetave aty oĩva tuguápe:">
 
