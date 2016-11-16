@@ -32,7 +32,8 @@
 <!ENTITY Custom.label         "मनासारखे...">
 <!ENTITY ShrinkToFit.label    "घट्ट बसण्याकरीता आंकुचित करा">
 <!ENTITY customPrompt.title   "हवे तसे प्रमाण...">
-<!ENTITY simplifyPage.label   "पृष्ठ सुलभ करा">
+
+
 <!ENTITY simplifyPage.enabled.tooltip  "सोप्या वाचनासाठी मांडणी बदला">
 <!ENTITY simplifyPage.disabled.tooltip "हे पृष्ठ आपोआप सुलभ होऊ शकत नाही">
 

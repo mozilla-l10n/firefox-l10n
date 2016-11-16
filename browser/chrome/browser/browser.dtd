@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "पत्ता शोधा किंवा द्या">
 <!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "आपण आपला शोध अनुभव सूचनांद्वारा सुधारू इच्छिता का?">
