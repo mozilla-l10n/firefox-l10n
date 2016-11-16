@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Ieškoti tolesnio frazės egzemplioriaus">
 <!ENTITY previous.tooltip "Ieškoti ankstesnio frazės egzemplioriaus">
 <!ENTITY findCloseButton.tooltip "Užverti paieškos juostą">
-<!ENTITY highlightAll.label "Viską paryškinti">
-<!ENTITY highlightAll.accesskey "V">
+
+
 <!ENTITY highlightAll.tooltiptext "Paryškinti visus radinius">
 <!ENTITY caseSensitive.label "Skirti raidžių registrą">
 <!ENTITY caseSensitive.accesskey "k">

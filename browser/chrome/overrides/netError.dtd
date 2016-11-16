@@ -30,6 +30,9 @@
 <!ENTITY generic.title "Klaida">
 <!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
+
+
+
 <!ENTITY malformedURI.title "Neteisingas adresas">
 <!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <li>Įsitikinkite, kad naudojate tinkamą adreso komponentų skirtuką (t. y., dešininį brūkšnį <strong>/</strong>).</li> </ul>">
 
