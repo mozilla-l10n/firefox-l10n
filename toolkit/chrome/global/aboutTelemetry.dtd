@@ -53,6 +53,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
