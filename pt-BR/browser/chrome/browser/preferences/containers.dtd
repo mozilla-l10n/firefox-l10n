@@ -17,6 +17,8 @@
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Cor:">
 <!ENTITY color.accesskey      "o">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Pronto">
+<!ENTITY button.ok.accesskey  "P">
 
