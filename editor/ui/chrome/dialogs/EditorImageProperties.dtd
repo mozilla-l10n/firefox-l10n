@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Resim Konumu:">
 <!ENTITY locationEditField.accessKey "R">
 <!ENTITY locationEditField.tooltip "Resmin dosya adını veya konumunu yazın">
+
 <!ENTITY title.label "Bilgi Notu:">
 <!ENTITY title.accessKey "B">
 <!ENTITY title.tooltip "Fareyle üzerine gelindiğinde görünecek HTML 'title' özniteliği">
