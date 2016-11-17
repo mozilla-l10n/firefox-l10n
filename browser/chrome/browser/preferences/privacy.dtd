@@ -110,3 +110,4 @@
 <!ENTITY  browserContainersEnabled.label        "Povolit kontejnerové panely">
 <!ENTITY  browserContainersEnabled.accesskey    "y">
 <!ENTITY  browserContainersSettings.label        "Nastavení…">
+<!ENTITY  browserContainersSettings.accesskey    "í">
