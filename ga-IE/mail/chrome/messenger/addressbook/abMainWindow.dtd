@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Ní thaispeánann an leabhar seoltaí seo teagmhálaithe ach tar éis duit cuardach a dhéanamh">
 <!ENTITY localResultsOnlyMessage.label                  "Ní thaispeánfar teagmhálaithe ó leabhair sheoltaí i gcéin go dtí go ndéanfaidh tú cuardach">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Comhad">
 <!ENTITY fileMenu.accesskey                             "C">
 <!ENTITY newMenu.label                                  "Nua">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Airíonna">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Amharc">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "T">
 <!ENTITY newlistButton.label                            "Liosta Nua">
 <!ENTITY newlistButton.accesskey                        "t">
-<!ENTITY editButton2.label                              "Airíonna">
-<!ENTITY editButton2.accesskey                          "A">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Scríobh">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Teachtaireacht Mheandarach">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Cruthaigh teagmhálaí nua sa leabhar seoltaí">
 <!ENTITY newlistButton.tooltip                          "Cruthaigh liosta nua">
-<!ENTITY editButton2.tooltip                            "Cuir an mhír roghnaithe in eagar">
+<!ENTITY editPropertiesButton.tooltip                   "Cuir an mhír roghnaithe in eagar">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Seol teachtaireacht ríomhphoist">
 <!ENTITY newIM.tooltip                                  "Seol teachtaireacht mheandarach nó déan comhrá">
 <!ENTITY deleteButton2.tooltip                          "Scrios an mhír roghnaithe">

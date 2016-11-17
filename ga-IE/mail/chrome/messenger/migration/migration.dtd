@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí agus sonraí eile ó:">
 <!ENTITY importFromNonWin.label         "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí, agus sonraí eile ó:">
 
+
 <!ENTITY importFromNothing.label        "Ná hiompórtáil rud ar bith">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 nó níos déanaí">

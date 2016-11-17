@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Ainm:">
 <!ENTITY acctName.accesskey       "n">
 
+
 <!ENTITY back.label               "&lt; Siar">
 <!ENTITY forward.label            "Ar Aghaidh &gt;">
 <!ENTITY finish.label             "Críochnaigh">

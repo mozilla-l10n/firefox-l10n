@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "B">
 <!ENTITY manageDevices.label "Gléasanna Slándála">
 <!ENTITY manageDevices.accesskey "G">
+<!-- Strings for the cert picker dialog -->
+
+
