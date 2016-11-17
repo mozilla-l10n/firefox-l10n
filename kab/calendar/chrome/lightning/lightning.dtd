@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Qbel tinnubga n tedyant i tedyanin akk i d-yettuɣalen">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Rnu">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Rnu tadyant ɣer uwitay">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Agwi">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Agwi tinnubga ɣer tadyant">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Agwi akk">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Agwi tinnubga ɣer tedyant i tedyanin akk i d-yettuɣalen">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Kkes">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Kkes seg uwitay">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Talqayt…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Sit akken ad twaliḍ ugar n iɣewwaṛen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Sentem tikelt nniḍen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Ad yazen asentem tikelt nniḍen i umsuddes">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Sekles anɣel">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Ad isekles anɣel n tedyant deg uwitay war ma tella tririt i umsuddes. Tabdart n imttekkiyen ad ttwasfeḍ.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Si tazwara">

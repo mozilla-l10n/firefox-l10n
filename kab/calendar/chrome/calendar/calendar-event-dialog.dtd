@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; yemmed">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Lɣu imttekkiyen">
-<!ENTITY event.attendees.notify.accesskey           "t">
-<!ENTITY event.attendees.notifyundisclosed.label    "Yal tinnubga i yiman-is">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "Y">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aɣewwaṛ-agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
+<!ENTITY event.attendees.notify.label                "Lɣu imttekkiyen">
+<!ENTITY event.attendees.notify.accesskey            "t">
+<!ENTITY event.attendees.notifyundisclosed.label     "Yal tinnubga i yiman-is">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "Y">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Aɣewwaṛ-agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Snifel Tazwart">
 <!ENTITY  event.toolbar.status.tooltip                    "Snifel addad">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Snifel akud ilelli/yettwaṭṭef">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Azwel:" >

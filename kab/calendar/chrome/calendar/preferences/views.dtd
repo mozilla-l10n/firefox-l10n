@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Dduṛt tbeddu di:">
 <!ENTITY pref.weekstarts.accesskey "D">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Sken uṭṭun n dduṛt di tmeẓriyin akked waggur meẓẓiyen">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "S">
+
+
 <!ENTITY pref.daysoff.label "Seddu ussan-agi di dduṛt n umahil:">
 
 <!ENTITY pref.calendar.view.daystart.label "Ass ad yebdu di:">
