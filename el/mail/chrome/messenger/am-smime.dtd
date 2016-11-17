@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "δ">
 <!ENTITY manageDevices.label "Συσκευές ασφαλείας">
 <!ENTITY manageDevices.accesskey "υ">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Επιλογή Πιστοποιητικού">
+<!ENTITY certPicker.info  "Πιστοποιητικό:">
+<!ENTITY certPicker.detailsLabel "Λεπτομέρειες για το επιλεγμένο πιστοποιητικό:">
