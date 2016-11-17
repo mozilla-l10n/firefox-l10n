@@ -12,15 +12,15 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "ہم آپکی مدد کر سکتے ہیں!">
 
 
+<!ENTITY tabCrashed.requestHelp "کیا آپ ہماری مدد کریں گے؟">
+
+<!ENTITY tabCrashed.requestReport "اس ٹیب کی رپورٹ کریں">
 
 
-
-
-
-
-
+<!ENTITY tabCrashed.includeURL2 "اس تباہ رپورٹ کے ساتھ صفحہ کا URL شامل کریں">
 <!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
 <!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
 <!ENTITY tabCrashed.reportSent "تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ &brandShortName; کو بہتر بنانے کے لیے مدد دینے کا شکریہ!">
