@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY label.label          "Název">
 <!ENTITY addButton.label      "Přidat kontejner">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
 <!ENTITY window.title         "Přidat kontejner">
 
+<!ENTITY icon.label           "Ikona:">
+<!ENTITY color.label          "Barva:">
 
+<!ENTITY button.ok.label      "Hotovo">
 
