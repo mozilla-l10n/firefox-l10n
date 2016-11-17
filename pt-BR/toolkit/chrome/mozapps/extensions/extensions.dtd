@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Complementos">
+<!ENTITY addons.windowTitle                   "Gerenciador de extensões">
 
 <!ENTITY search.placeholder                   "Pesquisar complementos">
 <!ENTITY search.buttonlabel                   "Pesquisar">
@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Carregando…">
-<!ENTITY listEmpty.installed.label            "Não há nenhum complemento deste tipo instalado">
+<!ENTITY listEmpty.installed.label            "Não há nenhuma extensão deste tipo instalado">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
 <!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento">
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">

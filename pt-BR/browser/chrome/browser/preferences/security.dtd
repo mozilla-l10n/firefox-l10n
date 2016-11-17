@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Geral">
 
-<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar extensões ou temas">
+<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar extensões">
 <!ENTITY  warnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
