@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
 <!ENTITY importFromNonWin.label         "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
 
+
 <!ENTITY importFromNothing.label        "Ikke importer noe">
 <!ENTITY importFromNothing.accesskey    "I">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 eller nyere">

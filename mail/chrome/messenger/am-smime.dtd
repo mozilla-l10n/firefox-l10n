@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "B">
 <!ENTITY manageDevices.label "Sikkerhetsenheter">
 <!ENTITY manageDevices.accesskey "S">
+<!-- Strings for the cert picker dialog -->
+
+

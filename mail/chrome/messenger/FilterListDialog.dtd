@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Påslått">
 <!ENTITY newButton.label "Nytt …">
 <!ENTITY newButton.accesskey "N">
+
+
 <!ENTITY editButton.label "Rediger …">
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Slett">

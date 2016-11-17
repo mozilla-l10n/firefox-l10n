@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Til">
 <!ENTITY fromField4.label "Fra">
 <!ENTITY senderField4.label "Avsender">
+
 <!ENTITY organizationField4.label "Organisasjon">
 <!ENTITY replyToField4.label "Svar til">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldingen">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
 <!ENTITY hdrReplyButton1.label "Svar">
 <!ENTITY hdrReplyButton2.tooltip "Svar til avsenderen av denne meldingen">
