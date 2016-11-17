@@ -43,13 +43,17 @@
 
 
 
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Tolak">
+
+
+
 
 
 
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
 
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
+
+
 
 
 
