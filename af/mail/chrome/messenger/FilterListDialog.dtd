@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Geaktiveer">
 <!ENTITY newButton.label "Nuwe…">
 <!ENTITY newButton.accesskey "N">
+
+
 <!ENTITY editButton.label "Redigeer…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Skrap">

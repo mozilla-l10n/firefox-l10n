@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Prentligging:">
 <!ENTITY locationEditField.accessKey "l">
 <!ENTITY locationEditField.tooltip "Tik die prent se lêernaam of ligging in">
+
 <!ENTITY title.label "Nutswenk:">
 <!ENTITY title.accessKey "N">
 <!ENTITY title.tooltip "Die HTML-&quot;title&quot;-attribuut wat as opwipwenk vertoon">

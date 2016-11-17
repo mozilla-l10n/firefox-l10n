@@ -2,11 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "b">
-<!ENTITY searchInput.label                  "Soek vir:">
-<!ENTITY searchInput.accesskey              "v">
+
+
 <!ENTITY SearchNameOrEmail.label            "Naam of e-pos">
+
+
+
+
+
+
 
 
 

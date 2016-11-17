@@ -15,9 +15,12 @@
 
 <!ENTITY newMessagesArrive.label          "Wanneer nuwe boodskappe arriveer:">
 <!ENTITY playSound.label                  "Speel 'n klank">
-<!ENTITY playSound1.accesskey              "k">
+<!ENTITY playSound1.accesskey             "k">
+
+
 <!ENTITY showAnimatedAlert.label          "Wys 'n waarskuwing">
 <!ENTITY showAnimatedAlert.accesskey      "W">
+
 <!ENTITY customizeMailAlert.label         "Doelmaak…">
 <!ENTITY customizeMailAlert.accesskey     "D">
 
@@ -26,8 +29,6 @@
 <!ENTITY play.label                       "Speel">
 <!ENTITY play.accesskey                   "S">
 <!ENTITY systemsound.label                "Verstekstelsel-klank vir nuwe pos">
-<!ENTITY systemsoundMac.label             "Stelsel-waarskuklank">
-<!ENTITY systemsoundMac.accesskey         "t">
 <!ENTITY systemsound.accesskey            "t">
 <!ENTITY customsound.label                "Gebruik die volgende klanklêer">
 <!ENTITY customsound.accesskey            "G">
