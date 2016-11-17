@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "b">
 <!ENTITY manageDevices.label "Xavfsizlik qurilmalari">
 <!ENTITY manageDevices.accesskey "q">
+<!-- Strings for the cert picker dialog -->
+
+

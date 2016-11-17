@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Nomi:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; &amp;Orqaga">
 <!ENTITY forward.label            "&amp;Keyingi &gt;">
 <!ENTITY finish.label             "Tayyor">

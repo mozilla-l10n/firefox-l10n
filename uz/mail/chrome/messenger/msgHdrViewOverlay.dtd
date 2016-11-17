@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Qabul qiluvchi">
 <!ENTITY fromField4.label "Jo‘natuvchi">
 <!ENTITY senderField4.label "Jo‘natuvchi">
+
 <!ENTITY organizationField4.label "Tashkilot">
 <!ENTITY replyToField4.label "Javob yozish">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arxivlash">
 <!ENTITY hdrArchiveButton1.tooltip "Ushbu xabarni arxivlash">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Aqlli javob yozish">
 <!ENTITY hdrReplyButton1.label "Javob qaytarish">
 <!ENTITY hdrReplyButton2.tooltip "Ushbu xabar jo‘natuvchisiga javob yozish">

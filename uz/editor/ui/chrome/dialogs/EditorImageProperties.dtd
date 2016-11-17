@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Rasm manzili:">
 <!ENTITY locationEditField.accessKey "m">
 <!ENTITY locationEditField.tooltip "Rasmning fayl nomi yoki manzilini yozing">
+
 <!ENTITY title.label "Maslahatlar oynasi:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "Html &quot;title&quot; atributi maslahatlar kabi ko‘rsatiladi">

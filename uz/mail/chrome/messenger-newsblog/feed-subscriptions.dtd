@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Qo‘shish">
 <!ENTITY button.addFeed.accesskey    "Q">
-<!ENTITY button.editFeed.label       "Yangilash">
-<!ENTITY button.editFeed.accesskey   "Y">
+<!ENTITY button.updateFeed.label     "Yangilash">
+<!ENTITY button.updateFeed.accesskey "Y">
 <!ENTITY button.removeFeed.label     "Olib tashlash">
 <!ENTITY button.removeFeed.accesskey "O">
 <!ENTITY button.importOPML.label     "Import qilish">

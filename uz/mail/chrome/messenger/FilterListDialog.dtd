@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Yoqib qo‘yilgan">
 <!ENTITY newButton.label "Yangi…">
 <!ENTITY newButton.accesskey "Y">
+
+
 <!ENTITY editButton.label "Tahrirlash…">
 <!ENTITY editButton.accesskey "T">
 <!ENTITY deleteButton.label "O‘chirish">

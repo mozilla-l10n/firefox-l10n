@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Tanlamalar, hisob sozlamalari, manzil kitobi, filterlar va boshqa ma’lumotlarni import qilish:">
 <!ENTITY importFromNonWin.label         "Parametrlar, hisob sozlamalari, manzil kitobi va boshqa ma’lumotlarni import qilish:">
 
+
 <!ENTITY importFromNothing.label        "Hech narsa imort qilinmasin">
 <!ENTITY importFromNothing.accesskey    "q">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 yoki yangisi">

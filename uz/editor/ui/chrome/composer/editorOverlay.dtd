@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Kiritish">
 <!ENTITY insertMenu.accesskey "K">
-<!ENTITY insertLinkCmd.label "Havola…">
-<!ENTITY insertLinkCmd.accesskey "H">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Havola…">
+<!ENTITY insertLinkCmd2.accesskey "H">
+
 <!ENTITY insertAnchorCmd.label "Nomlangan langar…">
 <!ENTITY insertAnchorCmd.accesskey "l">
 <!ENTITY insertImageCmd.label "Rasm…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "o">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Nomlangan langarni olib tashlash">
 <!ENTITY formatRemoveNamedAnchors.accesskey "o">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraf">  
+<!ENTITY paragraphParagraphCmd.label "Paragraf">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "1 bosh qator">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "O‘chirish">
 <!ENTITY tableDeleteMenu.accesskey "O">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

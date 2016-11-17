@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Bu manzil kitobi kontaktlari faqat qidirganingizdan so‘ng ko‘rinadi">
 <!ENTITY localResultsOnlyMessage.label                  "Masofadagi manil kitoblaridagi kontaktlarni qidirmasangiz ko‘rinmaydi">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fayl">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Yangi">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Xossalari">
-<!ENTITY propertiesCmd2.accesskey                       "X">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Ko‘rinishi">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yangi ro‘yxat">
 <!ENTITY newlistButton.accesskey                        "r">
-<!ENTITY editButton2.label                              "Xossalari">
-<!ENTITY editButton2.accesskey                          "X">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Yozish">
 <!ENTITY newmsgButton.accesskey                         "Y">
 <!ENTITY newIM.label                                    "Qisqa xabar">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Yangi manzil kitobi kontaktini yaratish">
 <!ENTITY newlistButton.tooltip                          "Yangi ro‘yxat yaratish">
-<!ENTITY editButton2.tooltip                            "Tanlanganni tahrir qilish">
+<!ENTITY editPropertiesButton.tooltip                   "Tanlanganni tahrir qilish">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "E-pochta orqali xabar jo‘natish">
 <!ENTITY newIM.tooltip                                  "Qisqa xabar jo‘natish yoki chat orqali gaplashish">
 <!ENTITY deleteButton2.tooltip                          "Tanlanganni o‘chirish">

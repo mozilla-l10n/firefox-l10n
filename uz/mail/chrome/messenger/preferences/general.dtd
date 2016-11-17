@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Yangi xabar kelganda:">
 <!ENTITY playSound.label                  "Tovushni tinglash">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Ogohlantirish signalini ko‘rsatish">
 <!ENTITY showAnimatedAlert.accesskey      "k">
+
 <!ENTITY customizeMailAlert.label         "Qulaylashtirish…">
 <!ENTITY customizeMailAlert.accesskey     "Q">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Ijro etish">
 <!ENTITY play.accesskey                   "I">
 <!ENTITY systemsound.label                "Yangi xat uchun asosiy tizim tovushi">
-<!ENTITY systemsoundMac.label             "Tizim ogohlantirish tovushi">
-<!ENTITY systemsoundMac.accesskey         "T">
 <!ENTITY systemsound.accesskey            "a">
 <!ENTITY customsound.label                "Quyidagi tovush faylidan foydalanilsin">
 <!ENTITY customsound.accesskey            "f">
