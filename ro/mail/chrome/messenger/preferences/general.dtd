@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">
 <!ENTITY playSound.label                  "Redă un sunet">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Afișează o alertă">
 <!ENTITY showAnimatedAlert.accesskey      "A">
+
 <!ENTITY customizeMailAlert.label         "Personalizează…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Redă">
 <!ENTITY play.accesskey                   "R">
 <!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
-<!ENTITY systemsoundMac.label             "Alertă sonoră a sistemului">
-<!ENTITY systemsoundMac.accesskey         "A">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Utilizează următorul fișier de sunet">
 <!ENTITY customsound.accesskey            "U">

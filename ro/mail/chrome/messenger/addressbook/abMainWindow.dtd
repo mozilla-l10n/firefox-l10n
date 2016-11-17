@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Această agendă afișează contacte doar după o căutare">
 <!ENTITY localResultsOnlyMessage.label                  "Contactele din agendele de la distanță nu sunt afișate înainte de căutare">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Creează">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Proprietăți">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+
+
 <!ENTITY propertiesCmd.key                              "I">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Vizualizare">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Proprietăți">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Scrie mesaj">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Creează un contact nou în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
-<!ENTITY editButton2.tooltip                            "Editează elementul selectat">
+<!ENTITY editPropertiesButton.tooltip                   "Editează elementul selectat">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
 <!ENTITY deleteButton2.tooltip                          "Șterge elementul selectat">
