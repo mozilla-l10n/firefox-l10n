@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Ներմուծել">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Հղում...">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Հղում...">
+<!ENTITY insertLinkCmd2.accesskey "L">
+
 <!ENTITY insertAnchorCmd.label "Անվանարկված խարիսխ...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Նկար...">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Հեռացնել խարսխի անունը">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Պարբերություն">
 <!ENTITY paragraphMenu.accesskey "Պ">
-<!ENTITY paragraphParagraphCmd.label "Պարբերություն">  
+<!ENTITY paragraphParagraphCmd.label "Պարբերություն">
 <!ENTITY paragraphParagraphCmd.accesskey "Պ">
 <!ENTITY heading1Cmd.label "Վերնագիր 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Ջնջել">
 <!ENTITY tableDeleteMenu.accesskey "D">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

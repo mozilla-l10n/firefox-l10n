@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Նոր նամակ ստանալիս.">
 <!ENTITY playSound.label                  "Նվագարկել ձայն">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժամանակ">
 <!ENTITY showAnimatedAlert.accesskey      "Ց">
+
 <!ENTITY customizeMailAlert.label         "Կարգավորել…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Նվագարկել">
 <!ENTITY play.accesskey                   "Ն">
 <!ENTITY systemsound.label                "Համակարգային ձայն՝ նոր նամակի դեպքում">
-<!ENTITY systemsoundMac.label             "Համակարգային ձայն">
-<!ENTITY systemsoundMac.accesskey         "մ">
 <!ENTITY systemsound.accesskey            "մ">
 <!ENTITY customsound.label                "Օգտ. հետևյալ ձայնային ֆայլը">
 <!ENTITY customsound.accesskey            "U">

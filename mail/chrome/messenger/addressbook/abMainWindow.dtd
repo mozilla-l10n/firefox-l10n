@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Այս հասցեագիրքը կարող է ցուցադրել կոնտակտները միայն որոնումից հետո">
 <!ENTITY localResultsOnlyMessage.label                  "Հեռակա հասցեագրքի կոնտակտները հասանելի չեն մինչև որոնումը">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Ֆայլ">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Նոր">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Հատկություններ...">
-<!ENTITY propertiesCmd2.accesskey                       "ո">
+
+
 <!ENTITY propertiesCmd.key                              "Հ">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Տեսք">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Նոր ցանկ">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Հատկություններ">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Նոր նամակ">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Ակնթարթային նամակ">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Ստեղծել նոր հասցե">
 <!ENTITY newlistButton.tooltip                          "Ստեղծել նոր ցանկ">
-<!ENTITY editButton2.tooltip                            "Խմբագրել ընտրվածը">
+<!ENTITY editPropertiesButton.tooltip                   "Խմբագրել ընտրվածը">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Ուղարկել նամակը">
 <!ENTITY newIM.tooltip                                  "Ուղարկել անմիջական նամակը">
 <!ENTITY deleteButton2.tooltip                          "Ջնջել ընտրվածը">
