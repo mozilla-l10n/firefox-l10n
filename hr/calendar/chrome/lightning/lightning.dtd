@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Prihvati poziv za sva ponavljanja događaja">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Dodaj">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Dodaj događaj u kalendar">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Odbij">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odbij poziv na događaj">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odbij sve">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odbij poziv za sva ponavljanja događaja">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Obriši">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Obriši iz kalendara">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalji…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za prikaz više mogućnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potvrdi">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Šalje ponovnu potvrdu organizatoru">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Spremi kopiju">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Spremi kopiju događaja u kalendar bez obzira na odgovor organizatoru. Popis sudionika će biti obrisan.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Privremeno">
