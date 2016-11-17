@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "n">
 <!ENTITY manageDevices.label "Innealan tèarainteachd">
 <!ENTITY manageDevices.accesskey "I">
+<!-- Strings for the cert picker dialog -->
+
+

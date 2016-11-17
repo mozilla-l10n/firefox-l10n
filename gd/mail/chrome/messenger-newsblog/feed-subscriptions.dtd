@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Cuir ris">
 <!ENTITY button.addFeed.accesskey    "C">
-<!ENTITY button.editFeed.label       "Deasaich">
-<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.updateFeed.label     "Deasaich">
+<!ENTITY button.updateFeed.accesskey "e">
 <!ENTITY button.removeFeed.label     "Thoir air falbh">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Ion-phortaich">

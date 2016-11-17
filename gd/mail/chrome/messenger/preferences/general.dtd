@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Nuair a ruigeas teachdaireachd ùr:">
 <!ENTITY playSound.label                  "Cluich fuaim">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Seall caismeachd">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+
 <!ENTITY customizeMailAlert.label         "Gnàthaich…">
 <!ENTITY customizeMailAlert.accesskey     "c">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Cluich">
 <!ENTITY play.accesskey                   "C">
 <!ENTITY systemsound.label                "Fuaim bhunaiteach an t-siostaim airson post ùr">
-<!ENTITY systemsoundMac.label             "Fuaim caismeachd an t-siostaim">
-<!ENTITY systemsoundMac.accesskey         "F">
 <!ENTITY systemsound.accesskey            "F">
 <!ENTITY customsound.label                "Cleachd an fhuaim a leanas">
 <!ENTITY customsound.accesskey            "u">
