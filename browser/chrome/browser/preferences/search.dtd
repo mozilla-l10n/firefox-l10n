@@ -10,8 +10,13 @@
 <!ENTITY provideSearchSuggestions.accesskey    "Π">
 
 <!ENTITY showURLBarSuggestions.label           "Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων">
+<!ENTITY showURLBarSuggestions.accesskey       "Ε">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το &brandShortName; ώστε να μην διατηρεί ποτέ το ιστορικό.">
 
+<!ENTITY redirectWindowsSearch.label "Χρήση αυτής της μηχανής αναζήτησης για αναζητήσεις από τα Windows">
+<!ENTITY redirectWindowsSearch.accesskey "Χ">
 
+<!ENTITY oneClickSearchEngines.label           "Μηχανές αναζήτησης με ένα κλικ">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Η γραμμή αναζήτησης σάς επιτρέπει την άμεση αναζήτηση σε εναλλακτικές μηχανές. Επιλέξτε ποιες θα εμφανίζονται.">
 
@@ -19,7 +24,9 @@
 <!ENTITY engineKeywordColumn.label             "Λέξη-κλειδί">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Επαναφορά προεπιλεγμένων μηχανών αναζήτησης">
+<!ENTITY restoreDefaultSearchEngines.accesskey "φ">
 
 <!ENTITY removeEngine.label                    "Αφαίρεση">
+<!ENTITY removeEngine.accesskey                "Α">
 
 <!ENTITY addMoreSearchEngines.label            "Προσθήκη περισσότερων μηχανών αναζήτησης…">
