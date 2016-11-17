@@ -122,17 +122,24 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "N">
 <!ENTITY cookieBlockImagesMsg.label "Šios svetainės paveikslai nebus atsiunčiami.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Leisti šios svetainės iškylančiuosius langus">
-<!ENTITY cookieAllowPopupsCmd.accesskey "L">
-<!ENTITY cookieManagePopups.label "Tvarkyti iškylančiųjų langų leidimus">
-<!ENTITY cookieManagePopups.accesskey "š">
+<!ENTITY popupAllowCmd.label "Leisti šios svetainės iškylančiuosius langus">
+<!ENTITY popupAllowCmd.accesskey "L">
+
+
+
+
+
+
+
+<!ENTITY popupsManage.label "Tvarkyti iškylančiųjų langų leidimus">
+<!ENTITY popupsManage.accesskey "š">
 
 <!ENTITY cookieCookieManager.label "Slapukų tvarkytuvė">
 <!ENTITY cookieCookieManager.accesskey "S">
 <!ENTITY cookieImageManager.label "Paveikslų tvarkytuvė">
 <!ENTITY cookieImageManager.accesskey "P">
-<!ENTITY cookiePopupManager.label "Iškylančiųjų langų tvarkytuvė">
-<!ENTITY cookiePopupManager.accesskey "š">
+<!ENTITY popupsManager.label "Iškylančiųjų langų tvarkytuvė">
+<!ENTITY popupsManager.accesskey "š">
 
 <!ENTITY clearPrivateDataCmd.label "Pašalinti privačius duomenis…">
 <!ENTITY clearPrivateDataCmd.accesskey "š">

@@ -12,7 +12,7 @@
 <!ENTITY tabmailNewButton.tooltip "Dubliuoti aktyvią kortelę">
 <!ENTITY tabmailCloseButton.tooltip "Užverti aktyvią kortelę">
 <!ENTITY tabmailAllTabs.tooltip "Visų kortelių sąrašas">
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
 
@@ -450,7 +450,7 @@
 
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label "Dokumentas baigtas">
+<!ENTITY statusText.label "Dokumentas baigtas">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">

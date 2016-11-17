@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Nepaisyti šio įspėjimo">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Tinklalapis laikomas kenkėjišku!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Yra pranešta, jog šis tinklalapis (<span id='malware_sitename'/>) yra kenkėjiškas, tad jis užblokuotas, remiantis naršyklės saugumo nuostatomis.">
@@ -17,8 +16,6 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 
 

@@ -23,6 +23,7 @@
 <!ENTITY rights.intro-point2a "„Mozilla“ nesuteikia jokių teisių į „Mozilla“ ir „SeaMonkey“ prekės ženklus ar logotipus. Papildomą informaciją apie šiuos prekės ženklus ir jų naudojimą rasite ">
 <!ENTITY rights.intro-point2b "čia">
 
+<!-- point 2d is technically point 3. in the list -->
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "„&vendorShortName;“ programų privatumo politiką rasite ">
@@ -41,9 +42,7 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "„&brandFullName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų siūlymo ir naujinimo paslauga bei saugiojo naršymo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, šių Paslaugų išjungimo instrukcijas rasite ">
 
-<!ENTITY rights2.webservices-c ". Kitas funkcijas ir tarnybas galite išjungti programos nuostatose">
 <!-- add-on related points for branded builds -->
 
 <!ENTITY rights.addons-a "Su programos priedais susijusios paslaugos: ">
@@ -54,16 +53,19 @@
 <!ENTITY rights.addons-term4 "Atlikus šiuos žingsnius, su priedais susijusios paslaugos bus išjungtos.">
 <!-- safe browsing points for branded builds -->
 
-
 <!ENTITY rights.safebrowsing-a "Saugusis naršymas: ">
 <!ENTITY rights.safebrowsing-b "Išjungti šios funkcijos nerekomenduojame, nes ją išjungę, galėsite neįspėti patekti į nesaugias saityno svetaines. Jeigu visgi norite šią funkciją visiškai išjungti, darykite tai taip:">
 
-<!ENTITY rights.safebrowsing-term2 "pasirinkite nuostatų kategoriją „&security.label;“;">
+
 <!ENTITY rights.safebrowsing-term3 "panaikinkite parinkčių „&blockAttackSites.label;“ ir „&blockWebForgeries.label;“ žymėjimus;">
 <!ENTITY rights.safebrowsing-term4 "saugusis naršymas išjungtas.">
-<!-- points 1-6 text for branded builds -->
+<!-- location aware browsing points for branded builds -->
 
 
+
+
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą.">
 <!ENTITY rights.webservices-term2 "Jūs esate kviečiami naudotis šiomis Paslaugomis su šia „&brandShortName;“ laida, ir tam jums suteikiamos visos teisės. „&vendorShortName;“ ir jos licencijų išdavėjai pasilieka visas kitas su Paslaugomis susijusias teises. Šiomis taisyklėmis nesiekiama apriboti teisių, kurias jums suteikia programai „&brandShortName;“ ir jos pirminiams tekstams taikoma atvirųjų programų licencija.">
 <!ENTITY rights.webservices-term3 "Paslaugos teikiamos „tokios, kokios yra“. „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai atsiriboja nuo bet kokių išreikštų ar numanomų garantijų, kaip antai nuo garantijų, jog Paslaugos yra veiksmingos ir atitiks jūsų poreikius. Jūs prisiimate visą riziką, susijusią su Paslaugų, atitinkančių jūsų poreikius, pasirinkimu, kokybe ir veiksnumu. Kai kuriose jurisdikcijose atsiriboti nuo numanomų garantijų neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.">
