@@ -23,7 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versão">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Recursos experimentais">
+<!ENTITY aboutSupport.experimentsTitle "Funcionalidades experimentais">
 <!ENTITY aboutSupport.experimentName "Nome">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Descrição">
@@ -112,11 +112,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Usar o Modo Seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com extensões desativadas…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Recursos">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funcionalidades">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de falhas">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisões">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Proteção contra travamentos desativada">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Proteção contra travamentos desabilitada">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluções alternativas">
