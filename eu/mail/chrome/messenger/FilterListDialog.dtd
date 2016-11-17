@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Gaituta">
 <!ENTITY newButton.label "Berria…">
 <!ENTITY newButton.accesskey "B">
+
+
 <!ENTITY editButton.label "Editatu…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ezabatu">

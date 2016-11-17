@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Irudiaren kokalekua:">
 <!ENTITY locationEditField.accessKey "k">
 <!ENTITY locationEditField.tooltip "Idatzi irudiaren fitxategi-izena edo kokalekua">
+
 <!ENTITY title.label "Argibidea:">
 <!ENTITY title.accessKey "A">
 <!ENTITY title.tooltip "Html 'title' atributua erakutsiko da argibide bezala">
