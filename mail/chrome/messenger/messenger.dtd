@@ -419,12 +419,22 @@
 <!ENTITY messengerCmd.accesskey "Α">
 <!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
 <!ENTITY addressBookCmd.accesskey "ρ">
+<!ENTITY addressBookCmd.key "Ρ">
 <!ENTITY addons.label "Πρόσθετα">
 <!ENTITY addons.accesskey "θ">
 <!ENTITY activitymanager.label "Διαχείριση δραστηριότητας">
 <!ENTITY activitymanager.accesskey "χ">
+<!ENTITY imAccountsStatus.label "Κατάσταση συνομιλίας">
+<!ENTITY imAccountsStatus.accesskey "Κ">
+<!ENTITY imStatus.available          "Διαθέσιμος">
+<!ENTITY imStatus.unavailable        "Μη διαθέσιμος">
+<!ENTITY imStatus.offline            "Εκτός δικτύου">
+<!ENTITY imStatus.showAccounts       "Εμφάνιση Λογαριασμών…">
+<!ENTITY joinChatCmd.label "Συμμετοχή στη συνομιλία…">
+<!ENTITY joinChatCmd.accesskey "σ">
 <!ENTITY savedFiles.label "Αποθηκευμένα αρχεία">
 <!ENTITY savedFiles.accesskey "θ">
+<!ENTITY savedFiles.key "ρ">
 <!ENTITY filtersCmd2.label "Φίλτρα μηνυμάτων">
 <!ENTITY filtersCmd2.accesskey "Φ">
 <!ENTITY filtersApply.label "Εκτέλεση φίλτρων στο φάκελο">
@@ -439,6 +449,8 @@
 <!ENTITY deleteJunk.accesskey "ι">
 <!ENTITY importCmd.label "Εισαγωγή...">
 <!ENTITY importCmd.accesskey "γ">
+<!ENTITY clearRecentHistory.label "Εκκαθάριση Πρόσφατου Ιστορικού…">
+<!ENTITY clearRecentHistory.accesskey "Ι">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountManagerCmd2.accesskey "θ">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
@@ -448,15 +460,24 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "θ">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Εργαλεία Προγραμματιστή">
+<!ENTITY devtoolsMenu.accesskey "ρ">
+<!ENTITY devToolboxCmd.label "Εργαλειοθήκη Προγραμματιστή">
+<!ENTITY devToolboxCmd.accesskey "Θ">
+<!ENTITY devToolboxCmd.commandkey "ι">
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
 <!ENTITY errorConsoleCmd.accesskey "ν">
+<!ENTITY scratchpadCmd.label "Πρόχειρο">
+<!ENTITY scratchpadCmd.accesskey "Π">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Λήψη Μυνημάτων">
@@ -467,8 +488,13 @@
 <!ENTITY forwardButton.label "Προώθηση">
 <!ENTITY fileButton.label "Αρχειοθέτηση">
 <!ENTITY archiveButton.label "Αρχειοθέτηση">
+<!ENTITY openConversationButton.label "Συζήτηση">
 <!ENTITY nextButton.label "Επόμενο">
+<!ENTITY nextButtonToolbarItem.label "Επόμενο μη αναγνωσμένο">
+<!ENTITY nextMsgButton.label "Επόμενο">
 <!ENTITY previousButton.label "Προηγούμενο">
+<!ENTITY previousButtonToolbarItem.label "Προηγούμενο μη αναγνωσμένο">
+<!ENTITY previousMsgButton.label "Προηγούμενο">
 <!ENTITY backButton1.label "Πίσω">
 <!ENTITY goForwardButton1.label "Μπροστά">
 <!ENTITY deleteItem.title "Διαγραφή">
@@ -482,6 +508,7 @@
 <!ENTITY junkButton.label "Ανεπιθύμητα">
 <!ENTITY notJunkButton.label "Επιθυμητά">
 <!ENTITY addressBookButton.label "Ευρετήριο">
+<!ENTITY chatButton.label "Συνομιλία">
 <!ENTITY glodaSearch.title "Γενική αναζήτηση">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 <!ENTITY mailViewsToolbarItem.title "Προβολές αλληλογραφίας">
@@ -499,9 +526,11 @@
 <!ENTITY replyAllButton.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
 <!ENTITY replyListButton.tooltip "Απάντηση στη λίστα αλληλογραφίας">
 <!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
+<!ENTITY forwardAsInline.tooltip "Προώθηση επιλεγμένου μηνύματος ως κείμενο μέσα στο σώμα">
 <!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένο">
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
+<!ENTITY openConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
 <!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
 <!ENTITY nextMsgButton.tooltip "Μετάβαση στο επόμενο μήνυμα">
 <!ENTITY previousButton.tooltip "Μετάβαση στο προηγούμενο μη αναγνωσμένο">
@@ -516,13 +545,18 @@
 <!ENTITY junkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως ανεπιθύμητα">
 <!ENTITY notJunkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως επιθυμητή αλληλογραφία">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
+<!ENTITY chatButton.tooltip "Εμφάνιση της καρτέλας Συνομιλίας">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
+<!ENTITY appmenuButton1.tooltip "Εμφάνιση του μενού του &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Προώθηση ως κείμενο στο σώμα">
 <!ENTITY buttonMenuForwardAsAttachment.label "Προώθηση ως συνημμένο">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Εμφάνιση απομακρυσμένου περιεχομένου στο μήνυμα">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Μ">
 
 <!-- Phishing Button Popup -->
 
