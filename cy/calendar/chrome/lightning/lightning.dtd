@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Derbyn gwahoddiad digwyddiad ar gyfer pob achlysur o'r digwyddiad">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ychwanegu">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ychwanegu'r digwyddiad i'r calendr">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Gwrthod">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Gwrthod gwahoddiad i'r digwyddiad">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Gwrthod pob un">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Gwrthod gwahoddiad i ddigwyddiad ar gyfer pob achlysur o'r digwyddiad">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dileu">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Dileu o'r calendr">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Manylion…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliciwch i ddangos rhagor o ddewisiadau">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ail gadarnhau">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Anfon ail gadarnhad i'r trefnydd">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Cadw copi">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Cadw copi o'r digwyddiad i'r calendr yn annibynnol o ateb i'r trefnydd. Bydd y rhestr o fynychwyr yn cael ei glirio.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Ansicr">
