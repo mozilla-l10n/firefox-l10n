@@ -1,11 +1,9 @@
 <!ENTITY aboutDialog.title          "Tentang &brandFullName;">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-
-
 
 
 
@@ -29,6 +27,7 @@
 
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.end                 "">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Informasi Lisensi">

@@ -6,6 +6,7 @@
 
 
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Berkas">
 <!ENTITY fileMenu.accesskey                             "B">
 <!ENTITY newMenu.label                                  "Baru">
@@ -78,6 +79,12 @@
 
 
 
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Tampilan">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Daftar Baru">
 <!ENTITY newlistButton.accesskey                        "D">
-<!ENTITY editButton2.label                              "Properti">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Tulis">
 <!ENTITY newmsgButton.accesskey                         "T">
 <!ENTITY newIM.label                                    "Pesan Instan">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Buat data kenalan baru">
 <!ENTITY newlistButton.tooltip                          "Buat daftar alamat baru">
-<!ENTITY editButton2.tooltip                            "Ubah item terpilih">
+<!ENTITY editPropertiesButton.tooltip                   "Ubah item terpilih">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Kirim email">
 <!ENTITY newIM.tooltip                                  "Kirim pesan instan atau chatting">
 <!ENTITY deleteButton2.tooltip                          "Hapus item terpilih">
