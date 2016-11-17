@@ -6,9 +6,12 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Kimlik ayarları">
 <!ENTITY identityListDesc.label "Bu kimlik için ayarları yapılandır:">
 
 <!ENTITY settingsTab.label       "Ayarlar">
 <!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">
 <!ENTITY addressingTab.label    "Kompozisyon ve adresler">
+
+
+
+

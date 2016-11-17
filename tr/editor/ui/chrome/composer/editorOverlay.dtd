@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Ekle">
 <!ENTITY insertMenu.accesskey "E">
-<!ENTITY insertLinkCmd.label "Bağlantı…">
-<!ENTITY insertLinkCmd.accesskey "l">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Bağlantı…">
+<!ENTITY insertLinkCmd2.accesskey "l">
+
 <!ENTITY insertAnchorCmd.label "İsimlendirilmiş Çıpa…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Resim…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "İsimlendirilen Çıpaları Kaldır">
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
 <!ENTITY formatRemoveNamedAnchors2.key "s">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraf">  
+<!ENTITY paragraphParagraphCmd.label "Paragraf">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Başlık 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Sil">
 <!ENTITY tableDeleteMenu.accesskey "S">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

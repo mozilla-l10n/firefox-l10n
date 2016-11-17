@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Kime">
 <!ENTITY fromField4.label "Gönderen">
 <!ENTITY senderField4.label "Gönderen">
+
 <!ENTITY organizationField4.label "Kurum">
 <!ENTITY replyToField4.label "Yanıtla">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">
 <!ENTITY hdrReplyButton1.label "Yanıtla">
 <!ENTITY hdrReplyButton2.tooltip "Bu iletiyi gönderene yanıt yaz">

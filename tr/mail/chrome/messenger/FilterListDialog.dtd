@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Etkin">
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">
+
+
 <!ENTITY editButton.label "Düzenle…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sil">

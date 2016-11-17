@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "İsim:">
 <!ENTITY acctName.accesskey       "s">
 
+
 <!ENTITY back.label               "&lt; Geri">
 <!ENTITY forward.label            "İleri &gt;">
 <!ENTITY finish.label             "Bitir">

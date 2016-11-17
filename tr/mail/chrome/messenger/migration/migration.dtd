@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Seçenekler'i, Hesap Ayarları'nı, Adres Defteri'ni, Süzgeçler'i ve diğer verileri buradan içe aktar:">
 <!ENTITY importFromNonWin.label         "Tercihler'i, Hesap Ayarları'nı, Adres Defteri'ni, Süzgeçler'i ve diğer verileri buradan içe aktar: ">
 
+
 <!ENTITY importFromNothing.label        "İçe bir şey aktarma">
 <!ENTITY importFromNothing.accesskey    "ç">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 veya üstü">

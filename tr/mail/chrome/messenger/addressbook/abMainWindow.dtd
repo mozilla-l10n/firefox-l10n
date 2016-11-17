@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Bu adres defterinde kişiler sadece bir aramanın ardından gösterilir">
 <!ENTITY localResultsOnlyMessage.label                  "Uzaktaki adres defterindeki kişiler siz arama yapana kadar gösterilmez">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Dosya">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Yeni">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Özellikler">
-<!ENTITY propertiesCmd2.accesskey                       "z">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Görünüm">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yeni Liste">
 <!ENTITY newlistButton.accesskey                        "Y">
-<!ENTITY editButton2.label                              "Özellikler">
-<!ENTITY editButton2.accesskey                          "r">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Yaz">
 <!ENTITY newmsgButton.accesskey                         "Y">
 <!ENTITY newIM.label                                    "Anlık İleti">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Yeni adres defteri kişisi oluştur">
 <!ENTITY newlistButton.tooltip                          "Yeni bir liste oluştur">
-<!ENTITY editButton2.tooltip                            "Seçili ögeyi düzenle">
+<!ENTITY editPropertiesButton.tooltip                   "Seçili ögeyi düzenle">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "E-posta iletisi gönder">
 <!ENTITY newIM.tooltip                                  "Anlık ileti gönder veya sohbet et">
 <!ENTITY deleteButton2.tooltip                          "Seçilmiş ögeyi sil">

@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
 <!ENTITY playSound.label                  "Ses çıkar">
-<!ENTITY playSound1.accesskey              "S">
+<!ENTITY playSound1.accesskey             "S">
+
+
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
 <!ENTITY showAnimatedAlert.accesskey      "U">
+
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
 <!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
-<!ENTITY systemsoundMac.label             "Sistem Uyarı Sesi">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
 <!ENTITY customsound.accesskey            "d">
