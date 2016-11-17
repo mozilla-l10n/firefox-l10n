@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Bildeadresse:">
 <!ENTITY locationEditField.accessKey "B">
 <!ENTITY locationEditField.tooltip "Skriv inn filnamnet eller adressa til bildet">
+
 <!ENTITY title.label "Verktøytips:">
 <!ENTITY title.accessKey "V">
 <!ENTITY title.tooltip "HTML-attributtet «title» viser eit verktøytips">

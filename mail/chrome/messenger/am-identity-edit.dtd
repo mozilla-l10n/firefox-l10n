@@ -6,9 +6,12 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Identitetsinnstillingar">
 <!ENTITY identityListDesc.label "Konfigurer innstillingane for denne identiteten:">
 
 <!ENTITY settingsTab.label       "Innstillingar">
 <!ENTITY copiesFoldersTab.label "Kopiar og mapper">
 <!ENTITY addressingTab.label    "Skriving og adressering">
+
+
+
+
