@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "I">
 <!ENTITY fromField4.label "Si">
 <!ENTITY senderField4.label "Amazan">
+
 <!ENTITY organizationField4.label "Takebbanit">
 <!ENTITY replyToField4.label "Err i">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Aɣbaṛ">
 <!ENTITY hdrArchiveButton1.tooltip "Ḥrez izen-agi">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Tiririt s tigzi">
 <!ENTITY hdrReplyButton1.label "Err">
 <!ENTITY hdrReplyButton2.tooltip "Err i umazan n yizen-agi">

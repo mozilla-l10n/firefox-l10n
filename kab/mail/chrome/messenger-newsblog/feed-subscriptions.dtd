@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Rnu">
 <!ENTITY button.addFeed.accesskey    "R">
-<!ENTITY button.editFeed.label       "Leqqem">
-<!ENTITY button.editFeed.accesskey   "L">
+<!ENTITY button.updateFeed.label     "Leqqem">
+<!ENTITY button.updateFeed.accesskey "L">
 <!ENTITY button.removeFeed.label     "Kkes">
 <!ENTITY button.removeFeed.accesskey "K">
 <!ENTITY button.importOPML.label     "Kter">

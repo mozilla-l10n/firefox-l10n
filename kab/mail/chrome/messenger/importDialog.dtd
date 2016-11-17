@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Isem:">
 <!ENTITY acctName.accesskey       "I">
 
+
 <!ENTITY back.label               " &lt; ɣer deffir">
 <!ENTITY forward.label            "Ɣeṛ zdat &gt;">
 <!ENTITY finish.label             "Fak">

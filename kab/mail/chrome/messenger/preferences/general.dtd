@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Ma ad-awḍen iznan imaynuten:">
 <!ENTITY playSound.label                  "Urar imesli">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Sken alɣu">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+
 <!ENTITY customizeMailAlert.label         "Sagen…">
 <!ENTITY customizeMailAlert.accesskey     "S">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Urar">
 <!ENTITY play.accesskey                   "U">
 <!ENTITY systemsound.label                "Imesli n unagraw amezwer i yimayl amaynut">
-<!ENTITY systemsoundMac.label             "Imeslin n ulɣu n unagraw">
-<!ENTITY systemsoundMac.accesskey         "g">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Seqdec afaylu n imesli-agi">
 <!ENTITY customsound.accesskey            "S">

@@ -6,9 +6,12 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Iɣewwaṛen n tmagit">
 <!ENTITY identityListDesc.label "Swel iɣewwaṛen i tmagit-agi:">
 
 <!ENTITY settingsTab.label       "Iɣewwaṛen">
 <!ENTITY copiesFoldersTab.label "inɣal &amp; ikaramen">
 <!ENTITY addressingTab.label    "Asuddes &amp; Asenki">
+
+
+
+

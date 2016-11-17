@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Kter isefran, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
 <!ENTITY importFromNonWin.label         "Kter ismenyifen, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
 
+
 <!ENTITY importFromNothing.label        "Ur keter-ara">
 <!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 neq ugar">

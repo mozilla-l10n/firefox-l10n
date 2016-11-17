@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Imedlis n tensa:">
 <!ENTITY addressbookPicker.accesskey        "m">
-<!ENTITY searchInput.label                  "Nadi ɣef:">
-<!ENTITY searchInput.accesskey              "f">
+
+
 <!ENTITY SearchNameOrEmail.label            "Isem neɣ imayl">
 
-<!ENTITY deleteAddrBookCard.label           "Kkes">
-<!ENTITY deleteAddrBookCard.accesskey       "K">
-<!ENTITY addrBookCardProperties.label       "Taɣaṛa">
-<!ENTITY addrBookCardProperties.accesskey   "T">
 <!ENTITY addtoToFieldMenu.label             "Rnu ɣeṛ wurti">
 <!ENTITY addtoToFieldMenu.accesskey         "R">
 <!ENTITY addtoCcFieldMenu.label             "Rnu ɣeṛ wuti Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Ranu ɣeṛ wurti Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Kkes">
+<!ENTITY deleteAddrBookCard.accesskey       "K">
+
+
+
+
+
+
+
+
 
 <!ENTITY toButton.label                     "Rnu ɣeṛ I:">
 <!ENTITY toButton.accesskey                 "u">
