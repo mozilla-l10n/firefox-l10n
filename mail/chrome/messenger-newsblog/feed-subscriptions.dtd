@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Afegeix">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Edita">
-<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.updateFeed.label     "Edita">
+<!ENTITY button.updateFeed.accesskey "E">
 <!ENTITY button.removeFeed.label     "Suprimeix">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importa">

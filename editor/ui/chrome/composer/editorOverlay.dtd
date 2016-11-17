@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Insereix">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Enllaç…">
-<!ENTITY insertLinkCmd.accesskey "l">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Enllaç…">
+<!ENTITY insertLinkCmd2.accesskey "l">
+
 <!ENTITY insertAnchorCmd.label "Àncora amb nom…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imatge…">
@@ -147,7 +147,7 @@
 
 <!ENTITY paragraphMenu.label "Paràgraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paràgraf">  
+<!ENTITY paragraphParagraphCmd.label "Paràgraf">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Encapçalament 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Suprimeix">
 <!ENTITY tableDeleteMenu.accesskey "u">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

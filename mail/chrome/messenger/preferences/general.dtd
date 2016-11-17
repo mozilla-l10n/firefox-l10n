@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Quan arribin missatges nous:">
 <!ENTITY playSound.label                  "Reprodueix un so">
-<!ENTITY playSound1.accesskey              "p">
+<!ENTITY playSound1.accesskey             "p">
+<!ENTITY playSoundMac.label               "Reprodueix el fitxer de so següent:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostra una alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+
 <!ENTITY customizeMailAlert.label         "Personalitza…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Reprodueix">
 <!ENTITY play.accesskey                   "d">
 <!ENTITY systemsound.label                "So del sistema per defecte per al correu nou">
-<!ENTITY systemsoundMac.label             "So d'avís del sistema">
-<!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "i">
 <!ENTITY customsound.label                "Utilitza el fitxer de so següent">
 <!ENTITY customsound.accesskey            "U">
