@@ -6,9 +6,12 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "إعدادات الهويّة">
 <!ENTITY identityListDesc.label "اضبط إعدادات هذه الهويّة:">
 
 <!ENTITY settingsTab.label       "الإعدادات">
 <!ENTITY copiesFoldersTab.label "النُّسخ و المجلدات">
 <!ENTITY addressingTab.label    "التحرير و العنْوَنة">
+
+
+
+
