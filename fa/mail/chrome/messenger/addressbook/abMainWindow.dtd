@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "این دفترچه آدرس مخاطب‌ها را فقط پس از یک جستجو نمایش میدهد">
 <!ENTITY localResultsOnlyMessage.label                  "مخاطب‌ها از دفترچه‌های آدرس راه درو تا زمانی که شما جستجو نکرده باشید، نمایش داده نمی‌شوند">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "پرونده">
 <!ENTITY fileMenu.accesskey                             "پ">
 <!ENTITY newMenu.label                                  "جدید">
@@ -75,8 +76,14 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "ویژگی‌ها">
-<!ENTITY propertiesCmd2.accesskey                       "و">
+
+
+
+
+
+
+
+
 
 <!-- View Menu -->
 
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "م">
 <!ENTITY newlistButton.label                            "New List">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "ویژگی‌ها">
-<!ENTITY editButton2.accesskey                          "و">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Write">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Instant Message">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "ایجاد یک مخاطب دفترچه آدرس جدید">
 <!ENTITY newlistButton.tooltip                          "Create a new list">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
+<!ENTITY editPropertiesButton.tooltip                   "Edit the selected item">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Send a mail message">
 <!ENTITY newIM.tooltip                                  "Send an instant message or chat">
 <!ENTITY deleteButton2.tooltip                          "Delete selected item">

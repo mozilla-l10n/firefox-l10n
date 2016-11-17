@@ -28,8 +28,8 @@
 
 <!ENTITY button.addFeed.label        "افزودن">
 <!ENTITY button.addFeed.accesskey    "ا">
-<!ENTITY button.editFeed.label       "ویرایش">
-<!ENTITY button.editFeed.accesskey   "و">
+<!ENTITY button.updateFeed.label     "ویرایش">
+<!ENTITY button.updateFeed.accesskey "و">
 <!ENTITY button.removeFeed.label     "حذف">
 <!ENTITY button.removeFeed.accesskey "ح">
 <!ENTITY button.importOPML.label     "Import">

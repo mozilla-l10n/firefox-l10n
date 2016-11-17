@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "به کار افتاده">
 <!ENTITY newButton.label "New…">
 <!ENTITY newButton.accesskey "N">
+
+
 <!ENTITY editButton.label "ویرایش…">
 <!ENTITY editButton.accesskey "و">
 <!ENTITY deleteButton.label "حذف">

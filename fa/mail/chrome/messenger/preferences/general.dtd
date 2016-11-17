@@ -15,9 +15,12 @@
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+
 <!ENTITY customizeMailAlert.label         "سفارشی‌سازی…">
 <!ENTITY customizeMailAlert.accesskey     "س">
 
@@ -26,8 +29,6 @@
 <!ENTITY play.label                       "پخش">
 <!ENTITY play.accesskey                   "پ">
 <!ENTITY systemsound.label                "Default system sound for new mail">
-<!ENTITY systemsoundMac.label             "System Alert Sound">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Use the following sound file">
 <!ENTITY customsound.accesskey            "U">
