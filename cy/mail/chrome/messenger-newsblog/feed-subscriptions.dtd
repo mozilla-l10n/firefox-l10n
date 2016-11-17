@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Ychwanegu">
 <!ENTITY button.addFeed.accesskey    "Y">
-<!ENTITY button.editFeed.label       "Diweddaru">
-<!ENTITY button.editFeed.accesskey   "D">
+<!ENTITY button.updateFeed.label     "Diweddaru">
+<!ENTITY button.updateFeed.accesskey "D">
 <!ENTITY button.removeFeed.label     "Tynnu">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label     "Mewnforio">

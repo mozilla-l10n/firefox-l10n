@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Dim ond ar ôl chwilio mae'r llyfr cyfeiriadau hwn yn dangos cysylltiadau">
 <!ENTITY localResultsOnlyMessage.label                  "Nid yw cysylltiadau o lyfrau cyfeiriadau pell yn cael eu dangos nes eich bod yn chwilio">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Ffeil">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Newydd">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Priodweddau">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Golwg">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Rhestr Newydd">
 <!ENTITY newlistButton.accesskey                        "R">
-<!ENTITY editButton2.label                              "Priodweddau">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Ysgrifennu">
 <!ENTITY newmsgButton.accesskey                         "Y">
 <!ENTITY newIM.label                                    "Neges Chwim">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Creu cysylltiad llyfr cyfeiriadau newydd">
 <!ENTITY newlistButton.tooltip                          "Creu rhestr newydd">
-<!ENTITY editButton2.tooltip                            "Golygu'r eitem hon">
+<!ENTITY editPropertiesButton.tooltip                   "Golygu'r eitem hon">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Anfon neges e-bost">
 <!ENTITY newIM.tooltip                                  "Anfon neges chwim neu sgwrs">
 <!ENTITY deleteButton2.tooltip                          "Dileu'r eitem hon">

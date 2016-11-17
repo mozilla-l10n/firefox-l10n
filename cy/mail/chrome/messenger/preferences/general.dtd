@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Pan fydd neges newydd yn cyrraedd:">
 <!ENTITY playSound.label                  "Canu nodyn">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Dangos rhybudd">
 <!ENTITY showAnimatedAlert.accesskey      "D">
+
 <!ENTITY customizeMailAlert.label         "Cyfaddasu…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Chwarae">
 <!ENTITY play.accesskey                   "h">
 <!ENTITY systemsound.label                "Sain rhagosodedig y system ar gyfer e-bost newydd">
-<!ENTITY systemsoundMac.label             "Sain Rhybudd System">
-<!ENTITY systemsoundMac.accesskey         "a">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Defnyddio'r ffeil sain ganlynol">
 <!ENTITY customsound.accesskey            "D">
