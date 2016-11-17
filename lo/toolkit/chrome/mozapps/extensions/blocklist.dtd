@@ -4,6 +4,7 @@
 
 <!ENTITY blocklist.title             "ບາງເທື່ອສາເຫດນີ້ອາດຈະເກີດມາຈາກບັນຫາຂອງ Add-ons">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "&brandShortName; ໄດ້ຮັບການລະບຸວ່າ Add-ons ລຸ່ມນີ້ແມ່ນເປັນສາເຫດເຮັດໃຫ້ເກີດມີບັນຫາຕໍ່ກັບຄວາມສະຖຽນ ແລະ ປອດໄພ:">
 <!ENTITY blocklist.moreinfo          "ຂໍ້ມູນເພີ່ມເຕີມ">
 
 <!ENTITY blocklist.accept.label      "ລີສຕາດ &brandShortName;">
