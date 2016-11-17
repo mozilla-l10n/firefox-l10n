@@ -13,7 +13,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Error Console">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey    "j">
+
 
 <!ENTITY taskNavigator.tooltip  "Browser">
 <!ENTITY taskComposer.tooltip  "Composer">
@@ -41,7 +41,7 @@
 
 <!ENTITY downloadManagerCmd.label "Download Manager">
 <!ENTITY downloadManagerCmd.accesskey "n">
-<!ENTITY downloadManagerCmd.commandkey "j">
+
 
 <!ENTITY addOnsManagerCmd.label "Add-ons Manager">
 <!ENTITY addOnsManagerCmd.accesskey "A">

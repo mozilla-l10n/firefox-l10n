@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "All data types">
 <!ENTITY select.cookies.label "Cookies only">
 <!ENTITY select.permissions.label "Permissions only">
-
 <!ENTITY select.preferences.label "Preferences only">
 <!ENTITY select.passwords.label "Passwords only">
 <!ENTITY select.storage.label "Storage only">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissions">
-
 <!ENTITY tab.preferences.label "Preferences">
 <!ENTITY tab.passwords.label "Passwords">
 <!ENTITY tab.storage.label "Storage">
@@ -69,12 +67,6 @@
 <!ENTITY perm.AllowSameDomain "Allow for Same Domain">
 <!ENTITY perm.AllowSession "Allow for Session">
 <!ENTITY perm.Block "Block">
-
-
-
-<!-- password permissions -->
-
-
 
 
 
@@ -148,8 +140,6 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissions">
 <!ENTITY forget.permissions.accesskey "P">
-
-
 <!ENTITY forget.preferences.label "Content Preferences">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Passwords">
