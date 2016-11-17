@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Hrunskýrslur hjálpa &vendorShortName; að laga vandamál og gera vafrann betri og öruggari">
 <!ENTITY alwaysSubmitCrashReports.label   "Leyfa &brandShortName; að senda hrunskýrslu í bakgrunni í þínu nafni">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "h">
 <!ENTITY crashReporterLearnMore.label     "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
