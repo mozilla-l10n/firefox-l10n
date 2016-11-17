@@ -226,8 +226,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a aquest lloc web.">
 
 
-
-
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Heu blocat l'emmagatzematge de dades per a aquest lloc web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
