@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptați invitația la eveniment pentru toate aparițiile evenimentului">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Adaugă">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adaugă evenimentul în calendar">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Nu accept">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refuză invitația la eveniment">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refuză tot">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuză invitația la eveniment pentru toate aparițiile evenimentului">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Șterge">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvați o copie a evenimentului din calendar în mod independent de răspunsul de la organizator. Lista de participanți va fi ștearsă.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
