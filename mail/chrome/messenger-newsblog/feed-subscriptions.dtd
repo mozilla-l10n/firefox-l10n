@@ -9,22 +9,35 @@
 <!ENTITY feedTitle.label             "Τίτλος:">
 <!ENTITY feedTitle.accesskey         "Τ">
 
+<!ENTITY feedLocation.label          "URL Ροής:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Εισάγετε ένα έγκυρο url ροής για προσθήκη">
 <!ENTITY locationValidate.label      "Επαλήθευση">
+<!ENTITY validateText.label          "Έλεγχος επαλήθευσης και ανάκτηση έγκυρου url.">
 
 <!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
+<!ENTITY feedFolder.accesskey        "S">
 
 <!ENTITY quickMode.label             "Εμφάνιση της σύνοψης του άρθρου αντί για φόρτωση της ιστοσελίδας">
+<!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από ονόματα &lt;κατηγορίας&gt; ροών">
+<!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Να μπει στις ετικέτες το πρόθεμα:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Εισαγωγή προθέματος ετικέτας">
 
 <!ENTITY button.addFeed.label        "Προσθήκη">
 <!ENTITY button.addFeed.accesskey    "θ">
 <!ENTITY button.updateFeed.label     "Ενημέρωση">
+<!ENTITY button.updateFeed.accesskey "Ε">
 <!ENTITY button.removeFeed.label     "Απομάκρυνση">
 <!ENTITY button.removeFeed.accesskey "ρ">
 <!ENTITY button.importOPML.label     "Εισαγωγή">
 <!ENTITY button.importOPML.accesskey "ι">
 <!ENTITY button.exportOPML.label     "Εξαγωγή">
 <!ENTITY button.exportOPML.accesskey "ξ">
+<!ENTITY button.exportOPML.tooltip   "Εξαγωγή ροών με δομή φακέλου; κάντε ctrl κλικ ή ctrl enter για εξαγωγή ροών σε λίστα">
 
+<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Κλείσιμο">

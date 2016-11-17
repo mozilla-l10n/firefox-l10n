@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Ιδιότητες">
+<!ENTITY propertiesMenu.accesskey           "ι">
+<!ENTITY propertiesCmd.key                  "ι">
+<!ENTITY abPropertiesMenu.label             "Ιδιότητες Βιβλίου Διευθύνσεων">
+<!ENTITY abPropertiesMenu.accesskey         "ι">
+<!ENTITY contactPropertiesMenu.label        "Ιδιότητες Επαφής">
+<!ENTITY contactPropertiesMenu.accesskey    "ι">
+<!ENTITY mailingListPropertiesMenu.label    "Ιδιότητες Λίστας Ταχυδρομείου">
+<!ENTITY mailingListPropertiesMenu.accesskey "ι">
 
-<!ENTITY addressbookPicker.label            "Ευρετήριο:">
+<!ENTITY addressbookPicker.label            "Βιβλίο διευθύνσεων:">
 <!ENTITY addressbookPicker.accesskey        "υ">
+<!ENTITY searchContacts.label               "Αναζήτηση Επαφών:">
+<!ENTITY searchContacts.accesskey           "ν">
 <!ENTITY SearchNameOrEmail.label            "Όνομα ή Email">
 
 <!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο Προς">
@@ -15,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "φ">
 <!ENTITY deleteAddrBookCard.label           "Διαγραφή">
 <!ENTITY deleteAddrBookCard.accesskey       "Δ">
+<!ENTITY propertiesContext.label            "Ιδιότητες">
+<!ENTITY propertiesContext.accesskey        "ι">
+<!ENTITY abPropertiesContext.label          "Ιδιότητες">
+<!ENTITY abPropertiesContext.accesskey      "ι">
+<!ENTITY editContactContext.label           "Τροποποίηση Επαφής">
+<!ENTITY editContactContext.accesskey       "Ε">
+<!ENTITY editMailingListContext.label       "Τροποποίηση Λίστας">
+<!ENTITY editMailingListContext.accesskey   "Ε">
 
 <!ENTITY toButton.label                     "Προσθήκη στο Πρός:">
 <!ENTITY toButton.accesskey                 "Π">
