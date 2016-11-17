@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Gabh ris a' chuireadh airson gach aon tachartas dheth">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Cuir ris">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Cuir an tachartas ris a' mhìosachan">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Diùlt">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Diùlt cuireadh an tachartais">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Diùlt na h-uile">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Diùlt gach cuireadh gun tachartas">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Sguab às">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Sguab às a' mhìosachan">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Mion-fhiosrachadh…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Dèan briogadh airson barrachd roghainnean">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ath-dhearbh">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Cuiridh seo ath-dhearbhadh gun eagraiche">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Sàbhail lethbhreac dheth">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Sàbhail lethbhreac dhen tachartas sa mhìosachan, fiù mur am freagair thu an t-eagraiche. Thèid liosta nam freastalaichean fhalamhachadh.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "An dòchas">
