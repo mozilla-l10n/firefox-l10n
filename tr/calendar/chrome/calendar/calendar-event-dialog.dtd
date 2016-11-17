@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; tamamlandı">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Katılımcılara bildir">
-<!ENTITY event.attendees.notify.accesskey           "b">
-<!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
+<!ENTITY event.attendees.notify.label                "Katılımcılara bildir">
+<!ENTITY event.attendees.notify.accesskey            "b">
+<!ENTITY event.attendees.notifyundisclosed.label     "Her katılımcı için ayrı davetiye">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Önceliği değiştir">
 <!ENTITY  event.toolbar.status.tooltip                    "Durumu değiştir">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Boşta/meşgul zamanını değiştir">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Başlık:" >
