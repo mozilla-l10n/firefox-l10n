@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Glac leis an gcuireadh chun na himeachtaí go léir">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Cuir Leis">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Cuir an t-imeacht leis an bhféilire">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Diúltaigh">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Diúltaigh an cuireadh">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Diúltaigh gach ceann">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Diúltaigh an cuireadh chun na himeachtaí go léir">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Scrios">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Scrios ón bhféilire">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Mionsonraí…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliceáil chun tuilleadh roghanna a fháil">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Deimhnigh arís">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Seol deimhniú eile chuig an eagraí">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Sábháil cóip den imeacht">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Sábháil cóip den imeacht san fhéilire gan freagra a thabhairt ar an eagraí. Glanfar liosta na rannpháirtithe.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Sealadach">
