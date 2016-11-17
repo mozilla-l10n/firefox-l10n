@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Barcha tadbir hodisalari uchun takliflarni qabul qilish">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Qo‘shish">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Taqvimga tadbirni qo‘shish">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Rad qilish">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Tadbir taklifini rad qilish">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Barchasini rad qilish">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Barcha tadbir hodisalari uchun tadbir takliflarini rad qilish">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "O‘chirish">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Taqvimdan o‘chirish">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Tafsilotlar…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ko‘proq tanlamalarni ko‘rish uchun bosing">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Qayta tasdiqlash">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Tashkilotchiga qayta tasdiqlashni jo‘natadi">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Nusxasini saqlash">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Tashkilotchiga beriladigan javobdan mustaqil ravishda tadbir nusxasini taqvimga saqlang. Ishtirokchilar ro‘yxati tozalab tashlanadi.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Noaniq">

@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; tugadi">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Ishtirokchilarga xabar berish">
-<!ENTITY event.attendees.notify.accesskey           "I">
-<!ENTITY event.attendees.notifyundisclosed.label    "Har bir ishtirokchiga alohida taklif">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Buni tanlasangiz, har bir ishtirokchiga alohida taklif xatini jo‘natadi. Har bir takli faqatgina ishtirok etadigan qabul qiluvchini jamlagan, shunday ekan boshqa ishtirokchilar shaxsiy ma’lumotlari oshkor qilinmaydi.">
+<!ENTITY event.attendees.notify.label                "Ishtirokchilarga xabar berish">
+<!ENTITY event.attendees.notify.accesskey            "I">
+<!ENTITY event.attendees.notifyundisclosed.label     "Har bir ishtirokchiga alohida taklif">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Buni tanlasangiz, har bir ishtirokchiga alohida taklif xatini jo‘natadi. Har bir takli faqatgina ishtirok etadigan qabul qiluvchini jamlagan, shunday ekan boshqa ishtirokchilar shaxsiy ma’lumotlari oshkor qilinmaydi.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Muhimligini o‘zgartrisih">
 <!ENTITY  event.toolbar.status.tooltip                    "Holatini o‘zgartirish">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Bo‘sh/band vaqtni o‘zgartirish">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Sarlavha:" >
