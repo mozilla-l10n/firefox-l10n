@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Aquesta llibreta d'adreces no mostra cap contacte fins que no feu una cerca">
 <!ENTITY localResultsOnlyMessage.label                  "Els contactes de les llibretes d'adreces remotes no mostren fins que no feu una cerca">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fitxer">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Nou">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Propietats">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+<!ENTITY propertiesMenu.label                           "Propietats">
+<!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Visualitza">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Crea una llista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Propietats">
-<!ENTITY editButton2.accesskey                          "P">
+<!ENTITY editPropertiesButton.label                     "Edita">
+<!ENTITY propertiesContext.label                        "Propietats">
+<!ENTITY propertiesContext.accesskey                    "P">
+<!ENTITY abPropertiesContext.label                      "Propietats">
+<!ENTITY abPropertiesContext.accesskey                  "P">
+
+
+
+
 <!ENTITY newmsgButton.label                             "Redacta">
 <!ENTITY newmsgButton.accesskey                         "e">
 <!ENTITY newIM.label                                    "MI">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
 <!ENTITY newlistButton.tooltip                          "Crea una llista nova">
-<!ENTITY editButton2.tooltip                            "Edita l'element seleccionat">
+<!ENTITY editPropertiesButton.tooltip                   "Edita l'element seleccionat">
+
+<!ENTITY editContactPropertiesButton.tooltip            "Edita el contacte seleccionat">
+
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">
 <!ENTITY deleteButton2.tooltip                          "Suprimeix l'element seleccionat">

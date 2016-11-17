@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "A">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remitent">
+
 <!ENTITY organizationField4.label "Organització">
 <!ENTITY replyToField4.label "Respon a">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arxiva">
 <!ENTITY hdrArchiveButton1.tooltip "Arxiva aquest missatge">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Resposta intel·ligent">
 <!ENTITY hdrReplyButton1.label "Respon">
 <!ENTITY hdrReplyButton2.tooltip "Respon al remitent d'aquest missatge">
