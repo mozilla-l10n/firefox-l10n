@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "ໄດ້ຮັບຂໍ້ຄວາມ">
 <!ENTITY aboutNetworking.bytesSent             "ສົ່ງ Bytes">
 <!ENTITY aboutNetworking.bytesReceived         "ໄດ້ຮັບ Bytes">
+<!ENTITY aboutNetworking.logging               "ກຳລັງບັນທຶກລັອກ">
+<!ENTITY aboutNetworking.logTutorial           "ເບິງ <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>ການລັອກ HTTP</a> ສຳລັບວິທີການນຳໃຊ້ເຄື່ອງມືນີ້.">
+<!ENTITY aboutNetworking.currentLogFile        "ລັອກໄຟລ໌ຕອນນີ້:">
+<!ENTITY aboutNetworking.currentLogModules     "ໂມດູລລັອກຕອນນີ້:">
+<!ENTITY aboutNetworking.setLogFile            "ຕັ້ງລັອກໄຟລ໌">
+<!ENTITY aboutNetworking.setLogModules         "ຕັ້ງໂມດູລລັອກ">
+<!ENTITY aboutNetworking.startLogging          "ເລີ່ມການບັນທຶກລັອກ">
+<!ENTITY aboutNetworking.stopLogging           "ຢຸດການບັນທຶກລັອກ">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
 <!ENTITY aboutNetworking.dnsDomain             "ໂດເມນ">
