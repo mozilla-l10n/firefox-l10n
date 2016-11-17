@@ -122,17 +122,24 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "b">
 <!ENTITY cookieBlockImagesMsg.label "Az erről a webhelyről érkező képek soha nem lesznek letöltve.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
-<!ENTITY cookieAllowPopupsCmd.accesskey "F">
-<!ENTITY cookieManagePopups.label "Felugró ablakok kezelése">
-<!ENTITY cookieManagePopups.accesskey "k">
+<!ENTITY popupAllowCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
+<!ENTITY popupAllowCmd.accesskey "F">
+
+
+
+
+
+
+
+<!ENTITY popupsManage.label "Felugró ablakok kezelése">
+<!ENTITY popupsManage.accesskey "k">
 
 <!ENTITY cookieCookieManager.label "Sütikezelő">
 <!ENTITY cookieCookieManager.accesskey "S">
 <!ENTITY cookieImageManager.label "Képkezelő">
 <!ENTITY cookieImageManager.accesskey "K">
-<!ENTITY cookiePopupManager.label "Felugró ablakok kezelése">
-<!ENTITY cookiePopupManager.accesskey "F">
+<!ENTITY popupsManager.label "Felugró ablakok kezelése">
+<!ENTITY popupsManager.accesskey "F">
 
 <!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése…">
 <!ENTITY clearPrivateDataCmd.accesskey "S">

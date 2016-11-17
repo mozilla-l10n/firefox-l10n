@@ -31,6 +31,7 @@
 <!ENTITY acctName.label           "Név:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Vissza">
 <!ENTITY forward.label            "Tovább &gt;">
 <!ENTITY finish.label             "Befejezés">
