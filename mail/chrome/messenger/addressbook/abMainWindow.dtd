@@ -4,6 +4,7 @@
 
 
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "கோப்பு">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "புதிய">
@@ -75,6 +76,12 @@
 
 
 
+
+
+
+
+
+
 <!-- View Menu -->
 
 
@@ -133,7 +140,17 @@ because displayed names don't have the comma in between. -->
 
 
 
+
+
+
+
+
+
+
 <!-- Address Book Toolbar Tooltips -->
+
+
+
 
 
 
