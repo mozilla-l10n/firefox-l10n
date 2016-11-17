@@ -27,7 +27,7 @@
 <!ENTITY insertMenu.accesskey "I">
 
 
-<!ENTITY insertLinkCmd.key "L">
+
 
 
 
@@ -127,7 +127,7 @@
 
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 
 
 <!ENTITY formatRemoveNamedAnchors2.key "R">
@@ -244,7 +244,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Dzēst">
 <!ENTITY tableDeleteMenu.accesskey "D">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

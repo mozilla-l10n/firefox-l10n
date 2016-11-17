@@ -5,6 +5,8 @@
 <!ENTITY activeColumn.label "Ieslēgts">
 <!ENTITY newButton.label "Jauns...">
 <!ENTITY newButton.accesskey "n">
+
+
 <!ENTITY editButton.label "Rediģēt...">
 <!ENTITY editButton.accesskey "e">
 
