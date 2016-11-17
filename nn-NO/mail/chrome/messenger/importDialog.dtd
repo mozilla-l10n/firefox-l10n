@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Namn:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Tilbake">
 <!ENTITY forward.label            "Neste &gt;">
 <!ENTITY finish.label             "Ferdig">
