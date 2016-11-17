@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Denne adresseboken viser kontakter bare etter at du har gjort et søk">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakter fra eksterne adressebøker vises ikke før du søker">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fil">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ny">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Egenskaper">
-<!ENTITY propertiesCmd2.accesskey                       "E">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Vis">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Egenskaper">
-<!ENTITY editButton2.accesskey                          "E">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Skriv ny">
 <!ENTITY newmsgButton.accesskey                         "n">
 <!ENTITY newIM.label                                    "Lynmelding">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Lag en ny kontakt">
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste">
-<!ENTITY editButton2.tooltip                            "Rediger valgt element">
+<!ENTITY editPropertiesButton.tooltip                   "Rediger valgt element">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat">
 <!ENTITY deleteButton2.tooltip                          "Slett valgt element">
