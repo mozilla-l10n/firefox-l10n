@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; užbaigta">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Pranešti dalyviams">
-<!ENTITY event.attendees.notify.accesskey           "t">
-<!ENTITY event.attendees.notifyundisclosed.label    "Atskiras kvietimas kiekvienam dalyviui">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "A">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Pažymėjus, kiekvienam dalyviui bus siunčiamas atskiras asmeninis kvietimas, todėl visas dalyvių sąrašas kvietime nebus atskleistas.">
+<!ENTITY event.attendees.notify.label                "Pranešti dalyviams">
+<!ENTITY event.attendees.notify.accesskey            "t">
+<!ENTITY event.attendees.notifyundisclosed.label     "Atskiras kvietimas kiekvienam dalyviui">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "A">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Pažymėjus, kiekvienam dalyviui bus siunčiamas atskiras asmeninis kvietimas, todėl visas dalyvių sąrašas kvietime nebus atskleistas.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Keisti prioritetą">
 <!ENTITY  event.toolbar.status.tooltip                    "Keisti būseną">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Keisti užimtumą įvykio metu">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Pavadinimas:" >
