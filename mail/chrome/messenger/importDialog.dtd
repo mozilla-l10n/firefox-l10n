@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Naziv:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Prethodna">
 <!ENTITY forward.label            "Sljedeća &gt;">
 <!ENTITY finish.label             "Završi">

@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Adresar:">
 <!ENTITY addressbookPicker.accesskey        "r">
-<!ENTITY searchInput.label                  "Traži:">
-<!ENTITY searchInput.accesskey              "T">
+
+
 <!ENTITY SearchNameOrEmail.label            "Ime ili e-pošta">
 
-<!ENTITY deleteAddrBookCard.label           "Obriši">
-<!ENTITY deleteAddrBookCard.accesskey       "O">
-<!ENTITY addrBookCardProperties.label       "Postavke">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Dodaj u polje Prima">
 <!ENTITY addtoToFieldMenu.accesskey         "D">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj u polje Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj u polje Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Obriši">
+<!ENTITY deleteAddrBookCard.accesskey       "O">
+
+
+
+
+
+
+
+
 
 <!ENTITY toButton.label                     "Dodaj u Prima:">
 <!ENTITY toButton.accesskey                 "D">

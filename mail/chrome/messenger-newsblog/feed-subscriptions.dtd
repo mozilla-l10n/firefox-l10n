@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
-<!ENTITY button.editFeed.label       "Uredi">
-<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.updateFeed.label     "Uredi">
+<!ENTITY button.updateFeed.accesskey "e">
 <!ENTITY button.removeFeed.label     "Ukloni">
 <!ENTITY button.removeFeed.accesskey "U">
 <!ENTITY button.importOPML.label     "Uvezi">

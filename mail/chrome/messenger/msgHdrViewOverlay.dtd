@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Prima">
 <!ENTITY fromField4.label "Šalje">
 <!ENTITY senderField4.label "Pošiljatelj">
+
 <!ENTITY organizationField4.label "Organizacija">
 <!ENTITY replyToField4.label "Odgovori na">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arhiviraj">
 <!ENTITY hdrArchiveButton1.tooltip "Arhiviraj ovu poruku">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Pametni odgovor">
 <!ENTITY hdrReplyButton1.label "Odgovori">
 <!ENTITY hdrReplyButton2.tooltip "Odgovori pošiljatelju ove poruke">
