@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "F">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Cywasgu'r Ffolderi">
-<!ENTITY compactFolders.accesskey    "w">
+<!ENTITY compactFolders.accesskey "w">
 <!ENTITY emptyTrashCmd.label "Gwagio'r Sbwriel">
-<!ENTITY emptyTrashCmd.accesskey    "w">
+<!ENTITY emptyTrashCmd.accesskey "w">
 <!ENTITY offlineMenu.label "All-lein">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Gweithio All-lein">
@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Derbynnydd">
 <!ENTITY sortByRecipientCmd.accesskey "D">
-<!ENTITY sortByCorrespondentCmd.label "Cyfathrebwyr">
-<!ENTITY sortByCorrespondentCmd.accesskey "y">
+
+
 <!ENTITY sortByUnreadCmd.label "Darllenwyd">
 <!ENTITY sortByUnreadCmd.accesskey "D">
 <!ENTITY sortByOrderReceivedCmd.label "Trefn Derbyn">
@@ -335,25 +335,25 @@
 <!ENTITY newNewMsgCmd.accesskey "e">
 <!ENTITY archiveMsgCmd.label "Archif">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Diddymu Neges">
 <!ENTITY cancelNewsMsgCmd.accesskey "D">
 <!ENTITY replyMsgCmd.label "Ateb">
 <!ENTITY replyMsgCmd.accesskey "A">
-<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Ateb i'r Anfonwr yn Unig">
 <!ENTITY replySenderCmd.accesskey "t">
 <!ENTITY replyNewsgroupCmd2.label "Dilyn Grŵp Newyddion">
-<!ENTITY replyNewsgroupCmd2.accesskey  "D">
+<!ENTITY replyNewsgroupCmd2.accesskey "D">
 <!ENTITY replyToAllMsgCmd.label "Ateb i Bawb">
-<!ENTITY replyToAllMsgCmd.accesskey  "B">
-<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToAllMsgCmd.accesskey "B">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Ateb i'r Rhestr">
-<!ENTITY replyToListMsgCmd.accesskey  "R">
-<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY replyToListMsgCmd.accesskey "R">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Ymlaen">
 <!ENTITY forwardMsgCmd.accesskey "Y">
-<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Ymlaen Fel">
 <!ENTITY forwardAsMenu.accesskey "Y">
 <!ENTITY forwardAsInline.label "Mewnlin">
@@ -483,18 +483,35 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Mewnforio…">
 <!ENTITY importCmd.accesskey "M">
-<!ENTITY errorConsoleCmd.label "Consol Gwall">
-<!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Gosodiadau Cyfrifon">
 <!ENTITY accountManagerCmd2.accesskey "G">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Caniatáu Dadfygio Pell">
-<!ENTITY allowRemoteDebugging.accesskey "D">
+<!-- Developer Tools Submenu -->
+
+
+
+
+
+
+
+
+<!ENTITY errorConsoleCmd.label "Consol Gwall">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Estyn Negeseuon">
@@ -505,6 +522,7 @@
 <!ENTITY forwardButton.label "Ymlaen">
 <!ENTITY fileButton.label "Ffeil">
 <!ENTITY archiveButton.label "Archifo">
+
 <!ENTITY nextButton.label "Nesaf">
 <!ENTITY nextButtonToolbarItem.label "Nesaf Heb ei Ddarllen">
 <!ENTITY nextMsgButton.label "Nesaf">
@@ -547,6 +565,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Anfon neges dewiswyd ymlaen fel atodiad">
 <!ENTITY fileButton.tooltip "Ffeilio'r neges">
 <!ENTITY archiveButton.tooltip "Archifo'r negeseuon">
+
 <!ENTITY nextButton.tooltip "Symud i'r neges nesaf heb ei darllen">
 <!ENTITY nextMsgButton.tooltip "Symud i'r neges nesaf">
 <!ENTITY previousButton.tooltip "Symud i'r neges heb ei darllen diwethaf">
@@ -752,9 +771,9 @@
 <!ENTITY contextKillThreadMenu.accesskey "A">
 <!ENTITY contextKillSubthreadMenu.label "Anwybyddu'r Is-Edefyn">
 <!ENTITY contextWatchThreadMenu.label "Gwylio'r Edefyn">
-<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
-   In the en-US locale we ran out of access keys, so there is an empty access key for
-   Watch Thread. Localizers can pick a suitable key
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Cadw Fel…">
@@ -765,48 +784,48 @@
 <!ENTITY contextPrintPreview.accesskey "R">
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 
 <!ENTITY columnPicker.resetToInbox.label "Ailosod y colofnau i'r rhagosodedig">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "Ailosod colofnau i'r rhagosodedig…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "Ffolder…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Ffolder a'i blant…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Y ffolder hwn">
 <!-- Media (video/audio) controls -->
@@ -824,30 +843,30 @@
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
-     -->
+  -->
 
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-     This is the base of the empty text for the global search box.  We replace
+      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
+  -->
 <!ENTITY search.label.base1 "Chwilio #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
@@ -902,7 +921,7 @@
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Gorffen">
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.label "Lleihau">
 <!ENTITY minimizeWindow.key "m">

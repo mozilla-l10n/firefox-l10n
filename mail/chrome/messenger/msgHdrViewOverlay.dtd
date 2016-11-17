@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "At">
 <!ENTITY fromField4.label "Oddi wrth">
 <!ENTITY senderField4.label "Anfonwr">
+
 <!ENTITY organizationField4.label "Corff">
 <!ENTITY replyToField4.label "Ateb i">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archifo">
 <!ENTITY hdrArchiveButton1.tooltip "Archifo'r neges">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Ateb Clyfar">
 <!ENTITY hdrReplyButton1.label "Ateb">
 <!ENTITY hdrReplyButton2.tooltip "Ateb i anfonwr y neges">
