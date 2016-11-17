@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
 <!ENTITY playSound.label                  "Αναπαραγωγή ενός ήχου">
 <!ENTITY playSound1.accesskey             "π">
+<!ENTITY playSoundMac.label               "Να παίζει το ακόλουθο αρχείο ήχου:">
+<!ENTITY playSoundMac.accesskey           "δ">
 <!ENTITY showAnimatedAlert.label          "Εμφάνιση μιας ειδοποίησης">
 <!ENTITY showAnimatedAlert.accesskey      "φ">
+<!ENTITY notificationAlertSettings2.label "Οι ειδοποιήσεις και ο προκαθορισμένος ήχος μπορούν να απενεργοποιηθούν στο πλαίσιο ειδοποιήσεων στις Ρυθμίσεις Συστήματος.">
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
