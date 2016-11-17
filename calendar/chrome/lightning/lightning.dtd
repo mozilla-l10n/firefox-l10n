@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accept event invitation for all occurrences of the event">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Add">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Add the event to the calendar">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Decline">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Decline event invitation">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Decline all">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Decline event invitation for all occurrences of the event">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Delete">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Delete from calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Click to show more options">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirm">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sends a reconfirmation to the organiser">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Save a copy">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Save a copy of the event to the calendar independently of replying to the organiser. The list of attendees will be cleared.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentative">
