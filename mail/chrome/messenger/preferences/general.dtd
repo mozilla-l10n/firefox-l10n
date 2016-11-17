@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Hdyž nowe powěsće dochadźeja:">
 <!ENTITY playSound.label                  "Zynk wotehrać">
-<!ENTITY playSound1.accesskey              "y">
+<!ENTITY playSound1.accesskey             "y">
+
+
 <!ENTITY showAnimatedAlert.label          "Warnowanje pokazać">
 <!ENTITY showAnimatedAlert.accesskey      "W">
+
 <!ENTITY customizeMailAlert.label         "Přiměrić…">
 <!ENTITY customizeMailAlert.accesskey     "i">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Wotehrać">
 <!ENTITY play.accesskey                   "h">
 <!ENTITY systemsound.label                "Standardny zynk systema za nowu e-mejl">
-<!ENTITY systemsoundMac.label             "Standardny zynk za warnowanje">
-<!ENTITY systemsoundMac.accesskey         "t">
 <!ENTITY systemsound.accesskey            "z">
 <!ENTITY customsound.label                "Slědowacu zynkowu dataju wužić">
 <!ENTITY customsound.accesskey            "l">

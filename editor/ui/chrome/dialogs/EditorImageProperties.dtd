@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Adresa wobraza:">
 <!ENTITY locationEditField.accessKey "A">
 <!ENTITY locationEditField.tooltip "Zapodajće datajowe mjeno abo adresu wobraza">
+
 <!ENTITY title.label "Pomocny tekst:">
 <!ENTITY title.accessKey "m">
 <!ENTITY title.tooltip "HTML-atribut 'title', kotryž pomocny tekst zwobraznja">

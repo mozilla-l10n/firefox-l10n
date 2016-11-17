@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Mjeno:">
 <!ENTITY acctName.accesskey       "M">
 
+
 <!ENTITY back.label               "&lt; Wróćo">
 <!ENTITY forward.label            "Dale &gt;">
 <!ENTITY finish.label             "Dokónčić">

@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Nastajenja, kontowe nastajenja, adresnik, filtry a druhe daty importować z:">
 <!ENTITY importFromNonWin.label         "Nastajenja, kontowe nastajenja, adresnik, filtry a druhe daty importować z:">
 
+
 <!ENTITY importFromNothing.label        "Ničo njeimportować">
 <!ENTITY importFromNothing.accesskey    "i">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 abo nowši">
