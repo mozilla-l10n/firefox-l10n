@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Іске қосылған">
 <!ENTITY newButton.label "Жаңа…">
 <!ENTITY newButton.accesskey "Ж">
+
+
 <!ENTITY editButton.label "Өзгерту…">
 <!ENTITY editButton.accesskey "Ө">
 <!ENTITY deleteButton.label "Өшіру">

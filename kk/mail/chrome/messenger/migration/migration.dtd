@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
 <!ENTITY importFromNonWin.label         "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
 
+
 <!ENTITY importFromNothing.label        "Импорт керек емес">
 <!ENTITY importFromNothing.accesskey    "к">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 немесе кейінірек шыққан">

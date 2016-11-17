@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Бұл адрестік кітапша контакттарды тек іздеуден кейін көрсетеді">
 
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Жаңа">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Қасиеттері">
-<!ENTITY propertiesCmd2.accesskey                       "е">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Түрі">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "к">
 
 
-<!ENTITY editButton2.label                              "Қасиеттері">
-<!ENTITY editButton2.accesskey                          "а">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Жазу">
 <!ENTITY newmsgButton.accesskey                         "Ж">
 
@@ -144,6 +158,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Өшіру">
 <!ENTITY deleteButton2.accesskey                        "Ө">
 <!-- Address Book Toolbar Tooltips -->
+
+
+
 
 
 

@@ -56,8 +56,9 @@
 <!ENTITY addAction.tooltip "Жаңа әрекетті қосу">
 <!ENTITY removeAction.tooltip "Бұл әрекетті өшіру">
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 
