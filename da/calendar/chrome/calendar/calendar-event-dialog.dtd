@@ -37,6 +37,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "p">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
+<!ENTITY event.attendees.disallowcounter.label       "Forbyd ændringer">
+<!ENTITY event.attendees.disallowcounter.accesskey   "F">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Viser, at du ikke vil acceptere ændringsforslag">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "B">
@@ -159,6 +162,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Skift vigtighed">
 <!ENTITY  event.toolbar.status.tooltip                    "Skift status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Skift ledig-/optaget tid">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Accepter forslag">
+<!ENTITY counter.button.proposal.accesskey                "A">
+<!ENTITY counter.button.proposal.tooltip                  "Udfyld med forslagsdata.">
+<!ENTITY counter.button.original.label                    "Behold de originale data">
+<!ENTITY counter.button.original.accesskey                "B">
+<!ENTITY counter.button.original.tooltip                  "Udfyld med de originale data.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
