@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Tutón adresnik kontakty jenož po pytanju pokazuje">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakty ze zdalenych adresnikow so njepokazuja, doniž njepytaće">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Dataja">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Nowy">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Kajkosće">
-<!ENTITY propertiesCmd2.accesskey                       "k">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Napohlad">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nowa lisćina">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Kajkosće">
-<!ENTITY editButton2.accesskey                          "K">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Pisać">
 <!ENTITY newmsgButton.accesskey                         "P">
 <!ENTITY newIM.label                                    "Hnydomna powěsć">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Nowy adresnikowy kontakt wutworić">
 <!ENTITY newlistButton.tooltip                          "Nowu lisćinu wutworić">
-<!ENTITY editButton2.tooltip                            "Wubrany zapisk wobdźěłać">
+<!ENTITY editPropertiesButton.tooltip                   "Wubrany zapisk wobdźěłać">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "E-mejlowu powěsć pósłać">
 <!ENTITY newIM.tooltip                                  "Hnydomnu powěsć pósłać abo bjesadować">
 <!ENTITY deleteButton2.tooltip                          "Wubrany zapisk zhašeć">

@@ -6,9 +6,12 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Nastajenja identity">
 <!ENTITY identityListDesc.label "Nastajenja za tutu identitu konfigurować:">
 
 <!ENTITY settingsTab.label       "Nastajenja">
 <!ENTITY copiesFoldersTab.label "Kopije a rjadowaki">
 <!ENTITY addressingTab.label    "Pisać a adresować">
+
+
+
+
