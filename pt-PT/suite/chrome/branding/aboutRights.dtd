@@ -41,8 +41,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-
-
+<!ENTITY rights3.webservices-b "aqui">
+<!ENTITY rights3.webservices-c ". Outras funcionalidades e serviços podem ser ativados ou desativados nas preferências da aplicação.">
 <!-- add-on related points for branded builds -->
 
 <!ENTITY rights.addons-a "Serviços de extras: ">
@@ -56,12 +56,12 @@
 <!ENTITY rights.safebrowsing-a "Navegação segura: ">
 <!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sites inseguros.  Se quiser desativar completamente a funcionalidade, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir preferências da aplicação">
-
+<!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegação segura está desativada">
 <!-- location aware browsing points for branded builds -->
 
-
+<!ENTITY rights.locationawarebrowsing-term1 "Abrir as preferências da aplicação">
 
 
 
