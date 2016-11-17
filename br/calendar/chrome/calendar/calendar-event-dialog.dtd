@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; echu">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Rebuziñ ar berzhidi">
-<!ENTITY event.attendees.notify.accesskey           "b">
-<!ENTITY event.attendees.notifyundisclosed.label    "Pep a bedadenn diforc'h d'ar berzhidi">
+<!ENTITY event.attendees.notify.label                "Rebuziñ ar berzhidi">
+<!ENTITY event.attendees.notify.accesskey            "b">
+<!ENTITY event.attendees.notifyundisclosed.label     "Pep a bedadenn diforc'h d'ar berzhidi">
 
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Pep a bedadenn a vez kaset d'ar berzhidi gant an dibarzh-mañ. N'eus nemet ar perzhiad kasadour e pep pedadenn evit ma ne vefe ket diskuliet pivelezh ar berzhidi all.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Pep a bedadenn a vez kaset d'ar berzhidi gant an dibarzh-mañ. N'eus nemet ar perzhiad kasadour e pep pedadenn evit ma ne vefe ket diskuliet pivelezh ar berzhidi all.">
+
+
+
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -157,6 +161,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Kemmañ an tevet">
 <!ENTITY  event.toolbar.status.tooltip                    "Kemmañ ar stad">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Kemmañ an amzer dieub/ac'hubet">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Titl :" >
