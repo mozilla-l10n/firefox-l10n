@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Ez a címjegyzék csak keresés után jelenít meg névjegyeket">
 <!ENTITY localResultsOnlyMessage.label                  "A távoli címjegyzékekből származó névjegyek nem jelennek meg, amíg nem keres rájuk">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fájl">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Új">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Tulajdonságok…">
-<!ENTITY propertiesCmd2.accesskey                       "T">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Nézet">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Új lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Tulajdonságok">
-<!ENTITY editButton2.accesskey                          "T">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Új üzenet">
 <!ENTITY newmsgButton.accesskey                         "z">
 <!ENTITY newIM.label                                    "Azonnali üzenet">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
 <!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
-<!ENTITY editButton2.tooltip                            "A kijelölt elem szerkesztése">
+<!ENTITY editPropertiesButton.tooltip                   "A kijelölt elem szerkesztése">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">

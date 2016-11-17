@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Új üzenet érkezésekor:">
 <!ENTITY playSound.label                  "Hangjelzés">
-<!ENTITY playSound1.accesskey              "H">
+<!ENTITY playSound1.accesskey             "H">
+
+
 <!ENTITY showAnimatedAlert.label          "Figyelmeztető ablak">
 <!ENTITY showAnimatedAlert.accesskey      "F">
+
 <!ENTITY customizeMailAlert.label         "Testreszabás…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Lejátszás">
 <!ENTITY play.accesskey                   "L">
 <!ENTITY systemsound.label                "Alapértelmezett rendszerhang az új üzenethez">
-<!ENTITY systemsoundMac.label             "Figyelmeztető rendszerhang">
-<!ENTITY systemsoundMac.accesskey         "F">
 <!ENTITY systemsound.accesskey            "r">
 <!ENTITY customsound.label                "A következő hangfájl használata">
 <!ENTITY customsound.accesskey            "h">
