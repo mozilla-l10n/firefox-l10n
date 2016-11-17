@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Lokacija slike:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Upiši naziv datoteke ili lokaciju">
+
 <!ENTITY title.label "Opis alata:">
 <!ENTITY title.accessKey "t">
 <!ENTITY title.tooltip "Html 'title' atribut koji se prikazuje u prozoru opisa alata">

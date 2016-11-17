@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Omogućen">
 <!ENTITY newButton.label "Novi…">
 <!ENTITY newButton.accesskey "N">
+
+
 <!ENTITY editButton.label "Uredi…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Obriši">

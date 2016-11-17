@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Ovaj adresar prikazuje kontakte samo nakon pretrage">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakti iz udaljenih adresara nisu prikazani dok ne započmete pretragu">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Datoteka">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Novi">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Postavke">
-<!ENTITY propertiesCmd2.accesskey                       "s">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Pogled">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Novi popis">
 <!ENTITY newlistButton.accesskey                        "s">
-<!ENTITY editButton2.label                              "Postavke">
-<!ENTITY editButton2.accesskey                          "v">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Piši">
 <!ENTITY newmsgButton.accesskey                         "i">
 <!ENTITY newIM.label                                    "Instant poruka">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Stvori novi kontakt u adresaru">
 <!ENTITY newlistButton.tooltip                          "Stvori novi popis primatelja">
-<!ENTITY editButton2.tooltip                            "Uredi odabranu stavku">
+<!ENTITY editPropertiesButton.tooltip                   "Uredi odabranu stavku">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Pošalji poruku">
 <!ENTITY newIM.tooltip                                  "Pošalji instant poruku ili razgovor">
 <!ENTITY deleteButton2.tooltip                          "Obriši odabranu stavku">

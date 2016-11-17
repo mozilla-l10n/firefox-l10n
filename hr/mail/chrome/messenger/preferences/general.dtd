@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Kada stigne nova poruka:">
 <!ENTITY playSound.label                  "Reproduciraj zvuk">
-<!ENTITY playSound1.accesskey              "v">
+<!ENTITY playSound1.accesskey             "v">
+
+
 <!ENTITY showAnimatedAlert.label          "Prikaži obavijest">
 <!ENTITY showAnimatedAlert.accesskey      "P">
+
 <!ENTITY customizeMailAlert.label         "Prilagodi…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Reproduciraj">
 <!ENTITY play.accesskey                   "c">
 <!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">
-<!ENTITY systemsoundMac.label             "Sistemski zvuk obavijesti">
-<!ENTITY systemsoundMac.accesskey         "z">
 <!ENTITY systemsound.accesskey            "Z">
 <!ENTITY customsound.label                "Koristi sljedeću zvučnu datoteku">
 <!ENTITY customsound.accesskey            "u">
