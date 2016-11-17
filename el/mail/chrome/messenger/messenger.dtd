@@ -393,24 +393,37 @@
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
 <!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Σημείωση">
 <!ENTITY markMenu.accesskey "μ">
+<!ENTITY toggleReadCmd.key "γ">
 <!ENTITY markAsReadCmd.label "Ως αναγνωσμένο">
 <!ENTITY markAsReadCmd.accesskey "σ">
 <!ENTITY markAsUnreadCmd.label "Ως μη αναγνωσμένο">
 <!ENTITY markAsUnreadCmd.accesskey "μ">
 <!ENTITY markThreadAsReadCmd.label "Αλληλουχίας ως αναγνωσμένης">
 <!ENTITY markThreadAsReadCmd.accesskey "η">
+<!ENTITY markThreadAsReadCmd.key "δ">
 <!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία...">
 <!ENTITY markReadByDateCmd.accesskey "μ">
+<!ENTITY markReadByDateCmd.key "η">
 <!ENTITY markAllReadCmd.label "Όλων ως αναγνωσμένων">
 <!ENTITY markAllReadCmd.accesskey "γ">
+<!ENTITY markAllReadCmd.key "ο">
 <!ENTITY markStarredCmd.label "Προσθήκη αστεριού">
 <!ENTITY markStarredCmd.accesskey "σ">
+<!ENTITY markStarredCmd.key "Α">
 <!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητη αλληλογραφία">
 <!ENTITY markAsJunkCmd.accesskey "ν">
+<!ENTITY markAsJunkCmd.key "π">
 <!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
+<!ENTITY markAsNotJunkCmd.key "χ">
 <!ENTITY recalculateJunkScoreCmd.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας">
 <!ENTITY recalculateJunkScoreCmd.accesskey "κ">
 <!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
@@ -486,8 +499,13 @@
 <!ENTITY devToolboxCmd.label "Εργαλειοθήκη Προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "Θ">
 <!ENTITY devToolboxCmd.commandkey "ι">
+<!ENTITY addonDebugCmd.label "Ενσωματωμένος Αποσφαλματωτής">
+<!ENTITY addonDebugCmd.accesskey "Α">
+<!ENTITY tabsDebugCmd.label "Αποσφαλματωτής Περιεχομένου Πλαισίου">
+<!ENTITY tabsDebugCmd.accesskey "Π">
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
 <!ENTITY errorConsoleCmd.accesskey "ν">
+<!ENTITY errorConsoleCmd.commandkey "κ">
 <!ENTITY scratchpadCmd.label "Πρόχειρο">
 <!ENTITY scratchpadCmd.accesskey "Π">
 
@@ -536,6 +554,7 @@
 <!ENTITY folderLocationToolbarItem.title "Τοποθεσία φακέλου">
 <!ENTITY tagButton.label "Ετικέτα">
 <!ENTITY compactButton.label "Σύμπτυξη">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Αναζήτηση μηνυμάτων...">
@@ -578,20 +597,37 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Εμφάνιση απομακρυσμένου περιεχομένου στο μήνυμα">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Μ">
+<!ENTITY editRemoteContentSettings.label "Επεξεργασία ρυθμίσεων για το απομακρυσμένο περιεχόμενο…">
+<!ENTITY editRemoteContentSettings.accesskey "O">
+<!ENTITY editRemoteContentSettingsUnix.label "Επεξεργασία ρυθμίσεων για το απομακρυσμένο περιεχόμενο…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "Ο">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Αγνόηση προειδοποίησης για το μήνυμα">
+<!ENTITY phishingOptionIgnore.accesskey "ν">
+<!ENTITY phishingOptionSettings.label "Επεξεργασία ρυθμίσεων για τον εντοπισμό απάτης…">
+<!ENTITY phishingOptionSettings.accesskey "π">
+<!ENTITY phishingOptionSettingsUnix.label "Επεξεργασία ρυθμίσεων για τον εντοπισμό απάτης…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "π">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Νέο μήνυμα">
 <!ENTITY appmenuNewContactCmd.label "Επαφή βιβλίου διευθύνσεων…">
 <!ENTITY appmenuEditMenu.label "Επεξεργασία">
 <!ENTITY appmenuToolbarLayout.label "Διάταξη εργαλειοθήκης…">
+<!ENTITY appmenuSelectThread.label "Επιλέξτε νήμα">
+<!ENTITY appmenuSelectFlagged.label "Επιλέξτε μηνύματα με αστέρι">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Νέα ετικέτα">
 <!ENTITY addNewTag.accesskey "Ν">
+<!ENTITY manageTags.label "Διαχείριση των ετικετών…">
+<!ENTITY manageTags.accesskey "Τ">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Όνομα">
+<!ENTITY folderUnreadColumn.label "Μη αναγνωσμένο">
+<!ENTITY folderTotalColumn.label "Σύνολο">
 <!ENTITY folderSizeColumn.label "Μέγεθος">
 
 <!-- Folder Pane Context Menu -->
@@ -652,6 +688,7 @@
 <!ENTITY threadColumn.label "Αλληλουχία">
 <!ENTITY fromColumn.label "Από">
 <!ENTITY recipientColumn.label "Παραλήπτης">
+<!ENTITY correspondentColumn.label "Επιστολογράφοι">
 <!ENTITY subjectColumn.label "Θέμα">
 <!ENTITY dateColumn.label "Ημερομηνία">
 <!ENTITY priorityColumn.label "Προτεραιότητα">
@@ -674,6 +711,7 @@
 <!ENTITY threadColumn2.tooltip "Εμφάνιση αλληλουχιών μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
 <!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
+<!ENTITY correspondentColumn2.tooltip "Ταξινόμηση κατά των επιστολογράφων">
 <!ENTITY subjectColumn2.tooltip "Ταξινόμηση κατά θέμα">
 <!ENTITY dateColumn2.tooltip "Ταξινόμηση κατά ημερομηνία">
 <!ENTITY priorityColumn2.tooltip "Ταξινόμηση κατά προτεραιότητα">
@@ -702,8 +740,11 @@
 <!ENTITY contextOpenNewTab.accesskey "τ">
 <!ENTITY contextOpenConversation.label "Άνοιγμα μηνύματος σε συζήτηση">
 <!ENTITY contextOpenConversation.accesskey "ν">
+<!ENTITY contextOpenContainingFolder.label "Άνοιγμα μηνύματος στον περιεχόμενο φάκελο">
+<!ENTITY contextOpenContainingFolder.accesskey "φ">
 <!ENTITY contextEditMsgAsNew.label "Τροποποίηση ως νέου">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
+<!ENTITY contextEditDraftMsg.label "Τροποποίηση πρόχειρου μηνύματος">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "χ">
 <!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
@@ -716,7 +757,12 @@
 <!ENTITY contextReplyList.accesskey "λ">
 <!ENTITY contextForward.label "Προώθηση">
 <!ENTITY contextForward.accesskey "θ">
+<!ENTITY contextForwardAsMenu.label "Προώθηση ως">
+<!ENTITY contextForwardAsMenu.accesskey "ο">
+<!ENTITY contextForwardAsInline.label "Μέσα στο σώμα">
+<!ENTITY contextForwardAsInline.accesskey "Ω">
 <!ENTITY contextForwardAsAttachmentItem.label "Συνημμένο">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "Σ">
 <!ENTITY contextMultiForwardAsAttachment.label "Προώθηση ως συνημμένα">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "σ">
 <!ENTITY contextMoveMsgMenu.label "Μετακίνηση σε">
@@ -726,10 +772,15 @@
 <!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
 <!ENTITY contextCopyMsgMenu.accesskey "ι">
 <!ENTITY contextKillThreadMenu.label "Αγνόηση νήματος">
+<!ENTITY contextKillSubthreadMenu.accesskey "β">
+<!ENTITY contextKillThreadMenu.accesskey "Ι">
+<!ENTITY contextKillSubthreadMenu.label "Αγνόηση υπονήματος">
+<!ENTITY contextWatchThreadMenu.label "Παρακολούθηση νήματος">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Αποθήκευση ως...">
 <!ENTITY contextSaveAs.accesskey "σ">
 <!ENTITY contextPrint.label "Εκτύπωση...">
@@ -799,6 +850,7 @@
      This is actually the key used for the global message search box; we have
      not changed
   -->
+<!ENTITY quickSearchCmd.key "κ">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -808,16 +860,19 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Αναζήτηση #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Προσθήκη στο ευρετήριο ...">
@@ -839,6 +894,7 @@
 <!ENTITY CopyNewsgroupName.label "Αντιγραφή ονόματος ομάδας">
 <!ENTITY CopyNewsgroupName.accesskey "γ">
 <!ENTITY CopyNewsgroupURL.label "Αντιγραφή URL ομάδας συζητήσεων">
+<!ENTITY CopyNewsgroupURL.accesskey "Τ">
 <!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από">
 <!ENTITY CreateFilterFrom.accesskey "φ">
 <!ENTITY reportPhishingURL.label "Αναφορά email απάτης">
@@ -858,6 +914,7 @@
 <!ENTITY copyImageAllCmd.label "Αντιγραφή εικόνας">
 <!ENTITY copyImageAllCmd.accesskey "ι">
 <!ENTITY copyEmailCmd.label "Αντιγραφή διεύθυνσης Email">
+<!ENTITY copyEmailCmd.accesskey "Ε">
 <!ENTITY stopCmd.label "Διακοπή">
 <!ENTITY stopCmd.accesskey "Δ">
 <!ENTITY reloadCmd.label "Ανανέωση">
@@ -872,14 +929,22 @@
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
+<!ENTITY minimizeWindow.key "λ">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Μεγέθυνση">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Προτιμήσεις">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 <!ENTITY hideThisAppCmdMac.label        "Απόκρυψη &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "Ψ">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.commandkey "Ψ">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Προβολή όλων">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής..">
