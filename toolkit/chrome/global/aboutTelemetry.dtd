@@ -85,7 +85,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-   Žurnál telemetrie
+   Protokol telemetrie
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé dotazy SQL">
@@ -98,6 +98,10 @@ Ping
 
 <!ENTITY aboutTelemetry.scalarsSection "
   Skaláry">
+
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Klíčové skaláry
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 

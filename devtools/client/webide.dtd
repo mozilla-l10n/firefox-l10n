@@ -96,7 +96,7 @@
 <!ENTITY details_location "Umístění">
 <!ENTITY details_manifestURL "ID aplikace">
 <!ENTITY details_removeProject_button "Odebrat projekt">
-<!ENTITY details_showPrepackageLog_button "Zobrazit žurnál před zabalením">
+<!ENTITY details_showPrepackageLog_button "Zobrazit protokol před zabalením">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nová aplikace">
@@ -199,7 +199,7 @@
 <!ENTITY wifi_auth_qr_size_note "Pokud je QR kód příliš malý pro úspěšné navázání spojení, zkuste použít nástroj lupy nebo zvětšit okno.">
 
 <!-- Logs panel -->
-<!ENTITY logs_title "Žurnál příkazů před zabalením">
+<!ENTITY logs_title "Protokol příkazů před zabalením">
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Možnosti Simulátoru">
