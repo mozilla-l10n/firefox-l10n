@@ -116,7 +116,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Vlastnosti">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostika">
-<!ENTITY aboutSupport.graphicsFailureLogTitle "Žurnál chyb">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Protokol chyb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">

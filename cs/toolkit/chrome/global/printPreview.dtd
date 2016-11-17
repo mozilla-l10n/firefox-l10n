@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Na šířku stránky">
 <!ENTITY customPrompt.title   "Vlastní měřítko…">
 <!ENTITY simplifyPage.label   "Zjednodušit stránku">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Změnit rozložení stránky pro snadnější čtení">
 <!ENTITY simplifyPage.disabled.tooltip "Tuto stránku nelze automaticky zjednodušit">
 
