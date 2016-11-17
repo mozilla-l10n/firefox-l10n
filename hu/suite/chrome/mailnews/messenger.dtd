@@ -12,7 +12,7 @@
 <!ENTITY tabmailNewButton.tooltip "Aktuális lap duplikálása">
 <!ENTITY tabmailCloseButton.tooltip "Aktuális lap bezárása">
 <!ENTITY tabmailAllTabs.tooltip "Lapok listája">
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
 
@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label "Kész">
+<!ENTITY statusText.label "Kész">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Üzenet megnyitása új ablakban">

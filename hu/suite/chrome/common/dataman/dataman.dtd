@@ -9,7 +9,6 @@
 <!ENTITY select.all.label "Minden adattípus">
 <!ENTITY select.cookies.label "Sütik">
 <!ENTITY select.permissions.label "Engedélyek">
-
 <!ENTITY select.preferences.label "Beállítások">
 <!ENTITY select.passwords.label "Jelszavak">
 <!ENTITY select.storage.label "Csak tároló">
@@ -28,7 +27,6 @@
 
 <!ENTITY tab.cookies.label "Sütik">
 <!ENTITY tab.permissions.label "Engedélyek">
-
 <!ENTITY tab.preferences.label "Beállítások">
 <!ENTITY tab.passwords.label "Jelszavak">
 <!ENTITY tab.storage.label "Tároló">
@@ -69,12 +67,6 @@
 <!ENTITY perm.AllowSameDomain "Engedélyezés azonos webhelyről">
 <!ENTITY perm.AllowSession "Engedélyezés a munkamenetben">
 <!ENTITY perm.Block "Tiltás">
-
-
-
-<!-- password permissions -->
-
-
 
 
 
@@ -148,8 +140,6 @@
 <!ENTITY forget.cookies.accesskey "S">
 <!ENTITY forget.permissions.label "Engedélyek">
 <!ENTITY forget.permissions.accesskey "E">
-
-
 <!ENTITY forget.preferences.label "Tartalmi beállítások">
 <!ENTITY forget.preferences.accesskey "T">
 <!ENTITY forget.passwords.label "Jelszavak">

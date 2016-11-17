@@ -23,6 +23,7 @@
 <!ENTITY rights.intro-point2a "Ön nem kapott jogot vagy felhatalmazást a védjegyek használatára sem a Mozilla Foundationtől, sem mástól, beleértve – de nem csak erre korlátozva – a SeaMonkey nevet és logót. A védjegyekről további tudnivaló ">
 <!ENTITY rights.intro-point2b "itt">
 <!ENTITY rights.intro-point2c ".">
+<!-- point 2d is technically point 3. in the list -->
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "A &vendorShortName; terméke által beküldött személyes adatokat és visszajelzéseket a ">
@@ -41,9 +42,7 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "A &brandFullName; webalapú információs szolgáltatásokat („Szolgáltatások”) használ egyes funkciók megvalósítására. Ezek a Szolgáltatások a &brandShortName; bináris verziójával együtt érhetők el az alább leírt módon. Ha nem akarja használni a Szolgáltatásokat, illetve az alábbi feltételek elfogadhatatlanok, letilthatja a funkciót vagy a Szolgáltatásokat. Egy adott funkció vagy Szolgáltatás letiltásáról ">
-<!ENTITY rights2.webservices-b "itt">
-<!ENTITY rights2.webservices-c " található információ. Más funkciók és szolgáltatások az alkalmazás beállításaiban kapcsolhatók ki.">
+
 <!-- add-on related points for branded builds -->
 
 <!ENTITY rights.addons-a "Kiegészítők szolgáltatás: ">
@@ -54,16 +53,19 @@
 <!ENTITY rights.addons-term4 "A Kiegészítők szolgáltatás most le van tiltva.">
 <!-- safe browsing points for branded builds -->
 
-
 <!ENTITY rights.safebrowsing-a "Safe Browsing:">
 <!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
 <!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét">
-<!ENTITY rights.safebrowsing-term2 "Nyissa meg a fő &security.label; beállítópanelt.">
+
 <!ENTITY rights.safebrowsing-term3 "Vegye ki a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” jelölőnégyzetekből.">
 <!ENTITY rights.safebrowsing-term4 "A Safe Browsing most le van tiltva.">
-<!-- points 1-6 text for branded builds -->
+<!-- location aware browsing points for branded builds -->
 
 
+
+
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "A &vendorShortName; saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat.">
 <!ENTITY rights.webservices-term2 "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, ehhez minden szükséges joga megvan. A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban. Ezek a feltételek nem korlátozzák a &brandShortName;re és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">
 <!ENTITY rights.webservices-term3 "A Szolgáltatások „olyanok, amilyenek”. A &vendorShortName;, a közreműködők, a licencadók és a terjesztők minden garanciát elutasítanak, legyen az kifejezett vagy vélelmezett, beleértve, de nem erre korlátozva azt, hogy a Szolgáltatások hasznosak és megfelelnek a felhasználó céljainak. Teljes egészében a felhasználó viseli annak kockázatát, hogy a Szolgáltatásokat saját céljára igénybe veszi, és hogy a Szolgáltatások az adott minőségben és teljesítménnyel működnek. Egyes jogrendszerek nem teszik lehetővé a vélelmezett garanciák kizárását vagy korlátozását, tehát ez az elutasítás lehet, hogy Önre nem vonatkozik.">

@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Hozzáadás">
 <!ENTITY button.addFeed.accesskey    "H">
-<!ENTITY button.editFeed.label       "Szerkesztés">
-<!ENTITY button.editFeed.accesskey   "z">
+<!ENTITY button.updateFeed.label     "Szerkesztés">
+<!ENTITY button.updateFeed.accesskey "z">
 <!ENTITY button.removeFeed.label     "Eltávolítás">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label     "Importálás">

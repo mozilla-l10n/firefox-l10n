@@ -34,6 +34,11 @@
 <!ENTITY bgColor.label                        "Háttér:">
 <!ENTITY bgColor.accesskey                    "H">
 
+
+
+
+
+
 <!ENTITY selectHeaderType.label               "Válaszfejléc típusa:">
 <!ENTITY selectHeaderType.accesskey           "e">
 <!ENTITY noReplyOption.label                  "Nincs válaszfejléc">
