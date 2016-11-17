@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Cuir Leis">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Nuashonraigh">
-<!ENTITY button.editFeed.accesskey   "u">
+<!ENTITY button.updateFeed.label     "Nuashonraigh">
+<!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Bain">
 <!ENTITY button.removeFeed.accesskey "B">
 <!ENTITY button.importOPML.label     "Iompórtáil">

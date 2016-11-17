@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Suíomh na hÍomhá:">
 <!ENTITY locationEditField.accessKey "S">
 <!ENTITY locationEditField.tooltip "Iontráil comhadainm nó suíomh na híomhá">
+
 <!ENTITY title.label "Leid Uirlise:">
 <!ENTITY title.accessKey "L">
 <!ENTITY title.tooltip "An aitreabúid HTML &quot;title&quot; a thaispeánfar mar leid uirlise">
