@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "&#171; Voltar para Privacidade">
 
 <!ENTITY window.title         "Adicionar novo contentor">
-
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Nome:">
 <!ENTITY name.accesskey       "N">
@@ -17,7 +17,7 @@
 <!ENTITY icon.accesskey       "c">
 <!ENTITY color.label          "Cor:">
 <!ENTITY color.accesskey      "o">
-
+<!ENTITY windowClose.key      "s">
 
 <!ENTITY button.ok.label      "OK">
 <!ENTITY button.ok.accesskey  "O">
