@@ -12,3 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.title "គ្មាន​ការ​តភ្ជាប់">
 <!ENTITY aboutAccounts.noConnection.description "អ្នក​ត្រូវតែ​តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត​ដើម្បី​អាច​ចូល​បាន។">
 <!ENTITY aboutAccounts.noConnection.retry "ព្យាយាម​ម្ដង​ទៀត">
+<!ENTITY aboutAccounts.badConfig.title "ការ​កំណត់​រចនាសម្ព័ន្ធ​មិន​ល្អ">
