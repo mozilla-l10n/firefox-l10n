@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
 <!ENTITY playSound.label                  "predvajaj zvok">
 <!ENTITY playSound1.accesskey             "e">
+<!ENTITY playSoundMac.label               "Predvajaj naslednjo zvočno datoteko:">
+<!ENTITY playSoundMac.accesskey           "P">
 <!ENTITY showAnimatedAlert.label          "prikaži opozorilo">
 <!ENTITY showAnimatedAlert.accesskey      "o">
+<!ENTITY notificationAlertSettings2.label "Opozorila in privzeti zvok lahko onemogočite na plošči Obvestila v sistemskih nastavitvah.">
 <!ENTITY customizeMailAlert.label         "Prilagodi …">
 <!ENTITY customizeMailAlert.accesskey     "a">
 

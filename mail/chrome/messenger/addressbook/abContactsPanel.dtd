@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Lastnosti">
+<!ENTITY propertiesMenu.accesskey           "L">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Lastnosti imenika">
+<!ENTITY abPropertiesMenu.accesskey         "m">
+<!ENTITY contactPropertiesMenu.label        "Lastnosti stika">
+<!ENTITY contactPropertiesMenu.accesskey    "s">
+<!ENTITY mailingListPropertiesMenu.label    "Lastnosti dopisnega seznama">
+<!ENTITY mailingListPropertiesMenu.accesskey "d">
 
 <!ENTITY addressbookPicker.label            "Imenik:">
 <!ENTITY addressbookPicker.accesskey        "m">
+<!ENTITY searchContacts.label               "Išči po stikih:">
+<!ENTITY searchContacts.accesskey           "š">
 <!ENTITY SearchNameOrEmail.label            "Ime ali e-pošta">
 
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
@@ -15,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "S">
 <!ENTITY deleteAddrBookCard.label           "Izbriši">
 <!ENTITY deleteAddrBookCard.accesskey       "b">
+<!ENTITY propertiesContext.label            "Lastnosti">
+<!ENTITY propertiesContext.accesskey        "L">
+<!ENTITY abPropertiesContext.label          "Lastnosti">
+<!ENTITY abPropertiesContext.accesskey      "L">
+<!ENTITY editContactContext.label           "Uredi stik">
+<!ENTITY editContactContext.accesskey       "s">
+<!ENTITY editMailingListContext.label       "Uredi seznam">
+<!ENTITY editMailingListContext.accesskey   "e">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
 <!ENTITY toButton.accesskey                 "Z">
