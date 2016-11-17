@@ -12,7 +12,7 @@
 <!ENTITY tabmailNewButton.tooltip "Duplicar separador atual">
 <!ENTITY tabmailCloseButton.tooltip "Fechar separador atual">
 <!ENTITY tabmailAllTabs.tooltip "Listar todos os separadores">
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
 
@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label "OK">
+<!ENTITY statusText.label "OK">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">

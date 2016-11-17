@@ -122,17 +122,24 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão descarregadas.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Permitir janelas pop-up deste site">
-<!ENTITY cookieAllowPopupsCmd.accesskey "a">
-<!ENTITY cookieManagePopups.label "Gerir janelas pop-up">
-<!ENTITY cookieManagePopups.accesskey "G">
+<!ENTITY popupAllowCmd.label "Permitir janelas pop-up deste site">
+<!ENTITY popupAllowCmd.accesskey "a">
+
+
+
+
+
+
+
+<!ENTITY popupsManage.label "Gerir janelas pop-up">
+<!ENTITY popupsManage.accesskey "G">
 
 <!ENTITY cookieCookieManager.label "Gestor de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Gestor de imagens">
 <!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Gestor de janelas pop-up">
-<!ENTITY cookiePopupManager.accesskey "o">
+<!ENTITY popupsManager.label "Gestor de janelas pop-up">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Limpar dados privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "v">

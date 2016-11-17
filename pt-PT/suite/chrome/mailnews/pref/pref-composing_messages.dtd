@@ -34,6 +34,11 @@
 <!ENTITY bgColor.label                        "Fundo:">
 <!ENTITY bgColor.accesskey                    "u">
 
+
+
+
+
+
 <!ENTITY selectHeaderType.label               "Selecione o tipo de cabeçalho de resposta :">
 <!ENTITY selectHeaderType.accesskey           "e">
 <!ENTITY noReplyOption.label                  "Sem cabeçalho de resposta">
