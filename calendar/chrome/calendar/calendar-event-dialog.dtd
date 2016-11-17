@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; deiseil">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Cuir fios dha na freastalaichean">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh an t-aon do gach frithealaiche">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
+<!ENTITY event.attendees.notify.label                "Cuir fios dha na freastalaichean">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Cuireadh an t-aon do gach frithealaiche">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Atharraich am prìomhachas">
 <!ENTITY  event.toolbar.status.tooltip                    "Atharraich an staid">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Atharraich na h-amannan saora/tranga">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
