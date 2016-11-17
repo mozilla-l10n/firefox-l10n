@@ -11,9 +11,9 @@ temas compatíveis com esta versão.">
 <!ENTITY  offline.toggleOffline.label     "Sair do modo offline agora">
 <!ENTITY  offline.toggleOffline.accesskey "S">
 
-<!ENTITY  mismatch.win.title              "Complementos incompatíveis">
-<!ENTITY  mismatch.top.label              "Os seguintes complementos não são compatíveis com esta versão do
-&brandShortName; e foram desativados:">
+<!ENTITY  mismatch.win.title              "Extensões incompatíveis">
+<!ENTITY  mismatch.top.label              "As seguintes extensões não são compatíveis com esta versão do
+                                           &brandShortName; e foram desativadas:">
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis 
 destes complementos.">
 
