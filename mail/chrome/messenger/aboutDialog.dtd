@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title          "Wó &brandFullName;">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
 <!ENTITY update.updateButton.label2               "&brandShortName; za aktualizěrowanje znowego startowaś">
 <!ENTITY update.updateButton.accesskey            "k">
-<!ENTITY update.applyButtonBillboard.label        "Aktualizaciju nałožyś…">
-<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -43,6 +41,7 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "cyńśo sobu!">
 <!ENTITY helpus.end                 "">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Licencne informacije">

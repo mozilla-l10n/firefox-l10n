@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Zmóžnjony">
 <!ENTITY newButton.label "Nowy…">
 <!ENTITY newButton.accesskey "N">
+
+
 <!ENTITY editButton.label "Wobźěłaś…">
 <!ENTITY editButton.accesskey "b">
 <!ENTITY deleteButton.label "Wulašowaś">

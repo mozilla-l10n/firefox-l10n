@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Wěstotne rědy">
 <!ENTITY manageDevices.accesskey "s">
+<!-- Strings for the cert picker dialog -->
+
+

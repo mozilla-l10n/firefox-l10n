@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Pśidaś">
 <!ENTITY button.addFeed.accesskey    "P">
-<!ENTITY button.editFeed.label       "Aktualizěrowaś">
-<!ENTITY button.editFeed.accesskey   "A">
+<!ENTITY button.updateFeed.label     "Aktualizěrowaś">
+<!ENTITY button.updateFeed.accesskey "A">
 <!ENTITY button.removeFeed.label     "Wótpóraś">
 <!ENTITY button.removeFeed.accesskey "W">
 <!ENTITY button.importOPML.label     "Importěrowaś">

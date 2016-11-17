@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Městno wobraza:">
 <!ENTITY locationEditField.accessKey "M">
 <!ENTITY locationEditField.tooltip "Zapódajśo datajowe mě abo městno wobraza">
+
 <!ENTITY title.label "Pomocny tekst:">
 <!ENTITY title.accessKey "P">
 <!ENTITY title.tooltip "Atribut html 'title', kótaryž pomocny tekst pokazujo">
