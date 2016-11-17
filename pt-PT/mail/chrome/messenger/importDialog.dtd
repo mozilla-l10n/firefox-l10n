@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Nome:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Recuar">
 <!ENTITY forward.label            "Avançar &gt;">
 <!ENTITY finish.label             "Concluir">

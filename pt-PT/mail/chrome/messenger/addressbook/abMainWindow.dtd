@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Este livro de endereços apenas mostra os contactos após um pesquisa">
 <!ENTITY localResultsOnlyMessage.label                  "Os contactos destes livros de endereços remotos apenas são mostrados após uma pesquisa">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Ficheiro">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Novo">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Propriedades">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Ver">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Propriedades">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Escrever">
 <!ENTITY newmsgButton.accesskey                         "E">
 <!ENTITY newIM.label                                    "Mensagem instantânea">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Criar novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar nova lista">
-<!ENTITY editButton2.tooltip                            "Editar item selecionado">
+<!ENTITY editPropertiesButton.tooltip                   "Editar item selecionado">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de chat">
 <!ENTITY deleteButton2.tooltip                          "Apagar elemento selecionado">
