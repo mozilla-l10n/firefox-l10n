@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Modifică">
-<!ENTITY button.editFeed.accesskey   "M">
+<!ENTITY button.updateFeed.label     "Modifică">
+<!ENTITY button.updateFeed.accesskey "M">
 <!ENTITY button.removeFeed.label     "Șterge">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importă">
