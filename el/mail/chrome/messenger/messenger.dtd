@@ -304,12 +304,19 @@
 <!ENTITY prevMenu.accesskey "Π">
 <!ENTITY prevMsgCmd.label "Μήνυμα">
 <!ENTITY prevMsgCmd.accesskey "Μ">
+<!ENTITY prevMsgCmd.key "ρ">
 <!ENTITY prevUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
 <!ENTITY prevUnreadMsgCmd.accesskey "η">
+<!ENTITY prevUnreadMsgCmd.key "μ">
 <!ENTITY goForwardCmd.label "Μπροστά">
 <!ENTITY goForwardCmd.accesskey "Μ">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Πίσω">
 <!ENTITY goBackCmd.accesskey "Π">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Συζήτηση">
+<!ENTITY goChatCmd.accesskey "σ">
+<!ENTITY goChatCmd.key "Ζ">
 <!ENTITY prevStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY prevStarredMsgCmd.accesskey "σ">
 <!ENTITY folderMenu.label "Φάκελος">
@@ -328,20 +335,25 @@
 <!ENTITY newNewMsgCmd.accesskey "Μ">
 <!ENTITY archiveMsgCmd.label "Αρχειοθέτηση">
 <!ENTITY archiveMsgCmd.accesskey "χ">
+<!ENTITY archiveMsgCmd.key "α">
 <!ENTITY cancelNewsMsgCmd.label "Ακύρωση μηνύματος">
 <!ENTITY cancelNewsMsgCmd.accesskey "κ">
 <!ENTITY replyMsgCmd.label "Απάντηση">
 <!ENTITY replyMsgCmd.accesskey "π">
+<!ENTITY replyMsgCmd.key "π">
 <!ENTITY replySenderCmd.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY replySenderCmd.accesskey "μ">
 <!ENTITY replyNewsgroupCmd2.label "Απάντηση στην ομάδα συζήτησης">
 <!ENTITY replyNewsgroupCmd2.accesskey "ζ">
 <!ENTITY replyToAllMsgCmd.label "Απάντηση σε όλους">
 <!ENTITY replyToAllMsgCmd.accesskey "λ">
+<!ENTITY replyToAllMsgCmd.key "ο">
 <!ENTITY replyToListMsgCmd.label "Απάντηση στη λίστα">
 <!ENTITY replyToListMsgCmd.accesskey "λ">
+<!ENTITY replyToListMsgCmd.key "λ">
 <!ENTITY forwardMsgCmd.label "Προώθηση">
 <!ENTITY forwardMsgCmd.accesskey "ο">
+<!ENTITY forwardMsgCmd.key "ρ">
 <!ENTITY forwardAsMenu.label "Προώθηση ως">
 <!ENTITY forwardAsMenu.accesskey "θ">
 <!ENTITY forwardAsInline.label "Ως αντικείμενο μέσα στο μήνυμα">
@@ -350,6 +362,7 @@
 <!ENTITY forwardAsAttachmentCmd.accesskey "μ">
 <!ENTITY editAsNewMsgCmd.label "Τροποποίηση μηνύματος ως νέου">
 <!ENTITY editAsNewMsgCmd.accesskey "ν">
+<!ENTITY editAsNewMsgCmd.key "ξ">
 <!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY editDraftMsgCmd.accesskey "χ">
 <!ENTITY createFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
@@ -364,14 +377,22 @@
 <!ENTITY copyMsgToMenu.accesskey "γ">
 <!ENTITY moveToFolderAgain.label "Μετακίνηση ξανά">
 <!ENTITY moveToFolderAgain.accesskey "ξ">
+<!ENTITY moveToFolderAgainCmd.key "μ">
 <!ENTITY killThreadMenu.label "Παράβλεψη αλληλουχίας">
 <!ENTITY killThreadMenu.accesskey "β">
+<!ENTITY killThreadMenu.key "κ">
 <!ENTITY killSubthreadMenu.label "Αγνόηση υποαλληλουχίας">
 <!ENTITY killSubthreadMenu.accesskey "π">
+<!ENTITY killSubthreadMenu.key "κ">
 <!ENTITY watchThreadMenu.label "Παρακολούθηση αλληλουχίας">
 <!ENTITY watchThreadMenu.accesskey "θ">
+<!ENTITY watchThreadMenu.key "α">
 <!ENTITY tagMenu.label "Ετικέτα">
 <!ENTITY tagMenu.accesskey "κ">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
 <!ENTITY markMenu.label "Σημείωση">
 <!ENTITY markMenu.accesskey "μ">
 <!ENTITY markAsReadCmd.label "Ως αναγνωσμένο">
