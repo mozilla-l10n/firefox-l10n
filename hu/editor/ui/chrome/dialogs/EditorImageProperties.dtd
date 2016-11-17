@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Kép URL:">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Írja be a képfájl nevét vagy címét">
+
 <!ENTITY title.label "Buboréksúgó:">
 <!ENTITY title.accessKey "B">
 <!ENTITY title.tooltip "A HTML 'title' attribútuma, amely buboréksúgóként jelenik meg">

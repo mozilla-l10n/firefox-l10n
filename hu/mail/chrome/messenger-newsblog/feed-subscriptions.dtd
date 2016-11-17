@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Hozzáadás">
 <!ENTITY button.addFeed.accesskey    "H">
-<!ENTITY button.editFeed.label       "Frissítés">
-<!ENTITY button.editFeed.accesskey   "F">
+<!ENTITY button.updateFeed.label     "Frissítés">
+<!ENTITY button.updateFeed.accesskey "F">
 <!ENTITY button.removeFeed.label     "Eltávolítás">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label     "Importálás">

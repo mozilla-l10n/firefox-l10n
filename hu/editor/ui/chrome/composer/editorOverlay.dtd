@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Beszúrás">
 <!ENTITY insertMenu.accesskey "B">
-<!ENTITY insertLinkCmd.label "Hivatkozás…">
-<!ENTITY insertLinkCmd.accesskey "H">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Hivatkozás…">
+<!ENTITY insertLinkCmd2.accesskey "H">
+
 <!ENTITY insertAnchorCmd.label "Megnevezett horgony…">
 <!ENTITY insertAnchorCmd.accesskey "o">
 <!ENTITY insertImageCmd.label "Kép…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Horgonyok eltávolítása">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Bekezdés">
 <!ENTITY paragraphMenu.accesskey "B">
-<!ENTITY paragraphParagraphCmd.label "Bekezdés">  
+<!ENTITY paragraphParagraphCmd.label "Bekezdés">
 <!ENTITY paragraphParagraphCmd.accesskey "B">
 <!ENTITY heading1Cmd.label "Címsor 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Törlés">
 <!ENTITY tableDeleteMenu.accesskey "T">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

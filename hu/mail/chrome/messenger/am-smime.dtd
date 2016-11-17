@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "T">
 <!ENTITY manageDevices.label "Adatvédelmi eszközök">
 <!ENTITY manageDevices.accesskey "A">
+<!-- Strings for the cert picker dialog -->
+
+
