@@ -16,7 +16,9 @@
 <!ENTITY tabCrashed.header2 "Jejda. Váš panel právě spadl.">
 <!ENTITY tabCrashed.offerHelp "Můžeme vám pomoci!">
 <!ENTITY tabCrashed.requestHelp "Pomůžete nám?">
+<!ENTITY tabCrashed.requestHelpMessage "Hlášení o pádech nám pomáhají rozpoznat problémy a aplikaci &brandShortName; dále zlepšovat.">
 <!ENTITY tabCrashed.requestReport "Nahlásit tento panel">
+<!ENTITY tabCrashed.includeURL2 "Zahrnout do tohoto hlášení o pádu také URL adresu stránky">
 <!ENTITY tabCrashed.emailPlaceholder "Zde vložte svoji e-mailovou adresu">
 <!ENTITY tabCrashed.emailMe "Informovat mě e-mailem, až bude k dispozici více informací">
 <!ENTITY tabCrashed.reportSent "Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte &brandShortName; vylepšovat!">

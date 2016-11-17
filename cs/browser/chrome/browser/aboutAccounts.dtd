@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Žádné připojení">
 <!ENTITY aboutAccounts.noConnection.description "Abyste se mohli přihlásit, musíte být připojeni k internetu.">
 <!ENTITY aboutAccounts.noConnection.retry "Zkusit znovu">
+<!ENTITY aboutAccounts.badConfig.title "Špatná konfigurace">
+<!ENTITY aboutAccounts.badConfig.description "Nepodařilo se zjistit konfiguraci serveru pro váš účet Firefox Account. Zkuste to prosím znovu.">
