@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Kullanıcı Tanımlama İsteği">
 <!ENTITY clientAuthAsk.message1 "Bu site, kendinizi bir sertifikayla tanıtmanızı istiyor:">
 <!ENTITY clientAuthAsk.message2 "Sizi tanıtmak için gösterilecek sertifikayı seçin:">
-
+<!ENTITY clientAuthAsk.message3 "Seçilen sertifikanın ayrıntıları:">
 
 <!ENTITY pkcs12.setpassword.title  "Sertifika yedeği için bir parola seçin">
 <!ENTITY pkcs12.setpassword.message  "Burada belirttiğiniz sertifika yedeği parolası, oluşturmak üzere olduğunuz yedek dosyasını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız.">
