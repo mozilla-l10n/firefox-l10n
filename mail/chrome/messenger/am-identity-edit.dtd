@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; Φάκελοι">
 <!ENTITY addressingTab.label    "Σύνταξη &amp; Διευθυνσιοδότηση">
 
+<!ENTITY publicData.label        "Δημόσια Δεδομένα">
+<!ENTITY privateData.label       "Ιδιωτικά Δεδομένα">
+<!ENTITY identityAlias.label     "Ετικέτα ταυτότητας:">
+<!ENTITY identityAlias.accesskey "τ">
