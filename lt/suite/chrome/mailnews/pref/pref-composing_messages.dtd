@@ -34,6 +34,11 @@
 <!ENTITY bgColor.label                        "Fono spalva:">
 <!ENTITY bgColor.accesskey                    "F">
 
+
+
+
+
+
 <!ENTITY selectHeaderType.label               "Atsakymo antraštė:">
 <!ENTITY selectHeaderType.accesskey           "A">
 <!ENTITY noReplyOption.label                  "Jokios antraštės">
