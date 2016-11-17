@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Wót">
 <!ENTITY senderField4.label "Wótpósłaŕ">
+
 <!ENTITY organizationField4.label "Organizacija">
 <!ENTITY replyToField4.label "Wótegroniś na">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwěrowaś">
 <!ENTITY hdrArchiveButton1.tooltip "Toś tu powěsć archiwěrowaś">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Inteligentne wótegrono">
 <!ENTITY hdrReplyButton1.label "Wótegroniś">
 <!ENTITY hdrReplyButton2.tooltip "Wótpósłarjeju toś teje powěsći wótegroniś">

@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Gaž se nowe powěsći dojdu:">
 <!ENTITY playSound.label                  "Zuk wótgraś">
-<!ENTITY playSound1.accesskey              "u">
+<!ENTITY playSound1.accesskey             "u">
+
+
 <!ENTITY showAnimatedAlert.label          "Powěźeńku pokazaś">
 <!ENTITY showAnimatedAlert.accesskey      "P">
+
 <!ENTITY customizeMailAlert.label         "Pśiměriś…">
 <!ENTITY customizeMailAlert.accesskey     "m">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Wótgraś">
 <!ENTITY play.accesskey                   "g">
 <!ENTITY systemsound.label                "Standardny systemowy zuk za nowy post">
-<!ENTITY systemsoundMac.label             "Systemowy zuk za warnowanja">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Slědujucu zukowu dataju wužywaś">
 <!ENTITY customsound.accesskey            "S">

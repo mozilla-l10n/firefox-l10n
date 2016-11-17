@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Zasajźiś">
 <!ENTITY insertMenu.accesskey "Z">
-<!ENTITY insertLinkCmd.label "Wótkaz…">
-<!ENTITY insertLinkCmd.accesskey "k">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Wótkaz…">
+<!ENTITY insertLinkCmd2.accesskey "k">
+
 <!ENTITY insertAnchorCmd.label "Pomjenjona kokulka…">
 <!ENTITY insertAnchorCmd.accesskey "m">
 <!ENTITY insertImageCmd.label "Wobraz…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "S">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Pomjenjone kokulki wótpóraś">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Wótstawk">
 <!ENTITY paragraphMenu.accesskey "W">
-<!ENTITY paragraphParagraphCmd.label "Wótstawk">  
+<!ENTITY paragraphParagraphCmd.label "Wótstawk">
 <!ENTITY paragraphParagraphCmd.accesskey "W">
 <!ENTITY heading1Cmd.label "Nadpismo 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Lašowaś">
 <!ENTITY tableDeleteMenu.accesskey "L">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
