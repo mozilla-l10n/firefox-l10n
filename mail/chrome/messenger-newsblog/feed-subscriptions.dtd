@@ -23,8 +23,8 @@
 
 <!ENTITY button.addFeed.label        "Pievienot">
 <!ENTITY button.addFeed.accesskey    "P">
-<!ENTITY button.editFeed.label       "Atjaunināt">
-<!ENTITY button.editFeed.accesskey   "u">
+<!ENTITY button.updateFeed.label     "Atjaunināt">
+<!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Noņemt">
 <!ENTITY button.removeFeed.accesskey "N">
 <!ENTITY button.importOPML.label     "Importēt">

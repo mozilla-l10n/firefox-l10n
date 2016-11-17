@@ -6,6 +6,7 @@
 
 
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fails">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Jauns">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Īpašības">
-<!ENTITY propertiesCmd2.accesskey                       "p">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Skats">
@@ -129,8 +136,15 @@ because displayed names don't have the comma in between. -->
 
 
 
-<!ENTITY editButton2.label                              "Īpašības">
-<!ENTITY editButton2.accesskey                          "p">
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,7 +157,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Izveidot jaunu kontaktu adrešu grāmatā">
 <!ENTITY newlistButton.tooltip                          "Izveidot jaunu sarakstu">
-<!ENTITY editButton2.tooltip                            "Rediģēt izvēlēto vienumu">
+<!ENTITY editPropertiesButton.tooltip                   "Rediģēt izvēlēto vienumu">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Nosūtīt epasta vēstuli">
 
 
