@@ -13,6 +13,10 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Jejda. Váš panel právě spadl.">
+<!ENTITY tabCrashed.offerHelp "Můžeme vám pomoci!">
+<!ENTITY tabCrashed.requestHelp "Pomůžete nám?">
+<!ENTITY tabCrashed.requestReport "Nahlásit tento panel">
 <!ENTITY tabCrashed.emailPlaceholder "Zde vložte svoji e-mailovou adresu">
 <!ENTITY tabCrashed.emailMe "Informovat mě e-mailem, až bude k dispozici více informací">
 <!ENTITY tabCrashed.reportSent "Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte &brandShortName; vylepšovat!">
