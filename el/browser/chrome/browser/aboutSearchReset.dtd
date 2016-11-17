@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Επαναφορά Ρυθμίσεων Αναζήτησης">
+<!ENTITY searchreset.tabtitle       "Επαναφορά ρυθμίσεων αναζήτησης">
 
 <!ENTITY searchreset.pageTitle      "Θέλετε να γίνει επαναφορά των ρυθμίσεων αναζήτησης;">
 
-<!ENTITY searchreset.pageInfo1      "Οι ρυθμίσεις σας αναζήτησης είναι παλιές. Ο &brandShortName; μπορεί να σας βοηθήσει για την επαναφορά των προεπιλεγμένων ρυθμίσεων αναζήτησης.">
+<!ENTITY searchreset.pageInfo1      "Οι ρυθμίσεις αναζήτησής σας ενδέχεται να είναι παλιές. Το &brandShortName; μπορεί να σάς βοηθήσει με την επαναφορά των προεπιλεγμένων ρυθμίσεων αναζήτησης.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
@@ -18,10 +18,10 @@ searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-<!ENTITY searchreset.beforelink.pageInfo2 "Μπορείτε να αλλάξετε τις ρυθμίσεις αυτές οποιαδήποτε στιγμή από τη ">
+<!ENTITY searchreset.beforelink.pageInfo2 "Μπορείτε να αλλάξετε αυτές τις ρυθμίσεις ανά πάσα στιγμή από τη ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "σελίδα Ρυθμίσεων">
+<!ENTITY searchreset.link.pageInfo2       'σελίδα "Ρυθμίσεις"'>
 
 <!ENTITY searchreset.noChangeButton        "Να μην γίνει αλλαγή">
 <!ENTITY searchreset.noChangeButton.access "N">
