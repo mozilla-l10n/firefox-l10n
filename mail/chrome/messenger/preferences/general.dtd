@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Ao receber mensagens">
 <!ENTITY playSound.label                  "Reproduzir um som">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+
 <!ENTITY customizeMailAlert.label         "Personalizar...">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som predefinido do sistema para novos e-mails">
-<!ENTITY systemsoundMac.label             "Som do sistema">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Utilizar este ficheiro">
 <!ENTITY customsound.accesskey            "U">
