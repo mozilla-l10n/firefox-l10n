@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Complements">
 <!ENTITY engine.addons.accesskey    "C">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Nom del dispositiu:">
 <!ENTITY fxaSyncDeviceName.label       "Nom del dispositiu">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Canvia el nom del dispositiu…">
+<!ENTITY changeSyncDeviceName.accesskey "v">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancel·la">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "Desa">
+<!ENTITY saveChangeSyncDeviceName.accesskey "D">
 <!ENTITY unlinkDevice.label           "Desvincula aquest dispositiu">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "No heu iniciat la sessió.">
-
-
+<!ENTITY signIn.label                "Inicia la sessió">
+<!ENTITY signIn.accesskey            "I">
 <!ENTITY profilePicture.tooltip      "Canvia la imatge de perfil">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Gestiona el compte">
+<!ENTITY verifiedManage.accesskey    "a">
+<!ENTITY disconnect.label            "Desconnecta…">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "Verifiqueu l'adreça electrònica">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Oblida aquesta adreça electrònica">
+<!ENTITY forget.accesskey            "b">
 
 <!ENTITY welcome.description "Accediu a les vostres pestanyes, adreces d'interès, contrasenyes i més arreu amb el &brandShortName;.">
 <!ENTITY welcome.signIn.label "Inicia la sessió">

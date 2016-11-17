@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Més informació">
 <!ENTITY  browserContainersEnabled.label        "Habilita les pestanyes de contenidor">
 <!ENTITY  browserContainersEnabled.accesskey    "H">
-
-
+<!ENTITY  browserContainersSettings.label        "Paràmetres…">
+<!ENTITY  browserContainersSettings.accesskey    "t">
