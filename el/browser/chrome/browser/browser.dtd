@@ -207,8 +207,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Πληροφορίες ιστοσελίδας">
 
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
 
 
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
@@ -371,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 <!ENTITY urlbar.accesskey             "δ">
+<!ENTITY urlbar.extension.label       "Επέκταση:">
 <!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Θα θέλατε να βελτιώσετε την εμπειρία της αναζήτησης με το να σας παρέχουμε προτάσεις;">
@@ -409,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Ερώτημα αναζήτησης">
+<!ENTITY contentSearchSubmit.tooltip  "Υποβολή αναζήτησης">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -434,6 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Αλλαγή ρυθμίσεων αναζήτησης">
+<!ENTITY changeSearchSettings.tooltip "Αλλαγή ρυθμίσεων αναζήτησης">
 
 <!ENTITY searchInNewTab.label         "Αναζήτηση σε νέα καρτέλα">
 <!ENTITY searchInNewTab.accesskey     "T">
