@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Ιδιότητες">
+<!ENTITY propertiesMenu.accesskey                       "ι">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Ιδιότητες Βιβλίου Διευθύνσεων">
+<!ENTITY abPropertiesMenu.accesskey                     "ι">
+<!ENTITY contactPropertiesMenu.label                    "Ιδιότητες Επαφής">
+<!ENTITY contactPropertiesMenu.accesskey                "ι">
+<!ENTITY mailingListPropertiesMenu.label                "Ιδιότητες Λίστας Ταχυδρομείου">
+<!ENTITY mailingListPropertiesMenu.accesskey            "ι">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Προβολή">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "φ">
 <!ENTITY newlistButton.label                            "Νέα λίστα">
 <!ENTITY newlistButton.accesskey                        "λ">
+<!ENTITY editPropertiesButton.label                     "Τροποποίηση">
+<!ENTITY propertiesContext.label                        "Ιδιότητες">
+<!ENTITY propertiesContext.accesskey                    "ι">
+<!ENTITY abPropertiesContext.label                      "Ιδιότητες">
+<!ENTITY abPropertiesContext.accesskey                  "ι">
+<!ENTITY editContactContext.label                       "Τροποποίηση Επαφής">
+<!ENTITY editContactContext.accesskey                   "Ε">
+<!ENTITY editMailingListContext.label                   "Τροποποίηση Λίστας">
+<!ENTITY editMailingListContext.accesskey               "Ε">
 <!ENTITY newmsgButton.label                             "Σύνταξη">
 <!ENTITY newmsgButton.accesskey                         "Σ">
 <!ENTITY newIM.label                                    "Άμεσο Μήνυμα">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
+<!ENTITY editPropertiesButton.tooltip                   "Τροποποίηση του επιλεγμένου αντικειμένου">
+<!ENTITY editAbPropertiesButton.tooltip                 "Τροποποίηση των ιδιοτήτων του επιλεγμένου βιβλίου διευθύνσεων">
+<!ENTITY editContactPropertiesButton.tooltip            "Τροποποίηση των ιδιοτήτων της επιλεγμένης επαφής">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Τροποποίηση των ιδιοτήτων της επιλεγμένης λίστας ταχυδρομείου">
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
 <!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">
