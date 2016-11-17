@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Adresų knyga:">
 <!ENTITY addressbookPicker.accesskey        "A">
-<!ENTITY searchInput.label                  "Ko ieškoti:">
-<!ENTITY searchInput.accesskey              "i">
+
+
 <!ENTITY SearchNameOrEmail.label            "Asmenvardis ar el. p. adresas">
 
-<!ENTITY deleteAddrBookCard.label           "Pašalinti">
-<!ENTITY deleteAddrBookCard.accesskey       "š">
-<!ENTITY addrBookCardProperties.label       "Savybės">
-<!ENTITY addrBookCardProperties.accesskey   "S">
 <!ENTITY addtoToFieldMenu.label             "Pridėti į lauką „Kam“">
 <!ENTITY addtoToFieldMenu.accesskey         "P">
 <!ENTITY addtoCcFieldMenu.label             "Pridėti į lauką „Kopija“">
 <!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Pridėti į lauką „Nematomoji kopija“">
 <!ENTITY addtoBccFieldMenu.accesskey        "N">
+<!ENTITY deleteAddrBookCard.label           "Pašalinti">
+<!ENTITY deleteAddrBookCard.accesskey       "š">
+
+
+
+
+
+
+
+
 
 <!ENTITY toButton.label                     "Pridėti į „Kam“">
 <!ENTITY toButton.accesskey                 "P">

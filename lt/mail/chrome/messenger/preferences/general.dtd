@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Gavus naują laišką:">
 <!ENTITY playSound.label                  "Pranešti garsu">
-<!ENTITY playSound1.accesskey              "g">
+<!ENTITY playSound1.accesskey             "g">
+
+
 <!ENTITY showAnimatedAlert.label          "Parodyti įspėjimą">
 <!ENTITY showAnimatedAlert.accesskey      "ė">
+
 <!ENTITY customizeMailAlert.label         "Kitkas…">
 <!ENTITY customizeMailAlert.accesskey     "K">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Perklausyti">
 <!ENTITY play.accesskey                   "k">
 <!ENTITY systemsound.label                "Sistemos numatytasis naujų laiškų gavimo garsas">
-<!ENTITY systemsoundMac.label             "Sistemos numatytasis įspėjimo garsas">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Naudoti kitą garso failą:">
 <!ENTITY customsound.accesskey            "u">

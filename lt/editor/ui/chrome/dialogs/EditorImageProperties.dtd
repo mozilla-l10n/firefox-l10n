@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Paveikslo URL:">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Surinkite paveikslo vardą arba nurodykite jo vietą">
+
 <!ENTITY title.label "Paaiškinančioji etiketė:">
 <!ENTITY title.accessKey "e">
 <!ENTITY title.tooltip "Į HTML požymį „title“ įrašytas tekstas vaizduojamas kaip paveikslą paaiškinanti etiketė">

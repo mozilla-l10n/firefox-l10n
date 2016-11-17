@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Vardas:">
 <!ENTITY acctName.accesskey       "V">
 
+
 <!ENTITY back.label               "&lt; Atgal">
 <!ENTITY forward.label            "Toliau &gt;">
 <!ENTITY finish.label             "Baigti">

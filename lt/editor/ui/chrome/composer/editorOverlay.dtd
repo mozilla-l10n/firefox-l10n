@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "Intarpai">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Saitas…">
-<!ENTITY insertLinkCmd.accesskey "S">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Saitas…">
+<!ENTITY insertLinkCmd2.accesskey "S">
+
 <!ENTITY insertAnchorCmd.label "Žymė…">
 <!ENTITY insertAnchorCmd.accesskey "Ž">
 <!ENTITY insertImageCmd.label "Paveikslas…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "F">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Pašalinti žymes">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ž">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Pastraipa">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Pastraipa">  
+<!ENTITY paragraphParagraphCmd.label "Pastraipa">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Antraštė 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Pašalinti">
 <!ENTITY tableDeleteMenu.accesskey "š">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

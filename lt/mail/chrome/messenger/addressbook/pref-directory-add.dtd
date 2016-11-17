@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Katalogų serverio savybės">
 <!ENTITY directoryName.label               "Katalogo vardas: ">
 <!ENTITY directoryName.accesskey           "K">
 <!ENTITY directoryHostname.label           "Serverio vardas: ">
