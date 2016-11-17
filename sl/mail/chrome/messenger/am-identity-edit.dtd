@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kopije in mape">
 <!ENTITY addressingTab.label    "Sestavljanje in naslavljanje">
 
+<!ENTITY publicData.label        "Javni podatki">
+<!ENTITY privateData.label       "Zasebni podatki">
+<!ENTITY identityAlias.label     "Oznaka identitete:">
+<!ENTITY identityAlias.accesskey "O">

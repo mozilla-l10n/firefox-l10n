@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Omogočeno">
 <!ENTITY newButton.label "Nov …">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Kopiraj …">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Uredi …">
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Izbriši">

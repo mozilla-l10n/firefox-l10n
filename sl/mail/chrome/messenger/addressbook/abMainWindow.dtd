@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Lastnosti">
+<!ENTITY propertiesMenu.accesskey                       "L">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Lastnosti imenika">
+<!ENTITY abPropertiesMenu.accesskey                     "m">
+<!ENTITY contactPropertiesMenu.label                    "Lastnosti stika">
+<!ENTITY contactPropertiesMenu.accesskey                "s">
+<!ENTITY mailingListPropertiesMenu.label                "Lastnosti dopisnega seznama">
+<!ENTITY mailingListPropertiesMenu.accesskey            "d">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Pogled">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "s">
 <!ENTITY newlistButton.label                            "Nov seznam">
 <!ENTITY newlistButton.accesskey                        "e">
+<!ENTITY editPropertiesButton.label                     "Uredi">
+<!ENTITY propertiesContext.label                        "Lastnosti">
+<!ENTITY propertiesContext.accesskey                    "L">
+<!ENTITY abPropertiesContext.label                      "Lastnosti">
+<!ENTITY abPropertiesContext.accesskey                  "L">
+<!ENTITY editContactContext.label                       "Uredi stik">
+<!ENTITY editContactContext.accesskey                   "s">
+<!ENTITY editMailingListContext.label                   "Uredi seznam">
+<!ENTITY editMailingListContext.accesskey               "e">
 <!ENTITY newmsgButton.label                             "Sestavi">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Neposredno sporočilo">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Ustvari nov stik v imeniku">
 <!ENTITY newlistButton.tooltip                          "Ustvari nov seznam">
+<!ENTITY editPropertiesButton.tooltip                   "Uredi izbrani predmet">
+<!ENTITY editAbPropertiesButton.tooltip                 "Uredi lastnosti izbranega imenika">
+<!ENTITY editContactPropertiesButton.tooltip            "Uredi izbrani stik">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Uredi izbrani dopisni seznam">
 <!ENTITY newmsgButton.tooltip                           "Pošlji poštno sporočilo">
 <!ENTITY newIM.tooltip                                  "Pošlji neposredno sporočilo ali klepetaj">
 <!ENTITY deleteButton2.tooltip                          "Izbriši izbrani predmet">
