@@ -22,8 +22,8 @@
 
 <!ENTITY insertMenu.label "Invoeg">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Skakel…">
-<!ENTITY insertLinkCmd.accesskey "S">
+<!ENTITY insertLinkCmd2.label "Skakel…">
+<!ENTITY insertLinkCmd2.accesskey "S">
 
 <!ENTITY insertAnchorCmd.label "Benoemde anker…">
 <!ENTITY insertAnchorCmd.accesskey "a">
@@ -134,14 +134,14 @@
 <!ENTITY tableOrCellColor.accesskey "a">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "Verwyder genoemde ankers">
 <!ENTITY formatRemoveNamedAnchors.accesskey "V">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraaf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraaf">  
+<!ENTITY paragraphParagraphCmd.label "Paragraaf">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Kop 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -262,7 +262,7 @@
 <!ENTITY tableCellAfter.accesskey "n">
 <!-- Delete SubMenu -->
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

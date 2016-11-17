@@ -6,6 +6,7 @@
 
 
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Lêer">
 <!ENTITY fileMenu.accesskey                             "L">
 <!ENTITY newMenu.label                                  "Nuwe">
@@ -78,6 +79,12 @@
 
 
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Bekyk">
@@ -132,8 +139,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nuwe lys">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Eienskappe">
-<!ENTITY editButton2.accesskey                          "E">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Skryf">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Kitsboodskappe">
@@ -146,7 +160,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Skep 'n nuwe adresboekkennis">
 <!ENTITY newlistButton.tooltip                          "Skep nuwe lys">
-<!ENTITY editButton2.tooltip                            "Redigeer die gemerkte item">
+<!ENTITY editPropertiesButton.tooltip                   "Redigeer die gemerkte item">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Stuur 'n posboodskap">
 <!ENTITY newIM.tooltip                                  "Stuur 'n kitsboodskap of klets">
 <!ENTITY deleteButton2.tooltip                          "Skrap gemerkte item">

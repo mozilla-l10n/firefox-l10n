@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Voer opsies, rekeningopstelling, adresboek, filters en ander data van:">
 <!ENTITY importFromNonWin.label         "Voer voorkeure, rekeningopstelling, adresboek, filters en ander data van:">
 
+
 <!ENTITY importFromNothing.label        "Moenie enigiets invoer nie">
 <!ENTITY importFromNothing.accesskey    "M">
 
