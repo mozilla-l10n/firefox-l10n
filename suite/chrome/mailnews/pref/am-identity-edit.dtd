@@ -12,3 +12,5 @@
 <!ENTITY copiesFoldersTab.label "Kopie a složky">
 <!ENTITY addressingTab.label    "Vytváření zpráv a adresování">
 
+<!ENTITY publicData.label        "Veřejná data">
+<!ENTITY privateData.label       "Důvěrná data">
