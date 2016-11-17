@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Karned chomlec'hioù:">
 <!ENTITY addressbookPicker.accesskey        "K">
-<!ENTITY searchInput.label                  "Klask :">
-<!ENTITY searchInput.accesskey              "l">
+
+
 <!ENTITY SearchNameOrEmail.label            "Enderc'hel a ra an anv pe ar postel :">
 
-<!ENTITY deleteAddrBookCard.label           "Dilemel">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "Perzhioù">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Ouzhpennañ d'ar vaezienn Da">
 <!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Ouzhpennañ d'ar vaezienn Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Ouzhpennañ d'ar vaezienn Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Dilemel">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+
+
+
+
+
+
+
+
 
 <!ENTITY toButton.label                     "Ouzhpennañ Da:">
 <!ENTITY toButton.accesskey                 "D">

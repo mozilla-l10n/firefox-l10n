@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "A">
 <!ENTITY manageDevices.label "Trevnad diogelroez">
 <!ENTITY manageDevices.accesskey "o">
+<!-- Strings for the cert picker dialog -->
+
+

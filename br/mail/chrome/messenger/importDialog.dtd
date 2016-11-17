@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Anv :">
 <!ENTITY acctName.accesskey       "A">
 
+
 <!ENTITY back.label               "&lt; Kent">
 <!ENTITY forward.label            "War-lerc'h &gt;">
 <!ENTITY finish.label             "Echuiñ">

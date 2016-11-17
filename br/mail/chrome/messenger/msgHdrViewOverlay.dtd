@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Da">
 <!ENTITY fromField4.label "A-berzh">
 <!ENTITY senderField4.label "Kaser">
+
 <!ENTITY organizationField4.label "Aozadur">
 <!ENTITY replyToField4.label "Respont da">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Diellaouiñ">
 <!ENTITY hdrArchiveButton1.tooltip "Diellaouiñ ar gemennadenn-mañ">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Respont speredek">
 <!ENTITY hdrReplyButton1.label "Respont">
 <!ENTITY hdrReplyButton2.tooltip "Respont da gaser ar gemennadenn-mañ">

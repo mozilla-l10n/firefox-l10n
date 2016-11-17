@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Ouzhpennañ">
 <!ENTITY button.addFeed.accesskey    "O">
-<!ENTITY button.editFeed.label       "Embann">
-<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.updateFeed.label     "Embann">
+<!ENTITY button.updateFeed.accesskey "E">
 <!ENTITY button.removeFeed.label     "Dilemel">
 <!ENTITY button.removeFeed.accesskey "D">
 <!ENTITY button.importOPML.label     "Enporzhiañ">

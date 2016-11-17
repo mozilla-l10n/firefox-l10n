@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "P'en em gav kemennadennoù nevez :">
 <!ENTITY playSound.label                  "Seniñ ur son">
-<!ENTITY playSound1.accesskey              "s">
+<!ENTITY playSound1.accesskey             "s">
+
+
 <!ENTITY showAnimatedAlert.label          "Diskouez ur c'hemenn evezhiañ">
 <!ENTITY showAnimatedAlert.accesskey      "s">
+
 <!ENTITY customizeMailAlert.label         "Personelaat…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Lenn">
 <!ENTITY play.accesskey                   "e">
 <!ENTITY systemsound.label                "Son ar reizhiad dre ziouer evit ur postel nevez">
-<!ENTITY systemsoundMac.label             "Son evezhiañ ar reizhiad ">
-<!ENTITY systemsoundMac.accesskey         "r">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Ober gant ar restr son da heul">
 <!ENTITY customsound.accesskey            "u">

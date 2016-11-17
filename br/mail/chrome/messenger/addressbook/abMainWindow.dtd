@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "N'eo diskouezet an darempredoù er c'harned-mañ nemet pa vez klasket">
 <!ENTITY localResultsOnlyMessage.label                  "Ne vo ket diskouezet an darempredoù o tont eus karnedoù chomlec'hioù a-bell a-raok ma vefe klasket">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Restr">
 <!ENTITY fileMenu.accesskey                             "R">
 <!ENTITY newMenu.label                                  "Nevez">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Perzhioù">
-<!ENTITY propertiesCmd2.accesskey                       "P">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Gwelout">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Roll nevez">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Perzhioù">
-<!ENTITY editButton2.accesskey                          "P">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Skrivañ">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Kemennadenn brim">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Krouiñ un darempred nevez">
 <!ENTITY newlistButton.tooltip                          "Krouiñ ur roll nevez">
-<!ENTITY editButton2.tooltip                            "Embann an elfenn diuzet">
+<!ENTITY editPropertiesButton.tooltip                   "Embann an elfenn diuzet">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Kas ur postel">
 <!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
 <!ENTITY deleteButton2.tooltip                          "Dilemel an elfenn diuzet">
