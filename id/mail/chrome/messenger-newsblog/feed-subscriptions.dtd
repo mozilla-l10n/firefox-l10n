@@ -28,8 +28,8 @@
 
 <!ENTITY button.addFeed.label        "Tambah">
 <!ENTITY button.addFeed.accesskey    "T">
-<!ENTITY button.editFeed.label       "Ubah">
-<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.updateFeed.label     "Ubah">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Hapus">
 <!ENTITY button.removeFeed.accesskey "H">
 <!ENTITY button.importOPML.label     "Impor">

@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Lokasi Gambar:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Masukkan nama berkas atau lokasi gambar">
+
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "Atribut 'title' pada HTML untuk ditampilkan sebagai tooltip">

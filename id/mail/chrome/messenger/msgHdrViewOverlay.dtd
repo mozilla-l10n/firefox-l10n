@@ -6,6 +6,7 @@
 
 
 
+
 <!ENTITY subjectField4.label "Subjek">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
@@ -21,6 +22,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arsipkan">
 <!ENTITY hdrArchiveButton1.tooltip "Arsipkan pesan ini">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Balasan pintar">
 <!ENTITY hdrReplyButton1.label "Balas">
 

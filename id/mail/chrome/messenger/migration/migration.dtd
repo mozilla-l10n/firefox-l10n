@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
 <!ENTITY importFromNonWin.label         "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
 
+
 <!ENTITY importFromNothing.label        "Jangan impor apa pun">
 <!ENTITY importFromNothing.accesskey    "J">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 atau lebih baru">
