@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Rebutja la invitació a la cita">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Rebutja-ho tot">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Rebutja la invitació a la cita de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Rebutja">
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Suprimeix">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Suprimeix del calendari">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalls…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Feu clic aquí per veure més opcions">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirma">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envia una reconfirmació a l'organitzador">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Desa'n una còpia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Desa una còpia de la cita al calendari independentment de la resposta a l'organitzador. S'esborrarà la llista d'assistents.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisional">

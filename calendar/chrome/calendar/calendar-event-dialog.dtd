@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; acabat">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Notifica els assistents">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Invitació separada per a cada assistent">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "n">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aquesta opció envia un missatge d'invitació per assistent. Cada invitació conté l'assistent com a únic destinatari, de forma que els assistents no veuen la identitat els uns dels altres.">
+<!ENTITY event.attendees.notify.label                "Notifica els assistents">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Invitació separada per a cada assistent">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "n">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Aquesta opció envia un missatge d'invitació per assistent. Cada invitació conté l'assistent com a únic destinatari, de forma que els assistents no veuen la identitat els uns dels altres.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Canvia la prioritat">
 <!ENTITY  event.toolbar.status.tooltip                    "Canvia l'estat">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Canvia la disponibilitat (lliure/ocupat)">
+<!-- Counter box -->
+
+<!ENTITY counter.button.proposal.label                    "Aplica la proposta">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Aplica la proposta al formulari.">
+<!ENTITY counter.button.original.label                    "Aplica les dades originals">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Aplica les dades originals al formulari.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Títol:" >
