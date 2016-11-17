@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "مُفعّل">
 <!ENTITY newButton.label "جديد…">
 <!ENTITY newButton.accesskey "ج">
+
+
 <!ENTITY editButton.label "حرر…">
 <!ENTITY editButton.accesskey "ح">
 <!ENTITY deleteButton.label "احذف">

@@ -27,9 +27,9 @@
 
 <!ENTITY insertMenu.label "أدرج">
 <!ENTITY insertMenu.accesskey "د">
-<!ENTITY insertLinkCmd.label "رابط…">
-<!ENTITY insertLinkCmd.accesskey "ر">
-<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertLinkCmd2.label "رابط…">
+<!ENTITY insertLinkCmd2.accesskey "ر">
+
 <!ENTITY insertAnchorCmd.label "مربط مسمّى…">
 <!ENTITY insertAnchorCmd.accesskey "ر">
 <!ENTITY insertImageCmd.label "صورة…">
@@ -140,14 +140,14 @@
 <!ENTITY tableOrCellColor.accesskey "خ">
 
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY formatRemoveLinks.key "K">
+
 <!ENTITY formatRemoveNamedAnchors.label "أزل المرابط المسماة">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ز">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "فقرة">
 <!ENTITY paragraphMenu.accesskey "ة">
-<!ENTITY paragraphParagraphCmd.label "فقرة">  
+<!ENTITY paragraphParagraphCmd.label "فقرة">
 <!ENTITY paragraphParagraphCmd.accesskey "ف">
 <!ENTITY heading1Cmd.label "رأس 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -269,7 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "احذف">
 <!ENTITY tableDeleteMenu.accesskey "ح">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

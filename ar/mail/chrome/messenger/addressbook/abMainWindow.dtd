@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا المتراسلين إلا بعد البحث">
 <!ENTITY localResultsOnlyMessage.label                  "المتراسلين من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "ملف">
 <!ENTITY fileMenu.accesskey                             "م">
 <!ENTITY newMenu.label                                  "جديد">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "الخصائص">
-<!ENTITY propertiesCmd2.accesskey                       "خ">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "اعرض">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "ج">
 <!ENTITY newlistButton.label                            "قائمة جديدة">
 <!ENTITY newlistButton.accesskey                        "ق">
-<!ENTITY editButton2.label                              "الخصائص">
-<!ENTITY editButton2.accesskey                          "خ">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "اكتب">
 <!ENTITY newmsgButton.accesskey                         "ك">
 <!ENTITY newIM.label                                    "رسالة فورية">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "أنشئ متراسل جديد في دفتر العناوين">
 <!ENTITY newlistButton.tooltip                          "أنشئ قائمة جديدة">
-<!ENTITY editButton2.tooltip                            "حرّر العنصر المُختار">
+<!ENTITY editPropertiesButton.tooltip                   "حرّر العنصر المُختار">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "أرسِل رسالة بريد">
 <!ENTITY newIM.tooltip                                  "أرسِل رسالة فورية أو دردشة">
 <!ENTITY deleteButton2.tooltip                          "احذف العنصر المُختار">

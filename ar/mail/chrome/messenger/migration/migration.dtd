@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "استورد الخيارات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
 <!ENTITY importFromNonWin.label         "استورد التفضيلات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
 
+
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "س">
 <!ENTITY importFromSeamonkey3.label     "سي‌منكي 2 أو أحدث">

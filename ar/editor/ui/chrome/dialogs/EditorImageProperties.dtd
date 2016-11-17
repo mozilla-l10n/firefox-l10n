@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "مكان الصورة:">
 <!ENTITY locationEditField.accessKey "م">
 <!ENTITY locationEditField.tooltip "اكتب مكان أو اسم ملف الصورة">
+
 <!ENTITY title.label "تلميحة:">
 <!ENTITY title.accessKey "ت">
 <!ENTITY title.tooltip "صفة ‪html 'title'‬ التي ستعرض كتلميحة">
