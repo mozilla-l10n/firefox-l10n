@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; dopołne">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Wobźělniki informěrowaś">
-<!ENTITY event.attendees.notify.accesskey           "l">
-<!ENTITY event.attendees.notifyundisclosed.label    "Źělone pśepšosenje na wobźělnika">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "l">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Toś to nastajenje sćelo jadnu pśepšoseńsku mejlku na wobźělnika. Kužde pśepšosenje wopśimujo jano dostawajucego wobźělnika, tak až druge identity wobźělnikow se njepśeraźuju.">
+<!ENTITY event.attendees.notify.label                "Wobźělniki informěrowaś">
+<!ENTITY event.attendees.notify.accesskey            "l">
+<!ENTITY event.attendees.notifyundisclosed.label     "Źělone pśepšosenje na wobźělnika">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "l">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Toś to nastajenje sćelo jadnu pśepšoseńsku mejlku na wobźělnika. Kužde pśepšosenje wopśimujo jano dostawajucego wobźělnika, tak až druge identity wobźělnikow se njepśeraźuju.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Prioritu změniś">
 <!ENTITY  event.toolbar.status.tooltip                    "Status změniś">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Wólny/zabrany cas změniś">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Titel:" >

@@ -46,10 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Pśepšosenje na tšojenje za wšykne wustupowanja tšojenja akceptěrowaś">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Pśidaś">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Tšojenje kalenderoju pśidaś">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Wótpokazaś">
+
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Pśepšosenje na tšojenje wótpokazaś">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Wšykne wótpokazaś">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Pśepšosenje na tšojenje za wšykne wustupowanja tšojenja wótpokazaś">
+
+
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Wulašowaś">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Z kalendera wulašowaś">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Drobnostki…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikniśo, aby dalšne nastajenja pokazał">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znowego wobkšuśiś">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sćelo nowe wobkšuśenje na organizatora">
+
+
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Kopiju składowaś">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Składujśo kopiju tšojenja do kalendera, njewótwisnje wót wótegrona na organizatora. Lisćina wobźělnikow se wulašujo.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Nachylu">
