@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY addressbookPicker.label            "Helbide-liburua:">
 <!ENTITY addressbookPicker.accesskey        "H">
-<!ENTITY searchInput.label                  "Bilatu hau:">
-<!ENTITY searchInput.accesskey              "B">
+
+
 <!ENTITY SearchNameOrEmail.label            "Izena edo helbide elektronikoa">
 
-<!ENTITY deleteAddrBookCard.label           "Ezabatu">
-<!ENTITY deleteAddrBookCard.accesskey       "E">
-<!ENTITY addrBookCardProperties.label       "Propietateak">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Gehitu Nori eremura">
 <!ENTITY addtoToFieldMenu.accesskey         "G">
 <!ENTITY addtoCcFieldMenu.label             "Gehitu Cc eremura">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Gehitu Bcc eremura">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Ezabatu">
+<!ENTITY deleteAddrBookCard.accesskey       "E">
+
+
+
+
+
+
+
+
 
 <!ENTITY toButton.label                     "Gehitu Nori eremura:">
 <!ENTITY toButton.accesskey                 "N">

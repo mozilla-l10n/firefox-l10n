@@ -16,9 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Mezu berri bat iristerakoan:">
 <!ENTITY playSound.label                  "Erreproduzitu soinua">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+
+
 <!ENTITY showAnimatedAlert.label          "Erakutsi abisua">
 <!ENTITY showAnimatedAlert.accesskey      "s">
+
 <!ENTITY customizeMailAlert.label         "Pertsonalizatu…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Erreproduzitu">
 <!ENTITY play.accesskey                   "p">
 <!ENTITY systemsound.label                "Lehenetsitako sistema-soinua posta berriarentzat">
-<!ENTITY systemsoundMac.label             "Sistemaren alerta-soinua">
-<!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "i">
 <!ENTITY customsound.label                "Erabili hurrengo soinu-fitxategia">
 <!ENTITY customsound.accesskey            "u">

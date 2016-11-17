@@ -4,9 +4,12 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
-<!ENTITY identityTitle.label "Identitate-ezarpenak">
 <!ENTITY identityListDesc.label "Konfiguratu identitate honen ezarpenak:">
 
 <!ENTITY settingsTab.label       "Ezarpenak">
 <!ENTITY copiesFoldersTab.label "Kopiak eta karpetak">
 <!ENTITY addressingTab.label    "Mezuak prestatzea eta helbideratzea">
+
+
+
+

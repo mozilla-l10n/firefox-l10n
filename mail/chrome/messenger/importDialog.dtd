@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Izena:">
 <!ENTITY acctName.accesskey       "I">
 
+
 <!ENTITY back.label               "&lt; Aurrekoa">
 <!ENTITY forward.label            "Hurrengoa &gt;">
 <!ENTITY finish.label             "Amaitu">
