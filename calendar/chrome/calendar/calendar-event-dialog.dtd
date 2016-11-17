@@ -28,15 +28,19 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "٪ مكتمل">
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "أعلم الحضور">
-<!ENTITY event.attendees.notify.accesskey           "ح">
-<!ENTITY event.attendees.notifyundisclosed.label    "دعوة منفصلة لكل حاضر">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "ع">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
+<!ENTITY event.attendees.notify.label                "أعلم الحضور">
+<!ENTITY event.attendees.notify.accesskey            "ح">
+<!ENTITY event.attendees.notifyundisclosed.label     "دعوة منفصلة لكل حاضر">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "ع">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
+
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,12 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "غيّر الأولوية">
 <!ENTITY  event.toolbar.status.tooltip                    "غيّر الحالة">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "غيّر وقت متفرغ\مشغول ">
+<!-- Counter box -->
+
+
+
+
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "الاسم:" >
