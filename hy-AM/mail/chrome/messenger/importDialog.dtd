@@ -39,6 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Անունը.">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Նախորդը">
 <!ENTITY forward.label            "Առաջ &gt;">
 <!ENTITY finish.label             "Ավարտել">

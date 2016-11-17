@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title          "&brandFullName;-ի մասին">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "Ս">
 <!ENTITY update.updateButton.label2               "Թարմացնելու համար վերամեկնարկեք &brandShortName;-ը">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Կիրառել թարմացումը…">
-<!ENTITY update.applyButtonBillboard.accesskey    "Կ">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -43,6 +41,7 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "միացեք մեր համայնքին:">
 <!ENTITY helpus.end                 "">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Արտոնագրի մասին">
