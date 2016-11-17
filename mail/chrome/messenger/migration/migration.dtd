@@ -8,6 +8,7 @@
 <!ENTITY importFromWin.label            "Ion-phortaich roghainnean, roghainnean cunntais, leabhar nan seòlaidh, criathragan is dàta eile o:">
 <!ENTITY importFromNonWin.label         "Ion-phortaich roghainnean, roghainnean cunntais, leabhar nan seòlaidh, criathragan is dàta eile o:">
 
+
 <!ENTITY importFromNothing.label        "Na ion-phortaich rud sam bith">
 <!ENTITY importFromNothing.accesskey    "d">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 no nas ùire">

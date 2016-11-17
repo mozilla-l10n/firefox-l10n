@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Cha seall an leabhar-sheòlaidhean seo luchd-aithne ach an dèidh thu lorg a dhèanamh">
 <!ENTITY localResultsOnlyMessage.label                  "Cha dèid luchd-aithne o leabhraichean-sheòlaidhean cèin a shealltainn gus an dèan thu lorg">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Faidhle">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ùr">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Roghainnean">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Sealladh">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Liosta ùr">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Roghainnean">
-<!ENTITY editButton2.accesskey                          "R">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Sgrìobh">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Grad-theachdaireachd">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
 <!ENTITY newlistButton.tooltip                          "Cruthaich liosta ùr">
-<!ENTITY editButton2.tooltip                            "Deasaich an rud a thagh thu">
+<!ENTITY editPropertiesButton.tooltip                   "Deasaich an rud a thagh thu">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
 <!ENTITY deleteButton2.tooltip                          "Sguab às an rud a thagh thu">
