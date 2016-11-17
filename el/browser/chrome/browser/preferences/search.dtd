@@ -4,17 +4,22 @@
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλογή της προεπιλεγμένης μηχανής αναζήτησης. Ο &brandShortName; την χρησιμοποιεί στην μπάρα διευθύνσεων, την μπάρα αναζήτησης και την αρχική σελίδα.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης. Το &brandShortName; τη χρησιμοποιεί στη γραμμή διευθύνσεων, τη γραμμή αναζήτησης και την αρχική σελίδα.">
 
-<!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτηση">
+<!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτησης">
+<!ENTITY provideSearchSuggestions.accesskey    "Π">
+
+<!ENTITY showURLBarSuggestions.label           "Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων">
 
 
 
+<!ENTITY chooseWhichOneToDisplay.label         "Η γραμμή αναζήτησης σάς επιτρέπει την άμεση αναζήτηση σε εναλλακτικές μηχανές. Επιλέξτε ποιες θα εμφανίζονται.">
 
+<!ENTITY engineNameColumn.label                "Μηχανή αναζήτησης">
+<!ENTITY engineKeywordColumn.label             "Λέξη-κλειδί">
 
-<!ENTITY engineNameColumn.label                "Μηχανή Αναζήτησης">
-<!ENTITY engineKeywordColumn.label             "Λέξη Κλειδί">
-
+<!ENTITY restoreDefaultSearchEngines.label     "Επαναφορά προεπιλεγμένων μηχανών αναζήτησης">
 
 <!ENTITY removeEngine.label                    "Αφαίρεση">
 
+<!ENTITY addMoreSearchEngines.label            "Προσθήκη περισσότερων μηχανών αναζήτησης…">
