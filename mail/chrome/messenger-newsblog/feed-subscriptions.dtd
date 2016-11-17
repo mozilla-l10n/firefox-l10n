@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Pridėti">
 <!ENTITY button.addFeed.accesskey    "P">
-<!ENTITY button.editFeed.label       "Tvarkyti">
-<!ENTITY button.editFeed.accesskey   "v">
+<!ENTITY button.updateFeed.label     "Tvarkyti">
+<!ENTITY button.updateFeed.accesskey "v">
 <!ENTITY button.removeFeed.label     "Pašalinti">
 <!ENTITY button.removeFeed.accesskey "š">
 <!ENTITY button.importOPML.label     "Importuoti">

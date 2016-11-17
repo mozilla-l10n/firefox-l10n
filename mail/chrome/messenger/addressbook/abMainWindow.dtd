@@ -6,6 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label                  "Adresatai iš šios adresų knygos rodomi tik po paieškos">
 <!ENTITY localResultsOnlyMessage.label                  "Adresatai iš nutolusių adresų knygų rodomi tik po paieškos">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Failas">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Naujas">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Savybės">
-<!ENTITY propertiesCmd2.accesskey                       "S">
+
+
 <!ENTITY propertiesCmd.key                              "i">
+
+
+
+
+
+
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Rodymas">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
-<!ENTITY editButton2.label                              "Savybės">
-<!ENTITY editButton2.accesskey                          "S">
+
+
+
+
+
+
+
+
+
 <!ENTITY newmsgButton.label                             "Laiškas">
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Žinutė">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Sukurti naują adresatą">
 <!ENTITY newlistButton.tooltip                          "Sukurti naują adresatų sąrašą">
-<!ENTITY editButton2.tooltip                            "Taisyti pažymėtą elementą">
+<!ENTITY editPropertiesButton.tooltip                   "Taisyti pažymėtą elementą">
+
+
+
 <!ENTITY newmsgButton.tooltip                           "Rašyti elektroninį laišką">
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį">
 <!ENTITY deleteButton2.tooltip                          "Pašalinti pažymėtą elementą">

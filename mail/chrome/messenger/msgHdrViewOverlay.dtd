@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Gavėjas">
 <!ENTITY fromField4.label "Nuo">
 <!ENTITY senderField4.label "Siuntėjas">
+
 <!ENTITY organizationField4.label "Organizacija">
 <!ENTITY replyToField4.label "Atsakymą gaus">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archyvuoti">
 <!ENTITY hdrArchiveButton1.tooltip "Archyvuoti šį laišką">
+
+
 <!ENTITY hdrSmartReplyButton1.label "Atsakyti parenkant gavėjus">
 <!ENTITY hdrReplyButton1.label "Atsakyti">
 <!ENTITY hdrReplyButton2.tooltip "Atsakyti laiško siuntėjui">

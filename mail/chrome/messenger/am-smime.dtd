@@ -30,3 +30,6 @@
 <!ENTITY manageCerts2.accesskey "T">
 <!ENTITY manageDevices.label "Saugumo priemonės">
 <!ENTITY manageDevices.accesskey "a">
+<!-- Strings for the cert picker dialog -->
+
+
