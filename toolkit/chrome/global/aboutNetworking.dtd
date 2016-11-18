@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Повідомлень отримано">
 <!ENTITY aboutNetworking.bytesSent             "Байтів послано">
 <!ENTITY aboutNetworking.bytesReceived         "Байтів отримано">
+<!ENTITY aboutNetworking.logging               "Журналювання">
+<!ENTITY aboutNetworking.logTutorial           "Перегляньте <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP журналювання</a> для інструкцій з використання цього засобу.">
+<!ENTITY aboutNetworking.currentLogFile        "Поточний файл журналу:">
+<!ENTITY aboutNetworking.currentLogModules     "Поточні модулі журналу:">
+<!ENTITY aboutNetworking.setLogFile            "Встановити файл журналу">
+<!ENTITY aboutNetworking.setLogModules         "Встановити модулі журналу">
+<!ENTITY aboutNetworking.startLogging          "Почати журналювання">
+<!ENTITY aboutNetworking.stopLogging           "Зупинити журналювання">
 <!ENTITY aboutNetworking.dnsLookup             "DNS пошук">
 <!ENTITY aboutNetworking.dnsLookupButton       "Вирішити">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
