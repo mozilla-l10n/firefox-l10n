@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Cuireadh an t-aon do gach frithealaiche">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Na ceadaich frith-mholaidhean">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Tha seo a’ comharradh nach gabh thu ri frith-mholaidhean">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -165,6 +165,8 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Atharraich na h-amannan saora/tranga">
 <!-- Counter box -->
 
+<!ENTITY counter.button.proposal.label                    "Cuir am moladh an sàs">
+<!ENTITY counter.button.proposal.accesskey                "m">
 
 
 
