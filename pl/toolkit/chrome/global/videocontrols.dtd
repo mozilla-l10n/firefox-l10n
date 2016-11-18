@@ -32,3 +32,4 @@
 <!ENTITY error.generic "Odtwarzanie wideo przerwane z powodu nieznanego błędu.">
 
 <!ENTITY scrubberScale.nameFormat "Upłynęło #1 z #2">
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
