@@ -143,6 +143,8 @@
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
+
+<!ENTITY debuggerUI.condBreakPanelTitle "निम्न अभिव्यक्ति साँचो हो भने मात्र यो ब्रेकपोइन्ट कार्यान्वयन रोकिनेछ.">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
