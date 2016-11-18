@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Қате.">
 <!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
+<!ENTITY captivePortal.title "Желіге кіру">
+<!ENTITY captivePortal.longDesc "<p>Бұл желі Интернетке қатынау үшін сізден кіруіңізді сұрауы мүмкін.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Кіру парағын ашу">
 
 <!ENTITY malformedURI.title "Адрес пішімі қате">
 <!ENTITY malformedURI.longDesc "<ul> <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li> <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li> </ul>">
