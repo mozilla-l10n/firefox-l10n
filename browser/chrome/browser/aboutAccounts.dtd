@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Ensin conexón">
 <!ENTITY aboutAccounts.noConnection.description "Has tar coneutáu a internet p'aniciar sesión.">
 <!ENTITY aboutAccounts.noConnection.retry "Tentar de nueves">
+<!ENTITY aboutAccounts.badConfig.title "Configuración incorreuta">
+<!ENTITY aboutAccounts.badConfig.description "Nun pue determinase la to configuración del sirvidor de cuentes de Firefox. Volvi tentalo más sero, por favor.">
