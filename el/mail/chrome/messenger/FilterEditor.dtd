@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Κανόνες φίλτρου">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Όνομα φίλτρου:">
 <!ENTITY filterName.accesskey "ν">
 
@@ -17,12 +18,21 @@
 
 <!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
 <!ENTITY contextIncomingMail.label "Λήψη νέας αλληλογραφίας">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Φιλτράρισμα πριν την ταξινόμηση ανεπιθύμητων">
+<!ENTITY contextAfterCls.label "Φιλτράρισμα μετά την ταξινόμηση ανεπιθύμητων">
 <!ENTITY contextOutgoing.label "Μετά την αποστολή">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Αρχειοθέτηση">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
 <!ENTITY filterActionDesc.accesskey "κ">
 
+<!ENTITY filterActionOrderWarning.label "Σημείωση: Το φιλτράρισμα ενεργειών θα εκτελεστεί σε διαφορετική σειρά.">
+<!ENTITY filterActionOrder.label "Προβολή σειράς εκτέλεσης">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Μετακίνηση μηνύματος σε">
@@ -30,6 +40,7 @@
 <!ENTITY forwardTo.label "Προώθηση σε:">
 <!ENTITY replyWithTemplate.label "Απάντηση με πρότυπο:">
 <!ENTITY markMessageRead.label "Σημείωση ως αναγνωσμένο">
+<!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY markMessageStarred.label "Προσθήκη αστεριού">
 <!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">
 <!ENTITY addTag.label "Ετικέτα στο μήνυμα">
@@ -43,9 +54,13 @@
 <!ENTITY stopExecution.label "Διακοπή εκτέλεσης φίλτρου">
 
 <!ENTITY addAction.tooltip "Προσθήκη νέας ενέργειας">
+<!ENTITY removeAction.tooltip "Αφαίρεση ενέργειας">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
