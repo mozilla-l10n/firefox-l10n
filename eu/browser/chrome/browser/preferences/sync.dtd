@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Gehigarriak">
 <!ENTITY engine.addons.accesskey    "G">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Gailuaren izena:">
 <!ENTITY fxaSyncDeviceName.label       "Gailuaren izena">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Aldatu gailuaren izena…">
+<!ENTITY changeSyncDeviceName.accesskey "d">
+<!ENTITY cancelChangeSyncDeviceName.label "Utzi">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "U">
+<!ENTITY saveChangeSyncDeviceName.label "Gorde">
+<!ENTITY saveChangeSyncDeviceName.accesskey "G">
 <!ENTITY unlinkDevice.label           "Deslotu gailu hau">
 <!-- Footer stuff -->
 
