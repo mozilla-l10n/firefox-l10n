@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Fluxo d\u0027actividat">
-
+<!ENTITY pref_activity_stream_summary "Un alimentador d\u0027historial visual rico y una pachina d\u0027inicio reimachinada fan mas facil que trobes ixo que yes mirando en &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora con Protección contra Seguimiento">
 <!ENTITY tracking_protection_prompt_text "Blocar activament os elementos que faigan seguimiento de manera que no t\u0027has de preocupar.">
@@ -398,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Pestanyas sincronizadas">
 
 <!ENTITY pref_default_browser "Fer lo navegador por defecto">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar lo soporte tecnico de Mozilla">
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Ninviar comentarios">
@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_copy "Copiar">
 
+<!ENTITY home_top_sites_title "Mas visitaus">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Anyader un puesto">
@@ -586,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
 <!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
-
+<!ENTITY home_closed_tabs_title2 "Pestanyas tancadas recientement">
 <!ENTITY home_last_tabs_empty "As suyas pestanyas recients s\u0027amostrarán aquí.">
-
-
+<!ENTITY home_restore_all "Restaurar las pestanyas">
+<!ENTITY home_closed_tabs_number "&formatD; pestanyas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 pestanya">
 <!ENTITY home_most_recent_empty "Os puestos web que ha visitau en zagueras s\u0027amostrarán aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -826,12 +828,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Elementos de Bookmark Reader View pa leyer difuera de linia.">
 <!ENTITY helper_triple_readerview_open_button "Adhibir en os marcapachinas">
 
-
+<!ENTITY activity_stream_topsites "Mas visitaus">
+<!ENTITY activity_stream_highlights "Resaltaus">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Anyadiu a los marcapachinas">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Visitau">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "Descartar">
+<!ENTITY activity_stream_delete_history "Borrar de l\u0027historial">
