@@ -13,9 +13,11 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
+<!ENTITY tabCrashed.header2 "Monuar! Tá do chluaisín go díreach tar éis tuairteáil.">
+<!ENTITY tabCrashed.offerHelp "Táimid in ann cuidiú leat!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; chun ábhar an leathanaigh a athluchtú.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; nó &tabCrashed.restoreAll; chun ábhar an leathanaigh a athluchtú.">
+<!ENTITY tabCrashed.requestHelp "An mbeifeá sásta cabhrú linne?">
 
 
 
