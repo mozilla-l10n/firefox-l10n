@@ -16,6 +16,8 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1   "पुनःलोड गर्नुहोस्">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice2   "पृष्ठ डिबग गर्न सक्षम हुन &lt;canvas&gt; प्रसङ्गहरू।">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
