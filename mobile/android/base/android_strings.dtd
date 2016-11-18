@@ -7,14 +7,14 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
 <!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझाव सर्टकटहरू प्रयोग गरि सामाग्रीहरू छिटो पत्ता लगाउनुहोस् .">
 <!ENTITY firstrun_bookmarks_title "इतिहास ">
-<!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र">
-<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
-<!ENTITY firstrun_data_title "डाटा">
-<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
-<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
-<!ENTITY firstrun_sync_title "सिङ्क">
-<!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
-<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
+<!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र.">
+<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस। ">
+<!ENTITY firstrun_data_title "डेटा">
+<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत ">
+<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
+<!ENTITY firstrun_sync_title "समक्रमण">
+<!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा ">
+<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
 <!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस">
