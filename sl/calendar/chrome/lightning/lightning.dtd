@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Zavrni povabilo k dogodku">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Zavrni vse">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Zavrni povabila k dogodku za vse ponovitve dogodka">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Odkloni">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Odkloni nadomestni predlog">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Izbriši">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Izbriši iz koledarja">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za več možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potrdi">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošlje ponovno potrditev organizatorju">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Prestavi">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Prestavi dogodek">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Shrani kopijo">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Shrani kopijo dogodka v koledar neodvisno od odgovora organizatorju. Seznam udeležencev bo izbrisan.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Neodločeno">
