@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mensaxes recibíos">
 <!ENTITY aboutNetworking.bytesSent             "Bytes unviaos">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recibíos">
+<!ENTITY aboutNetworking.logging               "Rexistru">
+<!ENTITY aboutNetworking.logTutorial           "Mira <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Rexistru HTTP</a> pa instrucciones sobro cómo usar esta ferramienta.">
+<!ENTITY aboutNetworking.currentLogFile        "Ficheru de rexistru actual:">
+<!ENTITY aboutNetworking.currentLogModules     "Módulos de rexistru actuales:">
+<!ENTITY aboutNetworking.setLogFile            "Afitar ficheru de rexistru">
+<!ENTITY aboutNetworking.setLogModules         "Afitar módulos de rexistru">
+<!ENTITY aboutNetworking.startLogging          "Aniciar rexistru">
+<!ENTITY aboutNetworking.stopLogging           "Parar rexistru">
 <!ENTITY aboutNetworking.dnsLookup             "Gueta de DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominiu">
