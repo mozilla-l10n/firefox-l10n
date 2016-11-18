@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "जोडणी नाही ">
 <!ENTITY aboutAccounts.noConnection.description "साईन-इन करण्यासाठी आपले इंटरनेट चालू असणे आवश्यक आहे. ">
 <!ENTITY aboutAccounts.noConnection.retry "पुन्हा प्रयत्न करा">
-
-
+<!ENTITY aboutAccounts.badConfig.title "खराब संरचना">
+<!ENTITY aboutAccounts.badConfig.description "आपल्या Firefox खात्याच्या सर्व्हरची संरचना ठरवण्यात अक्षम. कृपया नंतर प्रयत्न करा.">
