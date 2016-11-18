@@ -8,7 +8,7 @@
 <!ENTITY aboutAccountsConfig.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزیدہموار بنانے کے لیے سائن ان کریں۔">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع کریں">
 <!ENTITY aboutAccountsConfig.useOldSync.label "ہم وقت ساز کا پرانا ورژن استعمال کر رہے ہیں؟">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "ترجیحات ہمہ وقت ساز کریں">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY aboutAccounts.noConnection.title "کوئی کنکشن نہیں">
 <!ENTITY aboutAccounts.noConnection.description "سائن ان کرنے لیے ضروری ہے کہ آپ انٹرنیٹ سے جڑیں ہوں۔">
 <!ENTITY aboutAccounts.noConnection.retry "دوبارہ کوشش کریں">
