@@ -72,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Ez duzu saiorik hasi.">
-
-
+<!ENTITY signIn.label                "Hasi saioa">
+<!ENTITY signIn.accesskey            "H">
 <!ENTITY profilePicture.tooltip      "Aldatu profileko argazkia">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Kudeatu kontua">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "Deskonektatu…">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "Egiaztatu helbide elektronikoa">
+<!ENTITY verify.accesskey            "E">
+<!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
+<!ENTITY forget.accesskey            "A">
 
 <!ENTITY welcome.description "Izan zure fitxen, laster-marken, pasahitzen eta gehiagoren sarbidea &brandShortName; erabiltzen duzun toki orotan.">
 <!ENTITY welcome.signIn.label "Hasi saioa">
