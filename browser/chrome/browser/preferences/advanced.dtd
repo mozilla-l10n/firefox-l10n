@@ -36,13 +36,13 @@
 <!ENTITY healthReportLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; tarayıcınızı iyileştirmemize yardımcı olmak için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
-<!ENTITY enableTelemetryData.label       "Ek verileri paylaş (örn. Telemetry)">
+<!ENTITY enableTelemetryData.label       "Ek verileri paylaş (örn. Telemetri)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Daha fazla bilgi al">
 
 <!ENTITY crashReporterDesc2.label         "Çökme raporları, &vendorShortName;’nın sorunları gidermesini, tarayıcınızı daha güvenilir ve güvenli hale getirmesini sağlar">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; geriye dönük çökme raporlarını benim adıma gönderebilir">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "k">
 <!ENTITY crashReporterLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
