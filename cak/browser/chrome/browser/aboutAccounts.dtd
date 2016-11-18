@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Majun okib'äl">
 <!ENTITY aboutAccounts.noConnection.description "Rajowaxik chi atokinäq pa k'amaya'l richin natikirisaj molojri'ïl.">
 <!ENTITY aboutAccounts.noConnection.retry "Tatojtob'ej chik">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Itzel nuk'ulem">
+<!ENTITY aboutAccounts.badConfig.description "Man tikirel ta xilitäj ri runuk'ulem ruk'u'x rusamaj rub'i' rutaqoya'l Firefox. Tab'ana' utzil tatojtob'ej pa jun chik ti mej.">
