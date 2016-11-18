@@ -13,6 +13,8 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Meca, les tos llingüetes ta acabante de cascar.">
+<!ENTITY tabCrashed.offerHelp "¡Podemos ayudate!">
 <!ENTITY tabCrashed.emailPlaceholder "Introduz equí la to direición de corréu">
 <!ENTITY tabCrashed.emailMe "Unviáime un corréu cuando heba más información disponible">
 <!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallos; ¡gracies por ayudar a ameyorar &brandShortName;!">

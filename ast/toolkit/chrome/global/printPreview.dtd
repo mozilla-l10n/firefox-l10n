@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Axustar a la páxina">
 <!ENTITY customPrompt.title   "Escala personalizada…">
 <!ENTITY simplifyPage.label   "Simplificar páxina">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Camudar diseñu pa una llectura más cenciella">
 <!ENTITY simplifyPage.disabled.tooltip "Esta páxina nun pue simplificase automáticamente">
 
