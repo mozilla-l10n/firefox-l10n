@@ -15,12 +15,12 @@
 
 <!ENTITY tabCrashed.header2 "اوپس، زبانه شما خراب شد.">
 <!ENTITY tabCrashed.offerHelp "ما می‌توانیم به شما کمک کنیم!">
-
-
-
-
-
-
+<!ENTITY tabCrashed.single.offerHelpMessage "&tabCrashed.restoreTab; را برای بازآوردن اطلاعات صفحه خود انتخاب کنید.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "&tabCrashed.restoreTab; یا &tabCrashed.restoreAll; برای بازآوری اطلاعات محتویات صفحات خود انتخاب کنید.">
+<!ENTITY tabCrashed.requestHelp "آیا شما به ما کمک خواهید کرد؟">
+<!ENTITY tabCrashed.requestHelpMessage "گزارش خرابی به عیب یابی و بهتر کردن مشکلات و &brandShortName; کمک می کند.">
+<!ENTITY tabCrashed.requestReport "این زبانه را گزارش کنید">
+<!ENTITY tabCrashed.sendReport2 "ارسال یک گزارش خرابی برای زبانه ای که شما مشاهده می کنید.">
 
 
 <!ENTITY tabCrashed.emailPlaceholder "نشانی پست الکترونیکی خود را اینجا وارد کنید">
