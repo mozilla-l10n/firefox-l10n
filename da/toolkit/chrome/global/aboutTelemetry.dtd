@@ -103,6 +103,10 @@ Ping
   Skalarer
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Indtastede skalarer
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammer
 ">
