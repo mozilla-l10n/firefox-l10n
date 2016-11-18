@@ -21,7 +21,7 @@
 <!ENTITY tabCrashed.requestHelpMessage "گزارش خرابی به عیب یابی و بهتر کردن مشکلات و &brandShortName; کمک می کند.">
 <!ENTITY tabCrashed.requestReport "این زبانه را گزارش کنید">
 <!ENTITY tabCrashed.sendReport2 "ارسال یک گزارش خرابی برای زبانه ای که شما مشاهده می کنید.">
-
+<!ENTITY tabCrashed.commentPlaceholder2 "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
 
 <!ENTITY tabCrashed.emailPlaceholder "نشانی پست الکترونیکی خود را اینجا وارد کنید">
 <!ENTITY tabCrashed.emailMe "در صورت در دسترس بودن اطلاعات بیشتر به من نامه‌الکترونیکی ارسال شود.">
