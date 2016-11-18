@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Timeẓliyin">
+<!ENTITY propertiesMenu.accesskey           "T">
 
 
 
@@ -24,10 +26,10 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Kkes">
 <!ENTITY deleteAddrBookCard.accesskey       "K">
-
-
-
-
+<!ENTITY propertiesContext.label            "Timeẓliyin">
+<!ENTITY propertiesContext.accesskey        "T">
+<!ENTITY abPropertiesContext.label          "Timeẓliyin">
+<!ENTITY abPropertiesContext.accesskey      "T">
 
 
 

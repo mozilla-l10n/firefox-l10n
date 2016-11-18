@@ -76,8 +76,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Timeẓliyin">
+<!ENTITY propertiesMenu.accesskey                       "T">
 <!ENTITY propertiesCmd.key                              "i">
 
 
@@ -140,11 +140,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Tabdart tamaynut">
 <!ENTITY newlistButton.accesskey                        "b">
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Ẓreg">
+<!ENTITY propertiesContext.label                        "Timeẓliyin">
+<!ENTITY propertiesContext.accesskey                    "T">
+<!ENTITY abPropertiesContext.label                      "Timeẓliyin">
+<!ENTITY abPropertiesContext.accesskey                  "T">
 
 
 
@@ -163,7 +163,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Rnu tabdart tamaynut">
 <!ENTITY editPropertiesButton.tooltip                   "Ẓreg aferdis ittwafernen">
 
-
+<!ENTITY editContactPropertiesButton.tooltip            "Ẓreg anermis ittwafernen">
 
 <!ENTITY newmsgButton.tooltip                           "Azen izen imayl">
 <!ENTITY newIM.tooltip                                  "Azen izen askudan neɣ n uqesseṛ">

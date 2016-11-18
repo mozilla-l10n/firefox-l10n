@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Ma ad-awḍen iznan imaynuten:">
 <!ENTITY playSound.label                  "Urar imesli">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Urar afaylu n imesli-agi:">
+<!ENTITY playSoundMac.accesskey           "U">
 <!ENTITY showAnimatedAlert.label          "Sken alɣu">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 

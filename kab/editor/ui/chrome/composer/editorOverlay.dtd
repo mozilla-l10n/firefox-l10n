@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Kkes timedyin yettusemman">
 <!ENTITY formatRemoveNamedAnchors.accesskey "K">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
