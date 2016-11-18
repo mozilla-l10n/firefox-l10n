@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Nome del preséu:">
 <!ENTITY fxaSyncDeviceName.label       "Nome del preséu">
 <!ENTITY changeSyncDeviceName.label "Camudar nome del preséu…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Encaboxar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "Desvincular esti preséu.">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nun aniciesti sesión.">
 <!ENTITY signIn.label                "Aniciar sesión">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Camudar semeya de perfil">
 <!ENTITY verifiedManage.label        "Xestionar cuenta">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Desconeutar…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verificar mensaxe">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Escaecer esti corréu">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "Accedi a les tos llingüetes, marcadores, contraseñes y más siempres qu'uses &brandShortName;.">
 <!ENTITY welcome.signIn.label "Aniciar sesión">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.">
 <!ENTITY signedOut.accountBox.title   "Coneutar con una &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear cuenta">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Aniciar sesión">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Sincronizar pente tolos preseos">
 

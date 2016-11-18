@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Conteníu">
 <!ENTITY  paneApplications.title  "Aplicaciones">
 <!ENTITY  panePrivacy.title       "Privacidá">
+<!ENTITY  paneContainers.title    "Llingüetes contenedor">
 <!ENTITY  paneSecurity.title      "Seguranza">
 <!ENTITY  paneAdvanced.title      "Avanzao">
 
