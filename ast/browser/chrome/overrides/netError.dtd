@@ -50,6 +50,13 @@
 <p>&brandShortName; nun pue cargar esta páxina por daqué razón.</p>
 ">
 
+<!ENTITY captivePortal.title "Aniciu de sesión na rede">
+<!ENTITY captivePortal.longDesc "
+<p>Esta rede quiciabes rica'l to aniciu de sesión p'acceder a internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Abrir páxina d'aniciu de sesión">
+
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!ENTITY malformedURI.longDesc "
 <ul>
