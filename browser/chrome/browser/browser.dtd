@@ -227,12 +227,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha blocau la suya camara pa iste puesto web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha blocau lo suyo microfono pa iste puesto web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ha blocau la compartición d'a pantalla en iste puesto web.">
-
-
-
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ha blocau la información de localización pa iste puesto web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha blocau l'almagazenamiento de datos pa iste puesto web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha blocau las notificacions pa iste puesto web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Reiniciar lo nibel de zoom">
 
 <!ENTITY searchItem.title             "Mirar">
 <!-- Toolbar items --> 
@@ -280,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fichero"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Nueva pestanya de contenedor">
+<!ENTITY newUserContext.accesskey         "c">
 <!ENTITY newNavigatorCmd.label        "Nueva finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -391,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Termen a mirar u adreza">
 <!ENTITY urlbar.accesskey             "d">
-
+<!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Quiere amillorar a suya experiencia de busca con sucherencias?">
@@ -456,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar os achustes de busca">
-
+<!ENTITY changeSearchSettings.tooltip "Cambiar los achustes de busca">
 
 <!ENTITY searchInNewTab.label         "Busca en una pestanya nueva">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -475,8 +476,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ubrir a bastida en una finestra nueva">
 <!ENTITY openFrameCmd.accesskey       "a">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Ubrir lo vinclo en a nueva pestanya de &amp;contenedor">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Amostrar nomás ista bastida">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -695,7 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Rematar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
@@ -735,7 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dau garra permiso especial ta iste puesto.">
-
+<!ENTITY identity.permissionsReloadHint "Talment haiga de recargar la pachina pa que s'apliquen los cambios.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
