@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "C">
 <!ENTITY  unpinTab.label                     "Desclavar a pestanya">
 <!ENTITY  unpinTab.accesskey                 "D">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Ninviar la pestanya ta lo dispositivo">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Ninviar la pachina ta lo dispositivo">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Ninviar lo vinclo ta lo dispositivo">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mover ta una finestra nueva">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Anyader todas as pestanyas en marcapachinas…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Amostrar todas as pestanyas">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Connectar-se a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Ubre as preferencias d'o &syncBrand.shortName.label;">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control">
+<!ENTITY pointerlockWarning.generic.label "Iste documento tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control.">
 
 <!ENTITY closeWindow.label "Zarrar a finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -207,23 +207,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Amostrar a información d'o puesto">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ubrir lo panel d'o mensache">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ubrir lo panel de requesta de localización">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ubrir lo panel de mensaches d'instalación de complementos">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ubrir lo panel de mensaches d'almagazenamiento difuera de linia">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ubrir lo panel de mensaches d'alzar claus">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Chestionar l'uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar a opción de recibir notificacions dende iste puesto">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Chestiona a compartición d'a camera u microfono con iste puesto">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Chestiona a compartición d'o microfono con iste puesto">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Chestiona a compartición d'as finestras u a pantalla con iste puesto">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ubrir lo panel de mensaches d'instalación">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir ista pachina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Chestionar la traducción de pachinas">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Chestionar l'uso de software de DRM">
 
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ha blocau la suya camara pa iste puesto web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ha blocau lo suyo microfono pa iste puesto web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ha blocau la compartición d'a pantalla en iste puesto web.">
 
 
 
