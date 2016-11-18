@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "مواد">
 <!ENTITY  paneApplications.title  "ایپلی کیشنیں">
 <!ENTITY  panePrivacy.title       "نجی نوعیت">
-
+<!ENTITY  paneContainers.title    "حامل ٹیبز">
 <!ENTITY  paneSecurity.title      "سلامتی">
 <!ENTITY  paneAdvanced.title      "اعلٰی">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

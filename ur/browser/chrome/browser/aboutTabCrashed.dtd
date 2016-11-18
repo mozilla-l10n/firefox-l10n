@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.requestHelp "کیا آپ ہماری مدد کریں گے؟">
 
 <!ENTITY tabCrashed.requestReport "اس ٹیب کی رپورٹ کریں">
-
+<!ENTITY tabCrashed.sendReport2 "آپ جس ٹیب کا نظارہ کر رہے ہیں اس ٹیب کی تباہ رپورٹ ارسال کریں">
 
 <!ENTITY tabCrashed.includeURL2 "اس تباہ رپورٹ کے ساتھ صفحہ کا URL شامل کریں">
 <!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
