@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Slút ljepblêden oan de rjochterkant">
+<!ENTITY  closeTabsToTheEnd.label            "Ljepblêden oan de rjochterkant slute">
 <!ENTITY  closeTabsToTheEnd.accesskey        "j">
 <!ENTITY  closeOtherTabs.label               "Oare ljepblêden slute">
 <!ENTITY  closeOtherTabs.accesskey           "S">
