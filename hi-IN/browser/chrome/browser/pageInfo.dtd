@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "सामान्य‌‌‌">
 <!ENTITY  generalTab.accesskey  "G‌">
-
+<!ENTITY  generalTitle          "शीर्षक:">
 <!ENTITY  generalURL            "पता‌:">
 <!ENTITY  generalType           "प्रकार‌:">
 <!ENTITY  generalMode           "रेंडर वि‌धि:">
