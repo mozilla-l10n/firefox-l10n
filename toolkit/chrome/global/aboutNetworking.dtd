@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Alınan mesajlar">
 <!ENTITY aboutNetworking.bytesSent             "Gönderilen bayt">
 <!ENTITY aboutNetworking.bytesReceived         "Alınan bayt">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Log kaydı">
+<!ENTITY aboutNetworking.logTutorial           "Bu aracı nasıl kullanabileceğinizi öğrenmek için <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> sayfasına bakın.">
+<!ENTITY aboutNetworking.currentLogFile        "Geçerli log dosyası:">
+<!ENTITY aboutNetworking.currentLogModules     "Geçerli log modülleri:">
+<!ENTITY aboutNetworking.setLogFile            "Log doyasını ayarlar">
+<!ENTITY aboutNetworking.setLogModules         "Log modüllerini ayarla">
+<!ENTITY aboutNetworking.startLogging          "Log tutmayı başlat">
+<!ENTITY aboutNetworking.stopLogging           "Log tutmayı durdur">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Çözümleme">
 <!ENTITY aboutNetworking.dnsLookupButton       "Çözümle">
 <!ENTITY aboutNetworking.dnsDomain             "Alan adı">
