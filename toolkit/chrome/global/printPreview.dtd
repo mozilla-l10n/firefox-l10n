@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Вмістити">
 <!ENTITY customPrompt.title   "Нетипова шкала…">
 <!ENTITY simplifyPage.label   "Спростити сторінку">
+<!ENTITY simplifyPage.accesskey "п">
 <!ENTITY simplifyPage.enabled.tooltip  "Змінити макет для полегшення читання">
 <!ENTITY simplifyPage.disabled.tooltip "Автоматичне спрощення сторінки неможливе">
 
