@@ -8,6 +8,8 @@
 <!ENTITY  actionColumn2.label         "Ενέργεια">
 <!ENTITY  actionColumn2.accesskey     "ν">
 
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
 <!ENTITY  filter.placeholder          "Αναζήτηση">
 
@@ -24,4 +26,13 @@
 <!ENTITY attachments.outgoing.label   "Εξερχόμενα">
 
 <!ENTITY addCloudFileAccount.label        "Προσθήκη">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink">
+<!ENTITY removeCloudFileAccount.label     "Αφαίρεση">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Απαιτείται η πιστοποίησή σας για την προβολή ρυθμίσεων για αυτή την υπηρεσία αποθηκευτικού χώρου.">
+<!ENTITY authRequired.button.label        "Πιστοποίηση">
+<!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY enableCloudFileAccountOffer.label "Πρόταση για κοινή χρήση αρχείων, μεγαλύτερων από">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
