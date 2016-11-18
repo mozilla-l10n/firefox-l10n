@@ -107,5 +107,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
 
 
-
-
+<!ENTITY  browserContainersSettings.label        "Paramètres…">
+<!ENTITY  browserContainersSettings.accesskey    "t">
