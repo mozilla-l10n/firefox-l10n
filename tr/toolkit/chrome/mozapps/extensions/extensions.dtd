@@ -221,10 +221,10 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 
-<!ENTITY experiment.info.label "Bu nedir? Telemetry zaman zaman deneyler yükleyip çalıştırabilir.">
+<!ENTITY experiment.info.label "Bu nedir? Telemetri zaman zaman deneyler yükleyip çalıştırabilir.">
 <!ENTITY experiment.info.learnmore "Daha fazla bilgi al">
 <!ENTITY experiment.info.learnmore.accesskey "D">
-<!ENTITY experiment.info.changetelemetry "Telemetry ayarları">
+<!ENTITY experiment.info.changetelemetry "Telemetri ayarları">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Daha fazla bilgi al…">
