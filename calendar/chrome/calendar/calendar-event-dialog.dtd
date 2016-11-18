@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; končano">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Obvesti udeležence">
-<!ENTITY event.attendees.notify.accesskey           "O">
-<!ENTITY event.attendees.notifyundisclosed.label    "Loči povabila za posamezne udeležence">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "L">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Ta možnost pošlje eno e-poštno povabilo za posameznega udeleženca. Vsako povabilo vsebuje samo prejemnika-udeleženca, tako da drugi udeleženci niso razkriti.">
+<!ENTITY event.attendees.notify.label                "Obvesti udeležence">
+<!ENTITY event.attendees.notify.accesskey            "O">
+<!ENTITY event.attendees.notifyundisclosed.label     "Loči povabila za posamezne udeležence">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "L">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Ta možnost pošlje eno e-poštno povabilo za posameznega udeleženca. Vsako povabilo vsebuje samo prejemnika-udeleženca, tako da drugi udeleženci niso razkriti.">
+<!ENTITY event.attendees.disallowcounter.label       "Ne dovoli nadomestnih predlogov">
+<!ENTITY event.attendees.disallowcounter.accesskey   "N">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Nakazuje, da ne sprejemate nadomestnih predlogov">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "D">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Spremeni prednost">
 <!ENTITY  event.toolbar.status.tooltip                    "Spremeni stanje">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Spremeni prosti/zaseden čas">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Uveljavi predlog">
+<!ENTITY counter.button.proposal.accesskey                "r">
+<!ENTITY counter.button.proposal.tooltip                  "Uveljavi podatke predloga za obrazec.">
+<!ENTITY counter.button.original.label                    "Uveljavi izvirne podatke">
+<!ENTITY counter.button.original.accesskey                "z">
+<!ENTITY counter.button.original.tooltip                  "Uveljavi izvirne podatke za obrazec.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Naslov:" >
