@@ -98,6 +98,10 @@
   Величини
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Ключові величини
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Гістограми
 ">
