@@ -51,6 +51,13 @@
 <p>&brandShortName; не може завантажити цю сторінку з невизначеної причини.</p>
 ">
 
+<!ENTITY captivePortal.title "Вхід в мережу">
+<!ENTITY captivePortal.longDesc "
+<p>Для використання інтернету ця мережа може вимагати вхід у систему.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Відкрити сторінку входу">
+
 <!ENTITY malformedURI.title "Формат адреси неправильний">
 <!ENTITY malformedURI.longDesc "
 <ul>
