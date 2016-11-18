@@ -166,6 +166,7 @@
 <!ENTITY compactVersion.label "Widok kompaktowy">
 <!ENTITY compactVersion.accesskey "k">
 <!ENTITY folderPaneBar.label "Pasek panelu folderów">
+<!ENTITY folderPaneBar.accesskey "f">
 <!ENTITY folderModeSelector.label "Widoki folderów">
 
 <!ENTITY sortMenu.label "Sortowanie według">
