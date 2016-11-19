@@ -36,9 +36,11 @@
 <!ENTITY engine.addons.label        "ॲड-ऑन्स्">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "साधनाचे नाव:">
 <!ENTITY fxaSyncDeviceName.label       "साधनाचे नाव:">
-
-
+<!ENTITY changeSyncDeviceName.label "साधनाचे नाव बदला…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 
 
 

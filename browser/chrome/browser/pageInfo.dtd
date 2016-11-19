@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "साधारण">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "शिर्षक:">
 <!ENTITY  generalURL            "पत्ता:">
 <!ENTITY  generalType           "प्रकार:">
 <!ENTITY  generalMode           "दृश्य स्थिती :">
