@@ -179,8 +179,8 @@
 <!ENTITY search.filter2.available.tooltip     "显示可安装附加组件">
 
 <!ENTITY addon.homepage                       "主页">
-<!ENTITY addon.details.label                  "更多">
-<!ENTITY addon.details.tooltip                "显示此附加组件的更多细节">
+<!ENTITY addon.details.label                  "更多信息">
+<!ENTITY addon.details.tooltip                "显示关于此附加组件的详情">
 <!ENTITY addon.unknownDate                    "未知">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
