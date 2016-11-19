@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "Personalizar...">
 <!ENTITY ShrinkToFit.label    "Adaptar a la pagina">
 <!ENTITY customPrompt.title   "Personalizar l'escala...">
-
-
+<!ENTITY simplifyPage.label   "Simplificar la pagina">
+<!ENTITY simplifyPage.accesskey "i">
 
 
 

@@ -30,7 +30,7 @@
 
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
 
-
+<!ENTITY performanceUI.toolbar.js-calltree "Arbre de sonadas">
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Assignacions">
 
@@ -46,7 +46,7 @@
 
 <!ENTITY performanceUI.table.totalPercentage          "Còst total">
 
-
+<!ENTITY performanceUI.table.selfPercentage           "Còst pròpri">
 
 <!ENTITY performanceUI.table.samples                  "Exemples">
 

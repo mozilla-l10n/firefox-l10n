@@ -23,7 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "Recuolar d'una pagina">
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
 
-
+<!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
 
 
 <!-- global warnings -->
@@ -237,5 +237,5 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 
