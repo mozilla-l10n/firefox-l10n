@@ -181,6 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 <!ENTITY showRecentlyBookmarked.label     "הצגת סימניות שנוספו לאחרונה">
 <!ENTITY hideRecentlyBookmarked.label     "הסתרת סימניות שנוספו לאחרונה">
+<!ENTITY hideRecentlyBookmarked.accesskey "ס">
 
 <!ENTITY backCmd.label                "אחורה">
 <!ENTITY backButton.tooltip           "חזרה דף אחד אחורה">

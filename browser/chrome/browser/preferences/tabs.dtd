@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab בורר בין הלשוניות בסדר השימוש בהן">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "ל">
 
 <!ENTITY newWindowsAsTabs.label       "פתיחת חלונות חדשים כלשוניות">
-<!ENTITY newWindowsAsTabs.accesskey   "ל">
+<!ENTITY newWindowsAsTabs.accesskey   "ח">
 
 <!ENTITY warnCloseMultipleTabs.label  "הזהר אותי בסגירת מספר לשוניות">
 <!ENTITY warnCloseMultipleTabs.accesskey  "ה">
