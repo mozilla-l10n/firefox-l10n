@@ -22,9 +22,9 @@
 <!ENTITY tabCrashed.requestReport "Azen iccer agi">
 <!ENTITY tabCrashed.sendReport2 "Azen aneqqis n uɣelluy n yiccer i tettwaliḍ akka tura">
 <!ENTITY tabCrashed.commentPlaceholder2 "Iwenniten ifrayanen (Iwenniten ad ten-walin akk yemdanen)">
-
+<!ENTITY tabCrashed.includeURL2 "Seddu aneqqis n uɣelluy di tansa URL n usebter ">
 <!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl-inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan aneqqis n uɣelluy; tanemmirt-ik ɣef uttekki deg usnerni n &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit "Asuter n iccaren n ugilal">
-
+<!ENTITY tabCrashed.autoSubmit "Snifel ismenyifen akken ad tazneḍ s wudem awurman ineqqisen n uɣelluy (udiɣ awi kra n yeznan am-agi sɣur-neɣ akka ar zdat)">

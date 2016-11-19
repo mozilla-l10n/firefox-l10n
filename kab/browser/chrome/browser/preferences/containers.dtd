@@ -6,6 +6,7 @@
 <!ENTITY addButton.label      "Rnu amagbar nniḍen">
 <!ENTITY addButton.accesskey  "R">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; Uɣal ar tinigin tusligt">
 
 <!ENTITY window.title         "Rnu amagbar nniḍen">
 <!ENTITY window.width         "45em">

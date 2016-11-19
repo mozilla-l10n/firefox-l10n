@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Agbur">
 <!ENTITY  paneApplications.title  "Isnasen">
 <!ENTITY  panePrivacy.title       "Tudert tusligt">
-
+<!ENTITY  paneContainers.title    "Iccaren imagbaren">
 <!ENTITY  paneSecurity.title      "Taɣellist">
 <!ENTITY  paneAdvanced.title      "Talqayt">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
