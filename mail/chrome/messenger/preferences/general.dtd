@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Ar theacht teachtaireachtaí nua:">
 <!ENTITY playSound.label                  "Seinn fuaim">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Seinn an comhad fuaime seo a leanas:">
+<!ENTITY playSoundMac.accesskey           "u">
 <!ENTITY showAnimatedAlert.label          "Taispeáin airdeall">
 <!ENTITY showAnimatedAlert.accesskey      "s">
 

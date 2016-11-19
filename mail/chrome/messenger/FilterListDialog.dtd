@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Cumasaithe">
 <!ENTITY newButton.label "Nua…">
 <!ENTITY newButton.accesskey "N">
-
-
+<!ENTITY newButton.popupCopy.label "Cóipeáil…">
+<!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "Eagar…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Scrios">
