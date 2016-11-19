@@ -131,7 +131,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "<ul> 
-<li>该网站可能暂时不可用或者太忙。请在几分钟后重试。</li> 
+<li>该网站可能暂时不可用或者太忙。请在几分钟后再试。</li> 
 <li>如果您无法载入任何页面，请检查您的移动设备的数据或 Wi-Fi 连接。 
 <button id='wifi'>启用 Wi-Fi</button> 
 </li> 
