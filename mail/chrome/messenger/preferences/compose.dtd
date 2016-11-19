@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "C">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar valores por omisión">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "Usar formatu párrafu en cuentes del testu de cuerpu por defeutu">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Comprobar la ortografía enantes d'unviar">
 <!ENTITY spellCheck.accesskey                 "C">

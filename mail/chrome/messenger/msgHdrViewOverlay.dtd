@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "A">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remitente">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Organización">
 <!ENTITY replyToField4.label "Responder a">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar esti mensaxe">
+<!ENTITY hdrOpenConversationButton1.label "Conversación">
+<!ENTITY hdrOpenConversationButton1.tooltip "Amosar conversación d'esti mensaxe">
 <!ENTITY hdrSmartReplyButton1.label "Responder a interesaos">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder al remitente d'esti mensaxe">
