@@ -51,6 +51,10 @@
 <p>&brandShortName; из неког разлога не може да учита ову страницу.</p>
 ">
 
+<!ENTITY captivePortal.title "Пријави се на мрежу">
+
+<!ENTITY openPortalLoginPage.label "Отвори страницу за пријаву">
+
 <!ENTITY malformedURI.title "Адреса је неважећа">
 <!ENTITY malformedURI.longDesc "
 <ul>

@@ -13,6 +13,8 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.requestReport "Пријави овај језичак">
 <!ENTITY tabCrashed.emailPlaceholder "Унесите адресу е-поште овде">
 <!ENTITY tabCrashed.emailMe "Пошаљи ми е-пошту када су информације доступне">
 <!ENTITY tabCrashed.reportSent "Извештај о рушењу је већ поднет; хвала вам што сте нам помогли да учинимо &brandShortName; бољим!">
+<!ENTITY tabCrashed.requestAutoSubmit "Захтевај позадинске језичке">
