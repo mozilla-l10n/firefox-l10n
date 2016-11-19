@@ -205,7 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Visualizar informação do site">
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver informação do site">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de pedido de localização">
@@ -367,7 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Entrar para ver uma lista de abas de outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Visualizar abas sincronizadas na barra lateral">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas na barra lateral">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "d">
@@ -753,7 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferências &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para exibir uma lista de abas de outros dispositivos.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para ver uma lista de abas de outros dispositivos.">
 
 <!ENTITY syncedTabs.context.open.label                       "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
@@ -815,12 +815,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
+<!ENTITY trackingProtection.unblock.label "Desativar proteção neste site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Desativar proteção para esta sessão">
+<!ENTITY trackingProtection.unblockPrivate.label "Desativar proteção nesta sessão">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Ativar proteção">
 <!ENTITY trackingProtection.block2.accesskey "A">

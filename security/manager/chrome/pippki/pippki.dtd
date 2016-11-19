@@ -22,7 +22,7 @@
 <!ENTITY downloadCert.trustEmail "Confiar nesta CA para identificar usuários de e-mail.">
 <!ENTITY downloadCert.trustObjSign "Confiar nesta CA para identificar desenvolvedores de software.">
 <!ENTITY downloadCert.message3 "Antes de considerar confiável esta CA para algum fim, você deve examinar seu certificado, sua diretiva e procedimentos (se disponíveis).">
-<!ENTITY downloadCert.viewCert.label "Exibir">
+<!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar certificado da CA">
 
 <!-- Strings for the SSL client auth ask dialog -->

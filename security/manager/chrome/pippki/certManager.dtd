@@ -53,7 +53,7 @@
 
 <!ENTITY certmgr.close.label                  "Fechar">
 <!ENTITY certmgr.close.accesskey              "F">
-<!ENTITY certmgr.view2.label                  "Exibir…">
+<!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "x">
 <!ENTITY certmgr.edit3.label                  "Confiança…">
 <!ENTITY certmgr.edit3.accesskey              "o">
@@ -87,7 +87,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Verificar certificado">
 <!ENTITY exceptionMgr.certlocation.accesskey  "V">
 <!ENTITY exceptionMgr.certstatus.caption      "Status do certificado">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Exibir…">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "x">
 <!ENTITY exceptionMgr.permanent.label         "Salvar esta exceção permanentemente">
 <!ENTITY exceptionMgr.permanent.accesskey     "S">
