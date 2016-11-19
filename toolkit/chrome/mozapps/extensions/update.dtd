@@ -17,21 +17,21 @@ temas compatíveis com esta versão.">
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis 
 destes complementos.">
 
-<!ENTITY  checking.wizard.title           "Verificando complementos incompatíveis">
+<!ENTITY  checking.wizard.title           "Verificando se há extensões compatíveis">
 <!ENTITY  checking.top.label              "Verificando atualizações de extensões e temas incompatíveis…">
 <!ENTITY  checking.status                 "Isto pode levar alguns minutos…">
 
-<!ENTITY  found.wizard.title               "Encontrados complementos compatíveis">
+<!ENTITY  found.wizard.title               "Extensões compatíveis encontradas">
 <!ENTITY  found.top.label                 "Selecione as extensões e temas que deseja instalar:">
 <!ENTITY  found.disabledXPinstall.label   "Estas atualizações não podem ser instaladas agora porque a instalação
 de aplicativos está desativada. Você pode mudar esta definição abaixo.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que sites instalem extensões e temas">
 <!ENTITY  found.enableXPInstall.accesskey "P">
 
-<!ENTITY  installing.wizard.title         "Instalando complementos compatíveis">
+<!ENTITY  installing.wizard.title         "Instalando extensões compatíveis">
 <!ENTITY  installing.top.label            "Recebendo e instalando atualizações das extensões e temas…">
 
-<!ENTITY  noupdates.wizard.title          "Não foram encontrados complementos compatíveis">
+<!ENTITY  noupdates.wizard.title          "Nenhuma extensão compatível encontrada">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não encontrou atualizações para 
 os seus complementos incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Alguns problemas foram encontrados ao tentar localizar atualizações.">
