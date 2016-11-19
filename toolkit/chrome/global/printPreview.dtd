@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Mengecil Untuk Muat">
 <!ENTITY customPrompt.title   "Custom Scale…">
 <!ENTITY simplifyPage.label   "Permudahkan Halaman">
+<!ENTITY simplifyPage.accesskey "p">
 <!ENTITY simplifyPage.enabled.tooltip  "Tukar susun atur untuk pembacaan mudah">
 <!ENTITY simplifyPage.disabled.tooltip "Laman ini tidak dapat dipermudahkan secara automatik">
 
