@@ -27,7 +27,7 @@
 <!ENTITY  installing.top.label            "กำลังดาวน์โหลดและติดตั้งการอัปเดตให้กับส่วนเสริมของคุณ…">
 
 <!ENTITY  noupdates.wizard.title          "ไม่พบส่วนเสริมที่เข้ากันได้">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; ไม่สามารถค้นหาการอัปเดตสำหรับส่วนเสริมที่เข้ากันไม่ได้">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; ไม่สามารถค้นหาการอัปเดตสำหรับส่วนเสริมที่เข้ากันไม่ได้ของคุณ">
 <!ENTITY  noupdates.error.desc            "เกิดปัญหาบางอย่างขณะกำลังพยายามค้นหาการอัปเดต">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; จะตรวจสอบเป็นระยะและแจ้งให้คุณทราบเมื่อพบการอัปเดตที่เข้ากันได้สำหรับส่วนเสริมเหล่านี้">
 
