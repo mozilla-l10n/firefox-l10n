@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Yal tinnubga i yiman-is">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "Y">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Aɣewwaṛ-agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Ur sirig ara amesmiḍan">
+<!ENTITY event.attendees.disallowcounter.accesskey   "U">
+<!ENTITY event.attendees.disallowcounter.tooltip     "ayagi ymmal-d ma yella ur tqebbleḍ ara asumer n umesḍan">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Snifel akud ilelli/yettwaṭṭef">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Snes asumer">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Snes isefka n usumer di tferkit.">
+<!ENTITY counter.button.original.label                    "Snes isefka ineẓliyen">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Snes isefka n usumer di tferkit.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Azwel:" >
