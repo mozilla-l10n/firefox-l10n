@@ -80,6 +80,10 @@ Ping ">
   Skala
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Keyed Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
