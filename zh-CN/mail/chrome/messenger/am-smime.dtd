@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "安全设备">
 <!ENTITY manageDevices.accesskey "y">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "选择证书">
+<!ENTITY certPicker.info  "证书：">
+<!ENTITY certPicker.detailsLabel "选定证书的详细信息：">

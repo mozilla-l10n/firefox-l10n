@@ -7,6 +7,7 @@
 <!ENTITY activeColumn.label "启用">
 <!ENTITY newButton.label "新建…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "复制…">
 <!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "编辑…">
 <!ENTITY editButton.accesskey "E">
