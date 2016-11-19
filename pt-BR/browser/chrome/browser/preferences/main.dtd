@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "Ao iniciar o &brandShortName;:">
 <!ENTITY startupPage.accesskey     "o">
-<!ENTITY startupHomePage.label     "Abrir página inicial">
+<!ENTITY startupHomePage.label     "Mostrar minha página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupLastSession.label  "Restaurar janelas e abas anteriores">
 
