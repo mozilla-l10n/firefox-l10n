@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Etkinlik Akışı">
-
+<!ENTITY pref_activity_stream_summary "Zengin bir görsel geçmiş akışı ve yeniden tasarlanan giriş sayfası ile &brandShortName; tarayıcınızda aradığınızı bulmak artık daha da kolay.">
 
 <!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
 <!ENTITY tracking_protection_prompt_text "Endişeye yer kalmasın diye, size izleyen öğeleri aktif bir şekilde engelliyoruz.">
