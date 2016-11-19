@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Tiada sambungan">
 <!ENTITY aboutAccounts.noConnection.description "Anda mesti ada sambungan Internet untuk mendaftar masuk.">
 <!ENTITY aboutAccounts.noConnection.retry "Cuba lagi">
+<!ENTITY aboutAccounts.badConfig.title "Konfigurasi rosak">
+<!ENTITY aboutAccounts.badConfig.description "Tidak dapat memastikan konfigurasi pelayan Akaun Firefox anda. Sila cuba lagi nanti.">
