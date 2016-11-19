@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Сазнајте више">
 <!ENTITY  browserContainersEnabled.label        "Омогући контејнер језичке">
 <!ENTITY  browserContainersEnabled.accesskey    "к">
+<!ENTITY  browserContainersSettings.label        "Поставке…">
+<!ENTITY  browserContainersSettings.accesskey    "в">
