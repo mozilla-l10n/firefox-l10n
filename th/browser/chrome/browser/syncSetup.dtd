@@ -91,7 +91,7 @@
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.passwords.label     "รหัสผ่าน">
 <!ENTITY engine.passwords.accesskey "ร">
-<!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
+<!ENTITY engine.prefs.label         "การตั้งค่า">
 <!ENTITY engine.prefs.accesskey     "ต">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.accesskey    "ส">

@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "หากคุณมีโพรไฟล์หลายอัน คุณสามารถแยกแยะพวกมันได้ด้วยชื่อโพรไฟล์ คุณอาจใช้ชื่อที่ตั้งให้นี้หรือตั้งชื่อเองก็ได้">
 <!ENTITY profilePrompt.label            "ป้อนชื่อโพรไฟล์ใหม่:">
 <!ENTITY profilePrompt.accesskey        "ป">
-<!ENTITY profileDirectoryExplanation.text   "การตั้งค่า ค่าปรับแต่ง และข้อมูลผู้ใช้อื่น ๆ ของคุณจะถูกจัดเก็บใน:">
+<!ENTITY profileDirectoryExplanation.text   "การตั้งค่า, ค่าปรับแต่ง และข้อมูลผู้ใช้ที่เกี่ยวข้องอื่น ๆ จะถูกจัดเก็บใน:">
 <!ENTITY profileDefaultName             "ผู้ใช้ปริยาย">
 <!ENTITY button.choosefolder.label      "เลือกโฟลเดอร์…">
 <!ENTITY button.choosefolder.accesskey  "ล">
