@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Complementos">
+<!ENTITY addons.label                 "Extensões">
 <!ENTITY addons.accesskey             "C">
 <!ENTITY addons.commandkey            "A">
 
