@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "通讯录">
 <!ENTITY blankResultsPaneMessage.label                  "进行搜索后才会显示此通讯录的联系人">
 <!ENTITY localResultsOnlyMessage.label                  "在进行搜索之前将不会显示远程通讯录中的联系人">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "文件">
 <!ENTITY fileMenu.accesskey                             "f">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "属性">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+<!ENTITY propertiesMenu.label                           "属性">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "通讯录属性">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "联系人属性">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "邮件列表属性">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "查看">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新建列表">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "属性">
-<!ENTITY editButton2.accesskey                          "P">
+<!ENTITY editPropertiesButton.label                     "编辑">
+<!ENTITY propertiesContext.label                        "属性">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "属性">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "编辑联系人">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "编辑列表">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "新建消息">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "实时消息">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "创建新的通讯录联系人">
 <!ENTITY newlistButton.tooltip                          "创建新列表">
-<!ENTITY editButton2.tooltip                            "编辑选中项">
+<!ENTITY editPropertiesButton.tooltip                   "编辑选中项">
+<!ENTITY editAbPropertiesButton.tooltip                 "编辑选中通讯录的属性">
+<!ENTITY editContactPropertiesButton.tooltip            "编辑选中联系人">
+<!ENTITY editMailingListPropertiesButton.tooltip        "编辑选中邮件列表">
 <!ENTITY newmsgButton.tooltip                           "发送一个邮件消息">
 <!ENTITY newIM.tooltip                                  "发送一条即时消息或聊天">
 <!ENTITY deleteButton2.tooltip                          "删除选中项">

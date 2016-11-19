@@ -17,9 +17,11 @@
 <!ENTITY newMessagesArrive.label          "当新消息到达时：">
 <!ENTITY playSound.label                  "播放声音">
 <!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSoundMac.label               "播放下列声音文件：">
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "显示警告">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings2.label "可以在系统设置的通知面板中禁用提醒和默认的通知声音。">
 <!ENTITY customizeMailAlert.label         "自定义…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 

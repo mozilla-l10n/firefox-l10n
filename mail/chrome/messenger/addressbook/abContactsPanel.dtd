@@ -4,12 +4,17 @@
 
 <!ENTITY propertiesMenu.label               "属性">
 <!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "通讯录属性">
 <!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "联系人属性">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "邮件列表属性">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "通讯录：">
 <!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "搜索联系人：">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "名称或者电子邮件">
 
@@ -21,9 +26,13 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "删除">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "属性">
 <!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "属性">
 <!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "编辑联系人">
 <!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "编辑列表">
 <!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY toButton.label                     "添加至收件人：">
