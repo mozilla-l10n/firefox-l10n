@@ -13,16 +13,18 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Ah, la pestanya s'ha estricallau">
+<!ENTITY tabCrashed.offerHelp "Te podemos aduyar!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Selecciona &tabCrashed.restoreTab; pa tornar a cargar lo conteniu d'a pachina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Selecciona &tabCrashed.restoreTab; u &tabCrashed.restoreAll; pa tornar a cargar lo conteniu d'a pachina.">
+<!ENTITY tabCrashed.requestHelp "Nos aduyarás?">
+<!ENTITY tabCrashed.requestHelpMessage "Los reportes de crashes nos aduyan a diagnosticar problemas y a amillorar lo &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Reportar sobre ista pestanya">
+<!ENTITY tabCrashed.sendReport2 "Ninviar un reporte de crash pa la pestanya que ye visualizando">
+<!ENTITY tabCrashed.commentPlaceholder2 "Comentario opcionals (los comentarios son visibles publicament)">
+<!ENTITY tabCrashed.includeURL2 "Incluyier la URL d'a pachina en o reporte de crash">
 <!ENTITY tabCrashed.emailPlaceholder "Escriba a suya adreza de correu electronico aquí">
 <!ENTITY tabCrashed.emailMe "Ninvia-me un correu electronico quan bi haiga mas información disponible">
 <!ENTITY tabCrashed.reportSent "Ya s'ha ninviau o informe de fallos; muitas gracias por aduyar a amillorar &brandShortName;!">
-
+<!ENTITY tabCrashed.requestAutoSubmit "Demandar pestanyas de fundo">
 
