@@ -51,6 +51,12 @@
 <p>&brandShortName; tidak dapat memuat halaman ini atas beberapa sebab.</p>
 ">
 
+<!ENTITY captivePortal.title "Log masuk ke rangkaian">
+<!ENTITY captivePortal.longDesc "
+<p>Rangkaian ini perlukan anda log masuk untuk mengakses internet.</p>
+">
+
+
 <!ENTITY malformedURI.title "Alamat tidak sah">
 <!ENTITY malformedURI.longDesc "
 <ul>
