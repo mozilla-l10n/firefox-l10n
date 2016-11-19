@@ -166,7 +166,7 @@
    - label for the checkbox that toggles source maps in the Debugger -->
 
 <!ENTITY options.sourceMaps.label      "Rmed aɣbalu n tifelwiyi ">
-
+<!ENTITY options.sourceMaps.tooltip    "Ma tremdeḍ aɣewwaṛ-agi, iɣbula ad ttwaqqnen di temseɣtayt akked tdiwent.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
