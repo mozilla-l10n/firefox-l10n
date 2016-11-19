@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "ডিভাইস নাম:">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">
 <!ENTITY changeSyncDeviceName.label "ডিভাইস নাম পরিবর্তন করুন…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ করুন">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "ডিভাইসের বিচ্ছিন্ন করুন">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
 <!ENTITY signIn.label                "সাইন-ইন করুন">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "প্রোফাইল ছবি পরিবর্তন করুন">
 <!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "যেখান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যন্যগুলি ব্যবহার করতে পারবেন।">
 <!ENTITY welcome.signIn.label "সাইন-ইন করুন">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; সাথে সংযোগ স্থাপন করুন">
 <!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "সাইন ইন করুন">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "সব ডিভাইস জুড়ে সুসংগত করুন">
 
