@@ -13,4 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Has d'estar connectau a Internet pa encetar a sesión.">
 <!ENTITY aboutAccounts.noConnection.retry "Torne-lo a prebar">
 <!ENTITY aboutAccounts.badConfig.title "Mala configuración">
-
+<!ENTITY aboutAccounts.badConfig.description "No ye posible determinar la conviguración de servidor d'a suya Cuenta Firefox. Torne a prebar-lo mas tarde.">
