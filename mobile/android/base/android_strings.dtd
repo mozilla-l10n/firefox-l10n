@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "स्वागतम् ">
+<!ENTITY firstrun_panel_title_welcome "स्वागतम्">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
 <!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझाव सर्टकटहरू प्रयोग गरि सामाग्रीहरू छिटो पत्ता लगाउनुहोस् .">
-<!ENTITY firstrun_bookmarks_title "इतिहास ">
+<!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र.">
-<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस। ">
+<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
 <!ENTITY firstrun_data_title "डेटा">
-<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत ">
+<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
 <!ENTITY firstrun_sync_title "समक्रमण">
-<!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा ">
+<!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
 <!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
 <!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस">
@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
-<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ। ">
+<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ।">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 <!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने वस्तुहरू रोक्नुहोस्।">
@@ -298,7 +298,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "तपाईँले पछि पनि सेटिङहरूमा गएर यो परिवर्तन गर्न सक्नुहुन्छ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "अरु एप्लिकेसन भन्दा माथि चल्नको लाई सहमती जनाउन अन गर्नुहोस्। ">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "अरु एप्लिकेसन भन्दा माथि चल्नको लाई सहमती जनाउन अन गर्नुहोस्।">
 <!ENTITY tab_queue_prompt_positive_action_button "सक्षम पार्नुहोस्">
 <!ENTITY tab_queue_prompt_negative_action_button "अहिले होइन">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -316,7 +316,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "\&quot;बिभिन्न लिकंहरू एकैचोटि खोल्न\&quot; का निमित्त \u0027Draw over other apps\u0027 भन्ने अनुमति &brandShortName; लाई दिनुहोस्।">
+<!ENTITY tab_queue_notification_settings "\&quot;बिभिन्न लिकंहरू एकैचोटि खोल्न\&quot; का निमित्त \u0027Draw over other apps\u0027 भन्ने अनुमति &brandShortName; लाई दिनुहोस्">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -350,9 +350,9 @@
 <!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
 <!ENTITY pref_text_size "पाठ साइज">
-<!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस् ">
+<!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस्">
 <!ENTITY pref_restore_always "सधैँ पुनर्स्थापना गर्नुहोस्">
-<!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनर्स्थापना नगर्नुहोस् ">
+<!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनर्स्थापना नगर्नुहोस्">
 <!ENTITY pref_font_size_tiny "अति सानो">
 <!ENTITY pref_font_size_small "सानो">
 <!ENTITY pref_font_size_medium "मध्यम">
@@ -370,14 +370,14 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तिब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामि तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
 
-<!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस् ">
+<!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
 <!ENTITY pref_zoom_force_enabled "zoom लाई सधै सक्षम पार्नुहोस">
-<!ENTITY pref_zoom_force_enabled_summary " कुनै पनि पेज zoom गर्न अधिरोहण गर्नुहोस">
+<!ENTITY pref_zoom_force_enabled_summary "कुनै पनि पेज zoom गर्न अधिरोहण गर्नुहोस">
 <!ENTITY pref_voice_input "आवाज आगत">
-<!ENTITY pref_voice_input_summary2 "URLबारमा आवाज भेटाउन दिनुहोस्। ">
-<!ENTITY pref_qrcode_enabled "QR कोड रिडर ">
-<!ENTITY pref_qrcode_enabled_summary2 "QR कोड रिडरलाई URL बारमा हुनदिनुहोस्।  ">
+<!ENTITY pref_voice_input_summary2 "URLबारमा आवाज भेटाउन दिनुहोस्।">
+<!ENTITY pref_qrcode_enabled "QR कोड रिडर">
+<!ENTITY pref_qrcode_enabled_summary2 "QR कोड रिडरलाई URL बारमा रहन दिनुहोस्">
 
 <!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
 <!ENTITY pref_sync2 "साइन इन">
@@ -385,7 +385,7 @@ size. -->
 <!ENTITY pref_search_suggestions "खोजी सुझावहरू देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
 <!ENTITY pref_import_options "आयात विकल्पहरू">
-<!ENTITY pref_import_android_summary "मुल ब्रावजरबाट त्यहाँ भएको बुकमार्क र ईतिहास भित्र्याउनुहोस्। ">
+<!ENTITY pref_import_android_summary "मुल ब्रावजरबाट त्यहाँ भएको बुकमार्क र ईतिहास भित्र्याउनुहोस्">
 <!ENTITY pref_private_data_history2 "ब्राउजिङ इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
 <!ENTITY pref_private_data_formdata2 "फारम इतिहास">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_dialog_default "पूर्वनिर्धारित">
 <!ENTITY pref_dialog_remove "हटाउनुहोस्">
 
-<!ENTITY pref_search_last_toast "अघिल्लो सर्च ईन्जिनलाई हटाउन तथा निस्कृय पार्न सक्नुहुन्न। ">
+<!ENTITY pref_search_last_toast "अघिल्लो सर्च ईन्जिनलाई हटाउन तथा निस्कृय पार्न सक्नुहुन्न">
 
 <!ENTITY pref_panels_show "देखाउनुहोस्">
 <!ENTITY pref_panels_hide "लुकाउनुहोस्">
@@ -419,7 +419,7 @@ size. -->
 <!ENTITY datareporting_notification_action "बाँड्ने कुराहरू छान्नुहोस्">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "बाँड्ने जानकारीहरू छान्नुहोस्">
-<!ENTITY datareporting_notification_summary "तपाईँको अनुभव राम्रो बनाउनको लागि &brandShortName; ले स्वतः रुपमा केही आँकडा &vendorShortName; लाई पठाउँछ। ">
+<!ENTITY datareporting_notification_summary "तपाईँको अनुभव राम्रो बनाउनको लागि &brandShortName; ले स्वतः रुपमा केही आँकडा &vendorShortName; लाई पठाउँछ।">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -431,15 +431,15 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य विवरण">
-<!ENTITY datareporting_fhr_summary2 "तपाईँको ब्रावजरको स्वास्थ्य अवस्था &vendorShortName; सँग बाँड्छ, तपाईँलाई आफ्नो ब्राउजरको कार्यक्षमताको बारेमा बुझाउनको लागि। ">
-<!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्। ">
+<!ENTITY datareporting_fhr_summary2 "तपाईँको ब्रावजरको स्वास्थ्य अवस्था &vendorShortName; सँग बाँड्छ, तपाईँलाई आफ्नो ब्राउजरको कार्यक्षमताको बारेमा बुझाउनको लागि।">
+<!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्">
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
 <!ENTITY datareporting_telemetry_summary "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईँको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; सँग बाँढ्दछ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईँको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ क्र्यास प्रतिवेदनहरू पेस गर्छ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्र्यास प्रतिवेदक">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा ">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; लाई विश्व नक्साकरण गर्न मद्दत गर्नुहोस्। तपाईँको अनुमानित स्थानका बारेमा हामीलाई जानकारी गराएर हाम्रो भौगोलिक स्थान सेवा सुधार गर्न सहयोग गर्नुहोस्।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -461,11 +461,11 @@ size. -->
 
 <!ENTITY share "साझेदारी">
 <!ENTITY share_title "मार्फत बाड्नुहोस्">
-<!ENTITY share_image_failed "यो फोटो बाड्न असफल भयो। ">
+<!ENTITY share_image_failed "यो फोटो बाड्न असफल भयो">
 <!ENTITY save_as_pdf "PDFको रूपमा बचत गर्नुहोस्">
 <!ENTITY print "मुद्रण गर्नुहोस्">
 <!ENTITY find_in_page "पृष्ठमा फेला पार्नुहोस्">
-<!ENTITY desktop_mode "डेस्कटप साईट अनुरोध गर्नुहोस्। ">
+<!ENTITY desktop_mode "डेस्कटप साईट अनुरोध गर्नुहोस्">
 <!ENTITY page "पृष्ठ">
 <!ENTITY tools "उपकरणहरू">
 <!ENTITY new_tab "नयाँ ट्याब">
@@ -504,21 +504,21 @@ size. -->
 <!ENTITY contextmenu_subscribe "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY contextmenu_site_settings "साइट सेटिङहरू सम्पादन गर्नुहोस्">
 <!ENTITY contextmenu_top_sites_edit "सम्पादन गर्नुहोस्">
-<!ENTITY contextmenu_top_sites_pin "साईट पिन गर्नुहोस्। ">
-<!ENTITY contextmenu_top_sites_unpin "साईट अनपिन गर्नुहोस्। ">
+<!ENTITY contextmenu_top_sites_pin "साईट पिन गर्नुहोस्">
+<!ENTITY contextmenu_top_sites_unpin "साईट अनपिन गर्नुहोस्">
 <!ENTITY contextmenu_add_search_engine "खोजी इन्जिन थप्नुहोस्">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[प्रयोगकर्ता नाम छैन]">
-<!ENTITY doorhanger_login_edit_title "लगिन काट्छाट गर्नुहोस्। ">
+<!ENTITY doorhanger_login_edit_title "लगइन सम्पादन गर्नुहोस्">
 <!ENTITY doorhanger_login_edit_username_hint "प्रयोगकर्ता नाम">
 <!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड देखाउनुहोस्">
 <!ENTITY doorhanger_login_edit_toast_error "लग-इन बचत गर्न असफल भयो">
-<!ENTITY doorhanger_login_select_message "पासवर्ड &formatS; बाट कपी गर्ने? ">
-<!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो। ">
+<!ENTITY doorhanger_login_select_message "पासवर्ड &formatS; बाट कपी गर्ने?">
+<!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो">
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
 <!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
 <!ENTITY doorhanger_login_select_title "बाट पासवर्ड सार्नुहोस्">
@@ -531,9 +531,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "पूर्ण-पर्दा ब्रावजिङ">
-<!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; टूलबार लुकाउनुहोस्। ">
+<!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; टूलबार लुकाउनुहोस्">
 
-<!ENTITY pref_tab_queue_title3 "ट्याबको ताती ">
+<!ENTITY pref_tab_queue_title3 "ट्याबको ताती">
 <!ENTITY pref_tab_queue_summary4 "अर्को पटक &brandShortName; नखोल्दा सम्मको लागि बचत गर्नुहोस् ।">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -573,7 +573,7 @@ size. -->
 <!ENTITY home_top_sites_title "शीर्ष साइटहरू">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "साईट थप्नुहोस्। ">
+<!ENTITY home_top_sites_add "साईट थप्नुहोस्">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
@@ -589,11 +589,11 @@ size. -->
 <!ENTITY home_bookmarks_empty "तपाईँले सञ्चित गरेक पुस्तकचिनोहरू यहाँ देखा पर्दछ।">
 <!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरू">
 <!ENTITY home_last_tabs_empty "तपाईँको हालसालैको ट्याबहरू यहाँ देखा पर्छ।">
-<!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने ">
+<!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने">
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
-<!ENTITY home_most_recent_empty "तपाईँ भर्खरै भ्रमण गर्नुभएको वेबसासटहरू यहाँ देखिन्छन्। ">
+<!ENTITY home_most_recent_empty "तपाईँ भर्खरै भ्रमण गर्नुभएको वेबसासटहरू यहाँ देखिन्छन्।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
@@ -616,13 +616,13 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "लुकाइएका उपकरणहरू">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका उपकरणहरूलाई नलुकाउनुहोस्। ">
+<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका उपकरणहरूलाई नलुकाउनुहोस्।">
 
-<!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो? ">
+<!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो?">
 <!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य उपकरणहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
-<!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्। ">
+<!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्।">
 
-<!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्। ">
+<!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्">
 
 <!ENTITY filepicker_title "फाइल रोज्नुहोस्">
 <!ENTITY filepicker_audio_title "छनौट वा आवाज रेकर्ड">
@@ -647,10 +647,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "यो सुरक्षित &brandShortName; पाना हो।">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ। ">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ। ">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ।">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ।">
 <!ENTITY mixed_content_display_loaded1 "पेजका यी भागहरू सुरक्षित छैन (जस्तै कि फोटो)।">
-<!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित सामग्रीबाट सुरक्षा बन्द गर्नुभयो। ">
+<!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित सामग्रीबाट सुरक्षा बन्द गर्नुभयो।">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
@@ -662,7 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY learn_more "अझै जान्नुहोस्">
 <!ENTITY enable_protection "सुरक्षा सुचारु गर्नुहोस्">
-<!ENTITY disable_protection "सुरक्षा बन्द गर्नुहोस् ">
+<!ENTITY disable_protection "सुरक्षा बन्द गर्नुहोस्">
 
 <!ENTITY private_data_success "निजी डेटा हटाइयो">
 <!ENTITY private_data_fail "केही निजी डाटा हटाउन सकिएन">
