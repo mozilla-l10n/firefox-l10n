@@ -176,7 +176,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!ENTITY sort.price.tooltip                   "Ordenar pelo preço">
 
 <!ENTITY search.filter2.label                 "Pesquisar:">
-<!ENTITY search.filter2.installed.label       "Meus complementos">
+<!ENTITY search.filter2.installed.label       "Minhas extensões">
 <!ENTITY search.filter2.installed.tooltip     "Mostrar complementos instalados">
 <!ENTITY search.filter2.available.label       "Complementos disponíveis">
 <!ENTITY search.filter2.available.tooltip     "Mostrar complementos disponíveis para instalação">
@@ -197,12 +197,12 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!ENTITY addon.undoAction.label               "Desfazer">
 <!ENTITY addon.undoAction.tooltip             "Desfazer este comando">
 <!ENTITY addon.undoRemove.label               "Desfazer">
-<!ENTITY addon.undoRemove.tooltip             "Manter este complemento instalado">
+<!ENTITY addon.undoRemove.tooltip             "Manter esta extensão instalada">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
 <!ENTITY addon.install.label                  "Instalar">
-<!ENTITY addon.install.tooltip                "Instalar este complemento">
+<!ENTITY addon.install.tooltip                "Instalar esta extensão">
 <!ENTITY addon.updateNow.label                "Atualizar agora">
-<!ENTITY addon.updateNow.tooltip              "Instalar a atualização deste complemento">
+<!ENTITY addon.updateNow.tooltip              "Instalar a atualização desta extensão">
 <!ENTITY addon.includeUpdate.label            "Incluir na atualização">
 <!ENTITY addon.updateAvailable.label          "Uma atualização está disponível">
 <!ENTITY addon.checkingForUpdates.label       "Verificando atualização…">
@@ -232,11 +232,11 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 
 <!ENTITY setting.learnmore "Saber mais…">
 
-<!ENTITY disabledUnsigned.heading "Alguns complementos foram desativados">
+<!ENTITY disabledUnsigned.heading "Algumas extensões foram desabilitadas">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Os seguintes complementos não foram verificados para uso no &brandShortName;. Você pode ">
+<!ENTITY disabledUnsigned.description.start "As seguintes extensões não foram verificados para uso no &brandShortName;. Você pode ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "procurar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o desenvolvedor peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saber mais sobre os nossos esforços para manter os usuários seguros.">
