@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "Namn">
-
-
+<!ENTITY addButton.label      "Lägg till ny behållare">
+<!ENTITY addButton.accesskey  "L">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; Gå tillbaka till sekretess">
 
+<!ENTITY window.title         "Lägg till ny behållare">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Namn:">
@@ -17,5 +19,6 @@
 <!ENTITY color.accesskey      "o">
 <!ENTITY windowClose.key      "w">
 
-
+<!ENTITY button.ok.label      "Klar">
+<!ENTITY button.ok.accesskey  "K">
 
