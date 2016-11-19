@@ -20,9 +20,9 @@
 <!ENTITY            renameButton.accesskey "ป">
 <!ENTITY            deleteButton.label     "ลบโพรไฟล์…">
 <!ENTITY            deleteButton.accesskey "ล">
-<!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; จัดเก็บข้อมูลเกี่ยวกับการตั้งค่า ค่าปรับแต่ง และข้อมูลผู้ใช้อื่น ๆ ของคุณในโพรไฟล์ผู้ใช้ของคุณ">
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; จัดเก็บข้อมูลเกี่ยวกับการตั้งค่า, ค่าที่ตั้ง และข้อมูลผู้ใช้อื่น ๆ ในโพรไฟล์ผู้ใช้ของคุณ">
 
 <!ENTITY            offlineState.label    "ทำงานออฟไลน์">
 <!ENTITY            offlineState.accesskey "ฟ">
