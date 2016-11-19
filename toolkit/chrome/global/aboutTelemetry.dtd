@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalärer">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Nyckelbaserade skalärer">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 

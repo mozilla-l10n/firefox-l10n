@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Hitta nästa förekomst av frasen">
 <!ENTITY previous.tooltip "Hitta föregående förekomst av frasen">
 <!ENTITY findCloseButton.tooltip "Stäng Sökfältet">
-
-
+<!ENTITY highlightAll.label "Markera alla">
+<!ENTITY highlightAll.accesskey "M">
 <!ENTITY highlightAll.tooltiptext "Markera alla förekomster av frasen">
 <!ENTITY caseSensitive.label "Matcha VERSALER/gemener">
 <!ENTITY caseSensitive.accesskey "c">
