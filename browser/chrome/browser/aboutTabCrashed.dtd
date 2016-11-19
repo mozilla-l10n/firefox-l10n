@@ -22,9 +22,9 @@
 <!ENTITY tabCrashed.requestReport "این زبانه را گزارش کنید">
 <!ENTITY tabCrashed.sendReport2 "ارسال یک گزارش خرابی برای زبانه ای که شما مشاهده می کنید.">
 <!ENTITY tabCrashed.commentPlaceholder2 "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
-
+<!ENTITY tabCrashed.includeURL2 "افزودن آدرس این صفحه به گزارش خرابی">
 <!ENTITY tabCrashed.emailPlaceholder "نشانی پست الکترونیکی خود را اینجا وارد کنید">
 <!ENTITY tabCrashed.emailMe "در صورت در دسترس بودن اطلاعات بیشتر به من نامه‌الکترونیکی ارسال شود.">
 <!ENTITY tabCrashed.reportSent "گزارش‌ خرابی جهت ارسال آماده است;از شما به خاطر کمک‌کردن به بهتر شدن این &brandShortName; تشکر می‌کنیم!">
-
+<!ENTITY tabCrashed.requestAutoSubmit "درخواست زبانه‌های پس زمینه">
 
