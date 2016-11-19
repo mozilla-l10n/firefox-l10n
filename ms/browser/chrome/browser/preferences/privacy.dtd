@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Ketahui selanjutnya">
 <!ENTITY  browserContainersEnabled.label        "Dayakan Tab Kontena">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Tetapan…">
+<!ENTITY  browserContainersSettings.accesskey    "p">
