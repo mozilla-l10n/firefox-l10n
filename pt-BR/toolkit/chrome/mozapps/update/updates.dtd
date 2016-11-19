@@ -39,7 +39,7 @@ do &brandShortName; o mais depressa possível.">
 atualização parcial baixada, agora está baixando 
 o pacote completo da atualização.">
 
-<!ENTITY  viewDetails.tooltip             "Exibir detalhes desta atualização">
+<!ENTITY  viewDetails.tooltip             "Ver detalhes desta atualização">
 
 <!ENTITY  details.link                    "Detalhes">
 

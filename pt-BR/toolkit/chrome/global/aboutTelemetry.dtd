@@ -60,6 +60,7 @@ Raw JSON
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas nomeados">
@@ -83,7 +84,8 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Carregar nomes das funções para pilha dos congelamentos">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Exibir sem processamento dados dos congelamentos">
+<!ENTITY aboutTelemetry.hideSymbols "
+  Mostrar dados brutos do congelamento">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (strings ou /regexp/)">
 

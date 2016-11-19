@@ -68,7 +68,7 @@
 <!ENTITY updates.downloaded.label             "As atualizações de seus complementos foram baixadas.">
 <!ENTITY updates.restart.label                "Reinicie agora para concluir a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
-<!ENTITY updates.manualUpdatesFound.label     "Exibir atualizações disponíveis">
+<!ENTITY updates.manualUpdatesFound.label     "Ver atualizações disponíveis">
 <!ENTITY updates.updateSelected.label         "Instalar atualizações">
 <!ENTITY updates.updateSelected.tooltip       "Instalar as atualizações disponíveis desta lista">
 
