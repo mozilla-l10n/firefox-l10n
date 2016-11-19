@@ -189,6 +189,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "שחזור לשוניות, חוסך בתעבורת נתונים, כלי פיתוח">
 <!ENTITY pref_category_notifications "התראות">
 <!ENTITY pref_category_notifications_summary "תכונות חדשות, עדכוני אתרים">
 <!ENTITY pref_content_notifications "עדכוני אתרים">
