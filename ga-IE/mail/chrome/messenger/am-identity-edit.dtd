@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Cóipeanna agus Fillteáin">
 <!ENTITY addressingTab.label    "Cumadóireacht agus Seoladh">
 
-
-
-
+<!ENTITY publicData.label        "Sonraí Poiblí">
+<!ENTITY privateData.label       "Sonraí Príobháideacha">
+<!ENTITY identityAlias.label     "Lipéad Aitheantais:">
+<!ENTITY identityAlias.accesskey "p">

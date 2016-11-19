@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Nasc…">
 <!ENTITY insertLinkCmd2.accesskey "N">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Ancaire Ainmnithe…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Íomhá…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Bain Ancairí Ainmnithe">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
