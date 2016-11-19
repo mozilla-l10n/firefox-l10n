@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mensaches recibius">
 <!ENTITY aboutNetworking.bytesSent             "Bytes ninviaus">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recibius">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Rechistro">
+<!ENTITY aboutNetworking.logTutorial           "Mirar <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Rechistro HTTP</a> pa saber cómo usar ista ferramienta.">
+<!ENTITY aboutNetworking.currentLogFile        "Fichero de rechistro actual:">
+<!ENTITY aboutNetworking.currentLogModules     "Modulos de rechistro actuals:">
+<!ENTITY aboutNetworking.setLogFile            "Determinar fichero de rechistro">
+<!ENTITY aboutNetworking.setLogModules         "Determinar modulos de rechistro">
+<!ENTITY aboutNetworking.startLogging          "Empecipiar a rechistrar">
+<!ENTITY aboutNetworking.stopLogging           "Deixar de rechistrar">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
