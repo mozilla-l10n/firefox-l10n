@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "आणखी शिका">
 <!ENTITY  browserContainersEnabled.label        "कंटेनर टॅब्स सक्रीय करा">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "सेटिंग्ज…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
