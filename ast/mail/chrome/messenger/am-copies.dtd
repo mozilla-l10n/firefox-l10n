@@ -36,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Otru:">
 <!ENTITY archiveInOtherFolder.accesskey "O">
 <!ENTITY specialFolders.label "Borradores y plantíes">
+<!ENTITY keepDrafts2.label "Calterner borradores en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "D">
