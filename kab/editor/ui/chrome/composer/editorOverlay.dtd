@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "S">
 <!ENTITY insertLinkCmd2.label "Aseɣwen…">
 <!ENTITY insertLinkCmd2.accesskey "s">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Isem n temdeyt…">
 <!ENTITY insertAnchorCmd.accesskey "d">
 <!ENTITY insertImageCmd.label "Tugna…">

@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "inɣal &amp; ikaramen">
 <!ENTITY addressingTab.label    "Asuddes &amp; Asenki">
 
-
-
-
+<!ENTITY publicData.label        "Isefka izuyaz">
+<!ENTITY privateData.label       "Isefka usligen">
+<!ENTITY identityAlias.label     "Tabzimt n tmagit:">
+<!ENTITY identityAlias.accesskey "g">

@@ -4,18 +4,18 @@
 
 <!ENTITY propertiesMenu.label               "Timeẓliyin">
 <!ENTITY propertiesMenu.accesskey           "T">
-
-
-
-
-
-
-
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Timeẓliyin n imedlis n tensa">
+<!ENTITY abPropertiesMenu.accesskey         "ẓ">
+<!ENTITY contactPropertiesMenu.label        "Timeẓliyin n unermis">
+<!ENTITY contactPropertiesMenu.accesskey    "m">
+<!ENTITY mailingListPropertiesMenu.label    "Timeẓliyin n tebdart n telɣut">
+<!ENTITY mailingListPropertiesMenu.accesskey "ɣ">
 
 <!ENTITY addressbookPicker.label            "Imedlis n tensa:">
 <!ENTITY addressbookPicker.accesskey        "m">
-
-
+<!ENTITY searchContacts.label               "Nadi inermisen:">
+<!ENTITY searchContacts.accesskey           "m">
 <!ENTITY SearchNameOrEmail.label            "Isem neɣ imayl">
 
 <!ENTITY addtoToFieldMenu.label             "Rnu ɣeṛ wurti">
@@ -30,10 +30,10 @@
 <!ENTITY propertiesContext.accesskey        "T">
 <!ENTITY abPropertiesContext.label          "Timeẓliyin">
 <!ENTITY abPropertiesContext.accesskey      "T">
-
-
-
-
+<!ENTITY editContactContext.label           "Ẓreg anermis">
+<!ENTITY editContactContext.accesskey       "Ẓ">
+<!ENTITY editMailingListContext.label       "Ẓreg tabdart">
+<!ENTITY editMailingListContext.accesskey   "Ẓ">
 
 <!ENTITY toButton.label                     "Rnu ɣeṛ I:">
 <!ENTITY toButton.accesskey                 "u">

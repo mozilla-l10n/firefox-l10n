@@ -31,5 +31,7 @@
 <!ENTITY manageDevices.label "Ibenkan n tɣellist">
 <!ENTITY manageDevices.accesskey "k">
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.info  "Aselkin:">
 
+<!ENTITY certPicker.title "Fren aselkin">
+<!ENTITY certPicker.info  "Aselkin:">
+<!ENTITY certPicker.detailsLabel "Talqayt n uselkin yettwafernen:">

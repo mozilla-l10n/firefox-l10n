@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Tansa n tugna:">
 <!ENTITY locationEditField.accessKey "s">
 <!ENTITY locationEditField.tooltip "Sekcem isem n ufaylu n tugna neɣ tansa yines">
-
+<!ENTITY locationEditField.shortenedDataURI "URI n isefka wezzilen (anɣal ad isemselsi URI ummid ɣef afus)">
 <!ENTITY title.label "Talɣut takuffiṭ">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "Imyerr html 'title' a d-iţuseknen ţalɣut takuffiṭ">

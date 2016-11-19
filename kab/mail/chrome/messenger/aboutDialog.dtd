@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "ţekki!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Iwenniten n lqem">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Talɣut n turagt">
