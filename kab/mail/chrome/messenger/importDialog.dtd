@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "M">
 <!ENTITY acctName.label           "Isem:">
 <!ENTITY acctName.accesskey       "I">
-
+<!ENTITY noModulesFound.label     "Ulac asnas neɣ afaylu yettwafen akken ad d-ketred isefka.">
 
 <!ENTITY back.label               " &lt; ɣer deffir">
 <!ENTITY forward.label            "Ɣeṛ zdat &gt;">

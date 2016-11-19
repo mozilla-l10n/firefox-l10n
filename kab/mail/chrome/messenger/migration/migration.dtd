@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Kter isefran, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
 <!ENTITY importFromNonWin.label         "Kter ismenyifen, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
-
+<!ENTITY importSourceNotFound.label     "Ulac asnas yettwafen akken ad d-ketred isefka.">
 
 <!ENTITY importFromNothing.label        "Ur keter-ara">
 <!ENTITY importFromNothing.accesskey    "U">

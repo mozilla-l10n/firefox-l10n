@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Taxemṛit">
 <!ENTITY  font.langGroup.malayalam                "Tamalayalamit">
 <!ENTITY  font.langGroup.math                     "Tusnakt">
-
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugutt">
 <!ENTITY  font.langGroup.kannada                  "Takannadit">
 <!ENTITY  font.langGroup.sinhala                  "Tasinhalit">

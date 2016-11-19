@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "U">
 <!ENTITY showAnimatedAlert.label          "Sken alɣu">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-
+<!ENTITY notificationAlertSettings2.label "Ilɣuten akked imesli amezwer zemren ad ttwasensen deg ugalis n ilɣuten seg ismenyifen n unagraw.">
 <!ENTITY customizeMailAlert.label         "Sagen…">
 <!ENTITY customizeMailAlert.accesskey     "S">
 
