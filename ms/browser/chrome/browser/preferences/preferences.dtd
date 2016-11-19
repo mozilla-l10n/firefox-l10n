@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Kandungan">
 <!ENTITY  paneApplications.title  "Aplikasi">
 <!ENTITY  panePrivacy.title       "Privasi">
+<!ENTITY  paneContainers.title    "Tab Penyimpan">
 <!ENTITY  paneSecurity.title      "Keselamatan">
 <!ENTITY  paneAdvanced.title      "Lanjutan">
 

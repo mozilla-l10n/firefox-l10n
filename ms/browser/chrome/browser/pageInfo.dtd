@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Umum">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Tajuk:">
 <!ENTITY  generalURL            "Alamat:">
 <!ENTITY  generalType           "Jenis:">
 <!ENTITY  generalMode           "Mod Jadikan:">

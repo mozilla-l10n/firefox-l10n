@@ -13,6 +13,17 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Alamak. Tab anda sudah ranap.">
+<!ENTITY tabCrashed.offerHelp "Kami boleh membantu anda!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Pilih &tabCrashed.restoreTab; untuk memuat kandungan halaman.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Pilih &tabCrashed.restoreTab; atau &tabCrashed.restoreAll; untuk memuat kandungan halaman.">
+<!ENTITY tabCrashed.requestHelp "Anda mahu bantu kami?">
+<!ENTITY tabCrashed.requestHelpMessage "Laporan ranap membantu kami mendiagnos masalah dan membuatkan &brandShortName; lebih baik.">
+<!ENTITY tabCrashed.requestReport "Laporkan tab ini">
+<!ENTITY tabCrashed.sendReport2 "Hantar laporan ranap tab yang sedang anda tinjau">
+<!ENTITY tabCrashed.commentPlaceholder2 "Komen pilihan (komen disiarkan kepada umum)">
+<!ENTITY tabCrashed.includeURL2 "Sertakan URL halaman dengan laporan ranap ini">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat e-mel anda di sini">
 <!ENTITY tabCrashed.emailMe "Hantarkan e-mel kepada saya apabila ada maklumat lanjut">
 <!ENTITY tabCrashed.reportSent "Laporan ranap telah dihantar; terima kasih kerana membantu menjadikan &brandShortName; lebih baik!">
+<!ENTITY tabCrashed.requestAutoSubmit "Pinta tab latarbelakang">
