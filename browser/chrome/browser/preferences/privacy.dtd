@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Lär dig mer">
 <!ENTITY  browserContainersEnabled.label        "Aktivera innehållsflikar">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
-
-
+<!ENTITY  browserContainersSettings.label        "Inställningar…">
+<!ENTITY  browserContainersSettings.accesskey    "s">

@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Hoppsan.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte visa sidan.</p>">
 
-
+<!ENTITY captivePortal.title "Logga in till nätverk">
+<!ENTITY captivePortal.longDesc "<p>Detta nätverk kan kräva att du loggar in för att få tillgång till internet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Öppna Login Sida">
 
