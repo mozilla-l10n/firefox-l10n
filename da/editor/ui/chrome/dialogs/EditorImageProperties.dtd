@@ -6,12 +6,14 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Egenskaber for billede">
+
 <!ENTITY pixelsPopup.value "pixler">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Billedets placering:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Skriv billedets navn eller adresse">
+<!ENTITY locationEditField.shortenedDataURI "Forkortet data-URI (ved kopiering vil den fulde URI blive kopieret)">
 <!ENTITY title.label "Titel">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "HTML-attributten &quot;title&quot; der vises som et værktøjstip">
