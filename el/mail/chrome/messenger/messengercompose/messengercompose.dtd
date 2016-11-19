@@ -11,6 +11,8 @@
 <!ENTITY newMenu.label "Νέο">
 <!ENTITY newMenu.accesskey "Ν">
 <!ENTITY newMessage.label "Μήνυμα">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ν">
 <!ENTITY newContact.label "Επαφή ευρετηρίου…">
 <!ENTITY newContact.accesskey "φ">
@@ -18,13 +20,18 @@
 <!ENTITY attachMenu.accesskey "ψ">
 <!ENTITY attachFileCmd.label "Αρχείο(α)...">
 <!ENTITY attachFileCmd.accesskey "ρ">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα...">
 <!ENTITY attachPageCmd.accesskey "σ">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
 <!ENTITY attachVCardCmd.accesskey "ο">
 <!ENTITY remindLater.label "Υπενθύμιση αργότερα">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Κλείσιμο">
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "λ">
 <!ENTITY saveCmd.label "Αποθήκευση">
 <!ENTITY saveCmd.key "s">
@@ -38,13 +45,17 @@
 <!ENTITY saveAsTemplateCmd.label "Πρότυπο">
 <!ENTITY saveAsTemplateCmd.accesskey "τ">
 <!ENTITY sendNowCmd.label "Άμεση αποστολή">
+<!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "π">
 <!ENTITY sendLaterCmd.label "Αναβολή αποστολής">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "β">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
 <!ENTITY printSetupCmd.accesskey "φ">
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση...">
+<!ENTITY printCmd.key "Κ">
 <!ENTITY printCmd.accesskey "π">
 
 <!-- Edit Menu -->
