@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Acceptar las cookies de tercers:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
