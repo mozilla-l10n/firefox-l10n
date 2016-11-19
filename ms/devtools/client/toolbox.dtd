@@ -159,6 +159,15 @@
 <!ENTITY options.timestampMessages.label      "Dayakan cop masa">
 <!ENTITY options.timestampMessages.tooltip    "Jika anda dayakan pilihan ini arahan dan output dalam Konsol Web akan memaparkan cop masa">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Penyahpepijat">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Dayakan Sumber Peta">
+<!ENTITY options.sourceMaps.tooltip    "Jika anda aktifkan pilihan ini, sumber akan dipeta dalam Penyahpepijat dan Konsol.">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

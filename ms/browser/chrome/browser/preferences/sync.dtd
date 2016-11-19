@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
 <!ENTITY fxaSyncDeviceName.label       "Nama Peranti">
 <!ENTITY changeSyncDeviceName.label "Tukar Nama Peranti…">
+<!ENTITY changeSyncDeviceName.accesskey "u">
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "b">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
+<!ENTITY saveChangeSyncDeviceName.accesskey "s">
 <!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
 <!ENTITY signIn.label                "Daftar masuk">
+<!ENTITY signIn.accesskey            "d">
 <!ENTITY profilePicture.tooltip      "Tukar gambar profil">
 <!ENTITY verifiedManage.label        "Urus Akaun">
+<!ENTITY verifiedManage.accesskey    "s">
 <!ENTITY disconnect.label            "Terputus…">
+<!ENTITY disconnect.accesskey        "P">
 <!ENTITY verify.label                "Sahkan E-mel">
+<!ENTITY verify.accesskey            "S">
 <!ENTITY forget.label                "Lupakan E-mel ini">
+<!ENTITY forget.accesskey            "A">
 
 <!ENTITY welcome.description "Akses tab, tandabuku dan kata laluan anda serta banyak lagi ciri di mana jua anda menggunakan &brandShortName;.">
 <!ENTITY welcome.signIn.label "Daftar Masuk">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
 <!ENTITY signedOut.accountBox.title   "Sambung dengan &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cipta Akaun">
+<!ENTITY signedOut.accountBox.create.accesskey  "B">
 <!ENTITY signedOut.accountBox.signin  "Daftar Masuk">
+<!ENTITY signedOut.accountBox.signin.accesskey  "M">
 
 <!ENTITY signedIn.engines.label       "Sync pada semua peranti">
 
