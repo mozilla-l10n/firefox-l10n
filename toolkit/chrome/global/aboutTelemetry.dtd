@@ -54,6 +54,9 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  স্কেলারস">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Keyed Scalars">
+
 <!ENTITY aboutTelemetry.histogramsSection "স্তম্ভচিত্র">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  উদ্দীপিত হিস্টোগ্রামসমূহ">
