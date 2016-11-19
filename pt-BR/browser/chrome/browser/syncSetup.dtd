@@ -93,7 +93,7 @@
 <!ENTITY engine.passwords.accesskey "S">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
-<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.label        "Extensões">
 <!ENTITY engine.addons.accesskey    "C">
 
 <!ENTITY choice2a.merge.main.label       "Mesclar os dados deste dispositivo com os do &syncBrand.shortName.label;">
