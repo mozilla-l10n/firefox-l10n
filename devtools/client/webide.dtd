@@ -79,7 +79,7 @@
 <!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
 <!ENTITY prefs_options_autoclosebrackets "ปิดวงเล็บอัตโนมัติ">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ใส่วงเล็บปิดอัตโนมัติ">
-<!ENTITY prefs_options_keybindings_default "ปริยาย">
+<!ENTITY prefs_options_keybindings_default "ค่าปริยาย">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "ชื่อ">

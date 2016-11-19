@@ -199,4 +199,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ข">
 <!ENTITY options.sourceeditor.keybinding.label          "ปุ่มลัด">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "ป">
-<!ENTITY options.sourceeditor.keybinding.default.label  "ปริยาย">
+<!ENTITY options.sourceeditor.keybinding.default.label  "ค่าปริยาย">
