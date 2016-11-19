@@ -105,8 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
 
-
-
-
-
-
+<!ENTITY  browserContainersHeader.label         "Pestanyas de contenedor">
+<!ENTITY  browserContainersLearnMore.label      "Saber-ne mas">
+<!ENTITY  browserContainersEnabled.label        "Habilitar las pestanyas de contenedor">
+<!ENTITY  browserContainersEnabled.accesskey    "H">
+<!ENTITY  browserContainersSettings.label        "Configuración…">
+<!ENTITY  browserContainersSettings.accesskey    "g">

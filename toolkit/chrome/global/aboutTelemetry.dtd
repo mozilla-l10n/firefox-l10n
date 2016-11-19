@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Penchadas de filos">
 
+<!ENTITY aboutTelemetry.scalarsSection "Escalars">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
