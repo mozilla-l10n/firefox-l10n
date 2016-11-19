@@ -505,7 +505,7 @@ size. -->
 <!ENTITY contextmenu_site_settings "编辑站点设置">
 <!ENTITY contextmenu_top_sites_edit "编辑">
 <!ENTITY contextmenu_top_sites_pin "固定网站">
-<!ENTITY contextmenu_top_sites_unpin "解除网站固定">
+<!ENTITY contextmenu_top_sites_unpin "取消固定">
 <!ENTITY contextmenu_add_search_engine "添加搜索引擎">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
