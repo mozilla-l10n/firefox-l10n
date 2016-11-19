@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Hantarkan e-mel kepada saya apabila ada maklumat lanjut">
 <!ENTITY tabCrashed.reportSent "Laporan ranap telah dihantar; terima kasih kerana membantu menjadikan &brandShortName; lebih baik!">
 <!ENTITY tabCrashed.requestAutoSubmit "Pinta tab latarbelakang">
+<!ENTITY tabCrashed.autoSubmit "Kemaskinikan keutamaan supaya laporan ranap yang masih tertangguh dihantar secara automatik (dan makin sedikit mesej sebegini daripada kami pada masa akan datang)">

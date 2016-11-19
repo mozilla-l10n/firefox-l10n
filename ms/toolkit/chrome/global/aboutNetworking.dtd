@@ -29,6 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mesej Diterima">
 <!ENTITY aboutNetworking.bytesSent             "Bait Dihantar">
 <!ENTITY aboutNetworking.bytesReceived         "Bait Diterima">
+<!ENTITY aboutNetworking.logging               "Menglog">
 <!ENTITY aboutNetworking.dnsLookup             "Carian DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Uraikan">
 <!ENTITY aboutNetworking.dnsDomain             "Domain">
