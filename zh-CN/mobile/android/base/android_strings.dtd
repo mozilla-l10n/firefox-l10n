@@ -147,7 +147,7 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "添加至 &brandShortName;">
+<!ENTITY overlay_share_label "分享到 &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -416,7 +416,7 @@ size. -->
 <!ENTITY pref_panels_move_down "下移">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
-<!ENTITY datareporting_notification_action "选择想分享什么">
+<!ENTITY datareporting_notification_action "选择提供哪些信息">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "选择想分享的信息">
 <!ENTITY datareporting_notification_summary "为了改善您的体验，&brandShortName; 会自动发送一些信息到 &vendorShortName;。">
