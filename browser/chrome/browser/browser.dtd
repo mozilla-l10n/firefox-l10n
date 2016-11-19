@@ -491,7 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.label      "Sayfa kaynağını göster">
 <!ENTITY viewPageSourceCmd.accesskey  "a">
 <!ENTITY viewFrameSourceCmd.label     "Çerçeve kaynağını göster">
-<!ENTITY viewFrameSourceCmd.accesskey "v">
+<!ENTITY viewFrameSourceCmd.accesskey "k">
 <!ENTITY viewPageInfoCmd.label        "Sayfa bilgilerini göster">
 <!ENTITY viewPageInfoCmd.accesskey    "S">
 <!ENTITY viewFrameInfoCmd.label       "Çerçeve bilgilerini göster">

@@ -96,7 +96,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Hesap oluştur">
 <!ENTITY signedOut.accountBox.create.accesskey  "o">
 <!ENTITY signedOut.accountBox.signin  "Giriş yap">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Bunları tüm cihazlarımda eşitle">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
