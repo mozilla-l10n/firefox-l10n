@@ -7,9 +7,13 @@
      of accountTree.width entity. -->
      
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Identitetsinställningar">
 <!ENTITY identityListDesc.label "Anpassa inställningarna för den här identiteten:">
 
 <!ENTITY settingsTab.label       "Inställningar">
 <!ENTITY copiesFoldersTab.label "Kopior &amp; mappar">
 <!ENTITY addressingTab.label    "Skriva &amp; adressera">
+
+<!ENTITY publicData.label        "Publika uppgifter">
+<!ENTITY privateData.label       "Privata uppgifter">
+<!ENTITY identityAlias.label     "Identitetsnamn:">
+<!ENTITY identityAlias.accesskey "n">
