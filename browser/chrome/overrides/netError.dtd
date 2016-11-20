@@ -52,6 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Пријави се на мрежу">
+<!ENTITY captivePortal.longDesc "<p>Ова мрежа захтева пријаву за приступ интернету.</p>">
 
 <!ENTITY openPortalLoginPage.label "Отвори страницу за пријаву">
 
