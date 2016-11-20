@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Carregando…">
-<!ENTITY listEmpty.installed.label            "Não há nenhuma extensão deste tipo instalado">
+<!ENTITY listEmpty.installed.label            "Não há nenhuma extensão deste tipo instalada">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
 <!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento">
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
