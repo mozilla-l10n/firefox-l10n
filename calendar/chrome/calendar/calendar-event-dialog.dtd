@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; completada">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Notificar participantes">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Convite separado por participante">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
+<!ENTITY event.attendees.notify.label                "Notificar participantes">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Convite separado por participante">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
+<!ENTITY event.attendees.disallowcounter.label       "Anular o contador">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Idicar que você não aceitará a contraproposta">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
 <!ENTITY  event.toolbar.status.tooltip                    "Alterar status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar tempo livre/ocupado">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Aplicar a proposta">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Aplicar os dados da proposta ao formulário.">
+<!ENTITY counter.button.original.label                    "Aplicar dados originais">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Aplicar a proposta.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
