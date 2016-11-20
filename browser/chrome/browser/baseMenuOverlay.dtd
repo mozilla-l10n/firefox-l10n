@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "ช">
 <!ENTITY aboutProduct2.label      "เกี่ยวกับ &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "การช่วยเหลือของ &brandShorterName;">
+<!ENTITY productHelp2.label       "ความช่วยเหลือของ &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "ช">
 <!ENTITY helpMac.commandkey       "?">
 
