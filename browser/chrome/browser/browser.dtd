@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ferramentas e funcionalidades adicionais">
 <!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Milhares de complementos para escolher">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Milhares de extensões para escolher">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
 <!ENTITY customizeMode.toolbars "Mostrar / ocultar barras de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
