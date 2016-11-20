@@ -11,13 +11,13 @@
   이 정보를 토대로 <a id='supportLink'>고객 지원 사이트</a>에 문의하시기 바랍니다.
 ">
 
-<!ENTITY aboutSupport.crashes.title "크래시 보고">
+<!ENTITY aboutSupport.crashes.title "충돌 보고서">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "보고 ID">
 <!ENTITY aboutSupport.crashes.sendDate "전송됨">
-<!ENTITY aboutSupport.crashes.allReports "모든 크래시 보고">
-<!ENTITY aboutSupport.crashes.noConfig "이 어플리케이션은 크래시 보고를 표시하도록 설정되어 있지 않습니다.">
+<!ENTITY aboutSupport.crashes.allReports "모든 충돌 보고서">
+<!ENTITY aboutSupport.crashes.noConfig "이 어플리케이션은 충돌 보고서를 표시하도록 설정되어 있지 않습니다.">
 
 <!ENTITY aboutSupport.extensionsTitle "확장 기능">
 <!ENTITY aboutSupport.extensionName "이름">
