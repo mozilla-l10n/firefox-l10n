@@ -13,12 +13,14 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Chaous, sac'het eo hoc'h ivinell.">
+<!ENTITY tabCrashed.offerHelp "Ho sikour a c'hallomp!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Dibabit &tabCrashed.restoreTab; evit adkargañ endalc'had ar bajenn.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Dibabit &tabCrashed.restoreTab; pe &tabCrashed.restoreAll; evit adkargañ endalc'had ar bajenn.">
+<!ENTITY tabCrashed.requestHelp "Skoazell a reot ac'hanomp?">
+<!ENTITY tabCrashed.requestHelpMessage "An danevelloù sac'hadenn a skoazell ac'hanomp da wellaat &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Danevelliñ an ivinell-mañ">
+<!ENTITY tabCrashed.sendReport2 "Kas un danevell sac'hadenn evit an ivinell emaoc'h o welet">
 
 
 <!ENTITY tabCrashed.emailPlaceholder "Bizskrivit ho chomlec'h postel amañ">
