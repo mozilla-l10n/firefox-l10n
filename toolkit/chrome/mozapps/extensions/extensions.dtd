@@ -64,8 +64,8 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Definir atualização manual para todos">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "D">
 <!ENTITY updates.updating.label               "Atualizando as extensões">
-<!ENTITY updates.installed.label              "Seus complementos foram atualizados.">
-<!ENTITY updates.downloaded.label             "As atualizações de seus complementos foram baixadas.">
+<!ENTITY updates.installed.label              "Suas extensões foram atualizadas.">
+<!ENTITY updates.downloaded.label             "As atualizações de suas extensões foram baixadas.">
 <!ENTITY updates.restart.label                "Reinicie agora para concluir a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "Ver atualizações disponíveis">
@@ -104,12 +104,12 @@
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Alterar as opções deste complemento">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Alterar as opções desta extensão">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar as preferências deste complemento">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar as preferências desta extensão">
 <!ENTITY cmd.contribute.label                 "Fazer uma contribuição">
 <!ENTITY cmd.contribute.accesskey             "F">
-<!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento do complemento">
+<!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento esta extensão">
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
@@ -119,8 +119,8 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "O que são complementos?">
-<!ENTITY discover.description2                "Complementos são aplicativos que personalizam o &brandShortName; com 
+<!ENTITY discover.title                       "O que são extensões?">
+<!ENTITY discover.description2                "Extensões são aplicativos que personalizam o &brandShortName; com 
 funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, um notificador sobre o clima ou um tema para tornar seu &brandShortName; 
 único.">
 <!ENTITY discover.footer                      "Quando estiver conectado à internet, este painel apresentará alguns 
@@ -148,7 +148,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 
 <!ENTITY detail.checkForUpdates.label         "Verificar atualização">
 <!ENTITY detail.checkForUpdates.accesskey     "V">
-<!ENTITY detail.checkForUpdates.tooltip       "Verificar se este complemento possui atualização">
+<!ENTITY detail.checkForUpdates.tooltip       "Verificar se há atualizações para esta extensão">
 <!ENTITY detail.showPreferencesWin.label      "Opções">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Alterar as opções desta extensão">
