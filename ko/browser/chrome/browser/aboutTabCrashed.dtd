@@ -15,4 +15,4 @@
      translation. -->
 <!ENTITY tabCrashed.emailPlaceholder "이메일 주소를 입력하세요">
 <!ENTITY tabCrashed.emailMe "추가 정보가 있을 경우 이메일 받기">
-<!ENTITY tabCrashed.reportSent "오류 보고서를 이미 전송했습니다. &brandShortName;가 보다 나아지도록 도와주셔서 고맙습니다!">
+<!ENTITY tabCrashed.reportSent "충돌 보고서를 이미 전송했습니다. &brandShortName;가 보다 나아지도록 도와주셔서 고맙습니다!">
