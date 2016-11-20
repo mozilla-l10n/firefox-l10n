@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY pageSetupCmd.accesskey "ต">
-<!ENTITY printPreviewCmd.label "แสดงตัวอย่างการพิมพ์">
+<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printPreviewCmd.accesskey "ส">
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "พ">
