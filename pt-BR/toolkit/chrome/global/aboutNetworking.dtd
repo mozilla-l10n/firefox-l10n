@@ -29,11 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mensagens recebidas">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviados">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recebidos">
+<!ENTITY aboutNetworking.logging               "Registro">
 <!ENTITY aboutNetworking.logTutorial           "Veja o <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Registro HTTP </a> para instruções sobre como usar essa ferramenta.">
 <!ENTITY aboutNetworking.currentLogFile        "Arquivo de registro atual:">
 <!ENTITY aboutNetworking.currentLogModules     "Módulos de registro atuais:">
 <!ENTITY aboutNetworking.setLogFile            "Configurar arquivo de registro">
 <!ENTITY aboutNetworking.setLogModules         "Configurar módulo de registro">
+<!ENTITY aboutNetworking.startLogging          "Iniciar registro">
+<!ENTITY aboutNetworking.stopLogging           "Parar registro">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Domínio">
