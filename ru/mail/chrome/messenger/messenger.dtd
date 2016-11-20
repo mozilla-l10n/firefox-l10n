@@ -454,16 +454,27 @@
 <!ENTITY deleteJunk.accesskey "д">
 <!ENTITY importCmd.label "Импорт…">
 <!ENTITY importCmd.accesskey "И">
-<!ENTITY errorConsoleCmd.label "Консоль ошибок">
-<!ENTITY errorConsoleCmd.accesskey "н">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Стереть недавнюю историю…">
 <!ENTITY clearRecentHistory.accesskey "т">
 <!ENTITY accountManagerCmd2.label "Параметры учётной записи">
 <!ENTITY accountManagerCmd2.accesskey "м">
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
-<!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
-<!ENTITY allowRemoteDebugging.accesskey "з">
+<!ENTITY devtoolsMenu.label "Инструменты разработчика">
+<!ENTITY devtoolsMenu.accesskey "е">
+<!ENTITY devToolboxCmd.label "Панель разработки">
+<!ENTITY devToolboxCmd.accesskey "а">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Отладчик дополнений">
+<!ENTITY addonDebugCmd.accesskey "л">
+<!ENTITY tabsDebugCmd.label "Отладчик фрейма содержимого">
+<!ENTITY tabsDebugCmd.accesskey "и">
+<!ENTITY errorConsoleCmd.label "Консоль ошибок">
+<!ENTITY errorConsoleCmd.accesskey "н">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Простой редактор JavaScript">
+<!ENTITY scratchpadCmd.accesskey "о">
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!ENTITY scratchpadCmd.keytext "F4">
 <!ENTITY getMsgButton1.label "Получить">
 <!ENTITY newMsgButton.label "Создать">
 <!ENTITY replyButton.label "Ответить">

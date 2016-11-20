@@ -7,3 +7,7 @@
 <!ENTITY settingsTab.label "Настройки">
 <!ENTITY copiesFoldersTab.label "Копии и папки">
 <!ENTITY addressingTab.label "Составление и адресация">
+<!ENTITY publicData.label "Публичные данные">
+<!ENTITY privateData.label "Приватные данные">
+<!ENTITY identityAlias.label "Метка адреса эл. почты:">
+<!ENTITY identityAlias.accesskey "к">
