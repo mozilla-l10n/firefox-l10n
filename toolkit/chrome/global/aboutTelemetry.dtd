@@ -67,7 +67,8 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhes do complemento">
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Detalhes da extensão">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 

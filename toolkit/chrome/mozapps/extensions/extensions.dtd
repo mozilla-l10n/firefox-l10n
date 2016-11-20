@@ -25,7 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Algumas extensões não puderam ser verificadas">
 <!ENTITY showAllExtensions.button.label       "Mostra todas as extensões">
-<!ENTITY debugAddons.label                    "Debugar Complementos">
+<!ENTITY debugAddons.label                    "Depurar extensões">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
