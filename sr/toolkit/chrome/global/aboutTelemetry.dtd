@@ -104,6 +104,8 @@ Ping
   Скалари
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "Кључни скалари">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Хистограми
 ">

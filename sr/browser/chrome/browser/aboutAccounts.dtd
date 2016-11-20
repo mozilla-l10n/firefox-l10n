@@ -13,3 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Морате бити повезани на интернет да бисте се пријавили.">
 <!ENTITY aboutAccounts.noConnection.retry "Покушај поново">
 <!ENTITY aboutAccounts.badConfig.title "Лоша конфигурација">
+<!ENTITY aboutAccounts.badConfig.description "Не могу да утврдим серверску конфигурацију Firefox налога. Покушајте касније.">
