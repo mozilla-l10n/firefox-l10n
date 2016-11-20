@@ -94,7 +94,7 @@
 <!ENTITY reader_switch_to_bookmarks "สลับ">
 
 <!ENTITY history_today_section "วันนี้">
-<!ENTITY history_yesterday_section "เมื่อวาน">
+<!ENTITY history_yesterday_section "เมื่อวานนี้">
 <!ENTITY history_week_section3 "7 วันที่ผ่านมา">
 <!ENTITY history_older_section3 "เก่ากว่า 6 เดือน">
 
@@ -557,7 +557,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "การกระทำเพิ่มเติม">
 
 <!ENTITY masterpassword_create_title "สร้างรหัสผ่านหลัก">
-<!ENTITY masterpassword_remove_title "ลบรหัสผ่านหลัก">
+<!ENTITY masterpassword_remove_title "เอารหัสผ่านหลักออก">
 <!ENTITY masterpassword_password "รหัสผ่าน">
 <!ENTITY masterpassword_confirm "ยืนยันรหัสผ่าน">
 
