@@ -13,6 +13,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Aff! Sua aba travou.">
 <!ENTITY tabCrashed.offerHelp "Podemos ajudá-lo!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a página.">
