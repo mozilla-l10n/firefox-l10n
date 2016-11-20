@@ -19,10 +19,11 @@
 <!ENTITY  paneContent.title       "เนื้อหา">
 <!ENTITY  paneApplications.title  "แอปพลิเคชัน">
 <!ENTITY  panePrivacy.title       "ความเป็นส่วนตัว">
+<!ENTITY  paneContainers.title    "แท็บแยกตัวตน">
 <!ENTITY  paneSecurity.title      "ความปลอดภัย">
 <!ENTITY  paneAdvanced.title      "ขั้นสูง">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "ช่วยเหลือ">
