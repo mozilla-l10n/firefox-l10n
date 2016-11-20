@@ -88,7 +88,7 @@
 <!ENTITY col.lastmodified.label  "Última modificação">
 
 <!ENTITY search.label                              "Pesquisar:">
-<!ENTITY search.placeholder                        "Pesquisar nos marcadores">
+<!ENTITY search.placeholder                        "Pesquisar marcadores">
 
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta escolhida">
