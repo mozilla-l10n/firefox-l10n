@@ -14,7 +14,9 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "แท็บของคุณเพิ่งขัดข้อง">
+<!ENTITY tabCrashed.requestHelpMessage "รายงานข้อขัดข้องช่วยเราวินิจฉัยปัญหาและทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY tabCrashed.requestReport "รายงานแท็บนี้">
 <!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณที่นี่">
 <!ENTITY tabCrashed.emailMe "ส่งอีเมลหาฉันเมื่อมีข้อมูลเพิ่มเติม">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">
+<!ENTITY tabCrashed.autoSubmit "อัปเดตการตั้งค่าให้ส่งรายงานข้อขัดข้องที่ค้างอยู่โดยอัตโนมัติ (และรับข้อความเช่นนี้จากเราน้อยลงในอนาคต)">
