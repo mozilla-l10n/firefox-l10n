@@ -15,6 +15,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Meca, les tos llingüetes ta acabante de cascar.">
 <!ENTITY tabCrashed.offerHelp "¡Podemos ayudate!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Esbilla &tabCrashed.restoreTab; pa recargar el conteníu de la páxina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Esbilla &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pa recargar el conteníu de la páxina.">
+<!ENTITY tabCrashed.requestHelp "¿Ayúdesnos?">
+<!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos ayúdennos a diagnosticar problemes y facer un &brandShortName; meyor.">
+<!ENTITY tabCrashed.requestReport "Reportar esta llingüeta">
+<!ENTITY tabCrashed.sendReport2 "Unviar un reporte de fallos pa la llingüeta que tas viendo">
+<!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son públicos y visibles)">
+<!ENTITY tabCrashed.includeURL2 "Incluyir páxina URL con esti informe de fallu">
 <!ENTITY tabCrashed.emailPlaceholder "Introduz equí la to direición de corréu">
 <!ENTITY tabCrashed.emailMe "Unviáime un corréu cuando heba más información disponible">
 <!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallos; ¡gracies por ayudar a ameyorar &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit "Solicitar llingüetes en segundu planu">
+<!ENTITY tabCrashed.autoSubmit "Anovar les preferencies pa unviar informes de fallos automáticamente (y recibir menos mensaxes como esti nel futuru)">
