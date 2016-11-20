@@ -44,6 +44,7 @@ do seu computador.</li> 
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
 
 <!ENTITY captivePortal.title "Autenticar na rede">
+<!ENTITY captivePortal.longDesc "<p>Esta rede pode exigir sua autenticação para usar a internet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Abrir página de autenticação">
 

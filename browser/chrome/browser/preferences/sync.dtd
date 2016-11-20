@@ -40,6 +40,7 @@
 <!ENTITY syncDeviceName.label       "Nome do dispositivo:">
 <!ENTITY fxaSyncDeviceName.label       "Nome do dispositivo">
 <!ENTITY changeSyncDeviceName.label "Alterar nome do dispositivo…">
+<!ENTITY changeSyncDeviceName.accesskey "l">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salvar">
@@ -72,6 +73,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Você não entrou.">
 <!ENTITY signIn.label                "Entrar">
+<!ENTITY signIn.accesskey            "t">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY verifiedManage.label        "Gerenciar Conta">
 <!ENTITY verifiedManage.accesskey    "o">
@@ -80,6 +82,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Verificar e-mail">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Esquecer este e-mail">
+<!ENTITY forget.accesskey            "E">
 
 <!ENTITY welcome.description "Acessar suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
 <!ENTITY welcome.signIn.label "Entrar">
@@ -93,6 +96,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Criar conta">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Entrar">
+<!ENTITY signedOut.accountBox.signin.accesskey  "E">
 
 <!ENTITY signedIn.engines.label       "Sincronização entre dispositivos">
 

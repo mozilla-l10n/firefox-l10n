@@ -60,6 +60,9 @@ Raw JSON
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Keyed Scalars
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
