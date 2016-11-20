@@ -17,7 +17,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a página.">
 <!ENTITY tabCrashed.requestHelp "Você vai nos ajudar?">
-<!ENTITY tabCrashed.requestHelpMessage "Relatórios de travamentos nos ajudarão a diagnosticar os problemas e deixar o &brandShortName; melhor.">
+<!ENTITY tabCrashed.requestHelpMessage "Os Relatórios de travamento nos ajudarão a diagnosticar os problemas e a fazer o &brandShortName; melhor.">
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
 <!ENTITY tabCrashed.sendReport2 "Enviar um relatório de travamento da aba que você está visualizando">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários serão visíveis publicamente)">
