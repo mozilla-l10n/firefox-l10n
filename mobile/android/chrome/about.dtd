@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Sobre o &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "O &brandShortName; é experimental e pode ser instável.">
-<!ENTITY aboutPage.telemetryStart               " Automaticamente envia dados sobre hardware, uso, personalização e desempenho para a ">
+<!ENTITY aboutPage.telemetryStart               " Informações de desempenho, hardware, uso e personalização são enviadas de volta a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " de forma a ajudar a melhorar o &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 " para ajudar a melhorar o &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar se há atualizações »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Procurando por atualizações…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível">
@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Informações de licenciamento">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-<!ENTITY aboutPage.logoTrademark                "Firefox e logotipos Firefox são marcas comerciais da Mozilla Foundation.">
+<!ENTITY aboutPage.logoTrademark                "Firefox e seus logotipos são marcas registradas da Mozilla Foundation.">
