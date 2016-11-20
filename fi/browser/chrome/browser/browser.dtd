@@ -381,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Kirjoita osoite tai hakutermi">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.extension.label       "Laajennus:">
 <!ENTITY urlbar.switchToTab.label     "Siirry välilehteen:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Näytetäänkö hakuja tehdessä hakuehdotuksia?">
