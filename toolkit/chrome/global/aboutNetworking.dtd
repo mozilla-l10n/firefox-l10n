@@ -34,6 +34,9 @@
 <!ENTITY aboutNetworking.currentLogFile        "Тренутна датотека за бележење:">
 <!ENTITY aboutNetworking.currentLogModules     "Тренутни модули за бележење:">
 <!ENTITY aboutNetworking.setLogFile            "Подеси датотеку за бележење">
+<!ENTITY aboutNetworking.setLogModules         "Подеси модуле за бележење">
+<!ENTITY aboutNetworking.startLogging          "Покрени бележење">
+<!ENTITY aboutNetworking.stopLogging           "Заустави бележење">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Решити">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
