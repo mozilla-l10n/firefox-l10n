@@ -22,8 +22,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before "Приватный просмотр ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize "не обеспечивает вам анонимность">
 <!ENTITY aboutPrivateBrowsing.note.after " в Интернете. Ваш работодатель или интернет-провайдер всё ещё могут знать, какую страницу вы посещаете.">
-<!ENTITY aboutPrivateBrowsing.learnMore2 "Узнайте больше о">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title "Приватном просмотре">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before "Узнайте больше о ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title "Приватном просмотре">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after ".">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.description2 "Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. С Защитой от отслеживания, Firefox будет блокировать множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.">
 <!ENTITY trackingProtection.startTour1 "Посмотреть, как это работает">
