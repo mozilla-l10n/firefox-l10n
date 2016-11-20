@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "اطّلع على المزيد">
 <!ENTITY  browserContainersEnabled.label        "فعل الألسنة الحاوية">
 <!ENTITY  browserContainersEnabled.accesskey    "ف">
-
-
+<!ENTITY  browserContainersSettings.label        "الإعدادات…">
+<!ENTITY  browserContainersSettings.accesskey    "د">

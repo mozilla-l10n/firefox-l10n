@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "الإضافات">
 <!ENTITY engine.addons.accesskey    "ض">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "اسم الجهاز:">
 <!ENTITY fxaSyncDeviceName.label       "اسم الجهاز">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "غيّر اسم الجهاز…">
+<!ENTITY changeSyncDeviceName.accesskey "ه">
+<!ENTITY cancelChangeSyncDeviceName.label "ألغِ">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ل">
+<!ENTITY saveChangeSyncDeviceName.label "احفظ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ح">
 <!ENTITY unlinkDevice.label           "ألغِ ارتباط هذا الجهاز">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "​">
 
 <!ENTITY notSignedIn.label           "لست والجًا.">
-
-
+<!ENTITY signIn.label                "لج">
+<!ENTITY signIn.accesskey            "ل">
 <!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "أدِر الحساب">
+<!ENTITY verifiedManage.accesskey    "س">
+<!ENTITY disconnect.label            "اقطع الاتصال…">
+<!ENTITY disconnect.accesskey        "ط">
+<!ENTITY verify.label                "أكّد البريد">
+<!ENTITY verify.accesskey            "ك">
+<!ENTITY forget.label                "انس هذا البريد">
+<!ENTITY forget.accesskey            "ن">
 
 <!ENTITY welcome.description "توصّل إلى ألسنتك، و علاماتك/ و كلمات السر و غيرهم المزيد أينما تستخدم &brandShortName;.">
 <!ENTITY welcome.signIn.label "لِج">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.">
 <!ENTITY signedOut.accountBox.title   "اتصل باستخدام &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "أنشئ حسابًا">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "ن">
 <!ENTITY signedOut.accountBox.signin  "لِج">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "ل">
 
 <!ENTITY signedIn.engines.label       "زامِن عبر كل الأجهزة">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

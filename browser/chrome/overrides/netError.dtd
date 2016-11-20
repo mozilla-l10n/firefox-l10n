@@ -30,8 +30,10 @@
 <!ENTITY generic.title "آخ.">
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
+<!ENTITY captivePortal.title "لِج إلى الشبكة">
+<!ENTITY captivePortal.longDesc "<p>قد تتطلب هذه الشبكة الولوج لاستخدام الإنترنت.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "افتح صفحة الولوج">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
 <!ENTITY malformedURI.longDesc "<ul> <li>تكتب عادة عناوين وِب بالشكل <strong>http://www.example.com/</strong></li> <li>تأكد أنك لا تستخدم سلاش أمامية (<strong>/</strong>).</li> </ul>">
