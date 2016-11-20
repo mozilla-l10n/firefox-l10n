@@ -14,8 +14,15 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "แท็บของคุณเพิ่งขัดข้อง">
+<!ENTITY tabCrashed.offerHelp "เราสามารถช่วยคุณได้!">
+<!ENTITY tabCrashed.single.offerHelpMessage "เลือก &tabCrashed.restoreTab; เพื่อโหลดเนื้อหาหน้าใหม่">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "เลือก &tabCrashed.restoreTab; หรือ &tabCrashed.restoreAll; เพื่อโหลดเนื้อหาหน้าใหม่">
+<!ENTITY tabCrashed.requestHelp "คุณจะช่วยเราได้หรือไม่?">
 <!ENTITY tabCrashed.requestHelpMessage "รายงานข้อขัดข้องช่วยเราวินิจฉัยปัญหาและทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY tabCrashed.requestReport "รายงานแท็บนี้">
+<!ENTITY tabCrashed.sendReport2 "ส่งรายงานข้อขัดข้องสำหรับแท็บที่คุณกำลังดูอยู่">
+<!ENTITY tabCrashed.commentPlaceholder2 "ความคิดเห็นเพิ่มเติม (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
+<!ENTITY tabCrashed.includeURL2 "รวม URL ของหน้าไว้ในรายงานข้อขัดข้องนี้">
 <!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณที่นี่">
 <!ENTITY tabCrashed.emailMe "ส่งอีเมลหาฉันเมื่อมีข้อมูลเพิ่มเติม">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">

@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "กำลังตรวจสอบใบรับรอง…">
 <!ENTITY certmgr.subjectinfo.label            "ออกให้">
 <!ENTITY certmgr.issuerinfo.label             "ออกโดย">
-<!ENTITY certmgr.periodofvalidity.label       "ระยะเวลาความถูกต้อง" >
+<!ENTITY certmgr.periodofvalidity.label       "ระยะเวลาที่มีผล" >
 <!ENTITY certmgr.fingerprints.label           "ลายนิ้วมือ">
 <!ENTITY certmgr.certdetail.title             "รายละเอียดใบรับรอง">
 <!ENTITY certmgr.certdetail.cn                "ชื่อสามัญ (CN)">
