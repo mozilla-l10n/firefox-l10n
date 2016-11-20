@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "ชื่อ">
+<!ENTITY addButton.label      "เพิ่มการแยกตัวตนใหม่">
 <!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; กลับสู่ความเป็นส่วนตัว">
 
+<!ENTITY window.title         "เพิ่มการแยกตัวตนใหม่">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "ชื่อ:">
