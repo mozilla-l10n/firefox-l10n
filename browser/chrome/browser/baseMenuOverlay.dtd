@@ -31,13 +31,13 @@
 <!ENTITY healthReport2.label      "Relatório de integridade do &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
+<!ENTITY helpTroubleshootingInfo.label      "Informações para resolver problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "d">
 
 <!ENTITY helpFeedbackPage.label      "Enviar opinião…">
 <!ENTITY helpFeedbackPage.accesskey  "n">
 
-<!ENTITY helpShowTour2.label            "Tour do &brandShorterName;">
+<!ENTITY helpShowTour2.label            "Introdução ao &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferências…">
