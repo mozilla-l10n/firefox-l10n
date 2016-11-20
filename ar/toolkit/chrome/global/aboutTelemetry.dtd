@@ -13,6 +13,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "  تسجيل القياس عن بعد الموسع <span>معطل</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "اختبار مصدر البيانات">
 
 
 
@@ -21,8 +22,11 @@
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
 
+<!ENTITY aboutTelemetry.choosePing "اختر الاختبار">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; أحدث اختبار">
 
+<!ENTITY aboutTelemetry.showOlderPing "الاختبار الأقدم &gt;&gt;">
 
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "أسبوع">

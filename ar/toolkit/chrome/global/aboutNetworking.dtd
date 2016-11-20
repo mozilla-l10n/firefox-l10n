@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "الرسائل المُستلمة">
 <!ENTITY aboutNetworking.bytesSent             "البايتات المرسلة">
 <!ENTITY aboutNetworking.bytesReceived         "البايتات المستلمة">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "التسجيل">
+<!ENTITY aboutNetworking.logTutorial           "طالع <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>تسجيل HTTP</a> لتعليمات استخدام هذه الأداة.">
+<!ENTITY aboutNetworking.currentLogFile        "ملف السجل الحالي:">
+<!ENTITY aboutNetworking.currentLogModules     "وحدات السجل الحالية:">
+<!ENTITY aboutNetworking.setLogFile            "حدد ملف السجل">
+<!ENTITY aboutNetworking.setLogModules         "حدد وحدات السجل">
+<!ENTITY aboutNetworking.startLogging          "ابدأ تسجيل الوقائع">
+<!ENTITY aboutNetworking.stopLogging           "أوقف تسجيل الوقائع">
 <!ENTITY aboutNetworking.dnsLookup             "بحث DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "حُلّ">
 <!ENTITY aboutNetworking.dnsDomain             "النطاق">
