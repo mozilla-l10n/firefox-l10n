@@ -57,6 +57,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  كتابات متأخرّة">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  معلومات الجلسة">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  رسومات بيانية جمعتها الإضافات">
 
@@ -72,4 +73,5 @@
 
 <!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  الحمولة">
 
