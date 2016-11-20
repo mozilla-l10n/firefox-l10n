@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "در صورت در دسترس بودن اطلاعات بیشتر به من نامه‌الکترونیکی ارسال شود.">
 <!ENTITY tabCrashed.reportSent "گزارش‌ خرابی جهت ارسال آماده است;از شما به خاطر کمک‌کردن به بهتر شدن این &brandShortName; تشکر می‌کنیم!">
 <!ENTITY tabCrashed.requestAutoSubmit "درخواست زبانه‌های پس زمینه">
-
+<!ENTITY tabCrashed.autoSubmit "بروزرسانی ترجیحات برای ارسال خودکار گزارش های خرابی انباشته شده(و دریافت پیام کم تر نظیر این در آیند)">

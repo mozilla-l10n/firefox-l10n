@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "افزودنی‌ها">
 <!ENTITY engine.addons.accesskey    "ا">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "نام دستگاه:">
 <!ENTITY fxaSyncDeviceName.label       "نام دستگاه">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "تغییر نام دستگاه…">
+<!ENTITY changeSyncDeviceName.accesskey "ت">
+<!ENTITY cancelChangeSyncDeviceName.label "انصراف">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ا">
+<!ENTITY saveChangeSyncDeviceName.label "ذخیره">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ذ">
 <!ENTITY unlinkDevice.label           "جدا کردن دستگاه">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
-
-
+<!ENTITY signIn.label                "ورود">
+<!ENTITY signIn.accesskey            "و">
 <!ENTITY profilePicture.tooltip      "تغییرتصویر نمایه">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "مدیریت حساب">
+<!ENTITY verifiedManage.accesskey    "ح">
+<!ENTITY disconnect.label            "قطع ارتباط…">
+<!ENTITY disconnect.accesskey        "ق">
+<!ENTITY verify.label                "تایید پست‌الکترونیکی">
+<!ENTITY verify.accesskey            "ت">
+<!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
+<!ENTITY forget.accesskey            "ا">
 
 <!ENTITY welcome.description "به زبانه‌ها، نشانک‌ها و گذرواژه‌های خود هنگام استفاده از &brandShortName; دسترسی داشته باشید.">
 <!ENTITY welcome.signIn.label "ورود">
