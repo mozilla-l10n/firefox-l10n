@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Alguns dos recursos do &brandShortName;, como o Crash Reporter, lhe dão a opção de fornecer informações à &vendorShortName;. Ao efetuar o envio destas informações, você dá à &vendorShortName; a permissão de usá-las para aperfeiçoar seus produtos, para publicá-las em seus sites e para distribuí-las.">
+<!ENTITY rights.intro-point2.5 "Algumas das funcionalidades do &brandShortName;, como o Crash Reporter, dão a opção de fornecer opiniões à &vendorShortName;. Ao escolher submeter sua opnião, você dá à &vendorShortName; a permissão de usá-las para aperfeiçoar seus produtos, para publicá-las em seus sites e para distribuí-las.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "A forma como nós usamos seus dados pessoais e informações enviadas à &vendorShortName; pelo &brandShortName; está descrita na ">
