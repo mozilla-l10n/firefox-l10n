@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "文章">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "干净无扰">
-<!ENTITY firstrun_readerview_subtext "在阅读视图中更清爽地阅读文章， \u2014 没网也不怕。">
+<!ENTITY firstrun_readerview_subtext "在阅读视图中更清爽地阅读文章，没网也不怕。">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "您">
