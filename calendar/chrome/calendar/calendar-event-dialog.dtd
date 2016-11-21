@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar hora de ocupado/livre">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Aplicar proposta">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Aplicar ao formulário os dados propostos.">
+<!ENTITY counter.button.original.label                    "Aplicar dados originais">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Aplicar ao formulário os dados originais.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Título:" >
