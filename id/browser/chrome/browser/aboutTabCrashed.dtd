@@ -13,6 +13,10 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "Kami dapat membantu Anda!">
+<!ENTITY tabCrashed.requestHelp "Maukah Anda membantu kami?">
+<!ENTITY tabCrashed.requestReport "Laporkan tab ini">
+<!ENTITY tabCrashed.commentPlaceholder2 "Komentar tambahan (komentar dapat dilihat umum)">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat email Anda di sini">
 <!ENTITY tabCrashed.emailMe "Kirimi saya email saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
