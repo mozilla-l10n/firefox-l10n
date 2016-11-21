@@ -7,10 +7,8 @@
 <!ENTITY  updateCheck.label               "กำลังมองหา &brandShortName; รุ่นใหม่กว่า…">
 
 <!ENTITY  noupdatesfound.title            "ไม่พบการอัปเดต">
-<!ENTITY  noupdatesautoenabled.intro      "ไม่มีการอัปเดตที่ใช้งานได้ &brandShortName; จะตรวจสอบ
-                                           การอัปเดตเป็นระยะ">
-<!ENTITY  noupdatesautodisabled.intro     "ไม่มีการอัปเดตที่ใช้งานได้ โปรดตรวจสอบอีกครั้งในภายหลังหรือเปิดใช้งาน
-                                           การตรวจสอบการอัปเดตอัตโนมัติของ &brandShortName;">
+<!ENTITY  noupdatesautoenabled.intro      "ไม่มีการอัปเดตที่ใช้งานได้ &brandShortName; จะตรวจสอบการอัปเดตเป็นระยะ">
+<!ENTITY  noupdatesautodisabled.intro     "ไม่มีการอัปเดตที่ใช้งานได้ โปรดตรวจสอบอีกครั้งในภายหลังหรือเปิดใช้งานการตรวจสอบการอัปเดตอัตโนมัติของ &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "ไม่สามารถอัปเดต">
 <!ENTITY  manualUpdate.desc               "พบการปรับรุ่นความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง แต่คุณไม่มีสิทธิ์ในการเข้าถึงระบบที่เพียงพอสำหรับการติดตั้ง โปรดติดต่อผู้ดูแลระบบหรือลองอีกครั้งโดยใช้บัญชีผู้ใช้ที่มีสิทธิ์ติดตั้งโปรแกรม บนคอมพิวเตอร์เครื่องนี้">
@@ -36,10 +34,9 @@
 
 <!ENTITY  error.title                     "การอัปเดตล้มเหลว">
 
-<!ENTITY  error.label                     "มีปัญหาในการตรวจสอบ, ดาวน์โหลด, หรือ ติดตั้งชุดปรับรุ่นนี้ ไม่สามารถปรับรุ่น &brandShortName; ได้เพราะ :">
+<!ENTITY  error.label                     "เกิดปัญหาในการตรวจสอบ ดาวน์โหลด หรือติดตั้งการอัปเดต ไม่สามารถอัปเดต &brandShortName; ได้เนื่องจาก:">
                                            
-<!ENTITY  errorManual.label               "คุณสามารถปรับปรุง &brandShortName; ด้วยตนเองโดยไปที่ลิงก์นี้
-                                           และดาวน์โหลดรุ่นล่าสุด:">
+<!ENTITY  errorManual.label               "คุณสามารถอัปเดต &brandShortName; ด้วยตนเองโดยไปที่ลิงก์นี้และดาวน์โหลดรุ่นล่าสุด:">
                                            
 <!ENTITY  errorpatching.intro             "ไม่สามารถทำการปรับรุ่นแบบบางส่วนได้ &brandShortName; จะพยายามอีกครั้ง โดยการดาวน์โหลดชุดปรับรุ่นแบบเต็ม">
 
