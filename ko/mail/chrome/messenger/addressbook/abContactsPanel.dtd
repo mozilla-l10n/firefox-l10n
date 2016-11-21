@@ -9,9 +9,12 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "연락처 속성">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "메일링 리스트 속성">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "주소록 목록:">
 <!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "연락처 검색:">
 <!ENTITY SearchNameOrEmail.label            "이름 또는 메일">
 
 <!ENTITY addtoToFieldMenu.label             "받는 사람에 추가">
