@@ -40,7 +40,7 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Ако този продукт включва уеб услуги, всички приложими условия на услуга(и) трябва да имат връзка към раздел ">
+<!ENTITY rights.intro-point4a-unbranded "Ако този продукт включва уеб услуги, всички приложими условия на услугите трябва да имат препратки в раздела ">
 <!ENTITY rights.intro-point4b-unbranded "Услуги за уеб сайтове">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
