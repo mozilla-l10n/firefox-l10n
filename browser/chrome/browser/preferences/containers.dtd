@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "&#171; গোপনীয়তাতে ফিরে যান">
 
 <!ENTITY window.title         "নতুন কন্টেইনার যোগ করুন">
-<!ENTITY window.width         "45 em">
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "নাম:">
 <!ENTITY name.accesskey       "N">
