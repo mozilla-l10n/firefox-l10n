@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
- 
+
 <!ENTITY messengerWindow.title "E-mail &amp; nieuwsgroepen">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
@@ -13,7 +13,7 @@
 <!ENTITY tabmailCloseButton.tooltip "Huidige tabblad sluiten">
 <!ENTITY tabmailAllTabs.tooltip "Alle tabbladtitels weergeven">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "Nieuw bericht">
