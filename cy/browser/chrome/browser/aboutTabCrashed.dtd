@@ -13,9 +13,11 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
+<!ENTITY tabCrashed.header2 "Ach. Mae eich tab newydd chwalu.">
+<!ENTITY tabCrashed.offerHelp "Gallwn ni eich helpu!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Dewiswch &tabCrashed.restoreTab; i ail lwytho cynnwys y dudalen.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Dewiswch &tabCrashed.restoreTab; neu &tabCrashed.restoreAll; i ail lwytho cynnwys y dudalen.">
+<!ENTITY tabCrashed.requestHelp "A wnewch chi ein helpu ni?">
 
 
 
