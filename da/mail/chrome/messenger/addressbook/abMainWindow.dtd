@@ -161,7 +161,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip  "Opret en ny kontakt">
 <!ENTITY newlistButton.tooltip "Opret en ny mailingliste">
 <!ENTITY editPropertiesButton.tooltip                   "Rediger det valgte element">
-<!ENTITY editAbPropertiesButton.tooltip                 "Rediger egenskaber fpr den valgte adressebog">
+<!ENTITY editAbPropertiesButton.tooltip                 "Rediger egenskaber for den valgte adressebog">
 <!ENTITY editContactPropertiesButton.tooltip            "Rediger den valgte kontakt">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Rediger den valgte mailingliste">
 <!ENTITY newmsgButton.tooltip "Skriv en ny meddelelse">
