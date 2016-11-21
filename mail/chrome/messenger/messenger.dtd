@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Destinatário">
 <!ENTITY sortByRecipientCmd.accesskey "i">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Correspondentes">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "Lida">
 <!ENTITY sortByUnreadCmd.accesskey "i">
 <!ENTITY sortByOrderReceivedCmd.label "Ordem de receção">
@@ -494,24 +494,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "n">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Ferramentas de desenvolvimento">
+<!ENTITY devtoolsMenu.accesskey "o">
+<!ENTITY devToolboxCmd.label "Caixa de ferramentas do programador">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "t">
+<!ENTITY addonDebugCmd.label "Extra Depurador">
+<!ENTITY addonDebugCmd.accesskey "a">
+<!ENTITY tabsDebugCmd.label "Depurador de frame de conteúdo">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Scratchpad">
+<!ENTITY scratchpadCmd.accesskey "S">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Obter mensagens">
@@ -522,7 +527,7 @@
 <!ENTITY forwardButton.label "Reencaminhar">
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY archiveButton.label "Arquivar">
-
+<!ENTITY openConversationButton.label "Conversa">
 <!ENTITY nextButton.label "Seguinte">
 <!ENTITY nextButtonToolbarItem.label "Seguinte não lida">
 <!ENTITY nextMsgButton.label "Seguinte">
@@ -565,7 +570,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Selecione a mensagem">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
-
+<!ENTITY openConversationButton.tooltip "Mostrar conversa da mensagem selecionada">
 <!ENTITY nextButton.tooltip "Ir para a mensagem seguinte não lida">
 <!ENTITY nextMsgButton.tooltip "Ir para a mensagem seguinte">
 <!ENTITY previousButton.tooltip "Ir para a mensagem anterior não lida">
