@@ -46,12 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Eseménymeghívó elfogadása az esemény minden előfordulására">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Hozzáadás">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Az esemény hozzáadása a naptárhoz">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Elutasítás">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Eseménymeghívó elutasítása">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Összes elutasítása">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Eseménymeghívó elutasítása az esemény minden előfordulására">
-
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Elutasítás">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Az ellenjavaslat elutasítása">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Törlés">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Törlés a naptárból">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Részletek…">
@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kattintson további lehetőségekért">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Újra megerősítés">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Ismételt megerősítés küldése a szervezőnek">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Átütemezés">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Az esemény átütemezése">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Másolat mentése">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Az esemény másolatának mentése a naptárba a szervezőnek küldött választól függetlenül. A résztvevők listája törlésre kerül.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Nem megerősített">
