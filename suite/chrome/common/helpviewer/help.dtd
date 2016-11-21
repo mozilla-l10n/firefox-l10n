@@ -3,43 +3,51 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Recuar">
+<!ENTITY backButton.accesskey           "R">
+<!ENTITY backButton.tooltip             "Recuar uma página">
+<!ENTITY forwardButton.label            "Avançar">
+<!ENTITY forwardButton.accesskey        "A">
+<!ENTITY forwardButton.tooltip          "Avançar uma página">
+<!ENTITY copyCmd.label                  "Copiar">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Selecionar tudo">
+<!ENTITY selectAllCmd.accesskey         "a">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
 
 
+<!ENTITY printButton.label              "Imprimir">
+<!ENTITY printButton.tooltip            "Imprimir esta página">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY search.emptytext               "Pesquisar">
+<!ENTITY searchHeader.label             "Resultados da pesquisa">
+<!ENTITY toctab.label                   "Conteúdo">
+<!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 
+<!ENTITY zLevel.label                   "Sempre visível">
+<!ENTITY zLevel.accesskey               "S">
 
-
-
-
-
+<!ENTITY fullZoomReduceBtn.label        "Reduzir">
+<!ENTITY fullZoomReduceBtn.accesskey    "d">
+<!ENTITY fullZoomEnlargeBtn.label       "Ampliar">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "i">
