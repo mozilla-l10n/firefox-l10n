@@ -18,7 +18,7 @@
 <!ENTITY playSound.label "Afspil en lyd">
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY playSoundMac.label               "Afspil den følgende lydfil:">
-<!ENTITY playSoundMac.accesskey           "A">
+<!ENTITY playSoundMac.accesskey           "n">
 <!ENTITY showAnimatedAlert.label "Vis en pop op-meddelelse">
 <!ENTITY showAnimatedAlert.accesskey "p">
 <!ENTITY notificationAlertSettings2.label "Meddelelser og standardlyden kan deaktiveres på meddelelsessiden i systemindstillingerne.">

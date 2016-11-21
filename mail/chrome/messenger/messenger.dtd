@@ -499,7 +499,7 @@
 <!ENTITY devToolboxCmd.label "Værktøjsboks">
 <!ENTITY devToolboxCmd.accesskey "V">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Tilføjet debugger">
+<!ENTITY addonDebugCmd.label "Tilføjelse-debugger">
 <!ENTITY addonDebugCmd.accesskey "T">
 <!ENTITY tabsDebugCmd.label "Indholdsramme-debugger">
 <!ENTITY tabsDebugCmd.accesskey "n">
