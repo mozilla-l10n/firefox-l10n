@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Основни">
 <!ENTITY  generalTab.accesskey  "О">
+<!ENTITY  generalTitle          "Заглавие:">
 <!ENTITY  generalURL            "Адрес:">
 <!ENTITY  generalType           "Вид:">
 <!ENTITY  generalMode           "Изчертаване:">
