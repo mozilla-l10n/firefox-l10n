@@ -33,11 +33,11 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fundo:">
 <!ENTITY bgColor.accesskey                    "u">
-
-
-
-
-
+<!ENTITY defaultCompose.label                 "Formato pré-definido de composição:">
+<!ENTITY defaultBodyText.label                "Texto do corpo (tecla Enter introduz uma nova linha)">
+<!ENTITY defaultBodyText.accesskey            "o">
+<!ENTITY defaultParagraph.label               "Parágrafo (tecla Enter cria um novo parágrafo)">
+<!ENTITY defaultParagraph.accesskey           "P">
 
 <!ENTITY selectHeaderType.label               "Selecione o tipo de cabeçalho de resposta :">
 <!ENTITY selectHeaderType.accesskey           "e">
