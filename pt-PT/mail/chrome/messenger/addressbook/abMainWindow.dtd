@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Propriedades">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Propriedades do livro de endereços">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Propriedades do contacto">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Propriedades da lista de correio">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Ver">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Editar">
+<!ENTITY propertiesContext.label                        "Propriedades">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Propriedades">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Editar contacto">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Editar lista">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Escrever">
 <!ENTITY newmsgButton.accesskey                         "E">
 <!ENTITY newIM.label                                    "Mensagem instantânea">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Criar novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editPropertiesButton.tooltip                   "Editar item selecionado">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Editar propriedades do livro de endereços selecionado">
+<!ENTITY editContactPropertiesButton.tooltip            "Editar contacto selecionado">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editar lista de correio selecionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de chat">
 <!ENTITY deleteButton2.tooltip                          "Apagar elemento selecionado">

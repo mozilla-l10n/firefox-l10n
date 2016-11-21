@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Ao receber mensagens">
 <!ENTITY playSound.label                  "Reproduzir um som">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Utilizar este ficheiro áudio:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-
+<!ENTITY notificationAlertSettings2.label "Os alertas e o som pode ser desativado no painel Notificações das preferências do sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizar...">
 <!ENTITY customizeMailAlert.accesskey     "P">
 

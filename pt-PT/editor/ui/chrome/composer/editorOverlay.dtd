@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Ligação…">
 <!ENTITY insertLinkCmd2.accesskey "L">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Âncora com nome…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imagem…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "C">
 
 <!ENTITY formatRemoveStyles.key "y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Remover âncoras">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "a">

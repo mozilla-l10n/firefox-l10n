@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "envolva-se no projeto!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Notas da versão">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Informação da licença">
