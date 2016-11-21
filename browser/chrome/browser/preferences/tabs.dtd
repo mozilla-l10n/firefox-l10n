@@ -14,7 +14,7 @@
 <!ENTITY warnOpenManyTabs.label       "Предупреждаване, когато отварянето на няколко раздела може да забави &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "о">
 
-<!ENTITY switchToNewTabs.label        "При отваряне на препратка в раздел, да се превключи към него">
+<!ENTITY switchToNewTabs.label        "При отваряне на препратка в раздел, да се превключва към него">
 <!ENTITY switchToNewTabs.accesskey    "П">
 
 <!ENTITY showTabsInTaskbar.label          "Преглед на разделите в лентата със задачите на Windows">
