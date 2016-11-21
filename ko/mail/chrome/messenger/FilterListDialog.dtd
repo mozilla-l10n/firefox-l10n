@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "선택">
 <!ENTITY newButton.label "새 필터 추가…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "복사…">
+<!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "편집…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "삭제">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "도움말">
 <!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "이름으로 검색하기…">
+
+
+

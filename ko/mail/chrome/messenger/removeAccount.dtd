@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "계정과 데이터 삭제">
+<!ENTITY removeButton.label           "제거">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeAccount.label          "계정 정보 삭제">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "&brandShortName;에서만 이 계정을 삭제합니다. 서버의 실제 계정에는 영향을 끼치지 않습니다.">
+<!ENTITY removeData.label             "메시지 데이터 삭제">
