@@ -12,3 +12,5 @@
 <!ENTITY copiesFoldersTab.label "사본과 폴더">
 <!ENTITY addressingTab.label    "쓰기 및 주소">
 
+<!ENTITY publicData.label        "공개 데이터">
+<!ENTITY privateData.label       "개인 데이터">
