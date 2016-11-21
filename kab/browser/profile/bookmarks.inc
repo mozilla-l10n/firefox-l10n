@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Ifecka Nightly Tester\u0020
+#define nightly_tester_tools Ifecka Nightly Tester
 
 
 # LOCALIZATION NOTE (crashes):
