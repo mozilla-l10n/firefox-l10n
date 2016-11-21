@@ -54,6 +54,9 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "Скалари">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed скалари
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "Хистограми">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Небалансирани хистограми">
