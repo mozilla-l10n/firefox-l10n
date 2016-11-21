@@ -26,6 +26,7 @@
 <!ENTITY fileAccessDenied.title "Akses ke berkas ditolak">
 
 <!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuat laman ini karena sejumlah alasan.</p>">
 
 <!ENTITY malformedURI.title "Alamat tidak valid">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
