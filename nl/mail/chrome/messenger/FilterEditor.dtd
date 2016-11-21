@@ -49,7 +49,7 @@
 <!ENTITY deleteFromPOP.label "Verwijderen van POP-server">
 <!ENTITY fetchFromPOP.label "Ophalen van POP-server">
 <!ENTITY ignoreThread.label "Conversatie negeren">
-<!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
+<!ENTITY ignoreSubthread.label "Subconversatie negeren">
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
 
@@ -57,9 +57,9 @@
 <!ENTITY removeAction.tooltip "Deze actie verwijderen">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
  -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
