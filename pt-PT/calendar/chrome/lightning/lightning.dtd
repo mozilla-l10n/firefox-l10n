@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clique para mostrar mais opções">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Nova confirmação">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envia uma nova confirmação ao promotor">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Reagendar">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Reagendar o evento">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Guardar uma cópia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Guarda uma cópia do evento no calendário, independentemente da resposta ao organizador. A lista de participantes será limpa.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativa">
