@@ -122,15 +122,16 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão descarregadas.">
 
+<!ENTITY popupsMessageChangeTitle.label "Permissões dos popups alteradas">
 <!ENTITY popupAllowCmd.label "Permitir janelas pop-up deste site">
 <!ENTITY popupAllowCmd.accesskey "a">
-
-
-
-
-
-
-
+<!ENTITY popupAllowMsg.label "Os popups deste website serão sempre mostrados.">
+<!ENTITY popupDefaultCmd.label "Utilizar permissões de popups predefinidas">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Os popups deste website serão mostrados com base nas definições predefinidas.">
+<!ENTITY popupBlockCmd.label "Bloquear popups deste website">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Os popups deste website não serão mostrados.">
 <!ENTITY popupsManage.label "Gerir janelas pop-up">
 <!ENTITY popupsManage.accesskey "G">
 
