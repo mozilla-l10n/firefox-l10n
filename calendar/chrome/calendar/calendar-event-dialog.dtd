@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Szabad/elfoglalt idő módosítása">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Javaslat alkalmazása">
+<!ENTITY counter.button.proposal.accesskey                "J">
+<!ENTITY counter.button.proposal.tooltip                  "A javasolt dátum alkalmazása az űrlapra.">
+<!ENTITY counter.button.original.label                    "Eredeti adatok alkalmazása">
+<!ENTITY counter.button.original.accesskey                "E">
+<!ENTITY counter.button.original.tooltip                  "Az eredeti adatok alkalmazása az űrlapra.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Cím:" >
