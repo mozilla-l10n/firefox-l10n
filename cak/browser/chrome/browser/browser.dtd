@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Tikanöx chuqa' titz'ib'äx ri ochochib'äl">
 <!ENTITY urlbar.accesskey             "d">
-
+<!ENTITY urlbar.extension.label       "K'amal:">
 <!ENTITY urlbar.switchToTab.label     "Rujalik ri ruwi':">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "¿La nawajo' nawutzilaj rik'in taq chilab'exïk ri kanoxïk?">
