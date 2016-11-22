@@ -6,15 +6,31 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+<!-- These strings are used in the about:home page -->
+
+
 <!ENTITY abouthome.pageTitle "Пачатковая старонка &brandFullName;">
-<!ENTITY abouthome.searchEngineButton.label "Пошук">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
 <!ENTITY abouthome.defaultSnippet1.v1 "Дзякуй за выбар Firefox! Каб карыстацца вашым азіральнікам больш вынікова, пазнаёмцеся з <a>апошнімі асаблівасцямі</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox лёгка ўладкаваць так, каб ён ажыцяўляў усе вашы патрэбы. <a>Тысячы дадаткаў прапануюцца вам на выбар</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; – свабоднае праграмнае забеспячэнне з адкрытымі зыходнікамі ад бескарыслівай Mozilla Foundation. <a>Вашы правы…</a>">
+
 <!ENTITY abouthome.bookmarksButton.label "Закладкі">
-<!ENTITY abouthome.historyButton.label "Гісторыя">
-<!ENTITY abouthome.settingsButton.label "Наладжванні">
-<!ENTITY abouthome.addonsButton.label "Дадаткі">
-<!ENTITY abouthome.appsButton.label "Рынак">
+<!ENTITY abouthome.historyButton.label   "Гісторыя">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.addonsButton.label    "Дадаткі">
 <!ENTITY abouthome.downloadsButton.label "Загрузкі">
-<!ENTITY abouthome.syncButton.label "&syncBrand.shortName.label;">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
+     the mozilla wordmark in the top-right corner that links to Mozilla's main
+     about page. -->

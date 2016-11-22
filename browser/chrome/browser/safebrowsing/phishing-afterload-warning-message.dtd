@@ -4,11 +4,23 @@
 
 <!ENTITY safeb.palm.accept.label "Пакінуць гэта месца!">
 <!ENTITY safeb.palm.decline.label "Ігнараваць гэтае папярэджанне">
-<!ENTITY safeb.palm.notforgery.label2 "Гэта не сеціўная падробка…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Чаму гэтая старонка затрымана?">
+
 <!ENTITY safeb.blocked.malwarePage.title "Занатаваная нападная пляцоўка!">
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Гэтая старонка <span id='malware_sitename'/> занатована як нападная і затрымана згодна вашым перавагам бяспекі.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Нападныя старонкі спрабуюць усталёўваць праграмы, якія крадуць асабістыя звесткі, скарыстоўваюць ваш кампутар, каб нападаць на іншыя, або псуюць вашу сістэму.</p><p>Асобныя нападныя старонкі наўмысна распаўсюджваюць шкодныя праграмы, шмат з якіх перакручаны без ведаму і дазволу іх уладальнікаў.</p>">
-<!ENTITY safeb.blocked.phishingPage.title "Папярэджанне: сеціўная падробка!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Старонка Сеціва <span id='phishing_sitename'/> занатована як сеціўная падробка і затрымана згодна вашым перавагам бяспекі.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Сеціўныя падробкі ствараюцца падобнымі на крыніцы, якім вы давяраеце, дзеля таго, каб ашукаць вас, каб скрасці вашы асабістыя або фінансавыя звесткі.</p><p>Увод усякіх звестак на гэтай старонцы прывядзе, магчыма, да крадзяжу адметы або іншага ашуканства.</p>">
+
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+

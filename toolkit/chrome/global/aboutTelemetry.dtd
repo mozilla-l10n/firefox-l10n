@@ -3,53 +3,58 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Здаткі тэлеметрыі">
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Тэлеметрыя <span>дазволена</span>.
-">
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Тэлеметрыя <span>забаронена</span>.
-">
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Паказ чыннікаў SQL
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Завісанні азіральніка
-">
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Нізкі завісанняў
-">
-<!ENTITY aboutTelemetry.histogramsSection "
-  Гістаграмы
-">
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Простыя вымярэнні
-">
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Падрабязнасці дадатка
-">
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Апошнія запісы
-">
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Звесткі пра сістэму
-">
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Гістаграма, пазбіраныя дадаткамі">
-<!ENTITY aboutTelemetry.toggle "
-  Пстрыкніце, каб пераключыць раздзел
-">
-<!ENTITY aboutTelemetry.emptySection "
-  (Няма сабраных здаткаў)
-">
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.
-">
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Даставанне назваў функцыяў для стосаў завісанняў
-">
-<!ENTITY aboutTelemetry.hideSymbols "
-  Паказ сырых здаткаў з завісанняў
-">
-<!ENTITY aboutTelemetry.filterText "
-  Сіта (радкі або /regexp/)
-">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Паказ чыннікаў SQL">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Завісанні азіральніка">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Нізкі завісанняў">
+
+
+
+<!ENTITY aboutTelemetry.histogramsSection "  Гістаграмы">
+
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Простыя вымярэнні">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Падрабязнасці дадатка">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Апошнія запісы">
+
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Гістаграма, пазбіраныя дадаткамі">
+
+<!ENTITY aboutTelemetry.toggle "  Пстрыкніце, каб пераключыць раздзел">
+
+<!ENTITY aboutTelemetry.emptySection "  (Няма сабраных здаткаў)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Даставанне назваў функцыяў для стосаў завісанняў">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Паказ сырых здаткаў з завісанняў">
+
+<!ENTITY aboutTelemetry.filterText "  Сіта (радкі або /regexp/)">
+
+

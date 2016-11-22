@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title "Бяспечны рэжым &brandShortName;">
-<!ENTITY window.maxWidth "430">
-<!ENTITY startSafeMode.label "Запсук у бяспечным рэжыме">
-<!ENTITY resetProfile.label "Скінуць &brandShortName;">
-<!ENTITY safeModeDescription3.label "Бяспечны рэжым – адмысловы рэжым &brandShortName;, які выкарыстоўваецца для вырашэння праблемаў.">
-<!ENTITY safeModeDescription4.label "Вашы дадаткі і асабістыя наладжванні будуць часова забаронены.">
-<!ENTITY resetProfileInstead.label "Вы можаце скінуць &brandShortName;, калі хочаце пачаць з чыстага ліста.">
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; нечакана закрыўся падчас запуску. Гэта магло здарыцца праз дадатак або з нейкай іншай прычыны. Вы можаце паспрабаваць вырашыць праблему праз скідванне &brandShortName; да яго першапачатковага стану або паспрабаваць вырашыць праблему ў бяспечным рэжыме.">
-<!ENTITY resetProfileFooter.label "Усё іншае будзе скінута да першапатковага стану.">
-<!ENTITY safeModeInstead.label "Калі вам гэта не падабаецца, вы можаце паспрабаваць вырашыць праблему асабіста ў бяспеным рэжыме, у якім вашы дадаткі і наладжванні будуць часова забаронены.">
+<!ENTITY safeModeDialog.title         "Бяспечны рэжым &brandShortName;">
+<!ENTITY window.maxWidth              "430">
+
+<!ENTITY startSafeMode.label          "Запсук у бяспечным рэжыме">
+
+
+<!ENTITY safeModeDescription3.label   "Бяспечны рэжым – адмысловы рэжым &brandShortName;, які выкарыстоўваецца для вырашэння праблемаў.">
+<!ENTITY safeModeDescription4.label   "Вашы дадаткі і асабістыя наладжванні будуць часова забаронены.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

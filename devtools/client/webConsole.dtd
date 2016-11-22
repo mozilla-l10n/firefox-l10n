@@ -1,62 +1,96 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 
 <!ENTITY window.title "Кансоль Сеціва">
 <!ENTITY browserConsole.title "Кансоль азіральніка">
-<!ENTITY networkPanel.requestURLColon "URL запыту:">
-<!ENTITY networkPanel.requestMethodColon "Метад запыту:">
-<!ENTITY networkPanel.statusCodeColon "Код статусу:">
-<!ENTITY networkPanel.requestHeaders "Загалоўкі запыту">
-<!ENTITY networkPanel.requestCookie "Дасланыя біркі">
-<!ENTITY networkPanel.requestBody "Цела запыту">
-<!ENTITY networkPanel.requestFormData "Дасланыя здаткі формы">
-<!ENTITY networkPanel.responseHeaders "Загалоўкі водгуку">
-<!ENTITY networkPanel.responseCookie "Атрыманая бірка">
-<!ENTITY networkPanel.responseBody "Цела водгуку">
-<!ENTITY networkPanel.responseBodyCached "Прызапашаныя здаткі">
-<!ENTITY networkPanel.responseBodyUnknownType "Невядомы тып змесціва">
-<!ENTITY networkPanel.responseNoBody "Няма цела водгуку">
-<!ENTITY networkPanel.responseImage "Атрымана выява">
-<!ENTITY networkPanel.responseImageCached "Прызапашаная выява">
-<!ENTITY saveBodies.label "Запісваць целы запытаў і адказаў">
-<!ENTITY saveBodies.accesskey "З">
-<!ENTITY openURL.label "Адчыніць URL у новай устаўцы">
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+
+<!ENTITY openURL.label     "Адчыніць URL у новай устаўцы">
 <!ENTITY openURL.accesskey "ч">
-<!ENTITY btnPageNet.label "Сетка">
+<!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
+  -  button that allows users to toggle the network logging output.
+  -  This string and the following strings toggle various kinds of output
+  -  filters. -->
+
+<!ENTITY btnPageNet.label   "Сетка">
 <!ENTITY btnPageNet.tooltip "Запісваць сеткавыя звароты">
 <!ENTITY btnPageNet.accesskey "С">
+<!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
+  -  access key for the menu button that allows users to toggle the network
+  -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
+  -  sure you do not use the following letters: A, E, N and P. These are used
+  -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "С">
-<!ENTITY btnPageCSS.label "CSS">
-<!ENTITY btnPageCSS.tooltip "Запісваць памылкі і папярэджанні CSS">
+<!ENTITY btnPageCSS.label   "CSS">
+
 <!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnPageJS.label "JS">
-<!ENTITY btnPageJS.tooltip "Запісваць выключэнні JavaScript">
-<!ENTITY btnPageJS.accesskey "J">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "Запісваць выключэнні JavaScript">
+<!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Бяспека">
 <!ENTITY btnPageSecurity.tooltip "Заносіць у метрыку памылкі і папярэджанні">
 <!ENTITY btnPageSecurity.accesskey "Б">
-<!ENTITY btnPageLogging.label "Метрыка">
+<!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls such console.log() and
+  -  console.error(). -->
+
+<!ENTITY btnPageLogging.label   "Метрыка">
 <!ENTITY btnPageLogging.tooltip "Запісваць паведамленні, дасланыя аб'екту window.console">
 <!ENTITY btnPageLogging.accesskey3 "М">
-<!ENTITY btnConsoleErrors "Памылкі">
-<!ENTITY btnConsoleInfo "Звесткі">
-<!ENTITY btnConsoleWarnings "Папярэджанні">
-<!ENTITY btnConsoleLog "Метрыка">
-<!ENTITY btnConsoleReflows "Перарысоўкі">
+<!ENTITY btnConsoleErrors       "Памылкі">
+<!ENTITY btnConsoleInfo         "Звесткі">
+<!ENTITY btnConsoleWarnings     "Папярэджанні">
+<!ENTITY btnConsoleLog          "Метрыка">
+
+<!ENTITY btnConsoleReflows      "Перарысоўкі">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
+
 <!ENTITY filterOutput.placeholder "Сіта вываду">
-<!ENTITY btnClear.label "Ачысціць">
-<!ENTITY btnClear.tooltip "Ачысціць вывад у Кансолі Сеціва">
-<!ENTITY btnClear.accesskey "ч">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY btnClear.label        "Ачысціць">
+<!ENTITY btnClear.tooltip      "Ачысціць вывад у Кансолі Сеціва">
+<!ENTITY btnClear.accesskey    "ч">
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY copyURLCmd.label "Капіяваць месцазнаходжанне спасылкі">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyURLCmd.accesskey "К">
-<!ENTITY closeCmd.key "W">
-<!ENTITY findCmd.key "F">
-<!ENTITY clearOutputCtrl.key "L">
+
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCtrl.key  "L">
+
+
+
+

@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY closeNotification.tooltip "Зачыніць гэтае паведамленне">
+
 <!ENTITY closeNotificationItem.label "Не зараз">
+
 <!ENTITY checkForUpdates "Праверка існавання абнаўленняў…">
+
 <!ENTITY learnMore "Падрабязней…">
