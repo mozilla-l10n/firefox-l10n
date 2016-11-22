@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "P">
 <!ENTITY engine.passwords.label           "Hesla">
 <!ENTITY engine.passwords.accesskey       "e">
-<!ENTITY engine.addons.label              "Doplňky na desktopu">
+<!ENTITY engine.addons.label              "Doplňky na počítači">
 <!ENTITY engine.addons.accesskey          "D">
-<!ENTITY engine.prefs.label               "Předvolby na desktopu">
+<!ENTITY engine.prefs.label               "Předvolby na počítači">
 <!ENTITY engine.prefs.accesskey           "v">
