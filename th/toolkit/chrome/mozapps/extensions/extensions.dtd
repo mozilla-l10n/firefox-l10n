@@ -23,7 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "เดินหน้าไปหนึ่งหน้า">
 
-<!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถตรวจสอบส่วนขยายบางส่วน">
+<!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถตรวจสอบส่วนขยายบางตัว">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
 <!ENTITY debugAddons.accesskey                "B">
@@ -32,7 +32,7 @@
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย">
 <!ENTITY warning.checkcompatibility.label          "การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดใช้งาน คุณอาจมีส่วนเสริมที่เข้ากันไม่ได้">
 <!ENTITY warning.checkcompatibility.enable.label   "เปิดใช้งาน">
-<!ENTITY warning.checkcompatibility.enable.tooltip "เปิดใช้งานการตรวจความเข้ากันได้ของส่วนเสริม">
+<!ENTITY warning.checkcompatibility.enable.tooltip "เปิดใช้งานการตรวจสอบความเข้ากันได้ของส่วนเสริม">
 <!ENTITY warning.updatesecurity.label              "การตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริมถูกปิดไว้ คุณอาจถูกรุกล้ำความปลอดภัยจากการปรับรุ่นส่วนเสริม">
 <!ENTITY warning.updatesecurity.enable.label       "เปิดใช้งาน">
 <!ENTITY warning.updatesecurity.enable.tooltip     "เปิดใช้งานการตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริม">
