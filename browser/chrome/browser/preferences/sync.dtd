@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Име на текущото устройство:">
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
 <!ENTITY changeSyncDeviceName.label "Преименуване…">
+<!ENTITY changeSyncDeviceName.accesskey "и">
 <!ENTITY cancelChangeSyncDeviceName.label "Отказ">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "о">
 <!ENTITY saveChangeSyncDeviceName.label "Запазване">
+<!ENTITY saveChangeSyncDeviceName.accesskey "З">
 <!ENTITY unlinkDevice.label           "Разкачване на устройството">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Не сте вписани.">
 <!ENTITY signIn.label                "Вписване">
+<!ENTITY signIn.accesskey            "В">
 <!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
 <!ENTITY verifiedManage.label        "Управление на сметката">
+<!ENTITY verifiedManage.accesskey    "У">
 <!ENTITY disconnect.label            "Изключване…">
+<!ENTITY disconnect.accesskey        "И">
 <!ENTITY verify.label                "Проверка на мейла">
+<!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забравяне на този мейл">
+<!ENTITY forget.accesskey            "З">
 
 <!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите раздели, отметки, пароли и други.">
 <!ENTITY welcome.signIn.label "Вписване">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">
 <!ENTITY signedOut.accountBox.title   "Свържете ги с &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Създаване на сметка">
+<!ENTITY signedOut.accountBox.create.accesskey  "С">
 <!ENTITY signedOut.accountBox.signin  "Вписване">
+<!ENTITY signedOut.accountBox.signin.accesskey  "В">
 
 <!ENTITY signedIn.engines.label       "Синхронизиране между всичките ви устройства на вашите:">
 
