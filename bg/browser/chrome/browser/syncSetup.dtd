@@ -7,7 +7,7 @@
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нова сметка.">
-<!ENTITY button.createNewAccount.label "Създаване на нова сметка">
+<!ENTITY button.createNewAccount.label "Създаване на сметка">
 <!ENTITY button.haveAccount.label      "Имам сметка">
 
 <!ENTITY setup.choicePage.title.label     "Някога преди ползвали ли сте &syncBrand.fullName.label;?">
