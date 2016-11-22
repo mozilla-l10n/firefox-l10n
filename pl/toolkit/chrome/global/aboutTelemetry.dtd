@@ -40,6 +40,7 @@
   Histogramy
 ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Indeksowane histogramy">
+<!ENTITY aboutTelemetry.eventsSection "Zdarzenia">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Proste pomiary
 ">
