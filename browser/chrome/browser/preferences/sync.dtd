@@ -4,7 +4,7 @@
 <!-- The page shown when not logged in... -->
 
 <!ENTITY setupButton.label          "Configurează &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "a">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; îți permite să accesezi istoricul, semnele de carte, parolele și filele deschise de pe toate dispozitivele tale.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
