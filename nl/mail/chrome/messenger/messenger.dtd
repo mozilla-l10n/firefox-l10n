@@ -483,9 +483,6 @@
 <!ENTITY deleteJunk.accesskey "v">
 <!ENTITY importCmd.label "Importeren…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Foutconsole">
-<!ENTITY errorConsoleCmd.accesskey "F">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Recente geschiedenis wissen…">
 <!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd2.label "Accountinstellingen">
@@ -495,6 +492,31 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Ontwikkelaarshulpmiddelen">
+<!ENTITY devtoolsMenu.accesskey "k">
+<!ENTITY devToolboxCmd.label "Ontwikkelaarswerkset">
+<!ENTITY devToolboxCmd.accesskey "O">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Add-on-debugger">
+<!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Contentframe-debugger">
+<!ENTITY tabsDebugCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.label "Foutconsole">
+<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Kladblok">
+<!ENTITY scratchpadCmd.accesskey "K">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Berichten ophalen">

@@ -17,9 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
 <!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSoundMac.label               "Het volgende geluidsbestand afspelen:">
+<!ENTITY playSoundMac.accesskey           "v">
 <!ENTITY showAnimatedAlert.label          "Een waarschuwing tonen">
 <!ENTITY showAnimatedAlert.accesskey      "t">
-<!ENTITY notificationAlertSettings.label  "Waarschuwingen kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.">
+<!ENTITY notificationAlertSettings2.label "Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.">
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
@@ -29,8 +31,6 @@
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">
-<!ENTITY systemsoundMac.label             "Systeemalarmgeluid">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">
 <!ENTITY customsound.accesskey            "v">

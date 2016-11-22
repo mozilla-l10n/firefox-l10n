@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Account en gegevens verwijderen">
+<!ENTITY removeButton.label           "Verwijderen">
+<!ENTITY removeButton.accesskey       "V">
+<!ENTITY removeAccount.label          "Accountinformatie verwijderen">
+<!ENTITY removeAccount.accesskey      "A">
+<!ENTITY removeAccount.desc           "Verwijdert alleen &brandShortName;'s kennis van dit account. Dit heeft geen invloed op het account zelf op de server.">
+<!ENTITY removeData.label             "Berichtgegevens verwijderen">
+<!ENTITY removeData.accesskey         "v">
+<!ENTITY removeDataLocalAccount.desc  "Verwijdert alle berichten, mappen en filters die met dit account zijn geassocieerd van uw lokale schijf. Dit heeft geen invloed op sommige berichten die op de server bewaard kunnen blijven. Kies deze optie niet als u van plan bent om lokale gegevens te archiveren of later opnieuw in &brandShortName; te gebruiken.">
+<!ENTITY removeDataServerAccount.desc "Verwijdert alle berichten, mappen en filters die met dit account zijn geassocieerd van uw lokale schijf. Uw berichten en mappen worden nog wel op de server bewaard.">
+<!ENTITY showData.label               "Gegevenslocatie tonen">
+<!ENTITY showData.accesskey           "G">
+<!ENTITY progressPending              "Geselecteerde gegevens worden verwijderd…">
+<!ENTITY progressSuccess              "Verwijdering geslaagd.">
+<!ENTITY progressFailure              "Verwijdering mislukt.">
