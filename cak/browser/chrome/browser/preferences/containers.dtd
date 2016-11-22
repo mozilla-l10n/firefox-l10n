@@ -19,5 +19,6 @@
 <!ENTITY color.accesskey      "o">
 <!ENTITY windowClose.key      "w">
 
-
+<!ENTITY button.ok.label      "Xk'is">
+<!ENTITY button.ok.accesskey  "X">
 
