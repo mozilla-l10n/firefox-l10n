@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Съдържание">
 <!ENTITY  paneApplications.title  "Приложения">
 <!ENTITY  panePrivacy.title       "Лични данни">
+<!ENTITY  paneContainers.title    "Изолирани раздели">
 <!ENTITY  paneSecurity.title      "Защита">
 <!ENTITY  paneAdvanced.title      "Разширени">
 
