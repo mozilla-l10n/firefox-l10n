@@ -23,9 +23,9 @@
 <!ENTITY view.unsorted.label            "ไม่เรียง">
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "เรียงลำดับ A > Z">
-<!ENTITY view.sortAscending.accesskey   "ก">
-<!ENTITY view.sortDescending.label      "เรียงลำดับ ฮ > ก">
-<!ENTITY view.sortDescending.accesskey  "ฮ">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "เรียงลำดับ Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "นำเข้าที่คั่นหน้าจาก HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
