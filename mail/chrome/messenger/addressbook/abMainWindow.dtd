@@ -76,9 +76,12 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
+<!ENTITY propertiesMenu.label                           "屬性">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "通訊錄屬性">
 <!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "連絡人屬性">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "郵件群組屬性">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
@@ -137,11 +140,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新增群組名單">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editPropertiesButton.label                     "編輯">
 <!ENTITY propertiesContext.label                        "屬性">
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "屬性">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "編輯連絡人">
 <!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "編輯清單">
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "寫信">
 <!ENTITY newmsgButton.accesskey                         "W">
@@ -155,6 +161,7 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單">
+<!ENTITY editPropertiesButton.tooltip                   "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
