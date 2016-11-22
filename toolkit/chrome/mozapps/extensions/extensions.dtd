@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "లోడుచేయుచున్నది…">
-<!ENTITY listEmpty.installed.label            "ఈ రకమైన పొడిగింతలు మీరు సంస్థాపించి కలిగిలేరు">
+<!ENTITY listEmpty.installed.label            "మీ వద్ద ఈ రకమైన పొడిగింతలేమీ స్థాపించి లేవు">
 <!ENTITY listEmpty.availableUpdates.label     "ఏ నవీకరణలు కనుగొనలేదు">
 <!ENTITY listEmpty.recentUpdates.label        "మీరు యిటీవల యే పొడిగింతలు నవీకరించలేదు">
 <!ENTITY listEmpty.findUpdates.label          "నవీకరణల కొరకు పరిశీలించు">
