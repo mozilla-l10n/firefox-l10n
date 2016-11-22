@@ -15,16 +15,16 @@
 
 <!ENTITY tabCrashed.header2 "Uy. Xqa ruchuq'a' ruwi'.">
 <!ENTITY tabCrashed.offerHelp "¡Yojtikïr yatqato'!">
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.single.offerHelpMessage "Ticha' &tabCrashed.restoreTab; richin nisamajib'ëx chik ri rupam ruxaq.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Ticha' &tabCrashed.restoreTab; o &tabCrashed.restoreAll; richin nisamajib'ëx chik ri rupam ruxaq.">
+<!ENTITY tabCrashed.requestHelp "¿La yojato'?">
+<!ENTITY tabCrashed.requestHelpMessage "Ri taq kitzijol sachoj yojkito' yeqanik'oj ri taq k'ayewal chuqa' ruk'ojlem ri &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Titzijöx re ruwi' re'">
+<!ENTITY tabCrashed.sendReport2 "Titaq jun rutzijol sachoj richin re ruwi' tajin natz'ët">
+<!ENTITY tabCrashed.commentPlaceholder2 "Cha'el taq rutzijol (ri taq rutzijol konojel winaqi' yetz'eton)">
+<!ENTITY tabCrashed.includeURL2 "Titz'aqatisäx ruxaq URL rik'in re rutzijol sachoj re'">
 <!ENTITY tabCrashed.emailPlaceholder "Tatz'ib'aj wawe' ri rochochib'al ataqoya'l">
 <!ENTITY tabCrashed.emailMe "Tataqa' pe jun taqoyal chwe toq k'o ch'aqa' chik rutzijol">
 <!ENTITY tabCrashed.reportSent "Xtaq ri rutzijol sachoj. ¡Matyox chawe ruma yojato' chi niqaq'i' jun &brandShortName; janila ütz!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit "Tik'utüx taq ruwi' chupam">
+<!ENTITY tabCrashed.autoSubmit "Tik'ex ri taq ajowab'äl richin ruyonil yerutäq rutzijol taq sachoj rik'in yokenïk (richin nak'ül jub'a' taq qatzijol ri chwa'q kab'ij)">
