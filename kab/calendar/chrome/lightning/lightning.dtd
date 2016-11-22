@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Sit akken ad twaliḍ ugar n iɣewwaṛen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Sentem tikelt nniḍen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Ad yazen asentem tikelt nniḍen i umsuddes">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Sɣiwes tikelt nniḍen">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Sɣiwes tikelt nniden tadyant">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Sekles anɣel">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Ad isekles anɣel n tedyant deg uwitay war ma tella tririt i umsuddes. Tabdart n imttekkiyen ad ttwasfeḍ.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Si tazwara">
