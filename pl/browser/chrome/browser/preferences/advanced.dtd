@@ -53,13 +53,8 @@
 
 <!ENTITY httpCache.label                 "Treści w pamięci podręcznej">
 <!ENTITY offlineStorage2.label           "Treści dla trybu offline i dane użytkownika">
+<!ENTITY siteData.label "Dane stron">
 
-<!-- LOCALIZATION NOTE:
-  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
-  line in preferences as follows:
-
-  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
--->
 <!ENTITY limitCacheSizeBefore.label      "Ogranicz pamięć podręczną do ">
 <!ENTITY limitCacheSizeBefore.accesskey  "z">
 <!ENTITY limitCacheSizeAfter.label       "MB">
