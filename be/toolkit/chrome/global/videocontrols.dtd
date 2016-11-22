@@ -9,6 +9,8 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Увесь экран">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Закрыць поўны экран">
 <!ENTITY castingButton.castingLabel "Перакінуць на экран">
+
+
 <!ENTITY stats.media "Медыя">
 <!ENTITY stats.size "Памер">
 <!ENTITY stats.activity "Дзейнасць">
@@ -21,10 +23,17 @@
 <!ENTITY stats.framesDecoded "Рамкі дэкадаваныя">
 <!ENTITY stats.framesPresented "Рамкі прадстаўленыя">
 <!ENTITY stats.framesPainted "Рамкі намаляваныя">
+
 <!ENTITY error.aborted "Загрузка відэя прыпынена.">
 <!ENTITY error.network "Прайграванне відэя аборвана праз сеткавую памылку.">
 <!ENTITY error.decode "Відэя не можа быць прайграна, бо файл пашкоджаны.">
 <!ENTITY error.srcNotSupported "Фармат відэя або тып MIME не падтрымліваюцца.">
 <!ENTITY error.noSource2 "Не знойдзены відэя, фармат якіх або тым MIME якіх падтрымліваюцца.">
 <!ENTITY error.generic "Прайграванне відэя аборвана праз невядомую памылку.">
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
 <!ENTITY scrubberScale.nameFormat "Мінула #1 з #2">

@@ -3,21 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Звесткі для вырашэння праблемаў">
-<!ENTITY aboutSupport.pageSubtitle "
-  Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры 
-  вырашэнні праблемаў. Калі вы шукаеце адказы на найбольш агульныя пытанні
-  пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.
-">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры вырашэнні праблемаў. Калі вы шукаеце адказы на найбольш агульныя пытанні пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Cправаздачы пра крахі">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Вызначальнік справаздачы">
 <!ENTITY aboutSupport.crashes.sendDate "Пададзена">
 <!ENTITY aboutSupport.crashes.allReports "Усе справаздачы пра крахі">
 <!ENTITY aboutSupport.crashes.noConfig "Прыстасаванне не наладжана адлюстроўваць справаздачы пра крахі">
+
 <!ENTITY aboutSupport.extensionsTitle "Пашырэнні">
 <!ENTITY aboutSupport.extensionName "Назва">
 <!ENTITY aboutSupport.extensionEnabled "Дазволены">
 <!ENTITY aboutSupport.extensionVersion "Версія">
 <!ENTITY aboutSupport.extensionId "Вызначальнік">
+
 <!ENTITY aboutSupport.experimentsTitle "Спробныя асаблівасці">
 <!ENTITY aboutSupport.experimentName "Назва">
 <!ENTITY aboutSupport.experimentId "Вызначальнік">
@@ -25,33 +28,80 @@
 <!ENTITY aboutSupport.experimentActive "Дзейны">
 <!ENTITY aboutSupport.experimentEndDate "Канцавая дата">
 <!ENTITY aboutSupport.experimentHomepage "Хатняя старонка">
+
+
 <!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Гісторыя абнаўленняў">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Паказаць гісторыю абнаўленняў">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка профілю">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ужыванне памяці">
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
+
+
 <!ENTITY aboutSupport.showDir.label "Адчыніць дырэкторыю">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
-<!ENTITY aboutSupport.showWin.label "Паказаць папку">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
 <!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
+
+
+
+
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
+
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
 <!ENTITY aboutSupport.a11yTitle "Даступнасць">
 <!ENTITY aboutSupport.a11yActivated "Задзейнічаны">
 <!ENTITY aboutSupport.a11yForceDisabled "Прадухіліць даступнасць">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Версіі бібліятэк">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Гісторыя ўсталявання">
 <!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
+
 <!ENTITY aboutSupport.copyTextToClipboard.label "Скапіяваць тэкст у буфер абмену">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя здаткі ў буфер абмену">
+
+
+
+
+
+
+
+
+
+
+

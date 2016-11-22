@@ -14,6 +14,7 @@
 <!ENTITY selectAllCmd.accesskey "л">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
+
 <!ENTITY spellAddToDictionary.label "Дадаць у слоўнік">
 <!ENTITY spellAddToDictionary.accesskey "с">
 <!ENTITY spellUndoAddToDictionary.label "Адмяніць даданне ў слоўнік">
@@ -23,3 +24,12 @@
 <!ENTITY spellNoSuggestions.label "(няма прапановаў)">
 <!ENTITY spellDictionaries.label "Мовы">
 <!ENTITY spellDictionaries.accesskey "М">
+
+
+
+
+
+
+
+
+

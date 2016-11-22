@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "28em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Выбраць прыстасаванне">
+
 <!ENTITY ChooseApp.label "Выбраць…">
 <!ENTITY ChooseApp.accessKey "В">
+
