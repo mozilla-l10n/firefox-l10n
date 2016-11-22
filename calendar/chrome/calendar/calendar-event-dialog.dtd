@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Külön meghívó minden résztvevőnek">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "k">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ezzel minden résztvevőnek külön meghívó levelet küldhet. Minden meghívó csak a címzett résztvevőt tartalmazza, így a többi résztvevő személyazonossága nem kerül közzétételre.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Ellenjavaslat tiltása">
+<!ENTITY event.attendees.disallowcounter.accesskey   "t">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Jelzi, hogy nem fogad el ellenjavaslatokat">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
