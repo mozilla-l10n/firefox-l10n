@@ -162,6 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單">
 <!ENTITY editPropertiesButton.tooltip                   "編輯選取的項目">
+<!ENTITY editAbPropertiesButton.tooltip                 "編輯選擇的通訊錄屬性">
+<!ENTITY editContactPropertiesButton.tooltip            "編輯選取的聯絡人">
+<!ENTITY editMailingListPropertiesButton.tooltip        "編輯選取的郵件群組">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
