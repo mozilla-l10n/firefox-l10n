@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "啟用">
 <!ENTITY newButton.label "新增…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "複製…">
+<!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "編輯…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "刪除">
@@ -36,7 +38,6 @@
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "用名稱搜尋篩選條件…">
-
 
 
 
