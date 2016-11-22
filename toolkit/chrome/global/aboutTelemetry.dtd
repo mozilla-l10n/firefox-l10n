@@ -54,6 +54,9 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalyarlar">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Açarlı Skalyarlar
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histoqram">
 
