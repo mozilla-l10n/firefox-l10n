@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "通訊錄">
 <!ENTITY blankResultsPaneMessage.label                  "進行搜尋後才會顯示此通訊錄的聯絡人">
 <!ENTITY localResultsOnlyMessage.label                  "在您進行搜尋前將不會顯示遠端通訊錄中的聯絡人">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "檔案">
 <!ENTITY fileMenu.accesskey                             "f">
@@ -74,10 +75,13 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI                                 "false">
-<!ENTITY propertiesCmd2.label                           "屬性">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+<!ENTITY hideSwapFnLnUI "false">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "郵件群組屬性">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "檢視">
@@ -133,8 +137,12 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新增群組名單">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "屬性">
-<!ENTITY editButton2.accesskey                          "P">
+<!ENTITY propertiesContext.label                        "屬性">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "屬性">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "寫信">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "即時訊息">
@@ -147,7 +155,6 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單">
-<!ENTITY editButton2.tooltip                            "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
@@ -222,4 +229,3 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "將此程式所有視窗移至最前">
 <!ENTITY zoomWindow.label                               "縮放">
-
