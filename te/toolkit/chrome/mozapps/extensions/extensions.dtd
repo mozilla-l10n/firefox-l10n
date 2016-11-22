@@ -133,8 +133,8 @@
 <!ENTITY detail.contributions.description     "ఈ పొడిగింతను అభివృద్ది పరచినవారు దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.">
 
 <!ENTITY detail.updateType                    "స్వయంచాలక నవీకరణలు">
-<!ENTITY detail.updateDefault.label           "అప్రమేయ">
-<!ENTITY detail.updateDefault.tooltip         "అదే నవీకరణ అప్రమేయ మైనప్పుడు వాటిని స్వయంచాలకంగా సంస్థాపించు">
+<!ENTITY detail.updateDefault.label           "అప్రమేయం">
+<!ENTITY detail.updateDefault.tooltip         "తాజాకరణలను స్థాపిచడం అప్రమేయమైతే వాటిని స్వయంచాలంకగా స్థాపించు">
 <!ENTITY detail.updateAutomatic.label         "ఆన్">
 <!ENTITY detail.updateAutomatic.tooltip       "నవీకరణలను స్వయంచాలకంగా సంస్థాపించు">
 <!ENTITY detail.updateManual.label            "ఆఫ్">
