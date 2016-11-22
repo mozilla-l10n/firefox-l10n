@@ -140,7 +140,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "l">
-
+<!ENTITY editPropertiesButton.label                     "Rediger">
 
 
 
