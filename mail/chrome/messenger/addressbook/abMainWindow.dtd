@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Adresboek">
 <!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toont alleen contacten na een zoekopdracht">
 <!ENTITY localResultsOnlyMessage.label                  "Contacten uit externe adresboeken worden pas na een zoekopdracht getoond">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Bestand">
 <!ENTITY fileMenu.accesskey                             "B">
@@ -74,10 +75,16 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI                                 "true">
-<!ENTITY propertiesCmd2.label                           "Eigenschappen">
-<!ENTITY propertiesCmd2.accesskey                       "E">
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Eigenschappen">
+<!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Adresboekeigenschappen">
+<!ENTITY abPropertiesMenu.accesskey                     "e">
+<!ENTITY contactPropertiesMenu.label                    "Contacteigenschappen">
+<!ENTITY contactPropertiesMenu.accesskey                "e">
+<!ENTITY mailingListPropertiesMenu.label                "Mailinglijsteigenschappen">
+<!ENTITY mailingListPropertiesMenu.accesskey            "e">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Beeld">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nieuwe lijst">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Eigenschappen">
-<!ENTITY editButton2.accesskey                          "E">
+<!ENTITY editPropertiesButton.label                     "Bewerken">
+<!ENTITY propertiesContext.label                        "Eigenschappen">
+<!ENTITY propertiesContext.accesskey                    "E">
+<!ENTITY abPropertiesContext.label                      "Eigenschappen">
+<!ENTITY abPropertiesContext.accesskey                  "E">
+<!ENTITY editContactContext.label                       "Contact bewerken">
+<!ENTITY editContactContext.accesskey                   "w">
+<!ENTITY editMailingListContext.label                   "Lijst bewerken">
+<!ENTITY editMailingListContext.accesskey               "w">
 <!ENTITY newmsgButton.label                             "Opstellen">
 <!ENTITY newmsgButton.accesskey                         "O">
 <!ENTITY newIM.label                                    "Instant-bericht">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Een nieuw adresboekcontact aanmaken">
 <!ENTITY newlistButton.tooltip                          "Een nieuwe lijst aanmaken">
-<!ENTITY editButton2.tooltip                            "Het geselecteerde item bewerken">
+<!ENTITY editPropertiesButton.tooltip                   "Het geselecteerde item bewerken">
+<!ENTITY editAbPropertiesButton.tooltip                 "De eigenschappen van het geselecteerde adresboek bewerken">
+<!ENTITY editContactPropertiesButton.tooltip            "Het geselecteerde contact bewerken">
+<!ENTITY editMailingListPropertiesButton.tooltip        "De geselecteerde mailinglijst bewerken">
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteButton2.tooltip                          "Geselecteerde item verwijderen">
