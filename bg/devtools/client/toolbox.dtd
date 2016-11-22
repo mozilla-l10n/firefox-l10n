@@ -159,6 +159,15 @@
 <!ENTITY options.timestampMessages.label      "Показване на времеви маркер">
 <!ENTITY options.timestampMessages.tooltip    "Ако е отметнато командите и изхода от уеб конзолата ще извеждат времеви маркер">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Дебъгер">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Включване на Source Maps">
+<!ENTITY options.sourceMaps.tooltip    "Ако е отметнато source maps ще бъдат използвани в дебъгера и конзолата.">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
