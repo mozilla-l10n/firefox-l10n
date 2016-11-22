@@ -60,9 +60,9 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "การปรับปรุงถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ">
+<!ENTITY update.adminDisabled       "การอัปเดตถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; กำลังถูกปรับปรุงโดยอินสแตนซ์อื่น">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; กำลังถูกอัปเดตโดยอินสแตนซ์อื่น">
 <!ENTITY update.restarting          "กำลังเริ่มการทำงานใหม่…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
