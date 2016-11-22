@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Ümumi">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Başlıq:">
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Format:">
 <!ENTITY  generalMode           "Göstərmə rejimi:">
