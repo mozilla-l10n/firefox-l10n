@@ -26,23 +26,25 @@
 <!ENTITY engine.bookmarks.label     "Semne de carte">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "File">
-<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Parole">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferințe">
-<!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Suplimente">
-<!ENTITY engine.addons.accesskey    "S">
+<!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Numele dispozitivului:">
 <!ENTITY fxaSyncDeviceName.label       "Numele dispozitivului">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Schimbă numele dispozitivului…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "Renunță">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "Salvează">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nu ești autentificat.">
-
-
+<!ENTITY signIn.label                "Autentifică-te">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Gestionează contul">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "Deconectează-te…">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "Verifică e-mailul">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Uită acest e-mail">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "Accesează filele, semnele de carte, parolele și altele ori de câte ori folosești &brandShortName;.">
 <!ENTITY welcome.signIn.label "Autentifică-te">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creează cont">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Autentifică-te">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Sincronizează pe toate dispozitivele">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
