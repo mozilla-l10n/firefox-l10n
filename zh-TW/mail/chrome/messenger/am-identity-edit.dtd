@@ -14,4 +14,5 @@
 
 <!ENTITY publicData.label        "公開資料">
 <!ENTITY privateData.label       "私人資料">
+<!ENTITY identityAlias.label     "身分識別標籤:">
 <!ENTITY identityAlias.accesskey "b">

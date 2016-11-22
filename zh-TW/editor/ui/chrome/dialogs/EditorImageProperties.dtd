@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "圖片位置:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
+<!ENTITY locationEditField.shortenedDataURI "短資料網址（複製時將會複製完整的網址）">
 <!ENTITY title.label "提示文字:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "顯示 HTML 屬性 'title'  為提示文字(tooltip)">
@@ -76,4 +77,3 @@
 <!ENTITY imageDimensionsTab.label "大小">
 <!ENTITY imageAppearanceTab.label "外觀設定">
 <!ENTITY imageLinkTab.label "鏈結">
-
