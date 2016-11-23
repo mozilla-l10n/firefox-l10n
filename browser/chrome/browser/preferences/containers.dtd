@@ -13,11 +13,12 @@
 
 <!ENTITY name.label           "Enw:">
 <!ENTITY name.accesskey       "E">
+<!ENTITY icon.label           "Eicon:">
+<!ENTITY icon.accesskey       "E">
+<!ENTITY color.label          "Lliw:">
+<!ENTITY color.accesskey      "L">
+<!ENTITY windowClose.key      "w">
 
-
-
-
-
-
-
+<!ENTITY button.ok.label      "Gorffen">
+<!ENTITY button.ok.accesskey  "G">
 
