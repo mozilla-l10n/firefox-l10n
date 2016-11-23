@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; tehtud">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Teavita osalejaid">
 <!ENTITY event.attendees.notify.accesskey            "e">
 <!ENTITY event.attendees.notifyundisclosed.label     "Igale osalejale saadetakse eraldi kutse">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "d">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Selle valiku märkimisel saadetakse igale osalejale eraldi kutse. Igal kutsel on vaid üks saaja, seega ei avaldata teisi kutse saajaid.">
+<!ENTITY event.attendees.disallowcounter.label       "Vastuettepanekud keelatakse">
+<!ENTITY event.attendees.disallowcounter.accesskey   "V">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Määrab, et sa ei aktsepteeri vastuettepanekuid">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -160,6 +164,14 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Muuda seisundit">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Muuda aja näitamist (hõivatud/vaba)">
 
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Rakenda ettepanek">
+<!ENTITY counter.button.proposal.accesskey                "R">
+<!ENTITY counter.button.proposal.tooltip                  "Rakendab ettepaneku andmed vormil.">
+<!ENTITY counter.button.original.label                    "Rakenda algsed andmed">
+<!ENTITY counter.button.original.accesskey                "a">
+<!ENTITY counter.button.original.tooltip                  "Rakendab algsed andmed vormil.">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
 <!ENTITY event.title.textbox.accesskey                    "P">
@@ -171,7 +183,7 @@
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Osalejad:" >
-<!ENTITY event.attendees.accesskey                        "O" >
+<!ENTITY event.attendees.accesskey                        "O">
 <!ENTITY event.alldayevent.label                          "Kogu päeva kestev sündmus" >
 <!ENTITY event.alldayevent.accesskey                      "g">
 <!ENTITY event.from.label                                 "Algus:" >
@@ -194,22 +206,16 @@
 <!ENTITY event.description.accesskey                      "j">
 <!ENTITY event.attachments.label                          "Manused:" >
 <!ENTITY event.attachments.accesskey                      "f" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Lisa">
 <!ENTITY event.attachments.menubutton.accesskey           "K">
 <!ENTITY event.attachments.url.label                      "Veebileht…">
 <!ENTITY event.attachments.url.accesskey                  "V">
-
 <!ENTITY event.attachments.popup.remove.label             "Eemalda" >
 <!ENTITY event.attachments.popup.remove.accesskey         "E" >
 <!ENTITY event.attachments.popup.open.label               "Ava" >
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Eemalda kõik" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "m">
+<!ENTITY event.attachments.popup.removeAll.accesskey      "m" >
 <!ENTITY event.attachments.popup.attachPage.label         "Lisa veebileht…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "v" >
 <!ENTITY event.url.label                                  "Seotud viide:" >
@@ -291,6 +297,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "jaanuaril" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "veebruaril" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "märtsil" >
