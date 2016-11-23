@@ -51,6 +51,11 @@
 <p>&brandShortName; no puede cargar esta página por alguna razón.</p>
 ">
 
+<!ENTITY captivePortal.title "Ingresar a una red">
+<!ENTITY captivePortal.longDesc "<p>Esta red puede requerir que ingrese para acceder a internet.</p>">
+
+<!ENTITY openPortalLoginPage.label "Abrir página de ingreso">
+
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "
 <ul>
