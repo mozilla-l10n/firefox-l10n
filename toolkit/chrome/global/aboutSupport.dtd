@@ -50,9 +50,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheuegebruik">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Werkverrigting">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profiele">
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Veilige modus">
@@ -64,6 +65,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Wys in Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Open gids">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Belangrike voorkeure wat verander is">
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
@@ -79,8 +81,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Plekkedatabasis">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integriteit">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifieer integriteit">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
@@ -99,8 +102,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandput">
 
+<!ENTITY aboutSupport.safeModeTitle "Probeer veilige modus">
+<!ENTITY aboutSupport.restartInSafeMode.label "Herbegin met byvoegings gedeaktiveer…">
 
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Eienskappe">
 
 
 
