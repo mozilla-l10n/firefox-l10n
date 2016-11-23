@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "دعوة منفصلة لكل حاضر">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "ع">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "امنع العداد">
+<!ENTITY event.attendees.disallowcounter.accesskey   "ن">
+<!ENTITY event.attendees.disallowcounter.tooltip     "يوضح أنك لن تقبل طلبات العداد.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -165,6 +165,8 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "غيّر وقت متفرغ\مشغول ">
 <!-- Counter box -->
 
+<!ENTITY counter.button.proposal.label                    "طبق الطلب">
+<!ENTITY counter.button.proposal.accesskey                "ط">
 
 
 
