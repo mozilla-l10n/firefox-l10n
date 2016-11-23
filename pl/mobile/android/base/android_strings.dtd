@@ -515,8 +515,8 @@
 <!ENTITY updater_downloading_select2 "Dotknij, aby zainstalować po pobraniu">
 <!ENTITY updater_downloading_retry2 "Dotknij, aby spróbować ponownie">
 
-<!ENTITY updater_apply_title2 "&brandShortName;: dostępna jest aktualizacja">
-<!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
+<!ENTITY updater_apply_title3 "&brandShortName;: pobrano aktualizację">
+<!ENTITY updater_apply_select3 "Dotknij, aby zainstalować">
 
 <!ENTITY updater_permission_text "Należy zezwolić aplikacji &brandShortName; na dostęp do dysku, aby móc pobierać pliki i aktualizacje.">
 <!ENTITY updater_permission_allow "Zezwól">
