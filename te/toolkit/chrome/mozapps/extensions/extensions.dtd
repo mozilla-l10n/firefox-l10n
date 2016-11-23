@@ -205,7 +205,7 @@
 <!ENTITY addon.checkingForUpdates.label       "నవీకరణల కొరకు పరిశీలించుచున్నది…">
 <!ENTITY addon.releaseNotes.label             "విడుదల నోట్స్:">
 <!ENTITY addon.loadingReleaseNotes.label      "లోడవుచున్నది…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "మన్నించాలి, విడుదల నోట్స్ లోడవ్వుటలో దోషము వుంది.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "మన్నించాలి, విడుదల నోట్స్ లోడవ్వుటలో దోషము ఉంది.">
 
 <!ENTITY addon.createdBy.label                "చేత ">
 
