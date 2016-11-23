@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Властивості">
+<!ENTITY propertiesMenu.accesskey           "В">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Властивості адресної книги">
+<!ENTITY abPropertiesMenu.accesskey         "а">
+<!ENTITY contactPropertiesMenu.label        "Властивості контакту">
+<!ENTITY contactPropertiesMenu.accesskey    "о">
+<!ENTITY mailingListPropertiesMenu.label    "Властивості списку розсилки">
+<!ENTITY mailingListPropertiesMenu.accesskey "с">
 
 <!ENTITY addressbookPicker.label            "Адресна книга:">
 <!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY searchContacts.label               "Пошук контактів:">
+<!ENTITY searchContacts.accesskey           "ш">
 <!ENTITY SearchNameOrEmail.label            "Ім’я або адреса електронної пошти">
 
 <!ENTITY addtoToFieldMenu.label             "Кому">
@@ -15,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "х">
 <!ENTITY deleteAddrBookCard.label           "Видалити">
 <!ENTITY deleteAddrBookCard.accesskey       "д">
+<!ENTITY propertiesContext.label            "Властивості">
+<!ENTITY propertiesContext.accesskey        "л">
+<!ENTITY abPropertiesContext.label          "Властивості">
+<!ENTITY abPropertiesContext.accesskey      "л">
+<!ENTITY editContactContext.label           "Змінити контакт">
+<!ENTITY editContactContext.accesskey       "З">
+<!ENTITY editMailingListContext.label       "Змінити список">
+<!ENTITY editMailingListContext.accesskey   "м">
 
 <!ENTITY toButton.label                     "Кому:">
 <!ENTITY toButton.accesskey                 "м">
