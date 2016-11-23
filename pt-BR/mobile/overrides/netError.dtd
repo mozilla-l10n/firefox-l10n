@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Não foi possível conectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Endereço restrito">
+<!ENTITY deniedPortAccess.title "Este endereço é restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
