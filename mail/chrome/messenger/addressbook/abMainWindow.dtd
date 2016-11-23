@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Властивості">
+<!ENTITY propertiesMenu.accesskey                       "л">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Властивості адресної книги">
+<!ENTITY abPropertiesMenu.accesskey                     "а">
+<!ENTITY contactPropertiesMenu.label                    "Властивості контакту">
+<!ENTITY contactPropertiesMenu.accesskey                "о">
+<!ENTITY mailingListPropertiesMenu.label                "Властивості списку розсилки">
+<!ENTITY mailingListPropertiesMenu.accesskey            "и">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Вигляд">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">
 <!ENTITY newlistButton.accesskey                        "С">
+<!ENTITY editPropertiesButton.label                     "Змінити">
+<!ENTITY propertiesContext.label                        "Властивості">
+<!ENTITY propertiesContext.accesskey                    "В">
+<!ENTITY abPropertiesContext.label                      "Властивості">
+<!ENTITY abPropertiesContext.accesskey                  "В">
+<!ENTITY editContactContext.label                       "Змінити контакт">
+<!ENTITY editContactContext.accesskey                   "З">
+<!ENTITY editMailingListContext.label                   "Змінити список">
+<!ENTITY editMailingListContext.accesskey               "м">
 <!ENTITY newmsgButton.label                             "Лист">
 <!ENTITY newmsgButton.accesskey                         "Л">
 <!ENTITY newIM.label                                    "Звісточку">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
 <!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
+<!ENTITY editPropertiesButton.tooltip                   "Змінити вибраний елемент">
+<!ENTITY editAbPropertiesButton.tooltip                 "Змінити властивості вибраної адресної книги">
+<!ENTITY editContactPropertiesButton.tooltip            "Змінити вибраний контакт">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Змінити вибраний список розсилки">
 <!ENTITY newmsgButton.tooltip                           "Написати листа">
 <!ENTITY newIM.tooltip                                  "Надіслати миттєве повідомлення або чат">
 <!ENTITY deleteButton2.tooltip                          "Видалити вибраний елемент">
