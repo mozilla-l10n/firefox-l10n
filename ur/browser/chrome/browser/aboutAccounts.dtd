@@ -13,4 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "سائن ان کرنے لیے ضروری ہے کہ آپ انٹرنیٹ سے جڑیں ہوں۔">
 <!ENTITY aboutAccounts.noConnection.retry "دوبارہ کوشش کریں">
 <!ENTITY aboutAccounts.badConfig.title "بری تشکیل">
-
+<!ENTITY aboutAccounts.badConfig.description "آپ کے فائر فاکس اکاؤنٹ کے پیش کار کی تشکیل کا تعین کرنے میں ناکام رھے۔ برائے محربانی کچھ دیر بعد پھر کوشش کریں۔">
