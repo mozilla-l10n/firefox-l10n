@@ -78,7 +78,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js అభిరుచులు">
-<!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ వొక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
+<!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ ఒక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "లాకైన ముఖ్యమైన అభీష్టాలు">
 <!ENTITY aboutSupport.lockedPrefsName "పేరు">
