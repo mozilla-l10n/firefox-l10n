@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "M">
 <!ENTITY insertLinkCmd2.label "Dolen…">
 <!ENTITY insertLinkCmd2.accesskey "D">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Angor a Enwyd…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Delwedd…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "C">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Tynnu Angorau Enwyd">
 <!ENTITY formatRemoveNamedAnchors.accesskey "T">
 <!ENTITY formatRemoveNamedAnchors2.key "R">

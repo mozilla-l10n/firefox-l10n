@@ -32,4 +32,6 @@
 <!ENTITY manageDevices.accesskey "y">
 <!-- Strings for the cert picker dialog -->
 
-
+<!ENTITY certPicker.title "Dewis Tystysgrif">
+<!ENTITY certPicker.info  "Tystysgrif:">
+<!ENTITY certPicker.detailsLabel "Manylion y dystysgrif hon:">

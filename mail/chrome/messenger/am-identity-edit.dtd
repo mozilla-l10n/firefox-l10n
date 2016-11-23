@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Copïau a Ffolderi">
 <!ENTITY addressingTab.label    "Ysgrifennu a Chyfeiriadau">
 
-
-
-
+<!ENTITY publicData.label        "Data Cyhoeddus">
+<!ENTITY privateData.label       "Data Preifat">
+<!ENTITY identityAlias.label     "Label Hunaniaeth">
+<!ENTITY identityAlias.accesskey "H">

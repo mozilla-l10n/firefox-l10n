@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Dewisiadau Mewnforio, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:">
 <!ENTITY importFromNonWin.label         "Dewisiadau Mewnforio, Nodau Tudalen, Hanes, Cyfrineiriau a data arall o:">
-
+<!ENTITY importSourceNotFound.label     "Heb ganfod rhaglen i fewnforio data ohoni.">
 
 <!ENTITY importFromNothing.label        "Peidio mewnforio dim">
 <!ENTITY importFromNothing.accesskey    "P">

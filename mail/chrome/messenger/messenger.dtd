@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Derbynnydd">
 <!ENTITY sortByRecipientCmd.accesskey "D">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Cyfathrebwyr">
+<!ENTITY sortByCorrespondentCmd.accesskey "f">
 <!ENTITY sortByUnreadCmd.label "Darllenwyd">
 <!ENTITY sortByUnreadCmd.accesskey "D">
 <!ENTITY sortByOrderReceivedCmd.label "Trefn Derbyn">
@@ -494,24 +494,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Offer Datblygwyr">
+<!ENTITY devtoolsMenu.accesskey "D">
+<!ENTITY devToolboxCmd.label "Blwch Offer Datblygwyr">
+<!ENTITY devToolboxCmd.accesskey "B">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Dadfygiwr Ychwanegion">
+<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY tabsDebugCmd.label "Dadfygiwr Cynnwys Ffrâm">
+<!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Scratchpad">
+<!ENTITY scratchpadCmd.accesskey "S">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Estyn Negeseuon">
@@ -522,7 +527,7 @@
 <!ENTITY forwardButton.label "Ymlaen">
 <!ENTITY fileButton.label "Ffeil">
 <!ENTITY archiveButton.label "Archifo">
-
+<!ENTITY openConversationButton.label "Sgwrs">
 <!ENTITY nextButton.label "Nesaf">
 <!ENTITY nextButtonToolbarItem.label "Nesaf Heb ei Ddarllen">
 <!ENTITY nextMsgButton.label "Nesaf">
@@ -565,7 +570,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Anfon neges dewiswyd ymlaen fel atodiad">
 <!ENTITY fileButton.tooltip "Ffeilio'r neges">
 <!ENTITY archiveButton.tooltip "Archifo'r negeseuon">
-
+<!ENTITY openConversationButton.tooltip "Dangos sgwrs neges sydd wedi ei dewis">
 <!ENTITY nextButton.tooltip "Symud i'r neges nesaf heb ei darllen">
 <!ENTITY nextMsgButton.tooltip "Symud i'r neges nesaf">
 <!ENTITY previousButton.tooltip "Symud i'r neges heb ei darllen diwethaf">
