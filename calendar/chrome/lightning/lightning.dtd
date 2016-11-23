@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Declinar invitación al evento">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Declinar todas">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Declinar invitación para todas las recurrencias del evento">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Declinar">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Declinar la contrapropuesta">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Borrar">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Borrar del calendario">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalles…">
@@ -60,14 +62,13 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envía una reconfirmación al organizador">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Guardar una copia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Guarda una copia del evento en el calendario independientemente de responder al organizador. La lista de asistentes será borrada.">
-
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativa">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Aceptar invitación al evento tentativamente">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentativa para todas">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aceptar invitación tentativamente para todas las recurrencias del evento">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualizar">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizar evento en el calendario">
-<!ENTITY lightning.imipbar.description "Este mensaje contiene una invitación a un evento.">
+<!ENTITY lightning.imipbar.description                                      "Este mensaje contiene una invitación a un evento.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
