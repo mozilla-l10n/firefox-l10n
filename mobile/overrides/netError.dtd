@@ -28,7 +28,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan ha tagits bort, flyttats eller så hindrar filrättigheter tillgången.</li></ul>">
 
 <!ENTITY generic.title "Hoppsan!">
-<!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte ladda denna sidan.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte ladda denna sida.</p>">
 
 <!ENTITY malformedURI.title "Adressen är inte giltig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
