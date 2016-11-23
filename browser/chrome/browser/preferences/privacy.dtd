@@ -109,3 +109,4 @@
 <!ENTITY  browserContainersLearnMore.label      "Več o tem">
 <!ENTITY  browserContainersEnabled.label        "Omogoči zavihke vsebnika">
 <!ENTITY  browserContainersEnabled.accesskey    "O">
+<!ENTITY  browserContainersSettings.label        "Nastavitve …">
