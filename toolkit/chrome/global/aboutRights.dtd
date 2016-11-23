@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:direitos">
+<!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Acerca dos seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, criado por uma comunidade de milhares de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
 <!-- Note on pointa / pointb / pointc form:
@@ -28,7 +28,7 @@
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Como é que usamos a sua informação pessoal e feedback enviados para a &vendorShortName; através do &brandShortName; é descrito na ">
-<!ENTITY rights2.intro-point3b "política de privacidade do &brandShortName;">
+<!ENTITY rights2.intro-point3b "Política de privacidade do &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
