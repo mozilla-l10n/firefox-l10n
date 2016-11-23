@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "कनेक्शन नहीं है">
 <!ENTITY aboutAccounts.noConnection.description "साईन इन के लिए आपका इंटरनेट से जुड़ा होना आवश्यक है.">
 <!ENTITY aboutAccounts.noConnection.retry "पुनः प्रयास करें">
-
-
+<!ENTITY aboutAccounts.badConfig.title "खराब विन्यास">
+<!ENTITY aboutAccounts.badConfig.description "आपका Firefox खाता सर्वर विन्यास को निर्धारित करने में असमर्थ हैं. कृपया बाद में पुनः प्रयास करे.">
