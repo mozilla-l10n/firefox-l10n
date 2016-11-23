@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "f">
 <!ENTITY acctName.label           "Enw:">
 <!ENTITY acctName.accesskey       "E">
-
+<!ENTITY noModulesFound.label     "Dim rhaglen na ffeil i fewnforio data ohoni wedi ei ganfod.">
 
 <!ENTITY back.label               "&lt; Nôl">
 <!ENTITY forward.label            "Nesaf &gt;">

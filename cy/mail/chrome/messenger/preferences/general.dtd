@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Pan fydd neges newydd yn cyrraedd:">
 <!ENTITY playSound.label                  "Canu nodyn">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Chwarae'r ffeil sain ganlynol:">
+<!ENTITY playSoundMac.accesskey           "s">
 <!ENTITY showAnimatedAlert.label          "Dangos rhybudd">
 <!ENTITY showAnimatedAlert.accesskey      "D">
-
+<!ENTITY notificationAlertSettings2.label "Mae modd analluogi rhybuddion a'r sain rhagosodedig ar y paen Hysbysu y Dewisiadau System.">
 <!ENTITY customizeMailAlert.label         "Cyfaddasu…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 

@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "beth am ymuno â ni!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Nodiadau ryddhau">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Manylion Trwyddedu">
