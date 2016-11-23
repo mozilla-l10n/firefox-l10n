@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Gwahoddiad ar wahân i fynychwyr">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "G">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Gwahardd cyfrif">
+<!ENTITY event.attendees.disallowcounter.accesskey   "G">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Dangos nad ydych yn derbyn cynigion croes">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Newid amser Rhydd/Prysur">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Gosod y cynnig">
+<!ENTITY counter.button.proposal.accesskey                "y">
+<!ENTITY counter.button.proposal.tooltip                  "Gosod y data cynnig yn y ffurflen">
+<!ENTITY counter.button.original.label                    "Gosod y data gwreiddiol">
+<!ENTITY counter.button.original.accesskey                "g">
+<!ENTITY counter.button.original.tooltip                  "Gosod y data gwreiddiol yn y ffurflen">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
