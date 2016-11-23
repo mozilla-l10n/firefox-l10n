@@ -425,8 +425,8 @@
 <!ENTITY updater_downloading_title_failed2 "Download non riuscito">
 <!ENTITY updater_downloading_select2 "Tocca per installare a download completato.">
 <!ENTITY updater_downloading_retry2 "Tocca per riprovare">
-<!ENTITY updater_apply_title2 "Aggiornamento disponibile per &brandShortName;">
-<!ENTITY updater_apply_select2 "Tocca per aggiornare">
+<!ENTITY updater_apply_title3 "Aggiornamento scaricato per &brandShortName;">
+<!ENTITY updater_apply_select3 "Tocca per installare">
 <!ENTITY new_guest_session "Nuova sessione ospite">
 <!ENTITY exit_guest_session "Termina sessione ospite">
 <!ENTITY guest_session_dialog_continue "Continua">
