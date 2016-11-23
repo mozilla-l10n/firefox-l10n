@@ -74,6 +74,7 @@
 <!ENTITY prefs_title "การตั้งค่า">
 <!ENTITY prefs_general_title "ทั่วไป">
 <!ENTITY prefs_restore "เรียกคืนค่าปริยาย">
+<!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
 <!ENTITY prefs_options_showeditor_tooltip "แสดงตัวแก้ไขภายใน">
 <!ENTITY prefs_options_tabsize "ขนาดแท็บ">
 <!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
