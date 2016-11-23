@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Dysgu rhagor">
 <!ENTITY  browserContainersEnabled.label        "Galluogi Tabiau Cynwysyddion">
 <!ENTITY  browserContainersEnabled.accesskey    "G">
-
-
+<!ENTITY  browserContainersSettings.label        "Gosodiadau…">
+<!ENTITY  browserContainersSettings.accesskey    "G">

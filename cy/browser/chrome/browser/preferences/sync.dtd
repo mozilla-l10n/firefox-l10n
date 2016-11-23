@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Ychwanegion">
 <!ENTITY engine.addons.accesskey    "Y">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Enw Dyfais:">
 <!ENTITY fxaSyncDeviceName.label       "Enw Dyfais">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Newid Enw'r Ddyfais…">
+<!ENTITY changeSyncDeviceName.accesskey "N">
+<!ENTITY cancelChangeSyncDeviceName.label "Diddymu">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "D">
+<!ENTITY saveChangeSyncDeviceName.label "Cadw">
+<!ENTITY saveChangeSyncDeviceName.accesskey "C">
 <!ENTITY unlinkDevice.label           "Datgysylltu'r Ddyfais">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nid ydych wedi mewngofnodi.">
-
-
+<!ENTITY signIn.label                "Mewngofnodi">
+<!ENTITY signIn.accesskey            "M">
 <!ENTITY profilePicture.tooltip      "Newid llun proffil">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Rheoli Cyfrif">
+<!ENTITY verifiedManage.accesskey    "R">
+<!ENTITY disconnect.label            "Datgysylltu…">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "Dilysu E-bost">
+<!ENTITY verify.accesskey            "E">
+<!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
+<!ENTITY forget.accesskey            "A">
 
 <!ENTITY welcome.description "Cewch fynediad at eich tabiau, nodau tudalen, cyfrineiriau a mwy lle bynnag fyddwch yn defnyddio &brandShortName;.">
 <!ENTITY welcome.signIn.label "Mewngofnodi">
@@ -92,7 +94,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.">
 <!ENTITY signedOut.accountBox.title   "Cysylltwch gyda &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creu Cyfrif">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Mewngofnodi">
 
 
