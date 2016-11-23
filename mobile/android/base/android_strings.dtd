@@ -371,7 +371,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A raposa laranja ultrapassa as expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, somos livres para inovar sem pressões ou compromissos. Isso significa uma melhor experiência para você e um futuro brilhante para a web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
-<!ENTITY pref_media_autoplay_enabled_summary "Controle a reprodução de vídeos e outras mídias automaticamente">
+<!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
 <!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
