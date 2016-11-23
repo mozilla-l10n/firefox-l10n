@@ -21,12 +21,12 @@
 
 <!ENTITY  clickHere.label                 "ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตนี้">
 
-<!ENTITY  evangelism.desc                 "ขอแนะนำอย่างยิ่งว่า คุณควรปรับรุ่น &brandShortName; โดยด่วนที่สุดเท่าที่จะทำได้">
+<!ENTITY  evangelism.desc                 "แนะนำเป็นอย่างยิ่งให้คุณเรียกใช้การอัปเดต &brandShortName; นี้โดยเร็วที่สุดเท่าที่เป็นไปได้">
 
 <!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY  downloading.intro               "กำลังดาวน์โหลดการอัปเดต…">
 <!ENTITY  connecting.label                "กำลังเชื่อมต่อกับเซิร์ฟเวอร์อัปเดต…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับรุ่น แบบทบเพิ่มได้ดังนั้นขณะนี้โปรแกรมจึงกำลังดาวน์โหลด ชุดปรับรุ่นแบบเต็มแทน">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถตรวจสอบความสมบูรณ์ของการอัปเดตแบบทบเพิ่มที่ดาวน์โหลดได้ ดังนั้นตอนนี้จึงกำลังดาวน์โหลดชุดอัปเดตแบบสมบูรณ์แทน">
 
 <!ENTITY  viewDetails.tooltip             "ดูรายละเอียดการอัปเดตนี้">
 
