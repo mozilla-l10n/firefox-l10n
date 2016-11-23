@@ -7,7 +7,8 @@
 
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
-
+<!ENTITY window.title         "नया पात्र जोड़े">
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "नाम:">
 <!ENTITY name.accesskey       "N">
@@ -15,7 +16,7 @@
 
 
 
-
+<!ENTITY windowClose.key      "w">
 
 
 
