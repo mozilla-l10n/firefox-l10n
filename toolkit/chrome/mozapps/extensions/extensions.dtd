@@ -236,7 +236,7 @@
 <!ENTITY disabledUnsigned.description.start "Los siguientes complementos nun se verificaron pal so usu en &brandShortName;. Pues ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "alcontrar troqueos">
 <!ENTITY disabledUnsigned.description.end " o entrugar al desendolcador pa que los verifique.">
-<!ENTITY disabledUnsigned.learnMore "Depriendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.">
+<!ENTITY disabledUnsigned.learnMore "Deprendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
