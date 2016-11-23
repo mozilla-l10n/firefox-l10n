@@ -110,4 +110,4 @@
 <!ENTITY  browserContainersEnabled.label        "Включване на изолатора на раздели">
 <!ENTITY  browserContainersEnabled.accesskey    "к">
 <!ENTITY  browserContainersSettings.label        "Настройки…">
-<!ENTITY  browserContainersSettings.accesskey    "a">
+<!ENTITY  browserContainersSettings.accesskey    "а">
