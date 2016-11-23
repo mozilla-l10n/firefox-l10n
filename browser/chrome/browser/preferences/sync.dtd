@@ -96,7 +96,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Creu Cyfrif">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Mewngofnodi">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Cydweddu pob dyfais">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
