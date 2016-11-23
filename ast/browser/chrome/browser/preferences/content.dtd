@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Avisos">
-<!ENTITY  notificationsPolicyLearnMore.label   "Depriendi más">
+<!ENTITY  notificationsPolicyLearnMore.label   "Deprendi más">
 <!ENTITY  notificationsPolicyDesc3.label       "Escueyi qué sitios tienen permisu pa unviate avisos">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Escoyer…">
