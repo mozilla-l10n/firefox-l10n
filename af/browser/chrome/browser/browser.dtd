@@ -185,10 +185,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Onlangs geboekmerk">
 <!ENTITY otherBookmarksCmd.label "Ander boekmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Wys onlangs geboekmerk">
+<!ENTITY showRecentlyBookmarked.accesskey "b">
+<!ENTITY hideRecentlyBookmarked.label     "Versteek onlangs geboekmerk">
+<!ENTITY hideRecentlyBookmarked.accesskey "b">
 
 <!ENTITY backCmd.label                "Terug">
 <!ENTITY backButton.tooltip           "Gaan een bladsy terug">
@@ -207,17 +207,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Wys werfinligting">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Open boodskappaneel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Open liggingversoek-paneel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Open paneel met boodskappe oor byvoeginginstallasie">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Open paneel met boodskappe oor stoorplek vanlyn">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Open paneel vir die stoor van wagwoorde">
-
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bestuur gebruik van inproppe">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Verander of boodskappe van dié werf ontvang kan word">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bestuur die deel van die mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bestuur die deel van vensters of die skerm met die werf">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Open paneel met installasieboodskappe">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Vertaal dié bladsy">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Bestuur bladsyvertaling">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Bestuur die gebruik van DRM-sagteware">
@@ -389,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Soek of tik adres in">
 <!ENTITY urlbar.accesskey             "d">
-
+<!ENTITY urlbar.extension.label       "Uitbreiding:">
 <!ENTITY urlbar.switchToTab.label     "Verwissel na oortjie:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Wil u die soek-ervaring verbeter met voorstelle?">

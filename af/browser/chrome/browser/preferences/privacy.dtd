@@ -105,8 +105,8 @@
 <!ENTITY  clearOnCloseSettings.label     "Opstelling…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersLearnMore.label      "Meer inligting">
 
 
-
-
-
+<!ENTITY  browserContainersSettings.label        "Opstelling…">
+<!ENTITY  browserContainersSettings.accesskey    "t">

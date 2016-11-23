@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan vanweë 'n onbekende rede nie hierdie bladsy laai nie.</p>">
 
+<!ENTITY captivePortal.title "Meld aan by netwerk">
+<!ENTITY captivePortal.longDesc "<p>Dié netwerk benodig dalk dat u aanmeld vir internettoegang.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Open aanmeldbladsy">
 
 <!ENTITY malformedURI.title "Die adres is ongeldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webadresse word gewoonlik só geskryf <strong>http://www.example.com/</strong></li> <li>Maak seker u gebruik vorentoe-skuinsstrepe (d.i. <strong>/</strong>).</li> </ul>">

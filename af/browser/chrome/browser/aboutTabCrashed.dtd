@@ -13,16 +13,18 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
+<!ENTITY tabCrashed.header2 "Gits! Daar val die oortjie om.">
+<!ENTITY tabCrashed.offerHelp "Ons kan help!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Kies &tabCrashed.restoreTab; om die bladsy te herlaai.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Kies &tabCrashed.restoreTab; of &tabCrashed.restoreAll; om bladsyinhoud te herlaai.">
 
+<!ENTITY tabCrashed.requestHelpMessage "Omvalverslae help ons om probleme te diagnoseer en &brandShortName; beter te maak.">
+<!ENTITY tabCrashed.requestReport "Rapporteer dié oortjie">
 
-
-
-
-
-
-
+<!ENTITY tabCrashed.commentPlaceholder2 "Opsionele kommentaar (kommentaar is sigbaar in die openbaar)">
+<!ENTITY tabCrashed.includeURL2 "Sluit bladsy se URL in by die omvalverslag">
 <!ENTITY tabCrashed.emailPlaceholder "Tik u e-posadres hier in">
 <!ENTITY tabCrashed.emailMe "E-pos my wanneer meer inligting beskikbaar is">
 <!ENTITY tabCrashed.reportSent "Omvalverslag reeds ingedien. Dankie dat u help om &brandShortName; te verbeter!">
 
-
+<!ENTITY tabCrashed.autoSubmit "Verander voorkeure om outomaties agterstallige omvalverslae in te dien (en dus minder boodskappe soos dié in die toekoms te kry)">
