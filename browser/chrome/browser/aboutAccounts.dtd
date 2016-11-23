@@ -13,4 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Кіру үшін интернетпен байланыс болу тиіс.">
 <!ENTITY aboutAccounts.noConnection.retry "Қайтадан көру">
 <!ENTITY aboutAccounts.badConfig.title "Жарамсыз баптаулар">
-
+<!ENTITY aboutAccounts.badConfig.description "Firefox тіркелгі серверінің баптауларын анықтау мүмкін емес. Кейінірек қайталап көріңіз.">

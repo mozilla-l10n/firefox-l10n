@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Егер осы баптауды іске қоссаңыз, командалар және веб консолі шығысында уақыт мәндері болады">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Жөндеуші">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Бастапқы код карталарын іске қосу">
+<!ENTITY options.sourceMaps.tooltip    "Егер сіз бұл опцияны іске қоссаңыз, бастапқы код карталары жөндеушіде және консольде көрсетіледі.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
