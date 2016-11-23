@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Afbeeldingslocatie:">
 <!ENTITY locationEditField.accessKey "A">
 <!ENTITY locationEditField.tooltip "Typ de bestandsnaam of locatie van de afbeelding">
+<!ENTITY locationEditField.shortenedDataURI "Data-URI is ingekort (Kopiëren zal de volledige URI op het klembord plaatsen)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "Het HTML-attribuut ‘title’ dat verschijnt als tooltip">
