@@ -43,13 +43,13 @@
 <!ENTITY telemetryDesc.label             "Comparte'l rindimientu, usu, hardware y personalización de datos tocante al to veceru de corréu con &vendorShortName; p'ameyorar &brandShortName;">
 <!ENTITY enableTelemetry.label           "Habilitar telemetría">
 <!ENTITY enableTelemetry.accesskey       "t">
-<!ENTITY telemetryLearnMore.label        "Depriendi más">
+<!ENTITY telemetryLearnMore.label        "Deprendi más">
 
 <!ENTITY crashReporterSection.label      "Informador de casques">
 <!ENTITY crashReporterDesc.label         "&brandShortName; unvia informes de fallu p'ayudar a &vendorShortName; a facer un vecerude corréu más estable y seguru">
 <!ENTITY enableCrashReporter.label       "Habilitar informador de casques">
 <!ENTITY enableCrashReporter.accesskey   "i">
-<!ENTITY crashReporterLearnMore.label    "Depriendi más">
+<!ENTITY crashReporterLearnMore.label    "Deprendi más">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Anovamientos de &brandShortName;:">
