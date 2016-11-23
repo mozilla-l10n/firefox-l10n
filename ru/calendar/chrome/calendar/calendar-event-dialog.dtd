@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Разделить приглашения по участникам">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "з">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Эта настройка позволяет отправить эл.письмо с приглашением каждому участнику по отдельности. Каждое приглашение индивидуально и другие участники не раскрываются.">
-<!ENTITY event.attendees.disallowcounter.label       "Запретить Счетчик">
+<!ENTITY event.attendees.disallowcounter.label       "Запретить встречные предложения">
 <!ENTITY event.attendees.disallowcounter.accesskey   "п">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Указывает, что вы не принимаете контр-предложения">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Указывает, что вы не принимаете встречные предложения">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
