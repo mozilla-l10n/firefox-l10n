@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen el to restolar.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Depriendi más">
+<!ENTITY learn_more "Deprendi más">
 <!ENTITY enable_protection "Habilitar proteición">
 <!ENTITY disable_protection "Deshabilitar proteición">
 
@@ -806,7 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "L\&apos;ayuda y sofitu de Firefox tán restrinxíos a perfiles en tabletes d\&apos;Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Depriendi la web: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Deprendi la web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
