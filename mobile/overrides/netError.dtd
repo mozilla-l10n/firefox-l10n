@@ -34,7 +34,9 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li>
+</ul>">
 
 <!ENTITY generic.title "Ооох.">
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
