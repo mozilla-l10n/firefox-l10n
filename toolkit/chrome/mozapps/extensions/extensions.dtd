@@ -96,8 +96,8 @@
 <!ENTITY cmd.askToActivate.tooltip            "每次询问是否使用此附加组件">
 <!ENTITY cmd.alwaysActivate.label             "总是激活">
 <!ENTITY cmd.alwaysActivate.tooltip           "总是使用此附加组件">
-<!ENTITY cmd.neverActivate.label              "总不激活">
-<!ENTITY cmd.neverActivate.tooltip            "总不使用此附加组件">
+<!ENTITY cmd.neverActivate.label              "永不激活">
+<!ENTITY cmd.neverActivate.tooltip            "永不使用此附加组件">
 <!ENTITY cmd.stateMenu.tooltip                "更改需运行此附加组件时的反应">
 <!ENTITY cmd.installAddon.label               "安装">
 <!ENTITY cmd.installAddon.accesskey           "I">
