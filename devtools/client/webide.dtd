@@ -17,6 +17,7 @@
 <!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
 <!ENTITY runtimeMenu_showDevicePrefs_label "การตั้งค่าอุปกรณ์">
 <!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">

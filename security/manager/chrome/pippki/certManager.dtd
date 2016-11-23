@@ -73,6 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "ข">
 <!ENTITY certmgr.fields.label                 "ค่า">
 <!ENTITY certmgr.fields.accesskey             "ค">
+<!ENTITY certmgr.hierarchy.label              "ลำดับชั้นใบรับรอง">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "เพิ่มข้อยกเว้น…">
 <!ENTITY certmgr.addException.accesskey       "ย">
 
