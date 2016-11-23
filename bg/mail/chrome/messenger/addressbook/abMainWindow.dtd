@@ -171,7 +171,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "г">
 <!ENTITY NickName.label                                 "Псевдоним">
 <!ENTITY NickName.accesskey                             "П">
-<!ENTITY SecondEmail.label                              "Допълнителна е-поща">
+<!ENTITY SecondEmail.label                              "Допълнителен ел. адрес">
 <!ENTITY SecondEmail.accesskey                          "Д">
 <!ENTITY Department.label                               "Отдел">
 <!ENTITY Department.accesskey                           "О">

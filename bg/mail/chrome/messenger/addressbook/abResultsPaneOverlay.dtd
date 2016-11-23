@@ -14,7 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "Ф">
 <!ENTITY NickName.label                        "Псевдоним">
 <!ENTITY NickName.accesskey                    "П">
-<!ENTITY SecondEmail.label                     "Допълнителна е-поща">
+<!ENTITY SecondEmail.label                     "Допълнителен ел. адрес">
 <!ENTITY SecondEmail.accesskey                 "Д">
 <!ENTITY Department.label                      "Отдел">
 <!ENTITY Department.accesskey                  "т">
