@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Saznajte više">
 <!ENTITY  browserContainersEnabled.label        "Omogući Container tabove">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Postavke…">
+<!ENTITY  browserContainersSettings.accesskey    "t">
