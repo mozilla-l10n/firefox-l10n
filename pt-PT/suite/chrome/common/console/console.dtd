@@ -28,13 +28,13 @@
 <!ENTITY copyCmd.label         "Copiar">
 <!ENTITY copyCmd.accesskey     "C">
 <!ENTITY copyCmd.commandkey    "C">
-
-
-
-
-
-
-
+<!ENTITY sortFirst.label       "Ordenação, primeiro > último">
+<!ENTITY sortFirst.accesskey   "r">
+<!ENTITY sortLast.label        "Ordenação, último > primeiro">
+<!ENTITY sortLast.accesskey    "l">
+<!ENTITY closeCmd.commandkey   "w">
+<!ENTITY focus1.commandkey     "l">
+<!ENTITY focus2.commandkey     "d">
 
 <!ENTITY menuBar.tooltip       "Barra de menu">
 <!ENTITY modeToolbar.tooltip   "Modo Barra de ferramentas">
