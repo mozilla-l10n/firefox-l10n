@@ -14,3 +14,5 @@
 
 <!ENTITY publicData.label        "Veřejná data">
 <!ENTITY privateData.label       "Důvěrná data">
+<!ENTITY identityAlias.label     "Označení identity:">
+<!ENTITY identityAlias.accesskey "n">
