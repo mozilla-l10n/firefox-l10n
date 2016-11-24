@@ -5,8 +5,8 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-<!ENTITY next.tooltip "Das nächste Auftreten des Ausdrucks suchen">
-<!ENTITY previous.tooltip "Das vorherige Auftreten des Ausdrucks suchen">
+<!ENTITY next.tooltip "Das nächste Vorkommen des Ausdrucks suchen">
+<!ENTITY previous.tooltip "Das vorherige Vorkommen des Ausdrucks suchen">
 <!ENTITY findCloseButton.tooltip "Suchleiste schließen">
 <!ENTITY highlightAll.label "Hervorheben">
 <!ENTITY highlightAll.accesskey "H">
