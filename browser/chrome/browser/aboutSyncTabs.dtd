@@ -12,7 +12,7 @@
 <!ENTITY tabs.context.openTab.accesskey               "О">
 <!ENTITY tabs.context.openMultipleTabs.label          "Отваряне на избрания раздел">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "и">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Отметка на този раздел…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Отмятане на раздела…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "т">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Отмятане на избраните раздели…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "м">
