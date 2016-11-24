@@ -28,7 +28,7 @@
 <button id='searchbutton'>Pesquisa</button> 
 </div> 
 <li>Se não conseguir carregar nenhuma página, verifique a conexão Wi-Fi. 
-<button id='wifi'>Ativar Wi-Fi</button> 
+<button id='wifi'>Habilitar Wi-Fi</button> 
 </li> 
 </ul>">
 
