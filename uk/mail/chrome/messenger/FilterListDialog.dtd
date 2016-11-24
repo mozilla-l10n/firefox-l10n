@@ -4,21 +4,23 @@
 
 <!ENTITY window.title "Фільтри листів">
 <!ENTITY nameColumn.label "Назва фільтру">
-<!ENTITY activeColumn.label "Включений">
+<!ENTITY activeColumn.label "Увімкнено">
 <!ENTITY newButton.label "Створити…">
 <!ENTITY newButton.accesskey "С">
+<!ENTITY newButton.popupCopy.label "Копіювати…">
+<!ENTITY newButton.popupCopy.accesskey "К">
 <!ENTITY editButton.label "Змінити…">
 <!ENTITY editButton.accesskey "м">
-<!ENTITY deleteButton.label "Вилучити">
+<!ENTITY deleteButton.label "Видалити">
 <!ENTITY deleteButton.accesskey "и">
-<!ENTITY reorderTopButton "Перемістити наверх">
+<!ENTITY reorderTopButton "Перемістити вгору">
 <!ENTITY reorderTopButton.accessKey "г">
 <!ENTITY reorderTopButton.toolTip "Переставити фільтр так, щоб він виконувався перед усіма іншими">
 <!ENTITY reorderUpButton.label "Вгору">
 <!ENTITY reorderUpButton.accesskey "г">
 <!ENTITY reorderDownButton.label "Вниз">
 <!ENTITY reorderDownButton.accesskey "н">
-<!ENTITY reorderBottomButton "Перемістити на дно">
+<!ENTITY reorderBottomButton "Перемістити донизу">
 <!ENTITY reorderBottomButton.accessKey "д">
 <!ENTITY reorderBottomButton.toolTip "Переставити фільтр так, щоб він виконувався після всіх інших">
 <!ENTITY filterHeader.label "Включені фільтри запускаються автоматично у вказаному нижче порядку.">
