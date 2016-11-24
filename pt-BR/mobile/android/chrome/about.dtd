@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "O &brandShortName; é experimental e pode ser instável.">
 <!ENTITY aboutPage.telemetryStart               " Informações de desempenho, hardware, uso e personalização são enviadas de volta a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " para ajudar a melhorar o &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 " para ajudar a fazer o &brandShortName; melhor.">
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar se há atualizações »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Procurando por atualizações…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível">
