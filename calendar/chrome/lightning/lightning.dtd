@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klõpsa teiste valikute nägemiseks">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Kinnita uuesti">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Saadab korraldajale kinnituse uuesti">
-<!ENTITY lightning.imipbar.btnReschedule.label                              "Ajasta ümber">
-<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Ajasta sündmus ümber">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Muuda aega">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Muuda sündmuse toimumisaega">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvesta koopia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvestab kalendrisse koopia korraldajale vastamata. Osalejate nimekiri tühjendatakse.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Kahtlev">
