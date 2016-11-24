@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Активен">
 <!ENTITY newButton.label "Нов…">
 <!ENTITY newButton.accesskey "Н">
+<!ENTITY newButton.popupCopy.label "Копиране…">
+<!ENTITY newButton.popupCopy.accesskey "К">
 <!ENTITY editButton.label "Промяна…">
 <!ENTITY editButton.accesskey "П">
 <!ENTITY deleteButton.label "Изтриване">
@@ -36,4 +38,6 @@
 <!ENTITY helpButton.accesskey "П">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Търсене на филтри по име…">
+
+
 
