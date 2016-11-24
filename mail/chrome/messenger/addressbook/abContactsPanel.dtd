@@ -2,6 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Propiedades">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Propiedades de libreta de direcciones">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Propiedades de contacto">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Propiedades de lista de correo">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Libreta de direcciones:">
 <!ENTITY addressbookPicker.accesskey        "d">
@@ -15,6 +24,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "O">
 <!ENTITY deleteAddrBookCard.label           "Borrar">
 <!ENTITY deleteAddrBookCard.accesskey       "B">
+<!ENTITY propertiesContext.label            "Propiedades">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Propiedades">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Editar contacto">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Editar lista">
+<!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY toButton.label                     "Agregar a Para:">
 <!ENTITY toButton.accesskey                 "A">
