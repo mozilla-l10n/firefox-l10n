@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Rupam">
 <!ENTITY  paneApplications.title  "Taq chokoy">
 <!ENTITY  panePrivacy.title       "Ichinanem">
-
+<!ENTITY  paneContainers.title    "Ajk'wayöl taq ruwi'">
 <!ENTITY  paneSecurity.title      "Chajinïk">
 <!ENTITY  paneAdvanced.title      "Q'axinäq">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
