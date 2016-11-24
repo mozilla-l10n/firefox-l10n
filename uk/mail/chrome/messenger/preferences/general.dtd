@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
 <!ENTITY playSound.label                  "Відтворити звук">
 <!ENTITY playSound1.accesskey             "з">
+<!ENTITY playSoundMac.label               "Відтворити наступний звуковий файл:">
+<!ENTITY playSoundMac.accesskey           "з">
 <!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
 <!ENTITY showAnimatedAlert.accesskey      "с">
+<!ENTITY notificationAlertSettings2.label "Сигнали і типові звуки можна вимкнути в панелі сповіщень системних налаштувань.">
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
