@@ -23,7 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Links">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Ativar fila de abas">
+<!ENTITY firstrun_tabqueue_message_off "Ligar fila de abas">
 <!ENTITY firstrun_tabqueue_subtext_off "Salvar links para mais tarde no &brandShortName; quando tocar-los em outros aplicativos.">
 
 <!ENTITY firstrun_tabqueue_message_on "Sucesso!">
