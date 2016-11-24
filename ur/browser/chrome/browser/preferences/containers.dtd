@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "نام">
-
-
+<!ENTITY addButton.label      "نئے حامل کا اضافہ کریں">
+<!ENTITY addButton.accesskey  "ا">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "رازداری کی طرف واپس جاَیں؛ &#171;">
 
 <!ENTITY window.title         "نئے حامل کا اضافہ کریں">
 <!ENTITY window.width         "45em">

@@ -16,9 +16,9 @@
 <!ENTITY tabCrashed.header2 "اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔">
 <!ENTITY tabCrashed.offerHelp "ہم آپکی مدد کر سکتے ہیں!">
 <!ENTITY tabCrashed.single.offerHelpMessage "صفحہ کا مواد بحال کرنے کے لیئے tabCrashed.restoreTab کا انتخاب کریں۔">
-
+<!ENTITY tabCrashed.multiple.offerHelpMessage "صفحہ کا مواد دوبارہ بحال کرنے کے لئے ؛tabCrashed.restoreTab&amp;، یا پھر &amp; کا انتخاب کریں۔">
 <!ENTITY tabCrashed.requestHelp "کیا آپ ہماری مدد کریں گے؟">
-
+<!ENTITY tabCrashed.requestHelpMessage "تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *&brandShortName;* کو بہترکرتا ہے۔">
 <!ENTITY tabCrashed.requestReport "اس ٹیب کی رپورٹ کریں">
 <!ENTITY tabCrashed.sendReport2 "آپ جس ٹیب کا نظارہ کر رہے ہیں اس ٹیب کی تباہ رپورٹ ارسال کریں">
 <!ENTITY tabCrashed.commentPlaceholder2 "اختیاری تبصرہ (تبصرے عوامی سطح پر نمودار ھیں)">

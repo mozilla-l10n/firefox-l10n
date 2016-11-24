@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "اور سیکھیں">
 
-
-
+<!ENTITY crashReporterDesc2.label         "تباہ کاری کی رپورٹ &vendorShortName; میں مدد کرتی ھے۔ اور آپ کے براؤزر کو زیادہ مستحکم اور محفوظ بناتی ھے">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; ہونے دیں; تاکے آپکی طرف سے backlogged کو تباہ کاری رپورٹس ارسال کی جا سکیں  ">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "اور سیکھیں">
 
 <!ENTITY networkTab.label                "نیٹ ورک">
