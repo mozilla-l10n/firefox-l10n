@@ -45,7 +45,7 @@
 <!ENTITY enableTelemetry.accesskey       "Т">
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
-<!ENTITY crashReporterSection.label      "Отчети за сривове">
+<!ENTITY crashReporterSection.label      "Доклад за срив">
 <!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривовете, за да помогне на &vendorShortName; да направи пощенския клиент по-стабилен и по-сигурен">
 <!ENTITY enableCrashReporter.label       "Включване на отчетите">
 <!ENTITY enableCrashReporter.accesskey   "о">
