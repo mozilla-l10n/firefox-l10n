@@ -388,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">
 <!ENTITY urlbar.accesskey             "d">
-
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "താങ്കളുടെ തിരയല്‍ അനുഭവങ്ങള്‍ നിര്‍ദ്ദേശങ്ങള്‍ വഴി ഭേദപെടുത്താന്‍ താങ്കള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?">
