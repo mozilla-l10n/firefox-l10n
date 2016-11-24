@@ -786,13 +786,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Extensões">
 <!ENTITY restrictable_feature_addons_installation_description "Adiciona recursos ou funcionalidades ao Firefox. Nota: Extensões podem desabilitar certas restrições.">
 <!ENTITY restrictable_feature_private_browsing "Navegação privativa">
-<!ENTITY restrictable_feature_private_browsing_description "Permite que os membros da família naveguem sem salvar informações sobre os sites e páginas visitados">
+<!ENTITY restrictable_feature_private_browsing_description "Permitir que os membros da família naveguem sem salvar informações sobre os sites e páginas visitados.">
 <!ENTITY restrictable_feature_clear_history "Limpar histórico">
 <!ENTITY restrictable_feature_clear_history_description "Permite que os membros da família apaguem informações sobre os sites e páginas visitados">
 <!ENTITY restrictable_feature_advanced_settings "Configurações avançadas">
-<!ENTITY restrictable_feature_advanced_settings_description "Isso inclui importação de favoritos, restaurando abas e atualizações automáticas. Desligue para definições simplificadas, adequadas para qualquer membro da família.">
+<!ENTITY restrictable_feature_advanced_settings_description "Isto inclui importar favoritos, restaurar abas e atualizações automáticas. Desligar para definições simplificadas, adequadas para qualquer membro da família.">
 <!ENTITY restrictable_feature_camera_microphone "Câmera e microfone">
-<!ENTITY restrictable_feature_camera_microphone_description "Permite o engajamento de membros da família em comunicações em tempo real em páginas web.">
+<!ENTITY restrictable_feature_camera_microphone_description "Permitir a participação de membros da família em comunicações em tempo real em sites.">
 <!ENTITY restrictable_feature_block_list "Lista de bloqueios">
 <!ENTITY restrictable_feature_block_list_description "Bloquear sites que incluem conteúdo sensível.">
 
@@ -800,7 +800,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Sobre o seu navegador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Personalize com complementos">
+<!ENTITY bookmarks_addons "Firefox: Personalizar com extensões">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Suporte">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
