@@ -223,7 +223,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 ден преди" >
 <!ENTITY event.reminder.2days.before.label                "2 дена преди" >
 <!ENTITY event.reminder.1week.before.label                "1 седмица преди" >
-<!ENTITY event.reminder.custom.label                      "По избор…" >
+<!ENTITY event.reminder.custom.label                      "Персонализиране…" >
 
 <!ENTITY event.reminder.multiple.label                    "Много напомняния…" >
 
@@ -240,7 +240,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "През седмица">
 <!ENTITY event.repeat.monthly.label                     "Ежемесечно">
 <!ENTITY event.repeat.yearly.label                      "Ежегодно">
-<!ENTITY event.repeat.custom.label                      "По избор…">
+<!ENTITY event.repeat.custom.label                      "Персонализиране…">
 
 <!ENTITY event.recurrence.pattern.label                 "Модел на повторенията">
 <!ENTITY event.recurrence.occurs.label                  "Повторение" >
