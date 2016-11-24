@@ -616,18 +616,18 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos selecionados">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Mostrar dispositivos selecionados">
 
 <!ENTITY remote_tabs_panel_moved_title "Onde estão as minhas abas?">
 <!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que pode ser facilmente acessado ​​toda vez que abrir uma nova aba.">
 <!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
 
-<!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
+<!ENTITY pin_site_dialog_hint "Digitar uma palavra-chave de pesquisa">
 
-<!ENTITY filepicker_title "Selecionar arquivo">
-<!ENTITY filepicker_audio_title "Selecionar ou gravar um som">
-<!ENTITY filepicker_image_title "Selecionar ou tirar uma foto">
-<!ENTITY filepicker_video_title "Selecionar ou gravar um vídeo">
+<!ENTITY filepicker_title "Escolher arquivo">
+<!ENTITY filepicker_audio_title "Escolher ou gravar um som">
+<!ENTITY filepicker_image_title "Escolher ou tirar uma foto">
+<!ENTITY filepicker_video_title "Escolher ou gravar um vídeo">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Conectado a">
@@ -644,7 +644,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexão segura">
 <!ENTITY identity_connection_insecure "Conexão insegura">
-<!ENTITY identity_connection_chromeui "Essa é uma página segura do &brandShortName;">
+<!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo inseguro nesta página.">
@@ -654,26 +654,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteção contra rastreamento">
-<!ENTITY doorhanger_tracking_state_enabled "Ativado">
-<!ENTITY doorhanger_tracking_state_disabled "Desativado">
-<!ENTITY doorhanger_tracking_message_enabled1 "As tentativas de rastrear seu comportamento online foram bloqueadas.">
+<!ENTITY doorhanger_tracking_state_enabled "Habilitado">
+<!ENTITY doorhanger_tracking_state_disabled "Desabilitado">
+<!ENTITY doorhanger_tracking_message_enabled1 "Tentativas de rastrear seu comportamento online foram bloqueadas.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página contem elementos que podem rastrear sua navegação.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Saber mais">
-<!ENTITY enable_protection "Ativar proteção">
-<!ENTITY disable_protection "Desativar proteção">
+<!ENTITY enable_protection "Habilitar proteção">
+<!ENTITY disable_protection "Desabilitar proteção">
 
 <!ENTITY private_data_success "Dados privativos limpos">
 <!ENTITY private_data_fail "Alguns dados privativos não puderam ser limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico 
-do Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos 
-do Android">
-<!ENTITY bookmarkhistory_import_history "Importando histórico 
-do Android">
+<!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico
+                                      do Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos
+                                           do Android">
+<!ENTITY bookmarkhistory_import_history "Importando histórico
+                                         do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
 
 <!ENTITY suggestions_prompt3 "Deseja ativar as sugestões de pesquisa?">
@@ -696,9 +696,9 @@ do Android">
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para baixar">
 
-<!ENTITY updater_downloading_title2 "Recebendo o &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download falhou">
-<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for recebida">
+<!ENTITY updater_downloading_title2 "Baixando o &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "O download falhou">
+<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for baixada">
 <!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
@@ -712,7 +712,7 @@ do Android">
 <!ENTITY updater_permission_allow "Permitir">
 
     <!-- Guest mode -->
-<!ENTITY new_guest_session "Sessão de convidado">
+<!ENTITY new_guest_session "Nova sessão de convidado">
 <!ENTITY exit_guest_session "Sair da sessão de convidado">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
@@ -783,8 +783,8 @@ do Android">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "Complementos">
-<!ENTITY restrictable_feature_addons_installation_description "Adiciona recursos ou funcionalidades ao Firefox. Nota: Complementos podem desativar determinadas restrições.">
+<!ENTITY restrictable_feature_addons_installation "Extensões">
+<!ENTITY restrictable_feature_addons_installation_description "Adiciona recursos ou funcionalidades ao Firefox. Nota: Extensões podem desabilitar certas restrições.">
 <!ENTITY restrictable_feature_private_browsing "Navegação privativa">
 <!ENTITY restrictable_feature_private_browsing_description "Permite que os membros da família naveguem sem salvar informações sobre os sites e páginas visitados">
 <!ENTITY restrictable_feature_clear_history "Limpar histórico">
