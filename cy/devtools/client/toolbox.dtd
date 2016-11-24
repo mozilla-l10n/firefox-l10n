@@ -166,7 +166,7 @@
    - label for the checkbox that toggles source maps in the Debugger -->
 
 <!ENTITY options.sourceMaps.label      "Galluogi Mapiau Ffynhonnell">
-<!ENTITY options.sourceMaps.tooltip    "Os ydych wedi galluogi'r dewis hwn bydd ffynonellau'n cael eu mapio yn y Dadfygiwr a' r Consol.">
+<!ENTITY options.sourceMaps.tooltip    "Os ydych wedi galluogi'r dewis hwn bydd ffynonellau'n cael eu mapio yn y Dadfygiwr a'r Consol.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
