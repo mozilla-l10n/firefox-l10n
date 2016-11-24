@@ -438,7 +438,7 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; изпраща отчети за сривовете, за да помогне на &vendorShortName; да направи браузъра по-стабилен и по-сигурен">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Отчети за сривове">
+<!ENTITY datareporting_crashreporter_title_short "Доклад за срив">
 <!ENTITY datareporting_wifi_title2 "Услуга за местоположение от &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Помогнете на &vendorShortName; да картографира света! Споделете приблизителното си местоположение спрямо Wi-Fi и мобилната мрежа на устройството, за да подобрите нашата услуга за геолокация.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
