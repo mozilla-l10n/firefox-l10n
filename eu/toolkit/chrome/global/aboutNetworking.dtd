@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Jasotako mezuak">
 <!ENTITY aboutNetworking.bytesSent             "Bidalitako byteak">
 <!ENTITY aboutNetworking.bytesReceived         "Jasotako byteak">
+<!ENTITY aboutNetworking.logging               "Erregistroa">
 
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.currentLogFile        "Uneko erregistro-fitxategia:">
+<!ENTITY aboutNetworking.currentLogModules     "Uneko erregistro-moduluak:">
+<!ENTITY aboutNetworking.setLogFile            "Ezarri erregistro-fitxategia">
+<!ENTITY aboutNetworking.setLogModules         "Ezarri erregistro-moduluak:">
+<!ENTITY aboutNetworking.startLogging          "Hasi erregistratzen">
+<!ENTITY aboutNetworking.stopLogging           "Gelditu erregistratzen">
 <!ENTITY aboutNetworking.dnsLookup             "DNS bilaketa">
 <!ENTITY aboutNetworking.dnsLookupButton       "Ebatzi">
 <!ENTITY aboutNetworking.dnsDomain             "Domeinua">

@@ -32,6 +32,7 @@
 
 
 
+<!ENTITY openPortalLoginPage.label "Ireki saio-hasiera orria">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidea.eus/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
