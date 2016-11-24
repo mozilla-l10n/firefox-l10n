@@ -375,9 +375,9 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
-<!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de localização">
+<!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de endereço">
 <!ENTITY pref_qrcode_enabled "Leitor de código QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Permitir scanner de códigos QR na barra de localização">
+<!ENTITY pref_qrcode_enabled_summary2 "Permitir scanner de códigos QR na barra de endereço">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync2 "Entrar">
@@ -398,10 +398,10 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Abas sincronizadas">
 
 <!ENTITY pref_default_browser "Definir como navegador padrão">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Acesse o Suporte Mozilla">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar o suporte da Mozilla">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
-<!ENTITY pref_vendor_faqs "Dúvidas frequentes">
-<!ENTITY pref_vendor_feedback "Dê sua opinião">
+<!ENTITY pref_vendor_faqs "Perguntas frequentes">
+<!ENTITY pref_vendor_feedback "Enviar opinião">
 
 <!ENTITY pref_dialog_set_default "Definir como padrão">
 <!ENTITY pref_dialog_default "Padrão">
