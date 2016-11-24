@@ -175,7 +175,7 @@
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary4 "Rastreamento, logins, dados compatilhados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, dúvidas, opinião">
+<!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, perguntas frequentes, opinião">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_category_logins "Logins">
 <!ENTITY pref_learn_more "Saber mais">
@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "Dica: adicione qualquer site à sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e um toque no ícone &formatI;.">
+<!ENTITY pref_search_hint2 "Dica: Adicione qualquer site à sua lista de provedores de pesquisa com um toque longo no campo de pesquisa e em seguida tocando no ícone &formatI;.">
 <!ENTITY pref_category_advanced "Avançado">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
