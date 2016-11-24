@@ -8,9 +8,9 @@
 <!ENTITY treehead.sitename.label      "ไซต์">
 <!ENTITY treehead.status.label        "สถานะ">
 <!ENTITY removepermission.label       "เอาไซต์ออก">
-<!ENTITY removepermission.accesskey   "เ">
+<!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "เอาไซต์ทั้งหมดออก">
-<!ENTITY removeallpermissions.accesskey "อ">
+<!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "ที่อยู่เว็บไซต์:">
 <!ENTITY address.accesskey            "ว">
 <!ENTITY block.label                  "ปิดกั้น">
