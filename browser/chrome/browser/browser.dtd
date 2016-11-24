@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Gweld manylion y wefan">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Agor y panel negesu">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Agor panel neges gosod yr ychwanegyn">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Agor y panel neges storio all-lein">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Agor panel neges y cyfrinair cadw">

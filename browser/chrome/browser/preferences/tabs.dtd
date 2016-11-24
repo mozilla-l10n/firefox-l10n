@@ -12,7 +12,7 @@
 <!ENTITY warnCloseMultipleTabs.accesskey  "R">
 
 <!ENTITY warnOpenManyTabs.label       "Rhybuddio y gall agor mwy nag un tab arafu &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
 
 <!ENTITY switchToNewTabs.label        "Wrth agor dolen mewn tab newydd, symud yn syth iddo">
 <!ENTITY switchToNewTabs.accesskey    "W">
