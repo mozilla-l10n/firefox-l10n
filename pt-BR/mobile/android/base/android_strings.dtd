@@ -153,7 +153,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Favorito">
-<!ENTITY overlay_share_bookmark_btn_label_already "Já existe nos favoritos">
+<!ENTITY overlay_share_bookmark_btn_label_already "Já está nos favoritos">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "Desabilitado">
 
 <!ENTITY pref_whats_new_notification "O que há de novo no &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Saiba mais sobre as novas funcionalidades depois de uma atualização">
+<!ENTITY pref_whats_new_notification_summary "Saber mais sobre as novas funcionalidades depois de uma atualização">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
