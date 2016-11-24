@@ -6,9 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "Промяна">
 
-<!ENTITY aboutTelemetry.uploadEnabled "Качването на FHR данни е <span>включено</span>.">
+<!ENTITY aboutTelemetry.uploadEnabled "Качването на данните от FHR е <span>включено</span>.">
 
-<!ENTITY aboutTelemetry.uploadDisabled "Качването на FHR данни е <span>изключено</span>.">
+<!ENTITY aboutTelemetry.uploadDisabled "Качването на данните от FHR е <span>изключено</span>.">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "Разширеното записване на телеметрия е <span>включено</span>.">
 

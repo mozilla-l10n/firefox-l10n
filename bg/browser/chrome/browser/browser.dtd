@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Разширение:">
 <!ENTITY urlbar.switchToTab.label     "Превключване към раздел:">
 
@@ -763,7 +764,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "п">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отваряне в поверителен прозорец">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Отмятане на страницата…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Отмятане на раздела…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "т">
 <!ENTITY syncedTabs.context.copy.label                       "Копиране">
 <!ENTITY syncedTabs.context.copy.accesskey                   "К">

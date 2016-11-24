@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
-<!ENTITY advanced.label "Допълнително">
+<!ENTITY advanced.label "Подробности">
 
 <!-- Specific error messages -->
 
@@ -123,7 +123,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Допълнително">
+<!ENTITY weakCryptoAdvanced.title "Подробности">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
 
