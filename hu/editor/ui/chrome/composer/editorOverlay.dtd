@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "B">
 <!ENTITY insertLinkCmd2.label "Hivatkozás…">
 <!ENTITY insertLinkCmd2.accesskey "H">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Megnevezett horgony…">
 <!ENTITY insertAnchorCmd.accesskey "o">
 <!ENTITY insertImageCmd.label "Kép…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Horgonyok eltávolítása">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
