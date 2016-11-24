@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pesquisar ou abrir endereço">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensão:">
 <!ENTITY urlbar.switchToTab.label     "Selecionar a aba:">
 
@@ -722,7 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Este site contém conteúdo que não é seguro (tal como scripts) e a sua conexão com ele não é privada.">
 <!ENTITY identity.description.activeLoaded2 "Informações que compartilhar com este site (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
+<!ENTITY identity.enableMixedContentBlocking.label "Habilitar proteção">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Desativar proteção por enquanto">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
@@ -822,7 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Desabilitar a proteção nesta sessão">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Ativar proteção">
+<!ENTITY trackingProtection.block2.label "Habilitar proteção">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Rastreamento">
@@ -831,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.block.label "Habilitar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção contra rastreamento está desativada">
 
