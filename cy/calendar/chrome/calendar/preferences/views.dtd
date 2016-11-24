@@ -14,7 +14,7 @@
 
 <!ENTITY pref.weekstarts.label "Cychwyn yr wythnos ar:">
 <!ENTITY pref.weekstarts.accesskey "C">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "D&amp;angos rhif wythnos mewn golwg a mis bach">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Dangos rhif wythnos mewn golwg a mis bach">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "r">
 <!ENTITY pref.daysoff.label "Cynnwys y dyddiau hyn yn yr wythnos waith:">
 

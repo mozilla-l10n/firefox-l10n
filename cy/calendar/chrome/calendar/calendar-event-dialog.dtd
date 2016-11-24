@@ -167,10 +167,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Gosod y cynnig">
 <!ENTITY counter.button.proposal.accesskey                "y">
-<!ENTITY counter.button.proposal.tooltip                  "Gosod y data cynnig yn y ffurflen">
+<!ENTITY counter.button.proposal.tooltip                  "Gosod y data cynnig yn y ffurflen.">
 <!ENTITY counter.button.original.label                    "Gosod y data gwreiddiol">
 <!ENTITY counter.button.original.accesskey                "g">
-<!ENTITY counter.button.original.tooltip                  "Gosod y data gwreiddiol yn y ffurflen">
+<!ENTITY counter.button.original.tooltip                  "Gosod y data gwreiddiol yn y ffurflen.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
