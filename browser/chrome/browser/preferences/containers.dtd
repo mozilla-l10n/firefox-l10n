@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "&#171; Жекелікке қайта оралу">
 
 <!ENTITY window.title         "Жаңа контейнерді қосу">
-
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Атауы:">
 <!ENTITY name.accesskey       "А">
