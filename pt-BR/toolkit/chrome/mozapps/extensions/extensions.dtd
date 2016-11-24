@@ -35,7 +35,7 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificação de compatibilidade de extensões">
 <!ENTITY warning.updatesecurity.label              "A verificação de segurança da conexão está desativada. Atualizações de complementos podem comprometer seu computador.">
 <!ENTITY warning.updatesecurity.enable.label       "Habilitar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança da conexão de atualização">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar verificação de segurança da conexão de atualização">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Pesquisar">
