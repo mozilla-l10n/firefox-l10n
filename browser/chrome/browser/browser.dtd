@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cuir ann lorg no seòladh">
 <!ENTITY urlbar.accesskey             "d">
-
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Gearr leum gun taba:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "A bheil thu airson ’s gun cuidich sinn thu leis an rudan a lorgas tu?">
