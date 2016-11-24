@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Форматиране">
 <!ENTITY itemTags.label                   "Етикети">
-<!ENTITY itemAdvanced.label               "Допълнителни">
+<!ENTITY itemAdvanced.label               "Разширени">
 
 <!ENTITY style.label                      "Стил:">
 <!ENTITY style.accesskey                  "С">
@@ -42,7 +42,7 @@
 <!ENTITY defaultSize.label       "Размер:">
 <!ENTITY defaultSize.accesskey   "е">
 <!ENTITY fontOptions.accesskey   "Д">
-<!ENTITY fontOptions.label       "Допълнителни…">
+<!ENTITY fontOptions.label       "Разширени…">
 <!ENTITY colorButton.label       "Цветове…">
 <!ENTITY colorButton.accesskey   "Ц">
 

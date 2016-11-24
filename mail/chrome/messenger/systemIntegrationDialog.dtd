@@ -9,7 +9,7 @@
 <!ENTITY defaultClient.intro  "Използване на &brandShortName; като клиент по подразбиране за:">
 
 <!ENTITY email.label "Електронна поща">
-<!ENTITY newsgroups.label "Новинарски групи">
+<!ENTITY newsgroups.label "Дискусионни групи">
 <!ENTITY feeds.label "Емисии">
 
 <!ENTITY unsetDefault.tooltip "Не е възможно да отмените &brandShortName; като клиент по подразбиране за &brandShortName; За да изберете друго приложение, трябва да използвате диалога &quot;По подразбиране&quot;.">
