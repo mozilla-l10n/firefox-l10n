@@ -196,7 +196,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restaurar abas, proteção de dados, ferramentas do desenvolvedor">
 <!ENTITY pref_category_notifications "Notificações">
-<!ENTITY pref_category_notifications_summary "Novos recursos, atualizações de sites">
+<!ENTITY pref_category_notifications_summary "Novas funcionalidades, atualizações de sites">
 <!ENTITY pref_content_notifications "Atualizações de sites">
 <!ENTITY pref_content_notifications_summary2 "Descobrir novos conteúdos de sites suportados">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
@@ -208,9 +208,9 @@
 <!ENTITY pref_category_home "Página inicial">
 <!ENTITY pref_category_home_summary "Personalizar página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
-<!ENTITY pref_category_home_add_ons "Complementos">
+<!ENTITY pref_category_home_add_ons "Extensões">
 <!ENTITY pref_home_updates2 "Atualizações de conteúdo">
-<!ENTITY pref_home_updates_enabled "Ativada">
+<!ENTITY pref_home_updates_enabled "Habilitadas">
 <!ENTITY pref_home_updates_wifi "Somente via Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página inicial">
 <!ENTITY home_homepage_title "Definir uma página inicial">
@@ -254,7 +254,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imagens">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
-<!ENTITY pref_tap_to_load_images_data "Somente via Wi-Fi">
+<!ENTITY pref_tap_to_load_images_data "Só via Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Nunca">
 
 <!ENTITY pref_show_web_fonts "Mostrar fontes web">
@@ -262,19 +262,19 @@
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra rastreamento">
 <!ENTITY pref_tracking_protection_summary3 "Habilitado na navegação privativa">
-<!ENTITY pref_donottrack_title "Não me rastreie">
-<!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
+<!ENTITY pref_donottrack_title "Não rastrear">
+<!ENTITY pref_donottrack_summary "O &brandShortName; dirá aos sites que não quer ser rastreado">
 
 <!ENTITY pref_tracking_protection_enabled "Habilitado">
 <!ENTITY pref_tracking_protection_enabled_pb "Habilitado na navegação privativa">
 <!ENTITY pref_tracking_protection_disabled "Desabilitado">
 
 <!ENTITY pref_whats_new_notification "O que há de novo no &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Saiba mais sobre novos recursos após uma atualização">
+<!ENTITY pref_whats_new_notification_summary "Saiba mais sobre as novas funcionalidades depois de uma atualização">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "Recursos experimentais">
+<!ENTITY pref_category_experimental "Funcionalidades experimentais">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -284,7 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
-<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil do que nunca encontrar exatamente o que você está procurando no &brandShortName;.">
+<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil encontrar exatamente o que está procurando no &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que você não precise se preocupar.">
