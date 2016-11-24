@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Activado">
 <!ENTITY newButton.label "Nuevo…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Copiar…">
+<!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Borrar">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Ayuda">
 <!ENTITY helpButton.accesskey "u">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Filtros de búsqueda por nombre…">
+
+
+
