@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          " खोजें या पता दर्ज करें">
 <!ENTITY urlbar.accesskey             "d">
-
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     " टैब में जाएँ:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "क्या आप सुझावों के साथ अपना खोज अनुभव को बढ़ावा देना चाहते हैं?">
