@@ -130,7 +130,7 @@
 <!ENTITY detail.homepage.label                "Pagina de start">
 <!ENTITY detail.numberOfDownloads.label       "Descărcări">
 
-<!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii vă cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
+<!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii îți cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
 
 <!ENTITY detail.updateType                    "Actualizări automate">
 <!ENTITY detail.updateDefault.label           "Implicit">
