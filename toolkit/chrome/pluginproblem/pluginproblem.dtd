@@ -23,7 +23,7 @@
 <!ENTITY report.disabled                                     "Докладването на сривове е изключено.">
 <!ENTITY report.failed                                       "Изпращането се провали.">
 <!ENTITY report.unavailable                                  "Няма наличен доклад.">
-<!ENTITY report.comment                                      "Добавяне на коментар (коментарите са обществено видими)">
+<!ENTITY report.comment                                      "Добавяне на коментар (коментарите са общодостъпни)">
 <!ENTITY report.pageURL                                      "Включване URL адреса на страницата">
 
 <!ENTITY plugin.file                                         "Файл">
