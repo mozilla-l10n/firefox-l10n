@@ -494,6 +494,13 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Інструменти розробника">
+<!ENTITY devtoolsMenu.accesskey "т">
+<!ENTITY devToolboxCmd.label "Панель розробника">
+<!ENTITY devToolboxCmd.accesskey "П">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Зневадження додатків">
+<!ENTITY addonDebugCmd.accesskey "З">
 <!ENTITY errorConsoleCmd.label "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
