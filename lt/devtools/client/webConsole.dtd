@@ -72,7 +72,7 @@
 <!ENTITY btnConsoleServiceWorkers "Aptarnavimo scenarijai">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "Priedas arba „Chrome“ scenarijai">
+<!ENTITY btnConsoleWindowlessWorkers "Priedo arba naršyklės sąsajos scenarijai">
 
 <!ENTITY filterOutput.placeholder "Filtruoti išvestį">
 <!ENTITY btnClear.label        "Valyti">

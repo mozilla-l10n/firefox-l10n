@@ -86,7 +86,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label5    "Įjungti naršyklės „chrome“ bei priedų derinimo įrankines">
+<!ENTITY options.enableChrome.label5    "Įjungti naršyklės sąsajos bei priedų derinimo įrankines">
 <!ENTITY options.enableChrome.tooltip3  "Įjungę šia parinktį galėsite naudotis įvairiomis saityno kūrėjų priemonėmis naršyklėje (per Priemonės > Saityno kūrėjams > Naršyklės įrankinė) bei derinti priedus per priedų tvarkytuvę.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
