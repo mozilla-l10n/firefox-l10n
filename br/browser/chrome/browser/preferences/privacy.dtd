@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Gouzout hiroc'h">
 <!ENTITY  browserContainersEnabled.label        "Gweredekaat an ivinelloù endalc'her">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Arventennoù…">
+<!ENTITY  browserContainersSettings.accesskey    "v">
