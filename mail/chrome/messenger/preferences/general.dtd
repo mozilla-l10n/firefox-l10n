@@ -17,6 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Cuando llegue un nuevo mensaje:">
 <!ENTITY playSound.label                  "Reproducir un sonido">
 <!ENTITY playSound1.accesskey             "p">
+<!ENTITY playSoundMac.label               "Reproducir el siguiente archivo de sonido:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostrar una alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
