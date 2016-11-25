@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Orokorra">
 <!ENTITY  generalTab.accesskey  "O">
-
+<!ENTITY  generalTitle          "Izenburua:">
 <!ENTITY  generalURL            "Helbidea:">
 <!ENTITY  generalType           "Mota:">
 <!ENTITY  generalMode           "Errendatzeko modua:">
