@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "हे पर्याय आदेश सुरू केल्यास वेब कंसोलमधील आउटपुट टाइमस्टॅम्प दाखवेल">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "डिबगर">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "सोर्स नकाशे सक्षम करा">
+<!ENTITY options.sourceMaps.tooltip    "जर तुम्ही हा पर्याय सक्षम केलात तर सोर्सस डिबगर आणि कंसोलमध्ये मॅप केले जातील.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
