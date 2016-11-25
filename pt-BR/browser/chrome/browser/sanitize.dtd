@@ -66,4 +66,4 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Este comando não pode ser desfeito.">
+<!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser desfeita.">

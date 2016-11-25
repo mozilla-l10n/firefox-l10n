@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "Me tire daqui!">
-<!ENTITY safeb.palm.decline.label "Ignorar este alerta">
+<!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
