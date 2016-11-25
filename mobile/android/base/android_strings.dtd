@@ -196,7 +196,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
 <!ENTITY pref_category_notifications "اعلان‌ها">
-<!ENTITY pref_category_notifications_summary "ویژیگی‌های جدید، بروزرسانی های پایگاه وب">
+<!ENTITY pref_category_notifications_summary "امکانات جدید، بروزرسانی‌های وب‌سایت">
 <!ENTITY pref_content_notifications "بروزرسانی‌های پایگاه وب">
 <!ENTITY pref_content_notifications_summary2 "محتوا جدید را از پایگاه های وب پشتیبانی شده کشف کنید">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال راه دور به واسطه‌ی USB">
@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "غیرفعال شد">
 
 <!ENTITY pref_whats_new_notification "چیزهای جدید در &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "در مورد ویژیگی‌های جدید بعد از بروزرسانی یادبگیرید">
+<!ENTITY pref_whats_new_notification_summary "اطلاع پیدا کردن در مورد امکانات جدید پس از هر بروزرسانی">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
