@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Іске қосылған">
 <!ENTITY newButton.label "Жаңа…">
 <!ENTITY newButton.accesskey "Ж">
-
-
+<!ENTITY newButton.popupCopy.label "Көшіріп алу…">
+<!ENTITY newButton.popupCopy.accesskey "К">
 <!ENTITY editButton.label "Өзгерту…">
 <!ENTITY editButton.accesskey "Ө">
 <!ENTITY deleteButton.label "Өшіру">
@@ -37,5 +37,5 @@
 <!ENTITY helpButton.label "Көмек">
 <!ENTITY helpButton.accesskey "К">
 
-
+<!ENTITY searchBox.emptyText "Сүзгілерді аты бойынша іздеу…">
 
