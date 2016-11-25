@@ -600,7 +600,7 @@ size. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "Nenhum conteúdo pôde ser encontrado para este painel.">
+<!ENTITY home_default_empty "Não foi possível encontrar conteúdo para este painel.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
