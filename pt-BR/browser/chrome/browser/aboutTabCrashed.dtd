@@ -23,7 +23,7 @@
 <!ENTITY tabCrashed.sendReport2 "Enviar um relatório do travamento da aba que está vendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários serão visíveis publicamente)">
 <!ENTITY tabCrashed.includeURL2 "Incluir o endereço da página neste relatório de travamento">
-<!ENTITY tabCrashed.emailPlaceholder "Entre com seu endereço de e-mail aqui">
+<!ENTITY tabCrashed.emailPlaceholder "Entrar com seu endereço de e-mail aqui">
 <!ENTITY tabCrashed.emailMe "Me envie um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit "Requisitar abas em segundo plano">
