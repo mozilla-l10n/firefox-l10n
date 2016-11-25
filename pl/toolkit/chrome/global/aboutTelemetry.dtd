@@ -34,6 +34,7 @@
   Zawieszenia przeglądarki
 ">
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zawieszenia wątków">
+<!ENTITY aboutTelemetry.capturedStacksSection "Przechwycone stosy">
 <!ENTITY aboutTelemetry.scalarsSection "Skalary">
 <!ENTITY aboutTelemetry.keyedScalarsSection "Keyed scalars">
 <!ENTITY aboutTelemetry.histogramsSection "
