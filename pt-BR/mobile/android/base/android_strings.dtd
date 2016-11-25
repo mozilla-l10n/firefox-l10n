@@ -303,7 +303,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Vá para configurações">
+<!ENTITY tab_queue_prompt_settings_button "Ir para as configurações">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -316,7 +316,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir vários links\&quot;, por favor ative a permissão \&quot;Sobrepor outros apps\&quot; para o &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir vários links\&quot;, favor habilitar a permissão \&quot;Sobrepor outros apps\&quot; para o &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -372,7 +372,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
-<!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
+<!ENTITY pref_zoom_force_enabled "Sempre habilitar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
 <!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de endereço">
