@@ -54,6 +54,8 @@
 
 <!-- Thread Pane Tooltips -->
 
+<!ENTITY columnChooser2.tooltip "Көрсетілетін бағандарды таңдаңыз">
+
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
 
