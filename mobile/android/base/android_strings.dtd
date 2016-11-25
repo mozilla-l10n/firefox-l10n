@@ -12,7 +12,7 @@
 <!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
-<!ENTITY firstrun_sync_title "समक्रमण">
+<!ENTITY firstrun_sync_title "सिङ्क">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
 <!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
