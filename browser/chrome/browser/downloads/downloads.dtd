@@ -58,8 +58,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "s">
 <!ENTITY cmd.removeFromHistory.label      "Verwyder uit geskiedenis">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-
-
+<!ENTITY cmd.clearList2.label             "Maak voorskoupaneel skoon">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Maak aflaailys skoon">
 <!ENTITY cmd.clearDownloads.accesskey     "M">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
