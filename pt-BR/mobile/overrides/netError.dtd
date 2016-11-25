@@ -105,7 +105,7 @@
 funcionando.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
+<!ENTITY proxyResolveFailure.title "Não foi possível encontrar o servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
@@ -174,7 +174,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Não é possível conectar com segurança">
+<!ENTITY sslv3Used.title "Não foi possível conectar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION">
