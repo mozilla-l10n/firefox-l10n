@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Скалярлы шамалар">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Кілт бойынша скалярлы шамалар">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Гистограммалар">
 
