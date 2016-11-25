@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Aprender más">
 <!ENTITY  browserContainersEnabled.label        "Activar pestañas contenedoras">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Ajustes…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
