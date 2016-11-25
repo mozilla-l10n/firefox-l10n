@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Název zařízení:">
 <!ENTITY fxaSyncDeviceName.label       "Název zařízení">
 <!ENTITY changeSyncDeviceName.label "Změnit název zařízení…">
+<!ENTITY changeSyncDeviceName.accesskey "m">
 <!ENTITY cancelChangeSyncDeviceName.label "Zrušit">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "r">
 <!ENTITY saveChangeSyncDeviceName.label "Uložit">
+<!ENTITY saveChangeSyncDeviceName.accesskey "U">
 <!ENTITY unlinkDevice.label           "Odpojit toto zařízení">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nejste přihlášeni.">
 <!ENTITY signIn.label                "Přihlásit se">
+<!ENTITY signIn.accesskey            "i">
 <!ENTITY profilePicture.tooltip      "Změnit profilový obrázek">
 <!ENTITY verifiedManage.label        "Spravovat účet">
+<!ENTITY verifiedManage.accesskey    "S">
 <!ENTITY disconnect.label            "Odpojit…">
+<!ENTITY disconnect.accesskey        "d">
 <!ENTITY verify.label                "Ověřit e-mail">
+<!ENTITY verify.accesskey            "t">
 <!ENTITY forget.label                "Zapomenout tento e-mail">
+<!ENTITY forget.accesskey            "a">
 
 <!ENTITY welcome.description "Kdekoliv používáte &brandShortName;, přistupujte ke svým panelům, záložkám, heslům a dalším datům.">
 <!ENTITY welcome.signIn.label "Přihlásit se">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
 <!ENTITY signedOut.accountBox.title   "Propojit s &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Vytvořit účet">
+<!ENTITY signedOut.accountBox.create.accesskey  "y">
 <!ENTITY signedOut.accountBox.signin  "Přihlásit se">
+<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.engines.label       "Synchronizace napříč všemi zařízeními">
 
