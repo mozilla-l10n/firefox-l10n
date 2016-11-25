@@ -46,7 +46,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Verificar atualizações">
 <!ENTITY updates.checkForUpdates.accesskey    "V">
-<!ENTITY updates.viewUpdates.label            "Exibir atualizações recentes">
+<!ENTITY updates.viewUpdates.label            "Ver atualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "E">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update

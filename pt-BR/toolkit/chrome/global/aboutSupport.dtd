@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID do relatório">
 <!ENTITY aboutSupport.crashes.sendDate "Envio">
 <!ENTITY aboutSupport.crashes.allReports "Todos os relatórios de travamentos">
-<!ENTITY aboutSupport.crashes.noConfig "Este aplicativo não foi configurado para exibir relatórios de travamento.">
+<!ENTITY aboutSupport.crashes.noConfig "Este aplicativo não foi configurado para mostra relatórios de travamento.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensões">
 <!ENTITY aboutSupport.extensionName "Nome">
