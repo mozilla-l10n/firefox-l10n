@@ -3,43 +3,42 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- WARNING! This file contains UTF-8 encoded characters!
- - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
- - your editor isn't using UTF-8 encoding and may munge up the document!
- -->
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
 
 <!-- Tools menu -->
 <!ENTITY lightning.preferencesLabel "Kalendář">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label "Událost…">
+<!ENTITY lightning.menupopup.new.event.label    "Událost…">
 <!ENTITY lightning.menupopup.new.event.accesskey "U">
-<!ENTITY lightning.menupopup.new.task.label "Úkol…">
+<!ENTITY lightning.menupopup.new.task.label     "Úkol…">
 <!ENTITY lightning.menupopup.new.task.accesskey "o">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendář…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "e">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label "Otevřít">
-<!ENTITY lightning.menupopup.open.accesskey "O">
-<!ENTITY lightning.menupopup.open.message.label "Uložené zprávy…">
-<!ENTITY lightning.menupopup.open.message.accesskey "U">
-<!ENTITY lightning.menupopup.open.calendar.label "Soubory kalendáře…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "S">
+<!ENTITY lightning.menupopup.open.label               "Otevřít">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.message.label       "Uložené zprávy…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "U">
+<!ENTITY lightning.menupopup.open.calendar.label      "Soubory kalendáře…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "S">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label "Kalendář">
-<!ENTITY lightning.menu.view.calendar.accesskey "e">
-<!ENTITY lightning.menu.view.tasks.label "Úkoly">
-<!ENTITY lightning.menu.view.tasks.accesskey "o">
+<!ENTITY lightning.menu.view.calendar.label            "Kalendář">
+<!ENTITY lightning.menu.view.calendar.accesskey        "e">
+<!ENTITY lightning.menu.view.tasks.label               "Úkoly">
+<!ENTITY lightning.menu.view.tasks.accesskey           "o">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label "Události a úkoly">
-<!ENTITY lightning.menu.eventtask.accesskey "U">
+<!ENTITY lightning.menu.eventtask.label                "Události a úkoly">
+<!ENTITY lightning.menu.eventtask.accesskey            "U">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label "E-mail:">
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
-<!-- iMIP Bar (meeting support) -->
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Přijmout">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Přijme pozvání na událost">
@@ -51,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odmítne pozvání na událost">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odmítnout vše">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odmítne pozvání na všechna opakování události">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Odmítnout">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Odmítnou protinávrh">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Smazat">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Smaže z kalendáře">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
@@ -59,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Po klepnutí se zobrazí více možností">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znovu potvrdit">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošle znovu potvrzení organizátorovi">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Přeplánovat">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Přeplánovat událost">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložit kopii">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Uloží kopii události do kalendáře nezávisle na odpovědi jejímu organizátorovi. Seznam účastníků bude vymazán.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Předběžně">
