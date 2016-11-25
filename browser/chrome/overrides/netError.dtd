@@ -109,7 +109,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 cookies.</li> 
 </ul>">
 
-<!ENTITY unknownSocketType.title "Resposta não prevista do servidor">
+<!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Certifique-se de que o seu sistema possui o Personal Security Manager 
 instalado.</li> 
