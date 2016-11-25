@@ -207,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ver informação do site">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagens">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de pedido de localização">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de complemento">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir painel de mensagem de armazenamento off-line">
@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensão:">
-<!ENTITY urlbar.switchToTab.label     "Selecionar a aba:">
+<!ENTITY urlbar.switchToTab.label     "Alternar para a aba:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
