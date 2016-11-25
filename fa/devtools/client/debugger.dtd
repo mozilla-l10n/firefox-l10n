@@ -64,7 +64,7 @@
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum           "تنها ویژیگی های قابل شمارش را نمایش بده">
+<!ENTITY debuggerUI.showOnlyEnum           "تنها نمایش مشخصه‌های قابل شمارش">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -175,4 +175,4 @@
 
 <!ENTITY debuggerUI.context.copyUrl           "رونوشت‌برداشتن از نشانی اینترنتی">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "C">
-
+<!ENTITY debuggerUI.context.copyUrl.key "C">

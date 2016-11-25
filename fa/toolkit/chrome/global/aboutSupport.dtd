@@ -116,5 +116,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "پردازنده گرافیکی #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "پردازنده گرافیکی #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "گزارش تصمیم‌ها">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "ویژیگی محافظ در برابر خرابی غیرفعال است">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "امکانات غیرفعال شده محافظ فروپاشی">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "راه‌حل">
