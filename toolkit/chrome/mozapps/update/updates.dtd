@@ -22,9 +22,9 @@ não tem espaço disponível para a instalar.">
 <!ENTITY  manualUpdateGetMsg.label        "Você sempre pode baixar a versão mais recente do &brandShortName; em:">
 
 <!ENTITY  unsupported.title               "Sistema não suportado">
-<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado mas o seu sistema operacional 
-não possui suporte à versão mais recente. Atualize o seu sistema e tente novamente. 
-Este aviso não será mostrado de novo, mas você pode">
+<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas a última versão não é
+                                           suportada no seu sistema. Atualize o seu sistema e tente novamente.
+                                           Você não verá este aviso novamente, mas pode">
 <!ENTITY  unsupportedLink.label           "saber mais.">
 
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">

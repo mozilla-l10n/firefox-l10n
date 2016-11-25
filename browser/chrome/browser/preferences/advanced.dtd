@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "s">
 <!ENTITY searchStartTyping.label         "Localizar texto ao começar a digitar">
 <!ENTITY searchStartTyping.accesskey     "L">
-<!ENTITY blockAutoRefresh.label          "Alertar se sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.label          "Avise-me quando sites tentarem redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "A">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
