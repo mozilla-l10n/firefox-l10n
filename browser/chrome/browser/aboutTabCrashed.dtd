@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestReport "Reportar esta pestaña">
 <!ENTITY tabCrashed.sendReport2 "Enviar un reporte de fallos para la pestaña que estás viendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son públicos y visibles)">
+<!ENTITY tabCrashed.includeURL2 "Incluir URL de la página con este informe de fallo">
 <!ENTITY tabCrashed.emailPlaceholder "Ingresa aquí tu dirección de correo electrónico">
 <!ENTITY tabCrashed.emailMe "Envíame un correo electrónico cuando más información esté disponible">
 <!ENTITY tabCrashed.reportSent "El reporte de fallo ha sido enviado. ¡Gracias por ayudarnos a lograr un &brandShortName; mejor!">
