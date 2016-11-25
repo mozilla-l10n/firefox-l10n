@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "השתלבות במערכת">
-<!ENTITY defaultClient.intro  "השתמש ב־&brandShortName; כלקוח ברירת מחדל עבור:">
+<!ENTITY acceptIntegration.label  "הגדרה כבררת מחדל">
+<!ENTITY cancelIntegration.label  "דילוג על ההשתלבות">
+<!ENTITY cancelIntegration2.label  "ביטול">
+<!ENTITY defaultClient.intro  "שימוש ב־&brandShortName; כלקוח בררת מחדל עבור:">
 
 <!ENTITY email.label "דואר אלקטרוני">
 <!ENTITY newsgroups.label "קבוצות דיון">
 <!ENTITY feeds.label "הזנות">
+
+<!ENTITY unsetDefault.tooltip "זה בלתי אפשרי לבטל את ההגדרה של &brandShortName; כלקוח בררת המחדל מתוך &brandShortName;. כדי להפוך תכנית אחרת לבררת המחדל עליך להשתמש בתיבת הדו־שיח של 'הגדרה כבררת מחדל' בתכנית עצמה.">
 
 <!ENTITY checkOnStartup.label "בצע בדיקה זו בכל הפעלה של &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "כ">
 
 <!ENTITY searchIntegration.label "השתמש ב־&searchIntegration.engineName; כדי לחפש הודעות">
 <!ENTITY searchIntegration.accesskey "ה">
-
-
