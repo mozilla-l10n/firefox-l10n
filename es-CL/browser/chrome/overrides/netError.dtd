@@ -41,6 +41,11 @@
 <!ENTITY generic.title "Chita.">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
 
+<!ENTITY captivePortal.title "Conectarse a la red">
+<!ENTITY captivePortal.longDesc "<p>Esta red puede que requiera que te conectes para acceder a internet</p>">
+
+<!ENTITY openPortalLoginPage.label "Abrir página de conexión">
+
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Las direcciones web son usualmente escritas como

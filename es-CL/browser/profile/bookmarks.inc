@@ -37,4 +37,36 @@
 # link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Acerca de nosotros
 
+# LOCALIZATION NOTE (nightly_heading):
+# Firefox Nightly links folder name
+#define nightly_heading Recursos de Firefox Nightly
+
+# LOCALIZATION NOTE (nightly_blog):
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog Blog de Firefox Nightly
+
+# LOCALIZATION NOTE (bugzilla):
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Sistema de seguimiento de bugs de Mozilla
+
+# LOCALIZATION NOTE (mdn):
+# Nightly builds only, link title for https://developer.mozilla.org/
+#define mdn Red de desarrolladores de Mozilla
+
+# LOCALIZATION NOTE (nightly_tester_tools):
+# Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Herramientas de prueba de Nightly
+
+# LOCALIZATION NOTE (crashes):
+# Nightly builds only, link title for about:crashes
+#define crashes Todos los fallos locales
+
+# LOCALIZATION NOTE (irc):
+# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc Discutir sobre Nightly en IRC
+
+# LOCALIZATION NOTE (planet):
+# Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planeta Mozilla
+
 #unfilter emptyLines
