@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Nombre del dispositivo">
 <!ENTITY fxaSyncDeviceName.label       "Nombre del dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambiar el nombre del dispositivo...">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "Desvincular este dispositivo">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "No estás conectado.">
 <!ENTITY signIn.label                "Conectarse">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Cambiar imagen de perfil">
 <!ENTITY verifiedManage.label        "Administrar cuenta">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Desconectar…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verificar email">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Olvidar este email">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "Accede a tus pestañas, marcadores, contraseñas y más donde sea que uses &brandShortName;.">
 <!ENTITY welcome.signIn.label "Conectarse">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos tus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conéctate con una &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear una cuenta">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Conectarse">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Sincronizar entre todos los dispositivos">
 
