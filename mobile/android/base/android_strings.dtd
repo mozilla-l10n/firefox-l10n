@@ -586,14 +586,14 @@ size. -->
 <!ENTITY home_history_back_to2 "Voltar ao Histórico">
 <!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem certeza que deseja limpar seu histórico?">
-<!ENTITY home_bookmarks_empty "Seus favoritos serão mostrados aqui.">
+<!ENTITY home_bookmarks_empty "Seus favoritos serão vistos aqui.">
 <!ENTITY home_closed_tabs_title2 "Fechadas recentemente">
-<!ENTITY home_last_tabs_empty "Suas abas recentes serão mostradas aqui.">
+<!ENTITY home_last_tabs_empty "Suas abas recentes serão vistas aqui.">
 <!ENTITY home_restore_all "Restaurar tudo">
 <!ENTITY home_closed_tabs_number "&formatD; abas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 aba">
-<!ENTITY home_most_recent_empty "Sites visitados recentemente serão mostrados aqui.">
+<!ENTITY home_most_recent_empty "Sites visitados recentemente serão vistos aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privativa&formatS2;, seu histórico não será salvo.">
@@ -778,7 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Digitalização do código QR apresentado no seu outro dispositivo">
+<!ENTITY devtools_auth_scan_header "Escaneando código QR mostrado no seu outro dispositivo">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
