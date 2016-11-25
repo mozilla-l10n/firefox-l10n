@@ -83,7 +83,7 @@
 <!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Histórico de atualizações">
+<!ENTITY updateHistory.label             "Mostrar o histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
