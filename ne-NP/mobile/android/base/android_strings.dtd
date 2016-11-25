@@ -23,7 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सक्रिय पार्नुहोस">
+<!ENTITY firstrun_tabqueue_message_off "ट्याब ताती सक्रिय पार्नुहोस">
 <!ENTITY firstrun_tabqueue_subtext_off "जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गरेर पछिको लागि &brandShortName; मा लिङ्कहरू सङ्ग्रह गर्नुहोस्।">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
@@ -130,7 +130,7 @@
 <!ENTITY settings "सेटिङहरू">
 <!ENTITY settings_title "सेटिङहरू">
 <!ENTITY pref_category_general "सामान्य">
-<!ENTITY pref_category_general_summary3 "गृह, भाषा, ट्याब लाम">
+<!ENTITY pref_category_general_summary3 "गृह, भाषा, ट्याब ताती">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
