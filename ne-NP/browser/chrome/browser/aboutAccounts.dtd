@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "जडान छैन">
 <!ENTITY aboutAccounts.noConnection.description "साइन इन गर्नको निमित्त तपाईँ इन्टरनेटसँग जडित हुनुपर्दछ ।">
 <!ENTITY aboutAccounts.noConnection.retry "पुनःप्रयास गर्नुहोस्">
-
-
+<!ENTITY aboutAccounts.badConfig.title "खराब कन्फिगरेसन">
+<!ENTITY aboutAccounts.badConfig.description "तपाईंको फायरफक्स खाता सर्भर कन्फिगरेसन निर्धारण गर्न सकिएन। फेरी प्रयास गर्नु होला।">

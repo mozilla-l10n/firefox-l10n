@@ -13,11 +13,13 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
+<!ENTITY tabCrashed.header2 "Gah। तपाईंको ट्याब बस क्राश भयो।">
+<!ENTITY tabCrashed.offerHelp "हामी तपाईंलाई मदत गर्न सक्छौ! ">
+<!ENTITY tabCrashed.single.offerHelpMessage "छनौट र tabCrashed.restoreTab; पृष्ठ सामग्री पुन: लोड गर्न।">
 
 
 
-
-
+<!ENTITY tabCrashed.requestReport "यो ट्याब रिपोर्ट गर्नुस ">
 
 
 
