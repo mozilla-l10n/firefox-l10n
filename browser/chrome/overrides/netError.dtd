@@ -12,7 +12,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Não é possível conectar-se">
+<!ENTITY connectionFailure.title "Não foi possível conectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Endereço restrito">
@@ -95,7 +95,7 @@ do seu computador.</li> 
 funcionando.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Não é possível localizar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Não foi possível encontrar o servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
 <li>Certifique-se de que a conexão de rede do seu computador esteja funcionando.</li> 
@@ -152,7 +152,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Não é possível se conectar com segurança">
+<!ENTITY sslv3Used.title "Não foi possível conectar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION">

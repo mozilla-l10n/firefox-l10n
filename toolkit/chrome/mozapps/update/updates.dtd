@@ -12,7 +12,7 @@ periodicamente a disponibilidade de novas versões.">
 <!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor, verifique mais tarde ou habilite
                                            a verificação automática de atualizações do &brandShortName;.">
 
-<!ENTITY  manualUpdate.title              "Não é possível atualizar">
+<!ENTITY  manualUpdate.title              "Não foi possível atualizar">
 <!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade, mas você 
 não tem as permissões necessárias para a instalar. Contate o administrador 
 do sistema ou tente novamente a partir de uma conta que tenha 
