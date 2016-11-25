@@ -51,8 +51,8 @@ atualização. O &brandShortName; não pôde ser atualizado porque:">
 <!ENTITY  errorManual.label               "Você pode atualizar manualmente o &brandShortName; visitando este link 
 e baixando a versão mais recente:">
                                            
-<!ENTITY  errorpatching.intro             "A atualização incremental não pôde ser aplicada. 
-O &brandShortName; tentará de novo, baixando a atualização completa.">
+<!ENTITY  errorpatching.intro             "A atualização parcial não pôde ser aplicada. 
+                                           O &brandShortName; tentará de novo, baixando a atualização completa.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; não consegue determinar se existe uma atualização disponível. Por favor 
 verifique se tem a última versão do &brandShortName; em:">
