@@ -7,6 +7,7 @@
 <!ENTITY activeColumn.label "Povoleno">
 <!ENTITY newButton.label "Nový…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Kopírovat…">
 <!ENTITY editButton.label "Upravit…">
 <!ENTITY editButton.accesskey "p">
 <!ENTITY deleteButton.label "Smazat">
@@ -34,5 +35,8 @@
 <!ENTITY folderPickerPrefix.accesskey "R">
 <!ENTITY helpButton.label "Nápověda">
 <!ENTITY helpButton.accesskey "v">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Hledat filtry dle jména…">
+
+
+
