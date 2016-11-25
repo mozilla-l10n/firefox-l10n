@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "חשבונות - &brandShortName;">
+<!-- Instant messaging account status window for Thunderbird -->
+
+<!ENTITY accountManager.newAccount.label     "חשבון חדש">
+<!ENTITY accountManager.newAccount.accesskey "ח">
+<!ENTITY accountManager.close.label          "סגירה">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "טרם הוגדרו חשבונות">
+<!ENTITY account.autoSignOn.label     "התחברות עם הכניסה">
+<!ENTITY account.connect.label        "התחברות">
+<!ENTITY account.disconnect.label     "ניתוק">
+<!ENTITY account.delete.label         "מחיקה">
+<!ENTITY account.edit.label           "מאפיינים">
+<!ENTITY account.cancelReconnection.label         "ביטול התחברות מחדש">
+<!ENTITY account.disconnected         "לא מחובר">
