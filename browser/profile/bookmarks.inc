@@ -100,7 +100,7 @@
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 
 
-#define bugzilla Mozilla Bug Tracker
+#define bugzilla मोजिल्ल बुग ट्रक्केर\u0020
 
 
 # LOCALIZATION NOTE (mdn):
@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn Mozilla Developer Network
+#define mdn मोजिल्ला विकासकर्ता संजाल\u0020
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):
@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet Planet Mozilla
+#define planet मोजिलाको ग्रह\u0020
 
 
 #unfilter emptyLines

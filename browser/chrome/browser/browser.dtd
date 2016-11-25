@@ -139,7 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "पुरा स्क्रिनबाट निस्कनुहोस (Esc)">
+<!ENTITY exitDOMFullscreen.button "पुरा पर्दाबाट निस्कनुहोस (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "पुरा स्क्रिनबाट निस्कनुहोस (esc)">
 <!ENTITY leaveDOMFullScreen.label "पूरा पर्दा बन्द गर्नुहोस्">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.zoomReset.tooltip     "जुम स्तर पूर्वरूपमा फर्काउनुहोस्">
 
-<!ENTITY searchItem.title             "खोजी गर्नुहोस्">
+<!ENTITY searchItem.title             "खोज">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "गृह">
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "सबै इतिहासहरू देखाउनुहोस्">
 <!ENTITY appMenuHistory.clearRecent.label "हालको इतिहास खाली गर्नुहोस्…">
 <!ENTITY appMenuHistory.restoreSession.label "अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्">
-<!ENTITY appMenuHistory.viewSidebar.label "साइडबारको इतिहास हेर">
+<!ENTITY appMenuHistory.viewSidebar.label "साइड्बारको इतिहास देखाउने">
 <!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
 
 <!ENTITY appMenuRemoteTabs.label "समन्वयन गरिएको ट्याबहरू">

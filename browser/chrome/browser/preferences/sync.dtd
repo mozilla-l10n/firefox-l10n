@@ -92,9 +92,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "सबै उपकरणहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, पासवर्ड, एडअन, र प्राथमिकताहरू सिङ्क्रोनाइज गर्नुहोस्।">
 <!ENTITY signedOut.accountBox.title   "एक &syncBrand.fxAccount.label; संग जडान गर्नुहोस्">
 <!ENTITY signedOut.accountBox.create  "खाता सिर्जना गर्नुहोस्">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "साइन इन गर्नुहोस्">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "सबै उपकरणहरूमा सिङ्क गर्नुहोस्">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
