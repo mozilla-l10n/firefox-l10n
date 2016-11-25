@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
 <!ENTITY returnToPreviousPage.label "पछाडि जानुहोस्">
-<!ENTITY advanced.label "उन्नत">
+<!ENTITY advanced.label "अग्रसर">
 <!-- Specific error messages -->
 
 
@@ -30,8 +30,10 @@
 <!ENTITY generic.title "ओहो।">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणले यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
+<!ENTITY captivePortal.title "सञ्जालमा लगइन गर्नुहोस्">
+<!ENTITY captivePortal.longDesc "<p> यो नेटवर्क इन्टरनेटमा प्रयोग गर्न लगिन गर्न आवश्यक हुन सक्छ। </p>">
 
-
+<!ENTITY openPortalLoginPage.label "लगइन पृष्ठ खोल्नुहोस्">
 
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सामान्यतया यसरी लेखिन्छ <strong>http://www.example.com/</strong></li> <li>तपाईँले अगाडिको स्ल्यास (जस्तै <strong>/</strong>) प्रयोग गर्नु भएको छ भन्ने निश्चित गर्नुहोस्)।</li> </ul>">
@@ -49,7 +51,7 @@
 <!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट मालिकलाई सम्पर्क गर्नुहोस्।</li> </ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गर्न वेबसाइट मालिकलाई सम्पर्क गर्नुहोस्।</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
 
 <!ENTITY netReset.title "यो जडान रिसेट भएको थियो">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -101,13 +103,13 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "सुरक्षित जडान गर्न असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "अग्रसर जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "उन्नत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "उन्नत">
+<!ENTITY weakCryptoUsed.longDesc2 "अग्रसर जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "अग्रसर">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
 <!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोडगर्न प्रयास गर्नुहोस्">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,

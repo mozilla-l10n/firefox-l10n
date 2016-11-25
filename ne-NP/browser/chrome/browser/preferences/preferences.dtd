@@ -19,9 +19,9 @@
 <!ENTITY  paneContent.title       "सामग्री">
 <!ENTITY  paneApplications.title  "एप्लिकेसनहरू">
 <!ENTITY  panePrivacy.title       "गोपनीयता">
-
+<!ENTITY  paneContainers.title    "कन्टेनर ट्याबहरू">
 <!ENTITY  paneSecurity.title      "सुरक्षा">
-<!ENTITY  paneAdvanced.title      "एड्भान्स्ड">
+<!ENTITY  paneAdvanced.title      "अग्रसर">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "सिङ्क">

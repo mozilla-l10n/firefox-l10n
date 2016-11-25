@@ -15,7 +15,7 @@
 
 <!ENTITY tabCrashed.header2 "Gah। तपाईंको ट्याब बस क्राश भयो।">
 <!ENTITY tabCrashed.offerHelp "हामी तपाईंलाई मदत गर्न सक्छौ! ">
-<!ENTITY tabCrashed.single.offerHelpMessage "छनौट र tabCrashed.restoreTab; पृष्ठ सामग्री पुन: लोड गर्न।">
+<!ENTITY tabCrashed.single.offerHelpMessage "छनौट &tabCrashed.restoreTab; पृष्ठ सामग्री पुन: लोड गर्न।">
 
 
 
@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाई सकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
-
+<!ENTITY tabCrashed.requestAutoSubmit "पृष्ठभूमि ट्याबहरुको लागि अनुरोध गर्नुहोस्">
 
