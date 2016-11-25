@@ -29,14 +29,18 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Повідомити учасників">
-<!ENTITY event.attendees.notify.accesskey           "П">
-<!ENTITY event.attendees.notifyundisclosed.label    "Окремі запрошення на учасника">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "О">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "В цьому варіанті надсилається одне запрошення на учасника. Кожне запрошення містить лише адресу учасника, таким чином інші учасники не розголошуються.">
+<!ENTITY event.attendees.notify.label                "Повідомити учасників">
+<!ENTITY event.attendees.notify.accesskey            "П">
+<!ENTITY event.attendees.notifyundisclosed.label     "Окремі запрошення на учасника">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "О">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "В цьому варіанті надсилається одне запрошення на учасника. Кожне запрошення містить лише адресу учасника, таким чином інші учасники не розголошуються.">
+<!ENTITY event.attendees.disallowcounter.label       "Не дозволяти лічильник">
+<!ENTITY event.attendees.disallowcounter.accesskey   "з">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Вказує, що ви не приймаєте пропозиції лічильника">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -159,6 +163,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Змінити пріоритет">
 <!ENTITY  event.toolbar.status.tooltip                    "Змінити стан">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Змінити час Вільний/Зайнятий">
+
+<!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Подати пропозицію">
+<!ENTITY counter.button.proposal.accesskey                "П">
+<!ENTITY counter.button.proposal.tooltip                  "Подати дані пропозиції до форми.">
+<!ENTITY counter.button.original.label                    "Подати оригінальні дані">
+<!ENTITY counter.button.original.accesskey                "о">
+<!ENTITY counter.button.original.tooltip                  "Подати оригінальні дані до форми.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Назва:" >
