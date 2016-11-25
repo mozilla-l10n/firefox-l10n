@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "Sobre rede">
 <!ENTITY aboutNetworking.warning               "Isto é muito experimental. Não usar sem a supervisão de adultos.">
-<!ENTITY aboutNetworking.showNextTime          "Sempre mostrar este alerta">
+<!ENTITY aboutNetworking.showNextTime          "Sempre mostrar este aviso">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
