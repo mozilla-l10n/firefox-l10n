@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "عمومی">
 <!ENTITY  generalTab.accesskey  "ج">
-
+<!ENTITY  generalTitle          "عنوان:">
 <!ENTITY  generalURL            "پتہ:">
 <!ENTITY  generalType           "قسم:">
 <!ENTITY  generalMode           "رینڈر موڈ:">
