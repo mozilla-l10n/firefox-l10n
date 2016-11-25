@@ -5,7 +5,7 @@
 <!ENTITY syncCustomize.dialog.title       "Selecionar sincronização">
 <!ENTITY syncCustomize.acceptButton.label "Iniciar">
 
-<!ENTITY syncCustomize.title              "O que deseja sincronizar?">
+<!ENTITY syncCustomize.title              "O que gostaria de sincronizar?">
 <!ENTITY syncCustomize.description        "Você pode alterar esta seleção nas Opções.">
 <!ENTITY syncCustomizeUnix.description    "Você pode alterar esta seleção através das Preferências.">
 
