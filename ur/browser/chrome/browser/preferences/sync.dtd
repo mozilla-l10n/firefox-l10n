@@ -39,12 +39,12 @@
 
 <!ENTITY syncDeviceName.label       "آلہ کا نام:">
 <!ENTITY fxaSyncDeviceName.label       "آلہ کا نام">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "ڈیوائس کا نام تبدیل کریں…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "منسوخ کریں">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "محفوظ کریں">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
 <!-- Footer stuff -->
 
@@ -72,13 +72,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
-
-
+<!ENTITY signIn.label                "سائن ان کریں">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "پروفائل کی تصویر تبدیل کریں">
-
-
-
-
+<!ENTITY verifiedManage.label        "اکاؤنٹ کا بندوبست کریں">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "منقطع کریں…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ای میل کی توثیق کریں">
 <!ENTITY verify.accesskey            "ت">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">

@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "مزید سیکھیں">
 <!ENTITY  browserContainersEnabled.label        "حامل ٹہن بحال کریں">
 <!ENTITY  browserContainersEnabled.accesskey    "ح">
-
-
+<!ENTITY  browserContainersSettings.label        "سیٹنگیں…">
+<!ENTITY  browserContainersSettings.accesskey    "س">
