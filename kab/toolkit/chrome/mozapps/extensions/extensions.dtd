@@ -29,11 +29,11 @@
 <!ENTITY debugAddons.accesskey                "I">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.safemode.label                    "Armad n izegrar yekkes-it uskar aɣalsan.">
+<!ENTITY warning.checkcompatibility.label          "Asenqedn umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.">
 <!ENTITY warning.checkcompatibility.enable.label   "Rmed">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Rmed asenqed n tisiḍent">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.label              "Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.">
 <!ENTITY warning.updatesecurity.enable.label       "Rmed">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen">
 <!-- categories / views -->
