@@ -22,7 +22,7 @@ destes complementos.">
 <!ENTITY  checking.status                 "Isto pode levar alguns minutos…">
 
 <!ENTITY  found.wizard.title               "Extensões compatíveis encontradas">
-<!ENTITY  found.top.label                 "Selecione as extensões e temas que deseja instalar:">
+<!ENTITY  found.top.label                 "Selecionar as extensões e temas que gostaria de instalar:">
 <!ENTITY  found.disabledXPinstall.label   "Estas atualizações não podem ser instaladas agora porque a instalação
 de aplicativos está desativada. Você pode mudar esta definição abaixo.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que sites instalem software">
