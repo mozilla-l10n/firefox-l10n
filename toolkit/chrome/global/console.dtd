@@ -12,7 +12,7 @@
 <!ENTITY all.accesskey      "T">
 <!ENTITY errors.label       "Erros">
 <!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Alertas">
+<!ENTITY warnings.label     "Avisos">
 <!ENTITY warnings.accesskey "A">
 <!ENTITY messages.label     "Mensagens">
 <!ENTITY messages.accesskey "M">

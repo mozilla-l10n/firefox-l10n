@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Alertar quando um site solicitar armazenamento para uso offline">
+<!ENTITY offlineNotify.label             "Diga-me quando um site solicitar armazenamento para uso offline">
 <!ENTITY offlineNotify.accesskey         "A">
 <!ENTITY offlineNotifyExceptions.label   "Exceções…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
