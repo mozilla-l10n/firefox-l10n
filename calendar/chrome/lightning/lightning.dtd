@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Відхилити запрошення на подію">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Відхилити все">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Відхилити запрошення на подію для всіх випадків події">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Відхилити">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Відхилити зустрічну пропозицію">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Видалити">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Видалити з календаря">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Подробиці…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Натисніть для показу додаткових можливостей">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Підтвердити заново">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Надсилає повторне підтвердження організатору">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Змінити розклад">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Змінити розклад події">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Зберегти копію">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Зберегти копію події в календар незалежно від відповіді організатору. Список присутніх буде очищений.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Попередньо">

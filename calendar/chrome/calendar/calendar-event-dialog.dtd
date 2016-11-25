@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Окремі запрошення на учасника">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "О">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "В цьому варіанті надсилається одне запрошення на учасника. Кожне запрошення містить лише адресу учасника, таким чином інші учасники не розголошуються.">
-<!ENTITY event.attendees.disallowcounter.label       "Не дозволяти лічильник">
+<!ENTITY event.attendees.disallowcounter.label       "Не дозволяти зустрічні пропозиції">
 <!ENTITY event.attendees.disallowcounter.accesskey   "з">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Вказує, що ви не приймаєте пропозиції лічильника">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Вказує, що ви не приймаєте зустрічні пропозиції">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
