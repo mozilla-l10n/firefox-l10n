@@ -759,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "Denna länken kommer öppna i &formatS; Är du säker att du vill avsluta privatsurfning?">
+<!ENTITY intent_uri_private_browsing_prompt "Denna länken kommer öppna i &formatS; Är du säker att du vill avsluta Privat surfning?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
