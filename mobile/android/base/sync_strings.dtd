@@ -107,8 +107,8 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "खाता पहिले नै छ। &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "अमान्य इ-मेल ठेगाना वा पासवर्ड">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "अमान्य प्रयोगकर्ता नाम वा पासवर्ड">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "गलत इमेल ठेगाना वा गोप्यशब्द">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "गलत इमेल ठेगाना वा गोप्यशब्द">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "खाता प्रमाणित छैन">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्भर व्यस्त, छिट्टै पून:प्रयास गर्नुहोस्">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्भर व्यस्त, छिट्टै पून:प्रयास गर्नुहोस्">
