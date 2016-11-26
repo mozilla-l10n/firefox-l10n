@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
-<!ENTITY identity.description.passiveLoaded "A sua conexão não é segura, as informações que você compartilhar com este site podem ser vistas por outros.">
+<!ENTITY identity.description.passiveLoaded "A sua conexão não é segura e as informações que compartilhar com o site podem ser vistas por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este site web contém conteúdo que não é seguro (tal como imagens).">
 <!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda tem elementos na página que não são seguros (como imagens).">
 <!ENTITY identity.description.activeLoaded "Este site contém conteúdo que não é seguro (tal como scripts) e a sua conexão com ele não é privada.">
