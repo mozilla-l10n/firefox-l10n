@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "مخصوص...">
 <!ENTITY ShrinkToFit.label    "موزوں کرنے کے لیے سکیڑیں">
 <!ENTITY customPrompt.title   "مخصوص پیمانہ...">
-
-
+<!ENTITY simplifyPage.label   "صفحہ کو سادہ بنائیں">
+<!ENTITY simplifyPage.accesskey "ف">
 <!ENTITY simplifyPage.enabled.tooltip  "آسانی سے پڑہنے کے لیئے  لے آؤٹ تبدیل کریں">
 <!ENTITY simplifyPage.disabled.tooltip "اس صفحہ کو خود بخود آسان نہیں کیا جا سکتا">
 
