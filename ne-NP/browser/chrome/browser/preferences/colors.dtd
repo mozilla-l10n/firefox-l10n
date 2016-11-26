@@ -18,10 +18,10 @@
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "पृष्ठभूमि:">
 <!ENTITY  backgroundColor.accesskey       "B">
-<!ENTITY  useSystemColors.label           "प्रणालीका रंगहरू प्रयोग गर्नुहोस्">
+<!ENTITY  useSystemColors.label           "प्रणालीका रङ्गहरू प्रयोग गर्नुहोस्">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "लिङ्कहरू अधोरेखन गर्नुहोस्">
+<!ENTITY  underlineLinks.label            "लिङ्कहरू रेखांकित गर्नुहोस्">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "रंगहरू लिङ्क गर्नुहोस्">
 <!ENTITY  linkColor.label                 "भ्रमण नगरिएका लिङ्कहरू:">

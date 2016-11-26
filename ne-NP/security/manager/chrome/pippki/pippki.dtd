@@ -16,7 +16,7 @@
 <!ENTITY resetPassword.text  "तपाईँले मास्टर प्रवेशचिन्ह रिसेट गर्नुभयो भने, तपाईँका सबै भण्डारण गरिएका वेब र इमेल प्रवेशचिन्हहरू, फाराम लगत, निजी प्रमाणपत्रहरू, र निजी कुञ्जीहरूलाई बिर्सिनेछ। के तपाईँ मास्टर प्रवेशचिन्ह रिसेट गर्ने कुरामा दृढ हुनुहुन्छ?">
 <!-- Downloading a cert -->
 
-<!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड गरिरहेको छ">
+<!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड गरिँदै">
 <!ENTITY downloadCert.message1 "तपाईँलाई एउटा नयाँ प्रमाणपत्र अधिकारी (CA) लाई विश्वास गर्न भनिएको छ।">
 <!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
 <!ENTITY downloadCert.trustEmail "इमेल प्रयोगकर्ताहरू पहिचान गर्न यो CAलाई विश्वास गर्नुहोस्।">

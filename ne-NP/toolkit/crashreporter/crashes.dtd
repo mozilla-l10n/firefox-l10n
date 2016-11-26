@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashReports.title         "टुटफुट प्रतिवेदनहरू">
-<!ENTITY crashesUnsubmitted.label   "टुटफुट प्रतिवेदनहरू पेश गरियको छैन">
+<!ENTITY crashReports.title         "क्र्यास प्रतिवेदनहरू">
+<!ENTITY crashesUnsubmitted.label   "क्र्यास प्रतिवेदनहरू पेश गरियको छैन">
 <!ENTITY crashesSubmitted.label     "क्र्यास प्रतिवेदनहरू पेश गरियो">
 <!ENTITY id.heading                 "प्रतिवेदन आईडी">
 <!ENTITY dateCrashed.heading        "मिति टुटफुट भयो">

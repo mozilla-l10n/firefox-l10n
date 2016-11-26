@@ -48,7 +48,7 @@
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.label "Default रङ्ग एकाइ">
+<!ENTITY options.defaultColorUnit.label "Default रङ एकाइ">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
