@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Endereço da imagem:">
 <!ENTITY locationEditField.accessKey "n">
 <!ENTITY locationEditField.tooltip "Digite o endereço ou nome do arquivo da imagem">
+<!ENTITY locationEditField.shortenedDataURI "URI encurtada (cópia substituirá a URI completa na área de transferência)">
 <!ENTITY title.label "Descrição:">
 <!ENTITY title.accessKey "D">
 <!ENTITY title.tooltip "O atributo “title”, normalmente exibido como um balão quando apontado pelo mouse">
