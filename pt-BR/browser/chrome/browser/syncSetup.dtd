@@ -65,7 +65,7 @@
 <!ENTITY addDevice.setup.enterCode.label    "Então, forneça este código:">
 <!ENTITY pairDevice.dialog.description.label "Para ativar seu novo dispositivo, selecione “Configurar Sync” no dispositivo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Forneça o código dado pelo dispositivo:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tente de novo.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tentar de novo.">
 <!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com êxito. A sincronização inicial pode levar vários minutos e será concluída em segundo plano.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Para ativar seu dispositivo você precisará fornecer sua chave de recuperação. Por favor, imprima ou salve esta chave e guarde-a com você.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
