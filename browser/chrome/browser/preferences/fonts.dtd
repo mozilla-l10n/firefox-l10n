@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.simpl-chinese            "सरलीकृत चिनियाँ">
 <!ENTITY  font.langGroup.trad-chinese-hk          "परम्परागत चिनियाँ (हंगकंग )">
 <!ENTITY  font.langGroup.korean                   "कोरियाली">
-<!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.el                       "ग्रिक">
 <!ENTITY  font.langGroup.other                    "अन्य लेखन प्रणालीहरू">
 <!ENTITY  font.langGroup.thai                     "थाइ">
@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "चिनीयाँ, परम्परागत">
-<!ENTITY languages.customize.Fallback.cyrillic    "सिरिल्लिक">
+<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.greek       "ग्रीक">
