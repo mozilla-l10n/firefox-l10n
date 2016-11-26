@@ -9,22 +9,22 @@
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र.">
 <!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
-<!ENTITY firstrun_data_title "डेटा">
+<!ENTITY firstrun_data_title "डाटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
-<!ENTITY firstrun_sync_title "सिङ्क">
+<!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
-<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
-<!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
-<!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस">
+<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै समक्रमण गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
+<!ENTITY firstrun_signin_message "जोडिनुहोस्, सुरु हुनुहोस्">
+<!ENTITY firstrun_signin_button "Sync मा साइन इन गर्नुहोस">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस">
 <!ENTITY firstrun_button_notnow "अहिले हैन">
 <!ENTITY firstrun_button_next "अर्को">
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ट्याब ताती सक्रिय पार्नुहोस">
-<!ENTITY firstrun_tabqueue_subtext_off "जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गरेर पछिको लागि &brandShortName; मा लिङ्कहरू सङ्ग्रह गर्नुहोस्।">
+<!ENTITY firstrun_tabqueue_message_off "ट्याब तांती सक्रिय पार्नुहोस्">
+<!ENTITY firstrun_tabqueue_subtext_off "अन्य अनुकरणहरूमा भएको लिङ्कहरू थिँच्दा &brandShortName; मा पछिको लागि सङ्ग्रह गर्नुहोस्।">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
 <!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुनेछ।">
@@ -130,7 +130,7 @@
 <!ENTITY settings "सेटिङहरू">
 <!ENTITY settings_title "सेटिङहरू">
 <!ENTITY pref_category_general "सामान्य">
-<!ENTITY pref_category_general_summary3 "गृह, भाषा, ट्याब ताती">
+<!ENTITY pref_category_general_summary3 "गृह, भाषा, ट्याब ताँती">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -338,18 +338,18 @@
 <!ENTITY pref_char_encoding "वर्ण सङ्केतन">
 <!ENTITY pref_char_encoding_on "मेनु देखाउनुहोस्">
 <!ENTITY pref_char_encoding_off "मेनु नदेखाउनुहोस्">
-<!ENTITY pref_clear_private_data2 "निजी डेटा हटाउनुहोस्">
+<!ENTITY pref_clear_private_data2 "निजी डाटा हटाउनुहोस्">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "अहिले खाली गर्नुहोस्">
-<!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डेटा हटाउनुहोस्">
+<!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डाटा हटाउनुहोस्">
 <!ENTITY pref_clear_on_exit_summary2 "तपाईँले मुख्य मेनु बाट \u0022बाहिर निस्कनुहोस\u0022 थिच्नुभयो भने &brandShortName; ले तपाईँको सबै डाटाहरू स्वतः हटाउनेछ">
 <!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
 <!ENTITY pref_plugins "प्लगइनहरू">
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
 <!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
-<!ENTITY pref_text_size "पाठ साइज">
+<!ENTITY pref_text_size "अक्षर साइज">
 <!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस्">
 <!ENTITY pref_restore_always "सधैँ पुनर्स्थापना गर्नुहोस्">
 <!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनर्स्थापना नगर्नुहोस्">
@@ -464,7 +464,7 @@ size. -->
 <!ENTITY share_image_failed "यो फोटो बाड्न असफल भयो">
 <!ENTITY save_as_pdf "PDFको रूपमा बचत गर्नुहोस्">
 <!ENTITY print "मुद्रण गर्नुहोस्">
-<!ENTITY find_in_page "पृष्ठमा फेला पार्नुहोस्">
+<!ENTITY find_in_page "पृष्ठमा खोज्नुहोस्">
 <!ENTITY desktop_mode "डेस्कटप साईट अनुरोध गर्नुहोस्">
 <!ENTITY page "पृष्ठ">
 <!ENTITY tools "उपकरणहरू">
@@ -530,10 +530,10 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "पूर्ण-पर्दा ब्रावजिङ">
-<!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; टूलबार लुकाउनुहोस्">
+<!ENTITY pref_scroll_title_bar2 "पूर्ण-पर्दा ब्राउजिङ्ग">
+<!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; उपकरणपट्टी लुकाउनुहोस्">
 
-<!ENTITY pref_tab_queue_title3 "ट्याबको ताती">
+<!ENTITY pref_tab_queue_title3 "ट्याबको तांती">
 <!ENTITY pref_tab_queue_summary4 "अर्को पटक &brandShortName; नखोल्दा सम्मको लागि बचत गर्नुहोस् ।">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -596,7 +596,7 @@ size. -->
 <!ENTITY home_most_recent_empty "तपाईँले भर्खरै भ्रमण गर्नुभएको वेबसाइटहरू यहाँ देखिन्छन्।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
+<!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ निजी ट्याब&formatS2; खोल्दा कुनै इतिहास सञ्चित हुँदैन।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -664,7 +664,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "सुरक्षा सुचारु गर्नुहोस्">
 <!ENTITY disable_protection "सुरक्षा बन्द गर्नुहोस्">
 
-<!ENTITY private_data_success "निजी डेटा हटाइयो">
+<!ENTITY private_data_success "निजी डाटा हटाइयो">
 <!ENTITY private_data_fail "केही निजी डाटा हटाउन सकिएन">
 
 <!ENTITY bookmarkhistory_button_import "आयात">
@@ -695,16 +695,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड गरिँदै">
 <!ENTITY updater_downloading_title_failed2 "डाउनलोड असफल भयो">
-<!ENTITY updater_downloading_select2 "डाउनलोड पुरा भइपछि अद्यावधिक लागू गर्न छुनुहोस्">
+<!ENTITY updater_downloading_select2 "अद्यावधिक पुरा भएपछि अद्यावधिक लागू गर्न थिच्नुहोस्">
 <!ENTITY updater_downloading_retry2 "पून: प्रयास गर्न छुनुहोस्">
 
 <!ENTITY updater_apply_title2 "&brandShortName; को लागि अद्यावधिक उपलब्ध छ">
-<!ENTITY updater_apply_select2 "अद्यावधिक गर्न छुनुहोस्">
+<!ENTITY updater_apply_select2 "अद्यावधिक गर्न थिच्नुहोस्">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "फाइल र अद्यावधिक डाउनलोड गर्न, &brandShortName; अनुमतिलाइ भण्डारण पहँचको अनुमति दिनुहोस्।">
+<!ENTITY updater_permission_text "फाइल र अद्यावधिक डाउनलोड गर्न, &brandShortName; लाई भण्डारण गर्ने अनुमति दिनुहोस्।">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "अनुमति दिनुहोस्">
 <!-- Guest mode -->    
@@ -787,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
 <!ENTITY restrictable_feature_clear_history_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा रहेका जानकारी मेटाउन अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_advanced_settings "अत्याधुनिक सेटिङ्हरु">
-<!ENTITY restrictable_feature_advanced_settings_description "यसमा बुकमार्क आयात गर्ने, ट्याबहरू पुनस्थापना गर्ने र स्वचालित अद्यावधिकहरु समावेश छन्। कुनै पनि उपयुक्त परिवारको सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
+<!ENTITY restrictable_feature_advanced_settings_description "यसमा पुस्तकचिनो आयात गर्ने, ट्याबहरू पुन:स्थापना गर्ने र स्वचालित अद्यावधिकहरू समावेश छन्। कुनै पनि उपयुक्त परिवारका सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
 <!ENTITY restrictable_feature_camera_microphone "क्यामेरा र माइक्रोफोन">
 <!ENTITY restrictable_feature_camera_microphone_description "परिवारका सदस्यहरूलाइ वेबसाइटहरूमा वास्तविक समय संचारमा संलग्न गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_block_list "रोक सूचीहरू">
