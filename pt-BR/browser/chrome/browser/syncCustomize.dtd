@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "A">
 <!ENTITY engine.passwords.label           "Senhas">
 <!ENTITY engine.passwords.accesskey       "S">
-<!ENTITY engine.addons.label              "Complementos para o desktop">
+<!ENTITY engine.addons.label              "Extensões para o desktop">
 <!ENTITY engine.addons.accesskey          "C">
 <!ENTITY engine.prefs.label               "Preferências do desktop">
 <!ENTITY engine.prefs.accesskey           "P">
