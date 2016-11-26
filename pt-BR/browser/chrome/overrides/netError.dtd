@@ -95,7 +95,7 @@ do seu computador.</li> 
 funcionando.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Não foi possível encontrar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Não foi possível localizar o servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
 <li>Certifique-se de que a conexão de rede do seu computador esteja funcionando.</li> 
