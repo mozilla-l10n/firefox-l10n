@@ -6,4 +6,11 @@
 <!ENTITY removeButton.label           "Supprimer">
 <!ENTITY removeButton.accesskey       "S">
 <!ENTITY removeAccount.label          "Supprimer les données du compte">
-<!ENTITY removeAccount.accesskey      "u">
+<!ENTITY removeAccount.accesskey      "c">
+<!ENTITY removeData.label             "Supprimer les données des messages">
+<!ENTITY removeData.accesskey         "m">
+<!ENTITY showData.label               "Afficher les données de localisation">
+<!ENTITY showData.accesskey           "A">
+<!ENTITY progressPending              "Supprimer les données sélectionnées…">
+<!ENTITY progressSuccess              "Suppression réussie.">
+<!ENTITY progressFailure              "Échec de la suppression.">
