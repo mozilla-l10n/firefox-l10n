@@ -21,7 +21,7 @@
 
 <!ENTITY useAutoScroll.label             "अटोस्क्रोलिङ्ग प्रयोग गर्नुहोस्">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "महीन स्क्रोल प्रयोग गर्नुहोस्">
+<!ENTITY useSmoothScrolling.label        "सरर र स्क्रोल प्रयोग गर्नुहोस्">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
 <!ENTITY allowHWAccel.accesskey          "r">
@@ -31,11 +31,11 @@
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरू">
 
 <!ENTITY healthReportDesc.label          "तपाईँलाई तपाईँको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईँको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईँको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; सँग बाँड्दछ ।">
-<!ENTITY enableHealthReport.label        "सुरु &brandShortName; स्वास्थ्य रिपोर्ट">
+<!ENTITY enableHealthReport.label        " &brandShortName; को स्वास्थ्य रिपोर्ट सक्षम पार्नुहोस्">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
-<!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति;  हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईँको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; सँग बाँड्दछ">
+<!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; तपाईँको ब्राउजरसँग सम्बन्धित प्रदर्शन, उपयोग, हार्डवेयर र अनुकुलन डाटा लाई &vendorShortName; सँग बाँड्दछ">
 <!ENTITY enableTelemetryData.label       "अतिरिक्त डाटा बाड्नुहोस (i.e., टेलीमेट्री)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
@@ -76,7 +76,7 @@
 <!ENTITY updateTab.label                 "अद्यावधिक">
 
 <!ENTITY updateApp.label                 "&brandShortName; अद्यावधिकहरू:">
-<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस् (सुझाव: उन्नत सुरक्षाको लागि)">
+<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस् (सिफारिस गरिन्छ: उन्नत सुरक्षाको लागि)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "अद्यावधिको लागि जाँच गर्नुहोस् ,तर सफ्टवेयर स्थापना गर्ने कि नगर्ने मलाई छान्नदिनुहोस्">
 <!ENTITY updateCheck.accesskey           "C">
@@ -86,7 +86,7 @@
 <!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर">
+<!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "स्वतः अद्यावधिहरू">
@@ -111,7 +111,7 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "मलाई हरेक पटक सोध्नुहोस्">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई क्वेरी गर्नुहोस्।">
+<!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "C">

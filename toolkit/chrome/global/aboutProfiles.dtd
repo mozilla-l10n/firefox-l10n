@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "प्रोफाइलहरूको बारेमा">
 <!ENTITY aboutProfiles.subtitle "यस पृष्ठले तपाईँको प्रोफाईल व्यवस्थापन गर्न सहयोग गर्छ। हरेक प्रोफाईल एउटा अलग ठाउँ हो जसमा छुट्टै इतिहास, पुस्तकचिनो, सेटिङ्, र एडअनहरू हुन्छ।">
 <!ENTITY aboutProfiles.create "नयाँ प्रोफाइल सिर्जना गर्नुहोस्">
-<!ENTITY aboutProfiles.restart.title "पुनःसुरु गर्नुहोस्">
+<!ENTITY aboutProfiles.restart.title "पुनःसुचारु गर्नुहोस्">
 <!ENTITY aboutProfiles.restart.inSafeMode "एडअनहरू असक्षम पारेर पुनः सुरु गर्नुहोस...">
-<!ENTITY aboutProfiles.restart.normal "सामान्यरूपमा पुनःसुरु गर्नुहोस्…">
+<!ENTITY aboutProfiles.restart.normal "सामान्यरूपमा पुनःसुचारु गर्नुहोस्…">
