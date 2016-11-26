@@ -58,7 +58,7 @@
 
 <!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिँदै छ…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; अप टु डेट छ">
+<!ENTITY update.noUpdatesFound      "&brandShortName; नयाँ संस्करणमा छ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू अक्षम पारिएको छ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -70,7 +70,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "अद्यावधिक असफल भयो । ">
+<!ENTITY update.failed.start        "अद्यावधिक असफल भयो। ">
 <!ENTITY update.failed.linkText     "नवीनतम संस्करण डाउनलोड गर्नुहोस्">
 <!ENTITY update.failed.end          "‍">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
