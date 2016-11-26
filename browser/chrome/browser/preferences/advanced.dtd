@@ -105,7 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "Remover dados offline">
 
 <!ENTITY certificateTab.label            "Certificados">
-<!ENTITY certSelection.label             "Requisições">
+<!ENTITY certSelection.label             "Solicitações">
 <!ENTITY certSelection.description       "Quando um servidor solicitar meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">

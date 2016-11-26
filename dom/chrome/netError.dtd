@@ -22,7 +22,7 @@
 <!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li></ul>">
 
-<!ENTITY generic.title "Não foi possível concluir o pedido">
+<!ENTITY generic.title "Não foi possível concluir a solicitação">
 <!ENTITY generic.longDesc "<p>Informações adicionais sobre este problema ou erro não estão disponíveis neste momento.</p>">
 
 <!ENTITY malformedURI.title "Endereço inválido">
@@ -64,7 +64,7 @@
 <!ENTITY redirectLoop.longDesc "<p>As tentativas para acessar o item solicitado foram interrompidas. O site está redirecionando o pedido de um modo que impede a sua conclusão.</p><ul><li>Você desativou ou bloqueou cookies exigidos por este site?</li><li><em>NOTA</em>: se aceitar os cookies do site não resolver o problema, provavelmente a causa é alguma configuração no servidor e não o seu computador.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Resposta incorreta">
-<!ENTITY unknownSocketType.longDesc "<p>O site respondeu ao pedido de conexão de um modo não esperado. Não é possível prosseguir.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>O site respondeu à solicitação de rede de uma maneira inesperada e o navegador não pode continuar.</p>">
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
 <!ENTITY nssFailure2.longDesc2 "<p>A página que você está tentando abrir não pode ser mostrada porque a autenticidade dos dados recebidos não pôde ser comprovada.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los sobre este problema.</li></ul>">
