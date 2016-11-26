@@ -828,7 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "अफलाइन पढ्नका लागि बुक्मार्क पाठक वस्तुहरु।">
 <!ENTITY helper_triple_readerview_open_button "पुस्तकचिनोहरूमा थप्नुहोस्">
 
-<!ENTITY activity_stream_topsites "शीर्ष साईटहरु">
+<!ENTITY activity_stream_topsites "शीर्ष साइटहरू">
 <!ENTITY activity_stream_highlights "हाइलाइटहरू">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->

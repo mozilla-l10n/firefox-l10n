@@ -14,7 +14,6 @@
 <!ENTITY newPref.stringPlaceholder     "स्ट्रिङ बनाउनुहोस्">
 <!ENTITY newPref.numberPlaceholder     "नंबर थिच्नुस">
 
-<!ENTITY newPref.toggleButton          "स्विच टग्गल  गर्नुहोस ">
 <!ENTITY newPref.cancelButton          "रद्द गर्नुहोस् ">
 
 <!ENTITY contextMenu.copyPrefName      "नाम प्रतिलिपि गर्नुहोस ">
