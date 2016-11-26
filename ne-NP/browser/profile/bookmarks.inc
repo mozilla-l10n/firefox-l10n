@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly Resources
+#define nightly_heading फायरफक्सका रात्री स्रोतहरू
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog फायरफक्सको रात्री ब्लग
 
 
 # LOCALIZATION NOTE (bugzilla):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes तपाईंका सम्पूर्ण दुर्घटनाहरु
 
 
 # LOCALIZATION NOTE (irc):
