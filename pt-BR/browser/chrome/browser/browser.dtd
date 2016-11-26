@@ -703,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
 <!ENTITY identity.connectionVerified2 "Você está conectado com segurança a este site, administrado por:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Informações de login registradas nesta página podem ser comprometidas.">
+<!ENTITY identity.insecureLoginForms2 "Os logins inseridos nesta página podem estar comprometidos.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
@@ -712,8 +712,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa criptografia fraca.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "A conexão com este site não é privada. As informações que você enviar (tais como senhas, mensagens, cartões de créditos, etc) podem ser vistas por outros.">
-<!ENTITY identity.description.insecureLoginForms "As informações de login que você inserir nesta página não estão seguras e podem ser comprometidas.">
+<!ENTITY identity.description.insecure "A conexão com este site não é privativa. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc) podem ser vistas por outros.">
+<!ENTITY identity.description.insecureLoginForms "As informações de login que você inserir nesta página não estão seguras e podem está comprometidas.">
 <!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">

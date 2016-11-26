@@ -13,4 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Você deve estar conectado à Internet para entrar.">
 <!ENTITY aboutAccounts.noConnection.retry "Tentar de novo">
 <!ENTITY aboutAccounts.badConfig.title "Configuração ruim">
-<!ENTITY aboutAccounts.badConfig.description "Não foi possível definir as configurações do servidor da sua conta Firefox. Por favor, tentar de novo depois.">
+<!ENTITY aboutAccounts.badConfig.description "Não foi possível determinar as configurações do servidor da sua conta Firefox. Por favor, tentar de novo depois.">
