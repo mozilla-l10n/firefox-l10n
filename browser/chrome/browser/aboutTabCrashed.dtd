@@ -18,11 +18,11 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "छनौट &tabCrashed.restoreTab; पृष्ठ सामग्री पुन: लोड गर्न।">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "सामग्री पुन: लोड गर्न &tabCrashed.restoreTab; वा &tabCrashed.restoreAll; छान्नुहोस्।">
 <!ENTITY tabCrashed.requestHelp "के तपाईँ हामीलाई मद्दत गर्नुहुन्छ?">
-<!ENTITY tabCrashed.requestHelpMessage "दुर्घटनाका रिपोर्टहरुले हामीलाई समस्याहरु निदान गर्न र &brandShortName; राम्रो बनाउन मदत गर्छन्।">
+<!ENTITY tabCrashed.requestHelpMessage "दुर्घटनाका विवरणहरुले हामीलाई समस्याहरु निदान गर्न र &brandShortName; राम्रो बनाउन मदत गर्छन्।">
 <!ENTITY tabCrashed.requestReport "यो ट्याब रिपोर्ट गर्नुस ">
 <!ENTITY tabCrashed.sendReport2 "तपाईंले हेरिरहनु भएको ट्याबका लागि एक दुर्घटना रिपोर्ट पठाउनुहोस्।">
-
-
+<!ENTITY tabCrashed.commentPlaceholder2 "वैकल्पिक टिप्पणीहरु (टिप्पणीहरू सार्वजनिक रूपमा देखिने छन्)">
+<!ENTITY tabCrashed.includeURL2 "यो दुर्घटनाको विवरणसँग पृष्ठको URL लाई पनि समावेश गर्नेुहोस्">
 <!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाई सकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
