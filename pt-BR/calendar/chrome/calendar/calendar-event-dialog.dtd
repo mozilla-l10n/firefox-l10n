@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
 <!ENTITY event.attendees.disallowcounter.label       "Anular o contador">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Idicar que você não aceitará a contraproposta">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indicar que você não aceitará sugestões">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -165,9 +165,9 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar tempo livre/ocupado">
 
 <!-- Counter box -->
-<!ENTITY counter.button.proposal.label                    "Aplicar a proposta">
+<!ENTITY counter.button.proposal.label                    "Aplicar a sugestão">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip                  "Aplicar os dados da proposta ao formulário.">
+<!ENTITY counter.button.proposal.tooltip                  "Aplicar a sugestão ao formulário.">
 <!ENTITY counter.button.original.label                    "Aplicar dados originais">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip                  "Aplicar a proposta.">
