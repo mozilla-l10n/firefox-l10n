@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Dalše informacije">
 <!ENTITY  browserContainersEnabled.label        "Kontejnerowe rajtarki zmóžnić">
 <!ENTITY  browserContainersEnabled.accesskey    "m">
-
-
+<!ENTITY  browserContainersSettings.label        "Nastajenja…">
+<!ENTITY  browserContainersSettings.accesskey    "s">
