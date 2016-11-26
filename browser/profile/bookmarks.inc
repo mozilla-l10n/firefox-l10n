@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Nightly IRC मा छलफल गर्नुहोस्
 
 
 # LOCALIZATION NOTE (planet):

@@ -6,9 +6,9 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ">
-<!ENTITY privateBrowsing.title.tracking                  "ट्रयाकिङ् सुरक्षाको साथ निजी ब्राउजिङ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब तपाईँ निजी विन्डोमा ब्राउज गर्नुहुन्छ, Firefox ">
+<!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ्ग">
+<!ENTITY privateBrowsing.title.tracking                  "ट्रयाकिङ् सुरक्षाका साथ निजी ब्राउजिङ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब तपाईँ निजी सञ्झ्यालमा ब्राउज गर्नुहुन्छ, Firefox ले ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "बचत गर्दैन">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "भ्रमण गरिका पृष्ठहरू">
@@ -16,16 +16,16 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "कुकिज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फाइलहरू">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox  ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "सेभ नर्नेछ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "बचत गर्नेछ">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " तपाईँको:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "पुस्तकचिनोहरू">
-<!ENTITY aboutPrivateBrowsing.note.before                "निजी ब्राउजिङ ">
+<!ENTITY aboutPrivateBrowsing.note.before                "निजी ब्राउजिङ्ग">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "तपाईँलाई गोप्य बनाउने छैन">
 <!ENTITY aboutPrivateBrowsing.note.after                 "इन्टरनेटमा। तपाईँको कम्पनी वा इन्टरनेट सेवा प्रदानकर्ताले तपाईँले प्रयोग गर्नु भएको पेजको विवरण पाउन सक्छन्। ">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "बारेमा अझैं जान्नुहोस">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "निजी ब्राउजिङ">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "निजी ब्राउजिङ्ग">
 
 <!ENTITY trackingProtection.title                        "सुरक्षा ट्रयाक गरिँदै ">
-<!ENTITY trackingProtection.description2                 "केही वेबसाइटहरूले ट्र्याकरको प्रयोग गर्छन जेसले तपाईँको इन्टरनेटको गतिविधिहरूमा नजर राख्छन्। Firefox को ट्रयाकिङ सुरक्षाबाट धेरै ट्रयाकरहरू जसले तपाईँको जानकारी राख्छ त्यसलाई ब्लक गर्छ।">
+<!ENTITY trackingProtection.description2                 "केही वेबसाइटहरूले ट्र्याकरको प्रयोग गर्छन जसले तपाईँको इन्टरनेटको गतिविधिहरूमा नजर राख्न सक्छन। Firefox को ट्रयाकिङ सुरक्षाबाट धेरै ट्रयाकरहरू जसले तपाईँको ब्राउजिङ व्यवहार बारे जानकारी राख्न सक्छन त्यसलाई ब्लक गर्छ।">
 <!ENTITY trackingProtection.startTour1                   "यसले कसरी काम गर्छ हेर्नुहोस">

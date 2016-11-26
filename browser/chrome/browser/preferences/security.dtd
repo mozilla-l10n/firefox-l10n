@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "मास्टर पासवर्ड प्रयोग गर्नुहोस्">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "मास्टर पासवर्ड परिवर्तन गर्नुहोस्...">
+<!ENTITY  changeMasterPassword.label     "मुल पासवर्ड परिवर्तन गर्नुहोस्...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "सङ्ग्रह गरेको लग-इनहरू…">

@@ -5,7 +5,7 @@
 
 <!ENTITY tapToPlayPlugin                                     "प्लगइन सक्रिय यहाँ ट्याप गर्नुहोस्।">
 <!ENTITY clickToActivatePlugin                               "प्लगइन सक्रिय गर्नुहोस्।">
-<!ENTITY checkForUpdates                                     "अपडेटको लागि जाँच गर्नुहोस्...">
+<!ENTITY checkForUpdates                                     "अद्यावधिकहरू जाँच गर्नुहोस्…">
 <!ENTITY blockedPlugin.label                                 "यो प्लगइन तपाईँको सुरक्षाका लागि बन्द गरिएको छ।">
 <!ENTITY hidePluginBtn.label                                 "प्लगइन लुकाउनुहोस्">
 <!ENTITY managePlugins                                       "प्लगइन व्यवस्थापन गर्नुहोस् ...">
