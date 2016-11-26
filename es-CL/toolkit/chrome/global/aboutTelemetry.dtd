@@ -54,9 +54,11 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "Escalares">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "Escalares con llave">
+
 <!ENTITY aboutTelemetry.histogramsSection "Histogramas">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramas bajo llave">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramas con llave">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Mediciones simples">
 
