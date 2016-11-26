@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
-<!ENTITY retry.label "पुन:प्रयास गर्नुहोस्">
+<!ENTITY retry.label "पुनः प्रयास गर्नुहोस्">
 <!-- Specific error messages -->
 
 
@@ -39,12 +39,12 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "कागजातको समयसीमा समाप्त भयो">
-<!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै, &brandShortName; ले स्वतः संवेदनशील कागजातहरूलाई पुन:अनुरोध गर्दैन।</li><li>कागजात पुन:अनुरोध गर्नलाई पुन: प्रयास क्लिक गर्नुहोस्। </li></ul>">
+<!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै, &brandShortName; ले स्वतः संवेदनशील कागजातहरूलाई पुन:अनुरोध गर्दैन।</li><li>कागजात पुन:अनुरोध गर्नलाई पुन: प्रयासमा थिच्नुहोस्। </li></ul>">
 
 <!ENTITY netOffline.title "अफलाइन शैली">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>फेरी प्रयास गर्नुहोस्। &brandShortName; ले पेज जडान सुरु गर्न र पुन: लोड गर्न प्रयास गर्ने छ। <button id='wifi'>Wi-Fi अन गर्ने</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>फेरी प्रयास गर्नुहोस्। &brandShortName; ले पेज जडान सुरु गर्न र पुनः लोड गर्न प्रयास गर्ने छ। <button id='wifi'>Wi-Fi सक्षम गर्नुहोस</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>यो साइट अस्थायी अनुपलब्ध अथवा धेरै व्यस्त भएको हुन सक्छ। केही समय मा पुन: प्रयास गर्नुहोला</li> <li>यदि तपाईँले कुनै पृष्ठ लोड गर्न सक्नु भएन भने, तपाईँको साधनको डाटा अथवा वाई-फाई जड़ान जाँच गर्नुहोस्। <button id='wifi'>Enable Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>यो साइट अस्थायी अनुपलब्ध अथवा धेरै व्यस्त भएको हुन सक्छ। केही समय मा पुनः प्रयास गर्नुहोला</li> <li>यदि तपाईँले कुनै पृष्ठ लोड गर्न सक्नु भएन भने, तपाईँको साधनको डाटा अथवा वाई-फाई जड़ान जाँच गर्नुहोस्। <button id='wifi'>Wi-Fi सक्षम गर्नुहोस</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध ">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
