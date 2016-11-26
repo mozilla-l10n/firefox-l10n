@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenupopup.label "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
-<!ENTITY addCurPagesCmd.label "सब ट्याबहरूलाई पुस्तकचिनो बनाउनुहोस्...">
+<!ENTITY addCurPagesCmd.label "सबै ट्याबहरूलाई पुस्तकचिनो लगाउनुहोस्...">
 <!ENTITY showAllBookmarks2.label "सबै पुस्तकचिनोहरू देखाउनुहोस्">
 <!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तकचिनोहरू">
@@ -555,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "भिडियो स्थान प्रतिलिपि गर्नुनुहोस्">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "श्रव्या स्थान प्रतिलिपि गर्नुनुहोस्">
+<!ENTITY copyAudioURLCmd.label        "ध्वनि स्थान प्रतिलिपि गर्नुनुहोस्">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "इमेल ठेगाना प्रतिलिपि गर्नुहोस्">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -784,7 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "सेवाहरू प्रबन्धन गर्नुहोस्...">
 
 <!ENTITY social.directory.label "Activations Directory">
-<!ENTITY social.directory.text "तपाईँले डाईरेक्टरीद्वारा सेयर सेवा सक्रिय गर्न सक्नुहुन्छ।">
+<!ENTITY social.directory.text "तपाईँले डाईरेक्टरीबाट सेयर सेवा सक्रिय गर्न सक्नुहुन्छ।">
 <!ENTITY social.directory.button "मलाई त्यहाँ लानुहोस्!">
 <!ENTITY social.directory.introText "कुनै सेवा &brandShortName; मा थप्न सेवामा थिच्नुहोस्। ">
 <!ENTITY social.directory.viewmore.text "अरु हेर्नुहोस">
