@@ -12,9 +12,6 @@
 <!ENTITY closeTabCmd2.accesskey "m">
 <!ENTITY closeOtherTabsCmd2.label "Fermer les autres onglets">
 <!ENTITY closeOtherTabsCmd2.accesskey "F">
-<!-- LOCALIZATION NOTE (ecentlyClosedTabsCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Onglets récemment fermés">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
@@ -270,7 +267,6 @@
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
-
 <!ENTITY findMenu.label "Rechercher">
 <!ENTITY findMenu.accesskey "h">
 <!ENTITY findCmd.label "Rechercher…">
@@ -339,7 +335,7 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Archiver">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Annuler le message">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Répondre">
@@ -487,18 +483,29 @@
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Console d’erreurs">
-<!ENTITY errorConsoleCmd.accesskey "s">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Supprimer l’historique récent…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Paramètres des comptes">
 <!ENTITY accountManagerCmd2.accesskey "m">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
-<!ENTITY allowRemoteDebugging.label "Autoriser le débogage distant">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY errorConsoleCmd.label "Console d’erreurs">
+<!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Relever">
@@ -555,10 +562,10 @@
 <!ENTITY openConversationButton.tooltip "Afficher la conversation du message sélectionné">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
 <!ENTITY nextMsgButton.tooltip "Aller au prochain message">
-<!ENTITY goForwardButton.tooltip "Avancer d’un message">
-<!ENTITY goBackButton.tooltip "Reculer d’un message">
 <!ENTITY previousButton.tooltip "Aller au précédent message non lu">
 <!ENTITY previousMsgButton.tooltip "Aller au précédent message">
+<!ENTITY goForwardButton.tooltip "Avancer d’un message">
+<!ENTITY goBackButton.tooltip "Reculer d’un message">
 <!ENTITY deleteButton.tooltip "Supprimer le message ou le dossier sélectionné">
 <!ENTITY undeleteButton.tooltip "Restaurer le message sélectionné">
 <!ENTITY markButton.tooltip "Marquer les messages">
@@ -688,7 +695,6 @@
 <!ENTITY idColumn.label "Ordre de réception">
 <!ENTITY attachmentColumn.label "Pièces jointes">
 
-
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
 <!ENTITY threadColumn2.tooltip "Afficher les fils de discussion">
@@ -715,6 +721,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY contextOpenNewWindow.accesskey "n">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY contextOpenNewTab.accesskey "u">
 <!ENTITY contextOpenConversation.label "Ouvrir le message dans la discussion">
@@ -751,13 +761,13 @@
 <!ENTITY contextCopyMsgMenu.label "Copier vers">
 <!ENTITY contextCopyMsgMenu.accesskey "c">
 <!ENTITY contextKillThreadMenu.label "Ignorer la discussion">
+<!ENTITY contextKillSubthreadMenu.accesskey "g">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorer le sous-fil de discussion">
-<!ENTITY contextKillSubthreadMenu.accesskey "g">
 <!ENTITY contextWatchThreadMenu.label "Surveiller la discussion">
-<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
-   In the en-US locale we ran out of access keys, so there is an empty access key for
-   Watch Thread. Localizers can pick a suitable key
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Enregistrer sous…">
@@ -769,49 +779,50 @@
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Réinitialiser">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "Appliquer ces paramètres à…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "Dossier…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Dossier et sous-dossiers…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Ce dossier">
+
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Lire">
@@ -826,29 +837,30 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed -->
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-     This is the base of the empty text for the global search box.  We replace
+      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
+  -->
 <!ENTITY search.label.base1 "Rechercher #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
@@ -896,31 +908,32 @@
 <!ENTITY stopCmd.accesskey "r">
 <!ENTITY reloadCmd.label "Actualiser">
 <!ENTITY reloadCmd.accesskey "c">
-<!ENTITY openInBrowser.label         "Ouvrir dans le navigateur">
-<!ENTITY openInBrowser.accesskey     "n">
-<!ENTITY openLinkInBrowser.label     "Ouvrir le lien dans le navigateur">
+<!ENTITY openInBrowser.label "Ouvrir dans le navigateur">
+<!ENTITY openInBrowser.accesskey "n">
+<!ENTITY openLinkInBrowser.label "Ouvrir le lien dans le navigateur">
 <!ENTITY openLinkInBrowser.accesskey "a">
-<!-- Statusbar -->
-<!ENTITY  statusText.label "Chargé">
 
-<!--  Mac OS X Window Menu -->
+<!-- Statusbar -->
+<!ENTITY statusText.label "Chargé">
+
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Réduire">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tout amener à l’avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label "Préférences">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Services">
-<!ENTITY hideThisAppCmdMac.label "Masquer &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Masquer les autres">
+<!ENTITY preferencesCmdMac2.label       "Préférences">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Services">
+<!ENTITY hideThisAppCmdMac.label        "Masquer &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Masquer les autres">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Tout afficher">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Tout afficher">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Options de l’icône de l’application…">
