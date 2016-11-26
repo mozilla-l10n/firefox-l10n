@@ -15,7 +15,7 @@
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "लग आउट">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "पासवर्ड परिवर्तन गर्नुहोस्">
+<!ENTITY devmgr.button.changepw.label           "गोप्यशब्द परिवर्तन गर्नुहोस्">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
 <!ENTITY devmgr.button.load.label               "लोड गर्नुहोस्">
 <!ENTITY devmgr.button.load.accesskey           "L">

@@ -88,7 +88,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरु अद्यावधिकहरू गर्न सक्नुहुन्न।">
-<!ENTITY update.unsupported.linkText "अझै जान्नुहोस्">
+<!ENTITY update.unsupported.linkText "अझ जान्नुहोस्">
 <!ENTITY update.unsupported.end      "‍">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

@@ -12,7 +12,7 @@
 <!ENTITY jobTitleInput.label "कार्य शीर्षक:">
 <!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "रंग:">
+<!ENTITY colorGroup.label "रङ:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "रङ">
