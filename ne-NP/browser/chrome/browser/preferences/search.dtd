@@ -9,7 +9,7 @@
 <!ENTITY provideSearchSuggestions.label        "खोज सुझावहरू प्रदान गर्ने">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "स्थान पट्टी नतिजाहरूमा खोज सुझावहरू देखाउनुहोस्">
+<!ENTITY showURLBarSuggestions.label           "स्थान पट्टीको नतिजाहरूमा खोज सुझावहरू देखाउनुहोस्">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने &brandShortName; लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।">
 
