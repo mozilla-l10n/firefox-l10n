@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Değişkenler">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Anahtarlı Skalerler">
 
 <!ENTITY aboutTelemetry.histogramsSection "   Histogramlar ">
 
