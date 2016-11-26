@@ -73,7 +73,7 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "पुस्तकचिनो लगाइ सकियो">
 <!ENTITY bookmark_removed "पुस्तकचिनो हटाइयो">
-<!ENTITY bookmark_updated "पुस्तकचिनो अपडेट गरियो">
+<!ENTITY bookmark_updated "पुस्तकचिनो अद्यावधिक गरियो">
 <!ENTITY bookmark_options "विकल्पहरू">
 <!ENTITY screenshot_added_to_bookmarks "स्क्रिन्सट् बुक्मार्कमा थपियो">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -196,8 +196,8 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ट्याब, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_category_notifications "सूचनाहरू">
-<!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अपडेट">
-<!ENTITY pref_content_notifications "वेबसाइट अपडेट">
+<!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अद्यावधिकहरू">
+<!ENTITY pref_content_notifications "वेबसाइट अद्यावधिकहरू">
 <!ENTITY pref_content_notifications_summary2 "समर्थित साइटबाट नयाँ सामग्री पत्ता लगउनुहोस्">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
@@ -476,7 +476,7 @@ size. -->
 <!ENTITY tabs_private "नीजि">
 <!ENTITY set_image_fail "छवि सेट गर्न असक्षम भयो">
 <!ENTITY set_image_path_fail "छवि बचत गर्न असक्षम भयो">
-<!ENTITY set_image_chooser_title "यस रूपमा छवि सेट गर्नुहोस्">
+<!ENTITY set_image_chooser_title "यस रूपमा तस्बिर सेट गर्नुहोस्">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -593,7 +593,7 @@ size. -->
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
-<!ENTITY home_most_recent_empty "तपाईँ भर्खरै भ्रमण गर्नुभएको वेबसासटहरू यहाँ देखिन्छन्।">
+<!ENTITY home_most_recent_empty "तपाईँले भर्खरै भ्रमण गर्नुभएको वेबसाइटहरू यहाँ देखिन्छन्।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
