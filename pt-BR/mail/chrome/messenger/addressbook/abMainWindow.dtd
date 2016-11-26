@@ -145,6 +145,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Propriedades">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Editar contato">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Editar Lista">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Nova msg">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Msg instantânea">
@@ -157,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
+<!ENTITY editPropertiesButton.tooltip                   "Editar item selecionado">
+<!ENTITY editAbPropertiesButton.tooltip                 "Editar as propriedades do catálogo de endereços selecionado">
+<!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de discussão selecionada">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
