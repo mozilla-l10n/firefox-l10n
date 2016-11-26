@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "सेटिङहरू समक्रमण गर्न यहा टयाप् गर्नुहोस्">
 
 <!ENTITY aboutAccounts.noConnection.title "इन्टरनेट सुविधा छैन">
-<!ENTITY aboutAccounts.retry.label "पुन:प्रयास गर्नुहोस्">
+<!ENTITY aboutAccounts.retry.label "पुन: प्रयास गर्नुहोस्">
 
 <!ENTITY aboutAccounts.restrictedError.title "निषेधित">
 <!ENTITY aboutAccounts.restrictedError.description "तपाईँले यस प्रोफाइलबाट Firefox अकाउन्ट व्यवस्थापन गर्न सक्नुहुन्न।">
