@@ -118,7 +118,7 @@ instalado.</li>
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>A página que está tentando ver não pode ser vista porque a autenticidade dos dados recebidos não pôde ser comprovada.</li> 
+<li>A página que está tentando ver não pode ser vista porque a autenticidade dos dados recebidos não pôde ser verificada.</li> 
 <li>Por favor, contate os responsáveis pelo site para informá-los sobre este problema.</li> 
 </ul>">
 
