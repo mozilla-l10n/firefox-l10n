@@ -13,11 +13,12 @@
 
 <!ENTITY name.label           "र नाम:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY icon.label           "प्रतिमाः">
+<!ENTITY icon.accesskey       "I">
+<!ENTITY color.label          "रंग:">
+<!ENTITY color.accesskey      "o">
 
 
-
-
-
-
-
+<!ENTITY button.ok.label      "भयो">
+<!ENTITY button.ok.accesskey  "D">
 

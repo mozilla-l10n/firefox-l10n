@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिक जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "&brandShortName; अद्यावधिक गर्न पुन: सुचारू गर्नुहोस्">
+<!ENTITY update.updateButton.label2               "&brandShortName; अद्यावधिक गर्न पुनः सुचारू गर्नुहोस्">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -33,7 +33,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एउटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "विश्वब्यापी समुदाय">
+<!ENTITY community.creditsLink      "विश्वव्यापी समुदाय">
 <!ENTITY community.end3             " जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
 <!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ? ">
@@ -63,7 +63,7 @@
 <!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू अक्षम पारिएको छ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; लाई अर्को सत्रले अद्यावधिक गर्दैछ">
-<!ENTITY update.restarting          "पुन: सुरू गरिँदै…">
+<!ENTITY update.restarting          "पुनः सुरू गरिँदै…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

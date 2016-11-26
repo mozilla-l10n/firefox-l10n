@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn मोजिल्ला विकासकर्ता संजाल\u0020
+#define mdn Mozilla Developer Network
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):
