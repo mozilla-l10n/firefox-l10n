@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialogTitle                  "Remover Conta e Dados armazenados">
 <!ENTITY removeButton.accesskey       "R">
 <!ENTITY removeAccount.accesskey      "a">
 <!ENTITY removeData.accesskey         "d">
 <!ENTITY showData.accesskey           "S">
+<!ENTITY progressSuccess              "Dados removidos com sucesso.">
