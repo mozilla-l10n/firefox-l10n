@@ -75,7 +75,7 @@
 
 <!ENTITY updateTab.label                 "Update">
 
-<!ENTITY updateApp.label                 "&brandShortName;-Updates:">
+<!ENTITY updateApp.label                 "&brandShortName;-Updates">
 <!ENTITY updateAuto1.label               "Updates automatisch installieren (empfohlen: erhöhte Sicherheit)">
 <!ENTITY updateAuto1.accesskey           "U">
 <!ENTITY updateCheck.label               "Nach Updates suchen, aber vor der Installation nachfragen">
@@ -89,7 +89,7 @@
 <!ENTITY useService.label                "Einen Hintergrunddienst verwenden, um Updates zu installieren">
 <!ENTITY useService.accesskey            "g">
 
-<!ENTITY updateOthers.label              "Automatisch aktualisieren:">
+<!ENTITY updateOthers.label              "Automatisch aktualisieren">
 <!ENTITY enableSearchUpdate.label        "Suchmaschinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
