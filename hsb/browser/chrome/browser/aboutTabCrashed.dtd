@@ -22,9 +22,9 @@
 <!ENTITY tabCrashed.requestReport "Tutón rajtark zdźělić">
 <!ENTITY tabCrashed.sendReport2 "Rozprawu wo spadźe za rajtark słać, kotryž sej runje wobhladujeće">
 <!ENTITY tabCrashed.commentPlaceholder2 "Opcionalne komentary (komentary su zjawnje widźomne)">
-
+<!ENTITY tabCrashed.includeURL2 "URL strony z rozprawu wo tutym spadźe zapřijeć">
 <!ENTITY tabCrashed.emailPlaceholder "Zapisajće tu swoju e-mejlowu adresu">
 <!ENTITY tabCrashed.emailMe "Pósćelće mi e-mejlku, hdyž dalše informacije k dispoziciji steja">
 <!ENTITY tabCrashed.reportSent "Rozprawa wo spadach je so hižo wotpósłała; wulki dźak, zo sće pomhał, &brandShortName; polěpšić!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit "Pozadkowe rajtarki požadać">
+<!ENTITY tabCrashed.autoSubmit "Nastajenja aktualizować, zo bychu so njesčinjene rozprawy wo spadach pósłali (a zo byšće mjenje zdźělenkow kaž tuta wot nas w přichodźe dóstał)">
