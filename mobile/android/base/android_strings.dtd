@@ -99,7 +99,7 @@
 <!ENTITY history_older_section3 "६ महिना भन्दा पुरानो">
 
 <!ENTITY search "खोजी गर्नुहोस्">
-<!ENTITY reload "पुन: लोड गर्नुहोस्">
+<!ENTITY reload "पुनः लोड गर्नुहोस्">
 <!ENTITY forward "अगाडि">
 <!ENTITY menu "सुची">
 <!ENTITY back "पछाडि">
@@ -181,9 +181,9 @@
 <!ENTITY pref_learn_more "अझै जान्नुहोस्">
 <!ENTITY pref_category_installed_search_engines "स्थापित खोज इन्जिनहरू">
 <!ENTITY pref_category_add_search_providers "अरू खोज प्रदायकहरू थप्नुहोस्">
-<!ENTITY pref_category_search_restore_defaults "खोज इन्जिनहरू पुनर्स्थापना गर्नुहोस्">
-<!ENTITY pref_search_restore_defaults "पूर्वनिर्धारित पुनःस्थापना">
-<!ENTITY pref_search_restore_defaults_summary "पूर्वनिर्धारित पुनःस्थापना">
+<!ENTITY pref_category_search_restore_defaults "खोज इन्जिनहरू पुनः स्थापना गर्नुहोस्">
+<!ENTITY pref_search_restore_defaults "पूर्वनिर्धारित पुनः स्थापना">
+<!ENTITY pref_search_restore_defaults_summary "पूर्वनिर्धारित पुनः स्थापना">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -194,7 +194,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "ट्याब, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
+<!ENTITY pref_category_advanced_summary3 "ट्याब पुनः स्थापना गर्नुहोस्, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_category_notifications "सूचनाहरू">
 <!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अद्यावधिकहरू">
 <!ENTITY pref_content_notifications "वेबसाइट अद्यावधिकहरू">
@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
-<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ।">
+<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुनः संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ।">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 <!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने वस्तुहरू रोक्नुहोस्।">
@@ -350,9 +350,9 @@
 <!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
 <!ENTITY pref_text_size "अक्षर साइज">
-<!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस्">
-<!ENTITY pref_restore_always "सधैँ पुनर्स्थापना गर्नुहोस्">
-<!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनर्स्थापना नगर्नुहोस्">
+<!ENTITY pref_restore_tabs "ट्याबहरू पुनःस्थापना गर्नुहोस्">
+<!ENTITY pref_restore_always "सधैँ पुनःस्थापना गर्नुहोस्">
+<!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनः स्थापना नगर्नुहोस्">
 <!ENTITY pref_font_size_tiny "अति सानो">
 <!ENTITY pref_font_size_small "सानो">
 <!ENTITY pref_font_size_medium "मध्यम">
@@ -401,7 +401,7 @@ size. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support खोल्नुहोस्">
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 <!ENTITY pref_vendor_faqs "FAQ हरू">
-<!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
+<!ENTITY pref_vendor_feedback "प्रतिक्रिया दिनुहोस्">
 
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारितको रूपमा सेट गर्नुहोस्">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारित">
@@ -589,7 +589,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "तपाईँले सञ्चित गरेक पुस्तकचिनोहरू यहाँ देखा पर्दछ।">
 <!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरू">
 <!ENTITY home_last_tabs_empty "तपाईँको हालसालैको ट्याबहरू यहाँ देखा पर्छ।">
-<!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने">
+<!ENTITY home_restore_all "सबैलाई पुनः स्थापित गर्ने">
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
@@ -696,7 +696,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड गरिँदै">
 <!ENTITY updater_downloading_title_failed2 "डाउनलोड असफल भयो">
 <!ENTITY updater_downloading_select2 "अद्यावधिक पुरा भएपछि अद्यावधिक लागू गर्न थिच्नुहोस्">
-<!ENTITY updater_downloading_retry2 "पून: प्रयास गर्न छुनुहोस्">
+<!ENTITY updater_downloading_retry2 "पूनः प्रयास गर्न छुनुहोस्">
 
 <!ENTITY updater_apply_title2 "&brandShortName; को लागि अद्यावधिक उपलब्ध छ">
 <!ENTITY updater_apply_select2 "अद्यावधिक गर्न थिच्नुहोस्">
@@ -713,12 +713,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "अतिथि सत्रबाट बाहिर निस्कनुहोस्">
 <!ENTITY guest_session_dialog_continue "जारी राख्नुहोस्">
 <!ENTITY guest_session_dialog_cancel "रद्द गर्नुहोस्">
-<!ENTITY new_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
-<!ENTITY new_guest_session_text2 "यो प्रयोग गर्ने व्यक्तिले तपाईँको कुनै पनि निजि ब्राऊउजिङ डाटा (जस्तै सुरक्षित लगइनहरू, इतिहास वा बुक्मार्कहरू)।\n\nजब तपाईँको अतिथिको कार्य पुरा हुन्छ, उनको ब्राउजिङ डाटा मेटाइन्छ र तपाईँको सत्र पुनर्स्थापित हुनेछ।">
+<!ENTITY new_guest_session_title "&brandShortName; पुनः सुचारू हुन्छ">
+<!ENTITY new_guest_session_text2 "यो प्रयोग गर्ने व्यक्तिले तपाईँको कुनै पनि निजि ब्राऊउजिङ डाटा (जस्तै सुरक्षित लगइनहरू, इतिहास वा बुक्मार्कहरू)हेन् सक्ने छैन ।\n\nजब तपाईँको अतिथिको कार्य पुरा हुन्छ, उनको ब्राउजिङ डाटा मेटाइन्छ र तपाईँको सत्र पुनः स्थापित हुनेछ।">
 <!ENTITY guest_browsing_notification_title "अतिथि ब्राउजिङ सक्षम पारिएको छ">
 <!ENTITY guest_browsing_notification_text "बाहिर निस्कन छुनुहोस्">
 
-<!ENTITY exit_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
+<!ENTITY exit_guest_session_title "&brandShortName; पुनः सुचारू हुनेछ">
 <!ENTITY exit_guest_session_text "यस सत्रबाट ब्राउजिङ डाटा मेटाइनेछ।">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -753,7 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "&formatS; मा अन्तिम पटक सिङ्क गरिएको">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "अन्तिम सिङ्क: कहिल्यै गरिएन">
+<!ENTITY remote_tabs_never_synced "अन्तिम सिङ्कः कहिल्यै गरिएन">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -787,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
 <!ENTITY restrictable_feature_clear_history_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा रहेका जानकारी मेटाउन अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_advanced_settings "अत्याधुनिक सेटिङ्हरु">
-<!ENTITY restrictable_feature_advanced_settings_description "यसमा पुस्तकचिनो आयात गर्ने, ट्याबहरू पुन:स्थापना गर्ने र स्वचालित अद्यावधिकहरू समावेश छन्। कुनै पनि उपयुक्त परिवारका सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
+<!ENTITY restrictable_feature_advanced_settings_description "यसमा पुस्तकचिनो आयात गर्ने, ट्याबहरू पुनः स्थापना गर्ने र स्वचालित अद्यावधिकहरू समावेश छन्। कुनै पनि उपयुक्त परिवारका सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
 <!ENTITY restrictable_feature_camera_microphone "क्यामेरा र माइक्रोफोन">
 <!ENTITY restrictable_feature_camera_microphone_description "परिवारका सदस्यहरूलाइ वेबसाइटहरूमा वास्तविक समय संचारमा संलग्न गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_block_list "रोक सूचीहरू">

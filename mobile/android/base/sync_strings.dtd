@@ -60,7 +60,7 @@
 <!ENTITY fxaccount_status_sync_server "साधनको नामः">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_needs_verification2 "तपाईंको खाता प्रमाणिकरण गर्न आवश्यक छ। प्रमाणीकरण ईमेल पुन: पठाउन ट्याप गर्नुहोस्।">
+<!ENTITY fxaccount_status_needs_verification2 "तपाईंको खाता प्रमाणिकरण गर्न आवश्यक छ। प्रमाणीकरण ईमेल पुनः पठाउन ट्याप गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_credentials "संपर्क सफल भएन। भित्र जान यहाँ छुनुहोस्  ">
 <!ENTITY fxaccount_status_needs_upgrade "तपाईंले साइन इन गर्नको लागि &brandShortName; स्तरवृद्धि गर्न आवश्यक छ।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। Android सेटिङहरू &gt; डाटा उपयोगमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
