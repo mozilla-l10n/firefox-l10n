@@ -6,6 +6,7 @@
 <!ENTITY addButton.label      "र नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; गोपनियतामा जानुहोस्">
 
 <!ENTITY window.title         "नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY window.width         "४५ em">

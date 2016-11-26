@@ -4,7 +4,7 @@
 
 <!ENTITY lookInMenuList.label   "...मा हेर्नुहोस्:">
 <!ENTITY lookInMenuList.accesskey   "L">
-<!ENTITY textInput.label        "फाइलनाम:">
+<!ENTITY textInput.label        "फाइल नाम:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "...प्रकारका फाइलहरू:">
 <!ENTITY filterMenuList.accesskey   "t">

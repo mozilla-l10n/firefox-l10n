@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "साधनहरुले टाढाको यन्त्रहरुलाई दिबग गर्न सक्छ (उदाहरणका लागि Firefox for Android र Firefox OS )। तपाईंले टाढाको यन्त्रमा 'Remote debugging' रोजाइ अन गर्नु भएको छ भन्ने कुर निस्चित गर्नुहोस्। ">
 <!ENTITY remoteDocumentation "मिसिलीकरण">
 <!ENTITY remoteHelpSuffix "।">
 

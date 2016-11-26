@@ -47,7 +47,7 @@
 <!ENTITY rights2.webservices-header "&brandFullName; वेबमा आधारित जानकारी सेवाहरू">
 <!-- point 5 -->
 
-<!ENTITY rights.intro-point5 "केहि प्रकारका चलदृश्य सामग्री पुन: बजाउन &brandShortName; ले केहि सामाग्री गुप्तिकरण उल्टाउने मोड्युल तेश्रो पक्ष बाट डाउनलोड गर्छ।">
+<!ENTITY rights.intro-point5 "केहि प्रकारका चलदृश्य सामग्री पुन: बजाउन &brandShortName; ले केहि सामाग्री गुप्तिकरण उल्टाउने मोड्युलहरू (content decryption modules) तेश्रो पक्ष बाट डाउनलोड गर्छ।">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
