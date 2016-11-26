@@ -12,4 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Cópias e pastas">
 <!ENTITY addressingTab.label    "Editar e endereçar">
 
+<!ENTITY publicData.label        "Dado público">
+<!ENTITY privateData.label       "Dado pessoal">
+<!ENTITY identityAlias.label     "Etiqueta da identidade:">
 <!ENTITY identityAlias.accesskey "b">

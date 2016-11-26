@@ -17,9 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">
 <!ENTITY playSound1.accesskey             "c">
+<!ENTITY playSoundMac.label               "Tocar o arquivo de som:">
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY notificationAlertSettings2.label "Alertas e a notificação sonoras padrão podem ser desativados no Painel de Notificações nas Preferências do Sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
