@@ -109,7 +109,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar as preferências desta extensão">
 <!ENTITY cmd.contribute.label                 "Fazer uma contribuição">
 <!ENTITY cmd.contribute.accesskey             "F">
-<!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento esta extensão">
+<!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento desta extensão">
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
@@ -236,7 +236,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "As seguintes extensões não foram verificados para uso no &brandShortName;. Você pode ">
+<!ENTITY disabledUnsigned.description.start "As seguintes extensões não foram verificadas para uso no &brandShortName;. Você pode ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "localizar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o desenvolvedor peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saber mais sobre os nossos esforços para manter os usuários seguros.">
