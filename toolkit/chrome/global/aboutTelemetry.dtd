@@ -100,6 +100,10 @@ Ping
   Blocages des fils d’exécution
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Piles d’allocations capturées
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Scalaires
 ">
@@ -114,6 +118,10 @@ Ping
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogrammes avec mots-clés
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Évènements
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
