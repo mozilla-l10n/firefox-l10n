@@ -10,10 +10,10 @@
 # live.
 
 
-#define bookmarks_title Ticcraḍ n isebtar
+#define bookmarks_title Ticraḍ n yisebtar
 
 
-#define bookmarks_heading Ticṛaḍ n isebtar
+#define bookmarks_heading Ticṛaḍ n yisebtar
 
 
 #define bookmarks_toolbarfolder Afeggag u&dmawan
