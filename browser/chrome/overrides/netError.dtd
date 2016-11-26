@@ -170,9 +170,9 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY certerror.wrongSystemTime "<p>Não é possível se conectar com segurança a <span id='wrongSystemTime_URL'/> pois seu relógio parece estar com a hora incorreta.</p> <p>Seu computador pensa que é <span id='wrongSystemTime_systemDate'/>, quando deveria ser <span id='wrongSystemTime_actualDate'/>. Para corrigir esse problema, ajuste as configurações de data e hora para os valores corretos.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP 
-Strict Transport Security (HSTS) para indicar que o &brandShortName; deve se conectar 
-a ele apenas de forma segura. Como resultado, não é possível adicionar exceções para este 
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP
+Strict Transport Security (HSTS) para especificar que o &brandShortName; só pode se conectar
+a ele com segurança. Como resultado, não é possível adicionar uma exceção para este
 certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto para a área de transferência">
 
