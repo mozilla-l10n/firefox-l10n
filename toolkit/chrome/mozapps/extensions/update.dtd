@@ -32,7 +32,7 @@ de aplicativos está desativada. Você pode mudar esta definição abaixo.">
 <!ENTITY  installing.top.label            "Recebendo e instalando atualizações das extensões e temas…">
 
 <!ENTITY  noupdates.wizard.title          "Nenhuma extensão compatível encontrada">
-<!ENTITY  noupdates.intro.desc            "O &brandShortName; não encontrou atualizações para
+<!ENTITY  noupdates.intro.desc            "O &brandShortName; não localizou atualizações para
                                            as suas extensões incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Alguns problemas foram encontrados ao tentar localizar atualizações.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; irá verificar periodicamente e informá-lo 

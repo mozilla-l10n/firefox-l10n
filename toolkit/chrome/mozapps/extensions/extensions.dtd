@@ -12,9 +12,9 @@
 <!ENTITY loading.label                        "Carregando…">
 <!ENTITY listEmpty.installed.label            "Não há nenhuma extensão deste tipo instalada">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
-<!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento">
+<!ENTITY listEmpty.recentUpdates.label        "Você não atualizou recentemente nenhuma extensão">
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
-<!ENTITY listEmpty.search.label               "Nenhum complemento encontrado correspondente">
+<!ENTITY listEmpty.search.label               "Não foi possível localizar quaisquer extensões correspondentes">
 <!ENTITY listEmpty.button.label               "Saber mais sobre as extensões">
 <!ENTITY installAddonFromFile.label           "Instalar de um arquivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -237,7 +237,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "As seguintes extensões não foram verificados para uso no &brandShortName;. Você pode ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "procurar substitutos">
+<!ENTITY disabledUnsigned.description.findAddonsLink "localizar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o desenvolvedor peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saber mais sobre os nossos esforços para manter os usuários seguros.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
