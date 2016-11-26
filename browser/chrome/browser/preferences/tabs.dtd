@@ -14,7 +14,7 @@
 <!ENTITY warnOpenManyTabs.label       "Avise-me quando abrir muitas abas que o &brandShortName; pode ficar lento">
 <!ENTITY warnOpenManyTabs.accesskey   "A">
 
-<!ENTITY switchToNewTabs.label        "Ao abrir um link em uma nova aba, carregá-la imediatamente">
+<!ENTITY switchToNewTabs.label        "Quando abrir um link em uma nova aba, alterne para ela imediatamente">
 <!ENTITY switchToNewTabs.accesskey    "o">
 
 <!ENTITY showTabsInTaskbar.label          "Mostrar a visualização das abas na barra de tarefas do Windows">
