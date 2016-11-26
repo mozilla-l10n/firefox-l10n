@@ -67,31 +67,31 @@
 <!ENTITY proxyResolveFailure.title "प्रोक्सी सर्भरको खोजि गर्न असमर्थ भयो/">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्रोक्सी सेटिङ सहि छ भन्ने पक्का गर्नुहोस्।</li> <li>तपाईँको उपकरणमा काम गर्ने डेटा या वाइफाइ जडान छ भन्ने निश्चित गर्नुहोस् <button id='wifi'>Enable Wi-Fi</button> </li> </ul>   ">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्रोक्सी सेटिङ सहि छ भन्ने पक्का गर्नुहोस्।</li> <li>तपाईँको उपकरणमा काम गर्ने डेटा या वाइफाइ जडान छ भन्ने निश्चित गर्नुहोस् <button id='wifi'>Enable Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "यो पृष्‍ठ उचित ढंगले रीडाएरेकटिंग भयन / ">
-<!ENTITY redirectLoop.longDesc " <ul> <li>यो समस्या कहिले काहीँ कुकीजलाई असक्षम अथवा अस्विकार गरिएको कारणले भएको हो </li> </ul> ">
+<!ENTITY redirectLoop.title "यो पृष्‍ठ उचित ढंगले पुनः र्निर्देशित भएन">
+<!ENTITY redirectLoop.longDesc "<ul> <li>यो समस्या कहिले काहीँ कुकीजलाई असक्षम अथवा अस्विकार गरिएको कारणले भएको हो।</li> </ul>">
 
-<!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया ">
+<!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>पक्का भयर जचनू की तपै को सिस्टमले  Personal Security Manager install  गरे को छ</li> <li>सरवरमा नॉन-स्टेन्डर्ड कॉन्फिग्रेसन को कारण ले यो भय को हुन सक्छ </li> </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
 <!ENTITY nssFailure2.longDesc2 "<ul>  <li>प्राप्त गरेको तथ्याङ्कको प्रमाणीकरण गर्न नसकेको हुँदा तपाईँले हेर्न खोजिरहनुभएको पृष्ठ देखाउन सकिएन।</li> <li>कृपया वेबसाइट मालिकलाई यो समस्याको बारेमा जानकारी गराउनुहोस्।</li> </ul>">
 
-<!ENTITY nssBadCert.title "सुरक्षित जडान असफल भयो ">
+<!ENTITY nssBadCert.title "सुरक्षित जडान असफल भयो">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>यो सर्भरको व्यवस्थासँगको समस्या हुनसक्छ, वा कोहि अरुले सर्भरको नकल गरिरहेको हुन सक्छ।</li> <li>यदि तपाईँले पहिला सफलतापूर्वक यो सर्भरसँग जडान गरिसक्नुभएको छ भने यो समस्या अस्थायी हुनसक्छ र तपाईँले केहि समयपछि पुनः प्रयास गर्न सक्नुहुन्छ।</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> <li>यो साइट अस्थायी अनुपलब्ध अथवा धेरै व्यस्त भएको हुन सक्छ। केही समय मा पुनः प्रयास गर्नुहोला</li> <li>यदि तपाईँले कुनै पृष्ठ लोड गर्न सक्नु भएन भने, तपाईँको साधनको डाटा अथवा वाई-फाई जड़ान जाँच गर्नुहोस्। <button id='wifi'>Wi-Fi सक्षम गर्नुहोस</button> </li> </ul>">
 
-<!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध ">
+<!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
 
 <!ENTITY corruptedContentErrorv2.title "भ्रष्ट सामग्री त्रुटि">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>डाटा प्रसारणमा खराबी भएको पत्ता लागेकाले तपाईँले हेर्न खोज्नु भएको पृष्ठ देखाउन मिलेन। </p><ul><li>कृपया वेब मास्टरलाई यस खराबीको बारेमा जानकारी दिन सम्पर्क गर्नुहोला।</li></ul>">
 
-<!ENTITY securityOverride.linkText "वा तपाईँले अपवाद थप्न सक्नुहुन्छ... ">
+<!ENTITY securityOverride.linkText "वा तपाईँले अपवाद थप्न सक्नुहुन्छ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद थप्नुहोस्...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -100,20 +100,20 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>यदि यो इन्टरनेट जडानमा तपाईँलाई पूर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
+<!ENTITY securityOverride.warningContent "<p>यदि यो इन्टरनेट जडानमा तपाईँलाई पूर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "दूर XUL ">
+<!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
 
 <!ENTITY sslv3Used.title "सुरक्षित जडान गर्न असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION ">
+<!ENTITY sslv3Used.longDesc "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "तपाईँको जडान सुरक्षित छैन ">
+<!ENTITY weakCryptoUsed.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP ">
+<!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

@@ -5,13 +5,13 @@
 <!ENTITY firstrun_panel_title_welcome "स्वागतम्">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
-<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझाव सर्टकटहरू प्रयोग गरि सामाग्रीहरू छिटो पत्ता लगाउनुहोस् .">
+<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझाव सर्टकटहरू प्रयोग गरि सामाग्रीहरू छिटो पत्ता लगाउनुहोस्।">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
-<!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र.">
+<!ENTITY firstrun_bookmarks_message "तपाईँको मन पर्ने, अगाडि र केन्द्र।">
 <!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको पुस्तकचिनो र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
 <!ENTITY firstrun_data_title "डाटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
-<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
+<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
 <!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, गोप्यशब्द र अरू सबै समक्रमण गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
@@ -649,7 +649,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ।">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ।">
-<!ENTITY mixed_content_display_loaded1 "पेजका यी भागहरू सुरक्षित छैन (जस्तै कि फोटो)।">
+<!ENTITY mixed_content_display_loaded1 "पेजका यी भागहरू सुरक्षित छैन (जस्तै फोटो)।">
 <!ENTITY mixed_content_protection_disabled1 "तपाईँले असुरक्षित सामग्रीबाट सुरक्षा बन्द गर्नुभयो।">
 <!-- Tracking content notifications in site identity popup -->
 
