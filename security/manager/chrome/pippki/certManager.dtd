@@ -53,8 +53,8 @@
 
 <!ENTITY certmgr.close.label                  "बन्द">
 <!ENTITY certmgr.close.accesskey              "ब">
-<!ENTITY certmgr.view2.label                  "हेर्नुहोस्…">
-<!ENTITY certmgr.view2.accesskey              "ह">
+<!ENTITY certmgr.view2.label                  "दृश्य…">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "विश्वास सम्पादन गर्नुहोस्...">
 <!ENTITY certmgr.edit3.accesskey              "व">
 <!ENTITY certmgr.export.label                 "निर्यात गर्नुहोस्...">

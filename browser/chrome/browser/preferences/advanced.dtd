@@ -70,7 +70,7 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "अहिले खाली गर्नुहोस्">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "स्वचालित क्याच संचालनलाई अोवरराड गर्नुहोस्">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित क्याच संचालनलाई अोवरराईड गर्नुहोस्">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "अद्यावधिक">

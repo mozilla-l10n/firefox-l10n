@@ -26,8 +26,8 @@
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्र जाँच गर्नुहोस्">
 <!-- Strings for the SSL client auth ask dialog -->
 
-<!ENTITY clientAuthAsk.title "प्रयोगकर्ता परिचय आग्रह">
-<!ENTITY clientAuthAsk.message1 "साइटले तपाईँ आफूलाई एउटा प्रमाणपत्र सहित पहिचान दिन आग्रह गरेको छ:">
+<!ENTITY clientAuthAsk.title "प्रयोगकर्ता पहिचान अनुरोध">
+<!ENTITY clientAuthAsk.message1 "यो साइटले तपाईलाई आफूलाई एउटा प्रमाणपत्र सहित पहिचान गर्न आग्रह गरेको छ।">
 <!ENTITY clientAuthAsk.message2 "पहिचानका रुपमा प्रस्तुत गर्न एउटा प्रमाणपत्र छनोट गर्नुहोस्:">
 
 
