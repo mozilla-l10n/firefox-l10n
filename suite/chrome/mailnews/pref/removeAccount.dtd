@@ -7,6 +7,7 @@
 <!ENTITY removeButton.accesskey       "S">
 <!ENTITY removeAccount.label          "Supprimer les données du compte">
 <!ENTITY removeAccount.accesskey      "c">
+<!ENTITY removeAccount.desc           "Supprime les données du compte connues par &brandShortName;. Cette action n’affecte pas le compte qui se trouve sur le serveur.">
 <!ENTITY removeData.label             "Supprimer les données des messages">
 <!ENTITY removeData.accesskey         "m">
 <!ENTITY removeDataLocalAccount.desc  "Supprime du disque local tous les messages et les filtres associés à ce compte. Cette action n’affecte pas certains messages qui resteront sur le serveur. N’effectuez pas cette action si vous prévoyez d’archiver les données locales ou de les réutiliser plus tard dans &brandShortName;.">
