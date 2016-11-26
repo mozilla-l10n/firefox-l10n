@@ -14,7 +14,7 @@
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैँ तपाईँको पक्षमा">
-<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड र अरु सबै समक्रमण गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
+<!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, गोप्यशब्द र अरू सबै समक्रमण गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जोडिनुहोस्, सुरु हुनुहोस्">
 <!ENTITY firstrun_signin_button "Sync मा साइन इन गर्नुहोस">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस">
@@ -178,7 +178,7 @@
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; बारे, सोधिने प्रश्न, सुझाव">
 <!ENTITY pref_category_datareporting "डाटा विकल्पहरू">
 <!ENTITY pref_category_logins "लग-इनहरू">
-<!ENTITY pref_learn_more "अझै जान्नुहोस्">
+<!ENTITY pref_learn_more "अझ जान्नुहोस्">
 <!ENTITY pref_category_installed_search_engines "स्थापित खोज इन्जिनहरू">
 <!ENTITY pref_category_add_search_providers "अरू खोज प्रदायकहरू थप्नुहोस्">
 <!ENTITY pref_category_search_restore_defaults "खोज इन्जिनहरू पुनः स्थापना गर्नुहोस्">
@@ -379,7 +379,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled "QR कोड रिडर">
 <!ENTITY pref_qrcode_enabled_summary2 "QR कोड रिडरलाई URL बारमा रहन दिनुहोस्">
 
-<!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
+<!ENTITY pref_use_master_password "मुल गोप्यशब्द प्रयोग गर्नुहोस्">
 <!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "ट्याबहरू, पुस्तकचीनोहरू, लग-ईनहरू, र ईतिहासहरू Sync गर्नुहोस्">
 <!ENTITY pref_search_suggestions "खोजी सुझावहरू देखाउनुहोस्">
@@ -514,14 +514,14 @@ size. -->
 <!ENTITY doorhanger_login_no_username "[प्रयोगकर्ता नाम छैन]">
 <!ENTITY doorhanger_login_edit_title "लगइन सम्पादन गर्नुहोस्">
 <!ENTITY doorhanger_login_edit_username_hint "प्रयोगकर्ता नाम">
-<!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
-<!ENTITY doorhanger_login_edit_toggle "पासवर्ड देखाउनुहोस्">
+<!ENTITY doorhanger_login_edit_password_hint "गोप्यशब्द">
+<!ENTITY doorhanger_login_edit_toggle "गोप्यशब्द देखाउनुहोस्">
 <!ENTITY doorhanger_login_edit_toast_error "लग-इन बचत गर्न असफल भयो">
-<!ENTITY doorhanger_login_select_message "पासवर्ड &formatS; बाट कपी गर्ने?">
+<!ENTITY doorhanger_login_select_message "गोप्यशब्द &formatS; बाट प्रतिलिपि गर्न चाहनुहुन्छ?">
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो">
-<!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
+<!ENTITY doorhanger_login_select_toast_copy_error "गोप्यशब्द प्रतिलिपि गर्न सकिएन">
 <!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
-<!ENTITY doorhanger_login_select_title "बाट पासवर्ड सार्नुहोस्">
+<!ENTITY doorhanger_login_select_title "बाट गोप्यशब्द प्रतिलिपि गर्नुहोस्">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -556,10 +556,10 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "थप कृयाकलापहरू">
 
-<!ENTITY masterpassword_create_title "मुख्य पासवर्ड सिर्जना गर्नुहोस्">
-<!ENTITY masterpassword_remove_title "मुख्य पासवर्ड मेटाउनुहोस्">
-<!ENTITY masterpassword_password "पासवर्ड">
-<!ENTITY masterpassword_confirm "पासवर्ड पुष्टि गर्नुहोस्">
+<!ENTITY masterpassword_create_title "मुल गोप्यशब्द सिर्जना गर्नुहोस्">
+<!ENTITY masterpassword_remove_title "मुल गोप्यशब्द मेटाउनुहोस्">
+<!ENTITY masterpassword_password "गोप्यशब्द">
+<!ENTITY masterpassword_confirm "गोप्यशब्द पुष्टि गर्नुहोस्">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "रद्द गर्नुहोस्">
@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "यो पृष्ठमा तपाईँको ब्राउजिङ ट्र्याक गर्न सक्ने तत्वहरू रहेका छन्।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
-<!ENTITY learn_more "अझै जान्नुहोस्">
+<!ENTITY learn_more "अझ जान्नुहोस्">
 <!ENTITY enable_protection "सुरक्षा सुचारु गर्नुहोस्">
 <!ENTITY disable_protection "सुरक्षा बन्द गर्नुहोस्">
 
