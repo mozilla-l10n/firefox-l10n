@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्">
-<!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
+<!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
 <!ENTITY urlbar.screenBlocked.tooltip            "तपाईँ आफ्नो स्क्रीन साझेदारी देखि यो वेबसाइट अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउने">
@@ -290,7 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s सञ्झ्याल">
 
-<!ENTITY editMenu.label         "परिमार्जित गर्नुहोस्"> 
+<!ENTITY editMenu.label         "सम्पादन गर्नुहोस्"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "पूर्वस्थिति">  
 <!ENTITY undoCmd.key            "Z">  
@@ -673,8 +673,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "पप्अप बाधकको अभिरुची परिमार्जित गर्नुहोस्">
-<!ENTITY editPopupSettings.label "पप्अप बाधकको विकल्पहरू परिमार्जित गर्नुहोस्">
+<!ENTITY editPopupSettingsUnix.label "पप्अप बाधकको अभिरुची सम्पादन गर्नुहोस्">
+<!ENTITY editPopupSettings.label "पप्अप बाधकको विकल्पहरू सम्पादन गर्नुहोस्">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -724,7 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन। ">
 <!ENTITY identity.description.activeLoaded2 "तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
 
-<!ENTITY identity.enableMixedContentBlocking.label "इमेल सुरक्षा">
+<!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्षम">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "सुरक्षा खारेज गर्नुहोस्">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
