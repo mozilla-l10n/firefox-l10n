@@ -66,8 +66,8 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ले:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "इतिहास स्मझिने">
-<!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिने">
+<!ENTITY  historyHeader.remember.label     "इतिहास सम्झिनुहोस्">
+<!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिनुहोस्">
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
 <!ENTITY  historyHeader.post.label         "‌">
 

@@ -31,7 +31,7 @@
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting सूचना">
+<!ENTITY helpTroubleshootingInfo.label      "समस्या समाधानको सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिनुहोस्…">

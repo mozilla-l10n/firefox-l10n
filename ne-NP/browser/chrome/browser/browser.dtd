@@ -358,7 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैनन्">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब सिङ्क कार्य सुरु गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -573,9 +573,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "म्यूट">
+<!ENTITY mediaMute.label             "आवाज बन्द गर्नुहोस्">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "अन म्यूट ">
+<!ENTITY mediaUnmute.label           "आवाज आउने बनाउनुहोस्">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "बजाउने गति">
 <!ENTITY mediaPlaybackRate2.accesskey "d">

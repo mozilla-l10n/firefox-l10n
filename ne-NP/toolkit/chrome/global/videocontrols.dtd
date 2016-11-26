@@ -4,8 +4,8 @@
 
 <!ENTITY playButton.playLabel "प्ले">
 <!ENTITY playButton.pauseLabel "रोक्नुहोस्">
-<!ENTITY muteButton.muteLabel "म्यूट">
-<!ENTITY muteButton.unmuteLabel "अन म्यूट">
+<!ENTITY muteButton.muteLabel "आवाज बन्द गर्नुहोस्">
+<!ENTITY muteButton.unmuteLabel "आवाज आउने बनाउनुहोस्">
 <!ENTITY fullscreenButton.enterfullscreenlabel "पूरा पर्दा">
 <!ENTITY fullscreenButton.exitfullscreenlabel "पूरा पर्दा बन्द जानुहोस्">
 <!ENTITY castingButton.castingLabel "स्क्रिनमा कास्ट गर्नुहोस्">
