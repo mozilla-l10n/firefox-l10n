@@ -35,7 +35,7 @@
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label                "Bloco de rascunho">
-<!ENTITY scratchpad.accesskey            "S">
+<!ENTITY scratchpad.accesskey            "s">
 <!ENTITY scratchpad.keycode              "VK_F4">
 <!ENTITY scratchpad.keytext              "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
