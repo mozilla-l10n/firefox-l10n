@@ -57,6 +57,9 @@
 
 <!ENTITY offlineStorage2.label           "Contenu web et données utilisateur hors connexion">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label           "Données des sites">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
