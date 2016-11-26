@@ -15,7 +15,7 @@
 <!ENTITY colorGroup.label "रंग:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "रङ्ग">
+<!ENTITY colorRadio.label "रङ">
 <!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "पानाक छेउबाट मार्जिन सम्म">

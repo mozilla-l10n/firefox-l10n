@@ -549,7 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "लिङ्कको स्थान नकल गर्नुहोस्">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "तस्विर स्थान प्रतिलिपि गर्नुहोस्">
+<!ENTITY copyImageCmd.label           "तस्बिरको स्थान प्रतिलिपि गर्नुहोस्">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "त्सविर नकल गर्नुहोस्">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
