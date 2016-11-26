@@ -165,6 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Modifier la disponibilité (disponible/occupé)">
 
 <!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Appliquer la proposition">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip                  "Appliquer au formulaire les données proposées">
+<!ENTITY counter.button.original.label                    "Appliquer les données originales">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Appliquer au formulaire les données originales.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titre :" >
