@@ -771,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
-<!ENTITY syncBrand.shortName.label    "समक्रमण">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मा साइन इन गर्नुहोस…">
 <!ENTITY syncSignIn.accesskey         "Y">

@@ -18,11 +18,11 @@
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "गोप्यशब्द परिवर्तन गर्नुहोस्...">
 <!ENTITY myRecoveryKey.label          "मेरो पुनर्स्थापना साँचो">
-<!ENTITY resetSync2.label             "समक्रमण पुनढाँचा...">
+<!ENTITY resetSync2.label             "Reset Sync...">
 
 <!ENTITY pairDevice.label             "साधनसँग सम्बन्धन कायम गर्नुहोस्">
 
-<!ENTITY syncMy.label               "मेरो समक्रमण">
+<!ENTITY syncMy.label               "मेरो Sync">
 <!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ट्याबहरू">
@@ -88,7 +88,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
 <!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
 
-<!ENTITY welcome.useOldSync.label "समक्रमणको पुरानो संस्करण प्रयोग गरिँदै छ ?">
+<!ENTITY welcome.useOldSync.label "Syncको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
 
 <!ENTITY signedOut.caption            "तपाईँको वेब अाफु साथै लैजानुहोस">
 <!ENTITY signedOut.description        "सबै उपकरणहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरु, एडअनहरु, र प्राथमिकताहरू समक्रमण गर्नुहोस्।">
