@@ -137,7 +137,7 @@
 <!ENTITY detail.updateDefault.tooltip         "यदि पूर्वनिर्धारित हो भने मात्र अद्यावधिहरू स्वतः स्थापना गर्नुहोस्">
 <!ENTITY detail.updateAutomatic.label         "खुल्ला">
 <!ENTITY detail.updateAutomatic.tooltip       "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस्">
-<!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
+<!ENTITY detail.updateManual.label            "बन्द गर्नुहोस्">
 <!ENTITY detail.updateManual.tooltip          "स्वचालित अद्यावधिक स्थापना नगर्नुहोस्">
 <!ENTITY detail.home                          "गृहपृष्ठ">
 <!ENTITY detail.repository                    "एड-अन प्रोफाइल">

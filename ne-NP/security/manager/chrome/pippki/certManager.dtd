@@ -49,7 +49,7 @@
 <!ENTITY certmgr.begins                       "सुरु">
 <!ENTITY certmgr.expires                      "समाप्त">
 <!ENTITY certmgr.email                        "इमेल ठेगाना">
-<!ENTITY certmgr.serial                       "क्रम संख्या">
+<!ENTITY certmgr.serial                       "क्रम सङ्ख्या">
 
 <!ENTITY certmgr.close.label                  "बन्द">
 <!ENTITY certmgr.close.accesskey              "ब">

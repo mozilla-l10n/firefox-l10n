@@ -20,7 +20,7 @@
 
 <!ENTITY  chooseHandlerMac.label      "छान्नुहोस्…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "ब्राउज…">
+<!ENTITY  chooseHandler.label         "ब्राउज गर्नुहोस्...">
 <!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "के तपाईँ यो फाइल सङ्ग्रह गर्न चाहनुहुन्छ?">

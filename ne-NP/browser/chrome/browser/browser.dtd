@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निजी ब्राउजिङ)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निजी ब्राउजिङ्ग)">
 
 <!ENTITY appmenu.tooltip                     "मेनु खाेल्नुहोस्">
 <!ENTITY navbarOverflow.label                "अरु सामग्रीहरू...">
@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सबै ट्याबहरू पुनः लोड गर्नुहोस्">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सब ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सबै ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
+<!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्">
 <!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -511,7 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रूपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
+<!ENTITY bookmarkPageCmd2.label       "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्">
 <!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कलाई पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यो फ्रेमलाई पुस्तकचिनो हाल्नुहोस्">
@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "प्रतिलिपि गर्नुहोस्">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "S">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "अहिले अनुमति दिनुहोस्">
+<!ENTITY pluginActivateNow.label "अहिले नै अनुमति दिनुहोस्">
 <!ENTITY pluginActivateAlways.label "अनुमति दिनुहोस् र सम्झिनुहोस्">
 <!ENTITY pluginBlockNow.label "प्लगिनलाई बाधा गर्नुहोस्">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
