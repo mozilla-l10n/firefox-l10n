@@ -17,8 +17,8 @@
 <!ENTITY tabCrashed.offerHelp "Podemos ajudá-lo!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a página.">
-<!ENTITY tabCrashed.requestHelp "Você vai nos ajudar?">
-<!ENTITY tabCrashed.requestHelpMessage "Os relatórios de travamento nos ajudarão a diagnosticar os problemas e a fazer o &brandShortName; melhor.">
+<!ENTITY tabCrashed.requestHelp "Você nos ajudará?">
+<!ENTITY tabCrashed.requestHelpMessage "Os relatórios de travamento nos ajudam a diagnosticar problemas e a fazer o &brandShortName; melhor.">
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
 <!ENTITY tabCrashed.sendReport2 "Enviar um relatório do travamento da aba que está vendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários serão visíveis publicamente)">
@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Entrar com seu endereço de e-mail aqui">
 <!ENTITY tabCrashed.emailMe "Me envie um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
-<!ENTITY tabCrashed.requestAutoSubmit "Requisitar abas em segundo plano">
+<!ENTITY tabCrashed.requestAutoSubmit "Solicitar abas em segundo plano">
 <!ENTITY tabCrashed.autoSubmit "Atualizar as preferências para enviar relatórios de travamentos atrasados automaticamente (e receber menos mensagens nossa como estas no futuro)">
