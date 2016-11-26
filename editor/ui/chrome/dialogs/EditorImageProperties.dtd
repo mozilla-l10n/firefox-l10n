@@ -13,10 +13,10 @@
 <!ENTITY locationEditField.label "URL de l’image">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Taper le nom de fichier et l’emplacement de l’image">
+<!ENTITY locationEditField.shortenedDataURI "Données URI raccourcies (copier placera l’URI complète dans le presse-papiers)">
 <!ENTITY title.label "Infobulle :">
 <!ENTITY title.accessKey "I">
 <!ENTITY title.tooltip "L’attribut HTML « title » qui apparaît dans une infobulle">
-
 <!ENTITY altText.label "Texte de remplacement :">
 <!ENTITY altText.accessKey "T">
 <!ENTITY altTextEditField.tooltip "Taper le texte à mettre à la place de l’image">
