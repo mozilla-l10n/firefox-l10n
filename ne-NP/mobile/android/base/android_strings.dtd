@@ -51,11 +51,11 @@
 <!ENTITY  tab_offline_version "अफलाइन संस्करण देखाइदै">
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रयास रिपोर्टर">
-<!ENTITY  crash_message2 "&brandShortName; मा समस्या थियो त्यसैले क्र्यास भयो। जब तपाईं &brandShortName; पुनः सुरु गर्नुहुन्छ, तपाईँको ट्याबहरू गृह पृष्ठमा सूचीकृत हुनेछ।">
+<!ENTITY  crash_message2 "&brandShortName; मा समस्या थियो त्यसैले क्र्यास भयो। जब तपाईं &brandShortName; पुनः सुरु गर्नुहुन्छ, तपाईँको ट्याबहरू गृह पृष्ठमा सूचीकृत हुनेछन्।">
 <!ENTITY  crash_send_report_message3 "यो क्रयासको बारेमा &vendorShortName; लाई भन्नुहोस् ताकि उनीहरूले यसलाई समाधान गर्न सकुन">
 <!ENTITY  crash_include_url2 "म भएको पृष्ठको ठेगाना समेट्नुहोस्">
 <!ENTITY  crash_sorry "हामी क्षमा चाहन्छौ">
-<!ENTITY  crash_comment "टिप्पणी थप्नुहोस् (टिप्पणीहरू सार्वजनिक रूपमा देखिने छ)">
+<!ENTITY  crash_comment "टिप्पणी थप्नुहोस् (टिप्पणीहरू सार्वजनिक रूपमा देखिने छन्)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; लाई यो प्रतिवेदनको बारेमा मलाई सम्पर्क गर्न अनुमति दिन्छु">
 <!ENTITY  crash_email "तपाईँको इमेल">
 <!ENTITY  crash_closing_alert "क्रयासको रिपोर्ट नपठाइ बाहिर निस्किने?">
@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "सुझाव: खोज क्षेत्र मा धेरैबेरथिचेर खोज प्रदायकहरूको सूचीमा कुनै पनि वेबसाइट थप्नुहोस् अनि त्यसपछि &formatI; अाइकनमा थिच्नुहोस्।">
+<!ENTITY pref_search_hint2 "सुझाव: खोज क्षेत्रमा धेरै समय थिचेर खोज प्रदायकहरूको सूचीमा कुनै पनि वेबसाइट थप्नुहोस् अनि त्यसपछि &formatI; अाइकनमा थिच्नुहोस्।">
 <!ENTITY pref_category_advanced "उन्नत">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -205,7 +205,7 @@
 <!ENTITY pref_remember_signons2 "लगइनहरू सम्झनुहोस्">
 <!ENTITY pref_manage_logins "लगइनहरू व्यवस्थापन गर्नुहोस्">
 
-<!ENTITY pref_category_home "गृह">
+<!ENTITY pref_category_home "गृहपृष्ठ">
 <!ENTITY pref_category_home_summary "आफ्नो गृहपृष्ठ अनुकुलन गर्नुहोस्">
 <!ENTITY pref_category_home_panels "प्यानलहरू">
 <!ENTITY pref_category_home_add_ons "एडअनहरू">
