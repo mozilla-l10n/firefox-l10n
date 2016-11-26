@@ -72,7 +72,7 @@
 <!ENTITY  securityView.identity.header   "Identidade do site">
 <!ENTITY  securityView.identity.owner    "Proprietário:">
 <!ENTITY  securityView.identity.domain   "Site:">
-<!ENTITY  securityView.identity.verifier "Homologada por:">
+<!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
 <!ENTITY  securityView.privacy.history                  "Este site foi visitado anteriormente?">
