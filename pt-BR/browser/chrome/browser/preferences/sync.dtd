@@ -34,7 +34,7 @@
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Extensões">
-<!ENTITY engine.addons.accesskey    "C">
+<!ENTITY engine.addons.accesskey    "x">
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nome do dispositivo:">
@@ -90,7 +90,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
 
-<!ENTITY signedOut.caption            "Leve a sua web com você">
+<!ENTITY signedOut.caption            "Leve a web com você">
 <!ENTITY signedOut.description        "Sincronizar seus favoritos, histórico, abas, senhas, extensões e preferências entre os seus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conectar com uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
