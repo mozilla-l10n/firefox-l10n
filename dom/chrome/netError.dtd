@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prohlížeč nebyl schopen navázat spojení.</p><ul><li>Server může být dočasně nedostupný; Opakujte akci později.</li><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení počítače.</li><li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte jejich nastavení.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Omezení přístupu na port">
-<!ENTITY deniedPortAccess.longDesc "<p>V požadované adrese (URL) byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se normálně používá pro <em>jiné</em> Internetové služby než prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>V požadované adrese (URL) byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se obvykle používá pro <em>jiné</em> Internetové služby než je prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nenalezena">
 <!ENTITY dnsNotFound.longDesc "<p>Adresa (URL) neodpovídá známému serveru a nelze ji načíst.</p><ul><li>Zkontrolujte prosím, zda je adresa napsána správně, a to včetně velikosti písmen.</li><li>Je možné, že server již neexistuje.</li><li>Tato chyba může být také způsobena problémy ve vaší místní síti, proxy serverem či DNS serverem.</li></ul>">
