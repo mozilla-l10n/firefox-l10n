@@ -37,7 +37,7 @@
 
 
 
-<!ENTITY runtimeMenu_showMonitor_label "मनिटर">
+<!ENTITY runtimeMenu_showMonitor_label "मोनिटर">
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राथमिकताहरू">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">

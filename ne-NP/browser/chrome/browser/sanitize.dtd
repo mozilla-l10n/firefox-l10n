@@ -54,11 +54,11 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "कुकिज">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "केच ">
+<!ENTITY itemCache.label                   "क्यास">
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "अफलाइन वेबसाइट डाटा">
 <!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemActiveLogins.label            "सक्रिय लगइनहरू">
+<!ENTITY itemActiveLogins.label            "सक्रिय .लग-इनहरू">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "साइट प्राथमिकताहरू">
 <!ENTITY itemSitePreferences.accesskey     "S">

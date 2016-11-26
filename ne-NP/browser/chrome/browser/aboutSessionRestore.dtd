@@ -18,7 +18,7 @@
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "पूर्वावस्थामा ल्याउनुहोस्">
-<!ENTITY restorepage.listHeader     "संझ्याल तथा ट्याबहरू">
+<!ENTITY restorepage.listHeader     "सञ्झ्याल तथा ट्याबहरू">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -26,7 +26,7 @@
 
 
 
-<!ENTITY welcomeback2.restoreButton  "जाऔँ !">
+<!ENTITY welcomeback2.restoreButton  "जाऔँ!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "सफलता!">

@@ -106,7 +106,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "कन्टेनर ट्याबहरू">
-<!ENTITY  browserContainersLearnMore.label      "अझै जान्नुहोस्">
+<!ENTITY  browserContainersLearnMore.label      "अझ जान्नुहोस्">
 <!ENTITY  browserContainersEnabled.label        "कन्टेनर ट्याबहरू सकृय गर्नुहोस्">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "सेटिङहरू…">

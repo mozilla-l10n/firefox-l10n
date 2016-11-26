@@ -125,7 +125,7 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
-<!ENTITY detail.lastupdated.label             "अन्तिम अद्यावधिक">
+<!ENTITY detail.lastupdated.label             "अन्तिममा अद्यावधिक भएको">
 <!ENTITY detail.creator.label                 "बिकासकर्ता">
 <!ENTITY detail.homepage.label                "गृहपृष्ठ">
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
