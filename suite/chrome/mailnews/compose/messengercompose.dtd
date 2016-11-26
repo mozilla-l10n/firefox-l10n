@@ -94,8 +94,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "e">
 <!ENTITY htmlFormatCmd.label "Apenas formatação HTML">
 <!ENTITY htmlFormatCmd.accesskey "f">
-<!ENTITY bothFormatCmd.label "Ambos os formatos">
-<!ENTITY bothFormatCmd.accesskey "A">
+<!ENTITY bothFormatCmd.label "Texto simples e rico (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
 
 <!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
