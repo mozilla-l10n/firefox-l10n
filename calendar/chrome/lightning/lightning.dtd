@@ -51,6 +51,7 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Recusar todos">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Recusar convite do evento para todas as ocorrências do evento">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Recusar">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Recusar a sugestão">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Excluir">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Excluir do calendário">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes…">
