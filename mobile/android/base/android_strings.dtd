@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "Välkommen">
 
 <!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslags genvägar.">
+<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälp av sökförslagsgenvägar.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Dina favoriter, där dom är mest viktiga">
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
@@ -36,9 +36,9 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Du">
-<!ENTITY firstrun_account_message "Har &brandShortName; på annan enhet?">
+<!ENTITY firstrun_account_message "Har du &brandShortName; på annan enhet?">
 
-<!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Håll dig säker och i kontroll med denna förenklade version av &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -531,9 +531,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Fullskärmssurfning">
-<!ENTITY pref_scroll_title_bar_summary2 "Dölj &brandShortName; verktygsfältet när du bläddrar ner en sida">
+<!ENTITY pref_scroll_title_bar_summary2 "Dölj verktygsfältet i &brandShortName; när du bläddrar ner en sida">
 
-<!ENTITY pref_tab_queue_title3 "Flik köad">
+<!ENTITY pref_tab_queue_title3 "Köade flikar">
 <!ENTITY pref_tab_queue_summary4 "Spara länkar tills nästa gång du öppnar &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -715,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; startas om">
 <!ENTITY new_guest_session_text2 "Personen som använder den kommer inte att kunna se något av din personliga webbläsardata (såsom sparade lösenord, historik eller bokmärken).\n\nNär gästen är klar kommer dess webbläsardata att raderas och din session att återupptas.">
-<!ENTITY guest_browsing_notification_title "Gäst surfning är aktiverat">
+<!ENTITY guest_browsing_notification_title "Gästsurfning är aktiverat">
 <!ENTITY guest_browsing_notification_text "Tryck för att avsluta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; kommer nu startas om">
