@@ -5,7 +5,7 @@
 <!ENTITY header.label     "संक्षिप्त शीर्षक"> 
 <!ENTITY message.label    "केही नमुना पाठ यहाँ छन्।">
 <!ENTITY editfield0.label "प्रयोगकर्ता नाम:"> 
-<!ENTITY editfield1.label "पासवर्ड:"> 
+<!ENTITY editfield1.label "गोप्यशब्द:"> 
 <!ENTITY checkbox.label   "जाँच्नुहोस्">
 <!ENTITY copyCmd.label    "प्रतिलिपि बनाउनुहोस्">
 <!ENTITY copyCmd.accesskey "C">

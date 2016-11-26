@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; का बारेमा">
+<!ENTITY aboutDialog.title          "&brandFullName;का बारेमा">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "अद्यावधिक जाँच गर्नुहोस्">
+<!ENTITY update.checkForUpdatesButton.label       "अद्यावधिकका लागि जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "&brandShortName; अद्यावधिक गर्न पुनः सुचारू गर्नुहोस्">
 <!ENTITY update.updateButton.accesskey            "R">
@@ -17,18 +17,18 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; परीक्षणमा रहेको छ र अस्थिर हुन सक्छ।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "यसले &brandShortName;लाई राम्रो बनाउनको निम्ति कार्य सम्पादन, हार्डवयर, उपयोग र अनुकूलनहरूको जानकारी स्वचालित तरिकाले &vendorShortName;लाई फर्काउँछ।">
+<!ENTITY warningDesc.telemetryDesc  "यसले &brandShortName;लाई राम्रो बनाउनको निम्ति कार्य सम्पादन, हार्डवयर, उपयोग र अनुकूलनहरूको जानकारी स्वचालित तरिकाले &vendorShortName;लाई पठाउँछ।">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "‍">
+<!ENTITY community.exp.start        "‍ ">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " एउटा ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "विश्वव्यापी समुदाय">
-<!ENTITY community.exp.end          " वेबलाई खुल्ला, र सबै सम्म पहुँच पुर्‍याउन लागि सहकार्यमा काम गर्दै।">
+<!ENTITY community.exp.end          " वेबलाई खुल्ला,सार्वजनिक र सबै समक्ष पहुँच पुर्‍याउन लागि सहकार्यमा काम गर्दै।">
 
-<!ENTITY community.start2           "&brandShortName; को परिकल्पनाकार ">
+<!ENTITY community.start2           "&brandShortName; द्वारा बनाईयको">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एउटा ">
@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरु अद्यावधिकहरू गर्न सक्नुहुन्न । ">
+<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरु अद्यावधिकहरू गर्न सक्नुहुन्न।">
 <!ENTITY update.unsupported.linkText "अझै जान्नुहोस्">
 <!ENTITY update.unsupported.end      "‍">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -105,4 +105,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "तपाईँ अहिले भएको स्थान ">
-<!ENTITY channel.description.end    " अद्यावधिक प्रणालीमा हुनुहुन्छ। ">
+<!ENTITY channel.description.end    " अद्यावधिक प्रणालीमा हुनुहुन्छ।">

@@ -29,7 +29,7 @@
 
 <!ENTITY fillLoginMenu.label          "लगइन भर्नुहोस्">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "पासवर्ड भर्ने">
+<!ENTITY fillPasswordMenu.label       "गोप्यशब्द भर्नुहोस्">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "प्रयोगकर्ता नाम भर्नुहोस्">
 <!ENTITY fillUsernameMenu.accesskey   "F">

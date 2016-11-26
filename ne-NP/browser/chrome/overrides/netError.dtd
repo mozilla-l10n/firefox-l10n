@@ -59,7 +59,7 @@
 <!ENTITY netTimeout.title "यो जडानको समय समाप्त भएको छ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "यो ठेगाना बुझिएको थिएन">
+<!ENTITY unknownProtocolFound.title "यो ठेगाना बुझिएन">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>यो ठेगाना खोल्नको लागि तपाईँले अर्को सफ्टवेयर स्थापना गर्नुपर्ने हुनसक्छ।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "प्रोक्सी सर्भरले जडान हुन मानेको छैन">

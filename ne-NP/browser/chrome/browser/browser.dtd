@@ -211,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थान अनुरोध प्यानल खोल">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "एडअन स्थापना सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "अफलाइन सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "पासवर्ड सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
@@ -713,7 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ ।">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
+<!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
 <!ENTITY identity.description.insecureLoginForms "तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!ENTITY identity.description.weakCipher "यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन ।">
 <!ENTITY identity.description.weakCipher2 "अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन् र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन् ।">
@@ -722,7 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "यो वेबसाइटमा सामग्री जुन सुरक्षित छैन( जस्तै तस्विरहरू)।">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन् ।">
 <!ENTITY identity.description.activeLoaded "यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन। ">
-<!ENTITY identity.description.activeLoaded2 "तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
+<!ENTITY identity.description.activeLoaded2 "तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
 
 <!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्षम">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">

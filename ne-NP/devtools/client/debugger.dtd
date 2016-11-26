@@ -164,7 +164,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-<!ENTITY debuggerUI.tabs.workers        "कामदारहरू">
+<!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "स्रोतहरू">
 <!ENTITY debuggerUI.tabs.traces         "निशानहरू">
 <!ENTITY debuggerUI.tabs.callstack      "कल स्ट्याक">
