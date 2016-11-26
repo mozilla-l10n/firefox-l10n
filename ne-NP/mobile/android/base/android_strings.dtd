@@ -171,7 +171,7 @@
 <!ENTITY pref_category_search3 "खोजी गर्नुहोस्">
 <!ENTITY pref_category_search_summary2 "थप्नुहोस्, पूर्वनिर्धारित राख्नुहोस्, सुझाब देखाउनुहोस्">
 <!ENTITY pref_category_accessibility "पहुँचता">
-<!ENTITY pref_category_accessibility_summary2 "पाठ आकार, जुम, आवाज इनपुट">
+<!ENTITY pref_category_accessibility_summary2 "पाठ आकार, आकार परिवर्तन, आवाज इनपुट">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 <!ENTITY pref_category_privacy_summary4 "ट्रयाकिङ, कुकीहरू, डाटा विकल्प">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -372,8 +372,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
-<!ENTITY pref_zoom_force_enabled "zoom लाई सधै सक्षम पार्नुहोस">
-<!ENTITY pref_zoom_force_enabled_summary "कुनै पनि पेज zoom गर्न अधिरोहण गर्नुहोस">
+<!ENTITY pref_zoom_force_enabled "आकार परिवर्तन सधै सक्षम पार्नुहोस">
+<!ENTITY pref_zoom_force_enabled_summary "कुनै पनि पेजको आकार परिवर्तन गर्न अधिरोहण गर्नुहोस">
 <!ENTITY pref_voice_input "आवाज आगत">
 <!ENTITY pref_voice_input_summary2 "URLबारमा आवाज भेटाउन दिनुहोस्।">
 <!ENTITY pref_qrcode_enabled "QR कोड रिडर">
