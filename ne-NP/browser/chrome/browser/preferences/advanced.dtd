@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "पृष्ठहरू सफर गर्दा जहिले पनि कर्सर किहरू प्रयोग गर्नुहोस्">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "लेख्न सुरु गर्दा पाठ खोजी गर्नुहोस्">
+<!ENTITY searchStartTyping.label         "लेख्न सुरु गर्दा पाठ खोज्नुहोस्">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "वेबसाइट पुनर्निर्देशित वा वेब पृष्ठ फेरी लोड गर्दा मलाई चेतावनी दिनुहोस">
 <!ENTITY blockAutoRefresh.accesskey      "b">

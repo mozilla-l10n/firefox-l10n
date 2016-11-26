@@ -42,10 +42,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "कागजातको समयावधी समाप्त भयो">
-<!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै, &brandShortName; ले स्वतः संवेदनशील कागजातहरूलाई पुनःअनुरोध गर्दैन।</li><li>कागजात पुन:अनुरोध गर्नलाई पुनः प्रयासक्लिक गर्नुहोस्।</li></ul>">
+<!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै, &brandShortName; ले स्वतः संवेदनशील कागजातहरूलाई पुनः अनुरोध गर्दैन।</li><li>कागजात पुनः अनुरोध गर्नलाई पुनः प्रयास क्लिक गर्नुहोस्।</li></ul>">
 
 <!ENTITY netOffline.title "अफलाइन मोड">
-<!ENTITY netOffline.longDesc2 "<ul> <li>अनलाइन मोडमा स्विच तथा पृष्ठ पुन: लोड गर्न &quot;पुनः प्रयास&quot; मा थिच्नुहोस् ।</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>अनलाइन मोडमा स्विच तथा पृष्ठ पुनः लोड गर्न &quot;पुनः प्रयास&quot; मा थिच्नुहोस् ।</li> </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">

@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "उपकरणहरू">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "यस खोजीका लागि एउटा किवर्ड थप्नुहोस्">
+<!ENTITY keywordfield.label           "यस खोज‌का लागि एउटा खोजशब्द थप्नुहोस्…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनलोडहरू">
@@ -431,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 
-<!ENTITY contentSearchInput.label     "खोजी क्वेरी">
+<!ENTITY contentSearchInput.label     "खोज प्रश्न">
 <!ENTITY contentSearchSubmit.tooltip  "खोज बुझाउनुहोस्">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -446,7 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "खोजी गर्नुहोस् ">
+<!ENTITY search.label                 "खोजी गर्नुहोस्">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -457,8 +457,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "खोजी सेटिङ परिवर्तन गर्नुहोस्">
-<!ENTITY changeSearchSettings.tooltip "खोजी सेटिङ परिवर्तन गर्नुहोस्">
+<!ENTITY changeSearchSettings.button  "खोज सेटिङ परिवर्तन गर्नुहोस्">
+<!ENTITY changeSearchSettings.tooltip "खोज सेटिङ परिवर्तन गर्नुहोस्">
 
 <!ENTITY searchInNewTab.label         "नयाँ ट्याबमा खोज्नुहोस्">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -713,7 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ ।">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन । तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
+<!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
 <!ENTITY identity.description.insecureLoginForms "तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!ENTITY identity.description.weakCipher "यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन ।">
 <!ENTITY identity.description.weakCipher2 "अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन् र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन् ।">
@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; मा पुनःजडान …">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "सिङ्क">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY social.addons.label "सेवाहरू प्रबन्धन गर्नुहोस्...">
 
@@ -805,7 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "माइक्रोफोनलाई बाँड्ने:">
+<!ENTITY getUserMedia.selectMicrophone.label "साझेदारी गर्नुपर्ने माइक्रोफोन:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "ट्याबको अडियो पहुँचयोग्य हुनेछ।">
 <!ENTITY getUserMedia.allWindowsShared.message "तपाईँको स्क्रिन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।">

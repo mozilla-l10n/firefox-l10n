@@ -74,7 +74,7 @@
 <!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Live Bookmark पुन: लोड गर्नुहोस्">
+<!ENTITY cmd.reloadLivebookmark.label      "Live Bookmark पुनः लोड गर्नुहोस्">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
@@ -89,7 +89,7 @@
 <!ENTITY col.dateadded.label     "थपिएको">
 <!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">
 
-<!ENTITY search.label                              "खोजी गर्नुहोस्:">
+<!ENTITY search.label                              "खोज गर्नुहोस्:">
 <!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
@@ -108,7 +108,7 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "वस्तुको गुण हेर्न र सम्पादन गर्न कुनै एक वस्तु चयन गर्नुहोस्">
 
-<!ENTITY find.label               "खोजी गर्नुहोस्:">
+<!ENTITY find.label               "खोज गर्नुहोस्:">
 <!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "दृश्य">
 <!ENTITY view.accesskey           "w">
