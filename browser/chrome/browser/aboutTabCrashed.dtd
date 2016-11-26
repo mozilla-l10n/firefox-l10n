@@ -13,13 +13,15 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Ow jej. Waš rajtark je spadnył.">
+<!ENTITY tabCrashed.offerHelp "Móžemy wam pomhać!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Wubjerće &tabCrashed.restoreTab;, zo byšće wobsah strony znowa začitał.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Wubjerće &tabCrashed.restoreTab; abo &tabCrashed.restoreAll;, zo byšće wobsah strony znowa začitał.">
+<!ENTITY tabCrashed.requestHelp "Budźeće nam pomhać?">
+<!ENTITY tabCrashed.requestHelpMessage "Rozprawy wo spadach nam pomhaja, problemy diagnosticěrować a &brandShortName; polěpšeć.">
+<!ENTITY tabCrashed.requestReport "Tutón rajtark zdźělić">
+<!ENTITY tabCrashed.sendReport2 "Rozprawu wo spadźe za rajtark słać, kotryž sej runje wobhladujeće">
+<!ENTITY tabCrashed.commentPlaceholder2 "Opcionalne komentary (komentary su zjawnje widźomne)">
 
 <!ENTITY tabCrashed.emailPlaceholder "Zapisajće tu swoju e-mejlowu adresu">
 <!ENTITY tabCrashed.emailMe "Pósćelće mi e-mejlku, hdyž dalše informacije k dispoziciji steja">
