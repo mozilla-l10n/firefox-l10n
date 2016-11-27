@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "लग-इनहरू">
 <!ENTITY aboutLogins.update                      "अद्यावधिक गर्नुहोस्">
-<!ENTITY aboutLogins.emptyLoginText              "आफ्नो लगिन्स हरु सुरक्षित राख्नुहोस्। ">
-<!ENTITY aboutLogins.emptyLoginHint              "तपाईंले &brandShortName; प्रयोग गरी सेभ गर्नुभएको लगिन्स र विश्वाशपत्रहरु यहाँ देखिने छ।">
+<!ENTITY aboutLogins.emptyLoginText              "आफ्नो लगिनहरू सुरक्षित राख्नुहोस्। ">
+<!ENTITY aboutLogins.emptyLoginHint              "तपाईंले &brandShortName; प्रयोग गरी सेभ गर्नुभएको लगिनहरू र विश्वासपत्रहरू यहाँ देखिने छ।">
