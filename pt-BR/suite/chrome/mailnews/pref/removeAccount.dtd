@@ -7,5 +7,13 @@
 <!ENTITY removeButton.accesskey       "R">
 <!ENTITY removeAccount.label          "Remover dados da conta">
 <!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Remover essa conta do &brandShortName;. Isso não afeta a conta no servidor.">
+<!ENTITY removeData.label             "Remover mensagem">
 <!ENTITY removeData.accesskey         "d">
+<!ENTITY removeDataLocalAccount.desc  "Remover todas as mensagens, pastas e filtros associados a esta conta do seu disco local. Isso não afeta algumas mensagens que podem continuar no servidor. Não escolha isso se você planeja arquivar os dados locais ou reutilizá-lo posteriormente no &brandShortName;.">
+<!ENTITY removeDataServerAccount.desc "Remover todas as mensagens, pastas e filtros associados a esta conta do seu disco local. Suas mensagens e pastas serão mantidas no servidor.">
+<!ENTITY showData.label               "Mostrar local das mensagens">
 <!ENTITY showData.accesskey           "S">
+<!ENTITY progressPending              "Removendo mensagens selecionadas…">
+<!ENTITY progressSuccess              "Removido com sucesso.">
+<!ENTITY progressFailure              "Falhou ao remover.">
