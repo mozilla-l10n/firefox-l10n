@@ -121,7 +121,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Co jsou doplňky?">
 <!ENTITY discover.description2                "Doplňky jsou aplikace, které vám umožní přizpůsobit si aplikaci &brandShortName; pomocí nových funkcí či stylů. Vyzkoušejte čas šetřící postranní lištu či motiv vzhledu, který přizpůsobí aplikaci &brandShortName; do vašeho stylu.">
-<!ENTITY discover.footer                      "V případě dostupného připojení k Internetu bude tato stránka zobrazovat některé z nejoblíbenějších doplňků, které si můžete vyzkoušet.">
+<!ENTITY discover.footer                      "V případě dostupného připojení k internetu bude tato stránka zobrazovat některé z nejoblíbenějších doplňků, které si můžete vyzkoušet.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Verze">

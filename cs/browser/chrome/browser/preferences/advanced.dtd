@@ -49,7 +49,7 @@
 
 <!ENTITY connection.label                "Připojení">
 
-<!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k internetu">
 <!ENTITY connectionSettings.label        "Nastavení…">
 <!ENTITY connectionSettings.accesskey    "a">
 
