@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Beveiligingsapparaten beheren">
 <!ENTITY manageDevices.accesskey "B">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Certificaat selecteren">
+<!ENTITY certPicker.info  "Certificaat:">
+<!ENTITY certPicker.detailsLabel "Details van geselecteerde certificaat:">

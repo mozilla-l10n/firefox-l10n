@@ -16,7 +16,7 @@
 <!ENTITY importFilters.label      "Filters">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "42em">
+<!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName;-importeerwizard">

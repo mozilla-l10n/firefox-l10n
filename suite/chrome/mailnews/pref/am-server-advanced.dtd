@@ -16,8 +16,8 @@
 <!ENTITY namespaceDesc.label "Deze instellingen omschrijven de namespaces op uw IMAP-server">
 <!ENTITY personalNamespace.label "Persoonlijke namespace:">
 <!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Publiek (gedeeld):">
-<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY publicNamespace.label "Openbaar (gedeeld):">
+<!ENTITY publicNamespace.accesskey "b">
 <!ENTITY otherUsersNamespace.label "Andere gebruikers:">
 <!ENTITY otherUsersNamespace.accesskey "d">
 <!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
