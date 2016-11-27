@@ -37,7 +37,7 @@
 <!ENTITY engine.addons.accesskey    "ا">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "آلہ کا نام:">
+<!ENTITY syncDeviceName.label       "آ&amp;لہ نام:">
 <!ENTITY fxaSyncDeviceName.label       "آلہ کا نام">
 <!ENTITY changeSyncDeviceName.label "ڈیوائس کا نام تبدیل کریں…">
 <!ENTITY changeSyncDeviceName.accesskey "h">

@@ -180,7 +180,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
-<!ENTITY options.stylesheetAutocompletion.label      "CSS خود تکمیل کریں">
+<!ENTITY options.stylesheetAutocompletion.label      "CSS خودکار تکمیل کریں">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "CSS جصوصیات خودکار مکمل، قدر اور منتخب کنندگاں  انداز تدوین کار میں جیسے آپ لکھیں">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
