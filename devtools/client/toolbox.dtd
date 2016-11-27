@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Jolic zmóžnijośo toś to nastajenje, budu se pśikaze a wudaśe we webkonsoli casowy kołk pokazowaś">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Pytanje za zmólkami">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Žrědłowe kórty zmóžniś">
+<!ENTITY options.sourceMaps.tooltip    "Jolic zmóžnjaśo toś to nastajenje, žrědła kartěruju se w pytanju za zmólkami a w konsoli.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
