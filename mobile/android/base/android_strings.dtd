@@ -423,8 +423,8 @@
 <!ENTITY updater_downloading_title_failed2 "Загрузка не удалась">
 <!ENTITY updater_downloading_select2 "Нажмите для применения обновления по завершении загрузки">
 <!ENTITY updater_downloading_retry2 "Нажмите для повтора">
-<!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
-<!ENTITY updater_apply_select2 "Нажмите для обновления">
+<!ENTITY updater_apply_title3 "Загружено обновление для &brandShortName;">
+<!ENTITY updater_apply_select3 "Нажмите для установки">
 <!ENTITY updater_permission_text "Чтобы загружать файлы и обновления, предоставьте &brandShortName; разрешение на доступ к хранилищу.">
 <!ENTITY updater_permission_allow "Предоставить">
 <!ENTITY new_guest_session "Новая гостевая сессия">
