@@ -36,7 +36,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "तपाईँ">
-<!ENTITY firstrun_account_message "के तपाईँसँग अर्को उपकरणमा &brandShortName; छ?">
+<!ENTITY firstrun_account_message "के तपाईँसँग अर्को यन्त्रमा &brandShortName; छ?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; को यो सरल सँस्करणसँग सुरक्षित र आफ्नो नियन्त्रणमा रहनुहोस्।">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -154,19 +154,19 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "पुस्तकचिनो">
 <!ENTITY overlay_share_bookmark_btn_label_already "पुस्तकचिनो लगाइ सकियो">
-<!ENTITY overlay_share_send_other "अर्को उपकरणहरूमा पठाउनुहोस्">
+<!ENTITY overlay_share_send_other "अर्को यन्त्रहरूमा पठाउनुहोस्">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_send_tab_btn_label "अर्को उपकरणमा पठाउनुहोस्">
+<!ENTITY overlay_share_send_tab_btn_label "अर्को यन्त्रमा पठाउनुहोस्">
 <!ENTITY overlay_share_no_url "यस साझेदारीमा कुनै लिङ्क फेला परेन">
-<!ENTITY overlay_share_select_device "उपकरण चयन गर्नुहोस्">
+<!ENTITY overlay_share_select_device "यन्त्र चयन गर्नुहोस्">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "कुनै पनि Firefox Account जडान भएका उपकरणहरू फेला परेन">
+<!ENTITY overlay_no_synced_devices "कुनै पनि Firefox Account जडान भएका यन्त्रहरू फेला परेन">
 
 <!ENTITY pref_category_search3 "खोजी गर्नुहोस्">
 <!ENTITY pref_category_search_summary2 "थप्नुहोस्, पूर्वनिर्धारित राख्नुहोस्, सुझाब देखाउनुहोस्">
@@ -201,7 +201,7 @@
 <!ENTITY pref_content_notifications_summary2 "समर्थित साइटबाट नयाँ सामग्री पत्ता लगउनुहोस्">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाइ-फाइ डिबगिङको लागि QR कोड पाठक एप तपाईँको उपकरणमा अावश्यक छ।">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डिबगिङको लागि QR कोड पाठक अनुप्रयोग तपाईँको यन्त्रमा आवश्यक छ।">
 <!ENTITY pref_remember_signons2 "लगइनहरू सम्झनुहोस्">
 <!ENTITY pref_manage_logins "लगइनहरू व्यवस्थापन गर्नुहोस्">
 
@@ -487,7 +487,7 @@ size. -->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_sending_to "उपकरणमा पठाउदै">
+<!ENTITY media_sending_to "यन्त्रमा पठाउँदै">
 <!ENTITY media_play "प्ले गर्नुहोस्">
 <!ENTITY media_pause "रोक्नुहोस्">
 <!ENTITY media_stop "रोक्नुहोस्">
@@ -579,10 +579,10 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; गृह">
 <!ENTITY home_history_title "इतिहास">
-<!ENTITY home_synced_devices_smartfolder "सिङ्क गरिएको उपकरणहरू">
-<!ENTITY home_synced_devices_number "&formatD; उपकरणहरू">
+<!ENTITY home_synced_devices_smartfolder "समक्रमण गरिएको यन्त्रहरू">
+<!ENTITY home_synced_devices_number "&formatD; यन्त्रहरू">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "१ उपकरण">
+<!ENTITY home_synced_devices_one "१ यन्त्र">
 <!ENTITY home_history_back_to2 "पहिलेको सबै ईतिहासमा जाने">
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 <!ENTITY home_clear_history_confirm "तपाईँ इतिहास बिर्सन निश्चित हुनुहुन्छ?">
@@ -610,16 +610,16 @@ size. -->
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; उपकरणहरू लुकेका छन्">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; यन्त्रहरू लुकेका छन्">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "लुकाइएका उपकरणहरू">
+<!ENTITY home_remote_tabs_hidden_devices_title "लुकाइएका यन्त्रहरू">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका उपकरणहरूलाई नलुकाउनुहोस्।">
+<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका यन्त्रहरूलाई नलुकाउनुहोस्।">
 
 <!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो?">
-<!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य उपकरणहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
+<!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य यन्त्रहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
 <!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्।">
 
 <!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्">
@@ -775,7 +775,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 
-<!ENTITY devtools_auth_scan_header "तपाईँको अन्य उपकरणमा प्रदर्शित QR कोड स्क्यान गरिँदै।">
+<!ENTITY devtools_auth_scan_header "तपाईँको अन्य यन्त्रमा प्रदर्शित QR कोड स्क्यान गरिँदै।">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -808,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "माफ गर्नुहोस्! यो &brandShortName; यस उपकरणमा काम गर्ने छैन (&formatS1;, &formatS2;)। कृपया सही संस्करण डाउनलोड गर्नुहोस्।">
+<!ENTITY unsupported_sdk_version "माफ गर्नुहोस्! यो &brandShortName; यस यन्त्रमा काम गर्ने छैन (&formatS1;, &formatS2;)। कृपया सही सँस्करण डाउनलोड गर्नुहोस्।">
 
 <!ENTITY eol_notification_title2 "&brandShortName; अब अद्यावधिक हुँदैन">
 <!ENTITY eol_notification_summary "अरू जान्नको लागि यहाँ थिच्नुहोस्">
