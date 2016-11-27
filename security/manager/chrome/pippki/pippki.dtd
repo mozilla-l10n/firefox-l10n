@@ -4,7 +4,7 @@
 <!-- Values for changepassword.xul -->
 
 <!ENTITY setPassword.title  "मुल गोप्यशब्द परिवर्तन गर्नुहोस्">
-<!ENTITY setPassword.tokenName.label "सुरक्षा उपकरण">
+<!ENTITY setPassword.tokenName.label "सुरक्षा यन्त्र">
 <!ENTITY setPassword.oldPassword.label "हालको गोप्यशब्द:">
 <!ENTITY setPassword.newPassword.label "नयाँ गोप्यशब्द:">
 <!ENTITY setPassword.reenterPassword.label "नयाँ गोप्यशब्द(पुनः):">

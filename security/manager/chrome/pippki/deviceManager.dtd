@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY devmgr.title                           "साधन प्रबन्धक">
+<!ENTITY devmgr.title                           "यन्त्र प्रबन्धक">
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
 
-<!ENTITY devmgr.devlist.label                   "सुरक्षा मोड्युलहरू र साधनहरू">
+<!ENTITY devmgr.devlist.label                   "सुरक्षा मोड्युलहरू र यन्त्रहरू">
 <!ENTITY devmgr.details.title                   "विवरणहरू">
 <!ENTITY devmgr.details.title2                  "मान">
 
@@ -32,4 +32,4 @@
 <!ENTITY loaddevice.browse                      "ब्राउज गर्नुहोस्…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "PKCS#11 साधन लोड गर्नुहोस्">
+<!ENTITY loaddevice.title                       "PKCS#11 यन्त्र लोड गर्नुहोस्">
