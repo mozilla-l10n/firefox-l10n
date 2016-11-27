@@ -91,7 +91,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Syncको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
 
 <!ENTITY signedOut.caption            "तपाईँको वेब अाफु साथै लैजानुहोस">
-<!ENTITY signedOut.description        "सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरु, एडअनहरु, र प्राथमिकताहरू समक्रमण गर्नुहोस्।">
+<!ENTITY signedOut.description        "सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरू, एडअनहरू, र प्राथमिकताहरू समक्रमण गर्नुहोस्।">
 <!ENTITY signedOut.accountBox.title   "एक &syncBrand.fxAccount.label; संग जडान गर्नुहोस्">
 <!ENTITY signedOut.accountBox.create  "खाता सिर्जना गर्नुहोस्">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">

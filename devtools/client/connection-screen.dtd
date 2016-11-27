@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "यन्त्रले टाढाको यन्त्रहरुलाई डिबग गर्न सक्छ (उदाहरणका लागि Firefox for Android र Firefox OS )। तपाईँले टाढाको यन्त्रमा 'Remote debugging' रोजाइ अन गर्नु भएको छ भन्ने कुरा निश्चित गर्नुहोस्। ">
+<!ENTITY remoteHelp "यन्त्रले टाढाको यन्त्रहरूलाई डिबग गर्न सक्छ (उदाहरणका लागि Firefox for Android र Firefox OS )। तपाईँले टाढाको यन्त्रमा 'Remote debugging' रोजाइ अन गर्नु भएको छ भन्ने कुरा निश्चित गर्नुहोस्। ">
 <!ENTITY remoteDocumentation "मिसिलीकरण">
 <!ENTITY remoteHelpSuffix "।">
 

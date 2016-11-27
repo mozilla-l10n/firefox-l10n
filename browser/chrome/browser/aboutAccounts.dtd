@@ -5,12 +5,12 @@
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;मा स्वागत छ">
 <!ENTITY aboutAccounts.connected "खाता जडान भयो">
 
-<!ENTITY aboutAccountsConfig.description "आफ्नो ट्याबहरू, पुस्तकचिनो, गोप्यशब्द र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
+<!ENTITY aboutAccountsConfig.description "आफ्नो ट्याबहरू, पुस्तकचिनो, गोप्यशब्द र थप समक्रमण गर्न साइन-इन गर्नुहोस्।">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरु गर्नुहोस्">
-<!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ Syncको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
+<!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ Sync को पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "प्राथमिकताहरू Sync गर्नुहोस्">
 <!ENTITY aboutAccounts.noConnection.title "जडान छैन">
 <!ENTITY aboutAccounts.noConnection.description "साइन इन गर्नको निम्ति तपाईँ इन्टरनेटसँग जडित हुनुपर्दछ ।">
 <!ENTITY aboutAccounts.noConnection.retry "पुनःप्रयास गर्नुहोस्">
 <!ENTITY aboutAccounts.badConfig.title "खराब कन्फिगरेसन">
-<!ENTITY aboutAccounts.badConfig.description "तपाईंको Firefox खाता सर्भर कन्फिगरेसन निर्धारण गर्न सकिएन। फेरी प्रयास गर्नुहोला।">
+<!ENTITY aboutAccounts.badConfig.description "तपाईंको Firefox खाता सर्भर कन्फिगरेसन निर्धारण गर्न सकिएन। कृपया पुनः प्रयास गर्नुहोस्।">

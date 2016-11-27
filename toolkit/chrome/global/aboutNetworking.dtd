@@ -30,8 +30,8 @@
 <!ENTITY aboutNetworking.bytesSent             "Bytes पठाइयो">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes प्राप्त भयो">
 <!ENTITY aboutNetworking.logging               "लगिङ">
-<!ENTITY aboutNetworking.logTutorial           "साधनहरु कसरी प्रयोग गर्ने भन्ने निर्देशन <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> मा हेर्नुहोस्। ">
-<!ENTITY aboutNetworking.currentLogFile        "हालको लगको भागहरु:">
+<!ENTITY aboutNetworking.logTutorial           "साधनहरू कसरी प्रयोग गर्ने भन्ने निर्देशन <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> मा हेर्नुहोस्। ">
+<!ENTITY aboutNetworking.currentLogFile        "हालको लगको भागहरू:">
 <!ENTITY aboutNetworking.currentLogModules     "वर्तमान लग मोड्युलहरू:">
 <!ENTITY aboutNetworking.setLogFile            "लग फाइल मिलाउनुहोस्">
 <!ENTITY aboutNetworking.setLogModules         "लग मोड्युलहरू मिलाउनुहोस्">

@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes तपाईंका सम्पूर्ण दुर्घटनाहरु
+#define crashes तपाईंका सम्पूर्ण दुर्घटनाहरू
 
 
 # LOCALIZATION NOTE (irc):

@@ -21,7 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरु">
+<!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरू">
 <!ENTITY aboutSupport.experimentName "नाम">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "वर्णन">
@@ -110,7 +110,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड प्रयास गर्नुहोस">
 <!ENTITY aboutSupport.restartInSafeMode.label "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताविशेषताहरु">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताहरू">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदानात्मक">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "बिफलता लग">
 <!ENTITY aboutSupport.graphicsGPU1Title "जीपीयू #1">
