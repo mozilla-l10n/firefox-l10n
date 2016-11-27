@@ -51,6 +51,13 @@
 <p>&brandShortName; ei kykene lataamaan sivua jostain syystä.</p>
 ">
 
+<!ENTITY captivePortal.title "Kirjaudu verkkoon">
+<!ENTITY captivePortal.longDesc "
+<p>Tämä verkko voi vaatia kirjautumista internetin käyttämiseksi.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Avaa kirjautumissivu">
+
 <!ENTITY malformedURI.title "Virheellinen osoite">
 <!ENTITY malformedURI.longDesc "
 <ul>
