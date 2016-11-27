@@ -13,13 +13,13 @@
 <!ENTITY locationEditField.label "Afbeeldingslocatie:">
 <!ENTITY locationEditField.accessKey "A">
 <!ENTITY locationEditField.tooltip "Typ de bestandsnaam of locatie van de afbeelding">
-<!ENTITY locationEditField.shortenedDataURI "Data-URI is ingekort (Kopiëren zal de volledige URI op het klembord plaatsen)">
+<!ENTITY locationEditField.shortenedDataURI "Gegevens-URI is ingekort (Kopiëren plaatst de volledige URI op het klembord)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "Het HTML-attribuut ‘title’ dat verschijnt als tooltip">
+<!ENTITY title.tooltip "Het HTML-attribuut ‘title’ dat als tooltip verschijnt">
 <!ENTITY altText.label "Alternatieve tekst:">
 <!ENTITY altText.accessKey "e">
-<!ENTITY altTextEditField.tooltip "Typ tekst die moet worden weergegeven op de plaats van de afbeelding">
+<!ENTITY altTextEditField.tooltip "Typ tekst die op de plaats van de afbeelding moet worden weergegeven">
 <!ENTITY noAltText.label "Geen alternatieve tekst gebruiken">
 <!ENTITY noAltText.accessKey "G">
 
