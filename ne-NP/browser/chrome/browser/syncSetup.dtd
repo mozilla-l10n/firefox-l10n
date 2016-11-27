@@ -96,9 +96,9 @@
 <!ENTITY engine.addons.label        "एडअनहरू">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "मेरो &syncBrand.shortName.label; डेटालाई यो यन्त्रको डेटासँग मिलाउनुहोस्">
+<!ENTITY choice2a.merge.main.label       "मेरो &syncBrand.shortName.label; डाटालाई यो यन्त्रको डाटासँग मिलाउनुहोस्">
 <!ENTITY choice2.merge.recommended.label "सिफारिश गरिएको:">
-<!ENTITY choice2a.client.main.label      "यो यन्त्रको डेटासँग मेरो &syncBrand.shortName.label; डेटा बदल्नुहोस्">
+<!ENTITY choice2a.client.main.label      "यो यन्त्रको डाटासँग मेरो &syncBrand.shortName.label; डाटा बदल्नुहोस्">
 <!ENTITY choice2a.server.main.label      "यो यन्त्रको डाटा अन्य सबै यन्त्रहरू सँग बदल्नुहोस्">
 <!-- Confirm Merge Options -->
 
