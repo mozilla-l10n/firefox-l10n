@@ -53,6 +53,10 @@
    Зависания браузера ">
 <!ENTITY aboutTelemetry.threadHangStatsSection "
    Зависания нитей ">
+<!ENTITY aboutTelemetry.capturedStacksSection "
+
+  Захваченные Стеки
+">
 <!ENTITY aboutTelemetry.scalarsSection "
   Скаляры
 ">
@@ -62,6 +66,9 @@
    Гистограммы ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Гистограммы ключей">
+<!ENTITY aboutTelemetry.eventsSection "
+  События
+">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
    Простые измерения ">
 <!ENTITY aboutTelemetry.addonDetailsSection "

@@ -41,6 +41,7 @@
 <!ENTITY connectionSettings.accesskey "с">
 <!ENTITY httpCache.label "Кэшированное веб-содержимое">
 <!ENTITY offlineStorage2.label "Автономное веб-содержимое и данные пользователя">
+<!ENTITY siteData.label "Данные сайтов">
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">
