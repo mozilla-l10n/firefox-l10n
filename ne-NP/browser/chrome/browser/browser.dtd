@@ -40,11 +40,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ट्याबलाई अनपिन गर्नुहोस्">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ट्याब उपकरणमा पठाउनुहोस्">
+<!ENTITY  sendTabToDevice.label              "ट्याबलाई यन्त्रमा पठाउनुहोस्">
 <!ENTITY  sendTabToDevice.accesskey          "D">
-<!ENTITY  sendPageToDevice.label             "पृष्ठ उपकरणमा पठाउनुहोस्">
+<!ENTITY  sendPageToDevice.label             "पृष्ठलाई यन्त्रमा पठाउनुहोस्">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "उपकरणमा लिङ्क पठाउनुहोस्">
+<!ENTITY  sendLinkToDevice.label             "लिङ्कलाई यन्त्रमा पठाउनुहोस्">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -358,14 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैनन्">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "अझै समन्वयन नभएका ट्याबहरू…">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य उपकरणहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
 
@@ -539,7 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "भिडियो इमेल गर्नुहोस्…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "भिडियो उपकरणमा पठाउनुहोस">
+<!ENTITY castVideoCmd.label           "भिडियो यन्त्रमा पठाउनुहोस्">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "इमेल अडियो…">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -747,15 +747,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sync गरिएको ट्याबहरू">
 
 <!ENTITY syncedTabs.sidebar.label              "Sync गरिएका ट्याबहरू">
-<!ENTITY syncedTabs.sidebar.noclients.label    "अन्य उपकरणको ट्याबहरू हेर्न, तपाईँ अन्य उपकरणहरूमा Firefox मा साइन इन गर्नुहोस्।">
+<!ENTITY syncedTabs.sidebar.noclients.label    "अन्य यन्त्रको ट्याबहरू हेर्न, तपाईँ अन्य यन्त्रहरूमा Firefox मा साइन-इन गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.noclients.title    "अझै समन्वयन नभएका ट्याबहरू…">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "अन्य उपकरणहरूको ट्याबहरू तपाईं यहाँ हेर्न चाहनुहुन्छ?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.notabs.label       "खुला ट्याबहरू छैनन्">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 
 <!ENTITY syncedTabs.context.open.label                       "खोल्नुहोस्">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">

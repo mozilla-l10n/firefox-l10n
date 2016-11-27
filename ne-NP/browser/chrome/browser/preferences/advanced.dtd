@@ -115,5 +115,5 @@
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा उपकरणहरू">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरू">
 <!ENTITY viewSecurityDevices.accesskey   "D">
