@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Dodanki">
 <!ENTITY engine.addons.accesskey    "D">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Mě rěda:">
 <!ENTITY fxaSyncDeviceName.label       "Mě rěda">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Mě rěda změniś…">
+<!ENTITY changeSyncDeviceName.accesskey "z">
+<!ENTITY cancelChangeSyncDeviceName.label "Pśetergnuś">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "t">
+<!ENTITY saveChangeSyncDeviceName.label "Składowaś">
+<!ENTITY saveChangeSyncDeviceName.accesskey "d">
 <!ENTITY unlinkDevice.label           "Zwisk z toś tym rědom źěliś">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Njejsćo se zregistrěrował.">
-
-
+<!ENTITY signIn.label                "Pśizjawiś">
+<!ENTITY signIn.accesskey            "z">
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změniś">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Konto zastojaś">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "Zwisk źěliś…">
+<!ENTITY disconnect.accesskey        "Z">
+<!ENTITY verify.label                "E-mail pśeglědaś">
+<!ENTITY verify.accesskey            "E">
+<!ENTITY forget.label                "Toś tu e-mail zabyś">
+<!ENTITY forget.accesskey            "b">
 
 <!ENTITY welcome.description "Mějśo pśistup na swóje rejtarki, cytańske znamjenja, gronidła a wěcej, źožkuli &brandShortName; wužywaśo.">
 <!ENTITY welcome.signIn.label "Pśizjawiś">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.">
 <!ENTITY signedOut.accountBox.title   "Z &syncBrand.fxAccount.label; zwězaś">
 <!ENTITY signedOut.accountBox.create  "Konto załožyś">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "z">
 <!ENTITY signedOut.accountBox.signin  "Pśizjawiś">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
 <!ENTITY signedIn.engines.label       "Mjazy wšymi rědami synchronizěrowaś">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
