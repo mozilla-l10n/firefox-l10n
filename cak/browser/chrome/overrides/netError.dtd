@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Uy.">
 <!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
+<!ENTITY captivePortal.title "Katok pa k'amab'ey">
+<!ENTITY captivePortal.longDesc "<p>Re k'amab'ey re' rik'in jub'a' nrajo' chi tatikirisaj molojri'ïl richin nawokisaj ri k'amaya'l.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Tijaq ruxaq tikirib'äl moloj">
 
 <!ENTITY malformedURI.title "Man nuxïm ta ri' ri ochochib'äl">
 <!ENTITY malformedURI.longDesc "<ul><li>Ri rochochib'al taq ruxaq k'amaya'l junelïk yetz'ib'äx achi'el <strong>http://www.example.com/</strong></li> <li>Tanik'oj chi tajin ye'awokisaj ri e ütz raq'arïk taq juch' (i.e. <strong>/</strong>).</li> </ul>">
