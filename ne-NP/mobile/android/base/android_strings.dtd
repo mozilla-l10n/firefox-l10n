@@ -211,7 +211,7 @@
 <!ENTITY pref_category_home_add_ons "एडअनहरू">
 <!ENTITY pref_home_updates2 "सामग्री अद्यावधिकहरू">
 <!ENTITY pref_home_updates_enabled "सक्षम पारियो">
-<!ENTITY pref_home_updates_wifi "केवल वाइफाइको माध्यमबाट">
+<!ENTITY pref_home_updates_wifi "केवल Wi-Fi को माध्यमबाट">
 <!ENTITY pref_category_home_homepage "गृहपृष्ठ">
 <!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -254,7 +254,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "तस्विरहरू देखाउनुहोस्">
 <!ENTITY pref_tap_to_load_images_enabled "सधैं">
-<!ENTITY pref_tap_to_load_images_data "केवल वाइफाइको माध्यमबाट">
+<!ENTITY pref_tap_to_load_images_data "केवल Wi-Fi को माध्यमबाट">
 <!ENTITY pref_tap_to_load_images_disabled2 "निषेधित">
 
 <!ENTITY pref_show_web_fonts "वेब फन्टहरू देखाउने">
@@ -445,7 +445,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरू">
-<!ENTITY pref_update_autodownload_wifi "केवल वाइफाइको माध्यमबाट">
+<!ENTITY pref_update_autodownload_wifi "केवल Wi-Fi को माध्यमबाट">
 <!ENTITY pref_update_autodownload_never "कहिले पनि">
 <!ENTITY pref_update_autodownload_always "सधै">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -780,24 +780,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restrictable_feature_addons_installation "एड-अनहरु">
-<!ENTITY restrictable_feature_addons_installation_description "Firefox विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एडअनहरुले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
+<!ENTITY restrictable_feature_addons_installation "एड-अनहरू">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एड-अनहरूले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउजिङ्ग">
 <!ENTITY restrictable_feature_private_browsing_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा जानकारी बचत नगरी भ्रमण गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
 <!ENTITY restrictable_feature_clear_history_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा रहेका जानकारी मेटाउन अनुमति दिन्छ।">
-<!ENTITY restrictable_feature_advanced_settings "अत्याधुनिक सेटिङ्हरु">
+<!ENTITY restrictable_feature_advanced_settings "अत्याधुनिक सेटिङ्हरू">
 <!ENTITY restrictable_feature_advanced_settings_description "यसमा पुस्तकचिनो आयात गर्ने, ट्याबहरू पुनः स्थापना गर्ने र स्वचालित अद्यावधिकहरू समावेश छन्। कुनै पनि उपयुक्त परिवारका सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
 <!ENTITY restrictable_feature_camera_microphone "क्यामेरा र माइक्रोफोन">
 <!ENTITY restrictable_feature_camera_microphone_description "परिवारका सदस्यहरूलाइ वेबसाइटहरूमा वास्तविक समय संचारमा संलग्न गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_block_list "रोक सूचीहरू">
-<!ENTITY restrictable_feature_block_list_description "संवेदनशील सामग्री समावेश भएका वेबसाइटहरु ब्लक गर्नुहोस्।">
+<!ENTITY restrictable_feature_block_list_description "संवेदनशील सामग्री समावेश भएका वेबसाइटहरू ब्लक गर्नुहोस्।">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
 <!ENTITY bookmarks_about_browser "Firefox: तपाईँको ब्राउजरको बारेमा">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: एडअनहरुको साथ अनुकूलित बनाउनुहोस्">
+<!ENTITY bookmarks_addons "Firefox: एडअनहरूको साथ अनुकूलित बनाउनुहोस्">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
@@ -825,7 +825,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "पुस्तकचिनोहरूमा जानुहोस्">
 
 <!ENTITY helper_triple_readerview_open_title "अफलाइन उपलब्ध छ">
-<!ENTITY helper_triple_readerview_open_message "अफलाइन पढ्नका लागि बुक्मार्क पाठक वस्तुहरु।">
+<!ENTITY helper_triple_readerview_open_message "अफलाइन पढ्नका लागि बुकमार्क पाठक वस्तुहरू।">
 <!ENTITY helper_triple_readerview_open_button "पुस्तकचिनोहरूमा थप्नुहोस्">
 
 <!ENTITY activity_stream_topsites "शीर्ष साइटहरू">

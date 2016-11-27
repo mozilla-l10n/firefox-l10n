@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "ब्राउजिङ्गमा फिर्ता जानुहोस्">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मा स्वागत छ ">
-<!ENTITY fxaccount_getting_started_description2 "आफ्नो ट्याबहरू, पुस्तकचिनो, लगिनहरु र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
+<!ENTITY fxaccount_getting_started_description2 "आफ्नो ट्याबहरू, पुस्तकचिनो, लगिनहरू र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
 <!ENTITY fxaccount_getting_started_get_started "सुरु गर्नुहोस्">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; को पुरानो संस्करण प्रयोग गरि रहनु भएको छ ?  ">
 
@@ -64,7 +64,7 @@
 <!ENTITY fxaccount_status_needs_credentials "संपर्क सफल भएन। भित्र जान यहाँ छुनुहोस्  ">
 <!ENTITY fxaccount_status_needs_upgrade "तपाईंले साइन इन गर्नको लागि &brandShortName; स्तरवृद्धि गर्न आवश्यक छ।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। Android सेटिङहरू &gt; डाटा उपयोगमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। Android सेटिङहरू &gt;खाताहरुमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप छ, तर समक्रमण स्वचालित छैन। Android सेटिङहरू &gt;खाताहरूमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_finish_migrating "Firefox को नयाँ खातामा जानको लागि लगिन गर्न यहाँ छुनुहोस्">
 <!ENTITY fxaccount_status_bookmarks "पुस्तकचिनो">
 <!ENTITY fxaccount_status_history "इतिहास">
