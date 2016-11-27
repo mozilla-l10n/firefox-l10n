@@ -173,8 +173,8 @@
 <!ENTITY GeneratedName.accesskey "n">
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ChatName.label "Nazwa czat">
-<!ENTITY ChatName.accesskey "C">
+<!ENTITY ChatName.label "Nazwa komunikatora">
+<!ENTITY ChatName.accesskey "k">
 <!ENTITY Company.label "Firma/Organizacja">
 <!ENTITY Company.accesskey "O">
 <!ENTITY NickName.label "Pseudonim">
@@ -205,7 +205,7 @@
 <!ENTITY contact.heading "Kontakt">
 <!ENTITY home.heading "Dom">
 <!ENTITY other.heading "Inne">
-<!ENTITY chat.heading "Czat">
+<!ENTITY chat.heading "Komunikator">
 <!ENTITY phone.heading "Telefon">
 <!ENTITY work.heading "Praca">
 <!ENTITY description.heading "Opis">

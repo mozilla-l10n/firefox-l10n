@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Kreator kont czat">
+<!ENTITY windowTitle.label "Kreator kont komunikatora">
 
-<!ENTITY accountProtocolTitle.label "Sieć czat">
-<!ENTITY accountProtocolInfo.label "Wybierz sieć dla swojego konta czat.">
+<!ENTITY accountProtocolTitle.label "Sieć komunikatora">
+<!ENTITY accountProtocolInfo.label "Wybierz sieć dla swojego konta komunikatora.">
 <!ENTITY accountProtocolField.label "Sieć:">
 <!ENTITY accountProtocolGetMore.label "Więcej…">
 

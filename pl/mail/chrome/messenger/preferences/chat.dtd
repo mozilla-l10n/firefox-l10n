@@ -4,8 +4,8 @@
 
 <!ENTITY startupAction.label "Po uruchomieniu programu &brandShortName;:">
 <!ENTITY startupAction.accesskey "P">
-<!ENTITY startupOffline.label "nie łącz z kontami czatu">
-<!ENTITY startupConnectAuto.label "łącz z kontami czatu automatycznie">
+<!ENTITY startupOffline.label "nie łącz z kontami komunikatora">
+<!ENTITY startupConnectAuto.label "łącz z kontami komunikatora automatycznie">
 
 <!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej nieaktywności po">
 <!ENTITY reportIdleAfter.accesskey "W">
