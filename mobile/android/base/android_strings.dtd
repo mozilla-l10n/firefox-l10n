@@ -368,7 +368,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तिब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामि तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
+<!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तीब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामी तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
