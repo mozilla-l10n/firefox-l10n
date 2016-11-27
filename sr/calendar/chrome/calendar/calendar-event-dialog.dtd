@@ -1,0 +1,151 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY event.title.label                  "Уреди ставку" >
+
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Задржи трајање приликом промене крајњег датума">
+<!ENTITY event.dialog.keepDurationButton.accesskey "З">
+
+<!ENTITY newevent.from.label                "Од" >
+<!ENTITY newevent.to.label                  "До" >
+
+<!ENTITY newevent.status.label                    "Стање" >
+<!ENTITY newevent.status.accesskey                "С" >
+<!ENTITY newevent.eventStatus.none.label          "Није наведено" >
+<!ENTITY newevent.eventStatus.none.accesskey      "о" >
+<!ENTITY newevent.todoStatus.none.label           "Није наведено" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Отказано" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "к" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Отказано" >
+<!ENTITY newevent.status.tentative.label          "Привремено" >
+<!ENTITY newevent.status.tentative.accesskey      "м" >
+<!ENTITY newevent.status.confirmed.label          "Потврђено" >
+<!ENTITY newevent.status.confirmed.accesskey      "в" >
+<!ENTITY newevent.status.completed.label          "Завршено у" >
+
+<!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; завршено">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "Обавести полазнике">
+<!ENTITY event.attendees.notify.accesskey            "и">
+<!ENTITY event.attendees.notifyundisclosed.label     "Појединачна позивница по полазнику">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "л">
+
+<!-- Keyboard Shortcuts -->
+
+<!-- Menubar -->
+
+
+
+
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Сачувај и затвори">
+<!ENTITY  event.toolbar.delete.label                      "Уклони">
+<!ENTITY  event.toolbar.attendees.label                   "Позови полазнике">
+<!ENTITY  event.toolbar.privacy.label                     "Приватност">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Сачувај и затвори">
+<!ENTITY  event.toolbar.delete.tooltip                    "Обриши">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Позови полазнике">
+<!ENTITY  event.toolbar.attachments.tooltip               "Додај прилоге">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Промени приватност">
+<!ENTITY  event.toolbar.priority.tooltip                  "Промени првенство">
+<!ENTITY  event.toolbar.status.tooltip                    "Промени стање">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Промени слободно или заузето време">
+
+<!-- Counter box -->
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Наслов:" >
+<!ENTITY event.title.textbox.accesskey                    "л">
+<!ENTITY event.location.label                             "Место:" >
+<!ENTITY event.location.accesskey                         "М">
+<!ENTITY event.categories.label                           "Категорија:">
+<!ENTITY event.categories.accesskey                       "ј">
+<!ENTITY event.categories.textbox.label                   "Додај нову категорију" >
+<!ENTITY event.calendar.label                             "Календар:" >
+<!ENTITY event.calendar.accesskey                         "К">
+<!ENTITY event.attendees.label                            "Полазници:" >
+<!ENTITY event.attendees.accesskey                        "ц">
+<!ENTITY event.alldayevent.label                          "Целодневни догађај" >
+<!ENTITY event.alldayevent.accesskey                      "д">
+<!ENTITY event.from.label                                 "Почетак:" >
+<!ENTITY event.from.accesskey                             "к">
+<!ENTITY task.from.label                                  "Почетак:" >
+<!ENTITY task.from.accesskey                              "к">
+<!ENTITY event.to.label                                   "Крај:" >
+<!ENTITY event.to.accesskey                               "р">
+<!ENTITY task.to.label                                    "Крајњи рок:" >
+<!ENTITY task.to.accesskey                                "а">
+<!ENTITY task.status.label                                "Стање:" >
+<!ENTITY task.status.accesskey                            "а">
+<!ENTITY event.repeat.label                               "Понављање:" >
+<!ENTITY event.repeat.accesskey                           "в">
+<!ENTITY event.until.label                                "До:">
+<!ENTITY event.until.accesskey                            "о">
+<!ENTITY event.reminder.label                             "Подсетник:" >
+<!ENTITY event.reminder.accesskey                         "е">
+<!ENTITY event.description.label                          "Опис:" >
+<!ENTITY event.description.accesskey                      "п">
+<!ENTITY event.attachments.label                          "Прилози:" >
+<!ENTITY event.attachments.accesskey                      "и" >
+<!ENTITY event.attachments.menubutton.label               "Закачи">
+<!ENTITY event.attachments.menubutton.accesskey           "З">
+<!ENTITY event.attachments.url.label                      "Веб страница…">
+<!ENTITY event.attachments.url.accesskey                  "В">
+<!ENTITY event.attachments.popup.remove.label             "Уклони" >
+<!ENTITY event.attachments.popup.remove.accesskey         "У" >
+<!ENTITY event.attachments.popup.open.label               "Отвори" >
+<!ENTITY event.attachments.popup.open.accesskey           "О" >
+<!ENTITY event.attachments.popup.removeAll.label          "Уклони све" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "с" >
+<!ENTITY event.attachments.popup.attachPage.label         "Закачи веб страницу…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "ц" >
+<!ENTITY event.url.label                                  "Сродна веза:" >
+<!ENTITY event.priority2.label                            "Првенство:">
+
+<!ENTITY event.reminder.none.label                        "Без подсетника " >
+<!ENTITY event.reminder.0minutes.before.label             "0 минута пре" >
+<!ENTITY event.reminder.5minutes.before.label             "5 минута пре" >
+<!ENTITY event.reminder.15minutes.before.label            "15 минута пре" >
+<!ENTITY event.reminder.30minutes.before.label            "30 минута пре" >
+<!ENTITY event.reminder.1hour.before.label                "1 сат пре" >
+<!ENTITY event.reminder.2hours.before.label               "2 сата пре" >
+<!ENTITY event.reminder.12hours.before.label              "12 сати пре" >
+<!ENTITY event.reminder.1day.before.label                 "1 дан пре" >
+<!ENTITY event.reminder.2days.before.label                "2 дана пре" >
+<!ENTITY event.reminder.1week.before.label                "1 недеља пре" >
+<!ENTITY event.reminder.custom.label                      "Прилагођено…" >
+
+<!ENTITY event.reminder.multiple.label                    "Више подсетника…" >
+
+
+<!-- Recurrence dialog -->
+
+
+
+
+
+
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+
+
+
+<!-- Attendees dialog -->
+
+<!-- Timezone dialog -->
+
+<!-- Read-Only dialog -->
