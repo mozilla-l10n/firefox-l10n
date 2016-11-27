@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "सङ्गठित गर्नुहोस्">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "आफ्नो पुस्तक चिनोहरू सङ्गठित गर्नुहोस्">
+<!ENTITY organize.tooltip      "आफ्नो पुस्तकचिनोहरू सङ्गठित गर्नुहोस्">
 
 <!ENTITY file.close.label               "बन्द गर्नुहोस्">
 <!ENTITY file.close.accesskey           "C">
@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "अर्को ब्राउजरबाट डाटा आयात गर्नुहोस्…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "ब्याकअप...">
+<!ENTITY cmd.backup.label               "जगेडा...">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "पूर्ववस्थामा ल्याउनुहोस्">
 <!ENTITY cmd.restore2.accesskey         "R">
@@ -74,7 +74,7 @@
 <!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Live Bookmark पुनः लोड गर्नुहोस्">
+<!ENTITY cmd.reloadLivebookmark.label      "प्रत्यक्ष पुस्तकचिनो पुनः लोड गर्नुहोस्">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
@@ -96,7 +96,7 @@
 
 <!ENTITY maintenance.label      "आयात अनि जगेडा गर्नुहोस्">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "तपाईँको पुस्तक चिन्हलाई आयात अनि जगेडा गर्नुहोस्">
+<!ENTITY maintenance.tooltip    "तपाईँको पुस्तकचिनो लाई आयात र जगेडा गर्नुहोस्">
 
 <!ENTITY backButton.tooltip  "पछाडि जानुहोस्">
 

@@ -81,9 +81,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "मेनु बार">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "नेभिगेसन टुलबार">
-<!ENTITY personalbarCmd.label "पुस्तकचिनो टुलबार">
+<!ENTITY personalbarCmd.label "पुस्तकचिनो उपकरणपट्टि ">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "पुस्तकचिनोहरू उपकरणपट्टी वस्तु">
+<!ENTITY bookmarksToolbarItem.label "उपकरणपट्टि मा वस्तुहरू पुस्तकचिनो लगाउनुहोस्">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सबै ट्याबहरू पुनः लोड गर्नुहोस्">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
@@ -180,14 +180,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenupopup.label "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
-<!ENTITY addCurPagesCmd.label "सबै ट्याबहरूलाई पुस्तकचिनो लगाउनुहोस्...">
+<!ENTITY addCurPagesCmd.label "सबै ट्याबहरूमा पुस्तकचिनो लगाउनुहोस्...">
 <!ENTITY showAllBookmarks2.label "सबै पुस्तकचिनोहरू देखाउनुहोस्">
 <!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तकचिनोहरू">
-<!ENTITY bookmarksToolbarChevron.tooltip "अरु पुस्तकचिनोहरू देखाउनुहोस्">
-<!ENTITY showRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो">
+<!ENTITY bookmarksToolbarChevron.tooltip "अरू पुस्तकचिनोहरू देखाउनुहोस्">
+<!ENTITY showRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो देखाउनुहोस्">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो">
+<!ENTITY hideRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो हटाउनुहोस्">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पछाडि जाने">
@@ -240,13 +240,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "गृह">
 
-<!ENTITY bookmarksButton.label          "पुस्तकचिनो">
+<!ENTITY bookmarksButton.label          "पुस्तकचिनोहरू">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तकचिनोहरू">
-<!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो टुलबार देखाउनुहोस्">
-<!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो टुलबार देखाउनुहोस्">
+<!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
+<!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
 
 <!ENTITY containersMenu.label "कन्टेनरहरू">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -512,7 +512,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रूपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्">
-<!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कलाई पुस्तकचिनो हाल्नुहोस्">
+<!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कमा पुस्तकचिनो लगाउनुहोस्">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यो फ्रेमलाई पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस ट्याबमा पुस्तकचिनो लगाउनुहोस्…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "प्रतिलिपि गर्नुहोस्">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
