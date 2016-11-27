@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "नाम">
-<!ENTITY addButton.label      "र नयाँ कन्टेनर थप्नुहोस्">
+<!ENTITY addButton.label      "नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; गोपनियतामा जानुहोस्">
+<!ENTITY backLink.label       "#171; गोपनियतामा जानुहोस्">
 
 <!ENTITY window.title         "नयाँ कन्टेनर थप्नुहोस्">
-<!ENTITY window.width         "४५ em">
+<!ENTITY window.width         "45 em">
 
-<!ENTITY name.label           "र नाम:">
+<!ENTITY name.label           "नाम:">
 <!ENTITY name.accesskey       "N">
 <!ENTITY icon.label           "प्रतिमाः">
 <!ENTITY icon.accesskey       "I">
