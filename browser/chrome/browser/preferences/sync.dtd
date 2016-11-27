@@ -36,6 +36,8 @@
 <!ENTITY engine.addons.label        "অ্যাড-অন (A)">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "ডিভাইসের নাম:">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইসের নাম">
 
 
@@ -75,12 +77,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
 
 
-
-
-
-
-
-
+<!ENTITY disconnect.label            "বিচ্ছিন্ন">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "ইমেল যাচাই">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "যেকোন স্থান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য সব কিছুই পাবেন।">
 <!ENTITY welcome.signIn.label "সাইন ইন">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; এর সাথে কানেক্ট করো">
 <!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "সাইন ইন">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "সব ডিভাইসগুলি জুড়ে সিঙ্ক করুন">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
