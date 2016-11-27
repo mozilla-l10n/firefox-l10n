@@ -166,7 +166,7 @@
    - label for the checkbox that toggles source maps in the Debugger -->
 
 <!ENTITY options.sourceMaps.label      "ماخذ نقشہ جات اہل بنائیں">
-
+<!ENTITY options.sourceMaps.tooltip    "اگر آپ ان اختیارات کو اہل بناتے ھیں تو ماخذات ٹھیک کرنے والے اور کنسول کے ساتھ نقش ھو جاے گا۔">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -176,7 +176,7 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "اصل ماخذ دکھائیں ">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "اصل ماخذ دکھائیں (مثلا Sass مسل) انداز تدوین کار اور انسپیکٹر">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "انداز تدوین کار اور انسپکٹر میں اصل ماخذ (مثلا SASS مسل) دکھائیں">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
