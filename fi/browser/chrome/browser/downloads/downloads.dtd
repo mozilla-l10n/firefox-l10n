@@ -63,6 +63,7 @@
 <!ENTITY cmd.removeFromHistory.label      "Poista historiasta">
 <!ENTITY cmd.removeFromHistory.accesskey  "h">
 <!ENTITY cmd.clearList2.label             "Tyhjennä esikatselupaneeli">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Tyhjennä latauslista">
 <!ENTITY cmd.clearDownloads.accesskey     "a">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
