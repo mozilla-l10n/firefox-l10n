@@ -19,7 +19,7 @@
 <!ENTITY tabCrashed.multiple.offerHelpMessage "सामग्री पुनः लोड गर्न &tabCrashed.restoreTab; वा &tabCrashed.restoreAll; छान्नुहोस्।">
 <!ENTITY tabCrashed.requestHelp "के तपाईँ हामीलाई मद्दत गर्नुहुन्छ?">
 <!ENTITY tabCrashed.requestHelpMessage "दुर्घटनाका विवरणहरुले हामीलाई समस्याहरु निदान गर्न र &brandShortName; राम्रो बनाउन मदत गर्छन्।">
-<!ENTITY tabCrashed.requestReport "यो ट्याबलाइ रिपोर्ट गर्नुहोस्">
+<!ENTITY tabCrashed.requestReport "यो ट्याबलाई रिपोर्ट गर्नुहोस्">
 <!ENTITY tabCrashed.sendReport2 "तपाईंले हेरिरहनु भएको ट्याबका लागि एक दुर्घटना रिपोर्ट पठाउनुहोस्।">
 <!ENTITY tabCrashed.commentPlaceholder2 "वैकल्पिक टिप्पणीहरु (टिप्पणीहरू सार्वजनिक रूपमा देखिने छन्)">
 <!ENTITY tabCrashed.includeURL2 "यो दुर्घटनाको विवरणसँग पृष्ठको URL लाई पनि समावेश गर्नेुहोस्">
