@@ -59,21 +59,21 @@
 <!ENTITY rights3.webservices-c "। अन्य सेवा र सुविधा अनुप्रयोगको प्राथमिकताहरूबाट अक्षम गर्न सकिन्छ।‌">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "सुरक्षित ब्राउजिङ: ">
-<!ENTITY rights.safebrowsing-b "सुरक्षित ब्राउजिङ विशेषता असक्षम गर्न सिफारिस गरिएको छैन किनकि त्यसले तपाईँलाई असुरक्षित साइटहरू तिर लान सक्छ।  यदि तपाईँ विशेषता पूर्ण रुपमा अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:">
+<!ENTITY rights.safebrowsing-a "सुरक्षित ब्राउजिङ्ग: ">
+<!ENTITY rights.safebrowsing-b "सुरक्षित ब्राउजिङ्ग विशेषता असक्षम गर्न सिफारिस गरिएको छैन किनकि त्यसले तपाईँलाई असुरक्षित साइटहरू तिर लान सक्छ।  यदि तपाईँ विशेषता पूर्ण रुपमा अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:">
 <!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राथमिकताहरू खोल्नुहोस्">
 <!ENTITY rights.safebrowsing-term2 "सुरक्षा छान्नुहोस्">
 <!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; विकल्प जाँच नगर्नुहोस्">
-<!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ अहिले निष्कृय छ">
+<!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ्ग अहिले निष्कृय छ">
 <!-- location aware browsing points for branded builds -->
 
-<!ENTITY rights.locationawarebrowsing-a "स्थान सचेत ब्राउजिङ: ">
+<!ENTITY rights.locationawarebrowsing-a "स्थान सचेत ब्राउजिङ्ग: ">
 <!ENTITY rights.locationawarebrowsing-b "सधैँ लागू छ।  कुनै स्थान जानकारी कहिल्यै पनि तपाईँको अनुमति बिना पठाइएको छैन।  तपाईँ विशेषता पूर्ण अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:">
 <!ENTITY rights.locationawarebrowsing-term1a "URL बारमा लेख्नुहोस् ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config‌">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled प्राथमिकतामा दुई पटक क्लिक गर्नुहोस्">
-<!ENTITY rights.locationawarebrowsing-term4 "स्थान-सचेत ब्राउजिङ अहिले अक्षम छ">
+<!ENTITY rights.locationawarebrowsing-term4 "स्थान-सचेत ब्राउजिङ्ग अहिले अक्षम छ">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
@@ -82,7 +82,7 @@
 <!ENTITY rights.webservices-term1-unbranded "यो उत्पादनको लागि कुनै पनि गोपनीयता नीति यहाँ सूचीबद्ध गर्नुपर्छ।">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term1 "&vendorShortName; र यसको योगकर्ता, अनुमति पत्र प्रदायक र साझेदारहरु सबैभन्दा सही र अद्यावदिक सेवाहरु प्रदान गर्न काम गर्छन।  तर, हामी यो जानकारी व्यापक र त्रुटि-रहित छ भन्ने ग्यारेन्टी गर्न सक्दैनौ।  उदाहरणका लागि, सुरक्षित ब्राउजिङ सेवा ले केही जोखिमपूर्ण साइटहरु पहिचान नगर्न सक्छ र त्रुटिले केही सुरक्षित साइट लाई असुरक्षित पहिचान गर्न सक्छ र स्थान जागरूक सेवा, हाम्रो सेवा प्रदायक ले फर्काउने सबै स्थानहरू अनुमान मात्र हो र न हामि न त हाम्रो सेवा प्रदायकले प्रदान गरिएका स्थानहरु को सटीकता ग्यारेन्टी गर्छ।">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; र यसको योगकर्ता, अनुमति पत्र प्रदायक र साझेदारहरु सबैभन्दा सही र अद्यावदिक सेवाहरु प्रदान गर्न काम गर्छन।  तर, हामी यो जानकारी व्यापक र त्रुटि-रहित छ भन्ने ग्यारेन्टी गर्न सक्दैनौ।  उदाहरणका लागि, सुरक्षित ब्राउजिङ्ग सेवा ले केही जोखिमपूर्ण साइटहरु पहिचान नगर्न सक्छ र त्रुटिले केही सुरक्षित साइट लाई असुरक्षित पहिचान गर्न सक्छ र स्थान जागरूक सेवा, हाम्रो सेवा प्रदायक ले फर्काउने सबै स्थानहरू अनुमान मात्र हो र न हामि न त हाम्रो सेवा प्रदायकले प्रदान गरिएका स्थानहरु को सटीकता ग्यारेन्टी गर्छ।">
 <!ENTITY rights.webservices-term2 "&vendorShortName; ले आफ्नै विवेकमा सेवाहरु परिवर्तन गर्न वा टुटाउन सक्छ।">
 <!ENTITY rights2.webservices-term3 "तपाईँलाई यी &brandShortName; को संस्करणमा रहेका सेवाहरू प्रयोग गर्न स्वागत छ, र &vendorShortName; ले तपाईँलाई त्यसो गर्न आफ्ना अधिकारहरू प्रदान गर्छ,  &vendorShortName; र यस्का अनुमतिपत्र दाताले ती सेवाहरूमा पर्ने अन्य सम्पुर्ण अधिकारहरू आरक्षित गर्नुहुन्छ।  यी सर्तहरू &brandShortName; र &brandShortName; को अनुरूपी स्रोत कोड संस्करण लाई लागु हुने खुला स्रोत लाइसेन्स अन्तर्गत प्रदान, कुनै पनि अधिकारहरू सीमित गर्न अभिप्रेरित छैन।">
 <!ENTITY rights.webservices-term4 "सेवाहरू &quot;जस्ताको-तेस्तै&quot; प्रदान गरिन्छ।  &vendorShortName;, यसका योगदाताहरू, अनुमतिपत्र दाताहरू, र वितरकहरू, सम्पूर्ण वारेन्टी नामंजूर गर्नुहुन्छ चाहे ती जाहेरी वा निहित हुन्, सीमा बिनाका पनि, यस्ता वारेन्टीहरूमा सेवाहरु तपाईँका विशेष उद्देश्यहरूका लागि व्यापारीकरण र उपयुक्त हुन्छन्।  तपाईं आफ्नो उद्देश्यको लागि सेवा चयन गर्न अनि सेवाको गुणस्तर र प्रदर्शनका लागि सम्पूर्ण जोखिम वहन गर्नुहुन्छ। केहि न्यायालयहरु निहित वारंटीहरूको बहिष्करण वा परिसीमन गर्न अनुमति दिदैनन्, तसर्थ यो अस्वीकारोक्ति तपाईंलाई लागू नहुन सक्छ।">

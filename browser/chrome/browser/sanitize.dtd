@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "इतिहास">
 <!ENTITY dataSection.label            "डाटा">
 
-<!ENTITY itemHistoryAndDownloads.label     "ब्राउजिङ र इतिहास डाउनलोड">
+<!ENTITY itemHistoryAndDownloads.label     "ब्राउजिङ्ग र इतिहास डाउनलोड">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "फारम र इतिहास खोजी खोज्नुहोस्">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
