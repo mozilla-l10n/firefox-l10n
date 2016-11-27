@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- LOCALIZATION NOTE: where ".private" and ".normal" variants exist,
    - the former is shown in a private browsing window and the latter in
    - a regular (non-private) browsing window. -->
@@ -12,8 +12,8 @@
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; si v tomto okně nebude pamatovat žádnou historii.">
 <!ENTITY privatebrowsingpage.status.normal       "Aktuálně nejste v anonymním okně.">
 
-<!ENTITY privatebrowsingpage.common.description  "V okně v režimu anonymního prohlížení si nebude &brandShortName; zaznamenávat žádnou diskovou mezipaměť, cookies nebo hisotrii stránek, hledání nebo formulářů. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
-<!ENTITY privatebrowsingpage.track.warn          "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
+<!ENTITY privatebrowsingpage.common.description  "V okně v režimu anonymního prohlížení si nebude &brandShortName; zaznamenávat žádnou diskovou mezipaměť, cookies nebo historii stránek, hledání nebo formulářů. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
+<!ENTITY privatebrowsingpage.track.warn          "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Zjistit více">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "Z">
 
@@ -23,4 +23,4 @@
 
 <!ENTITY privatebrowsingpage.start.info          "Pro spuštění režimu Anonymní prohlížení klepněte na tlačítko níže nebo v nabídce zvolte Soubor ▶ Nový ▶ Anonymní okno.">
 <!ENTITY privatebrowsingpage.private.label       "Otevřít nové anonymní okno">
-<!ENTITY privatebrowsingpage.private.accesskey   "O">   
+<!ENTITY privatebrowsingpage.private.accesskey   "O">

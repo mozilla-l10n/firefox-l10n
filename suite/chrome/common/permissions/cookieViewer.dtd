@@ -4,7 +4,7 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Uložené cookies">
 <!ENTITY     tab.bannedservers.label        "Nastavení webových serverů">
-<!ENTITY     div.bannedservers.label        "Výběr serverů v Internetu, které mohou a nemohou ukládat cookies na tomto počítači.">
+<!ENTITY     div.bannedservers.label        "Výběr serverů v internetu, které mohou a nemohou ukládat cookies na tomto počítači.">
 <!ENTITY     div.cookiesonsystem.label      "Zobrazení a odstranění cookies uložených na tomto počítači.">
 <!ENTITY     treehead.cookiename.label      "Název cookie">
 <!ENTITY     treehead.cookiedomain.label    "Server">

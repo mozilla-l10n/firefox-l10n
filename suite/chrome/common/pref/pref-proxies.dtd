@@ -6,7 +6,7 @@
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Proxy servery">
-<!ENTITY  pref.proxies.desc             "Proxy server je síťová služba, která umožňuje filtrovat a urychlovat připojení k Internetu.">
+<!ENTITY  pref.proxies.desc             "Proxy server je síťová služba, která umožňuje filtrovat a urychlovat připojení k internetu.">
 <!ENTITY  proxyTitle.label              "Nastavení proxy serverů pro přístup k internetu">
 <!ENTITY  directTypeRadio.label         "Přímé připojení k síti">
 <!ENTITY  directTypeRadio.accesskey     "j">
