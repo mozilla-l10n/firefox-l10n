@@ -44,7 +44,7 @@
      Firefox. -->
 
 
-<!ENTITY fxaccount_back_to_browsing "ब्राउजिङमा फिर्ता जानुहोस् ">
+<!ENTITY fxaccount_back_to_browsing "ब्राउजिङ्गमा फिर्ता जानुहोस्">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मा स्वागत छ ">
 <!ENTITY fxaccount_getting_started_description2 "आफ्नो ट्याबहरू, पुस्तकचिनो, लगिनहरु र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "जडान अन्त&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox खाता हटाउने?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो यन्त्रमा तपाईँको ब्राउजिङ डाटा मेटिने छैन।">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो यन्त्रमा तपाईँको ब्राउजिङ्ग डाटा मेटिने छैन।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox खाता &formatS; हटाइयो।">
