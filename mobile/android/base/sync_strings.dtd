@@ -11,10 +11,10 @@
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; सँग जडान गर्नुहोस्">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "आफ्नो नयाँ उपकरण सक्रिय गर्न, त्यो उपकरणमा “Set up &syncBrand.shortName.label;” छनोट गर्नुहोस्।">
-<!ENTITY sync.subtitle.pair.label "सक्रिय गर्नलाई, \&quot;उपकरणसँग जोडि बनाउनुहोस् \&quot; छान्नुहोस्।">
+<!ENTITY sync.subtitle.connect.label "आफ्नो नयाँ यन्त्र सक्रिय गर्न, त्यो उपकरणमा “Set up &syncBrand.shortName.label;” छनोट गर्नुहोस्।">
+<!ENTITY sync.subtitle.pair.label "सक्रिय गर्नलाई, \&quot;यन्त्रसँग जोडि बनाउनुहोस् \&quot; छान्नुहोस्।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.nodevice.label "म सँग उपकरण साथमा छैन...">
+<!ENTITY sync.link.nodevice.label "मसँग यन्त्र साथमा छैन...">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.passwords2 "भित्र छिर्ने">
@@ -56,7 +56,7 @@
 <!ENTITY fxaccount_status_auth_server "खाता सर्भर">
 <!ENTITY fxaccount_status_sync_now "अब सिङ्क गर्नुहोस्">
 <!ENTITY fxaccount_status_syncing2 "सिङ्क गरिँदै…">
-<!ENTITY fxaccount_status_device_name "उपकरणको नाम">
+<!ENTITY fxaccount_status_device_name "यन्त्रको नाम">
 <!ENTITY fxaccount_status_sync_server "साधनको नामः">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "जडान अन्त&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox खाता हटाउने?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो कम्प्युटरमा तपाईँको ब्राउजिङ डेटा मेटिने छैन।">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो यन्त्रमा तपाईँको ब्राउजिङ डाटा मेटिने छैन।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox खाता &formatS; हटाइयो।">
