@@ -102,7 +102,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउनुहोस्…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "इन्टरनेट नहुदा चलाउने (अफलाइन ) तथ्यांक हटाउनु होस् ">
+<!ENTITY offlineAppRemove.confirm        "अफलाइन तथ्याङ्क हटाउनुहोस्">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
 <!ENTITY certSelection.label             "अनुरोधहरू">
