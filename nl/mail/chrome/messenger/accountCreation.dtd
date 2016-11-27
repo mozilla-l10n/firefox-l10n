@@ -17,7 +17,7 @@
 <!ENTITY rememberPassword.label          "Wachtwoord onthouden">
 <!ENTITY rememberPassword.accesskey      "o">
 
-<!ENTITY imapLong.label                  "IMAP (mappen op een andere computer)">
+<!ENTITY imapLong.label                  "IMAP (externe mappen)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op uw computer bewaren)">
 
 <!ENTITY incoming.label                  "Inkomend:">
