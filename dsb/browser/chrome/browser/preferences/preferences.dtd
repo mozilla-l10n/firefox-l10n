@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Wopśimjeśe">
 <!ENTITY  paneApplications.title  "Nałoženja">
 <!ENTITY  panePrivacy.title       "Priwatnosć">
-
+<!ENTITY  paneContainers.title    "Kontejnerowe rejtarki">
 <!ENTITY  paneSecurity.title      "Wěstota">
 <!ENTITY  paneAdvanced.title      "Rozšyrjony">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
