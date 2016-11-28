@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "M">
 <!ENTITY  unpinTab.label                     "Pe i wal dirica matidi">
 <!ENTITY  unpinTab.accesskey                 "r">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Cwal Dirica matidi i Nyonyo">
+<!ENTITY  sendTabToDevice.accesskey          "o">
+<!ENTITY  sendPageToDevice.label             "Cwal Potbuk i Nyonyo">
+<!ENTITY  sendPageToDevice.accesskey         "o">
+<!ENTITY  sendLinkToDevice.label             "Cwal kakube i Nyonyo">
+<!ENTITY  sendLinkToDevice.accesskey         "o">
 <!ENTITY  moveToNewWindow.label              "Kob l dirica manyen">
 <!ENTITY  moveToNewWindow.accesskey          "d">
 <!ENTITY  bookmarkAllTabs.label              "Ket alama buk i dirica matino weng…">

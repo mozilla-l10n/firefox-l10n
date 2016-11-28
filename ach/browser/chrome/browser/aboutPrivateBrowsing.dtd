@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
 <!ENTITY privateBrowsing.title                           "Yeny i mung">
-
+<!ENTITY privateBrowsing.title.tracking                  "Yeny i mung ki Gwokke ikom lubo kor">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Ka i yenyo i Dirica me mung, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "pe gwoko">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Yeny i mung">
 
 <!ENTITY trackingProtection.title                        "Gwokke ikom lubo kor">
-
+<!ENTITY trackingProtection.description2                 "Kakube mukene tiyo ki gilubo kor me neno tic mamegi i intanet. Ki Gwokke ikom lubo kor Firefox bigengo gilubo kor madwong ma twero coko ngec ikom yeny mamegi.">
 <!ENTITY trackingProtection.startTour1                   "Nen kit ma tiyo kwede">

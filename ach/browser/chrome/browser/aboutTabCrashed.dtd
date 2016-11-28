@@ -13,14 +13,16 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
+<!ENTITY tabCrashed.header2 "Aaa. Dirica matidi ni opoto woko.">
+<!ENTITY tabCrashed.offerHelp "Watwero konyi!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Yer &tabCrashed.restoreTab; me nwoyo cano gin me potbuk.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Yer &tabCrashed.restoreTab; onyo &tabCrashed.restoreAll; me nwoyo cano gin me potbuk.">
+<!ENTITY tabCrashed.requestHelp "Ibikonyo wa?">
+<!ENTITY tabCrashed.requestHelpMessage "Ripot me poto konyo wa niang ikom peko ki miyo &brandShortName; bedo maber.">
+<!ENTITY tabCrashed.requestReport "Mi ripot ikom dirica matidi man">
+<!ENTITY tabCrashed.sendReport2 "Cwal ripot me poto pi dirica matidi ma itye ka neno ni">
 
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.includeURL2 "Ket URL me potbuk kacel ki ripot me poto man">
 <!ENTITY tabCrashed.emailPlaceholder "Ket kanonge ni me email kany">
 <!ENTITY tabCrashed.emailMe "Cwala email ka ngec mapol tye">
 <!ENTITY tabCrashed.reportSent "Ripot me poto dong kicwalo woko; wapwoyo konyo yubo &brandShortName; maber!">
