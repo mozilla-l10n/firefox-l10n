@@ -225,7 +225,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado la cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Se ha bloqueado la información de ubicación para este sitio web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ha bloqueado este sitio web para que no comparta la pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ha bloqueado la información de ubicación para este sitio web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha bloqueado almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
 
@@ -390,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
 

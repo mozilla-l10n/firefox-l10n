@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Nombre de dispositivo:">
 <!ENTITY fxaSyncDeviceName.label       "Nombre de dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambiar nombre de dispositivo…">
+<!ENTITY changeSyncDeviceName.accesskey "b">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "G">
 <!ENTITY unlinkDevice.label           "Desvincular este dispositivo">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "No ha ingresado.">
 <!ENTITY signIn.label                "Ingresar">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Cambiar imagen de perfil">
 <!ENTITY verifiedManage.label        "Administrar cuenta">
+<!ENTITY verifiedManage.accesskey    "u">
 <!ENTITY disconnect.label            "Desconectar…">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verificar correo">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Olvidar este correo">
+<!ENTITY forget.accesskey            "v">
 
 <!ENTITY welcome.description "Acceder sus pestañas, marcadores, contraseñas y más cada vez que use &brandShortName;.">
 <!ENTITY welcome.signIn.label "Ingresar">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conecte con &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear cuenta">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Ingresar">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Sincronizar todos los dispositivos">
 
