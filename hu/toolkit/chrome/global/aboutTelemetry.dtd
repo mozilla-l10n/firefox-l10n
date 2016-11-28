@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Kulcsos skalárok">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
 
