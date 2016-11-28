@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Eszköznév:">
 <!ENTITY fxaSyncDeviceName.label       "Eszköznév">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Eszköznév módosítása…">
+<!ENTITY changeSyncDeviceName.accesskey "m">
+<!ENTITY cancelChangeSyncDeviceName.label "Mégse">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "g">
+<!ENTITY saveChangeSyncDeviceName.label "Mentés">
+<!ENTITY saveChangeSyncDeviceName.accesskey "M">
 <!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label " újracsatlakoztatásához">
 
 <!ENTITY notSignedIn.label           "Nincs bejelentkezve.">
-
-
+<!ENTITY signIn.label                "Bejelentkezés">
+<!ENTITY signIn.accesskey            "B">
 <!ENTITY profilePicture.tooltip      "Profilkép módosítása">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Fiók kezelése">
+<!ENTITY verifiedManage.accesskey    "F">
+<!ENTITY disconnect.label            "A kapcsolat bontása…">
+<!ENTITY disconnect.accesskey        "t">
+<!ENTITY verify.label                "E-mail ellenőrzése">
+<!ENTITY verify.accesskey            "e">
+<!ENTITY forget.label                "E-mail elfelejtése">
+<!ENTITY forget.accesskey            "l">
 
 <!ENTITY welcome.description "Érje el lapjait, könyvjelzőit, jelszavait és sok mást bárhol is használja a &brandShortName;ot.">
 <!ENTITY welcome.signIn.label "Bejelentkezés">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">
 <!ENTITY signedOut.accountBox.title   "Kapcsolódjon egy &syncBrand.fxAccount.label;kal">
 <!ENTITY signedOut.accountBox.create  "Fiók létrehozása">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "F">
 <!ENTITY signedOut.accountBox.signin  "Bejelentkezés">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "B">
 
 <!ENTITY signedIn.engines.label       "Szinkronizáljon minden eszközén">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
