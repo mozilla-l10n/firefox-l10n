@@ -2,14 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
-
-<!ENTITY pref.categories.add.title "Dodaj kategorię">
-<!ENTITY pref.categories.addButton.label "Dodaj…">
-<!ENTITY pref.categories.addButton.accesskey "D">
+<!ENTITY pref.categories.new.title "Nowa kategoria">
+<!ENTITY pref.categories.newButton.label "Nowa…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Edytuj kategorię">
 <!ENTITY pref.categories.editButton.label "Edytuj…">
 <!ENTITY pref.categories.editButton.accesskey "E">

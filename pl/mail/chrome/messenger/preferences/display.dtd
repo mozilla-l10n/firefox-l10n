@@ -26,10 +26,10 @@
 <!ENTITY convertEmoticons.accesskey "W">
 
 <!ENTITY displayTagsText.label "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
-<!ENTITY addTagButton.label "Dodaj">
-<!ENTITY addTagButton.accesskey "D">
-<!ENTITY editTagButton.label "Edytuj">
-<!ENTITY editTagButton.accesskey "E">
+<!ENTITY newTagButton.label "Nowa…">
+<!ENTITY newTagButton.accesskey "N">
+<!ENTITY editTagButton1.label "Edytuj…">
+<!ENTITY editTagButton1.accesskey "E">
 <!ENTITY removeTagButton.label "Usuń">
 <!ENTITY removeTagButton.accesskey "U">
 
