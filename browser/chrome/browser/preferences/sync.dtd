@@ -62,6 +62,7 @@
 
 <!ENTITY notSignedIn.label           "Votre compte n’est pas connecté.">
 <!ENTITY signIn.label                "Connexion">
+<!ENTITY signIn.accesskey            "x">
 <!ENTITY profilePicture.tooltip      "Changer la photo de profil">
 <!ENTITY verifiedManage.label        "Gérer le compte">
 <!ENTITY verifiedManage.accesskey    "G">
@@ -74,7 +75,6 @@
 
 <!ENTITY welcome.description "Accédez à vos onglets, marque-pages, mots de passe et bien plus, quel que soit l’appareil sur lequel vous utilisez &brandShortName;.">
 <!ENTITY welcome.signIn.label "Se connecter">
-<!ENTITY signIn.accesskey            "S">
 <!ENTITY welcome.createAccount.label "Créer un compte">
 <!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
 
