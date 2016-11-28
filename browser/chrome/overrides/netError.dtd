@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Hoppá!">
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
+<!ENTITY captivePortal.title "Bejelentkezés a hálózatba">
+<!ENTITY captivePortal.longDesc "<p>Ez a hálózat megkövetelheti a bejelentkezést az internet eléréséhez.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Bejelentkezőképernyő megnyitása">
 
 <!ENTITY malformedURI.title "A cím érvénytelen">
 <!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
