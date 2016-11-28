@@ -38,6 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitaciones separadas por asistente">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "I">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opción envía un correo de invitación por cada asistente. Cada invitación solamente contiene como destinatario al asistente como para que las identidades de los otros asistentes no se divulguen.">
+<!ENTITY event.attendees.disallowcounter.label       "Deshabilitar contrapropuesta">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indica que no se aceptarán contrapropuestas">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
