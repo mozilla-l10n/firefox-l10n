@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Beállítások, postafiókok, címjegyzékek, szűrők és egyéb adatok importálása:">
 <!ENTITY importFromNonWin.label         "Beállítások, postafiókok, címjegyzékek, szűrők és egyéb adatok importálása:">
-
+<!ENTITY importSourceNotFound.label     "Nem található alkalmazás az adatok importálásához.">
 
 <!ENTITY importFromNothing.label        "Nincs importálás">
 <!ENTITY importFromNothing.accesskey    "N">

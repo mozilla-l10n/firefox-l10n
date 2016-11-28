@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Címzett">
 <!ENTITY fromField4.label "Feladó">
 <!ENTITY senderField4.label "Küldő">
-
+<!ENTITY author.label "Szerző">
 <!ENTITY organizationField4.label "Szervezet">
 <!ENTITY replyToField4.label "Válaszcím">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiválás">
 <!ENTITY hdrArchiveButton1.tooltip "Üzenet archiválása">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Társalgás">
+<!ENTITY hdrOpenConversationButton1.tooltip "Az üzenet társalgásának megjelenítése">
 <!ENTITY hdrSmartReplyButton1.label "Intelligens válasz">
 <!ENTITY hdrReplyButton1.label "Válasz">
 <!ENTITY hdrReplyButton2.tooltip "Válasz az üzenet feladójának">
