@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Guetar o introducir direición">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Estensión:">
 <!ENTITY urlbar.switchToTab.label     "Camudar a la llingüeta:">
 
@@ -625,24 +626,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Alloñar">
-<!ENTITY fullZoomReduceCmd.accesskey    "e">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Reafitar">
-<!ENTITY fullZoomResetCmd.accesskey     "n">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Namái facer zoom al testu">
-<!ENTITY fullZoomToggleCmd.accesskey    "p">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "m">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarra'l panel llateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Colar">
-<!ENTITY quitApplicationCmdWin2.accesskey   "S">
+<!ENTITY quitApplicationCmdWin2.accesskey   "C">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Cola de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
