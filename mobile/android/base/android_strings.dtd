@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "تيار النشاطات">
-
+<!ENTITY pref_activity_stream_summary "تلقيمات غنية من تأريخ التصفح و إعادة تصور لصفحة البداية تجعل العثور على ما تبحث عنه في &brandShortName; أسهل من أي وقت كان.">
 
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 <!ENTITY tracking_protection_prompt_text "يمنع عناصر التعقب لئلا تقلق بشأنها.">
@@ -825,16 +825,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "اذهب إلى العلامات">
 
 <!ENTITY helper_triple_readerview_open_title "متاح بدون اتصال">
-
+<!ENTITY helper_triple_readerview_open_message "علّم عناصر منظور القارئ لقراءتهم دون اتصال.">
 <!ENTITY helper_triple_readerview_open_button "أضِف إلى العلامات">
 
 <!ENTITY activity_stream_topsites "المواقع الأكثر زيارة">
-
+<!ENTITY activity_stream_highlights "أخبار">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "معلّم">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "مُزار">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "أزل">
+<!ENTITY activity_stream_delete_history "احذف من التأريخ">
