@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Doplňky">
 <!ENTITY addons.accesskey             "D">
-<!ENTITY addons.commandkey            "a">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Hledat nebo vložit adresu">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšíření:">
 <!ENTITY urlbar.switchToTab.label     "Přepnout na panel:">
 
