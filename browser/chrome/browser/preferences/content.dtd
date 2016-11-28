@@ -10,7 +10,7 @@
 <!ENTITY  notificationsPolicy.label            "Avisos">
 <!ENTITY  notificationsPolicyLearnMore.label   "Deprendi más">
 <!ENTITY  notificationsPolicyDesc3.label       "Escueyi qué sitios tienen permisu pa unviate avisos">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.accesskey  "c">
 <!ENTITY  notificationsPolicyButton.label      "Escoyer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nun me cafiar">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "m">
