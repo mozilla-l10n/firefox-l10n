@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Alama buk">
-
+<!ENTITY bookmarksMenuButton.other.label "Alamabuk Mukene">
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
 
@@ -278,8 +278,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Pwail"> 
 <!ENTITY fileMenu.accesskey       "P">
-
-
+<!ENTITY newUserContext.label             "Dirica matidi manyen me mako jami">
+<!ENTITY newUserContext.accesskey         "m">
 <!ENTITY newNavigatorCmd.label        "Dirica manyen">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
@@ -352,6 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Dirica matino ma kitimo marom">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Dirica matino pe ayaba">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -359,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me timo marom">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me timo marom">
 
 
@@ -451,7 +452,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Lok ter me yeny">
-
+<!ENTITY changeSearchSettings.tooltip "Lok ter me yeny">
 
 <!ENTITY searchInNewTab.label         "Yeny i dirica matidi manyen">
 <!ENTITY searchInNewTab.accesskey     "d">
@@ -738,11 +739,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Dirica matino ma kitimo marom">
 
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Dony iyie Firefox ki i nyonyo ni mukene me neno dirica matino gi kany.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kitimo marom pud petye!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Imito neno dirica matino ni ki i nyonyo mukene kany?">
 
-
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "Dirica matino pe ayaba">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Yab ter me &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -755,8 +756,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "m">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yab i dirica manyen me mung">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "m">
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Ket alama buk iye dirica matidi man…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "K">
 <!ENTITY syncedTabs.context.copy.label                       "Lok">
 <!ENTITY syncedTabs.context.copy.accesskey                   "L">
 

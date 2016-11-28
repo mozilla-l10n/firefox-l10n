@@ -22,7 +22,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "Itwero bene ">
 
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Gin mukato">
 
@@ -44,7 +44,8 @@
 <!ENTITY  acceptCookies.label           "Ye angija ki bot kakube">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Yee angija ki bot dul me adek:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "e">
 <!ENTITY  acceptThirdParty.always.label   "Jwijwi">
 <!ENTITY  acceptThirdParty.never.label    "Pe matwal">
 <!ENTITY  acceptThirdParty.visited.label  "Ki i ma kilimo">
@@ -105,5 +106,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Nong ngec mapol">
 
 
-
-
+<!ENTITY  browserContainersSettings.label        "Ter…">
+<!ENTITY  browserContainersSettings.accesskey    "r">

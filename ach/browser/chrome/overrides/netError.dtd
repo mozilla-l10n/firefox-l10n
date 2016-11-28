@@ -74,6 +74,7 @@
 <!ENTITY nssFailure2.title "Kube maber pe olare">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pot buk ma i tye ka temo neno ne ni pe kitwero nyuto ne pien twero pi tic ma kinongo ni pe ki romo moko.</li> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec me peko man.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Kube ni pe tye ki ber bedo">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -100,6 +101,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Kube ni pe tye ki ber bedo">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Ngec ma lamal: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -112,6 +114,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY inadequateSecurityError.title "Kube ni pe tye ki ber bedo">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

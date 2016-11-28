@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Yab dirica manyen iyie dirica matidi manyen aye">
+<!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnCloseMultipleTabs.label  "Niang an kace atye ka loro dirica matino mapol">
 <!ENTITY warnCloseMultipleTabs.accesskey  "a">
