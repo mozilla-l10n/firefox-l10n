@@ -82,7 +82,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "ای میل کی توثیق کریں">
 <!ENTITY verify.accesskey            "ت">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
-<!ENTITY forget.accesskey            "F">
+<!ENTITY forget.accesskey            "ب">
 
 <!ENTITY welcome.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید کی رسائی کریں جہاں پر بھی آپ &brandShortName; استعمال کری۔">
 <!ENTITY welcome.signIn.label " سائن ان کریں">
