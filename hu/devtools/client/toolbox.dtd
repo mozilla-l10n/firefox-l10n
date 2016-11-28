@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Ezen beállítás bekapcsolásakor a parancsok és a kimenet a Webkonzolon időbélyeggel jelennek meg">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Hibakereső">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Forrástérképek engedélyezése">
+<!ENTITY options.sourceMaps.tooltip    "Ha engedélyezi ezt a beállítást, akkor a források le lesznek képezve a hibakeresőben és a konzolban.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
