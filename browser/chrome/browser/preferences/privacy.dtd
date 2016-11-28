@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Uzzināt vairāk">
 <!ENTITY  browserContainersEnabled.label        "Aktivēt saturošās cilnes">
 <!ENTITY  browserContainersEnabled.accesskey    "u">
+<!ENTITY  browserContainersSettings.label        "Iestatījumi...">
+<!ENTITY  browserContainersSettings.accesskey    "i">

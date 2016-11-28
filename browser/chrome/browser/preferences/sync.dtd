@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Ierīces nosaukums:">
 <!ENTITY fxaSyncDeviceName.label       "Ierīces nosaukums">
 <!ENTITY changeSyncDeviceName.label "Mainīt ierīces nosaukumu…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Atcelt">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Saglabāt">
+<!ENTITY saveChangeSyncDeviceName.accesskey "r">
 <!ENTITY unlinkDevice.label           "Atvienot šo ierīci">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Jūs neesat pieslēdzies.">
 <!ENTITY signIn.label                "Pieslēgties">
+<!ENTITY signIn.accesskey            "p">
 <!ENTITY profilePicture.tooltip      "Mainīt profila attēlu">
 <!ENTITY verifiedManage.label        "Pārvaldīt kontu">
+<!ENTITY verifiedManage.accesskey    "a">
 <!ENTITY disconnect.label            "Atslēgties…">
+<!ENTITY disconnect.accesskey        "A">
 <!ENTITY verify.label                "Apstiprināt epastu">
+<!ENTITY verify.accesskey            "p">
 <!ENTITY forget.label                "Aizmirst šo epastu">
+<!ENTITY forget.accesskey            "a">
 
 <!ENTITY welcome.description "Izmantojiet cilnes, grāmatzīmes un paroles visur, kur Jums ir &brandShortName;.">
 <!ENTITY welcome.signIn.label "Pieslēgties">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.">
 <!ENTITY signedOut.accountBox.title   "Pieslēdzieties ar &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Izveidot kontu">
+<!ENTITY signedOut.accountBox.create.accesskey  "I">
 <!ENTITY signedOut.accountBox.signin  "Pieslēgties">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Sinhronizēt visās ierīcēs">
 

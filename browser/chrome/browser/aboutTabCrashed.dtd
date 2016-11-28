@@ -13,8 +13,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Pff. Jūsu cilne nupat avarēja.">
 <!ENTITY tabCrashed.offerHelp "Mēs varam jums palīdzēt!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Izvēlieties &tabCrashed.restoreTab;, lai atjaunotu lapas saturu.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Izvēlieties &tabCrashed.restoreTab; vai &tabCrashed.restoreAll;, lai atjaunotu lapu.">
+<!ENTITY tabCrashed.requestHelp "Vai palīdzēsiet mums?">
+<!ENTITY tabCrashed.requestHelpMessage "Avāriju ziņojumi palīdz mums noteikt problēmas un uzlabot &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Ziņot par šo cilni">
+<!ENTITY tabCrashed.sendReport2 "Nosūtiet avārijas ziņojumu par cilni, ko šobrīd aplūkojat">
+<!ENTITY tabCrashed.commentPlaceholder2 "Komentārs, nav obligāts (komentārs būs redzams publiski)">
+<!ENTITY tabCrashed.includeURL2 "Nosūtīt arī lapas adresi">
 <!ENTITY tabCrashed.emailPlaceholder "Šeit ievadiet savu epasta adresi">
 <!ENTITY tabCrashed.emailMe "Paziņot man kad ir pieejama papildu informācija">
 <!ENTITY tabCrashed.reportSent "Avārijas ziņojums ir nosūtīts, paldies, ka palīdzat uzlabot &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit "Pieprasīt fona cilnes">
+<!ENTITY tabCrashed.autoSubmit "Atjauniniet iestatījumus, lai automātiski nosūtītu uzkrātos avāriju ziņojumus (un saņemtu mazāk šādu paziņojumu nākotnē)">
