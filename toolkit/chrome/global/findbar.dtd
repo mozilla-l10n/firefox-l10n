@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "A kifejezés következő előfordulásának keresése">
 <!ENTITY previous.tooltip "A kifejezés előző előfordulásának keresése">
 <!ENTITY findCloseButton.tooltip "Keresősáv bezárása">
-
-
+<!ENTITY highlightAll.label "Összes kiemelése">
+<!ENTITY highlightAll.accesskey "s">
 <!ENTITY highlightAll.tooltiptext "A keresett kifejezés kiemelése">
 <!ENTITY caseSensitive.label "Kis- és nagybetűk">
 <!ENTITY caseSensitive.accesskey "i">
