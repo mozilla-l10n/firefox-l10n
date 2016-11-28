@@ -9,14 +9,14 @@
 <!ENTITY privateBrowsing.title                           "Restolar en privao">
 <!ENTITY privateBrowsing.title.tracking                  "Restolar en privao con proteición de rastrexu">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando restoles nuna ventana privada, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun guardará">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun va guardar">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "páxines visitaes">
 <!ENTITY aboutPrivateBrowsing.info.searches              "guetes">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ficheros temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "guardará">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "va guardar">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descargues">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
