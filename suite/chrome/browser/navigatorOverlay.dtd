@@ -89,7 +89,7 @@
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Hledání na webu">
 <!ENTITY searchInternetCmd.accesskey "W">
-<!ENTITY searchInternet.commandKey "f">
+<!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Přeložit stránku">
 <!ENTITY translateMenu.accesskey "l">
 
