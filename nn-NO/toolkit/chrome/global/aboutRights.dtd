@@ -54,7 +54,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; brukar vevbaserte informasjonstenester (&quot;Tenester&quot;) for å tilgjengeleggjera nokre av funksjonane i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ynskjer å bruka ei eller fleire av tenestene, eller om du ikkje kan akseptera vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du ">
+<!ENTITY rights2.webservices-a "&brandFullName; brukar vevbaserte informasjonstenester («Tenester») for å tilgjengeleggjera nokre av funksjonane i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ynskjer å bruka ei eller fleire av tenestene, eller om du ikkje kan akseptera vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du ">
 <!ENTITY rights2.webservices-b "her">
 <!ENTITY rights3.webservices-c ". Andre funksjonar og tenester kan slåast av i programinnstillingane.">
 <!-- safe browsing points for branded builds -->
