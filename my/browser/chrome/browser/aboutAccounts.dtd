@@ -12,3 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.title "ချိတ်ဆက်မှု မရှိပါ">
 <!ENTITY aboutAccounts.noConnection.description "လက်မှတ်ထိုးဝင်ရောက်ရန် အင်တာနက်နှင့် ချိတ်ဆက်ထားရပါမည်။">
 <!ENTITY aboutAccounts.noConnection.retry "နောက်တစ်ကြိမ် ပြုလုပ်ကြည့်ပါ">
+<!ENTITY aboutAccounts.badConfig.title "မှားယွင်းနေသော အထိုင်ချမှု">
