@@ -30,6 +30,11 @@
 <!ENTITY generic.title "Savādi gan...">
 <!ENTITY generic.longDesc "<p>Kāda nezināma iemesla dēļ &brandShortName; nevar atvērt šo lapu.</p>">
 
+<!ENTITY captivePortal.title "Pieteikšanās tīklā">
+<!ENTITY captivePortal.longDesc "<p>Tīkls var lūgt jums pierakstīties, lai izmantotu internetu.</p>">
+
+<!ENTITY openPortalLoginPage.label "Parādīt autorizācijas lapu">
+
 <!ENTITY malformedURI.title "Adrese nav pareiza">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tīmekļa lapu adreses parasti raksta kā <strong>http://www.example.com/</strong></li> <li>Pārliecinieties, ka izmantojat pareizās slīpsvītras (proti, <strong>/</strong>).</li> </ul>">
 
