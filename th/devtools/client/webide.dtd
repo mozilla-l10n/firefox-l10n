@@ -9,8 +9,13 @@
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_selectApp_label "เปิดแอป…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ติดตั้งและทำงาน">
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "หยุดแอป">
+<!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ดีบั๊กแอป">
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "เอาโครงการออก">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
@@ -19,24 +24,31 @@
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
-<!ENTITY runtimeMenu_showDevicePrefs_label "การตั้งค่าอุปกรณ์">
+<!ENTITY runtimeMenu_showDevicePrefs_label "ค่าที่ตั้งของอุปกรณ์">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "ดู">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "เปิด/ปิดตัวแก้ไข">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ซูมเข้า">
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ซูมออก">
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "กลับค่าเดิมของการซูม">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "เปิดแอป">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
@@ -47,19 +59,25 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "โครงการของฉัน">
 <!ENTITY projectPanel_tabs "แท็บ">
+<!ENTITY runtimePanel_usb "อุปกรณ์ USB">
+<!ENTITY runtimePanel_wifi "อุปกรณ์ Wi-Fi">
 <!ENTITY runtimePanel_other "อื่น ๆ">
-<!ENTITY runtimePanel_nousbdevice "ไม่พบอุปกรณ์ของคุณ?">
+<!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "ถูกต้อง">
 <!ENTITY details_warning_header "คำเตือน">
+<!ENTITY details_error_header "ข้อผิดพลาด">
 <!ENTITY details_description "คำอธิบาย">
 <!ENTITY details_location "ตำแหน่งที่ตั้ง">
 <!ENTITY details_removeProject_button "เอาโครงการออก">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "แอปใหม่">
+<!ENTITY newAppHeader "เลือกแม่แบบ">
 <!ENTITY newAppLoadingTemplate "กำลังโหลดแม่แบบ…">
 <!ENTITY newAppProjectName "ชื่อโครงการ:">
 
@@ -119,7 +137,11 @@
 
 <!-- Simulator Options -->
 <!ENTITY simulator_reset "เรียกคืนค่าปริยาย">
+<!ENTITY simulator_name "ชื่อ">
+<!ENTITY simulator_software "ซอฟต์แวร์">
 <!ENTITY simulator_version "รุ่น">
 <!ENTITY simulator_profile "โพรไฟล์">
 <!ENTITY simulator_hardware "ฮาร์ดแวร์">
 <!ENTITY simulator_device "อุปกรณ์">
+<!ENTITY simulator_screenSize "หน้าจอ">
+<!ENTITY simulator_pixelRatio "อัตราส่วนพิกเซล">
