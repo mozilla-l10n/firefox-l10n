@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label "Upoważnienie">
 <!ENTITY authRequired.button.accesskey "a">
 
-<!ENTITY enableCloudFileAccountOffer.label "Proponuj współdzielenie plików większych niż">
+<!ENTITY enableCloudFileAccountOffer.label "Proponuj udostępnianie plików większych niż">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
