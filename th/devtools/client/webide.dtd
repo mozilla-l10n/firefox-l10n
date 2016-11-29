@@ -128,13 +128,14 @@
 <!ENTITY permissionstable_name_header "ชื่อ">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "ข้อมูล Runtime">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeobject "วัตถุ">
 <!ENTITY device_typenone "เลือกชนิด">
 
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "การตั้งค่าอุปกรณ์">
+<!ENTITY devicepreference_title "ค่าที่ตั้งของอุปกรณ์">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">
