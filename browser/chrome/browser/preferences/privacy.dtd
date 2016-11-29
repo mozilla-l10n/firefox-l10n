@@ -70,7 +70,7 @@
 <!ENTITY rememberHistory2.label "Conserva la cronologia di navigazione e dei download">
 <!ENTITY rememberHistory2.accesskey "C">
 <!ENTITY rememberSearchForm.label "Conserva la cronologia delle ricerche e dei moduli">
-<!ENTITY rememberSearchForm.accesskey "o">
+<!ENTITY rememberSearchForm.accesskey "g">
 <!ENTITY clearOnClose.label "Cancella la cronologia alla chiusura di &brandShortName;">
 <!ENTITY clearOnClose.accesskey "s">
 <!ENTITY clearOnCloseSettings.label "Impostazioni…">
@@ -80,4 +80,4 @@
 <!ENTITY browserContainersEnabled.label "Attiva schede contenitore">
 <!ENTITY browserContainersEnabled.accesskey "h">
 <!ENTITY browserContainersSettings.label "Impostazioni…">
-<!ENTITY browserContainersSettings.accesskey "I">
+<!ENTITY browserContainersSettings.accesskey "o">
