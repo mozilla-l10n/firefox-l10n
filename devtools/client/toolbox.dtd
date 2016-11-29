@@ -175,7 +175,7 @@
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "เปิดใช้งาน persistent logs">
+<!ENTITY options.enablePersistentLogs.label    "เปิดใช้งานการเก็บประวัติแบบถาวร">
 <!ENTITY options.enablePersistentLogs.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ เว็บคอนโซลและตัววิเคราห์เครือข่ายจะไม่ล้างค่าเมื่อคุณเปลี่ยนไปยังหน้าเว็บใหม่">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
