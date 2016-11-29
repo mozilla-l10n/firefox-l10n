@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Tulajdonságok">
+<!ENTITY propertiesMenu.accesskey                       "u">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Címjegyzék tulajdonságai">
+<!ENTITY abPropertiesMenu.accesskey                     "C">
+<!ENTITY contactPropertiesMenu.label                    "Partner tulajdonságai">
+<!ENTITY contactPropertiesMenu.accesskey                "P">
+<!ENTITY mailingListPropertiesMenu.label                "Levelezőlista tulajdonságai">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Nézet">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Új lista">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Szerkesztés">
+<!ENTITY propertiesContext.label                        "Tulajdonságok">
+<!ENTITY propertiesContext.accesskey                    "u">
+<!ENTITY abPropertiesContext.label                      "Tulajdonságok">
+<!ENTITY abPropertiesContext.accesskey                  "u">
+<!ENTITY editContactContext.label                       "Partner szerkesztése">
+<!ENTITY editContactContext.accesskey                   "P">
+<!ENTITY editMailingListContext.label                   "Lista szerkesztése">
+<!ENTITY editMailingListContext.accesskey               "L">
 <!ENTITY newmsgButton.label                             "Új üzenet">
 <!ENTITY newmsgButton.accesskey                         "z">
 <!ENTITY newIM.label                                    "Azonnali üzenet">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
 <!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
 <!ENTITY editPropertiesButton.tooltip                   "A kijelölt elem szerkesztése">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "A kijelölt címjegyzék tulajdonságainak szerkesztése">
+<!ENTITY editContactPropertiesButton.tooltip            "A kijelölt partner szerkesztése">
+<!ENTITY editMailingListPropertiesButton.tooltip        "A kijelölt levelezőlista szerkesztése">
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">
