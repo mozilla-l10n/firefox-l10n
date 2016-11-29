@@ -8,6 +8,10 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
 <!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "เปิดแอปแบบแพ็คเกจ…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "เปิดแอปที่โฮสต์…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "เปิดแอป…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ติดตั้งและทำงาน">
@@ -19,11 +23,20 @@
 <!ENTITY projectMenu_remove_label "เอาโครงการออก">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "จัดการส่วนประกอบพิเศษ">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ค่าที่ตั้งของอุปกรณ์">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
@@ -41,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "เปิดแอป">
+<!ENTITY runtimeButton_label "เลือก Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -89,13 +103,17 @@
 <!ENTITY deck_close "ปิด">
 
 <!-- Addons -->
+<!ENTITY addons_title "ส่วนประกอบพิเศษ">
 <!ENTITY addons_aboutaddons "เปิดตัวจัดการส่วนเสริม">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "การตั้งค่า">
+<!ENTITY prefs_editor_title "ตัวแก้ไข">
 <!ENTITY prefs_general_title "ทั่วไป">
 <!ENTITY prefs_restore "เรียกคืนค่าปริยาย">
+<!ENTITY prefs_manage_components "จัดการส่วนประกอบพิเศษ">
 <!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
+<!ENTITY prefs_options_showeditor "แสดงตัวแก้ไข">
 <!ENTITY prefs_options_showeditor_tooltip "แสดงตัวแก้ไขภายใน">
 <!ENTITY prefs_options_tabsize "ขนาดแท็บ">
 <!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
@@ -118,6 +136,8 @@
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">
 <!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
+<!ENTITY devicesetting_newname "ชื่อการตั้งค่าใหม่">
+<!ENTITY devicesetting_addnew "เพิ่มการตั้งค่าใหม่">
 
 <!-- Monitor -->
 <!ENTITY monitor_help "ช่วยเหลือ">
@@ -149,3 +169,5 @@
 <!ENTITY simulator_device "อุปกรณ์">
 <!ENTITY simulator_screenSize "หน้าจอ">
 <!ENTITY simulator_pixelRatio "อัตราส่วนพิกเซล">
+<!ENTITY simulator_tv_data "การจำลองโทรทัศน์">
+<!ENTITY simulator_tv_data_open_button "เปิดไดเรกทอรีกำหนดค่า…">
