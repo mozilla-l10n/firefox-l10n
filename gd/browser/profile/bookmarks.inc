@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly Resources
+#define nightly_heading Goireasan Firefox Nightly
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Bloga Firefox Nightly
 
 
 # LOCALIZATION NOTE (bugzilla):
@@ -100,7 +100,7 @@
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 
 
-#define bugzilla Mozilla Bug Tracker
+#define bugzilla Tracaiche bugaichean Mozilla
 
 
 # LOCALIZATION NOTE (mdn):
@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn Mozilla Developer Network
+#define mdn Lìonra luchd-leasachaidh Mozilla
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):
@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools Innealan luchd-deuchainn Nightly
 
 
 # LOCALIZATION NOTE (crashes):
