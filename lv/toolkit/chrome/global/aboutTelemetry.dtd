@@ -56,6 +56,10 @@
   Skalāri
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Apkopotie skalārie
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrammas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Atzīmētās histogrammas">
