@@ -63,8 +63,10 @@
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc דיונים על Firefox Nightly ב־IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planet Mozilla
 
 #unfilter emptyLines
