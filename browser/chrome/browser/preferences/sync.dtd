@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "שם ההתקן:">
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">
 <!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
+<!ENTITY changeSyncDeviceName.accesskey "ש">
 <!ENTITY cancelChangeSyncDeviceName.label "ביטול">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ב">
 <!ENTITY saveChangeSyncDeviceName.label "שמירה">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ש">
 <!ENTITY unlinkDevice.label           "נתק התקן זה">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "לא מחובר לחשבון.">
 <!ENTITY signIn.label                "כניסה">
+<!ENTITY signIn.accesskey            "כ">
 <!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
 <!ENTITY verifiedManage.label        "ניהול חשבון">
+<!ENTITY verifiedManage.accesskey    "נ">
 <!ENTITY disconnect.label            "התנתקות…">
+<!ENTITY disconnect.accesskey        "ת">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
+<!ENTITY verify.accesskey            "א">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
+<!ENTITY forget.accesskey            "ש">
 
 <!ENTITY welcome.description "גישה ללשוניות שלך, סימניות, ססמאות ועוד בכל מקום עם &brandShortName; שלך.">
 <!ENTITY welcome.signIn.label "כניסה">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">
 <!ENTITY signedOut.accountBox.title   "התחברות עם &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "יצירת חשבון">
+<!ENTITY signedOut.accountBox.create.accesskey  "צ">
 <!ENTITY signedOut.accountBox.signin  "כניסה">
+<!ENTITY signedOut.accountBox.signin.accesskey  "כ">
 
 <!ENTITY signedIn.engines.label       "סנכרון בין התקנים">
 

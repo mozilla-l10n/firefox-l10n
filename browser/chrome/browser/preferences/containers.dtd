@@ -4,13 +4,14 @@
 
 <!ENTITY label.label          "שם">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; חזרה למסך „פרטיות”">
 
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "שם:">
 <!ENTITY name.accesskey       "ש">
-<!ENTITY icon.label           "צלמית:">
-<!ENTITY icon.accesskey       "צ">
+<!ENTITY icon.label           "סמל:">
+<!ENTITY icon.accesskey       "ס">
 <!ENTITY color.label          "צבע:">
 <!ENTITY color.accesskey      "ב">
 <!ENTITY windowClose.key      "w">

@@ -106,3 +106,5 @@
 <!ENTITY  clearOnCloseSettings.accesskey "ה">
 
 <!ENTITY  browserContainersLearnMore.label      "מידע נוסף">
+<!ENTITY  browserContainersSettings.label        "הגדרות…">
+<!ENTITY  browserContainersSettings.accesskey    "ג">
