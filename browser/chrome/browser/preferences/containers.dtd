@@ -5,7 +5,16 @@
 <!ENTITY label.label          "שם">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "שם:">
+<!ENTITY name.accesskey       "ש">
+<!ENTITY icon.label           "צלמית:">
+<!ENTITY icon.accesskey       "צ">
+<!ENTITY color.label          "צבע:">
+<!ENTITY color.accesskey      "ב">
+<!ENTITY windowClose.key      "w">
 
+<!ENTITY button.ok.label      "סיום">
+<!ENTITY button.ok.accesskey  "ס">
 
