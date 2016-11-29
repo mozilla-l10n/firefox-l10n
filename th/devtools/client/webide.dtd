@@ -63,7 +63,9 @@
 <!ENTITY projectPanel_tabs "แท็บ">
 <!ENTITY runtimePanel_usb "อุปกรณ์ USB">
 <!ENTITY runtimePanel_wifi "อุปกรณ์ Wi-Fi">
+<!ENTITY runtimePanel_simulator "ตัวจำลอง">
 <!ENTITY runtimePanel_other "อื่น ๆ">
+<!ENTITY runtimePanel_installsimulator "ติดตั้งตัวจำลอง">
 <!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
@@ -136,6 +138,8 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_title "ตัวเลือกตัวจำลอง">
+<!ENTITY simulator_remove "ลบตัวจำลอง">
 <!ENTITY simulator_reset "เรียกคืนค่าปริยาย">
 <!ENTITY simulator_name "ชื่อ">
 <!ENTITY simulator_software "ซอฟต์แวร์">
