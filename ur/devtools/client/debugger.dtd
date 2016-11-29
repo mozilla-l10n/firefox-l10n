@@ -66,7 +66,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "پکڑے گئے استثنیات کو نظر انداز کریں">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "استثنیات پر توقف کریں ">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 

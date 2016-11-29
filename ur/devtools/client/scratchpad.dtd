@@ -81,15 +81,15 @@
 
 <!ENTITY run.label                    "بھاگیں">
 <!ENTITY run.accesskey                "ب">
-<!ENTITY run.key                      "آر">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "تحقیق">
 <!ENTITY inspect.accesskey            "ت">
-<!ENTITY inspect.key                  "آئی">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "نمایش">
 <!ENTITY display.accesskey            "ی">
-<!ENTITY display.key                  "ِی">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "خوبصورت پرنٹ">
 <!ENTITY pprint.key                   "پ">

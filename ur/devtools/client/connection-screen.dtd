@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "Firefox Developer Tools بعید آلات (جیسے کہ Firefox for Android اور Firefox OS) کو ٹھیک کرنے میں مدد دیتا ہے۔ دیکھ لیں کہ آپ نے بعید آلے میں 'Remote debugging' کا اختیار آن کیا ہوا ہے۔ مزید کے لیے دیکھیں از ">
+<!ENTITY remoteHelp "Firefox Dتخلیق کار ٹول  بعید آلات (جیسے کہ Firefox for Android اور Firefox OS) کو ٹھیک کرنے میں مدد دیتا ہے۔ دیکھ لیں کہ آپ نے بعید آلے میں بعید ٹھیک کرنے کا اختیار آن کیا ہوا ہے۔ مزید کے لیے دیکھیں">
 <!ENTITY remoteDocumentation "دستاویزکاری">
 <!ENTITY remoteHelpSuffix ".">
 
