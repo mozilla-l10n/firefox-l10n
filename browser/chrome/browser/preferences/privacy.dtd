@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Barrachd fiosrachaidh">
 <!ENTITY  browserContainersEnabled.label        "Cuir an comas tabaichean soithich">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Roghainnean…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
