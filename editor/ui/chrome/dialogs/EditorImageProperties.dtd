@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Adresa wobraza:">
 <!ENTITY locationEditField.accessKey "A">
 <!ENTITY locationEditField.tooltip "Zapodajće datajowe mjeno abo adresu wobraza">
-
+<!ENTITY locationEditField.shortenedDataURI "Skrótšeny datowy URI (kopija placěruje dospołny URI w mjezyskładźe)">
 <!ENTITY title.label "Pomocny tekst:">
 <!ENTITY title.accessKey "m">
 <!ENTITY title.tooltip "HTML-atribut 'title', kotryž pomocny tekst zwobraznja">
