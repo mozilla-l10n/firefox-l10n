@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
+<!ENTITY captivePortal.title "Clàraich a-steach dhan lìonra">
+<!ENTITY captivePortal.longDesc "<p>Dh’fhaoidte gu bheil an lìonra seo a’ sparradh ort clàradh a-steach mus fhaigh thu cothrom air an eadar-lìon.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Fosgail an duilleag far an clàraich mi a-steach">
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
 <!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.example.com/</strong></li> <li>Dèan cinnteach gu bheil thu a’ cleachdadh slaisichean (.i. <strong>/</strong>).</li> </ul>">
