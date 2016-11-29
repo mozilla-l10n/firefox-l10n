@@ -176,3 +176,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Gli sviluppatori interessati al processo di verifica dei componenti aggiuntivi possono consultare il seguente ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manuale">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+<!ENTITY pluginDeprecation.description "Manca qualcosa? Alcuni plugin non sono più compatibili con &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Ulteriori informazioni.">
