@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "ตัวช่วยนำเข้า">
 
-<!ENTITY importFrom.label               "นำเข้าตัวเลือก ที่คั่นหน้า ประวัติ รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
-<!ENTITY importFromUnix.label           "นำเข้าการตั้งค่า ที่คั่นหน้า ประวัติ รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
+<!ENTITY importFrom.label               "นำเข้าตัวเลือก, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
+<!ENTITY importFromUnix.label           "นำเข้าการตั้งค่า, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
 <!ENTITY importFromBookmarks.label      "นำเข้าที่คั่นหน้าจาก:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "ไม่พบโปรแกรมที่มีข้อมูลที่คั่นหน้า ประวัติ หรือรหัสผ่าน">
+<!ENTITY noMigrationSources.label       "ไม่พบโปรแกรมที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน">
 
 <!ENTITY importSource.title             "นำเข้าการตั้งค่าและข้อมูล">
 <!ENTITY importItems.title              "รายการที่จะนำเข้า">
