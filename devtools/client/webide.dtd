@@ -74,12 +74,14 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "โครงการของฉัน">
+<!ENTITY projectPanel_runtimeApps "แอป Runtime">
 <!ENTITY projectPanel_tabs "แท็บ">
 <!ENTITY runtimePanel_usb "อุปกรณ์ USB">
 <!ENTITY runtimePanel_wifi "อุปกรณ์ Wi-Fi">
 <!ENTITY runtimePanel_simulator "ตัวจำลอง">
 <!ENTITY runtimePanel_other "อื่น ๆ">
 <!ENTITY runtimePanel_installsimulator "ติดตั้งตัวจำลอง">
+<!ENTITY runtimePanel_noadbhelper "ติดตั้งตัวช่วย ADB">
 <!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
@@ -89,6 +91,7 @@
 <!ENTITY details_error_header "ข้อผิดพลาด">
 <!ENTITY details_description "คำอธิบาย">
 <!ENTITY details_location "ตำแหน่งที่ตั้ง">
+<!ENTITY details_manifestURL "ID แอป">
 <!ENTITY details_removeProject_button "เอาโครงการออก">
 
 <!-- New App -->

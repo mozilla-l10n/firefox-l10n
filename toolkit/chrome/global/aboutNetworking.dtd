@@ -7,7 +7,7 @@
 <!ENTITY aboutNetworking.showNextTime          "แสดงคำเตือนนี้ในครั้งถัดไป">
 <!ENTITY aboutNetworking.ok                    "ตกลง">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
-<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.sockets               "ซ็อกเก็ต">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "เรียกใหม่">
@@ -16,13 +16,13 @@
 <!ENTITY aboutNetworking.port                  "พอร์ต">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "ใช้งาน">
+<!ENTITY aboutNetworking.active                "ใช้งานอยู่">
 <!ENTITY aboutNetworking.idle                  "ว่าง">
 <!ENTITY aboutNetworking.host                  "โฮสต์">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "ส่ง">
 <!ENTITY aboutNetworking.received              "รับ">
-<!ENTITY aboutNetworking.family                "Family">
+<!ENTITY aboutNetworking.family                "ตระกูล">
 <!ENTITY aboutNetworking.addresses             "ที่อยู่">
 <!ENTITY aboutNetworking.expires               "หมดอายุ (วินาที)">
 <!ENTITY aboutNetworking.messagesSent          "ข้อความที่ส่ง">
