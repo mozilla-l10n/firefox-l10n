@@ -2,13 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
+<!ENTITY propertiesMenu.label               "Tulajdonságok">
+<!ENTITY propertiesMenu.accesskey           "u">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Címjegyzék tulajdonságai">
+<!ENTITY abPropertiesMenu.accesskey         "C">
+<!ENTITY contactPropertiesMenu.label        "Partner tulajdonságai">
+<!ENTITY contactPropertiesMenu.accesskey    "P">
+<!ENTITY mailingListPropertiesMenu.label    "Levelezőlista tulajdonságai">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Címjegyzék:">
 <!ENTITY addressbookPicker.accesskey        "C">
