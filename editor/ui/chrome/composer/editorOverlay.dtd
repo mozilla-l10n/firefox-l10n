@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "Z">
 <!ENTITY insertLinkCmd2.label "Wótkaz…">
 <!ENTITY insertLinkCmd2.accesskey "k">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Pomjenjona kokulka…">
 <!ENTITY insertAnchorCmd.accesskey "m">
 <!ENTITY insertImageCmd.label "Wobraz…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "S">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Pomjenjone kokulki wótpóraś">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
