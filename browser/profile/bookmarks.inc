@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Gach tuisleadh a bha agad
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Dèan deasbad air Nightly air IRC
 
 
 # LOCALIZATION NOTE (planet):
@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet Planet Mozilla
+#define planet Planaid Mozilla
 
 
 #unfilter emptyLines
