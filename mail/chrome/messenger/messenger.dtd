@@ -907,7 +907,7 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Запис на връзка като…">
 <!ENTITY saveLinkAsCmd.accesskey "к">
-<!ENTITY saveImageAsCmd.label "Запис на изображение като…">
+<!ENTITY saveImageAsCmd.label "Запазване на изображението…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
 <!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
 <!ENTITY copyLinkCmd.accesskey "К">
