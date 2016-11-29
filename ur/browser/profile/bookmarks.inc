@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading فائر فاکس شبانہ ذریعہ
+#define nightly_heading Firefox Nightly ذریعہ
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog فائر فاکس شبانہ کے بلاگ
+#define nightly_blog Firefox Nightly بلاگ
 
 
 # LOCALIZATION NOTE (bugzilla):
