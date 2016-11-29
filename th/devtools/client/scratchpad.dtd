@@ -67,7 +67,7 @@
 <!ENTITY editMenu.label               "แก้ไข">
 <!ENTITY editMenu.accesskey           "ก">
 
-<!ENTITY run.label                    "รัน">
+<!ENTITY run.label                    "ทำงาน">
 <!ENTITY run.accesskey                "ร">
 <!ENTITY run.key                      "r">
 
@@ -120,7 +120,7 @@
 <!ENTITY resetContext2.label          "ตั้งค่าตัวแปรใหม่">
 <!ENTITY resetContext2.accesskey      "ค">
 
-<!ENTITY reloadAndRun.label           "โหลดใหม่แล้วรัน">
+<!ENTITY reloadAndRun.label           "โหลดใหม่แล้วทำงาน">
 <!ENTITY reloadAndRun.accesskey       "ม">
 <!ENTITY reloadAndRun.key             "r">
 

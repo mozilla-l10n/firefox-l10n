@@ -81,7 +81,7 @@
 <!ENTITY runtimePanel_simulator "ตัวจำลอง">
 <!ENTITY runtimePanel_other "อื่น ๆ">
 <!ENTITY runtimePanel_installsimulator "ติดตั้งตัวจำลอง">
-<!ENTITY runtimePanel_noadbhelper "ติดตั้งตัวช่วย ADB">
+<!ENTITY runtimePanel_noadbhelper "ติดตั้ง ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
