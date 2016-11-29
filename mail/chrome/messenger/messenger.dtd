@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Címzett">
 <!ENTITY sortByRecipientCmd.accesskey "z">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Szerkesztők">
+<!ENTITY sortByCorrespondentCmd.accesskey "z">
 <!ENTITY sortByUnreadCmd.label "Olvasott">
 <!ENTITY sortByUnreadCmd.accesskey "O">
 <!ENTITY sortByOrderReceivedCmd.label "Érkezési sorrend">
