@@ -13,6 +13,10 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "אנחנו יכולים לעזור לך!">
+<!ENTITY tabCrashed.requestReport "דיווח על לשונית זו">
+<!ENTITY tabCrashed.sendReport2 "שליחת דיווח קריסה עבור הלשונית הנוכחית">
+<!ENTITY tabCrashed.includeURL2 "צירוף כתובת האתר ביחד עם דיווח קריסה זה">
 <!ENTITY tabCrashed.emailPlaceholder "נא להכניס את כתובת הדוא״ל שלך כאן">
 <!ENTITY tabCrashed.emailMe "שליחת דוא״ל כאשר מידע נוסף זמין">
 <!ENTITY tabCrashed.reportSent "דיווח הקריסה כבר נשלח; תודה על עזרתך בשיפור &brandShortName;!">

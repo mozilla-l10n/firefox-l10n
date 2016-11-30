@@ -41,8 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "ביטול נעיצה של לשונית">
 <!ENTITY  unpinTab.accesskey                 "ב">
 <!ENTITY  sendTabToDevice.label              "שליחת לשונית להתקן">
+<!ENTITY  sendTabToDevice.accesskey          "ה">
 <!ENTITY  sendPageToDevice.label             "שליחת דף להתקן">
+<!ENTITY  sendPageToDevice.accesskey         "ה">
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור להתקן">
+<!ENTITY  sendLinkToDevice.accesskey         "ה">
 <!ENTITY  moveToNewWindow.label              "העבר לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
 <!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות…">
@@ -180,6 +183,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "סימניות אחרות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 <!ENTITY showRecentlyBookmarked.label     "הצגת סימניות שנוספו לאחרונה">
+<!ENTITY showRecentlyBookmarked.accesskey "צ">
 <!ENTITY hideRecentlyBookmarked.label     "הסתרת סימניות שנוספו לאחרונה">
 <!ENTITY hideRecentlyBookmarked.accesskey "ס">
 
@@ -202,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "פתיחת חלונית הודעות">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "פתיחת חלונית בקשת מיקום">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "פתיחת חלונית ההודעות של התקנת תוספות">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "פתיחת חלונית אחסון הודעות בלתי מקוון">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "פתיחת חלונית הודעת שמירת ססמה">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ניהול שיתוף תוספים חיצוניים">
@@ -381,6 +386,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
 <!ENTITY urlbar.accesskey             "ח">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "הרחבה:">
 <!ENTITY urlbar.switchToTab.label     "עבור ללשונית:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "האם לשפר את חוויית החיפוש שלך בעזרת הצעות?">
@@ -563,6 +570,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "בטל השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
 <!ENTITY mediaPlaybackRate2.label     "מהירות נגינה">
+<!ENTITY mediaPlaybackRate2.accesskey "נ">
 <!ENTITY mediaPlaybackRate050x2.label "אטית (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "א">
 <!ENTITY mediaPlaybackRate100x2.label "רגילה">

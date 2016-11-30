@@ -12,3 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.title "אין חיבור">
 <!ENTITY aboutAccounts.noConnection.description "יש להיות מחוברים לרשת האינטרנט כדי להיכנס לחשבון.">
 <!ENTITY aboutAccounts.noConnection.retry "לנסות שוב">
+<!ENTITY aboutAccounts.badConfig.title "תצורה שגויה">
