@@ -182,8 +182,8 @@
 <!ENTITY pref_category_installed_search_engines "Инсталирани машини за търсене">
 <!ENTITY pref_category_add_search_providers "Добавяне на търсещи машини">
 <!ENTITY pref_category_search_restore_defaults "Възстановяване търсещите машини">
-<!ENTITY pref_search_restore_defaults "Връщане на стандартни настройки">
-<!ENTITY pref_search_restore_defaults_summary "Връщане на стандартни настройки">
+<!ENTITY pref_search_restore_defaults "Стандартни настройки">
+<!ENTITY pref_search_restore_defaults_summary "Стандартни настройки">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -397,13 +397,13 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Изтегляния">
 <!ENTITY pref_private_data_syncedTabs "Синхронизирани раздели">
 
-<!ENTITY pref_default_browser "Задаване като стандартен браузър">
+<!ENTITY pref_default_browser "Избиране като стандартен браузър">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Посетете Поддръжка на Mozilla">
 <!ENTITY pref_about_firefox "Относно &brandShortName;">
 <!ENTITY pref_vendor_faqs "Въпроси и отговори">
 <!ENTITY pref_vendor_feedback "Даване на обратна връзка">
 
-<!ENTITY pref_dialog_set_default "Задаване като стандартна">
+<!ENTITY pref_dialog_set_default "Избиране като стандартна">
 <!ENTITY pref_dialog_default "Стандартна">
 <!ENTITY pref_dialog_remove "Премахване">
 

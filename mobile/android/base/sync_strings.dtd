@@ -54,7 +54,7 @@
 <!ENTITY fxaccount_status_signed_in_as 'Вписани сте като'>
 <!ENTITY fxaccount_status_manage_account 'Управление на сметката'>
 <!ENTITY fxaccount_status_auth_server 'Сървър на сметката'>
-<!ENTITY fxaccount_status_sync_now 'Синхронизирайте сега'>
+<!ENTITY fxaccount_status_sync_now 'Синхронизиране'>
 <!ENTITY fxaccount_status_syncing2 'Синхронизиране…'>
 <!ENTITY fxaccount_status_device_name 'Име на устройството'>
 <!ENTITY fxaccount_status_sync_server 'Сървър на Sync'>
