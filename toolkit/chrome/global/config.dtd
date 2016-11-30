@@ -38,7 +38,7 @@
 <!ENTITY modify.accesskey "м">
 <!ENTITY toggle.label "Превключване">
 <!ENTITY toggle.accesskey "П">
-<!ENTITY reset.label "Нулиране на промените">
+<!ENTITY reset.label "Нулиране">
 <!ENTITY reset.accesskey "Н">
 <!ENTITY new.label "Нов">
 <!ENTITY new.accesskey "в">
