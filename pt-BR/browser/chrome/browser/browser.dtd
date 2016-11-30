@@ -479,7 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY openLinkCmdInContainerTab.label "Abrir link em uma nova aba container">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
-<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
+<!ENTITY showOnlyThisFrameCmd.label     "Mostrar somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
@@ -635,7 +635,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom apenas do texto">
+<!ENTITY fullZoomToggleCmd.label        "Zoom somente do texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
