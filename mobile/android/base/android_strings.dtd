@@ -261,7 +261,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "Изтегляне на шрифтовете при отваряне на страницата">
 
 <!ENTITY pref_tracking_protection_title2 "Защита от проследяване">
-<!ENTITY pref_tracking_protection_summary3 "Включена при поверително сърфиране">
+<!ENTITY pref_tracking_protection_summary3 "Включено при поверително сърфиране">
 <!ENTITY pref_donottrack_title "Без проследяване">
 <!ENTITY pref_donottrack_summary "&brandShortName; ще казва на сайтовете, че не желаете да бъдете проследявани">
 
