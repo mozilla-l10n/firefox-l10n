@@ -17,6 +17,8 @@
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Color:">
 <!ENTITY color.accesskey      "o">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Listo">
+<!ENTITY button.ok.accesskey  "D">
 
