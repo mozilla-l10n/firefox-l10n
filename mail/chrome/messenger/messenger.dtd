@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "o">
 <!ENTITY sortByRecipientCmd.label "přijimarje">
 <!ENTITY sortByRecipientCmd.accesskey "j">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Dopisowarjo">
+<!ENTITY sortByCorrespondentCmd.accesskey "s">
 <!ENTITY sortByUnreadCmd.label "přečitanych">
 <!ENTITY sortByUnreadCmd.accesskey "e">
 <!ENTITY sortByOrderReceivedCmd.label "porjedźe přijeća">
@@ -494,24 +494,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Wuwiwarske nastroje">
+<!ENTITY devtoolsMenu.accesskey "u">
+<!ENTITY devToolboxCmd.label "Wuwiwarski gratowy kašćik">
+<!ENTITY devToolboxCmd.accesskey "r">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Pytanje za zmylkami přidatkow">
+<!ENTITY addonDebugCmd.accesskey "P">
+<!ENTITY tabsDebugCmd.label "Pytanje za zmylkami za wobsahowy wobłuk">
+<!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Zmylkowa konsola">
 <!ENTITY errorConsoleCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Zapisnik">
+<!ENTITY scratchpadCmd.accesskey "Z">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Powěsće wobstarać">
@@ -522,7 +527,7 @@
 <!ENTITY forwardButton.label "Dale sposrědkować">
 <!ENTITY fileButton.label "Dataja">
 <!ENTITY archiveButton.label "Archiw">
-
+<!ENTITY openConversationButton.label "Rozmołwa">
 <!ENTITY nextButton.label "Přichodna">
 <!ENTITY nextButtonToolbarItem.label "Přichodna njepřečitana">
 <!ENTITY nextMsgButton.label "Přichodny">
@@ -565,7 +570,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Wubranu Powěsć jako přiwěšk dale sposrědkować">
 <!ENTITY fileButton.tooltip "Wubranu powěsć składować">
 <!ENTITY archiveButton.tooltip "Wubrane powěsće archiwować">
-
+<!ENTITY openConversationButton.tooltip "Rozmołwu wubraneje powěsće pokazać">
 <!ENTITY nextButton.tooltip "K přichodnej njepřečitanej powěsći">
 <!ENTITY nextMsgButton.tooltip "K přichodnej powěsći přesunyć">
 <!ENTITY previousButton.tooltip "K předchadnej njepřečitanej powěsći">

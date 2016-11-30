@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Hdyž nowe powěsće dochadźeja:">
 <!ENTITY playSound.label                  "Zynk wotehrać">
 <!ENTITY playSound1.accesskey             "y">
-
-
+<!ENTITY playSoundMac.label               "Slědowacu zynkowu dataju wužić:">
+<!ENTITY playSoundMac.accesskey           "l">
 <!ENTITY showAnimatedAlert.label          "Warnowanje pokazać">
 <!ENTITY showAnimatedAlert.accesskey      "W">
-
+<!ENTITY notificationAlertSettings2.label "Warnowanja a standardny zynk dadźa so w zdźělenskim woknje systemowych nastajenjow znjemóžnić.">
 <!ENTITY customizeMailAlert.label         "Přiměrić…">
 <!ENTITY customizeMailAlert.accesskey     "i">
 

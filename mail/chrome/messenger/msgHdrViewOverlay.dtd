@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Wot">
 <!ENTITY senderField4.label "Wotpósłar">
-
+<!ENTITY author.label "Awtor">
 <!ENTITY organizationField4.label "Organizacija">
 <!ENTITY replyToField4.label "Wotmołwić na">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwować">
 <!ENTITY hdrArchiveButton1.tooltip "Tutu powěsć archiwować">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Rozmołwa">
+<!ENTITY hdrOpenConversationButton1.tooltip "Rozmołwu tuteje powěsće pokazać">
 <!ENTITY hdrSmartReplyButton1.label "Inteligentna wotmołwa">
 <!ENTITY hdrReplyButton1.label "Wotmołwić">
 <!ENTITY hdrReplyButton2.tooltip "Wotpósłarjej tuteje powěsće wotmołwić">
