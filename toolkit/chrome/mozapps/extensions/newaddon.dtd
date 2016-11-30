@@ -5,7 +5,7 @@
 <!ENTITY title           "Instalar extensão">
 <!ENTITY intro           "Um outro aplicativo no seu computador deseja modificar
                           o &brandShortName; com a seguinte extensão:">
-<!ENTITY warning         "Somente instalar extensões e temas de autores que confia.">
+<!ENTITY warning         "Só instalar extensões de autores em quem confia.">
 <!ENTITY allow           "Permitir esta instalação">
 <!ENTITY later           "Você pode mudar de ideia a qualquer momento, entrando
                           no gerenciador de extensões.">
