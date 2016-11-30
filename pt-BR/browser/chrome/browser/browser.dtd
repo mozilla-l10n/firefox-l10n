@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
-<!ENTITY  bookmarkAllTabs.accesskey          "c">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Reabrir aba">
 <!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar aba">
@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostrar todas as abas">
-<!ENTITY showAllTabsCmd.accesskey "x">
+<!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "">
 
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
@@ -270,11 +270,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Extensões">
-<!ENTITY addons.accesskey             "C">
+<!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "s">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Inspecionar Elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
