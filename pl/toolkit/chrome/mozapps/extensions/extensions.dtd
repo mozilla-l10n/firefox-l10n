@@ -205,3 +205,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Programiści zainteresowani weryfikacją swoich dodatków mogą skorzystać z ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "dokumentacji">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Więcej informacji">
