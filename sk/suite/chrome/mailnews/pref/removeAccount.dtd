@@ -7,6 +7,9 @@
 <!ENTITY removeButton.accesskey       "O">
 <!ENTITY removeAccount.label          "Odstrániť údaje o účte">
 <!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Odstráni sa iba záznam o tomto účte v aplikácii &brandShortName;. Samotný účet na serveri ostane neovplyvnený.">
+<!ENTITY removeData.label             "Odstrániť údaje správ">
+<!ENTITY removeData.accesskey         "d">
 <!ENTITY showData.label               "Zobraziť umiestnenie údajov">
 <!ENTITY showData.accesskey           "Z">
 <!ENTITY progressPending              "Odstraňovanie zvolených údajov…">
