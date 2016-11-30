@@ -30,6 +30,11 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>">
 
+<!ENTITY captivePortal.title "Masuk ke jaringan">
+<!ENTITY captivePortal.longDesc "<p>Jaringan ini mungkin mengharuskan Anda untuk masuk sebelum menggunakan internet.</p>">
+
+<!ENTITY openPortalLoginPage.label "Tampilkan Laman Masuk">
+
 <!ENTITY malformedURI.title "Alamat tidak valid">
 <!ENTITY malformedURI.longDesc "<ul> <li>Umumnya alamat web ditulis seperti ini <strong>http://www.example.com/</strong></li> <li>Pastikan Anda menggunakan garis miring depan, yakni <strong>/</strong>).</li> </ul>">
 
