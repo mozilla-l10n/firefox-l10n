@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab kroži po zavihkih po vrsti kot so bili nazadnje uporabljeni">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab kroži med zavihki po vrsti, kot so bili nazadnje uporabljeni">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Nova okna odpiraj v novih zavihkih">
