@@ -9,7 +9,7 @@
 
 <!ENTITY title      "Свързване">
 <!ENTITY header     "Свързване към отдалечено устройство">
-<!ENTITY host       "Сървър:">
+<!ENTITY host       "Хост:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Свързване">
 <!ENTITY connecting "Свързване…">

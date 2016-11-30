@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Нормална">
 <!ENTITY menu_textReset.accesskey "Н">
 
-<!ENTITY findOnCmd.label     "Намиране в страницата…">
+<!ENTITY findOnCmd.label     "Търсене в страницата…">
 <!ENTITY findOnCmd.accesskey "Н">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Търсене отново">
