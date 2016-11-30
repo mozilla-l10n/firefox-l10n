@@ -269,7 +269,7 @@
 <!ENTITY pref_tracking_protection_disabled "מנורטל">
 
 <!ENTITY pref_whats_new_notification "מה חדש ב־&brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "למד אודות תכונות חדשות לאחר עדכון">
+<!ENTITY pref_whats_new_notification_summary "מידע על תכונות חדשות לאחר עדכון">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -430,7 +430,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "דוח הבריאות של &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; אודות בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
+<!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; על בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
 <!ENTITY datareporting_abouthr_title "הצגת דוח הבריאות שלי">
 <!ENTITY datareporting_telemetry_summary "משתף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על הדפדפן שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; לעשות את הדפדפן שלך יציב יותר ובטוח">
@@ -594,7 +594,7 @@ size. -->
 <!ENTITY home_most_recent_empty "אתרים בהם ביקרת לאחרונה יופיעו כאן.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "פססט: השימוש בa &formatS1;לשונית פרטית חדשהb&formatS2; לא ישמור את ההיסטוריה שלך.">
+<!ENTITY home_most_recent_emptyhint2 "פססט: השימוש ב&formatS1;לשונית פרטית חדשה&formatS2; לא ישמור את ההיסטוריה שלך.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -694,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "עדכון זמין עבור &brandShortName;">
 <!ENTITY updater_start_select2 "נא ללחוץ להורדה">
 
-<!ENTITY updater_downloading_title2 "&brandShortName; מתקבל">
+<!ENTITY updater_downloading_title2 "&brandShortName; בהורדה">
 <!ENTITY updater_downloading_title_failed2 "ההורדה נכשלה">
 <!ENTITY updater_downloading_select2 "יש לגעת כדי להחיל את השינויים לאחר ההורדה">
 <!ENTITY updater_downloading_retry2 "נא לגעת כדי לנסות שוב">
