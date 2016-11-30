@@ -20,8 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "И">
 <!ENTITY toolsMenu.tooltip                    "Инструменти за всички добавки">
 
-<!ENTITY cmd.back.tooltip                     "Връщане назад с една страница">
-<!ENTITY cmd.forward.tooltip                  "Отиване напред с една страница">
+<!ENTITY cmd.back.tooltip                     "Връщане една страница назад">
+<!ENTITY cmd.forward.tooltip                  "Отиване една страница напред">
 
 <!ENTITY showUnsignedExtensions.button.label  "Някои разширения не можаха да бъдат проверени">
 <!ENTITY showAllExtensions.button.label       "Показване на всички разширения">

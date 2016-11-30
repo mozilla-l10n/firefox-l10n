@@ -191,9 +191,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
-<!ENTITY backButton.tooltip           "Назад една страница">
+<!ENTITY backButton.tooltip           "Връщане една страница назад">
 <!ENTITY forwardCmd.label             "Напред">
-<!ENTITY forwardButton.tooltip        "Напред една страница">
+<!ENTITY forwardButton.tooltip        "Отиване една страница напред">
 <!ENTITY backForwardButtonMenu.tooltip "Натиснете с десния бутон или дръпнете надолу, за да се покаже историята">
 <!ENTITY backForwardButtonMenuMac.tooltip "Дръпнете надолу, за да се покаже историята">
 <!ENTITY reloadCmd.label              "Презареждане">
@@ -238,7 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Търсене">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label             "Начална страница">
+<!ENTITY homeButton.label             "Начало">
 
 <!ENTITY bookmarksButton.label          "Отметки">
 <!ENTITY bookmarksCmd.commandkey "b">
