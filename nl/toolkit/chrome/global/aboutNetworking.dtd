@@ -29,8 +29,8 @@
 <!ENTITY aboutNetworking.messagesReceived      "Berichten ontvangen">
 <!ENTITY aboutNetworking.bytesSent             "Bytes verzonden">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes ontvangen">
-<!ENTITY aboutNetworking.logging               "Logging">
-<!ENTITY aboutNetworking.logTutorial           "See <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for instructions on how to use this tool.">
+<!ENTITY aboutNetworking.logging               "Logboekregistratie">
+<!ENTITY aboutNetworking.logTutorial           "Zie <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP logging</a> voor instructies over het gebruik van dit hulpmiddel.">
 <!ENTITY aboutNetworking.currentLogFile        "Huidige logbestand:">
 <!ENTITY aboutNetworking.currentLogModules     "Huidige logmodules:">
 <!ENTITY aboutNetworking.setLogFile            "Logbestand instellen">
