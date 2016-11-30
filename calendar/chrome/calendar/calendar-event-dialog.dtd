@@ -38,6 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Отделна покана за всеки участник">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "д">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Така се изпраща отделна покана за всеки един участник. Всяка покана съдържа само адреса на получателя, така че другите участници не се виждат.">
+<!ENTITY event.attendees.disallowcounter.label       "Забраняване на контрапредложения">
+<!ENTITY event.attendees.disallowcounter.accesskey   "а">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Указва, че няма да приемете отправено друго предложение">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -162,6 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Промяна на свободно/заето време">
 
 <!-- Counter box -->
+<!ENTITY counter.button.proposal.label                    "Прилагане на предложението">
+<!ENTITY counter.button.proposal.accesskey                "П">
+<!ENTITY counter.button.proposal.tooltip                  "Прилага предложението към формуляра.">
+<!ENTITY counter.button.original.label                    "Прилагане на първоначалните данни">
+<!ENTITY counter.button.original.accesskey                "п">
+<!ENTITY counter.button.original.tooltip                  "Прилага първоначалните данни към формуляра.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Заглавие:" >
