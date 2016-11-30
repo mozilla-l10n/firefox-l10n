@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "O &brandShortName; está pronto.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurar todas as janelas e abas">
-<!ENTITY welcomeback2.label.restoreSome "Restaurar apenas aquelas que você deseja">
+<!ENTITY welcomeback2.label.restoreSome "Restaurar só os que você deseja">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
