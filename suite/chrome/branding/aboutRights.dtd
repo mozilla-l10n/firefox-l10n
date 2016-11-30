@@ -44,6 +44,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; ponúka voliteľné služby webových stránok (&quot;Services&quot;), ktoré sú dostupné v tejto binárnej verzii aplikácie &brandShortName; za podmienok uvedených nižšie.  Niektoré tieto služby (napríklad navrhovanie doplnkov, aktualizačné služby, SafeBrowsing, či prehliadanie s geolokáciou) sú v predvolenom nastavení povolené.  Ak nechcete žiadnu z týchto služieb používať alebo sú pre vás podmienky uvedené nižšie neakceptovateľné, postup na vypnutie určitej funkcie alebo služby nájdete ">
+<!ENTITY rights3.webservices-b "tu">
 <!ENTITY rights3.webservices-c ". Ďalšie funkcie a Služby je možné povoliť, alebo vypnúť v nastaveniach aplikácie.">
 
 <!-- add-on related points for branded builds -->
