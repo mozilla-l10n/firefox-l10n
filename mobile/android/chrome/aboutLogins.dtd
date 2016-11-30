@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Logins">
+<!ENTITY aboutLogins.title                       "Contas de acesso">
 <!ENTITY aboutLogins.update                      "Atualizar">
-<!ENTITY aboutLogins.emptyLoginText              "Manter seus logins seguros">
-<!ENTITY aboutLogins.emptyLoginHint              "Logins e credenciais que salvar usando o &brandShortName; aparecerão aqui.">
+<!ENTITY aboutLogins.emptyLoginText              "Manter suas contas de acesso seguras">
+<!ENTITY aboutLogins.emptyLoginHint              "As contas de acesso e credenciais salvas no &brandShortName; aparecerão aqui.">
