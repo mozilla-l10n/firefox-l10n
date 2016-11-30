@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Não tenho o aparelho comigo…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
+<!ENTITY sync.configure.engines.title.passwords2 'Contas de acesso'>
 <!ENTITY sync.configure.engines.title.history 'Histórico'>
 <!ENTITY sync.configure.engines.title.tabs 'Abas'>
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Voltar a navegar'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bem-vindo ao &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Entrar para sincronizar suas abas, favoritos, senhas e mais.'>
+<!ENTITY fxaccount_getting_started_description2 'Identifique-se para sincronizar suas abas, favoritos, contas de acesso e mais.'>
 <!ENTITY fxaccount_getting_started_get_started 'Iniciar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Usando uma versão anterior do &syncBrand.shortName.label;?'>
 
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toque para entrar na sua nova conta Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Favoritos'>
 <!ENTITY fxaccount_status_history 'Histórico'>
-<!ENTITY fxaccount_status_passwords2 'Logins'>
+<!ENTITY fxaccount_status_passwords2 'Contas de acesso'>
 <!ENTITY fxaccount_status_tabs 'Abrir abas'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to

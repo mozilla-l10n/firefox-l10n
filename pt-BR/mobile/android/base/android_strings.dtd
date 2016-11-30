@@ -173,11 +173,11 @@
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_privacy_summary4 "Rastreamento, logins, dados compatilhados">
+<!ENTITY pref_category_privacy_summary4 "Rastreamento, contas de acesso, dados compartilhados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, perguntas frequentes, opinião">
 <!ENTITY pref_category_datareporting "Escolha de dados">
-<!ENTITY pref_category_logins "Logins">
+<!ENTITY pref_category_logins "Contas de acesso">
 <!ENTITY pref_learn_more "Saber mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais mecanismos de pesquisa">
@@ -202,8 +202,8 @@
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuração por Wi-Fi requer que o seu dispositivo tenha um aplicativo de leitura de códigos QR instalado.">
-<!ENTITY pref_remember_signons2 "Memorizar logins">
-<!ENTITY pref_manage_logins "Gerenciar logins">
+<!ENTITY pref_remember_signons2 "Memorizar contas de acesso">
+<!ENTITY pref_manage_logins "Gerenciar contas de acesso">
 
 <!ENTITY pref_category_home "Página inicial">
 <!ENTITY pref_category_home_summary "Personalizar página inicial">
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync2 "Entrar">
-<!ENTITY pref_sync_summary2 "Sincronizar abas, favoritos, logins, histórico">
+<!ENTITY pref_sync_summary2 "Sincronizar abas, favoritos, contas de acesso, histórico">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_history_search_suggestions "Mostrar histórico de pesquisas">
 <!ENTITY pref_import_options "Opções de importação">
@@ -389,8 +389,8 @@ size. -->
 <!ENTITY pref_private_data_history2 "Histórico de navegação">
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
 <!ENTITY pref_private_data_formdata2 "Histórico de formulários">
-<!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
-<!ENTITY pref_private_data_passwords2 "Logins salvos">
+<!ENTITY pref_private_data_cookies2 "Cookies e contas de acesso ativas">
+<!ENTITY pref_private_data_passwords2 "Contas de acesso salvas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings2 "Configurações de sites">
@@ -455,7 +455,7 @@ size. -->
 <!ENTITY quit "Sair">
 
 <!ENTITY addons "Extensões">
-<!ENTITY logins "Logins">
+<!ENTITY logins "Contas de acesso">
 <!ENTITY downloads "Downloads">
 <!ENTITY char_encoding "Codificação">
 
@@ -717,7 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
-<!ENTITY new_guest_session_text2 "A pessoa que estiver usando não poderá ver os seus dados pessoais (como senhas salvas, histórico ou favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
+<!ENTITY new_guest_session_text2 "A pessoa que estiver usando não poderá ver os seus dados pessoais (como contas de acesso salvas, histórico ou favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
 <!ENTITY guest_browsing_notification_title "Navegação do convidado está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
