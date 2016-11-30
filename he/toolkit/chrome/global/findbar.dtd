@@ -15,4 +15,5 @@
 <!ENTITY caseSensitive.accesskey "ת">
 <!ENTITY caseSensitive.tooltiptext "חיפוש עם רגישות לאותיות גדולות">
 <!ENTITY entireWord.label "מילים שלמות">
+<!ENTITY entireWord.accesskey "ש">
 <!ENTITY entireWord.tooltiptext "חיפוש מילים שלמות בלבד">
