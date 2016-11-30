@@ -159,6 +159,14 @@
 <!ENTITY options.timestampMessages.label      "Aktifkan tanda waktu">
 <!ENTITY options.timestampMessages.tooltip    "Jika opsi ini diaktifkan, perintah dan keluaran pada Konsol Web akan ditampilkan beserta tanda waktunya">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Debugger">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Aktifkan Peta Sumber">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
