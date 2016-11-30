@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Verkleinen tot papierformaat">
 <!ENTITY customPrompt.title   "Aangepaste schaal…">
 <!ENTITY simplifyPage.label   "Pagina vereenvoudigen">
+<!ENTITY simplifyPage.accesskey "v">
 <!ENTITY simplifyPage.enabled.tooltip  "Indeling wijzigen voor eenvoudiger lezen">
 <!ENTITY simplifyPage.disabled.tooltip "Deze pagina kan niet automatisch worden vereenvoudigd">
 

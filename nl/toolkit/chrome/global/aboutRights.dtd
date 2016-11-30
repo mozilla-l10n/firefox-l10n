@@ -27,7 +27,7 @@
 <!ENTITY rights.intro-point2.5 "Enkele onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming de feedback te gebruiken om zijn producten te verbeteren, de feedback op zijn websites te publiceren en de feedback te verspreiden.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Hoe we uw persoonlijke gegevens en feedback gebruiken die via &brandShortName; naar &vendorShortName; is verzonden wordt beschreven in het ">
+<!ENTITY rights2.intro-point3a "Hoe we uw persoonlijke gegevens en feedback gebruiken die via &brandShortName; naar &vendorShortName; wordt verzonden, wordt beschreven in het ">
 <!ENTITY rights2.intro-point3b "&brandShortName;-privacybeleid">
 <!ENTITY rights.intro-point3c ".">
 
