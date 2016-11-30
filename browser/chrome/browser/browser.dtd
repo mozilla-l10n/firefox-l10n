@@ -72,7 +72,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.label "Visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Modo offline">
