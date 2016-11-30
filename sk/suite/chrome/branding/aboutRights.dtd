@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Niektoré funkcie v aplikácii &brandShortName;, ako je napríklad oznamovateľ zlyhania, vám umožňujú poskytnúť ohľadom &vendorShortName; spätnú väzbu. Tým, že sa rozhodnete spätnú väzbu odoslať, dávate súhlas &vendorShortName; a Mozille k využitiu vašej spätnej väzby na vylepšenie ich aplikácií a k jej zverejneniu na ich webových stránkach, či jej distribúcii.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Zásady ochrany súkromia pre produkty &vendorShortName; nájdete ">
@@ -66,6 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-b "Je vždy voliteľná. Bez vášho povolenia nie sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:">
 <!ENTITY rights.locationawarebrowsing-term1 "Otvorte okno nastavení aplikácie">
 <!ENTITY rights.locationawarebrowsing-term2 "Zvoľte panel &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Zvoľte možnosť &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "Prehliadanie so zisťovaním polohy je vypnuté">
 
 <!-- points 0-6 text for branded builds -->
