@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Kajkosće">
+<!ENTITY propertiesMenu.accesskey                       "a">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Kajkosće adresnika">
+<!ENTITY abPropertiesMenu.accesskey                     "o">
+<!ENTITY contactPropertiesMenu.label                    "Kontaktowe kajkosće">
+<!ENTITY contactPropertiesMenu.accesskey                "t">
+<!ENTITY mailingListPropertiesMenu.label                "Kajkosće rozesyłanskeje lisćiny">
+<!ENTITY mailingListPropertiesMenu.accesskey            "r">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Napohlad">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nowa lisćina">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Wobdźěłać">
+<!ENTITY propertiesContext.label                        "Kajkosće">
+<!ENTITY propertiesContext.accesskey                    "k">
+<!ENTITY abPropertiesContext.label                      "Kajkosće">
+<!ENTITY abPropertiesContext.accesskey                  "k">
+<!ENTITY editContactContext.label                       "Kontakt wobdźěłać">
+<!ENTITY editContactContext.accesskey                   "K">
+<!ENTITY editMailingListContext.label                   "Lisćinu wobdźěłać">
+<!ENTITY editMailingListContext.accesskey               "L">
 <!ENTITY newmsgButton.label                             "Pisać">
 <!ENTITY newmsgButton.accesskey                         "P">
 <!ENTITY newIM.label                                    "Hnydomna powěsć">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Nowy adresnikowy kontakt wutworić">
 <!ENTITY newlistButton.tooltip                          "Nowu lisćinu wutworić">
 <!ENTITY editPropertiesButton.tooltip                   "Wubrany zapisk wobdźěłać">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Kajkosće wubraneho adresnika wobdźěłać">
+<!ENTITY editContactPropertiesButton.tooltip            "Wubrany kontakt wobdźěłać">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Wubranu rozesyłansku lisćinu wobdźěłać">
 <!ENTITY newmsgButton.tooltip                           "E-mejlowu powěsć pósłać">
 <!ENTITY newIM.tooltip                                  "Hnydomnu powěsć pósłać abo bjesadować">
 <!ENTITY deleteButton2.tooltip                          "Wubrany zapisk zhašeć">
