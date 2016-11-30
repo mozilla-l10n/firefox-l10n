@@ -45,7 +45,7 @@ quando encontrar atualizações das extensões e temas.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; irá verificar periodicamente e informá-lo 
                                            quando encontrar atualizações para estas extensões.">
 
-<!ENTITY  adminDisabled.wizard.title      "Não foi possível verificar atualizações">
+<!ENTITY  adminDisabled.wizard.title      "Não foi possível verificar se há atualizações">
 <!ENTITY  adminDisabled.warning.label     "Não foi possível verificar se há atualizações para as extensões incompatíveis
                                            porque a instalação delas no &brandShortName; foi desabilitada.
                                            Por favor, contate o administrador do sistema para auxílio.">
