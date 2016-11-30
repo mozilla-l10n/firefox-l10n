@@ -62,12 +62,14 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ע">
 <!ENTITY cmd.removeFromHistory.label      "הסרה מההיסטוריה">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "ניקוי חלונית תצוגה מקדימה">
 <!ENTITY cmd.clearDownloads.label         "ניקוי רשימת ההורדות">
 <!ENTITY cmd.clearDownloads.accesskey     "ה">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "אפשר הורדה">
+<!ENTITY cmd.unblock2.accesskey           "א">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
