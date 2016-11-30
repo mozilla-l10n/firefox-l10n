@@ -2,19 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
+<!ENTITY firstrun_panel_title_welcome "ברוך בואך">
 
-<!ENTITY firstrun_urlbar_message "ברוכים הבאים ל־&brandShortName;">
+<!ENTITY firstrun_urlbar_message "ברוך בואך ל־&brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "ניתן לאתר פריטים מהר יותר עם קיצורים להצעות חיפוש מועילות.">
 <!ENTITY firstrun_bookmarks_title "היסטוריה">
+<!ENTITY firstrun_bookmarks_message "המועדפים שלך, בראש ובראשונה">
 <!ENTITY firstrun_bookmarks_subtext "קבלת תוצאות מהסימניות וההיסטוריה שלך תוך כדי חיפוש.">
 <!ENTITY firstrun_data_title "נתונים">
 <!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
 <!ENTITY firstrun_data_subtext2 "כיבוי התמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, תמיד לצידך">
-<!ENTITY firstrun_sync_subtext "סנכרן את הלשוניות, ססמאות ועוד בכל מקום שתשתמש בו.">
-<!ENTITY firstrun_signin_button "התחברות אל Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, תמיד לצדך">
+<!ENTITY firstrun_sync_subtext "ניתן לסנכרן את הלשוניות, הססמאות ועוד בכל מקום בו יתחשק לך.">
+<!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
+<!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
@@ -22,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "קישורים">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "הפעלת תור לשוניות">
-<!ENTITY firstrun_tabqueue_subtext_off "שמירת קישורים לעיון מאוחר יותר ב־&brandShortName; בעת לחיצה עליהם ביישומים אחרים.">
+<!ENTITY firstrun_tabqueue_subtext_off "שמירת קישורים לעיון מאוחר יותר ב־&brandShortName; בעת לחיצה עליהם ביישומונים אחרים.">
 
 <!ENTITY firstrun_tabqueue_message_on "הצלחה!">
 <!ENTITY firstrun_tabqueue_subtext_on "ניתן לכבות זאת בכל עת ב&settings; תחת &pref_category_general;.">
@@ -30,9 +32,10 @@
 <!ENTITY firstrun_readerview_title "כתבות">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "פחות בלגן">
+<!ENTITY firstrun_readerview_subtext "ניתן להשתמש בתצוגת קריאה כדי להפוך כתבות לפשוטות יותר לקריאה \u2014 אפילו ללא חיבור לאינטרנט.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-<!ENTITY firstrun_account_message "יש לך &brandShortName; על התקן נוסף?">
+<!ENTITY firstrun_account_message "יש לך את &brandShortName; על התקן נוסף?">
 
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
 
@@ -44,6 +47,7 @@
 <!ENTITY  switch_to_tab "מעבר ללשונית">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "הגרסה הבלתי מקוונת מוצגת">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; נתקל בבעיה וקרס. הלשוניות שלך אמורות להיות רשומות לאחר הפעלה מחדש בדף הפתיחה של &brandShortName;.">
