@@ -56,7 +56,7 @@ do seu computador.</li> 
 (isto é, <strong>/</strong>).</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "Conexão interrompida">
+<!ENTITY netInterrupt.title "A conexão foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento fora de validade">
@@ -77,10 +77,10 @@ do seu computador.</li> 
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "Conexão reiniciada">
+<!ENTITY netReset.title "A conexão foi redefinida">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Tempo limite atingido">
+<!ENTITY netTimeout.title "A conexão expirou">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Endereço não compreendido">
@@ -88,7 +88,7 @@ do seu computador.</li> 
 <li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
+<!ENTITY proxyConnectFailure.title "O servidor proxy está recusando conexões">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para se certificar que estão corretas</li> 
 <li>Contate seu administrador de rede para se certificar que o servidor proxy está 
