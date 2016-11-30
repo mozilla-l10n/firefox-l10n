@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonUnwanted.label     "Avise-me sobre softwares indesejados e incomuns">
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Exceções…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -37,4 +37,4 @@
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedLogins.label              "Contas de acesso salvas…">
-<!ENTITY  savedLogins.accesskey          "L">
+<!ENTITY  savedLogins.accesskey          "l">
