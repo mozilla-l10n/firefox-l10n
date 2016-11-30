@@ -7,3 +7,6 @@
 <!ENTITY checkForUpdates "Znajdź aktualizacje…">
 
 <!ENTITY learnMore "Więcej informacji…">
+
+<!ENTITY defaultButton.label "OK">
+<!ENTITY defaultButton.accesskey "O">
