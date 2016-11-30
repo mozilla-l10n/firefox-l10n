@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
 <!ENTITY importFromNonWin.label         "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
-
+<!ENTITY importSourceNotFound.label     "Ішінен деректерді импорттау үшін қолданба табылмады.">
 
 <!ENTITY importFromNothing.label        "Импорт керек емес">
 <!ENTITY importFromNothing.accesskey    "к">
