@@ -65,7 +65,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "Пренебрегване на уловени изключения">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Пропускане на уловените изключения">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "П">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
