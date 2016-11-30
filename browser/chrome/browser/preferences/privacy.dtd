@@ -5,7 +5,7 @@
 <!ENTITY  trackingProtectionHeader.label       "Usar proteção contra rastreamento">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-<!ENTITY  trackingProtectionPrivate.label      "Somente em janelas privativas">
+<!ENTITY  trackingProtectionPrivate.label      "Apenas em janelas privativas">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "n">

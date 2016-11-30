@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "HIC SUNT DRACONES">
-<!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho deste aplicativo. Continue somente se estiver seguro do que for fazer.">
+<!ENTITY aboutWarningText.label "Alterar essas configurações avançadas pode prejudicar a estabilidade, segurança e desempenho deste aplicativo. Você só deve continuar se tiver certeza do que está fazendo.">
 <!ENTITY aboutWarningButton2.label "Eu aceito o risco!">
 <!ENTITY aboutWarningCheckbox.label "Sempre mostrar este aviso">
 
