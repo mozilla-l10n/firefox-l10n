@@ -91,7 +91,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "تبدیل">
+<!ENTITY reader_switch_to_bookmarks "سوئچ">
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
@@ -260,7 +260,7 @@
 <!ENTITY pref_show_web_fonts "ویب فانٹ نمائش کریں">
 <!ENTITY pref_show_web_fonts_summary2 "حب صفحہ لوڈ ہو رہا ہو بعیدفانٹ کو ڈاؤن لوڈ کریں">
 
-<!ENTITY pref_tracking_protection_title2 "ٹریکنگ حفاظت">
+<!ENTITY pref_tracking_protection_title2 "سراغ راہ سے حفاظت">
 <!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
