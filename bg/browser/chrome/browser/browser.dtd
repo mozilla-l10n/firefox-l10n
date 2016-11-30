@@ -85,7 +85,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "о">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Презареждане всички раздели">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Презареждане на всички раздели">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "в">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане на всички раздели…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "О">
