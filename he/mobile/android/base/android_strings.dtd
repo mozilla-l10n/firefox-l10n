@@ -459,8 +459,8 @@ size. -->
 
 <!ENTITY share "שיתוף">
 <!ENTITY share_title "שיתוף באמצעות">
-<!ENTITY share_image_failed "לא ניתן לשתף את תמונה זו">
-<!ENTITY save_as_pdf "שמירה בתור PDF">
+<!ENTITY share_image_failed "לא ניתן לשתף תמונה זו">
+<!ENTITY save_as_pdf "שמירה כ־PDF">
 <!ENTITY print "הדפסה">
 <!ENTITY find_in_page "חיפוש בדף">
 <!ENTITY desktop_mode "בקשת אתר שולחני">
@@ -472,9 +472,9 @@ size. -->
 <!ENTITY close_private_tabs "סגירת לשוניות פרטיות">
 <!ENTITY tabs_normal "לשוניות">
 <!ENTITY tabs_private "לשוניות פרטיות">
-<!ENTITY set_image_fail "לא ניתן לקבוע תמונה">
+<!ENTITY set_image_fail "לא ניתן להגדיר תמונה">
 <!ENTITY set_image_path_fail "לא ניתן לשמור תמונה">
-<!ENTITY set_image_chooser_title "קביעת תמונה בתור">
+<!ENTITY set_image_chooser_title "הגדרת תמונה בתור">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -514,7 +514,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "שם משתמש">
 <!ENTITY doorhanger_login_edit_password_hint "ססמה">
 <!ENTITY doorhanger_login_edit_toggle "הצגת ססמה">
-<!ENTITY doorhanger_login_edit_toast_error "כישלון בשמירת כניסה">
+<!ENTITY doorhanger_login_edit_toast_error "שמירת הכניסה נכשלה">
 <!ENTITY doorhanger_login_select_message "האם להעתיק ססמה מ־&formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "הססמה הועתקה לזכרון">
 <!ENTITY doorhanger_login_select_toast_copy_error "לא ניתן להעתיק ססמה">
@@ -532,7 +532,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "הסתרת סרגל הכלים של &brandShortName; בעת גלישה במורד עמוד">
 
 <!ENTITY pref_tab_queue_title3 "תור לשוניות">
-<!ENTITY pref_tab_queue_summary4 "שמירת קישורים עד הפעם הבאה ש־&brandShortName; יפתח">
+<!ENTITY pref_tab_queue_summary4 "שמירת קישורים עד לפתיחה הבאה של &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -557,14 +557,14 @@ size. -->
 <!ENTITY masterpassword_create_title "יצירת ססמה ראשית">
 <!ENTITY masterpassword_remove_title "הסרת ססמה ראשית">
 <!ENTITY masterpassword_password "ססמה">
-<!ENTITY masterpassword_confirm "וודא סיסמה">
+<!ENTITY masterpassword_confirm "אימות ססמה">
 
 <!ENTITY button_ok "אישור">
 <!ENTITY button_cancel "ביטול">
 <!ENTITY button_yes "כן">
 <!ENTITY button_no "לא">
 <!ENTITY button_clear_data "מחיקת נתונים">
-<!ENTITY button_set "קביעה">
+<!ENTITY button_set "הגדרה">
 <!ENTITY button_clear "מחיקה">
 <!ENTITY button_copy "העתקה">
 
@@ -582,15 +582,19 @@ size. -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "התקן אחד">
 <!ENTITY home_history_back_to2 "חזרה להיסטוריה המלאה">
-<!ENTITY home_clear_history_button "מחיקת היסטורית גלישה">
+<!ENTITY home_clear_history_button "מחיקת היסטוריית גלישה">
 <!ENTITY home_clear_history_confirm "האם ברצונך למחוק את ההיסטוריה שלך?">
 <!ENTITY home_bookmarks_empty "סימניות שנשמרו יופיעו כאן.">
+<!ENTITY home_closed_tabs_title2 "נסגרו לאחרונה">
 <!ENTITY home_last_tabs_empty "הלשוניות האחרונות שלך יופיעו כאן.">
+<!ENTITY home_restore_all "שחזור הכול">
+<!ENTITY home_closed_tabs_number "&formatD; לשוניות">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "לשונית אחת">
 <!ENTITY home_most_recent_empty "אתרים בהם ביקרת לאחרונה יופיעו כאן.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "פססט: שימוש בa &formatS1;לשונית פרטית חדשהb&formatS2; לא תשמור את ההיסטוריה שלך.">
+<!ENTITY home_most_recent_emptyhint2 "פססט: השימוש בa &formatS1;לשונית פרטית חדשהb&formatS2; לא ישמור את ההיסטוריה שלך.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -613,8 +617,8 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ביטול הסתרת ההתקנים הנבחרים">
 
 <!ENTITY remote_tabs_panel_moved_title "לאן נעלמו הלשוניות שלי?">
-<!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות מהתקנים אחרים לחלונית בדף הבית שלך הנגישה בכל פעם שלשונית חדשה תיפתח.">
-<!ENTITY remote_tabs_panel_moved_link "העבירו אותי לחלונית החדשה שלי.">
+<!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות שלך מההתקנים הנוספים לחלונית בעמוד הבית שלך אליה ניתן לגשת בקלות עם כל פתיחת לשונית חדשה.">
+<!ENTITY remote_tabs_panel_moved_link "נא להעביר אותי לחלונית החדשה שלי.">
 
 <!ENTITY pin_site_dialog_hint "נא להזין מילת חיפוש">
 
@@ -624,7 +628,7 @@ size. -->
 <!ENTITY filepicker_video_title "בחירה או הקלטת וידאו">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "מחובר לאתר">
+<!ENTITY identity_connected_to "התחברת לאתר">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -638,7 +642,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "חיבור מאובטח">
 <!ENTITY identity_connection_insecure "חיבור לא מאובטח">
-<!ENTITY identity_connection_chromeui "דף זה הנו דף מאובטח של &brandShortName;">
+<!ENTITY identity_connection_chromeui "זה הוא דף מאובטח של &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; חסם תוכן שאינו מאובטח בדף זה.">
@@ -661,7 +665,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "הנתונים הפרטיים נמחקו">
 <!ENTITY private_data_fail "חלק מהנתונים הפרטיים אינם ניתנים למחיקה">
 
-<!ENTITY bookmarkhistory_button_import "ייבוא">
+<!ENTITY bookmarkhistory_button_import "יבוא">
 <!ENTITY bookmarkhistory_import_both "יבוא סימניות והיסטוריה
                                        מ־Android">
 <!ENTITY bookmarkhistory_import_bookmarks "יבוא סימניות
@@ -670,7 +674,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          מ־Android">
 <!ENTITY bookmarkhistory_import_wait "נא להמתין…">
 
-<!ENTITY suggestions_prompt3 "האם ברצונך להפעיל הצעות חיפוש?">
+<!ENTITY suggestions_prompt3 "להפעיל הצעות חיפוש?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -688,29 +692,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "עדכון זמין עבור &brandShortName;">
-<!ENTITY updater_start_select2 "הקש להורדה">
+<!ENTITY updater_start_select2 "נא ללחוץ להורדה">
 
-<!ENTITY updater_downloading_title2 "מוריד &brandShortName;">
+<!ENTITY updater_downloading_title2 "&brandShortName; מתקבל">
 <!ENTITY updater_downloading_title_failed2 "ההורדה נכשלה">
 <!ENTITY updater_downloading_select2 "יש לגעת כדי להחיל את השינויים לאחר ההורדה">
-<!ENTITY updater_downloading_retry2 "הקש כדי לנסות שוב">
+<!ENTITY updater_downloading_retry2 "נא לגעת כדי לנסות שוב">
 
 <!ENTITY updater_apply_title2 "עדכון זמין עבור &brandShortName;">
-<!ENTITY updater_apply_select2 "הקש כדי לעדכן">
+<!ENTITY updater_apply_select2 "נא לגעת כדי לעדכן">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "על מנת להוריד קבצים ועדכונים, עליך ל אפשר ל־&brandShortName; הרשאת גישה לאחסון.">
+<!ENTITY updater_permission_text "כדי להוריד קבצים ועדכונים, עליך להתיר ל־&brandShortName; לגשת לאחסון.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "אפשר">
+<!ENTITY updater_permission_allow "להתיר">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "הפעלת אורח חדשה">
 <!ENTITY exit_guest_session "יציאה מהפעלת אורח">
 <!ENTITY guest_session_dialog_continue "המשך">
 <!ENTITY guest_session_dialog_cancel "ביטול">
-<!ENTITY new_guest_session_title "&brandShortName; כעת יופעל מחדש">
+<!ENTITY new_guest_session_title "&brandShortName; יופעל כעת מחדש">
+<!ENTITY new_guest_session_text2 "מי שמשתמש במצב אורח לא יוכל לראות את נתוני הגלישה הפרטיים שלך (כמו פרטי כניסה שנשמרו, היסטוריה או סימניות).\n\nכאשר האורח שלך סיים את השימוש, היסטוריית השימוש שלו תימחק והדפדפן שלך ישוב לצורה בו הגדרת אותו.">
 <!ENTITY guest_browsing_notification_title "גלישה כאורח פעילה">
 <!ENTITY guest_browsing_notification_text "נא לגעת ליציאה">
 
@@ -783,6 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "מחיקת היסטוריה">
 <!ENTITY restrictable_feature_clear_history_description "מאפשר לבני משפחה למחוק מידע על אתרים ודפים שהם ביקרו.">
 <!ENTITY restrictable_feature_advanced_settings "הגדרות מתקדמות">
+<!ENTITY restrictable_feature_advanced_settings_description "האפשרויות כוללות יבוא של סימניות, שחזור לשוניות ועדכונים אוטומטיים. ניתן לכבות כדי לצפות בהגדרות הפשוטות המיועדות לכלל בני המשפחה.">
 <!ENTITY restrictable_feature_camera_microphone "מצלמה ומיקרופון">
 <!ENTITY restrictable_feature_camera_microphone_description "מאפשר לבני משפחה לתקשר בזמן אמת בעת גלישה באתרים.">
 <!ENTITY restrictable_feature_block_list "רשימת חסימות">
@@ -790,7 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "Firefox: אודות הדפדפן שלך">
+<!ENTITY bookmarks_about_browser "Firefox: מידע על הדפדפן שלך">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: התאמה אישית עם תוספות">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
@@ -816,12 +822,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "הוספה למסך הבית">
 
 <!ENTITY helper_first_offline_bookmark_title "לקריאה בלתי מקוונת">
+<!ENTITY helper_first_offline_bookmark_message "ניתן למצוא את פרטי תצוגת הקריאה שלך בין הסימניות, אפילו ללא חיבור לאינטרנט.">
 <!ENTITY helper_first_offline_bookmark_button "מעבר לסימניות">
 
 <!ENTITY helper_triple_readerview_open_title "‏‏זמין במצב לא מקוון">
+<!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימניה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
 <!ENTITY helper_triple_readerview_open_button "הוספה למועדפים">
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
+<!ENTITY activity_stream_highlights "מומלצים">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
