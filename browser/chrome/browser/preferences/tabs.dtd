@@ -5,18 +5,18 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab alterna entre as abas por ordem de uso">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Quando sites requisitarem uma nova janela, abrir uma aba">
-<!ENTITY newWindowsAsTabs.accesskey   "Q">
+<!ENTITY newWindowsAsTabs.label       "Em vez de abrir novas janelas, abrir novas abas">
+<!ENTITY newWindowsAsTabs.accesskey   "j">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avise-me quando fechar várias abas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "e">
 
-<!ENTITY warnOpenManyTabs.label       "Avise-me quando abrir muitas abas que o &brandShortName; pode ficar lento">
+<!ENTITY warnOpenManyTabs.label       "Avise-me que ao abrir muitas abas o &brandShortName; pode ficar lento">
 <!ENTITY warnOpenManyTabs.accesskey   "A">
 
-<!ENTITY switchToNewTabs.label        "Quando abrir um link em uma nova aba, alterne para ela imediatamente">
+<!ENTITY switchToNewTabs.label        "Ao abrir um link em uma nova aba, ir imediatamente para ela">
 <!ENTITY switchToNewTabs.accesskey    "o">
 
 <!ENTITY showTabsInTaskbar.label          "Mostrar a visualização das abas na barra de tarefas do Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "x">
+<!ENTITY showTabsInTaskbar.accesskey      "v">
 <!ENTITY tabsGroup.label          "Abas">
