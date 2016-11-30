@@ -43,10 +43,10 @@
 <!ENTITY  suggestionSettings.label      "Alterar preferências das sugestões do mecanismo de pesquisa…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Sites podem definir cookies">
+<!ENTITY  acceptCookies.label           "Aceitar cookies dos sites">
 <!ENTITY  acceptCookies.accesskey       "S">
 
-<!ENTITY  acceptThirdParty.pre.label      "Permitir cookies de fora do site atual:">
+<!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "f">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
@@ -105,9 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Configurar…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
-<!ENTITY  browserContainersHeader.label         "Abas container">
+<!ENTITY  browserContainersHeader.label         "Abas contêineres">
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
-<!ENTITY  browserContainersEnabled.label        "Habilitar abas contêiner">
+<!ENTITY  browserContainersEnabled.label        "Habilitar abas contêineres">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Configurações…">
 <!ENTITY  browserContainersSettings.accesskey    "i">

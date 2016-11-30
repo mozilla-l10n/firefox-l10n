@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Dados offline de sites">
 <!ENTITY itemOfflineApps.accesskey         "f">
-<!ENTITY itemActiveLogins.label            "Logins ativos">
+<!ENTITY itemActiveLogins.label            "Contas de acesso ativas">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferências de sites">
 <!ENTITY itemSitePreferences.accesskey     "P">
