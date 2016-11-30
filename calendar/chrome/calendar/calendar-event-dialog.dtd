@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Dźělene přeprošenje na wobdźělnika">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "l">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Přećiwonamjet wotpokazać">
+<!ENTITY event.attendees.disallowcounter.accesskey   "n">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Podawa, zo njebudźeće přećiwonamjety akceptować">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "l">
@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Swobodny/wobsadźeny čas změnić">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Namjet nałožić">
+<!ENTITY counter.button.proposal.accesskey                "o">
+<!ENTITY counter.button.proposal.tooltip                  "Namjetowe daty na formular nałožić.">
+<!ENTITY counter.button.original.label                    "Originalne daty nałožić">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Originalne daty na formular nałožić.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Titul:" >

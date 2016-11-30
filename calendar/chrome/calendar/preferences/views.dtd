@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Dźeń, hdyž tydźeń ma započeć:">
 <!ENTITY pref.weekstarts.accesskey "z">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Čisło tydźenja w napohladach a miniměsacu pokazać">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "t">
 <!ENTITY pref.daysoff.label "Tute dny do dźěłoweho tydźenja zapřijeć:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dźeń započina so w:">
