@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "#171; गोपनियतामा जानुहोस्">
 
 <!ENTITY window.title         "नयाँ कन्टेनर थप्नुहोस्">
-<!ENTITY window.width         "45 em">
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "नाम:">
 <!ENTITY name.accesskey       "N">
