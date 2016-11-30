@@ -39,7 +39,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar aba">
 <!ENTITY  pinTab.accesskey                   "x">
 <!ENTITY  unpinTab.label                     "Desafixar aba">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "x">
 <!ENTITY  sendTabToDevice.label              "Enviar aba para o dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Enviar página para o dispositivo">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Page Source">
-<!ENTITY pageSourceCmd.accesskey "f">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "I">
