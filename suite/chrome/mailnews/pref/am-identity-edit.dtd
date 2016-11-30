@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kópie a priečinky">
 <!ENTITY addressingTab.label    "Písanie a adresovanie">
 
+<!ENTITY publicData.label        "Verejné údaje">
+<!ENTITY privateData.label       "Súkromné údaje">
+<!ENTITY identityAlias.label     "Označenie identity:">
+<!ENTITY identityAlias.accesskey "n">
