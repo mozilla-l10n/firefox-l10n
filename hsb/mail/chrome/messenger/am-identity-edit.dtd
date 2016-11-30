@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kopije a rjadowaki">
 <!ENTITY addressingTab.label    "Pisać a adresować">
 
-
-
-
+<!ENTITY publicData.label        "Zjawne daty">
+<!ENTITY privateData.label       "Priwatne daty">
+<!ENTITY identityAlias.label     "Popis identity:">
+<!ENTITY identityAlias.accesskey "o">
