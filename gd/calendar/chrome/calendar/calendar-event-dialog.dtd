@@ -167,10 +167,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Cuir am moladh an sàs">
 <!ENTITY counter.button.proposal.accesskey                "m">
-
-
-
-
+<!ENTITY counter.button.proposal.tooltip                  "Cuir an dàta a tha ’ga mholadh an sàs san fhoirm.">
+<!ENTITY counter.button.original.label                    "Cuir an dàta tùsail an sàs">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip                  "Cuir an dàta tùsail an sàs san fhoirm.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
