@@ -54,8 +54,8 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Siggez…">
 <!ENTITY button.syncKeyBackup.print.accesskey "i">
-<!ENTITY button.syncKeyBackup.save.label      "Kles…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "K">
+<!ENTITY button.syncKeyBackup.save.label      "Sekles…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "Cudd ɣer wallal/ibenk">

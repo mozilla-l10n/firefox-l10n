@@ -523,12 +523,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Kles akatar s yisem...">
-<!ENTITY saveFrameCmd.accesskey       "K">
+<!ENTITY saveFrameCmd.label           "Sekles akatar s yisem...">
+<!ENTITY saveFrameCmd.accesskey       "S">
 <!ENTITY printFrameCmd.label          "Siggez akatar...">
 <!ENTITY printFrameCmd.accesskey      "g">
-<!ENTITY saveLinkCmd.label            "Kles aseɣwen daw…">
-<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveLinkCmd.label            "Sekles aseɣwen s yisem…">
+<!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Kles tugna s yisem…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.label           "Kles tamwalit s yisem…">
@@ -603,8 +603,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label       "Agdil aččuran">
 <!ENTITY videoFullScreen.accesskey   "A">
-<!ENTITY videoSaveImage.label        "Kles anɣel n wegdil s yisem…">
-<!ENTITY videoSaveImage.accesskey    "K">
+<!ENTITY videoSaveImage.label        "Sekles anɣel n wegdil s yisem…">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->

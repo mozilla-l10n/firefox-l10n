@@ -98,5 +98,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Ldi ɣef tmeẓri n imuţiyen">
 <!ENTITY openInVarViewCmd.accesskey "m">
-<!ENTITY storeAsGlobalVar.label "Kles-it d amuţi amatu">
-<!ENTITY storeAsGlobalVar.accesskey "K">
+<!ENTITY storeAsGlobalVar.label "Sekles-it d amutti amatu">
+<!ENTITY storeAsGlobalVar.accesskey "k">

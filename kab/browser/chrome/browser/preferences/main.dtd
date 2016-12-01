@@ -22,8 +22,8 @@
 
 <!ENTITY downloads.label     "Isidar">
 
-<!ENTITY saveTo.label "Kles ifuyla ɣer">
-<!ENTITY saveTo.accesskey "K">
+<!ENTITY saveTo.label "Sekles ifuyla ɣer">
+<!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Ḍum…">
 <!ENTITY chooseFolderWin.accesskey    "u">
 <!ENTITY chooseFolderMac.label        "Fren…">

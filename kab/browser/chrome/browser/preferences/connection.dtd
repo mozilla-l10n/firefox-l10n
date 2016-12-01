@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Seqdec aqeddac-a, apṛuksi, i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">
-<!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yekles">
+<!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yettwakles">
 <!ENTITY  autologinproxy.accesskey      "k">
 <!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ-a a k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, a k-d-nessuter awal uffir.">

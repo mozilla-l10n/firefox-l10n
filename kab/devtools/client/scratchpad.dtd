@@ -39,12 +39,12 @@
 <!ENTITY revertCmd.label              "Uɣal…">
 <!ENTITY revertCmd.accesskey          "U">
 
-<!ENTITY saveFileCmd.label            "Kles">
-<!ENTITY saveFileCmd.accesskey        "K">
+<!ENTITY saveFileCmd.label            "Sekles">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Kles daw…">
-<!ENTITY saveFileAsCmd.accesskey      "K">
+<!ENTITY saveFileAsCmd.label          "Sekles s yisem…">
+<!ENTITY saveFileAsCmd.accesskey      "k">
 
 <!ENTITY closeCmd.label               "Mdel">
 <!ENTITY closeCmd.key                 "W">

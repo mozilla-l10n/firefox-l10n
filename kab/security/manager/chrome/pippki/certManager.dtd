@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Addad n uselkin">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Timeẓri…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "kles ilebda tasureft-agi">
+<!ENTITY exceptionMgr.permanent.label         "Sekles ilebda tasureft-agi">
 <!ENTITY exceptionMgr.permanent.accesskey     "k">

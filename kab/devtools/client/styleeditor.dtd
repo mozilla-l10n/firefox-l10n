@@ -20,9 +20,9 @@
 
 <!ENTITY visibilityToggle.tooltip   "Sken/Ffer tiferkit n uɣanib">
 
-<!ENTITY saveButton.label           "Kles">
+<!ENTITY saveButton.label           "Sekles">
 <!ENTITY saveButton.tooltip         "Kles tiferkit-agi n uɣanib ɣeṛ u faylu">
-<!ENTITY saveButton.accesskey       "K">
+<!ENTITY saveButton.accesskey       "k">
 
 <!ENTITY optionsButton.tooltip      "Iɣewwaṛen n umaẓrag n uɣanib">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
