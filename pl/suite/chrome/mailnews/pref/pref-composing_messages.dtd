@@ -34,7 +34,7 @@
 <!ENTITY bgColor.label "Tło:">
 <!ENTITY bgColor.accesskey "T">
 <!ENTITY defaultCompose.label "Domyślnie używaj formatu:">
-<!ENTITY defaultBodyText.label "tekstu treści (przycisk Enter tworzy nową linie)">
+<!ENTITY defaultBodyText.label "tekstu treści (przycisk Enter tworzy nowy wiersz)">
 <!ENTITY defaultBodyText.accesskey "e">
 <!ENTITY defaultParagraph.label "akapitu (przycisk Enter tworzy nowy akapit)">
 <!ENTITY defaultParagraph.accesskey "k">
