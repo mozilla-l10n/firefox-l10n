@@ -24,6 +24,9 @@
 <!ENTITY rights.intro-point2b "tutaj">
 <!ENTITY rights.intro-point2c ".">
 
+<!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Niektóre funkcje programu &brandShortName;, takie jak zgłaszanie awarii, umożliwiają przesyłanie opinii do dostawcy oprogramowania (&vendorShortName;). Przesyłając takie opinie, wyrażasz zgodę na używanie przez dostawcę oprogramowania (&vendorShortName;) oraz Mozillę przesłanych opinii do celów ulepszenia jego produktów, publikowania tych opinii na stronach internetowych i do ich rozpowszechniania.">
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Informacje dotyczące zasad ochrony prywatności związanych z produktami dostawcy oprogramowania (&vendorShortName;) można znaleźć ">
 <!ENTITY rights.intro-point3b "tutaj">
@@ -41,9 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "W tej wersji program &brandFullName; wykorzystuje niektóre usługi informacyjne WWW, zwane dalej „usługami”, takie jak usługi proponowania oraz aktualizacji dodatków czy usługę Bezpiecznego przeglądania, i udostępnia je na zasadach przedstawionych poniżej. Te usługi są domyślnie włączone. Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasad, instrukcje jak wyłączyć poszczególne funkcje bądź usługi można znaleźć">
-<!ENTITY rights2.webservices-b "tutaj">
-<!ENTITY rights2.webservices-c " Inne funkcje oraz usługi można wyłączyć w preferencjach aplikacji.">
+<!ENTITY rights3.webservices-a "W tej wersji program &brandFullName; wykorzystuje niektóre usługi informacyjne WWW, zwane dalej „usługami” i udostępnia je na zasadach przedstawionych poniżej. Niektóre z tych usług, jak Polecane dodatki oraz usługa aktualizacji dodatków, Bezpieczne przeglądanie bądź Udostępnianie witrynom położenia użytkownika są domyślnie aktywne. Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasad, możesz wyłączyć daną funkcję lub usługę. Instrukcje, jak wyłączyć konkretną funkcję lub usługę znajdują się ">
+<!ENTITY rights3.webservices-b "tutaj">
+<!ENTITY rights3.webservices-c ". Inne funkcje i usługi można włączyć bądź wyłączyć w preferencjach programu.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Usługi dodatków: ">
@@ -53,7 +56,6 @@
 <!ENTITY rights.addons-term3 "Odznaczyć opcje &quot;&autoAddOnsUpdates.label;&quot; oraz &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Usługi dodatków zostały w ten sposób wyłączone">
 
-
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Bezpieczne przeglądanie: ">
 <!ENTITY rights.safebrowsing-b "Wyłączenie Bezpiecznego przeglądania nie jest zalecane, gdyż może to skutkować odwiedzaniem niebezpiecznych stron. W celu kompletnego wyłączenia Bezpiecznego przeglądania należy wykonać następujące kroki:">
@@ -62,8 +64,16 @@
 <!ENTITY rights.safebrowsing-term3 "Odznaczyć opcje &quot;&blockAttackSites.label;&quot; oraz &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Bezpieczne przeglądanie zostało w ten sposób wyłączone">
 
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Udostępnianie witrynom położenia użytkownika: ">
+<!ENTITY rights.locationawarebrowsing-b "Ta funkcja przesyła dane tylko za zgodą użytkownika. Bez wyrażenia zgody żadne informacje geolokalizacyjne nie są przesyłane. Aby całkowicie wyłączyć tę funkcję:">
+<!ENTITY rights.locationawarebrowsing-term1 "Otwórz preferencje programu">
+<!ENTITY rights.locationawarebrowsing-term2 "Przejdź do panelu &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Zaznacz opcję „&geoDisabled.label;”">
+<!ENTITY rights.locationawarebrowsing-term4 "Udostępnianie położenia geograficznego zostanie wyłączone">
 
-<!-- points 1-6 text for branded builds -->
+<!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "Dostawca oprogramowania (&vendorShortName;) oraz Mozilla jak i ich współpracownicy, licencjodawcy i partnerzy pracują, by dostarczyć najwłaściwszych i najbardziej aktualnych usług. Jednakże nie możemy zagwarantować, że udostępnione przez te usługi informacje będą bezbłędne i kompletne. Na przykład, niektóre niebezpieczne witryny mogą nie zostać zidentyfikowane przez usługę „Bezpieczne przeglądanie”, a niektóre bezpieczne strony mogą być przez nią błędnie oznaczone jako niebezpieczne. Ponadto położenia geolokalizacyjne wyznaczone przez naszych dostawców usług są tylko szacunkowe – ani my, ani nasi dostawcy usług nie jesteśmy w stanie zagwarantować dokładności dostarczonych danych lokalizacyjnych.">
 <!ENTITY rights.webservices-term1 "Dostawca oprogramowania (&vendorShortName;) może przerwać lub zmienić funkcjonowanie Usług według własnego uznania.">
 <!ENTITY rights.webservices-term2 "Możesz korzystać z tych usług za pomocą wersji programu &brandShortName;, w której zostały one zaimplementowane i masz wszelkie niezbędne do tego prawa. Dostawca oprogramowania (&vendorShortName;) i licencjodawcy zastrzegają sobie wszelkie inne prawa związane z usługami. Zasady te nie mają na celu ograniczenia żadnych praw gwarantowanych w ramach licencji dla oprogramowania o otwartym kodzie źródłowym mających zastosowanie do programu &brandShortName;, jak i analogicznych wersji jego kodu źródłowego.">
 <!ENTITY rights.webservices-term3 "Usługi dostarczane są w stanie, „w jakim są”. Dostawca oprogramowania (&vendorShortName;), współpracownicy, licencjodawcy i dystrybutorzy nie udzielają żadnych gwarancji, zarówno wyraźnych, jak i domniemanych, że usługi te spełniają twoje oczekiwania. Ponosisz zatem całkowite ryzyko w kwestii wyboru usług odpowiednich dla twoich celów, jak też w kwestii ich jakości i wydajności. Niektóre systemy prawne nie zezwalają na takie wyłączenie lub ograniczenie domniemanych gwarancji, tak więc to zaprzeczenie może cię nie dotyczyć.">
