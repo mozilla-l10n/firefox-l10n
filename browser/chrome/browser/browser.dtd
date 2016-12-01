@@ -21,11 +21,11 @@
 <!ENTITY unpinTab.label "Sblocca scheda">
 <!ENTITY unpinTab.accesskey "h">
 <!ENTITY sendTabToDevice.label "Invia scheda a dispositivo">
-<!ENTITY sendTabToDevice.accesskey "d">
+<!ENTITY sendTabToDevice.accesskey "I">
 <!ENTITY sendPageToDevice.label "Invia pagina a dispositivo">
-<!ENTITY sendPageToDevice.accesskey "d">
+<!ENTITY sendPageToDevice.accesskey "I">
 <!ENTITY sendLinkToDevice.label "Invia link a dispositivo">
-<!ENTITY sendLinkToDevice.accesskey "d">
+<!ENTITY sendLinkToDevice.accesskey "I">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
@@ -326,7 +326,7 @@
 <!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
 <!ENTITY openFrameCmd.accesskey "A">
 <!ENTITY openLinkCmdInContainerTab.label "Apri link in nuova scheda contenitore">
-<!ENTITY openLinkCmdInContainerTab.accesskey "c">
+<!ENTITY openLinkCmdInContainerTab.accesskey "h">
 <!ENTITY showOnlyThisFrameCmd.label "Visualizza solo questo riquadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey "r">
@@ -359,7 +359,7 @@
 <!ENTITY setDesktopBackgroundCmd.accesskey "p">
 <!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link ai segnalibri…">
-<!ENTITY bookmarkThisLinkCmd.accesskey "A">
+<!ENTITY bookmarkThisLinkCmd.accesskey "b">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
 <!ENTITY emailPageCmd.label "Invia link per email…">
@@ -397,7 +397,7 @@
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyImageContentsCmd.label "Copia immagine">
-<!ENTITY copyImageContentsCmd.accesskey "o">
+<!ENTITY copyImageContentsCmd.accesskey "g">
 <!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
 <!ENTITY copyVideoURLCmd.accesskey "o">
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
