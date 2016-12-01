@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "想要自己的附加组件获得验证的开发者可继续阅读我们的">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "相关手册">
 <!ENTITY disabledUnsigned.devInfo.end "。">
+
+<!ENTITY pluginDeprecation.description "少些东西？某些插件已不再被 &brandShortName; 支持。">
+<!ENTITY pluginDeprecation.learnMore "详细了解。">
