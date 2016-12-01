@@ -11,12 +11,12 @@
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Isebtra n melmi kan">
 <!ENTITY fileRecentMenu.accesskey "I">
-<!ENTITY saveCmd.label "Kles">
-<!ENTITY saveCmd.accesskey "K">
-<!ENTITY saveAsCmd.label "Kles daw…">
-<!ENTITY saveAsCmd.accesskey "K">
-<!ENTITY saveAsChangeEncodingCmd2.label "Kles u snifel asettengel n uḍris">
-<!ENTITY saveAsChangeEncodingCmd2.accesskey "K">
+<!ENTITY saveCmd.label "Sekles">
+<!ENTITY saveCmd.accesskey "k">
+<!ENTITY saveAsCmd.label "Sekles s yisem…">
+<!ENTITY saveAsCmd.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd2.label "Sekles u snifel asettengel n uḍris">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Ẓereg">
 <!ENTITY publishCmd.accesskey "e">
 <!ENTITY publishCmd.key "S">

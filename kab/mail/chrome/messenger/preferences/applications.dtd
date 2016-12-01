@@ -13,8 +13,8 @@
 
 <!ENTITY  filter.placeholder          "Nadi">
 
-<!ENTITY saveTo.label                 "Kles ifuyla ɣeṛ">
-<!ENTITY saveTo.accesskey             "K">
+<!ENTITY saveTo.label                 "Sekles ifuyla ɣeṛ">
+<!ENTITY saveTo.accesskey             "k">
 <!ENTITY alwaysAsk.label              "Suter yal tikelt anda atkelseḍ ifuyla">
 <!ENTITY alwaysAsk.accesskey          "S">
 <!ENTITY chooseFolderWin.label        "Ḍum…">

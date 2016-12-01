@@ -33,9 +33,9 @@
 <!ENTITY closeCmd.label "Mdel">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "M">
-<!ENTITY saveCmd.label "Kles">
+<!ENTITY saveCmd.label "Sekles">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "K">
+<!ENTITY saveCmd.accesskey "k">
 <!ENTITY saveAsCmd.label "Kles daw">
 <!ENTITY saveAsCmd.accesskey "d">
 <!ENTITY saveAsFileCmd.label "Afaylu…">

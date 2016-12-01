@@ -38,8 +38,8 @@
 <!ENTITY newIMContactCmd.accesskey "d">
 <!ENTITY openMessageFileCmd.label "Ldi izen ikelsen…">
 <!ENTITY openMessageFileCmd.accesskey "L">
-<!ENTITY saveAsMenu.label "Kles daw">
-<!ENTITY saveAsMenu.accesskey "K">
+<!ENTITY saveAsMenu.label "Sekles s yisem">
+<!ENTITY saveAsMenu.accesskey "k">
 <!ENTITY saveAsFileCmd.label "Afaylu">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.key "s">
@@ -781,8 +781,8 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Kles daw…">
-<!ENTITY contextSaveAs.accesskey "K">
+<!ENTITY contextSaveAs.label "Sekles daw…">
+<!ENTITY contextSaveAs.accesskey "k">
 <!ENTITY contextPrint.label "Siggez…">
 <!ENTITY contextPrint.accesskey "g">
 <!ENTITY contextPrintPreview.label "Wali send asiggez">
