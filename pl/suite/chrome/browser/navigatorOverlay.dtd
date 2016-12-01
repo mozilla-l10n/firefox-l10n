@@ -62,7 +62,7 @@
 <!ENTITY historyCmd.accesskey "H">
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Ostatnio zamknięte karty">
-<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Ostatnio zamknięte okna">
 <!ENTITY recentWindows.accesskey "a">
@@ -78,7 +78,7 @@
 <!ENTITY addCurPageCmd.label "Dodaj zakładkę do tej strony">
 <!ENTITY addCurPageCmd.accesskey "D">
 <!ENTITY addCurPageAsCmd.label "Dodaj zakładkę…">
-<!ENTITY addCurPageAsCmd.accesskey "A">
+<!ENTITY addCurPageAsCmd.accesskey "a">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "Dodaj zakładkę do bieżącej grupy kart…">
 <!ENTITY addCurTabsAsCmd.accesskey "g">
@@ -97,10 +97,10 @@
 <!ENTITY cookieDisplayCookiesCmd.label "Menedżer ciasteczek">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "M">
 <!ENTITY cookieAllowCookiesCmd.label "Zezwalaj na ustawianie ich przez tę witrynę">
-<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieAllowCookiesCmd.accesskey "a">
 <!ENTITY cookieAllowCookiesMsg.label "Ciasteczka pochodzące z tej witryny zawsze będą akceptowane.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Zezwalaj na ciasteczka sesyjne dla tej witryny">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Ta witryna będzie mogła ustawić ciasteczko tylko na czas trwania bieżącej sesji.">
 <!ENTITY cookieCookiesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
@@ -113,7 +113,7 @@
 <!ENTITY cookieDisplayImagesCmd.label "Menedżer obrazów">
 <!ENTITY cookieDisplayImagesCmd.accesskey "M">
 <!ENTITY cookieAllowImagesCmd.label "Zezwalaj na pobieranie ich z tej witryny">
-<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesCmd.accesskey "a">
 <!ENTITY cookieAllowImagesMsg.label "Obrazy pochodzące z tej witryny będą zawsze pobierane.">
 <!ENTITY cookieImagesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
@@ -122,17 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "b">
 <!ENTITY cookieBlockImagesMsg.label "Obrazy pochodzące z tej witryny nigdy nie będą pobierane.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na otwieranie ich przez tę witrynę">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Menedżer wyskakujących okien">
-<!ENTITY cookieManagePopups.accesskey "M">
+<!ENTITY popupsMessageChangeTitle.label "Uprawnienia witryny zostały zmienione">
+<!ENTITY popupAllowCmd.label "Zezwalaj na otwieranie ich przez tę witrynę">
+<!ENTITY popupAllowCmd.accesskey "a">
+<!ENTITY popupAllowMsg.label "Wyskakujące okna pochodzące z tej witryny będą zawsze pokazywane.">
+<!ENTITY popupDefaultCmd.label "Użyj domyślnych uprawnień">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Wyskakujące okna pochodzące z tej witryny będą pokazywane w zależności od ustawień domyślnych.">
+<!ENTITY popupBlockCmd.label "Blokuj pochodzące z tej witryny">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Wyskakujące okna pochodzące z tej witryny nie będą pokazywane.">
+<!ENTITY popupsManage.label "Menedżer wyskakujących okien">
+<!ENTITY popupsManage.accesskey "M">
 
 <!ENTITY cookieCookieManager.label "Zarządzaj ciasteczkami">
-<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Zarządzaj obrazami">
-<!ENTITY cookieImageManager.accesskey "I">
-<!ENTITY cookiePopupManager.label "Zarządzaj wyskakującymi oknami">
-<!ENTITY cookiePopupManager.accesskey "o">
+<!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY popupsManager.label "Zarządzaj wyskakującymi oknami">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Wyczyść prywatne dane…">
 <!ENTITY clearPrivateDataCmd.accesskey "W">

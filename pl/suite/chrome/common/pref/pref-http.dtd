@@ -14,10 +14,13 @@
 <!ENTITY prefEnableHTTP11.accesskey "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "r">
 <!ENTITY prefEnablePipelining.label "Użyj przetwarzania potokowego">
-<!ENTITY prefEnablePipelining.accesskey "P">
-<!ENTITY prefEnablePipeliningProxy.accesskey "I">
+<!ENTITY prefEnablePipelining.accesskey "z">
+<!ENTITY prefEnablePipeliningProxy.accesskey "i">
 <!ENTITY prefPara "Poniższe opcje pozwalają na dostosowanie ustawień połączeń HTTP w celu zwiększenia wydajności lub kompatybilności. Niektóre serwery proxy wymagają protokołu HTTP w wersji HTTP/1.0 (szczegóły w notatkach do bieżącego wydania).">
 <!ENTITY prefPipeWarning "Uwaga: Przetwarzanie potokowe jest w fazie eksperymentalnej. Pozwala na zwiększenie wydajności wczytywania stron, jednak nie jest w pełni obsługiwane przez niektóre serwery oraz serwery proxy.">
 <!ENTITY prefUseragent.label "Identyfikator programu">
 <!ENTITY prefFirefoxCompat.label "Deklaruj kompatybilność z przeglądarką Firefox">
-<!ENTITY prefFirefoxCompat.accesskey "D">
+<!ENTITY prefFirefoxCompat.accesskey "F">
+<!ENTITY prefLightningShow.label "Deklaruj instalację Lightninga">
+<!ENTITY prefLightningShow.accesskey "L">
+<!ENTITY prefCompatWarning "UWAGA: dezaktywowanie tych ustawień może skutkować nieprawidłowym działaniem witryn bądź serwisów internetowych.">
