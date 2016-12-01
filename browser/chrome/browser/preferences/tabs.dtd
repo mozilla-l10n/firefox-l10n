@@ -8,10 +8,10 @@
 <!ENTITY newWindowsAsTabs.label       "Em vez de abrir novas janelas, abrir novas abas">
 <!ENTITY newWindowsAsTabs.accesskey   "j">
 
-<!ENTITY warnCloseMultipleTabs.label  "Avise-me quando fechar várias abas">
+<!ENTITY warnCloseMultipleTabs.label  "Avisar quando fechar várias abas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "e">
 
-<!ENTITY warnOpenManyTabs.label       "Avise-me que ao abrir muitas abas o &brandShortName; pode ficar lento">
+<!ENTITY warnOpenManyTabs.label       "Avisar que o carregamento de muitas abas pode deixar o &brandShortName; lento">
 <!ENTITY warnOpenManyTabs.accesskey   "A">
 
 <!ENTITY switchToNewTabs.label        "Ao abrir um link em uma nova aba, ir imediatamente para ela">
