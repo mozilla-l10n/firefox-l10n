@@ -41,13 +41,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Wetterfal">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Toant de ferskate bewurkingen dy't de browser útfiert ûnder de opname, efterfolgjend werjûn as in wetterfal.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Toant de ferskate bewurkingen dy't de browser útfiert wylst de opname, efterfolgjend werjûn as in wetterfal.">
 <!ENTITY performanceUI.toolbar.js-calltree "Oanropstruktuer">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Markearret JavaScript-funksjes wêroan de browser de measte tiid spendearre ûnder de opname.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tawizingen">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Toant wêroan ûnthâld tawizen waard ûnder de opname.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Toant wêroan ûnthâld tawizen waard wylst de opname.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS-flamechart">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Toant de JavaScript-oanropstack ûnder de opname.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Toant de JavaScript-oanropstack wylst de opname.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Tawizingen-flamechart">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
