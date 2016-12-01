@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Разработчиците, интересуващи се от преминаване на проверка за техните добавки, могат да прочетат повече в нашето ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ръководство">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Липсва ли нещо? Някои приставки вече не се поддържат от &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Научете повече">
