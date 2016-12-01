@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "přiručku">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Faluje něšto? Někotre tykače so wjace přez &brandShortName; njepodpěruja.">
+<!ENTITY pluginDeprecation.learnMore "Dalše informacije.">
