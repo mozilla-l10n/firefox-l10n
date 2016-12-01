@@ -179,7 +179,7 @@
 <!ENTITY search.filter2.installed.label       "Myn add-ons">
 <!ENTITY search.filter2.installed.tooltip     "Ynstallearre add-ons toane">
 <!ENTITY search.filter2.available.label       "Beskikbere add-ons">
-<!ENTITY search.filter2.available.tooltip     "Beskikbere add-ons om te ynstallearjen toane">
+<!ENTITY search.filter2.available.tooltip     "Add-ons toane dy't beskikber binne om te ynstallearjen">
 
 <!ENTITY addon.homepage                       "Thússide">
 <!ENTITY addon.details.label                  "Mear">
@@ -247,3 +247,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "hantlieding">
 <!ENTITY disabledUnsigned.devInfo.end " te lêzen.">
 
+<!ENTITY pluginDeprecation.description "Misse jo wat? Guon ynstekkers wurde net langer stipe troch &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Lês mear.">
