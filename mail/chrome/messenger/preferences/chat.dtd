@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupAction.label         "As &brandShortName; start:">
-<!ENTITY startupAction.accesskey     "s">
-<!ENTITY startupOffline.label        "De accountbehearder iepenje">
-<!ENTITY startupConnectAuto.label    "Myn accounts automatysk ferbine">
+<!ENTITY  startupAction.label         "As &brandShortName; start:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "De accountbehearder iepenje">
+<!ENTITY  startupConnectAuto.label    "Myn accounts automatysk ferbine">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -24,7 +24,7 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "T">
 
 <!ENTITY  chatNotifications.label             "As berjochten foar jo oankomme:">
-<!ENTITY  desktopChatNotifications.label      "Toan in notifikaasje">
+<!ENTITY  desktopChatNotifications.label      "In melding toane:">
 <!ENTITY  desktopChatNotifications.accesskey  "k">
 <!ENTITY  completeNotification.label          "mei namme fan ôfstjoerder en berjochtfoarbyld">
 <!ENTITY  buddyInfoOnly.label                 "allinnich mei namme fan ôfstjoerder">
@@ -39,3 +39,4 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "l">
 <!ENTITY  browse.label                        "Blêdzje…">
 <!ENTITY  browse.accesskey                    "B">
+

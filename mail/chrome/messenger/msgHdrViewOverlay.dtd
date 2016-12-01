@@ -43,11 +43,11 @@
 <!ENTITY hdrTrashButton1.label "Fuortsmite">
 <!ENTITY hdrTrashButton1.tooltip "Dit berjocht fuortsmite">
 
-<!ENTITY hdrViewToolbarShowFull.label "Toan ikoantsjes en tekst">
+<!ENTITY hdrViewToolbarShowFull.label "Piktogrammen en tekst toane">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY hdrViewToolbarShowIcons.label "Toan allinnich ikoantsjes">
+<!ENTITY hdrViewToolbarShowIcons.label "Allinnich piktogrammen toane">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
-<!ENTITY hdrViewToolbarShowText.label "Toan allinnich tekst">
+<!ENTITY hdrViewToolbarShowText.label "Allinnich tekst toane">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Altyd antwurd nei ôfstjoerder toane">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
