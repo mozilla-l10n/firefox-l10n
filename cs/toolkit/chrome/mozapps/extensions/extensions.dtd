@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "našeho manuálu">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Něco chybí? Některé zásuvné moduly už &brandShortName; nepodporuje.">
+<!ENTITY pluginDeprecation.learnMore "Zjistit více.">
