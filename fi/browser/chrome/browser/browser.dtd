@@ -381,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Kirjoita osoite tai hakutermi">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Laajennus:">
 <!ENTITY urlbar.switchToTab.label     "Siirry välilehteen:">
 
@@ -782,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.toolbars "Näytä tai piilota työkalupalkkeja">
 <!ENTITY customizeMode.titlebar "Otsikkopalkki">
 <!ENTITY customizeMode.lwthemes "Teemat">
-<!ENTITY customizeMode.lwthemes.myThemes "Minun teemat">
+<!ENTITY customizeMode.lwthemes.myThemes "Omat teemat">
 <!ENTITY customizeMode.lwthemes.recommended "Suositellut">
 <!ENTITY customizeMode.lwthemes.menuManage "Muokkaa">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
