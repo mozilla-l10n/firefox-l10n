@@ -22,7 +22,7 @@
 <!ENTITY pref.calendar.view.daystart.accesskey "b">
 <!ENTITY pref.calendar.view.dayend.label "Dei einiget om:">
 <!ENTITY pref.calendar.view.dayend.accesskey "i">
-<!ENTITY pref.calendar.view.visiblehours.label "Toan:">
+<!ENTITY pref.calendar.view.visiblehours.label "Toane:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "n">
 <!ENTITY pref.calendar.view.visiblehoursend.label "oeren it oersjoch">
 

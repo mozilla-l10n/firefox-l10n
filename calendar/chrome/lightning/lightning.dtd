@@ -55,7 +55,7 @@
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Fuortsmite">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Fuortsmite út aginda">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Toan details barren">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Barrendetails toane">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mear">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik om mear opsjes te toanen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Befêstigje opnij">
