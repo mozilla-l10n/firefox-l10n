@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.closeTab "Затваряне на раздела">
-<!ENTITY tabCrashed.restoreTab "Възстановяване на раздела">
+<!ENTITY tabCrashed.restoreTab "Възстановяване">
 <!ENTITY tabCrashed.restoreAll "Възстановяване на всички сринали се раздели">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
@@ -13,7 +13,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Офф. Разделът се срина.">
+<!ENTITY tabCrashed.header2 "Ееее. Разделът току-що се срина.">
 <!ENTITY tabCrashed.offerHelp "Можем да помогнем!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Изберете &tabCrashed.restoreTab; за презареждане на съдържанието.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Изберете &tabCrashed.restoreTab; или &tabCrashed.restoreAll; за презареждане на съдържанието.">
@@ -25,4 +25,6 @@
 <!ENTITY tabCrashed.includeURL2 "Добавяне на URL-адрес на страницата в доклада">
 <!ENTITY tabCrashed.emailPlaceholder "Въведете адреса на своята ел. поща">
 <!ENTITY tabCrashed.emailMe "Изпращане на имейл, когато има повече информация">
-<!ENTITY tabCrashed.reportSent "Докладът за срива е изпратен; благодарим ви, че помагате да направим &brandShortName; по-добър!">
+<!ENTITY tabCrashed.reportSent "Докладът за срив е изпратен. Благодарим ви, че помагате да направим &brandShortName; по-добър!">
+<!ENTITY tabCrashed.requestAutoSubmit "Заявка към разделите на фонов режим">
+<!ENTITY tabCrashed.autoSubmit "Променяне на настройките, така че събралите се доклади да бъдат изпращани автоматично (така бъдеще ще получавате по-малко съобщения като това)">
