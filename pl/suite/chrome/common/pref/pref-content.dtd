@@ -8,8 +8,8 @@
 <!ENTITY siteIcons.label "Ikony witryn">
 <!ENTITY useSiteIcons.label "Pokaż ikony witryn">
 <!ENTITY useSiteIcons.accesskey "k">
-<!ENTITY useFavIcons.label "Wymuszaj wyszukiwanie ikon dla witryn, które ich nie definiują">
-<!ENTITY useFavIcons.accesskey "W">
+<!ENTITY useFavIcons2.label "Używaj ikon serwera dla witryn, które ich nie definiują">
+<!ENTITY useFavIcons2.accesskey "W">
 
 <!ENTITY scrolling.label "Przewijanie">
 <!ENTITY useAutoScroll.label "Używaj automatycznego przewijania">
