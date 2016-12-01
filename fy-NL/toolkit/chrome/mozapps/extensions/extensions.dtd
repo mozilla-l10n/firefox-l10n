@@ -46,7 +46,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontrolearje op fernijingen">
 <!ENTITY updates.checkForUpdates.accesskey    "K">
-<!ENTITY updates.viewUpdates.label            "Toan resinte fernijingen">
+<!ENTITY updates.viewUpdates.label            "Resinte fernijingen toane">
 <!ENTITY updates.viewUpdates.accesskey        "T">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -68,7 +68,7 @@
 <!ENTITY updates.downloaded.label             "Jo add-onsfernijingen binne download.">
 <!ENTITY updates.restart.label                "Werstart no om de ynstallaasje te foltôgjen.">
 <!ENTITY updates.noneFound.label              "Gjin fernijingen fûn">
-<!ENTITY updates.manualUpdatesFound.label     "Toan beskikbere fernijingen">
+<!ENTITY updates.manualUpdatesFound.label     "Beskikbere fernijingen toane">
 <!ENTITY updates.updateSelected.label         "Ynstallearje fernijingen">
 <!ENTITY updates.updateSelected.tooltip       "Ynstallearje beskikbere fernijingen op dize list">
 
@@ -111,8 +111,8 @@
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bydrage oan de ûntwikkeling fan dizze add-on">
 
-<!ENTITY cmd.showReleaseNotes.label           "Toan útjefte-opmerkingen">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Toan de útjefte-opmerkingen foar dizze fernijing">
+<!ENTITY cmd.showReleaseNotes.label           "Utjefte-opmerkingen toane">
+<!ENTITY cmd.showReleaseNotes.tooltip         "De útjefte-opmerkingen foar dizze fernijing toane">
 <!ENTITY cmd.hideReleaseNotes.label           "Ferstopje útjefte-opmerkingen">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ferstopje de útjefte-opmerkingen foar dizze fernijing">
 
@@ -177,13 +177,13 @@
 
 <!ENTITY search.filter2.label                 "Sykje:">
 <!ENTITY search.filter2.installed.label       "Myn add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Toan ynstallearre add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Ynstallearre add-ons toane">
 <!ENTITY search.filter2.available.label       "Beskikbere add-ons">
-<!ENTITY search.filter2.available.tooltip     "Toan beskikbere add-ons om te ynstallearjen">
+<!ENTITY search.filter2.available.tooltip     "Beskikbere add-ons om te ynstallearjen toane">
 
 <!ENTITY addon.homepage                       "Thússide">
 <!ENTITY addon.details.label                  "Mear">
-<!ENTITY addon.details.tooltip                "Toan mear details oer dizze add-on">
+<!ENTITY addon.details.tooltip                "Mear details oer dizze add-on toane">
 <!ENTITY addon.unknownDate                    "Unbekend">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -246,3 +246,4 @@
 <!ENTITY disabledUnsigned.devInfo.start "Untwikkelers dy't ynteresse hawwe yn it ferifiearjen litten fan harren add-ons kinne fierdergean troch ús ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "hantlieding">
 <!ENTITY disabledUnsigned.devInfo.end " te lêzen.">
+
