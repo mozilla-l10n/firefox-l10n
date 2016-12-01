@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Geral">
 
-<!ENTITY  warnAddonInstall.label        "Avise-me quando sites tentarem instalar extensões">
+<!ENTITY  warnAddonInstall.label        "Avisar quando sites tentarem instalar extensões">
 <!ENTITY  warnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Bloquear downloads perigosos">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "Avise-me sobre softwares indesejados e incomuns">
+<!ENTITY  blockUncommonUnwanted.label     "Avisar sobre softwares indesejados e incomuns">
 <!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Exceções…">

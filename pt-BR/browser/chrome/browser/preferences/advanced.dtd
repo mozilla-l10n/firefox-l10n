@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "s">
 <!ENTITY searchStartTyping.label         "Localizar texto ao começar a digitar">
 <!ENTITY searchStartTyping.accesskey     "L">
-<!ENTITY blockAutoRefresh.label          "Avise-me quando sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.label          "Avisar quando sites tentarem redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "A">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
@@ -49,13 +49,13 @@
 
 <!ENTITY connection.label                "Conexão">
 
-<!ENTITY connectionDesc.label            "Configure como o &brandShortName; se conecta à internet">
+<!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se conecta à internet">
 <!ENTITY connectionSettings.label        "Configurar conexão…">
 <!ENTITY connectionSettings.accesskey    "C">
 
 <!ENTITY httpCache.label                 "Cache de conteúdo web">
 
-<!ENTITY offlineStorage2.label           "Conteúdo web offline e dados do usuário">
+<!ENTITY offlineStorage2.label           "Conteúdo web off-line e dados do usuário">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -93,7 +93,7 @@
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Diga-me quando um site solicitar armazenamento para uso offline">
+<!ENTITY offlineNotify.label             "Dizer quando um site solicitar armazenamento para uso off-line">
 <!ENTITY offlineNotify.accesskey         "A">
 <!ENTITY offlineNotifyExceptions.label   "Exceções…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
@@ -102,7 +102,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Remover…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remover dados offline">
+<!ENTITY offlineAppRemove.confirm        "Remover dados off-line">
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.label             "Solicitações">
