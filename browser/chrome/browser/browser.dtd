@@ -75,7 +75,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Modo offline">
+<!ENTITY goOfflineCmd.label "Modo off-line">
 <!ENTITY goOfflineCmd.accesskey "M">
 
 <!ENTITY menubarCmd.label "Barra de menus">
@@ -114,9 +114,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "">
 
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Abrir preferências &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Reconectar-se ao &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verificar conta">
+<!ENTITY fxaSignedIn.tooltip "Abrir preferências do &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconectar ao &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verificar sua conta">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "tem controle de seu ponteiro. Pressione Esc para retomar o controle.">
-<!ENTITY pointerlockWarning.generic.label "Este documento tem o controle do seu ponteiro. Pressione Esc para retomar o controle.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tem o controle do seu ponteiro. Pressionar Esc para retomar o controle.">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "h">
@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardButton.tooltip        "Avançar uma página">
 <!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar o histórico">
-<!ENTITY backForwardButtonMenuMac.tooltip "Arrate-o para baixo para mostrar o histórico">
+<!ENTITY backForwardButtonMenuMac.tooltip "Arrastar para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Recarregar página atual">
 <!ENTITY stopCmd.label                "Parar">
