@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handbok">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Saknar du något? Vissa insticksmoduler stöds inte längre av &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Läs mer.">
