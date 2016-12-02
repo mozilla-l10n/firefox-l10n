@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Mě:">
 <!ENTITY acctName.accesskey       "M">
-
+<!ENTITY noModulesFound.label     "Žedno nałoženje abo žedna dataja, z kótarejež daju se daty importěrowaś.">
 
 <!ENTITY back.label               "&lt; Slědk">
 <!ENTITY forward.label            "Dalej &gt;">

@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "cyńśo sobu!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Wersijowe informacije">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Licencne informacije">

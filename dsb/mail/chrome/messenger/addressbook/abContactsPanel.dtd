@@ -2,18 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
+<!ENTITY propertiesMenu.label               "Kakosći">
+<!ENTITY propertiesMenu.accesskey           "K">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Kakosći adresnika">
+<!ENTITY abPropertiesMenu.accesskey         "o">
+<!ENTITY contactPropertiesMenu.label        "Kontaktowe kakosći">
+<!ENTITY contactPropertiesMenu.accesskey    "t">
+<!ENTITY mailingListPropertiesMenu.label    "Kakosći rozesćełańskeje lisćiny">
+<!ENTITY mailingListPropertiesMenu.accesskey "r">
 
 <!ENTITY addressbookPicker.label            "Adresnik:">
 <!ENTITY addressbookPicker.accesskey        "A">
-
-
+<!ENTITY searchContacts.label               "Kontakty pytaś:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Mě abo e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Póloju Komu pśidaś">
@@ -24,14 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "c">
 <!ENTITY deleteAddrBookCard.label           "Lašowaś">
 <!ENTITY deleteAddrBookCard.accesskey       "L">
-
-
-
-
-
-
-
-
+<!ENTITY propertiesContext.label            "Kakosći">
+<!ENTITY propertiesContext.accesskey        "a">
+<!ENTITY abPropertiesContext.label          "Kakosći">
+<!ENTITY abPropertiesContext.accesskey      "a">
+<!ENTITY editContactContext.label           "Kontakt wobźěłaś">
+<!ENTITY editContactContext.accesskey       "b">
+<!ENTITY editMailingListContext.label       "Lisćinu wobźěłaś">
+<!ENTITY editMailingListContext.accesskey   "L">
 
 <!ENTITY toButton.label                     "Póloju Komu pśidaś:">
 <!ENTITY toButton.accesskey                 "m">

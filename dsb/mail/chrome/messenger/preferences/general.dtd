@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Gaž se nowe powěsći dojdu:">
 <!ENTITY playSound.label                  "Zuk wótgraś">
 <!ENTITY playSound1.accesskey             "u">
-
-
+<!ENTITY playSoundMac.label               "Slědujucu zukowu dataju wužywaś:">
+<!ENTITY playSoundMac.accesskey           "l">
 <!ENTITY showAnimatedAlert.label          "Powěźeńku pokazaś">
 <!ENTITY showAnimatedAlert.accesskey      "P">
-
+<!ENTITY notificationAlertSettings2.label "Warnowanja a standardny zukk daju se w zdźěleńskem woknje systemowych nastajenjow znjemóžniś.">
 <!ENTITY customizeMailAlert.label         "Pśiměriś…">
 <!ENTITY customizeMailAlert.accesskey     "m">
 
