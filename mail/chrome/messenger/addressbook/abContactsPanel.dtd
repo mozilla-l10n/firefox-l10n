@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Қасиеттері">
+<!ENTITY propertiesMenu.accesskey           "и">
 
 
 
@@ -23,10 +25,10 @@
 
 <!ENTITY deleteAddrBookCard.label           "Өшіру">
 <!ENTITY deleteAddrBookCard.accesskey       "р">
-
-
-
-
+<!ENTITY propertiesContext.label            "Қасиеттері">
+<!ENTITY propertiesContext.accesskey        "и">
+<!ENTITY abPropertiesContext.label          "Қасиеттері">
+<!ENTITY abPropertiesContext.accesskey      "и">
 
 
 

@@ -15,8 +15,8 @@
 <!ENTITY deleteButton.accesskey      "р">
 <!ENTITY searchDialogTitle.label     "Хабарламалардан іздеу">
 <!ENTITY results.label               "Нәтижелер">
-
-
+<!ENTITY moveButton.label            "Қайда жылжыту">
+<!ENTITY moveButton.accesskey        "й">
 
 
 
