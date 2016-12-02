@@ -280,7 +280,7 @@
 <!ENTITY openAttachment.accesskey "О">
 <!ENTITY delete.label "Изтриване">
 <!ENTITY delete.accesskey "з">
-<!ENTITY removeAttachment.label "Премахване на притурка">
+<!ENTITY removeAttachment.label "Премахване">
 <!ENTITY removeAttachment.accesskey "х">
 <!ENTITY renameAttachment.label "Преименуване…">
 <!ENTITY renameAttachment.accesskey "П">
