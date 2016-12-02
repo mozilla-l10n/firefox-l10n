@@ -176,7 +176,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "о">
 <!ENTITY sortByStarCmd.label "Звезда">
 <!ENTITY sortByStarCmd.accesskey "в">
-<!ENTITY sortByAttachmentsCmd.label "Притурки">
+<!ENTITY sortByAttachmentsCmd.label "Прикачени файлове">
 <!ENTITY sortByAttachmentsCmd.accesskey "П">
 <!ENTITY sortByPriorityCmd.label "Приоритет">
 <!ENTITY sortByPriorityCmd.accesskey "П">
@@ -358,7 +358,7 @@
 <!ENTITY forwardAsMenu.accesskey "щ">
 <!ENTITY forwardAsInline.label "Вложено">
 <!ENTITY forwardAsInline.accesskey "В">
-<!ENTITY forwardAsAttachmentCmd.label "Притурка">
+<!ENTITY forwardAsAttachmentCmd.label "Прикачен файл">
 <!ENTITY forwardAsAttachmentCmd.accesskey "у">
 <!ENTITY editAsNewMsgCmd.label "Редактиране като ново">
 <!ENTITY editAsNewMsgCmd.accesskey "н">
@@ -432,7 +432,7 @@
 <!ENTITY openConversationCmd.label "Преглед на диалога">
 <!ENTITY openConversationCmd.accesskey "д">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openAttachmentListCmd.label "Притурки">
+<!ENTITY openAttachmentListCmd.label "Прикачени файлове">
 <!ENTITY openAttachmentListCmd.accesskey "т">
 <!ENTITY openFeedMessage1.label "При отваряне на съобщения от емисия">
 <!ENTITY openFeedMessage1.accesskey "о">
@@ -704,7 +704,7 @@
 <!ENTITY starredColumn.label "Със звезда">
 <!ENTITY locationColumn.label "Местоположение">
 <!ENTITY idColumn.label "Ред на получаване">
-<!ENTITY attachmentColumn.label "Притурки">
+<!ENTITY attachmentColumn.label "Прикачени файлове">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Избиране на колони, които да се показват">
@@ -761,7 +761,7 @@
 <!ENTITY contextForwardAsMenu.accesskey "щ">
 <!ENTITY contextForwardAsInline.label "Вложено">
 <!ENTITY contextForwardAsInline.accesskey "В">
-<!ENTITY contextForwardAsAttachmentItem.label "Притурка">
+<!ENTITY contextForwardAsAttachmentItem.label "Прикачен файл">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "у">
 <!ENTITY contextMultiForwardAsAttachment.label "Препращане като притурки">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "т">
