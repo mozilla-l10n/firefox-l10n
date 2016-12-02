@@ -11,6 +11,6 @@
 <!ENTITY account.alias                 "Tabzimt:">
 <!ENTITY account.newMailNotification   "Lɣu ticki yella yimayl amaynut">
 <!ENTITY account.autojoin              "Ddu swudem amaynut ɣer ubadu:">
-<!ENTITY account.proxySettings.caption "Iɣewwaṛen n useɣẓan agrayan">
+<!ENTITY account.proxySettings.caption "Iɣewwaṛen n upṛuksi">
 <!ENTITY account.proxySettings.change.label     "Snifel…">
 <!ENTITY account.proxySettings.change.accessKey "n">

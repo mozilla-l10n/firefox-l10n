@@ -4,22 +4,22 @@
 
 <!ENTITY  connectionsDialog.title       "Iɣewwaṛen n tuqqna">
 
-<!ENTITY  proxyTitle.label              "Tawila n uqeddac aseɣẓan agrayan i wenekcum ɣeṛ Internet">
-<!ENTITY  noProxyTypeRadio.label        "Ulac aseɣẓan agrayan">
+<!ENTITY  proxyTitle.label              "Tawila n uqeddac apṛuksi n unekcum ar Internet">
+<!ENTITY  noProxyTypeRadio.label        "Ulac apṛuksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "l">
-<!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n useɣẓan agrayan n unagraw">
+<!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n upṛksi n unagraw">
 <!ENTITY  systemTypeRadio.accesskey     "S">
-<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n useɣẓan agrayan n uẓeṭṭa-yagi">
+<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n apṛuksi n uẓeṭṭa-yagi">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
-<!ENTITY  manualTypeRadio.label         "Tawila s ufus n useɣẓan agrayan:">
+<!ENTITY  manualTypeRadio.label         "Tawila s ufus n apṛuksi:">
 <!ENTITY  manualTypeRadio.accesskey     "w">
-<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n useɣẓan agrayan:">
+<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n upṛuksi:">
 <!ENTITY  autoTypeRadio.accesskey       "n">
 <!ENTITY  reload.label                  "Smiren">
 <!ENTITY  reload.accesskey              "S">
-<!ENTITY  http.label                    "Aseɣẓan agrayan HTTP:">
+<!ENTITY  http.label                    "Apṛuksi HTTP:">
 <!ENTITY  http.accesskey                "A">
-<!ENTITY  ssl.label                     "Aseɣẓan agrayan SSL:">
+<!ENTITY  ssl.label                     "Apṛuksi SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Asenneftaɣ SOCKS:">
 <!ENTITY  socks.accesskey               "C">
@@ -33,8 +33,8 @@
 <!ENTITY  SSLport.accesskey             "a">
 <!ENTITY  SOCKSport.label               "Tabburt:">
 <!ENTITY  SOCKSport.accesskey           "r">
-<!ENTITY  noproxy.label                 "Ulac aseɣẓan agrayan i:">
+<!ENTITY  noproxy.label                 "Ulac apṛuksi i:">
 <!ENTITY  noproxy.accesskey             "U">
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Seqdec aqeddac-agi n useɣẓan agrayan i yal aneggaf">
+<!ENTITY  shareproxy.label              "Seqdec aqeddac-agi apṛuki i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">
