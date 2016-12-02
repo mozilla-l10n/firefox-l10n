@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Wót">
 <!ENTITY senderField4.label "Wótpósłaŕ">
-
+<!ENTITY author.label "Awtor">
 <!ENTITY organizationField4.label "Organizacija">
 <!ENTITY replyToField4.label "Wótegroniś na">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwěrowaś">
 <!ENTITY hdrArchiveButton1.tooltip "Toś tu powěsć archiwěrowaś">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Rozgrono">
+<!ENTITY hdrOpenConversationButton1.tooltip "Rozgrono toś teje powěsći pokazaś">
 <!ENTITY hdrSmartReplyButton1.label "Inteligentne wótegrono">
 <!ENTITY hdrReplyButton1.label "Wótegroniś">
 <!ENTITY hdrReplyButton2.tooltip "Wótpósłarjeju toś teje powěsći wótegroniś">

@@ -31,4 +31,4 @@
      this window for en-US. -->
 
 <!ENTITY accountManager.size "width: 115ch; height: 55em;">
-
+<!ENTITY accountTree.width "width: 35ch;">

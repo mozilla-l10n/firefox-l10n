@@ -194,8 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "W">
 <!ENTITY sortByRecipientCmd.label "Dostawaŕ">
 <!ENTITY sortByRecipientCmd.accesskey "o">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Listowańske partnarje">
+<!ENTITY sortByCorrespondentCmd.accesskey "s">
 <!ENTITY sortByUnreadCmd.label "Pśecytanych">
 <!ENTITY sortByUnreadCmd.accesskey "e">
 <!ENTITY sortByOrderReceivedCmd.label "Pó pórěźe dostaśa">
@@ -494,24 +494,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Wuwijarske rědy">
+<!ENTITY devtoolsMenu.accesskey "u">
+<!ENTITY devToolboxCmd.label "Wuwijarski rědowy kašćik">
+<!ENTITY devToolboxCmd.accesskey "r">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Pytanje za zmólkami dodankow">
+<!ENTITY addonDebugCmd.accesskey "P">
+<!ENTITY tabsDebugCmd.label "Pytanje za zmólkami za wopśimjeśowy wobłuk">
+<!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Zmólkowa konsola">
 <!ENTITY errorConsoleCmd.accesskey "Z">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Zapisnik">
+<!ENTITY scratchpadCmd.accesskey "Z">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Powěsći wobstaraś">
@@ -522,7 +527,7 @@
 <!ENTITY forwardButton.label "Dalej pósrědniś">
 <!ENTITY fileButton.label "Dataja">
 <!ENTITY archiveButton.label "Archiw">
-
+<!ENTITY openConversationButton.label "Rozgrono">
 <!ENTITY nextButton.label "Pśidujuca">
 <!ENTITY nextButtonToolbarItem.label "Pśidujuca njepśecytana">
 <!ENTITY nextMsgButton.label "Pśidujuca">
@@ -565,7 +570,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Wubranu powěsć ako pśidank dalej pósrědniś">
 <!ENTITY fileButton.tooltip "Wubranu powěsć wótpołožyś">
 <!ENTITY archiveButton.tooltip "Wubrane powěsći archiwěrowaś">
-
+<!ENTITY openConversationButton.tooltip "Rozgrono wubraneje powěsći pokazaś">
 <!ENTITY nextButton.tooltip "K pśidujucej njepśecytanej powěsći">
 <!ENTITY nextMsgButton.tooltip "K pśidujucej powěsći pśesunuś">
 <!ENTITY previousButton.tooltip "K pjerjwjejšnej njepśecytanej powěsći">

@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Nastajenja, kontowe nastajenja, adresnik, filtry a druge daty importěrowaś z:">
 <!ENTITY importFromNonWin.label         "Nastajenja, kontowe nastajenja, adresnik, filtry a druge daty importěrowaś z:">
-
+<!ENTITY importSourceNotFound.label     "Žedno nałoženje, z kótaregož daju se daty importěrowaś.">
 
 <!ENTITY importFromNothing.label        "Nic njeimportěrowaś">
 <!ENTITY importFromNothing.accesskey    "i">
