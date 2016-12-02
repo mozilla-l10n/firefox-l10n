@@ -6,9 +6,9 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "ν">
 <!ENTITY editBookmarkOverlay.location.label                  "Τοποθεσία:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "θ">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Τοποθεσία αρχείου ροής:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Τοποθεσία ροής:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ρ">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Τοποθεσία σελίδας:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Τοποθεσία ιστοσελίδας:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "σ">
 <!ENTITY editBookmarkOverlay.folder.label                    "Φάκελος:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Προβολή όλων των φακέλων σελιδοδεικτών">
@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Λέξη-κλειδί:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "κ">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Προβολή όλων των ετικετών">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Φόρτωση του σελιδοδείκτη στην πλευρική στήλη">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Φόρτωση σελιδοδείκτη στην πλευρική στήλη">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "π">
 <!ENTITY editBookmarkOverlay.choose.label                    "Επιλογή…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Νέος φάκελος">
