@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Źělone pśepšosenje na wobźělnika">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "l">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Toś to nastajenje sćelo jadnu pśepšoseńsku mejlku na wobźělnika. Kužde pśepšosenje wopśimujo jano dostawajucego wobźělnika, tak až druge identity wobźělnikow se njepśeraźuju.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Pśeśiwonaraźenje wótpokazaś">
+<!ENTITY event.attendees.disallowcounter.accesskey   "t">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Pódawa, až njebuźośo pśeśiworaźenja akceptěrowaś">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -143,7 +143,7 @@
 <!ENTITY event.email.attendees.label                      "Mejlku na wšykne wobźělniki spisaś…">
 <!ENTITY event.email.attendees.accesskey                  "M">
 <!ENTITY event.email.tentative.attendees.label            "Mejlku na njerozsuźone wobźělniki spisaś…">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.tentative.attendees.accesskey        "r">
 <!ENTITY event.remove.attendees.label2                    "Wšykne wobźělniki wótpóraś">
 <!ENTITY event.remove.attendees.accesskey                 "k">
 <!ENTITY event.remove.attendee.label                      "Wobźělnika wótpóraś">
@@ -165,10 +165,12 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Wólny/zabrany cas změniś">
 <!-- Counter box -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Naraźenje nałožyś">
+<!ENTITY counter.button.proposal.accesskey                "r">
+<!ENTITY counter.button.proposal.tooltip                  "Naraźeńske daty na formular nałožyś.">
+<!ENTITY counter.button.original.label                    "Originalne daty nałožyś">
+<!ENTITY counter.button.original.accesskey                "i">
+<!ENTITY counter.button.original.tooltip                  "Originalne daty na formular nałožiyś.">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Titel:" >
@@ -219,7 +221,7 @@
 <!ENTITY event.url.label                                  "Pśisłušny wótkaz:" >
 <!ENTITY event.priority2.label                            "Priorita:">
 
-<!ENTITY event.reminder.none.label                        "Żedno dopomnjeśe " >
+<!ENTITY event.reminder.none.label                        "Żedno dopomnjeśe " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minutow do togo" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutow do togo" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutow do togo" >
