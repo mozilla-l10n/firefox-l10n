@@ -59,7 +59,7 @@
 <!ENTITY sendOptions.label                     "Настройки за изпращане…">
 <!ENTITY sendOptions.accesskey                 "Н">
 
-<!ENTITY attachmentReminder.label              "Проверка за липсващи притурки">
+<!ENTITY attachmentReminder.label              "Проверка за липсващи прикачени файлове">
 <!ENTITY attachmentReminder.accesskey          "л">
 <!ENTITY attachmentReminderOptions.label       "Ключови думи…">
 <!ENTITY attachmentReminderOptions.accesskey   "К">
