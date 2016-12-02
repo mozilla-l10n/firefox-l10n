@@ -233,3 +233,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Les développeurs souhaitant faire vérifier leurs modules complémentaires peuvent obtenir davantage d’informations en lisant notre ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manuel">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Quelque chose semble manquer ? Certains plugins ne sont plus pris en charge par &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "En savoir plus.">
