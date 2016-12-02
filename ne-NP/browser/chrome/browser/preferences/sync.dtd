@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "यो इमेलको बारेमा बिर्सनुहोस्">
 <!ENTITY forget.accesskey            "F">
 
-<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, पुस्तकचिनोहरू, गोप्यशब्दहरू र अरु कुरा प्रयोग गर्नुहोस्">
+<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, पुस्तकचिनोहरू, गोप्यशब्दहरू र अरू कुरा प्रयोग गर्नुहोस्">
 <!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
 <!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
 
