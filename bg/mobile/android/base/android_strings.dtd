@@ -107,7 +107,7 @@
 <!ENTITY site_security "Сигурност на сайта">
 <!ENTITY edit_mode_cancel "Отказ">
 
-<!ENTITY close_tab "Затваряне на раздел">
+<!ENTITY close_tab "Затваряне на раздела">
 <!ENTITY one_tab "1 раздел">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -242,7 +242,7 @@
 
 <!ENTITY pref_cookies_menu "Бисквитки">
 <!ENTITY pref_cookies_accept_all "Разрешени">
-<!ENTITY pref_cookies_not_accept_foreign "Разрешени, с изключение на 3-ти страна">
+<!ENTITY pref_cookies_not_accept_foreign "Разрешени, с изключение на 3-ти страни">
 <!ENTITY pref_cookies_disabled "Забранени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -373,7 +373,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Автоматично изпълняване">
 <!ENTITY pref_media_autoplay_enabled_summary "Управлява дали сайтовете да изпълняват автоматично видео и друга медия">
 <!ENTITY pref_zoom_force_enabled "Мащабирането да е винаги включено">
-<!ENTITY pref_zoom_force_enabled_summary "Позволява ви да мащабирате всяка страница">
+<!ENTITY pref_zoom_force_enabled_summary "Позволява мащабиране на всяка страница">
 <!ENTITY pref_voice_input "Въвеждане чрез глас">
 <!ENTITY pref_voice_input_summary2 "Позволява диктуване от адресната лента">
 <!ENTITY pref_qrcode_enabled "Четец за QR">
@@ -403,15 +403,15 @@ size. -->
 <!ENTITY pref_vendor_faqs "Въпроси и отговори">
 <!ENTITY pref_vendor_feedback "Даване на обратна връзка">
 
-<!ENTITY pref_dialog_set_default "Избиране като стандартна">
-<!ENTITY pref_dialog_default "Стандартна">
+<!ENTITY pref_dialog_set_default "Избиране като стандартен">
+<!ENTITY pref_dialog_default "Стандартен">
 <!ENTITY pref_dialog_remove "Премахване">
 
 <!ENTITY pref_search_last_toast "Не може да премахнете или изключите последната търсеща машина.">
 
 <!ENTITY pref_panels_show "Показване">
 <!ENTITY pref_panels_hide "Скриване">
-<!ENTITY pref_panels_reorder "Промяна на реда">
+<!ENTITY pref_panels_reorder "Пренареждане">
 <!ENTITY pref_panels_move_up "Нагоре">
 <!ENTITY pref_panels_move_down "Надолу">
 
@@ -534,7 +534,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "Скриване на лентата с инструменти на &brandShortName; при плъзване надолу по страницата">
 
 <!ENTITY pref_tab_queue_title3 "Опашка от раздели">
-<!ENTITY pref_tab_queue_summary4 "Запазете препратки за следващия път, когато отворите &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "Запазване на препратки до следващото отваряне на &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -584,7 +584,7 @@ size. -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 устройство">
 <!ENTITY home_history_back_to2 "Обратно към История">
-<!ENTITY home_clear_history_button "Изчистване история на сърфирането">
+<!ENTITY home_clear_history_button "Изчистване на историята">
 <!ENTITY home_clear_history_confirm "Сигурни ли сте, че желаете да изтриете историята на сърфирането?">
 <!ENTITY home_bookmarks_empty "Направените отметки се показват тук.">
 <!ENTITY home_closed_tabs_title2 "Наскоро затворени">
