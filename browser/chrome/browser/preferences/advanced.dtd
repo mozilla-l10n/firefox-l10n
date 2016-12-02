@@ -40,6 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "k">
 <!ENTITY telemetryLearnMore.label        "Lue lisää">
 
+<!ENTITY crashReporterDesc2.label         "Kaatumisilmoitusten ansiosta &vendorShortName; voi korjata ongelmia ja tehdä selaimestasi vakaamman ja turvallisemman">
+<!ENTITY alwaysSubmitCrashReports.label   "Salli, että &brandShortName; lähettää lähettämättömät kaatumisilmoitukset puolestasi">
+<!ENTITY alwaysSubmitCrashReports.accesskey "S">
 <!ENTITY crashReporterLearnMore.label     "Lue lisää">
 
 <!ENTITY networkTab.label                "Verkko">
