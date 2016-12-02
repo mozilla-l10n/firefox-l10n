@@ -101,7 +101,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Запис на всички">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Запис на всички прикрепени файлове">
 
-<!ENTITY copyLinkCmd.label        "Копиране адреса на връзката">
+<!ENTITY copyLinkCmd.label        "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey    "К">
 
 <!ENTITY CopyMessageId.label "Копиране на Message-ID">
