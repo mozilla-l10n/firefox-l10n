@@ -247,4 +247,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "käsikirjamme">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Puuttuuko jotain? &brandShortName; ei enää tue joitain liitännäisiä.">
 <!ENTITY pluginDeprecation.learnMore "Lue lisää.">
