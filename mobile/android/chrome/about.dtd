@@ -12,7 +12,7 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "Изтегляне на обновяване">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Изтегляне на обновяване…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Инсталиране на обновяване">
-<!ENTITY aboutPage.faq.label                    "ЧЗВ">
+<!ENTITY aboutPage.faq.label                    "Въпроси и отговори">
 <!ENTITY aboutPage.support.label                "Поддръжка">
 <!ENTITY aboutPage.privacyPolicy.label          "Политика за личните данни">
 <!ENTITY aboutPage.rights.label                 "Познавайте своите права">
