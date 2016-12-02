@@ -10,8 +10,8 @@
 #define bookmarks_title Σελιδοδείκτες
 #define bookmarks_heading Σελιδοδείκτες
 
-#define bookmarks_toolbarfolder Εργαλειοθήκη σελιδοδεικτών
-#define bookmarks_toolbarfolder_description Προσθέστε σελιδοδείκτες σε αυτό τον φάκελο για να εμφανιστούν στην εργαλειοθήκη των σελιδοδεικτών
+#define bookmarks_toolbarfolder Φάκελος γραμμής εργαλείων σελιδοδεικτών
+#define bookmarks_toolbarfolder_description Προσθέστε σελιδοδείκτες σε αυτό το φάκελο για να εμφανιστούν στη γραμμή εργαλείων σελιδοδεικτών
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
@@ -23,18 +23,42 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Βοήθεια και τεκμηρίωση
+#define firefox_help Βοήθεια και οδηγοί χρήσης
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize Προσαρμόστε τον Firefox
+#define firefox_customize Προσαρμογή του Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
-#define firefox_community Αναμιχθείτε και εσείς
+#define firefox_community Συμμετοχή
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
-#define firefox_about Πληροφορίες για εμάς
+#define firefox_about Σχετικά με εμάς
+
+# LOCALIZATION NOTE (nightly_heading):
+# Firefox Nightly links folder name
+
+# LOCALIZATION NOTE (nightly_blog):
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+
+# LOCALIZATION NOTE (bugzilla):
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+
+# LOCALIZATION NOTE (mdn):
+# Nightly builds only, link title for https://developer.mozilla.org/
+
+# LOCALIZATION NOTE (nightly_tester_tools):
+# Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+
+# LOCALIZATION NOTE (crashes):
+# Nightly builds only, link title for about:crashes
+
+# LOCALIZATION NOTE (irc):
+# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+
+# LOCALIZATION NOTE (planet):
+# Nightly builds only, link title for https://planet.mozilla.org/
 
 #unfilter emptyLines

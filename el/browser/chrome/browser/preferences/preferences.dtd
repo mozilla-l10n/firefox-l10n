@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Περιεχόμενο">
 <!ENTITY  paneApplications.title  "Εφαρμογές">
 <!ENTITY  panePrivacy.title       "Απόρρητο">
+<!ENTITY  paneContainers.title    "Θεματικές καρτέλες">
 <!ENTITY  paneSecurity.title      "Ασφάλεια">
 <!ENTITY  paneAdvanced.title      "Για προχωρημένους">
 

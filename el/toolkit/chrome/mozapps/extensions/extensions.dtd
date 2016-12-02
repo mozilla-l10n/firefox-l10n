@@ -246,3 +246,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "εγχειρίδιο">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Λείπει τίποτα; Ορισμένες πρόσθετες λειτουργίες δεν υποστηρίζονται πλέον από το &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Μάθετε περισσότερα.">

@@ -22,27 +22,56 @@
 
 
 
+<!ENTITY  acceptCookies.label           "Αποδοχή cookies από ιστοσελίδες">
 
+<!ENTITY  acceptThirdParty.pre.label      "Αποδοχή cookies τρίτων:">
 <!ENTITY  acceptThirdParty.always.label   "Πάντα">
 <!ENTITY  acceptThirdParty.never.label    "Ποτέ">
 
 <!ENTITY  keepUntil.label               "Διατήρηση μέχρι:">
 
+<!ENTITY  expire.label                  "τη λήξη τους">
+<!ENTITY  close.label                   "το κλείσιμο του &brandShortName;">
 
+<!ENTITY  cookieExceptions.label        "Εξαιρέσεις…">
 
+<!ENTITY  showCookies.label             "Προβολή Cookies…">
 
+<!ENTITY  historyHeader.pre.label          "Το &brandShortName; θα:">
+<!ENTITY  historyHeader.remember.label     "Διατηρεί το ιστορικό">
+<!ENTITY  historyHeader.dontremember.label "Δεν θα διατηρεί ποτέ το ιστορικό">
+<!ENTITY  historyHeader.custom.label       "Κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού">
 
+<!ENTITY  rememberDescription.label      "Το &brandShortName; θα διατηρεί το ιστορικό περιήγησης, λήψεων, φορμών και αναζήτησης, καθώς και τα cookies από τις ιστοσελίδες που επισκέπτεστε.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Αν θέλετε, μπορείτε να ">
+<!ENTITY  rememberActions.clearHistory.label  "εκκαθαρίσετε όλο το πρόσφατο ιστορικό σας">
+<!ENTITY  rememberActions.middle.label        ", ή ">
+<!ENTITY  rememberActions.removeCookies.label "να διαγράψετε συγκεκριμένα cookies">
+<!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  dontrememberDescription.label  "Το &brandShortName; θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Αν θέλετε, μπορείτε να ">
+<!ENTITY  dontrememberActions.clearHistory.label "εκκαθαρίσετε όλο το τρέχον ιστορικό σας">
+<!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
 
+<!ENTITY  rememberHistory2.label      "Διατήρηση του ιστορικού περιήγησης και λήψεων">
 
+<!ENTITY  rememberSearchForm.label       "Διατήρηση ιστορικού αναζήτησης και φορμών">
 
+<!ENTITY  clearOnClose.label             "Εκκαθάριση ιστορικού όταν κλείνει το &brandShortName;">
 
+<!ENTITY  clearOnCloseSettings.label     "Ρυθμίσεις…">
 
+<!ENTITY  browserContainersHeader.label         "Θεματικές καρτέλες">
+<!ENTITY  browserContainersLearnMore.label      "Μάθετε περισσότερα">
+<!ENTITY  browserContainersEnabled.label        "Ενεργοποίηση θεματικών καρτελών">
+<!ENTITY  browserContainersSettings.label        "Ρυθμίσεις…">
