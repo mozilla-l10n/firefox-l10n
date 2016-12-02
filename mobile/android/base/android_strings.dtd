@@ -169,7 +169,7 @@
 <!ENTITY overlay_no_synced_devices "Това устройство не е свързано с Firefox Account">
 
 <!ENTITY pref_category_search3 "Търсене">
-<!ENTITY pref_category_search_summary2 "Добавяне, задаване на стандартни, показване на предложения">
+<!ENTITY pref_category_search_summary2 "Добавяне, избор на стандартна, показване на предложения">
 <!ENTITY pref_category_accessibility "Достъпност">
 <!ENTITY pref_category_accessibility_summary2 "Размер на текста, мащабиране, гласово въвеждане">
 <!ENTITY pref_category_privacy_short "Поверителност">
@@ -213,7 +213,7 @@
 <!ENTITY pref_home_updates_enabled "Включено">
 <!ENTITY pref_home_updates_wifi "Само през Wi-Fi">
 <!ENTITY pref_category_home_homepage "Начална страница">
-<!ENTITY home_homepage_title "Задаване на начална страница">
+<!ENTITY home_homepage_title "Избиране на начална страница">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -269,7 +269,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Включено при поверително сърфиране">
 <!ENTITY pref_tracking_protection_disabled "Изключено">
 
-<!ENTITY pref_whats_new_notification "Какво е новото в &brandShortName;">
+<!ENTITY pref_whats_new_notification "Какво е новото във &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Научете за новите възможности след актуализация">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
@@ -291,7 +291,7 @@
 <!ENTITY tracking_protection_prompt_tip_text "Вижте настройките на поверителност, за да научите повече">
 <!ENTITY tracking_protection_prompt_action_button "Разбрах!">
 
-<!ENTITY tab_queue_toast_message3 "Разделът е запазен в &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Разделът е запазен от &brandShortName;">
 <!ENTITY tab_queue_toast_action "Отваряне">
 <!ENTITY tab_queue_prompt_title "Отваряте няколко препратки?">
 <!ENTITY tab_queue_prompt_text4 "Запазете ги за следващия път, когато отворите &brandShortName;.">
@@ -382,7 +382,7 @@ size. -->
 <!ENTITY pref_use_master_password "Използване на главна парола">
 <!ENTITY pref_sync2 "Вписване">
 <!ENTITY pref_sync_summary2 "Синхронизиране на раздели, отметки, регистрации, история">
-<!ENTITY pref_search_suggestions "Показване на подсказки">
+<!ENTITY pref_search_suggestions "Показване на предложения">
 <!ENTITY pref_history_search_suggestions "Показване на историята">
 <!ENTITY pref_import_options "Настройки за внасяне">
 <!ENTITY pref_import_android_summary "Внасяне на отметки и история от фабричния браузър">
@@ -543,7 +543,7 @@ size. -->
 
 <!ENTITY bookmark_edit_title "Редактиране на отметка">
 <!ENTITY bookmark_edit_name "Име">
-<!ENTITY bookmark_edit_location "Местоположение">
+<!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Ключова дума">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
