@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Laitteen nimi:">
 <!ENTITY fxaSyncDeviceName.label       "Laitteen nimi">
 <!ENTITY changeSyncDeviceName.label "Muuta laitteen nimeä…">
+<!ENTITY changeSyncDeviceName.accesskey "M">
 <!ENTITY cancelChangeSyncDeviceName.label "Peruuta">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "P">
 <!ENTITY saveChangeSyncDeviceName.label "Tallenna">
+<!ENTITY saveChangeSyncDeviceName.accesskey "T">
 <!ENTITY unlinkDevice.label           "Irrota laite">
 
 <!-- Footer stuff -->
@@ -72,9 +75,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Kirjaudu sisään">
 <!ENTITY profilePicture.tooltip      "Vaihda kuva">
 <!ENTITY verifiedManage.label        "Hallinnoi tiliä">
+<!ENTITY verifiedManage.accesskey    "H">
 <!ENTITY disconnect.label            "Katkaise yhteys…">
+<!ENTITY disconnect.accesskey        "y">
 <!ENTITY verify.label                "Vahvista sähköpostiosoite">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Unohda sähköpostiosoite">
+<!ENTITY forget.accesskey            "U">
 
 <!ENTITY welcome.description "Kun käytät &brandShortName;ia välilehtesi, kirjanmerkkisi, salasanasi ja muut tietosi ovat aina käytettävissäsi.">
 <!ENTITY welcome.signIn.label "Kirjaudu sisään">
