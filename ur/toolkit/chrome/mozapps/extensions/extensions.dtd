@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "دستورالعمل">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "کسی شہ کی کمی ہے؟ &brandShortName;. کی جانب سے کچھ بلگ ان میں تعاون اب نہیں رہا ">
+<!ENTITY pluginDeprecation.learnMore "مزید سیکھیں">
