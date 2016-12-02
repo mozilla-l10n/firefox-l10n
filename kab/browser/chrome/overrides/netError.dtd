@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ulac tansa n uqeddac">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tansa ɣef tuccḍiwin am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ aseɣẓan agrayan, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tansa ɣef tuccḍiwin am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Senqed isem n ufaylu ma yura s isekkilen meqqṛen neɣ meẓẓiyen neɣ tuccdiwin n tira nniḍen.</li><li>Senqed ma yella afaylu ur ittusenkez ara, ur ittusnifel ara neɣ ur ittwakkes ara.</li></ul>">
@@ -62,11 +62,11 @@
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Aqeddac aseɣẓan agrayan yugi tuqqniwin.">
-<!ENTITY proxyConnectFailure.longDesc "<ul><li>Senqed iɣewwaṛen n useɣẓan agrayan ma llan d imeɣta.</li> <li>Nermes anedbal n uẓeṭṭa iwakken ad twaliḍ ma yella aqeddac aseɣẓan agrayan itteddu.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Aqeddac apṛuksi yugi tuqqniwin.">
+<!ENTITY proxyConnectFailure.longDesc "<ul><li>Senqed iɣewwaṛen n upṛuksi ma llan d imeɣta.</li> <li>Nermes anedbal n uẓeṭṭa akken ad twaliḍ ma yella aqeddac apṛuksi itteddu.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Aqeddac aseɣẓan agrayan ulac-it">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n useɣẓan agrayan ma llan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim-inek tetteddu.</li> <li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Aqeddac apṛuksi ulac-it">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n upṛuksi ma llan d imeɣta.</li> <li>Senqed ma yella tuqqna n uẓeṭṭa n uselkim-inek tetteddu.</li> <li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes, Wali ma yella &brandShortName; ɣur-s tasiregt n unekcum ɣer Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Asebter ur iwehi ara akken iwata">
 <!ENTITY redirectLoop.longDesc "<ul><li>Ugur-a ahat yekka-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
