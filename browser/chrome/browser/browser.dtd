@@ -397,7 +397,7 @@
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyImageContentsCmd.label "Copia immagine">
-<!ENTITY copyImageContentsCmd.accesskey "g">
+<!ENTITY copyImageContentsCmd.accesskey "a">
 <!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
 <!ENTITY copyVideoURLCmd.accesskey "o">
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
