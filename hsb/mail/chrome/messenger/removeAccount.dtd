@@ -14,6 +14,6 @@
 <!ENTITY removeDataServerAccount.desc "Wotstroni wšě powěsće, rjadowaki a filtry zwjazane z tutym kontom z wašeje lokalneje tačele. Waše powěsće a rjadowaki hišće na wašim serwerju wostanu.">
 <!ENTITY showData.label               "Městno datow pokazać">
 <!ENTITY showData.accesskey           "M">
-<!ENTITY progressPending              "Wubrany daty so wotstronjeja…">
+<!ENTITY progressPending              "Wubrane daty so wotstronjeja…">
 <!ENTITY progressSuccess              "Daty su so wuspěšnje wotstronili.">
 <!ENTITY progressFailure              "Daty njedachu so wotstronić.">
