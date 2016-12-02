@@ -47,7 +47,7 @@
 <!ENTITY btnPageLogging.tooltip "Журнал на съобщенията, изпратени до обекта window.console">
 <!ENTITY btnPageLogging.accesskey3 "Ж">
 <!ENTITY btnConsoleErrors       "Грешки">
-<!ENTITY btnConsoleInfo         "Информационни">
+<!ENTITY btnConsoleInfo         "Информация">
 <!ENTITY btnConsoleWarnings     "Предупреждения">
 <!ENTITY btnConsoleLog          "Журнал">
 <!ENTITY btnConsoleXhr          "XHR">
@@ -60,7 +60,7 @@
 <!ENTITY btnServerLogging.tooltip     "Следене на съобщенията, получавани от уеб сървъра">
 <!ENTITY btnServerLogging.accesskey   "С">
 <!ENTITY btnServerErrors              "Грешки">
-<!ENTITY btnServerInfo                "Информационни">
+<!ENTITY btnServerInfo                "Информация">
 <!ENTITY btnServerWarnings            "Предупреждения">
 <!ENTITY btnServerLog                 "Журнал">
 
@@ -89,7 +89,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "0">
 
-<!ENTITY copyURLCmd.label     "Копиране на адреса">
+<!ENTITY copyURLCmd.label     "Копиране на препратката">
 <!ENTITY copyURLCmd.accesskey "а">
 
 <!ENTITY closeCmd.key         "W">

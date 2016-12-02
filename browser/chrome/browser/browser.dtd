@@ -104,7 +104,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Влизане в режим на цял екран">
 <!ENTITY enterFullScreenCmd.accesskey "ц">
-<!ENTITY exitFullScreenCmd.label "Излизане от режим на цял екран">
+<!ENTITY exitFullScreenCmd.label "Излизане от цял екран">
 <!ENTITY exitFullScreenCmd.accesskey "ц">
 <!ENTITY fullScreenCmd.label "Цял екран">
 <!ENTITY fullScreenCmd.accesskey "Ц">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Затваряне">
 <!ENTITY fullScreenAutohide.label "Скриване на лентите">
 <!ENTITY fullScreenAutohide.accesskey "л">
-<!ENTITY fullScreenExit.label "Изход от цял екран">
+<!ENTITY fullScreenExit.label "Излизане от цял екран">
 <!ENTITY fullScreenExit.accesskey "ц">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -139,9 +139,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Излизане от режим на цял екран (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Излизане от режим на цял екран (esc)">
-<!ENTITY leaveDOMFullScreen.label "Излизане от режим на цял екран">
+<!ENTITY exitDOMFullscreen.button "Излизане от цял екран (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Излизане от цял екран (esc)">
+<!ENTITY leaveDOMFullScreen.label "Излизане от цял екран">
 <!ENTITY leaveDOMFullScreen.accesskey "ц">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -547,7 +547,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "т">
 <!ENTITY hidePluginCmd.label          "Скриване на тази приставка">
 <!ENTITY hidePluginCmd.accesskey      "С">
-<!ENTITY copyLinkCmd.label            "Копиране на адреса">
+<!ENTITY copyLinkCmd.label            "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey        "а">
 <!ENTITY copyImageCmd.label           "Копиране адреса на изображението">
 <!ENTITY copyImageCmd.accesskey       "п">

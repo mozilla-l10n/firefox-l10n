@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Начало…">
 <!ENTITY scanning.label                   "Претърсване за вируси…">
 
-<!ENTITY downloads.title                  "Изтегляне на файлове">
+<!ENTITY downloads.title                  "Изтегляния">
 
 <!ENTITY cmd.pause.label                  "Пауза">
 <!ENTITY cmd.pause.accesskey              "П">
