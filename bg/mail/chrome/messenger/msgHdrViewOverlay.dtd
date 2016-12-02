@@ -78,7 +78,7 @@
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Отваряне">
 <!ENTITY openAttachmentCmd.accesskey    "О">
-<!ENTITY saveAsAttachmentCmd.label    "Запис на всички…">
+<!ENTITY saveAsAttachmentCmd.label    "Запазване на всички…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "в">
 <!ENTITY detachAttachmentCmd.label    "Откачане…">
 <!ENTITY detachAttachmentCmd.accesskey    "к">
@@ -86,7 +86,7 @@
 <!ENTITY deleteAttachmentCmd.accesskey    "р">
 <!ENTITY openAllAttachmentsCmd.label    "Отваряне на всички…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "О">
-<!ENTITY saveAllAttachmentsCmd.label    "Запис на всички…">
+<!ENTITY saveAllAttachmentsCmd.label    "Запазване на всички…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "в">
 <!ENTITY detachAllAttachmentsCmd.label    "Откачане на всички…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "ч">
@@ -98,8 +98,8 @@
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Запис">
 <!ENTITY saveAttachmentButton1.tooltip     "Запис на прикрепения файл">
-<!ENTITY saveAllAttachmentsButton1.label   "Запис на всички">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Запис на всички прикрепени файлове">
+<!ENTITY saveAllAttachmentsButton1.label   "Запазване на всички">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Запазване на всички прикачени файлове">
 
 <!ENTITY copyLinkCmd.label        "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey    "К">
