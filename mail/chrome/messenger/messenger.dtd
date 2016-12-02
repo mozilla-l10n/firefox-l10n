@@ -8,7 +8,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Папка…">
 <!ENTITY newFolderCmd.accesskey "а">
-<!ENTITY closeTabCmd2.label "Затваряне на раздел">
+<!ENTITY closeTabCmd2.label "Затваряне на раздела">
 <!ENTITY closeTabCmd2.accesskey "т">
 <!ENTITY closeOtherTabsCmd2.label "Затваряне на другите раздели">
 <!ENTITY closeOtherTabsCmd2.accesskey "в">
@@ -909,7 +909,7 @@
 <!ENTITY saveLinkAsCmd.accesskey "к">
 <!ENTITY saveImageAsCmd.label "Запазване на изображението…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
-<!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
+<!ENTITY copyLinkCmd.label "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY copyImageAllCmd.label "Копиране на изображението">
 <!ENTITY copyImageAllCmd.accesskey "и">
