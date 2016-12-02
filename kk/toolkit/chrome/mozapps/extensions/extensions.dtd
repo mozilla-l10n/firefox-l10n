@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "нұсқама">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Бірнәрсе жетіспей ма? Кейбір плагиндерді &brandShortName; енді қолдамайды.">
+<!ENTITY pluginDeprecation.learnMore "Көбірек білу.">
