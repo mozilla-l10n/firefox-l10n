@@ -61,10 +61,10 @@
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmired ad teldiḍ tawsit n tansa-agi.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Aqeddac aseɣẓan agrayan yugi tuqqniwin.">
+<!ENTITY proxyConnectFailure.title "Aqeddacapṛuksi yugi tuqqniwin.">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n upṛuksi d imeɣta.</li> <li>Nermes anedbal-ik n uẓeṭṭa akken ad twaliḍ ma yella apṛuksi itteddu.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Aqeddac aseɣẓan agrayan ulac-it">
+<!ENTITY proxyResolveFailure.title "Aqeddac apṛuksi ulac-it">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Senqed ma yella iɣewwaṛen n upṛuksi d imeɣta.</li> <li>Wali ma yella ibenkan ɣur-sen isefka itteddun neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
