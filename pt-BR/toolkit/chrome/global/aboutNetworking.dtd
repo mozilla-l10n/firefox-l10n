@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Sobre rede">
-<!ENTITY aboutNetworking.warning               "Isto é muito experimental. Não usar sem a supervisão de adultos.">
+<!ENTITY aboutNetworking.warning               "Isso é muito experimental. Não use sem a supervisão de um adulto.">
 <!ENTITY aboutNetworking.showNextTime          "Sempre mostrar este aviso">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
@@ -24,13 +24,13 @@
 <!ENTITY aboutNetworking.received              "Recebido">
 <!ENTITY aboutNetworking.family                "Família">
 <!ENTITY aboutNetworking.addresses             "Endereços">
-<!ENTITY aboutNetworking.expires               "Validade (segundos)">
+<!ENTITY aboutNetworking.expires               "Expira (segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensagens enviadas">
 <!ENTITY aboutNetworking.messagesReceived      "Mensagens recebidas">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviados">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recebidos">
 <!ENTITY aboutNetworking.logging               "Registro">
-<!ENTITY aboutNetworking.logTutorial           "Veja o <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Registro HTTP </a> para instruções sobre como usar essa ferramenta.">
+<!ENTITY aboutNetworking.logTutorial           "Ver o <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Registro HTTP </a> para instruções sobre como usar essa ferramenta.">
 <!ENTITY aboutNetworking.currentLogFile        "Arquivo de registro atual:">
 <!ENTITY aboutNetworking.currentLogModules     "Módulos de registro atuais:">
 <!ENTITY aboutNetworking.setLogFile            "Configurar arquivo de registro">

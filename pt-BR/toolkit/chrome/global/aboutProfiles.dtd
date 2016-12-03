@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutProfiles.title "Sobre perfis">
+<!ENTITY aboutProfiles.title "Sobre os perfis">
 <!ENTITY aboutProfiles.subtitle "Esta página ajuda a gerenciar seus perfis. Cada perfil é um mundo separado que contém história, favoritos, configurações e complementos separados.">
 <!ENTITY aboutProfiles.create "Criar um novo perfil">
 <!ENTITY aboutProfiles.restart.title "Reiniciar">
