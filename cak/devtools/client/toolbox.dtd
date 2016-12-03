@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "We natzïj re cha'oj re', ri taq choloj chuqa' elem pa ri Ajk'amaya'l temeb'äl xtuk'üt pe jun retal q'ijul">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Chojmirisab'äl">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Titzij kitzub'al xe'el ">
+<!ENTITY options.sourceMaps.tooltip    "We natzïj re cha'oj xe'el re' xtatzu' pa ri chojmirisab'äl chuqa' temeb'äl.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
