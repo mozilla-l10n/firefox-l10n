@@ -54,7 +54,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "মুদ্রণ… (P)">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "সংরক্ষন… (S)">
+<!ENTITY button.syncKeyBackup.save.label      "সংরক্ষণ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
