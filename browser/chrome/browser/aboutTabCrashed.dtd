@@ -18,7 +18,13 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "Επιλέξτε &tabCrashed.restoreTab; για εκ νέου φόρτωση του περιεχομένου της σελίδας.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Επιλέξτε &tabCrashed.restoreTab; ή &tabCrashed.restoreAll; για εκ νέου φόρτωση του περιεχομένου της σελίδας.">
 <!ENTITY tabCrashed.requestHelp "Θα μάς βοηθήσετε;">
-<!ENTITY tabCrashed.requestReport "Αναφορά αυτής της καρτέλας">
-<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε την διεύθυνση email σας">
-<!ENTITY tabCrashed.emailMe "Στείλτε μου email όταν είναι διαθέσιμες περισσότερες πληροφορίες">
-<!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης υποβλήθηκε. Σας ευχαριστούμε που συμβάλλετε στην βελτίωση του &brandShortName;!">
+<!ENTITY tabCrashed.requestHelpMessage "Οι αναφορές κατάρρευσης μάς βοηθούν στη διάγνωση προβλημάτων και στη βελτίωση του &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Αναφορά καρτέλας">
+<!ENTITY tabCrashed.sendReport2 "Αποστολή αναφοράς κατάρρευσης για την τρέχουσα καρτέλα">
+<!ENTITY tabCrashed.commentPlaceholder2 "Προαιρετικά σχόλια (τα σχόλια είναι ορατά σε όλους)">
+<!ENTITY tabCrashed.includeURL2 "Συμπερίληψη URL σελίδας σε αυτή την αναφορά κατάρρευσης">
+<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε τη διεύθυνση email σας">
+<!ENTITY tabCrashed.emailMe "Ειδοποίηση στο email μου όταν είναι διαθέσιμες περισσότερες πληροφορίες">
+<!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης έχει υποβληθεί ήδη· σάς ευχαριστούμε που συμβάλλετε στη βελτίωση του &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit "Απαίτηση καρτελών παρασκηνίου">
+<!ENTITY tabCrashed.autoSubmit "Ενημέρωση προτιμήσεων για αυτόματη υποβολή συσσωρευμένων αναφορών κατάρρευσης (και αποστολή λιγότερων μηνυμάτων σαν αυτό στο μέλλον)">
