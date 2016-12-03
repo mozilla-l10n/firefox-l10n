@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "rehberimizi">
 <!ENTITY disabledUnsigned.devInfo.end " okuyabilir.">
 
-
+<!ENTITY pluginDeprecation.description "Bir şeyler mi eksik? Bazı yan uygulamalar artık &brandShortName; tarafından desteklenmiyor.">
+<!ENTITY pluginDeprecation.learnMore "Daha fazla bilgi alın.">
