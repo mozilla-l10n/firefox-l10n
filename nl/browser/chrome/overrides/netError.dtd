@@ -51,6 +51,13 @@
 <p>&brandShortName; kan om de een of andere reden deze pagina niet laden.</p>
 ">
 
+<!ENTITY captivePortal.title "Aanmelden bij netwerk">
+<!ENTITY captivePortal.longDesc "
+<p>Dit netwerk kan u vragen u aan te melden voor toegang tot het internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Aanmeldingspagina openen">
+
 <!ENTITY malformedURI.title "Het adres is niet geldig">
 <!ENTITY malformedURI.longDesc "
 <ul>

@@ -38,11 +38,13 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Apparaatnaam:">
-<!ENTITY syncDeviceName.accesskey   "n">
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnaam">
 <!ENTITY changeSyncDeviceName.label "Apparaatnaam wijzigen…">
+<!ENTITY changeSyncDeviceName.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuleren">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Opslaan">
+<!ENTITY saveChangeSyncDeviceName.accesskey "s">
 <!ENTITY unlinkDevice.label           "Dit apparaat ontkoppelen">
 
 <!-- Footer stuff -->
@@ -71,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "U bent niet aangemeld.">
 <!ENTITY signIn.label                "Aanmelden">
+<!ENTITY signIn.accesskey            "m">
 <!ENTITY profilePicture.tooltip      "Profielafbeelding wijzigen">
 <!ENTITY verifiedManage.label        "Account beheren">
+<!ENTITY verifiedManage.accesskey    "b">
 <!ENTITY disconnect.label            "Verbinding verbreken…">
+<!ENTITY disconnect.accesskey        "v">
 <!ENTITY verify.label                "E-mailadres verifiëren">
+<!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Dit e-mailadres vergeten">
+<!ENTITY forget.accesskey            "r">
 
 <!ENTITY welcome.description "Benader uw tabbladen, bladwijzers, wachtwoorden en meer, waar u &brandShortName; ook gebruikt.">
 <!ENTITY welcome.signIn.label "Aanmelden">
@@ -87,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.">
 <!ENTITY signedOut.accountBox.title   "Verbinding maken met een &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Account aanmaken">
+<!ENTITY signedOut.accountBox.create.accesskey  "c">
 <!ENTITY signedOut.accountBox.signin  "Aanmelden">
+<!ENTITY signedOut.accountBox.signin.accesskey  "A">
 
 <!ENTITY signedIn.engines.label       "Synchroniseren op alle apparaten">
 
