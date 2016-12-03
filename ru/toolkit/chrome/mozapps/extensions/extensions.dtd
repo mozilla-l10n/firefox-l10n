@@ -176,3 +176,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Разработчики, заинтересованные в проверке своих дополнений, могут прочесть наше ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "руководство">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+<!ENTITY pluginDeprecation.description "Что-то отсутствует? &brandShortName; больше не поддерживает некоторые плагины.">
+<!ENTITY pluginDeprecation.learnMore "Подробнее.">
