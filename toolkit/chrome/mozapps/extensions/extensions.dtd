@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Falta cosa? &brandShortName; ha deixau de soportar bells plugins.">
+<!ENTITY pluginDeprecation.learnMore "Aprende-ne mas.">
