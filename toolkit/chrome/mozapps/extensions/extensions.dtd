@@ -246,3 +246,6 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!ENTITY disabledUnsigned.devInfo.start "Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Faltando alguma coisa? Alguns plugins não são mais suportados pelo &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Saber mais.">
