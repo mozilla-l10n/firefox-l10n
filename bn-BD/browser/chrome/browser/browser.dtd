@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.label            "অনুলিপি C">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "প্রতিলেপন (P)">  
+<!ENTITY pasteCmd.label           "প্রতিলেপন">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "মুছে ফেলুন (D)">  
