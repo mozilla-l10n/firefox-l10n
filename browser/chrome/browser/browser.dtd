@@ -392,6 +392,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Voer zoekterm of adres in">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extensie:">
 <!ENTITY urlbar.switchToTab.label     "Wisselen naar tabblad:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Wilt u uw zoekervaring verbeteren met suggesties?">
@@ -701,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
 <!ENTITY identity.connectionVerified2 "U hebt een beveiligde verbinding met deze website, welke wordt beheerd door:">
 <!ENTITY identity.connectionInternal "Dit is een beveiligde &brandShortName;-pagina.">
-<!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden overgenomen.">
+<!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
@@ -711,7 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Uw verbinding met deze website is niet privé. Gegevens die u verzendt zouden door anderen kunnen worden bekeken (zoals wachtwoorden, berichten, creditcardgegevens, etc.).">
-<!ENTITY identity.description.insecureLoginForms "De aanmeldingsgegevens die u op deze pagina invoert zijn niet veilig en kunnen worden overgenomen.">
+<!ENTITY identity.description.insecureLoginForms "De aanmeldingsgegevens die u op deze pagina invoert, zijn niet veilig en zouden kunnen worden onderschept.">
 <!ENTITY identity.description.weakCipher "Uw verbinding met deze website gebruikt zwakke versleuteling en is niet privé.">
 <!ENTITY identity.description.weakCipher2 "Andere personen kunnen uw gegevens bekijken of het gedrag van de website aanpassen.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
@@ -719,7 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Deze website bevat inhoud die niet is beveiligd (zoals afbeeldingen).">
 <!ENTITY identity.description.passiveLoaded3 "Hoewel &brandShortName; bepaalde inhoud heeft geblokkeerd, is er nog steeds inhoud op de pagina die niet is beveiligd (zoals afbeeldingen).">
 <!ENTITY identity.description.activeLoaded "Deze website bevat inhoud die niet is beveiligd (zoals scripts) en uw verbinding ermee is niet privé.">
-<!ENTITY identity.description.activeLoaded2 "Gegevens die u met deze website deelt zouden door anderen kunnen worden bekeken (zoals wachtwoorden, berichten, creditcardgegevens, etc.).">
+<!ENTITY identity.description.activeLoaded2 "Gegevens die u met deze website deelt, zouden door anderen kunnen worden bekeken (zoals wachtwoorden, berichten, creditcardgegevens, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Bescherming inschakelen">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "s">

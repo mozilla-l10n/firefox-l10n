@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Meer info">
 <!ENTITY  browserContainersEnabled.label        "Containertabbladen inschakelen">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Instellingen…">
+<!ENTITY  browserContainersSettings.accesskey    "I">
