@@ -23,10 +23,10 @@
 <!ENTITY convertEmoticons.label "Отображать смайлики как графику">
 <!ENTITY convertEmoticons.accesskey "б">
 <!ENTITY displayTagsText.label "Метки могут быть использованы для классификации и изменения приоритета сообщений.">
-<!ENTITY addTagButton.label "Добавить">
-<!ENTITY addTagButton.accesskey "о">
-<!ENTITY editTagButton.label "Редактировать">
-<!ENTITY editTagButton.accesskey "е">
+<!ENTITY newTagButton.label "Создать…">
+<!ENTITY newTagButton.accesskey "о">
+<!ENTITY editTagButton1.label "Изменить…">
+<!ENTITY editTagButton1.accesskey "е">
 <!ENTITY removeTagButton.label "Удалить">
 <!ENTITY removeTagButton.accesskey "и">
 <!ENTITY fontsAndColors1.label "Шрифты и цвета">
