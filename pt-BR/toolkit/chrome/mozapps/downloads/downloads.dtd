@@ -16,9 +16,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Continuar">
-<!ENTITY cmd.resume.accesskey             "o">
+<!ENTITY cmd.resume.accesskey             "r">
 <!ENTITY cmd.cancel.label                 "Cancelar">
-<!ENTITY cmd.cancel.accesskey             "a">
+<!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "Abrir pasta">
 <!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Mostrar no Finder">
@@ -26,22 +26,22 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.label                   "Abrir">
 <!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Abrir com…">
-<!ENTITY cmd.openWith.accesskey           "A">
+<!ENTITY cmd.openWith.accesskey           "b">
 <!ENTITY cmd.retry.label                  "Repetir">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Ir para a página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey   "b">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
-<!ENTITY cmd.copyDownloadLink.accesskey   "C">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "Remover da lista">
-<!ENTITY cmd.removeFromList.accesskey     "x">
+<!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Limpar lista">
-<!ENTITY cmd.clearList.tooltip            "Remover da lista os downloads concluídos, cancelados ou interrompidos">
-<!ENTITY cmd.clearList.accesskey          "L">
+<!ENTITY cmd.clearList.tooltip            "Remover da lista os downloads concluídos, cancelados ou que falharam">
+<!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
@@ -49,4 +49,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Fechar a janela Downloads ao terminar todos os downloads">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
-<!ENTITY searchBox.label                  "Localizar">
+<!ENTITY searchBox.label                  "Pesquisar…">
