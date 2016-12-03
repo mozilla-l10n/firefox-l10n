@@ -612,7 +612,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
-<!ENTITY appmenuNewContactCmd.label "Kontakt adressbok…">
+<!ENTITY appmenuNewContactCmd.label "Ny adressbokskontakt…">
 <!ENTITY appmenuEditMenu.label "Redigera">
 <!ENTITY appmenuToolbarLayout.label "Layout verktygsfält…">
 <!ENTITY appmenuSelectThread.label "Välj tråd">
