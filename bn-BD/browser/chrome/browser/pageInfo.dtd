@@ -59,7 +59,7 @@
 <!ENTITY  permissionsFor        "অনুমোদন:">
 <!ENTITY  permPlugins           "প্লাগইন সক্রিয় করুন">
 
-<!ENTITY  permClearStorage           "সংরক্ষন অপসারন">
+<!ENTITY  permClearStorage           "স্টোরেজ পরিষ্কার">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "নিরাপত্তা (S)">
