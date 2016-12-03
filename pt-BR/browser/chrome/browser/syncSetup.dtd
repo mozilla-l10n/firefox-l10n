@@ -103,7 +103,7 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmação">
-<!ENTITY confirm.merge2.label    "O &syncBrand.fullName.label; irá mesclar os dados da sua conta do Sync com os deste dispositivo.">
+<!ENTITY confirm.merge2.label    "O &syncBrand.fullName.label; mesclará os dados da sua conta do Sync com os deste dispositivo.">
 <!ENTITY confirm.client3.label         "Aviso: Os seguintes dados do &brandShortName; neste dispositivo serão excluídos:">
 <!ENTITY confirm.client2.moreinfo.label "Então o &brandShortName; copiará para este dispositivo os dados do &syncBrand.fullName.label;.">
 <!ENTITY confirm.server2.label         "Aviso: Os seguintes dispositivos terão seus dados substituídos pelos dados locais:">
