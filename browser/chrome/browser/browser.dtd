@@ -213,12 +213,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
 
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Μετάφραση σελίδας">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Επαναφορά επιπέδου ζουμ">
 
 <!ENTITY searchItem.title             "Αναζήτηση">
 
@@ -377,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 <!ENTITY urlbar.accesskey             "δ">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Επέκταση:">
 <!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
 
@@ -720,6 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Δικαιώματα">
 <!ENTITY identity.permissionsEmpty "Δεν έχετε δώσει ειδικά δικαιώματα σε αυτή τη σελίδα.">
+<!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
