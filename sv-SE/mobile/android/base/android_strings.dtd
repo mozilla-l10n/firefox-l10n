@@ -269,7 +269,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Påslaget i privat surfning">
 <!ENTITY pref_tracking_protection_disabled "Inaktiverad">
 
-<!ENTITY pref_whats_new_notification "Flik sparad i &brandShortName;">
+<!ENTITY pref_whats_new_notification "Vad är nytt i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
