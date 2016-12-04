@@ -7,9 +7,6 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Lägg till kategori">
-<!ENTITY pref.categories.addButton.label "Lägg till…">
-<!ENTITY pref.categories.addButton.accesskey "L">
 <!ENTITY pref.categories.edit.title "Redigera kategori">
 <!ENTITY pref.categories.editButton.label "Redigera">
 <!ENTITY pref.categories.editButton.accesskey "R">
