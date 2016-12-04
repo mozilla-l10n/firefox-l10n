@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messageMarkByDate.label "Označi sporočila kot prebrana po datumu">
+<!ENTITY messageMarkByDate.label "Označi sporočila kot prebrana v obdobju">
 <!ENTITY markByDateLower.label "Označi sporočila kot prebrana od:">
 <!ENTITY markByDateLower.accesskey "O">
 <!ENTITY markByDateUpper.label "do:">
