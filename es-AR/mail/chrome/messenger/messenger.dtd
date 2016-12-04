@@ -501,6 +501,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Depurador de complementos">
 <!ENTITY addonDebugCmd.accesskey "a">
+<!ENTITY tabsDebugCmd.label "Depurador de contenido de marco">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
