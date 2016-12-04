@@ -7,9 +7,6 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Pridať kategóriu">
-<!ENTITY pref.categories.addButton.label "Pridať…">
-<!ENTITY pref.categories.addButton.accesskey "P">
 <!ENTITY pref.categories.edit.title "Upraviť kategóriu">
 <!ENTITY pref.categories.editButton.label "Upraviť…">
 <!ENTITY pref.categories.editButton.accesskey "U">
@@ -22,4 +19,3 @@
 <!ENTITY pref.categories.overwrite "Kategória s týmto názvom už existuje. \n Chcete ju nahradiť?">
 <!ENTITY pref.categories.overwrite.title "Upozornenie: Duplicitný názov">
 <!ENTITY pref.categories.noBlankCategories "Musíte zadať názov kategórie.">
-
