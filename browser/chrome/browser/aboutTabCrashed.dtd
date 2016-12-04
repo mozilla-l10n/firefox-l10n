@@ -20,6 +20,7 @@
 <!ENTITY tabCrashed.requestHelp "¿Nos ayudaría?">
 <!ENTITY tabCrashed.requestHelpMessage "Los informes de fallos nos ayudan a diagnosticar problemas y mejorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Informar esta pestaña">
+<!ENTITY tabCrashed.sendReport2 "Enviar un informe de fallos para la pestaña en vista">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son visibles públicamente)">
 <!ENTITY tabCrashed.includeURL2 "Incluir URL de la página con este informe de fallos">
 <!ENTITY tabCrashed.emailPlaceholder "Ingrese su dirección de correo electrónico aquí">
