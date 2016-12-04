@@ -160,10 +160,10 @@
 
 <!ENTITY counter.button.proposal.label "Złóż propozycję">
 <!ENTITY counter.button.proposal.accesskey "p">
-<!ENTITY counter.button.proposal.tooltip "Złóż dane propozycji do formularza.">
+<!ENTITY counter.button.proposal.tooltip2 "Pola wydarzenia zostaną wypełnione za pomocą wartości z kontrpropozycji, tylko zapisywanie z lub bez dodatkowych zmian spowoduje powiadomienie wszystkich uczestników">
 <!ENTITY counter.button.original.label "Złóż oryginalne dane">
 <!ENTITY counter.button.original.accesskey "r">
-<!ENTITY counter.button.original.tooltip "Złóż oryginalne dane do formularza.">
+<!ENTITY counter.button.original.tooltip2 "Pola zostaną ustawione na wartości z oryginalnego wydarzenia sprzed utworzenia kontrpropozycji">
 
 <!ENTITY event.title.textbox.label                        "Nazwa:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
