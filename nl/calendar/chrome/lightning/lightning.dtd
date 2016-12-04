@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Uitnodiging voor gebeurtenis weigeren">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Alle weigeren">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Uitnodiging voor gebeurtenis voor alle gelegenheden van de gebeurtenis weigeren">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Weigeren">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Het tegenvoorstel weigeren">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Verwijderen">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Verwijderen uit agenda">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik om meer opties te tonen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opnieuw bevestigen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Stuurt een nieuwe bevestiging naar de organisator">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Opnieuw plannen">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "De gebeurtenis opnieuw plannen">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Een kopie opslaan">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Een kopie van de gebeurtenis in de agenda opslaan, onafhankelijk van beantwoording naar de organisator. De lijst van genodigden zal worden gewist.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Voorlopig">
