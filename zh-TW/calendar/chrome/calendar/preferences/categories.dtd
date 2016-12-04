@@ -7,9 +7,6 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "新增類別">
-<!ENTITY pref.categories.addButton.label "新增…">
-<!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "編輯類別">
 <!ENTITY pref.categories.editButton.label "編輯…">
 <!ENTITY pref.categories.editButton.accesskey "E">
@@ -22,4 +19,3 @@
 <!ENTITY pref.categories.overwrite "有相同名稱的類別存在。\n 您要覆寫嗎？">
 <!ENTITY pref.categories.overwrite.title "警告: 重複的名稱">
 <!ENTITY pref.categories.noBlankCategories "您必須輸入類別名稱。">
-
