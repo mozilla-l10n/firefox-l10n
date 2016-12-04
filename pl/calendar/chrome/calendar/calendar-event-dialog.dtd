@@ -372,6 +372,7 @@
 <!ENTITY read.only.tentative.label       "Możliwe, że będę uczestniczyć">
 <!ENTITY read.only.needs.action.label    "Potwierdzę później">
 <!ENTITY read.only.reminder.label        "Przypomnij:">
+<!ENTITY read.only.attachments.label "Załączniki:">
 <!ENTITY read.only.attendees.label       "Uczestnicy">
 <!ENTITY read.only.description.label     "Opis">
 <!ENTITY read.only.link.label            "Powiązany odnośnik">
