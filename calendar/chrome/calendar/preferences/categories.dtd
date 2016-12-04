@@ -7,9 +7,6 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Προσθήκη κατηγορίας">
-<!ENTITY pref.categories.addButton.label "Προσθήκη…">
-<!ENTITY pref.categories.addButton.accesskey "Π">
 <!ENTITY pref.categories.edit.title "Επεξεργασία κατηγορίας">
 <!ENTITY pref.categories.editButton.label "Επεξεργασία…">
 <!ENTITY pref.categories.editButton.accesskey "Ε">
