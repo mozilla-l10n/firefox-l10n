@@ -170,7 +170,7 @@
 <!ENTITY counter.button.proposal.tooltip                  "De voorstelgegevens op het formulier toepassen">
 <!ENTITY counter.button.original.label                    "Oorspronkelijke gegevens toepassen">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "De voorstelgegevens op het formulier toepassen">
+<!ENTITY counter.button.original.tooltip                  "De oorspronkelijke gegevens op het formulier toepassen">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
