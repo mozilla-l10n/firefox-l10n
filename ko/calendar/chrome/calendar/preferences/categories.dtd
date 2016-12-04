@@ -7,9 +7,6 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "분류 추가">
-<!ENTITY pref.categories.addButton.label "추가…">
-<!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "분류 편집">
 <!ENTITY pref.categories.editButton.label "편집…">
 <!ENTITY pref.categories.editButton.accesskey "E">
