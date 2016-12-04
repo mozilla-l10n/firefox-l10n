@@ -30,7 +30,7 @@
 <!ENTITY generic.title "اف">
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
-<!ENTITY malformedURI.title "پتہ درست نہیں ہے">
+<!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> <li>ویب پتے عام طور پر اس طرح لکھے جاتے ہیں <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>تلاش</button> </div> <li>دیکھ لیں کہ آپ سیدھی سلیش ہی ڈال رہے ہوں (یعنی کہ <strong>/</strong>)۔</li> </ul>">
@@ -58,7 +58,7 @@
 <!ENTITY netTimeout.title "کنکشن ٹائم آوٹ ہو گیا ہے">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "پتہ سے سمجھ نہیں آیا">
+<!ENTITY unknownProtocolFound.title "سائٹ کا پتہ سمجھ نہیں آیا">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "پراکسی پیش کار کنکشن واپس کر رہا ہے">
