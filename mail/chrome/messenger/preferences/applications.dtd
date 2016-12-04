@@ -25,8 +25,6 @@
 <!ENTITY attachments.incoming.label   "ចូល​​">
 <!ENTITY attachments.outgoing.label   "ចេញ​">
 
-<!ENTITY addCloudFileAccount.label        "បន្ថែម">
-<!ENTITY addCloudFileAccount.accesskey    "A">
 <!ENTITY addCloudFileAccount.description  "បន្ថែម​សេវាកម្ម​ផ្ទុក​តំណ​ឯកសារ​ថ្មី">
 <!ENTITY removeCloudFileAccount.label     "យកចេញ​">
 <!ENTITY removeCloudFileAccount.accesskey "R">
