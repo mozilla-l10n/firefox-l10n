@@ -103,6 +103,10 @@ Ping
 <!ENTITY aboutTelemetry.scalarsSection "
  Escalares">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  
+  Escalares con clave">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
