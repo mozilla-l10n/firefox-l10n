@@ -3,13 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- WARNING! This file contains UTF-8 encoded characters!
- - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
- - your editor isn't using UTF-8 encoding and may munge up the document!
- -->
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
 
-<!ENTITY pref.categories.add.title "Přidat kategorii">
-<!ENTITY pref.categories.addButton.label "Přidat…">
-<!ENTITY pref.categories.addButton.accesskey "P">
 <!ENTITY pref.categories.edit.title "Upravit kategorii">
 <!ENTITY pref.categories.editButton.label "Upravit…">
 <!ENTITY pref.categories.editButton.accesskey "U">
