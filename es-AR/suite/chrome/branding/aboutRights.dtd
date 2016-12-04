@@ -43,6 +43,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; ofrece servicios opcionales basados en la red (&quot;Servicios&quot;) que están disponibles para su uso con esta versión binaria de &brandShortName; como se describe a continuación.  Algunos de estos servicios (tales como las sugerencias de complementos y los servicios de actualización, de navegaciòn segura o la notificación de la función de ubicación geográfica) están habilitadas por defecto.  Si no desea utilizar ninguno de estos servicios o los siguientes términos le resultan inaceptables, existen instructivos para deshabilitar alguna función o servicio en particular ">
 <!ENTITY rights3.webservices-b "aquí">
 <!ENTITY rights3.webservices-c ". Otras funciones y Servicios pueden ser habilitados o no en las preferencias de la aplicación.">
 
@@ -66,6 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Navegación con ubicación geográfica: ">
 <!ENTITY rights.locationawarebrowsing-b "es siempre opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta función completamente, siga los siguientes pasos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abrir las preferencias de la aplicación">
+<!ENTITY rights.locationawarebrowsing-term2 "Seleccionar el panel principal de &security.label;">
 <!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
 <!-- points 0-6 text for branded builds -->
