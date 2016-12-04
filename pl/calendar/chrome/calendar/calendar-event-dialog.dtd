@@ -144,12 +144,12 @@
 <!ENTITY event.remove.attendee.label "Usuń uczestnika">
 <!ENTITY event.remove.attendee.accesskey "s">
 
-<!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
+<!ENTITY event.toolbar.saveandclose.label "Zapisz i zamknij">
 <!ENTITY  event.toolbar.delete.label                      "Usuń">
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
 
-<!ENTITY event.toolbar.save.tooltip "Zapisz i zamknij">
+<!ENTITY event.toolbar.saveandclose.tooltip "Zapisz i zamknij">
 <!ENTITY event.toolbar.delete.tooltip "Usuń">
 <!ENTITY event.toolbar.attendees.tooltip "Zaproś uczestników">
 <!ENTITY event.toolbar.attachments.tooltip "Dodaj załączniki">
