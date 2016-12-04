@@ -47,6 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Mozilla Bug Tracker
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
@@ -54,6 +55,7 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Nightly Tester Tools
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
