@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Izstrādātāji, kas vēlas apstiprināt savus papildinājumus var turpināt izlasot mūsu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "pamācību">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Kaut kas pietrūkst? Dažus spraudņus &brandShortName; vairs neatbalsta.">
+<!ENTITY pluginDeprecation.learnMore "Uzzināt vairāk.">
