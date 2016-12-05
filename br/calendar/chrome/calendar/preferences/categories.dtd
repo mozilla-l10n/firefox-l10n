@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Ouzhpennañ ur rummad">
-<!ENTITY pref.categories.addButton.label "Ouzhpennañ...">
-<!ENTITY pref.categories.addButton.accesskey "O">
 <!ENTITY pref.categories.edit.title "Embann ar rummad">
 <!ENTITY pref.categories.editButton.label "Embann...">
 <!ENTITY pref.categories.editButton.accesskey "b">
