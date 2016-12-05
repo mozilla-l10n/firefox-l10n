@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Barwy za bźezbariernosć optiměrowaś" >
 <!ENTITY pref.systemcolors.accesskey "B">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Tšojenja a nadawki" >
+<!ENTITY pref.editInTab.label "Tšojenja a nadawki w rejtarku město w dialogowem woknje wobźěłaś." >
+<!ENTITY pref.editInTab.accesskey "o">

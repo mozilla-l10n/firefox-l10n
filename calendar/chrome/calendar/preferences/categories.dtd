@@ -7,6 +7,9 @@
   -->
 
 
+<!ENTITY pref.categories.new.title "Nowa kategorija">
+<!ENTITY pref.categories.newButton.label "Nowy…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Kategoriju wobźěłaś">
 <!ENTITY pref.categories.editButton.label "Wobźěłaś…">
 <!ENTITY pref.categories.editButton.accesskey "b">
