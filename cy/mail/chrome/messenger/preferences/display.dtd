@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Mae modd defnyddio tagiau i gategoreiddio a blaenoriaethu eich negeseuon.">
-<!ENTITY addTagButton.label        "Ychwanegu">
-<!ENTITY addTagButton.accesskey    "Y">
-<!ENTITY editTagButton.label       "Golygu">
-<!ENTITY editTagButton.accesskey   "G">
+
+
+
+
 <!ENTITY removeTagButton.label     "Dileu">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts and Colors -->
