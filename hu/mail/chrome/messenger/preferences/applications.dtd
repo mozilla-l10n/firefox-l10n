@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Bejövő">
 <!ENTITY attachments.outgoing.label   "Kimenő">
 
-<!ENTITY addCloudFileAccount.label        "Hozzáadás">
-<!ENTITY addCloudFileAccount.accesskey    "H">
+
 <!ENTITY addCloudFileAccount.description  "Adjon hozzá új óriásfájl-küldési tárolószolgáltatást">
 <!ENTITY removeCloudFileAccount.label     "Eltávolítás">
 <!ENTITY removeCloudFileAccount.accesskey "E">

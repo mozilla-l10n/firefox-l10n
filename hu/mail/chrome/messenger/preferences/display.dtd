@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "A címkék az üzenetek kategorizálására és priorálására használhatók.">
-<!ENTITY addTagButton.label        "Hozzáadás">
-<!ENTITY addTagButton.accesskey    "H">
-<!ENTITY editTagButton.label       "Szerkesztés">
-<!ENTITY editTagButton.accesskey   "S">
+
+
+
+
 <!ENTITY removeTagButton.label     "Törlés">
 <!ENTITY removeTagButton.accesskey "T">
 <!-- Fonts and Colors -->
