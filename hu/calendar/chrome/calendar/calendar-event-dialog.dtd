@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ezzel minden résztvevőnek külön meghívó levelet küldhet. Minden meghívó csak a címzett résztvevőt tartalmazza, így a többi résztvevő személyazonossága nem kerül közzétételre.">
 <!ENTITY event.attendees.disallowcounter.label       "Ellenjavaslat tiltása">
 <!ENTITY event.attendees.disallowcounter.accesskey   "t">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Jelzi, hogy nem fogad el ellenjavaslatokat">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "N">
 <!ENTITY  event.menu.item.close.label                     "Bezárás">
 <!ENTITY  event.menu.item.close.accesskey                 "B">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Mentés">
 <!ENTITY  event.menu.item.save.accesskey                  "M">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Mentés és bezárás">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "s">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Törlés…">
 <!ENTITY  event.menu.item.delete.accesskey                "T">
 <!ENTITY  event.menu.item.page.setup.label                "Oldalbeállítás">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "v">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Mentés és bezárás">
 <!ENTITY  event.toolbar.delete.label                      "Törlés">
 <!ENTITY  event.toolbar.attendees.label                   "Résztvevők meghívása">
 <!ENTITY  event.toolbar.privacy.label                     "Adatvédelem">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Mentés és bezárás">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Törlés">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Résztvevők meghívása">
 <!ENTITY  event.toolbar.attachments.tooltip               "Mellékletek hozzáadása">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Állapot módosítása">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Szabad/elfoglalt idő módosítása">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Javaslat alkalmazása">
 <!ENTITY counter.button.proposal.accesskey                "J">
-<!ENTITY counter.button.proposal.tooltip                  "A javasolt dátum alkalmazása az űrlapra.">
+
 <!ENTITY counter.button.original.label                    "Eredeti adatok alkalmazása">
 <!ENTITY counter.button.original.accesskey                "E">
-<!ENTITY counter.button.original.tooltip                  "Az eredeti adatok alkalmazása az űrlapra.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Cím:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Esetleg részt veszek">
 <!ENTITY read.only.needs.action.label    "Később döntök">
 <!ENTITY read.only.reminder.label        "Emlékeztető:">
+
 <!ENTITY read.only.attendees.label       "Résztvevők">
 <!ENTITY read.only.description.label     "Leírás">
 <!ENTITY read.only.link.label            "Kapcsolódó hivatkozás">
