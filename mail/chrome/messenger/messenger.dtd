@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Sealladh dùmhail">
 <!ENTITY compactVersion.accesskey "S">
-<!ENTITY folderPaneBar.label "Bàr-inneal leòsan nam pasgan">
+
+
 <!ENTITY folderModeSelector.label "Seallaidhean phasgan">
 <!-- Sort Menu -->
 
