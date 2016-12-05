@@ -68,10 +68,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Tutup">
 <!ENTITY  event.menu.item.close.accesskey                 "T">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Simpan">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Simpan dan Tutup">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "m">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Hapus…">
 <!ENTITY  event.menu.item.delete.accesskey                "H">
 <!ENTITY  event.menu.item.page.setup.label                "Tata Laman">
@@ -147,12 +162,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "a">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
 <!ENTITY  event.toolbar.delete.label                      "Hapus">
 <!ENTITY  event.toolbar.attendees.label                   "Undang Peserta">
 <!ENTITY  event.toolbar.privacy.label                     "Privasi">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Simpan dan Tutup">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Hapus">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Undang Peserta">
 <!ENTITY  event.toolbar.attachments.tooltip               "Tambahkan Lampiran">
@@ -161,6 +175,12 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Ubah Status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Ubah waktu Bebas/Sibuk ">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 
 
@@ -384,6 +404,7 @@
 <!ENTITY read.only.tentative.label       "Mungkin saya hadir">
 <!ENTITY read.only.needs.action.label    "Akan saya konfirmasi nanti">
 <!ENTITY read.only.reminder.label        "Pengingat:">
+
 <!ENTITY read.only.attendees.label       "Undangan">
 <!ENTITY read.only.description.label     "Keterangan">
 <!ENTITY read.only.link.label            "Tautan terkait">
