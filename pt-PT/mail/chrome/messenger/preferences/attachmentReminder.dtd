@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Lembrete de palavras-chave de anexos">
 <!ENTITY attachKeywordText.label          "O &brandShortName; irá avisá-lo sobre anexos esquecidos se estiver para enviar uma mensagem eletrónica que possua uma destas palavras-chave.">
-<!ENTITY addKeywordButton.label           "Adicionar">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Editar">
-<!ENTITY editKeywordButton.accesskey      "E">
+
+
+
+
 <!ENTITY removeKeywordButton.label        "Apagar">
 <!ENTITY removeKeywordButton.accesskey    "A">
