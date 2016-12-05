@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Închide">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Salvează">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Salvează și închide">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Șterge…">
 <!ENTITY  event.menu.item.delete.accesskey                "g">
 <!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
@@ -150,12 +165,11 @@
 
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Salvează și închide">
 <!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
 <!ENTITY  event.toolbar.privacy.label                     "Intimitate">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Salvează și închide">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adaugă atașamente">
@@ -164,6 +178,12 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Schimbă starea">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Schimbă timp Liber/Ocupat">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 
 
@@ -387,6 +407,7 @@
 <!ENTITY read.only.tentative.label       "S-ar putea să particip">
 <!ENTITY read.only.needs.action.label    "Voi confirma mai târziu">
 <!ENTITY read.only.reminder.label        "Memento:">
+
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
 <!ENTITY read.only.link.label            "Linkul către asocieri">
