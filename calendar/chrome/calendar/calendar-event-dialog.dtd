@@ -70,10 +70,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Zavřít">
 <!ENTITY  event.menu.item.close.accesskey                 "Z">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Uložit">
 <!ENTITY  event.menu.item.save.accesskey                  "l">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Uložit a zavřít">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "U">
+
 <!ENTITY  event.menu.item.delete.label                    "Smazat…">
 <!ENTITY  event.menu.item.delete.accesskey                "m">
 <!ENTITY  event.menu.item.page.setup.label                "Vzhled stránky…">
@@ -150,12 +163,10 @@
 <!ENTITY event.remove.attendee.accesskey                  "O">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Uložit a zavřít">
 <!ENTITY  event.toolbar.delete.label                      "Smazat">
 <!ENTITY  event.toolbar.attendees.label                   "Pozvat účastníky">
 <!ENTITY  event.toolbar.privacy.label                     "Soukromí">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Uloží a zavře">
 <!ENTITY  event.toolbar.delete.tooltip                    "Smazat">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozve účastníky">
 <!ENTITY  event.toolbar.attachments.tooltip               "Přidá přílohy">
@@ -165,12 +176,16 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Změní nastavení doby volna/práce">
 
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Použít protinávrh">
 <!ENTITY counter.button.proposal.accesskey                "P">
-<!ENTITY counter.button.proposal.tooltip                  "Použije data z protinávrhu ve formuláři.">
 <!ENTITY counter.button.original.label                    "Použít původní data">
 <!ENTITY counter.button.original.accesskey                "u">
-<!ENTITY counter.button.original.tooltip                  "Použije původní data ve formuláři.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Název:" >
