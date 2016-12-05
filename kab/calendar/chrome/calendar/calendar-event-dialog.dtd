@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Aɣewwaṛ-agi ad yazen yiwet n tinnubga s yimayl i yal imttekki. Yal tinnubga ad tegber kan yiwen n uɣerwaḍ akken ulac win ara yeẓren win ara yelin.">
 <!ENTITY event.attendees.disallowcounter.label       "Ur sirig ara amesmiḍan">
 <!ENTITY event.attendees.disallowcounter.accesskey   "U">
-<!ENTITY event.attendees.disallowcounter.tooltip     "ayagi ymmal-d ma yella ur tqebbleḍ ara asumer n umesḍan">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "n">
 <!ENTITY  event.menu.item.close.label                     "Mdel">
 <!ENTITY  event.menu.item.close.accesskey                 "M">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Sekles">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Sekles u Mdel">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "d">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Kkes…">
 <!ENTITY  event.menu.item.delete.accesskey                "K">
 <!ENTITY  event.menu.item.page.setup.label                "Asbadu n usebter">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "i">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Sekles u M&amp;del">
 <!ENTITY  event.toolbar.delete.label                      "Kkes">
 <!ENTITY  event.toolbar.attendees.label                   "Ɛṛeḍ-d imttekki">
 <!ENTITY  event.toolbar.privacy.label                     "Tabaḍnit">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Sekles u M&amp;del">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Kkes">
 <!ENTITY  event.toolbar.attendees.tooltip                 "&amp;Ɛṛeḍ-d imttekkiyen">
 <!ENTITY  event.toolbar.attachments.tooltip               "Rnu Tasawit">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Snifel addad">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Snifel akud ilelli/yettwaṭṭef">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Snes asumer">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip                  "Snes isefka n usumer di tferkit.">
+
 <!ENTITY counter.button.original.label                    "Snes isefka ineẓliyen">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Snes isefka n usumer di tferkit.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Azwel:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Yezmer ad iliɣ">
 <!ENTITY read.only.needs.action.label    "Ad sentmeɣ ticki">
 <!ENTITY read.only.reminder.label        "Asmekti:">
+
 <!ENTITY read.only.attendees.label       "Imttekkiyen">
 <!ENTITY read.only.description.label     "Aglam">
 <!ENTITY read.only.link.label            "Aseɣwen i d-yettuɣalen">
