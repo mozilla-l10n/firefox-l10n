@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Timeẓri yessden">
 <!ENTITY compactVersion.accesskey "T">
-
-
+<!ENTITY folderPaneBar.label "Afeggag n ugalis n ukaram">
+<!ENTITY folderPaneBar.accesskey "r">
 <!ENTITY folderModeSelector.label "Timeẓriyin n ukaram">
 <!-- Sort Menu -->
 
