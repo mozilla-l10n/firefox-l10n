@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Entrada">
 <!ENTITY attachments.outgoing.label   "Sortida">
 
-<!ENTITY addCloudFileAccount.label        "Afegeix">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+
 <!ENTITY addCloudFileAccount.description  "Afegeix un servei d'emmagatzematge Filelink nou">
 <!ENTITY removeCloudFileAccount.label     "Suprimeix">
 <!ENTITY removeCloudFileAccount.accesskey "r">

@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Paraules clau del recordatori d'adjunció">
 <!ENTITY attachKeywordText.label          "El &brandShortName; us avisarà que us falta adjuntar algun fitxer quan estigueu a punt d'enviar un correu que contingui una de les paraules següents.">
-<!ENTITY addKeywordButton.label           "Afegeix">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Edita">
-<!ENTITY editKeywordButton.accesskey      "E">
+
+
+
+
 <!ENTITY removeKeywordButton.label        "Suprimeix">
 <!ENTITY removeKeywordButton.accesskey    "S">
