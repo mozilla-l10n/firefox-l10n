@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Cuir ris roinn">
-<!ENTITY pref.categories.addButton.label "Cuir ris…">
-<!ENTITY pref.categories.addButton.accesskey "C">
 <!ENTITY pref.categories.edit.title "Deasaich roinn">
 <!ENTITY pref.categories.editButton.label "Deasaich…">
 <!ENTITY pref.categories.editButton.accesskey "e">
