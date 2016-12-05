@@ -40,3 +40,5 @@
 <!ENTITY pref.accessibility.label "Общедоступность" >
 <!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
 <!ENTITY pref.systemcolors.accesskey "п">
+
+<!ENTITY pref.eventsandtasks.label "События и задачи" >
