@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "A">
 <!ENTITY  event.menu.item.close.label                     "Lukk">
 <!ENTITY  event.menu.item.close.accesskey                 "L">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Lagre">
 <!ENTITY  event.menu.item.save.accesskey                  "a">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Lagre og lukk">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Slett …">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Utskriftsformat">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Lagre og lukk">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakere">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Lagre og lukk">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Slett">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltakere">
 <!ENTITY  event.toolbar.attachments.tooltip               "Nytt vedlegg">
@@ -164,6 +178,12 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Endre status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Endre ledig/opptatt-tid">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 
 
@@ -387,6 +407,7 @@
 <!ENTITY read.only.tentative.label       "Jeg deltar kanskje">
 <!ENTITY read.only.needs.action.label    "Jeg beslutter senere">
 <!ENTITY read.only.reminder.label        "Påminnelse:">
+
 <!ENTITY read.only.attendees.label       "Deltakere">
 <!ENTITY read.only.description.label     "Beskrivelse">
 <!ENTITY read.only.link.label            "Relatert lenke">
