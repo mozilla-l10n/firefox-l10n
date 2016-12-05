@@ -13,3 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "יש להיות מחוברים לרשת האינטרנט כדי להיכנס לחשבון.">
 <!ENTITY aboutAccounts.noConnection.retry "לנסות שוב">
 <!ENTITY aboutAccounts.badConfig.title "תצורה שגויה">
+<!ENTITY aboutAccounts.badConfig.description "לא ניתן לקבוע את תצורת החשבון שלך. נא לנסות שוב במועד מאוחר יותר.">
