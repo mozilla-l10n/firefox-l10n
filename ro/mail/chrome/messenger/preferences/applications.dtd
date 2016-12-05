@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Primire">
 <!ENTITY attachments.outgoing.label   "Expediere">
 
-<!ENTITY addCloudFileAccount.label        "Adăugare">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+
 <!ENTITY addCloudFileAccount.description  "Adaugă un serviciu nou de stocare Filelink">
 <!ENTITY removeCloudFileAccount.label     "Ștergere">
 <!ENTITY removeCloudFileAccount.accesskey "r">
