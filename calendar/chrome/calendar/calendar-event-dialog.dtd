@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
 <!ENTITY event.attendees.disallowcounter.label       "Gwahardd cyfrif">
 <!ENTITY event.attendees.disallowcounter.accesskey   "G">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Dangos nad ydych yn derbyn cynigion croes">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "y">
 <!ENTITY  event.menu.item.close.label                     "Cau">
 <!ENTITY  event.menu.item.close.accesskey                 "C">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Cadw">
 <!ENTITY  event.menu.item.save.accesskey                  "C">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Cadw a Chau">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "a">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Dileu…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.item.page.setup.label                "Gosodiad Tudalen">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "T">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Cadw a Chau">
 <!ENTITY  event.toolbar.delete.label                      "Dileu">
 <!ENTITY  event.toolbar.attendees.label                   "Gwahodd Mynychwyr">
 <!ENTITY  event.toolbar.privacy.label                     "Preifatrwydd">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Cadw a Chau">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Dileu">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Gwahodd Mynychwyr">
 <!ENTITY  event.toolbar.attachments.tooltip               "Ychwanegauu Atodiad">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Newid Statws">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Newid amser Rhydd/Prysur">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Gosod y cynnig">
 <!ENTITY counter.button.proposal.accesskey                "y">
-<!ENTITY counter.button.proposal.tooltip                  "Gosod y data cynnig yn y ffurflen.">
+
 <!ENTITY counter.button.original.label                    "Gosod y data gwreiddiol">
 <!ENTITY counter.button.original.accesskey                "g">
-<!ENTITY counter.button.original.tooltip                  "Gosod y data gwreiddiol yn y ffurflen.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Efallai y byddaf yn mynychu">
 <!ENTITY read.only.needs.action.label    "Byddaf yn cadarnhau yn ddiweddarach">
 <!ENTITY read.only.reminder.label        "Atgoffwr:">
+
 <!ENTITY read.only.attendees.label       "Mynychwyr">
 <!ENTITY read.only.description.label     "Disgrifiad">
 <!ENTITY read.only.link.label            "Dolenni Perthnasol">
