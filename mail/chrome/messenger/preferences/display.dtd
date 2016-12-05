@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Tags can be used to categorize and prioritize your messages.">
-<!ENTITY addTagButton.label        "افزودن">
-<!ENTITY addTagButton.accesskey    "ا">
-<!ENTITY editTagButton.label       "ویرایش">
-<!ENTITY editTagButton.accesskey   "و">
+
+
+
+
 <!ENTITY removeTagButton.label     "حذف">
 <!ENTITY removeTagButton.accesskey "ح">
 <!-- Fonts and Colors -->
