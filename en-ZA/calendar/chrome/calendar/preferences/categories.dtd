@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Add Category">
-<!ENTITY pref.categories.addButton.label "Add…">
-<!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "Edit Category">
 <!ENTITY pref.categories.editButton.label "Edit…">
 <!ENTITY pref.categories.editButton.accesskey "E">
