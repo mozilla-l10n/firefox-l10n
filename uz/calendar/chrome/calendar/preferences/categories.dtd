@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Turkum qo‘shish">
-<!ENTITY pref.categories.addButton.label "Qo‘shish…">
-<!ENTITY pref.categories.addButton.accesskey "Q">
 <!ENTITY pref.categories.edit.title "Turkumni tahrirlash">
 <!ENTITY pref.categories.editButton.label "Tahrirlash…">
 <!ENTITY pref.categories.editButton.accesskey "T">
