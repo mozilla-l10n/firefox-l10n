@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Inn">
 <!ENTITY attachments.outgoing.label   "Ut">
 
-<!ENTITY addCloudFileAccount.label        "Legg til">
-<!ENTITY addCloudFileAccount.accesskey    "L">
+
 <!ENTITY addCloudFileAccount.description  "Legg til ei Filelink-lagringsteneste">
 <!ENTITY removeCloudFileAccount.label     "Fjern">
 <!ENTITY removeCloudFileAccount.accesskey "F">

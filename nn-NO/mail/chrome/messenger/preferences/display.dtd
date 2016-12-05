@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.">
-<!ENTITY addTagButton.label        "Legg til">
-<!ENTITY addTagButton.accesskey    "L">
-<!ENTITY editTagButton.label       "Rediger">
-<!ENTITY editTagButton.accesskey   "R">
+
+
+
+
 <!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->

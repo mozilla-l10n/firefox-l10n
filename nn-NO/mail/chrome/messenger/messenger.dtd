@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktvising">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Mappevisingsinnstillingar">
+
+
 <!ENTITY folderModeSelector.label "Mappevisingar">
 <!-- Sort Menu -->
 
