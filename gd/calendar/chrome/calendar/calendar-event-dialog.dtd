@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
 <!ENTITY event.attendees.disallowcounter.label       "Na ceadaich frith-mholaidhean">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Tha seo a’ comharradh nach gabh thu ri frith-mholaidhean">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Dùin">
 <!ENTITY  event.menu.item.close.accesskey                 "D">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Sàbhail">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Sàbhail is dùin e">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Sguab às…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Roghainnean na duilleige">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Sàbhail is dùin e">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Sguab às">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.attachments.tooltip               "Cuir ceanglachan ris">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Atharraich an staid">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Atharraich na h-amannan saora/tranga">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Cuir am moladh an sàs">
 <!ENTITY counter.button.proposal.accesskey                "m">
-<!ENTITY counter.button.proposal.tooltip                  "Cuir an dàta a tha ’ga mholadh an sàs san fhoirm.">
+
 <!ENTITY counter.button.original.label                    "Cuir an dàta tùsail an sàs">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Cuir an dàta tùsail an sàs san fhoirm.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Faodaidh gum bi mi ann">
 <!ENTITY read.only.needs.action.label    "Dearbhaichidh mi uaireigin eile">
 <!ENTITY read.only.reminder.label        "Cuimhnich:">
+
 <!ENTITY read.only.attendees.label       "Freastalaichean">
 <!ENTITY read.only.description.label     "Tuairisgeul">
 <!ENTITY read.only.link.label            "Ceangal co-cheangailte">
