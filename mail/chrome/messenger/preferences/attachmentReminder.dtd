@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Hesła za přiwěškowe napominje">
 <!ENTITY attachKeywordText.label          "&brandShortName; budźe was wo falowacych přiwěškach warnować, jeli chceće e-mejlku pósłać, kotraž jedne z tutych hesłow wobsahuje.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Nowy…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Wobdźěłać…">
+<!ENTITY editKeywordButton1.accesskey     "b">
 <!ENTITY removeKeywordButton.label        "Zhašeć">
 <!ENTITY removeKeywordButton.accesskey    "h">
