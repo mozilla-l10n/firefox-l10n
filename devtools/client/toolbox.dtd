@@ -54,6 +54,11 @@
 <!ENTITY options.stylesheetSourceMaps.tooltip "Visualizza sorgenti originali (ad es. file Sass) in Editor stili e Analisi pagina">
 <!ENTITY options.stylesheetAutocompletion.label "Completamento automatico CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Completa automaticamente durante la scrittura nell’Editor stili le proprietà CSS, i valori e i selettori">
+<!ENTITY options.screenshot.label "Opzioni per la cattura schermate">
+<!ENTITY options.screenshot.clipboard.label "Salva negli appunti">
+<!ENTITY options.screenshot.clipboard.tooltip "Salva la schermata direttamente negli appunti">
+<!ENTITY options.screenshot.audio.label "Riproduci il suono dell’otturatore">
+<!ENTITY options.screenshot.audio.tooltip "Riproduci il suono dell’otturatore di una fotocamera quando si cattura una schermata">
 <!ENTITY options.commonPrefs.label "Preferenze comuni">
 <!ENTITY options.enablePersistentLogs.label "Attiva registri permanenti">
 <!ENTITY options.enablePersistentLogs.tooltip "Attivando questa opzione la Console web e il Monitor di rete non verranno azzerati ogni volta che si naviga in una nuova pagina">
