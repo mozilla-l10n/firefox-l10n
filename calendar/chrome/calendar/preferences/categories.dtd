@@ -7,6 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.categories.new.title "Nova kategorija">
+<!ENTITY pref.categories.newButton.label "Nova …">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Uredi kategorijo">
 <!ENTITY pref.categories.editButton.label "Uredi …">
 <!ENTITY pref.categories.editButton.accesskey "U">
