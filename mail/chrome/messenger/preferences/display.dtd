@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Etiketler iletilerinizi sınıflandırmak ve önemlerini belirlemek için kullanılabilir.">
-<!ENTITY addTagButton.label        "Ekle">
-<!ENTITY addTagButton.accesskey    "E">
-<!ENTITY editTagButton.label       "Düzenle">
-<!ENTITY editTagButton.accesskey   "D">
+
+
+
+
 <!ENTITY removeTagButton.label     "Sil">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
