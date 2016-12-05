@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "يمكن استخدام الوسوم لتصنيف وتفضيل رسائلك.">
-<!ENTITY addTagButton.label        "أضِف">
-<!ENTITY addTagButton.accesskey    "ض">
-<!ENTITY editTagButton.label       "حرّر">
-<!ENTITY editTagButton.accesskey   "ح">
+
+
+
+
 <!ENTITY removeTagButton.label     "احذف">
 <!ENTITY removeTagButton.accesskey "ح">
 <!-- Fonts and Colors -->

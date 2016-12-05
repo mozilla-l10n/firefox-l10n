@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "ح">
 <!ENTITY compactVersion.label "منظور متضام">
 <!ENTITY compactVersion.accesskey "م">
-<!ENTITY folderPaneBar.label "شريط أدوات لوحة المجلد">
+
+
 <!ENTITY folderModeSelector.label "منظورات المجلد">
 <!-- Sort Menu -->
 
