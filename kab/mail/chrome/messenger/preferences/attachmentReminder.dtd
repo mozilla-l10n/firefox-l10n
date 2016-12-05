@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Awalen n tsarutt n usmekti n imeddayen">
 <!ENTITY attachKeywordText.label          "&brandShortName; ad k-id-yelɣu ɣef imeddayen yettwattun ticki t-ttedduḍ ad tazneḍ imayl igebren yiwen seg wawalen-agi n tsarutt.">
-<!ENTITY addKeywordButton.label           "Rnu">
-<!ENTITY addKeywordButton.accesskey       "R">
-<!ENTITY editKeywordButton.label          "Ẓreg">
-<!ENTITY editKeywordButton.accesskey      "Ẓ">
+
+
+
+
 <!ENTITY removeKeywordButton.label        "Kkes">
 <!ENTITY removeKeywordButton.accesskey    "K">
