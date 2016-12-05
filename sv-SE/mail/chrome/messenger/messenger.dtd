@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Kompakt vy">
 <!ENTITY compactVersion.accesskey "p">
 <!ENTITY folderPaneBar.label "Verktygsfältet mappfönster">
+<!ENTITY folderPaneBar.accesskey "m">
 <!ENTITY folderModeSelector.label "Mappvyer">
 
 <!-- Sort Menu -->

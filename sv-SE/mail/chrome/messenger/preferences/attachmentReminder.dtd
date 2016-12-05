@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Nyckelord för bilagepåminnelse">
 <!ENTITY attachKeywordText.label          "&brandShortName; varnar om bilagor saknas när du försöker skicka ett meddelande som innehåller något av dessa nyckelord.">
-<!ENTITY addKeywordButton.label           "Lägg till">
-<!ENTITY addKeywordButton.accesskey       "L">
-<!ENTITY editKeywordButton.label          "Redigera">
-<!ENTITY editKeywordButton.accesskey      "R">
+<!ENTITY newKeywordButton.label           "Ny…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Redigera…">
+<!ENTITY editKeywordButton1.accesskey     "R">
 <!ENTITY removeKeywordButton.label        "Ta bort">
 <!ENTITY removeKeywordButton.accesskey    "T">
