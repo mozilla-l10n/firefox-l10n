@@ -70,10 +70,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Fechar">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Salvar">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Salvar e fechar">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+
 <!ENTITY  event.menu.item.delete.label                    "Excluir…">
 <!ENTITY  event.menu.item.delete.accesskey                "E">
 <!ENTITY  event.menu.item.page.setup.label                "Configurações de página">
@@ -150,12 +163,10 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Excluir">
 <!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.tooltip                    "Excluir">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
@@ -165,12 +176,16 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar tempo livre/ocupado">
 
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Aplicar a sugestão">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip                  "Aplicar a sugestão ao formulário.">
 <!ENTITY counter.button.original.label                    "Aplicar dados originais">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Aplicar a proposta.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
