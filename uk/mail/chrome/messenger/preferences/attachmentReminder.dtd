@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Ключові слова Вкладень">
 <!ENTITY attachKeywordText.label          "&brandShortName; буде попереджати вас про відсутні вкладення, якщо у листі що ви збираєтесь відіслати є одне з цих ключових слів.">
-<!ENTITY addKeywordButton.label           "Додати">
-<!ENTITY addKeywordButton.accesskey       "Д">
-<!ENTITY editKeywordButton.label          "Редагувати">
-<!ENTITY editKeywordButton.accesskey      "Р">
+<!ENTITY newKeywordButton.label           "Нова…">
+<!ENTITY newKeywordButton.accesskey       "Н">
+<!ENTITY editKeywordButton1.label         "Змінити…">
+<!ENTITY editKeywordButton1.accesskey     "З">
 <!ENTITY removeKeywordButton.label        "Видалити">
 <!ENTITY removeKeywordButton.accesskey    "В">

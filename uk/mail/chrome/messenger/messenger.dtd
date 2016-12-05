@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Компактний вигляд">
 <!ENTITY compactVersion.accesskey "м">
 <!ENTITY folderPaneBar.label "Панель інструментів теки">
+<!ENTITY folderPaneBar.accesskey "П">
 <!ENTITY folderModeSelector.label "Подання тек">
 
 <!-- Sort Menu -->
