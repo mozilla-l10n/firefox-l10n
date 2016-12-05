@@ -22,7 +22,7 @@
 <!ENTITY lightning.toolbar.calendar.label     "Календар">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Перемкнутись на вкладку календаря">
 <!ENTITY lightning.toolbar.calendar.accesskey "к">
-<!ENTITY lightning.toolbar.task.label         "Задачі">
+<!ENTITY lightning.toolbar.task.label         "Завдання">
 <!ENTITY lightning.toolbar.task.tooltip       "Перемкнутись на вкладку завдань">
 <!ENTITY lightning.toolbar.task.accesskey     "з">
 
