@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Հավաք տեսք">
 <!ENTITY compactVersion.accesskey "Հ">
-<!ENTITY folderPaneBar.label "Թղթապանակի գործիքագոտի">
+
+
 <!ENTITY folderModeSelector.label "Թղթապանակի դիտումներ">
 <!-- Sort Menu -->
 

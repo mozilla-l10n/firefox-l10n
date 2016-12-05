@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Կցորդի հիշեցման հիմնաբառեր">
 <!ENTITY attachKeywordText.label          "&brandShortName;-ը կհայտնի Ձեզ կցորդների բացակայության մասին։">
-<!ENTITY addKeywordButton.label           "Ավելացնել">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Խմբագրել">
-<!ENTITY editKeywordButton.accesskey      "E">
+
+
+
+
 <!ENTITY removeKeywordButton.label        "Ջնջել">
 <!ENTITY removeKeywordButton.accesskey    "D">

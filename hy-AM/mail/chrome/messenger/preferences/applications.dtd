@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Մուտքային">
 <!ENTITY attachments.outgoing.label   "Ելքային">
 
-<!ENTITY addCloudFileAccount.label        "Ավելացնել">
-<!ENTITY addCloudFileAccount.accesskey    "Ա">
+
 <!ENTITY addCloudFileAccount.description  "Ավելացնել նոր Ֆայլի հղման կրիչ սարք">
 <!ENTITY removeCloudFileAccount.label     "Ջնջել">
 <!ENTITY removeCloudFileAccount.accesskey "Ջ">
