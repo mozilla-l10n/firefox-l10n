@@ -70,10 +70,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Stäng">
 <!ENTITY  event.menu.item.close.accesskey                 "S">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Spara">
 <!ENTITY  event.menu.item.save.accesskey                  "p">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Spara och stäng">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "a">
+
 <!ENTITY  event.menu.item.delete.label                    "Radera…">
 <!ENTITY  event.menu.item.delete.accesskey                "R">
 <!ENTITY  event.menu.item.page.setup.label                "Sidlayout">
@@ -150,12 +163,10 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Spara och stäng">
 <!ENTITY  event.toolbar.delete.label                      "Radera">
 <!ENTITY  event.toolbar.attendees.label                   "Bjud in deltagare">
 <!ENTITY  event.toolbar.privacy.label                     "Sekretess">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Spara och stäng">
 <!ENTITY  event.toolbar.delete.tooltip                    "Radera">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Bjud in deltagare">
 <!ENTITY  event.toolbar.attachments.tooltip               "Lägg till bilagor">
@@ -165,12 +176,16 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Ändra ledig/upptagen tid">
 
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Lägg till förslag">
 <!ENTITY counter.button.proposal.accesskey                "f">
-<!ENTITY counter.button.proposal.tooltip                  "Lägg till förslagsdata till formuläret.">
 <!ENTITY counter.button.original.label                    "Lägg till originaldata">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Lägg till originaldata till formuläret.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
