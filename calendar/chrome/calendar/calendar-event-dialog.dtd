@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
 <!ENTITY event.attendees.disallowcounter.label       "امنع العداد">
 <!ENTITY event.attendees.disallowcounter.accesskey   "ن">
-<!ENTITY event.attendees.disallowcounter.tooltip     "يوضح أنك لن تقبل طلبات العداد.">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "ت">
 <!ENTITY  event.menu.item.close.label                     "أغلق">
 <!ENTITY  event.menu.item.close.accesskey                 "غ">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "احفظ">
 <!ENTITY  event.menu.item.save.accesskey                  "ح">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "احفظ و أغلق">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "غ">
+
+
 <!ENTITY  event.menu.item.delete.label                    "احذف…">
 <!ENTITY  event.menu.item.delete.accesskey                "ح">
 <!ENTITY  event.menu.item.page.setup.label                "إعداد الصفحة">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "ل">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "احفظ و أغلق">
 <!ENTITY  event.toolbar.delete.label                      "احذف">
 <!ENTITY  event.toolbar.attendees.label                   "ادع الحضور">
 <!ENTITY  event.toolbar.privacy.label                     "الخصوصية">
 
-<!ENTITY  event.toolbar.save.tooltip                      "احفظ و أغلق">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "احذف">
 <!ENTITY  event.toolbar.attendees.tooltip                 "ادع الحضور">
 <!ENTITY  event.toolbar.attachments.tooltip               "أضف مُرفقات">
@@ -164,6 +178,12 @@
 <!ENTITY  event.toolbar.status.tooltip                    "غيّر الحالة">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "غيّر وقت متفرغ\مشغول ">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "طبق الطلب">
 <!ENTITY counter.button.proposal.accesskey                "ط">
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "قد أحضر">
 <!ENTITY read.only.needs.action.label    "سأؤكد ذلك لاحقا">
 <!ENTITY read.only.reminder.label        "التذكير:">
+
 <!ENTITY read.only.attendees.label       "الحضور">
 <!ENTITY read.only.description.label     "الوصف">
 <!ENTITY read.only.link.label            "رابط ذا صلة">
