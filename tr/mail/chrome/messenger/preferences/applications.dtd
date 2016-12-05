@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Gelen">
 <!ENTITY attachments.outgoing.label   "Giden">
 
-<!ENTITY addCloudFileAccount.label        "Ekle">
-<!ENTITY addCloudFileAccount.accesskey    "E">
+
 <!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama hizmeti ekle">
 <!ENTITY removeCloudFileAccount.label     "Kaldır">
 <!ENTITY removeCloudFileAccount.accesskey "K">
