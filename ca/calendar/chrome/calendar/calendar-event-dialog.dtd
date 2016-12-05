@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Tanca">
 <!ENTITY  event.menu.item.close.accesskey                 "T">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Desa">
 <!ENTITY  event.menu.item.save.accesskey                  "D">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Desa i tanca">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "e">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Suprimeix…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Configuració de la pàgina">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "E">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Desa i tanca">
 <!ENTITY  event.toolbar.delete.label                      "Suprimeix">
 <!ENTITY  event.toolbar.attendees.label                   "Invita assistents">
 <!ENTITY  event.toolbar.privacy.label                     "Privadesa">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Desa i tanca">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Suprimeix">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invita assistents">
 <!ENTITY  event.toolbar.attachments.tooltip               "Afegeix adjuncions">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Canvia l'estat">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Canvia la disponibilitat (lliure/ocupat)">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Aplica la proposta">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip                  "Aplica la proposta al formulari.">
+
 <!ENTITY counter.button.original.label                    "Aplica les dades originals">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Aplica les dades originals al formulari.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Títol:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Potser hi assistiré">
 <!ENTITY read.only.needs.action.label    "Ho confirmaré més tard">
 <!ENTITY read.only.reminder.label        "Recorda-m'ho:">
+
 <!ENTITY read.only.attendees.label       "Assistents">
 <!ENTITY read.only.description.label     "Descripció">
 <!ENTITY read.only.link.label            "Enllaç relacionat">
