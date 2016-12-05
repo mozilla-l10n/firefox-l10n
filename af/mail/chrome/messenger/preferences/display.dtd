@@ -26,10 +26,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Merkers kan gebruik word om u boodskappe te kategoriseer en te prioritiseer.">
-<!ENTITY addTagButton.label        "Voeg by">
-<!ENTITY addTagButton.accesskey    "V">
-<!ENTITY editTagButton.label       "Redigeer">
-<!ENTITY editTagButton.accesskey   "e">
+
+
+
+
 <!ENTITY removeTagButton.label     "Skrap">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->

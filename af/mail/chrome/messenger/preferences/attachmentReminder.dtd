@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Aanhegselherinneringwoorde">
 <!ENTITY attachKeywordText.label          "&brandShortName; sal jou waarsku oor vermiste aanhegsels as op die punt is om 'n e-pos te stuur wat een van hierdie woorde bevat.">
-<!ENTITY addKeywordButton.label           "Voeg by">
-<!ENTITY addKeywordButton.accesskey       "V">
-<!ENTITY editKeywordButton.label          "Redigeer">
-<!ENTITY editKeywordButton.accesskey      "e">
+
+
+
+
 <!ENTITY removeKeywordButton.label        "Skrap">
 <!ENTITY removeKeywordButton.accesskey    "S">
