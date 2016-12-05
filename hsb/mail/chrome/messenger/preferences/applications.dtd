@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Dochadźace">
 <!ENTITY attachments.outgoing.label   "Wuchadźace">
 
-
+<!ENTITY addCloudFileAccount1.label       "Přidać…">
+<!ENTITY addCloudFileAccount1.accesskey   "d">
 <!ENTITY addCloudFileAccount.description  "Nowu składowansku słužbu Filelink přidać">
 <!ENTITY removeCloudFileAccount.label     "Wotstronić">
 <!ENTITY removeCloudFileAccount.accesskey "W">
