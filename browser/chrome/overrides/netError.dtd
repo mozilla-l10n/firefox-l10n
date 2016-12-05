@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը:</p>">
 
+<!ENTITY captivePortal.title "Մուտք գործել ցանց">
+<!ENTITY captivePortal.longDesc "<p>Այս ցանցը կարող է պահանջել մուտք գործել, որ օգտվեք համացանցից։</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Բացել մուտքի էջը">
 
 <!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
 <!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> </ul>">
