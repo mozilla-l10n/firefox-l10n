@@ -7,9 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Categorie toevoegen">
-<!ENTITY pref.categories.addButton.label "Toevoegen…">
-<!ENTITY pref.categories.addButton.accesskey "T">
+<!ENTITY pref.categories.new.title "Nieuwe categorie">
+<!ENTITY pref.categories.newButton.label "Nieuw…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Categorie bewerken">
 <!ENTITY pref.categories.editButton.label "Bewerken…">
 <!ENTITY pref.categories.editButton.accesskey "B">

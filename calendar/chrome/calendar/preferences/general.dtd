@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Toegankelijkheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimaliseren voor toegankelijkheid" >
 <!ENTITY pref.systemcolors.accesskey "o">
+
+<!ENTITY pref.eventsandtasks.label "Gebeurtenissen en taken" >
+<!ENTITY pref.editInTab.label "Gebeurtenissen en taken in een tabblad bewerken in plaats van in een dialoogvenster" >
+<!ENTITY pref.editInTab.accesskey "t">
