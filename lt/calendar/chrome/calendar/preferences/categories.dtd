@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Nauja kategorija">
-<!ENTITY pref.categories.addButton.label "Pridėti…">
-<!ENTITY pref.categories.addButton.accesskey "P">
 <!ENTITY pref.categories.edit.title "Taisoma kategorija">
 <!ENTITY pref.categories.editButton.label "Taisyti…">
 <!ENTITY pref.categories.editButton.accesskey "T">
