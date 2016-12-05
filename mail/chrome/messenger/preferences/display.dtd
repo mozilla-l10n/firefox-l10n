@@ -24,10 +24,10 @@
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!-- labels -->
-<!ENTITY addTagButton.label        "Қосу">
-<!ENTITY addTagButton.accesskey    "о">
-<!ENTITY editTagButton.label       "Түзету">
-<!ENTITY editTagButton.accesskey   "Т">
+
+
+
+
 <!ENTITY removeTagButton.label     "Өшіру">
 <!ENTITY removeTagButton.accesskey "ш">
 <!-- Fonts and Colors -->
