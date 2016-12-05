@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Wobznamjenja daju se wužywaś, aby waše powěsći kategorizěrowali a prioritaty stajili.">
-<!ENTITY addTagButton.label        "Pśidaś">
-<!ENTITY addTagButton.accesskey    "P">
-<!ENTITY editTagButton.label       "Wobźěłaś">
-<!ENTITY editTagButton.accesskey   "b">
+
+
+
+
 <!ENTITY removeTagButton.label     "Wulašowaś">
 <!ENTITY removeTagButton.accesskey "l">
 <!-- Fonts and Colors -->
