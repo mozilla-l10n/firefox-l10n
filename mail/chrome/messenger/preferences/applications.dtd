@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Dohodne">
 <!ENTITY attachments.outgoing.label   "Odhodne">
 
-<!ENTITY addCloudFileAccount.label        "Dodaj">
-<!ENTITY addCloudFileAccount.accesskey    "D">
+<!ENTITY addCloudFileAccount1.label       "Dodaj …">
+<!ENTITY addCloudFileAccount1.accesskey   "D">
 <!ENTITY addCloudFileAccount.description  "Dodaj novega ponudnika storitve za shranjevanje podatkov Filelink">
 <!ENTITY removeCloudFileAccount.label     "Odstrani">
 <!ENTITY removeCloudFileAccount.accesskey "O">

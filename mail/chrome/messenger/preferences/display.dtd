@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Oznake lahko uporabite za označevanje prednosti in kategorij svojih sporočil.">
-<!ENTITY addTagButton.label        "Dodaj">
-<!ENTITY addTagButton.accesskey    "D">
-<!ENTITY editTagButton.label       "Uredi">
-<!ENTITY editTagButton.accesskey   "U">
+<!ENTITY newTagButton.label        "Nova …">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Uredi …">
+<!ENTITY editTagButton1.accesskey  "U">
 <!ENTITY removeTagButton.label     "Izbriši">
 <!ENTITY removeTagButton.accesskey "z">
 
