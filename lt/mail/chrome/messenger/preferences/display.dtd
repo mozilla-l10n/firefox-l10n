@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Pagal gaires galima grupuoti laiškus ir nustatyti jų prioritetus.">
-<!ENTITY addTagButton.label        "Nauja gairė…">
-<!ENTITY addTagButton.accesskey    "N">
-<!ENTITY editTagButton.label       "Taisyti">
-<!ENTITY editTagButton.accesskey   "T">
+
+
+
+
 <!ENTITY removeTagButton.label     "Pašalinti">
 <!ENTITY removeTagButton.accesskey "š">
 <!-- Fonts and Colors -->
