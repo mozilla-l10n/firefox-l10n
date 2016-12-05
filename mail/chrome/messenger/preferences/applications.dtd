@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "接收">
 <!ENTITY attachments.outgoing.label   "发送">
 
-<!ENTITY addCloudFileAccount.label        "添加">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount1.label       "添加…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "添加一个新的“文件链接”存储服务">
 <!ENTITY removeCloudFileAccount.label     "移除">
 <!ENTITY removeCloudFileAccount.accesskey "R">

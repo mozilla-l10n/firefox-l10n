@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "紧凑模式">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "文件夹面板工具栏">
+<!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "文件夹视图">
 
 <!-- Sort Menu -->

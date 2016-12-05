@@ -21,21 +21,21 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "纯文本消息">
 <!ENTITY displayText.label                "当显示引用的纯文本消息时使用以下设置：">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "以图形显示表情图释">
 <!ENTITY convertEmoticons.accesskey    "e">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "标签用于对消息进行分类或区分优先级。">
-<!ENTITY addTagButton.label        "添加">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "编辑">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY newTagButton.label        "新建…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "编辑…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "删除">
 <!ENTITY removeTagButton.accesskey "D">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "字体和颜色">
 <!ENTITY defaultFont.label       "默认字体:">
 <!ENTITY defaultFont.accesskey   "D">
@@ -45,8 +45,8 @@
 <!ENTITY fontOptions.label       "高级">
 <!ENTITY colorButton.label       "颜色…">
 <!ENTITY colorButton.accesskey   "C">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "阅读">
 <!ENTITY display.caption                  "显示">
 <!ENTITY showCondensedAddresses.label     "只显示我的通讯录中的显示名称">
