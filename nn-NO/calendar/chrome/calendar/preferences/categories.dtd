@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Legg til kategori">
-<!ENTITY pref.categories.addButton.label "Legg til …">
-<!ENTITY pref.categories.addButton.accesskey "L">
 <!ENTITY pref.categories.edit.title "Rediger kategori">
 <!ENTITY pref.categories.editButton.label "Rediger …">
 <!ENTITY pref.categories.editButton.accesskey "R">
