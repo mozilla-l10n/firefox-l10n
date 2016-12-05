@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktny naglěd">
 <!ENTITY compactVersion.accesskey "K">
-
-
+<!ENTITY folderPaneBar.label "Symbolowa rědka zarědnikowego wobcerka">
+<!ENTITY folderPaneBar.accesskey "S">
 <!ENTITY folderModeSelector.label "Zarědnikowe naglědy">
 <!-- Sort Menu -->
 
