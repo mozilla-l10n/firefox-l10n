@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Kompakt byld">
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Mappenfinsterarkbalke">
+<!ENTITY folderPaneBar.accesskey "M">
 <!ENTITY folderModeSelector.label "Mappenwerjefte">
 
 <!-- Sort Menu -->
