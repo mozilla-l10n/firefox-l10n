@@ -163,10 +163,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "л">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Сохранить">
+<!ENTITY  event.toolbar.saveandclose.label                "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.label                      "Удалить">
 <!ENTITY  event.toolbar.attendees.label                   "Пригласить участников">
 <!ENTITY  event.toolbar.privacy.label                     "Приватность">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Сохранить">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.tooltip                    "Удалить">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Пригласить участников">
 <!ENTITY  event.toolbar.attachments.tooltip               "Добавить вложение">
@@ -404,6 +408,7 @@
 <!ENTITY read.only.tentative.label       "Я мог бы присутствовать">
 <!ENTITY read.only.needs.action.label    "Я подтвержу позже">
 <!ENTITY read.only.reminder.label        "Напоминание:">
+<!ENTITY read.only.attachments.label     "Вложения:">
 <!ENTITY read.only.attendees.label       "Участники">
 <!ENTITY read.only.description.label     "Описание">
 <!ENTITY read.only.link.label            "Связанная ссылка">
