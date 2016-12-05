@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
 <!ENTITY event.attendees.disallowcounter.label       "Přećiwonamjet wotpokazać">
 <!ENTITY event.attendees.disallowcounter.accesskey   "n">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Podawa, zo njebudźeće přećiwonamjety akceptować">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "l">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Začinić">
 <!ENTITY  event.menu.item.close.accesskey                 "Z">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Składować">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Składować a začinić">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "z">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Zhašeć…">
 <!ENTITY  event.menu.item.delete.accesskey                "h">
 <!ENTITY  event.menu.item.page.setup.label                "Stronu připrawić">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "b">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Składować a začinić">
 <!ENTITY  event.toolbar.delete.label                      "Zhašeć">
 <!ENTITY  event.toolbar.attendees.label                   "Wobdźělnikow přeprosyć">
 <!ENTITY  event.toolbar.privacy.label                     "Priwatnosć">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Składować a začinić">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Zhašeć">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Wobdźělnikow přeprosyć">
 <!ENTITY  event.toolbar.attachments.tooltip               "Přiwěški přidać">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Status změnić">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Swobodny/wobsadźeny čas změnić">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Namjet nałožić">
 <!ENTITY counter.button.proposal.accesskey                "o">
-<!ENTITY counter.button.proposal.tooltip                  "Namjetowe daty na formular nałožić.">
+
 <!ENTITY counter.button.original.label                    "Originalne daty nałožić">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Originalne daty na formular nałožić.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Titul:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Snano so wobdźělu">
 <!ENTITY read.only.needs.action.label    "Wobkruću pozdźišo">
 <!ENTITY read.only.reminder.label        "Dopomnjeće:">
+
 <!ENTITY read.only.attendees.label       "Wobdźělnicy">
 <!ENTITY read.only.description.label     "Wopisanje">
 <!ENTITY read.only.link.label            "Přiwuzny wotkaz">
