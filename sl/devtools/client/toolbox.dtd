@@ -159,6 +159,13 @@
 <!ENTITY options.timestampMessages.label      "Omogoči časovne žige">
 <!ENTITY options.timestampMessages.tooltip    "Če vključite to možnost, bodo ukazi in izpisi v spletni konzoli prikazovali časovni žig">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Razhroščevalnik">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

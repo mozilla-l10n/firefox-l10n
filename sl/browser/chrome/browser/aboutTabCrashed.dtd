@@ -13,6 +13,13 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "Lahko vam pomagamo!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Izberite &tabCrashed.restoreTab;, da ponovno naložite vsebino strani.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Izberite &tabCrashed.restoreTab; ali &tabCrashed.restoreAll;, da ponovno naložite vsebino strani.">
+<!ENTITY tabCrashed.requestReport "Prijavi ta zavihek">
+<!ENTITY tabCrashed.sendReport2 "Pošlji poročilo o sesutju za prikazan zavihek">
+<!ENTITY tabCrashed.includeURL2 "V poročilo o sesutju dodaj URL strani">
 <!ENTITY tabCrashed.emailPlaceholder "Vnesite svoj e-poštni naslov">
 <!ENTITY tabCrashed.emailMe "Pošljite mi e-pošto, ko bo na voljo več informacij">
 <!ENTITY tabCrashed.reportSent "Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit "Zahtevaj zavihke v ozadju">
