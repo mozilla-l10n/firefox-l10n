@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Συμπτυγμένη όψη">
 <!ENTITY compactVersion.accesskey "Σ">
 <!ENTITY folderPaneBar.label "Εργαλειοθήκη Πλαισίου Φακέλων">
+<!ENTITY folderPaneBar.accesskey "Θ">
 <!ENTITY folderModeSelector.label "Όψεις φακέλων">
 
 <!-- Sort Menu -->
