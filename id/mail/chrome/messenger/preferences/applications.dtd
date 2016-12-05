@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Masuk">
 <!ENTITY attachments.outgoing.label   "Keluar">
 
-<!ENTITY addCloudFileAccount.label        "Tambah">
-<!ENTITY addCloudFileAccount.accesskey    "T">
+
 <!ENTITY addCloudFileAccount.description  "Tambakan layanan penyimpanan Filelink">
 <!ENTITY removeCloudFileAccount.label     "Hapus">
 <!ENTITY removeCloudFileAccount.accesskey "H">

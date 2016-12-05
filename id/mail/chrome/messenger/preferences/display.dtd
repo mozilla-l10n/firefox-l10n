@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Tag dapat digunakan untuk mengelompokkan dan memprioritaskan pesan.">
-<!ENTITY addTagButton.label        "Tambah">
-<!ENTITY addTagButton.accesskey    "a">
-<!ENTITY editTagButton.label       "Ubah">
-<!ENTITY editTagButton.accesskey   "U">
+
+
+
+
 <!ENTITY removeTagButton.label     "Hapus">
 <!ENTITY removeTagButton.accesskey "H">
 <!-- Fonts and Colors -->
