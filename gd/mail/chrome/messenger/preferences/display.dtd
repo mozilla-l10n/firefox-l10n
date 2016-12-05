@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "'S urrainn dhut do theachdaireachdan agad a chur ann an roinnean 's prìomhachas a thoirt dhaibh le tagaichean.">
-<!ENTITY addTagButton.label        "Cuir ris">
-<!ENTITY addTagButton.accesskey    "C">
-<!ENTITY editTagButton.label       "Deasaich">
-<!ENTITY editTagButton.accesskey   "e">
+
+
+
+
 <!ENTITY removeTagButton.label     "Sguab às">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
