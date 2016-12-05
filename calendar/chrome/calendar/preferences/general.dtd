@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Barby za bjezbarjernosć optiměrować" >
 <!ENTITY pref.systemcolors.accesskey "B">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Podawki a nadawki" >
+<!ENTITY pref.editInTab.label "Podawki a nadawki w rajtarku město w dialogowym woknje wobdźěłać." >
+<!ENTITY pref.editInTab.accesskey "d">
