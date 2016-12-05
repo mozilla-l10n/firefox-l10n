@@ -13,14 +13,16 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Վա՜յ։ Ձեր ներդիրը հենց նոր վթարվեց։">
+<!ENTITY tabCrashed.offerHelp "Կարող ենք օգնե՜լ Ձեզ։">
+<!ENTITY tabCrashed.single.offerHelpMessage "Ընտրե՛ք &tabCrashed.restoreTab;-ը, որ թարմացվի էջի բովանդակությունը։">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Ընտրե՛ք &tabCrashed.restoreTab;-ը կամ &tabCrashed.restoreAll;-ը, որ թարմացվի էջի բովանդակությունը։">
+<!ENTITY tabCrashed.requestHelp "Կօգնե՞ք մեզ։">
+<!ENTITY tabCrashed.requestHelpMessage "Վթարի զեկույցներն օգնում են մեզ վերլուծել խնդիրները և դարձնել &brandShortName;-ն ավելի լավը։">
+<!ENTITY tabCrashed.requestReport "Զեկուցել այս ներդիրը">
+<!ENTITY tabCrashed.sendReport2 "Ուղարկել վթարի զեկույց այս պահին դիտվող ներդիրի համար">
+<!ENTITY tabCrashed.commentPlaceholder2 "Լրացուցիչ մեկնաբանություններ (մեկնաբանությունները հանրային են)">
+<!ENTITY tabCrashed.includeURL2 "Ներառել էջի վեբ հասցեն այս զեկույցում">
 <!ENTITY tabCrashed.emailPlaceholder "Մուտքագրեք ձեր էլ. փոստի հասցեն">
 <!ENTITY tabCrashed.emailMe "Նոր տեղեկությունների դեպքում ծանուցել ինձ">
 <!ENTITY tabCrashed.reportSent "Վթարի զեկույցը արդեն ուղարկվել է: Շնորհակալություն, որ օգնում եք &brandShortName;-ը դարձնել էլ ավելի լավը:">
