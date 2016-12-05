@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke etiketak.">
-<!ENTITY addTagButton.label        "Gehitu">
-<!ENTITY addTagButton.accesskey    "G">
-<!ENTITY editTagButton.label       "Editatu">
-<!ENTITY editTagButton.accesskey   "E">
+
+
+
+
 <!ENTITY removeTagButton.label     "Ezabatu">
 <!ENTITY removeTagButton.accesskey "z">
 <!-- Fonts and Colors -->
