@@ -257,7 +257,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Стандартен формат">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "С">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Показване на притурките">
+<!ENTITY viewAttachmentsInlineCmd.label "Показване на прикачените файлове">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "и">
 
 <!ENTITY pageSourceCmd.label "Изходен код на писмото">
@@ -763,7 +763,7 @@
 <!ENTITY contextForwardAsInline.accesskey "В">
 <!ENTITY contextForwardAsAttachmentItem.label "Прикачен файл">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "у">
-<!ENTITY contextMultiForwardAsAttachment.label "Препращане като притурки">
+<!ENTITY contextMultiForwardAsAttachment.label "Препращане като прикачени файлове">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "т">
 <!ENTITY contextMoveMsgMenu.label "Преместване в">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
