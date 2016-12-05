@@ -29,6 +29,13 @@
 <!ENTITY aboutNetworking.messagesReceived      "Prejeto sporočil">
 <!ENTITY aboutNetworking.bytesSent             "Poslani bajtov">
 <!ENTITY aboutNetworking.bytesReceived         "Prejeto bajtov">
+<!ENTITY aboutNetworking.logging               "Beleženje">
+<!ENTITY aboutNetworking.currentLogFile        "Trenutna dnevniška datoteka:">
+<!ENTITY aboutNetworking.currentLogModules     "Trenutni dnevniški moduli:">
+<!ENTITY aboutNetworking.setLogFile            "Nastavi dnevniško datoteko">
+<!ENTITY aboutNetworking.setLogModules         "Nastavi dnevniške module">
+<!ENTITY aboutNetworking.startLogging          "Začni beležiti">
+<!ENTITY aboutNetworking.stopLogging           "Prenehaj beležiti">
 <!ENTITY aboutNetworking.dnsLookup             "Iskanje DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Razreši">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">

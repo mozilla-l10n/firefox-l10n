@@ -245,3 +245,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Razvijalcem, ki želijo potrditi svoje dodatke, priporočamo branje našega ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "priročnika">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.learnMore "Več o tem.">

@@ -50,6 +50,9 @@
 <p>&brandShortName; iz neznanega razloga ne more naložiti te strani.</p>
 ">
 
+
+<!ENTITY openPortalLoginPage.label "Odpri stran za prijavo">
+
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "
 <ul>
