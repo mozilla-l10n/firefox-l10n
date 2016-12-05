@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Tillgänglighet" >
 <!ENTITY pref.systemcolors.label "Optimera färger för tillgänglighet" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.eventsandtasks.label "Händelser och uppgifter" >
+<!ENTITY pref.editInTab.label "Redigera händelser och uppgifter i en flik istället för i en dialogruta." >
+<!ENTITY pref.editInTab.accesskey "f">
