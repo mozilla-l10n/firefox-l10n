@@ -176,8 +176,8 @@
 <!ENTITY calendar.context.button.accesskey            "д" >
 <!ENTITY calendar.context.attendance.menu.label       "Присутність" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "и" >
-<!ENTITY calendar.context.attendance.occurrence.label "Ця подія" >
-<!ENTITY calendar.context.attendance.all.label        "Всі події" >
+<!ENTITY calendar.context.attendance.occurrence.label "Це повторення" >
+<!ENTITY calendar.context.attendance.all.label        "Всі повторення" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Завершено">
