@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Arveret e vez merkoù da rummañ ha lakaat tevet war ho kemennadennoù.">
-<!ENTITY addTagButton.label        "Ouzhpennañ">
-<!ENTITY addTagButton.accesskey    "O">
-<!ENTITY editTagButton.label       "Embann">
-<!ENTITY editTagButton.accesskey   "E">
+
+
+
+
 <!ENTITY removeTagButton.label     "Dilemel">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts and Colors -->

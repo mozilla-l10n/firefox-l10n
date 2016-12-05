@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "v">
 <!ENTITY compactVersion.label "Gwel fetis">
 <!ENTITY compactVersion.accesskey "f">
-<!ENTITY folderPaneBar.label "Barrenn ostilhoù penel an teuliadoù">
+
+
 <!ENTITY folderModeSelector.label "Gweloù an teuliad">
 <!-- Sort Menu -->
 
