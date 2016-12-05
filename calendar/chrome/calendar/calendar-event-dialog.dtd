@@ -28,13 +28,14 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; ολοκληρωμένο">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Ειδοποίηση συμμετεχόντων">
-<!ENTITY event.attendees.notifyundisclosed.label    "Χωριστή πρόσκληση ανά συμμετέχοντα">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "Χ">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
+<!ENTITY event.attendees.notify.label                "Ειδοποίηση συμμετεχόντων">
+<!ENTITY event.attendees.notifyundisclosed.label     "Χωριστή πρόσκληση ανά συμμετέχοντα">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "Χ">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
 
 <!-- Keyboard Shortcuts -->
 
@@ -51,10 +52,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "φ">
 <!ENTITY  event.menu.item.close.label                     "Κλείσιμο">
 <!ENTITY  event.menu.item.close.accesskey                 "Κ">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Αποθήκευση">
 <!ENTITY  event.menu.item.save.accesskey                  "Α">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "θ">
+
 <!ENTITY  event.menu.item.delete.label                    "Διαγραφή…">
 <!ENTITY  event.menu.item.delete.accesskey                "Δ">
 <!ENTITY  event.menu.item.page.setup.label                "Διαμόρφωση σελίδας">
@@ -124,12 +138,10 @@
 <!ENTITY event.remove.attendee.label                      "Αφαίρεση συμμετέχοντα">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.label                   "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.privacy.label                     "Ιδιωτικότητα">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.attachments.tooltip               "Προσθήκη επισυνάψεων">
@@ -137,6 +149,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Αλλαγή προτεραιότητας">
 <!ENTITY  event.toolbar.status.tooltip                    "Αλλαγή κατάστασης">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Αλλαγή της εμφάνισης ως διαθέσιμος/απασχολημένος">
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Τίτλος:" >
