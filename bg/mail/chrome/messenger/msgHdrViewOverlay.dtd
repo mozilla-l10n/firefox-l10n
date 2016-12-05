@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "П">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Начално показване на панела с притурки">
+<!ENTITY startExpandedCmd.label    "Показване на панела с прикачени файлове при отваряне">
 <!ENTITY startExpandedCmd.accesskey    "п">
 
 <!-- Attachment context menu items -->

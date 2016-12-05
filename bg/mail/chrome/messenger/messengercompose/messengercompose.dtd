@@ -294,8 +294,8 @@
 <!ENTITY convertCloud.accesskey "К">
 <!ENTITY cancelUpload.label "Прекъсване на качването">
 <!ENTITY cancelUpload.accesskey "П">
-<!ENTITY convertRegularAttachment.label "Обекновена притурка">
-<!ENTITY convertRegularAttachment.accesskey "п">
+<!ENTITY convertRegularAttachment.label "Прикачен файл">
+<!ENTITY convertRegularAttachment.accesskey "П">
 <!ENTITY attachPage.label "Прилагане на уеб страница…">
 <!ENTITY attachPage.accesskey "б">
 

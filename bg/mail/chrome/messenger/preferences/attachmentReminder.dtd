@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Ключови думи за напомняне за притурка">
-<!ENTITY attachKeywordText.label          "&brandShortName; ще ви предупреди за липсващи притурки, ако изпращате е-поща съдържаща някоя от тези ключови думи.">
-<!ENTITY addKeywordButton.label           "Добавяне">
-<!ENTITY addKeywordButton.accesskey       "Д">
-<!ENTITY editKeywordButton.label          "Промяна">
-<!ENTITY editKeywordButton.accesskey      "П">
+<!ENTITY attachmentReminderDialog.title   "Ключови думи за напомняне за прикачване">
+<!ENTITY attachKeywordText.label          "&brandShortName; ще ви напомни за липсващи прикачени файлове, ако изпращате писмо съдържащо някоя от тези ключови думи.">
 <!ENTITY removeKeywordButton.label        "Изтриване">
 <!ENTITY removeKeywordButton.accesskey    "И">
