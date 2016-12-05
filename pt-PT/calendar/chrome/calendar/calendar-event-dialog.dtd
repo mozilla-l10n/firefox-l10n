@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um convite de email por pessoa. Cada convite apenas contém um destinatário pelo que outros convidados não serão identificados.">
 <!ENTITY event.attendees.disallowcounter.label       "Desativar contra-proposta">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Indica que você não aceitará contra-propostas">
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Fechar">
 <!ENTITY  event.menu.item.close.accesskey                 "F">
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.save.label                      "Guardar">
 <!ENTITY  event.menu.item.save.accesskey                  "G">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
 <!ENTITY  event.menu.item.saveandclose.label              "Guardar e fechar">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "f">
+
+
 <!ENTITY  event.menu.item.delete.label                    "Apagar…">
 <!ENTITY  event.menu.item.delete.accesskey                "A">
 <!ENTITY  event.menu.item.page.setup.label                "Configurar página">
@@ -150,12 +165,11 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Guardar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Apagar">
 <!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Guardar e fechar">
+
 <!ENTITY  event.toolbar.delete.tooltip                    "Apagar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
@@ -164,13 +178,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Alterar estado">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar hora de ocupado/livre">
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Aplicar proposta">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip                  "Aplicar ao formulário os dados propostos.">
+
 <!ENTITY counter.button.original.label                    "Aplicar dados originais">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip                  "Aplicar ao formulário os dados originais.">
+
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -389,6 +409,7 @@
 <!ENTITY read.only.tentative.label       "Posso estar">
 <!ENTITY read.only.needs.action.label    "Confirmo mais tarde">
 <!ENTITY read.only.reminder.label        "Lembrete:">
+
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Descrição">
 <!ENTITY read.only.link.label            "Ligação relacionada">
