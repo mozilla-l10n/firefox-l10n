@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "標籤可以用來分類或排出郵件的優先順序。">
-<!ENTITY addTagButton.label        "新增">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "編輯">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY newTagButton.label        "新增…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "編輯…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "刪除">
 <!ENTITY removeTagButton.accesskey "D">
 
@@ -71,4 +71,3 @@
 <!ENTITY reuseExpRadio1.accesskey         "e">
 <!ENTITY closeMsgOnMoveOrDelete.label     "在移動或刪除郵件時關閉訊息視窗/分頁">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-

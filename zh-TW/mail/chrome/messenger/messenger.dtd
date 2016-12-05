@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "精簡檢視">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "資料夾窗格工具列">
+<!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "資料夾畫面">
 
 <!-- Sort Menu -->

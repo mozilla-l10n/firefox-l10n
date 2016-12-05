@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "內送">
 <!ENTITY attachments.outgoing.label   "外寄">
 
-<!ENTITY addCloudFileAccount.label        "新增">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount1.label       "新增…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "新增雲端檔案鏈結儲存服務">
 <!ENTITY removeCloudFileAccount.label     "移除">
 <!ENTITY removeCloudFileAccount.accesskey "R">
@@ -36,4 +36,3 @@
 
 <!ENTITY enableCloudFileAccountOffer.label "檔案超過一定大小時使用雲端鏈結服務:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
-
