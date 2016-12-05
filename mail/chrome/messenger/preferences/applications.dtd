@@ -25,8 +25,7 @@
 <!ENTITY attachments.incoming.label   "Isteach">
 <!ENTITY attachments.outgoing.label   "Amach">
 
-<!ENTITY addCloudFileAccount.label        "Cuir Leis">
-<!ENTITY addCloudFileAccount.accesskey    "L">
+
 <!ENTITY addCloudFileAccount.description  "Cuir seirbhís stórála Filelink leis">
 <!ENTITY removeCloudFileAccount.label     "Bain">
 <!ENTITY removeCloudFileAccount.accesskey "B">
