@@ -23,8 +23,8 @@
 <!-- labels -->
 
 
-<!ENTITY editTagButton.label       "Rediģēt">
-<!ENTITY editTagButton.accesskey   "e">
+
+
 <!ENTITY removeTagButton.label     "Dzēst">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts and Colors -->
