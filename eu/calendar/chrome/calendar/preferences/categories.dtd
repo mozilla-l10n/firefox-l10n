@@ -7,9 +7,6 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Gehitu kategoria">
-<!ENTITY pref.categories.addButton.label "Gehitu...">
-<!ENTITY pref.categories.addButton.accesskey "G">
 <!ENTITY pref.categories.edit.title "Kategoria editatu">
 <!ENTITY pref.categories.editButton.label "Editatu">
 <!ENTITY pref.categories.editButton.accesskey "E">
