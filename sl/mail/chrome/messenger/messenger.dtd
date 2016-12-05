@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Zgoščen pogled">
 <!ENTITY compactVersion.accesskey "Z">
 <!ENTITY folderPaneBar.label "Orodna vrstica podokna map">
+<!ENTITY folderPaneBar.accesskey "M">
 <!ENTITY folderModeSelector.label "Pogledi map">
 
 <!-- Sort Menu -->
