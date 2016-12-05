@@ -70,10 +70,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "A">
 <!ENTITY  event.menu.item.close.label                     "Sulge">
 <!ENTITY  event.menu.item.close.accesskey                 "l">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Salvesta">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Salvesta ja sulge">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "g">
+
 <!ENTITY  event.menu.item.delete.label                    "Kustuta…">
 <!ENTITY  event.menu.item.delete.accesskey                "K">
 <!ENTITY  event.menu.item.page.setup.label                "Lehekülje häälestus">
@@ -150,12 +163,10 @@
 <!ENTITY event.remove.attendee.accesskey                  "d">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Salvesta ja sulge">
 <!ENTITY  event.toolbar.delete.label                      "Kustuta">
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejaid">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Salvesta ja sulge">
 <!ENTITY  event.toolbar.delete.tooltip                    "Kustuta">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu osalejaid">
 <!ENTITY  event.toolbar.attachments.tooltip               "Lisa veebilehti">
@@ -165,12 +176,16 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Muuda aja näitamist (hõivatud/vaba)">
 
 <!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Rakenda ettepanek">
 <!ENTITY counter.button.proposal.accesskey                "R">
-<!ENTITY counter.button.proposal.tooltip                  "Rakendab ettepaneku andmed vormil.">
 <!ENTITY counter.button.original.label                    "Rakenda algsed andmed">
 <!ENTITY counter.button.original.accesskey                "a">
-<!ENTITY counter.button.original.tooltip                  "Rakendab algsed andmed vormil.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
