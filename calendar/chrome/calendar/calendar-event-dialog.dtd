@@ -29,14 +29,15 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 완료">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "참석자 알림">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "참석자 별로 초대 분리하기">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "이 옵션은 각 참석자에게 따로 이메일을 보내는 옵션입니다. 각 초대에는 받는 사람만 참석자로 나와 있어 다른 참석자를 볼 수 없습니다.">
+<!ENTITY event.attendees.notify.label                "참석자 알림">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "참석자 별로 초대 분리하기">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "이 옵션은 각 참석자에게 따로 이메일을 보내는 옵션입니다. 각 초대에는 받는 사람만 참석자로 나와 있어 다른 참석자를 볼 수 없습니다.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -66,10 +67,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "닫기">
 <!ENTITY  event.menu.item.close.accesskey                 "C">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "저장">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "저장 후 닫기">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+
 <!ENTITY  event.menu.item.delete.label                    "삭제…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.item.page.setup.label                "페이지 설정">
@@ -146,12 +160,10 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "저장 후 종료">
 <!ENTITY  event.toolbar.delete.label                      "삭제">
 <!ENTITY  event.toolbar.attendees.label                   "초대">
 <!ENTITY  event.toolbar.privacy.label                     "공개여부">
 
-<!ENTITY  event.toolbar.save.tooltip                      "저장하고 닫기">
 <!ENTITY  event.toolbar.delete.tooltip                    "삭제">
 <!ENTITY  event.toolbar.attendees.tooltip                 "참석자 초대하기">
 <!ENTITY  event.toolbar.attachments.tooltip               "첨부하기">
@@ -159,6 +171,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "중요도 바꾸기">
 <!ENTITY  event.toolbar.status.tooltip                    "상태 바꾸기">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "일정 상태 바꾸기">
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "제목:" >
