@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "D">
 <!ENTITY compactVersion.label "Golwg Cryno">
 <!ENTITY compactVersion.accesskey "G">
-
-
+<!ENTITY folderPaneBar.label "Bar Offer Paen Ffolder">
+<!ENTITY folderPaneBar.accesskey "B">
 <!ENTITY folderModeSelector.label "Golwg Ffolder">
 <!-- Sort Menu -->
 
