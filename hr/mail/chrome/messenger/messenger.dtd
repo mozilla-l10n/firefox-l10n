@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zbijeni prikaz">
 <!ENTITY compactVersion.accesskey "Z">
-<!ENTITY folderPaneBar.label "Alatna traka okna mapa">
+
+
 <!ENTITY folderModeSelector.label "Prikazi mapa">
 <!-- Sort Menu -->
 
