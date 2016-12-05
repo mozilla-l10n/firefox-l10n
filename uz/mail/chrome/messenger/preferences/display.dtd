@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Teglar xabarlaringizni turkumlarga va muhimligi bo‘yicha ajratishda foydalaniladi.">
-<!ENTITY addTagButton.label        "Qo‘shish">
-<!ENTITY addTagButton.accesskey    "Q">
-<!ENTITY editTagButton.label       "Tahrirlash">
-<!ENTITY editTagButton.accesskey   "T">
+
+
+
+
 <!ENTITY removeTagButton.label     "O‘chirish">
 <!ENTITY removeTagButton.accesskey "O">
 <!-- Fonts and Colors -->

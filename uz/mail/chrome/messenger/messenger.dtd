@@ -164,7 +164,8 @@
 <!ENTITY recentFolders.accesskey "S">
 <!ENTITY compactVersion.label "Ixcham ko‘rinish">
 <!ENTITY compactVersion.accesskey "I">
-<!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
+
+
 <!ENTITY folderModeSelector.label "Jild ko‘rinishi">
 <!-- Sort Menu -->
 
