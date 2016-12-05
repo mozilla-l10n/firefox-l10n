@@ -78,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Запис">
 <!ENTITY  event.menu.item.save.accesskey                  "З">
+<!ENTITY  event.menu.item.save.tab.accesskey              "З">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -86,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Запис и затваряне">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "п">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "т">
 
 <!ENTITY  event.menu.item.delete.label                    "Изтриване…">
 <!ENTITY  event.menu.item.delete.accesskey                "И">
@@ -163,10 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "х">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Запазване">
+<!ENTITY  event.toolbar.saveandclose.label                "Запазване и затваряне">
 <!ENTITY  event.toolbar.delete.label                      "Изтриване">
 <!ENTITY  event.toolbar.attendees.label                   "Поканване на участници">
 <!ENTITY  event.toolbar.privacy.label                     "Поверителност">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Запазване">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Запис и затваряне">
 <!ENTITY  event.toolbar.delete.tooltip                    "Изтриване">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Поканване на участници">
 <!ENTITY  event.toolbar.attachments.tooltip               "Добавяне на притурка">
@@ -186,6 +192,7 @@
 <!ENTITY counter.button.proposal.accesskey                "П">
 <!ENTITY counter.button.original.label                    "Прилагане на първоначалните данни">
 <!ENTITY counter.button.original.accesskey                "п">
+<!ENTITY counter.button.original.tooltip2                 "Полетата ще бъдат попълнени с данните от първоначалното събитие преди контрапредложението">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Заглавие:" >
@@ -404,6 +411,7 @@
 <!ENTITY read.only.tentative.label       "Може би ще присъствам">
 <!ENTITY read.only.needs.action.label    "Ще потвърдя по-късно">
 <!ENTITY read.only.reminder.label        "Напомняне:">
+<!ENTITY read.only.attachments.label     "Прикачени файлове:">
 <!ENTITY read.only.attendees.label       "Участници">
 <!ENTITY read.only.description.label     "Описание">
 <!ENTITY read.only.link.label            "Сродни връзки">
