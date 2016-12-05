@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Znački dadźa so wužić, zo bychu waše powěsće kategorizowali a prioritaty stajili.">
-<!ENTITY addTagButton.label        "Přidać">
-<!ENTITY addTagButton.accesskey    "P">
-<!ENTITY editTagButton.label       "Wobdźěłać">
-<!ENTITY editTagButton.accesskey   "b">
+
+
+
+
 <!ENTITY removeTagButton.label     "Zhašeć">
 <!ENTITY removeTagButton.accesskey "Z">
 <!-- Fonts and Colors -->
