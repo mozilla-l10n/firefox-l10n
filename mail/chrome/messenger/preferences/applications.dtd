@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Derbyn">
 <!ENTITY attachments.outgoing.label   "Anfon">
 
-
+<!ENTITY addCloudFileAccount1.label       "Ychwanegu…">
+<!ENTITY addCloudFileAccount1.accesskey   "Y">
 <!ENTITY addCloudFileAccount.description  "Ychwanegu gwasanaeth storio Filelink newydd">
 <!ENTITY removeCloudFileAccount.label     "Tynnu">
 <!ENTITY removeCloudFileAccount.accesskey "T">
