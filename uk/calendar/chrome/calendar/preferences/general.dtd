@@ -34,9 +34,13 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Відносно наступної години">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Панель дня">
-<!ENTITY pref.soondays.label "The upcoming section shows:">
+<!ENTITY pref.soondays.label "Розділ майбутніх показує:">
 <!ENTITY pref.soondays.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Доступність" >
 <!ENTITY pref.systemcolors.label "Оптимізувати кольори для доступності" >
 <!ENTITY pref.systemcolors.accesskey "к">
+
+<!ENTITY pref.eventsandtasks.label "Події та завдання" >
+<!ENTITY pref.editInTab.label "Змінювати події та завдання у вкладці замість діалогового вікна." >
+<!ENTITY pref.editInTab.accesskey "З">
