@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Názov zariadenia:">
 <!ENTITY fxaSyncDeviceName.label       "Názov zariadenia">
 <!ENTITY changeSyncDeviceName.label "Zmeniť názov zariadenia…">
+<!ENTITY changeSyncDeviceName.accesskey "m">
 <!ENTITY cancelChangeSyncDeviceName.label "Zrušiť">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "r">
 <!ENTITY saveChangeSyncDeviceName.label "Uložiť">
+<!ENTITY saveChangeSyncDeviceName.accesskey "U">
 <!ENTITY unlinkDevice.label           "Zrušiť prepojenie s týmto zariadením">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nie ste prihlásený.">
 <!ENTITY signIn.label                "Prihlásiť sa">
+<!ENTITY signIn.accesskey            "i">
 <!ENTITY profilePicture.tooltip      "Zmeniť obrázok profilu">
 <!ENTITY verifiedManage.label        "Spravovať účet">
+<!ENTITY verifiedManage.accesskey    "p">
 <!ENTITY disconnect.label            "Odpojiť…">
+<!ENTITY disconnect.accesskey        "o">
 <!ENTITY verify.label                "Overiť e-mailovú adresu">
+<!ENTITY verify.accesskey            "a">
 <!ENTITY forget.label                "Zabudnúť na túto e-mailovú adresu">
+<!ENTITY forget.accesskey            "b">
 
 <!ENTITY welcome.description "Pristupujte k svojim kartám, záložkám, heslám a ďalším položkám kdekoľvek používate prehliadač &brandShortName;.">
 <!ENTITY welcome.signIn.label "Prihlásiť sa">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.">
 <!ENTITY signedOut.accountBox.title   "Pripojte sa k službe &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Vytvoriť účet">
+<!ENTITY signedOut.accountBox.create.accesskey  "V">
 <!ENTITY signedOut.accountBox.signin  "Prihlásiť sa">
+<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.engines.label       "Synchronizovať na všetkých zariadeniach">
 
