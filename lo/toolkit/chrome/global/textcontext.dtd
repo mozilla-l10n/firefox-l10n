@@ -15,20 +15,23 @@
 <!ENTITY deleteCmd.label "ລຶບ">
 <!ENTITY deleteCmd.accesskey "D">
 
+<!ENTITY spellAddToDictionary.label "ເພີ່ມເຂົ້າວັດຈະນານຸກົມ">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "ຍົກເລີກການເພີ່ມເຂົ້າວັດຈະນານຸກົມ">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "ກວດເບິງການສະກົດ">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(ບໍ່ມີການສະກົດແນະນຳ)">
+<!ENTITY spellDictionaries.label "ພາສາ">
+<!ENTITY spellDictionaries.accesskey "l">
 
+<!ENTITY searchTextBox.clear.label "ລົບລ້າງ">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "ຕື່ມຂໍ້ມູນໃສ່ການລັອກອິນ">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "ຕື່ມລະຫັດຜ່ານໃສ່">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "ຕື່ມຊື່ຜູ້ໃຊ້ໃສ່">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(ບໍ່ມີການລັອກອິນແນະນຳ)">
+<!ENTITY viewSavedLogins.label        "ເບິງການລັອກອິນທີ່ໄດ້ບັນທຶກໄວ້">
