@@ -4,5 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Ключови думи за напомняне за прикачване">
 <!ENTITY attachKeywordText.label          "&brandShortName; ще ви напомни за липсващи прикачени файлове, ако изпращате писмо съдържащо някоя от тези ключови думи.">
+<!ENTITY newKeywordButton.label           "Добавяне…">
+<!ENTITY newKeywordButton.accesskey       "Д">
+<!ENTITY editKeywordButton1.label         "Редактиране…">
+<!ENTITY editKeywordButton1.accesskey     "Р">
 <!ENTITY removeKeywordButton.label        "Изтриване">
 <!ENTITY removeKeywordButton.accesskey    "И">

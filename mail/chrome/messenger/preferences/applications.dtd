@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Входящи">
 <!ENTITY attachments.outgoing.label   "Изходящи">
 
-<!ENTITY addCloudFileAccount.label        "Добавяне">
-<!ENTITY addCloudFileAccount.accesskey    "Д">
+<!ENTITY addCloudFileAccount1.label       "Добавяне…">
+<!ENTITY addCloudFileAccount1.accesskey   "Д">
 <!ENTITY addCloudFileAccount.description  "Добавяне на нова услуга за съхранене към Filelink">
 <!ENTITY removeCloudFileAccount.label     "Премахване">
 <!ENTITY removeCloudFileAccount.accesskey "П">
