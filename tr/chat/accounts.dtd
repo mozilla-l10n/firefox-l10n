@@ -30,12 +30,12 @@
 <!ENTITY account.edit.accesskey       "Ö">
 <!ENTITY account.moveup.label         "Yukarı taşı">
 <!ENTITY account.movedown.label       "Aşağı taşı">
-
-
-
-
-
-
+<!ENTITY account.cancelReconnection.label         "Tekrar bağlanmadan vazgeç">
+<!ENTITY account.cancelReconnection.accesskey     "v">
+<!ENTITY account.copyDebugLog.label     "Hata ayıklama kaydını kopyala">
+<!ENTITY account.copyDebugLog.accesskey "k">
+<!ENTITY account.showDebugLog.label     "Hata ayıklama kaydını göster">
+<!ENTITY account.showDebugLog.accesskey "k">
 <!ENTITY account.connecting           "Bağlanıyor…">
 <!ENTITY account.disconnecting        "Bağlantı kesiliyor…">
 <!ENTITY account.disconnected         "Bağlı değil">

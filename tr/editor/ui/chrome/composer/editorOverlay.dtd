@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "E">
 <!ENTITY insertLinkCmd2.label "Bağlantı…">
 <!ENTITY insertLinkCmd2.accesskey "l">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "İsimlendirilmiş Çıpa…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Resim…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "İsimlendirilen Çıpaları Kaldır">
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
 <!ENTITY formatRemoveNamedAnchors2.key "s">
