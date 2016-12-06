@@ -61,9 +61,9 @@
 <!ENTITY calendar.todaypane.button.tooltip      "Bugün panelini göster" >
 
 <!ENTITY calendar.day.button.tooltip            "Günlük gösterime geç" >
-<!ENTITY calendar.week.button.tooltip           "Haftalık gösterime geç" >
+<!ENTITY calendar.week.button.tooltip           "Hafta görünümüne geç" >
 <!ENTITY calendar.month.button.tooltip          "Aylık gösterime geç" >
-<!ENTITY calendar.multiweek.button.tooltip      "Çok haftalı gösterime geç" >
+<!ENTITY calendar.multiweek.button.tooltip      "Çok haftalı görünüme geç" >
 
 <!ENTITY calendar.nextday.label                 "Sonraki gün" >
 <!ENTITY calendar.prevday.label                 "Önceki gün" >

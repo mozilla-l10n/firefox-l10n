@@ -7,13 +7,13 @@
   -->
 
 
-<!ENTITY pref.mainbox.label "Genel Ayarlar" >
-<!ENTITY pref.dateformat.label "Tarih metin biçemi:" >
+<!ENTITY pref.mainbox.label "Genel ayarlar" >
+<!ENTITY pref.dateformat.label "Tarih metni biçemi:" >
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Uzun" >
 <!ENTITY pref.dateformat.short "Kısa"  >
 
-<!ENTITY pref.timezones.caption "Saat Dilimi">
+<!ENTITY pref.timezones.caption "Saat dilimi">
 <!ENTITY pref.timezones.label "Saat diliminize en yakın şehri seçin:">
 <!ENTITY pref.timezones.accesskey "d">
 
@@ -33,7 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "Başlangıca göre">
 <!ENTITY pref.default_task_offset_next_hour.label "Sonraki saate göre">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Bugün Bölmesi">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Bugün bölmesi">
 <!ENTITY pref.soondays.label "Yaklaşan bölümünde gösterilecek süre:">
 <!ENTITY pref.soondays.accesskey "Y">
 
