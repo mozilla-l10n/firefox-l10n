@@ -55,7 +55,7 @@
 <!ENTITY fxaccount_status_manage_account "Kudeatu kontua">
 <!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
 <!ENTITY fxaccount_status_sync_now "Sinkronizatu orain">
-<!ENTITY fxaccount_status_syncing2 "SInkronizatzen…">
+<!ENTITY fxaccount_status_syncing2 "Sinkronizatzen…">
 <!ENTITY fxaccount_status_device_name "Gailuaren izena">
 <!ENTITY fxaccount_status_sync_server "Sync zerbitzaria">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
