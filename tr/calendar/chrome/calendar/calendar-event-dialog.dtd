@@ -124,8 +124,8 @@
 
 <!ENTITY  event.menu.options.label                            "Seçenekler">
 <!ENTITY  event.menu.options.accesskey                        "S">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Katılımcıları davet et…">
+<!ENTITY  event.menu.options.attendees.accesskey              "K">
 <!ENTITY  event.menu.options.timezone2.label                  "Saat dilimlerini göster">
 <!ENTITY  event.menu.options.timezone2.accesskey              "S">
 <!ENTITY  event.menu.options.priority2.label                  "Öncelik">
@@ -161,15 +161,18 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
 <!ENTITY event.remove.attendees.label2                    "Tüm katılımcıları sil">
 <!ENTITY event.remove.attendees.accesskey                 "s">
-
-
+<!ENTITY event.remove.attendee.label                      "Katılımcıyı sil">
+<!ENTITY event.remove.attendee.accesskey                  "s">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Kaydet">
+<!ENTITY  event.toolbar.saveandclose.label                "Kaydet ve kapat">
 <!ENTITY  event.toolbar.delete.label                      "Sil">
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Kaydet">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Kaydet ve kapat">
 <!ENTITY  event.toolbar.delete.tooltip                    "Sil">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Katılımcıları Davet Et">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dosya ekle">
