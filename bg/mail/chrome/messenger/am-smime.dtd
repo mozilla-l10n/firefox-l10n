@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "У">
 <!ENTITY manageDevices.label "Защитни устройства">
 <!ENTITY manageDevices.accesskey "щ">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Избор на сертификат">
+<!ENTITY certPicker.info  "Сертификат:">
+<!ENTITY certPicker.detailsLabel "Подробности за избрания сертификат:">

@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Етикетите могат да се използват за подреждане и оценяване на вашите писма.">
-<!ENTITY addTagButton.label        "Добавяне">
-<!ENTITY addTagButton.accesskey    "Д">
-<!ENTITY editTagButton.label       "Редактиране">
-<!ENTITY editTagButton.accesskey   "Р">
+<!ENTITY newTagButton.label        "Добавяне…">
+<!ENTITY newTagButton.accesskey    "Д">
+<!ENTITY editTagButton1.label      "Редактиране…">
+<!ENTITY editTagButton1.accesskey  "Р">
 <!ENTITY removeTagButton.label     "Изтриване">
 <!ENTITY removeTagButton.accesskey "И">
 

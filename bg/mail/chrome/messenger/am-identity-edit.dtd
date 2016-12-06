@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Копия и папки">
 <!ENTITY addressingTab.label    "Писане и адресиране">
 
+<!ENTITY publicData.label        "Публични данни">
+<!ENTITY privateData.label       "Лични данни">
+<!ENTITY identityAlias.label     "Етикет на идентичност:">
+<!ENTITY identityAlias.accesskey "Е">
