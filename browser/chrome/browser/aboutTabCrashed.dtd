@@ -16,7 +16,7 @@
 <!ENTITY tabCrashed.header2 "Hups. Vaša karta zlyhala.">
 <!ENTITY tabCrashed.offerHelp "Môžeme vám pomôcť!">
 <!ENTITY tabCrashed.commentPlaceholder2 "Voliteľný komentár (komentáre sú verejne dostupné)">
-<!ENTITY tabCrashed.includeURL2 "Zahrňte do tohoto hlásenia aj adresu stránky">
+<!ENTITY tabCrashed.includeURL2 "Zahrnúť do tohoto hlásenia aj adresu stránky">
 <!ENTITY tabCrashed.emailPlaceholder "Zadajte e-mailovú adresu">
 <!ENTITY tabCrashed.emailMe "Informujte ma, keď budú dostupné ďalšie informácie">
 <!ENTITY tabCrashed.reportSent "Správa o zlyhaní už bola odoslaná. Ďakujeme, že pomáhate urobiť &brandShortName; lepším!">
