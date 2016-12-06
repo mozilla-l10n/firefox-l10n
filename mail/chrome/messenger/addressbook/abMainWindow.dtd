@@ -29,7 +29,7 @@
 <!ENTITY closeCmd.label                                 "Затваряне">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "З">
-<!ENTITY printSetupCmd.label                            "Конфигуриране на страница…">
+<!ENTITY printSetupCmd.label                            "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey                        "К">
 <!ENTITY printPreviewContactCmd.label                   "Преглед за отпечатване на визитка">
 <!ENTITY printPreviewContactCmd.accesskey               "в">
