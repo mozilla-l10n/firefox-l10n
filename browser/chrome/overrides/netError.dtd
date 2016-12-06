@@ -49,6 +49,13 @@
 <p>&brandShortName; nedokáže z nejakého dôvodu načítať stránku.</p>
 ">
 
+<!ENTITY captivePortal.title "Prihlásiť sa do siete">
+<!ENTITY captivePortal.longDesc "
+<p>Pre prístup do siete sa možno budete musieť prihlásiť.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Otvoriť stránku pre prihlásenie">
+
 <!ENTITY malformedURI.title "Adresa nie je platná">
 <!ENTITY malformedURI.longDesc "
 <ul>
