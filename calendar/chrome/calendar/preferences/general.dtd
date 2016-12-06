@@ -11,7 +11,7 @@
 <!ENTITY pref.dateformat.label "日期文字格式:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "長" >
-<!ENTITY pref.dateformat.short "短" >
+<!ENTITY pref.dateformat.short "短"  >
 
 <!ENTITY pref.timezones.caption "時區">
 <!ENTITY pref.timezones.label "選擇離您的時區最近的城市:">
@@ -41,3 +41,4 @@
 <!ENTITY pref.systemcolors.label "使用較具親和力的色彩" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
+<!ENTITY pref.eventsandtasks.label "事件與工作" >
