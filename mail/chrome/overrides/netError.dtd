@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Dosyaya erişim reddedildi">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Silindiği, taşındığı ve izinleri değiştiği için erişilemiyor olabilir.</li> </ul>">
 
 <!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
@@ -78,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz içerik gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
@@ -94,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Bağlantınız güvenli değil">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu sandığınız bilgilerinizi kolayca ele geçirebilirler. Bu siteye girebilmeniz için önce site yöneticisinin sunucuyu düzeltmesi gerekir.</p><p>Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

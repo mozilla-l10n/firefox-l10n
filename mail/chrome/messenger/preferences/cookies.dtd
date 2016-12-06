@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Yolu:">
 <!ENTITY props.secure.label                "Gönderilen:">
 <!ENTITY props.expires.label               "Zaman Aşımı:">
-
+<!ENTITY props.container.label             "Kapsayıcı:">
 
 <!ENTITY window.title                      "Çerezler">
 <!ENTITY windowClose.key                   "w">

@@ -15,8 +15,8 @@
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Engelle">
 <!ENTITY block.accesskey              "g">
-
-
+<!ENTITY session.label                "Bu oturumda izin ver">
+<!ENTITY session.accesskey            "B">
 <!ENTITY allow.label                  "İzin Ver">
 <!ENTITY allow.accesskey              "e">
 <!ENTITY windowClose.key              "w">

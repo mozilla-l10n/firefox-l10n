@@ -6,16 +6,16 @@
 -->
 
 
-<!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri Denetle">
+<!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri denetle">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
-<!ENTITY update.updateButton.label2               "Güncellemek için &brandShortName; Uygulamasını Yeniden Başlat">
+<!ENTITY update.updateButton.label2               "Güncellemek için &brandShortName; uygulamasını yeniden başlat">
 <!ENTITY update.updateButton.accesskey            "G">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
 <!ENTITY warningDesc.version        "&brandShortName; deneyseldir ve kararsız olabilir.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; uygulamasını iyileştirmek için &vendorShortName; organizasyonuna otomatik olarak performans, donanım, kullanım ve özelleştirmelerle ilgili bilgi gönderir.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; uygulamasını iyileştirmek için &vendorShortName;'ya otomatik olarak performans, donanım, kullanım ve özelleştirmelerle ilgili bilgi gönderir.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "siz de katkıda bulunun!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Sürüm notları">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Lisans Bilgisi">
@@ -53,11 +54,11 @@
 <!ENTITY bottomLinks.privacy        "Gizlilik İlkeleri">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Güncelleme denetleniyor...">
+<!ENTITY update.checkingForUpdates  "Güncellemeler denetleniyor…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; güncel">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış">
+<!ENTITY update.adminDisabled       "Güncellemeler sistem yöneticiniz tarafından kapatılmış">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; başka bir kopyası tarafından şu an güncelleniyor">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
