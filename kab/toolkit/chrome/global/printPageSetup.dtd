@@ -59,7 +59,7 @@
 <!ENTITY hfDateAndTime       "Azemz/Akud">
 <!ENTITY hfPage              "Asebter #">
 <!ENTITY hfPageAndTotal      "Asebter # si  #">
-<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfBlank             "--ilem--">
 <!ENTITY hfCustom            "Sagen…">
 
 <!ENTITY customPrompt.title  "Sagen…">

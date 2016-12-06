@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "g">
 <!ENTITY saveLinkCmd.label            "Sekles aseɣwen s yisem…">
 <!ENTITY saveLinkCmd.accesskey        "S">
-<!ENTITY saveImageCmd.label           "Kles tugna s yisem…">
+<!ENTITY saveImageCmd.label           "Sekles tugna s yisem…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.label           "Kles tamwalit s yisem…">
 <!ENTITY saveVideoCmd.accesskey       "l">
