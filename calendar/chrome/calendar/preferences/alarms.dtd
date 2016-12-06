@@ -13,24 +13,24 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Gözat…">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "z">
 <!ENTITY pref.calendar.alarms.sound.play.label "Çal">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "a">
 <!ENTITY pref.showalarmbox "Anımsatıcı penceresini göster">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
 <!ENTITY pref.missedalarms "Kaçırılan anımsatıcıları göster">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "K">
 <!ENTITY pref.calendar.alarms.defaults.label "Anımsatıcı varsayılanları">
 <!ENTITY pref.defalarm4events.label "Etkinlikler için varsayılan anımsatma ayarı:">
-<!ENTITY pref.defalarm4events.accesskey "v">
+<!ENTITY pref.defalarm4events.accesskey "E">
 <!ENTITY pref.defalarm4todos.label "Görevler için varsayılan anımsatma ayarı:">
-<!ENTITY pref.defalarm4todos.accesskey "s">
+<!ENTITY pref.defalarm4todos.accesskey "G">
 <!ENTITY pref.alarm.on "Açık">
 <!ENTITY pref.alarm.off "Kapalı">
 <!ENTITY pref.defalarmlen4events.label "Etkinlikten önce anımsatıcının ayarlanacağı varsayılan süre:">
-<!ENTITY pref.defalarmlen4events.accesskey "a">
+<!ENTITY pref.defalarmlen4events.accesskey "ö">
 <!ENTITY pref.defalarmlen4todos.label "Görevden önce anımsatıcının ayarlanacağı varsayılan süre:">
 <!ENTITY pref.defalarmlen4todos.accesskey "n">
 
 <!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "y">
+<!ENTITY pref.defaultsnoozelength.accesskey "V">
