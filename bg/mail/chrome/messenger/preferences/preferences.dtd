@@ -14,7 +14,7 @@
 <!ENTITY paneComposition.title    "Съставяне">
 <!ENTITY paneChat.title           "Разговор">
 <!ENTITY paneAttachments.title    "Прикачени">
-<!ENTITY panePrivacy.title        "Лични данни">
+<!ENTITY panePrivacy.title        "Поверителност">
 <!ENTITY paneSecurity.title       "Защита">
 <!ENTITY paneAdvanced.title       "Разширени">
 <!ENTITY paneAccount.title        "Регистрации">

@@ -83,7 +83,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Преглед за отпечатване">
 <!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Конфигуриране на страница…">
+<!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "К">
 
 <!-- Edit Menu -->

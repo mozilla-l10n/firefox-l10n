@@ -50,7 +50,7 @@
 <!ENTITY sendLaterCmd.label "Изпращане по-късно">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "о">
-<!ENTITY printSetupCmd.label "Конфигуриране на страница…">
+<!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "К">
 <!ENTITY printPreviewCmd.label "Предварителен преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "П">
