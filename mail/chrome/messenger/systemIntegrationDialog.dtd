@@ -14,8 +14,8 @@
 
 <!ENTITY unsetDefault.tooltip "&brandShortName; içinden varsayılan istemciyi &brandShortName; dışında bir istemci yapamazsınız. Başka bir uygulamayı varsayılan yapmak için o uygulamanın 'Varsayılan olarak ayarla' komutunu kullanmalısınız.">
 
-<!ENTITY checkOnStartup.label "Bu denetimi &brandShortName; uygulamasının her açılışında uygula">
-<!ENTITY checkOnStartup.accesskey "B">
+<!ENTITY checkOnStartup.label "&brandShortName; her açıldığında bu denetimi yap">
+<!ENTITY checkOnStartup.accesskey "d">
 
 <!ENTITY searchIntegration.label "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
 <!ENTITY searchIntegration.accesskey "s">
