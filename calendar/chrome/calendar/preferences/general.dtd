@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Достъпност" >
 <!ENTITY pref.systemcolors.label "Цветове, оптимизирани за достъпност" >
 <!ENTITY pref.systemcolors.accesskey "Ц">
+
+<!ENTITY pref.eventsandtasks.label "Събития и задачи" >
+<!ENTITY pref.editInTab.label "Редактиране на събития и задачи в раздел вместо в диалогово прозорец." >
+<!ENTITY pref.editInTab.accesskey "с">
