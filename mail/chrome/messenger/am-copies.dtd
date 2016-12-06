@@ -9,7 +9,7 @@
 <!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
-<!ENTITY fccReplyFollowsParent.accesskey "r">
+<!ENTITY fccReplyFollowsParent.accesskey "Y">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Bu e-posta adreslerini Cc'ye ekle:">
 <!ENTITY ccAddress.accesskey "C">
@@ -27,7 +27,7 @@
 <!ENTITY sentInOtherFolder.accesskey "D">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "İleti arşivleri">
-<!ENTITY keepArchives.label "İleti arşivleri tutma yeri:">
+<!ENTITY keepArchives.label "İleti arşivlerinin tutulacağı yer:">
 <!ENTITY keepArchives.accesskey "r">
 <!ENTITY archiveHierarchyButton.label "Arşivleme seçenekleri...">
 <!ENTITY archiveHierarchyButton.accesskey "A">
@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Diğer:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
 <!ENTITY specialFolders.label "Taslaklar ve şablonlar">
-<!ENTITY keepDrafts2.label "Taslak iletileri burada tut:">
+<!ENTITY keepDrafts2.label "Taslak iletilerin tutulacağı yer:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">
 <!ENTITY draftsFolderOn.accesskey "T">

@@ -24,7 +24,7 @@
 <!ENTITY stopButton.accessKey "u">
 <!ENTITY userDictionary.label "Kişisel Sözlük:">
 <!ENTITY moreDictionaries.label "Daha fazla sözlük indir…">
-<!ENTITY addToUserDictionaryButton.label "Sözcük Ekle">
+<!ENTITY addToUserDictionaryButton.label "Sözcük ekle">
 <!ENTITY addToUserDictionaryButton.accessKey "S">
 <!ENTITY editUserDictionaryButton.label "Düzenle…">
 <!ENTITY editUserDictionaryButton.accessKey "D">
