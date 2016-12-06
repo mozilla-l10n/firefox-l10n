@@ -17,8 +17,8 @@
 <!ENTITY  button-cancel-unix.label     "रद्द गर्नुहोस्">
 
 <!ENTITY  button-back-win.label        "&lt; पछाडी">
-<!ENTITY  button-back-win.accesskey    "प">
+<!ENTITY  button-back-win.accesskey    "B">
 <!ENTITY  button-next-win.label        "अर्को &gt;">
-<!ENTITY  button-next-win.accesskey    "अ">
+<!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "समाप्त">
 <!ENTITY  button-cancel-win.label      "रद्द गर्नुहोस">

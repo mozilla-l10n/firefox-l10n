@@ -19,7 +19,7 @@
 <!ENTITY certmgr.detail.general_tab.title     "साधारण">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "विवरणहरू">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "व">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "हाल प्रमाणपत्र प्रमाणीकरण गर्दै...">
 <!ENTITY certmgr.subjectinfo.label            "यसलाई जारी गरिएको">
@@ -56,24 +56,24 @@
 <!ENTITY certmgr.view2.label                  "दृश्य…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "विश्वास सम्पादन गर्नुहोस्...">
-<!ENTITY certmgr.edit3.accesskey              "व">
-<!ENTITY certmgr.export.label                 "निर्यात गर्नुहोस्...">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.export.label                 "निर्यात गर्नुहोस्">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "मेटाउनुहोस्…">
 <!ENTITY certmgr.delete2.accesskey            "म">
 <!ENTITY certmgr.delete_builtin.label         "मेटाउनुहोस् वा अविश्वास गर्नुहोस्">
 <!ENTITY certmgr.delete_builtin.accesskey     "म">
-<!ENTITY certmgr.backup2.label                "जगेडा...">
+<!ENTITY certmgr.backup2.label                "जगेडा">
 <!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "सबैलाई जगेडामा राख्नुहोस्">
+<!ENTITY certmgr.backupall2.label             "सबैलाई जगेडामा राख्नुहोस्…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "आयात गर्नुहोस्...">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "प्रमाणपत्र क्षेत्रहरू">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "क्षेत्र मान">
-<!ENTITY certmgr.fields.accesskey             "म">
-<!ENTITY certmgr.hierarchy.label              "प्रमाणपत्र पदक्रम">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "प्रमाणपत्र स्थानक्रम">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "अपवाद थप्नुहोस्...">
 <!ENTITY certmgr.addException.accesskey       "x">
