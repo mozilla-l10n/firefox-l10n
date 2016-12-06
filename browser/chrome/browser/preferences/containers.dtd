@@ -6,7 +6,7 @@
 <!ENTITY addButton.label      "Нов изолатор">
 <!ENTITY addButton.accesskey  "и">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Назад към Лични данни">
+<!ENTITY backLink.label       "&#171; Назад към Поверителност">
 
 <!ENTITY window.title         "Нов изолатор">
 <!ENTITY window.width         "45em">

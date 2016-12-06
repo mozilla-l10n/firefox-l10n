@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Отваряне на файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Настройка на страницата…">
+<!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "Н">
 <!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "р">
