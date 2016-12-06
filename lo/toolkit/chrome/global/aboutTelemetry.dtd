@@ -56,7 +56,11 @@
 <!ENTITY aboutTelemetry.scalarsSection "Scalars
   ">
 
-<!ENTITY aboutTelemetry.histogramsSection "  Histograms">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  
+  Histograms">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 
