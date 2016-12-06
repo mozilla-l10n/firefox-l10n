@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "د">
 <!ENTITY insertLinkCmd2.label "رابط…">
 <!ENTITY insertLinkCmd2.accesskey "ر">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "مربط مسمّى…">
 <!ENTITY insertAnchorCmd.accesskey "ر">
 <!ENTITY insertImageCmd.label "صورة…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "خ">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "أزل المرابط المسماة">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ز">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
