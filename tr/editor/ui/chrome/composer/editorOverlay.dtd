@@ -231,8 +231,8 @@
 
 <!ENTITY tableSelectMenu2.label "Tablo Seç">
 <!ENTITY tableSelectMenu2.accesskey "S">
-<!ENTITY tableInsertMenu2.label "Tablo Ekle">
-<!ENTITY tableInsertMenu2.accesskey "E">
+<!ENTITY tableInsertMenu2.label "Tablo ekle">
+<!ENTITY tableInsertMenu2.accesskey "e">
 <!ENTITY tableDeleteMenu2.label "Tablo Sil">
 <!ENTITY tableDeleteMenu2.accesskey "l">
 <!-- Insert SubMenu -->

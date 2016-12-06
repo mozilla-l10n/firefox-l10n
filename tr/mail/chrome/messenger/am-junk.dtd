@@ -7,8 +7,8 @@
 <!ENTITY level.label "Bu hesap için gereksiz posta denetimini etkinleştir">
 <!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Yeni gereksiz iletieri iletileri buraya taşı:">
-<!ENTITY move.accesskey "i">
+<!ENTITY move.label "Yeni gereksiz iletileri iletileri buraya taşı:">
+<!ENTITY move.accesskey "Y">
 <!ENTITY junkFolderOn.label "&quot;Gereksiz&quot; dizini:">
 <!ENTITY junkFolderOn.accesskey "i">
 <!ENTITY otherFolder.label "Diğer:">
@@ -17,8 +17,8 @@
 <!ENTITY purge1.accesskey "s">
 <!ENTITY purge2.label "gün sonra otomatik sil">
 
-<!ENTITY whitelistHeader.label "Gönderici aşağıdakilerden birindeyse otomatik olarak gereksiz olarak işaretleme: ">
-<!ENTITY whitelistHeader.accesskey "d">
+<!ENTITY whitelistHeader.label "Gönderici aşağıdakilerden birindeyse gereksiz olarak işaretleme: ">
+<!ENTITY whitelistHeader.accesskey "G">
 
 <!ENTITY ispHeadersWarning.label "Bunu etkinleştirirseniz &brandShortName; bu harici sınıflandırıcı tarafından işaretlenen iletileri gereksiz kabul edecektir.">
 <!ENTITY ispHeaders.label "Şu gereksiz posta üstbilgilerine güven: ">

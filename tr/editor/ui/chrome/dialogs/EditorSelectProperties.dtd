@@ -36,9 +36,9 @@
 <!ENTITY ValueHeader.label "Değer">
 <!ENTITY SelectedHeader.label "Seçilmiş">
 
-<!ENTITY AddOption.label "Seçenek Ekle">
+<!ENTITY AddOption.label "Seçenek ekle">
 <!ENTITY AddOption.accesskey "n">
-<!ENTITY AddOptGroup.label "Grup Ekle">
+<!ENTITY AddOptGroup.label "Grup ekle">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Kaldır">
 <!ENTITY RemoveElement.accesskey "r">

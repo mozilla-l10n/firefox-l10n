@@ -22,14 +22,14 @@
 <!ENTITY encryption.certificate_clear.accesskey "z">
 <!ENTITY signingGroupTitle.label "Sayısal imza">
 <!ENTITY signMessage.label "Postaları sayısal olarak imzala (varsayılan)">
-<!ENTITY signMessage.accesskey "s">
+<!ENTITY signMessage.accesskey "o">
 <!ENTITY signingCert.message "Gönderdiğim iletileri sayısal olarak imzalamak için bu onay belgesini kullan:">
 
 <!ENTITY certificates.label "Sertifikalar">
 <!ENTITY manageCerts2.label "Sertifikaları yönet">
-<!ENTITY manageCerts2.accesskey "S">
+<!ENTITY manageCerts2.accesskey "r">
 <!ENTITY manageDevices.label "Güvenlik aygıtları">
-<!ENTITY manageDevices.accesskey "y">
+<!ENTITY manageDevices.accesskey "n">
 <!-- Strings for the cert picker dialog -->
 
 

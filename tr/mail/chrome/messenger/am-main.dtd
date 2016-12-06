@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "Her hesabın kendi kimliği vardır. Alıcılar bu bilgileri e-postanızı okudukları zaman görürler.">
 <!ENTITY name.label "İsminiz:">
 <!ENTITY name.accesskey "s">
-<!ENTITY email.label "Email Address:">
+<!ENTITY email.label "E-posta adresi:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Yanıt adresi:">
 <!ENTITY replyTo.accesskey "s">

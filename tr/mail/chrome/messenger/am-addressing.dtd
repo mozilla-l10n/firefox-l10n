@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bu hesap için küresel LDAP sunucu tercihlerimi kullan">
 <!ENTITY useGlobal.accesskey       "L">
-<!ENTITY editDirectories.label     "Dizinleri Düzenle…">
+<!ENTITY editDirectories.label     "Dizinleri düzenle…">
 <!ENTITY editDirectories.accesskey "e">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Farklı bir LDAP sunucusu kullan:">
@@ -31,7 +31,7 @@
 <!ENTITY aboveQuote.label                     "yanıtıma alıntının üstünden başla">
 <!ENTITY belowQuote.label                     "yanıtıma alıntının altından başla">
 <!ENTITY selectAndQuote.label                 "alıntıyı seç">
-<!ENTITY place.label                          "ve imzamı ekle">
+<!ENTITY place.label                          "ve imzamı şuraya ekle:">
 <!ENTITY place.accesskey                      "v">
 <!ENTITY belowText.label                      "alıntı metnin altına (önerilir)">
 <!ENTITY aboveText.label                      "yanıtımın altına (alıntının üstüne)">
@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "İletilenlere imza ekle">
 <!ENTITY includeSigOnForward.accesskey        "z">
 
-<!ENTITY globalComposingPrefs.label           "Genel Düzenlene Tercihleri…">
+<!ENTITY globalComposingPrefs.label           "Genel düzenleme tercihleri…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
-<!ENTITY globalAddressingPrefs.label          "Genel Adres Tercihleri…">
+<!ENTITY globalAddressingPrefs.label          "Genel adres tercihleri…">
 <!ENTITY globalAddressingPrefs.accesskey      "d">

@@ -6,13 +6,13 @@
 
 <!ENTITY accountManagerTitle.label "Hesap Ayarları">
 
-<!ENTITY accountActionsButton.label "Hesap İşlemleri">
+<!ENTITY accountActionsButton.label "Hesap işlemleri">
 <!ENTITY accountActionsButton.accesskey "H">
-<!ENTITY addMailAccountButton.label "Posta Hesabı Ekle…">
+<!ENTITY addMailAccountButton.label "Posta hesabı ekle…">
 <!ENTITY addMailAccountButton.accesskey "P">
-<!ENTITY addIMAccountButton.label "Sohbet Hesabı Ekle…">
+<!ENTITY addIMAccountButton.label "Sohbet hesabı ekle…">
 <!ENTITY addIMAccountButton.accesskey "e">
-<!ENTITY addFeedAccountButton.label "Besleme Hesabı Ekle…">
+<!ENTITY addFeedAccountButton.label "Besleme hesabı ekle…">
 <!ENTITY addFeedAccountButton.accesskey "B">
 <!ENTITY addOtherAccountButton.label "Başka hesap ekle…">
 <!ENTITY addOtherAccountButton.accesskey "B">

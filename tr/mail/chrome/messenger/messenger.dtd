@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "E">
 <!ENTITY compactVersion.label "Yoğun görünüm">
 <!ENTITY compactVersion.accesskey "Y">
-
-
+<!ENTITY folderPaneBar.label "Dizin bölmesi araç çubuğu">
+<!ENTITY folderPaneBar.accesskey "D">
 
 <!-- Sort Menu -->
 
@@ -364,8 +364,8 @@
 <!ENTITY editAsNewMsgCmd.label "Yeni ileti olarak düzenle">
 <!ENTITY editAsNewMsgCmd.accesskey "o">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Taslak iletiyi düzenle">
+<!ENTITY editDraftMsgCmd.accesskey "d">
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "s">
 <!ENTITY moveMsgToMenu.label "Taşı">
@@ -740,7 +740,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "a">
 <!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
 <!ENTITY contextEditMsgAsNew.accesskey "o">
-
+<!ENTITY contextEditDraftMsg.label "Taslak iletiyi düzenle">
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
@@ -884,8 +884,8 @@
 <!ENTITY SendMessageTo.accesskey "o">
 <!ENTITY CopyEmailAddress.label "E-posta adresini kopyala">
 <!ENTITY CopyEmailAddress.accesskey "k">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "İsmi ve e-posta adresini kopyala">
+<!ENTITY CopyNameAndEmailAddress.accesskey "m">
 <!ENTITY CopyNewsgroupName.label "Haber grubu adını kopyala">
 <!ENTITY CopyNewsgroupName.accesskey "b">
 <!ENTITY CopyNewsgroupURL.label "Haber grubu adresini kopyala">
