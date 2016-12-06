@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "פרטים על &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "תוכנת &brandShortName; היא נסיונית וייתכן שלא תהיה יציבה.">
+<!ENTITY aboutPage.warningVersion               "תוכנת &brandShortName; היא ניסיונית וייתכן שלא תהיה יציבה.">
 <!ENTITY aboutPage.telemetryStart               " הדפדפן שולח אוטומטית מידע על הביצועים, החומרה, השימוש וההתאמות האישיות בחזרה אל">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "כדי לסייע בשיפור &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 " כדי לסייע בשיפור &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "בדיקת עדכונים »">
 <!ENTITY aboutPage.checkForUpdates.checking     "בודק עדכונים…">
 <!ENTITY aboutPage.checkForUpdates.none         "אין עדכונים זמינים">
