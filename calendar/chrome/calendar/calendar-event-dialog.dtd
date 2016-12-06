@@ -190,8 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Foarstel tapasse">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Barrenfjilden sille folle wurde mei de wearden fan it tsjinfoarstel, allinnich bewarjen mei of sûnder ekstra wizigingen sil in melding nei de dielnimmers stjoere">
 <!ENTITY counter.button.original.label                    "Orizjinele gegevens tapasse">
 <!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "De fjilden sille ynsteld wurde nei de wearden fan it orizjinele barren, foardat it tsjinfoarstel makke wie">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >

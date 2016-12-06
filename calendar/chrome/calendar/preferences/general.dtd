@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Tagonklikheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimalisearje foar tagonklikheid" >
 <!ENTITY pref.systemcolors.accesskey "o">
+
+<!ENTITY pref.eventsandtasks.label "Barrens en taken" >
+<!ENTITY pref.editInTab.label "Barrens en taken bewurkje yn in ljepblêd yn stee fan yn in dialoochfinster." >
+<!ENTITY pref.editInTab.accesskey "t">
