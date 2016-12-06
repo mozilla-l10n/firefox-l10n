@@ -190,6 +190,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Прилагане на предложението">
 <!ENTITY counter.button.proposal.accesskey                "П">
+<!ENTITY counter.button.proposal.tooltip2                 "Полетата на събитието ще бъдат попълнени със стойностите от контрапредложението, но ако само запазите с или без допълнителни промени всички участници ще бъдат уведомени">
 <!ENTITY counter.button.original.label                    "Прилагане на първоначалните данни">
 <!ENTITY counter.button.original.accesskey                "п">
 <!ENTITY counter.button.original.tooltip2                 "Полетата ще бъдат попълнени с данните от първоначалното събитие преди контрапредложението">
