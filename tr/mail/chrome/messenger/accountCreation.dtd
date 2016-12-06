@@ -52,7 +52,7 @@
 <!ENTITY half-manual-test.label          "Tekrar sına">
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
-<!ENTITY manual-edit.accesskey           "E">
+<!ENTITY manual-edit.accesskey           "d">
 <!ENTITY switch-to-provisioner.label     "Yeni hesap aç">
 <!ENTITY switch-to-provisioner.accesskey "Y">
 
@@ -78,7 +78,7 @@
 <!ENTITY changeSettings.label            "Ayarları Değiştir">
 <!ENTITY changeSettings.accesskey        "A">
 
-<!ENTITY contactYourProvider.description "&brandShortName; mevcut yapılandırmayı kullanarak e-postalarınızı almanıza olanak tanıyabilir; ancak, düzgün olmayan bağlantılarla ilgili sistem yöneticisiyle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için Thunderbird SSS'ye bakın.">
+<!ENTITY contactYourProvider.description "&brandShortName; mevcut yapılandırmayı kullanarak e-postalarınızı almanızı sağlayabilir ama sorunlu bağlantılarla ilgili olarak sistem yöneticinizle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için Thunderbird SSS'ye bakın.">
 
 <!ENTITY insecureServer.tooltip.title    "Uyarı! Bu, güvensiz bir sunucu.">
 <!ENTITY insecureServer.tooltip.details  "Daha fazla ayrıntı için çembere tıklayın.">

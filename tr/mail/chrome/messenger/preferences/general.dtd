@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
 <!ENTITY playSound.label                  "Ses çıkar">
 <!ENTITY playSound1.accesskey             "S">
-
-
+<!ENTITY playSoundMac.label               "Aşağıdaki ses dosyasını çal:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
 <!ENTITY showAnimatedAlert.accesskey      "U">
 

@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Etkin">
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">
-
-
+<!ENTITY newButton.popupCopy.label "Kopyala…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Düzenle…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sil">
