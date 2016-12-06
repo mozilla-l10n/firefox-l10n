@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Ldi afaylu…">
 <!ENTITY openFileCmd.accesskey "L">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tarusi n isebtaren…">
+<!ENTITY printSetupCmd.label "Tarusi n isebtar…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Awali send asiggez">
 <!ENTITY printPreviewCmd.accesskey "s">

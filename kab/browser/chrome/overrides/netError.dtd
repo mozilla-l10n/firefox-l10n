@@ -83,7 +83,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
 
-<!ENTITY sharedLongDesc "<ul><li>Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtaren, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer Web.</li></ul>">
+<!ENTITY sharedLongDesc "<ul><li>Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">

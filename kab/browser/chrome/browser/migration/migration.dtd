@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Amarag n ukter">
 
-<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtaren, amazray, awalen uffiren d isefka nniḍen seg:">
-<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtaren, amazray, awalen uffiren d isefka nniḍen seg: ">
-<!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtaren seg: ">
+<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen seg:">
+<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen seg: ">
+<!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtar seg: ">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
