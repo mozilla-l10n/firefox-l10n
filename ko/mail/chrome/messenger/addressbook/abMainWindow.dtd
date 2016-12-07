@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "속성">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "주소록 속성">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "연락처 속성">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "메일링 리스트 속성">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "보기">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "새 목록">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editPropertiesButton.label                     "편집">
+<!ENTITY propertiesContext.label                        "속성">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "속성">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "연락처 편집">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "목록 편집">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "쓰기">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "메신저 메시지">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "새 연락처 만들기">
 <!ENTITY newlistButton.tooltip                          "새 목록 만들기">
+<!ENTITY editPropertiesButton.tooltip                   "선택한 항목 편집">
+<!ENTITY editAbPropertiesButton.tooltip                 "선택한 주소록의 속성 편집">
+<!ENTITY editContactPropertiesButton.tooltip            "선택한 연락처 편집">
+<!ENTITY editMailingListPropertiesButton.tooltip        "선택한 메일링 리스트 편집">
 <!ENTITY newmsgButton.tooltip                           "새 메시지 만들기">
 <!ENTITY newIM.tooltip                                  "인스턴트 메시지 또는 채팅 보내기">
 <!ENTITY deleteButton2.tooltip                          "선택한 항목 삭제">

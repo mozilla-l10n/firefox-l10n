@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "보안 장치 관리">
 <!ENTITY manageDevices.accesskey "y">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "인증서 선택">
+<!ENTITY certPicker.info  "인증서:">
+<!ENTITY certPicker.detailsLabel "선택한 인증서 상세 정보:">
