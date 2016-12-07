@@ -190,8 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "使用提議資料">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "將會以反對提議的內容填入事件欄位，不論是否有變更，儲存後才會通知所有與會者。">
 <!ENTITY counter.button.original.label                    "使用原始資料">
 <!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "將會以提出反對提議前的原始事件內容填入欄位">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "標題:" >
