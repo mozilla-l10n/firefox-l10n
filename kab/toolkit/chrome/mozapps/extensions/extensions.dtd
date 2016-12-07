@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "s ufus">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Tettut kra? Kra nizegrar ur ttwasefranken ara tura di &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Issin ugar">
