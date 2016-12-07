@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Tibzimin zemrent ad ttwasqedcent akken ad gent taggayin neɣ ad smizzewrent iznan-inek.">
-
-
-
-
+<!ENTITY newTagButton.label        "Amaynut…">
+<!ENTITY newTagButton.accesskey    "m">
+<!ENTITY editTagButton1.label      "Ẓreg…">
+<!ENTITY editTagButton1.accesskey  "Ẓ">
 <!ENTITY removeTagButton.label     "Kkes">
 <!ENTITY removeTagButton.accesskey "K">
 <!-- Fonts and Colors -->

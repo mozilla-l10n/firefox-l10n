@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Ad yekcem">
 <!ENTITY attachments.outgoing.label   "Ad yeffeɣ">
 
-
+<!ENTITY addCloudFileAccount1.label       "Rnu…">
+<!ENTITY addCloudFileAccount1.accesskey   "R">
 <!ENTITY addCloudFileAccount.description  "Rnu ameẓlu n usekles n useɣwen n ufaylu amaynut">
 <!ENTITY removeCloudFileAccount.label     "Kkes">
 <!ENTITY removeCloudFileAccount.accesskey "K">
