@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів листів.">
-<!ENTITY addTagButton.label        "Додати">
-<!ENTITY addTagButton.accesskey    "Д">
-<!ENTITY editTagButton.label       "Змінити">
-<!ENTITY editTagButton.accesskey   "З">
+<!ENTITY newTagButton.label        "Нова…">
+<!ENTITY newTagButton.accesskey    "Н">
+<!ENTITY editTagButton1.label      "Змінити…">
+<!ENTITY editTagButton1.accesskey  "З">
 <!ENTITY removeTagButton.label     "Вилучити">
 <!ENTITY removeTagButton.accesskey "В">
 
