@@ -15,6 +15,7 @@
 <!ENTITY addressbookPicker.label            "주소록 목록:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "연락처 검색:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "이름 또는 메일">
 
 <!ENTITY addtoToFieldMenu.label             "받는 사람에 추가">
@@ -25,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "삭제">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "속성">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "속성">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "연락처 편집">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "목록 편집">
+<!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY toButton.label                     "받는 사람에 추가">
 <!ENTITY toButton.accesskey                 "A">
