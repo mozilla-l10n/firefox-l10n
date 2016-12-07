@@ -39,7 +39,7 @@
 <!ENTITY fontsAndColors1.label   "Шрифтове и цветове">
 <!ENTITY defaultFont.label       "Шрифт по подразбиране:">
 <!ENTITY defaultFont.accesskey   "Ш">
-<!ENTITY defaultSize.label       "Размер:">
+<!ENTITY defaultSize.label       "Големина:">
 <!ENTITY defaultSize.accesskey   "е">
 <!ENTITY fontOptions.accesskey   "Д">
 <!ENTITY fontOptions.label       "Разширени…">
