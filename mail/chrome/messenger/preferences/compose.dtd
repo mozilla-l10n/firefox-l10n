@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemGeneral.label                   "Жалпы">
+
+<!ENTITY itemSpellCheck.label                "Емлені тексеру">
 
 
 
@@ -10,17 +13,17 @@
 
 
 
-
-
-
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Қаріп:">
+<!ENTITY font.accesskey                       "п">
 <!ENTITY size.label                           "Өлшемі:">
 <!ENTITY size.accesskey                       "ш">
-
-
-
-
-
-
+<!ENTITY fontColor.label                      "Мәтін түсі:">
+<!ENTITY fontColor.accesskey                  "т">
+<!ENTITY bgColor.label                        "Фон түсі:">
+<!ENTITY bgColor.accesskey                    "Ф">
+<!ENTITY restoreHTMLDefaults.label            "Бастапқы түрін қалпына келтіру">
+<!ENTITY restoreHTMLDefaults.accesskey        "р">
 
 
 
@@ -29,6 +32,12 @@
 
 <!ENTITY languagePopup.label                  "Тіл:">
 <!ENTITY languagePopup.accessKey              "л">
+<!ENTITY downloadDictionaries.label           "Көбірек сөздіктерді жүктеп алу">
+
+
+
+
+<!ENTITY autoSaveEnd.label                    "минут">
 
 
 
@@ -37,13 +46,7 @@
 
 
 
-
-
-
-
-
-
-
+<!ENTITY directoriesNone.label                 "Ешнәрсе">
 
 
 

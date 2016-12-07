@@ -24,7 +24,8 @@
 <!ENTITY attachments.incoming.label   "Кіріс">
 <!ENTITY attachments.outgoing.label   "Шығыс">
 
-
+<!ENTITY addCloudFileAccount1.label       "Қосу…">
+<!ENTITY addCloudFileAccount1.accesskey   "о">
 <!ENTITY addCloudFileAccount.description  "Жаңа Filelink сақтау қызметін қосу">
 <!ENTITY removeCloudFileAccount.label     "Өшіру">
 <!ENTITY removeCloudFileAccount.accesskey "ш">

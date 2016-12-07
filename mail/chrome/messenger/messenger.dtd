@@ -477,7 +477,7 @@
 
 <!ENTITY importCmd.label "Импорттау…">
 <!ENTITY importCmd.accesskey "м">
-<!ENTITY clearRecentHistory.label "Соңғы тарихты өшіру…">
+<!ENTITY clearRecentHistory.label "Жуырдағы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey "х">
 <!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
 <!ENTITY accountManagerCmd2.accesskey "б">

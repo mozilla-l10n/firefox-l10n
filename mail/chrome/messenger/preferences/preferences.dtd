@@ -4,7 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Баптаулар">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; баптаулары">
-
+<!ENTITY  prefWindow.titleMAC     "Баптаулар">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
@@ -14,9 +14,10 @@
 <!ENTITY paneComposition.title    "Құрастыру">
 <!ENTITY paneChat.title           "Чат">
 <!ENTITY paneAttachments.title    "Салынымдар">
-
+<!ENTITY panePrivacy.title        "Жекелік">
 <!ENTITY paneSecurity.title       "Қауіпсіздік">
 <!ENTITY paneAdvanced.title       "Кеңейтілген">
+<!ENTITY paneAccount.title        "Тіркелгілер">
 
-
-
+<!ENTITY okButton.title           "ОК">
+<!ENTITY okButton.accesskey       "О">

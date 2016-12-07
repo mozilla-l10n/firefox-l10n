@@ -3,4 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- New Tag Dialog -->
 
-
+<!ENTITY newTagDialog1.title     "Жаңа тег">
+<!ENTITY name.label              "Тег аты:">
+<!ENTITY name.accesskey          "Т">
