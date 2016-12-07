@@ -27,12 +27,12 @@
 <!ENTITY convertEmoticons.accesskey    "m">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Etiketter kan användas för att kategorisera och prioritera meddelanden.">
-<!ENTITY addTagButton.label       "Lägg till">
-<!ENTITY addTagButton.accesskey   "L">
-<!ENTITY editTagButton.label      "Redigera">
-<!ENTITY editTagButton.accesskey   "R">
-<!ENTITY removeTagButton.label    "Ta bort">
+<!ENTITY displayTagsText.label     "Etiketter kan användas för att kategorisera och prioritera meddelanden.">
+<!ENTITY newTagButton.label        "Ny…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Redigera…">
+<!ENTITY editTagButton1.accesskey  "R">
+<!ENTITY removeTagButton.label     "Ta bort">
 <!ENTITY removeTagButton.accesskey "T">
 
 <!-- Fonts and Colors -->
@@ -47,27 +47,27 @@
 <!ENTITY colorButton.accesskey   "F">
 
 <!-- Advanced -->
-<!ENTITY reading.caption               "Läsning">
-<!ENTITY display.caption               "Visning">
-<!ENTITY showCondensedAddresses.label  "Visa endast kortnamn för personer som finns i adressboken">
+<!ENTITY reading.caption                  "Läsning">
+<!ENTITY display.caption                  "Visning">
+<!ENTITY showCondensedAddresses.label     "Visa endast kortnamn för personer som finns i adressboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
-<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey   "O">
+<!ENTITY autoMarkAsRead.label             "Märk automatiskt meddelanden som lästa">
+<!ENTITY autoMarkAsRead.accesskey         "M">
+<!ENTITY markAsReadNoDelay.label          "Omedelbart vid visning">
+<!ENTITY markAsReadNoDelay.accesskey      "O">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Öppna meddelanden i:">
-<!ENTITY openMsgInNewTab.label         "en ny flik">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "ett nytt fönster">
-<!ENTITY reuseExpRadio0.accesskey      "e">
-<!ENTITY reuseExpRadio1.label          "befintligt fönster">
-<!ENTITY reuseExpRadio1.accesskey      "b">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
+<!ENTITY markAsReadDelay.label            "Efter att ha visats i">
+<!ENTITY markAsReadDelay.accesskey        "E">
+<!ENTITY secondsLabel.label               "sekunder">
+<!ENTITY openMsgIn.label                  "Öppna meddelanden i:">
+<!ENTITY openMsgInNewTab.label            "en ny flik">
+<!ENTITY openMsgInNewTab.accesskey        "n">
+<!ENTITY reuseExpRadio0.label             "ett nytt fönster">
+<!ENTITY reuseExpRadio0.accesskey         "e">
+<!ENTITY reuseExpRadio1.label             "befintligt fönster">
+<!ENTITY reuseExpRadio1.accesskey         "b">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
