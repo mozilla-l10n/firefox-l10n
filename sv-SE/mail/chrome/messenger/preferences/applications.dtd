@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label        "Typ av innehåll">
-<!ENTITY  typeColumn.accesskey    "T">
+<!ENTITY  typeColumn.label            "Typ av innehåll">
+<!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label     "Åtgärd">
-<!ENTITY  actionColumn2.accesskey "Å">
+<!ENTITY  actionColumn2.label         "Åtgärd">
+<!ENTITY  actionColumn2.accesskey     "Å">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
 <!ENTITY  filter.placeholder          "Sök">
 
@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Inkommande">
 <!ENTITY attachments.outgoing.label   "Utgående">
 
-<!ENTITY addCloudFileAccount.label        "Lägg till">
-<!ENTITY addCloudFileAccount.accesskey    "L">
+<!ENTITY addCloudFileAccount1.label       "Lägg till…">
+<!ENTITY addCloudFileAccount1.accesskey   "L">
 <!ENTITY addCloudFileAccount.description  "Lägg till en ny Filelink lagringstjänst">
 <!ENTITY removeCloudFileAccount.label     "Ta bort">
 <!ENTITY removeCloudFileAccount.accesskey "T">
