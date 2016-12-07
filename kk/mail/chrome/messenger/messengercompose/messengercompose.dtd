@@ -173,8 +173,8 @@
 <!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
 <!ENTITY accountManagerCmd2.accesskey "п">
 
-
-
+<!ENTITY preferencesCmd2.label "Баптаулар">
+<!ENTITY preferencesCmd2.accesskey "а">
 
 
 <!--  Mac OS X Window Menu -->
