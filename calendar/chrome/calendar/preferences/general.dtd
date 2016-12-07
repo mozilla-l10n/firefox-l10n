@@ -42,4 +42,5 @@
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "事件與工作" >
+<!ENTITY pref.editInTab.label "在分頁，而非對話窗中編輯事件與工作。" >
 <!ENTITY pref.editInTab.accesskey "t">
