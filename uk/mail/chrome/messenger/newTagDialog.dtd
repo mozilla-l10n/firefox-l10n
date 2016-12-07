@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Створити нову мітку">
+<!ENTITY newTagDialog1.title     "Нова мітка">
 <!ENTITY name.label              "Назва:">
 <!ENTITY name.accesskey          "Н">
