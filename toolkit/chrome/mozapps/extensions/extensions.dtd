@@ -243,3 +243,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "మాన్యువల్">
 <!ENTITY disabledUnsigned.devInfo.end "లో చెప్పినట్టు కొనసాగవచ్చు.">
+
+<!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
