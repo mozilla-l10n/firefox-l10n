@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "메시지 도착 알림">
 <!ENTITY playSound.label                  "소리로 알리기">
 <!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSoundMac.label               "다음 소리 파일 재생:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "알림창 띄우기">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings2.label "경고와 기본 소리는 시스템 환경설정의 알림에서 끌 수 있습니다.">
 <!ENTITY customizeMailAlert.label         "사용자 정의…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
