@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Compacte weergave">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Mappenvensterwerkbalk">
+<!ENTITY folderPaneBar.accesskey "v">
 <!ENTITY folderModeSelector.label "Mappenweergaven">
 
 <!-- Sort Menu -->
