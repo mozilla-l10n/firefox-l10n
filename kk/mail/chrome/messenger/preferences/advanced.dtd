@@ -5,40 +5,47 @@
 <!ENTITY itemGeneral.label       "Жалпы">
 <!ENTITY dataChoicesTab.label    "Деректер таңдауы">
 <!ENTITY itemUpdate.label        "Жаңартулар">
-
+<!ENTITY itemNetworking.label    "Желі және дискілік орын">
 <!ENTITY itemCertificates.label  "Сертификаттар">
 <!-- General Settings -->
 
+<!ENTITY enableGlodaSearch.label       "Глобалды іздеуді және индекстеуді іске қосу">
+<!ENTITY enableGlodaSearch.accesskey   "е">
+<!ENTITY allowHWAccel.label            "Қолжетерлік болса құрылғылық үдетуді қолдану">
+<!ENTITY allowHWAccel.accesskey        "р">
+<!ENTITY storeType.label               "Жаңа тіркелгілер үшін хабарламаларды сақтау түрі:">
+<!ENTITY storeType.accesskey           "т">
+<!ENTITY mboxStore2.label              "Бума үшін файл (mbox)">
+<!ENTITY maildirStore.label            "Хабарлама үшін файл (maildir)">
 
-
-
-
-
-
-
+<!ENTITY scrolling.label               "Айналдыру">
 <!ENTITY useAutoScroll.label           "Автоматты айналдыруды қолдану">
 <!ENTITY useAutoScroll.accesskey       "в">
 <!ENTITY useSmoothScrolling.label      "Байсалды айналдыруды қолдану">
 <!ENTITY useSmoothScrolling.accesskey  "й">
 
-
-
-
-
-
-
+<!ENTITY systemIntegration.label       "Жүйелік интеграция">
+<!ENTITY alwaysCheckDefault.label      "Әр қосылған кезде &brandShortName; жүйедегі негізгі пошта клиенті екенін тексеру">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "&searchIntegration.engineName; үшін хабарламалардан іздеуді рұқсат ету">
+<!ENTITY searchIntegration.accesskey   "з">
+<!ENTITY checkDefaultsNow.label        "Қазір тексеру…">
+<!ENTITY checkDefaultsNow.accesskey    "з">
 <!ENTITY configEditDesc.label          "Кеңейтілген баптаулар">
-
-
+<!ENTITY configEdit.label              "Баптаулар түзеткіші…">
+<!ENTITY configEdit.accesskey          "Б">
 
 
 
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Телеметрия">
+<!ENTITY telemetryDesc.label             "Эл. пошта клиентіңіздің өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
+<!ENTITY enableTelemetry.label           "Телеметрияны іске қосу">
+<!ENTITY enableTelemetry.accesskey       "Т">
+<!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
-
-
-
+<!ENTITY crashReporterSection.label      "Құлаулар хабаршысы">
 
 
 
