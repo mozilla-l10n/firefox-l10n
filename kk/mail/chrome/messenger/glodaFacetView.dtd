@@ -8,7 +8,13 @@
 <!ENTITY glodaFacetView.filters.label "Сүзгiлер">
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
+
+<!ENTITY glodaFacetView.loading.label "Іздеу&#8230;">
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
+
+<!ENTITY glodaFacetView.empty.label "Іздеуіңізге сай келетін хабарламалар табылмады">
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
+
+<!ENTITY glodaFacetView.pageMore.label "Көбірек »">

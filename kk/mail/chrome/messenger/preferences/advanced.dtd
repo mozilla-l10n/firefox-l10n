@@ -46,19 +46,21 @@
 <!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
 <!ENTITY crashReporterSection.label      "Құлаулар хабаршысы">
-
-
-
-
+<!ENTITY crashReporterDesc.label         "&brandShortName; эл. пошта клиентіңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды &vendorShortName; адресіне жібереді">
+<!ENTITY enableCrashReporter.label       "Құлаулар хабарлаушысын іске қосу">
+<!ENTITY enableCrashReporter.accesskey   "с">
+<!ENTITY crashReporterLearnMore.label    "Көбірек білу">
 <!-- Update -->
 
-
-
-
-
-
-
-
+<!ENTITY updateApp.label                 "&brandShortName; жаңартулары:">
+<!ENTITY updateAuto.label                "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
+<!ENTITY updateAuto.accesskey            "а">
+<!ENTITY updateCheck.label               "Жаңартуларды тексеру, бірақ орнату уақытын өзім тандаймын">
+<!ENTITY updateCheck.accesskey           "м">
+<!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
+<!ENTITY updateManual.accesskey          "р">
+<!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
+<!ENTITY updateHistory.accesskey         "р">
 
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
@@ -69,10 +71,11 @@
 <!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке қосылу параметрлерін баптау">
 <!ENTITY connectionsInfo.caption       "Байланыс">
 <!ENTITY offlineInfo.caption           "Желіде емес">
+<!ENTITY offlineInfo.label             "Желіден тыс баптаулары">
+<!ENTITY showOffline.label             "Желіден тыс…">
+<!ENTITY showOffline.accesskey         "ы">
 
-
-
-
+<!ENTITY Diskspace                       "Дискідегі орын">
 
 
 

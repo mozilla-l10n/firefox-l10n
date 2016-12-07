@@ -19,6 +19,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Латын">
 <!ENTITY  font.langGroup.japanese                 "Жапон">
 <!ENTITY  font.langGroup.trad-chinese             "Қытайша дәстүрлі (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Қытай оңайлатылған">
@@ -26,7 +28,7 @@
 <!ENTITY  font.langGroup.korean                   "Корея">
 <!ENTITY  font.langGroup.cyrillic                 "Кириллица">
 <!ENTITY  font.langGroup.el                       "Грек">
-
+<!ENTITY  font.langGroup.other                    "Басқа жазу жүйелері">
 <!ENTITY  font.langGroup.thai                     "Тай">
 <!ENTITY  font.langGroup.hebrew                   "Иврит">
 <!ENTITY  font.langGroup.arabic                   "Арабша">
@@ -41,14 +43,15 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
 <!ENTITY  font.langGroup.khmer                    "Кхмер">
 <!ENTITY  font.langGroup.malayalam                "Малайялам">
-
-
-
-
-
-
+<!ENTITY  font.langGroup.math                     "Математика">
+<!ENTITY  font.langGroup.odia                     "Ория">
+<!ENTITY  font.langGroup.telugu                   "Телугу">
+<!ENTITY  font.langGroup.kannada                  "Каннада">
+<!ENTITY  font.langGroup.sinhala                  "Сингальдық">
+<!ENTITY  font.langGroup.tibetan                  "Тибет">
 <!-- Minimum font size -->
-
+<!ENTITY minSize.label                            "Қаріптің ең кіші өлшемі:">
+<!ENTITY minSize.accesskey                        "л">
 <!ENTITY minSize.none                             "Жоқ">
 <!-- default font type -->
 
