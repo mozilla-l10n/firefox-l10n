@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м"> 
 
-<!ENTITY clearRecentHistory.label               "Соңғы тарихты өшіру…">
+<!ENTITY clearRecentHistory.label               "Жуырдағы тарихты өшіру…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Баптауды аяқтау">
 <!ENTITY appMenuHistory.label "Тарих">
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
-<!ENTITY appMenuHistory.clearRecent.label "Соңғы тарихты өшіру…">
+<!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
@@ -877,7 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Бұл әрекетті болдырмау мүмкін емес болады.">
 <!ENTITY panicButton.view.forgetButton            "Ұмыту!">
 
-<!ENTITY panicButton.thankyou.msg1                "Сіздің соңғы тарихыңыз өшірілген.">
+<!ENTITY panicButton.thankyou.msg1                "Жуырдағы тарихыңыз өшірілген.">
 <!ENTITY panicButton.thankyou.msg2                "Қауіпсіз шолу!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Рахмет!">
 
