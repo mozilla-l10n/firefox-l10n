@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Inkomend">
 <!ENTITY attachments.outgoing.label   "Uitgaand">
 
-<!ENTITY addCloudFileAccount.label        "Toevoegen">
-<!ENTITY addCloudFileAccount.accesskey    "T">
+<!ENTITY addCloudFileAccount1.label       "Toevoegen…">
+<!ENTITY addCloudFileAccount1.accesskey   "T">
 <!ENTITY addCloudFileAccount.description  "Een nieuwe Filelink-opslagservice toevoegen">
 <!ENTITY removeCloudFileAccount.label     "Verwijderen">
 <!ENTITY removeCloudFileAccount.accesskey "V">
