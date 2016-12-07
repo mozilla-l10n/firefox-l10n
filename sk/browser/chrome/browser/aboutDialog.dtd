@@ -41,8 +41,8 @@
 <!ENTITY helpus.donateLink          "Zašlite svoj príspevok">
 <!ENTITY helpus.middle              " alebo ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "sa zapojte">
-<!ENTITY helpus.end                 ".">
+<!ENTITY helpus.getInvolvedLink     "sa zapojte!">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Čo je nové">
 
