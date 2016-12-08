@@ -15,7 +15,7 @@
 
 <!ENTITY serverDescription.label "Анықтамасы: ">
 
-
+<!ENTITY serverPort.label "Порт: ">
 <!ENTITY userName.label   "Пайдаланушы аты:">
 
 
