@@ -29,3 +29,4 @@
 <!ENTITY error.noSource2 "No se ha encontrado ningún vídeo que tenga un formato y tipo MIME compatibles.">
 <!ENTITY error.generic "La reproducción del vídeo se ha interrumpido por un error desconocido.">
 <!ENTITY scrubberScale.nameFormat "Transcurridos #1 de #2">
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
