@@ -6,7 +6,7 @@
 <!ENTITY accounts.title                      "Contas - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
-<!ENTITY accountsWindow.title                "Contas de bate-papo">
+<!ENTITY accountsWindow.title                "Status do mensageiro instantâneo">
 <!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Nova conta">
@@ -32,9 +32,9 @@
 <!ENTITY account.movedown.label       "Para baixo">
 <!ENTITY account.cancelReconnection.label         "Cancelar reconexão">
 <!ENTITY account.cancelReconnection.accesskey     "A">
-<!ENTITY account.copyDebugLog.label     "Copiar Log de Debug">
+<!ENTITY account.copyDebugLog.label     "Copiar o registro de depuração">
 <!ENTITY account.copyDebugLog.accesskey "C">
-<!ENTITY account.showDebugLog.label     "Exibir Log de Debug">
+<!ENTITY account.showDebugLog.label     "Mostrar o registro de depuração">
 <!ENTITY account.showDebugLog.accesskey "E">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
