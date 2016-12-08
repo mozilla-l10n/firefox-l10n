@@ -71,6 +71,9 @@ Ping
 <!ENTITY aboutTelemetry.threadHangStatsSection "
   Cuelgues de hilos
 ">
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Pilas capturadas
+">
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares
 ">
@@ -81,6 +84,9 @@ Ping
 ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogramas con leyendas">
+<!ENTITY aboutTelemetry.eventsSection "
+  Eventos
+">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medidas simples
 ">
