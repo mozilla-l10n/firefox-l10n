@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Tömör nézet">
 <!ENTITY compactVersion.accesskey "T">
-
-
+<!ENTITY folderPaneBar.label "Mappa ablaktábla eszköztár">
+<!ENTITY folderPaneBar.accesskey "a">
 <!ENTITY folderModeSelector.label "Mappanézetek">
 <!-- Sort Menu -->
 
