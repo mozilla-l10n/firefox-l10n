@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "E">
 <!ENTITY insertLinkCmd2.label "Ere…">
 <!ENTITY insertLinkCmd2.accesskey "r">
-
+<!ENTITY insertLinkCmd2.key "i">
 <!ENTITY insertAnchorCmd.label "Eor anvet…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Skeudenn…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "d">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Dilemel an eorioù anvet">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
