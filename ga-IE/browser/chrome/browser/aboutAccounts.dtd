@@ -13,4 +13,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Ní mór duit a bheith ceangailte leis an Idirlíon le logáil isteach.">
 <!ENTITY aboutAccounts.noConnection.retry "Bain triail eile as">
 <!ENTITY aboutAccounts.badConfig.title "Droch-chumraíocht">
-
+<!ENTITY aboutAccounts.badConfig.description "Ní féidir cumraíocht freastalaí an chuntais Firefox a fháil. Bain triail eile as ar ball.">
