@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet Planet Mozilla
+#define planet Pláinéad Mozilla
 
 
 #unfilter emptyLines
