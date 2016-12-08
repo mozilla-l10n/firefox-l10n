@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Envíeme un correo electrónico cuando haya más información disponible">
 <!ENTITY tabCrashed.reportSent "Informe de fallo enviado. ¡Gracias por ayudar a mejorar a &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit "Solicitar pestañas en segundo plano">
+<!ENTITY tabCrashed.autoSubmit "Actualizar preferencias para enviar automáticamente informes de fallos atrasados (y tener menos mensajes como este en el futuro)">
