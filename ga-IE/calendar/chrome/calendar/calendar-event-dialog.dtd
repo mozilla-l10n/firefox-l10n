@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Cuireadh ar leith do gach rannpháirtí">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Ná ceadaigh fritograí">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Léiríonn seo nach nglacfaidh tú le fritograí">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -78,7 +78,7 @@
 
 <!ENTITY  event.menu.item.save.label                      "Sábháil">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Sábháil agus Dún">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Scrios…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -165,11 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "a">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Sábháil">
+<!ENTITY  event.toolbar.saveandclose.label                "Sábháil agus Dún">
 <!ENTITY  event.toolbar.delete.label                      "Scrios">
 <!ENTITY  event.toolbar.attendees.label                   "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY  event.toolbar.privacy.label                     "Príobháideachas">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Sábháil">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Sábháil agus Dún">
 <!ENTITY  event.toolbar.delete.tooltip                    "Scrios">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY  event.toolbar.attachments.tooltip               "Cuir Iatáin Leis">
@@ -185,10 +188,12 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Cuir an moladh i bhfeidhm">
+<!ENTITY counter.button.proposal.accesskey                "m">
+<!ENTITY counter.button.proposal.tooltip2                 "Líonfaidh na réimsí isteach leis na luachanna ón fhritogra. Ní mór duit é a shábháil lena chur in iúl do na rannpháirtithe go léir.">
+<!ENTITY counter.button.original.label                    "Cuir na bunsonraí i bhfeidhm">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Líonfaidh na réimsí isteach leis na sonraí ón mbunimeacht, sula ndearnadh an fritogra">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teideal:" >
@@ -407,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Seans go mbeidh mé i láthair">
 <!ENTITY read.only.needs.action.label    "Dearbhóidh mé níos déanaí">
 <!ENTITY read.only.reminder.label        "Meabhrúchán:">
-
+<!ENTITY read.only.attachments.label     "Iatáin:">
 <!ENTITY read.only.attendees.label       "Rannpháirtithe">
 <!ENTITY read.only.description.label     "Cur Síos">
 <!ENTITY read.only.link.label            "Nasc Gaolta">

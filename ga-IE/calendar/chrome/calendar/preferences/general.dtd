@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Roghnaigh na dathanna is fearr ó thaobh inrochtaineachta" >
 <!ENTITY pref.systemcolors.accesskey "d">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Imeachtaí agus Tascanna" >
+<!ENTITY pref.editInTab.label "Cuir imeachtaí agus tascanna in eagar i gcluaisín seachas i bhfuinneog." >
+<!ENTITY pref.editInTab.accesskey "t">
