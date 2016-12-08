@@ -5,7 +5,7 @@
 <!ENTITY securityTitle.label "Қауіпсіздік">
 <!ENTITY securityTab.label "Қауіпсіздік">
 
-
+<!ENTITY encryptionGroupTitle.label "Шифрлеу">
 
 
 
@@ -31,5 +31,5 @@
 <!ENTITY manageDevices.label "Қорғаныс жабдықтары">
 <!ENTITY manageDevices.accesskey "ж">
 <!-- Strings for the cert picker dialog -->
-
+<!ENTITY certPicker.info  "Сертификат:">
 

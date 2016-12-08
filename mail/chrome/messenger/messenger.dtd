@@ -269,7 +269,7 @@
 <!ENTITY findAgainCmd.label "Іздеуді қайталау">
 <!ENTITY findAgainCmd.accesskey "з">
 
-
+<!ENTITY findAgainCmd.key2 "VK_F3">
 
 
 
@@ -605,10 +605,12 @@
 
 <!ENTITY folderNameColumn.label "Аты">
 
-
+<!ENTITY folderTotalColumn.label "Жалпы">
 <!ENTITY folderSizeColumn.label "Өлшемі">
 <!-- Folder Pane Context Menu -->
 
+<!ENTITY folderContextGetMessages.label "Хабарламаларды алу">
+<!ENTITY folderContextGetMessages.accesskey "л">
 <!ENTITY folderContextOpenInNewWindow.label "Жаңа терезеде ашу">
 <!ENTITY folderContextOpenInNewWindow.accesskey "т">
 <!ENTITY folderContextOpenNewTab.label "Жаңа бетте ашу">
@@ -637,12 +639,12 @@
 
 
 
+<!ENTITY folderContextProperties2.label "Қасиеттері">
+<!ENTITY folderContextProperties2.accesskey "с">
 
 
-
-
-
-
+<!ENTITY folderContextSettings2.label "Баптаулар">
+<!ENTITY folderContextSettings2.accesskey "а">
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
