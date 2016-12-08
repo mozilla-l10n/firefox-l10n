@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "u">
 <!ENTITY showAnimatedAlert.label          "Taispeáin airdeall">
 <!ENTITY showAnimatedAlert.accesskey      "s">
-
+<!ENTITY notificationAlertSettings2.label "Is féidir foláirimh agus an fhuaim réamhshocraithe a dhíchumasú sa bpána Fógraí i Sainroghanna an Chórais.">
 <!ENTITY customizeMailAlert.label         "Saincheap…">
 <!ENTITY customizeMailAlert.accesskey     "c">
 

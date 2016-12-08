@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Dlúthamharc">
 <!ENTITY compactVersion.accesskey "D">
-
-
+<!ENTITY folderPaneBar.label "Barra Uirlisí Phána na bhFillteán">
+<!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "Amhairc Fhillteáin">
 <!-- Sort Menu -->
 
