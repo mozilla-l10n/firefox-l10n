@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Színek optimalizálása" >
 <!ENTITY pref.systemcolors.accesskey "S">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Események és feladatok" >
+<!ENTITY pref.editInTab.label "Események és feladatok szerkesztése ablak helyett lapon." >
+<!ENTITY pref.editInTab.accesskey "m">
