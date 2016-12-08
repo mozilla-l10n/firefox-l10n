@@ -176,3 +176,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Los desarrolladores interesados en conseguir que sus complementos sean verificados pueden continuar leyendo nuestro ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+<!ENTITY pluginDeprecation.description "¿Echa algo en falta? Algunos plugins ya no están admitidos por &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Saber más.">
