@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Lorgfhocail Mheabhrúcháin Iatáin">
 <!ENTITY attachKeywordText.label          "Tabhairfaidh &brandShortName; rabhadh duit maidir le hiatáin atá ar iarraidh má tá tú ar tí teachtaireacht a sheoladh ina bhfuil ceann de na lorgfhocail seo.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Nua…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Eagar…">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Scrios">
 <!ENTITY removeKeywordButton.accesskey    "S">

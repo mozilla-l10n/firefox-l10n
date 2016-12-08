@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí agus sonraí eile ó:">
 <!ENTITY importFromNonWin.label         "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí, agus sonraí eile ó:">
-
+<!ENTITY importSourceNotFound.label     "Níor aimsíodh feidhmchlár le sonraí a iompórtáil uaidh.">
 
 <!ENTITY importFromNothing.label        "Ná hiompórtáil rud ar bith">
 <!ENTITY importFromNothing.accesskey    "N">

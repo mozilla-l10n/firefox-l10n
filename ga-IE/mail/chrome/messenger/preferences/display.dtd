@@ -28,10 +28,10 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Is féidir clibeanna a úsáid le catagóirí agus tosaíochtaí a chur le do chuid teachtaireachtaí.">
-
-
-
-
+<!ENTITY newTagButton.label        "Nua…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Eagar…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Scrios">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
