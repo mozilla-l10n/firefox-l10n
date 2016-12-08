@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Otimizar as cores para acessibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">
+
+<!ENTITY pref.eventsandtasks.label "Eventos e tarefas" >
+<!ENTITY pref.editInTab.label "Editar eventos e tarefas em uma nova aba ao invés de em uma nova janela." >
+<!ENTITY pref.editInTab.accesskey "t">
