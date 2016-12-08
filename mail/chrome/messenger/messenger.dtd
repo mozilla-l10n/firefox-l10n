@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra de vista de tareas">
+<!ENTITY folderPaneBar.accesskey "t">
 <!ENTITY folderModeSelector.label "Vistas de carpeta">
 
 <!-- Sort Menu -->
