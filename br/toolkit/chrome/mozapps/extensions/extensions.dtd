@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "dornlevr">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Mankout 'ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret gant &brandShortName; ken.">
 
