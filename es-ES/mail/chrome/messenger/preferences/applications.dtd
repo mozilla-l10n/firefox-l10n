@@ -19,8 +19,8 @@
 <!ENTITY chooseFolderMac.accesskey "E">
 <!ENTITY attachments.incoming.label "Entrante">
 <!ENTITY attachments.outgoing.label "Saliente">
-<!ENTITY addCloudFileAccount.label "Añadir">
-<!ENTITY addCloudFileAccount.accesskey "A">
+<!ENTITY addCloudFileAccount1.label "Añadir…">
+<!ENTITY addCloudFileAccount1.accesskey "d">
 <!ENTITY addCloudFileAccount.description "Añadir un nuevo servicio de almacenamiento Filelink">
 <!ENTITY removeCloudFileAccount.label "Eliminar">
 <!ENTITY removeCloudFileAccount.accesskey "m">

@@ -152,6 +152,7 @@
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Barra de herramientas del panel de carpetas">
+<!ENTITY folderPaneBar.accesskey "h">
 <!ENTITY folderModeSelector.label "Vistas de carpeta">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
