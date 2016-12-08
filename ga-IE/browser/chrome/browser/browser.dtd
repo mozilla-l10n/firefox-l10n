@@ -393,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Cuardaigh nó cuir seoladh isteach">
 <!ENTITY urlbar.accesskey             "m">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Eisínteacht:">
 <!ENTITY urlbar.switchToTab.label     "Téigh go cluaisín:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "An bhfuil fonn ort do chuardaigh a fheabhsú trí mholtaí a sheoladh?">

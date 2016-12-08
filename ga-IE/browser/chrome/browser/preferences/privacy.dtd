@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Tuilleadh eolais">
 <!ENTITY  browserContainersEnabled.label        "Cumasaigh Cluaisíní Coimeádáin">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Socruithe…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
