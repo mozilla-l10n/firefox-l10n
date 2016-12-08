@@ -426,8 +426,8 @@
 <!ENTITY updater_downloading_title_failed2 "La descarga falló">
 <!ENTITY updater_downloading_select2 "Pulse para aplicar una vez descargada">
 <!ENTITY updater_downloading_retry2 "Pulse para reintentar">
-<!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
-<!ENTITY updater_apply_select2 "Pulse para actualizar">
+<!ENTITY updater_apply_title3 "Actualización descargada para &brandShortName;">
+<!ENTITY updater_apply_select3 "Toque para instalar">
 <!ENTITY updater_permission_text "Para descargar archivos y actualizaciones, permita a &brandShortName; acceder al almacenamiento.">
 <!ENTITY updater_permission_allow "Permitir">
 <!ENTITY new_guest_session "Abrir sesión invitado">
