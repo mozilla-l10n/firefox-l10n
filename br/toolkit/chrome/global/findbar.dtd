@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Kavout an tamm frazenn war-lerc'h o klotañ ganti">
 <!ENTITY previous.tooltip "Kavout an tamm frazenn kent o klotañ ganti">
 <!ENTITY findCloseButton.tooltip "Serriñ ar varrenn glask">
-
-
+<!ENTITY highlightAll.label "Sklêrijennañ pep tra">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Sklêrijennañ pep tamm frazenn o klotañ ganti">
 <!ENTITY caseSensitive.label "Tirenneg">
 <!ENTITY caseSensitive.accesskey "T">
