@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Account manager window for Instantbird -->
-<!ENTITY accounts.title                      "帳戶——&brandShortName;">
+<!ENTITY accounts.title                      "帳號 - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                "即時訊息狀態">
@@ -17,7 +17,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "未設定帳號">
-<!ENTITY accountManager.noAccount.description "請點下 &accountManager.newAccount.label; 按鈕讓 &brandShortName; 帶您進行設定帳號。">
+<!ENTITY accountManager.noAccount.description "請點擊 &accountManager.newAccount.label; 按鈕讓 &brandShortName; 帶您進行設定帳號。">
 <!ENTITY account.autoSignOn.label     "啟動時登入">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "連線">
@@ -39,4 +39,3 @@
 <!ENTITY account.connecting           "連線中…">
 <!ENTITY account.disconnecting        "正在離線…">
 <!ENTITY account.disconnected         "未連線">
-
