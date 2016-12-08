@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "kézikönyv">
 <!ENTITY disabledUnsigned.devInfo.end " elolvasásával.">
 
-
+<!ENTITY pluginDeprecation.description "Hiányzik valami? Néhány bővítményt már nem támogat a &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "További tudnivalók.">
