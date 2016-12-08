@@ -41,6 +41,7 @@
 <!ENTITY connectionSettings.accesskey "o">
 <!ENTITY httpCache.label "Contenido web en caché">
 <!ENTITY offlineStorage2.label "Contenido web sin conexión y datos de usuario">
+<!ENTITY siteData.label "Datos del sitio">
 <!ENTITY limitCacheSizeBefore.label "Limitar la caché a">
 <!ENTITY limitCacheSizeBefore.accesskey "m">
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
