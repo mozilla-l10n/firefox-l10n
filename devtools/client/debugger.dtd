@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "Сорсът е в черна кутия: всички точки на прекъсване са изключени и постъпковото изпълнение прескача този код.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Кодът е в черна кутия: всички точки на прекъсване са изключени и постъпковото изпълнение го прескача.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
@@ -88,7 +88,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource           "Показване на оригиналния сорс">
+<!ENTITY debuggerUI.showOriginalSource           "Показване на оригиналния код">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
@@ -167,7 +167,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "Обслужващи нишки">
-<!ENTITY debuggerUI.tabs.sources        "Сорсове">
+<!ENTITY debuggerUI.tabs.sources        "Изходни файлове">
 <!ENTITY debuggerUI.tabs.traces         "Проследявания">
 <!ENTITY debuggerUI.tabs.callstack      "Стек на извиквания">
 <!ENTITY debuggerUI.tabs.variables      "Променливи">
