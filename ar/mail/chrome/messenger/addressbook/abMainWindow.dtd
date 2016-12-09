@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "الخصائص">
+<!ENTITY propertiesMenu.accesskey                       "خ">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "خصائص دفتر العناوين">
+<!ENTITY abPropertiesMenu.accesskey                     "ص">
+<!ENTITY contactPropertiesMenu.label                    "خصائص جهة الاتصال">
+<!ENTITY contactPropertiesMenu.accesskey                "ص">
+<!ENTITY mailingListPropertiesMenu.label                "خصائص القائمة البريدية">
+<!ENTITY mailingListPropertiesMenu.accesskey            "ق">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "اعرض">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "ج">
 <!ENTITY newlistButton.label                            "قائمة جديدة">
 <!ENTITY newlistButton.accesskey                        "ق">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "حرّر">
+<!ENTITY propertiesContext.label                        "الخصائص">
+<!ENTITY propertiesContext.accesskey                    "خ">
+<!ENTITY abPropertiesContext.label                      "الخصائص">
+<!ENTITY abPropertiesContext.accesskey                  "خ">
+<!ENTITY editContactContext.label                       "حرر جهة الاتصال">
+<!ENTITY editContactContext.accesskey                   "ح">
+<!ENTITY editMailingListContext.label                   "حرر القائمة">
+<!ENTITY editMailingListContext.accesskey               "ح">
 <!ENTITY newmsgButton.label                             "اكتب">
 <!ENTITY newmsgButton.accesskey                         "ك">
 <!ENTITY newIM.label                                    "رسالة فورية">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "أنشئ متراسل جديد في دفتر العناوين">
 <!ENTITY newlistButton.tooltip                          "أنشئ قائمة جديدة">
 <!ENTITY editPropertiesButton.tooltip                   "حرّر العنصر المُختار">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "حرر خصائص دفتر العناوين المُحدّد">
+<!ENTITY editContactPropertiesButton.tooltip            "حرّر جهة الاتصال المُحدّدة">
+<!ENTITY editMailingListPropertiesButton.tooltip        "حرّر القائمة البريدية المُحدّدة">
 <!ENTITY newmsgButton.tooltip                           "أرسِل رسالة بريد">
 <!ENTITY newIM.tooltip                                  "أرسِل رسالة فورية أو دردشة">
 <!ENTITY deleteButton2.tooltip                          "احذف العنصر المُختار">
