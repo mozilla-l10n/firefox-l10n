@@ -76,7 +76,14 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Vlastnosti">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Vlastnosti adresára">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Vlastnosti kontaktu">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Zobraziť">
@@ -132,6 +139,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nový zoznam">
 <!ENTITY newlistButton.accesskey                        "z">
+<!ENTITY editPropertiesButton.label                     "Upraviť">
+<!ENTITY propertiesContext.label                        "Vlastnosti">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Vlastnosti">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Upraviť kontakt">
+<!ENTITY editContactContext.accesskey                   "U">
+<!ENTITY editMailingListContext.label                   "Upraviť zoznam">
+<!ENTITY editMailingListContext.accesskey               "U">
 <!ENTITY newmsgButton.label                             "Nová správa">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Rýchla správa">
@@ -144,6 +160,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Vytvoriť nový kontakt adresára">
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
+<!ENTITY editPropertiesButton.tooltip                   "Upraviť označenú položku">
+<!ENTITY editAbPropertiesButton.tooltip                 "Upraviť vlastnosti vybratého adresára">
+<!ENTITY editContactPropertiesButton.tooltip            "Upraviť označený kontakt">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">

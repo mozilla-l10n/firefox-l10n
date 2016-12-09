@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Povolený">
 <!ENTITY newButton.label "Nový…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Kopírovať…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Upraviť…">
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Odstrániť">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY helpButton.label "Pomocník">
 <!ENTITY helpButton.accesskey "P">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Hľadať filtre podľa názvu…">
+
+
+

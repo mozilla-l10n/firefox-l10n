@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Pri prijatí novej správy">
 <!ENTITY playSound.label                  "Prehrať zvuk">
 <!ENTITY playSound1.accesskey             "h">
+<!ENTITY playSoundMac.label               "Prehrať nasledovný zvukový súbor:">
+<!ENTITY playSoundMac.accesskey           "z">
 <!ENTITY showAnimatedAlert.label          "Zobraziť upozornenie">
 <!ENTITY showAnimatedAlert.accesskey      "b">
+<!ENTITY notificationAlertSettings2.label "Upozornenia a predvolené zvuky môžete zakázať v nastaveniach systému na paneli Notifikácie.">
 <!ENTITY customizeMailAlert.label         "Prispôsobiť…">
 <!ENTITY customizeMailAlert.accesskey     "o">
 
