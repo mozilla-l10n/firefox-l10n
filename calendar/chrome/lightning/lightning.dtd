@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odmietnuť pozvánku na udalosť">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odmietnuť všetky">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odmietnuť pozvánku na všetky opakovania udalosti">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Odmietnuť">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Odmietnuť protinávrh">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Vymazať">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Odstrániť z kalendára">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ďalšie možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opäť potvrdiť">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Odošlať opätovné potvrdenie organizátorovi">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Preplánovať">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Preplánovať udalosť">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložiť kópiu">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Uložiť kópiu udalosti do kalendára nezávisle na odpovedi organizátorovi. Zoznam účastníkov bude vymazaný.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Predbežne prijať">
