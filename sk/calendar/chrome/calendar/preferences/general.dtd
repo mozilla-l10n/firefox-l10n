@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Zjednodušenie ovládania" >
 <!ENTITY pref.systemcolors.label "Optimalizovať farby pre zjednodušenie ovládania" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.eventsandtasks.label "Udalosti a úlohy" >
+<!ENTITY pref.editInTab.label "Upravovať udalosti a úlohy na karte namiesto dialógového okna." >
+<!ENTITY pref.editInTab.accesskey "r">
