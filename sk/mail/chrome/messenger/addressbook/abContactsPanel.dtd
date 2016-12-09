@@ -2,6 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Vlastnosti">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Vlastnosti adresára">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Vlastnosti kontaktu">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adresár:">
 <!ENTITY addressbookPicker.accesskey        "A">
@@ -15,6 +23,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "S">
 <!ENTITY deleteAddrBookCard.label           "Odstrániť">
 <!ENTITY deleteAddrBookCard.accesskey       "O">
+<!ENTITY propertiesContext.label            "Vlastnosti">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Vlastnosti">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Upraviť kontakt">
+<!ENTITY editContactContext.accesskey       "U">
+<!ENTITY editMailingListContext.label       "Upraviť zoznam">
+<!ENTITY editMailingListContext.accesskey   "U">
 
 <!ENTITY toButton.label                     "Pridať do Komu:">
 <!ENTITY toButton.accesskey                 "K">
