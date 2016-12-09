@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "S">
 <!ENTITY manageDevices.label "Bezpečnostné zariadenia">
 <!ENTITY manageDevices.accesskey "e">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Vyberte certifikát">
+<!ENTITY certPicker.info  "Certifikát:">
+<!ENTITY certPicker.detailsLabel "Podrobnosti vybraného certifikátu:">
