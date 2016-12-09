@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "افحص الرسائل الجديدة كل ">
 <!ENTITY biffStart.accesskey "ف">
 <!ENTITY biffEnd.label "دقائق">
-<!ENTITY useIdleNotifications.label "اسمح بتنبيهات الخادوم الفورية عند وصول رسائل جديدة">
+<!ENTITY useIdleNotifications.label "اسمح بتنويهات الخادوم الفورية عند وصول رسائل جديدة">
 <!ENTITY useIdleNotifications.accesskey "س">
 <!ENTITY connectionSecurity.label "أمن الاتصال:">
 <!ENTITY connectionSecurity.accesskey "ص">

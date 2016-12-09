@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "إلى">
 <!ENTITY fromField4.label "من">
 <!ENTITY senderField4.label "المرسِل">
-
+<!ENTITY author.label "المؤلف">
 <!ENTITY organizationField4.label "المنظمة">
 <!ENTITY replyToField4.label "رد إلى">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "أرشِف">
 <!ENTITY hdrArchiveButton1.tooltip "أرشِف هذه الرسالة">
-
-
+<!ENTITY hdrOpenConversationButton1.label "محادثة">
+<!ENTITY hdrOpenConversationButton1.tooltip "أظهر المحادثة التي تحتوي هذه الرسالة">
 <!ENTITY hdrSmartReplyButton1.label "ردّ ذكي">
 <!ENTITY hdrReplyButton1.label "ردّ">
 <!ENTITY hdrReplyButton2.tooltip "ردّ على مُرسِل هذه الرسالة">

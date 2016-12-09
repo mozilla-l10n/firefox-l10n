@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "ض">
 <!ENTITY acctName.label           "الاسم:">
 <!ENTITY acctName.accesskey       "س">
-
+<!ENTITY noModulesFound.label     "لم يُعثر على أي تطبيق أو ملف لاستيراد البيانات منه.">
 
 <!ENTITY back.label               "&lt; السابق">
 <!ENTITY forward.label            "التالي &gt;">

@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "النُّسخ و المجلدات">
 <!ENTITY addressingTab.label    "التحرير و العنْوَنة">
 
-
-
-
+<!ENTITY publicData.label        "البيانات العلنية">
+<!ENTITY privateData.label       "البيانات السرية">
+<!ENTITY identityAlias.label     "عنوان الهوية:">
+<!ENTITY identityAlias.accesskey "ع">

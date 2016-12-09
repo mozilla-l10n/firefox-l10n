@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "مُفعّل">
 <!ENTITY newButton.label "جديد…">
 <!ENTITY newButton.accesskey "ج">
-
-
+<!ENTITY newButton.popupCopy.label "انسخ…">
+<!ENTITY newButton.popupCopy.accesskey "س">
 <!ENTITY editButton.label "حرر…">
 <!ENTITY editButton.accesskey "ح">
 <!ENTITY deleteButton.label "احذف">
