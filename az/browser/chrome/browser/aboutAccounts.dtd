@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Bağlantı yoxdur">
 <!ENTITY aboutAccounts.noConnection.description "Daxil olmaq üçün internetə bağlı olmalısınız.">
 <!ENTITY aboutAccounts.noConnection.retry "Təkrar yoxla">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Səhv konfiqurasiya">
+<!ENTITY aboutAccounts.badConfig.description "Firefox Hesabınızın server konfiqurasiyası təyin edilə bilmədi. Lütfən daha sonra təkrar yoxlayın.">

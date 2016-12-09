@@ -94,7 +94,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "e">
 <!ENTITY cmd.askToActivate.label              "Aktivləşdirmək üçün Soruş">
 <!ENTITY cmd.askToActivate.tooltip            "Bu əlavəni işlətmək üçün hər dəfə soruş">
-<!ENTITY cmd.alwaysActivate.label             "Hər Zaman Aktiv">
+<!ENTITY cmd.alwaysActivate.label             "Həmişə Aktiv">
 <!ENTITY cmd.alwaysActivate.tooltip           "Bu əlavəni hər zaman istifadə et">
 <!ENTITY cmd.neverActivate.label              "Heç Vaxt Aktiv Olmasın">
 <!ENTITY cmd.neverActivate.tooltip            "Bu əlavəni heç vaxt işlətmə">
