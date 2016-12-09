@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; and Mozilla permission to use the feedback to improve their applications, to publish the feedback on their websites, and to distribute the feedback.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Las políticas de privacidad para los productos de &vendorShortName; pueden encontrarse ">
@@ -43,6 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; ofrece servicios opcionales basados en la red (&quot;Servicios&quot;) que están disponibles para su uso con esta versión binaria de &brandShortName; como se describe a continuación.  Algunos de estos servicios (tales como las sugerencias de complementos y los servicios de actualización, de navegaciòn segura o la notificación de la función de ubicación geográfica) están habilitadas por defecto.  Si no desea utilizar ninguno de estos servicios o los siguientes términos le resultan inaceptables, existen instructivos para deshabilitar alguna función o servicio en particular ">
 <!ENTITY rights3.webservices-b "aquí">
 <!ENTITY rights3.webservices-c ". Otras funciones y Servicios pueden ser habilitados o no en las preferencias de la aplicación.">
 
@@ -64,10 +66,15 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navegación con ubicación geográfica: ">
+<!ENTITY rights.locationawarebrowsing-b "es siempre opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta función completamente, siga los siguientes pasos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abrir las preferencias de la aplicación">
+<!ENTITY rights.locationawarebrowsing-term2 "Seleccionar el panel principal de &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Select the option to &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; y Mozilla junto a sus colaboradores, licenciatarios y socios trabajan para suministrar sus servicios de la manera más actualizada y segura posible. Sin embargo, no podemos garantizar que esta información es exhaustiva y libre de errorer.  Por ejemplo, el servicio de navegación segura puede no identificar fehacientemente algunos sitios riesgosos como también aseverar que algunos sitios son seguros y el servicio de ubicación geográfica da datos aproximados. Ni nosotros ni ninguno de nuestros proveedores garantizan la precisión de las ubicaciones suministradas.">
+
 <!ENTITY rights.webservices-term1 "&vendorShortName; puede discontinuar o cambiar los servicios según considere oportuno.">
 <!ENTITY rights.webservices-term2 "Puede usar estos servicios con la versión de &brandShortName;, y tiene plenos derechos para hacerlo. &vendorShortName; y sus licenciatarios se reservan todos los demás derechos en cuanto a los servicios. Estos términos no tienen la intención de limitar ningún derecho otorgado por una licencia de código abierto aplicable a &brandShortName; y las versiones correspondientes en base al código de &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Los servicios son ofrecidos &quot;tal como está.&quot;  &vendorShortName;, sus contribuyentes, licenciatarios y distribuidores rechazan toda clase de garantía, explícita o implícita, incluídas, sin perjuicio de lo antes mencionado, las garantías de que el servicio es comercializable y que cumple con sus necesidades particulares. Usted acepta el riesgo que implica seleccionar este servicio para su propósito así como a la calidad y el desempeño del servicio. Algunas jurisdicciones no permiten la exclusión o limitación de las garantías implícitas, por lo tanto, esta exención de responsabilidad puede no ser aplicable en su caso.">
