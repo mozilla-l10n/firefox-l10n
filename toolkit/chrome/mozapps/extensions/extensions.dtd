@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handbókina">
 <!ENTITY disabledUnsigned.devInfo.end " okkar.">
 
-
+<!ENTITY pluginDeprecation.description "Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt af &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Lesa meira.">
