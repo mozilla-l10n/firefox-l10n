@@ -163,10 +163,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "u">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Shrani">
+<!ENTITY  event.toolbar.saveandclose.label                "Shrani in zapri">
 <!ENTITY  event.toolbar.delete.label                      "Izbriši">
 <!ENTITY  event.toolbar.attendees.label                   "Povabi udeležence">
 <!ENTITY  event.toolbar.privacy.label                     "Zasebnost">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Shrani">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Shrani in zapri">
 <!ENTITY  event.toolbar.delete.tooltip                    "Izbriši">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Povabi udeležence">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dodaj priponke">
@@ -404,6 +408,7 @@
 <!ENTITY read.only.tentative.label       "Morebiti se udeležim">
 <!ENTITY read.only.needs.action.label    "Udeležbo potrdim kasneje">
 <!ENTITY read.only.reminder.label        "Opomnik:">
+<!ENTITY read.only.attachments.label     "Priponke:">
 <!ENTITY read.only.attendees.label       "Udeleženci">
 <!ENTITY read.only.description.label     "Opis">
 <!ENTITY read.only.link.label            "Sorodna povezava">
