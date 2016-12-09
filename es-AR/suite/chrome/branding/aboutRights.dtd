@@ -68,6 +68,7 @@
 <!ENTITY rights.locationawarebrowsing-b "es siempre opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta función completamente, siga los siguientes pasos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abrir las preferencias de la aplicación">
 <!ENTITY rights.locationawarebrowsing-term2 "Seleccionar el panel principal de &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Seleccione la opción &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
 <!-- points 0-6 text for branded builds -->
