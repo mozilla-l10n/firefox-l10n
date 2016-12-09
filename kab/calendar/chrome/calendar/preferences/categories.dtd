@@ -7,6 +7,9 @@
   -->
 
 
+<!ENTITY pref.categories.new.title "Rnu taggayt">
+<!ENTITY pref.categories.newButton.label "Rnu...">
+<!ENTITY pref.categories.newButton.accesskey "R">
 <!ENTITY pref.categories.edit.title "Ẓreg taggayt">
 <!ENTITY pref.categories.editButton.label "Ẓreg...">
 <!ENTITY pref.categories.editButton.accesskey "Ẓ">
