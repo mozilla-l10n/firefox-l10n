@@ -48,8 +48,8 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "l">
-<!ENTITY  acceptThirdParty.always.label   "Hər zaman">
-<!ENTITY  acceptThirdParty.never.label    "Heç zaman">
+<!ENTITY  acceptThirdParty.always.label   "Həmişə">
+<!ENTITY  acceptThirdParty.never.label    "Heç vaxt">
 <!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">
 
 <!ENTITY  keepUntil.label               "Saxlama limiti:">
