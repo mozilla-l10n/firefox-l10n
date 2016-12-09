@@ -16,7 +16,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, винаги до вас">
 <!ENTITY firstrun_sync_subtext "Синхронизирайте разделите, паролите и всичко друго където и да сте.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
-<!ENTITY firstrun_signin_button "Впишете се в Sync">
+<!ENTITY firstrun_signin_button "Вписване в Sync">
 <!ENTITY  onboard_start_button_browser "Започнете да сърфирате">
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
