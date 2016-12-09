@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "عند وصول رسالة جديدة:">
 <!ENTITY playSound.label                  "شغّل ملفًا صوتيًا">
 <!ENTITY playSound1.accesskey             "ت">
-
-
+<!ENTITY playSoundMac.label               "شغل ملف الصوت التالي:">
+<!ENTITY playSoundMac.accesskey           "ش">
 <!ENTITY showAnimatedAlert.label          "اعرض تنبيهًا">
 <!ENTITY showAnimatedAlert.accesskey      "ر">
 
