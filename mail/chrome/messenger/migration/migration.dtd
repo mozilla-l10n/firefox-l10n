@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "استورد الخيارات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
 <!ENTITY importFromNonWin.label         "استورد التفضيلات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
-
+<!ENTITY importSourceNotFound.label     "لم يُعثر على أي تطبيق لاستيراد البيانات منه.">
 
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "س">

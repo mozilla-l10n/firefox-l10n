@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "الوارد">
 <!ENTITY attachments.outgoing.label   "الصادر">
 
-
+<!ENTITY addCloudFileAccount1.label       "أضف…">
+<!ENTITY addCloudFileAccount1.accesskey   "ض">
 <!ENTITY addCloudFileAccount.description  "أضِف خدمة تخزين ملفات على الإنترنت جديدة">
 <!ENTITY removeCloudFileAccount.label     "أزِل">
 <!ENTITY removeCloudFileAccount.accesskey "ل">
