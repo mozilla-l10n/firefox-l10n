@@ -338,6 +338,8 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Скрывать панель &brandShortName; при прокрутке страницы вниз">
 <!ENTITY pref_tab_queue_title3 "Очередь вкладок">
 <!ENTITY pref_tab_queue_summary4 "Сохраните ссылки до следующего открытия &brandShortName;.">
+<!ENTITY pref_compact_tabs "Компактные вкладки">
+<!ENTITY pref_compact_tabs_summary "Отображать два столбца вкладок в лотке вкладок в портретном режиме">
 <!ENTITY page_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">

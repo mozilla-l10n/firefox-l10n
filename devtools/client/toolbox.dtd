@@ -54,6 +54,11 @@
 <!ENTITY options.stylesheetSourceMaps.tooltip "Показывать оригинальные исходники (напр. файлы Sass) в Редакторе стилей и Инспекторе">
 <!ENTITY options.stylesheetAutocompletion.label "Автодополнение CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Автодополнение свойств, значений и селекторов CSS в Редакторе Стилей по мере набора">
+<!ENTITY options.screenshot.label "Настройки снятия скриншотов">
+<!ENTITY options.screenshot.clipboard.label "Копировать скриншот в буфер обмена">
+<!ENTITY options.screenshot.clipboard.tooltip "Копировать скриншот прямо в буфер обмена">
+<!ENTITY options.screenshot.audio.label "Проигрывать звук затвора камеры">
+<!ENTITY options.screenshot.audio.tooltip "Проигрывать звук щелчка затвора камеры при снятии скриншота">
 <!ENTITY options.commonPrefs.label "Общие настройки">
 <!ENTITY options.enablePersistentLogs.label "Включить непрерывные логи">
 <!ENTITY options.enablePersistentLogs.tooltip "Если вы включите эту опцию, то Веб-консоль и Сетевой монитор не будет очищать вывод при каждом переходе на новую страницу">
