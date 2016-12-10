@@ -13,7 +13,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-<!ENTITY tabCrashed.header2 "Ihuh. Iccer inek aken kan yeɣli.">
+<!ENTITY tabCrashed.header2 "Ihuh. Akken kan yeɣli yiccer-inek.">
 <!ENTITY tabCrashed.offerHelp "NEzmer ak-d-nefk afus!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Fren &tabCrashed.restoreTab; akken ad d-saliḍ agbur n usebter .">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-saliḍ agbur n usebter.">

@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Ihuh, ay-agi dirit.">
+<!ENTITY restorepage.errorTitle     "Ihuh, dirit waya.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; yufa-d uguren di tririt n isfuyla d yiccaren. Ay-agi yeḍra-d stmetilt n yiwen usebter web i d-ldiḍ melmi kan.">
 <!ENTITY restorepage.tryThis        "Tzemrem ad tɛerḍem:">
 <!ENTITY restorepage.restoreSome    "Kess yiwen neɣ ugar n yiccaren i tɣileḍ d-aɣbalu n wugur">
