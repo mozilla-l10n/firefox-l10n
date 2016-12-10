@@ -339,6 +339,8 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Nascondi la barra degli strumenti di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title3 "Accoda schede">
 <!ENTITY pref_tab_queue_summary4 "Salva link fino alla successiva apertura di &brandShortName;.">
+<!ENTITY pref_compact_tabs "Schede compatte">
+<!ENTITY pref_compact_tabs_summary "Visualizza le schede su due colonne nella barra delle schede in modalità verticale">
 <!ENTITY page_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_name "Nome">
