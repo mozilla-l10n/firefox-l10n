@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Otimizar cores para acessibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Eventos e tarefas" >
+<!ENTITY pref.editInTab.label "Editar eventos e tarefas num separador em vez de numa janela." >
+<!ENTITY pref.editInTab.accesskey "t">
