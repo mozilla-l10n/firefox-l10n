@@ -8,6 +8,8 @@
   -->
 
 <!ENTITY pref.categories.new.title "Новая категория">
+<!ENTITY pref.categories.newButton.label "Создать…">
+<!ENTITY pref.categories.newButton.accesskey "о">
 <!ENTITY pref.categories.edit.title "Изменить категорию">
 <!ENTITY pref.categories.editButton.label "Изменить…">
 <!ENTITY pref.categories.editButton.accesskey "И">
