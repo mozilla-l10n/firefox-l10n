@@ -190,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Gosod y cynnig">
 <!ENTITY counter.button.proposal.accesskey                "y">
-
+<!ENTITY counter.button.proposal.tooltip2                 "Bydd meysydd digwyddiad yn cael eu llanw gan ddefnyddio'r gwerthoedd o'r gwrth-gynnig, bydd dim ond ei gadw gyda neu heb newidiadau ac yn hysbysu'r holl fynychwyr ohono.">
 <!ENTITY counter.button.original.label                    "Gosod y data gwreiddiol">
 <!ENTITY counter.button.original.accesskey                "g">
-
+<!ENTITY counter.button.original.tooltip2                 "Bydd y meysydd yn cael eu gosod i'r gwerthoedd o'r digwyddiad gwreiddiol, cyn i'r gwrth-gynnig gael ei wneud">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
@@ -412,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Efallai y byddaf yn mynychu">
 <!ENTITY read.only.needs.action.label    "Byddaf yn cadarnhau yn ddiweddarach">
 <!ENTITY read.only.reminder.label        "Atgoffwr:">
-
+<!ENTITY read.only.attachments.label     "Atodiadau:">
 <!ENTITY read.only.attendees.label       "Mynychwyr">
 <!ENTITY read.only.description.label     "Disgrifiad">
 <!ENTITY read.only.link.label            "Dolenni Perthnasol">
