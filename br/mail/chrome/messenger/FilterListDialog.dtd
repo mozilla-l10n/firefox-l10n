@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Gweredekaet">
 <!ENTITY newButton.label "Nevez…">
 <!ENTITY newButton.accesskey "N">
-
-
+<!ENTITY newButton.popupCopy.label "Eilañ...">
+<!ENTITY newButton.popupCopy.accesskey "E">
 <!ENTITY editButton.label "Embann…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Dilemel">

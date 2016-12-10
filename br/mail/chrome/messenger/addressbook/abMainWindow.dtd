@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Perzhioù">
+<!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Perzhioù ar c'harned chomlec'h">
+<!ENTITY abPropertiesMenu.accesskey                     "P">
+<!ENTITY contactPropertiesMenu.label                    "Perzhioù an darempred">
+<!ENTITY contactPropertiesMenu.accesskey                "d">
+<!ENTITY mailingListPropertiesMenu.label                "Perzhioù ar roll skignañ">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Gwelout">
