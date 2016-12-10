@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Dostopnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
 <!ENTITY pref.systemcolors.accesskey "m">
+
+<!ENTITY pref.eventsandtasks.label "Dogodki in opravila" >
+<!ENTITY pref.editInTab.label "Uredi dogodke in opravila v zavihku namesto v pogovornem oknu." >
+<!ENTITY pref.editInTab.accesskey "U">
