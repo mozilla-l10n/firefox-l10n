@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >
 <!ENTITY pref.systemcolors.accesskey "M">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Digwyddiadau a Thasgau" >
+<!ENTITY pref.editInTab.label "Golygu digwyddiadau a thasgau mewn tab yn lle mewn ffenestr deialog." >
+<!ENTITY pref.editInTab.accesskey "t">
