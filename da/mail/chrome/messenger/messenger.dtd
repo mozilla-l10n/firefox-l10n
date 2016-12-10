@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Kompakt visning">
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Værktøjslinje for mapper">
+<!ENTITY folderPaneBar.accesskey "æ">
 <!ENTITY folderModeSelector.label "Mappevisninger">
 
 <!-- Sort Menu -->
@@ -588,7 +589,6 @@
 <!ENTITY chatButton.tooltip "Vis fanebladet Chat">
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
-
 <!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
 
 <!-- Toolbar Button Popup -->
