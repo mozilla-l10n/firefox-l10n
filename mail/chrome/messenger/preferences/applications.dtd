@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "A receber">
 <!ENTITY attachments.outgoing.label   "A enviar">
 
-
+<!ENTITY addCloudFileAccount1.label       "Adicionar…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "Adicionar um novo serviço de armazenamento Filelink">
 <!ENTITY removeCloudFileAccount.label     "Remover">
 <!ENTITY removeCloudFileAccount.accesskey "R">
