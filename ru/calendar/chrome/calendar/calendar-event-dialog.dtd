@@ -78,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Сохранить">
 <!ENTITY  event.menu.item.save.accesskey                  "х">
+<!ENTITY  event.menu.item.save.tab.accesskey              "л">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -86,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Сохранить и закрыть">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "р">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "я">
 
 <!ENTITY  event.menu.item.delete.label                    "Удалить…">
 <!ENTITY  event.menu.item.delete.accesskey                "У">
@@ -188,8 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Использовать предложение">
 <!ENTITY counter.button.proposal.accesskey                "ж">
+<!ENTITY counter.button.proposal.tooltip2                 "Поля событий будут заполнены с использованием значений из контрпредложения, только сохранение с или без дополнительных изменений будет соответственно уведомлять всех участников">
 <!ENTITY counter.button.original.label                    "Использовать оригинальные данные">
 <!ENTITY counter.button.original.accesskey                "л">
+<!ENTITY counter.button.original.tooltip2                 "Полям будут присвоены значения из исходного события, прежде чем было сделано контрпредложение">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Название:" >
