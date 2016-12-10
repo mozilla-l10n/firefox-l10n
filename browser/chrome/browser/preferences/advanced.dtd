@@ -35,12 +35,12 @@
 <!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
 
-<!ENTITY telemetryDesc.label             "Partilha com a &vendorShortName; o desempenho, utilização, hardware e personalizações do navegador para ajudar a melhorar o &brandShortName;">
+<!ENTITY telemetryDesc.label             "Partilha dados de desempenho, utilização, hardware e personalização acerca do seu navegador com a &vendorShortName; para ajudar-nos a fazer o &brandShortName; melhor">
 <!ENTITY enableTelemetryData.label       "Partilha de dados adicionais (isto é, Telemetria)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber mais">
 
-<!ENTITY crashReporterDesc2.label         "Relatórios de falha ajudam a &vendorShortName; a reparar problemas e fazer o seu navegador mais estável e seguro">
+<!ENTITY crashReporterDesc2.label         "Os relatórios de falha ajudam a &vendorShortName; a reparar problemas e fazer o seu navegador mais estável e seguro">
 <!ENTITY alwaysSubmitCrashReports.label   "Permitir que o &brandShortName; envie relatórios de falha pendentes em seu nome">
 <!ENTITY alwaysSubmitCrashReports.accesskey "n">
 <!ENTITY crashReporterLearnMore.label     "Saber mais">
