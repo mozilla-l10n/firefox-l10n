@@ -7,9 +7,9 @@
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Egenskaber for adressebog">
 <!ENTITY abPropertiesMenu.accesskey         "E">
-<!ENTITY contactPropertiesMenu.label        "Egenskaber for kontakter">
+<!ENTITY contactPropertiesMenu.label        "Egenskaber for kontakt">
 <!ENTITY contactPropertiesMenu.accesskey    "E">
-<!ENTITY mailingListPropertiesMenu.label    "Egenskaber for mailinglister">
+<!ENTITY mailingListPropertiesMenu.label    "Egenskaber for mailingliste">
 <!ENTITY mailingListPropertiesMenu.accesskey "E">
 
 <!ENTITY addressbookPicker.label            "Adressebog:">
@@ -24,7 +24,7 @@
 <!ENTITY propertiesContext.accesskey        "E">
 <!ENTITY abPropertiesContext.label          "Egenskaber">
 <!ENTITY abPropertiesContext.accesskey      "E">
-<!ENTITY editContactContext.label           "Rediger kontakter">
+<!ENTITY editContactContext.label           "Rediger kontakt">
 <!ENTITY editContactContext.accesskey       "R">
 <!ENTITY editMailingListContext.label       "Rediger liste">
 <!ENTITY editMailingListContext.accesskey   "R">

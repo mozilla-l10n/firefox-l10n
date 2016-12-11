@@ -235,7 +235,7 @@
 <!ENTITY calendar.context.findcalendar.label "Find kalender…">
 <!ENTITY calendar.context.findcalendar.accesskey "F">
 <!ENTITY calendar.context.deleteserver2.label          "Slet kalender…">
-<!ENTITY calendar.context.deleteserver2.accesskey      "S">
+<!ENTITY calendar.context.deleteserver2.accesskey      "t">
 <!ENTITY calendar.context.removeserver.label           "Fjern kalender…">
 <!ENTITY calendar.context.removeserver.accesskey       "F">
 <!ENTITY calendar.context.unsubscribeserver.label      "Stop abonnement på kalender…">
