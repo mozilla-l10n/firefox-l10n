@@ -6,7 +6,7 @@
 <!ENTITY  checking.title                  "Έλεγχος για ενημερώσεις">
 <!ENTITY  updateCheck.label               "Έλεγχος για νεότερες εκδόσεις του &brandShortName;…">
 
-<!ENTITY  noupdatesfound.title            "Δεν υπάρχουν ενημερώσεις">
+<!ENTITY  noupdatesfound.title            "Δεν βρέθηκαν ενημερώσεις">
 <!ENTITY  noupdatesautoenabled.intro      "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Ο &brandShortName; θα ελέγχει
                                            σε περιοδικά χρονικά διαστήματα για ενημερώσεις.">
 <!ENTITY  noupdatesautodisabled.intro     "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Παρακαλώ ελέγξτε ξανά αργότερα ή ενεργοποιήστε
@@ -22,15 +22,15 @@
 <!ENTITY  manualUpdateGetMsg.label        "Μπορείτε πάντα να κάνετε λήψη της νέας έκδοσης του &brandShortName; από το:">
 
 <!ENTITY  unsupported.title               "Μη υποστηριζόμενο σύστημα">
-<!ENTITY  unsupported.label               "Ο &brandShortName; δεν είναι ενημερωμένος, αλλά η τελευταία του έκδοση
-                                           δεν υποστηρίζεται από το σύστημα σας. Αναβαθμίστε το σύστημα σας και προσπαθήστε ξανά.
-                                           You will not see this notice again, but you can">
-<!ENTITY  unsupportedLink.label           "Διαβάστε περισσότερα.">
+<!ENTITY  unsupported.label               "Το &brandShortName; σας είναι παρωχημένο, αλλά η πιο πρόσφατη έκδοση δεν
+                                           υποστηρίζεται από το σύστημά σας. Παρακαλώ αναβαθμίστε το σύστημά σας και, έπειτα, δοκιμάστε ξανά.
+                                           Δεν θα δείτε ξανά αυτή τη σημείωση, αλλά μπορείτε να">
+<!ENTITY  unsupportedLink.label           "μάθετε περισσότερα.">
 
-<!ENTITY  clickHere.label                 "Πατήστε εδώ">
+<!ENTITY  clickHere.label                 "Προβολή περισσότερων πληροφοριών σχετικά με αυτή την ενημέρωση">
 
-<!ENTITY  evangelism.desc                 "Σας συστήνουμε να εγκαταστήσετε αυτή την ενημέρωση
-                                           για τον &brandShortName; όσο το δυνατόν πιο σύντομα.">
+<!ENTITY  evangelism.desc                 "Προτείνεται να εφαρμόσετε αυτή την 
+                                           ενημέρωση για το &brandShortName; όσο το δυνατόν πιο σύντομα.">
 
 <!ENTITY  downloadPage.title              "Γίνεται λήψη του &brandShortName;">
 <!ENTITY  downloading.intro               "Οι παρακάτω ενημερώσεις εγκαθίστανται/εγκαταστάθηκαν:">
@@ -54,7 +54,7 @@
 <!ENTITY  errorpatching.intro             "Η μερική ενημέρωση δεν μπορεί να εφαρμοσθεί. 
                                            Ο &brandShortName; θα προσπαθήσει ξανά να κάνει λήψη ολόκληρης της ενημέρωσης.">
 
-<!ENTITY  genericBackgroundError.label    "Ο &brandShortName; δεν μπόρεσε να εντοπίσει το αν υπάρχει διαθέσιμη ενημέρωση. Παρακαλώ
+<!ENTITY  genericBackgroundError.label    "Το &brandShortName; δεν μπορεί να προσδιορίσει αν υπάρχει διαθέσιμη ενημέρωση. Παρακαλώ
                                            βεβαιωθείτε ότι έχετε εγκατεστημένη την πιο πρόσφατη έκδοση του &brandShortName; από:">
 
 <!ENTITY  finishedPage.title              "Η ενημέρωση είναι έτοιμη για εγκατάσταση">
@@ -65,13 +65,13 @@
                                            και είναι έτοιμη για εγκατάσταση.">
 <!ENTITY  finishedBackground.name         "Ενημέρωση:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
-                                            να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
+<!ENTITY  finishedBackground.more         "Η ενημέρωση θα εγκατασταθεί κατά την επόμενη εκκίνηση του &brandShortName;. Μπορείτε
+                                           να επανεκκινήσετε το &brandShortName; τώρα, ή να συνεχίσετε να εργάζεστε και να κάνετε επανεκκίνηση αργότερα.">
 <!ENTITY  finishedBackground.moreElevated "Η ενημέρωση απαιτεί δικαιώματα διαχειριστή. Η ενημέρωση
                                            θα εγκατασταθεί την επόμενη φορά που ο &brandShortName; θα ξεκινήσει. Μπορείτε είτε να επανεκκινήσετε το
                                            &brandShortName; τώρα, είτε να συνεχίσετε τη δουλειά σας και να επανεκκινήσετε αργότερα, είτε να αρνηθείτε
                                            την ενημέρωση.">
 
 <!ENTITY  update.details.label            "Λεπτομέρειες">
-<!ENTITY  update.installedOn.label        "Εγκαταστάθηκε σε:">
+<!ENTITY  update.installedOn.label        "Εγκαταστάθηκε στις:">
 <!ENTITY  update.status.label             "Κατάσταση:">
