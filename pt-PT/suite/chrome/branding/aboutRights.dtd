@@ -25,7 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 <!-- point 2d is technically point 3. in the list -->
 
-<!ENTITY rights.intro-point2d "Algumas funcionalidades no &brandShortName;, tais como o Relator de erros, dão-lhe a opção de fornecer feedback à &vendorShortName;. Ao escolher enviar feedback, dá ao &vendorShortName; a autorização para usar o feedback na melhoria das suas publicações, para publicar o feedback nos seus websites e para distribuir o feedback.">
+<!ENTITY rights.intro-point2d "Algumas funcionalidades no &brandShortName;, tais como o Relator de erros, dão-lhe a opção de fornecer feedback à &vendorShortName;. Ao escolher enviar feedback, dá ao &vendorShortName; a autorização para usar o feedback para melhorar as suas aplicações, para publicar o feedback nos seus websites, e para distribuir o feedback.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos da &vendorShortName; podem ser encontradas ">
