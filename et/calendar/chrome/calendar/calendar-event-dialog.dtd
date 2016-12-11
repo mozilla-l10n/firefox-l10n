@@ -190,8 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Rakenda ettepanek">
 <!ENTITY counter.button.proposal.accesskey                "R">
+<!ENTITY counter.button.proposal.tooltip2                 "Sündmuse väljad täidetakse automaatselt vastuettepaneku põhjal. Osalejaid teavitatakse (lisa)muudatustest salvestamisel.">
 <!ENTITY counter.button.original.label                    "Rakenda algsed andmed">
 <!ENTITY counter.button.original.accesskey                "a">
+<!ENTITY counter.button.original.tooltip2                 "Väljad lähtestatakse algse sündmuse põhjal, kui vastuettepanekut polnud veel tehtud">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
@@ -410,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "Pole otsustanud">
 <!ENTITY read.only.needs.action.label    "Kinnitan hiljem">
 <!ENTITY read.only.reminder.label        "Meeldetuletus:">
+<!ENTITY read.only.attachments.label     "Manused:">
 <!ENTITY read.only.attendees.label       "Osalejad">
 <!ENTITY read.only.description.label     "Kirjeldus">
 <!ENTITY read.only.link.label            "Seotud viide">
