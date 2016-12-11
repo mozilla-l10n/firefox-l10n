@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Πρόβλημα φόρτωσης σελίδας">
-<!ENTITY retry.label "Προσπαθήστε ξανά">
+<!ENTITY retry.label "Δοκιμή ξανά">
 <!ENTITY returnToPreviousPage.label "Επιστροφή">
 <!ENTITY advanced.label "Για προχωρημένους">
 
@@ -72,39 +72,39 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Το έγγραφο έληξε">
-<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην μνήμη του &brandShortName;.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Το ζητούμενο έγγραφο δεν είναι διαθέσιμο στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Ως μέτρο ασφαλείας, το &brandShortName; δεν ζητά εκ νέου τα ευαίσθητα έγγραφα.</li><li>Κάντε κλικ στο Δοκιμή ξανά για να εκ νέου αίτηση του εγγράφου από την ιστοσελίδα.</li></ul>">
 
-<!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
+<!ENTITY netOffline.title "Λειτουργία εκτός σύνδεσης">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li>
+  <li>Πατήστε το &quot;Δοκιμή ξανά&quot; για εναλλαγή σε λειτουργία εντός σύνδεσης και εκ νέου φόρτωση της σελίδας.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Σφάλμα κωδικοποίησης περιεχομένου">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li>
+  <li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Μη ασφαλής τύπος αρχείου">
+<!ENTITY unsafeContentType.title "Επισφαλής τύπος αρχείου">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li>
+  <li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
+<!ENTITY netReset.title "Έγινε επαναφορά της σύνδεσης">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
+<!ENTITY netTimeout.title "Το χρονικό όριο σύνδεσης έληξε">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Δεν έγινε κατανοητή η διεύθυνση">
+<!ENTITY unknownProtocolFound.title "Η διεύθυνση δεν έγινε κατανοητή">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Ίσως να χρειάζεται να εγκαταστήσετε κάποιο άλλο πρόγραμμα για να ανοίξετε αυτή τη διεύθυνση.</li>
+  <li>Ίσως να χρειάζεται να εγκαταστήσετε κάποιο άλλο λογισμικό για το άνοιγμα αυτής της διεύθυνσης.</li>
 </ul>
 ">
 
@@ -117,7 +117,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Αδυναμία εύρεσης διαμεσολαβητή">
+<!ENTITY proxyResolveFailure.title "Δεν ήταν δυνατή η εύρεση διαμεσολαβητή">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>>Ελέγξτε αν είναι σωστές οι ρυθμίσεις του διαμεσολαβητή.</li>
