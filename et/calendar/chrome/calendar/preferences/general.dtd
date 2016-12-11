@@ -37,6 +37,10 @@
 <!ENTITY pref.soondays.label "Peatselt saabuvate osas kuvatakse:">
 <!ENTITY pref.soondays.accesskey "P">
 
-<!ENTITY pref.accessibility.label "Hõlbustus">
-<!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve">
+<!ENTITY pref.accessibility.label "Hõlbustus" >
+<!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve" >
 <!ENTITY pref.systemcolors.accesskey "v">
+
+<!ENTITY pref.eventsandtasks.label "Sündmused ja ülesanded" >
+<!ENTITY pref.editInTab.label "Sündmused ja ülesanded avatakse dialoogiakna asemel kaardil." >
+<!ENTITY pref.editInTab.accesskey "k">
