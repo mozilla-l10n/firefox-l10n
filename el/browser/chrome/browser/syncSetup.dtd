@@ -20,10 +20,13 @@
 <!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου διακομιστή…">
 <!ENTITY signIn.account2.label      "Λογαριασμός">
 <!ENTITY signIn.password.label      "Κωδικός πρόσβασης">
+<!ENTITY signIn.recoveryKey.label       "Κλειδί ανάκτησης">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό">
-<!ENTITY setup.confirmPassword.label     "Επιβεβαίωση κωδικού">
+<!ENTITY setup.newAccountDetailsPage.title.label "Λεπτομέρειες λογαριασμού">
+<!ENTITY setup.emailAddress.label     "Διεύθυνση email">
+<!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό πρόσβασης">
+<!ENTITY setup.confirmPassword.label     "Επιβεβαίωση κωδικού πρόσβασης">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -46,5 +49,6 @@
 
 
 <!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
 
 <!-- New & Existing Account: Setup Complete -->
