@@ -4,23 +4,23 @@
 
 <!ENTITY  general.label                 "Γενικά">
 
-<!ENTITY  warnAddonInstall.label        "Προειδοποίηση όταν οι σελίδες προσπαθούν να  εγκαταστήσουν πρόσθετα">
+<!ENTITY  warnAddonInstall.label        "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να εγκαταστήσουν πρόσθετα">
 <!ENTITY  warnAddonInstall.accesskey    "δ">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "Αποκλεισμός επικίνδυνου και παραπλανητικού περιεχομένου">
+<!ENTITY  enableSafeBrowsing.label        "Φραγή επικίνδυνου και παραπλανητικού περιεχομένου">
 <!ENTITY  enableSafeBrowsing.accesskey    "Α">
 
-<!ENTITY  blockDownloads.label            "Αποκλεισμός επικίνδυνων λήψεων">
+<!ENTITY  blockDownloads.label            "Φραγή επικίνδυνων λήψεων">
 <!ENTITY  blockDownloads.accesskey        "λ">
 
 <!ENTITY  blockUncommonUnwanted.label     "Προειδοποίηση για ανεπιθύμητο και ασυνήθιστο λογισμικό">
 <!ENTITY  blockUncommonUnwanted.accesskey "θ">
 
-<!ENTITY  addonExceptions.label         "Εξαιρέσεις...">
+<!ENTITY  addonExceptions.label         "Εξαιρέσεις…">
 <!ENTITY  addonExceptions.accesskey     "Ε">
 
 
@@ -28,12 +28,12 @@
 
 <!ENTITY  rememberLogins.label          "Απομνημόνευση λογαριασμών για ιστοσελίδες">
 <!ENTITY  rememberLogins.accesskey      "μ">
-<!ENTITY  passwordExceptions.label      "Εξαιρέσεις...">
+<!ENTITY  passwordExceptions.label      "Εξαιρέσεις…">
 <!ENTITY  passwordExceptions.accesskey  "ξ">
 
-<!ENTITY  useMasterPassword.label        "Χρήση ενός κύριου κωδικού">
+<!ENTITY  useMasterPassword.label        "Χρήση κύριου κωδικού">
 <!ENTITY  useMasterPassword.accesskey    "ρ">
-<!ENTITY  changeMasterPassword.label     "Αλλαγή κύριου κωδικού...">
+<!ENTITY  changeMasterPassword.label     "Αλλαγή κύριου κωδικού…">
 <!ENTITY  changeMasterPassword.accesskey "γ">
 
 <!ENTITY  savedLogins.label              "Αποθηκευμένοι λογαριασμοί…">

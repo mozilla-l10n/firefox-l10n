@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης. Το &brandShortName; τη χρησιμοποιεί στη γραμμή διευθύνσεων, τη γραμμή αναζήτησης και την αρχική σελίδα.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησής σας. Χρησιμοποιείται από το &brandShortName; στη γραμμή διευθύνσεων, τη γραμμή αναζήτησης και την αρχική σελίδα.">
 
 <!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτησης">
 <!ENTITY provideSearchSuggestions.accesskey    "Π">
