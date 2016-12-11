@@ -175,7 +175,7 @@
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary4 "Monitorização, credenciais, escolhas de dados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Acerca do &brandShortName;, perguntas frequentes, comentários">
+<!ENTITY pref_category_vendor_summary2 "Acerca do &brandShortName;, perguntas frequentes, feedback">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_category_logins "Credenciais">
 <!ENTITY pref_learn_more "Saber mais">
@@ -401,7 +401,7 @@ size. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visite o Apoio da Mozilla">
 <!ENTITY pref_about_firefox "Acerca do &brandShortName;">
 <!ENTITY pref_vendor_faqs "Perguntas frequentes">
-<!ENTITY pref_vendor_feedback "Deixe a sua opinião">
+<!ENTITY pref_vendor_feedback "Dê feedback">
 
 <!ENTITY pref_dialog_set_default "Definir como predefinição">
 <!ENTITY pref_dialog_default "Pré-definido">
