@@ -17,3 +17,5 @@
 <!ENTITY engine.history.label             "Ιστορικό">
 <!ENTITY engine.tabs.label                "Καρτέλες">
 <!ENTITY engine.passwords.label           "Κωδικοί πρόσβασης">
+<!ENTITY engine.addons.label              "Πρόσθετα υπολογιστή">
+<!ENTITY engine.prefs.label               "Προτιμήσεις υπολογιστή">
