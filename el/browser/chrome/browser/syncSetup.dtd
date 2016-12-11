@@ -6,16 +6,20 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Καλώς ήλθατε, αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
+<!ENTITY setup.pickSetupType.description2 "Καλώς ήλθατε! Αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
 <!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
 <!ENTITY button.haveAccount.label      "Έχω ήδη λογαριασμό">
 
-<!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το «&syncBrand.fullName.label;» στο παρελθόν;">
-<!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το «&syncBrand.shortName.label;» στο παρελθόν">
+<!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
+<!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το &syncBrand.shortName.label; στο παρελθόν">
+<!ENTITY setup.choicePage.existing2.label "Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλη συσκευή">
 
 <!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Διακομιστής">
+<!ENTITY serverType.default.label      "Προεπιλογή: Διακομιστής Mozilla &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου διακομιστή…">
 <!ENTITY signIn.account2.label      "Λογαριασμός">
-<!ENTITY signIn.password.label      "Κωδικός">
+<!ENTITY signIn.password.label      "Κωδικός πρόσβασης">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό">
