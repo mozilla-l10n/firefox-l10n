@@ -19,8 +19,8 @@
 <!ENTITY chooseFolderMac.accesskey "ы">
 <!ENTITY attachments.incoming.label "Входящие">
 <!ENTITY attachments.outgoing.label "Исходящие">
-<!ENTITY addCloudFileAccount.label "Добавить">
-<!ENTITY addCloudFileAccount.accesskey "в">
+<!ENTITY addCloudFileAccount1.label "Добавить…">
+<!ENTITY addCloudFileAccount1.accesskey "в">
 <!ENTITY addCloudFileAccount.description "Добавить новую службу хранения Filelink">
 <!ENTITY removeCloudFileAccount.label "Удалить">
 <!ENTITY removeCloudFileAccount.accesskey "д">
