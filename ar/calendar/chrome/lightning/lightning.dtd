@@ -46,12 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "اقبل الدعوة لجميع تكرارات الحدث">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "أضف">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "أَضف الحدث للتقويم">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "ارفض">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "ارفض دعوة الحدث">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ارفض الكل">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "ارفض الدعوة لجميع تكرارات الحدث">
-
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "ارفض">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "ارفض العرض المضاد">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "احذف">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "احذف من التقويم">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "التفاصيل…">
@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "انقر لرؤية المزيد من الخيارات">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "أعد التأكيد">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "يُرسل إعادة تأكيد للمنظم">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "أعِد الجدولة">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "أعِد جدولة الحدث">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "احفظ نسخة">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "احفظ نسخة من الحدث في التقويم، بشكل مستقل عن الرد على المنظم. قائمة الحضور ستُمسح.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "مبدئي">
