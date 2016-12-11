@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "Αρχική σελίδα &brandShortName;">
-<!ENTITY enableStartPage.label            "Όταν ξεκινάει ο  &brandShortName; να εμφανίζεται η αρχική σελίδα στην περιοχή μηνύματος">
+<!ENTITY messengerStartPage.label         "Αρχική σελίδα του &brandShortName;">
+<!ENTITY enableStartPage.label            "Κατά την εκκίνηση του &brandShortName;, να εμφανίζεται η Αρχική Σελίδα στην περιοχή μηνυμάτων">
 <!ENTITY enableStartPage.accesskey        "τ">
 <!ENTITY location.label                   "Τοποθεσία:">
 <!ENTITY location1.accesskey               "ο">
-<!ENTITY useDefault.label                 "Επαναφορά προεπιλογών">
+<!ENTITY useDefault.label                 "Επαναφορά προεπιλογής">
 <!ENTITY useDefault.accesskey             "π">
 
 <!ENTITY changeDockIconOptions.label      "Αλλαγή προτιμήσεων για το εικονίδιο της εφαρμογής">
-<!ENTITY dockOptions.label                "Επιλογές Εικονιδίου Εφαρμογής…">
+<!ENTITY dockOptions.label                "Επιλογές εικονιδίου εφαρμογής…">
 <!ENTITY dockOptions.accesskey            "Ε">
 
 <!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
-<!ENTITY playSound.label                  "Αναπαραγωγή ενός ήχου">
+<!ENTITY playSound.label                  "Αναπαραγωγή ήχου">
 <!ENTITY playSound1.accesskey             "π">
-<!ENTITY playSoundMac.label               "Να παίζει το ακόλουθο αρχείο ήχου:">
+<!ENTITY playSoundMac.label               "Αναπαραγωγή του ακόλουθου αρχείου ήχου:">
 <!ENTITY playSoundMac.accesskey           "δ">
-<!ENTITY showAnimatedAlert.label          "Εμφάνιση μιας ειδοποίησης">
+<!ENTITY showAnimatedAlert.label          "Εμφάνιση ειδοποίησης">
 <!ENTITY showAnimatedAlert.accesskey      "φ">
-<!ENTITY notificationAlertSettings2.label "Οι ειδοποιήσεις και ο προκαθορισμένος ήχος μπορούν να απενεργοποιηθούν στο πλαίσιο ειδοποιήσεων στις Ρυθμίσεις Συστήματος.">
+<!ENTITY notificationAlertSettings2.label "Οι ειδοποιήσεις και ο προεπιλεγμένος ήχος μπορούν να απενεργοποιηθούν στο παράθυρο Ειδοποιήσεις των Ρυθμίσεων Συστήματος.">
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
-<!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στην μπάρα">
+<!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στη γραμμή">
 <!ENTITY showTrayIcon.accesskey           "μ">
 
 <!ENTITY play.label                       "Αναπαραγωγή">
 <!ENTITY play.accesskey                   "π">
-<!ENTITY systemsound.label                "Προεπιλεγμένος ήχος συστήματος για νέο μήνυμα">
+<!ENTITY systemsound.label                "Προεπιλεγμένος ήχος συστήματος για νέο email">
 <!ENTITY systemsound.accesskey            "χ">
 <!ENTITY customsound.label                "Χρήση του ακόλουθου αρχείου ήχου">
 <!ENTITY customsound.accesskey            "Χ">
-<!ENTITY browse.label                     "Εξερεύνηση…">
+<!ENTITY browse.label                     "Περιήγηση…">
 <!ENTITY browse.accesskey                 "ξ">
 
 <!ENTITY defaultSearchEngine.label        "Προεπιλεγμένη μηχανή αναζήτησης">
