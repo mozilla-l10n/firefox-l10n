@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "Poveznicu…">
 <!ENTITY insertLinkCmd2.accesskey "P">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Sidro…">
 <!ENTITY insertAnchorCmd.accesskey "S">
 <!ENTITY insertImageCmd.label "Sliku…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "p">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ukloni sidra">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
