@@ -152,6 +152,7 @@
 <!ENTITY compactVersion.label "Компактный вид">
 <!ENTITY compactVersion.accesskey "о">
 <!ENTITY folderPaneBar.label "Панель вида папок">
+<!ENTITY folderPaneBar.accesskey "а">
 <!ENTITY folderModeSelector.label "Отображения папок">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
