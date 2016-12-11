@@ -63,7 +63,7 @@
 <!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Utilizar um serviço em segundo plano para instalar atualizações">
-<!ENTITY useService.accesskey            "z">
+<!ENTITY useService.accesskey            "t">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Definições...">
