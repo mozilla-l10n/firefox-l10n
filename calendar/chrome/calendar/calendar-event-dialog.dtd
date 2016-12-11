@@ -78,7 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Gem">
 <!ENTITY  event.menu.item.save.accesskey                  "G">
-<!ENTITY  event.menu.item.save.tab.accesskey              "e">
+<!ENTITY  event.menu.item.save.tab.accesskey              "G">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -87,7 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Gem og luk">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "e">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "k">
 
 <!ENTITY  event.menu.item.delete.label                    "Slet…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">

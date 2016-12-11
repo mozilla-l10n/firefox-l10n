@@ -80,9 +80,9 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY abPropertiesMenu.label                         "Egenskaber for adressebog">
 <!ENTITY abPropertiesMenu.accesskey                     "E">
-<!ENTITY contactPropertiesMenu.label                    "Egenskaber for kontakter">
+<!ENTITY contactPropertiesMenu.label                    "Egenskaber for kontakt">
 <!ENTITY contactPropertiesMenu.accesskey                "E">
-<!ENTITY mailingListPropertiesMenu.label                "Egenskaber for mailinglister">
+<!ENTITY mailingListPropertiesMenu.label                "Egenskaber for mailingliste">
 <!ENTITY mailingListPropertiesMenu.accesskey            "E">
 
 <!-- View Menu -->
@@ -144,7 +144,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "E">
 <!ENTITY abPropertiesContext.label                      "Egenskaber">
 <!ENTITY abPropertiesContext.accesskey                  "E">
-<!ENTITY editContactContext.label                       "Rediger kontakter">
+<!ENTITY editContactContext.label                       "Rediger kontakt">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Rediger liste">
 <!ENTITY editMailingListContext.accesskey               "E">
