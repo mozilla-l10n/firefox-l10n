@@ -9,23 +9,23 @@
 
 <!ENTITY            profilename.label      "Όνομα προφίλ:">
 
-<!ENTITY            start.label            "Εκκίνηση &brandShortName;">
+<!ENTITY            start.label            "Εκκίνηση του &brandShortName;">
 <!ENTITY            exit.label             "Έξοδος">
 
 <!ENTITY            availprofiles.label    "Διαθέσιμα προφίλ">
 
-<!ENTITY            newButton.label        "Δημιουργία προφίλ...">
+<!ENTITY            newButton.label        "Δημιουργία προφίλ…">
 <!ENTITY            newButton.accesskey    "π">
-<!ENTITY            renameButton.label     "Μετονομασία προφίλ...">
+<!ENTITY            renameButton.label     "Μετονομασία προφίλ…">
 <!ENTITY            renameButton.accesskey "Μ">
-<!ENTITY            deleteButton.label     "Διαγραφή προφίλ...">
+<!ENTITY            deleteButton.label     "Διαγραφή προφίλ…">
 <!ENTITY            deleteButton.accesskey "Δ">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "Ο &brandShortName; αποθηκεύει πληροφορίες για τις ρυθμίσεις και τις προτιμήσεις σας στο προσωπικό σας προφίλ.">
+<!ENTITY            pmDescription.label    "Το &brandShortName; αποθηκεύει πληροφορίες για τις ρυθμίσεις, τις προτιμήσεις και άλλα στοιχεία χρήστη στο προφίλ χρήστη σας.">
 
-<!ENTITY            offlineState.label    "Εργασία χωρίς σύνδεση">
+<!ENTITY            offlineState.label    "Εργασία εκτός σύνδεσης">
 <!ENTITY            offlineState.accesskey "χ">
 
-<!ENTITY            useSelected.label       "Χρήση του επιλεγμένου προφίλ χωρίς ερώτηση στην εκκίνηση">
+<!ENTITY            useSelected.label       "Χρήση επιλεγμένου προφίλ χωρίς ερώτηση στην εκκίνηση">
 <!ENTITY            useSelected.accesskey   "ρ">
