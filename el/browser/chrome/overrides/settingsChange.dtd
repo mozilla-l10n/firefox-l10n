@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Οι ρυθμίσεις μπορούν να αλλάξουν μέσω της καρτέλας Εφαρμογές στις Προτιμήσεις του &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Οι ρυθμίσεις μπορούν να αλλάξουν μέσω της καρτέλας Εφαρμογές στις Επιλογές του &brandShortName;">
+<!ENTITY  settingsChangeOptions.label      "Οι ρυθμίσεις μπορούν να αλλάξουν μέσω της καρτέλας Εφαρμογές στις Επιλογές του &brandShortName;.">

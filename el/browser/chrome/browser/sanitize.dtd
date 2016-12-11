@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Ιστορικό">
 <!ENTITY dataSection.label            "Δεδομένα">
 
-<!ENTITY itemHistoryAndDownloads.label     "Ιστορικό περιήγησης και λήψεων">
+<!ENTITY itemHistoryAndDownloads.label     "Ιστορικό περιήγησης &amp; λήψεων">
 <!ENTITY itemHistoryAndDownloads.accesskey "π">
 <!ENTITY itemFormSearchHistory.label       "Ιστορικό αναζήτησης &amp; φορμών">
 <!ENTITY itemFormSearchHistory.accesskey   "φ">
