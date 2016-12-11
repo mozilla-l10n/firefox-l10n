@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Tib'e pa ri jun chik pajtzij xilitäj">
 <!ENTITY previous.tooltip "Tib'an b'enam pa ri jun kan q'aptzij xilitäj">
 <!ENTITY findCloseButton.tooltip "Titz'apïx ri rukajtz'ik kanob'äl">
-
-
+<!ENTITY highlightAll.label "Tiya'retal ronojel">
+<!ENTITY highlightAll.accesskey "r">
 <!ENTITY highlightAll.tooltiptext "Tiya' ketal konojel ri taq pajtzij xe'ilitäj">
 <!ENTITY caseSensitive.label "Na'onel chi ke taq nimatz'ib'">
 <!ENTITY caseSensitive.accesskey "n">

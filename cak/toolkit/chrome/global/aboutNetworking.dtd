@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Taq rutzijol ek'ulun">
 <!ENTITY aboutNetworking.bytesSent             "Taq wayt etaqon">
 <!ENTITY aboutNetworking.bytesReceived         "Taq wayt ek'ulun">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Tajin nitz'ib'äx">
+<!ENTITY aboutNetworking.logTutorial           "Tatz'eta' <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Tajin nitz'ib'äx</a> richin ye'ak'ül taq rutzijol pa ruwi' rokisaxik re samajib'äl re'.">
+<!ENTITY aboutNetworking.currentLogFile        "Wakami titz'ib'äx yakb'äl:">
+<!ENTITY aboutNetworking.currentLogModules     "Wakami ketz'ib'äx taq juperaj:">
+<!ENTITY aboutNetworking.setLogFile            "Tijikib'äx nitz'ib'äx yakb'äl">
+<!ENTITY aboutNetworking.setLogModules         "Tijikib'äx yetz'ib'äx taq juperaj">
+<!ENTITY aboutNetworking.startLogging          "Titikirisäx tajin nitz'ib'äx">
+<!ENTITY aboutNetworking.stopLogging           "Titanab'äx tajin nitz'ib'äx">
 <!ENTITY aboutNetworking.dnsLookup             "Rukanoxik DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Tisol">
 <!ENTITY aboutNetworking.dnsDomain             "Ruk'ojlem b'ey">

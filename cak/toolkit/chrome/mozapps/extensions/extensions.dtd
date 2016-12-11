@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "etamawuj">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki' ruma &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Tetamäx ch'aqa' chik.">
