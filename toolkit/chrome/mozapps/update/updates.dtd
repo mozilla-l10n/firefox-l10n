@@ -59,9 +59,9 @@
 
 <!ENTITY  finishedPage.title              "Η ενημέρωση είναι έτοιμη για εγκατάσταση">
 <!ENTITY  finishedPage.text               "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
-                                           να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
+                                           να επανεκκινήσετε το &brandShortName; τώρα, ή να συνεχίσετε να εργάζεστε και να κάνετε επανεκκίνηση αργότερα.">
 
-<!ENTITY  finishedBackgroundPage.text     "Έγινε λήψη μιας ενημέρωσης σταθερότητας και ασφάλειας για τον &brandShortName;
+<!ENTITY  finishedBackgroundPage.text     "Έγινε λήψη μιας ενημέρωσης ασφαλείας και σταθερότητας για το &brandShortName;
                                            και είναι έτοιμη για εγκατάσταση.">
 <!ENTITY  finishedBackground.name         "Ενημέρωση:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
