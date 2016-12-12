@@ -13,10 +13,10 @@
 <!ENTITY deniedPortAccess.title "安全原因导致访问端口受限">
 <!ENTITY deniedPortAccess.longDesc "<p>请求的地址中指定了一个端口（例如 <q>mozilla.org:80</q> 对应 mozilla.org 的80端口），该端口通常是用作<em>其他</em>用途。因此，为了您的安全考虑，浏览器取消了该请求。</p>">
 
-<!ENTITY dnsNotFound.title "未找到服务器">
+<!ENTITY dnsNotFound.title "找不到网址">
 <!ENTITY dnsNotFound.longDesc "<p>浏览器无法找到该地址对应的站点。</p><ul><li>您确定输入该站点名称时没有错误吗？（例如将  <q><strong>www</strong>.mozilla.org</q> 写成  <q><strong>ww</strong>.mozilla.org</q>）</li><li>您确定该域名存在吗？该站点的注册可能已经过期。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接以及域名服务器设置。</li><li>您的计算机或网络是否被防火墙、代理服务器保护呢？请尝试修正可能不正确的设置。</li></ul>">
 
-<!ENTITY fileNotFound.title "未找到文件">
+<!ENTITY fileNotFound.title "找不到文件">
 <!ENTITY fileNotFound.longDesc "<ul><li>该项目是否可能已经被改名、移除或者移动？</li><li>地址中是否可能有拼写、大小写或者输入错误？</li><li>您是否有访问该项目的权限？</li></ul>">
 
 <!ENTITY fileAccessDenied.title "访问该文件被拒绝">
@@ -82,7 +82,7 @@
 ">
 
 <!ENTITY cspBlocked.title "依照内容安全策略而拦截">
-<!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的载入，因为该页面含有安全政策不允许的内容。</p>">
+<!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的以该方式载入，因为这个页面含有的内容安全政策不允许这样做。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
