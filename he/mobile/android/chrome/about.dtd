@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "פרטים על &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "תוכנת &brandShortName; היא ניסיונית וייתכן שלא תהיה יציבה.">
-<!ENTITY aboutPage.telemetryStart               " הדפדפן שולח אוטומטית מידע על הביצועים, החומרה, השימוש וההתאמות האישיות בחזרה אל">
+<!ENTITY aboutPage.telemetryStart               " הדפדפן שולח אוטומטית מידע על הביצועים, החומרה, השימוש וההתאמות האישיות בחזרה אל ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " כדי לסייע בשיפור &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "בדיקת עדכונים »">
