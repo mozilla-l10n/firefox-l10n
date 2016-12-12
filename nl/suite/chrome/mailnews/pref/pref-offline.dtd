@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.network.title               "Netwerk &amp; schijfruimte">
+<!ENTITY pref.network.title               "Netwerk &amp; opslag">
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Bij het opstarten:">
 <!ENTITY textStartUp.accesskey            "B">
