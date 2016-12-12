@@ -63,7 +63,7 @@
 <!ENTITY certmgr.delete2.accesskey            "म">
 <!ENTITY certmgr.delete_builtin.label         "मेटाउनुहोस् वा अविश्वास गर्नुहोस्">
 <!ENTITY certmgr.delete_builtin.accesskey     "म">
-<!ENTITY certmgr.backup2.label                "जगेडा">
+<!ENTITY certmgr.backup2.label                "जगेडा…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "सबैलाई जगेडामा राख्नुहोस्…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
