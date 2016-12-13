@@ -8,7 +8,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Página avaliada como foco de ataques!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "A página no site <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Essa página do <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p><p>Algumas destas páginas intencionalmente distribuem software nocivo, mas muitos são comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganoso!">
