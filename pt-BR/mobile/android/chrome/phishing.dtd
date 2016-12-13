@@ -8,8 +8,8 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Página avaliada como foco de ataques!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Essa página do <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p><p>Algumas destas páginas intencionalmente distribuem software nocivo, mas muitos são comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "A página no site <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificar o seu sistema.</p><p>Alguns desses sites distribuem intencionalmente software malicioso, mas muitos estão comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganoso!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -18,6 +18,6 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Relatando site de software indesejado!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "A página <span id='unwanted_sitename'/> foi considerada uma página de software indesejado e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "A página no site <span id='unwanted_sitename'/> foi considerada uma página de software indesejado e foi bloqueada de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "As páginas de software indesejado, tentam instalar software que pode ser enganoso e afetar o seu sistema de formas inesperadas.">
 
