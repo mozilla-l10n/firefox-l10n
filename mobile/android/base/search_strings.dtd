@@ -25,4 +25,4 @@
 <!ENTITY search_widget_button_label 'Pesquisar'>
 
 <!ENTITY network_error_title 'Sem conexão à internet'>
-<!ENTITY network_error_message 'Tocar aqui para verificar as configurações de rede'>
+<!ENTITY network_error_message 'Clique aqui para verificar as configurações de rede'>
