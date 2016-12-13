@@ -28,6 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την κατηγοριοποίηση και την επισήμανση των μηνυμάτων σας.">
+<!ENTITY newTagButton.label        "Νέα…">
+<!ENTITY newTagButton.accesskey    "Ν">
+<!ENTITY editTagButton1.label      "Τροποποίηση…">
+<!ENTITY editTagButton1.accesskey  "Τ">
 <!ENTITY removeTagButton.label     "Διαγραφή">
 <!ENTITY removeTagButton.accesskey "φ">
 
