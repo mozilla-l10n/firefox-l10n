@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "Tentar novamente">
 
 <!ENTITY aboutAccounts.restrictedError.title "Restrito">
-<!ENTITY aboutAccounts.restrictedError.description "Você não pode gerenciar contas Firefox a partir deste perfil.">
+<!ENTITY aboutAccounts.restrictedError.description "Você não pode gerenciar Contas Firefox a partir deste perfil.">
