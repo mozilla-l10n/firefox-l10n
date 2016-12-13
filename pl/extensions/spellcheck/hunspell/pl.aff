@@ -5104,12 +5104,15 @@ SFX P   o         y         這
 SFX P   這        le        這
 SFX P   o         em        這
 
-SFX R Y 108
+SFX R Y 111
 SFX R   ech       chu       ech
 SFX R   ech       chem      ech
-SFX R   ec        cu        ec
-SFX R   ec        cowi      ec
-SFX R   ec        cem       ec
+SFX R   ec        cu        [^i]ec
+SFX R   ec        cowi      [^i]ec
+SFX R   ec        cem       [^i]ec
+SFX R   iec       cu        iec
+SFX R   iec       cowi      iec
+SFX R   iec       cem       iec
 SFX R   ek        ku        ek
 SFX R   ek        kowi      ek
 SFX R   ek        kiem      ek
