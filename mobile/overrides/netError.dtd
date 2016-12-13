@@ -21,13 +21,13 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Verifique se o endereço tem erros de digitação, como 
-<strong>ww</strong>.example.com em vez de 
-<strong>www</strong>.example.com</li> 
+<strong>ww</strong>.exemplo.com em vez de 
+<strong>www</strong>.exemplo.com</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pesquisa</button> 
 </div> 
-<li>Se não conseguir carregar nenhuma página, verifique a conexão Wi-Fi. 
+<li>Se você não consegue carregar nenhuma página, verifique a conexão Wi-Fi. 
 <button id='wifi'>Habilitar Wi-Fi</button> 
 </li> 
 </ul>">
@@ -53,7 +53,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
 <li>Normalmente, os endereços web são escritos como 
-<strong>http://www.example.com/</strong></li> 
+<strong>http://www.exemplo.com/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pesquisar</button> 
@@ -62,7 +62,7 @@
 (ou seja, <strong>/</strong>).</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "Conexão interrompida">
+<!ENTITY netInterrupt.title "A conexão foi interrompida">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
@@ -187,4 +187,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras. Será necessário que o administrador do site corrija o servidor primeiro antes que você pode visitá-lo.</p><p>Código do erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras. Será necessário que o administrador do site corrija o servidor primeiro antes que você pode visitá-lo.</p><p>Código do erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
