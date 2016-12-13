@@ -25,7 +25,7 @@
 <!ENTITY saveTo.label "مسل محفوظ کریں بر">
 <!ENTITY saveTo.accesskey "م">
 <!ENTITY chooseFolderWin.label        "براؤز کریں…">
-<!ENTITY chooseFolderWin.accesskey    "ب">
+<!ENTITY chooseFolderWin.accesskey    "ا">
 <!ENTITY chooseFolderMac.label        "انتخاب کریں…">
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
