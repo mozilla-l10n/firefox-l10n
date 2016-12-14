@@ -94,6 +94,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "Aggiungi ai segnalibri">
 <!ENTITY overlay_share_bookmark_btn_label_already "Già presente nei segnalibri">
 <!ENTITY overlay_share_send_other "Invia ad altri dispositivi">
+<!ENTITY overlay_share_open_browser_btn_label "Apri in &brandShortName;">
 <!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
