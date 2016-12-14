@@ -9,8 +9,8 @@
 <!ENTITY retry.label "ព្យាយាម​ម្តងទៀត">
 <!ENTITY returnToPreviousPage.label "ថយក្រោយ">
 <!ENTITY advanced.label "កម្រិត​ខ្ពស់">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "មិន​អាច​តភ្ជាប់">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "អាសយដ្ឋាន​នេះ​ត្រូវ​បាន​ដាក់កម្រិត">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "រក​មិន​ឃើញ​ម៉ាស៊ីន​បម្រើ">
+<!ENTITY dnsNotFound.title "រក​មិន​ឃើញ​ម៉ាស៊ីន​មេ">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>ពិនិត្យ​អាសយដ្ឋាន​ដើម្បី​រក​មើល​កំហុស​ដែល​បាន​វាយ​ដូចជា <strong>ww</strong>.example.com ជំនួសឲ្យ <strong>www</strong>.example.com</li> <li>ប្រសិនបើ អ្នក​មិន​អាច​ផ្ទុក​ទំព័រ​ណាមួយ​បាន​ទេ ពិនិត្យមើល​ការ​តភ្ជាប់​បណ្ដាញ​​​កុំព្យូទ័រ  របស់​អ្នក។</li> <li>ប្រសិនបើ កុំព្យូទ័រ ឬ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ការពារ​ដោយ​ជញ្ជាំងភ្លើង ឬ​ប្រូកស៊ី សូម​ប្រាកដ​ថា ​&brandShortName; ត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ចូល​ដំណើរការ​បណ្ដាញ ។</li> </ul>">
 
 <!ENTITY fileNotFound.title "រក​មិន​ឃើញ​ឯកសារ">
@@ -29,6 +29,13 @@
 
 <!ENTITY generic.title "អ្ហុះ !">
 <!ENTITY generic.longDesc "<p>&brandShortName; មិន​អាច​ផ្ទុក​ទំព័រ​នេះ​បាន​ទេ ពីព្រោះ​តែ​ហេតុផល​មួយ​ចំនួន ។</p>">
+
+<!ENTITY captivePortal.title "ចូល​បណ្ដាញ">
+<!ENTITY captivePortal.longDesc "
+<p>បណ្ដាញ​នេះ​អាច​តម្រូវ​ឲ្យ​អ្នក​ចូល​ដើម្បី​ប្រើ​អ៊ីនធឺណិត។</p>
+">
+
+<!ENTITY openPortalLoginPage.label "បើក​ទំព័រ​ចូល">
 
 <!ENTITY malformedURI.title "អាសយដ្ឋាន​មិនត្រឹមត្រូវ">
 <!ENTITY malformedURI.longDesc "<ul> <li>ជាទូទៅ អាសយដ្ឋាន​បណ្ដាញ​ត្រូវ​បាន​សរសេរ​ដូចនេះ <strong>http://www.example.com/</strong></li> <li>សូម​ប្រាកដ​ថា អ្នក​កំពុង​តែ​ប្រើ​សញ្ញា (/) (ឧ. <strong>/</strong>)។</li> </ul>">
@@ -107,9 +114,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "កម្រិត​ខ្ពស់">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ប្រើប្រាស់​បច្ចេកវិទ្យា​ដែល​ហួស​សម័យ​ និង​ងាយ​រង​គ្រោះ​ពី​ការ​វាយ​ប្រហារ​នានា។ អ្នក​វាយ​ប្រហារ​អាច​ធ្វើ​ឲ្យ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាពហើយ លេច​ចេញ​មក​បាន​យ៉ាង​ងាយ។">
 <!ENTITY weakCryptoAdvanced.override "(អសុវត្ថិភាព) ព្យាយាម​ផ្ទុក <span class='hostname'></span> ដោយ​ប្រើ​ប្រព័ន្ធ​សុវត្ថិភាព​ដែល​ហួស​សម័យ">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p>​មិន​អាច​បង្កើត​ការ​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ទៅ <span id='wrongSystemTime_URL'/> បាន​ទេ ពីព្រោះ​នាឡិកា​របស់​អ្នក​បង្ហាញ​ម៉ោង​ខុស។</p> <p>កុំព្យូទ័រ​របស់​អ្នក​គិត​ថា​វា​គឺជា <span id='wrongSystemTime_systemDate'/>, ខណៈ​ដែល​វា​គួរតែ <span id='wrongSystemTime_actualDate'/>។ អ្នក​អាច​ដោះស្រាយ​បញ្ហា​នេះ​បាន ដោយ​ប្ដូរ​ការ​កំណត់​កាលបរិច្ឆេទ​និង​ម៉ោង​ឲ្យ​បាន​ត្រឹមត្រូវ​ឡើងវិញ។</p>">
 
 <!ENTITY certerror.pagetitle1  "ការ​តភ្ជាប់​ដែល​មិន​មាន​សុវត្ថិភាព​">
