@@ -42,5 +42,5 @@
 <!ENTITY pref.systemcolors.accesskey "n">
 
 <!ENTITY pref.eventsandtasks.label "Tidyanin d tiwuriwin" >
-
-
+<!ENTITY pref.editInTab.label "Ẓreg tidyanin akked tiwuriwin deg tfelwit d umḍiq n usfaylu n udiweni." >
+<!ENTITY pref.editInTab.accesskey "t">
