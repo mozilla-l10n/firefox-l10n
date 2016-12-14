@@ -18,7 +18,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "מנועי חיפוש בלחיצה אחת">
 
-<!ENTITY chooseWhichOneToDisplay.label         "שורת החיפוש מאפשרת חיפוש במנועי חיפוש חלופיים. נא לבחור אלו מהם יוצגו.">
+<!ENTITY chooseWhichOneToDisplay.label         "שורת החיפוש מאפשרת חיפוש במנועי חיפוש חלופיים. נא לבחור אילו מהם יוצגו.">
 
 <!ENTITY engineNameColumn.label                "מנוע חיפוש">
 <!ENTITY engineKeywordColumn.label             "מילת מפתח">
