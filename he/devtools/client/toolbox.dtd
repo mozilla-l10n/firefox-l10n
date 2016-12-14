@@ -143,6 +143,12 @@
 <!ENTITY options.timestampMessages.label      "הצגת חותמות זמן">
 <!ENTITY options.timestampMessages.tooltip    "הפעלת אפשרות זו תציג חותמות זמן בפקודות ובפלט במסוף הרשת">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -181,7 +187,7 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "העדפות עורך">
-<!ENTITY options.sourceeditor.detectindentation.label   "לזהות הזחה">
+<!ENTITY options.sourceeditor.detectindentation.label   "זיהוי הזחה">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "לנחש הזחה לפי תוכן קוד המקור">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "סגירת סוגריים אוטומטית">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "להכניס את סגירת הסוגריים באופן אוטומטי">
