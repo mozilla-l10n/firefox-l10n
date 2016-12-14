@@ -6,11 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Να γίνεται παράκαμψη των χρωμάτων που ορίζει το περιεχόμενο με τις επιλογές μου παραπάνω:">
+<!ENTITY  overridePageColors.label        "Παράκαμψη των καθορισμένων χρωμάτων του περιεχομένου με τις παραπάνω επιλογές μου:">
 <!ENTITY  overridePageColors.accesskey    "π">
 
 <!ENTITY  overridePageColors.always.label "Πάντα">
-<!ENTITY  overridePageColors.auto.label   "Μόνο για θέματα Υψηλής Αντίθεσης">
+<!ENTITY  overridePageColors.auto.label   "Μόνο για θέματα υψηλής αντίθεσης">
 <!ENTITY  overridePageColors.never.label  "Ποτέ">
 
 <!ENTITY  color                           "Κείμενο και φόντο">
@@ -23,8 +23,8 @@
 
 <!ENTITY  underlineLinks.label            "Υπογράμμιση συνδέσμων">
 <!ENTITY  underlineLinks.accesskey        "Υ">
-<!ENTITY  links                           "Χρώματα Συνδέσμων">
-<!ENTITY  linkColor.label                 "Μη αναγνωσμένοι δεσμοί:">
+<!ENTITY  links                           "Χρώματα συνδέσμων">
+<!ENTITY  linkColor.label                 "Μη ανοιγμένοι σύνδεσμοι:">
 <!ENTITY  linkColor.accesskey             "Μ">
-<!ENTITY  visitedLinkColor.label          "Αναγνωσμένοι δεσμοί:">
+<!ENTITY  visitedLinkColor.label          "Ανοιγμένοι σύνδεσμοι:">
 <!ENTITY  visitedLinkColor.accesskey      "Α">

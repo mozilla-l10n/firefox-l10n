@@ -14,23 +14,23 @@
 <!ENTITY boldItalic.label                 "Έντονα πλάγια">
 <!ENTITY size.label                       "Μέγεθος:">
 <!ENTITY size.accesskey                   "θ">
-<!ENTITY regularSize.label                "Κανονικά">
-<!ENTITY bigger.label                     "Μεγαλύτερα">
-<!ENTITY smaller.label                    "Μικρότερα">
+<!ENTITY regularSize.label                "Κανονικό">
+<!ENTITY bigger.label                     "Μεγαλύτερο">
+<!ENTITY smaller.label                    "Μικρότερο">
 <!ENTITY quotedTextColor.label            "Χρώμα:">
 <!ENTITY quotedTextColor.accesskey        "Χ">
 <!ENTITY displayWidth.label               "Μηνύματα απλού κειμένου">
-<!ENTITY displayText.label                "Κατά την εμφάνιση μηνυμάτων απλού κειμένου σε παράθεση:">
+<!ENTITY displayText.label                "Κατά την προβολή μηνυμάτων απλού κειμένου σε παράθεση:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Οι φατσούλες να εμφανίζονται ως γραφικά">
+<!ENTITY convertEmoticons.label        "Εμφάνιση emoticons ως γραφικά στοιχεία">
 <!ENTITY convertEmoticons.accesskey    "φ">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την κατηγοριοποίηση και την επισήμανση των μηνυμάτων σας.">
+<!ENTITY displayTagsText.label     "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την ταξινόμηση και τον καθορισμό προτεραιότητας των μηνυμάτων σας.">
 <!ENTITY newTagButton.label        "Νέα…">
 <!ENTITY newTagButton.accesskey    "Ν">
-<!ENTITY editTagButton1.label      "Τροποποίηση…">
+<!ENTITY editTagButton1.label      "Επεξεργασία…">
 <!ENTITY editTagButton1.accesskey  "Τ">
 <!ENTITY removeTagButton.label     "Διαγραφή">
 <!ENTITY removeTagButton.accesskey "φ">
@@ -42,24 +42,24 @@
 <!ENTITY defaultSize.label       "Μέγεθος:">
 <!ENTITY defaultSize.accesskey   "θ">
 <!ENTITY fontOptions.accesskey   "μ">
-<!ENTITY fontOptions.label       "Γραμματοσειρές...">
-<!ENTITY colorButton.label       "Χρώματα...">
+<!ENTITY fontOptions.label       "Για προχωρημένους…">
+<!ENTITY colorButton.label       "Χρώματα…">
 <!ENTITY colorButton.accesskey   "ρ">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Ανάγνωση">
-<!ENTITY display.caption                  "Εμφάνιση">
-<!ENTITY showCondensedAddresses.label     "Να εμφανίζεται μόνο το εμφανιζόμενο όνομα για τους ανθρώπους από το βιβλίο διευθύνσεών μου">
+<!ENTITY display.caption                  "Προβολή">
+<!ENTITY showCondensedAddresses.label     "Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο βιβλίο διευθύνσεών μου">
 <!ENTITY showCondensedAddresses.accesskey "ε">
 
-<!ENTITY autoMarkAsRead.label             "Αυτόματη σημείωση μηνυμάτων ως αναγνωσμένα">
+<!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένα">
 <!ENTITY autoMarkAsRead.accesskey         "Α">
-<!ENTITY markAsReadNoDelay.label          "Άμεσα κατά την εμφάνιση">
+<!ENTITY markAsReadNoDelay.label          "Άμεσα κατά την προβολή">
 <!ENTITY markAsReadNoDelay.accesskey      "μ">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Μετά την εμφάνιση σε">
+<!ENTITY markAsReadDelay.label            "Μετά από προβολή για">
 <!ENTITY markAsReadDelay.accesskey        "φ">
 <!ENTITY secondsLabel.label               "δευτερόλεπτα">
 <!ENTITY openMsgIn.label                  "Άνοιγμα μηνυμάτων σε:">
@@ -69,5 +69,5 @@
 <!ENTITY reuseExpRadio0.accesskey         "π">
 <!ENTITY reuseExpRadio1.label             "Υπάρχον παράθυρο μηνύματος">
 <!ENTITY reuseExpRadio1.accesskey         "υ">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Να κλείνει το παράθυρο μηνύματος ή η καρτέλα μετά από μετακίνηση ή διαγραφή">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Κλείσιμο παραθύρου/καρτέλας μηνύματος μετά από μετακίνηση ή διαγραφή">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "Κ">
