@@ -51,7 +51,7 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Agwi akk">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Agwi tinnubga ɣer tedyant i tedyanin akk i d-yettuɣalen">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Agwi">
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Aggi amgal-asumer">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Kkes">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Kkes seg uwitay">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Talqayt…">

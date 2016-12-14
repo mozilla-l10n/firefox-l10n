@@ -190,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Snes asumer">
 <!ENTITY counter.button.proposal.accesskey                "p">
-
+<!ENTITY counter.button.proposal.tooltip2                 "Urtan n tedyanin ad ɛɛaṛen s useqdec n wazaln seg umgal-asumer , ala asekles s neɣ s war asnifel nniḍen ara yelɣun akk imttekkiyen s wayen-nni">
 <!ENTITY counter.button.original.label                    "Snes isefka ineẓliyen">
 <!ENTITY counter.button.original.accesskey                "r">
-
+<!ENTITY counter.button.original.tooltip2                 "Urtan ad ttuwenzen ar wazalen si tedyant tanezlit, send ad yettwag umgal-asumer">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Azwel:" >
