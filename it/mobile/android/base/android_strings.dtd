@@ -485,3 +485,5 @@
 <!ENTITY activity_stream_highlight_label_visited "Visitato">
 <!ENTITY activity_stream_dismiss "Elimina">
 <!ENTITY activity_stream_delete_history "Elimina dalla cronologia">
+<!ENTITY activity_stream_welcome_title "Contenuti in evidenza">
+<!ENTITY activity_stream_welcome_content "Firefox crea un elenco di contenuti in evidenza sulla base dei siti visitati. In questo modo sarà facile ritrovare elementi interessanti come articoli, video, segnalibri e altre pagine.">
