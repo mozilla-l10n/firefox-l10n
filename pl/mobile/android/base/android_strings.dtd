@@ -115,6 +115,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Zakładka już istnieje">
 <!ENTITY overlay_share_send_other "Przekaż do innych urządzeń">
 
+<!ENTITY overlay_share_open_browser_btn_label "Otwórz w przeglądarce &brandShortName;">
 <!ENTITY overlay_share_send_tab_btn_label "Przekaż do innego urządzenia">
 <!ENTITY overlay_share_no_url "Nie znaleziono odnośnika do udostępnienia">
 <!ENTITY overlay_share_select_device "Wybierz urządzenie">
