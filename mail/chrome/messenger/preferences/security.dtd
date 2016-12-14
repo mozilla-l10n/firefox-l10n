@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Ανεπιθύμητη αλληλογραφία">
-<!ENTITY itemPhishing.label      "Απάτες E-mail">
-<!ENTITY itemPasswords.label     "Κωδικοί">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+<!ENTITY itemJunk.label          "Ανεπιθύμητα">
+<!ENTITY itemPhishing.label      "Απάτες email">
+<!ENTITY itemPasswords.label     "Κωδικοί πρόσβασης">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Ορισμός των προεπιλεγμένων ρυθμίσεων ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις ανεπιθύμητων για συγκεκριμένους λογαριασμούς μπορούν να ορισθούν από τις ρυθμίσεις λογαριασμού.">
-<!ENTITY manualMark.label "Όταν σημειώνεται ένα μήνυμα ως ανεπιθύμητο:">
+<!ENTITY junkMail.intro "Καθορίστε τις προεπιλεγμένες ρυθμίσεις ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις για συγκεκριμένους λογαριασμούς μπορούν να τροποποιηθούν στις ρυθμίσεις λογαριασμού.">
+<!ENTITY manualMark.label "Όταν επισημαίνεται ως ανεπιθύμητο ένα μήνυμα:">
 <!ENTITY manualMark.accesskey "σ">
 <!ENTITY manualMarkModeMove.label "Να μετακινείται στο φάκελο &quot;Ανεπιθύμητα&quot; του λογαριασμού">
 <!ENTITY manualMarkModeMove.accesskey "θ">
