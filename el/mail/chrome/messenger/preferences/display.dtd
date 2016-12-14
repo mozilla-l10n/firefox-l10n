@@ -49,7 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Ανάγνωση">
 <!ENTITY display.caption                  "Προβολή">
-<!ENTITY showCondensedAddresses.label     "Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο βιβλίο διευθύνσεών μου">
+<!ENTITY showCondensedAddresses.label     "Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο ευρετήριο διευθύνσεών μου">
 <!ENTITY showCondensedAddresses.accesskey "ε">
 
 <!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένα">
