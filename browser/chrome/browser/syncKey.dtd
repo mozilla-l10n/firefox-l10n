@@ -14,5 +14,5 @@
 <!ENTITY syncKey.findOutMore1.label       "למד עוד על &syncBrand.fullName.label; ועל הפרטיות שלך בכתובת ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "תנאי השירות של &syncBrand.fullName.label; זמינים בכתובת ">
-<!ENTITY syncKey.footer2.label            "מדיניות הפרטיות זמינה בכתובת ">
+<!ENTITY syncKey.footer2.label            ". מדיניות הפרטיות זמינה בכתובת ">
 <!ENTITY syncKey.footer3.label            ".">
