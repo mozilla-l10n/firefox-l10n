@@ -11,7 +11,6 @@
 <!ENTITY cmd.resume.label                 "Wznów">
 <!ENTITY cmd.resume.accesskey             "z">
 <!ENTITY cmd.cancel.label                 "Anuluj">
-<!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.show.label "Otwórz folder nadrzędny">
 <!ENTITY cmd.show.accesskey "f">
 <!ENTITY cmd.showMac.label "Pokaż w Finderze">
