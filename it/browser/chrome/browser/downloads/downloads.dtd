@@ -10,7 +10,6 @@
 <!ENTITY cmd.resume.label "Riprendi">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.cancel.label "Annulla">
-<!ENTITY cmd.cancel.accesskey "n">
 <!ENTITY cmd.show.label "Apri cartella">
 <!ENTITY cmd.show.accesskey "A">
 <!ENTITY cmd.showMac.label "Mostra nel Finder">
