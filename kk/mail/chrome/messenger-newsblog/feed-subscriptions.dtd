@@ -15,15 +15,17 @@
 <!ENTITY locationValidate.label      "Дұрыстығын тексеру">
 <!ENTITY validateText.label          "Дұрыстығын тексеріп, жарамды сілтемені алу.">
 
-
+<!ENTITY feedFolder.label            "Мақалаларды сақтау орны:">
+<!ENTITY feedFolder.accesskey        "с">
 
 <!ENTITY quickMode.label             "Веб парағын жүктеп алу орнына мақаланың қысқаша қорытындысын көрсету">
 <!ENTITY quickMode.accesskey         "с">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Тегтерді автоматты түрде &lt;category&gt; атауларынан жасау">
+<!ENTITY autotagEnable.accesskey     "м">
+<!ENTITY autotagUsePrefix.label      "Тегтерді келесімен префикстеу:">
+<!ENTITY autotagUsePrefix.accesskey  "п">
+<!ENTITY autoTagPrefix.placeholder   "Тег префиксін енгізіңіз">
 
 <!ENTITY button.addFeed.label        "Қосу">
 <!ENTITY button.addFeed.accesskey    "о">
