@@ -243,3 +243,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "מפתחים המעוניינים לאמת את התוספות שלהם מתבקשים לעיין ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "במדריך">
 <!ENTITY disabledUnsigned.devInfo.end " שלנו.">
+
+<!ENTITY pluginDeprecation.description "חסר כאן משהו? מספר תוספים חיצוניים כבר לא נתמכים ע״י &brandShortName;.">
