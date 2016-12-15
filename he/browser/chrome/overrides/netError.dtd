@@ -50,11 +50,14 @@
 <!ENTITY openPortalLoginPage.label "פתיחת עמוד הכניסה">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
-<strong>http://www.example.com/</strong></li> 
-<li>ודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>כתובות אתרים נכתבות בדרך־כלל בתבנית
+    <strong>http://www.example.com/‎</strong></li>
+  <li>נא לוודא שהלוכסנים הם קדמיים (למשל
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
