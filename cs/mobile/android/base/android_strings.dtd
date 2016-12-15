@@ -173,11 +173,11 @@
 <!ENTITY pref_category_accessibility "Přístupnost">
 <!ENTITY pref_category_accessibility_summary2 "Velikost textu, lupa, hlasový vstup">
 <!ENTITY pref_category_privacy_short "Soukromí">
-<!ENTITY pref_category_privacy_summary4 "Sledování, přihlášení, možnosti hlášení">
+<!ENTITY pref_category_privacy_summary4 "Sledování, přihlašovací údaje, možnosti hlášení">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O aplikaci &brandShortName;, často kladené dotazy, zpětná vazba">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
-<!ENTITY pref_category_logins "Přihlášení">
+<!ENTITY pref_category_logins "Přihlašovací údaje">
 <!ENTITY pref_learn_more "Zjistit více">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
 <!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
@@ -202,8 +202,8 @@
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladění pomocí Wi-Fi vyžaduje, aby vaše zařízení mělo nainstalovanou čtečku QR kódů.">
-<!ENTITY pref_remember_signons2 "Pamatovat si přihlášení">
-<!ENTITY pref_manage_logins "Správa přihlášení">
+<!ENTITY pref_remember_signons2 "Pamatovat si přihlašovací údaje">
+<!ENTITY pref_manage_logins "Správa přihlašovacích údajů">
 
 <!ENTITY pref_category_home "Domů">
 <!ENTITY pref_category_home_summary "Přizpůsobení vaší domovské stránky">
@@ -381,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync2 "Přihlásit se">
-<!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
+<!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, hesel a historie">
 <!ENTITY pref_search_suggestions "Povolit našeptávání">
 <!ENTITY pref_history_search_suggestions "Zobrazit historii vyhledávání">
 <!ENTITY pref_import_options "Možnosti importu">
@@ -389,8 +389,8 @@ size. -->
 <!ENTITY pref_private_data_history2 "Historie prohlížení">
 <!ENTITY pref_private_data_searchHistory "Historie vyhledávání">
 <!ENTITY pref_private_data_formdata2 "Historie formulářů">
-<!ENTITY pref_private_data_cookies2 "Cookies a přihlášení">
-<!ENTITY pref_private_data_passwords2 "Uložená přihlášení">
+<!ENTITY pref_private_data_cookies2 "Cookies a aktivní přihlášení">
+<!ENTITY pref_private_data_passwords2 "Uložené přihlašovací údaje">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
@@ -455,7 +455,7 @@ size. -->
 <!ENTITY quit "Ukončit">
 
 <!ENTITY addons "Doplňky">
-<!ENTITY logins "Přihlášení">
+<!ENTITY logins "Přihlašovací údaje">
 <!ENTITY downloads "Stahování">
 <!ENTITY char_encoding "Znaková sada">
 
@@ -512,15 +512,15 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Žádné uživatelské jméno]">
-<!ENTITY doorhanger_login_edit_title "Úprava přihlášení">
+<!ENTITY doorhanger_login_edit_title "Úprava přihlašovacích údajů">
 <!ENTITY doorhanger_login_edit_username_hint "Uživatelské jméno">
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
 <!ENTITY doorhanger_login_edit_toggle "Zobrazit heslo">
-<!ENTITY doorhanger_login_edit_toast_error "Chyba při ukládání přihlášení">
+<!ENTITY doorhanger_login_edit_toast_error "Chyba při ukládání přihlašovacích údajů">
 <!ENTITY doorhanger_login_select_message "Zkopírovat heslo z &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Heslo zkopírováno do schránky">
 <!ENTITY doorhanger_login_select_toast_copy_error "Heslo nelze zkopírovat">
-<!ENTITY doorhanger_login_select_action_text "Zvolte jiné přihlášení">
+<!ENTITY doorhanger_login_select_action_text "Zvolte jiné přihlašovací údaje">
 <!ENTITY doorhanger_login_select_title "Zkopírovat heslo z">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
