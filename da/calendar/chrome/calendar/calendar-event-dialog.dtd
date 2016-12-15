@@ -190,10 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Accepter forslag">
 <!ENTITY counter.button.proposal.accesskey                "A">
-<!ENTITY counter.button.proposal.tooltip2                 "Felterne i begivenheden vil blive udfyldt med data fra modforslaget. Der bliver kun sendt besked til alle deltagere, hvis der gemmes (med eller uden yderliger ændringer).">
+<!ENTITY counter.button.proposal.tooltip2                 "Felterne i begivenheden vil blive udfyldt med data fra ændringsforslaget. Der bliver kun sendt besked til alle deltagere, hvis der gemmes (med eller uden yderliger ændringer).">
 <!ENTITY counter.button.original.label                    "Behold de originale data">
 <!ENTITY counter.button.original.accesskey                "B">
-<!ENTITY counter.button.original.tooltip2                 "Felterne udfyldes med de originale data fra før modforslaget">
+<!ENTITY counter.button.original.tooltip2                 "Felterne udfyldes med de originale data fra før ændringsforslaget">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
