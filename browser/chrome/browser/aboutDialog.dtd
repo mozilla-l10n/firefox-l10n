@@ -42,7 +42,7 @@
 <!ENTITY helpus.middle              " sau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "implică-te!">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 ".">
 
 <!ENTITY releaseNotes.link          "Ce este nou">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -72,7 +72,7 @@
 
 <!ENTITY update.failed.start        "Actualizare eșuată. ">
 <!ENTITY update.failed.linkText     "Descarcă cea mai recentă versiune">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          ".">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
