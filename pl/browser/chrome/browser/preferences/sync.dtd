@@ -36,7 +36,7 @@
 <!ENTITY changeSyncDeviceName.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuluj">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
-<!ENTITY saveChangeSyncDeviceName.label "Zapisz">
+<!ENTITY saveChangeSyncDeviceName.label "Zachowaj">
 <!ENTITY saveChangeSyncDeviceName.accesskey "Z">
 <!ENTITY unlinkDevice.label           "Odłącz to urządzenie">
 

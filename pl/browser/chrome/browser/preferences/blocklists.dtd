@@ -11,5 +11,5 @@
 
 <!ENTITY button.cancel.label "Anuluj">
 <!ENTITY button.cancel.accesskey "A">
-<!ENTITY button.ok.label "Zapisz zmiany">
+<!ENTITY button.ok.label "Zachowaj zmiany">
 <!ENTITY button.ok.accesskey "Z">
