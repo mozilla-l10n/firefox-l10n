@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Přihlášení">
+<!ENTITY aboutLogins.title                       "Přihlašovací údaje">
 <!ENTITY aboutLogins.update                      "Aktualizovat">
-<!ENTITY aboutLogins.emptyLoginText              "Mějte svá přihlášení v bezpečí">
-<!ENTITY aboutLogins.emptyLoginHint              "Přihlášení a jejich údaje, které jste pomocí &brandShortName; uložili, se zobrazí zde.">
+<!ENTITY aboutLogins.emptyLoginText              "Mějte své přihlašovací údaje v bezpečí">
+<!ENTITY aboutLogins.emptyLoginHint              "Přihlašovací údaje, které jste pomocí &brandShortName; uložili, se zobrazí zde.">

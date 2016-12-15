@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Nemám zařízení sebou…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Přihlášení'>
+<!ENTITY sync.configure.engines.title.passwords2 'Přihlašovací údaje'>
 <!ENTITY sync.configure.engines.title.history 'Historie'>
 <!ENTITY sync.configure.engines.title.tabs 'Panely'>
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Zpět na prohlížení'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Vítá vás &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Pro synchronizaci panelů, záložek, přihlášení a dalších věcí se přihlašte.'>
+<!ENTITY fxaccount_getting_started_description2 'Pro synchronizaci panelů, záložek, hesel a dalších věcí se přihlaste.'>
 <!ENTITY fxaccount_getting_started_get_started 'Začít'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Používáte starou verzi &syncBrand.shortName.label;?'>
 
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení do svého nového účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'Historie'>
-<!ENTITY fxaccount_status_passwords2 'Přihlášení'>
+<!ENTITY fxaccount_status_passwords2 'Přihlašovací údaje'>
 <!ENTITY fxaccount_status_tabs 'Otevřené panely'>
 <!ENTITY fxaccount_status_legal 'Právní informace' >
 <!-- Localization note: when tapped, the following two strings link to
