@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "বার্তা গৃহীত হয়েছে">
 <!ENTITY aboutNetworking.bytesSent             "প্রেরিত বাইট">
 <!ENTITY aboutNetworking.bytesReceived         "প্রাপ্ত বাইট">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "লগিং">
+<!ENTITY aboutNetworking.logTutorial           "টুলটি ব্যবহারের নিয়ম জানতে <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> দেখুন।">
+<!ENTITY aboutNetworking.currentLogFile        "বর্তমান লগ ফাইল:">
+<!ENTITY aboutNetworking.currentLogModules     "বর্তমান লগ মডিউল:">
+<!ENTITY aboutNetworking.setLogFile            "লগ ফাইল সেট করুন">
+<!ENTITY aboutNetworking.setLogModules         "লগ মডিউল সেট করুন">
+<!ENTITY aboutNetworking.startLogging          "লগিং শুরু করুন">
+<!ENTITY aboutNetworking.stopLogging           "লগিং থামাও">
 <!ENTITY aboutNetworking.dnsLookup             "ডিএনএস লুকআপ">
 <!ENTITY aboutNetworking.dnsLookupButton       "রিজলভ">
 <!ENTITY aboutNetworking.dnsDomain             "ডোমেইন">
