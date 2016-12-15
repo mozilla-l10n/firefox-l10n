@@ -25,8 +25,8 @@
 <!ENTITY cmd.removeFromHistory.accesskey "U">
 <!ENTITY cmd.clearList2.label "Wyczyść listę">
 <!ENTITY cmd.clearList2.accesskey "c">
-<!ENTITY cmd.clearDownloads.label "Wyczyść pobrane">
-<!ENTITY cmd.clearDownloads.accesskey "e">
+<!ENTITY cmd.clearDownloads.label "Wyczyść listę">
+<!ENTITY cmd.clearDownloads.accesskey "c">
 <!ENTITY cmd.unblock2.label "Pozwól pobrać">
 <!ENTITY cmd.unblock2.accesskey "P">
 <!ENTITY cmd.removeFile.label "Usuń plik">
@@ -36,12 +36,12 @@
 <!ENTITY blocked.label "Zablokowano">
 <!ENTITY learnMore.label "więcej informacji">
 
-<!ENTITY downloadsHistory.label "Wyświetl wszystkie pobrane">
+<!ENTITY downloadsHistory.label "Wyświetl wszystkie">
 <!ENTITY downloadsHistory.accesskey "W">
 
 <!ENTITY openDownloadsFolder.label "Otwórz folder z pobranymi plikami">
 
-<!ENTITY clearDownloadsButton.label "Wyczyść pobrane">
+<!ENTITY clearDownloadsButton.label "Wyczyść listę">
 <!ENTITY clearDownloadsButton.tooltip "Zakończone, anulowane i nieudane pobierania zostaną usunięte">
 
 <!ENTITY downloadsListEmpty.label "Brak pobranych plików">
