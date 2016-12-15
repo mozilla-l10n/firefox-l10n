@@ -645,7 +645,7 @@
 <!ENTITY folderContextRemove.label "Slet mappe">
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Optimer denne mappe">
-<!ENTITY folderContextCompact.accesskey "p">
+<!ENTITY folderContextCompact.accesskey "m">
 <!ENTITY folderContextEmptyTrash.label "Tøm papirkurv">
 <!ENTITY folderContextEmptyTrash.accesskey "ø">
 <!ENTITY folderContextEmptyJunk.label "Tøm spam-mappen">
