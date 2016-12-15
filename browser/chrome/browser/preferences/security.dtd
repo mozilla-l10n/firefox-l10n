@@ -24,9 +24,9 @@
 <!ENTITY  addonExceptions.accesskey     "m">
 
 
-<!ENTITY  logins.label                  "Přihlášení">
+<!ENTITY  logins.label                  "Přihlašovací údaje">
 
-<!ENTITY  rememberLogins.label          "Pamatovat si přihlášení na serverech">
+<!ENTITY  rememberLogins.label          "Pamatovat si na serverech přihlašovací údaje">
 <!ENTITY  rememberLogins.accesskey      "a">
 <!ENTITY  passwordExceptions.label      "Výjimky…">
 <!ENTITY  passwordExceptions.accesskey  "k">
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Změnit hlavní heslo…">
 <!ENTITY  changeMasterPassword.accesskey "n">
 
-<!ENTITY  savedLogins.label              "Uložená přihlášení…">
+<!ENTITY  savedLogins.label              "Uložená hesla…">
 <!ENTITY  savedLogins.accesskey          "h">
