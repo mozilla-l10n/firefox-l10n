@@ -29,6 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Prijaté správy">
 <!ENTITY aboutNetworking.bytesSent             "Odoslané bajty">
 <!ENTITY aboutNetworking.bytesReceived         "Prijaté bajty">
+<!ENTITY aboutNetworking.logging               "Záznam">
 <!ENTITY aboutNetworking.dnsLookup             "Vyhľadávanie DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Vyriešiť">
 <!ENTITY aboutNetworking.dnsDomain             "Doména">
