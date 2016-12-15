@@ -246,5 +246,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "驗證指南">
 <!ENTITY disabledUnsigned.devInfo.end "。">
 
-<!ENTITY pluginDeprecation.description "少了某些東西嗎？&brandShortName; 已不再支援某些外掛程式。">
+<!ENTITY pluginDeprecation.description "少了點東西嗎？&brandShortName; 已不再支援某些外掛程式。">
 <!ENTITY pluginDeprecation.learnMore "了解更多。">
