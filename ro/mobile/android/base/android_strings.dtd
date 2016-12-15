@@ -280,11 +280,11 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "File personalizate">
-
+<!ENTITY pref_custom_tabs_summary3 "Permite aplicațiilor să deschidă site-uri cu o versiune particularizată de &brandShortName;">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux de activități">
-
+<!ENTITY pref_activity_stream_summary "E mai ușor ca oricând să găsești exact ce cauți printr-un flux istoric bogat vizual și o pagină de start reconcepută pentru &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție față de urmărire">
 <!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
@@ -832,9 +832,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "Evidențieri">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Însemnat">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Vizitat">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "Înlătură">
+<!ENTITY activity_stream_delete_history "Șterge din istoric">
