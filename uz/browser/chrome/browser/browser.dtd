@@ -78,7 +78,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Oflayn ishlash">
 <!ENTITY goOfflineCmd.accesskey "i">
 
-<!ENTITY menubarCmd.label "Menyu bar">
+<!ENTITY menubarCmd.label "Menyu paneli">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigatsiya paneli">
 <!ENTITY personalbarCmd.label "Xatcho‘plar paneli">
@@ -470,7 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.accesskey        "o">
 <!ENTITY openLinkInPrivateWindowCmd.label "Linkni yangi maxfiy oynada ochish">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "m">
-<!ENTITY openLinkCmdInCurrent.label     "Linkni ochish">
+<!ENTITY openLinkCmdInCurrent.label     "Havolani ochish">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
 <!ENTITY openFrameCmdInTab.label      "Kadrni yangi ichki oynada ochish">
 <!ENTITY openFrameCmdInTab.accesskey  "i">
