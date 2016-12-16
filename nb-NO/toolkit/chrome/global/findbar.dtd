@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Søker etter den neste forekomsten av teksten">
 <!ENTITY previous.tooltip "Søker etter den forrige forekomsten av teksten">
 <!ENTITY findCloseButton.tooltip "Lukk søkelinje">
-
-
+<!ENTITY highlightAll.label "Marker alt">
+<!ENTITY highlightAll.accesskey "M">
 <!ENTITY highlightAll.tooltiptext "Markerer alle forekomster av teksten">
 <!ENTITY caseSensitive.label "Skill mellom store/små bokstaver">
 <!ENTITY caseSensitive.accesskey "k">
