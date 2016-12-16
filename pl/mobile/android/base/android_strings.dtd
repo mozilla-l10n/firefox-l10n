@@ -396,7 +396,7 @@
 <!ENTITY pref_tab_queue_summary4 "Zachowywanie odnośników do następnego otwarcia przeglądarki &brandShortName;">
 
 <!ENTITY pref_compact_tabs "Zwarte karty">
-<!ENTITY pref_compact_tabs_summary "Dwie kolumny kart w trybie pionowym">
+<!ENTITY pref_compact_tabs_summary2 "Dwie kolumny kart w trybie pionowym">
 
 <!ENTITY page_removed "Usunięto stronę">
 
