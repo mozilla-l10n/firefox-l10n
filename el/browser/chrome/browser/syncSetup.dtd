@@ -19,12 +19,16 @@
 <!ENTITY serverType.default.label      "Προεπιλογή: Διακομιστής Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου διακομιστή…">
 <!ENTITY signIn.account2.label      "Λογαριασμός">
+<!ENTITY signIn.account2.accesskey  "γ">
 <!ENTITY signIn.password.label      "Κωδικός πρόσβασης">
+<!ENTITY signIn.password.accesskey  "δ">
 <!ENTITY signIn.recoveryKey.label       "Κλειδί ανάκτησης">
+<!ENTITY signIn.recoveryKey.accesskey   "κ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Λεπτομέρειες λογαριασμού">
 <!ENTITY setup.emailAddress.label     "Διεύθυνση email">
+<!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό πρόσβασης">
 <!ENTITY setup.confirmPassword.label     "Επιβεβαίωση κωδικού πρόσβασης">
 
