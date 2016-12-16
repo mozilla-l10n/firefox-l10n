@@ -40,3 +40,5 @@
 <!ENTITY pref.accessibility.label "Προσιτότητα" >
 <!ENTITY pref.systemcolors.label "Βελτιστοποίηση χρωμάτων για προσιτότητα" >
 <!ENTITY pref.systemcolors.accesskey "Β">
+
+<!ENTITY pref.eventsandtasks.label "Συμβάντα και εργασίες" >
