@@ -22,16 +22,21 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Όνομα">
 <!ENTITY aboutSupport.extensionEnabled "Ενεργές">
 <!ENTITY aboutSupport.extensionVersion "Έκδοση">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Πειραματικές λειτουργίες">
 <!ENTITY aboutSupport.experimentName "Όνομα">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Περιγραφή">
 <!ENTITY aboutSupport.experimentActive "Ενεργό">
+<!ENTITY aboutSupport.experimentEndDate "Ημερομηνία λήξης">
 <!ENTITY aboutSupport.experimentHomepage "Αρχική σελίδα">
+<!ENTITY aboutSupport.experimentBranch "Διακλάδωση">
 
 <!ENTITY aboutSupport.appBasicsTitle "Βασικά εφαρμογής">
 <!ENTITY aboutSupport.appBasicsName "Όνομα">
 <!ENTITY aboutSupport.appBasicsVersion "Έκδοση">
+<!ENTITY aboutSupport.appBasicsBuildID "ID έκδοσης">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
@@ -46,9 +51,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Φάκελος προφίλ">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργές πρόσθετες λειτουργίες">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Ρύθμιση δομής">
+<!ENTITY aboutSupport.appBasicsUserAgent "Λειτουργία χρήσης">
+<!ENTITY aboutSupport.appBasicsOS "ΛΣ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Χρήση μνήμης">
+<!ENTITY aboutSupport.appBasicsPerformance "Επιδόσεις">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Εγγεγραμμένοι λειτουργοί υπηρεσίας">
 
 
 
@@ -87,7 +97,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Αντιγραφή δεδομένων raw στο πρόχειρο">
 
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
+<!ENTITY aboutSupport.safeModeTitle "Δοκιμή ασφαλούς λειτουργίας">
 <!ENTITY aboutSupport.restartInSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Λειτουργίες">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Διαγνωστικά">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">

@@ -4,7 +4,8 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Δεδομένα τηλεμετρίας">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Αλλαγή">
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Αλλαγή">
 
 
 
@@ -23,6 +24,8 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Εβδομάδα">
+
+
 
 
 
