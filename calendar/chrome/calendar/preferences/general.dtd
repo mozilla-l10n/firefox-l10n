@@ -5,7 +5,7 @@
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
-   -->
+  -->
 
 <!ENTITY pref.mainbox.label "Paramètres généraux" >
 <!ENTITY pref.dateformat.label "Format de la date :" >
@@ -16,10 +16,6 @@
 <!ENTITY pref.timezones.caption "Fuseau horaire">
 <!ENTITY pref.timezones.label "Choisissez la ville la plus proche dans votre fuseau horaire :">
 <!ENTITY pref.timezones.accesskey "C">
-
-<!ENTITY pref.accessibility.label "Accessibilité" >
-<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l’accessibilité" >
-<!ENTITY pref.systemcolors.accesskey "O">
 
 <!ENTITY pref.defaults.label "Valeurs par défaut pour les nouveaux éléments">
 <!ENTITY pref.events.label "Évènements">
@@ -40,3 +36,11 @@
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panneau « Aujourd’hui »">
 <!ENTITY pref.soondays.label "La section « Prochainement » doit afficher une période de :">
 <!ENTITY pref.soondays.accesskey "P">
+
+<!ENTITY pref.accessibility.label "Accessibilité" >
+<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l’accessibilité" >
+<!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.eventsandtasks.label "Évènements et tâches" >
+<!ENTITY pref.editInTab.label "Modifier les évènements et les tâches dans un onglet plutôt que dans une fenêtre de dialogue." >
+<!ENTITY pref.editInTab.accesskey "t">
