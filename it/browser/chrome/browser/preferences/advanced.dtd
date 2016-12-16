@@ -42,6 +42,8 @@
 <!ENTITY httpCache.label "Contenuti web in cache">
 <!ENTITY offlineStorage2.label "Dati non in linea e informazioni utente">
 <!ENTITY siteData.label "Dati dei siti web">
+<!ENTITY clearSiteData.label "Elimina tutti i dati">
+<!ENTITY clearSiteData.accesskey "m">
 <!ENTITY limitCacheSizeBefore.label "Limita la cache a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB di spazio">
