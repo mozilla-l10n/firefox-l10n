@@ -60,8 +60,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Εγγεγραμμένοι λειτουργοί υπηρεσίας">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Προφίλ">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Παράθυρα πολυδιεργασιών">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Ασφαλής λειτουργία">
 
 <!ENTITY aboutSupport.showDir.label "Άνοιγμα καταλόγου">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -70,6 +73,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Προβολή στον Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Άνοιγμα φακέλου">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Σημαντικές τροποποιημένες προτιμήσεις">
 <!ENTITY aboutSupport.modifiedPrefsName "Όνομα">
@@ -79,9 +83,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Προτιμήσεις user.js">
 <!ENTITY aboutSupport.userJSDescription "Ο φάκελος του προφίλ σας περιέχει το <a id='prefs-user-js-link'>αρχείο user.js</a>, που περιέχει προτιμήσεις που δεν δημιουργήθηκαν από τον &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedPrefsName "Όνομα">
+<!ENTITY aboutSupport.lockedPrefsValue "Τιμή">
 
 <!ENTITY aboutSupport.graphicsTitle "Γραφικά">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Βάση δεδομένων τοποθεσιών">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Ακεραιότητα">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Επαλήθευση ακεραιότητας">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
@@ -104,6 +113,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Λειτουργίες">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Διαγνωστικά">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Αρχείο καταγραφής αποτυχιών">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Αρχείο καταγραφής αποφάσεων">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">

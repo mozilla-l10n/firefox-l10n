@@ -10,15 +10,19 @@
 <!ENTITY importFromBookmarks.label      "Εισαγωγή σελιδοδεικτών από:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "Μ">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "Ε">
 <!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
 <!ENTITY importFromNothing.accesskey    "τ">
 <!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "Σ">
 <!ENTITY importFromCanary.label         "Chrome Canary">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
 
@@ -35,3 +39,4 @@
 <!ENTITY done.title                     "Η εισαγωγή ολοκληρώθηκε">
 <!ENTITY done.label                     "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
 
+<!ENTITY closeSourceBrowser.label       "Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό προτού συνεχίσετε.">
