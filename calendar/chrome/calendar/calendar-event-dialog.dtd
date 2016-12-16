@@ -408,6 +408,7 @@
 <!ENTITY read.only.tentative.label       "Je participerai peut-être">
 <!ENTITY read.only.needs.action.label    "Je confirmerai plus tard">
 <!ENTITY read.only.reminder.label        "Rappel :">
+<!ENTITY read.only.attachments.label     "Pièces jointes :">
 <!ENTITY read.only.attendees.label       "Participants">
 <!ENTITY read.only.description.label     "Description">
 <!ENTITY read.only.link.label            "Lien">
