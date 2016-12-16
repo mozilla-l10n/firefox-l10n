@@ -8,7 +8,7 @@
 <!ENTITY checkForUpdates                                     "Ñembohekopyahu jeheka…">
 <!ENTITY blockedPlugin.label                                 "Ko mba'ejoajurã ojejokóma neñemo'ãrã.">
 <!ENTITY hidePluginBtn.label                                 "Mba'ejoajurã moñemi">
-<!ENTITY managePlugins                                       "Mboguejyrã'i ñangareko…">
+<!ENTITY managePlugins                                       "Mba'ejoajurã ñangareko…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
