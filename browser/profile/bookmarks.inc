@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly Resources
+#define nightly_heading Firefox Nightly-ressurser
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Firefox Nightly-blogg
 
 
 # LOCALIZATION NOTE (bugzilla):
@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools Nightly testverktøy
 
 
 # LOCALIZATION NOTE (crashes):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Alle dine krasj
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Diskuter Nightly på IRC
 
 
 # LOCALIZATION NOTE (planet):
