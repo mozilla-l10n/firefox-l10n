@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "باز کردن ترجیحات &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
+<!ENTITY fxaSignInError.label "اتصال مجدد به &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "حساب خود را تایید کنید">
 
 
@@ -380,8 +380,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "بازگشت به منو">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.label "انتقال به منو">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ن">
 <!ENTITY customizeMenu.removeFromToolbar.label "حذف از نوارابزار">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ح">
 <!ENTITY customizeMenu.removeFromMenu.label "حذف از منو">
@@ -667,14 +667,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "سبک ابتدایی صفحه">
 <!ENTITY pageStylePersistentOnly.accesskey "ب">
 
-<!ENTITY pageReportIcon.tooltip            "تغییر تنظیمات مسدود کردن پنجره‌های واشو برای این پایگاه وب">
+<!ENTITY pageReportIcon.tooltip            "تغییر تنظیمات مسدود کردن پنجره‌های بازشو برای این پایگاه وب">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "ویرایش ترجیحات بازدارندهٔ پنجره‌های واشو">
-<!ENTITY editPopupSettings.label "ویرایش گزینه‌های بازدارندهٔ پنجره‌های واشو">
+<!ENTITY editPopupSettingsUnix.label "ویرایش ترجیحات مسدودسازی پنجره‌های بازشو">
+<!ENTITY editPopupSettings.label "ویرایش گزینه‌های مسدودسازی پنجره‌های بازشو">
 <!ENTITY editPopupSettings.accesskey "و">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -777,8 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "انجام هم‌گام‌سازی">
 <!ENTITY syncSyncNowItem.accesskey    "ه">
-<!ENTITY syncReAuthItem.label         "بازگشت به &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "ب">
+<!ENTITY syncReAuthItem.label         "اتصال مجدد به &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "ت">
 <!ENTITY syncToolbarButton.label      "هم‌گام‌سازی">
 
 <!ENTITY social.addons.label "مدیریت سرویس‌ها…">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "کلیدهای Ctrl+Tab به ترتیبِ استفاده اخیر بین زبانه‌ها حرکت میکند">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "در عوض در یک پنجره جدید باز شود">
+<!ENTITY newWindowsAsTabs.label       "پنجره‌های جدید در عوض در یک زبانه جدید باز شوند">
 <!ENTITY newWindowsAsTabs.accesskey   "ج">
 
 <!ENTITY warnCloseMultipleTabs.label  "در هنگام بستن بیش از یک زبانه هشدار داده شود">
