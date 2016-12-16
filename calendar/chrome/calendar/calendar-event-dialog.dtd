@@ -163,10 +163,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Enregistrer">
+<!ENTITY  event.toolbar.saveandclose.label                "Enregistrer et fermer">
 <!ENTITY  event.toolbar.delete.label                      "Supprimer">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter des participants">
 <!ENTITY  event.toolbar.privacy.label                     "Confidentialité">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Enregistrer">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Enregistrer et fermer">
 <!ENTITY  event.toolbar.delete.tooltip                    "Supprimer">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter des participants">
 <!ENTITY  event.toolbar.attachments.tooltip               "Ajouter des pièces jointes">
