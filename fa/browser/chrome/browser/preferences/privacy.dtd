@@ -14,16 +14,16 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "ت">
 
 <!ENTITY tracking.label                 "ره‌گیری">
-<!ENTITY trackingProtectionPBM5.label         "از محافظت ردگیری در پنجره‌های خصوصی استفاده کنید">
-<!ENTITY trackingProtectionPBM5.accesskey     "خ">
+<!ENTITY trackingProtectionPBM5.label         "از محافظت ردگیری در پنجره‌های ناشناس استفاده کنید">
+<!ENTITY trackingProtectionPBM5.accesskey     "ن">
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
 <!ENTITY changeBlockList.label          "تغییر لیست مسدودی‌ها">
 <!ENTITY changeBlockList.accesskey      "ت">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "شما همچنین می‌توانید  ">
-<!ENTITY  doNotTrack.settings.label     "مدیریت تنظیمات «ردیابی نکن» خود">
+<!ENTITY  doNotTrack.pre.label          "شما همچنین می‌توانید ">
+<!ENTITY  doNotTrack.settings.label     "تنظیمات سرویس «ردیابی نکن» خود را مدیریت کنید">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "تاریخچه">
