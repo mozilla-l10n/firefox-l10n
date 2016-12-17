@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Teachtaireachtaí Faighte">
 <!ENTITY aboutNetworking.bytesSent             "Bearta Seolta">
 <!ENTITY aboutNetworking.bytesReceived         "Bearta Faighte">
+<!ENTITY aboutNetworking.logging               "Logáil">
 
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.currentLogFile        "An Logchomhad Reatha:">
+<!ENTITY aboutNetworking.currentLogModules     "Logmhodúil Reatha:">
+<!ENTITY aboutNetworking.setLogFile            "Socraigh Logchomhad">
+<!ENTITY aboutNetworking.setLogModules         "Socraigh Logmhodúil">
+<!ENTITY aboutNetworking.startLogging          "Tosaigh Logáil">
+<!ENTITY aboutNetworking.stopLogging           "Stop Logáil">
 <!ENTITY aboutNetworking.dnsLookup             "Cuardach DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Réitigh">
 <!ENTITY aboutNetworking.dnsDomain             "Fearann">

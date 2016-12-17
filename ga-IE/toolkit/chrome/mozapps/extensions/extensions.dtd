@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "lámhleabhar">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Rud éigin ar iarraidh? Ní thacaíonn &brandShortName; le roinnt forlíontán a thuilleadh.">
+<!ENTITY pluginDeprecation.learnMore "Tuilleadh Eolais.">
