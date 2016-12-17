@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Adresář">
 <!ENTITY blankResultsPaneMessage.label                  "Tento adresář zobrazuje kontakty pouze po vyhledání">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakty ze vzdálených adresářů se nezobrazují dokud je nevyhledáváte">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Soubor">
 <!ENTITY fileMenu.accesskey                             "S">
@@ -75,9 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Vlastnosti">
-<!ENTITY propertiesCmd2.accesskey                       "l">
+<!ENTITY propertiesMenu.label                           "Vlastnosti">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Vlastnosti kontaktů">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Vlastnosti kontaktu">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Vlastnosti skupiny">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Zobrazení">
@@ -133,8 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nová skupina">
 <!ENTITY newlistButton.accesskey                        "s">
-<!ENTITY editButton2.label                              "Vlastnosti">
-<!ENTITY editButton2.accesskey                          "l">
+<!ENTITY editPropertiesButton.label                     "Upravit">
+<!ENTITY propertiesContext.label                        "Vlastnosti">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Vlastnosti">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Upravit kontakt">
+<!ENTITY editContactContext.accesskey                   "U">
+<!ENTITY editMailingListContext.label                   "Upravit seznam">
+<!ENTITY editMailingListContext.accesskey               "U">
 <!ENTITY newmsgButton.label                             "Napsat zprávu">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Zpráva přes IM">
@@ -147,7 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip                          "Vytvoří novou skupinu">
-<!ENTITY editButton2.tooltip                            "Upraví označenou položku">
+<!ENTITY editPropertiesButton.tooltip                   "Upraví označenou položku">
+<!ENTITY editAbPropertiesButton.tooltip                 "Upraví vlastnosti označeného adresáře">
+<!ENTITY editContactPropertiesButton.tooltip            "Upraví označený kontakt">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Upraví označenou skupinu">
 <!ENTITY newmsgButton.tooltip                           "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY deleteButton2.tooltip                          "Smaže označenou položku">

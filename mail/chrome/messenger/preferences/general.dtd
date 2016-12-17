@@ -16,10 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Při přijetí nové zprávy:">
 <!ENTITY playSound.label                  "Přehrát zvuk">
-<!ENTITY playSound1.accesskey              "P">
+<!ENTITY playSound1.accesskey             "P">
+<!ENTITY playSoundMac.label               "Přehrát zvukový soubor:">
+<!ENTITY playSoundMac.accesskey           "v">
 <!ENTITY showAnimatedAlert.label          "Zobrazit upozornění">
 <!ENTITY showAnimatedAlert.accesskey      "Z">
-<!ENTITY notificationAlertSettings.label  "Upozornění můžete zakázat v systémovém nastavení panelu upozornění.">
+<!ENTITY notificationAlertSettings2.label "Upozornění a výchozí zvuk můžete zakázat v systémovém nastavení panelu upozornění.">
 <!ENTITY customizeMailAlert.label         "Přizpůsobit…">
 <!ENTITY customizeMailAlert.accesskey     "b">
 
@@ -29,8 +31,6 @@
 <!ENTITY play.label                       "Přehrát">
 <!ENTITY play.accesskey                   "h">
 <!ENTITY systemsound.label                "Zvuk nové pošty v systému">
-<!ENTITY systemsoundMac.label             "Zvuk výstrahy v systému">
-<!ENTITY systemsoundMac.accesskey         "u">
 <!ENTITY systemsound.accesskey            "u">
 <!ENTITY customsound.label                "Vlastní .wav soubor">
 <!ENTITY customsound.accesskey            "V">
