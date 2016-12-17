@@ -46,12 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Aksepter invitasjon til arrangement for alle oppføringer av arrangementet">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Legg til">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Legg til arrangement i kalenderen">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Avvis">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avvis arrangementinvitasjon">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avvis alle">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avvis arrangementinvitasjon for alle oppføringer av arrangementet">
-
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Avvis">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Avvis motforslaget">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Slett">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slett fra kalenderen">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer …">
@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å vise flere valg">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekreft på nytt">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Send en ny bekreftelse til arrangementinnkaller">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Planlegg på nytt">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Planlegge hendelsen på nytt">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagre en kopi">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagre en kopi av hendelsen i kalenderen, uavhengig av å svare til den som organiserer. Deltakerlisten vil tømmes.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med forbehold">
