@@ -166,7 +166,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nebyla nalezena žádná zařízení připojená k účtu Firefox Account">
+<!ENTITY overlay_no_synced_devices "Nebyla nalezena žádná zařízení připojená k vašemu účtu Firefoxu">
 
 <!ENTITY pref_category_search3 "Vyhledávání">
 <!ENTITY pref_category_search_summary2 "Přidat, nastavit výchozí, zobrazit návrhy">
