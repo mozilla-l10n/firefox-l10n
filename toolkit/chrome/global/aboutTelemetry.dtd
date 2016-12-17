@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Scálaigh">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Scálaigh Eochraithe">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histeagraim">
 
