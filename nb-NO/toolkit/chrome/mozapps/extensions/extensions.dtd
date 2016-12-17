@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Savner du noe? Noen programtillegg støttes ikke lenger av &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Les mer">

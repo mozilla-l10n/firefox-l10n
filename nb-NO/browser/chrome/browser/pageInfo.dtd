@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Generelt">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Tittel:">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Gjengivelsesmodus:">
