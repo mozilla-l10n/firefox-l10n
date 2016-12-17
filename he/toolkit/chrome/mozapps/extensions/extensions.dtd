@@ -213,7 +213,7 @@
 <!ENTITY eula.title                           "הסכם שימוש למשתמש קצה">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "קבל תנאים והתקן…">
+<!ENTITY eula.accept                          "קבלת התנאים והתקנה…">
 
 <!ENTITY settings.path.button.label           "עיון…‏">
 
