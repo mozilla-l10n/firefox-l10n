@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "gabh pàrt ann!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Na nòtaichean sgaoilidh">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Fiosrachadh Ceadachais">

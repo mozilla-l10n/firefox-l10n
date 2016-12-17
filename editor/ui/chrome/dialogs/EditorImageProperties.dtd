@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Seòladh an deilbh:">
 <!ENTITY locationEditField.accessKey "l">
 <!ENTITY locationEditField.tooltip "Cuir a-steach ainm no seòladh an deilbh">
-
+<!ENTITY locationEditField.shortenedDataURI "URI dàta giorraichte (cuiridh lethbhreac an URI slàn air an stòr-bhòrd)">
 <!ENTITY title.label "Gliocas-sgrìn:">
 <!ENTITY title.accessKey "G">
 <!ENTITY title.tooltip "Seo am feart html 'title' a nochdas mar ghliocas-sgrìn">

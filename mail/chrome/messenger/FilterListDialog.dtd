@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Air a chur an comas">
 <!ENTITY newButton.label "Ùr…">
 <!ENTITY newButton.accesskey "r">
-
-
+<!ENTITY newButton.popupCopy.label "Lethbhreac…">
+<!ENTITY newButton.popupCopy.accesskey "c">
 <!ENTITY editButton.label "Deasaich…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sguab às">

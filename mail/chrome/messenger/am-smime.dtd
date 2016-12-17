@@ -32,4 +32,6 @@
 <!ENTITY manageDevices.accesskey "I">
 <!-- Strings for the cert picker dialog -->
 
-
+<!ENTITY certPicker.title "Tagh teisteanas">
+<!ENTITY certPicker.info  "Teisteanas:">
+<!ENTITY certPicker.detailsLabel "Mion-fhiosrachadh an teisteanais a thagh thu:">
