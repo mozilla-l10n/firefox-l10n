@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
 <!ENTITY changeSyncDeviceName.label "Μετονομασία συσκευής…">
+<!ENTITY changeSyncDeviceName.accesskey "μ">
 <!ENTITY cancelChangeSyncDeviceName.label "Ακύρωση">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "κ">
 <!ENTITY saveChangeSyncDeviceName.label "Αποθήκευση">
+<!ENTITY saveChangeSyncDeviceName.accesskey "θ">
 <!ENTITY unlinkDevice.label           "Αποσύνδεση συσκευής">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Δεν έχετε συνδεθεί.">
 <!ENTITY signIn.label                "Είσοδος">
+<!ENTITY signIn.accesskey            "σ">
 <!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
 <!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
+<!ENTITY verifiedManage.accesskey    "η">
 <!ENTITY disconnect.label            "Αποσύνδεση…">
+<!ENTITY disconnect.accesskey        "Δ">
 <!ENTITY verify.label                "Επαλήθευση email">
+<!ENTITY verify.accesskey            "Ε">
 <!ENTITY forget.label                "Διαγραφή email">
+<!ENTITY forget.accesskey            "Γ">
 
 <!ENTITY welcome.description "Αποκτήστε πρόσβαση στις καρτέλες, τους σελιδοδείκτες, τους κωδικούς πρόσβασης, καθώς και σε πολλά άλλα, όποτε χρησιμοποιείτε το &brandShortName;.">
 <!ENTITY welcome.signIn.label "Είσοδος">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY signedOut.accountBox.title   "Σύνδεση με ένα λογαριασμό Firefox">
 <!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
+<!ENTITY signedOut.accountBox.create.accesskey  "Π">
 <!ENTITY signedOut.accountBox.signin  "Είσοδος">
+<!ENTITY signedOut.accountBox.signin.accesskey  "Σ">
 
 <!ENTITY signedIn.engines.label       "Συγχρονισμός ανάμεσα σε όλες σας τις συσκευές">
 
