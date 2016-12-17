@@ -6,6 +6,7 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 <!ENTITY pref.mainbox.label "Obecné nastavení" >
 <!ENTITY pref.dateformat.label "Formát data:" >
 <!ENTITY pref.dateformat.accesskey "d">
@@ -36,6 +37,10 @@
 <!ENTITY pref.soondays.label "Sekce nadcházející zobrazuje:">
 <!ENTITY pref.soondays.accesskey "n">
 
-<!ENTITY pref.accessibility.label "Přístupnost">
-<!ENTITY pref.systemcolors.label "Optimalizovat barvy kvůli přístupnosti">
+<!ENTITY pref.accessibility.label "Přístupnost" >
+<!ENTITY pref.systemcolors.label "Optimalizovat barvy kvůli přístupnosti" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.eventsandtasks.label "Události a úkoly" >
+<!ENTITY pref.editInTab.label "Upravovat události a úkoly v panelu místo dialogového okna." >
+<!ENTITY pref.editInTab.accesskey "t">
