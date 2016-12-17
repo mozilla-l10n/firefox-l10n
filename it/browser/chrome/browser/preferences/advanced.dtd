@@ -44,6 +44,8 @@
 <!ENTITY siteData.label "Dati dei siti web">
 <!ENTITY clearSiteData.label "Elimina tutti i dati">
 <!ENTITY clearSiteData.accesskey "m">
+<!ENTITY siteDataSettings.label "Impostazioni…">
+<!ENTITY siteDataSettings.accesskey "o">
 <!ENTITY limitCacheSizeBefore.label "Limita la cache a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB di spazio">
