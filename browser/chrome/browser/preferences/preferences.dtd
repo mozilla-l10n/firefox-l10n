@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Innhold">
 <!ENTITY  paneApplications.title  "Programmer">
 <!ENTITY  panePrivacy.title       "Personvern">
-
+<!ENTITY  paneContainers.title    "Innholdsfaner">
 <!ENTITY  paneSecurity.title      "Sikkerhet">
 <!ENTITY  paneAdvanced.title      "Avansert">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

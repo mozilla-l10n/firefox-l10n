@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Les mer">
 <!ENTITY  browserContainersEnabled.label        "Aktiver innholdsfaner">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
-
-
+<!ENTITY  browserContainersSettings.label        "Innstillinger …">
+<!ENTITY  browserContainersSettings.accesskey    "I">
