@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
 <!ENTITY event.attendees.disallowcounter.label       "Na ceadaich frith-mholaidhean">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-
+<!ENTITY event.attendees.disallowcounter.tooltip     "Tha seo a’ comharradh nach gabh thu ri frith-mholaidhean">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -78,7 +78,7 @@
 
 <!ENTITY  event.menu.item.save.label                      "Sàbhail">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Sàbhail is dùin e">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Sguab às…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -165,11 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Sàbhail">
+<!ENTITY  event.toolbar.saveandclose.label                "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Sàbhail">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.tooltip                    "Sguab às">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.attachments.tooltip               "Cuir ceanglachan ris">
@@ -187,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Cuir am moladh an sàs">
 <!ENTITY counter.button.proposal.accesskey                "m">
-
+<!ENTITY counter.button.proposal.tooltip2                 "Thèid na luachan on fhrith-mholadh a chur ann an raointean an tachartais; cha dèid fios a chur gu gach freastalaiche ach ma nì thu sàbhaladh leis no as aonais nan atharraichean.">
 <!ENTITY counter.button.original.label                    "Cuir an dàta tùsail an sàs">
 <!ENTITY counter.button.original.accesskey                "r">
-
+<!ENTITY counter.button.original.tooltip2                 "Thèid luachan an tachartais thùsail a chur sna raointean mar a bha e mus deach am frith-mholadh a dhèanamh">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
@@ -409,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Faodaidh gum bi mi ann">
 <!ENTITY read.only.needs.action.label    "Dearbhaichidh mi uaireigin eile">
 <!ENTITY read.only.reminder.label        "Cuimhnich:">
-
+<!ENTITY read.only.attachments.label     "Ceanglachain:">
 <!ENTITY read.only.attendees.label       "Freastalaichean">
 <!ENTITY read.only.description.label     "Tuairisgeul">
 <!ENTITY read.only.link.label            "Ceangal co-cheangailte">
