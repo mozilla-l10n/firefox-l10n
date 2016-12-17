@@ -65,7 +65,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Pro přihlášení potřebujete aktualizovat &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení do svého nového účtu Firefox Account.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení ke svému novému účtu Firefoxu.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'Historie'>
 <!ENTITY fxaccount_status_passwords2 'Přihlašovací údaje'>
@@ -80,7 +80,7 @@
 <!ENTITY fxaccount_status_more 'Více&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odpojit&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Odebrat Účet Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_title 'Odebrat účet Firefoxu?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; přestane synchronizovat váš účet, ale nesmaže žádná data o vašem prohlížení.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
