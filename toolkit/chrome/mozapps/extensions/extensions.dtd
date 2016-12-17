@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "מנהל התוספות">
 
-<!ENTITY search.placeholder                   "חפש בכל התוספות">
+<!ENTITY search.placeholder                   "חיפוש בכל התוספות">
 <!ENTITY search.buttonlabel                   "חיפוש">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -13,15 +13,15 @@
 <!ENTITY listEmpty.installed.label            "לא הותקנה אף תוספת מסוג זה">
 <!ENTITY listEmpty.availableUpdates.label     "לא נמצאו עדכונים">
 <!ENTITY listEmpty.recentUpdates.label        "לא עדכנת תוספות כלשהן לאחרונה">
-<!ENTITY listEmpty.findUpdates.label          "בדוק אם ישנם עדכונים">
+<!ENTITY listEmpty.findUpdates.label          "בדיקת עדכונים">
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
-<!ENTITY listEmpty.button.label               "למד עוד על תוספות">
+<!ENTITY listEmpty.button.label               "מידע נוסף על תוספות">
 <!ENTITY installAddonFromFile.label           "התקנת תוספת מקובץ…">
 <!ENTITY installAddonFromFile.accesskey       "ה">
 <!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">
 
-<!ENTITY cmd.back.tooltip                     "חזור דף אחד אחורה">
-<!ENTITY cmd.forward.tooltip                  "התקדם דף אחד קדימה">
+<!ENTITY cmd.back.tooltip                     "חזרה דף אחד אחורה">
+<!ENTITY cmd.forward.tooltip                  "התקדמות דף אחד קדימה">
 
 <!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
 <!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
@@ -31,20 +31,20 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "כל התוספות נוטרלו במצב בטוח.">
 <!ENTITY warning.checkcompatibility.label          "בדיקת תאימות תוספות מנוטלת. ייתכן וברשותך הרחבות לא תואמות.">
-<!ENTITY warning.checkcompatibility.enable.label   "אפשר">
-<!ENTITY warning.checkcompatibility.enable.tooltip "הפעל בדיקת תאימות תוספות">
+<!ENTITY warning.checkcompatibility.enable.label   "הפעלה">
+<!ENTITY warning.checkcompatibility.enable.tooltip "הפעלת בדיקת תאימות תוספות">
 <!ENTITY warning.updatesecurity.label              "בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.">
-<!ENTITY warning.updatesecurity.enable.label       "אפשר">
-<!ENTITY warning.updatesecurity.enable.tooltip     "הפעל בדיקות אבטחה לעדכוני תוספות">
+<!ENTITY warning.updatesecurity.enable.label       "הפעלה">
+<!ENTITY warning.updatesecurity.enable.tooltip     "הפעלת בדיקות אבטחה לעדכוני תוספות">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "חיפוש">
-<!ENTITY view.discover.label                  "קבל תוספות">
+<!ENTITY view.discover.label                  "קבלת תוספות">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "בדוק עדכונים">
+<!ENTITY updates.checkForUpdates.label        "בדיקת עדכונים">
 <!ENTITY updates.checkForUpdates.accesskey    "ב">
 <!ENTITY updates.viewUpdates.label            "הצגת עדכונים אחרונים">
 <!ENTITY updates.viewUpdates.accesskey        "ה">
@@ -66,16 +66,16 @@
 <!ENTITY updates.updating.label               "מעדכן תוספות">
 <!ENTITY updates.installed.label              "התוספות שלך עודכנו.">
 <!ENTITY updates.downloaded.label             "עדכוני התוספות שלך הורדו.">
-<!ENTITY updates.restart.label                "הפעל מחדש כעת להשלמת ההתקנה">
+<!ENTITY updates.restart.label                "הפעלה מחדש כעת להשלמת ההתקנה">
 <!ENTITY updates.noneFound.label              "לא נמצאו עדכונים">
-<!ENTITY updates.manualUpdatesFound.label     "הצג עדכונים זמינים">
-<!ENTITY updates.updateSelected.label         "התקן עדכונים">
-<!ENTITY updates.updateSelected.tooltip       "התקן את העדכונים הזמינים ברשימה זו">
+<!ENTITY updates.manualUpdatesFound.label     "הצגת עדכונים זמינים">
+<!ENTITY updates.updateSelected.label         "התקנת עדכונים">
+<!ENTITY updates.updateSelected.tooltip       "התקנת העדכונים הזמינים ברשימה זו">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "הצגת מידע נוסף">
 <!ENTITY cmd.showDetails.accesskey            "ה">
-<!ENTITY cmd.findUpdates.label                "מצא עדכונים">
+<!ENTITY cmd.findUpdates.label                "בדיקת עדכונים">
 <!ENTITY cmd.findUpdates.accesskey            "מ">
 <!ENTITY cmd.preferencesWin.label             "אפשרויות">
 <!ENTITY cmd.preferencesWin.accesskey         "א">
@@ -84,9 +84,9 @@
 <!ENTITY cmd.about.label                      "אודות">
 <!ENTITY cmd.about.accesskey                  "א">
 
-<!ENTITY cmd.enableAddon.label                "אפשר">
+<!ENTITY cmd.enableAddon.label                "הפעלה">
 <!ENTITY cmd.enableAddon.accesskey            "א">
-<!ENTITY cmd.disableAddon.label               "נטרל">
+<!ENTITY cmd.disableAddon.label               "ניטרול">
 <!ENTITY cmd.disableAddon.accesskey           "נ">
 <!ENTITY cmd.enableTheme.label                "לבש ערכת נושא">
 <!ENTITY cmd.enableTheme.accesskey            "ל">
@@ -94,9 +94,9 @@
 <!ENTITY cmd.disableTheme.accesskey           "ה">
 <!ENTITY cmd.askToActivate.label              "בקשת אישור להפעלה">
 <!ENTITY cmd.askToActivate.tooltip            "בקשת אישור כל פעם להשתמש בתוספת זו">
-<!ENTITY cmd.alwaysActivate.label             "הפעל תמיד">
-<!ENTITY cmd.alwaysActivate.tooltip           "השתמש תמיד בתוספת זו">
-<!ENTITY cmd.neverActivate.label              "אל תפעיל לעולם">
+<!ENTITY cmd.alwaysActivate.label             "הפעלה תמיד">
+<!ENTITY cmd.alwaysActivate.tooltip           "להשתמש תמיד בתוספת זו">
+<!ENTITY cmd.neverActivate.label              "לא להפעיל לעולם">
 <!ENTITY cmd.neverActivate.tooltip            "לעולם לאל להשתמש בתוספת זו">
 <!ENTITY cmd.stateMenu.tooltip                "שנה כשתוספת זו רצה">
 <!ENTITY cmd.installAddon.label               "התקנה">
@@ -195,7 +195,7 @@
 <!ENTITY addon.undoAction.tooltip             "בטל פעולה זו">
 <!ENTITY addon.undoRemove.label               "בטל">
 <!ENTITY addon.undoRemove.tooltip             "השאר תוספת זו מותקנת">
-<!ENTITY addon.restartNow.label               "הפעל מחדש כעת">
+<!ENTITY addon.restartNow.label               "הפעלה מחדש כעת">
 <!ENTITY addon.install.label                  "התקן">
 <!ENTITY addon.install.tooltip                "התקן תוספת זו">
 <!ENTITY addon.updateNow.label                "עדכן כעת">
@@ -245,3 +245,4 @@
 <!ENTITY disabledUnsigned.devInfo.end " שלנו.">
 
 <!ENTITY pluginDeprecation.description "חסר כאן משהו? מספר תוספים חיצוניים כבר לא נתמכים ע״י &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "למידע נוסף.">
