@@ -8,7 +8,7 @@
 
 <!ENTITY  noupdatesfound.title            "לא נמצאו עדכונים">
 <!ENTITY  noupdatesautoenabled.intro      "אין עדכונים זמינים. &brandShortName; יבדוק מדי פעם אם ישנם עדכונים חדשים.">
-<!ENTITY  noupdatesautodisabled.intro     "אין עדכונים זמינים. בבקשה לנסות שוב מאוחר יותר או להפעיל את העדכונים האוטומטיים של &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "אין עדכונים זמינים. נא לנסות שוב מאוחר יותר או להפעיל את העדכונים האוטומטיים של &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "לא ניתן לעדכן">
 <!ENTITY  manualUpdate.desc               "עדכון אבטחה ויציבות מומלץ זמין, אבל אין לך את ההרשאות הנדרשות במערכת כדי להתקין אותו. אנא פנה אל מנהל המערכת שלך, או נסה שוב מחשבון שיש לו הרשאות להתקנת תוכנה במחשב זה.">
