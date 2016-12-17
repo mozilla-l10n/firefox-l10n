@@ -165,6 +165,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "మూల మ్యాప్ లను ప్రారంభించు">
+<!ENTITY options.sourceMaps.tooltip    "మీరు ఈ ఎంపికను ప్రారంభిస్తే మూలాల డీబగ్గర్ మరియు కన్సోల్ లో మాప్ చెయ్యబడుతుంది.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
