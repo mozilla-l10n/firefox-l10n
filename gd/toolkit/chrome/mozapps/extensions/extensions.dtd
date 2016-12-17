@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "an stiùireadh againn">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a phlugain tuilleadh.">
+<!ENTITY pluginDeprecation.learnMore "Barrachd fiosrachaidh.">
