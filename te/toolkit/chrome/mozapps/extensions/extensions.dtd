@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "మాన్యువల్">
 <!ENTITY disabledUnsigned.devInfo.end "లో చెప్పినట్టు కొనసాగవచ్చు.">
 
+<!ENTITY pluginDeprecation.description "ఏదైనా లేదా? కొన్ని ప్లగిన్లకు &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
