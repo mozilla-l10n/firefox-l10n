@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Egen invitasjon for hver deltaker">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Denne innstillingen sender en invitasjon for hver deltaker. Hver invitasjon inneholder bare informasjon om om den enkelte deltaker, slik at andre deltakere ikke vises.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Forby teller">
+<!ENTITY event.attendees.disallowcounter.accesskey   "b">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indikerer at du ikke vil akseptere motforslag">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -78,7 +78,7 @@
 
 <!ENTITY  event.menu.item.save.label                      "Lagre">
 <!ENTITY  event.menu.item.save.accesskey                  "a">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Lagre og lukk">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Slett …">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -165,11 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Lagre">
+<!ENTITY  event.toolbar.saveandclose.label                "Lagre og lukk">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakere">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Lagre">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Lagre og lukk">
 <!ENTITY  event.toolbar.delete.tooltip                    "Slett">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltakere">
 <!ENTITY  event.toolbar.attachments.tooltip               "Nytt vedlegg">
@@ -185,9 +188,11 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
+<!ENTITY counter.button.proposal.label                    "Anvend forslag">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Hendelsesfeltene vil bli fylt ut med de verdiene fra motforslag, bare lagring med eller uten ytterligere endringer vil varsle alle deltakere deretter">
+<!ENTITY counter.button.original.label                    "Anvend opprinnelig data">
+<!ENTITY counter.button.original.accesskey                "r">
 
 <!-- Main page -->
 
@@ -407,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Jeg deltar kanskje">
 <!ENTITY read.only.needs.action.label    "Jeg beslutter senere">
 <!ENTITY read.only.reminder.label        "Påminnelse:">
-
+<!ENTITY read.only.attachments.label     "Vedlegg:">
 <!ENTITY read.only.attendees.label       "Deltakere">
 <!ENTITY read.only.description.label     "Beskrivelse">
 <!ENTITY read.only.link.label            "Relatert lenke">
