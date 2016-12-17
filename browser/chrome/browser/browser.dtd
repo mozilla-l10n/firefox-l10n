@@ -210,14 +210,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Άνοιγμα πλαισίου μηνυμάτων">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Άνοιγμα πλαισίου αίτησης τοποθεσίας">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Άνοιγμα πλαισίου μηνυμάτων αποθηκευμένων εκτός σύνδεσης">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Άνοιγμα πλαισίου μηνυμάτων αποθήκευσης συνθηματικού">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Διαχείριση του διαμοιρασμού των παραθύρων ή της οθόνης σας με τον ιστοτόπο">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Μετάφραση σελίδας">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για τον ιστοτόπο.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για τον ιστοτόπο.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Έχετε αποκλείσει την αποθήκευση δεδομένων για τον ιστοτόπο.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 

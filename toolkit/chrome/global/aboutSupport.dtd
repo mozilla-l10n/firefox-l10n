@@ -17,6 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Αναφοράς">
 <!ENTITY aboutSupport.crashes.sendDate "Υποβλήθηκε">
 <!ENTITY aboutSupport.crashes.allReports "Όλες οι αναφορές κατάρρευσης">
+<!ENTITY aboutSupport.crashes.noConfig "Αυτή η εφαρμογή δεν έχει ρυθμιστεί για εμφάνιση αναφορών κατάρρευσης.">
 
 <!ENTITY aboutSupport.extensionsTitle "Επεκτάσεις">
 <!ENTITY aboutSupport.extensionName "Όνομα">
@@ -83,6 +84,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Προτιμήσεις user.js">
 <!ENTITY aboutSupport.userJSDescription "Ο φάκελος του προφίλ σας περιέχει το <a id='prefs-user-js-link'>αρχείο user.js</a>, που περιέχει προτιμήσεις που δεν δημιουργήθηκαν από τον &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Σημαντικές Κλειδωμένες Προτιμήσεις">
 <!ENTITY aboutSupport.lockedPrefsName "Όνομα">
 <!ENTITY aboutSupport.lockedPrefsValue "Τιμή">
 
@@ -93,6 +95,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Επαλήθευση ακεραιότητας">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Αυξητική ΣΣ">
 
 <!ENTITY aboutSupport.a11yTitle "Προσιτότητα">
 <!ENTITY aboutSupport.a11yActivated "Ενεργοποιήθηκε">
@@ -117,4 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Αρχείο καταγραφής αποφάσεων">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">
