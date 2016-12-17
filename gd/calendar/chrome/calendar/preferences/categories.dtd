@@ -7,6 +7,9 @@
   -->
 
 
+<!ENTITY pref.categories.new.title "Roinn-seòrsa ùr">
+<!ENTITY pref.categories.newButton.label "Ùr…">
+<!ENTITY pref.categories.newButton.accesskey "r">
 <!ENTITY pref.categories.edit.title "Deasaich roinn">
 <!ENTITY pref.categories.editButton.label "Deasaich…">
 <!ENTITY pref.categories.editButton.accesskey "e">
