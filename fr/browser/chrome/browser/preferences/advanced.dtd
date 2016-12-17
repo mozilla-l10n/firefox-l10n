@@ -61,6 +61,8 @@
 <!ENTITY siteData.label                  "Données des sites">
 <!ENTITY clearSiteData.label             "Effacer toutes les données">
 <!ENTITY clearSiteData.accesskey         "f">
+<!ENTITY siteDataSettings.label          "Paramètres…">
+<!ENTITY siteDataSettings.accesskey      "a">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
