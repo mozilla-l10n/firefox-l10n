@@ -97,24 +97,24 @@
 <!ENTITY cmd.alwaysActivate.label             "הפעלה תמיד">
 <!ENTITY cmd.alwaysActivate.tooltip           "להשתמש תמיד בתוספת זו">
 <!ENTITY cmd.neverActivate.label              "לא להפעיל לעולם">
-<!ENTITY cmd.neverActivate.tooltip            "לעולם לאל להשתמש בתוספת זו">
-<!ENTITY cmd.stateMenu.tooltip                "שנה כשתוספת זו רצה">
+<!ENTITY cmd.neverActivate.tooltip            "לעולם לא להשתמש בתוספת זו">
+<!ENTITY cmd.stateMenu.tooltip                "לשנות כאשר תוספת זו רצה">
 <!ENTITY cmd.installAddon.label               "התקנה">
 <!ENTITY cmd.installAddon.accesskey           "ה">
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
 <!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
-<!ENTITY cmd.showPreferencesWin.tooltip       "שנה את האפשרויות של תוספת זו">
+<!ENTITY cmd.showPreferencesWin.tooltip       "שינוי האפשרויות של תוספת זו">
 <!ENTITY cmd.showPreferencesUnix.label        "העדפות">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "שנה את ההעדפות של תוספת זו">
-<!ENTITY cmd.contribute.label                 "תרום">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "שינוי העדפות של תוספת זו">
+<!ENTITY cmd.contribute.label                 "תרומה">
 <!ENTITY cmd.contribute.accesskey             "ת">
-<!ENTITY cmd.contribute.tooltip               "תרום לפיתוח של תוסף זו">
+<!ENTITY cmd.contribute.tooltip               "תרומה לפיתוח של תוספת זו">
 
-<!ENTITY cmd.showReleaseNotes.label           "הצג הערות שחרור">
-<!ENTITY cmd.showReleaseNotes.tooltip         "הצג את הערות השחרור של עדכון זה">
-<!ENTITY cmd.hideReleaseNotes.label           "הסתר הערות שחרור">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "הסתר את הערות השחרור של עדכון זה">
+<!ENTITY cmd.showReleaseNotes.label           "הצגת הערות שחרור">
+<!ENTITY cmd.showReleaseNotes.tooltip         "הצגת הערות השחרור של עדכון זה">
+<!ENTITY cmd.hideReleaseNotes.label           "הסתרת הערות שחרור">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "הסתרת הערות השחרור של עדכון זה">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):

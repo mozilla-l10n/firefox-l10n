@@ -8,7 +8,7 @@
 
 <!ENTITY  noupdatesfound.title            "לא נמצאו עדכונים">
 <!ENTITY  noupdatesautoenabled.intro      "אין עדכונים זמינים. &brandShortName; יבדוק מדי פעם אם ישנם עדכונים חדשים.">
-<!ENTITY  noupdatesautodisabled.intro     "אין עדכונים זמינים. בבקשה נסה שוב מאוחר יותר או אפשר את העדכונים האוטומטיים של &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "אין עדכונים זמינים. בבקשה לנסות שוב מאוחר יותר או להפעיל את העדכונים האוטומטיים של &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "לא ניתן לעדכן">
 <!ENTITY  manualUpdate.desc               "עדכון אבטחה ויציבות מומלץ זמין, אבל אין לך את ההרשאות הנדרשות במערכת כדי להתקין אותו. אנא פנה אל מנהל המערכת שלך, או נסה שוב מחשבון שיש לו הרשאות להתקנת תוכנה במחשב זה.">
@@ -17,7 +17,7 @@
 
 <!ENTITY  unsupported.title               "המערכת אינה נתמכת">
 <!ENTITY  unsupported.label               "&brandShortName; שלך אינו מעודכן אבל הגרסה העדכנית 
-אינה נתמכת במערכת שלך. אנא שדרג את המערכת ואז נסה שנית. 
+אינה נתמכת במערכת שלך. נא לשדרג את המערכת ואז לנסות שנית. 
 הודעה זו לא תוצג שוב אבל אפשר לקרוא">
 <!ENTITY  unsupportedLink.label           "מידע נוסף.">
 
