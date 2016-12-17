@@ -33,6 +33,8 @@
 <!ENTITY aboutNetworking.logTutorial           "ఈ పనిముట్టును ఎలా వాడుకోవాలో సూచనల కోసం <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP లాగింగ్</a>‌ను చూడండి.">
 <!ENTITY aboutNetworking.currentLogFile        "ప్రస్తుత లాగ్ ఫైలు:">
 <!ENTITY aboutNetworking.currentLogModules     "ప్రస్తుత నమోదు మాడ్యూలు:">
+<!ENTITY aboutNetworking.setLogFile            "లాగ్ ఫైల్ సెట్ చేయి">
+<!ENTITY aboutNetworking.setLogModules         "లాగ్ మాడ్యూల్ సెట్ చేయి">
 <!ENTITY aboutNetworking.startLogging          "లాగింగ్ ప్రారంభించు">
 <!ENTITY aboutNetworking.stopLogging           "లాగింగ్ ఆపివేయి">
 <!ENTITY aboutNetworking.dnsLookup             "DNS శోధన">
