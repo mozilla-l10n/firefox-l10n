@@ -8,6 +8,7 @@
 <!ENTITY newButton.label "Nový…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.popupCopy.label "Kopírovat…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Upravit…">
 <!ENTITY editButton.accesskey "p">
 <!ENTITY deleteButton.label "Smazat">

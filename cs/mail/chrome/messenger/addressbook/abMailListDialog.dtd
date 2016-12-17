@@ -3,19 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title "Skupina">
+<!ENTITY mailListWindowAdd.title        "Nová skupina">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Přidat do: ">
+<!ENTITY addToAddressBook.label         "Přidat do: ">
 
-<!ENTITY ListName.label "Název: ">
-<!ENTITY ListNickName.label "Zkratka: ">
-<!ENTITY ListDescription.label "Popis: ">
+<!ENTITY ListName.label                 "Název: ">
+<!ENTITY ListNickName.label             "Zkratka: ">
+<!ENTITY ListDescription.label          "Popis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Vložte e-mailové adresy pro tuto skupinu:">
-<!ENTITY UpButton.label "Posunout výše">
-<!ENTITY DownButton.label "Posunout níže">
+<!ENTITY AddressTitle.label             "Vložte e-mailové adresy pro tuto skupinu:">
+<!ENTITY UpButton.label                 "Posunout výše">
+<!ENTITY DownButton.label               "Posunout níže">
+
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "d">
-<!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "Z">
-<!ENTITY ListDescription.accesskey "P">
+<!ENTITY addToAddressBook.accesskey     "d">
+<!ENTITY ListName.accesskey             "N">
+<!ENTITY ListNickName.accesskey         "Z">
+<!ENTITY ListDescription.accesskey      "P">
+

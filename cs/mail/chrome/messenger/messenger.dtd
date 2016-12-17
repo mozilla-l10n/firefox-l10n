@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Kompaktní zobrazení">
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Nástroje panelů složek">
+<!ENTITY folderPaneBar.accesskey "a">
 <!ENTITY folderModeSelector.label "Zobrazení složek">
 
 <!-- Sort Menu -->
@@ -495,13 +496,19 @@
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Vývojářské nástroje">
+<!ENTITY devtoolsMenu.accesskey "o">
 <!ENTITY devToolboxCmd.label "Vývojářské nástroje">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Debugger doplňků">
+<!ENTITY addonDebugCmd.accesskey "p">
 <!ENTITY tabsDebugCmd.label "Debugger obsahu rámců">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Zápisník">
+<!ENTITY scratchpadCmd.accesskey "Z">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
