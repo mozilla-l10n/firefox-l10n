@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "p">
 <!ENTITY acctName.label           "Ainm:">
 <!ENTITY acctName.accesskey       "A">
-
+<!ENTITY noModulesFound.label     "Cha deach aplacaid no faidhle a lorg as urrainn dhuinn dàta ion-phortadh uaithe.">
 
 <!ENTITY back.label               "&lt; Air ais">
 <!ENTITY forward.label            "Air adhart &gt;">

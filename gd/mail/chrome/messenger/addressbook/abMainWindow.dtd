@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Roghainnean">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Roghainnean leabhar nan seòladh">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Roghainnean an neach-aithne">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Roghainnean na liosta puist">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Sealladh">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Liosta ùr">
 <!ENTITY newlistButton.accesskey                        "L">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Deasaich">
+<!ENTITY propertiesContext.label                        "Roghainnean">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Roghainnean">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Deasaich an neach-aithne">
+<!ENTITY editContactContext.accesskey                   "e">
+<!ENTITY editMailingListContext.label                   "Deasaich an liosta">
+<!ENTITY editMailingListContext.accesskey               "e">
 <!ENTITY newmsgButton.label                             "Sgrìobh">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Grad-theachdaireachd">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
 <!ENTITY newlistButton.tooltip                          "Cruthaich liosta ùr">
 <!ENTITY editPropertiesButton.tooltip                   "Deasaich an rud a thagh thu">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Deasaich roghainnean an leabhair-sheòlaidhean a thagh thu">
+<!ENTITY editContactPropertiesButton.tooltip            "Deasaich an neach-aithne a thagh thu">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Deasaich an liosta puist a thagh thu">
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
 <!ENTITY deleteButton2.tooltip                          "Sguab às an rud a thagh thu">

@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Lethbhreacan ⁊ pasganan">
 <!ENTITY addressingTab.label    "Sgrìobhadh ⁊ seòlachadh">
 
-
-
-
+<!ENTITY publicData.label        "Dàta poblach">
+<!ENTITY privateData.label       "Dàta prìobhaideach">
+<!ENTITY identityAlias.label     "Leubail na dearbh-aithne:">
+<!ENTITY identityAlias.accesskey "b">
