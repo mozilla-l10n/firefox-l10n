@@ -13,14 +13,16 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Ups. Fanen din krasjet.">
+<!ENTITY tabCrashed.offerHelp "Vi kan hjelpe deg!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Velg &tabCrashed.restoreTab; for å laste inn sideinnhold på nytt.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Velg &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for laste inn sideinnhold på nytt.">
+<!ENTITY tabCrashed.requestHelp "Vil du hjelpe oss?">
+<!ENTITY tabCrashed.requestHelpMessage "Krasjrapporter hjelper oss og diagnostisere problemer og å gjøre &brandShortName; bedre.">
+<!ENTITY tabCrashed.requestReport "Rapporter denne fanen">
+<!ENTITY tabCrashed.sendReport2 "Send en krasjrapport for fanen du ser på">
+<!ENTITY tabCrashed.commentPlaceholder2 "Valgfri kommentar (kommentarer vises offentlig)">
+<!ENTITY tabCrashed.includeURL2 "Inkluder sidens nettadresse i krasjrapporten">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressen din her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når mer informasjon er tilgjengelig">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allerede sendt; takk for at du hjelper til gjøre &brandShortName; bedre!">
