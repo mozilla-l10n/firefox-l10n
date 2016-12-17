@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Nuair a ruigeas teachdaireachd ùr:">
 <!ENTITY playSound.label                  "Cluich fuaim">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Cluich am faidhle fuaime a leanas:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Seall caismeachd">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-
+<!ENTITY notificationAlertSettings2.label "’S urrainn dhut caismeachdan is an fhuaim bhunaiteach a chur às comas ann an leòsan nam brathan ann an roghainnean an t-siostaim.">
 <!ENTITY customizeMailAlert.label         "Gnàthaich…">
 <!ENTITY customizeMailAlert.accesskey     "c">
 

@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Gu">
 <!ENTITY fromField4.label "O">
 <!ENTITY senderField4.label "Seòladair">
-
+<!ENTITY author.label "Ùghdar">
 <!ENTITY organizationField4.label "Buidheann">
 <!ENTITY replyToField4.label "Freagairt gu">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Tasg-lann">
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachdaireachd seo san tasg-lann">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Còmhradh">
+<!ENTITY hdrOpenConversationButton1.tooltip "Seall còmhradh na teachdaireachd seo">
 <!ENTITY hdrSmartReplyButton1.label "Freagairt ghlic">
 <!ENTITY hdrReplyButton1.label "Freagair">
 <!ENTITY hdrReplyButton2.tooltip "Freagair seòladair na teachdaireachd seo">
