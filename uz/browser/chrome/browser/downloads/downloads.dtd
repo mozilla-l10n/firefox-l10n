@@ -58,8 +58,8 @@
 <!ENTITY cmd.retry.label                  "Qayta urinish">
 <!ENTITY cmd.goToDownloadPage.label       "Yuklab olish sahifasiga oʻtish">
 <!ENTITY cmd.goToDownloadPage.accesskey   "o">
-<!ENTITY cmd.copyDownloadLink.label       "Yuklab olish linkidan nusxa olish">
-<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.copyDownloadLink.label       "Yuklab olish havolasidan nusxa olish">
+<!ENTITY cmd.copyDownloadLink.accesskey   "h">
 <!ENTITY cmd.removeFromHistory.label      "Tarixdan oʻchirish">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
 <!ENTITY cmd.clearList2.label             "Oldindan ko‘rish panelini tozalash">

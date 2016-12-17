@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "b">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Ushbu linkni bo‘lishish">
+<!ENTITY shareLink.label "Havolani bo‘lishish">
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "Ushbu rasmni bo‘lishish">
 <!ENTITY shareImage.accesskey "r">
@@ -464,11 +464,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Standart qidiruv tizimi sifatida o‘rnatish">
 <!ENTITY searchSetAsDefault.accesskey "S">
 
-<!ENTITY openLinkCmdInTab.label       "Linkni yangi ichki oynada ochish">
+<!ENTITY openLinkCmdInTab.label       "Havolani yangi ichki oynada ochish">
 <!ENTITY openLinkCmdInTab.accesskey   "i">
-<!ENTITY openLinkCmd.label            "Linkni yangi oynada ochish">
+<!ENTITY openLinkCmd.label            "Havolani yangi oynada ochish">
 <!ENTITY openLinkCmd.accesskey        "o">
-<!ENTITY openLinkInPrivateWindowCmd.label "Linkni yangi maxfiy oynada ochish">
+<!ENTITY openLinkInPrivateWindowCmd.label "Havolani yangi maxfiy oynada ochish">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "m">
 <!ENTITY openLinkCmdInCurrent.label     "Havolani ochish">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
@@ -511,11 +511,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ish stoli orqa foni sifatida o‘rnatish">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Sahifani xatcho‘plarga qo‘shish">
-<!ENTITY bookmarkThisLinkCmd.label      "Linkni xatcho‘plarga qo‘shish">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.label      "Havolani xatcho‘plarga qo‘shish">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Kadrni xatcho‘plarga qo‘shish">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
-<!ENTITY emailPageCmd.label           "Linkni e-pochtadan jo‘natish">
+<!ENTITY emailPageCmd.label           "Havolani e-pochtadan jo‘natish">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sahifani saqlash…">
 <!ENTITY savePageCmd.accesskey        "s">
@@ -546,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "f">
 <!ENTITY hidePluginCmd.label          "Ushbu plaginni yashirish">
 <!ENTITY hidePluginCmd.accesskey      "y">
-<!ENTITY copyLinkCmd.label            "Link manzilidan nusxa olish">
+<!ENTITY copyLinkCmd.label            "Havoladan nusxa olish">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Rasm manzilidan nusxa olish">
 <!ENTITY copyImageCmd.accesskey       "z">
