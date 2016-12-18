@@ -33,5 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "V">
 <!ENTITY fillUsernameMenu.label       "Vyplnit uživatelské jméno">
 <!ENTITY fillUsernameMenu.accesskey   "V">
-<!ENTITY noLoginSuggestions.label     "(Žádné návrhy přihlášení)">
+<!ENTITY noLoginSuggestions.label     "(Žádné návrhy nenalezeny)">
 <!ENTITY viewSavedLogins.label        "Zobrazit uložené přihlašovací údaje">
