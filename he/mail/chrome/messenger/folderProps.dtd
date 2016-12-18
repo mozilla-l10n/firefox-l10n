@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# amire80 <amir.aharoni@mail.huji.ac.il>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -17,17 +5,13 @@
 <!ENTITY folderProps.windowtitle.label           "מאפיינים">
 
 <!ENTITY generalInfo.label                       "מידע כללי">
-<!ENTITY folderCharsetTab.label                  "קידוד תווים בברירת מחדל:">
-<!ENTITY folderCharsetTab.accesskey              "ק">
-<!ENTITY folderCharsetOverride.label             "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תווים של הודעות פרטניות וזיהוי אוטומטי)">
-<!ENTITY folderCharsetOverride.accesskey         "ה">
 <!ENTITY folderRebuildSummaryFileTip2.label      "בנה מחדש תקציר קובץ אינדקס">
 <!ENTITY folderRebuildSummaryFile2.label         "תקן תיקייה">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ת">
 <!ENTITY folderRebuildSummaryFile.explanation    "לעיתים נפגם קובץ האינדקס של תיקייה (.msf) והודעות עשויות להיעלם או שהודעות שנמחקו תמשכנה להופיע; תיקון התיקייה עשוי לתקן מקרים אלו.">
 <!ENTITY folderIncludeInGlobalSearch.label       "כלול הודעות מתיקייה זו בתוצאות החיפוש הגלובליות">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "ג">
-     
+
 <!ENTITY retention.label "מדיניות שמירה">
 <!ENTITY retentionUseAccount.label  "השתמש בהגדרות החשבון">
 <!ENTITY retentionUseAccount.accesskey "ח">
@@ -42,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "א">
 <!ENTITY retentionKeepRecent.label "מחק הכול חוץ מההודעות האחרונות">
 <!ENTITY retentionKeepRecent.accesskey "מ">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "מחק הודעות שנקראו (עקוף הגדרות גיל)">
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות בכוכבית">
 <!ENTITY retentionApplyToFlagged.accesskey "ש">
 
@@ -77,3 +59,7 @@
 <!ENTITY folderQuotaUsage.label                  "שימוש:">
 <!ENTITY folderQuotaStatus.label                 "מצב:">
 
+<!ENTITY numberOfMessages.label                  "מספר ההודעות:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY sizeOnDisk.label                        "גודל בכונן:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

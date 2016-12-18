@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "מאפיינים">
+<!ENTITY abPropertiesMenu.label             "מאפייני פנקס כתובות">
 
 <!ENTITY addressbookPicker.label            "פנקס כתובות">
 <!ENTITY addressbookPicker.accesskey        "פ">
@@ -15,6 +17,8 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "מ">
 <!ENTITY deleteAddrBookCard.label           "מחיקה">
 <!ENTITY deleteAddrBookCard.accesskey       "מ">
+<!ENTITY propertiesContext.label            "מאפיינים">
+<!ENTITY abPropertiesContext.label          "מאפיינים">
 
 <!ENTITY toButton.label                     "הוסף לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">

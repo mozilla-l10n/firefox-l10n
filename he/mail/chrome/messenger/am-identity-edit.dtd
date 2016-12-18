@@ -12,3 +12,5 @@
 <!ENTITY copiesFoldersTab.label "עותקים ותיקיות">
 <!ENTITY addressingTab.label    "חיבור ומיעון הודעה">
 
+<!ENTITY publicData.label        "נתונים ציבוריים">
+<!ENTITY privateData.label       "נתונים אישיים">

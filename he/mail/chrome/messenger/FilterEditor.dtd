@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY window.title "חוקי מסנן">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "שם מסנן:">
@@ -29,14 +17,11 @@
 <!ENTITY highestPriorityCmd.label "הכי גבוהה">
 
 <!ENTITY contextDesc.label "הפעל מסננים כאשר:">
-<!ENTITY contextDesc.accesskey "כ">
-<!ENTITY contextIncoming.label "בודק דואר">
 <!ENTITY contextManual.label "מורץ ידנית">
-<!ENTITY contextBoth.label "בודק דואר או מורץ ידנית">
-<!ENTITY contextPostPlugin.label "בודק דואר (לאחר סווג)">
-<!ENTITY contextPostPluginBoth.label "בודק דואר (לאחר סווג) או בהפעלה ידנית">
+
 <!ENTITY filterActionDesc.label "בצע פעולות אלו:">
 <!ENTITY filterActionDesc.accesskey "P">
+
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "העבר הודעה אל">
@@ -57,3 +42,12 @@
 <!ENTITY watchThread.label "עקוב אחר נושא דיון">
 <!ENTITY stopExecution.label "הפסק הפעלת מסננים">
 
+<!ENTITY addAction.tooltip "הוספת פעולה חדשה">
+<!ENTITY removeAction.tooltip "הסרת פעולה זו">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->

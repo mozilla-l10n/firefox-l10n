@@ -120,6 +120,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "ב">
 <!ENTITY exportCmd.label                                "יצוא…">
 <!ENTITY exportCmd.accesskey                            "צ">
+<!ENTITY preferencesCmd2.label                          "אפשרויות">
 <!ENTITY preferencesCmdUnix.label                       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey                   "ע">
 
@@ -128,10 +129,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "ק">
 <!ENTITY newlistButton.label                            "רשימה חדשה">
 <!ENTITY newlistButton.accesskey                        "ר">
+<!ENTITY editPropertiesButton.label                     "עריכה">
+<!ENTITY propertiesContext.label                        "מאפיינים">
+<!ENTITY abPropertiesContext.label                      "מאפיינים">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
 <!ENTITY newIM.label                                    "הודעה מידית">
 <!ENTITY newIM.accesskey                                "מ">
+<!ENTITY printButton.label                              "הדפסה…">
 <!ENTITY deleteButton2.label                            "מחיקה">
 <!ENTITY deleteButton2.accesskey                        "מ">
 
