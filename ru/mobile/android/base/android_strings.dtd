@@ -92,6 +92,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "Заложить">
 <!ENTITY overlay_share_bookmark_btn_label_already "Уже в закладках">
 <!ENTITY overlay_share_send_other "Отправить на другие устройства">
+<!ENTITY overlay_share_open_browser_btn_label "Открыть в &brandShortName;">
 <!ENTITY overlay_share_send_tab_btn_label "Отправить на другое устройство">
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
 <!ENTITY overlay_share_select_device "Выбрать устройство">
@@ -339,7 +340,7 @@
 <!ENTITY pref_tab_queue_title3 "Очередь вкладок">
 <!ENTITY pref_tab_queue_summary4 "Сохраните ссылки до следующего открытия &brandShortName;.">
 <!ENTITY pref_compact_tabs "Компактные вкладки">
-<!ENTITY pref_compact_tabs_summary "Отображать два столбца вкладок в лотке вкладок в портретном режиме">
+<!ENTITY pref_compact_tabs_summary2 "Отображать вкладки в два столбца в портретном режиме">
 <!ENTITY page_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
@@ -485,3 +486,5 @@
 <!ENTITY activity_stream_highlight_label_visited "Посещено">
 <!ENTITY activity_stream_dismiss "Убрать">
 <!ENTITY activity_stream_delete_history "Удалить из истории">
+<!ENTITY activity_stream_welcome_title "Добро пожаловать в Самое интересное">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; теперь отображает самое интересное из того, что вы нашли в Интернете, так что вы сможете быстро вернуться к интересным статьям, видео, закладкам и другим страницам.">
