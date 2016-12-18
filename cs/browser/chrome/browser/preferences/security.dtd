@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Změnit hlavní heslo…">
 <!ENTITY  changeMasterPassword.accesskey "n">
 
-<!ENTITY  savedLogins.label              "Uložená hesla…">
+<!ENTITY  savedLogins.label              "Uložené přihlašovací údaje…">
 <!ENTITY  savedLogins.accesskey          "h">
