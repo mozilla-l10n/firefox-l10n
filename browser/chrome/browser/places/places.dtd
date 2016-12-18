@@ -27,7 +27,7 @@
 <!ENTITY view.sortDescending.label      "Synkende sorteringsrekkefølge">
 <!ENTITY view.sortDescending.accesskey  "y">
 
-<!ENTITY importBookmarksFromHTML.label     "Importer bokmerker fra …">
+<!ENTITY importBookmarksFromHTML.label     "Importer bokmerker fra HTML …">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerker til HTML …">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">

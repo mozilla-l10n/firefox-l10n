@@ -42,7 +42,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Generell data">
 
-<!ENTITY aboutTelemetry.environmentDataSection "Miljødata">
+<!ENTITY aboutTelemetry.environmentDataSection "  Miljødata">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
 
