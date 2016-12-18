@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "עיצוב">
 <!ENTITY itemTags.label                   "תוויות">
+<!ENTITY itemAdvanced.label               "מתקדם">
 
 <!ENTITY style.label                      "סגנון:">
 <!ENTITY style.accesskey                  "ס">
