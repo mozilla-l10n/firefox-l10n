@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Forespørsel om brukeridentifikasjon">
 <!ENTITY clientAuthAsk.message1 "Dette nettstedet ønsker at du identifiserer deg selv med et sertifikat:">
 <!ENTITY clientAuthAsk.message2 "Velg sertifikat som du vil bruke som identifikasjon:">
-
+<!ENTITY clientAuthAsk.message3 "Detaljer om valgt sertifikat:">
 
 <!ENTITY pkcs12.setpassword.title  "Velg passord for sikkerhetskopi av sertifikater">
 <!ENTITY pkcs12.setpassword.message  "Passordet du bestemmer her vil beskytte sikkerhetskopien du nå oppretter. Du må skrive inn dette passordet for å fortsette med sikkerhetskopieringen.">

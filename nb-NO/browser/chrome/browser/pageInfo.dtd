@@ -76,7 +76,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har jeg besøkt dette nettstedet tidligere?">
-<!ENTITY  securityView.privacy.cookies                  "Lagrer nettstedet informasjon på datamaskinen?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrer nettstedet informasjon (cookies) på datamaskinen?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis infokapsler">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
 <!ENTITY  securityView.privacy.passwords                "Har jeg lagret passord for dette nettstedet?">

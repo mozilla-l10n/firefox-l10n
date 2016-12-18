@@ -26,7 +26,7 @@
 <!ENTITY community.exp.middle       " er et ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalt samfunn">
-<!ENTITY community.exp.end          " som jobber sammen for å holde webben åpen, allmenn og tilgjengelig for alle.">
+<!ENTITY community.exp.end          " som jobber sammen for å holde nettet åpen, allmenn og tilgjengelig for alle.">
 
 <!ENTITY community.start2           "&brandShortName; er utviklet av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -34,7 +34,7 @@
 <!ENTITY community.middle2          ", et ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end3             " arbeider sammen for å holde webben åpen, allmenn, og tilgjengelig for alle.">
+<!ENTITY community.end3             " som arbeider sammen for å holde nettet åpen, allmenn, og tilgjengelig for alle.">
 
 <!ENTITY helpus.start               "Vil du hjelpe til? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -105,4 +105,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Du bruker nå oppdateringskanalen ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.end    " oppdateringskanal. ">
