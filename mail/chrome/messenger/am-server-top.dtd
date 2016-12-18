@@ -4,6 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "אחסון הודעות">
 <!ENTITY securitySettings.label "הגדרות אבטחה">
 <!ENTITY serverSettings.label "הגדרות שרת">
 <!ENTITY serverType.label "סוג שרת:">

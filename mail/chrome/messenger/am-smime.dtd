@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY securityTitle.label "אבטחה">
 <!ENTITY securityTab.label "אבטחה">
 <!ENTITY securityHeading.label "כדי לשלוח ולקבל הודעות חתומות או מוצפנות, עליך לציין גם אישור חתימה דיגיטלי וגם אישור הצפנה.">
@@ -32,8 +26,11 @@
 <!ENTITY signingCert.message "השתמש באישור זה לחתימה דיגיטלית על הודעות שאתה שולח:">
 
 <!ENTITY certificates.label "אישורים">
-<!ENTITY manageCerts.label "הצג אישורים">
-<!ENTITY manageCerts.accesskey "צ">
+<!ENTITY manageCerts2.label "ניהול אישורים">
 <!ENTITY manageDevices.label "התקני אבטחה">
 <!ENTITY manageDevices.accesskey "ת">
 
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "בחירת אישור">
+<!ENTITY certPicker.info  "אישור:">
+<!ENTITY certPicker.detailsLabel "פרטי האישור הנבחר:">
