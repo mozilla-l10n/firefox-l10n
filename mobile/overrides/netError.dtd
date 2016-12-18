@@ -29,6 +29,11 @@
 ">
 
 <!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>יתכן שהוסר, הועבר או שהרשאות על קבצים מונעות את הגישה.</li>
+</ul>
+">
 
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
@@ -60,6 +65,13 @@
 <!ENTITY netOffline.title "מצב לא־מקוון">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>נא לנסות שוב. &brandShortName; ינסה לפתוח את החיבור ולטעון את העמוד מחדש.
+    <button id='wifi'>הפעלת Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -97,6 +109,14 @@
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>נא לבדוק את הגדרות המתווך כדי לוודא שהן תקינות.</li>
+  <li>נא לבדוק שלהתקן שלך יש חיבור נתונים או Wi-Fi פעיל.
+    <button id='wifi'>הפעלת ה־Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
 <!ENTITY redirectLoop.longDesc "
@@ -114,6 +134,12 @@
 ">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>לא ניתן להציג את העמוד בו ניסית לצפות כיוון שלא ניתן לאמת את אמינות הנתונים שהתקבלו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על הבעיה הזאת.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "קישור מאובטח נכשל">
 <!ENTITY nssBadCert.longDesc2 "
@@ -125,8 +151,17 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>יתכן כי האתר אינו זמין כרגע או עמוס מדי. נא לנסות שוב בעוד מספר רגעים.</li>
+  <li>אם אין לך אפשרות לטעון דפים כלל, מומלץ לבדוק את קישוריות הנתונים או ה־Wi-Fi של ההתקן שלך.
+    <button id='wifi'>הפעלת Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מהעמוד הזה להיטען באופן הזה כיוון שמדיניות התוכן של הדף אינה מאפשרת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן משובש">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן לצפייה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם מנהלי האתר וליידע אותם על תקלה זו.</li></ul>">
@@ -162,3 +197,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שלדעתך הוא מאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
