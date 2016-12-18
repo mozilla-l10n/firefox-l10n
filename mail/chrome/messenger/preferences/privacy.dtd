@@ -4,6 +4,7 @@
 
 <!-- Mail Content -->
 
+<!ENTITY acceptRemoteContent.label "לאפשר תוכן מרוחק בהודעות">
 <!ENTITY remoteContentExceptions.label "חריגות…">
 
 <!-- Web Content -->

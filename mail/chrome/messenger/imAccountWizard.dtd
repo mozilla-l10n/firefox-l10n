@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY accountProtocolField.label   "רשת:">
 
+<!ENTITY accountUsernameTitle.label   "שם משתמש">
 
 <!ENTITY accountPasswordTitle.label   "ססמה">
 <!ENTITY accountPasswordField.label   "ססמה:">
 
 <!ENTITY accountAdvancedTitle.label   "אפשרויות מתקדמות">
+<!ENTITY accountProxySettings.change.label     "שינוי…">
 
 <!ENTITY accountSummaryTitle.label   "תקציר">
