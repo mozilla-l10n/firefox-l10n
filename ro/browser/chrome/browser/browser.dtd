@@ -215,9 +215,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau microfonului cu acest site">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionează partajarea ferestrelor sau a ecranului cu acest site">
 
-
-
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Deschide panoul de mesaje de instalare">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradu această pagină">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
