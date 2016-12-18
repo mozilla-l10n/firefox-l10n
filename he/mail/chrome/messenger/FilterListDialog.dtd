@@ -30,6 +30,7 @@
 <!ENTITY helpButton.label "עזרה">
 <!ENTITY helpButton.accesskey "ע">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "חיפוש מסננים לפי שם…">
 
 
 
