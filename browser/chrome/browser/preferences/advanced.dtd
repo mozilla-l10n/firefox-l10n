@@ -42,6 +42,10 @@
 <!ENTITY httpCache.label "Кэшированное веб-содержимое">
 <!ENTITY offlineStorage2.label "Автономное веб-содержимое и данные пользователя">
 <!ENTITY siteData.label "Данные сайтов">
+<!ENTITY clearSiteData.label "Удалить все данные">
+<!ENTITY clearSiteData.accesskey "а">
+<!ENTITY siteDataSettings.label "Параметры…">
+<!ENTITY siteDataSettings.accesskey "м">
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">

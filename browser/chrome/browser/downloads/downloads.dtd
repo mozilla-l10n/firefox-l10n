@@ -10,7 +10,6 @@
 <!ENTITY cmd.resume.label "Возобновить">
 <!ENTITY cmd.resume.accesskey "о">
 <!ENTITY cmd.cancel.label "Отменить">
-<!ENTITY cmd.cancel.accesskey "м">
 <!ENTITY cmd.show.label "Открыть папку с файлом">
 <!ENTITY cmd.show.accesskey "к">
 <!ENTITY cmd.showMac.label "Показать в Finder">
