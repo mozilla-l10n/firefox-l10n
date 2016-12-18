@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY autoconfigWizard.title          "הגדרות חשבון דואר">
 <!ENTITY name.label                      "השם שלך:">
 <!ENTITY name.accesskey                  "ש">
@@ -79,11 +66,10 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "אני מבין את הסיכונים.">
 <!ENTITY confirmWarning.accesskey        "מ">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "צור חשבון">
-<!ENTITY createAccount.accesskey         "צ">
+<!ENTITY doneAccount.label               "סיום">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -99,4 +85,3 @@
 <!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהססמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
 <!ENTITY insecureSelfSigned.description  "השרת משתמש באישור שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט את התעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל מומלץ שתפנה לספק הדואל שלך ותבקש ממנו להגדיר את השרת עם אישור אבטחה נסמך.">
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">
-

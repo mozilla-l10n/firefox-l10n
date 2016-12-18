@@ -1,49 +1,15 @@
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-# ace <isabag@walla.com>
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# hatul <amiadb@gmail.com>
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "אל">
-<!ENTITY fromField3.label "מאת">
-<!ENTITY senderField3.label "שולח">
-<!ENTITY organizationField3.label "ארגון">
-<!ENTITY replyToField3.label " תשובה אל">
+<!ENTITY toField4.label "אל">
+<!ENTITY fromField4.label "מאת">
 
-<!ENTITY subjectField3.label "נושא">
-<!ENTITY ccField3.label "העתק">
-<!ENTITY bccField3.label "העתק נסתר">
-<!ENTITY newsgroupsField3.label " קבוצות דיון">
-<!ENTITY followupToField3.label "המשך מעקב בידי ">
-<!ENTITY tagsHdr3.label "תגיות">
-<!ENTITY dateField3.label "תאריך">
-<!ENTITY userAgentField3.label " סוכן משתמש">
-<!ENTITY referencesField3.label "אזכורים">
-<!ENTITY messageIdField3.label " מזהה הודעה">
-<!ENTITY inReplyToField3.label " בתשובה אל">
-<!ENTITY originalWebsite3.label "אתר אינטרנט">
 
-<!ENTITY editMessageDescription.label "זוהי הודעת טיוטה">
-<!ENTITY editMessageButton.label "עריכה…">
 <!ENTITY hdrArchiveButton1.label "ארכיון">
 <!ENTITY hdrArchiveButton1.tooltip "העבר הודעה זו לארכיון">
 <!ENTITY hdrSmartReplyButton1.label "תשובה חכמה">
 <!ENTITY hdrReplyButton1.label "השב">
-<!ENTITY hdrReplyButton1.tooltip "השב להודעה זו">
 <!ENTITY hdrReplyAllButton1.label "השב לכולם">
 <!ENTITY hdrReplyAllButton1.tooltip "השב לשולח ולכל הנמענים">
 <!ENTITY hdrReplyListButton1.label "תשובה לרשימה">
@@ -64,7 +30,6 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "הצג תמיד כפתור תגובה לשולח">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ש">
 
-<!ENTITY otherActionsButton1.label "פעולות אחרות">
 <!ENTITY otherActionsOpenConversation1.label "פתח בדיון">
 <!ENTITY otherActionsOpenConversation1.accesskey "פ">
 <!ENTITY otherActionsOpenInNewWindow1.label "פתיחה בחלון חדש">
@@ -81,6 +46,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "מ">
 <!ENTITY otherActionsPrint1.label "הדפסה…">
 <!ENTITY otherActionsPrint1.accesskey "ד">
+
+<!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "פתח">
@@ -117,4 +84,3 @@
 <!ENTITY OpenMessageForMsgId.accesskey "פ">
 <!ENTITY OpenBrowserWithMsgId.label "פתיחת דפדפן עם מזהה ההודעה">
 <!ENTITY OpenBrowserWithMsgId.accesskey "ד">
-

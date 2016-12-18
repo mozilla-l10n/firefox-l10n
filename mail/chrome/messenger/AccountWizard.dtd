@@ -2,22 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# Yaron <sh.yaron@gmail.com>
-# ace <isabag@walla.com>
-# hatul <amiadb@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-#
--->
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "אשף החשבונות">
@@ -52,22 +36,9 @@
 <!ENTITY emailLabel.label "כתובת דוא״ל:">
 <!ENTITY emailLabel.accesskey "ד">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "מידע על השרת">
 <!ENTITY incomingServerTypeDesc.label "בחר את הסוג של שרת נכנס בו אתה משתמש.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "הכנס את שם השרת הנכנס שלך (לדוגמה, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "שרת נכנס:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "הכנס את שם שרת קבוצות הדיון (NNTP) שלך (לדוגמה, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "הכנס את שם השרת היוצא (SMTP) שלך (לדוגמה, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "שרת יוצא:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "שרת קבוצות דיון:">
-<!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -80,6 +51,17 @@
 <!ENTITY portNum.accesskey "ש">
 <!ENTITY defaultPortLabel.label "ברירת מחדל:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "שם משתמש:">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "הכנס את שם שרת קבוצות הדיון (NNTP) שלך (לדוגמה, &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "שרת קבוצות דיון:">
+<!ENTITY newsServerLabel.accesskey "N">
+
+<!-- Entities for Outgoing Server page -->
+
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -91,18 +73,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "יעשה שימוש בשרת היוצא (SMTP) הנוכחי שלך, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "שמות משתמש">
-<!ENTITY usernameDesc.label "הכנס את שם המשתמש הנכנס שניתן לך על־ידי ספק הדוא״ל שלך ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(לדוגמה, &quot;jsmith&quot;)">
-<!ENTITY usernameLabel.label "שם משתמש נכנס:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "הכנס את שם המשתמש היוצא שניתן לך על־ידי ספק הדוא״ל שלך (בדרך כלל הוא זהה לשם המשתמש הנכנס שלך).">
-<!ENTITY usernameSmtpLabel.label "שם משתמש יוצא:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
@@ -139,4 +109,3 @@
 <!ENTITY deferStorage.accesskey "כ">
 <!ENTITY clickFinish.label "לחץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
 <!ENTITY clickFinish.labelMac "לחץ על סיום כדי לשמור את ההגדרות הללו ולצאת מאשף החשבונות.">
-

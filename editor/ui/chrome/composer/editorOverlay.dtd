@@ -295,6 +295,7 @@
 <!ENTITY HighlightColorButton.tooltip "בחר צבע הדגשה לטקסט">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "הגדרת גודל גופן">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "גודל גופן קטן יותר">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "גודל גופן גדול יותר">
 <!ENTITY boldToolbarCmd.tooltip "מודגש">

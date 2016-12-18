@@ -7,6 +7,7 @@
 <!ENTITY activeColumn.label "מאופשר">
 <!ENTITY newButton.label "חדש…">
 <!ENTITY newButton.accesskey "ח">
+<!ENTITY newButton.popupCopy.label "העתקה…">
 <!ENTITY editButton.label "עריכה…">
 <!ENTITY editButton.accesskey "ע">
 <!ENTITY deleteButton.label "מחיקה">
@@ -26,10 +27,9 @@
 <!ENTITY stopFilters.accesskey "ע">
 <!ENTITY folderPickerPrefix.label "הפעל מסנן(ים) נבחר(ים) על:">
 <!ENTITY folderPickerPrefix.accesskey "מ">
-<!ENTITY choosethis.label "בחר תיקייה זו">
-<!ENTITY choosethisnewsserver.label "בחר בשרת קבוצות דיון זה">
 <!ENTITY helpButton.label "עזרה">
 <!ENTITY helpButton.accesskey "ע">
 <!ENTITY closeCmd.key "W"> 
+
 
 

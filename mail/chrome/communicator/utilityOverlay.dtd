@@ -2,14 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Reviewer(s):
-#
-# hatul <amiadb@gmail.com>
-#
--->
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "קובץ">
@@ -39,8 +31,7 @@
 <!ENTITY selectAllCmd.label          "בחר הכול">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "ב">
-<!ENTITY preferencesCmd.label        "אפשרויות...">
-<!ENTITY preferencesCmd.accesskey      "א">
+<!ENTITY preferencesCmd2.label "אפשרויות">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ע">
 
@@ -50,9 +41,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "ם">
 <!ENTITY showTaskbarCmd.label          "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey        "ש">
-
-<!ENTITY proxy.label                                    "הגדרות שרת מתווך...">
-<!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY closeCmd.label      "סגירה">
 <!ENTITY closeCmd.key      "W">
@@ -67,4 +55,3 @@
 
 <!ENTITY quitApplicationCmdMac.label  "יציאה מ־&brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "q">
-
