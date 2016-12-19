@@ -158,7 +158,7 @@
 <!ENTITY rating2.label                        "Rátáil">
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "Cuir ar Shos">
+<!ENTITY progress.pause.tooltip               "Cuir ar Sos">
 <!ENTITY progress.cancel.tooltip              "Cealaigh">
 <!-- list sorting -->
 

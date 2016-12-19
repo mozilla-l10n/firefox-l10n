@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions           "Cuir ar shos é tar éis eisceachtaí">
+<!ENTITY debuggerUI.pauseExceptions           "Cuir ar sos tar éis eisceachtaí é">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->

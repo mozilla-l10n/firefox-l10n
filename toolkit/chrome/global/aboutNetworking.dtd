@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Bearta Seolta">
 <!ENTITY aboutNetworking.bytesReceived         "Bearta Faighte">
 <!ENTITY aboutNetworking.logging               "Logáil">
-
+<!ENTITY aboutNetworking.logTutorial           "Féach ar <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Logáil HTTP</a> le haghaidh treoracha faoi úsáid na huirlise seo.">
 <!ENTITY aboutNetworking.currentLogFile        "An Logchomhad Reatha:">
 <!ENTITY aboutNetworking.currentLogModules     "Logmhodúil Reatha:">
 <!ENTITY aboutNetworking.setLogFile            "Socraigh Logchomhad">
