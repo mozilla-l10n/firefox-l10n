@@ -12,7 +12,7 @@
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Aitheantas na Tuairisce">
 <!ENTITY aboutSupport.crashes.sendDate "Seolta">
-<!ENTITY aboutSupport.crashes.allReports "Gach Tuairisc">
+<!ENTITY aboutSupport.crashes.allReports "Gach Tuairisc Tuairteála">
 <!ENTITY aboutSupport.crashes.noConfig "Ní raibh an feidhmchlár seo cumraithe le tuairiscí tuairteála a thaispeáint.">
 
 <!ENTITY aboutSupport.extensionsTitle "Eisínteachtaí">
