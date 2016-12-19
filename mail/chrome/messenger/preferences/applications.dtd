@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Entrant">
 <!ENTITY attachments.outgoing.label   "Sortant">
 
-<!ENTITY addCloudFileAccount.label        "Ajouter">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount1.label       "Ajouter…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "Ajouter un nouveau service de stockage en ligne">
 <!ENTITY removeCloudFileAccount.label     "Supprimer">
 <!ENTITY removeCloudFileAccount.accesskey "S">
