@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Gach tuairt de do chuid
 
 
 # LOCALIZATION NOTE (irc):

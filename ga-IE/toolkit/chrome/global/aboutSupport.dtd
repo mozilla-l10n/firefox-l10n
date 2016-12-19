@@ -7,7 +7,7 @@
 
 <!ENTITY aboutSupport.pageSubtitle "  Ar an leathanach seo tá eolas teicniúil a d'fhéadfadh a bheith úsáideach agus tú ag iarraidh fadhb a réiteach. Má tá freagraí á lorg agat ar cheisteanna coitianta maidir le &brandShortName;, féach ar ár <a id='supportLink'>suíomh tacaíochta</a>.">
 
-<!ENTITY aboutSupport.crashes.title "Tuairiscí ar Chlistí">
+<!ENTITY aboutSupport.crashes.title "Tuairiscí Tuairteála">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Aitheantas na Tuairisce">

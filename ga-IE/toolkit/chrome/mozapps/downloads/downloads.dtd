@@ -13,7 +13,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Íosluchtuithe">
 
-<!ENTITY cmd.pause.label                  "Cuir ar Shos">
+<!ENTITY cmd.pause.label                  "Cuir ar Sos">
 <!ENTITY cmd.pause.accesskey              "S">
 <!ENTITY cmd.resume.label                 "Lean">
 <!ENTITY cmd.resume.accesskey             "L">

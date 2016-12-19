@@ -40,7 +40,7 @@
 
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "Cuir ar Shos">
+<!ENTITY cmd.pause.label                  "Cuir ar Sos">
 <!ENTITY cmd.pause.accesskey              "S">
 <!ENTITY cmd.resume.label                 "Lean">
 <!ENTITY cmd.resume.accesskey             "L">
