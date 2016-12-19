@@ -19,6 +19,20 @@
 <!ENTITY dnsNotFound.title "שרת לא נמצא">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>נא לבדוק שהכתובת לא מכילה שגיאות כגון
+    <strong>ww</strong>.example.com במקום
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>חיפוש</button>
+    </div>
+  <li>אם שום דף לא נטען, כדאי לבדוק את הגדרות חיבור הנתונים או ה־Wi-Fi של המכשיר שלך.
+    <button id='wifi'>הפעלת Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
 <!ENTITY fileNotFound.longDesc "
@@ -31,7 +45,7 @@
 <!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>יתכן שהוסר, הועבר או שהרשאות על קבצים מונעות את הגישה.</li>
+  <li>יתכן שהוסר, הועבר או שהרשאות הקובץ מונעות את הגישה.</li>
 </ul>
 ">
 
@@ -111,7 +125,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>נא לבדוק את הגדרות המתווך כדי לוודא שהן תקינות.</li>
+  <li>נא לוודא שהגדרות המתווך תקינות.</li>
   <li>נא לבדוק שלהתקן שלך יש חיבור נתונים או Wi-Fi פעיל.
     <button id='wifi'>הפעלת ה־Wi-Fi</button>
   </li>
@@ -197,4 +211,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שלדעתך הוא מאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
