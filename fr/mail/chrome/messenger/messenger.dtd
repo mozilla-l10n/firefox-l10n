@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Vue compacte">
 <!ENTITY compactVersion.accesskey "V">
 <!ENTITY folderPaneBar.label "Barre d’outils du panneau des dossiers">
+<!ENTITY folderPaneBar.accesskey "B">
 <!ENTITY folderModeSelector.label "Vues des dossiers">
 
 <!-- Sort Menu -->
@@ -494,9 +495,20 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Outils de développement">
+<!ENTITY devtoolsMenu.accesskey "o">
+<!ENTITY devToolboxCmd.label "Boîte à outils de développement">
+<!ENTITY devToolboxCmd.accesskey "B">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Débogueur de modules">
+<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY tabsDebugCmd.label "Débogueur de cadres de contenu">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Console d’erreurs">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Ardoise JavaScript">
+<!ENTITY scratchpadCmd.accesskey "A">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
