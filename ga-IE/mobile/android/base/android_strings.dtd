@@ -50,16 +50,16 @@
 
 <!ENTITY  tab_offline_version "Leagan as líne á thaispeáint">
 
-<!ENTITY  crash_reporter_title "Tuairisceoir na gClistí &brandShortName;">
+<!ENTITY  crash_reporter_title "Tuairisceoir na dTuairteanna &brandShortName;">
 <!ENTITY  crash_message2 "Tá &brandShortName; tar éis tuairteáil. Beidh do chuid cluaisíní liostáilte ar thúsleathanach &brandShortName; nuair a atosóidh tú é.">
-<!ENTITY  crash_send_report_message3 "Inis do &vendorShortName; faoin gcliseadh seo ionas go mbeidh siad in ann é a réiteach">
+<!ENTITY  crash_send_report_message3 "Inis do &vendorShortName; faoin tuairt seo ionas go mbeidh siad in ann é a réiteach">
 <!ENTITY  crash_include_url2 "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">
 <!ENTITY  crash_sorry "Ár leithscéal">
 <!ENTITY  crash_comment "Cuir nóta leis (tá nótaí infheicthe go poiblí)">
 <!ENTITY  crash_allow_contact2 "Tabhair cead do &vendorShortName; dul i dteagmháil liom maidir leis an tuairisc seo">
 <!ENTITY  crash_email "Do sheoladh ríomhphoist">
-<!ENTITY  crash_closing_alert "An bhfuil fonn ort imeacht gan tuairisc a sheoladh?">
-<!ENTITY  sending_crash_report "Tuairisc ar chliseadh á seoladh\u2026">
+<!ENTITY  crash_closing_alert "An bhfuil fonn ort imeacht gan tuairisc tuairteála a sheoladh?">
+<!ENTITY  sending_crash_report "Tuairisc tuairteála á seoladh\u2026">
 <!ENTITY  crash_close_label "Dún">
 <!ENTITY  crash_restart_label "Atosaigh &brandShortName;">
 
@@ -435,7 +435,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Féach ar mo Thuairisc Shláinte">
 <!ENTITY datareporting_telemetry_title "Teiliméadracht">
 <!ENTITY datareporting_telemetry_summary "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
-<!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
+<!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí tuairteála chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir Tuairteála">
