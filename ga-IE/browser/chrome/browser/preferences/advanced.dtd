@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tuilleadh Eolais">
 
-<!ENTITY crashReporterDesc2.label         "Cabhraíonn tuairiscí tuairteála le &vendorShortName; fadhbanna a réiteach agus brabhsálaí níos cobhsaí níos sláine a chur ar fáil ">
+<!ENTITY crashReporterDesc2.label         "Cabhraíonn tuairiscí tuairteála le &vendorShortName; fadhbanna a réiteach agus brabhsálaí níos cobhsaí níos sláine a chur ar fáil">
 <!ENTITY alwaysSubmitCrashReports.label   "Lig do &brandShortName; seantuairiscí tuairteála a sheoladh ar do shon">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Tuilleadh Eolais">
