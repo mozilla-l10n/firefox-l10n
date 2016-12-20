@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Mots-clés de rappel pour les pièces jointes">
 <!ENTITY attachKeywordText.label          "&brandShortName; vous avertira de l’absence de pièce jointe si vous êtes sur le point d’envoyer un courriel contenant l’un de ces mots-clés.">
-<!ENTITY addKeywordButton.label           "Ajouter">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Modifier">
-<!ENTITY editKeywordButton.accesskey      "M">
+<!ENTITY newKeywordButton.label           "Nouveau…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Modifier…">
+<!ENTITY editKeywordButton1.accesskey     "M">
 <!ENTITY removeKeywordButton.label        "Supprimer">
 <!ENTITY removeKeywordButton.accesskey    "S">
