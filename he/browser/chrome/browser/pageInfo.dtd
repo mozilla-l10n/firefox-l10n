@@ -64,7 +64,7 @@
 
 <!ENTITY  securityTab           "אבטחה">
 <!ENTITY  securityTab.accesskey "א">
-<!ENTITY  securityView.certView "הצג אישורים">
+<!ENTITY  securityView.certView "הצגת אישור">
 <!ENTITY  securityView.accesskey "ה">
 <!ENTITY  securityView.unknown   "לא ידוע">
 

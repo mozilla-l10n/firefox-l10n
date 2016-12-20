@@ -68,7 +68,7 @@
 <!ENTITY clearCacheNow.accesskey         "מ">
 <!ENTITY clearOfflineAppCacheNow.label   "מחק עכשיו">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ח">
-<!ENTITY overrideSmartCacheSize.label    "עקוף את ניהול המטמון האוטומטי">
+<!ENTITY overrideSmartCacheSize.label    "עקיפת ניהול המטמון האוטומטי">
 <!ENTITY overrideSmartCacheSize.accesskey "א">
 
 <!ENTITY updateTab.label                 "עדכון">
@@ -81,7 +81,7 @@
 <!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
 <!ENTITY updateManual.accesskey          "ל">
 
-<!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
+<!ENTITY updateHistory.label             "הצגת היסטורית עדכונים">
 <!ENTITY updateHistory.accesskey         "צ">
 
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
@@ -109,9 +109,9 @@
 <!ENTITY certs.auto.accesskey            "ב">
 <!ENTITY certs.ask                       "שאל אותי בכל פעם">
 <!ENTITY certs.ask.accesskey             "ש">
-<!ENTITY enableOCSP.label                "לתשאל שרתי  OCSP כדי לאמת תקפות נוכחית של אישורי אבטחה">
+<!ENTITY enableOCSP.label                "תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה">
 <!ENTITY enableOCSP.accesskey            "ת">
-<!ENTITY viewCerts.label                 "הצג אישורים">
+<!ENTITY viewCerts.label                 "הצגת אישורים">
 <!ENTITY viewCerts.accesskey             "צ">
 <!ENTITY viewSecurityDevices.label       "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey   "ה">
