@@ -41,7 +41,7 @@
 <!ENTITY helpus.donateLink          "תרמו לנו">
 <!ENTITY helpus.middle              " או ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "הצטרפו אלינו">
+<!ENTITY helpus.getInvolvedLink     "הצטרפו אלינו!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "מה חדש">
