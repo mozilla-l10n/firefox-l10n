@@ -19,11 +19,11 @@
 
 <!ENTITY browsing.label                  "דפדוף">
 
-<!ENTITY useAutoScroll.label             "השתמש בגלילה אוטומטית">
+<!ENTITY useAutoScroll.label             "שימוש בגלילה אוטומטית">
 <!ENTITY useAutoScroll.accesskey         "ב">
-<!ENTITY useSmoothScrolling.label        "השתמש בגלילה חלקה">
+<!ENTITY useSmoothScrolling.label        "שימוש בגלילה חלקה">
 <!ENTITY useSmoothScrolling.accesskey    "ח">
-<!ENTITY allowHWAccel.label              "השתמש בהאצת חומרה כשניתן">
+<!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">
 <!ENTITY checkSpelling.label             "בדיקת איות בעת הקלדה">
 <!ENTITY checkSpelling.accesskey         "א">
