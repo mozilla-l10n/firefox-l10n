@@ -9,7 +9,7 @@
 <!ENTITY restorepage.errorTitle     "טוב, זה מביך.">
 <!ENTITY restorepage.problemDesc    "ל־&brandShortName; יש בעיות בשחזור החלונות והלשוניות שלך. דבר זה קורה לרוב בעקבות לשונית שפתחת לאחרונה.">
 <!ENTITY restorepage.tryThis        "באפשרותך לנסות:">
-<!ENTITY restorepage.restoreSome    "להסיר אחת או יותר לשוניות שייתכן וגורמות לבעיה">
+<!ENTITY restorepage.restoreSome    "להסיר לשונית אחת או יותר שייתכן שגורמות לבעיה">
 <!ENTITY restorepage.startNew       "להתחיל גלישה חדשה לחלוטין">
 
 <!ENTITY restorepage.tryagainButton "שחזור">
