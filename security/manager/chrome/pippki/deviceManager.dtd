@@ -12,19 +12,19 @@
 <!ENTITY devmgr.details.title                   "פרטים">
 <!ENTITY devmgr.details.title2                  "ערך">
 
-<!ENTITY devmgr.button.login.label              "התחבר">
+<!ENTITY devmgr.button.login.label              "התחברות">
 <!ENTITY devmgr.button.login.accesskey          "ח">
-<!ENTITY devmgr.button.logout.label             "התנתק">
+<!ENTITY devmgr.button.logout.label             "התנתקות">
 <!ENTITY devmgr.button.logout.accesskey         "נ">
-<!ENTITY devmgr.button.changepw.label           "שנה ססמה">
+<!ENTITY devmgr.button.changepw.label           "שינוי ססמה">
 <!ENTITY devmgr.button.changepw.accesskey       "ס">
 <!ENTITY devmgr.button.load.label               "טען">
 <!ENTITY devmgr.button.load.accesskey           "ט">
-<!ENTITY devmgr.button.unload.label             "פרוק">
+<!ENTITY devmgr.button.unload.label             "פריקה">
 <!ENTITY devmgr.button.unload.accesskey         "פ">
 <!ENTITY devmgr.button.fips.accesskey           "א">
 
-<!ENTITY loaddevice.info                        "הכנס את המידע עבור המודול שברצונך להוסיף.">
+<!ENTITY loaddevice.info                        "נא להכניס את המידע עבור המודול שברצונך להוסיף.">
 <!ENTITY loaddevice.modname                     "שם המודול:">
 <!ENTITY loaddevice.modname.accesskey           "ד">
 <!ENTITY loaddevice.modname.default             "מודול PKCS#11 חדש">
@@ -33,4 +33,4 @@
 <!ENTITY loaddevice.browse                      "עיון...">
 <!ENTITY loaddevice.browse.accesskey            "ע">
 
-<!ENTITY loaddevice.title                       "PKCS#11 טען התקן">
+<!ENTITY loaddevice.title                       "טעינת התקן PKCS#11">

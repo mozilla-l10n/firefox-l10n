@@ -17,6 +17,6 @@
 <!ENTITY switchToNewTabs.label        "כאשר אני פותח קישור בלשונית חדשה, עבור אליה מידית">
 <!ENTITY switchToNewTabs.accesskey    "כ">
 
-<!ENTITY showTabsInTaskbar.label          "הצג תצוגה מקדימה של לשוניות בסרגל המשימות של Windows">
+<!ENTITY showTabsInTaskbar.label          "הצגת תצוגה מקדימה של לשוניות בסרגל המשימות של Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "ת">
 <!ENTITY tabsGroup.label          "לשוניות">
