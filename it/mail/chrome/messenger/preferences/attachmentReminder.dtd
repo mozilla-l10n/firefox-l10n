@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title "Parole chiave promemoria allegati">
-<!ENTITY attachKeywordText.label "&brandShortName; avviserà nel caso si stia per inviare una email priva di allegati e che contenga una di queste parole chiave.">
-<!ENTITY addKeywordButton.label "Aggiungi">
-<!ENTITY addKeywordButton.accesskey "A">
-<!ENTITY editKeywordButton.label "Modifica">
-<!ENTITY editKeywordButton.accesskey "M">
-<!ENTITY removeKeywordButton.label "Elimina">
-<!ENTITY removeKeywordButton.accesskey "E">
+<!ENTITY attachmentReminderDialog.title   "Parole chiave promemoria allegati">
+<!ENTITY attachKeywordText.label          "&brandShortName; avviserà nel caso si stia per inviare una email priva di allegati e che contenga una di queste parole chiave.">
+<!ENTITY removeKeywordButton.label        "Elimina">
+<!ENTITY removeKeywordButton.accesskey    "E">
