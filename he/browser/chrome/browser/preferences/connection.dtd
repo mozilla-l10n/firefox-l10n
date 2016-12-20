@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "אין צורך בשרת מתווך עבור:">
 <!ENTITY  noproxy.accesskey             "ב">
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org.,‏ net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
+<!ENTITY  shareproxy.label              "שימוש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "פ">
 <!ENTITY  autologinproxy.label          "לא לבקש ססמת הזדהות אם נשמרה הססמה">
 <!ENTITY  autologinproxy.accesskey      "ס">

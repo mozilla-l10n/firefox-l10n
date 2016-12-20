@@ -193,7 +193,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "סגירת סוגריים אוטומטית">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "להכניס את סגירת הסוגריים באופן אוטומטי">
 <!ENTITY options.sourceeditor.expandtab.label           "הזחה עם רווחים">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "להשתמש ברווחים במקום תווי Tab">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "שימוש ברווחים במקום תווי Tab">
 <!ENTITY options.sourceeditor.tabsize.label             "גודל Tab">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ג">
 <!ENTITY options.sourceeditor.keybinding.label          "קיצורי מקשים">

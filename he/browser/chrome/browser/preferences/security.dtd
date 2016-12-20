@@ -31,7 +31,7 @@
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
 
-<!ENTITY  useMasterPassword.label        "השתמש בססמה ראשית">
+<!ENTITY  useMasterPassword.label        "שימוש בססמה ראשית">
 <!ENTITY  useMasterPassword.accesskey    "ש">
 <!ENTITY  changeMasterPassword.label     "שנה ססמה ראשית…">
 <!ENTITY  changeMasterPassword.accesskey "נ">
