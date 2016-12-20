@@ -12,7 +12,7 @@
 
 <!ENTITY homepage.label            "דף בית:">
 <!ENTITY homepage.accesskey        "ד">
-<!ENTITY useCurrentPage.label      "השתמש בדף הנוכחי">
+<!ENTITY useCurrentPage.label      "שימוש בדף הנוכחי">
 <!ENTITY useCurrentPage.accesskey  "נ">
 <!ENTITY useMultiple.label         "שימוש בדפים הנוכחיים">
 <!ENTITY chooseBookmark.label      "שימוש בסימנייה…">
