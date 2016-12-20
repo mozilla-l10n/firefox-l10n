@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; יפסיק את הסנכרון עם החשבון שלך, אך לא ימחק את נתוני היסטוריית הגלישה שלך בהתקן זה.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'חשבון הפיירפוקס &formatS; הוסר.'>
+<!ENTITY fxaccount_remove_account_toast 'חשבון ה־Firefox בכתובת &formatS; הוסר.'>
 
 <!ENTITY fxaccount_enable_debug_mode 'הפעלת מצב ניפוי שגיאות'>
 
