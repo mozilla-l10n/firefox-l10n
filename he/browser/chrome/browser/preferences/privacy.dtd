@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "ייתכן ותרצה ">
+<!ENTITY  rememberActions.pre.label           "ייתכן שתרצה ">
 <!ENTITY  rememberActions.clearHistory.label  "לנקות את ההיסטוריה האחרונה שלך">
 <!ENTITY  rememberActions.middle.label        ", או ">
 <!ENTITY  rememberActions.removeCookies.label "למחוק עוגיות בודדות">
@@ -86,7 +86,7 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "ייתכן ותרצה גם ">
+<!ENTITY  dontrememberActions.pre.label          "ייתכן שתרצה גם ">
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
 
