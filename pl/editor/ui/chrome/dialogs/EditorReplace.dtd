@@ -22,3 +22,4 @@
 <!ENTITY replaceAllButton.label "Zamień wszystko">
 <!ENTITY replaceAllButton.accesskey "s">
 <!ENTITY closeButton.label "Zamknij">
+<!ENTITY closeButton.accesskey "k">
