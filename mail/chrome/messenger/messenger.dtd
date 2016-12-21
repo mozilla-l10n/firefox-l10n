@@ -497,6 +497,9 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Vývojárske nástroje">
 <!ENTITY devtoolsMenu.accesskey "o">
+<!ENTITY devToolboxCmd.label "Vývojárske nástroje">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
