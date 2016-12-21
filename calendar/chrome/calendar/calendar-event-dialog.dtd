@@ -5,6 +5,7 @@
 <!ENTITY event.title.label                  "Επεξεργασία στοιχείου" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Διατήρηση της διάρκειας κατά την αλλαγή της ημερομηνίας λήξης">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "Από" >
 <!ENTITY newevent.to.label                  "Έως" >
@@ -33,11 +34,28 @@
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Ειδοποίηση συμμετεχόντων">
+<!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Χωριστή πρόσκληση ανά συμμετέχοντα">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "Χ">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
+<!ENTITY event.attendees.disallowcounter.label       "Να μην επιτραπεί αντιπρόταση">
+<!ENTITY event.attendees.disallowcounter.accesskey   "α">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Υποδηλώνει αν θα δέχεστε αντιπροτάσεις">
 
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Νέο">
@@ -60,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Αποθήκευση">
 <!ENTITY  event.menu.item.save.accesskey                  "Α">
+<!ENTITY  event.menu.item.save.tab.accesskey              "α">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -68,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "θ">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "κ">
 
 <!ENTITY  event.menu.item.delete.label                    "Διαγραφή…">
 <!ENTITY  event.menu.item.delete.accesskey                "Δ">
@@ -80,6 +100,8 @@
 <!ENTITY  event.menu.edit.accesskey                       "Ε">
 <!ENTITY  event.menu.edit.undo.label                      "Αναίρεση">
 <!ENTITY  event.menu.edit.undo.accesskey                  "ρ">
+<!ENTITY  event.menu.edit.redo.label                      "Επανάληψη">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "Αποκοπή">
 <!ENTITY  event.menu.edit.cut.accesskey                   "κ">
 <!ENTITY  event.menu.edit.copy.label                      "Αντιγραφή">
@@ -87,6 +109,7 @@
 <!ENTITY  event.menu.edit.paste.label                     "Επικόλληση">
 <!ENTITY  event.menu.edit.paste.accesskey                 "λ">
 <!ENTITY  event.menu.edit.select.all.label                "Επιλογή όλων">
+<!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
 <!ENTITY  event.menu.view.label                           "Προβολή">
 <!ENTITY  event.menu.view.accesskey                       "Π">
@@ -133,15 +156,23 @@
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
 <!ENTITY event.invite.attendees.accesskey                 "σ">
 <!ENTITY event.email.attendees.label                      "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς όλους τους συμμετέχοντες…">
+<!ENTITY event.email.attendees.accesskey                  "A">
 <!ENTITY event.email.tentative.attendees.label            "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς τους αναποφάσιστους συμμετέχοντες…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
 <!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
+<!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Αφαίρεση συμμετέχοντα">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Αποθήκευση">
+<!ENTITY  event.toolbar.saveandclose.label                "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.label                   "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.privacy.label                     "Ιδιωτικότητα">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Αποθήκευση">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.tooltip                    "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Πρόσκληση συμμετεχόντων">
 <!ENTITY  event.toolbar.attachments.tooltip               "Προσθήκη επισυνάψεων">
@@ -157,6 +188,12 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Εφαρμογή αντιπρότασης">
+<!ENTITY counter.button.proposal.accesskey                "φ">
+<!ENTITY counter.button.proposal.tooltip2                 "Τα πεδία του συμβάντος θα συμπληρωθούν με τις τιμές της αντιπρότασης, με την αποθήκευση με ή χωρίς επιπρόσθετων αλλαγών θα ειδοποιηθούν όλοι οι συμμετέχοντες αντίστοιχα">
+<!ENTITY counter.button.original.label                    "Εφαρμογή αρχικών δεδομένων">
+<!ENTITY counter.button.original.accesskey                "ρ">
+<!ENTITY counter.button.original.tooltip2                 "Τα πεδία θα συμπληρωθούν με τις τιμές από το αρχικό συμβάν, προτού γίνει η αντιπρόταση">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Τίτλος:" >
@@ -193,11 +230,17 @@
 <!ENTITY event.attachments.label                          "Συνημμένα:" >
 <!ENTITY event.attachments.accesskey                      "Σ" >
 <!ENTITY event.attachments.menubutton.label               "Επισύναψη">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
 <!ENTITY event.attachments.url.label                      "Ιστοσελίδα…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Αφαίρεση" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Άνοιγμα" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Αφαίρεση όλων" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "Επισύναψη ιστοσελίδας…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Σχετικός σύνδεσμος:" >
 <!ENTITY event.priority2.label                            "Προτεραιότητα:">
 
@@ -369,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "Ίσως παρευρεθώ">
 <!ENTITY read.only.needs.action.label    "Θα επιβεβαιώσω αργότερα">
 <!ENTITY read.only.reminder.label        "Υπενθύμιση:">
+<!ENTITY read.only.attachments.label     "Συνημμένα:">
 <!ENTITY read.only.attendees.label       "Συμμετέχοντες">
 <!ENTITY read.only.description.label     "Περιγραφή">
 <!ENTITY read.only.link.label            "Σχετικός σύνδεσμος">

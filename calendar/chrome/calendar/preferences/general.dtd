@@ -42,3 +42,5 @@
 <!ENTITY pref.systemcolors.accesskey "Β">
 
 <!ENTITY pref.eventsandtasks.label "Συμβάντα και εργασίες" >
+<!ENTITY pref.editInTab.label "Επεξεργασία των συμβάντων και εργασιών σε νέα καρτέλα αντί σε παράθυρο διαλόγου." >
+<!ENTITY pref.editInTab.accesskey "κ">
