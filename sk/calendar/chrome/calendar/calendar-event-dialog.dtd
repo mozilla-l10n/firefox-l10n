@@ -190,6 +190,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Použiť protinávrh">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Polia budú vyplnené na základe údajov z protinávrhu a všetci účastníci budú upozornení zodpovedajúcim spôsobom po uložení udalosti s prípadnými ďalšími zmenami">
 <!ENTITY counter.button.original.label                    "Použiť pôvodné údaje">
 <!ENTITY counter.button.original.accesskey                "u">
 <!ENTITY counter.button.original.tooltip2                 "Tieto polia budú vyplnené podľa pôvodnej udalosti pred vytvorením protinávrhu">
