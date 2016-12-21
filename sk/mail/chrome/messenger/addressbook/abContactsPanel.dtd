@@ -13,6 +13,8 @@
 
 <!ENTITY addressbookPicker.label            "Adresár:">
 <!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchContacts.label               "Vyhľadávať v kontaktoch:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Meno alebo e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Pridať do poľa Komu">
