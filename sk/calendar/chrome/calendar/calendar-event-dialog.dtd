@@ -192,6 +192,7 @@
 <!ENTITY counter.button.proposal.accesskey                "p">
 <!ENTITY counter.button.original.label                    "Použiť pôvodné údaje">
 <!ENTITY counter.button.original.accesskey                "u">
+<!ENTITY counter.button.original.tooltip2                 "Tieto polia budú vyplnené podľa pôvodnej udalosti pred vytvorením protinávrhu">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Názov:" >
