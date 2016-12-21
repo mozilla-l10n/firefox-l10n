@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Təkrar Yoxla">
 <!ENTITY returnToPreviousPage.label "Geri Get">
 <!ENTITY advanced.label "Təkmilləşmiş">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Əlaqə cəhdi uğursuz oldu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -30,8 +30,12 @@
 <!ENTITY generic.title "Uups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni yükləyə bilmir.</p>">
 
+<!ENTITY captivePortal.title "Şəbəkəyə daxil ol">
+<!ENTITY captivePortal.longDesc "
+<p>Bu şəbəkə internetə çıxış üçün daxil olmağınızı tələb edə bilər.</p>
+">
 
-
+<!ENTITY openPortalLoginPage.label "Daxil olma səhifəsini aç">
 
 <!ENTITY malformedURI.title "Ünvan səhvdir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
@@ -110,9 +114,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Təkmilləşmiş">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
 <!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/> ilə təhlükəsiz qoşulmaq mümkün olmadı, çünki saatınız səhv vaxtı göstərir.</p><p>Kompüteriniz saatın <span id='wrongSystemTime_systemDate'/> olduğunu düşünür, amma <span id='wrongSystemTime_actualDate'/> olmalıdır. Xətanı həll etmək üçün vaxt və saat tənzimləməsini mövcud vaxt ilə dəyişdirin.</p>">
 
 <!ENTITY certerror.pagetitle1  "Qorumasız Bağlantı">

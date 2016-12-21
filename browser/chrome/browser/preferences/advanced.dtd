@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Ətraflı">
 
 <!ENTITY crashReporterDesc2.label         "Xəta məlumatları &vendorShortName; tərəfinə xətaları düzəltməyə, səyyahınızı daha stabil və güvənilir etməyə kömək edir">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; səyyahına arxada sizin adınıza xəta məlumatlarını göndərməsinə icazə ver">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
