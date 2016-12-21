@@ -44,6 +44,7 @@
 <!ENTITY helpus.getInvolvedLink     "addu ballal maa!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Hol ko hesɗi">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Humpito yamiroore">
@@ -62,7 +63,7 @@
 <!ENTITY update.adminDisabled       "Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; woni ko e hesɗitineede e cilol goɗngol">
-
+<!ENTITY update.restarting          "Nana Hurmita">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

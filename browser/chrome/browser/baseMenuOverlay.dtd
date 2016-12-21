@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
 <!ENTITY helpSafeMode.accesskey   "H">
-
-
+<!ENTITY helpSafeMode.stop.label       "Hurmitin tawa Ɓeyditte ena Ndaaƴtaa…">
+<!ENTITY helpSafeMode.stop.accesskey   "H">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
