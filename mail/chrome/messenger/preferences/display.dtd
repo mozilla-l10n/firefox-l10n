@@ -25,10 +25,10 @@
 <!ENTITY convertEmoticons.accesskey "m">
 <!-- labels -->
 <!ENTITY displayTagsText.label "Hægt er að nota flokka til að flokka og forgangsraða póstum.">
-<!ENTITY addTagButton.label "Bæta við">
-<!ENTITY addTagButton.accesskey "B">
-<!ENTITY editTagButton.label "Breyta">
-<!ENTITY editTagButton.accesskey "e">
+<!ENTITY newTagButton.label "Ný…">
+<!ENTITY newTagButton.accesskey "N">
+<!ENTITY editTagButton1.label "Breyta…">
+<!ENTITY editTagButton1.accesskey "e">
 <!ENTITY removeTagButton.label "Eyða">
 <!ENTITY removeTagButton.accesskey "y">
 <!-- Fonts and Colors -->

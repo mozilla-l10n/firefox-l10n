@@ -34,3 +34,6 @@
 <!ENTITY pref.accessibility.label "Auðveldað aðgengi">
 <!ENTITY pref.systemcolors.label "Finna bestu liti fyrir aðgengi">
 <!ENTITY pref.systemcolors.accesskey "ð">
+<!ENTITY pref.eventsandtasks.label "Atburðir og verkefni">
+<!ENTITY pref.editInTab.label "Breyta atburðum og verkefnum í flipa í staðinn fyrir í glugga.">
+<!ENTITY pref.editInTab.accesskey "t">

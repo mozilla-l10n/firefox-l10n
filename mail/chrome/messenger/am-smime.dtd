@@ -29,3 +29,7 @@
 <!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Öryggistæki">
 <!ENTITY manageDevices.accesskey "y">
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Veldu skilríki">
+<!ENTITY certPicker.info "Skilríki:">
+<!ENTITY certPicker.detailsLabel "Upplýsingar um valið skilríki:">

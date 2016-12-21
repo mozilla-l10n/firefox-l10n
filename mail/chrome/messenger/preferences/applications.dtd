@@ -19,8 +19,8 @@
 <!ENTITY chooseFolderMac.accesskey "V">
 <!ENTITY attachments.incoming.label "Utanaðkomandi">
 <!ENTITY attachments.outgoing.label "Útsent">
-<!ENTITY addCloudFileAccount.label "Bæta við">
-<!ENTITY addCloudFileAccount.accesskey "a">
+<!ENTITY addCloudFileAccount1.label "Bæta við…">
+<!ENTITY addCloudFileAccount1.accesskey "a">
 <!ENTITY addCloudFileAccount.description "Bæta við nýrri geymsluþjónustu fyrir skrár">
 <!ENTITY removeCloudFileAccount.label "Fjarlægja">
 <!ENTITY removeCloudFileAccount.accesskey "r">

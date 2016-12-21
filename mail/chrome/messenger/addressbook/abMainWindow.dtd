@@ -74,9 +74,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label "Eiginleikar">
-<!ENTITY propertiesCmd2.accesskey "i">
+<!ENTITY propertiesMenu.label "Eiginleikar">
+<!ENTITY propertiesMenu.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
+<!ENTITY abPropertiesMenu.label "Eiginleikar nafnaskrár">
+<!ENTITY abPropertiesMenu.accesskey "i">
+<!ENTITY contactPropertiesMenu.label "Eiginleikar tengiliðs">
+<!ENTITY contactPropertiesMenu.accesskey "i">
+<!ENTITY mailingListPropertiesMenu.label "Eiginleikar póstlista">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skoða
 ">
@@ -130,8 +136,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nýr listi">
 <!ENTITY newlistButton.accesskey "l">
-<!ENTITY editButton2.label "Eiginleikar">
-<!ENTITY editButton2.accesskey "i">
+<!ENTITY editPropertiesButton.label "Breyta">
+<!ENTITY propertiesContext.label "Eiginleikar">
+<!ENTITY propertiesContext.accesskey "i">
+<!ENTITY abPropertiesContext.label "Eiginleikar">
+<!ENTITY abPropertiesContext.accesskey "i">
+<!ENTITY editContactContext.label "Breyta tengilið">
+<!ENTITY editContactContext.accesskey "e">
+<!ENTITY editMailingListContext.label "Breyta póstlista">
+<!ENTITY editMailingListContext.accesskey "e">
 <!ENTITY newmsgButton.label "Skrifa">
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "Snarboð">
@@ -143,7 +156,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Búa til nýjan tengilið í nafnaskrá">
 <!ENTITY newlistButton.tooltip "Búa til nýjan lista">
-<!ENTITY editButton2.tooltip "Breyta völdu atriði">
+<!ENTITY editPropertiesButton.tooltip "Breyta völdu atriði">
+<!ENTITY editAbPropertiesButton.tooltip "Breyta gildum fyrir valda nafnabók">
+<!ENTITY editContactPropertiesButton.tooltip "Breyta völdum tengilið">
+<!ENTITY editMailingListPropertiesButton.tooltip "Breyta völdum póstlista">
 <!ENTITY newmsgButton.tooltip "Senda póst">
 <!ENTITY newIM.tooltip "Senda snarboð eða spjall">
 <!ENTITY deleteButton2.tooltip "Eyða völdum hlut">

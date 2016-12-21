@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title "Um &brandFullName;">
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -8,8 +8,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey "L">
 <!ENTITY update.updateButton.label2 "Endurræstu &brandShortName; til að uppfæra">
 <!ENTITY update.updateButton.accesskey "r">
-<!ENTITY update.applyButtonBillboard.label "Virkja uppfærslu…">
-<!ENTITY update.applyButtonBillboard.accesskey "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version "&brandShortName; er tilraunakenndur og gæti verið óstöðugur.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
