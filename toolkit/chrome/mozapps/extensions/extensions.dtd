@@ -16,6 +16,8 @@
 <!ENTITY installAddonFromFile.label "Installa componente aggiuntivo da file…">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "Strumenti per tutti i componenti aggiuntivi">
+<!ENTITY getThemes.description "Sei alla ricerca di nuovi modi per personalizzare il browser?">
+<!ENTITY getThemes.learnMore "Scegli tra migliaia di temi.">
 <!ENTITY cmd.back.tooltip "Torna indietro di una pagina">
 <!ENTITY cmd.forward.tooltip "Vai avanti di una pagina">
 <!ENTITY debugAddons.label "Debug componenti aggiuntivi">
