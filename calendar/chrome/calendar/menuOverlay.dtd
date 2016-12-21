@@ -34,12 +34,17 @@
 <!ENTITY calendar.menu.customize.accesskey      "Π">
 
 <!ENTITY showUnifinderCmd.label                 "Εύρεση συμβάντων">
+<!ENTITY showUnifinderCmd.accesskey             "Ε">
 <!ENTITY showUnifinderCmd.tooltip               "Εναλλαγή παραθύρου εύρεσης συμβάντων">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Εμφάνιση εργασιών στο ημερολόγιο">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "Ρ">
 
 <!ENTITY goTodayCmd.label                       "Σήμερα">
+<!ENTITY goTodayCmd.accesskey                   "Σ">
 
 <!ENTITY showCurrentView.label                  "Τρέχουσα προβολή">
+<!ENTITY showCurrentView.accesskey              "Ο">
 
 <!ENTITY calendar.properties.label              "Ιδιότητες ημερολογίου…">
+<!ENTITY calendar.properties.accesskey          "η">
