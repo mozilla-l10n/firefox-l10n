@@ -23,8 +23,8 @@
 <!ENTITY autoTagPrefix.placeholder "Sláðu inn forskeyti fyrir tög">
 <!ENTITY button.addFeed.label "Bæta við">
 <!ENTITY button.addFeed.accesskey "æ">
-<!ENTITY button.editFeed.label "Breyta">
-<!ENTITY button.editFeed.accesskey "B">
+<!ENTITY button.updateFeed.label "Uppfæra">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label "Fjarlægja">
 <!ENTITY button.removeFeed.accesskey "F">
 <!ENTITY button.importOPML.label "Flytja inn">

@@ -25,9 +25,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Setja inn">
 <!ENTITY insertMenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "Tengill…">
-<!ENTITY insertLinkCmd.accesskey "l">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Tengill…">
+<!ENTITY insertLinkCmd2.accesskey "l">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Nefndur tengill…">
 <!ENTITY insertAnchorCmd.accesskey "N">
 <!ENTITY insertImageCmd.label "Myndir…">
@@ -139,7 +139,6 @@
 <!ENTITY paragraphMenu.label "Málsgrein">
 <!ENTITY paragraphMenu.accesskey "M">
 <!ENTITY paragraphParagraphCmd.label "Málsgrein">
-  
 <!ENTITY paragraphParagraphCmd.accesskey "M">
 <!ENTITY heading1Cmd.label "Haus 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -251,7 +250,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Eyða">
 <!ENTITY tableDeleteMenu.accesskey "E">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

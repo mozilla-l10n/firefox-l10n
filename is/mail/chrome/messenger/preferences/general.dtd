@@ -15,9 +15,11 @@
 <!ENTITY newMessagesArrive.label "Þegar nýr póstur er móttekin:">
 <!ENTITY playSound.label "Spila hljóð">
 <!ENTITY playSound1.accesskey "h">
+<!ENTITY playSoundMac.label "Spila eftirfarandi hljóðskrá:">
+<!ENTITY playSoundMac.accesskey "d">
 <!ENTITY showAnimatedAlert.label "Sýna glugga">
 <!ENTITY showAnimatedAlert.accesskey "g">
-<!ENTITY notificationAlertSettings.label "Hægt er að gera viðvaranir óvirkar á tilkynningarflipa í kerfisvalkostum.">
+<!ENTITY notificationAlertSettings2.label "Hægt er loka á áminningar og sjálfgefið hljóð í tilkynningaflipa í kerfisstillingum.">
 <!ENTITY customizeMailAlert.label "Sérsníða…">
 <!ENTITY customizeMailAlert.accesskey "S">
 <!ENTITY showTrayIcon.label "Sýna sem táknmynd í bakka">
@@ -25,8 +27,6 @@
 <!ENTITY play.label "Spila">
 <!ENTITY play.accesskey "S">
 <!ENTITY systemsound.label "Sjálfgefið hljóð fyrir nýjan póst">
-<!ENTITY systemsoundMac.label "Kerfisviðvörunarhljóð">
-<!ENTITY systemsoundMac.accesskey "K">
 <!ENTITY systemsound.accesskey "y">
 <!ENTITY customsound.label "Nota hljóðskrá">
 <!ENTITY customsound.accesskey "N">

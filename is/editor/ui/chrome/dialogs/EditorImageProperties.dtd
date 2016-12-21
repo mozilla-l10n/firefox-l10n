@@ -11,6 +11,7 @@
 <!ENTITY locationEditField.label "Staðsetning myndar:">
 <!ENTITY locationEditField.accessKey "m">
 <!ENTITY locationEditField.tooltip "Sláðu inn skráarnafn á mynd eða staðsetningu">
+<!ENTITY locationEditField.shortenedDataURI "Minnkað gagna URI (afritun setur fulla slóð á klemmuspjald)">
 <!ENTITY title.label "Ábending:">
 <!ENTITY title.accessKey "b">
 <!ENTITY title.tooltip "Html 'title' eigindið sem birtist sem ábending">

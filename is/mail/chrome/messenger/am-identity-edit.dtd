@@ -6,8 +6,11 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Stillingar auðkennis">
 <!ENTITY identityListDesc.label "Stilla stillingar fyrir þetta auðkenni:">
 <!ENTITY settingsTab.label "Stillingar">
 <!ENTITY copiesFoldersTab.label "Afrit og möppur">
 <!ENTITY addressingTab.label "Samsetning og póstföng">
+<!ENTITY publicData.label "Opinber gögn">
+<!ENTITY privateData.label "Persónuleg gögn">
+<!ENTITY identityAlias.label "Auðkennis merking:">
+<!ENTITY identityAlias.accesskey "ð">

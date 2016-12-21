@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Virk">
 <!ENTITY newButton.label "Ný…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "Afrita…">
+<!ENTITY newButton.popupCopy.accesskey "A">
 <!ENTITY editButton.label "Breyta…">
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Eyða">

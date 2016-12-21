@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Til">
 <!ENTITY fromField4.label "Frá">
 <!ENTITY senderField4.label "Sendandi">
+<!ENTITY author.label "Höfundur">
 <!ENTITY organizationField4.label "Fyrirtæki/Stofnun">
 <!ENTITY replyToField4.label "Svara á">
 <!ENTITY subjectField4.label "Efni">
@@ -21,6 +22,8 @@
 <!ENTITY originalWebsite4.label "Vefsvæði">
 <!ENTITY hdrArchiveButton1.label "Skjalageymsla">
 <!ENTITY hdrArchiveButton1.tooltip "Setja póst í skjalageymslu">
+<!ENTITY hdrOpenConversationButton1.label "Samtal">
+<!ENTITY hdrOpenConversationButton1.tooltip "Sýna samtal fyrir skilaboð">
 <!ENTITY hdrSmartReplyButton1.label "Snjallsvar">
 <!ENTITY hdrReplyButton1.label "Svara">
 <!ENTITY hdrReplyButton2.tooltip "Svara sendanda þessa skeytis">

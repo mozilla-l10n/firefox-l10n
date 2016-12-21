@@ -44,6 +44,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext "Hafna fundarboði">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Hafna öllu">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Hafna fundarboði fyrir öll tilvik fundarins">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label "Hafna">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext "Hafna mótsvari">
 <!ENTITY lightning.imipbar.btnDelete.label "Eyða">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Eyða úr dagatali">
 <!ENTITY lightning.imipbar.btnDetails.label "Upplýsingar…">
@@ -52,6 +54,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Smelltu til að sjá fleiri valkosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Endurstaðfesta">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Senda endurstaðfestingu til fundarstjóra">
+<!ENTITY lightning.imipbar.btnReschedule.label "Breyta tíma">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext "Breyta tíma á atburð">
 <!ENTITY lightning.imipbar.btnSaveCopy.label "Vista afrit">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Vista sérstaklega afrit af atburði í dagatal óháð svari á fundarstjóra. Listinn af þátttakendum verður hreinsaður.">
 <!ENTITY lightning.imipbar.btnTentative.label "Með fyrirvara">
