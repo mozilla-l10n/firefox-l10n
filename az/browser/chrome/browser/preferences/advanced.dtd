@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Ümumi">
 
@@ -40,8 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ətraflı">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Xəta məlumatları &vendorShortName; tərəfinə xətaları düzəltməyə, səyyahınızı daha stabil və güvənilir etməyə kömək edir">
 <!ENTITY crashReporterLearnMore.label     "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
@@ -55,13 +54,13 @@
 <!ENTITY httpCache.label                 "Yaddaşda saxlanılmış web məzmunu">
 
 <!ENTITY offlineStorage2.label           "Oflayn Web Məzmunu və İstifadəçi Məlumatları">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Keş yaddaşı limiti">
 <!ENTITY limitCacheSizeBefore.accesskey  "l">
 <!ENTITY limitCacheSizeAfter.label       "MB yer">
