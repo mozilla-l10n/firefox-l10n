@@ -10,7 +10,7 @@
 <!ENTITY title      "Conectare">
 <!ENTITY header     "Conectare la dispozitivul de la distanță">
 <!ENTITY host       "Gazda:">
-<!ENTITY port       "Port:">
+
 <!ENTITY connect    "Conectare">
 <!ENTITY connecting "Conectare…">
 <!ENTITY availableAddons "Suplimente de la distanță disponibile:">
