@@ -31,9 +31,9 @@
 <!ENTITY aboutNetworking.bytesReceived         "Eizhbitoù degemeret">
 <!ENTITY aboutNetworking.logging               "Kerzhlevr">
 
-
-
-
+<!ENTITY aboutNetworking.currentLogFile        "Restr kerzhlevr bremanel:">
+<!ENTITY aboutNetworking.currentLogModules     "Molladoù kerzhlevr bremanel:">
+<!ENTITY aboutNetworking.setLogFile            "Lakaat ar restr kerzhlevr">
 <!ENTITY aboutNetworking.setLogModules         "Arventennañ molladoù ar c'herzhlevr">
 <!ENTITY aboutNetworking.startLogging          "Kregiñ da skrivañ er c'herzhlevr">
 <!ENTITY aboutNetworking.stopLogging           "Paouez da skrivañ er c'herzhlevr">
