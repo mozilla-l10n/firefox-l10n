@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
+<!ENTITY pointerlockWarning.afterDomain.label "are control asupra cursorului tău. Apasă Esc pentru a prelua controlul.">
 <!ENTITY pointerlockWarning.generic.label "Acest document are control asupra cursorului tău. Apasă Esc pentru a recăpăta controlul.">
 
 <!ENTITY closeWindow.label "Închide fereastra">
@@ -209,11 +209,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul de mesaje">
 
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul cu instalarea de suplimente">
 
-
-
-
-
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Deschide panoul de mesaje salvare parolă">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea plugin-urilor">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă nu mai dorești notificări de la acest site">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
@@ -224,11 +224,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ai blocat accesul la cameră pentru acest site.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat accesul la microfon pentru acest site.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat accesul la ecran pentru acest site.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat accesul la locație pentru acest site.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ai blocat stocarea de date pentru acest site.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Arată istoricul">
 
@@ -247,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Arată bara cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
+<!ENTITY containersMenu.label "Containere">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -279,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Nouă filă container">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -391,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Caută sau introdu adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extensie:">
 <!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Dorești să îți îmbunătățești experiența de căutare cu sugestii?">
@@ -455,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Schimbă setările de căutare">
-
+<!ENTITY changeSearchSettings.tooltip "Schimbă setările de căutare">
 
 <!ENTITY searchInNewTab.label         "Caută într-o filă nouă">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -475,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "D">
 <!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă container nouă">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -574,22 +577,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activează sunetul">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Viteză redare">
+<!ENTITY mediaPlaybackRate2.accesskey "V">
+<!ENTITY mediaPlaybackRate050x2.label "Lent (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Rapid (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Mai repede (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Ridicol (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "l">
+<!ENTITY mediaLoop.label             "Buclă">
+<!ENTITY mediaLoop.accesskey         "B">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -693,14 +697,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Gata">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
-
+<!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms2 "Numele de utilizatori de pe această pagină ar putea fi compromise.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
@@ -733,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
-
+<!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a efectua modificările.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -743,18 +747,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "File sincronizate">
 
 <!ENTITY syncedTabs.sidebar.label              "File sincronizate">
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Autentifică-te în Firefox de pe alte dispozitive pentru a vedea filele lor aici.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
 
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Deschide">
+<!ENTITY syncedTabs.context.open.accesskey                   "D">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Deschide într-o filă nouă">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Deschide linkul într-o fereastră nouă">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide într-o fereastră privată nouă">
@@ -768,7 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
 <!ENTITY syncSignIn.label             "Autentifică-te la &syncBrand.shortName.label;…">
-
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectare la &syncBrand.shortName.label;…">
