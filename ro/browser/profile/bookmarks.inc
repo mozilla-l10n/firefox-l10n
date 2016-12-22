@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly Resources
+#define nightly_heading Resurse Firefox Nightly
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Blogul Firefox Nightly
 
 
 # LOCALIZATION NOTE (bugzilla):
@@ -100,7 +100,7 @@
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 
 
-#define bugzilla Mozilla Bug Tracker
+#define bugzilla Bug Tracker Mozilla
 
 
 # LOCALIZATION NOTE (mdn):
@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools Unelte pentru testare Nightly
 
 
 # LOCALIZATION NOTE (crashes):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Discută Nightly pe IRC
 
 
 # LOCALIZATION NOTE (planet):
@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet Planet Mozilla
+#define planet Planeta Mozilla
 
 
 #unfilter emptyLines
