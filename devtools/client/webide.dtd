@@ -151,7 +151,7 @@
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "העדפות התקן">
-<!ENTITY devicepreference_search "העדפות חיפוש">
+<!ENTITY devicepreference_search "חיפוש העדפות">
 <!ENTITY devicepreference_newname "שם העדפה חדשה">
 <!ENTITY devicepreference_newtext "ערך העדפה">
 <!ENTITY devicepreference_addnew "הוספת העדפה חדשה">
