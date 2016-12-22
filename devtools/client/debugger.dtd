@@ -21,13 +21,9 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.label "This source is black boxed: its breakpoints are disabled, and stepping skips through it.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Stop black boxing this source">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -38,12 +34,8 @@
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Comută black boxing">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-
-<!ENTITY debuggerUI.sources.prettyPrint "Prettify Source">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-
-<!ENTITY debuggerUI.autoPrettyPrint     "Auto Prettify Minified Sources">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -74,15 +66,11 @@
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-
-<!ENTITY debuggerUI.showVarsFilter           "Show variables filter box">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-
-<!ENTITY debuggerUI.showOnlyEnum           "Show only enumerable properties">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -93,8 +81,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-
-<!ENTITY debuggerUI.autoBlackBox           "Automatically Black Box Minified Sources">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -139,14 +125,10 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-
-<!ENTITY debuggerUI.focusVariables           "Focus variables tree">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-
-<!ENTITY debuggerUI.condBreakPanelTitle "This breakpoint will stop execution only if the following expression is true">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
@@ -174,8 +156,6 @@
 <!ENTITY debuggerUI.tabs.events         "Evenimente">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-
-<!ENTITY debuggerUI.seMenuAddWatch      "Selection to watch expression">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->

@@ -56,9 +56,7 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-<!ENTITY btnServerLogging.label       "Server">
 
-<!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Erori">
 <!ENTITY btnServerInfo                "Informații">
 <!ENTITY btnServerWarnings            "Avertismente">

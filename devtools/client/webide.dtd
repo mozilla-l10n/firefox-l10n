@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
-
 <!ENTITY projectMenu_label "Proiect">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Aplicație nouă…">
@@ -24,11 +22,10 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferințe">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
+
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Reîmprospătează filele">
 
-<!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Deconectare">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -88,15 +85,13 @@
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualizează dispozitivele">
 <!-- Lense -->
-
-<!ENTITY details_valid_header "valid">
 <!ENTITY details_warning_header "avertismente">
 <!ENTITY details_error_header "erori">
 <!ENTITY details_description "Descriere">
 <!ENTITY details_location "Adresă">
 <!ENTITY details_manifestURL "Identificator aplicație">
 <!ENTITY details_removeProject_button "Elimină proiectul">
-<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplicație nouă">
@@ -115,8 +110,8 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_title "Preferințe">
-<!ENTITY prefs_editor_title "Editor">
-<!ENTITY prefs_general_title "General">
+
+
 <!ENTITY prefs_restore "Restaurează setările implicite">
 <!ENTITY prefs_manage_components "Gestionează componentele suplimentare">
 <!ENTITY prefs_options_autoconnectruntime "Reconectează-te la runtime-ul anterior">
@@ -149,8 +144,8 @@
 <!ENTITY runtimedetails_title "Informații despre timpul de execuție">
 <!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
 <!ENTITY runtimedetails_summonADBRoot "dispozitiv root">
-<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
+
+
 <!ENTITY runtimedetails_requestPrivileges "solicită privilegii mai mari">
 <!ENTITY runtimedetails_privilegesWarning "(Va reporni dispozitivul. Necesită acces root.)">
 <!-- Device Preferences and Settings -->
@@ -189,27 +184,23 @@
 <!ENTITY wifi_auth_scan_request "Punctul final la care vă conectați are nevoie de mai multe informații pentru autentificarea la această conexiune.  Vă rugăm să scanați codul QR de mai jos prin intermediul solicitării de pe celălalt dispozitiv.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "No QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Dacă dispozitivul solicită un token în loc de scanarea unui cod QR, te rugăm să copiezi valoarea de mai jos pe celălalt dispozitiv:">
 
 <!-- Logs panel -->
-
-<!ENTITY logs_title "Pre-packaging Command Logs">
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "Opțiuni pentru simulator">
 <!ENTITY simulator_remove "Șterge simulatorul">
 <!ENTITY simulator_reset "Restaurează setările implicite">
 <!ENTITY simulator_name "Nume">
-<!ENTITY simulator_software "Software">
+
 <!ENTITY simulator_version "Versiune">
 <!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardware">
+
 <!ENTITY simulator_device "Dispozitiv">
 <!ENTITY simulator_screenSize "Ecran">
 <!ENTITY simulator_pixelRatio "Rată de pixeli">

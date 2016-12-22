@@ -14,8 +14,6 @@
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
-
-<!ENTITY toolboxFramesTooltip          "Select an iframe as the currently targeted document">
 <!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
@@ -30,14 +28,12 @@
 <!ENTITY options.context.advancedSettings "Setări avansate">
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-
-<!ENTITY options.context.inspector "Inspector">
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Afișează stiluri pentru browser">
-<!ENTITY options.showUserAgentStyles.tooltip "Turning this on will show default styles that are loaded by the browser.">
+
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
@@ -45,19 +41,13 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-
-<!ENTITY options.defaultColorUnit.label "Default color unit">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
-
-<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
-
-<!ENTITY options.defaultColorUnit.hex "Hex">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -74,8 +64,6 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh  "* Current session only, reloads the page">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -146,8 +134,6 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
-<!ENTITY options.timestampMessages.label      "Enable timestamps">
-<!ENTITY options.timestampMessages.tooltip    "If you enable this option commands and output in the Web Console will display a timestamp">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
@@ -162,12 +148,12 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Afișează sursele originale">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Show original sources (e.g. Sass files) in the Style Editor and Inspector">
+
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!ENTITY options.stylesheetAutocompletion.label      "Completare automată CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Autocomplete CSS properties, values and selectors in Style Editor as you type">
+
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
@@ -186,7 +172,7 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Arată datele platformei Gecko">
-<!ENTITY options.showPlatformData.tooltip  "If you enable this option the JavaScript Profiler reports will include Gecko platform symbols">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

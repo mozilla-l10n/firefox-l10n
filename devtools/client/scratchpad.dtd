@@ -114,8 +114,6 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
@@ -151,6 +149,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-<!ENTITY evalFunction.label "Evaluate Current Function">
-<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
