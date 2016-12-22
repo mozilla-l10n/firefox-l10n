@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Aveți suficiente drepturi de acces la fișierul cerut?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li></ul>">
 
 <!ENTITY generic.title "Nu se poate duce la capăt cererea">
 <!ENTITY generic.longDesc "<p>Momentan nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
@@ -69,6 +70,7 @@
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> </ul>">
 
+<!ENTITY securityOverride.linkText "Sau poți adăuga o excepție…">
 <!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server..</p> <p>Dacă totuși dorești să adaugi o excepție pentru acest site, o poți face în setările avansate pentru criptare.</p>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
