@@ -17,10 +17,10 @@
 <!ENTITY tabCrashed.offerHelp "Ons kan help!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Kies &tabCrashed.restoreTab; om die bladsy te herlaai.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Kies &tabCrashed.restoreTab; of &tabCrashed.restoreAll; om bladsyinhoud te herlaai.">
-
+<!ENTITY tabCrashed.requestHelp "Is u bereid om ons te help?">
 <!ENTITY tabCrashed.requestHelpMessage "Omvalverslae help ons om probleme te diagnoseer en &brandShortName; beter te maak.">
 <!ENTITY tabCrashed.requestReport "Rapporteer dié oortjie">
-
+<!ENTITY tabCrashed.sendReport2 "Stuur 'n omvalverslag vir die oortjie wat oop is">
 <!ENTITY tabCrashed.commentPlaceholder2 "Opsionele kommentaar (kommentaar is sigbaar in die openbaar)">
 <!ENTITY tabCrashed.includeURL2 "Sluit bladsy se URL in by die omvalverslag">
 <!ENTITY tabCrashed.emailPlaceholder "Tik u e-posadres hier in">
