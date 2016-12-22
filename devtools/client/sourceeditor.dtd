@@ -12,8 +12,3 @@
   - documentation on web development on the web. -->
 
 
-
-
-<!ENTITY gotoLineCmd.label         "Sari la linia…">
-<!ENTITY gotoLineCmd.key           "S">
-<!ENTITY gotoLineCmd.accesskey     "S">

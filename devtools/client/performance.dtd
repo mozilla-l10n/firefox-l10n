@@ -10,64 +10,48 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-
-
-
-<!ENTITY performanceUI.bufferStatusTooltip "Profilatorul stochează mostre într-un buffer circular și după ce bufferul atinge limita de înregistrare, noile mostre încep să suprascrie mostrele de la începutul înregistrării.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Înregistrarea datelor în timp real este dezactivată pentru Firefox non-multiprocesor.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Activați Firefox multiprocesor în preferințe pentru a putea reda datele de înregistrare în timp real.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-
-<!ENTITY performanceUI.bufferStatusFull "Bufferul este plin. Mostrele mai vechi sunt acum suprascrise.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
-
-<!ENTITY performanceUI.loadingNotice "Încărcare…">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-<!ENTITY performanceUI.toolbar.js-calltree "Arbore de apelare">
 
-<!ENTITY performanceUI.toolbar.memory-calltree "Alocări">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Arată unde a fost alocată memoria în timpul înregistrării.">
-<!ENTITY performanceUI.toolbar.js-flamegraph "Grafic JS">
 
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Grafic privind alocările de memorie">
+
+
+
+
+
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-<!ENTITY performanceUI.table.totalDuration            "Timp total">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "Timpul petrecut în cadrul acestei funcții și a funcțiilor pe care le apelează.">
 
-<!ENTITY performanceUI.table.selfDuration.tooltip     "Timpul petrecut doar în cadrul acestei funcții.">
 
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "Procentul de timp petrecut în cadrul acestei funcții și a funcțiilor pe care le apelează.">
 
-<!ENTITY performanceUI.table.selfPercentage.tooltip   "Procentul de timp petrecut doar în cadrul acestei funcții.">
-<!ENTITY performanceUI.table.samples                  "Exemple">
-<!ENTITY performanceUI.table.samples.tooltip          "De câte ori a fost această funcție pe stivă atunci când profilatorul a preluat o mostră.">
-<!ENTITY performanceUI.table.function                 "Funcție">
-<!ENTITY performanceUI.table.function.tooltip         "Numele și sursa locației pentru funcția eșantionată.">
 
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Numărul total de alocări pentru obiecte incluse în această locație și în apeluri.">
-<!ENTITY performanceUI.table.selfAlloc                "Alocări autoincluse">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Numărul de alocări pentru obiecte incluse în această locație.">
+
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-
-<!ENTITY performanceUI.options.filter.tooltiptext "Selectați ce date să fie afișate în cronologie">
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
@@ -76,13 +60,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
-<!ENTITY performanceUI.invertFlameGraph             "Inversează graficul">
-
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-
-<!ENTITY performanceUI.showPlatformData             "Arată datele platformei Gecko">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
@@ -95,27 +75,21 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableMemory.tooltiptext "Înregistrează consumul de memorie în timpul profilării.">
+
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
-<!ENTITY performanceUI.enableAllocations             "Înregistrare alocări">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Înregistrează alocările de obiecte în timpul profilării.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Înregistrează frecvența de cadre în timpul profilării.">
+
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
-
-<!ENTITY performanceUI.console.recordingNoticeStart "Înregistrare în prezent via">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
-<!ENTITY performanceUI.console.stopCommandStart "Oprește înregistrarea tastând">
-<!ENTITY performanceUI.console.stopCommandEnd   "în consolă.">

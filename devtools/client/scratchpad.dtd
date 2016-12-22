@@ -20,80 +20,55 @@
 
 
 
-<!ENTITY window.title                 "Editor JavaScript">
 
-<!ENTITY fileMenu.label               "Fișier">
-<!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Fereastră nouă">
-<!ENTITY newWindowCmd.accesskey       "n">
-<!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Deschide un fișier…">
-<!ENTITY openFileCmd.accesskey        "u">
-<!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Deschide fișiere recente">
-<!ENTITY openRecentMenu.accesskey     "r">
 
-<!ENTITY revertCmd.label              "Revenire…">
-<!ENTITY revertCmd.accesskey          "R">
 
-<!ENTITY saveFileCmd.label            "Salvează">
-<!ENTITY saveFileCmd.accesskey        "S">
-<!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Salvează ca…">
-<!ENTITY saveFileAsCmd.accesskey      "a">
 
-<!ENTITY closeCmd.label               "Închide">
-<!ENTITY closeCmd.key                 "w">
-<!ENTITY closeCmd.accesskey           "c">
 
-<!ENTITY viewMenu.label               "Vizualizare">
-<!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "Afișează numerele de linie">
-<!ENTITY lineNumbers.accesskey         "l">
 
-<!ENTITY wordWrap.label                "Încadrează text">
-<!ENTITY wordWrap.accesskey            "x">
 
-<!ENTITY highlightTrailingSpace.label     "Evidențiere spații terminale">
-<!ENTITY highlightTrailingSpace.accesskey "s">
 
-<!ENTITY largerFont.label             "Font mai mare">
-<!ENTITY largerFont.accesskey         "a">
-<!ENTITY largerFont.commandkey        "+">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY largerFont.commandkey2       "="> 
 
-<!ENTITY smallerFont.label            "Font mai mic">
-<!ENTITY smallerFont.accesskey        "m">
-<!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "Dimensiune normală">
-<!ENTITY normalSize.accesskey         "n">
-<!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "Editare">
-<!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "Rulează">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspectează">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Afișează">
-<!ENTITY display.accesskey            "f">
-<!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Tipărire elegantă">
-<!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "p">
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -101,12 +76,8 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Mediu">
-<!ENTITY environmentMenu.accesskey    "M">
 
 
-<!ENTITY contentContext.label         "Conținut">
-<!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -118,35 +89,25 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Ajutor">
-<!ENTITY helpMenu.accesskey           "j">
-<!ENTITY helpMenuWin.label            "Ajutor">
-<!ENTITY helpMenuWin.accesskey        "j">
 
-<!ENTITY documentationLink.label      "Ajutor pentru Editor Javascript pe MDN">
-<!ENTITY documentationLink.accesskey  "A">
+
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Resetează variabilele">
-<!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "Reîncarcă și execută">
-<!ENTITY reloadAndRun.accesskey       "R">
-<!ENTITY reloadAndRun.key             "R">
 
-<!ENTITY executeMenu.label            "Execută">
-<!ENTITY executeMenu.accesskey        "x">
+
+
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-
-<!ENTITY errorConsoleCmd.commandkey   "j">
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-<!ENTITY evalFunction.key "e">
+
