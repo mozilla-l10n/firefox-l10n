@@ -37,5 +37,5 @@
 
 
 
-
-
+<!ENTITY aboutNetworking.dnsDomain             "Domein">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adresse">
