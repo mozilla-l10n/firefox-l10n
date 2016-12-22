@@ -56,7 +56,7 @@
 <!ENTITY overrideSmartCacheSize.label "Non utilizzare la gestione automatica della cache">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
-<!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
+<!ENTITY updateApplication.label "Aggiornamenti di &brandShortName;">
 <!ENTITY updateAuto1.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto1.accesskey "s">
 <!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all’utente di scegliere se installarli">
@@ -67,7 +67,7 @@
 <!ENTITY updateHistory.accesskey "o">
 <!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
 <!ENTITY useService.accesskey "U">
-<!ENTITY updateOthers.label "Aggiorna automaticamente:">
+<!ENTITY autoUpdateOthers.label "Aggiorna automaticamente">
 <!ENTITY enableSearchUpdate.label "Motori di ricerca">
 <!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY offlineNotify.label "Avvisa quando un sito web richiede di salvare dati per l’utilizzo non in linea">
