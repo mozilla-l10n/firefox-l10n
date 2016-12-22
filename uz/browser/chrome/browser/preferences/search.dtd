@@ -18,7 +18,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Bir bosishda izlash qidiruv tizimlari">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Qidiruv paneli sizga qidiruv muqobil tizimlarini taklif qiladi. Qaysi birini ko‘rsatish kerakligini tanlang.">
+<!ENTITY chooseWhichOneToDisplay.label         "Qidiruv paneli sizga muqobil qidiruv tizimlarini taklif qiladi. Qaysi birini ko‘rsatish kerakligini tanlang.">
 
 <!ENTITY engineNameColumn.label                "Qidiruv tizimlari">
 <!ENTITY engineKeywordColumn.label             "Kalit so‘z">
