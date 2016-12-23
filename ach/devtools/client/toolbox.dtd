@@ -37,7 +37,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Nyut cital pa layeny">
-<!ENTITY options.showUserAgentStyles.tooltip "Dino man obi nyuto cital ma pire kene ma layeny cano.">
+<!ENTITY options.showUserAgentStyles.tooltip "Dino man obi nyuto cital makwongo ma layeny cano.">
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
@@ -115,6 +115,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "Gitic pa layub makwongo">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -204,4 +206,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "d">
 <!ENTITY options.sourceeditor.keybinding.label          "Twec mapire tek">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "T">
-<!ENTITY options.sourceeditor.keybinding.default.label  "Mapire kene">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Makwongo">

@@ -117,7 +117,7 @@
 <!ENTITY prefs_title "Ma imaro">
 <!ENTITY prefs_editor_title "Kacoc">
 <!ENTITY prefs_general_title "Lumuku">
-<!ENTITY prefs_restore "Dwok i ma pire kene">
+<!ENTITY prefs_restore "Dwok makwongo">
 <!ENTITY prefs_manage_components "Lo gin ma iye makato">
 <!ENTITY prefs_options_autoconnectruntime "Nwo kube i me cawa tic ma okato">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Nwo kube i me cawa tic ma okato kacce WebIDE ocake">
@@ -204,7 +204,7 @@
 
 <!ENTITY simulator_title "Ter me Cuma">
 <!ENTITY simulator_remove "Kwany Cuma">
-<!ENTITY simulator_reset "Dwok i ma pire kene">
+<!ENTITY simulator_reset "Dwok makwongo">
 <!ENTITY simulator_name "Nying">
 <!ENTITY simulator_software "Purugram">
 <!ENTITY simulator_version "Cik">

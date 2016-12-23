@@ -783,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Gintic ki lapok kin jami me ameda">
 <!ENTITY customizeMode.menuAndToolbars.empty "I mito gin tic mukene?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Yer ki ikin med-ikome alip ki alip">
-<!ENTITY customizeMode.restoreDefaults "Dwok i ma pire kene">
+<!ENTITY customizeMode.restoreDefaults "Dwok i makwongo">
 <!ENTITY customizeMode.toolbars "Nyut / Kan gintic">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
 <!ENTITY customizeMode.lwthemes "Theme">

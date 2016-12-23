@@ -50,9 +50,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Keto ite ma kimino">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yub Cano">
 <!ENTITY aboutSupport.appBasicsUserAgent "Lukony Lutic kwede">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tic pa Lapo wic">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Tic">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ma kicoyo">
@@ -69,6 +69,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Nyut i Gin manongo">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Yab Boc">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jami ma amaro mapire tek magiyubu">
 <!ENTITY aboutSupport.modifiedPrefsName "Nying">
@@ -109,8 +110,8 @@ variant of aboutSupport.showDir.label. -->
 
 
 
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
-
-
-
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Yoo me loyo ne">
