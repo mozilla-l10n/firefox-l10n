@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "Изключено">
 
 <!ENTITY pref_whats_new_notification "Какво е новото във &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Научете за новите възможности след актуализация">
+<!ENTITY pref_whats_new_notification_summary "Научете за новите възможности след обновяване">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -323,7 +323,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; актуализирани сайта">
+<!ENTITY content_notification_title_plural "&formatD; обновени сайта">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "Настройки">
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Отметки и история">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Налична е актуализация на &brandShortName;">
+<!ENTITY updater_start_title2 "Налично е обновяване на &brandShortName;">
 <!ENTITY updater_start_select2 "За изтегляне докоснете">
 
 <!ENTITY updater_downloading_title2 "Изтегляне на &brandShortName;">
@@ -701,7 +701,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Докоснете за инсталиране след изтеглянето">
 <!ENTITY updater_downloading_retry2 "Докоснете за нов опит">
 
-<!ENTITY updater_apply_title2 "Има актуализация на &brandShortName;">
+<!ENTITY updater_apply_title2 "Налично е обновяване на &brandShortName;">
 <!ENTITY updater_apply_select2 "Докоснете за прилагане">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Изчистване на историята">
 <!ENTITY restrictable_feature_clear_history_description "Позволява на близките ви да изтриват информация за посетените от тях сайтове и страници.">
 <!ENTITY restrictable_feature_advanced_settings "Разширени настройки">
-<!ENTITY restrictable_feature_advanced_settings_description "Включва внасяне на отметки, възстановяване на раздели и автоматични актуализации. Изключете, за да имате опростени настройки, подходящи за вашите близки.">
+<!ENTITY restrictable_feature_advanced_settings_description "Включва внасяне на отметки, възстановяване на раздели и автоматично обновяване. Изключете, за да имате опростени настройки, подходящи за вашите близки.">
 <!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Позволява на близките ви да участват в разговори в реално време.">
 <!ENTITY restrictable_feature_block_list "Блокиращ списък">
@@ -813,7 +813,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Съжаляваме! Тази версия на &brandShortName; не работи на това устройство (&formatS1;, &formatS2;). Моля, изтеглете правилната версия.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; вече няма да се с актуализира">
+<!ENTITY eol_notification_title2 "&brandShortName; вече няма да се с обновява">
 <!ENTITY eol_notification_summary "Докоснете, за да научите повече">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
