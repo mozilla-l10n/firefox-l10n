@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_title "‏‏זמין במצב לא מקוון">
 <!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימניה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
-<!ENTITY helper_triple_readerview_open_button "הוספה למועדפים">
+<!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
 <!ENTITY activity_stream_highlights "מומלצים">
