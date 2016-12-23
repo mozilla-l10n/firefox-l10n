@@ -37,7 +37,7 @@
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "&amp;Cihaz adı:">
+<!ENTITY syncDeviceName.label       "Cihaz adı:">
 <!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
 <!ENTITY changeSyncDeviceName.label "Cihaz adını değiştir…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
