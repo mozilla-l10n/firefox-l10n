@@ -57,7 +57,7 @@
 <!ENTITY otherActionsOpenConversation1.label "Deschide în conversație">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Deschide într-o fereastră nouă">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
 <!ENTITY otherActionsOpenInNewTab1.label "Deschide într-o filă nouă">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "t">
 <!ENTITY markAsReadMenuItem1.label "Marchează ca citit">
