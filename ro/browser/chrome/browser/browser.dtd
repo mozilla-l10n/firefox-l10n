@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Nouă filă container">
+<!ENTITY newUserContext.label             "Filă container nouă">
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
