@@ -20,7 +20,7 @@
 <!ENTITY windowClose.key "w">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Cerca:">
-<!ENTITY filter.accesskey "e">
+<!ENTITY searchFilter.label "Cerca">
+<!ENTITY searchFilter.accesskey "e">
 <!ENTITY button.close.label "Chiudi">
 <!ENTITY button.close.accesskey "C">
