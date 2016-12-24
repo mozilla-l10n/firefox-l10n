@@ -140,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Nuova lista">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editPropertiesButton.label                     "Modifica">
+<!ENTITY propertiesContext.label                        "Proprietà">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Proprietà">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Modifica contatto">
+<!ENTITY editContactContext.accesskey                   "M">
+<!ENTITY editMailingListContext.label                   "Modifica lista">
+<!ENTITY editMailingListContext.accesskey               "M">
 <!ENTITY newmsgButton.label                             "Scrivi">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Messaggio istantaneo">
@@ -152,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crea un nuovo contatto in rubrica">
 <!ENTITY newlistButton.tooltip                          "Crea una nuova lista">
+<!ENTITY editPropertiesButton.tooltip                   "Modifica l'oggetto selezionato">
+<!ENTITY editAbPropertiesButton.tooltip                 "Modifica le proprietà della rubrica selezionata">
+<!ENTITY editContactPropertiesButton.tooltip            "Modifica il contatto selezionato">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Modifica la lista di distribuzione selezionata">
 <!ENTITY newmsgButton.tooltip                           "Invia un messaggio di posta">
 <!ENTITY newIM.tooltip                                  "Invia un messaggio istantaneo o avvia la chat">
 <!ENTITY deleteButton2.tooltip                          "Elimina gli oggetti selezionati">
