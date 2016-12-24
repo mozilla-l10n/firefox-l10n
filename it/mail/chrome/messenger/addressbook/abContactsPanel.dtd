@@ -31,6 +31,9 @@
 <!ENTITY abPropertiesContext.label          "Proprietà">
 <!ENTITY abPropertiesContext.accesskey      "i">
 <!ENTITY editContactContext.label           "Modifica contatto">
+<!ENTITY editContactContext.accesskey       "M">
+<!ENTITY editMailingListContext.label       "Modifica lista">
+<!ENTITY editMailingListContext.accesskey   "M">
 
 <!ENTITY toButton.label                     "Aggiungi a A:">
 <!ENTITY toButton.accesskey                 "A">
