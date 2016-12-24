@@ -82,7 +82,7 @@
 
 <!ENTITY updateTab.label                 "Mises à jour">
 
-<!ENTITY updateApp.label                 "Mises à jour de &brandShortName; :">
+<!ENTITY updateApplication.label         "Mises à jour de &brandShortName;">
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
@@ -99,7 +99,7 @@
 <!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY updateOthers.label              "Mettre à jour automatiquement :">
+<!ENTITY autoUpdateOthers.label          "Mettre à jour automatiquement">
 <!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 
