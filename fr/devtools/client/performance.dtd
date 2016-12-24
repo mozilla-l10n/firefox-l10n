@@ -18,12 +18,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Enregistrement en temps réel désactivé dans les versions de Firefox où le mode multi-processus est désactivé.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Enregistrement en temps réel désactivé dans les versions de Firefox où le mode multiprocessus est désactivé.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Activez le mode multi-processus de Firefox dans les préférences pour permettre le rendu en temps réel des données des enregistrements.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Activez le mode multiprocessus de Firefox dans les préférences pour permettre le rendu en temps réel des données des enregistrements.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
