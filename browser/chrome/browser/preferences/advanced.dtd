@@ -36,7 +36,7 @@
 <!ENTITY healthReportLearnMore.label     "En savoir plus">
 
 <!ENTITY telemetryDesc.label             "Envoie des informations sur les performances, le matériel, l’utilisation et les personnalisations à &vendorShortName; pour aider à améliorer &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Envoyer des données supplémentaires (c.à.d. des données télémétriques)">
+<!ENTITY enableTelemetryData.label       "Envoyer des données supplémentaires (c.-à-d. des données télémétriques)">
 <!ENTITY enableTelemetryData.accesskey   "E">
 <!ENTITY telemetryLearnMore.label        "En savoir plus">
 

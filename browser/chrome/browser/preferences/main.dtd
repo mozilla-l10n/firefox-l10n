@@ -42,4 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Astuce : Des profils distincts sont utilisés. Vous pouvez tirer parti de Sync pour partager vos données entre eux.">
 <!ENTITY getStarted.label                 "Utiliser Sync…">
 
-<!ENTITY e10sEnabled.label                "Activer le mode multi-processus de &brandShortName;">
+<!ENTITY e10sEnabled.label                "Activer le mode multiprocessus de &brandShortName;">
