@@ -28,6 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Le etichette possono essere usate per catalogare e dare priorità ai messaggi.">
+<!ENTITY newTagButton.label        "Nuovo…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Modifica…">
+<!ENTITY editTagButton1.accesskey  "M">
 <!ENTITY removeTagButton.label     "Elimina">
 <!ENTITY removeTagButton.accesskey "E">
 
