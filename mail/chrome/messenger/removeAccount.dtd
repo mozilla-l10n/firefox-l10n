@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Elimina account e dati">
+<!ENTITY removeButton.label           "Elimina">
+<!ENTITY removeButton.accesskey       "E">
+<!ENTITY removeAccount.label          "Rimuovi informazioni account">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Rimuove l'account solamente da &brandShortName;. Non influisce sull'account vero e proprio sul server.">
+<!ENTITY removeData.label             "Rimuovi i dati dei messaggi">
+<!ENTITY removeData.accesskey         "d">
