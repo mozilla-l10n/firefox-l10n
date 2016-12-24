@@ -570,6 +570,7 @@ size. -->
 <!ENTITY button_clear "Obriši">
 <!ENTITY button_copy "Kopiraj">
 
+<!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Dodaj stranicu">
@@ -586,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Očisti povijest pregleda stranica">
 <!ENTITY home_clear_history_confirm "Jeste li sigurni da želite očistiti povijest?">
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
-
+<!ENTITY home_closed_tabs_title2 "Nedavno zatvorene kartice">
 <!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
 <!ENTITY home_restore_all "Vrati sve kartice">
 <!ENTITY home_closed_tabs_number "&formatD; kartice">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 kartica">
 <!ENTITY home_most_recent_empty "Ovdje se pojavljuju web stranice koje ste zadnje posjetili.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -826,9 +828,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Zabilježite stavke Prikaza čitača kako biste ih čitali i kada nema interneta.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj u zabilješke">
 
+<!ENTITY activity_stream_topsites "Najpopularnije stranice">
 <!ENTITY activity_stream_highlights "Najvažnije">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Zabilježeno">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
