@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Optimiziraj boje za pristupačnost" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Događaji i zadaci" >
+<!ENTITY pref.editInTab.label "Uredite događaje i zadatke u kartici umjesto u skočnom prozoru." >
+<!ENTITY pref.editInTab.accesskey "t">
