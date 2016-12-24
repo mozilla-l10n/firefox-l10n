@@ -497,6 +497,11 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Strumenti di sviluppo">
 <!ENTITY devtoolsMenu.accesskey "u">
+<!ENTITY devToolboxCmd.label "Cassetta degli strumenti di sviluppo">
+<!ENTITY devToolboxCmd.accesskey "C">
+<!ENTITY devToolboxCmd.commandkey "c">
+<!ENTITY addonDebugCmd.label "Add-on Debugger">
+<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "d">
 <!ENTITY errorConsoleCmd.commandkey "j">
