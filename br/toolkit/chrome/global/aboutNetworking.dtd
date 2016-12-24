@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Eizhbitoù kaset">
 <!ENTITY aboutNetworking.bytesReceived         "Eizhbitoù degemeret">
 <!ENTITY aboutNetworking.logging               "Kerzhlevr">
-
+<!ENTITY aboutNetworking.logTutorial           "Lennit <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Kerzhlevriñ HTTP</a> evit ditouroú war an doare da arverañ an ostilh-mañ.">
 <!ENTITY aboutNetworking.currentLogFile        "Restr kerzhlevr bremanel:">
 <!ENTITY aboutNetworking.currentLogModules     "Molladoù kerzhlevr bremanel:">
 <!ENTITY aboutNetworking.setLogFile            "Lakaat ar restr kerzhlevr">
