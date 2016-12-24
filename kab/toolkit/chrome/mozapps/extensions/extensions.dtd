@@ -135,7 +135,7 @@
 <!ENTITY detail.updateType                    "Aleqqem awurman">
 <!ENTITY detail.updateDefault.label           "Awennez amezwaru">
 <!ENTITY detail.updateDefault.tooltip         "Sebded ileqman s wudem awurman ma yella d-amezwer kan.">
-<!ENTITY detail.updateAutomatic.label         "Remden">
+<!ENTITY detail.updateAutomatic.label         "Yermed">
 <!ENTITY detail.updateAutomatic.tooltip       "Sebded ileqman s wudem awurman">
 <!ENTITY detail.updateManual.label            "Yensa">
 <!ENTITY detail.updateManual.tooltip          "Ur sebdad ara ileqman s wudem awurman">
@@ -185,7 +185,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(yettwassens)">
+<!ENTITY addon.disabled.postfix               "(yensa)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
