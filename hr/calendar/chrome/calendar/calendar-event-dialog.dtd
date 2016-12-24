@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Odvoji pozivnice po sudionicima">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "b">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ova mogućnost šalje jednu poruku e-pošte po sudioniku. Svaka pozivnica sadrži samo jednog sudionika tako da identitet drugih sudionika nije otkriven.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Onemogući protuprijedloge">
+<!ENTITY event.attendees.disallowcounter.accesskey   "n">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Naznačava da nećete prihvaćati protuprijedloge">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -78,7 +78,7 @@
 
 <!ENTITY  event.menu.item.save.label                      "Spremi">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "p">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Spremi i zatvori">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Obriši…">
 <!ENTITY  event.menu.item.delete.accesskey                "b">
@@ -165,11 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "l">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Spremi">
+<!ENTITY  event.toolbar.saveandclose.label                "Spremi i zatvori">
 <!ENTITY  event.toolbar.delete.label                      "Obriši">
 <!ENTITY  event.toolbar.attendees.label                   "Pozovi sudionike">
 <!ENTITY  event.toolbar.privacy.label                     "Privatnost">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Spremi">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Spremi i zatvori">
 <!ENTITY  event.toolbar.delete.tooltip                    "Obriši">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozovi sudionike">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dodaj privitke">
@@ -185,10 +188,12 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Primjeni prijedlog">
+<!ENTITY counter.button.proposal.accesskey                "P">
+<!ENTITY counter.button.proposal.tooltip2                 "Polja događaja će biti popunjena koristeći vrijednosti iz protuprijedloga, sudionici će biti obaviješteni tek kada spremite događaj.">
+<!ENTITY counter.button.original.label                    "Primijeni originalne podatke">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Polja će biti postavljena na vrijednosti iz originalnog događaja, prije nego li je dan protuprijedlog">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Naslov:" >
@@ -407,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Možda ću prisustvovati">
 <!ENTITY read.only.needs.action.label    "Potvrdit ću kasnije">
 <!ENTITY read.only.reminder.label        "Podsjetnik:">
-
+<!ENTITY read.only.attachments.label     "Privici:">
 <!ENTITY read.only.attendees.label       "Sudionici">
 <!ENTITY read.only.description.label     "Opis">
 <!ENTITY read.only.link.label            "Povezana poveznica">
