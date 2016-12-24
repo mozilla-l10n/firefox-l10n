@@ -57,7 +57,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Rechercher</button>
     </div>
-  <li>Assurez-vous de bien utiliser des barres obliques (c.à.d.
+  <li>Assurez-vous de bien utiliser des barres obliques (c.-à-d.
     <strong>/</strong>).</li>
 </ul>
 ">
