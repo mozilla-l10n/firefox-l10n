@@ -22,7 +22,7 @@
 <!ENTITY spellCheckToggle.label "Orfoqrafiya Yoxlaması">
 <!ENTITY spellCheckToggle.accesskey "q">
 <!ENTITY spellNoSuggestions.label "(Nümunə söz yoxdur)">
-<!ENTITY spellDictionaries.label "Diller">
+<!ENTITY spellDictionaries.label "Dillər">
 <!ENTITY spellDictionaries.accesskey "l">
 
 <!ENTITY searchTextBox.clear.label "Təmizlə">
