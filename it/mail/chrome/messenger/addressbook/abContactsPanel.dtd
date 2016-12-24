@@ -9,9 +9,13 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Proprietà del contatto">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Proprietà lista di distribuzione">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Rubrica:">
 <!ENTITY addressbookPicker.accesskey        "R">
+<!ENTITY searchContacts.label               "Cerca contatti:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Nome o email">
 
 <!ENTITY addtoToFieldMenu.label             "Aggiungi al campo A">
@@ -22,6 +26,11 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "n">
 <!ENTITY deleteAddrBookCard.label           "Elimina">
 <!ENTITY deleteAddrBookCard.accesskey       "E">
+<!ENTITY propertiesContext.label            "Proprietà">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Proprietà">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Modifica contatto">
 
 <!ENTITY toButton.label                     "Aggiungi a A:">
 <!ENTITY toButton.accesskey                 "A">
