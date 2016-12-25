@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Tabbere Hesere">
-
-
-
-
+<!ENTITY newtab.customize.classic "Hollu lowe maa dowrowe">
+<!ENTITY newtab.customize.cog.enhanced "Waɗdu heen lowe basiyaaɗe">
+<!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
+<!ENTITY newtab.customize.cog.learn "Humpito baɗte Tabbere Hesere">
 <!ENTITY newtab.customize.title "Heertin hello tabbere maa kese">
-
-
+<!ENTITY newtab.customize.suggested "Hollu lowe maa dowrowe e lowe basiyaaɗe">
+<!ENTITY newtab.customize.topsites "Hollu lowe maa dowrowe">
 <!ENTITY newtab.customize.blank2 "Hollu hello meho">
 <!ENTITY newtab.undo.removedLabel "Dooɓre momtaama.">
 <!ENTITY newtab.undo.undoButton "Firtu.">
