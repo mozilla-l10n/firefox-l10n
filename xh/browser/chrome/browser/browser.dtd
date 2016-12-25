@@ -393,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Izolulo">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Ngaba ungathanda ukuphucula amava akho okukhangela ngamacebiso?">
