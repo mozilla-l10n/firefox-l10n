@@ -36,10 +36,6 @@
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">
-<!ENTITY cmd.bookmarkLink.label "Добавить страницу в закладки…">
-<!ENTITY cmd.bookmarkLink.accesskey "б">
-<!ENTITY cmd.delete.label "Удалить эту страницу">
-<!ENTITY cmd.delete.accesskey "д">
 <!ENTITY cmd.deleteDomainData.label "Забыть об этом сайте">
 <!ENTITY cmd.deleteDomainData.accesskey "б">
 <!ENTITY cmd.open.label "Открыть">
