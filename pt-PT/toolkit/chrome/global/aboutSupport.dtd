@@ -25,7 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentName "Nome">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Descrição">
-<!ENTITY aboutSupport.experimentActive "Ativas">
+<!ENTITY aboutSupport.experimentActive "Ativa">
 <!ENTITY aboutSupport.experimentEndDate "Data final">
 <!ENTITY aboutSupport.experimentHomepage "Página web">
 <!ENTITY aboutSupport.experimentBranch "Ramo">
