@@ -11,9 +11,10 @@
 
 <!ENTITY showURLBarSuggestions.label           "Hollu basiye njiilaw e njaltudi palal nokkuure">
 <!ENTITY showURLBarSuggestions.accesskey       "n">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo &brandShortName; yoo waas siiftorde aslol.">
 
-
-
+<!ENTITY redirectWindowsSearch.label "Huutoro ndee yiylorde so aɗa yiyloo e Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Yiylorde nde dobannde wootere">
 
