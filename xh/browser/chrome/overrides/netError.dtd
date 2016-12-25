@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
+<!ENTITY captivePortal.title "Loga ungene kwinethwekhi">
+<!ENTITY captivePortal.longDesc "<p>Le nethwekhi inokufuna ukuba uloge ungene ukuze ufikelele kwi-intanethi.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Vula iPhepha lokuLoga uNgene">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> <li>Iidilesi zewebhu zidla ngokubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. <strong>/</strong>).</li> </ul>">

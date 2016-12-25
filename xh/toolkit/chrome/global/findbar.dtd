@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Fumanisa isenzeko esilandelayo sebinzana lamagama">
 <!ENTITY previous.tooltip "Fumanisa isenzeko sangaphambili sebinzana lamagama">
 <!ENTITY findCloseButton.tooltip "Vala ibha yokufumana">
-
-
+<!ENTITY highlightAll.label "Balaselisa Zonke">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Qaqambisa zonke izenzeko zebinza">
 <!ENTITY caseSensitive.label "Ngqamanisa unobumba">
 <!ENTITY caseSensitive.accesskey "n">
