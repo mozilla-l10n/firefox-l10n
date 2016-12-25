@@ -11,16 +11,23 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Falo loowi mbonndi e puuntoori">
+<!ENTITY  enableSafeBrowsing.accesskey    "F">
 
+<!ENTITY  blockDownloads.label            "Falo gaawte bonnooje">
+<!ENTITY  blockDownloads.accesskey        "b">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Reentin am baɗte topirɗe gañaaɗe walla kaawniiɗe">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Paltooje…">
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
+<!ENTITY  logins.label                  "Ceŋorɗe">
 
+<!ENTITY  rememberLogins.label          "Siiftor ceŋorɗe lowe">
+<!ENTITY  rememberLogins.accesskey      "S">
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
@@ -29,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Waylu Finnde Baabaare…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 
-
+<!ENTITY  savedLogins.label              "Ceŋorɗe Danndaaɗe…">
+<!ENTITY  savedLogins.accesskey          "D">

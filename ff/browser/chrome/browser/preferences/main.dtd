@@ -31,7 +31,8 @@
 <!ENTITY alwaysAsk.label "Sahaa kala naamno-mi ɗo piille ndanndetee">
 <!ENTITY alwaysAsk.accesskey "k">
 
-
+<!ENTITY alwaysCheckDefault2.label        "Ƴeewto sahaa kala so &brandShortName; ko wanngorde maa woowaande">
+<!ENTITY alwaysCheckDefault2.accesskey    "t">
 <!ENTITY setAsMyDefaultBrowser2.label     "Waɗtu Woowaande">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "W">
 <!ENTITY isDefault.label                  "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
@@ -41,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Feere: Ɗuum huutorto ko keftinirɗe ceertuɗe. Huutoro Sync ngam lollinde keɓe hakkunde majje.">
 <!ENTITY getStarted.label                 "Fuɗɗo huutoraade Sync…">
 
+<!ENTITY e10sEnabled.label                "Yamir keewal cili &brandShortName;">

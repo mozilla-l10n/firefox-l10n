@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Paltooje">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Lowre">
 <!ENTITY treehead.status.label        "Ngonka">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Haaytu">
 <!ENTITY button.cancel.accesskey      "H">
-
-
+<!ENTITY button.ok.label              "Danndu Bayle">
+<!ENTITY button.ok.accesskey          "D">
 

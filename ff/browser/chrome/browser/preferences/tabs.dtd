@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "Uddit kenorɗe kese e tabbere hesere">
+<!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnCloseMultipleTabs.label  "Reentin am so tabbe keewɗe ngarii e uddeede">
 <!ENTITY warnCloseMultipleTabs.accesskey  "a">
