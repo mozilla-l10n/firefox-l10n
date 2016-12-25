@@ -56,7 +56,7 @@
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">
 <!ENTITY updateTab.label "Обновления">
-<!ENTITY updateApp.label "Обновления &brandShortName;:">
+<!ENTITY updateApplication.label "Обновления &brandShortName;">
 <!ENTITY updateAuto1.label "Автоматически устанавливать обновления (рекомендовано: повышает безопасность)">
 <!ENTITY updateAuto1.accesskey "м">
 <!ENTITY updateCheck.label "Проверять наличие обновлений, но позволять мне решать, устанавливать ли их или нет">
@@ -67,7 +67,7 @@
 <!ENTITY updateHistory.accesskey "ж">
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
 <!ENTITY useService.accesskey "ф">
-<!ENTITY updateOthers.label "Автоматически обновлять:">
+<!ENTITY autoUpdateOthers.label "Автоматически обновлять">
 <!ENTITY enableSearchUpdate.label "Плагины для поисковых систем">
 <!ENTITY enableSearchUpdate.accesskey "л">
 <!ENTITY offlineNotify.label "Сообщать, когда веб-сайт просит сохранить данные для автономной работы">

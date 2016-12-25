@@ -20,7 +20,7 @@
 <!ENTITY windowClose.key "w">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Поиск:">
-<!ENTITY filter.accesskey "о">
+<!ENTITY searchFilter.label "Поиск">
+<!ENTITY searchFilter.accesskey "о">
 <!ENTITY button.close.label "Закрыть">
 <!ENTITY button.close.accesskey "к">

@@ -4,21 +4,22 @@
 
 <!ENTITY replaceDialog.title "Найти и заменить">
 <!ENTITY findField.label "Найти текст:">
-<!ENTITY findField.accesskey "а">
+<!ENTITY findField.accesskey "к">
 <!ENTITY replaceField.label "Заменить на:">
 <!ENTITY replaceField.accesskey "м">
 <!ENTITY caseSensitiveCheckbox.label "С учётом регистра">
-<!ENTITY caseSensitiveCheckbox.accesskey "р">
+<!ENTITY caseSensitiveCheckbox.accesskey "ч">
 <!ENTITY wrapCheckbox.label "С начала страницы">
-<!ENTITY wrapCheckbox.accesskey "ч">
+<!ENTITY wrapCheckbox.accesskey "л">
 <!ENTITY backwardsCheckbox.label "Поиск в обратном направлении">
-<!ENTITY backwardsCheckbox.accesskey "П">
+<!ENTITY backwardsCheckbox.accesskey "о">
 <!ENTITY findNextButton.label "Найти далее">
-<!ENTITY findNextButton.accesskey "Н">
+<!ENTITY findNextButton.accesskey "е">
 <!ENTITY replaceButton.label "Заменить">
-<!ENTITY replaceButton.accesskey "З">
+<!ENTITY replaceButton.accesskey "н">
 <!ENTITY replaceAndFindButton.label "Заменить и найти">
-<!ENTITY replaceAndFindButton.accesskey "е">
+<!ENTITY replaceAndFindButton.accesskey "ь">
 <!ENTITY replaceAllButton.label "Заменить всё">
-<!ENTITY replaceAllButton.accesskey "В">
+<!ENTITY replaceAllButton.accesskey "а">
 <!ENTITY closeButton.label "Закрыть">
+<!ENTITY closeButton.accesskey "ы">
