@@ -16,4 +16,4 @@
 <!ENTITY showData.accesskey           "M">
 <!ENTITY progressPending              "Rimozione dati selezionati in corso…">
 <!ENTITY progressSuccess              "Rimozione completata.">
-<!ENTITY progressFailure              "Rimozione fallita.">
+<!ENTITY progressFailure              "Rimozione non riuscita.">
