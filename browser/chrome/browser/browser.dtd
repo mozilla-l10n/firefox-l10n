@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 
 <!ENTITY exitDOMFullscreen.button "Yaltu njaajeendi yaynirde (Ech)">
-
+<!ENTITY exitDOMFullscreenMac.button "Yaltu njaajeendi yaynirde (Ech)">
 <!ENTITY leaveDOMFullScreen.label "Yaltu Njaajeendi Yaynirde">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.">
+<!ENTITY pointerlockWarning.generic.label "Ndee fiilannde nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.">
 
 <!ENTITY closeWindow.label "Uddu Henorde">
 <!ENTITY closeWindow.accesskey "d">
@@ -177,18 +177,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "b">
 <!ENTITY shareVideo.label "Lollin Oo widewoo">
 <!ENTITY shareVideo.accesskey "w">
-
-
+<!ENTITY feedsMenu2.label "Lulno e ngoo Hello">
+<!ENTITY subscribeToPageMenupopup.label "Lulno e ngoo Hello">
 <!ENTITY subscribeToPageMenuitem.label "Lulno e ngoo Hello…">
 <!ENTITY addCurPagesCmd.label "Maantoro Tabbe Fof…">
 <!ENTITY showAllBookmarks2.label "Hollu Maantore Fof">
-
-
+<!ENTITY recentBookmarks.label "Maantoraaɗe ko Ɓooyaani">
+<!ENTITY otherBookmarksCmd.label "Firlit Maantore">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hollu maantore goɗɗe">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Hollu Maantoraaɗe ko Ɓooyaani">
+<!ENTITY showRecentlyBookmarked.accesskey "o">
+<!ENTITY hideRecentlyBookmarked.label     "Suuɗ Maantoraaɗe ko Ɓooyaani">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Rutto">
 <!ENTITY backButton.tooltip           "Rutto hello wooto">
@@ -205,28 +205,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Waanjito">
 <!ENTITY printButton.tooltip          "Waanjito ngoo hello">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Yiy humpito lowre ndee">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Uddit alluwal ɓatakuuje">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Uddit alluwal ɗaɓɓitanɗe nokkuuje">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Uddit alluwal vatakuure aafirgal ɓeyditte">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Uddit alluwal ɓatakuuje ndesgu ceŋtol">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Uddit alluwal ɓatakuuje danndugol finnde">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Toppito kuutoragol ceŋe">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Toppito lollingol mikkoroo maa e ndee lowre">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Toppito lollingol kenorɗe walla yaynirde maa e ndee lowre">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Uddit alluwal ɓatakuuje aafgol">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Fir ngoo hello">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Toppito pirgol hello">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Toppito kuutoragol topirde DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "A daaƴii kameraa maa e ndee lowre.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "A daaƴii mikoroo maa e ndee lowre.">
+<!ENTITY urlbar.screenBlocked.tooltip            "A daaƴii ndee lowre e lollingol yaynirde maa.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "A daaƴii humpito nokkuure e ndee lowre.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "A daaƴii ndesgu keɓe e ndee lowre.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "A daaƴii tintine e ndee lowre.">
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.zoomReset.tooltip     "Artir tolno lonngol">
 
 <!ENTITY searchItem.title             "Yiylo">
 <!-- Toolbar items --> 
@@ -237,10 +244,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Maantore">
-
+<!ENTITY bookmarksMenuButton.other.label "Maantore Goɗɗe">
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
 <!ENTITY viewBookmarksToolbar.label         "Hollu Palal Maantore">
 
+<!ENTITY containersMenu.label "Mooftirɗe">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -260,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Gaawte">
 <!ENTITY downloads.accesskey          "G">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Ɓeyditte">
 <!ENTITY addons.accesskey             "Ɓ">
 <!ENTITY addons.commandkey            "A">
@@ -273,14 +281,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fiilde"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Tabbere Mooftirɗe Hesere">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "Henorde Hesere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "H">
 <!ENTITY newPrivateWindow.label     "Henorde Suturo Hesere">
 <!ENTITY newPrivateWindow.accesskey "H">
-
+<!ENTITY newNonRemoteWindow.label   "Henorde Non-e10s Hesere">
 
 <!ENTITY editMenu.label         "Taƴto"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -293,9 +301,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Dottu">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Natto">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Ɗakku">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Ɗ"> 
@@ -344,18 +352,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
 <!ENTITY appMenuHelp.tooltip "Uddit ballitorgol">
 
+<!ENTITY appMenuRemoteTabs.label "Tabbe synckaaɗe">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Alaa tabbe udditiiɗe">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Alaa tabbe cynkaaɗe… tawo!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
+<!ENTITY appMenuRemoteTabs.signin.label "Seŋo nga syncude">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Yiy Tabbe Cynkaaɗe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ɓ">
@@ -381,14 +393,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Yiylo walla naatnu ñiiɓirde">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Timmitere:">
 <!ENTITY urlbar.switchToTab.label     "Yah to tabbere:">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Aɗa yiɗi ƴellitde dawtol maa e njiilaw so heɓde basiye?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ɓeydu humpito…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Alaa">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Eey">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -416,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
+<!ENTITY contentSearchInput.label     "Ɗaɓɓitannde njiilaw">
 <!ENTITY contentSearchSubmit.tooltip  "Naatnu njiilaw">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -429,6 +445,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Yiylo ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -440,11 +458,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Wayly Teelte Njiilaw">
+<!ENTITY changeSearchSettings.tooltip "Waylu teelte njiilaw">
 
-
-
-
-
+<!ENTITY searchInNewTab.label         "Yiylo e Tabbere Hesere">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Waɗtu Yiylorɗe Woowaanɗe">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Uddit Jokkol e Tabbere Hesere">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -458,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Uddit Kaarewol e Henorde Hesere">
 <!ENTITY openFrameCmd.accesskey       "H">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Uddit Jokkol e Tabbere Mooftirde Hesere">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Hollu Ngol Kaarewol Tan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -558,22 +577,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ittu muumɗinal">
 <!ENTITY mediaUnmute.accesskey       "I">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Muumaa Taro">
+<!ENTITY mediaPlaybackRate2.accesskey "u">
+<!ENTITY mediaPlaybackRate050x2.label "Leewɗo (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Potɗo">
+<!ENTITY mediaPlaybackRate100x2.accesskey "P">
+<!ENTITY mediaPlaybackRate125x2.label "Jaawɗo (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "J">
+<!ENTITY mediaPlaybackRate150x2.label "Ɓurɗo yaawde (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Kawjuɗo (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "K">
+<!ENTITY mediaLoop.label             "Luupo">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -638,6 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "U">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Pannol Hello">
 <!ENTITY pageStyleMenu.accesskey "l">
@@ -676,70 +697,84 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
 
 <!ENTITY editBookmark.done.label                     "Gasii">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
+<!ENTITY identity.connectionSecure "Ceŋagol Kisnangol">
 <!ENTITY identity.connectionNotSecure "Ceŋagol hisaani">
-
-
-
-
+<!ENTITY identity.connectionFile "Ngoo hello mooftaa ko e ordinateer maa.">
+<!ENTITY identity.connectionVerified2 "Aɗa seŋii kisngol e ndee lowre, jeyɗum ko:">
+<!ENTITY identity.connectionInternal "Ɗum ko hello &brandShortName; hisngo.">
+<!ENTITY identity.insecureLoginForms2 "Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; faliima geɗe e ngoo hello ɗe kisaani.">
+<!ENTITY identity.passiveLoaded "Geɗe ɗe kisaani nana e ngoo hello (wano nate).">
+<!ENTITY identity.activeLoaded "A dartinii ndeenka e ngoo hello.">
+<!ENTITY identity.weakEncryption "Ngoo hello huutortoo ko gannugol jaafngol.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
+<!ENTITY identity.description.insecure "Ƴeŋagol maa e ndee lowre wonaa suuriinde. Humpito ngo naatnataa e mayre ena waawi yiyeede woɗɓe (wano findeeji, ɓatakuuje, karte banke, ekn.).">
+<!ENTITY identity.description.insecureLoginForms "Humpito ceŋagol naatnu-ɗaa e ngoo hello hisaani tee ena waawi jaayeede.">
+<!ENTITY identity.description.weakCipher "Ceŋagol maa e ndee lowre huutortoo ko gannugol jaafngol tee wonaa suuriinde.">
+<!ENTITY identity.description.weakCipher2 "Yimɓe woɗɓe ena mbaawi yiyde humpito maa walla mbayla ngonka lowre ndee.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; faliima geɗe e ngoo hello ɗe kisaani.">
+<!ENTITY identity.description.passiveLoaded "Ceŋagol maa suuraaki tee humpito lollintaa e ndee lowre ena waawi woɗɓe njiya ɗum.">
 <!ENTITY identity.description.passiveLoaded2 "Ndee lowre ena waɗi loowdi ndi hisaani (wano nate).">
+<!ENTITY identity.description.passiveLoaded3 "Goonga &brandShortName; daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate).">
+<!ENTITY identity.description.activeLoaded "Ndee lowre ena waɗi loowdi ndi hisaani (wano dokkore) tee ceŋagol maa e mayre suuraaki.">
+<!ENTITY identity.description.activeLoaded2 "Humpito ngo lollintaa e ngoo hello ena waawi woɗɓe njiya ɗum (wano finndeeji, ɓatakuuje, karte banke, ekn.).">
 
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Hurmin kisnugol">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.disableMixedContentBlocking.label "Daaƴ kisnugol e soo sahaa">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Ɓeydu Humpito">
 
+<!ENTITY identity.removeCertException.label "Momtu Paltol">
+<!ENTITY identity.removeCertException.accesskey "M">
 
-
-
+<!ENTITY identity.moreInfoLinkText2 "Ɓeydu Humpito">
 
 <!ENTITY identity.permissions "Jamirooje">
-
-
+<!ENTITY identity.permissionsEmpty "A hokkaani ndee lowre hay yamiroore heeriinde.">
+<!ENTITY identity.permissionsReloadHint "Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tabbe wanngorde">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "Tabbe synckaaɗe">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Tabbe synckaaɗe">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Seŋo e Firefoxe kaɓirɗi maa goɗɗi ngam yiyde tabbe majji.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Alaa tabbe cynkaaɗe… tawo!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Alaa tabbe udditiiɗe">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Uddit cuɓoraaɗe &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Uddit">
+<!ENTITY syncedTabs.context.open.accesskey                   "U">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Uddit e Tabbere Hesere">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "T">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Uddit e Henorde Hesere">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "H">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Uddit e Henorde Suuriinde Hesere">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "H">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Maantoro Ndee Tabbere…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.copy.label                       "Natto">
+<!ENTITY syncedTabs.context.copy.accesskey                   "N">
 
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
 
-
+<!ENTITY syncSignIn.label             "Seŋo to &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sanngoɗin Jooni">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Seŋo kadi e &syncBrand.shortName.label;…">
@@ -772,29 +807,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikkoroo lollinteeɗo:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Ojoo e ndee tabbere maa lolline.">
 <!ENTITY getUserMedia.allWindowsShared.message "Kala henorde yiyotonde e yaynirde maaɗa maa lolline.">
 
-
-
-
+<!ENTITY trackingProtection.title "Ndeenka dewindol">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; daaƴii geɗe e ngoo hello baawɗe rewindaade peeragol maa.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ndee lowre ena loowi geɗe baawɗe rewindaade peeragol maa. Ko a daaƴɗo ndeenka.">
+<!ENTITY trackingProtection.notDetected3 "Alaa geɗe dewindol ejtaa e ngoo hello.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Daaƴ kisnugol e ndee lowre">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "Daaƴ kisnugol e ndee naatannde">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Hurmin kisnugol">
 <!ENTITY trackingProtection.block2.accesskey "H">
 
 <!ENTITY trackingContentBlocked.message "Rewindagol">
 <!ENTITY trackingContentBlocked.moreinfo "Geɗe ngoo hello ndewindotooɗe golle maa e geese ndaaƴaama.">
 <!ENTITY trackingContentBlocked.learnMore "Ɓeydu Humpito">
-
-
-
+<!ENTITY trackingContentBlocked.options "Cuɓe">
+<!ENTITY trackingContentBlocked.unblock2.label "Daaƴ kisnugol e ndee lowre">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Hurmin kisnugol">
 <!ENTITY trackingContentBlocked.block.accesskey "H">
 <!ENTITY trackingContentBlocked.disabled.message "Kisnugol rewindo koko daaƴaa">
@@ -843,4 +881,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Wanngo e suturo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Jaaraama!">
 
-
+<!ENTITY emeLearnMoreContextMenu.label            "Ɓeydu humpito baɗte DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
