@@ -13,12 +13,14 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Gah. IThebhu yakho isandul' ukukhresha.">
+<!ENTITY tabCrashed.offerHelp "Singakunceda!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Khetha i-&tabCrashed.restoreTab; ukuze uphinde ulowude isiqulatho sephepha.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Khetha i-&tabCrashed.restoreTab; okanye i-&tabCrashed.restoreAll; ukuze uphinde ulowude isiqulatho sephepha.">
+<!ENTITY tabCrashed.requestHelp "Ngaba ungasinceda?">
+<!ENTITY tabCrashed.requestHelpMessage "Ingxelo yokukhresha isinceda sifumanise iingxaki size senze i-&brandShortName; ibe bhetele.">
+<!ENTITY tabCrashed.requestReport "Xela le thebhu">
+<!ENTITY tabCrashed.sendReport2 "Thumela ingxelo yokukhresha yethebhu oyijongileyo">
 
 
 <!ENTITY tabCrashed.emailPlaceholder "Faka idilesi ye-imeyili yakho apha">
