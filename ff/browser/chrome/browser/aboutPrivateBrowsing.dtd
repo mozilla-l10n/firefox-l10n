@@ -6,24 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Uddit Henorde Suuriinde">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "S">
 
+<!ENTITY privateBrowsing.title                           "Banngagol Suturo">
+<!ENTITY privateBrowsing.title.tracking                  "Banngagol Suturo kañum e Ndeenka Dewindol">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "So aɗa feeroo e Henorde Suuriinde, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "danndataa">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "kelle jillaaɗe">
+<!ENTITY aboutPrivateBrowsing.info.searches              "njiylawuuji">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "kukiije">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "piille cabborrɗe">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "maa danndu">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " ɗee geɗe:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "gaawte">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "maantore">
+<!ENTITY aboutPrivateBrowsing.note.before                "Banngagol Suturo ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "waɗataama cuuɗiiɗo">
+<!ENTITY aboutPrivateBrowsing.note.after                 " e enternet. Gollinoowo-ma e Carwinoowo Enternet maa ena njiya haa jooni kelle ɗe njilloto-ɗaa.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Ɓeydu humpito baɗte">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Banngagol Suturo">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection.title                        "Ndeenka Dewindol">
+<!ENTITY trackingProtection.description2                 "Won e lowe kuutortoo ko dewindorɗe baawɗe ñukkindaade dille maa e nder enternet. So a waɗii ndeenka Dewindol Firefox maa falo keewɗe e majje baawɗe roɓindaande humpito baɗte sifaa peeragol maa.">
+<!ENTITY trackingProtection.startTour1                   "Yiy no yahrata">
