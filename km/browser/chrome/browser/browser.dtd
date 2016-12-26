@@ -643,28 +643,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "បិទ​របារ​ចំហៀង">
 
 <!ENTITY quitApplicationCmdWin2.label       "ចេញ">
-<!ENTITY quitApplicationCmdWin2.accesskey   "ច">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "បិទ &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ចេញ"> 
-<!ENTITY quitApplicationCmd.accesskey   "ច">
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "បិទ">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "ប">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "រចនាប័ទ្ម​ទំព័រ">
-<!ENTITY pageStyleMenu.accesskey "រ">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "គ្មាន​រចនាប័ទ្ម">
-<!ENTITY pageStyleNoStyle.accesskey "គ">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "រចនាប័ទ្ម​ទំព័រ​មូលដ្ឋាន">
-<!ENTITY pageStylePersistentOnly.accesskey "រ">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "ផ្លាស់ប្ដូរ​ការ​កំណត់​ទប់ស្កាត់​ការ​លេចឡើង​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
 
@@ -674,26 +674,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "កែ​សម្រួល​ចំណូល​ចិត្ត​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
 <!ENTITY editPopupSettings.label "កែ​សម្រួលជម្រើស​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
-<!ENTITY editPopupSettings.accesskey "ជ">
+<!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "ប្ដូរទិស​ទំព័រ">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "ទ">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ប្ដូរ​​ទិស​អត្ថបទ">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ប">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ស្វែងរក​ក្នុង​ទំព័រ​នេះ...">
-<!ENTITY findOnCmd.accesskey "ស">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "រក​ម្ដងទៀត">
-<!ENTITY findAgainCmd.accesskey "ទ">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "បន្ថែម​​វចនានុក្រម...">
-<!ENTITY spellAddDictionaries.accesskey "ប">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
@@ -775,9 +775,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "ចូល​ទៅ &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
-<!ENTITY syncSyncNowItem.accesskey    "ស">
+<!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "ត">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
 
 <!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
@@ -803,9 +803,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
-<!ENTITY getUserMedia.selectCamera.accesskey "ម">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "ម">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "អូឌីយ៉ូ​ពី​ផ្ទាំង​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 <!ENTITY getUserMedia.allWindowsShared.message "បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 
@@ -837,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.disabled.message "ការ​ការ​ពារ​ការ​តាមដានត្រូវបានបិទ">
 
 <!ENTITY pluginNotification.showAll.label "បង្ហាញ​ទាំងអស់">
-<!ENTITY pluginNotification.showAll.accesskey "ង">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "អនុញ្ញាត​ឥឡូវ">
