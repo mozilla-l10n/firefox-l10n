@@ -159,6 +159,14 @@
 <!ENTITY options.timestampMessages.label      "시각 보기">
 <!ENTITY options.timestampMessages.tooltip    "이 옵션을 켜면 웹 콘솔의 명령어와 출력을 시각과 함께 보여줍니다.">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "디버거">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "소스맵 켜기">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
