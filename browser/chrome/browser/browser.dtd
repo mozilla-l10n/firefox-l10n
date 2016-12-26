@@ -567,16 +567,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "ចាក់">
-<!ENTITY mediaPlay.accesskey         "ច">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "ផ្អាក">
-<!ENTITY mediaPause.accesskey        "ផ">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "បិទ​សំឡេង">
-<!ENTITY mediaMute.accesskey         "ប">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "បើក​សំឡេង">
-<!ENTITY mediaUnmute.accesskey       "ប">
+<!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "ល្បឿន​លេង">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "យឺត (0.5×)">
