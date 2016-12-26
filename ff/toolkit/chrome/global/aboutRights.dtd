@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "Carwe Humpito &brandFullName; Mooftiiɗe e Geese">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "Ngam tartude yoga e loowdi widewoo, &brandShortName; aawtoto won e gulɗe dokkitorɗe loowdi iwde e nokkuuji goɗɗi.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -61,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Daaƴde fannu Peeragol Koolnol oo wasiyaaka sabu ena waawi wuftude e yahde-ma e lowe ɗe koolnaaki.  So aɗa yiɗi daaƴde fannu oo haa timma, tugno e ɗee daawe:">
 <!ENTITY rights.safebrowsing-term1 "Uddit cuɓoraaɗe jaaɓnirgal ngal">
 <!ENTITY rights.safebrowsing-term2 "Labo labannde Kisal ndee">
-
+<!ENTITY rights2.safebrowsing-term3 "Jelto suɓre to &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Peeragol Koolnol daaƴaama jooni">
 <!-- location aware browsing points for branded builds -->
 
