@@ -611,7 +611,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "បង្ហាញស្ថិតិ">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "លាក់ស្ថិតិ">
-<!ENTITY videoHideStats.accesskey    "ស">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -620,7 +620,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "​ពង្រីក">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "​">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
@@ -631,14 +631,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
-<!ENTITY fullZoomResetCmd.accesskey     "ក">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ពង្រីក​តែអត្ថបទ​ប៉ុណ្ណោះ ">
-<!ENTITY fullZoomToggleCmd.accesskey    "អ">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "ពង្រីក">
-<!ENTITY fullZoom.accesskey             "ព">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "បិទ​របារ​ចំហៀង">
 
