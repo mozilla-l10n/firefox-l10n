@@ -55,7 +55,7 @@
 
 <!ENTITY  error.title                     "Përditësimi Dështoi">
 <!ENTITY  errorCertAttrHasUpdate.label    "Diçka po përpiqet t&apos;ia hedhë &brandShortName;-it duke e bërë të pranojë një
-                                           përditësim të pasigurt. Ju lutemi, lidhuni me mundësuesin tuaj të rrjetit dhe kërkoni ndihmë.">
+                                           përditësim të pasigurt. Ju lutemi, lidhuni me furnizuesin tuaj të rrjetit dhe kërkoni ndihmë.">
 
 <!ENTITY  errorCertAttrNoUpdate2.label     "Diçka po e pengon &brandShortName;-in të përditësohet në mënyrë të sigurt.
                                            Ju lutemi, kontrolloni nëse keni versionin më të fundit të &brandShortName;-it, te:">
