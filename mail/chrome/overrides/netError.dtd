@@ -56,7 +56,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumenti Skadoi">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyra i palidhur">
 <!ENTITY netOffline.longDesc2 "

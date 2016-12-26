@@ -72,9 +72,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Shfaqe te Finder">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Shfaq Dosjen">
+<!ENTITY aboutSupport.showWin2.label "Hape Dosjen">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Parapëlqime të Rëndësishme të Ndryshuara">
 <!ENTITY aboutSupport.modifiedPrefsName "Emër">
@@ -120,5 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Regjistër Vendimesh">
-
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Veçori të Çaktivizuara nga Roja i Vithisjeve">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zgjidhje të përkohshme">

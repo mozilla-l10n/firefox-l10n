@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Mirë se vini te &brandShortName;-i">
 <!ENTITY header2.label "Dëshironi një adresë të re email-i?">
-<!ENTITY other.languages "Po ju shfaqim vetëm mundësues që ofrojnë adresa në zonën tuaj. Klikoni këtu që të shfaqen krejt mundësuesit.">
+<!ENTITY other.languages "Po ju shfaqim vetëm furnizues që ofrojnë adresa në zonën tuaj. Klikoni këtu që të shfaqen krejt furnizuesit.">
 <!ENTITY error.line1 "Na ndjeni, nuk gjetëm dot ndonjë nga adresat email të këshilluara.">
 <!ENTITY error.line2 "Që të gjeni më tepër email-e, mund edhe të provoni të kërkoni për nofka ose çfarëdo termi tjetër kërkimi">
 
@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Tungjatjeta ">
 <!ENTITY success.title.after ", mund të keni një prej adresave email vijuese:">
 <!ENTITY success.tip "(Që të gjeni më tepër email-e, mund të kërkoni për nofka ose çfarëdo termi tjetër kërkimi)">
-<!ENTITY partnership.description "Nga partneriteti me disa mundësues, &brandShortName;-i mund t&apos;ju ofrojë një llogari të re email-i. Që t&apos;ia filloni, thjesht plotësoni në fushat e mësipërme emrin dhe mbiemrin tuaj, ose çfarëdo fjale tjetër që do të donit.">
+<!ENTITY partnership.description "Nga partneriteti me disa furnizues shërbimi email, &brandShortName;-i mund t&apos;ju ofrojë një llogari të re email-i. Që t&apos;ia filloni, thjesht plotësoni në fushat e mësipërme emrin dhe mbiemrin tuaj, ose çfarëdo fjale tjetër që do të donit.">
 <!ENTITY existing.header "Keni tashmë një adresë të cilën doni ta përdorni?">
 <!ENTITY tinyheader.title "Keni adresë?">
 <!ENTITY tinyheader.existing "Anashkaloje këtë dhe përdor email-in tim ekzistues">
@@ -39,5 +39,5 @@
 <!ENTITY input.namePlaceholder "Emri juaj, ose nofka">
 <!ENTITY input.search "Kërkoni">
 <!ENTITY search_engine.title "Përshtatni motorin tuaj të kërkimeve">
-<!ENTITY search_engine.message "Mundësuesi i email-it tuaj mund t&apos;ju ofrojë edhe aftësi kërkimesh.">
+<!ENTITY search_engine.message "Furnizuesi i shërbimit tuaj email mund t&apos;ju ofrojë edhe aftësi kërkimesh.">
 <!ENTITY search_engine.button "Përfundoje">
