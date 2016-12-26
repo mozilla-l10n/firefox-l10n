@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "F">
 <!ENTITY restoreHTMLDefaults.label            "Atstatyti numatytąsias nuostatas">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
-
-
+<!ENTITY defaultToParagraph.label             "Numatytuoju atveju naudoti pastraipos formatą vietoj paprastojo teksto formato">
+<!ENTITY defaultToParagraph.accesskey         "p">
 
 <!ENTITY spellCheck.label                     "Tikrinti rašybą prieš išsiunčiant laišką">
 <!ENTITY spellCheck.accesskey                 "T">
