@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "자세히 보기">
 <!ENTITY  browserContainersEnabled.label        "포함 탭 활성화">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "설정…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
