@@ -6,9 +6,9 @@
 <!ENTITY places.library.title  "ספרייה">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "ארגן">
+<!ENTITY organize.label        "ארגון">
 <!ENTITY organize.accesskey    "א">
-<!ENTITY organize.tooltip      "ארגן את הסימניות שלך">
+<!ENTITY organize.tooltip      "ארגון הסימניות שלך">
 
 <!ENTITY file.close.label               "סגור">
 <!ENTITY file.close.accesskey           "ס">
