@@ -868,13 +868,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "ការ​ធ្វើ​បន្ត​នឹង៖">
-<!ENTITY panicButton.view.deleteCookies           "លុប​ <html:strong>ខូឃី</html:strong> ថ្មីៗ">
+<!ENTITY panicButton.view.deleteCookies           "លុប​ <html:strong>ខូគី</html:strong> ថ្មីៗ">
 <!ENTITY panicButton.view.deleteHistory           "លុប <html:strong>ប្រវត្តិ</html:strong> ថ្មីៗ">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "បិទ <html:strong>ផ្ទាំង</html:strong> និង <html:strong>បង្អួច</html:strong> ទាំងអស់">
 <!ENTITY panicButton.view.openNewWindow           "បើក​បង្អួច​ស្អាត​ថ្មី">
 
 <!ENTITY panicButton.view.undoWarning             "សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​ក្រោយ​បាន​ទេ។">
-<!ENTITY panicButton.view.forgetButton            "ភ្លេច!">
+<!ENTITY panicButton.view.forgetButton            "បំភ្លេច!">
 
 <!ENTITY panicButton.thankyou.msg1                "ប្រវត្តិ​ថ្មីៗ​របស់​អ្នក​ត្រូវ​បាន​សម្អាត។">
 <!ENTITY panicButton.thankyou.msg2                "ការ​រុករក​សុវត្ថិភាព!">
