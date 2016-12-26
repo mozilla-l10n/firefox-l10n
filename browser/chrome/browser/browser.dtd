@@ -598,18 +598,18 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "បង្ហាញវត្ថុ​បញ្ជា">
-<!ENTITY mediaShowControls.accesskey "វ">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "លាក់វត្ថុ​បញ្ជា">
-<!ENTITY mediaHideControls.accesskey "វ">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ពេញ​អេក្រង់">
-<!ENTITY videoFullScreen.accesskey   "ព">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "រក្សាទុក​រូបថត​ជា...">
-<!ENTITY videoSaveImage.accesskey    "រ">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "បង្ហាញស្ថិតិ">
-<!ENTITY videoShowStats.accesskey    "ស">
+<!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "លាក់ស្ថិតិ">
 <!ENTITY videoHideStats.accesskey    "ស">
 
