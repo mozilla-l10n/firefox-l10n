@@ -540,9 +540,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ...">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "ផ្ញើ​វីដេអូ​ទៅឧបករណ៍">
-<!ENTITY castVideoCmd.accesskey       "ឧ">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែលអូឌីយ៉ូ...">
-<!ENTITY emailAudioCmd.accesskey      "អ">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ធ្វើឲ្យកម្មវិធី​ជំនួយ​នេះ​សកម្ម">
 <!ENTITY playPluginCmd.accesskey      "ក">
 <!ENTITY hidePluginCmd.label          "លាក់​កម្មវិធី​ជំនួយ​នេះ">
