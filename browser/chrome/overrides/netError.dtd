@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Loowgol hello waɗii caɗeele">
 <!ENTITY retry.label "Fuɗɗito">
-
-
+<!ENTITY returnToPreviousPage.label "Rutto">
+<!ENTITY advanced.label "Ceeɓtore">
 <!-- Specific error messages -->
 
 
@@ -24,13 +24,16 @@
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Ballagol fiilde salaama">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Maa taw ko nde momtaande, dirtinaande, walla jamire fiilde ena kala ballagol.</li> </ul>">
 
 <!ENTITY generic.title "Ndo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
+<!ENTITY captivePortal.title "Seŋo to laylaytol">
+<!ENTITY captivePortal.longDesc "<p>Ngol laytol ena waawi naamnaade yo a seŋo ngam naatde e enternet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Uddit Hello Seŋorde">
 
 <!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ñiiɓirɗe geese keewi winndireede ko <strong>http://www.yeru.com/</strong></li> <li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. <strong>/</strong>).</li> </ul>">
@@ -71,11 +74,14 @@
 <!ENTITY unknownSocketType.title "Jaatol sarworde faamaaka">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security Manager.</li> <li>Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Ceŋagol Kisnangol Woorii">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> <li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Ceŋagol maa hisaani">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Jeyɗo <span class='hostname'/> oo koko teeltii lowre mum no feewraani.  Ngam reende humpito maa hade wujjeede, &brandShortName; seŋaaki e lowre ndee.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo e ɓooyde.</li> <li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa so ena seŋii.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
 
@@ -88,6 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ɓeydu Paltoor…">
 
+<!ENTITY errorReporting.automatic2 "Jaŋto juume hono ɗee ngam wallude Mozilla heftinde e falaade lowe bonnooje">
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">
@@ -96,19 +103,28 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Horiima Seŋaade e Kisal">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
+<!ENTITY weakCryptoUsed.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Ceeɓore">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo yanngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi.">
+<!ENTITY weakCryptoAdvanced.override "(hisaani) Eto loowde <span class='hostname'></span> huutoraade kisal kiiɗtungal">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Ceŋagol kisngol to <span id='wrongSystemTime_URL'/> wonataa sabu waktu mo yuɓɓo maa hollata oo moƴƴaani.</p> <p>Ordinateer maa sikata ko <span id='wrongSystemTime_systemDate'/>, kono ko <span id='wrongSystemTime_actualDate'/>. Ngam ñawndude ɗee caɗe, waylu teelte ñalngu e waktu ngam yahda e waktu gonaaɗo oo.</p>">
 
+<!ENTITY certerror.pagetitle1  "Ceŋagol Hisaani">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP Strict Transport Security (HSTS) ngam joopaade &brandShortName; seŋotoo e mayre tan ko e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude heen paltol nguu seedamfaagu.">
+<!ENTITY certerror.copyToClipboard.label "Natto binndol to ɗakkitorde">
 
-
+<!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?">
+<!ENTITY prefReset.label "Artir teelte goowaaɗe">

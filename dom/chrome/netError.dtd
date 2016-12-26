@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fiilde Yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mbar temre ndee innitaaka, walla dirtinee?</li><li>Mbar alaa pergitte mbinndiin, kaftingol, walla tappugol ngoni e ñiiɓirde ndee?</li><li>Ala jogii jamirooje jonɗe huutoraade e temre ɗaɓɓitaande ndee?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Ballagol fiilde salaama">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Maa taw ko nde momtaande, dirtinaande, walla jamire fiilde ena kala ballagol.</li></ul>">
 
 <!ENTITY generic.title "Horiima Yeetinde Ɗaɓɓitannde">
 <!ENTITY generic.longDesc "<p>Humpito ɓeydorɗo baɗte ɗee caɗeele walla ndee juumre heɓotaako oo sahaa.</p>">
@@ -69,7 +70,8 @@
 <!ENTITY nssBadCert.title "Ceŋagol Kisnangol Woorii">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ɗum ena waawi ummaade e teeltol sarworde ndee, walla ena waawi wonde won etotooɗo ñemmbitaade sarworde ndee.</li> <li>So tawii a meeɗii seŋaade e ndee sarworde e ko ɓenni, maa taw juumre ndee juutataa, ngati aɗa waawi etaade so ɓooyii.</li> </ul>">
 
-
+<!ENTITY securityOverride.linkText "Walla aɗa waawi ɓeydude paltoor…">
+<!ENTITY securityOverride.warningContent "<p>A fotaani ɓeydude faltoore so aɗa huutoroo ceŋol enternet ngol a hoolaaki walla so a woowaani yiyde deentine e ndee sarworde.</p> <p>So aɗa yiɗi ɓeydude faltoore noon e ndee lowre, aɗa waawi waɗde ɗum e teelte maa gannugol ceeɓtore.</p>">
 
 <!ENTITY cspBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
 <!ENTITY cspBlocked.longDesc "<p>Wanngorde ndee haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
@@ -80,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
