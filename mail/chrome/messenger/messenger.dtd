@@ -166,7 +166,7 @@
 <!ENTITY compactVersion.accesskey "R">
 
 
-
+<!ENTITY folderModeSelector.label "Aplankų rodymas">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rikiavimas ir grupavimas">
@@ -364,8 +364,8 @@
 <!ENTITY editAsNewMsgCmd.label "Paruošti laišką siuntimui">
 <!ENTITY editAsNewMsgCmd.accesskey "s">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Redaguoti laiško juodraštį">
+<!ENTITY editDraftMsgCmd.accesskey "j">
 <!ENTITY createFilter.label "Sukurti filtrą pagal laišką…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Perkelti į aplanką">
@@ -740,7 +740,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "l">
 <!ENTITY contextEditMsgAsNew.label "Paruošti siuntimui">
 <!ENTITY contextEditMsgAsNew.accesskey "u">
-
+<!ENTITY contextEditDraftMsg.label "Redaguoti laiško juodraštį">
 <!ENTITY contextArchive.label "Archyvuoti">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Atsakyti siuntėjui">
@@ -768,9 +768,9 @@
 <!ENTITY contextCopyMsgMenu.label "Kopijuoti į">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextKillThreadMenu.label "Nepaisyti gijos">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "k">
 <!ENTITY contextKillThreadMenu.accesskey "j">
-
+<!ENTITY contextKillSubthreadMenu.label "Nepaisyti gijos atšakos">
 <!ENTITY contextWatchThreadMenu.label "Stebėti giją">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for

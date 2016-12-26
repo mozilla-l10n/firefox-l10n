@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li> <li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Prieiga prie failo negalima">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Failas galėjo būti pašalintas, perkeltas arba prieigą prie jo riboja leidimai.</li> </ul>">
 
 <!ENTITY generic.title "Klaida">
 <!ENTITY generic.longDesc "<p>Programai „&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
@@ -78,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes perduodant duomenis įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
@@ -94,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Prisijungę piktavaliai lengvai galėtų pamatyti informaciją, kuri jums atrodo saugi. Aplankykite šį tinklapį tik tada, kai jo administratorius pašalins saugumo spragas.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
