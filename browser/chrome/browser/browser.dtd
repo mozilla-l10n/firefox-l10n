@@ -543,24 +543,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែលអូឌីយ៉ូ...">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "ធ្វើឲ្យកម្មវិធី​ជំនួយ​នេះ​សកម្ម">
-<!ENTITY playPluginCmd.accesskey      "ក">
+<!ENTITY playPluginCmd.label          "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម">
+<!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "លាក់​កម្មវិធី​ជំនួយ​នេះ">
-<!ENTITY hidePluginCmd.accesskey      "ល">
-<!ENTITY copyLinkCmd.label            "ចម្លងទីតាំង​តំណ">
-<!ENTITY copyLinkCmd.accesskey        "ទ">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "ចម្លង​ទីតាំង​តំណ">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ចម្លង​ទីតាំង​រូបភាព">
-<!ENTITY copyImageCmd.accesskey       "ច">
+<!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ចម្លង​រូបភាព">
-<!ENTITY copyImageContentsCmd.accesskey  "ច"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "ចម្លង​ទីតាំង​វីដេអូ">
-<!ENTITY copyVideoURLCmd.accesskey    "ច">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ចម្លង​ទីតាំង​អូឌីយ៉ូ">
-<!ENTITY copyAudioURLCmd.accesskey    "ច">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "ចម្លង​អាសយដ្ឋានអ៊ីមែល">
-<!ENTITY copyEmailCmd.accesskey       "អ">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ស៊ុម​នេះ">
-<!ENTITY thisFrameMenu.accesskey          "ស">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
