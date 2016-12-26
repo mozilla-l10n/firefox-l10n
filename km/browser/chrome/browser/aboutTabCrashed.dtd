@@ -13,6 +13,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "អ្ហូ! ផ្ទាំង​របស់​អ្នក​បាន​គាំង។">
+<!ENTITY tabCrashed.offerHelp "យើង​អាច​ជួយ​អ្នក​បាន!">
+<!ENTITY tabCrashed.single.offerHelpMessage "ជ្រើស &tabCrashed.restoreTab; ដើម្បី​ផ្ទុក​មាតិកា​ទំព័រ​ឡើងវិញ។">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "ជ្រើស &tabCrashed.restoreTab; ឬ &tabCrashed.restoreAll; ដើម្បី​ផ្ទុក​មាតិកា​ទំព័រ​ឡើងវិញ។">
+<!ENTITY tabCrashed.requestHelp "តើ​អ្នក​នឹង​ជួយ​ពួក​យើង​ទេ?">
+<!ENTITY tabCrashed.requestHelpMessage "របាយការណ៍​គាំង​គឺ​ជួយ​យើង​រក​ឲ្យ​ឃើញ​បញ្ហា ហើយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង។">
+<!ENTITY tabCrashed.requestReport "រាយការណ៍​ផ្ទាំង​នេះ">
+<!ENTITY tabCrashed.sendReport2 "ផ្ញើ​របាយការណ៍​គាំង​សម្រាប់​ផ្ទាំង​ដែល​អ្នក​កំពុង​មើល">
+<!ENTITY tabCrashed.commentPlaceholder2 "មតិយោបល់​ជា​ជម្រើស (មតិយោបល់​អាច​មើល​ឃើញ​ជា​សាធារណៈ)">
+<!ENTITY tabCrashed.includeURL2 "រួម​បញ្ចូល URL ទំព័រ​ជាមួយ​របាយការណ៍​គាំង​នេះ">
 <!ENTITY tabCrashed.emailPlaceholder "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​នៅ​ទីនេះ">
 <!ENTITY tabCrashed.emailMe "ផ្ញើ​អ៊ីមែល​ឲ្យ​ខ្ញុំ​នៅ​ពេល​មាន​ព័ត៌មាន​​បន្ថែម">
 <!ENTITY tabCrashed.reportSent "បាន​ដាក់​ស្នើ​របាយការណ៍​គាំង អរគុណ​សម្រាប់​ការ​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង!">
+<!ENTITY tabCrashed.requestAutoSubmit "ស្នើ​ផ្ទាំង​ផ្ទៃ​ខាងក្រោយ">
+<!ENTITY tabCrashed.autoSubmit "ធ្វើ​បច្ចុប្បន្នភាព​ចំណូលចិត្ត​ទៅ​ការ​ដាក់​ស្នើ​ដោយ​ស្វ័យប្រវត្តិ​នូវ​របាយការណ៍​គាំង​ដែល​មិនទាន់​រួចរាល់ (ហើយ​ទទួល​បាន​សារ​របៀប​នេះ​ពី​យើង​ច្រើន​ជាង​មុន​នៅ​ពេល​ខាង​មុខ)">
