@@ -38,7 +38,7 @@
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "Innde Kaɓirgol:">
-<!ENTITY fxaSyncDeviceName.label       "Inn&amp;de Kaɓirgol">
+
 <!ENTITY changeSyncDeviceName.label "Waylu Innde Kaɓirgol…">
 <!ENTITY changeSyncDeviceName.accesskey "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Haaytu">
