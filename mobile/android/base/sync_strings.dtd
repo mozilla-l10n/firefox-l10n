@@ -63,6 +63,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'יש לאמת את החשבון שלך. עליך לגעת כדי לשלוח את דוא״ל האימות מחדש.'>
 <!ENTITY fxaccount_status_needs_credentials 'לא ניתן להיכנס. לגעת כדי להיכנס.'>
 <!ENTITY fxaccount_status_needs_upgrade 'יש לשדרג את &brandShortName; כדי להתחבר.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; הוגדר, אך אינו מסתנכרן באופן אוטומטי. יש להפעיל את האפשרות “סנכרון נתונים אוטומטי” בהגדרות המכשיר &gt; שימוש בנתונים.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; הוגדר, אך אינו מסתנכרן באופן אוטומטי. יש להפעיל את האפשרות “סנכרון נתונים אוטומטי” בתפריט של הגדרות המכשיר &gt; חשבונות.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'הקש כדי להתחבר לחשבון ה־Firefox החדש שלך.'>
 <!ENTITY fxaccount_status_bookmarks 'סימניות'>
 <!ENTITY fxaccount_status_history 'היסטוריה'>
