@@ -254,7 +254,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "הצגת תמונות">
 <!ENTITY pref_tap_to_load_images_enabled "תמיד">
 <!ENTITY pref_tap_to_load_images_data "רק בחיבורי Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "נחסם">
+<!ENTITY pref_tap_to_load_images_disabled2 "חסומה">
 
 <!ENTITY pref_show_web_fonts "הצגת גופני רשת">
 <!ENTITY pref_show_web_fonts_summary2 "הורדת גופנים מרוחקים בעת טעינת עמוד">
