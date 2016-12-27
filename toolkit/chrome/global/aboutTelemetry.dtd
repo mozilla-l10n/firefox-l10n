@@ -52,7 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
 
-<!ENTITY aboutTelemetry.scalarsSection "  Ɓatiwe">
+<!ENTITY aboutTelemetry.scalarsSection "  Ɓetiwe">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Ɓetiwe Koke">
 
@@ -82,6 +82,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
 
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Rimdam">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Ndimdam">
 
-<!ENTITY aboutTelemetry.rawPayload "  Rimdam Keccam">
+<!ENTITY aboutTelemetry.rawPayload "  Ndimdam Keccam">
