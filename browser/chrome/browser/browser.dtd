@@ -41,11 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Atbrīvot cilni">
 <!ENTITY  unpinTab.accesskey                 "c">
 <!ENTITY  sendTabToDevice.label              "Sūtīt cilni uz ierīci">
-<!ENTITY  sendTabToDevice.accesskey          "T">
+<!ENTITY  sendTabToDevice.accesskey          "I">
 <!ENTITY  sendPageToDevice.label             "Sūtīt lapu uz ierīci">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "I">
 <!ENTITY  sendLinkToDevice.label             "Sūtīt saiti uz ierīci">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "I">
 <!ENTITY  moveToNewWindow.label              "Pāriet uz jaunu logu">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Saglabāt visas cilnes grāmatzīmēs…">
