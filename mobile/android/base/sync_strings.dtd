@@ -113,7 +113,7 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'אירעה תקלה'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'החשבון נעול. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; אינו מחובר'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&rlm;&syncBrand.shortName.label; אינו מחובר'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'הקש כדי להתחבר בתור &formatS;'>
