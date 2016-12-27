@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "ស្វែងយល់​បន្ថែម">
 <!ENTITY  browserContainersEnabled.label        "បើក​ផ្ទាំង​ឧបករណ៍​ផ្ទុក">
 <!ENTITY  browserContainersEnabled.accesskey    "​">
+<!ENTITY  browserContainersSettings.label        "ការ​កំណត់...">
+<!ENTITY  browserContainersSettings.accesskey    "i">
