@@ -188,7 +188,7 @@
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Encontrar calendario…">
 <!ENTITY calendar.context.findcalendar.accesskey "c">
-<!ENTITY calendar.context.deleteserver2.label "Vaciar calendario…">
+<!ENTITY calendar.context.deleteserver2.label "Eliminar calendario…">
 <!ENTITY calendar.context.deleteserver2.accesskey "V">
 <!ENTITY calendar.context.removeserver.label "Eliminar calendario…">
 <!ENTITY calendar.context.removeserver.accesskey "E">
@@ -203,7 +203,7 @@
 <!ENTITY calendar.context.properties.label "Propiedades">
 <!ENTITY calendar.context.properties.accesskey "P">
 <!ENTITY calendar.context.showcalendar.accesskey "M">
-<!ENTITY calendar.context.hidecalendar.accesskey "M">
+<!ENTITY calendar.context.hidecalendar.accesskey "O">
 <!ENTITY calendar.context.showonly.accesskey "O">
 <!ENTITY calendar.context.showall.label "Mostrar todos los calendarios">
 <!ENTITY calendar.context.showall.accesskey "i">
