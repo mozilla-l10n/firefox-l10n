@@ -37,19 +37,19 @@
 #define extend_seamonkey Rozšiřte si SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/
+# link title for https://addons.mozilla.org/en-US/seamonkey/
 #define seamonkey_addons Doplňky SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes
+# link title for https://addons.mozilla.org/en-US/seamonkey/themes
 #define seamonkey_themes Motivy vzhledu SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/dictionaries
+# link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
 #define seamonkey_dictionaries Slovníky kontroly pravopisu
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/plugins
+# link title for https://addons.mozilla.org/en-US/seamonkey/plugins
 #define seamonkey_plugins Zásuvné moduly SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
@@ -77,11 +77,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n <DT><A HREF="http://www.mozilla.cz/produkty/seamonkey/">SeaMonkey</a>
+#define seamonkey_l10n <DT><A HREF="https://www.mozilla.cz/produkty/seamonkey/">SeaMonkey</a>
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
-# e.g. #define seamonkey_l10n <DT><A HREF="http://www.mozilla.cz/produkty/seamonkey/">SeaMonkey v češtině</a>
-#define seamonkey_l10n_long  
+# e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
+#define seamonkey_l10n_long 
 
 #unfilter emptyLines
