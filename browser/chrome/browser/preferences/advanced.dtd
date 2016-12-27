@@ -42,6 +42,10 @@
 <!ENTITY httpCache.label "Contenido web en caché">
 <!ENTITY offlineStorage2.label "Contenido web sin conexión y datos de usuario">
 <!ENTITY siteData.label "Datos del sitio">
+<!ENTITY clearSiteData.label "Limpiar todos los datos">
+<!ENTITY clearSiteData.accesskey "a">
+<!ENTITY siteDataSettings.label "Configuración…">
+<!ENTITY siteDataSettings.accesskey "f">
 <!ENTITY limitCacheSizeBefore.label "Limitar la caché a">
 <!ENTITY limitCacheSizeBefore.accesskey "m">
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
@@ -52,7 +56,7 @@
 <!ENTITY overrideSmartCacheSize.label "Ignorar la administración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
-<!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
+<!ENTITY updateApplication.label "Actualizaciones de &brandShortName;">
 <!ENTITY updateAuto1.label "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto1.accesskey "I">
 <!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
@@ -63,7 +67,7 @@
 <!ENTITY updateHistory.accesskey "h">
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey "p">
-<!ENTITY updateOthers.label "Actualización automática:">
+<!ENTITY autoUpdateOthers.label "Actualizar automáticamente">
 <!ENTITY enableSearchUpdate.label "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey "b">
 <!ENTITY offlineNotify.label "Avisarme si un sitio solicita guardar datos para uso sin conexión">
