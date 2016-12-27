@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Artigos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Eliminar a desordem">
-<!ENTITY firstrun_readerview_subtext "Use o leitor para tornar os artigos mais agradáveis de ler \u2014 mesmo off-line.">
+<!ENTITY firstrun_readerview_subtext "Use o leitor para tornar a leitura de artigos mais agradável \u2014 mesmo off-line.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Você">
@@ -743,7 +743,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "Feito">
+<!ENTITY actionbar_done "Concluir">
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Fale agora">
