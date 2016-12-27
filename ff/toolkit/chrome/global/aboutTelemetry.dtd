@@ -4,27 +4,47 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Keɓe Telemeetiri">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Waylu">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  Jollugol keɓe FHR <span>hurminaama</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  Jollugol keɓe FHR <span>dartinaama</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Nanngitol Telemeetiri Jaajnaaɗo <span>hurminaama</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Nanngitol Telemeetiri Jaajnaaɗo <span>dartinaama</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Ƴoɓo sewnde keɓe:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Joɓol keɓe gonangol">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Ƴoɓol keɓe resanaama">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Jaytino ƴoɓol keɓe:">
 
+<!ENTITY aboutTelemetry.structured "Cañiɗum">
 
+<!ENTITY aboutTelemetry.raw "JSON Kecco">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Hollu keɓe lesnaatal">
 
+<!ENTITY aboutTelemetry.choosePing "Suɓol ƴoɓol:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Hoto ƴoɓoto">
 
+<!ENTITY aboutTelemetry.showOlderPing "Ƴoɓol kiiɗngol &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Keɓe ƴoɓol kecce…">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Yontere">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ƴoɓol">
 
-<!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
+<!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Keɓe Taariindi">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Logagol Telemeetiri">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">
 
@@ -32,7 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Ɓatiwe">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Ɓetiwe Koke">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
 
@@ -44,6 +66,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Humpito Naatal">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Asdiiwe ɗe Ɓeyditte Ndoɓindii">
 
@@ -59,4 +82,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Rimdam">
 
+<!ENTITY aboutTelemetry.rawPayload "  Rimdam Keccam">
