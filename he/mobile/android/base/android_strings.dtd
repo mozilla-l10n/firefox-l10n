@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "&brandShortName; לא יעבוד על התקן זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה, עמכם הסליחה.">
+<!ENTITY unsupported_sdk_version "&rlm;&brandShortName; לא יעבוד על התקן זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה, עמכם הסליחה.">
 
 <!ENTITY eol_notification_title2 "לא יתקבלו עוד עדכונים עבור &brandShortName;">
 <!ENTITY eol_notification_summary "נא לגעת לקבלת מידע נוסף">
