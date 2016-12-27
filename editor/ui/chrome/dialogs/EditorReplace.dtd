@@ -8,7 +8,7 @@
 <!ENTITY replaceField.label "Reemplazar con:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "Coinc. mayús./minús.">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Buscar en todo el documento">
 <!ENTITY wrapCheckbox.accesskey "t">
 <!ENTITY backwardsCheckbox.label "Buscar hacia atrás">
@@ -22,3 +22,4 @@
 <!ENTITY replaceAllButton.label "Reemplazar todo">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Cerrar">
+<!ENTITY closeButton.accesskey "C">
