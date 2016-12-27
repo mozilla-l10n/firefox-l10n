@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Funda ngakumbi">
 <!ENTITY  browserContainersEnabled.label        "Vumela iiThebhu zeKhonteyina">
 <!ENTITY  browserContainersEnabled.accesskey    "u">
-
-
+<!ENTITY  browserContainersSettings.label        "Iisetingi…">
+<!ENTITY  browserContainersSettings.accesskey    "s">
