@@ -6,7 +6,7 @@
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "Continuar">
 <!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "Pronto">
+<!ENTITY  button-finish-mac.label      "Concluir">
 <!ENTITY  button-cancel-mac.label      "Cancelar">
 
 <!ENTITY  button-back-unix.label       "Voltar">

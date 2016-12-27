@@ -61,5 +61,5 @@ quando encontrar atualizações das extensões e temas.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Clique em “Concluir” para continuar abrindo o &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Clique em “Concluir” para continuar abrindo o &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Clique em concluir para continuar iniciando o &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir que o &brandShortName; verifique atualizações">
