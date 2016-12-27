@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Topitorde Ɓeyditte">
 
 <!ENTITY search.placeholder                   "Yiylo ɓeyditte fof">
-
+<!ENTITY search.buttonlabel                   "Yiylo">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -23,9 +23,10 @@
 <!ENTITY cmd.back.tooltip                     "Rutto hello wooto">
 <!ENTITY cmd.forward.tooltip                  "Yah yeeso hello wooto">
 
-
-
-
+<!ENTITY showUnsignedExtensions.button.label  "Won e timmitte koriima ƴeewteede">
+<!ENTITY showAllExtensions.button.label       "Hollu timmitte fof">
+<!ENTITY debugAddons.label                    "Buggito Ɓeyditte">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Mbayka kisnal daaƴii ɓeyditte fof.">
@@ -36,6 +37,8 @@
 <!ENTITY warning.updatesecurity.enable.label       "Daaƴtu">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Daaƴtu ƴeewtagol kisnal ɓeyditte">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Yiylo">
 <!ENTITY view.discover.label                  "Ɗaɓɓu Ɓeyditte">
 <!ENTITY view.recentUpdates.label             "Kesɗitine Cakkitiiɗe">
 <!ENTITY view.availableUpdates.label          "Kesɗitine Goodaaɗe">
@@ -224,17 +227,22 @@
 <!ENTITY experiment.info.changetelemetry "Teelte Telemeetiri">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ɓeydu Humpito…">
 
+<!ENTITY disabledUnsigned.heading "Won e ɓeyditte ko daaƴaaɗe">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Ɗee ɓeyditte ƴeewtaaka ngam kuutoree e &brandShortName;. Aɗa waawi ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "yiytude lomtooje">
+<!ENTITY disabledUnsigned.description.end " walla naamno-ɗaa topaajo oo yoo ƴeewto-ɗe.">
+<!ENTITY disabledUnsigned.learnMore "Ɓeydu humpito baɗte darnde amen e wallude ma hisde e geese.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Topayɓe hatojinɓe e ƴeewtaade ɓeyditte mum'en ena mbaawi jokkude tarde ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "famminorde">
+<!ENTITY disabledUnsigned.devInfo.end "amen.">
 
-
-
-
+<!ENTITY pluginDeprecation.description "Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Ɓeydu Humpito.">

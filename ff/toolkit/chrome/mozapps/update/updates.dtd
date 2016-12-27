@@ -48,8 +48,8 @@
 <!ENTITY  finishedBackgroundPage.text     "Kesɗitinal kisal e jamɗugol &brandShortName; gasii aawteede etee hebiima aafeede.">
 <!ENTITY  finishedBackground.name         "Hesɗitin:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa aafe tuma mo &brandShortName; hurmiti. waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
-
+<!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa aafe tuma mo &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
+<!ENTITY  finishedBackground.moreElevated "Ngal kesɗitinal ena naamnii jamirooje Jiiloowo. Kesɗitinal ngal maa aafe tuma nde &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, njokkaa gollaade tee kurmintiaa goɗngol, walla paalkiso-ɗaa ngol basiyol.">
 
 <!ENTITY  update.details.label            "Cariiɗe">
 <!ENTITY  update.installedOn.label        "Aafaa ko ñalnde:">
