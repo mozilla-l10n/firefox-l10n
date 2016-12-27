@@ -92,6 +92,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya está en los marcadores">
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
+<!ENTITY overlay_share_open_browser_btn_label "Abrir en &brandShortName;">
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
@@ -338,6 +339,8 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title3 "Pestañas en cola">
 <!ENTITY pref_tab_queue_summary4 "Guardarlos hasta que vuelva a abrir &brandShortName;">
+<!ENTITY pref_compact_tabs "Compactar pestañas">
+<!ENTITY pref_compact_tabs_summary2 "Organizar pestañas en dos columnas en la orientación vertical">
 <!ENTITY page_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -486,3 +489,5 @@
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 <!ENTITY activity_stream_dismiss "Ocultar">
 <!ENTITY activity_stream_delete_history "Eliminar del historial">
+<!ENTITY activity_stream_welcome_title "Bienvenido a sus Destacados">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora destaca cosas que ha descubierto en la web para que pueda encontrar más tarde esos magníficos artículos, vídeos, marcadores y otras páginas.">
