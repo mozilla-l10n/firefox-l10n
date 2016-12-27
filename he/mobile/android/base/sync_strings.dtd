@@ -26,7 +26,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; ב־&formatS2;'>
+<!ENTITY sync.default.client.name '&rlm;&formatS1; ב־&formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'תפריט סימניות'>
@@ -59,7 +59,7 @@
 <!ENTITY fxaccount_status_device_name 'שם התקן'>
 <!ENTITY fxaccount_status_sync_server 'שרת סנכרון'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: מופעל'>
+<!ENTITY fxaccount_status_sync_enabled '&rlm;&syncBrand.shortName.label;: מופעל'>
 <!ENTITY fxaccount_status_needs_verification2 'יש לאמת את החשבון שלך. עליך לגעת כדי לשלוח את דוא״ל האימות מחדש.'>
 <!ENTITY fxaccount_status_needs_credentials 'לא ניתן להיכנס. לגעת כדי להיכנס.'>
 <!ENTITY fxaccount_status_needs_upgrade 'יש לשדרג את &brandShortName; כדי להתחבר.'>
@@ -79,7 +79,7 @@
 <!ENTITY fxaccount_remove_account 'ניתוק&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'להסיר את חשבון ה־Firefox?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; יפסיק את הסנכרון עם החשבון שלך, אך לא ימחק את נתוני היסטוריית הגלישה שלך בהתקן זה.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&rlm;&brandShortName; יפסיק את הסנכרון עם החשבון שלך, אך לא ימחק את נתוני היסטוריית הגלישה שלך בהתקן זה.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'חשבון ה־Firefox בכתובת &formatS; הוסר.'>
