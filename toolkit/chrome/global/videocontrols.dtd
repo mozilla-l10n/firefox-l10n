@@ -20,7 +20,7 @@
 <!ENTITY stats.volume "Volum">
 <!--Deri sa të gjendet një përkthim për termin, po e lë në origjinal që të mos bllokojë build-in -->
 <!ENTITY stats.framesParsed "Kuadro të përpunuara">
-<!ENTITY stats.framesDecoded "Kuadro të çkoduara">
+<!ENTITY stats.framesDecoded "Kuadro të shkoduara">
 <!ENTITY stats.framesPresented "Kuadro të shfaqura">
 <!ENTITY stats.framesPainted "Kuadro të vizatuara">
 
