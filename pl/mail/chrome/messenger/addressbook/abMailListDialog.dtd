@@ -12,5 +12,6 @@
 <!ENTITY ListDescription.label "Opis: ">
 <!ENTITY ListDescription.accesskey "O">
 <!ENTITY AddressTitle.label "Wprowadź adresy e-mail, które zostaną dodane do listy dystrybucyjnej">
+<!ENTITY AddressTitle.accesskey "W">
 <!ENTITY UpButton.label "Przenieś w górę">
 <!ENTITY DownButton.label "Przenieś w dół">
