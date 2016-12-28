@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "Igama">
-
-
+<!ENTITY addButton.label      "Yongeza iKhonteyina eNtsha">
+<!ENTITY addButton.accesskey  "Y">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
 
