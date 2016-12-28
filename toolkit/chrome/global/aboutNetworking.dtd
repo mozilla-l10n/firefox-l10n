@@ -36,7 +36,7 @@
 
 
 
-
+<!ENTITY aboutNetworking.stopLogging           "Yeka ukuLoga">
 <!ENTITY aboutNetworking.dnsLookup             "Ukhangelo LweDNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Combulula">
 <!ENTITY aboutNetworking.dnsDomain             "Idomeyini">
