@@ -8,10 +8,11 @@
 
 
 
-
-
-
-
+<!ENTITY newevent.status.label                    "स्थिति (S)" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "निर्दिष्ट नहीं है" >
+<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.todoStatus.none.label           "निर्दिष्ट नहीं है" >
 
 
 
