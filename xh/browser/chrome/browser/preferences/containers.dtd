@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "&#171; Buyela kweyaBucala">
 
 <!ENTITY window.title         "Yongeza iKhonteyina eNtsha">
-<!ENTITY window.width         "i-45em">
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Igama:">
 <!ENTITY name.accesskey       "I">
