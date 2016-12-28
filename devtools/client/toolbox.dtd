@@ -159,6 +159,15 @@
 <!ENTITY options.timestampMessages.label      "Aktivigi tempostampojn">
 <!ENTITY options.timestampMessages.tooltip    "Se vi aktivigas tiun ĉi elekteblon, ordonoj kaj eligo en la Teksaĵa konzolo montros tempostampon">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Sencimigilo">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Aktivigi mapojn de fontoj">
+<!ENTITY options.sourceMaps.tooltip    "Se vi aktivigas tiun ĉi elekteblon, fontoj estos mapitaj en la sencimigilo kaj en la konzolo.">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -173,6 +182,21 @@
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Aŭtomate kompletigi CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Dum vi tajpas, aŭtomate kompletigi atributojn, valorojn kaj elektilojn de CSS en la Redaktilo de stiloj kaj Inspektilo">
+
+<!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
+   -  heading of the group of Screenshot preferences in the options
+   -  panel. -->
+<!ENTITY options.screenshot.label            "Konduto de ekrankopio">
+
+<!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
+   - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Ekrankopio al tondujo">
+<!ENTITY options.screenshot.clipboard.tooltip    "Tio ĉi konservas la ekrankopion rekte en la tondujo">
+
+<!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
+   - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Ludi la sonon de obturilo de filmilo">
+<!ENTITY options.screenshot.audio.tooltip    "Tio ĉi aktivigas la sonon de la filmilo, kiam oni faras ekrankopion.">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network

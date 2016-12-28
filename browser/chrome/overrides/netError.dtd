@@ -43,6 +43,13 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 <!ENTITY generic.title "Fuŝ’.">
 <!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
 
+<!ENTITY captivePortal.title "Komenci seancon en tiu ĉi reto">
+<!ENTITY captivePortal.longDesc "
+<p>Tiu ĉi reto povus postuli al vi komenci seancon por povi aliri la interreton.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Malfermi paĝon por komenci seancon">
+
 <!ENTITY malformedURI.title "Tiu ĉi adreso ne estas valida">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>TTTajn adresojn oni kutime skribas ĉi tiel <strong>http://www.example.com/</strong></li> 

@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Malkonekti">
 <!ENTITY runtimeMenu_disconnect_accesskey "M">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabelo de permesoj">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrankopio">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Rulĉirkaŭaĵa informo">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Normaj">
 <!ENTITY prefs_options_autosavefiles "Aŭtomate konservi dosierojn">
 <!ENTITY prefs_options_autosavefiles_tooltip "Aŭtomate konservi modifitajn dosierojn antaŭ ol ruli la projekton">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabulo de permesoj">
-<!ENTITY permissionstable_name_header "Nomo">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informo de rulĉirkaŭaĵo">
