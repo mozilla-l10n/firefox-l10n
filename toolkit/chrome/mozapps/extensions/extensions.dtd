@@ -246,3 +246,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Програмери који желе да потврде њихове додатке могу да прочитају наша ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "упутства">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Нешто недостаје? &brandShortName; више не подржава неке прикључке.">
+<!ENTITY pluginDeprecation.learnMore "Сазнајте више.">
