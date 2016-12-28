@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
+<!ENTITY aboutLogins.title                       "Ceŋorɗe">
 <!ENTITY aboutLogins.update                      "Hesɗitin">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Mooftu ceŋorɗe maa ɗo hisi">
+<!ENTITY aboutLogins.emptyLoginHint              "Ceŋorɗe e coktorɗe ɗe ndanndataa huutoraade &brandShortName; maa kollire ɗoo.">
