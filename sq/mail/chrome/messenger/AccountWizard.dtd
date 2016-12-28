@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Që të mund të merrni mesazhe, lypset së pari të rregulloni një llogari.">
 <!ENTITY accountTypeTitle.label "Rregullime Llogarie të Re">
-<!ENTITY accountTypeDesc2.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
+<!ENTITY accountTypeDesc2.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Furnizuesin e Shërbimit Internet (ISP).">
 <!ENTITY accountTypeDirections.label "Përzgjidhni llojin e llogarisë që doni të rregulloni:">
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -41,7 +41,7 @@
 <!ENTITY incomingServer.label "Shërbyes për Ardhësen:">
 <!ENTITY incomingServer.accesskey "A">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Jepni emër përdoruesi për postën ardhëse, siç ju është dhënë nga mundësuesi juaj i email-it (për shembull, &quot;matokodra&quot;).">
+<!ENTITY incomingUsername.description "Jepni emër përdoruesi për postën ardhëse, siç ju është dhënë nga furnizuesi  juaj i shërbimit email (për shembull, &quot;matokodra&quot;).">
 <!ENTITY incomingUsername.label "Emër Përdoruesi:">
 <!ENTITY incomingUsername.accesskey "E">
 
@@ -133,7 +133,7 @@
 <!ENTITY outgoingServer.description "Jepni emrin e shërbyesit tuaj për postën e dërguar (SMTP) (për shembull, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Shërbyesi Dërgues:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Jepni emër përdoruesi për dërguesin ashtu si ju është dhënë nga mundësuesi juaj i email-it (zakonisht ky është i njëjtë me emrin tuaj të përdoruesit për postën ardhëse).">
+<!ENTITY outgoingUsername.description "Jepni emër përdoruesi për dërguesin ashtu si ju është dhënë nga furnizuesi juaj i shërbimit email (zakonisht ky është i njëjtë me emrin tuaj të përdoruesit për postën ardhëse).">
 <!ENTITY outgoingUsername.label "Emër Përdoruesi për Dërguesin:">
 <!ENTITY outgoingUsername.accesskey "D">
 

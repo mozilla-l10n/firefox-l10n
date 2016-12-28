@@ -125,7 +125,7 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "S\&apos;u gjetën pajisja të lidhura me Llogari Firefox">
 <!ENTITY pref_category_search3 "Kërkim">
-<!ENTITY pref_category_search_summary "Përshtateni për mundësuesit e kërkimeve tuaja">
+<!ENTITY pref_category_search_summary "Përshtateni për furnisuesin tuaj të kërkimeve">
 <!ENTITY pref_category_privacy_short "Privatësi">
 <!ENTITY pref_category_privacy_summary3 "Gjurmim, cookies, zgjedhje të dhënash">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -143,7 +143,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti te lista juaj e mundësuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
+<!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti te lista juaj e furnizuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
 <!ENTITY pref_developer_remotedebugging_usb "Diagnostikim së largëti përmes USB-je">
 <!ENTITY pref_developer_remotedebugging_wifi "Diagnostikim së largëti përmes Wi-Fi-i">
@@ -191,7 +191,7 @@
 
 <!ENTITY pref_tracking_protection_enabled "E aktivizuar">
 <!ENTITY pref_tracking_protection_enabled_pb "E aktivizuar nën Shfletim Privat">
-<!ENTITY pref_tracking_protection_disabled "E çaktivizuar">                                           
+<!ENTITY pref_tracking_protection_disabled "E çaktivizuar">
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
 <!ENTITY tracking_protection_prompt_text "Bllokoni aktivisht elemente gjurmimi, që të mos keni pse të shqetësoheni.">
@@ -234,7 +234,7 @@
 <!ENTITY pref_clear_private_data_now_tablet "Pastroji tani">
 
 <!ENTITY pref_clear_on_exit_title3 "Pastro të dhëna private gjatë daljes">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-i do të pastrojë vetvetiu të dhënat tuaja kurdo që zgjidhni 
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-i do të pastrojë vetvetiu të dhënat tuaja kurdo që zgjidhni
 \u0022Dilni\u0022 prej menusë kryesore">
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
 <!ENTITY pref_plugins "Shtojca">
@@ -413,7 +413,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "Dështoi ruajtja e kredencialeve të hyrjes">
 <!ENTITY doorhanger_login_select_message "Kopjoje fjalëkalimin prej &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Fjalëkalimi u kopjua në të papastërt">
-<!ENTITY doorhanger_login_select_toast_copy_error "S\’u kopjua dot fjalëkalimi">
+<!ENTITY doorhanger_login_select_toast_copy_error "S\&apos;u kopjua dot fjalëkalimi">
 <!ENTITY doorhanger_login_select_action_text "Përzgjidh të tjera kredenciale hyrjeje">
 <!ENTITY doorhanger_login_select_title "Kopjoje fjalëkalimin prej">
 
@@ -730,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "U lejon anëtarëve të familjes të hyjnë në komunikim të atëçastshëm në sajte.">
 <!ENTITY restrictable_feature_block_list "Listë Bllokimesh">
-<!ENTITY restrictable_feature_block_list_description "Bllokoni sajte që përmbajnë lëndë me spec.">
+<!ENTITY restrictable_feature_block_list_description "Bllokoni sajte që përmbajnë lëndë rezervat.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -777,7 +777,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s\'do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
+<!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s\&apos;do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
 
 <!ENTITY home_top_sites_title "Sajtet Kryesues">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -789,4 +789,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;-u është i përditësuar">
-<!ENTITY whatsnew_notification_summary "Shihni ç\’ka të re në këtë version">
+<!ENTITY whatsnew_notification_summary "Shihni ç\&apos;ka të re në këtë version">

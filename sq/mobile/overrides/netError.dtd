@@ -76,7 +76,7 @@
 ">
 
 <!ENTITY notCached.title "Dokumenti Skadoi">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
 <!ENTITY contentEncodingError.longDesc "

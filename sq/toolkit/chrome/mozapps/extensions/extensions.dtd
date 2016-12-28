@@ -28,10 +28,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Aktivizoje">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktivizoni kontrollin e përditësimit të shtesave">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Kontroll për të parë nëse shtojcat tuaja janë të përditësuara">
-<!ENTITY info.plugincheck.tooltip               "Bëni një kontroll për të parë nëse shtojcat tuaja janë të përditësuara">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Kërko">
 <!ENTITY view.discover.label                  "Merrni Shtesa">
