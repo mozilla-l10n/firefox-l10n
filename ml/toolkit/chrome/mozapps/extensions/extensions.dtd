@@ -207,7 +207,6 @@
 <!ENTITY addon.loadingReleaseNotes.label      "ലഭ്യമാക്കുക…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ക്ഷമിയ്ക്കുക, പ്രകാശനക്കുറിപ്പുകള്‍ ലഭ്യമാക്കുന്നതില്‍ പിശക്.">
 
-<!ENTITY addon.createdBy.label                "By ">
 
 <!ENTITY eula.title                           "ഉപയോക്താവിനുള്ള ലൈസന്‍സ് എഗ്രീമെന്റ്">
 <!ENTITY eula.width                           "560px">
