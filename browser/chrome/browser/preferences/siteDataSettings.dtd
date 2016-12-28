@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Agordoj - Retejaj datumoj">
+<!ENTITY     settings.description          "La jenaj retejoj petis permeson por konservi retejajn datumojn en via disko. Vi povas decidi, kiuj retejoj rajtas konservi retejajn datumojn. Norme, retejaj datumoj estas tempaj kaj povus esti aŭtomate forigitaj.">
+<!ENTITY     hostCol.label                 "Retejo">
+<!ENTITY     statusCol.label               "Stato">
+<!ENTITY     usageCol.label                "Konservejo">
