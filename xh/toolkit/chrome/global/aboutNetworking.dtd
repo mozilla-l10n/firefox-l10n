@@ -29,13 +29,13 @@
 <!ENTITY aboutNetworking.messagesReceived      "Umyalezo Ufunyenwe">
 <!ENTITY aboutNetworking.bytesSent             "IiByte Zithunyelwe">
 <!ENTITY aboutNetworking.bytesReceived         "IiByte Zifunyenwe">
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Iyaloga">
+<!ENTITY aboutNetworking.logTutorial           "Jonga i-<a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> ukuze ufumane imiyalelo ngendlela yokusebenzisa esi sixhobo.">
+<!ENTITY aboutNetworking.currentLogFile        "Ifayile yaNgoku yokuLoga:">
+<!ENTITY aboutNetworking.currentLogModules     "Iimodyuli zaNgoku zokuLoga:">
+<!ENTITY aboutNetworking.setLogFile            "Seta iFayile yokuLoga">
+<!ENTITY aboutNetworking.setLogModules         "Seta iiModyuli zokuLoga">
+<!ENTITY aboutNetworking.startLogging          "Qalisa ukuLoga">
 <!ENTITY aboutNetworking.stopLogging           "Yeka ukuLoga">
 <!ENTITY aboutNetworking.dnsLookup             "Ukhangelo LweDNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Combulula">
