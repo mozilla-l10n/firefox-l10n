@@ -57,6 +57,13 @@
 
 <!ENTITY offlineStorage2.label           "Deponejo por malkonektitaĵoj, de teksaĵa enhavo kaj de datumoj de uzanto">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Retejaj datumoj">
+<!ENTITY clearSiteData.label             "Viŝi ĉiujn datumojn">
+<!ENTITY clearSiteData.accesskey         "V">
+<!ENTITY siteDataSettings.label          "Agordoj…">
+<!ENTITY siteDataSettings.accesskey      "A">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:

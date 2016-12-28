@@ -100,6 +100,10 @@ Semajno
   Paneoj de fadenoj
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Kaptitaj stakoj
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalaroj
 ">
@@ -114,6 +118,10 @@ Semajno
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Indeksitaj histogramoj
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Eventoj
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "

@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Programistoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manlibro">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj de &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Pli da informo.">
