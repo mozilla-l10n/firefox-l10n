@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Umiestnenie obrázka">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Zadajte názov súboru alebo umiestnenie obrázka">
+<!ENTITY locationEditField.shortenedDataURI "Skrátená URI (skopírovanie vloží celú URI do schránky)">
 <!ENTITY title.label "Pomocný názov:">
 <!ENTITY title.accessKey "P">
 <!ENTITY title.tooltip "HTML atribút 'title', ktorý sa zobrazí pri zastavení myši nad obrázkom">
