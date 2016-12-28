@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label "brak">
 <!ENTITY editDirectories.label "Edytuj katalogi…">
 <!ENTITY editDirectories.accesskey "E">
+<!ENTITY showAsDefault.label "Domyślnie uruchamiany katalog w oknie książki adresowej:">
+<!ENTITY showAsDefault.accesskey "u">
+<!ENTITY showAsDefaultLast.label "Ostatnio używany katalog">
 
 <!ENTITY sendOptionsDescription.label "Ustawienia automatycznego formatowania wysyłanych wiadomości">
 <!ENTITY sendOptions.label "Opcje wysyłania…">

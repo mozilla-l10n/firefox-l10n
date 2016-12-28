@@ -133,6 +133,8 @@
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
 <!ENTITY newlistButton.accesskey "l">
+<!ENTITY showAsDefault.label "Domyślnie uruchamiany katalog">
+<!ENTITY showAsDefault.accesskey "o">
 <!ENTITY editPropertiesButton.label "Edytuj">
 <!ENTITY propertiesContext.label "Właściwości">
 <!ENTITY propertiesContext.accesskey "W">
