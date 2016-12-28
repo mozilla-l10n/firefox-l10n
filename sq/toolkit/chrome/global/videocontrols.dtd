@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Krejt Ekrani">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Dilni nga mënyra Krejt Ekrani">
 <!ENTITY castingButton.castingLabel "Transmetoje në Ekran">
+<!ENTITY closedCaption.off "Off">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Madhësi">
