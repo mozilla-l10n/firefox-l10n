@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">            
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -209,14 +209,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Shihni një njoftim">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Shihni kërkesën për vend">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Hapni panelin e mesazheve">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Hapni panelin e kërkesave për vend">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Shihni mesazhin për depozitim jashtë linje nga aplikacioni">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administroni të dhënat tuaja për hyrje">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "I vini shenjë nëse doni të ruhet fjalëkalimi juaj">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administroni përdorim shtojcash në këtë faqe">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Hapni panelin për depozitim jashtë linje">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Hapni panelin e mesazhit Ruaje fjalëkalimin">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administroni ndarjen me sajtin të mikrofonit tuaj">
@@ -240,7 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchItem.title             "Kërkoni">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Kreu">
 
 <!ENTITY bookmarksButton.label          "Faqerojtës">
@@ -263,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Mjete">
-<!ENTITY toolsMenu.accesskey          "M"> 
+<!ENTITY toolsMenu.accesskey          "M">
 
 <!ENTITY keywordfield.label           "Shtoni një Fjalëkyç për këtë Kërkim…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -282,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY fileMenu.label         "Kartelë"> 
+<!ENTITY fileMenu.label         "Kartelë">
 <!ENTITY fileMenu.accesskey       "K">
 <!ENTITY newUserContext.label             "Skedë e Re Kontejneri">
 <!ENTITY newUserContext.accesskey         "o">
@@ -293,46 +292,46 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "P">
 <!ENTITY newNonRemoteWindow.label   "Dritare e Re Non-e10s">
 
-<!ENTITY editMenu.label         "Përpunim"> 
-<!ENTITY editMenu.accesskey       "P"> 
-<!ENTITY undoCmd.label            "Zhbëje">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Z"> 
-<!ENTITY redoCmd.label            "Ribëje">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Prije">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "P"> 
-<!ENTITY copyCmd.label            "Kopjoje">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Ngjite">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "N"> 
-<!ENTITY deleteCmd.label          "Fshije">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">  
-<!ENTITY selectAllCmd.key         "K">  
-<!ENTITY selectAllCmd.accesskey       "P"> 
+<!ENTITY editMenu.label         "Përpunim">
+<!ENTITY editMenu.accesskey       "P">
+<!ENTITY undoCmd.label            "Zhbëje">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Z">
+<!ENTITY redoCmd.label            "Ribëje">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Prije">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "P">
+<!ENTITY copyCmd.label            "Kopjoje">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Ngjite">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "N">
+<!ENTITY deleteCmd.label          "Fshije">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "F">
+<!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">
+<!ENTITY selectAllCmd.key         "K">
+<!ENTITY selectAllCmd.accesskey       "P">
 <!ENTITY preferencesCmd2.label       "Mundësi">
-<!ENTITY preferencesCmd2.accesskey     "M"> 
+<!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "a"> 
+<!ENTITY preferencesCmdUnix.accesskey     "a">
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundmi…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Shfaqje"> 
-<!ENTITY viewMenu.accesskey       "S"> 
-<!ENTITY viewToolbarsMenu.label       "Panele"> 
-<!ENTITY viewToolbarsMenu.accesskey     "P"> 
+<!ENTITY viewMenu.label         "Shfaqje">
+<!ENTITY viewMenu.accesskey       "S">
+<!ENTITY viewToolbarsMenu.label       "Panele">
+<!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtateni…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "P"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtateni…">
+<!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
@@ -380,7 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+     different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Kaloje te Menuja">
@@ -405,7 +404,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Po">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "P">
 
-<!-- 
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -488,7 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Shihni Burim Përzgjedhjeje">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Shihni Burim MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
@@ -514,11 +513,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "i">
 <!ENTITY setDesktopBackgroundCmd.label      "Vëreni Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Faqeruaje Këtë Faqe">            
+<!ENTITY bookmarkPageCmd2.label       "Faqeruaje Këtë Faqe">
 <!ENTITY bookmarkThisLinkCmd.label      "Faqeruaje Këtë Lidhje">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "F">
-<!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">            
-<!ENTITY bookmarkThisFrameCmd.accesskey  "K">            
+<!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "K">
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
@@ -555,7 +554,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Figure">
 <!ENTITY copyImageCmd.accesskey       "P">
 <!ENTITY copyImageContentsCmd.label   "Kopjo Figurën">
-<!ENTITY copyImageContentsCmd.accesskey  "K"> 
+<!ENTITY copyImageContentsCmd.accesskey  "K">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
@@ -628,7 +627,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zvogëloje">            
+<!ENTITY fullZoomReduceCmd.label        "Zvogëloje">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -646,19 +645,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Mbylleni anështyllën">
 
-<!ENTITY quitApplicationCmdWin2.label       "Dilni"> 
+<!ENTITY quitApplicationCmdWin2.label       "Dilni">
 <!ENTITY quitApplicationCmdWin2.accesskey   "D">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Dilni nga &brandShorterName;-i">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Dilni"> 
+<!ENTITY quitApplicationCmd.label       "Dilni">
 <!ENTITY quitApplicationCmd.accesskey   "l">
 <!ENTITY quitApplicationCmdMac2.label    "Dilni prej &brandShorterName;-it">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "Mbylle">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Mbylle">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
 <!ENTITY toggleMuteCmd.key              "M">

@@ -64,7 +64,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumenti Ka Skaduar">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet më prej fshehtinës së &brandShortName;-it.</p><ul><li>Si masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Klikoni mbi Riprovoni që ta rikërkoni dokumentin prej sajtit.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet më prej fshehtinës së &brandShortName;-it.</p><ul><li>Si masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Klikoni mbi Riprovoni që ta rikërkoni dokumentin prej sajtit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyrë Jashtë Linje">
 <!ENTITY netOffline.longDesc2 "
