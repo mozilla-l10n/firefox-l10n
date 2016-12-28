@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Momtu">
 <!ENTITY addonAction.undo                       "Firtu">
 
+<!ENTITY addonUnsigned.message                  "Ngal ɓeydital horiima ƴeewteede e &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ɓeydu humpito">

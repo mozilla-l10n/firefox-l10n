@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "Mi jogaaki kaɓirgol ngol jooni…">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "Ceŋorɗe">
 <!ENTITY sync.configure.engines.title.history "Aslol">
 <!ENTITY sync.configure.engines.title.tabs "Tabbe">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -31,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tage">
 <!ENTITY bookmarks.folder.toolbar.label "Palal Maantore">
-
+<!ENTITY bookmarks.folder.other.label "Maantore Goɗɗe">
 <!ENTITY bookmarks.folder.desktop.label "Maantore Biro">
 <!ENTITY bookmarks.folder.mobile.label "Maantore Cinndel">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -45,12 +47,12 @@
 <!ENTITY fxaccount_back_to_browsing "Rutto to banngagol">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "A jaɓɓaama e &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Seŋo ngam syncude tabbe maa, maantore e ceŋorɗe &amp; geɗe goɗɗe.">
 <!ENTITY fxaccount_getting_started_get_started "Fuɗɗo ɗoo">
 <!ENTITY fxaccount_getting_started_old_firefox "Njogi-ɗaa ko yamre hiiɗnde &syncBrand.shortName.label;?">
 
 <!ENTITY fxaccount_status_signed_in_as "A naatii e innde">
-
+<!ENTITY fxaccount_status_manage_account "Toppito konte">
 <!ENTITY fxaccount_status_auth_server "Sarwrorde konte">
 <!ENTITY fxaccount_status_sync_now "Sanngoɗin jooni">
 <!ENTITY fxaccount_status_syncing2 "Nana synca…">
@@ -64,18 +66,19 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Toggilo “Auto-sync data” e Teelte Android &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; teeltaama, kono wonaani e syncude e jaajol. Toggilo “Auto-sync data” e dosol Teelte Android &gt; Konte.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tappu ngam seŋaade e Konte Firefox maa kese">
-
+<!ENTITY fxaccount_status_bookmarks "Maantore">
 <!ENTITY fxaccount_status_history "Aslol">
-
+<!ENTITY fxaccount_status_passwords2 "Ceŋorɗe">
 <!ENTITY fxaccount_status_tabs "Uddit tabbe">
 <!ENTITY fxaccount_status_legal "Laawol" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Sarɗiiji carwol">
+<!ENTITY fxaccount_status_linkprivacy2 "Tintinol suturo">
 <!ENTITY fxaccount_status_more "Goɗɗi&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Seŋto&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Momtu Konte Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; maa dartin canngoɗinal e konte maa, kono momtoytaa hay huunde e keɓe banngagol maa e ngol kaɓirgol.">
@@ -83,6 +86,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Konte Firefox &formatS; momtaama.">
 
+<!ENTITY fxaccount_enable_debug_mode "Hurmin Mbayka buggitagol">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

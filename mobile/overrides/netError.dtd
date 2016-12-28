@@ -19,23 +19,27 @@
 <!ENTITY dnsNotFound.title "Sarworde yiytaaka">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ƴeewto ñiiɓirde ndee so alaa pergitte tappo wano <strong>ww</strong>.yeru.com tawa foti wonde ko <strong>www</strong>.yeru.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Yiylo</button> </div> <li>So kelle fof koriima loowaade, ƴeewto seŋol keɓe e Wifi kaɓirgol maa. <button id='wifi'>Hurmin WiFi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Ballagol fiilde salaama">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Maa taw ko nde momtaande, dirtinaande, walla jamire fiilde ena kala ballagol.</li> </ul>">
 
 <!ENTITY generic.title "Ndo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
-
+<!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Ñiibirɗe geese ko nih keewi winndireede <strong>http://www.yeru.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Yiylo</button> </div> <li>Ƴeewto so a huutoriima guural (i.e <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Fiilannde Hiiɗtii">
-
+<!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -54,6 +58,7 @@
 <!ENTITY netTimeout.title "Ceŋagol ngol honaama waktu">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Ñiiɓirde ndee faamaaka">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Sarworde proxy ndee saliima ceŋanɗe">
@@ -64,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Ƴeewto ngam yenaneede so teelte proxy ɗee ena moƴƴi.</li> <li>Ƴeewto ngam yenaneede so kaɓirgol maa ena jogii seŋorde keɓe walla Wi-Fi moƴƴere. <button id='wifi'>Hurmin Wifi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Ngoo hello wonaani e yiiltude no feewiri">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ɗee caɗeele ena mbaawi arde so tawii ko a daaƴɗo walla caliiɗo kukiije.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Jaatol sarworde faamaaka">
@@ -73,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> <li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Ceŋagol Kisnangol Woorii">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ɗum ena waawi ummaade e teeltol sarworde ndee, walla ena waawi wonde won etotooɗo ñemmbitaade sarworde ndee.</li> <li>So tawii a meeɗii seŋaade e ndee sarworde e ko ɓenni, maa taw juumre ndee juutataa, ngati aɗa waawi etaade so ɓooyii.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>Ndee lowre heɓotaako oo sahaa walla ena halji. Eto naatde e mayre ɗoo e yeeso seeɗa.</li> <li>So a horiima loowde kelle fof, ƴeewto keɓe kaɓirgol maa walla seŋorde maa Wi-Fi. <button id='wifi'>Hurmin Wifi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
@@ -97,11 +105,17 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Horiima Seŋaade e Kisal">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Humpito ceeɓtoto: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

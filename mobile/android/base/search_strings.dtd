@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Ɓeydu e palal njiilaw">
 
 <!ENTITY search_pref_title "Teelte">
-
+<!ENTITY search_pref_button_content_description "Teelte">
 
 <!ENTITY pref_clearHistory_confirmation "Aslol momtaama">
 <!ENTITY pref_clearHistory_dialogMessage "Momtu aslol njiilaw fof e ngol kaɓirgol?">
