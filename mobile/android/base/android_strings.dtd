@@ -584,7 +584,7 @@ size. -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "Kaɓirgol 1">
 <!ENTITY home_history_back_to2 "Rutto to Aslol Kuuɓal">
-<!ENTITY home_clear_history_button "Momtu aslol peeraagol">
+<!ENTITY home_clear_history_button "Momtu aslol peeragol">
 <!ENTITY home_clear_history_confirm "Aɗa yenanaa yiɗde momtude aslol maa?">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
 <!ENTITY home_closed_tabs_title2 "Uddaaɗe sakket">
@@ -657,7 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "Hurminaama">
 <!ENTITY doorhanger_tracking_state_disabled "Daaƴaama">
 <!ENTITY doorhanger_tracking_message_enabled1 "Etaali rewindaade dille maa e geese palaama.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Ngoo hello ena loowi geɗe baawɗe rewindaade peeraagol maa.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ngoo hello ena loowi geɗe baawɗe rewindaade peeragol maa.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ɓeydu Humpito">
