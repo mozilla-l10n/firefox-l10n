@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "עדכון זמין עבור &brandShortName;">
-<!ENTITY updater_start_select2 "נא ללחוץ להורדה">
+<!ENTITY updater_start_select2 "נא להקיש להורדה">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; בהורדה">
 <!ENTITY updater_downloading_title_failed2 "ההורדה נכשלה">
