@@ -168,33 +168,39 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Bonisa oovimba bokuqala">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Bonisa imithombo yokuqala (umz. iifayile zeSass) kwiSilungisi neSihloli seSimbo">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
+<!ENTITY options.stylesheetAutocompletion.label      "Gqibezela ngokuzenzekelayo iCSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Gqibezela ngokuzenzekelayo iipropati zeCSS, amaxabiso nezikhethi kwiSilungisi seSimbo njengoko utayipha">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "iiPrefrensi eziQhelekileyo">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
+<!ENTITY options.enablePersistentLogs.label    "Vula iilogi ezingayekiyo">
+<!ENTITY options.enablePersistentLogs.tooltip  "Ukuba uvula olu khetho iKhonsoli yeWebhu neSihloli seNethwekhi asisayi kucima imveliso sihlandlo ngasiye ujonga iphepha elitsha">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Bonisa idatha yeGecko platfom">
-
+<!ENTITY options.showPlatformData.tooltip  "Ukuba uvula olu khetho, ingxelo yoMenzi-Profayili weJavaScript iya kuquka izimbo zeplatfom yeGecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
 
 <!ENTITY options.sourceeditor.label                     "Iipriferensi Zomhleli">
-
+<!ENTITY options.sourceeditor.detectindentation.label   "Khangela ii-indenti">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "I-indenti eqikelelwayo esekelwe kwisiqulatho esingumthombo">
-
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Zivale ngokuzenzekelayo izibiyeli">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ngokuzenzekelayo faka izibiyeli ezivalayo">
 
 
