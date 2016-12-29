@@ -261,7 +261,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "הגנת מעקב">
 <!ENTITY pref_tracking_protection_summary3 "מופעל בגלישה פרטית">
-<!ENTITY pref_donottrack_title "לא לעקוב">
+<!ENTITY pref_donottrack_title "לא לעקוב (Do not track)">
 <!ENTITY pref_donottrack_summary "‏&brandShortName; יגיד לאתרים שאין ברצונך שיעקבו אחריך">
 
 <!ENTITY pref_tracking_protection_enabled "מופעל">
