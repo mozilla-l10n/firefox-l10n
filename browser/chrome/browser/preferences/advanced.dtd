@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "מידע נוסף">
 
 <!ENTITY crashReporterDesc2.label         "דיווחי קריסה עוזרים ל־&vendorShortName; לתקן בעיות ולהפוך את הדפדפן שלך ליציב ובטוח יותר">
+<!ENTITY alwaysSubmitCrashReports.label   "לאפשר ל־&brandShortName; לשלוח דוחות קריסה קודמים">
+<!ENTITY alwaysSubmitCrashReports.accesskey "ק">
 <!ENTITY crashReporterLearnMore.label     "מידע נוסף">
 
 <!ENTITY networkTab.label                "רשת">
