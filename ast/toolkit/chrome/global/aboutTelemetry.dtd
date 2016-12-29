@@ -98,6 +98,9 @@ Ping
   Escalares
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Escalares con llave">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrames
 ">
