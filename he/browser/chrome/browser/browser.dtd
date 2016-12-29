@@ -672,7 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "ע">
 <!ENTITY dontShowMessage.accesskey "א">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "הפוך כיוון דף">
+<!ENTITY bidiSwitchPageDirectionItem.label        "הפיכת כיוון דף">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "פ">
 <!ENTITY bidiSwitchTextDirectionItem.label        "הפוך כיוון כתיבה">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
