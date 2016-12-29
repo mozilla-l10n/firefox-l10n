@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Deprendi más">
