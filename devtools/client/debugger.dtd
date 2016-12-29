@@ -39,6 +39,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "Ω">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -52,6 +53,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions           "Παύση στις εξαιρέσεις">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
@@ -128,26 +131,34 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch.accesskey  "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch.key       "E">
+<!ENTITY debuggerUI.removeAllWatch.key       "Ε">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 <!ENTITY debuggerUI.stepping.resume1    "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
+<!ENTITY debuggerUI.context.newTab           "Άνοιγμα σε νέα καρτέλα">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
-<!ENTITY debuggerUI.context.copyUrl.key "C">
+<!ENTITY debuggerUI.context.copyUrl           "Αντιγραφή URL">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "Α">
+<!ENTITY debuggerUI.context.copyUrl.key "Α">
