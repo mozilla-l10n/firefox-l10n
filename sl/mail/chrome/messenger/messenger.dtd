@@ -480,7 +480,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "č">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
 <!ENTITY runJunkControls.accesskey "z">
-<!ENTITY deleteJunk.label "Izbriši v mapi pošto označeno kot neželeno">
+<!ENTITY deleteJunk.label "Izbriši neželena sporočila v tej mapi">
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Uvozi …">
 <!ENTITY importCmd.accesskey "U">
