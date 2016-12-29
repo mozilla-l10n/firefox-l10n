@@ -82,7 +82,7 @@
 
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 
-<!ENTITY updateApp.label                 "Ĝisdatigoj de &brandShortName;:">
+<!ENTITY updateApplication.label         "Ĝisdatigoj de &brandShortName;">
 <!ENTITY updateAuto1.label               "Aŭtomate instali ĝisdatigojn (rekomendita por via sekureco)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "Kontroli ĉu estas ĝisdatigoj, sed lasi min elekti ĉu instali ilin aŭ ne">
@@ -96,7 +96,7 @@
 <!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY updateOthers.label              "Aŭtomate ĝisdatigi:">
+<!ENTITY autoUpdateOthers.label          "Aŭtomate ĝisdatigi">
 <!ENTITY enableSearchUpdate.label        "Serĉilojn">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 

@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Iloj por ĉiuj aldonaĵoj">
 
+<!ENTITY getThemes.description                "Ĉu vi pretas personecigi vian retumilon?">
+<!ENTITY getThemes.learnMore                  "Elektu inter miloj da etosoj.">
+
 <!ENTITY cmd.back.tooltip                     "Unu paĝo malantaŭen">
 <!ENTITY cmd.forward.tooltip                  "Unu paĝo antaŭen">
 
