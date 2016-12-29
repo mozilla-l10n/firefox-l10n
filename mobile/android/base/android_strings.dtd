@@ -643,7 +643,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "חיבור מאובטח">
 <!ENTITY identity_connection_insecure "חיבור לא מאובטח">
-<!ENTITY identity_connection_chromeui "זה הוא דף מאובטח של &brandShortName;">
+<!ENTITY identity_connection_chromeui "דף זה הנו דף מאובטח של &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; חסם תוכן שאינו מאובטח בדף זה.">
