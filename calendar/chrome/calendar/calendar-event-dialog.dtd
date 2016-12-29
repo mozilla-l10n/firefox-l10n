@@ -15,15 +15,17 @@
 <!ENTITY newevent.todoStatus.none.label           "निर्दिष्ट नहीं है" >
 
 
+<!ENTITY newevent.todoStatus.cancelled.label      "खारिज" >
 
 
 
 
 
-
-
-
+<!ENTITY newevent.status.inprogress.label         "प्रक्रिया में" >
+<!ENTITY newevent.status.completed.label          "इसपर समाप्त" >
 <!-- The following entity is for New Task dialog only -->
+
+<!ENTITY newtodo.percentcomplete.label      "&#037; पूर्ण">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
