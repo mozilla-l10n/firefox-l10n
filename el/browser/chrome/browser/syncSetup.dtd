@@ -34,25 +34,61 @@
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Συμφωνώ με">
+<!ENTITY setup.tosAgree1.accesskey  "τους">
+<!ENTITY setup.tosLink.label        "Όρους Υπηρεσίας">
+<!ENTITY setup.tosAgree2.label      "και την">
 <!ENTITY setup.ppLink.label         "Πολιτική απορρήτου">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
+<!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησής σας">
+<!ENTITY recoveryKeyEntry.accesskey    "κ">
+<!ENTITY syncGenerateNewKey.label  "Δημιουργία νέου κλειδιού">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
+<!ENTITY button.syncKeyBackup.save.label      "Αποθήκευση…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "θ">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Σύνδεση συσκευής">
+<!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
+<!ENTITY pairDevice.setup.description.label  "Για ενεργοποίηση, επιλέξτε το &#x0022;Σύνδεση συσκευής&#x0022; στην άλλη σας συσκευή.">
+<!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτό τον κωδικό:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλώ προσπαθήστε ξανά.">
+<!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
 <!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Είσοδος">
+<!ENTITY verifying.label              "Επαλήθευση…">
 <!ENTITY resetPassword.label          "Επαναφορά κωδικού">
+<!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη συσκευή.">
 
 <!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Επιλογές συγχρονισμού">
 <!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
+<!ENTITY syncDeviceName.accesskey   "υ">
 
+<!ENTITY syncMy.label               "Συγχρονισμός">
+<!ENTITY engine.bookmarks.label     "Σελιδοδεικτών">
+<!ENTITY engine.bookmarks.accesskey "λ">
+<!ENTITY engine.tabs.label          "Καρτελών">
+<!ENTITY engine.tabs.accesskey      "τ">
+<!ENTITY engine.history.label       "Ιστορικού">
+<!ENTITY engine.history.accesskey   "ρ">
+<!ENTITY engine.passwords.label     "Κωδικών πρόσβασης">
+<!ENTITY engine.passwords.accesskey "δ">
+<!ENTITY engine.prefs.label         "Προτιμήσεις">
+<!ENTITY engine.prefs.accesskey     "Π">
 <!ENTITY engine.addons.label        "Πρόσθετα">
+<!ENTITY engine.addons.accesskey    "θ">
 
+<!ENTITY choice2.merge.recommended.label "Προτείνεται:">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
 
 <!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε">
