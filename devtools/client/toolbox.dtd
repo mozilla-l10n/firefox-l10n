@@ -165,6 +165,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Habilitar mapes de fontes">
+<!ENTITY options.sourceMaps.tooltip    "Si actives esta opción, les fontes van mapiase nel depurador y na consola.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
