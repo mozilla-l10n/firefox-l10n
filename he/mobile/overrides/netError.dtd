@@ -51,7 +51,7 @@
 
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
-<p>מסיבה בלתי ידועה, אין ל־&brandShortName; אפשרות לטעון את דף זה.</p>
+<p>&brandShortName; אינו יכול לטעון דף זזה מסיבה לא ידועה.</p>
 ">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
