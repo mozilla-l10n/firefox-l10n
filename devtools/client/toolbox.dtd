@@ -202,10 +202,10 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "I-indenti eqikelelwayo esekelwe kwisiqulatho esingumthombo">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Zivale ngokuzenzekelayo izibiyeli">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ngokuzenzekelayo faka izibiyeli ezivalayo">
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.expandtab.label           "Indenta usebenzisa izithuba">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Sebenzisa izithuba endaweni yekharektha yethebhu">
+<!ENTITY options.sourceeditor.tabsize.label             "Isayizi yethebhu">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "I">
+<!ENTITY options.sourceeditor.keybinding.label          "Izibophelelo eziyintloko">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "I">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Idifolti">
