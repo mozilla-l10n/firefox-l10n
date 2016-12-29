@@ -5,7 +5,7 @@
 <!ENTITY  updateWizard.title              "Përditësim Software-i">
 <!ENTITY  checking.title                  "Po kontrollohet për Përditësime">
 
-<!ENTITY  noupdatesfound.title            "S&apos;u Gjetën Përditësime">
+<!ENTITY  noupdatesfound.title            "Nuk u Gjetën Përditësime">
 <!ENTITY  noupdatesautoenabled.intro      "S&apos;ka përditësime gati. &brandShortName;-i do të kontrollojë periodikisht për përditësime.">
 <!ENTITY  noupdatesautodisabled.intro     "S&apos;ka përditësime gati. Ju lutemi, kontrolloni më vonë ose aktivizoni te &brandShortName;-i kontrollin e vetvetishëm për përditësime.">
 
