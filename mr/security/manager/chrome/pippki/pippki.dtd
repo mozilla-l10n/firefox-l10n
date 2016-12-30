@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "वापरकर्ता ओळख विनंती">
 <!ENTITY clientAuthAsk.message1 "हे स्थळ विनंती करत आहे की आपले ओळख प्रमाणपत्र असले पाहिजे:">
 <!ENTITY clientAuthAsk.message2 "ओळखण्याकरीता प्रमाणपत्र निवडा:">
-
+<!ENTITY clientAuthAsk.message3 "निवडलेल्या प्रमाणपत्राचे तपशील:">
 
 <!ENTITY pkcs12.setpassword.title  "प्रमाणपत्राचे प्रतिकृत पासवर्ड निवडा">
 <!ENTITY pkcs12.setpassword.message  "आपण येथे निश्चित केलेले पासवर्डआपली प्रतिकृती फाइलचे संरक्षण करते.  प्रतिकृतीकरीता आपण पासवर्ड निश्चित केला पाहिजे.">
