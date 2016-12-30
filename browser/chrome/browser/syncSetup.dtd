@@ -86,9 +86,12 @@
 <!ENTITY engine.addons.accesskey    "θ">
 
 <!ENTITY choice2.merge.recommended.label "Προτείνεται:">
+<!ENTITY choice2a.client.main.label      "Αντικατάσταση όλων των δεδομένων σε αυτή τη συσκευή με τα δεδομένα του &syncBrand.shortName.label; μου">
+<!ENTITY choice2a.server.main.label      "Αντικατάσταση των δεδομένων όλων των άλλων συσκεών με τα δεδομένα αυτής της συσκευής">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
+<!ENTITY confirm.merge2.label    "Το &syncBrand.fullName.label; θα συγχωνεύσει τώρα όλα τα δεδομένα περιήγησης αυτής της συσκευής με το λογαριασμό Sync σας.">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε">
