@@ -30,6 +30,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
+<!ENTITY options.context.inspector "Επιθεώρηση">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
@@ -122,9 +123,17 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Αποσφαλμάτωση">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
+<!ENTITY options.styleeditor.label            "Επεξεργασία στυλ">
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
@@ -135,6 +144,7 @@
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+<!ENTITY options.commonPrefs.label           "Κοινές προτιμήσεις">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
@@ -149,6 +159,7 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.label                     "Προτιμήσεις επεξεργασίας">
 <!ENTITY options.sourceeditor.tabsize.label             "Μέγεθος καρτέλας">
-<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "Κ">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Προεπιλογή">
