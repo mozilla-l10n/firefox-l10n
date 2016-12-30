@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Ime naprave:">
 <!ENTITY fxaSyncDeviceName.label       "Ime naprave">
 <!ENTITY changeSyncDeviceName.label "Spremeni ime naprave …">
+<!ENTITY changeSyncDeviceName.accesskey "S">
 <!ENTITY cancelChangeSyncDeviceName.label "Prekliči">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "P">
 <!ENTITY saveChangeSyncDeviceName.label "Shrani">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
 <!ENTITY unlinkDevice.label           "Odklopi napravo">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Niste prijavljeni.">
 <!ENTITY signIn.label                "Prijava">
+<!ENTITY signIn.accesskey            "P">
 <!ENTITY profilePicture.tooltip      "Spremeni sliko profila">
 <!ENTITY verifiedManage.label        "Upravljanje računa">
+<!ENTITY verifiedManage.accesskey    "U">
 <!ENTITY disconnect.label            "Odklopi …">
+<!ENTITY disconnect.accesskey        "O">
 <!ENTITY verify.label                "Potrdi e-poštni naslov">
+<!ENTITY verify.accesskey            "P">
 <!ENTITY forget.label                "Pozabi ta e-poštni naslov">
+<!ENTITY forget.accesskey            "o">
 
 <!ENTITY welcome.description "Uporabljajte svoje zavihke, zaznamke, gesla in še več, kjerkoli uporabljate &brandShortName;.">
 <!ENTITY welcome.signIn.label "Prijava">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.">
 <!ENTITY signedOut.accountBox.title   "Poveži s &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Ustvari račun">
+<!ENTITY signedOut.accountBox.create.accesskey  "U">
 <!ENTITY signedOut.accountBox.signin  "Prijava">
+<!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
 <!ENTITY signedIn.engines.label       "Sinhronizacija vseh naprav">
 

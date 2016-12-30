@@ -13,13 +13,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Jejhata. Zavihek se je sesul.">
 <!ENTITY tabCrashed.offerHelp "Lahko vam pomagamo!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Izberite &tabCrashed.restoreTab;, da ponovno naložite vsebino strani.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Izberite &tabCrashed.restoreTab; ali &tabCrashed.restoreAll;, da ponovno naložite vsebino strani.">
+<!ENTITY tabCrashed.requestHelp "Ali bi nam pomagali?">
+<!ENTITY tabCrashed.requestHelpMessage "Poročila o sesutju nam pomagajo prepoznati težave in izboljšati &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Prijavi ta zavihek">
 <!ENTITY tabCrashed.sendReport2 "Pošlji poročilo o sesutju za prikazan zavihek">
+<!ENTITY tabCrashed.commentPlaceholder2 "Neobvezni komentarji (so vidni javnosti)">
 <!ENTITY tabCrashed.includeURL2 "V poročilo o sesutju dodaj URL strani">
 <!ENTITY tabCrashed.emailPlaceholder "Vnesite svoj e-poštni naslov">
 <!ENTITY tabCrashed.emailMe "Pošljite mi e-pošto, ko bo na voljo več informacij">
 <!ENTITY tabCrashed.reportSent "Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit "Zahtevaj zavihke v ozadju">
+<!ENTITY tabCrashed.autoSubmit "Nastavite &brandShortName; na samodejno pošiljanje starih poročil o sesutjih (in v prihodnje boste od nas prejeli manj takih sporočil)">
