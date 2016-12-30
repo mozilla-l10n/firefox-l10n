@@ -11,6 +11,7 @@
 <!ENTITY window.width "45em">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
+<!ENTITY name.placeholder "Inserire il nome del contenitore">
 <!ENTITY icon.label "Icona:">
 <!ENTITY icon.accesskey "I">
 <!ENTITY color.label "Colore:">
