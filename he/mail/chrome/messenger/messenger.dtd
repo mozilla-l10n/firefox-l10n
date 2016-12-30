@@ -190,11 +190,11 @@
 <!ENTITY sortUnthreaded.label "לא לפי נושא דיון">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "ממוין לפי סיווג">
-<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySort.accesskey "ס">
 <!ENTITY msgsMenu.label "הודעות">
-<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY msgsMenu.accesskey "ה">
 <!ENTITY threads.label "נושאי דיון">
-<!ENTITY threads.accesskey "e">
+<!ENTITY threads.accesskey "ד">
 <!ENTITY allMsgsCmd.label "הכול">
 <!ENTITY allMsgsCmd.accesskey "ה">
 <!ENTITY expandAllThreadsCmd.label "הרחב את כל נושאי הדיון">
