@@ -29,10 +29,10 @@
 <!ENTITY aboutNetworking.messagesReceived      "प्राप्त संदेश">
 <!ENTITY aboutNetworking.bytesSent             "पाठवलेले बाइट्स">
 <!ENTITY aboutNetworking.bytesReceived         "प्राप्त बाइट्स">
-
-
-
-
+<!ENTITY aboutNetworking.logging               "लॉगिंग">
+<!ENTITY aboutNetworking.logTutorial           "हे साधन कसे वापरावे याची माहिती घेण्यासाठी <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP लॉगींग </a> वरील माहिती पहा.  ">
+<!ENTITY aboutNetworking.currentLogFile        "सद्याची लॉग फाईल:">
+<!ENTITY aboutNetworking.currentLogModules     "सद्याचे लॉग मॉड्यूल्स:">
 
 
 

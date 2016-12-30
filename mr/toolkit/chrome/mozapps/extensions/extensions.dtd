@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "मॅन्युअल">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "काही शोधताय काय? काही प्लगईन्स, &brandShortName; आता समर्थित नाहीत.">
+<!ENTITY pluginDeprecation.learnMore "आणखी शिका">
