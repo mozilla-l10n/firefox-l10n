@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY sidebar.whats-related.label "מה מתקשר">
-<!ENTITY sidebar.search.label "חיפוש">
-<!ENTITY sidebar.client-bookmarks.label "סימניות">
-<!ENTITY sidebar.client-history.label "היסטוריה">
-<!ENTITY sidebar.client-addressbook.label "פנקס כתובות">

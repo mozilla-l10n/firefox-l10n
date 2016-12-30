@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY dialog.title "התקנת תוכנה">
-<!ENTITY warningText.label "אתר מבקש רשות להתקין">
-<!ENTITY warningText2.label "תוכנה זדונית יכולה להזיק למחשב שלך או לפגוע בפרטיות שלך. עליך להתקין תוכנה רק ממקורות בהם אתה בוטח.">

@@ -1,6 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pref.security.title "פרטיות ואבטחה">
-<!ENTITY rContent1 "העדפות פרטיות ואבטחה קובעות כיצד הדפדפן שלך ממלא טפסים וססמאות, כיצד הוא עובד עם עוגיות ותמונות, ואיך הוא משתמש באישורים וכרטיסים חכמים.">
-<!ENTITY rContent2 "אם אף תת־קטגוריה אינה ניראית מימין תחת פרטיות ואבטחה, לחץ לחיצה כפולה על הקטגוריה כדי להרחיב את הרשימה.">
