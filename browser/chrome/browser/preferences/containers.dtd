@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label "Aggiungi nuovo contenitore">
 <!ENTITY addButton.accesskey "A">
+<!ENTITY preferencesButton.label "Preferenze">
+<!ENTITY removeButton.label "Elimina">
 <!ENTITY backLink.label "&#171; Ritorna a Privacy">
 <!ENTITY window.title "Aggiungi nuovo contenitore">
 <!ENTITY window.width "45em">
