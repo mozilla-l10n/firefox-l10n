@@ -51,6 +51,7 @@
 ">
 
 <!ENTITY captivePortal.title "Prijavite se v omrežje">
+<!ENTITY captivePortal.longDesc "<p>To omrežje za dostop do interneta morda zahteva prijavo.</p>">
 
 <!ENTITY openPortalLoginPage.label "Odpri stran za prijavo">
 
