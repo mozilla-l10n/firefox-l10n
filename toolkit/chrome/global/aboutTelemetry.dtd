@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  स्केलर">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  दिलेले स्केलर्स">
 
 <!ENTITY aboutTelemetry.histogramsSection "  हिस्टोग्राम्स">
 
