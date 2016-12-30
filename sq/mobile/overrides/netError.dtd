@@ -42,12 +42,12 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Hëm…">
 <!ENTITY generic.longDesc "
 <p>&brandShortName;-u, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
 ">
 
-<!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
+<!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "
@@ -60,6 +60,13 @@
     </div>
   <li>Sigurohuni që po përdorni pjerrëse djathtas (d.m.th.
     <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.</li>
 </ul>
 ">
 
@@ -166,8 +173,8 @@
 <!ENTITY cspBlocked.title "Bllokuar nga Rregullat e Sigurisë për Lëndën">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-u e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
 
-<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -197,3 +204,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Të dhëna të mëtejshme: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Lidhja juaj s’është e sigurt">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna që ju i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që ërgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

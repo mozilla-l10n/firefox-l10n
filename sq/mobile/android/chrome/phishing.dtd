@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Hiqmë prej këtej!">
 <!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
 <!ENTITY safeb.palm.reportPage.label "Pse është bllokuar kjo faqe?">
-<!ENTITY safeb.palm.whyForbidden.label "Pse është bllokuar kjo faqe?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,7 +20,3 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Kjo faqe web te <span id='unwanted_sitename'/> është raportuar se përmban software të padëshiruar dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Faqet e software-i të padëshiruar përpiqen të instalojnë programe që mund të jenë të rrejshme dhe të ndikojnë në sistemin tuaj në rrugë të papritura.">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Sajt i Bllokuar">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Kjo faqe te <span id='forbidden_sitename'/> është bllokuar mbi bazën e formësimit tuaj profilit të përgjegjësit.">
