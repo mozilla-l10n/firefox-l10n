@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Pwail Pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul><li>I tamo ni kiloko nying jami, ki kyanyo, onyo kikobo woko?</li><li>Nukta mo tye, madongo, onyo cal mogo me bal i address?</li><li>Onyo itye ki twero manok me donyo i jami ma kikwayo?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Kikwero woko nongo pwail ne">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Romo bedo ni kikwanyo woko, kikobo, onyo twero me pwail tye ka gengo nongo ne.</li> </ul>">
 
 <!ENTITY generic.title "Pe romo Tyeko Kwac">
 <!ENTITY generic.longDesc "<p>Ngec mukene mapol makwako peko man onyo bal kombedi pe nonge.</p>">
@@ -69,7 +70,8 @@
 <!ENTITY nssBadCert.title "Gwoko Kubo Pe olare">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Man tyero bedo peko me can pa lapok tic, onyo romo bedo ngat mo tye ka tuku ki lapok tic.</li> <li>Ka ityeko kube ki lapok tic man maber i kare mukato angec, bal man twero bedo pi tutunu, ci i romo temo doki lacen</li> </ul>">
 
-
+<!ENTITY securityOverride.linkText "Onyo iromo medo ma kiweko woko…">
+<!ENTITY securityOverride.warningContent "<p>Omyero pe imed ma ki weko woko ka itye katic ki kube me intanet mape i geno matwal onyo ka pe ingiyo ki neno ciko pi lapok tic man.</p> <p>Ka ce pwod imito medo ma ki weko woko pi kakube man, iromo timo ne i ter mamegi ma lamal me loko coc i kod.</p>">
 
 <!ENTITY cspBlocked.title "Kigengo ki Cik me Gwoko kuc pa jami matye iye">
 <!ENTITY cspBlocked.longDesc "<p>Layeny ogengo pot buk man ka pango i yoo man pien pot puk tye ki cik me gwoko kuc ma pe yee ne.</p>">
@@ -80,6 +82,7 @@
 <!ENTITY remoteXUL.title "XUL Mape kiwaya">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube ne me mini gi ngec pi peko man.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Kube ni pe tye ki ber bedo">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

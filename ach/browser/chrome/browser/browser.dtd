@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
 
-
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
