@@ -131,7 +131,7 @@
 <!ENTITY settings "Rregullime">
 <!ENTITY settings_title "Rregullime">
 <!ENTITY pref_category_general "Të përgjithshme">
-<!ENTITY pref_category_general_summary2 "Kreu, gjuhë, shtyllë URL-sh">
+<!ENTITY pref_category_general_summary3 "Kreu, gjuhë, radhë skedash">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -240,6 +240,7 @@
 <!ENTITY pref_header_notifications "Njoftime">
 <!ENTITY pref_header_advanced "Të mëtejshme">
 <!ENTITY pref_header_help "Ndihmë">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Të aktivizuara">
@@ -349,7 +350,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
 <!ENTITY pref_plugins "Shtojca">
 <!ENTITY pref_plugins_enabled "Aktive">
-<!ENTITY pref_plugins_tap_to_play "Prekeni që të luhet">
+<!ENTITY pref_plugins_tap_to_play2 "Prekeni që të luhet">
 <!ENTITY pref_plugins_disabled "E çaktivizuar">
 <!ENTITY pref_text_size "Madhësi teksti">
 <!ENTITY pref_restore_tabs "Rikthe skeda">
@@ -478,7 +479,6 @@ size. -->
 <!ENTITY close_private_tabs "Mbyll Skedat Private">
 <!ENTITY tabs_normal "Skeda">
 <!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Të njëkohësuara">
 <!ENTITY set_image_fail "Nuk arrin të vendosë figurën">
 <!ENTITY set_image_path_fail "Nuk arrin ta ruajë figurën">
 <!ENTITY set_image_chooser_title "Vendose Figurën Si">
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Zmadho zona të vogla">
-<!ENTITY pref_magnifying_glass_enabled_summary "Zmadho lidhje dhe fusha formularësh kur preket afër tyre">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Zmadho lidhje dhe fusha formularësh kur preket afër tyre">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
