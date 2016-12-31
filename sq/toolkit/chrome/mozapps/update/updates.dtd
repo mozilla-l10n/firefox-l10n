@@ -1,8 +1,6 @@
-errorCertAttrNoUpdate2.label
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  updateWizard.title              "Përditësim Software-i">
 <!ENTITY  checking.title                  "Po kontrollohet për Përditësime">
@@ -23,7 +21,7 @@ errorCertAttrNoUpdate2.label
 
 <!ENTITY  errorManual.label               "Mund ta përditësoni &brandShortName;-in dorazi duke vizituar këtë lidhje dhe shkarkuar versionin më të ri:">
 
-<!ENTITY  errorpatching.intro             "Nuk u zbatua dot Përditësimi i pjesshëm. &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
+<!ENTITY  errorpatching.intro             "S&apos;u zbatua dot Përditësimi i pjesshëm. &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
 
 <!ENTITY  update.details.label            "Hollësi">
 <!ENTITY  update.installedOn.label        "Instaluar në:">
