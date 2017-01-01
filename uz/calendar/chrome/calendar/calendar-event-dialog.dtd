@@ -38,8 +38,8 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Har bir ishtirokchiga alohida taklif">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Buni tanlasangiz, har bir ishtirokchiga alohida taklif xatini jo‘natadi. Har bir takli faqatgina ishtirok etadigan qabul qiluvchini jamlagan, shunday ekan boshqa ishtirokchilar shaxsiy ma’lumotlari oshkor qilinmaydi.">
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Hisoblagichni to‘xtatish">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
 
 <!-- Keyboard Shortcuts -->
 
