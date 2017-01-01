@@ -266,7 +266,7 @@
 
 <!ENTITY pref_tracking_protection_enabled "מופעל">
 <!ENTITY pref_tracking_protection_enabled_pb "מופעל בגלישה פרטית">
-<!ENTITY pref_tracking_protection_disabled "מנורטל">
+<!ENTITY pref_tracking_protection_disabled "מנוטרל">
 
 <!ENTITY pref_whats_new_notification "מה חדש ב־&brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "מידע על תכונות חדשות לאחר עדכון">
