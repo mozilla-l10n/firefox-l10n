@@ -4,72 +4,80 @@
 
 <!ENTITY windowTitle "I-Firefox WebIDE">
 
+<!ENTITY projectMenu_label "IProjekti">
 <!ENTITY projectMenu_accesskey "P">
-
-
+<!ENTITY projectMenu_newApp_label "I-App Entsha…">
+<!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Vula I-app Ekwipakeji…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-
-
+<!ENTITY projectMenu_importHostedApp_label "I-App Evuliweyo eHostiweyo…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Vula I-App…">
-
-
-
-
-
-
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Fakela uze uQhube">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Yekisa iApp">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Khupha iBhagi kwi-App">
 <!ENTITY projectMenu_debug_accesskey "D">
-
-
+<!ENTITY projectMenu_remove_label "Susa iProjekti">
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Iipreferensi">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
-
+<!ENTITY projectMenu_manageComponents_label "Lawula iiKhomponenti Ezingakumbi">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "Hlaziya iiThebhu">
 
 <!ENTITY runtimeMenu_label "Ixesha lokuhambisa">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Itheyibhuli Yemvume">
-
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Iskrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Inkcazelo YeRuntime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-
+<!ENTITY runtimeMenu_showMonitor_label "Bek' esweni">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Iipriferensi Zesayithi">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Iisetingi Zesixhobo">
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Jonga">
-
-
-
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Umlungisi Weqhosha">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Sondeza Kufuphi">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Bhekelisela Kudana">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-
+<!ENTITY viewMenu_resetzoom_label "Phinde uSete uKwenza Nkulu">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-
+<!ENTITY projectButton_label "Vula I-App">
+<!ENTITY runtimeButton_label "Khetha iXesha Lokuqhuba">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
+<!ENTITY projectPanel_myProjects "Iiprojekti Zam">
+<!ENTITY projectPanel_runtimeApps "Ii-App Zokuphela Kwexesha">
 <!ENTITY projectPanel_tabs "Iithebhu">
 
 
