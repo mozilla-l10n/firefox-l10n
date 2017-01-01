@@ -48,6 +48,9 @@
 <!ENTITY directoriesNone.label "Нет">
 <!ENTITY editDirectories.label "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey "з">
+<!ENTITY showAsDefault.label "Каталог по умолчанию при открытии окна адресной книги:">
+<!ENTITY showAsDefault.accesskey "ю">
+<!ENTITY showAsDefaultLast.label "Последний использованный каталог">
 <!ENTITY sendOptionsDescription.label "Текстовый формат:">
 <!ENTITY sendOptions.label "Параметры отправки…">
 <!ENTITY sendOptions.accesskey "т">

@@ -4,11 +4,12 @@
 
 <!ENTITY mailListWindow.title "Список рассылки">
 <!ENTITY addToAddressBook.label "Добавить в:">
+<!ENTITY addToAddressBook.accesskey "о">
 <!ENTITY ListName.label "Имя списка:">
+<!ENTITY ListName.accesskey "м">
 <!ENTITY ListNickName.label "Псевдоним списка:">
+<!ENTITY ListNickName.accesskey "в">
 <!ENTITY ListDescription.label "Описание:">
+<!ENTITY ListDescription.accesskey "п">
 <!ENTITY AddressTitle.label "Введите адреса, чтобы добавить их в список рассылки:">
-<!ENTITY addToAddressBook.accesskey "Д">
-<!ENTITY ListName.accesskey "И">
-<!ENTITY ListNickName.accesskey "П">
-<!ENTITY ListDescription.accesskey "О">
+<!ENTITY AddressTitle.accesskey "и">
