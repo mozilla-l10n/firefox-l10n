@@ -125,6 +125,8 @@
 <!ENTITY newContactButton.accesskey "к">
 <!ENTITY newlistButton.label "Создать список">
 <!ENTITY newlistButton.accesskey "С">
+<!ENTITY showAsDefault.label "Каталог по умолчанию при открытии">
+<!ENTITY showAsDefault.accesskey "ю">
 <!ENTITY editPropertiesButton.label "Изменить">
 <!ENTITY propertiesContext.label "Свойства">
 <!ENTITY propertiesContext.accesskey "в">
