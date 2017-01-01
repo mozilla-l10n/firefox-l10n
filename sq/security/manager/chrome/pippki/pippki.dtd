@@ -31,11 +31,6 @@
 <!ENTITY clientAuthAsk.message2 "Zgjidhni një dëshmi për ta paraqitur si identifikim:">
 <!ENTITY clientAuthAsk.message3 "Hollësi të dëshmisë së përzgjedhur:">
 
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Përzgjidhni Dëshmi">
-<!ENTITY certPicker.info "Dëshmi:">
-<!ENTITY certPicker.detailsLabel "Hollësi të dëshmisë së përzgjedhur:">
-
 <!ENTITY pkcs12.setpassword.title "Zgjidhni një Fjalëkalim Kopjeruajtjeje Dëshmish">
 <!ENTITY pkcs12.setpassword.message "Fjalëkalimi për kopjeruajtje dëshmish që caktoni këtu, mbron kartelën kopjeruajtje që jeni duke krijuar.  Duhet të caktoni këtë fjalëkalim për të vazhduar më tej me kopjeruajtjen.">
 <!ENTITY pkcs12.setpassword.label1 "Fjalëkalim kopjeruajtjeje dëshmish:">
