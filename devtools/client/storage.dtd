@@ -7,3 +7,5 @@
 
 <!ENTITY searchBox.placeholder         "Hluza izinto">
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+
+<!ENTITY storage.popupMenu.deleteAllLabel "Cima Konke">
