@@ -7,8 +7,8 @@
 
 
 
-
-
+<!ENTITY mailingListPropertiesMenu.label    "Adresatų sąrašo savybės">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adresų knyga:">
 <!ENTITY addressbookPicker.accesskey        "A">
