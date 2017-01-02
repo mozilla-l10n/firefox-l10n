@@ -30,14 +30,18 @@
   -  <style> tag -->
 
 <!ENTITY csscoverage.optimize.body1 "Maxa wambi ungakhawulezisa ukulowuda ngokuhamba">
-
-
+<!ENTITY csscoverage.optimize.body2 "iithegi eziya emazantsi ephepha nokuyila umgca omtsha ophakathi">
+<!ENTITY csscoverage.optimize.body3 "i-elementi enezimbo ezifunekayo ngaphambi kwesiganeko 'sokulowuda' entla. Nazi iibloko zezimbo ozifunayo:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "Yonke imigaqo ibiphakathi emgceni.">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
 
+<!ENTITY csscoverage.footer1 "Bona">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "Inqaku le-MDN kwiSixhobo Sofikelelo Se-CSS">
 
