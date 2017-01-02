@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY openURL.label     "פתיחת כתובת בלשונית חדשה">
+<!ENTITY openURL.accesskey "פ">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -30,11 +31,13 @@
 <!ENTITY btnPageNet.accesskeyMacOSX "ה">
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip2 "רישום שגיאות פענוח CSS">
-<!ENTITY btnPageCSS.accesskey "ג">
+<!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "רישום חריגות JavaScript">
+<!ENTITY btnPageJS.accesskey  "ח">
 <!ENTITY btnPageSecurity.label "אבטחה">
 <!ENTITY btnPageSecurity.tooltip "רישום שגיאות ואזהרות אבטחה">
+<!ENTITY btnPageSecurity.accesskey "א">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
@@ -42,16 +45,19 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "רישום">
 <!ENTITY btnPageLogging.tooltip "רישום הודעות שנשלחות לעצם window.console">
+<!ENTITY btnPageLogging.accesskey3 "ר">
 <!ENTITY btnConsoleErrors       "שגיאות">
 <!ENTITY btnConsoleInfo         "מידע">
 <!ENTITY btnConsoleWarnings     "אזהרות">
 <!ENTITY btnConsoleLog          "רישום">
+<!ENTITY btnConsoleXhr          "XHR">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "שרת">
 <!ENTITY btnServerLogging.tooltip     "הודעות רישום התקבלו מהשרת">
+<!ENTITY btnServerLogging.accesskey   "ש">
 <!ENTITY btnServerErrors              "שגיאות">
 <!ENTITY btnServerInfo                "מידע">
 <!ENTITY btnServerWarnings            "אזהרות">
@@ -59,6 +65,7 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
@@ -68,6 +75,7 @@
 <!ENTITY filterOutput.placeholder "סינון פלט">
 <!ENTITY btnClear.label        "מחיקה">
 <!ENTITY btnClear.tooltip      "מחיקת פלט מסוף הרשת">
+<!ENTITY btnClear.accesskey    "מ">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -80,7 +88,7 @@
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "העתקת מיקום קישור">
-<!ENTITY copyURLCmd.accesskey "ה">
+<!ENTITY copyURLCmd.accesskey "ע">
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
@@ -88,3 +96,4 @@
 <!ENTITY openInVarViewCmd.label "פתיחה בתצוגת משתנים">
 <!ENTITY openInVarViewCmd.accesskey "צ">
 <!ENTITY storeAsGlobalVar.label "אחסון כמשתנה גלובלי">
+<!ENTITY storeAsGlobalVar.accesskey "ג">

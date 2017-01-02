@@ -16,7 +16,7 @@
 <!ENTITY copyCmd.label             "העתקה">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "ת">
-<!ENTITY pasteCmd.label            "הדבק">
+<!ENTITY pasteCmd.label            "הדבקה">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "ה">
 <!ENTITY deleteCmd.label           "מחיקה">
