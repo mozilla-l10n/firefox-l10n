@@ -34,9 +34,9 @@
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "רישום חריגות JavaScript">
-<!ENTITY btnPageJS.accesskey  "ח">
+<!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "אבטחה">
-<!ENTITY btnPageSecurity.tooltip "רישום שגיאות ואזהרות אבטחה">
+<!ENTITY btnPageSecurity.tooltip "רישום שגיאות אבטחה ואזהרות">
 <!ENTITY btnPageSecurity.accesskey "א">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the

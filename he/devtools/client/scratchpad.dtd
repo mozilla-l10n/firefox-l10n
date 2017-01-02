@@ -31,7 +31,7 @@
 
 <!ENTITY openFileCmd.label            "פתיחת קובץ…">
 <!ENTITY openFileCmd.accesskey        "פ">
-<!ENTITY openFileCmd.commandkey       "פ">
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "פתיחת אחרונים">
 <!ENTITY openRecentMenu.accesskey     "א">
@@ -41,7 +41,7 @@
 
 <!ENTITY saveFileCmd.label            "שמירה">
 <!ENTITY saveFileCmd.accesskey        "ש">
-<!ENTITY saveFileCmd.commandkey       "ש">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "שמירה בשם…">
 <!ENTITY saveFileAsCmd.accesskey      "ש">
