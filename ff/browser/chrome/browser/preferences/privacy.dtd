@@ -35,8 +35,8 @@
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Maantore">
 <!ENTITY  locbar.bookmarks.accesskey    "t">
-<!ENTITY  locbar.openpage.label         "Uddit tabbe">
-<!ENTITY  locbar.openpage.accesskey     "U">
+<!ENTITY  locbar.openpage.label         "Tabbe udditiiɗe">
+<!ENTITY  locbar.openpage.accesskey     "T">
 <!ENTITY  locbar.searches.label         "Njiilawuuji nannduɗi iwɗi e yiylorde woowaande">
 <!ENTITY  locbar.searches.accesskey     "d">
 
