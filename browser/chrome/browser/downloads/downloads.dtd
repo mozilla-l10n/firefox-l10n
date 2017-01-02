@@ -105,7 +105,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "הצגת כול ההורדות">
+<!ENTITY downloadsHistory.label           "הצגת כל ההורדות">
 <!ENTITY downloadsHistory.accesskey       "ה">
 
 <!ENTITY openDownloadsFolder.label       "פתיחת תיקיית ההורדות">

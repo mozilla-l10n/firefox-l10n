@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "יציאה ממצב ההתאמה האישית">
 <!ENTITY appMenuCustomizeExit.tooltip "סיום ההתאמה האישית">
 <!ENTITY appMenuHistory.label "היסטוריה">
-<!ENTITY appMenuHistory.showAll.label "הצגת כול ההיסטוריה">
+<!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
