@@ -5,15 +5,15 @@
 
 
 
-
-
+<!ENTITY contactPropertiesMenu.label        "Adresato savybės">
+<!ENTITY contactPropertiesMenu.accesskey    "s">
 <!ENTITY mailingListPropertiesMenu.label    "Adresatų sąrašo savybės">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adresų knyga:">
 <!ENTITY addressbookPicker.accesskey        "A">
-
-
+<!ENTITY searchContacts.label               "Ieškoti adresatų:">
+<!ENTITY searchContacts.accesskey           "d">
 <!ENTITY SearchNameOrEmail.label            "Asmenvardis ar el. p. adresas">
 
 <!ENTITY addtoToFieldMenu.label             "Pridėti į lauką „Kam“">
@@ -24,14 +24,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "N">
 <!ENTITY deleteAddrBookCard.label           "Pašalinti">
 <!ENTITY deleteAddrBookCard.accesskey       "š">
+<!ENTITY propertiesContext.label            "Savybės">
+<!ENTITY propertiesContext.accesskey        "S">
+<!ENTITY abPropertiesContext.label          "Savybės">
+<!ENTITY abPropertiesContext.accesskey      "S">
 
 
-
-
-
-
-
-
+<!ENTITY editMailingListContext.label       "Keisti sąrašą">
+<!ENTITY editMailingListContext.accesskey   "K">
 
 <!ENTITY toButton.label                     "Pridėti į „Kam“">
 <!ENTITY toButton.accesskey                 "P">
