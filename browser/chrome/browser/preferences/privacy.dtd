@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "Poți și ">
 <!ENTITY  doNotTrack.settings.label     "să gestionezi setările Nu mă urmări">
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Acceptă cookie-uri terțe:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "k">
 <!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
@@ -105,8 +106,8 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "File container">
-
+<!ENTITY  browserContainersLearnMore.label      "Află mai multe">
 <!ENTITY  browserContainersEnabled.label        "Activează filele container">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Setări…">
+<!ENTITY  browserContainersSettings.accesskey    "t">
