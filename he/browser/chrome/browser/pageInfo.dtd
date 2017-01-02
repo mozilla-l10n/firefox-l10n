@@ -6,10 +6,10 @@
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "העתק">
+<!ENTITY  copy.label            "העתקה">
 <!ENTITY  copy.accesskey        "ה">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "בחר הכול">
+<!ENTITY  selectall.label       "בחירת הכל">
 <!ENTITY  selectall.accesskey   "ב">
 <!ENTITY  closeWindow.key       "w">
 
@@ -59,7 +59,7 @@
 <!ENTITY  permissionsFor        "הרשאות עבור:">
 <!ENTITY  permPlugins           "הפעלת תוספים חיצוניים">
 
-<!ENTITY  permClearStorage           "מחק אחסון">
+<!ENTITY  permClearStorage           "מחיקת אחסון">
 <!ENTITY  permClearStorage.accesskey "מ">
 
 <!ENTITY  securityTab           "אבטחה">

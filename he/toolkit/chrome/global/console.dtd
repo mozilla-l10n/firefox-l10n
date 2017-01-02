@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "סינון:">
 <!ENTITY filter2.accesskey  "ס">
 
-<!ENTITY copyCmd.label       "העתק">  
+<!ENTITY copyCmd.label       "העתקה">  
 <!ENTITY copyCmd.accesskey   "ת"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "סדר ראשון > אחרון">
