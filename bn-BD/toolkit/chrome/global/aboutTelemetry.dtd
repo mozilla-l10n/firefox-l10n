@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  স্ক্যালারস">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  কীড স্কেলারস">
 
 <!ENTITY aboutTelemetry.histogramsSection "  বারলেখ">
 
