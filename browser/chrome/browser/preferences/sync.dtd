@@ -39,12 +39,12 @@
 
 <!ENTITY syncDeviceName.label       "ডিভাইসের নাম:">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইসের নাম">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "ডিভাইসের নাম পরিবর্তন করুন">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "এই যন্ত্রটি বিচ্ছিন্ন করুন">
 <!-- Footer stuff -->
 
@@ -72,11 +72,11 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "‍">
 
 <!ENTITY notSignedIn.label           "আপনি সাইন ইন করেন নি।">
-
-
+<!ENTITY signIn.label                "সাইন ইন">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
-
-
+<!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "বিচ্ছিন্ন">
 <!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ইমেল যাচাই">
