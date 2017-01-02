@@ -198,17 +198,21 @@
 <!ENTITY wifi_auth_token_request "Ukuba esinye isixhobo sakho sicela ithokeni endaweni yekhowudi ye-QR, nceda ukope ixabiso elingezantsi kwesinye isixhobo:">
 <!ENTITY wifi_auth_qr_size_note "Ukuba ikhowudi ye-QR ibonakala incinci kakhulu kolu qhagamshelo ukuba lumiselwe ngokuphumelelayo, zama ukunyusa okanye wenze nkulu ifestile.">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "IiLogi zoMyalelo wokuPakisha kuseNgaphambili">
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "Ukhetho lweSimuleyitha">
+<!ENTITY simulator_remove "Isimuleyitha yoKucima">
 <!ENTITY simulator_reset "Buyisela Iidifolthi">
 <!ENTITY simulator_name "Igama">
 <!ENTITY simulator_software "Isoftwe">
 <!ENTITY simulator_version "Uguqulelo">
-
+<!ENTITY simulator_profile "iProfayili">
 <!ENTITY simulator_hardware "Ihadwe">
 <!ENTITY simulator_device "Isixhobo">
 <!ENTITY simulator_screenSize "Isikrini">
-
+<!ENTITY simulator_pixelRatio "iReshiyo yePikseli">
 <!ENTITY simulator_tv_data "Isivuseleli Sethivi">
-
-
+<!ENTITY simulator_tv_data_open "IDatha yoYIlo">
+<!ENTITY simulator_tv_data_open_button "Vula iSalathisi soYilo…">
