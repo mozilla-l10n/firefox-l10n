@@ -81,8 +81,8 @@
 <!ENTITY propertiesCmd.key                              "i">
 
 
-
-
+<!ENTITY contactPropertiesMenu.label                    "Adresato savybės">
+<!ENTITY contactPropertiesMenu.accesskey                "s">
 
 
 <!-- View Menu -->
@@ -140,7 +140,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
-
+<!ENTITY editPropertiesButton.label                     "Keisti">
 
 
 
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Sukurti naują adresatą">
 <!ENTITY newlistButton.tooltip                          "Sukurti naują adresatų sąrašą">
 <!ENTITY editPropertiesButton.tooltip                   "Taisyti pažymėtą elementą">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Keisti pažymėtos adresų knygos savybes">
+<!ENTITY editContactPropertiesButton.tooltip            "Keisti pažymėto adresato duomenis">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Keisti pažymėtą adresatų sąrašą">
 <!ENTITY newmsgButton.tooltip                           "Rašyti elektroninį laišką">
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį">
 <!ENTITY deleteButton2.tooltip                          "Pašalinti pažymėtą elementą">
