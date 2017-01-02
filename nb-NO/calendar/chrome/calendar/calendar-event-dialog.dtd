@@ -193,7 +193,7 @@
 <!ENTITY counter.button.proposal.tooltip2                 "Hendelsesfeltene vil bli fylt ut med de verdiene fra motforslag, bare lagring med eller uten ytterligere endringer vil varsle alle deltakere deretter">
 <!ENTITY counter.button.original.label                    "Anvend opprinnelig data">
 <!ENTITY counter.button.original.accesskey                "r">
-
+<!ENTITY counter.button.original.tooltip2                 "Feltene vil bli satt til verdiene fra den opprinnelige hendelsen, før motforslaget ble gjort">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tittel:" >
