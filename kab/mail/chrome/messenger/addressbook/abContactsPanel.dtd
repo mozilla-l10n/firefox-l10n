@@ -20,8 +20,8 @@
 
 <!ENTITY addtoToFieldMenu.label             "Rnu ɣeṛ wurti">
 <!ENTITY addtoToFieldMenu.accesskey         "R">
-<!ENTITY addtoCcFieldMenu.label             "Rnu ɣeṛ wuti Cc">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.label             "Rnu ɣeṛ wurti Anɣ.Uff">
+<!ENTITY addtoCcFieldMenu.accesskey         "A">
 <!ENTITY addtoBccFieldMenu.label            "Ranu ɣeṛ wurti Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Kkes">
@@ -37,7 +37,7 @@
 
 <!ENTITY toButton.label                     "Rnu ɣeṛ I:">
 <!ENTITY toButton.accesskey                 "u">
-<!ENTITY ccButton.label                     "Rnu ɣeṛ Cc:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.label                     "Rnu ɣeṛ Anɣ.Uff:">
+<!ENTITY ccButton.accesskey                 "A">
 <!ENTITY bccButton.label                    "Ranu ɣeṛ Bcc:">
 <!ENTITY bccButton.accesskey                "B">

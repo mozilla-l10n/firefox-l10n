@@ -230,7 +230,7 @@
 <!ENTITY fromAddr.accesskey "S">
 <!ENTITY toAddr.label "I:">
 <!ENTITY ccAddr.label "Anɣ.I:">
-<!ENTITY bccAddr.label "Anɣ.Uff:">
+<!ENTITY bccAddr.label "Anɣ.Uff.I:">
 <!ENTITY replyAddr.label "Err-i:">
 <!ENTITY newsgroupsAddr.label "Agraw n isalen:">
 <!ENTITY followupAddr.label "Seḍfer-I:">
