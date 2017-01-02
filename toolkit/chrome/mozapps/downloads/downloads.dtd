@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "נ">
 <!ENTITY cmd.goToDownloadPage.label       "עבור אל דף הורדה">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ע">
-<!ENTITY cmd.copyDownloadLink.label       "העתק קישור הורדה">
+<!ENTITY cmd.copyDownloadLink.label       "העתקת קישור הורדה">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ק">
 <!ENTITY cmd.removeFromList.label         "הסר מהרשימה">
 <!ENTITY cmd.removeFromList.accesskey     "ה">
@@ -39,7 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "מחק רשימה">
+<!ENTITY cmd.clearList.label              "מחיקת רשימה">
 <!ENTITY cmd.clearList.tooltip            "הסרת ההורדות שהסתיימו, בוטלו או נכשלו מהרשימה">
 <!ENTITY cmd.clearList.accesskey          "מ">
 <!ENTITY cmd.find.commandKey              "f">

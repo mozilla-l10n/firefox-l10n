@@ -28,11 +28,11 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "העתק">
+<!ENTITY copyPref.label "העתקה">
 <!ENTITY copyPref.accesskey "ה">
-<!ENTITY copyName.label "העתק שם">
+<!ENTITY copyName.label "העתקת שם">
 <!ENTITY copyName.accesskey "ע">
-<!ENTITY copyValue.label "העתק ערך">
+<!ENTITY copyValue.label "העתקת ערך">
 <!ENTITY copyValue.accesskey "ר">
 <!ENTITY modify.label "שנה">
 <!ENTITY modify.accesskey "ש">

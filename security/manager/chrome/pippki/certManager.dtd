@@ -40,7 +40,7 @@
 <!ENTITY certmgr.editcert.trustemail          "אישור זה יכול לזהות משתמשי דואר.">
 <!ENTITY certmgr.editcert.trustobjsign        "אישור זה יכול לזהות יצרני תוכנה.">
 
-<!ENTITY certmgr.deletecert.title             "מחק אישור">
+<!ENTITY certmgr.deletecert.title             "מחיקת אישור אבטחה">
 
 <!ENTITY certmgr.certname                     "שם אישור">
 <!ENTITY certmgr.certserver                   "שרת">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.edit3.accesskey              "ע">
 <!ENTITY certmgr.export.label                 "יצא…">
 <!ENTITY certmgr.export.accesskey             "י">
-<!ENTITY certmgr.delete2.label                "מחק…">
+<!ENTITY certmgr.delete2.label                "מחיקה…">
 <!ENTITY certmgr.delete2.accesskey            "מ">
 <!ENTITY certmgr.delete_builtin.label         "מחיקה או אי־אמון…">
 <!ENTITY certmgr.delete_builtin.accesskey     "מ">

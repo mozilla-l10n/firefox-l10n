@@ -66,9 +66,9 @@
 <!ENTITY limitCacheSizeBefore.label      "הגבלת גודל המטמון ל־">
 <!ENTITY limitCacheSizeBefore.accesskey  "ה">
 <!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
-<!ENTITY clearCacheNow.label             "מחק עכשיו">
+<!ENTITY clearCacheNow.label             "מחיקה כעת">
 <!ENTITY clearCacheNow.accesskey         "מ">
-<!ENTITY clearOfflineAppCacheNow.label   "מחק עכשיו">
+<!ENTITY clearOfflineAppCacheNow.label   "מחיקה כעת">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ח">
 <!ENTITY overrideSmartCacheSize.label    "עקיפת ניהול המטמון האוטומטי">
 <!ENTITY overrideSmartCacheSize.accesskey "א">

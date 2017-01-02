@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "צ">
 <!ENTITY            renameButton.label     "שנה שם פרופיל...">
 <!ENTITY            renameButton.accesskey "פ">
-<!ENTITY            deleteButton.label     "מחק פרופיל...">
+<!ENTITY            deleteButton.label     "מחיקת פרופיל...">
 <!ENTITY            deleteButton.accesskey "ח">
 
 <!-- manager entities -->
