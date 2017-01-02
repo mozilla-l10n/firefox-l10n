@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "Ustawienia – dane stron">
+<!ENTITY settings.description "Następujące strony poprosiły o możliwość przechowywania danych. Można określić, które strony mogę przechowywać dane. Dane stron są domyślnie przechowywane tymczasowo i mogą być usuwane automatycznie.">
+<!ENTITY hostCol.label "Witryna">
+<!ENTITY statusCol.label "Status">
+<!ENTITY usageCol.label "Rozmiar">
