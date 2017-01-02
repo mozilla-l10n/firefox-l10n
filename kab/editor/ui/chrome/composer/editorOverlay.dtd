@@ -90,7 +90,7 @@
 <!ENTITY size-smallCmd.accesskey "M">
 <!ENTITY size-mediumCmd.label "Alemmas">
 <!ENTITY size-mediumCmd.accesskey "l">
-<!ENTITY size-largeCmd.label "Meqqaṛ">
+<!ENTITY size-largeCmd.label "Meqqer">
 <!ENTITY size-largeCmd.accesskey "M">
 <!ENTITY size-extraLargeCmd.label "Meqqer">
 <!ENTITY size-extraLargeCmd.accesskey "q">
@@ -155,10 +155,10 @@
 <!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Aqerru 3">
 <!ENTITY heading3Cmd.accesskey "3">
-<!ENTITY heading4Cmd.label "Aqerru 1">
-<!ENTITY heading4Cmd.accesskey "1">
-<!ENTITY heading5Cmd.label "Aqerru 1">
-<!ENTITY heading5Cmd.accesskey "1">
+<!ENTITY heading4Cmd.label "Aqerru 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Aqerru 5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Aqerru 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Tansa">
@@ -318,7 +318,7 @@
 <!ENTITY boldToolbarCmd.tooltip "Zur">
 <!ENTITY italicToolbarCmd.tooltip "Uknan">
 <!ENTITY underlineToolbarCmd.tooltip "Derrer">
-<!ENTITY bulletListToolbarCmd.tooltip "Sness neq kkes tabdart n tneqqiḍin">
+<!ENTITY bulletListToolbarCmd.tooltip "Sness neɣ kkes tabdart n tneqqiḍin">
 <!ENTITY numberListToolbarCmd.tooltip "Snes neɣ kkes tabdart n wuṭṭunen">
 <!ENTITY outdentToolbarCmd.tooltip "Senɣes asiẓi (awi s azelmaḍ)">
 <!ENTITY indentToolbarCmd.tooltip "Rigel aḍris (saẓ s ayeffus)">
