@@ -14,17 +14,17 @@
      translation. -->
 
 <!ENTITY tabCrashed.header2 "Ups. Fila s-a oprit neașteptat.">
-
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.offerHelp "Te putem ajuta!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Alege &tabCrashed.restoreTab; pentru a reîncărca conținutul paginii.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Alege &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru a reîncărca conținutul paginii.">
+<!ENTITY tabCrashed.requestHelp "Poți să ne ajuți?">
+<!ENTITY tabCrashed.requestHelpMessage "Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Raportează această filă">
+<!ENTITY tabCrashed.sendReport2 "Trimite un raport de defecțiuni pentru fila pe care o vezi">
+<!ENTITY tabCrashed.commentPlaceholder2 "Adaugă un comentariu (comentariile sunt vizibile publicului)">
+<!ENTITY tabCrashed.includeURL2 "Include URL-ul paginii cu acest raport de defecțiuni">
 <!ENTITY tabCrashed.emailPlaceholder "Introdu adresa ta de e-mail aici">
 <!ENTITY tabCrashed.emailMe "Trimite-mi e-mail când sunt mai multe informații disponibile">
 <!ENTITY tabCrashed.reportSent "Raportul de defecțiuni a fost deja transmis; vă mulțumim pentru ajutorul de a face &brandShortName; mai bun!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit "Solicită file din fundal">
+<!ENTITY tabCrashed.autoSubmit "Actualizează preferințele pentru a trimite automat rapoarte de defecțiuni (vei primi mai puține mesaje de acest fel în viitor)">

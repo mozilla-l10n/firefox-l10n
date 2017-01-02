@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
+<!ENTITY alwaysSubmitCrashReports.label   "Permite &brandShortName; să trimită rapoarte de defecțiuni din trecut din partea ta">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Află mai multe">
 
 <!ENTITY networkTab.label                "Rețea">

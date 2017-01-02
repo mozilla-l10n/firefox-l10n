@@ -115,6 +115,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Conectarea în siguranță la <span id='wrongSystemTime_URL'/> nu este posibilă deoarece ceasul tău pare că arată ora greșită.</p> <p>Calculatorul tău crede că este ora <span id='wrongSystemTime_systemDate'/>, dar ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a repara această problemă, modifică data și ora sistemului pentru a fi conforme cu realitatea.</p>">
+
 <!ENTITY certerror.pagetitle1  "Conexiune nesigură">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">

@@ -62,14 +62,15 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Elimină din istoric">
 <!ENTITY cmd.removeFromHistory.accesskey  "E">
-
-
+<!ENTITY cmd.clearList2.label             "Curăță panoul de previzualizări">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Șterge descărcările">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-
+<!ENTITY cmd.unblock2.label               "Permite descărcarea">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -108,6 +109,7 @@
 <!ENTITY downloadsHistory.label           "Arată toate descărcările">
 <!ENTITY downloadsHistory.accesskey       "d">
 
+<!ENTITY openDownloadsFolder.label       "Deschide dosarul cu descărcări">
 
 <!ENTITY clearDownloadsButton.label       "Șterge descărcările">
 <!ENTITY clearDownloadsButton.tooltip     "Șterge descărcările încheiate, anulate și eșuate">
