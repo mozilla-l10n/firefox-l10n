@@ -186,13 +186,17 @@
 <!ENTITY wifi_auth_header "Isazisi soMthengi">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Incam oqhagamshela kuyo ifuna inkcazelo engakumbi ukuze iqinisekise olu qhagamshelo.  Nceda uskene ikhowudi ye-QR ngezantsi ngomyalelo okwesinye isixhobo sakho.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Awukho umyalelo weskena se-QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Ngaba unawo umyalelo weskena se-QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-
+<!ENTITY wifi_auth_token_request "Ukuba esinye isixhobo sakho sicela ithokeni endaweni yekhowudi ye-QR, nceda ukope ixabiso elingezantsi kwesinye isixhobo:">
+<!ENTITY wifi_auth_qr_size_note "Ukuba ikhowudi ye-QR ibonakala incinci kakhulu kolu qhagamshelo ukuba lumiselwe ngokuphumelelayo, zama ukunyusa okanye wenze nkulu ifestile.">
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
