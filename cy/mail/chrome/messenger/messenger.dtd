@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Offer Datblygwyr">
-<!ENTITY devtoolsMenu.accesskey "D">
 <!ENTITY devToolboxCmd.label "Blwch Offer Datblygwyr">
 <!ENTITY devToolboxCmd.accesskey "B">
 <!ENTITY devToolboxCmd.commandkey "i">
