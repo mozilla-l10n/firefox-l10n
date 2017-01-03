@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Innealan an luchd-leasachaidh">
-<!ENTITY devtoolsMenu.accesskey "u">
 <!ENTITY devToolboxCmd.label "Acainnean an luchd-leasachaidh">
 <!ENTITY devToolboxCmd.accesskey "l">
 <!ENTITY devToolboxCmd.commandkey "i">
