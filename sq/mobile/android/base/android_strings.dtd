@@ -51,7 +51,7 @@
 <!ENTITY  tab_offline_version "Po shfaqet versoni offline">
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-u">
-<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t\&apos;i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshije adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
@@ -167,7 +167,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "S\&apos;u gjetën pajisja të lidhura me Llogari Firefox">
+<!ENTITY overlay_no_synced_devices "S’u gjetën pajisja të lidhura me Llogari Firefox">
 
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary2 "Shtoni, caktojeni si parazgjedhje, shfaq këshillime">
@@ -264,7 +264,7 @@
 <!ENTITY pref_tracking_protection_title2 "Mbrojtje Nga Gjurmimi">
 <!ENTITY pref_tracking_protection_summary3 "Aktive nën Shfletim Privat">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
-<!ENTITY pref_donottrack_summary "&brandShortName;-i do t\&apos;u thotë sajteve se nuk doni të gjurmoheni">
+<!ENTITY pref_donottrack_summary "&brandShortName;-i do t’u thotë sajteve se nuk doni të gjurmoheni">
 
 <!ENTITY pref_tracking_protection_enabled "E aktivizuar">
 <!ENTITY pref_tracking_protection_enabled_pb "E aktivizuar nën Shfletim Privat">
@@ -419,7 +419,7 @@ size. -->
 <!ENTITY pref_panels_move_down "Zbrite poshtë">
 
 <!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;-u ">
-<!ENTITY datareporting_notification_action "Zgjidhni ç\u0027të ndahet me të tjerët">
+<!ENTITY datareporting_notification_action "Zgjidhni ç’të ndahet me të tjerët">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Zgjidhni ç\u0027të dhëna të ndahen me të tjerët">
 <!ENTITY datareporting_notification_summary "Për përmirësimin e punimit tuaj, &brandShortName;-u dërgon vetvetiu te &vendorShortName; disa të dhëna.">
@@ -464,7 +464,7 @@ size. -->
 
 <!ENTITY share "Ndajeni me të tjerët">
 <!ENTITY share_title "Ndajeni me të tjerët përmes">
-<!ENTITY share_image_failed "S\’arrihet të ndahet kjo figurë me të tjerët">
+<!ENTITY share_image_failed "S’arrihet të ndahet kjo figurë me të tjerët">
 
 <!ENTITY save_as_pdf "Ruaje si PDF">
 <!ENTITY print "Shtype">
@@ -523,7 +523,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "Dështoi ruajtja e kredencialeve të hyrjes">
 <!ENTITY doorhanger_login_select_message "Kopjoje fjalëkalimin prej &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Fjalëkalimi u kopjua në të papastërt">
-<!ENTITY doorhanger_login_select_toast_copy_error "S\&apos;u kopjua dot fjalëkalimi">
+<!ENTITY doorhanger_login_select_toast_copy_error "S’u kopjua dot fjalëkalimi">
 <!ENTITY doorhanger_login_select_action_text "Përzgjidh të tjera kredenciale hyrjeje">
 <!ENTITY doorhanger_login_select_title "Kopjoje fjalëkalimin prej">
 
@@ -604,7 +604,7 @@ size. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "S\&apos;u gjet dot lëndë për këtë panel.">
+<!ENTITY home_default_empty "S’u gjet dot lëndë për këtë panel.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -815,7 +815,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s\&apos;do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
+<!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s’do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
 
 <!ENTITY eol_notification_title2 "&brandShortName;-i nuk do të përditësohet më">
 <!ENTITY eol_notification_summary "Prekeni që të mësoni më tepër">
@@ -823,7 +823,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;-u është i përditësuar">
-<!ENTITY whatsnew_notification_summary "Shihni ç\&apos;ka të re në këtë version">
+<!ENTITY whatsnew_notification_summary "Shihni ç’ka të re në këtë version">
 
 <!ENTITY promotion_add_to_homescreen "Shtojeni te skena e kreut">
 
