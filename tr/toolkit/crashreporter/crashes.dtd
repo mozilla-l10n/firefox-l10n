@@ -9,5 +9,5 @@
 <!ENTITY dateCrashed.heading        "Çökme tarihi">
 <!ENTITY dateSubmitted.heading      "Gönderim tarihi">
 <!ENTITY noReports.label            "Henüz hiç hata raporu gönderilmedi.">
-<!ENTITY noConfig.label             "Bu uygulama henüz çökme raporlarını göstermek üzere ayarlanmadı. <code>breakpad.reporturl</code> tercihi ayarlanmış olmalı.">
+<!ENTITY noConfig.label             "Bu uygulama henüz çökme raporlarını göstermek üzere ayarlanmadı. <code>breakpad.reportURL</code> tercihi ayarlanmış olmalı.">
 <!ENTITY clearAllReports.label      "Tüm raporları sil">

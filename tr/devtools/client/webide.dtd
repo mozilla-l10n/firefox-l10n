@@ -123,7 +123,7 @@
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE başladığında önceki çalışma zamanına yeniden bağlan">
 <!ENTITY prefs_options_rememberlastproject "Son projeyi hatırla">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE başladığında önceki projeyi geri yükle">
-<!ENTITY prefs_options_templatesurl "Şablonların URL'si">
+<!ENTITY prefs_options_templatesurl "Şablonların URL’si">
 <!ENTITY prefs_options_templatesurl_tooltip "Kullanılabilir şablonlar dizini">
 <!ENTITY prefs_options_showeditor "Editörü göster">
 <!ENTITY prefs_options_showeditor_tooltip "Dahili editörü göster">
