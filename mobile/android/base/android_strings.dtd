@@ -170,8 +170,7 @@
 <!ENTITY overlay_no_synced_devices "S\&apos;u gjetën pajisja të lidhura me Llogari Firefox">
 
 <!ENTITY pref_category_search3 "Kërkim">
-<!--<!ENTITY pref_category_search_summary2 "Add, set default, show suggestions"> -->
-
+<!ENTITY pref_category_search_summary2 "Shtoni, caktojeni si parazgjedhje, shfaq këshillime">
 <!ENTITY pref_category_accessibility "Përdorshmëri">
 <!ENTITY pref_category_accessibility_summary2 "Madhësi teksti, zoom, futje zanore">
 <!ENTITY pref_category_privacy_short "Privatësi">
@@ -271,7 +270,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "E aktivizuar nën Shfletim Privat">
 <!ENTITY pref_tracking_protection_disabled "E çaktivizuar">
 
-<!ENTITY pref_whats_new_notification "Ç\’ka të re në &brandShortName;">
+<!ENTITY pref_whats_new_notification "Ç’ka të re në &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Mësoni mbi veçori të reja pas një përditësimi">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
@@ -286,7 +285,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Rrjedhë Veprimtarie">
-<!ENTITY pref_activity_stream_summary "Një prurje e pasur pamore historiku dhe një faqe hyrëse e ripërfytyruar e bëjnë më të  lehtë se kurrë të gjeni në &brandShortName; pikërisht ç\’po kërkonit.">
+<!ENTITY pref_activity_stream_summary "Një prurje e pasur pamore historiku dhe një faqe hyrëse e ripërfytyruar e bëjnë më të  lehtë se kurrë të gjeni në &brandShortName; pikërisht ç’po kërkonit.">
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
 <!ENTITY tracking_protection_prompt_text "Bllokoni aktivisht elemente gjurmimi, që të mos keni pse të shqetësoheni.">
