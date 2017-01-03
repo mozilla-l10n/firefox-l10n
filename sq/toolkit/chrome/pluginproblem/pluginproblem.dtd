@@ -16,7 +16,7 @@
 <!ENTITY tapToPlayPlugin                                     "Prekni këtu që të aktivizohet shtojca.">
 <!ENTITY clickToActivatePlugin                               "Aktivizoni shtojcën.">
 <!ENTITY checkForUpdates                                     "Kontrollo për përditësime…">
-<!ENTITY disabledPlugin                                      "Kjo shtojcë është çaktivizuar.">
+<!ENTITY disabledPlugin                                      "Kjo shtojcë është e çaktivizuar.">
 <!ENTITY blockedPlugin.label                                 "Kjo shtojcë është bllokuar për t&apos;ju mbrojtur.">
 <!ENTITY hidePluginBtn.label                                 "Fshihe shtojcën">
 <!ENTITY managePlugins                                       "Administroni shtojca…">
