@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Ifecka n tneflit">
-<!ENTITY devtoolsMenu.accesskey "c">
 <!ENTITY devToolboxCmd.label "Ifecka n tneflit">
 <!ENTITY devToolboxCmd.accesskey "k">
 <!ENTITY devToolboxCmd.commandkey "i">
