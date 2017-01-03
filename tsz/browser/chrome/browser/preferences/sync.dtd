@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Patsarakua ma kámani">
 <!ENTITY manageAccount.accesskey      "P">
-<!ENTITY viewQuota.label              "Maiamperakua exe">
 <!ENTITY changePassword2.label        "Miiukuantskua mójtakuni…">
 <!ENTITY myRecoveryKey.label          "Mititarantskua juchiti">
 <!ENTITY resetSync2.label             "Ménteru uénta terukutantani…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Terukutantani">
 <!ENTITY engine.bookmarks.label     "Kuirunharitarakuecha">
 <!ENTITY engine.bookmarks.accesskey "K">
-
-
 <!ENTITY engine.tabs.label          "Arhukutarakua">
 <!ENTITY engine.tabs.accesskey      "A">
 <!ENTITY engine.history.label       "Patsakata">
@@ -40,12 +37,12 @@
 <!ENTITY engine.addons.accesskey    "J">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Patsarakueri jakankurhikua:">
-<!ENTITY syncDeviceName.accesskey   "P">
 
 
-<!ENTITY cancelChangeSyncDeviceName.label "Nompe ia">
-<!ENTITY saveChangeSyncDeviceName.label "Patsan">
+
+
+
+
 <!ENTITY unlinkDevice.label           "Ini patsarakuani kuerakuntani">
 <!-- Footer stuff -->
 
@@ -69,7 +66,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-<!ENTITY manage.label                "Xanhatani">
+
+
+
+
+
+
+
 
 
 
@@ -78,3 +81,19 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.useOldSync.label "¿Úraxakiri jiniani sáni anapu Sync?">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+

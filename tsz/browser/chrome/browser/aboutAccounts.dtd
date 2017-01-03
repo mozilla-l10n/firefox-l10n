@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Janu je &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "Jano je &syncBrand.shortName.label; rhu">
 
-<!ENTITY aboutAccountsConfig.description "Incha ka terukuta eranharhitakwechani, exerpirarakwechani,mitintskwarhikwechani ka máteru ampe.">
-<!ENTITY aboutAccountsConfig.startButton.label "Wéenani">
-<!ENTITY aboutAccountsConfig.useOldSync.label "¿Úraxakiri jiniani sáni anapu Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Xanhatani">
+
+<!ENTITY aboutAccountsConfig.description "Inchani ka terukutani eranharhikukwecha, exerpirarakwecha, ka mítintskwaechani ka sánteru ampe.">
+<!ENTITY aboutAccountsConfig.startButton.label "Wénakuni">
+<!ENTITY aboutAccountsConfig.useOldSync.label "¿Úraxakiri Sync yóni anapuni?">
+
+
+
+
+
+

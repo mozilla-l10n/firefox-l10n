@@ -28,7 +28,7 @@
 
 
 
-<!ENTITY marginRight.label   " T´irerkanta:">
+<!ENTITY marginRight.label   "&amp; T´irerkanta:">
 <!ENTITY marginRight.accesskey "R">
 
 

@@ -15,9 +15,9 @@
 <!ENTITY robots.errorShortDescText "¡Jurhaskaksïni sesi jimpo p'orhempini!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "Robots nosï jatsïajti pakasï atajpiaka k'uiripueni o, imaeri isku jakua jimpo, juraskuni eska atakurhioka">
-<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
+<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "Robots ixejtisksï ampe mankasï k'uiripuecha no jukajkupirinka">
-<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "Robots imaeri p'ichpirichajtisï tatsuparhakuaeri enkasï jinkoni uaka tsïpikurhini">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "Robots t'atekua tiamueri mere karhasï jukajtiksï enkasi no p'anhaka">

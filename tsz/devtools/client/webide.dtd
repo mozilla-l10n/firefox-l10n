@@ -29,6 +29,7 @@
 
 
 
+
 <!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
 
 
@@ -59,6 +60,7 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!-- zoom -->
+
 
 
 
@@ -115,6 +117,8 @@
 
 
 <!ENTITY prefs_options_keybindings_default "Tamisï erakukata">
+
+
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->
@@ -153,6 +157,7 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
@@ -163,5 +168,8 @@
 
 
 <!ENTITY simulator_device "Device">
+
+
+
 
 

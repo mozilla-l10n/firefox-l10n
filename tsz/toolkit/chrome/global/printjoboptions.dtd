@@ -19,5 +19,5 @@
 
 
 
-<!ENTITY rightInput.label " T´irerkanta:">
+<!ENTITY rightInput.label "&amp; T´irerkanta:">
 <!ENTITY rightInput.accesskey "R">

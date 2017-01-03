@@ -20,6 +20,7 @@
 <!ENTITY  paneApplications.title  "Ampekampeksï maruasïni">
 <!ENTITY  panePrivacy.title       "Jantiaku jurakuni">
 
+
 <!ENTITY  paneAdvanced.title      "Orhepaniksï">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 

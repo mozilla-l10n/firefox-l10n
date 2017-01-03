@@ -4,6 +4,15 @@
 
 <!ENTITY  blockPopups.label           "Eranharitarakuechani p´inkuni">
 <!ENTITY  blockPopups.accesskey       "E">
+
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Iicha no ampe…">
 <!ENTITY  popupExceptions.accesskey   "I">
 
@@ -39,4 +48,4 @@
 
 
 
-<!ENTITY  playDRMContent.learnMore.label "Sánteru mítini">
+

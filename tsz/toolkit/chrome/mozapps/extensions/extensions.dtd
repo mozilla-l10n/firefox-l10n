@@ -21,14 +21,14 @@
 <!ENTITY cmd.forward.tooltip                  "Uanajchakuni ma eranharhikua">
 
 
+
+
 <!-- global warnings -->
 
 
 
 
 
-
-<!-- global informations -->
 
 <!-- categories / views -->
 
@@ -88,8 +88,6 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Kéntitani">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Erakuani">
 
 
@@ -203,5 +201,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
 
 

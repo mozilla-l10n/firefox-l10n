@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Erakuni ukua">
+
 <!ENTITY ChooseApp.label "K´umanharhitani…">
 <!ENTITY ChooseApp.accessKey "K">
+

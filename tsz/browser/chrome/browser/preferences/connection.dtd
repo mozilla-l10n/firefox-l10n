@@ -4,8 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "Sesi jatsintani anchitarakua">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+
+
 
 <!ENTITY  proxyTitle.label              "Sesi jatsintani proxies pari uni urhani anchitarakua internet">
 <!ENTITY  noProxyTypeRadio.label        "No proxy">

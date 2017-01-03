@@ -2,14 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
+
 <!ENTITY tracking.label                 "Chuxatapani">
 
-<!ENTITY dntTrackingNotOkay.label2      "Ásïjsïni chúxapa, ísï aiankpexaka">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
 
 
 
-<!ENTITY doNotTrackInfo.label           "Sánteru mítini">
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
 
 
 <!ENTITY  locationBar.label             "Marhuatatarakuecha">
@@ -23,11 +34,12 @@
 
 
 
+
+
 <!ENTITY  acceptCookies.label           "Jaiepanhikuantaani">
 <!ENTITY  acceptCookies.accesskey       "J">
 
-<!ENTITY  acceptThirdParty.pre.label      "Jimini jatsïani:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "J">
+
 <!ENTITY  acceptThirdParty.always.label   "Enka jamperi">
 <!ENTITY  acceptThirdParty.never.label    "Nóteru uétarhiakia">
 <!ENTITY  acceptThirdParty.visited.label  "P’urhengorheni uératini">
@@ -36,7 +48,6 @@
 
 <!ENTITY  expire.label                  "nóteru uétarhiakia">
 <!ENTITY  close.label                   "Míkantsï &brandShortName;">
-<!ENTITY  askEachTime.label             "aurhamaririni méntkisï">
 
 <!ENTITY  cookieExceptions.label        "Ariichani nómpe…">
 <!ENTITY  cookieExceptions.accesskey    "A">
@@ -84,3 +95,9 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Xerpetarakua…">
 <!ENTITY  clearOnCloseSettings.accesskey "X">
+
+
+
+
+
+

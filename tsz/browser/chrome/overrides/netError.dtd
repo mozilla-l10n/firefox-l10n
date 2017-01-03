@@ -5,6 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY retry.label "Ménteru úntsï">
+
+
 <!-- Specific error messages -->
 
 
@@ -15,7 +17,11 @@
 
 
 
+
 <!ENTITY generic.title "Oops.">
+
+
+
 
 
 
@@ -46,6 +52,9 @@
 
 
 
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 
@@ -53,29 +62,27 @@
 
 
 
-
-
-
-
-
-
-<!ENTITY securityOverride.getMeOutOfHereButton "Petan'tarhini ixu">
 <!ENTITY securityOverride.exceptionButtonLabel "Kuparhatani eranharhikua…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
 
 
 
 
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
-
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
 
