@@ -6,7 +6,7 @@
 <!ENTITY aboutAccounts.connected "החשבון מחובר">
 
 <!ENTITY aboutAccountsConfig.description "התחבר כדי לסנכרן את הלשוניות, הססמאות ושאר ההגדרות שלך.">
-<!ENTITY aboutAccountsConfig.startButton.label "בוא ונתחיל">
+<!ENTITY aboutAccountsConfig.startButton.label "בואו ונתחיל">
 <!ENTITY aboutAccountsConfig.useOldSync.label "משתמשים בגרסה ישנה יותר של Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "העדפות Sync">
 <!ENTITY aboutAccounts.noConnection.title "אין חיבור">
