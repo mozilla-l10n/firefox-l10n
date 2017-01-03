@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Wuwijarske rědy">
-<!ENTITY devtoolsMenu.accesskey "u">
 <!ENTITY devToolboxCmd.label "Wuwijarski rědowy kašćik">
 <!ENTITY devToolboxCmd.accesskey "r">
 <!ENTITY devToolboxCmd.commandkey "i">
