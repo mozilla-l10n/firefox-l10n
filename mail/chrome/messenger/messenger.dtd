@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "ح">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "أدوات المطورين">
-<!ENTITY devtoolsMenu.accesskey "ط">
 <!ENTITY devToolboxCmd.label "صندوق أدوات المطورين">
 <!ENTITY devToolboxCmd.accesskey "ص">
 <!ENTITY devToolboxCmd.commandkey "i">
