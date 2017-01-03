@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "P">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Fejlesztőeszközök">
-<!ENTITY devtoolsMenu.accesskey "F">
 <!ENTITY devToolboxCmd.label "Fejlesztői eszköztár">
 <!ENTITY devToolboxCmd.accesskey "z">
 <!ENTITY devToolboxCmd.commandkey "i">
