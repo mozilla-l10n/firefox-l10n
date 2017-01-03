@@ -33,3 +33,12 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Kryeje">
 <!ENTITY aboutNetworking.dnsDomain             "Përkatësi">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-ra">
+<!ENTITY aboutNetworking.currentLogFile        "Kartela Regjistër e Tanishme:">
+<!ENTITY aboutNetworking.currentLogModules     "Module të Tanishëm Regjistrimi:">
+<!ENTITY aboutNetworking.logTutorial           "Për udhëzime se si të përdoret ky mjet, shihni <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
+<!ENTITY aboutNetworking.logging               "Regjistrim">
+<!ENTITY aboutNetworking.setLogFile            "Caktoni Kartelë Regjistër">
+<!ENTITY aboutNetworking.setLogModules         "Caktoni Module Regjistrimi">
+<!ENTITY aboutNetworking.startLogging          "Filloje Regjistrimin">
+<!ENTITY aboutNetworking.stopLogging           "Ndal Regjistrimin">
+

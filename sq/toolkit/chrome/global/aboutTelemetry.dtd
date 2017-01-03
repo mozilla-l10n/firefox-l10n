@@ -100,6 +100,9 @@ Ping
   Skalarë
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Skalarë Me Fjalëkyçe
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histograme

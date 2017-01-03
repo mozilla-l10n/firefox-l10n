@@ -232,3 +232,6 @@
 <!ENTITY showAllExtensions.button.label       "Shfaqi krejt zgjerimet">
 <!ENTITY debugAddons.label                    "Diagnostikoni Shtesa">
 <!ENTITY debugAddons.accesskey                "D">
+
+<!ENTITY pluginDeprecation.description "Mos mungon gjë? Disa shtojca nuk mbulohen më nga &brandShortName;-i.">
+<!ENTITY pluginDeprecation.learnMore "Mësoni Më Tepër.">
