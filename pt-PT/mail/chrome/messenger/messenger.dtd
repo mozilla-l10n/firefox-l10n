@@ -495,8 +495,6 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "n">
 <!-- Developer Tools Submenu -->
 
-<!ENTITY devtoolsMenu.label "Ferramentas de desenvolvimento">
-<!ENTITY devtoolsMenu.accesskey "o">
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas do programador">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "t">
