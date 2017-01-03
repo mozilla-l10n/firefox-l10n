@@ -45,8 +45,8 @@
                                            
 <!ENTITY  errorpatching.intro             "אין אפשרות ליישם את העדכון החלקי. &brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; לא הצליח לגלות אם יש עדכון זמין. אנא 
-ודא שיש לך את הגרסה העדכנית ביותר של &brandShortName; דרך:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; לא הצליח לקבוע אם יש עדכון זמין. נא
+                                           לוודא כי ברשותך הגרסה העדכנית ביותר של &brandShortName; דרך:">
 
 <!ENTITY  finishedPage.title              "עדכון מוכן להתקנה">
 <!ENTITY  finishedPage.text               "עדכון זה יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
