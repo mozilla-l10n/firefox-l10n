@@ -242,7 +242,7 @@
 
 <!ENTITY pref_cookies_menu "Бисквитки">
 <!ENTITY pref_cookies_accept_all "Разрешени">
-<!ENTITY pref_cookies_not_accept_foreign "Разрешени, с изключение на 3-ти страни">
+<!ENTITY pref_cookies_not_accept_foreign "Разрешени, без 3-ти страни">
 <!ENTITY pref_cookies_disabled "Забранени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -403,8 +403,8 @@ size. -->
 <!ENTITY pref_vendor_faqs "Въпроси и отговори">
 <!ENTITY pref_vendor_feedback "Даване на обратна връзка">
 
-<!ENTITY pref_dialog_set_default "Избиране като стандартен">
-<!ENTITY pref_dialog_default "Стандартен">
+<!ENTITY pref_dialog_set_default "Избиране като стандартна">
+<!ENTITY pref_dialog_default "Стандартна">
 <!ENTITY pref_dialog_remove "Премахване">
 
 <!ENTITY pref_search_last_toast "Не може да премахнете или изключите последната търсеща машина.">
@@ -506,7 +506,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Редактиране">
 <!ENTITY contextmenu_top_sites_pin "Закачане на сайта">
 <!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните сайтове">
-<!ENTITY contextmenu_add_search_engine "Добавяне на търсеща машина">
+<!ENTITY contextmenu_add_search_engine "Добавяне на търсачка">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -698,7 +698,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "Изтегляне на &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Грешка при изтегляне">
-<!ENTITY updater_downloading_select2 "Докоснете за инсталиране след изтеглянето">
+<!ENTITY updater_downloading_select2 "Докоснете за инсталиране след това">
 <!ENTITY updater_downloading_retry2 "Докоснете за нов опит">
 
 <!ENTITY updater_apply_title2 "Налично е обновяване на &brandShortName;">
