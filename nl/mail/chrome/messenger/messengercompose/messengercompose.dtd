@@ -78,13 +78,13 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "l">
+<!ENTITY editRewrapCmd.accesskey "f">
 <!ENTITY deleteCmd.label "Verwijderen">
 <!ENTITY deleteCmd.accesskey "V">
-<!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
+<!ENTITY editRewrapCmd.label "Opnieuw afbreken">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Bijlage hernoemen…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "B">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
