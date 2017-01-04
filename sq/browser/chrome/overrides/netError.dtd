@@ -50,6 +50,13 @@
 <p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
 ">
 
+<!ENTITY captivePortal.title "Hyni në rrjet">
+<!ENTITY captivePortal.longDesc "
+<p>Ky rrjet mund të kërkojë që të bëni hyrjen, pa të mund të përdorni internetin.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Hapni Faqe Hyrjesh">
+
 <!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
 <!ENTITY malformedURI.longDesc "
 <ul>
