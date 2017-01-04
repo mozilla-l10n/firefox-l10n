@@ -59,6 +59,7 @@
 <!ENTITY wordWrap.label                '"Τύλιγμα" Κειμένου'>
 <!ENTITY wordWrap.accesskey            "Τ">
 
+<!ENTITY highlightTrailingSpace.label     "Επισήμανση επακόλουθου κενού">
 <!ENTITY highlightTrailingSpace.accesskey "Ε">
 
 <!ENTITY largerFont.label             "Μεγαλύτερη γραμματοσειρά">

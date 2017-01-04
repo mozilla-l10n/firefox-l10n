@@ -11,15 +11,20 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "Νέο">
+<!ENTITY newButton.accesskey        "Ν">
 
 <!ENTITY importButton.label         "Εισαγωγή…">
+<!ENTITY importButton.accesskey     "Ε">
 
 
 <!ENTITY saveButton.label           "Αποθήκευση">
+<!ENTITY saveButton.accesskey       "Α">
 
+<!ENTITY optionsButton.tooltip      "Επιλογές επεξεργασίας στυλ">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.label     "Εμφάνιση αρχικών πηγών">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
