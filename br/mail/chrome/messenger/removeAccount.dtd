@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
+<!ENTITY dialogTitle                  "Dilemel ar gont hag ar roadennoù">
+<!ENTITY removeButton.label           "Lemel">
+<!ENTITY removeButton.accesskey       "L">
+<!ENTITY removeAccount.label          "Lemel titouroù ar gont">
+<!ENTITY removeAccount.accesskey      "g">
+<!ENTITY removeAccount.desc           "Dilemel ar pezh a oa &brandShortName; diwar-benn ar gont-mañ nemetken. N'eus efed ebet war ar gont he-unan war an dafariad.">
+<!ENTITY removeData.label             "Lemel roadennoù a gont">
+<!ENTITY removeData.accesskey         "g">
 
 
 
