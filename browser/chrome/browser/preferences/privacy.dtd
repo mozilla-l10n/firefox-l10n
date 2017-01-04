@@ -110,3 +110,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Mësoni më tepër">
 <!ENTITY  browserContainersEnabled.label        "Aktivizoni Skeda Kontejneri">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Rregullime…">
+<!ENTITY  browserContainersSettings.accesskey    "R">
