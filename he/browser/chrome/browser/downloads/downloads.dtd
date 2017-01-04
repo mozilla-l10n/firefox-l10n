@@ -61,8 +61,9 @@
 <!ENTITY cmd.copyDownloadLink.label       "העתקת כתובת הורדה">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ע">
 <!ENTITY cmd.removeFromHistory.label      "הסרה מההיסטוריה">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.accesskey  "ט">
 <!ENTITY cmd.clearList2.label             "ניקוי חלונית תצוגה מקדימה">
+<!ENTITY cmd.clearList2.accesskey         "ח">
 <!ENTITY cmd.clearDownloads.label         "ניקוי רשימת ההורדות">
 <!ENTITY cmd.clearDownloads.accesskey     "ה">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
