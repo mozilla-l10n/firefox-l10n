@@ -71,7 +71,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Kaɓirgol Seŋiima">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Winndito">
+<!ENTITY setup.signInPage.title.label "Seŋo">
 <!ENTITY existingRecoveryKey.description "Aɗa waawi heɓde tummbitare Kelal maa Yiytorde so a hahii to Cuɓe &syncBrand.shortName.label; e kaɓirgol maa, labo-ɗaa &quot;Kelal Yiytorde  Am&quot; les &quot;Toppito Konte&quot;.">
 <!ENTITY verifying.label              "Nana ƴeewtoo…">
 <!ENTITY resetPassword.label          "Waklit Finnde">
