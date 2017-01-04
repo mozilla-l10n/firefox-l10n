@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Својства">
+<!ENTITY propertiesMenu.accesskey                       "ј">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Својства именика">
+<!ENTITY abPropertiesMenu.accesskey                     "и">
+<!ENTITY contactPropertiesMenu.label                    "Својства контакта">
+<!ENTITY contactPropertiesMenu.accesskey                "ј">
+<!ENTITY mailingListPropertiesMenu.label                "Својства дописне листе">
+<!ENTITY mailingListPropertiesMenu.accesskey            "и">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Преглед">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "к">
 <!ENTITY newlistButton.label                            "Нови списак">
 <!ENTITY newlistButton.accesskey                        "с">
+<!ENTITY editPropertiesButton.label                     "Уреди">
+<!ENTITY propertiesContext.label                        "Својства">
+<!ENTITY propertiesContext.accesskey                    "ј">
+<!ENTITY abPropertiesContext.label                      "Својства">
+<!ENTITY abPropertiesContext.accesskey                  "ј">
+<!ENTITY editContactContext.label                       "Уреди контакт">
+<!ENTITY editContactContext.accesskey                   "е">
+<!ENTITY editMailingListContext.label                   "Уреди списак">
+<!ENTITY editMailingListContext.accesskey               "е">
 <!ENTITY newmsgButton.label                             "Писање">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Инстант порука">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Направи нови контакт у именику">
 <!ENTITY newlistButton.tooltip                          "Направи нови списак">
+<!ENTITY editPropertiesButton.tooltip                   "Уреди изабрану ставку">
+<!ENTITY editAbPropertiesButton.tooltip                 "Уреди својства изабраног именика">
+<!ENTITY editContactPropertiesButton.tooltip            "Уреди изабрани контакт">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Уреди изабрану дописну листу">
 <!ENTITY newmsgButton.tooltip                           "Пошаљи е-поруку">
 <!ENTITY newIM.tooltip                                  "Пошаљи инстант поруку или ћаскај">
 <!ENTITY deleteButton2.tooltip                          "Обриши изабрану ставку">

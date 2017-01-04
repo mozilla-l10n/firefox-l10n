@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Укључено">
 <!ENTITY newButton.label "Нови…">
 <!ENTITY newButton.accesskey "Н">
+<!ENTITY newButton.popupCopy.label "Копирај…">
+<!ENTITY newButton.popupCopy.accesskey "К">
 <!ENTITY editButton.label "Уреди…">
 <!ENTITY editButton.accesskey "У">
 <!ENTITY deleteButton.label "Обриши">
