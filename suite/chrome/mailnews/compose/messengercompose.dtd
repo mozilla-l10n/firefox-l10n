@@ -42,9 +42,9 @@
 <!ENTITY sendLaterCmd.accesskey "z">
 
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
+<!ENTITY editRewrapCmd.label "Opnieuw afbreken">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "l">
+<!ENTITY editRewrapCmd.accesskey  "f">
 <!ENTITY accountManagerCmd.label "Accountinstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 
@@ -119,7 +119,7 @@
 <!ENTITY addressButton.tooltip "Een ontvanger uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
-<!ENTITY stopButton.tooltip "De huidige overdracht stoppen"> 
+<!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Openen">
