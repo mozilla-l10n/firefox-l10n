@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Importeerassistent">
+<!ENTITY migrationWizard.title          "Importeerwizard">
 
 <!ENTITY importFromWin.label            "Opties, accountinstellingen, adresboek, filters en andere gegevens importeren uit:">
 <!ENTITY importFromNonWin.label         "Voorkeuren, accountinstellingen, adresboek en andere gegevens importeren uit:">
