@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Својства">
+<!ENTITY propertiesMenu.accesskey           "ј">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Својства именика">
+<!ENTITY abPropertiesMenu.accesskey         "и">
+<!ENTITY contactPropertiesMenu.label        "Својства контакта">
+<!ENTITY contactPropertiesMenu.accesskey    "ј">
+<!ENTITY mailingListPropertiesMenu.label    "Својства дописне листе">
+<!ENTITY mailingListPropertiesMenu.accesskey "и">
 
 <!ENTITY addressbookPicker.label            "Именик:">
 <!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY searchContacts.label               "Претражи контакте:">
+<!ENTITY searchContacts.accesskey           "н">
 <!ENTITY SearchNameOrEmail.label            "Име или е-адреса">
 
 <!ENTITY addtoToFieldMenu.label             "Додај у поље">
@@ -15,6 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "с">
 <!ENTITY deleteAddrBookCard.label           "Обриши">
 <!ENTITY deleteAddrBookCard.accesskey       "О">
+<!ENTITY propertiesContext.label            "Својства">
+<!ENTITY propertiesContext.accesskey        "ј">
+<!ENTITY abPropertiesContext.label          "Својства">
+<!ENTITY abPropertiesContext.accesskey      "ј">
+<!ENTITY editContactContext.label           "Уреди контакт">
+<!ENTITY editContactContext.accesskey       "У">
+<!ENTITY editMailingListContext.label       "Уреди списак">
+<!ENTITY editMailingListContext.accesskey   "е">
 
 <!ENTITY toButton.label                     "Додај у За:">
 <!ENTITY toButton.accesskey                 "Д">
