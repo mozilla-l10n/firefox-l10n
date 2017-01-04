@@ -54,10 +54,10 @@
 <!ENTITY cellStyle.accessKey              "s">
 <!ENTITY cellNormal.label                 "Normaal">
 <!ENTITY cellHeader.label                 "Kop">
-<!ENTITY cellTextWrap.label               "Tekstuitlijning:">
+<!ENTITY cellTextWrap.label               "Tekstterugloop:">
 <!ENTITY cellTextWrap.accessKey           "l">
-<!ENTITY cellWrap.label                   "Uitlijnen">
-<!ENTITY cellNoWrap.label                 "Niet uitlijnen">
+<!ENTITY cellWrap.label                   "Teruglopen">
+<!ENTITY cellNoWrap.label                 "Niet teruglopen">
 <!ENTITY cellAlignTop.label               "Boven">
 <!ENTITY cellAlignMiddle.label            "Gecentreerd">
 <!ENTITY cellAlignBottom.label            "Onder">
