@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Уклони налог и податке">
+<!ENTITY removeButton.label           "Уклони">
+<!ENTITY removeButton.accesskey       "У">
+<!ENTITY removeAccount.label          "Уклони податке налога">
+<!ENTITY removeAccount.accesskey      "а">
+<!ENTITY removeAccount.desc           "Уклања само знање &brandShortName;-а о овом налогу. Не мења сам налог на серверу.">
+<!ENTITY removeData.label             "Уклони податке поруке">
+<!ENTITY removeData.accesskey         "д">
+<!ENTITY showData.label               "Прикажи место података">
+<!ENTITY showData.accesskey           "с">
+<!ENTITY progressPending              "Уклањам изабране податке…">
+<!ENTITY progressSuccess              "Уклањање је успело.">
+<!ENTITY progressFailure              "Уклањање није успело.">

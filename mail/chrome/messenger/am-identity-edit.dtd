@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Копије и фасцикле">
 <!ENTITY addressingTab.label    "Састављање и адресирање">
 
+<!ENTITY publicData.label        "Јавни подаци">
+<!ENTITY privateData.label       "Приватни подаци">
+<!ENTITY identityAlias.label     "Етикета идентитета:">
+<!ENTITY identityAlias.accesskey "к">
