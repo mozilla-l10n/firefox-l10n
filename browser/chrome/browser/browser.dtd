@@ -273,8 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Ɓ">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Dokkotooɗo Geese">
-<!ENTITY webDeveloperMenu.accesskey   "D">
+<!ENTITY webDeveloperMenu.label       "Topagol Geese">
+<!ENTITY webDeveloperMenu.accesskey   "T">
 
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
