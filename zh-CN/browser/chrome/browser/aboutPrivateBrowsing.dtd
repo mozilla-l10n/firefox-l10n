@@ -8,10 +8,10 @@
 
 <!ENTITY privateBrowsing.title                           "隐私浏览模式">
 <!ENTITY privateBrowsing.title.tracking                  "隐私浏览模式加上跟踪保护功能">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "当您在隐私窗口中浏览时，Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "当您在隐私浏览窗口中浏览时，Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "不会保存">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        "：">
-<!ENTITY aboutPrivateBrowsing.info.visited               "已访问的页面">
+<!ENTITY aboutPrivateBrowsing.info.visited               "访问过的页面">
 <!ENTITY aboutPrivateBrowsing.info.searches              "搜索记录">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "临时文件">
