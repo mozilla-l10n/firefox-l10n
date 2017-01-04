@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title           "Importeerassistent">
+<!ENTITY migrationWizard.title           "Importeerwizard">
 
 <!ENTITY importAllFrom.label             "Alle items importeren uit:">
 <!ENTITY importBookmarksFrom.label       "Bladwijzers importeren uit:">
