@@ -207,29 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Nungu alhabar guna">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Alhabar fasaldoo feeri">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Gorodoo hãayan fasaldoo feeri">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Tontoni sinjiyan alhabar fasaldoo feeri">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Bila nda interneti jišiyan alhabar fasaldoo feeri">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Šennikufal gaabu alhabar fasaldoo feeri">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sukari goyyan juwal">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "War jindezaahayaa žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "War zanfuney nda dijey žemnayanoo nda nungoo juwal">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Sinjiyan alhabar fasaldoo feeri">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Moɲoo woo berandi">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Moo berandiyano juwal">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM goyjinay juwal alhakey juwal">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "War na war biizaahayaa gagay interneti nungoo woo se.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "War na war mikrowoo gagay interneti nungoo woo se.">
+<!ENTITY urlbar.screenBlocked.tooltip            "War na interneti nungoo woo gagay nd'a ma war dijoo zemni.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "War na gorodoo alhabar gagay interneti nungoo woo se.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "War na bayhaya jišiyan gagay interneti nungoo woo se.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "War na bangandiyaney gagay interneti nungoo woo se.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taariki cebe">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Azzaati dimma yeeti">
 
 <!ENTITY searchItem.title             "Ceeci">
 <!-- Toolbar items --> 
@@ -389,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Ceeci wala aderesu dam">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Dobuyan:">
 <!ENTITY urlbar.switchToTab.label     "Bere kanjoo ga:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "War ga boona ka war ceeciyan goyoo boryandi nda honnandiyaney?">
@@ -453,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ceeciyan kayandiyaney barmay">
-
+<!ENTITY changeSearchSettings.tooltip "Ceeciyan kayandiyaney barmay">
 
 <!ENTITY searchInNewTab.label         "Ceeci kanji taaga ra">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -472,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Kunga feeri zanfun taaga ra">
 <!ENTITY openFrameCmd.accesskey       "z">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Dobu feeri sun kanji taaga ra">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Kungaa woo de cebe">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -692,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "t">
 
 <!ENTITY editBookmark.done.label                     "Ben">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ciyari moora">
 <!ENTITY identity.connectionNotSecure "Ciyaroo manti saajante">
@@ -732,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Duɲeyaney">
 <!ENTITY identity.permissionsEmpty "War mana cerecere duɲeyan kul noo nungoo woo se.">
-
+<!ENTITY identity.permissionsReloadHint "War ma moɲoo zumandi taaga ka barmawey kanandi.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
