@@ -189,7 +189,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa memaa e maanndel &formatI; ngel.">
+<!ENTITY pref_search_hint2 "ƳOƳEL: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa memaa e maanndel &formatI; ngel.">
 <!ENTITY pref_category_advanced "Ceeɓtore">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
