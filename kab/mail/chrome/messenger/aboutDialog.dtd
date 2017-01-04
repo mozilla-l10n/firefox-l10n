@@ -15,7 +15,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; d armitan yerna ur yerkid ara.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Iţazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; i wakken ad yefk tallalt n usnerni n &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Ittazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; i wakken ad yefk tallalt n usnerni n &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
