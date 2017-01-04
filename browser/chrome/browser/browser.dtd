@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "镜像标签页">
+<!ENTITY mirrorTabCmd.label "投射标签页">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "已控制您的指针。按 Esc 键收回控制权。">
-<!ENTITY pointerlockWarning.generic.label "此文档已控制您的指针。按 Esc 键收回控制权。">
+<!ENTITY pointerlockWarning.afterDomain.label "已控制您的鼠标指针。按 Esc 键可收回控制权。">
+<!ENTITY pointerlockWarning.generic.label "此文档已控制您的鼠标指针。按 Esc 键可收回控制权。">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "搜索或输入网址">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "扩展：">
 <!ENTITY urlbar.switchToTab.label     "切换到标签页：">
 
