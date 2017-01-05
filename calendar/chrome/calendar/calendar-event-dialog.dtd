@@ -18,8 +18,8 @@
 <!ENTITY newevent.todoStatus.cancelled.label      "खारिज" >
 
 
-
-
+<!ENTITY newevent.status.confirmed.label          "पुष्टि" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
 
 <!ENTITY newevent.status.inprogress.label         "प्रक्रिया में" >
 <!ENTITY newevent.status.completed.label          "इसपर समाप्त" >
@@ -31,9 +31,9 @@
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
-
-
+<!ENTITY event.attendees.notifyundisclosed.label     "प्रत्येक सहभागी को अलग-अलग आमंत्रण">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "यह विकल्प हर सहभागी को एक आमंत्रण ईमेल भेजता है प्रत्येक आमंत्रण सिर्फ़ प्राप्तकर्ता सहभागी की ही जानकारी रखता है ताकि अन्य सहभागी की जानकारी का खुलासा ना हो">
 
 
 
