@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.requestHelp "Желите да нам помогнете?">
 <!ENTITY tabCrashed.requestHelpMessage "Извештаји о рушењу нам могу помоћи да откријемо проблеме и учинимо &brandShortName; бољим.">
 <!ENTITY tabCrashed.requestReport "Пријави овај језичак">
-<!ENTITY tabCrashed.sendReport2 "Пошаљи извештај о рушењу тренутког језичака којег гледате">
+<!ENTITY tabCrashed.sendReport2 "Пошаљи извештај о рушењу тренутног језичака којег гледате">
 <!ENTITY tabCrashed.commentPlaceholder2 "Опциони коментари (коментари су свима видљиви)">
 <!ENTITY tabCrashed.includeURL2 "Укључи URL странице у извештај о рушењу">
 <!ENTITY tabCrashed.emailPlaceholder "Унесите адресу е-поште овде">
