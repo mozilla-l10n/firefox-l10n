@@ -630,7 +630,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "שנה גודל טקסט בלבד">
+<!ENTITY fullZoomToggleCmd.label        "שינוי גודל טקסט בלבד">
 <!ENTITY fullZoomToggleCmd.accesskey    "ט">
 <!ENTITY fullZoom.label                 "מרחק מתצוגה">
 <!ENTITY fullZoom.accesskey             "ת">
@@ -661,7 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "סגנון דף בסיסי">
 <!ENTITY pageStylePersistentOnly.accesskey "ס">
 
-<!ENTITY pageReportIcon.tooltip            "שנה הגדרות חסימת חלונות קופצים עבור אתר זה">
+<!ENTITY pageReportIcon.tooltip            "שינוי הגדרות חסימת חלונות קופצים עבור אתר זה">
 
 <!ENTITY allowPopups.accesskey "ח">
 <!-- On Windows we use the term "Options" to describe settings, but

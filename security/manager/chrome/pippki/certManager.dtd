@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "טביעת אצבע SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "טביעת אצבע SHA1">
 
-<!ENTITY certmgr.editcacert.title             "ערוך הגדרות אמון באישור של רשות אישורים">
-<!ENTITY certmgr.editcert.edittrust           "ערוך הגדרות אמון:">
+<!ENTITY certmgr.editcacert.title             "עריכת הגדרות אמון באישור של רשות אישורים">
+<!ENTITY certmgr.editcert.edittrust           "עריכת הגדרות אמון:">
 <!ENTITY certmgr.editcert.trustssl            "אישור זה יכול לזהות אתרים.">
 <!ENTITY certmgr.editcert.trustemail          "אישור זה יכול לזהות משתמשי דואר.">
 <!ENTITY certmgr.editcert.trustobjsign        "אישור זה יכול לזהות יצרני תוכנה.">
@@ -55,7 +55,7 @@
 <!ENTITY certmgr.close.accesskey              "ס">
 <!ENTITY certmgr.view2.label                  "תצוגה…">
 <!ENTITY certmgr.view2.accesskey              "ת">
-<!ENTITY certmgr.edit3.label                  "ערוך אמון…">
+<!ENTITY certmgr.edit3.label                  "עריכת אמון…">
 <!ENTITY certmgr.edit3.accesskey              "ע">
 <!ENTITY certmgr.export.label                 "יצא…">
 <!ENTITY certmgr.export.accesskey             "י">
@@ -74,10 +74,10 @@
 <!ENTITY certmgr.fields.label                 "ערך השדה">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "היררכיית אישור">
-<!ENTITY certmgr.addException.label           "הוסף חריגה…">
+<!ENTITY certmgr.addException.label           "הוספת חריגה…">
 <!ENTITY certmgr.addException.accesskey       "ח">
 
-<!ENTITY exceptionMgr.title                   "הוסף חריגת אבטחה">
+<!ENTITY exceptionMgr.title                   "הוספת חריגת אבטחה">
 <!ENTITY exceptionMgr.exceptionButton.label   "אמת חריגת אבטחה">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "א">
 <!ENTITY exceptionMgr.supplementalWarning     "בנקים, חנויות ואתרים לגיטימיים אחרים לא יבקשו ממך לעשות זאת.">

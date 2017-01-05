@@ -7,8 +7,8 @@
 <!ENTITY startupPage.label         "כאשר &brandShortName; מופעל:">
 <!ENTITY startupPage.accesskey     "מ">
 <!ENTITY startupHomePage.label     "להציג את דף הבית שלי">
-<!ENTITY startupBlankPage.label    "הצגת דף ריק">
-<!ENTITY startupLastSession.label  "הצגת החלונות והלשוניות שלי מהפעם האחרונה">
+<!ENTITY startupBlankPage.label    "להציג דף ריק">
+<!ENTITY startupLastSession.label  "להציג את החלונות והלשוניות שלי מהפעם האחרונה">
 
 <!ENTITY homepage.label            "דף בית:">
 <!ENTITY homepage.accesskey        "ד">

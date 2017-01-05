@@ -10,7 +10,7 @@
 <!ENTITY redoCmd.label             "בצע שוב">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "צ">
-<!ENTITY cutCmd.label              "גזור">
+<!ENTITY cutCmd.label              "גזירה">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "ג">
 <!ENTITY copyCmd.label             "העתקה">

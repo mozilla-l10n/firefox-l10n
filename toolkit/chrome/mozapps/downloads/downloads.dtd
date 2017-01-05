@@ -33,7 +33,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.accesskey   "ע">
 <!ENTITY cmd.copyDownloadLink.label       "העתקת קישור הורדה">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ק">
-<!ENTITY cmd.removeFromList.label         "הסר מהרשימה">
+<!ENTITY cmd.removeFromList.label         "הסרה מהרשימה">
 <!ENTITY cmd.removeFromList.accesskey     "ה">
 
 <!ENTITY cmd.close.commandKey             "w">
