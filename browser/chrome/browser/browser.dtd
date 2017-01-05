@@ -343,8 +343,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Heertin">
 <!ENTITY appMenuCustomize.tooltip "Heertin Dosol e Palal Kuutorɗe">
-<!ENTITY appMenuCustomizeExit.label "Yaltu heertannde">
-<!ENTITY appMenuCustomizeExit.tooltip "Gasnu heertannde">
+<!ENTITY appMenuCustomizeExit.label "Yaltu Keertingol">
+<!ENTITY appMenuCustomizeExit.tooltip "Gasnu Keertingol">
 <!ENTITY appMenuHistory.label "Aslol">
 <!ENTITY appMenuHistory.showAll.label "Hollu Asli ɗii Fof">
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
