@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "שימוש בססמה ראשית">
 <!ENTITY  useMasterPassword.accesskey    "ש">
-<!ENTITY  changeMasterPassword.label     "שנה ססמה ראשית…">
+<!ENTITY  changeMasterPassword.label     "שינוי ססמה ראשית…">
 <!ENTITY  changeMasterPassword.accesskey "נ">
 
 <!ENTITY  savedLogins.label              "התחברויות שמורות…">

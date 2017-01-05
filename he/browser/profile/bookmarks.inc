@@ -11,7 +11,7 @@
 #define bookmarks_heading סימניות
 
 #define bookmarks_toolbarfolder סרגל כלים סימניות
-#define bookmarks_toolbarfolder_description הוסף סימניות לתיקייה זה כדי להציגן בסרגל הכלים סימניות
+#define bookmarks_toolbarfolder_description ניתן להוסיף סימניות לתיקייה זו כדי להציגן בסרגל הכלים סימניות
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

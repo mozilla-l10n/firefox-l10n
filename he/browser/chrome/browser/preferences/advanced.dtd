@@ -102,7 +102,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "הסר...">
 <!ENTITY offlineAppsListRemove.accesskey "ה">
-<!ENTITY offlineAppRemove.confirm        "הסר נתונים לא מקוונים">
+<!ENTITY offlineAppRemove.confirm        "הסרת נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
 <!ENTITY certSelection.label             "בקשות">

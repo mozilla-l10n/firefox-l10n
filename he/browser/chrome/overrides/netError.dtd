@@ -150,7 +150,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג דף זה מכיון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי לדווח להם על בעיה זו.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
+<!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
 
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה מסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
