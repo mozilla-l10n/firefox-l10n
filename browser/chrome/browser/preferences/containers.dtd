@@ -15,7 +15,7 @@
 <!ENTITY name.accesskey       "И">
 <!ENTITY icon.label           "Иконица:">
 <!ENTITY icon.accesskey       "к">
-<!ENTITY color.label          "Боја">
+<!ENTITY color.label          "Боја:">
 <!ENTITY color.accesskey      "о">
 <!ENTITY windowClose.key      "w">
 
