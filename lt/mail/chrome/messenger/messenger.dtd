@@ -495,9 +495,9 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "P">
 <!-- Developer Tools Submenu -->
 
-
-
-
+<!ENTITY devToolboxCmd.label "Programuotojo juosta">
+<!ENTITY devToolboxCmd.accesskey "g">
+<!ENTITY devToolboxCmd.commandkey "i">
 
 
 
@@ -523,7 +523,7 @@
 <!ENTITY forwardButton.label "Persiųsti">
 <!ENTITY fileButton.label "Perkelti">
 <!ENTITY archiveButton.label "Archyvuoti">
-
+<!ENTITY openConversationButton.label "Diskusija">
 <!ENTITY nextButton.label "Tolesnis">
 <!ENTITY nextButtonToolbarItem.label "Tolesnis neskaitytas">
 <!ENTITY nextMsgButton.label "Tolesnis">
