@@ -421,7 +421,7 @@ size. -->
 <!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;-u ">
 <!ENTITY datareporting_notification_action "Zgjidhni ç’të ndahet me të tjerët">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Zgjidhni ç\u0027të dhëna të ndahen me të tjerët">
+<!ENTITY datareporting_notification_action_long "Zgjidhni ç’të dhëna të ndahen me të tjerët">
 <!ENTITY datareporting_notification_summary "Për përmirësimin e punimit tuaj, &brandShortName;-u dërgon vetvetiu te &vendorShortName; disa të dhëna.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
