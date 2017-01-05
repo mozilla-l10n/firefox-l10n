@@ -65,7 +65,7 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "מ">
 <!ENTITY certmgr.backup2.label                "גבה…">
 <!ENTITY certmgr.backup2.accesskey            "ג">
-<!ENTITY certmgr.backupall2.label             "גבה הכול…">
+<!ENTITY certmgr.backupall2.label             "גיבוי הכל…">
 <!ENTITY certmgr.backupall2.accesskey         "כ">
 <!ENTITY certmgr.restore2.label               "יבא…">
 <!ENTITY certmgr.restore2.accesskey           "י">
