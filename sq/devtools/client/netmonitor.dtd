@@ -218,7 +218,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
-<!ENTITY netmonitorUI.security.warning.cipher     "Shifra e përdorur për fshehtëzimin s’përdoret më dhe është e pasigurt.">
+<!ENTITY netmonitorUI.security.warning.cipher     "Shifrimi i përdorur për fshehtëzimin shkëshillohet dhe është e pasigurt.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
@@ -230,7 +230,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
-<!ENTITY netmonitorUI.security.cipherSuite "Suitë shifre:">
+<!ENTITY netmonitorUI.security.cipherSuite "Suitë shifrimi:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
