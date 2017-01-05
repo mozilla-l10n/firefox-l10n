@@ -566,7 +566,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Persiųsti pažymėtą laišką kaip priedą">
 <!ENTITY fileButton.tooltip "Pažymėtą laišką perkelti į kitą aplanką">
 <!ENTITY archiveButton.tooltip "Perkelti pažymėtus laiškus į archyvą">
-
+<!ENTITY openConversationButton.tooltip "Atverti pažymėtą laišką diskusijoje">
 <!ENTITY nextButton.tooltip "Pereiti prie tolesnio neskaityto laiško">
 <!ENTITY nextMsgButton.tooltip "Pereiti prie tolesnio laiško">
 <!ENTITY previousButton.tooltip "Pereiti prie ankstesnio neskaityto laiško">
