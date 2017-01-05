@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Опште">   
-   
-<!ENTITY  warnAddonInstall.label        "Упозори ме ако веб сајтови пробају да инсталирају додатке">
+<!ENTITY  general.label                 "Опште">
+
+<!ENTITY  warnAddonInstall.label        "Упозори ме кад веб сајтови покушавају да инсталирају додатке">
 <!ENTITY  warnAddonInstall.accesskey    "У">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
