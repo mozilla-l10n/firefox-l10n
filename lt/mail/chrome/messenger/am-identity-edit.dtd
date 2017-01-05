@@ -13,6 +13,6 @@
 <!ENTITY addressingTab.label    "Laiškų rašymas ir adresavimas">
 
 <!ENTITY publicData.label        "Vieši duomenys">
-
+<!ENTITY privateData.label       "Asmeniniai duomenys">
 
 
