@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Vardas:">
 <!ENTITY acctName.accesskey       "V">
-
+<!ENTITY noModulesFound.label     "Nerasta nei programa, nei failas iš kurių būtų galima importuoti duomenis.">
 
 <!ENTITY back.label               "&lt; Atgal">
 <!ENTITY forward.label            "Toliau &gt;">

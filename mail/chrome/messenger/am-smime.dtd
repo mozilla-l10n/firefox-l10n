@@ -32,4 +32,6 @@
 <!ENTITY manageDevices.accesskey "a">
 <!-- Strings for the cert picker dialog -->
 
-
+<!ENTITY certPicker.title "Pasirinkite liudijimą">
+<!ENTITY certPicker.info  "Liudijimas:">
+<!ENTITY certPicker.detailsLabel "Pasirinktojo liudijimo duomenys:">
