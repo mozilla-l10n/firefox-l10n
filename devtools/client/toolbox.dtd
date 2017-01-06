@@ -208,9 +208,17 @@
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!ENTITY options.defaultColorUnit.authored "Si e Autorit">
 
-
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "Cungo atribute DOM">
 <!ENTITY options.collapseAttrs.tooltip "Cungo te mbikëqyrësi atribute të gjatë">
+
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Diagnostikues">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Aktivizo Harta Burimesh">
+<!ENTITY options.sourceMaps.tooltip    "Nëse e aktivizoni këtë mundësi, burimet do të shfaqen në hartë te Diagnostikuesi dhe Konsola.">
