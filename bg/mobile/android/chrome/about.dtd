@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "Това е изпитателна версия на &brandShortName; и може да е нестабилна.">
 <!ENTITY aboutPage.telemetryStart               " Автоматично изпраща информация за производителността, хардуера и използваните настройки към ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 ", за да стане &brandShortName; по-добър.">
+<!ENTITY aboutPage.telemetryEnd                 " за подобряване на &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Проверка за обновяване »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Проверяване…">
 <!ENTITY aboutPage.checkForUpdates.none         "Няма налични обновявания">
