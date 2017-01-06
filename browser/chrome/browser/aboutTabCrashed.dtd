@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "أدخل عنوان بريدك الإلكتروني هنا">
 <!ENTITY tabCrashed.emailMe "أرسل لي بريدًا عندما تتوفر مزيد من المعلومات">
 <!ENTITY tabCrashed.reportSent "أُرسلَ تقرير التحطم بالفعل؛ شكرا لمساعدتك في جعل &brandShortName; أفضل.">
-<!ENTITY tabCrashed.requestAutoSubmit "اطلب ألسنة في الخلفية">
+
 <!ENTITY tabCrashed.autoSubmit "حدث التفضيلات لإرسال بلاغات الانهيار المجمعة تلقائيا (و تقليل الرسائل مثل هذه التي تتلقاها منا في المستقبل)">
