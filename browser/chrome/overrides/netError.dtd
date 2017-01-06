@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>">
 
 <!ENTITY captivePortal.title "Logg inn på nettverk">
+<!ENTITY captivePortal.longDesc "<p>Dette nettverket krev kanskje at du loggar inn for å få tilgang til Internett.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Opna innloggingsside">
 
 <!ENTITY malformedURI.title "Adressa er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.example.com/</strong></li> <li>Kontroller at du brukar framover-skråstrek (til dømes <strong>/</strong>).</li> </ul> ">
