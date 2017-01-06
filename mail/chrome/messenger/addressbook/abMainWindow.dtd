@@ -83,6 +83,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Vlastnosti kontaktu">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Vlastnosti rozosielacieho zoznamu">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
@@ -163,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.tooltip                   "Upraviť označenú položku">
 <!ENTITY editAbPropertiesButton.tooltip                 "Upraviť vlastnosti vybratého adresára">
 <!ENTITY editContactPropertiesButton.tooltip            "Upraviť označený kontakt">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Upraviť označený rozosielací zoznam">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">
