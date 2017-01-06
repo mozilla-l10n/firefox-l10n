@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Synchronizacja">
-<!ENTITY aboutAccounts.connected "Synchronizacja">
 <!ENTITY aboutAccountsConfig.description "Zaloguj się, aby synchronizować karty, zakładki i inne rzeczy.">
 <!ENTITY aboutAccountsConfig.startButton.label "Zaloguj się">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Używasz starszej wersji synchronizacji?">
