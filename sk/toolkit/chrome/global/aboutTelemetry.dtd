@@ -58,6 +58,10 @@
   Skaláre
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Kľúčové skaláre
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramy s kľúčom">
