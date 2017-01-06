@@ -18,9 +18,9 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "Vel &tabCrashed.restoreTab; for å lasta inn sideinnhald på nytt.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for lasta inn sideinnhald på nytt.">
 <!ENTITY tabCrashed.requestHelp "Vil du hjelpa oss?">
-
+<!ENTITY tabCrashed.requestHelpMessage "Krasjrapportar hjelper oss med å diagnostisera problem og å gjera &brandShortName; betre.">
 <!ENTITY tabCrashed.requestReport "Rapporter denne fana">
-
+<!ENTITY tabCrashed.sendReport2 "Send ein krasjrapport for fana du ser på">
 
 
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressa di her">
