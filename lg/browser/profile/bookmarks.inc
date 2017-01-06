@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Omuko Ogusangibwako Firefox Azimbibwa Bulikiro
 
 
 # LOCALIZATION NOTE (bugzilla):
@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn Mozilla Developer Network
+#define mdn Omukutu gwa Mozilla owuga ba kakensa
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):
@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools ebigezesa bya omukutu ebya bulunaku
 
 
 # LOCALIZATION NOTE (crashes):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Ebiteteganya omukutu byoona
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Teesa ku kuzimba buli kiro ku IRC
 
 
 # LOCALIZATION NOTE (planet):
@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet Planet Mozilla
+#define planet Ensi ya'Mozilla
 
 
 #unfilter emptyLines

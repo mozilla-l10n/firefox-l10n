@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Oyaniriziddwa ku &syncBrand.shortName.label;">
-
+<!ENTITY aboutAccounts.connected "Akaunta eyungiddwa">
 
 <!ENTITY aboutAccountsConfig.description "Yingira okutusa awaddirira, obulambe, obusumuluzo ne'birala.">
 <!ENTITY aboutAccountsConfig.startButton.label "Tandika">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Kozesa enkola enkade eya Sync?">
 
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "tewali kuyungibwa">
+<!ENTITY aboutAccounts.noConnection.description "Olina okuyungibwa ku mukutu gwa yintaneti okugulawo">
+<!ENTITY aboutAccounts.noConnection.retry "Ddamu ogezeeko">
 
 
