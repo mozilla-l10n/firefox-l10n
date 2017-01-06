@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressen din her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når mer informasjon er tilgjengelig">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allerede sendt; takk for at du hjelper til gjøre &brandShortName; bedre!">
-<!ENTITY tabCrashed.requestAutoSubmit "Forespør bakgrunnsfaner">
+
 <!ENTITY tabCrashed.autoSubmit "Oppdater innstillinger for å automatisk sende inn oppsamlede krasjrapporter (og få færre fremtidige meldinger som dette fra oss)">
