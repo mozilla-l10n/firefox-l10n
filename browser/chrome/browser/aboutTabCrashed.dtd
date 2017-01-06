@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Írja be az e-mail címét">
 <!ENTITY tabCrashed.emailMe "Értesítő e-mailt kérek a további információkról">
 <!ENTITY tabCrashed.reportSent "A hibajelentés már be lett küldve, köszönjük segítségét a &brandShortName; jobbá tételéhez!">
-<!ENTITY tabCrashed.requestAutoSubmit "Háttérben lévő lapok kérése">
+
 <!ENTITY tabCrashed.autoSubmit "Frissítse a beállításokat a korábban mentett hibajelentések automatikus beküldéséhez (és hogy kevesebb ilyen üzenetet kapjon)">
