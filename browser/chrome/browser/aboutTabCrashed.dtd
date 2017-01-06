@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Унесите адресу е-поште овде">
 <!ENTITY tabCrashed.emailMe "Пошаљи ми е-пошту када су информације доступне">
 <!ENTITY tabCrashed.reportSent "Извештај о рушењу је већ поднет; хвала вам што сте нам помогли да учинимо &brandShortName; бољим!">
-<!ENTITY tabCrashed.requestAutoSubmit "Захтевај позадинске језичке">
 <!ENTITY tabCrashed.autoSubmit "Ажурирај поставке да аутоматски шаље извештаје о рушењу (добијаћете мање оваквих порука у будућности)">
