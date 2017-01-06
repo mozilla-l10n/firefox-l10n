@@ -202,7 +202,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историја">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Ресетирај ниво на зум">
 
 <!ENTITY searchItem.title             "Пребарување">
 
@@ -213,8 +215,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Обележувачи">
+<!ENTITY bookmarksMenuButton.other.label "Други обележувачи">
 <!ENTITY viewBookmarksToolbar.label         "Алатник со обележувачи">
 
+<!ENTITY containersMenu.label "Контејнери">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -247,6 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Датотека"> 
 <!ENTITY fileMenu.accesskey       "Д">
+<!ENTITY newUserContext.label             "Ново контејнерско јазиче">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -308,14 +313,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Прилагодете ги менијата и алатниците">
 <!ENTITY appMenuCustomizeExit.label "Готово">
 <!ENTITY appMenuCustomizeExit.tooltip "Завршете со прилагодувањето">
+<!ENTITY appMenuHistory.label "Историја">
+<!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
+<!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
+<!ENTITY appMenuHistory.restoreSession.label "Врати ја претходната сесија">
 
+<!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Нема отворени јазичиња">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од Вашите други уреди.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
 <!ENTITY customizeMenu.addToPanel.label "Додај во мени">
