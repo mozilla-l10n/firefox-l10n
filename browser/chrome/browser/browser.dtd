@@ -632,8 +632,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Безбедна врска">
 <!ENTITY identity.connectionNotSecure "Врската не е безбедна">
 <!ENTITY identity.connectionFile "Оваа страница е складирана на Вашиот компјутер.">
+<!ENTITY identity.connectionVerified2 "Безбедно сте поврзани на овој веб-сајт, во сопственост на:">
+<!ENTITY identity.connectionInternal "Ова е безбедна страница на &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; блокираше делови од оваа страница што не се безбедни.">
+<!ENTITY identity.passiveLoaded "Делови од оваа страница не се безбедни (како на пример, сликите).">
+<!ENTITY identity.weakEncryption "Оваа страница користи слаба енкрипција.">
 
 <!-- Strings for connection state warnings in the subview. -->
 

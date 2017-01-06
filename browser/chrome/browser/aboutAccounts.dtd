@@ -12,3 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Нема врска">
 <!ENTITY aboutAccounts.noConnection.description "Мора да бидете врзани на Интернет за да се најавите.">
 <!ENTITY aboutAccounts.noConnection.retry "Обиди се повторно">
+<!ENTITY aboutAccounts.badConfig.title "Лоша конфигурација">
+<!ENTITY aboutAccounts.badConfig.description "Не можам да ја одредам серверската конфигурација на Вашата сметка за Firefox. Ве молам обидете се повторно подоцна.">
