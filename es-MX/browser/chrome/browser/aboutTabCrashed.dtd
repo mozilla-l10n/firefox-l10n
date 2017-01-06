@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Ingresa aquí tu dirección de correo electrónico">
 <!ENTITY tabCrashed.emailMe "Envíame un correo electrónico cuando más información esté disponible">
 <!ENTITY tabCrashed.reportSent "El reporte de fallo ha sido enviado. ¡Gracias por ayudarnos a lograr un &brandShortName; mejor!">
-<!ENTITY tabCrashed.requestAutoSubmit "Solicitar pestañas en segundo plano">
 <!ENTITY tabCrashed.autoSubmit "Actualiza tus preferencias para enviar automáticamente los reportes de fallo estancados (y recibir menos mensajes como este en el futuro)">
