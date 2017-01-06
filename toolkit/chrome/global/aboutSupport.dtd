@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Performanță">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service workeri înregistrați">
@@ -113,8 +113,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funcționalități">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostic">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Jurnal de erori">
-
-
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Jurnal de decizii">
-
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcții dezactivate de Crash Guard">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternative">
