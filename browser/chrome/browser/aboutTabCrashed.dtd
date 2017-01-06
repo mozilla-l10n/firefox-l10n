@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Въведете адреса на своята ел. поща">
 <!ENTITY tabCrashed.emailMe "Изпращане на имейл, когато има повече информация">
 <!ENTITY tabCrashed.reportSent "Докладът за срив е изпратен. Благодарим ви, че помагате да направим &brandShortName; по-добър!">
-<!ENTITY tabCrashed.requestAutoSubmit "Заявка към разделите на фонов режим">
 <!ENTITY tabCrashed.autoSubmit "Променяне на настройките, така че събралите се доклади да бъдат изпращани автоматично (така бъдеще ще получавате по-малко съобщения като това)">
