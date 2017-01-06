@@ -16,7 +16,7 @@
 <!ENTITY syncMy.label "Sincronizza">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
-<!ENTITY engine.tabs.label "Schede">
+<!ENTITY engine.tabs.label2 "Schede aperte">
 <!ENTITY engine.tabs.accesskey "h">
 <!ENTITY engine.history.label "Cronologia">
 <!ENTITY engine.history.accesskey "C">
