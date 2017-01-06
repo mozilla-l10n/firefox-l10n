@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
 <!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
 <!ENTITY tabCrashed.reportSent "تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ &brandShortName; کو بہتر بنانے کے لیے مدد دینے کا شکریہ!">
-<!ENTITY tabCrashed.requestAutoSubmit "پس منظر ٹیب کی درخواست کریں">
+
 <!ENTITY tabCrashed.autoSubmit "حادثے کی رپورٹ خودکار جمع کرروانے کے لئے تازہ کاری ترجیحات کو جمع کرواَیں (اور مستقبل میں ہم سے اس طرح کے کم پیغامات حاصل کریں)">
