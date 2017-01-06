@@ -11,7 +11,7 @@
 <!ENTITY engine.bookmarks.accesskey "S">
 <!ENTITY engine.history.label "Cronologia">
 <!ENTITY engine.history.accesskey "C">
-<!ENTITY engine.tabs.label "Schede">
+<!ENTITY engine.tabs.label2 "Schede aperte">
 <!ENTITY engine.tabs.accesskey "c">
 <!ENTITY engine.passwords.label "Password">
 <!ENTITY engine.passwords.accesskey "P">
