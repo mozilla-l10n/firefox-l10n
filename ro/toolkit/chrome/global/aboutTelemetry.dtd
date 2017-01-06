@@ -52,7 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Scalari">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Scalari codificați">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograme">
 
@@ -80,4 +82,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 
+<!ENTITY aboutTelemetry.rawPayload "  Payload brut">

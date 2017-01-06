@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Actualizare:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți reporni &brandShortName; acum sau vă puteți continua sesiunea și să reporniți mai târziu.">
-
+<!ENTITY  finishedBackground.moreElevated "Această actualizare necesită privilegii de administrator. Actualizarea va fi instalată data viitoare când va porni &brandShortName;. Poți reporni &brandShortName; acum, poți continua lucrul și să repornești mai târziu, sau poți refuza această actualizare.">
 
 <!ENTITY  update.details.label            "Detalii">
 <!ENTITY  update.installedOn.label        "Instalată:">

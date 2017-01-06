@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mesaje primite">
 <!ENTITY aboutNetworking.bytesSent             "Byți trimiși">
 <!ENTITY aboutNetworking.bytesReceived         "Byți primiți">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "Vezi <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pentru instrucțiuni de folosire a acestei unelte.">
+<!ENTITY aboutNetworking.currentLogFile        "Fișierul curent:">
+<!ENTITY aboutNetworking.currentLogModules     "Module de logging curente:">
+<!ENTITY aboutNetworking.setLogFile            "Setează fișierul cu loguri">
+<!ENTITY aboutNetworking.setLogModules         "Setează modulele de logging">
+<!ENTITY aboutNetworking.startLogging          "Pornește logging-ul">
+<!ENTITY aboutNetworking.stopLogging           "Oprește logging-ul">
 <!ENTITY aboutNetworking.dnsLookup             "Analiză DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Rezolvă">
 <!ENTITY aboutNetworking.dnsDomain             "Domeniu">
