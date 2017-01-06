@@ -284,7 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
-<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil encontrar exatamente o que está procurando no &brandShortName;.">
+<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil localizar exatamente o que está procurando no &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que não precise se preocupar.">
@@ -464,7 +464,7 @@ size. -->
 <!ENTITY share_image_failed "Não foi possível compartilhar esta imagem">
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimir">
-<!ENTITY find_in_page "Encontrar na página">
+<!ENTITY find_in_page "Localizar na página">
 <!ENTITY desktop_mode "Requisitar site para desktop">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
@@ -480,7 +480,7 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Encontrar na página">
+<!ENTITY find_text "Localizar na página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Próximo">
 <!ENTITY find_close "Fechar">

@@ -105,7 +105,7 @@
 funcionando.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Não foi possível encontrar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Não foi possível localizar o servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
