@@ -19,5 +19,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Adres e-mail">
 <!ENTITY tabCrashed.emailMe "Powiadom, gdy będzie dostępne więcej informacji">
 <!ENTITY tabCrashed.reportSent "Raport z awarii został już wysłany. Dziękujemy za pomoc w ulepszaniu programu &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Przesyłanie raportów">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Przesyłanie raportów w tle">
 <!ENTITY tabCrashed.autoSubmit "Automatyczne przesyłanie zgromadzonych raportów awarii (aby w przyszłości otrzymywać mniej komunikatów takich jak ten)">
