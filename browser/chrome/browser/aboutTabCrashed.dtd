@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Digite o seu endereço de email aqui">
 <!ENTITY tabCrashed.emailMe "Enviar-me um email quando estiverem disponíveis mais informações">
 <!ENTITY tabCrashed.reportSent "Relatório de falha já submetido; obrigado por ajudar a tornar o &brandShortName; melhor!">
-<!ENTITY tabCrashed.requestAutoSubmit "Solicitar separadores em segundo plano">
+
 <!ENTITY tabCrashed.autoSubmit "Atualizar preferências para submeter automaticamente relatórios de falha pendentes (e obter menos mensagens como esta de nós no futuro)">
