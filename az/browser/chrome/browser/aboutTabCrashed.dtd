@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "E-poçt ünvanınızı buraya daxil edin">
 <!ENTITY tabCrashed.emailMe "Ətraflı məlumat olduğunda mənə e-poçt göndər">
 <!ENTITY tabCrashed.reportSent "Qəza məlumatınız artıq göndərilib; &brandShortName; səyyahını daha yaxşı etməkdə köməyiniz üçün təşəkkürlər!">
-<!ENTITY tabCrashed.requestAutoSubmit "Arxa vərəqləri sorğula">
 <!ENTITY tabCrashed.autoSubmit "Nizamlamaları saxlanmış xəta xəbərlərini avtomatik göndərmək üçün yenilə (və gələcəyinə bizdən daha az bu cür mesajlar alın)">
