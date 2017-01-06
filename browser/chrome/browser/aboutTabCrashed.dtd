@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Entrar com seu endereço de e-mail aqui">
 <!ENTITY tabCrashed.emailMe "Enviar um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
-<!ENTITY tabCrashed.requestAutoSubmit "Solicitar abas em segundo plano">
 <!ENTITY tabCrashed.autoSubmit "Atualizar as preferências para enviar relatórios de travamentos atrasados automaticamente (e receber menos mensagens nossa como estas no futuro)">
