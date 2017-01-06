@@ -6,11 +6,11 @@
 <!ENTITY aboutPage.telemetryStart               " Автоматично изпраща информация за производителността, хардуера и използваните настройки към ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 ", за да стане &brandShortName; по-добър.">
-<!ENTITY aboutPage.checkForUpdates.link         "Проверка за обновявания »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Проверка за обновявания…">
+<!ENTITY aboutPage.checkForUpdates.link         "Проверка за обновяване »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Проверяване…">
 <!ENTITY aboutPage.checkForUpdates.none         "Няма налични обновявания">
 <!ENTITY aboutPage.checkForUpdates.available2   "Изтегляне на обновяване">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Изтегляне на обновяване…">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Изтегляне на обновяването…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Инсталиране на обновяване">
 <!ENTITY aboutPage.faq.label                    "Въпроси и отговори">
 <!ENTITY aboutPage.support.label                "Поддръжка">
