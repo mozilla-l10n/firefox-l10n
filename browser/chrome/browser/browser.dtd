@@ -40,6 +40,9 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "З">
 <!ENTITY  unpinTab.label                     "Откачи јазиче">
 <!ENTITY  unpinTab.accesskey                 "т">
+<!ENTITY  sendTabToDevice.label              "Испрати јазиче на уред">
+<!ENTITY  sendPageToDevice.label             "Испрати страница на уред">
+<!ENTITY  sendLinkToDevice.label             "Испрати врска до уред">
 <!ENTITY  moveToNewWindow.label              "Премести во нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "П">
 <!ENTITY  bookmarkAllTabs.label              "Обележи ги сите јазичиња…">
@@ -139,6 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.afterDomain.label "го контролира Вашиот покажувач. Притиснете Esc за да ја преземете контролата.">
 
 <!ENTITY closeWindow.label "Затвори го прозорецот">
 <!ENTITY closeWindow.accesskey "п">
@@ -329,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Барај или внеси адреса">
 <!ENTITY urlbar.accesskey             "д">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Оди до јазиче:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Дознајте повеќе…">
