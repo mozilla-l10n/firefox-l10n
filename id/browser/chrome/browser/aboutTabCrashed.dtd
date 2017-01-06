@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat email Anda di sini">
 <!ENTITY tabCrashed.emailMe "Kirimi saya email saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Minta tab latar belakang">
 <!ENTITY tabCrashed.autoSubmit "Perbarui preferensi untuk mengirimkan laporan kerusakan lawas secara otomatis (dan lebih sedikit pesan seperti ini dari kami di masa datang)">
