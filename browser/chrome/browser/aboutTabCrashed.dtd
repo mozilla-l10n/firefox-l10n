@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Электрондық пошта адресін енгізіңіз">
 <!ENTITY tabCrashed.emailMe "Көбірек ақпарат бар болған кезде, маған хат жазыңыз">
 <!ENTITY tabCrashed.reportSent "Құлау хабарламасы жіберілген; &brandShortName; жақсырақ қылуға көмегіңіз үшін рахмет!">
-<!ENTITY tabCrashed.requestAutoSubmit "Фондағы беттерді талап ету">
+
 <!ENTITY tabCrashed.autoSubmit "Кейінге қалған құлау хабарламаларын автожіберу үшін баптауларды жаңартыңыз (және болашақта осы сияқты бізден хабарламаларды азырақ алу үшін)">
