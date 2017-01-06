@@ -6,11 +6,11 @@
 <!ENTITY wizard.label             "建立新的行事曆" >
 <!ENTITY wizard.description       "搜尋您的行事曆" >
 
-<!ENTITY initialpage.description    "您的行事曆可以存放在電腦或存放在伺服器，以便於遠端存取或與朋友及同事分享。" >
+<!ENTITY initialpage.description    "您的行事曆可以存放在電腦或伺服器上，便於從遠端存取或與親朋好友分享。" >
 <!ENTITY initialpage.computer.label  "存放於本機電腦">
 <!ENTITY initialpage.network.label  "存放於網際網路">
 
-<!ENTITY locationpage.description         "提供關於存取您遠端行事曆所需的資訊" >
+<!ENTITY locationpage.description         "提供存取您遠端行事曆時所需的資訊" >
 <!ENTITY locationpage.login.description   "選用: 輸入使用者名稱和密碼" >
 <!ENTITY locationpage.username.label      "使用者名稱:" >
 <!ENTITY locationpage.password.label      "密碼:" >
@@ -20,4 +20,3 @@
 
 <!ENTITY finishpage.shortdescription  "已建立行事曆" >
 <!ENTITY finishpage.longdescription   "您的行事曆已經建立" >
-
