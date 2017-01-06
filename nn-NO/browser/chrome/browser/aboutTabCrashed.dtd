@@ -12,10 +12,12 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+
+<!ENTITY tabCrashed.header2 "Ups. Fana di krasja.">
 <!ENTITY tabCrashed.offerHelp "Vi kan hjelpe deg!">
-
-
-
+<!ENTITY tabCrashed.single.offerHelpMessage "Vel &tabCrashed.restoreTab; for å lasta inn sideinnhald på nytt.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for lasta inn sideinnhald på nytt.">
+<!ENTITY tabCrashed.requestHelp "Vil du hjelpa oss?">
 
 <!ENTITY tabCrashed.requestReport "Rapporter denne fana">
 
