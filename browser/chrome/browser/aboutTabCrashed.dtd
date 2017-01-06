@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "आपला ईमेल पत्ता प्रविष्ट करा">
 <!ENTITY tabCrashed.emailMe "अधिक माहिती उपलब्ध झाल्यास मला ईमेल करा">
 <!ENTITY tabCrashed.reportSent "क्रॅश अहवाल आधीच सादर केला आहे; &brandShortName; अधिक चांगले बनविण्यास मदत केल्याबद्दल आपले धन्यवाद !">
-<!ENTITY tabCrashed.requestAutoSubmit "पार्श्वभूमी टॅबची विनंती करा">
+
 <!ENTITY tabCrashed.autoSubmit "अनुशेष क्रॅश अहवाल आपोआप पाठविण्यासाठी प्राधान्यतेत सुधार करा (यापुढे आम्हाला या सारखे कमी संदेश मिळावेत यासाठी)">
