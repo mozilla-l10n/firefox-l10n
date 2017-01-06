@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Zde vložte svoji e-mailovou adresu">
 <!ENTITY tabCrashed.emailMe "Informovat mě e-mailem, až bude k dispozici více informací">
 <!ENTITY tabCrashed.reportSent "Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte &brandShortName; vylepšovat!">
-<!ENTITY tabCrashed.requestAutoSubmit "Vyžádat panely na pozadí">
 <!ENTITY tabCrashed.autoSubmit "Nastavit předvolby tak, aby byly pády automaticky odesílány (a viděli jste tak méně zpráv, jako je tato)">
