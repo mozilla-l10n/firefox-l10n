@@ -33,6 +33,7 @@
 <!ENTITY captivePortal.title "Huru sankaa ra">
 
 
+<!ENTITY openPortalLoginPage.label "Huruyan moo feeri">
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tataaru aderesey ši doona ka hantumandi sanda <strong>http://www.example.com/</strong></li> <li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti <strong>/</strong>).</li> </ul>">

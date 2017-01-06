@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Bay ka tonton">
 <!ENTITY  browserContainersEnabled.label        "Diikey kanjey tunandi">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "Kayandiyaney…">
+<!ENTITY  browserContainersSettings.accesskey    "n">

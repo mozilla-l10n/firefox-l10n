@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Gundekuna">
 <!ENTITY  paneApplications.title  "Porogaramey">
 <!ENTITY  panePrivacy.title       "Sutura">
-
+<!ENTITY  paneContainers.title    "Diikey kanjey">
 <!ENTITY  paneSecurity.title      "Saajaw">
 <!ENTITY  paneAdvanced.title      "Jinekoyante">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
