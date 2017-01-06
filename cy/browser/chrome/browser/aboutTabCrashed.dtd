@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Rhowch eich cyfeiriad e-bost yma">
 <!ENTITY tabCrashed.emailMe "Hysbysu pan fydd rhagor o wybodaeth ar gael">
 <!ENTITY tabCrashed.reportSent "Mae'r adroddiad chwalu wedi ei gyflwyno: diolch am gynorthwyo i wneud &brandShortName; yn well!">
-<!ENTITY tabCrashed.requestAutoSubmit "Gofyn am dabiau cefndir">
+
 <!ENTITY tabCrashed.autoSubmit "Diweddaru'r dewisiadau i cyflwyno'r casgliad o adroddiadau chwalu (a derbyn llai o negeseuon o'r math yma gennym ni yn y dyfodol)">
