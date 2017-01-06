@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Vnesite svoj e-poštni naslov">
 <!ENTITY tabCrashed.emailMe "Pošljite mi e-pošto, ko bo na voljo več informacij">
 <!ENTITY tabCrashed.reportSent "Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Zahtevaj zavihke v ozadju">
 <!ENTITY tabCrashed.autoSubmit "Nastavite &brandShortName; na samodejno pošiljanje starih poročil o sesutjih (in v prihodnje boste od nas prejeli manj takih sporočil)">
