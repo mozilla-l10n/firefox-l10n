@@ -13,7 +13,7 @@
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.history.label "Historia">
 <!ENTITY engine.history.accesskey "H">
-<!ENTITY engine.tabs.label "Karty">
+<!ENTITY engine.tabs.label2 "Karty">
 <!ENTITY engine.tabs.accesskey "K">
 <!ENTITY engine.passwords.label "Hasła">
 <!ENTITY engine.passwords.accesskey "a">
