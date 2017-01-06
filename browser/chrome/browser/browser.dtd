@@ -329,6 +329,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Преференци за Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од Вашите други уреди.">
+<!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
 <!ENTITY customizeMenu.addToPanel.label "Додај во мени">
@@ -349,7 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Оди до јазиче:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Би сакале да го подобрите Вашето искуство на пребарување со предлози?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Дознајте повеќе…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -474,6 +480,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "а">
 <!ENTITY emailVideoCmd.label          "Испрати видео…">
 <!ENTITY emailVideoCmd.accesskey      "а">
+<!ENTITY castVideoCmd.label           "Испрати видео до уред">
 <!ENTITY emailAudioCmd.label          "Испрати аудио…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Активирај го овој приклучок">
@@ -510,9 +517,16 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "м">
 <!ENTITY mediaUnmute.label           "Пушти звук">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "Брзина на репродуцирање">
+<!ENTITY mediaPlaybackRate050x2.label "Бавна (0.5×)">
+<!ENTITY mediaPlaybackRate100x2.label "Нормална">
+<!ENTITY mediaPlaybackRate125x2.label "Брза (1.25×)">
+<!ENTITY mediaPlaybackRate150x2.label "Побрза (1.5×)">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Смешна (2×)">
+<!ENTITY mediaLoop.label             "Повторувај">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -615,6 +629,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Во ред">
 <!ENTITY editBookmark.removeBookmark.accessKey       "р">
 
+<!ENTITY identity.connectionSecure "Безбедна врска">
+<!ENTITY identity.connectionNotSecure "Врската не е безбедна">
+<!ENTITY identity.connectionFile "Оваа страница е складирана на Вашиот компјутер.">
 
 <!-- Strings for connection state warnings. -->
 
