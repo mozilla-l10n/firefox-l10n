@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "Stäng denna flik">
 <!ENTITY tabCrashed.restoreTab "Återställ denna flik">
 <!ENTITY tabCrashed.restoreAll "Återställ alla kraschade flikar">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Arghh. Din flik kraschade precis.">
 <!ENTITY tabCrashed.offerHelp "Vi kan hjälpa dig!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Välj &tabCrashed.restoreTab; för att ladda om innehållet på sidan.">
@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Fyll i din e-postadress här">
 <!ENTITY tabCrashed.emailMe "Skicka e-post när mer information finns tillgänglig">
 <!ENTITY tabCrashed.reportSent "Kraschrapporten har redan skickats. Tack för att du hjälper till att förbättra &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Begär bakgrundsflikar">
 <!ENTITY tabCrashed.autoSubmit "Uppdatera inställningar för att automatiskt skicka in eftersläpande kraschrapporter (och få färre meddelanden som detta från oss i framtiden)">
