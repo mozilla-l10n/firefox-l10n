@@ -321,7 +321,7 @@
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "格式:">
-<!ENTITY calendarproperties.location.label                 "地點:">
+<!ENTITY calendarproperties.location.label                 "網址:">
 <!ENTITY calendarproperties.refreshInterval.label          "重新載入日曆:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "手動">
 <!ENTITY calendarproperties.name.label                     "名稱:">
@@ -372,4 +372,3 @@
 <!ENTITY calendar.extract.task.button          "新增為工作">
 <!ENTITY calendar.extract.event.button.tooltip "從訊息中找出行事曆資訊，並新增為您的行事曆事件">
 <!ENTITY calendar.extract.task.button.tooltip  "從訊息中找出行事曆資訊，並新增為您的行事曆工作">
-
