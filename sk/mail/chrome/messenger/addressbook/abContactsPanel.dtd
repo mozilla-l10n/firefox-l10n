@@ -9,6 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Vlastnosti kontaktu">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Vlastnosti rozosielacieho zoznamu">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adresár:">
