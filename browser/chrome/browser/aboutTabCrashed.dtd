@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Zadajte e-mailovú adresu">
 <!ENTITY tabCrashed.emailMe "Informujte ma, keď budú dostupné ďalšie informácie">
 <!ENTITY tabCrashed.reportSent "Správa o zlyhaní už bola odoslaná. Ďakujeme, že pomáhate urobiť &brandShortName; lepším!">
-<!ENTITY tabCrashed.requestAutoSubmit "Vyžiadať karty na pozadí">
 <!ENTITY tabCrashed.autoSubmit "Nastaviť automatické odosielanie správ o zlyhaní (v budúcnosti tak uvidíte menej takýchto správ)">
