@@ -159,6 +159,15 @@
 <!ENTITY options.timestampMessages.label      "Povoliť časové známky">
 <!ENTITY options.timestampMessages.tooltip    "Ak povolíte túto možnosť, príkazy a výstup vo Webovej konzole budú zobrazované aj s ich časovými známkami">
 
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Ladenie">
+
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Povoliť zdrojové mapy">
+<!ENTITY options.sourceMaps.tooltip    "Ak túto voľbu zapnete, zdroje budú mapované v nástroji ladenia a v konzole.">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
