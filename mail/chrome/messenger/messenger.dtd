@@ -500,9 +500,15 @@
 <!ENTITY devToolboxCmd.label "Vývojárske nástroje">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Debugger pre doplnky">
+<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY tabsDebugCmd.label "Debugger obsahu rámcov">
+<!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Zápisník">
+<!ENTITY scratchpadCmd.accesskey "Z">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
