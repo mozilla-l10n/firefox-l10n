@@ -26,5 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Εισάγετε τη διεύθυνση email σας">
 <!ENTITY tabCrashed.emailMe "Ειδοποίηση στο email μου όταν είναι διαθέσιμες περισσότερες πληροφορίες">
 <!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης έχει υποβληθεί ήδη· σάς ευχαριστούμε που συμβάλλετε στη βελτίωση του &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Απαίτηση καρτελών παρασκηνίου">
 <!ENTITY tabCrashed.autoSubmit "Ενημέρωση προτιμήσεων για αυτόματη υποβολή συσσωρευμένων αναφορών κατάρρευσης (και αποστολή λιγότερων μηνυμάτων σαν αυτό στο μέλλον)">
