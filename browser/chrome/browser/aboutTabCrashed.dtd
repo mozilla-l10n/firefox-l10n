@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Cuir a-steach am post-d agad an-seo">
 <!ENTITY tabCrashed.emailMe "Cuir post-d thugam nuair a bhios fiosrachadh ri fhaighinn">
 <!ENTITY tabCrashed.reportSent "Chaidh an aithisg mun tuisleach a chur mu thràth, mòran taing airson taic a chumail rinn a' leasachadh &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Iarr tabaichean sa chùlaibh">
+
 <!ENTITY tabCrashed.autoSubmit "Mur eil thu airson uiread a theachdaireachdan mar seo fhaighinn uainn san àm ri teachd, is urrainn dhut na roghainnean agad a chur air gleus ach an cuir am prògram seo aithisgean tuislidh gu fèin-obrachail.">
