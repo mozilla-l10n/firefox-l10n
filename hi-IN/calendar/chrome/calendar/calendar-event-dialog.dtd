@@ -4,23 +4,25 @@
 
 <!ENTITY event.title.label                  "वस्तु का संपादन करें" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "समाप्ति की तारीख बदलते समय अवधि रखें">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
-
-
+<!ENTITY newevent.from.label                "से" >
+<!ENTITY newevent.to.label                  "को" >
 
 <!ENTITY newevent.status.label                    "स्थिति (S)" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "निर्दिष्ट नहीं है" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
 <!ENTITY newevent.todoStatus.none.label           "निर्दिष्ट नहीं है" >
-
-
-<!ENTITY newevent.todoStatus.cancelled.label      "खारिज" >
-
-
+<!ENTITY newevent.eventStatus.cancelled.label     "रद्द" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "रद्द" >
+<!ENTITY newevent.status.tentative.label          "संभावित" >
+<!ENTITY newevent.status.tentative.accesskey      "T" >
 <!ENTITY newevent.status.confirmed.label          "पुष्टि" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
-
+<!ENTITY newevent.status.needsaction.label        "कार्रवाई की आवश्यकता है" >
 <!ENTITY newevent.status.inprogress.label         "प्रक्रिया में" >
 <!ENTITY newevent.status.completed.label          "इसपर समाप्त" >
 <!-- The following entity is for New Task dialog only -->
@@ -31,6 +33,8 @@
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label                "उपस्थितगण को सूचित करें">
+<!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "प्रत्येक सहभागी को अलग-अलग आमंत्रण">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "यह विकल्प हर सहभागी को एक आमंत्रण ईमेल भेजता है प्रत्येक आमंत्रण सिर्फ़ प्राप्तकर्ता सहभागी की ही जानकारी रखता है ताकि अन्य सहभागी की जानकारी का खुलासा ना हो">
@@ -51,7 +55,7 @@
 
 
 
-
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
 <!ENTITY  event.menu.item.new.label                       "नया">
@@ -64,8 +68,8 @@
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
 <!ENTITY  event.menu.item.new.contact.label               "पता पुस्तिका संपर्क">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
-
-
+<!ENTITY  event.menu.item.close.label                     "बंद">
+<!ENTITY  event.menu.item.close.accesskey                 "C">
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
@@ -83,22 +87,23 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "सहेजें तथा बन्द करें">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
-
-
+<!ENTITY  event.menu.item.delete.label                    "मिटाएँ…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.item.page.setup.label                "पृष्ठ व्यवस्थित">
 <!ENTITY  event.menu.item.page.setup.accesskey            "u">
-
-
+<!ENTITY  event.menu.item.print.label                     "छापें">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "संपादन">
 <!ENTITY  event.menu.edit.accesskey                       "E">
-
-
-
-
-
-
+<!ENTITY  event.menu.edit.undo.label                      "पहले जैसा">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
+<!ENTITY  event.menu.edit.redo.label                      "दोहराएँ">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.cut.label                       "काटें">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
 <!ENTITY  event.menu.edit.copy.label                      "नक़ल करें">
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "चिपकाएँ">
@@ -108,35 +113,35 @@
 
 <!ENTITY  event.menu.view.label                           "देखें">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "औज़ारपट्टी">
-<!ENTITY  event.menu.view.toolbars.accesskey              "T">
-
-
-<!ENTITY  event.menu.view.toolbars.customize.label        "मनपसंद बनाएँ…">
+<!ENTITY  event.menu.view.toolbars.label                  "औज़ारपट्टी()">
+<!ENTITY  event.menu.view.toolbars.accesskey              ")">
+<!ENTITY  event.menu.view.toolbars.event.label            "कार्यक्रम औजार पट्टी">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
+<!ENTITY  event.menu.view.toolbars.customize.label        "मनपसंद बनाएँ">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
 <!ENTITY  event.menu.view.showlink.label                  "संबंधित कड़ी दिखाएँ">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
 
-<!ENTITY  event.menu.options.label                            "विकल्प">
+<!ENTITY  event.menu.options.label                            "तथा विकल्प">
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "सहभागीयो को आमंत्रित करें...">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-
-
+<!ENTITY  event.menu.options.timezone2.label                  "समय क्षेत्र दिखाएँ">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "प्राथमिकता">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "निर्दिष्ट नहीं है">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
-<!ENTITY  event.menu.options.priority.low.label               "कम">
+<!ENTITY  event.menu.options.priority.low.label               "तथा कम">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
 <!ENTITY  event.menu.options.priority.normal.label            "सामान्य">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
-
-
-<!ENTITY  event.menu.options.privacy.label                    "गोपनीयता">
+<!ENTITY  event.menu.options.priority.high.label              "उँचा">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "तथा गोपनीयता">
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
-
-
+<!ENTITY  event.menu.options.privacy.public.label             "सार्वजनिक समारोह">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
 <!ENTITY  event.menu.options.privacy.confidential.label       "केवल समय और तिथि दिखाएँ">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
 <!ENTITY  event.menu.options.privacy.private.label            "निजी कार्यक्रम">
