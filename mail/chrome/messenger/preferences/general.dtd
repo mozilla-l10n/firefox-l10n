@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Gavus naują laišką:">
 <!ENTITY playSound.label                  "Pranešti garsu">
 <!ENTITY playSound1.accesskey             "g">
-
-
+<!ENTITY playSoundMac.label               "Naudoti kitą garso failą:">
+<!ENTITY playSoundMac.accesskey           "u">
 <!ENTITY showAnimatedAlert.label          "Parodyti įspėjimą">
 <!ENTITY showAnimatedAlert.accesskey      "ė">
 

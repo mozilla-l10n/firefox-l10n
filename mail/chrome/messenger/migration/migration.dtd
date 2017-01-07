@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Programos bei paskyrų nuostatų, adresų knygos, filtrų ir kitų duomenų importas iš:">
 <!ENTITY importFromNonWin.label         "Programos bei paskyrų nuostatų, adresų knygos, filtrų ir kitų duomenų importas iš:">
-
+<!ENTITY importSourceNotFound.label     "Nerasta programa iš kurios būtų galima importuoti duomenis.">
 
 <!ENTITY importFromNothing.label        "Neimportuoti">
 <!ENTITY importFromNothing.accesskey    "N">
