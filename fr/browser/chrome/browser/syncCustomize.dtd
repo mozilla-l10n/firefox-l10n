@@ -17,7 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "l’historique">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "les onglets">
+<!ENTITY engine.tabs.label2               "les onglets ouverts">
 <!ENTITY engine.tabs.accesskey            "o">
 <!ENTITY engine.passwords.label           "les mots de passe">
 <!ENTITY engine.passwords.accesskey       "P">
