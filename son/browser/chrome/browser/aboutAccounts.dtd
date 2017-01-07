@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Interneti ciyari kul šii">
 <!ENTITY aboutAccounts.noConnection.description "War ga hima ka dobu interneti ga ka huru.">
 <!ENTITY aboutAccounts.noConnection.retry "Ceeci koyne">
-
+<!ENTITY aboutAccounts.badConfig.title "Hanseyan laala">
 

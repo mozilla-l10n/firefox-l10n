@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY captivePortal.title "Huru sankaa ra">
-
+<!ENTITY captivePortal.longDesc "<p>Sankaa woo ga waažibandi kaŋ war ma huru ka goy nda interneti.</p>">
 
 <!ENTITY openPortalLoginPage.label "Huruyan moo feeri">
 

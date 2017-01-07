@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.">
+<!ENTITY pointerlockWarning.generic.label "Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.">
 
 <!ENTITY closeWindow.label "Zanfunoo daabu">
 <!ENTITY closeWindow.accesskey "d">
