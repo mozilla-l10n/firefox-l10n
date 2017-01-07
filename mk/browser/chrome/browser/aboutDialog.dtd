@@ -57,7 +57,7 @@
 <!ENTITY bottomLinks.privacy        "Политика за приватност">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Проверка за надградби…">
+<!ENTITY update.checkingForUpdates  "Проверувам за надградби…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Нема надградби за &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
