@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "O">
 <!ENTITY acctName.label           "Naziv:">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "Niti jedna aplikacija ili datoteka za uvoz podataka nije pronađena.">
 
 <!ENTITY back.label               "&lt; Prethodna">
 <!ENTITY forward.label            "Sljedeća &gt;">
