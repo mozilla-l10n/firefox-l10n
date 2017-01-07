@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži sve kartice">
 <!ENTITY showAllTabsCmd.accesskey "s">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Prijavite se u &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dijeljenjem vaših prozora ili zaslona sa stranicom">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Otvori ploču s informacijama o instalaciji">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi ovu stranicu">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevođenjem stranice">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
