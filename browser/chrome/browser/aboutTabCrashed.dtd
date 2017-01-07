@@ -15,9 +15,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Хах. Јазичето штотуку се сруши.">
 <!ENTITY tabCrashed.offerHelp "Ние можеме да Ви помогнеме!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Изберете &tabCrashed.restoreTab; за да ја освежите содржината на страницата.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Изберете &tabCrashed.restoreTab; или &tabCrashed.restoreAll; за да ја освежите содржината на страницата.">
 <!ENTITY tabCrashed.requestHelp "Ќе ни помогнете?">
+<!ENTITY tabCrashed.requestHelpMessage "Извештаите за уривање ни помагаат да ги дијагностицираме проблемите и да го направиме &brandShortName; подобар.">
 <!ENTITY tabCrashed.requestReport "Пријавете го ова јазиче">
+<!ENTITY tabCrashed.sendReport2 "Испратете извештај за уривање за јазичето што го гледате">
+<!ENTITY tabCrashed.commentPlaceholder2 "Дополнителни коментари (коментарите се јавно-видливи)">
+<!ENTITY tabCrashed.includeURL2 "Вклучи и URL во овој извештај за уривање">
 <!ENTITY tabCrashed.emailPlaceholder "Внесете ја Вашата адреса за е-пошта овде">
 <!ENTITY tabCrashed.emailMe "Испрати ми е-пошта кога ќе има повеќе информации за ова">
 <!ENTITY tabCrashed.reportSent "Извештајот за уривање е веќе испратен; Ви благодариме што помагате &brandShortName; да биде подобар!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Пријавете ги позадинските јазичиња">
+<!ENTITY tabCrashed.autoSubmit "Ажурирајте ги преференците за снимените извештаи за уривање да се испраќаат автоматски (и за да добивате помалку пораки како оваа во иднина)">
