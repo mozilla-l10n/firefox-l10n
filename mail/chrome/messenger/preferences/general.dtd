@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Kada stigne nova poruka:">
 <!ENTITY playSound.label                  "Reproduciraj zvuk">
 <!ENTITY playSound1.accesskey             "v">
-
-
+<!ENTITY playSoundMac.label               "Reproduciraj sljedeću zvučnu datoteku:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Prikaži obavijest">
 <!ENTITY showAnimatedAlert.accesskey      "P">
-
+<!ENTITY notificationAlertSettings2.label "Obavijesti i zadani zvukovi se mogu isključiti u okviru obavijesti u postavkama sustava.">
 <!ENTITY customizeMailAlert.label         "Prilagodi…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
