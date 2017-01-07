@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Taagandiri:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Taagandiroo ga sinja hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõda, wala war ma gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">
-
+<!ENTITY  finishedBackground.moreElevated "Taagandiroo woo ga baa juwalkaw fondo-nooyan. Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõ, goy nda tunandi taaga hiino, wala taagandiroo woo hode.">
 
 <!ENTITY  update.details.label            "Šilbayhayey">
 <!ENTITY  update.installedOn.label        "Sinjiyan han:">
