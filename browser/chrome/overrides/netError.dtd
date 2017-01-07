@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
 <!ENTITY captivePortal.title "नेटवर्क में प्रवेश करें">
-
+<!ENTITY captivePortal.longDesc "<p>इस नेटवर्क में इंटरनेट का उपयोग करने के लिए आपको लॉग इन करने की आवश्यकता हो सकती है</p>">
 
 <!ENTITY openPortalLoginPage.label "लॉग इन पृष्ठ खोले">
 
