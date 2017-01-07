@@ -11,3 +11,11 @@
 <!ENTITY pref.categories.editButton.label "Уреди…">
 <!ENTITY pref.categories.editButton.accesskey "У">
 <!ENTITY pref.categories.removeButton.label "Уклони">
+<!ENTITY pref.categories.removeButton.accesskey "к">
+<!ENTITY pref.categories.name.label "Име">
+<!ENTITY pref.categories.color.label "Боја">
+<!ENTITY pref.categories.usecolor.label "Користи боју">
+<!ENTITY pref.categories.none.label "(ништа)">
+<!ENTITY pref.categories.overwrite "Категорија са оваквим именом већ постоји. \n Да ли желите да је препишете?">
+<!ENTITY pref.categories.overwrite.title "Упозорење: Дупло име">
+<!ENTITY pref.categories.noBlankCategories "Морате унети име за категорију.">
