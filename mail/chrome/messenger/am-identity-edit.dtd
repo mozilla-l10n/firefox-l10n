@@ -14,5 +14,5 @@
 
 <!ENTITY publicData.label        "Vieši duomenys">
 <!ENTITY privateData.label       "Asmeniniai duomenys">
-
-
+<!ENTITY identityAlias.label     "Tapatybės pavadinimas:">
+<!ENTITY identityAlias.accesskey "p">
