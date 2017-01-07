@@ -22,6 +22,7 @@
 <!ENTITY newevent.status.tentative.accesskey      "м" >
 <!ENTITY newevent.status.confirmed.label          "Потврђено" >
 <!ENTITY newevent.status.confirmed.accesskey      "в" >
+<!ENTITY newevent.status.inprogress.label         "У поступку" >
 <!ENTITY newevent.status.completed.label          "Завршено у" >
 
 <!-- The following entity is for New Task dialog only -->
@@ -35,6 +36,7 @@
 <!ENTITY event.attendees.notify.accesskey            "и">
 <!ENTITY event.attendees.notifyundisclosed.label     "Појединачна позивница по полазнику">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "л">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Ова опција шаље једну позивницу по полазнику. Свака позивница садржи само адресу полазника тако да идентитети других полазника нису одати.">
 
 <!-- Keyboard Shortcuts -->
 

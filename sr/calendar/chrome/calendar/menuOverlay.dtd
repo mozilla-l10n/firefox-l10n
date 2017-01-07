@@ -43,4 +43,8 @@
 <!ENTITY goTodayCmd.label                       "Данас">
 <!ENTITY goTodayCmd.accesskey                   "Д">
 
+<!ENTITY showCurrentView.label                  "Тренутни преглед">
+<!ENTITY showCurrentView.accesskey              "г">
 
+<!ENTITY calendar.properties.label              "Својства календара…">
+<!ENTITY calendar.properties.accesskey          "а">
