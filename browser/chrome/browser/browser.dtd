@@ -477,6 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "פתיחת מסגרת בחלון חדש">
 <!ENTITY openFrameCmd.accesskey       "ח">
 <!ENTITY openLinkCmdInContainerTab.label "פתיחת קישור במגירת לשוניות חדשה">
+<!ENTITY openLinkCmdInContainerTab.accesskey "מ">
 <!ENTITY showOnlyThisFrameCmd.label     "הצגת מסגרת זו בלבד">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ה">
 <!ENTITY reloadCmd.commandkey         "r">
