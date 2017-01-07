@@ -25,7 +25,7 @@
 <!-- Fixing bug 1108402 -->
 <!ENTITY engine.bookmarks.label     "Marque-pages">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Onglets">
+<!ENTITY engine.tabs.label2         "Onglets ouverts">
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Historique">
 <!ENTITY engine.history.accesskey   "r">
