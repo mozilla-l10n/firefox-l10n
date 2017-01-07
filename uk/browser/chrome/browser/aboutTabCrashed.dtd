@@ -26,4 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
 <!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
 <!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Повідомляти про збої вкладок без моєї участі">
 <!ENTITY tabCrashed.autoSubmit "Автоматично надсилати звіти про збої без вашої участі (менше таких повідомлень в майбутньому)">
