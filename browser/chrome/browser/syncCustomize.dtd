@@ -11,7 +11,7 @@
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "H">
-<!ENTITY engine.tabs.label "Pestañas">
+<!ENTITY engine.tabs.label2 "Pestañas abiertas">
 <!ENTITY engine.tabs.accesskey "P">
 <!ENTITY engine.passwords.label "Contraseñas">
 <!ENTITY engine.passwords.accesskey "C">
