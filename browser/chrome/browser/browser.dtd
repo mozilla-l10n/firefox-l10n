@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
+<!ENTITY containersMenu.label "מגירות">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -280,6 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
+<!ENTITY newUserContext.label             "מגירת לשוניות חדשה">
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
@@ -474,6 +476,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ל">
 <!ENTITY openFrameCmd.label           "פתיחת מסגרת בחלון חדש">
 <!ENTITY openFrameCmd.accesskey       "ח">
+<!ENTITY openLinkCmdInContainerTab.label "פתיחת קישור במגירת לשוניות חדשה">
 <!ENTITY showOnlyThisFrameCmd.label     "הצגת מסגרת זו בלבד">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ה">
 <!ENTITY reloadCmd.commandkey         "r">

@@ -21,6 +21,7 @@
 <!ENTITY     props.path.label               "נתיב:">
 <!ENTITY     props.secure.label             "שלח עבור:">
 <!ENTITY     props.expires.label            "תוקף:">
+<!ENTITY     props.container.label          "מגירה:">
 
 <!ENTITY     window.title                   "עוגיות">
 <!ENTITY     windowClose.key                "w">
