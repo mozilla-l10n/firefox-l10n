@@ -146,18 +146,18 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
 <!ENTITY  event.menu.options.privacy.private.label            "निजी कार्यक्रम">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-
-
+<!ENTITY  event.menu.options.show.time.label                  "समय को इस रूप में दिखाएँ">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
 <!ENTITY  event.menu.options.show.time.busy.label             "व्यस्त">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
-
-
+<!ENTITY  event.menu.options.show.time.free.label             "खाली">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
 <!ENTITY event.invite.attendees.label                     "सहभागीयो को आमंत्रित करें...">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "सभी सहभागियों को ई-मेल करें...">
+<!ENTITY event.email.attendees.label                      "सभी सहभागियों को ई-मेल लिखें...">
 <!ENTITY event.email.attendees.accesskey                  "A">
-<!ENTITY event.email.tentative.attendees.label            "अनिश्चयी सहभागियों को ई-मेल करें...">
+<!ENTITY event.email.tentative.attendees.label            "अनिश्चयी सहभागियों को ई-मेल लिखें...">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
 <!ENTITY event.remove.attendees.label2                    "सभी सहभागियों को हटाएँ">
 <!ENTITY event.remove.attendees.accesskey                 "r">
@@ -176,10 +176,10 @@
 <!ENTITY  event.toolbar.delete.tooltip                    "मिटाएँ">
 <!ENTITY  event.toolbar.attendees.tooltip                 "सहभागीयो को आमंत्रित करें">
 <!ENTITY  event.toolbar.attachments.tooltip               "संलग्नक जोड़ें">
-<!ENTITY  event.toolbar.privacy.tooltip                   "गोपनीयता बदले">
-<!ENTITY  event.toolbar.priority.tooltip                  "प्राथमिकता बदले">
-<!ENTITY  event.toolbar.status.tooltip                    "स्थिति बदलें">
-<!ENTITY  event.toolbar.freebusy.tooltip                  "खाली/व्यस्त समय को बदले">
+<!ENTITY  event.toolbar.privacy.tooltip                   "गोपनीयता को परिवर्तित करें">
+<!ENTITY  event.toolbar.priority.tooltip                  "प्राथमिकता को परिवर्तित करें">
+<!ENTITY  event.toolbar.status.tooltip                    "अवस्था को परिवर्तित करें">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "खाली/व्यस्त समय को परिवर्तित करें">
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -217,31 +217,32 @@
 
 
 
-<!ENTITY event.repeat.label                               "दोहराएँ" >
+<!ENTITY event.repeat.label                               "दोहराएँ:" >
 <!ENTITY event.repeat.accesskey                           "R">
-
-
-
-
-
-
+<!ENTITY event.until.label                                "जब तक">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "स्मरण:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "विवरण:" >
+<!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "संलग्नक:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-<!ENTITY event.attachments.menubutton.label               "संलग्न">
+<!ENTITY event.attachments.menubutton.label               "संलग्न ">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
 <!ENTITY event.attachments.url.label                      "वेब पृष्ठ...">
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "मिटाएँ" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
-<!ENTITY event.attachments.popup.open.label               "खोलें" >
+<!ENTITY event.attachments.popup.open.label               "खोलें " >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "सभी हटाएँ" >
+<!ENTITY event.attachments.popup.removeAll.label          "सभी मिटाएँ" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "वेब पृष्ठ संलग्न करें..." >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "संबंधित कड़ी:" >
 <!ENTITY event.priority2.label                            "प्राथमिकताः">
 
+<!ENTITY event.reminder.none.label                        "कोई स्मरण नहीं" >
 <!ENTITY event.reminder.0minutes.before.label             "0 मिनट पहले" >
 <!ENTITY event.reminder.5minutes.before.label             "5 मिनट पहले" >
 <!ENTITY event.reminder.15minutes.before.label            "15 मिनट पहले" >
@@ -254,19 +255,24 @@
 <!ENTITY event.reminder.1week.before.label                "1 सप्ताह पहले" >
 <!ENTITY event.reminder.custom.label                      "मनपसंद..." >
 
+<!ENTITY event.reminder.multiple.label                    "कई अनुस्मारक…" >
 
-<!ENTITY event.statusbarpanel.privacy.label               "गोपनीयता:">
+<!ENTITY event.statusbarpanel.freebusy.label              "समय के रूप में:">
+<!ENTITY event.statusbarpanel.privacy.label               "गोपनीयता">
 <!-- Recurrence dialog -->
 
-<!ENTITY event.repeat.does.not.repeat.label             "दोहराएँ नहीँ">
+<!ENTITY recurrence.title.label                         "पुनरावृत्ति संपादन">
+
+<!ENTITY event.repeat.does.not.repeat.label             "दोहराएँ नहीं">
 <!ENTITY event.repeat.daily.label                       "प्रतिदिन">
 <!ENTITY event.repeat.weekly.label                      "साप्ताहिक">
-
-
+<!ENTITY event.repeat.every.weekday.label               "प्रत्येक साप्ताहिक दिन">
+<!ENTITY event.repeat.bi.weekly.label                   "सप्ताह में दो बार">
 <!ENTITY event.repeat.monthly.label                     "मासिक">
 <!ENTITY event.repeat.yearly.label                      "वार्षिक">
 <!ENTITY event.repeat.custom.label                      "मनपसंद...">
 
+<!ENTITY event.recurrence.pattern.label                 "पुनरावृत्ति पैटर्न">
 <!ENTITY event.recurrence.occurs.label                  "दोहराएँ" >
 <!ENTITY event.recurrence.day.label                     "प्रतिदिन" >
 <!ENTITY event.recurrence.week.label                    "साप्ताहिक" >
@@ -275,14 +281,14 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "प्रत्येक" >
 <!ENTITY repeat.units.days.both                         "दिन" >
-
+<!ENTITY event.recurrence.pattern.every.weekday.label   "प्रत्येक साप्ताहिक दिन" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "प्रत्येक" >
 <!ENTITY repeat.units.weeks.both                        "सप्ताह" >
-
+<!ENTITY event.recurrence.on.label                      "पर:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "प्रत्येक" >
-<!ENTITY repeat.units.months.both                       "माह" >
+<!ENTITY repeat.units.months.both                       "महिना" >
 <!ENTITY event.recurrence.monthly.every.label           "प्रत्येक" >
 <!ENTITY event.recurrence.monthly.first.label           "पहला">
 <!ENTITY event.recurrence.monthly.second.label          "दूसरा">
