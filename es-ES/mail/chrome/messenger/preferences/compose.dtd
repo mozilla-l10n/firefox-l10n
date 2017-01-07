@@ -48,6 +48,9 @@
 <!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
+<!ENTITY showAsDefault.label "Directorio de inicio por defecto en la ventana de la libreta de direcciones:">
+<!ENTITY showAsDefault.accesskey "D">
+<!ENTITY showAsDefaultLast.label "Último directorio usado">
 <!ENTITY sendOptionsDescription.label "Configurar comportamiento del formato de texto">
 <!ENTITY sendOptions.label "Opciones de envío…">
 <!ENTITY sendOptions.accesskey "v">
