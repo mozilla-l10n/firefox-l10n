@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Priminimo apie priedą reikšminiai žodžiai">
 <!ENTITY attachKeywordText.label          "„&brandShortName;“ įspės apie trūkstamus priedus, jei bandysite siųsti laišką, kuriame bus vienas šių žodžių.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Naujas…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Keisti…">
+<!ENTITY editKeywordButton1.accesskey     "K">
 <!ENTITY removeKeywordButton.label        "Pašalinti">
 <!ENTITY removeKeywordButton.accesskey    "š">
