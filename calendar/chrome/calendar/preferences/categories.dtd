@@ -7,3 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.categories.edit.title "Уреди категорију">
+<!ENTITY pref.categories.editButton.label "Уреди…">
+<!ENTITY pref.categories.editButton.accesskey "У">
+<!ENTITY pref.categories.removeButton.label "Уклони">
