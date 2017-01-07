@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Путања слике:">
 <!ENTITY locationEditField.accessKey "л">
 <!ENTITY locationEditField.tooltip "Унесите име датотеке са сликом или путању">
+<!ENTITY locationEditField.shortenedDataURI "Скраћени URI података (копија ће убацити пуни URI у оставу)">
 <!ENTITY title.label "Савет програма:">
 <!ENTITY title.accessKey "т">
 <!ENTITY title.tooltip "HTML особина „title“ која се приказује као савет програма">
