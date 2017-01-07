@@ -111,10 +111,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "r">
 <!ENTITY mediaPlaybackRate100.label "Velocidad normal">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label "Velocidad rápida (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "v">
 <!ENTITY mediaPlaybackRate150.label "Velocidad alta (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "a">
 <!ENTITY mediaPlaybackRate200.label "Doble velocidad">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label "Repetir">
+<!ENTITY mediaLoop.accesskey "R">
 <!ENTITY mediaShowControls.label "Mostrar controles de medios">
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Ocultar controles de medios">
