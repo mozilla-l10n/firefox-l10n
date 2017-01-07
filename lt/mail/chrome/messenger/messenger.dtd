@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Rodyti glaustai">
 <!ENTITY compactVersion.accesskey "R">
-
-
+<!ENTITY folderPaneBar.label "Aplankų sąrašo priemonių juosta">
+<!ENTITY folderPaneBar.accesskey "A">
 <!ENTITY folderModeSelector.label "Aplankų rodymas">
 <!-- Sort Menu -->
 
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "n">
 <!ENTITY sortByRecipientCmd.label "Gavėjas">
 <!ENTITY sortByRecipientCmd.accesskey "ė">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Korespondentai">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Skaitytas">
 <!ENTITY sortByUnreadCmd.accesskey "S">
 <!ENTITY sortByOrderReceivedCmd.label "Gavimo eilė">

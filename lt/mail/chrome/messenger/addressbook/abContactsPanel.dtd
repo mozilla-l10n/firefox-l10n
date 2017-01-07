@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
+<!ENTITY abPropertiesMenu.label             "Adresų knygos savybės">
+<!ENTITY abPropertiesMenu.accesskey         "s">
 <!ENTITY contactPropertiesMenu.label        "Adresato savybės">
 <!ENTITY contactPropertiesMenu.accesskey    "s">
 <!ENTITY mailingListPropertiesMenu.label    "Adresatų sąrašo savybės">
@@ -28,8 +28,8 @@
 <!ENTITY propertiesContext.accesskey        "S">
 <!ENTITY abPropertiesContext.label          "Savybės">
 <!ENTITY abPropertiesContext.accesskey      "S">
-
-
+<!ENTITY editContactContext.label           "Keisti adresatą">
+<!ENTITY editContactContext.accesskey       "K">
 <!ENTITY editMailingListContext.label       "Keisti sąrašą">
 <!ENTITY editMailingListContext.accesskey   "K">
 

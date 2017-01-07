@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "u">
 <!ENTITY showAnimatedAlert.label          "Parodyti įspėjimą">
 <!ENTITY showAnimatedAlert.accesskey      "ė">
-
+<!ENTITY notificationAlertSettings2.label "Įspėjimus ir numatytuosius garsus galite išjungti Sistemos nuostatų Pranešimų polangyje.">
 <!ENTITY customizeMailAlert.label         "Kitkas…">
 <!ENTITY customizeMailAlert.accesskey     "K">
 

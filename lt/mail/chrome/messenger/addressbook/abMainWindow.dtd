@@ -79,12 +79,12 @@
 
 
 <!ENTITY propertiesCmd.key                              "i">
-
-
+<!ENTITY abPropertiesMenu.label                         "Adresų knygos savybės">
+<!ENTITY abPropertiesMenu.accesskey                     "s">
 <!ENTITY contactPropertiesMenu.label                    "Adresato savybės">
 <!ENTITY contactPropertiesMenu.accesskey                "s">
-
-
+<!ENTITY mailingListPropertiesMenu.label                "Adresatų sąrašo savybės">
+<!ENTITY mailingListPropertiesMenu.accesskey            "s">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Rodymas">
@@ -141,14 +141,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
 <!ENTITY editPropertiesButton.label                     "Keisti">
-
-
-
-
-
-
-
-
+<!ENTITY propertiesContext.label                        "Savybės">
+<!ENTITY propertiesContext.accesskey                    "S">
+<!ENTITY abPropertiesContext.label                      "Savybės">
+<!ENTITY abPropertiesContext.accesskey                  "S">
+<!ENTITY editContactContext.label                       "Keisti adresatą">
+<!ENTITY editContactContext.accesskey                   "K">
+<!ENTITY editMailingListContext.label                   "Keisti sąrašą">
+<!ENTITY editMailingListContext.accesskey               "K">
 <!ENTITY newmsgButton.label                             "Laiškas">
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Žinutė">
