@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Atskiras kvietimas kiekvienam dalyviui">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "A">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Pažymėjus, kiekvienam dalyviui bus siunčiamas atskiras asmeninis kvietimas, todėl visas dalyvių sąrašas kvietime nebus atskleistas.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Neleisti alternatyvių pasiūlymų">
+<!ENTITY event.attendees.disallowcounter.accesskey   "N">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Pažymėjus, nebus priimami alternatyvūs pasiūlymai">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
