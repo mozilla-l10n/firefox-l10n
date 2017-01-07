@@ -495,18 +495,20 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "P">
 <!-- Developer Tools Submenu -->
 
+<!ENTITY devtoolsMenu.label "Programuotojo priemonės">
+<!ENTITY devtoolsMenu.accesskey "o">
 <!ENTITY devToolboxCmd.label "Programuotojo juosta">
 <!ENTITY devToolboxCmd.accesskey "g">
 <!ENTITY devToolboxCmd.commandkey "i">
-
-
+<!ENTITY addonDebugCmd.label "Priedų derintuvė">
+<!ENTITY addonDebugCmd.accesskey "P">
 
 
 <!ENTITY errorConsoleCmd.label "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey "u">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Juodraštis">
+<!ENTITY scratchpadCmd.accesskey "J">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
