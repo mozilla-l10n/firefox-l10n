@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "שם">
+<!ENTITY addButton.label      "הוספת מגירה חדשה">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; חזרה למסך „פרטיות”">
 
+<!ENTITY window.title         "הוספת מגירה חדשה">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "שם:">
