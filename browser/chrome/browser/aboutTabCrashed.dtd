@@ -18,5 +18,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Escriba su dirección de correo aquí">
 <!ENTITY tabCrashed.emailMe "Enviar un correo cuando haya información disponible">
 <!ENTITY tabCrashed.reportSent "Informe de fallo ya enviado; ¡gracias por ayudar a mejorar &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Solicitar pestañas en fondo">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Informar de las pestañas en segundo plano">
 <!ENTITY tabCrashed.autoSubmit "Actualizar las preferencias para enviar automáticamente informes de fallos registrados (y recibir menos mensajes nuestros como este en el futuro)">
