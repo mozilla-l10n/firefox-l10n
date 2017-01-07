@@ -73,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "G">
 <!ENTITY certmgr.fields.label                 "Kiisol Gallol">
 <!ENTITY certmgr.fields.accesskey             "K">
-
-
+<!ENTITY certmgr.hierarchy.label              "Leemto sertifikaaji">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Ɓeydu Faltoore…">
 <!ENTITY certmgr.addException.accesskey       "a">
 
