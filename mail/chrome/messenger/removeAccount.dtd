@@ -15,5 +15,5 @@
 <!ENTITY showData.label               "Rodyti duomenų vietą diske">
 <!ENTITY showData.accesskey           "R">
 <!ENTITY progressPending              "Šalinami pasirinkti duomenys…">
-
-
+<!ENTITY progressSuccess              "Pašalinta sėkmingai.">
+<!ENTITY progressFailure              "Pašalinti nepavyko.">

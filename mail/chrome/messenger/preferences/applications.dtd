@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Gaunami">
 <!ENTITY attachments.outgoing.label   "Siunčiami">
 
-
+<!ENTITY addCloudFileAccount1.label       "Pridėti…">
+<!ENTITY addCloudFileAccount1.accesskey   "P">
 <!ENTITY addCloudFileAccount.description  "Pridėkite failų talpinimo debesyje tarnybą">
 <!ENTITY removeCloudFileAccount.label     "Pašalinti">
 <!ENTITY removeCloudFileAccount.accesskey "š">
