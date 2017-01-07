@@ -105,6 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "הגדרות…">
 <!ENTITY  clearOnCloseSettings.accesskey "ה">
 
+<!ENTITY  browserContainersHeader.label         "מגירות לשוניות">
 <!ENTITY  browserContainersLearnMore.label      "מידע נוסף">
+<!ENTITY  browserContainersEnabled.label        "הפעלת מגירות לשוניות">
+<!ENTITY  browserContainersEnabled.accesskey    "מ">
 <!ENTITY  browserContainersSettings.label        "הגדרות…">
 <!ENTITY  browserContainersSettings.accesskey    "ג">
