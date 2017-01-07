@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Компактни преглед">
 <!ENTITY compactVersion.accesskey "К">
 <!ENTITY folderPaneBar.label "Трака са алаткама окна фасцикле">
+<!ENTITY folderPaneBar.accesskey "Ф">
 <!ENTITY folderModeSelector.label "Прегледи фасцикле">
 
 <!-- Sort Menu -->
@@ -494,9 +495,20 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "г">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Програмерске алатке">
+<!ENTITY devtoolsMenu.accesskey "о">
+<!ENTITY devToolboxCmd.label "Програмерска алатница">
+<!ENTITY devToolboxCmd.accesskey "т">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Поправљач грешака додатака">
+<!ENTITY addonDebugCmd.accesskey "П">
+<!ENTITY tabsDebugCmd.label "Поправљач грешака кадрова садржаја">
+<!ENTITY tabsDebugCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.label "Конзола са грешкама">
 <!ENTITY errorConsoleCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Шкрабалица">
+<!ENTITY scratchpadCmd.accesskey "б">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
