@@ -6,9 +6,10 @@
 <!ENTITY aboutDownloads.header                     "Ebitikulwa Byo">
 <!ENTITY aboutDownloads.empty                      "Tewali Bitikulwa">
 
+<!ENTITY aboutDownloads.open                       "Ggulawo">
 <!ENTITY aboutDownloads.remove                     "Kitte">
 
 <!ENTITY aboutDownloads.pause                      "Wummuzaamu">
 <!ENTITY aboutDownloads.resume                     "Genda mumaso">
 <!ENTITY aboutDownloads.cancel                     "Sazaamu">
-
+<!ENTITY aboutDownloads.retry                      "Gezakobuto">
