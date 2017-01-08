@@ -52,9 +52,9 @@
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
-
-
-
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
@@ -196,13 +196,15 @@
 
 <!-- Main page -->
 
-
-
-
-
-
-
-
+<!ENTITY event.title.textbox.label                        "शीर्षक:" >
+<!ENTITY event.title.textbox.accesskey                    "i">
+<!ENTITY event.location.label                             "स्थान" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "श्रेणी">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "नई प्रविष्टि जोड़ें" >
+<!ENTITY event.calendar.label                             "कैलेन्डर" >
+<!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "सहभागी:" >
 <!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "पूरे दिन का कार्यक्रम" >
@@ -211,12 +213,12 @@
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "प्रारंभ" >
 <!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "अंतः" >
+<!ENTITY event.to.accesskey                               "u">
 
 
-
-
-
-
+<!ENTITY task.status.label                                "स्थिति:" >
+<!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "दोहराएँ:" >
 <!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.until.label                                "जब तक">
@@ -383,7 +385,7 @@
 <!ENTITY event.attendee.role.optional           "वैकल्पिक सहभागी">
 <!ENTITY event.attendee.role.chair              "कुर्सी">
 <!ENTITY event.attendee.role.nonparticipant     "गैर-सहभागी">
-
+<!ENTITY event.attendee.usertype.individual     "प्रत्येक">
 <!ENTITY event.attendee.usertype.group          "समूह">
 <!ENTITY event.attendee.usertype.resource       "संसाधन">
 <!ENTITY event.attendee.usertype.room           "कमरा">
