@@ -111,10 +111,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "м">
 <!ENTITY mediaPlaybackRate100.label "Нормальная скорость">
 <!ENTITY mediaPlaybackRate100.accesskey "о">
+<!ENTITY mediaPlaybackRate125.label "Повышенная скорость (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "ш">
 <!ENTITY mediaPlaybackRate150.label "Высокая скорость (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "ы">
 <!ENTITY mediaPlaybackRate200.label "Двойная скорость">
 <!ENTITY mediaPlaybackRate200.accesskey "в">
+<!ENTITY mediaLoop.label "Повторять">
+<!ENTITY mediaLoop.accesskey "я">
 <!ENTITY mediaShowControls.label "Показать пульт управления">
 <!ENTITY mediaShowControls.accesskey "а">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
