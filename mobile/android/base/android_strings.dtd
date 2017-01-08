@@ -831,3 +831,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Lisää sivuja lukunäkymässä kirjanmerkkeihin lukeaksesi niitä yhteydettömässä tilassa.">
 <!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
 
+<!ENTITY activity_stream_topsites "Ykkössivustot">
+<!ENTITY activity_stream_highlights "Nostot">
+<!ENTITY activity_stream_more "Lisää">
