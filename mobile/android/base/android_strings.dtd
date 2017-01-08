@@ -33,21 +33,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Rensa röran">
 <!ENTITY firstrun_readerview_subtext "Använd Läsvy för att göra artiklar mer lättlästa \u2014 även offline.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Du">
 <!ENTITY firstrun_account_message "Har du &brandShortName; på annan enhet?">
 
 <!ENTITY  onboard_start_restricted1 "Håll dig säker och i kontroll med denna förenklade version av &brandShortName;.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
 
 <!ENTITY  switch_to_tab "Byt till flik">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Visar offline version">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
@@ -81,9 +81,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Skärmdump">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Läslista">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; flikar">
 <!ENTITY bookmark_folder_one_item "1 objekt">
 
@@ -131,35 +131,35 @@
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_general "Allmänt">
 <!ENTITY pref_category_general_summary3 "Hem, språk, flik kö">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Språk">
 <!ENTITY pref_category_language_summary "Byt din webbläsares språk">
 <!ENTITY pref_browser_locale "Webbläsarens språk">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Systemets standard">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Lägg till i &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Bokmärke">
 <!ENTITY overlay_share_bookmark_btn_label_already "Redan bokmärkt">
 <!ENTITY overlay_share_send_other "Skicka till andra enheter">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Skicka till en annan enhet">
 <!ENTITY overlay_share_no_url "Ingen länk funnen på denna delning">
 <!ENTITY overlay_share_select_device "Välj enhet">
@@ -229,8 +229,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Ange adress eller sökord">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Allmänt">
 <!ENTITY pref_header_search "Sök">
 <!ENTITY pref_header_privacy_short "Integritet">
@@ -244,10 +244,10 @@
 <!ENTITY pref_cookies_accept_all "Aktiverad">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Data sparare">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Utvecklarverktyg">
@@ -257,7 +257,7 @@
 <!ENTITY pref_tap_to_load_images_data "Endast via Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blockerad">
 
-<!ENTITY pref_show_web_fonts "Visa webbfonter">
+<!ENTITY pref_show_web_fonts "Visa webbtypsnitt">
 <!ENTITY pref_show_web_fonts_summary2 "Ladda ner externa typsnitt vid laddning av sida">
 
 <!ENTITY pref_tracking_protection_title2 "Spårningsskydd">
@@ -271,18 +271,18 @@
 
 <!ENTITY pref_whats_new_notification "Vad är nytt i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Experimentella funktioner">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "Anpassade flikar">
 <!ENTITY pref_custom_tabs_summary3 "Tillåt appar att öppna webbplatser som använder en anpassad version av &brandShortName;">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktivitetsflöde">
 <!ENTITY pref_activity_stream_summary "En rik visuell historik och en återskapad startsida gör det enklare än någonsin att hitta exakt vad du letar efter i &brandShortName;.">
 
@@ -313,9 +313,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 flik väntar">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
 <!ENTITY tab_queue_notification_settings "För att \&quot;Öppna flera länkar\&quot;, aktivera \u0027Rita över andra appar\u0027 tillståndet för &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
@@ -365,9 +365,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
 
 <!ENTITY pref_media_autoplay_enabled "Tillåt automatisk uppspelning">
@@ -423,13 +423,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; hälsorapport">
 <!ENTITY datareporting_fhr_summary2 "Delar data med &vendorShortName; om webbläsarens status, samt hjälper dig att förstå webbläsarens prestanda">
 <!ENTITY datareporting_abouthr_title "Visa hälsorapporten">
@@ -448,8 +448,8 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Endast via Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
 <!ENTITY pref_update_autodownload_always "Alltid">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Hjälp">
 
 <!ENTITY quit "Avsluta">
@@ -477,16 +477,16 @@ size. -->
 <!ENTITY set_image_fail "Kan inte använda bild">
 <!ENTITY set_image_path_fail "Kunde inte spara bild">
 <!ENTITY set_image_chooser_title "Använd bild som">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Hitta på sidan">
 <!ENTITY find_prev "Föregående">
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Skickar till enhet">
 <!ENTITY media_play "Spela">
 <!ENTITY media_pause "Paus">
@@ -507,10 +507,10 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fäst plats">
 <!ENTITY contextmenu_top_sites_unpin "Lösgör plats">
 <!ENTITY contextmenu_add_search_engine "Lägg till en sökmotor">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Inget användarnamn]">
 <!ENTITY doorhanger_login_edit_title "Editera inloggning">
 <!ENTITY doorhanger_login_edit_username_hint "Användarnamn">
@@ -522,38 +522,38 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Kunde inte kopiera lösenord">
 <!ENTITY doorhanger_login_select_action_text "Välj en annan inloggning">
 <!ENTITY doorhanger_login_select_title "Kopiera lösenord från">
+
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-
 <!ENTITY pref_magnifying_glass_enabled "Förstora små områden">
 <!ENTITY pref_magnifying_glass_enabled_summary2 "Förstora länkar och formulärfält när du petar nära dom">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Fullskärmssurfning">
 <!ENTITY pref_scroll_title_bar_summary2 "Dölj verktygsfältet i &brandShortName; när du bläddrar ner en sida">
 
 <!ENTITY pref_tab_queue_title3 "Köade flikar">
 <!ENTITY pref_tab_queue_summary4 "Spara länkar tills nästa gång du öppnar &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Sidan borttagen">
 
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Plats">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Platsinställningar">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Rensa">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Ytterligare åtgärder">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
@@ -574,9 +574,9 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName; Hem">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Synkade enheter">
@@ -597,19 +597,19 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst! Använder du en &formatS1;Ny Privat Flik&formatS2; kommer din historik inte sparas.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Hittade inget innehåll för panelen.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Gå upp till &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; enheter gömda">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -628,8 +628,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
 <!ENTITY filepicker_image_title "Välj eller ta en bild">
 <!ENTITY filepicker_video_title "Välj eller spela in en video">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du är ansluten till">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -645,21 +645,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Säker anslutning">
 <!ENTITY identity_connection_insecure "Osäker anslutning">
 <!ENTITY identity_connection_chromeui "Detta är en säker &brandShortName; sida">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blockerat osäkra komponenter på sidan.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; har blockerat några osäkra komponenter på sidan.">
 <!ENTITY mixed_content_display_loaded1 "Vissa komponenter av den här sidan är inte säkra (t.ex. bilder).">
 <!ENTITY mixed_content_protection_disabled1 "Du har stängt av skydden från osäkra komponenter.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Spårningsskydd">
 <!ENTITY doorhanger_tracking_state_enabled "Aktiverad">
 <!ENTITY doorhanger_tracking_state_disabled "Inaktiverade">
 <!ENTITY doorhanger_tracking_message_enabled1 "Försök att spåra din online aktivitet har blivit blockerad.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Den här sidan kan inkludera komponenter som vill spåra din surfning.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Läs mer">
 <!ENTITY enable_protection "Aktivera skydd">
 <!ENTITY disable_protection "Inaktivera skydd">
@@ -681,15 +681,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Sök med &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Sök på &formatS1; efter &formatS2;">
 
 <!ENTITY searchable_description "Bokmärken och historik">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_start_select2 "Tryck för att ladda ner">
 
@@ -700,15 +700,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "För att ladda ner filer och uppdateringar, tillåt &brandShortName; att använda lagring.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Tillåt">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gästsession">
 <!ENTITY exit_guest_session "Stäng gästsession">
 <!ENTITY guest_session_dialog_continue "Fortsätt">
@@ -720,45 +720,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; kommer nu startas om">
 <!ENTITY exit_guest_session_text "Webbläsardatan från den här sessionen kommer att raderas.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-
 <!ENTITY percent "&formatS;&#037;&#037;">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Meny">
 <!ENTITY actionbar_done "Klart">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Prata nu">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Senast synkad:  &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Senast synkad: aldrig">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Denna länken kommer öppna i &formatS; Är du säker att du vill avsluta Privat surfning?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -768,18 +768,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Avsluta Privat surfning?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Scanning för QR-kod som visas på den andra enheten">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Tillägg">
 <!ENTITY restrictable_feature_addons_installation_description "Lägg till verktyg eller funktionalitet till Firefox. Notera: Tillägg kan bli borttagna på grund av vissa restriktioner.">
 <!ENTITY restrictable_feature_private_browsing "Privat surfning">
@@ -792,9 +792,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Tillåter familjemedlemmar att engagera sig i realtids kommunikation på hemsidor.">
 <!ENTITY restrictable_feature_block_list "Blockeringslista">
 <!ENTITY restrictable_feature_block_list_description "Blockera webbplatser som innehåller känsligt innehåll.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Om webbläsaren">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Anpassa med tillägg">
@@ -804,17 +804,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Firefox Hjälp och Support för begränsade profiler på Android surfplattor">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Lär dig mer om webben: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Förlåt! Denna &brandShortName; kommer inte att fungera på denna enheten (&formatS1;, &formatS2;). Snälla ladda ner korrekt version.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; kommer inte längre att uppdateras">
 <!ENTITY eol_notification_summary "Tryck för att lära dig mer">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; är redan uppdaterad">
 <!ENTITY whatsnew_notification_summary "Se vad som är nytt i den här versionen">
 
@@ -830,16 +830,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Mest besökta webbplatser">
 <!ENTITY activity_stream_highlights "Höjdpunkter">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Bokmärkt">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besökt">
+
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
 <!ENTITY activity_stream_dismiss "Ignorera">
 <!ENTITY activity_stream_delete_history "Ta bort från historik">
