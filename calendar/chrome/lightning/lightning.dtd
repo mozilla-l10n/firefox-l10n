@@ -67,7 +67,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisional">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accepta la invitació a la cita provisionalment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tot provisional">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepta la invitació a la cita provisionalment de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepta la invitació provisionalment en totes les ocurrències de la cita">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualitza">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualitza la cita al calendari">
 <!ENTITY lightning.imipbar.description                                      "Aquest missatge conté una invitació a una cita.">
