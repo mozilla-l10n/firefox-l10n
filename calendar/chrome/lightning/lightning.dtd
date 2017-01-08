@@ -43,14 +43,14 @@
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Accepta">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accepta la invitació a la cita">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Accepta-ho tot">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepta la invitació a la cita de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepta la invitació en totes les ocurrències de la cita">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Afegeix">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Afegeix la cita al calendari">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Rebutja">
-<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Rebutja la invitació a la cita">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Rebutja-ho tot">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Rebutja la invitació a la cita de totes les ocurrències de la cita">
-<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Rebutja">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Declina">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Declina la invitació a la cita">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Declina-ho tot">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Declina la invitació en totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Declina">
 
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Suprimeix">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Suprimeix del calendari">
