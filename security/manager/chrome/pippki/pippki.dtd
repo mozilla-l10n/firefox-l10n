@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Sol·licitud d'identificació de l'usuari">
 <!ENTITY clientAuthAsk.message1 "Aquest lloc ha sol·licitat que us identifiqueu amb un certificat:">
 <!ENTITY clientAuthAsk.message2 "Trieu un certificat per presentar-lo com a identificació:">
-
+<!ENTITY clientAuthAsk.message3 "Detalls del certificat seleccionat:">
 
 <!ENTITY pkcs12.setpassword.title  "Trieu una contrasenya per a la còpia de seguretat del certificat">
 <!ENTITY pkcs12.setpassword.message  "La contrasenya per a la còpia de seguretat del certificat que definiu aquí protegeix el fitxer de còpia de seguretat que ara creareu. Heu de definir-la per seguir amb la còpia de seguretat.">
