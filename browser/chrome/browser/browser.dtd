@@ -208,10 +208,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Näytä sivuston tiedot">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avaa viestipaneeli">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallitse liitännäisen käyttöä">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Avaa paikannustietojen pyyntöpaneeli">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avaa lisäosan asentamisen viestipaneeli">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avaa verkkoyhteydettömän tilan tietovaraston viestipaneeli">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avaa salasanan tallentamisen viestipaneeli">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallinnoi liitännäisen käyttöä">
 
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Avaa asentamisen viestipaneeli">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hallinnoi sivun kääntämistä toiselle kielelle">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
