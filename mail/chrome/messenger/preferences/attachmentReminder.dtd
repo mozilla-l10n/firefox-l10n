@@ -6,7 +6,7 @@
 <!ENTITY attachKeywordText.label          "El &brandShortName; us avisarà que us falta adjuntar algun fitxer quan estigueu a punt d'enviar un correu que contingui una de les paraules següents.">
 
 
-
-
+<!ENTITY editKeywordButton1.label         "Edita…">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Suprimeix">
 <!ENTITY removeKeywordButton.accesskey    "S">

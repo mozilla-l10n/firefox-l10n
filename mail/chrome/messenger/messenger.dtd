@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualització compacta">
 <!ENTITY compactVersion.accesskey "V">
-
-
+<!ENTITY folderPaneBar.label "Barra d'eines de la subfinestra de carpetes">
+<!ENTITY folderPaneBar.accesskey "f">
 <!ENTITY folderModeSelector.label "Vistes de carpetes">
 <!-- Sort Menu -->
 
