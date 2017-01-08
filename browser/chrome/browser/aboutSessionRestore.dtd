@@ -44,7 +44,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Tus complementos y personalizaciones han sido eliminados y la configuración de tu navegador ha sido restaurada a sus valores predeterminados. Si esto no corrige el problema, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Los complementos y personalizaciones han sido eliminados y la configuración del navegador ha sido restaurada a sus valores predeterminados. Si esto no corrige el problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "conozca más acerca de lo que puede hacer.">
