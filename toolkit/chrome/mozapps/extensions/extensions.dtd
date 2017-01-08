@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ম্যানুয়াল">
 <!ENTITY disabledUnsigned.devInfo.end "।">
 
+<!ENTITY pluginDeprecation.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন &brandShortName; আর সমর্থন করে না।">
 
