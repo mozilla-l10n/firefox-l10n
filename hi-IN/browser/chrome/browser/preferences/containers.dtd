@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "नाम">
-
-
+<!ENTITY addButton.label      "नया पात्र जोड़े">
+<!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
 <!ENTITY window.title         "नया पात्र जोड़े">
