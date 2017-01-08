@@ -38,6 +38,7 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Име на уред:">
+<!ENTITY fxaSyncDeviceName.label       "Име на уред">
 <!ENTITY unlinkDevice.label           "Прекини ја врската со овој уред">
 
 <!-- Footer stuff -->
