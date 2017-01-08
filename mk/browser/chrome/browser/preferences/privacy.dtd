@@ -79,3 +79,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Поставки…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
+
+<!ENTITY  browserContainersHeader.label         "Контејнерски јазичиња">
+<!ENTITY  browserContainersLearnMore.label      "Дознајте повеќе">
+<!ENTITY  browserContainersEnabled.label        "Овозможи контејнерски јазичиња">
+<!ENTITY  browserContainersSettings.label        "Поставки…">
