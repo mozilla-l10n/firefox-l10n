@@ -208,10 +208,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Näytä sivuston tiedot">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avaa viestipaneeli">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallitse liitännäisen käyttöä">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Avaa paikannustietojen pyyntöpaneeli">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avaa lisäosan asentamisen viestipaneeli">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avaa verkkoyhteydettömän tilan tietovaraston viestipaneeli">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avaa salasanan tallentamisen viestipaneeli">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallinnoi liitännäisen käyttöä">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Muuta sitä, voitko saada ilmoituksia tältä sivustolta">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hallinnoi kameran tai mikrofonin jakamista sivustolle">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hallinnoi mikrofonin jakamista sivustolle">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hallinnoi ikkunoiden tai näytön jakamista sivustolle">
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hallinnoi sivun kääntämistä toiselle kielelle">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
@@ -723,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
+<!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
