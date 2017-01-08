@@ -224,11 +224,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevođenjem stranice">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
 
-
-
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ovoj ste stranici zabranili korištenje kamere.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ovoj ste stranici zabranili korištenje mikrofona.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ovoj ste stranici zabranili dijeljenje vaše radne površine.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ovoj stranici ste zabranili pristup informaciji o vašoj lokaciji.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ovoj ste stranici zabranili mogućnost pohrane podataka.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
