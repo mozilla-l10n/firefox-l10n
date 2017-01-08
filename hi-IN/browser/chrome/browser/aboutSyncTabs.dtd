@@ -9,7 +9,7 @@
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
 <!ENTITY tabs.context.openTab.label                   "इस टैब को खोलें">
-<!ENTITY tabs.context.openTab.accesskey               "इ">
+<!ENTITY tabs.context.openTab.accesskey               "O">
 <!ENTITY tabs.context.openMultipleTabs.label          "चुने गए टैब खोलें">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "च">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "इस टैब को Bookmark करें…">

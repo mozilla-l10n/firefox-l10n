@@ -78,7 +78,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label " ऑफ़लाइन काम करें">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "मेन्यू पट्टी">
+<!ENTITY menubarCmd.label "मेनू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचरण औज़ारपट्टी">
 <!ENTITY personalbarCmd.label "पुस्तचिह्न औज़ारपट्टी">
@@ -380,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "मेन्यू की ओर खिसकाये">
+<!ENTITY customizeMenu.moveToPanel.label "मेनू की ओर खिसकाये">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से मिटाएँ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
