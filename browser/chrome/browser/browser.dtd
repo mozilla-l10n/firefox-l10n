@@ -410,18 +410,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.label         "Пребарај во ново јазиче">
 <!ENTITY searchSetAsDefault.label     "Постави како основен пребарувач">
 
-<!ENTITY openLinkCmdInTab.label       "Отвори ја врската во ново јазиче">
+<!ENTITY openLinkCmdInTab.label       "Отвори во ново јазиче">
 <!ENTITY openLinkCmdInTab.accesskey   "ј">
-<!ENTITY openLinkCmd.label            "Отвори ја врската во нов прозорец">
+<!ENTITY openLinkCmd.label            "Отвори во нов прозорец">
 <!ENTITY openLinkCmd.accesskey        "п">
-<!ENTITY openLinkInPrivateWindowCmd.label "Отвори врска во нов приватен прозорец">
+<!ENTITY openLinkInPrivateWindowCmd.label "Отвори нов приватен прозорец">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "п">
-<!ENTITY openLinkCmdInCurrent.label     "Отвори врска">
+<!ENTITY openLinkCmdInCurrent.label     "Отвори ја врската">
 <!ENTITY openLinkCmdInCurrent.accesskey "О">
 <!ENTITY openFrameCmdInTab.label      "Отвори ја рамката во ново јазиче">
 <!ENTITY openFrameCmdInTab.accesskey  "ј">
 <!ENTITY openFrameCmd.label           "Отвори ја рамката во нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
+<!ENTITY openLinkCmdInContainerTab.label "Отвори во ново контејнерско јазиче">
 <!ENTITY showOnlyThisFrameCmd.label     "Покажи ја само оваа рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "к">
 <!ENTITY reloadCmd.commandkey         "r">
