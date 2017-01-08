@@ -330,7 +330,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.9.label       "सितम्बर" >
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "अक्टूबर" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "नवम्बर" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "दिसबंर" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "दिसंबर" >
 <!ENTITY event.recurrence.yearly.every.label                 "प्रत्येक">
 <!ENTITY event.recurrence.yearly.first.label                 "पहला">
 <!ENTITY event.recurrence.yearly.second.label                "दूसरा">
@@ -342,11 +342,11 @@
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "सोमवार" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "मंगलवार" >
 <!ENTITY event.recurrence.pattern.yearly.week.4.label        "बुधवार" >
-<!ENTITY event.recurrence.pattern.yearly.week.5.label        "गरूवार" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "गुरूवार" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "शुक्रवार" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "शनिवार" >
 <!ENTITY event.recurrence.pattern.yearly.day.label           "दिन" >
-
+<!ENTITY event.recurrence.of.label                           "का" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "जनवरी" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "फ़रवरी" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "मार्च" >
@@ -360,28 +360,29 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "नवम्बर" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "दिसबंर" >
 
-<!ENTITY event.recurrence.forever.label                 "कोई आखरी तारीक नहीं" >
+<!ENTITY event.recurrence.range.label                   "पुनरावृत्ति की सीमा">
+<!ENTITY event.recurrence.forever.label                 "कोई अंतिम तारीख़ नहीं" >
 <!ENTITY event.recurrence.repeat.for.label              "बनाएँ" >
-
-
+<!ENTITY event.recurrence.appointments.label            "मुलाकात" >
+<!ENTITY event.repeat.until.label                       "दोहराएँ जब तक" >
 <!ENTITY event.recurrence.preview.label                 "पूर्वावलोकन">
 <!-- Attendees dialog -->
 
 <!ENTITY invite.title.label                     "सहभागीयो को आमंत्रित करें">
 <!ENTITY event.organizer.label                  "आयोज‍क">
-
-
-
-
+<!ENTITY event.freebusy.suggest.slot            "समय स्लॉट का सुझाव -">
+<!ENTITY event.freebusy.button.next.slot        "अगला स्लॉट">
+<!ENTITY event.freebusy.button.previous.slot    "पिछला स्लॉट">
+<!ENTITY event.freebusy.zoom                    "ज़ूमः">
 <!ENTITY event.freebusy.legend.free             "खाली" >
 <!ENTITY event.freebusy.legend.busy             "व्यस्त" >
-
-
-
-
-
-
-
+<!ENTITY event.freebusy.legend.busy_tentative   "अनिश्चित" >
+<!ENTITY event.freebusy.legend.busy_unavailable "कार्यालय के बाहर" >
+<!ENTITY event.freebusy.legend.unknown          "कोई सूचना नहीं" >
+<!ENTITY event.attendee.role.required           "आवश्यक प्रतिभागी">
+<!ENTITY event.attendee.role.optional           "वैकल्पिक सहभागी">
+<!ENTITY event.attendee.role.chair              "कुर्सी">
+<!ENTITY event.attendee.role.nonparticipant     "गैर-सहभागी">
 
 <!ENTITY event.attendee.usertype.group          "समूह">
 <!ENTITY event.attendee.usertype.resource       "संसाधन">
@@ -389,23 +390,27 @@
 <!ENTITY event.attendee.usertype.unknown        "अज्ञात">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "कृपया समय क्षेत्र उल्लिखित करें">
+<!ENTITY event.timezone.custom.label     "अन्य समय क्षेत्र…">
 <!-- Read-Only dialog -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY read.only.general.label         "सामान्य">
+<!ENTITY read.only.title.label           "शीर्षक:">
+<!ENTITY read.only.event.start.label     "प्रारंभिक तिथि:">
+<!ENTITY read.only.task.start.label      "प्रारंभिक तिथि:">
+<!ENTITY read.only.event.end.label       "समाप्ति तिथि:">
+<!ENTITY read.only.task.due.label        "समाप्ति तिथि:">
+<!ENTITY read.only.repeat.label          "दोहराएँ:">
+<!ENTITY read.only.location.label        "स्थान:">
+<!ENTITY read.only.category.label        "वर्गः">
+<!ENTITY read.only.organizer.label       "आयोज‍क:">
+<!ENTITY read.only.reply.label           "जवाब:">
+<!ENTITY read.only.accept.label          "मैं भाग लूँगा">
+<!ENTITY read.only.decline.label         "मैं भाग नही लूँगा">
+<!ENTITY read.only.tentative.label       "मैं भाग ले सकता हूँ">
+<!ENTITY read.only.needs.action.label    "मैं बाद में पुष्टि करूँगा">
+<!ENTITY read.only.reminder.label        "स्मरण:">
+<!ENTITY read.only.attachments.label     "संलग्नक:">
+<!ENTITY read.only.attendees.label       "सहभागी">
+<!ENTITY read.only.description.label     "विवरण">
+<!ENTITY read.only.link.label            "सम्बन्धित कड़ी">
