@@ -219,8 +219,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hallinnoi mikrofonin jakamista sivustolle">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hallinnoi ikkunoiden tai näytön jakamista sivustolle">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Avaa asentamisen viestipaneeli">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Käännä sivu">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hallinnoi sivun kääntämistä toiselle kielelle">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hallinnoi DRM-ohjelmiston käyttöä">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
