@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Prijímané prílohy">
 <!ENTITY attachments.outgoing.label   "Odosielané prílohy">
 
-<!ENTITY addCloudFileAccount.label        "Pridať">
-<!ENTITY addCloudFileAccount.accesskey    "P">
+<!ENTITY addCloudFileAccount1.label       "Pridať…">
+<!ENTITY addCloudFileAccount1.accesskey   "P">
 <!ENTITY addCloudFileAccount.description  "Pridať novú službu na odosielanie príloh">
 <!ENTITY removeCloudFileAccount.label     "Odstrániť">
 <!ENTITY removeCloudFileAccount.accesskey "O">

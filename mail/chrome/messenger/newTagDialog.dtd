@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Vytvoriť nový popis">
+<!ENTITY newTagDialog1.title     "Nový popis">
 <!ENTITY name.label              "Názov popisu:">
 <!ENTITY name.accesskey          "N">

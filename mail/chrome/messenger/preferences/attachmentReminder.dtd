@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Kľúčové slová pre kontrolu prítomnosti príloh">
 <!ENTITY attachKeywordText.label          "&brandShortName; vás upozorní na chýbajúcu prílohu, ak sa pokúsite odoslať e-mailovú správu, ktorá bude obsahovať jedno z uvedených kľúčových slov.">
-<!ENTITY addKeywordButton.label           "Pridať">
-<!ENTITY addKeywordButton.accesskey       "P">
-<!ENTITY editKeywordButton.label          "Upraviť">
-<!ENTITY editKeywordButton.accesskey      "U">
+<!ENTITY newKeywordButton.label           "Nový…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Upraviť…">
+<!ENTITY editKeywordButton1.accesskey     "U">
 <!ENTITY removeKeywordButton.label        "Odstrániť">
 <!ENTITY removeKeywordButton.accesskey    "O">
