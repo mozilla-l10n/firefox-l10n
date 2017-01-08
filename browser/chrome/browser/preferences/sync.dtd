@@ -73,6 +73,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Et ole kirjautunut sisään.">
 <!ENTITY signIn.label                "Kirjaudu sisään">
+<!ENTITY signIn.accesskey            "r">
 <!ENTITY profilePicture.tooltip      "Vaihda kuva">
 <!ENTITY verifiedManage.label        "Hallinnoi tiliä">
 <!ENTITY verifiedManage.accesskey    "H">
@@ -93,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.">
 <!ENTITY signedOut.accountBox.title   "Yhdistä &syncBrand.fxAccount.label;in">
 <!ENTITY signedOut.accountBox.create  "Luo tili">
+<!ENTITY signedOut.accountBox.create.accesskey  "L">
 <!ENTITY signedOut.accountBox.signin  "Kirjaudu sisään">
+<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.engines.label       "Synkronoi kaikki laitteesi">
 
