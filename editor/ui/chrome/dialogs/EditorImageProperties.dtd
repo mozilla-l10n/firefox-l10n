@@ -53,7 +53,7 @@
 <!ENTITY topPopup.value "No topo">
 <!ENTITY centerPopup.value "No centro">
 <!ENTITY wrapRightPopup.value "Encapsular à direita">
-<!ENTITY wrapLeftPopup.value "Escapsular à esquerda">
+<!ENTITY wrapLeftPopup.value "Encapsular à esquerda">
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Espaçamento">
