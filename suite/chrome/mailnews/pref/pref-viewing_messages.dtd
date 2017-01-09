@@ -20,7 +20,7 @@
 <!ENTITY fontPlainText.accesskey          "l">
 <!ENTITY displayQuoted.label              "Definição para citação de mensagens:">
 <!ENTITY wrapInMsg.label                  "Encapsular texto para caber na largura da janela">
-<!ENTITY wrapInMsg.accesskey              "x">
+<!ENTITY wrapInMsg.accesskey              "E">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Mostrar ícones emotivos como gráficos">
 <!ENTITY convertEmoticons.accesskey       "o">
