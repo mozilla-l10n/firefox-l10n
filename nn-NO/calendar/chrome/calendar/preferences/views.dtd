@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Fyrste dag i veka:">
 <!ENTITY pref.weekstarts.accesskey "y">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vis vekenummer i visingar og minimånad">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Dagar i arbeidsveka:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen startar klokka:">
