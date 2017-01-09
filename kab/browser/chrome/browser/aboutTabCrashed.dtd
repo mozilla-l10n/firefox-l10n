@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl-inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan aneqqis n uɣelluy; tanemmirt-ik ɣef uttekki deg usnerni n &brandShortName;.">
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "Asuter n iccaren nugilal ">
 <!ENTITY tabCrashed.autoSubmit "Snifel ismenyifen akken ad tazneḍ s wudem awurman ineqqisen n uɣelluy (udiɣ awi kra n yeznan am-agi sɣur-neɣ akka ar zdat)">
