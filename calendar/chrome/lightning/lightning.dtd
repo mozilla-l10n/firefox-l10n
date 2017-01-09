@@ -46,12 +46,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Godta invitasjon til hendinga for alle oppføringar av hendinga">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Legg til">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Legg til hendinga i kalenderen">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Avvis">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avvis hendingsinvitasjon">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avvis alle">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avvis hendingsinvitasjonen for alle oppføringar av hendinga">
-
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Avvis">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Avvis motforslaget">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Slett">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slett frå kalenderen">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljar…">
