@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "Lenke …">
 <!ENTITY insertLinkCmd2.accesskey "L">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Namngjeve anker …">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Bilde …">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "y">
-
+<!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Fjern namngjevne anker">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
 <!ENTITY formatRemoveNamedAnchors2.key "r">
