@@ -60,8 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å visa fleire val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Stadfest på nytt">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender ei ny stadfesting til hendingsinnkallar">
-
-
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Planlegg på nytt">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Planlegge hendinga på nytt">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagre ein kopi">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagre ein kopi av hendinga i kalenderen, uavhengig om du svarar organisator. Deltakarlista vert sletta.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med atterhald">
