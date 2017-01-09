@@ -244,3 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "təlimatları">
 <!ENTITY disabledUnsigned.devInfo.end " oxumaqla başlaya bilərlər.">
 
+<!ENTITY pluginDeprecation.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
+<!ENTITY pluginDeprecation.learnMore "Ətraflı Öyrən.">
