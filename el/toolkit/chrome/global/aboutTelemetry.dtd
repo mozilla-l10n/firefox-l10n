@@ -57,6 +57,9 @@ Ping
 
 
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Μονόμετρα μεγέθη με κλειδί
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Ιστογράμματα
