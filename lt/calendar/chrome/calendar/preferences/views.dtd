@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Pirmoji savaitės diena:">
 <!ENTITY pref.weekstarts.accesskey "r">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Rodyti savaičių numerius">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Šios dienos priklauso darbo savaitei:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dienos pradžia:">

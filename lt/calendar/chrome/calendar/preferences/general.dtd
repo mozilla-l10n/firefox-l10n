@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Optimizuoti spalvas turintiems regėjimo negalią" >
 <!ENTITY pref.systemcolors.accesskey "s">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Įvykiai ir darbai" >
+<!ENTITY pref.editInTab.label "Redaguoti įvykius ir darbus kortelėje, o ne dialogo lange." >
+<!ENTITY pref.editInTab.accesskey "k">
