@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Yleiset">
-<!ENTITY dataChoicesTab.label    "Data Choices">
+<!ENTITY dataChoicesTab.label    "Kerätyt tiedot">
 <!ENTITY itemUpdate.label        "Päivitys">
 <!ENTITY itemNetworking.label    "Verkkoyhteys ja levytila">
 <!ENTITY itemCertificates.label  "Varmenteet">
