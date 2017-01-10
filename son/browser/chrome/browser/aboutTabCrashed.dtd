@@ -19,10 +19,10 @@
 
 
 
-
-
+<!ENTITY tabCrashed.commentPlaceholder2 "Daarayaŋ tonton (daarawey ga hin ka diyandi)">
+<!ENTITY tabCrashed.includeURL2 "Moo aderesu dam kaŋyan bayrandoo woo bande">
 <!ENTITY tabCrashed.emailPlaceholder "War bataga aderesoo dam ne">
 <!ENTITY tabCrashed.emailMe "Bataga tee yane nd' alhabar tontoni bangay">
 <!ENTITY tabCrashed.reportSent "Kaŋyan bayrandi n' ka sanbandi ka ben; foofo nda war faabaa ka &brandShortName; boryandi ka tonton!">
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "Bandafaari kanjey bayrandi">
 

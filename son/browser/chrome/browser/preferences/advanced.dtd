@@ -40,8 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Bay ka tonton">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Kaŋyan bayrandey ga &vendorShortName; faaba ka harasawey hanse nda ka war ceecijinaa tabatandi nda saajaw">
+<!ENTITY alwaysSubmitCrashReports.label   "Naŋ &brandShortName; ma kaŋyan bayrandi margantey sanba war se">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Bay ka tonton">
 
 <!ENTITY networkTab.label                "Sankay">
