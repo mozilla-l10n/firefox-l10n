@@ -125,6 +125,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Taƴto Conditional Breakpoint">
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Iwdeele">
@@ -148,7 +150,7 @@
 
 <!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
-
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 <!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
