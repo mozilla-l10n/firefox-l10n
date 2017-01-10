@@ -15,11 +15,13 @@
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+<!ENTITY toolboxFramesTooltip          "Επιλέξτε ένα iframe ως το τρέχον έγγραφο-στόχος">
 
 <!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+<!ENTITY toolboxNoAutoHideTooltip      "Απενεργοποίηση αυτόματης απόκρυψης αναδυόμενου">
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
@@ -43,10 +45,12 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Προεπιλεγμένη μονάδα χρώματος">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -121,6 +125,7 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   'Χρήση του θέματος "Έκδοση για προγραμματιστές"'>
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -143,10 +148,12 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Εμφάνιση αρχικών πηγών">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Αυτόματη συμπλήρωση CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Αυτόματη συμπλήρωση ιδιοτήτων CSS, τιμών και επιλογέων στην Επεξεργασία Στυλ καθώς πληκτρολογείτε">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
@@ -168,6 +175,10 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Προτιμήσεις επεξεργασίας">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Αυτόματο κλείσιμο παρενθέσεων">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Αυτόματη εισαγωγή παρενθέσεων κλεισίματος">
 <!ENTITY options.sourceeditor.tabsize.label             "Μέγεθος καρτέλας">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "Κ">
+<!ENTITY options.sourceeditor.keybinding.label          "Συντομεύσεις πλήκτρων">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "Σ">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Προεπιλογή">
