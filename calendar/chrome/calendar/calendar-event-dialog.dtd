@@ -188,10 +188,12 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Pritaikyti pasiūlytus pakeitimus">
+<!ENTITY counter.button.proposal.accesskey                "s">
+<!ENTITY counter.button.proposal.tooltip2                 "Įvykio savybių laukai bus užpildyti, naudojant alternatyvaus pasiūlymo duomenis. Įvykio dalyviai bus informuoti tik įrašius pakeitimus">
+<!ENTITY counter.button.original.label                    "Pritaikyti pirminius duomenis">
+<!ENTITY counter.button.original.accesskey                "d">
+<!ENTITY counter.button.original.tooltip2                 "Įvykio savybių laukai bus užpildyti, naudojant pirminius jo duomenis, buvusius iki gaunant alternatyvų pasiūlymą">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Pavadinimas:" >
@@ -410,7 +412,7 @@
 <!ENTITY read.only.tentative.label       "Galbūt dalyvausiu">
 <!ENTITY read.only.needs.action.label    "Apsisprendimą pranešiu vėliau">
 <!ENTITY read.only.reminder.label        "Priminimas:">
-
+<!ENTITY read.only.attachments.label     "Priedai:">
 <!ENTITY read.only.attendees.label       "Dalyviai">
 <!ENTITY read.only.description.label     "Aprašas">
 <!ENTITY read.only.link.label            "Saitas">
