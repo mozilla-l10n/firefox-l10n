@@ -36,11 +36,15 @@
 <!ENTITY community.creditsLink      "bantu munsi yonna">
 <!ENTITY community.end3             " abaakolera awamu okukuuma Omutimbagano nga muggule era nga gutukiibwako buli omu.">
 
+<!ENTITY helpus.start               "Oyagala okuyamba?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-
+<!ENTITY helpus.donateLink          "Yayo obuyambi">
+<!ENTITY helpus.middle              ", oba ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "Wenyigiremu!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Kapya kyi">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Ebikwata ku Layisensi ">
@@ -58,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Okwetuukana kwanafuyizibwa omukulu w'ebyuma byo">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-
+<!ENTITY update.restarting          "Katandika bupya">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -81,6 +85,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Tosobola kola bipya ku sisitumu eno">
 <!ENTITY update.unsupported.linkText "Manya ebisingawo">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
