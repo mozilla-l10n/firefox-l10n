@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Səhifə tərcüməsini idarə et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM proqramının istifadəsini idarə et">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı bloklamısınız.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt üçün mikrofonunuzu bloklamısınız.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı əngəlləmisiniz.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt üçün mikrofonunuzu əngəlləmisiniz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu saytı ekranınızı paylaşmaqdan bloklamısınız.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt üçün məkan məlumatlarını bloklamısınız.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt üçün məlumat saxlanmasını bloklamısınız.">
@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Uzantı:">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
 
