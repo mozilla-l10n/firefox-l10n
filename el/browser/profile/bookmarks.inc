@@ -39,18 +39,22 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
+#define nightly_heading Πόροι Firefox Nightly
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Παρακολούθηση σφαλμάτων Mozilla
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
+#define mdn Δίκτυο Προγραμματιστών Mozilla
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Εργαλεία δοκιμαστών ημερήσιας έκδοσης
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
@@ -62,5 +66,6 @@
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Πλανήτης Mozilla
 
 #unfilter emptyLines
