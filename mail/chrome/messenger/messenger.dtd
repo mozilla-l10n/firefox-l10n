@@ -526,7 +526,7 @@
 <!ENTITY forwardButton.label "Továbbítás">
 <!ENTITY fileButton.label "Iktatás">
 <!ENTITY archiveButton.label "Archiválás">
-<!ENTITY openConversationButton.label "Társalgás">
+<!ENTITY openConversationButton.label "Beszélgetés">
 <!ENTITY nextButton.label "Következő">
 <!ENTITY nextButtonToolbarItem.label "Következő olvasatlan">
 <!ENTITY nextMsgButton.label "Következő">
@@ -569,7 +569,7 @@
 <!ENTITY forwardAsAttachment.tooltip "A kijelölt üzenet továbbítása mellékletként">
 <!ENTITY fileButton.tooltip "A kijelölt üzenet áthelyezése">
 <!ENTITY archiveButton.tooltip "Kijelölt üzenetek archiválása">
-<!ENTITY openConversationButton.tooltip "A kijelölt üzenet társalgásának megjelenítése">
+<!ENTITY openConversationButton.tooltip "A kijelölt üzenet beszélgetésének megjelenítése">
 <!ENTITY nextButton.tooltip "Ugrás a következő olvasatlan üzenetre">
 <!ENTITY nextMsgButton.tooltip "Ugrás a következő üzenetre">
 <!ENTITY previousButton.tooltip "Ugrás az előző olvasatlan üzenetre">
