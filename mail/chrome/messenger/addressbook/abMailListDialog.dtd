@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY mailListWindowAdd.title        "Uusi postituslista">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Lisää tähän: ">
 
