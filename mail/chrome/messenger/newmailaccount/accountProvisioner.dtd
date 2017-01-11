@@ -2,24 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-# hatul <amiadb@gmail.com>
-# ace <isabag@walla.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# hatul <amiadb@gmail.com>
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY window.title "ברוך בואך ל־&brandShortName;">
-<!ENTITY header.label "האם ברצונך בכתובת דואר חדשה?">
+<!ENTITY header2.label "האם ברצונך לקבל כתובת דוא״ל חדשה?">
 <!ENTITY other.languages "אנו מציגים אך ורק ספקים המציעים כתובות באזור שלך. יש ללחוץ כאן כדי להציג את כל הספקים.">
 <!ENTITY error.line1 "מצטערים, לא מצאנו אף כתובת דוא״ל להציע.">
 <!ENTITY error.line2 "אתה יכול לחפש כינויים או מונחים אחרים כדי למצוא עוד כתובות דוא״ל">
@@ -57,4 +41,3 @@
 <!ENTITY search_engine.title "התאם את מנוע החיפוש שלך">
 <!ENTITY search_engine.message "ספק הדוא״ל שלך יכול גם לספק לך יכולות חיפוש ברשת.">
 <!ENTITY search_engine.button "סיום">
-

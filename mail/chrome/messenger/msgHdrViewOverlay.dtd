@@ -4,7 +4,10 @@
 
 <!ENTITY toField4.label "אל">
 <!ENTITY fromField4.label "מאת">
+<!ENTITY senderField4.label "שולח">
+<!ENTITY organizationField4.label "ארגון">
 
+<!ENTITY subjectField4.label "נושא">
 
 <!ENTITY hdrArchiveButton1.label "ארכיון">
 <!ENTITY hdrArchiveButton1.tooltip "העבר הודעה זו לארכיון">

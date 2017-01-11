@@ -61,5 +61,7 @@
 
 <!ENTITY numberOfMessages.label                  "מספר ההודעות:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "לא ידוע">
 <!ENTITY sizeOnDisk.label                        "גודל בכונן:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "לא ידוע">

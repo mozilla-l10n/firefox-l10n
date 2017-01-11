@@ -2,38 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY itemGeneral.label       "כללי">
-<!ENTITY itemDisplay.label       "קריאה ותצוגה">
+<!ENTITY dataChoicesTab.label    "בחירות נתונים">
 <!ENTITY itemUpdate.label        "עדכון">
 <!ENTITY itemNetworking.label    "רשת ושטח דיסק">
 <!ENTITY itemCertificates.label  "אישורים">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "שליחת נתוני ביצועים">
-<!ENTITY submitTelemetry.accesskey     "ב">
-<!ENTITY telemetryInfoLink.label       "מידע נוסף על Telemetry">
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
+
+
 <!ENTITY systemIntegration.label       "השתלבות במערכת">
 <!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
 <!ENTITY alwaysCheckDefault.accesskey  "ב">
 <!ENTITY searchIntegration.label       "אפשר ל־&searchIntegration.engineName; לחפש הודעות">
 <!ENTITY searchIntegration.accesskey   "ח">
-<!ENTITY checkNow.label                "בדוק כעת...">
-<!ENTITY checkNow.accesskey            "כ">
 <!ENTITY configEditDesc.label          "הגדרות מתקדמות">
 <!ENTITY configEdit.label              "עורך הגדרות...">
 <!ENTITY configEdit.accesskey          "ע">
@@ -41,47 +25,11 @@
 <!ENTITY showReturnReceipts.label      "קבלות חוזרות...">
 <!ENTITY showReturnReceipts.accesskey  "ז">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "קריאה">
-<!ENTITY display.caption               "תצוגה">
-<!ENTITY showCondensedAddresses.label  "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
-<!ENTITY showCondensedAddresses.accesskey "צ">
+<!-- Data Choices -->
 
-<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראות">
-<!ENTITY autoMarkAsRead.accesskey      "א">
-<!ENTITY markAsReadNoDelay.label       "מיד עם הצגתה">
-<!ENTITY markAsReadNoDelay.accesskey   "מ">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "לאחר הצגה למשך">
-<!ENTITY markAsReadDelay.accesskey     "ל">
-<!ENTITY secondsLabel.label            "שניות">
-<!ENTITY openMsgIn.label               "פתח הודעות">
-<!ENTITY openMsgInNewTab.label         "בלשונית חדשה">
-<!ENTITY openMsgInNewTab.accesskey     "ל">
-<!ENTITY reuseExpRadio0.label          "בחלון הודעה חדש">
-<!ENTITY reuseExpRadio0.accesskey      "ד">
-<!ENTITY reuseExpRadio1.label          "בחלון הודעה קיים">
-<!ENTITY reuseExpRadio1.accesskey      "ח">
-<!ENTITY closeMsgOnMoveOrDelete.label  "סגירת חלון/לשונית ההודעה לאחר העברה או מחיקה">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "ס">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "בדוק אוטומטית אם קיימים עדכונים עבור:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "תוספות מותקנות">
-<!ENTITY enableAddonsUpdate.accesskey   "מ">
-<!ENTITY whenUpdatesFound.label         "כאשר נמצאים עדכונים עבור &brandShortName;,">
-<!ENTITY modeAskMe.label                "שאל אותי מה ברצוני לעשות">
-<!ENTITY modeAskMe.accesskey            "ש">
-<!ENTITY modeAutomatic.label            "הורד והתקן את העדכון באופן אוטומטי">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "הזהר אותי אם הדבר ינטרל חלק מהתוספות שלי">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "הצג היסטוריית עדכונים">
-<!ENTITY showUpdates.accesskey          "U">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "הגדרות…">
@@ -93,10 +41,7 @@
 <!ENTITY showOffline.label             "לא־מקוון...">
 <!ENTITY showOffline.accesskey         "מ">
 
-<!ENTITY Diskspace "שטח דיסק">
-<!ENTITY offlineCompact.label "דחוס תיקיות כאשר זה יחסוך יותר מאשר">
-<!ENTITY offlineCompact.accesskey "ד">
-<!ENTITY mb.label "מ״ב">
+<!ENTITY Diskspace                       "שטח דיסק">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -117,12 +62,5 @@
 <!ENTITY certs.ask                       "שאל אותי תמיד">
 <!ENTITY certs.ask.accesskey             "מ">
 
-<!ENTITY viewCertificates.label         "הצג אישורים">
-<!ENTITY viewCertificates.accesskey     "צ">
-<!ENTITY viewCRLs.label                 "רשימות ביטולים">
-<!ENTITY viewCRLs.accesskey             "ר">
-<!ENTITY validation.label               "אימות">
-<!ENTITY validation.accesskey           "א">
-<!ENTITY viewSecurityDevices.label      "התקני אבטחה">
-<!ENTITY viewSecurityDevices.accesskey  "ה">
-
+<!ENTITY viewSecurityDevices.label "התקני אבטחה">
+<!ENTITY viewSecurityDevices.accesskey "ה">
