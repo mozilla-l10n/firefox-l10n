@@ -6,11 +6,13 @@
 <!ENTITY accountProtocolField.label   "רשת:">
 
 <!ENTITY accountUsernameTitle.label   "שם משתמש">
+<!ENTITY accountUsernameDuplicate.label "חשבון זה כבר הוגדר!">
 
 <!ENTITY accountPasswordTitle.label   "ססמה">
 <!ENTITY accountPasswordField.label   "ססמה:">
 
 <!ENTITY accountAdvancedTitle.label   "אפשרויות מתקדמות">
+<!ENTITY accountProxySettings.caption "הגדרות שרת מתווך">
 <!ENTITY accountProxySettings.change.label     "שינוי…">
 
 <!ENTITY accountSummaryTitle.label   "תקציר">
