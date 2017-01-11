@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "פרטי גישה שמוזנים שעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
+<!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
