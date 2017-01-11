@@ -2,19 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Reviewer(s):
-#
-# hatul <amiadb@gmail.com>
-#
--->
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "הגדרות שרת יוצא (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "למרות שניתן לציין יותר משרת דואר יוצא (SMTP) אחד, הדבר מומלץ רק למשתמשים מתקדמים. הגדרת שרתי SMTP מרובים יכולה לגרום לשגיאות בשליחת הודעות.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 <!ENTITY smtpListAdd.label  "הוספה…">
 <!ENTITY smtpListAdd.accesskey  "ה">
@@ -25,10 +18,10 @@
 <!ENTITY smtpListSetDefault.label "קבע כברירת מחדל">
 <!ENTITY smtpListSetDefault.accesskey "ב">
 
+<!ENTITY serverDetails.label "פרטי השרת הנבחר:">
 <!ENTITY serverDescription.label "תיאור: ">
 <!ENTITY serverName.label "שם השרת: ">
 <!ENTITY serverPort.label "שער: ">
 <!ENTITY userName.label   "שם משתמש: ">
 <!ENTITY connectionSecurity.label "קישור מאובטח: ">
 <!ENTITY authMethod.label   "צורת אימות: ">
-

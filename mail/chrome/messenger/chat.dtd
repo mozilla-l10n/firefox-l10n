@@ -2,12 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY onlineContactsHeader.label    "אנשי קשר מקוונים">
+<!ENTITY offlineContactsHeader.label   "אנשי קשר לא מחוברים">
+<!ENTITY conversationsHeader.label     "שיחות">
+<!ENTITY searchResultConversation.label "תוצאת חיפוש">
 
 <!ENTITY chat.participants             "משתתפים:">
+<!ENTITY chat.previousConversations    "שיחות קודמות:">
 
+<!ENTITY closeConversationCmd.label    "סגירת שיחה">
 <!ENTITY aliasCmd.label                "שינוי שם">
+<!ENTITY deleteCmd.label               "הסרת איש קשר">
 
+<!ENTITY closeConversationButton.tooltip "סגירת שיחה">
 
+<!ENTITY addBuddyButton.label          "הוספת איש קשר">
 <!ENTITY chatAccountsButton.label      "הצגת חשבונות">
 
+<!ENTITY status.available          "זמין">
+<!ENTITY status.unavailable        "לא זמין">
+<!ENTITY status.offline            "לא מקוון">
 
+<!ENTITY openLinkCmd.label            "פתיחת קישור…">
