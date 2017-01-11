@@ -495,7 +495,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Отваряне в раздел">
 <!ENTITY contextmenu_open_private_tab "Отваряне в поверителен раздел">
 <!ENTITY contextmenu_remove "Премахване">
-<!ENTITY contextmenu_add_to_launcher "Добавяне към началния екран">
+<!ENTITY contextmenu_add_to_launcher "Връзка на началния екран">
 <!ENTITY contextmenu_share "Споделяне">
 <!ENTITY contextmenu_pasteandgo "Поставяне и посещаване">
 <!ENTITY contextmenu_paste "Поставяне">
@@ -821,7 +821,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "Версията на &brandShortName; е актуална">
 <!ENTITY whatsnew_notification_summary "Разберете какво е новото в тази версия">
 
-<!ENTITY promotion_add_to_homescreen "Добавяне към началния екран">
+<!ENTITY promotion_add_to_homescreen "Връзка на началния екран">
 
 <!ENTITY helper_first_offline_bookmark_title "Четене извън мрежа">
 <!ENTITY helper_first_offline_bookmark_message "Ще намерите статиите от изгледа за четене в отметките \u2014 даже и извън мрежа.">
