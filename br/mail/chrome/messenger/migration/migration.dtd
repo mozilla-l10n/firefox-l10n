@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Enporzhiañ an dibarzhioù, perzhioù ar c'hontoù, karned chomlec'hioù, siloù ha titouroù all adalek :">
 <!ENTITY importFromNonWin.label         "Enporzhiañ gwellvezioù, perzhioù ar c'hontoù, ar c'harned chomlec'hioù, siloù ha titouroù all adalek :">
-
+<!ENTITY importSourceNotFound.label     "N'eus bet kavet arload ebet evit enporzhiañ roadennoù.">
 
 <!ENTITY importFromNothing.label        "Na enporzhiañ netra">
 <!ENTITY importFromNothing.accesskey    "e">

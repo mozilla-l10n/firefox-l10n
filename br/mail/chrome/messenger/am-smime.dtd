@@ -32,4 +32,6 @@
 <!ENTITY manageDevices.accesskey "o">
 <!-- Strings for the cert picker dialog -->
 
-
+<!ENTITY certPicker.title "Diuzañ un testeni">
+<!ENTITY certPicker.info  "Testeni:">
+<!ENTITY certPicker.detailsLabel "Munudoù an testeni bet diuzet:">

@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "v">
 <!ENTITY compactVersion.label "Gwel fetis">
 <!ENTITY compactVersion.accesskey "f">
-
-
+<!ENTITY folderPaneBar.label "Barrenn ostilhoù penel an teuliadoù">
+<!ENTITY folderPaneBar.accesskey "B">
 <!ENTITY folderModeSelector.label "Gweloù an teuliad">
 <!-- Sort Menu -->
 
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "K">
 <!ENTITY sortByRecipientCmd.label "Degemerer">
 <!ENTITY sortByRecipientCmd.accesskey "g">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Kenskriverien">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Lennet">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Urzh degemer">
@@ -495,24 +495,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Ostilhoù an diorroer">
+<!ENTITY devtoolsMenu.accesskey "d">
+<!ENTITY devToolboxCmd.label "Barrenn ostilhoù an diorroer">
+<!ENTITY devToolboxCmd.accesskey "o">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Diveuger Enlugelladoù">
+<!ENTITY addonDebugCmd.accesskey "E">
+<!ENTITY tabsDebugCmd.label "Diveuger frammad endalc'had">
+<!ENTITY tabsDebugCmd.accesskey "f">
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Bloc'h-notennañ">
+<!ENTITY scratchpadCmd.accesskey "B">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Kerc'hat ar c'hemennadennoù ">
@@ -523,7 +528,7 @@
 <!ENTITY forwardButton.label "Treuzkas">
 <!ENTITY fileButton.label "Restr">
 <!ENTITY archiveButton.label "Diellaouiñ">
-
+<!ENTITY openConversationButton.label "Kaozeadenn">
 <!ENTITY nextButton.label "War-lerc'h">
 <!ENTITY nextButtonToolbarItem.label "Anlennet war-lerc'h">
 <!ENTITY nextMsgButton.label "War-lerc'h">
@@ -566,7 +571,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Treuzkas ar gemennadenn diuzet evel kenstagadur">
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
 <!ENTITY archiveButton.tooltip "Diellaouiñ ar c'hemennadennoù diuzet">
-
+<!ENTITY openConversationButton.tooltip "Diskouez kaozeadenn ar gemennadenn diuzet">
 <!ENTITY nextButton.tooltip "Mont d'ar gemennadenn anlennet war-lerc'h">
 <!ENTITY nextMsgButton.tooltip "Mont d'ar gemennadenn war-lerc'h">
 <!ENTITY previousButton.tooltip "Mont d'ar gemennadenn anlennet kent">

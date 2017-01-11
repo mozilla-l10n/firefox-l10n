@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmereg">
 <!ENTITY  font.langGroup.malayalam                "Malayalameg">
 <!ENTITY  font.langGroup.math                     "Matematikoù">
-
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telougoueg">
 <!ENTITY  font.langGroup.kannada                  "Kannadaeg">
 <!ENTITY  font.langGroup.sinhala                  "Sinhaleg">

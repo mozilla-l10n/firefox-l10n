@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Oc'h ebarzhiñ">
 <!ENTITY attachments.outgoing.label   "Oc'h ermaeziañ">
 
-
+<!ENTITY addCloudFileAccount1.label       "Ouzhpennañ...">
+<!ENTITY addCloudFileAccount1.accesskey   "O">
 <!ENTITY addCloudFileAccount.description  "Ouzhpennañ ur gwazerezh kadaviñ Filelink nevez">
 <!ENTITY removeCloudFileAccount.label     "Lemel">
 <!ENTITY removeCloudFileAccount.accesskey "L">

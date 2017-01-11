@@ -17,11 +17,11 @@
 <!ENTITY newMessagesArrive.label          "P'en em gav kemennadennoù nevez :">
 <!ENTITY playSound.label                  "Seniñ ur son">
 <!ENTITY playSound1.accesskey             "s">
-
-
+<!ENTITY playSoundMac.label               "Ober gant ar restr son da heul:">
+<!ENTITY playSoundMac.accesskey           "u">
 <!ENTITY showAnimatedAlert.label          "Diskouez ur c'hemenn evezhiañ">
 <!ENTITY showAnimatedAlert.accesskey      "s">
-
+<!ENTITY notificationAlertSettings2.label "Ar galvoù-diwall hag ar son dre ziouer a c'hall bezañ diweredekaet war penel rebuziñ ar gwellvezioù reizhiad.">
 <!ENTITY customizeMailAlert.label         "Personelaat…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 

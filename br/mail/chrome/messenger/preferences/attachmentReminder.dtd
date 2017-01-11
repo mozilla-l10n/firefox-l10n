@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Gerioù alc'hwez evit an adc'halv kenstagadur">
 <!ENTITY attachKeywordText.label          "Pa viot o kas ur gemennadenn gant unan eus ar gerioù-alc'hwez-mañ, &brandShortName; a gaso keloù deoc'h mar n'eus kenstagadur ebet.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Nevez...">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Embann...">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Dilemel">
 <!ENTITY removeKeywordButton.accesskey    "D">

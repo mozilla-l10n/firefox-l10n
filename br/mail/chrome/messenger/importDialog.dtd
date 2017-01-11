@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "i">
 <!ENTITY acctName.label           "Anv :">
 <!ENTITY acctName.accesskey       "A">
-
+<!ENTITY noModulesFound.label     "N'eus bet kavet restr pe arload ebet evit enporzhiañ roadennoù.">
 
 <!ENTITY back.label               "&lt; Kent">
 <!ENTITY forward.label            "War-lerc'h &gt;">

@@ -12,6 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Eiladoù ha teuliadoù">
 <!ENTITY addressingTab.label    "Aozañ ha chomlec'hiañ">
 
-
-
-
+<!ENTITY publicData.label        "Roadennoù foran">
+<!ENTITY privateData.label       "Roadennoù prevez">
+<!ENTITY identityAlias.label     "Skritellig naoudi:">
+<!ENTITY identityAlias.accesskey "n">
