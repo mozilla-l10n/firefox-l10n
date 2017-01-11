@@ -30,13 +30,13 @@
 <!ENTITY aboutNetworking.bytesSent             "Byte sendt">
 <!ENTITY aboutNetworking.bytesReceived         "Byte motteke">
 <!ENTITY aboutNetworking.logging               "Loggar">
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logTutorial           "See <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for instructions on how to use this tool.">
+<!ENTITY aboutNetworking.currentLogFile        "Gjeldande loggfil">
+<!ENTITY aboutNetworking.currentLogModules     "Gjeldande loggmodular:">
+<!ENTITY aboutNetworking.setLogFile            "Vel loggfil">
+<!ENTITY aboutNetworking.setLogModules         "Vel loggmodular">
+<!ENTITY aboutNetworking.startLogging          "Start loggføring">
+<!ENTITY aboutNetworking.stopLogging           "Stopp loggføring">
 <!ENTITY aboutNetworking.dnsLookup             "DNS-oppslag">
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå opp">
 <!ENTITY aboutNetworking.dnsDomain             "Domene">
