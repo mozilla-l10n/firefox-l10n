@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "eskuliburua">
 <!ENTITY disabledUnsigned.devInfo.end " irakurtzen jarrai dezakete.">
 
-
+<!ENTITY pluginDeprecation.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait plugin onartzen.">
+<!ENTITY pluginDeprecation.learnMore "Argibide gehiago.">
