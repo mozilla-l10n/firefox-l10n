@@ -4,6 +4,7 @@
 
 <!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "חשבונות - &brandShortName;">
+<!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 
 <!ENTITY accountManager.newAccount.label     "חשבון חדש">
