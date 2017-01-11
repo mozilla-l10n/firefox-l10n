@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "פנקס כתובות">
 <!ENTITY GeneratedName.label                   "שם">
 <!ENTITY GeneratedName.accesskey               "ש">
 <!ENTITY PrimaryEmail.label                    "דוא״ל">
@@ -28,10 +29,7 @@
 <!ENTITY HomePhone.accesskey                   "ב">
 <!ENTITY WorkPhone.label                       "טלפון בעבודה">
 <!ENTITY WorkPhone.accesskey                   "ב">
-<!ENTITY ScreenName.label                      "שם מסך">
-<!ENTITY ScreenName.accesskey                  "מ">
 <!ENTITY sortAscending.label                   "עולה">
 <!ENTITY sortAscending.accesskey               "ע">
 <!ENTITY sortDescending.label                  "יורד">
 <!ENTITY sortDescending.accesskey              "י">
-

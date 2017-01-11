@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "ספר כתובות">
+<!ENTITY blankResultsPaneMessage.label                  "פנקס כתובות זה מציג אנשי קשר רק לאחר חיפוש">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "קובץ">
@@ -74,7 +75,11 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "מאפיינים">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "מאפייני פנקס כתובות">
+<!ENTITY contactPropertiesMenu.label                    "מאפייני איש קשר">
+<!ENTITY mailingListPropertiesMenu.label                "מאפייני רשימת דיוור">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "תצוגה">
@@ -132,6 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.label                     "עריכה">
 <!ENTITY propertiesContext.label                        "מאפיינים">
 <!ENTITY abPropertiesContext.label                      "מאפיינים">
+<!ENTITY editContactContext.label                       "עריכת איש קשר">
+<!ENTITY editMailingListContext.label                   "עריכת רשימה">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
 <!ENTITY newIM.label                                    "הודעה מידית">
@@ -143,6 +150,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip                          "צור רשימה חדשה">
+<!ENTITY editPropertiesButton.tooltip                   "עריכת הפריט הנבחר">
+<!ENTITY editAbPropertiesButton.tooltip                 "עריכת מאפייני פנקס הכתובות הנבחר">
+<!ENTITY editContactPropertiesButton.tooltip            "עריכת איש הקשר הנבחר">
+<!ENTITY editMailingListPropertiesButton.tooltip        "עריכת רשימת הדיוור שנבחרה">
 <!ENTITY newmsgButton.tooltip                           "שלח הודעת דואר">
 <!ENTITY newIM.tooltip                                  "שלח הודעה מידית או צ׳אט">
 <!ENTITY deleteButton2.tooltip                          "מחיקת פריטים נבחרים">
@@ -158,6 +169,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "חיפוש מהיר">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "פנקס כתובות">
 <!ENTITY GeneratedName.label                            "שם">
 <!ENTITY GeneratedName.accesskey                        "ש">
 <!ENTITY PrimaryEmail.label                             "דוא״ל">

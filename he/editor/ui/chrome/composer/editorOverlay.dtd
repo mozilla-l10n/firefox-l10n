@@ -73,12 +73,15 @@
 
 <!ENTITY fontSizeMenu.label "גודל ">
 <!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-tinyCmd.label "קטן מאוד">
 <!ENTITY size-smallCmd.label "קטן">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "בינוני">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "גדול">
 <!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-extraLargeCmd.label "גדול מאוד">
+<!ENTITY size-hugeCmd.label "ענק">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "סגנון טקסט">

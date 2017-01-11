@@ -4,6 +4,8 @@
 
 <!ENTITY propertiesMenu.label               "מאפיינים">
 <!ENTITY abPropertiesMenu.label             "מאפייני פנקס כתובות">
+<!ENTITY contactPropertiesMenu.label        "מאפייני איש קשר">
+<!ENTITY mailingListPropertiesMenu.label    "מאפייני רשימת דיוור">
 
 <!ENTITY addressbookPicker.label            "פנקס כתובות">
 <!ENTITY addressbookPicker.accesskey        "פ">
@@ -19,6 +21,8 @@
 <!ENTITY deleteAddrBookCard.accesskey       "מ">
 <!ENTITY propertiesContext.label            "מאפיינים">
 <!ENTITY abPropertiesContext.label          "מאפיינים">
+<!ENTITY editContactContext.label           "עריכת איש קשר">
+<!ENTITY editMailingListContext.label       "עריכת רשימה">
 
 <!ENTITY toButton.label                     "הוסף לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">
