@@ -31,6 +31,11 @@
 <!ENTITY aboutNetworking.bytesReceived         "Bytes Received">
 <!ENTITY aboutNetworking.logging               "Lokinpito">
 <!ENTITY aboutNetworking.currentLogFile        "Nykyinen lokitiedosto:">
+<!ENTITY aboutNetworking.currentLogModules     "Nykyiset lokimoduulit:">
+<!ENTITY aboutNetworking.setLogFile            "Aseta lokitiedosto">
+<!ENTITY aboutNetworking.setLogModules         "Aseta lokimoduulit">
+<!ENTITY aboutNetworking.startLogging          "Aloita lokinpito">
+<!ENTITY aboutNetworking.stopLogging           "Lopeta lokinpito">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
 <!ENTITY aboutNetworking.dnsDomain             "Domain">
