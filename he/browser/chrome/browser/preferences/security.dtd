@@ -24,9 +24,9 @@
 <!ENTITY  addonExceptions.accesskey     "ח">
 
 
-<!ENTITY  logins.label                  "התחברויות">
+<!ENTITY  logins.label                  "כניסות">
 
-<!ENTITY  rememberLogins.label          "שמירת התחברויות לאתרים">
+<!ENTITY  rememberLogins.label          "שמירת כניסות לאתרים">
 <!ENTITY  rememberLogins.accesskey      "ש">
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "שינוי ססמה ראשית…">
 <!ENTITY  changeMasterPassword.accesskey "נ">
 
-<!ENTITY  savedLogins.label              "התחברויות שמורות…">
+<!ENTITY  savedLogins.label              "כניסות שמורות…">
 <!ENTITY  savedLogins.accesskey          "ח">

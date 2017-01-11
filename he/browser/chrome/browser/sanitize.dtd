@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "מ">
 <!ENTITY itemOfflineApps.label             "נתונים לא מקוונים של אתרים">
 <!ENTITY itemOfflineApps.accesskey         "מ">
-<!ENTITY itemActiveLogins.label            "התחברויות פעילות">
+<!ENTITY itemActiveLogins.label            "כניסות פעילות">
 <!ENTITY itemActiveLogins.accesskey        "ח">
 <!ENTITY itemSitePreferences.label         "העדפות אתר">
 <!ENTITY itemSitePreferences.accesskey     "ה">
