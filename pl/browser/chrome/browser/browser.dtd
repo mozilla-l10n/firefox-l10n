@@ -627,6 +627,8 @@
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
 <!ENTITY syncedTabs.context.copy.label "Kopiuj">
 <!ENTITY syncedTabs.context.copy.accesskey "K">
+<!ENTITY syncedTabs.context.openAllInTabs.label "Otwórz wszystkie w kartach">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey "h">
 
 <!ENTITY syncBrand.shortName.label "Firefox Sync">
 <!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
