@@ -4,6 +4,7 @@
 
 <!ENTITY label.label          "שם">
 <!ENTITY addButton.label      "הוספת מגירה חדשה">
+<!ENTITY addButton.accesskey  "מ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; חזרה למסך „פרטיות”">
 
