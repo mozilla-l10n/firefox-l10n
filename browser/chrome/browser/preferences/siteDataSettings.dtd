@@ -7,3 +7,5 @@
 <!ENTITY hostCol.label "Sito">
 <!ENTITY statusCol.label "Stato">
 <!ENTITY usageCol.label "Spazio utilizzato">
+<!ENTITY search.label "Cerca:">
+<!ENTITY search.accesskey "C">
