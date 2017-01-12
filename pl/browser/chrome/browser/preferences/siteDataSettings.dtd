@@ -7,3 +7,5 @@
 <!ENTITY hostCol.label "Witryna">
 <!ENTITY statusCol.label "Status">
 <!ENTITY usageCol.label "Rozmiar">
+<!ENTITY search.label "Szukaj:">
+<!ENTITY search.accesskey "S">
