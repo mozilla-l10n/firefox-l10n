@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc "Usuwa tylko informacje o koncie w programie &brandShortName;. Nie wpływa na konto na serwerze.">
 <!ENTITY removeData.label "Usuń dane wiadomości">
 <!ENTITY removeData.accesskey "d">
+<!ENTITY removeDataChat.label "Usuń dane rozmów">
+<!ENTITY removeDataChat.accesskey "d">
 <!ENTITY removeDataLocalAccount.desc "Usuwa z lokalnego dysku wszystkie wiadomości, foldery i filtry powiązane z tym kontem. Nie wpływa na wiadomości, które mogą być nadal przechowywane na serwerze. Nie wybieraj tej opcji, jeśli planujesz archiwizować lokalne dane lub używać ich w programie &brandShortName; później.">
 <!ENTITY removeDataServerAccount.desc "Usuwa z lokalnego dysku wszystkie wiadomości, foldery i filtry powiązane z tym kontem. Wiadomości i foldery będą nadal przechowywane na serwerze.">
+<!ENTITY removeDataChatAccount.desc "Usuwa wszystkie zapisy rozmów przechowywane dla tego konta na lokalnym dysku.">
 <!ENTITY showData.label "Wyświetl położenie danych">
 <!ENTITY showData.accesskey "W">
 <!ENTITY progressPending "Usuwanie wybranych danych…">
