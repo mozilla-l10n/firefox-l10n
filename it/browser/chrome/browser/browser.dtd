@@ -554,6 +554,8 @@
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
 <!ENTITY syncedTabs.context.copy.label "Copia">
 <!ENTITY syncedTabs.context.copy.accesskey "C">
+<!ENTITY syncedTabs.context.openAllInTabs.label "Apri tutte le schede">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "y">
