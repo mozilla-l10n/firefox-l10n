@@ -206,7 +206,7 @@
 <!ENTITY sortDescending.label "Aflopend">
 <!ENTITY sortDescending.accesskey "f">
 <!ENTITY sortThreaded.label "Conversaties">
-<!ENTITY sortThreaded.accesskey "i">
+<!ENTITY sortThreaded.accesskey "C">
 <!ENTITY sortUnthreaded.label "Geen conversaties">
 <!ENTITY sortUnthreaded.accesskey "e">
 <!ENTITY groupBySort.label "Gegroepeerd op sortering">
@@ -214,7 +214,7 @@
 <!ENTITY msgsMenu.label "Berichten">
 <!ENTITY msgsMenu.accesskey "B">
 <!ENTITY threads.label "Conversaties">
-<!ENTITY threads.accesskey "C">
+<!ENTITY threads.accesskey "i">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Alle conversaties uitvouwen">
