@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Palaa selaamisen pariin'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tervetuloa &syncBrand.shortName.label;-palveluun'>
-<!ENTITY fxaccount_getting_started_description2 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, kirjautumiset ja muut tiedot.'>
+<!ENTITY fxaccount_getting_started_description2 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit ja kirjautumistiedot.'>
 <!ENTITY fxaccount_getting_started_get_started 'Aloitetaan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Käytätkö vanhempaa versiota &syncBrand.shortName.label;-palvelusta?'>
 
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Kosketa kirjautuaksesi uudelle Firefox-tilillesi.'>
 <!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
 <!ENTITY fxaccount_status_history 'Sivuhistoria'>
-<!ENTITY fxaccount_status_passwords2 'Kirjautumiset'>
+<!ENTITY fxaccount_status_passwords2 'Kirjautumistiedot'>
 <!ENTITY fxaccount_status_tabs 'Avoimet välilehdet'>
 <!ENTITY fxaccount_status_legal 'Lakiteksti' >
 <!-- Localization note: when tapped, the following two strings link to

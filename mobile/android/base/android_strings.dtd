@@ -380,7 +380,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
 <!ENTITY pref_sync2 "Kirjaudu sisään">
-<!ENTITY pref_sync_summary2 "Synkronoi välilehdet, kirjanmerkit, kirjautumiset, sivuhistoria">
+<!ENTITY pref_sync_summary2 "Synkronoi välilehdet, kirjanmerkit, kirjautumistiedot, sivuhistoria">
 <!ENTITY pref_search_suggestions "Näytä hakuehdotukset">
 <!ENTITY pref_history_search_suggestions "Näytä hakuhistoria">
 <!ENTITY pref_import_options "Tuontivaihtoehdot">
@@ -454,7 +454,7 @@ size. -->
 <!ENTITY quit "Lopeta">
 
 <!ENTITY addons "Lisäosat">
-<!ENTITY logins "Kirjautumiset">
+<!ENTITY logins "Kirjautumistiedot">
 <!ENTITY downloads "Lataukset">
 <!ENTITY char_encoding "Merkistökoodaus">
 
