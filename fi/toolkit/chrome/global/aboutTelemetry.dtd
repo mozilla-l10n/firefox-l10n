@@ -104,6 +104,10 @@ Ping
   Skaalariarvot
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Avaimelliset skalaariarvot
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammit
 ">
