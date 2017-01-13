@@ -17,4 +17,4 @@
 <!ENTITY securityButton.tooltip "Beveiligingsinstellingen bekijken of wijzigen">
 
 <!ENTITY menu_viewSecurityStatus.label "Berichtbeveiligingsinfo">
-<!ENTITY menu_viewSecurityStatus.accesskey "i">
+<!ENTITY menu_viewSecurityStatus.accesskey "f">
