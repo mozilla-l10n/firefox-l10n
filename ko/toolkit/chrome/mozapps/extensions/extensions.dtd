@@ -243,3 +243,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "부가기능을 확인하는데 관심이 있는 개발자는 ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "메뉴얼">
 <!ENTITY disabledUnsigned.devInfo.end "을 읽어보세요.">
+
+<!ENTITY pluginDeprecation.description "빠진게 있나요? 어떤 플러그인은 &brandShortName;에서 더이상 지원하지 않습니다.">
+<!ENTITY pluginDeprecation.learnMore "더 알아보기.">
