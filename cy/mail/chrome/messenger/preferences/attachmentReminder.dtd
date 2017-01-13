@@ -4,7 +4,7 @@
 
 <!ENTITY attachmentReminderDialog.title   "Allweddair Atgoffa am Atodiad">
 <!ENTITY attachKeywordText.label          "Bydd &brandShortName; yn eich rhybuddio am atodiadau coll os ydych ar fin anfon e-bost yn cynnwys un o'r allweddeiriau hyn.">
-<!ENTITY newKeywordButton.label           "Newydd...">
+<!ENTITY newKeywordButton.label           "Newydd…">
 <!ENTITY newKeywordButton.accesskey       "N">
 <!ENTITY editKeywordButton1.label         "Golygu…">
 <!ENTITY editKeywordButton1.accesskey     "G">

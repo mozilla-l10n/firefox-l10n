@@ -28,9 +28,9 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Mae modd defnyddio tagiau i gategoreiddio a blaenoriaethu eich negeseuon.">
-<!ENTITY newTagButton.label        "Newydd...">
+<!ENTITY newTagButton.label        "Newydd…">
 <!ENTITY newTagButton.accesskey    "N">
-<!ENTITY editTagButton1.label      "Golygu">
+<!ENTITY editTagButton1.label      "Golygu…">
 <!ENTITY editTagButton1.accesskey  "G">
 <!ENTITY removeTagButton.label     "Dileu">
 <!ENTITY removeTagButton.accesskey "D">
