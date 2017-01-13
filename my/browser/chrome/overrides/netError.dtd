@@ -9,8 +9,8 @@
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
 <!ENTITY returnToPreviousPage.label "နောက်သို့ သွားရန်">
 <!ENTITY advanced.label "အဆင့်မြင့်">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -29,6 +29,13 @@
 
 <!ENTITY generic.title "တောင်းဆိုချက်ကို အပြီးမသတ်နိုင်ဘူး">
 <!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
+
+<!ENTITY captivePortal.title "ကွန်ယက်သို့ ဝင်ရောက်ပါ">
+<!ENTITY captivePortal.longDesc "
+<p>အင်တာနက်အသုံးပြုရန်အတွက် ယခုကွန်ယက်တွင် လက်မှတ်ထိုးဝင်ရောက်ရန် လိုအပ်နိုင်သည်။</p>
+">
+
+<!ENTITY openPortalLoginPage.label "ဝင်ရောက်ရန် စာမျက်နှာကို ဖွင့်ပါ">
 
 <!ENTITY malformedURI.title "မမှန်တဲ့ လိပ်စာ">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li> <li>Make sure that you're using forward slashes (i.e. <strong>/</strong>).</li> </ul>">
@@ -107,9 +114,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "အဆင့်မြင့်">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>သည် အိုဟောင်းပြီး ခုခံမှုအားနည်းသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟု ထင်ရသည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်သည်။">
 <!ENTITY weakCryptoAdvanced.override "(မလုံခြုံပါ) အိုဟောင်းနေသည့် လုံခြုံရေးနည်းပညာအသုံးပြုထားသော <span class='hostname'></span>ကို ခေါ်ယူကြည့်ပါ">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p>ဒီ <span id='wrongSystemTime_URL'/> သို့ လုံခြုံသော ချိတ်ဆက်မှုသည် မဖြစ်နိုင်ပါ၊ အဘယ်ကြောင့်ဆိုသော် သင့်နာရီသည် အချိန်မှားယွင်းနိုင်ဖွယ်ရှိသည်။</p> <p>သင့်ကွန်ပျူတာသည် <span id='wrongSystemTime_systemDate'/>ကို အမှန်ထင်သော်လည်း အမှန်မှာမူ <span id='wrongSystemTime_actualDate'/> ဖြစ်သင့်သည်။ ဒီပြဿနာကိုဖြေရှင်းရန် သင့်ရက်စွဲနှင့် အချိန်အပြင်ဆင်များကို မှန်ကန်ကိုက်ညီစေရန် ပြောင်းလဲသတ်မှတ်ပါ။</p>">
 
 <!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
