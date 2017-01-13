@@ -52,5 +52,5 @@
 <!ENTITY engine.prefs.accesskey     "V">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
-<!ENTITY prefs.ppLink.label         "Privacybeleid (en)">
+<!ENTITY prefs.tosLink.label        "Servicevoorwaarden">
+<!ENTITY prefs.ppLink.label         "Privacybeleid">

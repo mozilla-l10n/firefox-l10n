@@ -18,7 +18,7 @@
 <!ENTITY geoLocation.label                "Locatiebewust navigeren">
 <!ENTITY geoIntro.label                   "Websites kunnen meer informatie over uw huidige locatie vragen.">
 
-<!ENTITY geoEnabled.label                 "Mij om toestemming vragen wanneer er een verzoek wordt gedaan">
+<!ENTITY geoEnabled.label                 "Mij om toestemming vragen als een verzoek wordt gedaan">
 <!ENTITY geoEnabled.accesskey             "M">
 <!ENTITY geoDisabled.label                "Deze functie uitschakelen en alle verzoeken weigeren">
 <!ENTITY geoDisabled.accesskey            "u">
