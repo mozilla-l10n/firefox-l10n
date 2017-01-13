@@ -16,14 +16,14 @@
 <!ENTITY radioAlwaysOffline.label "Offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Wilt u niet-verzonden berichten verzenden als u online gaat?">
+<!ENTITY textGoingOnline "Niet-verzonden berichten verzenden bij online gaan?">
 <!ENTITY radioAutoSend.label "Ja">
 <!ENTITY radioAutoSend.accesskey "J">
 <!ENTITY radioNotSend.label "Nee">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Mij vragen">
 <!ENTITY radioAskUnsent.accesskey "v">
-<!ENTITY textGoingOffline "Wilt u berichten downloaden voor offlinegebruik voordat u offline gaat?">
+<!ENTITY textGoingOffline "Berichten downloaden voor offlinegebruik voor offline gaan?">
 <!ENTITY radioAutoDownload.label "Ja">
 <!ENTITY radioAutoDownload.accesskey "a">
 <!ENTITY radioNotDownload.label "Nee">

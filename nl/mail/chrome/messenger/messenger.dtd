@@ -206,7 +206,7 @@
 <!ENTITY sortDescending.label "Aflopend">
 <!ENTITY sortDescending.accesskey "f">
 <!ENTITY sortThreaded.label "Conversaties">
-<!ENTITY sortThreaded.accesskey "C">
+<!ENTITY sortThreaded.accesskey "i">
 <!ENTITY sortUnthreaded.label "Geen conversaties">
 <!ENTITY sortUnthreaded.accesskey "e">
 <!ENTITY groupBySort.label "Gegroepeerd op sortering">
