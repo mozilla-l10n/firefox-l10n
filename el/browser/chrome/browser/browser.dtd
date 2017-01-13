@@ -778,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
-<!ENTITY syncToolbarButton.label      "Συγχρονισμός">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY social.addons.label "Διαχείριση υπηρεσιών…">
 
