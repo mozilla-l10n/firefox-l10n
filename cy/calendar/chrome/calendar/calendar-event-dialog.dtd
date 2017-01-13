@@ -190,7 +190,7 @@
 
 <!ENTITY counter.button.proposal.label                    "Gosod y cynnig">
 <!ENTITY counter.button.proposal.accesskey                "y">
-<!ENTITY counter.button.proposal.tooltip2                 "Bydd meysydd digwyddiad yn cael eu llanw gan ddefnyddio'r gwerthoedd o'r gwrth-gynnig, bydd dim ond ei gadw gyda neu heb newidiadau ac yn hysbysu'r holl fynychwyr ohono.">
+<!ENTITY counter.button.proposal.tooltip2                 "Bydd meysydd digwyddiad yn cael eu llanw gan ddefnyddio'r gwerthoedd o'r gwrth-gynnig, bydd dim ond ei gadw gyda neu heb newidiadau ac yn hysbysu'r holl fynychwyr ohono">
 <!ENTITY counter.button.original.label                    "Gosod y data gwreiddiol">
 <!ENTITY counter.button.original.accesskey                "g">
 <!ENTITY counter.button.original.tooltip2                 "Bydd y meysydd yn cael eu gosod i'r gwerthoedd o'r digwyddiad gwreiddiol, cyn i'r gwrth-gynnig gael ei wneud">
