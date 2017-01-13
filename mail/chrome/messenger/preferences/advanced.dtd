@@ -76,7 +76,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Schijfruimte">
-<!ENTITY offlineCompactFolders.label     "Alle mappen comprimeren als het meer bespaart dan">
+<!ENTITY offlineCompactFolders.label     "Alle mappen comprimeren als dit meer bespaart dan">
 <!ENTITY offlineCompactFolders.accesskey "m">
 <!ENTITY offlineCompactFoldersMB.label   "MB in totaal">
 
