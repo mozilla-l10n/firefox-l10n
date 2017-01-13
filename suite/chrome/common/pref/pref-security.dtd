@@ -8,19 +8,19 @@
 <!ENTITY tracking.label                   "Volgen van gebruiker">
 <!ENTITY trackingIntro.label              "Websites kunnen volgen hoe u ze gebruikt en dat heeft effect op uw privacy.">
 
-<!ENTITY doNotTrack.label                 "Vertel websites dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.label                 "Websites laten weten dat ik niet gevolgd wil worden">
 <!ENTITY doNotTrack.accesskey             "n">
-<!ENTITY trackProtect.label               "Voorkom volgactiviteiten van bekende websites">
+<!ENTITY trackProtect.label               "Volgactiviteiten van bekende websites voorkomen">
 <!ENTITY trackProtect.accesskey           "V">
-<!ENTITY warnTrackContent.label           "Waarschuw me als bekende volgactiviteiten worden gedetecteerd">
+<!ENTITY warnTrackContent.label           "Mij waarschuwen wanneer bekende volgactiviteiten worden gedetecteerd">
 <!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "Locatiebewust navigeren">
-<!ENTITY geoIntro.label                   "Websites kan meer informatie over uw huidige locatie vragen.">
+<!ENTITY geoIntro.label                   "Websites kunnen meer informatie over uw huidige locatie vragen.">
 
-<!ENTITY geoEnabled.label                 "Vraag me om toestemming als er een verzoek wordt gedaan">
-<!ENTITY geoEnabled.accesskey             "m">
-<!ENTITY geoDisabled.label                "Schakel deze functie uit en weiger alle verzoeken">
+<!ENTITY geoEnabled.label                 "Mij om toestemming vragen wanneer er een verzoek wordt gedaan">
+<!ENTITY geoEnabled.accesskey             "M">
+<!ENTITY geoDisabled.label                "Deze functie uitschakelen en alle verzoeken weigeren">
 <!ENTITY geoDisabled.accesskey            "u">
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
