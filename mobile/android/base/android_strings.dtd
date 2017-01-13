@@ -389,7 +389,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Hakuhistoria">
 <!ENTITY pref_private_data_formdata2 "Lomakehistoria">
 <!ENTITY pref_private_data_cookies2 "Evästeet ja aktiiviset kirjautumiset">
-<!ENTITY pref_private_data_passwords2 "Tallennetut kirjautumiset">
+<!ENTITY pref_private_data_passwords2 "Tallennetut kirjautumistiedot">
 <!ENTITY pref_private_data_cache "Väliaikaistiedostot">
 <!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
 <!ENTITY pref_private_data_siteSettings2 "Sivustoasetukset">

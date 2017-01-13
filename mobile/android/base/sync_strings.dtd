@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Minulla ei ole laitetta vieressäni…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Kirjautumiset'>
+<!ENTITY sync.configure.engines.title.passwords2 'Kirjautumistiedot'>
 <!ENTITY sync.configure.engines.title.history 'Sivuhistoria'>
 <!ENTITY sync.configure.engines.title.tabs 'Välilehdet'>
 
