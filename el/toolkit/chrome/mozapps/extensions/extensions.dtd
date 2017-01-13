@@ -39,7 +39,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Αναζήτηση">
-<!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
+<!ENTITY view.discover.label                  "Λήψη προσθέτων">
 <!ENTITY view.recentUpdates.label             "Πρόσφατες ενημερώσεις">
 <!ENTITY view.availableUpdates.label          "Διαθέσιμες ενημερώσεις">
 
