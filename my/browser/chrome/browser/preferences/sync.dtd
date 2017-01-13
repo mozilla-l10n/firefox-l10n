@@ -40,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "c စက်ပစ္စည်းအမည်:">
 <!ENTITY fxaSyncDeviceName.label       "ကိရိယာအမည်">
 <!ENTITY changeSyncDeviceName.label "ကိရိယာအမည်ကို ပြောင်းလဲရန်…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ပယ်​ဖျက်ပါ">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "သိမ်းဆည်းပါ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "ဤကိရိယားအားဖြုတ်မည်">
 
 <!-- Footer stuff -->
@@ -70,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "အကောင့်ဖြင့် မဝင်ထားပါ">
 <!ENTITY signIn.label                "ဝင်ပါ">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်">
 <!ENTITY verifiedManage.label        "အကောင့်ကို စီမံရန်">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "ချိတ်ဆက်ဖြုတ်...">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "အီးမေလ်း အတည်ပြု">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "အခု အီးမေလ်းအား ဖျက်">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "သင်၏ တပ်ဗ်များ ၊ စာအမှတ်များ နှင့် လျှို့ဝှက်စကားလုံးများကို &brandShortName; ဖြင့် မည်သည့်နေရာမှ မဆို ရယူသုံးဆွဲပါ ">
 <!ENTITY welcome.signIn.label "၀င်ပါ">
@@ -86,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "သင့်ကိရိယာအားလုံးရှိ သင့်စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တပြေးညီဖြစ်စေပါ။">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်">
 <!ENTITY signedOut.accountBox.create  "အကောင့် အသစ်လုပ်ပါ">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "၀င်ပါ">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "ကိရိယာအားလုံးကို တပြေးညီ ဖြစ်စေပါ">
 

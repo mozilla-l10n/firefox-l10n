@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "အထွေထွေ">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "ခေါင်းစဉ်‌">
 <!ENTITY  generalURL            "လိပ်စာ">
 <!ENTITY  generalType           "အမျိုးအစား">
 <!ENTITY  generalMode           "ချယ်မှုန်းသည့် ပုံစံ">

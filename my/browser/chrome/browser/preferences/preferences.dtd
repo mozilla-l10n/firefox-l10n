@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "ပါဝင်ပစ္စည်း">
 <!ENTITY  paneApplications.title  "လုပ်ငန်းသုံး ကိရိယာများ">
 <!ENTITY  panePrivacy.title       "ကိုယ်ပိုင်လွတ်လပ်ခွင့်">
+<!ENTITY  paneContainers.title    "ကွန်တိန်နာတပ်ဗ်များ">
 <!ENTITY  paneSecurity.title      "လုံခြုံရေး">
 <!ENTITY  paneAdvanced.title      "အဆင့်မြင့် အပြင်အဆင်">
 

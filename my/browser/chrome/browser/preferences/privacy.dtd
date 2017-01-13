@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "ပိုမိုလေ့လာရန်">
 <!ENTITY  browserContainersEnabled.label        "ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "အပြင်အဆင်များ…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
