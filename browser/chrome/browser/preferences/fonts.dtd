@@ -50,8 +50,8 @@
 <!ENTITY minSize.none "Nessuna">
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
-<!ENTITY allowPagesToUse.label "Consenti alle pagine di scegliere i propri caratteri invece di quelli impostati">
-<!ENTITY allowPagesToUse.accesskey "e">
+<!ENTITY allowPagesToUseOwn.label "Consenti alle pagine di scegliere i propri caratteri invece di quelli impostati">
+<!ENTITY allowPagesToUseOwn.accesskey "e">
 <!ENTITY languages.customize.Fallback2.grouplabel "Codifica del testo per contenuti datati">
 <!ENTITY languages.customize.Fallback2.label "Codifica del testo da utilizzare:">
 <!ENTITY languages.customize.Fallback2.accesskey "o">
