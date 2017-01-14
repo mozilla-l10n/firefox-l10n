@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Калі ласка да &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "Вітаем у &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.connected "Конт злучаны">
 
-
-<!ENTITY aboutAccountsConfig.description "Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, паролі і іншае.">
+<!ENTITY aboutAccountsConfig.description "Увайсці, каб сінхранізаваць вашы карткі, закладкі, паролі і іншае.">
 <!ENTITY aboutAccountsConfig.startButton.label "Пачаць">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ужываеце старэйшую версію Sync?">
-
-
-
-
-
-
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Настаўленні Sync">
+<!ENTITY aboutAccounts.noConnection.title "Няма злучэння">
+<!ENTITY aboutAccounts.noConnection.description "Трэба быць злучаным з інтэрнэтам, каб увайсці.">
+<!ENTITY aboutAccounts.noConnection.retry "Паспрабаваць ізноў">
+<!ENTITY aboutAccounts.badConfig.title "Хібная канфігурацыя">
+<!ENTITY aboutAccounts.badConfig.description "Не выйшла вызначыць канфігурацію сервера вашага конта Firefox. Паспрабуйце паўтарыць пазней.">
