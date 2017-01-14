@@ -6,10 +6,10 @@
 <!ENTITY accessibility.label "Accessibilità">
 <!ENTITY useCursorNavigation.label "Utilizza sempre i tasti direzione per navigare nelle pagine">
 <!ENTITY useCursorNavigation.accesskey "U">
-<!ENTITY searchStartTyping.label "Cerca nel testo quando si digita qualcosa">
-<!ENTITY searchStartTyping.accesskey "e">
-<!ENTITY blockAutoRefresh.label "Avvisa se un sito web cerca di reindirizzare o ricaricare la pagina">
-<!ENTITY blockAutoRefresh.accesskey "w">
+<!ENTITY searchOnStartTyping.label "Cerca nel testo quando si digita qualcosa">
+<!ENTITY searchOnStartTyping.accesskey "e">
+<!ENTITY blockAutoReload.label "Avvisa se un sito web cerca di reindirizzare o ricaricare la pagina">
+<!ENTITY blockAutoReload.accesskey "w">
 <!ENTITY useOnScreenKeyboard.label "Visualizza una tastiera touch quando necessario">
 <!ENTITY useOnScreenKeyboard.accesskey "s">
 <!ENTITY browsing.label "Navigazione">
@@ -19,8 +19,8 @@
 <!ENTITY useSmoothScrolling.accesskey "a">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY checkSpelling.label "Controllo ortografico durante la digitazione">
-<!ENTITY checkSpelling.accesskey "C">
+<!ENTITY checkUserSpelling.label "Controllo ortografico durante la digitazione">
+<!ENTITY checkUserSpelling.accesskey "C">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
 <!ENTITY healthReportDesc.label "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
 <!ENTITY enableHealthReport.label "Attiva analisi integrità di &brandShortName;">
@@ -59,8 +59,8 @@
 <!ENTITY updateApplication.label "Aggiornamenti di &brandShortName;">
 <!ENTITY updateAuto1.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto1.accesskey "s">
-<!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all’utente di scegliere se installarli">
-<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateCheckChoose.label "Controlla aggiornamenti ma permetti all’utente di scegliere se installarli">
+<!ENTITY updateCheckChoose.accesskey "C">
 <!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
@@ -70,22 +70,22 @@
 <!ENTITY autoUpdateOthers.label "Aggiorna automaticamente">
 <!ENTITY enableSearchUpdate.label "Motori di ricerca">
 <!ENTITY enableSearchUpdate.accesskey "M">
-<!ENTITY offlineNotify.label "Avvisa quando un sito web richiede di salvare dati per l’utilizzo non in linea">
-<!ENTITY offlineNotify.accesskey "A">
-<!ENTITY offlineNotifyExceptions.label "Eccezioni…">
-<!ENTITY offlineNotifyExceptions.accesskey "E">
+<!ENTITY offlineStorageNotify.label "Avvisa quando un sito web richiede di salvare dati per l’utilizzo non in linea">
+<!ENTITY offlineStorageNotify.accesskey "A">
+<!ENTITY offlineStorageNotifyExceptions.label "Eccezioni…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
 <!ENTITY offlineAppsList2.label "I seguenti siti web hanno il permesso di salvare dati per l’utilizzo non in linea:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Rimuovi…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm "Rimozione dati non in linea">
 <!ENTITY certificateTab.label "Certificati">
-<!ENTITY certSelection.label "Richieste">
-<!ENTITY certSelection.description "Quando un sito web richiede il certificato personale:">
-<!ENTITY certs.auto "Selezionane uno automaticamente">
-<!ENTITY certs.auto.accesskey "S">
-<!ENTITY certs.ask "Chiedi ogni volta">
-<!ENTITY certs.ask.accesskey "C">
+<!ENTITY certPersonal.label "Richieste">
+<!ENTITY certPersonal.description "Quando un sito web richiede il certificato personale:">
+<!ENTITY selectCerts.auto "Selezionane uno automaticamente">
+<!ENTITY selectCerts.auto.accesskey "S">
+<!ENTITY selectCerts.ask "Chiedi ogni volta">
+<!ENTITY selectCerts.ask.accesskey "C">
 <!ENTITY enableOCSP.label "Interroga risponditori OCSP per confermare la validità attuale dei certificati">
 <!ENTITY enableOCSP.accesskey "O">
 <!ENTITY viewCerts.label "Mostra certificati">

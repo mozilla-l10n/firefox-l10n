@@ -6,12 +6,12 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey "z">
 <!ENTITY newWindowsAsTabs.label "Apri le nuove finestre in una nuova scheda">
 <!ENTITY newWindowsAsTabs.accesskey "A">
-<!ENTITY warnCloseMultipleTabs.label "Avvisa quando si chiudono più schede">
-<!ENTITY warnCloseMultipleTabs.accesskey "d">
-<!ENTITY warnOpenManyTabs.label "Avvisa quando l’apertura contemporanea di più schede potrebbe rallentare &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "c">
-<!ENTITY switchToNewTabs.label "Porta in primo piano le nuove schede aperte da un link">
-<!ENTITY switchToNewTabs.accesskey "P">
+<!ENTITY warnOnCloseMultipleTabs.label "Avvisa quando si chiudono più schede">
+<!ENTITY warnOnCloseMultipleTabs.accesskey "d">
+<!ENTITY warnOnOpenManyTabs.label "Avvisa quando l’apertura contemporanea di più schede potrebbe rallentare &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey "c">
+<!ENTITY switchLinksToNewTabs.label "Porta in primo piano le nuove schede aperte da un link">
+<!ENTITY switchLinksToNewTabs.accesskey "P">
 <!ENTITY showTabsInTaskbar.label "Visualizza un’anteprima delle schede nella Barra delle applicazioni di Windows">
 <!ENTITY showTabsInTaskbar.accesskey "V">
 <!ENTITY tabsGroup.label "Schede">
