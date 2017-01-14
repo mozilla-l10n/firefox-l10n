@@ -20,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Արխիվացված փինգի տվյալ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Կանչի տվյալի ցուցադրումը.">
 
 <!ENTITY aboutTelemetry.structured "Կառուցված">
 
@@ -33,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Հի փինգ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Չմշակված կանչի տվյալ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Շաբաթ">
 

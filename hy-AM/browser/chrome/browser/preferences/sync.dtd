@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "Հավելումները">
 <!ENTITY engine.addons.accesskey    "Հ">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Սար&amp;քի անունը.">
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
+<!ENTITY changeSyncDeviceName.accesskey "ո">
+<!ENTITY cancelChangeSyncDeviceName.label "Չեղարկել">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ա">
+<!ENTITY saveChangeSyncDeviceName.label "Պահպանել ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "պ">
 <!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Դուք մուտք չեք գործել:">
-
-
+<!ENTITY signIn.label                "Մուտք գործել">
+<!ENTITY signIn.accesskey            "տ">
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
+<!ENTITY verifiedManage.accesskey    "ի">
+<!ENTITY disconnect.label            "Անջատել...">
+<!ENTITY disconnect.accesskey        "Ա">
+<!ENTITY verify.label                "Հաստատել էլ. փոստը">
+<!ENTITY verify.accesskey            "Հ">
+<!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
+<!ENTITY forget.accesskey            "Մ">
 
 <!ENTITY welcome.description "Մուտք գործեք ձեր ներդիրներին, էջանիշերին, գաղտնաբառերին՝ ցանկացած վայրից &brandShortName;-ը օգտագործելիս: ">
 <!ENTITY welcome.signIn.label "Մուտք գործել">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
 <!ENTITY signedOut.accountBox.title   "Կապակցել &syncBrand.fxAccount.label;-ի հետ">
 <!ENTITY signedOut.accountBox.create  "Ստեղծել Հաշիվ">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Մուտք գործել">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Սինք՝ բոլոր սարքերի միջև">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

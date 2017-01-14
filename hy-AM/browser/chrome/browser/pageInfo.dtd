@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Ընդհանուր">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Վերնագիր․">
 <!ENTITY  generalURL            "Հասցեն.">
 <!ENTITY  generalType           "Տեսակը. ">
 <!ENTITY  generalMode           "Ցուցադրման Եղանակը.">
