@@ -21,12 +21,15 @@
 <!ENTITY            autoSelect.label         "Alapértelmezett ehhez a profilhoz">
 <!ENTITY            autoSelect.accesskey     "A">
 
+<!ENTITY            start.label              "&brandShortName; indítása">
+<!ENTITY            exit.label               "Kilépés">
 
+<!ENTITY            newButton.label          "Profil létrehozása…">
+<!ENTITY            newButton.accesskey      "l">
+<!ENTITY            renameButton.label       "Profil átnevezése…">
+<!ENTITY            renameButton.accesskey   "n">
+<!ENTITY            deleteButton.label       "Profil törlése…">
+<!ENTITY            deleteButton.accesskey   "t">
 
-
-
-
-
-
-
-
+<!ENTITY            offlineState.label       "Kapcsolat nélküli munka">
+<!ENTITY            offlineState.accesskey   "k">
