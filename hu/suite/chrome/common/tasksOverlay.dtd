@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from tasksOverlay.xul -->
 
+<!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "Böngésző">
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label     "Composer">
-<!ENTITY editorCmd.accesskey    "e">
-<!ENTITY editorCmd.commandkey    "4">
+<!ENTITY editorCmd.label					"Composer">
+<!ENTITY editorCmd.accesskey				"e">
+<!ENTITY editorCmd.commandkey				"4">
 
 <!ENTITY errorConsoleCmd.label                                  "Hibakonzol">
-<!ENTITY errorConsoleCmd.accesskey    "k">
-
+<!ENTITY errorConsoleCmd.accesskey				"k">
+<!ENTITY errorConsoleCmd.commandkey				"o">
 
 <!ENTITY taskNavigator.tooltip  "Böngésző">
 <!ENTITY taskComposer.tooltip  "HTML-szerkesztő">
@@ -41,7 +41,7 @@
 
 <!ENTITY downloadManagerCmd.label "Letöltéskezelő">
 <!ENTITY downloadManagerCmd.accesskey "L">
-
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "Kiegészítőkezelő">
 <!ENTITY addOnsManagerCmd.accesskey "K">
