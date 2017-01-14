@@ -44,6 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "A &brandFullName; választható web-alapú szolgáltatásokat biztosít (&quot;Szolgáltatások&quot;), amelyek a &brandShortName; ezen bináris verziójában érhetőek el, a lent leírtak szerint. Néhány ilyen szolgáltatás (mint a Kiegészítő javaslat és a frissítési szolgáltatások, a Biztonságos böngészés szolgáltatás vagy a Helyfüggő értesítés funkció) alapból be van kapcsolva. Ha nem szeretné valamelyik Szolgáltatást használni, vagy a lenti feltételek nem elfogadhatóak, akkor a funkció vagy Szolgáltatás letiltásának leírása elérhető">
+<!ENTITY rights3.webservices-b "itt">
+<!ENTITY rights3.webservices-c ". Más funkciók és Szolgáltatások az alkalmazásbeállításokban engedélyezhetők vagy tilthatóak le.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Kiegészítők szolgáltatás: ">
@@ -57,10 +60,17 @@
 <!ENTITY rights.safebrowsing-a "Safe Browsing:">
 <!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
 <!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét">
+<!ENTITY rights.safebrowsing-term2 "Nyissa meg a fő &security.label; beállítópanelt">
 <!ENTITY rights.safebrowsing-term3 "Vegye ki a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” jelölőnégyzetekből.">
-<!ENTITY rights.safebrowsing-term4 "A Safe Browsing most le van tiltva.">
+<!ENTITY rights.safebrowsing-term4 "A Biztonságos böngészés mostantól le van tiltva">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Helyfüggő böngészés: ">
+<!ENTITY rights.locationawarebrowsing-b "nincs alapból bekapcsolva. Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
+<!ENTITY rights.locationawarebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét">
+<!ENTITY rights.locationawarebrowsing-term2 "Nyissa meg a fő &security.label; beállítópanelt">
+<!ENTITY rights.locationawarebrowsing-term3 "Válassza ki a „&geoDisabled.label;” lehetőséget">
+<!ENTITY rights.locationawarebrowsing-term4 "A Helyfüggő böngészés mostantól le van tiltva">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "A &vendorShortName; saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat.">
