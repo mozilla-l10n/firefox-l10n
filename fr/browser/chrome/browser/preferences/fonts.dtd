@@ -61,8 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
-<!ENTITY  allowPagesToUse.label                   "Autoriser les pages web à utiliser leurs propres polices au lieu de celles choisies ci-dessus">
-<!ENTITY  allowPagesToUse.accesskey               "h">
+<!ENTITY  allowPagesToUseOwn.label                 "Autoriser les pages web à utiliser leurs propres polices au lieu de celles choisies ci-dessus">
+<!ENTITY  allowPagesToUseOwn.accesskey             "h">
 
 <!ENTITY languages.customize.Fallback2.grouplabel  "Encodage du texte pour le contenu obsolète">
 <!ENTITY languages.customize.Fallback2.label       "Encodage de texte de dernier recours :">

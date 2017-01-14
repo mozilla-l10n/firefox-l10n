@@ -7,3 +7,5 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     usageCol.label                "Stockage">
+<!ENTITY     search.label                  "Rechercher :">
+<!ENTITY     search.accesskey              "R">
