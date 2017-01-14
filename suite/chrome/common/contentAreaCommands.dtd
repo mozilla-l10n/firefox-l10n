@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Felugró ablakok visszautasítása erről a webhelyről">
 <!ENTITY popupWindowRejectCmd.accesskey "v">
 <!ENTITY popupWindowAllowCmd.label      "Felugró ablakok engedélyezése erről a webhelyről">
@@ -88,7 +88,7 @@
 <!ENTITY copyLinkCmd.accesskey        "s">
 <!ENTITY copyImageCmd.label           "Kép másolása">
 <!ENTITY copyImageCmd.accesskey       "l">
-<!ENTITY copyVideoURLCmd.label        "Video helyének másolása">
+<!ENTITY copyVideoURLCmd.label        "Videó helyének másolása">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Hang helyének másolása">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -150,4 +150,5 @@ items are mutually exclusive. -->
 <!ENTITY spellAddDictionaries.label     "További szótárak letöltése…">
 <!ENTITY spellAddDictionaries.accesskey "T">
 <!-- Developer Tools -->
-
+<!ENTITY devtoolsInspect.label          "Elem vizsgálata">
+<!ENTITY devtoolsInspect.accesskey      "v">
