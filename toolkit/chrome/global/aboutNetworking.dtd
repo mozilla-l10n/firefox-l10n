@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Հաղորդագրությունները ուղարկվել են">
 <!ENTITY aboutNetworking.bytesSent             "Բայթ է ուղարկվել">
 <!ENTITY aboutNetworking.bytesReceived         "Բայթ է ստացվել">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Մուտքագրում">
+<!ENTITY aboutNetworking.logTutorial           "Դիտեք <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP մուտքագրումը</a>՝ իմանալու համար, թե ինչպես օգտագործել այս գործիքը:">
+<!ENTITY aboutNetworking.currentLogFile        "Ընթացիկ մատյանի ֆայլը՝">
+<!ENTITY aboutNetworking.currentLogModules     "Ընթացիկ մատյանի մոդուլներ՝">
+<!ENTITY aboutNetworking.setLogFile            "Կայել մատյանի ֆայլը">
+<!ENTITY aboutNetworking.setLogModules         "Կայել մատյանի մոդուլները">
+<!ENTITY aboutNetworking.startLogging          "Սկսել մուտքագրումը">
+<!ENTITY aboutNetworking.stopLogging           "Կանգնեցնել մուտքագրումը">
 <!ENTITY aboutNetworking.dnsLookup             "DNS փնտրում">
 <!ENTITY aboutNetworking.dnsLookupButton       "Ուղղել">
 <!ENTITY aboutNetworking.dnsDomain             "Տիրույթ">

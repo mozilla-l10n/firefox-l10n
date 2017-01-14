@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Ցույց տալ Finder -ում">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Բացել թղթապանակը">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Փոփոխված կարևոր կարգավորումներ">
 <!ENTITY aboutSupport.modifiedPrefsName "Անուն">
@@ -85,6 +86,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Տվյալների շտեմարան">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Շտեմարաններ">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Ստուգել ամբողջությունը">
 
@@ -115,4 +117,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Որոշման մատյան">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Վթարի պաշտպանի անջատած յուրահատկություններ">
-
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Շրջանցիկներ">
