@@ -38,3 +38,5 @@
 <!ENTITY invalidEntryError.label      "@string@ tartománynév érvénytelen és figyelmen kívül lesz hagyva. Az érvényes tartománynevek legalább egy pontot (.) tartalmaznak amely karakterekkel vannak körülvéve.">
 
 <!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Automatikusan elküldi az üzenetet egyszerű szövegként, ha nincs jelentős mértékű formázás (felülbírálja a többi beállítást)">
+<!ENTITY autoDowngrade.accesskey      "n">
