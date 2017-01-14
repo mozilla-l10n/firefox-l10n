@@ -33,11 +33,11 @@
 <!ENTITY fontColor.accesskey                  "z">
 <!ENTITY bgColor.label                        "Háttér:">
 <!ENTITY bgColor.accesskey                    "H">
-
-
-
-
-
+<!ENTITY defaultCompose.label                 "Alapértelmezett szerkesztési formátum:">
+<!ENTITY defaultBodyText.label                "Szövegtörzs (az Enter gomb új sort hoz létre)">
+<!ENTITY defaultBodyText.accesskey            "t">
+<!ENTITY defaultParagraph.label               "Bekezdés (az Enter gomb új sort hoz létre)">
+<!ENTITY defaultParagraph.accesskey           "B">
 
 <!ENTITY selectHeaderType.label               "Válaszfejléc típusa:">
 <!ENTITY selectHeaderType.accesskey           "e">
