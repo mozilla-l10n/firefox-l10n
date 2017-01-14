@@ -32,8 +32,8 @@
 <!ENTITY tab.storage.label "Tároló">
 <!ENTITY tab.formdata.label "Űrlapadatok">
 <!ENTITY tab.forget.label "Elfelejtés">
-<!-- cookies -->
 
+<!-- cookies -->
 <!ENTITY cookies.description "Ez a tartomány a következő sütiket tárolja a számítógépen:">
 
 <!ENTITY cookies.tree.host.label "Webhely ">
@@ -60,18 +60,21 @@
 
 <!ENTITY cookies.blockOnRemove.label "Eltávolítás után a felsorolt webhelyek nem helyezhetnek el sütiket">
 <!ENTITY cookies.blockOnRemove.accesskey "u">
+
 <!-- permissions -->
-
-
+<!ENTITY perm.UseDefault "Alapértelmezés használata">
+<!ENTITY perm.AskAlways "Rákérdezés mindig">
+<!ENTITY perm.NeverSave "Soha ne mentse">
 <!ENTITY perm.Allow "Engedélyezés">
 <!ENTITY perm.AllowSameDomain "Engedélyezés azonos webhelyről">
 <!ENTITY perm.AllowSession "Engedélyezés a munkamenetben">
 <!ENTITY perm.Block "Tiltás">
 
-
+<!ENTITY perm.host.placeholder "Adja meg a gépnevet">
+<!ENTITY perm.button.add.label "Hozzáadás">
+<!ENTITY perm.button.add.accesskey "a">
 
 <!-- preferences -->
-
 <!ENTITY prefs.description "A tartalmi beállítások segítségével a &brandShortName; minden egyes webhelyhez elmentheti a beállításokat, például: a nagyítás mértékét.">
 
 <!ENTITY prefs.tree.host.label "Webhely ">
@@ -85,8 +88,8 @@
 
 <!ENTITY prefs.button.remove.label "Eltávolítás">
 <!ENTITY prefs.button.remove.accesskey "E">
-<!-- passwords -->
 
+<!-- passwords -->
 <!ENTITY pwd.description "Ehhez a tartományhoz következő jelszavak kerültek eltárolásra:">
 
 <!ENTITY pwd.tree.host.label "Webhely ">
@@ -102,8 +105,8 @@
 
 <!ENTITY pwd.button.remove.label "Eltávolítás">
 <!ENTITY pwd.button.remove.accesskey "E">
-<!-- storage -->
 
+<!-- storage -->
 <!ENTITY storage.description "Ez a tartomány a következő webtárolókat használja a számítógépen:">
 
 <!ENTITY storage.tree.host.label "Webhely">
@@ -117,8 +120,8 @@
 
 <!ENTITY storage.button.remove.label "Eltávolítás">
 <!ENTITY storage.button.remove.accesskey "l">
-<!-- form data -->
 
+<!-- form data -->
 <!ENTITY fdata.search.placeholder "Űrlapadatok keresése">
 
 <!ENTITY fdata.tree.fieldname.label "Mezőnév">
@@ -134,8 +137,8 @@
 
 <!ENTITY fdata.button.remove.label "Eltávolítás">
 <!ENTITY fdata.button.remove.accesskey "E">
-<!-- forget -->
 
+<!-- forget -->
 <!ENTITY forget.cookies.label "Sütik">
 <!ENTITY forget.cookies.accesskey "S">
 <!ENTITY forget.permissions.label "Engedélyek">

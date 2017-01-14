@@ -27,7 +27,7 @@
 <!ENTITY     props.expires.label            "Lejárat:">
 
 <!ENTITY     treehead.sitename.label        "Webhely">
-
+<!ENTITY     treehead.scheme.label          "Séma">
 <!ENTITY     treehead.status.label          "Állapot">
 <!ENTITY     windowtitle.label              "Sütikezelő">
 
