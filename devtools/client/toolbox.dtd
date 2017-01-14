@@ -166,6 +166,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "소스맵 켜기">
+<!ENTITY options.sourceMaps.tooltip    "이 설정을 켜면 소스가 디버거와 콘솔에서 매핑됩니다.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
