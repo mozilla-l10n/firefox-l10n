@@ -30,7 +30,7 @@
 <!ENTITY selectDescription.accesskey "p">
 <!ENTITY acctName.label           "Név:">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "Nem található alkalmazás vagy fájl az adatok importálásához.">
 
 <!ENTITY back.label               "&lt; Vissza">
 <!ENTITY forward.label            "Tovább &gt;">

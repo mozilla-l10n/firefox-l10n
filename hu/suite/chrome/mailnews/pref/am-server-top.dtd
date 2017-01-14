@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Üzenettároló">
 <!ENTITY securitySettings.label "Biztonsági beállítások">
@@ -10,7 +10,7 @@
 <!ENTITY serverType.label "Kiszolgálótípus:">
 <!ENTITY serverName.label "Kiszolgáló:">
 <!ENTITY serverName.accesskey "K">
-<!ENTITY userName.label "Felhasználói név:">
+<!ENTITY userName.label "Felhasználónév:">
 <!ENTITY userName.accesskey "F">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
@@ -23,15 +23,15 @@
 <!ENTITY biffStart.label "Új üzenetek ellenőrzése ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "percenként">
-
-
+<!ENTITY useIdleNotifications.label "Azonnali kiszolgálóértesítések engedélyezése új üzenetek érkezésekor">
+<!ENTITY useIdleNotifications.accesskey "e">
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ha elérhető">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "Hitelesítési módszer: ">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Üzenetek megtartása a kiszolgálón">
 <!ENTITY leaveOnServer.accesskey "m">
@@ -44,9 +44,9 @@
 <!ENTITY deleteOnServer2.accesskey "t">
 <!ENTITY downloadOnBiff.label "Új üzenetek automatikus letöltése">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY username.label "Az Ön felhasználói neve">
+<!ENTITY username.label "Az Ön felhasználóneve">
 <!ENTITY deleteMessagePrefix.label "Üzenet törlésekor:">
-<!ENTITY modelMoveToTrash.label "Áthelyezés a Törölt elemek közé">
+<!ENTITY modelMoveToTrash.label "Áthelyezés ebbe a mappába:">
 <!ENTITY modelMoveToTrash.accesskey "e">
 <!ENTITY modelMarkDeleted.label "Megjelölés töröltként">
 <!ENTITY modelMarkDeleted.accesskey "j">

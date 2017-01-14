@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Másolatok és mappák">
 <!ENTITY sendingPrefix.label "Üzenetküldéskor automatikusan: ">
@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Másik mappa:">
 <!ENTITY archiveInOtherFolder.accesskey "M">
 <!ENTITY specialFolders.label "Piszkozatok és sablonok">
-
+<!ENTITY keepDrafts2.label "Piszkozatok tárolása itt:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "„Piszkozatok” mappa itt:">
 <!ENTITY draftsFolderOn.accesskey "P">
