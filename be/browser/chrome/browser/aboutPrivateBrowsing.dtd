@@ -1,27 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Адчыніць адасобленае акно">
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Вы зараз не ў прыватным акне.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Адчыніць прыватнае акно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "а">
 
+<!ENTITY privateBrowsing.title                           "Прыватнае агляданне">
+<!ENTITY privateBrowsing.title.tracking                  "Прыватнае агляданне з аховай ад сачэння">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Даведацца больш пра">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection.startTour1                   "Паглядзіце, як гэта працуе">
