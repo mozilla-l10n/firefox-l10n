@@ -65,8 +65,11 @@
 <!ENTITY btnServerLog                 "Մատյան">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Համաօգտագործվող աշխատողներ">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Ծառայության աշխատողներ">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Հավելում կամ Chrome Workers">
@@ -95,5 +98,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Բացել փոփոխականներով դիտմամբ">
 <!ENTITY openInVarViewCmd.accesskey "փ">
-
-
+<!ENTITY storeAsGlobalVar.label "Պահել որպես ընդհանրական փոփոխական">
+<!ENTITY storeAsGlobalVar.accesskey "Պ">
