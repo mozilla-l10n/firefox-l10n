@@ -30,6 +30,8 @@
 <!ENTITY manageCerts2.accesskey "k">
 <!ENTITY manageDevices.label "Biztonsági eszközök kezelése…">
 <!ENTITY manageDevices.accesskey "e">
+
 <!-- Strings for the cert picker dialog -->
-
-
+<!ENTITY certPicker.title "Tanúsítvány kiválasztása">
+<!ENTITY certPicker.info  "Tanúsítvány:">
+<!ENTITY certPicker.detailsLabel "A kijelölt tanúsítvány részletei:">
