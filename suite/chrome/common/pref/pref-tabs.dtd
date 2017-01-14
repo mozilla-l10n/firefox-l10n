@@ -5,8 +5,8 @@
 <!ENTITY tabHeader.label "Böngészőlapok">
 
 <!ENTITY tabDisplay.label "Fülek megjelenítése">
-
-
+<!ENTITY autoHide.label "A lapsáv elrejtése, ha csak egy lap van nyitva">
+<!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Új lap aktiválása a hivatkozások megnyitásakor">
 <!ENTITY background.accesskey "h">
 <!ENTITY warnOnClose.label "Figyelmeztetés több lap bezárása előtt">
@@ -22,7 +22,8 @@
 
 <!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
 
-
-
-
-
+<!ENTITY openManagers.label "Megnyitás új lapon, különálló ablak helyett">
+<!ENTITY openDataManager.label "Adatkezelő">
+<!ENTITY openDataManager.accesskey "A">
+<!ENTITY openAddOnsManager.label "Kiegészítőkezelő">
+<!ENTITY openAddOnsManager.accesskey "K">
