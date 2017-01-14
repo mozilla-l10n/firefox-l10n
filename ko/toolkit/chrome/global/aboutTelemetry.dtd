@@ -103,6 +103,10 @@
   스칼라
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  키 스칼라
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   히스토그램
 ">
