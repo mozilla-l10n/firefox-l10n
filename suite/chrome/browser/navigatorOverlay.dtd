@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY tabCmd.label "Böngészőlap">
 <!ENTITY tabCmd.accesskey "l">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "O">
+
 <!-- Edit Menu -->
-
 <!ENTITY findOnCmd.label "Keresés ezen az oldalon…">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
 <!ENTITY toolbarsCmd.accesskey "E">
 <!ENTITY tabbarCmd.label "Fülek sávja">
@@ -52,8 +52,8 @@
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "a">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Ugrás">
 <!ENTITY goMenu.accesskey "U">
 <!ENTITY goHomeCmd.label "Kezdőlap">
@@ -71,8 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "r">
 <!ENTITY syncTabsMenu.label "Lapok más számítógépekről">
 <!ENTITY syncTabsMenu.accesskey "m">
-<!-- Bookmarks Menu -->
 
+<!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
 <!ENTITY bookmarksMenu.accesskey "K">
 <!ENTITY addCurPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
@@ -85,8 +85,8 @@
 <!ENTITY manBookmarksCmd.label "Könyvjelzők kezelése…">
 <!ENTITY manBookmarksCmd.accesskey "z">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Keresés a weben">
 <!ENTITY searchInternetCmd.accesskey "K">
 <!ENTITY searchInternet.commandKey "s">
@@ -122,15 +122,16 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "b">
 <!ENTITY cookieBlockImagesMsg.label "Az erről a webhelyről érkező képek soha nem lesznek letöltve.">
 
+<!ENTITY popupsMessageChangeTitle.label "A felugró ablakok engedélyei megváltoztak">
 <!ENTITY popupAllowCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
 <!ENTITY popupAllowCmd.accesskey "F">
-
-
-
-
-
-
-
+<!ENTITY popupAllowMsg.label "Az erről a webhelyről érkező felugró ablakok mindig megjelenítésre kerülnek.">
+<!ENTITY popupDefaultCmd.label "Alapértelmezett felugró ablak engedélyek használata">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "A webhelyről érkező felugró ablakok megjelenítése az alapbeállításoknak megfelelően fog történni.">
+<!ENTITY popupBlockCmd.label "Felugró ablakok blokkolása erről a webhelyről">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Az erről a webhelyről érkező felugró ablakok nem lesznek megjelenítve.">
 <!ENTITY popupsManage.label "Felugró ablakok kezelése">
 <!ENTITY popupsManage.accesskey "k">
 
