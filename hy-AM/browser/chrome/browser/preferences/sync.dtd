@@ -36,8 +36,6 @@
 <!ENTITY engine.addons.label        "Հավելումները">
 <!ENTITY engine.addons.accesskey    "Հ">
 <!-- Device Settings -->
-
-<!ENTITY syncDeviceName.label       "Սար&amp;քի անունը.">
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
 <!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
 <!ENTITY changeSyncDeviceName.accesskey "ո">
