@@ -38,8 +38,8 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "प्रत्येक सहभागी को अलग-अलग आमंत्रण">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "यह विकल्प हर सहभागी को एक आमंत्रण ईमेल भेजता है प्रत्येक आमंत्रण सिर्फ़ प्राप्तकर्ता सहभागी की ही जानकारी रखता है ताकि अन्य सहभागी की जानकारी का खुलासा ना हो">
-
-
+<!ENTITY event.attendees.disallowcounter.label       "काउंटर नामंज़ूर">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
 <!ENTITY event.attendees.disallowcounter.tooltip     "स्पष्ट होता है की आप जवाबी प्रस्ताव को स्वीकार नही करेंगे">
 <!-- Keyboard Shortcuts -->
 
