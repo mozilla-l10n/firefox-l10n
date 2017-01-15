@@ -570,7 +570,7 @@ size. -->
 <!ENTITY button_clear "Töm">
 <!ENTITY button_copy "Kopiera">
 
-<!ENTITY home_top_sites_title "Mest besökta webbplatser">
+<!ENTITY home_top_sites_title "Mest besökta">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
@@ -828,7 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Bokmärkes Läsare Visa objekt för att läsa dem offline.">
 <!ENTITY helper_triple_readerview_open_button "Lägg till i bokmärken">
 
-<!ENTITY activity_stream_topsites "Mest besökta webbplatser">
+<!ENTITY activity_stream_topsites "Mest besökta">
 <!ENTITY activity_stream_highlights "Höjdpunkter">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
