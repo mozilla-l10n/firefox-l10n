@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes Alle dine krasj
+#define crashes Alle krasjene dine
 
 
 # LOCALIZATION NOTE (irc):
