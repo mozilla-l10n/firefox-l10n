@@ -32,11 +32,11 @@
 <!ENTITY aboutNetworking.logging               "Logging">
 <!ENTITY aboutNetworking.logTutorial           "See <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for instructions on how to use this tool.">
 <!ENTITY aboutNetworking.currentLogFile        "Current Log File:">
-
-
-
-
-
+<!ENTITY aboutNetworking.currentLogModules     "Gjeldende loggmoduler:">
+<!ENTITY aboutNetworking.setLogFile            "Velg loggfil">
+<!ENTITY aboutNetworking.setLogModules         "Velg loggmoduler">
+<!ENTITY aboutNetworking.startLogging          "Start loggføring">
+<!ENTITY aboutNetworking.stopLogging           "Stopp loggføring">
 <!ENTITY aboutNetworking.dnsLookup             "DNS-oppslag">
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå opp">
 <!ENTITY aboutNetworking.dnsDomain             "Domene">
