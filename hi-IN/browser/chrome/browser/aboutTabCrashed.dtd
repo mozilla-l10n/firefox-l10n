@@ -18,7 +18,7 @@
 
 
 <!ENTITY tabCrashed.requestHelp "क्या आप हमारी मदद करेंगे?">
-
+<!ENTITY tabCrashed.requestHelpMessage "क्रेश रिपोर्ट्स हमे खामियों को ठीक करने में और &brandShortName; को बेहतर बनाने में मदद करती है.">
 <!ENTITY tabCrashed.requestReport "इस टैब को रिपोर्ट करे">
 <!ENTITY tabCrashed.sendReport2 "जिस टैब को आप देख रहे है उसकी एक क्रैश रिपोर्ट भेजे">
 <!ENTITY tabCrashed.commentPlaceholder2 "वैकल्पिक टिप्पणियाँ (टिप्पणियाँ सार्वजनिक हैं)">
@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "यहाँ अपना ईमेल पता डालें">
 <!ENTITY tabCrashed.emailMe "जब अधिक जानकारी उपलब्ध है मुझे ईमेल करो|">
 <!ENTITY tabCrashed.reportSent "दुर्घटना की रिपोर्ट पहले से ही प्रस्तुत; बेहतर बनाने में &brandShortName; मदद के लिए धन्यवाद!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "पृष्ठभूमि टैबों की रिपोर्ट करें">
+<!ENTITY tabCrashed.autoSubmit "प्राथमिकताओं का अद्यतन करें ताकि स्वतः पिछले क्रैश रिपोर्ट सौंपें (और भविष्य में हमारे तरफ से कुछ संदेश पाएं)">

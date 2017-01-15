@@ -160,6 +160,8 @@
 <!ENTITY options.timestampMessages.tooltip    "यदि आप इस विकल्प कमांड को सक्रिय करते हैं और वेब कंसोल में आउटपुट किसी टाइपस्टैंप को दिखाएगा">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "डिबगर">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
