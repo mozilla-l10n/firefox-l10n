@@ -5,9 +5,9 @@
 <!ENTITY startup.label "Запуск">
 <!ENTITY startupPage.label "При запуске &brandShortName;:">
 <!ENTITY startupPage.accesskey "и">
-<!ENTITY startupHomePage.label "Показать домашнюю страницу">
+<!ENTITY startupUserHomePage.label "Показать домашнюю страницу">
 <!ENTITY startupBlankPage.label "Показать пустую страницу">
-<!ENTITY startupLastSession.label "Показать окна и вкладки, открытые в прошлый раз">
+<!ENTITY startupPrevSession.label "Показать окна и вкладки, открытые в прошлый раз">
 <!ENTITY homepage.label "Домашняя страница:">
 <!ENTITY homepage.accesskey "м">
 <!ENTITY useCurrentPage.label "Использовать текущую страницу">
@@ -24,8 +24,8 @@
 <!ENTITY chooseFolderWin.accesskey "б">
 <!ENTITY chooseFolderMac.label "Выбрать…">
 <!ENTITY chooseFolderMac.accesskey "ы">
-<!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
-<!ENTITY alwaysAsk.accesskey "е">
+<!ENTITY alwaysAskWhere.label "Всегда выдавать запрос на сохранение файлов">
+<!ENTITY alwaysAskWhere.accesskey "е">
 <!ENTITY alwaysCheckDefault2.label "Всегда проверять, является ли &brandShortName; вашим браузером по умолчанию">
 <!ENTITY alwaysCheckDefault2.accesskey "а">
 <!ENTITY setAsMyDefaultBrowser2.label "Установить по умолчанию">

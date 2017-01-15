@@ -6,12 +6,12 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey "ж">
 <!ENTITY newWindowsAsTabs.label "Вместо новых окон открывать новые вкладки">
 <!ENTITY newWindowsAsTabs.accesskey "ы">
-<!ENTITY warnCloseMultipleTabs.label "Предупреждать при закрытии нескольких вкладок">
-<!ENTITY warnCloseMultipleTabs.accesskey "д">
-<!ENTITY warnOpenManyTabs.label "Предупреждать, когда открытие нескольких вкладок может замедлить &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "р">
-<!ENTITY switchToNewTabs.label "Переключаться на открываемую вкладку">
-<!ENTITY switchToNewTabs.accesskey "к">
+<!ENTITY warnOnCloseMultipleTabs.label "Предупреждать при закрытии нескольких вкладок">
+<!ENTITY warnOnCloseMultipleTabs.accesskey "д">
+<!ENTITY warnOnOpenManyTabs.label "Предупреждать, когда открытие нескольких вкладок может замедлить &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey "р">
+<!ENTITY switchLinksToNewTabs.label "Переключаться на открываемую вкладку">
+<!ENTITY switchLinksToNewTabs.accesskey "к">
 <!ENTITY showTabsInTaskbar.label "Отображать эскизы вкладок на панели задач Windows">
 <!ENTITY showTabsInTaskbar.accesskey "б">
 <!ENTITY tabsGroup.label "Вкладки">

@@ -50,8 +50,8 @@
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
-<!ENTITY allowPagesToUse.label "Разрешить веб-сайтам использовать свои шрифты вместо установленных">
-<!ENTITY allowPagesToUse.accesskey "т">
+<!ENTITY allowPagesToUseOwn.label "Разрешить веб-сайтам использовать свои шрифты вместо установленных выше">
+<!ENTITY allowPagesToUseOwn.accesskey "в">
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодировка текста для старых веб-страниц">
 <!ENTITY languages.customize.Fallback2.label "Резервная кодировка текста:">
 <!ENTITY languages.customize.Fallback2.accesskey "д">
