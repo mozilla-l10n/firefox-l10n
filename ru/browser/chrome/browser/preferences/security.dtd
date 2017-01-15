@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY general.label "Общие">
-<!ENTITY warnAddonInstall.label "Предупреждать при попытке веб-сайтов установить дополнения">
-<!ENTITY warnAddonInstall.accesskey "е">
+<!ENTITY warnOnAddonInstall.label "Предупреждать при попытке веб-сайтов установить дополнения">
+<!ENTITY warnOnAddonInstall.accesskey "е">
 <!ENTITY enableSafeBrowsing.label "Блокировать опасное и обманывающее содержимое">
 <!ENTITY enableSafeBrowsing.accesskey "л">
 <!ENTITY blockDownloads.label "Блокировать опасные загрузки">
 <!ENTITY blockDownloads.accesskey "к">
-<!ENTITY blockUncommonUnwanted.label "Предупреждать о нежелательных и нетипичных программах">
-<!ENTITY blockUncommonUnwanted.accesskey "ж">
+<!ENTITY blockUncommonAndUnwanted.label "Предупреждать о нежелательных и нетипичных программах">
+<!ENTITY blockUncommonAndUnwanted.accesskey "ж">
 <!ENTITY addonExceptions.label "Исключения…">
 <!ENTITY addonExceptions.accesskey "с">
 <!ENTITY logins.label "Логины">

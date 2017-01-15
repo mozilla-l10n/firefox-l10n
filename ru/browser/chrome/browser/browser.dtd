@@ -553,6 +553,8 @@
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "б">
 <!ENTITY syncedTabs.context.copy.label "Копировать">
 <!ENTITY syncedTabs.context.copy.accesskey "и">
+<!ENTITY syncedTabs.context.openAllInTabs.label "Открыть все во вкладках">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey "ы">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY syncSignIn.label "Войти в Синхронизацию…">
 <!ENTITY syncSignIn.accesskey "о">
