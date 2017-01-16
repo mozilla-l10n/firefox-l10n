@@ -145,7 +145,7 @@
 <!ENTITY calendar.task-details.start.label           "pradžia">
 <!ENTITY calendar.task-details.due.label             "terminas">
 
-<!ENTITY calendar.task.category.button.tooltip  "Priskirti darbams tipus">
+<!ENTITY calendar.task.category.button.tooltip  "Kategorizuoti darbus">
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
 <!ENTITY calendar.task.priority.button.tooltip  "Keisti prioritetą">
 

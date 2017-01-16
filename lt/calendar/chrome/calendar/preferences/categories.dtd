@@ -5,6 +5,9 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
+
+<!ENTITY pref.categories.new.title "Nauja kategorija">
 <!ENTITY pref.categories.newButton.label "Naujas…">
 <!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Taisoma kategorija">

@@ -46,11 +46,11 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Priimti kvietimą į visus įvykio pasikartojimus">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Pridėti">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Pridėti įvykį į kalendorių">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Atmesti">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Nepriimti kvietimo į įvykį">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Atmesti visus">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Nepriimti kvietimo į visus įvykio pasikartojimus">
-
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Atmesti">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Atmesti alternatyvų pasiūlymą">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Pašalinti">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Pašalinti iš kalendoriaus">

@@ -172,7 +172,7 @@
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Įrašyti">
-
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Įrašyti ir užverti">
 <!ENTITY  event.toolbar.delete.tooltip                    "Pašalinti">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pakviesti dalyvių">
 <!ENTITY  event.toolbar.attachments.tooltip               "Pridėti priedų">
