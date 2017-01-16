@@ -111,7 +111,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "HTTP-buffer útskeakelje (as wurkset iepene is)">
-<!ENTITY options.disableHTTPCache.tooltip   "Troch dizze opsje oan te setten, wurdt de HTTP-buffer foar alle ljepblêden dy't de wurkset iepene hawwe útskeakele. Service Workers wurde net troch dizze opsje beÿnfloede.">
+<!ENTITY options.disableHTTPCache.tooltip   "Troch dizze opsje oan te setten, wurdt de HTTP-buffer foar alle ljepblêden dy't de wurkset iepene hawwe útskeakele. Service Workers wurde net troch dizze opsje beynfloede.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
