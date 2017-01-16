@@ -35,6 +35,7 @@
 <!ENTITY firstrun_readerview_subtext "ניתן להשתמש בתצוגת קריאה כדי להפוך כתבות לפשוטות יותר לקריאה \u2014 אפילו ללא חיבור לאינטרנט.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "את/ה">
 <!ENTITY firstrun_account_message "יש לך את &brandShortName; על התקן נוסף?">
 
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
