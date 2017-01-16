@@ -191,8 +191,8 @@
 <!ENTITY counter.button.proposal.label                    "प्रस्ताव लागू करें">
 <!ENTITY counter.button.proposal.accesskey                "p">
 
-
-
+<!ENTITY counter.button.original.label                    "मूल डेटा लागू करें">
+<!ENTITY counter.button.original.accesskey                "r">
 
 <!-- Main page -->
 
