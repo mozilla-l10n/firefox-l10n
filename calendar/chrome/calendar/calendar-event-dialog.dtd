@@ -166,7 +166,7 @@
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label2                       "Įrašyti">
-<!ENTITY  event.toolbar.saveandclose.label                "Įrašyti ir Užverti">
+<!ENTITY  event.toolbar.saveandclose.label                "Įrašyti ir užverti">
 <!ENTITY  event.toolbar.delete.label                      "Šalinti">
 <!ENTITY  event.toolbar.attendees.label                   "Pakviesti dalyvius">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
