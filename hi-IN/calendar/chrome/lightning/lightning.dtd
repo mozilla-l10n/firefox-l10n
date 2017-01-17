@@ -6,6 +6,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "कैलेन्डर">
 <!-- New menu popup in File menu -->
 
 
