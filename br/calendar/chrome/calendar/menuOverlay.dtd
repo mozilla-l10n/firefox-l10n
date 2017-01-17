@@ -6,6 +6,7 @@
 <!ENTITY event.new.event                        "Darvoudoù nevez...">
 <!ENTITY event.new.event.accesskey              "N">
 
+<!ENTITY event.new.task                         "Trevell &amp;nevez...">
 
 
 <!ENTITY calendar.import.label                  "Enporzhiañ...">
@@ -36,7 +37,8 @@
 <!ENTITY showUnifinderCmd.accesskey             "K">
 
 
-
+<!ENTITY calendar.displaytodos.checkbox.label       "Skrammañ an trevelloù en deiziataer">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
 <!ENTITY goTodayCmd.label                       "Hiziv">
 <!ENTITY goTodayCmd.accesskey                   "H">
