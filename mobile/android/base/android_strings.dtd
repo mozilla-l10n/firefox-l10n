@@ -173,11 +173,11 @@
 <!ENTITY pref_category_accessibility "Zjednodušenie ovládania">
 <!ENTITY pref_category_accessibility_summary2 "Veľkosť textu, lupa, hlasový vstup">
 <!ENTITY pref_category_privacy_short "Súkromie">
-<!ENTITY pref_category_privacy_summary4 "Sledovanie, prihlásenia, údaje o používaní">
+<!ENTITY pref_category_privacy_summary4 "Sledovanie, prihlasovacie údaje, údaje o používaní">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O prehliadači &brandShortName;, často kladené otázky, spätná väzba">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
-<!ENTITY pref_category_logins "Prihlásenia">
+<!ENTITY pref_category_logins "Prihlasovacie údaje">
 <!ENTITY pref_learn_more "Ďalšie informácie">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 <!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
@@ -203,7 +203,7 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladenie cez sieť Wi-Fi vyžaduje, aby vaše zariadenie malo nainštalovanú aplikáciu čítačky kódov QR.">
 <!ENTITY pref_remember_signons2 "Pamätať si prihlasovacie údaje">
-<!ENTITY pref_manage_logins "Správa hesiel">
+<!ENTITY pref_manage_logins "Správa prihlasovacích údajov">
 
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
@@ -455,7 +455,7 @@ size. -->
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
-<!ENTITY logins "Heslá">
+<!ENTITY logins "Prihlasovacie údaje">
 <!ENTITY downloads "Prevzaté súbory">
 <!ENTITY char_encoding "Kódovanie znakov">
 
@@ -511,7 +511,7 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[nezadané používateľské meno]">
+<!ENTITY doorhanger_login_no_username "[žiadne používateľské meno]">
 <!ENTITY doorhanger_login_edit_title "Úprava prihlasovacích údajov">
 <!ENTITY doorhanger_login_edit_username_hint "Používateľské meno">
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
