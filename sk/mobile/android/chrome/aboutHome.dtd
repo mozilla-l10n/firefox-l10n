@@ -4,4 +4,4 @@
 
 <!-- This string should be kept in sync with the home_title string
      in android_strings.dtd -->
-<!ENTITY abouthome.title                  "Úvodná stránka &brandShortName;u">
+<!ENTITY abouthome.title                  "Úvodná stránka prehliadača &brandShortName;">

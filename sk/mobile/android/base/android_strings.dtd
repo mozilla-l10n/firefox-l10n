@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Zapnúť frontu kariet">
-<!ENTITY firstrun_tabqueue_subtext_off "Uložte si odkazy v &brandShortName;e na neskôr, na kliknutie v iných aplikáciách.">
+<!ENTITY firstrun_tabqueue_subtext_off "Uložte si odkazy v prehliadači &brandShortName; na neskôr, na kliknutie v iných aplikáciách.">
 
 <!ENTITY firstrun_tabqueue_message_on "Úspech!">
 <!ENTITY firstrun_tabqueue_subtext_on "Toto môžete kedykoľvek vypnúť v &settings; v kategórii &pref_category_general;.">
@@ -147,7 +147,7 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Pridať do &brandShortName;u">
+<!ENTITY overlay_share_label "Pridať do prehliadača &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -217,7 +217,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Úvodná stránka &brandShortName;u">
+<!ENTITY home_homepage_radio_default "Úvodná stránka prehliadača &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -352,7 +352,7 @@
 <!ENTITY pref_text_size "Veľkosť textu">
 <!ENTITY pref_restore_tabs "Obnoviť karty">
 <!ENTITY pref_restore_always "Vždy obnoviť karty">
-<!ENTITY pref_restore_quit "Neobnovovať po ukončení &brandShortName;u">
+<!ENTITY pref_restore_quit "Neobnovovať po ukončení prehliadača &brandShortName;">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
@@ -415,7 +415,7 @@ size. -->
 <!ENTITY pref_panels_move_up "Posunúť nahor">
 <!ENTITY pref_panels_move_down "Posunúť nadol">
 
-<!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
+<!ENTITY datareporting_notification_title "Štatistiky a údaje prehliadača &brandShortName;">
 <!ENTITY datareporting_notification_action "Zvoľte, čo chcete zdieľať">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
-<!ENTITY pref_scroll_title_bar_summary2 "Skrýva panel nástrojov &brandShortName;u počas posúvania stránky">
+<!ENTITY pref_scroll_title_bar_summary2 "Skrýva panel nástrojov prehliadača &brandShortName; počas posúvania stránky">
 
 <!ENTITY pref_tab_queue_title3 "Fronta kariet">
 <!ENTITY pref_tab_queue_summary4 "Linky ostanú uložené až pokiaľ znova nespustíte &brandShortName;.">
@@ -577,7 +577,7 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Úvodná stránka &brandShortName;u">
+<!ENTITY home_title "Úvodná stránka prehliadača &brandShortName;">
 <!ENTITY home_history_title "História">
 <!ENTITY home_synced_devices_smartfolder "Synchronizované zariadenia">
 <!ENTITY home_synced_devices_number "počet zariadení: &formatD;">
