@@ -15,8 +15,8 @@
 
 <!ENTITY tabCrashed.header2 "Kontxo. Zure fitxak huts egin berri du.">
 <!ENTITY tabCrashed.offerHelp "Lagun zaitzakegu!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Aukeratu &tabCrashed.restoreTab; orriaren edukiak berriro kargatzeko.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Aukeratu &tabCrashed.restoreTab; edo &tabCrashed.restoreAll; orriaren edukiak berriro kargatzeko.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Aukeratu '&tabCrashed.restoreTab;' orriaren edukiak berriro kargatzeko.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Aukeratu '&tabCrashed.restoreTab;' edo '&tabCrashed.restoreAll;' orriaren edukiak berriro kargatzeko.">
 <!ENTITY tabCrashed.requestHelp "Lagunduko diguzu?">
 <!ENTITY tabCrashed.requestHelpMessage "Hutsegite-txostenek arazoak diagnostikatu eta &brandShortName; hobetzen laguntzen digute.">
 <!ENTITY tabCrashed.requestReport "Eman fitxa honen berri">
