@@ -11,18 +11,24 @@
 <!ENTITY lightning.preferencesLabel "कैलेन्डर">
 <!-- New menu popup in File menu -->
 
+<!ENTITY lightning.menupopup.new.event.label    "कार्यक्रम">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 
 
-
-
+<!ENTITY lightning.menupopup.new.calendar.label "कैलेंडर">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 <!-- Open menu popup in File menu -->
 
+<!ENTITY lightning.menupopup.open.label               "खोंले">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
 
 
 
 
 <!-- View Menu -->
 
+<!ENTITY lightning.menu.view.calendar.label            "कैलेंडर">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
 
 
 <!-- Events and Tasks menu -->
