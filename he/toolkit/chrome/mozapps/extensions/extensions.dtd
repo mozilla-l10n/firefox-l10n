@@ -245,5 +245,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "במדריך">
 <!ENTITY disabledUnsigned.devInfo.end " שלנו.">
 
-<!ENTITY pluginDeprecation.description "חסר כאן משהו? מספר תוספים חיצוניים כבר לא נתמכים ע״י &brandShortName;.">
+<!ENTITY pluginDeprecation.description "חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־&brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "למידע נוסף.">

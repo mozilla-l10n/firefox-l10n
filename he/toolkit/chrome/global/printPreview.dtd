@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "כווץ להתאמה">
 <!ENTITY customPrompt.title   "קנה מידה מותאם אישית...">
 <!ENTITY simplifyPage.label   "פישוט העמוד">
+<!ENTITY simplifyPage.accesskey "פ">
 <!ENTITY simplifyPage.enabled.tooltip  "החלפת הפריסה להקלה על הקריאה">
 <!ENTITY simplifyPage.disabled.tooltip "לא ניתן לפשט עמוד זה באופן אוטומטי">
 
