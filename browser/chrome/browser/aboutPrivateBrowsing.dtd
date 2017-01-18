@@ -8,6 +8,24 @@
 
 <!ENTITY privateBrowsing.title                           "Прыватнае агляданне">
 <!ENTITY privateBrowsing.title.tracking                  "Прыватнае агляданне з аховай ад сачэння">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Калі вы аглядаеце сеціва праз прыватнае акно, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "не захоўвае">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "наведаныя старонкі">
+<!ENTITY aboutPrivateBrowsing.info.searches              "пашуковыя запыты">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "кукі">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "часовыя файлы">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Але Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "захоўвае">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " вашы:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "сцягванні">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "закладкі">
+<!ENTITY aboutPrivateBrowsing.note.before                "Прыватнае агляданне ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "не робіць вас ананімам">
+<!ENTITY aboutPrivateBrowsing.note.after                 " у інтэрнэце. Ваш працадаўца і інтэрнэт-правайдар па-ранейшаму могуць ведаць, якія старонкі вы наведваеце.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Даведацца больш пра">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "прыватнае агляданне">
 
-<!ENTITY trackingProtection.startTour1                   "Паглядзіце, як гэта працуе">
+<!ENTITY trackingProtection.title                        "Ахова ад сачэння">
+<!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, што дазваляюць адсочваць вашу актыўнасць у інтэрнэце. Тэхналогія "ахова ад сачэння" (Tracking Protection) Firefox блакуе многія з гэтых метадаў, якія могуць збіраць звесткі пра вашу інтэрнэт-дзейнасць.'>
+<!ENTITY trackingProtection.startTour1                   "Як гэта працуе?">
