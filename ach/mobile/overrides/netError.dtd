@@ -104,6 +104,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Mape ki waya">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi di bar me Web ci i mi gi ngec pi peko man.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Pe twero kube ma ber bedo tye">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION">

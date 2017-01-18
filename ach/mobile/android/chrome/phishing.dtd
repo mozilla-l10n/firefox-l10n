@@ -14,7 +14,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Kakube me bwola!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Pot buk me kakube man ma nonge i <span id='phishing_sitename'/> kimiyo ripot ni obedo kakube me bwola kadong kigengo woko malube ki miti ni me ber bedo.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Kakube me bwola ki yubo gi me bwoli me timo gin ma rac, calo keto purugram, onyo nyuto ngec mamegi, calo mungi me donyo, namba cim mamegi onyo ATM kadi.</p><p>Keto ngec mo i potbuk man me kakube twero kelo kwo me moko ada iyamo onyo goba mukene.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Kakube pi purugram mape kimito ma kimiyo ripote!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
