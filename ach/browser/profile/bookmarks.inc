@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Poto mamegi weng
 
 
 # LOCALIZATION NOTE (irc):

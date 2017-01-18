@@ -24,13 +24,16 @@
 <!ENTITY fileNotFound.title "Pwal pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.</li> <li>Ngi me neno kace pwaile kikobo woko, kicako nyinge manyen onyo kijwayo woko.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Kikwero woko nongo pwail ne">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Romo bedo ni kikwanyo woko, kikobo, onyo twero me pwail tye ka gengo nongo ne.</li> </ul>">
 
 <!ENTITY generic.title "Ayi.">
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
+<!ENTITY captivePortal.title "Dony iyie netwak">
+<!ENTITY captivePortal.longDesc "<p>Twero mite ni myero i dony iyie netwak man me nongo intanet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Yab pot buk me donyo iyie">
 
 <!ENTITY malformedURI.title "Kanonge pe tye atir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Kanonge me kakube pol kare kicoyo gi calo <strong>http://www.example.com/</strong></li> <li>Myero inen ni itye katic ki lapok me anyim (i.e. <strong>/</strong>).</li> </ul>">
@@ -71,13 +74,14 @@
 <!ENTITY unknownSocketType.title "Lagam ma pe kibedo ka kuro ki bot lapok tic">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ngi me neno ni ki keto Lalor gwoko kuc pa dano i nyonyo ni.</li> <li>Man twero bedo pi ter mogo mape ki ye i lapok tic.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Kube maber pe olare">
+<!ENTITY nssFailure2.title "Kube ma tye ki ber bedo pe olare">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pot buk ma i tye ka temo neno ne ni pe kitwero nyuto ne pien twero pi tic ma kinongo ni pe ki romo moko.</li> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec me peko man.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Kube ni pe tye ki ber bedo">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Rwed <span class='hostname'/> otero kakube gi marac.  Me gwoko ngec mamegi ki i kwo, &brandShortName; pe okube ki kakube man.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Kakube romo bedo ni pe nonge pi tutunu onyo tic odiyo. Tem doki inge karemanok.</li> <li>Ka pe iromo cano pot buk mo keken, ngi kakube me komputa mamegi.</li> <li>Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
@@ -111,6 +115,9 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Kube ki ber bedo i <span id='wrongSystemTime_URL'/> pe lare pien nen calo cawa ni pe tye kakare.</p> <p>Kompuita ni tamo ni tye <span id='wrongSystemTime_systemDate'/>, kun myero obed <span id='wrongSystemTime_actualDate'/>. Me yubo peko man, lok ter me nino dwe ki cawa orwate ki ma tye kakare.</p>">
+
+<!ENTITY certerror.pagetitle1  "Kube ma pe ki ber bedo">
 
 
 

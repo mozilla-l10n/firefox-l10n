@@ -94,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Tim alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki jami ayera i nyonyo ni weng marom.">
 <!ENTITY signedOut.accountBox.title   "Kube ki &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cwe akaunt">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Dony iye">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Tii marom i nyonyo weng">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
