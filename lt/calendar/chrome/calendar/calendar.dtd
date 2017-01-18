@@ -295,7 +295,7 @@
 <!ENTITY calendar.alarm.snoozeallfor.label          "Atidėti visus" >
 <!ENTITY calendar.alarm.title.label                 "Kalendoriaus priminimas" >
 <!ENTITY calendar.alarm.dismiss.label               "Nebepriminti" >
-<!ENTITY calendar.alarm.dismissall.label            "Nebepriminti visko" >
+<!ENTITY calendar.alarm.dismissall.label            "Nebepriminti nieko" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutėms" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minučių" >
