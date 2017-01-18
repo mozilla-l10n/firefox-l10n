@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "ກ່ຽວກັບ &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; ເປັນການທົດລອງໃຊ້ ແລະ ອາດຈະບໍ່ມີຄວາມສະຖຽນລະພາບ">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ຍັງຢູ່ໃນຊ່ວງການທົດລອງນຳໃຊ້ ແລະ ອາດຈະຍັງບໍ່ມີຄວາມສະຖຽນລະພາບ.">
 <!ENTITY aboutPage.telemetryStart               " ມັນຈະສົ່ງຂໍ້ມູນກ່ຽວກັບປະສິດທິພາບການເຮັດວຽກ, ຮາດແວ, ການນຳໃຊ້ ແລະ ການປັບແຕ່ງ ແບບອັດຕະໂນມັດກັບໄປຫາ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ເພື່ອຊ່ວຍເຮັດໃຫ້ &brandShortName; ດີຂື້ນກ່ວາເກົ່າ.">

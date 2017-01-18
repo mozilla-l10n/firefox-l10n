@@ -47,10 +47,10 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>ລອງອີກຄັ້ງ. &brandShortName; ຈະພະຍາຍາມເປີດການເຊື່ອມຕໍ່ ແລະ ໂຫລດຫນ້າເວັບໃຫມ່. <button id='wifi'>ເປີດໄວຟາຍ</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "ມີຂໍ້ຜິດພາດໃນການເຂົ້າລະຫັດເນື້ອຫາ">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "ປະເພດໄຟລ໌ທີ່ບໍ່ປອດໄພ">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li> </ul>">
 
 <!ENTITY netReset.title "ການເຊື່ອມຕໍ່ໄດ້ຮັບການປ່ຽນໃຫມ່">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -83,13 +83,13 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "<ul> <li>ເວັບໃຊ້ນີ້ບໍ່ສາມາດເຂົ້ານຳໃຊ້ໄດ້ຊົ່ວຄ່າວ. ຫລອງເຂົ້າໃຫມ່ອີກຄັ້ງໃນອີກ 2-3 ນາທີຂ້າງຫນ້າ.</li> <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າເວັບໄດ້, ໃຫ້ກວດເບິງປະລິມານການນຳໃຊ້ຂໍ້ມູນ ຫລື ການເຊື່ອມຕໍ່ກັບໄວຟາຍໃນໂທລະສັບຂອງທ່ານ. <button id='wifi'>ເປີດໄວຟາຍ</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>ເວັບໄຊທ໌ນີ້ບໍ່ສາມາດເຂົ້ານຳໃຊ້ໄດ້ຊົ່ວຄ່າວ. ຫລອງເຂົ້າໃຫມ່ອີກຄັ້ງໃນອີກ 2-3 ນາທີຂ້າງຫນ້າ.</li> <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າເວັບໄດ້, ໃຫ້ກວດເບິງປະລິມານການນຳໃຊ້ຂໍ້ມູນ ຫລື ການເຊື່ອມຕໍ່ກັບໄວຟາຍໃນໂທລະສັບຂອງທ່ານ. <button id='wifi'>ເປີດ Wifi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ຖືກບັອກໂດຍນະໂຍບາຍຄວາມປອດໄພທາງດ້ານເນື້ອຫາ">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "ມີການຜີດຜາດໃນການເຊື່ອມຍົງເນື້ອຫາ">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່່ານກຳລັງເຂົ້າໄປເບິງເພາະໄດ້ກວດພົບວ່າເກີດມີຂໍ້ຜິດໃນການສົ່ງຂໍ້ມູນ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ເພື່ອແຈ້ງບັນຫານີ້.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່່ານກຳລັງເຂົ້າໄປເບິງເພາະໄດ້ກວດພົບວ່າເກີດມີຂໍ້ຜິດໃນການສົ່ງຂໍ້ມູນ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ຫລືທ່ານສາມາດເພີ່ມຂໍ້ຍົກເວັ້ນ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ພາຂ້ອຍອອກຈາກບ່ອນນີ້!">
@@ -103,7 +103,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>ທ່ານບໍ່ຄວນຈະເພີ່ມຂໍ້ຍົກເວັ້ນຖ້າທ່ານກຳລັງເຊື່ອມຕໍ່ກັບອິນເຕີເນັດທີ່ທ່ານບໍ່ໄວ້ໃຈ ຫລື ຖ້າທ່ານບໍ່ເຄີຍເຫັນຄຳເຕືອນສໍາລັບເຄື່ອງແມ່ຂ່າຍນີ້.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL ທາງໄກ">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate

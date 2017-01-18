@@ -263,7 +263,7 @@
 <!ENTITY pref_tracking_protection_title2 "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_donottrack_title "ບໍ່ຕິດຕາມ">
-<!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໃຊ້ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
+<!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໄຊທ໌ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
 
 <!ENTITY pref_tracking_protection_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_tracking_protection_enabled_pb "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
@@ -390,10 +390,10 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
 <!ENTITY pref_private_data_formdata2 "ແບບຟອມປະຫວັດການໃຊ້ງານ">
 <!ENTITY pref_private_data_cookies2 "ຄຸກກີ &amp; ການເຂົ້າລະບົບທີ່ໃຊ້ງານຢູ່">
-<!ENTITY pref_private_data_passwords2 "ບັກທຶກການເຂົ້າສູ່ລະບົບໄວ້ແລ້ວ">
+<!ENTITY pref_private_data_passwords2 "ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ໄດ້ບັນທຶກໄວ້">
 <!ENTITY pref_private_data_cache "ແຄຊ໌">
-<!ENTITY pref_private_data_offlineApps "ຂໍ້ມູນອັອບລາຍຂອງເວັບໃຊ້">
-<!ENTITY pref_private_data_siteSettings2 "ຕັ້ງຄ່າເວັບໃຊ້">
+<!ENTITY pref_private_data_offlineApps "ຂໍ້ມູນອັອບລາຍຂອງເວັບໄຊທ໌">
+<!ENTITY pref_private_data_siteSettings2 "ການຕັ້ງຄ່າເວັບໄຊທ໌">
 <!ENTITY pref_private_data_downloadFiles2 "ດາວໂຫລດ">
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
@@ -502,7 +502,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "ສຳເນົາທີ່ຢູ່">
 <!ENTITY contextmenu_edit_bookmark "ແກ້ໄຂ">
 <!ENTITY contextmenu_subscribe "ເປັນສະມາຊິກຫນ້ານີ້">
-<!ENTITY contextmenu_site_settings "ແກ້ໄຂການຕັ້ງຄ່າເວັບໃຊ້">
+<!ENTITY contextmenu_site_settings "ແກ້ໄຂການຕັ້ງຄ່າເວັບໄຊທ໌">
 <!ENTITY contextmenu_top_sites_edit "ແກ້ໄຂ">
 <!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊທ໌">
 <!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊທ໌">
