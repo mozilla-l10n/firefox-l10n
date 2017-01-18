@@ -258,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "ຍ້າຍໄປແຖບ:">
 
 
@@ -347,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "ເບິ່ງພາບພື້ນຫຼັງ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດໃຫ້ເປັນພາບພື້ນຫລັງເດສ໌ທັອບ">
+<!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດໃຫ້ເປັນພາບພື້ນຫລັງເດສກ໌ທັອບ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkThisLinkCmd.label      "ບຸກມາກລີ້ງນີ້">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
