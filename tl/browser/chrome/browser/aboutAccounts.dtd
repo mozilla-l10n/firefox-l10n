@@ -12,3 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.title "Walang koneksyon">
 <!ENTITY aboutAccounts.noConnection.description "Kailangang nakakonekta ka sa Internet upang makapag sign in.">
 <!ENTITY aboutAccounts.noConnection.retry "Muling subukan">
+<!ENTITY aboutAccounts.badConfig.description "Hindi matukoy ang iyong Firefox Account server configuration. Subukuan muli mamaya.">
