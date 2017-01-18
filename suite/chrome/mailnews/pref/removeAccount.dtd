@@ -9,7 +9,7 @@
 <!ENTITY removeAccount.accesskey      "A">
 <!ENTITY removeAccount.desc           "Verwijdert alleen informatie over deze account voor &brandShortName;. Dit heeft geen invloed op de account op de server zelf.">
 <!ENTITY removeData.label             "Berichtgegevens verwijderen">
-<!ENTITY removeData.accesskey         "v">
+<!ENTITY removeData.accesskey         "B">
 <!ENTITY removeDataLocalAccount.desc  "Verwijdert alle berichten, mappen en filters die met deze account zijn verbonden van uw lokale schijf. Dit heeft geen invloed op sommige berichten die op de server bewaard kunnen blijven. Kies deze optie niet als u van plan bent om lokale gegevens te archiveren of later opnieuw in &brandShortName; te gebruiken.">
 <!ENTITY removeDataServerAccount.desc "Verwijdert alle berichten, mappen en filters die met deze account zijn verbonden van uw lokale schijf. Uw berichten en mappen worden nog wel op de server bewaard.">
 <!ENTITY showData.label               "Gegevenslocatie tonen">
