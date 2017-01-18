@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "прыватнае агляданне">
 
 <!ENTITY trackingProtection.title                        "Ахова ад сачэння">
-<!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, што дазваляюць адсочваць вашу актыўнасць у інтэрнэце. Тэхналогія "ахова ад сачэння" (Tracking Protection) Firefox блакуе многія з гэтых метадаў, якія могуць збіраць звесткі пра вашу інтэрнэт-дзейнасць.'>
+<!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, каб адсочваць вашу актыўнасць у інтэрнэце і збіраць пра вас звесткі. Тэхналогія Firefox пад назвай "Ахова ад сачэння" (Tracking Protection) блакуе многія з гэтых метадаў.'>
 <!ENTITY trackingProtection.startTour1                   "Як гэта працуе?">
