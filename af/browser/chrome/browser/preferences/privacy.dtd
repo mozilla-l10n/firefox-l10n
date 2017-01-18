@@ -105,8 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Opstelling…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "Konteksoortjies">
 <!ENTITY  browserContainersLearnMore.label      "Meer inligting">
-
-
+<!ENTITY  browserContainersEnabled.label        "Aktiveer konteksoortjies">
+<!ENTITY  browserContainersEnabled.accesskey    "v">
 <!ENTITY  browserContainersSettings.label        "Opstelling…">
 <!ENTITY  browserContainersSettings.accesskey    "t">
