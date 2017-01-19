@@ -13,10 +13,10 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Øv. Fanebladet er gået ned.">
+<!ENTITY tabCrashed.header2 "Fanebladet er gået ned.">
 <!ENTITY tabCrashed.offerHelp "Vi kan hjælpe!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Vælg &tabCrashed.restoreTab; for at indlæse sidens indhold igen.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Vælg &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for at indlæse sidens indhold igen.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Klik på &tabCrashed.restoreTab; for at indlæse sidens indhold igen.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Klik på &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for at indlæse sidens indhold igen.">
 <!ENTITY tabCrashed.requestHelp "Vil du hjælpe os?">
 <!ENTITY tabCrashed.requestHelpMessage "Fejlrapporter hjælper os med at diagnosticere problemer og gøre &brandShortName; bedre.">
 <!ENTITY tabCrashed.requestReport "Indrapporter dette faneblad">
