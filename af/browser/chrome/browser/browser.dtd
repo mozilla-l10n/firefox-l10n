@@ -286,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nuwe venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Nuwe privaatvenster">
+<!ENTITY newPrivateWindow.label     "Nuwe private venster">
 <!ENTITY newPrivateWindow.accesskey "v">
 
 
