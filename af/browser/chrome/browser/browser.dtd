@@ -478,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Open raam in nuwe venster">
 <!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY openLinkCmdInContainerTab.label "Open skakel in nuwe konteksoortjie">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Vertoon net hierdie raam">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey         "r">
