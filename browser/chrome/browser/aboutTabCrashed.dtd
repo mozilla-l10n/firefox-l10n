@@ -19,4 +19,4 @@
 <!ENTITY tabCrashed.emailMe "Invia un’email quando saranno disponibili ulteriori informazioni">
 <!ENTITY tabCrashed.reportSent "La segnalazione dell’arresto anomalo è già stata inviata. Grazie per aver contribuito al miglioramento di &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Segnala le schede non attive">
-<!ENTITY tabCrashed.autoSubmit "Aggiorna le preferenze per inviare automaticamente le segnalazioni di arresto anomalo in sospeso e visualizzare meno messaggi come questo">
+<!ENTITY tabCrashed.autoSubmit "Aggiorna le preferenze per inviare automaticamente le segnalazioni di arresto anomalo, inclusi i blocchi delle schede al momento non attive, in questa sessione e in quelle future">
