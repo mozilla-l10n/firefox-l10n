@@ -10,7 +10,7 @@
 <!ENTITY privateBrowsing.title.tracking                  "Private blaaiery met volgbeskerming">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Wanneer mens in 'n private venster blaai, sal Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nie">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after        "die volgende stoor nie:">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        " die volgende stoor nie:">
 <!ENTITY aboutPrivateBrowsing.info.visited               "besoekte bladsye">
 <!ENTITY aboutPrivateBrowsing.info.searches              "soektogte">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "koekies">
