@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>האם ייתכן שהפריט הוסר, שינה מיקום, או שינה שם?</li><li>האם ישנה שגיאת איות, שגיאת רישיות, או שגיאות טופוגרפיות אחרות בכתובת?</li><li>האם יש לך הרשאות גישה מספיקות אל הפריט המבוקש?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>הקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>יתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li></ul>">
 
 <!ENTITY generic.title "לא ניתן להשלים את הבקשה">
 <!ENTITY generic.longDesc "<p>מידע נוסף על בעיה או שגיאה זו אינו זמין כעת.</p>">
