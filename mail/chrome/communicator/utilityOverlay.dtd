@@ -54,4 +54,5 @@
 <!ENTITY quitApplicationCmdUnix.label  "ಹೊರನಡೆ (Q)">
 <!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
-
+<!ENTITY quitApplicationCmdMac.label  "Qತ್ಯಜಿಸು &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">
