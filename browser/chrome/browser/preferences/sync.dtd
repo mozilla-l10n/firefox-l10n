@@ -38,11 +38,13 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Enhedsnavn:">
-<!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
 <!ENTITY changeSyncDeviceName.label "Skift navn for enheden…">
+<!ENTITY changeSyncDeviceName.accesskey "k">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuller">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Gem">
+<!ENTITY saveChangeSyncDeviceName.accesskey "G">
 <!ENTITY unlinkDevice.label           "Afkobl denne enhed">
 
 <!-- Footer stuff -->
@@ -71,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Du er ikke logget ind.">
 <!ENTITY signIn.label                "Log ind">
+<!ENTITY signIn.accesskey            "L">
 <!ENTITY profilePicture.tooltip      "Skift profilbillede">
 <!ENTITY verifiedManage.label        "Håndter konto">
+<!ENTITY verifiedManage.accesskey    "H">
 <!ENTITY disconnect.label            "Afbryd…">
+<!ENTITY disconnect.accesskey        "A">
 <!ENTITY verify.label                "Bekræft mailadresse">
+<!ENTITY verify.accesskey            "B">
 <!ENTITY forget.label                "Glem denne mailadresse">
+<!ENTITY forget.accesskey            "G">
 
 <!ENTITY welcome.description "Få adgang til dine faneblade, bogmærker, adgangskoder m.m., uanset hvor du bruger &brandShortName;.">
 <!ENTITY welcome.signIn.label "Log ind">
@@ -87,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
 <!ENTITY signedOut.accountBox.title   "Opret forbindelse med en &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Opret en konto">
+<!ENTITY signedOut.accountBox.create.accesskey  "O">
 <!ENTITY signedOut.accountBox.signin  "Log ind">
+<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.engines.label       "Synkroniser mellem alle enheder">
 
