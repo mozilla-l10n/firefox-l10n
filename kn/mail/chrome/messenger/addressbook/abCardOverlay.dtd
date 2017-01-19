@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY Contact.tab                     "ಸಂಪರ್ಕ">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "ಹೆಸರು">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -21,68 +23,73 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Fಮೊದಲ:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Lಕೊನೆಯ:">
+<!ENTITY NameField2.accesskey           "L">
 
 
+<!ENTITY DisplayName.label              "Dಪ್ರದರ್ಶಿಸು:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "yಸಂದೇಶದ ತಲೆಬರಹದಲ್ಲಿ ಹೆಸರನ್ನು ತೋರಿಸು">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Nಅಡ್ಡ ಹೆಸರು">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "Eಮಿಂಚಂಚೆ:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "iಹೆಚ್ಚುವರಿ ಮಿಂಚಂಚೆ:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "ಈ ಮಾದರಿಯಲ್ಲಿ ಸಂದೇಶ vಸ್ವೀಕರಿಸು:">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "ಸರಳ ಪಠ್ಯ">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "ಗೊತ್ತಿರದ">
+<!ENTITY chatName.label                 "ಹರಟೆ ಹೆಸರು:">
 
+<!ENTITY WorkPhone.label                "kಕಛೇರಿ ದೂರವಾಣಿ:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "ಮನೆ mದೂರವಾಣಿ:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "xಫ್ಯಾಕ್ಸ್:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "gಪೇಜರ್:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "bಮೊಬೈಲ್">
+<!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "ಖಾಸಗಿ:">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "dವಿಳಾಸ:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "ಮನೆ ವಿಳಾಸ:">
+<!ENTITY HomeAddress2.accesskey         "‌">
+<!ENTITY HomeCity.label                 "yನಗರ:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "Sರಾಜ್ಯ/ಪ್ರಾಂತ್ಯ">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "Zಝಿಪ್/ಅಂಚೆ ಕೋಡ್:">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "uದೇಶ:">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "eಜಾಲಪುಟ:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Bಹುಟ್ಟಿದದಿನ:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "‌">
+<!ENTITY Year.placeholder               "ವರ್ಷ">
+<!ENTITY Or.value                       "ಅಥವಾ">
+<!ENTITY Age.placeholder                "ವಯಸ್ಸು">
+<!ENTITY YearsOld.label                 "‌">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY HomeAddress2.label             "">
-<!ENTITY HomeAddress2.accesskey         "">
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY In.label                       "">
-
-
-
-<!ENTITY YearsOld.label                 "">
-
-
-
-
-
-
-
-
+<!ENTITY Work.tab                       "ಕೆಲಸ">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "iಶೀರ್ಷಿಕೆ:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "mಇಲಾಖೆ:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "nಸಂಸ್ಥೆ:">
+<!ENTITY Company.accesskey              "n">
 
 
 <!ENTITY WorkAddress2.label             "">
