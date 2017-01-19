@@ -51,6 +51,13 @@
 <p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
 ">
 
+<!ENTITY captivePortal.title "Login til netværk">
+<!ENTITY captivePortal.longDesc "
+<p>Dette netværk kræver muligvis, at du skal logge ind for at bruge internettet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Åbn login-siden">
+
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
 <!ENTITY malformedURI.longDesc "
 <ul>
