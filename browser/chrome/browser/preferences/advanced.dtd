@@ -46,6 +46,7 @@
 <!ENTITY clearSiteData.accesskey "m">
 <!ENTITY siteDataSettings.label "Impostazioni…">
 <!ENTITY siteDataSettings.accesskey "o">
+<!ENTITY siteDataLearnMoreLink.label "Ulteriori informazioni">
 <!ENTITY limitCacheSizeBefore.label "Limita la cache a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB di spazio">
