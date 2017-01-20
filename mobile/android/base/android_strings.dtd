@@ -234,6 +234,7 @@
 <!ENTITY pref_history_search_suggestions "Mostra cronologia di ricerca">
 <!ENTITY pref_import_options "Opzioni di importazione">
 <!ENTITY pref_import_android_summary "Importa segnalibri e cronologia dal browser di sistema">
+<!ENTITY pref_private_data_openTabs "Schede aperte">
 <!ENTITY pref_private_data_history2 "Cronologia di navigazione">
 <!ENTITY pref_private_data_searchHistory "Cronologia ricerche">
 <!ENTITY pref_private_data_formdata2 "Cronologia moduli">
