@@ -278,6 +278,7 @@
 <!ENTITY pref_history_search_suggestions "Historia wyszukiwania">
 <!ENTITY pref_import_options "Opcje importowania">
 <!ENTITY pref_import_android_summary "Importowanie zakładek i historii z domyślnej przeglądarki systemu Android">
+<!ENTITY pref_private_data_openTabs "Otwarte karty">
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
 <!ENTITY pref_private_data_searchHistory "Historia wyszukiwania">
 <!ENTITY pref_private_data_formdata2 "Historia formularzy">
