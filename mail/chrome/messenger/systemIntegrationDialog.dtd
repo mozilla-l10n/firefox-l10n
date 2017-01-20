@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Kryeje përherë këtë kontroll kur niset &brandShortName;-i">
 <!ENTITY checkOnStartup.accesskey "K">
 
-<!ENTITY searchIntegration.label "Lejo &searchIntegration.engineName;-in të kërkojë në mesazhe">
+<!ENTITY searchIntegration.label "Lejo &searchIntegration.engineName;-n të kërkojë në mesazhe">
 <!ENTITY searchIntegration.accesskey "L">

@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Filtra Mesazhesh">
 <!ENTITY nameColumn.label "Emër Filtri">
-<!ENTITY activeColumn.label "Veprues">
+<!ENTITY activeColumn.label "I aktivizuar">
 <!ENTITY newButton.label "I ri…">
 <!ENTITY newButton.accesskey "i">
 <!ENTITY editButton.label "Përpunojeni…">

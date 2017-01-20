@@ -28,7 +28,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Jepni një parashtesë etikete">
 
-<!ENTITY button.addFeed.label       "Shto">
+<!ENTITY button.addFeed.label       "Shtoni">
 <!ENTITY button.addFeed.accesskey   "S">
 <!ENTITY button.editFeed.label      "Përpunoni">
 <!ENTITY button.editFeed.accesskey  "P">
@@ -38,7 +38,7 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Eksporto">
 <!ENTITY button.exportOPML.accesskey   "E">
-<!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; ctrl klik ose ctrl enter që të eksportohen Prurje si një listë">
+<!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; Ctrl klikim ose Ctrl Enter që të eksportohen Prurje si një listë">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY button.close.label          "Mbylleni">

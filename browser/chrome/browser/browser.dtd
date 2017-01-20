@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ringarkoji Krejt Skedat">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Faqeruajini Krejt Skedat…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Faqeruani Krejt Skedat…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "F">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Zhbëje Mbylljen e Skedës">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Z">
@@ -102,12 +102,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "p">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Kaloni në Mënyrën Krejt Ekrani">
+<!ENTITY enterFullScreenCmd.label "Kaloni nën Sa Krejt Ekrani">
 <!ENTITY enterFullScreenCmd.accesskey "K">
-<!ENTITY exitFullScreenCmd.label "Dilni nga Mënyra Krejt Ekrani">
-<!ENTITY exitFullScreenCmd.accesskey "K">
-<!ENTITY fullScreenCmd.label "Krejt Ekrani">
-<!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY exitFullScreenCmd.label "Dilni nga Sa Krejt Ekrani">
+<!ENTITY exitFullScreenCmd.accesskey "D">
+<!ENTITY fullScreenCmd.label "Sa Krejt Ekrani">
+<!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Shfaqini Krejt Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
@@ -124,8 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Mbylleni">
 <!ENTITY fullScreenAutohide.label "Fshihi Panelet">
 <!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Dilni nga Mënyra Krejt Ekrani">
-<!ENTITY fullScreenExit.accesskey "T">
+<!ENTITY fullScreenExit.label "Dilni nga Sa Krejt Ekrani">
+<!ENTITY fullScreenExit.accesskey "D">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -138,9 +138,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Dilni Nga Gjendja Krejt Ekrani (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Dilni Nga Gjendja Krejt Ekrani (esc)">
-<!ENTITY leaveDOMFullScreen.label "Dilni Nga Gjendja Krejt Ekrani">
+<!ENTITY exitDOMFullscreen.button "Dilni Nga Sa Krejt Ekrani (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Dilni Nga Sa Krejt Ekrani (esc)">
+<!ENTITY leaveDOMFullScreen.label "Dilni Nga Sa Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
-<!ENTITY addCurPagesCmd.label "Faqeruajini Krejt Skedat…">
+<!ENTITY addCurPagesCmd.label "Faqeruani Krejt Skedat…">
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 <!ENTITY recentBookmarks.label "Faqeruajtur Së Fundi">
 <!ENTITY otherBookmarksCmd.label "Faqerojtës të Tjerë">
@@ -320,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "a">
 
-<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundmi…">
+<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Përfundojeni Personalizimin">
 <!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
-<!ENTITY appMenuHistory.clearRecent.label "Pastrojeni Historikun Së Fundi…">
+<!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
 <!ENTITY appMenuHelp.tooltip "Hapni Menunë e Ndihmës">
@@ -603,7 +603,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
 <!ENTITY mediaHideControls.accesskey "K">
-<!ENTITY videoFullScreen.label       "Krejt Ekrani">
+<!ENTITY videoFullScreen.label       "Sa Krejt Ekrani">
 <!ENTITY videoFullScreen.accesskey   "E">
 <!ENTITY videoSaveImage.label        "Ruajeni Foton Si…">
 <!ENTITY videoSaveImage.accesskey    "R">
@@ -689,13 +689,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Gjeni në Këtë Faqe…">
 <!ENTITY findOnCmd.accesskey "G">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Gjej Sërish">
+<!ENTITY findAgainCmd.label  "Gjeje Sërish">
 <!ENTITY findAgainCmd.accesskey "I">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Shtoni fjalorë…">
+<!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                      "U bë">
@@ -726,9 +726,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Ky sajt përmban lëndë që s&apos;është e sigurt (fjala vjen, programthe) dhe lidhja juaj me të s&apos;është private.">
 <!ENTITY identity.description.activeLoaded2 "Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Aktivizoni mbrojtjen">
+<!ENTITY identity.enableMixedContentBlocking.label "Aktivizo mbrojtjen">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
-<!ENTITY identity.disableMixedContentBlocking.label "Çaktivizojeni mbrojtjen për tani">
+<!ENTITY identity.disableMixedContentBlocking.label "Çaktivizoje mbrojtjen për tani">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Ç">
 <!ENTITY identity.learnMore "Mësoni Më Tepër">
 
@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;-un">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to view a list of tabs from your other devices.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
 
 <!ENTITY syncedTabs.context.open.label                       "Hape">
 <!ENTITY syncedTabs.context.open.accesskey                   "H">
@@ -818,14 +818,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Çaktivizoni mbrojtjen për këtë sajt">
+<!ENTITY trackingProtection.unblock.label "Çaktivizo mbrojtjen për këtë sajt">
 <!ENTITY trackingProtection.unblock.accesskey "Ç">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Çaktivizoni mbrojtjen për këtë sesion">
+<!ENTITY trackingProtection.unblockPrivate.label "Çaktivizo mbrojtjen për këtë sesion">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ç">
-<!ENTITY trackingProtection.block2.label "Aktivizoni mbrojtjen">
+<!ENTITY trackingProtection.block2.label "Aktivizo mbrojtjen">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Gjurmim">

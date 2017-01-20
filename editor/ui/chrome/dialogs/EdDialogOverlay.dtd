@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "Përpunim i Mëtejshëm…">
 <!ENTITY AdvancedEditButton.accessKey "P">
-<!ENTITY AdvancedEditButton.tooltip "Shtoni ose ndryshoni atribute HTML, stili dhe JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Shtoni ose ndryshoni atribute HTML, atribute stili dhe JavaScript">
 <!ENTITY chooseFileButton.label "Zgjidhni Kartelë…">
 <!ENTITY chooseFileButton.accessKey "Z">
 <!ENTITY chooseFileLinkButton.label "Zgjidhni Kartelë…">

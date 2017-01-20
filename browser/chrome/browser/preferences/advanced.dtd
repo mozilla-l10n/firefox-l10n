@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Të përgjithshme">
 
-<!ENTITY accessibility.label             "Hyrshmëri">
+<!ENTITY accessibility.label             "Përdorshmëri">
 
 <!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lëvizje brenda faqesh">
 <!ENTITY useCursorNavigation.accesskey   "t">
@@ -77,7 +77,7 @@
 <!ENTITY updateApp.label                 "Përditësime &brandShortName;-i:">
 <!ENTITY updateAuto1.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto1.accesskey            "I">
-<!ENTITY updateCheck.label               "Kontrollo për përditësime, por më lejo të zgjedh t&apos;i instaloj a jo ato">
+<!ENTITY updateCheck.label               "Kontrollo për përditësime, por lejomë të zgjedh t&apos;i instaloj apo jo">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
 <!ENTITY updateManual.accesskey          "o">
@@ -109,7 +109,7 @@
 <!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
 <!ENTITY certs.auto                      "Përzgjidh një vetvetiu">
 <!ENTITY certs.auto.accesskey            "z">
-<!ENTITY certs.ask                       "Pyetmë përherë">
+<!ENTITY certs.ask                       "Pyetmë çdo herë">
 <!ENTITY certs.ask.accesskey             "y">
 <!ENTITY enableOCSP.label                "Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive">
 <!ENTITY enableOCSP.accesskey            "Q">
