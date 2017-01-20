@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label             "Të përgjithshme">
-<!ENTITY dataChoicesTab.label          "Zgjedhje të Dhënash">
+<!ENTITY dataChoicesTab.label          "Mundësi të Dhënash">
 <!ENTITY itemUpdate.label              "Përditësim">
 <!ENTITY itemNetworking.label          "Hapësirë në Rrjet &amp; Disk">
 <!ENTITY itemCertificates.label        "Dëshmi">
@@ -29,7 +29,7 @@
 <!ENTITY systemIntegration.label       "Integrim me Sistemin">
 <!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i klienti parazgjedhje për postën">
 <!ENTITY alwaysCheckDefault.accesskey  "G">
-<!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName; të kërkojë në mesazhet">
+<!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName;-n të kërkojë në mesazhe">
 <!ENTITY searchIntegration.accesskey   "L">
 <!ENTITY checkDefaultsNow.label        "Kontrolloni Tani…">
 <!ENTITY checkDefaultsNow.accesskey    "K">
@@ -54,10 +54,10 @@
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i">
-<!ENTITY updateAuto.label                "Instaloji përditësimet vetvetiu (e këshillueshme: siguri e përmirësuar)">
+<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i:">
+<!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto.accesskey            "v">
-<!ENTITY updateCheck.label               "Kontrollo për përditësime, po lejomë të vendos për instalimin ose jo të tyre">
+<!ENTITY updateCheck.label               "Kontrollo për përditësime, por lejomë të zgjedh t&apos;i instaloj apo jo">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
 <!ENTITY updateManual.accesskey          "M">

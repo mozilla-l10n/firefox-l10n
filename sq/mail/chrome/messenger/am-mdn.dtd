@@ -29,5 +29,5 @@
 <!ENTITY otherCases.label             "Në krejt rastet e tjerë:">
 <!ENTITY otherCases.accesskey         "t">
 <!ENTITY askMe.label                  "Pyetmë">
-<!ENTITY alwaysSend.label             "Dërgo përherë">
-<!ENTITY neverSend.label              "Mos dërgo Kurrë">
+<!ENTITY alwaysSend.label             "Dërgoje Përherë">
+<!ENTITY neverSend.label              "Mos e Dërgo Kurrë">

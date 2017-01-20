@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "e">
-<!ENTITY newContact.label "Kontakt Libri Adresash…">
+<!ENTITY newContact.label "Kontakt Nga Libër Adresash…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Bashkëngjitni">
 <!ENTITY attachMenu.accesskey "B">
@@ -149,7 +149,7 @@
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Format Shpërndarjeje">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Vetëzbulo">
+<!ENTITY autoFormatCmd.label "Vetëzbuloje">
 <!ENTITY autoFormatCmd.accesskey "V">
 <!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">
 <!ENTITY plainTextFormatCmd.accesskey "t">
@@ -196,7 +196,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizoje">
-<!ENTITY bringAllToFront.label "Silli Të tëra Përpara">
+<!ENTITY bringAllToFront.label "Bjeri të Tëra Para">
 <!ENTITY zoomWindow.label "Zoom"> 
 <!ENTITY windowMenu.label "Dritare">
 

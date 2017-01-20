@@ -241,7 +241,7 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Hiqni Kalendar…">
 <!ENTITY calendar.context.removeserver.accesskey       "H">
-<!ENTITY calendar.context.unsubscribeserver.label      "Çregjistrojeni Kalendarin…">
+<!ENTITY calendar.context.unsubscribeserver.label      "Çregjistroni Kalendar…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "Ç">
 <!ENTITY calendar.context.synccalendars.label          "Njëkohëso Kalendarët">
 <!ENTITY calendar.context.synccalendars.accesskey      "N">

@@ -31,7 +31,7 @@
 <!ENTITY DeletePlainText.accesskey    "f">
 <!ENTITY DeletePlainText.label        "Fshije">
 
-<!ENTITY add.htmltitle                "Shto Emër Përkatësie HTML">
+<!ENTITY add.htmltitle                "Shtoni Emër Përkatësie HTML">
 <!ENTITY add.htmldomain               "Emër Përkatësie HTML:">
-<!ENTITY add.plaintexttitle           "Shto Emër Përkatësie Tekst i Thjeshtë">
+<!ENTITY add.plaintexttitle           "Shtoni Emër Përkatësie Tekst i Thjeshtë">
 <!ENTITY add.plaintextdomain          "Emër Përkatësie Tekst i Thjeshtë:">

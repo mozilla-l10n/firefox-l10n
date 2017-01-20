@@ -35,8 +35,8 @@
 <!ENTITY goTodayCmd.label                       "Sot">
 <!ENTITY goTodayCmd.accesskey                   "S">
 
-<!ENTITY showCurrentView.label                  "Shfaqja e Tanishme">
-<!ENTITY showCurrentView.accesskey              "S">
+<!ENTITY showCurrentView.label                  "Pamja e Tanishme">
+<!ENTITY showCurrentView.accesskey              "P">
 
 <!ENTITY calendar.properties.label              "Veti Kalendari…">
 <!ENTITY calendar.properties.accesskey          "V">

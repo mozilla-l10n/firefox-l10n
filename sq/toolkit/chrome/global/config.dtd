@@ -7,7 +7,7 @@
 <!ENTITY boolean.label "Buleane">
 <!ENTITY columnChooser.tooltip "Klikoni që të përzgjidhni shtylla për t&apos;u shfaqur">
 <!ENTITY copyName.accesskey "o">
-<!ENTITY copyName.label "Kopjoji Emrin ">
+<!ENTITY copyName.label "Kopjoji Emrin">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY copyValue.label "Kopjoji Vlerën">
 

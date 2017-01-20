@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkrimi Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
-<!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkrimi">
+<!ENTITY checkSpellingCmd2.label "Kontrolloni Drejtshkrimin…">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
 

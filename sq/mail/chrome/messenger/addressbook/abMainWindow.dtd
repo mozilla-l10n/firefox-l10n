@@ -10,7 +10,7 @@
 <!ENTITY fileMenu.accesskey                             "K">
 <!ENTITY newMenu.label                                  "E re">
 <!ENTITY newMenu.accesskey                              "E">
-<!ENTITY newContact.label                               "Kontakt Nga Libri i Adresave…">
+<!ENTITY newContact.label                               "Kontakt Nga Libër Adresash…">
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Listë Postimesh…">
@@ -221,5 +221,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label "Dritare">
 <!ENTITY minimizeWindow.label "Minimizo">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bjeri të Tëra Përpara">
+<!ENTITY bringAllToFront.label "Bjeri të Tëra Para">
 <!ENTITY zoomWindow.label "Zoom">

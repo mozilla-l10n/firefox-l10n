@@ -77,9 +77,9 @@
 <!ENTITY unreadColumn2.tooltip "Numër mesazhesh të palexuara në rrjedhë">
 <!ENTITY totalColumn2.tooltip "Numër mesazhesh gjithsej në rrjedhë">
 <!ENTITY readColumn2.tooltip "Renditi sipas të lexuarish">
-<!ENTITY receivedColumn2.tooltip "Renditi sipas date marrjesh">
+<!ENTITY receivedColumn2.tooltip "Renditi sipas datash marrjeje">
 <!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
 <!ENTITY locationColumn2.tooltip "Renditi sipas vendesh">
-<!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjesh">
+<!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
 
 <!ENTITY starredColumn.label "Me yllkë">
