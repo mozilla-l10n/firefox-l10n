@@ -325,8 +325,8 @@
 
 
 
-
-
+<!ENTITY replyToListMsgCmd.label "L ಲಿಸ್ಟಿಗೆ ಪ್ರತ್ಯುತ್ತರಿಸು">
+<!ENTITY replyToListMsgCmd.accesskey "L">
 
 
 
@@ -488,7 +488,7 @@
 
 
 
-
+<!ENTITY replyListButton.label "ಲಿಸ್ಟಿಗೆ ಪ್ರತ್ಯುತ್ತರಿಸು">
 
 
 
@@ -527,7 +527,7 @@
 
 
 
-
+<!ENTITY replyListButton.tooltip "ಮಿಂಚಂಚೆ ಲಿಸ್ಟಿಗೆ ಪ್ರತ್ಯುತ್ತರಿಸು">
 
 
 
@@ -687,10 +687,10 @@
 
 
 
-
-
-
-
+<!ENTITY contextReplyAll.label "Aಎಲ್ಲರಿಗೂ ಪ್ರತ್ಯುತ್ತರಿಸು">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "L ಲಿಸ್ಟಿಗೆ ಪ್ರತ್ಯುತ್ತರಿಸು">
+<!ENTITY contextReplyList.accesskey "L">
 
 
 
