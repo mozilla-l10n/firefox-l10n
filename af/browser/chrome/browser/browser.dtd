@@ -697,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "V">
 
 <!ENTITY editBookmark.done.label                     "Klaar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "V">
 
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is nié beveilig nie">
