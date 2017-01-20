@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Prekni këtu që të aktivizohet shtojca.">
 <!ENTITY clickToActivatePlugin                               "Aktivizoni shtojcën.">
-<!ENTITY checkForUpdates                                     "Kontrollo për përditësime…">
+<!ENTITY checkForUpdates                                     "Shihni për përditësime…">
 <!ENTITY blockedPlugin.label                                 "Kjo shtojcë është bllokuar për t&apos;ju mbrojtur.">
 <!ENTITY hidePluginBtn.label                                 "Fshihe shtojcën">
 <!ENTITY managePlugins                                       "Administroni shtojca…">
@@ -23,7 +23,7 @@
 <!ENTITY report.disabled                                     "Të njoftuarit e vithisjeve është i çaktivizuar.">
 <!ENTITY report.failed                                       "Parashtrimi dështoi.">
 <!ENTITY report.unavailable                                  "Nuk ka njoftim gati.">
-<!ENTITY report.comment                                      "Shtoni një koment (komentet janë të dukshme publikisht)">
+<!ENTITY report.comment                                      "Shtoni një koment (komentet janë të dukshëm botërisht)">
 <!ENTITY report.pageURL                                      "Përfshi URL-në e faqes">
 
 <!ENTITY plugin.file                                         "Kartelë">

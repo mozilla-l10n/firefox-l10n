@@ -38,10 +38,10 @@
 <!ENTITY  suggestionSettings.label      "Ndryshoni parapëlqimet mbi këshillime motorësh kërkimi…">
 <!ENTITY  suggestionSettings.accesskey  "N">
 
-<!ENTITY  acceptCookies.label           "Prano cookie prej sajtesh">
+<!ENTITY  acceptCookies.label           "Prano cookies prej sajtesh">
 <!ENTITY  acceptCookies.accesskey       "s">
 
-<!ENTITY  acceptThirdParty.pre.label      "Prano cookie palësh të treta:">
+<!ENTITY  acceptThirdParty.pre.label      "Prano cookies palësh të treta:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "l">
 <!ENTITY  acceptThirdParty.always.label   "Përherë">
 <!ENTITY  acceptThirdParty.never.label    "Kurrë">

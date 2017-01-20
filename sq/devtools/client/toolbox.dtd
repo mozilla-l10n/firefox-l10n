@@ -180,9 +180,9 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "Zbulo zhvendosje">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Hamendëso zhvendosje bazuar në lëndën burim">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Vetëmbylli kllapat">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Futni vetvetiu kllapa të mbyllura">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Fut vetvetiu kllapa të mbyllura">
 <!ENTITY options.sourceeditor.expandtab.label           "Zhvendos duke përdorur hapësira">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Përdorni hapësira, në vend se shenja tab">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Përdor hapësira, në vend se shenja tab">
 <!ENTITY options.sourceeditor.tabsize.label             "Madhësi tabulacioni">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Shkurtore">

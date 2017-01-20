@@ -41,7 +41,7 @@
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.btnAccept.label                                  "Pranojeni">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Pranoje">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Pranoni ftesë veprimtarie">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Pranojini krejt">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Pranoni ftesë veprimtarie për krejt përsëritjet e veprimtarisë">

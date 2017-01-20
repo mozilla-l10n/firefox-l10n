@@ -28,7 +28,7 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Veprimtari">
-<!ENTITY lightning.toolbar.newevent.tooltip   "Krijoni një veprimtari të re">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Krijoni veprimtari të re">
 <!ENTITY lightning.toolbar.newtask.label      "Punë">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Krijoni një punë të re">
 

@@ -274,7 +274,7 @@
 <!ENTITY findCmd.label "Gjeni Në Këtë Mesazh…">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Gjej Sërish">
+<!ENTITY findAgainCmd.label "Gjeje Sërish">
 <!ENTITY findAgainCmd.accesskey "S">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -555,12 +555,12 @@
 <!ENTITY goForwardButton.tooltip "Kaloni një mesazh para">
 <!ENTITY goBackButton.tooltip "Kaloni një mesazh prapa">
 <!ENTITY deleteButton.tooltip "Fshini mesazhet ose dosjet e përzgjedhur">
-<!ENTITY undeleteButton.tooltip "Çfshijeni mesazhin e përzgjedhur">
-<!ENTITY markButton.tooltip "Shënojini mesazhet">
+<!ENTITY undeleteButton.tooltip "Shfshijeni mesazhin e përzgjedhur">
+<!ENTITY markButton.tooltip "Shënoni mesazhe">
 <!ENTITY printButton.tooltip "Shtypeni këtë mesazh">
 <!ENTITY stopButton.tooltip "Ndalni shpërnguljen e tanishme">
-<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënojini si të pavlera">
-<!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënojini si jo të pavlera">
+<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si të pavlera">
+<!ENTITY notJunkButton.tooltip "Mesazheve të përzgjedhur hiqua shënimin si të pavlera">
 <!ENTITY addressBookButton.tooltip "Shkoni te libri i adresave">
 <!ENTITY chatButton.tooltip "Shfaq skedën e Fjalosjeve">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
@@ -641,7 +641,7 @@
 
 <!ENTITY folderContextProperties2.label "Veti">
 <!ENTITY folderContextProperties2.accesskey "V">
-<!ENTITY folderContextFavoriteFolder.label "Dosje e të Parapëlqyerve">
+<!ENTITY folderContextFavoriteFolder.label "Dosje të Parapëlqyerish">
 <!ENTITY folderContextFavoriteFolder.accesskey "o">
 <!ENTITY folderContextSettings2.label "Rregullime">
 <!ENTITY folderContextSettings2.accesskey "R">
@@ -900,7 +900,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizoje">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bjeri të Tërë në Ballë">
+<!ENTITY bringAllToFront.label "Bjeri të Tëra Para">
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->

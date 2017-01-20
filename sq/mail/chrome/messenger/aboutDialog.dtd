@@ -6,7 +6,7 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Kontrolloni për Përditësime">
+<!ENTITY update.checkForUpdatesButton.label       "Kontrollo për Përditësime">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2               "Riniseni &brandShortName;-in që të Përditësohet">
 <!ENTITY update.updateButton.accesskey            "R">
@@ -25,7 +25,7 @@
 <!ENTITY community.exp.middle       " është një ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "bashkësi mbarëbotërore">
-<!ENTITY community.exp.end          " që punon tok për ta mbajtur Web-in të hapët, publik dhe të mundshëm për këdo.">
+<!ENTITY community.exp.end          " që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.">
 
 <!ENTITY community.start2           "&brandShortName; është hartuar nga ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -33,7 +33,7 @@
 <!ENTITY community.middle2          ", një ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
-<!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të mundshëm për këdo.">
+<!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të mundshëm nga kushdo.">
 
 <!ENTITY helpus.start               "Dëshironi të ndihmoni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -47,13 +47,13 @@
 <!ENTITY bottomLinks.license        "Të dhëna Lejimi">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Të drejta Përdoruesi të Thjeshtë">
+<!ENTITY bottomLinks.rights         "Të drejta Përdoruesi">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Rregulla Privatësie">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Po kontrollohet për përditësime…">
+<!ENTITY update.checkingForUpdates  "Po shihet për përditësime…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName;-i është i përditësuar">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

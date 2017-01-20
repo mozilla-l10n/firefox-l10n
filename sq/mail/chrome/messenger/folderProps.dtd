@@ -23,7 +23,7 @@
 <!ENTITY retentionCleanup.label "Për të ripatur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "M">
-<!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç më të fundit">
+<!ENTITY retentionKeepRecent.label "Fshiji krejt, përveç më të fundit">
 <!ENTITY retentionKeepRecent.accesskey "F">
 
 <!ENTITY folderSynchronizationTab.label          "Njëkohësim">
@@ -59,7 +59,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "Ndonjëherë kartela e treguesit të dosjes (.msf) dëmtohet dhe mesazhet mund të duken sikur mungojnë, ose mesazhe të fshirë të vazhdojnë të duken; riparimi i dosjes mund ta ndreqë këtë punë.">
 
 <!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
-<!ENTITY retentionDeleteMsg.label "Fshi mesazhet më të vjetër se">
+<!ENTITY retentionDeleteMsg.label "Fshi mesazhe më të vjetër se">
 <!ENTITY retentionDeleteMsg.accesskey "F">
 <!ENTITY folderProps.location.label              "Vend:">
 <!ENTITY folderProps.location.accesskey          "V">
