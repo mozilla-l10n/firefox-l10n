@@ -19,7 +19,7 @@
 <!ENTITY newevent.todoStatus.cancelled.label      "E anuluar" >
 <!ENTITY newevent.status.tentative.label    "Përpjekje" >
 <!ENTITY newevent.status.tentative.accesskey  "P" >
-<!ENTITY newevent.status.confirmed.label    "E ripohuar" >
+<!ENTITY newevent.status.confirmed.label    "E konfirmuar" >
 <!ENTITY newevent.status.confirmed.accesskey  "r" >
 <!ENTITY newevent.status.needsaction.label  "Lyp Veprim" >
 <!ENTITY newevent.status.inprogress.label   "Në proces" >
@@ -221,7 +221,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 ditë para" >
 <!ENTITY event.reminder.2days.before.label                "2 ditë para" >
 <!ENTITY event.reminder.1week.before.label                "1 javë para" >
-<!ENTITY event.reminder.custom.label                      "Përshtateni…" >
+<!ENTITY event.reminder.custom.label                      "Vetjake…" >
 
 <!ENTITY event.reminder.multiple.label                    "Kujtues të Shumëfishtë…" >
 
@@ -238,7 +238,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Përdyjavshëm">
 <!ENTITY event.repeat.monthly.label                     "Përmuajshëm">
 <!ENTITY event.repeat.yearly.label                      "Përvitshëm">
-<!ENTITY event.repeat.custom.label                      "Përshtateni…">
+<!ENTITY event.repeat.custom.label                      "Vetjake…">
 
 <!ENTITY event.recurrence.pattern.label                 "Rregull ripërsëritjeje">
 <!ENTITY event.recurrence.occurs.label                  "Përsërite" >

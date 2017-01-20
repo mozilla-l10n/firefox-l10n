@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepMsg.accesskey "f">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "o">
-<!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç ">
+<!ENTITY retentionKeepRecent.label "Fshiji krejt, përveç më të fundit ">
 <!ENTITY retentionKeepRecent.accesskey "t">
 <!ENTITY nntpRemoveMsgBody.label "Hiqe lëndën prej mesazhesh më të vjetër se">
 <!ENTITY nntpRemoveMsgBody.accesskey "H">

@@ -37,7 +37,7 @@
 <!ENTITY fileNotFound.title "Nuk u gjet kartelë">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Kontrolloni emrin e kartelës për gabime në shkrimin e tij.</li>
+  <li>Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.</li>
   <li>Shihni mos është lëvizur, riemërtuar a fshirë kartela.</li>
 </ul>
 ">
@@ -82,8 +82,8 @@
 </ul>
 ">
 
-<!ENTITY notCached.title "Dokumenti Skadoi">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
 <!ENTITY contentEncodingError.longDesc "
@@ -116,7 +116,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
-  <li>Lidhuni me përgjegjësin e rrjetit, për t&apos;u siguruar që shërbyesi ndërmjetës punon.</li>
+  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t&apos;u siguruar që shërbyesi ndërmjetës punon.</li>
 </ul>
 ">
 
@@ -170,11 +170,11 @@
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Bllokuar nga Rregullat e Sigurisë për Lëndën">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-u e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
+<!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -186,14 +186,14 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Nuk do të ishte e arsyeshme të shtonit një përjashtim nëse përdorni një lidhje internet të cilën nuk e besoni plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizim për këtë shërbyes.</p>
+<p>Nuk do të duhej të shtonit një përjashtim nëse po përdorni një lidhje internet të cilës nuk i zini besë plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizime për këtë shërbyes.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "S&apos;arrin të Lidhet Në Mënyrë të Sigurt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -208,4 +208,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Lidhja juaj s’është e sigurt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna që ju i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që ërgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna të cilat i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që përgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

@@ -55,27 +55,27 @@
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumenti Skadoi">
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyra i palidhur">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën i lidhur dhe të ringarkohet faqja.</li>
+  <li>Shtypni &quot;Riprovoni&quot; që të kalohet nën mënyrën në linjë dhe të ringarkohet faqja.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Gabim në kodim lënde">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Lloj kartele jo i parrezik">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -88,7 +88,7 @@
 <!ENTITY unknownProtocolFound.title "Nuk u kuptua adresa">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Mund t&apos;ju duhet të instaloni tjetër software për hapjen e kësaj adrese</li>
+  <li>Mund t&apos;ju duhet të instaloni tjetër program për hapjen e kësaj adrese</li>
 </ul>
 ">
 
@@ -103,25 +103,23 @@
 <!ENTITY proxyResolveFailure.title "Nuk arrin të gjejë shërbyesin ndërmjetës">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontrolloni rregullimet e ndërmjetësit për t&apos;siguruar që janë të sakta.</li>
-  <li>Kontrolloni për t&apos;siguruar që kompjuteri juaj ka në rrjet një lidhje që punon.</li>
-  <li>Po qe se kompjuteri apo rrjeti juaj mbrohet me &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-it i është lejuar të hyjë në Web.</li>
-</ul>
+  <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
+  <li>Kontrolloni kompjuterin tuaj, për t&apos;u siguruar që ka një lidhje rrjeti që punon.</li>
+  <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga &quot;firewall&quot; apo ndërmjetës, sigurohuni që &brandShortName;-it i lejohet hyrja në Web.</li> </ul>
 ">
 
 <!ENTITY redirectLoop.title "Faqja nuk ridrejton si duhet">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ndonjëherë ky problem mund të vijë prej çaktivizim ose mospranim cookie-sh.</li>
+  <li>Ndonjëherë ky problem mund të shkaktohet prej çaktivizim ose mospranim cookie-sh.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Përgjigje e papritur nga shërbyesi">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Kontrolloni për t&apos;siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Personale.</li>
-  <li>Kjo mund të vijë nga ndonjë formësim jostandard te shërbyesi.</li>
+  <li>Kontrolloni për t&apos;u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Personale.</li>
+  <li>Kjo mund të vijë nga një formësim jostandard te shërbyesi.</li>
 </ul>
 ">
 
@@ -129,7 +127,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Faqja që po provoni të shihni nuk mund të shfaqet, ngaqë nuk verifikohet dot që të dhënat e marra janë të mirëfillta.</li>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -167,8 +165,8 @@
 <p>Këto lloje sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, me të cilat faqe web dhe email-e mashtrues përdoren për të imituar burime të cilave u zini besë.</p>
 ">
 
-<!ENTITY cspBlocked.title "U bllokua nga Rregullat e Sigurisë së Lëndës">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e parandaloi këtë faqe të ngarkohej sipas kësaj mënyre, ngaqë për faqen ka rregulla sigurie të lëndës që nuk ia lejojnë këtë.</p>">
+<!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
@@ -191,7 +189,7 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’i njoftuar për këtë problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
 <!ENTITY forbiddenBlocked.title "Sajt i Ndaluar">
 <!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje, ngaqë është formësuar ta bllokojë.</p>

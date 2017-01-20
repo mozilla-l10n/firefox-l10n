@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.title "Adresë Që S&apos;Gjendet">
 <!ENTITY dnsNotFound.longDesc "<p>Shfletuesi nuk gjeti dot shërbyesin strehë të adresës së kërkuar.</p><ul><li>Bëtë ndonjë gabim gjatë shtypjes së përkatësisë? (p.sh. <q><strong>ww</strong>.mozilla.org</q> në vend të <q><strong>www</strong>.mozilla.org</q>)</li><li>Jeni i sigurt që kjo adresë përkatësie ekziston?  Mund të ketë skaduar regjistrimi i saj.</li><li>E keni të pamundur të shfletoni faqe të tjera?  Kontrolloni lidhjen tuaj të rrjetit dhe rregullimet për shërbyesin DNS.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës?  Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
 
-<!ENTITY fileNotFound.title "Kartelë Që S&apos;Gjendet">
+<!ENTITY fileNotFound.title "S&apos;u Gjet Kartelë">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mundet që objekti të jetë riemërtuar, hequr, ose shpërngulur gjetkë?</li><li>A ka ndonjë gabim shkrimi apo gabim tjetër tipografik te adresa?</li><li>A keni leje të mjafta hyrjeje për te objekti i kërkuar?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
@@ -76,15 +76,15 @@
 ">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
-<!ENTITY cspBlocked.title "Bllokuar nga një Rregull Sigurie Lënde">
+<!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>Shfletuesi e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që e pengon këtë.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
 
-<!ENTITY notCached.title "Dokumenti Skadoi">
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk është më i passhëm prej fshehtinës së shfletuesit.</p><ul><li>Si masë parandaluese sigurie, shfletuesi nuk rikërkon vetvetiu dokumente rezervat.</li><li>Click Riprovoni ta rikërkoni dokumentin prej sajtit.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
@@ -96,4 +96,4 @@
 <!ENTITY inadequateSecurityError.title "Lidhja juaj s’është e sigurt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme nga sulmet. Një agresor mund të zbulonte lehtë të dhëna që mendonit se janë të parrezikuara. Përgjegjësit të sajtit do t’i duhej të ndreqte shërbyesin së pari, përpara se të mundni të vizitoni sajtin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna të cilat i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që përgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

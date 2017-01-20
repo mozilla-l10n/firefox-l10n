@@ -14,7 +14,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Sajt i Rremë!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Kjo faqe te <span id='phishing_sitename'/> është raportuar si sajt i rremë dhe është bllokuar në bazë të parapëlqimeve tuaja mbi sigurinë.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Sajtet e rremë hartohen për t&apos;ju tërhequr në kryerje veprimesh të rrezikshme, fjala vjen, instalim software-i, ose zbulim të dhënash tuajat personale, të tilla si fjalëkalime, numra telefonash ose kartash krediti.</p><p>Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera mashtrime.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Sajtet e rremë hartohen për t&apos;ju shtyrë të bëni gjëra të rrezikshme, fjala vjen, instalim software-i, ose zbulim të të dhënave tuaja personale të tilla si, fjalëkalime, numra telefonash ose kartash krediti.</p><p>Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera rrengje.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Sajt i Raportuar Për Software të Padëshiruar!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

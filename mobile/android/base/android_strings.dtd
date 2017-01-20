@@ -72,7 +72,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Faqeruajtur tashmë">
+<!ENTITY bookmark_already_added "E faqeruajtur një herë">
 <!ENTITY bookmark_removed "Faqerojtësi u hoq">
 <!ENTITY bookmark_updated "Faqeruajtësi u përditësua">
 <!ENTITY bookmark_options "Mundësi">
@@ -177,7 +177,7 @@
 <!ENTITY pref_category_privacy_summary4 "Gjurmim, kredenciale hyrjesh, zgjedhje mbi të dhënat">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Mbi &brandShortName;-in, FAQ, përshtypje">
-<!ENTITY pref_category_datareporting "Zgjedhje mbi të dhënat">
+<!ENTITY pref_category_datareporting "Mundësi të dhënash">
 <!ENTITY pref_category_logins "Kredenciale Hyrjesh">
 <!ENTITY pref_learn_more "Mësoni më tepër">
 <!ENTITY pref_category_installed_search_engines "Motorë të instaluar kërkimesh">
@@ -209,7 +209,7 @@
 <!ENTITY pref_category_home "Kreu">
 <!ENTITY pref_category_home_summary "Personalizoni kreun tuaj">
 <!ENTITY pref_category_home_panels "Panele">
-<!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_category_home_add_ons "Shtesa">
 <!ENTITY pref_home_updates2 "Përditësime lënde">
 <!ENTITY pref_home_updates_enabled "Të aktivizuara">
 <!ENTITY pref_home_updates_wifi "Vetëm përmes Wi-Fi">
@@ -218,7 +218,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Faqja hyrëse për &brandShortName;">
+<!ENTITY home_homepage_radio_default "Kreu i &brandShortName;-ut">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -262,7 +262,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "Shkarko shkronja të largëta kur ngarkohet një faqe">
 
 <!ENTITY pref_tracking_protection_title2 "Mbrojtje Nga Gjurmimi">
-<!ENTITY pref_tracking_protection_summary3 "Aktive nën Shfletim Privat">
+<!ENTITY pref_tracking_protection_summary3 "E aktivizuar nën Shfletim Privat">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
 <!ENTITY pref_donottrack_summary "&brandShortName;-i do t’u thotë sajteve se nuk doni të gjurmoheni">
 
@@ -348,7 +348,7 @@
 \u0022Dilni\u0022 prej menusë kryesore">
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
 <!ENTITY pref_plugins "Shtojca">
-<!ENTITY pref_plugins_enabled "Aktive">
+<!ENTITY pref_plugins_enabled "Të aktivizuara">
 <!ENTITY pref_plugins_tap_to_play2 "Prekeni që të luhet">
 <!ENTITY pref_plugins_disabled "E çaktivizuar">
 <!ENTITY pref_text_size "Madhësi teksti">
@@ -402,7 +402,7 @@ size. -->
 
 <!ENTITY pref_default_browser "Bëjeni shfletuesin parazgjedhje">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vizitoni Asistencën e Mozilla-s">
-<!ENTITY pref_about_firefox "Rreth &brandShortName;">
+<!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Jepni përshtypjet">
 
@@ -433,7 +433,7 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "Raport Mbi Shëndetin e &brandShortName;-ut">
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Ndan me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj dhe ju ndihmon të vlerësoni cilësinë e punës së shfletuesit tuaj">
 <!ENTITY datareporting_abouthr_title "Shihni Raportin tuaj mbi Shëndetin">
 <!ENTITY datareporting_telemetry_title "Telemetry">
@@ -468,7 +468,7 @@ size. -->
 
 <!ENTITY save_as_pdf "Ruaje si PDF">
 <!ENTITY print "Shtype">
-<!ENTITY find_in_page "Gjej te Faqja">
+<!ENTITY find_in_page "Gjej në Faqe">
 <!ENTITY desktop_mode "Kërko Sajtin për Desktop">
 <!ENTITY page "Faqe">
 <!ENTITY tools "Mjete">
@@ -484,7 +484,7 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Gjeni te Faqja">
+<!ENTITY find_text "Gjej në Faqe">
 <!ENTITY find_prev "E mëparshmja">
 <!ENTITY find_next "Pasuesja">
 <!ENTITY find_close "Mbylle">
@@ -581,7 +581,7 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Kreu i &brandShortName;-it">
+<!ENTITY home_title "Kreu i &brandShortName;-ut">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Pajisje të njëkohësuara">
 <!ENTITY home_synced_devices_number "&formatD; pajisje">
@@ -848,5 +848,5 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Dismiss">
+<!ENTITY activity_stream_dismiss "Hidhe tej">
 <!ENTITY activity_stream_delete_history "Fshije prej Historiku">
