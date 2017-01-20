@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Paveikslo URL:">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Surinkite paveikslo vardą arba nurodykite jo vietą">
-
+<!ENTITY locationEditField.shortenedDataURI "URI - bendras resurso identifikatorius (nukopijuosite pilną URI kodą į iškarpinę)">
 <!ENTITY title.label "Paaiškinančioji etiketė:">
 <!ENTITY title.accessKey "e">
 <!ENTITY title.tooltip "Į HTML požymį „title“ įrašytas tekstas vaizduojamas kaip paveikslą paaiškinanti etiketė">
