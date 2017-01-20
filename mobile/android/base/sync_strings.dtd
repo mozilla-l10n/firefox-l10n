@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'בחזרה לגלישה'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'ברוכים הבאים אל &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'התחבר כדי לסנכרן את הלשוניות, הסימניות, ההתחברויות ועוד.'>
+<!ENTITY fxaccount_getting_started_description2 'התחברו כדי לסנכרן את הלשוניות, הסימניות, הכניסות ועוד.'>
 <!ENTITY fxaccount_getting_started_get_started 'התחלת שימוש'>
 <!ENTITY fxaccount_getting_started_old_firefox 'משתמשים בגרסה ישנה של &syncBrand.shortName.label;?'>
 
