@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Pronađi sljedeće pojavljivanje fraze">
 <!ENTITY previous.tooltip "Pronađi prethodno pojavljivanje fraze">
 <!ENTITY findCloseButton.tooltip "Zatvori traku za traženje">
-
-
+<!ENTITY highlightAll.label "Istakni sve">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Istakni sva pojavljivanja fraze">
 <!ENTITY caseSensitive.label "Podudarna velika i mala slova">
 <!ENTITY caseSensitive.accesskey "s">

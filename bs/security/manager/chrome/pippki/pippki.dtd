@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Zahtjev za identifikaciju korisnika">
 <!ENTITY clientAuthAsk.message1 "Ova stranica zahtijeva od vas da se identifikujete pomoću certifikata:">
 <!ENTITY clientAuthAsk.message2 "Izaberite certifikat koji ćete predstaviti kao identifikaciju:">
-
+<!ENTITY clientAuthAsk.message3 "Detalji izabranog certifikata:">
 
 <!ENTITY pkcs12.setpassword.title  "Izaberite lozinku backupa certifikata">
 <!ENTITY pkcs12.setpassword.message  "Lozinka backupa certifikata koju podesite ovdje štiti fajl backupa koju ćete napraviti. Morate postaviti lozinku da biste nastavili sa izradom backupa.">

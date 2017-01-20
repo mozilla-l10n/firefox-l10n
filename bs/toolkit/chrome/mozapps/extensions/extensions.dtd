@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vodiča">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
+<!ENTITY pluginDeprecation.learnMore "Saznajte više.">

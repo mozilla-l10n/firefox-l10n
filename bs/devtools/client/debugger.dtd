@@ -146,22 +146,22 @@
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
-<!ENTITY debuggerUI.condBreakPanelTitle "Ova linija prekida će prekinuti izvršavanje samo ako je sljedeći izraz tačan">
+<!ENTITY debuggerUI.condBreakPanelTitle "Ova tačka prekida će prekinuti izvršavanje samo ako je sljedeći izraz tačan">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuBreak     "Dodaj liniju prekida">
+<!ENTITY debuggerUI.seMenuBreak     "Dodaj tačku prekida">
 <!ENTITY debuggerUI.seMenuBreak.key "p">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuCondBreak     "Dodaj uslovnu liniju prekida">
+<!ENTITY debuggerUI.seMenuCondBreak     "Dodaj uslovnu tačku prekida">
 <!ENTITY debuggerUI.seMenuCondBreak.key "p">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
-<!ENTITY debuggerUI.seEditMenuCondBreak     "Dodaj uslovnu liniju prekida">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Dodaj uslovnu tačku prekida">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->

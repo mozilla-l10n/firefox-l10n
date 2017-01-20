@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly Resources
+#define nightly_heading Firefox Nightly resursi
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -118,7 +118,7 @@
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 
 
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools Nightly alati za testere
 
 
 # LOCALIZATION NOTE (crashes):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes Sva vaša rušenja
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Diskutujte Nightly na IRCu
 
 
 # LOCALIZATION NOTE (planet):
