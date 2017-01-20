@@ -80,7 +80,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "העדפות user.js">
-<!ENTITY aboutSupport.userJSDescription "תיקיית הפרופיל שלך מכילה את <a id='prefs-user-js-link'>קובץ user.js</a>, שכולל העדפות שלא נוצרו בידי  &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "תיקיית הפרופיל שלך מכילה <a id='prefs-user-js-link'>קובץ user.js</a>, שכולל העדפות שלא נוצרו בידי &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "העדפות נעולות חשובות">
 <!ENTITY aboutSupport.lockedPrefsName "שם">
