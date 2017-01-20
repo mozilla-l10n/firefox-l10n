@@ -12,5 +12,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Geen verbinding nie">
 <!ENTITY aboutAccounts.noConnection.description "'n Internetverbinding is nodig om aan te meld.">
 <!ENTITY aboutAccounts.noConnection.retry "Probeer weer">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Slegte opstelling">
+<!ENTITY aboutAccounts.badConfig.description "Kan nie die Firefox-rekenening se bedieneropstelling bepaal nie. Probeer weer later.">
