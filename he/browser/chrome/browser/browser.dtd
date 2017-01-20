@@ -282,6 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
 <!ENTITY newUserContext.label             "מגירת לשוניות חדשה">
+<!ENTITY newUserContext.accesskey         "ג">
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
