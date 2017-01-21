@@ -193,24 +193,25 @@
 <!ENTITY calendar.context.markcompleted.label     "संपूर्ण चिह्नित करें">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
-<!ENTITY progress.level.0             "0&#037;; पूर्ण">
+<!ENTITY progress.level.0             "0&percnt; पूर्ण">
 <!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; संपूर्ण">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; संपूर्ण">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "50&percnt; संपूर्ण">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "50&percnt; संपूर्ण">
+<!ENTITY progress.level.100.accesskey  "1">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY priority.level.none                "उल्लेखित नहीं">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "निम्न">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.normal              "सामान्य">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "उच्च">
+<!ENTITY priority.level.high.accesskey      "H">
 
 
 
