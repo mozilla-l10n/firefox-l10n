@@ -186,7 +186,7 @@
 <!ENTITY wifi_auth_header "Identifikim Klienti">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Ana tjetër me të cilën po lidheni lyp më tepër të dhëna që të mirëfilltësojë këtë lidhje.  Ju lutemi skanoni kodin QR më poshtë që prej kërkesës te pajisja juaj tjetër.">
+<!ENTITY wifi_auth_scan_request "Ana tjetër me të cilën po lidheni lyp më tepër të dhëna që të mirëfilltësojë këtë lidhje. Ju lutemi skanoni kodin QR më poshtë që prej kërkesës te pajisja juaj tjetër.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Nuk hapet skaneri QR?">
