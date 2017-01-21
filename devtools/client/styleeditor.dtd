@@ -11,6 +11,7 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "Νέο">
+<!ENTITY newButton.tooltip          "Δημιουργία και σύνδεση ενός νέου φύλλου στυλ στο έγγραφο">
 <!ENTITY newButton.accesskey        "Ν">
 
 <!ENTITY importButton.label         "Εισαγωγή…">
