@@ -14,7 +14,7 @@
    - Console context menu. -->
 
 <!ENTITY openURL.label     "नए टैब में यूआरएल खोलें">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.accesskey "ट">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -30,12 +30,12 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip2 "लॉग सीएसएस त्रुटि और चेतावनी">
+<!ENTITY btnPageCSS.tooltip2 "लॉग CSS त्रुटि और चेतावनी">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "जावास्क्रिप्ट अपवाद लॉग करें">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "सुरक्षा (_u)">
+<!ENTITY btnPageSecurity.label "सुरक्षा">
 <!ENTITY btnPageSecurity.tooltip "लॉग सुरक्षा त्रुटि और चेतावनी">
 <!ENTITY btnPageSecurity.accesskey "u">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the

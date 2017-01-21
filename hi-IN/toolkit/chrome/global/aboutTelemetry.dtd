@@ -71,7 +71,7 @@
 
 <!ENTITY aboutTelemetry.toggle "विभाग टॉगल करने के लिए क्लिक करें">
 
-<!ENTITY aboutTelemetry.emptySection "कोई आंकड़ा एकत्रित  नही">
+<!ENTITY aboutTelemetry.emptySection ". .(कोई आंकड़ा एकत्रित नही)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीरे sql दोषसुधार सक्षम है. पूर्ण रूप से sql  वाक्यांश नीचे दिखाई  दे सकता है लेकिन वे दूरमापी को जमा किये जा सकते है ">
 

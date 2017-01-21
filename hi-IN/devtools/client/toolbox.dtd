@@ -110,8 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
-<!ENTITY options.disableHTTPCache.label     "एचटीटीपी कैश निष्क्रिय करें (जब औज़ारपेटी खुला हो)">
-<!ENTITY options.disableHTTPCache.tooltip   "इस विकल्प को चालू करना उन सारे टैब्स के लिए एचटीटीपी कैश को अक्षम कर देगा जिनके लिए औजारपेटी खुला है. सेवाकर्मी इस विकल्प द्वारा प्रभावित नहीं हैं.">
+<!ENTITY options.disableHTTPCache.label     "HTTP कैश निष्क्रिय करें (जब औज़ारपेटी खुला हो)">
+<!ENTITY options.disableHTTPCache.tooltip   "इस विकल्प को चालू करना उन सारे टैब्स के लिए HTTP कैश को अक्षम कर देगा जिनके लिए औजारपेटी खुला है. सेवाकर्मी इस विकल्प द्वारा प्रभावित नहीं हैं.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
