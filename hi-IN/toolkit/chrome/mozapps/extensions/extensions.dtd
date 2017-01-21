@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "मैनुअल">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "कुछ भूल रहे हैं? कुछ प्लगइन &brandShortName; द्वारा समर्थित नही हैं">
+<!ENTITY pluginDeprecation.learnMore "अधिक जानें.">
