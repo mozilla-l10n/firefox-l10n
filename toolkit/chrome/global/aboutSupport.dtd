@@ -59,7 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Επιδόσεις">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Εγγεγραμμένοι λειτουργοί υπηρεσίας">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Εγγεγραμμένα Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Προφίλ">
 
