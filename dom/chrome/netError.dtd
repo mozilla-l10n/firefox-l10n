@@ -8,13 +8,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nuk u Lidh Dot">
-<!ENTITY connectionFailure.longDesc "<p>Edhe pse sajti duket të jetë i vlefshëm, shfletuesi s&apos;qe në gjendje të vendoste një lidhje.</p><ul><li>Mundet që sajti të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>E keni të pamundur të shfletoni faqe të tjera?  Kontrolloni lidhjen e rrjetit për kompjuterin.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Edhe pse sajti duket të jetë i vlefshëm, shfletuesi s&apos;qe në gjendje të vendoste një lidhje.</p><ul><li>Mundet që sajti të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>E keni të pamundur të shfletoni faqe të tjera? Kontrolloni lidhjen e rrjetit për kompjuterin.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Portë e Kufizuar për Arsye Sigurie">
 <!ENTITY deniedPortAccess.longDesc "<p>Adresa e kërkuar kërkonte një portë (p.sh. <q>mozilla.org:80</q> për portën 80 te mozilla.org) normalisht e përdorur për qëllime <em>të tjera</em> e jo për shfletim Web. Shfletuesi e anuloi kërkesën me qëllim mbrojtjen dhe sigurinë tuaj.</p>">
 
 <!ENTITY dnsNotFound.title "Adresë Që S&apos;Gjendet">
-<!ENTITY dnsNotFound.longDesc "<p>Shfletuesi nuk gjeti dot shërbyesin strehë të adresës së kërkuar.</p><ul><li>Bëtë ndonjë gabim gjatë shtypjes së përkatësisë? (p.sh. <q><strong>ww</strong>.mozilla.org</q> në vend të <q><strong>www</strong>.mozilla.org</q>)</li><li>Jeni i sigurt që kjo adresë përkatësie ekziston?  Mund të ketë skaduar regjistrimi i saj.</li><li>E keni të pamundur të shfletoni faqe të tjera?  Kontrolloni lidhjen tuaj të rrjetit dhe rregullimet për shërbyesin DNS.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës?  Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Shfletuesi nuk gjeti dot shërbyesin strehë të adresës së kërkuar.</p><ul><li>Bëtë ndonjë gabim gjatë shtypjes së përkatësisë? (p.sh. <q><strong>ww</strong>.mozilla.org</q> në vend të <q><strong>www</strong>.mozilla.org</q>)</li><li>Jeni i sigurt që kjo adresë përkatësie ekziston? Mund të ketë skaduar regjistrimi i saj.</li><li>E keni të pamundur të shfletoni faqe të tjera? Kontrolloni lidhjen tuaj të rrjetit dhe rregullimet për shërbyesin DNS.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "S&apos;u Gjet Kartelë">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mundet që objekti të jetë riemërtuar, hequr, ose shpërngulur gjetkë?</li><li>A ka ndonjë gabim shkrimi apo gabim tjetër tipografik te adresa?</li><li>A keni leje të mjafta hyrjeje për te objekti i kërkuar?</li></ul>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendeve dhe riprovoni.</p>">
 
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
-<!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre. Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyrë Jashtë Linje">
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon nën mënyrën jashtë linje dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën në linjë dhe të ringarkoni faqen.</li></ul>">
@@ -41,7 +41,7 @@
 <!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutemi, riprovoni.</p>">
 
 <!ENTITY netTimeout.title "Mbarim Kohe për Rrjetin">
-<!ENTITY netTimeout.longDesc "<p>Sajti i kërkuar nuk iu përgjigj kërkesës për lidhje dhe shfletuesi reshti së prituri për përgjigje.</p><ul><li>Mundet që shërbyesi është duke u përballur me kërkesë të madhe ose mundet të jetë përkohësisht jashtë loje?  Riprovoni më vonë.</li><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>A është kompjuteri juaj i mbrojtur nga një &quot;firewall&quot; apo ndërmjetës?  Rregullime të pasaktë mund të ndërhyjnë te shfletimi Web.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Sajti i kërkuar nuk iu përgjigj kërkesës për lidhje dhe shfletuesi reshti së prituri për përgjigje.</p><ul><li>Mundet që shërbyesi është duke u përballur me kërkesë të madhe ose mundet të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>A është kompjuteri juaj i mbrojtur nga një &quot;firewall&quot; apo ndërmjetës? Rregullime të pasaktë mund të ndërhyjnë te shfletimi Web.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protokoll i Panjohur">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa tregon një protokoll (p.sh. <q>wxyz://</q>) të cilin shfletuesi nuk e njeh, kështu që nuk mund të lidhet si duhet me këtë sajt.</p><ul><li>Mos po përpiqeni të hapni shërbime multimedia apo shërbim tjetër jo tekst? Shihni te sajti për kërkesa ekstra.</li><li>Disa protokolle mund të lypin software prej pale të tretë, ose shtojca, përpara se shfletuesi të mund t&apos;i njohë.</li></ul>">
@@ -71,7 +71,7 @@
 <!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
+<li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 

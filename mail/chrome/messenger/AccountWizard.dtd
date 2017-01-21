@@ -41,7 +41,7 @@
 <!ENTITY incomingServer.label "Shërbyes për Ardhësen:">
 <!ENTITY incomingServer.accesskey "A">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Jepni emër përdoruesi për postën ardhëse, siç ju është dhënë nga furnizuesi  juaj i shërbimit email (për shembull, &quot;matokodra&quot;).">
+<!ENTITY incomingUsername.description "Jepni emër përdoruesi për postën ardhëse, siç ju është dhënë nga furnizuesi juaj i shërbimit email (për shembull, &quot;matokodra&quot;).">
 <!ENTITY incomingUsername.label "Emër Përdoruesi:">
 <!ENTITY incomingUsername.accesskey "E">
 
@@ -121,7 +121,7 @@
 <!ENTITY deferStorage.label "Përdor Të marrë të Përgjithshëm (ruaj postë në Dosje Vendore)">
 <!ENTITY deferStorage.accesskey "P">
 <!ENTITY clickFinish.label "Klikoni mbi Përfundoje që të ruhen këto rregullime dhe të dilet nga Krijuesi i Llogarive.">
-<!ENTITY clickFinish.labelMac "Klikoni mbi Përfundoje që të ruhen këto rregullime dhe të dilet nga Krijuesi i  Llogarive.">
+<!ENTITY clickFinish.labelMac "Klikoni mbi Përfundoje që të ruhen këto rregullime dhe të dilet nga Krijuesi i Llogarive.">
 <!ENTITY downloadOnLogin.accesskey "K">
 
 <!ENTITY incomingTitle.label "Të dhëna Shërbyesi Për Ardhësen">

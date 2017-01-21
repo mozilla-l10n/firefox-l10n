@@ -11,7 +11,7 @@
 <!ENTITY pref.dateformat.label "Format Teksti Date:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "I gjatë" >
-<!ENTITY pref.dateformat.short "I shkurtër"  >
+<!ENTITY pref.dateformat.short "I shkurtër" >
 
 <!ENTITY pref.defaults.label "Vlera Parazgjedhje për Zëra të Rinj">
 <!ENTITY pref.events.label "Veprimtari">
