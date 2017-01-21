@@ -47,7 +47,7 @@
 <!ENTITY undoCmd.label                                  "Αναίρεση">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "ν">
-<!ENTITY redoCmd.label                                  "Ακύρωση αναίρεσης">
+<!ENTITY redoCmd.label                                  "Επανάληψη">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "κ">
 <!ENTITY cutCmd.label                                   "Αποκοπή">

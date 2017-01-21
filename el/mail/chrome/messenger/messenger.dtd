@@ -26,15 +26,15 @@
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
 <!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
 <!ENTITY newOtherAccountsCmd.accesskey "λ">
-<!ENTITY newCreateEmailAccountCmd.label "Δημιουργία νέου λογαριασμού αλληλογραφίας…">
+<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού email…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
-<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός αλληλογραφίας…">
+<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "χ">
-<!ENTITY newIMAccountCmd.label "Λογαριασμός Συνομιλίας…">
+<!ENTITY newIMAccountCmd.label "Λογαριασμός συνομιλίας…">
 <!ENTITY newIMAccountCmd.accesskey "Σ">
 <!ENTITY newFeedAccountCmd.label "Λογαριασμός ροής…">
 <!ENTITY newFeedAccountCmd.accesskey "Ρ">
-<!ENTITY newIMContactCmd.label "Επαφή Συνομιλίας…">
+<!ENTITY newIMContactCmd.label "Επαφή συνομιλίας…">
 <!ENTITY newIMContactCmd.accesskey "η">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
@@ -115,16 +115,16 @@
 <!ENTITY folderPropsNewsgroupCmd2.label "Ιδιότητες ομάδας συζήτησης">
 <!ENTITY folderPropsCmd.accesskey "δ">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
-<!ENTITY redoDeleteMsgCmd.label "Ακύρωση αναίρεσης διαγραφής μηνύματος">
+<!ENTITY redoDeleteMsgCmd.label "Επανάληψη διαγραφής μηνύματος">
 <!ENTITY undoMoveMsgCmd.label "Αναίρεση μετακίνησης μηνύματος">
-<!ENTITY redoMoveMsgCmd.label "Ακύρωση αναίρεσης μεταφοράς μηνύματος">
+<!ENTITY redoMoveMsgCmd.label "Επανάληψη μετακίνησης μηνύματος">
 <!ENTITY undoCopyMsgCmd.label "Αναίρεση αντιγραφής μηνύματος">
-<!ENTITY redoCopyMsgCmd.label "Ακύρωση αναίρεσης αντιγραφής μηνύματος">
+<!ENTITY redoCopyMsgCmd.label "Επανάληψη αντιγραφής μηνύματος">
 <!ENTITY undoMarkAllCmd.label "Αναίρεση σημείωσης όλων ως αναγνωσμένων">
-<!ENTITY redoMarkAllCmd.label "Ακύρωση αναίρεσης σημείωσης όλων ως αναγνωσμένων">
+<!ENTITY redoMarkAllCmd.label "Επανάληψη επισήμανσης όλων ως αναγνωσμένων">
 <!ENTITY undoDefaultCmd.label "Αναίρεση">
 <!ENTITY undoDefaultCmd.accesskey "ρ">
-<!ENTITY redoDefaultCmd.label "Ακύρωση αναίρεσης">
+<!ENTITY redoDefaultCmd.label "Επανάληψη">
 <!ENTITY redoDefaultCmd.accesskey "κ">
 
 <!-- View Menu -->
@@ -330,7 +330,7 @@
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Μήνυμα">
 <!ENTITY msgMenu.accesskey "Μ">
-<!ENTITY newMsgCmd.label "Νέο Μήνυμα">
+<!ENTITY newMsgCmd.label "Νέο μήνυμα">
 <!ENTITY newMsgCmd.accesskey "Ν">
 <!ENTITY newNewMsgCmd.label "Μήνυμα">
 <!ENTITY newNewMsgCmd.accesskey "Μ">
@@ -520,7 +520,7 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Λήψη Μυνημάτων">
+<!ENTITY getMsgButton1.label "Λήψη μηνυμάτων">
 <!ENTITY newMsgButton.label "Σύνταξη">
 <!ENTITY replyButton.label "Απάντηση">
 <!ENTITY replyAllButton.label "Απ. σε όλους">
@@ -589,7 +589,7 @@
 <!ENTITY chatButton.tooltip "Εμφάνιση της καρτέλας Συνομιλίας">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
-<!ENTITY appmenuButton1.tooltip "Εμφάνιση του μενού του &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Προώθηση ως κείμενο στο σώμα">
