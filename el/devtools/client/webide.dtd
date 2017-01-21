@@ -4,11 +4,30 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Έργο">
+<!ENTITY projectMenu_accesskey "Ε">
 <!ENTITY projectMenu_newApp_label "Νέα εφαρμογή…">
+<!ENTITY projectMenu_newApp_accesskey "Ν">
+<!ENTITY projectMenu_importPackagedApp_label "Άνοιγμα πακεταρισμένης εφαρμογής…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "Π">
+<!ENTITY projectMenu_importHostedApp_label "Άνοιγμα φιλοξενούμενης εφαρμογής…">
+<!ENTITY projectMenu_importHostedApp_accesskey "Φ">
 <!ENTITY projectMenu_selectApp_label "Άνοιγμα εφαρμογής…">
+<!ENTITY projectMenu_selectApp_accesskey "Α">
+<!ENTITY projectMenu_play_label "Εγκατάσταση και εκτέλεση">
+<!ENTITY projectMenu_play_accesskey "γ">
+<!ENTITY projectMenu_stop_label "Διακοπή εφαρμογής">
+<!ENTITY projectMenu_stop_accesskey "Δ">
+<!ENTITY projectMenu_debug_label "Αποσφαλμάτωση εφαρμογής">
+<!ENTITY projectMenu_debug_accesskey "π">
+<!ENTITY projectMenu_remove_label "Αφαίρεση έργου">
+<!ENTITY projectMenu_remove_accesskey "φ">
 <!ENTITY projectMenu_showPrefs_label "Προτιμήσεις">
+<!ENTITY projectMenu_showPrefs_accesskey "ρ">
 <!ENTITY projectMenu_refreshTabs_label "Ανανέωση καρτελών">
 
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Αποσύνδεση">
 <!ENTITY runtimeMenu_showSettings_label "Ρυθμίσεις Συσκευής">
 
@@ -23,12 +42,34 @@
 <!-- show toolbox -->
 <!-- toggle sidebar -->
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Τα έργα μου">
+<!ENTITY projectPanel_runtimeApps "Εφαρμογές Runtime">
 <!ENTITY projectPanel_tabs "Καρτέλες">
+<!ENTITY runtimePanel_usb "Συσκευές USB">
+<!ENTITY runtimePanel_wifi "Συσκευές Wi-Fi">
+<!ENTITY runtimePanel_simulator "Προσομοιωτές">
+<!ENTITY runtimePanel_other "Άλλο">
+<!ENTITY runtimePanel_installsimulator "Εγκατάσταση προσομοιωτή">
+<!ENTITY runtimePanel_noadbhelper "Εγκατάσταση βοηθού ADB">
+<!ENTITY runtimePanel_nousbdevice "Δεν μπορείτε να δείτε τη συσκευή σας;">
+<!ENTITY runtimePanel_refreshDevices_label "Ανανέωση συσκευών">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "έγκυρο">
+<!ENTITY details_warning_header "προειδοποιήσεις">
+<!ENTITY details_error_header "σφάλματα">
+<!ENTITY details_description "Περιγραφή">
+<!ENTITY details_location "Τοποθεσία">
+<!ENTITY details_manifestURL "ID εφαρμογής">
+<!ENTITY details_removeProject_button "Αφαίρεση έργου">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "Νέα εφαρμογή">
 
 
 <!-- Decks -->
@@ -45,12 +86,29 @@
 <!-- Runtime Details -->
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Αληθείας">
+<!ENTITY device_typenumber "Ακέραια">
+<!ENTITY device_typestring "Συμβολοσειρά">
+<!ENTITY device_typeobject "Αντικείμενο">
+<!ENTITY device_typenone "Επιλογή τύπου">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "Προτιμήσεις συσκευής">
+<!ENTITY devicepreference_search "Προτιμήσεις αναζήτησης">
+<!ENTITY devicepreference_newname "Όνομα νέας προτίμησης">
+<!ENTITY devicepreference_newtext "Τιμή προτίμησης">
+<!ENTITY devicepreference_addnew "Προσθήκη νέας προτίμησης">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Ρυθμίσεις συσκευής">
+<!ENTITY devicesetting_search "Ρυθμίσεις αναζήτησης">
+<!ENTITY devicesetting_newname "Όνομα νέας ρύθμισης">
+<!ENTITY devicesetting_newtext "Τιμή ρύθμισης">
+<!ENTITY devicesetting_addnew "Προσθήκη νέας ρύθμισης">
 
 <!-- Monitor -->
+<!ENTITY monitor_title "Εποπτεία">
+<!ENTITY monitor_help "Βοήθεια">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -68,4 +126,17 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_title "Επιλογές προσομοιωτή">
+<!ENTITY simulator_remove "Διαγραφή προσομοιωτή">
 <!ENTITY simulator_reset "Επαναφορά προεπιλογών">
+<!ENTITY simulator_name "Όνομα">
+<!ENTITY simulator_software "Λογισμικό">
+<!ENTITY simulator_version "Έκδοση">
+<!ENTITY simulator_profile "Προφίλ">
+<!ENTITY simulator_hardware "Υλικό">
+<!ENTITY simulator_device "Συσκευή">
+<!ENTITY simulator_screenSize "Οθόνη">
+<!ENTITY simulator_pixelRatio "Αναλογία εικονοστοιχείων">
+<!ENTITY simulator_tv_data "Προσομοίωση τηλεόρασης">
+<!ENTITY simulator_tv_data_open "Δεδομένα ρυθμίσεων">
+<!ENTITY simulator_tv_data_open_button "Άνοιγμα καταλόγου ρυθμίσεων…">

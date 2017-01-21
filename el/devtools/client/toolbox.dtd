@@ -88,6 +88,8 @@
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableWorkers.label    "Ενεργοποίηση αποσφαλμάτωσης worker (αναπτύσσεται)">
+<!ENTITY options.enableWorkers.tooltip  "Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει στα εργαλεία προγραμματιστών την αποσφαλμάτωση των workers">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -101,6 +103,7 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Ενεργοποίηση Service Workers μέσω HTTP (όταν είναι ανοικτή η εργαλειοθήκη)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
