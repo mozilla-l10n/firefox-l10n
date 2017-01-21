@@ -87,7 +87,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 
 <!ENTITY accountTitle.label "Rregullime Llogarie">
-<!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale.  Nuk ka identitete që i përshoqërohen asaj.">
+<!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale. Nuk ka identitete që i përshoqërohen asaj.">
 <!ENTITY storeType.label "Lloj Depozitimi Mesazhesh:">
 <!ENTITY storeType.accesskey "L">
 <!ENTITY mboxStore2.label "Një kartelë për dosje (mbox)">
