@@ -29,4 +29,4 @@
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
 
-<!ENTITY shaderEditorUI.emptyNotice     "WebGL  संदर्भ बनाई जाने प्रतीक्षा के लिए की जा रही है…">
+<!ENTITY shaderEditorUI.emptyNotice     "WebGL संदर्भ बनाई जाने के लिए प्रतीक्षा की जा रही है…">

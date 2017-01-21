@@ -97,7 +97,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label " पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "आई">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "परछाई टैब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -196,16 +196,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        " एक पृष्ठ आगे जाएँ">
 <!ENTITY backForwardButtonMenu.tooltip " इतिहास दिखाने के लिए दाहिना क्लिक करें या पुल डाउन करें">
 <!ENTITY backForwardButtonMenuMac.tooltip " इतिहास दिखाने के लिए पुल डाउन करें">
-<!ENTITY reloadCmd.label              "फिर लोड करें ">
+<!ENTITY reloadCmd.label              "फिर लोड करें">
 <!ENTITY reloadButton.tooltip         " वर्तमान पृष्ठ फिर लोड करें">
 <!ENTITY stopCmd.label                "रूकें">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           " यह पृष्ठ लोड करना रोकें">
-<!ENTITY goEndCap.tooltip             " स्थान पट्टी पर पता में जाएँ">
-<!ENTITY printButton.label            " छापें">
-<!ENTITY printButton.tooltip          " यह पृष्ठ छापें">
+<!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता में जाएँ">
+<!ENTITY printButton.label            "छापें">
+<!ENTITY printButton.tooltip          "यह पृष्ठ छापें">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "साइट की जानकारी देखें ">
+<!ENTITY urlbar.viewSiteInfo.label                      "साइट की जानकारी देखें">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "संदेश पटल खोलें">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थान अनुरोध पटल खोलें">
@@ -221,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "संस्थापित संदेश पटल खोलें">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "इस पृष्ठ का अनुवाद करें.">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रंबंधित करें ">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रंबंधित करें">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेयर का उपयोग प्रबंधित करे ">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "आप इस वेबसाइट के लिए अपने कैमरा को अवरूद्ध किये हैं.">
@@ -235,18 +235,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.zoomReset.tooltip     "छोटा-बड़ा स्तर फिर सेट करें">
 
-<!ENTITY searchItem.title             " खोज">
+<!ENTITY searchItem.title             "खोज">
 <!-- Toolbar items --> 
 
-<!ENTITY homeButton.label             " घर">
+<!ENTITY homeButton.label             "घर">
 
-<!ENTITY bookmarksButton.label          " पुस्तचिह्न">
+<!ENTITY bookmarksButton.label          "पुस्तचिह्न">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तचिह्न.">
 <!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तचिह्न">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
-<!ENTITY viewBookmarksToolbar.label         " पुस्तचिह्न औज़ारपट्टी देखें">
+<!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
 
 <!ENTITY containersMenu.label "पात्र">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -259,38 +259,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "इतिहास">
 <!ENTITY historySidebarCmd.commandKey   "H">
 
-<!ENTITY toolsMenu.label              " औज़ार">
+<!ENTITY toolsMenu.label              "औज़ार">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           " इस खोज के लिए बीजशब्द जोड़ें…">
+<!ENTITY keywordfield.label           "इस खोज के लिए बीजशब्द जोड़ें…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              " डाउनलोड">
+<!ENTITY downloads.label              "डाउनलोड">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 " सहयुक्तियाँ">
+<!ENTITY addons.label                 "सहयुक्तियाँ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "ए">
 
-<!ENTITY webDeveloperMenu.label       " वेब डेवलेपर">
+<!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectContextMenu.label     " तत्व जाँचें">
+<!ENTITY inspectContextMenu.label     "तत्व जाँचें">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         " फ़ाइल"> 
+<!ENTITY fileMenu.label         "फ़ाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "नया पात्र टैब">
 <!ENTITY newUserContext.accesskey         "b">
-<!ENTITY newNavigatorCmd.label        " नया विंडो">
+<!ENTITY newNavigatorCmd.label        "नया विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     " नयी निजी विंडो">
+<!ENTITY newPrivateWindow.label     "नयी निजी विंडो">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नया नन-इ10एस विंडो">
 
-<!ENTITY editMenu.label         " संपादन"> 
+<!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "पहले जैसा">  
 <!ENTITY undoCmd.key            "Z">  
@@ -302,12 +302,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "नक़ल करें">  
-<!ENTITY copyCmd.key            "सी">  
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           " चिपकाएँ">  
+<!ENTITY pasteCmd.label           "चिपकाएँ">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          " मिटाएँ">  
+<!ENTITY deleteCmd.label          "मिटाएँ">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         " सभी चुनें">  
@@ -503,8 +503,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "छवि सूचना देखें">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "देखें विवरण  ">
-<!ENTITY viewImageDescCmd.accesskey   "व">
+<!ENTITY viewImageDescCmd.label       "विवरण देखें">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           " वीडियो देखें">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         " पृष्ठभूमि छवि देखें">
@@ -623,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "= "> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        " छोटा करें">
@@ -773,15 +773,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "सिंक">
 
-<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;… में साइन इन करें...">
-<!ENTITY syncSignIn.accesskey         "वाई ">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; में साइन इन करें...">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        " अब तुल्यकालित करें">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; फिर से कनेक्ट करें... ">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
-<!ENTITY social.addons.label "  सेवा प्रबंधित करें…">
+<!ENTITY social.addons.label "सेवा प्रबंधित करें…">
 
 <!ENTITY social.directory.label "सक्रियकरण निर्देशिका">
 <!ENTITY social.directory.text "आप निर्देशिका से साझा सेवाओं को सक्रिय कर सकते हैं.">

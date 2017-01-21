@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "चुनें…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेशान नहीं करें">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value " कोई अधिसूचना नहीं दिखेगा जब तक &brandShortName; फिर से  चालू करेंगे ">
+<!ENTITY  notificationsDoNotDisturbDetails.value "कोई अधिसूचना नहीं दिखेगा जब तक फिर से &brandShortName; नहीं चालू करेंगे;">
 
 <!ENTITY  popupExceptions.label       "अपवाद...">
 <!ENTITY  popupExceptions.accesskey   "E">

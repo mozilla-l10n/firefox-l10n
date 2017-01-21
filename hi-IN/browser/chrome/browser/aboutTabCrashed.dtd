@@ -14,7 +14,7 @@
      translation. -->
 
 <!ENTITY tabCrashed.header2 "आपका टैब अकस्मात् ही क्रैश हो गया.">
-<!ENTITY tabCrashed.offerHelp "हम आपका मदद कर सकते हैं !">
+<!ENTITY tabCrashed.offerHelp "हम आपकी मदद कर सकते हैं!">
 <!ENTITY tabCrashed.single.offerHelpMessage "&tabCrashed.restoreTab; पृष्ठ को सामग्री दोबारा लोड करने हेतु चुने.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "&tabCrashed.restoreTab; या &tabCrashed.restoreAll; पृष्ठ को सामग्री दोबारा लोड करने हेतु चुने.">
 <!ENTITY tabCrashed.requestHelp "क्या आप हमारी मदद करेंगे?">

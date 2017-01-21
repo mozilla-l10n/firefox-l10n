@@ -46,7 +46,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "ब्राउज़र रिकॉर्डिंग के दौरान सबसे अधिक समय बिताया जहां जावास्क्रिप्ट कार्यों पर प्रकाश डाला गया।">
 <!ENTITY performanceUI.toolbar.memory-calltree "आबंटन">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "मेमोरी कहाँ आवंटित हुयी रिकॉर्डिंग क दौरान यह दर्शाता है |">
-<!ENTITY performanceUI.toolbar.js-flamegraph "जेएस फ्लैम चार्ट">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS फ्लेम चार्ट">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "रिकॉर्डिंग के दौरान जावास्क्रिप्ट का कॉल स्टैक दर्शाता है |">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "आवंटन फ्लेम सूचि">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed

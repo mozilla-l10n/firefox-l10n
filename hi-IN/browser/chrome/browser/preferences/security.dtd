@@ -11,7 +11,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें (B)">
+<!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "खतरनाक डाउनलोड बाधित करें ">
