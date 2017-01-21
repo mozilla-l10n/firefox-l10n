@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "col·laboreu-hi!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Notes de la versió">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Informació de la llicència">

@@ -31,5 +31,7 @@
 <!ENTITY manageDevices.label "Dispositius de seguretat">
 <!ENTITY manageDevices.accesskey "s">
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.info  "Certificat:">
 
+<!ENTITY certPicker.title "Seleccioneu un certificat">
+<!ENTITY certPicker.info  "Certificat:">
+<!ENTITY certPicker.detailsLabel "Detalls del certificat seleccionat:">

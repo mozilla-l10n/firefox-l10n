@@ -79,12 +79,12 @@
 <!ENTITY propertiesMenu.label                           "Propietats">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Propietats de la llibreta d'adreces">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Propietats del contacte">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Propietats de la llista de correu">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Visualitza">
@@ -145,10 +145,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "P">
 <!ENTITY abPropertiesContext.label                      "Propietats">
 <!ENTITY abPropertiesContext.accesskey                  "P">
-
-
-
-
+<!ENTITY editContactContext.label                       "Edita el contacte">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Edita la llista">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Redacta">
 <!ENTITY newmsgButton.accesskey                         "e">
 <!ENTITY newIM.label                                    "MI">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
 <!ENTITY newlistButton.tooltip                          "Crea una llista nova">
 <!ENTITY editPropertiesButton.tooltip                   "Edita l'element seleccionat">
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Edita les propietats de la llibreta d'adreces seleccionada">
 <!ENTITY editContactPropertiesButton.tooltip            "Edita el contacte seleccionat">
-
+<!ENTITY editMailingListPropertiesButton.tooltip        "Edita la llista de correu seleccionada">
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">
 <!ENTITY deleteButton2.tooltip                          "Suprimeix l'element seleccionat">
