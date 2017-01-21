@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
+<!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
+<!ENTITY captivePortal.longDesc "<p>És possible que aquesta xarxa us demani que inicieu la sessió per accedir a Internet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label "Obre la pàgina d'inici de sessió">
 
 <!ENTITY malformedURI.title "L'adreça no és vàlida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Les adreces web normalment s'escriuen així: <strong>http://www.example.com/</strong></li> <li>Assegureu-vos que utilitzeu les barres inclinades (<strong>/</strong>).</li> </ul>">
