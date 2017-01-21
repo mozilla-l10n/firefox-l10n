@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Gauta pranešimų">
 <!ENTITY aboutNetworking.bytesSent             "Išsiųsta baitų">
 <!ENTITY aboutNetworking.bytesReceived         "Gauta baitų">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Žurnalizavimas">
+<!ENTITY aboutNetworking.logTutorial           "Paskaitykite apie <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP žurnalizavimą</a> norėdami gauti instrukcijų kaip naudotis šiuo įrankiu.">
+<!ENTITY aboutNetworking.currentLogFile        "Dabartinis žurnalo failas:">
+<!ENTITY aboutNetworking.currentLogModules     "Dabartiniai žurnalo moduliai:">
+<!ENTITY aboutNetworking.setLogFile            "Parinkti žurnalo failą">
+<!ENTITY aboutNetworking.setLogModules         "Parinkti žurnalo modulius">
+<!ENTITY aboutNetworking.startLogging          "Pradėti žurnalizavimą">
+<!ENTITY aboutNetworking.stopLogging           "Baigti žurnalizavimą">
 <!ENTITY aboutNetworking.dnsLookup             "DNS paieška">
 <!ENTITY aboutNetworking.dnsLookupButton       "Nustatyti">
 <!ENTITY aboutNetworking.dnsDomain             "Sritis">

@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skaliarai">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Raktiniai skaliarai">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramos">
 
