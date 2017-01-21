@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Us falta res? Alguns complements ja no són compatibles amb el &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Més informació.">

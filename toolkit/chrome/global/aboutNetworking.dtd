@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Missatges rebuts">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviats">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes rebuts">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Registre">
+<!ENTITY aboutNetworking.logTutorial           "Vegeu <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> per obtenir instruccions sobre com utilitzar aquesta eina.">
+<!ENTITY aboutNetworking.currentLogFile        "Fitxer de registre actual:">
+<!ENTITY aboutNetworking.currentLogModules     "Mòduls de registre actuals:">
+<!ENTITY aboutNetworking.setLogFile            "Defineix el fitxer de registre">
+<!ENTITY aboutNetworking.setLogModules         "Defineix els mòduls de registre">
+<!ENTITY aboutNetworking.startLogging          "Inicia el registre">
+<!ENTITY aboutNetworking.stopLogging           "Atura el registre">
 <!ENTITY aboutNetworking.dnsLookup             "Consulta DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resol">
 <!ENTITY aboutNetworking.dnsDomain             "Domini">
