@@ -207,30 +207,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mostra la informació del lloc">
 
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Obre la subfinestra del missatge">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Obre la subfinestra de la sol·licitud d'ubicació">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Obre la subfinestra del missatge d'instal·lació del complement">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Obre la subfinestra del missatge d'emmagatzematge fora de línia">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Obre la subfinestra del missatge de desar la contrasenya">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestiona la compartició de finestres o de la pantalla amb el lloc">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Obre la subfinestra del missatge d'instal·lació">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradueix aquesta pàgina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestiona la traducció de pàgines">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a aquest lloc web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a aquest lloc web.">
-
+<!ENTITY urlbar.screenBlocked.tooltip            "Heu blocat la compartició de la pantalla en aquest lloc web.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Heu blocat la informació d'ubicació per a aquest lloc web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Heu blocat l'emmagatzematge de dades per a aquest lloc web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Reinicia el nivell de zoom">
 
 <!ENTITY searchItem.title             "Cerca">
 <!-- Toolbar items --> 
@@ -390,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Escriviu una cerca o adreça">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extensió:">
 <!ENTITY urlbar.switchToTab.label     "Canvia a la pestanya:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Voleu millorar la vostra experiència de cerca amb suggeriments?">
@@ -733,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
-
+<!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
