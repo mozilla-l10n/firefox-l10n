@@ -3,167 +3,198 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
+<!ENTITY calendar.calendar.label     "कैलेन्डर">
+<!ENTITY calendar.calendar.accesskey "C">
 
+<!ENTITY calendar.newevent.button.tooltip         "एक नया कार्यक्रम बनायें" >
+<!ENTITY calendar.newtask.button.tooltip          "नया कार्य शुरू करें" >
 
+<!ENTITY calendar.unifinder.todoitems.label       "कार्य" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "समाप्त हुए कार्यों को दिखाएँ">
 
+<!ENTITY calendar.today.button.label          "आज">
+<!ENTITY calendar.tomorrow.button.label       "कल">
+<!ENTITY calendar.upcoming.button.label       "आनेवाला">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.events.filter.all.label "सभी कार्यक्रम">
+<!ENTITY calendar.events.filter.today.label "आज का कार्यक्रम">
+<!ENTITY calendar.events.filter.future.label "सभी भावी कार्यक्रम">
+<!ENTITY calendar.events.filter.current.label "फिलहाल चुने गए दिन">
+<!ENTITY calendar.events.filter.currentview.label "मौजूदा दृश्य में कार्यक्रम">
+<!ENTITY calendar.events.filter.next7Days.label "अगले 7 दिनों में कार्यक्रम">
+<!ENTITY calendar.events.filter.next14Days.label "अगले 14 दिनों में कार्यक्रम ">
+<!ENTITY calendar.events.filter.next31Days.label "अगले 31 दिनों में कार्यक्रम ">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "इस पंचांग माह में कार्यक्रम">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.unifinder.tree.done.label                "संपन्न">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "समाप्ति के अनुसार क्रमबद्ध">
+<!ENTITY calendar.unifinder.tree.priority.label            "प्राथमिकता">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "प्राथमिकता के अनुसार क्रमबद्ध">
+<!ENTITY calendar.unifinder.tree.title.label               "शीर्षक">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "शीर्षक के अनुसार क्रमबद्ध">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; पूर्ण">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "&#037; पूर्ण के अनुसार क्रमबद्ध करें">
+<!ENTITY calendar.unifinder.tree.startdate.label           "प्रारंभ">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "प्रारंभिक तिथि के अनुसार छाँटें">
+<!ENTITY calendar.unifinder.tree.enddate.label             "आखरी">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "आखरी तिथि के अनुसार क्रमबद्ध करें">
+<!ENTITY calendar.unifinder.tree.duedate.label             "नियत तिथि">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "नियत तिथि के अनुसार क्रमबद्ध करें">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "पूर्ण">
+
+<!ENTITY calendar.unifinder.tree.categories.label          "श्रेणी">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "श्रेणी के हिसाब से छाटें">
+<!ENTITY calendar.unifinder.tree.location.label            "स्थान">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "स्थान के हिसाब से छाटें">
+<!ENTITY calendar.unifinder.tree.status.label              "अवस्था">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "स्थिति के हिसाब से छांटे">
+
+
+
+
+<!ENTITY calendar.unifinder.close.tooltip                  "कार्यक्रम खोज तथा कार्यक्रम सूची बंद करें ">
+
+<!ENTITY calendar.today.button.tooltip          "आज पर जाएँ" >
+<!ENTITY calendar.todaypane.button.tooltip      "आज की फलक दिखायें" >
+
+<!ENTITY calendar.day.button.tooltip            "दैनिक दृश्य पर बदलिए" >
+<!ENTITY calendar.week.button.tooltip           "साप्ताहिक दृश्य पर बदलिए" >
+<!ENTITY calendar.month.button.tooltip          "मासिक दृश्य पर बदलिए" >
+<!ENTITY calendar.multiweek.button.tooltip      "बहु सप्ताह दृश्य में स्विच करें" >
+
+<!ENTITY calendar.nextday.label                 "अगले दिन" >
+<!ENTITY calendar.prevday.label                 "पिछले दिन" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "अगला सप्ताह" >
+<!ENTITY calendar.prevweek.label                "अगला सप्ताह" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "अगला महीना" >
+<!ENTITY calendar.prevmonth.label               "पिछला महीना" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
+
+<!ENTITY calendar.navigation.nextday.tooltip    "एक दिन अग्रेषित करें" >
+<!ENTITY calendar.navigation.prevday.tooltip    "एक दिन पीछे" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "एक सप्ताह आगे" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "एक सप्ताह पीछे" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "एक माह आगे" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "एक माह पीछे" >
+
+<!ENTITY calendar.newevent.button.label         "नया कार्यक्रम" >
+<!ENTITY calendar.newtask.button.label          "नया कार्य" >
+<!ENTITY calendar.print.button.label            "छपाई" >
+<!ENTITY calendar.print.button.accesskey        "P">
+
+<!ENTITY calendar.day.button.label              "दिन" >
+<!ENTITY calendar.week.button.label             "सप्ताह" >
+<!ENTITY calendar.month.button.label            "माह" >
+<!ENTITY calendar.multiweek.button.label        "बहु सप्ताह" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "केवल कार्य सप्ताह के दिन" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "दृश्य में कार्य" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.completedtasks.checkbox.label     "पूर्ण कार्यों को दिखाएँ" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
+
+<!ENTITY calendar.orientation.label "घुमाव देखें" >
+<!ENTITY calendar.orientation.accesskey "o" >
+
+<!ENTITY calendar.search.options.searchfor " शामिल">
+
+<!ENTITY calendar.list.header.label                 "पंचांग">
+
+<!ENTITY calendar.task.filter.title.label           "दिखाएँ">
+<!ENTITY calendar.task.filter.all.label             "सभी">
+<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.today.label           "आज">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.next7days.label       "अगले सात दिन">
+<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.notstarted.label      "अप्रारंभिक कार्य  ">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "विलंबित कार्य">
+<!ENTITY calendar.task.filter.overdue.accesskey     "O">
+<!ENTITY calendar.task.filter.completed.label       "संपन्न कार्य">
+<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.open.label            "अधूरा कार्य">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
+<!ENTITY calendar.task.filter.current.label         "वर्तमान कार्य">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
 
+<!ENTITY calendar.task-details.title.label           "शीर्षक">
 
+<!ENTITY calendar.task-details.priority.label        "प्राथमिकता">
+<!ENTITY calendar.task-details.priority.low.label    "निम्न">
+<!ENTITY calendar.task-details.priority.normal.label "सामान्य">
+<!ENTITY calendar.task-details.priority.high.label   "उच्च">
+<!ENTITY calendar.task-details.status.label          "स्थिति">
+<!ENTITY calendar.task-details.category.label        "श्रेणी">
+<!ENTITY calendar.task-details.repeat.label          "दोहराएँ">
+<!ENTITY calendar.task-details.attachments.label     "संलग्नक">
+<!ENTITY calendar.task-details.start.label           "प्रारंभिक तिथि">
+<!ENTITY calendar.task-details.due.label             "समाप्ति तिथि">
 
+<!ENTITY calendar.task.category.button.tooltip  "श्रेणीबद्ध कार्य">
+<!ENTITY calendar.task.complete.button.tooltip  "चयनित कार्यों को संपूर्ण के रूप में चिह्नित करें">
+<!ENTITY calendar.task.priority.button.tooltip  "प्राथमिकता बदलें">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "#1 कार्यों को फिल्टर करें">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
 
+<!ENTITY calendar.context.modifyorviewitem.label      "खोलें">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.label      "कार्य को खोलें...">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
+<!ENTITY calendar.context.newevent.label              "नया कार्यक्रम…">
+<!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newtodo.label               "नया कार्य…">
+<!ENTITY calendar.context.newtodo.accesskey           "k">
+<!ENTITY calendar.context.deletetask.label            "कार्य मिटाएँ">
+<!ENTITY calendar.context.deletetask.accesskey        "l">
+<!ENTITY calendar.context.deleteevent.label           "कार्यक्रम मिटायें">
+<!ENTITY calendar.context.deleteevent.accesskey       "l">
+<!ENTITY calendar.context.cutevent.label              "काटें">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
+<!ENTITY calendar.context.copyevent.label             "नक़ल करें">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "चिपकाएँ">
+<!ENTITY calendar.context.pasteevent.accesskey        "P">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.attendance.menu.label       "उपस्थिति" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
+<!ENTITY calendar.context.attendance.occurrence.label "यह उपस्थिति" >
+<!ENTITY calendar.context.attendance.all.label        "सभी उपस्थितियाँ" >
 <!-- Task Context Menu -->
 
-
-
-
-
+<!ENTITY calendar.context.progress.label              "प्रगति">
+<!ENTITY calendar.context.progress.accesskey          "P">
+<!ENTITY calendar.context.priority.label              "प्राथमिकता">
+<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "स्थगित कार्य">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 <!--=percent sign-->
 
+<!ENTITY percnt "#38;#37;" >
 
+<!ENTITY calendar.context.markcompleted.label     "संपूर्ण चिह्नित करें">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
 
-
+<!ENTITY progress.level.0             "0&#037;; पूर्ण">
+<!ENTITY progress.level.0.accesskey   "0">
 
 
 
