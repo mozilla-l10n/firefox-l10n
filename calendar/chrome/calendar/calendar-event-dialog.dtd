@@ -10,7 +10,7 @@
 <!ENTITY newevent.from.label                "से" >
 <!ENTITY newevent.to.label                  "को" >
 
-<!ENTITY newevent.status.label                    "स्थिति" >
+<!ENTITY newevent.status.label                    "स्थिति‌" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "निर्दिष्ट नहीं है" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
@@ -113,8 +113,8 @@
 
 <!ENTITY  event.menu.view.label                           "देखें">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "औज़ारपट्टी()">
-<!ENTITY  event.menu.view.toolbars.accesskey              ")">
+<!ENTITY  event.menu.view.toolbars.label                  "औज़ारपट्टी‌">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
 <!ENTITY  event.menu.view.toolbars.event.label            "कार्यक्रम औजार पट्टी">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
 <!ENTITY  event.menu.view.toolbars.customize.label        "मनपसंद बनाएँ">
@@ -190,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "प्रस्ताव लागू करें">
 <!ENTITY counter.button.proposal.accesskey                "p">
-
+<!ENTITY counter.button.proposal.tooltip2                 "कार्यक्रम क्षेत्रों को प्रति-प्रस्तावों से मूल्यांकनों का उपयोग कर भरा जाएगा, केवल अतिरिक्त परिवर्तन के साथ अथवा के अलावा संचित ही सभी प्रतिभागियों को तदनुसार सूचित करेगा">
 <!ENTITY counter.button.original.label                    "मूल डेटा लागू करें">
 <!ENTITY counter.button.original.accesskey                "r">
-
+<!ENTITY counter.button.original.tooltip2                 "मूल कार्यक्रम से मान्यताओं पर ही क्षेत्रों को निर्धारित किया जाएगा,प्रति प्रस्तावों के निर्मित होने से पहले">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "शीर्षक:" >
@@ -215,8 +215,8 @@
 <!ENTITY task.from.accesskey                              "S">
 <!ENTITY event.to.label                                   "अंतः" >
 <!ENTITY event.to.accesskey                               "u">
-
-
+<!ENTITY task.to.label                                    "समाप्ति तिथि:" >
+<!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "स्थिति:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "दोहराएँ:" >
@@ -282,11 +282,11 @@
 <!ENTITY event.recurrence.year.label                    "वार्षिक" >
 
 <!ENTITY event.recurrence.pattern.every.label           "प्रत्येक" >
-<!ENTITY repeat.units.days.both                         "दिन" >
+<!ENTITY repeat.units.days.both                         "दिन‌" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "प्रत्येक साप्ताहिक दिन" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "प्रत्येक" >
-<!ENTITY repeat.units.weeks.both                        "सप्ताह" >
+<!ENTITY repeat.units.weeks.both                        "सप्ताह‌" >
 <!ENTITY event.recurrence.on.label                      "पर:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "प्रत्येक" >
@@ -306,10 +306,10 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "शुक्रवार" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "शनिवार" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "महीने का दिन">
-
+<!ENTITY event.recurrence.repeat.recur.label            "दिनों पर पुनरावृत्ति">
 
 <!ENTITY event.recurrence.every.label                        "प्रत्येक:" >
-<!ENTITY repeat.units.years.both                             "वर्ष" >
+<!ENTITY repeat.units.years.both                             "वर्ष‌" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "प्रत्येक" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -365,7 +365,7 @@
 <!ENTITY event.recurrence.range.label                   "पुनरावृत्ति की सीमा">
 <!ENTITY event.recurrence.forever.label                 "कोई अंतिम तारीख़ नहीं" >
 <!ENTITY event.recurrence.repeat.for.label              "बनाएँ" >
-<!ENTITY event.recurrence.appointments.label            "मुलाकात" >
+<!ENTITY event.recurrence.appointments.label            "मुलाकात‌" >
 <!ENTITY event.repeat.until.label                       "दोहराएँ जब तक" >
 <!ENTITY event.recurrence.preview.label                 "पूर्वावलोकन">
 <!-- Attendees dialog -->
