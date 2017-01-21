@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Enllaç…">
 <!ENTITY insertLinkCmd2.accesskey "l">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Àncora amb nom…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imatge…">

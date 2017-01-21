@@ -28,8 +28,8 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Les etiquetes poden utilitzar-se per classificar i donar prioritats als vostres missatges.">
-
-
+<!ENTITY newTagButton.label        "Nova…">
+<!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Edita…">
 <!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Suprimeix">
