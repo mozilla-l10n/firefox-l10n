@@ -13,10 +13,12 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
+<!ENTITY tabCrashed.header2 "Ech. Jūsų kortelė tik ką užstrigo.">
+<!ENTITY tabCrashed.offerHelp "Mes galime jums padėti!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Pasirinkite „&tabCrashed.restoreTab;“ norėdami iš naujo įkelti tinklalapio turinį.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Pasirinkite „&tabCrashed.restoreTab;“ arba „&tabCrashed.restoreAll;“ norėdami iš naujo įkelti tinklalapio turinį.">
+<!ENTITY tabCrashed.requestHelp "Ar padėsite mums?">
+<!ENTITY tabCrashed.requestHelpMessage "Strigčių pranešimai mums padeda nustatyti problemas ir tobulinti „&brandShortName;“.">
 
 
 
