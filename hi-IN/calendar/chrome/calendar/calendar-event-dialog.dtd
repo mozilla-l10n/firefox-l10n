@@ -10,7 +10,7 @@
 <!ENTITY newevent.from.label                "से" >
 <!ENTITY newevent.to.label                  "को" >
 
-<!ENTITY newevent.status.label                    "स्थिति (S)" >
+<!ENTITY newevent.status.label                    "स्थिति" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "निर्दिष्ट नहीं है" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
