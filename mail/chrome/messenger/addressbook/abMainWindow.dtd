@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
+<!ENTITY addressbookWindow.title                        "Βιβλίο διευθύνσεων">
 <!ENTITY blankResultsPaneMessage.label                  "Αυτό το βιβλίο διευθύνσεων εμφανίζει επαφές μόνο μετά από μια αναζήτηση">
 <!ENTITY localResultsOnlyMessage.label                  "Επαφές από απομακρυσμένα βιβλία διευθύνσεων δεν εμφανίζονται μέχρι να γίνει αναζήτηση">
 
@@ -16,7 +16,7 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Λίστα αλληλογραφίας...">
 <!ENTITY newListCmd.accesskey                           "Λ">
-<!ENTITY newAddressBookCmd.label                        "Ευρετήριο διευθύνσεων...">
+<!ENTITY newAddressBookCmd.label                        "Βιβλίο διευθύνσεων…">
 <!ENTITY newAddressBookCmd.accesskey                    "ρ">
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">

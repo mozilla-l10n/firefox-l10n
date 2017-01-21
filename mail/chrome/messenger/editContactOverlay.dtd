@@ -11,7 +11,7 @@
 <!ENTITY editContactEmail.label "Ηλ. Διεύθυνση:">
 <!ENTITY editContactEmail.accesskey "Δ">
 
-<!ENTITY editContactAddressBook.label "Ευρετήριο διευθύνσεων:">
+<!ENTITY editContactAddressBook.label "Βιβλίο διευθύνσεων:">
 <!ENTITY editContactAddressBook.accesskey "θ">
 
 <!ENTITY editContactPanelCancel.label "Ακύρωση">
