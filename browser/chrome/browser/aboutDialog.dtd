@@ -22,13 +22,13 @@
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " आहे ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "जागतिक समुदाय">
 <!ENTITY community.exp.end          " सर्वांसाठी वेब ओपन, सार्वजनिक व उपलब्ध करण्यासाठी एकत्र कार्यरत आहोत.">
 
-<!ENTITY community.start2           "&brandShortName; ची रचना  ">
+<!ENTITY community.start2           "&brandShortName; ची रचना">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एक   ">
@@ -36,10 +36,10 @@
 <!ENTITY community.creditsLink      "जागतिक समुदाय">
 <!ENTITY community.end3             " सर्वांसाठी वेब ओपन, सार्वजनिक व उपलब्ध करण्यासाठी एकत्र कार्यरत आहोत.">
 
-<!ENTITY helpus.start               "मदत करू इच्छिता?  ">
+<!ENTITY helpus.start               "मदत करू इच्छिता?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "देणगी द्या ">
-<!ENTITY helpus.middle              " किंवा  ">
+<!ENTITY helpus.donateLink          "देणगी द्या">
+<!ENTITY helpus.middle              " किंवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सामील व्हा!">
 <!ENTITY helpus.end                 "">
