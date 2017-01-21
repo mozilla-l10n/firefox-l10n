@@ -13,16 +13,18 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Aywa. War kanjoo n' ka kaŋ.">
+<!ENTITY tabCrashed.offerHelp "Ir ga hin ka war faaba!">
+<!ENTITY tabCrashed.single.offerHelpMessage "&tabCrashed.restoreTab; suuba ka moo gundekunaa zumandi taaga.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "&tabCrashed.restoreTab; wala &tabCrashed.restoreAll; suuba ka moo gundekunaa zumandi taaga.">
+<!ENTITY tabCrashed.requestHelp "War g'ir faaba wala?">
+<!ENTITY tabCrashed.requestHelpMessage "Kaŋyan bayrandey g'ir gaa ka šendawey maate nda ka &brandShortName; boryandi ka tonton.">
+<!ENTITY tabCrashed.requestReport "Kanjoo woo bayrandi">
+<!ENTITY tabCrashed.sendReport2 "Kaŋyan bayrandi sanba kanjoo kaŋ war goo m'a guna se">
 <!ENTITY tabCrashed.commentPlaceholder2 "Daarayaŋ tonton (daarawey ga hin ka diyandi)">
 <!ENTITY tabCrashed.includeURL2 "Moo aderesu dam kaŋyan bayrandoo woo bande">
 <!ENTITY tabCrashed.emailPlaceholder "War bataga aderesoo dam ne">
 <!ENTITY tabCrashed.emailMe "Bataga tee yane nd' alhabar tontoni bangay">
 <!ENTITY tabCrashed.reportSent "Kaŋyan bayrandi n' ka sanbandi ka ben; foofo nda war faabaa ka &brandShortName; boryandi ka tonton!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Bandafaari kanjey bayrandi">
-
+<!ENTITY tabCrashed.autoSubmit "Ibaayey taagandi hala kaŋyan bayrandi margantey ma sanbandi ngi bonše (nda ma šii boobo ka duu alhabaroo woo dumoo hiino)">
