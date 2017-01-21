@@ -165,6 +165,8 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "स्रोत नक्शा सक्षम करें">
+<!ENTITY options.sourceMaps.tooltip    "यदि आप इस विकल्प को सक्षम करते हैं तो सूत्रों को डीबगर और कंसोल में मैप किया जाएगा.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

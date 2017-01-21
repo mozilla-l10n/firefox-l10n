@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "आप फिलहाल एक निजी विंडो में नहीं हैं">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "आप फिलहाल एक निजी विंडो में नहीं हैं.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजी विंडो खोलें">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 

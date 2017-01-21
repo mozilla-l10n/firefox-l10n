@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "वाकई, यह शर्मनाक है">
+<!ENTITY restorepage.errorTitle     "वाकई, यह शर्मनाक है.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; आपके विंडो और टैब को वापस पाने में परेशानी का अनुभव कर रहा है. यह प्रायः हाल में खोले गए वेब पृष्ठ के कारण हुआ है">
 <!ENTITY restorepage.tryThis        "आप आज़मा सकते हैं:">
 <!ENTITY restorepage.restoreSome    "जिस एक या अधिक टैब को आप हटाना चाहते हैं वो समस्या का कारण बन सकती है">
