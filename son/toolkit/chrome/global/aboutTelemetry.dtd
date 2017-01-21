@@ -52,7 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Šilli deejarey">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Alkadarey">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Alkadar kufalantey">
 
 <!ENTITY aboutTelemetry.histogramsSection "--Titilawey">
 

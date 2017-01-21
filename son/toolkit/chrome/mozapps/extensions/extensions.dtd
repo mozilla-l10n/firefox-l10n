@@ -244,4 +244,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "fahamandi tiira ra">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "Haya foo ga kuma? Sukari fooyaŋ ši kanbandi koyne &brandShortName; ga.">
+<!ENTITY pluginDeprecation.learnMore "Bay ka tonton.">

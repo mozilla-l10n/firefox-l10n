@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Goyteeri">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Lakkal goy-alkadar">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Teeyan sahã">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers hantumantey">
@@ -70,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Cebe ceecikoy ra">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Foolo feeri">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ibaayi barmayante šifanteyaŋ">
 <!ENTITY aboutSupport.modifiedPrefsName "Maa">
@@ -85,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Bii takarey">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Nungey bayrayhay hugu">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Timmeyan">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Timmeyan koroši">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Tonton cindi-kurmakaw">
@@ -113,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Kaŋyan zaaritiira">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Dabariyan zaaritiira">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Kaŋyan hawgay alhaaley ši dira ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Šendaykuubiyan">
