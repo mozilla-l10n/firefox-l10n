@@ -43,6 +43,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Καταγραφή">
+<!ENTITY btnPageLogging.tooltip "Τα μηνύματα καταγραφής εστάλησαν στο αντικείμενο window.console">
 <!ENTITY btnConsoleErrors       "Σφάλματα">
 <!ENTITY btnConsoleInfo         "Πληροφορίες">
 <!ENTITY btnConsoleWarnings     "Προειδοποιήσεις">
@@ -60,10 +61,13 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Κοινόχρηστοι workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Workers υπηρεσίας">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Workers προσθέτων ή Chrome">
 
 <!ENTITY filterOutput.placeholder "Έξοδος φίλτρου">
 <!ENTITY btnClear.label        "Εκκαθάριση">
