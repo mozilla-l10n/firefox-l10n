@@ -213,123 +213,163 @@
 <!ENTITY priority.level.high                "उच्च">
 <!ENTITY priority.level.high.accesskey      "H">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 घंटा">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 दिन">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 सप्ताह">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
-
-
-
-
-
-
+<!ENTITY calendar.copylink.label       "कड़ी स्थान की नक़ल करें">
+<!ENTITY calendar.copylink.accesskey   "C">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label     "मिटाएँ">
 <!-- Server Context Menu -->
 
-
-
-
-
+<!ENTITY calendar.context.newserver.label              "नया पंचांग">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "पंचांग ढूंढें" >
+<!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.deleteserver2.label          "पंचांग मिटाएँ">
+<!ENTITY calendar.context.deleteserver2.accesskey      "D">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.removeserver.label           "पंचांग हटाएँ…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "पंचांग सदस्यता समाप्त करें…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
+<!ENTITY calendar.context.synccalendars.label          "पंचांगों को समकालित करें">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.publish.label                "पंचांग प्रकाशित करें…">
+<!ENTITY calendar.context.publish.accesskey            "b">
+<!ENTITY calendar.context.export.label                 "पंचांग निर्यात करें...">
+<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.properties.label             "गुण">
+<!ENTITY calendar.context.properties.accesskey         "P">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
+<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showall.label                "सभी पंचांग दिखाएँ">
+<!ENTITY calendar.context.showall.accesskey            "A">
 
+<!ENTITY calendar.context.convertmenu.label              "इसमें बदलें">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "कार्यक्रम">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.message.label      "संदेश…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "कार्य…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "छोटे-महीने">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "पंचांग सूची">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.tasks.view.filtertasks.label           "कार्यों को फ़िल्टर करें">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 <!-- Calendar Alarm Dialog -->
 
 
+<!ENTITY calendar.alarm.location.label              "स्थानः" >
+<!ENTITY calendar.alarm.details.label               "विवरण…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "ऊंघाई के लिए" >
 
 
+<!ENTITY calendar.alarm.dismiss.label               "खारिज करें" >
+<!ENTITY calendar.alarm.dismissall.label            "सब ख़ारिज करें" >
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 मिनट" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 मिनट" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 मिनट" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 मिनट" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 मिनट" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 घंटा" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 घंटे" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 दिन" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "झपकी रद्द करें">
 <!-- Calendar Server Dialog -->
+
+<!ENTITY calendar.server.dialog.title.edit          "तिथि पत्री का सम्पादन">
 
 <!-- Calendar Properties -->
 
+<!ENTITY calendarproperties.color.label                    "रंगः">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "प्रारूप:">
+<!ENTITY calendarproperties.location.label                 "स्थानः">
+<!ENTITY calendarproperties.refreshInterval.label          "पंचांग ताजा करें">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "हस्तचालित">
+<!ENTITY calendarproperties.name.label                     "नाम:">
+<!ENTITY calendarproperties.readonly.label                 "सिर्फ पढ़ने योग्य">
+<!ENTITY calendarproperties.firealarms.label               "अनुस्मारक दिखाएँ">
+<!ENTITY calendarproperties.cache3.label                   "ऑफ़लाइन समर्थन">
+<!ENTITY calendarproperties.enabled.label                  "इस पंचांग को स्विच ऑन करें">
+<!ENTITY calendarproperties.forceDisabled.label            "इस पंचांग के लिए प्रदाता नहीं मिल पाया है. यह प्रायः घटित होता है अगर आपने कुछ addons निष्क्रिय अथवा स्थापना रद्द किया है.">
+<!ENTITY calendarproperties.unsubscribe.label              "सदस्यता समाप्त करें">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 <!-- Calendar Publish Dialog -->
 
+<!ENTITY calendar.publish.dialog.title              "पंचांग प्रकाशित करें">
+<!ENTITY calendar.publish.url.label                 "URL प्रकाशित की जा रही है">
+<!ENTITY calendar.publish.publish.button      "प्रकाशित करें">
+<!ENTITY calendar.publish.close.button      "बंद करें">
 
-
-
+<!ENTITY calendar.publish.example.url.description   "कुछ इस प्रकार http://www.myserver.com/webdav/test.ics">
 <!-- Select Calendar Dialog -->
+
+<!ENTITY calendar.select.dialog.title    "पंचांग का चयन">
 <!-- Calendar Printing -->
 
+<!ENTITY calendar.print.window.title "एक पंचांग छापें">
+<!ENTITY calendar.print.title.label "शीर्षक:">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.print.range.label "क्या छापें">
+<!ENTITY calendar.print.currentView2.label "मौजूदा दृश्य">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "चुनें हुए कार्यकृम/कार्य">
+<!ENTITY calendar.print.tasks.label "कार्य">
+<!ENTITY calendar.print.events.label "कार्यकृम">
+<!ENTITY calendar.print.custom.label "मनपसंद तिथि का दायरा:">
+<!ENTITY calendar.print.from.label "से:">
+<!ENTITY calendar.print.to.label "के लिए:">
+<!ENTITY calendar.print.settingsGroup.label "छपाई की सेटिंग्स">
+<!ENTITY calendar.print.optionsGroup.label "विकल्प">
+<!ENTITY calendar.print.taskswithnoduedate.label "नियत तिथि के बिना कार्य">
+<!ENTITY calendar.print.completedtasks.label "पूर्ण कार्य">
 <!-- Error reporting -->
 
-
-
+<!ENTITY calendar.error.detail "विवरण…">
+<!ENTITY calendar.error.code "दोषी कोड">
+<!ENTITY calendar.error.description "वर्णन:">
+<!ENTITY calendar.error.title "एक दोष आ गया है">
 <!-- Extract buttons in message header -->
 
-
-
+<!ENTITY calendar.extract.event.button         "घटना के रूप में जोड़ें">
+<!ENTITY calendar.extract.task.button          "कार्य के रूप में जोड़ें">
+<!ENTITY calendar.extract.event.button.tooltip "पंचांगी जानकारी को संदेश से बहार निकालें तथा इसे अपने पंचांग में कार्यक्रम के रूप में जोड़ें">
+<!ENTITY calendar.extract.task.button.tooltip  "पंचांगी जानकारी को संदेश से बहार निकालें तथा इसे अपने पंचांग में कार्य के रूप में जोड़ें">
