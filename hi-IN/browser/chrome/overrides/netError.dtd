@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc " <ul> <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "फ़ाइल तक पहुँच रद्द की गयी">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>यह हटाया, खिसकाया गया हो सकता है या फ़ाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>यह हटाया, खिसकाया गया हो सकता है या फ़ाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li> </ul>">
 
 <!ENTITY generic.title " ओफ्फ.">
 <!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
