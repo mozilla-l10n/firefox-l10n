@@ -283,8 +283,8 @@
 <!ENTITY tableProperties.accesskey "δ">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Εργαλειοθήκη μενού">
-<!ENTITY formatToolbar.tooltip "Εργαλειοθήκη μορφοποίησης">
+<!ENTITY menuBar.tooltip "Γραμμή εργαλείων μενού">
+<!ENTITY formatToolbar.tooltip "Γραμμή εργαλείων μορφοποίησης">
 <!ENTITY cutToolbarCmd.tooltip "Αποκοπή">
 <!ENTITY copyToolbarCmd.tooltip "Αντιγραφή">
 <!ENTITY pasteToolbarCmd.tooltip "Επικόλληση">

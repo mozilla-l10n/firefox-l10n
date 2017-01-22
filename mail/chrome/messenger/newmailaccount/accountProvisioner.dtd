@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Καλώς ήλθατε στον &brandShortName;">
-<!ENTITY header2.label "Θέλετε μια νέα διεύθυνση email;">
+<!ENTITY window.title "Καλώς ήλθατε στο &brandShortName;">
+<!ENTITY header2.label "Θα θέλατε μια νέα διεύθυνση email;">
 <!ENTITY other.languages "Σας εμφανίζουμε μόνο τους παρόχους που προσφέρουν email στην περιοχή σας.  Πατήστε εδώ για να εμφανίσετε όλους τους παρόχους.">
 <!ENTITY error.line1 "Συγγνώμη, δεν βρέθηκε καμία από τις προτεινόμενες διευθύνσεις email.">
 <!ENTITY error.line2 "Μπορείτε να κάνετε αναζήτηση για nicknames ή για κάποιον άλλο όρο για να βρείτε περισσότερες διευθύνσεις">
@@ -25,7 +25,7 @@
 <!ENTITY partnership.description "Σε συνεργασία με αρκετούς παρόχους, το &brandShortName; μπορεί να σάς προσφέρει ένα νέο λογαριασμό email. Συμπληρώστε απλά το όνομα και το επώνυμό σας, ή οποιεσδήποτε άλλες λέξεις επιθυμείτε, στα παραπάνω πεδία για να ξεκινήσετε.">
 <!ENTITY existing.header "Έχετε ήδη μια διεύθυνση που θέλετε να χρησιμοποιήσετε;">
 <!ENTITY tinyheader.title "Έχετε ήδη μια διεύθυνση;">
-<!ENTITY tinyheader.existing "Παράκαμψη αυτού και χρήση της υπάρχουσας διεύθυνσης μου">
+<!ENTITY tinyheader.existing "Παράλειψη και χρήση υπάρχοντος email">
 <!ENTITY content.close "Θα ρυθμίσω τον λογαριασμό μου αργότερα.">
 <!ENTITY successful.title "Συγχαρητήρια!">
 <!ENTITY successful.successMessage "Ρυθμίσατε με επιτυχία τον λογαριασμό σας.">
