@@ -119,3 +119,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "יומן החלטות">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "תכונות מנוטרלות של מגן הקריסות">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "מעקפים">
