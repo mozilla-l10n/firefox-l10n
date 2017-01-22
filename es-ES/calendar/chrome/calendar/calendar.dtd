@@ -189,7 +189,7 @@
 <!ENTITY calendar.context.findcalendar.label "Encontrar calendario…">
 <!ENTITY calendar.context.findcalendar.accesskey "c">
 <!ENTITY calendar.context.deleteserver2.label "Eliminar calendario…">
-<!ENTITY calendar.context.deleteserver2.accesskey "V">
+<!ENTITY calendar.context.deleteserver2.accesskey "E">
 <!ENTITY calendar.context.removeserver.label "Eliminar calendario…">
 <!ENTITY calendar.context.removeserver.accesskey "E">
 <!ENTITY calendar.context.unsubscribeserver.label "Cancelar suscripción a calendario…">
