@@ -160,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Pažymėjus šią parinktį, Saityno pulto išvestis bus rodoma su laiko žymomis">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Derintuvė">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Įgalinti ištekliaus žemėlapius">
+<!ENTITY options.sourceMaps.tooltip    "Įjungus šią parinktį, ištekliai bus atvaizduoti derintuvėje bei pulte.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
