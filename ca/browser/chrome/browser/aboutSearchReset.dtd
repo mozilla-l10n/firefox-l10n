@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Voleu restaurar els paràmetres de cerca?">
 
-<!ENTITY searchreset.pageInfo1      "És possible que els vostres paràmetres estiguin obsolets. El  &brandShortName; pot ajudar-vos a restaurar els paràmetres de cerca per defecte.">
+<!ENTITY searchreset.pageInfo1      "És possible que els vostres paràmetres estiguin obsolets. El &brandShortName; pot ajudar-vos a restaurar els paràmetres de cerca per defecte.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
