@@ -539,7 +539,7 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "Էջը ջնջվել է">
+<!ENTITY page_removed "Էջը հեռացվել է">
 
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
 <!ENTITY bookmark_edit_name "Անունը">
