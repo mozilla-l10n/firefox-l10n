@@ -40,15 +40,6 @@
 <!ENTITY lightning.calendarproperties.email.label               "이메일:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "이 메시지는 이벤트에 대한 안내를 포함하고 있습니다.">
-
-<!-- Lightning specific keybindings -->
-<!ENTITY lightning.keys.event.showCalendar.key "C">
-<!ENTITY lightning.keys.event.showTasks.key "D">
-<!ENTITY lightning.keys.event.new "I">
-<!ENTITY lightning.keys.todo.new "D">
-
-<!-- Account Central page -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "수락">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "초대 수락">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "모두 수락">
@@ -59,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "이벤트 초대 거절">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "모두 거절">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "이벤트에 대한 초대를 모두 거절하기">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "거절">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "반대 의견 거절">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "삭제">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "캘린더에서 삭제">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "상세…">
@@ -67,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "더 많은 옵션을 보려면 클릭">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "재확인">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "주최자에게 재확인 메일 보내기">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "재스케줄">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "이벤트 재스케줄">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "복사하여 저장하기">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "이 이벤트를 복사하여 저장합니다. 참석자 정보는 모두 지워집니다.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "불확실">
@@ -75,6 +70,15 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "이벤트에 대한 초대에 모두 불확실로 답하기">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "업데이트">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "캘린더의 이벤트 업데이트">
+<!ENTITY lightning.imipbar.description                                      "이 메시지는 이벤트에 대한 안내를 포함하고 있습니다.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "새 캘린더 생성">
 
 <!-- today-pane-specific -->
