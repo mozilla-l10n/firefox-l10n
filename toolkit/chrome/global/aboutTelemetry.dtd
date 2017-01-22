@@ -54,6 +54,7 @@
 
 <!ENTITY aboutTelemetry.scalarsSection "  Eskalarrak">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Eskalar gakodunak">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramak">
 
