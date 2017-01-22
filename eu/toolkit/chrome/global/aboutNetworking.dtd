@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Bidalitako byteak">
 <!ENTITY aboutNetworking.bytesReceived         "Jasotako byteak">
 <!ENTITY aboutNetworking.logging               "Erregistroa">
-
+<!ENTITY aboutNetworking.logTutorial           "Ikusi <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP erregistora</a> orria tresna hau erabiltzeko argibideetarako.">
 <!ENTITY aboutNetworking.currentLogFile        "Uneko erregistro-fitxategia:">
 <!ENTITY aboutNetworking.currentLogModules     "Uneko erregistro-moduluak:">
 <!ENTITY aboutNetworking.setLogFile            "Ezarri erregistro-fitxategia">
