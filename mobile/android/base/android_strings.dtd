@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
 
 <!ENTITY firstrun_urlbar_message "Benvingut al &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Feu cerques més ràpides amb les dreceres del suggeriments de cerca.">
+<!ENTITY firstrun_urlbar_subtext "Feu cerques més ràpides amb les dreceres dels suggeriments de cerca.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Els vostres favorits, al davant i al centre">
 <!ENTITY firstrun_bookmarks_subtext "Obteniu resultats de les adreces d\u0027interès i de l\u0027historial quan cerqueu.">
@@ -27,14 +27,18 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Deseu enllaços per a més endavant al &brandShortName; en tocar-los des d\u0027altres aplicacions.">
 
 <!ENTITY firstrun_tabqueue_message_on "Tot correcte!">
-
+<!ENTITY firstrun_tabqueue_subtext_on "Sempre podeu desactivar-ho en els &settings; - &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articles">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "Elimineu les parts irrellevants">
+<!ENTITY firstrun_readerview_subtext "Utilitzeu la vista de lectura per millorar la legibilitat dels articles, fins i tot fora de línia.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Vós">
+<!ENTITY firstrun_account_message "Teniu el &brandShortName; en algun altre dispositiu?">
 
+<!ENTITY  onboard_start_restricted1 "Manteniu-vos segur i en control amb aquesta versió simplificada del &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -71,7 +75,7 @@
 <!ENTITY bookmark_removed "S\u0027ha eliminat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_updated "S\u0027ha actualitzat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_options "Opcions">
-
+<!ENTITY screenshot_added_to_bookmarks "S\u0027ha afegit la captura de pantalla a les adreces d\u0027interès">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -165,11 +169,11 @@
 <!ENTITY overlay_no_synced_devices "No s\u0027ha trobat cap dispositiu connectat al compte del Firefox">
 
 <!ENTITY pref_category_search3 "Cerca">
-
+<!ENTITY pref_category_search_summary2 "Afegiu-ne, definiu el valor per defecte, activeu els suggeriments">
 <!ENTITY pref_category_accessibility "Accessibilitat">
 <!ENTITY pref_category_accessibility_summary2 "Mida del text, escala i entrada de veu">
 <!ENTITY pref_category_privacy_short "Privadesa">
-
+<!ENTITY pref_category_privacy_summary4 "Seguiment, inicis de sessió, elecció de dades">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Quant al &brandShortName;, PMF, comentaris">
 <!ENTITY pref_category_datareporting "Elecció de dades">
@@ -190,13 +194,14 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Restauració de pestanyes, economitzador de dades, eines per a desenvolupadors">
 <!ENTITY pref_category_notifications "Notificacions">
-
+<!ENTITY pref_category_notifications_summary "Característiques noves, actualitzacions de llocs web">
 <!ENTITY pref_content_notifications "Actualitzacions de llocs web">
-
+<!ENTITY pref_content_notifications_summary2 "Descobriu contingut nou dels llocs compatibles">
 <!ENTITY pref_developer_remotedebugging_usb "Depuració remota per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuració remota per Wi-Fi">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuració per Wi-Fi requereix que el dispositiu tingui instal·lada una aplicació de lectura de codis QR.">
 <!ENTITY pref_remember_signons2 "Recorda les dades d\u0027inici de sessió">
 <!ENTITY pref_manage_logins "Gestiona els inicis de sessió">
 
@@ -253,7 +258,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
 <!ENTITY pref_show_web_fonts "Mostra els tipus de lletra web">
-
+<!ENTITY pref_show_web_fonts_summary2 "Baixa els tipus de lletra remots en carregar una pàgina">
 
 <!ENTITY pref_tracking_protection_title2 "Protecció contra el seguiment">
 <!ENTITY pref_tracking_protection_summary3 "Activada en la navegació privada">
@@ -265,7 +270,7 @@
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
 
 <!ENTITY pref_whats_new_notification "Novetats del &brandShortName;">
-
+<!ENTITY pref_whats_new_notification_summary "Conegueu les característiques noves després d\u0027una actualització">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
@@ -275,24 +280,25 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Pestanyes personalitzades">
-
+<!ENTITY pref_custom_tabs_summary3 "Permet que les aplicacions obrin llocs web utilitzant una versió personalitzada del &brandShortName;">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux d\u0027activitat">
-
+<!ENTITY pref_activity_stream_summary "Amb un historial visual i fluid i una pàgina d\u0027inici redissenyada, ara és més fàcil que mai trobar exactament allò que cerqueu amb el &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Ara amb protecció contra el seguiment">
-
+<!ENTITY tracking_protection_prompt_text "Els elements de seguiment es bloquen activament, i així us eviteu maldecaps.">
 <!ENTITY tracking_protection_prompt_tip_text "Visiteu els paràmetres de privadesa per a més informació">
 <!ENTITY tracking_protection_prompt_action_button "Entesos">
 
 <!ENTITY tab_queue_toast_message3 "S\u0027ha desat la pestanya al &brandShortName;">
 <!ENTITY tab_queue_toast_action "Obre ara">
 <!ENTITY tab_queue_prompt_title "Esteu obrint diversos enllaços?">
-
+<!ENTITY tab_queue_prompt_text4 "Deseu-los fins la propera vegada que obriu el &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Podeu canviar-ho més tard als Paràmetres.">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activeu «Permet dibuixar sobre altres aplicacions»">
 <!ENTITY tab_queue_prompt_positive_action_button "Activa">
 <!ENTITY tab_queue_prompt_negative_action_button "Ara no">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -310,11 +316,14 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Per obrir diversos enllaços, activeu el permís «Dibuixa sobre altres aplicacions» per al &brandShortName;">
+
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; llocs web actualitzats">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "Paràmetres">
@@ -662,7 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "S\u0027estan important les adreces d\u0027interès i historial de l\u0027Android">
 <!ENTITY bookmarkhistory_import_bookmarks "S\u0027estan important les adreces d\u0027interès de l\u0027Android">
 <!ENTITY bookmarkhistory_import_history "S\u0027està important l\u0027historial de l\u0027Android">
-<!ENTITY bookmarkhistory_import_wait "Espereu…">
+<!ENTITY bookmarkhistory_import_wait "Espereu...">
 
 <!ENTITY suggestions_prompt3 "Voleu activar els suggeriments de cerca?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
