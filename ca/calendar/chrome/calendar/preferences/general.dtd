@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Optimitza els colors per a l'accessibilitat" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Cites i tasques" >
+<!ENTITY pref.editInTab.label "Edita les cites i tasques en una pestanya en lloc d'una finestra de diàleg." >
+<!ENTITY pref.editInTab.accesskey "t">
