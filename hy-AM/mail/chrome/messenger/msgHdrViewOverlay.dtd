@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Ում">
 <!ENTITY fromField4.label "Ումից">
 <!ENTITY senderField4.label "Ուղարկողը">
-
+<!ENTITY author.label "Հեղինակ">
 <!ENTITY organizationField4.label "Կազմակերպություն">
 <!ENTITY replyToField4.label "Պատասխանել">
 
@@ -24,7 +24,7 @@
 
 <!ENTITY hdrArchiveButton1.label "Արխիվ">
 <!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
-
+<!ENTITY hdrOpenConversationButton1.label "Զրույց">
 
 <!ENTITY hdrSmartReplyButton1.label "Խելացի պատ.">
 <!ENTITY hdrReplyButton1.label "Պատասխանել">

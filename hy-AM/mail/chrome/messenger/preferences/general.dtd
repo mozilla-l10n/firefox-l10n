@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Նոր նամակ ստանալիս.">
 <!ENTITY playSound.label                  "Նվագարկել ձայն">
 <!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSoundMac.label               "Նվագարկել հետևյալ ձայնային ֆայլը.">
+<!ENTITY playSoundMac.accesskey           "ի">
 <!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժամանակ">
 <!ENTITY showAnimatedAlert.accesskey      "Ց">
 
