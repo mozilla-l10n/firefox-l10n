@@ -35,8 +35,8 @@
 <!ENTITY aboutNetworking.currentLogModules     "Trenutni dnevniški moduli:">
 <!ENTITY aboutNetworking.setLogFile            "Nastavi dnevniško datoteko">
 <!ENTITY aboutNetworking.setLogModules         "Nastavi dnevniške module">
-<!ENTITY aboutNetworking.startLogging          "Začni beležiti">
-<!ENTITY aboutNetworking.stopLogging           "Prenehaj beležiti">
+<!ENTITY aboutNetworking.startLogging          "Začni beleženje">
+<!ENTITY aboutNetworking.stopLogging           "Končaj beleženje">
 <!ENTITY aboutNetworking.dnsLookup             "Iskanje DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Razreši">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
