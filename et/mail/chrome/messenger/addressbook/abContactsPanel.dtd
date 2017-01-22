@@ -2,26 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label      "Aadressiraamat:">
-<!ENTITY addressbookPicker.accesskey  "A">
-<!ENTITY searchInput.label            "Otsing:">
-<!ENTITY searchInput.accesskey        "O">
-<!ENTITY SearchNameOrEmail.label      "Nimi või e-post">
+<!ENTITY propertiesMenu.label               "Omadused">
+<!ENTITY propertiesMenu.accesskey           "O">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Aadressiraamatu omadused">
+<!ENTITY abPropertiesMenu.accesskey         "o">
+<!ENTITY contactPropertiesMenu.label        "Kontakti omadused">
+<!ENTITY contactPropertiesMenu.accesskey    "o">
+<!ENTITY mailingListPropertiesMenu.label    "Meililisti omadused">
+<!ENTITY mailingListPropertiesMenu.accesskey "o">
 
-<!ENTITY deleteAddrBookCard.label     "Kustuta">
-<!ENTITY deleteAddrBookCard.accesskey "K">
-<!ENTITY addrBookCardProperties.label "Omadused">
-<!ENTITY addrBookCardProperties.accesskey "m">
-<!ENTITY addtoToFieldMenu.label       "Lisa väljale Saaja">
-<!ENTITY addtoToFieldMenu.accesskey   "L">
-<!ENTITY addtoCcFieldMenu.label       "Lisa väljale Koopia">
-<!ENTITY addtoCcFieldMenu.accesskey   "i">
-<!ENTITY addtoBccFieldMenu.label      "Lisa väljale Pimekoopia">
-<!ENTITY addtoBccFieldMenu.accesskey  "p">
+<!ENTITY addressbookPicker.label            "Aadressiraamat:">
+<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchContacts.label               "Kontakti otsimine:">
+<!ENTITY searchContacts.accesskey           "o">
+<!ENTITY SearchNameOrEmail.label            "Nimi või e-post">
 
-<!ENTITY toButton.label               "Lisa väljale Saaja:">
-<!ENTITY toButton.accesskey           "L">
-<!ENTITY ccButton.label               "Lisa väljale Koopia:">
-<!ENTITY ccButton.accesskey           "i">
-<!ENTITY bccButton.label              "Lisa väljale Pimekoopia:">
-<!ENTITY bccButton.accesskey          "v">
+<!ENTITY addtoToFieldMenu.label             "Lisa väljale Saaja">
+<!ENTITY addtoToFieldMenu.accesskey         "L">
+<!ENTITY addtoCcFieldMenu.label             "Lisa väljale Koopia">
+<!ENTITY addtoCcFieldMenu.accesskey         "i">
+<!ENTITY addtoBccFieldMenu.label            "Lisa väljale Pimekoopia">
+<!ENTITY addtoBccFieldMenu.accesskey        "p">
+<!ENTITY deleteAddrBookCard.label           "Kustuta">
+<!ENTITY deleteAddrBookCard.accesskey       "K">
+<!ENTITY propertiesContext.label            "Omadused">
+<!ENTITY propertiesContext.accesskey        "o">
+<!ENTITY abPropertiesContext.label          "Omadused">
+<!ENTITY abPropertiesContext.accesskey      "o">
+<!ENTITY editContactContext.label           "Muuda kontakti">
+<!ENTITY editContactContext.accesskey       "M">
+<!ENTITY editMailingListContext.label       "Muuda meililisti">
+<!ENTITY editMailingListContext.accesskey   "M">
+
+<!ENTITY toButton.label                     "Lisa väljale Saaja:">
+<!ENTITY toButton.accesskey                 "L">
+<!ENTITY ccButton.label                     "Lisa väljale Koopia:">
+<!ENTITY ccButton.accesskey                 "i">
+<!ENTITY bccButton.label                    "Lisa väljale Pimekoopia:">
+<!ENTITY bccButton.accesskey                "v">
