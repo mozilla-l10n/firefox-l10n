@@ -46,6 +46,7 @@
 <!ENTITY clearSiteData.accesskey "а">
 <!ENTITY siteDataSettings.label "Параметры…">
 <!ENTITY siteDataSettings.accesskey "м">
+<!ENTITY siteDataLearnMoreLink.label "Подробнее">
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">

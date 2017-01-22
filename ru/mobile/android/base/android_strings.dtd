@@ -233,6 +233,7 @@
 <!ENTITY pref_history_search_suggestions "Показывать историю поиска">
 <!ENTITY pref_import_options "Настройки импорта">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
+<!ENTITY pref_private_data_openTabs "Открытые вкладки">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
 <!ENTITY pref_private_data_searchHistory "Журнал поиска">
 <!ENTITY pref_private_data_formdata2 "Журнал форм">
