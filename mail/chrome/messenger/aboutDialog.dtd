@@ -42,6 +42,7 @@
 <!ENTITY helpus.getInvolvedLink     "միացեք մեր համայնքին:">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Թողարկման նշումներ">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Արտոնագրի մասին">

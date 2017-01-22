@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY propertiesMenu.label               "Հատկություններ">
+<!ENTITY propertiesMenu.accesskey           "ն">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Հասցեագրքի հատկությունները">
+<!ENTITY abPropertiesMenu.accesskey         "ն">
 
 
 
@@ -24,14 +26,14 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
 <!ENTITY deleteAddrBookCard.accesskey       "Ջ">
+<!ENTITY propertiesContext.label            "Հատկություններ">
+<!ENTITY propertiesContext.accesskey        "ն">
+<!ENTITY abPropertiesContext.label          "Հատկություններ">
+<!ENTITY abPropertiesContext.accesskey      "ն">
 
 
-
-
-
-
-
-
+<!ENTITY editMailingListContext.label       "Խմբագրել ցանկը">
+<!ENTITY editMailingListContext.accesskey   "Խ">
 
 <!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">

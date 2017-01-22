@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Միացված">
 <!ENTITY newButton.label "Նոր...">
 <!ENTITY newButton.accesskey "N">
-
-
+<!ENTITY newButton.popupCopy.label "Պատճենել...">
+<!ENTITY newButton.popupCopy.accesskey "Պ">
 <!ENTITY editButton.label "Խմբագրել...">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ջնջել">

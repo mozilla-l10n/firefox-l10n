@@ -76,11 +76,11 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Հատկություններ">
+<!ENTITY propertiesMenu.accesskey                       "ո">
 <!ENTITY propertiesCmd.key                              "Հ">
-
-
+<!ENTITY abPropertiesMenu.label                         "Հասցեագրքի հատկությունները">
+<!ENTITY abPropertiesMenu.accesskey                     "ն">
 
 
 
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Նոր ցանկ">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editPropertiesButton.label                     "Խմբագրել">
+<!ENTITY propertiesContext.label                        "Հատկություններ">
+<!ENTITY propertiesContext.accesskey                    "ն">
+<!ENTITY abPropertiesContext.label                      "Հատկություններ">
+<!ENTITY abPropertiesContext.accesskey                  "ն">
 
 
-
-
-
-
-
-
-
+<!ENTITY editMailingListContext.label                   "Խմբագրել ցանկը">
+<!ENTITY editMailingListContext.accesskey               "Խ">
 <!ENTITY newmsgButton.label                             "Նոր նամակ">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Ակնթարթային նամակ">
