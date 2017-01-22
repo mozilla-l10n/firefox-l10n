@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Saitas…">
 <!ENTITY insertLinkCmd2.accesskey "S">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Žymė…">
 <!ENTITY insertAnchorCmd.accesskey "Ž">
 <!ENTITY insertImageCmd.label "Paveikslas…">
