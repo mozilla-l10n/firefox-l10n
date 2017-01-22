@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Poništi uvećanje">
 
 <!ENTITY searchItem.title             "Traži">
 <!-- Toolbar items --> 
@@ -457,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Promjeni postavke pretraživača">
-
+<!ENTITY changeSearchSettings.tooltip "Promijeni postavke pretraživača">
 
 <!ENTITY searchInNewTab.label         "Traži u novoj kartici">
 <!ENTITY searchInNewTab.accesskey     "t">
@@ -477,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "p">
 <!ENTITY openLinkCmdInContainerTab.label "Otvori poveznicu u novoj sadržajnoj kartici">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -696,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!ENTITY editBookmark.done.label                     "Gotovo">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "U">
 
 <!ENTITY identity.connectionSecure "Sigurna veza">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
@@ -736,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ovlasti">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
-
+<!ENTITY identity.permissionsReloadHint "Trebali biste ponovno osvježiti stranicu radi primjene izmjena.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
