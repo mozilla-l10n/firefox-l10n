@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "접근성" >
 <!ENTITY pref.systemcolors.label "시스템 색상 최적화" >
 <!ENTITY pref.systemcolors.accesskey "c">
+
+<!ENTITY pref.eventsandtasks.label "이벤트와 할일" >
+<!ENTITY pref.editInTab.label "다이얼로그 창이 아닌 탭에서 이벤트와 할일을 편집합니다." >
+<!ENTITY pref.editInTab.accesskey "t">
