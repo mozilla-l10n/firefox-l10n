@@ -393,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Idatzi bilaketa edo helbidea">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Hedapena:">
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu iradokizunekin?">
