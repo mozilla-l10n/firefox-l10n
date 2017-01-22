@@ -38,7 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "참석자 별로 초대 분리하기">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "이 옵션은 각 참석자에게 따로 이메일을 보내는 옵션입니다. 각 초대에는 받는 사람만 참석자로 나와 있어 다른 참석자를 볼 수 없습니다.">
+<!ENTITY event.attendees.disallowcounter.label       "반대 불허">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "반대 제안을 허용하지 않을 것임을 명시">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -188,6 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "제안 적용">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "이벤트 양식들은 반대 제안의 값들로 채워지고 추가 변경 사항을 포함하거나 포함하지 않은 저장만이 참석자에게 알려짐">
+<!ENTITY counter.button.original.label                    "원래의 데이터 적용">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "이 양식들은 반대 제안이 만들어지기 전, 원래 이벤트의 값들로부터 채워짐">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "제목:" >
@@ -406,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "참석 미정">
 <!ENTITY read.only.needs.action.label    "나중에 결정">
 <!ENTITY read.only.reminder.label        "알림:">
+<!ENTITY read.only.attachments.label     "첨부파일:">
 <!ENTITY read.only.attendees.label       "참석자">
 <!ENTITY read.only.description.label     "설명">
 <!ENTITY read.only.link.label            "관련 링크">
