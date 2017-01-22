@@ -51,6 +51,13 @@
 <p>&brandShortName;가 어떠한 이유로 인하여 현재 페이지를 읽을 수 없습니다.</p>
 ">
 
+<!ENTITY captivePortal.title "네트워크에 로그인">
+<!ENTITY captivePortal.longDesc "
+<p>이 네트워크는 인터넷에 접속하기 위해 로그인 정보를 요청할 수 있습니다.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "로그인 페이지 열기">
+
 <!ENTITY malformedURI.title "주소가 유효하지 않음">
 <!ENTITY malformedURI.longDesc "
 <ul>
