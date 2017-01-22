@@ -20,7 +20,7 @@
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "कैलेन्डर">
-
+<!ENTITY lightning.toolbar.calendar.tooltip   "कैलेंडर टैब में जाएँ">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 
 
