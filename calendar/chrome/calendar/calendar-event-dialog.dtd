@@ -193,7 +193,7 @@
 <!ENTITY counter.button.proposal.tooltip2                 "Els camps de la cita s'emplenaran utilitzant els valors de la contraproposta; només quan es desi, amb canvis addicionals o sense, es notificaran tots els assistents degudament.">
 <!ENTITY counter.button.original.label                    "Aplica les dades originals">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip2                 "Els valors dels camps seran els de de la cita original, abans de fer la contraproposta">
+<!ENTITY counter.button.original.tooltip2                 "Els valors dels camps seran els de la cita original, abans de fer la contraproposta">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Títol:" >
