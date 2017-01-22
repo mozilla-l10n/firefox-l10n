@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Lisa">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Redigeeri">
-<!ENTITY button.editFeed.accesskey   "R">
+<!ENTITY button.updateFeed.label     "Uuenda">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Eemalda">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label     "Impordi">
