@@ -25,6 +25,6 @@
 <!ENTITY tabCrashed.includeURL2 "Include URL-ul paginii cu acest raport de defecțiuni">
 <!ENTITY tabCrashed.emailPlaceholder "Introdu adresa ta de e-mail aici">
 <!ENTITY tabCrashed.emailMe "Trimite-mi e-mail când sunt mai multe informații disponibile">
-<!ENTITY tabCrashed.reportSent "Raportul de defecțiuni a fost deja transmis; vă mulțumim pentru ajutorul de a face &brandShortName; mai bun!">
+<!ENTITY tabCrashed.reportSent "Raportul de defecțiuni a fost deja transmis; îți mulțumim pentru că ne ajuți să facem &brandShortName; mai bun!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Raportează file din fundal">
-<!ENTITY tabCrashed.autoSubmit "Actualizează preferințele pentru a trimite automat rapoarte de defecțiuni (vei primi mai puține mesaje de acest fel în viitor)">
+<!ENTITY tabCrashed.autoSubmit "Actualizează preferințele pentru a trimite automat rapoarte de defecțiuni (și vei primi mai puține mesaje de acest fel în viitor)">

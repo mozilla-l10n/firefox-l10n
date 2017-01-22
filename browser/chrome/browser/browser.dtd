@@ -40,11 +40,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Trimite fila la dispozitiv">
+<!ENTITY  sendTabToDevice.label              "Trimite fila pe dispozitiv">
 <!ENTITY  sendTabToDevice.accesskey          "d">
-<!ENTITY  sendPageToDevice.label             "Trimite pagina la dispozitiv">
+<!ENTITY  sendPageToDevice.label             "Trimite pagina pe dispozitiv">
 <!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Trimite linkul la dispozitiv">
+<!ENTITY  sendLinkToDevice.label             "Trimite linkul pe dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -63,12 +63,12 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Deschide locație…">
+<!ENTITY openLocationCmd.label "Deschide locația…">
 <!ENTITY openFileCmd.label "Deschide fișierul…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey "g">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
@@ -104,7 +104,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Intră în ecran complet">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Ieși din ecranul complet">
+<!ENTITY exitFullScreenCmd.label "Ieși din ecran complet">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Ecran complet">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -157,14 +157,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Semne de carte">
-<!ENTITY bookmarksMenu.accesskey "S">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Însemnează această pagină">
 <!ENTITY editThisBookmarkCmd.label "Editează acest semn de carte">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Găsiți mai multe servicii de partajare…">
+<!ENTITY findShareServices.label "Găsește mai multe servicii de partajare…">
 <!ENTITY sharePageCmd.label "Împărtășește această pagină">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Mergi cu o pagină înapoi">
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
-<!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trage în jos pentru a afișa istoricul">
+<!ENTITY backForwardButtonMenu.tooltip "Clic-dreapta sau trage în jos pentru a afișa istoricul">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trage în jos pentru a afișa istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina actuală">
@@ -207,11 +207,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vezi informații despre site">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul de mesaje">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul cu mesaje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Deschide panoul cu cereri de locație">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul cu instalarea de suplimente">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Deschide panoul cu stocarea offline a mesajelor">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Deschide panoul de mesaje salvare parolă">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul de mesaje cu instalarea de suplimente">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Deschide panoul de mesaje cu stocarea offline">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Deschide panoul de mesaje cu salvarea parolelor">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea plugin-urilor">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă nu mai dorești notificări de la acest site">
 
@@ -219,17 +219,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionează partajarea ferestrelor sau a ecranului cu acest site">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Deschide panoul de mesaje de instalare">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Deschide panoul de mesaje al instalărilor">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradu această pagină">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Ai blocat accesul la cameră pentru acest site.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat accesul la microfon pentru acest site.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat accesul la ecran pentru acest site.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat accesul la locație pentru acest site.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ai blocat stocarea de date pentru acest site.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ai blocat camera pentru acest site web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat microfonul pentru acest site web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat acest site web să îți partajeze ecranul.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat informațiile privind locația pentru acest site web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ai blocat stocarea de date pentru acest site web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Arată istoricul">
 
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.other.label "Alte semne de carte">
-<!ENTITY viewBookmarksSidebar2.label        "Arată bara cu semne de carte">
+<!ENTITY viewBookmarksSidebar2.label        "Arată bara laterală cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
 <!ENTITY containersMenu.label "Containere">
@@ -260,17 +260,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Unelte">
-<!ENTITY toolsMenu.accesskey          "U"> 
+<!ENTITY toolsMenu.accesskey          "t"> 
 
 <!ENTITY keywordfield.label           "Adaugă un cuvânt cheie pentru această căutare…">
-<!ENTITY keywordfield.accesskey       "h">
+<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Descărcări">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Suplimente">
-<!ENTITY addons.accesskey             "S">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
@@ -309,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "p"> 
 <!ENTITY deleteCmd.label          "Șterge">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "r"> 
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "Selectează tot">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
@@ -327,12 +327,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
-<!ENTITY viewSidebarMenu.accesskey "l">
+<!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizează…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Istoric">
-<!ENTITY historyMenu.accesskey "I">
+<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
@@ -371,17 +371,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Adaugă la Meniu">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.addToPanel.label "Adaugă la meniu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mută în bara de unelte">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "u">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "u">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Elimină din bara de unelte">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Elimină din meniu">
@@ -472,15 +472,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.label "Deschide linkul într-o fereastră privată nouă">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Deschide linkul">
-<!ENTITY openLinkCmdInCurrent.accesskey "i">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul într-o filă nouă">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
-<!ENTITY openFrameCmd.accesskey       "D">
+<!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă container nouă">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
-<!ENTITY showOnlyThisFrameCmd.accesskey "A">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Reîncarcă cadrul">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -503,12 +503,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewImageInfoCmd.label       "Vezi informații despre imagine">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Vizualizare descriere">
-<!ENTITY viewImageDescCmd.accesskey   "V">
-<!ENTITY viewVideoCmd.label           "Vezi clipul">
+<!ENTITY viewImageDescCmd.label       "Vezi descrierea">
+<!ENTITY viewImageDescCmd.accesskey   "d">
+<!ENTITY viewVideoCmd.label           "Vezi videoclipul">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
-<!ENTITY viewBGImageCmd.accesskey     "f">
+<!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Setează ca fundal pentru desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Însemnează această pagină">
@@ -519,19 +519,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
-<!ENTITY savePageCmd.accesskey        "S">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvează cadrul ca…">
-<!ENTITY saveFrameCmd.accesskey       "v">
+<!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "Tipărește cadrul…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Salvează linkul ca…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "Salvează imaginea ca…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
+<!ENTITY saveVideoCmd.label           "Salvează videoclipul ca…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
@@ -539,35 +539,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Trimite e-mail cu fișierul video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Trimiteți videoclipul către dispozitiv">
+<!ENTITY castVideoCmd.label           "Trimite videoclipul către dispozitiv">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Trimite e-mail cu fișierul audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activează acest plugin">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Ascunde acest plugin">
-<!ENTITY hidePluginCmd.accesskey      "l">
-<!ENTITY copyLinkCmd.label            "Copiază adresa linkului">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "Copiază locația linkului">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copiază locația imaginii">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiază imaginea">
-<!ENTITY copyImageContentsCmd.accesskey  "p"> 
-<!ENTITY copyVideoURLCmd.label        "Copiază adresa clipului">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "Copiază locația videoclipului">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiază adresa fișierului audio">
+<!ENTITY copyAudioURLCmd.label        "Copiază locația fișierului audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Acest cadru">
-<!ENTITY thisFrameMenu.accesskey          "d">
+<!ENTITY thisFrameMenu.accesskey          "h">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 
-<!ENTITY mediaPlay.label             "Redare">
-<!ENTITY mediaPlay.accesskey         "R">
+<!ENTITY mediaPlay.label             "Redă">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pune pe pauză">
 <!ENTITY mediaPause.accesskey        "p">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
@@ -577,10 +577,10 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activează sunetul">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Viteză redare">
-<!ENTITY mediaPlaybackRate2.accesskey "V">
+<!ENTITY mediaPlaybackRate2.label     "Viteză de redare">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lent (0,5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Rapid (1,25×)">
@@ -593,7 +593,7 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ridicol (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "l">
 <!ENTITY mediaLoop.label             "Buclă">
-<!ENTITY mediaLoop.accesskey         "B">
+<!ENTITY mediaLoop.accesskey         "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -602,8 +602,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Ecran complet">
-<!ENTITY videoFullScreen.accesskey   "r">
-<!ENTITY videoSaveImage.label        "Salvează captura ca…">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "Salvează instantaneul ca…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -619,14 +619,14 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Mărește">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "r">
+<!ENTITY fullZoomEnlargeCmd.label       "Mărire">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Micșorează">
+<!ENTITY fullZoomReduceCmd.label        "Micșorare">
 <!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -644,13 +644,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ieșire">
-<!ENTITY quitApplicationCmdWin2.accesskey   "e">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ieși din &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ieșiți"> 
-<!ENTITY quitApplicationCmd.accesskey   "e">
-<!ENTITY quitApplicationCmdMac2.label   "Ieșire din &brandShorterName;">
+<!ENTITY quitApplicationCmd.label       "Ieși"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac2.label   "Ieși din &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -662,8 +662,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Stilul paginii">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Fără stil">
-<!ENTITY pageStyleNoStyle.accesskey "F">
+<!ENTITY pageStyleNoStyle.label "Niciun stil">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "Stilul paginii de bază">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
@@ -679,9 +679,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Schimbă direcția textului">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Găsește în această pagină…">
@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Numele de utilizatori de pe această pagină ar putea fi compromise.">
+<!ENTITY identity.insecureLoginForms2 "Autentificările introduse pe această pagină ar putea fi compromise.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
@@ -715,13 +715,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "Conexiunea la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, carduri de credit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.">
-<!ENTITY identity.description.weakCipher "Conexiunea la acest site folosește criptare slabă și nu este privată.">
-<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informațiile tale sau pot modifica comportamentul site-ului.">
+<!ENTITY identity.description.weakCipher "Conexiunea la acest site web folosește criptare slabă și nu este privată.">
+<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informațiile tale sau pot modifica comportamentul site-ului web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
 <!ENTITY identity.description.passiveLoaded "Conexiunea nu este privată și informațiile pe care le împărtășești cu acest site pot fi văzute de alții.">
-<!ENTITY identity.description.passiveLoaded2 "Acest site are conținut nesigur (cum ar fi imagini).">
+<!ENTITY identity.description.passiveLoaded2 "Acest site web are conținut nesigur (cum ar fi imagini).">
 <!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai este conținut nesigur pe pagină (cum ar fi imagini).">
-<!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este securizat (precum scripturile), iar conexiunea la acesta nu este privată.">
+<!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este securizat (cum ar fi scripturi), iar conexiunea la acesta nu este privată.">
 <!ENTITY identity.description.activeLoaded2 "Informațiile pe care le împărtășești cu acest site ar putea fi văzute de alții (cum ar fi parole, mesaje, carduri de credit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activează protecția">
