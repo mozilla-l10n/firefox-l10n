@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY label.label          "이름">
+<!ENTITY addButton.label      "새 컨테이너 추가">
 <!ENTITY addButton.accesskey  "A">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink.label       "&#171; 개인 정보로 돌아가기">
 
+<!ENTITY window.title         "새 컨테이너 추가">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "이름:">
@@ -16,5 +19,6 @@
 <!ENTITY color.accesskey      "o">
 <!ENTITY windowClose.key      "w">
 
+<!ENTITY button.ok.label      "완료">
 <!ENTITY button.ok.accesskey  "D">
 
