@@ -7,7 +7,7 @@
 <!ENTITY removeButton.accesskey       "r">
 <!ENTITY removeAccount.label          "Suprimeix la informació del compte">
 <!ENTITY removeAccount.accesskey      "f">
-
+<!ENTITY removeAccount.desc           "Se suprimeix el compte únicament del &brandShortName;. No afecta el compte en el servidor.">
 <!ENTITY removeData.label             "Suprimeix les dades de missatges">
 <!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataLocalAccount.desc  "Suprimeix del disc local tots els missatges, carpetes i filtres associats a aquest compte. Això no afecta alguns missatges, que poden romandre al servidor. No seleccioneu aquesta acció si teniu planificat arxivar les dades locals o tornar-les a utilitzar amb el &brandShortName; més endavant.">

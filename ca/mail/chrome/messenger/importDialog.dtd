@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Nom:">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "No s'ha trobat cap aplicació ni fitxer per importar-ne les dades.">
 
 <!ENTITY back.label               "&lt; Enrere">
 <!ENTITY forward.label            "Endavant &gt;">

@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "URL de la imatge:">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Escriviu el nom o la ubicació de la imatge">
-
+<!ENTITY locationEditField.shortenedDataURI "URI de dades escurçat (si copieu, es copiarà l'URI complet al porta-retalls)">
 <!ENTITY title.label "Indicador de funció:">
 <!ENTITY title.accessKey "I">
 <!ENTITY title.tooltip "L'atribut HTML «title» que es mostra com a rètol indicador de funció">
