@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY dialogTitle                  "Հեռացնել հաշիվը և տվյալը">
+<!ENTITY removeButton.label           "Հեռացնել">
+<!ENTITY removeButton.accesskey       "Հ">
+<!ENTITY removeAccount.label          "Հեռացնել հաշվի տեղեկությունը">
+<!ENTITY removeAccount.accesskey      "հ">
 
 
 
