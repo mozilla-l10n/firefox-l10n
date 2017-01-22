@@ -128,7 +128,7 @@
 <!ENTITY redoDefaultCmd.accesskey "κ">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey "μ">
 <!ENTITY showMessengerToolbarCmd.label "Εργαλειοθήκη αλληλογραφίας">
 <!ENTITY showMessengerToolbarCmd.accesskey "ο">
@@ -497,7 +497,7 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Εργαλεία Προγραμματιστή">
 <!ENTITY devtoolsMenu.accesskey "ρ">
-<!ENTITY devToolboxCmd.label "Εργαλειοθήκη Προγραμματιστή">
+<!ENTITY devToolboxCmd.label "Γραμμή εργαλείων προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "Θ">
 <!ENTITY devToolboxCmd.commandkey "ι">
 <!ENTITY addonDebugCmd.label "Ενσωματωμένος Αποσφαλματωτής">
@@ -615,7 +615,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Νέο μήνυμα">
 <!ENTITY appmenuNewContactCmd.label "Επαφή βιβλίου διευθύνσεων…">
 <!ENTITY appmenuEditMenu.label "Επεξεργασία">
-<!ENTITY appmenuToolbarLayout.label "Διάταξη εργαλειοθήκης…">
+<!ENTITY appmenuToolbarLayout.label "Διάταξη γραμμής εργαλείων…">
 <!ENTITY appmenuSelectThread.label "Επιλέξτε νήμα">
 <!ENTITY appmenuSelectFlagged.label "Επιλέξτε μηνύματα με αστέρι">
 

@@ -91,9 +91,9 @@
 <!ENTITY viewMenu.accesskey                             "β">
 <!ENTITY viewToolbarsMenu.label                         "Εργαλειοθήκες">
 <!ENTITY viewToolbarsMenu.accesskey                     "γ">
-<!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.label                               "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
-<!ENTITY showAbToolbarCmd.label                         "Εργαλειοθήκη ευρετηρίου διευθύνσεων">
+<!ENTITY showAbToolbarCmd.label                         "Γραμμή εργαλείων βιβλίου διευθύνσεων">
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY showTaskbarCmd.label                           "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey                       "μ">

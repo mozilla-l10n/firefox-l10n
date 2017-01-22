@@ -40,7 +40,7 @@
 <!ENTITY viewMenu.accesskey        "ρ">
 <!ENTITY viewToolbarsMenu.label        "Εργαλειοθήκες">
 <!ENTITY viewToolbarsMenu.accesskey      "γ">
-<!ENTITY showTaskbarCmd.label          "Εργαλειοθήκη εργασιών">
+<!ENTITY showTaskbarCmd.label          "Γραμμή εργαλείων κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey        "σ">
 
 <!ENTITY closeCmd.label      "Κλείσιμο">
