@@ -502,8 +502,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Priedų derintuvė">
 <!ENTITY addonDebugCmd.accesskey "P">
-
-
+<!ENTITY tabsDebugCmd.label "Turinio derintuvė">
+<!ENTITY tabsDebugCmd.accesskey "T">
 <!ENTITY errorConsoleCmd.label "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey "u">
 <!ENTITY errorConsoleCmd.commandkey "j">
