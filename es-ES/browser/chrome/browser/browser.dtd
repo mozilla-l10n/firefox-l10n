@@ -553,6 +553,8 @@
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "m">
 <!ENTITY syncedTabs.context.copy.label "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey "C">
+<!ENTITY syncedTabs.context.openAllInTabs.label "Abrir todo en pestañas">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "Y">
