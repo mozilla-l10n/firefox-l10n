@@ -151,7 +151,7 @@
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "#1 कार्यों को फिल्टर करें">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;‌">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "खोलें">
@@ -348,7 +348,7 @@
 
 <!ENTITY calendar.print.window.title "एक पंचांग छापें">
 <!ENTITY calendar.print.title.label "शीर्षक:">
-
+<!ENTITY calendar.print.layout.label "खाका:">
 <!ENTITY calendar.print.range.label "क्या छापें">
 <!ENTITY calendar.print.currentView2.label "मौजूदा दृश्य">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "चुनें हुए कार्यकृम/कार्य">
