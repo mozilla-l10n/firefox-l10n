@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "始终使用方向键在页面内导航">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "在我输入时就在页面内查找">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "当网站试图重定向或重新载入页面时发出警告">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "在需要时显示触摸键盘">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "自动启用硬件加速">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "输入时即检查拼写">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "数据反馈">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "离线 Web 内容和用户数据">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "更新">
 
-<!ENTITY updateApp.label                 "&brandShortName; 更新：">
 <!ENTITY updateAuto1.label               "自动安装更新（推荐：可提升安全性）">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "检查更新，但是让我选择是否安装">
-<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "不检查更新（不推荐：存在安全风险）">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "使用一项系统服务以静默安装更新">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "自动更新：">
 <!ENTITY enableSearchUpdate.label        "搜索引擎">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "网站请求保存数据供离线使用时通知我">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "例外…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "以下网站已被允许存储供离线使用的数据：">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "移除脱机数据">
 
 <!ENTITY certificateTab.label            "证书">
-<!ENTITY certSelection.label             "请求">
-<!ENTITY certSelection.description       "当某个服务器请求我的个人证书：">
-<!ENTITY certs.auto                      "自动选择一个">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "每次均询问">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "查询 OCSP 响应服务器，以确认证书当前是否有效">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "查看证书">

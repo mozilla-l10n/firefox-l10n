@@ -141,9 +141,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。">
 <!ENTITY weakCryptoAdvanced.override "尝试使用过时的安全性设置载入此页面 <span class='hostname'></span>（不安全）">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>一个到 <span id='wrongSystemTime_URL'/> 的安全连接无法完成，因为您的计算机时钟好像使用了错误的时间。</p> <p>您的计算机认为现在是 <span id='wrongSystemTime_systemDate'/>，但它或许应该是 <span id='wrongSystemTime_actualDate'/>。请更正您的日期和时间设置以修复此问题。</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "不安全的连接">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全（HSTS）要求 &brandShortName; 只进行安全连接。正因如此，您不能为此证书添加一个例外。">

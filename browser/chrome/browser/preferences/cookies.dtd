@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "搜索：">
-<!ENTITY     filter.accesskey               "S">
 
 <!ENTITY     button.close.label             "关闭">
 <!ENTITY     button.close.accesskey         "C">
