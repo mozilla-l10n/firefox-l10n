@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "عند بدء &brandShortName;:">
 <!ENTITY startupPage.accesskey     "ب">
-<!ENTITY startupHomePage.label     "اعرض صفحتي الرئيسية">
+<!ENTITY startupUserHomePage.label "اعرض صفحتي الرئيسية">
 <!ENTITY startupBlankPage.label    "اعرض صفحة فارغة">
-<!ENTITY startupLastSession.label  "اعرض نوافذي و ألسنتي من المرّة السابقة">
+<!ENTITY startupPrevSession.label  "اعرض نوافذي و ألسنتي من المرّة السابقة">
 
 <!ENTITY homepage.label            "الصفحة الرئيسية:">
 <!ENTITY homepage.accesskey        "س">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ص">
 <!ENTITY chooseFolderMac.label        "اختر…">
 <!ENTITY chooseFolderMac.accesskey    "ت">
-<!ENTITY alwaysAsk.label "اسألني دائمًا عن مكان حفظ الملفّات">
-<!ENTITY alwaysAsk.accesskey "ن">
+<!ENTITY alwaysAskWhere.label         "اسألني دائمًا عن مكان حفظ الملفّات">
+<!ENTITY alwaysAskWhere.accesskey     "ن">
 
 <!ENTITY alwaysCheckDefault2.label        "تحقق دائمًا من كون &brandShortName; متصفّحك المبدئي">
 <!ENTITY alwaysCheckDefault2.accesskey    "د">

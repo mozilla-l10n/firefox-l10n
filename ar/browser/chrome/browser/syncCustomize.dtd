@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "م">
 <!ENTITY engine.history.label             "تأريخي">
 <!ENTITY engine.history.accesskey         "خ">
-<!ENTITY engine.tabs.label                "ألسنتي">
-<!ENTITY engine.tabs.accesskey            "ت">
+<!ENTITY engine.tabs.label2               "افتح الألسنة">
+<!ENTITY engine.tabs.accesskey            "س">
 <!ENTITY engine.passwords.label           "كلمات السر">
 <!ENTITY engine.passwords.accesskey       "ر">
 <!ENTITY engine.addons.label              "إضافات سطح المكتب">

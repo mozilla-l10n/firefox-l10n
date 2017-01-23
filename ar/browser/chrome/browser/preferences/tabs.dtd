@@ -8,14 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "افتح النوافذ الجديدة في ألسنة بدل النوافذ">
 <!ENTITY newWindowsAsTabs.accesskey   "ذ">
 
-<!ENTITY warnCloseMultipleTabs.label  "نبّهني عند محاولة إغلاق عدّة ألسنة">
-<!ENTITY warnCloseMultipleTabs.accesskey  "ة">
+<!ENTITY warnOnCloseMultipleTabs.label      "نبّهني عند محاولة إغلاق عدّة ألسنة">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "ة">
 
-<!ENTITY warnOpenManyTabs.label       "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "ف">
+<!ENTITY warnOnOpenManyTabs.label       "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "ف">
 
-<!ENTITY switchToNewTabs.label        "عند فتح رابط في لسان جديد، انتقل إليه مباشرة">
-<!ENTITY switchToNewTabs.accesskey    "ط">
+<!ENTITY switchLinksToNewTabs.label        "عند فتح رابط في لسان جديد، انتقل إليه مباشرة">
+<!ENTITY switchLinksToNewTabs.accesskey    "ط">
 
 <!ENTITY showTabsInTaskbar.label          "أظهِر معاينات للألسنة في شريط مهام ويندوز">
 <!ENTITY showTabsInTaskbar.accesskey      "و">

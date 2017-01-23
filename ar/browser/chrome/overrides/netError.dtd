@@ -112,10 +112,12 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "متقدم">
 <!ENTITY weakCryptoAdvanced.longDesc "يستخدم <span class='hostname'></span> تقنية أمان قديمة ومعرّضة للهجوم. يمكن للمهاجم بسهولة كشف المعلومات التي تخالها آمنة.">
 <!ENTITY weakCryptoAdvanced.override "(غير آمن) جرب تحميل <span class='hostname'></span>. باستخدام حماية قديمة">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>تعذّر الاتصال الآمن مع <span id='wrongSystemTime_URL'/> لأن ساعتك تعطي وقتًا غير صحيح.</p><p>يظن حاسوبك أن الوقت الآن <span id='wrongSystemTime_systemDate'/> في حين أن الوقت الآن <span id='wrongSystemTime_actualDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTime_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p><p>حاسوبك مضبوط على <span id='wrongSystemTime_systemDate'/> في حين أن الوقت الآن <span id='wrongSystemTime_actualDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTimeWithoutReference_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p><p>حاسوبك مضبوط على <span id='wrongSystemTimeWithoutReference_systemDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
 
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">

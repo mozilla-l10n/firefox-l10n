@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "ق">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت &brandShortName; على ألّا يتذكر التأريخ.">
 
-<!ENTITY redirectWindowsSearch.label "استخدم محرك البحث هذا عند البحث من وندوز">
-<!ENTITY redirectWindowsSearch.accesskey "ن">
-
 <!ENTITY oneClickSearchEngines.label           "محركات البحث بنقرة واحدة">
 
 <!ENTITY chooseWhichOneToDisplay.label         "شريط البحث يمكنك من البحث في محركات البحث البديلة مباشرة. اختر المحركات التي تريد عرضها.">

@@ -61,8 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "مذيل">
 <!ENTITY  useDefaultFontSansSerif.label           "غير مذيل">
 
-<!ENTITY  allowPagesToUse.label                   "اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى">
-<!ENTITY  allowPagesToUse.accesskey               "س">
+<!ENTITY  allowPagesToUseOwn.label                "اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى">
+<!ENTITY  allowPagesToUseOwn.accesskey            "س">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ترميز النص للمحتوى العتيق">
 <!ENTITY languages.customize.Fallback2.label      "ترميز النص الاحتياط:">
