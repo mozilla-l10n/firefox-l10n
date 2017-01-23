@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountSetupTitle.label    "Penyetelan &syncBrand.fullName.label;">
-<!-- First page of the wizard -->
 
+<!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "Selamat datang! Jika Anda belum pernah menggunakan &syncBrand.fullName.label; Anda perlu untuk membuat akun baru.">
 <!ENTITY button.createNewAccount.label "Buat Akun Baru">
@@ -13,8 +13,8 @@
 <!ENTITY setup.choicePage.title.label     "Sudah pernah menggunakan &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Saya belum pernah menggunakan &syncBrand.shortName.label; sebelumnya">
 <!ENTITY setup.choicePage.existing2.label "Saya sudah menggunakan &syncBrand.shortName.label; pada perangkat lainnya">
-<!-- New Account AND Existing Account -->
 
+<!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.default.label      "Bawaan: server &syncBrand.fullName.label; Mozilla">
 <!ENTITY serverType.custom2.label   "Gunakan server khusus…">
@@ -24,8 +24,8 @@
 <!ENTITY signIn.password.accesskey  "S">
 <!ENTITY signIn.recoveryKey.label       "Kunci Pemulihan">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
-<!-- New Account Page 1: Basic Account Info -->
 
+<!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detail Akun">
 <!ENTITY setup.emailAddress.label     "Alamat Email">
 <!ENTITY setup.emailAddress.accesskey "E">
@@ -33,9 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.confirmPassword.label     "Konfirmasi Sandi">
 <!ENTITY setup.confirmPassword.accesskey "m">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "Saya menyetujui">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Ketentuan Layanan">
@@ -43,8 +43,8 @@
 <!ENTITY setup.ppLink.label         "Kebijakan Privasi">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- My Recovery Key dialog -->
 
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Peduli Privasi Anda">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Untuk memastikan privasi Anda secara menyeluruh, semua data Anda akan dienkripsi sebelum diunggah. Kunci Pemulihan yang diperlukan untuk mendekripsi data Anda tidak akan diunggah.">
 <!ENTITY recoveryKeyEntry.label        "Kunci Pemulihan Anda">
@@ -56,8 +56,8 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
 <!ENTITY button.syncKeyBackup.save.label      "Simpan…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Pasangkan Perangkat">
 <!ENTITY addDevice.showMeHow.label          "Tunjukkan Caranya.">
 <!ENTITY addDevice.dontHaveDevice.label     "Perangkat saya sedang tidak di dekat saya">
@@ -69,15 +69,15 @@
 <!ENTITY addDevice.dialog.successful.label  "Perangkat sukses ditambahkan. Penyinkronan awal memakan waktu beberapa menit dan akan selesai sebagai proses yang berjalan di latar belakang.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Untuk mengaktifkan perangkat Anda nanti, Kunci Pemulihan perlu dimasukkan. Cetak atau simpan kunci ini dan ingat selalu.">
 <!ENTITY addDevice.dialog.connected.label   "Perangkat Tersambung">
-<!-- Existing Account Page 2: Manual Login -->
 
+<!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Masuk">
 <!ENTITY existingRecoveryKey.description "Anda dapat mendapatkan salinan Kunci Pemulihan dengan menampilkan Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya, dan memilih  &quot;Kunci Pemulihan Saya&quot; di bawah &quot;Kelola Akun&quot;.">
 <!ENTITY verifying.label              "Memverifikasi…">
 <!ENTITY resetPassword.label          "Setel Ulang Sandi">
 <!ENTITY resetSyncKey.label           "Perangkat saya lainnya hilang.">
-<!-- Sync Options -->
 
+<!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Pilihan Sinkronisasi">
 <!ENTITY syncDeviceName.label       "Nama Perangkat:">
 <!ENTITY syncDeviceName.accesskey   "P">
@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Riwayat">
 <!ENTITY engine.history.accesskey   "w">
@@ -100,15 +99,15 @@
 <!ENTITY choice2.merge.recommended.label "Direkomendasikan:">
 <!ENTITY choice2a.client.main.label      "Ganti semua data pada perangkat ini dengan data &syncBrand.shortName.label; saya">
 <!ENTITY choice2a.server.main.label      "Timpa data di perangkat lain dengan data perangkat ini">
-<!-- Confirm Merge Options -->
 
+<!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Konfirmasi">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; akan menggabungkan semua data peramban perangkat ini ke akun Sync Anda.">
 <!ENTITY confirm.client3.label         "Peringatan: Data &brandShortName; berikut pada perangkat ini akan dihapus:">
 <!ENTITY confirm.client2.moreinfo.label "Setelah itu &brandShortName; akan menyalin data &syncBrand.fullName.label; ke perangkat ini.">
 <!ENTITY confirm.server2.label         "Peringatan: Data pada perangkat berikut akan ditimpa dengan data lokal Anda saat ini:">
-<!-- New & Existing Account: Setup Complete -->
 
+<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Penyetelah Selesai">
 <!ENTITY changeOptions.label "Anda dapat mengubah pengaturan ini dengan memilihnya di bawah ini.">
 <!ENTITY continueUsing.label "Anda dapat melanjutkan menggunakan &brandShortName;.">

@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur &brandShortName; agar tidak mengingat riwayat.">
 
-<!ENTITY redirectWindowsSearch.label "Gunakan mesin pencari ini untuk pencarian dari Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Mesin pencari sekali klik">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Bilah pencari dapat digunakan untuk mencari lewat mesin pencari lainnya secara langsung. Pilih mesin pencari yang akan ditampilkan.">

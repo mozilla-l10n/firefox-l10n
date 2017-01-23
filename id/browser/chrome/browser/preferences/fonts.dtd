@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Izinkan laman memilih hurufnya sendiri">
-<!ENTITY  allowPagesToUse.accesskey               "I">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Pengodean Karakter untuk Konten Lawas">
 <!ENTITY languages.customize.Fallback2.label      "Pengodean Teks Alternatif:">

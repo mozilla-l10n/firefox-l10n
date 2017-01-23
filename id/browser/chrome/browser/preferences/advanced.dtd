@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Selalu gunakan kursor papan ketik untuk navigasi laman">
 <!ENTITY useCursorNavigation.accesskey   "S">
-<!ENTITY searchStartTyping.label         "Mulai pencarian sejak diketikkan">
-<!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Peringatkan jika situs web mencoba mengalihkan atau memuat ulang laman">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Tampilkan papan ketik sentuh saat diperlukan">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "a">
-<!ENTITY checkSpelling.label             "Periksa ejaan saat mengetik teks">
-<!ENTITY checkSpelling.accesskey         "e">
 
 <!ENTITY dataChoicesTab.label            "Pelaporan Data">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Konten Web Luring dan Data Pengguna">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Pemutakhiran">
 
-<!ENTITY updateApp.label                 "Pemutakhiran &brandShortName;:">
 <!ENTITY updateAuto1.label               "Otomatis pasang pemutakhiran (disarankan: untuk keamanan lebih baik)">
 <!ENTITY updateAuto1.accesskey           "O">
-<!ENTITY updateCheck.label               "Periksa pemutakhiran, biarkan saya memilih apakah akan dipasang atau tidak">
-<!ENTITY updateCheck.accesskey           "b">
 <!ENTITY updateManual.label              "Jangan pernah memeriksa pemutakhiran (tidak disarankan: berisiko keamanan)">
 <!ENTITY updateManual.accesskey          "J">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
 <!ENTITY useService.accesskey            "l">
 
-<!ENTITY updateOthers.label              "Otomatis perbarui:">
 <!ENTITY enableSearchUpdate.label        "Mesin Pencari">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 
-<!ENTITY offlineNotify.label             "Beritahukan jika situs web meminta untuk menyimpan data untuk penggunaan luring">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
-<!ENTITY offlineNotifyExceptions.accesskey "c">
 
 <!ENTITY offlineAppsList2.label          "Situs web berikut telah diizinkan untuk menyimpan data untuk penggunaan luring:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Hapus data luring">
 
 <!ENTITY certificateTab.label            "Sertifikat">
-<!ENTITY certSelection.label             "Permintaan">
-<!ENTITY certSelection.description       "Saat server meminta sertifikat pribadi saya:">
-<!ENTITY certs.auto                      "Pilih otomatis">
-<!ENTITY certs.auto.accesskey            "o">
-<!ENTITY certs.ask                       "Tanyakan setiap saat">
-<!ENTITY certs.ask.accesskey             "a">
 <!ENTITY enableOCSP.label                "Kueri server penjawab OCSP untuk mengonfirmasukan validitas sertifikat">
 <!ENTITY enableOCSP.accesskey            "v">
 <!ENTITY viewCerts.label                 "Tampilkan Sertifikat">

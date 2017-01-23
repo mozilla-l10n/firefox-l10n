@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Putuskan sambungan">
 <!ENTITY runtimeMenu_disconnect_accesskey "u">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabel Izin">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "I">
 <!ENTITY runtimeMenu_takeScreenshot_label "Tangkapan Layar">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "T">
 <!ENTITY runtimeMenu_showDetails_label "Info Runtime">
@@ -58,9 +56,9 @@
 
 <!ENTITY projectButton_label "Buka Aplikasi">
 <!ENTITY runtimeButton_label "Pilih Runtime">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -87,8 +85,8 @@
 <!ENTITY runtimePanel_noadbhelper "Instal Pembantu ADB">
 <!ENTITY runtimePanel_nousbdevice "Tidak menemukan perangkat Anda?">
 <!ENTITY runtimePanel_refreshDevices_label "Segarkan Perangkat">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "valid">
 <!ENTITY details_warning_header "peringatan">
 <!ENTITY details_error_header "kesalahan">
@@ -97,23 +95,23 @@
 <!ENTITY details_manifestURL "App ID">
 <!ENTITY details_removeProject_button "Hapus Proyek">
 <!ENTITY details_showPrepackageLog_button "Tampilkan Catatan Prapaket">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Aplikasi Baru">
 <!ENTITY newAppHeader "Pilih templat">
 <!ENTITY newAppLoadingTemplate "Memuat templat…">
 <!ENTITY newAppProjectName "Nama Proyek:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Tutup">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Komponen Ekstra">
 <!ENTITY addons_aboutaddons "Buka Pengelola Pengaya">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Preferensi">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Umum">
@@ -140,12 +138,8 @@
 <!ENTITY prefs_options_keybindings_default "Bawaan">
 <!ENTITY prefs_options_autosavefiles "Simpan berkas otomatis">
 <!ENTITY prefs_options_autosavefiles_tooltip "Simpan berkas yang diedit secara otomatis sebelum proyek dijalankan">
-<!-- Permissions Table -->
 
-<!ENTITY permissionstable_title "Tabel Izin">
-<!ENTITY permissionstable_name_header "Nama">
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "Info Runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB adalah root: ">
 <!ENTITY runtimedetails_summonADBRoot "perangkat root">
@@ -153,36 +147,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Izin DevTools Tak Terbatas: ">
 <!ENTITY runtimedetails_requestPrivileges "membutuhkan izin yang lebih tinggi">
 <!ENTITY runtimedetails_privilegesWarning "(Akan memulai ulang perangkat. Membutuhkan akses root.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objek">
 <!ENTITY device_typenone "Pilih jenis">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Preferensi Perangkat">
 <!ENTITY devicepreference_search "Cari preferensi">
 <!ENTITY devicepreference_newname "Nama preferensi baru">
 <!ENTITY devicepreference_newtext "Nilai preferensi">
 <!ENTITY devicepreference_addnew "Tambahkan preferensi baru">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Setelan Perangkat">
 <!ENTITY devicesetting_search "Setelan pencarian">
 <!ENTITY devicesetting_newname "Nama setelan baru">
 <!ENTITY devicesetting_newtext "Nilai setelan">
 <!ENTITY devicesetting_addnew "Tambahkan setelan baru">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Bantuan">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Identifikasi Klien">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -197,11 +191,11 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Jika perangkat lainnya menanyakan token alih-alih memindai kode QR, salin nilai berikut ke perangkat lainnya:">
 <!ENTITY wifi_auth_qr_size_note "Jika tampilan kode QR terlalu kecil agar sambungan dapat sukses dilangsungkan, coba perbesar jendela.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Catatan Perintah Prapaket">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Opsi Simulator">
 <!ENTITY simulator_remove "Hapus Simulator">
 <!ENTITY simulator_reset "Kembalikan Bawaan">
