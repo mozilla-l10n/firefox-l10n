@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label "Prohlížeč">
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Editor">
 <!ENTITY editorCmd.accesskey "E">
@@ -13,7 +14,6 @@
 
 <!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY taskNavigator.tooltip "Prohlížeč">
 <!ENTITY taskComposer.tooltip "Editor">
