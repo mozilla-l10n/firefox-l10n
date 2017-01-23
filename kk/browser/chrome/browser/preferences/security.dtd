@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Жалпы">
 
-<!ENTITY  warnAddonInstall.label        "Веб-сайттар кеңейтулерді орнатқысы келсе, ескерту">
-<!ENTITY  warnAddonInstall.accesskey    "В">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Қауіпті жүктемелерді блоктау">
 <!ENTITY  blockDownloads.accesskey        "п">
 
-<!ENTITY  blockUncommonUnwanted.label     "Талап етілмеген және қалыпты емес БҚ жөнінде маған хабарлау">
-<!ENTITY  blockUncommonUnwanted.accesskey "п">
+
 
 <!ENTITY  addonExceptions.label         "Ережелерден бөлек…">
 <!ENTITY  addonExceptions.accesskey     "Е">

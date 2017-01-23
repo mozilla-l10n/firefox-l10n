@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Іздеу:">
-<!ENTITY     filter.accesskey               "з">
+
 
 <!ENTITY     button.close.label             "Жабу">
 <!ENTITY     button.close.accesskey         "Ж">
