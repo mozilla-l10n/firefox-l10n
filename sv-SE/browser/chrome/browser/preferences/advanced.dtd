@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Använd alltid piltangenterna för att navigera i sidor">
 <!ENTITY useCursorNavigation.accesskey   "A">
+<!ENTITY searchOnStartTyping.label       "Sök efter text när jag börjar skriva">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Varna när webbplatser försöker omdirigera eller ladda om sidan">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Visa ett pektangentbord vid behov">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
+<!ENTITY checkUserSpelling.label         "Kontrollera stavning medan du skriver">
+<!ENTITY checkUserSpelling.accesskey     "k">
 
 <!ENTITY dataChoicesTab.label            "Dataval">
 
@@ -52,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Nedkopplad lagring av webbinnehåll och användardata">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Webbplatsdata">
+<!ENTITY clearSiteData.label             "Rensa all data">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Inställningar…">
+<!ENTITY siteDataSettings.accesskey      "n">
+<!ENTITY siteDataLearnMoreLink.label     "Läs mer">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Uppdateringar">
 
+<!ENTITY updateApplication.label         "&brandShortName; uppdaterar">
 <!ENTITY updateAuto1.label               "Installera uppdateringar automatiskt (rekommenderas: bättre säkerhet)">
 <!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateCheckChoose.label         "Sök efter uppdateringar, men låt mig välja om de ska installeras">
+<!ENTITY updateCheckChoose.accesskey     "S">
 <!ENTITY updateManual.label              "Sök aldrig efter uppdateringar (rekommenderas inte: säkerhetsrisk)">
 <!ENTITY updateManual.accesskey          "ö">
 
@@ -82,9 +97,14 @@
 <!ENTITY useService.label                "Använd en bakgrundstjänst för att installera uppdateringar">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Uppdatera automatiskt">
 <!ENTITY enableSearchUpdate.label        "Sökmotorer">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
+<!ENTITY offlineStorageNotify.label               "Meddela mig när en webbplats vill lagra data vid nedkopplad användning">
+<!ENTITY offlineStorageNotify.accesskey           "M">
+<!ENTITY offlineStorageNotifyExceptions.label     "Undantag…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "n">
 
 <!ENTITY offlineAppsList2.label          "Följande webbplatser tillåts lagra data för nedkopplad användning:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Ta bort lagrad data">
 
 <!ENTITY certificateTab.label            "Certifikat">
+<!ENTITY certPersonal.label              "Förfrågningar">
+<!ENTITY certPersonal.description        "När en server begär ditt personliga certifikat:">
+<!ENTITY selectCerts.auto                "Välj ett automatiskt">
+<!ENTITY selectCerts.auto.accesskey      "V">
+<!ENTITY selectCerts.ask                 "Fråga mig varje gång">
+<!ENTITY selectCerts.ask.accesskey       "F">
 <!ENTITY enableOCSP.label                "Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet">
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts.label                 "Visa Certifikat">
