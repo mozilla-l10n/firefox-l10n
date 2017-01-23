@@ -536,6 +536,9 @@ size. -->
 <!ENTITY pref_tab_queue_title3 "标签页队列">
 <!ENTITY pref_tab_queue_summary4 "保存链接，下次打开 &brandShortName; 时一并开启">
 
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -698,8 +701,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "下载完毕后请触摸以应用更新">
 <!ENTITY updater_downloading_retry2 "点此立即重试">
 
-<!ENTITY updater_apply_title2 "&brandShortName; 更新已可安装">
-<!ENTITY updater_apply_select2 "点此立即更新">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -843,3 +844,4 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "消除">
 <!ENTITY activity_stream_delete_history "删除历史记录">
+
