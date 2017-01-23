@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountSetupTitle.label    "Configuración de &syncBrand.fullName.label;">
-<!-- First page of the wizard -->
 
+<!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "¡Bienvenido! Si nunca antes has usado &syncBrand.fullName.label;, necesitas crear una cuenta nueva.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
@@ -13,8 +13,8 @@
 <!ENTITY setup.choicePage.title.label     "¿Has utilizado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label       "Nunca antes he usado &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing2.label "Ya estoy usando &syncBrand.shortName.label; en otro dispositivo">
-<!-- New Account AND Existing Account -->
 
+<!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
 <!ENTITY serverType.default.label      "Predeterminado: Servidor &syncBrand.fullName.label; de Mozilla">
 <!ENTITY serverType.custom2.label   "Usar un servidor personalizado…">
@@ -24,8 +24,8 @@
 <!ENTITY signIn.password.accesskey  "C">
 <!ENTITY signIn.recoveryKey.label       "Clave de recuperación">
 <!ENTITY signIn.recoveryKey.accesskey   "C">
-<!-- New Account Page 1: Basic Account Info -->
 
+<!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.emailAddress.label     "Dirección de correo electrónico">
 <!ENTITY setup.emailAddress.accesskey "e">
@@ -33,9 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "c">
 <!ENTITY setup.confirmPassword.label     "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey  "A">
 <!ENTITY setup.tosLink.label        "Términos del servicio">
@@ -43,8 +43,8 @@
 <!ENTITY setup.ppLink.label         "Política de privacidad">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- My Recovery Key dialog -->
 
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; se preocupa por tu privacidad">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar totalmente tu privacidad, toda tu información es encriptada antes de ser subida. La clave de recuperación que es necesaria para desencriptar tu información no es subida.">
 <!ENTITY recoveryKeyEntry.label        "Tu clave de recuperación">
@@ -56,8 +56,8 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
-<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Emparejar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Muéstrame cómo.">
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
@@ -69,15 +69,15 @@
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado con éxito. La sincronización inicial puede tardar varios minutos y terminará en segundo plano.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Para activar tu dispositivo, necesitarás introducir tu clave de recuperación. Por favor imprime o guarda esta clave y mantenla contigo.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
-<!-- Existing Account Page 2: Manual Login -->
 
+<!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
 <!ENTITY existingRecoveryKey.description "Puedes obtener una copia de tu clave de recuperación dirigiendote a Opciones de &syncBrand.shortName.label; en tu otro dispositivo, y seleccionando  &quot;Mi clave de recuperación&quot; dentro de &quot;Manejar cuenta&quot;.">
 <!ENTITY verifying.label              "Verificando...">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
 <!ENTITY resetSyncKey.label           "He perdido mi otro dispositivo.">
-<!-- Sync Options -->
 
+<!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opciones de Sync">
 <!ENTITY syncDeviceName.label       "Nombre del dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "r">
@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Pestañas">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
@@ -100,15 +99,15 @@
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2a.client.main.label      "Reemplazar toda la información en este dispositivo con mi información de &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Reemplazar los datos de todos los otros dispositivos con los datos de este dispositivo">
-<!-- Confirm Merge Options -->
 
+<!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; fusionará toda la información del navegador de este dispositivo con tu cuenta de Sync.">
 <!ENTITY confirm.client3.label         "Advertencia: La información de &brandShortName; en este dispositivo  será eliminada:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; copiará tu información de &syncBrand.fullName.label; a este dispositivo.">
 <!ENTITY confirm.server2.label         "Aviso: La iformación de los siguientes dispositivos se sobrescribirá con los datos locales:">
-<!-- New & Existing Account: Setup Complete -->
 
+<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configuración completa">
 <!ENTITY changeOptions.label "Puedes cambiar esta opción seleccionando Opciones de Sync.">
 <!ENTITY continueUsing.label "Ahora puedes continuar usando &brandShortName;.">
