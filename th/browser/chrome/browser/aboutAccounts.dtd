@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "เชื่อมต่อบัญชีแล้ว">
 
 <!ENTITY aboutAccountsConfig.description "ลงชื่อเข้าเพื่อซิงค์แท็บ, ที่คั่นหน้า, รหัสผ่าน และอื่น ๆ ของคุณ">
 <!ENTITY aboutAccountsConfig.startButton.label "เริ่มต้นใช้งาน">

@@ -115,9 +115,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย">
 <!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) ลองโหลด <span class='hostname'></span> โดยใช้ความปลอดภัยที่ล้าสมัย">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>การเชื่อมต่อปลอดภัยไปยัง <span id='wrongSystemTime_URL'/> เป็นไปไม่ได้เนื่องจากนาฬิกาของคุณดูเหมือนจะแสดงเวลาผิด</p> <p>คอมพิวเตอร์ของคุณคิดว่าคือ <span id='wrongSystemTime_systemDate'/> ขณะที่ควรจะเป็น <span id='wrongSystemTime_actualDate'/> เพื่อแก้ปัญหานี้ เปลี่ยนการตั้งค่าวันที่และเวลาของคุณเพื่อให้ตรงกับเวลาที่ถูกต้อง</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; นั้นเชื่อมต่ออย่างนิรภัยเท่านั้น ผลที่ตามมาคือจะไม่สามารถเพิ่มข้อยกเว้นให้ใบรับรองนี้ได้">

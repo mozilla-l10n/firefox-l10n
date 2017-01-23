@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "ค">
 <!ENTITY engine.history.label             "ประวัติ">
 <!ENTITY engine.history.accesskey         "ป">
-<!ENTITY engine.tabs.label                "แท็บ">
 <!ENTITY engine.tabs.accesskey            "ท">
 <!ENTITY engine.passwords.label           "รหัสผ่าน">
 <!ENTITY engine.passwords.accesskey       "ร">

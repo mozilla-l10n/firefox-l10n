@@ -27,4 +27,3 @@
 <!ENTITY tabCrashed.emailMe "ส่งอีเมลหาฉันเมื่อมีข้อมูลเพิ่มเติม">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "รายงานแท็บเบื้องหลัง">
-<!ENTITY tabCrashed.autoSubmit "อัปเดตการตั้งค่าให้ส่งรายงานข้อขัดข้องที่ค้างอยู่โดยอัตโนมัติ (และรับข้อความเช่นนี้จากเราน้อยลงในอนาคต)">

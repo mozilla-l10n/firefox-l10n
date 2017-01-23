@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "ค้นหาข้อความเมื่อฉันเริ่มพิมพ์">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "เตือนฉันเมื่อเว็บไซต์พยายามจะเปลี่ยนเส้นทางหรือโหลดหน้าใหม่">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "ตรวจสอบการสะกดของฉันเมื่อฉันพิมพ์">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "เนื้อหาเว็บออฟไลน์และข้อมูลผู้ใช้">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "อัปเดต">
 
-<!ENTITY updateApp.label                 "อัปเดต &brandShortName;:">
 <!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "ตรวจสอบการอัปเดต แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "อัปเดตโดยอัตโนมัติ:">
 <!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "แจ้งฉันเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "ข้อยกเว้น…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
-<!ENTITY certSelection.label             "คำร้องขอ">
-<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของฉัน:">
-<!ENTITY certs.auto                      "เลือกมาหนึ่งโดยอัตโนมัติ">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "ดูใบรับรอง">
