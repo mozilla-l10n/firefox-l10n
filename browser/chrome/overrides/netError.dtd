@@ -36,6 +36,8 @@
 <!ENTITY generic.title "Упс.">
 <!ENTITY generic.longDesc "<p>Поради некоја причина &brandShortName; не може да ја вчита оваа страница.</p>">
 
+
+
 <!ENTITY malformedURI.title "Адресата не е важечка">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Адресите на страниците најчесто се напишани како 
@@ -129,9 +131,9 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Воспоставувањето на безбедна врска со <span id='wrongSystemTime_URL'/> не е можно бидејќи часовникот на Вашиот компјутер прикажува погрешно време.</p> <p>Вашиот компјутер смета дека е <span id='wrongSystemTime_systemDate'/>, кога би требало да смета дека е <span id='wrongSystemTime_actualDate'/>. За да го решите овој проблем, поставете ги точниот датум и време.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

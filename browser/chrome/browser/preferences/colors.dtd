@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Промени ги боите специфицирани на страницата со мојот избор погоре:">
-<!ENTITY  overridePageColors.accesskey    "б">
 
-<!ENTITY  overridePageColors.always.label "Секогаш">
-<!ENTITY  overridePageColors.auto.label   "Само за теми со висок контраст">
-<!ENTITY  overridePageColors.never.label  "Никогаш">
 
 <!ENTITY  color                           "Текст и позадина">
 <!ENTITY  textColor.label                 "Текст:">

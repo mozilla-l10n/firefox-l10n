@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "Синхорнизирај ги моите">
 <!ENTITY engine.bookmarks.label     "Обележувачи">
 <!ENTITY engine.bookmarks.accesskey "б">
-<!ENTITY engine.tabs.label          "Јазичиња">
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историја">
 <!ENTITY engine.history.accesskey   "р">

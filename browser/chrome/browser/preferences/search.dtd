@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи &brandShortName; е прилагоден никогаш да не ја снима историјата на прелистување.">
 
-<!ENTITY redirectWindowsSearch.label "Користи го овој пребарувач за пребарувања во Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Пребарувачи на еден клик">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Лентата за пребарување Ви овозможува директно пребарување со различни пребарувачи. Изберете кои да се прикажуваат.">

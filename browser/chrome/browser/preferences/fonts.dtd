@@ -57,8 +57,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Сериф">
 <!ENTITY  useDefaultFontSansSerif.label           "Санс сериф">
 
-<!ENTITY  allowPagesToUse.label                   "Дозволи страниците да користат свои фонтови">
-<!ENTITY  allowPagesToUse.accesskey               "а">
 
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

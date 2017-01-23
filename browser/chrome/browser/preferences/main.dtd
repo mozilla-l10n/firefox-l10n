@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "Кога се стартува &brandShortName;:">
 <!ENTITY startupPage.accesskey     "с">
-<!ENTITY startupHomePage.label     "Прикажи ја мојата домашна страница">
 <!ENTITY startupBlankPage.label    "Прикажи празна страница">
-<!ENTITY startupLastSession.label  "Прикажи прозорци и јазичиња од последната сесија">
 
 <!ENTITY homepage.label            "Домашна страница:">
 <!ENTITY homepage.accesskey        "Д">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "з">
 <!ENTITY chooseFolderMac.label        "Изберете…">
 <!ENTITY chooseFolderMac.accesskey    "е">
-<!ENTITY alwaysAsk.label "Секогаш прашувај ме каде да се снимаат датотеките">
-<!ENTITY alwaysAsk.accesskey "ш">
 
 
 
