@@ -27,4 +27,3 @@
 <!ENTITY tabCrashed.emailMe "Skicka e-post när mer information finns tillgänglig">
 <!ENTITY tabCrashed.reportSent "Kraschrapporten har redan skickats. Tack för att du hjälper till att förbättra &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapportera bakgrundsflikar">
-<!ENTITY tabCrashed.autoSubmit "Uppdatera inställningar för att automatiskt skicka in eftersläpande kraschrapporter (och få färre meddelanden som detta från oss i framtiden)">
