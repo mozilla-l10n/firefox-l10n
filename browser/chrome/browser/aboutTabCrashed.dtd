@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Enviar um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informar abas em segundo plano">
+<!ENTITY tabCrashed.autoSubmit2 "Atualizar as preferências para enviar automaticamente relatórios de falhas, incluindo relatórios para falhas de abas em segundo plano desta sessão e futuras sessões">
