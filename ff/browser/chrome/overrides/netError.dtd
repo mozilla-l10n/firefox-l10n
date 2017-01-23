@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ndo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
-<!ENTITY captivePortal.title "Seŋo to laylaytol">
-<!ENTITY captivePortal.longDesc "<p>Ngol laytol ena waawi naamnaade yo a seŋo ngam naatde e enternet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Uddit Hello Seŋorde">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ceeɓore">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo yanngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi.">
 <!ENTITY weakCryptoAdvanced.override "(hisaani) Eto loowde <span class='hostname'></span> huutoraade kisal kiiɗtungal">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Ceŋagol kisngol to <span id='wrongSystemTime_URL'/> wonataa sabu waktu mo yuɓɓo maa hollata oo moƴƴaani.</p> <p>Ordinateer maa sikata ko <span id='wrongSystemTime_systemDate'/>, kono ko <span id='wrongSystemTime_actualDate'/>. Ngam ñawndude ɗee caɗe, waylu teelte ñalngu e waktu ngam yahda e waktu gonaaɗo oo.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ceŋagol Hisaani">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP Strict Transport Security (HSTS) ngam joopaade &brandShortName; seŋotoo e mayre tan ko e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude heen paltol nguu seedamfaagu.">

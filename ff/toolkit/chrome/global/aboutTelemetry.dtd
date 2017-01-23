@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Ɓetiwe">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Ɓetiwe Koke">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
 

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "A jaɓɓaama e &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Konte ceŋiima">
 
 <!ENTITY aboutAccountsConfig.description "Seŋo ngam syncude tabbe, maantore, finndeeji ekn.">
 <!ENTITY aboutAccountsConfig.startButton.label "Fuɗɗo ɗoo">
