@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Ekibanja:">
 <!ENTITY  securityView.identity.verifier "Kikakasiddwa:">
 
+<!ENTITY  securityView.privacy.header                   "Ebyekyama ne Byafaayo">
 <!ENTITY  securityView.privacy.history                  "Nakyaddeko kumuko guno emabegako?">
 <!ENTITY  securityView.privacy.cookies                  "Ekibanja kino kirina bwiino (bukuki) bwe kitereka ku kompyuta yange?">
 <!ENTITY  securityView.privacy.viewCookies              "Kenga bu kuki">

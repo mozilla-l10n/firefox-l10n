@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">
 <!ENTITY engine.bookmarks.accesskey "l">
-<!ENTITY engine.tabs.label          "Awaddirira">
-<!ENTITY engine.tabs.accesskey      "A">
+
+
 <!ENTITY engine.history.label       "Ebyafaayo">
 <!ENTITY engine.history.accesskey   "f">
 <!ENTITY engine.passwords.label     "Ebisumuluzo">

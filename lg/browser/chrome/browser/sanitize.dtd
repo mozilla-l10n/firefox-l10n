@@ -45,9 +45,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Ebyafaayo">
 <!ENTITY dataSection.label            "Bwiino">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Ebifudeyo byo ku'Noonya no'kuwanula">
+<!ENTITY itemHistoryAndDownloads.accesskey "N">
+<!ENTITY itemFormSearchHistory.label       "Ebifudeyo bya Fomu no'kunoonya">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Kkuki">
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Eteresi yo kupii">

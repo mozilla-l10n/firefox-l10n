@@ -61,9 +61,9 @@
 <!ENTITY pairDevice.title.label             "Yunga Ebyuma">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
 <!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
-<!ENTITY pairDevice.setup.description.label  "Okutandika, londa &#x0022;Yunga ekyuma&#x0022; kukyuma ekirala.">
+<!ENTITY pairDevice.setup.description.label  "Okutandika, londa &quot;Yunga ekyuma&quot; kukyuma kyo ekirala.">
 <!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
-<!ENTITY pairDevice.dialog.description.label "Okutandika ekyuma ekyirala, londa &#x0022;Tegeka Akatuusa&#x0022; ku kyuma ekyo.">
+<!ENTITY pairDevice.dialog.description.label "Okutandika ekyuma ekyirala, londa &quot;Tegeka Akatuusa&quot; ku kyuma ekyo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
 <!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">
@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Yingira">
-<!ENTITY existingRecoveryKey.description "Osoobola okufuna kopi ya'kasumuluzo akanunula nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;Akasumuluzo Kange Akanunula&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Osoobola okufuna kopi ya&apos;kasumuluzo akanunula nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &quot;Akasumuluzo Kange Akanunula&quot; wansiwa &quot;Ddukanya Akaunti&quot;.">
 <!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
 <!ENTITY resetSyncKey.label           "Mbuziza ekyuma kyange ekirala.">
@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">
 <!ENTITY engine.bookmarks.accesskey "a">
-<!ENTITY engine.tabs.label          "Awaddirira">
-<!ENTITY engine.tabs.accesskey      "w">
+
+
 <!ENTITY engine.history.label       "Ebyafaayo">
 <!ENTITY engine.history.accesskey   "b">
 <!ENTITY engine.passwords.label     "Obusumuluzo">

@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Noonya:">
-<!ENTITY     filter.accesskey               "N">
+
 
 <!ENTITY     button.close.label             "Ggalawo">
 <!ENTITY     button.close.accesskey         "G">

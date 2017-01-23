@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Londako Fayiro…">
 <!ENTITY cmd.restoreFromFile.accesskey  "L">
 
-<!ENTITY cmd.bookmarkLink.label         "Lamba Omuko Gunno…">
-<!ENTITY cmd.bookmarkLink.accesskey     "L">
-<!ENTITY cmd.delete.label               "Sangula Omuko Gunno">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Werabire Ebikwata ku Muko Gunno">
 <!ENTITY cmd.deleteDomainData.accesskey "W">
 
