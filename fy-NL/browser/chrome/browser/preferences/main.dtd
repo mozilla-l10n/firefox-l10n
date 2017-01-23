@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "As &brandShortName; start:">
 <!ENTITY startupPage.accesskey     "A">
-<!ENTITY startupHomePage.label     "Myn begjinside toane">
 <!ENTITY startupBlankPage.label    "In lege side toane">
-<!ENTITY startupLastSession.label  "Myn finsters en ljepblêden fan de foarige kear toane">
 
 <!ENTITY homepage.label            "Begjinside:">
 <!ENTITY homepage.accesskey        "s">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "d">
 <!ENTITY chooseFolderMac.label        "Kieze…">
 <!ENTITY chooseFolderMac.accesskey    "z">
-<!ENTITY alwaysAsk.label "My altyd freegje wêr't bestannen bewarre wurde moatte">
-<!ENTITY alwaysAsk.accesskey "f">
 
 <!ENTITY alwaysCheckDefault2.label        "Altyd kontrolearje oft &brandShortName; de standertbrowser is">
 <!ENTITY alwaysCheckDefault2.accesskey    "k">

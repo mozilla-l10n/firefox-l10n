@@ -197,9 +197,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene.">
 <!ENTITY weakCryptoAdvanced.override "(Net befeilige) <span class='hostname'></span> probearje te laden fia ferâldere befeiliging">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>In befeilige ferbining mei <span id='wrongSystemTime_URL'/> is net mooglik, omdat jo klok de ferkearde tiid liket oan te jaan.</p> <p>Jo kompjûter tinkt dat it <span id='wrongSystemTime_systemDate'/> is, wylst it <span id='wrongSystemTime_actualDate'/> wêze moatte soe. Wizigje jo datum- en tiidynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk

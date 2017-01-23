@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Bestân kieze…">
 <!ENTITY cmd.restoreFromFile.accesskey  "B">
 
-<!ENTITY cmd.bookmarkLink.label         "Blêdwizer fan dizze side meitsje…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Dizze side fuortsmite">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Dizze website ferjitte">
 <!ENTITY cmd.deleteDomainData.accesskey "f">
 
