@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Algemeen">
 
-<!ENTITY  warnAddonInstall.label        "Waarsku my wanneer werwe probeer byvoegings installeer">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Blokkeer gevaarlike aflaaie">
 <!ENTITY  blockDownloads.accesskey        "g">
 
-<!ENTITY  blockUncommonUnwanted.label     "Waarsku my oor ongewensde en ongewone sagteware">
-<!ENTITY  blockUncommonUnwanted.accesskey "d">
+
 
 <!ENTITY  addonExceptions.label         "Uitsonderings…">
 <!ENTITY  addonExceptions.accesskey     "U">

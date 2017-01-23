@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sinkroniseer my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Oortjies">
-<!ENTITY engine.tabs.accesskey      "O">
+
+
 <!ENTITY engine.history.label       "Geskiedenis">
 <!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.passwords.label     "Wagwoorde">

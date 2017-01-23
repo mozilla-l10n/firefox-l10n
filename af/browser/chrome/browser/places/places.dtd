@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Kies lêer…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Boekmerk hierdie bladsy…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Skrap hierdie bladsy">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Vergeet van hierdie werf">
 <!ENTITY cmd.deleteDomainData.accesskey "V">
 

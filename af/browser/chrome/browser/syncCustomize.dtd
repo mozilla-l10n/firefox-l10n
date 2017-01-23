@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Geskiedenis">
 <!ENTITY engine.history.accesskey         "G">
-<!ENTITY engine.tabs.label                "Oortjies">
-<!ENTITY engine.tabs.accesskey            "O">
+
+
 <!ENTITY engine.passwords.label           "Wagwoorde">
 <!ENTITY engine.passwords.accesskey       "W">
 <!ENTITY engine.addons.label              "Byvoegings op die rekenaar">

@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nutsgoed vir alle byvoegings">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Gaan een bladsy terug">
 <!ENTITY cmd.forward.tooltip                  "Gaan een bladsy vorentoe">
 

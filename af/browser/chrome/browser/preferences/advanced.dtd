@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Gebruik altyd die por-sleutels om binne bladsye te navigeer">
 <!ENTITY useCursorNavigation.accesskey   "p">
-<!ENTITY searchStartTyping.label         "Soek vir teks wanneer ek begin tik">
-<!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Waarsku my wanneer webwerwe probeer om die bladsy te herlaai of herlei">
-<!ENTITY blockAutoRefresh.accesskey      "e">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Wys 'n skermsleutelbord indien nodig">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "G">
 <!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Kontroleer spelling terwyl ek tik">
-<!ENTITY checkSpelling.accesskey         "i">
+
+
 
 <!ENTITY dataChoicesTab.label            "Datakeuses">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Webinhoud in die kas">
 
 <!ENTITY offlineStorage2.label           "Vanlyn-webinhoud en gebruikerdata">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Bywerk">
 
-<!ENTITY updateApp.label                 "&brandShortName;-bywerkings:">
 <!ENTITY updateAuto1.label               "Installeer bywerkings outomaties (beter vir sekuriteit)">
 <!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheck.label               "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
-<!ENTITY updateCheck.accesskey           "K">
+
+
 <!ENTITY updateManual.label              "Moet nooit kontroleer vir bywerkings nie (sekuriteitsrisiko)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY updateOthers.label              "Werk outomaties by:">
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Vertel my wanneer 'n webwerf vra om data te stoor vir vanlyn gebruik">
-<!ENTITY offlineNotify.accesskey         "V">
-<!ENTITY offlineNotifyExceptions.label   "Uitsonderings…">
-<!ENTITY offlineNotifyExceptions.accesskey "t">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Uitsonderings…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "t">
 
 <!ENTITY offlineAppsList2.label          "Die volgende webwerwe het toestemming om data vir vanlyn gebruik te stoor:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Verwyder vanlyn data">
 
 <!ENTITY certificateTab.label            "Sertifikate">
-<!ENTITY certSelection.label             "Versoeke">
-<!ENTITY certSelection.description       "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
-<!ENTITY certs.auto                      "Kies een outomaties">
-<!ENTITY certs.auto.accesskey            "K">
-<!ENTITY certs.ask                       "Vra my elke keer">
-<!ENTITY certs.ask.accesskey             "V">
+<!ENTITY certPersonal.label              "Versoeke">
+
+<!ENTITY selectCerts.auto                "Kies een outomaties">
+
+
+
 <!ENTITY enableOCSP.label                "Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra">
 <!ENTITY enableOCSP.accesskey            "B">
 <!ENTITY viewCerts.label                 "Bekyk sertifikate">

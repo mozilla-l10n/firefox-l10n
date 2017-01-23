@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Wanneer &brandShortName; begin:">
 <!ENTITY startupPage.accesskey     "b">
-<!ENTITY startupHomePage.label     "Wys my tuisblad">
+
 <!ENTITY startupBlankPage.label    "Wys 'n leë bladsy">
-<!ENTITY startupLastSession.label  "Wys die vensters en oortjies van laas keer">
+
 
 <!ENTITY homepage.label            "Tuisblad:">
 <!ENTITY homepage.accesskey        "b">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "a">
 <!ENTITY chooseFolderMac.label        "Kies…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Vra my altyd waar om lêers te stoor">
-<!ENTITY alwaysAsk.accesskey "V">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Kontroleer altyd of &brandShortName; die verstekblaaier is">
 <!ENTITY alwaysCheckDefault2.accesskey    "K">
