@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; க்கு வரவேற்கிறோம்">
-<!ENTITY aboutAccounts.connected "கணக்கு இணைக்கப்பட்டது.">
 
 <!ENTITY aboutAccountsConfig.description "உங்களுடைய கீற்றுகள் , புத்தகக்குறிகள், கடவுச்சொற்க்கள் போன்றவற்றை ஒத்திசைக்க உள்நுழையவும்.">
 <!ENTITY aboutAccountsConfig.startButton.label "தொடங்கு">

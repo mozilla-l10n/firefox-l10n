@@ -109,8 +109,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "மேம்பட்டது">
 
 <!ENTITY weakCryptoAdvanced.override "(பாதுகாப்பற்றதா) ஏற்ற முயற்சிக்கவும் <span class='hostname'></span> காலாவதியான பாதுகாப்பை பயன்படுத்துகிறது">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
 
 <!ENTITY certerror.pagetitle1  "பாதுகாப்பற்ற இணைப்பு">
 

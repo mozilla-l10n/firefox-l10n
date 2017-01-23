@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "க">
 <!ENTITY toolsMenu.tooltip                    "அனைத்து கூடுதல் இணைப்புகளுக்குமான கருவிகள்">
 
+
+
 <!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின் செல்">
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன் செல்">
 
