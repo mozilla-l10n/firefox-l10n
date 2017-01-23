@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات">
 <!ENTITY useCursorNavigation.accesskey   "س">
-<!ENTITY searchStartTyping.label         "ابحث عن النص عندما أبدأ الكتابة">
-<!ENTITY searchStartTyping.accesskey     "ح">
-<!ENTITY blockAutoRefresh.label          "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
-<!ENTITY blockAutoRefresh.accesskey      "و">
+<!ENTITY searchOnStartTyping.label       "ابحث عن النص مع بداية الكتابة">
+<!ENTITY searchOnStartTyping.accesskey   "ح">
+<!ENTITY blockAutoReload.label           "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
+<!ENTITY blockAutoReload.accesskey       "و">
 <!ENTITY useOnScreenKeyboard.label       "اعرض لوحة مفاتيح باللمس عند الضرورة">
 <!ENTITY useOnScreenKeyboard.accesskey   "م">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "خ">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
-<!ENTITY checkSpelling.label             "دقق الإملاء أثناء الكتابة">
-<!ENTITY checkSpelling.accesskey         "ك">
+<!ENTITY checkUserSpelling.label         "دقق الإملاء أثناء الكتابة">
+<!ENTITY checkUserSpelling.accesskey     "ك">
 
 <!ENTITY dataChoicesTab.label            "اختيارات البيانات">
 
@@ -56,6 +56,14 @@
 <!ENTITY httpCache.label                 "محتوى الوب المخزّن">
 
 <!ENTITY offlineStorage2.label           "محتوى الوب ومعلومات المستخدمة المخزّنة للعمل دون اتصال">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+<!ENTITY siteData.label                  "بيانات الموقع">
+<!ENTITY clearSiteData.label             "امسح كل البيانات">
+<!ENTITY clearSiteData.accesskey         "س">
+<!ENTITY siteDataSettings.label          "الإعدادات…">
+<!ENTITY siteDataSettings.accesskey      "ع">
+<!ENTITY siteDataLearnMoreLink.label     "اطّلع على المزيد">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +83,11 @@
 
 <!ENTITY updateTab.label                 "تحديث">
 
-<!ENTITY updateApp.label                 "تحديثات &brandShortName;:">
+<!ENTITY updateApplication.label         "تحديثات &brandShortName;">
 <!ENTITY updateAuto1.label               "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
 <!ENTITY updateAuto1.accesskey           "ل">
-<!ENTITY updateCheck.label               "التمس التحديثات، ولكن اترك لي خيار تثبيتها من عدمه">
-<!ENTITY updateCheck.accesskey           "ت">
+<!ENTITY updateCheckChoose.label         "التمس التحديثات، و لكن اترك لي خيار تثبيتها من عدمه">
+<!ENTITY updateCheckChoose.accesskey     "ت">
 <!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
 <!ENTITY updateManual.accesskey          "د">
 
@@ -89,14 +97,14 @@
 <!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتثبيت التحديثات">
 <!ENTITY useService.accesskey            "خ">
 
-<!ENTITY updateOthers.label              "تحديث تلقائي:">
+<!ENTITY autoUpdateOthers.label          "حدِّث تلقائيا">
 <!ENTITY enableSearchUpdate.label        "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey    "ح">
 
-<!ENTITY offlineNotify.label             "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
-<!ENTITY offlineNotify.accesskey         "ه">
-<!ENTITY offlineNotifyExceptions.label   "الاستثناءات…">
-<!ENTITY offlineNotifyExceptions.accesskey "ث">
+<!ENTITY offlineStorageNotify.label               "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
+<!ENTITY offlineStorageNotify.accesskey           "ه">
+<!ENTITY offlineStorageNotifyExceptions.label     "الاستثناءات…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
 
 <!ENTITY offlineAppsList2.label          "يسمح للمواقع التالية بتخزين بيانات للعمل دون اتصال:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "احذف بيانات الاستخدام دون اتصال">
 
 <!ENTITY certificateTab.label            "الشّهادات">
-<!ENTITY certSelection.label             "الطلبات">
-<!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصيّة:">
-<!ENTITY certs.auto                      "حدد واحدة آليّا">
-<!ENTITY certs.auto.accesskey            "ح">
-<!ENTITY certs.ask                       "اسألني كلّ مرّة">
-<!ENTITY certs.ask.accesskey             "س">
+<!ENTITY certPersonal.label              "الطلبات">
+<!ENTITY certPersonal.description        "عندما يطلب خادوم شهادتي الشخصيّة:">
+<!ENTITY selectCerts.auto                "حدد واحدة آليّا">
+<!ENTITY selectCerts.auto.accesskey      "ح">
+<!ENTITY selectCerts.ask                 "اسألني كلّ مرّة">
+<!ENTITY selectCerts.ask.accesskey       "س">
 <!ENTITY enableOCSP.label                "استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات">
 <!ENTITY enableOCSP.accesskey            "س">
 <!ENTITY viewCerts.label                 "اعرض الشهادات">

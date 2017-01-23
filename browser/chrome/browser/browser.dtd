@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "افتح">
 <!ENTITY syncedTabs.context.open.accesskey                   "ف">
@@ -769,6 +773,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ع">
 <!ENTITY syncedTabs.context.copy.label                       "انسخ">
 <!ENTITY syncedTabs.context.copy.accesskey                   "ن">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "افتح الكل في ألسنة">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ف">
 
 
 <!ENTITY syncBrand.shortName.label    "تزامُن">

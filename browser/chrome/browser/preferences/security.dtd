@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "عام">
 
-<!ENTITY  warnAddonInstall.label        "حذّرني عندما يحاول موقع تثبيت إضافات">
-<!ENTITY  warnAddonInstall.accesskey    "ح">
+<!ENTITY  warnOnAddonInstall.label        "حذّرني عندما يحاول موقع تثبيت إضافات">
+<!ENTITY  warnOnAddonInstall.accesskey    "ح">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +17,8 @@
 <!ENTITY  blockDownloads.label            "احجب التنزيلات الخطيرة">
 <!ENTITY  blockDownloads.accesskey        "ت">
 
-<!ENTITY  blockUncommonUnwanted.label     "حذرني من البرمجيات غير المرغوب فيهل و غير الشائعة">
-<!ENTITY  blockUncommonUnwanted.accesskey "غ">
+<!ENTITY  blockUncommonAndUnwanted.label     "حذرني من البرمجيات غير المرغوب فيهل و غير الشائعة">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "غ">
 
 <!ENTITY  addonExceptions.label         "الاستثناءات…">
 <!ENTITY  addonExceptions.accesskey     "ث">

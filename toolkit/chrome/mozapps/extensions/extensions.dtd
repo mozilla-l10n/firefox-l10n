@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "ث">
 <!ENTITY toolsMenu.tooltip                    "أدوات لجميع الإضافات">
 
+<!ENTITY getThemes.description                "هل تبحث عن طريقة لإضفاء طابع شخصي على متصفحك؟">
+<!ENTITY getThemes.learnMore                  "اختر من بين آلاف السمات.">
+
 <!ENTITY cmd.back.tooltip                     "عُد للخلف صفحة واحدة">
 <!ENTITY cmd.forward.tooltip                  "تقدم للأمام صفحة واحدة">
 

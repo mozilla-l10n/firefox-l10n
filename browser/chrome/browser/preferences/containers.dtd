@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "الاسم">
 <!ENTITY addButton.label      "أضف حاوية جديدة">
 <!ENTITY addButton.accesskey  "ح">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#187; عُد إلى الخصوصية">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "الاسم:">
 <!ENTITY name.accesskey       "س">
+
 <!ENTITY icon.label           "الأيقونة:">
 <!ENTITY icon.accesskey       "أ">
 <!ENTITY color.label          "اللون:">

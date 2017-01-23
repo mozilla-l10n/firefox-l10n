@@ -32,8 +32,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "اقطع الاتصال">
 <!ENTITY runtimeMenu_disconnect_accesskey "ص">
-<!ENTITY runtimeMenu_showPermissionTable_label "جدول الصلاحيات">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "ج">
 <!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
@@ -134,10 +132,6 @@
 <!ENTITY prefs_options_keybindings_default "المبدئي">
 
 
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "جدول الصلاحيات">
-<!ENTITY permissionstable_name_header "الاسم">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
@@ -193,7 +187,7 @@
 <!ENTITY simulator_title "خيارات المحاكي">
 <!ENTITY simulator_remove "احذف المحاكي">
 <!ENTITY simulator_reset "استعد الإعدادات المبدئية">
-<!ENTITY simulator_name "الاسم">
+
 <!ENTITY simulator_software "البرمجيات">
 <!ENTITY simulator_version "النسخة">
 

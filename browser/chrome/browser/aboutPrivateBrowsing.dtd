@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "التصفح الخاص ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "لا يجعل هويتك مجهولة">
 <!ENTITY aboutPrivateBrowsing.note.after                 " على الإنترنت. باستطاعة رب عملك أو مزود خدمة الإنترنت معرفة الصفحات التي زرتها.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "اعرف المزيد عن">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "التصفح الخاص">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "اعرف المزيد عن ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "التصفح الخاص">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "الحماية من التعقّب">
 <!ENTITY trackingProtection.description2                 "تستخدم بعض المواقع متعقبات تستطيع مراقبتك نشاطك عبر الإنترنت. مع الحماية من التعقب سيمنع فَيَرفُكس الكثير من المتعقبات التي تجمع معلومات عن سلوكك على الإنترنت.">

@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "اختر ملفًا…">
 <!ENTITY cmd.restoreFromFile.accesskey  "خ">
 
-<!ENTITY cmd.bookmarkLink.label         "علّم هذه الصفحة…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ل">
-<!ENTITY cmd.delete.label               "احذف هذه الصفحة">
-<!ENTITY cmd.delete.accesskey           "ذ">
 <!ENTITY cmd.deleteDomainData.label     "انسَ هذا الموقع">
 <!ENTITY cmd.deleteDomainData.accesskey "ن">
 
