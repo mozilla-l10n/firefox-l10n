@@ -8,16 +8,15 @@
 <!ENTITY syncCustomize.title              "Nəyi sinxronlaşdırmaq istərdiniz?">
 <!ENTITY syncCustomize.description        "Bunları Seçimlərdən dəyişə bilərsiz.">
 <!ENTITY syncCustomizeUnix.description    "Bunları Nizamlamalardan dəyişə bilərsiz.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey       "c">
 <!ENTITY engine.history.label             "Tarixçə">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Vərəqlər">
 <!ENTITY engine.tabs.accesskey            "V">
 <!ENTITY engine.passwords.label           "Parollar">
 <!ENTITY engine.passwords.accesskey       "P">

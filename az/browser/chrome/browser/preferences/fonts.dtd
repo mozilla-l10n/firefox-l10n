@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latınca">
 <!ENTITY  font.langGroup.japanese                 "Yaponca">
 <!ENTITY  font.langGroup.trad-chinese             "Ənənəvi Çincə (Tayvan)">
@@ -56,13 +56,11 @@
 <!ENTITY minSize.label                            "Ən kiçik yazı tipi ölçüsü:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Yoxdur">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Səhifələrə mənim seçdiklərimdən əlavə öz yazı tiplərini seçmə icazəsi ver">
-<!ENTITY  allowPagesToUse.accesskey               "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "İrsi Məzmun üçün mətn simvol kodlaşdırması">
 <!ENTITY languages.customize.Fallback2.label      "Alternativ Mətn Kodlaşdırması:">

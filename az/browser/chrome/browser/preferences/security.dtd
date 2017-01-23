@@ -4,21 +4,17 @@
 
 <!ENTITY  general.label                 "Ümumi">
 
-<!ENTITY  warnAddonInstall.label        "Saytlar əlavə quraşdırmaq istəyəndə məni xəbərdar et">
-<!ENTITY  warnAddonInstall.accesskey    "u">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Təhlükəli və aldadıcı məzmunu blokla">
 <!ENTITY  enableSafeBrowsing.accesskey    "b">
 
 <!ENTITY  blockDownloads.label            "Təhlükəli endirmələri blokla">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "İstənməyən və ümumi olmayan proqram haqqında məni xəbərdar et">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "İstisnalar…">
 <!ENTITY  addonExceptions.accesskey     "s">
