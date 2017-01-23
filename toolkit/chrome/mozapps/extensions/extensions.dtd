@@ -246,4 +246,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "priročnika">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
