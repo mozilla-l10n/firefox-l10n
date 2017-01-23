@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "П">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували &brandShortName; ніколи не запам'ятовувати історію.">
 
-<!ENTITY redirectWindowsSearch.label "Використовувати цей засіб пошуку з Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Засоби пошуку в один клік">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Панель пошуку дозволяє вам напряму використовувати альтернативні засоби пошуку. Виберіть, який з них показувати.">

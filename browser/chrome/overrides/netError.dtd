@@ -197,9 +197,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> використовує технологію захисту, яка є застарілою та вразливою до атак. Зловмисник може легко викрити інформацію, яка на вашу думку знаходиться в безпеці.">
 <!ENTITY weakCryptoAdvanced.override "(Небезпечно) Спробувати завантаження <span class='hostname'></span>, використовуючи застарілий захист">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Неможливо встановити захищене з'єднання з <span id='wrongSystemTime_URL'/>, тому що, схоже, що ваш годинник показує неправильний час.</p><p>Ваш комп'ютер вважає, що зараз <span id='wrongSystemTime_systemDate'/>, в той час як повинно бути <span id='wrongSystemTime_actualDate'/>. Для вирішення цієї проблеми, змініть свої налаштування дати й часу для відповідності правильному часу.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Незахищене з’єднання">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Цей сайт використовує HTTP

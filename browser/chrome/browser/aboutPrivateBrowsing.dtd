@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватний перегляд ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не робить вас анонімним">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Інтернеті. Ваш роботодавець чи постачальник послуг Інтернету все одно може дізнатися про відвідані вами сторінки.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Докладніше про">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Приватний перегляд">
 
 <!ENTITY trackingProtection.title                        "Захист від стеження">
 <!ENTITY trackingProtection.description2                 "Деякі веб-сайти використовують елементи стеження, які можуть спостерігати за вашою діяльністю всюди в Інтернеті. Із функцією захисту від стеження Firefox буде блокувати багато подібних елементів, які можуть збирати інформацію про вашу поведінку в мережі.">
