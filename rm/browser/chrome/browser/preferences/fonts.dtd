@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Cun serifas">
 <!ENTITY  useDefaultFontSansSerif.label           "Senza serifas">
 
-<!ENTITY  allowPagesToUse.label                   "Permetter a paginas d'utilisar atgnas scrittiras empè da las scrittiras tschernidas survart">
-<!ENTITY  allowPagesToUse.accesskey               "d">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codaziun da text per cuntegn nundefinì">
 <!ENTITY languages.customize.Fallback2.label      "Codaziun da text da standard:">

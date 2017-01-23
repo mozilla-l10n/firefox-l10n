@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Il modus privat ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "na ta renda betg anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " en l'internet. Tes patrun u purschider d'internet pon tuttina registrar las paginas che ti visiteschas.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Vegnir a savair dapli davart">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Modus privat">
 
 <!ENTITY trackingProtection.title                        "Protecziun cunter il fastizar:">
 <!ENTITY trackingProtection.description2                 "Intginas websites utiliseschan sistems da fastizar che pon suandar tias activitads en l'internet. Cun la protecziun cunter il fastizar blochescha Firefox blers fastizaders che rimnan infurmaziuns davart tia navigaziun en l'internet.">

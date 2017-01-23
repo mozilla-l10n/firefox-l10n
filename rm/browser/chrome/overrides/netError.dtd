@@ -47,6 +47,8 @@
 <!ENTITY generic.title "Oh Dieu!">
 <!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
 
+
+
 <!ENTITY malformedURI.title "L'adressa è nunvalida">
 <!ENTITY malformedURI.longDesc "
  <ul>
@@ -146,9 +148,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilisescha ina tecnologia da segirezza antiquada e vulnerabla per attatgas. In attatgader pudess leger senza gronds sforzs las infurmaziuns che paran dad esser segiradas.">
 <!ENTITY weakCryptoAdvanced.override "(Betg segir) Emprova da chargiar <span class='hostname'></span> cun utilisar ina tecnologia da segirezza antiquada">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Impussibel da stabilir ina connexiun segirada cun <span id='wrongSystemTime_URL'/> perquai che tia ura na para betg da mussar il temp correct.</p> <p>Tes computer pensa ch'i saja las <span id='wrongSystemTime_systemDate'/>, fertant ch'i stuess esser las <span id='wrongSystemTime_actualDate'/>. Curregia la data ed il temp da tes computer per schliar il problem.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa website utilisescha HTTP
