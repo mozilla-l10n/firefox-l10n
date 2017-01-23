@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Inställningar - webbplatsdata">
+<!ENTITY     settings.description          "Följande webbplatser har bett om att lagra webbplatsdata på din disk. Du kan ange vilka webbplatser som får lagra webbplatsdata. Standard för webbplatsdata är tillfällig och kan tas bort automatiskt.">
+<!ENTITY     hostCol.label                 "Webbplats">
+<!ENTITY     statusCol.label               "Status">
+<!ENTITY     usageCol.label                "Lagring">
+<!ENTITY     search.label                  "Sök:">
+<!ENTITY     search.accesskey              "S">
