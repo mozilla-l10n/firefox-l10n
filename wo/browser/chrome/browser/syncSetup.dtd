@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountSetupTitle.label    "Tabbinu &syncBrand.fullName.label;">
-<!-- First page of the wizard -->
 
+<!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "Dalal jamm! su fekkee mësuloo jëfandikoo &syncBrand.fullName.label; da nga wara sos koont bu bees ba pare.">
 <!ENTITY button.createNewAccount.label "Sos koont bu bees">
@@ -13,8 +13,8 @@
 <!ENTITY setup.choicePage.title.label     "Ndax mës nga jëfandikoo &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Mësumoo jëfandikoo &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing2.label "Maa ngiy jëfandikoo &syncBrand.shortName.label; ci beneen aparey">
-<!-- New Account AND Existing Account -->
 
+<!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwëër">
 <!ENTITY serverType.default.label      "Ñakk ndigal: servëëru Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Jëfandikoo serwëër bu ñu solal…">
@@ -24,8 +24,8 @@
 <!ENTITY signIn.password.accesskey  "B">
 <!ENTITY signIn.recoveryKey.label       "Caabi jëli">
 <!ENTITY signIn.recoveryKey.accesskey   "j">
-<!-- New Account Page 1: Basic Account Info -->
 
+<!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Benn bennali koont bi">
 <!ENTITY setup.emailAddress.label     "Màkkaan email">
 <!ENTITY setup.emailAddress.accesskey "e">
@@ -33,9 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.confirmPassword.label     "Dëggal baatu caabi bi">
 <!ENTITY setup.confirmPassword.accesskey "D">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "Nangu naa">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Ni ñu koy jëfandikoo">
@@ -43,8 +43,8 @@
 <!ENTITY setup.ppLink.label         "Politigu biir">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- My Recovery Key dialog -->
 
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; wormal na sa dundu biir">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Ngir weg sa dundu biir yépp, say rootaan suul ci lim laata ñu yonnee leen. Caabi biy sulli say rootaan kenn du ko joxe.">
 <!ENTITY recoveryKeyEntry.label        "Sa caabi jëli">
@@ -56,28 +56,25 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "M">
 <!ENTITY button.syncKeyBackup.save.label      "Aar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "A">
-<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Boole ak benn aparey">
 <!ENTITY addDevice.showMeHow.label          "Nan la?">
 <!ENTITY addDevice.dontHaveDevice.label     "Amewuma aparey ak man">
-
 <!ENTITY addDevice.setup.enterCode.label    "Dugalal léegi kod bii:">
-
 <!ENTITY addDevice.dialog.enterCode.label   "Dugalal kod bi aparey bi waccee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Jéemaatal.">
 <!ENTITY addDevice.dialog.successful.label  "Aparey yokku na. Jàppante bi jëkk mën na jël simili yu bari te nara jeex ci ginnaw.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Boo bëggee suqali aparey bi, war nga dugal sa caabi jàppante. Aar ko walla nga móol ko ngir mu bañ la sori.">
 <!ENTITY addDevice.dialog.connected.label   "Aparey bu jokkoo">
+
 <!-- Existing Account Page 2: Manual Login -->
-
 <!ENTITY setup.signInPage.title.label "Jokkoo">
-
 <!ENTITY verifying.label              "Wóorliku…">
 <!ENTITY resetPassword.label          "Suqali baatu jàll">
 <!ENTITY resetSyncKey.label           "Mënatuma agg ci sama beneen aparey">
-<!-- Sync Options -->
 
+<!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Tannéefi synchronisation">
 <!ENTITY syncDeviceName.label       "Turu aparey bi :">
 <!ENTITY syncDeviceName.accesskey   "T">
@@ -85,7 +82,6 @@
 <!ENTITY syncMy.label               "Jàppanteel">
 <!ENTITY engine.bookmarks.label     "Mandarga xët">
 <!ENTITY engine.bookmarks.accesskey "g">
-<!ENTITY engine.tabs.label          "Koñ yi">
 <!ENTITY engine.tabs.accesskey      "y">
 <!ENTITY engine.history.label       "Jaar jaar bi">
 <!ENTITY engine.history.accesskey   "j">
@@ -100,15 +96,15 @@
 <!ENTITY choice2.merge.recommended.label "Digale nañu ko:">
 <!ENTITY choice2a.client.main.label      "Wuutal rootaani ordintëër yépp ak samay rootaan ci &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Wuutal rootaani samay yeneen aparey ak rootaani ordinatëër bile">
-<!-- Confirm Merge Options -->
 
+<!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Dëggal">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; dina boole léegi rootani joowkatu ordinatëër bii ak sa koont Sync.">
 <!ENTITY confirm.client3.label         "Moytul: Rootaan yii yu &brandShortName; dina màbb ci ordinatëër bii:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; dina duppi ginnaaw loolu say rootaani &syncBrand.fullName.label; ci ordinatëër bii.">
 <!ENTITY confirm.server2.label         "Moytul: Say rootaani barab dina ñu moxane rootaani aparey yii:">
-<!-- New & Existing Account: Setup Complete -->
 
+<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Tabbin bi sotti na">
 <!ENTITY changeOptions.label "Tànn bii mën sa soppeeku boo falee tànnéefi jàppante fii ci suuf.">
 <!ENTITY continueUsing.label "Mën nga léegi jëfandikuwaat bu jaar yoon &brandShortName;.">

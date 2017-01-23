@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Kaggu">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tànn benn dencukaay…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Mandargaal xët bile…">
-<!ENTITY cmd.bookmarkLink.accesskey     "M">
-<!ENTITY cmd.delete.label               "Màbb xët bile">
-<!ENTITY cmd.delete.accesskey           "M">
 <!ENTITY cmd.deleteDomainData.label     "Fatte dal bile">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
@@ -52,8 +48,6 @@
 <!ENTITY cmd.open.accesskey              "U">
 <!ENTITY cmd.open_window.label           "Ubbi palanteer bu bees">
 <!ENTITY cmd.open_window.accesskey       "p">
-
-
 <!ENTITY cmd.open_tab.label              "Ubbi koñ bu bees">
 <!ENTITY cmd.open_tab.accesskey          "k">
 <!ENTITY cmd.open_all_in_tabs.label      "Ubbi lépp ci ay koñ">
@@ -83,7 +77,6 @@
 <!ENTITY col.name.label          "Tur">
 <!ENTITY col.tags.label          "Etiket yi">
 <!ENTITY col.url.label           "Màkkaan">
-
 <!ENTITY col.visitcount.label    "Waññu gane yi">
 <!ENTITY col.description.label   "Nettali bi">
 <!ENTITY col.dateadded.label     "Besu yokk">

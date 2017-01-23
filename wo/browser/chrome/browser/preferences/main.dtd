@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "Bu &brandShortName; tambalee :">
 <!ENTITY startupPage.accesskey     "t">
-<!ENTITY startupHomePage.label     "Wane sama xëtu dalal jamm">
 <!ENTITY startupBlankPage.label    "Wane xët bu wëyëŋ">
-<!ENTITY startupLastSession.label  "Wane koñ yi mujj ak palanteer yi ñu jëfandikoo">
 
 <!ENTITY homepage.label            "Xëtu dalal jamm :">
 <!ENTITY homepage.accesskey        "a">
@@ -28,15 +26,7 @@
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Tànn…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Laaj saa su ne fan la ñuy aar dencukaay yi">
-<!ENTITY alwaysAsk.accesskey "L">
-
-
-
 
 <!ENTITY isDefault.label                  "&brandShortName; mooy leegi sa joowukaay ñakk ndigal">
-
-
-
 
 

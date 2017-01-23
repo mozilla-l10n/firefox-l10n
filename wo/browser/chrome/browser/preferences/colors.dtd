@@ -8,10 +8,6 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Saa su ne">
-
-<!ENTITY  overridePageColors.never.label  "Mukk">
-
 <!ENTITY  color                           "Mbind ak laltu">
 <!ENTITY  textColor.label                 "Mbind :">
 <!ENTITY  textColor.accesskey             "M">

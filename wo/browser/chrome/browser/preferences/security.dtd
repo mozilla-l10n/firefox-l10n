@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "Ëmb lépp">
 
-<!ENTITY  warnAddonInstall.label        "Yëgle su fekkee dafa am ay dal yuy jeema samp ay modili mottali">
-<!ENTITY  warnAddonInstall.accesskey    "Y">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

@@ -51,8 +51,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Nangu xët yi tànn seen njabooti arafi bopp">
-<!ENTITY  allowPagesToUse.accesskey               "N">
 
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
