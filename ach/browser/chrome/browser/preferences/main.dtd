@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Ka &brandShortName; ocake:">
 <!ENTITY startupPage.accesskey     "o">
-<!ENTITY startupHomePage.label     "Nyut pot buk me gang mamega">
+
 <!ENTITY startupBlankPage.label    "Nyut pot buk ma tye nono">
-<!ENTITY startupLastSession.label  "Nyut dirica kacel ki dirca matino mamega ma ceng ca">
+
 
 <!ENTITY homepage.label            "Pot buk me gang:">
 <!ENTITY homepage.accesskey        "u">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Yer…">
 <!ENTITY chooseFolderMac.accesskey    "r">
-<!ENTITY alwaysAsk.label "Jwi penya kwene me gwoko pwail">
-<!ENTITY alwaysAsk.accesskey "J">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Jwijwi rot kace &brandShortName; tye layeny mamegi makwongo">
 <!ENTITY alwaysCheckDefault2.accesskey    "j">

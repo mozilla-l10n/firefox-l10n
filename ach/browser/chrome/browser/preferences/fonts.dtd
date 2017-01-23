@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Wek pot buk oyer dit me coc mamegi, me kaka yer mamega ma malo ni">
-<!ENTITY  allowPagesToUse.accesskey               "W">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kit ma kicoyo kwede pi gin manonge iye ma loko ne tek">
 <!ENTITY languages.customize.Fallback2.label      "Loko coc i kod me dok cen:">

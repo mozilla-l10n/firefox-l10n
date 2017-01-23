@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Wek kube">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Meca me twero">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Cal me wang kio">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Ngec me cawa tic">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Makwongo">
 <!ENTITY prefs_options_autosavefiles "Pwail ma gwoke kengi">
 <!ENTITY prefs_options_autosavefiles_tooltip "Gwok pwail ma ki yubo gi pi gi kengi ma pud pe i cako tic atima">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Meca me twero">
-<!ENTITY permissionstable_name_header "Nying">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Ngec me cawa me tic">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Ter me Cuma">
 <!ENTITY simulator_remove "Kwany Cuma">
 <!ENTITY simulator_reset "Dwok makwongo">
-<!ENTITY simulator_name "Nying">
+
 <!ENTITY simulator_software "Purugram">
 <!ENTITY simulator_version "Cik">
 <!ENTITY simulator_profile "Propwail">

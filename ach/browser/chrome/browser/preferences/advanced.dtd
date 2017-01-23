@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Jwijwi tii ki lagony me cursor me wot iye pot buk">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Yeny coc ka acako coyo coc">
-<!ENTITY searchStartTyping.accesskey     "c">
-<!ENTITY blockAutoRefresh.label          "Miya ngec kace kakube tye katemo me cwalo onyo cano pot buk">
-<!ENTITY blockAutoRefresh.accesskey      "k">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "a">
 <!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">
-<!ENTITY checkSpelling.label             "Rot nukta na kun nongo atye kacoc">
-<!ENTITY checkSpelling.accesskey         "R">
+
+
 
 <!ENTITY dataChoicesTab.label            "Yer me tic">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Gin manonge iye me kakube ma kikano">
 
 <!ENTITY offlineStorage2.label           "Gin manonge iye me kakube ma pe iwiyamo kacel ki tic pa ngat matiyo kwede">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Ngec manyen">
 
-<!ENTITY updateApp.label                 "&brandShortName; ngec manyen:">
 <!ENTITY updateAuto1.label               "Ket ngec manyen pire kene (kicwako: ber bedo i rwom mamalo)">
 <!ENTITY updateAuto1.accesskey           "n">
-<!ENTITY updateCheck.label               "Rot pi ngec manyen, ento wek an ayer kace aketgi">
-<!ENTITY updateCheck.accesskey           "R">
+
+
 <!ENTITY updateManual.label              "Pe i rot pi ngec manyen matwal (pe kicwako: ber bedo pe gene)">
 <!ENTITY updateManual.accesskey          "P">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Tii ki tic ma angec me keto ngec manyennen pi keto ngec">
 <!ENTITY useService.accesskey            "t">
 
-<!ENTITY updateOthers.label              "Ket ngec manyen pire kene:">
 <!ENTITY enableSearchUpdate.label        "Gin me Yeny">
 <!ENTITY enableSearchUpdate.accesskey    "i">
 
-<!ENTITY offlineNotify.label             "Miya ngec kace kakube penyo me kano tic pi tic kwede ma nongo pe okube iwi yamo">
-<!ENTITY offlineNotify.accesskey         "M">
-<!ENTITY offlineNotifyExceptions.label   "Ma kiweko woko…">
-<!ENTITY offlineNotifyExceptions.accesskey "i">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Ma kiweko woko…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "i">
 
 <!ENTITY offlineAppsList2.label          "Kakube magi ki ye ki gin me kano tic p tic kwedgi ma nongo pe okube iwi yamo:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -104,12 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "Kwany tic ma nongo pe okube iwi yamo">
 
 <!ENTITY certificateTab.label            "Waraga">
-<!ENTITY certSelection.label             "Kwac">
-<!ENTITY certSelection.description       "Kace lapok tic okwayo pi waraga mamega:">
-<!ENTITY certs.auto                      "Yer acel pire kene">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Penya cawa weng">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Kwac">
+
+<!ENTITY selectCerts.auto                "Yer acel pire kene">
+
+
+
 <!ENTITY enableOCSP.label                "Yeny lapok tic ma miyo lagam pa OCSP me moko kare me tic ma kombedi pa waraga">
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts.label                 "Nen karatac lok ada">

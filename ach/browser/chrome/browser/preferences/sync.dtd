@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Tim marom">
 <!ENTITY engine.bookmarks.label     "Alama me buk">
 <!ENTITY engine.bookmarks.accesskey "l">
-<!ENTITY engine.tabs.label          "Dirica matino">
-<!ENTITY engine.tabs.accesskey      "D">
+
+
 <!ENTITY engine.history.label       "Gin mukato">
 <!ENTITY engine.history.accesskey   "m">
 <!ENTITY engine.passwords.label     "Mung me donyo">

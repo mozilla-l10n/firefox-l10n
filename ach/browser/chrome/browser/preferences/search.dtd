@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero &brandShortName; pe me poo ikom gin mukato matwal.">
 
-<!ENTITY redirectWindowsSearch.label "Tii ki injin yeny man pi yeny ki i Dirica">
-<!ENTITY redirectWindowsSearch.accesskey "D">
-
 <!ENTITY oneClickSearchEngines.label           "Ingin me yeny ma idiyo kicel">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Lanyut me yeny weko i yenyo atir ingin ma igwenyo kingi. Yer mene me nyuto kama leng.">

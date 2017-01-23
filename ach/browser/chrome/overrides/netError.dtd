@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ayi.">
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
-<!ENTITY captivePortal.title "Dony iyie netwak">
-<!ENTITY captivePortal.longDesc "<p>Twero mite ni myero i dony iyie netwak man me nongo intanet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Yab pot buk me donyo iyie">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ma lamal">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> tiyo ki diro me gwoko ber bedo ma dong kare okato woko ki goro. Ngat mo romo nyuto ngec ma i tamo ni kigwoko maber ni i yo ma yot.">
 <!ENTITY weakCryptoAdvanced.override "(Pe ki ber bedo) Tem cano <span class='hostname'></span> tiyo ki gwoko ber bedo ma kare ne okato woko">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Kube ki ber bedo i <span id='wrongSystemTime_URL'/> pe lare pien nen calo cawa ni pe tye kakare.</p> <p>Kompuita ni tamo ni tye <span id='wrongSystemTime_systemDate'/>, kun myero obed <span id='wrongSystemTime_actualDate'/>. Me yubo peko man, lok ter me nino dwe ki cawa orwate ki ma tye kakare.</p>">
 
 <!ENTITY certerror.pagetitle1  "Kube ma pe ki ber bedo">
 

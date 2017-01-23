@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Yer Pwail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Y">
 
-<!ENTITY cmd.bookmarkLink.label         "Ket alama me buk i pot buk man…">
-<!ENTITY cmd.bookmarkLink.accesskey     "K">
-<!ENTITY cmd.delete.label               "Kwany pot buk man">
-<!ENTITY cmd.delete.accesskey           "K">
 <!ENTITY cmd.deleteDomainData.label     "Wek wii owil woko ikom pot buk man">
 <!ENTITY cmd.deleteDomainData.accesskey "W">
 

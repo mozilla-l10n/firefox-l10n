@@ -471,7 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "d">
 <!ENTITY openFrameCmd.label           "Yab pem i dirica manyen">
 <!ENTITY openFrameCmd.accesskey       "d">
-<!ENTITY openLinkCmdInContainerTab.label "Yab lakub kin jami i Dirica me Lamak Jami Manyen">
+
 
 <!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
@@ -747,6 +747,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Yab ter me &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Yab">
 <!ENTITY syncedTabs.context.open.accesskey                   "Y">
@@ -760,6 +764,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "K">
 <!ENTITY syncedTabs.context.copy.label                       "Lok">
 <!ENTITY syncedTabs.context.copy.accesskey                   "L">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Tim marom">
