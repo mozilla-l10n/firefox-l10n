@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
-<!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
-<!ENTITY captivePortal.longDesc "<p>És possible que aquesta xarxa us demani que inicieu la sessió per accedir a Internet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Obre la pàgina d'inici de sessió">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avançat">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura.">
 <!ENTITY weakCryptoAdvanced.override "(Insegur) Intenta carregar <span class='hostname'></span> amb la seguretat obsoleta">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>No es pot establir una connexió segura a <span id='wrongSystemTime_URL'/> perquè sembla que l'hora del rellotge del sistema no és correcta.</p> <p>L'ordinador pensa que és <span id='wrongSystemTime_systemDate'/>, però hauria de ser <span id='wrongSystemTime_actualDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb l'hora correcta.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexió insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir una excepció per a aquest certificat.">

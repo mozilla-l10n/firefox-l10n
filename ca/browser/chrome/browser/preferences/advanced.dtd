@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per navegar en les pàgines">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Cerca un text quan comenci a teclejar">
-<!ENTITY searchStartTyping.accesskey     "e">
-<!ENTITY blockAutoRefresh.label          "Avisa'm quan els llocs web provin de redirigir o actualitzar la pàgina">
-<!ENTITY blockAutoRefresh.accesskey      "v">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Mostra un teclat tàctil quan calgui">
 <!ENTITY useOnScreenKeyboard.accesskey   "M">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Verifica l'ortografia a mesura que s'escriu">
-<!ENTITY checkSpelling.accesskey         "o">
+
+
 
 <!ENTITY dataChoicesTab.label            "Elecció de dades">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Contingut web en memòria cau">
 
 <!ENTITY offlineStorage2.label           "Contingut web i dades de l'usuari fora de línia">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
-<!ENTITY updateApp.label                 "Actualitzacions del &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Cerca actualitzacions, però demana'm si vull instal·lar-les">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY updateOthers.label              "Actualitza automàticament:">
 <!ENTITY enableSearchUpdate.label        "Motors de cerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Avisa'm quan un lloc web demani emmagatzemar dades per utilitzar-les fora de línia">
-<!ENTITY offlineNotify.accesskey         "f">
-<!ENTITY offlineNotifyExceptions.label   "Excepcions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Els llocs web següents poden desar dades per utilitzar-les fora de línia:">
 <!ENTITY offlineAppsList.height          "8em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Suprimeix les dades fora de línia">
 
 <!ENTITY certificateTab.label            "Certificats">
-<!ENTITY certSelection.label             "Sol·licituds">
-<!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">
-<!ENTITY certs.auto                      "Selecciona'n un automàticament">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Demana-m'ho cada vegada">
-<!ENTITY certs.ask.accesskey             "D">
+<!ENTITY certPersonal.label              "Sol·licituds">
+
+<!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
+
+
+
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Visualitza els certificats">

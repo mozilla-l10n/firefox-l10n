@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Permet a les pàgines triar els seus propis tipus de lletra, en lloc de la meva selecció">
-<!ENTITY  allowPagesToUse.accesskey               "e">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificació del text per al contingut antic">
 <!ENTITY languages.customize.Fallback2.label      "Codificació del text alternativa:">

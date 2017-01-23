@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Envia'm un missatge de correu quan hi hagi més informació disponible">
 <!ENTITY tabCrashed.reportSent "Ja s'ha enviat l'informe de fallada. Gràcies per ajudar a millorar el &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informa de les pestanyes a segon pla">
-<!ENTITY tabCrashed.autoSubmit "Actualitza les preferències per tal que s'enviïn automàticament els informes de fallada pendents (i per veure menys missatges com aquest en el futur)">
+
