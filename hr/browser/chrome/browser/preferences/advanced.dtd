@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Uvijek koristi tipke pokazivača za navigaciju unutar stranica">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Pretražuj tekst pri upisivanju">
-<!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Upozori me kad se web stranica pokuša osvježiti ili me pokuša preusmjeriti">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Prikaži tipkovnicu na zaslonu kada je potrebno">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
-<!ENTITY checkSpelling.accesskey         "v">
+
+
 
 <!ENTITY dataChoicesTab.label            "Izbori podataka">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Web sadržaj u priručnoj memoriji">
 
 <!ENTITY offlineStorage2.label           "Izvanmrežni web sadržaj i korisnički podaci">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Nadogradnje">
 
-<!ENTITY updateApp.label                 "&brandShortName; dopune:">
 <!ENTITY updateAuto1.label               "Automatski instaliraj dopune (preporučeno: sigurnije)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Provjeri dostupnost dopuna, ali mi ponudi instalaciju">
-<!ENTITY updateCheck.accesskey           "c">
+
+
 <!ENTITY updateManual.label              "Nikada ne provjeravaj dostupnost dopuna (nije preporučeno: sigurnosni rizik)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju dopuna">
 <!ENTITY useService.accesskey            "K">
 
-<!ENTITY updateOthers.label              "Automatski ažuriraj:">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "t">
 
-<!ENTITY offlineNotify.label             "Obavijesti me kad web stranica zatraži spremanje podataka za izvanmrežno korištenje">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Iznimke…">
-<!ENTITY offlineNotifyExceptions.accesskey "z">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Iznimke…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
 <!ENTITY offlineAppsList2.label          "Sljedeće web stranice imaju dopuštenje spremiti podatke za izvanmrežno korištenje:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Ukloni izvanmrežne podatke">
 
 <!ENTITY certificateTab.label            "Certifikati">
-<!ENTITY certSelection.label             "Zahtjevi">
-<!ENTITY certSelection.description       "Kad poslužitelj zatraži moje osobni certifikat:">
-<!ENTITY certs.auto                      "Automatski označi jednoga">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Upitaj me svaki put">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Zahtjevi">
+
+<!ENTITY selectCerts.auto                "Automatski označi jednoga">
+
+
+
 <!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata">
 <!ENTITY enableOCSP.accesskey            "U">
 <!ENTITY viewCerts.label                 "Prikaz certifikata">

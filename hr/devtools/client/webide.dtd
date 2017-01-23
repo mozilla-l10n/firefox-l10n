@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
 <!ENTITY runtimeMenu_disconnect_accesskey "k">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tablica dopuštenja">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Slika zaslona">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Informacije o vremenu izvršavanja">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Zadano">
 <!ENTITY prefs_options_autosavefiles "Automatsko spremanje datoteka">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automatski sprema uređene datoteke prije pokretanja projekta">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Tablica dopuštenja">
-<!ENTITY permissionstable_name_header "Naziv">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije o vremenu izvršavanja">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Mogućnosti simulatora">
 <!ENTITY simulator_remove "Obriši simulator">
 <!ENTITY simulator_reset "Vrati zadano">
-<!ENTITY simulator_name "Naziv">
+
 <!ENTITY simulator_software "Softver">
 <!ENTITY simulator_version "Inačica">
 <!ENTITY simulator_profile "Profil">
