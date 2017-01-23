@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Terputus">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Maklumat Runtime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Piawai">
 <!ENTITY prefs_options_autosavefiles "Autosimpan fail">
 <!ENTITY prefs_options_autosavefiles_tooltip "Simpan fail yang diedit secara automatik sebelum projek dijalankan">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Permissions Table">
-<!ENTITY permissionstable_name_header "Nama">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Maklumat Runtime">

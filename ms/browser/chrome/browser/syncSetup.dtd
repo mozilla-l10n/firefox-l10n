@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Tandabuku">
 <!ENTITY engine.bookmarks.accesskey "b">
-<!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">

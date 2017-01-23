@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Selamat Datang ke &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Akaun berjaya dihubungkan">
 
 <!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab, tandabuku, kata laluan &amp; serta ciri yang lain.">
 <!ENTITY aboutAccountsConfig.startButton.label "Mari mulakan">

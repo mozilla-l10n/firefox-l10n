@@ -197,9 +197,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keselamatan yang usang dan terdedah kepada serangan. Penyerang dengan mudah boleh mendedahkan maklumat yang anda fikir selamat.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak selamat) Cuba memuatkan <span class='hostname'></span> menggunakan keselamatan yang usang">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Sambungan internet yang selamat ke <span id='wrongSystemTime_URL'/> tidak berjaya kerana jam anda menunjukkan masa yang salah.</p> <p>Komputer anda mengira masa sekarang ialah <span id='wrongSystemTime_systemDate'/>, yang sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk menyelesaikan masalah ini, tukar tetapan tarikh dan masa anda untuk menyesuaikan masa yang betul.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak selamat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP
