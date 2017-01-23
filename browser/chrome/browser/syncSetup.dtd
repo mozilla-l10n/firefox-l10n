@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sinkroniziraj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "b">
-<!ENTITY engine.tabs.label          "Kartice">
-<!ENTITY engine.tabs.accesskey      "K">
+
+
 <!ENTITY engine.history.label       "Povijest">
 <!ENTITY engine.history.accesskey   "v">
 <!ENTITY engine.passwords.label     "Lozinke">

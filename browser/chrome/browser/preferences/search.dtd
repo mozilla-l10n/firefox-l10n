@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili &brandShortName; da ne pamti povijest.">
 
-<!ENTITY redirectWindowsSearch.label "Koristi ovu tražili za pretrage iz Windowsa">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Tražilice jednog klika">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Traka pretraživanja vam omogućava izravno korištenje tražilica. Odaberite one koje želite da budu prikazane.">

@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "Z">
 <!ENTITY engine.history.label             "Povijest">
 <!ENTITY engine.history.accesskey         "v">
-<!ENTITY engine.tabs.label                "Kartice">
-<!ENTITY engine.tabs.accesskey            "K">
+
+
 <!ENTITY engine.passwords.label           "Lozinke">
 <!ENTITY engine.passwords.accesskey       "L">
 <!ENTITY engine.addons.label              "Dodaci za desktop inačicu">

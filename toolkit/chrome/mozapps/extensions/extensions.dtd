@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Alati za sve dodatke">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Povratak na prethodnu stranicu">
 <!ENTITY cmd.forward.tooltip                  "Odlazak na iduću stranicu">
 
