@@ -195,9 +195,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може доћи до ваших информација.">
 <!ENTITY weakCryptoAdvanced.override "(Није безбедно) Покушавате да учитате <span class='hostname'></span> користећи застарелу безбедност">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Безбедна конекција до <span id='wrongSystemTime_URL'/> није могућа зато што ваш сат показује погрешно време.</p> <p>Ваш рачунар мисли да је <span id='wrongSystemTime_systemDate'/>, а требало би да буде <span id='wrongSystemTime_actualDate'/>. Да решите овај проблем, промените поставке времена.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Несигурна веза">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Овај сајт користи HTTP

@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "З">
 <!ENTITY engine.history.label             "Историјат">
 <!ENTITY engine.history.accesskey         "И">
-<!ENTITY engine.tabs.label                "Језичци">
 <!ENTITY engine.tabs.accesskey            "Ј">
 <!ENTITY engine.passwords.label           "Лозинке">
 <!ENTITY engine.passwords.accesskey       "Л">
