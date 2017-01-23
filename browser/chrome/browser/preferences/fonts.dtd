@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "سِریف">
 <!ENTITY  useDefaultFontSansSerif.label           "بدون سِریف">
 
-<!ENTITY  allowPagesToUse.label                   "به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
-<!ENTITY  allowPagesToUse.accesskey               "ج">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "کدگذاری متن برای محتوای قدیمی">
 <!ENTITY languages.customize.Fallback2.label      "کدگذاری متن و جانشین">
