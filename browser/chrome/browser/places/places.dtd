@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "បណ្ណាល័យ">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ជ្រើស​ឯកសារ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ជ">
 
-<!ENTITY cmd.bookmarkLink.label         "ចំណាំ​ទំព័រ​នេះ...">
-<!ENTITY cmd.bookmarkLink.accesskey     "ច">
-<!ENTITY cmd.delete.label               "លុប​ទំព័រ​នេះ">
-<!ENTITY cmd.delete.accesskey           "ល">
 <!ENTITY cmd.deleteDomainData.label     "បំភ្លេច​តំបន់​បណ្ដាញ​នេះ">
 <!ENTITY cmd.deleteDomainData.accesskey "ប">
 

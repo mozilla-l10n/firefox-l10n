@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ផ្ដាច់">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "តារាង​គ្រប់គ្រង​សិទ្ធិ">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "រូបថត​អេក្រង់">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ព័ត៌មាន​ពេល​ដំណើរការ">
@@ -58,9 +56,9 @@
 
 <!ENTITY projectButton_label "បើក​កម្មវិធី">
 <!ENTITY runtimeButton_label "ជ្រើស​ពេលវេលា​ដំណើរការ">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -88,7 +86,6 @@
 <!ENTITY runtimePanel_nousbdevice "មិន​អាច​មើល​ឧបករណ៍​របស់​អ្នក?">
 
 <!-- Lense -->
-
 <!ENTITY details_valid_header "ត្រឹមត្រូវ">
 <!ENTITY details_warning_header "ការ​ព្រមាន">
 <!ENTITY details_error_header "កំហុស">
@@ -97,23 +94,23 @@
 <!ENTITY details_manifestURL "លេខ​សម្គាល់​ក​កម្មវិធី">
 <!ENTITY details_removeProject_button "លុប​គម្រោង​ចេញ">
 <!ENTITY details_showPrepackageLog_button "បង្ហាញ​កំណត់ហេតុ​កញ្ចប់​ជា​មុន">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "កម្មវិធី​ថ្មី">
 <!ENTITY newAppHeader "ជ្រើស​ពុម្ព">
 <!ENTITY newAppLoadingTemplate "កំពុង​ផ្ទុក​ពុម្ព…">
 <!ENTITY newAppProjectName "ឈ្មោះ​គម្រោង៖">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "បិទ">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "សមាសភាគ​ខាងក្រៅ">
 <!ENTITY addons_aboutaddons "បើក​កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "ចំណូលចិត្ត">
 <!ENTITY prefs_editor_title "កម្មវិធី​កែសម្រួល">
 <!ENTITY prefs_general_title "ទូទៅ">
@@ -139,13 +136,7 @@
 <!ENTITY prefs_options_keybindings "បន្សំ​គ្រាប់​ចុច">
 <!ENTITY prefs_options_keybindings_default "លំនាំ​ដើម">
 
-
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "តារាង​គ្រប់គ្រង​សិទ្ធិ">
-<!ENTITY permissionstable_name_header "ឈ្មោះ">
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "ព័ត៌មាន​ពេល​ដំណើរការ">
 <!ENTITY runtimedetails_adbIsRoot "ADB ជា root: ">
 <!ENTITY runtimedetails_summonADBRoot "ឧបករណ៍​ជា root">
@@ -153,36 +144,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "សិទ្ធិ DevTools ដែល​មិន​បាន​ដាក់​កម្រិត៖ ">
 <!ENTITY runtimedetails_requestPrivileges "ស្នើ​សិទ្ធិ​ខ្ពស់​ជាង​នេះ">
 <!ENTITY runtimedetails_privilegesWarning "(នឹង​ចាប់ផ្ដើម​ឧបករណ៍​ឡើង​វិញ ។ ទាមទារ​ដំណើរការ​ជា root ។)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "ប៊ូលីន">
 <!ENTITY device_typenumber "ចំនួន​គត់">
 <!ENTITY device_typestring "តួអក្សរ">
 <!ENTITY device_typeobject "វត្ថុ">
 <!ENTITY device_typenone "ជ្រើស​ប្រភេទ">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "ចំណូលចិត្ត​ឧបករណ៍">
 <!ENTITY devicepreference_search "ចំណូលចិត្ត​ស្វែងរក">
 <!ENTITY devicepreference_newname "ឈ្មោះ​ចំណូលចិត្ត​ថ្មី">
 <!ENTITY devicepreference_newtext "តម្លៃ​ចំណូលចិត្ត">
 <!ENTITY devicepreference_addnew "បន្ថែម​ចំណូលចិត្ត​ថ្មី">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "ការ​កំណត់​ឧបករណ៍">
 <!ENTITY devicesetting_search "ការ​កំណត់​ការ​ស្វែងរក">
 <!ENTITY devicesetting_newname "ឈ្មោះ​ការ​កំណត់​ថ្មី">
 <!ENTITY devicesetting_newtext "តម្លៃ​ការ​កំណត់">
 <!ENTITY devicesetting_addnew "បន្ថែម​ការ​កំណត់​ថ្មី">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "ម៉ូនីទ័រ">
 <!ENTITY monitor_help "ជំនួយ">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "ការ​បញ្ជាក់​អត្តសញ្ញាណម៉ាស៊ីន​កូន">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -198,10 +189,9 @@
 <!ENTITY wifi_auth_token_request "បើ​ឧបករណ៍​ផ្សេង​របស់​អ្នក​សួរ​រក​ថូខឹន​ជំនួស​ឲ្យ​ការ​ស្កេន​លេខ​កូដ QR, សូម​ចម្លង​តម្លៃ​ខាងក្រោម​ទៅកាន់​ឧបករណ៍​របស់​អ្នក៖">
 
 <!-- Logs panel -->
-
 <!ENTITY logs_title "កំណត់ហេតុ​ពាក្យ​បញ្ជា​ការ​វេច​ខ្ចប់​ជាមុន">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "ជម្រើស​​កម្មវិធី​​ធ្វើ​តេស្ដ">
 <!ENTITY simulator_remove "លុប​កម្មវិធី​ធ្វើ​តេស្ដ">
 <!ENTITY simulator_reset "ស្ដារ​លំនាំ​ដើម">
@@ -213,6 +203,3 @@
 <!ENTITY simulator_device "ឧបករណ៍">
 <!ENTITY simulator_screenSize "អេក្រង់">
 <!ENTITY simulator_pixelRatio "ផលធៀប​ជា​ភីកសែល">
-
-
-
