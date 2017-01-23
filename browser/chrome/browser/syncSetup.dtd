@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Synkronoi">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
 <!ENTITY engine.bookmarks.accesskey "K">
-<!ENTITY engine.tabs.label          "Välilehdet">
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Sivuhistoria">
 <!ENTITY engine.history.accesskey   "S">

@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "K">
 <!ENTITY engine.history.label             "Sivuhistoria">
 <!ENTITY engine.history.accesskey         "S">
-<!ENTITY engine.tabs.label                "Välilehdet">
 <!ENTITY engine.tabs.accesskey            "V">
 <!ENTITY engine.passwords.label           "Salasanat">
 <!ENTITY engine.passwords.accesskey       "a">

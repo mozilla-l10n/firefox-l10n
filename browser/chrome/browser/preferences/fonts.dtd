@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Pääteviivallinen">
 <!ENTITY  useDefaultFontSansSerif.label           "Pääteviivaton">
 
-<!ENTITY  allowPagesToUse.label                   "Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan">
-<!ENTITY  allowPagesToUse.accesskey               "u">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Merkistökoodaus perinteiselle sisällölle">
 <!ENTITY languages.customize.Fallback2.label      "Merkistökoodaus virhetilanteessa:">
