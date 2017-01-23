@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
 
+<!ENTITY getThemes.learnMore                  "Milhares de temas para escolher.">
+
 <!ENTITY cmd.back.tooltip                     "Voltar uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
 
