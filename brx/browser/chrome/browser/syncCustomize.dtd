@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "म">
 <!ENTITY engine.history.label             "जारिमिन">
 <!ENTITY engine.history.accesskey         "म">
-<!ENTITY engine.tabs.label                "टेबफोर">
-<!ENTITY engine.tabs.accesskey            "ट">
+
+
 <!ENTITY engine.passwords.label           "बारग'सोदोबफोर">
 <!ENTITY engine.passwords.accesskey       "ब">
 <!ENTITY engine.addons.label              "डेस्कटप Add-ons">

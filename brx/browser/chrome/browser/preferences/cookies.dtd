@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "नागिर: (S)">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "बन्द खालाम(C)">
 <!ENTITY     button.close.accesskey         "C">

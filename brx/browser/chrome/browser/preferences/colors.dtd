@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "अरायबो">
+<!ENTITY  overrideDefaultPageColors.always.label "अरायबो">
 
-<!ENTITY  overridePageColors.never.label  "माब्लाबाबो नङा">
+<!ENTITY  overrideDefaultPageColors.never.label  "माब्लाबाबो नङा">
 
 <!ENTITY  color                           "फराय बिजाब आरो सावगारिनि उनथिं थानाय">
 <!ENTITY  textColor.label                 "फराय बिजाब: (T)">

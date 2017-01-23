@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "आंनि Sync">
 <!ENTITY engine.bookmarks.label     "बुकमाकॅफोर">
 <!ENTITY engine.bookmarks.accesskey "म">
-<!ENTITY engine.tabs.label          "टेबफोर">
-<!ENTITY engine.tabs.accesskey      "ट">
+
+
 <!ENTITY engine.history.label       "जारिमिन">
 <!ENTITY engine.history.accesskey   "म">
 <!ENTITY engine.passwords.label     "बारग'सोदोबफोर">

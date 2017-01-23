@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; आव बरायबाय">
 
-
 <!ENTITY aboutAccountsConfig.description "नोंथांनि टेब, बुकमार्क पासवार्ड आरो गोबांखौ सिन्क खालामनो साइन इन खालाम">
 <!ENTITY aboutAccountsConfig.startButton.label "जागायबाय">
 <!ENTITY aboutAccountsConfig.useOldSync.label "सिन्कनि गोजामसिन बिसानखौ बाहायगासिनो दं?">

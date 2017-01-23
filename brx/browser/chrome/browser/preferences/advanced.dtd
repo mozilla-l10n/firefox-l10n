@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "बिलाइफोरनि सिङाव नेभिगेट खालामनो अरायबो कार्सर साबिफोरखौ बाहाय">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "आं टाइप खालामनो जागायजेनब्ला फराय बिजाबखौ नागिर">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "वेबसाइटफोरा बिलाइखौ फिन बिथोन एबा फिन ल'ड खालामनो नाजानाय समाव आंखौ सांग्रां खालाम">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "आं टाइप खालामनाय मथे आंनि बानानखौ आनजाद खालाम (t)">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "डाटा फसायनाय">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "केस खालामनाय वेब थानाय आयदा">
 
 <!ENTITY offlineStorage2.label           "अफलाइन थानाय आयदा आरो बाहायग्रा डाटा">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "आपडेट खालाम">
 
-<!ENTITY updateApp.label                 "&brandShortName; आपडेटफोर:">
 <!ENTITY updateAuto1.label               "आपडेटफोरखौ गावनो गाव महरै इनष्टल खालामो (सुबुरन होनाय: जौगानाय रैखाथि)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "आपडेटफोरखौ आनजाद खालाम, नाथाय आंखौ बेफोरखौ इनष्टल खालामाबाबो बासिखनो गनायथि हो ">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "आपडेटफोरखौ माब्लाबाबो आनजाद खालामनो नाङा (सुबुरन होआखै: रैखाथि जुखि)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "गावनो गाव महरै आपडेट खालाम:">
 <!ENTITY enableSearchUpdate.label        "इन्जिनफोरखौ नागिर">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "अफलाइन बाहायनो थाखाय डाटाखौ स्टर खालामनो थाखाय वेबसाइटआ सोङोब्ला आंनो खिनथि (T)">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "गाहायनि वेबसाइटफोरहा अफलाइन बाहायनायनि थाखाय डाटाखौ दोनथुमनो गनायथि दं:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,11 +108,11 @@
 
 <!ENTITY certificateTab.label            "चार्टिफिकेटफोर">
 
-<!ENTITY certSelection.description       "आंनि गावनि चार्टिफिकेट सार्भारा खावलायनाय समाव:">
-<!ENTITY certs.auto                      "गावनो गाव महरै मोनसे सायख">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "खनफ्रोमबो आंनाव सों">
-<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY selectCerts.auto                "गावनो गाव महरै मोनसे सायख">
+
+
+
 <!ENTITY enableOCSP.label                "सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "सार्टिफिकेटखौ नाय">

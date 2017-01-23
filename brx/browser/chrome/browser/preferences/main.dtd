@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "जेब्ला &brandShortName; starts:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "आंनि नमा फेजखौ दिन्थि">
+
 <!ENTITY startupBlankPage.label    "लांदां फेजखौ दिन्थि">
-<!ENTITY startupLastSession.label  "आंनि उइनद'स आरो थेब फोरखौ सिगां समनिफ्राय दिन्थिफिन">
+
 
 <!ENTITY homepage.label            "न' पेज">
 <!ENTITY homepage.accesskey        "प">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "व">
 <!ENTITY chooseFolderMac.label        "सायख'…">
 <!ENTITY chooseFolderMac.accesskey    "ख">
-<!ENTITY alwaysAsk.label "बबेयाव सेब खालामनांगौ बेखौ जेब्लाबो आंनाव सों">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "डिफल्ट बानाय">

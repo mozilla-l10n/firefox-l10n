@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "फाइलखौ बासिख (C)...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "बे बिलाइखौ बुकमार्क हो (B)...">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "बे बिलाइखौ खोमोर (D)">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "बे साइटखौ बाव लां (F)">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
