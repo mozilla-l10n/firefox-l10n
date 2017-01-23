@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Изберете датотека…">
 <!ENTITY cmd.restoreFromFile.accesskey  "О">
 
-<!ENTITY cmd.bookmarkLink.label         "Обележи ја оваа страна…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ј">
-<!ENTITY cmd.delete.label               "Избриши ја оваа страница">
-<!ENTITY cmd.delete.accesskey           "з">
 <!ENTITY cmd.deleteDomainData.label     "Заборави го ова место">
 <!ENTITY cmd.deleteDomainData.accesskey "б">
 

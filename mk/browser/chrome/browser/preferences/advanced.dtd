@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Овозможи сурфање со тастатура">
 <!ENTITY useCursorNavigation.accesskey   "в">
-<!ENTITY searchStartTyping.label         "Барај текст кога ќе почнам да пишувам">
-<!ENTITY searchStartTyping.accesskey     "т">
-<!ENTITY blockAutoRefresh.label          "Предупреди ме кога мрежните места се обидуваат да ја пренасочат или превчитаат страницата">
-<!ENTITY blockAutoRefresh.accesskey      "б">
 <!ENTITY useOnScreenKeyboard.label       "Прикажи тастатура за допир кога тоа е потребно">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "М">
 <!ENTITY allowHWAccel.label              "Користи хардверско забрзување кога е достапно">
 <!ENTITY allowHWAccel.accesskey          "х">
-<!ENTITY checkSpelling.label             "Проверувај го правописот додека пишувам">
-<!ENTITY checkSpelling.accesskey         "р">
 
 <!ENTITY dataChoicesTab.label            "Избор за податоци">
 
@@ -54,6 +48,8 @@
 
 <!ENTITY offlineStorage2.label           "Локална мрежна содржина и кориснички податоци">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -72,11 +68,8 @@
 
 <!ENTITY updateTab.label                 "Надградби">
 
-<!ENTITY updateApp.label                 "Надградби за &brandShortName;:">
 <!ENTITY updateAuto1.label               "Инсталирај надградби автоматски (препорачано: подобрена безбедност)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Проверувај, но остави да изберам дали сакам да ги инсталирам">
-<!ENTITY updateCheck.accesskey           "р">
 <!ENTITY updateManual.label              "Никогаш не проверувај (не се препорачува заради безбедност)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -86,14 +79,9 @@
 <!ENTITY useService.label                "Користи позадински сервис за да се инсталираат надградби">
 <!ENTITY useService.accesskey            "б">
 
-<!ENTITY updateOthers.label              "Автоматски надгради:">
 <!ENTITY enableSearchUpdate.label        "Сервиси за пребарување">
 <!ENTITY enableSearchUpdate.accesskey    "е">
 
-<!ENTITY offlineNotify.label             "Кажи ми кога мрежното место сака да складира податоци за локална употреба">
-<!ENTITY offlineNotify.accesskey         "ж">
-<!ENTITY offlineNotifyExceptions.label   "Исклучоци…">
-<!ENTITY offlineNotifyExceptions.accesskey "И">
 
 <!ENTITY offlineAppsList2.label          "На следните мрежни места им е дозволено да складираат податоци за локална употреба:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -102,11 +90,6 @@
 <!ENTITY offlineAppRemove.confirm        "Отстрани ги локалните податоци">
 
 <!ENTITY certificateTab.label            "Сертификати">
-<!ENTITY certSelection.description       "Кога серверот ќе го побара мојот личен сертификат:">
-<!ENTITY certs.auto                      "Автоматски избери еден">
-<!ENTITY certs.auto.accesskey            "А">
-<!ENTITY certs.ask                       "Прашај ме секој пат">
-<!ENTITY certs.ask.accesskey             "р">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Сертификати">
 <!ENTITY viewCerts.accesskey             "С">

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Добредојдовте во &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Сметката е поврзана">
 
 <!ENTITY aboutAccountsConfig.description "Најавете се за да ги синхронизирате Вашите јазичиња, обележувачи, лозинки и повеќе.">
 <!ENTITY aboutAccountsConfig.startButton.label "Вовед">
