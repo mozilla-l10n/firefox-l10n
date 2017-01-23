@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Избиране на файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "И">
 
-<!ENTITY cmd.bookmarkLink.label         "Отмятане на страницата…">
-<!ENTITY cmd.bookmarkLink.accesskey     "О">
-<!ENTITY cmd.delete.label               "Изтриване на тази страница">
-<!ENTITY cmd.delete.accesskey           "И">
 <!ENTITY cmd.deleteDomainData.label     "Забравяне за този сайт">
 <!ENTITY cmd.deleteDomainData.accesskey "З">
 

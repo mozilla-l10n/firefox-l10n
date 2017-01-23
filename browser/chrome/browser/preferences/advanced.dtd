@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Използване на каретка за придвижване в страниците">
 <!ENTITY useCursorNavigation.accesskey   "к">
-<!ENTITY searchStartTyping.label         "Търсене на текст при започване на въвеждане">
-<!ENTITY searchStartTyping.accesskey     "Т">
-<!ENTITY blockAutoRefresh.label          "Предупреждение, когато страницата се опитва да пренасочи или презареди">
-<!ENTITY blockAutoRefresh.accesskey      "П">
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, ако е необходимо">
 <!ENTITY useOnScreenKeyboard.accesskey   "д">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "л">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
-<!ENTITY checkSpelling.label             "Проверка на правописа при въвеждане">
-<!ENTITY checkSpelling.accesskey         "в">
 
 <!ENTITY dataChoicesTab.label            "Данни">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Уеб съдържание при работа извън мрежа и потребителски данни">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Обновяване">
 
-<!ENTITY updateApp.label                 "Обновявания на &brandShortName;:">
 <!ENTITY updateAuto1.label               "Автоматично инсталиране на обновявания (препоръчано: подобрява защитата)">
 <!ENTITY updateAuto1.accesskey           "А">
-<!ENTITY updateCheck.label               "Проверка за обновявания, но показване на избор дали да се инсталират">
-<!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Никога да не се проверява за обновявания (не е препоръчано: риск за безопасността)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Използване на услуга на заден план за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "у">
 
-<!ENTITY updateOthers.label              "Автоматично обновяване на:">
 <!ENTITY enableSearchUpdate.label        "Търсещи машини">
 <!ENTITY enableSearchUpdate.accesskey    "Т">
 
-<!ENTITY offlineNotify.label             "Предупреждение, когато сайт иска да съхрани информация за работа извън мрежата">
-<!ENTITY offlineNotify.accesskey         "П">
-<!ENTITY offlineNotifyExceptions.label   "Изключения…">
-<!ENTITY offlineNotifyExceptions.accesskey "з">
 
 <!ENTITY offlineAppsList2.label          "На следните сайтове е позволено да съхраняват информация за работа извън мрежата:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Изчистване на данните за работа извън мрежата">
 
 <!ENTITY certificateTab.label            "Сертификати">
-<!ENTITY certSelection.label             "Заявки">
-<!ENTITY certSelection.description       "Когато сървър изисква моят личен сертификат:">
-<!ENTITY certs.auto                      "Автоматично избиране на някой">
-<!ENTITY certs.auto.accesskey            "А">
-<!ENTITY certs.ask                       "Питане всеки път">
-<!ENTITY certs.ask.accesskey             "П">
 <!ENTITY enableOCSP.label                "Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите">
 <!ENTITY enableOCSP.accesskey            "З">
 <!ENTITY viewCerts.label                 "Показване на сертификатите">

@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "О">
 <!ENTITY engine.history.label             "История">
 <!ENTITY engine.history.accesskey         "И">
-<!ENTITY engine.tabs.label                "Раздели">
 <!ENTITY engine.tabs.accesskey            "Р">
 <!ENTITY engine.passwords.label           "Пароли">
 <!ENTITY engine.passwords.accesskey       "П">
