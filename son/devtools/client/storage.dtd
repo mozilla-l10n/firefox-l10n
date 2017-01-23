@@ -3,4 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : This file contains the Storage Inspector strings. -->
 <!-- LOCALIZATION NOTE : Placeholder for the searchbox that allows you to filter the table items. -->
+
+
+<!ENTITY searchBox.placeholder         "Haya-izey fay">
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+
+<!ENTITY storage.popupMenu.deleteAllLabel "Ikul tuusu">

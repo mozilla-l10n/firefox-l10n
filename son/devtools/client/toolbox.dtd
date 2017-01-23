@@ -20,6 +20,8 @@
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "Boŋtugu zollo-ize kayandi">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
@@ -42,6 +44,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "DOM alhaaley zafa">
+<!ENTITY options.collapseAttrs.tooltip "Alhaali kukey zafa korošikaa ra">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -89,7 +93,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Hasarawkaayan moora tunandi">
-
+<!ENTITY options.enableRemote.tooltip2  "Suubarooo woo tunandiyanoo ka too cinakaw goyjinawey ka hasaraw kaa Firefox teera moora doo ra sanda Firefox OS">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -106,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "HTTP tugudoo kayandi (nda goyjinay bata ga feera)">
+<!ENTITY options.disableHTTPCache.tooltip   "Nda suubaroo woo tun, HTTP tugudogoo ga kay kanjey kul se kaŋ na goyjinay bataa feeri. Service Workers ši suubaroo woo kanboo maate.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -115,6 +121,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "Firefox cinakaw goyjinawey">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -152,9 +160,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Nda war ns suubari juwaley nda fattari tunandi interneti diji-walhaa ra waati tammaasa ga cebe">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Hasaraw kaakaw">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Aššil dawtiirawey tunandi">
+<!ENTITY options.sourceMaps.tooltip    "Nda war n'aššil suubarey tunandi, alhaaloo ga fatta hasaraw kaakaa nda diji-walhaa ra.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

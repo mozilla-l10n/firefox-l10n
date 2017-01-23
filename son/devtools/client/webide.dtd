@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Nda jinay tana na war hãa nda tammaasa QR ašariya biibereyan doo ra, wa hinnaa kaŋ goo jinay faa din cire berandi:">
-
+<!ENTITY wifi_auth_qr_size_note "Nd'a ga hima kaŋ QR ašariyaa ga hansa ka kacca ciyaroo se ka bisa ka boori, ceeci ka zanfunoo moorandi wal'a hayandi.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Soolu-waate juwal zaaritiirawey">
