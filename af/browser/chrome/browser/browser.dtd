@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; het dele van dié blad geblok wat nie beveilig is nie.">
-<!ENTITY identity.passiveLoaded "Dele van dié blad is nie beveilig nie (bv. beelde).">
+<!ENTITY identity.passiveLoaded "Dele van dié blad is nie beveilig nie (soos prente).">
 <!ENTITY identity.activeLoaded "U het beskerming vir dié blad gedeaktiveer.">
 <!ENTITY identity.weakEncryption "Dié bladsy gebruik swak enkripsie.">
 <!-- Strings for connection state warnings in the subview. -->
@@ -719,8 +719,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Ander mense kan u inligting sien of die webwerf se gedrag verander.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; het dele van dié blad geblok wat nie beveilig is nie.">
 <!ENTITY identity.description.passiveLoaded "U verbinding is nie privaat nie en inligting wat met die werf gedeel word kan deur ander gesien word.">
-<!ENTITY identity.description.passiveLoaded2 "Dié webwerf bevat inhoud wat nie beveilig is nie (soos beelde).">
-<!ENTITY identity.description.passiveLoaded3 "Alhoewel &brandShortName; sommige inhoud geblok het, is daar steeds inhoud op die bladsy wat nie beveilig is nie (soos beelde).">
+<!ENTITY identity.description.passiveLoaded2 "Dié webwerf bevat inhoud wat nie beveilig is nie (soos prente).">
+<!ENTITY identity.description.passiveLoaded3 "Alhoewel &brandShortName; sommige inhoud geblok het, is daar steeds inhoud op die bladsy wat nie beveilig is nie (soos prente).">
 <!ENTITY identity.description.activeLoaded "Dié webwerf bevat inhoud wat nie beveilig is nie (soos skripte) en u verbinding daaraan is nie privaat nie.">
 <!ENTITY identity.description.activeLoaded2 "Inligting wat gedeel word met die werf kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.).">
 
