@@ -6,7 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Substituir as cores da página com as suas seleções acima:">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Sempre">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Só com temas de alto contraste">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Cores padrão">
 <!ENTITY  textColor.label                 "Texto:">

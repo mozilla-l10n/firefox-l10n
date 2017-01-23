@@ -10,6 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "Usar teclas de setas para percorrer pelas páginas">
 <!ENTITY useCursorNavigation.accesskey   "s">
+<!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começa a digitar">
+<!ENTITY blockAutoReload.label           "Alertar quando sites tentarem redirecionar ou recarregar a página">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -52,6 +54,10 @@
 <!ENTITY offlineStorage2.label           "Conteúdo web off-line e dados do usuário">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Dados do site">
+<!ENTITY clearSiteData.label             "Limpar todos os dados">
+<!ENTITY siteDataSettings.label          "Configurações…">
+<!ENTITY siteDataLearnMoreLink.label     "Saber mais">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -73,6 +79,7 @@
 
 <!ENTITY updateAuto1.label               "Instalar automaticamente (recomendado: maior segurança)">
 <!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateCheckChoose.label         "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
 <!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,9 +89,11 @@
 <!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY autoUpdateOthers.label          "Atualizar automaticamente">
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
 
 <!ENTITY offlineAppsList2.label          "Estes sites estão autorizados a armazenar dados para uso offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +102,10 @@
 <!ENTITY offlineAppRemove.confirm        "Remover dados off-line">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certPersonal.label              "Solicitações">
+<!ENTITY certPersonal.description        "Quando um servidor solicita seu certificado pessoal:">
+<!ENTITY selectCerts.auto                "Selecionar um automaticamente">
+<!ENTITY selectCerts.ask                 "Perguntar todas as vezes">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "o">
 <!ENTITY viewCerts.label                 "Ver certificados">
