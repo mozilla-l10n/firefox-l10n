@@ -4,8 +4,7 @@
 
 <!ENTITY closeNotification.tooltip "এই বার্তার প্রদর্শন বন্ধ করুন">
 
-<!ENTITY closeNotificationItem.label "এখন নয়">
-
 <!ENTITY checkForUpdates "আপডেটের উপস্থিতি পরীক্ষা করা হবে…">
 
 <!ENTITY learnMore "আরও জানুন ...">
+

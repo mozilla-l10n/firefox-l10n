@@ -119,9 +119,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> নিরাপত্তা টেকনোলজি ব্যবহার করে যা পুরোনো এবং আক্রমণ প্রবণ। একজন আক্রমণকারী সহজে তথ্য ছিনিয়ে নিতে পারে যা আপনি সুরক্ষিত ভাবছেন।">
 <!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) লোড করার চেষ্টা করুন <span class='hostname'></span>পুরোনো নিরাপত্তা ব্যবহার করে">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>একটি সুরক্ষিত সংযোগ <span id='wrongSystemTime_URL'/> সম্ভব নয় কারণ আপনার ঘড়ি ভুল সময় দেখাচ্ছে।</p> <p>আপনার কম্পিউটার ভাবে <span id='wrongSystemTime_systemDate'/>, যখন এটা হতে হবে <span id='wrongSystemTime_actualDate'/>। এ সমস্যা সমাধান করবার জন্য, আপনার তারিখ এবং সময় মেলানোর চেষ্টা করুন সঠিক সময়ের জন্য।</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "নিরাপত্তাহীন সংযোগ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "এই সাইটটি HTTP কঠোর ট্রান্সপোর্ট সুরক্ষা (HSTS) ব্যবহার করে &brandShortName;-কে নির্দিষ্ট করার জন্য যা হয়তো এর সাথে সুরক্ষিতভাবে সংযুক্ত থাকে। ফলাফল হিসেবে, এই সার্টিফিকেটের জন্য ব্যতিক্রম যোগ করা সম্ভব নয়।">
