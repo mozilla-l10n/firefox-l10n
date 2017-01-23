@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Erô into caregamento da pagina">
 <!ENTITY retry.label "Preuva Torna">
+<!ENTITY returnToPreviousPage.label "Vanni inderê">
+<!ENTITY advanced.label "Avansæ">
 
 <!-- Specific error messages -->
 
@@ -30,8 +32,11 @@
 <!ENTITY fileNotFound.title "File no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
 
+
 <!ENTITY generic.title "No ghe riescio">
 <!ENTITY generic.longDesc "<p>No gh'é atre informaçioin in sciô problema.</p>">
+
+
 
 <!ENTITY malformedURI.title "L'indirisso o no l'é valido">
 <!ENTITY malformedURI.longDesc "<p>L'indirisso che ti me dæto o no va ben. Pe piaxei contròlla che no gh'é di eroî inta bara di indirissi e preuva torna.</p>">
@@ -60,6 +65,13 @@
 <!ENTITY netTimeout.title "A ræ a no risponde">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Indirisso no interpretabile">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Bezeugna instalâ do software in ciù pe arvî st'indirisso.</li>
+</ul>
+">
+
 <!ENTITY proxyConnectFailure.title "O proxy o refua a conescion">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ ancon di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
@@ -84,12 +96,9 @@
   <li>Ciamma o responsabile do scito web pe informalo do problema.</li>
 </ul>">
 
-<!ENTITY nssBadCert.title "Conescion segua no riescia">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Ghe porieiva ese un problema co-e inpostaçioin do server ò peu anche ese quarchedun ch'o preuva a fâ finta d'ese o server.</li>
-<li>Se ti t'ê conesso sensa problemi a sto server into pasou, aloa l'erô o peu esê tenporaneo e ti peu provâ torna dòppo.</li>
-</ul>
-">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul>
   <li>O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.</li>
@@ -98,74 +107,37 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sospetto scito de atacco!">
-<!ENTITY malwareBlocked.longDesc "<p>I sciti de atacco preuvan a instalâ de aplicaçioin che aröban e informaçioin privæ, adeuvia o teu computer pe atacâ i atri ò aroinan o teu computer.</p>
-<p>I propietai di sciti che creddan che i seu sciti son stæti segnalæ pe erô peuan <a href='http://www.stopbadware.org/home/reviewinfo' >domandâ 'na revixion.</a>.</p> 
-">
-
-<!ENTITY phishingBlocked.title "Sospetta falsificaçion web!">
-<!ENTITY phishingBlocked.longDesc "<p>Se ti ti inserisci informaçioin inte sta pagina peu sucede che te aröban a identitæ o che te fan 'n atro inbreuggio.</p> <p>Sti tipi de falsificaçioin web son uzæ pe fâ inbreuggi comme o phishing, inti quæ e email son uzæ pe imitâ a sorgente fia.</p>
-">
+<!ENTITY cspBlocked.title "Blocou da-i criteri in sciâ seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina con sta modalitæ perché a gh'à di criteri de seguessa di contegnui ch'ou inpediscian.</p>  ">
 
 
-<!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de vedde a no peu mostrase perché s'é atrovou un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroin do scito pe faghe savei de sto problema.</li></ul>">
 
-
-<!ENTITY securityOverride.linkText "ò ti peu azonze 'na eceçion…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Pòrtime feua de chi!">
 <!ENTITY securityOverride.exceptionButtonLabel "Azonzi 'na eceçion…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "<p>Ti no doviesci azonze 'na eceçion se ti uzi 'na conescion ch'a no l'é fiâ ò se ti no gh'æ l'andio de vedde di alarmi in sto server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
+<!ENTITY errorReporting.learnMore "Atre informaçioin…">
 
 <!ENTITY remoteXUL.title "XUL Remòtto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul></p>">
 
-
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina con sta modalitæ perché a gh'à di criteri de seguessa di contegnui ch'ou inpediscian.</p>  ">
-<!ENTITY cspBlocked.title "Blocou da-i criteri in sciâ seguessa di contegnui">
-
-<!ENTITY errorReporting.learnMore "Atre informaçioin…">
-<!ENTITY errorReporting.sending "Son aprevo a mandâ">
-<!ENTITY errorReporting.sent "Segnalaçion mandâ">
-<!ENTITY errorReporting.report "Segnala">
-<!ENTITY errorReporting.tryAgain "Preuva torna">
 <!ENTITY sslv3Used.title "Inposcibile conetise in mòddo seguo">
-<!ENTITY unknownProtocolFound.title "Indirisso no interpretabile">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>Bezeugna instalâ do software in ciù pe arvî st'indirisso.</li>
-</ul>
-">
-<!ENTITY unwantedBlocked.title "Segnalou scito con do software indeziderou">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Sto tipo de scito o çerca de instalâ programmi che peuan bidonâ e avei consegoense inaspetæ in sciô scistema.</p>
-">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "A conescion a no l'é segua">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Informaçion avansæ: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avansæ">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> o deuvia protocòlli de seguessa vegi e volnerabili. Sta cösa chi a porieiva consentî a di delinquenti de intercetâ a leze informaçioin che l'utente o pensa segian a-o seguo.">
 <!ENTITY weakCryptoAdvanced.override "(No segue) Preuva a caregâ <span class='hostname'></span> adeuviando protocòlli de seguessa vegi">
-<!ENTITY weakCryptoUsed.title "A conescion a no l'é segua">
 
-<!ENTITY advanced.label "Avansæ">
-<!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
-<!ENTITY forbiddenBlocked.title "Scito no consentio">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina in baze a-a pròpia configuraçion.</p>">
-<!ENTITY returnToPreviousPage.label "Vanni inderê">
-<!ENTITY sslv3Used.longDesc2 "Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION">
-<!ENTITY weakCryptoUsed.longDesc2 "Informaçion avansæ: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
-
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

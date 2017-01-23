@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Benvegnuo into &syncBrand.shortName.label;">
+
 <!ENTITY aboutAccountsConfig.description "Acedi pe scincronizâ feuggi, segnalibbri, paròlle segrete e atri elementi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Iniçia">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ti deuvi 'na vegia verscion de Sync?">
@@ -10,6 +11,3 @@
 <!ENTITY aboutAccounts.noConnection.title "Conescion no disponibile">
 <!ENTITY aboutAccounts.noConnection.description "Serve 'na conescion a Internet pe acede.">
 <!ENTITY aboutAccounts.noConnection.retry "Preuva torna">
-<!ENTITY aboutAccounts.connected "Account conesso">
-
-

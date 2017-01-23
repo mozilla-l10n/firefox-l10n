@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Adeuvia de longo i pomelli de direçion pe navegâ in sce pagine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çerca o testo quande iniçio a scrive">
-<!ENTITY searchStartTyping.accesskey     "Ç">
-<!ENTITY blockAutoRefresh.label          "Avertime quande i sciti preuvan a redireçionâ ò recaregâ a pagina">
-<!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çerca">
 
@@ -23,8 +19,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Contròlla o testo mentre scrivo">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Condivixon dæti">
 
@@ -52,6 +46,8 @@
 
 <!ENTITY offlineStorage2.label           "Contegnuo web e dæti utente feua linia">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -70,11 +66,8 @@
 
 <!ENTITY updateTab.label                 "Agiorna">
 
-<!ENTITY updateApp.label                 "Agiornamenti de &brandShortName;:">
 <!ENTITY updateAuto1.label               "Installa i agiornamenti in aotomatico (racomandou: ciù seguessa)">
 <!ENTITY updateAuto1.accesskey           "s">
-<!ENTITY updateCheck.label               "Contròlla se gh'é di agiornamenti, ma fanni decidde a mi se instalali">
-<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No çercâ mai i agiornamenti (no racomandou: reizego de seguessa)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -84,14 +77,9 @@
 <!ENTITY useService.label                "Uzâ 'n serviçio ascozo pe instalâ i agiornamenti">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY updateOthers.label              "Agiornamenti aotomatichi:">
 <!ENTITY enableSearchUpdate.label        "Motô de riçerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Dimme quando un scito o domanda de sarvâ dæti pe ese uzæ feua linia">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Eceçioin…">
-<!ENTITY offlineNotifyExceptions.accesskey "ç">
 
 <!ENTITY offlineAppsList2.label          "Sti sciti chi peuan sarvâ dæti pe l'uzo feua linia:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -100,12 +88,6 @@
 <!ENTITY offlineAppRemove.confirm        "Leva da mezo i dæti feua linia">
 
 <!ENTITY certificateTab.label            "Certificati">
-<!ENTITY certSelection.label             "Domande">
-<!ENTITY certSelection.description       "Quando un server o domanda i mæ certificati:">
-<!ENTITY certs.auto                      "Seleçionn-a un in aotomatico">
-<!ENTITY certs.auto.accesskey            "o">
-<!ENTITY certs.ask                       "Domandimelo tutte e vòtte">
-<!ENTITY certs.ask.accesskey             "D">
 <!ENTITY enableOCSP.label                "Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua">
 <!ENTITY enableOCSP.accesskey            "o">
 <!ENTITY viewCerts.label                 "Fanni vedde certificati">

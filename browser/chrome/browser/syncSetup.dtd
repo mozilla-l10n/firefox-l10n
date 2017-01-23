@@ -16,6 +16,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
+<!ENTITY serverType.default.label      "Predefinio: Server &syncBrand.fullName.label; do Mozilla">
 <!ENTITY serverType.custom2.label   "Adeuvia in server personalizou…">
 <!ENTITY signIn.account2.label      "Account">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -32,6 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "p">
 <!ENTITY setup.confirmPassword.label     "Conferma Paròlla Segreta">
 <!ENTITY setup.confirmPassword.accesskey "m">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Son d'acòrdio con i">
@@ -83,7 +85,6 @@
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
-<!ENTITY engine.tabs.label          "Feuggi">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">
@@ -94,27 +95,19 @@
 <!ENTITY engine.addons.label        "Conponenti azonti">
 <!ENTITY engine.addons.accesskey    "a">
 
-
-<!ENTITY choice2.merge.recommended.label "Racomandou:">
-
-<!ENTITY choice2a.client.main.label     "Rinpiassa tutti i dæti de st'apararato co-i mæ dæti de &syncBrand.shortName.label;">
 <!ENTITY choice2a.merge.main.label       "Unisci i dæti de sto dispoxitivo co-i mæ dæti de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Racomandou:">
+<!ENTITY choice2a.client.main.label      "Rinpiassa tutti i dæti de st'apararato co-i mæ dæti de &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Rimpiassa tutte i atri dispoxitivi con sti dæti">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Conferma">
-
-<!ENTITY confirm.merge2.label   "O &syncBrand.fullName.label; o l'uniâ i dæti de sto dispoxitivo con quelli do teu account Sync.">
-
+<!ENTITY confirm.merge2.label    "O &syncBrand.fullName.label; o l'uniâ i dæti de sto dispoxitivo con quelli do teu account Sync.">
 <!ENTITY confirm.client3.label         "Atençion: Sti dæti de &brandShortName; drento sto dispoxitivo saian scancelæ:">
-
-<!ENTITY confirm.server2.label         "Atençion: Sti dispoxitivi saian sorviascriti co-i teu dæti locali:">
-
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; o copiâ i dæti de &syncBrand.fullName.label; in sto dispoxitivo.">
+<!ENTITY confirm.server2.label         "Atençion: Sti dispoxitivi saian sorviascriti co-i teu dæti locali:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Instalaçion finia">
 <!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioin chi sotta inte preferense de Sync.">
 <!ENTITY continueUsing.label "Fòscia ti peu continoâ co-o &brandShortName;.">
-
-<!ENTITY serverType.default.label      "Predefinio: Server &syncBrand.fullName.label; do Mozilla">
