@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-fonts.xul -->
+
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-
-
 <!ENTITY  pref.fonts.title                        "Betűk">
 
 <!ENTITY  language.label                          "Kódolás:">
@@ -28,19 +28,16 @@
 <!ENTITY  cursive.label                           "Kurzív:">
 <!ENTITY  cursive.accesskey                       "K">
 
-<!ENTITY  font.langGroup.latin1                   "Nyugati">
-<!ENTITY  font.langGroup.latin2                   "Közép-európai">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japán">
 <!ENTITY  font.langGroup.trad-chinese             "Hagyományos kínai (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Egyszerűsített kínai">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Hagyományos kínai (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreai">
 <!ENTITY  font.langGroup.cyrillic                 "Cirill">
-<!ENTITY  font.langGroup.baltic                   "Balti">
 <!ENTITY  font.langGroup.el                       "Görög">
-<!ENTITY  font.langGroup.turkish                  "Török">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Felhasználó által megadott">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Héber">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -60,15 +57,15 @@
 <!ENTITY minSize.label                            "Legkisebb betűméret:">
 <!ENTITY minSize.accesskey                        "L">
 <!ENTITY minSize.none                             "Nincs">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
 
 <!ENTITY  useDocumentFonts.label                  "A dokumentumok használhatják a saját maguk által megadott betűkészleteket.">
 <!ENTITY  useDocumentFonts.accesskey              "z">
-<!-- leaving this stuff in for now -->
 
+<!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Amikor a dokumentum saját maga választ betűkészletet,">
 <!ENTITY  useDefaultFont.label                    "mindig az itt megadott betűkészleteket használja, figyelmen kívül hagyva a dokumentum beállításait.">
