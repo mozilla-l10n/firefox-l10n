@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Fiú le Brabhsáil Phríobháideach, ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ní bheidh tú anaithnid">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ar an Idirlíon. Is féidir le d'fhostaí nó le do sholáthraí seirbhíse na leathanaigh a dtugann tú cuairt orthu a fheiceáil mar sin féin.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Tuilleadh eolais faoi">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Bhrabhsáil Phríobháideach">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Cosaint ar Lorgaireacht">
 <!ENTITY trackingProtection.description2                 "Úsáideann suímh áirithe lorgairí a choinníonn súil ar a ndéanann tú ar an nGréasán. Le Cosaint ar Lorgaireacht, cuireann Firefox bac ar go leor lorgairí a bhailíonn faisnéis faoi d'iompar brabhsála.">

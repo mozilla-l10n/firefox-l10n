@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Cuardaigh:">
-<!ENTITY     filter.accesskey               "u">
+
 
 <!ENTITY     button.close.label             "Dún">
 <!ENTITY     button.close.accesskey         "D">

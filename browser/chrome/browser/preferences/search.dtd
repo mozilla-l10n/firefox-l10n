@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "s">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le &brandShortName; gan do stair bhrabhsála a mheabhrú.">
 
-<!ENTITY redirectWindowsSearch.label "Úsáid an t-inneall seo chun cuardach a dhéanamh ó Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Innill chuardaigh aonchlic">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Is féidir leat innill chuardaigh a roghnú go díreach sa bharra cuardaigh. Roghnaigh na cinn atá uait.">
