@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Cleachd na putanan-saigheid gus gluasad am broinn nan duilleagan an-còmhnaidh">
 <!ENTITY useCursorNavigation.accesskey   "C">
-<!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
-<!ENTITY searchStartTyping.accesskey     "L">
-<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh">
-<!ENTITY blockAutoRefresh.accesskey      "f">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Seall meur-chlàr suathaidh ma bhios feum air">
 <!ENTITY useOnScreenKeyboard.accesskey   "m">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "o">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">
-<!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Roghainnean dàta">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Susbaint-lìn san tasglann">
 
 <!ENTITY offlineStorage2.label           "Susbaint-lìn is dàta cleachdaiche far loidhne">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Ùraich">
 
-<!ENTITY updateApp.label                 "Ùrachaidhean &brandShortName;:">
 <!ENTITY updateAuto1.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
 <!ENTITY updateAuto1.accesskey           "S">
-<!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
-<!ENTITY updateCheck.accesskey           "b">
+
+
 <!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">
 
-<!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
 <!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Innis dhomh ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Eisgeachdan…">
-<!ENTITY offlineNotifyExceptions.accesskey "E">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Eisgeachdan…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "Tha cead aig na làraichean-lìn a leanas dàta a stòradh a chum cleachdaidh far loidhne:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
 <!ENTITY certificateTab.label            "Teisteanasan">
-<!ENTITY certSelection.label             "Iarrtasan">
-<!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
-<!ENTITY certs.auto                      "Taghar fear leis fhèin">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Faighnich dhìom gach turas">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Iarrtasan">
+
+<!ENTITY selectCerts.auto                "Taghar fear leis fhèin">
+
+
+
 <!ENTITY enableOCSP.label                "Cuir iarrtas gu frithealaichean OCSP Responder gus dligheachd nan teisteanasan làithreach a dhearbhadh">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Seall na teisteanasan">

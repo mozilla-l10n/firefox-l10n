@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tagh faidhle…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Cruthaich comharra-lìn dhan duilleag seo…">
-<!ENTITY cmd.bookmarkLink.accesskey     "C">
-<!ENTITY cmd.delete.label               "Sguab às an duilleag seo">
-<!ENTITY cmd.delete.accesskey           "d">
 <!ENTITY cmd.deleteDomainData.label     "Dìochuimhnich an làrach seo">
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 

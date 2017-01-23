@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Lorg:">
-<!ENTITY     filter.accesskey               "L">
+
 
 <!ENTITY     button.close.label             "Dùin">
 <!ENTITY     button.close.accesskey         "n">
