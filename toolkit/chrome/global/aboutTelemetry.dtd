@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloquejos de fils">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Escalars amb clau">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrames">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrames amb clau">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesures senzilles">
 

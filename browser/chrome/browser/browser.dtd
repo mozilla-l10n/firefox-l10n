@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Obre el marc en una finestra nova">
 <!ENTITY openFrameCmd.accesskey       "O">
-<!ENTITY openLinkCmdInContainerTab.label "Obre l'enllaç en una pestanya de contenidor nova">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només aquest marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Obre">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "f">
 <!ENTITY syncedTabs.context.copy.label                       "Copia">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

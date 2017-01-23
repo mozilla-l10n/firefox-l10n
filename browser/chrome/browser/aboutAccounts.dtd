@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Us donem la benvinguda al &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Compte connectat">
 
 <!ENTITY aboutAccountsConfig.description "Inicieu la sessió per sincronitzar les pestanyes, adreces d'interès, contrasenyes i més.">
 <!ENTITY aboutAccountsConfig.startButton.label "Primers passos">

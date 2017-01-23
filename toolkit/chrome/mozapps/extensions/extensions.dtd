@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
 <!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">
 

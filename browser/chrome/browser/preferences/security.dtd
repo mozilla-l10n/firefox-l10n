@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "General">
 
-<!ENTITY  warnAddonInstall.label        "Avisa'm quan els llocs web intentin instal·lar complements">
-<!ENTITY  warnAddonInstall.accesskey    "i">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Bloqueja les baixades perilloses">
 <!ENTITY  blockDownloads.accesskey        "l">
 
-<!ENTITY  blockUncommonUnwanted.label     "Avisa'm en baixar programari indesitjable i poc habitual">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
+
 
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">

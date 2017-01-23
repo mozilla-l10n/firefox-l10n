@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "La navegació privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "no vol dir que navegareu anònimament">
 <!ENTITY aboutPrivateBrowsing.note.after                 " per Internet. El vostre proveïdor d'Internet o l'empresa per a la qual treballeu podrien conèixer igualment les pàgines que visiteu.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Més informació sobre la">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegació privada">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Protecció contra el seguiment">
 <!ENTITY trackingProtection.description2                 "Alguns llocs web utilitzen elements que poden fer un seguiment de la vostra activitat a Internet. Amb la protecció contra el seguiment, el Firefox blocarà els elements de seguiment que poden recollir informació sobre la vostra navegació.">

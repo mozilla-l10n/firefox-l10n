@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sincronitza:">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
-<!ENTITY engine.tabs.label          "Pestanyes">
-<!ENTITY engine.tabs.accesskey      "t">
+
+
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Contrasenyes">

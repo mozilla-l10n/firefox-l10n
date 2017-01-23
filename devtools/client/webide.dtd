@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "T">
 <!ENTITY runtimeMenu_disconnect_label "Desconnecta">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Taula de permisos">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "u">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Informació de l'entorn d'execució">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Per defecte">
 <!ENTITY prefs_options_autosavefiles "Desa els fitxers automàticament">
 <!ENTITY prefs_options_autosavefiles_tooltip "Desa automàticament els fitxers editats abans d'executar el projecte">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Taula de permisos">
-<!ENTITY permissionstable_name_header "Nom">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informació de l'entorn d'execució">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Opcions del simulador">
 <!ENTITY simulator_remove "Suprimeix el simulador">
 <!ENTITY simulator_reset "Restaura els valors per defecte">
-<!ENTITY simulator_name "Nom">
+
 <!ENTITY simulator_software "Programari">
 <!ENTITY simulator_version "Versió">
 <!ENTITY simulator_profile "Perfil">
