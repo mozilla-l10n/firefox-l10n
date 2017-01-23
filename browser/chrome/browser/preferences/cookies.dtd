@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Bilaketa:">
-<!ENTITY     filter.accesskey               "B">
+
 
 <!ENTITY     button.close.label             "Itxi">
 <!ENTITY     button.close.accesskey         "I">

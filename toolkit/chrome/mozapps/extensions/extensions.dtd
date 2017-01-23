@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Tresnak gehigarri guztientzat">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Joan orri bat atzera">
 <!ENTITY cmd.forward.tooltip                  "Joan orri bat aurrera">
 
