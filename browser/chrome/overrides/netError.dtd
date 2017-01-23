@@ -45,6 +45,8 @@
 <!ENTITY generic.title "ඔහ්!">
 <!ENTITY generic.longDesc "<p> කුමන හෝ හේතුවක් නිසා මේ පිටුව &brandShortName; හට පූරණය කළ නොහැක.</p>">
 
+
+
 <!ENTITY malformedURI.title "ලිපිනය නිරවද්‍ය නොවේ">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>වෙබ් ලිපිනය සාමාන්‍යයෙන් ලියනු ලබන්නේ 
@@ -159,8 +161,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "සංකීර්ණ">
 <!ENTITY weakCryptoAdvanced.override "(අනාරක්ශිතයි) යල්පැනගිය ආරක්ශණයක් මගින් <span class='hostname'></span> පූර්ණයට උත්සහ කරන්න">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "අනාරක්ෂිත සම්බන්ධයක්">
 <!ENTITY certerror.copyToClipboard.label "පෙළ පසුරු පුවරුවට පිටපත් කරන්න">
