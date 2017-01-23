@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सभी सहयुक्तियों के लिए औज़ार">
 
+
+
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">
 

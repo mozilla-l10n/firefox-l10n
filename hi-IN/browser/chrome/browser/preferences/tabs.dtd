@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "नई विंडो को नए टैब में खोलें">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
-<!ENTITY warnCloseMultipleTabs.label  "मुझे चेताएँ जब कई टैब बंद करता हूँ">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "मुझे चेताएँ जब कई टैब का खोला जाना &brandShortName; को धीमा करता हो">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchToNewTabs.label        "जब मैं नये टैब में कड़ी खोलता हूँ, इसमें तत्काल जाएँ">
-<!ENTITY switchToNewTabs.accesskey    "h">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "विंडो कार्यपट्टी में टैब पूर्वावलोकन दिखाएँ">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

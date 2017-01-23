@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "लड़ी लटका">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  अदिश">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  की स्केलर">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "    keyed histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारण  माप ">
 
