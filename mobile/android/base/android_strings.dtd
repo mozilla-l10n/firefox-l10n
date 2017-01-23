@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya está en marcadores">
 <!ENTITY overlay_share_send_other "Enviar a otro dispositivo">
 
+<!ENTITY overlay_share_open_browser_btn_label "Abrir en &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
 <!ENTITY pref_import_options "Opciones de importación">
 <!ENTITY pref_import_android_summary "Importa marcadores e historial desde el navegador nativo">
+<!ENTITY pref_private_data_openTabs "Abrir pestañas">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Achicar pestañas">
+<!ENTITY pref_compact_tabs_summary2 "Ordenar pestañas en dos columnas en modo retrato">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tocar para aplicar actualización una vez descargada">
 <!ENTITY updater_downloading_retry2 "Tocar para reintentar">
 
+<!ENTITY updater_apply_title3 "Actualización descargada para &brandShortName;">
+<!ENTITY updater_apply_select3 "Toca para instalarla">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -845,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Ocultar">
 <!ENTITY activity_stream_delete_history "Borrar del historial">
 
+<!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea destacados para las cosas que has descubierto en la web para que puedas regresar a los grandes artículos, videos, marcadores y otras páginas que hayas visto.">
