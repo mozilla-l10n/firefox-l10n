@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Aanmeldings">
 
-<!ENTITY  rememberLogins.label          "Onthou aanmelinligting vir werwe">
+<!ENTITY  rememberLogins.label          "Onthou aanmeldinligting vir werwe">
 <!ENTITY  rememberLogins.accesskey      "O">
 <!ENTITY  passwordExceptions.label      "Uitsonderings…">
 <!ENTITY  passwordExceptions.accesskey  "U">
