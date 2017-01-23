@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Allmänt">
 
@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Använd alltid piltangenterna för att navigera i sidor">
 <!ENTITY useCursorNavigation.accesskey   "A">
-<!ENTITY searchStartTyping.label         "Sök efter text när jag börjar skriva">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Varna när webbplatser försöker styra om eller hämta om sidan">
-<!ENTITY blockAutoRefresh.accesskey      "w">
 <!ENTITY useOnScreenKeyboard.label       "Visa ett pektangentbord vid behov">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
-<!ENTITY checkSpelling.label             "Använd automatisk stavningskontroll">
-<!ENTITY checkSpelling.accesskey         "v">
 
 <!ENTITY dataChoicesTab.label            "Dataval">
 
@@ -56,13 +50,15 @@
 <!ENTITY httpCache.label                 "Cachat webbinnehåll">
 
 <!ENTITY offlineStorage2.label           "Nedkopplad lagring av webbinnehåll och användardata">
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Begränsa cacheutrymmet till">
 <!ENTITY limitCacheSizeBefore.accesskey  "B">
 <!ENTITY limitCacheSizeAfter.label       "MB">
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Uppdateringar">
 
-<!ENTITY updateApp.label                 "&brandShortName;-uppdateringar:">
 <!ENTITY updateAuto1.label               "Installera uppdateringar automatiskt (rekommenderas: bättre säkerhet)">
 <!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheck.label               "Sök efter uppdateringar, men låt mig välja om jag vill installera dem">
-<!ENTITY updateCheck.accesskey           "e">
 <!ENTITY updateManual.label              "Sök aldrig efter uppdateringar (rekommenderas inte: säkerhetsrisk)">
 <!ENTITY updateManual.accesskey          "ö">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Använd en bakgrundstjänst för att installera uppdateringar">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Uppdatera automatiskt:">
 <!ENTITY enableSearchUpdate.label        "Sökmotorer">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
-<!ENTITY offlineNotify.label             "Meddela mig när en webbplats vill lagra data för nedkopplad användning">
-<!ENTITY offlineNotify.accesskey         "M">
-<!ENTITY offlineNotifyExceptions.label   "Undantag…">
-<!ENTITY offlineNotifyExceptions.accesskey "U">
 
 <!ENTITY offlineAppsList2.label          "Följande webbplatser tillåts lagra data för nedkopplad användning:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Ta bort lagrad data">
 
 <!ENTITY certificateTab.label            "Certifikat">
-<!ENTITY certSelection.label             "Önskemål">
-<!ENTITY certSelection.description       "När en server efterfrågar mitt personliga certifikat:">
-<!ENTITY certs.auto                      "Välj ett automatiskt">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Fråga varje gång">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet">
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts.label                 "Visa Certifikat">

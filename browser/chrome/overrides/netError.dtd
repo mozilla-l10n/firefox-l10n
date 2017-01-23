@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Försök igen">
 <!ENTITY returnToPreviousPage.label "Gå bakåt">
 <!ENTITY advanced.label "Avancerad">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Anslutningen misslyckades">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -112,10 +112,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avancerad">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> använder en säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du trodde var säker.">
 <!ENTITY weakCryptoAdvanced.override "(Inte säker) Prova att ladda <span class='hostname'></span> med hjälp av föråldrad säkerhet">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>En säker anslutning till <span id='wrongSystemTime_URL'/> är inte möjlig, eftersom klockan verkar visa fel tidpunkt.</p> <p>Datorn tycker att det är <span id='wrongSystemTime_systemDate'/>, när det borde vara <span id='wrongSystemTime_actualDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att matcha rätt tid.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Osäker anslutning">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denna webbplats använder HTTP Strict Transport Security (HSTS) för att ange att &brandShortName; endast kan ansluta dit säkert. Därför är det inte möjligt att lägga till ett undantag för detta certifikat.">

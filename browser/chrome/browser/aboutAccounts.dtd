@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Välkommen till &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Konto anslutet">
 
 <!ENTITY aboutAccountsConfig.description "Logga in för att synka dina flikar, bokmärken, lösenord och annat.">
 <!ENTITY aboutAccountsConfig.startButton.label "Kom igång">
