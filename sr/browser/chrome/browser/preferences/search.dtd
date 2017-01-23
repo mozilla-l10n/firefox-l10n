@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "а">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да &brandShortName; никада не памти историју.">
 
-<!ENTITY redirectWindowsSearch.label "Користи овај претраживач за претраге из Windows-а">
-<!ENTITY redirectWindowsSearch.accesskey "п">
-
 <!ENTITY oneClickSearchEngines.label           "One-click претраживачи">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Трака за претрагу вам омогућава да промените претраживач. Изаберите онај који желите да прикажете.">
