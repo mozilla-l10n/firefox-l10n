@@ -28,33 +28,30 @@
 <!ENTITY  cursive.label                           "Kurzíva:">
 <!ENTITY  cursive.accesskey                       "K">
 
-<!ENTITY font.langGroup.latin1                    "Západné">
-<!ENTITY font.langGroup.latin2                    "Stredoeurópske">
-<!ENTITY font.langGroup.japanese                  "Japonské">
-<!ENTITY font.langGroup.trad-chinese              "Tradičné čínske (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese             "Zjednodušené čínske">
-<!ENTITY font.langGroup.trad-chinese-hk           "Tradičné čínske (Hong Kong)">
-<!ENTITY font.langGroup.korean                    "Kórejské">
-<!ENTITY font.langGroup.cyrillic                  "Azbuka">
-<!ENTITY font.langGroup.baltic                    "Pobaltské">
-<!ENTITY font.langGroup.el                        "Grécke">
-<!ENTITY font.langGroup.turkish                   "Turecké">
-<!ENTITY font.langGroup.unicode1                  "Unicode">
-<!ENTITY font.langGroup.user-def                  "Vlastné">
-<!ENTITY font.langGroup.thai                      "Thajské">
-<!ENTITY font.langGroup.hebrew                    "Hebrejské">
-<!ENTITY font.langGroup.arabic                    "Arabské">
-<!ENTITY font.langGroup.devanagari                "Devanagari">
-<!ENTITY font.langGroup.tamil                     "Tamilské">
-<!ENTITY font.langGroup.armenian                  "Arménske">
-<!ENTITY font.langGroup.bengali                   "Bengálske">
-<!ENTITY font.langGroup.canadian                  "Jednotné kanadské">
-<!ENTITY font.langGroup.ethiopic                  "Etiópske">
-<!ENTITY font.langGroup.georgian                  "Georgiánske">
-<!ENTITY font.langGroup.gujarati                  "Gujarati">
-<!ENTITY font.langGroup.gurmukhi                  "Gurmukhi">
-<!ENTITY font.langGroup.khmer                     "Khmérske">
-<!ENTITY font.langGroup.malayalam                 "Malajské">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
+<!ENTITY  font.langGroup.japanese                 "Japonské">
+<!ENTITY  font.langGroup.trad-chinese             "Tradičné čínske (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Zjednodušené čínske">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tradičné čínske (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Kórejské">
+<!ENTITY  font.langGroup.cyrillic                 "Azbuka">
+<!ENTITY  font.langGroup.el                       "Grécke">
+<!ENTITY  font.langGroup.thai                     "Thajské">
+<!ENTITY  font.langGroup.hebrew                   "Hebrejské">
+<!ENTITY  font.langGroup.arabic                   "Arabské">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamilské">
+<!ENTITY  font.langGroup.armenian                 "Arménske">
+<!ENTITY  font.langGroup.bengali                  "Bengálske">
+<!ENTITY  font.langGroup.canadian                 "Jednotné kanadské">
+<!ENTITY  font.langGroup.ethiopic                 "Etiópske">
+<!ENTITY  font.langGroup.georgian                 "Georgiánske">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmérske">
+<!ENTITY  font.langGroup.malayalam                "Malajské">
 <!ENTITY  font.langGroup.math                     "Matematické znaky">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimálna veľkosť písma:">
@@ -62,8 +59,8 @@
 <!ENTITY minSize.none                             "Neurčená">
 
 <!-- default font type -->
-<!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
-<!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
+<!ENTITY  useDefaultFontSerif.label               "Pätkové (serif)">
+<!ENTITY  useDefaultFontSansSerif.label           "Bezpätkové (sans-serif)">
 
 <!ENTITY  useDocumentFonts.label                  "Povoliť dokumentom používať iné písma">
 <!ENTITY  useDocumentFonts.accesskey              "a">

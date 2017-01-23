@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label "Prehliadač">
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Composer">
 <!ENTITY editorCmd.accesskey "C">
@@ -13,7 +14,6 @@
 
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey "J">
 
 <!ENTITY taskNavigator.tooltip "Prehliadač">
 <!ENTITY taskComposer.tooltip "Composer">
@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Nastaviť službu Sync…">
-<!ENTITY syncSetup.accesskey       "N">
-<!ENTITY syncSyncNowItem.label     "Synchronizovať teraz">
+<!ENTITY syncSetup.label "Nastaviť službu Sync…">
+<!ENTITY syncSetup.accesskey "N">
+<!ENTITY syncSyncNowItem.label "Synchronizovať teraz">
 <!ENTITY syncSyncNowItem.accesskey "n">
