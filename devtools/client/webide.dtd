@@ -4,53 +4,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY runtimeMenu_disconnect_label "Bağlantını kəs">
-
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekran görüntüsü">
-
-
-
-
-
 <!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz Nizamlamaları">
 
-
-
-
 <!ENTITY viewMenu_label "Görünüş">
-
-
-
 <!ENTITY viewMenu_zoomin_label "Yaxınlaş">
-
 <!ENTITY viewMenu_zoomout_label "Uzaqlaş">
-
-
-
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -62,92 +22,40 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "Vərəqlər">
-
-
-
-
 <!ENTITY runtimePanel_installsimulator "Simulyator Quraşdır">
-
-
 
 <!-- Lense -->
 <!ENTITY details_warning_header "xəbərdarlıqlar">
-
 <!ENTITY details_description "Açıqlama">
 <!ENTITY details_location "Ünvan">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Qapat">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "Ümumi">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY prefs_options_keybindings_default "Standart">
-
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
 <!ENTITY device_typeboolean "Boolean">
-
-
 <!ENTITY device_typeobject "Nesne">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 <!ENTITY monitor_help "Kömək">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -162,17 +70,7 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
 <!ENTITY simulator_version "Buraxılış">
-
 <!ENTITY simulator_hardware "Avadanlıq">
-
-
-
-
-
-

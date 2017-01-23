@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Məxfi Səyahət ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "internetdə sizi anonim etmir,">
 <!ENTITY aboutPrivateBrowsing.note.after                 " müdürünüz və ya İnternet provayderiniz yenə də hansı səhifələri ziyarət etdiyinizi biləcək.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Məxfi Səyahət">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "haqqında ətraflı öyrənin">
 
 <!ENTITY trackingProtection.title                        "İzlənmə Qoruması">
 <!ENTITY trackingProtection.description2                 "Bəzi web saytlar, İnternetdə səyahət edərkən fəaliyyətinizi izləyə biləcək izləyicilərdən istifadə edirlər. Firefox-un İzlənmə Qoruması, fəalliyətiniz haqqında məlumat toplaya biləcək izləyicilərin çoxunu əngəlləyə bilər.">

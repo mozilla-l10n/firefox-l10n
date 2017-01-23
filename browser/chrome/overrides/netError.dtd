@@ -115,9 +115,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
 <!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/> ilə təhlükəsiz qoşulmaq mümkün olmadı, çünki saatınız səhv vaxtı göstərir.</p><p>Kompüteriniz saatın <span id='wrongSystemTime_systemDate'/> olduğunu düşünür, amma <span id='wrongSystemTime_actualDate'/> olmalıdır. Xətanı həll etmək üçün vaxt və saat tənzimləməsini mövcud vaxt ilə dəyişdirin.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Qorumasız Bağlantı">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu sayt, &brandShortName; səyyahının özünə ancaq təhlükəsiz şəkildə qoşula biləcəyini bidirmək üçün HTTP Qəti Transfer Təhlükəsizliyi (HTTS) istifadə edir. Bu səbəbdən, bu sertifikat üçün istisna əlavə etmək mümkün deyil.">
