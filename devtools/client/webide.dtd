@@ -125,6 +125,7 @@
 <!ENTITY prefs_options_showeditor "Εμφάνιση επεξεργαστή">
 <!ENTITY prefs_options_showeditor_tooltip "Εμφάνιση εσωτερικού επεξεργαστή">
 <!ENTITY prefs_options_tabsize "Μέγεθος καρτέλας">
+<!ENTITY prefs_options_expandtab_tooltip "Χρήση διαστημάτων αντί του χαρακτήρα στηλοθέτη">
 <!ENTITY prefs_options_autocomplete "Αυτόματη συμπλήρωση">
 <!ENTITY prefs_options_autocomplete_tooltip "Ενεργοποίηση αυτόματης συμπλήρωσης κώδικα">
 <!ENTITY prefs_options_autoclosebrackets "Αυτόματο κλείσιμο παρενθέσεων">
@@ -132,6 +133,7 @@
 <!ENTITY prefs_options_keybindings "Δεσμοί πληκτρολογίου">
 <!ENTITY prefs_options_keybindings_default "Προεπιλογή">
 <!ENTITY prefs_options_autosavefiles "Αυτόματη αποθήκευση αρχείων">
+<!ENTITY prefs_options_autosavefiles_tooltip "Να γίνεται αυτόματη αποθήκευση των τροποποιημένων αρχείων πριν την εκτέλεση του έργου">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Πληροφορίες Runtime">
@@ -171,6 +173,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Αναγνώριση πελάτη">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
