@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "বিচ্ছিন্ন কৰক">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "অনুমতিসমূহৰ টেবুল">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্ৰিনশ্বট">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "চলনসময় তথ্য">
@@ -138,10 +136,6 @@
 <!ENTITY prefs_options_keybindings "কিবাইণ্ডিংসমূহ">
 <!ENTITY prefs_options_keybindings_default "অবিকল্পিত">
 
-
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "অনুমতিসমূহ টেবুল">
 
 <!-- Runtime Details -->
 

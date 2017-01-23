@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ফাইল বাছক…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "এই পৃষ্টা পত্ৰচিহ্নিত কৰক…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "এই পৃষ্ঠা মচক">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ বিষয়ে পাহৰি যাওক">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

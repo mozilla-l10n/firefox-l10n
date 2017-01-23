@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "যেতিয়া &brandShortName; আৰম্ভ হয়:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "মোৰ ঘৰৰ পৃষ্ঠা দেখুৱাওক">
+
 <!ENTITY startupBlankPage.label    "ৰিক্ত পৃষ্ঠা দেখুৱাওক">
-<!ENTITY startupLastSession.label  "যোৱা বাৰৰ মোৰ উইন্ডো আৰু টেবসমূহ দেখুৱাওক">
+
 
 <!ENTITY homepage.label            "ঘৰ পৃষ্ঠা:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "নিৰ্বাচন কৰক…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ফাইলসমূহ ক'ত সংৰক্ষণ কৰা হব মোক সদায় সোধিব">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 

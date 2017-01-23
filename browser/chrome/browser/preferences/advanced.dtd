@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "মই টাইপ কৰা আৰম্ভ কৰোতে লিখনিৰ বাবে সন্ধান কৰিব">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "ৱেব ছাইটে পৃষ্ঠাক পুনৰ নিৰ্দেশ বা পুনৰ ল'ড কৰাৰ চেষ্টা কৰিলে মোক সাৱধান কৰিব">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "মই লিখাৰ সময়তে বানান পৰীক্ষা কৰক">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "তথ্যৰ পছন্দসমূহ">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "ক্যাশ কৰা ৱেব সমল">
 
 <!ENTITY offlineStorage2.label           "অফলাইন ৱেব সমল আৰু ব্যৱহাৰকাৰী তথ্য">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "আপডেইট কৰক">
 
-<!ENTITY updateApp.label                 "&brandShortName; আপডেইটসমূহ:">
 <!ENTITY updateAuto1.label               "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক (উপদেশিত: উন্নত সুৰক্ষা)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "আপডেইটসমূহ নীৰিক্ষণ কৰক, কিন্তু সিহতক ইনস্টল কৰা হব নে মোক বাছিব দিব">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুৰক্ষা ভয়)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "স্বচালিতভাৱে আপডেইট কৰক:">
 <!ENTITY enableSearchUpdate.label        "সন্ধান ইঞ্জিনসমূহ">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "অফ-লাইন ব্যৱহাৰৰ বাবে ৱেব-ছাইটে তথ্য সংৰক্ষণ কৰিব বিচাৰিলে মোক ক'ব">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "ব্যতিক্ৰমসমূহ…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্ৰমসমূহ…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "নিম্মলিখিত ৱেবছাইটসমূহক অফলাইন ব্যৱহাৰৰ বাবে তথ্য সংৰক্ষণ কৰাৰ অনুমতি আছে:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,11 +108,11 @@
 
 <!ENTITY certificateTab.label            "প্ৰমাণপত্ৰসমূহ">
 
-<!ENTITY certSelection.description       "যেতিয়া এটা চাৰ্ভাৰক মোৰ প্ৰমাণপত্ৰৰ প্ৰয়োজন হয়:">
-<!ENTITY certs.auto                      "এটা নিজেই নিৰ্বাচন কৰিব">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "মোক প্ৰত্যেক বাৰেই সোধিব">
-<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY selectCerts.auto                "এটা নিজেই নিৰ্বাচন কৰিব">
+
+
+
 <!ENTITY enableOCSP.label                "প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "প্ৰমাণপত্ৰসমূহ চাওক">
