@@ -51,7 +51,7 @@
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "h">
 
-<!ENTITY quitApplicationCmdUnix.label  "Izhod">
+<!ENTITY quitApplicationCmdUnix.label  "Končaj">
 <!ENTITY quitApplicationCmdUnix.accesskey  "h">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapri &brandShortName;">
