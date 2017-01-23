@@ -85,6 +85,7 @@
 <!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "书签">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "打开的标签页">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "历史记录">
 <!ENTITY engine.history.accesskey   "r">

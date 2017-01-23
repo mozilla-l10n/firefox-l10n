@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "设置 - 站点数据">
+<!ENTITY     settings.description          "下列网站请求在您的磁盘上存储站点数据。您可以指定允许哪些网站存储站点数据。默认的站点数据为临时性，并可能被自动删除。">
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     usageCol.label                "存储">
