@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "添加新身份">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "首选项">
+<!ENTITY removeButton.label   "移除">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; 返回“隐私”">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "名称：">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "请输入身份名称">
 <!ENTITY icon.label           "图标：">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "颜色：">
