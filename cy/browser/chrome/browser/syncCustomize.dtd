@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "N">
 <!ENTITY engine.history.label             "Hanes">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Tabiau">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "Cyfrineiriau">
 <!ENTITY engine.passwords.accesskey       "C">
 <!ENTITY engine.addons.label              "Ychwanegion Bwrdd Gwaith">

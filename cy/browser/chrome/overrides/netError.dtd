@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Wps.">
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
-<!ENTITY captivePortal.title "Mewngofnodi i'r rhwydwaith">
-<!ENTITY captivePortal.longDesc "<p>Efallai y bydd y rhwydwaith angen i chi fewngofnodi i ddefnyddio'r rhyngrwyd.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Agor Tudalen Mewngofnodi">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Uwch">
 <!ENTITY weakCryptoAdvanced.longDesc "Mae <span class='hostname'></span> yn defnyddio hen dechnoleg diogelwch sy'n fregus iawn. Gall ymosodwr ddatgelu'n hawdd fanylion roeddech yn meddwl eu bod yn ddiogel.">
 <!ENTITY weakCryptoAdvanced.override "(Ddim yn ddiogel) Ceisiwch llwytho <span class='hostname'></span> gan ddefnyddio hen offer diogelwch">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Nid yw cysylltiad diogel i <span id='wrongSystemTime_URL'/> yn bosib gan fod eich cloc i weld yn dangos yr amser yn anghywir.</p> <p>Mae eich cyfrifiadur yn meddwl mai <span id='wrongSystemTime_systemDate'/>, yw hi, pan ddylai fod yn <span id='wrongSystemTime_actualDate'/>. I ddatrys yr anhawster, newidiwch eich gosodiadau dyddiad ac amser i'w cydweddu â'r amser cywir.</p>">
 
 <!ENTITY certerror.pagetitle1  "Cysylltiad Anniogel">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Mae'r wefan hon yn defnyddio HTTP Strict Transport Security (HSTS) i bennu fod &brandShortName; yn unig yn cysylltu iddo'n ddiogel. O ganlyniad, nid yw'n bosib ychwanegu eithriad ar gyfer y dystysgrif hon.">

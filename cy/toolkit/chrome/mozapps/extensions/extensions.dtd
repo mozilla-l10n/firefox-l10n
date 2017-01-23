@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "G">
 <!ENTITY toolsMenu.tooltip                    "Offer ar gyfer pob ychwanegyn">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
 <!ENTITY cmd.forward.tooltip                  "Ymlaen un tudalen">
 
