@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Аднавіць вашы настаўленні пошуку?">
 
+<!ENTITY searchreset.pageInfo1      "Вашы настаўленні пошуку маглі састарэць. &brandShortName; можа дапамагчы вам аднавіць стандартныя пашуковыя настаўленні.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
