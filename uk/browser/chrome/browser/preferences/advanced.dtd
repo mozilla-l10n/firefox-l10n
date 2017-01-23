@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для переміщення всередині сторінок">
 <!ENTITY useCursorNavigation.accesskey   "в">
-<!ENTITY searchStartTyping.label         "Шукати текст на сторінці під час його введення">
-<!ENTITY searchStartTyping.accesskey     "т">
-<!ENTITY blockAutoRefresh.label          "Попереджати при спробі сайтів переадресувати чи перезавантажити сторінку">
-<!ENTITY blockAutoRefresh.accesskey      "П">
 <!ENTITY useOnScreenKeyboard.label       "Показувати сенсорну клавіатуру при необхідності">
 <!ENTITY useOnScreenKeyboard.accesskey   "о">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "п">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "к">
-<!ENTITY checkSpelling.label             "Перевіряти орфографію при введенні тексту">
-<!ENTITY checkSpelling.accesskey         "е">
 
 <!ENTITY dataChoicesTab.label            "Вибір даних">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Автономний веб-вміст і дані користувача">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Оновлення">
 
-<!ENTITY updateApp.label                 "Оновлення &brandShortName;:">
 <!ENTITY updateAuto1.label               "Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)">
 <!ENTITY updateAuto1.accesskey           "А">
-<!ENTITY updateCheck.label               "Перевіряти наявність оновлень, але питати мене чи хочу я їх встановити">
-<!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Не перевіряти оновлення (не рекомендовано: небезпечно)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Використовувати фонову службу для встановлення оновлень">
 <!ENTITY useService.accesskey            "с">
 
-<!ENTITY updateOthers.label              "Автоматично оновлювати:">
 <!ENTITY enableSearchUpdate.label        "Засоби пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "о">
 
-<!ENTITY offlineNotify.label             "Повідомляти, коли веб-сайт просить зберегти дані для автономного використання.">
-<!ENTITY offlineNotify.accesskey         "П">
-<!ENTITY offlineNotifyExceptions.label   "Винятки…">
-<!ENTITY offlineNotifyExceptions.accesskey "н">
 
 <!ENTITY offlineAppsList2.label          "Наступним веб-сайтам дозволено зберігати дані для автономного використання:">
 <!ENTITY offlineAppsList.height          "10em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Вилучити автономні дані">
 
 <!ENTITY certificateTab.label            "Сертифікати">
-<!ENTITY certSelection.label             "Запити">
-<!ENTITY certSelection.description       "Коли сервер вимагає мій особистий сертифікат:">
-<!ENTITY certs.auto                      "Надсилати автоматично">
-<!ENTITY certs.auto.accesskey            "а">
-<!ENTITY certs.ask                       "Питати кожного разу">
-<!ENTITY certs.ask.accesskey             "к">
 <!ENTITY enableOCSP.label                "Запитувати у серверів OCSP підтвердження поточного стану сертифікатів">
 <!ENTITY enableOCSP.accesskey            "п">
 <!ENTITY viewCerts.label                 "Перегляд сертифікатів">

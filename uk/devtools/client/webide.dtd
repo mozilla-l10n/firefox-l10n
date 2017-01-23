@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Роз’єднати">
 <!ENTITY runtimeMenu_disconnect_accesskey "Р">
-<!ENTITY runtimeMenu_showPermissionTable_label "Таблиця дозволів">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "Т">
 <!ENTITY runtimeMenu_takeScreenshot_label "Знімок екрану">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "З">
 <!ENTITY runtimeMenu_showDetails_label "Інформація Runtime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Типово">
 <!ENTITY prefs_options_autosavefiles "Автозбереження файлів">
 <!ENTITY prefs_options_autosavefiles_tooltip "Автоматично зберігати змінені файли перед запуском проекту">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Таблиця дозволів">
-<!ENTITY permissionstable_name_header "Назва">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Інформація Runtime">

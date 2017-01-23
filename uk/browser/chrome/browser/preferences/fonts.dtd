@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Із зарубками">
 <!ENTITY  useDefaultFontSansSerif.label           "Без зарубок">
 
-<!ENTITY  allowPagesToUse.label                   "Дозволити сайтам використовувати свої шрифти замість встановлених">
-<!ENTITY  allowPagesToUse.accesskey               "л">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодування для старих веб-сторінок">
 <!ENTITY languages.customize.Fallback2.label      "Запасне кодування:">

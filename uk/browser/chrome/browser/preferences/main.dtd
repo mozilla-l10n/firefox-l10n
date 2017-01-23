@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "При запуску &brandShortName;:">
 <!ENTITY startupPage.accesskey     "з">
-<!ENTITY startupHomePage.label     "Показувати початкову сторінку">
 <!ENTITY startupBlankPage.label    "Показувати порожню сторінку">
-<!ENTITY startupLastSession.label  "Показувати вікна і вкладки, відкриті минулого разу">
 
 <!ENTITY homepage.label            "Початкова сторінка:">
 <!ENTITY homepage.accesskey        "о">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "В">
 <!ENTITY chooseFolderMac.label        "Вибрати…">
 <!ENTITY chooseFolderMac.accesskey    "В">
-<!ENTITY alwaysAsk.label "Завжди запитувати де зберегти файли">
-<!ENTITY alwaysAsk.accesskey "ж">
 
 <!ENTITY alwaysCheckDefault2.label        "Завжди перевіряти чи є &brandShortName; типовим браузером">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
