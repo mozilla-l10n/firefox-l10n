@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "ಸೆರಿಫ್">
 <!ENTITY  useDefaultFontSansSerif.label           "ಸಾನ್ಸ್‍ ಸೆರಿಫ್">
 
-<!ENTITY  allowPagesToUse.label                   "ಈ ಮೇಲಿನ ನನ್ನ ಆಯ್ಕೆಯ ಬದಲಿಗೆ, ಪುಟಗಳು ತಮ್ಮದೆ ಆದ ಅಕ್ಷರಶೈಲಿಯನ್ನು ಆರಿಸಲು ಅನುಮತಿಸು">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಟೆಕ್ಸ್ಟ್ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY languages.customize.Fallback2.label      "ಹಿಮ್ಮರಳುವ Text ಎನ್ಕೋಡಿಂಗ್‌:">

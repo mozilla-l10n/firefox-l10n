@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ಎಲ್ಲಾ ಆಡ್‌-ಆನ್‌ಗಳಿಗಾಗಿನ ಉಪಕರಣಗಳು">
 
+
+
 <!ENTITY cmd.back.tooltip                     "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
 <!ENTITY cmd.forward.tooltip                  "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
 

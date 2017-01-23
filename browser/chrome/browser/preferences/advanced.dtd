@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "ನಾನು ಟೈಪಿಸಲು ಆರಂಭಿಸುತ್ತಿದ್ದಂತೆ ಪಠ್ಯಕ್ಕಾಗಿ ಹುಡುಕು">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "ಜಾಲತಾಣಗಳು ಪುಟಗಳನ್ನು ಮರಳಿ  ನಿರ್ದೇಶಿಸಿದಾಗ ಅಥವ ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನಗೆ ತಿಳಿಸು">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "ಅಗತ್ಯಬಿದ್ದಾಗ ಒಂದು ಟಚ್ ಕೀಲಮಣೆಯನ್ನು ತೋರಿಸು">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "ನಾನು ಟೈಪ್ ಮಾಡಿದಂತೆಲ್ಲಾ ಕಾಗುಣಿತವನ್ನು ಪರಿಶೀಲಿಸು">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು">
 
 <!ENTITY offlineStorage2.label           "ಆಫ್‌ಲೈನ್ ಜಾಲದ ವಿಷಯಗಳು ಮತ್ತು ಬಳಕೆದಾರ ಮಾಹಿತಿ">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
 
-<!ENTITY updateApp.label                 "&brandShortName; ಅಪ್‌ಡೇಟ್‌ಗಳು:">
 <!ENTITY updateAuto1.label               "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸು (ಸಲಹೆ ಮಾಡಲಾಗಿದೆ: ಉತ್ತಮಗೊಳಿಸಲಾದ ಸುರಕ್ಷತೆ)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವದನ್ನು ನಿರ್ಧರಿಸಲು ನನಗೆ ಬಿಡು">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಎಂದಿಗೂ ಪರಿಶೀಲಿಸಬೇಡ (ಸಲಹೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಸುರಕ್ಷತಾ ಅಪಾಯ)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡು:">
 <!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಿಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನನಗೆ ತಿಳಿಸು">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "ವಿನಾಯಿತಿಗಳು…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "ವಿನಾಯಿತಿಗಳು…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಲು ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳಿಗೆ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -104,12 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "ಆಫ್‌ಲೈನ್‌ ಮಾಹಿತಿಯನ್ನು ತೆಗೆದು ಹಾಕು">
 
 <!ENTITY certificateTab.label            "ಪ್ರಮಾಣಪತ್ರಗಳು">
-<!ENTITY certSelection.label             "ಮನವಿಗಳು">
-<!ENTITY certSelection.description       "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ:">
-<!ENTITY certs.auto                      "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನ ಅನುಮತಿ ಕೇಳು">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "ಮನವಿಗಳು">
+
+<!ENTITY selectCerts.auto                "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
+
+
+
 <!ENTITY enableOCSP.label                "ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ತೋರಿಸು">

@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "ಪುಟದಿಂದ ಸೂಚಿಸಲಾದ ಬಣ್ಣಗಳನ್ನು ಮೇಲಿನ ನನ್ನ ಆಯ್ಕೆಗಳಿಂದ ಬದಲಾಯಿಸಿ:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "ಯಾವಾಗಲೂ">
-<!ENTITY  overridePageColors.auto.label   "ಹೆಚ್ಚು ಕಾಂಟ್ರಾಸ್ಟ್‌ ಥೀಮ್‌ಗಳಿಂದ ಮಾತ್ರ">
-<!ENTITY  overridePageColors.never.label  "ಎಂದಿಗೂ ಬೇಡ">
+
+<!ENTITY  overrideDefaultPageColors.always.label "ಯಾವಾಗಲೂ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "ಹೆಚ್ಚು ಕಾಂಟ್ರಾಸ್ಟ್‌ ಥೀಮ್‌ಗಳಿಂದ ಮಾತ್ರ">
+<!ENTITY  overrideDefaultPageColors.never.label  "ಎಂದಿಗೂ ಬೇಡ">
 
 <!ENTITY  color                           "ಪಠ್ಯ ಹಾಗು ಹಿನ್ನಲೆ">
 <!ENTITY  textColor.label                 "ಪಠ್ಯ:">
