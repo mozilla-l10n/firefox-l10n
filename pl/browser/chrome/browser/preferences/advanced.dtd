@@ -8,10 +8,10 @@
 
 <!ENTITY useCursorNavigation.label       "Zawsze używaj klawiszy kursora do nawigacji po stronach">
 <!ENTITY useCursorNavigation.accesskey   "g">
-<!ENTITY searchStartTyping.label         "Rozpoczynaj wyszukiwanie podczas wpisywania tekstu">
-<!ENTITY searchStartTyping.accesskey "R">
-<!ENTITY blockAutoRefresh.label          "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
-<!ENTITY blockAutoRefresh.accesskey      "w">
+<!ENTITY searchOnStartTyping.label "Rozpoczynaj wyszukiwanie podczas wpisywania tekstu">
+<!ENTITY searchOnStartTyping.accesskey "R">
+<!ENTITY blockAutoReload.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
+<!ENTITY blockAutoReload.accesskey "w">
 <!ENTITY useOnScreenKeyboard.label "Wyświetlanie klawiatury ekranowej, gdy zachodzi taka potrzeba">
 <!ENTITY useOnScreenKeyboard.accesskey "e">
 
@@ -23,8 +23,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "n">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey          "K">
-<!ENTITY checkSpelling.label             "Sprawdzaj pisownię podczas wprowadzania tekstu">
-<!ENTITY checkSpelling.accesskey         "i">
+<!ENTITY checkUserSpelling.label "Sprawdzaj pisownię podczas wprowadzania tekstu">
+<!ENTITY checkUserSpelling.accesskey "i">
 
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
@@ -73,8 +73,8 @@
 <!ENTITY updateApplication.label "Aktualizacje programu &brandShortName;">
 <!ENTITY updateAuto1.label               "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
 <!ENTITY updateAuto1.accesskey "I">
-<!ENTITY updateCheck.label               "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
-<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateCheckChoose.label "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
+<!ENTITY updateCheckChoose.accesskey "S">
 <!ENTITY updateManual.label              "Nie sprawdzaj dostępności aktualizacji (niezalecane: zagrożenie bezpieczeństwa)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Wyświetl historię aktualizacji">
@@ -86,10 +86,10 @@
 <!ENTITY enableSearchUpdate.label "Wyszukiwarki">
 <!ENTITY enableSearchUpdate.accesskey "z">
 
-<!ENTITY offlineNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
-<!ENTITY offlineNotify.accesskey         "o">
-<!ENTITY offlineNotifyExceptions.label   "Wyjątki…">
-<!ENTITY offlineNotifyExceptions.accesskey "W">
+<!ENTITY offlineStorageNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
+<!ENTITY offlineStorageNotify.accesskey "o">
+<!ENTITY offlineStorageNotifyExceptions.label "Wyjątki…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "W">
 
 <!ENTITY offlineAppsList2.label          "Następujące witryny mogą przechowywać dane dla trybu offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -98,12 +98,12 @@
 <!ENTITY offlineAppRemove.confirm        "Usuń dane trybu offline">
 
 <!ENTITY certificateTab.label            "Certyfikaty">
-<!ENTITY certSelection.label "Żądania certyfikatów">
-<!ENTITY certSelection.description       "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
-<!ENTITY certs.auto                      "wybierz certyfikat automatycznie">
-<!ENTITY certs.auto.accesskey "a">
-<!ENTITY certs.ask                       "pytaj za każdym razem">
-<!ENTITY certs.ask.accesskey             "r">
+<!ENTITY certPersonal.label "Żądania certyfikatów">
+<!ENTITY certPersonal.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
+<!ENTITY selectCerts.auto "wybierz certyfikat automatycznie">
+<!ENTITY selectCerts.auto.accesskey "a">
+<!ENTITY selectCerts.ask "pytaj za każdym razem">
+<!ENTITY selectCerts.ask.accesskey "r">
 <!ENTITY enableOCSP.label "Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów">
 <!ENTITY enableOCSP.accesskey "O">
 <!ENTITY viewCerts.label                 "Wyświetl certyfikaty">
