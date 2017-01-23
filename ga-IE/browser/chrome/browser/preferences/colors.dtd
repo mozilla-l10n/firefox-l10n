@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
 
-<!ENTITY  overridePageColors.label        "Úsáid mo rogha dathanna in áit na ndathanna atá sonraithe ag an leathanach:">
-<!ENTITY  overridePageColors.accesskey    "o">
 
-<!ENTITY  overridePageColors.always.label "I gCónaí">
-<!ENTITY  overridePageColors.auto.label   "Le téamaí Ardchodarsnachta amháin">
-<!ENTITY  overridePageColors.never.label  "Riamh">
+
+<!ENTITY  overrideDefaultPageColors.always.label "I gCónaí">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Le téamaí Ardchodarsnachta amháin">
+<!ENTITY  overrideDefaultPageColors.never.label  "Riamh">
 
 <!ENTITY  color                           "Téacs agus Cúlra">
 <!ENTITY  textColor.label                 "Téacs:">

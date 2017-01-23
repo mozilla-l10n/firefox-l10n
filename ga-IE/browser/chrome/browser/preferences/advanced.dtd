@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Úsáid eochracha cúrsóra i gcónaí chun bogadh laistigh de leathanaigh">
 <!ENTITY useCursorNavigation.accesskey   "e">
-<!ENTITY searchStartTyping.label         "Cuardaigh téacs nuair a thosóidh mé ag clóscríobh">
-<!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Taispeáin méarchlár tadhaill nuair is gá">
 <!ENTITY useOnScreenKeyboard.accesskey   "m">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Litriú beo">
-<!ENTITY checkSpelling.accesskey         "L">
+
+
 
 <!ENTITY dataChoicesTab.label            "Roghanna Sonraí">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Ábhar Gréasáin i dTaisce">
 
 <!ENTITY offlineStorage2.label           "Ábhar Gréasáin As Líne agus Sonraí Úsáideora">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Nuashonrú">
 
-<!ENTITY updateApp.label                 "Nuashonruithe &brandShortName;:">
 <!ENTITY updateAuto1.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
-<!ENTITY updateCheck.accesskey           "L">
+
+
 <!ENTITY updateManual.label              "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Nuashonraigh go huathoibríoch:">
 <!ENTITY enableSearchUpdate.label        "Innill Chuardaigh">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
-<!ENTITY offlineNotify.label             "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Eisceachtaí…">
-<!ENTITY offlineNotifyExceptions.accesskey "s">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Eisceachtaí…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
 <!ENTITY offlineAppsList2.label          "Tá cead ag na suímh Ghréasáin seo a leanas sonraí a stóráil le húsáid as líne:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Bain sonraí as líne">
 
 <!ENTITY certificateTab.label            "Teastais">
-<!ENTITY certSelection.label             "Iarratais">
-<!ENTITY certSelection.description       "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
-<!ENTITY certs.auto                      "Roghnaigh go huathoibríoch">
-<!ENTITY certs.auto.accesskey            "u">
-<!ENTITY certs.ask                       "Fiafraigh díom i gcónaí">
-<!ENTITY certs.ask.accesskey             "d">
+<!ENTITY certPersonal.label              "Iarratais">
+
+<!ENTITY selectCerts.auto                "Roghnaigh go huathoibríoch">
+
+
+
 <!ENTITY enableOCSP.label                "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Taispeáin Teastais">

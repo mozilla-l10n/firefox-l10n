@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Roghnaigh Comhad…">
 <!ENTITY cmd.restoreFromFile.accesskey  "R">
 
-<!ENTITY cmd.bookmarkLink.label         "Cruthaigh Leabharmharc don Leathanach Seo…">
-<!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Scrios an Leathanach Seo">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Déan Dearmad ar an Suíomh Seo">
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 

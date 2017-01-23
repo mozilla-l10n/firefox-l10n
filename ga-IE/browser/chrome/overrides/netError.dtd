@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Úps.">
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
 
-<!ENTITY captivePortal.title "Logáil isteach sa líonra">
-<!ENTITY captivePortal.longDesc "<p>Seans gur gá duit logáil isteach sular féidir leat an tIdirlíon a úsáid.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Oscail an Leathanach Logála Isteach">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ardroghanna">
 <!ENTITY weakCryptoAdvanced.longDesc "Baineann <span class='hostname'></span> úsáid as teicneolaíocht slándála sheanaimseartha agus tá sé i mbaol a ionsaí. Bheadh bradaí in ann teacht ar d'fhaisnéis phearsanta go héasca. ">
 <!ENTITY weakCryptoAdvanced.override "(Contúirteach) Bain triail as <span class='hostname'></span> a luchtú in ainneoin teicneolaíocht slándála seanaimseartha">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Ní féidir ceangal slán a bhunú le <span id='wrongSystemTime_URL'/> toisc nach bhfuil clog do ríomhaire ar an am ceart.</p> <p>Síleann do ríomhaire gurb é <span id='wrongSystemTime_systemDate'/> an t-am, ach is é <span id='wrongSystemTime_actualDate'/> an t-am ceart. Chun an fhadhb seo a réiteach, ceartaigh an dáta agus an t-am ar do ríomhaire.</p> ">
 
 <!ENTITY certerror.pagetitle1  "Ceangal Neamhshlán">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Úsáideann an suíomh seo HTTP Strict Transport Security (HSTS) le cinntiú go gceanglaíonn &brandShortName; leis trí cheangal slán. Dá bharr seo, ní féidir eisceacht a chruthú don teastas seo.">

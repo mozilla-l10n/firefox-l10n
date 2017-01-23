@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "C">
 <!ENTITY openFrameCmd.label           "Oscail an Fráma i bhFuinneog Nua">
 <!ENTITY openFrameCmd.accesskey       "F">
-<!ENTITY openLinkCmdInContainerTab.label "Oscail an Nasc i gCluaisín Coimeadáin Nua">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Ná Taispeáin ach an Fráma Seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Oscail">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
 <!ENTITY syncedTabs.context.copy.label                       "Cóipeáil">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
