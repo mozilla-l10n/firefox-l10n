@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                      "Yhteystieto">
+<!ENTITY Contact.tab                     "Yhteystieto">
 <!ENTITY Contact.accesskey               "Y">
-<!ENTITY Name.box                         "Nimi">
+<!ENTITY Name.box                        "Nimi">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -15,107 +15,107 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                   "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                   "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id               "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id               "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label                "Etunimi:">
-<!ENTITY NameField1.accesskey            "E">
-<!ENTITY NameField2.label                "Sukunimi:">
-<!ENTITY NameField2.accesskey            "S">
-<!ENTITY PhoneticField1.label            "Foneettinen:">
-<!ENTITY PhoneticField2.label            "Foneettinen:">
-<!ENTITY DisplayName.label               "Näytä:">
-<!ENTITY DisplayName.accesskey           "N">
+<!ENTITY NameField1.label               "Etunimi:">
+<!ENTITY NameField1.accesskey           "E">
+<!ENTITY NameField2.label               "Sukunimi:">
+<!ENTITY NameField2.accesskey           "S">
+<!ENTITY PhoneticField1.label           "Foneettinen:">
+<!ENTITY PhoneticField2.label           "Foneettinen:">
+<!ENTITY DisplayName.label              "Näytä:">
+<!ENTITY DisplayName.accesskey          "N">
 <!ENTITY preferDisplayName.label        "Näytä aina näyttönimi jos olemassa viestiotsakkeen sijaan">
 <!ENTITY preferDisplayName.accesskey    "ä">
-<!ENTITY NickName.label                  "Lempinimi:">
-<!ENTITY NickName.accesskey              "L">
+<!ENTITY NickName.label                 "Lempinimi:">
+<!ENTITY NickName.accesskey             "L">
 
-<!ENTITY PrimaryEmail.label              "Sähköpostiosoite:">
-<!ENTITY PrimaryEmail.accesskey          "S">
-<!ENTITY SecondEmail.label               "Toinen sähköpostiosoite:">
-<!ENTITY SecondEmail.accesskey           "T">
-<!ENTITY PreferMailFormat.label          "Mieluisin muoto sähköpostille:">
-<!ENTITY PreferMailFormat.accesskey      "M">
-<!ENTITY PlainText.label                 "Pelkkä teksti">
-<!ENTITY HTML.label                      "HTML">
-<!ENTITY Unknown.label                   "Tuntematon">
+<!ENTITY PrimaryEmail.label             "Sähköpostiosoite:">
+<!ENTITY PrimaryEmail.accesskey         "S">
+<!ENTITY SecondEmail.label              "Toinen sähköpostiosoite:">
+<!ENTITY SecondEmail.accesskey          "T">
+<!ENTITY PreferMailFormat.label         "Mieluisin muoto sähköpostille:">
+<!ENTITY PreferMailFormat.accesskey     "M">
+<!ENTITY PlainText.label                "Pelkkä teksti">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Tuntematon">
 <!ENTITY chatName.label                 "Pikaviestinimi:">
 
-<!ENTITY WorkPhone.label                 "Työpuhelin:">
-<!ENTITY WorkPhone.accesskey             "T">
-<!ENTITY HomePhone.label                 "Koti:">
-<!ENTITY HomePhone.accesskey             "K">
-<!ENTITY FaxNumber.label                 "Faksi:">
-<!ENTITY FaxNumber.accesskey             "F">
-<!ENTITY PagerNumber.label               "Hakulaite:">
-<!ENTITY PagerNumber.accesskey           "H">
-<!ENTITY CellularNumber.label            "Matkapuhelin:">
-<!ENTITY CellularNumber.accesskey        "M">
+<!ENTITY WorkPhone.label                "Työpuhelin:">
+<!ENTITY WorkPhone.accesskey            "T">
+<!ENTITY HomePhone.label                "Koti:">
+<!ENTITY HomePhone.accesskey            "K">
+<!ENTITY FaxNumber.label                "Faksi:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Hakulaite:">
+<!ENTITY PagerNumber.accesskey          "H">
+<!ENTITY CellularNumber.label           "Matkapuhelin:">
+<!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Home.tab                       "Yksityinen">
 <!ENTITY Home.accesskey                 "Y">
-<!ENTITY HomeAddress.label               "Osoite:">
+<!ENTITY HomeAddress.label              "Osoite:">
 <!ENTITY HomeAddress.accesskey          "s">
-<!ENTITY HomeAddress2.label              "">
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                  "Kaupunki:">
+<!ENTITY HomeCity.label                 "Kaupunki:">
 <!ENTITY HomeCity.accesskey             "K">
-<!ENTITY HomeState.label                 "Lääni:">
+<!ENTITY HomeState.label                "Lääni:">
 <!ENTITY HomeState.accesskey            "L">
-<!ENTITY HomeZipCode.label               "Postinumero:">
+<!ENTITY HomeZipCode.label              "Postinumero:">
 <!ENTITY HomeZipCode.accesskey          "P">
-<!ENTITY HomeCountry.label               "Maa:">
+<!ENTITY HomeCountry.label              "Maa:">
 <!ENTITY HomeCountry.accesskey          "M">
-<!ENTITY HomeWebPage.label               "Verkkosivut:">
+<!ENTITY HomeWebPage.label              "Verkkosivut:">
 <!ENTITY HomeWebPage.accesskey          "V">
 <!ENTITY Birthday.label                 "Syntymäpäivä:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder                 "Syntymävuosi">
+<!ENTITY Year.placeholder               "Syntymävuosi">
 <!ENTITY Or.value                       "tai">
-<!ENTITY Age.placeholder                  "Ikä">
+<!ENTITY Age.placeholder                "Ikä">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Työ">
 <!ENTITY Work.accesskey                 "T">
-<!ENTITY JobTitle.label                  "Ammattinimi:">
+<!ENTITY JobTitle.label                 "Ammattinimi:">
 <!ENTITY JobTitle.accesskey             "A">
-<!ENTITY Department.label                "Osasto:">
+<!ENTITY Department.label               "Osasto:">
 <!ENTITY Department.accesskey           "a">
-<!ENTITY Company.label                   "Organisaatio:">
+<!ENTITY Company.label                  "Organisaatio:">
 <!ENTITY Company.accesskey              "r">
-<!ENTITY WorkAddress.label               "Osoite:">
+<!ENTITY WorkAddress.label              "Osoite:">
 <!ENTITY WorkAddress.accesskey          "i">
-<!ENTITY WorkAddress2.label              "">
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                  "Kaupunki:">
+<!ENTITY WorkCity.label                 "Kaupunki:">
 <!ENTITY WorkCity.accesskey             "u">
-<!ENTITY WorkState.label                 "Lääni:">
+<!ENTITY WorkState.label                "Lääni:">
 <!ENTITY WorkState.accesskey            "ä">
-<!ENTITY WorkZipCode.label               "Postinumero:">
+<!ENTITY WorkZipCode.label              "Postinumero:">
 <!ENTITY WorkZipCode.accesskey          "t">
-<!ENTITY WorkCountry.label               "Maa:">
+<!ENTITY WorkCountry.label              "Maa:">
 <!ENTITY WorkCountry.accesskey          "M">
-<!ENTITY WorkWebPage.label               "Verkkosivut:">
+<!ENTITY WorkWebPage.label              "Verkkosivut:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab                       "Muuta">
+<!ENTITY Other.tab                      "Muuta">
 <!ENTITY Other.accesskey                "t">
-<!ENTITY Custom1.label                   "Oma 1:">
-<!ENTITY Custom1.accesskey               "1">
-<!ENTITY Custom2.label                   "Oma 2:">
-<!ENTITY Custom2.accesskey               "2">
-<!ENTITY Custom3.label                   "Oma 3:">
-<!ENTITY Custom3.accesskey               "3">
-<!ENTITY Custom4.label                   "Oma 4:">
-<!ENTITY Custom4.accesskey               "4">
-<!ENTITY Notes.label                       "Huomautuksia">
+<!ENTITY Custom1.label                  "Oma 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Oma 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Oma 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Oma 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Huomautuksia">
 <!ENTITY Notes.accesskey                "H">
 
 <!ENTITY Chat.tab                       "Keskustelut">
@@ -123,7 +123,6 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -131,7 +130,6 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber-tunnus:">
@@ -151,6 +149,6 @@
 <!ENTITY BrowsePhoto.accesskey          "S">
 <!ENTITY PhotoURL.label                 "Verkossa">
 <!ENTITY PhotoURL.accesskey             "V">
-<!ENTITY PhotoURL.placeholder             "Liitä tai kirjoita www-osoite kuvaan">
+<!ENTITY PhotoURL.placeholder           "Liitä tai kirjoita www-osoite kuvaan">
 <!ENTITY UpdatePhoto.label              "Päivitä">
 <!ENTITY UpdatePhoto.accesskey          "P">
