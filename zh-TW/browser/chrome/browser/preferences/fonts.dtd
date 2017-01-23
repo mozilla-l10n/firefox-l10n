@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "襯線字型 (Serif)">
 <!ENTITY  useDefaultFontSansSerif.label           "無襯線字型 (Sans Serif)">
 
-<!ENTITY  allowPagesToUse.label                   "優先使用網頁指定的字型，忽略我上面的選擇">
-<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "開啟老舊內容時使用的文字編碼">
 <!ENTITY languages.customize.Fallback2.label      "備用字元編碼:">
@@ -105,4 +103,3 @@
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "越南文">
 <!ENTITY languages.customize.Fallback.other       "其他（包含西歐語系）">
-

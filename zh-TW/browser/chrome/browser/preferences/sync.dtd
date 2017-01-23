@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "書籤">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "分頁">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "瀏覽紀錄">
 <!ENTITY engine.history.accesskey   "r">

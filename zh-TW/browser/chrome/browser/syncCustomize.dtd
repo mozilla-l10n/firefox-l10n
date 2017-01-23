@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "瀏覽紀錄">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "分頁">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "密碼">
 <!ENTITY engine.passwords.accesskey       "P">
@@ -25,4 +24,3 @@
 <!ENTITY engine.addons.accesskey          "A">
 <!ENTITY engine.prefs.label               "桌面版偏好設定">
 <!ENTITY engine.prefs.accesskey           "S">
-
