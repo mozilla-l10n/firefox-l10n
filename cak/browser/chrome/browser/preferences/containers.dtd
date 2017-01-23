@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "B'i'aj">
 <!ENTITY addButton.label      "Titz'aqatisäx k'ak'a' k'wayöl">
 <!ENTITY addButton.accesskey  "t">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Titzolin pa Ichinanem">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "B'i'aj:">
 <!ENTITY name.accesskey       "B">
+
 <!ENTITY icon.label           "Wachib'äl:">
 <!ENTITY icon.accesskey       "W">
 <!ENTITY color.label          "B'onil:">

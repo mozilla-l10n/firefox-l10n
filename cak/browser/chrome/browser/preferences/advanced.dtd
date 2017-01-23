@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Junelïk ke'awokisaj ri taq rupitz'b'al retal ch'oy richin yatok pa taq ruxaq k'amaya'l">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Tikanöx taq rucholajem tzij toq tajin yatz'ib'an">
-<!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Tiya' rutzijol toq jun ruxaq k'amayal nrajo' yiruk'waj juk'wan chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'.">
-<!ENTITY blockAutoRefresh.accesskey      "T">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin">
 <!ENTITY useOnScreenKeyboard.accesskey   "p">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
-<!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
-<!ENTITY checkSpelling.accesskey         "n">
+
+
 
 <!ENTITY dataChoicesTab.label            "Kicha'ik taq tzij">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Rupam k'amaya'l pa jumejyak">
 
 <!ENTITY offlineStorage2.label           "Rupam chuqa' taq rutzij winäq majun kokem">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
-<!ENTITY updateApp.label                 "Taq k'exoj ruwäch &brandShortName;:">
 <!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
 <!ENTITY updateAuto1.accesskey           "r">
-<!ENTITY updateCheck.label               "Kenik'öx ri taq k'exoj ruwäch, xa xe chi tiya' q'ij chwe we ninwajo' chi kenyäk">
-<!ENTITY updateCheck.accesskey           "K">
+
+
 <!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
 <!ENTITY updateManual.accesskey          "M">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch">
 <!ENTITY useService.accesskey            "r">
 
-<!ENTITY updateOthers.label              "Tik'ex pa ruyonil:">
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 
-<!ENTITY offlineNotify.label             "Tiya' rutzijol chwe we k'o jun k'amaya'l nrajo' nuyäk taq tzij  richin nrokisaj toq majun okem pa k'amaya'l">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Taq man relik ta…">
-<!ENTITY offlineNotifyExceptions.accesskey "e">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Taq man relik ta…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "e">
 
 <!ENTITY offlineAppsList2.label          "Re taq ruxaq k'amaya'l re' ya'on q'ij chi ke richin nikiyäk kan ri taq tzij richin nokisäx pa rub'eyal majun okem pa k'amaya'l:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
-<!ENTITY certSelection.label             "Taq k'utuj">
-<!ENTITY certSelection.description       "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil b'i'aj:">
-<!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Junelïk tik'utüx pe">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Taq k'utuj">
+
+<!ENTITY selectCerts.auto                "Pa ruyonil ticha' jun">
+
+
+
 <!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'">
 <!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Titz'et taq ruwujil b'i'aj">

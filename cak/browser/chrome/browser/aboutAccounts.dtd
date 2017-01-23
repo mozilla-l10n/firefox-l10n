@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Ütz apetik pa &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Okisan ri taqoya'l">
 
 <!ENTITY aboutAccountsConfig.description "Tatikirisaj molojri'ïl pa kiximojri'ïl taq ruwi', taq yaketal, ewan tzij chuqa' juley chik.">
 <!ENTITY aboutAccountsConfig.startButton.label "Titikirisäx">

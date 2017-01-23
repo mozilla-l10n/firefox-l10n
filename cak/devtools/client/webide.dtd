@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Tichup">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Kemon kikajtz'ik taq ya'oj q'ij">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "y">
 <!ENTITY runtimeMenu_takeScreenshot_label "Chapoj ruwäch">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Retamab'al ri ruk'ojlem b'anatajnäq">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Jikib'an wi">
 <!ENTITY prefs_options_autosavefiles "Tiyak pa ruyonil ri yakb'äl">
 <!ENTITY prefs_options_autosavefiles_tooltip "Pa ruyonil keyak ri nuk'un taq yakb'äl chuwäch xtisamajïx ri nuk'samaj">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Kemon kikajtz'ik taq ya'oj q'ij">
-<!ENTITY permissionstable_name_header "B'i'aj">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Retamab'al ri ruk'ojlem b'anatajnäq">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Taq rucha'oj ojqanel">
 <!ENTITY simulator_remove "Tiyuj el ri ojqanel">
 <!ENTITY simulator_reset "Ke'atzolij ri taq wachinel e k'o wi">
-<!ENTITY simulator_name "B'i'aj">
+
 <!ENTITY simulator_software "Kema'">
 <!ENTITY simulator_version "Ruwäch">
 <!ENTITY simulator_profile "Ruwäch b'i'aj">

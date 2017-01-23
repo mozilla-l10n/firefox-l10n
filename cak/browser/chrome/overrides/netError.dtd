@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Uy.">
 <!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
-<!ENTITY captivePortal.title "Katok pa k'amab'ey">
-<!ENTITY captivePortal.longDesc "<p>Re k'amab'ey re' rik'in jub'a' nrajo' chi tatikirisaj molojri'ïl richin nawokisaj ri k'amaya'l.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Tijaq ruxaq tikirib'äl moloj">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Q'axinäq">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> nrokisaj jun ojer k'ak'a' samaj richin chajinïk chuqa' man nitikïr ta niq'eleb'en. Jun eleq'om chanin nitikïr nuya' rutzijol ri etamab'äl nina'ojïx chi ütz rub'anon.">
 <!ENTITY weakCryptoAdvanced.override "(Man ütz ta) Tajin notojtob'ej nok <span class='hostname'></span> tajin norikisaj ojer chanijem">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Jun ütz okem pa <span id='wrongSystemTime_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üp pe ju sachoj ramaj.</p> <p>Ri akematz'ib' nuna'oji chi wakami <span id='wrongSystemTime_systemDate'/>, toq k'o chi <span id='wrongSystemTime_actualDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 
 <!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">

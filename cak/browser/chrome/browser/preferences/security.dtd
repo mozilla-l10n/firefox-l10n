@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Chijun">
 
-<!ENTITY  warnAddonInstall.label        "Tiya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
-<!ENTITY  warnAddonInstall.accesskey    "T">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Keq'at k'ayew taq qasanïk">
 <!ENTITY  blockDownloads.accesskey        "k">
 
-<!ENTITY  blockUncommonUnwanted.label     "Tiya' pe rutzijol chwe pa ruwi' ri itzel chuqa' man relik ta taq kema'">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
+
 
 <!ENTITY  addonExceptions.label         "Taq man relik ta…">
 <!ENTITY  addonExceptions.accesskey     "r">

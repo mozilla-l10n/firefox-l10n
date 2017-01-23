@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "w">
 <!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' tzuwäch">
 <!ENTITY openFrameCmd.accesskey       "t">
-<!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ajk'wayöl ruwi'">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Tik'ut pe xa xe re ruchi' re'">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Tijaq">
 <!ENTITY syncedTabs.context.open.accesskey                   "a">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "T">
 <!ENTITY syncedTabs.context.copy.label                       "Tiwachib'ëx">
 <!ENTITY syncedTabs.context.copy.accesskey                   "c">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

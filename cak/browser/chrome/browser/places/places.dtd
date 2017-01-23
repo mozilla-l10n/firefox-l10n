@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Ticha' yamb'äl…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Titz'aqatisäx pa yaketal re ruxaq re'…">
-<!ENTITY cmd.bookmarkLink.accesskey     "y">
-<!ENTITY cmd.delete.label               "Telesäx el re ruxaq re'">
-<!ENTITY cmd.delete.accesskey           "e">
 <!ENTITY cmd.deleteDomainData.label     "Timestäx re ruxaq k'amaya'l re'">
 <!ENTITY cmd.deleteDomainData.accesskey "m">
 

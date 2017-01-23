@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Tixim">
 <!ENTITY engine.bookmarks.label     "Taq etal">
 <!ENTITY engine.bookmarks.accesskey "e">
-<!ENTITY engine.tabs.label          "Taq ruwi'">
-<!ENTITY engine.tabs.accesskey      "w">
+
+
 <!ENTITY engine.history.label       "K'ulwachinel">
 <!ENTITY engine.history.accesskey   "e">
 <!ENTITY engine.passwords.label     "Ewan taq tzij">

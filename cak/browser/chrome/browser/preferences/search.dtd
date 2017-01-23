@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri &brandShortName; richin majub'ey tunataj ri anatab'al.">
 
-<!ENTITY redirectWindowsSearch.label "Tokisäx re rusamajinel kanoxik richin nikanöx pa Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Taq kanonel rik'in jun pitz'oj">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Ri yuquyïk rukajtz'ik rukanoxik nuya' q'ij chawe nawokisaj juley chik taq kanonel. Ke'acha' achike ri yeb'ek'ut pe.">
