@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Meklēt:">
-<!ENTITY     filter.accesskey               "M">
 
 <!ENTITY     button.close.label             "Aizvērt">
 <!ENTITY     button.close.accesskey         "z">
