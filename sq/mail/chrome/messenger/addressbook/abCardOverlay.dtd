@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
 <!ENTITY Name.box                        "Emër">
@@ -78,9 +77,9 @@
 <!ENTITY Birthday.label                 "Datëlindje:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder                 "Vit">
+<!ENTITY Year.placeholder               "Vit">
 <!ENTITY Or.value                       "ose">
-<!ENTITY Age.placeholder                  "Moshë">
+<!ENTITY Age.placeholder                "Moshë">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Pune">
@@ -124,7 +123,6 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -132,7 +130,6 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID Jabber:">
