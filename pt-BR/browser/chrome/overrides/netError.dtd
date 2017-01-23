@@ -165,9 +165,9 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras.">
 <!ENTITY weakCryptoAdvanced.override "(Não seguro) Tentando carregar <span class='hostname'></span> usando a segurança desatualizada">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Não é possível se conectar com segurança a <span id='wrongSystemTime_URL'/> pois seu relógio parece estar com a hora incorreta.</p> <p>Seu computador pensa que é <span id='wrongSystemTime_systemDate'/>, quando deveria ser <span id='wrongSystemTime_actualDate'/>. Para corrigir esse problema, ajuste as configurações de data e hora para os valores corretos.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP

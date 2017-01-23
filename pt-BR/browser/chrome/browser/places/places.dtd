@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Selecionar arquivo…">
 <!ENTITY cmd.restoreFromFile.accesskey  "S">
 
-<!ENTITY cmd.bookmarkLink.label         "Adicionar aos favoritos…">
-<!ENTITY cmd.bookmarkLink.accesskey     "d">
-<!ENTITY cmd.delete.label               "Excluir esta página">
-<!ENTITY cmd.delete.accesskey           "x">
 <!ENTITY cmd.deleteDomainData.label     "Esquecer este site">
 <!ENTITY cmd.deleteDomainData.accesskey "L">
 
