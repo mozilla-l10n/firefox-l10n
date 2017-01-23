@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Vítá vás &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Účet připojen">
 
 <!ENTITY aboutAccountsConfig.description "Pro synchronizaci panelů, záložek, hesel a dalších věcí se přihlašte.">
 <!ENTITY aboutAccountsConfig.startButton.label "Začít">

@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Hledat:">
-<!ENTITY     filter.accesskey               "H">
 
 <!ENTITY     button.close.label             "Zavřít">
 <!ENTITY     button.close.accesskey         "Z">

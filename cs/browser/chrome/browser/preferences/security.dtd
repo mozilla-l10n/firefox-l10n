@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "Obecné">
 
-<!ENTITY  warnAddonInstall.label        "Vždy upozornit při pokusu o instalaci doplňku">
-<!ENTITY  warnAddonInstall.accesskey    "u">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +15,6 @@
 <!ENTITY  blockDownloads.label            "Blokovat nebezpečná stahování">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-<!ENTITY  blockUncommonUnwanted.label     "Varovat mě o nežádoucím a neobvyklém softwaru">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Výjimky…">
 <!ENTITY  addonExceptions.accesskey     "m">

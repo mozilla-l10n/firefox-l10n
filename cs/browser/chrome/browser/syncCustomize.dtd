@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "Z">
 <!ENTITY engine.history.label             "Historie">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Panely">
 <!ENTITY engine.tabs.accesskey            "P">
 <!ENTITY engine.passwords.label           "Hesla">
 <!ENTITY engine.passwords.accesskey       "e">
