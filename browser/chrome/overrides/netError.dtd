@@ -193,9 +193,9 @@ za chvíli.</li>
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používá zabezpečení, které je zastaralé a náchylné k útoku. Útočník by mohl snadno odhalit informace, o kterých jste si mysleli, že jsou v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečeno) Zkusí načíst <span class='hostname'></span> pomocí zastaralého zabezpečení">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Není možné navázat zabezpečené připojení k <span id='wrongSystemTime_URL'/>, protože se zdá, že vaše hodiny ukazují špatný čas.</p> <p>Váš počítač si myslí, že je <span id='wrongSystemTime_systemDate'/> a mělo by být <span id='wrongSystemTime_actualDate'/>. Pro vyřešení tohoto problému prosím opravte nastavení data a času.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP

@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "B">
 <!ENTITY runtimeMenu_disconnect_label "Odpojit">
 <!ENTITY runtimeMenu_disconnect_accesskey "d">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabulka práv">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Snímek obrazovky">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Informace o běhovém prostředí">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Výchozí">
 <!ENTITY prefs_options_autosavefiles "Automatické ukládání souborů">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automaticky ukládá upravené soubory před spuštěním projektu">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabulka práv">
-<!ENTITY permissionstable_name_header "Název">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informace o běhovém prostředí">
