@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Vždy používať kurzorové klávesy na navigáciu na stránkach">
 <!ENTITY useCursorNavigation.accesskey   "V">
-<!ENTITY searchStartTyping.label         "Povoliť vyhľadávanie textu počas písania">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
-<!ENTITY blockAutoRefresh.accesskey      "U">
 <!ENTITY useOnScreenKeyboard.label       "Zobraziť dotykovú klávesnicu, keď je to potrebné">
 <!ENTITY useOnScreenKeyboard.accesskey   "d">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "o">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Kontrolovať pravopis počas písania">
-<!ENTITY checkSpelling.accesskey         "K">
 
 <!ENTITY dataChoicesTab.label            "Odosielanie údajov">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Používateľské údaje a webový obsah režimu offline">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Aktualizácie">
 
-<!ENTITY updateApp.label                 "Aktualizácie prehliadača &brandShortName;">
 <!ENTITY updateAuto1.label               "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
-<!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Na inštaláciu aktualizácií používať službu na pozadí">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY updateOthers.label              "Automaticky aktualizovať">
 <!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
 <!ENTITY enableSearchUpdate.accesskey    "V">
 
-<!ENTITY offlineNotify.label             "Upozorniť, ak stránka môže uložiť údaje na použitie v režime offline">
-<!ENTITY offlineNotify.accesskey         "U">
-<!ENTITY offlineNotifyExceptions.label   "Výnimky…">
-<!ENTITY offlineNotifyExceptions.accesskey "V">
 
 <!ENTITY offlineAppsList2.label          "Tieto webové stránky môžu ukladať údaje na použitie v režime offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Odstránenie údajov pre režim offline">
 
 <!ENTITY certificateTab.label            "Certifikáty">
-<!ENTITY certSelection.label             "Žiadosti">
-<!ENTITY certSelection.description       "Pokiaľ stránka požaduje môj osobný certifikát:">
-<!ENTITY certs.auto                      "Vybrať automaticky">
-<!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Vždy sa opýtať">
-<!ENTITY certs.ask.accesskey             "V">
 <!ENTITY enableOCSP.label                "Aktuálnu platnosť certifikátov overovať na serveroch OCSP">
 <!ENTITY enableOCSP.accesskey            "A">
 <!ENTITY viewCerts.label                 "Zobraziť certifikáty">

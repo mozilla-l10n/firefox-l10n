@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Odpojiť">
 <!ENTITY runtimeMenu_disconnect_accesskey "d">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabuľka oprávnení">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Snímka obrazovky">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Informácie režimu Runtime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Predvolené">
 <!ENTITY prefs_options_autosavefiles "Automaticky ukladať súbory">
 <!ENTITY prefs_options_autosavefiles_tooltip "Pred spustením projektu automaticky ukladať upravené súbory">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabuľka oprávnení">
-<!ENTITY permissionstable_name_header "Názov">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informácie režimu Runtime">

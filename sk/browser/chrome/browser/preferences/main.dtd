@@ -6,9 +6,8 @@
 
 <!ENTITY startupPage.label         "Po spustení prehliadača &brandShortName; zobraziť:">
 <!ENTITY startupPage.accesskey     "u">
-<!ENTITY startupHomePage.label     "domovskú stránku">
 <!ENTITY startupBlankPage.label    "prázdnu stránku">
-<!ENTITY startupLastSession.label  "naposledy otvorené okná a karty">
+
 <!ENTITY homepage.label            "Domovská stránka:">
 <!ENTITY homepage.accesskey        "D">
 <!ENTITY useCurrentPage.label      "Použiť aktuálnu stránku">
@@ -19,16 +18,14 @@
 <!ENTITY restoreDefault.label      "Obnoviť predvolené">
 <!ENTITY restoreDefault.accesskey  "O">
 
-<!ENTITY downloads.label               "Preberanie súborov">
+<!ENTITY downloads.label     "Preberanie súborov">
 
-<!ENTITY saveTo.label                  "Všetky súbory ukladať do">
-<!ENTITY saveTo.accesskey              "v">
-<!ENTITY chooseFolderWin.label         "Prehľadávať…">
-<!ENTITY chooseFolderWin.accesskey     "h">
-<!ENTITY chooseFolderMac.label         "Vybrať…">
-<!ENTITY chooseFolderMac.accesskey     "V">
-<!ENTITY alwaysAsk.label               "Vždy sa opýtať, kam súbory uložiť">
-<!ENTITY alwaysAsk.accesskey           "k">
+<!ENTITY saveTo.label "Všetky súbory ukladať do">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Prehľadávať…">
+<!ENTITY chooseFolderWin.accesskey    "h">
+<!ENTITY chooseFolderMac.label        "Vybrať…">
+<!ENTITY chooseFolderMac.accesskey    "V">
 
 <!ENTITY alwaysCheckDefault2.label        "Vždy kontrolovať, či je &brandShortName; predvoleným prehliadačom">
 <!ENTITY alwaysCheckDefault2.accesskey    "r">
