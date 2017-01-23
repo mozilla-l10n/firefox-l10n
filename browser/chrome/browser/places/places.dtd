@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ফাইল নির্বাচন… (C)">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "এই পৃষ্ঠাটি বুকমার্ক করুন… (B)">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "এই পৃষ্ঠাটি মুছে ফেলুন (D)">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "এই সাইটটি মনে রাখা হবে না (F)">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

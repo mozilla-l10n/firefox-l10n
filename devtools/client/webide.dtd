@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "বিচ্ছিন্ন">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "অনুমতি টেবিল">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্রিনশট">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "পূর্বনির্ধারিত">
 <!ENTITY prefs_options_autosavefiles "ফাইল স্বয়ংসংরক্ষিত">
 <!ENTITY prefs_options_autosavefiles_tooltip "প্রোজেক্ট চালু হবার পূর্বে স্বয়ংক্রিয়ভাবে সম্পাদিত ফাইল সংরক্ষণ করুন">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "অনুমতি টেবিল">
-<!ENTITY permissionstable_name_header "নাম">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "সিমুলেটর অপশনস">
 <!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
 <!ENTITY simulator_reset "ডিফল্ট মান পুনরায় স্থাপন">
-<!ENTITY simulator_name "নাম">
+
 <!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
 <!ENTITY simulator_profile "প্রোফাইল">

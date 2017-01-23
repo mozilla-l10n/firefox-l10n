@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "বিভিন্ন পৃষ্ঠার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কী ব্যবহার করা হবে c">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "টাইপ আরম্ভ করলে তৎক্ষণাৎ অনুসন্ধান শুরু করা হবে (X)">
-<!ENTITY searchStartTyping.accesskey     "X">
-<!ENTITY blockAutoRefresh.label          "ওয়েবসাইট কোনো পৃষ্ঠা রিলোড বা রিডিরেক্ট করার চেষ্টা করলে সতর্ক করা হবে (B)">
-<!ENTITY blockAutoRefresh.accesskey      "B">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "প্রয়োজনে একটি টাচ kকিবোর্ড প্রদর্শন">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
-<!ENTITY checkSpelling.accesskey         "T">
+
+
 
 <!ENTITY dataChoicesTab.label            "ডাটা পছন্দ">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "জমে থাকা ওয়েব কনটেন্ট">
 
 <!ENTITY offlineStorage2.label           "অফলাইন ওয়েব কনটেন্ট এবং ব্যবহারকারীর ডাটা">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "হালনাগাদ">
 
-<!ENTITY updateApp.label                 "&brandShortName; হালনাগাদ:">
 <!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "হালনাগাদকরণ পরীক্ষা করুন, কিন্তু ইনস্টলের পূর্বে আমাকে নিশ্চিত করতে দিন C">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "স্বয়ংক্রিয়ভাবে আপডেট করুন:">
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ইঞ্জিন E">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট  তথ্য সংরক্ষণের চেষ্টা করলে অবগত করা হবে (T)">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "ব্যতিক্রম… (X)">
-<!ENTITY offlineNotifyExceptions.accesskey "X">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম… (X)">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "X">
 
 <!ENTITY offlineAppsList2.label          "নিম্নলিখিত ওয়েবসাইট অফলাইনে ব্যবহারের তথ্য সংরক্ষণের জন্য অনুমোদিত:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "অফলাইন ডাটা মুছে ফেলা হবে">
 
 <!ENTITY certificateTab.label            "সনদপত্র">
-<!ENTITY certSelection.label             "অনুরোধ">
-<!ENTITY certSelection.description       "কোনো সার্ভার আমার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
-<!ENTITY certs.auto                      "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "প্রতিবার জিজ্ঞেস করা হবে">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "অনুরোধ">
+
+<!ENTITY selectCerts.auto                "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
+
+
+
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "সার্টিফিকেট দেখুন V">

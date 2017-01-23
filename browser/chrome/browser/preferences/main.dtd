@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; আরম্ভের সময় s:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "আমার নীড় পাতা প্রদর্শন কর">
+
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
-<!ENTITY startupLastSession.label  "সর্বশেষ উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
+
 
 <!ENTITY homepage.label            "প্রধান পাতা: P">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "(e) নির্বাচন... ">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সর্বদা জিজ্ঞেস করা হবে">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "সবসময় পরীক্ষা করুন &brandShortName; আপনার ডিফল্ট ব্রাউজার কিনা">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
