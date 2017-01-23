@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabla de permisos">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Info del tiempo de ejecución">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Por defecto">
 <!ENTITY prefs_options_autosavefiles "Autoguardar archivos">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automática guardar archivos editados antes de ejecutar el proyecto">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabla de permisos">
-<!ENTITY permissionstable_name_header "Nombre">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Info del tiempo de ejecución">

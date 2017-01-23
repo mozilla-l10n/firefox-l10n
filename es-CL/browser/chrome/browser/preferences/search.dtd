@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste &brandShortName; para que nunca recuerde el historial.">
 
-<!ENTITY redirectWindowsSearch.label "Usar este motor de búsqueda para búsquedas de Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Cambio rápido de buscadores">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Esta barra de búsqueda te permite buscar con motores alternativos directamente. Escoge los que deseas mostrar.">

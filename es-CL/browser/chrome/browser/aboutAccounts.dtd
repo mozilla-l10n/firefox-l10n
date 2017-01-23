@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Bienvenido a &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Cuenta conectada">
 
 <!ENTITY aboutAccountsConfig.description "Conéctate para sincronizar tus pestañas, marcadores, contraseñas y más.">
 <!ENTITY aboutAccountsConfig.startButton.label "Empezar">
