@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Amatu">
 
-<!ENTITY  warnAddonInstall.label        "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar">
-<!ENTITY  warnAddonInstall.accesskey    "L">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Sewḥel yir asider">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "Lɣu-yi-d ɣef iseɣẓanen ur nelhi ara akked wid ur bɣiɣ ara">
-<!ENTITY  blockUncommonUnwanted.accesskey "ẓ">
+
 
 <!ENTITY  addonExceptions.label         "Tisuraf…">
 <!ENTITY  addonExceptions.accesskey     "s">

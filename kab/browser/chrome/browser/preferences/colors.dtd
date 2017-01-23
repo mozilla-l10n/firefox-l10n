@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Snifel initen i d-ittunefken sɣur asebter s wid yettwafernen nig-a:">
-<!ENTITY  overridePageColors.accesskey    "S">
 
-<!ENTITY  overridePageColors.always.label "Yal tikelt">
-<!ENTITY  overridePageColors.auto.label   "Anagar i yisentalen yellan s ugnil awriran">
-<!ENTITY  overridePageColors.never.label  "Weṛǧin">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Yal tikelt">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Anagar i yisentalen yellan s ugnil awriran">
+<!ENTITY  overrideDefaultPageColors.never.label  "Weṛǧin">
 
 <!ENTITY  color                           "Aḍris d ugilal">
 <!ENTITY  textColor.label                 "Aḍris:">

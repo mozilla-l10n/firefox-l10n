@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "S">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ &brandShortName; akken ur iḥerrez ara amazray.">
 
-<!ENTITY redirectWindowsSearch.label "Seqdec amsedday-a n unadi i unadi seg Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Imseddayen n unadi ara tkecmeḍ s yiwen n usiti">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Afeggag n unadi a k-yeǧǧ ad tesnifleḍ amsedday n unadi s ucelqef. Fren wid ad d-tsekneḍ.">

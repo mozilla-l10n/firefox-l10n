@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ihuh.">
 <!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
 
-<!ENTITY captivePortal.title "Kcem ɣer uẓeṭṭa">
-<!ENTITY captivePortal.longDesc "<p> Aẓeṭṭa-agi yesra inekcam inek akken ad iseqdec Internet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Ldi asebter n usesteb">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Talɣut leqqayen">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>iseqdac taṭiknulujit n tɣellist taqbuṛt u d taraɣelsant i uẓdam. Aẓeddam yezmer ad yawi tabaḍnit-inek it-ɣiled d taɣelsant.">
 <!ENTITY weakCryptoAdvanced.override "(Mačči d aɣelsan) Ɛreḍ asali <span class='hostname'></span> s useqdec n tɣellist taqbuṛt.">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Tuqqna taɣelsant ɣer <span id='wrongSystemTime_URL'/> ur tezmir ara ad teddu acku saɛa yinek ur d-skan ara akud iseḥḥan.</p> <p>Aselkim-inek iqil d win i d akud <span id='wrongSystemTime_systemDate'/>, Ma yella d wa i d akud <span id='wrongSystemTime_actualDate'/>. Akken ad terfuḍ ugur, Snifeliɣawwaṛen n wazemz d wakud akken ɣer wakud iseḥan.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
