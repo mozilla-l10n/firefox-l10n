@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "ਆਮ">
 
-<!ENTITY  warnAddonInstall.label        "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
-<!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +15,6 @@
 <!ENTITY  blockDownloads.label            "ਖ਼ਤਰਨਾਕ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "ਮੈਨੂੰ ਬੇਲੋੜੇ ਅਤੇ ਅਸਧਾਰਨ ਸਾਫਟਵੇਅਰਾਂ ਦੇ ਬਾਰੇ ਚੇਤਾਵਨੀ ਦਿਓ">
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "…ਛੋਟਾਂ">
 <!ENTITY  addonExceptions.accesskey     "E">

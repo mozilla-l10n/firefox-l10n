@@ -49,6 +49,8 @@
 <p>&brandShortName; ਕੁਝ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।</p>
 ">
 
+
+
 <!ENTITY malformedURI.title "ਇਹ ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ ਜੀ।">
 <!ENTITY malformedURI.longDesc "
 <ul>
@@ -182,9 +184,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦੀ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੈ ਅਤੇ ਹਮਲੇ ਦਾ ਨਿਸ਼ਾਨ ਬਣ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਉਸ ਜਾਣਕਾਰੀ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਸਮਝਦੇ ਹੋ।">
 <!ENTITY weakCryptoAdvanced.override "(ਸੁਰੱਖਿਅਤ ਨਹੀਂ) ਪੁਰਾਣੀ ਹੋਈ ਸੁਰੱਖਿਆ ਨਾਲ ਹੀ <span class='hostname'></span> ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/> ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਸੰਭਵ ਨਹੀਂ ਹੈ, ਕਿਉਂਕਿ ਤੁਹਾਡੀ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਦਾ ਵੇਲਾ ਗਲਤ ਜਾਪਦਾ ਹੈ।</p> <p>ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਸੋਚਦਾ ਹੈ ਕਿ ਹੁਣ <span id='wrongSystemTime_systemDate'/> ਹੈ, ਜਦੋਂ ਕਿ ਇਹ <span id='wrongSystemTime_actualDate'/> ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਇਹ ਸਮੱਸਿਆ ਨੂੰ ਠੀਕ ਕਰਨ ਵਾਸਤੇ ਸਹੀਂ ਵੇਲੇ ਨਾਲ ਮਿਲਾ ਆਪਣੀ ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲੋ।</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ਇਹ ਸਾਈਟ HTTP
@@ -196,7 +198,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦਾ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੋ ਚੁੱਕੀ ਹੈ ਅਤੇ ਹਮਲ਼ਿਆਂ ਦਾ ਸ਼ਿਕਾਰ ਹੋ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਸੁਰੱਖਿਅਤ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਤੋਂ ਪਹਿਲਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਪ੍ਰਸ਼ਾਸ਼ਕ ਨੂੰ ਸਰਵਰ ਨੂੰ ਪਹਿਲਾਂ ਠੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</p><p>ਗਲਤੀ ਕੋਡ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ">

@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ ਮੇਰੇ">
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ਟੈਬਾਂ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ਅਤੀਤ">
 <!ENTITY engine.history.accesskey   "r">

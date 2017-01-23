@@ -1,17 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "ਰੰਗ">
-<!ENTITY window.width                     "38em">
+<!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "ਹਮੇਸ਼ਾਂ">
-<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
-<!ENTITY  overridePageColors.never.label  "ਕਦੇ ਨਹੀਂ">
 
 <!ENTITY  color                           "ਟੈਕਸਟ ਅਤੇ ਬੈਕਗਰਾਊਂਡ">
 <!ENTITY  textColor.label                 "ਟੈਕਸਟ:">

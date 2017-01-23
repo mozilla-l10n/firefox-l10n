@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ &brandShortName; ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।">
 
-<!ENTITY redirectWindowsSearch.label "ਵਿੰਡੋਜ਼ ਤੋਂ ਖੋਜਾਂ ਲਈ ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਵਰਤੋਂ">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ">
 
 <!ENTITY chooseWhichOneToDisplay.label         "ਖੋਜ ਪੱਟੀ ਤੁਹਾਨੂੰ ਬਦਲਵੇਂ ਖੋਜ ਇੰਜਣ ਨਾਲ ਸਿੱਧੀ ਖੋਜ ਕਰਨ ਦਿੰਦੀ ਹੈ। ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜੇ ਵਿਖਾਉਣੇ ਹਨ।">
