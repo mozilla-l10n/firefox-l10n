@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Redan bokmärkt">
 <!ENTITY overlay_share_send_other "Skicka till andra enheter">
 
+<!ENTITY overlay_share_open_browser_btn_label "Öppet i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Visa sökhistorik">
 <!ENTITY pref_import_options "Importeringsalternativ">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historik från den inbyggda webbläsaren">
+<!ENTITY pref_private_data_openTabs "Öppna flikar">
 <!ENTITY pref_private_data_history2 "Webbläsarhistorik">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
 <!ENTITY pref_private_data_formdata2 "Formulärhistorik">
