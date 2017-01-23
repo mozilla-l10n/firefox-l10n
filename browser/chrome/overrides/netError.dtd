@@ -27,6 +27,8 @@
 <!ENTITY generic.longDesc "<p>Non é posíbel que &brandShortName; cargue esta páxina por algunha razón.</p>
 ">
 
+
+
 <!ENTITY malformedURI.title "O enderezo é incorrecto">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Normalmente, os enderezos web escríbense como
@@ -92,58 +94,36 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Fallou a conexión segura">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>Isto podería ser un problema coa configuración do servidor ou pode ser alguén que está tentando facerse pasar polo servidor.</li><li>Se xa puido conectarse a este servidor de forma correcta, pode ser que o erro sexa temporal e pode tentalo máis tarde.</li></ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul><li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos</li><li>Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.</li><li>Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que &brandShortName; ten permiso para acceder á Web.</li></ul>">
-
-<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser atacante!">
-<!ENTITY malwareBlocked.longDesc "<p>Os sitios atacantes tentan instalar  programas para roubarlle información privada, utilizar o seu computador para atacar a outros ou danar o seu sistema.</p> <p>Os propietarios de sitios web que crean que foron identificados por erro como sitio atacante poden <a  href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Sitio sospeitoso de servir software non desexado!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>As páxinas con software non desexado tentan instalar un software que pode aparentar facer algo diferente ao que fai e afectar ao seu sistema de maneira inesperada.</p>
-">
-
-<!ENTITY phishingBlocked.title "Web sospeitosa de ser unha falsificación!">
-<!ENTITY phishingBlocked.longDesc " <p>Se introduce información persoal nesta páxina pode resultar na usurpación da súa identidade ou outro tipo de acción fraudulenta.</p> <p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales utilízanse correos electrónicos e páxinas web fraudulentas para imitar fontes nas que o usuario pode confiar.</p> ">
 
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
-<!ENTITY corruptedContentError.title "Erro de contido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel amosar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sáqueme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Engadir excepción…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "<p>Non debería engadir unha excepción se está usando unha conexión á Internet na que non se confía plenamente ou se non está acostumado a ver un aviso neste sitio.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
-
-<!ENTITY errorReporting.title "Informar deste erro">
-<!ENTITY errorReporting.longDesc "Informar do enderezo a información do certificado de <span id='hostname'></span> axudaranos a identificar e bloquear sitios maliciosos. Grazas por axudarnos a crear unha web máis segura!">
-<!ENTITY errorReporting.automatic "Informar automaticamente de erros no futuro">
 <!ENTITY errorReporting.learnMore "Obter máis información…">
-<!ENTITY errorReporting.sending "Enviando informe">
-<!ENTITY errorReporting.sent "Enviouse o informe">
-<!ENTITY errorReporting.report "Informar">
-<!ENTITY errorReporting.tryAgain "Tentar de novo">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Non é posíbel conectarse de forma segura">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Información avanzada: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Máis información…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

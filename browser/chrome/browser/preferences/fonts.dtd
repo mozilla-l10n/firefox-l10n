@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "Camboxano">
 <!ENTITY  font.langGroup.malayalam                "Malaialam">
 <!ENTITY  font.langGroup.math                     "Matemáticas">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -61,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Permitir que as páxinas escollan os seus tipos de letra en lugar dos antes seleccionados">
-<!ENTITY  allowPagesToUse.accesskey               "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de texto para contido antigo">
 <!ENTITY languages.customize.Fallback2.label      "Codificación de texto alternativa:">
