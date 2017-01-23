@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "ထပ်တူပြုမည့်ကျွန်ုပ်">
 <!ENTITY engine.bookmarks.label     "m မှတ်သားချက်များ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "T ခလုပ်ပြားများ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "rမှတ်တမ်း">
 <!ENTITY engine.history.accesskey   "r">

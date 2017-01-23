@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; မှ ကြိုဆိုပါသည်">
-<!ENTITY aboutAccounts.connected "အကောင့်နှင့် ချိတ်ဆက်ထားသည်">
 
 <!ENTITY aboutAccountsConfig.description "သင့် တပ်ဗ်များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားမှတ်ထားသည်တို့ကို တစ်ပြေးညီဖြစ်စေရန် လက်မှတ်ထိုးဝင်ရောက်ပါ။">
 <!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမည်">

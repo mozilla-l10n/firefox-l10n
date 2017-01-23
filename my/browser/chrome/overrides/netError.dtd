@@ -115,9 +115,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>သည် အိုဟောင်းပြီး ခုခံမှုအားနည်းသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟု ထင်ရသည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်သည်။">
 <!ENTITY weakCryptoAdvanced.override "(မလုံခြုံပါ) အိုဟောင်းနေသည့် လုံခြုံရေးနည်းပညာအသုံးပြုထားသော <span class='hostname'></span>ကို ခေါ်ယူကြည့်ပါ">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>ဒီ <span id='wrongSystemTime_URL'/> သို့ လုံခြုံသော ချိတ်ဆက်မှုသည် မဖြစ်နိုင်ပါ၊ အဘယ်ကြောင့်ဆိုသော် သင့်နာရီသည် အချိန်မှားယွင်းနိုင်ဖွယ်ရှိသည်။</p> <p>သင့်ကွန်ပျူတာသည် <span id='wrongSystemTime_systemDate'/>ကို အမှန်ထင်သော်လည်း အမှန်မှာမူ <span id='wrongSystemTime_actualDate'/> ဖြစ်သင့်သည်။ ဒီပြဿနာကိုဖြေရှင်းရန် သင့်ရက်စွဲနှင့် အချိန်အပြင်ဆင်များကို မှန်ကန်ကိုက်ညီစေရန် ပြောင်းလဲသတ်မှတ်ပါ။</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; က ဒီဝဘ်ဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခြင်းရှိမရှိ ဖော်ပြရန် ၎င်းဝဘ်ဆိုက်သည် HTTP Strict Transport Security (HSTS) ကို အသုံးပြုထားသည်။ ရလဒ်အနေနှင့် ဒီအထောက်အထားအတွက် ခြွင်းချက်အဖြစ်ထည့်ရန် မဖြစ်နိုင်ပါ။">

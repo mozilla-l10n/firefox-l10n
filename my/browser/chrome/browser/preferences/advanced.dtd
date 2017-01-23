@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "စာမျက်နှာများထဲမှာ ကူးသန်းဖို့ cursor သော့ချက်များကို အမြဲသုံးစွဲပါ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "စတင် x ရိုက်ထည့်တဲ့အခါ စာသားကို ရှာဖွေပါ">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "၀တ်ဆိုက်သည် ညွှန်းဆိုသို့ပြန်လည် ရယူပြသချင်လိုပါက ကျွန်ုပ်အားသတိပေးပါ။">
-<!ENTITY blockAutoRefresh.accesskey      "၀">
 <!ENTITY useOnScreenKeyboard.label       "လိုအပ်လျှင် တို့ထိကီးဘုတ်ကို ပြပါ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "r ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "t ရိုက်ထည့်နေတုန်း ကျွန်ပ် စာလုံးပေါင်းကို စစ်ဆေးပါ">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "မွမ်းမံချက်">
 
-<!ENTITY updateApp.label                 "&brandShortName; ပြုပြင်ချင်းများ">
 <!ENTITY updateAuto1.label               "Aအလိုအလျောက် ပြုပြင်ချင်းများ (အကြံပြုထားသော၊ လုံခြုံရေးမြှင့်ထားသော)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Cပြုပြင်ချင်းများစုံစမ်းစစ်ဆေး၊ ဒါပေမယ့် တစ်ခုမဟုတ်တစ်ခု တပ်ဆင်ပါ">
-<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "bအဆင့်မြှင့်ရင် နောက်ခံဆားဗစ် တစ်ခုအာ အသုံးပြုမည်">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "အလိုအလျှောက်အဆင့်မြှင့်မည်-">
 <!ENTITY enableSearchUpdate.label        "E ရှာဖွေရေး ယန္တရားများ">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "T ဝတ်ဆိုဒ်တစ်ခု အင်တာနက်မဲ့သုံးရန် ဖိုင်သိမ်းဖို့တောင်းဆိုလာပါက ပြောပါ">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "xခြွင်းချက်များ...">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "အော့ဖ်လိုင်း အသုံးပြုနိုင်ဖို့အတွက် အောက်ပါ ဝက်ဘ်ဆိုက်များမှာ ဒေတာတွေကို သိုလှောင်ခွင့်ပြုတယ်။">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "ချိတ်ဆက်မဲ့ အချက်အလက်ကြမ်းကို ဖယ်ရှားပါ">
 
 <!ENTITY certificateTab.label            "အသိအမှတ်ပြုလက်မှတ်များ">
-<!ENTITY certSelection.label             "တောင်းခံချက်များ">
-<!ENTITY certSelection.description       "ဆာဗာ တခုမှ ကျွန်ပ် ကိုယ်ရေး လက်မှတ်ကို တောင်းဆိုတဲ့အခါ">
-<!ENTITY certs.auto                      "တခုကို အလိုအလျောက် ရွေးချယ်ပါ">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "အထောက်အထားများကို ကြည့်ရန် C">

@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "&brandShortName; စတင်လျှင်">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "အဖွင့်စာမျက်နှာကို ပြပါ">
 <!ENTITY startupBlankPage.label    "စာမျက်နှာ အလွတ်ကို ပြပေးပါ">
-<!ENTITY startupLastSession.label  "နောက်ဆုံးသုံးခဲ့သော ဝင်းဒိုးများနှင့် တပ်ဗ်များကို ပြသပါ">
 
 <!ENTITY homepage.label            "အဖွင့်စာမျက်နှာ">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ရွေးပါ…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ဘယ်နေရာသိမ်းမယ်ဆိုတာကို အမြဲမေးပါ">
-<!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

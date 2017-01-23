@@ -4,21 +4,17 @@
 
 <!ENTITY  general.label                 "အထွေထွေ">
 
-<!ENTITY  warnAddonInstall.label        "W အတ်အွန် ဆော့ဗ်ဝဲများ တပ်ဆင်ဖို့ ကြိုးစားတဲ့အခါ သတိပေးပါ">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "မလိုအပ်သည့် ထူးဆန်းသော ဆော့ဖ်ဝဲများတွေ့လျှင် သတိပေးပါ">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eခြွင်းချက်များ...">
 <!ENTITY  addonExceptions.accesskey     "E">

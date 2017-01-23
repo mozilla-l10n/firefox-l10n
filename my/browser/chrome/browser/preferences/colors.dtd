@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "စာမျက်နှာက သတ်မှတ်ထားသည့် အရောင်များအစား အထက်တွင် ရွေးထားသည့် အရောင်များကို အသုံးပြုပါ။ O">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "အစဉ်အမြဲ">
-<!ENTITY  overridePageColors.auto.label   "အလင်းများသည့် အခင်းအကျင်းများသာလျှင်">
-<!ENTITY  overridePageColors.never.label  "ဘယ်တော့မှ">
 
 <!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
 <!ENTITY  textColor.label                 "Tစာသား|">

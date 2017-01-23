@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "အစွန်းပါ စာလုံး">
 <!ENTITY  useDefaultFontSansSerif.label           "အစွန်းမဲ့ စာလုံး">
 
-<!ENTITY  allowPagesToUse.label                   "Aအထက်ပါ ကျွန်ပ် ရွေးချယ်ချက်များ အစား၊ သူတို့ ကိုယ်ပိုင် ဖောင့်များ ရွေးထားဖို့ စာမျက်နှာများကို ခွင့်​ပြုပါ">
-<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်">
 <!ENTITY languages.customize.Fallback2.label      "အရေးပေါ် စာသား သိမ်းဆည်းမှု စနစ်">

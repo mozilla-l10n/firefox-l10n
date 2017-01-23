@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "စာကြည့်တိုက်">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ဖိုင် ရွေးပါ...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "ဤစာမျက်နှာအား မှတ်သားထားပါ...">
-<!ENTITY cmd.bookmarkLink.accesskey     "ဤ">
-<!ENTITY cmd.delete.label               "ဒီစာမျက်နှာကို ပယ်ဖျက်ပါ">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ဒီကွန်ရက် အကြောင်းကို မေ့ပစ်ပါ">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

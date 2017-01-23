@@ -8,16 +8,15 @@
 <!ENTITY syncCustomize.title              "ချိတ်ဆက်လိုက်မယ်ဆိုရင် သင်ဘာပြောမလဲ ။">
 <!ENTITY syncCustomize.description        "ယခုရွေးချယ်မှူအား အပြင်အဆင်အောက်တွင် ပြောင်းလဲနိုင်သှ်">
 <!ENTITY syncCustomizeUnix.description    "ယခုရွေးချယ်မှူအား​ အပြင်အဆင်အောက်တွင်ပြောင်းပါ">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "(m)မှတ်သားချက်များ">
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "(r)မှတ်တမ်း">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "(T)တပ်ဗ်များ">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "(P)စကားဝှက်များ">
 <!ENTITY engine.passwords.accesskey       "P">
