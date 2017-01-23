@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Терезелерді жаңа бетте ашу">
 <!ENTITY newWindowsAsTabs.accesskey   "Т">
 
-<!ENTITY warnCloseMultipleTabs.label  "Бірнеше беттер бірге жабылған кезде мені ескерту">
-<!ENTITY warnCloseMultipleTabs.accesskey  "с">
 
-<!ENTITY warnOpenManyTabs.label       "Беттердің көп санын ашу әрекеті &brandShortName; жұмысын тежей алатын кезде мені ескерту">
-<!ENTITY warnOpenManyTabs.accesskey   "т">
 
-<!ENTITY switchToNewTabs.label        "Сілтеме жаңа бетте ашылған кезде ол бетке ауысу">
-<!ENTITY switchToNewTabs.accesskey    "ы">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Windows тапсырмалар панелінде беттер көріністерін көрсету">
 <!ENTITY showTabsInTaskbar.accesskey      "п">

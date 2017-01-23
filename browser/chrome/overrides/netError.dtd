@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Қате.">
 <!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
-<!ENTITY captivePortal.title "Желіге кіру">
-<!ENTITY captivePortal.longDesc "<p>Бұл желі Интернетке қатынау үшін сізден кіруіңізді сұрауы мүмкін.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Кіру парағын ашу">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Кеңейтілген">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ескірген және шабуылдарға тұрақсыз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлап тұрған ақпаратты оңай ала алады.">
 <!ENTITY weakCryptoAdvanced.override "(Қауіпсіз емес) <span class='hostname'></span> ескірген қауіпсіздікті қолданып, жүктеу талабы">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/> сайтына қауіпсіз байланысу мүмкін емес, өйткені сіздің сағатыңыз қате уақытты көрсетіп тұрған сияқты.</p> <p>Сіздің компьютеріңіздің уақыты <span id='wrongSystemTime_systemDate'/>, ал, нақты уақыт <span id='wrongSystemTime_actualDate'/>. Осы мәселені түзету үшін, компьютеріңіздің күн/уақыт баптауын дұрыстаңыз.</p>">
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу алатынын көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">

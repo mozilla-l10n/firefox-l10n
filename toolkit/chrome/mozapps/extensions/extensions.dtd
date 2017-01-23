@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "Ф">
 <!ENTITY toolsMenu.tooltip                    "Барлық файлдар үшін саймандар">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
 

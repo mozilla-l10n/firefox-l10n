@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Жекелік шолу ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "сізді интернет желісінде анонимды">
 <!ENTITY aboutPrivateBrowsing.note.after                 " етпейді. Жұмыс берушіңіз немесе интернет провайдеріңіз сонда да сіз қараған беттер тарихын біле алады.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Ол туралы көбірек білу">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Жекелік шолу">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.description2                 "Кейбір вебсайттар сіздің интернеттегі белсенділігіңізді бақылай алатын бақылаушыларды қолданады. Бақылаудан қорғанысты қолданатын Firefox сіздің шолу әрекеттеріңіз туралы ақпаратты жинайтын біраз бақылаушыларды блоктай алады.">

@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Парақтарға навигация жасау үшін әрқашан курсор батырмаларын қолдану">
 <!ENTITY useCursorNavigation.accesskey   "н">
-<!ENTITY searchStartTyping.label         "Мәтін терілген кезде оны парақтан іздей бастау">
-<!ENTITY searchStartTyping.accesskey     "т">
-<!ENTITY blockAutoRefresh.label          "Веб-сайт парақты басқа жерге бағдарласа, немесе өздігінен жаңартса, мені ескерту">
-<!ENTITY blockAutoRefresh.accesskey      "п">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Керек болған кезде шерту пернетақтасын қолдану">
 <!ENTITY useOnScreenKeyboard.accesskey   "п">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "е">
 <!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey          "д">
-<!ENTITY checkSpelling.label             "Мәтін терілген кезде орфографияны тексеру">
-<!ENTITY checkSpelling.accesskey         "о">
+
+
 
 <!ENTITY dataChoicesTab.label            "Деректер таңдауы">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Кэштелген веб құрамасы">
 
 <!ENTITY offlineStorage2.label           "Оффлайн веб құрамасы мен пайдаланушы мәліметтері">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Жаңартулар">
 
-<!ENTITY updateApp.label                 "&brandShortName; жаңартулары:">
 <!ENTITY updateAuto1.label               "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
 <!ENTITY updateAuto1.accesskey           "а">
-<!ENTITY updateCheck.label               "Жаңартуларды тексеру, бірақ орнату уақытын өзім тандаймын">
-<!ENTITY updateCheck.accesskey           "м">
+
+
 <!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
 <!ENTITY updateManual.accesskey          "р">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY updateOthers.label              "Автожаңарту:">
 <!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
 <!ENTITY enableSearchUpdate.accesskey    "п">
 
-<!ENTITY offlineNotify.label             "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, мені ескерту">
-<!ENTITY offlineNotify.accesskey         "р">
-<!ENTITY offlineNotifyExceptions.label   "Осыдан бөлек…">
-<!ENTITY offlineNotifyExceptions.accesskey "б">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Осыдан бөлек…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "б">
 
 <!ENTITY offlineAppsList2.label          "Келесі веб сайттарға оффлайн қолдануы үшін мәліметті сақтауға рұқсат етілген:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Дербес режимдегі веб-сайттардың ақпаратын өшіру">
 
 <!ENTITY certificateTab.label            "Сертификаттар">
-<!ENTITY certSelection.label             "Сұранымдар">
-<!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
-<!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
-<!ENTITY certs.auto.accesskey            "с">
-<!ENTITY certs.ask                       "Әрбір ретте менен сұрау">
-<!ENTITY certs.ask.accesskey             "а">
+<!ENTITY certPersonal.label              "Сұранымдар">
+
+<!ENTITY selectCerts.auto                "Мені сұрамай-ақ жіберу">
+
+
+
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
 <!ENTITY enableOCSP.accesskey            "с">
 <!ENTITY viewCerts.label                 "Сертификаттарды қарау">

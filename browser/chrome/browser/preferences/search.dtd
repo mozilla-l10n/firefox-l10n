@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "л">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз &brandShortName; өнімін тарихты есте сақтамайтындай етіп баптадыңыз.">
 
-<!ENTITY redirectWindowsSearch.label "Бұл іздеу жүйесін Windows-тан іздеулер үшін қолдану">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Бірлік шертумен іздеу қызметтері">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағында қосымша іздеу қызметтері арқылы іздеуге болады. Көрсетілетіндерді таңдаңыз.">

@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Файлды таңдау…">
 <!ENTITY cmd.restoreFromFile.accesskey  "д">
 
-<!ENTITY cmd.bookmarkLink.label         "Бұл парақты бетбелгілерге қосу…">
-<!ENTITY cmd.bookmarkLink.accesskey     "п">
-<!ENTITY cmd.delete.label               "Беттер ішінен іздеу">
-<!ENTITY cmd.delete.accesskey           "Б">
 <!ENTITY cmd.deleteDomainData.label     "Бұл парақты өшіру">
 <!ENTITY cmd.deleteDomainData.accesskey "Б">
 
