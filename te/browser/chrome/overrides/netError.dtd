@@ -173,9 +173,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> పాతబడిన, దాడులకు అనువైన భద్రతా సాంకేతికను వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని అటాకర్లు తేలిగ్గా బయల్పరచగలరు.">
 <!ENTITY weakCryptoAdvanced.override "(సురక్షితం కాదు) <span class='hostname'></span>ను పాతబడిన భద్రతను వాడి తెరిచి చూడండి">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>మీ గడియారంలో తప్పు సమయం ఉన్నందువల్ల <span id='wrongSystemTime_URL'/>కి సురక్షిత అనుసంధానం కుదరదు.</p><p>మీ కంప్యూటరు <span id='wrongSystemTime_systemDate'/> అనుకుంటూంది, కానీ ఇప్పుడు <span id='wrongSystemTime_actualDate'/> గా ఉండాలి. ఈ సమస్య పరిష్కరించటానికి, మీ తేదీ మరియు సమయ అమరికలను సరైన సమయం సూచించేలా మార్చండి.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "అరక్షిత అనుసంధానం">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; సురక్షితంగా మాత్రమే అనుసంధానం కావాలని చెప్పడానికి HTTP కఠినమైన రవాణా సెక్యూరిటీ (HSTS)ని ఈ సైటు వాడుతూంది. ఫలితంగా, ఈ సర్టిఫికెటుకి మినహాయింపును చేర్చడం సాధ్యం కాదు.">

@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "వెతకండి:">
-<!ENTITY     filter.accesskey               "S">
 
 <!ENTITY     button.close.label             "మూసివేయి">
 <!ENTITY     button.close.accesskey         "C">

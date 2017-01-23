@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "అనుసంధానం తెంచు">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "అనుమతుల పట్టిక">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "స్క్రీన్‌షాట్">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "రన్‌టైమ్ సమాచారం">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "అప్రమేయ">
 <!ENTITY prefs_options_autosavefiles "ఫైళ్లు ఆటోసేవ్ చేయండి">
 <!ENTITY prefs_options_autosavefiles_tooltip "ప్రాజెక్టు ప్రారంభించడానికి ముందు సవరించిన ఫైళ్ళు ఆటోమేటిక్గా సేవ్ అవుతాయి">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "అనుమతుల పట్టిక">
-<!ENTITY permissionstable_name_header "పేరు">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "రన్‌టైమ్ సమాచారం">

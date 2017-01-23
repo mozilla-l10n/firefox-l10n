@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "నా సింక్">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశములు">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ట్యాబులు">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">
