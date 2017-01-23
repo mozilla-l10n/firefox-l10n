@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।">
 
-<!ENTITY redirectWindowsSearch.label "উইন্ডোজ থেকে অনুসন্ধানের জন্য এই সার্চ ইঞ্জিন ব্যবহার করুন">
-<!ENTITY redirectWindowsSearch.accesskey "উ">
-
 <!ENTITY oneClickSearchEngines.label           "এক ক্লিক সার্চ ইঞ্জিন">
 
 <!ENTITY chooseWhichOneToDisplay.label         "সার্চ বার আপনাকে বিকল্প সার্চ ইঞ্জিনে সরাসরি সার্চ করতে দেয় । কোনটি দেখাবে টা নির্বাচন করুন । ">
