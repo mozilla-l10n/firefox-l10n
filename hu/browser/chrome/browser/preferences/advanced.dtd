@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Kurzorbillentyűk használata az oldalon belüli navigációhoz">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Szöveg keresése a keresett szó beírásának elkezdésétől">
-<!ENTITY searchStartTyping.accesskey     "d">
-<!ENTITY blockAutoRefresh.label          "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
-<!ENTITY blockAutoRefresh.accesskey      "w">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Érintőbillentyűzet megjelenítése, ha szükséges">
 <!ENTITY useOnScreenKeyboard.accesskey   "r">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "F">
 <!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
-<!ENTITY checkSpelling.accesskey         "H">
+
+
 
 <!ENTITY dataChoicesTab.label            "Adatküldések">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Gyorsítótárazott webtartalom">
 
 <!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Frissítés">
 
-<!ENTITY updateApp.label                 "&brandShortName; frissítések:">
 <!ENTITY updateAuto1.label               "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
-<!ENTITY updateCheck.accesskey           "k">
+
+
 <!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
 
-<!ENTITY updateOthers.label              "Automatikus frissítés:">
 <!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
-<!ENTITY offlineNotify.accesskey         "w">
-<!ENTITY offlineNotifyExceptions.label   "Kivételek…">
-<!ENTITY offlineNotifyExceptions.accesskey "K">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Kivételek…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "K">
 
 <!ENTITY offlineAppsList2.label          "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
 
 <!ENTITY certificateTab.label            "Tanúsítványok">
-<!ENTITY certSelection.label             "Kérések">
-<!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
-<!ENTITY certs.auto                      "Automatikus választás">
-<!ENTITY certs.auto.accesskey            "u">
-<!ENTITY certs.ask                       "Megerősítés minden alkalommal">
-<!ENTITY certs.ask.accesskey             "M">
+<!ENTITY certPersonal.label              "Kérések">
+
+<!ENTITY selectCerts.auto                "Automatikus választás">
+
+
+
 <!ENTITY enableOCSP.label                "Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Tanúsítványkezelő">

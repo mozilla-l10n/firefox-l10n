@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "A privát böngészés ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nem teszi névtelenné">
 <!ENTITY aboutPrivateBrowsing.note.after                 " az interneten. A munkáltatója vagy az internetszolgáltatója ettől függetlenül is tudhatja, hogy milyen oldalakat látogat meg.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Tudjon meg többet a">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "privát böngészésről">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Védelem követés ellen">
 <!ENTITY trackingProtection.description2                 "Egyes weboldalak követőket használnak, amelyek az interneten bárhol követhetik az Ön tevékenységét. A követés elleni védelemmel a Firefox sok követőt blokkol, amelyek böngészési szokásairól gyűjtenek adatokat.">
