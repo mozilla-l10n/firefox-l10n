@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "ה">
 <!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">
 
+<!ENTITY getThemes.description                "מעוניינים להתאים אישית את הדפדפן?">
+<!ENTITY getThemes.learnMore                  "בחרו מאלפי ערכות נושא זמינות.">
+
 <!ENTITY cmd.back.tooltip                     "חזרה דף אחד אחורה">
 <!ENTITY cmd.forward.tooltip                  "התקדמות דף אחד קדימה">
 
