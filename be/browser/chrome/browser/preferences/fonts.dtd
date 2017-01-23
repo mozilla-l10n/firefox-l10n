@@ -20,6 +20,7 @@
 <!ENTITY  sans-serif.accesskey                    "Б">
 <!ENTITY  monospace.label                         "Роўнашырокі:">
 <!ENTITY  monospace.accesskey                     "Р">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Японская">
@@ -29,7 +30,6 @@
 <!ENTITY  font.langGroup.korean                   "Карэйская">
 <!ENTITY  font.langGroup.cyrillic                 "Кірыліца">
 <!ENTITY  font.langGroup.el                       "Грэцкая">
-
 <!ENTITY  font.langGroup.thai                     "Тайская">
 <!ENTITY  font.langGroup.hebrew                   "Габрэйская">
 <!ENTITY  font.langGroup.arabic                   "Арабская">
@@ -44,8 +44,6 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмухі">
 <!ENTITY  font.langGroup.khmer                    "Кхмерская">
 <!ENTITY  font.langGroup.malayalam                "Малайяламская">
-
-
 <!ENTITY  font.langGroup.telugu                   "Тэлугу">
 <!ENTITY  font.langGroup.kannada                  "Канарызская">
 <!ENTITY  font.langGroup.sinhala                  "Сінгала">
@@ -54,15 +52,10 @@
 <!ENTITY minSize.label                            "Найменшы памер шрыфту:">
 <!ENTITY minSize.accesskey                        "м">
 <!ENTITY minSize.none                             "Няма">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
-<!ENTITY  allowPagesToUse.label                   "Дазволіць старонкам выбіраць свае ўласныя шрыфты замест вылучаных мной угары">
-<!ENTITY  allowPagesToUse.accesskey               "ш">
-
-
 
 
 

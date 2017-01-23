@@ -12,8 +12,6 @@
   preferences.properties as removeSelectedCookies.
 -->
 
-
-
 <!ENTITY     props.name.label               "Назва:">
 <!ENTITY     props.value.label              "Змесціва:">
 <!ENTITY     props.domain.label             "Трымальнік:">
@@ -21,14 +19,11 @@
 <!ENTITY     props.secure.label             "Дасылаецца праз:">
 <!ENTITY     props.expires.label            "Высільваецца:">
 
-
 <!ENTITY     window.title                   "Біркі">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Пошук:">
-<!ENTITY     filter.accesskey               "П">
 
 <!ENTITY     button.close.label             "Зачыніць">
 <!ENTITY     button.close.accesskey         "ч">

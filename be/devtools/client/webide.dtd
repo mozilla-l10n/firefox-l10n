@@ -7,51 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -61,82 +16,25 @@
 <!-- zoom -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
-
-
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
+
+
 <!-- Addons -->
 
 <!-- Prefs -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Permissions Table -->
-
 <!-- Runtime Details -->
-
-
-
-
-
 
 <!-- Device Preferences and Settings -->
 
-
-
-
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 
@@ -154,17 +52,5 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
-
-
-
