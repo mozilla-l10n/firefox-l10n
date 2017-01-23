@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Вітаем у &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Конт злучаны">
 
 <!ENTITY aboutAccountsConfig.description "Увайсці, каб сінхранізаваць вашы карткі, закладкі, паролі і іншае.">
 <!ENTITY aboutAccountsConfig.startButton.label "Пачаць">

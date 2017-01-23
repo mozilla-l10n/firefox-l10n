@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountSetupTitle.label    "Наладка &syncBrand.fullName.label;">
-<!-- First page of the wizard -->
 
+<!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "Калі ласка! Калі вы ніколі не карысталіся &syncBrand.fullName.label; раней, вы мусіце стварыць новы рахунак.">
 <!ENTITY button.createNewAccount.label "Стварыць новы рахунак">
@@ -13,8 +13,8 @@
 <!ENTITY setup.choicePage.title.label     "Ужывалі &syncBrand.fullName.label; раней?">
 <!ENTITY setup.choicePage.new.label       "Я ніколі не ўжываў &syncBrand.shortName.label; раней">
 <!ENTITY setup.choicePage.existing2.label "Я ўжо &syncBrand.shortName.label; на іншай збудове">
-<!-- New Account AND Existing Account -->
 
+<!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Паслугач">
 <!ENTITY serverType.default.label      "Змоўчны: паслугач Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Ужываць іншы паслугач…">
@@ -24,8 +24,8 @@
 <!ENTITY signIn.password.accesskey  "П">
 <!ENTITY signIn.recoveryKey.label       "Адноўны ключ">
 <!ENTITY signIn.recoveryKey.accesskey   "к">
-<!-- New Account Page 1: Basic Account Info -->
 
+<!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Падрабязнасці рахунку">
 <!ENTITY setup.emailAddress.label     "Э-паштовы адрас">
 <!ENTITY setup.emailAddress.accesskey "Э">
@@ -33,9 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "п">
 <!ENTITY setup.confirmPassword.label     "Пацвердзіць пароль">
 <!ENTITY setup.confirmPassword.accesskey "ц">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "Я згодны з">
 <!ENTITY setup.tosAgree1.accesskey  "з">
 <!ENTITY setup.tosLink.label        "умовамі абслугоўвання">
@@ -43,8 +43,8 @@
 <!ENTITY setup.ppLink.label         "палітыкай адасаблення">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- My Recovery Key dialog -->
 
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; дбае пра ваша адасабленне">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Каб захаваць вашу бяспеку, усе вашы здаткі шыфруюцца перад зацягваннем. Адноўны ключ, неабходны для расшыфравання вашых здаткаў, не зацягваецца.">
 <!ENTITY recoveryKeyEntry.label        "Ваш адноўны ключ">
@@ -56,8 +56,8 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">
 <!ENTITY button.syncKeyBackup.save.label      "Захаваць…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "З">
-<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Спараванне збудовы">
 <!ENTITY addDevice.showMeHow.label          "Паказаць мне як.">
 <!ENTITY addDevice.dontHaveDevice.label     "Я не маю збудову з сабой">
@@ -69,15 +69,15 @@
 <!ENTITY addDevice.dialog.successful.label  "Збудова паспяхова дададзена. Пачатковая сінхранізацыя працягнецца некалькі хвілінаў і будзе фонава здзяйсняцца.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Каб задзейничаць вашу збудову, вы мусіце ўвесці ваш адноўны ключ. Калі ласка, надрукуйце або захавайце гэты ключ і трымайце яго ў сябе.">
 <!ENTITY addDevice.dialog.connected.label   "Збудова злучана">
-<!-- Existing Account Page 2: Manual Login -->
 
+<!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Увайсці">
 <!ENTITY existingRecoveryKey.description "Вы можаце атрымаць падвой вашага адноўнага ключа ў наладжваннях &syncBrand.shortName.label; на іншай вашай збудове, выберыце &quot;Мой адноўны ключ&quot; у &quot;Кіраваць рахункам&quot;.">
 <!ENTITY verifying.label              "Праверка…">
 <!ENTITY resetPassword.label          "Скінуць пароль">
 <!ENTITY resetSyncKey.label           "Я згубіў маю іншую збудову.">
-<!-- Sync Options -->
 
+<!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Наладжванні Sync">
 <!ENTITY syncDeviceName.label       "Назва збудовы:">
 <!ENTITY syncDeviceName.accesskey   "Н">
@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label     "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
-<!ENTITY engine.tabs.label          "Устаўкі">
 <!ENTITY engine.tabs.accesskey      "У">
 <!ENTITY engine.history.label       "Гісторыя">
 <!ENTITY engine.history.accesskey   "Г">
@@ -100,15 +99,15 @@
 <!ENTITY choice2.merge.recommended.label "Раіцца:">
 <!ENTITY choice2a.client.main.label      "Заменіць усе здаткі на гэтай збудове здаткамі з &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Заменіць здаткі на іншых збудовах здаткамі з гэтай">
-<!-- Confirm Merge Options -->
 
+<!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Сцвярджэнне">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; зараз салье усе здаткі азірання з гэтай збудовы ў рахунак Sync.">
 <!ENTITY confirm.client3.label         "Увага: наступныя здаткі &brandShortName; будуць выдалены на гэтай збудове:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; тады падвоіць здаткі &syncBrand.fullName.label; на гэтую збудову.">
 <!ENTITY confirm.server2.label         "Увага: здаткі на наступных збудовах будуць перазапісаны мясцовымі здаткамі:">
-<!-- New & Existing Account: Setup Complete -->
 
+<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Уладкаванне скончана">
 <!ENTITY changeOptions.label "Вы можаце змяніць гэтую перавагу з дапамогаю наладжванняў Sync.">
 <!ENTITY continueUsing.label "Зараз вы можаце працягнуць працаваць з &brandShortName;.">

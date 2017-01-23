@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Бібліятэка">
 <!ENTITY places.library.width  "740">
 <!ENTITY places.library.height "520">
@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Выбраць файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "В">
 
-<!ENTITY cmd.bookmarkLink.label         "Закласці гэтую старонку…">
-<!ENTITY cmd.bookmarkLink.accesskey     "З">
-<!ENTITY cmd.delete.label               "Выдаліць гэтую старонку">
-<!ENTITY cmd.delete.accesskey           "д">
 <!ENTITY cmd.deleteDomainData.label     "Забыць гэтую пляцоўку">
 <!ENTITY cmd.deleteDomainData.accesskey "З">
 
@@ -52,8 +48,6 @@
 <!ENTITY cmd.open.accesskey              "А">
 <!ENTITY cmd.open_window.label           "Адчыніць у новым акне">
 <!ENTITY cmd.open_window.accesskey       "н">
-
-
 <!ENTITY cmd.open_tab.label              "Адчыніць у новай устаўцы">
 <!ENTITY cmd.open_tab.accesskey          "в">
 <!ENTITY cmd.open_all_in_tabs.label      "Адчыніць усе ў устаўках">

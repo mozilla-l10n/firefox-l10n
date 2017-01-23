@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Асноўныя">
 
@@ -10,12 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках">
 <!ENTITY useCursorNavigation.accesskey   "с">
-<!ENTITY searchStartTyping.label         "Шукаць тэкст, які я пачынаю набіраць">
-<!ENTITY searchStartTyping.accesskey     "Ш">
-<!ENTITY blockAutoRefresh.label          "Папярэджваць мяне, калі пляцоўкі сеціва спрабуюць перанакіраваць ці абнавіць старонку">
-<!ENTITY blockAutoRefresh.accesskey      "я">
-
-
 
 <!ENTITY browsing.label                  "Азіранне">
 
@@ -25,8 +19,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "л">
 <!ENTITY allowHWAccel.label              "Ужываць, калі можна, паскарэнне начыння">
 <!ENTITY allowHWAccel.accesskey          "н">
-<!ENTITY checkSpelling.label             "Правяраць правапіс падчас набору">
-<!ENTITY checkSpelling.accesskey         "п">
 
 <!ENTITY dataChoicesTab.label            "Выбар здаткаў">
 
@@ -36,11 +28,7 @@
 <!ENTITY healthReportLearnMore.label     "Падрабязней">
 
 <!ENTITY telemetryDesc.label             "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
-
-
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
-
-
 
 <!ENTITY crashReporterLearnMore.label     "Падрабязней">
 
@@ -55,13 +43,15 @@
 <!ENTITY httpCache.label                 "Назапашанае сеціўнае змесціва">
 
 <!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія здаткі">
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Абмежаваць запаснік">
 <!ENTITY limitCacheSizeBefore.accesskey  "м">
 <!ENTITY limitCacheSizeAfter.label       "МБ прасторы">
@@ -74,11 +64,8 @@
 
 <!ENTITY updateTab.label                 "Абнаўленне">
 
-<!ENTITY updateApp.label                 "Абнаўленні &brandShortName;:">
 <!ENTITY updateAuto1.label               "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
 <!ENTITY updateAuto1.accesskey           "С">
-<!ENTITY updateCheck.label               "Правяраць, ці існуюць абнаўленні, але я сам буду вырашаць, ці ўсталёўваць іх">
-<!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -88,14 +75,9 @@
 <!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абналенняў">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY updateOthers.label              "Самастойна абнаўляць:">
 <!ENTITY enableSearchUpdate.label        "Машыны пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "ш">
 
-<!ENTITY offlineNotify.label             "Паведамляць мне, калі пляцоўка сеціва просіць захаваць здаткі для пазасеткавага ўжывання">
-<!ENTITY offlineNotify.accesskey         "в">
-<!ENTITY offlineNotifyExceptions.label   "Выключэнні…">
-<!ENTITY offlineNotifyExceptions.accesskey "ы">
 
 <!ENTITY offlineAppsList2.label          "Наступныя пляцоўкі Сеціва маюць дазвол на захаванне здаткаў для пазасеткавага ўжывання:">
 <!ENTITY offlineAppsList.height          "8em">
@@ -104,14 +86,6 @@
 <!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя здаткі">
 
 <!ENTITY certificateTab.label            "Пасведчанні">
-
-<!ENTITY certSelection.description       "Калі паслугач патрабуе маё асабістае пасведчанне:">
-<!ENTITY certs.auto                      "Выбраць адзін самастойна">
-<!ENTITY certs.auto.accesskey            "с">
-<!ENTITY certs.ask                       "Пытацца ў мяне кожны раз">
-<!ENTITY certs.ask.accesskey             "р">
-
-
 <!ENTITY viewCerts.label                 "Прагляд пасведчанняў">
 <!ENTITY viewCerts.accesskey             "г">
 <!ENTITY viewSecurityDevices.label       "Збудовы бяспекі">
