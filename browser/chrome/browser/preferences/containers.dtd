@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "הוספת מגירה חדשה">
 <!ENTITY addButton.accesskey  "מ">
+<!ENTITY preferencesButton.label "העדפות">
+<!ENTITY removeButton.label   "הסרה">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; חזרה למסך „פרטיות”">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "שם:">
 <!ENTITY name.accesskey       "ש">
+<!ENTITY name.placeholder     "נא להזין שם מגירה">
 <!ENTITY icon.label           "סמל:">
 <!ENTITY icon.accesskey       "ס">
 <!ENTITY color.label          "צבע:">

@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "פתיחה">
 <!ENTITY syncedTabs.context.open.accesskey                   "פ">
 <!ENTITY syncedTabs.context.openInNewTab.label               "פתיחה בלשונית חדשה">
@@ -768,6 +772,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ס">
 <!ENTITY syncedTabs.context.copy.label                       "העתקה">
 <!ENTITY syncedTabs.context.copy.accesskey                   "ע">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "פתיחת הכל בלשוניות">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "פ">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

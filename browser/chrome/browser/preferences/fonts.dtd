@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "סריף">
 <!ENTITY  useDefaultFontSansSerif.label           "סאן־סריף">
 
+<!ENTITY  allowPagesToUseOwn.label                "לאפשר לדפים לבחור בגופנים שלהם במקום בחירתי למעלה">
+<!ENTITY  allowPagesToUseOwn.accesskey            "ג">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "קידוד טקסט לתוכן ישן">
 <!ENTITY languages.customize.Fallback2.label      "קידוד טקסט חלופי:">

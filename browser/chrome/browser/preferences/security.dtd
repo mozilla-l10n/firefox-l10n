@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "כללי">
 
+<!ENTITY  warnOnAddonInstall.label        "הזהרה כאשר אתרים מנסים להתקין תוספות">
+<!ENTITY  warnOnAddonInstall.accesskey    "ת">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

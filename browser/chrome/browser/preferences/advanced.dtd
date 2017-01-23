@@ -21,6 +21,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "ח">
 <!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">
+<!ENTITY checkUserSpelling.label         "בדיקת איות תוך כדי הקלדה">
+<!ENTITY checkUserSpelling.accesskey     "ב">
 
 <!ENTITY dataChoicesTab.label            "בחירות מידע">
 
@@ -52,6 +54,12 @@
 <!ENTITY offlineStorage2.label           "תוכן רשת לא מקוון ונתוני משתמש">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "נתוני אתר">
+<!ENTITY clearSiteData.label             "מחיקת כל הנתונים">
+<!ENTITY clearSiteData.accesskey         "מ">
+<!ENTITY siteDataSettings.label          "הגדרות…">
+<!ENTITY siteDataSettings.accesskey      "ה">
+<!ENTITY siteDataLearnMoreLink.label     "מידע נוסף">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,6 +79,7 @@
 
 <!ENTITY updateTab.label                 "עדכון">
 
+<!ENTITY updateApplication.label         "עדכוני &brandShortName;">
 <!ENTITY updateAuto1.label               "התקנת עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
 <!ENTITY updateAuto1.accesskey           "א">
 <!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
@@ -82,9 +91,14 @@
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
 <!ENTITY useService.accesskey            "ר">
 
+<!ENTITY autoUpdateOthers.label          "עדכון באופן אוטומטי">
 <!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
 <!ENTITY enableSearchUpdate.accesskey    "מ">
 
+<!ENTITY offlineStorageNotify.label               "דיווח כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
+<!ENTITY offlineStorageNotify.accesskey           "ד">
+<!ENTITY offlineStorageNotifyExceptions.label     "חריגות…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ח">
 
 <!ENTITY offlineAppsList2.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "הסרת נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
+<!ENTITY certPersonal.label              "בקשות">
+<!ENTITY certPersonal.description        "כאשר שרת מבקש את האישור האישי שלך, יש:">
+<!ENTITY selectCerts.auto                "לבחור אחד באופן אוטומטי">
+<!ENTITY selectCerts.auto.accesskey      "ב">
+<!ENTITY selectCerts.ask                 "לשאול אותך כל פעם">
+<!ENTITY selectCerts.ask.accesskey       "ש">
 <!ENTITY enableOCSP.label                "תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה">
 <!ENTITY enableOCSP.accesskey            "ת">
 <!ENTITY viewCerts.label                 "הצגת אישורים">
