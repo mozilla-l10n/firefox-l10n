@@ -94,6 +94,9 @@ Ping
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalarji">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Skalarji s ključi">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrami
 ">
