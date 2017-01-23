@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "هنگام شروع &brandShortName;:">
 <!ENTITY startupPage.accesskey     "ه">
-<!ENTITY startupHomePage.label     "نمایش صفحه خانگی">
+
 <!ENTITY startupBlankPage.label    "نمایش یک صفحه خالی">
-<!ENTITY startupLastSession.label  "نمایش صفحات و زبانه‌های قبلی">
+
 
 <!ENTITY homepage.label            "صفحهٔ خانگی">
 <!ENTITY homepage.accesskey        "خ">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "انتخاب…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "محل ذخیرهٔ هر پرونده سؤال شود">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "همیشه بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض شما است یا خیر">
 <!ENTITY alwaysCheckDefault2.accesskey    "ه">

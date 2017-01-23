@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "قطع ارتباط">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "جدول مجوزها">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "عکس صفحه">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "اطلاعات زمان‌اجرا">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "پیش‌فرض">
 <!ENTITY prefs_options_autosavefiles "ذخیره خودکار فایل‌ها">
 <!ENTITY prefs_options_autosavefiles_tooltip "ذخیره خودکار فایل‌های ویرایش شده قبل از اجرا پروژه">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "جدول مجوزها">
-<!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "اطلاعات زمان‌اجرا">
@@ -204,7 +198,7 @@
 <!ENTITY simulator_title "گزینه‌های شبیه‌ساز">
 <!ENTITY simulator_remove "حذف شبیه‌ساز">
 <!ENTITY simulator_reset "احیای تنظیمات پیش‌فرض">
-<!ENTITY simulator_name "نام">
+
 <!ENTITY simulator_software "نرم‌افزار">
 <!ENTITY simulator_version "نسخه">
 <!ENTITY simulator_profile "پروفایل">

@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "موارد هم‌گام‌سازی:">
 <!ENTITY engine.bookmarks.label     "نشانک‌ها">
 <!ENTITY engine.bookmarks.accesskey "ن">
-<!ENTITY engine.tabs.label          "زبانه‌ها">
-<!ENTITY engine.tabs.accesskey      "ز">
+
+
 <!ENTITY engine.history.label       "تاریخچه">
 <!ENTITY engine.history.accesskey   "ت">
 <!ENTITY engine.passwords.label     "گذرواژه‌ها">

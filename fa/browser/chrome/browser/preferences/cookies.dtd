@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "جست‌وجو:">
-<!ENTITY     filter.accesskey               "ج">
+
 
 <!ENTITY     button.close.label             "بستن">
 <!ENTITY     button.close.accesskey         "ب">

@@ -30,8 +30,7 @@
 <!ENTITY generic.title "متأسفیم.">
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
-<!ENTITY captivePortal.title "ورود به شبکه">
-<!ENTITY captivePortal.longDesc "<p>ممکن است این شبکه برای اتصال به اینترنت نیاز به ورود داشته باشد.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "باز کردن صفحه ورود">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "پیشرفته">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>اتصال امن به <span id='wrongSystemTime_URL'/> به دلیل اینکه بنظر می‌رسد ساعت شما زمان اشتباهی را نشان می‌دهد، امکان‌پذیر نیست.</p> <p>رایانه شما فکر می‌کند الان <span id='wrongSystemTime_systemDate'/> است، در حالی که باید <span id='wrongSystemTime_actualDate'/> باشد. برای اصلاح، تنظیمات تاریخ و ساعت خود را تغییر دهید تا مطابق زمان صحیح باشد.</p>">
 
 <!ENTITY certerror.pagetitle1  "ارتباط نا امن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این پایگاه از HTTP Strict Transport Security (HSTS) برای نشان دادن اینکه &brandShortName; تنها می‌تواند بصورت امن به آن متصل شود، استفاده می‌کند. در نتیجه، امکان اضافه کردن استثنا برای این گواهی‌نامه وجود ندارد.">

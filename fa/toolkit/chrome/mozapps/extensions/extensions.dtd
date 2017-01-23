@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "ن">
 <!ENTITY toolsMenu.tooltip                    "ابزارهای مخصوص همهٔ افزودنی‌ها">
 
+
+
 <!ENTITY cmd.back.tooltip                     "برگشتن به یک صفحه قبل">
 <!ENTITY cmd.forward.tooltip                  "جلو رفتن به یک صفحه بعد">
 

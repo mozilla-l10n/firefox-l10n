@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "رونویسیِ رنگ‌های مشخص شده توسط صفحه با انتخاب‌های بالای من:">
-<!ENTITY  overridePageColors.accesskey    "ر">
 
-<!ENTITY  overridePageColors.always.label "همیشه">
-<!ENTITY  overridePageColors.auto.label   "تنها تم با کنتراست بالا">
-<!ENTITY  overridePageColors.never.label  "هرگز">
+
+<!ENTITY  overrideDefaultPageColors.always.label "همیشه">
+<!ENTITY  overrideDefaultPageColors.auto.label   "تنها تم با کنتراست بالا">
+<!ENTITY  overrideDefaultPageColors.never.label  "هرگز">
 
 <!ENTITY  color                           "متن و پس‌زمینه">
 <!ENTITY  textColor.label                 "متن:">

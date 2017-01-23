@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "مرور ناشناس ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "شما را در اینترنت ناشناس نمی‌کند.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " کارفرما یا ارائه‌دهنده خدمات اینترنتی شما همچنان می‌تواند از صفحاتی که بازدید می‌کنید اطلاع داشته باشد.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "در مورد‌ آن بیشتر بدانید">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "مرور ناشناس">
+
+
+
 
 <!ENTITY trackingProtection.title                        "محافظت در برابر ردگیری">
 <!ENTITY trackingProtection.description2                 "بعضی از سایت‌ها از ردیاب‌هایی برای پایش فعالیت‌های اینترنتی شما استفاده می‌کنند. با استفاده از «محافظت در برابر ردیابی» فایرفاکس تعداد زیادی از ردیاب‌هایی که اطلاعاتِ مرور شما را جمع‌آوری می‌کنند را مسدود می‌کند.">
