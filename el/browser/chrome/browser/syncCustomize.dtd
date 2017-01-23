@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "δ">
 <!ENTITY engine.history.label             "Ιστορικό">
 <!ENTITY engine.history.accesskey         "κ">
+<!ENTITY engine.tabs.label2               "Άνοιγμα καρτελών">
 <!ENTITY engine.tabs.accesskey            "Κ">
 <!ENTITY engine.passwords.label           "Κωδικοί πρόσβασης">
 <!ENTITY engine.passwords.accesskey       "ω">

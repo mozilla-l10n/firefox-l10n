@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "γ">
 <!ENTITY toolsMenu.tooltip                    "Εργαλεία για όλα τα πρόσθετα">
 
+<!ENTITY getThemes.description                "Ψάχνετε για προσωποποίηση του πλοηγητή σας;">
+<!ENTITY getThemes.learnMore                  "Επιλέξτε από χιλιάδες θεμάτων.">
+
 <!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 

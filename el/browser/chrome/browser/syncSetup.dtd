@@ -85,6 +85,7 @@
 <!ENTITY syncMy.label               "Συγχρονισμός">
 <!ENTITY engine.bookmarks.label     "Σελιδοδεικτών">
 <!ENTITY engine.bookmarks.accesskey "λ">
+<!ENTITY engine.tabs.label2         "Άνοιγμα καρτελών">
 <!ENTITY engine.tabs.accesskey      "τ">
 <!ENTITY engine.history.label       "Ιστορικού">
 <!ENTITY engine.history.accesskey   "ρ">
