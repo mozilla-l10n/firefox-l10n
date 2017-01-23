@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Çerni file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
-<!ENTITY cmd.bookmarkLink.label         "Azonzi sta pagina a-i segnalibbri…">
-<!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Leva da mezo sta pagina">
-<!ENTITY cmd.delete.accesskey           "d">
 <!ENTITY cmd.deleteDomainData.label     "Ascòrdite de questo scito">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 
@@ -52,6 +48,8 @@
 <!ENTITY cmd.open.accesskey              "v">
 <!ENTITY cmd.open_window.label           "Arvi inte 'n atro barcon">
 <!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_private_window.label     "Arvi inte 'n neuva barcon privou">
+<!ENTITY cmd.open_private_window.accesskey "m">
 <!ENTITY cmd.open_tab.label              "Arvi inte 'n atro feuggio">
 <!ENTITY cmd.open_tab.accesskey          "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Arvi tutto inti feuggi">
@@ -81,6 +79,7 @@
 <!ENTITY col.name.label          "Nomme">
 <!ENTITY col.tags.label          "Etichette">
 <!ENTITY col.url.label           "Indirisso">
+<!ENTITY col.mostrecentvisit.label "Vixita ciù recente">
 <!ENTITY col.visitcount.label    "Numero de vixite">
 <!ENTITY col.description.label   "Descriçion">
 <!ENTITY col.dateadded.label     "Azonto">
@@ -119,10 +118,3 @@
 <!ENTITY byLastVisited.accesskey  "P">
 <!ENTITY byDayAndSite.label       "Pe dæta e scito">
 <!ENTITY byDayAndSite.accesskey   "t">
-<!ENTITY col.mostrecentvisit.label "Vixita ciù recente">
-
-<!ENTITY cmd.open_private_window.label "Arvi inte 'n neuva barcon privou">
-<!ENTITY cmd.open_private_window.accesskey "m">
-
-
-

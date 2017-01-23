@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "Sync o Mæ">
 <!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
-<!ENTITY engine.tabs.label          "Feuggi">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">

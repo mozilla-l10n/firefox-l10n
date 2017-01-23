@@ -7,7 +7,13 @@
 <!ENTITY     cookiesonsystem.label          "Sti cookie en sarvæ in sciô teu computer:">
 <!ENTITY     cookiename.label               "Nomme do cookie">
 <!ENTITY     cookiedomain.label             "Scito"> 
-
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeSelectedCookies.accesskey "R">
+<!ENTITY     button.removeAllCookies.label "Scancella tutti">
+<!ENTITY     button.removeAllCookies.accesskey "t">
 
 <!ENTITY     props.name.label               "Nomme:">
 <!ENTITY     props.value.label              "Contegnuo:">
@@ -21,12 +27,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Riçerca:">
-<!ENTITY     filter.accesskey               "R">
 
 <!ENTITY     button.close.label             "Særa">
 <!ENTITY     button.close.accesskey         "S">
-
-<!ENTITY 	button.removeSelectedCookies.accesskey "R">
-<!ENTITY 	button.removeAllCookies.label "Scancella tutti">
-<!ENTITY 	button.removeAllCookies.accesskey "t">
