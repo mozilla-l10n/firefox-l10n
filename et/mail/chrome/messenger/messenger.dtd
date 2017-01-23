@@ -349,7 +349,7 @@
 <!ENTITY replyToAllMsgCmd.label "Vasta kõigile">
 <!ENTITY replyToAllMsgCmd.accesskey "k">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToListMsgCmd.label "Vasta listile">
+<!ENTITY replyToListMsgCmd.label "Vasta listi">
 <!ENTITY replyToListMsgCmd.accesskey "l">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Edasta">
@@ -476,7 +476,7 @@
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Rakenda filtreid valitud kirjadele">
 <!ENTITY filtersApplyToSelection.accesskey "f">
-<!ENTITY filtersApplyToMessage.label "Rakenda filtreid valitud kirjal">
+<!ENTITY filtersApplyToMessage.label "Rakenda filtreid valitud kirjale">
 <!ENTITY filtersApplyToMessage.accesskey "l">
 <!ENTITY runJunkControls.label "Rakenda kaustale rämpspostifiltrit">
 <!ENTITY runJunkControls.accesskey "a">
@@ -627,7 +627,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "k">
 <!ENTITY folderContextNew.label "Uus alamkaust...">
 <!ENTITY folderContextNew.accesskey "U">
-<!ENTITY folderContextRename.label "Nimeta ümber">
+<!ENTITY folderContextRename.label "Muuda nime">
 <!ENTITY folderContextRename.accesskey "N">
 <!ENTITY folderContextRemove.label "Kustuta">
 <!ENTITY folderContextRemove.accesskey "K">
