@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Hoppá!">
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
-<!ENTITY captivePortal.title "Bejelentkezés a hálózatba">
-<!ENTITY captivePortal.longDesc "<p>Ez a hálózat megkövetelheti a bejelentkezést az internet eléréséhez.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Bejelentkezőképernyő megnyitása">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Speciális">
 <!ENTITY weakCryptoAdvanced.longDesc "A(z) <span class='hostname'></span> elavult és sebezhető biztonsági technológiát használ. Egy támadó egyszerűen megszerezhet olyan adatokat, amiket Ön biztonságban lévőnek hitt.">
 <!ENTITY weakCryptoAdvanced.override "(Nem biztonságos) Próbálja meg elavult biztonsági technológia használatával betölteni ezt: <span class='hostname'></span>">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Nem lehet biztonságosan kapcsolódni ehhez: <span id='wrongSystemTime_URL'/>, mert az órája úgy tűnik, rosszul jár.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTime_systemDate'/> van, valójában <span id='wrongSystemTime_actualDate'/>. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nem biztonságos kapcsolat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ez az oldal HTTP Strict Transport Security (HSTS) használatával adja meg, hogy a &brandShortName; csak biztonságosan kapcsolódjon. Emiatt nem lehet kivételt felvenni ehhez a tanúsítványhoz.">

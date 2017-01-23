@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Keresés:">
-<!ENTITY     filter.accesskey               "K">
+
 
 <!ENTITY     button.close.label             "Bezárás">
 <!ENTITY     button.close.accesskey         "B">

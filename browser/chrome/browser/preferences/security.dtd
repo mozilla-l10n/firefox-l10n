@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Általános">
 
-<!ENTITY  warnAddonInstall.label        "Figyelmeztetés kiegészítők telepítése előtt">
-<!ENTITY  warnAddonInstall.accesskey    "F">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Veszélyes letöltések blokkolása">
 <!ENTITY  blockDownloads.accesskey        "b">
 
-<!ENTITY  blockUncommonUnwanted.label     "Figyelmeztessen a nem kívánatos és szokatlan szoftverekre">
-<!ENTITY  blockUncommonUnwanted.accesskey "F">
+
 
 <!ENTITY  addonExceptions.label         "Kivételek…">
 <!ENTITY  addonExceptions.accesskey     "K">
