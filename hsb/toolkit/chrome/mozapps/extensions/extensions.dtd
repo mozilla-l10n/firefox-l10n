@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "P">
 <!ENTITY toolsMenu.tooltip                    "Nastroje za wšě přidatki">
 
+<!ENTITY getThemes.description                "Chceće swój wobhladowak přiměrić?">
+<!ENTITY getThemes.learnMore                  "Wubjerće z tysacow drastow.">
+
 <!ENTITY cmd.back.tooltip                     "Wo jednu stronu wróćo">
 <!ENTITY cmd.forward.tooltip                  "Wo jednu stronu doprědka">
 

@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "B">
 <!ENTITY runtimeMenu_disconnect_label "Zwisk dźělić">
 <!ENTITY runtimeMenu_disconnect_accesskey "d">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabela prawow">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Foto wobrazowki">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "F">
 <!ENTITY runtimeMenu_showDetails_label "Informacije běžneho časa">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Standard">
 <!ENTITY prefs_options_autosavefiles "Dataje awtomatisce składować">
 <!ENTITY prefs_options_autosavefiles_tooltip "Wobdźěłane dataje awtomatisce składować, prjedy hač projekt běži">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Tabela prawow">
-<!ENTITY permissionstable_name_header "Mjeno">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije běžneho časa">
