@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Synka">
 <!ENTITY engine.bookmarks.label     "Bokmärken">
 <!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label2         "Öppna flikar">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historiken">
 <!ENTITY engine.history.accesskey   "o">

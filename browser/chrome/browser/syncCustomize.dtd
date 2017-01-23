@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "B">
 <!ENTITY engine.history.label             "Historik">
 <!ENTITY engine.history.accesskey         "o">
+<!ENTITY engine.tabs.label2               "Öppna flikar">
 <!ENTITY engine.tabs.accesskey            "F">
 <!ENTITY engine.passwords.label           "Lösenord">
 <!ENTITY engine.passwords.accesskey       "L">
