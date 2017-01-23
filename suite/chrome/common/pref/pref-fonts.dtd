@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-fonts.xul -->
+
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-
-
 <!ENTITY  pref.fonts.title                        "字体">
 
 <!ENTITY  language.label                          "针对 (t)：">
@@ -28,19 +28,16 @@
 <!ENTITY  cursive.label                           "手写体：">
 <!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1                   "西欧">
-<!ENTITY  font.langGroup.latin2                   "中欧">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "日文">
 <!ENTITY  font.langGroup.trad-chinese             "正体中文（台澎金马）">
 <!ENTITY  font.langGroup.simpl-chinese            "简体中文">
 <!ENTITY  font.langGroup.trad-chinese-hk          "繁体中文（香港澳门）">
 <!ENTITY  font.langGroup.korean                   "谚文（朝鲜语）">
 <!ENTITY  font.langGroup.cyrillic                 "西里尔字母">
-<!ENTITY  font.langGroup.baltic                   "衍生拉丁字母（波罗的语族）">
 <!ENTITY  font.langGroup.el                       "希腊文">
-<!ENTITY  font.langGroup.turkish                  "拉丁土耳其文">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "私人使用区（PUA）">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯来文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯文">
@@ -60,15 +57,15 @@
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "无">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "衬线字体">
 <!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
 
 <!ENTITY  useDocumentFonts.label                  "允许文档使用其他字体">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- leaving this stuff in for now -->
 
+<!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "当网页自定义字体时">
 <!ENTITY  useDefaultFont.label                    "使用默认字体，忽略网页字体设置">
