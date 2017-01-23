@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY aboutAccounts.connected "ಖಾತೆ ಸಂಪರ್ಕಿತಗೊಂಡಿದೆ">
 
 <!ENTITY aboutAccountsConfig.description "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟ ಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು ಮತ್ತು ಇತ್ಯಾದಿಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
 <!ENTITY aboutAccountsConfig.startButton.label "ಪ್ರಾರಂಭಿಸಿ">

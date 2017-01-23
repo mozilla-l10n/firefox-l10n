@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "ಇವುಗಳನ್ನು ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY engine.bookmarks.label     "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ಹಾಳೆಗಳು">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "ಇತಿಹಾಸ">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "ಗುಪ್ತಪದಗಳು">

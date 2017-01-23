@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ಕಡತವನ್ನು ಆರಿಸು…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "ಈ ಪುಟವನ್ನು ಅಳಿಸಿ ಹಾಕು">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ಈ ತಾಣವನ್ನು ಮರೆತು ಬಿಡು">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
