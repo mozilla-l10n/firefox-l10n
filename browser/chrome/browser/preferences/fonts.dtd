@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "ნაჭდევებიანი">
 <!ENTITY  useDefaultFontSansSerif.label           "გროტესკი">
 
-<!ENTITY  allowPagesToUse.label                   "საიტებისთვის ჩემ მიერ ზემოთ არჩეულების ნაცვლად საკუთარი შრიფტების გამოყენების ნების მიცემა.">
-<!ENTITY  allowPagesToUse.accesskey               "ნ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ტექსტის კოდირება მოძველებული შიგთავსითვის">
 <!ENTITY languages.customize.Fallback2.label      "ტექსტის სათადარიგო კოდირება:">

@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "&brandShortName;-ის ჩართვისას:">
 <!ENTITY startupPage.accesskey     "ჩ">
-<!ENTITY startupHomePage.label     "ჩემი საწყისი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
-<!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და ჩანართების ჩვენება">
 
 <!ENTITY homepage.label            "საწყისი გვერდი:">
 <!ENTITY homepage.accesskey        "გ">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "რ">
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ფაილების შესანახი მდებარეობის ყოველ ჯერზე მითითება">
-<!ENTITY alwaysAsk.accesskey "ყ">
 
 <!ENTITY alwaysCheckDefault2.label        "ყოველთვის შემოწმდეს, არის თუ არა &brandShortName; ნაგულისხმევი ბრაუზერი">
 <!ENTITY alwaysCheckDefault2.accesskey    "ვ">

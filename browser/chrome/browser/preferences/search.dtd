@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "მ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან თქვენ მიუთითეთ, რომ &brandShortName;-მა ისტორია არასდროს დაიმახსოვროს.">
 
-<!ENTITY redirectWindowsSearch.label "Windows-იდან ძებნის დროს ამ საძიებო სისტემის გამოყენება">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
 <!ENTITY chooseWhichOneToDisplay.label         "საძიებო ზოლი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, მათგან რომელი გამოჩნდეს.">

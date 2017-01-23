@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "პირადი თვალიერების რეჟიმი ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "არ უზრუნველყოფს თქვენს ანონიმურობას">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ინტერნეტში. თქვენს დამსაქმებელს ან ინტერნეტ მომსახურების მომწოდებელს, მაინც შეუძლიათ გაიგონ, რომელ გვერდებს ეწვიეთ.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "შეიტყვეთ მეტი">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "პირადი თვალიერების რეჟიმზე">
 
 <!ENTITY trackingProtection.title                        "თვალყურისგან დაცვა">
 <!ENTITY trackingProtection.description2                 "ვებ-საიტების ნაწილი იყენებს ისეთ საშუალებებს, რომლითაც შეუძლიათ ინტერნეტში თქვენს მოქმედებებზე თვალყურის დევნება. Firefox თვალთვალისგან დაცვა უზრუნველჰყოფს, მსგავსი სახის ინფორმაციის შეგროვებისგან თავის არიდებას.">
