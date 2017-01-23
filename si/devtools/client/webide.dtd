@@ -25,8 +25,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "විසන්ධි කරන්න">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "අවසර වගුව">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "තිරපිටපත">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "දහාවන කාල තොරතුරු">
@@ -79,8 +77,6 @@
 <!-- Prefs -->
 <!ENTITY prefs_general_title "සාමාන්‍ය">
 <!ENTITY prefs_options_keybindings_default "පෙරනිමි">
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 

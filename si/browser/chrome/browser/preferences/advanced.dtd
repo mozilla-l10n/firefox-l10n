@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "සැම විටම පිටුව තුළ සැරිසැරීමට කර්සර යතුරු භාවිතා කරන්න">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "මා යතුරුකරණය ආරම්භ කළ විට පෙළ සඳහා සොයන්න">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "වෙබ් අඩවි වෙනතකට පිටුව යොමු කිරීමට හෝ යළි පූරණයට උත්සාහ කරන විට">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "අවශ්‍ය විටක ස්පර්ශක යතුරු පුවරුව පෙන්වන්න">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "මා යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "දත්ත තෝරාගැනීම්">
 
@@ -55,6 +49,8 @@
 
 <!ENTITY offlineStorage2.label           "නොබැඳි ගබඩාව සහ පරිශීලක තොරතුරු">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -73,11 +69,8 @@
 
 <!ENTITY updateTab.label                 "යාවත්කාලීන">
 
-<!ENTITY updateApp.label                 "&brandShortName; යාවත්කාලීන:">
 <!ENTITY updateAuto1.label               "යාවත්කාලීන යාවත්කාලීන ස්වයංක්‍රීයව ස්ථාපනය කරන්න (ආරක්ෂීතබව වැඩිකරයි)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න, නමුත් ස්ථාපනය සඳහා මට කේරීමට ඉඩහරින්න">
-<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරීක්ෂා නොකරන්න (අනතුරුදායනවබ බව වැඩිකරයන නිසා නිර්දේශ නොකරයි)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -87,14 +80,9 @@
 <!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "ස්වයංක්‍රීයව යාවත්කාලීන කරන්න:">
 <!ENTITY enableSearchUpdate.label        "සෙවුම් යන්ත්‍ර">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "වෙබ් අඩවියක් නොබැඳි භාවිතය සඳහා දත්ත ගබඩා කිරීමට විමසන විට මට දන්වන්න">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "හැරදැමීම්…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "පහත වෙබ් අඩවි නොබැඳිව භාවිතා කිරීම සඳහා දත්ත ස්ථාපනය කර ඇත:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -103,12 +91,6 @@
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
 
 <!ENTITY certificateTab.label            "සහතික">
-<!ENTITY certSelection.label             "ඉල්ලීම්">
-<!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
-<!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "සැමවිටම විමසන්න">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "සහතික පෙන්වන්න">

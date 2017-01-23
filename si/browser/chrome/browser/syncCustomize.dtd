@@ -8,16 +8,15 @@
 <!ENTITY syncCustomize.title              "ඔබ සම්මුහුර්ත කිරීමට කැමති කුමක්ද?">
 <!ENTITY syncCustomize.description        "ඔබට මෙම තෝරාගැනීම විකල්පයන්හීදී වෙනස් කළ හැක.">
 <!ENTITY syncCustomizeUnix.description    "ඔබට මෙම තෝරාගැනීම අභිප්‍රේතයන් හීදී වෙනස්කළ හැක.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "පිටුසළකුණු">
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "පෙරදෑ">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "ටැබ්">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "රහස්පද">
 <!ENTITY engine.passwords.accesskey       "P">

@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "පිටුව මගින් නිවේශිත වර්ණ මගේ තෝරාගැනීම් සමඟ අතික්‍රමණය කරන්න:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "සැමවිටම">
-<!ENTITY  overridePageColors.auto.label   "අධි දීප්ති තේමා සමඟ පමණයි">
-<!ENTITY  overridePageColors.never.label  "Never">
 
 <!ENTITY  color                           "පෙළ සහ පසුබිම">
 <!ENTITY  textColor.label                 "පෙළ:">

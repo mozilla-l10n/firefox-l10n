@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "සාමාන්‍ය">
 
-<!ENTITY  warnAddonInstall.label        "අඩවිය ඇඩෝන ස්ථාපනයට සැරසෙන විට මට අවවාද කරන්න">
-<!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,7 +13,6 @@
 
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "හැරදැමීම්...">
 <!ENTITY  addonExceptions.accesskey     "E">
