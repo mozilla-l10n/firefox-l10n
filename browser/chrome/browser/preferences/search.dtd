@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi &brandShortName; untuk tidak mengingati sejarah.">
 
-<!ENTITY redirectWindowsSearch.label "Gunakan enjin carian ini untuk carian dari Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Enjin carian klik-tunggal">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Bar carian membolehkan anda mencari enjin alternatif secara terus. Pilih yang mana untuk dipaparkan.">

@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Tandabuku Halaman Ini…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Hapus Halaman Ini">
-<!ENTITY cmd.delete.accesskey           "a">
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Laman Ini">
 <!ENTITY cmd.deleteDomainData.accesskey "L">
 

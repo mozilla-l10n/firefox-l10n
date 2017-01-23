@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk navigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
-<!ENTITY searchStartTyping.accesskey     "r">
-<!ENTITY blockAutoRefresh.label          "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Papar papan kekunci sentuh apabila perlu">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "G">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Semak ejaan ketika saya menaip">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Pilihan Data">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Data Kandungan Web Luar talian dan Pengguna">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Kemaskini">
 
-<!ENTITY updateApp.label                 "&brandShortName; mengemaskini:">
 <!ENTITY updateAuto1.label               "Pasang kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Semak kemaskini, tetapi saya yang pilih untuk memasangnya">
-<!ENTITY updateCheck.accesskey           "a">
 <!ENTITY updateManual.label              "Jangan sesekali semak kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Kemaskini automatik:">
 <!ENTITY enableSearchUpdate.label        "Enjin Carian">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Maklumkan saya apabila laman web ini meminta untuk menyimpan data bagi digunakan ketika luar talian">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
-<!ENTITY offlineNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Alih keluar data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
-<!ENTITY certSelection.label             "Permintaan">
-<!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
-<!ENTITY certs.auto                      "Pilih satu secara automatik">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Sentiasa tanya saya">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Tanya pelayan responder OCSP untuk memastikan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Papar Sijil">
