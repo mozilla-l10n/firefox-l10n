@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Bere-biara">
+<!ENTITY  overrideDefaultPageColors.always.label "Bere-biara">
 
-<!ENTITY  overridePageColors.never.label  "Daabi da">
+<!ENTITY  overrideDefaultPageColors.never.label  "Daabi da">
 
 <!ENTITY  color                           "Nkyerɛwee ne ndaekyiri">
 <!ENTITY  textColor.label                 "Nkyerɛwee:">

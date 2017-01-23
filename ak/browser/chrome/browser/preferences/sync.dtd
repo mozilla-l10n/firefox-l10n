@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sync Mediɛ">
 <!ENTITY engine.bookmarks.label     "Mbukmaak">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Ntab">
-<!ENTITY engine.tabs.accesskey      "t">
+
+
 <!ENTITY engine.history.label       "Abakɔsɛm">
 <!ENTITY engine.history.accesskey   "s">
 <!ENTITY engine.passwords.label     "Ehintasɛmfua">

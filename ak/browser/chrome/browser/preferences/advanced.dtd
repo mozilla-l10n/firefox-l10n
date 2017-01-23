@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Fa kɛɛsa akee nom kyini akrataafa mu">
 <!ENTITY useCursorNavigation.accesskey   "k">
-<!ENTITY searchStartTyping.label         "Hwehwɛ atɛkst wɔ bere a me hyɛ-ase retaep">
-<!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Bɔ me kɔkɔ wɔ bere a nwɛbsaet bɔ mbɔden dan anaa wɔsanbue krataafa bi">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "p">
 <!ENTITY allowHWAccel.label              "Fa hardware aksɛlɛrehyɛn di dwuma bere a ɛda hɔ biara">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Feefee me spɛllen mu wɔ bere a meretaepe">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Data Apɛde">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Wɛb Mu Nsɛm a Wɔde Esie">
 
 <!ENTITY offlineStorage2.label           "Wɛb Mu Nsɛm a ɛwɔ ɔflaen ne Adwumadini Deta">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Ntoso">
 
-<!ENTITY updateApp.label                 "&brandShortName; ntoso:">
 <!ENTITY updateAuto1.label               "Instɔɔle ntoso otomatikmu (yɛkanfo: bambɔ a ɛkɔ nkan)">
 <!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheck.label               "Hwehwɛ ntoso, nso ma me nkyerɛ sɛ me pɛ sɛ me instɔɔle wɔn a">
-<!ENTITY updateCheck.accesskey           "w">
+
+
 <!ENTITY updateManual.label              "Nhwehwɛ ntoso biara da (yɛn nkamfo: banbɔ amaneɛ) ">
 <!ENTITY updateManual.accesskey          "h">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Fa ndaekyiri asom no instɔɔle ntoso bi">
 <!ENTITY useService.accesskey            "n">
 
-<!ENTITY updateOthers.label              "To so otomatikmu">
 <!ENTITY enableSearchUpdate.label        "Ahwehwɛmfidie">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-<!ENTITY offlineNotify.label             "Ka kyerɛ me wɔ bere a wɛbsaet bi bisa sɛ ɛde deta besie ɔflaen ayɛ ho edwuma">
-<!ENTITY offlineNotify.accesskey         "K">
-<!ENTITY offlineNotifyExceptions.label   "Nea ɛnnka ho…">
-<!ENTITY offlineNotifyExceptions.accesskey "o">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Nea ɛnnka ho…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "o">
 
 <!ENTITY offlineAppsList2.label          "Wɛbsaet ndidiso yi wɔ deta a wɔde asie sɛ wɔnnyɛ wɔ ho edwuma ɔflaen:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Abasobɔde nkrataa">
 
-<!ENTITY certSelection.description       "Sɛ somfo bi bisa meabasobɔde krataa:">
-<!ENTITY certs.auto                      "Paw baako otomatikmu">
 
-<!ENTITY certs.ask                       "Bisa me bere biara">
+<!ENTITY selectCerts.auto                "Paw baako otomatikmu">
+
+
 
 
 

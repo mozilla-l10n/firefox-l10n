@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Fa Fael…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.bookmarkLink.label         "Bukmaake Krataafa Yi…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Yi Krataafa Yi Firi Hɔ">
-<!ENTITY cmd.delete.accesskey           "Y">
 <!ENTITY cmd.deleteDomainData.label     "Ma Wo Were Mfiri Saet Yi">
 <!ENTITY cmd.deleteDomainData.accesskey "f">
 
