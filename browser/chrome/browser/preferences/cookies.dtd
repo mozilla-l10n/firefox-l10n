@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Soek:">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "Sluit">
 <!ENTITY     button.close.accesskey         "S">

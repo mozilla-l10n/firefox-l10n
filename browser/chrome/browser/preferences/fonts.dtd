@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
-<!ENTITY  allowPagesToUse.label                   "Laat bladsye toe om hul eie fonte te kies in plaas van my keuses hierbo">
-<!ENTITY  allowPagesToUse.accesskey               "L">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teksenkodering vir ou inhoud">
 <!ENTITY languages.customize.Fallback2.label      "Teksenkodering om op terug te val:">

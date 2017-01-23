@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan vanweë 'n onbekende rede nie hierdie bladsy laai nie.</p>">
 
-<!ENTITY captivePortal.title "Meld aan by netwerk">
-<!ENTITY captivePortal.longDesc "<p>Dié netwerk benodig dalk dat u aanmeld vir internettoegang.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Open aanmeldbladsy">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Gevorderd">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruik verouderde sekuriteittegnologie en is vatbaar vir aanvalle. 'n Aanvaller kan maklik inligting onthul wat mens sou dink veilig moes wees.">
 <!ENTITY weakCryptoAdvanced.override "(Nie beveilig) Probeer om <span class='hostname'></span> met verouderde sekuriteit te laai">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>'n Beveiligde verbinding na <span id='wrongSystemTime_URL'/> is nie moontlik nie omdat dit lyk of die horlosie verkeerd is.</p> <p>Die rekenaar dink dit is <span id='wrongSystemTime_systemDate'/>, maar dit moet <span id='wrongSystemTime_actualDate'/> wees. Om dit reg te maak, stel die datum en tyd om reg te wees.</p>">
 
 <!ENTITY certerror.pagetitle1  "Onveilige verbinding">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dié werf gebruik HTTP Strict Transport Security (HSTS) om te spesifiseer dat &brandShortName; slegs beveiligd mag koppel. Gevolglik is dit nie moontlik om 'n uitsondering vir dié sertifikaat by te voeg nie.">

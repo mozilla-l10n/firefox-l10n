@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Gebruik my keuse bo vir kleure eerder as dié wat die bladsy spesifiseer:">
-<!ENTITY  overridePageColors.accesskey    "G">
 
-<!ENTITY  overridePageColors.always.label "Altyd">
-<!ENTITY  overridePageColors.auto.label   "Slegs met hoëkontrastemas">
-<!ENTITY  overridePageColors.never.label  "Nooit">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Altyd">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Slegs met hoëkontrastemas">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nooit">
 
 <!ENTITY  color                           "Teks en agtergrond">
 <!ENTITY  textColor.label                 "Teks:">
