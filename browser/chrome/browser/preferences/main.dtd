@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "Στην εκκίνηση του &brandShortName;:">
 <!ENTITY startupPage.accesskey     "κ">
-<!ENTITY startupHomePage.label     "Προβολή της αρχικής μου σελίδας">
 <!ENTITY startupBlankPage.label    "Προβολή μιας κενής σελίδας">
-<!ENTITY startupLastSession.label  "Προβολή των παραθύρων και των καρτελών από την τελευταία φορά">
 
 <!ENTITY homepage.label            "Αρχική σελίδα:">
 <!ENTITY homepage.accesskey        "χ">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "ζ">
 <!ENTITY chooseFolderMac.label        "Επιλογή…">
 <!ENTITY chooseFolderMac.accesskey    "π">
-<!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
-<!ENTITY alwaysAsk.accesskey "α">
 
 <!ENTITY alwaysCheckDefault2.label        "Να γίνεται πάντα έλεγχος για το αν το &brandShortName; είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας">
 <!ENTITY alwaysCheckDefault2.accesskey    "Π">

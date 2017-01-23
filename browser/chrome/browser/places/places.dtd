@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου...">
 <!ENTITY cmd.restoreFromFile.accesskey  "λ">
 
-<!ENTITY cmd.bookmarkLink.label         "Προσθήκη στους σελιδοδείκτες…">
-<!ENTITY cmd.bookmarkLink.accesskey     "δ">
-<!ENTITY cmd.delete.label               "Διαγραφή αυτής της σελίδας">
-<!ENTITY cmd.delete.accesskey           "Δ">
 <!ENTITY cmd.deleteDomainData.label     "Όχι απομνημόνευση αυτής της σελίδας">
 <!ENTITY cmd.deleteDomainData.accesskey "χ">
 

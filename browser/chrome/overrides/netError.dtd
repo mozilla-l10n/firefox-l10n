@@ -197,9 +197,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "Το <span class='hostname'></span> χρησιμοποιεί τεχνολογία ασφάλειας παρωχημένη και ευάλωτη σε επίθεση. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς.">
 <!ENTITY weakCryptoAdvanced.override "(Μη ασφαλές) Προσπάθεια φόρτωσης του <span class='hostname'></span> που χρησιμοποιεί παρωχημένη ασφάλεια">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Η ασφαλής σύνδεση στο <span id='wrongSystemTime_URL'/> είναι αδύνατη, επειδή το ρολόι σας μάλλον πάει λάθος.</p><p>Ο υπολογιστής σας νομίζει πως είναι <span id='wrongSystemTime_systemDate'/>, ενώ θα έπρεπε να είναι <span id='wrongSystemTime_actualDate'/>. Για να διορθώσετε αυτό το θέμα, αλλάξτε την ημέρα και την ώρα σας ώστε να ταιριάζει με τη σωστή.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτός ο ιστότοπος χρησιμοποιεί ασφάλεια

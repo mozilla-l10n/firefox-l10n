@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Αποσύνδεση">
 <!ENTITY runtimeMenu_disconnect_accesskey "ο">
-<!ENTITY runtimeMenu_showPermissionTable_label "Πίνακας δικαιωμάτων">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "ι">
 <!ENTITY runtimeMenu_takeScreenshot_label "Στιγμιότυπο">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "τ">
 <!ENTITY runtimeMenu_showDetails_label "Πληροφορίες Runtime">
@@ -134,10 +132,6 @@
 <!ENTITY prefs_options_keybindings "Δεσμοί πληκτρολογίου">
 <!ENTITY prefs_options_keybindings_default "Προεπιλογή">
 <!ENTITY prefs_options_autosavefiles "Αυτόματη αποθήκευση αρχείων">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Πίνακας δικαιωμάτων">
-<!ENTITY permissionstable_name_header "Όνομα">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Πληροφορίες Runtime">

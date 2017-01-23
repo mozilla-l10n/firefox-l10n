@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Οι ιστοσελίδες να χρησιμοποιούν τις δικές τους γραμματοσειρές">
-<!ENTITY  allowPagesToUse.accesskey               "η">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Κωδικοποίηση κειμένου για συμβατότητα παλαιού περιεχόμενου">
 <!ENTITY languages.customize.Fallback2.label      "Εφεδρική κωδικοποίηση κειμένου:">
