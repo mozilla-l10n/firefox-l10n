@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ইতিহাস">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "টেবসমূহ">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "পাছৱাৰ্ডসমূহ">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "ডেস্কটপ এড-অনসমূহ">

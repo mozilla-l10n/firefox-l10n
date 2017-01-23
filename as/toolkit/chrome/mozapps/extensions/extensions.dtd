@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "সকলো এড-অনৰ পৰা সঁজুলিসমূহ">
 
+
+
 <!ENTITY cmd.back.tooltip                     "এটা পৃষ্ঠা পিছলৈ যাওক">
 <!ENTITY cmd.forward.tooltip                  "এটা পৃষ্ঠা আগলৈ যাওক">
 

@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "সংমিহলি কৰক মোৰ">
 <!ENTITY engine.bookmarks.label     "পত্ৰচিহ্নসমূহ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "টেবসমূহ">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "ইতিহাস">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "পাছৱাৰ্ডসমূহ">

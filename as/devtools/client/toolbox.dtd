@@ -9,17 +9,6 @@
 
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
-
-<!ENTITY toolboxCloseButton.tooltip    "উন্নয়নকাৰী সঁজুলিসমূহ বন্ধ কৰক">
-<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
-  -  the iframes menu list that appears only when the document has some.
-  -  It allows you to switch the context of the whole toolbox. -->
-
-<!ENTITY toolboxFramesTooltip          "বৰ্তমানে লক্ষ্য কৰা দস্তাবেজ ৰূপে এটা iframe বাছক">
-<!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
-  -  the button to force the popups/panels to stay visible on blur.
-  -  This is only visible in the browser toolbox as it is meant for
-  -  addon developers and Firefox contributors. -->
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
@@ -158,6 +147,15 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS স্বসম্পূৰ্ণ কৰক">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "আপুনি টাইপ কৰোতে শৈলী সম্পাদকত CSS বৈশিষ্ট্যসমূহ, মানসমূহ আৰু নিৰ্বাচকসমূহ স্বসম্পূৰ্ণ কৰক">
+<!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
+   -  heading of the group of Screenshot preferences in the options
+   -  panel. -->
+<!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
+   - label for the checkbox that toggles screenshot to clipboard feature. -->
+
+<!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
+   - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

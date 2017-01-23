@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "সদায়">
+<!ENTITY  overrideDefaultPageColors.always.label "সদায়">
 
-<!ENTITY  overridePageColors.never.label  "কেতিয়াও নহয়">
+<!ENTITY  overrideDefaultPageColors.never.label  "কেতিয়াও নহয়">
 
 <!ENTITY  color                           "আখৰ আৰু পৃষ্ঠভূমি">
 <!ENTITY  textColor.label                 "আখৰ:">
