@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Penchadas de filos">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "Escalars">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Escalars con clau">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Datos chenerals">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Midas simples">
 

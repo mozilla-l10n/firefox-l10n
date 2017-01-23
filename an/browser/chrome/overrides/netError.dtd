@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puet cargar la pachina por bella razón.</p>">
 
-<!ENTITY captivePortal.title "Dentrar en o ret">
-<!ENTITY captivePortal.longDesc "<p>Iste ret talment requiera que se connecte pa acceder a internet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Ubrir pachina de dentrada">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Abanzau">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fa servir una tecnolochía de seguridat obsoleta y vulnerable a a ataques. Un atacant podría veyer facilment la información que atrament pensarías que ye segura.">
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>No ye posible una connexión segura a <span id='wrongSystemTime_URL'/> ya que lo suyo reloch pareixe amostrar un tiempo incorrecto.</p> <p>Lo suyo ordinador piensa que ye <span id='wrongSystemTime_systemDate'/>, quan habría d'estar <span id='wrongSystemTime_actualDate'/>. Pa fixar iste problema, cambie los achustes de calendata y hora pa que correspondan a lo tiempo correcto.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se pueda connectar a ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a iste certificau.">

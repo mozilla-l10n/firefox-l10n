@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ainas ta totz os complementos">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Ir entazaga una pachina">
 <!ENTITY cmd.forward.tooltip                  "Ir una pachina enta debant">
 

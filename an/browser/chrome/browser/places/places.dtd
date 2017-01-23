@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Trigar fichero…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Adhibir ista pachina ta os marcapachinas…">
-<!ENTITY cmd.bookmarkLink.accesskey     "m">
-<!ENTITY cmd.delete.label               "Borrar ista pachina">
-<!ENTITY cmd.delete.accesskey           "B">
 <!ENTITY cmd.deleteDomainData.label     "Xublidar iste puesto web">
 <!ENTITY cmd.deleteDomainData.accesskey "X">
 
