@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "సెరీఫ్">
 <!ENTITY  useDefaultFontSansSerif.label           "సాన్స్ సెరీఫ్">
 
-<!ENTITY  allowPagesToUse.label                   "పైన నా ఎంపికలకు బదులుగా, పేజీలు వాటి స్వంత ఫాంట్లను ఎంచుకోనివ్వు">
-<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు">
 <!ENTITY languages.customize.Fallback2.label      "ఆసరా పాఠ్యపు ఎన్‌కోడింగు:">

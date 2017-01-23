@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "&brandShortName; మొదలుకాగానే:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "నా హోం పేజీని చూపించు">
 <!ENTITY startupBlankPage.label    "ఖాళీ పేజీని చూపించు">
-<!ENTITY startupLastSession.label  "చివరిగా నేను చూసిన విండోలను ట్యాబులను చూపించు">
 
 <!ENTITY homepage.label            "హోం పేజీ:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ఎంచుకోండి…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ నన్ను అడుగు">
-<!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">

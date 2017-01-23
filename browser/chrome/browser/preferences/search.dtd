@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే &brandShortName; మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.">
 
-<!ENTITY redirectWindowsSearch.label "విండోస్ నుండి వచ్చే శోధనలకు ఈ శోధన యంత్రాన్ని వాడు">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "ఒక్క-నొక్కు శోధన యంత్రాలు">
 
 <!ENTITY chooseWhichOneToDisplay.label         "శోధన పట్టీ నుండి మీరు నేరుగా ప్రత్యామ్నాయ యంత్రాలలో వెతకవచ్చు. వేటిని చూపించాలో ఎంచుకోండి.">
