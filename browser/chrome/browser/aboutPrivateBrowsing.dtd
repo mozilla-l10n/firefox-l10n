@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Režim Súkromné prehliadanie ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vás neanonymizuje">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na internete. Váš zamestnávateľ alebo poskytovateľ internetového pripojenia môžu stále zistiť, aké stránky ste navštívili.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Zistite viac o">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "režime Súkromné prehliadanie">
 
 <!ENTITY trackingProtection.title                        "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.description2                 "Niektoré webové stránky používajú sledovacie prvky, ktoré moniturujú vašu aktivitu na internete. S Ochranou pred sledovaním Firefox zablokuje veľké množstvo týchto sledovacích prvkov.">
