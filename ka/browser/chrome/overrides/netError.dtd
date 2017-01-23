@@ -45,6 +45,8 @@
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
 <!ENTITY generic.longDesc "<p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გარკვეული მიზეზით.</p>">
 
+
+
 <!ENTITY malformedURI.title "მისამართი უმართებლოა">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>ვებ მისამართი ჩვეულებრივ ამგვარად მიეთითება 
@@ -163,9 +165,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>გამოყენებული უსაფრთხოების ტექნოლოგია მოძველებული და დაუცველია შეტევებისგან. თავდამსხმელს ადვილად შეეძლება მნიშვნელოვანი ინფორმაციის ნახვა.">
 <!ENTITY weakCryptoAdvanced.override "(სახიფათოა) სცადეთ ჩატვირთვა <span class='hostname'></span> მოძველებული უსაფრთხოების გამოყენებით.">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/>-თან საიმედო კავშირის დამყარება შეუძლებელია, რადგან თქვენი საათი არაზუსტ დროს უჩვენებს. </p> <p>თქვენი კომპიუტერის აზრით ახლა <span id='wrongSystemTime_systemDate'/>, სინამდვილეში კი <span id='wrongSystemTime_actualDate'/> უნდა იყოს. პრობლემის მოსაგვარებლად შეცვალეთ თქვენი თარიღისა და დროის პარამეტრები, რათა მათ სწორი დრო უჩვენონ.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი HTTP-ს იყენებს 

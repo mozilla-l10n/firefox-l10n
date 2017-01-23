@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "ძ">
 <!ENTITY     focusSearch2.key               "ბ">
 
-<!ENTITY     filter.label                   "ძიება:">
-<!ENTITY     filter.accesskey               "ძ">
 
 <!ENTITY     button.close.label             "დახურვა">
 <!ENTITY     button.close.accesskey         "დ">

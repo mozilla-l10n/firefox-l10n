@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "დაასინქრონე">
 <!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">

@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ფაილის არჩევა…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ჩ">
 
-<!ENTITY cmd.bookmarkLink.label         "ამ გვერდის ჩანიშვნა…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ნ">
-<!ENTITY cmd.delete.label               "ამ გვერდის წაშლა">
-<!ENTITY cmd.delete.accesskey           "წ">
 <!ENTITY cmd.deleteDomainData.label     "ამ საიტის დავიწყება">
 <!ENTITY cmd.deleteDomainData.accesskey "დ">
 

@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "გვერდებს შიგნით მოძრაობისას ყოველთვის კურსორის კლავიშების გამოყენება">
 <!ENTITY useCursorNavigation.accesskey   "რ">
-<!ENTITY searchStartTyping.label         "ტექსტის ძიება აკრეფის დაწყებისთანავე">
-<!ENTITY searchStartTyping.accesskey     "ქ">
-<!ENTITY blockAutoRefresh.label          "გაფრთხილება საიტის მიერ გადამისამართების ან გვერდის განახლების მცდელობისას">
-<!ENTITY blockAutoRefresh.accesskey      "ბ">
 <!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება საჭიროების შემთხვევაში">
 <!ENTITY useOnScreenKeyboard.accesskey   "კ">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "გ">
 <!ENTITY allowHWAccel.label              "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
 <!ENTITY allowHWAccel.accesskey          "მ">
-<!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის აკრფეისთანავე">
-<!ENTITY checkSpelling.accesskey         "ფ">
 
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "კავშირგარეშე ვებ-შიგთავსი და მომხმარებლის მონაცემები">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "განახლება">
 
-<!ENTITY updateApp.label                 "&brandShortName; განახლებები:">
 <!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებულია უსფართხოება)">
 <!ENTITY updateAuto1.accesskey           "ა">
-<!ENTITY updateCheck.label               "განახლებები შემოწმდეს და შემდეგ გადავწყვეტ.">
-<!ENTITY updateCheck.accesskey           "ა">
 <!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: სახიფათოა)">
 <!ENTITY updateManual.accesskey          "დ">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "განახლებების დასაყენებლად ფონური მომსახურების გამოყენება">
 <!ENTITY useService.accesskey            "ფ">
 
-<!ENTITY updateOthers.label              "ავტომატური განახლება:">
 <!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
 <!ENTITY enableSearchUpdate.accesskey    "ს">
 
-<!ENTITY offlineNotify.label             "ცნობება საიტის მიერ მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის შესახებ">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "გამონაკლისები…">
-<!ENTITY offlineNotifyExceptions.accesskey "კ">
 
 <!ENTITY offlineAppsList2.label          "მოცემულ ვებ-საიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "გარე მონაცემთა ამოღება">
 
 <!ENTITY certificateTab.label            "სერთიფიკატები">
-<!ENTITY certSelection.label             "მოთხოვნები">
-<!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
-<!ENTITY certs.auto                      "შეირჩეს ავტომატურად">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "დამეკითხე ყოველთვის">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების მიმდინარე მდგომარეობის კითხვა">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
