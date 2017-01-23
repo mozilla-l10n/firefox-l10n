@@ -110,10 +110,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Opanungáva">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
 <!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Eikekatu <span id='wrongSystemTime_URL'/> ndaikatúi pe aravopapaha noĩporãi rupi.</p> <p>Ko mohendaha oimo'ã ha'eha <span id='wrongSystemTime_systemDate'/>, ikatuhápe ha'e <span id='wrongSystemTime_actualDate'/>. Esẽ hag̃ua ko apañuãigui, emoambue arange ha aravo ñemboheko ojuehe hag̃ua aravo ha'etéva rehe.</p>">
 
 <!ENTITY certerror.pagetitle1  "Jeikekatu'ỹ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP Strict Transport Security (HSTS) ha omoha'eño &brandShortName; oike hag̃ua pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko mboajepyrépe g̃uarã.">

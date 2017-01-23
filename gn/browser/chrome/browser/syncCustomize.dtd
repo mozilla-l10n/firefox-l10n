@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Tembiasakue">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Tendayke">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "Ñe'ẽñemi">
 <!ENTITY engine.passwords.accesskey       "Ñ">
 <!ENTITY engine.addons.label              "Mba'erechaha moĩmbaha">

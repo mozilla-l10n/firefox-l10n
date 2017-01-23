@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Oñepyrũvo &brandShortName;:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Che kuatiarogue ñepyrũha jehechauka">
+
 <!ENTITY startupBlankPage.label    "Peteĩ kuatiarogue nandi jehechauka">
-<!ENTITY startupLastSession.label  "Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka">
+
 
 <!ENTITY homepage.label            "Kuatiarogue ñepyrũ:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Poravo…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Eporandumeméke chéve moõpa añongatúta marandurenda">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "Ejapo chugui ypykuéva">

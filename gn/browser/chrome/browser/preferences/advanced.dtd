@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Eipuru tapia tairenda hu'ykuéra aikundaha kuatiaroguépe">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Eheka moñe'ẽrã ahaikuévo">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Ehechakuaa oĩramo peteĩ ñanduti kuatiarogue omboguata'ykese térã omyenyhẽsejeýramo pe kuatiarogue">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Ehechauka peteĩ tairenda jepokokuaáva oñeikotevẽ jave">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Hardware mbopya'eha oĩmba vove jepuru">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Haingatu jehaikuévo jehechajey">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Mba'ekuaarã poravo">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Ñanduti rechapyrã kachépe">
 
 <!ENTITY offlineStorage2.label           "Ñanduti rechapyrã jeikekatu'ỹre há puruhára mba'ekuaarã">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Mbohekopyahu">
 
-<!ENTITY updateApp.label                 "&brandShortName; mbohekopyahu">
 <!ENTITY updateAuto1.label               "Tekopyahu ijeheguíva mohenda (jeroviapyrãva: omohekorosãvéta)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguyjysépa">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "Tekopyahu jejhechajey'ỹva, (jerovia'ỹva: hekorosã kyhyjéta)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Eipuru peteĩ mba'epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu">
 <!ENTITY useService.accesskey            "m">
 
-<!ENTITY updateOthers.label              "Tekopyahu ijeheguíva:">
 <!ENTITY enableSearchUpdate.label        "Jehekaha">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Chemomarandu peteĩ tenda ojerujérõ mba'ekuaarã ñongatu jeikekatu'ỹre ojepuru hag̃ua">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Oĩ'ỹva">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Oĩ'ỹva">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Ko'ã ñanduti renda oguereko moneĩ oñongatúvo mba'ekuaarã jeikekatu'ỹre ojepuru hag̃ua:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -104,12 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "Mba'ekuaarã jeikekatu'ỹre mboguete">
 
 <!ENTITY certificateTab.label            "Mboajepyréva">
-<!ENTITY certSelection.label             "Mba'ejerure">
-<!ENTITY certSelection.description       "Peteĩ mohendahavusu oikotevẽramo che mboajepyre:">
-<!ENTITY certs.auto                      "Eiporavo peteĩ ijeheguíva">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Porandu katui">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Mba'ejerure">
+
+<!ENTITY selectCerts.auto                "Eiporavo peteĩ ijeheguíva">
+
+
+
 <!ENTITY enableOCSP.label                "Mohendahavusu mbohovái porandu OCSP rehegua emoañete hag̃ua oiko gueteriha umi mboajepyre ag̃aguáva.">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Mboajepyre jehecha">
