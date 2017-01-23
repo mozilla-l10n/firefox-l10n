@@ -113,9 +113,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Sambungan aman ke <span id='wrongSystemTime_URL'/> tidak memungkinkan karena jam komputer Anda menunjukkan waktu yang salah.</p> <p>Komputer Anda menganggap waktu sekarang adalah <span id='wrongSystemTime_systemDate'/>, padahal seharusnya <span id='wrongSystemTime_actualDate'/>. Untuk memperbaiki masalah ini, ubah setelan tanggal dan jam komputer Anda untuk menunjukkan waktu yang benar.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Situs ini menggunakan HTTP Strict Transport Security atau Keamanan Transportasi Ketat HTTP (HSTS) untuk menyatakan bahwa &brandShortName; hanya bisa tersambung secara aman. Sebagai hasilnya, tidaklah mungkin untuk menambahkan pengecualian bagi sertifikat ini.">
