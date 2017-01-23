@@ -27,4 +27,3 @@
 <!ENTITY tabCrashed.emailMe "추가 정보가 있을 경우 이메일 받기">
 <!ENTITY tabCrashed.reportSent "충돌 보고서를 이미 전송했습니다. &brandShortName;가 보다 나아지도록 도와주셔서 고맙습니다!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "배경탭 보고">
-<!ENTITY tabCrashed.autoSubmit "새로 고침 된 충돌 보고서를 자동으로 제출하도록 환경 설정을 업데이트(앞으로 이와 같은 메시지가 줄어 듭니다.)">

@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "검색:">
-<!ENTITY     filter.accesskey               "S">
 
 <!ENTITY     button.close.label             "닫기">
 <!ENTITY     button.close.accesskey         "C">

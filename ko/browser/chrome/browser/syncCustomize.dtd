@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "방문 기록">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "탭">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "암호">
 <!ENTITY engine.passwords.accesskey       "P">
