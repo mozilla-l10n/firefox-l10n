@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "Nafn">
 <!ENTITY addButton.label      "Bæta við nýjum innihaldsflipa">
 <!ENTITY addButton.accesskey  "a">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Til baka í friðhelgi">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "Heiti:">
 <!ENTITY name.accesskey       "H">
+
 <!ENTITY icon.label           "Táknmynd:">
 <!ENTITY icon.accesskey       "y">
 <!ENTITY color.label          "Litur:">

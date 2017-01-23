@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Þegar &brandShortName; ræsist:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Sýna mína heimasíðu">
+
 <!ENTITY startupBlankPage.label    "Sýna tóma síðu">
-<!ENTITY startupLastSession.label  "Sýna flipa og glugga frá seinustu keyrslu">
+
 
 <!ENTITY homepage.label            "Heimasíða:">
 <!ENTITY homepage.accesskey        "i">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Velja…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Alltaf spyrja hvar á að vista skrár">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Alltaf athuga hvort &brandShortName; sé sjálfgefin vafri">
 <!ENTITY alwaysCheckDefault2.accesskey    "l">

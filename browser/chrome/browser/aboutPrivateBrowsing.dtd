@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Huliðsstilling ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gerir þig ekki alveg nafnlausan">
 <!ENTITY aboutPrivateBrowsing.note.after                 " á Internetinu. Vinnuveitandinn þinn eða netþjónustuaðili getur ennþá séð hvaða síður þú ferð á.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Læra meira um">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Huliðsstilling">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Vörn gegn því að fylgst sé með þér">
 <!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn því að fylgst sé með þér getur Firefox lokað á marga rekjara sem safna upplýsingum um þína vafranotkun.">

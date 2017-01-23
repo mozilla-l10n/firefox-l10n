@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Veldu skrá…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.bookmarkLink.label         "Bókamerkja þessa síðu…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Eyða þessari síðu">
-<!ENTITY cmd.delete.accesskey           "E">
 <!ENTITY cmd.deleteDomainData.label     "Gleyma þessu vefsvæði">
 <!ENTITY cmd.deleteDomainData.accesskey "f">
 
