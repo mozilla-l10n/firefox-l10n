@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "書籤">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "分頁">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "瀏覽紀錄">
 <!ENTITY engine.history.accesskey   "r">
@@ -112,4 +111,3 @@
 <!ENTITY setup.successPage.title "完成設定">
 <!ENTITY changeOptions.label "您可以在以下的同步選項修改這個設定。">
 <!ENTITY continueUsing.label "您現在可以繼續使用 &brandShortName;。">
-

@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "當 &brandShortName; 啟動時:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "顯示首頁">
 <!ENTITY startupBlankPage.label    "顯示空白頁">
-<!ENTITY startupLastSession.label  "顯示上次瀏覽的視窗和分頁">
 
 <!ENTITY homepage.label            "首頁:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "選擇…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "每次都問我要存到何處">
-<!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "總是檢查 &brandShortName; 是否為您的預設瀏覽器">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
@@ -43,4 +39,3 @@
 <!ENTITY getStarted.label                 "開始使用 Sync…">
 
 <!ENTITY e10sEnabled.label                "啟用多程序的 &brandShortName;">
-
