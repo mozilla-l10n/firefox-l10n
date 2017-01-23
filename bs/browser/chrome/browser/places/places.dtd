@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Izaberi fajl…">
 <!ENTITY cmd.restoreFromFile.accesskey  "I">
 
-<!ENTITY cmd.bookmarkLink.label         "Zabilježi ovu stranicu…">
-<!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Obriši ovu stranicu">
-<!ENTITY cmd.delete.accesskey           "O">
 <!ENTITY cmd.deleteDomainData.label     "Zaboravi na ovu stranicu">
 <!ENTITY cmd.deleteDomainData.accesskey "Z">
 

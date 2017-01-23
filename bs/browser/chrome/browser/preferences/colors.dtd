@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Premosti boje definirane na stranici s mojim izborom iznad:">
-<!ENTITY  overridePageColors.accesskey    "o">
 
-<!ENTITY  overridePageColors.always.label "Uvijek">
-<!ENTITY  overridePageColors.auto.label   "Samo sa temama visokog kontrasta">
-<!ENTITY  overridePageColors.never.label  "Nikad">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Uvijek">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Samo sa temama visokog kontrasta">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nikad">
 
 <!ENTITY  color                           "Tekst i pozadina">
 <!ENTITY  textColor.label                 "Tekst:">

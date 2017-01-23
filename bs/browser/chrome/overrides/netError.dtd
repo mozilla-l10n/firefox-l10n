@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
 
-<!ENTITY captivePortal.title "Prijavi se na mrežu">
-<!ENTITY captivePortal.longDesc "<p>Ova mreža može od vas zatražiti da se prijavite da biste pristupili internetu.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Otvori stranicu za prijavu">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Napredno">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>koristi zastarjelu sigurnosnu tehnologiju koja je ranjiva na napade. Napadač bi lahko mogao otkriti podatke koje ste smatrali sigurnim.">
 <!ENTITY weakCryptoAdvanced.override "(Nije sigurno) Probaj učitati <span class='hostname'></span> koristeći zastarjelu zaštitu">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Sigurna veza na <span id='wrongSystemTime_URL'/> nije moguća jer vaš sat izgleda pokazuje pogrešno vrijeme.</p> <p>Vaš računar misli da je <span id='wrongSystemTime_systemDate'/>, dok bi vrijeme trebalo biti <span id='wrongSystemTime_actualDate'/>. Kako biste ovo ispravili, promijenite datum i vrijeme vašeg računara da odgovara stvarnom vremenu.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nesigurna veza">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP Strict Transport Security (HSTS) da bi uputila &brandShortName; da uspostavi sigurnu vezu. Rezultat toga je onemogućeno dodavanje izuzetka za ovaj certifikat.">

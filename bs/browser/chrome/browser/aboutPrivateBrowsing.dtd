@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatno surfanje ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vas ne čini anonimnim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na internetu. Vaš poslodavac ili pružatelj usluge interneta i dalje mogu znati koje stranice posjećujete.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Saznajte više o">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privatno surfanje">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Zaštita od praćenja">
 <!ENTITY trackingProtection.description2                 "Neke web stranice koriste trackere koji mogu pratiti vašu aktivnost na Internetu. Firefox će zaštitom od praćenja blokirati mnoge trackere koji mogu skupljati informacije o vašem surfanju.">
