@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Sobre o &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; é experimental e pode ser instável.">
+<!ENTITY aboutPage.warningVersion               "O &brandShortName; é experimental e pode ser instável.">
 <!ENTITY aboutPage.telemetryStart               " Informações de desempenho, hardware, uso e personalização são enviadas de volta a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " para ajudar a fazer o &brandShortName; melhor.">
