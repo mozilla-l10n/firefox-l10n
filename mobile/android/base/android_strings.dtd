@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น ๆ">
 
+<!ENTITY overlay_share_open_browser_btn_label "เปิดใน &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเบราว์เซอร์ในเครื่อง">
+<!ENTITY pref_private_data_openTabs "แท็บที่เปิด">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "แท็บขนาดกะทัดรัด">
+<!ENTITY pref_compact_tabs_summary2 "จัดเรียงแท็บเป็นสองคอลัมน์ในโหมดแนวตั้ง">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,6 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "สัมผัสเพื่อเรียกใช้การอัปเดตเมื่อดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "สัมผัสเพื่อลองใหม่">
 
+<!ENTITY updater_apply_select3 "สัมผัสเพื่อติดตั้ง">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
