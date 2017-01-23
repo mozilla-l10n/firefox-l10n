@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Já está nos favoritos">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 
+<!ENTITY overlay_share_open_browser_btn_label "Abrir no &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -704,6 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for baixada">
 <!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
 
+<!ENTITY updater_apply_select3 "Tocar para instalar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -848,3 +850,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Descartar">
 <!ENTITY activity_stream_delete_history "Excluir do histórico">
 
+<!ENTITY activity_stream_welcome_title "Bem-vindo aos seus Destaques">
