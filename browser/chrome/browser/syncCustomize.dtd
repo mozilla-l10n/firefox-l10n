@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "Z">
 <!ENTITY engine.history.label             "Historiju">
 <!ENTITY engine.history.accesskey         "t">
-<!ENTITY engine.tabs.label                "Rajtarki">
-<!ENTITY engine.tabs.accesskey            "R">
+
+
 <!ENTITY engine.passwords.label           "Hesła">
 <!ENTITY engine.passwords.accesskey       "H">
 <!ENTITY engine.addons.label              "Desktopowe přidatki">

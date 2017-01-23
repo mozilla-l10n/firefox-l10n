@@ -52,6 +52,8 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Natočene štaple">
+
 <!ENTITY aboutTelemetry.scalarsSection "  Skalary">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Indizierte Skalare">
@@ -59,6 +61,8 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Kodowane histogramy">
+
+<!ENTITY aboutTelemetry.eventsSection "  Podawki">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednore měrjenja">
 

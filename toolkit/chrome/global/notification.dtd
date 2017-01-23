@@ -4,8 +4,9 @@
 
 <!ENTITY closeNotification.tooltip "Tutu zdźělenku začinić">
 
-<!ENTITY closeNotificationItem.label "Nic nětko">
-
 <!ENTITY checkForUpdates "Aktualizacije pytać…">
 
 <!ENTITY learnMore "Dalše informacije…">
+
+<!ENTITY defaultButton.label "W porjadku!">
+<!ENTITY defaultButton.accesskey "o">

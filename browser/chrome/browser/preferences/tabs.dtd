@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Město toho nowe wokna w nowym rajtarku wočinić">
 <!ENTITY newWindowsAsTabs.accesskey   "n">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warnować, hdyž so wjacore rajtarki začinjeja">
-<!ENTITY warnCloseMultipleTabs.accesskey  "W">
 
-<!ENTITY warnOpenManyTabs.label       "Warnować, hdyž móhło wočinjenje wjacorych rajtarkow &brandShortName; spomalić">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY switchToNewTabs.label        "Hnydom na wotkaz přepinać, kotryž je so w nowym rajtarku wočinił">
-<!ENTITY switchToNewTabs.accesskey    "H">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Rajtarkowe přehlady we Windowsowej nadawkowej lajsće pokazać">
 <!ENTITY showTabsInTaskbar.accesskey      "R">
