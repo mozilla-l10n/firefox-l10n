@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName;-ի մեկնարկի ժամանակ`">
 <!ENTITY startupPage.accesskey     "ն">
-<!ENTITY startupHomePage.label     "Ցուցադրել սկզբնական էջը">
+
 <!ENTITY startupBlankPage.label    "Ցուցադրել դատարկ էջ">
-<!ENTITY startupLastSession.label  "Ցուցադրել նախորդ պատուհանները և ներդիրները">
+
 
 <!ENTITY homepage.label            "Սկզբնական էջ`">
 <!ENTITY homepage.accesskey        "Ս">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "տ">
 <!ENTITY chooseFolderMac.label        "Ընտրել…">
 <!ENTITY chooseFolderMac.accesskey    "լ">
-<!ENTITY alwaysAsk.label "Միշտ հարցնել ֆայլերը պահելու տեղը">
-<!ENTITY alwaysAsk.accesskey "Մ">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Միշտ ստուգել, թե արդյոք &brandShortName;-ը ձեր հիմնական դիտարկիչն է">
 <!ENTITY alwaysCheckDefault2.accesskey    "շ">

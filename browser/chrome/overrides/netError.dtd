@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը:</p>">
 
-<!ENTITY captivePortal.title "Մուտք գործել ցանց">
-<!ENTITY captivePortal.longDesc "<p>Այս ցանցը կարող է պահանջել մուտք գործել, որ օգտվեք համացանցից։</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Բացել մուտքի էջը">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Լրացուցիչ">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ուղարկում է անվտագության տեխնոլոգիա, որը հնացած է և խոցելի: Հարձակվող հեշտությամբ կկարողանա տեսնել այն տեղեկությունը, որը դուք համարում եք անվտանգ:">
 <!ENTITY weakCryptoAdvanced.override "(Անվտանգ չէ) Փորձում է բեռնել <span class='hostname'></span> հնացած անվտանգությամբ">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Անվտանգ կապակցումը <span id='wrongSystemTime_URL'/>-ին հնարավոր չէ, քանի որ կարծես թե ժամանակը սխալ է:</p> <p>Ձեր համակարգիչը կարծում է, թե ժամը <span id='wrongSystemTime_systemDate'/> է, այնինչ այն պետք է լինի՝ <span id='wrongSystemTime_actualDate'/>: Այս խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը:</p>">
 
 <!ENTITY certerror.pagetitle1  "Ոչ անվտանգ կապակցում">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Այս կայքը օգտագործում է HTTP Strict Transport Security (HSTS)՝ հատկորոշելու այն, որ &brandShortName;-ը կապակցվում է միայն անվտանգ: Որպես արդյունք՝ հնարավոր չէ ավելացնել բացառություն այս վկայագրի համար:">

@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "տ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք &brandShortName;-ը, որ երբեք չհիշի պատմությունը։">
 
-<!ENTITY redirectWindowsSearch.label "Օգտագորեք այս որոնիչը՝ Windows-ի որոնումների համար">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Մեկ սեղմամբ որոնիչներ">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Որոնման վահանակը հնարավորություն է տալիս փնտրել տարբեր որոնիչներով:">

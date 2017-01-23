@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Սինք իմ՝">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
 <!ENTITY engine.bookmarks.accesskey "Է">
-<!ENTITY engine.tabs.label          "Ներդիրներ">
-<!ENTITY engine.tabs.accesskey      "Ն">
+
+
 <!ENTITY engine.history.label       "Մատյան">
 <!ENTITY engine.history.accesskey   "Մ">
 <!ENTITY engine.passwords.label     "Գաղտնաբառեր">

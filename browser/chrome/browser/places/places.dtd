@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Ընտրել Ֆայլ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ը">
 
-<!ENTITY cmd.bookmarkLink.label         "Էջանշել այս էջը…">
-<!ENTITY cmd.bookmarkLink.accesskey     "Է">
-<!ENTITY cmd.delete.label               "Ջնջել Այս Էջը">
-<!ENTITY cmd.delete.accesskey           "Ջ">
 <!ENTITY cmd.deleteDomainData.label     "Մոռանալ Այս Կայքի Մասին">
 <!ENTITY cmd.deleteDomainData.accesskey "Մ">
 

@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Հստակ">
 <!ENTITY  useDefaultFontSansSerif.label           "Գծիկավոր">
 
-<!ENTITY  allowPagesToUse.label                   "Էջերին թույլատրել օգտագործել իրենց սեփական տառատեսակները">
-<!ENTITY  allowPagesToUse.accesskey               "Է">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար">
 <!ENTITY languages.customize.Fallback2.label      "Վերականգնել Գրանշանների կոդավորումը.">

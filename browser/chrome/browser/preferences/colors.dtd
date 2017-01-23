@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Վերագրել նշված գույները նշվածներով՝">
-<!ENTITY  overridePageColors.accesskey    "Վ">
 
-<!ENTITY  overridePageColors.always.label "Միշտ">
-<!ENTITY  overridePageColors.auto.label   "Միայն Բարձր ցայտունության ձևավորումների համար">
-<!ENTITY  overridePageColors.never.label  "Երբեք">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Միշտ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Միայն Բարձր ցայտունության ձևավորումների համար">
+<!ENTITY  overrideDefaultPageColors.never.label  "Երբեք">
 
 <!ENTITY  color                           "Տեքստ և Խորապատկեր">
 <!ENTITY  textColor.label                 "Տեքստ.">

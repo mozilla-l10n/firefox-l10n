@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Էջերում ուղղորդման համար միշտ օգտագործել կուրսորի սեղմակները:">
 <!ENTITY useCursorNavigation.accesskey   "կ">
-<!ENTITY searchStartTyping.label         "Տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
-<!ENTITY searchStartTyping.accesskey     "ք">
-<!ENTITY blockAutoRefresh.label          "Զգուշացնել, երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել էջը">
-<!ENTITY blockAutoRefresh.accesskey      "յ">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Անհրաժեշտության դեպքում ցուցադրել հպաստեղնաշարը">
 <!ENTITY useOnScreenKeyboard.accesskey   "հ">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "ո">
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">
-<!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգել ուղղագրությունը">
-<!ENTITY checkSpelling.accesskey         "մ">
+
+
 
 <!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Կուտակել ցանցային բովանդակությունը">
 
 <!ENTITY offlineStorage2.label           "Ցանցից դուրս ցանցային բովանդակություն և օգտատերի տվյալներ">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
-<!ENTITY updateApp.label                 "&brandShortName;-ի թարմացումներ.">
 <!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
 <!ENTITY updateAuto1.accesskey           "Թ">
-<!ENTITY updateCheck.label               "Ստուգել թարմացումները, բայց տեղակայման ընտրությունը թողնել ինձ">
-<!ENTITY updateCheck.accesskey           "Ս">
+
+
 <!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում. անվտանգության վտանգ)">
 <!ENTITY updateManual.accesskey          "Ե">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից">
 <!ENTITY useService.accesskey            "խ">
 
-<!ENTITY updateOthers.label              "Ինքնաշխատ թարմացնել.">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
 <!ENTITY enableSearchUpdate.accesskey    "ք">
 
-<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահել ֆայլեր՝ անցանց եղանակում աշխատելու համար">
-<!ENTITY offlineNotify.accesskey         "Տ">
-<!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
-<!ENTITY offlineNotifyExceptions.accesskey "ց">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Բացառություններ…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ց">
 
 <!ENTITY offlineAppsList2.label          "Տվյալ կայքերին արտոնված է տվյալներ պահել՝ անցանց աշխատելու համար.">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Ջնջել անցանց ֆայլերը">
 
 <!ENTITY certificateTab.label            "Վկայագրեր">
-<!ENTITY certSelection.label             "Հայցումներ">
-<!ENTITY certSelection.description       "Երբ սպասարկիչը հարցնում է իմ սեփական վկայագիրը`">
-<!ENTITY certs.auto                      "Ընտրել ինքնաշխատ">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "Հայցումներ">
+
+<!ENTITY selectCerts.auto                "Ընտրել ինքնաշխատ">
+
+
+
 <!ENTITY enableOCSP.label                "Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը">
 <!ENTITY enableOCSP.accesskey            "Հ">
 <!ENTITY viewCerts.label                 "Դիտել վկայագրերը">

@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "Տ">
 <!ENTITY toolsMenu.tooltip                    "Գործիքներ բոլոր հավելումների համար">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
 <!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
 
