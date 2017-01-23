@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "54em">
 
-<!ENTITY  overridePageColors.label        "Fawtor nooneeji labaaɗi e hello ngoo labanɗe am gonɗe dow ɗee:">
-<!ENTITY  overridePageColors.accesskey    "F">
 
-<!ENTITY  overridePageColors.always.label "Sahaa kala">
-<!ENTITY  overridePageColors.auto.label   "Yoo wonat ciŋkooje laaɓtuɗe tan">
-<!ENTITY  overridePageColors.never.label  "Hay sahaa">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Sahaa kala">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Yoo wonat ciŋkooje laaɓtuɗe tan">
+<!ENTITY  overrideDefaultPageColors.never.label  "Hay sahaa">
 
 <!ENTITY  color                           "Binndol e Cakkital">
 <!ENTITY  textColor.label                 "Binndol:">

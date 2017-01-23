@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle">
 <!ENTITY useCursorNavigation.accesskey   "g">
-<!ENTITY searchStartTyping.label         "Yiylo binndol so mi fuɗɗiima tappude">
-<!ENTITY searchStartTyping.accesskey     "n">
-<!ENTITY blockAutoRefresh.label          "Reentin-am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
-<!ENTITY blockAutoRefresh.accesskey      "e">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Hollu tappirde memto so soklaama">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "t">
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">
-<!ENTITY checkSpelling.label             "Ƴeewto mbinndiin am so miɗo tappa">
-<!ENTITY checkSpelling.accesskey         "b">
+
+
 
 <!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Loowdi Geese Kaasaandi">
 
 <!ENTITY offlineStorage2.label           "Loowdi Geese Ceŋtol e Keɓe Kuutoro">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Hesɗitin">
 
-<!ENTITY updateApp.label                 "Kesɗitine &brandShortName;:">
 <!ENTITY updateAuto1.label               "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
 <!ENTITY updateAuto1.accesskey           "s">
-<!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo so mi aafat-ɗe">
-<!ENTITY updateCheck.accesskey           "Y">
+
+
 <!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
 <!ENTITY updateManual.accesskey          "u">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Huutoro carwol cakkitol ngam aafde kesɗitine">
 <!ENTITY useService.accesskey            "c">
 
-<!ENTITY updateOthers.label              "Yesɗitin e jaajol:">
 <!ENTITY enableSearchUpdate.label        "Jiilorɗe">
 <!ENTITY enableSearchUpdate.accesskey    "o">
 
-<!ENTITY offlineNotify.label             "Haalan am so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
-<!ENTITY offlineNotify.accesskey         "g">
-<!ENTITY offlineNotifyExceptions.label   "Paltooje…">
-<!ENTITY offlineNotifyExceptions.accesskey "l">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Paltooje…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "l">
 
 <!ENTITY offlineAppsList2.label          "Ɗee-ɗoo lowe ena njamiraa mooftude keɓe ngam huutoreede e ceŋtol:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Momtu keɓe ceŋtol ɗee">
 
 <!ENTITY certificateTab.label            "Seedamfaaji">
-<!ENTITY certSelection.label             "Ɗaɓɓitanɗe">
-<!ENTITY certSelection.description       "So sarworde ɗaɓɓitii seedamfaagu am heeriingu:">
-<!ENTITY certs.auto                      "Labo gootal e jaajol">
-<!ENTITY certs.auto.accesskey            "L">
-<!ENTITY certs.ask                       "Naamno-mi e sahaa kala">
-<!ENTITY certs.ask.accesskey             "N">
+<!ENTITY certPersonal.label              "Ɗaɓɓitanɗe">
+
+<!ENTITY selectCerts.auto                "Labo gootal e jaajol">
+
+
+
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
 <!ENTITY viewCerts.label                 "Hollu Seedamfaaji">

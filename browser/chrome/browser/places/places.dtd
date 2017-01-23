@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Labo Fiilde…">
 <!ENTITY cmd.restoreFromFile.accesskey  "L">
 
-<!ENTITY cmd.bookmarkLink.label         "Maantoro Ngoo Hello…">
-<!ENTITY cmd.bookmarkLink.accesskey     "M">
-<!ENTITY cmd.delete.label               "Momtu Ngoo Hello">
-<!ENTITY cmd.delete.accesskey           "M">
 <!ENTITY cmd.deleteDomainData.label     "Faalkiso Ndee Lowre">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
