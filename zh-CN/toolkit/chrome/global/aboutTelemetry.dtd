@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  线程挂起">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "捕获的堆栈">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   标量
@@ -65,6 +66,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "键控直方图">
 
+<!ENTITY aboutTelemetry.eventsSection "事件">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  简单测量">
 
