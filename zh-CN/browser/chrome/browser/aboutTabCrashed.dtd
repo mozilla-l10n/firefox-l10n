@@ -27,4 +27,3 @@
 <!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
 <!ENTITY tabCrashed.reportSent "崩溃报告已提交。感谢您帮助 &brandShortName; 变得更好！">
 <!ENTITY tabCrashed.requestAutoSubmit2 "报告后台标签页">
-<!ENTITY tabCrashed.autoSubmit "可以调整首选项，自动提交记录到的崩溃报告（有助于减少此类提醒）">

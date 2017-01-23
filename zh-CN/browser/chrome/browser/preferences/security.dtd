@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "常规">
 
-<!ENTITY  warnAddonInstall.label        "当站点尝试安装附加组件时发出警告">
-<!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +15,6 @@
 <!ENTITY  blockDownloads.label            "拦截危险的下载项">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "发现垃圾软件或罕见软件时警告我">
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "例外…">
 <!ENTITY  addonExceptions.accesskey     "E">

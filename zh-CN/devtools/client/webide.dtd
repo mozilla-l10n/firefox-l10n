@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "断开">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "权限表">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "截屏">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "运行环境信息">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "默认">
 <!ENTITY prefs_options_autosavefiles "自动保存文件">
 <!ENTITY prefs_options_autosavefiles_tooltip "运行项目前自动保存已编辑的文件">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "权限表">
-<!ENTITY permissionstable_name_header "名称">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "运行环境信息">
