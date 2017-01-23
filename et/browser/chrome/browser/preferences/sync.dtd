@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "Sünkroniseeritakse">
 <!ENTITY engine.bookmarks.label     "järjehoidjad">
 <!ENTITY engine.bookmarks.accesskey "j">
-<!ENTITY engine.tabs.label          "kaardid">
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "ajalugu">
 <!ENTITY engine.history.accesskey   "a">
