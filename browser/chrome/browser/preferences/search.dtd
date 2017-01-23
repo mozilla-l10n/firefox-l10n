@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "คำแนะนำการค้นหาจะไม่แสดงผลลัพธ์ในแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
 
-<!ENTITY redirectWindowsSearch.label "ใช้เครื่องมือค้นหานี้สำหรับการค้นหาจาก Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 
 <!ENTITY chooseWhichOneToDisplay.label         "แถบค้นหาช่วยให้คุณค้นหาโดยใช้เครื่องมืออื่นได้โดยตรง เลือกว่าจะให้แสดงผลตัวใดบ้าง">

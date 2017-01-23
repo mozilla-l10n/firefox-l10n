@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "แสดงหน้าแรกของฉัน">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
-<!ENTITY startupLastSession.label  "แสดงหน้าต่างและแท็บของฉันจากครั้งก่อน">
 
 <!ENTITY homepage.label            "หน้าแรก:">
 <!ENTITY homepage.accesskey        "น">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "ร">
 <!ENTITY chooseFolderMac.label        "เลือก…">
 <!ENTITY chooseFolderMac.accesskey    "ล">
-<!ENTITY alwaysAsk.label "ถามฉันเสมอว่าจะบันทึกไฟล์ที่ไหน">
-<!ENTITY alwaysAsk.accesskey "ถ">
 
 <!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์ปริยายของคุณหรือไม่">
 <!ENTITY alwaysCheckDefault2.accesskey    "จ">

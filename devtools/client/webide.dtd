@@ -32,7 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
@@ -123,9 +122,6 @@
 <!ENTITY prefs_options_autoclosebrackets "ปิดวงเล็บอัตโนมัติ">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ใส่วงเล็บปิดอัตโนมัติ">
 <!ENTITY prefs_options_keybindings_default "ค่าปริยาย">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "ชื่อ">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">

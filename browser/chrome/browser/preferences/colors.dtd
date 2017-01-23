@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "ข้ามผ่านสีที่ระบุไว้ในหน้าด้วยตัวเลือกข้างบนของฉัน:">
-<!ENTITY  overridePageColors.accesskey    "ข">
 
-<!ENTITY  overridePageColors.always.label "เสมอ">
-<!ENTITY  overridePageColors.auto.label   "ชุดตกแต่ง High Contrast เท่านั้น">
-<!ENTITY  overridePageColors.never.label  "ไม่เลย">
 
 <!ENTITY  color                           "ตัวอักษรและพื้นหลัง">
 <!ENTITY  textColor.label                 "ตัวอักษร:">

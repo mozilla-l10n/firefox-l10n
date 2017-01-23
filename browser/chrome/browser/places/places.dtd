@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "เลือกไฟล์…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "คั่นหน้านี้…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "ลบหน้านี้">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ลืมเกี่ยวกับไซต์นี้">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

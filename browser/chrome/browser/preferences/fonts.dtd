@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "มีเชิง">
 <!ENTITY  useDefaultFontSansSerif.label           "ไม่มีเชิง">
 
-<!ENTITY  allowPagesToUse.label                   "อนุญาตให้เอกสารใช้แบบอักษรของตัวเองได้ แทนที่จะใช้ตามที่เลือกไว้ด้านบน">
-<!ENTITY  allowPagesToUse.accesskey               "อ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาเก่า">
 <!ENTITY languages.customize.Fallback2.label      "รหัสอักขระตัวทางเลือก:">
