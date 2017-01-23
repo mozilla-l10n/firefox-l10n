@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Lapelas">
 <!ENTITY engine.tabs.accesskey      "s">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
