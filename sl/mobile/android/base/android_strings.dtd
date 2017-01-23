@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Že med zaznamki">
 <!ENTITY overlay_share_send_other "Pošlji na druge naprave">
 
+<!ENTITY overlay_share_open_browser_btn_label "Odpri v &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Prikaži zgodovino iskanj">
 <!ENTITY pref_import_options "Uvozi možnosti">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
+<!ENTITY pref_private_data_openTabs "Odpri zavihke">
 <!ENTITY pref_private_data_history2 "Zgodovina brskanja">
 <!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
 <!ENTITY pref_private_data_formdata2 "Zgodovina obrazcev">
@@ -538,6 +540,7 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Strni zavihke">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -704,6 +707,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tapnite za uveljavitev posodobitve, ko se prenese">
 <!ENTITY updater_downloading_retry2 "Tapnite za ponovni poskus">
 
+<!ENTITY updater_apply_title3 "Prenesena posodobitev za &brandShortName;">
+<!ENTITY updater_apply_select3 "Tapnite za namestitev">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
