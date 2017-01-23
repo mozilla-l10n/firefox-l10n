@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti &brandShortName; pa que nun recuerde l'historial.">
 
-<!ENTITY redirectWindowsSearch.label "Usar esti motor de gueta pa les busques dende Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Motores de gueta nun clic">
 
 <!ENTITY chooseWhichOneToDisplay.label         "La barra de gueta déxate guetar direutamente en guetadores alternativos. Escueyi cuálos amosar.">

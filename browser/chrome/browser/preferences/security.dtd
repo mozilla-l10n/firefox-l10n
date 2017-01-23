@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "Xeneral">
 
-<!ENTITY  warnAddonInstall.label        "Alvertime cuando los sitios tenten d'instalar add-ons">
-<!ENTITY  warnAddonInstall.accesskey    "v">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +15,6 @@
 <!ENTITY  blockDownloads.label            "Bloquiar descargues peligroses">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "Alvertime tocante a software indeseable y non común">
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Esceiciones…">
 <!ENTITY  addonExceptions.accesskey     "E">
