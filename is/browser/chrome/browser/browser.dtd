@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY openFrameCmd.label           "Opna ramma í nýjum glugga">
 <!ENTITY openFrameCmd.accesskey       "g">
-<!ENTITY openLinkCmdInContainerTab.label "Opna tengil í nýjum innihaldsflipa">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Sýna einungis þennan ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Opna">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
 <!ENTITY syncedTabs.context.copy.label                       "Afrita">
 <!ENTITY syncedTabs.context.copy.accesskey                   "A">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

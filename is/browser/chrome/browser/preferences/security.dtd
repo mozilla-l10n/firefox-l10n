@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Almennt">
 
-<!ENTITY  warnAddonInstall.label        "Vara við þegar vefsvæði reynir að setja inn viðbætur">
-<!ENTITY  warnAddonInstall.accesskey    "V">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Loka á hættuleg niðurhöl">
 <!ENTITY  blockDownloads.accesskey        "ö">
 
-<!ENTITY  blockUncommonUnwanted.label     "Vara mig við óvelkomnum og óþekktum hugbúnaði">
-<!ENTITY  blockUncommonUnwanted.accesskey "þ">
+
 
 <!ENTITY  addonExceptions.label         "Undanþágur…">
 <!ENTITY  addonExceptions.accesskey     "U">

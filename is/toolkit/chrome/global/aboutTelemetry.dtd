@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hangandi þræðir">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Kvarðar">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Súlurit">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Lyklaðar mælingar">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Einfaldar mælingar">
 

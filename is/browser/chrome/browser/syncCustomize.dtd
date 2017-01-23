@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Ferill">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Flipar">
-<!ENTITY engine.tabs.accesskey            "F">
+
+
 <!ENTITY engine.passwords.label           "Lykilorð">
 <!ENTITY engine.passwords.accesskey       "ð">
 <!ENTITY engine.addons.label              "Viðbætur við skjáborð">
