@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "F">
 <!ENTITY engine.history.label             "Histórico">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Abas">
 <!ENTITY engine.tabs.accesskey            "A">
 <!ENTITY engine.passwords.label           "Senhas">
 <!ENTITY engine.passwords.accesskey       "S">
