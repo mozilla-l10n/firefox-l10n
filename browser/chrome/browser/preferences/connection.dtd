@@ -10,8 +10,8 @@
 <!ENTITY  proxyTitle.label              "Stel instaanbedieners op vir internettoegang">
 <!ENTITY  noProxyTypeRadio.label        "Geen instaanbediener">
 <!ENTITY  noProxyTypeRadio.accesskey    "G">
-<!ENTITY  systemTypeRadio.label         "Gebruik stelselinstaaninstellings">
-<!ENTITY  systemTypeRadio.accesskey     "G">
+<!ENTITY  systemTypeRadio.label         "Gebruik stelsel se instaaninstellings">
+<!ENTITY  systemTypeRadio.accesskey     "r">
 <!ENTITY  WPADTypeRadio.label           "Outospeur instaanopstelling vir hierdie netwerk">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Handmatige opstelling van instaanbediener:">

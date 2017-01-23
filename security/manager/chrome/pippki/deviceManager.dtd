@@ -13,8 +13,8 @@
 
 <!ENTITY devmgr.button.login.label              "Meld aan">
 <!ENTITY devmgr.button.login.accesskey          "a">
-<!ENTITY devmgr.button.logout.label             "Afmeld">
-<!ENTITY devmgr.button.logout.accesskey         "m">
+<!ENTITY devmgr.button.logout.label             "Meld af">
+<!ENTITY devmgr.button.logout.accesskey         "M">
 <!ENTITY devmgr.button.changepw.label           "Verander wagwoord">
 <!ENTITY devmgr.button.changepw.accesskey       "w">
 <!ENTITY devmgr.button.load.label               "Laai">
