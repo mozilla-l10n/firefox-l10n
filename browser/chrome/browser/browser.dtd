@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "புதிய உள்ளடக்க கீற்றில் தொடுப்பைத் திற">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "திற">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "நகலெடு">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">

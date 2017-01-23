@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "எப்போதும் நிலைக்காட்டி விசைகளை பயன்படுத்தி பக்கங்களிடையே செல்">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "நான் தட்டச்சு செய்யும்போது உரையை தேடவும்">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "இணைய தளங்கள் பக்கங்களை ஏற்றும் போது அல்லது வேறு பக்கத்திற்கு செல்லும் போது என்னை எச்சரி">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "தேவைப்படும் பொருட்டு தொடு விசைப்பலகையைக் காட்டு">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "நான் தட்டச்சு செய்தவாறு பிழை சரிபார்க்கவும்">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "தேக்கப்பட்ட வலை உள்ளடக்கம்">
 
 <!ENTITY offlineStorage2.label           "ஆஃப்லைன் வலை உள்ளடக்கம் மற்றும் பயனர் தரவு">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
-<!ENTITY updateApp.label                 "&brandShortName; மேம்படுத்தல்கள்:">
 <!ENTITY updateAuto1.label               "புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரைக்கப்படுவது: பாதுகாப்பை மேம்படுத்தும்) ">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் பார், ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "புதுப்பித்தல்கள் உள்ளதா என்று ஒரு போதும் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பு அபாயம்)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "தானாக புதுப்பி:">
 <!ENTITY enableSearchUpdate.label        "தேடு பொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "ஒரு இணைய தளம் இணைப்பில்லாமல் தரவை சேமித்து பயன்படுத்தி கேட்டால் என்னிடம் சொல்">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "விதிவிலக்குகள்…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "பின்வரும் இணைய தளங்கள் இணைப்பில்லாத பயனுக்கு தரவை சேமிக்க அனுமதிக்கப்படுபவை:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -104,12 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லாத தரவை நீக்கு">
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
-<!ENTITY certSelection.label             "கோரிக்கைகள்">
-<!ENTITY certSelection.description       "ஒரு சேவையகம் என் தனிப்பட்ட சான்றிதழைக் கேட்டால்:">
-<!ENTITY certs.auto                      "தானாக ஒன்றைத் தேர்ந்தெடு">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "ஒவ்வொரு நேரமும் என்னை கேள்">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "கோரிக்கைகள்">
+
+<!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
+
+
+
 <!ENTITY enableOCSP.label                "Qசான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "சான்றிதழ்களை பார்">

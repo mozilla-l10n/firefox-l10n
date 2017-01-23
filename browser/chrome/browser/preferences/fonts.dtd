@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "கெமெர்">
 <!ENTITY  font.langGroup.malayalam                "மலையாளம்">
 <!ENTITY  font.langGroup.math                     "கணிதம்">
-
+<!ENTITY  font.langGroup.odia                     "ஒடியா">
 <!ENTITY  font.langGroup.telugu                   "தெலுங்கு">
 <!ENTITY  font.langGroup.kannada                  "கன்னடம்">
 <!ENTITY  font.langGroup.sinhala                  "சிங்களம்">
@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "ஷெரிஃப்">
 <!ENTITY  useDefaultFontSansSerif.label           "ஸான்ஸ் ஷெரிஃப்">
 
-<!ENTITY  allowPagesToUse.label                   "என் தேர்வுகளுக்குப் பதிலாக பக்கங்கள் அதன் சொந்த எழுத்துருக்களை தேர்வு செய்ய அனுமதிக்கவும்">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.label      "பின்சார்பு உரை குறிமுறை:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">

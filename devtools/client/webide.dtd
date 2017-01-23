@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "துண்டி">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "அனுமதி அட்டவணை">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "திரைப்பிடிப்பு">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "இயக்க நேரம் தகவல்">
@@ -139,10 +137,6 @@
 <!ENTITY prefs_options_keybindings "விசைப்பிணைப்புகள்">
 <!ENTITY prefs_options_keybindings_default "முன்னிருப்பு">
 
-
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "அனுமதி அட்டவணை">
 
 <!-- Runtime Details -->
 

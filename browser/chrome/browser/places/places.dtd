@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "கோப்பினை தேர்ந்தெடு…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "இந்த பக்கத்தை அழி">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "இந்த தளத்தை மறக்கவும்">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

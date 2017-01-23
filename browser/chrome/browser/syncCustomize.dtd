@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "வரலாறு">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "கீற்றுகள்">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "கடவுச்சொற்கள்">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "பணிமேடைக்கான நீட்சிகள்">
