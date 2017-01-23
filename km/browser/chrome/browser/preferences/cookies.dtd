@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "ស្វែងរក ៖">
-<!ENTITY     filter.accesskey               "ក">
 
 <!ENTITY     button.close.label             "បិទ">
 <!ENTITY     button.close.accesskey         "ទ">

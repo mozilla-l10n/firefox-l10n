@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "ប្រើ​គ្រាប់​ចុច​ទស្សន៍​ទ្រនិច​ជានិច្ច​ដើម្បី​រុករក​ក្នុង​ទំព័រ">
 <!ENTITY useCursorNavigation.accesskey   "ច">
-<!ENTITY searchStartTyping.label         "រក​អត្ថបទ​ពេល​ខ្ញុំ​ចាប់ផ្ដើម​វាយ">
-<!ENTITY searchStartTyping.accesskey     "អ">
-<!ENTITY blockAutoRefresh.label          "ព្រមាន​ខ្ញុំ នៅ​ពេល​ដែល​​តំបន់បណ្ដាញ​ព្យាយាម​ប្ដូរ​ទិស ឬ​ផ្ទុក​ទំព័រ​ឡើងវិញ">
-<!ENTITY blockAutoRefresh.accesskey      "ន">
 <!ENTITY useOnScreenKeyboard.label       "បង្ហាញ​ក្ដារចុច​ប៉ះ​នៅ​ពេល​ចាំបាច់">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "រ">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
-<!ENTITY checkSpelling.label             "ពិនិត្យ​អក្ខរាវិរុទ្ធ​របស់​ខ្ញុំ ​ពេល​ខ្ញុំ​វាយ">
-<!ENTITY checkSpelling.accesskey         "ប">
 
 <!ENTITY dataChoicesTab.label            "ជម្រើស​ទិន្នន័យ">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "មាតិកា​បណ្ដាញ និង​ទិន្នន័យ​អ្នកប្រើ​ក្រៅ​បណ្ដាញ">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "ធ្វើ​បច្ចុប្បន្នភាព">
 
-<!ENTITY updateApp.label                 "បច្ចុប្បន្នភាព​របស់ &brandShortName; ៖">
 <!ENTITY updateAuto1.label               "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ផ្ដល់​អនុសាសន៍ ៖ សុវត្ថិភាព​កាន់តែប្រសើរ)">
 <!ENTITY updateAuto1.accesskey           "ដ">
-<!ENTITY updateCheck.label               "រកមើល​បច្ចុប្បន្នភាព ប៉ុន្តែ​អនុញ្ញាត​ឲ្យ​ខ្ញុំ​ជ្រើស​ថា​តើ​ត្រូវ​ដំឡើង​ពួកវា​ដែរ​ឬ​ទេ">
-<!ENTITY updateCheck.accesskey           "រ">
 <!ENTITY updateManual.label              "កុំ​រកមើល​បច្ចុប្បន្នភាព (មិន​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍ ៖ ហានិភ័យ​សុវត្ថិភាព)">
 <!ENTITY updateManual.accesskey          "ក">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
 <!ENTITY useService.accesskey            "ប">
 
-<!ENTITY updateOthers.label              "ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ ៖">
 <!ENTITY enableSearchUpdate.label        "ម៉ាស៊ីន​ស្វែងរក">
 <!ENTITY enableSearchUpdate.accesskey    "ន">
 
-<!ENTITY offlineNotify.label             "ប្រាប់​ខ្ញុំ នៅ​ពេល​ដែល​តំបន់បណ្ដាញ​ស្នើ​ឲ្យ​រក្សាទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើប្រាស់​ក្រៅ​បណ្ដាញ​">
-<!ENTITY offlineNotify.accesskey         "ល">
-<!ENTITY offlineNotifyExceptions.label   "ករណី​លើកលែង…">
-<!ENTITY offlineNotifyExceptions.accesskey "ង">
 
 <!ENTITY offlineAppsList2.label          "តំបន់​បណ្ដាញ​ដូច​ខាងក្រោម​នេះ ត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើ​ក្រៅ​បណ្ដាញ ៖">
 <!ENTITY offlineAppsList.height          "10em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "យក​ទិន្នន័យ​ក្រៅ​បណ្ដាញ​ចេញ">
 
 <!ENTITY certificateTab.label            "វិញ្ញាបនបត្រ">
-<!ENTITY certSelection.label             "សំណើ">
-<!ENTITY certSelection.description       "នៅ​ពេល​ម៉ាស៊ីន​បម្រើ​ស្នើ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​ខ្ញុំ ៖">
-<!ENTITY certs.auto                      "ជ្រើស​មួយ​ដោយ​ស្វ័យ​ប្រវត្តិ">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "សួរ​ខ្ញុំ​រាល់ពេល">
-<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "មើល​វិញ្ញាបនបត្រ">

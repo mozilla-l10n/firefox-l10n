@@ -115,9 +115,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ប្រើប្រាស់​បច្ចេកវិទ្យា​ដែល​ហួស​សម័យ​ និង​ងាយ​រង​គ្រោះ​ពី​ការ​វាយ​ប្រហារ​នានា។ អ្នក​វាយ​ប្រហារ​អាច​ធ្វើ​ឲ្យ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាពហើយ លេច​ចេញ​មក​បាន​យ៉ាង​ងាយ។">
 <!ENTITY weakCryptoAdvanced.override "(អសុវត្ថិភាព) ព្យាយាម​ផ្ទុក <span class='hostname'></span> ដោយ​ប្រើ​ប្រព័ន្ធ​សុវត្ថិភាព​ដែល​ហួស​សម័យ">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>​មិន​អាច​បង្កើត​ការ​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ទៅ <span id='wrongSystemTime_URL'/> បាន​ទេ ពីព្រោះ​នាឡិកា​របស់​អ្នក​បង្ហាញ​ម៉ោង​ខុស។</p> <p>កុំព្យូទ័រ​របស់​អ្នក​គិត​ថា​វា​គឺជា <span id='wrongSystemTime_systemDate'/>, ខណៈ​ដែល​វា​គួរតែ <span id='wrongSystemTime_actualDate'/>។ អ្នក​អាច​ដោះស្រាយ​បញ្ហា​នេះ​បាន ដោយ​ប្ដូរ​ការ​កំណត់​កាលបរិច្ឆេទ​និង​ម៉ោង​ឲ្យ​បាន​ត្រឹមត្រូវ​ឡើងវិញ។</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "ការ​តភ្ជាប់​ដែល​មិន​មាន​សុវត្ថិភាព​">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "វេបសាយ​នេះ​ប្រើ HTTP Strict Transport Security (HSTS) ដើម្បី​បញ្ជាក់​ថា &brandShortName; អាច​ភ្ជាប់​វា​បាន​តែតាម​វិធី​ដែល​មាន​សុវត្ថិភាព​ប៉ុណ្ណោះ។ ជា​លទ្ធផល វា​មិនអាច​បន្ថែម​ការ​លើកលែង​បាន​សម្រាប់​វិញ្ញាបនបត្រ​នេះ​ទេ។">
