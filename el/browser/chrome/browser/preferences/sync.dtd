@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "Συγχρονισμός των εξής δεδομένων:">
 <!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
 <!ENTITY engine.bookmarks.accesskey "δ">
-<!ENTITY engine.tabs.label          "Καρτέλες">
 <!ENTITY engine.tabs.accesskey      "τ">
 <!ENTITY engine.history.label       "Ιστορικό">
 <!ENTITY engine.history.accesskey   "ρ">
