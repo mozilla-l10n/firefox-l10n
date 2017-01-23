@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Поверителното сърфиране ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не ви прави анонимни">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Мрежата. Имайте предвид, че въпреки това вашият работодател или доставчик на Интернет биха могли да проследят кои страници посещавате.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Научете повече">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Поверително сърфиране">
 
 <!ENTITY trackingProtection.title                        "Защита от проследяване">
 <!ENTITY trackingProtection.description2                 "Някои сайтове наблюдават вашето поведение в Интернет. С помощта на защитата от проследяване Firefox блокира голяма част от тази способност на страниците да събират информация за вашето поведение.">
