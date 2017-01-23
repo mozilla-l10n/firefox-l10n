@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Meklēšanas ieteikumi netiks parādīti adreses joslā, jo &brandShortName; ir nokonfigurēts neatcerēties vēsturi.">
 
-<!ENTITY redirectWindowsSearch.label "Izmantot šo meklētāju, lai meklētu no Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Viena klikšķa meklētāji">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Meklēšanas joslā var būt vairāki meklētāji. Izvēlieties, kurus attēlot šajā joslā.">

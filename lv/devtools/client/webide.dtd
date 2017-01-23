@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "I">
 <!ENTITY runtimeMenu_disconnect_label "Atvienoties">
 <!ENTITY runtimeMenu_disconnect_accesskey "A">
-<!ENTITY runtimeMenu_showPermissionTable_label "Atļauju tabula">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "t">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrānattēls">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Izpildlaika informācija">
@@ -58,9 +56,9 @@
 
 <!ENTITY projectButton_label "Atvērt lietotni">
 <!ENTITY runtimeButton_label "Izvēlieties izpildlaiku">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -87,8 +85,8 @@
 <!ENTITY runtimePanel_noadbhelper "Instalēt ADB palīgu">
 <!ENTITY runtimePanel_nousbdevice "Neredzat savas ierīces?">
 <!ENTITY runtimePanel_refreshDevices_label "Atsvaidzināt ierīces">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "derīgs">
 <!ENTITY details_warning_header "brīdinājumi">
 <!ENTITY details_error_header "kļūdas">
@@ -97,23 +95,23 @@
 <!ENTITY details_manifestURL "Lietotnes ID">
 <!ENTITY details_removeProject_button "Aizvākt projektu">
 <!ENTITY details_showPrepackageLog_button "Rādīt pakošanas ziņojumus">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Jauna lietotne">
 <!ENTITY newAppHeader "Izvēlieties šablonu">
 <!ENTITY newAppLoadingTemplate "Ielādē šablonus…">
 <!ENTITY newAppProjectName "Projekta nosaukums:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Aizvēŗt">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Papildu komponenti">
 <!ENTITY addons_aboutaddons "Atvērt papildinājumu pārvaldnieku">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Iestatījumi">
 <!ENTITY prefs_editor_title "Redaltprs">
 <!ENTITY prefs_general_title "Vispārējie">
@@ -140,12 +138,8 @@
 <!ENTITY prefs_options_keybindings_default "Noklusētie">
 <!ENTITY prefs_options_autosavefiles "Automātiskās saglabāšanas faili">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automātiski saglabā rediģējamos failus pirms projekta palaišanas">
-<!-- Permissions Table -->
 
-<!ENTITY permissionstable_title "Atļauju tabula">
-<!ENTITY permissionstable_name_header "Nosaukums">
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "Izpldlaika informācija">
 <!ENTITY runtimedetails_adbIsRoot "ADB ir root: ">
 <!ENTITY runtimedetails_summonADBRoot "root ierīce">
@@ -153,36 +147,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Neierobežotas DevTools privilēģijas: ">
 <!ENTITY runtimedetails_requestPrivileges "nepieciešamas plašākas privilēģijas">
 <!ENTITY runtimedetails_privilegesWarning "(Ierīce tiks pārstartēta. Nepieciešama root pieeja.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Būla">
 <!ENTITY device_typenumber "Skaitlis">
 <!ENTITY device_typestring "Teksts">
 <!ENTITY device_typeobject "Objekts">
 <!ENTITY device_typenone "Izvēlieties tipu">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Ierīces iestatījumi">
 <!ENTITY devicepreference_search "Meklēšanas iestatījumi">
 <!ENTITY devicepreference_newname "Jauns iestatījuma nosaukums">
 <!ENTITY devicepreference_newtext "Iestatījuma vērtība">
 <!ENTITY devicepreference_addnew "Pievienot jaunu iestatījumu">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Ierīces iestatījumi">
 <!ENTITY devicesetting_search "Meklējamā frāze">
 <!ENTITY devicesetting_newname "Jaunā iestatījuma nosaukums">
 <!ENTITY devicesetting_newtext "Iestatījuma vērtība">
 <!ENTITY devicesetting_addnew "Pievienot iestatījumu">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Pārraugs">
 <!ENTITY monitor_help "Palīdzība">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Klienta identifikācija">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -197,11 +191,11 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ja jūsu otra ierīce prasa drošības kodu nevis piedāvā izmantot QR koda lasītāju, iekopējiet šo:">
 <!ENTITY wifi_auth_qr_size_note "Ja QR kods ir pārāk mazs, lai veiksmīgi izveidotu savienojumu, pamēģiniet pietuvināt vai palielināt loga izmēru.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Pakošanas komandu žurnāls">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Simulatora iestatījumi">
 <!ENTITY simulator_remove "Dzēst simulatoru">
 <!ENTITY simulator_reset "Atjaunot sākotnējos">

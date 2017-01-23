@@ -25,7 +25,6 @@
 <!ENTITY syncMy.label               "Ko sinhronizēt">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Cilnes">
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Vēsturi">
 <!ENTITY engine.history.accesskey   "r">

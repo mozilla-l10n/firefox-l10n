@@ -113,9 +113,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> izmanto drošības tehnoloģiju, kas ir novecojusi un pakļauj jūs uzbrukuma riskam. Uzbrucēji var viegli iegūt informāciju, kuru uzskatījāt par drošu.">
 <!ENTITY weakCryptoAdvanced.override "(Nav drošs) Mēģiniet ielādēt <span class='hostname'></span> izmantojot novecojušu drosību">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Drošs savienojums ar <span id='wrongSystemTime_URL'/> nav iespējams, jo izskatās, ka  jūsu pulkstenis rāda nepareizu laiku.</p> <p>Jūsu dators uzskata, ka ir <span id='wrongSystemTime_systemDate'/>, taču jābūt <span id='wrongSystemTime_actualDate'/>. Lai izlabotu šo kļūdu samainiet datuma un laika iestatījumus datorā.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Nedrošs savienojums">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Šī lapa izmanto HTTP Strict Transport Security (HSTS), lai norādītu, ka &brandShortName; pieslēdzas tai tikai drošā režīmā. Šī iemesla dēļ, nav iespējams pievienot sertifikāta izņēmumu šai lapai.">
