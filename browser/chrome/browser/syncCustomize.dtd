@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "M">
 <!ENTITY engine.history.label             "Historial">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Pestanyas">
-<!ENTITY engine.tabs.accesskey            "P">
+
+
 <!ENTITY engine.passwords.label           "Claus">
 <!ENTITY engine.passwords.accesskey       "C">
 <!ENTITY engine.addons.label              "Complementos d'escritorio">

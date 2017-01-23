@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "49em">
 
-<!ENTITY  overridePageColors.label        "Sobreescribir as colors especificadas por a pachina con as mías seleccions d'alto:">
-<!ENTITY  overridePageColors.accesskey    "o">
 
-<!ENTITY  overridePageColors.always.label "Siempre">
-<!ENTITY  overridePageColors.auto.label   "Nomás con temas d'alto contraste">
-<!ENTITY  overridePageColors.never.label  "Nunca">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Siempre">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Nomás con temas d'alto contraste">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fundo">
 <!ENTITY  textColor.label                 "Texto:">

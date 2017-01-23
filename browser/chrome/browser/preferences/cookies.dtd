@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Mirar:">
-<!ENTITY     filter.accesskey               "M">
+
 
 <!ENTITY     button.close.label             "Zarrar">
 <!ENTITY     button.close.accesskey         "Z">

@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Quan s'enchegue o &brandShortName;:">
 <!ENTITY startupPage.accesskey     "e">
-<!ENTITY startupHomePage.label     "Amostrar a mía pachina d'inicio">
+
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
-<!ENTITY startupLastSession.label  "Amostrar as mías finestras y pestanyas d'a zaguer vegada">
+
 
 <!ENTITY homepage.label            "Pachina d'inicio:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Trigar…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Preguntar-me siempre a ón alzar os fichers">
-<!ENTITY alwaysAsk.accesskey "r">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Comprebar siempre si lo &brandShortName; ye o suyo navegador por defecto">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">

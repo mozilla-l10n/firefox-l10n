@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Cheneral">
 
-<!ENTITY  warnAddonInstall.label        "Alvertir quan bell puesto web mirará d'instalar complementos">
-<!ENTITY  warnAddonInstall.accesskey    "v">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Blocar las descargas periglosas">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "Alvertir-me sobre software no deseyau y poco común">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
+
 
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">
