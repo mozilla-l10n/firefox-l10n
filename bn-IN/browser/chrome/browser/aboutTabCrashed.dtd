@@ -26,4 +26,3 @@
 <!ENTITY tabCrashed.emailPlaceholder "ই-মেইল ঠিকানা এইখানে লিখুন">
 <!ENTITY tabCrashed.emailMe "আরো সংবাদ উপলব্ধ হলে আমাকে ইমেল করুন">
 <!ENTITY tabCrashed.reportSent "ক্র্যাশ রিপোর্ট ইতিমধ্যে জমা হয়ে গেছে; ধন্যবাদ &brandShortName; বানাতে সাহায্য করবার জন্য এবং আরও ভালো করবার জন্য!">
-<!ENTITY tabCrashed.autoSubmit "পছন্দসমূহ আপডেট করুন স্বয়ংক্রিয়ভাবে ব্যাকলগড ক্র্যাশ রিপোর্ট জমা করার জন্য (এবং এরম ম্যাসেজ আমাদের থেকে কম পান ভবিষ্যতে)">

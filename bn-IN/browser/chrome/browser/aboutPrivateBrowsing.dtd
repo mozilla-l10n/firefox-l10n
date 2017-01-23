@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "ব্যক্তিগত ব্রাউজিং">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "আপনাকে অজানা করবে না">
 <!ENTITY aboutPrivateBrowsing.note.after                 "আপনার নিয়োগকর্তা বা ইন্টারনেট পরিষেবা প্রদানকারী এখনও আপনার পরিদর্শন করা পৃষ্ঠা ট্র্যাক করতে পারেন দয়া করে নোট করুন |">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "সম্বন্ধে আরও জানুন">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "ব্যক্তিগত ব্রাউজিং">
 
 <!ENTITY trackingProtection.title                        "ট্র্যাকিং সুরক্ষা">
 <!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাকার ব্যবহার করে যা ইন্টারনেটে আপনার কার্যকলাপ দেখতে পারে। ট্র্যাকিং সুরক্ষার সাথে Firefox অনেক ট্র্যাকারকে ব্লক করবে যা আপনার ব্রাউজিং কার্যকলাপ সম্পর্কে তথ্য সংগ্রহ করবে।">
