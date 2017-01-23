@@ -5,71 +5,68 @@
 <!-- extracted from content/pref-fonts.xul -->
 
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-<!ENTITY  pref.fonts.title "Polices de caractères">
+<!ENTITY  pref.fonts.title                        "Polices de caractères">
 
-<!ENTITY  language.label "Polices pour :">
-<!ENTITY  language.accesskey "o">
+<!ENTITY  language.label                          "Polices pour :">
+<!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  typefaces.label "Apparence">
-<!ENTITY  sizes.label "Taille (pixels)">
+<!ENTITY  typefaces.label                         "Apparence">
+<!ENTITY  sizes.label                             "Taille (pixels)">
 
-<!ENTITY  proportional.label "Proportionnelle :">
-<!ENTITY  proportional.accesskey "P">
+<!ENTITY  proportional.label                      "Proportionnelle :">
+<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label "Serif :">
-<!ENTITY  serif.accesskey "f">
-<!ENTITY  sans-serif.label "Sans serif :">
-<!ENTITY  sans-serif.accesskey "s">
-<!ENTITY  monospace.label "Largeur fixe :">
-<!ENTITY  monospace.accesskey "L">
+<!ENTITY  serif.label                             "Serif :">
+<!ENTITY  serif.accesskey                         "f">
+<!ENTITY  sans-serif.label                        "Sans serif :">
+<!ENTITY  sans-serif.accesskey                    "s">
+<!ENTITY  monospace.label                         "Largeur fixe :">
+<!ENTITY  monospace.accesskey                     "L">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY  fantasy.label "Fantaisie :">
-<!ENTITY  fantasy.accesskey "t">
-<!ENTITY  cursive.label "Cursive :">
-<!ENTITY  cursive.accesskey "C">
+<!ENTITY  fantasy.label                           "Fantaisie :">
+<!ENTITY  fantasy.accesskey                       "t">
+<!ENTITY  cursive.label                           "Cursive :">
+<!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1 "Occidental">
-<!ENTITY  font.langGroup.latin2 "Europe centrale">
-<!ENTITY  font.langGroup.japanese "Japonais">
-<!ENTITY  font.langGroup.trad-chinese "Chinois traditionnel (Taïwan)">
-<!ENTITY  font.langGroup.simpl-chinese "Chinois simplifié">
-<!ENTITY  font.langGroup.trad-chinese-hk "Chinois Traditionnel (Hong-Kong)">
-<!ENTITY  font.langGroup.korean "Coréen">
-<!ENTITY  font.langGroup.cyrillic "Cyrillique">
-<!ENTITY  font.langGroup.baltic "Balte">
-<!ENTITY  font.langGroup.el "Grec">
-<!ENTITY  font.langGroup.turkish "Turc">
-<!ENTITY  font.langGroup.unicode1 "Unicode">
-<!ENTITY  font.langGroup.user-def "Défini par l’utilisateur">
-<!ENTITY  font.langGroup.thai "Thaï">
-<!ENTITY  font.langGroup.hebrew "Hébreu">
-<!ENTITY  font.langGroup.arabic "Arabe">
-<!ENTITY  font.langGroup.devanagari "Devanagari">
-<!ENTITY  font.langGroup.tamil "Tamoul">
-<!ENTITY  font.langGroup.armenian "Arménien">
-<!ENTITY  font.langGroup.bengali "Bengali">
-<!ENTITY  font.langGroup.canadian "Syllabaire canadien unifié">
-<!ENTITY  font.langGroup.ethiopic "Éthiopien">
-<!ENTITY  font.langGroup.georgian "Géorgien">
-<!ENTITY  font.langGroup.gujarati "Goudjarati">
-<!ENTITY  font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY  font.langGroup.khmer "Khmer">
-<!ENTITY  font.langGroup.malayalam "Malayalam">
-<!ENTITY  font.langGroup.math "Mathématiques">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
+<!ENTITY  font.langGroup.japanese                 "Japonais">
+<!ENTITY  font.langGroup.trad-chinese             "Chinois traditionnel (Taïwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinois simplifié">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinois Traditionnel (Hong-Kong)">
+<!ENTITY  font.langGroup.korean                   "Coréen">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillique">
+<!ENTITY  font.langGroup.el                       "Grec">
+<!ENTITY  font.langGroup.thai                     "Thaï">
+<!ENTITY  font.langGroup.hebrew                   "Hébreu">
+<!ENTITY  font.langGroup.arabic                   "Arabe">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamoul">
+<!ENTITY  font.langGroup.armenian                 "Arménien">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Syllabaire canadien unifié">
+<!ENTITY  font.langGroup.ethiopic                 "Éthiopien">
+<!ENTITY  font.langGroup.georgian                 "Géorgien">
+<!ENTITY  font.langGroup.gujarati                 "Goudjarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Mathématiques">
 <!-- Minimum font size -->
-<!ENTITY minSize.label "Taille minimale de la police :">
-<!ENTITY minSize.accesskey "m">
-<!ENTITY minSize.none "Aucune">
+<!ENTITY minSize.label                            "Taille minimale de la police :">
+<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.none                             "Aucune">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label "Serif">
-<!ENTITY  useDefaultFontSansSerif.label "Sans serif">
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
-<!ENTITY  useDocumentFonts.label "Autoriser les pages web à utiliser d’autres polices">
-<!ENTITY  useDocumentFonts.accesskey "u">
+<!ENTITY  useDocumentFonts.label                  "Autoriser les pages web à utiliser d’autres polices">
+<!ENTITY  useDocumentFonts.accesskey              "u">
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2 "Quand une page web choisit ses propres polices de caractères">
-<!ENTITY  useDefaultFont.label "Utiliser mes polices par défaut, et ignorer celles que propose la page web.">
-<!ENTITY  useDefaultFont.accesskey "u">
+<!ENTITY  header2                                 "Quand une page web choisit ses propres polices de caractères">
+<!ENTITY  useDefaultFont.label                    "Utiliser mes polices par défaut, et ignorer celles que propose la page web.">
+<!ENTITY  useDefaultFont.accesskey                "u">
