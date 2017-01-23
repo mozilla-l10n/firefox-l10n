@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Pśecej kursorowe tasty za pógibowanje na bokach wužywaś">
 <!ENTITY useCursorNavigation.accesskey   "k">
-<!ENTITY searchStartTyping.label         "Pśi pisanju tekst pytaś">
-<!ENTITY searchStartTyping.accesskey     "P">
-<!ENTITY blockAutoRefresh.label          "Warnowaś, gaž websedła wopytuju bok dalej pósrědniś abo znowego zacytaś">
-<!ENTITY blockAutoRefresh.accesskey      "W">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Dotykańsku tastaturu pokazaś, jolic trěbne">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
-<!ENTITY checkSpelling.label             "Pśi pisanju pšawopis kontrolěrowaś">
-<!ENTITY checkSpelling.accesskey         "P">
+
+
 
 <!ENTITY dataChoicesTab.label            "Datowy wuběrk">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Pufrowane webwopśimjeśe">
 
 <!ENTITY offlineStorage2.label           "Webwopśimjeśe a wužywarske daty offline">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Aktualizěrowaś">
 
-<!ENTITY updateApp.label                 "Aktualizacije &brandShortName;:">
 <!ENTITY updateAuto1.label               "Aktualizacije awtomatiski instalěrowaś (pśiraźijo se: pólěpšona wěstota)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Za aktualizacijami pytaś, ale do togo se pšašaś, lěc maju se instalěrowaś">
-<!ENTITY updateCheck.accesskey           "Z">
+
+
 <!ENTITY updateManual.label              "Nigda za aktualizacijami njepytaś (njedopórucone: wěstotne riziko)">
 <!ENTITY updateManual.accesskey          "e">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
 <!ENTITY useService.accesskey            "S">
 
-<!ENTITY updateOthers.label              "Awtomatiski aktualizěrowaś:">
 <!ENTITY enableSearchUpdate.label        "Pytnice">
 <!ENTITY enableSearchUpdate.accesskey    "P">
 
-<!ENTITY offlineNotify.label             "Informěrowaś, gaž websedło co daty za wužywanje offline składowaś">
-<!ENTITY offlineNotify.accesskey         "I">
-<!ENTITY offlineNotifyExceptions.label   "Wuwześa…">
-<!ENTITY offlineNotifyExceptions.accesskey "u">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Wuwześa…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "u">
 
 <!ENTITY offlineAppsList2.label          "Slědujuce websedła směju daty za wužywanje offline składowaś:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Daty offline wótpóraś">
 
 <!ENTITY certificateTab.label            "Certifikaty">
-<!ENTITY certSelection.label             "Napšašowanja">
-<!ENTITY certSelection.description       "Gaž serwer pomina wósobinski certifikat:">
-<!ENTITY certs.auto                      "Awtomatiski wubraś">
-<!ENTITY certs.auto.accesskey            "A">
-<!ENTITY certs.ask                       "Kuždy raz se pšašaś">
-<!ENTITY certs.ask.accesskey             "K">
+<!ENTITY certPersonal.label              "Napšašowanja">
+
+<!ENTITY selectCerts.auto                "Awtomatiski wubraś">
+
+
+
 <!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło">
 <!ENTITY enableOCSP.accesskey            "P">
 <!ENTITY viewCerts.label                 "Certifikaty pokazaś">

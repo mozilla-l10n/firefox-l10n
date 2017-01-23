@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Priwatny modus">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "njecyni was anonymny">
 <!ENTITY aboutPrivateBrowsing.note.after                 " w interneśe. Waš źěłodawar abo internetny póbitowaŕ móžo hyšći wěźeś, ku kótaremuž bokoju se woglědujośo.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Zgóńśo wěcej wó">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Priwatny modus">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Slědowański šćit">
 <!ENTITY trackingProtection.description2                 "Někotare websedła wužywaju slědujuce programy, kótarež dolěduju wašu aktiwitu w interneśe. Ze slědowańskim šćitom Firefox buźo wjele slědowańskich programow blokěrowaś, kótarež mógu daty wó wašom pśeglědowańskem zaźaržanju nagromaźiś.">

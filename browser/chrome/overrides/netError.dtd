@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Hopla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok někakeje pśicyny dla cytaś.</p>">
 
-<!ENTITY captivePortal.title "Se pla seśi pśizjawiś">
-<!ENTITY captivePortal.longDesc "<p>Toś ta seś pomina se snaź, až musyśo se za pśistup na internet pśizjawiś.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Bok za pśizjawjenje wócyniś">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Rozšyrjone">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a napadojta na napady. Napadowaŕ by mógał lažko daty wótkšyś, kótarež su za wěste měli.">
 <!ENTITY weakCryptoAdvanced.override "(Njewěsty) Zestarjonu wěstotu wužywaś, aby <span class='hostname'></span> zacytował">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> njejo móžny, dokulaž waš zeger pó zdaśu pokazujo wopacny cas.</p> <p>Wašo licadło mysli, až jo <span id='wrongSystemTime_systemDate'/>, lěcrownož <span id='wrongSystemTime_actualDate'/> było. Aby toś ten problem rozwězał, změńśo swoje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno, wuwześe za toś ten certifikat pśidaś.">

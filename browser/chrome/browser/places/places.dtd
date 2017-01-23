@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Dataju wubraś…">
 <!ENTITY cmd.restoreFromFile.accesskey  "D">
 
-<!ENTITY cmd.bookmarkLink.label         "Toś ten bok ako cytańske znamje składowaś…">
-<!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Toś ten bok lašowaś">
-<!ENTITY cmd.delete.accesskey           "l">
 <!ENTITY cmd.deleteDomainData.label     "Toś to sedło zabyś">
 <!ENTITY cmd.deleteDomainData.accesskey "s">
 

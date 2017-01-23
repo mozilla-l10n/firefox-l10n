@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Synchronizěrowaś">
 <!ENTITY engine.bookmarks.label     "Cytańske znamjenja">
 <!ENTITY engine.bookmarks.accesskey "C">
-<!ENTITY engine.tabs.label          "Rejtarki">
-<!ENTITY engine.tabs.accesskey      "R">
+
+
 <!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Gronidła">

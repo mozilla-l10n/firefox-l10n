@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Witajśo k &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Konto zwězane">
 
 <!ENTITY aboutAccountsConfig.description "Zregistrěrujśo se, aby swóje rejtarki, cytańske znamjenja, gronidła a dalšne synchronizěrował.">
 <!ENTITY aboutAccountsConfig.startButton.label "Prědne kšace">
