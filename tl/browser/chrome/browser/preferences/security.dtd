@@ -4,15 +4,11 @@
 
 <!ENTITY  general.label                 "Pangkalahatan">
 
-<!ENTITY  warnAddonInstall.label        "Warn me when sites try to install add-ons">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
-
-
 
 
 
@@ -28,5 +24,4 @@
 <!ENTITY  useMasterPassword.accesskey    "G">
 <!ENTITY  changeMasterPassword.label     "Palitan ang Master Password...">
 <!ENTITY  changeMasterPassword.accesskey "M">
-
 

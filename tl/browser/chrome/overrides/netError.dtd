@@ -8,8 +8,8 @@
 <!ENTITY loadError.label "Problema ng pagkarga ng pahina">
 <!ENTITY retry.label "Ulitin">
 
-
 <!-- Specific error messages -->
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.longDesc "">
@@ -21,12 +21,7 @@
 
 
 
-
-
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-
 
 
 
@@ -42,13 +37,7 @@
 
 
 
-
-
-
 <!ENTITY redirectLoop.title "Ang pahina ay hindi nag didirekta ng maayos">
-
-
-
 
 
 
@@ -59,9 +48,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 
-
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
-
 
 
 
@@ -75,15 +62,11 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
-
-
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-
-
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
 

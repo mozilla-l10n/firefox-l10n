@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -32,16 +33,11 @@
 <!ENTITY importOtherBrowser.label          "I-import ang Data mula sa Ibang Browser...">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-
 <!ENTITY cmd.restore2.label             "Ibalik">
 <!ENTITY cmd.restore2.accesskey         "I">
 <!ENTITY cmd.restoreFromFile.label      "Pumili ng File…">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Burahin ang Page na ito">
-<!ENTITY cmd.delete.accesskey           "B">
 <!ENTITY cmd.deleteDomainData.label     "Kalimutan ang pahinang ito">
 <!ENTITY cmd.deleteDomainData.accesskey "K">
 
@@ -49,13 +45,10 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Buksan sa Bagong Window">
 <!ENTITY cmd.open_window.accesskey       "n">
-
-
 <!ENTITY cmd.open_tab.label              "Open in a New Tab">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
 
 
 <!ENTITY cmd.sortby_name.label              "Pagsunod-sunurin ayon sa Pangalan">
@@ -79,7 +72,6 @@
 <!ENTITY col.name.label          "Pangalan">
 <!ENTITY col.tags.label          "Mga Tag">
 <!ENTITY col.url.label           "Lokasyon">
-
 <!ENTITY col.visitcount.label    "Bilang ng Pagbisita">
 <!ENTITY col.description.label   "Paglalarawan">
 <!ENTITY col.dateadded.label     "Idinagdag">
@@ -106,8 +98,6 @@
 
 <!ENTITY find.label               "Search:">
 <!ENTITY find.accesskey           "S">
-
-
 <!ENTITY byDate.label             "Ayon sa Petsa">
 <!ENTITY byDate.accesskey         "A">
 <!ENTITY bySite.label             "Ayon sa Site">

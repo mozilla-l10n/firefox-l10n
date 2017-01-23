@@ -23,8 +23,6 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing  ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ay hindi ka ginagawang anonymous">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sa Internet. Maaari pa ring malaman ng iyong employer o ng iyong Internet service provider kung anu-anong webpage ang binisita mo.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Matuto pa ukol sa">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
 
 <!ENTITY trackingProtection.title                        "Tracking Protection">
 <!ENTITY trackingProtection.description2                 "Ang ibang website ay gumagamit ng trackers para masubaybayan ang iyong ginagawa sa Internet. Pag ginamit mo ang Tracking Potection mapipigilan ni Firefox ang maraming mga trackers na maaaring magipon ng impormasyon ukol sa iyong pagkabrowse">

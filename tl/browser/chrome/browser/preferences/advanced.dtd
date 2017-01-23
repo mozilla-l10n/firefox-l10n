@@ -10,18 +10,12 @@
 
 <!ENTITY useCursorNavigation.label       "Palagiang gamitin ang mga cursor key upang libutin ang mga pahina">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Search for text when I start typing">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 
 
 <!ENTITY useAutoScroll.label             "Gamitin ang autoscrolling">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Gamitin ang maayos na pag-scroll">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkSpelling.label             "Suriin ang aking baybay habang nagta-type">
-<!ENTITY checkSpelling.accesskey         "t">
 
 
 
@@ -34,6 +28,8 @@
 <!ENTITY connectionSettings.accesskey    "e">
 
 
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -49,8 +45,6 @@
 
 <!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Maghanap ng updates, ngunit ako ang pipili kung i-install ang mga ito">
-<!ENTITY updateCheck.accesskey           "M">
 <!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -58,14 +52,9 @@
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Kusang i-update:">
 <!ENTITY enableSearchUpdate.label        "Mga Search Engine">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "Sabihin mo sa akin kapag tinatanong ng isang website na iimbak ang datos para gawing offline">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Mga exceptions...">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">

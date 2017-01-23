@@ -4,8 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-
-
+ 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
@@ -14,19 +13,11 @@
 <!ENTITY     button.removeAllCookies.accesskey "A">
 
 
-
-
-
-
-
-
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Hanapin:">
-<!ENTITY     filter.accesskey               "H">
 
 <!ENTITY     button.close.label             "Isarado">
 <!ENTITY     button.close.accesskey         "s">
