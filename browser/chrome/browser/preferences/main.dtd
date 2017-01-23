@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "Al iniciar &brandShortName;:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupHomePage.label     "Mostrar mi página de inicio">
 <!ENTITY startupBlankPage.label    "Mostrar una página en blanco">
-<!ENTITY startupLastSession.label  "Mostrar las ventanas y pestañas de la última vez">
 
 <!ENTITY homepage.label            "Página de inicio:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,14 +26,12 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Seleccionar…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Siempre preguntarme dónde guardar archivos">
-<!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Siempre verificar si &brandShortName; es el navegador predeterminado">
 <!ENTITY alwaysCheckDefault2.accesskey    "g">
 <!ENTITY setAsMyDefaultBrowser2.label     "Hacer predeterminado">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "d">
-<!ENTITY isDefault.label                 "&brandShortName; es actualmente su navegador predeterminado">
+<!ENTITY isDefault.label                  "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY isNotDefault.label               "&brandShortName; no es su navegador predeterminado">
 
 <!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Firefox se ejecuten al mismo tiempo">

@@ -194,9 +194,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable para los ataques. Un atacante podría revelar fácilmente información que se pensaría que es segura.">
 <!ENTITY weakCryptoAdvanced.override "(No es seguro) Intente cargar <span class='hostname'></span> usando seguridad obsoleta">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>No es posible una conexión segura a <span id='wrongSystemTime_URL'/> porque el reloj parece estar mostrando la hora incorrecta.</p><p>La computadora piensa que es <span id='wrongSystemTime_systemDate'/> cuando debería ser <span id='wrongSystemTime_actualDate'/>. Para solucionar el problema, cambie la fecha y hora para que coincidan con las correctas.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP

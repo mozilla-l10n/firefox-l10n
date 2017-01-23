@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
+<!ENTITY accountSetupTitle.label    "Configuración de &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
@@ -10,8 +10,8 @@
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
 <!ENTITY button.haveAccount.label      "Ya tengo una cuenta">
 
-<!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
-<!ENTITY setup.choicePage.new.label "Nunca usé &syncBrand.shortName.label; antes">
+<!ENTITY setup.choicePage.title.label     "¿Ha usado &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.new.label       "Nunca usé &syncBrand.shortName.label; antes">
 <!ENTITY setup.choicePage.existing2.label "Ya estoy usando &syncBrand.shortName.label; en otro dispositivo">
 
 <!-- New Account AND Existing Account -->
@@ -20,31 +20,31 @@
 <!ENTITY serverType.custom2.label   "Usar un servidor personalizado…">
 <!ENTITY signIn.account2.label      "Cuenta">
 <!ENTITY signIn.account2.accesskey  "e">
-<!ENTITY signIn.password.label "Contraseña">
-<!ENTITY signIn.password.accesskey "C">
+<!ENTITY signIn.password.label      "Contraseña">
+<!ENTITY signIn.password.accesskey  "C">
 <!ENTITY signIn.recoveryKey.label       "Clave de recuperación">
 <!ENTITY signIn.recoveryKey.accesskey   "r">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
-<!ENTITY setup.emailAddress.label "Correo electrónico">
+<!ENTITY setup.emailAddress.label     "Correo electrónico">
 <!ENTITY setup.emailAddress.accesskey "C">
 <!ENTITY setup.choosePassword.label      "Seleccione una contraseña">
 <!ENTITY setup.choosePassword.accesskey  "e">
-<!ENTITY setup.confirmPassword.label "Confirmar contraseña">
+<!ENTITY setup.confirmPassword.label     "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "o">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label "Acepto los">
-<!ENTITY setup.tosAgree1.accesskey "A">
-<!ENTITY setup.tosLink.label "Términos del servicio">
-<!ENTITY setup.tosAgree2.label "y la">
-<!ENTITY setup.ppLink.label "Política de privacidad">
-<!ENTITY setup.tosAgree3.label "">
-<!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.tosAgree1.label      "Acepto los">
+<!ENTITY setup.tosAgree1.accesskey  "A">
+<!ENTITY setup.tosLink.label        "Términos del servicio">
+<!ENTITY setup.tosAgree2.label      "y la">
+<!ENTITY setup.ppLink.label         "Política de privacidad">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; se preocupa por su privacidad">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave de recuperacion necesaria para descifrar sus datos no es subida.">
 <!ENTITY recoveryKeyEntry.label        "Su clave de recuperación">
@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sincronizar mis">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Pestañas">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
