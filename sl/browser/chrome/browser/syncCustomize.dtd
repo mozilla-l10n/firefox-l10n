@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Zgodovino">
 <!ENTITY engine.history.accesskey         "Z">
-<!ENTITY engine.tabs.label                "Zavihke">
 <!ENTITY engine.tabs.accesskey            "V">
 <!ENTITY engine.passwords.label           "Gesla">
 <!ENTITY engine.passwords.accesskey       "G">

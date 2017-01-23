@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Dovoli stranem, da uporabljajo lastne pisave namesto mojih izborov">
-<!ENTITY  allowPagesToUse.accesskey               "H">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Nabor znakov za starejše vsebine">
 <!ENTITY languages.customize.Fallback2.label      "Privzet nabor znakov:">
