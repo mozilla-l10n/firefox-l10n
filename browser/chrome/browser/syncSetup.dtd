@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "Sync myn">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Ljepblêden">
 <!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Skiednis">
 <!ENTITY engine.history.accesskey   "S">

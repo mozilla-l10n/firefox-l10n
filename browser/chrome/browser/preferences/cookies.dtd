@@ -12,7 +12,7 @@
   preferences.properties as removeSelectedCookies.
 -->
 <!ENTITY     button.removeSelectedCookies.accesskey "S">
-<!ENTITY     button.removeAllCookies.label  "Alle cookies fuortsmite">
+<!ENTITY     button.removeAllCookies.label "Alle cookies fuortsmite">
 <!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "Namme:">
@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Sykje:">
-<!ENTITY     filter.accesskey               "k">
 
 <!ENTITY     button.close.label             "Slute">
 <!ENTITY     button.close.accesskey         "S">

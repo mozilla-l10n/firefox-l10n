@@ -17,7 +17,6 @@
 <!ENTITY engine.bookmarks.accesskey       "w">
 <!ENTITY engine.history.label             "Skiednis">
 <!ENTITY engine.history.accesskey         "S">
-<!ENTITY engine.tabs.label                "Ljepblêden">
 <!ENTITY engine.tabs.accesskey            "b">
 <!ENTITY engine.passwords.label           "Wachtwurden">
 <!ENTITY engine.passwords.accesskey       "W">
