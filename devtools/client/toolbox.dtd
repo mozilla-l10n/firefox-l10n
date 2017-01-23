@@ -173,12 +173,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "截图行为">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "截图到剪贴板">
+<!ENTITY options.screenshot.clipboard.tooltip    "直接将截图保存到剪贴板">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "播放相机快门声">
+<!ENTITY options.screenshot.audio.tooltip    "拍摄截图时播放相机快门声">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network

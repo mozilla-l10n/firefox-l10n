@@ -144,6 +144,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; 没有连接到 <span id='wrongSystemTime_URL'/>，因为您的计算机的时钟时间似乎不正确，从而阻止了安全连接。</p> <p>您的计算机时间已设定为 <span id='wrongSystemTime_systemDate'/>，而它应该为 <span id='wrongSystemTime_actualDate'/>。为解决此问题，请更正您的日期和时间设置到正确的时间。</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; 没有连接到 <span id='wrongSystemTimeWithoutReference_URL'/>，因为您的计算机的时钟时间似乎不正确，从而阻止了安全连接。</p> <p>您的计算机时间目前设定为 <span id='wrongSystemTimeWithoutReference_systemDate'/>。为解决此问题，请更正您的日期和时间设置到正确的时间。</p>">
 
 <!ENTITY certerror.pagetitle1  "不安全的连接">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全（HSTS）要求 &brandShortName; 只进行安全连接。正因如此，您不能为此证书添加一个例外。">
