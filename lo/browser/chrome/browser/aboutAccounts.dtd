@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "ຍິນດີຕ້ອນຮັບສູ່ &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "ເຊື່ອມຕໍ່ກັບບັນຊີຜູ້ໃຊ້ແລ້ວ">
 
 <!ENTITY aboutAccountsConfig.description "ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync ແທັບຂອງທ່ານ, ບຸກມາກສ໌, ລະຫັດຜ່ານ &amp; ແລະ ອື່ນໆ.">
 <!ENTITY aboutAccountsConfig.startButton.label "ເລີ່ມຕົ້ນເຮັດວຽກ">

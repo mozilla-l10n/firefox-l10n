@@ -1,12 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-
-
-
-
-
 
 <!ENTITY file.close.label               "ປິດ">
 <!ENTITY file.close.accesskey           "C">
@@ -20,82 +16,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຢູ່">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "ເມື່ອ &brandShortName; ເລີ່ມ:">
 <!ENTITY startupPage.accesskey     "ເ">
-<!ENTITY startupHomePage.label     "ສະແດງຫນ້າຫລັກຂອງຂ້ອຍ">
 <!ENTITY startupBlankPage.label    "ສະແດງຫນ້າເປົ່າ">
-<!ENTITY startupLastSession.label  "ສະແດງຫນ້າຕ່າງຂອງຂ້ອຍ ແລະ ແທັບຈາກຄັ້ງລ່າສຸດ">
 
 <!ENTITY homepage.label            "ຫນ້າຫລັກ">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ເລືອກ...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ຖາມຂ້ອຍທຸກຄັ້ງວ່າຈະບັນທຶກຂໍ້ມູນໄວ້ໃສ">
-<!ENTITY alwaysAsk.accesskey "ຖ">
 
 
 

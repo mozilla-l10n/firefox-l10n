@@ -7,51 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -60,83 +15,30 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "ແທັບ">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
-
 <!ENTITY details_location "ຕຳແຫນ່ງທີ່ຢູ່">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
+
+
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "ເປີດຕົວຈັດການໂປຼແກຣມເສີມ">
+
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "ທົ່ວໄປ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
-
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 
@@ -154,17 +56,5 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -7,8 +7,6 @@
 <!ENTITY generalTab.label                "ທົ່ວໄປ">
 
 
-<!ENTITY blockAutoRefresh.label          "ເຕືອນຂ້ອຍເມື່ອໃຊ້ພະຍາຍາມທີ່ຈະປ່ຽນເສັ້ນທາງ ຫລື ໂລດຫນ້າເວັບ">
-<!ENTITY blockAutoRefresh.accesskey      "b">
 
 
 
@@ -20,6 +18,8 @@
 
 
 
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -33,7 +33,5 @@
 
 
 
-<!ENTITY offlineNotifyExceptions.label   "ຍົກເວັ້ນ">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 
