@@ -171,9 +171,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן.">
 <!ENTITY weakCryptoAdvanced.override "(לא בטוח) לנסות לטעון את <span class='hostname'></span> עם אבטחה לא עדכנית">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>חיבור מאובטח אל <span id='wrongSystemTime_URL'/> אינו אפשרי מכיוון שנראה שהשעון שלך מוגדר על השעה הלא נכונה.</p> <p>המחשב שלך חושב שהשעה היא <span id='wrongSystemTime_systemDate'/>, בעוד שהיא אמורה להיות <span id='wrongSystemTime_actualDate'/>. לתיקון בעיה זו, יש לשנות את הגדרות התאריך והשעה כדי שיותאמו לשעה הנכונה.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP

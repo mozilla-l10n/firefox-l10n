@@ -85,7 +85,6 @@
 <!ENTITY syncMy.label               "סנכרן">
 <!ENTITY engine.bookmarks.label     "סימניות">
 <!ENTITY engine.bookmarks.accesskey "ס">
-<!ENTITY engine.tabs.label          "לשוניות">
 <!ENTITY engine.tabs.accesskey      "ל">
 <!ENTITY engine.history.label       "היסטוריה">
 <!ENTITY engine.history.accesskey   "ה">
