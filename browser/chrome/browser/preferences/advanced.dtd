@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Defnyddio bysellau'r cyrchwr ar gyfer symud o fewn tudalennau">
 <!ENTITY useCursorNavigation.accesskey   "D">
-<!ENTITY searchStartTyping.label         "Chwilio am destun wrth i mi gychwyn teipio">
-<!ENTITY searchStartTyping.accesskey     "C">
-<!ENTITY blockAutoRefresh.label          "Rhybuddio pan fydd gwefannau yn ceisio ailgyfeirio neu ail lwytho tudalen">
-<!ENTITY blockAutoRefresh.accesskey      "R">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Dangos bysellfwrdd cyffwrdd pan fydd angen">
 <!ENTITY useOnScreenKeyboard.accesskey   "b">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">
-<!ENTITY checkSpelling.label             "Gwirio'r sillafu wrth deipio">
-<!ENTITY checkSpelling.accesskey         "G">
+
+
 
 <!ENTITY dataChoicesTab.label            "Dewisiadau Data">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Cynnwys Gwe wedi ei Storio">
 
 <!ENTITY offlineStorage2.label           "Cynnwys Gwe All-lein a Data Defnyddiwr">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Diweddaru">
 
-<!ENTITY updateApp.label                 "Diweddariadau &brandShortName;:">
 <!ENTITY updateAuto1.label               "Gosod diweddariadau (argymell: gwella diogelwch)">
 <!ENTITY updateAuto1.accesskey           "d">
-<!ENTITY updateCheck.label               "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
-<!ENTITY updateCheck.accesskey           "G">
+
+
 <!ENTITY updateManual.label              "Byth gwirio am ddiweddariadau (ddim yn argymell: perygl diogelwch)">
 <!ENTITY updateManual.accesskey          "B">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "c">
 
-<!ENTITY updateOthers.label              "Diweddaru'n awtomatig:">
 <!ENTITY enableSearchUpdate.label        "Peiriannau Chwilio">
 <!ENTITY enableSearchUpdate.accesskey    "P">
 
-<!ENTITY offlineNotify.label             "Dweud wrthyf pan fydd gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
-<!ENTITY offlineNotify.accesskey         "D">
-<!ENTITY offlineNotifyExceptions.label   "Eithriadau…">
-<!ENTITY offlineNotifyExceptions.accesskey "E">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Eithriadau…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "Mae'r gwefannau canlynol yn cael caniatâd i storio data ar gyfer defnydd all-lein:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Tynnu data all-lein">
 
 <!ENTITY certificateTab.label            "Tystysgrifau">
-<!ENTITY certSelection.label             "Ceisiadau">
-<!ENTITY certSelection.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
-<!ENTITY certs.auto                      "Dewis un yn awtomatig">
-<!ENTITY certs.auto.accesskey            "D">
-<!ENTITY certs.ask                       "Gofyn i mi bob tro">
-<!ENTITY certs.ask.accesskey             "G">
+<!ENTITY certPersonal.label              "Ceisiadau">
+
+<!ENTITY selectCerts.auto                "Dewis un yn awtomatig">
+
+
+
 <!ENTITY enableOCSP.label                "Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts.label                 "Darllen Tystysgrifau">

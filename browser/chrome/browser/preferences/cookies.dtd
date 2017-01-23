@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Chwilio:">
-<!ENTITY     filter.accesskey               "C">
+
 
 <!ENTITY     button.close.label             "Cau">
 <!ENTITY     button.close.accesskey         "C">
