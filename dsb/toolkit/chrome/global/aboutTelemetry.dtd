@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Skalary">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Indicěrowane skalary">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Skoděrowane histogramy">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jadnore měrjenja">
 

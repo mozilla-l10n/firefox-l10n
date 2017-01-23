@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "B">
 <!ENTITY runtimeMenu_disconnect_label "Zwisk źěliś">
 <!ENTITY runtimeMenu_disconnect_accesskey "Z">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabela pšawow">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Foto wobrazowki">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "F">
 <!ENTITY runtimeMenu_showDetails_label "Informacije běžnego casa">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Standard">
 <!ENTITY prefs_options_autosavefiles "Dataje awtomatiski składowaś">
 <!ENTITY prefs_options_autosavefiles_tooltip "Wobźěłane dataje awtomatiski składowaś, nježli až projekt běžy">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Tabela pšawow">
-<!ENTITY permissionstable_name_header "Mě">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije běžnego casa">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Simulatorowe nastajenja">
 <!ENTITY simulator_remove "Simulator lašowaś">
 <!ENTITY simulator_reset "Standard wótnowiś">
-<!ENTITY simulator_name "Mě">
+
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Wersija">
 <!ENTITY simulator_profile "Analyza běžnego casa">

@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "C">
 <!ENTITY engine.history.label             "Historiju">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Rejtarki">
-<!ENTITY engine.tabs.accesskey            "R">
+
+
 <!ENTITY engine.passwords.label           "Gronidła">
 <!ENTITY engine.passwords.accesskey       "G">
 <!ENTITY engine.addons.label              "Desktopowe dodanki">
