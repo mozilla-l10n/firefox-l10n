@@ -191,9 +191,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva za napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni.">
 <!ENTITY weakCryptoAdvanced.override "(Ni varno) Naloži <span class='hostname'></span> z uporabo zastarele varnostne tehnologije">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Varna povezava na <span id='wrongSystemTime_URL'/> ni mogoča, ker vaša ura prikazuje napačen čas.</p><p>Računalnik misli, da je ura <span id='wrongSystemTime_systemDate'/>, morala pa bi biti <span id='wrongSystemTime_actualDate'/>. Za odpravo te težave pravilno nastavitve čas.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Povezava ni varna">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
