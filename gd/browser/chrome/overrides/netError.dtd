@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
-<!ENTITY captivePortal.title "Clàraich a-steach dhan lìonra">
-<!ENTITY captivePortal.longDesc "<p>Dh’fhaoidte gu bheil an lìonra seo a’ sparradh ort clàradh a-steach mus fhaigh thu cothrom air an eadar-lìon.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Fosgail an duilleag far an clàraich mi a-steach">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Adhartach">
 <!ENTITY weakCryptoAdvanced.longDesc "Tha <span class='hostname'></span> a’ cleachdadh teicneolas tèarainteachd a tha ro aosta agus so-leònta. Bhitheadh e furasta do chuideigin briseadh a-steach air fiosrachadh a bhiodh sàbhailte ’nad bheachd.">
 <!ENTITY weakCryptoAdvanced.override "(Chan eil seo tèarainte) Feuch is luchdaich <span class='hostname'></span> a’ cleachdadh gleusan tèarainteachd a tha ro aosta.">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Chan urrainn dhuinn ceangal tèarainte a dhèanamh ri <span id='wrongSystemTime_URL'/> a chionn ’s gu bheil an cleoc agad a’ sealltainn an ama chearr.</p> <p>Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate'/> ach tha e <span id='wrongSystemTime_actualDate'/>. Cuir ceart an t-àm is an ceann-là gus an duilgheadas seo a chàradh.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ceangal nach eil tèarainte">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tha an làrach seo a’ cleachdadh HTTP Strict Transport Security (HSTS) gus a chur an cèill nach urrainn dha &brandShortName; ceangal ris ach gu tèarainte. Ri linn sin, chan urrainnear eisgeachd a chur ris airson an teisteanais seo.">
