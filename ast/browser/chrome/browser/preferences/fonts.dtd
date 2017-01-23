@@ -61,8 +61,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Permitir a les páxines escoyer los sos propios colores, en cuenta de la mio seleición anterior.">
-<!ENTITY  allowPagesToUse.accesskey               "e">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de testu pa conteníu vieyu">
 <!ENTITY languages.customize.Fallback2.label      "Codificación de testu predet.:">

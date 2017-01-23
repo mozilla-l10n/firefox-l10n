@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Desconeutar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabla de permisos">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Información del entornu d'execución">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Predetermináu">
 <!ENTITY prefs_options_autosavefiles "Auto-guardar ficheros">
 <!ENTITY prefs_options_autosavefiles_tooltip "Guarda automáticamente los ficheros editaos enantes d'executar el proyeutu">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabla de permisos">
-<!ENTITY permissionstable_name_header "Nome">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información del entornu d'execución">

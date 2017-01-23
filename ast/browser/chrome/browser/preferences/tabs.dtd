@@ -8,14 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir ventanes nueves nuna llingüeta nueva">
 <!ENTITY newWindowsAsTabs.accesskey   "v">
 
-<!ENTITY warnCloseMultipleTabs.label  "Alvertime al zarrar llingüetes múltiples">
-<!ENTITY warnCloseMultipleTabs.accesskey  "z">
 
-<!ENTITY warnOpenManyTabs.label       "Alvertime al abrir llingüetes múltiples que quiciabes faigan lentu a &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "l">
 
-<!ENTITY switchToNewTabs.label        "Cuando abra un enllaz nuna llingüeta nueva, camudar a ella nel intre">
-<!ENTITY switchToNewTabs.accesskey    "e">
 
 <!ENTITY showTabsInTaskbar.label          "Amosar previsualizaciones de llingüetes na barra de xeres de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "m">

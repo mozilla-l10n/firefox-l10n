@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Guetar:">
-<!ENTITY     filter.accesskey               "G">
 
 <!ENTITY     button.close.label             "Zarrar">
 <!ENTITY     button.close.accesskey         "Z">
