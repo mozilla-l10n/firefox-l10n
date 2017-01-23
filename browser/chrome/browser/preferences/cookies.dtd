@@ -28,6 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Sök">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "Stäng">
 <!ENTITY     button.close.accesskey         "ä">
