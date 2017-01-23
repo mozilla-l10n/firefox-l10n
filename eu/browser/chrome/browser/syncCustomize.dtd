@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Historia">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Fitxak">
-<!ENTITY engine.tabs.accesskey            "F">
+
+
 <!ENTITY engine.passwords.label           "Pasahitzak">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Mahaigaineko gehigarriak">

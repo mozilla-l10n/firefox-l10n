@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "x">
 <!ENTITY runtimeMenu_disconnect_label "Deskonektatu">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Baimenen taula">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "B">
 <!ENTITY runtimeMenu_takeScreenshot_label "Pantaila-argazkia">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "P">
 <!ENTITY runtimeMenu_showDetails_label "Exekuzio-ingurunearen informazioa">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Lehenetsia">
 <!ENTITY prefs_options_autosavefiles "Autogorde fitxategiak">
 <!ENTITY prefs_options_autosavefiles_tooltip "Gorde automatikoki editatutako fitxategiak proiektua exekutatu aurretik">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Baimenen taula">
-<!ENTITY permissionstable_name_header "Izena">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Exekuzio-ingurunearen informazioa">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Simulatzailearen aukerak">
 <!ENTITY simulator_remove "Ezabatu simulatzailea">
 <!ENTITY simulator_reset "Berrezarri lehenetsiak">
-<!ENTITY simulator_name "Izena">
+
 <!ENTITY simulator_software "Softwarea">
 <!ENTITY simulator_version "Bertsioa">
 <!ENTITY simulator_profile "Profila">

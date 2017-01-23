@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "h">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Bilaketa-iradokizunak ez dira helbide-barran erakutsiko &brandShortName;(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.">
 
-<!ENTITY redirectWindowsSearch.label "Erabili bilaketa-motor hau Windows-etik egindako bilaketentzat">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Klik bakarreko bilaketa-motorrak">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Bilaketa-barrarekin zuzenean egin dezakezu bilaketa hainbat motorretan. Aukeratu zein nahi dituzun bistaratu.">

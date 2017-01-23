@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Nabigatze pribatuak ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ez zaitu anonimo egiten">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Interneten nabigatzean. Kontuan izan zure enplegatzaileak edo Interneteko zerbitzu-hornitzaileak zein orri bisitatzen dituzun jakin dezakeela.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Argibide gehiago: ">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Nabigatze pribatua">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Jarraipenaren babesa">
 <!ENTITY trackingProtection.description2                 "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Jarraipenaren babesarekin, zure nabigatze-portaerari buruzko informazioa biltzea blokeatuko du Firefoxek.">

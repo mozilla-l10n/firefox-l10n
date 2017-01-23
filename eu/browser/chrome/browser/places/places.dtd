@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Aukeratu fitxategia…">
 <!ENTITY cmd.restoreFromFile.accesskey  "A">
 
-<!ENTITY cmd.bookmarkLink.label         "Egin orriaren laster-marka">
-<!ENTITY cmd.bookmarkLink.accesskey     "E">
-<!ENTITY cmd.delete.label               "Ezabatu orri hau">
-<!ENTITY cmd.delete.accesskey           "E">
 <!ENTITY cmd.deleteDomainData.label     "Ahaztu gune honetaz">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 
