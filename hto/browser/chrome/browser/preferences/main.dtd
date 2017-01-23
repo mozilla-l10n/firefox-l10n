@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Táɨneyena &brandShortName;:">
 <!ENTITY startupPage.accesskey     "T">
-<!ENTITY startupHomePage.label     "Taɨnia rabe akatri">
+
 <!ENTITY startupBlankPage.label    "Táɨno rabe akatri">
-<!ENTITY startupLastSession.label  "Iraikaño yuamo  akátari éroirafo uitɨraɨ tuide dɨga">
+
 
 <!ENTITY homepage.label            "Taɨnia rabe:">
 <!ENTITY homepage.accesskey        "T">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "é">
 <!ENTITY chooseFolderMac.label        "Nɨzede...">
 <!ENTITY chooseFolderMac.accesskey    "N">
-<!ENTITY alwaysAsk.label "Jɨkano nɨne jóneyena">
-<!ENTITY alwaysAsk.accesskey "n">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "Fɨ́no dɨno íyena">

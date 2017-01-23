@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Jenode:">
-<!ENTITY     filter.accesskey               "J">
+
 
 <!ENTITY     button.close.label             "Ɨ́bai">
 <!ENTITY     button.close.accesskey         "Ɨ">

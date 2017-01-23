@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Dáamakɨ">
 <!ENTITY engine.bookmarks.label     "Rɨgɨnua">
 <!ENTITY engine.bookmarks.accesskey "R">
-<!ENTITY engine.tabs.label          "Úitɨraɨ">
-<!ENTITY engine.tabs.accesskey      "Ú">
+
+
 <!ENTITY engine.history.label       "Jáganɨaɨ">
 <!ENTITY engine.history.accesskey   "a">
 <!ENTITY engine.passwords.label     "Fakára ráa">

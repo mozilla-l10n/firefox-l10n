@@ -9,8 +9,8 @@
 <!ENTITY accessibility.label             "Jáitɨkue izoide">
 
 
-<!ENTITY searchStartTyping.label         "Kúekuena jɨaɨe kuejina jenoredɨo">
-<!ENTITY searchStartTyping.accesskey     "K">
+
+
 
 
 
@@ -24,8 +24,8 @@
 
 
 
-<!ENTITY checkSpelling.label             "kúkuena ímei kúe ñúe kuetɨkue éroitɨkue">
-<!ENTITY checkSpelling.accesskey         "k">
+
+
 
 
 
@@ -49,6 +49,12 @@
 <!ENTITY connectionSettings.accesskey    "A">
 
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -68,7 +74,6 @@
 
 <!ENTITY updateTab.label                 "Méidote">
 
-<!ENTITY updateApp.label                 "Méidote íe &brandShortName; :">
 
 
 
@@ -81,25 +86,24 @@
 
 
 
-<!ENTITY updateOthers.label              "Dama abɨ méidote:">
 <!ENTITY enableSearchUpdate.label        "Jénoraɨma">
 <!ENTITY enableSearchUpdate.accesskey    "J">
 
 
-<!ENTITY offlineNotifyExceptions.label   "Jɨ́aɨmakɨ…">
-<!ENTITY offlineNotifyExceptions.accesskey "a">
+<!ENTITY offlineStorageNotifyExceptions.label     "Jɨ́aɨmakɨ…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fúita…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
 
 
-<!ENTITY certSelection.label             "Jɨkánoga">
+<!ENTITY certPersonal.label              "Jɨkánoga">
 
-<!ENTITY certs.auto                      "Daa nɨze dama">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Jɨkánori">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY selectCerts.auto                "Daa nɨze dama">
+
+
+
 
 
 <!ENTITY viewCerts.label                 "Éroi rabe">

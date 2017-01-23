@@ -6,9 +6,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Íide">
+<!ENTITY  overrideDefaultPageColors.always.label "Íide">
 
-<!ENTITY  overridePageColors.never.label  "Jáka">
+<!ENTITY  overrideDefaultPageColors.never.label  "Jáka">
 
 <!ENTITY  color                           "Kúerabe anafene:">
 <!ENTITY  textColor.label                 "Kúerabe:">

@@ -14,8 +14,8 @@
 <!ENTITY engine.bookmarks.accesskey       "R">
 <!ENTITY engine.history.label             "Jáganɨaɨ">
 <!ENTITY engine.history.accesskey         "a">
-<!ENTITY engine.tabs.label                "Úitɨraɨ">
-<!ENTITY engine.tabs.accesskey            "r">
+
+
 <!ENTITY engine.passwords.label           "Fakára ráa">
 <!ENTITY engine.passwords.accesskey       "F">
 
