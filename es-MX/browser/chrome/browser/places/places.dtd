@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Catálogo">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Elegir archivo…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.bookmarkLink.label         "Marcar esta página…">
-<!ENTITY cmd.bookmarkLink.accesskey     "M">
-<!ENTITY cmd.delete.label               "Borrar esta Página">
-<!ENTITY cmd.delete.accesskey           "B">
 <!ENTITY cmd.deleteDomainData.label     "Olvida a este Sitio">
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 

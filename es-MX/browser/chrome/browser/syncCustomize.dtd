@@ -8,16 +8,15 @@
 <!ENTITY syncCustomize.title              "¿Qué te gustaría sincronizar?">
 <!ENTITY syncCustomize.description        "Puedes cambiar esta selección en Opciones.">
 <!ENTITY syncCustomizeUnix.description    "Puedes cambiar esta selección en Preferencias.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "Marcadores">
 <!ENTITY engine.bookmarks.accesskey       "M">
 <!ENTITY engine.history.label             "Historial">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Pestañas">
 <!ENTITY engine.tabs.accesskey            "t">
 <!ENTITY engine.passwords.label           "Contraseñas">
 <!ENTITY engine.passwords.accesskey       "C">
