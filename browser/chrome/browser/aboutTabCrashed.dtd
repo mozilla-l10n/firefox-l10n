@@ -27,4 +27,3 @@
 <!ENTITY tabCrashed.emailMe "נא לשלוח אלי דוא״ל כאשר מידע נוסף זמין">
 <!ENTITY tabCrashed.reportSent "דיווח הקריסה כבר נשלח; תודה על עזרתך בשיפור &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "דיווח על הלשוניות שברקע">
-<!ENTITY tabCrashed.autoSubmit "הפעלת שליחה אוטומטית של דיווחי קריסה קודמים (וקבלת פחות הודעות מסוג זה מאיתנו בעתיד)">

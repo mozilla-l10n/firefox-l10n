@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "בחירת קובץ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ב">
 
-<!ENTITY cmd.bookmarkLink.label         "יצירת סימנייה לדף זה…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ס">
-<!ENTITY cmd.delete.label               "מחיקת דף זה">
-<!ENTITY cmd.delete.accesskey           "מ">
 <!ENTITY cmd.deleteDomainData.label     "לשכוח מאתר זה">
 <!ENTITY cmd.deleteDomainData.accesskey "ש">
 

@@ -6,9 +6,7 @@
 
 <!ENTITY startupPage.label         "כאשר &brandShortName; מופעל:">
 <!ENTITY startupPage.accesskey     "מ">
-<!ENTITY startupHomePage.label     "להציג את דף הבית שלי">
 <!ENTITY startupBlankPage.label    "להציג דף ריק">
-<!ENTITY startupLastSession.label  "להציג את החלונות והלשוניות שלי מהפעם האחרונה">
 
 <!ENTITY homepage.label            "דף בית:">
 <!ENTITY homepage.accesskey        "ד">
@@ -28,8 +26,6 @@
 <!ENTITY chooseFolderWin.accesskey    "י">
 <!ENTITY chooseFolderMac.label        "בחירה…">
 <!ENTITY chooseFolderMac.accesskey    "ב">
-<!ENTITY alwaysAsk.label "שאל תמיד היכן לשמור קבצים">
-<!ENTITY alwaysAsk.accesskey "ה">
 
 <!ENTITY alwaysCheckDefault2.label        "תמיד לבדוק אם &brandShortName; הוא דפדפן בררת מחדל">
 <!ENTITY alwaysCheckDefault2.accesskey    "ת">

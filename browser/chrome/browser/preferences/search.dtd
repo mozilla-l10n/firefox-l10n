@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "ס">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־&brandShortName; לעולם לא לזכור היסטוריה.">
 
-<!ENTITY redirectWindowsSearch.label "שימוש במנוע חיפוש זה לחיפושים מ־Windows">
-<!ENTITY redirectWindowsSearch.accesskey "ח">
-
 <!ENTITY oneClickSearchEngines.label           "מנועי חיפוש בלחיצה אחת">
 
 <!ENTITY chooseWhichOneToDisplay.label         "שורת החיפוש מאפשרת חיפוש במנועי חיפוש חלופיים. נא לבחור אילו מהם יוצגו.">

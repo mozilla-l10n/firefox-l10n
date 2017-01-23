@@ -28,8 +28,6 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "חיפוש:">
-<!ENTITY     filter.accesskey               "ח">
 
 <!ENTITY     button.close.label             "סגירה">
 <!ENTITY     button.close.accesskey         "ס">

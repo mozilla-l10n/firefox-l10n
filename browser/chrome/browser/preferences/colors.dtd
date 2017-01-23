@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "שימוש בצבעים הנבחרים מעלה במקום הצבעים שצוינו בדף:">
-<!ENTITY  overridePageColors.accesskey    "צ">
 
-<!ENTITY  overridePageColors.always.label "תמיד">
-<!ENTITY  overridePageColors.auto.label   "רק בערכות נושא עם ניגודיות גבוהה">
-<!ENTITY  overridePageColors.never.label  "לעולם לא">
 
 <!ENTITY  color                           "טקסט ורקע">
 <!ENTITY  textColor.label                 "טקסט:">

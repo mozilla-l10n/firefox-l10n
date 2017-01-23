@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "ז">
 <!ENTITY runtimeMenu_disconnect_label "התנתקות">
 <!ENTITY runtimeMenu_disconnect_accesskey "נ">
-<!ENTITY runtimeMenu_showPermissionTable_label "טבלת הרשאות">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "ש">
 <!ENTITY runtimeMenu_takeScreenshot_label "צילום מסך">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ל">
 <!ENTITY runtimeMenu_showDetails_label "מידע זמן ריצה">
@@ -129,10 +127,6 @@
 <!ENTITY prefs_options_keybindings_default "ברירת מחדל">
 <!ENTITY prefs_options_autosavefiles "שמירת קבצים באופן אוטומטי">
 <!ENTITY prefs_options_autosavefiles_tooltip "שמירת קבצים שנערכו באופן אוטומטי לפני הפעלת פרויקט">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "טבלת הרשאות">
-<!ENTITY permissionstable_name_header "שם">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "מידע זמן ריצה">
