@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tscherner ina datoteca">
 <!ENTITY cmd.restoreFromFile.accesskey  "d">
 
-<!ENTITY cmd.bookmarkLink.label         "Agiuntar in segnapagina per questa pagina…">
-<!ENTITY cmd.bookmarkLink.accesskey     "A">
-<!ENTITY cmd.delete.label               "Stizzar questa pagina">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Emblidar questa website">
 <!ENTITY cmd.deleteDomainData.accesskey "E">
 

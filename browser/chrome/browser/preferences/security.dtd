@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "General">
 
-<!ENTITY  warnAddonInstall.label        "Avertir, sche websites emprovan d'installar supplements">
-<!ENTITY  warnAddonInstall.accesskey    "w">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +15,6 @@
 <!ENTITY  blockDownloads.label            "Bloccar telechargiadas privlusas">
 <!ENTITY  blockDownloads.accesskey        "p">
 
-<!ENTITY  blockUncommonUnwanted.label     "M'avertir da programs nungiavischads e nunusitads">
-<!ENTITY  blockUncommonUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Excepziuns…">
 <!ENTITY  addonExceptions.accesskey     "E">
