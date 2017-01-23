@@ -51,6 +51,8 @@
 <p>&brandShortName; can't load this page for some reason.</p>
 ">
 
+
+
 <!ENTITY malformedURI.title "The address isn't valid">
 <!ENTITY malformedURI.longDesc "
 <ul> 
@@ -147,7 +149,7 @@ working.</li>
 
 <!ENTITY certerror.longpagetitle1 "Your connection is not secure">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
-     will be replaced at runtime with the name of the server to which the user
+will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their web site improperly.  To protect your information from being stolen, &brandShortName; has not connected to this web site.">
 
@@ -184,15 +186,15 @@ was trying to connect. -->
 
 <!ENTITY weakCryptoUsed.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-          "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Advanced">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
 <!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-          please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>A secure connection to <span id='wrongSystemTime_URL'/> isn’t possible because your clock appears to show the wrong time.</p> <p>Your computer thinks it is <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Insecure Connection">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
@@ -203,7 +205,7 @@ certificate.">
 
 <!ENTITY inadequateSecurityError.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
-          "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The web site administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
