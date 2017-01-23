@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Veebis liikumiseks kasutatakse alati kursori klahve">
 <!ENTITY useCursorNavigation.accesskey   "a">
-<!ENTITY searchStartTyping.label         "Sisestamise alustamisel otsitakse teksti">
-<!ENTITY searchStartTyping.accesskey     "o">
-<!ENTITY blockAutoRefresh.label          "Hoiatatakse, kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
-<!ENTITY blockAutoRefresh.accesskey      "H">
 <!ENTITY useOnScreenKeyboard.label       "Vajadusel kuvatakse puutetundlikku klaviatuuri">
 <!ENTITY useOnScreenKeyboard.accesskey   "j">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey          "i">
-<!ENTITY checkSpelling.label             "Sisestamisel kontrollitakse õigekirja">
-<!ENTITY checkSpelling.accesskey         "r">
 
 <!ENTITY dataChoicesTab.label            "Saadetavad andmed">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Võrguta režiimi veebisisu ja kasutaja andmed">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Uuendamine">
 
-<!ENTITY updateApp.label                 "&brandShortName;i uuendused:">
 <!ENTITY updateAuto1.label               "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
 <!ENTITY updateAuto1.accesskey           "e">
-<!ENTITY updateCheck.label               "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
-<!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
 <!ENTITY updateManual.accesskey          "U">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey            "d">
 
-<!ENTITY updateOthers.label              "Automaatne uuendamine:">
 <!ENTITY enableSearchUpdate.label        "Otsingumootorid">
 <!ENTITY enableSearchUpdate.accesskey    "O">
 
-<!ENTITY offlineNotify.label             "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
-<!ENTITY offlineNotify.accesskey         "i">
-<!ENTITY offlineNotifyExceptions.label   "Erandid">
-<!ENTITY offlineNotifyExceptions.accesskey "r">
 
 <!ENTITY offlineAppsList2.label          "Järgmistel veebilehtedel on lubatud salvestada andmeid võrguta režiimis kasutamiseks:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Eemalda võrguta kasutatavad andmed">
 
 <!ENTITY certificateTab.label            "Sertifikaadid">
-<!ENTITY certSelection.label             "Nõuded">
-<!ENTITY certSelection.description       "Kui veebileht nõuab sertifikaati:">
-<!ENTITY certs.auto                      "valitakse üks automaatselt">
-<!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "küsitakse iga kord">
-<!ENTITY certs.ask.accesskey             "i">
 <!ENTITY enableOCSP.label                "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
 <!ENTITY enableOCSP.accesskey            "e">
 <!ENTITY viewCerts.label                 "Kuva sertifikaate">
