@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "衬线字体">
 <!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
 
+<!ENTITY  allowPagesToUseOwn.label                "允许页面选择自己的字体代替您的上述选择">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "旧式内容的文字编码">
 <!ENTITY languages.customize.Fallback2.label      "后备文字编码：">

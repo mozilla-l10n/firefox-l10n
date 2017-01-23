@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 
 <!ENTITY  color                           "文字和背景">
