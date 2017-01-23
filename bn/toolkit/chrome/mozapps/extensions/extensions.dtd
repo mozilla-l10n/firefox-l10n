@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "সব অ্যাড-অন এর জন্য টুল">
 
+
+
 <!ENTITY cmd.back.tooltip                     "এক পৃষ্ঠা আগে যান">
 <!ENTITY cmd.forward.tooltip                  "এক পৃষ্ঠা পরে যান">
 
