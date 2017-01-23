@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "Geen instaanbediener vir:">
 <!ENTITY  noproxy.accesskey             "G">
 <!ENTITY  noproxyExplain.label          "Byvoorbeeld: .mozilla.org, .org.za, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Gebruik hierdie instaanbediener vir alle protokols">
+<!ENTITY  shareproxy.label              "Gebruik hierdie instaanbediener vir alle protokolle">
 <!ENTITY  shareproxy.accesskey          "s">
 
 
