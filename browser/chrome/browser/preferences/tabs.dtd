@@ -8,8 +8,15 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir pestañas en lugar de ventanas">
 <!ENTITY newWindowsAsTabs.accesskey   "p">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Avisarme al cerrar varias pestañas">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Avisarme si al abrir muchas pestañas &brandShortName; se pueda poner lento
+">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "Al abrir un enlace en una nueva pestaña, cambiar a la pestaña inmediatamente">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Mostrar vista previa de las pestañás en la barra de tareas de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "t">
