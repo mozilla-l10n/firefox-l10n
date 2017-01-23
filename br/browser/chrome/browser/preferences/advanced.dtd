@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Atav arverañ ar stokelloù bir da vageal er bajennadoù">
 <!ENTITY useCursorNavigation.accesskey   "A">
-<!ENTITY searchStartTyping.label         "Klask an destenn pa grogan da skrivañ">
-<!ENTITY searchStartTyping.accesskey     "K">
-<!ENTITY blockAutoRefresh.label          "Kemenn din pa vez klasket adheñchañ pe adkargañ ar bajennad gant al lec'hiennoù">
-<!ENTITY blockAutoRefresh.accesskey      "e">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Diskouez ur c'hlavier stokañ pa vez ezhomm">
 <!ENTITY useOnScreenKeyboard.accesskey   "c">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "r">
 <!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Gwiriañ ar reizhskrivañ pa skrivan">
-<!ENTITY checkSpelling.accesskey         "G">
+
+
 
 <!ENTITY dataChoicesTab.label            "Roadennoù">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Krubuilh an endalc'had Web">
 
 <!ENTITY offlineStorage2.label           "Endalc'had Web ezlinenn ha roadennoù an arveriad">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
-<!ENTITY updateApp.label                 "Hizivadurioù evit &brandShortName; :">
 <!ENTITY updateAuto1.label               "Staliañ an hizivadennoù ent emgefreek (erbedet : diogelroez gwellaet)">
 <!ENTITY updateAuto1.accesskey           "h">
-<!ENTITY updateCheck.label               "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
-<!ENTITY updateCheck.accesskey           "G">
+
+
 <!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
 
-<!ENTITY updateOthers.label              "Hizivaat ent emgefreek :">
 <!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
 <!ENTITY enableSearchUpdate.accesskey    "K">
 
-<!ENTITY offlineNotify.label             "Lavarout din pa vez goulennet gant ul lec'hienn mirout roadennoù evit un arver ezlinenn">
-<!ENTITY offlineNotify.accesskey         "a">
-<!ENTITY offlineNotifyExceptions.label   "Nemedennoù…">
-<!ENTITY offlineNotifyExceptions.accesskey "m">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Nemedennoù…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "m">
 
 <!ENTITY offlineAppsList2.label          "Aotreet eo al lec'hiennoù da heul da gadaviñ roadennoù evit un arver ezlinenn :">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Dilemel ar roadennoù ezlinenn">
 
 <!ENTITY certificateTab.label            "Testenioù">
-<!ENTITY certSelection.label             "Azgoulennoù">
-<!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad :">
-<!ENTITY certs.auto                      "Diuz unan ent emgefreek">
-<!ENTITY certs.auto.accesskey            "u">
-<!ENTITY certs.ask                       "Goulenn diganin bewech">
-<!ENTITY certs.ask.accesskey             "G">
+<!ENTITY certPersonal.label              "Azgoulennoù">
+
+<!ENTITY selectCerts.auto                "Diuz unan ent emgefreek">
+
+
+
 <!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
 <!ENTITY enableOCSP.accesskey            "G">
 <!ENTITY viewCerts.label                 "Gwelout an testenioù">

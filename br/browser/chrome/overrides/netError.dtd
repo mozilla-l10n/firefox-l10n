@@ -30,8 +30,7 @@
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
 <!ENTITY generic.longDesc "<p>N’hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
 
-<!ENTITY captivePortal.title "Kennaskañ d'ar rouedad">
-<!ENTITY captivePortal.longDesc "<p>Gallout a ra ar rouedad-mañ goulenn ganeoc'h kennaskañ da haeziñ an internet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Digeriñ ar bajenn gennaskañ">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Kempleshoc'h">
 <!ENTITY weakCryptoAdvanced.longDesc "Galvezouriezh diogelroez diamzeret a vez arveret gant <span class='hostname'></span>, ha bresk eo d'an tagadennoù. Gallout a ra un tager dizoloiñ titouroù a soñje deoc'h oa diogel. ">
 <!ENTITY weakCryptoAdvanced.override "(Arvarus) Klaskit kargañ <span class='hostname'></span> gant diogelroez diamzeret">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>N'eo ket posupl kaout ur c'hennask diogel  da <span id='wrongSystemTime_URL'/> peogwir eo diskouezet un eur fall gant ho horolaj.</p><p>Krediñ a ra hoc'h urzhiataer eo <span id='wrongSystemTime_systemDate'/>, padal e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit ratreañ ar gudenn-se e c'hallit kemmañ an deiziad hag an eur en arventennoù evit klotañ gant an eur reizh.</p>">
 
 <!ENTITY certerror.pagetitle1  "Kennask arvarus">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">

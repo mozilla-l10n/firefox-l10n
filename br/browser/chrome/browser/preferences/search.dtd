@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "c">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet &brandShortName;  evit ma ne zalc'hfe ket soñj eus ho roll istor.">
 
-<!ENTITY redirectWindowsSearch.label "Ober gant al lusker enklask-mañ evit an enklaskoù graet adalek Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Kefluskerioù enklask gant ur c'hlik">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Laosket oc'h da glask kefluskerioù enklask disheñvel war-eeun. Dibabit peseurt hini vo diskouezet.">

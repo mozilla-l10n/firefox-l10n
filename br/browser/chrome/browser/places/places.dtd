@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Dibab ur restr…">
 <!ENTITY cmd.restoreFromFile.accesskey  "b">
 
-<!ENTITY cmd.bookmarkLink.label         "Ouzhpennañ ar bajenn-mañ d'ar sinedoù…">
-<!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Dilemel ar bajenn-mañ">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Ankouaat al lec'hienn-mañ">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 

@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Klask :">
-<!ENTITY     filter.accesskey               "K">
+
 
 <!ENTITY     button.close.label             "Serriñ">
 <!ENTITY     button.close.accesskey         "S">

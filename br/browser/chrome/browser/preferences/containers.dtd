@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "Anv">
 <!ENTITY addButton.label      "Ouzhpennañ un endalc'her nevez">
 <!ENTITY addButton.accesskey  "O">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Distreiñ d'ar buhez prevez">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "Anv:">
 <!ENTITY name.accesskey       "A">
+
 <!ENTITY icon.label           "Arlun:">
 <!ENTITY icon.accesskey       "r">
 <!ENTITY color.label          "Liv:">

@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Hep Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Aotren ar pajennadoù da zibab o nodrezhoù dezho e-lec'h ma diuzad a-us">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Bonegañ an arouezennoù evit an endalc'hadoù diamzeret">
 <!ENTITY languages.customize.Fallback2.label      "Bonegañ an destenn dre ziouer : ">
