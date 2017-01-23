@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Usar siempre las teclas del cursor para navegar dentro de las páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Buscar texto cuando comienzo a escribir">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Advertirme cuando los sitios intenten redireccionar o recargar la página">
-<!ENTITY blockAutoRefresh.accesskey      "p">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar un teclado en pantalla cuando sea necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +21,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Revisar mi ortografía mientras escribo">
-<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
@@ -57,6 +51,8 @@
 
 <!ENTITY offlineStorage2.label           "Contenido web y datos de usuario sin conexión">
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +71,8 @@
 
 <!ENTITY updateTab.label                 "Actualización">
 
-<!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mayor seguridad)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
-<!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +82,9 @@
 <!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey            "U">
 
-<!ENTITY updateOthers.label              "Actualizar automáticamente:">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "b">
 
-<!ENTITY offlineNotify.label             "Avisarme cuando un sitio web pida almacenar datos para uso sin conexión">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Excepciones…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
-<!ENTITY certSelection.label             "Solicitudes">
-<!ENTITY certSelection.description       "Cuando un servidor pida mi certificado personal:">
-<!ENTITY certs.auto                      "Seleccionar uno automáticamente">
-<!ENTITY certs.auto.accesskey            "y">
-<!ENTITY certs.ask                       "Preguntarme cada vez">
-<!ENTITY certs.ask.accesskey             "g">
 <!ENTITY enableOCSP.label                "Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Ver certificados">
