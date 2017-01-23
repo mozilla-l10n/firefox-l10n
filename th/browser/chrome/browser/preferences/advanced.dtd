@@ -82,6 +82,7 @@
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "อัปเดตโดยอัตโนมัติ">
 <!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
