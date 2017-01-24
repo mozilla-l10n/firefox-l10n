@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter-agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Azen ɣer yibenk nniḍen">
 <!ENTITY overlay_share_no_url "Ulac aseɣwen yettwafen deg beṭṭu-yagi">
 <!ENTITY overlay_share_select_device "Fren ibenk">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Sken amazray n unadi">
 <!ENTITY pref_import_options "Kter iɣewwaṛen">
 <!ENTITY pref_import_android_summary "Kter ticraḍ akked umazray seg iminig adigan">
+
 <!ENTITY pref_private_data_history2 "Amazray n tunigin">
 <!ENTITY pref_private_data_searchHistory "Amazray n unadi">
 <!ENTITY pref_private_data_formdata2 "Amazray n tferkit">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Adras n ticcer">
 <!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Nadi &formatS1; ɣef &formatS2;">
 
 <!ENTITY searchable_description "Ticraḍ d umazray">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Lqem n &brandShortName; yellan">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Nnal akken ad d-tessidreḍ">
 
 <!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Nnal akken ad tesneseḍ lqem ticki yettusider-d">
 <!ENTITY updater_downloading_retry2 "Nnal akken ad tɣerḍeḍ tikelt nniḍen.">
 
-<!ENTITY updater_apply_title2 "Lqem n &brandShortName; yellan">
-<!ENTITY updater_apply_select2 "Nnal akken ad tleqmeḍ">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Aggwi">
 <!ENTITY activity_stream_delete_history "Kkes seg umazray">
+
+
