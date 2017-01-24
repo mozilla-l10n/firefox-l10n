@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "ସେରିଫ">
 <!ENTITY  useDefaultFontSansSerif.label           "ସାନସ ସେରିଫ">
 
-<!ENTITY  allowPagesToUse.label                   "ମୋର ଉପର ଲିଖିତ ଚୟନ ପରିବର୍ତ୍ତେ, ପୃଷ୍ଠାଗୁଡ଼ିକୁ ସେମାନଙ୍କର ନିଜସ୍ୱ ଅକ୍ଷରରୂପ ବାଛିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 
 

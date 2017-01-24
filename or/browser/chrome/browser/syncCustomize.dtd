@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "ଟ୍ୟାବ">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "ପ୍ରବେଶ ସଂକେତ">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "ଡେସ୍କଟପ ଏବଂ ଏଡ଼ ଅନଗୁଡ଼ିକ">

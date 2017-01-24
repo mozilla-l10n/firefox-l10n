@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "ଖୋଜନ୍ତୁ:">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY     button.close.accesskey         "C">
