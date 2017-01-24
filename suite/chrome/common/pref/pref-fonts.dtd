@@ -31,6 +31,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
      the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japán">
 <!ENTITY  font.langGroup.trad-chinese             "Hagyományos kínai (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Egyszerűsített kínai">
@@ -53,6 +54,12 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematika">
+<!ENTITY  font.langGroup.odia                     "Orija">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Szingaléz">
+<!ENTITY  font.langGroup.tibetan                  "Tibeti">
+<!ENTITY  font.langGroup.other                    "Más írásrendszer">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Legkisebb betűméret:">
 <!ENTITY minSize.accesskey                        "L">
