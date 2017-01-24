@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Aisinas per totes los moduls">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Recuolar d'una pagina">
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
 

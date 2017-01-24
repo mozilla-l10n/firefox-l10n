@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Recercar :">
-<!ENTITY     filter.accesskey               "R">
+
 
 <!ENTITY     button.close.label             "Tampar">
 <!ENTITY     button.close.accesskey         "T">

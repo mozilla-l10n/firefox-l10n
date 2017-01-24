@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Causir un fichièr...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "Apondre aqueste pagina als marcapaginas…">
-<!ENTITY cmd.bookmarkLink.accesskey     "m">
-<!ENTITY cmd.delete.label               "Suprimir aquesta pagina">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste site">
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 

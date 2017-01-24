@@ -31,8 +31,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "Desconnectar">
 
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Ecran">
 
 
@@ -135,8 +133,6 @@
 <!ENTITY prefs_options_keybindings_default "Per defaut">
 
 
-<!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "Nom">
 <!-- Runtime Details -->
 
 
@@ -184,7 +180,7 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_reset "Restablir los paramètres per defaut">
-<!ENTITY simulator_name "Nom">
+
 
 <!ENTITY simulator_version "Version">
 <!ENTITY simulator_profile "Perfil">
