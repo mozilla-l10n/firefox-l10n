@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Naršymui tinklalapyje naudoti rodyklių klavišus">
 <!ENTITY useCursorNavigation.accesskey   "r">
-<!ENTITY searchStartTyping.label         "Paiešką pradėti pradėjus rinkti tekstą">
-<!ENTITY searchStartTyping.accesskey     "P">
-<!ENTITY blockAutoRefresh.label          "Įspėti, jei svetainė bando nukreipti kitur arba atsiųsti tinklalapį iš naujo">
-<!ENTITY blockAutoRefresh.accesskey      "n">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Rodyti jutiklinę klaviatūrą kai reikia">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "t">
 <!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
 <!ENTITY allowHWAccel.accesskey          "a">
-<!ENTITY checkSpelling.label             "Tikrinti rašybą renkant tekstą">
-<!ENTITY checkSpelling.accesskey         "k">
+
+
 
 <!ENTITY dataChoicesTab.label            "Duomenų siuntimas">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Saityno podėlis">
 
 <!ENTITY offlineStorage2.label           "Duomenys darbui neprisijungus ir naudotojo duomenys">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Atnaujinimas">
 
-<!ENTITY updateApp.label                 "Programos „&brandShortName;“ atnaujinimas:">
 <!ENTITY updateAuto1.label               "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
-<!ENTITY updateCheck.accesskey           "T">
+
+
 <!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
 <!ENTITY enableSearchUpdate.label        "ieškykles">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Pranešti, kai svetainė prašo leidimo kompiuteryje įrašyti duomenis, reikalingus darbui neprisijungus prie tinklo">
-<!ENTITY offlineNotify.accesskey         "P">
-<!ENTITY offlineNotifyExceptions.label   "Išimtys…">
-<!ENTITY offlineNotifyExceptions.accesskey "I">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Išimtys…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "I">
 
 <!ENTITY offlineAppsList2.label          "Šioms svetainėms leista įrašyti darbui neprisijungus prie tinklo reikalingų duomenų:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Pašalinti darbui neprisijungus skirtus duomenis">
 
 <!ENTITY certificateTab.label            "Liudijimai">
-<!ENTITY certSelection.label             "Užklausos">
-<!ENTITY certSelection.description       "Svetainei paprašius jūsų liudijimo:">
-<!ENTITY certs.auto                      "parinkti jį automatiškai">
-<!ENTITY certs.auto.accesskey            "a">
-<!ENTITY certs.ask                       "visada klausti">
-<!ENTITY certs.ask.accesskey             "k">
+<!ENTITY certPersonal.label              "Užklausos">
+
+<!ENTITY selectCerts.auto                "parinkti jį automatiškai">
+
+
+
 <!ENTITY enableOCSP.label                "Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Liudijimų peržiūra">

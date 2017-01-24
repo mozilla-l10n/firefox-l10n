@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pasirinkite failą…">
 <!ENTITY cmd.restoreFromFile.accesskey  "f">
 
-<!ENTITY cmd.bookmarkLink.label         "Įrašyti šį tinklalapį…">
-<!ENTITY cmd.bookmarkLink.accesskey     "r">
-<!ENTITY cmd.delete.label               "Pašalinti šį tinklalapį">
-<!ENTITY cmd.delete.accesskey           "š">
 <!ENTITY cmd.deleteDomainData.label     "Užmiršti viską apie šią svetainę">
 <!ENTITY cmd.deleteDomainData.accesskey "U">
 

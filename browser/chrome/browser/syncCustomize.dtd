@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "a">
 <!ENTITY engine.history.label             "žurnalą">
 <!ENTITY engine.history.accesskey         "ž">
-<!ENTITY engine.tabs.label                "korteles">
-<!ENTITY engine.tabs.accesskey            "k">
+
+
 <!ENTITY engine.passwords.label           "slaptažodžius">
 <!ENTITY engine.passwords.accesskey       "s">
 <!ENTITY engine.addons.label              "kompiuteriams skirtos naršyklės priedus">

@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Gijų strigtys">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Skaliarai">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Raktiniai skaliarai">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramos">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Raktinės histogramos">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Paprasti matavimai">
 

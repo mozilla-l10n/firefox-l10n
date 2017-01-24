@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "n">
 <!ENTITY runtimeMenu_disconnect_label "Atsijungti">
 <!ENTITY runtimeMenu_disconnect_accesskey "A">
-<!ENTITY runtimeMenu_showPermissionTable_label "Leidimų lentelė">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "L">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrano nuotrauka">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Įrenginio duomenys">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Numatytieji">
 <!ENTITY prefs_options_autosavefiles "Automatiškai įrašyti failus">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automatiškai įrašyti pakeitimus failuose prieš paleidžiant projektą">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Leidimų lentelė">
-<!ENTITY permissionstable_name_header "Pavadinimas">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Įrenginio duomenys">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Simuliatoriaus nuostatos">
 <!ENTITY simulator_remove "Pašalinti simuliatorių">
 <!ENTITY simulator_reset "Grąžinti numatytąsias nuostatas">
-<!ENTITY simulator_name "Pavadinimas">
+
 <!ENTITY simulator_software "Programinė įranga">
 <!ENTITY simulator_version "Laida">
 <!ENTITY simulator_profile "Profilis">
