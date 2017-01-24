@@ -148,11 +148,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "അടയാളം">
 <!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയത്">
 <!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "മറ്റൊരു ഉപകരണത്തിലേക്ക് അയയ്ക്കുക">
 <!ENTITY overlay_share_no_url "ഈ പങ്കിടലിനുള്ള കണ്ണിയൊന്നും കണ്ടെത്തിയില്ല">
 <!ENTITY overlay_share_select_device "ഉപകരണം തിരഞ്ഞെടുക്കൂ">
@@ -365,6 +365,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "തെരച്ചില്‍ നടത്തിയ നാള്‍വഴി കാണിക്കുക">
 <!ENTITY pref_import_options "ഐച്ഛികങ്ങള്‍ ഇറക്കുമതി ചെയ്യുക">
 <!ENTITY pref_import_android_summary "നിങ്ങളുടെ നാള്‍വഴികളും അടയാളക്കുറിപ്പുകളും സഹജ ബ്രൗസറില്‍ നിന്നു ഇറക്കുമതി ചെയ്യൂ">
+
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 <!ENTITY pref_private_data_searchHistory "ചരിത്രം തിരയുക">
 <!ENTITY pref_private_data_formdata2 "നാള്‍വഴിയില്‍ നിന്ന്">
@@ -513,6 +514,9 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "ഒരു താളില്‍ താഴേക്ക് സ്ക്രോള്‍ ചെയ്യുമ്പോള്‍ &brandShortName; ടൂള്‍ബാര്‍ മറക്കൂ">
 
 <!ENTITY pref_tab_queue_summary4 "അടുത്ത തവണ &brandShortName; തുറക്കുന്നത് വരെ അവയെ സൂക്ഷിക്കൂ">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -664,9 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2;-നായി &formatS1; തെരയൂ">
 
 <!ENTITY searchable_description "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName;നു പരിഷ്കരണങ്ങള്‍ ലഭ്യമാണ്">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "ഡൗണ്‍ലോഡ് ചെയ്യാൻ തൊടുക">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ഡൌണ്‍ലോഡ് ചെയ്യുന്നു">
@@ -674,8 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ഡൗൺലോഡ് ചെയ്തു കഴിഞ്ഞാൽ നവീകരണങ്ങൾ പ്രയോഗിക്കാൻ തൊടുക">
 <!ENTITY updater_downloading_retry2 "വീണ്ടു ശ്രമിക്കാൻ തൊടുക">
 
-<!ENTITY updater_apply_title2 "&brandShortName;നു പുതുക്കല്‍ ലഭ്യമാണ്">
-<!ENTITY updater_apply_select2 "നവീകരിക്കാൻ തൊടുക">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -806,4 +807,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
