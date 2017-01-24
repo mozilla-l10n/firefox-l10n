@@ -50,8 +50,6 @@
 
 
 
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -117,8 +115,6 @@
 
 <!ENTITY prefs_options_keybindings_default "பொது இருப்பு">
 
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
