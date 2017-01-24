@@ -54,6 +54,12 @@
 <!ENTITY  font.langGroup.khmer                    "高棉文">
 <!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆文">
 <!ENTITY  font.langGroup.math                     "數學方程式">
+<!ENTITY  font.langGroup.odia                     "奧里亞文">
+<!ENTITY  font.langGroup.telugu                   "泰盧固文">
+<!ENTITY  font.langGroup.kannada                  "康納達文">
+<!ENTITY  font.langGroup.sinhala                  "僧加羅文">
+<!ENTITY  font.langGroup.tibetan                  "藏文">
+<!ENTITY  font.langGroup.other                    "其他文字系統">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字型大小:">
 <!ENTITY minSize.accesskey                        "z">
