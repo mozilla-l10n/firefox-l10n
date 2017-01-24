@@ -52,6 +52,9 @@
 <!ENTITY offlineStorage2.label           "ఆఫ్‌లైన్ వెబ్ విషయం మరియు వాడుకరి దత్తాంశం">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "సైటు డేటా">
+<!ENTITY siteDataSettings.label          "అమరికలు…">
+<!ENTITY siteDataLearnMoreLink.label     "మరింత తెలుసుకోండి">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,6 +74,7 @@
 
 <!ENTITY updateTab.label                 "నవీకరణ">
 
+<!ENTITY updateApplication.label         "&brandShortName; తాజాకరణలు">
 <!ENTITY updateAuto1.label               "నవీకరణలను స్వయంచాలగా సంస్థాపించు (సిఫార్సు: మెరుగైన రక్షణ)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateManual.label              "నవీకరణల కొరకు ఎప్పుడూ పరిశీలించవద్దు (సిఫార్సు చేయనిది: రక్షణ సమస్య)">
@@ -85,6 +89,8 @@
 <!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్లు">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotifyExceptions.label     "మినహాయింపులు…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "కింది వెబ్‌ సైట్ల దత్తాంశము దాచి ఆఫ్‌లైన్ వాడుక కొరకు ఉపయోగించుటకు అనుమతి కలిగి ఉన్నది:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +99,7 @@
 <!ENTITY offlineAppRemove.confirm        "ఆఫ్‌లైన్ డాటాను తీసివేయి">
 
 <!ENTITY certificateTab.label            "ధృవీకరణ పత్రాలు">
+<!ENTITY certPersonal.label              "అభ్యర్థనలు">
 <!ENTITY enableOCSP.label                "ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "ధృవీకరణ పత్రాలను దర్శించు">
