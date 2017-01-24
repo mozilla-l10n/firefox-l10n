@@ -6,7 +6,7 @@
 <!ENTITY attachKeywordText.label          "&brandShortName; åtvarar deg om manglande vedlegg dersom du skal til å sende ein e-post som inneheld eitt av desse stikkorda.">
 
 
-
-
+<!ENTITY editKeywordButton1.label         "Rediger…">
+<!ENTITY editKeywordButton1.accesskey     "R">
 <!ENTITY removeKeywordButton.label        "Slett">
 <!ENTITY removeKeywordButton.accesskey    "S">

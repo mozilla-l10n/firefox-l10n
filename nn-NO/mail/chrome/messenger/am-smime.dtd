@@ -31,5 +31,5 @@
 <!ENTITY manageDevices.label "Tryggingseiningar">
 <!ENTITY manageDevices.accesskey "T">
 <!-- Strings for the cert picker dialog -->
-
+<!ENTITY certPicker.info  "Sertifikat:">
 
