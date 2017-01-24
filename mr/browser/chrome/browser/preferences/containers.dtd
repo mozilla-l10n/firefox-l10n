@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "नाव">
 <!ENTITY addButton.label      "नवीन कंटेनर जोडा">
 <!ENTITY addButton.accesskey  "A">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; परत गोपनीयतेकडे जा">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "नाव:">
 <!ENTITY name.accesskey       "N">
+
 <!ENTITY icon.label           "चिन्ह:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "रंग:">

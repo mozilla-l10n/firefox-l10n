@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "फाइल निवडा…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "या पृष्ठाला वाचनखूण लावा…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "ह्या पृष्ठाला नष्ट करा">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "या साईटविषयी विसरून जा">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
