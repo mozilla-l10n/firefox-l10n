@@ -117,6 +117,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -309,6 +310,7 @@ size. -->
 
 
 
+
 <!ENTITY pref_private_data_cache "Kas">
 <!ENTITY pref_private_data_offlineApps "Vanlyn webwerfdata">
 
@@ -426,6 +428,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -648,4 +653,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
