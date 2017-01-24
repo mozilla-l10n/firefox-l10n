@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title       "Rozosielací zoznam">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label     "Pridať do:">
+<!ENTITY mailListWindow.title           "Rozosielací zoznam">
 
-<!ENTITY ListName.label             "Názov zoznamu:">
-<!ENTITY ListNickName.label         "Prezývka zoznamu:">
-<!ENTITY ListDescription.label      "Popis:">
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Pridať do:">
+<!ENTITY addToAddressBook.accesskey     "P">
+<!ENTITY ListName.label                 "Názov zoznamu:">
+<!ENTITY ListName.accesskey             "N">
+<!ENTITY ListNickName.label             "Prezývka zoznamu:">
+<!ENTITY ListNickName.accesskey         "r">
+<!ENTITY ListDescription.label          "Popis:">
+<!ENTITY ListDescription.accesskey      "o">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label         "Napíšte e-mailové adresy, ktoré chcete pridať do rozosielacieho zoznamu:">
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "P">
-<!ENTITY ListName.accesskey         "N">
-<!ENTITY ListNickName.accesskey     "r">
-<!ENTITY ListDescription.accesskey  "o">
+<!ENTITY AddressTitle.label             "Napíšte e-mailové adresy, ktoré chcete pridať do rozosielacieho zoznamu:">
+<!ENTITY AddressTitle.accesskey         "m">
