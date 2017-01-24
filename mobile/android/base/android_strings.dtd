@@ -124,6 +124,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -317,6 +318,7 @@ size. -->
 
 
 
+
 <!ENTITY pref_private_data_history2 "બ્રાઉઝીંગ ઇતિહાસ">
 
 
@@ -450,6 +452,9 @@ size. -->
 
 
 
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -580,9 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; ને &formatS2; માટે શોધો">
 
 <!ENTITY searchable_description "બુકમાર્કો અને ઇતિહાસ">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName; માટે સુધારો ઉપલબ્ધ">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "ડાઉનલોડ કરવા માટે સ્પર્શ કરો">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ડાઉનલોડ કરી રહ્યા છીએ">
@@ -590,8 +593,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "એકવાર ડાઉનલોડ થયા પછી અપડેટ લાગુ કરવા માટે સ્પર્શ કરો">
 <!ENTITY updater_downloading_retry2 "પુનઃપ્રયાસ કરવા માટે સ્પર્શ કરો">
 
-<!ENTITY updater_apply_title2 "&brandShortName; માટે સુધારો ઉપલબ્ધ">
-<!ENTITY updater_apply_select2 "અપડેટ કરવા માટે સ્પર્શ કરો">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -696,4 +698,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
