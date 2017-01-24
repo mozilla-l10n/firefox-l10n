@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ja és a les adreces d\u0027interès">
 <!ENTITY overlay_share_send_other "Envia a altres dispositius">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Envia a un altre dispositiu">
 <!ENTITY overlay_share_no_url "No s\u0027ha trobat cap enllaç per compartir">
 <!ENTITY overlay_share_select_device "Seleccioneu el dispositiu">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostra l\u0027historial de cerca">
 <!ENTITY pref_import_options "Opcions d\u0027importació">
 <!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
+
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_searchHistory "Historial de cerca">
 <!ENTITY pref_private_data_formdata2 "Historial de formularis">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Cua de pestanyes">
 <!ENTITY pref_tab_queue_summary4 "Desa els enllaços fins la propera vegada que obriu el &brandShortName;">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Cerca «&formatS2;» a &formatS1;">
 
 <!ENTITY searchable_description "Adreces d\u0027interès i historial">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Toqueu per baixar">
 
 <!ENTITY updater_downloading_title2 "S\u0027està baixant el &brandShortName;">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
 
-<!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
-<!ENTITY updater_apply_select2 "Toqueu per actualitzar">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Descarta">
 <!ENTITY activity_stream_delete_history "Elimina de l\u0027historial">
+
+
