@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; തുടങ്ങുമ്പോള്‍">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "എന്റെ പ്രധാന താള്‍ കാണിക്കുക">
+
 <!ENTITY startupBlankPage.label    "ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക ">
-<!ENTITY startupLastSession.label  "എന്റെ കഴിഞ്ഞ തവണത്തെ ജാലകങ്ങളും റ്റാബുകളും കാണിക്കുക ">
+
 
 <!ENTITY homepage.label            "ആസ്ഥാന താള്‍:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "തിരഞ്ഞെടുക്കുക ">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണം എന്നു എപ്പോഴും ചോദിക്കുക">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "സ്വതവേയുള്ളതാക്കുക">

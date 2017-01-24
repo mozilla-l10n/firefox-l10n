@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "സിന്‍ക് ചെയ്യുക">
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "റ്റാബുകള്‍">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "നാള്‍വഴി">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "രഹസ്യവാക്കുകള്‍">

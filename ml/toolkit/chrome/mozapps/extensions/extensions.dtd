@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "എല്ലാ ആഡ്-ഓണുകള്‍ക്കുമുള്ള പ്രയോഗങ്ങള്‍">
 
+
+
 <!ENTITY cmd.back.tooltip                     "ഒരു താള്‍ പുറകോട്ട് പോകുക">
 <!ENTITY cmd.forward.tooltip                  "ഒരു താള്‍ മുമ്പോട്ട് പോകുക">
 
