@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; न येवकार">
 
-
 <!ENTITY aboutAccountsConfig.description "तुमची टॅबां, बुकमार्कस्, पासवर्डस् आणि अदिक सिंक करपाक सायन इन करात.">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरू करात">
 <!ENTITY aboutAccountsConfig.useOldSync.label "सिंकाची पोन्नी आवृत्ती वापरता?">

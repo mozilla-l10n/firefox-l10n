@@ -5,14 +5,11 @@
 
 
 
-<!ENTITY warnCloseMultipleTabs.label  "बहुटॅब्ज बंद जातास्तना शिटकावणी दियात ">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "अनेक टॅबां उक्ती करतास्तना म्हाका शिटकावणी दियात. ताका लागून &brandShortName; हळू जाव येता.">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchToNewTabs.label        "जेन्ना हाव नव्या टॅबांत जोड उक्ती करता, तातूंत ताबडतोब घालात. ">
-<!ENTITY switchToNewTabs.accesskey    "h">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो">
 <!ENTITY showTabsInTaskbar.accesskey      "र">

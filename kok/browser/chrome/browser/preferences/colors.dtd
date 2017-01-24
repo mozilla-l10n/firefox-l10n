@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "सदाच">
+<!ENTITY  overrideDefaultPageColors.always.label "सदाच">
 
-<!ENTITY  overridePageColors.never.label  "केन्नाच ना">
+<!ENTITY  overrideDefaultPageColors.never.label  "केन्नाच ना">
 
 <!ENTITY  color                           "मजकूर आनिक फांटभूंय">
 <!ENTITY  textColor.label                 "मजकूर:">

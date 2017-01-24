@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "सर्वसादारण">
 
-<!ENTITY  warnAddonInstall.label        "जेन्ना सायट्स जोडी प्रतिष्ठपित करता तेन्ना सुचयात">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

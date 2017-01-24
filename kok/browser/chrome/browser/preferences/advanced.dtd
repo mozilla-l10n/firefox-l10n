@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "पानामदी नेविगेट करपाक कर्सर कळ वापरात">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "हाव बरोवपाक सुरू करतकेर मजकूर सोदात">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "वेबसायटी पानांक नवी दिशा दिवपाक वो परतून लागू करपाक सोदता तेन्ना म्हाका शिटकावणी दियात.">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "हार्डवेर एक्सलरेशन आसा तेन्ना वापरात">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "बरयता तसो शब्द तपासात">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "डेटा निवडी">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "कॅश्ड वेब आशय">
 
 <!ENTITY offlineStorage2.label           "ऑफलाईन वेब आशय आनि वापरप्यालो डेटा">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "सुदार">
 
-<!ENTITY updateApp.label                 "&brandShortName; सुदार:">
 <!ENTITY updateAuto1.label               "आपसूंक सुदार प्रतिष्ठापित करात (शिफारस केल्या:सुदारित सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "सुदार तपासात,पूण ते प्रतिष्ठापित करप काय ना ते म्हाका निवडूनी">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "सुदार तपासूं नाकात(शिफारस करूक ना: सुरक्षा धोको)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "आपसूंक सुदारात:">
 <!ENTITY enableSearchUpdate.label        "इंजिन सोदात">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "वॅबसायट जेन्ना ऑफलायन वापरा खातीर डेटा सांठवण करूंक मागता, तेन्ना म्हाका सांगचें.">
-<!ENTITY offlineNotify.accesskey         "स">
-<!ENTITY offlineNotifyExceptions.label   "अपवाद...">
-<!ENTITY offlineNotifyExceptions.accesskey "व">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "अपवाद...">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "व">
 
 <!ENTITY offlineAppsList2.label          "ऑफलाईन वापराखातिर डेटा साठोवपाक मुखावयल्या वेबसायटींक परवानगी आसा:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,11 +108,11 @@
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रां">
 
-<!ENTITY certSelection.description       "सर्वर जेन्ना म्हजें वैयक्तीक प्रमाणपत्र मागताः">
-<!ENTITY certs.auto                      "एक आपसूक निवडात">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "म्हाका दरफावट विचारात">
-<!ENTITY certs.ask.accesskey             "S">
+
+<!ENTITY selectCerts.auto                "एक आपसूक निवडात">
+
+
+
 <!ENTITY enableOCSP.label                "प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात ">
 <!ENTITY enableOCSP.accesskey            "प">
 <!ENTITY viewCerts.label                 "प्रमाणपत्रां पळयात">

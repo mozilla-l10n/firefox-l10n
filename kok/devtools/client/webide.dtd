@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "जोडणी तोडात">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "परवानगी आशिल्लो तक्टो">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चलपाचीवेळ इंन्फो">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "डिफॉल्ट">
 
 
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "परवानग्यांचो तक्टो">
-<!ENTITY permissionstable_name_header "नाव">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "चलपाचीवेळ इंन्फो">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "प्रतिरूपक विकल्प">
 <!ENTITY simulator_remove "प्रतिरूपक काडून उडयात">
 <!ENTITY simulator_reset "मुळावे परत दवरात">
-<!ENTITY simulator_name "नाव">
+
 <!ENTITY simulator_software "सॉफ्टवेअर">
 <!ENTITY simulator_version "आवृत्ती">
 <!ENTITY simulator_profile "प्रोफायल">

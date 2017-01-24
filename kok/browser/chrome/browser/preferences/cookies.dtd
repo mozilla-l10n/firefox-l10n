@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "सोदः">
-<!ENTITY     filter.accesskey               "स">
+
 
 <!ENTITY     button.close.label             "बंद">
 <!ENTITY     button.close.accesskey         "C">
