@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں">
 <!ENTITY useCursorNavigation.accesskey   "ک">
-<!ENTITY searchStartTyping.label         "میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں">
-<!ENTITY searchStartTyping.accesskey     "م">
-<!ENTITY blockAutoRefresh.label          "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
-<!ENTITY blockAutoRefresh.accesskey      "س">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "ضرورت کے وقت ٹچ کی بورڈ دکھایں">
 <!ENTITY useOnScreenKeyboard.accesskey   "ک">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "ہ">
 <!ENTITY allowHWAccel.label              "جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں">
 <!ENTITY allowHWAccel.accesskey          "ہ">
-<!ENTITY checkSpelling.label             "میرے ٹائپ کرتے وقت املا چیک کریں">
-<!ENTITY checkSpelling.accesskey         "ٹ">
+
+
 
 <!ENTITY dataChoicesTab.label            "کوائف پسند">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "کیسہ بند ویب مواد">
 
 <!ENTITY offlineStorage2.label           "آف لائن ویب مواد اور ویب کوائف">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "تازہ کاری کریں">
 
-<!ENTITY updateApp.label                 "&brandShortName; تازہ کاریاں:">
 <!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
 <!ENTITY updateAuto1.accesskey           "خ">
-<!ENTITY updateCheck.label               "تازہ کاریوں کے لیے چیک کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
-<!ENTITY updateCheck.accesskey           "چ">
+
+
 <!ENTITY updateManual.label              "تازہ کاریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
 <!ENTITY updateManual.accesskey          "ک">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں">
 <!ENTITY useService.accesskey            "پ">
 
-<!ENTITY updateOthers.label              "خود بخود تازہ کاری کریں:">
 <!ENTITY enableSearchUpdate.label        "تلاش انجن">
 <!ENTITY enableSearchUpdate.accesskey    "ا">
 
-<!ENTITY offlineNotify.label             "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
-<!ENTITY offlineNotify.accesskey         "ب">
-<!ENTITY offlineNotifyExceptions.label   "استثنیات…">
-<!ENTITY offlineNotifyExceptions.accesskey "ا">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "استثنیات…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ا">
 
 <!ENTITY offlineAppsList2.label          "مندرجہ ذیل ویب سائٹوں کو آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کی اجازت ہے:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
 <!ENTITY certificateTab.label            "تصدیق نامے">
-<!ENTITY certSelection.label             "درخواست">
-<!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
-<!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "مجھے ہر بار پوچھیں">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "درخواست">
+
+<!ENTITY selectCerts.auto                "خودبخود ایک منتخب کریں">
+
+
+
 <!ENTITY enableOCSP.label                "سوال OCSP ریسپانڈر سرور کی موجودہ سرٹیفکیٹ کی تصدیق کرتی ہے">
 <!ENTITY enableOCSP.accesskey            "س">
 <!ENTITY viewCerts.label                 "تصدیق نامہ دیکھیں">

@@ -30,8 +30,7 @@
 <!ENTITY generic.title "اف">
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
-<!ENTITY captivePortal.title "نیٹ ورک میں لاگ ان کریں">
-<!ENTITY captivePortal.longDesc "<p>اس نیٹ ورک پر آپ کو انٹرنیٹ تک رسائی کے لئے لاگ ان کرنے کی ضرورت ہوسکتی ہے۔</p>">
+
 
 <!ENTITY openPortalLoginPage.label "لاگ ان صفحہ کھولیں">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "اعلٰی ترین">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> سلامتی ٹیکنالوجی استعمال کرتا ہے جو بٰٰغد از تاریخ ہے اور حملہ کے لیے زد پزیر ہے۔ ایک حملاور آسانی سے معلومات افشا کرسکتا ہے جسے آپ محفوظ سمجھتے ہیں۔">
 <!ENTITY weakCryptoAdvanced.override "(ناقابل بھروسا) لوڈ کرنے کی کوشش کریں<span class='hostname'></span> پرانی سلامتی استعمال کرنے ہوئے">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>ایک قابل بھروسا کنکشن برائے <span id='wrongSystemTime_URL'/> ممکن نہیں کیونکہ آپکی گھڑی بظاہر غلظ وقت دکھاتی ہے۔</p><p>آپکا کمپیوٹر سوجتا ہے  یہ <span id='wrongSystemTime_systemDate'/>، جبکہ اسے ایسا ہونا چاہئیے<span id='wrongSystemTime_actualDate'/>۔ اس مسلہ کو حل کرنے کے لیئے، اپنی تاریخ اور وقت کی سیٹکگیں کوتبدیل کریں  تاکہ درست وقت  کہ ساتھ مشابہ ہو ۔</p>">
 
 <!ENTITY certerror.pagetitle1  "غیر مھفوظ کنکشن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP سخت ٹرانسپورٹ سیکورٹی (HSTS) کہ &brandShortName; کی وضاحت کرنے کی استعمال کرتا ہے؛ صرف محفوظ طریقے سے اس سے رابطہ قائم کر سکتا ہے۔ نتیجے کے طور پر، اسے اس کی سند کے لئے ایک رعایت شامل کرنے کے لئے ممکن نہیں ہے۔">

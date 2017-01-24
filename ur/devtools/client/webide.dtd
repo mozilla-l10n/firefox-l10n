@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "اجازتیں جدول">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "طے شدہ">
 <!ENTITY prefs_options_autosavefiles "خودکار محفوظ مسل">
 <!ENTITY prefs_options_autosavefiles_tooltip "پہلے پراجیکٹ چلائے خود کار طریقے سے اس منصوبےکو مسل کو تدوین کریں">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "جدول اجازتیں">
-<!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "سملیٹر اختیارات">
 <!ENTITY simulator_remove "سملیٹر حذف کریں">
 <!ENTITY simulator_reset "طےشدہ بحال کریں">
-<!ENTITY simulator_name "نام">
+
 <!ENTITY simulator_software "سافٹ ویئر">
 <!ENTITY simulator_version "ورژن">
 <!ENTITY simulator_profile "پروفائل">

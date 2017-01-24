@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  ڈوری پھنس جاتی ہے">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "سکیلر ">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "کلید شدہ ہسٹوگرامز">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  سادہ پیمائشیں">
 

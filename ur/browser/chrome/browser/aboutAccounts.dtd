@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; میں خوش آمدید">
-<!ENTITY aboutAccounts.connected "اکاؤنٹ جڑا ہوا">
 
 <!ENTITY aboutAccountsConfig.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزیدہمہ وقت ساز بنانے کے لیے سائن ان کریں۔">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع کریں">

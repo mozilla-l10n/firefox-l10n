@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ٹ">
 <!ENTITY openFrameCmd.label           "فریم نئے دریچے میں کھولیں">
 <!ENTITY openFrameCmd.accesskey       "د">
-<!ENTITY openLinkCmdInContainerTab.label "ربط کو نئے حامل ٹیب میں کھولیں">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
 <!ENTITY showOnlyThisFrameCmd.accesskey "د">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "کھولیں">
 <!ENTITY syncedTabs.context.open.accesskey                   "ک">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
 <!ENTITY syncedTabs.context.copy.label                       "نقل کریں">
 <!ENTITY syncedTabs.context.copy.accesskey                   "ن">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">

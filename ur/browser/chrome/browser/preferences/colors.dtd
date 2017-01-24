@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "جو رنگ اس صفحہ پر اختصاصی کیئے گئے ہیں ان کو میرے انتخاپ سے زیر کریں:">
-<!ENTITY  overridePageColors.accesskey    "ز">
 
-<!ENTITY  overridePageColors.always.label "ہمیشہ">
-<!ENTITY  overridePageColors.auto.label   "صرف گہرا تناسب امتزاج خیالیات کے ساتھ">
-<!ENTITY  overridePageColors.never.label  "کبھی نہیں">
+
+<!ENTITY  overrideDefaultPageColors.always.label "ہمیشہ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "صرف گہرا تناسب امتزاج خیالیات کے ساتھ">
+<!ENTITY  overrideDefaultPageColors.never.label  "کبھی نہیں">
 
 <!ENTITY  color                           "متن و پس منظر">
 <!ENTITY  textColor.label                 "متن:">

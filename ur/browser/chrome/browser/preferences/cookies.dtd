@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "ف">
 <!ENTITY     focusSearch2.key               "ک">
 
-<!ENTITY     filter.label                   "تلاش کریں:">
-<!ENTITY     filter.accesskey               "ت">
+
 
 <!ENTITY     button.close.label             "بند کریں">
 <!ENTITY     button.close.accesskey         "ب">

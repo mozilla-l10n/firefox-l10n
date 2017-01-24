@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "انہیں سنک کریں">
 <!ENTITY engine.bookmarks.label     "نشانیاں">
 <!ENTITY engine.bookmarks.accesskey "ن">
-<!ENTITY engine.tabs.label          "ٹیب">
-<!ENTITY engine.tabs.accesskey      "ٹ">
+
+
 <!ENTITY engine.history.label       "سابقات">
 <!ENTITY engine.history.accesskey   "س">
 <!ENTITY engine.passwords.label     "پاس ورڈ">

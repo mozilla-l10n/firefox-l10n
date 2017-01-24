@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "مسل منتخاب کریں…">
 <!ENTITY cmd.restoreFromFile.accesskey  "م">
 
-<!ENTITY cmd.bookmarkLink.label         "یہ صفحہ نشان زد کریں…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ن">
-<!ENTITY cmd.delete.label               "اس صفحے کو حذف کریں">
-<!ENTITY cmd.delete.accesskey           "ح">
 <!ENTITY cmd.deleteDomainData.label     "اس سائٹ کے بارے میں بھول جائیں">
 <!ENTITY cmd.deleteDomainData.accesskey "ب">
 
