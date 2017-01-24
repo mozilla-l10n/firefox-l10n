@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Παράβλεψη των ορισμένων χρωμάτων σελίδας με τις παραπάνω επιλογές:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "Π">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Πάντα">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Μόνο με θέματα υψηλής αντίθεσης">
+<!ENTITY  overrideDefaultPageColors.never.label  "Ποτέ">
 
 <!ENTITY  color                           "Κείμενο και παρασκήνιο">
 <!ENTITY  textColor.label                 "Κείμενο:">

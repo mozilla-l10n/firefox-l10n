@@ -28,6 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Αναζήτηση">
+<!ENTITY     searchFilter.accesskey         "Α">
 
 <!ENTITY     button.close.label             "Κλείσιμο">
 <!ENTITY     button.close.accesskey         "Κ">

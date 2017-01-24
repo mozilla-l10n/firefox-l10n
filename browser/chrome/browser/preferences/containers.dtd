@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Προσθήκη νέας θεματικής ενότητας">
 <!ENTITY addButton.accesskey  "Π">
+<!ENTITY preferencesButton.label "Προτιμήσεις">
+<!ENTITY removeButton.label   "Αφαίρεση">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Επιστροφή στο απόρρητο">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Όνομα:">
 <!ENTITY name.accesskey       "Ο">
+<!ENTITY name.placeholder     "Εισάγετε όνομα θεματικής ενότητας">
 <!ENTITY icon.label           "Εικονίδιο:">
 <!ENTITY icon.accesskey       "Ε">
 <!ENTITY color.label          "Χρώμα:">
