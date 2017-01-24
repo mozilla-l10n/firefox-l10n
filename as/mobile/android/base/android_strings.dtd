@@ -133,11 +133,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "পত্ৰচিহ্ন">
 
 <!ENTITY overlay_share_send_other "অন্য ডিভাইচসমূহলৈ পঠাওক">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইচলৈ পঠাওক">
 <!ENTITY overlay_share_no_url "এই অংশত কোনো লিঙ্ক পোৱা নগল">
 <!ENTITY overlay_share_select_device "ডিভাইচ বাছক">
@@ -331,6 +331,7 @@ size. -->
 
 
 <!ENTITY pref_import_android_summary "স্থানীয় ব্ৰাউছাৰৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস ইমপৰ্ট কৰক">
+
 <!ENTITY pref_private_data_history2 "ব্ৰাউছিংৰ ইতিহাস">
 
 
@@ -472,6 +473,9 @@ size. -->
 
 
 
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -611,9 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2; ৰ বাবে &formatS1; ক সন্ধান কৰক">
 
 <!ENTITY searchable_description "পত্ৰচিহ্নসমূহ আৰু ইতিহাস">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName; ৰ বাবে আপডেইঠ উপলব্ধ">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "ডাউনল\u0027ড কৰিবলে স্পৰ্শ কৰক">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড কৰা হৈছে">
@@ -621,8 +623,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ডাউনল\u0027ড হোৱাৰ পিছত আপডেইট প্ৰয়োগ কৰিবলে স্পৰ্শ কৰক">
 <!ENTITY updater_downloading_retry2 "পুনৰ চেষ্টা কৰিবলে স্পৰ্শ কৰক">
 
-<!ENTITY updater_apply_title2 "&brandShortName; ৰ বাবে আপডেইট উপলব্ধ">
-<!ENTITY updater_apply_select2 "আপডেইট কৰিবলে স্পৰ্শ কৰক">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -733,4 +734,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
