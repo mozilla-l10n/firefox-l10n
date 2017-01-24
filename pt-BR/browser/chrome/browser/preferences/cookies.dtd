@@ -29,6 +29,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Pesquisar">
+<!ENTITY     searchFilter.accesskey         "P">
 
 <!ENTITY     button.close.label             "Fechar">
 <!ENTITY     button.close.accesskey         "F">

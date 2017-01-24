@@ -7,3 +7,4 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Armazenamento">
 <!ENTITY     search.label                  "Pesquisar:">
+<!ENTITY     search.accesskey              "P">

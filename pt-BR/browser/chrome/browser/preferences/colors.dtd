@@ -7,6 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Substituir as cores da página com as suas seleções acima:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Sempre">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Só com temas de alto contraste">
@@ -18,12 +19,12 @@
 <!ENTITY  backgroundColor.label           "Plano de fundo:">
 <!ENTITY  backgroundColor.accesskey       "P">
 <!ENTITY  useSystemColors.label           "Usar cores do sistema">
-<!ENTITY  useSystemColors.accesskey       "a">
+<!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Sublinhar">
-<!ENTITY  underlineLinks.accesskey        "S">
-<!ENTITY  links                           "Aparência padrão dos links">
-<!ENTITY  linkColor.label                 "Não visitados:">
-<!ENTITY  linkColor.accesskey             "N">
-<!ENTITY  visitedLinkColor.label          "Visitados:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  underlineLinks.label            "Sublinhar links">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "Cores dos links">
+<!ENTITY  linkColor.label                 "Links não visitados:">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Links visitados:">
+<!ENTITY  visitedLinkColor.accesskey      "v">
