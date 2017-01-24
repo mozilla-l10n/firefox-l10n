@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Úsáid eochracha cúrsóra i gcónaí chun bogadh laistigh de leathanaigh">
 <!ENTITY useCursorNavigation.accesskey   "e">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Cuardaigh téacs nuair a thosóidh mé ag clóscríobh">
+<!ENTITY searchOnStartTyping.accesskey   "t">
+<!ENTITY blockAutoReload.label           "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Taispeáin méarchlár tadhaill nuair is gá">
 <!ENTITY useOnScreenKeyboard.accesskey   "m">
 
@@ -61,9 +61,9 @@
 <!ENTITY siteData.label                  "Sonraí an tSuímh">
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "Socruithe…">
+<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataLearnMoreLink.label     "Tuilleadh eolais">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Nuashonrú">
 
+<!ENTITY updateApplication.label         "Nuashonruithe &brandShortName;">
 <!ENTITY updateAuto1.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
