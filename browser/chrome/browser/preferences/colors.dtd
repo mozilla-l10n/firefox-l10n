@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Úsáid mo rogha dathanna thuas in áit na ndathanna atá sonraithe ag an leathanach:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "I gCónaí">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Le téamaí Ardchodarsnachta amháin">

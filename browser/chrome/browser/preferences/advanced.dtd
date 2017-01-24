@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">
-
-
+<!ENTITY checkUserSpelling.label         "Seiceáil litriú le linn clóscríofa">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Roghanna Sonraí">
 
@@ -58,6 +58,8 @@
 <!ENTITY offlineStorage2.label           "Ábhar Gréasáin As Líne agus Sonraí Úsáideora">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "Sonraí an tSuímh">
+
 
 
 
@@ -83,8 +85,8 @@
 
 <!ENTITY updateAuto1.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateCheckChoose.label         "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
+<!ENTITY updateCheckChoose.accesskey     "L">
 <!ENTITY updateManual.label              "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,10 +96,12 @@
 <!ENTITY useService.label                "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Nuashonraigh go huathoibríoch">
 <!ENTITY enableSearchUpdate.label        "Innill Chuardaigh">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
-
+<!ENTITY offlineStorageNotify.label               "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Eisceachtaí…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
@@ -109,11 +113,11 @@
 
 <!ENTITY certificateTab.label            "Teastais">
 <!ENTITY certPersonal.label              "Iarratais">
-
+<!ENTITY certPersonal.description        "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
 <!ENTITY selectCerts.auto                "Roghnaigh go huathoibríoch">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Fiafraigh díom i gcónaí">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Taispeáin Teastais">

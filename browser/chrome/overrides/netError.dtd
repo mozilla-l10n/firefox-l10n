@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Úps.">
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
 
-
+<!ENTITY captivePortal.title "Logáil isteach sa líonra">
+<!ENTITY captivePortal.longDesc "<p>Seans gur gá duit logáil isteach sular féidir leat an tIdirlíon a úsáid.</p>">
 
 <!ENTITY openPortalLoginPage.label "Oscail an Leathanach Logála Isteach">
 
