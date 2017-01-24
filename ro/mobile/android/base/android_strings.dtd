@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Semn de carte">
 <!ENTITY overlay_share_bookmark_btn_label_already "Însemnat deja">
 <!ENTITY overlay_share_send_other "Trimite către alte dispozitive">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
 <!ENTITY overlay_share_no_url "Niciun link nu a fost găsit în această partajare">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Arată istoricul căutărilor">
 <!ENTITY pref_import_options "Opțiuni de importare">
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
+
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
 <!ENTITY pref_private_data_formdata2 "Istoricul formularelor">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "File în coadă">
 <!ENTITY pref_tab_queue_summary4 "Salvează linkuri până la următoarea deschidere a lui &brandShortName;.">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Caută &formatS1; pentru &formatS2;">
 
 <!ENTITY searchable_description "Semne de carte și istoric">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Apasă pentru a descărca">
 
 <!ENTITY updater_downloading_title2 "Se descarcă &brandShortName;">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Apasă pentru a aplica actualizarea odată descărcată">
 <!ENTITY updater_downloading_retry2 "Apasă pentru a reîncerca">
 
-<!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
-<!ENTITY updater_apply_select2 "Apasă pentru a actualiza">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Înlătură">
 <!ENTITY activity_stream_delete_history "Șterge din istoric">
+
+
