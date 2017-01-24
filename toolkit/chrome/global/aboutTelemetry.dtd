@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection " Snáitheanna Reoite">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Cruacha Gafa">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Scálaigh">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection " Histeagraim Eochraithe">
 
+<!ENTITY aboutTelemetry.eventsSection "  Teagmhais">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Tomhais Shimplí">
 

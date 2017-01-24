@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Roghanna an Ionsamhlóra">
 <!ENTITY simulator_remove "Scrios an tIonsamhlóir">
 <!ENTITY simulator_reset "Athchóirigh na Réamhshocruithe">
-
+<!ENTITY simulator_name "Ainm">
 <!ENTITY simulator_software "Bogearra">
 <!ENTITY simulator_version "Leagan">
 <!ENTITY simulator_profile "Próifíl">
