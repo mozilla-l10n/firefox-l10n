@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "ಪುಟ ಗುರುತು">
 <!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
 <!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY overlay_share_no_url "ಈ ಹಂಚಿಕೆಯಲ್ಲಿ ಯಾವುದೇ ಸಂಪರ್ಕ ಕೊಂಡಿ ಸಿಗಲಿಲ್ಲ">
 <!ENTITY overlay_share_select_device "ಸಾಧನವನ್ನು ಆಯ್ಕೆಮಾಡು">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_options "ಆಮದು ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
+
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY pref_private_data_formdata2 "ಇತಿಹಾಸದಿಂದ">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "‍ಹಾಳೆ ಸಾಲು">
 <!ENTITY pref_tab_queue_summary4 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಕೊಂಡಿಗಳನ್ನು ಉಳಿಸು;">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; ಅನ್ನು &formatS2; ಗಾಗಿ ಹುಡುಕಿ">
 
 <!ENTITY searchable_description "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸ">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName; ಗೆ ಉನ್ನತೀಕರಣ ಲಭ್ಯವಿದೆ;">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "ನಕಲಿಳಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ಪರಿಷ್ಕರಣೆಯನ್ನು ಹೊಂದಿಸಲು ನಕ್ಲಲಿಳಿಸಿದ ನಂತರ ಸ್ಪರ್ಶಿಸಿ">
 <!ENTITY updater_downloading_retry2 "ಮರುಪ್ರಯತ್ನಕ್ಕೆ ಸ್ಪರ್ಶಿಸಿ">
 
-<!ENTITY updater_apply_title2 "&brandShortName; ಗೆ ಉನ್ನತೀಕರಣ ಲಭ್ಯವಿದೆ;">
-<!ENTITY updater_apply_select2 "ಪರಿಷ್ಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -837,4 +838,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
