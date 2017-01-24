@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltastane for å navigera innanfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
-
-
+<!ENTITY searchOnStartTyping.label       "Søk etter tekst når eg byrjar å skriva">
+<!ENTITY searchOnStartTyping.accesskey   "k">
 
 
 <!ENTITY useOnScreenKeyboard.label       "Vis eit touch-tastatur når naudsynt">
@@ -59,9 +59,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "Innstillingar…">
+<!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataLearnMoreLink.label     "Les meir">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
