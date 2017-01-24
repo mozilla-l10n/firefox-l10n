@@ -112,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "正常速度">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label     "快速 (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "F">
 <!ENTITY mediaPlaybackRate150.label     "高速 (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "H">
 <!ENTITY mediaPlaybackRate200.label     "双倍速度">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "循环">
+<!ENTITY mediaLoop.accesskey          "o">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

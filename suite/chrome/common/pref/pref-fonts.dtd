@@ -31,6 +31,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
      the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "拉丁文">
 <!ENTITY  font.langGroup.japanese                 "日文">
 <!ENTITY  font.langGroup.trad-chinese             "正体中文（台澎金马）">
 <!ENTITY  font.langGroup.simpl-chinese            "简体中文">
@@ -53,6 +54,12 @@
 <!ENTITY  font.langGroup.khmer                    "高绵文">
 <!ENTITY  font.langGroup.malayalam                "马拉雅拉姆文">
 <!ENTITY  font.langGroup.math                     "数学">
+<!ENTITY  font.langGroup.odia                     "奥里亚语">
+<!ENTITY  font.langGroup.telugu                   "泰卢固语">
+<!ENTITY  font.langGroup.kannada                  "卡纳达语">
+<!ENTITY  font.langGroup.sinhala                  "僧伽罗语">
+<!ENTITY  font.langGroup.tibetan                  "藏语">
+<!ENTITY  font.langGroup.other                    "其他书写系统">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">
