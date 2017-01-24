@@ -86,7 +86,7 @@
 <!ENTITY syncMy.label               "Synchroniser">
 <!ENTITY engine.bookmarks.label     "les marque-pages">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "les onglets">
+<!ENTITY engine.tabs.label2         "les onglets ouverts">
 <!ENTITY engine.tabs.accesskey      "o">
 <!ENTITY engine.history.label       "l’historique">
 <!ENTITY engine.history.accesskey   "r">

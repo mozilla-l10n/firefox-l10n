@@ -45,7 +45,6 @@
 <!ENTITY cmd.resume.label                 "Reprendre">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Annuler">
-<!ENTITY cmd.cancel.accesskey             "A">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share

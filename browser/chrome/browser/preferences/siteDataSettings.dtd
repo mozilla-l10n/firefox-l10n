@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Paramètres - Données des sites">
+<!ENTITY     settings.description          "Les sites suivants ont demandé à stocker des données sur votre disque. Vous pouvez indiquer quels sites sont autorisés à stocker des données. Les données « par défaut » sont temporaires et peuvent être supprimées automatiquement.">
+<!ENTITY     hostCol.label                 "Site">
+<!ENTITY     statusCol.label               "État">
+<!ENTITY     usageCol.label                "Stockage">
+<!ENTITY     search.label                  "Rechercher :">
+<!ENTITY     search.accesskey              "R">

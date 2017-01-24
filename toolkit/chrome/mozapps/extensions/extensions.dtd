@@ -23,6 +23,9 @@
 <!ENTITY showUnsignedExtensions.button.label  "Certaines extensions n’ont pas pu être vérifiées">
 <!ENTITY showAllExtensions.button.label       "Afficher toutes les extensions">
 
+<!ENTITY getThemes.description                "Vous cherchez à personnaliser votre navigateur ?">
+<!ENTITY getThemes.learnMore                  "Faites votre choix parmi des milliers de thèmes.">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tous les modules complémentaires ont été désactivés par le mode sans échec.">
 <!ENTITY warning.checkcompatibility.label          "La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.">
