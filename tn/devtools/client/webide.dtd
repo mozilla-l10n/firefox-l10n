@@ -28,8 +28,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "Gokaganyolola">
 
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Sekerinitsepamo">
 
 
@@ -119,8 +117,6 @@
 
 <!ENTITY prefs_options_keybindings_default "Thulaganyetso ruri">
 
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 

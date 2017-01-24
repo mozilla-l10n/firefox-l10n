@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Fa &brandShortName; &amp; e simolola:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Bontsha Tsebegae yame">
+
 <!ENTITY startupBlankPage.label    "Bontsha tsebe e lolea">
-<!ENTITY startupLastSession.label  "Supa di window le dithebe tsame go tsweng mo nakong e fetileng">
+
 
 <!ENTITY homepage.label            "Gae Tsebe:">
 <!ENTITY homepage.accesskey        "T">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Tlhopha…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Nna o mpotsa ka nako tsotlhe gore di faele di bolokwe kae">
-<!ENTITY alwaysAsk.accesskey "N">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "E dire Thulaganyetsoruri">
