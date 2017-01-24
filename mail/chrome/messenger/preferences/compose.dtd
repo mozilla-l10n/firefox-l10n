@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
+<!ENTITY showAsDefault.label                   "Standardstartkatalog i adressboksfönstret:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Senast använda katalog">
 
 <!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
