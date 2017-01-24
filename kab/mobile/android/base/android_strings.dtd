@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
 
+<!ENTITY overlay_share_open_browser_btn_label "Ldi di &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Sken amazray n unadi">
 <!ENTITY pref_import_options "Kter iɣewwaṛen">
 <!ENTITY pref_import_android_summary "Kter ticraḍ akked umazray seg iminig adigan">
-
+<!ENTITY pref_private_data_openTabs "Iccaren yeldin">
 <!ENTITY pref_private_data_history2 "Amazray n tunigin">
 <!ENTITY pref_private_data_searchHistory "Amazray n unadi">
 <!ENTITY pref_private_data_formdata2 "Amazray n tferkit">
