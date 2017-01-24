@@ -40,9 +40,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Файл сонго…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ф">
 
-
-<!ENTITY cmd.delete.label               "Энэ хуудсыг устга">
-<!ENTITY cmd.delete.accesskey           "т">
 <!ENTITY cmd.deleteDomainData.label     "Энэ хуудсыг март">
 <!ENTITY cmd.deleteDomainData.accesskey "м">
 

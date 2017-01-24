@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; эхлэх үед:">
 <!ENTITY startupPage.accesskey     "э">
-<!ENTITY startupHomePage.label     "Миний эхлэл хуудсыг харуул">
+
 <!ENTITY startupBlankPage.label    "Хоосон хуудас харуул">
-<!ENTITY startupLastSession.label  "Миний сүүлд зорчиж байсан цонх ба самбаруудыг харуул">
+
 
 
 <!ENTITY useCurrentPage.label      "Одоогийн хуудсыг хэрэглэ">
@@ -27,8 +27,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ө">
 <!ENTITY chooseFolderMac.label        "Сонго…">
 <!ENTITY chooseFolderMac.accesskey    "о">
-<!ENTITY alwaysAsk.label "Файл хаана хадгалахыг үргэлж асуу">
-<!ENTITY alwaysAsk.accesskey "ы">
+
+
 
 
 

@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Сэриф">
 <!ENTITY  useDefaultFontSansSerif.label           "Сан Сэриф">
 
-<!ENTITY  allowPagesToUse.label                   "Хуудсанд, миний энэ сонголтын оронд өөрийнхөө үсгийн маягаа хэрэглэхийг зөвшөөр">
-<!ENTITY  allowPagesToUse.accesskey               "д">
+
 
 
 
