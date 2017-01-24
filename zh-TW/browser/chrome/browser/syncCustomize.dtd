@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "瀏覽紀錄">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "開啟分頁">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "密碼">
 <!ENTITY engine.passwords.accesskey       "P">

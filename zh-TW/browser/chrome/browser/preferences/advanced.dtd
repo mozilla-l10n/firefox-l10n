@@ -10,6 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "總是使用鍵盤方向鍵瀏覽網頁（鍵盤瀏覽）">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "需要時顯示觸控鍵盤">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "回報資料">
 
@@ -52,6 +55,12 @@
 <!ENTITY offlineStorage2.label           "離線網頁內容與使用者資料">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "網站資料">
+<!ENTITY clearSiteData.label             "清除所有資料">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "選項…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "了解更多">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -73,6 +82,7 @@
 
 <!ENTITY updateAuto1.label               "自動安裝更新（建議的，保持安全性）">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "不要檢查更新（不建議，可能會有安全性風險）">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,9 +92,12 @@
 <!ENTITY useService.label                "在背景服務當中安裝更新">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "自動更新">
 <!ENTITY enableSearchUpdate.label        "搜尋引擎">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "允許下列網站儲存資料供離線使用:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +106,9 @@
 <!ENTITY offlineAppRemove.confirm        "移除離線資料">
 
 <!ENTITY certificateTab.label            "憑證">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "每次詢問您">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "向 OCSP 回應伺服器查詢，以確認憑證有效性">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "檢視憑證清單">
