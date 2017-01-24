@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Uzish">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Ruxsatlar jadvali">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekran rasmi">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Ishga tushish ma’lumoti">
@@ -139,10 +137,6 @@
 <!ENTITY prefs_options_keybindings "Tugmalar birikmasi">
 <!ENTITY prefs_options_keybindings_default "Standart">
 
-
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Ruxsatlar jadvali">
 
 <!-- Runtime Details -->
 

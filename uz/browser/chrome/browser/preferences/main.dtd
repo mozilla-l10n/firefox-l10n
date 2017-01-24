@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; ishga tushirilganda:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupHomePage.label     "Uy sahifam ko‘rsatilsin">
+
 <!ENTITY startupBlankPage.label    "Bo‘sh sahifa ko‘rsatilsin">
-<!ENTITY startupLastSession.label  "So‘nggi marta ochilgan barcha oynalarim ko‘rsatilsin">
+
 
 <!ENTITY homepage.label            "Uy sahifasi:">
 <!ENTITY homepage.accesskey        "s">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "K">
 <!ENTITY chooseFolderMac.label        "Tanlash">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Fayllarni qayerga saqlash doimo mendan so‘ralsin">
-<!ENTITY alwaysAsk.accesskey "d">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Agar &brandShortName; standart brauzeringiz bo‘lsa, doimo tekshirilsin">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">

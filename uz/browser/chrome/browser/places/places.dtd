@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Faylni tanlash">
 <!ENTITY cmd.restoreFromFile.accesskey  "t">
 
-<!ENTITY cmd.bookmarkLink.label         "Bu sahifani xatchoʻpga qoʻshish">
-<!ENTITY cmd.bookmarkLink.accesskey     "x">
-<!ENTITY cmd.delete.label               "Bu sahifani oʻchirish">
-<!ENTITY cmd.delete.accesskey           "o">
 <!ENTITY cmd.deleteDomainData.label     "Bu saytni unutish">
 <!ENTITY cmd.deleteDomainData.accesskey "u">
 

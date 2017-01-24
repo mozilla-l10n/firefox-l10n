@@ -110,10 +110,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Qo‘shimcha">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> eskirgan, hujumga qarshi zaif xavfsizlik texnologiyasidan foydalanadi. Siz xavfsiz deb o‘ylagan ma’lumotni hujumchi osongina oshkor qilishi mumkin.">
 <!ENTITY weakCryptoAdvanced.override "(Xavfsiz emas) Eskirgan xavfsizlik texnologiyali <span class='hostname'></span> sahifasini yuklab ko‘rish">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p> <span id='wrongSystemTime_URL'/> saytiga xavfsiz ulana olmaydi, chunki tizimdagi soat noto‘g‘riga o‘xshayapti..</p> <p>Kompyuteringiz <span id='wrongSystemTime_systemDate'/> vaqtini noto‘g‘ri deb o‘ylayapti, vaqt <span id='wrongSystemTime_actualDate'/> bo‘lishi kerak. Bu muammoni hal qilish uchun sana va vaqtni to‘g‘rilang.</p>">
 
 <!ENTITY certerror.pagetitle1  "Xavfli ulanish">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ushbu sayt HTTP Strict Transport Security (HSTS)dan &brandShortName; faqat xavfsuz ulanganini  ko‘rsatish uchun foydalanadi. Natija sifatida ushbu sertifikat uchun istisnoni qo‘shib bo‘lmaydi.">

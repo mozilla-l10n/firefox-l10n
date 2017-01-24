@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Maxfiy ko‘rish orqali">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "siz internetda butunlay ko‘rinmas bo‘la olmaysiz.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " aylanmaysiz. Ish beruvchingiz yoki internet ta’minotchisi siz kirgan sahifalarni kuzata oladi.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Maxfiy ko‘rish">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "haqida batafsil ma’lumot">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Kuzatishdan himoyalanish">
 <!ENTITY trackingProtection.description2                 "Ba’zi saytlar internetdagi faoliyatingizni nazorat qilish uchun kuzatkichlardan foydalanishi mumkin. Kuzatishdan himoyalanish xususiyati yordamida Firefox kuzatkichlarni bloklab qo‘yadi. Kuzatkichlar internetdagi faoliyatingiz haqida ma’lumot to‘plashi mumkin.">

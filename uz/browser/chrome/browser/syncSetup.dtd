@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Quyidagilarni sinxronlash:">
 <!ENTITY engine.bookmarks.label     "Xatcho‘plar">
 <!ENTITY engine.bookmarks.accesskey "X">
-<!ENTITY engine.tabs.label          "Ichki oynalar">
-<!ENTITY engine.tabs.accesskey      "I">
+
+
 <!ENTITY engine.history.label       "Tarix">
 <!ENTITY engine.history.accesskey   "T">
 <!ENTITY engine.passwords.label     "Parollar">

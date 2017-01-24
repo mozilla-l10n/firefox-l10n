@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "X">
 <!ENTITY engine.history.label             "Tarix">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Ichki oynalar">
-<!ENTITY engine.tabs.accesskey            "I">
+
+
 <!ENTITY engine.passwords.label           "Parollar">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Ish stoli qo‘shimcha dasturlari">

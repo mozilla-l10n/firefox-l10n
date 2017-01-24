@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "o">
 <!ENTITY toolsMenu.tooltip                    "Barcha qoʻshimcha dasturlar uchun asboblar">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Bir sahifa orqaga qaytish">
 <!ENTITY cmd.forward.tooltip                  "Bir sahifa oldinga oʻtish">
 

@@ -476,8 +476,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "i">
 <!ENTITY openFrameCmd.label           "Kadrni yangi oynada ochish">
 <!ENTITY openFrameCmd.accesskey       "o">
-<!ENTITY openLinkCmdInContainerTab.label "Havolani yangi Konteyner ichki oynasida ochish">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Faqat ushbu kadrni ko‘rsatish">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -755,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Boshqa qurilmalaridagi ichki oynalar ro‘yxatini ko‘rish uchun ichki oynalarni sinxronlashni yoqing.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Ochish">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -768,6 +772,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "x">
 <!ENTITY syncedTabs.context.copy.label                       "Nusxa olish">
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sinxronlash">
