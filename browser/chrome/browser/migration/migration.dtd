@@ -9,7 +9,7 @@
 <!ENTITY importFromUnix.label           "वरीयताएँ, पुस्तचिह्न, इतिहास, कूटशब्द एवं अन्य आंकड़ा यहाँ से आयात करें:">
 <!ENTITY importFromBookmarks.label      "पुस्तचिह्न‌ यहाँ से आयात करें:">
 
-<!ENTITY importFromIE.label             "Microsoft इंटरनेट‌ एक्सप्लोरर">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
