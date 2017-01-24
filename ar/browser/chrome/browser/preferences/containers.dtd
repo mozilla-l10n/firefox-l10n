@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "أضف حاوية جديدة">
 <!ENTITY addButton.accesskey  "ح">
-
-
+<!ENTITY preferencesButton.label "التفضيلات">
+<!ENTITY removeButton.label   "أزِل">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#187; عُد إلى الخصوصية">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "الاسم:">
 <!ENTITY name.accesskey       "س">
-
+<!ENTITY name.placeholder     "أدخِل اسم الحاوية">
 <!ENTITY icon.label           "الأيقونة:">
 <!ENTITY icon.accesskey       "أ">
 <!ENTITY color.label          "اللون:">
