@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "g">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na &brandShortName; hanse a ma ši honga taariki kul.">
 
-<!ENTITY redirectWindowsSearch.label "Goy nda ceecijnaa woo Windows ceeciyaney se">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Cee-foo naaguyan ceecijinawey">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Ceeci zuwoo ga naŋ war ma ceecijinay tanayaŋ zaa dogoo ra. Suuba wey kaŋ ma cebe.">

@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Jalla!">
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
-<!ENTITY captivePortal.title "Huru sankaa ra">
-<!ENTITY captivePortal.longDesc "<p>Sankaa woo ga waažibandi kaŋ war ma huru ka goy nda interneti.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Huruyan moo feeri">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Jinekoyante">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ga goy nda dabaribayray saajaw kaŋ žen nd'a feera zanbayyan se. Zanbakaw ga hin ka tanba ka dii alhabar kaŋ war ga tammahã mma sutura.">
 <!ENTITY weakCryptoAdvanced.override "(Ši saajaw) Ceeci ka <span class='hostname'></span> nda saajaw žeena">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Dobuyan saajante foo <span id='wrongSystemTime_URL'/> ši hin ka tee zam'a ga hima kaŋ war montoraa ga waati laalaa cebe.</p><p>War ordinateroo mma tammahã kaŋ <span id='wrongSystemTime_systemDate'/> no, waati kaŋ a ga hima ka tee <span id='wrongSystemTime_actualDate'/>. Ka layboo woo kaa, war han nda waati kayandiyaney barmay k'i tenjandi nda waati alhakiikantaa.</p>">
 
 <!ENTITY certerror.pagetitle1  "Manti ciyari saajante">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP Strict Transport Security (HSTS) ka tabatandi kaŋ &brandShortName; ka ciya saajante hinne tee a ga. Woo sabboo ra, boro ši hin ka hasaraw tonton tabatiyan-tiiraa woo se.">

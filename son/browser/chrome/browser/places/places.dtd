@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tuku suuba…">
 <!ENTITY cmd.restoreFromFile.accesskey  "s">
 
-<!ENTITY cmd.bookmarkLink.label         "Moɲoo woo šilbay…">
-<!ENTITY cmd.bookmarkLink.accesskey     "l">
-<!ENTITY cmd.delete.label               "Moɲoo woo tuusu">
-<!ENTITY cmd.delete.accesskey           "t">
 <!ENTITY cmd.deleteDomainData.label     "Dirɲa nungoo woo">
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 

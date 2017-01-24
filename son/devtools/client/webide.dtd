@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Ciyari dunbu">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Duɲeyaney daaroo">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Dijibii">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Dirandi waati alhabar">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Tilasu">
 <!ENTITY prefs_options_autosavefiles "Tukey boŋgaabu">
 <!ENTITY prefs_options_autosavefiles_tooltip "Tukey ma gaabundi ngi boŋše jina ka porože dirandi">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Duɲeyaney daaroo">
-<!ENTITY permissionstable_name_header "Maa">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Dirandi waati alhabar">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Himari-cebekaw suubarey">
 <!ENTITY simulator_remove "Himari-cebekaw tuusu">
 <!ENTITY simulator_reset "Tilasey yeeti">
-<!ENTITY simulator_name "Maa">
+
 <!ENTITY simulator_software "Goy porogaram">
 <!ENTITY simulator_version "Dumi">
 <!ENTITY simulator_profile "Alhaali">

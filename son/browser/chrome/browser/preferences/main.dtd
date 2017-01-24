@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Waati kaŋ &brandShortName; ga tun:">
 <!ENTITY startupPage.accesskey     "t">
-<!ENTITY startupHomePage.label     "Ay šintin moɲoo cebe">
+
 <!ENTITY startupBlankPage.label    "Moo koonu cebe">
-<!ENTITY startupLastSession.label  "Ay zanfuney nda cee koraa nor-lokey cebe">
+
 
 <!ENTITY homepage.label            "Šintin moo:">
 <!ENTITY homepage.accesskey        "m">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "G">
 <!ENTITY chooseFolderMac.label        "Suuba…">
 <!ENTITY chooseFolderMac.accesskey    "S">
-<!ENTITY alwaysAsk.label "Ay hãa waati kul nungu kaŋ ra tukey ga jiši">
-<!ENTITY alwaysAsk.accesskey "w">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Guna waati kul wala &brandShortName; ti war tilasu ceecikaa">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">

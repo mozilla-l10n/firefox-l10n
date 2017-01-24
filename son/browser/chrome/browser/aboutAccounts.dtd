@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Kubayni &syncBrand.shortName.label; ga">
-<!ENTITY aboutAccounts.connected "Kontu dobante">
 
 <!ENTITY aboutAccountsConfig.description "Huru ka war kanjey, doo-šilbawey, šennikufaley nda taney hangandi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Soobay">

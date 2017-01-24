@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Sutura naarumi ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ši war maaɲoo tugu">
 <!ENTITY aboutPrivateBrowsing.note.after                 " interneti ra. War goydogoo wala interneti nookaa ga hin ka dii moɲoo kaŋ war n'a guna hala sohõ.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Bay ka tonton a ga">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Sutura naarumi">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Ganayan jejebu">
 <!ENTITY trackingProtection.description2                 "Interneti nungu fooyaŋ ga goy nda kurkawyaŋ kaŋ ga war goyoo lawre interneti bande. Firefox ganayan jejeboo ga kurkaw booboyaŋ ganji i ma ši alhabar marga war ceecikaa aladaboo ga.">

@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Hankul">
 
-<!ENTITY  warnAddonInstall.label        "Ay yaamar waati kaŋ nungey ga wiri ka tontoniyaŋ sinji">
-<!ENTITY  warnAddonInstall.accesskey    "a">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Hasaraw zumandiyaney gagay">
 <!ENTITY  blockDownloads.accesskey        "H">
 
-<!ENTITY  blockUncommonUnwanted.label     "Ay yaamar porogaram kaŋ ši boonandi nda šibayante">
-<!ENTITY  blockUncommonUnwanted.accesskey "b">
+
 
 <!ENTITY  addonExceptions.label         "Hasarawey…">
 <!ENTITY  addonExceptions.accesskey     "H">
