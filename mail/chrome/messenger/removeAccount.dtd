@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc "Fjarlægir aðeins upplýsingar sem &brandShortName; hefur fyrir þennan reikning. Hefur ekki áhrif á reikninginn sjálfan á netþjóninum.">
 <!ENTITY removeData.label "Fjarlægja gögn fyrir skilaboð">
 <!ENTITY removeData.accesskey "ð">
+<!ENTITY removeDataChat.label "Fjarlægja samtalsgögn">
+<!ENTITY removeDataChat.accesskey "">
 <!ENTITY removeDataLocalAccount.desc "Fjarlægir öll skilaboð, möppur og síur fyrir þennan reikning frá staðbundnum diski. Þetta hefur ekki áhrif á skilaboð sem gætu ennþá verið á netþjóni. Ekki velja þetta ef þú ætlar að geyma staðbundin gögn eða endurnota þau í &brandShortName; seinna.">
 <!ENTITY removeDataServerAccount.desc "Fjarlægir öll skilaboð, möppur og síur fyrir þennan reikning frá staðbundnum diski. Skilaboð og möppur verða ennþá til á netþjóni.">
+<!ENTITY removeDataChatAccount.desc "Fjarlægir öll gögn fyrir samtöl á staðbundnum diski sem eru geymd á þessum reikningi.">
 <!ENTITY showData.label "Sýna staðsetningu gagna">
 <!ENTITY showData.accesskey "S">
 <!ENTITY progressPending "Fjarlægi valin gögn…">

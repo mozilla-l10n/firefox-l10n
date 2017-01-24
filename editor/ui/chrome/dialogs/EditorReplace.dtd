@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Breyta öllu">
 <!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Loka">
+<!ENTITY closeButton.accesskey "">
