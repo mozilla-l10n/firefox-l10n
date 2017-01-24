@@ -708,6 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for baixada">
 <!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
 
+<!ENTITY updater_apply_title3 "Baixando atualização para o &brandShortName;">
 <!ENTITY updater_apply_select3 "Tocar para instalar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -854,3 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Excluir do histórico">
 
 <!ENTITY activity_stream_welcome_title "Bem-vindo aos seus Destaques">
+<!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que você descobriu na web para que possa encontrar o caminho de volta para grandes artigos, vídeos, favoritos e outras páginas.">
