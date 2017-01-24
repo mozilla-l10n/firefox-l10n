@@ -62,7 +62,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReduce.label "ลด">
 <!ENTITY menu_textReduce.accesskey "ล">
 <!ENTITY menu_textReset.label "ปกติ">
-<!ENTITY menu_textReset.accesskey "ป">
+<!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
 <!ENTITY findOnCmd.accesskey "ค">
