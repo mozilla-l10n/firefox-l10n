@@ -13,9 +13,22 @@
 <!ENTITY pref.dateformat.long "Дуго" >
 <!ENTITY pref.dateformat.short "Кратко"  >
 
+<!ENTITY pref.timezones.caption "Временска зона">
+<!ENTITY pref.timezones.label "Изаберите најближи град у својој временској зони:">
+<!ENTITY pref.timezones.accesskey "И">
 
+<!ENTITY pref.defaults.label "Подразумеване вредности за нове ставке">
+<!ENTITY pref.events.label "Догађаји">
+<!ENTITY pref.tasks.label "Задаци">
 
+<!ENTITY pref.default_event_length.label "Подразумевано трајање:" >
+<!ENTITY pref.default_event_length.accesskey "е">
 
+<!ENTITY pref.default_task_none.label "Ништа">
+<!ENTITY pref.default_task_start_of_day.label "Почетак дана">
+<!ENTITY pref.default_task_end_of_day.label "Крај дана">
+<!ENTITY pref.default_task_tomorrow.label "Сутра">
+<!ENTITY pref.default_task_next_week.label "Следећа недеља">
 
 
 
