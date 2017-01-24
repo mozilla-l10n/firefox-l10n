@@ -20,4 +20,4 @@
 <!ENTITY tabCrashed.emailMe "Powiadom, gdy będzie dostępne więcej informacji">
 <!ENTITY tabCrashed.reportSent "Raport z awarii został już wysłany. Dziękujemy za pomoc w ulepszaniu programu &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Raportowanie pozostałych kart">
-<!ENTITY tabCrashed.autoSubmit "Automatyczne przesyłanie raportów awarii, łącznie z raportami dla innych kart, które uległy awarii">
+<!ENTITY tabCrashed.autoSubmit2 "Automatyczne przesyłanie raportów awarii, łącznie z raportami dla innych kart, które uległy awarii">
