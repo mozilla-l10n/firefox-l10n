@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Leabharmharcáilte cheana">
 <!ENTITY overlay_share_send_other "Seol chuig gléasanna eile">
 
+<!ENTITY overlay_share_open_browser_btn_label "Oscail in &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Taispeáin stair an chuardaigh">
 <!ENTITY pref_import_options "Roghanna iompórtála">
 <!ENTITY pref_import_android_summary "Iompórtáil leabharmharcanna agus stair ón mbrabhsálaí dúchasach">
-
+<!ENTITY pref_private_data_openTabs "Cluaisíní oscailte">
 <!ENTITY pref_private_data_history2 "Stair bhrabhsála">
 <!ENTITY pref_private_data_searchHistory "Stair chuardaigh">
 <!ENTITY pref_private_data_formdata2 "Stair na bhfoirmeacha">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Cluaisíní dlútha">
+<!ENTITY pref_compact_tabs_summary2 "Cuir cluaisíní in dhá cholún sa mhód portráide">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Déan cuardach ar &formatS2; le &formatS1;">
 
 <!ENTITY searchable_description "Leabharmharcanna agus stair">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_start_select2 "Tapáil chun íosluchtú">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; á íosluchtú">
@@ -700,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tapáil chun an nuashonrú a chur i bhfeidhm tar éis íosluchtaithe">
 <!ENTITY updater_downloading_retry2 "Tapáil chun iarracht eile a dhéanamh">
 
-
+<!ENTITY updater_apply_title3 "Nuashonrú íoslódáilte: &brandShortName;">
+<!ENTITY updater_apply_select3 "Tapáil le suiteáil">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
