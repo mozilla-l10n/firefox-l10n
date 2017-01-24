@@ -41,7 +41,7 @@
 <!ENTITY viewToolbarsMenu.label        "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey      "t">
 <!ENTITY showTaskbarCmd.label          "Bară de stare">
-<!ENTITY showTaskbarCmd.accesskey        "s">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY closeCmd.label      "Închide">
 <!ENTITY closeCmd.key      "w">
