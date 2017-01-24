@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Comportamento da captura de ecrã">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Tirar uma captura de ecrã para a área de transferência">
+<!ENTITY options.screenshot.clipboard.tooltip    "Guarda a captura de ecrã diretamente para a área de transferência">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Reproduz o som do obturador de câmera">
+<!ENTITY options.screenshot.audio.tooltip    "Ativa o som do áudio de câmera ao tirar uma captura de ecrã">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

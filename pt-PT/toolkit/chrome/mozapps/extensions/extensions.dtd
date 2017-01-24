@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os extras">
 
-
+<!ENTITY getThemes.description                "À procura de personalizar o seu navegador?">
+<!ENTITY getThemes.learnMore                  "Escolha de entre centenas de temas.">
 
 <!ENTITY cmd.back.tooltip                     "Retroceder uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">

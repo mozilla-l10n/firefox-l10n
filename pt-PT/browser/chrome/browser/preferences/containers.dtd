@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Adicionar novo contentor">
 <!ENTITY addButton.accesskey  "A">
-
-
+<!ENTITY preferencesButton.label "Preferências">
+<!ENTITY removeButton.label   "Remover">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Voltar para Privacidade">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Nome:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "Introduza um nome de contentor">
 <!ENTITY icon.label           "Ícone:">
 <!ENTITY icon.accesskey       "c">
 <!ENTITY color.label          "Cor:">
