@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "आधीचे वाचनखूण">
 <!ENTITY overlay_share_send_other "इतर उपकरणांना पाठवा">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; मध्ये उघडा">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "शोध इतिहास दर्शवा">
 <!ENTITY pref_import_options "आयात विकल्प">
 <!ENTITY pref_import_android_summary "मूळ ब्राउझरमधून वाचनखूणा आणि इतिहास आयात करा">
-
+<!ENTITY pref_private_data_openTabs "टॅब उघडा">
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
 <!ENTITY pref_private_data_formdata2 "इतिहास मधुन">
@@ -538,6 +539,8 @@ size. -->
 <!ENTITY pref_tab_queue_summary4 "पुढच्यावेळी &brandShortName; उघडे पर्यंत साठवुन ठेवा">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
+<!ENTITY pref_compact_tabs "संक्षिप्त टॅब">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
