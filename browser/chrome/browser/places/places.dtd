@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ഫയല്‍ തെരഞ്ഞെടുക്കുക…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "ഈ താള്‍ അടയാളപ്പെടുത്തുക…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "ഈ താള്‍ വെട്ടിനീക്കുക">
-<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ഉപേക്ഷിക്കുക">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 

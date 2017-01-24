@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "സെറിഫ്">
 <!ENTITY  useDefaultFontSansSerif.label           "സാന്‍സ് സെറിഫ്">
 
-<!ENTITY  allowPagesToUse.label                   "എന്റെ താല്‍പര്യത്തിനു പകരം, താളുകള്‍ സ്വയം ഫോണ്ടുകള്‍ തെരഞ്ഞെടുക്കുവാന്‍ അനുവദിക്കുക. ">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "പരമ്പരാഗത ഉള്ളടക്കത്തിനുള്ള ടെക്സ്റ്റ്‌ എന്‍കോഡിങ്">
 <!ENTITY languages.customize.Fallback2.label      "ഫോള്‍ബാക്ക് ടെക്സ്റ്റ് എന്‍കോഡിങ്:">

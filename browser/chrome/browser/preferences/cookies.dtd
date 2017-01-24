@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "തിരഞ്ഞു കണ്ടെത്തുക">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "അടയ്ക്കുക ">
 <!ENTITY     button.close.accesskey         "C">

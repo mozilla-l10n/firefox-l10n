@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
-<!ENTITY aboutAccounts.connected "അക്കൌണ്ട് ബന്ധിപ്പിച്ചു">
 
 <!ENTITY aboutAccountsConfig.description "ടാബുകള്‍, അടയാളങ്ങള്‍, രഹസ്യവാക്കുകള്‍ മുതലായവ പൊരുത്തപ്പെടുത്താനായി പ്രവേശിക്കുക.">
 <!ENTITY aboutAccountsConfig.startButton.label "തുടങ്ങൂ">

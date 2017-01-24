@@ -750,6 +750,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "തുറക്കുക">
 <!ENTITY syncedTabs.context.open.accesskey                   "ത">
@@ -763,6 +767,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ഈ">
 <!ENTITY syncedTabs.context.copy.label                       "പകര്‍ത്തുക">
 <!ENTITY syncedTabs.context.copy.accesskey                   "പ">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
