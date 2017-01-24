@@ -155,11 +155,12 @@
 <!ENTITY overlay_share_bookmark_btn_label "Zapołožka">
 <!ENTITY overlay_share_bookmark_btn_label_already "Hižo jako zapołožka składowany">
 <!ENTITY overlay_share_send_other "Na druhe graty pósłać">
+
+<!ENTITY overlay_share_open_browser_btn_label "Pola &brandShortName; přizjewić">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Druhemu gratej pósłać">
 <!ENTITY overlay_share_no_url "Žadyn wotkaz w tutym dźělu namakany">
 <!ENTITY overlay_share_select_device "Grat wubrać">
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Pytansku historiju pokazać">
 <!ENTITY pref_import_options "Importowanske nastajenja">
 <!ENTITY pref_import_android_summary "Importujće zapołožki a historiju z prěnjotneho wobhladowaka">
+<!ENTITY pref_private_data_openTabs "Rajtarki wočinić">
 <!ENTITY pref_private_data_history2 "Přehladowanska historija">
 <!ENTITY pref_private_data_searchHistory "Pytanska historija">
 <!ENTITY pref_private_data_formdata2 "Formularna historija">
@@ -535,6 +537,11 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Rajtarkowy čakanski rynk">
 <!ENTITY pref_tab_queue_summary4 "Wotkazy składować, doniž &brandShortName; přichodny raz njewočiniće">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
+<!ENTITY pref_compact_tabs "Kompaktne rajtarki">
+<!ENTITY pref_compact_tabs_summary2 "Rajtarki w dwěmaj špaltomaj we wysokim formaće rjadować">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -698,8 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Dótkńće so, zo byšće aktualizaciju jónkróć sćahnył">
 <!ENTITY updater_downloading_retry2 "Dótkńće so, zo byšće hišće raz spytał">
 
-<!ENTITY updater_apply_title2 "Aktualizacija za &brandShortName; k dispoziciji">
-<!ENTITY updater_apply_select2 "Dótkńće so, zo byšće aktualizował">
+<!ENTITY updater_apply_title3 "Aktualizacija za &brandShortName; sćehnjena">
+<!ENTITY updater_apply_select3 "Dótkńće so, zo byšće instalował">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +850,6 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Zaćisnyć">
 <!ENTITY activity_stream_delete_history "Z historije zhašeć">
+
+<!ENTITY activity_stream_welcome_title "Witajće k swojim wjerškam">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; wutwori nětko wjerški wěcow, kotrež sće w interneće wotkrył, zo byšće puć wróćo k wulkotnym nastawkam, widejam, zapołožkam a druhim stronam namakał.">
