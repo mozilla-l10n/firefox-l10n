@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Gjin">
 <!ENTITY editDirectories.label                 "Directory's bewurkje…">
 <!ENTITY editDirectories.accesskey             "w">
+<!ENTITY showAsDefault.label                   "Standert opstartmap yn it adresboekfinster:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Lêst brûkte map">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrach konfigurearje">
 <!ENTITY sendOptions.label                     "Ferstjoeropsjes…">

@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Alles ferfange">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Slute">
+<!ENTITY closeButton.accesskey "S">
