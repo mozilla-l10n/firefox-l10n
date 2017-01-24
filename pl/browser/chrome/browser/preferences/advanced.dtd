@@ -58,6 +58,7 @@
 <!ENTITY clearSiteData.accesskey "d">
 <!ENTITY siteDataSettings.label "Ustawienia…">
 <!ENTITY siteDataSettings.accesskey "U">
+<!ENTITY siteDataLearnMoreLink.label "Więcej informacji">
 
 <!ENTITY limitCacheSizeBefore.label      "Ogranicz pamięć podręczną do ">
 <!ENTITY limitCacheSizeBefore.accesskey  "z">
