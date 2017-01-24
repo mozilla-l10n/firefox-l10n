@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Gushakisha:">
-<!ENTITY     filter.accesskey               "s">
+
 
 <!ENTITY     button.close.label             "Gufunga">
 <!ENTITY     button.close.accesskey         "f">
