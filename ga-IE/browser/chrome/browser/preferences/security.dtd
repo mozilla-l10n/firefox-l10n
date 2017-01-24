@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Ginearálta">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
+<!ENTITY  warnOnAddonInstall.accesskey    "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Cuir cosc ar íosluchtuithe contúirteacha">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Tabhair rabhadh dom faoi bhogearraí neamhchoitianta nó bogearraí gan iarraidh">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eisceachtaí…">
 <!ENTITY  addonExceptions.accesskey     "E">
