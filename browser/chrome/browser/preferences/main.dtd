@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Ge &brandShortName; e thoma:">
 <!ENTITY startupPage.accesskey     "t">
-<!ENTITY startupHomePage.label     "Laetša letlakala la ka la gae">
+
 <!ENTITY startupBlankPage.label    "Laetša letlakala le se nago selo">
-<!ENTITY startupLastSession.label  "Laetša mafasetere le dithepo tša ka tša nakong e fetilego">
+
 
 <!ENTITY homepage.label            "Letlakala la gae:">
 <!ENTITY homepage.accesskey        "L">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Kgetha…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Ka mehla mpotšiše moo go swanetšego go bolokelwa gona">
-<!ENTITY alwaysAsk.accesskey "K">
+
+
 
 
 

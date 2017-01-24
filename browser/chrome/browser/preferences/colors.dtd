@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Ka mehla">
+<!ENTITY  overrideDefaultPageColors.always.label "Ka mehla">
 
-<!ENTITY  overridePageColors.never.label  "Le gatee">
+<!ENTITY  overrideDefaultPageColors.never.label  "Le gatee">
 
 <!ENTITY  color                           "Sengwalwa le bokamorago">
 <!ENTITY  textColor.label                 "Sengwalwa:">
