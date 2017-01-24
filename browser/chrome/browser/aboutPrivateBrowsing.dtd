@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "व्यक्तिगत ब्राउझिंग ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "आपणास निनावी बनवीत नाही">
 <!ENTITY aboutPrivateBrowsing.note.after                 " इंटरनेट वर. आपला नियोक्त्याला किंवा इंटरनेट सेवा प्रदात्याला आपण भेट दिलेल्या पृष्ठांची माहिती असते.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "याबाबत अधिक जाणून घ्या">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "व्यक्तिगत ब्राउझिंग">
+
+
+
 
 <!ENTITY trackingProtection.title                        "मागोवा सुरक्षा">
 <!ENTITY trackingProtection.description2                 "काही वेबसाइट्स ट्रॅकर्सचा वापर करून इंटरनेटवरच्या आपल्या गतिविधींचे निरीक्षण करू शकतात. ट्रॅकिंग संरक्षण वापरल्यास Firefox अनेक trackers अवरोधित करेल जे आपल्या ब्राउझिंग वर्तनाची माहिती गोळा करतात.">
