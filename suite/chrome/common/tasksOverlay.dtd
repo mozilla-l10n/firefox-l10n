@@ -14,6 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "Hibakonzol">
 <!ENTITY errorConsoleCmd.accesskey "k">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "Böngésző">
 <!ENTITY taskComposer.tooltip "HTML-szerkesztő">

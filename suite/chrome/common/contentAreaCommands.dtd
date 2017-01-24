@@ -112,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "L">
 <!ENTITY mediaPlaybackRate100.label     "Normál sebesség">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label     "Enyhe gyorsítás (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "E">
 <!ENTITY mediaPlaybackRate150.label     "Gyorsítás (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "G">
 <!ENTITY mediaPlaybackRate200.label     "Dupla sebesség">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "Ismétlés">
+<!ENTITY mediaLoop.accesskey          "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
