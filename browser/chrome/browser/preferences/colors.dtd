@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "पानाले तोकेको रङलाई मैले माथि छनोट गरेको रङले बिस्थापित गर्नुहोस्।">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "सधैँ">
-<!ENTITY  overridePageColors.auto.label   "उच्च कन्ट्र्यास्ट आवरणहरूसँग मात्र">
-<!ENTITY  overridePageColors.never.label  "कहिले पनि होइन">
+
+<!ENTITY  overrideDefaultPageColors.always.label "सधैँ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "उच्च कन्ट्र्यास्ट आवरणहरूसँग मात्र">
+<!ENTITY  overrideDefaultPageColors.never.label  "कहिले पनि होइन">
 
 <!ENTITY  color                           "पाठ र पृष्ठभूमि">
 <!ENTITY  textColor.label                 "पाठ:">

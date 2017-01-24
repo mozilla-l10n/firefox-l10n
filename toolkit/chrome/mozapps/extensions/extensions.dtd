@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सबै एडअनहरूको लागि उपकरणहरू">
 
+
+
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
 

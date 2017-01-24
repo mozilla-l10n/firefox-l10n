@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "खोज गर्नुहोस्:">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "बन्द गर्नुहोस्">
 <!ENTITY     button.close.accesskey         "C">

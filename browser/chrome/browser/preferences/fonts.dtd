@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ">
 <!ENTITY  useDefaultFontSansSerif.label           "सान सेरिफ">
 
-<!ENTITY  allowPagesToUse.label                   "मेरा माथिका छनोटको ठाउँमा पेजको आफ्नै अक्षरहरू छान्न दिनुहोस् ">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरानो सामग्रीको लागि वर्ण संकेतन">
 <!ENTITY languages.customize.Fallback2.label      "निवर्तमान र पाठ सङ्केतन">

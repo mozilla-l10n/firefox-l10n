@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "जब &brandShortName; सुरु हुन्छ:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "मेरो गृह पृष्ठ देखाउनुहोस्">
+
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
-<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो सञ्झ्याल र ट्याबहरू देखाउनुहोस्">
+
 
 <!ENTITY homepage.label            "गृह पृष्ठः">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चयन...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "मलाई फाइलहरू कँहा सङ्ग्रह गर्ने भनेर सधैँ सोध्नुहोस्">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "सधैं &brandShortName; आफ्नो पूर्वनिर्धारित ब्राउजर हो भन्ने बारे जाँच गर्नुहोस्">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

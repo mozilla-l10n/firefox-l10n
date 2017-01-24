@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड ह्याङ्ग हुन्छ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  अदिष्टहरू">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरू">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  प्रमुख हिस्टोग्राम">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
 
