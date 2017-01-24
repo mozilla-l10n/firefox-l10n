@@ -505,7 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "दृश्य वर्णन">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "विडीओ दृष्य">
+<!ENTITY viewVideoCmd.label           "व्हिडीओ दृष्य">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "पार्श्वभूमीतील चित्राचे दृष्य">
 <!ENTITY viewBGImageCmd.accesskey     "w">
@@ -539,7 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "व्हिडिओ ईमेल करा…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "उपकरणांना चित्रफीत पाठवा">
+<!ENTITY castVideoCmd.label           "उपकरणांना व्हिडीओ पाठवा">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ऑडिओ ईमेल करा…">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -553,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "प्रतिमाचे प्रत बनवा">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "विडीओ ठिकाणाचे प्रत बनवा">
+<!ENTITY copyVideoURLCmd.label        "व्हिडीओ ठिकाणाचे प्रत बनवा">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ऑडिओ ठिकाणाचे प्रत बनवा">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
