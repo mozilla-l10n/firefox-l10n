@@ -29,6 +29,7 @@
 <!ENTITY pref.default_task_end_of_day.label "Крај дана">
 <!ENTITY pref.default_task_tomorrow.label "Сутра">
 <!ENTITY pref.default_task_next_week.label "Следећа недеља">
+<!ENTITY pref.default_task_offset_current.label "Релативно тренутном времену">
 
 
 
