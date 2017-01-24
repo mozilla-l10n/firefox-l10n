@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Indstillinger for alle tilføjelser">
 
+<!ENTITY getThemes.description                "Vil du gøre din browser mere personlig?">
+<!ENTITY getThemes.learnMore                  "Vælg mellem tusindvis af temaer.">
+
 <!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
 <!ENTITY cmd.forward.tooltip                  "Gå en side frem">
 

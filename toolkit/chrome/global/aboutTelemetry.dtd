@@ -99,6 +99,10 @@ Ping
   Tråd-frysninger
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Stakke
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalarer
 ">
@@ -113,6 +117,10 @@ Ping
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Indtastede histogrammer
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Begivenheder
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
