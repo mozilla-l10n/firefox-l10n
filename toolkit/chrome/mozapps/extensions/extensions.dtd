@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Instrumente pentru toate suplimentele">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Mergi cu o pagină în urmă">
 <!ENTITY cmd.forward.tooltip                  "Mergi cu o pagină înainte">
 

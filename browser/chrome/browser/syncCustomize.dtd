@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Istoric">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "File">
-<!ENTITY engine.tabs.accesskey            "F">
+
+
 <!ENTITY engine.passwords.label           "Parole">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Suplimente pentru desktop">

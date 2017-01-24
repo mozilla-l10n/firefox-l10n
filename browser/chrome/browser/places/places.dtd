@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Alege fișierul…">
 <!ENTITY cmd.restoreFromFile.accesskey  "l">
 
-<!ENTITY cmd.bookmarkLink.label         "Însemnează această pagină…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Șterge această pagină">
-<!ENTITY cmd.delete.accesskey           "t">
 <!ENTITY cmd.deleteDomainData.label     "Uită totul despre acest site">
 <!ENTITY cmd.deleteDomainData.accesskey "d">
 

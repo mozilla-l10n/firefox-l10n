@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Când &brandShortName; pornește:">
 <!ENTITY startupPage.accesskey     "n">
-<!ENTITY startupHomePage.label     "Arată pagina mea de start">
+
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
-<!ENTITY startupLastSession.label  "Arată ferestrele și filele de ultima dată">
+
 
 <!ENTITY homepage.label            "Pagina de start:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Întreabă-mă întotdeauna unde să se salveze fișierele">
-<!ENTITY alwaysAsk.accesskey "a">
+
+
 
 <!ENTITY alwaysCheckDefault2.label        "Verifică întotdeauna dacă &brandShortName; este browserul implicit">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
