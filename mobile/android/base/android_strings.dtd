@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "पुस्तचिह्न">
 <!ENTITY overlay_share_bookmark_btn_label_already "पहले ही बुकमार्क">
 <!ENTITY overlay_share_send_other "अन्य साधनों पर भेजें">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "अन्य साधन पर भेजें">
 <!ENTITY overlay_share_no_url "इस शेयर में कोई कड़ी नही पायी गई">
 <!ENTITY overlay_share_select_device "साधन चुनें">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएँ">
 <!ENTITY pref_import_options "आयात विकल्प">
 <!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
+
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "टैब पंक्तिबद्ध">
 <!ENTITY pref_tab_queue_summary4 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते हैं">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; को &formatS2; के लिए खोजें">
 
 <!ENTITY searchable_description "पुस्तचिह्न और इतिहास">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "डाउनलोड करने के लिए छुएँ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; का डाउनलोड जारी">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड होने पर अद्यतन लागू करने के लिए छुएँ">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयास के लिए छुएँ">
 
-<!ENTITY updater_apply_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
-<!ENTITY updater_apply_select2 "अद्ययन के लिए छुएँ">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "खारिज करें">
 <!ENTITY activity_stream_delete_history "इतिहास मिटाएँ">
+
+
