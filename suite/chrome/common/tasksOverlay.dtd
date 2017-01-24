@@ -14,6 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "網頁瀏覽器">
 <!ENTITY taskComposer.tooltip "設計師">
