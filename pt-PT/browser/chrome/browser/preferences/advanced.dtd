@@ -14,7 +14,7 @@
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY blockAutoReload.label           "Avisar-me se os websites tentarem redirecionar ou recarregar a página">
 <!ENTITY blockAutoReload.accesskey       "b">
-<!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado touch quando necessário">
+<!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado de toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
 <!ENTITY browsing.label                  "Navegação">

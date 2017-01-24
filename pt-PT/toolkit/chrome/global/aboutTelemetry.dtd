@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Pilhas capturadas">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 
