@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Ieškoti:">
-<!ENTITY     filter.accesskey               "e">
+
 
 <!ENTITY     button.close.label             "Užverti">
 <!ENTITY     button.close.accesskey         "U">

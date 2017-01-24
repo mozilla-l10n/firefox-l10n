@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "d">
 <!ENTITY toolsMenu.tooltip                    "Visiems priedams taikomos priemonės">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
 <!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
 

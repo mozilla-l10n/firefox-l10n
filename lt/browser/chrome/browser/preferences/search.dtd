@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "a">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „&brandShortName;“ niekada nevestų žurnalo.">
 
-<!ENTITY redirectWindowsSearch.label "Naudoti šią ieškyklę paieškoms iš „Windows“">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Vieno paspaudimo paieškos sistemos">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Paieškos laukas leidžia ieškoti tiesiogiai per alternatyvias sistemas. Pasirinkite, kurias norėtumėte matyti.">

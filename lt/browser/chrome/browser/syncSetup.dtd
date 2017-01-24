@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sinchronizuoti:">
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "d">
-<!ENTITY engine.tabs.label          "korteles">
-<!ENTITY engine.tabs.accesskey      "k">
+
+
 <!ENTITY engine.history.label       "žurnalą">
 <!ENTITY engine.history.accesskey   "ž">
 <!ENTITY engine.passwords.label     "slaptažodžius">

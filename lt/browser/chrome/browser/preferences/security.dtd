@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Bendrosios">
 
-<!ENTITY  warnAddonInstall.label        "Įspėti, kai svetainė bando diegti priedą">
-<!ENTITY  warnAddonInstall.accesskey    "p">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Blokuoti pavojingus atsiuntimus">
 <!ENTITY  blockDownloads.accesskey        "p">
 
-<!ENTITY  blockUncommonUnwanted.label     "Įspėti mane apie nepageidaujamą ir neįprastą programinę įrangą">
-<!ENTITY  blockUncommonUnwanted.accesskey "p">
+
 
 <!ENTITY  addonExceptions.label         "Išimtys…">
 <!ENTITY  addonExceptions.accesskey     "I">
