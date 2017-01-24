@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ସମସ୍ତ ଏଡ-ଅନ ପାଇଁ ସାଧନ">
 
+
+
 <!ENTITY cmd.back.tooltip                     "ଗୋଟିଏ ପୃଷ୍ଠା ପଛକୁ ଯାଆନ୍ତୁ">
 <!ENTITY cmd.forward.tooltip                  "ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ">
 

@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "ଯେତେବେଳେ &brandShortName; ଆରମ୍ଭହୁଏ:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "ମୋର ମୂଳ ପୃଷ୍ଠା ଦର୍ଶାନ୍ତୁ">
+
 <!ENTITY startupBlankPage.label    "ଗୋଟିଏ ଖାଲି ପୃଷ୍ଠା ଦର୍ଶାନ୍ତୁ">
-<!ENTITY startupLastSession.label  "ଗତ ଥରରୁ ମୋର ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+
 
 <!ENTITY homepage.label            "ମୂଳ ପୃଷ୍ଠା:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ବାଛନ୍ତୁ…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ଫାଇଲଗୁଡ଼ିକୁ କେଉଁଠି ସଂରକ୍ଷଣ କରାଯିବ ତାହା ସର୍ବାଦା ମୋତେ ପଚାରନ୍ତୁ">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "ଏହାକୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ କରନ୍ତୁ">

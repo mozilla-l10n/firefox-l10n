@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "ନିମ୍ନଲିଖିତଗୁଡ଼ିକୁ Sync କରନ୍ତୁ">
 <!ENTITY engine.bookmarks.label     "ଚିହ୍ନିତ ସ୍ଥାନ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ଟ୍ୟାବ">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "ପ୍ରବେଶ ସଂକେତ">

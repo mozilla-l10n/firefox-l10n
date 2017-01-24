@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "ସର୍ବଦା">
+<!ENTITY  overrideDefaultPageColors.always.label "ସର୍ବଦା">
 
-<!ENTITY  overridePageColors.never.label  "କଦାପି ନୁହଁ">
+<!ENTITY  overrideDefaultPageColors.never.label  "କଦାପି ନୁହଁ">
 
 <!ENTITY  color                           "ପାଠ୍ୟ ଏବଂ ପୃଷ୍ଠଭୂମି">
 <!ENTITY  textColor.label                 "ପାଠ୍ୟ:">
