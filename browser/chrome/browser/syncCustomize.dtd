@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "B">
 <!ENTITY engine.history.label             "Historikk">
 <!ENTITY engine.history.accesskey         "H">
-<!ENTITY engine.tabs.label                "Faner">
-<!ENTITY engine.tabs.accesskey            "F">
+
+
 <!ENTITY engine.passwords.label           "Passord">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Utvidelser fra desktopversjonen">

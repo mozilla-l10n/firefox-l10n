@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerker">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Faner">
-<!ENTITY engine.tabs.accesskey      "F">
+
+
 <!ENTITY engine.history.label       "Historikk">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Passord">

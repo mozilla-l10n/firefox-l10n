@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Overstyr fargene som oppgis av nettsiden med mine valg ovenfor:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "Alltid">
-<!ENTITY  overridePageColors.auto.label   "Bare ved bruk av høykontrast-temaer">
-<!ENTITY  overridePageColors.never.label  "Aldri">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Alltid">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Bare ved bruk av høykontrast-temaer">
+<!ENTITY  overrideDefaultPageColors.never.label  "Aldri">
 
 <!ENTITY  color                           "Tekst og bakgrunn">
 <!ENTITY  textColor.label                 "Tekst:">
