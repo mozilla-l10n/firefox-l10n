@@ -9,7 +9,7 @@
 
 
 
-<!ENTITY  overridePageColors.never.label  "Аны хаһан да">
+<!ENTITY  overrideDefaultPageColors.never.label  "Аны хаһан да">
 
 <!ENTITY  color                           "Тиэкис уона фон">
 <!ENTITY  textColor.label                 "Тиэкис:">

@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Сүрүн">
 
-<!ENTITY  warnAddonInstall.label        "Ситим-сирдэр эбиискэлэри туруораары гыннахтарына сэрэтэргэ">
-<!ENTITY  warnAddonInstall.accesskey    "э">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

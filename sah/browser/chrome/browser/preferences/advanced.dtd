@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Курсор клавишаларын сирэйдэри көрөргө куруук туттарга">
 <!ENTITY useCursorNavigation.accesskey   "к">
-<!ENTITY searchStartTyping.label         "Тиэкиһи киллэрэ турдахха көрдөөн киирэн бар">
-<!ENTITY searchStartTyping.accesskey     "а">
-<!ENTITY blockAutoRefresh.label          "Ситим-сирдэр атын сиргэ ыытаары эбэтэр хос хачайданаары гыннахтарына сэрэтээр">
-<!ENTITY blockAutoRefresh.accesskey      "-">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "п">
 <!ENTITY allowHWAccel.label              "Кыаллар буоллаҕына аппараат түргэтиини туһан">
 <!ENTITY allowHWAccel.accesskey          "п">
-<!ENTITY checkSpelling.label             "Таба суруйуутун суруйа олордохпуна тургут">
-<!ENTITY checkSpelling.accesskey         "т">
+
+
 
 <!ENTITY dataChoicesTab.label            "Дааннайдары талыы">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Кээстэммит ситим-контент">
 
 <!ENTITY offlineStorage2.label           "Холбоммокко көстөр ситим-контент уонна тус дааннайдар">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Саҥардыылар">
 
-<!ENTITY updateApp.label                 "&brandShortName; саҥардыылара:">
 <!ENTITY updateAuto1.label               "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
 <!ENTITY updateAuto1.accesskey           "т">
-<!ENTITY updateCheck.label               "Саҥардыылар баалларын көрөр буол, ол гынан баран туруорары миигиттэн ыйыт">
-<!ENTITY updateCheck.accesskey           "ҥ">
+
+
 <!ENTITY updateManual.label              "Саҥардыылар баалларын көрбөт буол (сүбэ: бу кутталы улаатыннарар)">
 <!ENTITY updateManual.accesskey          "ҥ">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Саҥардыылары туруорарга фон сулууспаны туһан">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY updateOthers.label              "Аптамаатынан саҥарт:">
 <!ENTITY enableSearchUpdate.label        "Көрдүүр систиэмэлэр плагииннара">
 <!ENTITY enableSearchUpdate.accesskey    "п">
 
-<!ENTITY offlineNotify.label             "Ситим-сир холбоммокко үлэлииргэ анаан хачайданаары гыннаҕына биллэрээр">
-<!ENTITY offlineNotify.accesskey         "-">
-<!ENTITY offlineNotifyExceptions.label   "Туорааһыннар...">
-<!ENTITY offlineNotifyExceptions.accesskey "Т">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Туорааһыннар...">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "Т">
 
 <!ENTITY offlineAppsList2.label          "Бу ситим-сирдэр холбоммокко үлэлииргэ анаан хачайданыахтарын сөп:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Сэртипикээттэр">
 
-<!ENTITY certSelection.description       "Сиэрбэр тус сэртипикээти көрдөөтөҕүнэ:">
-<!ENTITY certs.auto                      "Аптамаатынан ыыт">
 
-<!ENTITY certs.ask                       "Сырыы аайы ыйыт">
+<!ENTITY selectCerts.auto                "Аптамаатынан ыыт">
+
+
 
 
 

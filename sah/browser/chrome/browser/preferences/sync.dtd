@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Миэннэрин синхроннаа">
 <!ENTITY engine.bookmarks.label     "Бэлиэтээһиннэр">
 <!ENTITY engine.bookmarks.accesskey "т">
-<!ENTITY engine.tabs.label          "Кыбытыктар">
-<!ENTITY engine.tabs.accesskey      "К">
+
+
 <!ENTITY engine.history.label       "Сурунаал">
 <!ENTITY engine.history.accesskey   "а">
 <!ENTITY engine.passwords.label     "Киирии тыллар">

@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Көрдөөһүн:">
-<!ENTITY     filter.accesskey               "К">
+
 
 <!ENTITY     button.close.label             "Сап">
 <!ENTITY     button.close.accesskey         "С">

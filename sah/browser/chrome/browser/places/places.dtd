@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Билэни талыы…">
 <!ENTITY cmd.restoreFromFile.accesskey  "т">
 
-<!ENTITY cmd.bookmarkLink.label         "Бу сирэйи бэлиэ-кыбытыкка киллэр...">
-<!ENTITY cmd.bookmarkLink.accesskey     "Б">
-<!ENTITY cmd.delete.label               "Бу сирэйи сот">
-<!ENTITY cmd.delete.accesskey           "Б">
 <!ENTITY cmd.deleteDomainData.label     "Бу ситим-сири умнарга">
 <!ENTITY cmd.deleteDomainData.accesskey "Б">
 

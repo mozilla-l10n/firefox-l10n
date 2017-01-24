@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "с">
 <!ENTITY toolsMenu.tooltip                    "Бары эбиискэлэргэ аналлаах тэриллэр">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Бу иннинээҕи сирэйгэ">
 <!ENTITY cmd.forward.tooltip                  "Бу кэннинээҕи сирэйгэ">
 

@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Холбуурга &brandShortName;:">
 <!ENTITY startupPage.accesskey     "б">
-<!ENTITY startupHomePage.label     "Дьиэ сирэйи көрдөр">
+
 <!ENTITY startupBlankPage.label    "Кураанах сирэйи көрдөр">
-<!ENTITY startupLastSession.label  "Ааспыкка аһыллыбыт түннүктэри уонна кыбытыктары көрдөр">
+
 
 <!ENTITY homepage.label            "Дьиэ сирэй:">
 <!ENTITY homepage.accesskey        "с">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "р">
 <!ENTITY chooseFolderMac.label        "Тал…">
 <!ENTITY chooseFolderMac.accesskey    "а">
-<!ENTITY alwaysAsk.label "Билэни киллэрэргэ куруук ыйыт">
-<!ENTITY alwaysAsk.accesskey "Б">
+
+
 
 
 

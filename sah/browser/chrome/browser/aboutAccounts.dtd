@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; Эйигин көрсөр">
 
-
 <!ENTITY aboutAccountsConfig.description "Кыбытыктаргын, киирии тылларгын, уонна да атыны тэҥнииргэ ааккын билиһиннэр.">
 <!ENTITY aboutAccountsConfig.startButton.label "Саҕалааһын">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Sync эргэ барылын туһанаҕын дуо?">
