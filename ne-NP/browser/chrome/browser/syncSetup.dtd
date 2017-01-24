@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "मेरो Sync">
 <!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ट्याबहरू">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "गोप्यशब्दहरू">

@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "इतिहास">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "ट्याबहरू">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "गोप्यशब्दहरू">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "डेस्कटप एडअनहरू">

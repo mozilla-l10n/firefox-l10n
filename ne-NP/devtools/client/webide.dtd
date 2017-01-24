@@ -31,8 +31,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "विच्छेद">
 
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनसट">
 
 
@@ -132,8 +130,6 @@
 <!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारित">
 
 
-<!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "नाम">
 <!-- Runtime Details -->
 
 
@@ -183,7 +179,7 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_reset "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
-<!ENTITY simulator_name "नाम">
+
 
 <!ENTITY simulator_version "संस्करण">
 

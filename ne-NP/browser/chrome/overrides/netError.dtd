@@ -30,8 +30,7 @@
 <!ENTITY generic.title "ओहो।">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणले यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
-<!ENTITY captivePortal.title "सञ्जालमा लगइन गर्नुहोस्">
-<!ENTITY captivePortal.longDesc "<p> यो नेटवर्क इन्टरनेटमा प्रयोग गर्न लगिन गर्न आवश्यक हुन सक्छ। </p>">
+
 
 <!ENTITY openPortalLoginPage.label "लगइन पृष्ठ खोल्नुहोस्">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "अग्रसर">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
 <!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोडगर्न प्रयास गर्नुहोस्">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p> <span id='wrongSystemTime_URL'/> मा सुरक्षित जडान सम्भव छैन किनभने तपाईँको घडीले गलत समय देखाएको जस्तो देखिन्छ।</p><p>तपाईँको कम्पयुटरले यो सोच्दै छ <span id='wrongSystemTime_systemDate'/> जब कि यो <span id='wrongSystemTime_actualDate'/>हुनु पर्थ्यो। यो समस्या समाधान गर्न, तपाईँको मिति र समय सेटिङहरूलाई सही समयमा परिवर्तन गर्नुहोस्।</p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यो साइटले &brandShortName; मात्र सुरक्षित जडान गर्न सक्छ भन्ने निर्दिष्ट गर्न  HTTP Strict Transport Security (HSTS) प्रयोग गर्छ । फलस्वरूप, यो प्रमाणपत्रको लागि अपवाद थप्न सम्भव छैन।">
