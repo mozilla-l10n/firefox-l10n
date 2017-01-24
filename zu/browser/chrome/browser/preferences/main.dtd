@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Lapho i-&brandShortName; iqala:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupHomePage.label     "Bonisa ikhasi lami eliyisiqalo">
+
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elinganalutho">
-<!ENTITY startupLastSession.label  "Bonisa amawindi wami namathebhu wesikhathi esedlule">
+
 
 <!ENTITY homepage.label            "Ikhasi eliyisiqalo:">
 <!ENTITY homepage.accesskey        "I">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "m">
 <!ENTITY chooseFolderMac.label        "Khetha…">
 <!ENTITY chooseFolderMac.accesskey    "a">
-<!ENTITY alwaysAsk.label "Ngihlale ngibuzwa ukuthi amafayela agcinwe kuphi">
-<!ENTITY alwaysAsk.accesskey "N">
+
+
 
 
 

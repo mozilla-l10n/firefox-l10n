@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sync into yami">
 <!ENTITY engine.bookmarks.label     "Izimpawu zokubekisa">
 <!ENTITY engine.bookmarks.accesskey "w">
-<!ENTITY engine.tabs.label          "Amathebhu">
-<!ENTITY engine.tabs.accesskey      "a">
+
+
 <!ENTITY engine.history.label       "Umlando">
 <!ENTITY engine.history.accesskey   "n">
 <!ENTITY engine.passwords.label     "Amagama Okungena">
