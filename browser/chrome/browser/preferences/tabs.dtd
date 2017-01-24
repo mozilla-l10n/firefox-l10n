@@ -8,10 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Em vez de abrir novas janelas, abrir novas abas">
 <!ENTITY newWindowsAsTabs.accesskey   "j">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "Avisar quando fechar várias abas">
+<!ENTITY warnOnCloseMultipleTabs.label      "Avisar quando fechar múltiplas abas">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Avisar que quando abrir muitas abas, o &brandShortName; pode ficar lento">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "Quando abrir um link em uma nova aba, alterne para ela imediatamente">
+<!ENTITY switchLinksToNewTabs.accesskey    "u">
 
 <!ENTITY showTabsInTaskbar.label          "Mostrar a visualização das abas na barra de tarefas do Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "v">
