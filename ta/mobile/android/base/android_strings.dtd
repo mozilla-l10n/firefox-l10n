@@ -386,7 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றை காண்பி">
 <!ENTITY pref_import_options "இறக்குமதி விருப்பங்கள்">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
-
+<!ENTITY pref_private_data_openTabs "கீற்றைத் திற">
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
 <!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
-
+<!ENTITY updater_apply_select3 "நிறுவுவதற்குத் தொடவும்">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
