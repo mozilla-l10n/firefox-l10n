@@ -11,8 +11,8 @@
 
 
 
-<!ENTITY blockAutoRefresh.label          "Ntsibosa fa di webosaete di leka tlhamalatso sešwa kgotsa tsenyo sešwa tsebe">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
 
 
 
@@ -41,6 +41,12 @@
 
 
 <!ENTITY connection.label                "Kgolagano">
+
+
+
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
 
 
 
@@ -89,9 +95,9 @@
 <!ENTITY certificateTab.label            "Ditifikeiti">
 
 
-<!ENTITY certs.auto                      "Tlhopha e le nngwe ka boitiriso">
+<!ENTITY selectCerts.auto                "Tlhopha e le nngwe ka boitiriso">
 
-<!ENTITY certs.ask                       "Mpotse ka dinako tsotlhe">
+
 
 
 
