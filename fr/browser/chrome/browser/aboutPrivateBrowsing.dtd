@@ -24,8 +24,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "La navigation privée ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ne vous rend pas anonyme">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sur Internet. Votre fournisseur d’accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "En savoir plus sur la">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "navigation privée">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "En savoir plus sur la ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navigation privée">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protection contre le pistage">
 <!ENTITY trackingProtection.description2                 "Certains sites web utilisent des mouchards pour pister votre activité sur Internet. Avec la protection contre le pistage, Firefox bloquera de nombreux mouchards capables de collecter des informations sur votre comportement en ligne.">

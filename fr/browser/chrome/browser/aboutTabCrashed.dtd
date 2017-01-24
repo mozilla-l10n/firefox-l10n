@@ -19,4 +19,4 @@
 <!ENTITY tabCrashed.restoreTab "Restaurer cet onglet">
 <!ENTITY tabCrashed.restoreAll "Restaurer tous les onglets plantés">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Envoyer les rapports pour les onglets non actifs">
-<!ENTITY tabCrashed.autoSubmit "Modifier les préférences pour envoyer automatiquement les rapports de plantage en attente (et voir moins de messages comme celui-ci par la suite)">
+<!ENTITY tabCrashed.autoSubmit2 "Modifier les préférences pour envoyer automatiquement les rapports de plantage, y compris les rapports pour les onglets non actifs qui ont planté au cours de cette session ou des prochaines">
