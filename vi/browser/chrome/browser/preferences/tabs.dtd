@@ -5,14 +5,11 @@
 
 
 
-<!ENTITY warnCloseMultipleTabs.label  "Cảnh báo khi đóng nhiều thẻ">
-<!ENTITY warnCloseMultipleTabs.accesskey  "b">
 
-<!ENTITY warnOpenManyTabs.label       "Cảnh báo khi mở nhiều tab có thể khiến &brandShortName; bị chậm đi">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY switchToNewTabs.label        "Khi mở một liên kết trong một tab mới, chuyển sang tab đó ngay lập tức">
-<!ENTITY switchToNewTabs.accesskey    "y">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "e">

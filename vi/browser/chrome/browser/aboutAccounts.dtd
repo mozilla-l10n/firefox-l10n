@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Chào mừng đến với &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Tài khoản đã kết nối">
 
 <!ENTITY aboutAccountsConfig.description "Đăng nhập để đồng bộ các thẻ, trang đánh dấu, mật khẩu và các phần khác.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bắt đầu">

@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Đồng Bộ">
 <!ENTITY engine.bookmarks.label     "Trang ưa thích (m)">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Thẻ">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "Lịch sử (r)">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Mật khẩu">

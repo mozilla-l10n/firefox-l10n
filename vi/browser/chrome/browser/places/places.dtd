@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Chọn Tập Tin…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Đánh Dấu Trang Này…">
-<!ENTITY cmd.bookmarkLink.accesskey     "N">
-<!ENTITY cmd.delete.label               "Xóa Trang Này">
-<!ENTITY cmd.delete.accesskey           "X">
 <!ENTITY cmd.deleteDomainData.label     "Quên Trang Này">
 <!ENTITY cmd.deleteDomainData.accesskey "Q">
 

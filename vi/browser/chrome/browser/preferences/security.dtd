@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Tổng quát">
 
-<!ENTITY  warnAddonInstall.label        "Cảnh báo tôi khi có trang web cố cài các tiện ích (W)">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

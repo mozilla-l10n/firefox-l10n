@@ -28,8 +28,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "Ngắt kết nối">
 
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Chụp màn hình">
 
 
@@ -119,8 +117,6 @@
 
 <!ENTITY prefs_options_keybindings_default "Mặc định">
 
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 

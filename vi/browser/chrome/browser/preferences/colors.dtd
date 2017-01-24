@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Luôn luôn">
+<!ENTITY  overrideDefaultPageColors.always.label "Luôn luôn">
 
-<!ENTITY  overridePageColors.never.label  "Không bao giờ">
+<!ENTITY  overrideDefaultPageColors.never.label  "Không bao giờ">
 
 <!ENTITY  color                           "Văn bản và Nền">
 <!ENTITY  textColor.label                 "Văn bản:">

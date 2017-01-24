@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Khi &brandShortName; khởi động:">
 <!ENTITY startupPage.accesskey     "K">
-<!ENTITY startupHomePage.label     "Vào trang chủ của tôi">
+
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
-<!ENTITY startupLastSession.label  "Mở lại các cửa sổ và thẻ lần trước của tôi">
+
 
 <!ENTITY homepage.label            "Trang chủ:">
 <!ENTITY homepage.accesskey        "c">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "y">
 <!ENTITY chooseFolderMac.label        "Chọn…">
 <!ENTITY chooseFolderMac.accesskey    "n">
-<!ENTITY alwaysAsk.label "Luôn hỏi tôi nơi lưu tập tin">
-<!ENTITY alwaysAsk.accesskey "L">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "Đặt làm mặc định">

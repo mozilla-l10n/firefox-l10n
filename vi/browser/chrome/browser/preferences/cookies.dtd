@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Tìm kiếm:">
-<!ENTITY     filter.accesskey               "m">
+
 
 <!ENTITY     button.close.label             "Đóng">
 <!ENTITY     button.close.accesskey         "g">
