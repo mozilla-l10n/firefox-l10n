@@ -50,6 +50,12 @@
 
 
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -82,8 +88,8 @@
 
 
 
-<!ENTITY offlineNotifyExceptions.label   "Онцгой нөхцөл…">
-<!ENTITY offlineNotifyExceptions.accesskey "ц">
+<!ENTITY offlineStorageNotifyExceptions.label     "Онцгой нөхцөл…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ц">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Устга…">
@@ -92,10 +98,10 @@
 
 <!ENTITY certificateTab.label            "Гэрчилгээ">
 
-<!ENTITY certSelection.description       "Хэрэв вэб хуудас миний гэрчилгээг шаардвал:">
-<!ENTITY certs.auto                      "Нэгийг автоматаар сонго">
 
-<!ENTITY certs.ask                       "Тухай бүрд надаас асуу">
+<!ENTITY selectCerts.auto                "Нэгийг автоматаар сонго">
+
+
 
 
 
