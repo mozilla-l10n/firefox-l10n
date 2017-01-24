@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avisar-me se os websites tentarem redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado touch quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Se disponível, utilizar aceleração de hardware">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Corrigir ortografia ao escrever">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Escolhas de dados">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Conteúdo web em cache">
 
 <!ENTITY offlineStorage2.label           "Conteúdo web offline e dados do utilizador">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Atualização">
 
-<!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria de segurança)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Procurar atualizações, mas deixar-me escolher se as pretendo instalar">
-<!ENTITY updateCheck.accesskey           "c">
+
+
 <!ENTITY updateManual.label              "Nunca procurar atualizações (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Utilizar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "t">
 
-<!ENTITY updateOthers.label              "Atualizar automaticamente:">
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Avisar-me quando um website pedir para guardar dados para uso no modo offline">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Exceções…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Os seguintes websites têm permissão para guardar dados para uso no modo offline:">
 <!ENTITY offlineAppsList.height          "8em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Remover dados offline">
 
 <!ENTITY certificateTab.label            "Certificados">
-<!ENTITY certSelection.label             "Pedidos">
-<!ENTITY certSelection.description       "Quando um servidor solicitar o meu certificado pessoal:">
-<!ENTITY certs.auto                      "Selecionar um automaticamente">
-<!ENTITY certs.auto.accesskey            "u">
-<!ENTITY certs.ask                       "Perguntar sempre">
-<!ENTITY certs.ask.accesskey             "g">
+<!ENTITY certPersonal.label              "Pedidos">
+
+<!ENTITY selectCerts.auto                "Selecionar um automaticamente">
+
+
+
 <!ENTITY enableOCSP.label                "Utilizar os servidores de resposta OCSP para confirmar a validade de certificados">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Ver certificados">

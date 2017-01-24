@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir novas janelas em novo separador">
 <!ENTITY newWindowsAsTabs.accesskey   "j">
 
-<!ENTITY warnCloseMultipleTabs.label  "Avisar ao fechar uma janela com vários separadores">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Avisar-me se a abertura de vários separadores puder tornar o &brandShortName; lento">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchToNewTabs.label        "Mostrar imediatamente o separador ao abrir uma nova ligação">
-<!ENTITY switchToNewTabs.accesskey    "s">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Pré-visualizar separadores na barra de tarefas do Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "s">
