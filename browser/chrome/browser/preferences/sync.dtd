@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcapaginas">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Onglets">
-<!ENTITY engine.tabs.accesskey      "O">
+
+
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "los senhals">

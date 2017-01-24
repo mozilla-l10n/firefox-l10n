@@ -37,12 +37,14 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Blocatges dels fials d'execucion">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 

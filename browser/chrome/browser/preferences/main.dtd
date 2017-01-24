@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "A l'aviada de &brandShortName; :">
 <!ENTITY startupPage.accesskey     "v">
-<!ENTITY startupHomePage.label     "Afichar ma pagina d'acuèlh">
+
 <!ENTITY startupBlankPage.label    "Afichar una pagina voida">
-<!ENTITY startupLastSession.label  "Afichar los onglets e fenèstras utilizats lo darrièr còp">
+
 
 <!ENTITY homepage.label            "Pagina d'acuèlh :">
 <!ENTITY homepage.accesskey        "a">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Causir…">
 <!ENTITY chooseFolderMac.accesskey    "C">
-<!ENTITY alwaysAsk.label "Demandar totjorn ont cal enregistrar los fichièrs">
-<!ENTITY alwaysAsk.accesskey "t">
+
+
 
 
 

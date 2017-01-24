@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Totjorn">
+<!ENTITY  overrideDefaultPageColors.always.label "Totjorn">
 
-<!ENTITY  overridePageColors.never.label  "Pas jamai">
+<!ENTITY  overrideDefaultPageColors.never.label  "Pas jamai">
 
 <!ENTITY  color                           "Tèxte e rèireplan">
 <!ENTITY  textColor.label                 "Tèxte :">
