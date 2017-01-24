@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Nyaka:">
-<!ENTITY     filter.accesskey               "N">
+
 
 <!ENTITY     button.close.label             "Tswalela">
 <!ENTITY     button.close.accesskey         "T">

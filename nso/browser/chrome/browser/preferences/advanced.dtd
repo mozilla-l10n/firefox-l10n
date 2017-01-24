@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala">
 <!ENTITY useCursorNavigation.accesskey   "k">
-<!ENTITY searchStartTyping.label         "Nyaka mongwalo ge ke thoma go tlanya">
-<!ENTITY searchStartTyping.accesskey     "w">
-<!ENTITY blockAutoRefresh.label          "Ntemoše ge diwepesaete di leka go laela gape goba go hlahlela letlakala gape">
-<!ENTITY blockAutoRefresh.accesskey      "p">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "r">
 <!ENTITY allowHWAccel.label              "Diriša kgatelelo ya hatewere ge e le gona">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Dikgetho tša tsebišo">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Dikagare tša wepe tše nago le polokelo-tsebišo">
 
 <!ENTITY offlineStorage2.label           "Dikagare tša wepe tšego sego inthaneteng le tsebišo ya modiriši">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Kaonafatšo">
 
-<!ENTITY updateApp.label                 "Dimpshafatšo tša &brandShortName;">
 <!ENTITY updateAuto1.label               "Lokela dimpshafatšo ka maitirišo (e a hlohleletšwa; tšhireletšego yeo e kaonafaditšwego)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Lekola dimpshafatšo, eupša e re ke kgethe ge eba ke tla di lokela">
-<!ENTITY updateCheck.accesskey           "a">
+
+
 <!ENTITY updateManual.label              "O se ke wa lekola dimpshafatšo (ga e hlohleletšwe, kotsi ya tšhireletšego)">
 <!ENTITY updateManual.accesskey          "O">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Diriša tirelo ya bokamorago gore o lokele dimpshafatšo">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Mpshafatša ka maitirišo:">
 <!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Mpotše ge wepesaete e kgopela go boloka tsebišo gore e e diriše e se inthaneteng">
-<!ENTITY offlineNotify.accesskey         "M">
-<!ENTITY offlineNotifyExceptions.label   "Maarogi…">
-<!ENTITY offlineNotifyExceptions.accesskey "a">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Maarogi…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList2.label          "Diwepesaete tše latelago di dumeletšwe go boloka tsebišo bakeng sa go e diriša e se inthaneteng:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Ditifikeiti">
 
-<!ENTITY certSelection.description       "Ge seabi se kgopela setifikeiti sa ka:">
-<!ENTITY certs.auto                      "Kgetha e tee ka maitirišo">
 
-<!ENTITY certs.ask                       "Mpotšiše nako le nako">
+<!ENTITY selectCerts.auto                "Kgetha e tee ka maitirišo">
+
+
 
 
 

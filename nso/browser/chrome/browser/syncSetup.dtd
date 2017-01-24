@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sync yaka">
 <!ENTITY engine.bookmarks.label     "Dipukutshwayo">
 <!ENTITY engine.bookmarks.accesskey "s">
-<!ENTITY engine.tabs.label          "Dithepo">
-<!ENTITY engine.tabs.accesskey      "t">
+
+
 <!ENTITY engine.history.label       "Histori">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Mantšuphetišo">

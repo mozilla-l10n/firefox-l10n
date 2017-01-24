@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Nyalantšha yaka">
 <!ENTITY engine.bookmarks.label     "Dipukutshwayo">
 <!ENTITY engine.bookmarks.accesskey "s">
-<!ENTITY engine.tabs.label          "Dithepo">
-<!ENTITY engine.tabs.accesskey      "t">
+
+
 <!ENTITY engine.history.label       "Histori">
 <!ENTITY engine.history.accesskey   "i">
 <!ENTITY engine.passwords.label     "Mantšuphetišo">

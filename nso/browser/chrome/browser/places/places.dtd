@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Kgetha faele…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Pukuswaya letlakala le...">
-<!ENTITY cmd.bookmarkLink.accesskey     "P">
-<!ENTITY cmd.delete.label               "Phumola letlakala le">
-<!ENTITY cmd.delete.accesskey           "P">
 <!ENTITY cmd.deleteDomainData.label     "Lebala ka saete ye">
 <!ENTITY cmd.deleteDomainData.accesskey "a">
 
