@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Rusange">
 
-<!ENTITY  warnAddonInstall.label        "Kumenyesha imbuga nizigerageza kwinjizamo imigereka">
-<!ENTITY  warnAddonInstall.accesskey    "m">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

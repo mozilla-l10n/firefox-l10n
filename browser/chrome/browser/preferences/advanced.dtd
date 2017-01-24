@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji">
 <!ENTITY useCursorNavigation.accesskey   "r">
-<!ENTITY searchStartTyping.label         "Gushaka umwandiko nintangira kwandika">
-<!ENTITY searchStartTyping.accesskey     "s">
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "I">
 
 
-<!ENTITY checkSpelling.label             "Kugenzura imyandikire uko ngenda nandika">
-<!ENTITY checkSpelling.accesskey         "g">
+
+
 
 
 
@@ -48,6 +48,12 @@
 <!ENTITY connectionDesc.label            "Kugena uko &brandShortName; yinjira kuri Interineti">
 <!ENTITY connectionSettings.label        "Amagenamiterere...">
 <!ENTITY connectionSettings.accesskey    "g">
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
 
 
 <!-- LOCALIZATION NOTE:
@@ -94,9 +100,9 @@
 <!ENTITY certificateTab.label            "Ibyemezo">
 
 
-<!ENTITY certs.auto                      "Guhitamo kimwe mu buryo bwikora">
+<!ENTITY selectCerts.auto                "Guhitamo kimwe mu buryo bwikora">
 
-<!ENTITY certs.ask                       "Mbaza buri gihe">
+
 
 
 

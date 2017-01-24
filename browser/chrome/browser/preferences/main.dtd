@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; nitangira:">
 <!ENTITY startupPage.accesskey     "n">
-<!ENTITY startupHomePage.label     "Kwerekana paji ndasukirwaho yanjye">
+
 <!ENTITY startupBlankPage.label    "Kwerekana paji itanditsweho">
-<!ENTITY startupLastSession.label  "Kwerekana amadirishya n'udufishi byanjye mu gihe giheruka">
+
 
 
 <!ENTITY useCurrentPage.label      "Koresha Paji Iriho">
@@ -27,8 +27,8 @@
 <!ENTITY chooseFolderWin.accesskey    "h">
 <!ENTITY chooseFolderMac.label        "Guhitamo...">
 <!ENTITY chooseFolderMac.accesskey    "h">
-<!ENTITY alwaysAsk.label "Kumbaza buri aho kubika dosiye">
-<!ENTITY alwaysAsk.accesskey "b">
+
+
 
 
 
