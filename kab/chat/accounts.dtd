@@ -4,10 +4,10 @@
 <!-- Account manager window for Instantbird -->
 
 <!ENTITY accounts.title                      "Imiḍanen - &brandShortName; ">
-<!ENTITY accountManager.width                "450 ">
+<!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                "Addad n tirawt taskudant ">
-<!ENTITY accountsWindow2.style               "width: 41em; height: 27em; ">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Amiḍan amaynut ">
 <!ENTITY accountManager.newAccount.accesskey "A">
