@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "میون كریو سینك">
 <!ENTITY engine.bookmarks.label     "نشان زَد">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ٹیبس">
-<!ENTITY engine.tabs.accesskey      "T">
+
+
 <!ENTITY engine.history.label       "تٲریخ">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "&amp; خُفیئ لفظ">

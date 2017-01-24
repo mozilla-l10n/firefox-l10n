@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ڈیسکنیکٹْہ کْریو">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "اجازت جدول">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شاٹ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "رن ٹایم اِنفو">
@@ -139,10 +137,6 @@
 <!ENTITY prefs_options_keybindings "کی باینڈینگ">
 <!ENTITY prefs_options_keybindings_default "ڈیفالٹ">
 
-
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "اجازت ٹیبْل">
 
 <!-- Runtime Details -->
 

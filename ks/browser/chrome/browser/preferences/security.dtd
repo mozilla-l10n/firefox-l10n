@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "عام">
 
-<!ENTITY  warnAddonInstall.label        "می۪ی كریو آگاہ یل۪ی سایٹئ ایڈ آن اِنسٹال كرنچ كوشش كرئن">
-<!ENTITY  warnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

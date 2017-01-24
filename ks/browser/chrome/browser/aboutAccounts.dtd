@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "خوش آمدید &syncBrand.shortName.label; منز">
 
-
 <!ENTITY aboutAccountsConfig.description "سایِن اِن کْریو سینک کرنْہ باپت پنْن ٹیب، بوکمارْک، پاس وْارڈ تْہ باقی۔">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع کْریو">
 <!ENTITY aboutAccountsConfig.useOldSync.label "سینکُک قدیم وْرجن چھیواہ استعمال کران؟">

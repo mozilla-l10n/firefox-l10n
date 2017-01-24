@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "یل۪ی برینڈ لكُٹ ناو شروع گژھ۪ی">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "میون ہوم صفحئ ہٲویو">
+
 <!ENTITY startupBlankPage.label    "خٲلی صفحئ ہٲویو">
-<!ENTITY startupLastSession.label  "میٖن وِنڈوز تئ ٹیبس ہٲویو پتم۪ی لٹ۪ی پ۪یٹھئ">
+
 
 <!ENTITY homepage.label            "ہوم صفحئ">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ژٲریو">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "می۪ی پر۪یژھیو ہمیشئ فایل كَت۪یتھ چھَ محفوظ تھاوِن">
-<!ENTITY alwaysAsk.accesskey "A">
+
+
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "ڈیفالٹْہ بنأیو &amp;">

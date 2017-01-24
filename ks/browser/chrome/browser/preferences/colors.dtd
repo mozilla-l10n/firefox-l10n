@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "۳۸ em">
 <!ENTITY  window.macWidth                 "۴۱ em">
 
-<!ENTITY  overridePageColors.label        "پیج ذریعہ مخصوص کرنْہ آمْت رنگ کْریو اوور رایڈ ہْیرکْنئ میانیو سیلیکشنو سْیت:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "پریتھ وِزِ">
-<!ENTITY  overridePageColors.auto.label   "صرف ہاے کنٹراسٹْہ تھیمن سْیت">
-<!ENTITY  overridePageColors.never.label  "زانہہ نْہ">
+
+<!ENTITY  overrideDefaultPageColors.always.label "پریتھ وِزِ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "صرف ہاے کنٹراسٹْہ تھیمن سْیت">
+<!ENTITY  overrideDefaultPageColors.never.label  "زانہہ نْہ">
 
 <!ENTITY  color                           "مواد تئ پس۪ی منظر">
 <!ENTITY  textColor.label                 "مواد">

@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "كرسر كیز كریو ہمیشیئ استیمال صفحئ وَچھنئ خٲطرئ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "مواد ژھٲنڈیو یل۪ی بئ ٹایپِنگ كرئ شروع">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "می۪ی كریو آگاہ یل۪ی ویب سایٹس صفحئ  ری ڈایریكٹ یا ری لوڈ كرنچ كوشش كرَن">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ہارڈ ویر اكسیلریشن كریو استیمال یل۪ی دستیاب آس۪ی">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "مین حجئ وچھیو یل۪ی بئ ٹایپ كَرئ">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "ڈاٹا چویسْہ">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "ویب مواد كریو كیش">
 
 <!ENTITY offlineStorage2.label           "اوفیس ویب مواد تئ استیمال كرئن وٲل سُند ڈاٹا">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "اپ ڈیٹ ">
 
-<!ENTITY updateApp.label                 "برینڈ لكُٹ ناو;  ااپڈیٹس">
 <!ENTITY updateAuto1.label               "پانٲی كریواپڈیٹس اِنسٹال(مشورئ بہتر حفاظت كر۪یتھ)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "اپڈيٹس وچھیو، مگر م۪ی۪ی دیو وَچھنئ تِم چھا اِنسٹال كر۪ین كِنئ نئ">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "زہِن مئ وچھیو اپڈیٹس (چھُ نئ مشوَرئ یوان دِنئ، حفٲظتی خطراتاو كِن)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "پانٲی كریو اپڈیٹ">
 <!ENTITY enableSearchUpdate.label        "ژھانڈ اِ نجن">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "می۪ی ونیو یل۪ی ویب سایٹ آفلاین استیمال خٲطرئ ڈاٹا كر۪ی جمع">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "غٲر مومول">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "غٲر مومول">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "یمن ویب سایٹن چھُ اجازت ڈاٹا جمع تھاونُك آفلاین استیمال خٲطرئ">
 <!ENTITY offlineAppsList.height          "۷ایم">
@@ -105,11 +108,11 @@
 
 <!ENTITY certificateTab.label            "سرٹیفیکٹس ">
 
-<!ENTITY certSelection.description       "یل۪ی سرور مین زٲتی سرٹیفیكیٹ خٲطرئ درخواست كر۪ی">
-<!ENTITY certs.auto                      "اكھ ژٲریو پٲنیی">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "می۪ی پریژھیو پر۪یتھ لٹ۪ی">
-<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY selectCerts.auto                "اكھ ژٲریو پٲنیی">
+
+
+
 <!ENTITY enableOCSP.label                "کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز">
 <!ENTITY enableOCSP.accesskey            "ک">
 <!ENTITY viewCerts.label                 "سرٹیفیٹ  وچھیو">

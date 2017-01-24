@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "تٲریخ">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "ٹیبس">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "&amp; خُفیئ لفظ">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "ڈیسْک ٹاپ ایڈ۔آن &amp;">

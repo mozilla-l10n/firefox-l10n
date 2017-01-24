@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "f">
 
-<!ENTITY     filter.label                   "ژھانڈ:">
-<!ENTITY     filter.accesskey               "S">
+
 
 <!ENTITY     button.close.label             "بند  ">
 <!ENTITY     button.close.accesskey         "C">
