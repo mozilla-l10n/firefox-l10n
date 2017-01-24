@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "نئے حامل کا اضافہ کریں">
 <!ENTITY addButton.accesskey  "ا">
-
-
+<!ENTITY preferencesButton.label "ترجیحات">
+<!ENTITY removeButton.label   "ہٹائیں">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "رازداری کی طرف واپس جاَیں؛ &#171;">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "نام:">
 <!ENTITY name.accesskey       "ن">
-
+<!ENTITY name.placeholder     "ایک حامل نام داخل کریں">
 <!ENTITY icon.label           "آئکن:">
 <!ENTITY icon.accesskey       "آ">
 <!ENTITY color.label          "رنگ:">

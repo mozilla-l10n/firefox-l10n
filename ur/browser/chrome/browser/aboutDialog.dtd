@@ -97,7 +97,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے-  ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "کے بارے میں مزیدسیکھیں">
 
 <!ENTITY update.applying            "تازہ کاری لگائیں ...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

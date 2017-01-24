@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "ت">
 <!ENTITY cmd.resume.label                 "پھر جاری کریں">
 <!ENTITY cmd.resume.accesskey             "پ">
-
+<!ENTITY cmd.cancel.label                 "منسوخ کریں">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share

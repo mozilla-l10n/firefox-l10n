@@ -30,6 +30,7 @@
 <!ENTITY generic.title "اف">
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
+<!ENTITY captivePortal.title "نیٹ ورک میں لاگ ان کریں">
 
 
 <!ENTITY openPortalLoginPage.label "لاگ ان صفحہ کھولیں">

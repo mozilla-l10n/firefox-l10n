@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "ن">
 <!ENTITY engine.history.label             "سابقات">
 <!ENTITY engine.history.accesskey         "س">
-
-
+<!ENTITY engine.tabs.label2               "ٹیب کھولیں">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "پاس ورڈ">
 <!ENTITY engine.passwords.accesskey       "پ">
 <!ENTITY engine.addons.label              "ڈیسک ٹاپ ایڈ اون">

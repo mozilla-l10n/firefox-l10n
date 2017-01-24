@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "نجی براوزنگ ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "آپ کو گمنام نہیں بناتا">
 <!ENTITY aboutPrivateBrowsing.note.after                 " انٹرنیٹ پر۔ آپ کی کمپنی یا انٹرنیٹ سروس مہیا کنندہ آپ کے دیکھے گئے صفحات کی پھر بھی سراغ راہ لگا سکتے ہیں۔">
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "کہ بارے میں مزید سیکھیں">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "نجی براوزنگ">
 
 
 <!ENTITY trackingProtection.title                        "سراغ کاری حفاظت">

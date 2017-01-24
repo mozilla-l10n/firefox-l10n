@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "سملیٹر اختیارات">
 <!ENTITY simulator_remove "سملیٹر حذف کریں">
 <!ENTITY simulator_reset "طےشدہ بحال کریں">
-
+<!ENTITY simulator_name "نام">
 <!ENTITY simulator_software "سافٹ ویئر">
 <!ENTITY simulator_version "ورژن">
 <!ENTITY simulator_profile "پروفائل">
