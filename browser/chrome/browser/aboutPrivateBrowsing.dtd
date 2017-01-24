@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjer deg ikkje anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgjevaren eller Internettleverandøren din kan framleis sjå kva for sider du vitjar.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Les meir om">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privat nettlesing">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Les meir om">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privat nettlesing">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Sporingsvern">
 <!ENTITY trackingProtection.description2                 "Nokre nettstadar brukar sporfølgjarar som kan overvaka aktiviteten din over heile netet. Med sporingsvern vil Firefox blokkera mange sporfølgjarar som kan samla inn informasjon om surfevanane dine.">

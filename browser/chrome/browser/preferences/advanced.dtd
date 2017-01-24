@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltastane for å navigera innanfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
-<!ENTITY searchStartTyping.label         "Søk etter tekst når eg byrjar å skriva">
-<!ENTITY searchStartTyping.accesskey     "ø">
-<!ENTITY blockAutoRefresh.label          "Åtvar meg når nettsider freistar å omdirigera eller lasta sida på nytt">
-<!ENTITY blockAutoRefresh.accesskey      "Å">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Vis eit touch-tastatur når naudsynt">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
-<!ENTITY checkSpelling.label             "Kontroller staving medan eg skriv">
-<!ENTITY checkSpelling.accesskey         "K">
+
+
 
 <!ENTITY dataChoicesTab.label            "Datainnstillingar">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Snøgglagra nettinnhald">
 
 <!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
-<!ENTITY updateApp.label                 "&brandShortName; oppdateringar:">
 <!ENTITY updateAuto1.label               "Automatisk installer oppdateringar (tilrådd: betre tryggleik)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velja når eg vil installera dei">
-<!ENTITY updateCheck.accesskey           "S">
+
+
 <!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
 <!ENTITY updateManual.accesskey          "d">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installera oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
-<!ENTITY updateOthers.label              "Oppdater automatisk:">
 <!ENTITY enableSearchUpdate.label        "Søkjemotorar">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-<!ENTITY offlineNotify.label             "Fortel meg når ein nettstad ber om å lagra data for fråkopla bruk">
-<!ENTITY offlineNotify.accesskey         "F">
-<!ENTITY offlineNotifyExceptions.label   "Unntak…">
-<!ENTITY offlineNotifyExceptions.accesskey "U">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Unntak…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
 <!ENTITY offlineAppsList2.label          "Følgjande nettstad har løyve til å lagra data for fråkopla bruk:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Slett fråkopla-data">
 
 <!ENTITY certificateTab.label            "Sertifikat">
-<!ENTITY certSelection.label             "Førespurnadar">
-<!ENTITY certSelection.description       "Når ein nettstad ber om det personlege sertifikatet mitt:">
-<!ENTITY certs.auto                      "Vel eit automastisk">
-<!ENTITY certs.auto.accesskey            "e">
-<!ENTITY certs.ask                       "Spør meg kvar gong">
-<!ENTITY certs.ask.accesskey             "S">
+<!ENTITY certPersonal.label              "Førespurnadar">
+
+<!ENTITY selectCerts.auto                "Vel eit automastisk">
+
+
+
 <!ENTITY enableOCSP.label                "Spør OCSP-tenarar om å stadfesta gyldigheita til sertifikat">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Vis sertifikat">
