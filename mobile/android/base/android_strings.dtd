@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "புத்தகக்குறி">
 <!ENTITY overlay_share_bookmark_btn_label_already "புத்தகக்குறி உள்ளது">
 <!ENTITY overlay_share_send_other "பிற கருவிகளுக்கு அனுப்பு">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "மற்றொரு கருவிக்கு அனுப்பு">
 <!ENTITY overlay_share_no_url "இப்பகிர்வில் எவ்வித தொடுப்பும் இல்லை">
 <!ENTITY overlay_share_select_device "சாதனத்தை தேர்">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றை காண்பி">
 <!ENTITY pref_import_options "இறக்குமதி விருப்பங்கள்">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
+
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
 <!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "கீற்று வரிசை">
 <!ENTITY pref_tab_queue_summary4 "அடுத்த முறை &brandShortName; திறக்கும் வரை இணைப்புகளைச் சேமி.">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2; க்காக &formatS1; ஐ தேடு">
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "&brandShortName;விற்கு புதுபித்தல் கிடைக்கிறது">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
-<!ENTITY updater_apply_title2 "&brandShortName;விற்கு புதுபித்தல் கிடைக்கிறது">
-<!ENTITY updater_apply_select2 "புதுப்பிக்க தொடவும்">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "நிராகரி">
 <!ENTITY activity_stream_delete_history "வரலாற்றிலிருந்து அழி">
+
+
