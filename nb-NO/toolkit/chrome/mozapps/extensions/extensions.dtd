@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidelser">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Gå tilbake en side">
 <!ENTITY cmd.forward.tooltip                  "Gå frem en side">
 

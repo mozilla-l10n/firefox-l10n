@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>">
 
-<!ENTITY captivePortal.title "Logg på nettverket">
-<!ENTITY captivePortal.longDesc "<p>Dette nettverket krever kanskje at du logger inn for å få tilgang til internett.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Åpne innloggingsside">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avansert">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt hente ut informasjon som du tror er trygg.">
 <!ENTITY weakCryptoAdvanced.override "(Ikke sikker) Prøv å laste <span class='hostname'></span> med utdatert sikkerhet.">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>En trygg tilkobling til <span id='wrongSystemTime_URL'/> er ikke mulig, fordi klokken ser ut til å vise feil tid.</p> <p>Datamaskinen din tror at klokka er <span id='wrongSystemTime_systemDate'/>, når den burde være <span id='wrongSystemTime_actualDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
