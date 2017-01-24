@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Ukubhrawuza Kwangasese">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "akukwenzi ungaziwa igama lakho">
 <!ENTITY aboutPrivateBrowsing.note.after                 "kwi-intanethi. Umqeshi wakho okanye umnikezeli wakho we-Intanethi useza kuwazi amaphepha owatyelelayo.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Funda okungakumbi nge">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Ukubhrawuza Kwangasese">
+
+
+
 
 <!ENTITY trackingProtection.title                        "Itreka Ukhuseleko">
 <!ENTITY trackingProtection.description2                 "Ezinye iiwebhsayithi zisebenzisa iitreka ezinokubek' esweni into oyenzayo kuyo yonke i-intanethi. Ngokhuseleko lokuTreka iFirefox iya kubloka iitreka ezininzi ezinokuqokelelayo inkcazelo ngendlela obrawuza ngayo.">

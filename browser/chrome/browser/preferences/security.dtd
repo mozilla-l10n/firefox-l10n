@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Jikelele">
 
-<!ENTITY  warnAddonInstall.label        "Ndilumkise xa iisayithi zizama ukufakela izongezelelo">
-<!ENTITY  warnAddonInstall.accesskey    "l">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Bloka ukudawnlowuda okuyingozi">
 <!ENTITY  blockDownloads.accesskey        "u">
 
-<!ENTITY  blockUncommonUnwanted.label     "Ndilumkise ngesoftwe engafunwayo nengaqhelekanga">
-<!ENTITY  blockUncommonUnwanted.accesskey "a">
+
 
 <!ENTITY  addonExceptions.label         "Izinxaxhi…">
 <!ENTITY  addonExceptions.accesskey     "I">

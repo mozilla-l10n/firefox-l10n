@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Khetha Ifayili…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Faka ibhukhmakhi kweli khasi …">
-<!ENTITY cmd.bookmarkLink.accesskey     "F">
-<!ENTITY cmd.delete.label               "Cima eli khasi">
-<!ENTITY cmd.delete.accesskey           "C">
 <!ENTITY cmd.deleteDomainData.label     "Libala ngale sayithi">
 <!ENTITY cmd.deleteDomainData.accesskey "L">
 

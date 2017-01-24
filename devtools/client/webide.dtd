@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Itheyibhuli Yemvume">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Iskrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Inkcazelo YeRuntime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Idifolti">
 <!ENTITY prefs_options_autosavefiles "Gcina ngokuzenzekelayo iifayile">
 <!ENTITY prefs_options_autosavefiles_tooltip "Zigcine ngokuzenzekelayo iifayile ezilungisiweyo ngaphambi kokuqhuba iprojekti">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "Itheyibhuli Yemvume">
-<!ENTITY permissionstable_name_header "Igama">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Inkcazelo YeRuntime">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Ukhetho lweSimuleyitha">
 <!ENTITY simulator_remove "Isimuleyitha yoKucima">
 <!ENTITY simulator_reset "Buyisela Iidifolthi">
-<!ENTITY simulator_name "Igama">
+
 <!ENTITY simulator_software "Isoftwe">
 <!ENTITY simulator_version "Uguqulelo">
 <!ENTITY simulator_profile "iProfayili">
