@@ -6,12 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Înlocuiește culorile specificate de pagină cu selecțiile mele de mai sus:">
-<!ENTITY  overridePageColors.accesskey    "o">
 
-<!ENTITY  overridePageColors.always.label "Întotdeauna">
-<!ENTITY  overridePageColors.auto.label   "Numai cu teme cu contrast puternic">
-<!ENTITY  overridePageColors.never.label  "Niciodată">
+
+<!ENTITY  overrideDefaultPageColors.always.label "Întotdeauna">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Numai cu teme cu contrast puternic">
+<!ENTITY  overrideDefaultPageColors.never.label  "Niciodată">
 
 <!ENTITY  color                           "Text și fundal">
 <!ENTITY  textColor.label                 "Text:">

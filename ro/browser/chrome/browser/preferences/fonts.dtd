@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Permite paginilor să își aleagă propriile fonturi în locul opțiunilor mele de mai sus">
-<!ENTITY  allowPagesToUse.accesskey               "a">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
 <!ENTITY languages.customize.Fallback2.label      "Codare de rezervă pentru text:">
