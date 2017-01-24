@@ -850,3 +850,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "ยกเลิก">
 <!ENTITY activity_stream_delete_history "ลบออกจากประวัติ">
 
+<!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
