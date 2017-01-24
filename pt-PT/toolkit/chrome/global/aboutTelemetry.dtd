@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Escalares codificados">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas teclados">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
 

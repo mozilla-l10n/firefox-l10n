@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label          "Separadores">
-<!ENTITY engine.tabs.accesskey      "p">
+
+
 <!ENTITY engine.history.label       "Histórico">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Palavras-passe">

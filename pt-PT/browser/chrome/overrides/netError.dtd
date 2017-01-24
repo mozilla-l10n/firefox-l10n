@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
-<!ENTITY captivePortal.title "Iniciar sessão à rede">
-<!ENTITY captivePortal.longDesc "<p>Esta rede pode necessitar que inicie sessão para utilizar a internet.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Abrir página de início de sessão">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avançado">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um atacante pode facilmente revelar informação que pensasse ser segura.">
 <!ENTITY weakCryptoAdvanced.override "(Não seguro) Tente carregar <span class='hostname'></span> utilizando segurança desatualizada">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Uma ligação segura para <span id='wrongSystemTime_URL'/> não é possível porque o relógio parece mostrar a hora errada.</p> <p>O seu computador pensa que são <span id='wrongSystemTime_systemDate'/>, quando devem ser <span id='wrongSystemTime_actualDate'/>. Para reparar este problema, altere as suas definições de data e hora para corresponderem à hora correta.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ligação não segura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site utiliza HTTP Strict Transport Security (HSTS) para especificar que o &brandShortName; apenas se liga ao mesmo em segurança. Como resultado, não é possível adicionar uma exceção para este certificado.">
