@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Opna nytt vindauge i faner i staden">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Åtvar meg ved lukking av fleire faner">
-<!ENTITY warnCloseMultipleTabs.accesskey  "Å">
 
-<!ENTITY warnOpenManyTabs.label       "Åtvar meg når opning av mange faner samstundes kan gjera &brandShortName; treg">
-<!ENTITY warnOpenManyTabs.accesskey   "a">
 
-<!ENTITY switchToNewTabs.label        "Når eg opnar ei lenke i ei ny fane, byt til fana med ein gong">
-<!ENTITY switchToNewTabs.accesskey    "N">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Vis førehandsvising av faner i Windows-oppgåvelinja">
 <!ENTITY showTabsInTaskbar.accesskey      "s">
