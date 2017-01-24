@@ -24,5 +24,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "மின்னஞ்சல் முகவரியை உள்ளிடவும்">
 <!ENTITY tabCrashed.emailMe "கூடுதல் தகவல் கிடைக்கும்பொழுது எனக்கு மின்னஞ்சல் செய்யவும்">
 <!ENTITY tabCrashed.reportSent "சிதைவு அறிக்கையை ஏற்கனவே அனுப்பியாயிற்று. &brandShortName; சிறக்க உதவியதற்க்கு நன்றி!     ">
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "பின்னணிக் கீற்றுகளை அறிவி.">
 
