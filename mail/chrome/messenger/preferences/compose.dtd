@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "无">
 <!ENTITY editDirectories.label                 "编辑目录…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "通讯录窗口中的默认启动目录︰">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "最后使用目录">
 
 <!ENTITY sendOptionsDescription.label          "配置文本格式行为：">
 <!ENTITY sendOptions.label                     "发送选项…">
