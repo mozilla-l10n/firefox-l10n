@@ -30,6 +30,14 @@
 <!ENTITY pref.default_task_tomorrow.label "Сутра">
 <!ENTITY pref.default_task_next_week.label "Следећа недеља">
 <!ENTITY pref.default_task_offset_current.label "Релативно тренутном времену">
+<!ENTITY pref.default_task_offset_start.label "Релативно почетку">
+<!ENTITY pref.default_task_offset_next_hour.label "Релативно следећем сату">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Данашња површ">
+<!ENTITY pref.soondays.label "Одељак предстојећег садржи:">
+<!ENTITY pref.soondays.accesskey "к">
 
+<!ENTITY pref.accessibility.label "Приступачност" >
+<!ENTITY pref.systemcolors.label "Побољшај боје за већу приступачност" >
+<!ENTITY pref.systemcolors.accesskey "б">
 
