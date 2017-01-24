@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Πάντα χρήση των πλήκτρων του δρομέα για πλοήγηση στις ιστοσελίδες">
 <!ENTITY useCursorNavigation.accesskey   "ω">
+<!ENTITY searchOnStartTyping.label       "Αναζήτηση κειμένου κατά την έναρξη πληκτρολόγησης">
+<!ENTITY searchOnStartTyping.accesskey   "ν">
+<!ENTITY blockAutoReload.label           "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να ανακατευθύνουν ή να επαναφορτώσουν τη σελίδα">
+<!ENTITY blockAutoReload.accesskey       "σ">
 <!ENTITY useOnScreenKeyboard.label       "Εμφάνιση πληκτρολογίου αφής όταν χρειάζεται">
 <!ENTITY useOnScreenKeyboard.accesskey   "π">
 
@@ -52,6 +56,9 @@
 <!ENTITY offlineStorage2.label           "Περιεχόμενο εργασίας χωρίς σύνδεση και δεδομένα χρήστη">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataSettings.label          "Ρυθμίσεις…">
+<!ENTITY siteDataSettings.accesskey      "ι">
+<!ENTITY siteDataLearnMoreLink.label     "Μάθετε περισσότερα">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,6 +78,7 @@
 
 <!ENTITY updateTab.label                 "Ενημέρωση">
 
+<!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
 <!ENTITY updateAuto1.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: βελτιωμένη ασφάλεια)">
 <!ENTITY updateAuto1.accesskey           "Α">
 <!ENTITY updateManual.label              "Κανένας έλεγχος για ενημερώσεις (δεν προτείνεται: επισφαλής επιλογή)">
@@ -85,6 +93,8 @@
 <!ENTITY enableSearchUpdate.label        "Μηχανές αναζήτησης">
 <!ENTITY enableSearchUpdate.accesskey    "η">
 
+<!ENTITY offlineStorageNotifyExceptions.label     "Εξαιρέσεις…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ξ">
 
 <!ENTITY offlineAppsList2.label          "Στις παρακάτω ιστοσελίδες επιτρέπεται η αποθήκευση δεδομένων για χρήση χωρίς σύνδεση:">
 <!ENTITY offlineAppsList.height          "10em">
@@ -93,6 +103,7 @@
 <!ENTITY offlineAppRemove.confirm        "Διαγραφή δεδομένων χωρίς σύνδεση">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
+<!ENTITY certPersonal.label              "Αιτήματα">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ε">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">

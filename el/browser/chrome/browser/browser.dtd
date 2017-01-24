@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Άνοιγμα">
 <!ENTITY syncedTabs.context.open.accesskey                   "Ο">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Άνοιγμα σε νέα καρτέλα">
@@ -768,6 +772,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "Β">
 <!ENTITY syncedTabs.context.copy.label                       "Αντιγραφή">
 <!ENTITY syncedTabs.context.copy.accesskey                   "α">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Άνοιγμα όλων σε καρτέλες">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Α">
 
 
 <!ENTITY syncBrand.shortName.label    "Συγχρονισμός">
