@@ -102,7 +102,8 @@
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne.">
 <!ENTITY weakCryptoAdvanced.override "(Odradzane) Wczytaj <span class='hostname'></span> używając przestarzałych zabezpieczeń">
 
-<!ENTITY certerror.wrongSystemTime "<p>Bezpieczne połączenie z <span id='wrongSystemTime_URL'/> nie jest możliwe, ponieważ zegar systemowy wydaje się wskazywać złą datę.</p><p>Komputer twierdzi, że mamy <span id='wrongSystemTime_systemDate'/>, gdy powinien wskazywać <span id='wrongSystemTime_actualDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>&brandShortName; nie połączył się z <span id='wrongSystemTime_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTime_systemDate'/>, gdy powinien mieć <span id='wrongSystemTime_actualDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nie połączył się z <span id='wrongSystemTimeWithoutReference_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTimeWithoutReference_systemDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 
 <!ENTITY certerror.pagetitle1 "Niezabezpieczone połączenie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta strona określa poprzez HSTS (HTTP Strict Transport Security), że program &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. W związku z tym, dodanie wyjątku dla tego certyfikatu jest niemożliwe.">
