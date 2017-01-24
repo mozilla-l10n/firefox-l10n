@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "टाइप करबाक दौरान शुरू करैत पाठक लेल खोजू">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "हमरा चेतावनी दिखाउ जे वेबसाइट पृष्ठकेँ पुनर्निर्देशित अथवा पुनर्लोड  कएनाइ  चाहैत  अछि ">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "उपलब्ध हए पर हार्ड त्वरण क उपयोग  करू ">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "टाइप  कएनाइ  शुरू करबा पर वर्तनी जाँचू">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "आँकड़ा पसंद">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Cached Web Content">
 
 <!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "अद्यतन  करू ">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "अद्यतन जाँचू मुदा हमरा चुनै दिअ जे कतए ओकरा संस्थापित कएनाइ अछि">
-<!ENTITY updateCheck.accesskey           "C">
+
+
 <!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "स्वतः अद्यतन:">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "हमरा बताउ जे कखन वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा करबाक लेल पूछैत  अछि ">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "अपवाद…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -104,12 +107,12 @@
 <!ENTITY offlineAppRemove.confirm        "आफलाइन आँकड़ा हटाउ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-<!ENTITY certSelection.label             "निवेदन">
-<!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
-<!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certPersonal.label              "निवेदन">
+
+<!ENTITY selectCerts.auto                "कोनो एकरा स्वतः चुनू">
+
+
+
 <!ENTITY enableOCSP.label                "OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
