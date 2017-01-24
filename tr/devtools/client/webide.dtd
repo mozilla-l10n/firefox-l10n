@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "z">
 <!ENTITY runtimeMenu_disconnect_label "Bağlantıyı kes">
 <!ENTITY runtimeMenu_disconnect_accesskey "B">
-<!ENTITY runtimeMenu_showPermissionTable_label "İzin tablosu">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "t">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekran görüntüsü">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Çalışma zamanı bilgileri">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Varsayılan">
 <!ENTITY prefs_options_autosavefiles "Dosyaları otomatik kaydet">
 <!ENTITY prefs_options_autosavefiles_tooltip "Düzenlenen dosyaları projeyi çalıştırmadan önce kendiliğinden kaydeder">
-<!-- Permissions Table -->
-
-<!ENTITY permissionstable_title "İzin tablosu">
-<!ENTITY permissionstable_name_header "Adı">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">
@@ -205,7 +199,7 @@
 <!ENTITY simulator_title "Simülatör seçenekleri">
 <!ENTITY simulator_remove "Simülatörü sil">
 <!ENTITY simulator_reset "Varsayılanları geri yükle">
-<!ENTITY simulator_name "Adı">
+
 <!ENTITY simulator_software "Yazılım">
 <!ENTITY simulator_version "Sürüm">
 <!ENTITY simulator_profile "Profil">

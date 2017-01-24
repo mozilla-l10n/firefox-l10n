@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "k">
 <!ENTITY toolsMenu.tooltip                    "Tüm eklentiler için araçlar">
 
+
+
 <!ENTITY cmd.back.tooltip                     "Önceki sayfaya git">
 <!ENTITY cmd.forward.tooltip                  "Sonraki sayfaya git">
 

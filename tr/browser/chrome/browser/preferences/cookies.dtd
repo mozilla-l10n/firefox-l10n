@@ -28,8 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Arama:">
-<!ENTITY     filter.accesskey               "A">
+
 
 <!ENTITY     button.close.label             "Kapat">
 <!ENTITY     button.close.accesskey         "K">

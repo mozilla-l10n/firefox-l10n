@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Geçmiş">
 <!ENTITY engine.history.accesskey         "G">
-<!ENTITY engine.tabs.label                "Sekmeler">
-<!ENTITY engine.tabs.accesskey            "S">
+
+
 <!ENTITY engine.passwords.label           "Parolalar">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Masaüstü eklentileri">

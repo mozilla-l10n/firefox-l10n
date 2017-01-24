@@ -8,14 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Yeni pencere yerine yeni sekme aç">
 <!ENTITY newWindowsAsTabs.accesskey   "Y">
 
-<!ENTITY warnCloseMultipleTabs.label  "Çok sayıda sekme kapatılırken beni uyar">
-<!ENTITY warnCloseMultipleTabs.accesskey  "o">
 
-<!ENTITY warnOpenManyTabs.label       "Çok sayıda sekme açmanın &brandShortName; tarayıcısını yavaşlatabileceği anlarda beni uyar">
-<!ENTITY warnOpenManyTabs.accesskey   "k">
 
-<!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
-<!ENTITY switchToNewTabs.accesskey    "B">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Sekme ön izlemelerini Windows görev çubuğunda göster">
 <!ENTITY showTabsInTaskbar.accesskey      "ö">

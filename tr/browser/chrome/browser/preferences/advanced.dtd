@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
 <!ENTITY useCursorNavigation.accesskey   "S">
-<!ENTITY searchStartTyping.label         "Yazmaya başlar başlamaz arama yap">
-<!ENTITY searchStartTyping.accesskey     "z">
-<!ENTITY blockAutoRefresh.label          "Siteler sayfaları yönlendirmek veya tazelemek istediğinde beni uyar">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+
+
+
+
 <!ENTITY useOnScreenKeyboard.label       "Gerektiğinde dokunmatik klavyeyi göster">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "c">
 <!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey          "d">
-<!ENTITY checkSpelling.label             "Yazarken yazım denetimi yap">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Veri Tercihleri">
 
@@ -56,6 +56,12 @@
 <!ENTITY httpCache.label                 "Önbelleğe alınmış web içeriği">
 
 <!ENTITY offlineStorage2.label           "Çevrimdışı web içeriği ve kullanıcı verileri">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -75,11 +81,10 @@
 
 <!ENTITY updateTab.label                 "Güncelleme">
 
-<!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
 <!ENTITY updateAuto1.label               "Güncellemeleri otomatik olarak yükle (önerilir: artırılmış güvenlik)">
 <!ENTITY updateAuto1.accesskey           "o">
-<!ENTITY updateCheck.label               "Güncellemeleri denetle ama yükleme konusunda kararı bana bırak">
-<!ENTITY updateCheck.accesskey           "d">
+
+
 <!ENTITY updateManual.label              "Güncellemeleri hiçbir zaman denetleme (önerilmez: güvenlik riski)">
 <!ENTITY updateManual.accesskey          "h">
 
@@ -89,14 +94,12 @@
 <!ENTITY useService.label                "Güncellemeleri yüklemek için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "h">
 
-<!ENTITY updateOthers.label              "Otomatik güncelle:">
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey    "A">
 
-<!ENTITY offlineNotify.label             "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
-<!ENTITY offlineNotify.accesskey         "v">
-<!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
-<!ENTITY offlineNotifyExceptions.accesskey "c">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Ayrıcalıklar…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
 <!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +108,12 @@
 <!ENTITY offlineAppRemove.confirm        "Çevrimdışı verileri sil">
 
 <!ENTITY certificateTab.label            "Sertifikalar">
-<!ENTITY certSelection.label             "İstekler">
-<!ENTITY certSelection.description       "Bir sunucu kişisel sertifikamı istediğinde:">
-<!ENTITY certs.auto                      "Birini kendiliğinden seç">
-<!ENTITY certs.auto.accesskey            "B">
-<!ENTITY certs.ask                       "Her seferinde bana sor">
-<!ENTITY certs.ask.accesskey             "H">
+<!ENTITY certPersonal.label              "İstekler">
+
+<!ENTITY selectCerts.auto                "Birini kendiliğinden seç">
+
+
+
 <!ENTITY enableOCSP.label                "Sertifikaların geçerliliğini doğrulamak için OCSP otomatik yanıt sunucularını sorgula">
 <!ENTITY enableOCSP.accesskey            "d">
 <!ENTITY viewCerts.label                 "Sertifikaları göster">

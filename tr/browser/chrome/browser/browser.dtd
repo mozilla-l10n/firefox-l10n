@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "v">
 <!ENTITY openFrameCmd.label           "Çerçeveyi yeni pencerede aç">
 <!ENTITY openFrameCmd.accesskey       "e">
-<!ENTITY openLinkCmdInContainerTab.label "Bağlantıyı yeni kapsayıcı sekmede aç">
-<!ENTITY openLinkCmdInContainerTab.accesskey "s">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlarınızdaki sekmelerin listesini görmek için sekme eşitlemeyi açın.">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 <!ENTITY syncedTabs.context.open.label                       "Aç">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "S">
 <!ENTITY syncedTabs.context.copy.label                       "Kopyala">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
