@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label            "Οδηγός ρύθμισης λογαριασμού Chat">
 
-<!ENTITY accountProtocolTitle.label   "Δίκτυο Chat">
+<!ENTITY accountProtocolTitle.label   "Δίκτυο συνομιλιών">
 <!ENTITY accountProtocolInfo.label    "Επιλέξτε το δίκτυο για το λογαριασμό chat.">
 <!ENTITY accountProtocolField.label   "Δίκτυο:">
 <!ENTITY accountProtocolGetMore.label "Περισσότερα…">
