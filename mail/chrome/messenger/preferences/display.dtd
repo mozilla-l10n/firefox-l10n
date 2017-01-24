@@ -30,8 +30,8 @@
 <!ENTITY displayTagsText.label     "Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.">
 
 
-
-
+<!ENTITY editTagButton1.label      "Rediger…">
+<!ENTITY editTagButton1.accesskey  "R">
 <!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
