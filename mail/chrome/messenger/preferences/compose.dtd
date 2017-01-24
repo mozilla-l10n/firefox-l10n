@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "無">
 <!ENTITY editDirectories.label                 "編輯目錄…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "通訊錄視窗開啟時的預設目錄:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "最近使用的目錄">
 
 <!ENTITY sendOptionsDescription.label          "設定文字編排方式">
 <!ENTITY sendOptions.label                     "寄送選項…">
@@ -63,4 +66,3 @@
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "關鍵字…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
-
