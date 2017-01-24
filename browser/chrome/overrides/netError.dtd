@@ -40,10 +40,10 @@
 <p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
 ">
 <!ENTITY captivePortal.title "Accedi alla rete">
-<!ENTITY captivePortal.longDesc "
-<p>Potrebbe essere necessario accedere alla rete per navigare in Internet.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>È necessario accedere alla rete per navigare in Internet.</p>
 ">
-<!ENTITY openPortalLoginPage.label "Apri la pagina di accesso">
+<!ENTITY openPortalLoginPage.label2 "Apri la pagina di accesso alla rete">
 <!ENTITY malformedURI.title "L’indirizzo non è valido">
 <!ENTITY malformedURI.longDesc "
 <ul>
