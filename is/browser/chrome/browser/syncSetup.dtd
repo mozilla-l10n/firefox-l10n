@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Samstilla">
 <!ENTITY engine.bookmarks.label     "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "Opna flipa">
+<!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Ferill">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Lykilorð">

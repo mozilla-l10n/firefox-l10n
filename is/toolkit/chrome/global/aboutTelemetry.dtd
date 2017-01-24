@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hangandi þræðir">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Vistaðir staflar">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Kvarðar">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Lyklaðar mælingar">
 
+<!ENTITY aboutTelemetry.eventsSection "  Atburðir">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Einfaldar mælingar">
 
