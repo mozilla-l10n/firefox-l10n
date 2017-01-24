@@ -101,8 +101,10 @@ was trying to connect. -->
 
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> आब पुरान भ गेल अछि आओर हमला खातिर भेद्य भ चुकल अछि. एक हमला द्वारा अहाँक सूचना जकरा अहाँ सुरक्षित बुझैत छी ओ आसानी सँ प्रकट भ सकैत अछि.">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
 
 
 

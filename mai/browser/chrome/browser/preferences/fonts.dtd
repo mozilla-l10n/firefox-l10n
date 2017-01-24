@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ़">
 <!ENTITY  useDefaultFontSansSerif.label           "सैंस सेरिफ़">
 
-<!ENTITY  allowPagesToUse.label                   "पृष्ठ केँ हुनका अपन फान्ट चुनबाक लेल स्वीकारू, हमर चयनक बदललक">
-<!ENTITY  allowPagesToUse.accesskey               "A">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन कंटेंटक लेल वर्ण एनकोडिंग">
 <!ENTITY languages.customize.Fallback2.label      "फालबैक आओर पाठ एनकोडिं:">

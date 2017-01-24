@@ -5,14 +5,11 @@
 
 
 
-<!ENTITY warnCloseMultipleTabs.label  "हमरा चेताउ जखन कतेक टैब बन्न करैत छी">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "हमरा चेताउ जखन अनेक टैबक खोलनाइ &brandShortName; केँ धीमा करैत अछि">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchToNewTabs.label        "जखन हम नव टैब मे कड़ी खोलैत छी, एहिमे तुरंत जाउ">
-<!ENTITY switchToNewTabs.accesskey    "h">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
