@@ -25,7 +25,7 @@
 <!ENTITY syncMy.label               "زامِن">
 <!ENTITY engine.bookmarks.label     "علاماتي">
 <!ENTITY engine.bookmarks.accesskey "م">
-<!ENTITY engine.tabs.label2         "افتح الألسنة">
+<!ENTITY engine.tabs.label2         "الألسنة المفتوحة">
 <!ENTITY engine.tabs.accesskey      "س">
 <!ENTITY engine.history.label       "تأريخي">
 <!ENTITY engine.history.accesskey   "خ">
