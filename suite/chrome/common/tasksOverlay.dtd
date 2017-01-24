@@ -14,6 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "浏览器">
 <!ENTITY taskComposer.tooltip "编写器">
