@@ -6,7 +6,11 @@
 <!ENTITY  window.width                    "45em">
 <!ENTITY  window.macWidth                 "49em">
 
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Siempre">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Solo con temas de alto contraste">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fondo">
 <!ENTITY  textColor.label                 "Texto:">
