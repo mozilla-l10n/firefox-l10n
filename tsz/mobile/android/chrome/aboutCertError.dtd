@@ -18,16 +18,11 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "arhiskari &brandShortName; éska sési inchaaka <b>#1</b>, k'óru no káni mintsikweesti">
 
 <!ENTITY certerror.whatShouldIDo.heading "ampe úa">
-<!ENTITY certerror.whatShouldIDo.content "énkari ménku inchani jarhaká i webirhu  
- sóntku, i no sési níatakwa arhisïni éska nema  
- wekaxaka kéntitaxaka ka nori chuxapaaka">
+<!ENTITY certerror.whatShouldIDo.content "énkari ménku inchani jarhaká i webirhu   sóntku, i no sési níatakwa arhisïni éska nema   wekaxaka kéntitaxaka ka nori chuxapaaka">
 <!ENTITY certerror.getMeOutOfHere.label "wentani ixu">
 
 <!ENTITY certerror.expert.heading "kurhankwasïnka no sési úkweechani">
-<!ENTITY certerror.expert.content "kurhankusïnti ampeka úkwarhini jaka 
- úakari arhini &brandShortName; éska mintsikaka i mitintskwa webirini 
- <b>énkari mintsikaka i webini, i no sési úkwa úati arhini 
- éska nemakini inchacuchixaka chiiti inchakwani">
+<!ENTITY certerror.expert.content "Énkari míteka ampesï úkurhini jaki úakari arhini &brandShortName; éska sési jimposka í miyukwani <b>najkuru miteakari íni eranharhikukwani, í eyamperakwa úatikini ahrini éska máteru néma inchokuchiskakini. </b>">
 <!ENTITY certerror.expert.contentPara2 "asï kurhuta ma nat'u kari mitiaka éska jarhaska ma ampe jimpo énkari no úraka ini mitintskwani ">
 <!ENTITY certerror.addTemporaryException.label "xekwarhu p'orhempini">
 <!ENTITY certerror.addPermanentException.label "kurhutani ísk'u xekwa ampe ka  pakateerani">

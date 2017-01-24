@@ -2,61 +2,86 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Winisti, ka no úxati úrhunt\u0027ani; &brandShortName;.">
-<!ENTITY  error_loading_file "No wati &brandShortName; úrhakwarhini jimpoka  no úska jatant´ani  yámintu ampe">
+<!ENTITY firstrun_panel_title_welcome "Jano je">
 
 
-<!ENTITY  onboard_start_button_account "Inchani &brandShortName; ">
-<!ENTITY  onboard_start_button_browser "Wéenani jirinhani">
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "Sync">
+
+
+
+
+<!ENTITY  onboard_start_button_browser "Wénani jirinhant\u0027ani">
+
+
+
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Íni &brandShortName; Jínkoni sésimintu ánchikuri.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Kuirutsïkataecha">
 <!ENTITY  history_title "Miántskwa ampe">
-<!ENTITY  reading_list_title "Arintskwecha">
-<!ENTITY  recent_tabs_title "Jimpanki arintskuaecha">
 
-<!ENTITY  switch_to_tab "Eranharhitakwarhu motsíkuni">
+<!ENTITY  switch_to_tab "Eranharhikukwarhu mótsíkuni">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
-<!ENTITY  crash_reporter_title "Ayanpini eska xerekurhiska &brandShortName; xerekwariska">
-<!ENTITY  crash_message2 "&brandShortName; Mikwaristi ya jimpoka xerekwarhisti. Enkari ménteru mítaska &brandShortName; jimaksï xaranharhint\u0027apirintiksï chéeti eranharhikukwecha.">
-<!ENTITY  crash_send_report_message3 "Ayanku &vendorShortName; eskaksï sési jatsintaaka">
+<!ENTITY  crash_reporter_title "Eyampeni &brandShortName; -eri xerekurhikwa ampe">
+<!ENTITY  crash_message2 "&brandShortName; eri, ampe ma no sési jarasti. Cheeti eranharikukwaecha xarantaati &brandShortName; rhu. Énkari méntaru úraka.">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; -ni ayanku íni ts\u0027ip\u0027akwaeri ampe ka úatiksï jatsïnt\u0027ani">
 <!ENTITY  crash_include_url2 "Kúrhuta eranharhitakwani enkari exeni japka">
 <!ENTITY  crash_sorry "Tekontsï je">
-<!ENTITY  crash_comment "Kúparhata eratsekwa ma (Yamentuechaksï úati miteni)">
-<!ENTITY  crash_allow_contact2 "Jurak\u0027u &vendorShortName; eskareni ayankunt\u0027aaka ini ampe">
-<!ENTITY  crash_email "Ch\u0027íiti wantakwa pári">
-<!ENTITY  crash_closing_alert "¿Wént\u0027ani ka no wantant\u0027ani eska xerekwariska?">
-<!ENTITY  sending_crash_report "Wantakwa ma axaxati xerekwarhintskweri\u2026">
+<!ENTITY  crash_comment "Eratsïkwa ma kúparhatani (yamintucha úati exéni)">
+<!ENTITY  crash_allow_contact2 "Jurak\u0027u éskarini &vendorShortName; mitetaraaka íni ayamperakwani jimpo">
+<!ENTITY  crash_email "Chiiti wantakwa pakwa">
+<!ENTITY  crash_closing_alert "¿Wént\u0027ani ka no wantant\u0027ani éska xerekwariska?">
+<!ENTITY  sending_crash_report "Xerekurhikwaeri ayampexati\u2026">
 <!ENTITY  crash_close_label "Míkani">
-<!ENTITY  crash_restart_label "Úrhutant\u0027ani &brandShortName;">
-<!ENTITY  exit_label "Wént\u0027ani">
+<!ENTITY  crash_restart_label "&brandShortName; Mítant\u0027ani">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Úratarakuecha">
-<!ENTITY  launcher_shortcuts_empty "No xarant\u0027at\u0027iksi webieri úratarakweecha ">
-
-<!ENTITY choose_file "Patsakata ma eraku">
-
-<!ENTITY url_bar_default_text2 "Jirinhani o karáni miyukwani">
+<!ENTITY url_bar_default_text2 "Miyukwani karani o jirinhani ">
 
 <!ENTITY bookmark "Exerpitarakwa">
-
+<!ENTITY bookmark_remove "Exerpitarakwani kéntitani">
 <!ENTITY bookmark_added "Kúparhatani kuirutsikatarhu">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Already bookmarked">
 <!ENTITY bookmark_removed "Kuirutsikata kéntitaakata">
 <!ENTITY bookmark_updated "Kuirutsikata jimpanherantskata">
 <!ENTITY bookmark_options "Erakwuecha">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Yásï">
 <!ENTITY history_yesterday_section "Witsintekwa">
-<!ENTITY history_week_section2 "Tómu jurheatikwa">
-<!ENTITY history_older_section2 "Kutsï nitamati">
+<!ENTITY history_week_section3 "7 Jurhitikwaecha">
 
-<!ENTITY go "Nirani">
+
 <!ENTITY search "Jirinhani">
 <!ENTITY reload "Winirant\u0027ani">
 <!ENTITY forward "Ch\u0027unkutamani">
@@ -67,31 +92,33 @@
 <!ENTITY edit_mode_cancel "No ampe ya">
 
 <!ENTITY close_tab "Míkani eranharhikwani">
-<!ENTITY one_tab "Eranharhikwa ma">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; eranharhikweecha">
 <!ENTITY new_tab_opened "Jimpani eranharhikwa mítakata">
 <!ENTITY new_private_tab_opened "Jimpani eranharhikwa mítakata ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "Mot\u0027akuni">
+<!ENTITY switch_button_message "MÓJTAKUNI">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "– &formatS; Kústaxati">
 
 <!ENTITY settings "K\u0027atantskua">
-<!ENTITY settings_title "Péerakurhini">
-<!ENTITY pref_category_input_options "Input options">
-<!ENTITY pref_category_advanced "Motsanharhitani">
-<!ENTITY pref_category_customize "Peerakurhini">
-<!ENTITY pref_category_customize_summary "Wénakwarhu, Jirinhani, Eranharhitakwa, Jini juani">
+<!ENTITY settings_title "Pérakurhini">
+
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Wantakwa">
-<!ENTITY pref_category_language_summary "Mójtakuni jirinhatarantskwaeri wantakwa">
-<!ENTITY pref_browser_locale "Wantakwa Jirinhatarantskweri">
+<!ENTITY pref_category_language_summary "Jirinhatarantskwaeri wantakwani mójtakuni">
+<!ENTITY pref_browser_locale "Jirinhatarantskweri wantakwa">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -101,47 +128,41 @@
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
 
-<!ENTITY overlay_share_label "&brandShortName; Kurhutani">
+<!ENTITY overlay_share_label "&brandShortName; -rhu kúrhutani">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Exerpikwa">
-<!ENTITY overlay_share_reading_list_btn_label "Kunharitani arintskukuechani jinkoni">
-<!ENTITY overlay_share_bookmark_btn_label_already "Exerpikwa jinkoni jarajti ya">
-<!ENTITY overlay_share_reading_list_btn_label_already "Arhintskwarhu jatasti ya">
-<!ENTITY overlay_share_send_other "Axanimáteru ánchitakwecharhu">
+
+<!ENTITY overlay_share_send_other "Máteru ánchitarakwaecharhu axani">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
-<!ENTITY overlay_share_send_tab_btn_label "Axani máteru ánchitarakwarhu">
-<!ENTITY overlay_share_no_url "Áamku xarhantsï eranharhitakwa">
-<!ENTITY overlay_share_select_device "Ánchitakwa erakuni">
+<!ENTITY overlay_share_send_tab_btn_label "Máteru ánchitarakwarhu axani">
+<!ENTITY overlay_share_no_url "Áamku xarhantsï miyukwa">
+<!ENTITY overlay_share_select_device "Ánchitakwani erakuni">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
+<!ENTITY overlay_no_synced_devices "No ma Firefoxieri karakurhikwa exenhant\u0027asti íni ánchitakwarhu">
 
-<!ENTITY pref_category_search3 "Jirinhani">
-<!ENTITY pref_category_search_summary "Pekurhintsi chiti jirinhantantskwani">
-<!ENTITY pref_category_display "Xarhatani">
-<!ENTITY pref_category_display_summary "Karakata, karats\u0027ïkukata, jirinhani ampe etsanharhikukatarhu">
+<!ENTITY pref_category_search3 "Jirinhant\u0027ani">
+
+
+
 <!ENTITY pref_category_privacy_short "Juchitik\u0027u">
-<!ENTITY pref_category_privacy_summary2 "Control logins, cookies, tracking, data">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Inteeri ampe &brandShortName;, FAQs, kurhamperatecha, ukatecheeri erakuntskwa">
-<!ENTITY pref_category_datareporting "Erakukwa anchetakweecheri">
-<!ENTITY pref_learn_more "Sánteru jorhenkwarhini">
-<!ENTITY pref_category_installed_search_engines "kaskukata jarhastia jirinhatarantskuecha">
-<!ENTITY pref_category_add_search_providers "Kurhutani máteru jirinhatarantskweechani">
-<!ENTITY pref_category_search_restore_defaults "Jirinhatarantskwechani jatseant\u0027ani">
+
+
+
+<!ENTITY pref_category_datareporting "Patsakataechaeri erakukwa">
+<!ENTITY pref_category_logins "Inchani">
+<!ENTITY pref_learn_more "Sánteru jorhenani">
+<!ENTITY pref_category_installed_search_engines "Jirinhatarantskwaecha jatariicha">
+<!ENTITY pref_category_add_search_providers "Jirinhatarantskwaechani kuparhatani">
+<!ENTITY pref_category_search_restore_defaults "Jirinhatarantskwaechani pentawani">
 <!ENTITY pref_search_restore_defaults "Péntani na enka míntakata jápka">
 <!ENTITY pref_search_restore_defaults_summary "Péentani na énka míntakata jápka">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -149,123 +170,185 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Eraa: kúrhuta eranharhikwani énkari wekak\u0027a kúparhatani ch\u0027íiti jirinhatarantskwarhu ka tátsikwa jayanharhitaparini &formatI;">
-<!ENTITY pref_category_devtools "Orhets\u0027ïkutieri ánchitarakwaecha">
-<!ENTITY pref_developer_remotedebugging "Ampakerani">
 
-<!ENTITY pref_remember_signons2 "Remember logins">
-<!ENTITY pref_open_external_urls_privately_title "Open links in Private browsing">
-<!ENTITY pref_open_external_urls_privately_summary "For all external links opened in &brandShortName;">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
-<!ENTITY pref_category_home "Wéenakwa">
-<!ENTITY pref_category_home_summary "Ch\u0027íiti eranharhikwani Pékurhintsï ">
+
+
+<!ENTITY pref_developer_remotedebugging_usb "Jatsïnt\u0027ani USB jimpo">
+<!ENTITY pref_developer_remotedebugging_wifi "Jatsïnt\u0027ani WI-FI jimpo">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "WI-FI jimpo jatsïnt\u0027ani wétarhisïnti éska ánchitakwa úaka QR jásï arhint\u0027ani.">
+<!ENTITY pref_remember_signons2 "Mitatarakwaechani miant\u0027ani">
+<!ENTITY pref_manage_logins "Mitatarakwaecha karakurhikwaechaeri terunharini">
+
+<!ENTITY pref_category_home "Wénakwa">
+<!ENTITY pref_category_home_summary "Wénakwani pékurhint\u0027ani">
 <!ENTITY pref_category_home_panels "Ánchitakwa jatakwa">
-<!ENTITY home_add_panel_title "Máteru ánchitakwa jatakwa kúnharhitani">
-<!ENTITY home_add_panel_empty "Tekantsï, no ma eranharhitakwa exent\u0027askaksï">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 Wénakwarhu kuparhakusti ya">
-<!ENTITY pref_category_home_content_settings "Erákukwa jatákwarhu anapu">
-<!ENTITY pref_home_updates "Jimpankekuarhint\u0027ani">
-<!ENTITY pref_home_updates_enabled "Jiankukata">
+
+
+<!ENTITY pref_home_updates_enabled "Étskunkata">
 <!ENTITY pref_home_updates_wifi "Wi-Fi jimpok\u0027u">
-<!ENTITY pref_home_suggested_sites "Exerani ampe jirinhant\u0027ani">
-<!ENTITY pref_home_suggested_sites_summary "Mak\u0027u xarhanharhitachint\u0027ani énkari  t\u0027u úaka sési janhaskant\u0027ani ch\u0027íiti eranharhikwarhu">
+<!ENTITY pref_category_home_homepage "Wénakwahu">
+<!ENTITY home_homepage_title "Wénakwarhu pérani">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Pékurhint\u0027ani">
+<!ENTITY pref_header_privacy_short "Jískakwa">
 
 
-<!ENTITY pref_header_help "Jarhuatakwa">
-<!ENTITY pref_header_language "Wantakwa">
 
+<!ENTITY pref_header_help "Jaroap\u0027ekwa">
 
 
 <!ENTITY pref_cookies_menu "Cookies">
-
+<!ENTITY pref_cookies_accept_all "Étskunkata">
 <!ENTITY pref_cookies_not_accept_foreign "Jiankukata, máteruechani kéntitaparini ">
-<!ENTITY pref_cookies_disabled "No jiankukata">
-
-<!ENTITY pref_tracking_protection_title "Estakukweri Kuach\u0027akukwa">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; kwarhukootikini ch\u0027íiti jakwani">
-<!ENTITY pref_donottrack_title "Asï estaku">
-<!ENTITY pref_donottrack_summary "&brandShortName; Arhiowaati nani no estakuni">
-
-<!ENTITY tab_queue_toast_message3 "Tab saved in &brandShortName;">
-
-
-<!ENTITY tab_queue_prompt_text3 "Save them until the next time you open &brandShortName;">
+<!ENTITY pref_cookies_disabled "P\u0027atakata">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
+
+
+
+
+
+
+<!ENTITY pref_tracking_protection_summary3 "Etskunkata jarasti xipatinku jirinhantskwa">
+<!ENTITY pref_donottrack_title "Asï éstaku">
+<!ENTITY pref_donottrack_summary "&brandShortName; Wantant\u0027aati eskari no estakunhaaka">
+
+<!ENTITY pref_tracking_protection_enabled_pb "Etskunkata jarasti eskari xipatinku jamaaka">
+
+
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+
+<!ENTITY tracking_protection_prompt_title "Yásï nori éstakunhaaka">
+<!ENTITY tracking_protection_prompt_text "Yásïmintu estakukwaechani kwárhukuminhaskari estakukwaechani, ásï jákurhi">
+<!ENTITY tracking_protection_prompt_tip_text "Exe Jiskakwaeri pekurhintskwa enkari wékaaka sánteru jorenkwarini">
+<!ENTITY tracking_protection_prompt_action_button "¡Úxaka ya!">
+
+<!ENTITY tab_queue_toast_message3 "&brandShortName; Patsasti erarhukwani">
+<!ENTITY tab_queue_toast_action "Yásï mítani">
+<!ENTITY tab_queue_prompt_title "¿Mámaru jarhati eranharhikukwaechani mítaxaki?">
+<!ENTITY tab_queue_prompt_text4 "Mák\u0027ani jámperi patsani énkari mítaaka &brandShortName;">
+<!ENTITY tab_queue_prompt_tip_text2 "Pekurhintskwarhu úakari mot\u0027akunt\u0027ani">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+
+<!ENTITY tab_queue_prompt_negative_action_button "Nótki">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "Erarhukwaecha &formatD; jásï erokurhixati">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 erarhukwa erokurhixati">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY pref_char_encoding "Karakateechani jiskani">
-<!ENTITY pref_char_encoding_on "Exerani mamaru jásï ampe">
-<!ENTITY pref_char_encoding_off "Asï exera mamarhu jásï">
-<!ENTITY pref_clear_private_data2 "Mirikurhi ya">
-<!ENTITY pref_clear_private_data_category "Ampatant\u0027ani mitikwarhikwa ampe">
-<!ENTITY pref_clear_on_exit_title2 "Wéentani jámani mirikurhini.">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mirikurhikurhiooti mentku isï énkari   \u0022Wéntani\u0022 erakuaaka">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
+<!ENTITY pref_char_encoding "Kararatarakwaechani pékurint\u0027ani">
+<!ENTITY pref_char_encoding_on "Jatakwa ampe exerani">
+<!ENTITY pref_char_encoding_off "Asï exera jatakwa ampe">
+<!ENTITY pref_clear_private_data2 "Ch\u0027eetimintu ampe ampakerant\u0027ani">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Ampakerant\u0027ani ya">
+<!ENTITY pref_clear_on_exit_title3 "Kentitani ch\u0027éeti ampek\u0027u énkari wéntaaka">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kéntitakuariaati méntku ísï énkari \u0022Wéntani\u0022 erakuaaka">
 <!ENTITY pref_clear_on_exit_dialog_title "Eraku amperisï ampentarhio">
 <!ENTITY pref_plugins "kúntakwa">
-<!ENTITY pref_plugins_enabled "Jiankukata">
-<!ENTITY pref_plugins_tap_to_play "t\u0027akiskukuni pári wénatarani">
-<!ENTITY pref_plugins_disabled "No jienkukata">
+<!ENTITY pref_plugins_enabled "Étskuntskataecha">
+
+<!ENTITY pref_plugins_disabled "P\u0027átakateecha">
 <!ENTITY pref_text_size "Karakataeri k\u0027ékwa">
-<!ENTITY pref_reflow_on_zoom4 "Karakata kuanhaskunt\u0027arakwa">
-<!ENTITY pref_restore "Erhanharhitakwecha">
+
 <!ENTITY pref_restore_always "Jatsiintskwarhikwa">
-<!ENTITY pref_restore_quit "Asï pentsi eska na japka enkari k´amakwaka ya &brandShortName;">
-<!ENTITY pref_font_size_tiny "Sapik\u0027uni">
+<!ENTITY pref_restore_quit "Énkari wéntaaka ásï pentsi &brandShortName; -ni éska na jápka">
+<!ENTITY pref_font_size_tiny "Sapisapik\u0027uni">
 <!ENTITY pref_font_size_small "Sapichu">
 <!ENTITY pref_font_size_medium "Sésku jasï">
 <!ENTITY pref_font_size_large "K\u0027eri">
 <!ENTITY pref_font_size_xlarge "Kari k\u0027eri">
-<!ENTITY pref_font_size_set "menteru eterutantani">
+<!ENTITY pref_font_size_set "Míntani">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "kw\u0027itsïki enka kanekwa sési urakorhsïni ka kenekwa kukuani xentasïni ampema i jinkuni, i santeru sési jarhasti pari cha ka pari Web">
+<!ENTITY pref_font_size_preview_text "Sánteru kokanimintu úsïnti Jiwatsï eskari na erokurhini jápka, istu sésikini kwatasïnti. No ma meyampekwa nóts\u0027ïni wantanhiaata jinkoni k\u0027ámasïnti. Mák\u0027ani sánteruri sési ánchikurhiaaka ístu Webi.">
 
 <!ENTITY pref_media_autoplay_enabled "Jurajku wénakukurhini">
+<!ENTITY pref_media_autoplay_enabled_summary "Exe énkaksï eranharhikukwaecha úakaksï p\u0027itakata ampe etskunt\u0027ani">
+<!ENTITY pref_zoom_force_enabled "Méntku etskuntani k\u0027énharhitarakwani">
+<!ENTITY pref_zoom_force_enabled_summary "Kararatarant\u0027ani ka nákintaru eranharhikukwa úati k\u0027énharhitani ">
+<!ENTITY pref_voice_input "Wantakwa ampe incharhutarakwa">
+
+<!ENTITY pref_qrcode_enabled "QR jásï arhintsti">
 
 
+<!ENTITY pref_use_master_password "Mítatarakwani úrani">
 
-<!ENTITY pref_voice_input "Voice input">
-<!ENTITY pref_voice_input_summary "Allow voice dictation in the title bar">
-<!ENTITY pref_qrcode_enabled "QR code reader">
-<!ENTITY pref_qrcode_enabled_summary "Allow QR scanner in the title bar">
-
-<!ENTITY pref_use_master_password " urani ma exentakwa pari inchani ">
-<!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary2 "Sync your tabs, bookmarks, logins, history">
+<!ENTITY pref_sync_summary2 "Erarhukwaecha, exerpitarakwaecha, ka mítatarakwaechani terukutantsï">
 <!ENTITY pref_search_suggestions " xarhatani nena enka inchaaka pari ampema exentani">
-<!ENTITY pref_import_android "moskwani Android jimpo">
+
+
+
 
 <!ENTITY pref_private_data_history2 " jirinatarakwa mianskwa yoni anhapuecha">
 
 
 <!ENTITY pref_private_data_cookies2 "Cookies ka watonskwarhitaecha étskuntskata">
-<!ENTITY pref_private_data_passwords2 "Saved logins">
+
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "mítintskwarhitaecha web ni inchaparhatixati">
 <!ENTITY pref_private_data_siteSettings2 "sési pékwarhintani eranharhikwani">
 <!ENTITY pref_private_data_downloadFiles2 "keskukataeche">
-<!ENTITY pref_private_data_syncedTabs "Synced tabs">
+
 
 
 <!ENTITY pref_about_firefox "íri ampe &brandShortName; ">
@@ -284,11 +367,13 @@ size. -->
 <!ENTITY pref_panels_move_up "&amp;Karatan">
 <!ENTITY pref_panels_move_down "&amp;Keskuni">
 
-<!ENTITY datareporting_notification_title "&brandShortName;stats &amp; data. erokukua i anchetaeri &brandShortName;">
-<!ENTITY datareporting_notification_action_long " erak\u0027u na ancheta weksïni eska materuecha exeak\u0027a ">
+<!ENTITY datareporting_notification_title "&brandShortName;stats &amp; data. Eri úkata ampe.">
 <!ENTITY datareporting_notification_action "Eraku amperi exerpia">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long " erak\u0027u na ancheta weksïni eska materuecha exeak\u0027a ">
 <!ENTITY datareporting_notification_summary "Axooti chiti janhaskakwa jini &brandShortName; ka santeruri sesi anchikurioka &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Sésiri anchikurhipooka &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -311,18 +396,15 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "keskuni jimpanherantskwarhirakweechani">
 
 <!ENTITY pref_update_autodownload_never "no meni">
-<!ENTITY pref_update_autodownload_always "Enka jamperi">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Wentani">
 
-<!ENTITY addons "Jarhop\u0027etarakuecha">
 
 
-<!ENTITY apps "Uratarakuecha">
 <!ENTITY char_encoding "Kararakuechani jískani">
 
 <!ENTITY share "Arhunkurhini">
@@ -330,23 +412,23 @@ size. -->
 <!ENTITY share_image_failed "Í eranharhikua no úati arhukurini">
 <!ENTITY save_as_pdf "PDF jimpo patsani">
 
-<!ENTITY desktop_mode "kurhakuni nani enka karaaka ">
+
+
 <!ENTITY page "Eranharitarakwa ">
 <!ENTITY tools "Anchitakueecha">
-<!ENTITY new_tab "Jimbanhi iorhukua">
-<!ENTITY new_private_tab "Jimpani yorhukwa mak\u0027eri">
+
+
 <!ENTITY close_all_tabs "Mikantaani yamentuechani yorhukwa">
 
 
 <!ENTITY tabs_private "Makw\u0027eri">
-<!ENTITY tabs_synced "Teruk\u0027untastia ">
 <!ENTITY set_image_fail "No usïn niaran exekwa">
 
 <!ENTITY set_image_chooser_title "xarhatakwa perani eska">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Enka nitamakia">
-<!ENTITY find_next "Materhu">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -377,22 +459,24 @@ size. -->
 
 
 
-<!ENTITY doorhanger_login_select_message "Copy password from &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Password copied to clipboard">
-<!ENTITY doorhanger_login_select_toast_copy_error "Couldn\'t copy password">
-<!ENTITY doorhanger_login_select_action_text "Select another login">
-<!ENTITY doorhanger_login_select_title "Copy password from">
 
-<!ENTITY pref_titlebar_mode "Jakankurhikwarhu">
-<!ENTITY pref_titlebar_mode_title "Jakankurhikwani xarata">
-<!ENTITY pref_titlebar_mode_url "Mónharitantskwani exerpi">
+
+
+
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Jirinhataranskuani yámu etsanharhita">
-<!ENTITY pref_scroll_title_bar_summary "Jíska  &brandShortName; enkari tsuruatatarakuani keskuaka">
 
-<!ENTITY pref_tab_queue_summary3 "Save them until the next time you open &brandShortName;">
+
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -409,21 +493,6 @@ size. -->
 <!ENTITY site_settings_title3       "Eranharhikwani sési pékuarhini">
 
 <!ENTITY site_settings_clear        "Ampakerani">
-<!ENTITY site_settings_no_settings  "No jarasti ampe jinkuni ampakerantani.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added2 "Added to list">
-<!ENTITY reading_list_removed "p\u0027ikuntani ini anchetani ">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_duplicate "Ínturi arhintaaka ">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Jukari ma atakuaesti ya">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -441,17 +510,17 @@ size. -->
 <!ENTITY button_clear_data "Karakatani sési ják\u0027untsï">
 
 
-<!ENTITY button_copy "Copy">
+<!ENTITY button_copy "Eranhekua p’itani">
 
-
-<!ENTITY home_top_sites_title "Ixurisï jámapka">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Íntu kúparhata">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "&brandShortName; wénakwa">
+
+
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "Asï miántsï jánkueri ampe">
 <!ENTITY home_clear_history_confirm "Sési jimpori xerenta chíti míantskua ampe?">
@@ -460,32 +529,16 @@ size. -->
 
 
 
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "no ma arhinskwa exentaska ini jatakwarhu ">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "inchan ka xentani ini &formatS; jinkuni">
-
-
-<!ENTITY home_remote_tabs_unable_to_connect "No ústi kúparhatani">
-
-
-
-
-
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -517,30 +570,27 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "i interi mintakataeristi">
 
 
-<!ENTITY identity_encrypted "Encrypted">
 <!-- Mixed content notifications in site identity popup -->
+
 
 
 <!-- Tracking content notifications in site identity popup -->
 
 
 
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY disable_protection "p\u0027ikuntsï kwarpikwa">
-<!ENTITY keep_blocking "mikatini jatsïni">
 
 <!ENTITY private_data_success "kutsurinskwa uantakwecherhi en no uk\u0027a mitakwarhini">
 <!ENTITY private_data_fail "marhu uantakwecha enka no uk\u0027a mitakwarhini noksï usunti kutsïnhakwarhini">
 
-<!ENTITY bookmarkhistory_button_import "axani">
 <!ENTITY bookmarkhistory_import_both "axantani ioni anhapu ukwecha Android">
 <!ENTITY bookmarkhistory_import_bookmarks "axani ukwecha from Android">
-<!ENTITY bookmarkhistory_import_history "axantani patsakatechani. 
- Android werhatini">
+<!ENTITY bookmarkhistory_import_history "axantani patsakatechani.  Android werhatini">
 <!ENTITY bookmarkhistory_import_wait "erhokuarhi sani">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -553,21 +603,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-
 <!-- Updater notifications -->
+<!ENTITY updater_start_select2 "Takisku keskutarakwani">
 
 
 
 
 
 
-
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!-- Guest mode -->
 <!ENTITY exit_guest_session "werani ini arhiskwerhi">
 <!ENTITY guest_session_dialog_continue "chuxapani">
 
 <!ENTITY new_guest_session_title "menteru wenati &brandShortName;">
-<!ENTITY new_guest_session_text2 "The person using it will not be able to see any of your personal browsing data (like saved logins, history or bookmarks).\n\nWhen your guest is done, their browsing data will be deleted and your session will be restored.">
+
 
 
 
@@ -587,10 +640,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_done "K\u0027amarani">
 <!-- Voice search in the awesome bar -->
-
-
-
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -598,10 +647,67 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY find_matchcase "Aa">
+<!ENTITY restrictable_feature_private_browsing "Mintsikaparini mótse">
 
-<!ENTITY intent_uri_cannot_open "Cannot open link">
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
+is simply hidden from the Activity Stream panel. -->
+
+
+

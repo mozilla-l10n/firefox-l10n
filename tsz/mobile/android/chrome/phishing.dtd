@@ -4,17 +4,18 @@
 
 <!ENTITY safeb.palm.accept.label "petansirini ixu">
 <!ENTITY safeb.palm.decline.label "jurak'u  ini ayakperatani">
-<!ENTITY safeb.palm.notforgery.label2 "ixu no ch'kuanterakwa ampesti">
-<!ENTITY safeb.palm.reportPage.label "¿antisï mikanatsi i sitio">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "i sitio intesti web no sési utspeti">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ixu web jimpo <span id='malware_sitename'/>   sharantasti éska no sési utspetiska ka mikantskata jarhasta.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>xererpekua eranharhitarakuecha jankuarhint'asïntiksï incharani mítekuechani enkaksï úaka sïpani ampe enka ma jatsïkuarhika, úrhachinsïni chari anchitarakua pari xererpeni o xereni chiti anchitakuani.</p><p>mamaru xererpekua eranharitarakueecha etsakusnhasïntiksï pari xererpeni, ka wanekua inchajpekuarhinhasïnti no míteparini o no sésï jimpo ameeri jatsïkuarhericheeri.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "marapentku ixu web jimpo ch'kwanterakwa ampeti">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "enkari t'u ixu karaska cheeti amperi ixu eranaritarakwaru marepentkuksïni sïpacheti cheeti karakata o materu ampe">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "ini jarhati eranarhikwecha uranasïntisi eska phishing enka eranarhikwak'a ch´kwanterakwa ampe pari uranai meterucha enkasï se uk'a">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Eranharhikukwa énka ixu jaka <span id='phishing_sitename'/> ísï mítekata jarasti éska no sési ampeska ka kwarhukukata jarasti chéeti sésikwa jimpo.">
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Eranharhikukwa énka ixu jaka <span id='unwanted_sitename'/> ísï mítekata jarasti éska no sési úratarakwa ampe jataska ka kwarhukukata jarasti chéeti sésikwa jimpo.">
+
 

@@ -19,59 +19,33 @@
 <!ENTITY dnsNotFound.title "terhujtsukuri no xarhantasti">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li> Tsek'u éska karakataeri miyuntskweri sési jawaka eska 
-<strong>ww</strong>janhaskakwa.com eska ampe 
-<strong>www</strong>.janhaskakwa.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>jirinhani</button> 
-</div> 
-<li>Énkari no uk'a karhatani eranharhikukwani, exee ukwechani cheeti anchitakwarhu o kunkurhikwarhu Wi-Fi. 
-<button id='wifi'>urhutantani Wi-Fi</button> 
-</li> 
-</ul>">
 
 <!ENTITY fileNotFound.title "no jirhinhantasti jatakua">
 <!ENTITY fileNotFound.longDesc "exentsi menterhu enka jakankurhikua jatakua no nu sesi jaka  ">
 
 
-<!ENTITY generic.title "¡Inng! ¡Aaa!">
-<!ENTITY generic.longDesc "no usïni jatantani ampe ma jimpo ">
 
-<!ENTITY malformedURI.title "ixu no ampe jarhasti ">
+<!ENTITY generic.title "¡Inng! ¡Aaa!">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>   
-<li>karanharhikukataechanti  mentkisï arisï exántawaka   
-<strong>http://www.example.com/</strong></li>   
-<div id='searchbox'>   
-<input id='searchtext' type='search'></input>   
-<button id='searchbutton'>Jirinhani</button>
-</div>   
-<li>Ixe eskari orhepani texurhitiniiri úraaxaka (eska. 
-)<strong>/</strong>).</li>
-</ul>">
 
 <!ENTITY netInterrupt.title " I ixerakwa uarhukuarhisti">
 
 
 <!ENTITY notCached.title "i karakata noterhu marhuasïnia">
-<!ENTITY notCached.longDesc "  <p> I karakata no jarhasti íxu paginarhu cache de &brandShortName;.</p><ul><li>Ka paka no waka ne wek'ini mitani,&brandShortName;paka noteru jamaka kurhakurhini karakateecha énka no marhuawaka.</li><li>Jayasku clik menteru wentani paka xarhantooka ima karakata web piorhu.</li></ul>">
+
 
 <!ENTITY netOffline.title "no jarhasti nena enka kutúparantaaka">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "no sési karakata jarhasti">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-Jinpuetaku t'u, incha web paruri ayankwani i wani eratsikuechaniata énka no marhoani jaka. .</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> Jinpuetaku t'u, incha web paruri ayankwani i wani eratsikuechaniata énka no marhoani jaka. .</li> </ul>">
 
 <!ENTITY unsafeContentType.title "patsaratakua no mintsinharhikua">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-Eyankwa sani íni eratsikuechani ampe énka no terhu marhoani jaka.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> Eyankwa sani íni eratsikuechani ampe énka no terhu marhoani jaka.</li> </ul>">
 
 <!ENTITY netReset.title "anchikuarita usti wenakuarintani">
 
@@ -79,30 +53,19 @@ Eyankwa sani íni eratsikuechani ampe énka no terhu marhoani jaka.</li>
 <!ENTITY netTimeout.title "anchitarhakua noterhu marhoasïni  ">
 
 
-<!ENTITY unknownProtocolFound.title "ixu no kurhankukuarhisïnti">
-<!ENTITY unknownProtocolFound.longDesc "<ul>
-<li>upinkari urani pari jatsikuni materu software parikari mitaaka ix´u.</li>
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>upinkari urani pari jatsikuni materu software parikari mitaaka ix´u.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "terhujtsukua proxy no janhapanhantaxati kutúparhantskuechani">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Menterhu wentsi ixentani íni proxy parikarhi ixeaka éska sési jarhaska.</li> 
-<li>Jirinhansï imani énka yámu ampe janhaskaka pakari ixeaka éska i proxy sési marhuaxaka.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Menterhu wentsi ixentani íni proxy parikarhi ixeaka éska sési jarhaska.</li> <li>Jirinhansï imani énka yámu ampe janhaskaka pakari ixeaka éska i proxy sési marhuaxaka.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "no usïni exentani terhujtsuku proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "ari eranharhitarhakua no sési ax´antaxati">
-<!ENTITY redirectLoop.longDesc "<ul>
-<li>i uantanhiakua jintesti énka no sési ampe ukuarijk´a énka jinteka pari pikurhukuntani o k´uanskuntani ini jaiapenhantakuani énka jinteka cookies.</li>
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>i uantanhiakua jintesti énka no sési ampe ukuarijk´a énka jinteka pari pikurhukuntani o k´uanskuntani ini jaiapenhantakuani énka jinteka cookies.</li></ul>">
 
 <!ENTITY unknownSocketType.title "terhujtsukurhi materhu ampe kurhankusti">
-<!ENTITY unknownSocketType.longDesc "<ul>
-<li>ex´e je éski ari anchikwarita jatsï ari juramukwa énka jinteka ari  jaruap´erikueka jatsikuk´a.</li>
-ari isï upirinti wetsatakueri ma sési ukwaritakwa ma ex´eratakueri eyanpetateri.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<ul><li>ex´e je éski ari anchikwarita jatsï ari juramukwa énka jinteka ari  jaruap´erikueka jatsikuk´a.</li>ari isï upirinti wetsatakueri ma sési ukwaritakwa ma ex´eratakueri eyanpetateri.</li></ul>">
 
 <!ENTITY nssFailure2.title "no usti sesi exentani ">
 
@@ -125,3 +88,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

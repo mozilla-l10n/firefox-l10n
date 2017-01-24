@@ -11,5 +11,4 @@
 <!ENTITY addonAction.uninstall                  "p´ikunarhintantani">
 <!ENTITY addonAction.undo                       "Xerentani">
 
-<!ENTITY addonUnsigned.message                  "This add-on could not be verified by &brandShortName;.">
-<!ENTITY addonUnsigned.learnMore                "Learn more">
+

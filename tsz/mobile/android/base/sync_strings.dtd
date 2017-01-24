@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Jatsïrhukuntani ixu &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "jatsirhukuntani ma mitikurhinskua &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Patsarakua ma terukutantani">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Parhi erhutani jimpanki patsarakua, eraku \&quot; Anhanhasta &syncBrand.shortName.label;” chiti patsarakuarhu.  ">
-<!ENTITY sync.subtitle.header2.label "Kara ini mititaranskuani chiti mataru patsarakuarhu">
-<!ENTITY sync.subtitle.connectlocation2.label "Eraku  \&quot;&sync.title.pair.label;” ixu &syncBrand.shortName.label; erakunskuarhu chiti materu patsarakuarhu Firefox. ">
 <!ENTITY sync.subtitle.pair.label "parha erhutani, eraku je \&quot; majkatsitani ma patsarakua\&quot; chiti mareru patsarakuarhu.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Exérarini na.">
-<!ENTITY sync.link.advancedsetup.label "mojtakurakua iásï anapu...">
 <!ENTITY sync.link.nodevice.label "Nompe ma jatiska urataraku ma jintini jinkoni... ">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Erókaparini máteru uratarakuani...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Kara mamaru ampe chiti mitikurhinskueri ixu anapueri &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Mitikurhinskua jakankurhikueri">
-<!ENTITY sync.input.password.label "mítitarakwarhintskwa">
-<!ENTITY sync.input.key.label "mítitarakwa exentskwa">
-<!ENTITY sync.checkbox.server.label "úrani teruts\u0027ïkurini jantiakukwarhikatani">
-<!ENTITY sync.input.server.label "URL teruts\u0027ï kuriirini">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "no úsïnti mót\u0027akukwarhini &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nóri úakwa inchani teruts\u0027ï kukwarhu. ¿ tsitipirinti ménteru wéntani?">
-<!ENTITY sync.button.tryagain.label "ménteru wéentani">
-<!ENTITY sync.button.manual.label "mót\u0027akukwa jayats\u0027ïkuparini">
-<!ENTITY sync.subtitle.nointernet.label "no  ma jarhat\u0027i internet tixantskata">
-<!ENTITY sync.subtitle.failaccount.label "mítintskwa chéeti úkata wantapatarakwarhu xerekwarhisti">
-<!ENTITY sync.subtitle.failmultiple.label "¿wánekwari Firefox jatsiraatixaki? Yásï &syncBrand.fullName.label;  mák\u0027usï Firefox  jatat\u0027i, cheeri sésikwa jimpo, p´ikuntsï máteruechani pári úrani">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "mót\u0027akuntskwa winiri">
-<!ENTITY sync.subtitle.success.label1 "chiti p´imarhperata iasi ketsixati materu uratarakuarhu. usïnti nirani  majkasï  para xeni chiti uratarakuani o uenan exeni  ini jirinhanskuani jinkoni &brandShortName;">
-<!ENTITY sync.settings.label "K\u0027atantskua">
-<!ENTITY sync.subtitle.manage.label1 "chiti uratarakua  &syncBrand.fullName.label; jarhastia k´atanskata. uxinti nirani chiti ukuecharhu o okari mitani &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Mentaru uentsi, jo.">
-<!ENTITY sync.pair.connectlocation.label "Parha erhutani chiti jímpanki uratarajuani, eraku \&quot; k´atanskuarhu &syncBrand.shortName.label;“ o uratarakuarhu, ka eraku \&quot; jatsiska mitikurhitarakua ma\&quot;.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Mamaru jásï erakukuecha">
-<!ENTITY sync.summary.pair.label "Kunta mataru uratarakuechani chiti materu mitikurhitarakuarhu  &syncBrand.shortName.label;">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "Ámpe majkasïni">
-<!ENTITY sync.configure.engines.sync.my.title.label "Majku jasï imeri...">
-<!ENTITY sync.configure.engines.title.bookmarks "inchakataecha">
-<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
 <!ENTITY sync.configure.engines.title.history "Karantskata patsakata">
 <!ENTITY sync.configure.engines.title.tabs "eranharhikukwa exerakweecha">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "jurarkuni">
-<!ENTITY sync.button.connect.label "inchani">
-<!ENTITY sync.button.ok.label "Jo">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; no jayapanhintsïkata">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -84,98 +29,25 @@
 <!ENTITY bookmarks.folder.places.label " wánikwa incharakwa xarharatakwa">
 <!ENTITY bookmarks.folder.tags.label "Mititanskuecha">
 <!ENTITY bookmarks.folder.toolbar.label "Kantsakata urakuecheri inchakateecheri">
-<!ENTITY bookmarks.folder.unfiled.label "No sési kantsakata jarhasti inchakateecha">
+
 <!ENTITY bookmarks.folder.desktop.label "Inchakateecha eranharhikueri">
 <!ENTITY bookmarks.folder.mobile.label "Inchakata manakurhiriricha ">
-<!ENTITY bookmarks.folder.readinglist.label "Chuxatapakua arhinkueri">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Uaxastakata">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "mák\u0027usï mítitarantskwa jíokwarhti &syncBrand.fullName.label;">
-<!ENTITY sync.notification.configure.saved "chéeti erakukateecha patsakwarhisti">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "arhinhakwa mítitarantskweeri o mítitarantskwa énka no jinteka">
-
-
-
-<!-- Send tab to device. -->
-
-<!ENTITY sync.button.set.up.sync.label "Ísï patsapani&amp;arhiparhatakua, Jakankurhikua, mititarantskua;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "K´atanskua &syncBrand.shortName.label; parha axáni eranharhitakuecharhu">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "k´ atansi &syncBrand.fullName.label; chiti patsaratarakuarhu pariri axani eranharhitanskuechani mataru urakuarhu.">
-<!ENTITY sync.text.tab.sent.label "¡Chiti eranharhitankua axakatestia!">
-<!ENTITY sync.text.tab.not.sent.label "Jarhasti ma eiamperakua axani jamani imeri eranharhitakuani.">
 <!-- Firefox Account strings. -->
-
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_password_hint "Miukuantskua">
-<!ENTITY fxaccount_password_hide "Óntantsperi">
-<!ENTITY fxaccount_password_show "Xarhatani:">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
+
 <!ENTITY fxaccount_back_to_browsing " Jirinhanskuarhu uentani">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-
-
-<!ENTITY fxaccount_getting_started_description2 'Sign in to sync your tabs, bookmarks, logins &amp; more.'>
-
-
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-
-
-
-<!ENTITY fxaccount_create_account_year_of_birth "Uexurhikua antajpikueri">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Xánhatakuani jímpo sési exesïnkani ini jinkoni &formatS1;  ka i &formatS2; ka uratarakua para mamaru jasi  Firefoxri.">
-<!ENTITY fxaccount_create_account_button "Mataru">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Erakuni ampenka  majkasïntajka">
-<!ENTITY fxaccount_create_account_sign_in_instead "Jatsiskaria ma mitikurhinskua? karakuarhi">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 o santeru orhetku">
-<!ENTITY fxaccount_create_account_unknown_error "No usti ukurhini mitikurhinskua">
-
-<!ENTITY fxaccount_account_create_not_allowed "No usïnti ukurhini mitikurhinskua">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Cha jatsiskaksï para andankutani mamuni ampe enkaksï kurhaminhajka jatirikueri para uni ma mitikurhinskua.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Sánteru mítini">
-
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY fxaccount_update_credentials_header "Karakuarhi">
-<!ENTITY fxaccount_update_credentials_button_label "Karakuarhi">
-<!ENTITY fxaccount_update_credentials_unknown_error "No usïnti mitakurhini uenani jamani úni ampe">
-
-
-
-
-<!ENTITY fxaccount_status_header2 "Mitikurhinskua Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Jatsinharhikuni eska nani na ">
+
 
 
 
@@ -191,13 +63,14 @@
 
 
 
-<!ENTITY fxaccount_status_passwords2 'Logins'>
+
 
 
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+
 
 
 
@@ -225,7 +98,6 @@
 
 
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Wantanhiata ma jarasti">
-
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kuarhukukata jarasti karakurhikwa.  &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; Amku incharhutinki">
