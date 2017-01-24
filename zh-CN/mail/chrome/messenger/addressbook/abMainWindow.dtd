@@ -140,6 +140,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新建列表">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY showAsDefault.label                            "默认启动目录">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "编辑">
 <!ENTITY propertiesContext.label                        "属性">
 <!ENTITY propertiesContext.accesskey                    "i">
