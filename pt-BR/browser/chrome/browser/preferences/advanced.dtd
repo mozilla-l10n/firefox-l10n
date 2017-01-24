@@ -11,7 +11,7 @@
 <!ENTITY useCursorNavigation.label       "Usar teclas de setas para percorrer pelas páginas">
 <!ENTITY useCursorNavigation.accesskey   "s">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começa a digitar">
-<!ENTITY blockAutoReload.label           "Alertar quando sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoReload.label           "Avisar quando sites tentarem redirecionar ou recarregar a página">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -23,6 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "R">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "Q">
+<!ENTITY checkUserSpelling.label         "Verificar a ortografia ao digitar">
 
 <!ENTITY dataChoicesTab.label            "Escolha de dados">
 
@@ -93,6 +94,7 @@
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
+<!ENTITY offlineStorageNotify.label               "Informar quando um site solicitar armazenamento para uso offline">
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
 
 <!ENTITY offlineAppsList2.label          "Estes sites estão autorizados a armazenar dados para uso offline:">
