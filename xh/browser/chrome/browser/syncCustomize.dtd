@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "e">
 <!ENTITY engine.history.label             "Imbali">
 <!ENTITY engine.history.accesskey         "l">
-<!ENTITY engine.tabs.label                "Iithebhu">
-<!ENTITY engine.tabs.accesskey            "t">
+
+
 <!ENTITY engine.passwords.label           "Iiphaswedi">
 <!ENTITY engine.passwords.accesskey       "I">
 <!ENTITY engine.addons.label              "Izongezelelo zedesktopu">

@@ -61,8 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Iserifu">
 <!ENTITY  useDefaultFontSansSerif.label           "I-sans serif">
 
-<!ENTITY  allowPagesToUse.label                   "Vumela amakhasi akhethe iifonti zawo endaweni yokukhethwe ndim ngasentla">
-<!ENTITY  allowPagesToUse.accesskey               "V">
+
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Ukufaka Ikhowudi kuMabinzana ngeNjongo yokuQulethweyo okuDluliswayo">
 <!ENTITY languages.customize.Fallback2.label      "Wela Emva Ukufaka Ikhowudi kuMbhalo:">

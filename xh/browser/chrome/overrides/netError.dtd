@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
-<!ENTITY captivePortal.title "Loga ungene kwinethwekhi">
-<!ENTITY captivePortal.longDesc "<p>Le nethwekhi inokufuna ukuba uloge ungene ukuze ufikelele kwi-intanethi.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Vula iPhepha lokuLoga uNgene">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ihambele phambili">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> isebenzisa ubugcisa bokhuseleko obuphelelwe lixesha nobusesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula aveze inkcazelo obucinga ukuba ikhuselekile.">
 <!ENTITY weakCryptoAdvanced.override "(Ayikhuselekanga) Zama ukulowuda <span class='hostname'></span> usebenzisa ukhuseleko oluphelelwe lixesha">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Uqhagamshelo olukhuselekileyo kwi <span id='wrongSystemTime_URL'/> akunakwenzeka ngenxa yokuba iiwotshi kubonakala ibonisa ixesha elingelilo.</p> <p>Ikhompyutha yakho icinga ukuba i <span id='wrongSystemTime_systemDate'/>, ixa imele i <span id='wrongSystemTime_actualDate'/>. Ukuze ulungise le ngxaki, tshintsha iisetingi zomhla nexesha ukuze zingqamane nexesha elichanileyo.</p>">
 
 <!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Le sayithi isebenzisa HTTP Strict Transport Security (HSTS) ukucacisa ukuba i-&brandShortName; iqhagamshelana kuphela  kuyo ngokukhuselekileyo.Ngokomphumo, akunakwenzeka ukuba udibanise okuphume ecaleni kwesi satifikethi.">
