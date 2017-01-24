@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Enka jamperi">
+<!ENTITY  overrideDefaultPageColors.always.label "Enka jamperi">
 
-<!ENTITY  overridePageColors.never.label  "Nóteru uétarhiakia">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nóteru uétarhiakia">
 
 <!ENTITY  color                           "Karakua ka k´uanatsekua anapu">
 <!ENTITY  textColor.label                 "Karakua:">

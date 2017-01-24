@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Terukutantani">
 <!ENTITY engine.bookmarks.label     "Kuirunharitarakuecha">
 <!ENTITY engine.bookmarks.accesskey "K">
-<!ENTITY engine.tabs.label          "Arhukutarakua">
-<!ENTITY engine.tabs.accesskey      "A">
+
+
 <!ENTITY engine.history.label       "Patsakata">
 <!ENTITY engine.history.accesskey   "P">
 <!ENTITY engine.passwords.label     "Miiukuantskuecha">

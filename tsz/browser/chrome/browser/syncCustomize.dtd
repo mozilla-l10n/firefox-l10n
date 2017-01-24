@@ -14,8 +14,8 @@
 <!ENTITY engine.bookmarks.accesskey       "K">
 <!ENTITY engine.history.label             "Patsakata">
 <!ENTITY engine.history.accesskey         "P">
-<!ENTITY engine.tabs.label                "Arhukutarakua">
-<!ENTITY engine.tabs.accesskey            "A">
+
+
 <!ENTITY engine.passwords.label           "Miiukuantskuecha">
 <!ENTITY engine.passwords.accesskey       "M">
 

@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani">
 <!ENTITY useCursorNavigation.accesskey   "m">
-<!ENTITY searchStartTyping.label         "Karapaani jirinhantani karakataachani">
-<!ENTITY searchStartTyping.accesskey     "h">
-<!ENTITY blockAutoRefresh.label          "Eianpeni enka miiunharhitakua uekani jauaka monharhitani eranharhitakua">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -43,6 +43,12 @@
 
 <!ENTITY networkTab.label                "Ch'ieremakua">
 
+
+
+
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
 
 
 
@@ -80,8 +86,8 @@
 
 
 
-<!ENTITY offlineNotifyExceptions.label   "Licha no ampe…">
-<!ENTITY offlineNotifyExceptions.accesskey "L">
+<!ENTITY offlineStorageNotifyExceptions.label     "Licha no ampe…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "L">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kéntitani…">
