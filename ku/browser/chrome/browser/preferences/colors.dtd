@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Her tim">
+<!ENTITY  overrideDefaultPageColors.always.label "Her tim">
 
-<!ENTITY  overridePageColors.never.label  "Qet">
+<!ENTITY  overrideDefaultPageColors.never.label  "Qet">
 
 <!ENTITY  color                           "Deq û Rûerd">
 <!ENTITY  textColor.label                 "Deq:">

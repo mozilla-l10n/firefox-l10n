@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sync bike">
 <!ENTITY engine.bookmarks.label     "Bijare">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Hilpekîn">
-<!ENTITY engine.tabs.accesskey      "H">
+
+
 <!ENTITY engine.history.label       "Dîrok">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Hemû Şîfre">

@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "F">
 <!ENTITY     focusSearch2.key               "K">
 
-<!ENTITY     filter.label                   "Lêgerîn:">
-<!ENTITY     filter.accesskey               "L">
+
 
 <!ENTITY     button.close.label             "Girtin">
 <!ENTITY     button.close.accesskey         "G">

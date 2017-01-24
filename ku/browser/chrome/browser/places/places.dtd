@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pelê hilbijêre...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Vê Rûpelê Têxe nav Bijareyan…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Vê rûpelê jê bibe">
-<!ENTITY cmd.delete.accesskey           "j">
 <!ENTITY cmd.deleteDomainData.label     "Vê rûpelê ji bîr bike">
 <!ENTITY cmd.deleteDomainData.accesskey "b">
 
