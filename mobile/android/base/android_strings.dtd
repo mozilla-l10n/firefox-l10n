@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Egin laster-marka">
 <!ENTITY overlay_share_bookmark_btn_label_already "Dagoeneko laster-marketan">
 <!ENTITY overlay_share_send_other "Bidali beste gailuetara">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Bidali beste gailu batera">
 <!ENTITY overlay_share_no_url "Ez da loturarik aurkitu partekatze honetan">
 <!ENTITY overlay_share_select_device "Hautatu gailua">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Erakutsi bilaketen historia">
 <!ENTITY pref_import_options "Inportatzeko aukerak">
 <!ENTITY pref_import_android_summary "Inportatu laster-markak eta historia nabigatzaile natibotik">
+
 <!ENTITY pref_private_data_history2 "Nabigatze-historia">
 <!ENTITY pref_private_data_searchHistory "Bilaketen historia">
 <!ENTITY pref_private_data_formdata2 "Inprimakien historia">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Fitxen ilara">
 <!ENTITY pref_tab_queue_summary4 "Gorde loturak &brandShortName; irekitzen duzun hurrengo aldirako">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Bilatu \u0027&formatS2;\u0027 &formatS1;(e)n">
 
 <!ENTITY searchable_description "Laster-markak eta historia">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Ukitu deskargatzeko">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; deskargatzen">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Ukitu eguneraketa aplikatzeko behin deskargatuta">
 <!ENTITY updater_downloading_retry2 "Ukitu berriro saiatzeko">
 
-<!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
-<!ENTITY updater_apply_select2 "Ukitu eguneratzeko">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Baztertu">
 <!ENTITY activity_stream_delete_history "Ezabatu historiatik">
+
+
