@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Ersätt alla">
 <!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Stäng">
+<!ENTITY closeButton.accesskey "S">
