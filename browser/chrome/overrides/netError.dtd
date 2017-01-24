@@ -192,9 +192,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fait appel à des technologies de sécurité qui sont obsolètes et vulnérables aux attaques. Un attaquant pourrait facilement révéler des informations que vous pensiez être protégées.">
 <!ENTITY weakCryptoAdvanced.override "(Non sécurisé) Essayer de recharger <span class='hostname'></span> en faisant appel à des technologies de sécurité obsolètes">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Impossible de se connecter de façon sécurisée à <span id='wrongSystemTime_URL'/> car l’horloge semble indiquer la mauvaise heure.</p> <p>Votre ordinateur pense qu’il est <span id='wrongSystemTime_systemDate'/>, alors qu’il est <span id='wrongSystemTime_actualDate'/>. Pour corriger ce problème, modifiez vos paramètres de date et heure afin qu’ils correspondent à l’heure exacte.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; ne s’est pas connecté à <span id='wrongSystemTime_URL'/> car l’horloge semble indiquer la mauvaise heure et cela empêche d’établir une connexion sécurisée.</p> <p>Votre ordinateur pense qu’il est <span id='wrongSystemTime_systemDate'/>, alors qu’il est <span id='wrongSystemTime_actualDate'/>. Pour corriger ce problème, modifiez vos paramètres de date et heure afin qu’ils correspondent à l’heure exacte.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ne s’est pas connecté à <span id='wrongSystemTimeWithoutReference_URL'/> car l’horloge semble indiquer la mauvaise heure et cela empêche d’établir une connexion sécurisée.</p> <p>Votre ordinateur pense qu’il est <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pour corriger ce problème, modifiez vos paramètres de date et heure afin qu’ils correspondent à l’heure exacte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ce site a recours à HTTP Strict Transport Security (HSTS) pour indiquer à &brandShortName; de n’établir qu’une connexion sécurisée. Ainsi il n’est pas possible d’ajouter d’exception pour ce certificat.">
