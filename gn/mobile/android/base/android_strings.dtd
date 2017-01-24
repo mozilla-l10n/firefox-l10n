@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Techaukaha">
 <!ENTITY overlay_share_bookmark_btn_label_already "Mongurusupyre">
 <!ENTITY overlay_share_send_other "Emondo ambue mba\u0027e\u0027okápe">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Emondo ambue mba\u0027e\u0027okápe">
 <!ENTITY overlay_share_no_url "Ndojejuhúi ko juajuhápe">
 <!ENTITY overlay_share_select_device "Eiporavo mba\u0027e\u0027oka">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Ehechauka hekaha rembiasakue">
 <!ENTITY pref_import_options "Porãvopyrã mba\u0027ereru">
 <!ENTITY pref_import_android_summary "Techaukaha ha kundahára ypyguáva rembiasakue">
+
 <!ENTITY pref_private_data_history2 "Kundahára rembiasakue">
 <!ENTITY pref_private_data_searchHistory "Tembiasakue jeheka">
 <!ENTITY pref_private_data_formdata2 "Myanyhẽha rembiasakue">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Tendayke ruguái">
 <!ENTITY pref_tab_queue_summary4 "Eñongatu joajuha eike jey peve &brandShortName;">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Eheka &formatS1; &formatS2;-pe g̃uarã">
 
 <!ENTITY searchable_description "Techaukaha ha tembiasakue">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Hekopyahujeýma &brandShortName;">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Epoko emboguejy hag̃ua">
 
 <!ENTITY updater_downloading_title2 "Emboguejyhína &brandShortName;">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Epoko eipuru hag̃ua oguejypa rire">
 <!ENTITY updater_downloading_retry2 "Epoko eha\u0027ãjey hag̃ua">
 
-<!ENTITY updater_apply_title2 "Hekopyahujeýma &brandShortName;">
-<!ENTITY updater_apply_select2 "Epoko hekopyahu hag̃ua">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -837,4 +838,6 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
 
