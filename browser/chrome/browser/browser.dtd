@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă container nouă">
+<!ENTITY openLinkCmdInContainerTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Copiază">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Deschide toate în file">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
 
 
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
