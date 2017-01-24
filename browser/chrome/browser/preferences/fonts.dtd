@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "韓文">
 <!ENTITY  font.langGroup.cyrillic                 "俄文／西里爾文字">
 <!ENTITY  font.langGroup.el                       "希臘文">
-<!ENTITY  font.langGroup.other                    "其他文字">
+<!ENTITY  font.langGroup.other                    "其他文字系統">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯來文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯文">
@@ -61,6 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "襯線字型 (Serif)">
 <!ENTITY  useDefaultFontSansSerif.label           "無襯線字型 (Sans Serif)">
 
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "開啟老舊內容時使用的文字編碼">
 <!ENTITY languages.customize.Fallback2.label      "備用字元編碼:">

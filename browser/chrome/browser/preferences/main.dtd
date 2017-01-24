@@ -26,6 +26,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "選擇…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "總是檢查 &brandShortName; 是否為您的預設瀏覽器">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">

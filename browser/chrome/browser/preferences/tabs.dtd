@@ -8,8 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "以新分頁取代新視窗">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "在 Windows 工作列顯示分頁預覽圖">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
