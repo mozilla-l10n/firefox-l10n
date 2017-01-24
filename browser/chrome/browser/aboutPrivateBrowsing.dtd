@@ -23,6 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ไม่ได้ทำให้คุณนิรนาม">
 <!ENTITY aboutPrivateBrowsing.note.after                 " บนอินเทอร์เน็ต นายจ้างหรือผู้ให้บริการอินเทอร์เน็ตยังคงสามารถทราบว่าคุณเยี่ยมชมหน้าใดบ้าง">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "เรียนรู้เพิ่มเติมเกี่ยวกับ ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "การท่องเว็บแบบส่วนตัว">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           "">
 
 <!ENTITY trackingProtection.title                        "การป้องกันการตามรอย">
 <!ENTITY trackingProtection.description2                 "บางเว็บไซต์ใช้ตัวติดตามที่สามารถสอดส่องกิจกรรมของคุณบนอินเทอร์เน็ต ด้วยการป้องกันการตามรอย Firefox จะปิดกั้นตัวติดตามจำนวนมากที่สามารถเก็บรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการท่องเว็บของคุณ">
