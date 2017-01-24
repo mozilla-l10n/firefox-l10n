@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Lini &brandShortName; huanza:">
 <!ENTITY startupPage.accesskey     "h">
-<!ENTITY startupHomePage.label     "Onyesha ukurasa wangu wa nyumbani">
+
 <!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
-<!ENTITY startupLastSession.label  "Onyesha madirisha yangu na vichupo kutoka wakati wa mwisho">
+
 
 <!ENTITY homepage.label            "Ukurasa Nyumbani:">
 <!ENTITY homepage.accesskey        "N">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "n">
 <!ENTITY chooseFolderMac.label        "Chagua…">
 <!ENTITY chooseFolderMac.accesskey    "a">
-<!ENTITY alwaysAsk.label "Kila mara niulize mahali pa kuhifadhi faili">
-<!ENTITY alwaysAsk.accesskey "K">
+
+
 
 
 

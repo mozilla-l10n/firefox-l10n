@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Kila wakati">
+<!ENTITY  overrideDefaultPageColors.always.label "Kila wakati">
 
-<!ENTITY  overridePageColors.never.label  "Kamwe">
+<!ENTITY  overrideDefaultPageColors.never.label  "Kamwe">
 
 <!ENTITY  color                           "Matini na Mandharinyuma">
 <!ENTITY  textColor.label                 "Matini:">

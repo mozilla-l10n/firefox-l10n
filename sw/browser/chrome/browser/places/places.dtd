@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Chagua Faili…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "Alamisha Ukurasa Huu…">
-<!ENTITY cmd.bookmarkLink.accesskey     "A">
-<!ENTITY cmd.delete.label               "Futa Ukurasa Huu">
-<!ENTITY cmd.delete.accesskey           "F">
 <!ENTITY cmd.deleteDomainData.label     "Sahau Kuhusu Tovuti Hii">
 <!ENTITY cmd.deleteDomainData.accesskey "S">
 

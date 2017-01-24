@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Kila wakati tumia ufunguo wa mishale kuabiri kwenye kurasa">
 <!ENTITY useCursorNavigation.accesskey   "u">
-<!ENTITY searchStartTyping.label         "Tafutizo la matini wakati ninaanza kupiga chapa">
-<!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Nionye wakati tovuti zinajaribu kuelekeza tena au kuweka upya ukurasa">
-<!ENTITY blockAutoRefresh.accesskey      "v">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Tumia viharakishi maunzi wakati zinapatikana">
 <!ENTITY allowHWAccel.accesskey          "v">
-<!ENTITY checkSpelling.label             "Angalia maendelezo ninapopiga chapa">
-<!ENTITY checkSpelling.accesskey         "p">
+
+
 
 <!ENTITY dataChoicesTab.label            "Chaguo za Data">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Maudhui ya Tovuti Kache">
 
 <!ENTITY offlineStorage2.label           "Maudhui ya Tovuti ya Nje ya Mtandao na Data ya Mtumiaji">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Sasaisha">
 
-<!ENTITY updateApp.label                 "&brandShortName; visasisho:">
 <!ENTITY updateAuto1.label               "Sakinisha kiotomatiki visasisho (imependekezwa: usalama umeboreshwa)">
 <!ENTITY updateAuto1.accesskey           "S">
-<!ENTITY updateCheck.label               "Kagua visasisho, lakini wacha nichague kama nitazisakinisha">
-<!ENTITY updateCheck.accesskey           "K">
+
+
 <!ENTITY updateManual.label              "Kamwe usikague visasisho (haipendekezwi: hatari kwa usalama)">
 <!ENTITY updateManual.accesskey          "K">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Tumia huduma ya usuli ili kusakinisha visasisho">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY updateOthers.label              "Sasisha kiotomatiki">
 <!ENTITY enableSearchUpdate.label        "Injini Tafuti">
 <!ENTITY enableSearchUpdate.accesskey    "T">
 
-<!ENTITY offlineNotify.label             "Niambie wakati wavuti inauliza kuhifadhi data kwa matumizi ya nje ya mtandao">
-<!ENTITY offlineNotify.accesskey         "N">
-<!ENTITY offlineNotifyExceptions.label   "Mambo ya pekee…">
-<!ENTITY offlineNotifyExceptions.accesskey "m">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Mambo ya pekee…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "m">
 
 <!ENTITY offlineAppsList2.label          "Wavuti zifuatazo zinaruhusiwa kuhifadhi data ya matumizi ya nje ya mtandao:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Vyeti">
 
-<!ENTITY certSelection.description       "Wakati seva inaomba cheti changu cha binafsi:">
-<!ENTITY certs.auto                      "Chagua moja kiotomatiki">
 
-<!ENTITY certs.ask                       "Niulize kila wakati">
+<!ENTITY selectCerts.auto                "Chagua moja kiotomatiki">
+
+
 
 
 

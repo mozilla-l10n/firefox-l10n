@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Landanisha">
 <!ENTITY engine.bookmarks.label     "Alamisho">
 <!ENTITY engine.bookmarks.accesskey "s">
-<!ENTITY engine.tabs.label          "Vichupo">
-<!ENTITY engine.tabs.accesskey      "V">
+
+
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Maneno ya siri">

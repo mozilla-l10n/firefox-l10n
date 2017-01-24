@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Ulandanishi Wangu">
 <!ENTITY engine.bookmarks.label     "Vialamisho">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Vichupo">
-<!ENTITY engine.tabs.accesskey      "V">
+
+
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "i">
 <!ENTITY engine.passwords.label     "Nywila">

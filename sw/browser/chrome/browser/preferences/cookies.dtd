@@ -27,8 +27,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Tafutiza:">
-<!ENTITY     filter.accesskey               "T">
+
 
 <!ENTITY     button.close.label             "Funga">
 <!ENTITY     button.close.accesskey         "F">
