@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Tìm cụm từ khi tôi bắt đầu gõ (x)">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Cảnh báo tôi khi trang web gắng chuyển qua hoăc tải lai trang (b)">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "y">
 <!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Kiểm tra chính tả ngay khi tôi gõ">
-<!ENTITY checkSpelling.accesskey         "a">
+
+
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Nội dung web đã được cached">
 
 <!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Cập nhật">
 
-<!ENTITY updateApp.label                 "Cập nhật &brandShortName;:">
 <!ENTITY updateAuto1.label               "Tự động cài đặt các cập nhật (nên làm vì tăng tính bảo mật)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Kiểm tra các cập nhật, nhưng để tôi lựa chọn có cài đặt chúng hay không">
-<!ENTITY updateCheck.accesskey           "c">
+
+
 <!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Tự động cập nhật:">
 <!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 
-<!ENTITY offlineNotify.label             "Báo tôi khi có trang web yêu cầu được lưu trữ dữ liệu để dùng ngoại tuyến">
-<!ENTITY offlineNotify.accesskey         "B">
-<!ENTITY offlineNotifyExceptions.label   "Ngoại trừ…">
-<!ENTITY offlineNotifyExceptions.accesskey "N">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "N">
 
 <!ENTITY offlineAppsList2.label          "Trang dưới đây cho phép lưu dữ liệu để sử dụng ngoại tuyến:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Chứng thư">
 
-<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
-<!ENTITY certs.auto                      "Tự động chọn một cái">
 
-<!ENTITY certs.ask                       "Hỏi tôi mỗi lần">
+<!ENTITY selectCerts.auto                "Tự động chọn một cái">
+
+
 
 
 

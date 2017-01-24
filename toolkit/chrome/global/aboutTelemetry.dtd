@@ -35,9 +35,11 @@
 
 
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Đường tần số">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Các phép đo Đơn giản ">
 

@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "u">
 <!ENTITY engine.history.label             "Nhật ký">
 <!ENTITY engine.history.accesskey         "N">
-<!ENTITY engine.tabs.label                "Thẻ">
-<!ENTITY engine.tabs.accesskey            "T">
+
+
 <!ENTITY engine.passwords.label           "Mật khẩu">
 <!ENTITY engine.passwords.accesskey       "M">
 <!ENTITY engine.addons.label              "Các tiện ích cho máy tính">
