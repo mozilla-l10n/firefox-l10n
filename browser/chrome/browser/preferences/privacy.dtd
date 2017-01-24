@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "आपण सुद्धा  ">
+<!ENTITY  doNotTrack.pre.label          "आपण सुद्धा ">
 <!ENTITY  doNotTrack.settings.label     "आपल्या मागोवा नका घेउ सेटिंग्स व्यवस्थापन करा">
 <!ENTITY  doNotTrack.post.label         ".">
 
