@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "కొత్త కంటేయినర్ జోడించు">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "అభిరుచులు">
+<!ENTITY removeButton.label   "తొలగించు">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; గోప్యతకు తిరిగి వెళ్ళు">
 
