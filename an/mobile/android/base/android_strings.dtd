@@ -155,11 +155,11 @@
 <!ENTITY overlay_share_bookmark_btn_label "Marcapachinas">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya marcada">
 <!ENTITY overlay_share_send_other "Ninviar ta atros dispositivos">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Ninviar ta unatro dispositivo">
 <!ENTITY overlay_share_no_url "No s\u0027i ha trobau garra vinclo">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
@@ -386,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mirar en o historial de busca">
 <!ENTITY pref_import_options "Opcions d\u0027importación">
 <!ENTITY pref_import_android_summary "Importar marcapachinas y historial dende o navegador nativo">
+
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "1 historial de busca">
 <!ENTITY pref_private_data_formdata2 "Historial de formulario">
@@ -535,6 +536,9 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Ringlera de pestanyas">
 <!ENTITY pref_tab_queue_summary4 "Alza-los dica la siguient vegada que ubras &brandShortName;">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -688,9 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 
 <!ENTITY searchable_description "Marcapachinas y historia">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Esvielle disponible ta &brandShortName;">
+<!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Toque-ie ta baixar-la">
 
 <!ENTITY updater_downloading_title2 "Se ye baixando &brandShortName;">
@@ -698,8 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l\u0027esvielle malas que se baixe">
 <!ENTITY updater_downloading_retry2 "Toque-ie ta tornar a prebar-lo">
 
-<!ENTITY updater_apply_title2 "Actualización disponible ta &brandShortName;">
-<!ENTITY updater_apply_select2 "Toque-ie ta esviellar">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -843,3 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Descartar">
 <!ENTITY activity_stream_delete_history "Borrar de l\u0027historial">
+
+
