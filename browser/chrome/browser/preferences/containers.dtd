@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "İsim">
 <!ENTITY addButton.label      "Yeni kapsayıcı ekle">
 <!ENTITY addButton.accesskey  "e">
+
+
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Gizliliğe geri dön">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "İsim:">
 <!ENTITY name.accesskey       "İ">
+
 <!ENTITY icon.label           "Simge:">
 <!ENTITY icon.accesskey       "S">
 <!ENTITY color.label          "Renk:">

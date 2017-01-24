@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Genel">
 
-<!ENTITY  warnAddonInstall.label        "Siteler eklenti yüklemeyi denediklerinde beni uyar">
-<!ENTITY  warnAddonInstall.accesskey    "e">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -17,8 +16,7 @@
 <!ENTITY  blockDownloads.label            "Tehlikeli indirmeleri engelle">
 <!ENTITY  blockDownloads.accesskey        "i">
 
-<!ENTITY  blockUncommonUnwanted.label     "İstenmeyen ve iyi bilinmeyen yazılımlar hakkında beni uyar">
-<!ENTITY  blockUncommonUnwanted.accesskey "b">
+
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar…">
 <!ENTITY  addonExceptions.accesskey     "A">

@@ -30,8 +30,7 @@
 <!ENTITY generic.title "Hoppalaaa.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
-<!ENTITY captivePortal.title "Ağa giriş yap">
-<!ENTITY captivePortal.longDesc "<p>Bu ağ, internete erişmek için giriş yapmanızı istiyor olabilir.</p>">
+
 
 <!ENTITY openPortalLoginPage.label "Giriş sayfasını aç">
 
@@ -112,10 +111,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Gelişmiş">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> sitesi eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu düşündüğünüz bilgileri kolayca ele geçirebilir.">
 <!ENTITY weakCryptoAdvanced.override "(Güvenli değil) Eskimiş güvenlik ayarlarıyla <span class='hostname'></span> adresini yeniden yüklemeyi dene">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/> ile güvenli bağlantı kurulması mümkün değil çünkü saatiniz yanlış görünüyor.</p> <p>Bilgisayarınız saatin <span id='wrongSystemTime_systemDate'/> olduğunu düşünüyor ama aslında <span id='wrongSystemTime_actualDate'/> olmalı. Bu sorunu çözmek için sisteminizin tarih ve saat ayarlarını düzeltmelisiniz.</p>">
 
 <!ENTITY certerror.pagetitle1  "Güvensiz Bağlantı">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine yalnızca güvenli olarak bağlanabileceğini belirtmek için HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak bu sertifika için ayrıcalık tanınamaz.">
