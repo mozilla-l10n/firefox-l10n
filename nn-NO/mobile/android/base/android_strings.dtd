@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Er allereie i bokmerke">
 <!ENTITY overlay_share_send_other "Send til anna eining">
 
+<!ENTITY overlay_share_open_browser_btn_label "Opna i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Vis søkjehistorikk">
 <!ENTITY pref_import_options "Importer val">
 <!ENTITY pref_import_android_summary "Importer bokmerke og historikk frå den opphavelege nettlesaren">
-
+<!ENTITY pref_private_data_openTabs "Opna faner">
 <!ENTITY pref_private_data_history2 "Nettlesarhistorikk">
 <!ENTITY pref_private_data_searchHistory "Søkjehistorikk">
 <!ENTITY pref_private_data_formdata2 "Skjemahistorikk">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Kompakte faner">
+<!ENTITY pref_compact_tabs_summary2 "Arranger faner i to kolonner i ståande modus">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Søk med &formatS1; etter &formatS2;">
 
 <!ENTITY searchable_description "Bokmerke og historikk">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Oppdatering er tilgjengeleg for &brandShortName;">
 <!ENTITY updater_start_select2 "Trykk for å lasta ned">
 
 <!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
@@ -700,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Trykk for å installera når ferdig nedlasta">
 <!ENTITY updater_downloading_retry2 "Trykk for å prøva på nytt">
 
-
+<!ENTITY updater_apply_title3 "Oppdatering er lasta ned for &brandShortName;">
+<!ENTITY updater_apply_select3 "Trykk for å installera">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -845,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Ignorer">
 <!ENTITY activity_stream_delete_history "Slett frå historikk">
 
-
+<!ENTITY activity_stream_welcome_title "Velkomen til høgdepunkta dine">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar no høgdepunkt av det du har oppdaga på nettet, slik at du kan finna tilbake til gode artiklar, videoar, bokmerke og anna.">
