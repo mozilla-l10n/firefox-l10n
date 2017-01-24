@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne">
 <!ENTITY useCursorNavigation.accesskey   "J">
-<!ENTITY searchStartTyping.label         "Dema ku min dest bi nivîsandinê kir, bila lêgerîn dest pê bike">
-<!ENTITY searchStartTyping.accesskey     "D">
-<!ENTITY blockAutoRefresh.label          "Dema ku malper rûpelan ni nû ve barbikin min hişyar bike">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+
+
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Dema ku lezkara reqalavê amade bibe wê bi kar bîne">
 <!ENTITY allowHWAccel.accesskey          "D">
-<!ENTITY checkSpelling.label             "Nivîsandina min wekî ku ez dinivîsim kontrol bike">
-<!ENTITY checkSpelling.accesskey         "t">
+
+
 
 <!ENTITY dataChoicesTab.label            "Vebijarkên daneyan">
 
@@ -55,6 +55,12 @@
 <!ENTITY httpCache.label                 "Naveroka webê ya di pêşbîrê de">
 
 <!ENTITY offlineStorage2.label           "Naverokên webê û zanyariyên bikarhêneran yên negirêdayî">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,11 +80,10 @@
 
 <!ENTITY updateTab.label                 "Nû neke">
 
-<!ENTITY updateApp.label                 "Nûkirina &brandShortName;ê:">
 <!ENTITY updateAuto1.label               "Nûkirinan xweber saz bike (pêşniyar: ewlekariya pêşketî)">
 <!ENTITY updateAuto1.accesskey           "x">
-<!ENTITY updateCheck.label               "Nûkirinan kontrol bike, lê bihêle ku ez biryara sazkirinê bidim">
-<!ENTITY updateCheck.accesskey           "k">
+
+
 <!ENTITY updateManual.label              "Nûkirinan qet kontrol neke (nayê pêşniyarkirin: rîska ewlekariyê)">
 <!ENTITY updateManual.accesskey          "q">
 
@@ -88,14 +93,12 @@
 <!ENTITY useService.label                "Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne">
 <!ENTITY useService.accesskey            "p">
 
-<!ENTITY updateOthers.label              "Xweber nû bike:">
 <!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Gava ku malperekê kir ku daneyên negirêdayî tomar bike min hişyar bike">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Rewşên Taybet...">
-<!ENTITY offlineNotifyExceptions.accesskey "a">
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Rewşên Taybet...">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList2.label          "Destûra malperên li jêrê heye ku daneyên negirêdayî tomar bikin:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,10 +108,10 @@
 
 <!ENTITY certificateTab.label            "Sertîfîka">
 
-<!ENTITY certSelection.description       "Dema ku pêşkêşkarekê li sertîfîkaya min a takekesê bipirse:">
-<!ENTITY certs.auto                      "Yek ji wan bixweber hilbijêre">
 
-<!ENTITY certs.ask                       "Her tim ji min bipirse">
+<!ENTITY selectCerts.auto                "Yek ji wan bixweber hilbijêre">
+
+
 
 
 

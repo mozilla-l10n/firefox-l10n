@@ -28,8 +28,6 @@
 
 <!ENTITY runtimeMenu_disconnect_label "Girêdanê qut bike">
 
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Wêneyê ekranê">
 
 
@@ -119,8 +117,6 @@
 
 <!ENTITY prefs_options_keybindings_default "Standard">
 
-
-<!-- Permissions Table -->
 
 <!-- Runtime Details -->
 

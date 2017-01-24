@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Di destpêka &brandShortName; de:">
 <!ENTITY startupPage.accesskey     "D">
-<!ENTITY startupHomePage.label     "Malpera min nîşan bide">
+
 <!ENTITY startupBlankPage.label    "Rûpeleke vala nîşan bide">
-<!ENTITY startupLastSession.label  "Pencere û hilpekînên dawî nîşan bide">
+
 
 <!ENTITY homepage.label            "Serûpel:">
 <!ENTITY homepage.accesskey        "p">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "g">
 <!ENTITY chooseFolderMac.label        "Hilbijêre...">
 <!ENTITY chooseFolderMac.accesskey    "H">
-<!ENTITY alwaysAsk.label "Di her tomarkirineke pelan de cihî ji min bipirse">
-<!ENTITY alwaysAsk.accesskey "p">
+
+
 
 
 

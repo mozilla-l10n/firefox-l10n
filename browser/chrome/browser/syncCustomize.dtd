@@ -14,8 +14,8 @@
 <!ENTITY engine.bookmarks.accesskey       "B">
 <!ENTITY engine.history.label             "Dîrok">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "Hilpekîn">
-<!ENTITY engine.tabs.accesskey            "H">
+
+
 <!ENTITY engine.passwords.label           "Şîfre">
 <!ENTITY engine.passwords.accesskey       "Ş">
 
