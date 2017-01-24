@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY  overridePageColors.always.label "Njalo">
+<!ENTITY  overrideDefaultPageColors.always.label "Njalo">
 
-<!ENTITY  overridePageColors.never.label  "Ungalokothi">
+<!ENTITY  overrideDefaultPageColors.never.label  "Ungalokothi">
 
 <!ENTITY  color                           "Okubhaliwe nokungemuva">
 <!ENTITY  textColor.label                 "Umbhalo:">

@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Faka ku-sync">
 <!ENTITY engine.bookmarks.label     "Izimpawu zokubekisa">
 <!ENTITY engine.bookmarks.accesskey "z">
-<!ENTITY engine.tabs.label          "Amathebhu">
-<!ENTITY engine.tabs.accesskey      "A">
+
+
 <!ENTITY engine.history.label       "Umlando">
 <!ENTITY engine.history.accesskey   "d">
 <!ENTITY engine.passwords.label     "Amagama wokungena">

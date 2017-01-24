@@ -41,10 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Khetha ifayela…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Phawula leli khasi…">
-<!ENTITY cmd.bookmarkLink.accesskey     "w">
-<!ENTITY cmd.delete.label               "Susa leli khasi">
-<!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Khohlwa ngaleli sayithi">
 <!ENTITY cmd.deleteDomainData.accesskey "n">
 
