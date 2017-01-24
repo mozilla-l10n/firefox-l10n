@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serifada">
 <!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Permitir que as páginas escolham o seu tipo de letra">
+<!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
 <!ENTITY languages.customize.Fallback2.label      "Codificação de texto de retorno:">
