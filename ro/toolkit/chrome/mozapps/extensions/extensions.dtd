@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Instrumente pentru toate suplimentele">
 
-
+<!ENTITY getThemes.description                "Dorești să personalizezi browserul?">
+<!ENTITY getThemes.learnMore                  "Alege dintre mii de teme.">
 
 <!ENTITY cmd.back.tooltip                     "Mergi cu o pagină în urmă">
 <!ENTITY cmd.forward.tooltip                  "Mergi cu o pagină înainte">
