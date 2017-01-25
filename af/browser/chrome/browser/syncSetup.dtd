@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sync my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "Open oortjies">
+<!ENTITY engine.tabs.accesskey      "o">
 <!ENTITY engine.history.label       "Geskiedenis">
 <!ENTITY engine.history.accesskey   "d">
 <!ENTITY engine.passwords.label     "Wagwoorde">
