@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Skreef">
 <!ENTITY  useDefaultFontSansSerif.label           "Skreefleas">
 
+<!ENTITY  allowPagesToUseOwn.label                "Siden tastean om harren eigen lettertype te kiezen, yn stee fan myn seleksje hjirboppe">
+<!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tekstkodearring foar Legacy-ynhâld">
 <!ENTITY languages.customize.Fallback2.label      "Tebekfaltekstkodearring:">
