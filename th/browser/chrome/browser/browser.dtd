@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
-<!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจตกอยู่ในอันตราย">
+<!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
@@ -712,7 +712,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)">
-<!ENTITY identity.description.insecureLoginForms "ข้อมูลการเข้าระบบที่คุณป้อนบนหน้านี้นั้นไม่ปลอดภัยและอาจตกอยู่ในอันตรายได้">
+<!ENTITY identity.description.insecureLoginForms "ข้อมูลการเข้าสู่ระบบที่คุณป้อนในหน้านี้ไม่ปลอดภัยและอาจถูกบุกรุกได้">
 <!ENTITY identity.description.weakCipher "การเชื่อมต่อของคุณไปยังเว็บไซต์นี้ใช้การเข้ารหัสที่อ่อนแอและไม่เป็นส่วนตัว">
 <!ENTITY identity.description.weakCipher2 "คนอื่นสามารถดูข้อมูลของคุณหรือแก้ไขพฤติกรรมของเว็บไซต์ได้">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
