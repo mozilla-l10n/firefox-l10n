@@ -48,7 +48,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Enable/disable all breakpoints">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "הפעלה או נטרול של כל נקודות העצירה">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -146,7 +146,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "נקודת מעקב זו תעצוב את הריצה רק אם הביטוי שלהלן הוא אמת">
+<!ENTITY debuggerUI.condBreakPanelTitle "נקודת עצירה זו תעצור את הריצה רק אם הביטוי שלהלן הוא אמת">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
