@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "เพิ่มการแยกตัวตนใหม่">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "การตั้งค่า">
+<!ENTITY removeButton.label   "เอาออก">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; กลับสู่ความเป็นส่วนตัว">
 
