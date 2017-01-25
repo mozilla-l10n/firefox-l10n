@@ -211,7 +211,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!ENTITY addon.checkingForUpdates.label       "Verificando atualização…">
 <!ENTITY addon.releaseNotes.label             "Notas da versão:">
 <!ENTITY addon.loadingReleaseNotes.label      "Carregando…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Lamentamos, mas ocorreu um erro ao carregar as notas de versão.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Lamento, mas ocorreu um erro ao carregar as notas de lançamento.">
 
 <!ENTITY addon.createdBy.label                "Criação: ">
 
