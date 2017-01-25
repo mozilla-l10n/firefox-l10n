@@ -26,6 +26,7 @@
 <!ENTITY allowHWAccel.label              "Usa aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Verificar la ortografía mientras escribes">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
@@ -57,6 +58,10 @@
 <!ENTITY offlineStorage2.label           "Contenido web sin conexión y datos de usuario">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Datos del sitio">
+<!ENTITY clearSiteData.label             "Eliminar todos los datos">
+<!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteDataSettings.label          "Configuraciones…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Aprende más">
 
@@ -92,9 +97,11 @@
 <!ENTITY useService.label                "Utilizar un servicio en segundo plano para instalar las actualizaciones">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY autoUpdateOthers.label          "Actualización automática">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
+<!ENTITY offlineStorageNotify.label               "Te avisa cuando los sitios web te piden almacenar datos para utilizarlos fuera de línea">
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido almacenar datos para usarlos sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
