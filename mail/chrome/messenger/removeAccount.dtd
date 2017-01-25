@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc           "Видаляє лише знання &brandShortName; про цей обліковий запис. Не зачіпає власне обліковий запис на сервері.">
 <!ENTITY removeData.label             "Видалити дані повідомлень">
 <!ENTITY removeData.accesskey         "п">
+<!ENTITY removeDataChat.label         "Видалити дані розмови">
+<!ENTITY removeDataChat.accesskey     "л">
 <!ENTITY removeDataLocalAccount.desc  "Видаляє всі повідомлення, теки й фільтри, що пов'язані з цим обліковим записом з вашого локального диска. Не зачіпає деякі повідомлення, що все ще можуть зберігатися на сервері. Не обирайте це, якщо ви плануєте архівувати локальні дані чи використовувати їх повторно в &brandShortName; згодом.">
 <!ENTITY removeDataServerAccount.desc "Видаляє всі повідомлення, теки й фільтри, що пов'язані з цим обліковим записом з вашого локального диска. Ваші повідомлення й теки все ще зберігаються на сервері.">
+<!ENTITY removeDataChatAccount.desc   "Видаляє всі розмови для цього облікового запису, що зберігаються на вашому локальному диску.">
 <!ENTITY showData.label               "Показати розташування даних">
 <!ENTITY showData.accesskey           "к">
 <!ENTITY progressPending              "Видалення обраних даних…">
