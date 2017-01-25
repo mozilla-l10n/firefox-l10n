@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Cyffredinol">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Rhybuddio pan fydd gwefan yn ceisio gosod ychwanegion">
+<!ENTITY  warnOnAddonInstall.accesskey    "R">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Rhwystro llwytho i lawr peryglus">
 <!ENTITY  blockDownloads.accesskey        "p">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Rhybuddio fi am feddalwedd diofyn ac anghyffredin">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Eithriadau…">
 <!ENTITY  addonExceptions.accesskey     "E">

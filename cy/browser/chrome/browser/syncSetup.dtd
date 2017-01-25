@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Cydweddu Fy">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
 <!ENTITY engine.bookmarks.accesskey "N">
-
-
+<!ENTITY engine.tabs.label2         "Agor Tabiau">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Cyfrineiriau">
