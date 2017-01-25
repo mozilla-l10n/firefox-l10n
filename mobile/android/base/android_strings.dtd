@@ -854,3 +854,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Сховати">
 <!ENTITY activity_stream_delete_history "Видалити з історії">
 
+<!ENTITY activity_stream_welcome_title "Вітаємо в Основному">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки основного, що ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок, а також інших сторінок.">
