@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Nod tudalen arno eisoes">
 <!ENTITY overlay_share_send_other "Anfon i ddyfais arall">
 
+<!ENTITY overlay_share_open_browser_btn_label "Mewngofnodi i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Dangos hanes chwilio">
 <!ENTITY pref_import_options "Dewisiadau mewnbynnu">
 <!ENTITY pref_import_android_summary "Mewnforio nodau tudalen a hanes o\u0027r porwr cynhenid">
-
+<!ENTITY pref_private_data_openTabs "Agor tabiau">
 <!ENTITY pref_private_data_history2 "Hanes pori">
 <!ENTITY pref_private_data_searchHistory "Hanes chwilio">
 <!ENTITY pref_private_data_formdata2 "Hanes ffurflen">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Tabiau bach">
+<!ENTITY pref_compact_tabs_summary2 "Trefnu tabiau mewn dwy golofn yn y modd portread">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Chwilio &formatS1; am &formatS2;">
 
 <!ENTITY searchable_description "Nodau Tudalen a hanes">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_start_select2 "Cyffwrdd i lwytho i lawr">
 
 <!ENTITY updater_downloading_title2 "Llwytho &brandShortName; i lawr">
@@ -700,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Cyffwrdd i osod diweddariad wedi ei lwytho i lawr">
 <!ENTITY updater_downloading_retry2 "Cyffwrdd i geisio eto">
 
-
+<!ENTITY updater_apply_title3 "Diweddariad ar gael ar gyfer &brandShortName;">
+<!ENTITY updater_apply_select3 "Cyffwrdd i\u0027w osod">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -845,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Diffodd">
 <!ENTITY activity_stream_delete_history "Dileu o\u0027r Hanes">
 
-
+<!ENTITY activity_stream_welcome_title "Croeso i\u0027ch Uchafbwyntiau">
+<!ENTITY activity_stream_welcome_content1 "Mae &brandShortName; nawr yn creu uchafbwyntiau o bethau ydych wedi eu darganfod ar y we fel bod modd canfod eich ffordd yn ôl at erthyglau, nodau tudalen a thudalennau eraill, da.">
