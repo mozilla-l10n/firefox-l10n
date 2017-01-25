@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "వీటిని సింక్‌చేయి">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశాలు">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "ట్యాబులను తెరువుము">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">

@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "సాధారణం">
 
+<!ENTITY  warnOnAddonInstall.label        "సైట్లు పొడిగింతలను స్థాపించడానికి ప్రయత్నించినపుడు మిమ్మల్ని హెచ్చరించు">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "ప్రమాదకరమైన దింపుకోళ్ళను నిరోధించు">
 <!ENTITY  blockDownloads.accesskey        "D">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నిన్ను హెచ్చరించు">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "మినహాయింపులు…">
 <!ENTITY  addonExceptions.accesskey     "E">

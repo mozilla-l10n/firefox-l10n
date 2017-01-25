@@ -773,6 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "కాపీచేయి">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "అన్నింటినీ ట్యాబులలో తెరువండి">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
