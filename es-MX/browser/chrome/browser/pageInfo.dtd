@@ -81,7 +81,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "¿He guardado contraseñas de este sitio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver contraseñas guardadas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Detalles técnicos">
 

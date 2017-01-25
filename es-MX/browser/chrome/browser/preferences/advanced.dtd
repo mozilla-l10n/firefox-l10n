@@ -57,6 +57,7 @@
 <!ENTITY offlineStorage2.label           "Contenido web sin conexión y datos de usuario">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataLearnMoreLink.label     "Aprende más">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -76,6 +77,7 @@
 
 <!ENTITY updateTab.label                 "Actualizar">
 
+<!ENTITY updateApplication.label         "&brandShortName; actualizaciones">
 <!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateManual.label              "No buscar actualizaciones (no recomendado: riesgo de seguridad)">
