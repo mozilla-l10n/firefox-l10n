@@ -8,6 +8,7 @@
 <!ENTITY startupPage.accesskey     "o">
 <!ENTITY startupUserHomePage.label "Mostrar sua página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
+<!ENTITY startupPrevSession.label  "Mostrar suas janelas e abas anteriores">
 
 <!ENTITY homepage.label            "Página inicial:">
 <!ENTITY homepage.accesskey        "n">
@@ -28,6 +29,7 @@
 <!ENTITY chooseFolderMac.label        "Procurar…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Sempre perguntar onde salvar arquivos">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Sempre verificar se o &brandShortName; é o navegador padrão">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
