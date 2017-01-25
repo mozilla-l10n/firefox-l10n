@@ -71,9 +71,9 @@
 
 <!ENTITY updateTab.label                 "Оновлення">
 
-<!ENTITY updateAuto1.label               "Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)">
+<!ENTITY updateAuto1.label               "Автоматично встановлювати оновлення (рекомендовано)">
 <!ENTITY updateAuto1.accesskey           "А">
-<!ENTITY updateManual.label              "Не перевіряти оновлення (не рекомендовано: небезпечно)">
+<!ENTITY updateManual.label              "Не перевіряти оновлення (не рекомендовано)">
 <!ENTITY updateManual.accesskey          "Н">
 
 <!ENTITY updateHistory.label             "Показати журнал оновлень">
