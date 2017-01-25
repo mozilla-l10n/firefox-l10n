@@ -57,6 +57,8 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Congelamentos de threads">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Pilhas capturadas">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares">

@@ -171,7 +171,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nome">
 <!ENTITY sort.name.tooltip                    "Ordenar pelo nome">
-<!ENTITY sort.dateUpdated.label               "Atualização">
+<!ENTITY sort.dateUpdated.label               "Última atualização">
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar pela data de atualização">
 <!ENTITY sort.relevance.label                 "Relevância">
 <!ENTITY sort.relevance.tooltip               "Atualizar pela relevância">
