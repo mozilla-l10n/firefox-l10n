@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Rnu amagbar nniḍen">
 <!ENTITY addButton.accesskey  "R">
-
-
+<!ENTITY preferencesButton.label "Timsisɣal">
+<!ENTITY removeButton.label   "kkes">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Uɣal ar tinigin tusligt">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Isem:">
 <!ENTITY name.accesskey       "I">
-
+<!ENTITY name.placeholder     "Sekcem isem n umagbar ">
 <!ENTITY icon.label           "Tignit:">
 <!ENTITY icon.accesskey       "g">
 <!ENTITY color.label          "Ini:">

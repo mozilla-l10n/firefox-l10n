@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Ldi asfaylu amaynut ɣef yiccer nniḍen ">
 <!ENTITY newWindowsAsTabs.accesskey   "d">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Lɣu ticki medlen deqs n yiccaren">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "L">
 
+<!ENTITY warnOnOpenManyTabs.label       "Lɣu-yid ticki ilukkez &brandShortName; ma ldin aṭas n yiccaren ">
+<!ENTITY warnOnOpenManyTabs.accesskey   "L">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Ticki ad ldiɣ aseɣwen deg iccer amaynut, ddu ɣur-s imir ">
+<!ENTITY switchLinksToNewTabs.accesskey    "T">
 
 <!ENTITY showTabsInTaskbar.label          "Sken taskant n yiccaren deg ufeggag n twira n Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "S">

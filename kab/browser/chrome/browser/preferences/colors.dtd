@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Snifel initen i d-ittunefken sɣur asebter s wid yettwafernen nig-a: ">
+<!ENTITY  overrideDefaultPageColors.accesskey    "S">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Yal tikelt">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Anagar i yisentalen yellan s ugnil awriran">

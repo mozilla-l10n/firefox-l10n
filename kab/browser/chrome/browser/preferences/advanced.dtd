@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebter">
 <!ENTITY useCursorNavigation.accesskey   "S">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Nadi aḍris ticki tebda tira">
+<!ENTITY searchOnStartTyping.accesskey   "N">
+<!ENTITY blockAutoReload.label           "Lɣu-yid ticki asmel web ad yeɛreḍ asnifel n ubrid neɣ asniles n usali ">
+<!ENTITY blockAutoReload.accesskey       "L">
 <!ENTITY useOnScreenKeyboard.label       "Sken anasiw amennalan ticki terra tmara">
 <!ENTITY useOnScreenKeyboard.accesskey   "n">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">
-
-
+<!ENTITY checkUserSpelling.label         "Senqed taɣdira yinu mi ara ttaruɣ ">
+<!ENTITY checkUserSpelling.accesskey     "q">
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Agbur web d isefka n useqdac deg uskar war tuqqna">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "isefka n usmel">
 
 
-
-
+<!ENTITY siteDataSettings.label          "Iɣewwaṛen...">
+<!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataLearnMoreLink.label     "Lmed ugar">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Leqqem">
 
+<!ENTITY updateApplication.label         "Ileqman n &brandShortName;">
 <!ENTITY updateAuto1.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "Senqed ma llan ileqman, acu kan eǧǧ-iyi a ten-sbeddeɣ ">
+<!ENTITY updateCheckChoose.accesskey     "n">
 <!ENTITY updateManual.label              "Weṛǧin ad tesneqdeḍ ileqman (ur ilhi ara acku yella wugur n tɣellist)">
 <!ENTITY updateManual.accesskey          "W">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Seqdec ameẓlu n ugilal i usebded n ileqman">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Leqqem s wudem awurman ">
 <!ENTITY enableSearchUpdate.label        "Imseddayen n unadi">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-
+<!ENTITY offlineStorageNotify.label               "Lɣu-yi-d ticki asmel yebɣa ad isekles isefka i useqdec arusrid ">
+<!ENTITY offlineStorageNotify.accesskey           "L">
 <!ENTITY offlineStorageNotifyExceptions.label     "Tisuraf…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "T">
 
@@ -109,10 +114,10 @@
 
 <!ENTITY certificateTab.label            "Iselkinen">
 <!ENTITY certPersonal.label              "Isutren">
-
+<!ENTITY certPersonal.description        "Ticki aqeddac isuter aselkin-iw udmawan: ">
 <!ENTITY selectCerts.auto                "Fren yiwen s wudem awurman">
 
-
+<!ENTITY selectCerts.ask                 "Steqsi-yi-d yal tikelt ">
 
 <!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen ">
 <!ENTITY enableOCSP.accesskey            "S">

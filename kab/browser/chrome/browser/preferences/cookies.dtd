@@ -28,7 +28,8 @@
 <!ENTITY     focusSearch1.key               "c">
 <!ENTITY     focusSearch2.key               "d">
 
-
+<!ENTITY     searchFilter.label             "Nadi">
+<!ENTITY     searchFilter.accesskey         "N">
 
 <!ENTITY     button.close.label             "Mdel">
 <!ENTITY     button.close.accesskey         "M">

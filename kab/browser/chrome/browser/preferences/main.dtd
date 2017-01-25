@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Di tnekra n &brandShortName;:">
 <!ENTITY startupPage.accesskey     "D">
-
+<!ENTITY startupUserHomePage.label "Sken asebter-iw agejdan ">
 <!ENTITY startupBlankPage.label    "Sken asebter ilem">
-
+<!ENTITY startupPrevSession.label  "Sken iccaren ineggura akked isfuyla yettusqedcen ">
 
 <!ENTITY homepage.label            "Asebter agejdan:">
 <!ENTITY homepage.accesskey        "A">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "u">
 <!ENTITY chooseFolderMac.label        "Fren…">
 <!ENTITY chooseFolderMac.accesskey    "F">
-
-
+<!ENTITY alwaysAskWhere.label         "Suter yal tikelt anida ad ttwakelsen ifuyla ">
+<!ENTITY alwaysAskWhere.accesskey     "S">
 
 <!ENTITY alwaysCheckDefault2.label        "Senqed yal tikelt ma yella &brandShortName; d iminig-ik amezwar">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
