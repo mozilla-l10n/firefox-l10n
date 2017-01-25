@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Kunga feeri zanfun taaga ra">
 <!ENTITY openFrameCmd.accesskey       "z">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Dobu feeri sun kanji taaga ra">
+<!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Kungaa woo de cebe">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Berandi">
 <!ENTITY syncedTabs.context.copy.accesskey                   "B">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Kul feeri kanjey ra">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "f">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

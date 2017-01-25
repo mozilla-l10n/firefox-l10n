@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "D">
 <!ENTITY engine.history.label             "Taariki">
 <!ENTITY engine.history.accesskey         "r">
-
-
+<!ENTITY engine.tabs.label2               "Kanjey feeri">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Šennikufaley">
 <!ENTITY engine.passwords.accesskey       "e">
 <!ENTITY engine.addons.label              "Ordinater tontoney">

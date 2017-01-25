@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Bay ka tonton…">
 
-
+<!ENTITY defaultButton.label "Ayyo!">
+<!ENTITY defaultButton.accesskey "o">

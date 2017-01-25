@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "H">
 <!ENTITY cmd.resume.label                 "Šintin taaga">
 <!ENTITY cmd.resume.accesskey             "Š">
-
+<!ENTITY cmd.cancel.label                 "Naŋ">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
