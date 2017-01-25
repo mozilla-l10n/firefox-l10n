@@ -467,7 +467,7 @@ size. -->
 <!ENTITY save_as_pdf "Kles d PDF">
 <!ENTITY print "Siggez">
 <!ENTITY find_in_page "Nadi deg usebter">
-<!ENTITY desktop_mode "Suter asmel n ufellaru">
+<!ENTITY desktop_mode "Suter asmel n tnarit">
 <!ENTITY page "Asebter">
 <!ENTITY tools "Ifecka">
 <!ENTITY new_tab "Iccer amaynut">
@@ -540,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Iccaren ussiden">
+<!ENTITY pref_compact_tabs_summary2 "Seggem iccaren di snat n tgejda du uskar ahrawan">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -693,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Nadi &formatS1; ɣef &formatS2;">
 
 <!ENTITY searchable_description "Ticraḍ d umazray">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Lqem n &brandShortName; yellan">
 <!ENTITY updater_start_select2 "Nnal akken ad d-tessidreḍ">
 
 <!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
@@ -701,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Nnal akken ad tesneseḍ lqem ticki yettusider-d">
 <!ENTITY updater_downloading_retry2 "Nnal akken ad tɣerḍeḍ tikelt nniḍen.">
 
-
+<!ENTITY updater_apply_title3 "Lqem n &brandShortName; yellan">
+<!ENTITY updater_apply_select3 "Nal akken ad tesbedded">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -846,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Aggwi">
 <!ENTITY activity_stream_delete_history "Kkes seg umazray">
 
-
+<!ENTITY activity_stream_welcome_title "Anṣuf ɣef wayen tesebṛurqeḍ">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; irennu tura asebṛuṛeq n tɣawsiwin i tufiḍ di i tzemreḍ sakin ad tuɣaleḍ ɣur-sent ama d imagraden, tividyutin, ticraḍ n isebtar neɣ isebtar-nniḍen.">

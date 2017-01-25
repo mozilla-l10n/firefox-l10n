@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label "Tibzimin">
 <!ENTITY bookmarks.folder.toolbar.label "Afeggag udmawan">
 <!ENTITY bookmarks.folder.other.label "Ticrad nniḍen">
-<!ENTITY bookmarks.folder.desktop.label "Ticraḍ n ufellaru">
+<!ENTITY bookmarks.folder.desktop.label "Ticraḍ n tnarit">
 <!ENTITY bookmarks.folder.mobile.label "Ticraḍ n usebter n tiliɣṛi">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ttwasentan">
