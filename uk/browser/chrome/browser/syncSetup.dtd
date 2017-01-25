@@ -85,6 +85,7 @@
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
 <!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label2         "Відкриті вкладки">
 <!ENTITY engine.tabs.accesskey      "В">
 <!ENTITY engine.history.label       "Історію">
 <!ENTITY engine.history.accesskey   "І">
@@ -95,9 +96,9 @@
 <!ENTITY engine.addons.label        "Додатки">
 <!ENTITY engine.addons.accesskey    "Д">
 
-<!ENTITY choice2a.merge.main.label       "Об’єднати дані на цьому пристрої з моїми даними  &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Об’єднати дані на цьому пристрої з моїми даними &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Рекомендовано:">
-<!ENTITY choice2a.client.main.label      "Замінити всі дані на цьому пристрої моїми даними  &syncBrand.shortName.label;">
+<!ENTITY choice2a.client.main.label      "Замінити всі дані на цьому пристрої моїми даними &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Замінити дані на всіх інших пристроях даними з цього пристрою">
 
 <!-- Confirm Merge Options -->

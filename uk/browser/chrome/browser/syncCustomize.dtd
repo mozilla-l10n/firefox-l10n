@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "з">
 <!ENTITY engine.history.label             "Історію">
 <!ENTITY engine.history.accesskey         "і">
+<!ENTITY engine.tabs.label2               "Відкриті вкладки">
 <!ENTITY engine.tabs.accesskey            "В">
 <!ENTITY engine.passwords.label           "Паролі">
 <!ENTITY engine.passwords.accesskey       "п">

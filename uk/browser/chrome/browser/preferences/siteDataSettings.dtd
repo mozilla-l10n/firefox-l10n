@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Налаштування - Дані сайтів">
+<!ENTITY     settings.description          "Наступні веб-сайти запитують про збереження даних на вашому диску. Ви можете вказати, яким веб-сайтам дозволено зберігати дані. Типово, дані сайтів є тимчасовими і можуть бути видалені автоматично.">
+<!ENTITY     hostCol.label                 "Сайт">
+<!ENTITY     statusCol.label               "Стан">
+<!ENTITY     usageCol.label                "Сховище">
+<!ENTITY     search.label                  "Пошук:">
+<!ENTITY     search.accesskey              "П">
