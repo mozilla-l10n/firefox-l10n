@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Bæta við nýjum innihaldsflipa">
 <!ENTITY addButton.accesskey  "a">
-
-
+<!ENTITY preferencesButton.label "Stillingar">
+<!ENTITY removeButton.label   "Fjarlægja">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Til baka í friðhelgi">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Heiti:">
 <!ENTITY name.accesskey       "H">
-
+<!ENTITY name.placeholder     "Sláðu inn nafn innihaldsflipa">
 <!ENTITY icon.label           "Táknmynd:">
 <!ENTITY icon.accesskey       "y">
 <!ENTITY color.label          "Litur:">
