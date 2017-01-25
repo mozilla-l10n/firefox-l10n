@@ -13,7 +13,7 @@
 -->
 <!ENTITY     button.removeSelectedCookies.accesskey "S">
 <!ENTITY     button.removeAllCookies.label "Tümünü kaldır">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     button.removeAllCookies.accesskey "k">
 
 <!ENTITY     props.name.label               "Ad:">
 <!ENTITY     props.value.label              "İçerik:">
@@ -28,7 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Ara">
+<!ENTITY     searchFilter.accesskey         "A">
 
 <!ENTITY     button.close.label             "Kapat">
 <!ENTITY     button.close.accesskey         "K">
