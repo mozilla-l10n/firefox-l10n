@@ -851,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Noraidīt">
 <!ENTITY activity_stream_delete_history "Dzēst no vēstures">
 
+<!ENTITY activity_stream_welcome_title "Esiet sveicināti jaunumos">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; veido jaunumu sarakstu ar ievērojamām lietām, lai varat atkal atrast lieliskus rakstus, video, grāmatzīmes un citas lapas.">
