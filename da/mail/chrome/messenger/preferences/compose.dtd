@@ -52,6 +52,9 @@
 <!ENTITY directoriesNone.label "Ingen">
 <!ENTITY editDirectories.label "Rediger LDAP-servere…">
 <!ENTITY editDirectories.accesskey "R">
+<!ENTITY showAsDefault.label                   "Standardmappe ved start i vinduet Adressebog:">
+<!ENTITY showAsDefault.accesskey               "t">
+<!ENTITY showAsDefaultLast.label               "Senest brugte mappe">
 <!ENTITY sendOptionsDescription.label "Konfigurering af meddelelsesindholdet:">
 <!ENTITY sendOptions.label "Afsendelsesindstillinger…">
 <!ENTITY sendOptions.accesskey "A">

@@ -4,19 +4,18 @@
 
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title        "Ny mailingliste">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label "Tilføj i:">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label "Tilføj i:">
+<!ENTITY addToAddressBook.accesskey "T">
 <!ENTITY ListName.label "Listenavn:">
+<!ENTITY ListName.accesskey "L">
 <!ENTITY ListNickName.label "Listealias:">
+<!ENTITY ListNickName.accesskey "a">
 <!ENTITY ListDescription.label "Beskrivelse:">
+<!ENTITY ListDescription.accesskey "B">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Indtast mailadresser for at føje dem til mailinglisten:">
+<!ENTITY AddressTitle.accesskey         "I">
 <!ENTITY UpButton.label "Flyt op">
 <!ENTITY DownButton.label "Flyt ned">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "T">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "a">
-<!ENTITY ListDescription.accesskey "B">
