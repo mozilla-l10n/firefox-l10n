@@ -33,21 +33,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Karmaşadan kurtulun">
 <!ENTITY firstrun_readerview_subtext "Çevrimdışıyken bile yazıları daha kolay okumak için Okuyucu Görünümü\u0027nü kullanın.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Siz">
 <!ENTITY firstrun_account_message "Başka bir cihazda &brandShortName; kullanıyor musunuz?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;\u0027un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Yer imleri">
 <!ENTITY  history_title "Geçmiş">
 
 <!ENTITY  switch_to_tab "Sekmeye geç">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Çevrimdışı sürüm gösteriliyor">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
@@ -81,9 +81,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekran Görüntüleri">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Okuma Listesi">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; öğe">
 <!ENTITY bookmark_folder_one_item "1 öğe">
 
@@ -131,31 +131,32 @@
 <!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_general "Genel">
 <!ENTITY pref_category_general_summary3 "Giriş, dil, sekme kuyruğu">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Dil">
 <!ENTITY pref_category_language_summary "Tarayıcınızın dilini değiştirin">
 <!ENTITY pref_browser_locale "Tarayıcı dili">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Sistem varsayılanı">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Ekle: &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Yer imlerine ekle">
 <!ENTITY overlay_share_bookmark_btn_label_already "Zaten yer imlerinde">
 <!ENTITY overlay_share_send_other "Başka aygıtlara gönder">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; ile aç">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -229,8 +230,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Adres veya aranacak terim yazın">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Genel">
 <!ENTITY pref_header_search "Arama">
 <!ENTITY pref_header_privacy_short "Gizlilik">
@@ -244,10 +245,10 @@
 <!ENTITY pref_cookies_accept_all "Etkin">
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Veri tasarrufu">
 <!ENTITY pref_category_media "Medya">
 <!ENTITY pref_category_developer_tools "Geliştirici araçları">
@@ -271,18 +272,18 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName;’de neler yeni?">
 <!ENTITY pref_whats_new_notification_summary "Güncellemeyle gelen yeni özellikleri öğrenin">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Deneysel özellikler">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "Özel sekmeler">
 <!ENTITY pref_custom_tabs_summary3 "Uygulamalar, web sitelerini özelleştirilmiş bir &brandShortName; sürümüyle açabilir">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Etkinlik Akışı">
 <!ENTITY pref_activity_stream_summary "Zengin bir görsel geçmiş akışı ve yeniden tasarlanan giriş sayfası ile &brandShortName; tarayıcınızda aradığınızı bulmak artık daha da kolay.">
 
@@ -313,9 +314,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 sekme bekliyor">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
 <!ENTITY tab_queue_notification_settings "\&quot;Birden fazla bağlantıyı açmak\&quot; için lütfen &brandShortName; uygulamasının \&quot;diğer uygulamaların üzerinde görüntüleme\&quot; iznini etkinleştirin">
 
 <!ENTITY content_notification_summary "&brandShortName;">
@@ -365,9 +366,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
 <!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
@@ -386,7 +387,6 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Arama geçmişini göster">
 <!ENTITY pref_import_options "İçe aktarma seçenekleri">
 <!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
-
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
 <!ENTITY pref_private_data_formdata2 "Form geçmişi">
@@ -424,13 +424,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; Sağlık Raporu">
 <!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamına yardımcı olur">
 <!ENTITY datareporting_abouthr_title "Sağlık Raporu\u0027mu Göster">
@@ -449,8 +449,8 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_update_autodownload_never "Asla">
 <!ENTITY pref_update_autodownload_always "Her zaman">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Yardım">
 
 <!ENTITY quit "Çık">
@@ -478,16 +478,16 @@ size. -->
 <!ENTITY set_image_fail "Resim ayarlanamadı">
 <!ENTITY set_image_path_fail "Resim kaydedilemedi">
 <!ENTITY set_image_chooser_title "Resmi ayarla">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Sayfada bul">
 <!ENTITY find_prev "Önceki">
 <!ENTITY find_next "Sonraki">
 <!ENTITY find_close "Kapat">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Aygıta gönderiliyor">
 <!ENTITY media_play "Yürüt">
 <!ENTITY media_pause "Duraklat">
@@ -508,10 +508,10 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Siteyi sabitle">
 <!ENTITY contextmenu_top_sites_unpin "Sabitlenmesini kaldır">
 <!ENTITY contextmenu_add_search_engine "Arama motoru ekle">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Kullanıcı adı yok]">
 <!ENTITY doorhanger_login_edit_title "Hesabı düzenle">
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı adı">
@@ -523,41 +523,42 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Parola kopyalanamadı">
 <!ENTITY doorhanger_login_select_action_text "Başka bir hesap seçin">
 <!ENTITY doorhanger_login_select_title "Parolayı buradan kopyala">
+
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-
 <!ENTITY pref_magnifying_glass_enabled "Küçük alanları büyüt">
 <!ENTITY pref_magnifying_glass_enabled_summary2 "Yakınlarına tıkladığım bağlantıları ve form alanlarını büyüt">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Tam ekran gezinti">
 <!ENTITY pref_scroll_title_bar_summary2 "Sayfayı aşağı kaydırırken &brandShortName; araç çubuğunu gizle">
 
 <!ENTITY pref_tab_queue_title3 "Sekme sırası">
 <!ENTITY pref_tab_queue_summary4 "Bir sonraki &brandShortName; açılışına kadar bağlantıları kaydet">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs_summary2 "Dikey görünümde sekmeleri iki sütuna ayır">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Sayfa silindi">
 
 <!ENTITY bookmark_edit_title "Yer imini düzenle">
 <!ENTITY bookmark_edit_name "İsim">
 <!ENTITY bookmark_edit_location "Konum">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Site Ayarları">
 <!ENTITY site_settings_cancel       "İptal">
 <!ENTITY site_settings_clear        "Temizle">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Ek eylemler">
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
@@ -578,9 +579,9 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Site ekle">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName; Ana Sayfası">
 <!ENTITY home_history_title "Geçmiş">
 <!ENTITY home_synced_devices_smartfolder "Eşitlenen cihazlar">
@@ -601,19 +602,19 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pşşt: &formatS1;Yeni gizli sekme&formatS2; açarsanız geçmişinizin saklanmayacağını biliyor musunuz?">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Bu panel için içerik bulunamadı.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Geri dön: &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; cihaz gizlendi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -632,8 +633,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
 <!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
 <!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bağlandığınız site:">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -649,21 +650,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Güvenli bağlantı">
 <!ENTITY identity_connection_insecure "Güvenilmez bağlantı">
 <!ENTITY identity_connection_chromeui "Burası güvenli bir &brandShortName; sayfasıdır">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu sayfadaki güvenli olmayan içeriği engelledi.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; bu sayfadaki güvensiz içeriğin bir kısmını engelledi.">
 <!ENTITY mixed_content_display_loaded1 "Bu sayfanın bazı kısımları (örn. resimler) güvenli değil.">
 <!ENTITY mixed_content_protection_disabled1 "Güvensiz içerikten korunmayı devre dışı bıraktınız.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "İzlenme Koruması">
 <!ENTITY doorhanger_tracking_state_enabled "Etkin">
 <!ENTITY doorhanger_tracking_state_disabled "Devre dışı">
 <!ENTITY doorhanger_tracking_message_enabled1 "Çevrimiçi davranışlarınızı izleme girişimleri engellendi.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Bu sayfa, gezintinizi izleyebilecek öğeler içeriyor.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Daha fazla bilgi">
 <!ENTITY enable_protection "Korumayı etkinleştir">
 <!ENTITY disable_protection "Korumayı kapat">
@@ -685,14 +686,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "&formatS;ile ara">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "&formatS1; üzerinde &formatS2; araması">
 
 <!ENTITY searchable_description "Yer imleri ve geçmiş">
-<!-- Updater notifications -->
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "&brandShortName; güncellemesi var">
 <!ENTITY updater_start_select2 "İndirmek için dokunun">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; indiriliyor">
@@ -700,16 +703,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "İndirildiğinde güncellemeyi uygulamak için dokunun">
 <!ENTITY updater_downloading_retry2 "Yeniden denemek için dokunun">
 
+<!ENTITY updater_apply_title3 "&brandShortName; güncellemesi indirildi">
+<!ENTITY updater_apply_select3 "Kurmak için dokunun">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Dosyaları ve güncellemeleri indirmek için &brandShortName; tarayıcısının depolamaya erişmesine izin verin.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "İzin ver">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Yeni konuk oturumu">
 <!ENTITY exit_guest_session "Konuk oturumundan çık">
 <!ENTITY guest_session_dialog_continue "Devam">
@@ -721,45 +725,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY exit_guest_session_text "Bu oturumdaki tarama verileri silinecektir.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-
 <!ENTITY percent "&#037;&#037;&formatS;">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Bitti">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Şimdi konuşun">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Son eşitleme: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Son eşitleme: hiç">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Bu bağlantı &formatS; uygulamasında açılacak. Gizli Gezinti\u0027den çıkmak istediğinizden emin misiniz?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -769,18 +773,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Gizli Gezinti\u0027den çıkılsın mı?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Diğer cihazınızda görüntülenen QR kodu aranıyor">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Eklentiler">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox\u0027a yeni özellikler ve işlevler ekleyin. Not: Eklentiler bazı kısıtlamaları devre dışı bırakabilir.">
 <!ENTITY restrictable_feature_private_browsing "Gizli Tarama">
@@ -793,9 +797,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Aile bireylerinin web siteleri üzerinde gerçek zamanlı iletişim kurmalarına izin verir.">
 <!ENTITY restrictable_feature_block_list "Engelleme listesi">
 <!ENTITY restrictable_feature_block_list_description "Uygunsuz içeriğe sahip web sitelerini engelle.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Tarayıcınız hakkında">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Eklentilerle özelleştirin">
@@ -805,17 +809,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Android tableterdeki kısıtlı profiller için Firefox Yardım ve Desteği">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Web\u0027i öğrenin: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Üzgünüz! Bu &brandShortName; bu cihazda (&formatS1;, &formatS2;) çalışamaz. Lütfen doğru sürümü indirin.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; artık güncellenmeyecektir">
 <!ENTITY eol_notification_summary "Daha fazla bilgi almak için dokunun">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; güncel">
 <!ENTITY whatsnew_notification_summary "Bu sürümdeki yenilikleri öğrenin">
 
@@ -831,18 +835,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Önemli Siteler">
 <!ENTITY activity_stream_highlights "Anılar">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Yer imlerine eklendi">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ziyaret edildi">
+
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
 <!ENTITY activity_stream_dismiss "Kapat">
 <!ENTITY activity_stream_delete_history "Geçmişten sil">
-
 
