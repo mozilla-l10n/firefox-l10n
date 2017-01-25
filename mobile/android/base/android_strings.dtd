@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Allerede bogmærket">
 <!ENTITY overlay_share_send_other "Send til andre enheder">
 
+<!ENTITY overlay_share_open_browser_btn_label "Åbn i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -381,6 +382,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Vis søgehistorik">
 <!ENTITY pref_import_options "Import-valg">
 <!ENTITY pref_import_android_summary "Importer bogmærker og historik fra den medfølgende browser">
+<!ENTITY pref_private_data_openTabs "Åbne faneblade">
 <!ENTITY pref_private_data_history2 "Browserhistorik">
 <!ENTITY pref_private_data_searchHistory "Søgehistorik">
 <!ENTITY pref_private_data_formdata2 "Formularhistorik">
@@ -527,6 +529,11 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Fanebladskø">
 <!ENTITY pref_tab_queue_summary4 "Gem links til næste gang, du åbner &brandShortName;">
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Tættere placering">
+<!ENTITY pref_compact_tabs_summary2 "Vis faneblade i to kolonner i portrætvisning">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -697,8 +704,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tryk for at installere opdatering, når den er hentet">
 <!ENTITY updater_downloading_retry2 "Tryk for at prøve igen">
 
-<!ENTITY updater_apply_title2 "Opdatering tilgængelig til &brandShortName;">
-<!ENTITY updater_apply_select2 "Tryk for at opdatere">
+<!ENTITY updater_apply_title3 "Opdatering til &brandShortName; er hentet">
+<!ENTITY updater_apply_select3 "Tryk for at installere">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -844,3 +851,6 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Slå fra">
 <!ENTITY activity_stream_delete_history "Slet fra historikken">
+
+<!ENTITY activity_stream_welcome_title "Højdepunkter">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; opretter nu højdepunkter med ting, som du har fundet på nettet, så du altid kan finde tilbage til interessante artikler, videoer, bogmærker og andre websider.">
