@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "ทั่วไป">
 
-<!ENTITY  warnOnAddonInstall.label        "เตือนคุณเมื่อไซต์พยายามที่จะติดตั้งส่วนเสริม">
+<!ENTITY  warnOnAddonInstall.label        "เตือนคุณเมื่อไซต์พยายามจะติดตั้งส่วนเสริม">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
