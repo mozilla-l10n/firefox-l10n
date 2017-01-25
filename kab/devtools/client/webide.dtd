@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Iɣewwaṛen n serwas">
 <!ENTITY simulator_remove "Kkes aserwas">
 <!ENTITY simulator_reset "Err-ed iɣewwaṛen imezwar">
-
+<!ENTITY simulator_name "Isem">
 <!ENTITY simulator_software "Aseɣẓan">
 <!ENTITY simulator_version "Lqem">
 <!ENTITY simulator_profile "Amaɣnu">

@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Ihuh.">
 <!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
 
-
+<!ENTITY captivePortal.title "Kcem ɣer uẓeṭṭa">
+<!ENTITY captivePortal.longDesc "<p> Aẓeṭṭa-agi yesra inekcam inek akken ad iseqdec Internet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Ldi asebter n usesteb">
 
