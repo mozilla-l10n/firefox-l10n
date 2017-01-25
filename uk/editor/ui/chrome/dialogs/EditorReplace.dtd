@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Замінити все">
 <!ENTITY replaceAllButton.accesskey "В">
 <!ENTITY closeButton.label "Закрити">
+<!ENTITY closeButton.accesskey "З">
