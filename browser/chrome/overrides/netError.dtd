@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
-
+<!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
+<!ENTITY captivePortal.longDesc "<p>És possible que aquesta xarxa us demani que inicieu la sessió per accedir a Internet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Obre la pàgina d'inici de sessió">
 

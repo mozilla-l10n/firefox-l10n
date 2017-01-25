@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Quan s'iniciï el &brandShortName;:">
 <!ENTITY startupPage.accesskey     "n">
-
+<!ENTITY startupUserHomePage.label "Mostra la pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
-
+<!ENTITY startupPrevSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
 
 <!ENTITY homepage.label            "Pàgina d'inici:">
 <!ENTITY homepage.accesskey        "i">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "v">
 <!ENTITY chooseFolderMac.label        "Trieu…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "Demana sempre on desar els fitxers">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
