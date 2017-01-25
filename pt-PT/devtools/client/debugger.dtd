@@ -175,17 +175,17 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.seMenuAddWatch      "Seleção para monitorizar expressão">
+<!ENTITY debuggerUI.seMenuAddWatch      "Seleção para expressão de monitorização">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "e">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "Adicionar monitorização de expressão">
+<!ENTITY debuggerUI.addWatch            "Adicionar expressão de monitorização">
 <!ENTITY debuggerUI.addWatch.accesskey  "e">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch           "Remover todas as monitorizações de expressão">
+<!ENTITY debuggerUI.removeAllWatch           "Remover todas as expressões de monitorização">
 <!ENTITY debuggerUI.removeAllWatch.key       "e">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "e">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that

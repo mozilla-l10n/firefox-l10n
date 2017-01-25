@@ -14,7 +14,7 @@
 <!ENTITY warnOnOpenManyTabs.label       "Avisá-lo se a abertura de vários separadores puder tornar o &brandShortName; lento">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchLinksToNewTabs.label        "Ao abrir uma ligação em um novo separador, mudar para o mesmo imediatamente">
+<!ENTITY switchLinksToNewTabs.label        "Ao abrir uma ligação em novo separador, mudar para o mesmo imediatamente">
 <!ENTITY switchLinksToNewTabs.accesskey    "o">
 
 <!ENTITY showTabsInTaskbar.label          "Pré-visualizar separadores na barra de tarefas do Windows">
