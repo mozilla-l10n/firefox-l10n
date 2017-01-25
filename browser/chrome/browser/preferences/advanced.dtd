@@ -102,6 +102,9 @@
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineStorageNotify.label               "Te avisa cuando los sitios web te piden almacenar datos para utilizarlos fuera de línea">
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Excepciones…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido almacenar datos para usarlos sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -110,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos del modo sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certPersonal.label              "Peticiones">
+<!ENTITY certPersonal.description        "Cuando el servidor te pide tu certificado personal:">
+<!ENTITY selectCerts.auto                "Seleccionar uno automáticamente">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Te lo pide cada vez">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Respuesta de la consulta OCSP los servidores confirman la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Ver certificados">
