@@ -9,8 +9,13 @@
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "పలు ట్యాబులను మూసివేస్తున్నప్పుడు మిమ్మల్ని హెచ్చరించు">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "&brandShortName; నిదానింపు చేయగల బహుళ ట్యాబులను తెరుచునపుడు నిన్ను హెచ్చరించు">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "మీరు కొత్త ట్యాబుళొ లింకుని తెరిచినప్పుడు, దానికి సత్వరమే మారు">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "ట్యాబు మునుజూపులను విండోస్ టాస్క్‌బారులో చూపించు">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

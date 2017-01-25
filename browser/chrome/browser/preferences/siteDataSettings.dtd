@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "అమరికలు - సైటు డేటా">
+<!ENTITY     settings.description          "క్రింది వెబ్ సైట్లు మీ డిస్క్ లో సైట్ డేటాను నిల్వచేయడానికి కోరారు. మీరు ఏ వెబ్సైట్లు సైటు డేటాను నిల్వ చేయాలో అనుమతించడాన్ని పేర్కొనవచ్చు. అప్రమేయ సైటు డేటా తాత్కాలికం మరియు స్వయంచాలకంగా తొలగించబడును.">
 <!ENTITY     hostCol.label                 "సైటు">
 <!ENTITY     statusCol.label               "స్థితి">
 <!ENTITY     usageCol.label                "నిల్వ">
