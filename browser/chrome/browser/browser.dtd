@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "नयाँ कन्टेनर ट्याबमा लिङ्क खोल्नुहोस्">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "यो फ्रेम मात्र देखाउनुहोस्">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "प्रतिलिपि गर्नुहोस्">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "सबैलाई ट्याबहरूमा खोल्नुहोस्">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
