@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Hunsa litina sem eru skilgreindir af síðunni með mínum litum hér fyrir ofan:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Alltaf">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Aðeins með þema sem eru litsterk">

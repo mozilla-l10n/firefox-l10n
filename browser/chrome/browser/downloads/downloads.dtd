@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "b">
 <!ENTITY cmd.resume.label                 "Halda áfram">
 <!ENTITY cmd.resume.accesskey             "r">
-
+<!ENTITY cmd.cancel.label                 "Hætta við">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
