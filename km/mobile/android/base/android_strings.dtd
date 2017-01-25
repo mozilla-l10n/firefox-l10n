@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "បាន​ចំណាំ​រួចហើយ">
 <!ENTITY overlay_share_send_other "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 
+<!ENTITY overlay_share_open_browser_btn_label "បើក​នៅ​ក្នុង &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -385,6 +386,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "បង្ហាញ​ប្រវត្ត​ស្វែងរក">
 <!ENTITY pref_import_options "ជម្រើស​ការ​នាំចូល">
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
+<!ENTITY pref_private_data_openTabs "បើក​ផ្ទាំង">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
 <!ENTITY pref_private_data_formdata2 "ប្រវត្តិ​ទម្រង់">
@@ -537,6 +539,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "បង្រួម​ផ្ទាំង">
+<!ENTITY pref_compact_tabs_summary2 "រៀបចំ​ផ្ទាំង​ជា​ពីរ​ជួរឈរ​ក្នុង​របៀប​បញ្ឈរ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -700,6 +704,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ប៉ះ​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​​ពេល​បាន​ទាញ​យក">
 <!ENTITY updater_downloading_retry2 "ប៉ះ​ដើម្បី​ព្យាយាម​ម្ដងទៀត">
 
+<!ENTITY updater_apply_title3 "ធ្វើ​បច្ចុប្បន្នភាព​អ្វី​ដែល​បាន​ទាញ​យក​សម្រាប់ &brandShortName;">
+<!ENTITY updater_apply_select3 "ប៉ះ​ដើម្បី​ដំឡើង">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
