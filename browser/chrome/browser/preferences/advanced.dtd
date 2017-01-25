@@ -10,6 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY blockAutoReload.label           "เตือนคุณเมื่อเว็บไซต์พยายามจะเปลี่ยนเส้นทางหรือโหลดหน้าใหม่">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +23,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดของคุณเมื่อคุณพิมพ์">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
@@ -77,8 +81,11 @@
 
 <!ENTITY updateTab.label                 "อัปเดต">
 
+<!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
 <!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.label         "ตรวจสอบการอัปเดต แต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
 <!ENTITY updateManual.accesskey          "N">
 
