@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Hopla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; njemóže tutu stronu z někajkeje přičiny začitać.</p>">
 
-
+<!ENTITY captivePortal.title "So pola syće přizjewić">
+<!ENTITY captivePortal.longDesc "<p>Tuta syć sej snano žada, zo dyrbiće so za přistup na internet přizjewić.</p>">
 
 <!ENTITY openPortalLoginPage.label "Stronu za přizjewjenje wočinić">
 
