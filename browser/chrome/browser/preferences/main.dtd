@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador predefinido">
 
 <!ENTITY separateProfileMode.label        "Permitir que o &brandShortName; e o Firefox sejam utilizados em simultâneo">
-<!ENTITY useFirefoxSync.label             "Sugestão: Esta opção implica usar perfis separados. Use o Sync para partilhar dados entre eles.">
-<!ENTITY getStarted.label                 "Começar a usar o Sync…">
+<!ENTITY useFirefoxSync.label             "Dica: Isto utiliza perfis separados. Utilize o Sync para partilhar dados entre eles.">
+<!ENTITY getStarted.label                 "Começar a utilizar o Sync…">
 
 <!ENTITY e10sEnabled.label                "Ativar o multi-processo do &brandShortName;">

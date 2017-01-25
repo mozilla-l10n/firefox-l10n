@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Acessibilidade">
 
-<!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar nas páginas">
+<!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar entre páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começar a escrever">
 <!ENTITY searchOnStartTyping.accesskey   "x">
