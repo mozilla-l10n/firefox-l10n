@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Caniatáu i dudalennau ddewis eu ffont eu hun, yn lle fy newis i uchod">
+<!ENTITY  allowPagesToUseOwn.accesskey            "C">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Amgodiad Nod ar gyfer Hen Gynnwys">
 <!ENTITY languages.customize.Fallback2.label      "Amgodiad Testun Eilradd:">

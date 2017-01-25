@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY     window.title                  "Gosodiadau - Data Gwefan">
+<!ENTITY     settings.description          "Mae'r gwefannau canlynol wedi gofyn i gael cadw data gwefan ar eich disg. Gallwch bennu pa wefannau sy'n cael caniatâd i gadw gwefan data. Mae data gwefan rhagosodedig yn beth dros dro ac mae modd ei ddileu'n awtomatig.">
+<!ENTITY     hostCol.label                 "Gwefan">
+<!ENTITY     statusCol.label               "Statws">
+<!ENTITY     usageCol.label                "Storfa">
+<!ENTITY     search.label                  "Chwilio:">
+<!ENTITY     search.accesskey              "C">

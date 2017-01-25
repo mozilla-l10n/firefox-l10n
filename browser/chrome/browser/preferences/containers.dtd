@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Ychwanegu Cynhwysydd Newydd">
 <!ENTITY addButton.accesskey  "Y">
-
-
+<!ENTITY preferencesButton.label "Dewisiadau">
+<!ENTITY removeButton.label   "Tynnu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Nôl i Breifatrwydd">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Enw:">
 <!ENTITY name.accesskey       "E">
-
+<!ENTITY name.placeholder     "Rhowch enw cynhwysydd">
 <!ENTITY icon.label           "Eicon:">
 <!ENTITY icon.accesskey       "E">
 <!ENTITY color.label          "Lliw:">

@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Pan fydd &brandShortName; yn cychwyn:">
 <!ENTITY startupPage.accesskey     "c">
-
+<!ENTITY startupUserHomePage.label "Dangos fy nhudalen cartref">
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
-
+<!ENTITY startupPrevSession.label  "Dangos fy ffenestri a'm tabiau o'r tro diwethaf">
 
 <!ENTITY homepage.label            "Tudalen Cartref:">
 <!ENTITY homepage.accesskey        "T">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Dewis…">
 <!ENTITY chooseFolderMac.accesskey    "D">
-
-
+<!ENTITY alwaysAskWhere.label         "Gofyn i mi lle i gadw ffeiliau">
+<!ENTITY alwaysAskWhere.accesskey     "G">
 
 <!ENTITY alwaysCheckDefault2.label        "Wrth gychwyn, gwirio ai &brandShortName; yw eich porwr ragosodedig">
 <!ENTITY alwaysCheckDefault2.accesskey    "W">

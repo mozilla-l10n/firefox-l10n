@@ -30,6 +30,7 @@
 <!ENTITY generic.title "Wps.">
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
+<!ENTITY captivePortal.title "Mewngofnodi i'r rhwydwaith">
 
 
 <!ENTITY openPortalLoginPage.label "Agor Tudalen Mewngofnodi">

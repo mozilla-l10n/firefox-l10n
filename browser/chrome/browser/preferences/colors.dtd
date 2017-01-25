@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Anwybyddu'r lliwiau sy'n cael eu pennu gan y dudalen gan ddefnyddio fy newis i uchod:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "A">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Bob tro">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Dim ond y themâu Cyferbyniad Uchel">
