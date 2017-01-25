@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Nije kontener tafoegje">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "Foarkarren">
+<!ENTITY removeButton.label   "Fuortsmite">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Gean werom nei Privacy">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Namme:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Kontenernamme ynfiere">
 <!ENTITY icon.label           "Piktogram:">
 <!ENTITY icon.accesskey       "P">
 <!ENTITY color.label          "Kleur:">

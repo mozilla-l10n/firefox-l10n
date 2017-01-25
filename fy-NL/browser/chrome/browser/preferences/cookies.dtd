@@ -28,6 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Sykje">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "Slute">
 <!ENTITY     button.close.accesskey         "S">

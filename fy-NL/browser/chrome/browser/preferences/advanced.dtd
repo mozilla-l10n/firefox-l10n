@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Hieltyd de pylktoetsen brûke om te navigearjen yn siden">
 <!ENTITY useCursorNavigation.accesskey   "p">
+<!ENTITY searchOnStartTyping.label       "Nei tekst sykje as ik begjin mei typen">
+<!ENTITY searchOnStartTyping.accesskey   "N">
+<!ENTITY blockAutoReload.label           "Warskôgje as websites probearje om om te lieden of de side opnij te laden">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "In skermtoetseboerd toane wannear nedich">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">
+<!ENTITY checkUserSpelling.label         "Kontrolearje jo stavering as jo type">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Gegevensopsjes">
 
@@ -52,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Offlinewebynhâld en brûkersgegevens">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Websitegegevens">
+<!ENTITY clearSiteData.label             "Alle gegevens wiskje">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Ynstellingen…">
+<!ENTITY siteDataSettings.accesskey      "Y">
+<!ENTITY siteDataLearnMoreLink.label     "Mear ynfo">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Fernijing">
 
+<!ENTITY updateApplication.label         "&brandShortName;-fernijingen">
 <!ENTITY updateAuto1.label               "Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)">
 <!ENTITY updateAuto1.accesskey           "F">
+<!ENTITY updateCheckChoose.label         "Kontrolearje op fernijingen, mar lit my kieze oft ik se ynstallearje wol">
+<!ENTITY updateCheckChoose.accesskey     "K">
 <!ENTITY updateManual.label              "Nea kontrolearje op fernijingen (net oanrekommandearre: feilichheidsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,9 +97,14 @@
 <!ENTITY useService.label                "Brûk in eftergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
+<!ENTITY autoUpdateOthers.label          "Automatysk fernije">
 <!ENTITY enableSearchUpdate.label        "Sykmasinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
+<!ENTITY offlineStorageNotify.label               "Jo fertelle as in website freget om gegevens te bewarjen foar offline gebrûk">
+<!ENTITY offlineStorageNotify.accesskey           "J">
+<!ENTITY offlineStorageNotifyExceptions.label     "Utsûnderingen…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "t">
 
 <!ENTITY offlineAppsList2.label          "De folgjende websites hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
 <!ENTITY certificateTab.label            "Sertifikaten">
+<!ENTITY certPersonal.label              "Oanfragen">
+<!ENTITY certPersonal.description        "As in server jo persoanlike sertifikaat freget:">
+<!ENTITY selectCerts.auto                "Automatysk ien selektearje">
+<!ENTITY selectCerts.auto.accesskey      "A">
+<!ENTITY selectCerts.ask                 "My elke kear freegje">
+<!ENTITY selectCerts.ask.accesskey       "M">
 <!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts.label                 "Sertifikaten besjen">

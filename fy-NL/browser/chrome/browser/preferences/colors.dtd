@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "43em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "De kleuren opjûn troch de side oerskriuwe mei myn seleksjes hjirboppe:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "D">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Altyd">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Allinnich by tema’s mei heech kontrast">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nea">
 
 <!ENTITY  color                           "Tekst en eftergrûn">
 <!ENTITY  textColor.label                 "Tekst:">
