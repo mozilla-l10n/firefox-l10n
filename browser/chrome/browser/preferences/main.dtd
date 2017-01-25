@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "當 &brandShortName; 啟動時:">
 <!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupUserHomePage.label "顯示您的首頁">
 <!ENTITY startupBlankPage.label    "顯示空白頁">
+<!ENTITY startupPrevSession.label  "顯示您上次瀏覽的視窗與分頁">
 
 <!ENTITY homepage.label            "首頁:">
 <!ENTITY homepage.accesskey        "P">
@@ -26,6 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "選擇…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "每次都問您要存到何處">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "總是檢查 &brandShortName; 是否為您的預設瀏覽器">
