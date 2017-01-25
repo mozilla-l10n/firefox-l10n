@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "所有附加元件的工具">
 
+<!ENTITY getThemes.description                "想要個人化您的瀏覽器嗎？">
+<!ENTITY getThemes.learnMore                  "從數以千計的佈景主題挑選一套。">
+
 <!ENTITY cmd.back.tooltip                     "回到上一頁">
 <!ENTITY cmd.forward.tooltip                  "前進下一頁">
 
