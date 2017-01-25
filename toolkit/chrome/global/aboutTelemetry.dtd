@@ -52,6 +52,8 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "執行緒遲滯">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "捕捉到的堆疊">
+
 <!ENTITY aboutTelemetry.scalarsSection "Scalars">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars
@@ -60,6 +62,8 @@
 <!ENTITY aboutTelemetry.histogramsSection "柱狀圖">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Keyed Histograms">
+
+<!ENTITY aboutTelemetry.eventsSection "事件">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "簡易測量">
 
