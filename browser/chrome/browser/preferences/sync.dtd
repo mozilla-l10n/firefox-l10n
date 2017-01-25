@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
 <!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label2         "Відкриті вкладки">
 <!ENTITY engine.tabs.accesskey      "В">
 <!ENTITY engine.history.label       "Історію">
 <!ENTITY engine.history.accesskey   "І">

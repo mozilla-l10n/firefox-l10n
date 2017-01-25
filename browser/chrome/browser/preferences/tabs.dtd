@@ -8,7 +8,10 @@
 <!ENTITY newWindowsAsTabs.label       "Відкривати замість нових вікон нові вкладки">
 <!ENTITY newWindowsAsTabs.accesskey   "в">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Попереджати при закритті декількох вкладок">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "к">
 
+<!ENTITY warnOnOpenManyTabs.label       "Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу &brandShortName;">
 
 
 <!ENTITY showTabsInTaskbar.label          "Показувати нариси вкладок у панелі задач Windows">
