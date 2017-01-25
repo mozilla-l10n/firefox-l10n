@@ -126,6 +126,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; no se ha podido conectar a <span id='wrongSystemTime_URL'/> porque el reloj de tu equipo muestra la hora equivocada que impide una conexión segura.</p> <p>Tu equipo muestra <span id='wrongSystemTime_systemDate'/> cuando debería mostrar <span id='wrongSystemTime_actualDate'/>. Para solucionar este problema, cambia la fecha y la hora para que se muestren correctamente.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; no se ha podido conectar a <span id='wrongSystemTimeWithoutReference_URL'/> porque el reloj de tu equipo muestra la hora equivocada que impide una conexión segura.</p> <p>Tu equipo muestra <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para solucionar este problema, cambia la fecha y la hora para que se muestren correctamente.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
