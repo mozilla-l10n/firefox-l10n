@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Verkfæri fyrir allar viðbætur">
 
+<!ENTITY getThemes.description                "Ertu að leita eftir að gera vafrann persónulegri?">
 <!ENTITY getThemes.learnMore                  "Veldu frá þúsundum þema.">
 
 <!ENTITY cmd.back.tooltip                     "Til baka um eina síðu">

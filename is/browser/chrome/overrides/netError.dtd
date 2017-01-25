@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Ææ.">
 <!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
-
+<!ENTITY captivePortal.title "Innskráning á net">
+<!ENTITY captivePortal.longDesc "<p>Á þessu netsvæði gætirðu þurft að skrá þig inn á Internetið.</p>">
 
 <!ENTITY openPortalLoginPage.label "Opna innskráningarsíðu">
 

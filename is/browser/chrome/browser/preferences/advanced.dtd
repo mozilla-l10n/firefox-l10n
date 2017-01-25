@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Alltaf nota örvalykla til að ferðast á síðum">
 <!ENTITY useCursorNavigation.accesskey   "ö">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Leita í texta þegar byrjað er að slá inn orð">
+<!ENTITY searchOnStartTyping.accesskey   "L">
+<!ENTITY blockAutoReload.label           "Vara við þegar vefsvæði reyna að endurbeina eða endurnýja síðuna">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Sýna snertilyklaborð þegar það er nauðsynlegt">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "f">
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
-
-
+<!ENTITY checkUserSpelling.label         "Athuga stafsetningu um leið og texti er sleginn inn">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Meðhöndlun gagna">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Ótengd vefgögn og notandagögn">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Gögn vefsvæðis">
+<!ENTITY clearSiteData.label             "Hreinsa öll gögn">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Stillingar…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Fræðast meira">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Uppfærslur">
 
+<!ENTITY updateApplication.label         "&brandShortName; uppfærslur:">
 <!ENTITY updateAuto1.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateCheckChoose.label         "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
+<!ENTITY updateCheckChoose.accesskey     "t">
 <!ENTITY updateManual.label              "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
 <!ENTITY updateManual.accesskey          "l">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Uppfæra sjálfvirkt">
 <!ENTITY enableSearchUpdate.label        "Leitarvélar">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-
+<!ENTITY offlineStorageNotify.label               "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Undanþágur…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "d">
 
@@ -109,10 +114,10 @@
 
 <!ENTITY certificateTab.label            "Skilríki">
 <!ENTITY certPersonal.label              "Beiðnir">
-
+<!ENTITY certPersonal.description        "Þegar netþjónn biður um mitt skilríki:">
 <!ENTITY selectCerts.auto                "Velja eitt sjálfvirkt">
-
-
+<!ENTITY selectCerts.auto.accesskey      "s">
+<!ENTITY selectCerts.ask                 "Spyrja í hvert skipti">
 
 <!ENTITY enableOCSP.label                "Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild">
 <!ENTITY enableOCSP.accesskey            "S">
