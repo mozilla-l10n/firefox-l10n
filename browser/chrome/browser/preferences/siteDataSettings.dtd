@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY     window.title                  "Stillingar - Gögn vefsvæðis">
+<!ENTITY     settings.description          "Eftirfarandi vefsvæði báðu um leyfi til að geyma gögn á disknum. Þú getur skilgreint hvaða vefsvæði hafa leyfi til að geyma gögn á diski. Sjálfgefið er að gögn vefsvæðis séu geymd tímabundið og eytt sjálkfrafa.">
+<!ENTITY     hostCol.label                 "Vefsvæði">
+<!ENTITY     statusCol.label               "Staða">
+<!ENTITY     usageCol.label                "Geymsla">
+<!ENTITY     search.label                  "Leit:">
+<!ENTITY     search.accesskey              "e">
