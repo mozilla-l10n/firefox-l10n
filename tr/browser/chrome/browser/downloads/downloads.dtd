@@ -63,7 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "b">
 <!ENTITY cmd.removeFromHistory.label      "Geçmişten kaldır">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "Ön izleme panelini temize">
+<!ENTITY cmd.clearList2.label             "Ön izleme panelini temizle">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "İndirmeleri temizle">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
