@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "設定 - 網站資料">
+<!ENTITY     settings.description          "下列網站要求於您的磁碟中儲存網站資料。您可以指定要允許哪些網站儲存網站資料，預設情況下網站資料是暫存的，可自動刪除。">
 <!ENTITY     hostCol.label                 "網站">
 <!ENTITY     statusCol.label               "狀態">
 <!ENTITY     usageCol.label                "儲存空間">
