@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
 
+<!ENTITY getThemes.description                "Olhando para personalizar o seu navegador?">
 <!ENTITY getThemes.learnMore                  "Milhares de temas para escolher.">
 
 <!ENTITY cmd.back.tooltip                     "Voltar uma página">
@@ -95,11 +96,11 @@
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "Perguntar para ativar">
-<!ENTITY cmd.askToActivate.tooltip            "Perguntar toda vez para usar este plugin">
+<!ENTITY cmd.askToActivate.tooltip            "Perguntar toda vez para usar esta extensão">
 <!ENTITY cmd.alwaysActivate.label             "Sempre ativar">
 <!ENTITY cmd.alwaysActivate.tooltip           "Sempre usar este plugin">
 <!ENTITY cmd.neverActivate.label              "Nunca ativar">
-<!ENTITY cmd.neverActivate.tooltip            "Nunca usar este plugin">
+<!ENTITY cmd.neverActivate.tooltip            "Nunca usar esta extensão">
 <!ENTITY cmd.stateMenu.tooltip                "Alterar quando este plugin executar">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
@@ -109,8 +110,8 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Alterar as opções desta extensão">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar as preferências desta extensão">
-<!ENTITY cmd.contribute.label                 "Fazer uma contribuição">
-<!ENTITY cmd.contribute.accesskey             "F">
+<!ENTITY cmd.contribute.label                 "Contribuir">
+<!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento desta extensão">
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
@@ -131,7 +132,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
 <!ENTITY detail.lastupdated.label             "Última atualização">
-<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.creator.label                 "Desenvolvedor">
 <!ENTITY detail.homepage.label                "Página inicial">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
@@ -139,16 +140,16 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 
 <!ENTITY detail.updateType                    "Atualização automática">
 <!ENTITY detail.updateDefault.label           "Padrão">
-<!ENTITY detail.updateDefault.tooltip         "Só instalar atualizações automaticamente se isto for o padrão">
+<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente somente se isto for o padrão">
 <!ENTITY detail.updateAutomatic.label         "Ativada">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar atualizações automaticamente">
 <!ENTITY detail.updateManual.label            "Desativada">
 <!ENTITY detail.updateManual.tooltip          "Não instalar atualizações automaticamente">
 <!ENTITY detail.home                          "Site">
-<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.repository                    "Perfil da extensão">
 <!ENTITY detail.size                          "Tamanho">
 
-<!ENTITY detail.checkForUpdates.label         "Verificar atualização">
+<!ENTITY detail.checkForUpdates.label         "Verificar se há atualizações">
 <!ENTITY detail.checkForUpdates.accesskey     "V">
 <!ENTITY detail.checkForUpdates.tooltip       "Verificar se há atualizações para esta extensão">
 <!ENTITY detail.showPreferencesWin.label      "Opções">
