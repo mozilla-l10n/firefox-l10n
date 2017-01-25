@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Ніякому">
 <!ENTITY editDirectories.label                 "Змінити каталоги…">
 <!ENTITY editDirectories.accesskey             "З">
+<!ENTITY showAsDefault.label                   "Типовий початковий каталог у вікні адресної книги:">
+<!ENTITY showAsDefault.accesskey               "к">
+<!ENTITY showAsDefaultLast.label               "Останній використаний каталог">
 
 <!ENTITY sendOptionsDescription.label          "Текстовий формат:">
 <!ENTITY sendOptions.label                     "Параметри надсилання…">
