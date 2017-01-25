@@ -12,7 +12,10 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "к">
 
 <!ENTITY warnOnOpenManyTabs.label       "Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "л">
 
+<!ENTITY switchLinksToNewTabs.label        "При відкритті посилання в новій вкладці, одразу ж переключатись на неї">
+<!ENTITY switchLinksToNewTabs.accesskey    "я">
 
 <!ENTITY showTabsInTaskbar.label          "Показувати нариси вкладок у панелі задач Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "и">
