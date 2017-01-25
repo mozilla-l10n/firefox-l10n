@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימניה">
 <!ENTITY overlay_share_send_other "שליחה להתקנים אחרים">
 
+<!ENTITY overlay_share_open_browser_btn_label "פתיחה ב־&brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -194,7 +195,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "שחזור לשוניות, חוסך בתעבורת נתונים, כלי פיתוח">
+<!ENTITY pref_category_advanced_summary3 "שחזור לשוניות, חסכון בתעבורת נתונים, כלי פיתוח">
 <!ENTITY pref_category_notifications "התרעות">
 <!ENTITY pref_category_notifications_summary "תכונות חדשות, עדכוני אתרים">
 <!ENTITY pref_content_notifications "עדכוני אתרים">
@@ -248,7 +249,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "חוסך בתעבורת נתונים">
+<!ENTITY pref_category_data_saver "חסכון בתעבורת נתונים">
 <!ENTITY pref_category_media "מדיה">
 <!ENTITY pref_category_developer_tools "כלי פיתוח">
 
