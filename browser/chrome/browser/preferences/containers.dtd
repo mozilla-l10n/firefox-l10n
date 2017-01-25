@@ -14,6 +14,7 @@
 
 <!ENTITY name.label           "పేరు:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "ఒక కంటైనర్ పేరును ఇవ్వండి">
 <!ENTITY icon.label           "ఐకాన్:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "రంగు:">

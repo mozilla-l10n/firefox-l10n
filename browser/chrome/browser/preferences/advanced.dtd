@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "పేజీల మధ్య సంచరణకు ఎల్లప్పుడు కర్సరు కీలను ఉపయోగించండి">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "మీరు టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "వెబ్‌సైటులు పేజీని మళ్ళించుటకు లేదా తిరిగి లోడుచేయుటకు ప్రయత్నిస్తున్నప్పుడు నిన్ను హెచ్చరించు">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "అవసరమైనప్పుడు స్పర్శా కీ బోర్డు చూపించు">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkUserSpelling.label         "మీరు టైపు చేసినప్పుడు స్పెల్లింగ్ ను పరిశీలించు">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "దత్తాంశం ఎంపికలు">
 
@@ -53,7 +59,10 @@
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "సైటు డేటా">
+<!ENTITY clearSiteData.label             "మొత్తం డేటాను క్లియర్ చేయి">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "అమరికలు…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "మరింత తెలుసుకోండి">
 
 <!-- LOCALIZATION NOTE:
@@ -77,6 +86,8 @@
 <!ENTITY updateApplication.label         "&brandShortName; తాజాకరణలు">
 <!ENTITY updateAuto1.label               "నవీకరణలను స్వయంచాలగా సంస్థాపించు (సిఫార్సు: మెరుగైన రక్షణ)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.label         "నవీకరణల కొరకు పరిశీలించు, అయితే వాటిని సంస్థాపించాలా వద్దా అనేది మీరే ఎంపికచేయాలి">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "నవీకరణల కొరకు ఎప్పుడూ పరిశీలించవద్దు (సిఫార్సు చేయనిది: రక్షణ సమస్య)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -86,9 +97,12 @@
 <!ENTITY useService.label                "నవీకరణలను సంస్థాపించుటకు బ్యాక్‌గ్రౌండ్ సేవను ఉపయోగించు">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "స్వయంచాలకంగా నవీకరించు">
 <!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్లు">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "వెబ్‌ సైటు ఆఫ్‌లైన్ ఉపయోగం కొరకు డాటాను నిల్వచేయుటకు అడిగినప్పుడు మీకు తెలియజేయును">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "మినహాయింపులు…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -100,6 +114,11 @@
 
 <!ENTITY certificateTab.label            "ధృవీకరణ పత్రాలు">
 <!ENTITY certPersonal.label              "అభ్యర్థనలు">
+<!ENTITY certPersonal.description        "సేవిక మీ వ్యక్తగిత ధృవీకరణపత్రం అభ్యర్ధించినప్పుడు:">
+<!ENTITY selectCerts.auto                "స్వయంచాలకంగా ఒక దానిని ఎంపికచేయి">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "ప్రతిసారీ మిమ్మల్ని అడుగును">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "ధృవీకరణ పత్రాలను దర్శించు">
