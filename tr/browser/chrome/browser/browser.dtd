@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Menüyü aç">
 <!ENTITY navbarOverflow.label                "Daha fazla araç…">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Sekmeyi tazele">
 <!ENTITY  reloadTab.accesskey                "z">
 <!ENTITY  reloadAllTabs.label                "Tüm sekmeleri tazele">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "a">
 <!ENTITY  closeOtherTabs.label               "Diğer sekmeleri kapat">
 <!ENTITY  closeOtherTabs.accesskey           "D">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Sekmeyi sabitle">
 <!ENTITY  pinTab.accesskey                   "S">
 <!ENTITY  unpinTab.label                     "Normal sekmeye dönüştür">
@@ -126,29 +126,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Tam ekran kipinden çık">
 <!ENTITY fullScreenExit.accesskey "T">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "artık tam ekran">
 <!ENTITY fullscreenWarning.generic.label "Bu belge artık tam ekran">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY exitDOMFullscreen.button "Tam ekrandan çık (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Tam ekrandan çık (esc)">
 <!ENTITY leaveDOMFullScreen.label "Tam ekrandan çık">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.">
 <!ENTITY pointerlockWarning.generic.label "Bu belge işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.">
@@ -236,8 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.zoomReset.tooltip     "Yakınlaşma düzeyini sıfırla">
 
 <!ENTITY searchItem.title             "Ara">
-<!-- Toolbar items --> 
 
+<!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Başlangıç">
 
 <!ENTITY bookmarksButton.label          "Yer imleri">
@@ -249,10 +249,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Yer İmleri araç çubuğunu göster">
 
 <!ENTITY containersMenu.label "Kapsayıcılar">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "H">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Evet">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "E">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -423,36 +424,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-
 <!ENTITY contentSearchInput.label     "Arama sorgusu">
 <!ENTITY contentSearchSubmit.tooltip  "Aramayı gönder">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "⁠">
 <!ENTITY searchWith.label             " terimini bununla ara:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 "⁠">
 <!ENTITY searchAfter.label            " ile ara">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "Bununla ara:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "v">
 <!ENTITY openFrameCmd.label           "Çerçeveyi yeni pencerede aç">
 <!ENTITY openFrameCmd.accesskey       "e">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Bağlantıyı yeni kapsayıcı sekmede aç">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -561,11 +561,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bu çerçeve">
 <!ENTITY thisFrameMenu.accesskey          "B">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Yürüt">
 <!ENTITY mediaPlay.accesskey         "Y">
 <!ENTITY mediaPause.label            "Duraklat">
@@ -612,18 +612,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "İstatistikleri gizle">
 <!ENTITY videoHideStats.accesskey    "a">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Yaklaş">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Y">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Uzaklaş">
@@ -705,14 +704,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Bu siteye güvenli bir şekilde bağlandınız. Site sahibi:">
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
-<!-- Strings for connection state warnings. -->
 
+<!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
 <!ENTITY identity.passiveLoaded "Bu sayfanın bazı kısımları (örneğin resimler) güvenli değil.">
 <!ENTITY identity.activeLoaded "Bu sayfada korumayı devre dışı bıraktınız.">
 <!ENTITY identity.weakEncryption "Bu sayfada zayıf şifreleme kullanılıyor.">
-<!-- Strings for connection state warnings in the subview. -->
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Bu siteye bağlantınız size özel değil. Gönderdiğiniz bilgiler (parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
 <!ENTITY identity.description.insecureLoginForms "Bu sayfaya yazdığınız hesap bilgileri güvende değildir ve saldırganlar tarafından ele geçirilebilir.">
 <!ENTITY identity.description.weakCipher "Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.">
@@ -738,12 +737,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "İzinler">
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Eşitlenmiş sekmeler">
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
@@ -756,11 +755,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlarınızdaki sekmelerin listesini görmek için sekme eşitlemeyi açın.">
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
 <!ENTITY syncedTabs.context.open.label                       "Aç">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Yeni sekmede aç">
@@ -774,7 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopyala">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Tümünü sekmelerde aç">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "s">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -845,35 +845,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Tümünü göster">
 <!ENTITY pluginNotification.showAll.accesskey "T">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Şimdilik izin ver">
 <!ENTITY pluginActivateAlways.label "İzin ver ve hatırla">
 <!ENTITY pluginBlockNow.label "Yan uygulamayı engelle">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Kapat">
 
 <!ENTITY appMenuSidebars.label         "Kenar çubukları">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "Unut…">
 <!ENTITY panicButton.view.5min                    "Son beş dakikayı">
 <!ENTITY panicButton.view.2hr                     "Son iki saati">
 <!ENTITY panicButton.view.day                     "Son 24 saati">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "Devam ederseniz…">
 <!ENTITY panicButton.view.deleteCookies           "En son <html:strong>çerezler</html:strong> silinecek">
 <!ENTITY panicButton.view.deleteHistory           "Yakın <html:strong>geçmişiniz</html:strong> silinecek">

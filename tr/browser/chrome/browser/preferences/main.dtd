@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; açıldığında:">
 <!ENTITY startupPage.accesskey     "d">
-
+<!ENTITY startupUserHomePage.label "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label    "Boş bir sayfa göster">
-
+<!ENTITY startupPrevSession.label  "Son oturumdaki pencereleri ve sekmeleri göster">
 
 <!ENTITY homepage.label            "Giriş sayfası:">
 <!ENTITY homepage.accesskey        "G">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "z">
 <!ENTITY chooseFolderMac.label        "Seç…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "Dosyaların nereye kaydedileceğini her zaman sor">
+<!ENTITY alwaysAskWhere.accesskey     "o">
 
 <!ENTITY alwaysCheckDefault2.label        "Her zaman &brandShortName; tarayıcısının varsayılan olup olmadığını denetle">
 <!ENTITY alwaysCheckDefault2.accesskey    "H">

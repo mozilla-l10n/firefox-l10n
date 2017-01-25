@@ -8,7 +8,7 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Boyut:">
-<!ENTITY  sizeProportional.accesskey              "o">
+<!ENTITY  sizeProportional.accesskey              "B">
 <!ENTITY  sizeMonospace.accesskey                 "u">
 
 <!ENTITY  proportional.label                      "Orantılı:">
@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latince">
 <!ENTITY  font.langGroup.japanese                 "Japonca">
 <!ENTITY  font.langGroup.trad-chinese             "Geleneksel Çince (Tayvan)">
@@ -56,16 +56,17 @@
 <!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Yok">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Yukarıdaki seçimlerim yerine sayfaların kendi yazı tiplerini seçmelerine izin ver">
+<!ENTITY  allowPagesToUseOwn.accesskey            "u">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Eski içerikler için metin kodlaması">
-<!ENTITY languages.customize.Fallback2.label      "Alternatif metin kodlaması:">
-<!ENTITY languages.customize.Fallback2.accesskey  "m">
+<!ENTITY languages.customize.Fallback2.label      "Yedek metin kodlaması:">
+<!ENTITY languages.customize.Fallback2.accesskey  "k">
 <!ENTITY languages.customize.Fallback2.desc       "Bu metin kodlaması, kendi kodlamasını tanımlayamayan eski içerikler için kullanılır.">
 
 <!ENTITY languages.customize.Fallback.auto        "Geçerli dil için varsayılan">

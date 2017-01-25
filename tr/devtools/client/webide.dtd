@@ -56,9 +56,9 @@
 
 <!ENTITY projectButton_label "Uygulama aç">
 <!ENTITY runtimeButton_label "Çalışma zamanı seç">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "a">
@@ -85,8 +85,8 @@
 <!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "geçerli">
 <!ENTITY details_warning_header "uyarılar">
 <!ENTITY details_error_header "hatalar">
@@ -95,23 +95,23 @@
 <!ENTITY details_manifestURL "Uygulama kimliği">
 <!ENTITY details_removeProject_button "Projeyi kaldır">
 <!ENTITY details_showPrepackageLog_button "Ön paket günlüğünü göster">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Yeni uygulama">
 <!ENTITY newAppHeader "Şablon seçin">
 <!ENTITY newAppLoadingTemplate "Şabolanlar yükleniyor…">
 <!ENTITY newAppProjectName "Proje adı:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Kapat">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Ekstra bileşenler">
 <!ENTITY addons_aboutaddons "Eklenti Yöneticisi'ni aç">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Tercihler">
 <!ENTITY prefs_editor_title "Editör">
 <!ENTITY prefs_general_title "Genel">
@@ -138,8 +138,8 @@
 <!ENTITY prefs_options_keybindings_default "Varsayılan">
 <!ENTITY prefs_options_autosavefiles "Dosyaları otomatik kaydet">
 <!ENTITY prefs_options_autosavefiles_tooltip "Düzenlenen dosyaları projeyi çalıştırmadan önce kendiliğinden kaydeder">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">
 <!ENTITY runtimedetails_adbIsRoot "ADB root mu?: ">
 <!ENTITY runtimedetails_summonADBRoot "root cihaz">
@@ -147,36 +147,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Kısıtlamasız DevTools izinleri: ">
 <!ENTITY runtimedetails_requestPrivileges "daha fazla izin iste">
 <!ENTITY runtimedetails_privilegesWarning "(Cihaz yeniden başlatılacaktır. Root erişimi gerekir.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Tamsayı">
 <!ENTITY device_typestring "Dizgi">
 <!ENTITY device_typeobject "Nesne">
 <!ENTITY device_typenone "Tür seçin">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Cihaz tercihleri">
 <!ENTITY devicepreference_search "Arama tercihleri">
 <!ENTITY devicepreference_newname "Yeni tercih adı">
 <!ENTITY devicepreference_newtext "Tercih değeri">
 <!ENTITY devicepreference_addnew "Yeni tercih ekle">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Cihaz ayarları">
 <!ENTITY devicesetting_search "Arama ayarları">
 <!ENTITY devicesetting_newname "Yeni ayar adı">
 <!ENTITY devicesetting_newtext "Ayar değeri">
 <!ENTITY devicesetting_addnew "Yeni ayar ekle">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "İzleyici">
 <!ENTITY monitor_help "Yardım">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "İstemci kimliği">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -191,15 +191,15 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Diğer cihaz QR kodunu taramanız yerine jeton girmenizi isterse lütfen aşağıdaki değeri kopyalayıp diğer cihaza yapıştırın:">
 <!ENTITY wifi_auth_qr_size_note "QR kodu bağlantıyı kuramayacak kadar küçük görünüyorsa yakınlaştırmayı veya pencereyi büyütmeyi deneyin.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Ön paketleme komut günlükleri">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Simülatör seçenekleri">
 <!ENTITY simulator_remove "Simülatörü sil">
 <!ENTITY simulator_reset "Varsayılanları geri yükle">
-
+<!ENTITY simulator_name "İsim">
 <!ENTITY simulator_software "Yazılım">
 <!ENTITY simulator_version "Sürüm">
 <!ENTITY simulator_profile "Profil">
