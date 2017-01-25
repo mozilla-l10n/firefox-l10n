@@ -9,7 +9,11 @@
 <!ENTITY accessibility.label             "Accesibilidad">
 
 <!ENTITY useCursorNavigation.label       "Usar siempre las teclas del cursor para navegar dentro de las páginas">
-<!ENTITY useCursorNavigation.accesskey   "n">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Buscar el texto cuando empiezas a escribir">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Te avisa cuando los sitios web intentan redirigir o recargar la página">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar el teclado táctil cuando sea necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -21,6 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Usa aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkUserSpelling.label         "Verificar la ortografía mientras escribes">
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
