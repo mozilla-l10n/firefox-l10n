@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
 <!ENTITY newWindowsAsTabs.accesskey   "ม">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 
 
