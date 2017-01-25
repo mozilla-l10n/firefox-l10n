@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hangovi niti">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Uhvaćeni stackovi">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalari">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrami s ključem">
 
+<!ENTITY aboutTelemetry.eventsSection "  Događaji">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednostavna mjerenja">
 

@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Opcije simulatora">
 <!ENTITY simulator_remove "Obriši simulator">
 <!ENTITY simulator_reset "Vrati na izvorne vrijednosti">
-
+<!ENTITY simulator_name "Naziv">
 <!ENTITY simulator_software "Softver">
 <!ENTITY simulator_version "Verzija">
 <!ENTITY simulator_profile "Profil">
