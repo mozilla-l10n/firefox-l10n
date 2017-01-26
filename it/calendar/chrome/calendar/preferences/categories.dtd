@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pref.categories.add.title "Aggiungi categoria">
-<!ENTITY pref.categories.addButton.label "Aggiungi…">
-<!ENTITY pref.categories.addButton.accesskey "A">
+<!ENTITY pref.categories.new.title "Nuova categoria">
+<!ENTITY pref.categories.newButton.label "Nuova…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Modifica categoria">
 <!ENTITY pref.categories.editButton.label "Modifica…">
 <!ENTITY pref.categories.editButton.accesskey "M">
