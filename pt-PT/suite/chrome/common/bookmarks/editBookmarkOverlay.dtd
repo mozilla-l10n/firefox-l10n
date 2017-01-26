@@ -16,7 +16,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separar etiquetas com vírgulas.">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separar etiquetas com vírgulas">
 <!ENTITY editBookmarkOverlay.description.label               "Descrição:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Palavra-chave:">

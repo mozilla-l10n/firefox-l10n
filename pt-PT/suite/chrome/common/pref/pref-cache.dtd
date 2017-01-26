@@ -8,11 +8,11 @@
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Aplicar opções de cache">
 <!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
-<!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerir o tamanho da cache.">
+<!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerir o tamanho da minha cache">
 <!ENTITY cacheCheck.accesskey            "D">
 <!ENTITY diskCacheUpTo.label             "Utilizar até">
 <!ENTITY diskCacheUpTo.accesskey         "U">
-<!ENTITY spaceMbytes                     "MB de espaço em disco para a cache.">
+<!ENTITY spaceMbytes                     "MB de espaço em disco para a cache">
 <!ENTITY diskCacheFolder.label           "Localização da pasta da cache:">
 <!ENTITY clearDiskCache.label            "Limpar cache">
 <!ENTITY clearDiskCache.accesskey        "L">

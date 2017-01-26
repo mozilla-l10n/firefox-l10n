@@ -59,11 +59,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label     "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "a">
-<!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
+<!ENTITY bookmarkPageCmd.label        "Adicionar esta página aos marcadores…">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
-<!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
+<!ENTITY bookmarkLinkCmd.label        "Adicionar esta ligação aos marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey    "l">
-<!ENTITY bookmarkFrameCmd.label       "Adicionar moldura aos marcadores">
+<!ENTITY bookmarkFrameCmd.label       "Adicionar este frame aos marcadores">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Guardar página como…">
 <!ENTITY savePageCmd.label            "Guardar página">
@@ -72,7 +72,7 @@
 <!ENTITY saveFrameAsCmd.label         "Guardar moldura como…">
 <!ENTITY saveFrameCmd.label           "Guardar moldura">
 <!ENTITY saveFrameCmd.accesskey       "G">
-<!ENTITY printFrameCmd.label          "Imprimir moldura...">
+<!ENTITY printFrameCmd.label          "Imprimir frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">
 <!ENTITY saveLinkCmd.label            "Guardar ligação">
