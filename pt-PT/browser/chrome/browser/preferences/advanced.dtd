@@ -83,7 +83,7 @@
 
 <!ENTITY updateTab.label                 "Atualização">
 
-<!ENTITY updateApplication.label         "Atualizações do &brandShortName;:">
+<!ENTITY updateApplication.label         "Atualizações do &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria de segurança)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Procurar atualizações, mas deixar-me escolher se as pretendo instalar">
