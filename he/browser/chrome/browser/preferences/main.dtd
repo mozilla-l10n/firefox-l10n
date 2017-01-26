@@ -7,7 +7,7 @@
 <!ENTITY startupPage.label         "כאשר &brandShortName; מופעל:">
 <!ENTITY startupPage.accesskey     "מ">
 <!ENTITY startupUserHomePage.label "יוצג דף הבית">
-<!ENTITY startupBlankPage.label    "להציג דף ריק">
+<!ENTITY startupBlankPage.label    "יוצג דף ריק">
 <!ENTITY startupPrevSession.label  "יוצגו החלונות והלשוניות מהפעם האחרונה">
 
 <!ENTITY homepage.label            "דף בית:">
@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "תמיד לבדוק אם &brandShortName; הוא דפדפן בררת מחדל">
 <!ENTITY alwaysCheckDefault2.accesskey    "ת">
-<!ENTITY setAsMyDefaultBrowser2.label     "להגדיר כדפדפן בררת מחדל">
+<!ENTITY setAsMyDefaultBrowser2.label     "הגדרה כדפדפן בררת מחדל">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "מ">
 <!ENTITY isDefault.label                  "&brandShortName; הוא כרגע דפדפן בררת המחדל שלך">
 <!ENTITY isNotDefault.label               "&brandShortName; אינו דפדפן בררת המחדל שלך">
