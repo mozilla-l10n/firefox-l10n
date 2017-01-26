@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే బుక్మార్క్ చేయబడింది">
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; లో తెరువండి">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
 <!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
+<!ENTITY pref_private_data_openTabs "ట్యాబులను తెరువండి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 <!ENTITY pref_private_data_searchHistory "చరిత్ర శోధన">
 <!ENTITY pref_private_data_formdata2 "చరిత్రను రకము">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "కాంపాక్ట్ ట్యాబులు">
+<!ENTITY pref_compact_tabs_summary2 "చిత్రం మోడ్ లో రెండు నిలువు ట్యాబులను అమర్చు">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -704,6 +708,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
 <!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
 
+<!ENTITY updater_apply_title3 "&brandShortName;‌కి నవీకరణ డౌన్లోడు చేయబడింది">
+<!ENTITY updater_apply_select3 "ఇన్స్టాల్ చేయడానికి తాకండి">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -848,3 +854,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "విస్మరించు">
 <!ENTITY activity_stream_delete_history "చరిత్ర నుండి తొలగించు">
 
+<!ENTITY activity_stream_welcome_title "మీ ముఖ్యాంశాలకు స్వాగతం">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ఇప్పుడు మీరు వెబ్లో కనుగొన్న విషయాలను ముఖ్యాంశాలుగా సృష్టిస్తుంది కాబట్టి మీరు గొప్ప వ్యాసాలు, వీడియోలు, బుక్మార్క్లు మరియు ఇతర పేజీలకు తిరిగి మీ మార్గాన్ని కనుగొనగలరు.">
