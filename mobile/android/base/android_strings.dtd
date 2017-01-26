@@ -348,7 +348,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Виберіть, які дані стирати">
 <!ENTITY pref_plugins "Плагіни">
 <!ENTITY pref_plugins_enabled "Увімкнено">
-<!ENTITY pref_plugins_tap_to_play2 "Торкнутися, щоб грати">
+<!ENTITY pref_plugins_tap_to_play2 "Торкнутися для відтворення">
 <!ENTITY pref_plugins_disabled "Вимкнено">
 <!ENTITY pref_text_size "Розмір тексту">
 <!ENTITY pref_restore_tabs "Відновлення вкладок">
