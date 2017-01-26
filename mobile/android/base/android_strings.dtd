@@ -329,10 +329,8 @@
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
 <!ENTITY doorhanger_login_edit_password_hint "Password">
 <!ENTITY doorhanger_login_edit_toggle "Mostra password">
-<!ENTITY doorhanger_login_edit_toast_error "Impossibile salvare accesso">
 <!ENTITY doorhanger_login_select_message "Copiare la password da &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Password copiata negli appunti">
-<!ENTITY doorhanger_login_select_toast_copy_error "Impossibile copiare la password">
 <!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
 <!ENTITY pref_magnifying_glass_enabled "Ingrandisci aree piccole">
