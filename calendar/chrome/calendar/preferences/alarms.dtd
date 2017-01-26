@@ -12,7 +12,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilizar som pré-definido">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Escolher...">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Escolher…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "p">

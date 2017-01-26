@@ -15,7 +15,7 @@
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendário.…">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendário…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 <!-- Open menu popup in File menu -->
 
@@ -54,7 +54,7 @@
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Recusar a contra-proposta">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Apagar">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Apagar do calendário">
-<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Mostrar detalhes do evento">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mais">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clique para mostrar mais opções">

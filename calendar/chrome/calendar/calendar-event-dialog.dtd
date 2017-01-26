@@ -159,7 +159,7 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Criar e-mail para os participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
-<!ENTITY event.remove.attendees.label2                    "Remover todos os participantes...">
+<!ENTITY event.remove.attendees.label2                    "Remover todos os participantes">
 <!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Remover participante">
 <!ENTITY event.remove.attendee.accesskey                  "e">
@@ -190,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "Aplicar proposta">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip2                 "Os campos do evento serão preenchidos com os valores da contra-proposta. A penas a gravação com ou sem alterações adicionais notificarão os participante envolvidos.">
+<!ENTITY counter.button.proposal.tooltip2                 "Os campos do evento serão preenchidos com os valores da contra-proposta. A penas a gravação com ou sem alterações adicionais notificarão os participante envolvidos">
 <!ENTITY counter.button.original.label                    "Aplicar dados originais">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip2                 "Os campos serão preenchidos com os valores do evento original, antes da contra-proposta ter sido efetuada.">
+<!ENTITY counter.button.original.tooltip2                 "Os campos serão preenchidos com os valores do evento original, antes da contra-proposta ter sido efetuada">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -231,7 +231,7 @@
 <!ENTITY event.attachments.accesskey                      "x" >
 <!ENTITY event.attachments.menubutton.label               "Anexar">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
-<!ENTITY event.attachments.url.label                      "Página web...">
+<!ENTITY event.attachments.url.label                      "Página web…">
 <!ENTITY event.attachments.url.accesskey                  "w">
 <!ENTITY event.attachments.popup.remove.label             "Remover" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
@@ -290,7 +290,7 @@
 <!ENTITY event.recurrence.on.label                      "Em:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "A cada" >
-<!ENTITY repeat.units.months.both                       "Mês" >
+<!ENTITY repeat.units.months.both                       "Mês(es)" >
 <!ENTITY event.recurrence.monthly.every.label           "A cada" >
 <!ENTITY event.recurrence.monthly.first.label           "Primeiro">
 <!ENTITY event.recurrence.monthly.second.label          "Segundo">
@@ -393,7 +393,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Por favor especifique o fuso horário">
-<!ENTITY event.timezone.custom.label     "Mais fusos horários...">
+<!ENTITY event.timezone.custom.label     "Mais fusos horários…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Geral">
