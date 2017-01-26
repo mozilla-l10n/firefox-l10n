@@ -387,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Dangos hanes chwilio">
 <!ENTITY pref_import_options "Dewisiadau mewnbynnu">
 <!ENTITY pref_import_android_summary "Mewnforio nodau tudalen a hanes o\u0027r porwr cynhenid">
-<!ENTITY pref_private_data_openTabs "Agor tabiau">
+<!ENTITY pref_private_data_openTabs "Tabiau ar agor">
 <!ENTITY pref_private_data_history2 "Hanes pori">
 <!ENTITY pref_private_data_searchHistory "Hanes chwilio">
 <!ENTITY pref_private_data_formdata2 "Hanes ffurflen">
