@@ -380,10 +380,8 @@
 <!ENTITY doorhanger_login_edit_username_hint "Nazwa użytkownika">
 <!ENTITY doorhanger_login_edit_password_hint "Hasło">
 <!ENTITY doorhanger_login_edit_toggle "Widoczne hasło">
-<!ENTITY doorhanger_login_edit_toast_error "Nie udało się zachować danych logowania">
 <!ENTITY doorhanger_login_select_message "Czy skopiować hasło dla &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Hasło zostało skopiowane do schowka">
-<!ENTITY doorhanger_login_select_toast_copy_error "Nie można było skopiować hasła">
 <!ENTITY doorhanger_login_select_action_text "Wybierz inne">
 <!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
