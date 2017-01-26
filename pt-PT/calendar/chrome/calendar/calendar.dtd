@@ -134,7 +134,7 @@
 
 <!ENTITY calendar.task-details.title.label           "título">
 <!ENTITY calendar.task-details.organizer.label       "de">
-<!ENTITY calendar.task-details.priority.label        "prioridade:">
+<!ENTITY calendar.task-details.priority.label        "prioridade">
 <!ENTITY calendar.task-details.priority.low.label    "Baixa">
 <!ENTITY calendar.task-details.priority.normal.label "Normal">
 <!ENTITY calendar.task-details.priority.high.label   "Alta">
@@ -240,9 +240,9 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-<!ENTITY calendar.context.removeserver.label           "Remover calendário">
+<!ENTITY calendar.context.removeserver.label           "Remover calendário…">
 <!ENTITY calendar.context.removeserver.accesskey       "R">
-<!ENTITY calendar.context.unsubscribeserver.label      "Cancelar subscrição do calendário">
+<!ENTITY calendar.context.unsubscribeserver.label      "Cancelar subscrição do calendário…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
 <!ENTITY calendar.context.synccalendars.label          "Sincronizar calendários">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
@@ -289,7 +289,7 @@
 
 
 <!ENTITY calendar.alarm.location.label              "Localização:" >
-<!ENTITY calendar.alarm.details.label               "Detalhes..." >
+<!ENTITY calendar.alarm.details.label               "Detalhes…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Silenciar durante" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Silenciar tudo durante" >
