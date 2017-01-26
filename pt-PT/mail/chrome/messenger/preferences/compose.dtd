@@ -8,7 +8,7 @@
 
 <!ENTITY dialogCompose.title                 "Composição">
 
-<!ENTITY forwardMsg.label                     "Reencaminhar:">
+<!ENTITY forwardMsg.label                     "Reencaminhar mensagens:">
 <!ENTITY forwardMsg.accesskey                 "r">
 <!ENTITY inline.label                         "Em linha">
 <!ENTITY asAttachment.label                   "Como anexo">
