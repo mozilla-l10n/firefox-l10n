@@ -651,7 +651,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ligação segura">
 <!ENTITY identity_connection_insecure "Ligação não-segura">
-<!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;.">
+<!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo não-seguro nesta página.">
@@ -828,7 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Adicionar ao ecrã inicial">
 
 <!ENTITY helper_first_offline_bookmark_title "Ler offline">
-<!ENTITY helper_first_offline_bookmark_message "Encontre os seus itens da Vista de leitura nos Marcadores, até offline">
+<!ENTITY helper_first_offline_bookmark_message "Encontre os seus itens da Vista de leitura nos Marcadores, até offline.">
 <!ENTITY helper_first_offline_bookmark_button "Ir para Marcadores">
 
 <!ENTITY helper_triple_readerview_open_title "Disponível offline">
