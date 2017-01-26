@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Afbryd">
 <!ENTITY runtimeMenu_disconnect_accesskey "A">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tilladelses-tabel">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skærmbillede">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Info om runtime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Standard">
 <!ENTITY prefs_options_autosavefiles "Gem filer automatisk">
 <!ENTITY prefs_options_autosavefiles_tooltip "Gem ændrede filer automatisk, inden projekter køres">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tilladelses-tabel">
-<!ENTITY permissionstable_name_header "Navn">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Info om runtime">
