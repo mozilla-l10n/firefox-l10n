@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Ainm:">
 <!ENTITY name.accesskey       "n">
-
+<!ENTITY name.placeholder     "Cuir ainm an choimeádáin isteach">
 <!ENTITY icon.label           "Deilbhín:">
 <!ENTITY icon.accesskey       "i">
 <!ENTITY color.label          "Dath:">
