@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Allaqachon xatcho‘plarga qo‘shilgan">
 <!ENTITY overlay_share_send_other "Boshqa qurilmalarga jo‘natish">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName;da ochish">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Izlash tarixini ko‘rsatish">
 <!ENTITY pref_import_options "Parametrlarni import qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
-
+<!ENTITY pref_private_data_openTabs "Ichki oynalarni ochish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
 <!ENTITY pref_private_data_searchHistory "Izlash tarixi">
 <!ENTITY pref_private_data_formdata2 "Tarixdan">
