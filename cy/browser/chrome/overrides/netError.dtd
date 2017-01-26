@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTime_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTime_systemDate'/>, pan ddylai ddangos <span id='wrongSystemTime_actualDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTimeWithoutReference_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTimeWithoutReference_systemDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
 
 <!ENTITY certerror.pagetitle1  "Cysylltiad Anniogel">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Mae'r wefan hon yn defnyddio HTTP Strict Transport Security (HSTS) i bennu fod &brandShortName; yn unig yn cysylltu iddo'n ddiogel. O ganlyniad, nid yw'n bosib ychwanegu eithriad ar gyfer y dystysgrif hon.">

@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Trywydd Crog">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Staciau wedi eu Cipio">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Scalarau">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramau Allweddol">
 
+<!ENTITY aboutTelemetry.eventsSection "  Digwyddiadau">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuriadau Syml">
 
