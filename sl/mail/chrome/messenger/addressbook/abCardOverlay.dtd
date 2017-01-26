@@ -123,6 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -130,10 +131,11 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "C">
 <!ENTITY XMPP.label                     "ID Jabber:">
-<!ENTITY XMPP.accesskey                 "a">
+<!ENTITY XMPP.accesskey                 "b">
 <!ENTITY IRC.label                      "Vzdevek za IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
