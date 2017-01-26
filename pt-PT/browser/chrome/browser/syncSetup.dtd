@@ -85,7 +85,7 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.tabs.label2         "Abrir separadores">
+<!ENTITY engine.tabs.label2         "Separadores abertos">
 <!ENTITY engine.tabs.accesskey      "s">
 <!ENTITY engine.history.label       "Histórico">
 <!ENTITY engine.history.accesskey   "H">
