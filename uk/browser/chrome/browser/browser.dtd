@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Введіть пошуковий запит чи адресу">
 <!ENTITY urlbar.accesskey             "с">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Розширення:">
 <!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
@@ -565,8 +566,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Грати">
-<!ENTITY mediaPlay.accesskey         "а">
+<!ENTITY mediaPlay.label             "Відтворити">
+<!ENTITY mediaPlay.accesskey         "т">
 <!ENTITY mediaPause.label            "Пауза">
 <!ENTITY mediaPause.accesskey        "а">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
@@ -755,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Відкрити">
 <!ENTITY syncedTabs.context.open.accesskey                   "В">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Відкрити у новій вкладці">
@@ -767,6 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
 <!ENTITY syncedTabs.context.copy.label                       "Копіювати">
 <!ENTITY syncedTabs.context.copy.accesskey                   "К">
+
 
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
