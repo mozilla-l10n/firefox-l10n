@@ -52,6 +52,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hängningar i trådar">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Fångade stackar
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "  Skalärer">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Nyckelbaserade skalärer">
@@ -59,6 +63,10 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Nyckelhistogram">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Händelser
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkla mätningar">
 
