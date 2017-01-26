@@ -32,6 +32,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext "Declina l'invito all'evento">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Declina tutte">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Declina l'invito all'evento per tutte le ricorrenze dello stesso">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label "Declina">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext "Declina la controproposta">
 <!ENTITY lightning.imipbar.btnDelete.label "Elimina">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Elimina dal calendario">
 <!ENTITY lightning.imipbar.btnDetails.label "Dettagli…">
@@ -40,6 +42,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Fare clic per visualizzare più opzioni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Riconferma">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Invia una riconferma all'organizzatore">
+<!ENTITY lightning.imipbar.btnReschedule.label "Sposta">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext "Sposta l'evento">
 <!ENTITY lightning.imipbar.btnSaveCopy.label "Salva una copia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Salva una copia dell'evento nel calendario a prescindere dalla risposta all'organizzatore. La lista dei partecipanti verrà cancellata.">
 <!ENTITY lightning.imipbar.btnTentative.label "Da confermare">
