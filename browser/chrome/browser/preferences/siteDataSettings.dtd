@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Setelan - Data situs">
+<!ENTITY     settings.description          "Situs web berikut ini minta untuk menyimpan data situs di cakram Anda. Anda dapat menentukan situs-situs web yang diperbolehkan menyimpan data situs. Data situs baku bersifat sementara dan bisa dihapus secara otomatis.">
+<!ENTITY     hostCol.label                 "Situs">
+<!ENTITY     statusCol.label               "Status">
+<!ENTITY     usageCol.label                "Penyimpanan">
+<!ENTITY     search.label                  "Cari:">
+<!ENTITY     search.accesskey              "C">
