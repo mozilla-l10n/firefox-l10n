@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Powšitkowny">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Warnować, hdyž sydła pospytuja přidatki instalować">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Strašne sćehnjenja blokować">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Před njewitanej a njewšědnej softwaru warnować">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Wuwzaća…">
 <!ENTITY  addonExceptions.accesskey     "W">

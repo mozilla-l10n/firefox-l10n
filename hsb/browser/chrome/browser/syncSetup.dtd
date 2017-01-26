@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Synchronizować">
 <!ENTITY engine.bookmarks.label     "Zapołožki">
 <!ENTITY engine.bookmarks.accesskey "Z">
-
-
+<!ENTITY engine.tabs.label2         "Wočinjene rajtarki">
+<!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "t">
 <!ENTITY engine.passwords.label     "Hesła">
