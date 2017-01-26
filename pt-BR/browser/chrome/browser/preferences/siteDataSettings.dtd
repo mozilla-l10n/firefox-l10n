@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Configurações - Dados do site">
+<!ENTITY     settings.description          "Os seguintes sites pediram para armazenar dados do site em seu disco. Você pode especificar quais sites tem permissão para armazenar dados do site. Os dados padrões do site são temporários e podem ser excluídos automaticamente.">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Armazenamento">
