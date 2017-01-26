@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
 <!ENTITY captivePortal.title "Mewngofnodi i'r rhwydwaith">
-
+<!ENTITY captivePortal.longDesc "<p>Efallai y bydd y rhwydwaith angen i chi fewngofnodi i ddefnyddio'r rhyngrwyd.</p>">
 
 <!ENTITY openPortalLoginPage.label "Agor Tudalen Mewngofnodi">
 
