@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Normalmente, os endereços web são escritos como<strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pesquisa</button> </div> <li>Certifique-se que está a utilizar as barras corretamente (i.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Normalmente, os endereços web são escritos como<strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pesquisa</button> </div> <li>Certifique-se que está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
