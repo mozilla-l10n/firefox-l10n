@@ -128,7 +128,7 @@
 <!ENTITY renameAttachment.accesskey "M">
 <!ENTITY deleteAttachment.accesskey "l">
 <!ENTITY selectAllAttachments.accesskey "t">
-<!ENTITY attachFile.label "Anexar ficheiros...">
-<!ENTITY attachFile.accesskey "n">
+<!ENTITY attachFile.label "Anexar ficheiro(s)…">
+<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Anexar página da web...">
 <!ENTITY attachPage.accesskey "x">

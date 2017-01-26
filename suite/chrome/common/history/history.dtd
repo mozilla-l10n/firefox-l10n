@@ -44,7 +44,7 @@
 
 <!ENTITY bookmarkLinkCmd.label          "Adicionar ligação aos marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey      "A">
-<!ENTITY bookmarkLinksCmd.label         "Adicionar ligações aos marcadores">
+<!ENTITY bookmarkLinksCmd.label         "Adicionar estas ligações aos marcadores…">
 <!ENTITY bookmarkLinksCmd.accesskey     "A">
 
 <!ENTITY col.title.label                "Título">

@@ -18,7 +18,7 @@
 
 <!ENTITY rights.intro-point1a "O &brandShortName; está disponível sob os termos da ">
 <!ENTITY rights.intro-point1b "Licença pública da Mozilla">
-<!ENTITY rights.intro-point1c ". Isto significa que pode utilizar, copiar e distribuir o &brandShortName; para outras pessoas. Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Licença Pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode utilizar, copiar e distribuir o &brandShortName; para outros.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Licença Pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe cede quaisquer direitos para as marcas registadas ou logótipos da Mozilla e SeaMonkey. Informação adicional sobre as marcas registadas pode ser encontrada ">
 <!ENTITY rights.intro-point2b "aqui">
@@ -44,7 +44,7 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights3.webservices-a "O &brandFullName; oferece serviços web opcionais (&quot;Serviços&quot;) que estão disponíveis para sua utilização com esta versão binária do &brandShortName;, tal como descrito abaixo. Alguns destes serviços (tais como os serviços de sugestões e atualização de extras, o serviço de navegação segura ou a funcionalidade de notificação de navegação com conhecimento da localização) estão ativas por predefinição. Se não quiser utilizar qualquer um destes serviços ou os termos abaixo não são aceitáveis, instruções para desativar uma determinada funcionalidade ou serviços podem ser encontradas ">
+<!ENTITY rights3.webservices-a "O &brandFullName; oferece serviços web opcionais (&quot;Serviços&quot;) que estão disponíveis para sua utilização com esta versão binária do &brandShortName;, tal como descrito abaixo.  Alguns destes serviços (tais como os serviços de sugestões e atualização de extras, o serviço de navegação segura ou a funcionalidade de notificação de navegação com conhecimento da localização) estão ativas por predefinição.  Se não quiser utilizar qualquer um destes serviços ou os termos abaixo não são aceitáveis, instruções para desativar uma determinada funcionalidade ou serviços podem ser encontradas ">
 <!ENTITY rights3.webservices-b "aqui">
 <!ENTITY rights3.webservices-c ". Outras funcionalidades e serviços podem ser ativados ou desativados nas preferências da aplicação.">
 <!-- add-on related points for branded builds -->
@@ -65,7 +65,7 @@
 <!ENTITY rights.safebrowsing-term4 "A navegação segura está desativada">
 <!-- location aware browsing points for branded builds -->
 
-<!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização:">
+<!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização: ">
 <!ENTITY rights.locationawarebrowsing-b "é sempre de indicação explícita.  Não serão enviadas quaisquer informações de localização sem a sua permissão.  Se quiser desativar completamente a funcionalidade, siga este passos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.locationawarebrowsing-term2 "Selecionar o painel principal &security.label;">

@@ -7,7 +7,7 @@
 <!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir uma nova janela em:">
 <!ENTITY newWindowRestriction.label "Quando os scripts querem abrir uma nova janela:">
 <!ENTITY external.label "Ligações de outras aplicações">
-<!ENTITY externalDescription.label "Abrir ligações de outras aplicações">
+<!ENTITY externalDescription.label "Abrir ligações de outras aplicações em:">
 
 <!ENTITY openCurrent.label "No separador/janela atual">
 <!ENTITY newWindowGroupCurrent.accesskey "j">

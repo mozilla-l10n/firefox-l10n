@@ -8,7 +8,7 @@
 <!ENTITY languages.customize.title                      "Idiomas">
 <!ENTITY langtitle.label                                "idiomas para páginas web">
 <!ENTITY languages.customize.prefAddLangDescript        "Selecione o(s) idiomas) que deseja adicionar.">
-<!ENTITY languages.customize.addButton.label            "Adicionar">
+<!ENTITY languages.customize.addButton.label            "Adicionar…">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 <!ENTITY languages.customize.deleteButton.label         "Remover">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
