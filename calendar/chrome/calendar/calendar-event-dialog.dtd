@@ -151,7 +151,7 @@
 <!ENTITY counter.button.proposal.tooltip2 "I campi dell'evento verranno popolati usando i dati della controproposta. Solo il salvataggio (con o senza altre modifiche) notificherà tutti i partecipanti">
 <!ENTITY counter.button.original.label "Applica dati originali">
 <!ENTITY counter.button.original.accesskey "o">
-<!ENTITY counter.button.original.tooltip2"I campi verranno popolati usando i dati dell'evento originale, anteriori alla controproposta">
+<!ENTITY counter.button.original.tooltip2 "I campi verranno popolati usando i dati dell'evento originale, anteriori alla controproposta">
 <!ENTITY event.title.textbox.label "Titolo:">
 <!ENTITY event.title.textbox.accesskey "T">
 <!ENTITY event.location.label "Luogo:">
