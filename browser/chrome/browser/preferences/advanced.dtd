@@ -59,8 +59,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "Sonraí an tSuímh">
-
-
+<!ENTITY clearSiteData.label             "Glan Gach Sonra">
+<!ENTITY clearSiteData.accesskey         "G">
 <!ENTITY siteDataSettings.label          "Socruithe…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Tuilleadh eolais">
