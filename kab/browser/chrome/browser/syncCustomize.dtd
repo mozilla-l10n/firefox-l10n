@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "T">
 <!ENTITY engine.history.label             "Amazray">
 <!ENTITY engine.history.accesskey         "m">
-
-
+<!ENTITY engine.tabs.label2               "Lddi icarren">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Awalen uffiren">
 <!ENTITY engine.passwords.accesskey       "w">
 <!ENTITY engine.addons.label              "Izegrar n uselkim">

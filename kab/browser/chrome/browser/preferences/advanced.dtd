@@ -59,8 +59,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "isefka n usmel">
-
-
+<!ENTITY clearSiteData.label             "kkes akk isefka">
+<!ENTITY clearSiteData.accesskey         "k">
 <!ENTITY siteDataSettings.label          "Iɣewwaṛen...">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Lmed ugar">
@@ -116,9 +116,9 @@
 <!ENTITY certPersonal.label              "Isutren">
 <!ENTITY certPersonal.description        "Ticki aqeddac isuter aselkin-iw udmawan: ">
 <!ENTITY selectCerts.auto                "Fren yiwen s wudem awurman">
-
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Steqsi-yi-d yal tikelt ">
-
+<!ENTITY selectCerts.ask.accesskey       "A ">
 <!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen ">
 <!ENTITY enableOCSP.accesskey            "S">
 <!ENTITY viewCerts.label                 "Sken iselkinen">

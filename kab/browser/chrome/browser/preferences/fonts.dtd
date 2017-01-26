@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Sireg isebtar web ad sqedcen tisefsiyin-nsen deg umḍiq n tidak ifernen daw-a">
+<!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
 <!ENTITY languages.customize.Fallback2.label      "Asettengel n uḍris n ufran aneggaru:">

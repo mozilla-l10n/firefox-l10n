@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Issin ugar…">
 
-
+<!ENTITY defaultButton.label "IH!">
+<!ENTITY defaultButton.accesskey "I">

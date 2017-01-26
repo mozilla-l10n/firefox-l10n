@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Mtawi">
 <!ENTITY engine.bookmarks.label     "Ticraḍ n isebtar">
 <!ENTITY engine.bookmarks.accesskey "T">
-
-
+<!ENTITY engine.tabs.label2         "Lldi icarren">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
 <!ENTITY engine.passwords.label     "Awalen uffiren">
