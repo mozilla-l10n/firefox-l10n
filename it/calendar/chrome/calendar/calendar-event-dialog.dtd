@@ -28,6 +28,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label "Separa inviti per partecipante">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "e">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Questa opzione invia una e-mail di invito per ogni partecipante. Ogni invito contiene solo il partecipante destinatario in modo che le identità degli altri partecipanti non siano rivelate.">
+<!ENTITY event.attendees.disallowcounter.label "Non permettere controproposte">
+<!ENTITY event.attendees.disallowcounter.accesskey "N">
+<!ENTITY event.attendees.disallowcounter.tooltip "Indica che non verranno accettate controproposte">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
 <!ENTITY event.dialog.new.message.key2 "N">
@@ -55,8 +58,10 @@
 <!ENTITY event.menu.item.close.accesskey "C">
 <!ENTITY event.menu.item.save.label "Salva">
 <!ENTITY event.menu.item.save.accesskey "S">
+<!ENTITY  event.menu.item.save.tab.accesskey "a">
 <!ENTITY event.menu.item.saveandclose.label "Salva ed esci">
 <!ENTITY event.menu.item.saveandclose.accesskey "v">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey "e">
 <!ENTITY event.menu.item.delete.label "Elimina…">
 <!ENTITY event.menu.item.delete.accesskey "E">
 <!ENTITY event.menu.item.page.setup.label "Imposta pagina">
@@ -127,11 +132,13 @@
 <!ENTITY event.remove.attendees.accesskey "u">
 <!ENTITY event.remove.attendee.label "Rimuovi partecipante">
 <!ENTITY event.remove.attendee.accesskey "R">
-<!ENTITY event.toolbar.save.label "Salva ed esci">
+<!ENTITY event.toolbar.save.label2 "Salva">
+<!ENTITY event.toolbar.saveandclose.label "Salva ed esci">
 <!ENTITY event.toolbar.delete.label "Elimina">
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
 <!ENTITY event.toolbar.privacy.label "Privacy">
-<!ENTITY event.toolbar.save.tooltip "Salva ed esci">
+<!ENTITY event.toolbar.save.tooltip2 "Salva">
+<!ENTITY event.toolbar.saveandclose.tooltip "Salva ed esci">
 <!ENTITY event.toolbar.delete.tooltip "Elimina">
 <!ENTITY event.toolbar.attendees.tooltip "Invita partecipanti">
 <!ENTITY event.toolbar.attachments.tooltip "Aggiungi allegati">
@@ -139,6 +146,12 @@
 <!ENTITY event.toolbar.priority.tooltip "Cambia priorità">
 <!ENTITY event.toolbar.status.tooltip "Cambia stato">
 <!ENTITY event.toolbar.freebusy.tooltip "Cambia tempo libero/occupato">
+<!ENTITY counter.button.proposal.label "Applica proposta">
+<!ENTITY counter.button.proposal.accesskey "A">
+<!ENTITY counter.button.proposal.tooltip2 "I campi dell'evento verranno popolati usando i dati della controproposta. Solo il salvataggio (con o senza altre modifiche) notificherà tutti i partecipanti">
+<!ENTITY counter.button.original.label "Applica dati originali">
+<!ENTITY counter.button.original.accesskey "o">
+<!ENTITY counter.button.original.tooltip2"I campi verranno popolati usando i dati dell'evento originale, anteriori alla controproposta">
 <!ENTITY event.title.textbox.label "Titolo:">
 <!ENTITY event.title.textbox.accesskey "T">
 <!ENTITY event.location.label "Luogo:">
@@ -328,6 +341,7 @@
 <!ENTITY read.only.tentative.label "Forse posso partecipare">
 <!ENTITY read.only.needs.action.label "Confermerò più tardi">
 <!ENTITY read.only.reminder.label "Promemoria:">
+<!ENTITY read.only.attachments.label "Allegati:">
 <!ENTITY read.only.attendees.label "Partecipanti">
 <!ENTITY read.only.description.label "Descrizione">
 <!ENTITY read.only.link.label "Collegamenti correlati">
