@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Seol ríomhphost chugam nuair a bheidh tuilleadh eolais ar fáil">
 <!ENTITY tabCrashed.reportSent "Seoladh an tuairisc faoin tuairteáil cheana; go raibh maith agat as cabhrú linn feabhas a chur ar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Déan tuairisc ar chluaisíní sa chúlra">
-
+<!ENTITY tabCrashed.autoSubmit2 "Nuashonraigh do chuid sainroghanna le go seolfar tuairisc tuairteála go huathoibríoch, agus bíodh tuairiscí leis do chluaisíní tuairteáilte sa chúlra ón seisiún seo agus ó sheisiúin eile.">
