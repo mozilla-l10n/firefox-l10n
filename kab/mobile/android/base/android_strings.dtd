@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ifuyla ittwazedmen">
 <!ENTITY updater_downloading_select2 "Nnal akken ad tesneseḍ lqem ticki yettusider-d">
-<!ENTITY updater_downloading_retry2 "Nnal akken ad tɣerḍeḍ tikelt nniḍen.">
+<!ENTITY updater_downloading_retry2 "Nnal akken ad tɛerḍeḍ tikelt nniḍen.">
 
 <!ENTITY updater_apply_title3 "Lqem n &brandShortName; yellan">
 <!ENTITY updater_apply_select3 "Nal akken ad tesbedded">
