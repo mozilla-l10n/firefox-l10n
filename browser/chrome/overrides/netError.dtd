@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; njeje z <span id='wrongSystemTime_URL'/> zwjazał, dokelž zda so, zo časnik wašeho ličaka wopačny čas pokazuje a to zadźěwa wěstemu zwiskej.</p> <p>Waš ličak je so na <span id='wrongSystemTime_systemDate'/> stajił, hdyž podaće měło <span id='wrongSystemTime_actualDate'/> być. Zo byšće tutón problem rozrisał, změńće swój datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; njeje z <span id='wrongSystemTimeWithoutReference_URL'/> zwjazał, dokelž zda so, zo časnik wašeho ličaka wopačny čas pokazuje a to zadźěwa wěstemu zwiskej.</p> <p>Waš ličak je so na <span id='wrongSystemTimeWithoutReference_systemDate'/> stajił. Zo byšće tutón problem rozrisał, zmwěńće swój datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno, wuwzaće za tutón certifikat přidać.">
