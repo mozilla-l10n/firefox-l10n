@@ -101,6 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "ข้อยกเว้น…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
