@@ -116,6 +116,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; har inte anslutit till <span id='wrongSystemTime_URL'/> eftersom datorn klocka verkar visa fel tid och detta hindrar en säker anslutning.</p> <p>Din dator är inställd på <span id='wrongSystemTime_systemDate'/>, när den borde vara <span id='wrongSystemTime_actualDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att visa rätt tid.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; har inte anslutit till <span id='wrongSystemTimeWithoutReference_URL'/> eftersom datorn klocka verkar visa fel tid och detta hindrar en säker anslutning.</p> <p>Din dator är inställd på <span id='wrongSystemTimeWithoutReference_systemDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att visa rätt tid.</p>">
 
 <!ENTITY certerror.pagetitle1  "Osäker anslutning">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denna webbplats använder HTTP Strict Transport Security (HSTS) för att ange att &brandShortName; endast kan ansluta dit säkert. Därför är det inte möjligt att lägga till ett undantag för detta certifikat.">
