@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Ymddygiad Llun Sgrin">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Llun sgrin i'r clipfwrdd">
+<!ENTITY options.screenshot.clipboard.tooltip    "Yn cadw i'r llun sgrin yn uniongyrchol i'r clipfwrdd">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Chwarae sain caead camera">
+<!ENTITY options.screenshot.audio.tooltip    "Galluogi sain camera wrth gymryd llun sgrin">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

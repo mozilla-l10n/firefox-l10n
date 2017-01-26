@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "G">
 <!ENTITY toolsMenu.tooltip                    "Offer ar gyfer pob ychwanegyn">
 
-
+<!ENTITY getThemes.description                "Eisiau personoli eich porwr?">
+<!ENTITY getThemes.learnMore                  "Dewis o filoedd o themâu.">
 
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
 <!ENTITY cmd.forward.tooltip                  "Ymlaen un tudalen">
