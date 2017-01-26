@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Brez">
 <!ENTITY editDirectories.label                 "Uredi imenike …">
 <!ENTITY editDirectories.accesskey             "U">
+<!ENTITY showAsDefault.label                   "Privzeti zagonska mapa v oknu imenika:">
+<!ENTITY showAsDefault.accesskey               "P">
+<!ENTITY showAsDefaultLast.label               "Nazadnje uporabljena mapa">
 
 <!ENTITY sendOptionsDescription.label          "Nastavi vedenje oblike besedila">
 <!ENTITY sendOptions.label                     "Možnosti pošiljanja …">
