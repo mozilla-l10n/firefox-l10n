@@ -242,21 +242,21 @@
 <!ENTITY tableTable.label "Tabela">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Linha">
-<!ENTITY tableRows.label "Linhas">
+<!ENTITY tableRows.label "Linha(s)">
 <!ENTITY tableRow.accesskey "L">
 <!ENTITY tableRowAbove.label "Linha acima">
 <!ENTITY tableRowAbove.accesskey "c">
 <!ENTITY tableRowBelow.label "Linha abaixo">
 <!ENTITY tableRowBelow.accesskey "b">
 <!ENTITY tableColumn.label "Coluna">
-<!ENTITY tableColumns.label "Colunas">
+<!ENTITY tableColumns.label "Coluna(s)">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Coluna à esquerda">
 <!ENTITY tableColumnBefore.accesskey "a">
 <!ENTITY tableColumnAfter.label "Coluna à direita">
 <!ENTITY tableColumnAfter.accesskey "d">
 <!ENTITY tableCell.label "Célula">
-<!ENTITY tableCells.label "Células">
+<!ENTITY tableCells.label "Célula(s)">
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Conteúdo da célula">
 <!ENTITY tableCellContents.accesskey "n">
