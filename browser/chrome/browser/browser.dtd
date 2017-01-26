@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Uddit Kaarewol e Henorde Hesere">
 <!ENTITY openFrameCmd.accesskey       "H">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Uddit Jokkol e Tabbere Mooftirde Hesere">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Hollu Ngol Kaarewol Tan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey         "r">
