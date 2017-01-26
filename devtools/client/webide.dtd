@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Dewisiadau Efelychwr">
 <!ENTITY simulator_remove "Dileu'r Efelychwr">
 <!ENTITY simulator_reset "Adfer y Rhagosodiadau">
-
+<!ENTITY simulator_name "Enw">
 <!ENTITY simulator_software "Meddalwedd">
 <!ENTITY simulator_version "Fersiwn">
 <!ENTITY simulator_profile "Proffil">
