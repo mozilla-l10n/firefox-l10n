@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Tha seo ’na chomharra-lìn mu thràth">
 <!ENTITY overlay_share_send_other "Cuir gu uidheaman eile">
 
+<!ENTITY overlay_share_open_browser_btn_label "Fosgail le &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -692,7 +693,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Lorg &formatS1; airson &formatS2;">
 
 <!ENTITY searchable_description "Comharran-lìn is an eachdraidh">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_start_select2 "Suath ris gus a luchdadh a-nuas">
 
 <!ENTITY updater_downloading_title2 "A’ luchdadh a-nuas &brandShortName;">
@@ -700,7 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Suath ris gus an t-ùrachadh a chur an gnìomh turas a bhios e air a luchdadh a-nuas">
 <!ENTITY updater_downloading_retry2 "Suath ris gus feuchainn ris a-rithist">
 
-
+<!ENTITY updater_apply_title3 "Chaidh ùrachadh a luchdadh a-nuas airson &brandShortName;">
+<!ENTITY updater_apply_select3 "Suath ris gus a stàladh">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
