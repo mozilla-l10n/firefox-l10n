@@ -93,9 +93,7 @@ pendant le transfert d’informations. Veuillez réessayer.</p>
 </ul>
 ">
 
-
 <!ENTITY netOffline.title "Mode hors connexion">
-
 <!ENTITY netOffline.longDesc2 "<p>Le navigateur est en mode hors connexion et ne peut pas se connecter à l’adresse indiquée.</p>
 <ul>
   <li>L’ordinateur est-il connecté au réseau ?</li>

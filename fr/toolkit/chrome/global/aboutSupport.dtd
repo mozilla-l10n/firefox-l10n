@@ -15,8 +15,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Identifiant du rapport">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Date d’envoi">
 <!ENTITY aboutSupport.crashes.allReports "Tous les rapports de plantage">
 <!ENTITY aboutSupport.crashes.noConfig "Cette application n’a pas été configurée pour afficher les rapports de plantage.">
@@ -48,7 +46,6 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afficher l’historique des mises à jour">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Répertoire de profil">
-
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
@@ -71,7 +68,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode sans échec">
 
 <!ENTITY aboutSupport.showDir.label "Ouvrir le dossier correspondant">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->

@@ -4,9 +4,9 @@
 
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label               "Général">
+<!ENTITY generalTab.label                "Général">
 
-<!ENTITY accessibility.label            "Accessibilité">
+<!ENTITY accessibility.label             "Accessibilité">
 
 <!ENTITY useCursorNavigation.label       "Toujours utiliser les touches de navigation pour se déplacer à l’intérieur d’une page">
 <!ENTITY useCursorNavigation.accesskey   "T">
@@ -43,7 +43,7 @@
 <!ENTITY crashReporterDesc2.label         "Les rapports de plantages aident &vendorShortName; à corriger les problèmes et à rendre votre navigateur plus stable et sécurisé">
 <!ENTITY alwaysSubmitCrashReports.label   "Autoriser &brandShortName; à envoyer pour vous les rapports de plantages en attente">
 <!ENTITY alwaysSubmitCrashReports.accesskey "u">
-<!ENTITY crashReporterLearnMore.label    "En savoir plus">
+<!ENTITY crashReporterLearnMore.label     "En savoir plus">
 
 <!ENTITY networkTab.label                "Réseau">
 
@@ -84,9 +84,6 @@
 <!ENTITY updateTab.label                 "Mises à jour">
 
 <!ENTITY updateApplication.label         "Mises à jour de &brandShortName;">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "Vérifier l’existence de mises à jour, mais vous laisser décider de leur installation">

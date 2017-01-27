@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Couleurs">
-<!ENTITY window.width                     "54em">
-<!ENTITY window.macWidth                  "54em">
+<!ENTITY  window.width                    "54em">
+<!ENTITY  window.macWidth                 "54em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Outrepasser les couleurs spécifiées par la page avec celles choisies ci-dessus :">
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">

@@ -23,18 +23,18 @@
 <!ENTITY  addonExceptions.label         "Exceptions…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
+
 <!ENTITY  logins.label                  "Identifiants">
 
-<!ENTITY  rememberLogins.label       "Enregistrer les identifiants">
-<!ENTITY  rememberLogins.accesskey   "s">
-
+<!ENTITY  rememberLogins.label          "Enregistrer les identifiants">
+<!ENTITY  rememberLogins.accesskey      "s">
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label       "Utiliser un mot de passe principal">
-<!ENTITY  useMasterPassword.accesskey   "U">
+<!ENTITY  useMasterPassword.label        "Utiliser un mot de passe principal">
+<!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Changer le mot de passe principal…">
 <!ENTITY  changeMasterPassword.accesskey "C">
 
-<!ENTITY  savedLogins.label           "Identifiants enregistrés…">
-<!ENTITY  savedLogins.accesskey       "I">
+<!ENTITY  savedLogins.label              "Identifiants enregistrés…">
+<!ENTITY  savedLogins.accesskey          "I">
