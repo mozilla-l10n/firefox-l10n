@@ -11,7 +11,6 @@
 <!ENTITY defaultSearchEngine.label        "Rechercher en utilisant :">
 <!ENTITY defaultSearchEngine.accesskey    "R">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY engineManager.label              "Gérer les moteurs de recherche…">
 
 <!ENTITY searchResults.label              "Résultats de recherche">

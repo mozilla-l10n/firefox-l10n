@@ -6,13 +6,13 @@
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
 
-<!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage">
+<!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage"> 
 <!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l’article plutôt que de télécharger la page web">
+<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l’article plutôt que de télécharger la page web"> 
 <!ENTITY useQuickMode.accesskey "a">
 
-<!ENTITY manageSubscriptions.label "Gérer les abonnements…">
+<!ENTITY manageSubscriptions.label "Gérer les abonnements…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from rss.rdf -->

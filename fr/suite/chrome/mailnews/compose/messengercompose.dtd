@@ -31,7 +31,7 @@
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Page web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard’ -->
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY sendNowCmd.label "Envoyer">
@@ -44,8 +44,8 @@
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
+<!ENTITY editRewrapCmd.accesskey  "o">
+<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
 <!-- View menu items -->
@@ -114,12 +114,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Barre d’adresse">
 <!ENTITY formatToolbar.tooltip "Barre d’outils de mise en forme">
-<!ENTITY sendButton.tooltip "Envoyer le message maintenant">
-<!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard">
-<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d’adresses">
-<!ENTITY attachButton.tooltip "Joindre un fichier au message">
-<!ENTITY saveButton.tooltip "Enregistrer ce message">
-<!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
+<!ENTITY sendButton.tooltip "Envoyer le message maintenant"> 
+<!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard"> 
+<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d’adresses"> 
+<!ENTITY attachButton.tooltip "Joindre un fichier au message"> 
+<!ENTITY saveButton.tooltip "Enregistrer ce message"> 
+<!ENTITY stopButton.tooltip "Arrêter le transfert en cours"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Ouvrir">

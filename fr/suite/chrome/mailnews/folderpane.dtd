@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY nameColumn.label "Nom"> 
+<!ENTITY nameColumn.label   "Nom"> 
 <!ENTITY unreadColumn.label "Non lus"> 
 <!ENTITY totalColumn.label "Total"> 
-<!ENTITY folderSizeColumn.label "Taille">
+<!ENTITY folderSizeColumn.label "Taille"> 
 <!ENTITY folderLocationToolbarItem.title "Emplacement du dossier">
 <!ENTITY mailViewsToolbarItem.title "Vues courrier">
 <!ENTITY searchToolbarItem.title "Rechercher">

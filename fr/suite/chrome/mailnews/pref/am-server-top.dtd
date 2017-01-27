@@ -85,8 +85,7 @@
 <!ENTITY browseNewsrc.accesskey "a">
 
 <!ENTITY accountTitle.label "Paramètres du compte">
-<!ENTITY accountSettingsDesc.label  "Ce compte est spécial, aucune identité ne lui est associée.">
-
+<!ENTITY accountSettingsDesc.label "Ce compte est spécial, aucune identité ne lui est associée.">
 <!ENTITY storeType.label "Type de stockage des messages :">
 <!ENTITY storeType.accesskey "k">
 <!ENTITY mboxStore2.label "Un fichier par dossier (mbox)">

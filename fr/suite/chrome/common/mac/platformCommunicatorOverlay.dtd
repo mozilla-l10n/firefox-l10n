@@ -25,8 +25,8 @@
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label                 "Fermer">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Fermer">  
+<!ENTITY closeCmd.key                   "W">  
 
 <!ENTITY printSetupCmd.label            "Mise en page…">
 <!ENTITY printSetupCmd.accesskey        "g">
@@ -40,7 +40,7 @@
 <!ENTITY toggleFolderPaneCmd.key        "S">
 <!ENTITY toggleDirectoryPaneCmd.key     "S">
 
-<!ENTITY historyCmd.key                 "H">
+<!ENTITY historyCmd.key                 "H">  
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">

@@ -9,11 +9,11 @@
 <!ENTITY setup.pickSetupType.description "Bienvenue, si vous n’avez jamais utilisé &syncBrand.fullName.label; auparavant, vous devrez créer un nouveau compte.">
 <!ENTITY button.createNewAccount.label "Créer un nouveau compte">
 <!ENTITY setup.haveAccount.label "J’ai déjà un compte &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "Se connecter">
 
 <!ENTITY setup.choicePage.title.label     "Avez-vous déjà utilisé &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Je n’ai jamais utilisé &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "J’utilise déjà &syncBrand.shortName.label; sur un autre ordinateur">
-<!ENTITY button.connect.label "Se connecter">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serveur">
@@ -24,15 +24,15 @@
 <!ENTITY signIn.account2.accesskey  "o">
 <!ENTITY signIn.password.label      "Mot de passe">
 <!ENTITY signIn.password.accesskey  "p">
-<!ENTITY signIn.recoveryKey.label   "Clé de récupération">
+<!ENTITY signIn.recoveryKey.label     "Clé de récupération">
 <!ENTITY signIn.recoveryKey.accesskey "C">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Détails du compte">
-<!ENTITY setup.confirmPassword.label  "Confirmer le mot de passe">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Adresse de courrier électronique">
-<!ENTITY setup.emailAddress.accesskey "e">
+<!ENTITY setup.confirmPassword.label             "Confirmer le mot de passe">
+<!ENTITY setup.confirmPassword.accesskey         "m">
+<!ENTITY setup.emailAddress.label                "Adresse de courrier électronique">
+<!ENTITY setup.emailAddress.accesskey            "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "J’accepte les">
@@ -74,7 +74,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Se connecter">
-<!ENTITY existingRecoveryKey.description  "Vous pouvez obtenir une copie de votre clé de récupération en vous rendant dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur votre autre appareil et en sélectionnant « Ma clé de récupération » dans « Gérer le compte ».">
+<!ENTITY existingRecoveryKey.description "Vous pouvez obtenir une copie de votre clé de récupération en vous rendant dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur votre autre appareil et en sélectionnant « Ma clé de récupération » dans « Gérer le compte ».">
 <!ENTITY verifying.label              "Vérification en cours…">
 <!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
 <!ENTITY resetSyncKey.label           "J’ai perdu mon autre appareil.">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Propriétés du serveur d’annuaire">
 <!ENTITY directoryName.label               "Nom :">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "Nom d’hôte :">
@@ -35,9 +34,9 @@
 <!ENTITY saslMechanism.label               "Méthode d’identification : ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslOff.accesskey		   "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey              "K">
+<!ENTITY saslGSSAPI.accesskey		   "K">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
