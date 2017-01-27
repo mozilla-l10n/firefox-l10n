@@ -5,7 +5,7 @@
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
-   -->
+  -->
 
 <!ENTITY pref.calendar.view.allview.caption "Général">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vues quotidienne et hebdomadaire">

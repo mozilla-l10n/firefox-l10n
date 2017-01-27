@@ -44,8 +44,8 @@
 <!ENTITY month.11.name "Novembre" >
 <!ENTITY month.12.name "Décembre" >
 
-<!ENTITY onemonthbackward.tooltip "Aller au mois précédent">
-<!ENTITY onemonthforward.tooltip "Aller au mois suivant">
+<!ENTITY onemonthbackward.tooltip "Aller au mois précédent" >
+<!ENTITY onemonthforward.tooltip "Aller au mois suivant" >
 <!ENTITY showToday.tooltip "Aller à aujourd’hui">
 <!ENTITY onedayforward.tooltip "Aller au jour suivant">
 <!ENTITY onedaybackward.tooltip "Aller au jour précédent">
