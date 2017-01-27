@@ -195,28 +195,28 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "నవీకరించు">
-<!ENTITY addon.undoAction.label               "చేయవద్దు">
+<!ENTITY addon.undoAction.label               "చర్యరద్దు">
 <!ENTITY addon.undoAction.tooltip             "ఈ చర్యను చేయవద్దు">
-<!ENTITY addon.undoRemove.label               "చేయవద్దు">
-<!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింత సంస్థాపించబడి వుండనివ్వు">
+<!ENTITY addon.undoRemove.label               "చర్యరద్దు">
+<!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింత సంస్థాపించబడి ఉండనివ్వు">
 <!ENTITY addon.restartNow.label               "ఇప్పుడు పునఃప్రారంభించు">
 <!ENTITY addon.install.label                  "సంస్థాపించు">
-<!ENTITY addon.install.tooltip                "ఈ పొడిగింత సంస్థాపించు">
+<!ENTITY addon.install.tooltip                "ఈ పొడిగింతను సంస్థాపించు">
 <!ENTITY addon.updateNow.label                "ఇప్పుడు నవీకరించు">
 <!ENTITY addon.updateNow.tooltip              "ఈ పొడిగింత కొరకు నవీకరణను సంస్థాపించు">
-<!ENTITY addon.includeUpdate.label            "నవీకరణనందు చేర్చు">
+<!ENTITY addon.includeUpdate.label            "నవీకరణలో చేర్చు">
 <!ENTITY addon.updateAvailable.label          "ఒక నవీకరణ అందుబాటులోవుంది">
-<!ENTITY addon.checkingForUpdates.label       "నవీకరణల కొరకు పరిశీలించుచున్నది…">
+<!ENTITY addon.checkingForUpdates.label       "నవీకరణల కొరకు పరిశీలిస్తున్నది…">
 <!ENTITY addon.releaseNotes.label             "విడుదల నోట్స్:">
 <!ENTITY addon.loadingReleaseNotes.label      "లోడవుచున్నది…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "మన్నించాలి, విడుదల నోట్స్ లోడవ్వుటలో దోషము ఉంది.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "క్షమించండి, విడుదల నోట్స్ లోడవ్వుటలో దోషము ఉంది.">
 
 <!ENTITY addon.createdBy.label                "చేత ">
 
-<!ENTITY eula.title                           "అంతిమ-వినియోగదారి లైసెన్సుఒప్పందపత్రం">
+<!ENTITY eula.title                           "అంతిమ-వినియోగదారి లైసెన్సు ఒప్పందపత్రం">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "ఆమోదించు మరియు సంస్థాపించు…">
+<!ENTITY eula.accept                          "ఆమోదించి సంస్థాపించు…">
 
 <!ENTITY settings.path.button.label           "విహరించు…">
 
@@ -238,15 +238,15 @@
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "&brandShortName;‌లో వాడటానికి ఈ కింది పొడిగింతలు తనిఖీ చేయబడలేదు. మీరు ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "ప్రత్యామ్నాయాలు చూసుకోవచ్చు">
+<!ENTITY disabledUnsigned.description.findAddonsLink "ప్రత్యామ్నాయాలు కనుగొను">
 <!ENTITY disabledUnsigned.description.end " లేదా డెవలపర్లను వాటిని తనిఖీ చేయించమని అడగవచ్చు.">
 <!ENTITY disabledUnsigned.learnMore "ఆన్‌లైన్లో మిమ్మల్ని సురక్షితంగా ఉంచడానికి మేం చేసే కృషి గురించి తెలుసుకోండి.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "మాన్యువల్">
-<!ENTITY disabledUnsigned.devInfo.end "లో చెప్పినట్టు కొనసాగవచ్చు.">
+<!ENTITY disabledUnsigned.devInfo.start "తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా  చదివి కొనసాగించవచ్చు">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "మానవీయం">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "ఏదైనా లేదా? కొన్ని ప్లగిన్లకు &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
