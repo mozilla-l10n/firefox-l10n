@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "ک">
 <!ENTITY searchOnStartTyping.label       "میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں">
 <!ENTITY searchOnStartTyping.accesskey   "م">
-
-
+<!ENTITY blockAutoReload.label           "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
+<!ENTITY blockAutoReload.accesskey       "س">
 <!ENTITY useOnScreenKeyboard.label       "ضرورت کے وقت ٹچ کی بورڈ دکھایں">
 <!ENTITY useOnScreenKeyboard.accesskey   "ک">
 
@@ -101,7 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "تلاش انجن">
 <!ENTITY enableSearchUpdate.accesskey    "ا">
 
-
+<!ENTITY offlineStorageNotify.label               "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
+<!ENTITY offlineStorageNotify.accesskey           "ب">
 <!ENTITY offlineStorageNotifyExceptions.label     "استثنیات…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ا">
 

@@ -25,7 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.note.after                 " انٹرنیٹ پر۔ آپ کی کمپنی یا انٹرنیٹ سروس مہیا کنندہ آپ کے دیکھے گئے صفحات کی پھر بھی سراغ راہ لگا سکتے ہیں۔">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "کہ بارے میں مزید سیکھیں">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "نجی براوزنگ">
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "سراغ کاری حفاظت">
 <!ENTITY trackingProtection.description2                 "کچھ ویب سائٹس انٹرنیٹ بھر میں اپنی سرگرمیوں کی نگرانی کے لئے  Trackers کا استعمال کر سکتی ہیں۔ ٹریکنگ پروٹیکشن کے ساتھ Firefox بہت سے Trackers کو بلاک کرتا ہے جو کی آپ کی براؤزنگ کے رویے کے بارے میں معلومات جمع کر سکتے ہیں۔">
