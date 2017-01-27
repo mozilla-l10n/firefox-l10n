@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Iɣewwaṛen - isefka n usmel">
-
+<!ENTITY     settings.description          "Ismal-agi web sutren-d ad skelsen isefka deg uḍebṣi-inek.tzemreḍ ad tferneḍ ismal ad tsirgeḍ akken ad skelsen isefka n usmel. isefka n usmel amezwer izmer  ad ttwaksen s udem awurman d wudem askudan.">
 <!ENTITY     hostCol.label                 "Asmel">
 <!ENTITY     statusCol.label               "addad">
 <!ENTITY     usageCol.label                "Aklas">
