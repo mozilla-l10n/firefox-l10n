@@ -83,7 +83,7 @@
 
 <!ENTITY updateTab.label                 "Uppfærslur">
 
-<!ENTITY updateApplication.label         "&brandShortName; uppfærslur:">
+<!ENTITY updateApplication.label         "&brandShortName; uppfærslur">
 <!ENTITY updateAuto1.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">

@@ -28,7 +28,7 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     searchFilter.label             "Leita:">
+<!ENTITY     searchFilter.label             "Leita">
 <!ENTITY     searchFilter.accesskey         "e">
 
 <!ENTITY     button.close.label             "Loka">
