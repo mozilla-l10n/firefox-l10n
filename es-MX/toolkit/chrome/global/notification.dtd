@@ -8,3 +8,5 @@
 
 <!ENTITY learnMore "Aprender más…">
 
+<!ENTITY defaultButton.label "¡Está bien!">
+<!ENTITY defaultButton.accesskey "O">
