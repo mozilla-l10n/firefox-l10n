@@ -10,6 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "Selalu gunakan kursor papan ketik untuk navigasi laman">
 <!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY searchOnStartTyping.label       "Cari teks saat Anda mulai mengetik">
+<!ENTITY blockAutoReload.label           "Peringatkan saya ketika situs mencoba mengalihkan atau memuat ulang laman">
 <!ENTITY useOnScreenKeyboard.label       "Tampilkan papan ketik sentuh saat diperlukan">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
