@@ -13,7 +13,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "啊，您的分頁剛發生錯誤。">
+<!ENTITY tabCrashed.header2 "哎呀，您的分頁發生錯誤了。">
 <!ENTITY tabCrashed.offerHelp "我們可以幫忙！">
 <!ENTITY tabCrashed.single.offerHelpMessage "點擊 &tabCrashed.restoreTab; 重新載入頁面內容。">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "點擊 &tabCrashed.restoreTab; 或 &tabCrashed.restoreAll; 重新載入頁面內容。">
