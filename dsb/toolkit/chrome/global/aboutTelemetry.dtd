@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Zwěsćone štapjele">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalary">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Skoděrowane histogramy">
 
+<!ENTITY aboutTelemetry.eventsSection "  Tšojenja">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jadnore měrjenja">
 
@@ -68,7 +70,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózne pisańske procese">
 
-<!ENTITY aboutTelemetry.sessionInfoSection "Pósejźeńske informacije">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Pósejźeńske informacije">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramy zezběrane pśez dodanki">
 
@@ -84,6 +86,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filter (znamuškowe rjeśazki abo /regexp/)">
 
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Nakładna śěža">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Nakładna śěža">
 
-<!ENTITY aboutTelemetry.rawPayload "Gropne wužywańske daty">
+<!ENTITY aboutTelemetry.rawPayload "  Gropne wužywańske daty">
