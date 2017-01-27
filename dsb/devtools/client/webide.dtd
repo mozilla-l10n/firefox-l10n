@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Simulatorowe nastajenja">
 <!ENTITY simulator_remove "Simulator lašowaś">
 <!ENTITY simulator_reset "Standard wótnowiś">
-
+<!ENTITY simulator_name "Mě">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Wersija">
 <!ENTITY simulator_profile "Analyza běžnego casa">
