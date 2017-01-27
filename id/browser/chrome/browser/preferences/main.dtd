@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Saat memulai &brandShortName;:">
 <!ENTITY startupPage.accesskey     "m">
+<!ENTITY startupUserHomePage.label "Tampilkan beranda Anda">
 <!ENTITY startupBlankPage.label    "Tampilkan laman kosong">
+<!ENTITY startupPrevSession.label  "Tampilkan jendela dan tab dari sesi terakhir Anda">
 
 <!ENTITY homepage.label            "Beranda:">
 <!ENTITY homepage.accesskey        "B">
@@ -26,6 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
+<!ENTITY alwaysAskWhere.label         "Tanyakan selalu tempat menyimpan berkas">
 
 <!ENTITY alwaysCheckDefault2.label        "Selalu periksa apakah &brandShortName; adalah peramban baku Anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
