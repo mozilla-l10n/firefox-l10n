@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "r">
 <!ENTITY openFrameCmd.label           "Åpne ramme i nytt vindu">
 <!ENTITY openFrameCmd.accesskey       "Å">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Åpne lenke i ny innholdsfane">
+<!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis bare denne rammen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Åpne alle i faner">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "p">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
