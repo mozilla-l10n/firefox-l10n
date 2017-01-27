@@ -177,7 +177,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
-<!ENTITY options.screenshot.clipboard.label      "Zadźerženje fota wobrazowki">
+<!ENTITY options.screenshot.clipboard.label      "Foto wobrazowki do mjezyskłada">
 <!ENTITY options.screenshot.clipboard.tooltip    "Składuje foto wobrazowki direktnje do mjazyskłada">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
