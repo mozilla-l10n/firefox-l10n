@@ -16,7 +16,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serveur">
-<!ENTITY serverType.default.label   "Par défaut : serveur Mozilla &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Par défaut : serveur Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Utiliser un serveur personnalisé…">
 <!ENTITY signIn.account2.label      "Compte">
 <!ENTITY signIn.account2.accesskey  "o">
@@ -29,10 +29,10 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Détails du compte">
 <!ENTITY setup.emailAddress.label     "Adresse électronique">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label   "Choisir un mot de passe">
-<!ENTITY setup.choosePassword.accesskey "C">
-<!ENTITY setup.confirmPassword.label  "Confirmer le mot de passe">
-<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.choosePassword.label      "Choisir un mot de passe">
+<!ENTITY setup.choosePassword.accesskey  "C">
+<!ENTITY setup.confirmPassword.label     "Confirmer le mot de passe">
+<!ENTITY setup.confirmPassword.accesskey "m">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -75,13 +75,12 @@
 <!ENTITY existingRecoveryKey.description "Vous pouvez obtenir une copie de votre clé de récupération en vous rendant dans les options de &syncBrand.shortName.label; sur votre autre appareil et en sélectionnant  « Ma clé de récupération » dans « Gestion du compte ».">
 <!ENTITY verifying.label              "Vérification…">
 <!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
-
 <!ENTITY resetSyncKey.label           "Je n’accède plus à mon autre appareil.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Options de synchronisation">
-<!ENTITY syncDeviceName.label         "Nom de l’appareil :">
-<!ENTITY syncDeviceName.accesskey     "N">
+<!ENTITY syncDeviceName.label       "Nom de l’appareil :">
+<!ENTITY syncDeviceName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Synchroniser">
 <!ENTITY engine.bookmarks.label     "les marque-pages">
@@ -104,10 +103,10 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmation">
-<!ENTITY confirm.merge2.label           "&syncBrand.fullName.label; va maintenant fusionner toutes les données du navigateur de cet appareil avec votre compte Sync.">
-<!ENTITY confirm.client3.label          "Attention : les données suivantes de &brandShortName; sur cet appareil seront supprimées :">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; va maintenant fusionner toutes les données du navigateur de cet appareil avec votre compte Sync.">
+<!ENTITY confirm.client3.label         "Attention : les données suivantes de &brandShortName; sur cet appareil seront supprimées :">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; copiera ensuite vos données &syncBrand.fullName.label; sur cet appareil.">
-<!ENTITY confirm.server2.label          "Attention : les données des appareils suivants seront remplacées par vos données locales :">
+<!ENTITY confirm.server2.label         "Attention : les données des appareils suivants seront remplacées par vos données locales :">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configuration terminée">

@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage    "Une erreur s’est produite lors de l’ouverture de la boîte à outils du navigateur :">
+<!ENTITY browserToolboxErrorMessage          "Une erreur s’est produite lors de l’ouverture de la boîte à outils du navigateur :">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -95,8 +95,8 @@
 <!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l’onglet courant. Ce paramètre sera oublié à la fermeture de l’onglet ou de la boîte à outils.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the cache on or off. -->
+  -  options.disableHTTPCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Désactiver le cache HTTP (lorsque la boîte à outils est ouverte)">
 <!ENTITY options.disableHTTPCache.tooltip   "Activer cette option désactivera le cache HTTP pour l’ensemble des onglets dans lesquels la boîte à outils est ouverte. Cette option n’a aucun effet sur les service workers.">
 
@@ -109,9 +109,9 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2     "Outils de développement par défaut">
+<!ENTITY options.selectDefaultTools.label2    "Outils de développement par défaut">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
@@ -127,7 +127,7 @@
   -  for the target of the toolbox. -->
 <!ENTITY options.toolNotSupported.label  "* Non géré pour la cible actuelle de la boîte à outils">
 
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme2.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 <!ENTITY options.selectDevToolsTheme.label2   "Thèmes">
@@ -185,9 +185,9 @@
 <!ENTITY options.screenshot.audio.label      "Jouer un son d’obturateur d’appareil photo">
 <!ENTITY options.screenshot.audio.tooltip    "Activer le son d’un obturateur d’appareil photo lors de la capture d’écran">
 
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
-  -  of all preferences that affect both the Web Console and the Network
-  -  Monitor -->
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
 <!ENTITY options.commonPrefs.label           "Préférences générales">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the

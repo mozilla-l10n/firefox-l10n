@@ -147,7 +147,6 @@
 </ul>
 ">
 
-
 <!ENTITY certerror.longpagetitle1 "La connexion n’est pas sécurisée">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -168,10 +167,11 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
-<!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
-
 <!ENTITY corruptedContentErrorv2.title "Erreur due à un contenu corrompu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
 
 <!ENTITY errorReporting.automatic2 "Signaler les erreurs similaires pour aider Mozilla à identifier et bloquer les sites malveillants">
 <!ENTITY errorReporting.learnMore "En savoir plus…">

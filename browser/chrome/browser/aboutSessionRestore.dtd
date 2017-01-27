@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Restauration de session">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Hum, c’est embarrassant.">
@@ -20,6 +21,7 @@
 <!ENTITY restorepage.listHeader     "Fenêtres et onglets">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Fenêtre &#37;S">
+
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
@@ -46,3 +48,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "en apprendre davantage sur les autres possibilités.">
+

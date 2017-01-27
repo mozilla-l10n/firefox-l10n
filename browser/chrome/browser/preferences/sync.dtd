@@ -19,10 +19,10 @@
 <!ENTITY changePassword2.label        "Modifier le mot de passe…">
 <!ENTITY myRecoveryKey.label          "Ma clé de récupération">
 <!ENTITY resetSync2.label             "Réinitialiser la synchronisation…">
+
 <!ENTITY pairDevice.label             "Associer un appareil">
 
 <!ENTITY syncMy.label               "Synchroniser">
-<!-- Fixing bug 1108402 -->
 <!ENTITY engine.bookmarks.label     "Marque-pages">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "Onglets ouverts">
@@ -37,9 +37,9 @@
 <!ENTITY engine.addons.accesskey    "u">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label         "Nom de l’appareil :">
-<!ENTITY fxaSyncDeviceName.label      "Nom de l’appareil">
-<!ENTITY changeSyncDeviceName.label   "Changer le nom de l’appareil…">
+<!ENTITY syncDeviceName.label       "Nom de l’appareil :">
+<!ENTITY fxaSyncDeviceName.label       "Nom de l’appareil">
+<!ENTITY changeSyncDeviceName.label "Changer le nom de l’appareil…">
 <!ENTITY changeSyncDeviceName.accesskey "c">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuler">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
@@ -53,10 +53,21 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Politique de confidentialité">
-<!ENTITY determiningAcctStatus.label "Vérification de l’état de votre compte…">
+<!ENTITY determiningAcctStatus.label     "Vérification de l’état de votre compte…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "n’est pas vérifié.">
 
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.beforename.label "Veuillez vous identifier pour vous reconnecter">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -76,6 +87,7 @@
 <!ENTITY welcome.description "Accédez à vos onglets, marque-pages, mots de passe et bien plus, quel que soit l’appareil sur lequel vous utilisez &brandShortName;.">
 <!ENTITY welcome.signIn.label "Se connecter">
 <!ENTITY welcome.createAccount.label "Créer un compte">
+
 <!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
 
 <!ENTITY signedOut.caption            "Emportez votre Web partout avec vous">
@@ -88,6 +100,10 @@
 
 <!ENTITY signedIn.engines.label       "Données à synchroniser entre tous vos appareils">
 
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
 
 <!ENTITY mobilePromo3.start            "Téléchargez Firefox pour ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

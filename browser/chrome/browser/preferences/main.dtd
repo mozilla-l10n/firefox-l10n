@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Choisir…">
 <!ENTITY chooseFolderMac.accesskey    "C">
-<!ENTITY alwaysAskWhere.label "Toujours demander où enregistrer les fichiers">
-<!ENTITY alwaysAskWhere.accesskey "T">
+<!ENTITY alwaysAskWhere.label         "Toujours demander où enregistrer les fichiers">
+<!ENTITY alwaysAskWhere.accesskey     "T">
 
 <!ENTITY alwaysCheckDefault2.label        "Toujours vérifier que &brandShortName; est votre navigateur par défaut">
 <!ENTITY alwaysCheckDefault2.accesskey    "v">
