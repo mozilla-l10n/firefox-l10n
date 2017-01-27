@@ -186,12 +186,12 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
-<!ENTITY options.screenshot.label            "Indstillinger for skærmskud">
+<!ENTITY options.screenshot.label            "Indstillinger for skærmbilleder">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Skærmskud til udklipsholder">
-<!ENTITY options.screenshot.clipboard.tooltip    "Gemmer skærmskud direkte til udklipsholderen">
+<!ENTITY options.screenshot.clipboard.label      "Skærmbillede til udklipsholder">
+<!ENTITY options.screenshot.clipboard.tooltip    "Gemmer skærmbillede direkte til udklipsholderen">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
