@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Dalšne informacije…">
 
-
+<!ENTITY defaultButton.label "W pórěźe!">
+<!ENTITY defaultButton.accesskey "r">
