@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "అన్ని పొడిగింతలు కొరకు సాధనములు">
 
+<!ENTITY getThemes.description                "మీ బ్రౌజర్ వ్యక్తిగతీకరించాలా?">
 <!ENTITY getThemes.learnMore                  "వేలాది అలంకారాల నుండి ఎంచుకోండి.">
 
 <!ENTITY cmd.back.tooltip                     "ఒక పేజీ వెనుకకు వెళ్ళు">
