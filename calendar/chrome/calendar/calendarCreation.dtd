@@ -7,8 +7,8 @@
 <!ENTITY wizard.description       "Choisissez l’emplacement de votre agenda" >
 
 <!ENTITY initialpage.description    "Votre agenda peut être stocké sur votre ordinateur ou sur un serveur afin d’y accéder à distance ou de le partager avec vos amis ou vos collègues de travail." >
-<!ENTITY initialpage.computer.label "Sur mon ordinateur" >
-<!ENTITY initialpage.network.label  "Sur le réseau" >
+<!ENTITY initialpage.computer.label  "Sur mon ordinateur">
+<!ENTITY initialpage.network.label  "Sur le réseau">
 
 <!ENTITY locationpage.description         "Fournit les informations nécessaires pour accéder à votre agenda distant" >
 <!ENTITY locationpage.login.description   "Optionnel : saisissez un nom d’utilisateur et un mot de passe" >

@@ -33,15 +33,14 @@
 <!ENTITY lightning.toolbar.newtask.tooltip    "Créer une nouvelle tâche">
 
 <!-- Calendar and Task Mode Toolbar -->
-<!ENTITY lightning.toolbar.day.label "Journée">
-<!ENTITY lightning.toolbar.day.accesskey "J">
-<!ENTITY lightning.toolbar.week.label "Semaine">
-<!ENTITY lightning.toolbar.week.accesskey "S">
-<!ENTITY lightning.toolbar.multiweek.label "Multisemaine">
-<!ENTITY lightning.toolbar.multiweek.accesskey "a">
-<!ENTITY lightning.toolbar.month.label "Mois">
-<!ENTITY lightning.toolbar.month.accesskey "M">
-
+<!ENTITY lightning.toolbar.day.label                 "Journée">
+<!ENTITY lightning.toolbar.day.accesskey             "J">
+<!ENTITY lightning.toolbar.week.label                "Semaine">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Multisemaine">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "a">
+<!ENTITY lightning.toolbar.month.label               "Mois">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu de l’application">

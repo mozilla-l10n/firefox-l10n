@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-
 <!ENTITY event.new.event                        "Nouvel évènement…">
 <!ENTITY event.new.event.accesskey              "N">
 
@@ -14,7 +13,7 @@
 <!ENTITY calendar.import.accesskey              "i">
 
 <!ENTITY calendar.export.label                  "Exporter l’agenda…">
-<!ENTITY calendar.export.accesskey               "x">
+<!ENTITY calendar.export.accesskey              "x">
 
 <!ENTITY calendar.publish.label                 "Publier…">
 <!ENTITY calendar.publish.accesskey             "P">
@@ -29,6 +28,7 @@
       data and unsubscribing means just taking it out of the calendar list. -->
 <!ENTITY calendar.removecalendar.label          "Retirer l’agenda sélectionné…">
 <!ENTITY calendar.removecalendar.accesskey      "R">
+
 
 <!ENTITY calendar.menu.customize.label          "Personnaliser…">
 <!ENTITY calendar.menu.customize.accesskey      "l">
