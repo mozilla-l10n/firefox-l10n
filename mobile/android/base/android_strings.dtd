@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Už sa nachádza medzi záložkami">
 <!ENTITY overlay_share_send_other "Odoslať do iných zariadení">
 
+<!ENTITY overlay_share_open_browser_btn_label "Otvoriť v aplikácii &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Zobrazovať históriu vyhľadávania">
 <!ENTITY pref_import_options "Možnosti importu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
+<!ENTITY pref_private_data_openTabs "Otvorené karty">
 <!ENTITY pref_private_data_history2 "História prehliadania">
 <!ENTITY pref_private_data_searchHistory "História vyhľadávania">
 <!ENTITY pref_private_data_formdata2 "Údaje zadané do formulárov">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Kompaktné karty">
+<!ENTITY pref_compact_tabs_summary2 "Usporiadať karty pri zobrazení na výšku do dvoch stĺpcov">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Ťuknutím sem aktualizáciu po prevzatí nainštalujete">
 <!ENTITY updater_downloading_retry2 "Ťuknutím sem to skúste znova">
 
+<!ENTITY updater_apply_title3 "Aktualizácia pre aplikáciu &brandShortName; bola prevzatá">
+<!ENTITY updater_apply_select3 "Ťuknutím sem ju nainštalujete">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
