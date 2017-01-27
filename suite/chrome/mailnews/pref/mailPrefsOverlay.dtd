@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- These are added to the Advanced - Scripts & Plug-ins panel -->
+<!-- These are added to the Advanced - Scripts & Plugins panel -->
 <!ENTITY enbPluginCheckMailNews.label     "le Courrier et les Groupes">
 <!ENTITY enbPluginCheckMailNews.accesskey "G">
 
@@ -15,11 +15,11 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Affichage des messages">
 <!ENTITY notifications.label              "Avertissements">
-<!ENTITY address.label                    "Adressage">
 <!ENTITY composingMessages.label          "Rédaction des messages">
 <!ENTITY format.label                     "Format d’expédition">
-<!ENTITY return.label                     "Accusés de réception">
+<!ENTITY address.label                    "Adressage">
 <!ENTITY junk.label                       "Indésirables et suspects">
 <!ENTITY tags.label                       "Étiquettes">
+<!ENTITY return.label                     "Accusés de réception">
 <!ENTITY characterEncoding2.label         "Encodage du texte">
 <!ENTITY networkStorage.label             "Réseau et stockage">

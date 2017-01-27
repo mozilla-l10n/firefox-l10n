@@ -5,5 +5,4 @@
 <!ENTITY search.button.label      "Rechercher">
 <!ENTITY search.placeholder       "Saisissez les termes de recherche">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY search.engineManager.label "Gérer les moteurs de recherche…">

@@ -98,6 +98,14 @@
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey      "C">
+<!ENTITY mediaPlay.label              "Lire">
+<!ENTITY mediaPlay.accesskey          "L">
+<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Muet">
+<!ENTITY mediaMute.accesskey          "u">
+<!ENTITY mediaUnmute.label            "Audible">
+<!ENTITY mediaUnmute.accesskey        "A">
 <!ENTITY mediaPlaybackRate.label        "Vitesse de lecture">
 <!ENTITY mediaPlaybackRate.accesskey    "V">
 <!ENTITY mediaPlaybackRate050.label     "Vitesse lente (×0,5)">
@@ -111,14 +119,6 @@
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label              "Lire">
-<!ENTITY mediaPlay.accesskey          "L">
-<!ENTITY mediaPause.label             "Pause">
-<!ENTITY mediaPause.accesskey         "P">
-<!ENTITY mediaMute.label              "Muet">
-<!ENTITY mediaMute.accesskey          "u">
-<!ENTITY mediaUnmute.label            "Audible">
-<!ENTITY mediaUnmute.accesskey        "A">
 <!ENTITY mediaShowControls.label      "Afficher les contrôles">
 <!ENTITY mediaShowControls.accesskey  "c">
 <!ENTITY mediaHideControls.label      "Masquer les contrôles">

@@ -34,7 +34,7 @@
 <!ENTITY  generalEncoding2      "Encodage du texte :">
 <!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contenu">
-<!ENTITY  generalSecurityDetails "Détails">
+<!ENTITY  generalSecurityDetails           "Détails">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulaires">

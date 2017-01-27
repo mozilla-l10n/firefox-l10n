@@ -27,4 +27,4 @@
 <!ENTITY folderPickerPrefix.label "Exécuter le(s) filtre(s) sélectionné(s) sur :">
 <!ENTITY folderPickerPrefix.accesskey "l">
 <!ENTITY choosethis.label "choisir ce dossier">
-<!ENTITY choosethisnewsserver.label  "choisir ce serveur de groupes">
+<!ENTITY choosethisnewsserver.label "choisir ce serveur de groupes">

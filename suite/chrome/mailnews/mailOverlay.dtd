@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  newMessageCmd.key "M">
-<!ENTITY  newMessageCmd.label "Message">
-<!ENTITY  newMessageCmd.accesskey "M">
-
-<!ENTITY  newContactCmd.label "Contact…">
-<!ENTITY  newContactCmd.accesskey "o">
-
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Message">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newContactCmd.label             "Contact…">
+<!ENTITY  newContactCmd.accesskey         "o">
+ 
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY printButton.tooltip "Imprimer ce message">

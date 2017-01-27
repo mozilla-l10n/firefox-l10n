@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
 <!ENTITY tabs.otherComputers.label               "Onglets d’autres ordinateurs">
 
 <!ENTITY tabs.searchText.label                   "Rechercher des onglets…">

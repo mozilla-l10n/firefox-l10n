@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultClient.title "Client par défaut">
-<!ENTITY defaultClient.intro "Utiliser &brandShortName; comme client par défaut pour :">
+<!ENTITY defaultClient.title  "Client par défaut">
+<!ENTITY defaultClient.intro  "Utiliser &brandShortName; comme client par défaut pour :">
 
 <!ENTITY browser.label "la navigation">
 <!ENTITY email.label "le courrier électronique">

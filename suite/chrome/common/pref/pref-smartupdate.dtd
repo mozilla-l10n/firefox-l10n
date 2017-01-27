@@ -27,6 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "m">
 <!ENTITY appModeAutomatic.label               "Télécharger et installer automatiquement la mise à jour">
 <!ENTITY appModeAutomatic.accesskey           "u">
-
 <!ENTITY updateHistoryButton.label            "Afficher l’historique des mises à jour…">
 <!ENTITY updateHistoryButton.accesskey        "h">

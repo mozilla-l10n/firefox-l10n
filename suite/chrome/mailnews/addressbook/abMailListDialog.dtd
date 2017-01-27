@@ -3,18 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title "Liste de diffusion">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label "Ajouter à :">
+<!ENTITY mailListWindow.title           "Liste de diffusion">
 
-<!ENTITY ListName.label "Nom de la liste :">
-<!ENTITY ListNickName.label "Pseudo de la liste :">
-<!ENTITY ListDescription.label "Description :">
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Ajouter à :">
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.label                 "Nom de la liste :">
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.label             "Pseudo de la liste :">
+<!ENTITY ListNickName.accesskey         "P">
+<!ENTITY ListDescription.label          "Description :">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Saisissez les adresses à ajouter à la liste de diffusion :">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "P">
-<!ENTITY ListDescription.accesskey "e">
+<!ENTITY AddressTitle.label             "Saisissez les adresses à ajouter à la liste de diffusion :">

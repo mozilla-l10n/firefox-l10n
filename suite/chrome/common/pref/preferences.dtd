@@ -5,18 +5,23 @@
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Préférences">
 <!ENTITY categoryHeader "Catégorie">
+
 <!ENTITY appear.label "Apparence">
 <!ENTITY content.label "Contenu">
 <!ENTITY fonts.label "Polices de caractères">
 <!ENTITY colors.label "Couleurs">
-<!--LOCALIZATION NOTE (navigator.label): DONT_TRANSLATE -->
+<!ENTITY spellingPane.label "Orthographe">
+
 <!ENTITY navigator.label "Navigateur">
 <!ENTITY history.label "Historique">
 <!ENTITY languages.label "Langues">
 <!ENTITY applications.label "Applications">
 <!ENTITY locationBar.label "Barre d’adresse">
+<!ENTITY search.label "Recherche sur Internet">
 <!ENTITY tabWindows.label "Onglets">
 <!ENTITY links.label "Liens">
+<!ENTITY download.label "Téléchargement">
+
 <!ENTITY security.label "Confidentialité et sécurité">
 <!ENTITY privatedata.label "Vie privée">
 <!ENTITY cookies.label "Cookies">
@@ -26,19 +31,18 @@
 <!ENTITY masterpass.label "Mots de passe principaux">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificats">
+
 <!ENTITY sync.label "Sync">
+
 <!ENTITY advance.label "Avancé">
+<!ENTITY scriptsAndWindows.label "Scripts et plugins">
+<!ENTITY keynav.label "Navigation au clavier">
+<!ENTITY findAsYouType.label "Recherche à la saisie">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Applications hors connexion">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Protocole HTTP">
 <!ENTITY smart.label "Install. de logiciels">
-<!ENTITY download.label "Téléchargement">
-<!ENTITY keynav.label "Navigation au clavier">
-<!ENTITY findAsYouType.label "Recherche à la saisie">
-<!ENTITY search.label "Recherche sur Internet">
 <!ENTITY mousewheel.label "Souris">
-<!ENTITY scriptsAndWindows.label "Scripts et plugins">
-<!ENTITY spellingPane.label  "Orthographe">
 
 <!ENTITY focusSearch.key "f">

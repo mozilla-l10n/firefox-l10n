@@ -13,7 +13,7 @@
 <!ENTITY tabmailCloseButton.tooltip "Fermer l’onglet courant">
 <!ENTITY tabmailAllTabs.tooltip "Lister tous les onglets">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "Nouveau message">
@@ -29,9 +29,9 @@
 <!ENTITY closeTabCmd.accesskey "F">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "C">
-<!ENTITY openMessageFileCmd.label           "Ouvrir un fichier…">
+<!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label            "Pièces jointes">
+<!ENTITY openAttachmentCmd.label "Pièces jointes">
 <!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Enregistrer comme">
 <!ENTITY saveAsMenu.accesskey "s">
@@ -58,10 +58,10 @@
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compacter les dossiers">
-<!ENTITY compactFolders.accesskey "C">
+<!ENTITY compactFolders.accesskey		"C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
-<!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label                  "Hors connexion">
+<!ENTITY emptyTrashCmd.accesskey		"V">
+<!ENTITY offlineMenu.label "Hors connexion">
 <!ENTITY offlineMenu.accesskey "x">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
@@ -69,13 +69,13 @@
 <!ENTITY settingsOfflineCmd.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "c">
-<!ENTITY downloadFlaggedCmd.label           "Relever les messages suivis">
+<!ENTITY downloadFlaggedCmd.label "Relever les messages suivis">
 <!ENTITY downloadFlaggedCmd.accesskey "v">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
 <!ENTITY deleteMsgCmd.accesskey "e">
-<!ENTITY undeleteMsgCmd.label               "Restaurer le message">
+<!ENTITY undeleteMsgCmd.label "Restaurer le message">
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Annuler le message">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
@@ -92,13 +92,13 @@
 <!ENTITY selectThreadCmd.label "Discussion">
 <!ENTITY selectThreadCmd.accesskey "D">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label             "Messages suivis">
-<!ENTITY selectFlaggedCmd.accesskey         "u">
+<!ENTITY selectFlaggedCmd.label "Messages suivis">
+<!ENTITY selectFlaggedCmd.accesskey "u">
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
 <!ENTITY folderPropsCmd.accesskey "é">
-<!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
+<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l’effacement">
 <!ENTITY redoDeleteMsgCmd.label "Restaurer le message effacé">
@@ -196,6 +196,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "S">
 <!ENTITY ignoredThreadsCmd.label "Ignorées">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "En-têtes">
 <!ENTITY headersMenu.accesskey "E">
 <!ENTITY headersAllCmd.label "Complets">
@@ -283,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replyListCmd.label "Répondre à la liste">
 <!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Répondre dans le groupe">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd.accesskey	"g">
 <!ENTITY replySenderCmd.label "Répondre à l’exp. seulement">
 <!ENTITY replySenderCmd.accesskey "x">
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
-<!ENTITY replyToAllMsgCmd.accesskey "t">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey	"t">
+<!ENTITY replyToAllMsgCmd.key	"r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Répondre à l’exp. et dans le groupe">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Répondre à tous les destinataires">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Transférer">
 <!ENTITY forwardMsgCmd.accesskey "s">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Transférer au format">
 <!ENTITY forwardAsMenu.accesskey "u">
 <!ENTITY forwardAsInline.label "Intégré">
@@ -373,12 +374,11 @@
 <!ENTITY openFeedWebPageInMP.label "Basculer entre page web et résumé dans le panneau de message">
 <!ENTITY openFeedWebPageInMP.accesskey "B">
 
-
-<!--  Tools Menu -->
+<!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Rechercher dans le courrier…">
 <!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "s">
-<!ENTITY searchAddressesCmd.label           "Rechercher dans les adresses…">
+<!ENTITY searchAddressesCmd.label "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 <!ENTITY filtersCmd.label "Filtres de messages…">
 <!ENTITY filtersCmd.accesskey "F">
@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "M">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Chargé">
+<!ENTITY statusText.label "Chargé">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">
@@ -461,22 +461,22 @@
 <!ENTITY contextOpenNewTab.accesskey "O">
 <!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Archiver">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Répondre à l’expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyList.label "Répondre à la liste">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l’exp. et dans le groupe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
-<!ENTITY contextReplyList.label "Répondre à la liste">
-<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Transférer comme pièce jointe">
 <!ENTITY contextForwardAsAttachment.accesskey "j">
+<!ENTITY contextArchive.label "Archiver">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Déplacer vers">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextCopyMsgMenu.label "Copier vers">

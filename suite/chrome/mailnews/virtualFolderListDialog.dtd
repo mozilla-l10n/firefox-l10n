@@ -4,5 +4,7 @@
 
 <!ENTITY server.label "Compte : ">
 <!ENTITY server.accesskey "m">
-<!ENTITY virtualFolderListTitle.title "Sélectionner le(s) dossier(s)">
-<!ENTITY virtualFolderDesc.label "Sélectionner les dossiers dans lesquels chercher :">
+<!ENTITY virtualFolderListTitle.title        "Sélectionner le(s) dossier(s)">
+<!ENTITY virtualFolderDesc.label       "Sélectionner les dossiers dans lesquels chercher :">
+
+

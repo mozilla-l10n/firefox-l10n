@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Saisissez le nom que vous souhaitez afficher dans le champ « De : » pour les messages que vous envoyez">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(par exemple, « Jules César »).">
 <!ENTITY fullnameLabel.label "Votre nom :">
@@ -40,7 +40,6 @@
 
 <!ENTITY incomingTitle.label "Informations sur le serveur entrant">
 <!ENTITY incomingServerTypeDesc.label "Sélectionnez le type du serveur de réception.">
-
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -55,10 +54,8 @@
 <!ENTITY incomingServer.description "Saisissez le nom de votre serveur de réception (par exemple, « mail.example.net »).">
 <!ENTITY incomingServer.label "Serveur de réception :">
 <!ENTITY incomingServer.accesskey "S">
-
 <!ENTITY leaveMsgsOnSrvr.label "Laisser les messages sur le serveur">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Saisissez le nom d’utilisateur pour le serveur de réception donné par votre fournisseur (par exemple, « jcesar »).">
 <!ENTITY incomingUsername.label "Nom d’utilisateur du serveur de réception :">
@@ -86,20 +83,19 @@
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
- -->
+-->
 <!ENTITY haveSmtp1.prefix "Votre serveur actuel de courrier sortant (SMTP), « ">
 <!ENTITY haveSmtp1.suffix3 " », sera utilisé.">
-
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
- -->
+-->
 <!ENTITY haveSmtp2.prefix "Votre nom d’utilisateur sortant actuel (SMTP), « ">
 <!ENTITY haveSmtp2.suffix3 " », sera utilisé.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
- -->
+-->
 <!ENTITY haveSmtp3.prefix "Votre serveur d’envoi de messages (SMTP) « ">
 <!ENTITY haveSmtp3.suffix3 " », est identique à votre serveur entrant. Votre nom d’utilisateur entrant sera utilisé pour la connexion à ce serveur.">
 
