@@ -59,8 +59,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "سائٹ کے کوائف">
-
-
+<!ENTITY clearSiteData.label             "تمام کوائف صاف کریں">
+<!ENTITY clearSiteData.accesskey         "ف">
 <!ENTITY siteDataSettings.label          "سیٹنگیں…">
 <!ENTITY siteDataSettings.accesskey      "ن">
 <!ENTITY siteDataLearnMoreLink.label     "مزید سیکھیں…">
