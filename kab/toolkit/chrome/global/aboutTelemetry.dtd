@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Asewḥel n tinelli n uselken">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Afesnan">
 
