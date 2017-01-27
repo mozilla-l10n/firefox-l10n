@@ -25,7 +25,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Akses terhadap berkas ditolak">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas. </li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>">
@@ -124,7 +127,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengorek informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengungkapkan informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki server terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Anda ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">

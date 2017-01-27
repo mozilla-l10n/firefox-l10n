@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Apakah objek telah diganti namanya, dibuang, atau dipindahkan?</li><li>Apa tidak ada kesalahan ejaan, huruf besar, atau <em>kesaalhan keitk</em> lainnya pada penulisan alamat?</li><li>Apakah Anda memiliki hak akses untuk mengakses objek yang diminta?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Akses terhadap berkas ditolak">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Ini mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.</li></ul>">
 
 <!ENTITY generic.title "Tidak Dapat Menyelesaikan Permintaan">
 <!ENTITY generic.longDesc "<p>Informasi lanjut tentang masalah atau kesalahan tidak tersedia saat ini.</p>">
@@ -85,4 +85,4 @@
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang kedaluarsa dan rentan terhadap serangan. Penyerang bisa dengan mudah mengungkapkan informasi yang Anda pikir aman. Admin situs perlu memperbaiki server lebih dulu sebelum Anda bisa mengunjunginya lagi.</p><p>Kode kesalahan: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengungkapkan informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki server terlebih dahulu sebelum Anda dapat mengunjungi situsnya.</p><p>Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
