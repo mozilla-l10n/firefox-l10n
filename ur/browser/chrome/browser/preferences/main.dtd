@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ا">
 <!ENTITY chooseFolderMac.label        "انتخاب کریں…">
 <!ENTITY chooseFolderMac.accesskey    "ا">
-
-
+<!ENTITY alwaysAskWhere.label         "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
+<!ENTITY alwaysAskWhere.accesskey     "ہ">
 
 <!ENTITY alwaysCheckDefault2.label        "ہمیشہ جانچ پڑتال کریں کہ &brandShortName; آپ کا پہلے سے طے شدہ براؤزر ہے">
 <!ENTITY alwaysCheckDefault2.accesskey    "ی">

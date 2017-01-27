@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "عمومی">
 
-
+<!ENTITY  warnOnAddonInstall.label        "مجھے متنبہ کریں جب کوئی سائٹ اضافہ جات کی تنصیب کرنے کی کوشش کرے">
+<!ENTITY  warnOnAddonInstall.accesskey    "م">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "خطرناک ڈاؤن لوڈز کو بلاک کریں">
 <!ENTITY  blockDownloads.accesskey        "خ">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "غیر عمومی سافٹ ویئر کے متعلق مجھیں خبردار کریں">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "و">
 
 <!ENTITY  addonExceptions.label         "استثنیات…">
 <!ENTITY  addonExceptions.accesskey     "ا">
