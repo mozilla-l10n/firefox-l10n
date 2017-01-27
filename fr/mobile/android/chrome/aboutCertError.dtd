@@ -10,7 +10,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle "Connexion non certifiée">
+<!ENTITY certerror.pagetitle  "Connexion non certifiée">
 <!ENTITY certerror.longpagetitle "Cette connexion n’est pas certifiée">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
