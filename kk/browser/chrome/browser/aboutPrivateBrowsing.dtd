@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Жекелік шолу ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "сізді интернет желісінде анонимды">
 <!ENTITY aboutPrivateBrowsing.note.after                 " етпейді. Жұмыс берушіңіз немесе интернет провайдеріңіз сонда да сіз қараған беттер тарихын біле алады.">
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Ол туралы көбірек білу">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Жекелік шолу">
 
 
 <!ENTITY trackingProtection.title                        "Бақылаудан қорғаныс">
