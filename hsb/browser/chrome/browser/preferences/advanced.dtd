@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Přeco kursorowe tasty za pohibowanje na stronach wužiwać">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Při pisanju tekst pytać">
+<!ENTITY searchOnStartTyping.accesskey   "P">
+<!ENTITY blockAutoReload.label           "Warnować, hdyž websydła pospytuja stronu dale posrědkować abo znowa začitać">
+<!ENTITY blockAutoReload.accesskey       "W">
 <!ENTITY useOnScreenKeyboard.label       "Dótknjensku tastaturu pokazać, jeli trěbne">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "h">
 <!ENTITY allowHWAccel.label              "Hardwarowe pospěšenje wužiwać, jeli k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
-
-
+<!ENTITY checkUserSpelling.label         "Při pisanju prawopis kontrolować">
+<!ENTITY checkUserSpelling.accesskey     "P">
 
 <!ENTITY dataChoicesTab.label            "Datowy wuběr">
 
@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Spadowe rozprawy pomhaja &vendorShortName;, problemy rozrisać a waš wohladowak stabilniši a wěsćiši činić">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "b">
 <!ENTITY crashReporterLearnMore.label     "Dalše informacije">
 
 <!ENTITY networkTab.label                "Syć">
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Webwobsah a wužiwarske daty offline">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Sydłowe daty">
+<!ENTITY clearSiteData.label             "Wšě daty zhašeć">
+<!ENTITY clearSiteData.accesskey         "h">
+<!ENTITY siteDataSettings.label          "Nastajenja…">
+<!ENTITY siteDataSettings.accesskey      "N">
+<!ENTITY siteDataLearnMoreLink.label     "Dalše informacije">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Aktualizować">
 
+<!ENTITY updateApplication.label         "Aktualizacije &brandShortName;">
 <!ENTITY updateAuto1.label               "Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "Za aktualizacijemi pytać, ale prjedy so prašeć, hač maja so instalować">
+<!ENTITY updateCheckChoose.accesskey     "Z">
 <!ENTITY updateManual.label              "Ženje za aktualizacijemi njepytać (njeporuča so: wěstotne riziko)">
 <!ENTITY updateManual.accesskey          "e">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Pozadkowu słužbu za instalowanje aktualizacijow wužiwać">
 <!ENTITY useService.accesskey            "P">
 
+<!ENTITY autoUpdateOthers.label          "Awtomatisce aktualizować">
 <!ENTITY enableSearchUpdate.label        "Pytawy">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 
-
+<!ENTITY offlineStorageNotify.label               "Informować, hdyž websydło chce daty za wužiwanje offline składować">
+<!ENTITY offlineStorageNotify.accesskey           "I">
 <!ENTITY offlineStorageNotifyExceptions.label     "Wuwzaća…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "u">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Certifikaty">
 <!ENTITY certPersonal.label              "Naprašowanja">
-
+<!ENTITY certPersonal.description        "Hdyž sej serwer waš wosobinski certifikat žada:">
 <!ENTITY selectCerts.auto                "Awtomatisce wubrać">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "s">
+<!ENTITY selectCerts.ask                 "Kóždy raz so prašeć">
+<!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło">
 <!ENTITY enableOCSP.accesskey            "P">
 <!ENTITY viewCerts.label                 "Certifikaty pokazać">
