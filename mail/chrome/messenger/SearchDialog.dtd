@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Rechercher des messages dans :">
+<!ENTITY searchHeading.label         "Rechercher des messages dans :">
 <!ENTITY searchHeading.accesskey     "d">
 <!ENTITY searchSubfolders.label      "Rechercher dans les sous-dossiers">
 <!ENTITY searchSubfolders.accesskey  "s">
@@ -19,7 +19,7 @@
 <!ENTITY results.label               "Résultats">
 <!ENTITY moveButton.label            "Classer">
 <!ENTITY moveButton.accesskey        "l">
-<!ENTITY closeCmd.key                "W">
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Ouvrir dans le dossier">
 <!ENTITY openInFolder.accesskey      "l">
 <!ENTITY saveAsVFButton.label        "Enregistrer comme dossier virtuel">
@@ -59,7 +59,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
-<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion"> 
+<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion">
 <!ENTITY fromColumn2.tooltip "Trier par expéditeur">
 <!ENTITY recipientColumn2.tooltip "Trier par destinataire">
 <!ENTITY correspondentColumn2.tooltip "Trier par correspondants">

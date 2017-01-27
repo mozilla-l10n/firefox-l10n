@@ -9,33 +9,34 @@
 <!ENTITY itemCertificates.label  "Certificats">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label "Activer la recherche et l’indexation globales">
-<!ENTITY enableGlodaSearch.accesskey "c">
-<!ENTITY allowHWAccel.label "Utiliser l’accélération graphique matérielle si disponible">
-<!ENTITY allowHWAccel.accesskey "i">
-<!ENTITY storeType.label "Type de stockage des messages pour les nouveaux comptes :">
-<!ENTITY storeType.accesskey "k">
-<!ENTITY mboxStore2.label "Un fichier par dossier (mbox)">
-<!ENTITY maildirStore.label "Un fichier par message (maildir)">
+<!ENTITY enableGlodaSearch.label       "Activer la recherche et l’indexation globales">
+<!ENTITY enableGlodaSearch.accesskey   "c">
+<!ENTITY allowHWAccel.label            "Utiliser l’accélération graphique matérielle si disponible">
+<!ENTITY allowHWAccel.accesskey        "i">
+<!ENTITY storeType.label               "Type de stockage des messages pour les nouveaux comptes :">
+<!ENTITY storeType.accesskey           "k">
+<!ENTITY mboxStore2.label              "Un fichier par dossier (mbox)">
+<!ENTITY maildirStore.label            "Un fichier par message (maildir)">
 
-<!ENTITY scrolling.label "Défilement">
-<!ENTITY useAutoScroll.label "Automatique">
-<!ENTITY useAutoScroll.accesskey "u">
-<!ENTITY useSmoothScrolling.label "Doux">
-<!ENTITY useSmoothScrolling.accesskey "o">
-<!ENTITY systemIntegration.label "Intégration système">
-<!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
-<!ENTITY alwaysCheckDefault.accesskey "T">
-<!ENTITY searchIntegration.label "Autoriser &searchIntegration.engineName; à rechercher dans les messages">
-<!ENTITY searchIntegration.accesskey "A">
+<!ENTITY scrolling.label               "Défilement">
+<!ENTITY useAutoScroll.label           "Automatique">
+<!ENTITY useAutoScroll.accesskey       "u">
+<!ENTITY useSmoothScrolling.label      "Doux">
+<!ENTITY useSmoothScrolling.accesskey  "o">
+
+<!ENTITY systemIntegration.label       "Intégration système">
+<!ENTITY alwaysCheckDefault.label      "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
+<!ENTITY alwaysCheckDefault.accesskey  "T">
+<!ENTITY searchIntegration.label       "Autoriser &searchIntegration.engineName; à rechercher dans les messages">
+<!ENTITY searchIntegration.accesskey   "A">
 <!ENTITY checkDefaultsNow.label        "Vérifier maintenant…">
 <!ENTITY checkDefaultsNow.accesskey    "V">
-<!ENTITY configEditDesc.label "Configuration avancée">
-<!ENTITY configEdit.label "Éditeur de configuration…">
-<!ENTITY configEdit.accesskey "d">
-<!ENTITY returnReceiptsInfo.label "Gestion des accusés de réception dans &brandShortName;">
-<!ENTITY showReturnReceipts.label "Accusés de réception…">
-<!ENTITY showReturnReceipts.accesskey "A">
+<!ENTITY configEditDesc.label          "Configuration avancée">
+<!ENTITY configEdit.label              "Éditeur de configuration…">
+<!ENTITY configEdit.accesskey          "d">
+<!ENTITY returnReceiptsInfo.label      "Gestion des accusés de réception dans &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Accusés de réception…">
+<!ENTITY showReturnReceipts.accesskey  "A">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Télémétrie">
@@ -85,7 +86,6 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Utiliser jusqu’à">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "Mo d’espace disque pour le cache">
@@ -101,7 +101,7 @@
 <!ENTITY enableOCSP.label                "Interroger le répondeur OCSP pour confirmer la validité de vos certificats">
 <!ENTITY enableOCSP.accesskey            "I">
 
-<!ENTITY manageCertificates.label      "Gérer les certificats">
-<!ENTITY manageCertificates.accesskey  "G">
-<!ENTITY viewSecurityDevices.label     "Périphériques de sécurité">
+<!ENTITY manageCertificates.label "Gérer les certificats">
+<!ENTITY manageCertificates.accesskey "G">
+<!ENTITY viewSecurityDevices.label "Périphériques de sécurité">
 <!ENTITY viewSecurityDevices.accesskey "P">

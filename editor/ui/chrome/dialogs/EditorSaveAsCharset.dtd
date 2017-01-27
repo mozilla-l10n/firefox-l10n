@@ -12,3 +12,6 @@
 <!ENTITY documentCharsetTitle2.label "Encodage du texte">
 <!ENTITY documentCharsetDesc2.label "Sélectionner l’encodage du texte avec lequel vous voulez enregistrer :">
 <!ENTITY documentExportToText.label "Exporter au format texte">
+
+
+

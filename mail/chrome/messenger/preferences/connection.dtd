@@ -31,7 +31,7 @@
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.label                 "Port :">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  SOCKSport.label             "Port :">
+<!ENTITY  SOCKSport.label               "Port :">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Pas de proxy pour :">
 <!ENTITY  noproxy.accesskey             "x">

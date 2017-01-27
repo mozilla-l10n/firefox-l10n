@@ -27,7 +27,6 @@
 <!ENTITY edit.label "Modifier…">
 <!ENTITY choose.label "Choisir…">
 <!ENTITY choose.accesskey "i">
-<!-- LOCALIZATION NOTE (editVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY editVCard.label "Modifier la carte…">
 <!ENTITY editVCard.accesskey "M">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->

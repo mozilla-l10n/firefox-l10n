@@ -13,7 +13,6 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Coller comme">
 <!ENTITY pasteAs.accesskey "c">
-
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -223,7 +222,8 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tableau">
 <!ENTITY tableMenu.accesskey "T">
-<!-- Select submenu -->
+
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Sélectionner">
 <!ENTITY tableSelectMenu.accesskey "S">
 
@@ -282,7 +282,7 @@
 <!ENTITY tableProperties.label "Propriétés du tableau…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- toolbar-only items -->
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY formatToolbar.tooltip "Barre d’outils de mise en forme">
 <!ENTITY cutToolbarCmd.tooltip "Couper">
@@ -309,7 +309,7 @@
 <!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
-<!-- editor toolbar -->
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Définir la taille de police">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Réduire la taille de police">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Augmenter la taille de police">
@@ -336,11 +336,11 @@
 <!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label           "Insérer">
+<!ENTITY insertTOC.label          "Insérer">
 <!ENTITY insertTOC.accesskey      "i">
-<!ENTITY updateTOC.label           "Mettre à jour">
+<!ENTITY updateTOC.label          "Mettre à jour">
 <!ENTITY updateTOC.accesskey      "M">
-<!ENTITY removeTOC.label           "Enlever">
+<!ENTITY removeTOC.label          "Enlever">
 <!ENTITY removeTOC.accesskey      "E">
-<!ENTITY tocMenu.label             "Table des matières…">
+<!ENTITY tocMenu.label            "Table des matières…">
 <!ENTITY tocMenu.accesskey        "b">

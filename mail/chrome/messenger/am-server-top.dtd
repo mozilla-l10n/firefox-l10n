@@ -61,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "r">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Me demander avant de télécharger plus de ">
 <!ENTITY maxMessagesStart.accesskey "t">

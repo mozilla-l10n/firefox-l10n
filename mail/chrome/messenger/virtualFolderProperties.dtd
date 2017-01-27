@@ -16,7 +16,7 @@
 
 <!ENTITY searchOnline.label "Rechercher en ligne (donne des résultats à jour pour les dossiers IMAP et les dossiers de groupes mais augmente le temps d’ouverture du dossier)">
 <!ENTITY searchOnline.accesskey "l">
-<!ENTITY newFolderButton.label "Créer">
-<!ENTITY newFolderButton.accesskey "r">
-<!ENTITY editFolderButton.label "Mettre à jour">
-<!ENTITY editFolderButton.accesskey "M">
+<!ENTITY newFolderButton.label       "Créer">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Mettre à jour">
+<!ENTITY editFolderButton.accesskey  "M">

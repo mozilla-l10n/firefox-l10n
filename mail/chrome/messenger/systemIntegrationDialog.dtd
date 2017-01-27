@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Intégration système">
+<!ENTITY acceptIntegration.label  "Définir par défaut">
+<!ENTITY cancelIntegration.label  "Ignorer l’intégration">
+<!ENTITY cancelIntegration2.label  "Annuler">
 <!ENTITY defaultClient.intro  "Utiliser &brandShortName; comme client par défaut pour :">
 
 <!ENTITY email.label "le courrier électronique">
@@ -16,7 +19,3 @@
 
 <!ENTITY searchIntegration.label "Autoriser &searchIntegration.engineName; à rechercher dans les messages">
 <!ENTITY searchIntegration.accesskey "A">
-
-<!ENTITY acceptIntegration.label  "Définir par défaut">
-<!ENTITY cancelIntegration.label  "Ignorer l’intégration">
-<!ENTITY cancelIntegration2.label  "Annuler">

@@ -76,33 +76,33 @@
 <!ENTITY startExpandedCmd.accesskey    "A">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Ouvrir">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Enregistrer sous…">
-<!ENTITY saveAsAttachmentCmd.accesskey "E">
-<!ENTITY detachAttachmentCmd.label "Détacher…">
-<!ENTITY detachAttachmentCmd.accesskey "a">
-<!ENTITY deleteAttachmentCmd.label "Supprimer">
-<!ENTITY deleteAttachmentCmd.accesskey "u">
-<!ENTITY openAllAttachmentsCmd.label "Tout ouvrir…">
-<!ENTITY openAllAttachmentsCmd.accesskey "v">
-<!ENTITY saveAllAttachmentsCmd.label "Tout enregistrer…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "T">
-<!ENTITY detachAllAttachmentsCmd.label "Tout détacher…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "Tout supprimer…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "s">
+<!ENTITY openAttachmentCmd.label    "Ouvrir">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Enregistrer sous…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "E">
+<!ENTITY detachAttachmentCmd.label    "Détacher…">
+<!ENTITY detachAttachmentCmd.accesskey    "a">
+<!ENTITY deleteAttachmentCmd.label    "Supprimer">
+<!ENTITY deleteAttachmentCmd.accesskey    "u">
+<!ENTITY openAllAttachmentsCmd.label    "Tout ouvrir…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "v">
+<!ENTITY saveAllAttachmentsCmd.label    "Tout enregistrer…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "T">
+<!ENTITY detachAllAttachmentsCmd.label    "Tout détacher…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Tout supprimer…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "s">
 
 <!ENTITY openAttachment.tooltip "Ouvrir la pièce jointe">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label "Enregistrer">
-<!ENTITY saveAttachmentButton1.tooltip "Enregistrer la pièce jointe">
-<!ENTITY saveAllAttachmentsButton1.label "Tout enregistrer">
+<!ENTITY saveAttachmentButton1.label       "Enregistrer">
+<!ENTITY saveAttachmentButton1.tooltip     "Enregistrer la pièce jointe">
+<!ENTITY saveAllAttachmentsButton1.label   "Tout enregistrer">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Enregistrer toutes les pièces jointes">
 
-<!ENTITY copyLinkCmd.label "Copier l’adresse du lien">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.label        "Copier l’adresse du lien">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copier l’identifiant du message">
 <!ENTITY CopyMessageId.accesskey "C">

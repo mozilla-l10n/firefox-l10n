@@ -43,7 +43,7 @@
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
- -->
+-->
 <!ENTITY allAutosync.label               "Synchroniser tous les messages localement sans critère d’âge">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Synchroniser les plus récents">

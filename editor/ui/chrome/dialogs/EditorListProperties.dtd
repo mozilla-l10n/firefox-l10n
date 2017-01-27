@@ -11,8 +11,8 @@
 <!ENTITY startingNumber.label "Premier numéro :">
 <!ENTITY startingNumber.accessKey "P">
 <!ENTITY none.value "Aucun (paragraphe normal)">
-<!ENTITY bulletList.value                "Liste à puces (sans nombre)">
-<!ENTITY numberList.value                "Liste numérotée">
+<!ENTITY bulletList.value "Liste à puces (sans nombre)">
+<!ENTITY numberList.value "Liste numérotée">
 <!ENTITY definitionList.value "Liste de définitions">
 <!ENTITY changeEntireListRadio.label "Changer toute la liste">
 <!ENTITY changeEntireListRadio.accessKey "C">

@@ -52,7 +52,6 @@
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibétain">
-
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Taille minimale de la police :">
 <!ENTITY minSize.accesskey                        "m">
@@ -70,12 +69,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "A">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label                 "Courrier sortant :">
-<!ENTITY sendDefaultCharset.accesskey             "u">
-<!ENTITY languagesTitle2.label                    "Encodage du texte">
-<!ENTITY composingDescription2.label              "Réglage de l’encodage de texte par défaut pour l’envoi et la réception de courrier">
+<!ENTITY sendDefaultCharset.label         "Courrier sortant :">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle2.label            "Encodage du texte">
+<!ENTITY composingDescription2.label      "Réglage de l’encodage de texte par défaut pour l’envoi et la réception de courrier">
 
-<!ENTITY viewDefaultCharsetList.label             "Courrier entrant :">
-<!ENTITY viewDefaultCharsetList.accesskey         "i">
-<!ENTITY replyInDefaultCharset3.label             "Quand c’est possible, utiliser l’encodage par défaut dans les réponses">
-<!ENTITY replyInDefaultCharset3.accesskey         "Q">
+<!ENTITY viewDefaultCharsetList.label     "Courrier entrant :">
+<!ENTITY viewDefaultCharsetList.accesskey  "i">
+<!ENTITY replyInDefaultCharset3.label     "Quand c’est possible, utiliser l’encodage par défaut dans les réponses">
+<!ENTITY replyInDefaultCharset3.accesskey "Q">
