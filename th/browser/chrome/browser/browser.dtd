@@ -796,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "เครื่องมือและคุณลักษณะเพิ่มเติม">
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมที่มีนับพัน">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าปริยาย">
 <!ENTITY customizeMode.toolbars "แสดง/ซ่อนแถบเครื่องมือ">
 <!ENTITY customizeMode.titlebar "แถบหัวเรื่อง">
