@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Adaugă un nou container">
 <!ENTITY addButton.accesskey  "A">
-
-
+<!ENTITY preferencesButton.label "Preferințe">
+<!ENTITY removeButton.label   "Elimină">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Revino la confidențialitate">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Nume:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "Introdu un nume pentru container">
 <!ENTITY icon.label           "Pictogramă:">
 <!ENTITY icon.accesskey       "i">
 <!ENTITY color.label          "Culoare:">
