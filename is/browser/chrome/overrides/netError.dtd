@@ -116,7 +116,7 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; tókst ekki að koma á öruggri tengingu við <span id='wrongSystemTime_URL'/> þar sem klukkan þín virðist vera röng.</p> <p>Tölvan þín heldur að tíminn sé <span id='wrongSystemTime_systemDate'/>, þegar hann ætti að vera <span id='wrongSystemTime_actualDate'/>. Til að laga þetta vandamál, breyttu þá dagsetningu og tíma til að passa við réttan tíma.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; tókst ekki að koma á öruggri tengingu við <span id='wrongSystemTime_URL'/> þar sem klukkan þín virðist vera röng.</p> <p>Tölvan þín heldur að tíminn sé <span id='wrongSystemTime_systemDate'/>, þegar hann ætti að vera <span id='wrongSystemTime_actualDate'/>. Til að laga þetta vandamál, breyttu þá dagsetningu og tíma til að passa við réttan tíma.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; tókst ekki að koma á öruggri tengingu við <span id='wrongSystemTimeWithoutReference_URL'/> þar sem klukkan þín virðist vera röng.</p> <p>Tölvan þín er með tíma <span id='wrongSystemTimeWithoutReference_systemDate'/>. Til að laga þetta vandamál, breyttu þá dagsetningu og tíma til að passa við réttan tíma.</p>">
 
 <!ENTITY certerror.pagetitle1  "Óörugg tenging">
