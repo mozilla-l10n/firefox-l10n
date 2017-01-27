@@ -52,6 +52,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Cuelgues de hilos">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  
+  Pilas capturadas">
+
 <!ENTITY aboutTelemetry.scalarsSection "
  Escalares">
 
@@ -61,6 +65,10 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas claves">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  
+  Eventos">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medidas simples">
 
