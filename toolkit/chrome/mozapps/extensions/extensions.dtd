@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "เครื่องมือสำหรับส่วนเสริมทั้งหมด">
 
+<!ENTITY getThemes.description                "ต้องการปรับแต่งเบราว์เซอร์ของคุณ?">
+<!ENTITY getThemes.learnMore                  "เลือกจากชุดตกแต่งนับพัน">
+
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "เดินหน้าไปหนึ่งหน้า">
 
@@ -243,3 +246,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "นักพัฒนาที่สนใจนำส่วนเสริมของเขาไปรับการตรวจสอบสามารถดำเนินการต่อโดยอ่าน ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
 <!ENTITY disabledUnsigned.devInfo.end "">
+
+<!ENTITY pluginDeprecation.description "มีบางอย่างขาดหายไป? บางปลั๊กอินไม่ได้รับการสนับสนุนโดย &brandShortName; อีกต่อไป">
+<!ENTITY pluginDeprecation.learnMore "เรียนรู้เพิ่มเติม">
