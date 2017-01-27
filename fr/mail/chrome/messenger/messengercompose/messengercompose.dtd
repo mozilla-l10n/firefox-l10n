@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Rédaction du message">
 
-<!-- File menu -->
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Fichier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nouveau">
@@ -25,7 +25,7 @@
 <!ENTITY attachCloudCmd.accesskey "E">
 <!ENTITY attachPageCmd.label "Page web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard’ -->
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY remindLater.label "Me le rappeler plus tard">
@@ -58,7 +58,7 @@
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
 
-<!-- Edit menu -->
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Édition">
 <!ENTITY editMenu.accesskey "n">
 <!ENTITY undoCmd.label "Annuler">
@@ -78,13 +78,11 @@
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Supprimer">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "o">
-<!ENTITY removeAttachment.label "Supprimer la pièce jointe">
-<!ENTITY removeAttachment.accesskey "j">
 <!ENTITY renameAttachmentCmd.label "Renommer la pièce jointe…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
@@ -105,7 +103,7 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
-<!-- View menu -->
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Affichage">
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenuNew.label "Barres d’outils">
@@ -124,11 +122,11 @@
 <!ENTITY addressSidebar.label "Barre des contacts">
 <!ENTITY addressSidebar.accesskey "o">
 
-<!-- Format menu -->
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "m">
 
-<!-- Options menu -->
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Options">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Vérifier l’orthographe…">
@@ -140,7 +138,7 @@
 <!ENTITY quoteCmd.label "Citer le message">
 <!ENTITY quoteCmd.accesskey "m">
 
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard’ -->
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Carte de visite (vCard)">
 <!ENTITY attachVCard.accesskey "C">
 
@@ -236,7 +234,7 @@
 <!ENTITY replyAddr.label "Répondre à :">
 <!ENTITY newsgroupsAddr.label "Groupe :">
 <!ENTITY followupAddr.label "Faire suivre à :">
-<!ENTITY subject.label  "Sujet :">
+<!ENTITY subject.label "Sujet :">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
@@ -282,6 +280,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Supprimer">
 <!ENTITY delete.accesskey "E">
+<!ENTITY removeAttachment.label "Supprimer la pièce jointe">
+<!ENTITY removeAttachment.accesskey "j">
 <!ENTITY renameAttachment.label "Renommer…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Tout sélectionner">

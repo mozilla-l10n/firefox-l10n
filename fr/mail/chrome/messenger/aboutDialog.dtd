@@ -1,6 +1,7 @@
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -9,6 +10,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
 <!ENTITY update.updateButton.label2               "Redémarrer &brandShortName; pour appliquer la mise à jour">
 <!ENTITY update.updateButton.accesskey            "R">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; est expérimental et peut être instable.">
@@ -48,7 +50,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Droits de l’utilisateur">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politique de confidentialité">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -87,7 +89,7 @@
 <!ENTITY update.unsupported.linkText "En savoir plus">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).

@@ -25,23 +25,24 @@
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "&brandShortName; peut analyser les messages pour trouver les courriers susceptibles d’être frauduleux en cherchant les techniques usuelles utilisées pour tromper les utilisateurs.">
+<!ENTITY phishingDetector1.intro  "&brandShortName; peut analyser les messages pour trouver les courriers susceptibles d’être frauduleux en cherchant les techniques usuelles utilisées pour tromper les utilisateurs.">
 <!ENTITY enablePhishingDetector1.label    "Signaler si le message en cours de lecture est susceptible d’être frauduleux">
 <!ENTITY enablePhishingDetector1.accesskey  "S">
 <!ENTITY useDownloadedList.label "Utiliser une liste téléchargée de courriers susceptibles d’être frauduleux">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro "&brandShortName; peut mémoriser les mots de passe pour tous vos comptes.">
-<!ENTITY useMasterPassword.label "Utiliser un mot de passe principal">
-<!ENTITY useMasterPassword.accesskey "U">
-<!ENTITY masterPassword.intro "Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
-<!ENTITY changeMasterPassword.label "Gérer le mot de passe principal…">
+<!ENTITY savedPasswords.intro           "&brandShortName; peut mémoriser les mots de passe pour tous vos comptes.">
+<!ENTITY useMasterPassword.label        "Utiliser un mot de passe principal">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
+<!ENTITY changeMasterPassword.label     "Gérer le mot de passe principal…">
 <!ENTITY changeMasterPassword.accesskey "G">
-<!ENTITY savedPasswords.label "Mots de passe enregistrés…">
-<!ENTITY savedPasswords.accesskey "M">
+<!ENTITY savedPasswords.label           "Mots de passe enregistrés…">
+<!ENTITY savedPasswords.accesskey       "M">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d’analyser les courriers entrants avant qu’ils ne soient stockés localement.">
 <!ENTITY antiVirus.label      "Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrants">
 <!ENTITY antiVirus.accesskey  "P">
+

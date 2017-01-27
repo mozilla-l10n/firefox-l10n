@@ -42,7 +42,7 @@
 <!ENTITY validateCmd.label "Valider le code HTML">
 <!ENTITY validateCmd.accesskey "V">
 
-<!-- Display Mode Toolbar and View Menu items -->
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mode d’édition normal">
 <!ENTITY NormalMode.accesskey "n">

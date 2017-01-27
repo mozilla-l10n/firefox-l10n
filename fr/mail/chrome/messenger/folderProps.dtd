@@ -17,8 +17,8 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Règles de conservation">
-<!ENTITY retentionUseAccount.label               "Utiliser mes paramètres de compte">
-<!ENTITY retentionUseAccount.accesskey           "m">
+<!ENTITY retentionUseAccount.label  "Utiliser mes paramètres de compte">
+<!ENTITY retentionUseAccount.accesskey "m">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "messages les plus récents">
 <!ENTITY retentionCleanup.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement.">
@@ -34,8 +34,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisation">
-<!ENTITY folderCheckForNewMessages2.label        "Lors de la réception de nouveaux messages pour ce compte, toujours vérifier ce dossier">
-<!ENTITY folderCheckForNewMessages2.accesskey    "L">
+<!ENTITY folderCheckForNewMessages2.label         "Lors de la réception de nouveaux messages pour ce compte, toujours vérifier ce dossier">
+<!ENTITY folderCheckForNewMessages2.accesskey     "L">
 
 <!ENTITY offlineFolder.check.label               "Sélectionner ce dossier pour une utilisation hors connexion">
 <!ENTITY offlineFolder.check.accesskey           "l">

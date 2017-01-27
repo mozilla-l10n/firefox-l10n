@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label "Au démarrage de &brandShortName; :">
-<!ENTITY  startupAction.accesskey "A">
-<!ENTITY  startupOffline.label "Laisser mes comptes de messagerie instantanée déconnectés">
-<!ENTITY  startupConnectAuto.label "Connecter mes comptes automatiquement">
+<!ENTITY  startupAction.label         "Au démarrage de &brandShortName; :">
+<!ENTITY  startupAction.accesskey     "A">
+<!ENTITY  startupOffline.label        "Laisser mes comptes de messagerie instantanée déconnectés">
+<!ENTITY  startupConnectAuto.label    "Connecter mes comptes automatiquement">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -13,15 +13,15 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label "Permettre à mes contacts de savoir que mon compte est inactif après">
-<!ENTITY  reportIdleAfter.accesskey "P">
-<!ENTITY  idleTime "minutes d’inactivité">
+<!ENTITY  reportIdleAfter.label         "Permettre à mes contacts de savoir que mon compte est inactif après">
+<!ENTITY  reportIdleAfter.accesskey     "P">
+<!ENTITY  idleTime                      "minutes d’inactivité">
 
-<!ENTITY  andSetStatusToAway.label "et indiquer mon absence avec le message suivant :">
+<!ENTITY  andSetStatusToAway.label      "et indiquer mon absence avec le message suivant :">
 <!ENTITY  andSetStatusToAway.accesskey  "e">
 
-<!ENTITY  sendTyping.label "Envoyer les notifications de saisie dans mes conversations">
-<!ENTITY  sendTyping.accesskey "v">
+<!ENTITY  sendTyping.label              "Envoyer les notifications de saisie dans mes conversations">
+<!ENTITY  sendTyping.accesskey          "v">
 
 <!ENTITY  chatNotifications.label             "À la réception d’un message qui vous est destiné :">
 <!ENTITY  desktopChatNotifications.label      "Afficher une notification :">
@@ -39,3 +39,4 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Parcourir…">
 <!ENTITY  browse.accesskey                    "r">
+

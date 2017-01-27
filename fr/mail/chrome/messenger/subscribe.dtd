@@ -15,8 +15,8 @@
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Compte :">
 <!ENTITY server.accesskey             "C">
-<!ENTITY subscribedHeader.label	      "Abonné">
-<!-- commenting out until bug 38906 is fixed
-<!ENTITY messagesHeader.label         "messages"> -->
+<!ENTITY subscribedHeader.label       "Abonné">
+<!-- commenting out until bug 38906 is fixed 
+<!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Afficher les groupes qui contiennent :">
 <!ENTITY namefield.accesskey          "f">

@@ -167,19 +167,19 @@
          "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
-      The description of the key-binding to get into the box on windows and
-      linux (which use the control key).  This should match the value of
-      quickFilterBar.show.key above.
-      -->
- <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
-          "&lt;Ctrl+Maj+K&gt;">
+     The description of the key-binding to get into the box on windows and
+     linux (which use the control key).  This should match the value of
+     quickFilterBar.show.key above.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
+         "&lt;Ctrl+Maj+K&gt;">
 
- <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
-      The description of the key-binding to get into the box on mac systems.
-      This should match the value of quickFilterBar.show.key above.
-      -->
- <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
-          "&lt;&#x21E7;&#x2318;K&gt;">
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
+     The description of the key-binding to get into the box on mac systems.
+     This should match the value of quickFilterBar.show.key above.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
+         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
@@ -230,7 +230,8 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
-<!ENTITY quickFilterBar.textFilter.explanation.label "Filtrer les messages selon :">
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filtrer les messages selon :">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message

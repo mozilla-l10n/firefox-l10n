@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "À gauche du tableau">
 <!ENTITY tableCaptionRight.label          "À droite du tableau">
 <!ENTITY tableCaptionNone.label           "Aucune">
-<!ENTITY tableInheritColor.label          "(Utiliser la couleur venant de la page)">
+<!ENTITY tableInheritColor.label           "(Utiliser la couleur venant de la page)">
 
 <!ENTITY cellSelection.label              "Sélection">
 <!ENTITY cellSelectCell.label             "Cellule">

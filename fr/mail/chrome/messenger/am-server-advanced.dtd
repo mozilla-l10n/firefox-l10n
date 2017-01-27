@@ -16,9 +16,9 @@
 <!ENTITY namespaceDesc.label "Ces préférences spécifient les espaces de noms sur votre serveur IMAP">
 <!ENTITY personalNamespace.label "Espace de noms personnel :">
 <!ENTITY personalNamespace.accesskey "E">
-<!ENTITY publicNamespace.label   "Public (partagé) :">
+<!ENTITY publicNamespace.label "Public (partagé) :">
 <!ENTITY publicNamespace.accesskey "P">
-<!ENTITY otherUsersNamespace.label    "Autres utilisateurs :">
+<!ENTITY otherUsersNamespace.label "Autres utilisateurs :">
 <!ENTITY otherUsersNamespace.accesskey "u">
 <!ENTITY overrideNamespaces.label "Permettre au serveur d’outrepasser ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "r">

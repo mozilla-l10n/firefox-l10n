@@ -6,8 +6,7 @@
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.
--->
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zoom avant">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">

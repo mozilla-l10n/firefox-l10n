@@ -5,6 +5,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnements aux flux">
 <!ENTITY learnMore.label             "En savoir plus à propos des flux">
+
 <!ENTITY feedTitle.label             "Titre :">
 <!ENTITY feedTitle.accesskey         "T">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label     "Émoticône">
+<!ENTITY insertSmiley.label "Émoticône">
 <!ENTITY insertSmiley.accesskey "m">
 
 <!ENTITY smiley1Cmd.label "Sourire">
@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Motus">
 <!ENTITY smiley16Cmd.accesskey "t">
 <!ENTITY smiley16Cmd.tooltip "Insérer une émoticône Motus">
-<!ENTITY SmileButton.tooltip    "Choisir une émoticône">
+<!ENTITY SmileButton.tooltip "Choisir une émoticône">
+
