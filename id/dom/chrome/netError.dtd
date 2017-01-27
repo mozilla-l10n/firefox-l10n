@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Kesalahan Memuat Laman">
 <!ENTITY retry.label "Coba Lagi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Gagal Tersambung">
 <!ENTITY connectionFailure.longDesc "<p>Walaupun tampaknya benar, program peramban tidak dapat tersambung ke situs yang dituju.</p><ul><li>Apakah situs tersebut sedang tidak berfungsi? Coba lagi nanti.</li><li>Apakah Anda tidak bisa membuka situs lain? Periksa sambungan jaringan komputer.</li><li>Apakah komputer Anda dilindungi firewall atau proxy? Kesalahan pengaturan dapat mengganggu nikmatnya menjelajah web.</li></ul>">
@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Apakah objek telah diganti namanya, dibuang, atau dipindahkan?</li><li>Apa tidak ada kesalahan ejaan, huruf besar, atau <em>kesaalhan keitk</em> lainnya pada penulisan alamat?</li><li>Apakah Anda memiliki hak akses untuk mengakses objek yang diminta?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Akses terhadap berkas ditolak">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Ini mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.</li></ul>">
 
 <!ENTITY generic.title "Tidak Dapat Menyelesaikan Permintaan">
 <!ENTITY generic.longDesc "<p>Informasi lanjut tentang masalah atau kesalahan tidak tersedia saat ini.</p>">
@@ -82,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keamanan yang kedaluarsa dan rentan terhadap serangan. Penyerang bisa dengan mudah mengungkapkan informasi yang Anda pikir aman. Admin situs perlu memperbaiki server lebih dulu sebelum Anda bisa mengunjunginya lagi.</p><p>Kode kesalahan: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
