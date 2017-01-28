@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "T">
 <!ENTITY engine.history.label             "Sejarah">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "Buka tab">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Kata laluan">
 <!ENTITY engine.passwords.accesskey       "a">

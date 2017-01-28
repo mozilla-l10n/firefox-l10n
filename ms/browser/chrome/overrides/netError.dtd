@@ -200,6 +200,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; tidak bersambung ke <span id='wrongSystemTime_URL'/> kerana jam komputer anda menunjukkan masa yang salah dan ini menghalang sambungan yang selamat.</p> <p>Komputer anda ditetapkan ke <span id='wrongSystemTime_systemDate'/>, sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk mengatasi masalah ini, tukar tetapan tarikh dan masa anda supaya sepadan dengan masa yang betul.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; tidak bersambung ke <span id='wrongSystemTimeWithoutReference_URL'/> kerana jam komputer anda menunjukkan masa yang salah dan ini menghalang sambungan yang selamat.</p> <p>Komputer anda ditetapkan ke <span id='wrongSystemTimeWithoutReference_systemDate'/>. Untuk membaiki masalah ini, tukar tetapan tarikh dan masa supaya sepadan dengan masa yang betul.</p>">
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak selamat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP
