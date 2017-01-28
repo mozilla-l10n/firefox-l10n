@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Advar deg når nettsider forsøker å installere programtillegg">
+<!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Blokker farlige nedlastinger">
 <!ENTITY  blockDownloads.accesskey        "f">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Advar deg om uønskede eller uvanlige programmer">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "d">
 
 <!ENTITY  addonExceptions.label         "Unntak …">
 <!ENTITY  addonExceptions.accesskey     "U">
