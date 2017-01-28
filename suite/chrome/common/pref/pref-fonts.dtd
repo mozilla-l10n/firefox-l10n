@@ -28,19 +28,17 @@
 <!ENTITY  cursive.label                           "Skript:">
 <!ENTITY  cursive.accesskey                       "k">
 
-<!ENTITY  font.langGroup.latin1                   "Västerländska språk">
-<!ENTITY  font.langGroup.latin2                   "Centraleuropeiska">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latinska">
 <!ENTITY  font.langGroup.japanese                 "Japanska">
 <!ENTITY  font.langGroup.trad-chinese             "Traditionell kinesiska (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Förenklad kinesiska">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditionell kinesiska (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreanska">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrilliska">
-<!ENTITY  font.langGroup.baltic                   "Baltiska">
 <!ENTITY  font.langGroup.el                       "Grekiska">
-<!ENTITY  font.langGroup.turkish                  "Turkiska">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Användardefinierad">
 <!ENTITY  font.langGroup.thai                     "Thailändska">
 <!ENTITY  font.langGroup.hebrew                   "Hebreiska">
 <!ENTITY  font.langGroup.arabic                   "Arabiska">
@@ -56,6 +54,12 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematik">
+<!ENTITY  font.langGroup.odia                     "Odia">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetanska">
+<!ENTITY  font.langGroup.other                    "Övriga skriftsystem">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minsta teckensnittsstorlek:">
 <!ENTITY minSize.accesskey                        "i">

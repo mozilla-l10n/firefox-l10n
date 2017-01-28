@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label		"Webbläsare">  
 <!ENTITY navigatorCmd.accesskey             "W">
 <!ENTITY navigatorCmd.commandkey            "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Composer">
 <!ENTITY editorCmd.accesskey				"c">
@@ -13,7 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Felkonsol">
 <!ENTITY errorConsoleCmd.accesskey				"F">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.commandkey2			"j">
 
 <!ENTITY taskNavigator.tooltip  "Webbläsare">
 <!ENTITY taskComposer.tooltip  "Composer">
