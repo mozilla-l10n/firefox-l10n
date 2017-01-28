@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "مزید سیکھیں…">
 
-
+<!ENTITY defaultButton.label "درست!">
+<!ENTITY defaultButton.accesskey "د">

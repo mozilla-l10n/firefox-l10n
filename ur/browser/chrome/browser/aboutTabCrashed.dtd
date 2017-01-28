@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
 <!ENTITY tabCrashed.reportSent "تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ &brandShortName; کو بہتر بنانے کے لیے مدد دینے کا شکریہ!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "پس منظر ٹیب کی رپورٹ کریں">
-
+<!ENTITY tabCrashed.autoSubmit2 "ترجیحات کی تازہکاری کریں تاکہ خود کار طور پر تباہ رپورٹ ارسال ہوں، جس میں تباہ شدہ پس منظر ٹیبس اس سیشن سے اور مستقبل کے سیشن سے شامل ہوں">
