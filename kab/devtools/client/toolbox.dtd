@@ -172,9 +172,13 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Tikli n tuṭṭfa n ugdil">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Si tuṭṭfa n ugdil ɣer &quot;ɣef afus&quot;">
+<!ENTITY options.screenshot.clipboard.tooltip    "Ad isekles tuṭṭfa n ugdil s srid ɣer &quot;ɣef afus&quot;">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.tooltip    "Ad irmed amesalw n tkamirat m'ara ad teṭfeḍ agdil">
