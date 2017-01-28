@@ -20,12 +20,12 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " waše:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ześěgnjenja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "cytańske znamjenja">
-<!ENTITY aboutPrivateBrowsing.note.before                "Priwatny modus">
+<!ENTITY aboutPrivateBrowsing.note.before                "Priwatny modus ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "njecyni was anonymny">
 <!ENTITY aboutPrivateBrowsing.note.after                 " w interneśe. Waš źěłodawar abo internetny póbitowaŕ móžo hyšći wěźeś, ku kótaremuž bokoju se woglědujośo.">
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Zgóńśo wěcej wó ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Priwatny modus">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Slědowański šćit">
 <!ENTITY trackingProtection.description2                 "Někotare websedła wužywaju slědujuce programy, kótarež dolěduju wašu aktiwitu w interneśe. Ze slědowańskim šćitom Firefox buźo wjele slědowańskich programow blokěrowaś, kótarež mógu daty wó wašom pśeglědowańskem zaźaržanju nagromaźiś.">

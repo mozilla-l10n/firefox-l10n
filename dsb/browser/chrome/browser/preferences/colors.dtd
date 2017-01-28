@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Barwy pódane pśez bok pśez mój wuběrki górjejce pśepisaś:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "B">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Pśecej">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Jano z drastwami z wusokim kontrastom">

@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Nowy kontejner pśidaś">
 <!ENTITY addButton.accesskey  "k">
-
-
+<!ENTITY preferencesButton.label "Nastajenja">
+<!ENTITY removeButton.label   "Wótwónoźeś">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Slědk k priwatnosći">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Mě:">
 <!ENTITY name.accesskey       "M">
-
+<!ENTITY name.placeholder     "Zapódajśo kontejnerowe mě">
 <!ENTITY icon.label           "Symbol:">
 <!ENTITY icon.accesskey       "S">
 <!ENTITY color.label          "Barwa:">
