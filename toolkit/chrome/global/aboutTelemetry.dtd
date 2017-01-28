@@ -94,6 +94,10 @@
   Зависання потоків
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Захоплених стеків
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Величини
 ">
@@ -108,6 +112,10 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Гістограми з ключами
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Події
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
