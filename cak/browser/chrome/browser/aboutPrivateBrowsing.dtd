@@ -23,9 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Ichinan okem pa k'amaya'l ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "man nub'än ta chawec chi man tetamäx awäch">
 <!ENTITY aboutPrivateBrowsing.note.after                 " pa k'amaya'l. Ri ya'öl ak'amaya'l o ri asamajinel, k'a nitikïr na nutzu' ri taq ruxaq k'amaya'l ri ye'atzu'.">
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Tetamäx chaqa' chik chi rij">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Ichinan okem pa k'amaya'l">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Chajinem chuwäch kanoxïk">
 <!ENTITY trackingProtection.description2                 "Jujun ruxaq k'amaya'l nikokisaj kanonela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in chajinem chuwäch rukanoxik Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikik'oj etamab'äl chi rij rub'eyal runa'oj ri okema pa k'amaya'l.">
