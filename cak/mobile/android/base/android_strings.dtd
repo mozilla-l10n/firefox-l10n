@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "K\u0027o chik pa taq yaketal">
 <!ENTITY overlay_share_send_other "Titaq chi ke ch\u0027aqa\u0027 chik ta okisaxel">
 
+<!ENTITY overlay_share_open_browser_btn_label "Tok pa &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Tik\u0027ut pe ri natab\u0027äl richin kanoxïk">
 <!ENTITY pref_import_options "Kek\u0027am pe ri taq cha\u0027oj">
 <!ENTITY pref_import_android_summary "Kejik\u0027 pe ri taq yaketal chuqa\u0027 natab\u0027äl e k\u0027o pa ajnab\u0027ey okik\u0027amaya\u0027l">
-
+<!ENTITY pref_private_data_openTabs "Kejaq ri taq ruwi\u0027">
 <!ENTITY pref_private_data_history2 "Runatab\u0027al okem pa k\u0027amaya\u0027l">
 <!ENTITY pref_private_data_searchHistory "Runatab\u0027al kanob\u0027äl">
 <!ENTITY pref_private_data_formdata2 "Runojwuj natab\u0027äl">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Tz\u0027aqatz\u0027öj taq ruwi\u0027">
+<!ENTITY pref_compact_tabs_summary2 "Kecholajïx taq ruwi\u0027 pa ka\u0027i\u0027 tem pa palem">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Tikanöx &formatS1; richin &formatS2;">
 
 <!ENTITY searchable_description "Taq yak\u0027etal chuqa\u0027 natab\u0027äl">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "K\u0027o ruk\u0027exoj ri &brandShortName;">
 <!ENTITY updater_start_select2 "Tachapa\u0027 qa richin naqasaj">
 
 <!ENTITY updater_downloading_title2 "Tajin niqasäx &brandShortName;">
@@ -700,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tachapa\u0027 richin rusamajixik toq xqasäx yan qa">
 <!ENTITY updater_downloading_retry2 "Tachapa\u0027 richin nitojtob\u0027ëx chik">
 
-
+<!ENTITY updater_apply_title3 "Xqasäx ri ruk\u0027exoj &brandShortName;">
+<!ENTITY updater_apply_select3 "Tachapa\u0027 qa richin nayäk qa chupam">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -845,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Tichup ruwäch">
 <!ENTITY activity_stream_delete_history "Tiyuj el pa k\u0027ulwachinel">
 
-
+<!ENTITY activity_stream_welcome_title "Ütz apetik pa ri nima\u0027q taq k\u0027ojlemal">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; wakami tanuk\u0027u\u0027 ri nïm taq wachinäq e\u0027awilon pa ajk\u0027amaya\u0027l richin nawïl ri b\u0027ey richin yatzolin pa ri rutzijol taq na\u0027oj, taq silowachib\u0027äl, taq yaketal chuqa\u0027 ch\u0027aqa\u0027 chik ruxaq taq k\u0027amaya\u0027l.">
