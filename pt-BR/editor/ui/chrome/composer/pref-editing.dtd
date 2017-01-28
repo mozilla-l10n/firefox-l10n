@@ -13,13 +13,13 @@
 <!ENTITY customColors.label         "Usar cores personalizadas:">
 <!ENTITY customColors.accesskey     "U">
 
-<!ENTITY normalText.label           "Texto - normal">
+<!ENTITY normalText.label           "Texto normal">
 <!ENTITY normalText.accesskey       "T">
-<!ENTITY linkText.label             "Link - normal">
+<!ENTITY linkText.label             "Link">
 <!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Link - ativo">
+<!ENTITY activeLinkText.label       "Ativar o link">
 <!ENTITY activeLinkText.accesskey   "a">
-<!ENTITY visitedLinkText.label      "Link - visitado">
+<!ENTITY visitedLinkText.label      "Link visitado">
 <!ENTITY visitedLinkText.accesskey  "v">
 <!ENTITY background.label           "Plano de fundo:">
 <!ENTITY background.accesskey       "P">

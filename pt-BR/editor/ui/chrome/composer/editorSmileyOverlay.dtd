@@ -26,33 +26,33 @@
 <!ENTITY smiley6Cmd.tooltip "Inserir um emoji envergonhado">
 <!ENTITY smiley7Cmd.label "Indeciso">
 <!ENTITY smiley7Cmd.accesskey "I">
-<!ENTITY smiley7Cmd.tooltip "Inserir um smiley indeciso">
+<!ENTITY smiley7Cmd.tooltip "Inserir um emoji indeciso">
 <!ENTITY smiley8Cmd.label "Surpreso">
 <!ENTITY smiley8Cmd.accesskey "S">
-<!ENTITY smiley8Cmd.tooltip "Inserir um smiley surpreso">
-<!ENTITY smiley9Cmd.label "Beijos">
+<!ENTITY smiley8Cmd.tooltip "Inserir um emoji surpreso">
+<!ENTITY smiley9Cmd.label "Beijo">
 <!ENTITY smiley9Cmd.accesskey "B">
-<!ENTITY smiley9Cmd.tooltip "Inserir um smiley beijando">
+<!ENTITY smiley9Cmd.tooltip "Inserir um emoji beijando">
 <!ENTITY smiley10Cmd.label "Berro">
 <!ENTITY smiley10Cmd.accesskey "e">
-<!ENTITY smiley10Cmd.tooltip "Inserir um smiley berrando">
+<!ENTITY smiley10Cmd.tooltip "Inserir um emoji berrando">
 <!ENTITY smiley11Cmd.label "Legal">
 <!ENTITY smiley11Cmd.accesskey "L">
-<!ENTITY smiley11Cmd.tooltip "Inserir um smiley com cara de legal">
-<!ENTITY smiley12Cmd.label "Tudo por dinheiro">
+<!ENTITY smiley11Cmd.tooltip "Inserir um emoji com cara de legal">
+<!ENTITY smiley12Cmd.label "Dinheiro na boca">
 <!ENTITY smiley12Cmd.accesskey "h">
-<!ENTITY smiley12Cmd.tooltip "Inserir um smiley tudo por dinheiro">
-<!ENTITY smiley13Cmd.label "Gafe">
+<!ENTITY smiley12Cmd.tooltip "Inserir um emoji com dinheiro na boca">
+<!ENTITY smiley13Cmd.label "Pé na boca">
 <!ENTITY smiley13Cmd.accesskey "G">
-<!ENTITY smiley13Cmd.tooltip "Inserir um smiley com cara de gafe">
+<!ENTITY smiley13Cmd.tooltip "Inserir um emoji com um pé na boca">
 <!ENTITY smiley14Cmd.label "Inocente">
 <!ENTITY smiley14Cmd.accesskey "n">
-<!ENTITY smiley14Cmd.tooltip "Inserir um smiley inocente">
+<!ENTITY smiley14Cmd.tooltip "Inserir um emoji inocente">
 <!ENTITY smiley15Cmd.label "Choro">
 <!ENTITY smiley15Cmd.accesskey "C">
-<!ENTITY smiley15Cmd.tooltip "Inserir um smiley chorando">
+<!ENTITY smiley15Cmd.tooltip "Inserir um emoji chorando">
 <!ENTITY smiley16Cmd.label "Boca fechada">
 <!ENTITY smiley16Cmd.accesskey "f">
-<!ENTITY smiley16Cmd.tooltip "Inserir um smiley de boca fechada">
-<!ENTITY SmileButton.tooltip "Inserir um smiley">
+<!ENTITY smiley16Cmd.tooltip "Inserir um emoji de boca fechada">
+<!ENTITY SmileButton.tooltip "Inserir um emoji sorridente">
 
