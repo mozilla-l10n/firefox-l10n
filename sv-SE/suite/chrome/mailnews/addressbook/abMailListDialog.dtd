@@ -4,18 +4,20 @@
 
 <!-- Title -->
 <!ENTITY mailListWindow.title		"Sändlista">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label		"Lägg till i: ">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label		"Lägg till i: ">
+<!ENTITY addToAddressBook.accesskey 	"L">
 <!ENTITY ListName.label	"Ange namn: ">
+<!ENTITY ListName.accesskey 		"n">
 <!ENTITY ListNickName.label	"Ange smeknamn: ">
+<!ENTITY ListNickName.accesskey 	"s">
 <!ENTITY ListDescription.label 		"Beskrivning: ">
+<!ENTITY ListDescription.accesskey 	"B">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label 		"Skriv in e-postadresser för att lägga till i listan:">
+<!ENTITY AddressTitle.accesskey     "i">
 
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey 	"L">
-<!ENTITY ListName.accesskey 		"n">
-<!ENTITY ListNickName.accesskey 	"s">
-<!ENTITY ListDescription.accesskey 	"B">
+
+
 
