@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "नक़ल करें">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "सभी टैब में खोलें">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "सिंक">

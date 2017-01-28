@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "जब &brandShortName; आरंभ होता है:">
 <!ENTITY startupPage.accesskey     "s">
-
+<!ENTITY startupUserHomePage.label "आपका होम पेज दिखाएँ">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
 
 

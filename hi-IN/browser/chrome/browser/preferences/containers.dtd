@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "नया पात्र जोड़े">
 <!ENTITY addButton.accesskey  "A">
-
-
+<!ENTITY preferencesButton.label "प्राथमिकताएँ">
+<!ENTITY removeButton.label   "हटायें">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "#171; फिर से गोपनीयता पर जाएँ">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "नाम:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "एक पात्र का नाम प्रविष्ट करें">
 <!ENTITY icon.label           "प्रतीकः">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "रंगः">

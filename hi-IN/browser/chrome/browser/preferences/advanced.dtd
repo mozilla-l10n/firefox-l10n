@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">
-
-
+<!ENTITY checkUserSpelling.label         "टाइप करते समय अपना वर्तनी जाँचें">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "आँकड़ा पसंद">
 
@@ -59,9 +59,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "सेटिंग…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "और जानें">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,6 +81,7 @@
 
 <!ENTITY updateTab.label                 "अद्यतन">
 
+<!ENTITY updateApplication.label         "&brandShortName; अद्यतन">
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
 
@@ -94,6 +95,7 @@
 <!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "स्वतः अद्यतन">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
@@ -109,11 +111,11 @@
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certPersonal.label              "निवेदन">
-
+<!ENTITY certPersonal.description        "जब एक सर्वर आपका निजी प्रमाणपत्र का आग्रह करता है:">
 <!ENTITY selectCerts.auto                "कोई एक स्वतः चुनें">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "आपसे हमेशा पूछें">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्र देखें">
