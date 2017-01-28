@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Send meg e-post når mer informasjon er tilgjengelig">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allerede sendt; takk for at du hjelper til gjøre &brandShortName; bedre!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapporter bakgrunnsfaner">
-
+<!ENTITY tabCrashed.autoSubmit2 "Oppdater innstillinger for å automatisk sende krasjrapporter, inkludert rapporter for krasjede bakgrunnsfaner, fra denne økten og fremtidige økter">
