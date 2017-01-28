@@ -26,6 +26,7 @@
 <!ENTITY attachments.outgoing.label   "Εξερχόμενα">
 
 <!ENTITY addCloudFileAccount1.label       "Προσθήκη…">
+<!ENTITY addCloudFileAccount1.accesskey   "Π">
 <!ENTITY addCloudFileAccount.description  "Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink">
 <!ENTITY removeCloudFileAccount.label     "Αφαίρεση">
 <!ENTITY removeCloudFileAccount.accesskey "R">
