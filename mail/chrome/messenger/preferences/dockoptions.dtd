@@ -8,9 +8,9 @@
 <!ENTITY bounceSystemDockIcon.label            "Uue kirja saabumisel animeeritakse ikooni">
 <!ENTITY bounceSystemDockIcon.accesskey        "i">
 <!ENTITY newMessagesCountDock.label            "uute kirjade arvu">
-<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY newMessagesCountDock.accesskey        "u">
 <!ENTITY showAllUnreadMessagesCount.label      "lugemata kirjade arvu">
-<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "l">
 <!ENTITY dockIconBadge.label                   "Rakenduse ikooni valikud">
 <!ENTITY dockIconShow.label                    "Rakenduse ikoonil kuvatakse:">
 <!ENTITY directNotificationSettings.label      "Rakenduse ikooni loendur on võimalik keelata süsteemi seadetes, teavituste paneelis.">
