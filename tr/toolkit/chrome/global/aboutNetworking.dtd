@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "Ağ hakkında">
 <!ENTITY aboutNetworking.warning               "Bu çok deneysel bir şey. Ne yaptığınızdan emin değilseniz kullanmayın.">
-<!ENTITY aboutNetworking.showNextTime          "Bu uyarıyı bir sonraki kez göster">
+<!ENTITY aboutNetworking.showNextTime          "Bu uyarıyı bir sonraki kez yine göster">
 <!ENTITY aboutNetworking.ok                    "Tamam">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">

@@ -3,30 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
-<!ENTITY aboutWarningTitle.label "Garanti kapsamından çıkabilirsiniz!">
+<!ENTITY aboutWarningTitle.label "Dikkat! Görevli cankurtaran yoktur!">
 <!ENTITY aboutWarningText.label "Bu gelişmiş ayarların değerlerini değiştirmek bu uygulamanın istikrarına, güvenliğine ve başarımına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.">
 <!ENTITY aboutWarningButton2.label "Riski kabul ediyorum!">
-<!ENTITY aboutWarningCheckbox.label "Bu uyarıyı bir sonraki kez göster">
+<!ENTITY aboutWarningCheckbox.label "Bu uyarıyı bir sonraki kez yine göster">
 
 <!ENTITY searchPrefs.label "Arama:">
 <!ENTITY searchPrefs.accesskey "A">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Tercih adı">
 <!ENTITY lockColumn.label "Durum">
 <!ENTITY typeColumn.label "Türü">
 <!ENTITY valueColumn.label "Değer">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Sıralamak için tıklayın"> 
 <!ENTITY columnChooser.tooltip "Görüntülenecek sütunları seçmek için tıklayın"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopyala">
 <!ENTITY copyPref.accesskey "K">
