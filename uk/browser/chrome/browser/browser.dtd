@@ -773,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Копіювати">
 <!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Відкрити всі у вкладках">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "л">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
