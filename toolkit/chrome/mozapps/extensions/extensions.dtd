@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "В">
 <!ENTITY toolsMenu.tooltip                    "Інструменти для всіх додатків">
 
+<!ENTITY getThemes.description                "Хочете персоналізувати свій браузер?">
+<!ENTITY getThemes.learnMore                  "Обирайте серед тисяч тем.">
+
 <!ENTITY cmd.back.tooltip                     "На одну сторінку назад">
 <!ENTITY cmd.forward.tooltip                  "На сторінку вперед">
 
