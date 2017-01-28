@@ -216,7 +216,7 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Plano de fundo e cores…">
+<!ENTITY colorsAndBackground.label "Cores e plano de fundo da página…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -240,23 +240,23 @@
 <!ENTITY tableTable.label "Tabela">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Linha">
-<!ENTITY tableRows.label "Linhas">
+<!ENTITY tableRows.label "Linha(s)">
 <!ENTITY tableRow.accesskey "L">
-<!ENTITY tableRowAbove.label "Linha em cima">
+<!ENTITY tableRowAbove.label "Linha acima">
 <!ENTITY tableRowAbove.accesskey "L">
-<!ENTITY tableRowBelow.label "Linha embaixo">
+<!ENTITY tableRowBelow.label "Linha abaixo">
 <!ENTITY tableRowBelow.accesskey "e">
 <!ENTITY tableColumn.label "Coluna">
-<!ENTITY tableColumns.label "Colunas">
+<!ENTITY tableColumns.label "Coluna(s)">
 <!ENTITY tableColumn.accesskey "C">
 <!ENTITY tableColumnBefore.label "Coluna antes">
 <!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "Coluna depois">
 <!ENTITY tableColumnAfter.accesskey "o">
 <!ENTITY tableCell.label "Célula">
-<!ENTITY tableCells.label "Células">
+<!ENTITY tableCells.label "Célula(s)">
 <!ENTITY tableCell.accesskey "u">
-<!ENTITY tableCellContents.label "Conteúdo da célula">
+<!ENTITY tableCellContents.label "Conteúdos da célula">
 <!ENTITY tableCellContents.accesskey "o">
 <!ENTITY tableAllCells.label "Todas as células">
 <!ENTITY tableAllCells.accesskey "o">
@@ -277,55 +277,55 @@
 <!ENTITY tableJoinCells.accesskey "m">
 <!ENTITY tableSplitCell.label "Dividir célula">
 <!ENTITY tableSplitCell.accesskey "D">
-<!ENTITY convertToTable.label "Criar tabela da seleção">
+<!ENTITY convertToTable.label "Criar tabela a partir da seleção">
 <!ENTITY convertToTable.accesskey "t">
 <!ENTITY tableProperties.label "Propriedades da tabela…">
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menu (clique para exibir)">
-<!ENTITY formatToolbar.tooltip "Formatação">
+<!ENTITY menuBar.tooltip "Barra de menus">
+<!ENTITY formatToolbar.tooltip "Barra de formatação">
 <!ENTITY cutToolbarCmd.tooltip "Recortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Colar">
 <!ENTITY printToolbarCmd.label "Imprimir">
-<!ENTITY printToolbarCmd.tooltip "Imprimir a página">
+<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Localizar">
 <!ENTITY findToolbarCmd.tooltip "Localizar e substituir">
 <!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Verificar a ortografia da seleção ou de toda a mensagem">
+<!ENTITY spellToolbarCmd.tooltip "Verificar a ortografia da seleção ou da página inteira">
 <!ENTITY imageToolbarCmd.label "Imagem">
-<!ENTITY imageToolbarCmd.tooltip "Inserir nova imagem ou editar as propriedades da imagem selecionada">
+<!ENTITY imageToolbarCmd.tooltip "Inserir uma nova imagem ou editar as propriedades da imagem selecionada">
 <!ENTITY hruleToolbarCmd.label "Linha H.">
-<!ENTITY hruleToolbarCmd.tooltip "Inserir linha horizontal ou editar as propriedades da linha selecionada">
+<!ENTITY hruleToolbarCmd.tooltip "Inserir uma linha horizontal ou editar as propriedades da linha selecionada">
 <!ENTITY tableToolbarCmd.label "Tabela">
-<!ENTITY tableToolbarCmd.tooltip "Inserir nova tabela ou editar as propriedades da tabela selecionada">
+<!ENTITY tableToolbarCmd.tooltip "Inserir uma nova tabela ou editar as propriedades da tabela selecionada">
 <!ENTITY linkToolbarCmd.label "Link">
 <!ENTITY linkToolbarCmd.tooltip "Inserir um novo link ou editar as propriedades do link selecionado">
 <!ENTITY anchorToolbarCmd.label "Âncora">
-<!ENTITY anchorToolbarCmd.tooltip "Inserir nova âncora nomeada ou editar as propriedades da âncora selecionada">
-<!ENTITY TextColorButton.tooltip "Cor do texto">
-<!ENTITY BackgroundColorButton.tooltip "Cor do plano de fundo">
-<!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
-<!ENTITY HighlightColorButton.tooltip "Cor de realce do texto">
+<!ENTITY anchorToolbarCmd.tooltip "Inserir uma nova âncora nomeada ou editar as propriedades da âncora selecionada">
+<!ENTITY TextColorButton.tooltip "Escolher a cor do texto">
+<!ENTITY BackgroundColorButton.tooltip "Escolher a cor para o plano de fundo">
+<!ENTITY throbber.tooltip "Ir para a página inicial de &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Escolher cor para realçar o texto">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Configurar tamanho da fonte">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir o tamanho da fonte">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir o tamanho da fonte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar o tamanho da fonte">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
-<!ENTITY underlineToolbarCmd.tooltip "Sublinhar">
-<!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover lista com marcadores">
-<!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover lista numerada">
-<!ENTITY outdentToolbarCmd.tooltip "Diminuir recuo (mover para a esquerda)">
-<!ENTITY indentToolbarCmd.tooltip "Recuar texto (mover para a direita)">
-<!ENTITY AlignPopupButton.tooltip "Alinhamento do texto">
-<!ENTITY InsertPopupButton.tooltip "Inserir um link, âncora, imagem, linha horizontal ou tabela">
-<!ENTITY alignLeftButton.tooltip "Alinhar texto na margem esquerda">
-<!ENTITY alignCenterButton.tooltip "Centralizar texto">
-<!ENTITY alignRightButton.tooltip "Alinhar texto na margem direita">
-<!ENTITY alignJustifyButton.tooltip "Alinhar texto nas margens esquerda e direita">
+<!ENTITY underlineToolbarCmd.tooltip "Sublinhado">
+<!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover a lista com marcadores">
+<!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover a lista numerada">
+<!ENTITY outdentToolbarCmd.tooltip "Texto sem recuo (mover à esquerda)">
+<!ENTITY indentToolbarCmd.tooltip "Recuar texto (mover á direita)">
+<!ENTITY AlignPopupButton.tooltip "Escolher o alinhamento do texto">
+<!ENTITY InsertPopupButton.tooltip "Inserir um link, uma âncora, uma imagem, uma linha horizontal ou uma tabela">
+<!ENTITY alignLeftButton.tooltip "Alinhar o texto à margem esquerda">
+<!ENTITY alignCenterButton.tooltip "Centralizar o texto">
+<!ENTITY alignRightButton.tooltip "Alinhar o texto à margem direita">
+<!ENTITY alignJustifyButton.tooltip "Alinhar o texto às margens esquerda e direita">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selecionar">
@@ -336,7 +336,7 @@
 <!ENTITY structChangeTag.accesskey  "A">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "Inserir…">
+<!ENTITY insertTOC.label          "Inserir">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Atualizar">
 <!ENTITY updateTOC.accesskey      "A">

@@ -3,27 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "Smiley">
+<!ENTITY insertSmiley.label "Emojis">
 <!ENTITY insertSmiley.accesskey "m">
 
-<!ENTITY smiley1Cmd.label "Alegre">
-<!ENTITY smiley1Cmd.accesskey "A">
-<!ENTITY smiley1Cmd.tooltip "Inserir um smiley">
+<!ENTITY smiley1Cmd.label "Sorriso">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Inserir um emoji">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley2Cmd.accesskey "T">
-<!ENTITY smiley2Cmd.tooltip "Inserir um smiley triste">
+<!ENTITY smiley2Cmd.tooltip "Inserir um emoji triste">
 <!ENTITY smiley3Cmd.label "Piscadela">
 <!ENTITY smiley3Cmd.accesskey "P">
-<!ENTITY smiley3Cmd.tooltip "Inserir um smiley piscando">
-<!ENTITY smiley4Cmd.label "Mostrando a língua">
-<!ENTITY smiley4Cmd.accesskey "M">
-<!ENTITY smiley4Cmd.tooltip "Inserir um smiley mostrando a língua">
+<!ENTITY smiley3Cmd.tooltip "Inserir um emoji piscando">
+<!ENTITY smiley4Cmd.label "Língua para fora">
+<!ENTITY smiley4Cmd.accesskey "L">
+<!ENTITY smiley4Cmd.tooltip "Inserir um emoji mostrando a língua">
 <!ENTITY smiley5Cmd.label "Rindo">
 <!ENTITY smiley5Cmd.accesskey "R">
-<!ENTITY smiley5Cmd.tooltip "Inserir um smiley rindo">
+<!ENTITY smiley5Cmd.tooltip "Inserir um emoji rindo">
 <!ENTITY smiley6Cmd.label "Envergonhado">
 <!ENTITY smiley6Cmd.accesskey "v">
-<!ENTITY smiley6Cmd.tooltip "Inserir um smiley envergonhado">
+<!ENTITY smiley6Cmd.tooltip "Inserir um emoji envergonhado">
 <!ENTITY smiley7Cmd.label "Indeciso">
 <!ENTITY smiley7Cmd.accesskey "I">
 <!ENTITY smiley7Cmd.tooltip "Inserir um smiley indeciso">
