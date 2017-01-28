@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Substituir tudo">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Fechar">
+<!ENTITY closeButton.accesskey "C">
