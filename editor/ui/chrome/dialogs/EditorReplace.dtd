@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Αντικατάσταση όλων">
 <!ENTITY replaceAllButton.accesskey "λ">
 <!ENTITY closeButton.label "Κλείσιμο">
+<!ENTITY closeButton.accesskey "Κ">
