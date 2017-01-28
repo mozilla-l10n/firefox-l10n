@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Gaž &brandShortName; se startujo:">
 <!ENTITY startupPage.accesskey     "G">
-
+<!ENTITY startupUserHomePage.label "Waš startowy bok pokazaś">
 <!ENTITY startupBlankPage.label    "Prozny bok pokazaś">
-
+<!ENTITY startupPrevSession.label  "Waše wokna a rejtarki wót slědnego raza pokazaś">
 
 <!ENTITY homepage.label            "Startowy bok:">
 <!ENTITY homepage.accesskey        "S">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Wubraś…">
 <!ENTITY chooseFolderMac.accesskey    "u">
-
-
+<!ENTITY alwaysAskWhere.label         "Pśecej se pšašaś, źož dataje maju se składowaś">
+<!ENTITY alwaysAskWhere.accesskey     "P">
 
 <!ENTITY alwaysCheckDefault2.label        "Pśecej kontrolěrowaś, lěc &brandShortName; jo waš standardny wobglědowak">
 <!ENTITY alwaysCheckDefault2.accesskey    "c">

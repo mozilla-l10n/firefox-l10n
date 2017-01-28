@@ -28,7 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Pytaś">
+<!ENTITY     searchFilter.accesskey         "P">
 
 <!ENTITY     button.close.label             "Zacyniś">
 <!ENTITY     button.close.accesskey         "Z">

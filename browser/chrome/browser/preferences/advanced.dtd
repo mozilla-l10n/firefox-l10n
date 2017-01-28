@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Pśecej kursorowe tasty za pógibowanje na bokach wužywaś">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Pśi pisanju tekst pytaś">
+<!ENTITY searchOnStartTyping.accesskey   "P">
+<!ENTITY blockAutoReload.label           "Warnowaś, gaž websedła wopytuju bok dalej pósrědniś abo znowego zacytaś">
+<!ENTITY blockAutoReload.accesskey       "W">
 <!ENTITY useOnScreenKeyboard.label       "Dotykańsku tastaturu pokazaś, jolic trěbne">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
-
-
+<!ENTITY checkUserSpelling.label         "Pśi pisanju pšawopis kontrolěrowaś">
+<!ENTITY checkUserSpelling.accesskey     "P">
 
 <!ENTITY dataChoicesTab.label            "Datowy wuběrk">
 
@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Wowaleńske rozpšawy pomagaju &vendorShortName;, problemy rozwězaś a waš woglědowak stabilnješy a wěsćejišy cyniś">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "b">
 <!ENTITY crashReporterLearnMore.label     "Dalšne informacije">
 
 <!ENTITY networkTab.label                "Seś">
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Webwopśimjeśe a wužywarske daty offline">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Sedłowe daty">
+<!ENTITY clearSiteData.label             "Wšykne daty lašowaś">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Nastajenja…">
+<!ENTITY siteDataSettings.accesskey      "N">
+<!ENTITY siteDataLearnMoreLink.label     "Dalšne informacije">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Aktualizěrowaś">
 
+<!ENTITY updateApplication.label         "Aktualizacije &brandShortName;">
 <!ENTITY updateAuto1.label               "Aktualizacije awtomatiski instalěrowaś (pśiraźijo se: pólěpšona wěstota)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "Za aktualizacijami pytaś, ale do togo se pšašaś, lěc maju se instalěrowaś">
+<!ENTITY updateCheckChoose.accesskey     "Z">
 <!ENTITY updateManual.label              "Nigda za aktualizacijami njepytaś (njedopórucone: wěstotne riziko)">
 <!ENTITY updateManual.accesskey          "e">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
 <!ENTITY useService.accesskey            "S">
 
+<!ENTITY autoUpdateOthers.label          "Awtomatiski aktualizěrowaś">
 <!ENTITY enableSearchUpdate.label        "Pytnice">
 <!ENTITY enableSearchUpdate.accesskey    "P">
 
-
+<!ENTITY offlineStorageNotify.label               "Informěrowaś, gaž websedło co daty za wužywanje offline składowaś">
+<!ENTITY offlineStorageNotify.accesskey           "I">
 <!ENTITY offlineStorageNotifyExceptions.label     "Wuwześa…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "u">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Certifikaty">
 <!ENTITY certPersonal.label              "Napšašowanja">
-
+<!ENTITY certPersonal.description        "Gaž serwer pomina wósobinski certifikat:">
 <!ENTITY selectCerts.auto                "Awtomatiski wubraś">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "s">
+<!ENTITY selectCerts.ask                 "Kuždy raz se pšašaś">
+<!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło">
 <!ENTITY enableOCSP.accesskey            "P">
 <!ENTITY viewCerts.label                 "Certifikaty pokazaś">
