@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
 <!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY searchOnStartTyping.label       "Yazmaya başlar başlamaz arama yap">
+<!ENTITY searchOnStartTyping.accesskey   "z">
+<!ENTITY blockAutoReload.label           "Siteler sayfaları yönlendirmek veya tazelemek istediğinde beni uyar">
+<!ENTITY blockAutoReload.accesskey       "r">
 <!ENTITY useOnScreenKeyboard.label       "Gerektiğinde dokunmatik klavyeyi göster">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "c">
 <!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY checkUserSpelling.label         "Yazarken yazım denetimi yap">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Veri Tercihleri">
 
@@ -52,6 +58,7 @@
 <!ENTITY offlineStorage2.label           "Çevrimdışı web içeriği ve kullanıcı verileri">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Site verileri">
 <!ENTITY clearSiteData.label             "Tüm verileri temizle">
 <!ENTITY clearSiteData.accesskey         "ü">
 <!ENTITY siteDataSettings.label          "Ayarlar…">
@@ -80,6 +87,7 @@
 <!ENTITY updateAuto1.label               "Güncellemeleri otomatik olarak yükle (önerilir: artırılmış güvenlik)">
 <!ENTITY updateAuto1.accesskey           "o">
 <!ENTITY updateCheckChoose.label         "Güncellemeleri denetle ama onları kurma kararını bana bırak">
+<!ENTITY updateCheckChoose.accesskey     "d">
 <!ENTITY updateManual.label              "Güncellemeleri hiçbir zaman denetleme (önerilmez: güvenlik riski)">
 <!ENTITY updateManual.accesskey          "h">
 
@@ -93,6 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey    "A">
 
+<!ENTITY offlineStorageNotify.label               "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
+<!ENTITY offlineStorageNotify.accesskey           "v">
 <!ENTITY offlineStorageNotifyExceptions.label     "Ayrıcalıklar…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
@@ -104,6 +114,7 @@
 
 <!ENTITY certificateTab.label            "Sertifikalar">
 <!ENTITY certPersonal.label              "İstekler">
+<!ENTITY certPersonal.description        "Bir sunucu kişisel sertifikamı istediğinde:">
 <!ENTITY selectCerts.auto                "Birini kendiliğinden seç">
 <!ENTITY selectCerts.auto.accesskey      "B">
 <!ENTITY selectCerts.ask                 "Her seferinde bana sor">
