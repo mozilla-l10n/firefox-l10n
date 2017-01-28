@@ -228,9 +228,9 @@
 <!ENTITY event.description.label                          "Kirjeldus:" >
 <!ENTITY event.description.accesskey                      "j">
 <!ENTITY event.attachments.label                          "Manused:" >
-<!ENTITY event.attachments.accesskey                      "f" >
+<!ENTITY event.attachments.accesskey                      "n" >
 <!ENTITY event.attachments.menubutton.label               "Lisa">
-<!ENTITY event.attachments.menubutton.accesskey           "K">
+<!ENTITY event.attachments.menubutton.accesskey           "L">
 <!ENTITY event.attachments.url.label                      "Veebileht…">
 <!ENTITY event.attachments.url.accesskey                  "V">
 <!ENTITY event.attachments.popup.remove.label             "Eemalda" >
