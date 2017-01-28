@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Hangandi cere">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
 <!ENTITY engine.bookmarks.accesskey "D">
-
-
+<!ENTITY engine.tabs.label2         "Kanjey feeri">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Taariki">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Šennikufaley">

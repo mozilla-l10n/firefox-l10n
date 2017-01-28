@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Zanfun taagey feeri kanji taaga foo ra de">
 <!ENTITY newWindowsAsTabs.accesskey   "a">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "War yaamar waati kaŋ kanji booboyaŋ ga daaba">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "b">
 
+<!ENTITY warnOnOpenManyTabs.label       "War yaamar waati kaŋ kanji booboyaŋ ga feera, nd'i ga &brandShortName; gayandi">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Waati kaŋ ay ga dobu feeri kanji taaga ra, bere a ga dogoo ra">
+<!ENTITY switchLinksToNewTabs.accesskey    "t">
 
 <!ENTITY showTabsInTaskbar.label          "Moo-daaru kanji cebe Windows goymaaboŋ ra">
 <!ENTITY showTabsInTaskbar.accesskey      "m">

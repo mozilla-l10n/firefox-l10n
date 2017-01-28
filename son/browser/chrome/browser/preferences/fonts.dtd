@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Delbu šigira">
 <!ENTITY  useDefaultFontSansSerif.label           "Šigira šerrante">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Moɲey noo fondo ka ngi boŋ šigirawey suuba, manti ay boŋ beene suubari">
+<!ENTITY  allowPagesToUseOwn.accesskey            "M">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Harfu hawyan gundekuna žeena se">
 <!ENTITY languages.customize.Fallback2.label      "Yeebanda nda harfu hawyan:">
