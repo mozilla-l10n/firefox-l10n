@@ -5,7 +5,6 @@
 <!ENTITY aboutAccounts.welcome "Benvenuto in &syncBrand.shortName.label;">
 <!ENTITY aboutAccountsConfig.description "Accedi per sincronizzare schede, segnalibri, password e altri elementi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Inizia">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Stai utilizzando una vecchia versione di Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferenze Sync">
 <!ENTITY aboutAccounts.noConnection.title "Connessione non disponibile">
 <!ENTITY aboutAccounts.noConnection.description "È necessaria una connessione a Internet per effettuare l’accesso.">
