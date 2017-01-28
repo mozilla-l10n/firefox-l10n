@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Overstyr fargene som oppgis av nettsiden med dine valg ovenfor:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Alltid">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Bare ved bruk av høykontrast-temaer">

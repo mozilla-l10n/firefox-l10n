@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Når &brandShortName; starter:">
 <!ENTITY startupPage.accesskey     "N">
-
+<!ENTITY startupUserHomePage.label "Vis startside">
 <!ENTITY startupBlankPage.label    "Vis tom side">
-
+<!ENTITY startupPrevSession.label  "Vis vinduer og faner som ble brukt sist">
 
 <!ENTITY homepage.label            "Startside:">
 <!ENTITY homepage.accesskey        "a">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Bla gjennom …">
 <!ENTITY chooseFolderMac.accesskey    "o">
-
-
+<!ENTITY alwaysAskWhere.label         "Spør deg alltid hvor filer skal lagres">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontroller alltid om &brandShortName; er standardnettleser">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">
