@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "ش">
 
 <!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
-
+<!ENTITY startupPrevSession.label  "اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں">
 
 <!ENTITY homepage.label            "ابتدائی صفحہ:">
 <!ENTITY homepage.accesskey        "ص">
