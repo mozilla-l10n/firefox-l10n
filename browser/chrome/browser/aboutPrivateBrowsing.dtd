@@ -23,6 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Pelayaran Peribadi ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "tidak membuatkan anda anonimus">
 <!ENTITY aboutPrivateBrowsing.note.after                 " dalam internet. Majikan atau penyedia perkhidmatan Internet anda masih boleh tahu halaman yang anda lawati.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Ketahui selanjutnya perihal ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Pelayaran Peribadi">
 
 <!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
 <!ENTITY trackingProtection.description2                 "Ada laman web menggunakan pengesan yang boleh memantau aktiviti anda di Internet. Dengan Perlindungan Penjejakan, Firefox akan menyekat pelbagai jenis pengesan yang boleh mengumpul maklumat tingkah laku pelayaran anda.">
