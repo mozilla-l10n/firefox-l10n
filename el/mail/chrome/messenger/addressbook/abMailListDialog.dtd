@@ -4,20 +4,19 @@
 
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title        "Νέα Λίστα Ταχυδρομείου">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Προσθήκη σε:">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Προσθήκη σε:">
+<!ENTITY addToAddressBook.accesskey     "θ">
 <!ENTITY ListName.label                 "Όνομα Λίστας:">
+<!ENTITY ListName.accesskey             "Λ">
 <!ENTITY ListNickName.label             "Προσωνύμιο λίστας:">
+<!ENTITY ListNickName.accesskey         "ν">
 <!ENTITY ListDescription.label          "Περιγραφή:">
+<!ENTITY ListDescription.accesskey      "ε">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
+<!ENTITY AddressTitle.accesskey         "τ">
 <!ENTITY UpButton.label                 "Προς τα πάνω">
 <!ENTITY DownButton.label               "Προς τα κάτω">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "θ">
-<!ENTITY ListName.accesskey             "Λ">
-<!ENTITY ListNickName.accesskey         "ν">
-<!ENTITY ListDescription.accesskey      "ε">
 
