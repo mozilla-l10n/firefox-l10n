@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Парақ көрсеткен түстерді cенің төмендегі таңдауымен алмастыру:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "л">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Әрқашан">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Тек жоғары контрастты темалармен">

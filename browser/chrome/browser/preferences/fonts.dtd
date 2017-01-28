@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Орнатылғаннан бөлек, веб-сайттарға өздерінің қаріптерін қолдануға рұқсат беру">
+<!ENTITY  allowPagesToUseOwn.accesskey            "О">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Ескірген құрама үшін мәтін кодталуы">
 <!ENTITY languages.customize.Fallback2.label      "Қосалқы мәтін кодталуы:">
