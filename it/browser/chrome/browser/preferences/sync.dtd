@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY setupButton.label "Configurazione di &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "C">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l’accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
-<!ENTITY updatePass.label "Aggiorna">
-<!ENTITY resetPass.label "Reimposta">
-<!ENTITY manageAccount.label "Gestione account">
-<!ENTITY manageAccount.accesskey "a">
-<!ENTITY changePassword2.label "Cambia la password…">
-<!ENTITY myRecoveryKey.label "Chiave di ripristino">
-<!ENTITY resetSync2.label "Ripristina Sync…">
-<!ENTITY pairDevice.label "Collega dispositivo">
-<!ENTITY syncMy.label "Sincronizza">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label2 "Schede aperte">
@@ -26,7 +14,6 @@
 <!ENTITY engine.prefs.accesskey "z">
 <!ENTITY engine.addons.label "Componenti aggiuntivi">
 <!ENTITY engine.addons.accesskey "o">
-<!ENTITY syncDeviceName.label "Nome dispositivo:">
 <!ENTITY fxaSyncDeviceName.label "Nome dispositivo">
 <!ENTITY changeSyncDeviceName.label "Cambia nome dispositivo…">
 <!ENTITY changeSyncDeviceName.accesskey "d">
@@ -34,11 +21,8 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salva">
 <!ENTITY saveChangeSyncDeviceName.accesskey "S">
-<!ENTITY unlinkDevice.label "Scollega questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
-<!ENTITY prefs.ppLink.label "Informativa sulla privacy">
 <!ENTITY fxaPrivacyNotice.link.label "Informativa sulla privacy">
-<!ENTITY determiningAcctStatus.label "Verifica stato dell’account…">
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "non è verificato.">
 <!ENTITY signedInLoginFailure.beforename.label "Accedi per riattivare la connessione">
@@ -55,10 +39,6 @@
 <!ENTITY verify.accesskey "V">
 <!ENTITY forget.label "Dimentica questa email">
 <!ENTITY forget.accesskey "m">
-<!ENTITY welcome.description "Schede, segnalibri, password e altre informazioni accessibili in qualunque situazione utilizzando &brandShortName;.">
-<!ENTITY welcome.signIn.label "Accedi">
-<!ENTITY welcome.createAccount.label "Crea un account">
-<!ENTITY welcome.useOldSync.label "Informazioni per gli utenti che utilizzano una vecchia versione di Sync">
 <!ENTITY signedOut.caption "Il tuo Web, sempre con te">
 <!ENTITY signedOut.description "Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.">
 <!ENTITY signedOut.accountBox.title "Connetti &syncBrand.fxAccount.label;">
