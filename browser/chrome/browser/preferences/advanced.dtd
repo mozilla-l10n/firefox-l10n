@@ -10,9 +10,9 @@
 
 <!ENTITY useCursorNavigation.label       "始终使用方向键在页面内导航">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "直接输入时搜索文本">
+<!ENTITY searchOnStartTyping.label       "直接输入则开始搜索文本">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "网站试图重定向或重新加载页面时警告您">
+<!ENTITY blockAutoReload.label           "网站试图重定向或重新加载页面时警告">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "在需要时显示触摸键盘">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
