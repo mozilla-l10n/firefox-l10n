@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
 <!ENTITY reloadButton.tooltip         "Sali-d asebter amiran">
-<!ENTITY stopCmd.label                "Sḥbes">
+<!ENTITY stopCmd.label                "Seḥbes">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Rken asali n usebter-agi">
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">

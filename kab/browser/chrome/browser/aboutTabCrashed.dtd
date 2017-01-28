@@ -14,7 +14,7 @@
      translation. -->
 
 <!ENTITY tabCrashed.header2 "Ihuh. Akken kan yeɣli yiccer-inek.">
-<!ENTITY tabCrashed.offerHelp "NEzmer ak-d-nefk afus!">
+<!ENTITY tabCrashed.offerHelp "Nezmer ak-d-nefk afus!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Fren &tabCrashed.restoreTab; akken ad d-saliḍ agbur n usebter .">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-saliḍ agbur n usebter.">
 <!ENTITY tabCrashed.requestHelp "Aɣ-d-muddeḍ afus?">

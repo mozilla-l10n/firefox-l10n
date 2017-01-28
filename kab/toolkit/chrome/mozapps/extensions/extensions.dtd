@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "S">
 <!ENTITY toolsMenu.tooltip                    "Ifecka i yizegrar imaṛṛa">
 
+<!ENTITY getThemes.description                "Nadi akken ad tsagneḍ iminig-inek?">
 <!ENTITY getThemes.learnMore                  "Fren seg agimen n isental">
 
 <!ENTITY cmd.back.tooltip                     "Uγal s yiwen n usebter">
