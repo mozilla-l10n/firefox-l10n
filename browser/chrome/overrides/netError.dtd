@@ -200,6 +200,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; не з'єднався з <span id='wrongSystemTime_URL'/>, тому що, схоже, що годинник вашого комп'ютера показує неправильний час і це не дозволяє встановити захищене з'єднання. </p> <p>Ваш комп'ютер показує <span id='wrongSystemTime_systemDate'/>, в той час як повинно бути <span id='wrongSystemTime_actualDate'/>. Для виправлення цієї проблеми змініть налаштування дати й часу.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; не з'єднався з <span id='wrongSystemTimeWithoutReference_URL'/>, тому що, схоже, що годинник вашого комп'ютера показує неправильний час і це не дозволяє встановити захищене з'єднання. </p> <p>Ваш комп'ютер показує <span id='wrongSystemTimeWithoutReference_systemDate'/>. Для виправлення цієї проблеми змініть налаштування дати й часу.</p>">
 
 <!ENTITY certerror.pagetitle1  "Незахищене з’єднання">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Цей сайт використовує HTTP
