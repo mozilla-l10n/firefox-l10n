@@ -23,7 +23,7 @@
 <!ENTITY sendPageCmd.accesskey "E">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Barra de ferramentas">
+<!ENTITY compositionToolbarCmd.label "Barra de redação">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "f">
@@ -35,7 +35,7 @@
 <!ENTITY formatMenu.accesskey "m">
 <!ENTITY grid.label "Posicionar no grid…">
 <!ENTITY grid.accesskey "s">
-<!ENTITY pageProperties.label "Propriedades da página…">
+<!ENTITY pageProperties.label "Titulo e propriedades da página…">
 <!ENTITY pageProperties.accesskey "r">
 
 <!-- Tools menu items -->
@@ -44,7 +44,7 @@
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal">
+<!ENTITY NormalMode.label "Modo de edição normal">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
 <!ENTITY AllTagsModeTab.label "Etiquetas HTML">
