@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
 <!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; ನಲ್ಲಿ ತೆರೆ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_options "ಆಮದು ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
-
+<!ENTITY pref_private_data_openTabs "ತೆರೆದ ಹಾಳೆಗಳು‍">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY pref_private_data_formdata2 "ಇತಿಹಾಸದಿಂದ">
@@ -692,7 +693,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; ಅನ್ನು &formatS2; ಗಾಗಿ ಹುಡುಕಿ">
 
 <!ENTITY searchable_description "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸ">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; ಗೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ;‍">
 <!ENTITY updater_start_select2 "ನಕಲಿಳಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
@@ -700,7 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ಪರಿಷ್ಕರಣೆಯನ್ನು ಹೊಂದಿಸಲು ನಕ್ಲಲಿಳಿಸಿದ ನಂತರ ಸ್ಪರ್ಶಿಸಿ">
 <!ENTITY updater_downloading_retry2 "ಮರುಪ್ರಯತ್ನಕ್ಕೆ ಸ್ಪರ್ಶಿಸಿ">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; ಗೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ;‍">
+<!ENTITY updater_apply_select3 "ಅನುಸ್ಥಾಪಿಸಲು ಸ್ಪರ್ಶಿಸಿ‍">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -833,11 +837,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "ಮುಖ್ಯಾಂಶಗಳು">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "ಪುಟಗುರುತು ಮಾಡಲಾದ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "ಭೇಟಿ ನೀಡಲಾದ‍">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "ವಜಾಗೊಳಿಸು‍">
+<!ENTITY activity_stream_delete_history "ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍">
 
 
