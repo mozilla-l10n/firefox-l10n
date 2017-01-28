@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Simulator Options">
 <!ENTITY simulator_remove "Delete Simulator">
 <!ENTITY simulator_reset "Restore Defaults">
-
+<!ENTITY simulator_name "Name">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Version">
 <!ENTITY simulator_profile "Profile">

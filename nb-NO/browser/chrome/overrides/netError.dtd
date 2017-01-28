@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>">
 
-
+<!ENTITY captivePortal.title "Logg inn på nettverket">
+<!ENTITY captivePortal.longDesc "<p>Dette nettverket kan kreve at du logger inn for å få tilgang til internett.</p>">
 
 <!ENTITY openPortalLoginPage.label "Åpne innloggingsside">
 
