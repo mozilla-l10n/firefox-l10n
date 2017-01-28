@@ -4,13 +4,13 @@
 
 <!ENTITY pref.toolbars.title    "Barra de ferramentas">
 
-<!ENTITY composition.caption    "Exibir estes botões na barra de ferramentas">
+<!ENTITY composition.caption    "Exibir esses botões na barra de ferramentas de composição:">
 
 <!ENTITY new.label              "Novo">
 <!ENTITY open.label             "Abrir">
 <!ENTITY save.label             "Salvar">
 <!ENTITY publish.label          "Publicar">
-<!ENTITY preview.label          "Visualizar">
+<!ENTITY preview.label          "Navegar">
 <!ENTITY cut.label              "Recortar">
 <!ENTITY copy.label             "Copiar">
 <!ENTITY paste.label            "Colar">
@@ -22,10 +22,10 @@
 <!ENTITY link.label             "Link">
 <!ENTITY anchor.label           "Âncora">
 
-<!ENTITY formatting.caption     "Exibir estes botões na barra de formatação">
+<!ENTITY formatting.caption     "Exibir esses botões na barra de ferramentas de formatação:">
 
-<!ENTITY smaller.label          "Diminuir fonte">
-<!ENTITY larger.label           "Aumentar fonte">
+<!ENTITY smaller.label          "Menor">
+<!ENTITY larger.label           "Maior">
 <!ENTITY bold.label             "Negrito">
 <!ENTITY bullets.label          "Marcadores">
 <!ENTITY numbers.label          "Números">
