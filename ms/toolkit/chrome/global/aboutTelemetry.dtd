@@ -76,6 +76,10 @@ Ping ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bebenang Tergantung">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Captured Stacks
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skala
 ">
@@ -88,6 +92,10 @@ Ping ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Keyed Histograms
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Events
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Mudah">
