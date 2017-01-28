@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltaster for å navigere innenfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Søk etter tekst når jeg begynner å skrive">
+<!ENTITY searchOnStartTyping.accesskey   "k">
+<!ENTITY blockAutoReload.label           "Varsle deg når nettsider forsøker å omdirigere eller laste siden på nytt">
+<!ENTITY blockAutoReload.accesskey       "V">
 <!ENTITY useOnScreenKeyboard.label       "Vis et touch-tastatur når nødvendig">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey          "m">
-
-
+<!ENTITY checkUserSpelling.label         "Kontroller staving mens du skriver">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Datainnstillinger">
 
@@ -59,9 +59,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "Innstillinger …">
+<!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataLearnMoreLink.label     "Les mer">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +81,11 @@
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
+<!ENTITY updateApplication.label         "&brandShortName;-oppdateringer">
 <!ENTITY updateAuto1.label               "Automatisk installer oppdateringer (anbefalt: bedre sikkerhet)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "Søk etter oppdateringer, men lar deg velge om du vil installere dem">
+<!ENTITY updateCheckChoose.accesskey     "S">
 <!ENTITY updateManual.label              "Aldri søk etter oppdateringer (ikke anbefalt: sikkerhetsrisiko)">
 <!ENTITY updateManual.accesskey          "r">
 
@@ -94,10 +95,12 @@
 <!ENTITY useService.label                "Bruk en bakgrunnstjeneste for å installere oppdateringer">
 <!ENTITY useService.accesskey            "B">
 
+<!ENTITY autoUpdateOthers.label          "Automatisk oppdatering">
 <!ENTITY enableSearchUpdate.label        "Søkemotorer">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-
+<!ENTITY offlineStorageNotify.label               "Fortell deg når et nettsted ber om å lagre data for frakoblet bruk">
+<!ENTITY offlineStorageNotify.accesskey           "F">
 <!ENTITY offlineStorageNotifyExceptions.label     "Unntak …">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
@@ -109,10 +112,10 @@
 
 <!ENTITY certificateTab.label            "Sertifikater">
 <!ENTITY certPersonal.label              "Forespørsler">
-
+<!ENTITY certPersonal.description        "Når et nettsted ber om ditt personlige sertifikat:">
 <!ENTITY selectCerts.auto                "Velg ett automatisk">
 
-
+<!ENTITY selectCerts.ask                 "Spør deg hver gang">
 
 <!ENTITY enableOCSP.label                "Spør OCSP-servere om å bekrefte gyldigheten til sertifikater">
 <!ENTITY enableOCSP.accesskey            "O">

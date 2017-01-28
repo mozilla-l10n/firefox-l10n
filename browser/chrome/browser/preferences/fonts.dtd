@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Seriffskrift">
 <!ENTITY  useDefaultFontSansSerif.label           "Seriffløs skrift">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Tillat nettsider å velge egne skrifttyper, istedenfor dine valg ovenfor">
+<!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tegnkoding for eldre innhold">
 <!ENTITY languages.customize.Fallback2.label      "Reserve-tegnkoding:">
