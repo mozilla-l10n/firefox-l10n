@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
 <!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupUserHomePage.label "Papar halaman utama anda">
 <!ENTITY startupBlankPage.label    "Papar halaman kosong">
+<!ENTITY startupPrevSession.label  "Papar tetingkap dan tab anda yang terdahulu">
 
 <!ENTITY homepage.label            "Halaman Utama:">
 <!ENTITY homepage.accesskey        "U">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
+<!ENTITY alwaysAskWhere.label         "Sentiasa tanya lokasi menyimpan fail">
+<!ENTITY alwaysAskWhere.accesskey     "S">
 
 <!ENTITY alwaysCheckDefault2.label        "Sentiasa semak samada &brandShortName; adalah pelayar piawai anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

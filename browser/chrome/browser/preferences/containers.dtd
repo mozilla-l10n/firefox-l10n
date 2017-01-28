@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Tambah Penyimpan Baru">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "Keutamaan">
+<!ENTITY removeButton.label   "Alihkeluar">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Pergi ke Privasi">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Nama:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Masukkan nama penyimpan">
 <!ENTITY icon.label           "Ikon:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Warna:">
