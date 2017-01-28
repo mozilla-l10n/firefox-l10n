@@ -178,6 +178,8 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "کیمرہ کی شٹر کی آواز چلائیں">
+
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
