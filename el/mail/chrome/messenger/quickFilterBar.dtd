@@ -159,7 +159,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base1
-         "Φιλτράρισμα των μηνυμάτων #1">
+         "Φιλτράρισμα μηνυμάτων #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->

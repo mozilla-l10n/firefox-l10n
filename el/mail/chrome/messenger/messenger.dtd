@@ -130,7 +130,7 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey "μ">
-<!ENTITY showMessengerToolbarCmd.label "Εργαλειοθήκη αλληλογραφίας">
+<!ENTITY showMessengerToolbarCmd.label "Γραμμή εργαλείων αλληλογραφίας">
 <!ENTITY showMessengerToolbarCmd.accesskey "ο">
 <!ENTITY customizeToolbar.label "Προσαρμογή...">
 <!ENTITY customizeToolbar.accesskey "Π">
