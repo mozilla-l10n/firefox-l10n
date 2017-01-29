@@ -52,6 +52,12 @@
 <!ENTITY offlineStorage2.label           "Contenido web y datos de usuario sin conexión">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Datos del sitio">
+<!ENTITY clearSiteData.label             "Limpiar todos los datos">
+<!ENTITY clearSiteData.accesskey         "L">
+<!ENTITY siteDataSettings.label          "Configuración…">
+<!ENTITY siteDataSettings.accesskey      "C">
+<!ENTITY siteDataLearnMoreLink.label     "Conocer más">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -85,6 +91,8 @@
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
+<!ENTITY offlineStorageNotifyExceptions.label     "Excepciones…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +101,9 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certPersonal.label              "Pedidos">
+<!ENTITY selectCerts.ask                 "Preguntarme cada vez">
+<!ENTITY selectCerts.ask.accesskey       "a">
 <!ENTITY enableOCSP.label                "Solicitar a los servidores respondedores de OCSP que confirmen la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Ver Certificados">

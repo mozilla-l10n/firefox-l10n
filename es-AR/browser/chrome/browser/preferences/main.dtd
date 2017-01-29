@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Al iniciar &brandShortName;:">
 <!ENTITY startupPage.accesskey     "i">
+<!ENTITY startupUserHomePage.label "Mostrar página de inicio">
 <!ENTITY startupBlankPage.label    "Mostrar una página en blanco">
+<!ENTITY startupPrevSession.label  "Mostrar las ventanas y pestañas de la última vez">
 
 <!ENTITY homepage.label            "Página de inicio:">
 <!ENTITY homepage.accesskey        "P">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Seleccionar…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Siempre preguntarme dónde guardar archivos">
+<!ENTITY alwaysAskWhere.accesskey     "S">
 
 <!ENTITY alwaysCheckDefault2.label        "Siempre verificar si &brandShortName; es el navegador predeterminado">
 <!ENTITY alwaysCheckDefault2.accesskey    "g">
