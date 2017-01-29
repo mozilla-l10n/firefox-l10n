@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Συνδρομές σε αρχεία ροής">
+<!ENTITY feedSubscriptions.label     "Συνδρομές σε ροές ειδήσεων">
 <!ENTITY learnMore.label             "Μάθετε περισσότερα για τις ροές">
 
 <!ENTITY feedTitle.label             "Τίτλος:">
