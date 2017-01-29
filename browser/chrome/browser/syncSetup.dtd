@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sioncronaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label     "Leabharmharcanna">
 <!ENTITY engine.bookmarks.accesskey "L">
-
-
+<!ENTITY engine.tabs.label2         "Cluaisíní Oscailte">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Stair">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Focal Faire">
