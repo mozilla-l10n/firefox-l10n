@@ -9,7 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "e">
 <!ENTITY contactPropertiesMenu.label        "Egenskaper för kontakter">
 <!ENTITY contactPropertiesMenu.accesskey    "e">
-<!ENTITY mailingListPropertiesMenu.label    "Egenskaper för mejllista">
+<!ENTITY mailingListPropertiesMenu.label    "Egenskaper för e-postlista">
 <!ENTITY mailingListPropertiesMenu.accesskey "e">
 
 <!ENTITY addressbookPicker.label            "Adressbok:">

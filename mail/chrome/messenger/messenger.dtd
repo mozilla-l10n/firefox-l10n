@@ -565,7 +565,7 @@
 <!ENTITY newMsgButton.tooltip "Skapar ett nytt meddelande">
 <!ENTITY replyButton.tooltip "Svarar avsändaren">
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
-<!ENTITY replyListButton.tooltip "Svara till mailinglistan">
+<!ENTITY replyListButton.tooltip "Svara till e-postlistan">
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
 <!ENTITY forwardAsInline.tooltip "Vidarbefordra markerat meddelande som infogad text">
 <!ENTITY forwardAsAttachment.tooltip "Vidarbefordra markerat meddelande som bilaga">
