@@ -128,6 +128,7 @@
 <!ENTITY showAllBookmarks2.label "Показать все закладки">
 <!ENTITY recentBookmarks.label "Недавно добавленные закладки">
 <!ENTITY otherBookmarksCmd.label "Другие закладки">
+<!ENTITY mobileBookmarksCmd.label "Мобильные закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY showRecentlyBookmarked.label "Показать недавно добавленные закладки">
 <!ENTITY showRecentlyBookmarked.accesskey "к">
@@ -176,6 +177,7 @@
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
 <!ENTITY bookmarksMenuButton.other.label "Другие закладки">
+<!ENTITY bookmarksMenuButton.mobile.label "Мобильные закладки">
 <!ENTITY viewBookmarksSidebar2.label "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
 <!ENTITY containersMenu.label "Контейнеры">

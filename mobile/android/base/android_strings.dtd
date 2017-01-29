@@ -328,10 +328,8 @@
 <!ENTITY doorhanger_login_edit_username_hint "Имя пользователя">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показать пароль">
-<!ENTITY doorhanger_login_edit_toast_error "Не удалось сохранить логин">
 <!ENTITY doorhanger_login_select_message "Скопировать пароль из &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Пароль скопирован в буфер обмена">
-<!ENTITY doorhanger_login_select_toast_copy_error "Не удалось скопировать пароль">
 <!ENTITY doorhanger_login_select_action_text "Выбрать другой логин">
 <!ENTITY doorhanger_login_select_title "Копирование пароля из">
 <!ENTITY pref_magnifying_glass_enabled "Увеличивать небольшие области">
