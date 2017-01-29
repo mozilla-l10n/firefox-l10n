@@ -56,6 +56,8 @@
 <!ENTITY offlineStorage2.label           "Περιεχόμενο εργασίας χωρίς σύνδεση και δεδομένα χρήστη">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Δεδομένα ιστοσελίδας">
+<!ENTITY clearSiteData.label             "Εκκαθάριση όλων των δεδομένων">
 <!ENTITY siteDataSettings.label          "Ρυθμίσεις…">
 <!ENTITY siteDataSettings.accesskey      "ι">
 <!ENTITY siteDataLearnMoreLink.label     "Μάθετε περισσότερα">
@@ -90,6 +92,7 @@
 <!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
 <!ENTITY useService.accesskey            "υ">
 
+<!ENTITY autoUpdateOthers.label          "Αυτόματη ενημέρωση">
 <!ENTITY enableSearchUpdate.label        "Μηχανές αναζήτησης">
 <!ENTITY enableSearchUpdate.accesskey    "η">
 
@@ -104,6 +107,8 @@
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
 <!ENTITY certPersonal.label              "Αιτήματα">
+<!ENTITY selectCerts.auto                "Αυτόματη επιλογή">
+<!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ε">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">

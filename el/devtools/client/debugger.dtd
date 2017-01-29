@@ -73,6 +73,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
+<!ENTITY debuggerUI.showOriginalSource           "Εμφάνιση αρχικών πηγών">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
