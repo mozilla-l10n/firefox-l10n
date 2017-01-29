@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Rub'anikil ri chapoj ruwa">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Chapoj ruwa pa yakwuj">
+<!ENTITY options.screenshot.clipboard.tooltip    "Tayaka' ri chapoj ruwa jumul pa yakwuj">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Titzij ri ruk'oxom ruk'amonel elesäy wachib'äl">
+<!ENTITY options.screenshot.audio.tooltip    "Nutzij ri ruk'oxom ruq'ojom elesäy wachib'äl toq nub'än ri chapoj ruwa">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
