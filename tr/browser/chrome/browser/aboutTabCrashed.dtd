@@ -15,12 +15,12 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Sekmeniz çöktü. :(">
 <!ENTITY tabCrashed.offerHelp "Size yardım edebiliriz!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Sayfayı içeriğini yeniden yüklemek için &tabCrashed.restoreTab; seçeneğini seçin.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Sayfayı içeriğini yeniden yüklemek için &tabCrashed.restoreTab; veya &tabCrashed.restoreAll; seçeneğini seçin.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Sayfa içeriğini yeniden yüklemek için “&tabCrashed.restoreTab;” seçeneğini seçin.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Sayfa içeriğini yeniden yüklemek için “&tabCrashed.restoreTab;” veya “&tabCrashed.restoreAll;” seçeneğini seçin.">
 <!ENTITY tabCrashed.requestHelp "Bize yardım eder misiniz?">
 <!ENTITY tabCrashed.requestHelpMessage "Çökme raporları, sorunları anlamamızı ve &brandShortName; tarayıcısını iyileştirmemizi sağlar.">
-<!ENTITY tabCrashed.requestReport "Bu sekmeyi rapor et">
-<!ENTITY tabCrashed.sendReport2 "Görüntülediğiniz sekmenin çökme raporunu gönderin">
+<!ENTITY tabCrashed.requestReport "Bu sekmeyi rapor edin">
+<!ENTITY tabCrashed.sendReport2 "Görüntülediğim sekmenin çökme raporunu gönder">
 <!ENTITY tabCrashed.commentPlaceholder2 "İsteğe bağlı yorumunuz (Yorumlar herkes tarafından görülebilir.)">
 <!ENTITY tabCrashed.includeURL2 "Sayfa adresini de çökme raporuna ekle">
 <!ENTITY tabCrashed.emailPlaceholder "Buraya e-posta adresinizi yazın">
