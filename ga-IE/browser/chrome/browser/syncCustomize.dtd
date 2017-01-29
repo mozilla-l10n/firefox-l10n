@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "L">
 <!ENTITY engine.history.label             "Stair">
 <!ENTITY engine.history.accesskey         "r">
-
-
+<!ENTITY engine.tabs.label2               "Cluaisíní Oscailte">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Focal Faire">
 <!ENTITY engine.passwords.accesskey       "F">
 <!ENTITY engine.addons.label              "Breiseáin Deisce">
