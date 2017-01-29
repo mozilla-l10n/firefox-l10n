@@ -387,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostrar histórico de pesquisa">
 <!ENTITY pref_import_options "Opções de importação">
 <!ENTITY pref_import_android_summary "Importar marcadores e histórico do navegador nativo">
-<!ENTITY pref_private_data_openTabs "Abrir separadores">
+<!ENTITY pref_private_data_openTabs "Separadores abertos">
 <!ENTITY pref_private_data_history2 "Histórico de navegação">
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
 <!ENTITY pref_private_data_formdata2 "Histórico de formulários">
