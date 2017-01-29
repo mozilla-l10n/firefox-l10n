@@ -50,9 +50,10 @@
 <!ENTITY fxaccount_status_linkprivacy2 "Informativa sulla privacy">
 <!ENTITY fxaccount_status_more "Altro&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnessione…">
-<!ENTITY fxaccount_remove_account_dialog_title "Rimuovere questo account?">
-<!ENTITY fxaccount_remove_account_dialog_message "La sincronizzazione di &brandShortName; per questo account verrà interrotta ma non verrà eliminato alcun dato di navigazione da questo dispositivo.">
-<!ENTITY fxaccount_remove_account_toast "Rimosso account Firefox &formatS;.">
+<!ENTITY fxaccount_remove_account_dialog_title2 "Disconnettersi da Sync?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "I dati relativi alla navigazione rimarranno su questo dispositivo, ma non verranno più sincronizzati con il proprio account.">
+<!ENTITY fxaccount_remove_account_toast2 "Disconnesso account Firefox &formatS;.">
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Disconnetti'>
 <!ENTITY fxaccount_enable_debug_mode "Attiva modalità debug">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
