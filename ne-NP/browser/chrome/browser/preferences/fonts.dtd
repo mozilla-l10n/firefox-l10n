@@ -68,7 +68,7 @@
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।">
 
-<!ENTITY languages.customize.Fallback.auto        "वर्तमान स्थानीयका लागि पूर्वनिर्धारित">
+<!ENTITY languages.customize.Fallback.auto        "वर्तमान लोक्यालका लागि पूर्वनिर्धारित">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "अरबी">

@@ -11,7 +11,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब तपाईँ निजी सञ्झ्यालमा ब्राउज गर्नुहुन्छ, Firefox ले ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "बचत गर्दैन">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "खोलिसकियका पृष्ठहरू">
+<!ENTITY aboutPrivateBrowsing.info.visited               "खोलिसकिएका पृष्ठहरू">
 <!ENTITY aboutPrivateBrowsing.info.searches              "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "कुकीज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फाइलहरू">
