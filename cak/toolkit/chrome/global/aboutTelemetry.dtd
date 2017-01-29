@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Kitzeqeb'axik b'ätz'">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Chapon tzub'aj">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Jotob'enïk">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Taq ruk'u'x Tem K'ulwäch">
 
+<!ENTITY aboutTelemetry.eventsSection "  Taq molojri'ïl">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Relik taq etab'äl">
 

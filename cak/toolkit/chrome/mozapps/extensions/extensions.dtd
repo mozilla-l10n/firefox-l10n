@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "T">
 <!ENTITY toolsMenu.tooltip                    "Taq kisamajib'al konojel ri taq tz'aqat">
 
-
+<!ENTITY getThemes.description                "¿La tajin natojtob'ej nawichinaj ri awokik'amaya'l?">
+<!ENTITY getThemes.learnMore                  "Tacha' chi kikojol jalajöj taq wachinïk.">
 
 <!ENTITY cmd.back.tooltip                     "Titzolïx jun ruxaq">
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
