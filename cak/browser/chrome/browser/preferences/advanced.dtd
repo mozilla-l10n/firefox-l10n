@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Junelïk ke'awokisaj ri taq rupitz'b'al retal ch'oy richin yatok pa taq ruxaq k'amaya'l">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Tikanöx taq rucholajem tzij toq tajin yatz'ib'an">
+<!ENTITY searchOnStartTyping.accesskey   "t">
+<!ENTITY blockAutoReload.label           "Tiya' rutzijol chi re toq jun ruxaq k'amaya'l nrajo' yiruk'waj juk'an chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'.">
+<!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin">
 <!ENTITY useOnScreenKeyboard.accesskey   "p">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
-
-
+<!ENTITY checkUserSpelling.label         "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
+<!ENTITY checkUserSpelling.accesskey     "n">
 
 <!ENTITY dataChoicesTab.label            "Kicha'ik taq tzij">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Rupam chuqa' taq rutzij winäq majun kokem">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Ruxaq k'amaya'l tzij">
+<!ENTITY clearSiteData.label             "Tijosq'ïx ronojel ri tzij">
+<!ENTITY clearSiteData.accesskey         "j">
+<!ENTITY siteDataSettings.label          "Tinuk'…">
+<!ENTITY siteDataSettings.accesskey      "n">
+<!ENTITY siteDataLearnMoreLink.label     "Tetamäx ch'aqa' chik">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
+<!ENTITY updateApplication.label         "&brandShortName; taq k'exoj ruwäch">
 <!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
 <!ENTITY updateAuto1.accesskey           "r">
-
-
+<!ENTITY updateCheckChoose.label         "Kenik'öx ri taq k'exoj ruwäch, xa xe chi tiya' q'ij chi re we ninwajo' chi yenyäk">
+<!ENTITY updateCheckChoose.accesskey     "K">
 <!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
 <!ENTITY updateManual.accesskey          "M">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch">
 <!ENTITY useService.accesskey            "r">
 
+<!ENTITY autoUpdateOthers.label          "Tik'ex pa ruyonil">
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 
-
+<!ENTITY offlineStorageNotify.label               "Taya' rutzijol we k'o jun k'amaya'l nrajo' nuyäk taq tzij richin nrokisaj toq majun okem pa k'amaya'l">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Taq man relik ta…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "e">
 
