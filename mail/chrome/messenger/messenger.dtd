@@ -484,7 +484,7 @@
 <!ENTITY deleteJunk.accesskey "ι">
 <!ENTITY importCmd.label "Εισαγωγή...">
 <!ENTITY importCmd.accesskey "γ">
-<!ENTITY clearRecentHistory.label "Εκκαθάριση Πρόσφατου Ιστορικού…">
+<!ENTITY clearRecentHistory.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey "Ι">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountManagerCmd2.accesskey "θ">
@@ -495,7 +495,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "θ">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Εργαλεία Προγραμματιστή">
+<!ENTITY devtoolsMenu.label "Εργαλεία προγραμματιστή">
 <!ENTITY devtoolsMenu.accesskey "ρ">
 <!ENTITY devToolboxCmd.label "Γραμμή εργαλείων προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "Θ">
@@ -926,7 +926,7 @@
 <!ENTITY openLinkInBrowser.accesskey "δ">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Ολοκληρώθηκε">
+<!ENTITY statusText.label "Τέλος">
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
