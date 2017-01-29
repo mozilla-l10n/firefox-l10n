@@ -32,9 +32,10 @@
 <!ENTITY fxaccount_status_more "Więcej…">
 <!ENTITY fxaccount_remove_account "Rozłącz…">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Usunąć konto Firefoksa?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; przestanie synchronizować dane przeglądarki z tym kontem, ale nie usunie ich z tego urządzenia.">
-<!ENTITY fxaccount_remove_account_toast "Usunięto konto Firefoksa użytkownika &formatS;.">
+<!ENTITY fxaccount_remove_account_dialog_title2 "Rozłączyć z synchronizacji?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Dane przeglądania pozostaną na tym urządzeniu, ale nie będą więcej synchronizowane z kontem Firefoksa.">
+<!ENTITY fxaccount_remove_account_toast2 "Rozłączono konto Firefoksa użytkownika &formatS;.">
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Rozłącz">
 
 <!ENTITY fxaccount_enable_debug_mode "Włącz debugowanie">
 
