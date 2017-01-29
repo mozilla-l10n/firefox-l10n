@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Seriw">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans-serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Tiya' q'ij chi ke ri taq ruxaq tikicha' ri ruwäch kitz'ib', pa ruk'exel ri jun rucha'oj kan">
+<!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Rucholajil ruwäch tzij richin rupam sipan kan">
 <!ENTITY languages.customize.Fallback2.label      "Rucholajil rucholajem tzij, ri kan k'o wi:">

@@ -114,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
 <!ENTITY certPersonal.label              "Taq k'utuj">
-
+<!ENTITY certPersonal.description        "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil ab'i':">
 <!ENTITY selectCerts.auto                "Pa ruyonil ticha' jun">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Junelïk tik'utüx pe">
+<!ENTITY selectCerts.ask.accesskey       "J">
 <!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'">
 <!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Titz'et taq ruwujil b'i'aj">

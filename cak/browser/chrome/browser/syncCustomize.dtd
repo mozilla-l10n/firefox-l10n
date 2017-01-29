@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "e">
 <!ENTITY engine.history.label             "Natab’äl">
 <!ENTITY engine.history.accesskey         "b">
-
-
+<!ENTITY engine.tabs.label2               "Kejaq taq ruwi'">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Ewan taq tzij">
 <!ENTITY engine.passwords.accesskey       "E">
 <!ENTITY engine.addons.label              "Taq rutz'aqat ajch'atal">

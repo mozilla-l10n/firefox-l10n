@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY     window.title                  "Taq nuk'ulem - Ruxaq ruk'amaya'l tzij">
+<!ENTITY     settings.description          "Re taq ruxaq k'amaya'l re' xkik'utuj tayaka' taq rutzij re ruxaq k'amaya'l re pa rujolom a kematz'ib'. Yatikïr najikib'a' achike taq ruxaq k'amaya'l yetikïr nikiyäk taq rutzij ruxaq k'amaya'l. Ri taq rutzij ruxaq k'amaya'l e jumej ok ruma ri' tikirel yeyujtäj el pa kiyonil.">
+<!ENTITY     hostCol.label                 "Ruxaq k'amaya'l">
+<!ENTITY     statusCol.label               "Rub'eyal">
+<!ENTITY     usageCol.label                "Yakoj">
+<!ENTITY     search.label                  "Tikanöx:">
+<!ENTITY     search.accesskey              "T">

@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Kejalwachïx ri taq b'onil ya'on rutzijol richin re ruxaq rik'in ri nucha'oj nib'anon chik:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "K">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Jantape'">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Xa xe q'equ'm taq chumal kichin taq ruwachinel">

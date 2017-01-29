@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Toq xtitikirisäx &brandShortName;:">
 <!ENTITY startupPage.accesskey     "x">
-
+<!ENTITY startupUserHomePage.label "Tik'ut pe ri tikirib'äl ruxaq ruk'amaya'l">
 <!ENTITY startupBlankPage.label    "Tik'ut pe jun kowöl ruxaq">
-
+<!ENTITY startupPrevSession.label  "Kek'ut ri taq rutzuwäch chuqa' taq ruwi' ruk'isib'äl rumolojri'ïl">
 
 <!ENTITY homepage.label            "Tikirib'äl ruxaq:">
 <!ENTITY homepage.accesskey        "r">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "n">
 <!ENTITY chooseFolderMac.label        "Ticha'…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-
-
+<!ENTITY alwaysAskWhere.label         "Jantape' tik'utüx pe akuchi' yeyak wi kan ri taq yakb'äl">
+<!ENTITY alwaysAskWhere.accesskey     "J">
 
 <!ENTITY alwaysCheckDefault2.label        "Junelïk tinik'öx we &brandShortName; ja ri' ri awokik'amaya'l">
 <!ENTITY alwaysCheckDefault2.accesskey    "e">

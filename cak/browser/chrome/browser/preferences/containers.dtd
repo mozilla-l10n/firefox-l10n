@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Titz'aqatisäx k'ak'a' k'wayöl">
 <!ENTITY addButton.accesskey  "t">
-
-
+<!ENTITY preferencesButton.label "Taq cha'oj">
+<!ENTITY removeButton.label   "Tiyuj">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Titzolin pa Ichinanem">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "B'i'aj:">
 <!ENTITY name.accesskey       "B">
-
+<!ENTITY name.placeholder     "Tatz'ib'aj jun rub'i' k'wayöl">
 <!ENTITY icon.label           "Wachib'äl:">
 <!ENTITY icon.accesskey       "W">
 <!ENTITY color.label          "B'onil:">
