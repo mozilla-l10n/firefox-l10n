@@ -164,14 +164,6 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Изменить состояние">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Изменить время свободен/занят">
 
-<!-- Counter box -->
-<!ENTITY counter.button.proposal.label                    "Использовать предложение">
-<!ENTITY counter.button.proposal.accesskey                "ж">
-<!ENTITY counter.button.proposal.tooltip                  "Использовать в форме данные предложения.">
-<!ENTITY counter.button.original.label                    "Использовать оригинальные данные">
-<!ENTITY counter.button.original.accesskey                "л">
-<!ENTITY counter.button.original.tooltip                  "Использовать в форме оригинальные данные.">
-
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Название:" >
 <!ENTITY event.title.textbox.accesskey                    "з">
