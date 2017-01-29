@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindowAdd.title        "Ny mejllista">
+<!ENTITY mailListWindowAdd.title        "Ny e-postlista">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Lägg till i: ">
 <!ENTITY addToAddressBook.accesskey     "L">
-<!ENTITY ListName.label                 "Namn på utskickslistan: ">
+<!ENTITY ListName.label                 "Listnamn: ">
 <!ENTITY ListName.accesskey             "N">
-<!ENTITY ListNickName.label             "Smeknamn på utskickslistan: ">
+<!ENTITY ListNickName.label             "Smeknamn på listan: ">
 <!ENTITY ListNickName.accesskey         "S">
 <!ENTITY ListDescription.label          "Beskrivning: ">
 <!ENTITY ListDescription.accesskey      "B">

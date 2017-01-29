@@ -14,7 +14,7 @@
 <!ENTITY newContact.label                               "Ny kontakt…">
 <!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Ny utskickslista…">
+<!ENTITY newListCmd.label                               "E-postlista…">
 <!ENTITY newListCmd.accesskey                           "u">
 <!ENTITY newAddressBookCmd.label                        "Ny adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
@@ -83,7 +83,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "e">
 <!ENTITY contactPropertiesMenu.label                    "Egenskaper för kontakter">
 <!ENTITY contactPropertiesMenu.accesskey                "e">
-<!ENTITY mailingListPropertiesMenu.label                "Egenskaper för mejllista">
+<!ENTITY mailingListPropertiesMenu.label                "Egenskaper för e-postlista">
 <!ENTITY mailingListPropertiesMenu.accesskey            "e">
 
 <!-- View Menu -->
@@ -138,7 +138,7 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
-<!ENTITY newlistButton.label                            "Ny utskickslista">
+<!ENTITY newlistButton.label                            "Ny lista">
 <!ENTITY newlistButton.accesskey                        "u">
 <!ENTITY showAsDefault.label                            "Standardstartkatalog">
 <!ENTITY showAsDefault.accesskey                        "S">
@@ -162,11 +162,11 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt">
-<!ENTITY newlistButton.tooltip                          "Skapa en utskickslista">
+<!ENTITY newlistButton.tooltip                          "Skapa en ny lista">
 <!ENTITY editPropertiesButton.tooltip                   "Redigera markerad post">
 <!ENTITY editAbPropertiesButton.tooltip                 "Redigera egenskaperna för den valda adressboken">
 <!ENTITY editContactPropertiesButton.tooltip            "Redigera den valda kontakten">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Redigera den valda mejllistan">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Redigera vald e-postlista">
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
 <!ENTITY deleteButton2.tooltip                          "Ta bort markerad post">
