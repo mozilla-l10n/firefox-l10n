@@ -9,7 +9,7 @@
 <!ENTITY identityListDesc.label "Ρύθμιση αυτής της ταυτότητας:">
 
 <!ENTITY settingsTab.label       "Ρυθμίσεις">
-<!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; Φάκελοι">
+<!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; φάκελοι">
 <!ENTITY addressingTab.label    "Σύνταξη &amp; Διευθυνσιοδότηση">
 
 <!ENTITY publicData.label        "Δημόσια Δεδομένα">
