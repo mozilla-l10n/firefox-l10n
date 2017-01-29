@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು ಹೊಸ Window ಯಲ್ಲಿ ತೆರೆಯಿರಿ">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "ಕೊಂಡಿಯನ್ನು ಹೊಸ ಕಂಟೇನರ್ ಟ್ಯಾಬ್‌‍ನಲ್ಲಿ ತೆರೆಯಿರಿ‍">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "ಕೇವಲ ಈ ಚೌಕಟ್ಟನ್ನು ಮಾತ್ರ ತೋರಿಸು">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -770,7 +770,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "ಪ್ರತಿ ಮಾಡು">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "ಎಲ್ಲವನ್ನೂ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ತೆರೆ">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">

@@ -23,9 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ಅಂತರಜಾಲದಲ್ಲಿ ನೀವು ಅನಾಮಧೇಯರಾಗಿ">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಿಮ್ಮ ಉದ್ಯೋಗದಾತರು ಅಥವಾ ನಿಮಗೆ ಅಂತರಜಾಲವನ್ನು ಸೇವೆಯನ್ನು ಒದಗಿಸುವವರು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟವನ್ನು ಗಮನಿಸುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.">
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "ಇದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
 <!ENTITY trackingProtection.description2                 "ಕೆಲವು ಜಾಲತಾಣಗಳು ಅಂತರಜಾಲದಲ್ಲಿ ನಿಮ್ಮ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಲು ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು ಬಳಸುತ್ತವೆ. ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯೊಂದಿಗೆ, ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ವರ್ತನೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವ ಹಲವಾರು ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು Firefox ನಿರ್ಬಂಧಿಸುತ್ತದೆ.">
