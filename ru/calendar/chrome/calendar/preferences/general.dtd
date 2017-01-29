@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Общедоступность" >
 <!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
 <!ENTITY pref.systemcolors.accesskey "п">
+
+<!ENTITY pref.eventsandtasks.label "События и задачи" >
+<!ENTITY pref.editInTab.label "Редактировать события и задачи во вкладке, а не в диалоговом окне." >
+<!ENTITY pref.editInTab.accesskey "а">
