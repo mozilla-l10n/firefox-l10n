@@ -40,7 +40,7 @@
 <!ENTITY  adminDisabled.warning.label     "Njeje móžno, za aktualizacijemi za inkompatibelne přidatki pruwować, dokelž instalacija softwary za &brandShortName; bu znjemóžnjena. Prošu stajće so ze swojim systemowym administratorom za podpěru do zwiska.">
 
 <!ENTITY  versioninfo.wizard.title        "Za kompatibelnosću přidatkow pruwować">
-<!ENTITY  versioninfo.top.label           "Kompatiblenosć wašich přidatkow z tutej wersiju &brandShortName; so přepruwuje.">
+<!ENTITY  versioninfo.top.label           "Kompatibelnosć wašich přidatkow z tutej wersiju &brandShortName; so přepruwuje.">
 <!ENTITY  versioninfo.waiting             "To móže někotre mjeńšiny trać…">
 
 <!ENTITY  installerrors.wizard.title      "Problemy při instalowanju aktualizacijow">
