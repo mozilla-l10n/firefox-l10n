@@ -7,7 +7,7 @@
 <!ENTITY crashesSubmitted.label     "क्र्यास प्रतिवेदनहरू पेश गरियो">
 <!ENTITY id.heading                 "प्रतिवेदन आईडी">
 <!ENTITY dateCrashed.heading        "मिति टुटफुट भयो">
-<!ENTITY dateSubmitted.heading      "मिति पेश गरियो">
+<!ENTITY dateSubmitted.heading      "मिति पेस गरियो">
 <!ENTITY noReports.label            "कुनै पनि क्र्यास प्रतिवेदनहरू पेश गारिएको छैन।">
-<!ENTITY noConfig.label             "यो अनुप्रयोग क्र्यास प्रतिवेदन प्रदर्शित गर्नको लागि कन्फिगर गरिएको छैन ।प्राथमिकतालाई <code>breakpad.reportURL</code> सेट गर्नुपर्छ।">
+<!ENTITY noConfig.label             "यो अनुप्रयोग क्र्यास प्रतिवेदन प्रदर्शित गर्नको लागि कन्फिगर गरिएको छैन । प्राथमिकतालाई <code>breakpad.reportURL</code> सेट गर्नुपर्छ।">
 <!ENTITY clearAllReports.label      "सबै प्रतिवेदनहरू हटाउनुहोस्">
