@@ -43,11 +43,11 @@
 ">
 
 <!ENTITY captivePortal.title "Вход в сеть">
-<!ENTITY captivePortal.longDesc "
-<p>Эта сеть может потребовать от вас произвести авторизацию для получения доступа в Интернет.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>Вы должны войти в эту сеть перед тем как сможете получить доступ в Интернет.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Открыть страницу входа">
+<!ENTITY openPortalLoginPage.label2 "Открыть страницу входа в сеть">
 
 <!ENTITY malformedURI.title "Формат адреса неверен">
 <!ENTITY malformedURI.longDesc "
