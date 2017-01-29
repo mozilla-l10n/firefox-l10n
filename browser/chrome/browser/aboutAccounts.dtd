@@ -12,4 +12,4 @@
 <!ENTITY aboutAccounts.noConnection.description "साइन इन गर्नको निम्ति तपाईँ इन्टरनेटसँग जडित हुनुपर्दछ ।">
 <!ENTITY aboutAccounts.noConnection.retry "पुनःप्रयास गर्नुहोस्">
 <!ENTITY aboutAccounts.badConfig.title "खराब कन्फिगरेसन">
-<!ENTITY aboutAccounts.badConfig.description "तपाईंको Firefox खाता सर्भर कन्फिगरेसन निर्धारण गर्न सकिएन। कृपया पुनः प्रयास गर्नुहोस्।">
+<!ENTITY aboutAccounts.badConfig.description "तपाईँको Firefox खाता सर्भर कन्फिगरेसन निर्धारण गर्न सकिएन। कृपया पुनः प्रयास गर्नुहोस्।">

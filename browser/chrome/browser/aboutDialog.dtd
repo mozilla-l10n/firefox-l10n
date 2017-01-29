@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; नयाँ संस्करणमा छ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू अक्षम पारिएको छ">
+<!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; लाई अर्को सत्रले अद्यावधिक गर्दैछ">
 <!ENTITY update.restarting          "पुनः सुरू गरिँदै…">
@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरु अद्यावधिकहरू गर्न सक्नुहुन्न।">
+<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरू अद्यावधिकहरू गर्न सक्नुहुन्न।">
 <!ENTITY update.unsupported.linkText "अझ जान्नुहोस्">
 <!ENTITY update.unsupported.end      "‍">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
