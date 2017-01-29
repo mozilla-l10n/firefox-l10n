@@ -17,7 +17,7 @@
 <!ENTITY editContactPanelCancel.label "Ακύρωση">
 <!ENTITY editContactPanelCancel.accesskey "κ">
 
-<!ENTITY editContactPanelDone.label "Ολοκληρώθηκε">
+<!ENTITY editContactPanelDone.label "Τέλος">
 <!ENTITY editContactPanelDone.accesskey "Ο">
 
 <!ENTITY contactMoveDisabledWarning.description "Δεν μπορείτε να τροποποιήσετε αυτό το ευρετήριο διευθύνσεων επειδή αυτή η επαφή είναι σε λίστα αλληλογραφίας.">
