@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "成功！">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; 蓄势待发。">
 
-<!ENTITY welcomeback2.label.restoreAll  "恢复所有窗口和标签页">
-<!ENTITY welcomeback2.label.restoreSome "只恢复您想要的窗口和标签页">
+<!ENTITY welcomeback2.label.restoreAll  "恢复原来的所有窗口和标签页">
+<!ENTITY welcomeback2.label.restoreSome "只恢复您想保留的窗口和标签页">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -44,8 +44,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "您的附加组件和个性化调整已被移除，您的浏览器设置也已被恢复到其默认值。如果这没有解决您的问题，">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "您的附加组件和个性化调整已经移除，您的浏览器设置也已恢复到默认值。如果这没有解决您的问题，">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "了解您还可以做些什么。">
+<!ENTITY welcomeback2.link.pageInfo2        "了解您还可以做什么。">
 
