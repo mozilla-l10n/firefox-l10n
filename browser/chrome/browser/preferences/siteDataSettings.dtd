@@ -6,3 +6,5 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Depolama">
+<!ENTITY     search.label                  "Arama:">
+<!ENTITY     search.accesskey              "A">
