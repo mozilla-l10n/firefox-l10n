@@ -17,9 +17,9 @@
 
 <!ENTITY tabCrashed.requestHelp "ನೀವು ನಮಗೆ ಸಹಾಯ ಮಡುತ್ತೀರಾ?">
 
+<!ENTITY tabCrashed.requestReport "ಈ ಟ್ಯಾಬ್‌ಅನ್ನು ವರದಿಮಾಡು">
 
-
-
+<!ENTITY tabCrashed.commentPlaceholder2 "ಕಡ್ಡಾಯವಲ್ಲದ ಪ್ರತಿಕ್ರಿಯೆ‍ಗಳು (ಪ್ರತಿಕ್ರಿಯೆ‍ಗಳು ಸಾರ್ವಜನಿಕವಾಗಿ ಕಾಣಿಸುತ್ತವೆ)‍">
 
 <!ENTITY tabCrashed.emailPlaceholder "ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಇಲ್ಲಿ ದಾಖಲಿಸಿ">
 <!ENTITY tabCrashed.emailMe "ಇನ್ನಷ್ಟು ಮಾಹಿತಿ ಲಭ್ಯವಾದೊಡನೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡು">
