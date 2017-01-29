@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Taq rucha'oj ojqanel">
 <!ENTITY simulator_remove "Tiyuj el ri ojqanel">
 <!ENTITY simulator_reset "Ke'atzolij ri taq wachinel e k'o wi">
-
+<!ENTITY simulator_name "B'i'aj">
 <!ENTITY simulator_software "Kema'">
 <!ENTITY simulator_version "Ruwäch">
 <!ENTITY simulator_profile "Ruwäch b'i'aj">
