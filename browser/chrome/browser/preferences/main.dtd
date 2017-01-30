@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "แสดงหน้าแรกของคุณ">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
-<!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งสุดท้าย">
+<!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด">
 
 <!ENTITY homepage.label            "หน้าแรก:">
 <!ENTITY homepage.accesskey        "น">
