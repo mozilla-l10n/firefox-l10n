@@ -48,11 +48,11 @@
 ">
 
 <!ENTITY captivePortal.title "Se connecter au réseau">
-<!ENTITY captivePortal.longDesc "
-<p>Ce réseau nécessite peut-être que vous vous connectiez à un compte pour utiliser Internet.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>Ce réseau nécessite que vous vous connectiez à un compte pour utiliser Internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Ouvrir la page de connexion">
+<!ENTITY openPortalLoginPage.label2 "Ouvrir la page de connexion du réseau">
 
 <!ENTITY malformedURI.title "L’adresse n’est pas valide">
 <!ENTITY malformedURI.longDesc "
