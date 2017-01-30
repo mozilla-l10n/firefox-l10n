@@ -694,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "&brandShortName; என்பதற்கு புதுப்பிப்பு கிடைக்கிறது">
+<!ENTITY updater_start_title2 "&brandShortName;விற்கு புதுப்பிப்பு கிடைக்கிறது">
 <!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
@@ -702,6 +702,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
+<!ENTITY updater_apply_title3 "&brandShortName; என்பதற்கு புதுப்பிப்புகள் பதிவிறக்கப்பட்டது">
 <!ENTITY updater_apply_select3 "நிறுவுவதற்குத் தொடவும்">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
