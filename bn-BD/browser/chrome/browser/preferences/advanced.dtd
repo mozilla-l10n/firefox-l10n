@@ -98,8 +98,8 @@
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
 
-<!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম… (X)">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "X">
+<!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "নিম্নলিখিত ওয়েবসাইট অফলাইনে ব্যবহারের তথ্য সংরক্ষণের জন্য অনুমোদিত:">
 <!ENTITY offlineAppsList.height          "7em">
