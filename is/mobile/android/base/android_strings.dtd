@@ -706,7 +706,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "Snertu til að reyna aftur">
 
 <!ENTITY updater_apply_title3 "Uppfærsla höluð niður fyrir &brandShortName;">
-
+<!ENTITY updater_apply_select3 "Snerta til að setja upp">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Hafna">
 <!ENTITY activity_stream_delete_history "Eyða úr ferli">
 
-
+<!ENTITY activity_stream_welcome_title "Velkomin(n) - þínir hápunktar">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; stofnar nú hápunkta fyrir það sem þú ert búin(n) að finna á vefnum svo þú getir aftur fundið góðar greinar, myndbönd, bókamerki og aðrar síður.">
