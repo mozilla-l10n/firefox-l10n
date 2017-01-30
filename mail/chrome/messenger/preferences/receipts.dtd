@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label           "Μετά την επιστροφή μιας βεβαίωσης">
 <!ENTITY leaveIt.label                 "Να παραμένει στο φάκελο 'Εισερχόμενα'">
 <!ENTITY leaveIt.accesskey             "ι">
-<!ENTITY moveToSent.label              "Να μεταφέρεται στο φάκελο 'Απεσταλμένα'">
+<!ENTITY moveToSent.label              "Μεταφορά στο φάκελο &quot;Απεσταλμένα&quot;">
 <!ENTITY moveToSent.accesskey          "μ">
 <!ENTITY requestMDN.label              "Κατά τη λήψη ενός μηνύματος για το οποίο ο αποστολέας ζήτησε βεβαίωση (MDN):">
 <!ENTITY never.label                   "Να μην επιστρέφεται ποτέ βεβαίωση">

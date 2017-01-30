@@ -16,7 +16,7 @@
 <!ENTITY directoryLogin.accesskey          "ι">
 <!ENTITY General.tab                       "Γενικά">
 <!ENTITY Offline.tab                       "Χωρίς σύνδεση">
-<!ENTITY Advanced.tab                      "Ειδικές επιλογές">
+<!ENTITY Advanced.tab                      "Για προχωρημένους">
 <!ENTITY portNumber.label                  "Αριθμός θύρας:">
 <!ENTITY portNumber.accesskey              "θ">
 <!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
