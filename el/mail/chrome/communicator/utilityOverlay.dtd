@@ -38,7 +38,7 @@
 
 <!ENTITY viewMenu.label          "Προβολή">
 <!ENTITY viewMenu.accesskey        "ρ">
-<!ENTITY viewToolbarsMenu.label        "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.label        "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenu.accesskey      "γ">
 <!ENTITY showTaskbarCmd.label          "Γραμμή εργαλείων κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey        "σ">
