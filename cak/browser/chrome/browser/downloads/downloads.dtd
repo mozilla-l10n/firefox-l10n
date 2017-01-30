@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "R">
 <!ENTITY cmd.resume.label                 "Tisamajïx chik qa">
 <!ENTITY cmd.resume.accesskey             "T">
-<!ENTITY cmd.cancel.label                 "&amp;Tiq'at">
+<!ENTITY cmd.cancel.label                 "Tiq'at">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
