@@ -105,7 +105,6 @@
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Filtriar scripts">
 <!ENTITY debuggerUI.searchFile.key       "P">
-<!ENTITY debuggerUI.searchFile.altkey    "Aceutar">
 <!ENTITY debuggerUI.searchFile.accesskey "s">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
