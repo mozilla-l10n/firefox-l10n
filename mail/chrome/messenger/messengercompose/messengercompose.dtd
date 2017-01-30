@@ -18,7 +18,7 @@
 <!ENTITY newContact.accesskey "φ">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
-<!ENTITY attachFileCmd.label "Αρχείο(α)...">
+<!ENTITY attachFileCmd.label "Αρχείο(α)…">
 <!ENTITY attachFileCmd.accesskey "ρ">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
@@ -106,7 +106,7 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Προβολή">
 <!ENTITY viewMenu.accesskey "β">
-<!ENTITY viewToolbarsMenuNew.label "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenuNew.label "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenuNew.accesskey "θ">
 <!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey "μ">
@@ -216,7 +216,7 @@
 <!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου του μηνύματος">
 <!ENTITY statusLanguageText.tooltip "Γλώσσα ορθογραφικού ελέγχου">
-<!ENTITY saveButton.tooltip "Αποθήκευση του μηνύματος">
+<!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
 <!ENTITY copyButton.tooltip             "Αντιγραφή">
 <!ENTITY pasteButton.tooltip            "Επικόλληση">

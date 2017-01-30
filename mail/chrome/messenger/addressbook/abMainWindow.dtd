@@ -89,7 +89,7 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Προβολή">
 <!ENTITY viewMenu.accesskey                             "β">
-<!ENTITY viewToolbarsMenu.label                         "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.label                         "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenu.accesskey                     "γ">
 <!ENTITY menubarCmd.label                               "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
