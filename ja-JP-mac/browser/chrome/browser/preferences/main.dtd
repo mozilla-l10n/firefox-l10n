@@ -31,12 +31,12 @@
 <!ENTITY alwaysAsk.label              "ファイルごとに保存先を指定する">
 <!ENTITY alwaysAsk.accesskey          "A">
 
-<!ENTITY alwaysCheckDefault2.label        "&brandShortName; がデフォルト Web ブラウザか確認する">
+<!ENTITY alwaysCheckDefault2.label        "&brandShortName; がデフォルト Web ブラウザーか確認する">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "デフォルト Web ブラウザにする">
+<!ENTITY setAsMyDefaultBrowser2.label     "デフォルト Web ブラウザーにする">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; はデフォルト Web ブラウザに設定されています">
-<!ENTITY isNotDefault.label               "&brandShortName; はデフォルト Web ブラウザに設定されていません">
+<!ENTITY isDefault.label                  "&brandShortName; はデフォルト Web ブラウザーに設定されています">
+<!ENTITY isNotDefault.label               "&brandShortName; はデフォルト Web ブラウザーに設定されていません">
 
 <!ENTITY separateProfileMode.label        "&brandShortName; と Firefox の同時起動を許可する">
 <!ENTITY useFirefoxSync.label             "ヒント: プロファイルを分離します。データを共有するには Sync を使用します。">
