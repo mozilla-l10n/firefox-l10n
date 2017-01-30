@@ -23,6 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Privātā pārlūkošana ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nepadara jūs anonīmus">
 <!ENTITY aboutPrivateBrowsing.note.after                 " internetā. Ņemiet vērā, ka jūsu darba devējs vai interneta pakalpojumu sniedzējs joprojām var noteikt lapas, kuras apmeklējat.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Uzziniet vairāk par ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privātā pārlūkošana">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Izsekošanas aizsardzība">
 <!ENTITY trackingProtection.description2                 "Dažas lapas izmanto sekotājus, kas var izsekot jūsu aktivitātei internetā. Ar izsekošanas aizsardzību Firefox bloķēs daudzus no sekotājiem, kas vāc informāciju par jūsu aktivitātēm internetā.">

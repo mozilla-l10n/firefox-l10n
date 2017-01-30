@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Paziņot man kad ir pieejama papildu informācija">
 <!ENTITY tabCrashed.reportSent "Avārijas ziņojums ir nosūtīts, paldies, ka palīdzat uzlabot &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Ziņot par fona cilnēm">
+<!ENTITY tabCrashed.autoSubmit2 "Atjauniniet iestatījumus, lai automātiski nosūtītu avāriju ziņojumus, iekļaujot avāriju ziņojumus no fona cilnēm šajā un nākotnes sesijās">
