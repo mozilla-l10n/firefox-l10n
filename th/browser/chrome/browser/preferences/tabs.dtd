@@ -12,6 +12,8 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 
+<!ENTITY switchLinksToNewTabs.label        "เมื่อคุณเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "แสดงตัวอย่างแท็บในแถบงาน Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "บ">
