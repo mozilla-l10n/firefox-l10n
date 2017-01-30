@@ -20,15 +20,16 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY button.addFeed.label        "ಸೇರಿಸು(A)‍">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.updateFeed.label     "ಅಪ್‌ಡೇಟ್(U)‍">
+<!ENTITY button.updateFeed.accesskey "U">
+<!ENTITY button.removeFeed.label     "ತೆಗೆದುಹಾಕು(R)‍">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label     "ಆಮದು(I)‍">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "ರಫ್ತು‍">
+<!ENTITY button.exportOPML.accesskey "x">
 
 
 
