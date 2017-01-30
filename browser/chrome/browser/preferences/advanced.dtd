@@ -58,9 +58,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "ಸಿದ್ಧತೆಗಳು...">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -80,10 +80,11 @@
 
 <!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
 
+<!ENTITY updateApplication.label         "&brandShortName; ಅಪ್‌ಡೇಟ್‌ಗಳು:">
 <!ENTITY updateAuto1.label               "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸು (ಸಲಹೆ ಮಾಡಲಾಗಿದೆ: ಉತ್ತಮಗೊಳಿಸಲಾದ ಸುರಕ್ಷತೆ)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವದನ್ನು ನಿರ್ಧರಿಸಲು ನಿಮಗೆ ಬಿಡುತ್ತದೆ">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಎಂದಿಗೂ ಪರಿಶೀಲಿಸಬೇಡ (ಸಲಹೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಸುರಕ್ಷತಾ ಅಪಾಯ)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -93,10 +94,12 @@
 <!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡು">
 <!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-
+<!ENTITY offlineStorageNotify.label               "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಿಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನಿಮಗೆ ತಿಳಿಸು‍ತ್ತದೆ">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "ವಿನಾಯಿತಿಗಳು…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -108,11 +111,11 @@
 
 <!ENTITY certificateTab.label            "ಪ್ರಮಾಣಪತ್ರಗಳು">
 <!ENTITY certPersonal.label              "ಮನವಿಗಳು">
-
+<!ENTITY certPersonal.description        "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ:‍">
 <!ENTITY selectCerts.auto                "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S‍">
+<!ENTITY selectCerts.ask                 "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು">
+<!ENTITY selectCerts.ask.accesskey       "A‍">
 <!ENTITY enableOCSP.label                "ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ತೋರಿಸು">
