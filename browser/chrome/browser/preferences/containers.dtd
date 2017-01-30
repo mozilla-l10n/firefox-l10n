@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Pridať nový kontajner">
 <!ENTITY addButton.accesskey  "P">
+<!ENTITY preferencesButton.label "Nastavenia">
+<!ENTITY removeButton.label   "Odstrániť">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Prejsť späť na Súkromie">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Názov:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Zadajte názov kontajnera">
 <!ENTITY icon.label           "Ikona:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Farba:">
