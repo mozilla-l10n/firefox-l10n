@@ -109,5 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY  browserContainersEnabled.label        "ಕಂಟೈನರ್ ಟ್ಯಾಬ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಿ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-
-
+<!ENTITY  browserContainersSettings.label        "ಸಿದ್ಧತೆಗಳು…‍">
+<!ENTITY  browserContainersSettings.accesskey    "i">

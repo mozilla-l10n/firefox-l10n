@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY engine.bookmarks.label     "ಪುಟಗುರುತುಗಳು">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳು">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ಇತಿಹಾಸ">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "ಗುಪ್ತಪದಗಳು">
@@ -36,13 +36,15 @@
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "ಸಾಧನದ ಹೆಸರು:‍">
 <!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName.label "ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ...‍">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "ರದ್ದು ಮಾಡು‍">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "ಉಳಿಸು‍">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "ಈ ಸಾಧನದಿಂದ ಸಂಪರ್ಕ ತಪ್ಪಿಸಿ">
 <!-- Footer stuff -->
 
@@ -70,17 +72,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "‌">
 
 <!ENTITY notSignedIn.label           "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
-
-
+<!ENTITY signIn.label                "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
-
-
-
-
-
-
-
-
+<!ENTITY verifiedManage.label        "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು‍">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…‍">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY welcome.description "ನೀವು &brandShortName; ಅನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಬಳಸುತ್ತೀರೊ ಅಲ್ಲೆಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳು, ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಹಾಗೂ ಇನ್ನೂ ಹೆಚ್ಚಿನವುಗಳನ್ನು ಬಳಸಿ.">
 <!ENTITY welcome.signIn.label "ಸೈನ್ ಇನ್">
@@ -92,9 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
 <!ENTITY signedOut.accountBox.create  "ಖಾತೆಯನ್ನು ರಚಿಸಿ">
-
+<!ENTITY signedOut.accountBox.create.accesskey  "C‍">
 <!ENTITY signedOut.accountBox.signin  "ಸೈನ್ ಇನ್">
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I‍">
 
 <!ENTITY signedIn.engines.label       "ಎಲ್ಲಾ ಸಾಧನಗಳೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

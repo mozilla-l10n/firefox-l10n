@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName;ವು ಆರಂಭಗೊಂಡಾಗ:">
 <!ENTITY startupPage.accesskey     "s">
-
+<!ENTITY startupUserHomePage.label "ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು">
 <!ENTITY startupBlankPage.label    "ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು">
-
+<!ENTITY startupPrevSession.label  "ಹಿಂದಿನ ಬಾರಿಯ ನಿನ್ನ ಕಿಟಕಿ ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು">
 
 <!ENTITY homepage.label            "ನೆಲೆ ಪುಟ:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ಆರಿಸು...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "ಯಾವಾಗಲೂ &brandShortName; ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
