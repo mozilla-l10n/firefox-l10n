@@ -30,7 +30,7 @@
   2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
-<!ENTITY fullnameLabel.label "Το όνομα σας">
+<!ENTITY fullnameLabel.label "Το όνομά σας:">
 <!ENTITY fullnameLabel.accesskey "τ">
 
 <!ENTITY emailLabel.label "Διεύθυνση Email:">
