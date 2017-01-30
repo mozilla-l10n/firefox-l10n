@@ -10,7 +10,7 @@
 <!ENTITY publishButton.label          "Δημοσίευση">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label               "Όνομα διεύθυνσης:">
+<!ENTITY siteList.label               "Όνομα ιστοσελίδας:">
 <!ENTITY siteList.accesskey           "σ">
 <!ENTITY siteList.tooltip             "Επιλέξτε τη σελίδα που θέλετε να δημοσιεύσετε">
 <!ENTITY newSiteButton.label          "Νέα διεύθυνση">
@@ -38,14 +38,14 @@
 <!ENTITY filenameExample.label        "π.χ.: &quot;ησελίδαμου.html&quot;">
 <!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλεγμένου">
 <!ENTITY setDefaultButton.accesskey   "π">
-<!ENTITY removeButton.label           "Απομάκρυνση ιστοδιεύθυνσης">
+<!ENTITY removeButton.label           "Αφαίρεση ιστοσελίδας">
 <!ENTITY removeButton.accesskey       "μ">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Ιστοδιευθύνσεις δημοσίευσης">
 <!ENTITY serverInfo.label             "Πληροφορίες διακομιστή     ">
 <!ENTITY loginInfo.label              "Πληροφορίες διαπίστευσης">
-<!ENTITY siteName.label               "Όνομα ιστοδιεύθυνσης:">
+<!ENTITY siteName.label               "Όνομα ιστοσελίδας:">
 <!ENTITY siteName.accesskey           "ε">
 <!ENTITY siteName.tooltip             "Ένα όνομα που γνωστοποιεί την προς δημοσίευση σελίδα (e.g.: 'MySite')">
 <!ENTITY siteUrl.label                "Τοποθεσία δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">

@@ -10,7 +10,7 @@
 <!ENTITY serverDescription.accesskey "φ">
 <!ENTITY serverPort.label "Θύρα:">
 <!ENTITY serverPort.accesskey "Θ">
-<!ENTITY userName.label "Όνομα Χρήστη">
+<!ENTITY userName.label "Όνομα χρήστη:">
 <!ENTITY userName.accesskey "Χ">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης:">
 <!ENTITY connectionSecurity.accesskey "φ">

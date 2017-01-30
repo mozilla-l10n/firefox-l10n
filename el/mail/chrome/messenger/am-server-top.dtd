@@ -10,11 +10,11 @@
 <!ENTITY serverType.label "Είδος διακομιστή:">
 <!ENTITY serverName.label "Όνομα διακομιστή :">
 <!ENTITY serverName.accesskey "δ">
-<!ENTITY userName.label "Όνομα Χρήστη">
+<!ENTITY userName.label "Όνομα χρήστη:">
 <!ENTITY userName.accesskey "ν">
 <!ENTITY port.label "Θύρα:">
 <!ENTITY port.accesskey "Θ">
-<!ENTITY serverPortDefault.label "Προεπιλεγμένος:">
+<!ENTITY serverPortDefault.label "Προεπιλογή:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -45,15 +45,15 @@
 <!ENTITY downloadOnBiff.label "Αυτόματη λήψη νέων μηνυμάτων">
 <!ENTITY downloadOnBiff.accesskey "υ">
 <!ENTITY username.label "Όνομα σύνδεσης">
-<!ENTITY deleteMessagePrefix.label "Όταν γίνεται διαγραφή μηνύματος:">
-<!ENTITY modelMoveToTrash.label "Μεταφέρεται στον Κάδο">
+<!ENTITY deleteMessagePrefix.label "Κατά τη διαγραφή ενός μηνύματος:">
+<!ENTITY modelMoveToTrash.label "Μεταφορά στο φάκελο:">
 <!ENTITY modelMoveToTrash.accesskey "φ">
-<!ENTITY modelMarkDeleted.label "Σημειώνεται ως διαγραμμένο">
+<!ENTITY modelMarkDeleted.label "Επισήμανση ως διαγραμμένο">
 <!ENTITY modelMarkDeleted.accesskey "μ">
-<!ENTITY modelDeleteImmediately.label "Αφαιρείται άμεσα">
+<!ENTITY modelDeleteImmediately.label "Άμεση αφαίρεση">
 <!ENTITY modelDeleteImmediately.accesskey "φ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Expunge&quot;) εισερχομένων κατά την  έξοδο">
+<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Expunge&quot;) εισερχομένων κατά την έξοδο">
 <!ENTITY expungeOnExit.accesskey "θ">
 <!ENTITY emptyTrashOnExit.label "Άδειασμα απορριμάτων κατά την έξοδο">
 <!ENTITY emptyTrashOnExit.accesskey "δ">
@@ -74,7 +74,7 @@
 <!ENTITY abbreviate.label "Προβολή ονομάτων ομάδων συζήτησης σαν:">
 <!ENTITY abbreviateOn.label "Ολόκληρα τα ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Ειδικές επιλογές...">
+<!ENTITY advancedButton.label "Για προχωρημένους…">
 <!ENTITY advancedButton.accesskey "δ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath.label "Τοπικός κατάλογος:">
