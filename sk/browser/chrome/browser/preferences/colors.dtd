@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "39em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Použiť mnou definované farby namiesto tých, ktoré sú definované na stránke:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Vždy">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Len pre témy s vysokým kontrastom">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nikdy">
 
 <!ENTITY  color                           "Text a pozadie">
 <!ENTITY  textColor.label                 "Text:">
