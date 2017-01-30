@@ -6,4 +6,19 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ເປີດ ຫນ້າຕ່າງສ່ວນຕົວ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ຫ">
 
+<!ENTITY privateBrowsing.title                           "ການທ່ອງເວັບແບບສ່ວນຕົວ">
+<!ENTITY privateBrowsing.title.tracking                  "ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບການປ້ອງກັນການຕິດຕາມ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ເມື່ອທ່ານທ່ອງເວັບໃນຫນ້າຕ່າງສ່ວນຕົວ, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ບໍ່ບັນທຶກ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "ເຂົ້າໄປເບິງຫນ້ານີ້ແລ້ວ">
+<!ENTITY aboutPrivateBrowsing.info.searches              "ຄົ້ນຫາ">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "ຄຸກກີ">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ໄຟລ໌ຊົ່ວຄາວ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ຈະບັນທຶກ">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " ຂອງທ່ານ:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ດາວໂຫລດ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "ບຸກມາກ">
+<!ENTITY aboutPrivateBrowsing.note.before                "ການທ່ອງເວັບແບບສ່ວນຕົວ ">
 

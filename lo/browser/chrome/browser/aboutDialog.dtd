@@ -63,6 +63,7 @@
 <!ENTITY update.adminDisabled       "ການອັບເດດໄດ້ຖືກປິດໂດຍຜູ້ຄຸ້ມຄອງລະບົບຂອງທ່ານ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ກຳລັງອັບເດດໂດຍອິນສະເຕນອື່ນຢູ່">
+<!ENTITY update.restarting          "ກຳລັງລີສະຕາດ…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

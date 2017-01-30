@@ -6,14 +6,14 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "&brandFullName; ຫນ້າເລີ່ມຕົ້ນ">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "ຂອບໃຈສຳລັບການເລືອກໃຊ້ໄຟຟັອກ! ເພື່ອນຳໃຊ້ຄວາມສາມາດທັ້ງທີ່ຢູ່ໃນບຣາວເສີນີ້ ກະລຸນາຮຽນການນຳໃຊ້ເພີ່ມເຕີມໄດ້ທີ່ <a>ຄວາມສາມາດທັ້ງຫມົດ</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -33,6 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "ໂປຼແກຣມເສີມ">
 <!ENTITY abouthome.downloadsButton.label "ດາວໂຫລດ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
+<!ENTITY abouthome.aboutMozilla.label    "ກ່ຽວກັບ Mozilla">
