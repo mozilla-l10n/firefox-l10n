@@ -65,7 +65,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; দ্বারা:">
-<!ENTITY  historyHeader.pre.accesskey      "&amp;">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "পূর্ববর্তী তথ্য মনে রাখা হবে">
 <!ENTITY  historyHeader.dontremember.label "পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না">
 <!ENTITY  historyHeader.custom.label       "পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে">
@@ -100,7 +100,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "অ">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ করার সময় পূর্ববর্তী তথ্য মুছে ফেলা হবে">
-<!ENTITY  clearOnClose.accesskey         "&amp;">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "বিবিধ বৈশিষ্ট্য…">
 <!ENTITY  clearOnCloseSettings.accesskey "ব">

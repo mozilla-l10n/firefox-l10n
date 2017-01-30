@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "প্রারম্ভ">
 
 <!ENTITY startupPage.label         "&brandShortName; আরম্ভের সময়:">
-<!ENTITY startupPage.accesskey     "&amp;">
+<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 
 <!ENTITY homepage.label            "হোম পেজ">
