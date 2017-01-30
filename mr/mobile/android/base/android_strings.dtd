@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
-<!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा. ">
+<!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखूणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
@@ -96,7 +96,7 @@
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "काल">
 <!ENTITY history_week_section3 "मागील ७ दिवस">
-<!ENTITY history_older_section3 "६ महिन्यंपेक्षा जुने">
+<!ENTITY history_older_section3 "६ महिन्यांपेक्षा जुने">
 
 <!ENTITY search "शोधा">
 <!ENTITY reload "पुनःदाखल करा">
@@ -285,7 +285,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "उपक्रम मालिका">
-<!ENTITY pref_activity_stream_summary "एक श्रीमंत चित्रीत इतिहास यादी आणि एक नाविन्यतम मुख पृष्ठ सर्व शोध सोपे बनवते, जे आपल्याला &brandShortName; मधे हवे आहे ते.">
+<!ENTITY pref_activity_stream_summary "एक संपन्न चित्रीत इतिहास यादी आणि एक नाविनतम मुख पृष्ठ सर्व शोध सोपे बनवते, जे आपल्याला &brandShortName; मधे हवे आहे ते.">
 
 <!ENTITY tracking_protection_prompt_title "आता मागोवा सुरक्षा सोबत">
 <!ENTITY tracking_protection_prompt_text "तत्परतेने मागोवा घटक अडवते जेणेकरुन आपल्याला काळजी करावी नाही लागणार.">
@@ -541,7 +541,7 @@ size. -->
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!ENTITY pref_compact_tabs "संक्षिप्त टॅब">
-
+<!ENTITY pref_compact_tabs_summary2 "पोर्ट्रेट मोड च्या दोन स्तंभांमध्ये टॅब मांडा">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -695,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2;साठी &formatS1; शोधा">
 
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; साठी अद्ययावत उपलब्ध">
 <!ENTITY updater_start_select2 "डाउनलोड करण्यासाठी स्पर्श करा">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड होत आहे">
@@ -703,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड झाल्यावर अद्ययावत सक्रीय करण्यासाठी स्पर्श करा">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयत्नासाठी स्पर्श करा">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; साठी अद्ययावत डाउनलोड झाले आहे">
+<!ENTITY updater_apply_select3 "प्रतिष्ठापनेसाठी स्पर्श करा">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -848,4 +851,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "बरखास्त">
 <!ENTITY activity_stream_delete_history "इतिहासातून नष्ट करा">
 
-
+<!ENTITY activity_stream_welcome_content1 "आता &brandShortName; आपण वेब वर शोधलेल्या गोष्टींना ठळक करते जेणेकरुन आपण महान लेख, विडिओ, वाचनखुणा आणि इतर पृष्ठांपर्यंतचा आपला मार्ग शोधू शकता.">
