@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ήδη στους σελιδοδείκτες">
 <!ENTITY overlay_share_send_other "Αποστολή σε άλλες συσκευές">
 
+<!ENTITY overlay_share_open_browser_btn_label "Άνοιγμα σε &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Εμφάνιση ιστορικού αναζήτησης">
 <!ENTITY pref_import_options "Επιλογές εισαγωγής">
 <!ENTITY pref_import_android_summary "Εισαγωγή σελιδοδεικτών και ιστορικού από τον εγγενή περιηγητή">
+<!ENTITY pref_private_data_openTabs "Ανοικτές καρτέλες">
 <!ENTITY pref_private_data_history2 "Ιστορικό περιήγησης">
 <!ENTITY pref_private_data_searchHistory "Ιστορικό αναζήτησης">
 <!ENTITY pref_private_data_formdata2 "Ιστορικό φορμών">
@@ -538,6 +540,7 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Μικρές καρτέλες">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -704,6 +707,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Πατήστε για εφαρμογή της ενημέρωσης μόλις ολοκληρωθεί η λήψη της">
 <!ENTITY updater_downloading_retry2 "Πατήστε για νέα προσπάθεια">
 
+<!ENTITY updater_apply_title3 "Ελήφθη ενημέρωση για το &brandShortName;">
+<!ENTITY updater_apply_select3 "Αγγίξτε για εγκατάσταση">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -848,3 +853,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Απόρριψη">
 <!ENTITY activity_stream_delete_history "Διαγραφή από ιστορικό">
 
+<!ENTITY activity_stream_welcome_title "Καλώς ορίσατε στις κορυφαίες στιγμές σας">
