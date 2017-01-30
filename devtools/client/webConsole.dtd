@@ -22,7 +22,7 @@
   -  filters. -->
 <!ENTITY btnPageNet.label   "Rrjet">
 <!ENTITY btnPageNet.tooltip "Regjistro hyrjet në rrjet">
-<!ENTITY btnPageNet.accesskey "RN">
+<!ENTITY btnPageNet.accesskey "R">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
