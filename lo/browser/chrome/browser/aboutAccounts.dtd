@@ -11,3 +11,5 @@
 <!ENTITY aboutAccounts.noConnection.title "ບໍ່ມີການເຊື່ອມຕໍ່">
 <!ENTITY aboutAccounts.noConnection.description "ທ່ານຕ້ອງການໄດ້ຮັບການເຊື່ອມກັບອິນເຕີເນັດກ່ອນຈື່ງຈະສາມາດເຂົ້າສູ່ລະບົບໄດ້.">
 <!ENTITY aboutAccounts.noConnection.retry "ຫລອງໃຫມ່ອີກຄັ້ງ">
+<!ENTITY aboutAccounts.badConfig.title "ການຄອນຟຶກບໍ່ຖືກຕ້ອງ">
+<!ENTITY aboutAccounts.badConfig.description "ບໍ່ສາມາດກວດສອບການຄອນຟິກຂອງເຊີເວີບັນຊີ Firefox ຂອງທ່ານ. ກະລຸນາລອງໃຫມ່ອີກຄັ້ງ.">

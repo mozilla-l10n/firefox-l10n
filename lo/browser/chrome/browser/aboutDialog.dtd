@@ -36,10 +36,15 @@
 <!ENTITY community.creditsLink      "ຊຸ່ມຊົນທົ່ວໂລກ">
 <!ENTITY community.end3             "ເຮັດວຽກຮ່ວມກັນເພື່ອເຮັດໃຫ້ເວັບເປີດໃຊ້ງານໄດ້ ແລະ ເຮັດໃຫ້ທຸກຄົນສາມາດເຂົ້າເຖິງເວັບໄດ້.">
 
+<!ENTITY helpus.start               "ຕ້ອງການການຊ່ວຍເຫລືອຍັງບໍ່?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "ບໍລິຈາກ">
+<!ENTITY helpus.middle              " ຫລື ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "ສິງໃຫມ່ໆ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ">
