@@ -21,4 +21,12 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ດາວໂຫລດ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ບຸກມາກ">
 <!ENTITY aboutPrivateBrowsing.note.before                "ການທ່ອງເວັບແບບສ່ວນຕົວ ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ບໍ່ເຮັດໃຫ້ທ່ານເປັນອາໂນນິມັດສ໌">
+<!ENTITY aboutPrivateBrowsing.note.after                 " ໃນໂລກອິນເຕີເນັດ. ນາຍຈ້າງ ຫລື ຜູ້ໃຫ້ບໍລິການອິນເຕີເນັດຂອງທ່ານຍັງຄົງສາມາດຮູ້ໄດ້ວ່າໄດ້ເຂົ້າໄປເບິງເວັບໃດແດ່.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "ການທ່ອງເວັບແບບສ່ວນຕົວ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
+<!ENTITY trackingProtection.title                        "ການປ້ອງກັນການຕິດຕາມ">
+<!ENTITY trackingProtection.description2                 "ມີບາງເວັບໄຊຕ໌ນຳໃຊ້ຕົວຕິດຕາມທີ່ສາມາດມໍນິເຕີກິດຈະກຳຂອງທ່ານໃນໂລກອິນເຕີເນັດໄດ້. ໂດຍການນຳໃຊ້ການປ້ອງກັນການຕິດຕາມ Firefox ຈະບັອກຕົວຕິດຕາມທັ້ງຫລາຍທີ່ສາມາດດັກເກັບຂໍ້ມູນກ່ຽວກັບພຶດຕິກຳການທ່ອງເວັບຂອງທ່ານ.">
+<!ENTITY trackingProtection.startTour1                   "ເບິງວິທີການເຮັດວຽກຂອງມັນ">

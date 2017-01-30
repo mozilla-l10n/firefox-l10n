@@ -2,10 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+<!ENTITY  history.title             "ປະຫວັດການອັບເດດ">
+<!ENTITY  history.intro             "ການອັບເດດຕໍ່ໄປນີ້ແມ່ນໄດ້ຮັບການຕິດຕັ້ງແລ້ວ:">
 <!ENTITY  closebutton.label         "ອອກ">
+                                     
+<!ENTITY  noupdates.label           "ບໍ່ມີກາານອັບເດດຖືກຕິດຕັ້ງເທື່ອ">
 
-
-
-
-
+<!ENTITY  name.header               "ຊື່ການອັບເດດ">
+<!ENTITY  date.header               "ວັນທີ່ຕິດຕັ້ງ">
+<!ENTITY  type.header               "ປະເພດ">
+<!ENTITY  state.header              "ສະຖານະ">
 
