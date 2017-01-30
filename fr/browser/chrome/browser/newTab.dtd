@@ -4,6 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nouvel onglet">
+<!ENTITY newtab.topSites.heading "Sites les plus visités">
 <!ENTITY newtab.customize.classic "Afficher les sites les plus visités">
 <!ENTITY newtab.customize.cog.enhanced "Inclure les sites suggérés">
 <!ENTITY newtab.customize.cog.title2 "PRÉFÉRENCES DE LA PAGE NOUVEL ONGLET">
