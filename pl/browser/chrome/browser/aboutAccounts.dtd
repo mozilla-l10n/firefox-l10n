@@ -5,7 +5,6 @@
 <!ENTITY aboutAccounts.welcome "Synchronizacja">
 <!ENTITY aboutAccountsConfig.description "Zaloguj się, aby synchronizować karty, zakładki i inne rzeczy.">
 <!ENTITY aboutAccountsConfig.startButton.label "Zaloguj się">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Używasz starszej wersji synchronizacji?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ustawienia">
 
 <!ENTITY aboutAccounts.noConnection.title "Brak połączenia">
