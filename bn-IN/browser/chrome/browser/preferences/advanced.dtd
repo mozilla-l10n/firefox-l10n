@@ -79,7 +79,7 @@
 <!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 <!ENTITY updateHistory.accesskey         "আ">
 
-<!ENTITY useService.label                "&amp;আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে">
+<!ENTITY useService.label                "আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে">
 <!ENTITY useService.accesskey            ")">
 
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ব্যবস্থা">
