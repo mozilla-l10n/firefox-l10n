@@ -692,7 +692,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2; க்காக &formatS1; ஐ தேடு">
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; என்பதற்கு புதுப்பிப்பு கிடைக்கிறது">
 <!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
