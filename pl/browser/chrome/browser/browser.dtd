@@ -145,6 +145,7 @@
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
 <!ENTITY recentBookmarks.label "Ostatnio dodane">
 <!ENTITY otherBookmarksCmd.label "Pozostałe zakładki">
+<!ENTITY mobileBookmarksCmd.label "Zakładki z urządzeń przenośnych">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 <!ENTITY showRecentlyBookmarked.label "Wyświetl ostatnio dodane">
 <!ENTITY showRecentlyBookmarked.accesskey "W">
@@ -199,6 +200,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
 <!ENTITY bookmarksMenuButton.other.label "Pozostałe zakładki">
+<!ENTITY bookmarksMenuButton.mobile.label "Zakładki z urządzeń przenośnych">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
 
