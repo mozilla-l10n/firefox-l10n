@@ -2,21 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY setupButton.label          "Konfiguruj usługę &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "K">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; umożliwia dostęp z każdego twojego urządzenia do twojej historii przeglądania, zakładek, haseł i otwartych kart.">
-
-<!ENTITY updatePass.label             "Aktualizuj">
-<!ENTITY resetPass.label              "Resetuj">
-
-<!ENTITY manageAccount.label          "Zarządzaj kontem">
-<!ENTITY manageAccount.accesskey      "r">
-<!ENTITY changePassword2.label        "Zmień hasło…">
-<!ENTITY myRecoveryKey.label          "Mój klucz odzyskiwania">
-<!ENTITY resetSync2.label             "Resetuj synchronizację…">
-<!ENTITY pairDevice.label             "Sparuj urządzenie">
-
-<!ENTITY syncMy.label "Synchronizuj:">
 <!ENTITY engine.bookmarks.label "Zakładki">
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label2 "Karty">
@@ -30,7 +15,6 @@
 <!ENTITY engine.addons.label "Dodatki">
 <!ENTITY engine.addons.accesskey "D">
 
-<!ENTITY syncDeviceName.label         "Nazwa urządzenia:">
 <!ENTITY fxaSyncDeviceName.label "Nazwa urządzenia">
 <!ENTITY changeSyncDeviceName.label "Zmień nazwę urządzenia">
 <!ENTITY changeSyncDeviceName.accesskey "n">
@@ -38,13 +22,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Zachowaj">
 <!ENTITY saveChangeSyncDeviceName.accesskey "Z">
-<!ENTITY unlinkDevice.label           "Odłącz to urządzenie">
 
 <!ENTITY prefs.tosLink.label        "Warunki korzystania z usługi">
-<!ENTITY prefs.ppLink.label         "Polityka prywatności">
 
 <!ENTITY fxaPrivacyNotice.link.label "Uwagi dotyczące prywatności">
-<!ENTITY determiningAcctStatus.label "Uzyskiwanie informacji o stanie konta…">
 
 <!ENTITY signedInUnverified.beforename.label "Konto">
 <!ENTITY signedInUnverified.aftername.label "nie zostało zweryfikowane.">
@@ -63,11 +44,6 @@
 <!ENTITY verify.accesskey "s">
 <!ENTITY forget.label "Usuń adres e-mail">
 <!ENTITY forget.accesskey "U">
-
-<!ENTITY welcome.description "Uzyskaj dostęp do kart, zakładek, haseł i innych rzeczy gdziekolwiek korzystasz z programu &brandShortName;.">
-<!ENTITY welcome.signIn.label "Zaloguj się">
-<!ENTITY welcome.createAccount.label "Utwórz konto">
-<!ENTITY welcome.useOldSync.label "Używasz starszej wersji synchronizacji?">
 
 <!ENTITY signedOut.caption "Zabierz swoją sieć ze sobą">
 <!ENTITY signedOut.description "Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.">
