@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "இது பரிசோதனைத் தன்மை கொண்டது. பெரியவர்களின் மேற்பார்வையின்றி பயன்படுத்த வேண்டாம்.">
 <!ENTITY aboutNetworking.showNextTime          "இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்">
 <!ENTITY aboutNetworking.ok                    "சரி">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "சாக்கெட்டுகள்">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "வலை சாக்கெட்டுகள்">
@@ -40,4 +40,4 @@
 
 
 
-
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

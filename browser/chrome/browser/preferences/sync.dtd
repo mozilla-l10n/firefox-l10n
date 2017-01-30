@@ -94,7 +94,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 
-
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "எல்லா கருவிகளையும் ஒத்திசையுங்கள்">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to

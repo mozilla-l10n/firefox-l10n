@@ -131,6 +131,8 @@
 <!ENTITY options.timestampMessages.tooltip    "இந்த விருப்ப கட்டளைகளை செயல்படுத்தினால் இணைய முனையத்தில் நேர முத்திரை தோன்றும்">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "வழுநீக்கி">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
