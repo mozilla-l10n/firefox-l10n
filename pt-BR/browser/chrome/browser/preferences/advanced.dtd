@@ -9,9 +9,11 @@
 <!ENTITY accessibility.label             "Acessibilidade">
 
 <!ENTITY useCursorNavigation.label       "Usar teclas de setas para percorrer pelas páginas">
-<!ENTITY useCursorNavigation.accesskey   "s">
+<!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começa a digitar">
-<!ENTITY blockAutoReload.label           "Avisar quando sites tentarem redirecionar ou recarregar a página">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Avisar quando websites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -20,10 +22,11 @@
 <!ENTITY useAutoScroll.label             "Autorrolagem">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Rolagem suave">
-<!ENTITY useSmoothScrolling.accesskey    "R">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
-<!ENTITY allowHWAccel.accesskey          "Q">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Verificar a ortografia ao digitar">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Escolha de dados">
 
@@ -48,7 +51,7 @@
 
 <!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se conecta à internet">
 <!ENTITY connectionSettings.label        "Configurar conexão…">
-<!ENTITY connectionSettings.accesskey    "C">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Cache de conteúdo web">
 
@@ -57,7 +60,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dados do site">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
+<!ENTITY clearSiteData.accesskey         "L">
 <!ENTITY siteDataSettings.label          "Configurações…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Saber mais">
 
 <!-- LOCALIZATION NOTE:
@@ -74,13 +79,15 @@
 <!ENTITY clearOfflineAppCacheNow.label   "Limpar agora">
 <!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Desativar o gerenciamento automático do cache">
-<!ENTITY overrideSmartCacheSize.accesskey "D">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Atualizações">
 
+<!ENTITY updateApplication.label         "Atualizações do &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalar automaticamente (recomendado: maior segurança)">
-<!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
+<!ENTITY updateCheckChoose.accesskey     "c">
 <!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -92,10 +99,12 @@
 
 <!ENTITY autoUpdateOthers.label          "Atualizar automaticamente">
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
-<!ENTITY enableSearchUpdate.accesskey    "M">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineStorageNotify.label               "Informar quando um site solicitar armazenamento para uso offline">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Estes sites estão autorizados a armazenar dados para uso offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -107,7 +116,9 @@
 <!ENTITY certPersonal.label              "Solicitações">
 <!ENTITY certPersonal.description        "Quando um servidor solicita seu certificado pessoal:">
 <!ENTITY selectCerts.auto                "Selecionar um automaticamente">
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Perguntar todas as vezes">
+<!ENTITY selectCerts.ask.accesskey       "a">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "o">
 <!ENTITY viewCerts.label                 "Ver certificados">
