@@ -693,7 +693,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; ішінен &formatS2; іздеу">
 
 <!ENTITY searchable_description "Тарих және бетбелгілер">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; жаңартуы қолжетерлік">
 <!ENTITY updater_start_select2 "Жүктеп алу үшін шертіңіз">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; жүктелуде">
@@ -701,7 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Жүктеп алынғаннан кейін жаңартуды іске асыру үшін шертіңіз">
 <!ENTITY updater_downloading_retry2 "Қайталау үшін шертіңіз">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; жаңартуы жүктеліп алынды">
+<!ENTITY updater_apply_select3 "Орнату үшін шертіңіз">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
