@@ -23,7 +23,7 @@
 <!ENTITY signIn.password.label      "პაროლი">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "აღმდგენი გასაღები">
-<!ENTITY signIn.recoveryKey.accesskey   " K">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "ანგარიშის დეტალები">
@@ -48,7 +48,7 @@
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ზრუნავს თქვენს პირადი ინფორმაციის დაცვაზე">
 <!ENTITY setup.newRecoveryKeyPage.description.label "პირადი ინფორმაციის სრულად დასაცავად, ატვირთვის წინ, თქვენი მონაცემები იშიფრება. აღდგენის გასაღები, რომელიც ამ მონაცემების გასაშიფრადაა საჭირო, არ აიტვირთება.">
 <!ENTITY recoveryKeyEntry.label        "თქვენი აღმდგენი გასაღები">
-<!ENTITY recoveryKeyEntry.accesskey    " K">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "ახალი გასაღების შექმნა">
 <!ENTITY recoveryKeyBackup.description "აღდგენის გასაღები საჭიროა &syncBrand.fullName.label;-თან წვდომისთვის, სხვა მოწყობილობებიდან. გთხოვთ, შეინახოთ სარეზერვო ასლი, რადგან ჩვენ ვერ დაგეხმარებით, გასაღების აღდგენაში.">
 
