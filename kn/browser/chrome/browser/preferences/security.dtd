@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "ಸಾಮಾನ್ಯ">
 
-
+<!ENTITY  warnOnAddonInstall.label        "ತಾಣಗಳು ಆಡ್‍-ಆನ್‍ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು‍">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "ಅಪಾಯಕಾರಿ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "ಬೇಡವಾದ ಮತ್ತು ಸಾಮಾನ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಸು‍‍‍‍">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "ಸ">
 
 <!ENTITY  addonExceptions.label         "ವಿನಾಯಿತಿಗಳು...">
 <!ENTITY  addonExceptions.accesskey     "E">

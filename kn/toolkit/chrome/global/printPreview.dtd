@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "ಅಗತ್ಯಾನುಗುಣ...">
 <!ENTITY ShrinkToFit.label    "ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಕುಗ್ಗಿಸು">
 <!ENTITY customPrompt.title   "ಅಳತೆ ಸೂಚಿಸು...">
-
-
+<!ENTITY simplifyPage.label   "ಪುಟವನ್ನು ಸುಲಭವಾಗಿಸಿ">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "ಸರಾಗವಾಗಿ ಓದುವುದಕ್ಕಾಗಿ ವಿನ್ಯಾಸವನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY simplifyPage.disabled.tooltip "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಈ ಪುಟವು ಸುಲಭವಾಗುವುದಿಲ್ಲ">
 

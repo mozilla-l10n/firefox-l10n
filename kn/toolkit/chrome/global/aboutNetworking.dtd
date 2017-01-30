@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.bytesSent             "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.bytesReceived         "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ">
-
+<!ENTITY aboutNetworking.logging               "ದಾಖಲಾತಿ‍">
 
 
 

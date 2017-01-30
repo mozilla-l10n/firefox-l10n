@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "ಸಾಮಾನ್ಯ">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "ಶೀರ್ಷಿಕೆ:">
 <!ENTITY  generalURL            "ವಿಳಾಸ:">
 <!ENTITY  generalType           "ಬಗೆ:">
 <!ENTITY  generalMode           "ನಿರೂಪಣಾ(ರೆಂಡರ್) ಕ್ರಮ:">
