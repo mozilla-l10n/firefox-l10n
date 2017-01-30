@@ -107,7 +107,7 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "மேம்பட்ட தகவல்: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "மேம்பட்டது">
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> காலாவதியான தாக்குதலுக்கு உள்ளாகக்கூடிய பாதுகாப்பு நுட்பத்தைப் பயன்படுத்துகிறது. நீங்கள் பாதுகாப்பாக இருப்பதாக நினைக்கும் தகவல்களைத் தாக்கர்கள் வெளிப்படுத்தலாம்.">
 <!ENTITY weakCryptoAdvanced.override "(பாதுகாப்பற்றதா) ஏற்ற முயற்சிக்கவும் <span class='hostname'></span> காலாவதியான பாதுகாப்பை பயன்படுத்துகிறது">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

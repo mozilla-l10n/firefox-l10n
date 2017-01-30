@@ -37,7 +37,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading மோசில்லா பயர்பாக்ஸ்
+#define firefox_heading Mozilla Firefox
 
 
 # LOCALIZATION NOTE (firefox_help):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize firefox தனிப்பயனாக்கம்\u0020
+#define firefox_customize Firefox தனிப்பயனாக்கம்
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community எங்களுடன் ஈடுபட
+#define firefox_community பங்குபெற
 
 
 # LOCALIZATION NOTE (firefox_about):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Firefox Nightly வலைப்பூ
 
 
 # LOCALIZATION NOTE (bugzilla):

@@ -55,5 +55,6 @@
 
 <!ENTITY  drmContent.label             "DRM உள்ளடக்கம்">
 
-
+<!ENTITY  playDRMContent.label         "DRM உள்ளடக்கத்தை இயக்கு">
+<!ENTITY  playDRMContent.accesskey     "P">
 
