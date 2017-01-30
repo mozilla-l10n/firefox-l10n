@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "А">
 <!ENTITY cmd.resume.label                 "Жалғастыру">
 <!ENTITY cmd.resume.accesskey             "Ж">
-<!ENTITY cmd.cancel.label                 "&amp;Бас тарту">
+<!ENTITY cmd.cancel.label                 "Бас тарту">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
