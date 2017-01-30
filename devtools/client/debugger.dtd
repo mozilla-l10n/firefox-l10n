@@ -31,7 +31,7 @@
 <!ENTITY debuggerUI.searchPanelOperators "Operadores:">
 <!ENTITY debuggerUI.searchFile "Filtrar scripts">
 <!ENTITY debuggerUI.searchFile.key "P">
-<!ENTITY debuggerUI.searchFile.altkey "Aceptar">
+<!ENTITY debuggerUI.searchFile.altkey "O">
 <!ENTITY debuggerUI.searchFile.accesskey "s">
 <!ENTITY debuggerUI.searchGlobal "Buscar en todos los archivos">
 <!ENTITY debuggerUI.searchGlobal.key "F">
