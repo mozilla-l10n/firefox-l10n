@@ -29,8 +29,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; nie jest w stanie otworzyć tej strony.</p>">
 
 <!ENTITY captivePortal.title "Logowanie do sieci">
-<!ENTITY captivePortal.longDesc "<p>Ta sieć może wymagać logowania, aby uzyskać dostęp do Internetu.</p>">
-<!ENTITY openPortalLoginPage.label "Przejdź do strony logowania">
+<!ENTITY captivePortal.longDesc2 "<p>Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.</p>">
+<!ENTITY openPortalLoginPage.label2 "Zaloguj się do sieci">
 
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
 <!ENTITY malformedURI.longDesc "<ul><li>Adresy internetowe są zwykle postaci <strong>http://www.example.com/</strong></li><li>Należy sprawdzić, czy adres zawiera prawidłowe ukośniki (tzn. <strong>/</strong>).</li></ul>">
