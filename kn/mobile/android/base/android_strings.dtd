@@ -541,7 +541,7 @@ size. -->
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!ENTITY pref_compact_tabs "‍ದಟ್ಟ‍ ಟ್ಯಾಬ್‌ಗಳು">
-
+<!ENTITY pref_compact_tabs_summary2 "‍ಪೋಟ್ರೈಟ್ ಸ್ಥಿತಿಯಲ್ಲಿ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಎರಡು ಲಂಬಸಾಲುಗಳಲ್ಲಿ ಜೋಡಿಸು">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "ವಜಾಗೊಳಿಸು‍">
 <!ENTITY activity_stream_delete_history "ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍">
 
-
+<!ENTITY activity_stream_welcome_title "‍ನಿಮ್ಮ ಹೈಲೈಟ್ಸ್‌ಗಳಿಗೆ ಸ್ವಾಗತ">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ಈಗ ನೀವು ಜಾಲದಲ್ಲಿ ಅನ್ವೇಷಿಸಿದ್ದನ್ನು ಹೈಲೈಟ್ಸ್‌ಗಳನ್ನಾಗಿ ಸೃಷ್ಟಿಸುವುದರಿಂದ ನೀವು ಅತ್ಯುತ್ತಮ ಲೇಖನಗಳನ್ನು, ವಿಡಿಯೋಗಳನ್ನು, ಪುಟಗುರುತುಗಳನ್ನು ಮತ್ತು ಇತರೆ ಪುಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು.">
