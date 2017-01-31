@@ -173,12 +173,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Gedrach skermôfbylding">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Skermôfbylding nei klamboerd">
+<!ENTITY options.screenshot.clipboard.tooltip    "Bewarret de skermôfbylding daliks nei it klamboerd">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Lit kamerasluterlûd hearre">
+<!ENTITY options.screenshot.audio.tooltip    "Skeakelet it kameralûd yn as jo in skermôfbylding meitsje">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
