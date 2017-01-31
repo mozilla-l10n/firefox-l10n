@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "45em">
 <!ENTITY  window.macWidth                 "49em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Sobrescribir los colores especificados por la página con tu selección anterior:">
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Siempre">
