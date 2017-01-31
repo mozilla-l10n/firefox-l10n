@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Ka &brandShortName; ocake:">
 <!ENTITY startupPage.accesskey     "o">
-
+<!ENTITY startupUserHomePage.label "Nyut pot buk mamegi me gang">
 <!ENTITY startupBlankPage.label    "Nyut pot buk ma tye nono">
-
+<!ENTITY startupPrevSession.label  "Nyut dirica ki dirca matino mamegi ma ceng ca">
 
 <!ENTITY homepage.label            "Pot buk me gang:">
 <!ENTITY homepage.accesskey        "u">
