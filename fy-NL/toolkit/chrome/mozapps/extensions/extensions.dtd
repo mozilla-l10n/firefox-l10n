@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "Y">
 <!ENTITY toolsMenu.tooltip                    "Ark foar alle add-ons">
 
+<!ENTITY getThemes.description                "Wolle jo jo browser personalisearje?">
+<!ENTITY getThemes.learnMore                  "Kies út tûzenen add-ons.">
+
 <!ENTITY cmd.back.tooltip                     "In side tebek gean">
 <!ENTITY cmd.forward.tooltip                  "In side foarút gean">
 
