@@ -754,8 +754,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.open.label                       "Yab">
 <!ENTITY syncedTabs.context.open.accesskey                   "Y">
-
-
+<!ENTITY syncedTabs.context.openInNewTab.label               "Yab i dirica matidi manyen">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "a">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Yab i dirica manyen">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "m">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yab i dirica manyen me mung">
@@ -765,7 +765,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Lok">
 <!ENTITY syncedTabs.context.copy.accesskey                   "L">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Yab weng i dirica matino">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Y">
 
 
 <!ENTITY syncBrand.shortName.label    "Tim marom">
