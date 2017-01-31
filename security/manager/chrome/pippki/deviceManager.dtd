@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
-<!ENTITY devmgr.style2                          "width: 45em; height: 25em;">
+<!ENTITY devmgr.style2                          "width: 52em; height: 25em;">
 
 <!ENTITY devmgr.devlist.label "Sikkerhedsmoduler og -enheder">
 <!ENTITY devmgr.details.title "Detaljer">
