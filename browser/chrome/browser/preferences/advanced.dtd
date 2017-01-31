@@ -61,7 +61,7 @@
 
 
 
-
+<!ENTITY siteDataLearnMoreLink.label     "Més informació">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,6 +81,7 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
+<!ENTITY updateApplication.label         "Actualitzacions del &brandShortName;">
 <!ENTITY updateAuto1.label               "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
 <!ENTITY updateAuto1.accesskey           "a">
 
@@ -94,6 +95,7 @@
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY autoUpdateOthers.label          "Actualitza automàticament">
 <!ENTITY enableSearchUpdate.label        "Motors de cerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
@@ -112,7 +114,7 @@
 
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
 
-
+<!ENTITY selectCerts.ask                 "Demana-ho cada vegada">
 
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
 <!ENTITY enableOCSP.accesskey            "C">
