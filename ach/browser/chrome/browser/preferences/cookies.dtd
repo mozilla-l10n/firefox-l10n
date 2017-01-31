@@ -28,7 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Yeny">
+<!ENTITY     searchFilter.accesskey         "Y">
 
 <!ENTITY     button.close.label             "Lor">
 <!ENTITY     button.close.accesskey         "L">

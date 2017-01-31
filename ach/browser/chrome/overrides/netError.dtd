@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Ayi.">
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
-
+<!ENTITY captivePortal.title "Dony iyie netwak">
+<!ENTITY captivePortal.longDesc "<p>Twero mite ni myero i dony iyie netwak man me nongo intanet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Yab pot buk me donyo iyie">
 
@@ -115,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; pe okube ki <span id='wrongSystemTime_URL'/> pien nen calo cawa me komputa ni pe tye kakare kadong man tye kagengo kube ki ber bedo.</p> <p>Komputa ni kitero i <span id='wrongSystemTime_systemDate'/>, kun myero obed <span id='wrongSystemTime_actualDate'/>. Me yubo peko man, lok ter me nino dwe ki cawa mamegi orwate ki ma tye kakare.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; pe okube ki <span id='wrongSystemTimeWithoutReference_URL'/> pien nen calo cawa me komputa ni pe tye kakare kadong man tye kagengo kube ki ber bedo.</p> <p>Komputa ni kitero i <span id='wrongSystemTimeWithoutReference_systemDate'/>. Me yubo peko man, lok ter me nino dwe ki cawa mamegi orwate ki ma tye kakare.</p>">
 
 <!ENTITY certerror.pagetitle1  "Kube ma pe ki ber bedo">
 
