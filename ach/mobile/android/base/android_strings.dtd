@@ -21,6 +21,7 @@
 <!ENTITY firstrun_button_notnow "Pe kombedi">
 <!ENTITY firstrun_button_next "Malubo">
 
+<!ENTITY firstrun_tabqueue_title "Kakube">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_subtext_off "gwok lakub pi tic ma lacen &brandShortName; ka i tye ka gudu i purugram mukene">
 
@@ -150,6 +151,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Dong kiketo alamabuk">
 <!ENTITY overlay_share_send_other "Cwal bot nyonyo mukene">
 
+<!ENTITY overlay_share_open_browser_btn_label "Yab i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -201,7 +203,7 @@
 <!ENTITY pref_category_home "Gang">
 <!ENTITY pref_category_home_summary "Yik potbuk me gang mamegi">
 <!ENTITY pref_category_home_panels "Dirica">
-
+<!ENTITY pref_category_home_add_ons "Med-ikome">
 
 <!ENTITY pref_home_updates_enabled "Kicako">
 <!ENTITY pref_home_updates_wifi "Ki i Wi-Fi keken">
@@ -220,6 +222,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Ket kanonge onyo lok me yeny">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_search "Yeny">
 <!ENTITY pref_header_privacy_short "Mung">
@@ -361,7 +364,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
 
 <!ENTITY pref_import_android_summary "Kel alamabuk ki gin mukato ki i layeny ma gang">
-
+<!ENTITY pref_private_data_openTabs "Yab dirica matino">
 <!ENTITY pref_private_data_history2 "Gin mukato me yeny">
 <!ENTITY pref_private_data_searchHistory "Gin mukato me yeny">
 <!ENTITY pref_private_data_formdata2 "Gin mukato me pwom">
