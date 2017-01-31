@@ -9,3 +9,12 @@
 <!ENTITY usageCol.label "Spazio utilizzato">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.accesskey "C">
+<!ENTITY removeSelected.label "Rimuovi selezionati">
+<!ENTITY removeSelected.accesskey "R">
+<!ENTITY save.label "Salva modifiche">
+<!ENTITY save.accesskey "S">
+<!ENTITY cancel.label "Annulla">
+<!ENTITY cancel.accesskey "A">
+<!ENTITY removingDialog.title "Rimozione dati dei siti web">
+<!ENTITY removingDialog.description "Rimuovendo i dati dei siti web verranno rimossi anche i cookie. Questo potrebbe comportare la disconnessione dai siti web e l’eliminazione di contenuti per l’utilizzo non in linea. Rimuovere i dati?">
+<!ENTITY siteTree.label "Verranno rimossi i cookie per i seguenti siti web:">
