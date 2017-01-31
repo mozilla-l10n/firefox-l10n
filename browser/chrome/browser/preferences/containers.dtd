@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Lisää uusi luokitus">
 <!ENTITY addButton.accesskey  "L">
+<!ENTITY preferencesButton.label "Asetukset">
+<!ENTITY removeButton.label   "Poista">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Takaisin Tietosuoja-sivulle">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Nimi:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Kirjoita luokituksen nimi">
 <!ENTITY icon.label           "Kuvake:">
 <!ENTITY icon.accesskey       "K">
 <!ENTITY color.label          "Väri:">
