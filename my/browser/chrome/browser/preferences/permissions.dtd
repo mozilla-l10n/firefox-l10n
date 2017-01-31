@@ -19,10 +19,9 @@
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Aခွင့်ပြုပါ">
 <!ENTITY allow.accesskey              "A">
-<!ENTITY windowClose.key              "w ">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "မဆောင်ရွက်တော့ပါ C">
 <!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "ပြောင်းလဲမှုများကို သိမ်းပါ S">
 <!ENTITY button.ok.accesskey          "S">
-

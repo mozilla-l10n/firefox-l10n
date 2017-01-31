@@ -88,6 +88,6 @@
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "လက်မှတ် အနေအထား">
 <!ENTITY exceptionMgr.certstatus.viewCert     "ရှုမြင်ပါ...">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V ">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Pချွင်းချက်အမြဲသိမ်း">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

@@ -22,7 +22,7 @@
 <!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Uပြန်မလုပ်">
 <!ENTITY devmgr.button.unload.accesskey         "U">
-<!ENTITY devmgr.button.fips.accesskey           "F ">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "သင် ထည့်သွင်းလိုတဲ့ အစိတ်အပိုင်းရဲ့ အချက်အလက်ကို ရေးထည့်ပါ။">
 <!ENTITY loaddevice.modname                     "အစိတ်အပိုင်း အမည် -">

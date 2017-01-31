@@ -8,7 +8,7 @@
 <!ENTITY  actionColumn2.label     "လုပ်ဆောင်မှု">
 <!ENTITY  actionColumn2.accesskey "လ">
 
-<!ENTITY  focusSearch1.key        "f ">
+<!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter.emptytext        "ရှာဖွေပါ">

@@ -66,7 +66,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "ဖိုင်တွဲ အသစ်">
 <!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F ">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "ပုဒ်ခွဲ အသစ်">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
@@ -88,7 +88,7 @@
 <!ENTITY search.label                              "ရှာဖွေပါ -">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY cmd.find.key  "f ">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "တင်သွင်းပြီး အရန်သင့် သိမ်းဆည်းပါ">
 <!ENTITY maintenance.accesskey  "I">

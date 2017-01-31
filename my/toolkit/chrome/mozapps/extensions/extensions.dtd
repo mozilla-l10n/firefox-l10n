@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "ရှာဖွေရန်">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f ">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ပွင့်လာနေတယ်...">
 <!ENTITY listEmpty.installed.label            "သင့်ဆီတွင်ဤအမျိုးအစားအတ်အွန်ထည့်သွင်းထားခြင်းမရှိပါ။">

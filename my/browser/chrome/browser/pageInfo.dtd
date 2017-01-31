@@ -11,7 +11,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "အားလုံး ရွေးချယ်ပါ">
 <!ENTITY  selectall.accesskey   "A">
-<!ENTITY  closeWindow.key       "w ">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "အထွေထွေ">
 <!ENTITY  generalTab.accesskey  "G">
@@ -65,7 +65,7 @@
 <!ENTITY  securityTab           "လုံခြုံရေး">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "သက်သေခံလက်မှက်ကို ကြည့်ရန်">
-<!ENTITY  securityView.accesskey "V ">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "အမည်မသိ">
 
 
