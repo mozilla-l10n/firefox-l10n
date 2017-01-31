@@ -100,6 +100,10 @@ Ping
   Konversaasjefêstrinners
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Opnommen stacks
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalars
 ">
@@ -114,6 +118,10 @@ Ping
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Kaaihistogrammen
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Eveneminten
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
