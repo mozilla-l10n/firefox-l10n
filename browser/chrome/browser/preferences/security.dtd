@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "Algemien">
 
+<!ENTITY  warnOnAddonInstall.label        "My warskôgje as websites probearje add-ons te ynstallearjen">
+<!ENTITY  warnOnAddonInstall.accesskey    "M">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "Gefaarlijke downloads blokkearje">
 <!ENTITY  blockDownloads.accesskey        "f">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "My warskôgje foar net-winske en ûngebrûklike software">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Utsûnderingen…">
 <!ENTITY  addonExceptions.accesskey     "U">
