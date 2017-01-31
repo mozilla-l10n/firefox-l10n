@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Jwijwi tii ki lagony me cursor me wot iye pot buk">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Yeny coc ka acako coyo coc">
+<!ENTITY searchOnStartTyping.accesskey   "c">
+<!ENTITY blockAutoReload.label           "Miya ngec kace kakube tye katemo me cwalo onyo cano pot buk">
+<!ENTITY blockAutoReload.accesskey       "k">
 
 
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "a">
 <!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">
-
-
+<!ENTITY checkUserSpelling.label         "Rot nukta ni kun nongo itye kacoc">
+<!ENTITY checkUserSpelling.accesskey     "a">
 
 <!ENTITY dataChoicesTab.label            "Yer me tic">
 
@@ -40,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "P">
 <!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
+<!ENTITY crashReporterDesc2.label         "Ripot me poto konyo &vendorShortName; me yubo bal ki weko layeny mamegi cung matek dok ki ber bedo">
 
 
 <!ENTITY crashReporterLearnMore.label     "Nong ngec mapol">

@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Dwok ter mamegi me yeny?">
 
-<!ENTITY searchreset.pageInfo1      "Twero bedo ni ter mamegi otii woko. &brandShortName; twero konyo yin me dwoko ter me yeny makwongo.">
+<!ENTITY searchreset.pageInfo1      "Twero bedo ni ter mamegi otii woko. &brandShortName; twero konyo in me dwoko ter me yeny makwongo.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
