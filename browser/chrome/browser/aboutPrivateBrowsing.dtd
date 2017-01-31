@@ -23,6 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Yksityinen selaus ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ei tee sinusta anonyymiä">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Internetissä. Työnantajasi tai Internet-palveluntarjoajasi voi edelleen tietää, millä sivuilla on vierailtu.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Lue lisää ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "yksityisestä selauksesta">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Seurannan suojaus">
 <!ENTITY trackingProtection.description2                 "Jotkin sivustot käyttävät seurantamenetelmiä, joiden avulla ne voivat tarkkailla, mitä teet Internetissä. Seurannan suojauksen avulla Firefox estää monia seurantamenetelmiä, jotka keräävät tietoa selaamisestasi.">
