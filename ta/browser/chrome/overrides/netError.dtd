@@ -32,6 +32,7 @@
 
 
 
+<!ENTITY openPortalLoginPage.label "உள்நுழைவுப் பக்கத்தைத் திற">
 
 <!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
 <!ENTITY malformedURI.longDesc "<ul> <li>இணைய முகவரி கீழ்காணுமாறு இருக்கும் <strong>http://www.example.com/</strong></li><li>நீங்க / பயன்படுத்தினீர்களா என பார்க்கவும் (i.e. <strong>/</strong>).</li> </ul>">

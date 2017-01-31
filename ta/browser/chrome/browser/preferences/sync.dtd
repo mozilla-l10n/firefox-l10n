@@ -37,6 +37,8 @@
 <!ENTITY engine.addons.accesskey    "க">
 <!-- Device Settings -->
 
+<!ENTITY syncDeviceName.label       "சாதனத்தின் பெயர்:">
+
 
 
 
