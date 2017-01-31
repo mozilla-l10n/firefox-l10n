@@ -9,3 +9,12 @@
 <!ENTITY usageCol.label "Rozmiar">
 <!ENTITY search.label "Szukaj:">
 <!ENTITY search.accesskey "S">
+<!ENTITY removeSelected.label "Usuń zaznaczone">
+<!ENTITY removeSelected.accesskey "U">
+<!ENTITY save.label "Zapisz zmiany">
+<!ENTITY save.accesskey "Z">
+<!ENTITY cancel.label "Anuluj">
+<!ENTITY cancel.accesskey "A">
+<!ENTITY removingDialog.title "Usuwanie danych stron">
+<!ENTITY removingDialog.description "Podczas usuwania danych stron zostaną również usunięte cisateczka. Może to spowodować wylogowanie z niektórych witryn i usunięcie treści przechowywanych offline. Czy wprowadzić poniższe zmiany?">
+<!ENTITY siteTree.label "Ciasteczka następujących witryn zostaną usunięte:">
