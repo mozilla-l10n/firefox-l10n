@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label "Teramoĩ">
 <!ENTITY bookmarks.folder.toolbar.label "Tembipuru renda techaukaha rehegua">
 <!ENTITY bookmarks.folder.other.label "Ambue techaukahakuéra">
-<!ENTITY bookmarks.folder.desktop.label "Techaukaha mba\u0027erechaha rehegua">
+<!ENTITY bookmarks.folder.desktop.label "Techaukaha mohendahapegua">
 <!ENTITY bookmarks.folder.mobile.label "Techaukaha Pumbyry popeguáva">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Mbojapyre">

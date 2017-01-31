@@ -466,7 +466,7 @@ size. -->
 <!ENTITY save_as_pdf "Eñongatu PDF ramo">
 <!ENTITY print "Ñemonguatia">
 <!ENTITY find_in_page "Kuatiaroguépe jeheka">
-<!ENTITY desktop_mode "Mba\u0027erechaha renda jerurepyre">
+<!ENTITY desktop_mode "Mohendaha rendáre jerure">
 <!ENTITY page "Kuatiarogue">
 <!ENTITY tools "Tembipuru">
 <!ENTITY new_tab "Tendayke pyahu">
@@ -496,18 +496,18 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Eike peteĩ tendayke pyahúpe">
 <!ENTITY contextmenu_open_private_tab "Eike peteĩ tendayke ñemiguápe">
 <!ENTITY contextmenu_remove "Pe\u0027a">
-<!ENTITY contextmenu_add_to_launcher "Embojuaju mba\u0027erechaha ñepyrũre">
+<!ENTITY contextmenu_add_to_launcher "Mba\u0027erechaha ñepyrũme ñemoĩ">
 <!ENTITY contextmenu_share "Moherakuã">
 <!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
 <!ENTITY contextmenu_paste "Mboja">
 <!ENTITY contextmenu_copyurl "Kundaharape mbohasarã">
 <!ENTITY contextmenu_edit_bookmark "Mbosako\u0027i">
-<!ENTITY contextmenu_subscribe "Eñemboheraguapy ko kuatiaroguépe">
+<!ENTITY contextmenu_subscribe "Eñemboheraguapy kuatiaroguépe">
 <!ENTITY contextmenu_site_settings "Tenda ñemboheko mbosako\u0027i">
 <!ENTITY contextmenu_top_sites_edit "Mbosako\u0027i">
 <!ENTITY contextmenu_top_sites_pin "Tenda papy">
 <!ENTITY contextmenu_top_sites_unpin "Tenda mosãso">
-<!ENTITY contextmenu_add_search_engine "Embojoapy hekaha mongu\u0027eha">
+<!ENTITY contextmenu_add_search_engine "Embojoapy hekaha">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Eikundaha mba\u0027erechaha tuichavévape">
+<!ENTITY pref_scroll_title_bar2 "Mba\u0027erechaha tuichavévape jeike">
 <!ENTITY pref_scroll_title_bar_summary2 "Eñomi &brandShortName; rembipuru renda eñemongu\u0027e jave kuatiaroguépe">
 
 <!ENTITY pref_tab_queue_title3 "Tendayke ruguái">
@@ -710,8 +710,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "Moneĩ">
 <!-- Guest mode -->    
 
-<!ENTITY new_guest_session "Tembiapo Pyahu Pepirũmbyréva">
-<!ENTITY exit_guest_session "Tenda Pepirũmbyrévagui ñese">
+<!ENTITY new_guest_session "Pepirũmbyréramo Jeike">
+<!ENTITY exit_guest_session "Pepirũmbyrévagui ñesẽ">
 <!ENTITY guest_session_dialog_continue "Ku\u0027ejey">
 <!ENTITY guest_session_dialog_cancel "Heja">
 <!ENTITY new_guest_session_title "&brandShortName; oñepyrũjeýta">
@@ -819,7 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; hekopyahúma">
 <!ENTITY whatsnew_notification_summary "Eporandu mba\u0027e ipyahúvapa oĩ kóvape">
 
-<!ENTITY promotion_add_to_homescreen "Embojuaju mba\u0027erechaha momba\u0027evévare">
+<!ENTITY promotion_add_to_homescreen "Mba\u0027erechaha Ñepyrũme ñemoĩ">
 
 <!ENTITY helper_first_offline_bookmark_title "Emoñe\u0027ẽ ñandutípe">
 <!ENTITY helper_first_offline_bookmark_message "Ejuhu nde Moñe\u0027ẽha Recha Jeguerohoryvévape, ikatu ñanduti\u0027ỹre.">
