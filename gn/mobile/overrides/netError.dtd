@@ -70,7 +70,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Ehechajey proxy ñemboheko eikuaaite hag̃ua oĩ porãpa.</li> <li>Ehechakuaa pe mohendahavusu oguerekópa mba'ekuaarã aty mba'apoguáva térã Wi-Fi-pe jeike. <button id='wifi'>Emyandy Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahajeýi hekoitépe">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo kookie ñeg̃uahẽ.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo cookie ñeg̃uahẽ.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ehechakuaa nde apopyvuvsu oguerekópa ñangarekoháraite tekorosãrã.</li> <li>Kóva ikatu oikohína peteĩ ñemboheko oiko porã'ỹva mohendahavusúpe rupi.</li> </ul>">
