@@ -130,7 +130,7 @@
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_general "Splošno">
-<!ENTITY pref_category_general_summary3 "Domača stran, jezik, čakalna vrsta zavihov">
+<!ENTITY pref_category_general_summary3 "Domača stran, jezik, čakalna vrsta zavihkov">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
