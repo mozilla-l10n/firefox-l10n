@@ -500,7 +500,7 @@ size. -->
 <!ENTITY contextmenu_share "Moherakuã">
 <!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
 <!ENTITY contextmenu_paste "Mboja">
-<!ENTITY contextmenu_copyurl "Kundaharape monguatia">
+<!ENTITY contextmenu_copyurl "Kundaharape mbohasarã">
 <!ENTITY contextmenu_edit_bookmark "Mbosako\u0027i">
 <!ENTITY contextmenu_subscribe "Eñemboheraguapy ko kuatiaroguépe">
 <!ENTITY contextmenu_site_settings "Tenda ñemboheko mbosako\u0027i">
@@ -518,11 +518,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Ñe\u0027ẽñemi">
 <!ENTITY doorhanger_login_edit_toggle "Ñe\u0027ẽñemi jehechauka">
 <!ENTITY doorhanger_login_edit_toast_error "Ndaikatúi eñongatu jeikeha">
-<!ENTITY doorhanger_login_select_message "Emonguatia ñe\u0027ẽñemi &formatS;?">
+<!ENTITY doorhanger_login_select_message "Ñe\u0027ẽñemi &formatS;? ñembohasarã">
 <!ENTITY doorhanger_login_select_toast_copy "Ñe\u0027ẽñemi ohasáma kuatiajokohápe">
-<!ENTITY doorhanger_login_select_toast_copy_error "Ndaikatúi emonguatia ñe\u0027ẽñemi">
+<!ENTITY doorhanger_login_select_toast_copy_error "Ndaikatúi oñembohasa ñe\u0027ẽñemi">
 <!ENTITY doorhanger_login_select_action_text "Eiporavo ambue tembiapo ñepyrũ">
-<!ENTITY doorhanger_login_select_title "Emonguatia ñe\u0027ẽñemi amógui">
+<!ENTITY doorhanger_login_select_title "Toñembohasa ñe\u0027ẽñemi águi">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -572,7 +572,7 @@ size. -->
 <!ENTITY button_clear_data "Mba\u0027ekuaarã mopotĩ">
 <!ENTITY button_set "Mboheko">
 <!ENTITY button_clear "Mopotĩ">
-<!ENTITY button_copy "Monguatia">
+<!ENTITY button_copy "Mbohasarã">
 
 <!ENTITY home_top_sites_title "Tenda iporãvéva">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder

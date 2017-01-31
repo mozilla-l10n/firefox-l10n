@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "Mongu'eha">
 <!ENTITY newPref.cancelButton          "Heja">
 
-<!ENTITY contextMenu.copyPrefName      "Monguatiapy réra">
-<!ENTITY contextMenu.copyPrefValue     "Monguatiapy repy">
+<!ENTITY contextMenu.copyPrefName      "Téra mbohasarã">
+<!ENTITY contextMenu.copyPrefValue     "Tepy mbohasarã">
