@@ -387,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Іздеулер тарихын көрсету">
 <!ENTITY pref_import_options "Импорт опциялары">
 <!ENTITY pref_import_android_summary "Жүйелік браузерден бетбелгілер және шолу тарихын импорттау">
-
+<!ENTITY pref_private_data_openTabs "Ашық беттер">
 <!ENTITY pref_private_data_history2 "Шолу тарихы">
 <!ENTITY pref_private_data_searchHistory "Іздеулер тарихы">
 <!ENTITY pref_private_data_formdata2 "Формалар тарихы">
@@ -540,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Ықшам беттер">
+<!ENTITY pref_compact_tabs_summary2 "Тік режимде беттерді екі бағанға реттеу">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
