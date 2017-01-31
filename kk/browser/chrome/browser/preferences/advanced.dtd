@@ -58,6 +58,8 @@
 <!ENTITY offlineStorage2.label           "Оффлайн веб құрамасы мен пайдаланушы мәліметтері">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "Сайт деректері">
+
 
 <!ENTITY siteDataSettings.label          "Баптаулаур…">
 <!ENTITY siteDataSettings.accesskey      "п">
