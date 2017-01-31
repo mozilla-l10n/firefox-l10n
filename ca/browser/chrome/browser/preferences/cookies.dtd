@@ -28,7 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Cerca">
+<!ENTITY     searchFilter.accesskey         "a">
 
 <!ENTITY     button.close.label             "Tanca">
 <!ENTITY     button.close.accesskey         "c">
