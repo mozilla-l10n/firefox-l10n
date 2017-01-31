@@ -257,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Natab’äl">
-<!ENTITY historySidebarCmd.commandKey   "ch">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Taq samajib'äl">
 <!ENTITY toolsMenu.accesskey          "i"> 

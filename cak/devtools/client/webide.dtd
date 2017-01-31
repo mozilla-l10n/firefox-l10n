@@ -7,11 +7,11 @@
 <!ENTITY projectMenu_label "Nimasamaj">
 <!ENTITY projectMenu_accesskey "N">
 <!ENTITY projectMenu_newApp_label "K'ak'a' chokoy…">
-<!ENTITY projectMenu_newApp_accesskey "K'">
+<!ENTITY projectMenu_newApp_accesskey "K">
 <!ENTITY projectMenu_importPackagedApp_label "Tijaq pison chokoy…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "p">
 <!ENTITY projectMenu_importHostedApp_label "Tijaq k'ulun chokoy…">
-<!ENTITY projectMenu_importHostedApp_accesskey "k'">
+<!ENTITY projectMenu_importHostedApp_accesskey "k">
 <!ENTITY projectMenu_selectApp_label "Tijaq chokoy…">
 <!ENTITY projectMenu_selectApp_accesskey "T">
 <!ENTITY projectMenu_play_label "Tiyak chuqa' tib'anatäj">

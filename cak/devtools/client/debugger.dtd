@@ -95,7 +95,7 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "Tiq'asäx pa ruyonil ri rub'eyal q'ëq' kaxa ri ruwäch taq tz'ib' ech'utinisan">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "q'">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "q">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -117,7 +117,7 @@
   -  in the source editor's context menu for the function search operation. -->
 
 <!ENTITY debuggerUI.searchFunction           "Tikanöx ri rusamaj pa ruwi' q'ajarib'äl">
-<!ENTITY debuggerUI.searchFunction.key       "q'">
+<!ENTITY debuggerUI.searchFunction.key       "q">
 <!ENTITY debuggerUI.searchFunction.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
