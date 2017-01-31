@@ -9,7 +9,7 @@
 <!ENTITY backLink.label       "&#171; Gå tilbage til privatliv">
 
 <!ENTITY window.title         "Tilføj ny kontekst">
-<!ENTITY window.width         "45em">
+<!ENTITY window.width         "35em">
 
 <!ENTITY name.label           "Navn:">
 <!ENTITY name.accesskey       "N">
