@@ -30,4 +30,5 @@
 <!ENTITY  changeMasterPassword.label     "முதன்மை கடவுச்சொல்லை மாற்றவும்...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "சேமிக்கப்பட்ட புகுபதிகைகள்...">
+<!ENTITY  savedLogins.accesskey          "L">
