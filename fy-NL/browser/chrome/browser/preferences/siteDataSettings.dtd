@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Ynstellingen – Websitegegevens">
+<!ENTITY     settings.description          "De folgjende websites hawwe frege gegevens te bewarjen op jo skiif. Jo kinne spesifisearje hokker websites tastimming hawwe om gegevens te bewarjen. Standert binne websitegegevens tydlik en kinne automatysk fuortsmiten wurde.">
+<!ENTITY     hostCol.label                 "Website">
+<!ENTITY     statusCol.label               "Steat">
+<!ENTITY     usageCol.label                "Unthâld">
+<!ENTITY     search.label                  "Sykje:">
+<!ENTITY     search.accesskey              "S">
