@@ -16,5 +16,5 @@
 <!ENTITY cancel.label "Anuluj">
 <!ENTITY cancel.accesskey "A">
 <!ENTITY removingDialog.title "Usuwanie danych stron">
-<!ENTITY removingDialog.description "Podczas usuwania danych stron zostaną również usunięte cisateczka. Może to spowodować wylogowanie z niektórych witryn i usunięcie treści przechowywanych offline. Czy wprowadzić poniższe zmiany?">
+<!ENTITY removingDialog.description "Podczas usuwania danych stron zostaną również usunięte ciasteczka. Może to spowodować wylogowanie z niektórych witryn i usunięcie treści przechowywanych offline. Czy wprowadzić poniższe zmiany?">
 <!ENTITY siteTree.label "Ciasteczka następujących witryn zostaną usunięte:">
