@@ -25,7 +25,8 @@
 <!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.tabs.accesskey      "Р">
+<!ENTITY engine.tabs.label2         "Отворени раздели">
+<!ENTITY engine.tabs.accesskey      "р">
 <!ENTITY engine.history.label       "История">
 <!ENTITY engine.history.accesskey   "И">
 <!ENTITY engine.passwords.label     "Пароли">
