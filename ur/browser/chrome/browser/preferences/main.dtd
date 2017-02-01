@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "جب &brandShortName; شروع ہو:">
 <!ENTITY startupPage.accesskey     "ش">
-
+<!ENTITY startupUserHomePage.label "اپنا ہوم صفحہ دکھائیں">
 <!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
 <!ENTITY startupPrevSession.label  "اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں">
 

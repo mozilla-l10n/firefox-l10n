@@ -11,7 +11,8 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "متعدد ٹیب ایک ساتھ بند کرنے پر مجھے تنبیح کیجیئے">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "م">
 
-
+<!ENTITY warnOnOpenManyTabs.label       "متعدد ٹیب کھولنے پر شاید &brandShortName; آہستہ ہو تو منتبہ کریں">
+<!ENTITY warnOnOpenManyTabs.accesskey   "ہ">
 
 <!ENTITY switchLinksToNewTabs.label        "جب میں ایک ربط نئے ٹیب میں کھولوں، تو فوراً اسی کی طرف سوئچ ہو جائیں">
 <!ENTITY switchLinksToNewTabs.accesskey    "ج">
