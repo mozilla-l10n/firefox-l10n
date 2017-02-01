@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Socruithe - Sonraí Suímh">
-
+<!ENTITY     settings.description          "D'iarr na suíomhanna seo a leanas sonraí suímh a stóráil ar do dhioscsa. Is féidir leat na suíomhanna a bhfuil an cead sin acu a shainiú. Is é an réamhshocrú ná sonraí a stóráil go sealadach, d'fhéadfaí go scriosfar iad seo go huathoibríoch.">
 <!ENTITY     hostCol.label                 "Suíomh">
 <!ENTITY     statusCol.label               "Stádas">
 <!ENTITY     usageCol.label                "Stóras">
