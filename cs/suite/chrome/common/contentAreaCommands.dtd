@@ -112,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "P">
 <!ENTITY mediaPlaybackRate100.label     "Normální">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label     "Rychlé přehrávání (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "y">
 <!ENTITY mediaPlaybackRate150.label     "Rychlejší (1.5×)">
 <!ENTITY mediaPlaybackRate150.accesskey "e">
 <!ENTITY mediaPlaybackRate200.label     "Dvojnásobná rychlost">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "Smyčka">
+<!ENTITY mediaLoop.accesskey          "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
