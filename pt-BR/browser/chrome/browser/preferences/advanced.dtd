@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Acessibilidade">
 
-<!ENTITY useCursorNavigation.label       "Usar teclas de setas para percorrer pelas páginas">
+<!ENTITY useCursorNavigation.label       "Sempre usar as teclas de cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começa a digitar">
 <!ENTITY searchOnStartTyping.accesskey   "x">
@@ -19,9 +19,9 @@
 
 <!ENTITY browsing.label                  "Navegação">
 
-<!ENTITY useAutoScroll.label             "Autorrolagem">
+<!ENTITY useAutoScroll.label             "Usar autorrolagem">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Rolagem suave">
+<!ENTITY useSmoothScrolling.label        "Usar rolagem suave">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "r">
@@ -85,9 +85,9 @@
 
 <!ENTITY updateApplication.label         "Atualizações do &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalar automaticamente (recomendado: maior segurança)">
-<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateAuto1.accesskey           "I">
 <!ENTITY updateCheckChoose.label         "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
-<!ENTITY updateCheckChoose.accesskey     "c">
+<!ENTITY updateCheckChoose.accesskey     "V">
 <!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
