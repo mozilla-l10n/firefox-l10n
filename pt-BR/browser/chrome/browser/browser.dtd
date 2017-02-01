@@ -46,7 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar Link para o dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
-<!ENTITY  moveToNewWindow.label              "Mover para nova janela">
+<!ENTITY  moveToNewWindow.label              "Mover para uma nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "está em tela inteira">
-<!ENTITY fullscreenWarning.generic.label "Este documento está no modo de tela inteira">
+<!ENTITY fullscreenWarning.generic.label "Este documento está agora em tela inteira">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
