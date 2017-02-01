@@ -22,5 +22,5 @@
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Concluir">
-<!ENTITY button.ok.accesskey  "P">
+<!ENTITY button.ok.accesskey  "C">
 
