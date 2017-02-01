@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Obrigado por escolher o Firefox! Saiba mais sobre as <a>novas funcionalidades</a> para tirar o máximo proveito do seu navegador.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Obrigado por escolher o Firefox! Saiba mais sobre as <a>novas funcionalidades</a> e obtenha o máximo do seu navegador.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
