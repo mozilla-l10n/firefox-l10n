@@ -72,7 +72,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.label "Visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Modo off-line">
@@ -285,9 +285,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "o">
+<!ENTITY newNavigatorCmd.accesskey      "j">
 <!ENTITY newPrivateWindow.label     "Nova janela privativa">
-<!ENTITY newPrivateWindow.accesskey "j">
+<!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
 
 <!ENTITY editMenu.label         "Editar"> 
