@@ -9,10 +9,15 @@
 <!ENTITY retry.label "Попробовать снова">
 <!ENTITY returnToPreviousPage.label "Вернуться назад">
 <!ENTITY advanced.label "Дополнительно">
+
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Попытка соединения не удалась">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 <!ENTITY deniedPortAccess.title "Обращение к данному адресу заблокировано">
 <!ENTITY deniedPortAccess.longDesc "">
+
 <!ENTITY dnsNotFound.title "Сервер не найден">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
@@ -25,6 +30,7 @@
      что &brandShortName; разрешён выход в Интернет.</li>
 </ul>
 ">
+
 <!ENTITY fileNotFound.title "Файл не найден">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -32,11 +38,13 @@
   <li>Проверьте, не был ли файл переименован, удалён или перемещён.</li>
 </ul>
 ">
+
 <!ENTITY fileAccessDenied.title "В доступе к файлу отказано">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Возможно, что он был удалён или перемещён, или разрешения на файл не дают получить к нему доступ.</li>
 </ul>">
+
 <!ENTITY generic.title "Ой.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не может загрузить эту страницу по неопределённой причине.</p>
@@ -58,38 +66,47 @@
      <strong>/</strong>).</li>
 </ul>
 ">
+
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
 <!ENTITY notCached.title "Документ просрочен">
 <!ENTITY notCached.longDesc "<p>Запрошенный документ недоступен в кэше &brandShortName;.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
+
 <!ENTITY netOffline.title "Автономный режим">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Нажмите «Попробовать снова», чтобы подключиться к сети и перезагрузить страницу.</li>
 </ul>
 ">
+
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li>
 </ul>
 ">
+
 <!ENTITY unsafeContentType.title "Небезопасный тип файла">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li>
 </ul>
 ">
+
 <!ENTITY netReset.title "Соединение было сброшено">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 <!ENTITY netTimeout.title "Время ожидания соединения истекло">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
 <!ENTITY unknownProtocolFound.title "Неизвестный тип адреса">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Для открытия данного адреса вам, возможно, понадобится установить стороннее программное обеспечение.</li>
 </ul>
 ">
+
 <!ENTITY proxyConnectFailure.title "Прокси-сервер отказывается принимать соединения">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -98,6 +115,7 @@
     работает.</li>
 </ul>
 ">
+
 <!ENTITY proxyResolveFailure.title "Не удалось найти прокси-сервер">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -107,6 +125,7 @@
     что &brandShortName; разрешён выход в Интернет.</li>
 </ul>
 ">
+
 <!ENTITY redirectLoop.title "Неверное перенаправление на странице">
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -114,6 +133,7 @@
     кук.</li>
 </ul>
 ">
+
 <!ENTITY unknownSocketType.title "Неизвестный/неопознанный ответ сервера">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -121,6 +141,7 @@
   <li>Возможно, это произошло из-за нестандартной конфигурации сервера.</li>
 </ul>
 ">
+
 <!ENTITY nssFailure2.title "Ошибка при установлении защищённого соединения">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -128,8 +149,13 @@
   <li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li>
 </ul>
 ">
+
 <!ENTITY certerror.longpagetitle1 "Ваше соединение не защищено">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara "Владелец <span class='hostname'/> неправильно настроил свой веб-сайт. Чтобы защитить вашу информацию от кражи, &brandShortName; не соединился с этим веб-сайтом.">
+
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Возможно, сайт временно недоступен или перегружен запросами. Подождите некоторое время и
@@ -140,18 +166,30 @@
     что &brandShortName; разрешён выход в Интернет.</li>
 </ul>
 ">
+
 <!ENTITY cspBlocked.title "Заблокировано политикой защиты содержимого">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; заблокировал данный способ загрузки этой страницы, так как страница имеет политику защиты содержимого, которая это запрещает.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Ошибка искажения содержимого">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка при передаче данных.</p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li></ul>">
+
+
 <!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">
+
 <!ENTITY errorReporting.automatic2 "Отправка сообщений о подобных ошибках поможет Mozilla обнаружить и заблокировать вредоносные сайты">
 <!ENTITY errorReporting.learnMore "Подробнее…">
+
 <!ENTITY remoteXUL.title "Удалённый XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта, чтобы проинформировать их об этой проблеме.</li></ul></p>">
+
 <!ENTITY sslv3Used.title "Установка защищённого соединения не удалась">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дополнительная информация: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!ENTITY weakCryptoUsed.title "Ваше соединение не защищено">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Дополнительная информация: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Дополнительно">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> использует защитную технологию, которая является устаревшей и уязвимой для атаки. Злоумышленник может легко выявить информацию, которая, как вы думали, находится в безопасности.">
@@ -163,7 +201,7 @@
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; не соединился с <span id='wrongSystemTime_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTime_systemDate'/>, тогда как на самом деле сейчас <span id='wrongSystemTime_actualDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не соединился с <span id='wrongSystemTimeWithoutReference_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTimeWithoutReference_systemDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
 
-<!ENTITY certerror.pagetitle1 "Незащищённое соединение">
+<!ENTITY certerror.pagetitle1  "Незащищённое соединение">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует HTTP Strict Transport Security (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
 <!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
 

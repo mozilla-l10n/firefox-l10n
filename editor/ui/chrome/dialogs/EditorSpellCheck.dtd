@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Проверка орфографии">
+
 <!ENTITY misspelledWord.label "Слово с ошибкой:">
 <!ENTITY wordEditField.label "Заменить на:">
 <!ENTITY wordEditField.accessKey "м">

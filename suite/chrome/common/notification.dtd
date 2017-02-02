@@ -3,6 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY closeNotification.tooltip "Закрыть это сообщение">
+
+<!-- LOCALIZATION NOTE (closeNotificationItem.label): This entity is used
+     to replace the Toolkit default closeNotificationItem.label ("Not Now")
+     which is ambiguous in some cases. Thus, make sure to select a phrase
+     that clearly relates to closing the current doorhanger. -->
 <!ENTITY closeNotificationItem.label "Убрать уведомление">
+
 <!ENTITY checkForUpdates "Проверить наличие обновлений…">
+
 <!ENTITY learnMore "Подробнее…">

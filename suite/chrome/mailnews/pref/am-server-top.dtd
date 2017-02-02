@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-server-top.xul -->
+
 <!ENTITY messageStorage.label "Хранилище сообщений">
 <!ENTITY securitySettings.label "Настройки защиты">
 <!ENTITY serverSettings.label "Параметры сервера">
@@ -13,6 +15,11 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "р">
 <!ENTITY serverPortDefault.label "По умолчанию:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
@@ -45,14 +52,20 @@
 <!ENTITY modelMarkDeleted.accesskey "т">
 <!ENTITY modelDeleteImmediately.label "Удалить его сразу">
 <!ENTITY modelDeleteImmediately.accesskey "д">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
 <!ENTITY expungeOnExit.accesskey "ж">
 <!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
 <!ENTITY emptyTrashOnExit.accesskey "ч">
 <!ENTITY loginAtStartup.label "Проверять почту при запуске">
 <!ENTITY loginAtStartup.accesskey "в">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Спрашивать перед загрузкой более чем">
 <!ENTITY maxMessagesStart.accesskey "ш">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "сообщений">
 <!ENTITY alwaysAuthenticate.label "Всегда проводить аутентификацию при подключении к этому серверу">
 <!ENTITY alwaysAuthenticate.accesskey "о">
@@ -70,6 +83,7 @@
 <!ENTITY browseFolder.accesskey "б">
 <!ENTITY browseNewsrc.label "Обзор…">
 <!ENTITY browseNewsrc.accesskey "з">
+
 <!ENTITY accountTitle.label "Параметры учётной записи">
 <!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">
 <!ENTITY storeType.label "Тип хранилища сообщений:">
