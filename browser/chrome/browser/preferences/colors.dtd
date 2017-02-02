@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Cleachd na dathan a thagh thu gu h-àrd an àite na feadhainn a shònraich an duilleag:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "u">
 
 <!ENTITY  overrideDefaultPageColors.always.label "An-còmhnaidh">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Le ùrlaran àrd-iomsgaraidh a-mhàin">
