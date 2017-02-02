@@ -37,19 +37,19 @@
 #define extend_seamonkey Расширение SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://addons.mozilla.org/ru/seamonkey/
+# link title for https://addons.mozilla.org/en-US/seamonkey/
 #define seamonkey_addons Дополнения SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://addons.mozilla.org/ru/seamonkey/themes
+# link title for https://addons.mozilla.org/en-US/seamonkey/themes
 #define seamonkey_themes Темы SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://addons.mozilla.org/ru/seamonkey/dictionaries
+# link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
 #define seamonkey_dictionaries Словари проверки орфографии
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://addons.mozilla.org/ru/seamonkey/plugins
+# link title for https://addons.mozilla.org/en-US/seamonkey/plugins
 #define seamonkey_plugins Плагины для SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):

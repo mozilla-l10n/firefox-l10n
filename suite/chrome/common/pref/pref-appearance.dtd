@@ -2,19 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
 <!ENTITY pref.appearance.title "Внешний вид">
-<!ENTITY onStartLegend.label "При запуске &brandShortName; открывать">
-<!ENTITY navCheck.label "Браузер">
-<!ENTITY navCheck.accesskey "р">
-<!ENTITY showToolsLegend.label "Показывать панели инструментов как">
-<!ENTITY picsNtextRadio.label "Значки и текст">
-<!ENTITY picsNtextRadio.accesskey "е">
-<!ENTITY picsOnlyRadio.label "Значки">
-<!ENTITY picsOnlyRadio.accesskey "З">
-<!ENTITY textonlyRadio.label "Текст">
-<!ENTITY textonlyRadio.accesskey "Т">
-<!ENTITY showHideTooltips.label "Показывать всплывающие подсказки">
-<!ENTITY showHideTooltips.accesskey "в">
-<!ENTITY pref.locales.title "Язык интерфейса пользователя">
-<!ENTITY selectLocale.label "Выберите язык, используемый в диалоговых окнах, меню, панелях инструментов и кнопках:">
-<!ENTITY restartOnLangChange.label "Смена языка интерфейса произойдёт после перезапуска вами &brandShortName;.">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "При запуске &brandShortName; открывать">
+<!ENTITY navCheck.label                         "Браузер">
+<!ENTITY navCheck.accesskey                     "р">
+<!ENTITY showToolsLegend.label                  "Показывать панели инструментов как">
+<!ENTITY picsNtextRadio.label                   "Значки и текст">
+<!ENTITY picsNtextRadio.accesskey               "е">
+<!ENTITY picsOnlyRadio.label                    "Значки">
+<!ENTITY picsOnlyRadio.accesskey                "З">
+<!ENTITY textonlyRadio.label                    "Текст">
+<!ENTITY textonlyRadio.accesskey                "Т">
+<!ENTITY showHideTooltips.label                 "Показывать всплывающие подсказки">
+<!ENTITY showHideTooltips.accesskey             "в">
+
+<!ENTITY pref.locales.title                     "Язык интерфейса пользователя">
+<!ENTITY selectLocale.label                     "Выберите язык, используемый в диалоговых окнах, меню, панелях инструментов и кнопках:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Смена языка интерфейса произойдёт после перезапуска вами &brandShortName;.">
+
