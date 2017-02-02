@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Симулятор баптаулары">
 <!ENTITY simulator_remove "Симуляторды өшіру">
 <!ENTITY simulator_reset "Бастапқы мәндерін қайтару">
-
+<!ENTITY simulator_name "Аты">
 <!ENTITY simulator_software "Бағд. қамтама">
 <!ENTITY simulator_version "Нұсқасы">
 <!ENTITY simulator_profile "Профиль">
