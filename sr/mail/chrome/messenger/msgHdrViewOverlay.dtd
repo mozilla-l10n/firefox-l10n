@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY toField4.label "За">
-<!ENTITY fromField4.label "Од">
+<!ENTITY fromField4.label "Шаље">
 <!ENTITY senderField4.label "Пошиљалац">
 <!ENTITY author.label "Писац">
 <!ENTITY organizationField4.label "Организација">
