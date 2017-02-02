@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Barrachd fiosrachaidh…">
 
-
+<!ENTITY defaultButton.label "Ceart ma-thà!">
+<!ENTITY defaultButton.accesskey "C">

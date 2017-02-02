@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
 <!ENTITY startupPage.accesskey     "t">
-
+<!ENTITY startupUserHomePage.label "Seall an duilleag-dhachaigh agad">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
-
+<!ENTITY startupPrevSession.label  "Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh">
 
 <!ENTITY homepage.label            "An duilleag-dhachaigh:">
 <!ENTITY homepage.accesskey        "A">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Tagh…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-
-
+<!ENTITY alwaysAskWhere.label         "Faighnich càit an dèid faidhlichean a shàbhaladh an-còmhnaidh">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Dèan cinnteach an-còmhnaidh an e &brandShortName; fhèin do roghainn brabhsair">
 <!ENTITY alwaysCheckDefault2.accesskey    "D">

@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Coitcheann">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Thoir rabhadh nuair a dh’fheuchas làraichean ri tuilleadan a stàladh">
+<!ENTITY  warnOnAddonInstall.accesskey    "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Bac luchdaidhean a-nuas cunnartach">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Thoir rabhadh mu bhathar-bhog gun iarraidh is bathar-bog neo-chumanta">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eisgeachdan…">
 <!ENTITY  addonExceptions.accesskey     "E">
