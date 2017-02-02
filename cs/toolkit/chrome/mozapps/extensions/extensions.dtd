@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nástroje doplňků">
 
+<!ENTITY getThemes.description                "Chcete si přizpůsobit svůj prohlížeč?">
+<!ENTITY getThemes.learnMore                  "Vyberte si některý z tisíce vzhledů.">
+
 <!ENTITY cmd.back.tooltip                     "Přejde na předchozí stránku">
 <!ENTITY cmd.forward.tooltip                  "Přejde na následující stránku">
 

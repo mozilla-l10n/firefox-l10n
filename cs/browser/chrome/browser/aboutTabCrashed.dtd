@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Informovat mě e-mailem, až bude k dispozici více informací">
 <!ENTITY tabCrashed.reportSent "Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte &brandShortName; vylepšovat!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Nahlásit panely na pozadí">
+<!ENTITY tabCrashed.autoSubmit2 "Nastavit předvolby tak, aby byla hlášení o pádu odesílána automaticky na pozadí, včetně informací o spadlých panelech z této relace a budoucích relací">

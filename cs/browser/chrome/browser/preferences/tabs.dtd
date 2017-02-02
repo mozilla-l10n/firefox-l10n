@@ -8,8 +8,11 @@
 <!ENTITY newWindowsAsTabs.label       "Otevírat nová okna v panelech">
 <!ENTITY newWindowsAsTabs.accesskey   "O">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Varovat při zavírání více panelů">
 
+<!ENTITY warnOnOpenManyTabs.label       "Varovat, pokud by otevírání více panelů mohlo zpomalit aplikaci &brandShortName;">
 
+<!ENTITY switchLinksToNewTabs.label        "Přepnout na nový panel otevřený z odkazu">
 
 <!ENTITY showTabsInTaskbar.label          "V hlavním panelu Windows zobrazit náhledy panelů">
 <!ENTITY showTabsInTaskbar.accesskey      "h">
