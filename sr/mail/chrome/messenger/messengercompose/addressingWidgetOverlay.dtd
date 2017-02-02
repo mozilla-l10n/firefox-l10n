@@ -4,7 +4,7 @@
 
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label   "За:"> 
+<!ENTITY toAddr.label   "Прима:"> 
 <!ENTITY ccAddr.label   "Коп:"> 
 <!ENTITY bccAddr.label  "сКоп:"> 
 <!ENTITY replyAddr.label   "Одговор-за:"> 
