@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Свойства горизонтального разделителя">
+
 <!ENTITY dimensionsBox.label "Размеры">
 <!ENTITY heightEditField.label "Высота:">
 <!ENTITY heightEditField.accessKey "В">
@@ -16,6 +19,7 @@
 <!ENTITY centerRadio.accessKey "П">
 <!ENTITY rightRadio.label "Вправо">
 <!ENTITY rightRadio.accessKey "п">
+
 <!ENTITY threeDShading.label "3D-тень">
 <!ENTITY threeDShading.accessKey "т">
 <!ENTITY saveSettings.label "Использовать по умолчанию">

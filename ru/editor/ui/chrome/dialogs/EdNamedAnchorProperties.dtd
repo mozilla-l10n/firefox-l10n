@@ -6,3 +6,5 @@
 <!ENTITY anchorNameEditField.label "Имя якоря:">
 <!ENTITY anchorNameEditField.accessKey "И">
 <!ENTITY nameInput.tooltip "Введите уникальное имя для этого якоря (целевого объекта)">
+
+

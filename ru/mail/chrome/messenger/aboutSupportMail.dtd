@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID сборки приложения">
+
 <!ENTITY aboutSupport.accountsTitle "Учётные записи почты и новостей">
 <!ENTITY aboutSupport.showPrivateData.mainText "Включить имена учётных записей">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(возможно идентифицирующая информация)">
@@ -15,4 +16,5 @@
 <!ENTITY aboutSupport.accountsAuthMethod "Метод аутентификации">
 <!ENTITY aboutSupport.accountsDefault "По умолчанию?">
 <!ENTITY aboutSupport.identityName "Идентификатор">
+
 <!ENTITY aboutSupport.sendViaEmail.label "Послать по почте">

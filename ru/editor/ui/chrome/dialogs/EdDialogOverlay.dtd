@@ -12,5 +12,7 @@
 <!ENTITY makeUrlRelative.label "Относительный URL">
 <!ENTITY makeUrlRelative.accessKey "И">
 <!ENTITY makeUrlRelative.tooltip "Изменить абсолютный URL на относительный. Перед изменением вам нужно сохранить страницу.">
+
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Введите адрес веб-страницы, локального файла или выберите якорь или заголовок с именем из списка:">
 <!ENTITY LinkURLEditField.accessKey "а">
