@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Innealan airson a h-uile tuilleadan">
 
-
+<!ENTITY getThemes.description                "A bheil thu airson dreach pearsanta a chur air a’ bhrabhsair agad?">
+<!ENTITY getThemes.learnMore                  "Tha roghadh is taghadh agad am measg nam mìltean a dh’ùrlaran.">
 
 <!ENTITY cmd.back.tooltip                     "Rach duilleag air ais">
 <!ENTITY cmd.forward.tooltip                  "Rach duilleag air adhart">

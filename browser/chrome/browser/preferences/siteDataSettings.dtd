@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY     window.title                  "Roghainnean - Dàta làraichean">
+<!ENTITY     settings.description          "Dh’iarr na làraichean-lìn a leanas cead dàta a stòradh air an diosg agad. Tha e an urra riut fhèin dè na làraichean dhan doir thu cead an dàta aca a stòradh ann. ’S e rud sealach a tha ann an dàta làraich bunaiteach agus gabhaidh a sguabadh às gu fèin-obrachail.">
+<!ENTITY     hostCol.label                 "Làrach">
+<!ENTITY     statusCol.label               "Staid">
+<!ENTITY     usageCol.label                "Stòras">
+<!ENTITY     search.label                  "Lorg:">
+<!ENTITY     search.accesskey              "L">

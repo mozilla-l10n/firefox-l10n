@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Sioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "Tabaichean fosgailte">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "an eachdraidh agam">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "na faclan-faire agam">

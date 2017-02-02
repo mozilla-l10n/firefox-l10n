@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
-
+<!ENTITY captivePortal.title "Clàraich a-steach dhan lìonra">
+<!ENTITY captivePortal.longDesc "<p>Dh’fhaoidte gu bheil an lìonra seo a’ sparradh ort clàradh a-steach mus fhaigh thu cothrom air an eadar-lìon.</p>">
 
 <!ENTITY openPortalLoginPage.label "Fosgail an duilleag far an clàraich mi a-steach">
 
@@ -115,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p>Cha b’ urrainn dha &brandShortName; ceangal ri <span id='wrongSystemTime_URL'/> a chionn ’s gu bheil an cleoc agad a’ sealltainn an ama chearr agus cha ghabh ceangal tèarainte a stèidheachadh ri linn sin.</p> <p>Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate'/> ach tha e <span id='wrongSystemTime_actualDate'/>. Cuir ceart an t-àm is an ceann-là gus an duilgheadas seo a chàradh.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Cha b’ urrainn dha &brandShortName; ceangal ri <span id='wrongSystemTimeWithoutReference_URL'/> a chionn ’s gu bheil an cleoc agad a’ sealltainn an ama chearr agus cha ghabh ceangal tèarainte a stèidheachadh ri linn sin.</p> <p>Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTimeWithoutReference_systemDate'/>. Cuir ceart an t-àm is an ceann-là gus an duilgheadas seo a chàradh.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ceangal nach eil tèarainte">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tha an làrach seo a’ cleachdadh HTTP Strict Transport Security (HSTS) gus a chur an cèill nach urrainn dha &brandShortName; ceangal ris ach gu tèarainte. Ri linn sin, chan urrainnear eisgeachd a chur ris airson an teisteanais seo.">
