@@ -2,8 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Свойства изображения">
+
 <!ENTITY pixelsPopup.value "пикселов">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Адрес изображения:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Введите имя файла с изображением или его адрес">
@@ -16,7 +22,11 @@
 <!ENTITY altTextEditField.tooltip "Введите текст, показываемый на месте изображения">
 <!ENTITY noAltText.label "Не использовать альтернативный текст">
 <!ENTITY noAltText.accessKey "Н">
+
 <!ENTITY previewBox.label "Предварительный просмотр изображения">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Исходный размер:">
 <!ENTITY actualSizeRadio.label "Исходный размер">
 <!ENTITY actualSizeRadio.accessKey "И">
@@ -31,15 +41,21 @@
 <!ENTITY constrainCheckbox.label "Соблюдать пропорции">
 <!ENTITY constrainCheckbox.accessKey "С">
 <!ENTITY constrainCheckbox.tooltip "Соблюдать пропорции при изменении размера изображения">
+
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Карта изображения">
 <!ENTITY removeImageMapButton.label "Убрать">
 <!ENTITY removeImageMapButton.accessKey "У">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Расположение текста по отношению к изображению">
 <!ENTITY bottomPopup.value "Внизу">
 <!ENTITY topPopup.value "Вверху">
 <!ENTITY centerPopup.value "По центру">
 <!ENTITY wrapRightPopup.value "Влево, окружить текстом справа">
 <!ENTITY wrapLeftPopup.value "Вправо, окружить текстом слева">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Поля">
 <!ENTITY leftRightEditField.label "Слева и справа:">
 <!ENTITY leftRightEditField.accessKey "е">
@@ -47,11 +63,15 @@
 <!ENTITY topBottomEditField.accessKey "в">
 <!ENTITY borderEditField.label "Сплошная граница:">
 <!ENTITY borderEditField.accessKey "п">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Показывать границу вокруг изображения, содержащего ссылку">
 <!ENTITY showImageLinkBorder.accessKey "г">
 <!ENTITY LinkAdvancedEditButton.label "Редактор свойств ссылки…">
 <!ENTITY LinkAdvancedEditButton.accessKey "д">
 <!ENTITY LinkAdvancedEditButton.tooltip "Добавление или изменение HTML-атрибутов, атрибутов стилей и JavaScript">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Адрес">
 <!ENTITY imageDimensionsTab.label "Размеры">

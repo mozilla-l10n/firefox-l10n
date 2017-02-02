@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Свойства текстового поля">
+
 <!ENTITY Settings.label "Параметры">
+
 <!ENTITY TextAreaName.label "Имя поля:">
 <!ENTITY TextAreaName.accessKey "И">
 <!ENTITY TextAreaRows.label "Строк:">
@@ -20,6 +22,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "К">
 <!ENTITY InitialText.label "Первоначальный текст:">
 <!ENTITY InitialText.accessKey "е">
+
 <!ENTITY TextAreaWrap.label "Режим переноса:">
 <!ENTITY TextAreaWrap.accessKey "Р">
 <!ENTITY WrapDefault.value "По умолчанию">

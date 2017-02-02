@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Параметры автономной работы">
+
 <!ENTITY checkAutoDetect.label "Автоматически выбирать обнаруженное состояние подключения">
 <!ENTITY checkAutoDetect.accesskey "м">
 <!ENTITY titleStartUp "Ручной выбор состояния при запуске:">
@@ -14,6 +15,7 @@
 <!ENTITY radioAlwaysOnlineState.accesskey "ю">
 <!ENTITY radioAlwaysOffline.label "Автономная работа">
 <!ENTITY radioAlwaysOffline.accesskey "в">
+
 <!ENTITY textGoingOnline "Отправить неотправленные сообщения при подключении?">
 <!ENTITY radioAutoSend.label "Да">
 <!ENTITY radioAutoSend.accesskey "Д">

@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Словарь пользователя">
+
 <!ENTITY wordEditField.label "Новое слово:">
 <!ENTITY wordEditField.accessKey "Н">
 <!ENTITY AddButton.label "Добавить">
@@ -13,5 +15,6 @@
 <!ENTITY ReplaceButton.accessKey "м">
 <!ENTITY RemoveButton.label "Убрать">
 <!ENTITY RemoveButton.accessKey "У">
+
 <!ENTITY CloseButton.label "Закрыть">
 <!ENTITY CloseButton.accessKey "З">

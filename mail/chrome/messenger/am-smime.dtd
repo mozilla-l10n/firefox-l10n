@@ -24,11 +24,14 @@
 <!ENTITY signMessage.label "Подписывать сообщения цифровой подписью (по умолчанию)">
 <!ENTITY signMessage.accesskey "д">
 <!ENTITY signingCert.message "Личный сертификат для подписи:">
+
 <!ENTITY certificates.label "Сертификаты">
 <!ENTITY manageCerts2.label "Управление сертификатами">
 <!ENTITY manageCerts2.accesskey "п">
 <!ENTITY manageDevices.label "Устройства защиты">
 <!ENTITY manageDevices.accesskey "т">
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Выбор сертификата">
-<!ENTITY certPicker.info "Сертификат:">
+<!ENTITY certPicker.info  "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Информация о выбранном сертификате:">
