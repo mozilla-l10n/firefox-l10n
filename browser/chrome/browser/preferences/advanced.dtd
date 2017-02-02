@@ -42,7 +42,7 @@
 
 <!ENTITY crashReporterDesc2.label         "Os relatórios de travamento ajudam a &vendorShortName; na solução de problemas e a fazer o seu navegador mais estável e seguro">
 <!ENTITY alwaysSubmitCrashReports.label   "Permitir ao &brandShortName; enviar relatórios de travamento em seu nome">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "P">
 <!ENTITY crashReporterLearnMore.label     "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
