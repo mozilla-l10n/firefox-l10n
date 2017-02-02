@@ -52,6 +52,7 @@
 <!ENTITY offlineStorage2.label           "Offline obsah a uživatelská data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single

@@ -96,6 +96,7 @@ Ping
   Zatuhnutí vláken
 ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skaláry">
 
@@ -108,6 +109,9 @@ Ping
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogramy s klíčem
 ">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Události">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduchá měření">
 
