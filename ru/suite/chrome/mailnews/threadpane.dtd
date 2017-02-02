@@ -21,6 +21,8 @@
 <!ENTITY flagColumn.label "Флаг">
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
+
+<!--Tooltips-->
 <!ENTITY columnChooser2.tooltip "Выбрать колонки для отображения">
 <!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
 <!ENTITY fromColumn2.tooltip "Сортировать по автору">

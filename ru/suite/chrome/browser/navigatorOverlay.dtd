@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- File Menu -->
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "а">
 <!ENTITY tabCmd.commandkey "t">
@@ -11,13 +12,20 @@
 <!ENTITY openFileCmd.label "Открыть файл…">
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "а">
+
 <!ENTITY uploadFile.label "Выгрузить файл…">
 <!ENTITY uploadFile.accesskey "ф">
+
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "м">
+
+<!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Найти на этой странице…">
+
+<!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Показать/скрыть">
 <!ENTITY toolbarsCmd.accesskey "о">
 <!ENTITY tabbarCmd.label "Панель вкладок">
@@ -26,8 +34,10 @@
 <!ENTITY taskbarCmd.accesskey "т">
 <!ENTITY componentbarCmd.label "Панель компонентов">
 <!ENTITY componentbarCmd.accesskey "н">
+
 <!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
+
 <!ENTITY useStyleSheetMenu.label "Использовать стиль">
 <!ENTITY useStyleSheetMenu.accesskey "л">
 <!ENTITY useStyleSheetNone.label "Нет">
@@ -42,6 +52,8 @@
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Перейти">
 <!ENTITY goMenu.accesskey "е">
 <!ENTITY goHomeCmd.label "Домой">
@@ -59,6 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "с">
 <!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">
 <!ENTITY syncTabsMenu.accesskey "л">
+
+<!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "к">
 <!ENTITY addCurPageCmd.label "Добавить страницу в закладки">
@@ -71,11 +85,14 @@
 <!ENTITY manBookmarksCmd.label "Управление закладками…">
 <!ENTITY manBookmarksCmd.accesskey "п">
 <!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Поиск в Интернете">
 <!ENTITY searchInternetCmd.accesskey "с">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Перевести страницу">
 <!ENTITY translateMenu.accesskey "р">
+
 <!ENTITY cookieMessageTitle.label "Изменились права на сохранение кук">
 <!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными куками">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "п">
@@ -91,6 +108,7 @@
 <!ENTITY cookieBlockCookiesCmd.label "Блокировать куки с этого веб-сайта">
 <!ENTITY cookieBlockCookiesCmd.accesskey "л">
 <!ENTITY cookieBlockCookiesMsg.label "Куки этого веб-сайта всегда будут отклоняться.">
+
 <!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.label "Управление правами на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.accesskey "п">
@@ -103,6 +121,7 @@
 <!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого веб-сайта">
 <!ENTITY cookieBlockImagesCmd.accesskey "л">
 <!ENTITY cookieBlockImagesMsg.label "Изображения этого веб-сайта никогда не будут загружаться.">
+
 <!ENTITY popupsMessageChangeTitle.label "Изменились права на открытие всплывающих окон">
 <!ENTITY popupAllowCmd.label "Разрешить всплывающие окна с этого веб-сайта">
 <!ENTITY popupAllowCmd.accesskey "з">
@@ -115,11 +134,13 @@
 <!ENTITY popupBlockMsg.label "Всплывающие окна с этого веб-сайта никогда не будут отображаться.">
 <!ENTITY popupsManage.label "Управление веб-сайтами со всплывающими окнами">
 <!ENTITY popupsManage.accesskey "п">
+
 <!ENTITY cookieCookieManager.label "Управление куками">
 <!ENTITY cookieCookieManager.accesskey "н">
 <!ENTITY cookieImageManager.label "Управление изображениями">
 <!ENTITY cookieImageManager.accesskey "и">
 <!ENTITY popupsManager.label "Управление всплывающими окнами">
 <!ENTITY popupsManager.accesskey "а">
+
 <!ENTITY clearPrivateDataCmd.label "Удалить личные данные…">
 <!ENTITY clearPrivateDataCmd.accesskey "е">

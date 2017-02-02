@@ -8,15 +8,19 @@
 <!ENTITY newWindowRestriction.label "Когда сценарии хотят открыть новое окно:">
 <!ENTITY external.label "Ссылки из других приложений">
 <!ENTITY externalDescription.label "Открывать ссылки из других приложений в:">
+
 <!ENTITY openCurrent.label "Текущей вкладке/окне">
 <!ENTITY newWindowGroupCurrent.accesskey "е">
 <!ENTITY externalGroupCurrent.accesskey "у">
+
 <!ENTITY openTab.label "Новой вкладке текущего окна">
 <!ENTITY newWindowGroupTab.accesskey "в">
 <!ENTITY externalGroupTab.accesskey "о">
+
 <!ENTITY openWindow.label "Новом окне">
 <!ENTITY newWindowGroupWindow.accesskey "к">
 <!ENTITY externalGroupWindow.accesskey "м">
+
 <!ENTITY divertAll.label "Всегда перенаправлять окна во вкладки">
 <!ENTITY divertAll.accesskey "с">
 <!ENTITY divertNoFeatures.label "Не перенаправлять окна c параметрами во вкладки">

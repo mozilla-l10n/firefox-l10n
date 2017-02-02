@@ -18,3 +18,5 @@
 <!ENTITY fieldMapImport.dataTitle "Данные записей для импорта">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Первая запись содержит заголовки полей">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "П">
+
+

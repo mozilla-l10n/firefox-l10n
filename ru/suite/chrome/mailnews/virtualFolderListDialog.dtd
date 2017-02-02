@@ -4,5 +4,7 @@
 
 <!ENTITY server.label "Учётная запись:">
 <!ENTITY server.accesskey "У">
-<!ENTITY virtualFolderListTitle.title "Выберите папку(и)">
-<!ENTITY virtualFolderDesc.label "Выберите папки, в которых будет производиться поиск:">
+<!ENTITY virtualFolderListTitle.title        "Выберите папку(и)">
+<!ENTITY virtualFolderDesc.label       "Выберите папки, в которых будет производиться поиск:">
+
+
