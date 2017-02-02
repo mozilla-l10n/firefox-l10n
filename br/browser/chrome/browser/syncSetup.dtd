@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Goubredañ ma">
 <!ENTITY engine.bookmarks.label     "Sinedoù">
 <!ENTITY engine.bookmarks.accesskey "S">
-
-
+<!ENTITY engine.tabs.label2         "Digeriñ an ivinelloù">
+<!ENTITY engine.tabs.accesskey      "D">
 <!ENTITY engine.history.label       "Roll istor">
 <!ENTITY engine.history.accesskey   "R">
 <!ENTITY engine.passwords.label     "Gerioù-tremen">

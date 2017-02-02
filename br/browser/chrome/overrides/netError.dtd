@@ -30,7 +30,8 @@
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
 <!ENTITY generic.longDesc "<p>N’hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
 
-
+<!ENTITY captivePortal.title "Kennaskañ d'ar rouedad">
+<!ENTITY captivePortal.longDesc "<p>Gallout a ra ar rouedad-mañ goulenn ganeoc'h kennaskañ da haeziñ an internet.</p>">
 
 <!ENTITY openPortalLoginPage.label "Digeriñ ar bajenn gennaskañ">
 

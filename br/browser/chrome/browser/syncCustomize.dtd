@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "S">
 <!ENTITY engine.history.label             "Roll istor">
 <!ENTITY engine.history.accesskey         "R">
-
-
+<!ENTITY engine.tabs.label2               "Digeriñ an ivinelloù">
+<!ENTITY engine.tabs.accesskey            "D">
 <!ENTITY engine.passwords.label           "Gerioù-tremen">
 <!ENTITY engine.passwords.accesskey       "G">
 <!ENTITY engine.addons.label              "Askouezhioù burev">

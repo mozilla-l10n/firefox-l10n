@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Arventennoù - Roadennoù lec'hienn">
-
-
-
-
-
-
+<!ENTITY     settings.description          "Al lec'hiennoù da heul o deus goulennet kadaviñ roadennoù war ho kantenn. Gallout a rit erspizañ peseurt lec'hiennoù a zo aotreet da gadaviñ roadennoù lec'hienn. Ar roadennoù lec'hienn dre ziouer a zo padennek ha gallout a reont bezan dilammet ent emgefreek.">
+<!ENTITY     hostCol.label                 "Lec'hienn">
+<!ENTITY     statusCol.label               "Stad">
+<!ENTITY     usageCol.label                "Kadaviñ">
+<!ENTITY     search.label                  "Klask:">
+<!ENTITY     search.accesskey              "K">
