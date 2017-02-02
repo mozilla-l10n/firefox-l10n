@@ -191,8 +191,8 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "е">
 <!ENTITY sortBySubjectCmd.label "Наслов">
 <!ENTITY sortBySubjectCmd.accesskey "в">
-<!ENTITY sortByFromCmd.label "Од">
-<!ENTITY sortByFromCmd.accesskey "О">
+<!ENTITY sortByFromCmd.label "Шаље">
+<!ENTITY sortByFromCmd.accesskey "а">
 <!ENTITY sortByRecipientCmd.label "Прималац">
 <!ENTITY sortByRecipientCmd.accesskey "ц">
 <!ENTITY sortByCorrespondentCmd.label "Дописници">
@@ -678,8 +678,8 @@
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Наслов">
-<!ENTITY searchFromMenu.label "Од">
-<!ENTITY searchSubjectOrFromMenu.label "Наслов или Од">
+<!ENTITY searchFromMenu.label "Шаље">
+<!ENTITY searchSubjectOrFromMenu.label "Наслов или пошиљалац">
 <!ENTITY searchRecipient.label "За или Коп">
 <!ENTITY searchSubjectOrRecipientMenu.label "Наслов, За или Коп">
 <!ENTITY searchMessageBody.label "Цела порука">
@@ -687,7 +687,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Нит">
-<!ENTITY fromColumn.label "Од">
+<!ENTITY fromColumn.label "Шаље">
 <!ENTITY recipientColumn.label "Прималац">
 <!ENTITY correspondentColumn.label "Дописници">
 <!ENTITY subjectColumn.label "Наслов">

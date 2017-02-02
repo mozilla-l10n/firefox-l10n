@@ -38,7 +38,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Нит">
-<!ENTITY fromColumn.label "Од">
+<!ENTITY fromColumn.label "Шаље">
 <!ENTITY recipientColumn.label "Прималац">
 <!ENTITY correspondentColumn.label "Дописници">
 <!ENTITY subjectColumn.label "Тема">
