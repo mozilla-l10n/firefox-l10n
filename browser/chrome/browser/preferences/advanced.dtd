@@ -59,8 +59,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "Сайт деректері">
-
-
+<!ENTITY clearSiteData.label             "Барлық деректерді тазарту">
+<!ENTITY clearSiteData.accesskey         "з">
 <!ENTITY siteDataSettings.label          "Баптаулаур…">
 <!ENTITY siteDataSettings.accesskey      "п">
 <!ENTITY siteDataLearnMoreLink.label     "Көбірек білу">
@@ -118,7 +118,7 @@
 <!ENTITY selectCerts.auto                "Мені сұрамай-ақ жіберу">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Әрбір ретте cенен сұрау">
-
+<!ENTITY selectCerts.ask.accesskey       "р">
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
 <!ENTITY enableOCSP.accesskey            "с">
 <!ENTITY viewCerts.label                 "Сертификаттарды қарау">
