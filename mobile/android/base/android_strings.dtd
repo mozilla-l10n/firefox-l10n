@@ -849,3 +849,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Kapat">
 <!ENTITY activity_stream_delete_history "Geçmişten sil">
 
+<!ENTITY activity_stream_welcome_title "Öne çıkanlara hoş geldiniz">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; artık daha önce web\&apos;de keşfettiğiniz harika yazıları, videoları, yer imlerini ve diğer sayfaları öne çıkarıyor. Böylece onlara bir kez daha göz atabiliyorsunuz.">
