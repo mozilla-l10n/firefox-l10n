@@ -5,12 +5,17 @@
 <!ENTITY biffStart.label "Проверять наличие новых статей каждые">
 <!ENTITY biffStart.accesskey "р">
 <!ENTITY biffEnd.label "минут">
-<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске">
+
+<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске"> 
 <!ENTITY loginAtStartup.accesskey "в">
-<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы">
+
+<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы"> 
 <!ENTITY useQuickMode.accesskey "к">
-<!ENTITY manageSubscriptions.label "Управление подписками…">
+
+<!ENTITY manageSubscriptions.label "Управление подписками…"> 
 <!ENTITY manageSubscriptions.accesskey "п">
+
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Блоги и ленты новостей">
 <!ENTITY feeds.wizardShortName "Ленты новостей">
 <!ENTITY feeds.wizardLongName "Блоги и ленты новостей">

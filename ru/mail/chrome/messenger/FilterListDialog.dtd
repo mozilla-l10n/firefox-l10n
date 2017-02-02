@@ -36,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "ы">
 <!ENTITY helpButton.label "Справка">
 <!ENTITY helpButton.accesskey "к">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Поиск фильтров по имени…">
+
+
+

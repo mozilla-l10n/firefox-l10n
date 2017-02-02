@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Создание сообщения: (без темы)">
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Создать">
@@ -22,6 +25,7 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "е">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "з">
 <!ENTITY remindLater.label "Напомнить позже">
@@ -53,6 +57,8 @@
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "П">
+
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">
@@ -96,6 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "щ">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenuNew.label "Панели инструментов">
@@ -110,10 +118,15 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Настроить…">
 <!ENTITY customizeToolbar.accesskey "Н">
+
 <!ENTITY addressSidebar.label "Панель контактов">
 <!ENTITY addressSidebar.accesskey "к">
+
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "Ф">
+
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Настройки">
 <!ENTITY optionsMenu.accesskey "й">
 <!ENTITY checkSpellingCmd2.label "Проверить орфографию…">
@@ -124,8 +137,11 @@
 <!ENTITY enableInlineSpellChecker.accesskey "о">
 <!ENTITY quoteCmd.label "Цитировать сообщение">
 <!ENTITY quoteCmd.accesskey "Ц">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Вложить визитную карточку (vCard)">
 <!ENTITY attachVCard.accesskey "в">
+
 <!ENTITY returnReceiptMenu.label "Уведомление о прочтении">
 <!ENTITY returnReceiptMenu.accesskey "У">
 <!ENTITY dsnMenu.label "Уведомление о доставке">
@@ -158,6 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Поместить копию в папку">
 <!ENTITY fileCarbonCopyCmd.accesskey "к">
 <!ENTITY fileHereMenu.label "Поместить сюда">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
 <!ENTITY messengerCmd.label "Почта и группы новостей">
@@ -173,11 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "а">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "а">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY bringAllToFront.label "Все окна — на передний план">
 <!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY windowMenu.label "Окно">
+
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Отправить">
 <!ENTITY quoteButton.label "Цитата">
 <!ENTITY addressButton.label "Адрес">
@@ -185,6 +207,8 @@
 <!ENTITY spellingButton.label "Орфография">
 <!ENTITY saveButton.label "Сохранить">
 <!ENTITY printButton.label "Печать">
+
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
 <!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение">
@@ -193,10 +217,14 @@
 <!ENTITY spellingButton.tooltip "Проверить орфографию выделенного отрывка или всего сообщения">
 <!ENTITY statusLanguageText.tooltip "Язык проверки орфографии">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
-<!ENTITY cutButton.tooltip "Вырезать">
-<!ENTITY copyButton.tooltip "Копировать">
-<!ENTITY pasteButton.tooltip "Вставить">
+<!ENTITY cutButton.tooltip              "Вырезать">
+<!ENTITY copyButton.tooltip             "Копировать">
+<!ENTITY pasteButton.tooltip            "Вставить">
 <!ENTITY printButton.tooltip "Распечатать это сообщение">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "От:">
 <!ENTITY fromAddr.accesskey "т">
@@ -208,7 +236,11 @@
 <!ENTITY followupAddr.label "Ответ в группу новостей:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "ж">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Вставить смайлик">
 <!ENTITY smiley1Cmd.label "Улыбка">
 <!ENTITY smiley2Cmd.label "Нахмуриться">
@@ -226,6 +258,8 @@
 <!ENTITY smiley14Cmd.label "Невинность">
 <!ENTITY smiley15Cmd.label "Плач">
 <!ENTITY smiley16Cmd.label "Рот на замке">
+
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Вариантов не найдено">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
@@ -241,6 +275,7 @@
 <!ENTITY paste.accesskey "с">
 <!ENTITY pasteQuote.label "Вставить как цитату">
 <!ENTITY pasteQuote.accesskey "ц">
+
 <!ENTITY openAttachment.label "Открыть">
 <!ENTITY openAttachment.accesskey "О">
 <!ENTITY delete.label "Удалить">
@@ -263,8 +298,14 @@
 <!ENTITY convertRegularAttachment.accesskey "ы">
 <!ENTITY attachPage.label "Вложить веб-страницу…">
 <!ENTITY attachPage.accesskey "е">
+
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
+
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакты">
+
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Настроить адрес отправителя…">
 <!ENTITY customizeFromAddress.accesskey "и">

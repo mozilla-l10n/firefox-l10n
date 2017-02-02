@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description Добавьте закладки в эту папку, чтобы увидеть их на панели закладок
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://www.mozilla.com/ru/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 #define getting_started Начальная страница
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -22,19 +22,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://www.mozilla.com/ru/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Справка и руководства
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://www.mozilla.com/ru/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Настройка Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://www.mozilla.com/ru/firefox/community/
+# link title for https://www.mozilla.org/en-US/contribute/
 #define firefox_community Присоединяйтесь к сообществу
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://www.mozilla.com/ru/firefox/about/
+# link title for https://www.mozilla.org/en-US/about/
 #define firefox_about О нас
 
 # LOCALIZATION NOTE (nightly_heading):
@@ -54,7 +54,7 @@
 #define mdn Mozilla Developer Network
 
 # LOCALIZATION NOTE (nightly_tester_tools):
-# Nightly builds only, link title for https://addons.mozilla.org/ru/firefox/addon/nightly-tester-tools/
+# Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
 #define nightly_tester_tools Nightly Tester Tools
 
 # LOCALIZATION NOTE (crashes):

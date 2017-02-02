@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle.label "Свойства поля формы">
 <!ENTITY windowTitleImage.label "Свойства изображения формы">
+
 <!ENTITY InputType.label "Тип поля">
 <!ENTITY InputType.accesskey "и">
 <!ENTITY text.value "Текстовое">
@@ -16,6 +17,7 @@
 <!ENTITY hidden.value "Скрытое">
 <!ENTITY image.value "Изображение">
 <!ENTITY button.value "Кнопка">
+
 <!ENTITY InputSettings.label "Параметры поля">
 <!ENTITY InputName.label "Имя поля:">
 <!ENTITY InputName.accesskey "п">
@@ -43,5 +45,6 @@
 <!ENTITY AccessKey.accesskey "К">
 <!ENTITY Accept.label "Допустимые типы содержимого:">
 <!ENTITY Accept.accesskey "Д">
+
 <!ENTITY ImageProperties.label "Свойства изображения…">
 <!ENTITY ImageProperties.accesskey "в">

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Открыть файл…">
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.key "O">
@@ -23,8 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "у">
 <!ENTITY fileRevert.label "Вернуть">
 <!ENTITY fileRevert.accesskey "н">
+
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Параметры сайта публикации…">
 <!ENTITY publishSettings.accesskey "б">
+
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Создать">
 <!ENTITY newToolbarCmd.tooltip "Создать новую страницу Компоновщика">
 <!ENTITY openToolbarCmd.label "Открыть">

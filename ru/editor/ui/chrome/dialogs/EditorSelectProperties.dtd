@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Свойства списка выборов">
+
 <!ENTITY Select.label "Список выборов">
 <!ENTITY SelectName.label "Имя списка:">
 <!ENTITY SelectName.accesskey "И">
@@ -14,11 +15,13 @@
 <!ENTITY SelectDisabled.accesskey "О">
 <!ENTITY SelectTabIndex.label "Последовательность перехода:">
 <!ENTITY SelectTabIndex.accesskey "П">
+
 <!ENTITY OptGroup.label "Группа опций">
 <!ENTITY OptGroupLabel.label "Метка:">
 <!ENTITY OptGroupLabel.accesskey "т">
 <!ENTITY OptGroupDisabled.label "Отключено">
 <!ENTITY OptGroupDisabled.accesskey "О">
+
 <!ENTITY Option.label "Опция">
 <!ENTITY OptionText.label "Текст:">
 <!ENTITY OptionText.accesskey "Т">
@@ -28,9 +31,11 @@
 <!ENTITY OptionSelected.accesskey "б">
 <!ENTITY OptionDisabled.label "Отключено">
 <!ENTITY OptionDisabled.accesskey "О">
+
 <!ENTITY TextHeader.label "Текст">
 <!ENTITY ValueHeader.label "Значение">
 <!ENTITY SelectedHeader.label "Выбрано">
+
 <!ENTITY AddOption.label "Добавить опцию">
 <!ENTITY AddOption.accesskey "Д">
 <!ENTITY AddOptGroup.label "Добавить группу">
