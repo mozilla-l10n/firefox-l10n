@@ -5,6 +5,14 @@
 <!ENTITY tabCrashed.closeTab "Закрыть эту вкладку">
 <!ENTITY tabCrashed.restoreTab "Восстановить эту вкладку">
 <!ENTITY tabCrashed.restoreAll "Восстановить все упавшие вкладки">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
 <!ENTITY tabCrashed.header2 "Ваша вкладка только что упала.">
 <!ENTITY tabCrashed.offerHelp "Мы можем вам помочь!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Выберите &tabCrashed.restoreTab; для перезагрузки содержимого страницы.">
