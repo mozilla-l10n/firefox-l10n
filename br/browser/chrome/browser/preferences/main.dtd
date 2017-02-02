@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Pa loc'h &brandShortName; :">
 <!ENTITY startupPage.accesskey     "P">
-
+<!ENTITY startupUserHomePage.label "Diskouez ma fennbajennad">
 <!ENTITY startupBlankPage.label    "Diskouez ur bajenn wenn">
-
+<!ENTITY startupPrevSession.label  "Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ">
 
 <!ENTITY homepage.label            "Pennbajennad :">
 <!ENTITY homepage.accesskey        "e">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "F">
 <!ENTITY chooseFolderMac.label        "Diuzañ…">
 <!ENTITY chooseFolderMac.accesskey    "D">
-
-
+<!ENTITY alwaysAskWhere.label         "Atav goulenn diganin pelec'h enrollañ restroù">
+<!ENTITY alwaysAskWhere.accesskey     "t">
 
 <!ENTITY alwaysCheckDefault2.label        "Gwiriañ atav ma'z eo &brandShortName; ho merdeer dre ziouer">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">

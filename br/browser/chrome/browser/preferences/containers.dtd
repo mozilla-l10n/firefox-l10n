@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Ouzhpennañ un endalc'her nevez">
 <!ENTITY addButton.accesskey  "O">
-
-
+<!ENTITY preferencesButton.label "Gwellvezioù">
+<!ENTITY removeButton.label   "Lemel kuit">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Distreiñ d'ar buhez prevez">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Anv:">
 <!ENTITY name.accesskey       "A">
-
+<!ENTITY name.placeholder     "Enankit anv un endalc'her">
 <!ENTITY icon.label           "Arlun:">
 <!ENTITY icon.accesskey       "r">
 <!ENTITY color.label          "Liv:">

@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Eillec'hiañ al livioù erspizet war ar bajenn gant va diuzadoù a-us:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "E">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Atav">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Gant neuzioù a Dargemm Uhel hepken">
