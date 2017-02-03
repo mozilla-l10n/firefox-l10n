@@ -10,30 +10,29 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!ENTITY toolboxCloseButton.tooltip    "Mbylli Mjetet e Zhvilluesit">
-
-<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
-  -  the iframes menu list that appears only when the document has some.
-  -  It allows you to switch the context of the whole toolbox. -->
-<!ENTITY toolboxFramesTooltip          "Përzgjidhni një iframe si dokumentin objektiv të tanishëm">
-
-<!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
-  -  the button to force the popups/panels to stay visible on blur.
-  -  This is only visible in the browser toolbox as it is meant for
-  -  addon developers and Firefox contributors. -->
-<!ENTITY toolboxNoAutoHideTooltip      "Çaktivizo vetëfshehje flluskash">
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Gabim në hapjen e Grupit të Mjeteve të Shfletuesit:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Rregullime të mëtejshme">
 
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Gabim gjatë hapjes së Grupit të Mjeteve të Shfletuesit:">
-
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 <!ENTITY options.context.inspector "Shqyrtues">
+
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Shfaqni Stile Shfletuesi">
+<!ENTITY options.showUserAgentStyles.tooltip "Aktivizimi i kësaj do të bëjë të shfaqen stilet parazgjedhje që janë ngarkuar nga shfletuesi.">
+
+<!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
+  -  for the checkbox option to enable collapse attributes in the Inspector
+  -  panel. -->
+<!ENTITY options.collapseAttrs.label "Cungo atribute DOM">
+<!ENTITY options.collapseAttrs.tooltip "Cungo te mbikëqyrësi atribute të gjatë">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -44,6 +43,10 @@
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
 <!ENTITY options.defaultColorUnit.accesskey "N">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Si e Autorit">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -67,7 +70,6 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Vetëm për sesionin e tanishëm, ringarkon faqen">
 
-
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -80,11 +82,29 @@
 <!ENTITY options.enableRemote.label3    "Aktivizoni diagnostikim të largët">
 <!ENTITY options.enableRemote.tooltip2  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë një instancë të largët, fjala vjen Firefox OS">
 
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableWorkers.label    "Aktivizoni diagnostikim worker-ësh (në zhvillim e sipër)">
+<!ENTITY options.enableWorkers.tooltip  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë worker-ë">
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Çaktivizoni JavaScript-in *">
 <!ENTITY options.disableJavaScript.tooltip   "Aktivizimi i kësaj mundësie do të çaktivizojë JavaScript-in për skedën e atëçastshme. Nëse skeda ose grupi i mjeteve mbyllen, ky rregullim e humbet fuqinë.">
+
+<!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
+  -  options.disableHTTPCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Çaktivizo Fshehtinën HTTP (kur grupi i mjeteve është i hapur)">
+<!ENTITY options.disableHTTPCache.tooltip   "Vënia në punë e kësaj mundësie do të çaktivizojë fshehtinën HTTP për krejt skedat që e kanë grupin e mjeteve hapur. Workers Shërbimetsh nuk preken nga kjo mundësi.">
+
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Aktivizoni Service Workers përmes HTTP-je (kur grupi i mjeteve është hapur)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Aktivizimi i kësaj mundësie do të aktivizojë service workers përmes HTTP-je për krejt skedat që e kanë të hapur grupin e mjeteve.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -121,36 +141,19 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Konsol Web">
 
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aktivizoni regjistra të pandërprerë">
-<!ENTITY options.enablePersistentLogs.tooltip  "Nëse e aktivizoni këtë mundësi, Konsola Web dhe Mbikëqyrësi i Rrjetit nuk do të pastrojnë lëndën, kur hidheni në një faqe të re">
-
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Aktivizoni vula kohore">
 <!ENTITY options.timestampMessages.tooltip    "Nëse e aktivizoni këtë mundësi, urdhrat dhe përfundimi i tyre në Konsolën Web do të shfaqen me vulë kohore">
 
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Parapëlqime të Përbashkëta">
+<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
+  -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Diagnostikues">
 
-
-<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
-  -  label for the checkbox that toggles the display of the platform data in the,
-  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
-  -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Shfaqni të dhëna paltforme Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Nëse e aktivizoni këtë mundësi raportet e Profilizuesit JavaScript do të përfshijnë symbole të platformës Gecko">
-
-<!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
-  -  options.disableHTTPCache.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "Çaktivizo Fshehtinën HTTP (kur grupi i mjeteve është i hapur)">
-<!ENTITY options.disableHTTPCache.tooltip   "Vënia në punë e kësaj mundësie do të çaktivizojë fshehtinën HTTP për krejt skedat që e kanë grupin e mjeteve hapur. Workers Shërbimetsh nuk preken nga kjo mundësi.">
+<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+   - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Aktivizo Harta Burimesh">
+<!ENTITY options.sourceMaps.tooltip    "Nëse e aktivizoni këtë mundësi, burimet do të shfaqen në hartë te Diagnostikuesi dhe Konsola.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -167,11 +170,39 @@
 <!ENTITY options.stylesheetAutocompletion.label      "Vetëplotëso CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Vetëplotëso te Përpunues Stilesh veti, vlera dhë përzgjedhës CSS-je, në shkrim e sipër">
 
-<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
-  -  for the checkbox option to show user agent styles in the Inspector
-  -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Shfaqni Stile Shfletuesi">
-<!ENTITY options.showUserAgentStyles.tooltip "Aktivizimi i kësaj do të bëjë të shfaqen stilet parazgjedhje që janë ngarkuar nga shfletuesi.">
+<!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
+   -  heading of the group of Screenshot preferences in the options
+   -  panel. -->
+<!ENTITY options.screenshot.label            "Sjellje e Fotove të Ekranit">
+
+<!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
+   - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Foto ekrani në të papastër">
+<!ENTITY options.screenshot.clipboard.tooltip    "E ruan foton e ekranit drejt e në të papastër">
+
+<!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
+   - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Prodho tingull shkrepje të kamerës">
+<!ENTITY options.screenshot.audio.tooltip    "Aktivizon tingullin e kamerës kur bëhen foto ekrani">
+
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "Parapëlqime të Përbashkëta">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogs.label    "Aktivizoni regjistra të pandërprerë">
+<!ENTITY options.enablePersistentLogs.tooltip  "Nëse e aktivizoni këtë mundësi, Konsola Web dhe Mbikëqyrësi i Rrjetit nuk do të pastrojnë lëndën, kur hidheni në një faqe të re">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Shfaqni të dhëna paltforme Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Nëse e aktivizoni këtë mundësi raportet e Profilizuesit JavaScript do të përfshijnë symbole të platformës Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
@@ -188,37 +219,3 @@
 <!ENTITY options.sourceeditor.keybinding.label          "Shkurtore">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Parazgjedhje">
-
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
-  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Aktivizoni Service Workers përmes HTTP-je (kur grupi i mjeteve është hapur)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Aktivizimi i kësaj mundësie do të aktivizojë service workers përmes HTTP-je për krejt skedat që e kanë të hapur grupin e mjeteve.">
-
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Gabim në hapjen e Grupit të Mjeteve të Shfletuesit:">
-
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Aktivizoni diagnostikim worker-ësh (në zhvillim e sipër)">
-<!ENTITY options.enableWorkers.tooltip  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë worker-ë">
-<!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
-  -  'Default color unit' dropdown list and is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.authored "Si e Autorit">
-
-<!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
-  -  for the checkbox option to enable collapse attributes in the Inspector
-  -  panel. -->
-<!ENTITY options.collapseAttrs.label "Cungo atribute DOM">
-<!ENTITY options.collapseAttrs.tooltip "Cungo te mbikëqyrësi atribute të gjatë">
-
-<!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
-  -  heading of the group of Debugger preferences in the options panel. -->
-<!ENTITY options.debugger.label            "Diagnostikues">
-
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
-<!ENTITY options.sourceMaps.label      "Aktivizo Harta Burimesh">
-<!ENTITY options.sourceMaps.tooltip    "Nëse e aktivizoni këtë mundësi, burimet do të shfaqen në hartë te Diagnostikuesi dhe Konsola.">
