@@ -20,22 +20,22 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Verifique se o endereço tem erros de digitação, como 
+<li>Verificar se o endereço tem erros de digitação, como 
 <strong>ww</strong>.example.com em vez de 
 <strong>www</strong>.example.com</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pesquisa</button> 
 </div> 
-<li>Se você não consegue carregar nenhuma página, verifique a conexão Wi-Fi. 
+<li>Se não for possível carregar nenhuma página, verifique a conexão Wi-Fi. 
 <button id='wifi'>Habilitar Wi-Fi</button> 
 </li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Verifique se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
-  <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li>
+  <li>Verificar se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
+  <li>Verificar se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
 <!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
@@ -48,7 +48,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
 
-<!ENTITY malformedURI.title "Endereço inválido">
+<!ENTITY malformedURI.title "O endereço não é válido">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
@@ -79,12 +79,12 @@
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Por favor, contatar os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de arquivo inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Por favor, contatar os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
 <!ENTITY netReset.title "A conexão foi reiniciada">
@@ -93,7 +93,7 @@
 <!ENTITY netTimeout.title "Atingiu o limite de tempo da conexão">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Endereço não compreendido">
+<!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li> 
 </ul>">
