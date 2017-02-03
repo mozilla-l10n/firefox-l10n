@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "Üldine">
 
+<!ENTITY  warnOnAddonInstall.label        "Hoiatus, kui veebilehed üritavad paigaldada lisasid">
+<!ENTITY  warnOnAddonInstall.accesskey    "H">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "Ohtlikud allalaadimised blokitakse">
 <!ENTITY  blockDownloads.accesskey        "a">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "Hoiatatakse soovimatu või ebahariliku tarkvara eest">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "k">
 
 <!ENTITY  addonExceptions.label         "Erandid…">
 <!ENTITY  addonExceptions.accesskey     "E">
