@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Innstillningar - nettsidedata">
+<!ENTITY     settings.description          "Følgjande nettsider har spurt om å lagra nettsidedata på disken din. Du kan spesifisera kva for nettsider som får lagra nettsidedata. Standard for nettsidedata er kortvarig og kan slettast automatisk.">
+<!ENTITY     hostCol.label                 "Nettside">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">
 <!ENTITY     search.label                  "Søk:">

@@ -8,17 +8,17 @@
 <!ENTITY syncCustomize.title              "Kva ynskjer du å synkronisera?">
 <!ENTITY syncCustomize.description        "Du kan endra dette valet i Innstillingar.">
 <!ENTITY syncCustomizeUnix.description    "Du kan endra dette valet i Innstillingar.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "Bokmerke">
 <!ENTITY engine.bookmarks.accesskey       "B">
 <!ENTITY engine.history.label             "Historikk">
 <!ENTITY engine.history.accesskey         "H">
-
-
+<!ENTITY engine.tabs.label2               "Opna faner">
+<!ENTITY engine.tabs.accesskey            "F">
 <!ENTITY engine.passwords.label           "Passord">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Utvidingar frå desktopversjonen">
