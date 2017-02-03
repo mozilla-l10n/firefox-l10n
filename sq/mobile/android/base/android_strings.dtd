@@ -68,7 +68,6 @@
 <!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_remove "Hiqe faqerojtësin">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
-
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
@@ -157,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "E faqeruajtur një herë">
 <!ENTITY overlay_share_send_other "Dërgojeni në pajisje të tjera">
 
+<!ENTITY overlay_share_open_browser_btn_label "Hape me &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -317,7 +317,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Që të \&quot;hapni lidhje të shumëfishta\&quot;, ju lutemi, aktivizoni për &brandShortName;-in lejen \'Vizato mbi aplikacione të tjera\'">
+<!ENTITY tab_queue_notification_settings "Që të \&quot;hapni lidhje të shumëfishta\&quot;, ju lutemi, aktivizoni për &brandShortName;-in lejen \&apos;Vizato mbi aplikacione të tjera\&apos;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -381,7 +381,6 @@ size. -->
 <!ENTITY pref_qrcode_enabled "Lexues kodesh QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Lejo te shtylla e URL-ve skaner QR">
 
-
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY pref_sync2 "Hyni">
 <!ENTITY pref_sync_summary2 "Njëkohësoni skeda, faqerojtës, kredenciale hyrjesh dhe historikun tuaj">
@@ -389,6 +388,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Shfaq historik kërkimesh">
 <!ENTITY pref_import_options "Mundësi importimi">
 <!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit të Android-it">
+<!ENTITY pref_private_data_openTabs "Skeda të hapura">
 <!ENTITY pref_private_data_history2 "Historik shfletimesh">
 <!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
 <!ENTITY pref_private_data_formdata2 "Historik formularësh">
@@ -465,7 +465,6 @@ size. -->
 <!ENTITY share "Ndajeni me të tjerët">
 <!ENTITY share_title "Ndajeni me të tjerët përmes">
 <!ENTITY share_image_failed "S’arrihet të ndahet kjo figurë me të tjerët">
-
 <!ENTITY save_as_pdf "Ruaje si PDF">
 <!ENTITY print "Shtype">
 <!ENTITY find_in_page "Gjej në Faqe">
@@ -539,6 +538,11 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Radhë skedash">
 <!ENTITY pref_tab_queue_summary4 "Ruajini lidhjet deri herës tjetër që hapni &brandShortName;-un">
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Skeda kompakte">
+<!ENTITY pref_compact_tabs_summary2 "Sistemoji skedat në dy shtylla në mënyrën portret">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -702,8 +706,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Prekeni që të zbatohet përditësimi pasi të jetë shkarkuar">
 <!ENTITY updater_downloading_retry2 "Prekeni që të riprovohet">
 
-<!ENTITY updater_apply_title2 "Ka përditësim gati për &brandShortName;-un">
-<!ENTITY updater_apply_select2 "Prekeni që të përditësohet">
+<!ENTITY updater_apply_title3 "U shkarkua përditësim për &brandShortName;-un">
+<!ENTITY updater_apply_select3 "Prekeni që të instalohet">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -847,3 +851,6 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Hidhe tej">
 <!ENTITY activity_stream_delete_history "Fshije prej Historiku">
+
+<!ENTITY activity_stream_welcome_title "Mirë se vini te Highlights tuajat">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName;-u tani krijon highlight-e të gjërave që zbuloni në web, që të mund të gjeni rrugën për t’u rikthyer te artikuj, video, faqerojtës dhe faqe të tjera të shkëlqyera.">
