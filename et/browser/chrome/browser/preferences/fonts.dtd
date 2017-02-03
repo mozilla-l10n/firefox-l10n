@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "seriifidega">
 <!ENTITY  useDefaultFontSansSerif.label           "seriifideta">
 
+<!ENTITY  allowPagesToUseOwn.label                "Veebilehed võivad kasutada oma fonte kasutaja valitud fontide asemel">
+<!ENTITY  allowPagesToUseOwn.accesskey            "V">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teksti kodeering varasema sisu jaoks">
 <!ENTITY languages.customize.Fallback2.label      "Teksti kodeering:">
