@@ -52,6 +52,7 @@
 <!ENTITY offlineStorage2.label           "Offline obsah a uživatelská data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataSettings.label          "Nastavení…">
 <!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
 
 <!-- LOCALIZATION NOTE:
@@ -72,6 +73,7 @@
 
 <!ENTITY updateTab.label                 "Aktualizace">
 
+<!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
 <!ENTITY updateAuto1.accesskey           "I">
 <!ENTITY updateManual.label              "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
@@ -86,6 +88,7 @@
 <!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 
+<!ENTITY offlineStorageNotifyExceptions.label     "Výjimky…">
 
 <!ENTITY offlineAppsList2.label          "Následující servery mají povoleno ukládat offline obsah:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -94,6 +97,7 @@
 <!ENTITY offlineAppRemove.confirm        "Smazat offline obsah">
 
 <!ENTITY certificateTab.label            "Certifikáty">
+<!ENTITY certPersonal.label              "Požadavky">
 <!ENTITY enableOCSP.label                "Aktuální platnost certifikátů ověřovat na serverech OCSP">
 <!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Certifikáty">
