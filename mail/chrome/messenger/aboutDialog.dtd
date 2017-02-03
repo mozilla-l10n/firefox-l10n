@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
 
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,8 +10,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2               "Riniseni &brandShortName;-in që të Përditësohet">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Zbatoni Përditësimin…">
-<!ENTITY update.applyButtonBillboard.accesskey    "Z">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName;-i është eksperimental dhe mund të jetë i paqëndrueshëm.">
@@ -42,6 +41,8 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "përfshihuni!">
 <!ENTITY helpus.end                 "">
+
+<!ENTITY releaseNotes.link          "Shënime versioni">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Të dhëna Lejimi">

@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Ardhës">
 <!ENTITY attachments.outgoing.label   "Ikës">
 
-<!ENTITY addCloudFileAccount.label        "Shtoni">
-<!ENTITY addCloudFileAccount.accesskey    "S">
+<!ENTITY addCloudFileAccount1.label       "Shtoni…">
+<!ENTITY addCloudFileAccount1.accesskey   "S">
 <!ENTITY addCloudFileAccount.description  "Shtoni një shërbim të ri depozitimi Filelink">
 <!ENTITY removeCloudFileAccount.label     "Hiqe">
 <!ENTITY removeCloudFileAccount.accesskey "H">

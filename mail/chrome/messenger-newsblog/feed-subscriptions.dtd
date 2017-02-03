@@ -3,15 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Pajtime Në Prurje">
+<!ENTITY feedSubscriptions.label     "Pajtime Në Prurje">
 <!ENTITY learnMore.label             "Mësoni më tepër rreth Prurjeve">
 
-<!ENTITY feedTitle.label 	     "Titull:">
+<!ENTITY feedTitle.label             "Titull:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label       "URL Prurjeje: ">
-<!ENTITY feedLocation.accesskey   "U">
+<!ENTITY feedLocation.label          "URL Prurjeje: ">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Jepni për Shtim një url të vlefshme prurjeje">
+<!ENTITY locationValidate.label      "Kontrolloje">
+<!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
 
 <!ENTITY feedFolder.label            "Artikujt Depozitoji në:">
 <!ENTITY feedFolder.accesskey        "A">
@@ -19,26 +21,23 @@
 <!ENTITY quickMode.label             "Në vend se të ngarkosh faqen web, shfaq përmbledhje artikulli">
 <!ENTITY quickMode.accesskey         "N">
 
-<!ENTITY locationValidate.label      "Kontrolloje">
-<!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
-
 <!ENTITY autotagEnable.label         "Krijo vetvetiu etiketa prej emrash &lt;kategorie&gt; prurjesh">
 <!ENTITY autotagEnable.accesskey     "K">
 <!ENTITY autotagUsePrefix.label      "Parapriji etiketat me:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Jepni një parashtesë etikete">
 
-<!ENTITY button.addFeed.label       "Shtoni">
-<!ENTITY button.addFeed.accesskey   "S">
-<!ENTITY button.editFeed.label      "Përpunoni">
-<!ENTITY button.editFeed.accesskey  "P">
-<!ENTITY button.removeFeed.label "Hiq">
-<!ENTITY button.removeFeed.accesskey   "H">
-<!ENTITY button.importOPML.label "Importo">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Eksporto">
-<!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY button.addFeed.label        "Shtoni">
+<!ENTITY button.addFeed.accesskey    "S">
+<!ENTITY button.updateFeed.label     "Përditësoje">
+<!ENTITY button.updateFeed.accesskey "P">
+<!ENTITY button.removeFeed.label     "Hiq">
+<!ENTITY button.removeFeed.accesskey "H">
+<!ENTITY button.importOPML.label     "Importo">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksporto">
+<!ENTITY button.exportOPML.accesskey "E">
 <!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; Ctrl klikim ose Ctrl Enter që të eksportohen Prurje si një listë">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Mbylleni">

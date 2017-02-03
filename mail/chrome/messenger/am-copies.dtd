@@ -8,9 +8,16 @@
 <!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">
 <!ENTITY fccMailFolder.accesskey "k">
+<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjem">
+<!ENTITY fccReplyFollowsParent.accesskey "V">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc këto adresa email:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Ndajini adresat me presje">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc për këto adresa email:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Ndajini adresat me presje">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
 <!ENTITY saveMessageDlg.accesskey "f">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -18,24 +25,6 @@
 <!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "Tjetër:">
 <!ENTITY sentInOtherFolder.accesskey "T">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Dosje &quot;Skicash&quot; në:">
-<!ENTITY draftsFolderOn.accesskey "S">
-<!ENTITY draftInOtherFolder.label "Tjetër:">
-<!ENTITY draftInOtherFolder.accesskey "j">
-<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Dosje &quot;Gjedhesh&quot; në:">
-<!ENTITY templatesFolderOn.accesskey "G">
-<!ENTITY templateInOtherFolder.label "Tjetër:">
-<!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY keepTemplates.label "Gjedhet për mesazhe mbaji në:">
-<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjem">
-<!ENTITY fccReplyFollowsParent.accesskey "V">
-<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc këto adresa email:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Ndajini adresat me presje">
-<!ENTITY bccAddressList.placeholder "Ndajini adresat me presje">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arkiva Mesazhesh">
 <!ENTITY keepArchives.label "Arkivat e mesazheve mbaji te:">
@@ -47,4 +36,15 @@
 <!ENTITY archiveInOtherFolder.label "Tjetër:">
 <!ENTITY archiveInOtherFolder.accesskey "T">
 <!ENTITY specialFolders.label "Skica dhe Gjedhe">
-<!ENTITY keepDrafts.label "Skicat për mesazhe mbaji në:">
+<!ENTITY keepDrafts2.label "Mesazhet skicë mbaji në:">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Dosje &quot;Skicash&quot; në:">
+<!ENTITY draftsFolderOn.accesskey "S">
+<!ENTITY draftInOtherFolder.label "Tjetër:">
+<!ENTITY draftInOtherFolder.accesskey "j">
+<!ENTITY keepTemplates.label "Gjedhet për mesazhe mbaji në:">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Dosje &quot;Gjedhesh&quot; në:">
+<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templateInOtherFolder.label "Tjetër:">
+<!ENTITY templateInOtherFolder.accesskey "e">
