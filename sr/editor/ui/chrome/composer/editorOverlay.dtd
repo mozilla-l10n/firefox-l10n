@@ -286,7 +286,7 @@
 <!ENTITY menuBar.tooltip "Трака менија">
 <!ENTITY formatToolbar.tooltip "Алатница форматирања">
 <!ENTITY cutToolbarCmd.tooltip "Исеци">
-<!ENTITY copyToolbarCmd.tooltip "Умножи">
+<!ENTITY copyToolbarCmd.tooltip "Копирај">
 <!ENTITY pasteToolbarCmd.tooltip "Налепи">
 <!ENTITY printToolbarCmd.label "Одштампај">
 <!ENTITY printToolbarCmd.tooltip "Одштампај ову страницу">

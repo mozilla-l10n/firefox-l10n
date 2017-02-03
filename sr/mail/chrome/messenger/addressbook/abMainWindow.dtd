@@ -53,7 +53,7 @@
 <!ENTITY cutCmd.label                                   "Исеци">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "и">
-<!ENTITY copyCmd.label                                  "Умножи">
+<!ENTITY copyCmd.label                                  "Ископирај">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "у">
 <!ENTITY pasteCmd.label                                 "Налепи">

@@ -118,8 +118,8 @@
 <!ENTITY redoDeleteMsgCmd.label "Понови брисање поруке">
 <!ENTITY undoMoveMsgCmd.label "Опозови померање поруке">
 <!ENTITY redoMoveMsgCmd.label "Поново померање поруке">
-<!ENTITY undoCopyMsgCmd.label "Опозови умножавање поруке">
-<!ENTITY redoCopyMsgCmd.label "Поново умножавање поруке">
+<!ENTITY undoCopyMsgCmd.label "Опозови копирање поруке">
+<!ENTITY redoCopyMsgCmd.label "Поново копирај поруку">
 <!ENTITY undoMarkAllCmd.label "Опозови означавање свега као прочитано">
 <!ENTITY redoMarkAllCmd.label "Поново означавање свега као прочитано">
 <!ENTITY undoDefaultCmd.label "Опозови">
@@ -372,9 +372,9 @@
 <!ENTITY moveMsgToMenu.accesskey "е">
 <!ENTITY moveCopyMsgRecentMenu.label "Скорашње">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "С">
-<!ENTITY copyMessageLocation.label "Умножи локацију поруке">
+<!ENTITY copyMessageLocation.label "Копирај локацију поруке">
 <!ENTITY copyMessageLocation.accesskey "п">
-<!ENTITY copyMsgToMenu.label "Умножи у">
+<!ENTITY copyMsgToMenu.label "Копирај у">
 <!ENTITY copyMsgToMenu.accesskey "У">
 <!ENTITY moveToFolderAgain.label "Помери поново">
 <!ENTITY moveToFolderAgain.accesskey "н">
@@ -680,7 +680,7 @@
 <!ENTITY searchSubjectMenu.label "Наслов">
 <!ENTITY searchFromMenu.label "Шаље">
 <!ENTITY searchSubjectOrFromMenu.label "Наслов или пошиљалац">
-<!ENTITY searchRecipient.label "За или Коп">
+<!ENTITY searchRecipient.label "Прима или Коп">
 <!ENTITY searchSubjectOrRecipientMenu.label "Наслов, За или Коп">
 <!ENTITY searchMessageBody.label "Цела порука">
 <!ENTITY saveAsVirtualFolderMenu.label "Сачувај претрагу као фасциклу…">
@@ -770,7 +770,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "П">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Скорашње">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "р">
-<!ENTITY contextCopyMsgMenu.label "Умножи у">
+<!ENTITY contextCopyMsgMenu.label "Копирај у">
 <!ENTITY contextCopyMsgMenu.accesskey "У">
 <!ENTITY contextKillThreadMenu.label "Занемари нит">
 <!ENTITY contextKillSubthreadMenu.accesskey "д">
@@ -888,13 +888,13 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "П">
 <!ENTITY SendMessageTo.label "Састави поруку за">
 <!ENTITY SendMessageTo.accesskey "т">
-<!ENTITY CopyEmailAddress.label "Умножи е-адресу">
+<!ENTITY CopyEmailAddress.label "Копирај мејл адресу">
 <!ENTITY CopyEmailAddress.accesskey "м">
-<!ENTITY CopyNameAndEmailAddress.label "Умножи име и е-адресу">
+<!ENTITY CopyNameAndEmailAddress.label "Копирај име и мејл адресу">
 <!ENTITY CopyNameAndEmailAddress.accesskey "м">
-<!ENTITY CopyNewsgroupName.label "Умножи име новинске групе">
+<!ENTITY CopyNewsgroupName.label "Копирај име новинске групе">
 <!ENTITY CopyNewsgroupName.accesskey "м">
-<!ENTITY CopyNewsgroupURL.label "Умножи URL новинске групе">
+<!ENTITY CopyNewsgroupURL.label "Копирај URL новинске групе">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Направи филтер од…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
@@ -910,11 +910,11 @@
 <!ENTITY saveLinkAsCmd.accesskey "к">
 <!ENTITY saveImageAsCmd.label "Сачувај слику као…">
 <!ENTITY saveImageAsCmd.accesskey "в">
-<!ENTITY copyLinkCmd.label "Умножи одредиште везе">
+<!ENTITY copyLinkCmd.label "Копирај одредиште везе">
 <!ENTITY copyLinkCmd.accesskey "з">
-<!ENTITY copyImageAllCmd.label "Умножи слику">
+<!ENTITY copyImageAllCmd.label "Копирај слику">
 <!ENTITY copyImageAllCmd.accesskey "л">
-<!ENTITY copyEmailCmd.label "Умножи е-адресу">
+<!ENTITY copyEmailCmd.label "Копирај мејл адресу">
 <!ENTITY copyEmailCmd.accesskey "е">
 <!ENTITY stopCmd.label "Прекини">
 <!ENTITY stopCmd.accesskey "П">
