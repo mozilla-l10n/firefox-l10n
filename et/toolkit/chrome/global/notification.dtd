@@ -8,3 +8,5 @@
 
 <!ENTITY learnMore "Rohkem teavet…">
 
+<!ENTITY defaultButton.label "Olgu!">
+<!ENTITY defaultButton.accesskey "O">
