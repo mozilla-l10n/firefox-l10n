@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "j">
 <!ENTITY engine.history.label             "ajalugu">
 <!ENTITY engine.history.accesskey         "a">
+<!ENTITY engine.tabs.label2               "Avatud kaardid">
 <!ENTITY engine.tabs.accesskey            "k">
 <!ENTITY engine.passwords.label           "paroolid">
 <!ENTITY engine.passwords.accesskey       "p">
