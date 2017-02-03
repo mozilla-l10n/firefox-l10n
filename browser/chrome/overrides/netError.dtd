@@ -190,9 +190,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme nga sulme kibernetike. Një agresor mund të marrë lehtësisht të dhëna që ju mendoni se i keni të parrezikuara.">
 <!ENTITY weakCryptoAdvanced.override "(E pasigurt) Provoni të ngarkoni <span class='hostname'></span> duke përdorur teknologji të vjetruar">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>S&apos;është e mundur një lidhje e sigurt me <span id='wrongSystemTime_URL'/>, ngaqë ora juaj duket se e shfaq kohën gabim.</p> <p>Kompjuteri juaj thotë se është <span id='wrongSystemTime_systemDate'/>, ndërkohë që duhej të ishte <span id='wrongSystemTime_actualDate'/>. Që ta ndreqni këtë problem, ndryshoni rregullimet tuaja për datën dhe kohën që të përputhen me ato të saktat.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-i s’u lidh te <span id='wrongSystemTime_URL'/> ngaqë ora e kompjuterit dukes se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTime_systemDate'/>, ndërkohë që duhet të ishte <span id='wrongSystemTime_actualDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; -i s’u lidh te <span id='wrongSystemTimeWithoutReference_URL'/> ngaqë ora e kompjuterit dukes se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTimeWithoutReference_systemDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
 
 <!ENTITY certerror.pagetitle1  "Lidhje e Pasigurt">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP

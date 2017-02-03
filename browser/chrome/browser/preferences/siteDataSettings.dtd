@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Rregullime - Të dhëna Sajti">
+<!ENTITY     settings.description          "Sajtet vijues kanë kërkuar të depozitojnë të dhëna në diskun tuaj. Mund të përcaktoni cilët sajte të lejohen të depozitojnë të dhëna sajtesh. Parazgjedhja për të dhëna sajti është të përkohshme dhe mund të fshihen vetvetiu.">
+<!ENTITY     hostCol.label                 "Sajt">
+<!ENTITY     statusCol.label               "Gjendje">
+<!ENTITY     usageCol.label                "Depozitë">
+<!ENTITY     search.label                  "Kërkim:">
+<!ENTITY     search.accesskey              "K">

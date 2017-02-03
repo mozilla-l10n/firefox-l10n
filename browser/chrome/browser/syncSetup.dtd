@@ -2,10 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;">
+<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;-ut">
 
 <!-- First page of the wizard -->
-<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;-ut">
 
 <!ENTITY setup.pickSetupType.description2 "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
@@ -13,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "E keni përdorur &syncBrand.fullName.label;-un më parë?">
 <!ENTITY setup.choicePage.new.label       "Nuk e kam përdorur kurrë më parë &syncBrand.shortName.label;-un">
-<!ENTITY setup.choicePage.existing2.label  "E përdor tashmë &syncBrand.shortName.label;-un në një tjetër pajisje">
+<!ENTITY setup.choicePage.existing2.label "E përdor tashmë &syncBrand.shortName.label;-un në një tjetër pajisje">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Shërbyes">
@@ -45,7 +44,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;-i Kujdeset Për Privatësinë Tuaj">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Për të siguruar privatësinë tuaj tërësore, krejt të dhënat tuaja fshehtëzohen përpara se të ngarkohen. Kyçi i Riparimit, që është i domosdoshëm për shfshehtëzimin e të dhënave tuaja, nuk ngarkohet gjëkundi..">
 <!ENTITY recoveryKeyEntry.label        "Kyçi Juaj i Riparimeve">
@@ -74,7 +73,6 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Hyni">
 <!ENTITY existingRecoveryKey.description "Mund të merrni një kopje të Kyçit tuaj të Riparimeve duke shkuar te Mundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër, dhe duke përzgjedhur  &#x0022;Kyçi Im i Riparimit&#x0022; te &#x0022;Administroni Llogari&#x0022;.">
-
 <!ENTITY verifying.label              "Po verifikohet…">
 <!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
 <!ENTITY resetSyncKey.label           "E kam humbur pajisjen time tjetër.">
@@ -87,7 +85,7 @@
 <!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
-<!ENTITY engine.tabs.label          "Skedat e Mia">
+<!ENTITY engine.tabs.label2         "Hapi Skedat">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">

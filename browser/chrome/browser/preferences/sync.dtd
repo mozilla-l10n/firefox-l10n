@@ -25,7 +25,7 @@
 <!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
-<!ENTITY engine.tabs.label          "Skedat e Mia">
+<!ENTITY engine.tabs.label2         "Hapi Skedat">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
@@ -38,7 +38,7 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Emër Pajisjeje:">
-<!ENTITY fxaSyncDeviceName.label    "Emër Pajisjeje">
+<!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">
 <!ENTITY changeSyncDeviceName.label "Ndryshoni Emër Pajisjeje…">
 <!ENTITY changeSyncDeviceName.accesskey "N">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuloje">
