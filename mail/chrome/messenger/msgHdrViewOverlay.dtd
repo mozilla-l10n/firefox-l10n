@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "За">
+<!ENTITY toField4.label "Прима">
 <!ENTITY fromField4.label "Шаље">
 <!ENTITY senderField4.label "Пошиљалац">
 <!ENTITY author.label "Писац">
@@ -101,10 +101,10 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Сачувај све">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Сачувај све закачене датотеке">
 
-<!ENTITY copyLinkCmd.label        "Умножи одредиште везе">
+<!ENTITY copyLinkCmd.label        "Копирај одредиште везе">
 <!ENTITY copyLinkCmd.accesskey    "м">
 
-<!ENTITY CopyMessageId.label "Умножи ИБ поруке">
+<!ENTITY CopyMessageId.label "Копирај ИБ поруке">
 <!ENTITY CopyMessageId.accesskey "У">
 <!ENTITY OpenMessageForMsgId.label "Отвори поруку зарад ИБ-а">
 <!ENTITY OpenMessageForMsgId.accesskey "О">
