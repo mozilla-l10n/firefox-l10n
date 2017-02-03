@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -14,15 +14,14 @@
 <!ENTITY closeOtherTabsCmd2.accesskey "T">
 <!ENTITY recentlyClosedTabsCmd.label "Skeda të Mbyllura Së Fundmi">
 <!ENTITY recentlyClosedTabsCmd.accesskey "F">
-<!ENTITY undoCloseTabCmd.commandkey "Z">
 
+<!ENTITY undoCloseTabCmd.commandkey "Z">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
 <!ENTITY moveToNewWindow.label "Kaloje në Dritare të Re">
 <!ENTITY moveToNewWindow.accesskey "K">
-
 <!ENTITY newVirtualFolderCmd.label "Kërkim i Ruajtur…">
 <!ENTITY newVirtualFolderCmd.accesskey "K">
 <!ENTITY newOtherAccountsCmd.label "Tjetër Llogari…">
@@ -64,11 +63,9 @@
 <!ENTITY renameFolder.accesskey "o">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Ngjeshi Dosjet">
-<!ENTITY compactFolders.accesskey    "N">
+<!ENTITY compactFolders.accesskey "N">
 <!ENTITY emptyTrashCmd.label "Zbrazi Hedhurinat">
-<!ENTITY emptyTrashCmd.accesskey    "Z">
-<!ENTITY importCmd.label "Importoni…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY emptyTrashCmd.accesskey "Z">
 <!ENTITY offlineMenu.label "I palidhur">
 <!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Punoni i Palidhur">
@@ -129,8 +126,6 @@
 <!ENTITY undoDefaultCmd.accesskey "Z">
 <!ENTITY redoDefaultCmd.label "Ribëje">
 <!ENTITY redoDefaultCmd.accesskey "b">
-<!ENTITY redoMarkAllCmd.label "Ribëje Shënimin të Tëra Si të Lexuara">
-<!ENTITY undoMarkAllCmd.label "Zhbëje Shënimin të Tëra Si të Lexuara">
 
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Shtyllë Menush">
@@ -169,6 +164,10 @@
 <!ENTITY recentFolders.accesskey "f">
 <!ENTITY compactVersion.label "Parje e Ngjeshur">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Panel Kuadrati Dosjesh">
+<!ENTITY folderPaneBar.accesskey "D">
+<!ENTITY folderModeSelector.label "Pamje Dosjesh">
+
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Renditi sipas">
 <!ENTITY sortMenu.accesskey "R">
@@ -337,25 +336,25 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arkiv">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Anuloje Mesazhin">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Përgjigjuni">
 <!ENTITY replyMsgCmd.accesskey "P">
-<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Përgjigjiuni Vetëm Dërguesit">
 <!ENTITY replySenderCmd.accesskey "D">
 <!ENTITY replyNewsgroupCmd2.label "Përgjigjuni te Grupi i Lajmeve">
-<!ENTITY replyNewsgroupCmd2.accesskey  "G">
+<!ENTITY replyNewsgroupCmd2.accesskey "G">
 <!ENTITY replyToAllMsgCmd.label "Përgjigjiuni të Tërëve">
-<!ENTITY replyToAllMsgCmd.accesskey  "T">
-<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToAllMsgCmd.accesskey "T">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Përgjigjuni te Lista">
-<!ENTITY replyToListMsgCmd.accesskey  "L">
-<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Përcille">
 <!ENTITY forwardMsgCmd.accesskey "P">
-<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Përcille Si">
 <!ENTITY forwardAsMenu.accesskey "S">
 <!ENTITY forwardAsInline.label "Brendazi">
@@ -365,6 +364,8 @@
 <!ENTITY editAsNewMsgCmd.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY editAsNewMsgCmd.accesskey "P">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Përpunoni Mesazhin Skicë">
+<!ENTITY editDraftMsgCmd.accesskey "C">
 <!ENTITY createFilter.label "Krijoni Filtër Prej Mesazhi…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
@@ -458,7 +459,6 @@
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
 <!ENTITY activitymanager.accesskey "P">
-
 <!ENTITY imAccountsStatus.label "Gjendje fjalosjeje">
 <!ENTITY imAccountsStatus.accesskey "G">
 <!ENTITY imStatus.available          "I gatshëm">
@@ -484,18 +484,40 @@
 <!ENTITY deleteJunk.accesskey "v">
 <!ENTITY importCmd.label "Importoni…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
-<!ENTITY errorConsoleCmd.accesskey "K">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Pastroni Historikun Së Fundi…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Rregullime Llogarie">
 <!ENTITY accountManagerCmd2.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Lejo Diagnostikim Së Largëti">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Mjete Zhvilluesi">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Grup Mjetesh Zhvilluesi">
+<!ENTITY devToolboxCmd.accesskey "G">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Diagnostikues Shtesash">
+<!ENTITY addonDebugCmd.accesskey "S">
+<!ENTITY tabsDebugCmd.label "Diagnostikues Lënde Kuadri">
+<!ENTITY tabsDebugCmd.accesskey "L">
+<!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
+<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "E papastër">
+<!ENTITY scratchpadCmd.accesskey "a">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Merr Mesazhet">
@@ -506,6 +528,7 @@
 <!ENTITY forwardButton.label "Përcille">
 <!ENTITY fileButton.label "Kartelë">
 <!ENTITY archiveButton.label "Arkiv">
+<!ENTITY openConversationButton.label "Bisedë">
 <!ENTITY nextButton.label "Pasuesi">
 <!ENTITY nextButtonToolbarItem.label "I palexuari Pasues">
 <!ENTITY nextMsgButton.label "Pasuesi">
@@ -548,6 +571,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Përcille mesazhin e përzgjedhur si një bashkëngjitje">
 <!ENTITY fileButton.tooltip "Skedojeni mesazhin e përzgjedhur">
 <!ENTITY archiveButton.tooltip "Mesazhe të përzgjedhur në arkiv">
+<!ENTITY openConversationButton.tooltip "Shfaq bisedën e mesazhit të përzgjedhur">
 <!ENTITY nextButton.tooltip "Kaloni te mesazhi i palexuar pasues">
 <!ENTITY nextMsgButton.tooltip "Kaloni te mesazhi pasues">
 <!ENTITY previousButton.tooltip "Kaloni te mesazhi i mëparshëm i palexuar">
@@ -638,13 +662,13 @@
 <!ENTITY folderContextSubscribe.accesskey "P">
 <!ENTITY folderContextSearchForMessages.label "Kërkoni Te Mesazhet…">
 <!ENTITY folderContextSearchForMessages.accesskey "K">
-
 <!ENTITY folderContextProperties2.label "Veti">
 <!ENTITY folderContextProperties2.accesskey "V">
 <!ENTITY folderContextFavoriteFolder.label "Dosje të Parapëlqyerish">
 <!ENTITY folderContextFavoriteFolder.accesskey "o">
 <!ENTITY folderContextSettings2.label "Rregullime">
 <!ENTITY folderContextSettings2.accesskey "R">
+
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Emri ose Email-i përmban:">
 <!ENTITY SearchNameOrEmail.accesskey "E">
@@ -721,6 +745,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY contextEditMsgAsNew.accesskey "P">
+<!ENTITY contextEditDraftMsg.label "Përpunoni Mesazhin Skicë">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Përgjigjiu Vetëm Dërguesit">
@@ -748,9 +773,15 @@
 <!ENTITY contextCopyMsgMenu.label "Kopjoje Te">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Shpërfille Rrjedhën">
+<!ENTITY contextKillSubthreadMenu.accesskey "ë">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Shpërfille Nënrrjedhën">
 <!ENTITY contextWatchThreadMenu.label "Mbikëqyre Rrjedhën">
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "q">
 <!ENTITY contextSaveAs.label "Ruajeni Si…">
 <!ENTITY contextSaveAs.accesskey "R">
 <!ENTITY contextPrint.label "Shtypni…">
@@ -760,47 +791,47 @@
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Ktheji shtyllat te parazgjedhjet">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "Zbatojini shtyllat te…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "Dosje…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Dosje dhe pjellat e saj…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Këtë dosje">
 
@@ -818,30 +849,30 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
-     -->
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-     This is the base of the empty text for the global search box.  We replace
+      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
+  -->
 <!ENTITY search.label.base1 "Kërkim #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
@@ -897,7 +928,7 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "U bë">
 
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizoje">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Bjeri të Tëra Para">
