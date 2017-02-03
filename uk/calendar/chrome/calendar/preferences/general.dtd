@@ -35,7 +35,7 @@
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Панель дня">
 <!ENTITY pref.soondays.label "Розділ майбутніх показує:">
-<!ENTITY pref.soondays.accesskey "u">
+<!ENTITY pref.soondays.accesskey "п">
 
 <!ENTITY pref.accessibility.label "Доступність" >
 <!ENTITY pref.systemcolors.label "Оптимізувати кольори для доступності" >
