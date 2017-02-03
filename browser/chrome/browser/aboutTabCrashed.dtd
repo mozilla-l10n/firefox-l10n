@@ -22,6 +22,9 @@
 <!ENTITY tabCrashed.requestReport "Anna sellest kaardist teada">
 <!ENTITY tabCrashed.sendReport2 "Saada vaadatava kaardi kohta vearaport">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valikulised kommentaarid (need on avalikult nähtavad)">
+<!ENTITY tabCrashed.includeURL2 "Vearaportile lisatakse lehe URL">
 <!ENTITY tabCrashed.emailPlaceholder "Sisesta siia oma e-posti aadress">
 <!ENTITY tabCrashed.emailMe "Saadetakse e-kiri, kui tekib rohkem teavet">
 <!ENTITY tabCrashed.reportSent "Vearaport on juba saadetud. Täname, et aitad &brandShortName;i paremaks teha!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Taustal töötavate kaartide kohta raporteerimine">
+<!ENTITY tabCrashed.autoSubmit2 "Eelistusi uuendatakse nii, et vearaporteid saadetakse nii selle kui ka edaspidiste seanside puhul ka taustal töötavate kaartide veaga lõpetamiste kohta">
