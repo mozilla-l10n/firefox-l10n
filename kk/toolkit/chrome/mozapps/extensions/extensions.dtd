@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "Ф">
 <!ENTITY toolsMenu.tooltip                    "Барлық файлдар үшін саймандар">
 
-
+<!ENTITY getThemes.description                "Браузерді өзіңіз үшін ыңғайлатуды қалайсыз ба?">
+<!ENTITY getThemes.learnMore                  "Мыңдаған темалар ішінен таңдаңыз.">
 
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
