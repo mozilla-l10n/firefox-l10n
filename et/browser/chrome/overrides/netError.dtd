@@ -51,7 +51,12 @@
 <p>&brandShortName;il pole mingil põhjusel selle lehe laadimine võimalik.</p>
 ">
 
+<!ENTITY captivePortal.title "Võrku sisenemine">
+<!ENTITY captivePortal.longDesc "
+<p>See võrk võib interneti kasutamiseks vajada sisselogimist.</p>
+">
 
+<!ENTITY openPortalLoginPage.label "Ava sisselogimise leht">
 
 <!ENTITY malformedURI.title "Aadress pole korrektne">
 <!ENTITY malformedURI.longDesc "
