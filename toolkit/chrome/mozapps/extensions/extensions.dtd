@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
 
-
+<!ENTITY getThemes.description                "Ønskjer du å tilpassa nettlesaren din?">
+<!ENTITY getThemes.learnMore                  "Vel mellom tusenvis av tema.">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
 <!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
@@ -29,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "Vis alle utvidingar">
 <!ENTITY debugAddons.label                    "Debug-utvidingar">
 <!ENTITY debugAddons.accesskey                "D">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Alle utvidingar er avslegne av trygg-modus.">
 <!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible utvidingar.">
 <!ENTITY warning.checkcompatibility.enable.label   "Slå på">
@@ -38,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Tryggleiken din kan bli sett i fare av oppdateringar.">
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidingar">
 <!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Sjå etter oppdateringar no">
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Vis nyleg oppdaterte">
@@ -73,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelege oppdateringar">
 <!ENTITY updates.updateSelected.label         "Installer oppdateringane">
 <!ENTITY updates.updateSelected.tooltip       "Installer tilgjengelege oppdateringar i denne lista">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Vis detaljar">
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Sjå etter oppdateringar">
@@ -117,15 +118,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringa">
 <!ENTITY cmd.hideReleaseNotes.label           "Skjul versjonsnotatet">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Kva er utvidingar?">
 <!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpassa &brandShortName; med ekstra funksjonalitet eller annan stil. Prøv ein sidestolpe som sparer deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
 <!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauget innehalda nokre av dei beste og mest populære utvidingane som du kan prøva ut.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Sist oppdatert">
 <!ENTITY detail.creator.label                 "Utviklar">
@@ -154,17 +155,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Innstillingar">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Endra innstillingane til denne utvidinga">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Vurdering">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
 <!ENTITY progress.cancel.tooltip              "Avbryt">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Namn">
 <!ENTITY sort.name.tooltip                    "Sorter etter namn">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
@@ -217,12 +218,12 @@
 <!ENTITY eula.accept                          "Godta og installer …">
 
 <!ENTITY settings.path.button.label           "Bla gjennom …">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Kva er dette? Telemetri kan installera og køyra eksperiment med jamne mellomrom.">
 <!ENTITY experiment.info.learnmore "Les meir">
 <!ENTITY experiment.info.learnmore.accesskey "L">
