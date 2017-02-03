@@ -1,23 +1,35 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY addons.windowTitle                   "Përgjegjësi i Shtesave">
+
 <!ENTITY search.placeholder                   "Kërko në tërë shtesat">
 <!ENTITY search.buttonlabel                   "Kërko">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Po ngarkohet…">
 <!ENTITY listEmpty.installed.label            "Nuk keni të instaluar ndonjë shtesë të këtij lloji">
+<!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
 <!ENTITY listEmpty.recentUpdates.label        "Nuk keni përditësuar së fundi ndonjë shtesë">
 <!ENTITY listEmpty.findUpdates.label          "Kontrollo Për Përditësime">
 <!ENTITY listEmpty.search.label               "Nuk u gjet dot ndonjë shtesë me përputhje">
-<!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
 <!ENTITY listEmpty.button.label               "Mësoni më tepër rreth shtesave">
 <!ENTITY installAddonFromFile.label           "Instaloni Shtesë Prej Kartele…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Mjete për krejt shtesat">
 
+<!ENTITY getThemes.description                "Po kërkoni si të personalizoni shfletuesin tuaj?">
+<!ENTITY getThemes.learnMore                  "Zgjidhni prej mijëra temash.">
+
 <!ENTITY cmd.back.tooltip                     "Shkoni mbrapsht një faqe">
 <!ENTITY cmd.forward.tooltip                  "Shkoni përpara një faqe">
+
+<!ENTITY showUnsignedExtensions.button.label  "Disa nga shtesat nuk u verifikuan dot">
+<!ENTITY showAllExtensions.button.label       "Shfaqi krejt zgjerimet">
+<!ENTITY debugAddons.label                    "Diagnostikoni Shtesa">
+<!ENTITY debugAddons.accesskey                "D">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Mënyra e Parrezik ka çaktivizuar krejt shtesat.">
@@ -39,8 +51,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Shihni Përditësimet e Fundit">
 <!ENTITY updates.viewUpdates.accesskey        "S">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Përditësoji Shtesat Vetvetiu">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "P">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Bëji Krejt Shtesat të Përditësohen Vetvetiu">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "V">
 <!ENTITY updates.resetUpdatesToManual.label          "Bëji Krejt Shtesat të Përditësohen Dorazi">
@@ -92,6 +113,7 @@
 <!ENTITY cmd.contribute.label                 "Kontribuoni">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kontribuoni në zhvillimin e kësaj shtese">
+
 <!ENTITY cmd.showReleaseNotes.label           "Shfaq Shënime Versioni">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Shfaqni shënimet e versionit për këtë përditësim">
 <!ENTITY cmd.hideReleaseNotes.label           "Fshihi Shënimet e Versioni">
@@ -101,7 +123,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Çfarë janë Shtesat?">
-<!ENTITY discover.description2                 "Shtesat janë aplikacione që ju lejojnë ta përshtatni &brandShortName;-in përmes funksionesh shtesë ose stilesh ekstra. Provoni një anështyllë që ju kursen kohë, një njoftues moti, ose një pamje sipas një teme të caktuar, që ta bëni &brandShortName;-in si ta doni.">
+<!ENTITY discover.description2                "Shtesat janë aplikacione që ju lejojnë ta përshtatni &brandShortName;-in përmes funksionesh shtesë ose stilesh ekstra. Provoni një anështyllë që ju kursen kohë, një njoftues moti, ose një pamje sipas një teme të caktuar, që ta bëni &brandShortName;-in si ta doni.">
 <!ENTITY discover.footer                      "Kur jeni i lidhur në Internet, ky kuadrat do të paraqesë disa nga shtesat më të mira dhe më popullore që të mund t&apos;i provoni.">
 
 <!-- detail view -->
@@ -134,12 +156,14 @@
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Ndryshoni parapëlqimet e kësaj shtese">
 
+
 <!-- ratings -->
-<!ENTITY rating2.label                         "Vlerësim">
+<!ENTITY rating2.label                        "Vlerësim">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pushim">
 <!ENTITY progress.cancel.tooltip              "Anulim">
+
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Emër">
@@ -178,7 +202,6 @@
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
 <!ENTITY addon.updateNow.label                "Përditësoje Tani">
-
 <!ENTITY addon.updateNow.tooltip              "Instaloni përditësimet për këtë shtesë">
 <!ENTITY addon.includeUpdate.label            "Përfshije në Përditësim">
 <!ENTITY addon.updateAvailable.label          "Ka një përditësim gati">
@@ -195,10 +218,6 @@
 <!ENTITY eula.accept                          "Pranoje dhe Instaloje…">
 
 <!ENTITY settings.path.button.label           "Shfletoni…">
-
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
@@ -227,11 +246,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Zhvilluesit e interesuar për verifikimin e shtesave të tyre mund të vazhdojnë duke lexuar ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "doracakun tonë">
 <!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY showUnsignedExtensions.button.label  "Disa nga shtesat nuk u verifikuan dot">
-<!ENTITY showAllExtensions.button.label       "Shfaqi krejt zgjerimet">
-<!ENTITY debugAddons.label                    "Diagnostikoni Shtesa">
-<!ENTITY debugAddons.accesskey                "D">
 
 <!ENTITY pluginDeprecation.description "Mos mungon gjë? Disa shtojca nuk mbulohen më nga &brandShortName;-i.">
 <!ENTITY pluginDeprecation.learnMore "Mësoni Më Tepër.">
