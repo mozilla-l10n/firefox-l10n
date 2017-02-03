@@ -112,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Normálna rýchlosť">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
-<!ENTITY mediaPlaybackRate150.label     "Zrýchlene (1.5×)">
+<!ENTITY mediaPlaybackRate125.label     "Rýchle prehrávanie (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "R">
+<!ENTITY mediaPlaybackRate150.label     "Vysoká rýchlosť (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "Z">
-<!ENTITY mediaPlaybackRate200.label     "Vysoká rýchlosť (2×)">
+<!ENTITY mediaPlaybackRate200.label     "Dvojnásobná rýchlosť">
 <!ENTITY mediaPlaybackRate200.accesskey "V">
+<!ENTITY mediaLoop.label              "Slučka">
+<!ENTITY mediaLoop.accesskey          "u">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
