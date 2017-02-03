@@ -34,7 +34,7 @@
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Verificar se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
+  <li>Verificar se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
   <li>Verificar se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
@@ -100,8 +100,8 @@
 
 <!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Verifique as configurações de proxy para confirmar que estão corretas.</li> 
-<li>Contate seu administrador de rede para confirmar se o servidor proxy está 
+<li>Verificar as configurações de proxy para se certificar de que estão corretas.</li> 
+<li>Contatar seu administrador de rede para confirmar se o servidor proxy está 
 funcionando.</li> 
 </ul>">
 
@@ -109,13 +109,13 @@ funcionando.</li>
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
-<li>Certifique-se de que o seu dispositivo possua uma conexão de dados ou Wi-Fi. 
+<li>Verificar as configurações de proxy para se certificar de que estão corretas.</li> 
+<li>Verificar se o seu dispositivo possui uma conexão de dados ou Wi-Fi. 
 <button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">
 
-<!ENTITY redirectLoop.title "Redirecionamento incorreto">
+<!ENTITY redirectLoop.title "A página não está sendo redirecionada corretamente">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Este problema às vezes pode ser causado pela desativação ou bloqueio de 
 cookies.</li> 
@@ -123,9 +123,9 @@ cookies.</li>
 
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Verifique se o seu sistema possui o Personal Security Manager 
+<li>Verificar se o seu sistema possui o Personal Security Manager 
  instalado.</li> 
-<li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
+<li>Isto pode ser ocasionado por uma configuração não padrão do servidor.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
@@ -172,7 +172,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contatar os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Não foi possível conectar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
