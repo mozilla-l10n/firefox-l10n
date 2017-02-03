@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Natrag za jednu stranicu">
 <!ENTITY forwardCmd.label             "Naprijed">
 <!ENTITY forwardButton.tooltip        "Naprijed za jednu stranicu">
-<!ENTITY backForwardButtonMenu.tooltip "Za pristup povijesti kliknite desnom tipkom miša ili povucite dolje">
+<!ENTITY backForwardButtonMenu.tooltip "Za prikaz povijesti pritisnite desnu tipku miša, ili pritisnite lijevu i povucite prema dolje">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "Osvježi">
 <!ENTITY reloadButton.tooltip         "Osvježi trenutnu stranicu">
@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "p">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Otvaranje poveznice u novoj kontejnerskoj kartici">
+<!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
