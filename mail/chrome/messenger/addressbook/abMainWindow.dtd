@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Libër Adresash">
 <!ENTITY blankResultsPaneMessage.label                  "Ky libër adresash shfaq kontakte vetëm pas një kërkimi">
 <!ENTITY localResultsOnlyMessage.label                  "Kontaktet prej librash të largët adresash nuk shfaqen, po nuk bëtë kërkim">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Kartelë">
 <!ENTITY fileMenu.accesskey                             "K">
@@ -18,7 +19,6 @@
 <!ENTITY newAddressBookCmd.label                        "Libër Adresash…">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
 <!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mesazh">
 <!ENTITY newMessageCmd.key                              "M">
@@ -76,15 +76,21 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                            "Veti">
-<!ENTITY propertiesCmd2.accesskey                        "V">
+<!ENTITY propertiesMenu.label                           "Veti">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Veti Libri Adresash">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Veti Kontakti">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Veti Liste Postimesh">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Shfaqje">
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Panele">
-<!ENTITY viewToolbarsMenu.accesskey                     "P"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "P">
 <!ENTITY menubarCmd.label                               "Shtyllë Menush">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Adresash">
@@ -97,14 +103,14 @@
 <!ENTITY layoutMenu.accesskey                           "ë">
 <!ENTITY showDirectoryPane.label                        "Kuadrat Liste">
 <!ENTITY showDirectoryPane.accesskey                    "L">
-<!ENTITY showContactPane2.label                          "Kuadrat Kontakti">
-<!ENTITY showContactPane2.accesskey                      "k">
+<!ENTITY showContactPane2.label                         "Kuadrat Kontakti">
+<!ENTITY showContactPane2.accesskey                     "k">
 <!ENTITY menu_ShowNameAs.label                          "Shfaqe Emrin Si">
-<!ENTITY menu_ShowNameAs.accesskey                      "f"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "f">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Emër Mbiemër">
-<!ENTITY firstLastCmd2.accesskey                        "E"> 
+<!ENTITY firstLastCmd2.accesskey                        "E">
 <!ENTITY lastFirstCmd.label                             "Mbiemër, Emër">
 <!ENTITY lastFirstCmd.accesskey                         "M">
 <!ENTITY displayNameCmd.label                           "Emër i Shfaqur">
@@ -124,18 +130,27 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportoni…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                           "Mundësi">
-<!ENTITY preferencesCmd2.accesskey                       "M">
+<!ENTITY preferencesCmd2.label                          "Mundësi">
+<!ENTITY preferencesCmd2.accesskey                      "M">
 <!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey                   "a"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "a">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Kontakt i Ri">
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Listë e Re">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Veti">
-<!ENTITY editButton2.accesskey                          "V">
+<!ENTITY showAsDefault.label                            "Drejtori parazgjedhje në nisje">
+<!ENTITY showAsDefault.accesskey                        "a">
+<!ENTITY editPropertiesButton.label                     "Përpunoni">
+<!ENTITY propertiesContext.label                        "Veti">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Veti">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Përpunoni Kontaktin">
+<!ENTITY editContactContext.accesskey                   "P">
+<!ENTITY editMailingListContext.label                   "Përpunoni Listën">
+<!ENTITY editMailingListContext.accesskey               "P">
 <!ENTITY newmsgButton.label                             "Shkruani">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Mesazh i Atypëratyshëm">
@@ -148,7 +163,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri adresash">
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
-<!ENTITY editButton2.tooltip                            "Përpunoni objektin e përzgjedhur">
+<!ENTITY editPropertiesButton.tooltip                   "Përpunoni objektin e përzgjedhur">
+<!ENTITY editAbPropertiesButton.tooltip                 "Përpunoni vetitë e librit të përzgjedhur të adresave">
+<!ENTITY editContactPropertiesButton.tooltip            "Përpunoni kontaktin e përzgjedhur">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Përpunoni listën e përzgjedhur të postimeve">
 <!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
 <!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
@@ -204,9 +222,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kontakte">
 <!ENTITY home.heading                                   "Shtëpie">
 <!ENTITY other.heading                                  "Tjetër">
+<!ENTITY chat.heading                                   "Fjalosje">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "E punës">
-<!ENTITY chat.heading                                   "Fjalosje">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
 <!ENTITY addresses.heading                              "Adresë">
@@ -215,11 +233,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Shfaq prej Web-it një hartë të kësaj adrese">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Dritare">
-<!ENTITY minimizeWindow.label "Minimizo">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bjeri të Tëra Para">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label                               "Dritare">
+<!ENTITY minimizeWindow.label                           "Minimizo">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Bjeri të Tëra Para">
+<!ENTITY zoomWindow.label                               "Zoom">
