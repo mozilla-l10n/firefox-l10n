@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "P">
 <!ENTITY toolsMenu.tooltip                    "Tööriistad kõigile lisadele">
 
+<!ENTITY getThemes.description                "Kas soovid oma brauseri kodusemaks muuta?">
+<!ENTITY getThemes.learnMore                  "Vali tuhandete teemade seast.">
+
 <!ENTITY cmd.back.tooltip                     "Mine üks leht tagasi">
 <!ENTITY cmd.forward.tooltip                  "Mine üks leht edasi">
 
