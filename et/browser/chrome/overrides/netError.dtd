@@ -200,6 +200,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTime_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTime_systemDate'/>, kuigi see peaks olema <span id='wrongSystemTime_actualDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTimeWithoutReference_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ebaturvaline ühendus">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
