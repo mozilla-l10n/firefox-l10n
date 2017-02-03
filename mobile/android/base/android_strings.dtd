@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Već zabilježeno">
 <!ENTITY overlay_share_send_other "Pošalji na druge uređaje">
 
+<!ENTITY overlay_share_open_browser_btn_label "Otvori u &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Prikaži povijest pretraživanja">
 <!ENTITY pref_import_options "Mogućnosti uvoza">
 <!ENTITY pref_import_android_summary "Uvezi zabilješke i povijest s izvornog preglednika">
-
+<!ENTITY pref_private_data_openTabs "Otvorene kartice">
 <!ENTITY pref_private_data_history2 "Povijest pretraživanja">
 <!ENTITY pref_private_data_searchHistory "Povijest pretraživanja">
 <!ENTITY pref_private_data_formdata2 "Povijest obrazaca">
