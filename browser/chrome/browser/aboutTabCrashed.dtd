@@ -13,6 +13,15 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Uhh. Kaart jooksis just kokku.">
+<!ENTITY tabCrashed.offerHelp "Me saame sind aidata!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Lehe sisu uuesti laadimiseks klõpsa &tabCrashed.restoreTab;.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Lehe sisu uuesti laadimiseks klõpsa &tabCrashed.restoreTab; või &tabCrashed.restoreAll;.">
+<!ENTITY tabCrashed.requestHelp "Kas sa aitad meid?">
+<!ENTITY tabCrashed.requestHelpMessage "Vearaportid aitavad meil probleeme uurida ja &brandShortName; paremaks muuta.">
+<!ENTITY tabCrashed.requestReport "Anna sellest kaardist teada">
+<!ENTITY tabCrashed.sendReport2 "Saada vaadatava kaardi kohta vearaport">
+<!ENTITY tabCrashed.commentPlaceholder2 "Valikulised kommentaarid (need on avalikult nähtavad)">
 <!ENTITY tabCrashed.emailPlaceholder "Sisesta siia oma e-posti aadress">
 <!ENTITY tabCrashed.emailMe "Saadetakse e-kiri, kui tekib rohkem teavet">
 <!ENTITY tabCrashed.reportSent "Vearaport on juba saadetud. Täname, et aitad &brandShortName;i paremaks teha!">
