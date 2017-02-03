@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName;i käivitamisel:">
 <!ENTITY startupPage.accesskey     "t">
+<!ENTITY startupUserHomePage.label "Kuvatakse avalehte">
 <!ENTITY startupBlankPage.label    "Kuvatakse tühja lehte">
+<!ENTITY startupPrevSession.label  "Kuvatakse viimati avatud aknaid ja kaarte">
 
 <!ENTITY homepage.label            "Avaleht:">
 <!ENTITY homepage.accesskey        "h">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Vali...">
 <!ENTITY chooseFolderMac.accesskey    "a">
+<!ENTITY alwaysAskWhere.label         "Alati küsitakse, kuhu failid salvestada">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Alati kontrollitakse, kas &brandShortName; on vaikebrauser">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">

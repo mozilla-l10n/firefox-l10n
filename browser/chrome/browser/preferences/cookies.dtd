@@ -28,6 +28,8 @@
 <!ENTITY     focusSearch1.key               "F">
 <!ENTITY     focusSearch2.key               "K">
 
+<!ENTITY     searchFilter.label             "Otsi">
+<!ENTITY     searchFilter.accesskey         "O">
 
 <!ENTITY     button.close.label             "Sulge">
 <!ENTITY     button.close.accesskey         "u">
