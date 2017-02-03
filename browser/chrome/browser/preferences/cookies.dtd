@@ -28,9 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Kërko:">
-<!ENTITY     filter.accesskey               "K">
+<!ENTITY     searchFilter.label             "Kërko">
+<!ENTITY     searchFilter.accesskey         "K">
 
 <!ENTITY     button.close.label             "Mbylle">
 <!ENTITY     button.close.accesskey         "M">
-

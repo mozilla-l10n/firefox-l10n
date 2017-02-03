@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Ngjyra">
-<!ENTITY window.width                     "41em">
+<!ENTITY  window.width                    "41em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Anashkaloji ngjyrat e specifikuara nga faqja me përzgjedhjet e mia më sipër:">
-<!ENTITY  overridePageColors.accesskey    "A">
+<!ENTITY  overrideDefaultPageColors.label        "Ngjyrat e përcaktuara nga faqja anashkaloji me përzgjedhjet e mia më sipër:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "N">
 
-<!ENTITY  overridePageColors.always.label "Përherë">
-<!ENTITY  overridePageColors.auto.label   "Vetëm për tema Me Shumë Kontrast">
-<!ENTITY  overridePageColors.never.label  "Kurrë">
+<!ENTITY  overrideDefaultPageColors.always.label "Përherë">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Vetëm për tema Kontrasti të Lartë">
+<!ENTITY  overrideDefaultPageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">
 <!ENTITY  textColor.label                 "Tekst:">

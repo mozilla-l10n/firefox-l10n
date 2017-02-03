@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Kur niset &brandShortName;-i:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupHomePage.label     "Shfaq kreun tim">
+<!ENTITY startupUserHomePage.label "Shfaqni faqen tuaj hyrëse">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe të zbrazët">
-<!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
+<!ENTITY startupPrevSession.label  "Shfaqni dritaret dhe skedat tuaja prej herës së fundit">
 
 <!ENTITY homepage.label            "Kreu:">
 <!ENTITY homepage.accesskey        "K">
@@ -21,14 +21,15 @@
 <!ENTITY restoreDefault.accesskey  "P">
 
 <!ENTITY downloads.label     "Shkarkime">
+
 <!ENTITY saveTo.label "Ruaji kartelat te">
 <!ENTITY saveTo.accesskey "R">
 <!ENTITY chooseFolderWin.label        "Shfletoni…">
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
 <!ENTITY chooseFolderMac.accesskey    "Z">
-<!ENTITY alwaysAsk.label "Pyetmë përherë ku të ruhen kartelat">
-<!ENTITY alwaysAsk.accesskey "u">
+<!ENTITY alwaysAskWhere.label         "Pyet përherë ku të ruhen kartelat">
+<!ENTITY alwaysAskWhere.accesskey     "P">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrollo përherë për të parë nëse &brandShortName;-i është shfletuesi parazgjedhje">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
