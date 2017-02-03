@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Alternar para a aba:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saiba mais…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Desativar proteção por enquanto">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Saber mais">
+<!ENTITY identity.learnMore "Saiba mais">
 
 <!ENTITY identity.removeCertException.label "Remover exceção">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -880,5 +880,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre o DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Saiba mais sobre o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
