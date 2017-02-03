@@ -53,7 +53,7 @@
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; ажурирања:">
-<!ENTITY updateAuto.label                "Аутоматски инсталирај ажурирања (преопручено: побољшава безбедност)">
+<!ENTITY updateAuto.label                "Аутоматски инсталирај ажурирања (препоручено: побољшава безбедност)">
 <!ENTITY updateAuto.accesskey            "А">
 <!ENTITY updateCheck.label               "Провери да ли има ажурирања али мени допусти да изаберем када да се инсталирају">
 <!ENTITY updateCheck.accesskey           "П">
