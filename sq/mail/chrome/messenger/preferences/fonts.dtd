@@ -42,15 +42,15 @@
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopike">
 <!ENTITY  font.langGroup.georgian                 "Gjeorgjiane">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.gujarati                 "Gujaratase">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmuke">
 <!ENTITY  font.langGroup.khmer                    "Khmere">
 <!ENTITY  font.langGroup.malayalam                "Malajalameze">
 <!ENTITY  font.langGroup.math                     "Matematike">
-<!ENTITY  font.langGroup.oriya                    "Orijase">
+<!ENTITY  font.langGroup.odia                     "Odiase">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhalezea">
+<!ENTITY  font.langGroup.sinhala                  "Sinhaleze">
 <!ENTITY  font.langGroup.tibetan                  "Tibetane">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Madhësi më e vogël shkronjash:">
@@ -65,16 +65,16 @@
 <!ENTITY  fontControl.label                       "Kontroll Lloji Shkronjash">
 <!ENTITY  useFixedWidthForPlainText.label         "Për mesazhe teksti të thjeshtë përdor shkronja me gjerësi të fiksuar">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
+<!ENTITY  useDocumentFonts.label                  "Lejoji mesazhet të përdorin shkronja të tjera">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Postë Ikëse:">
 <!ENTITY sendDefaultCharset.accesskey     "i">
-<!ENTITY languagesTitle2.label		"Kodim Tekstesh">
-<!ENTITY composingDescription2.label       "Caktoni kodim parazgjedhje teskti për dërgim dhe marrje poste">
+<!ENTITY languagesTitle2.label            "Kodim Tekstesh">
+<!ENTITY composingDescription2.label      "Caktoni kodim parazgjedhje teskti për dërgim dhe marrje poste">
 
 <!ENTITY viewDefaultCharsetList.label     "Postë Ardhëse:">
-<!ENTITY viewDefaultCharsetList.accesskey	"a">
+<!ENTITY viewDefaultCharsetList.accesskey  "a">
 <!ENTITY replyInDefaultCharset3.label     "Kur mundet, përdor në përgjigje kodim parazgjedhje tekstesh">
 <!ENTITY replyInDefaultCharset3.accesskey "K">
