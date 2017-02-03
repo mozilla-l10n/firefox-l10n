@@ -17,3 +17,25 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ende pa ndonjë llogari të formësuar">
+<!ENTITY accountManager.noAccount.description "Klikoni mbi butonin &accountManager.newAccount.label; që ta lini &brandShortName;-in t&apos;ju heqë udhën në procesin e formësimit të një të tille.">
+<!ENTITY account.autoSignOn.label     "Hyrje gjatë nisjes">
+<!ENTITY account.autoSignOn.accesskey "H">
+<!ENTITY account.connect.label        "Lidhu">
+<!ENTITY account.connect.accesskey    "L">
+<!ENTITY account.disconnect.label     "Shkëputu">
+<!ENTITY account.disconnect.accesskey "u">
+<!ENTITY account.delete.label         "Fshije">
+<!ENTITY account.delete.accesskey     "F">
+<!ENTITY account.edit.label           "Veti">
+<!ENTITY account.edit.accesskey       "V">
+<!ENTITY account.moveup.label         "Ngjite sipër">
+<!ENTITY account.movedown.label       "Zbrite poshtë">
+<!ENTITY account.cancelReconnection.label         "Anuloje rilidhjen">
+<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Kopjo Regjistër Diagnostikimi">
+<!ENTITY account.copyDebugLog.accesskey "K">
+<!ENTITY account.showDebugLog.label     "Shfaq Regjistër Diagnostikimi">
+<!ENTITY account.showDebugLog.accesskey "q">
+<!ENTITY account.connecting           "Po lidhet…">
+<!ENTITY account.disconnecting        "Po shkëputet…">
+<!ENTITY account.disconnected         "Jo i Lidhur">
