@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Hľadať a nahradiť">
-<!ENTITY findField.label "Hľadať text:">
+<!ENTITY replaceDialog.title "Nájsť a nahradiť">
+<!ENTITY findField.label "Nájsť text:">
 <!ENTITY findField.accesskey "t">
 <!ENTITY replaceField.label "Nahradiť s:">
 <!ENTITY replaceField.accesskey "s">
@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Nahradiť všetky">
 <!ENTITY replaceAllButton.accesskey "v">
 <!ENTITY closeButton.label "Zavrieť">
+<!ENTITY closeButton.accesskey "Z">
