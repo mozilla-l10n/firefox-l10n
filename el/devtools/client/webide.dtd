@@ -126,6 +126,8 @@
 <!ENTITY prefs_options_showeditor_tooltip "Εμφάνιση εσωτερικού επεξεργαστή">
 <!ENTITY prefs_options_tabsize "Μέγεθος καρτέλας">
 <!ENTITY prefs_options_expandtab_tooltip "Χρήση διαστημάτων αντί του χαρακτήρα στηλοθέτη">
+<!ENTITY prefs_options_detectindentation "Αυτόματες εσοχές">
+<!ENTITY prefs_options_detectindentation_tooltip "Να μαντεύεται η εσοχή βάσει του περιεχομένου του κώδικα">
 <!ENTITY prefs_options_autocomplete "Αυτόματη συμπλήρωση">
 <!ENTITY prefs_options_autocomplete_tooltip "Ενεργοποίηση αυτόματης συμπλήρωσης κώδικα">
 <!ENTITY prefs_options_autoclosebrackets "Αυτόματο κλείσιμο παρενθέσεων">
