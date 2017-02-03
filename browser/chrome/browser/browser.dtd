@@ -392,6 +392,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Otsi või sisesta aadress">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Laiendus:">
 <!ENTITY urlbar.switchToTab.label     "Lülitu kaardile:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Kas soovid oma otsinguid soovituste abil paremaks muuta?">
@@ -754,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Teistes seadmetes avatud kaartide nimekirja nägemiseks lülita sisse kaartide sünkroniseerimine.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Ava">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Ava uuel kaardil">
@@ -766,6 +772,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "j">
 <!ENTITY syncedTabs.context.copy.label                       "Kopeeri">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Ava kõik kaartidel">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "i">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
