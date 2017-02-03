@@ -64,6 +64,10 @@ Zgjidhni ping:
 Ping më të vjetër &gt;&gt;
 ">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Të dhëna të papërpunuara pingjesh ...
+">
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Javë
 ">
@@ -96,6 +100,7 @@ Ping
   Ngecje Rrjedhe
 ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalarë
 ">
@@ -110,6 +115,10 @@ Ping
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histograme Me Kyç
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Akte
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
@@ -127,8 +136,6 @@ Ping
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Të dhëna Sesioni
 ">
-
-
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histograme të Grumbulluara nga Shtesat
@@ -164,8 +171,4 @@ Ping
 
 <!ENTITY aboutTelemetry.rawPayload "
   Ngarkesë e Papërpunuar
-">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Të dhëna të papërpunuara pingjesh ...
 ">
