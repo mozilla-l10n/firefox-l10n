@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Sünkroniseeritakse">
 <!ENTITY engine.bookmarks.label     "järjehoidjad">
 <!ENTITY engine.bookmarks.accesskey "j">
+<!ENTITY engine.tabs.label2         "Avatud kaardid">
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "ajalugu">
 <!ENTITY engine.history.accesskey   "a">
@@ -39,8 +40,11 @@
 <!ENTITY syncDeviceName.label       "Seadme nimi:">
 <!ENTITY fxaSyncDeviceName.label       "Seadme nimi">
 <!ENTITY changeSyncDeviceName.label "Muuda seadme nime…">
+<!ENTITY changeSyncDeviceName.accesskey "M">
 <!ENTITY cancelChangeSyncDeviceName.label "Loobu">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "L">
 <!ENTITY saveChangeSyncDeviceName.label "Salvesta">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!ENTITY unlinkDevice.label           "Katkesta selle seadme ühendus">
 
 <!-- Footer stuff -->
@@ -69,11 +73,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Sa ei ole sisse logitud.">
 <!ENTITY signIn.label                "Logi sisse">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Muuda profiilipilti">
 <!ENTITY verifiedManage.label        "Halda kontot">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Katkesta ühendus…">
+<!ENTITY disconnect.accesskey        "e">
 <!ENTITY verify.label                "Kinnita e-posti aadress">
+<!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Unusta see e-posti aadress">
+<!ENTITY forget.accesskey            "n">
 
 <!ENTITY welcome.description "Pääse ligi oma kaartidele, järjehoidjatele, paroolidele ja muule kõikjalt, kus kasutad &brandShortName;i.">
 <!ENTITY welcome.signIn.label "Logi sisse">
@@ -85,7 +94,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">
 <!ENTITY signedOut.accountBox.title   "Ühendu &syncBrand.fxAccount.label;ga">
 <!ENTITY signedOut.accountBox.create  "Loo konto">
+<!ENTITY signedOut.accountBox.create.accesskey  "k">
 <!ENTITY signedOut.accountBox.signin  "Logi sisse">
+<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.engines.label       "Kõigis seadmetes sünkroniseeritakse">
 
