@@ -168,6 +168,8 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; não se conectou ao domínio <span id='wrongSystemTime_URL'/> porque o relógio do seu computador parece estar errado e isso impede uma conexão segura.</p> <p>O seu relógio marca <span id='wrongSystemTime_systemDate'/>, quando na verdade deveria ser <span id='wrongSystemTime_actualDate'/>. Para corrigir este problema, ajuste suas configurações de data e hora.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; não se conectou ao domínio <span id='wrongSystemTimeWithoutReference_URL'/> porque o relógio do seu computador parece estar errado e isso impede uma conexão segura.</p> <p>O seu relógio marca <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para corrigir este problema, ajuste suas configurações de data e hora.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP
