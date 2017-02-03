@@ -61,6 +61,9 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogram etter nyklar">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Hendingar
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkle målingar">
 
