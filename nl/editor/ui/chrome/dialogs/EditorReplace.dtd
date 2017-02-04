@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Alle vervangen">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Sluiten">
+<!ENTITY closeButton.accesskey "S">
