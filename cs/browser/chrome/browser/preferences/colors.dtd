@@ -7,6 +7,8 @@
 <!ENTITY  window.macWidth                 "41em">
 
 
+<!ENTITY  overrideDefaultPageColors.always.label "Vždy">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nikdy">
 
 <!ENTITY  color                           "Text a pozadí">
 <!ENTITY  textColor.label                 "Text:">
