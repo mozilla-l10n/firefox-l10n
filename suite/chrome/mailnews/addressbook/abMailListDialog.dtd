@@ -16,3 +16,4 @@
 <!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Saisissez les adresses à ajouter à la liste de diffusion :">
+<!ENTITY AddressTitle.accesskey         "S">
