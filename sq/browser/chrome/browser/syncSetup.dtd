@@ -52,7 +52,7 @@
 <!ENTITY syncGenerateNewKey.label  "Prodho një kyç të ri">
 <!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutemi, bëjini një kopje kopjeruajtëse. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
+<!ENTITY button.syncKeyBackup.print.label     "Shtypni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "R">

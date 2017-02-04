@@ -647,7 +647,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Dilni nga &brandShorterName;-i">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Dilni"> 
+<!ENTITY quitApplicationCmd.label       "Dil"> 
 <!ENTITY quitApplicationCmd.accesskey   "l">
 <!ENTITY quitApplicationCmdMac2.label   "Dilni prej &brandShorterName;-it">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->

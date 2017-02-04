@@ -7,9 +7,9 @@
 <!ENTITY refreshProfile.dialog.description2  "Kjo do të shkaktojë:">
 <!ENTITY refreshProfile.dialog.items.label1  "Heqjen e shtesave dhe përshtatjeve tuaja">
 <!ENTITY refreshProfile.dialog.items.label2  "Rikthimin e rregullimeve të shfletuesit te parazgjedhjet për to">
-<!ENTITY refreshProfile.dialog.button.label  "Rifreskojeni &brandShortName;-in">
+<!ENTITY refreshProfile.dialog.button.label  "Rifreskoje &brandShortName;-in">
 
 <!ENTITY refreshProfile.title                "Bëjini një servis &brandShortName;-it">
-<!ENTITY refreshProfile.button.label         "Rifreskojeni &brandShortName;-in…">
+<!ENTITY refreshProfile.button.label         "Rifreskoje &brandShortName;-in…">
 
 <!ENTITY refreshProfile.cleaning.description "Thuajse mbaruam…">
