@@ -20,25 +20,23 @@
 <!ENTITY quotedTextColor.label            "Ngjyrë:">
 <!ENTITY quotedTextColor.accesskey        "n">
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
-<!ENTITY displayText.label	          "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
-<!ENTITY quotedTextColor.label            "Ngjyrë:">
-<!ENTITY quotedTextColor.accesskey        "n">
+<!ENTITY displayText.label                "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Emotikonet shfaqi si grafikë">
 <!ENTITY convertEmoticons.accesskey    "E">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Etiketat mund të përdoren për të kategorizuar dhe treguar përparësi për mesazhet tuaj.">
-<!ENTITY addTagButton.label       "Shtoni">
-<!ENTITY addTagButton.accesskey   "S">
-<!ENTITY editTagButton.label      "Përpunoni">
-<!ENTITY editTagButton.accesskey  "P">
-<!ENTITY removeTagButton.label    "Fshije">
+<!ENTITY displayTagsText.label     "Etiketat mund të përdoren për të kategorizuar dhe treguar përparësi për mesazhet tuaj.">
+<!ENTITY newTagButton.label        "E re…">
+<!ENTITY newTagButton.accesskey    "r">
+<!ENTITY editTagButton1.label      "Përpunoni…">
+<!ENTITY editTagButton1.accesskey  "P">
+<!ENTITY removeTagButton.label     "Fshije">
 <!ENTITY removeTagButton.accesskey "F">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Shkronja &amp; Ngjyra">
+<!ENTITY fontsAndColors1.label   "Shkronja &amp;Ngjyra">
 <!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
 <!ENTITY defaultFont.accesskey   "a">
 <!ENTITY defaultSize.label       "Madhësi:">

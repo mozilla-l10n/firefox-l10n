@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "I aktivizuar">
 <!ENTITY newButton.label "I ri…">
 <!ENTITY newButton.accesskey "i">
+<!ENTITY newButton.popupCopy.label "Kopjoni…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Përpunojeni…">
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Fshije">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "u">
 <!ENTITY helpButton.label "Ndihmë">
 <!ENTITY helpButton.accesskey "d">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Kërkoni sipas emrash te filtrat…">
+
+
+

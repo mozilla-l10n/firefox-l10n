@@ -8,10 +8,12 @@
 <!ENTITY windowTitle.label "Veti Figure">
 
 <!ENTITY pixelsPopup.value "piksela">
+
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Vendndodhje Figure:">
 <!ENTITY locationEditField.accessKey "V">
 <!ENTITY locationEditField.tooltip "Shkruani emër ose vendndodhje kartele">
+<!ENTITY locationEditField.shortenedDataURI "URI i shkurtuar të dhënash (kopjimi do të vendosë në të papastër URI-n e plotë)">
 <!ENTITY title.label "Ndihmëz:">
 <!ENTITY title.accessKey "N">
 <!ENTITY title.tooltip "Atributi html 'title' që shfaqet si ndihmëz">
@@ -20,7 +22,9 @@
 <!ENTITY altTextEditField.tooltip "Shkruani tekst për t&apos;u shfaqur në vend të figurës">
 <!ENTITY noAltText.label "Mos përdor tekst alternativ">
 <!ENTITY noAltText.accessKey "M">
+
 <!ENTITY previewBox.label "Paraparje Figure">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Madhësia Faktike:">
@@ -66,7 +70,6 @@
 <!ENTITY LinkAdvancedEditButton.label "Përpunim i Mëtejshëm Lidhjeje…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Shtoni ose ndryshoni atribute HTML, atribute stili, dhe JavaScript">
-
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formë">

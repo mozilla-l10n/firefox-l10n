@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label             "Të përgjithshme">
-<!ENTITY dataChoicesTab.label          "Mundësi të Dhënash">
-<!ENTITY itemUpdate.label              "Përditësim">
-<!ENTITY itemNetworking.label          "Hapësirë në Rrjet &amp; Disk">
-<!ENTITY itemCertificates.label        "Dëshmi">
+<!ENTITY itemGeneral.label       "Të përgjithshme">
+<!ENTITY dataChoicesTab.label    "Mundësi të Dhënash">
+<!ENTITY itemUpdate.label        "Përditësim">
+<!ENTITY itemNetworking.label    "Hapësirë në Rrjet &amp; Disk">
+<!ENTITY itemCertificates.label  "Dëshmi">
 
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
@@ -15,10 +15,8 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lloj Depoje Mesazhesh për llogari të reja:">
 <!ENTITY storeType.accesskey           "L">
-<!ENTITY mboxStore2.label               "Një kartelë për dosje (mbox)">
+<!ENTITY mboxStore2.label              "Një kartelë për dosje (mbox)">
 <!ENTITY maildirStore.label            "Një kartelë për mesazh (maildir)">
-
-
 
 <!ENTITY scrolling.label               "Rrëshqitje">
 <!ENTITY useAutoScroll.label           "Përdor vetërrëshqitje">
@@ -61,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
 <!ENTITY updateManual.accesskey          "M">
-<!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë cilëndo nga shtojcat e mia">
-<!ENTITY updateAutoAddonWarn.accesskey   "S">
 <!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
 <!ENTITY updateHistory.accesskey         "H">
 
@@ -79,11 +75,10 @@
 <!ENTITY showOffline.label             "Jo në linjë…">
 <!ENTITY showOffline.accesskey         "J">
 
-<!ENTITY Diskspace "Hapësirë Disku">
+<!ENTITY Diskspace                       "Hapësirë Disku">
 <!ENTITY offlineCompactFolders.label     "Ngjeshi krejt dosjet kur kjo sjell kursim vendi">
 <!ENTITY offlineCompactFolders.accesskey "N">
 <!ENTITY offlineCompactFoldersMB.label   "MB gjithsej">
-
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -97,17 +92,16 @@
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "P">
 
-
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
 <!ENTITY certs.auto                      "Përzgjidh një vetvetiu">
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Pyetmë çdo herë">
 <!ENTITY certs.ask.accesskey             "y">
-<!ENTITY enableOCSP.label                "Pyet shërbyesit OCSP përgjigjës, për t&apos;u ripohuar vlefshmëria për tani e dëshmive">
+<!ENTITY enableOCSP.label                "Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive">
 <!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY manageCertificates.label "Administroni Dëshmi">
 <!ENTITY manageCertificates.accesskey "A">
-<!ENTITY viewSecurityDevices.label      "Pajisje Sigurie">
-<!ENTITY viewSecurityDevices.accesskey  "a">
+<!ENTITY viewSecurityDevices.label "Pajisje Sigurie">
+<!ENTITY viewSecurityDevices.accesskey "a">

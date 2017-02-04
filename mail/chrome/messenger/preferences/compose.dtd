@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addExtension.label                   "Shto prapashtesë te emri i kartelës">
-<!ENTITY addExtension.accesskey               "s">
-<!ENTITY directoriesNone.label                 "Asnjë">
-
 <!ENTITY itemGeneral.label                   "Të përgjithshme">
 <!ENTITY itemAutoComplete.label              "Adresim">
 <!ENTITY itemSpellCheck.label                "Drejtshkrim">
@@ -16,6 +12,23 @@
 <!ENTITY forwardMsg.accesskey                 "M">
 <!ENTITY inline.label                         "Brendazi">
 <!ENTITY asAttachment.label                   "Si Bashkëngjitje">
+<!ENTITY addExtension.label                   "Shto prapashtesë te emri i kartelës">
+<!ENTITY addExtension.accesskey               "s">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Shkronja:">
+<!ENTITY font.accesskey                       "S">
+<!ENTITY size.label                           "Madhësi:">
+<!ENTITY size.accesskey                       "a">
+<!ENTITY fontColor.label                      "Ngjyrë Teksti:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Ngjyrë Sfondi:">
+<!ENTITY bgColor.accesskey                    "S">
+<!ENTITY restoreHTMLDefaults.label            "Rimerr Parazgjedhjet">
+<!ENTITY restoreHTMLDefaults.accesskey        "i">
+<!ENTITY defaultToParagraph.label             "Si parazgjedhje, përdor formatin Paragraf, në vend se të Lëndë Mesazhi">
+<!ENTITY defaultToParagraph.accesskey         "P">
+
 <!ENTITY spellCheck.label                     "Kontrolloji drejtshkrimin para se ta dërgosh">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontrollo drejtshkrimin në shkrim e sipër">
@@ -30,8 +43,6 @@
 <!ENTITY autoSave.accesskey                   "V">
 <!ENTITY autoSaveEnd.label                    "minuta">
 
-
-
 <!ENTITY emailCollectionPicker.label           "Shto vetvetiu adresë dërgimi email-i te:">
 <!ENTITY emailCollectionPicker.accesskey       "v">
 <!ENTITY addressingTitle.label                 "Vetëplotësim Adrese">
@@ -40,25 +51,16 @@
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Shërbyes Drejtorie:">
 <!ENTITY directories.accesskey                 "S">
+<!ENTITY directoriesNone.label                 "Asnjë">
 <!ENTITY editDirectories.label                 "Përpunoni Drejtori…">
 <!ENTITY editDirectories.accesskey             "P">
+<!ENTITY showAsDefault.label                   "Drejtori parazgjedhje për nisjen e dritares së librit të adresave:">
+<!ENTITY showAsDefault.accesskey               "D">
+<!ENTITY showAsDefaultLast.label               "Drejtoria e përdorur së fundit">
+
 <!ENTITY sendOptionsDescription.label          "Formësoni sjelljen lidhur me formate tekstesh">
 <!ENTITY sendOptions.label                     "Mundësi Dërgimi…">
 <!ENTITY sendOptions.accesskey                 "u">
-
-<!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Shkronja:">
-<!ENTITY font.accesskey                       "S">
-<!ENTITY size.label                           "Madhësi:">
-<!ENTITY size.accesskey                       "a">
-<!ENTITY fontColor.label                      "Ngjyrë Teksti:">
-<!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Ngjyrë Sfondi:">
-<!ENTITY bgColor.accesskey                    "S">
-<!ENTITY restoreHTMLDefaults.label            "Rikthe Parazgjedhjet">
-<!ENTITY restoreHTMLDefaults.accesskey        "i">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Kur përdoret formati paragrafë, tasti Enter krijon paragraf të ri">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY attachmentReminder.label              "Kontrollo për bashkëngjitje që mungojnë">
 <!ENTITY attachmentReminder.accesskey          "K">

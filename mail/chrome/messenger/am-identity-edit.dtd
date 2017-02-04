@@ -6,9 +6,13 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityTitle.label "Rregullime Identiteti">
 <!ENTITY identityListDesc.label "Formësoni rregullimet për këtë identitet:">
 
 <!ENTITY settingsTab.label       "Rregullime">
 <!ENTITY copiesFoldersTab.label "Kopje &amp; Dosje">
 <!ENTITY addressingTab.label    "Hartim &amp; Adresim">
+
+<!ENTITY publicData.label        "Të dhëna Publike">
+<!ENTITY privateData.label       "Të dhëna Private">
+<!ENTITY identityAlias.label     "Etiketë Identiteti:">
+<!ENTITY identityAlias.accesskey "E">

@@ -5,20 +5,18 @@
 
 <!ENTITY migrationWizard.title          "Ndihmës Importimesh">
 
-<!ENTITY importFromWin.label               "Importo Mundësi, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
-<!ENTITY importFromNonWin.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importFromWin.label            "Importo Mundësi, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importFromNonWin.label         "Importo Parapëlqime, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importSourceNotFound.label     "S&apos;u gjet aplikacion prej nga të importohen të dhëna.">
 
 <!ENTITY importFromNothing.label        "Mos importo gjë">
 <!ENTITY importFromNothing.accesskey    "M">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ose më të ri">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importo Rregullime dhe Dosje Poste Prej">
 <!ENTITY importItems.title              "Objekte për Importim">
@@ -32,4 +30,3 @@
 
 <!ENTITY done.title                     "Importim i Plotë">
 <!ENTITY done.label                     "Elementët vijues u importuan me sukses:">
-

@@ -13,7 +13,7 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Ngjite Si">
 <!ENTITY pasteAs.accesskey "S">
-<!ENTITY pasteAsQuotationCmd.label "Ngjite Si Citim">
+<!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Gjeni…">
@@ -27,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Futje">
 <!ENTITY insertMenu.accesskey "F">
-<!ENTITY insertLinkCmd.label "Lidhje…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Lidhje…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Spirancë e Emërtuar…">
 <!ENTITY insertAnchorCmd.accesskey "c">
 <!ENTITY insertImageCmd.label "Figurë…">
@@ -95,7 +95,6 @@
 <!ENTITY size-hugeCmd.label "Të stërmëdha">
 <!ENTITY size-hugeCmd.accesskey "s">
 
-
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil Teksti">
 <!ENTITY fontStyleMenu.accesskey "S">
@@ -146,7 +145,7 @@
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraf">  
+<!ENTITY paragraphParagraphCmd.label "Paragraf">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Titull 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -216,6 +215,7 @@
 <!ENTITY decreaseIndent.label "Zvogëlo Hapësirë Kryeradhe">
 <!ENTITY decreaseIndent.accesskey "Z">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY colorsAndBackground.label "Sfond dhe Ngjyra Faqeje…">
 <!ENTITY colorsAndBackground.accesskey "s">
 
@@ -268,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Fshije">
 <!ENTITY tableDeleteMenu.accesskey "F">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -283,7 +283,7 @@
 <!ENTITY tableProperties.accesskey "v">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Shtyllë Menuje">
+<!ENTITY menuBar.tooltip "Shtyllë Menush">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
 <!ENTITY cutToolbarCmd.tooltip "Prijeni">
 <!ENTITY copyToolbarCmd.tooltip "Kopjojeni">
@@ -344,4 +344,3 @@
 <!ENTITY removeTOC.accesskey      "H">
 <!ENTITY tocMenu.label            "Lëndë…">
 <!ENTITY tocMenu.accesskey        "L">
-

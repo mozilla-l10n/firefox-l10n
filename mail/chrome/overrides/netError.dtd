@@ -37,6 +37,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.</li>
+</ul>
+">
+
 <!ENTITY generic.title "Hëm.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName;-i, për ndonjë arsye nuk mund ta ngarkojë këtë faqe.</p>
@@ -58,7 +65,7 @@
 <!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
 
-<!ENTITY netOffline.title "Mënyra i palidhur">
+<!ENTITY netOffline.title "Mënyrë Jo Në Linjë">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Shtypni &quot;Riprovoni&quot; që të kalohet nën mënyrën në linjë dhe të ringarkohet faqja.</li>
@@ -148,29 +155,11 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sajt i dyshuar për sulme!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Sajtet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna private, përdorin kompjuterin tuaj për të sulmuar të tjerë, ose dëmtojnë sistemin tuaj.</p>
-<p>Të zotë sajtesh, që janë të bindur se sajti tyre është raportuar gabimisht si sajt sulmesh, mund të <a href='http://www.stopbadware.org/home/reviewinfo'>kërkojnë një shqyrtim</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Sajt i Dyshuar Për Shpërndarje Software-i të Padëshiruar!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Faqet e software-it të padëshiruar përpiqen të instalojnë software që mund të jetë i rrejshëm dhe të ndikojë mbi sistemin tuaj në mënyra të papritura.</p>
-">
-
-<!ENTITY phishingBlocked.title "Dyshim për sajesë web!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Dhënia e çfarëdo të dhëne personale më këtë faqe mund të sjellë vjedhje identiteti apo mashtrime të tjera.</p>
-<p>Këto lloje sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, me të cilat faqe web dhe email-e mashtrues përdoren për të imituar burime të cilave u zini besë.</p>
-">
-
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
-
-<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni s&apos;mund të shfaqet, ngaqë u pika një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, për t&apos;ua bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -191,6 +180,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL i Largët">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
-<!ENTITY forbiddenBlocked.title "Sajt i Ndaluar">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje, ngaqë është formësuar ta bllokojë.</p>
-">
+<!ENTITY inadequateSecurityError.title "Lidhja juaj s&apos;është e sigurt">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme kundrejt sulmesh. Një agresor mund të zbulonte lehtë të dhëna të cilat i kujtoni se janë të parrezikuara. Para se të mund të vizitoni sajtin, përgjegjësi i sajtit lypset të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

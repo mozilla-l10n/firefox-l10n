@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
 
 
-<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
@@ -10,13 +10,12 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2               "Riniseni &brandShortName;-in që të Përditësohet">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Zbatoni Përditësimin…">
-<!ENTITY update.applyButtonBillboard.accesskey    "Z">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName;-i është eksperimental dhe mund të jetë i paqëndrueshëm.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu te &vendorShortName; të dhëna rreth punimit, hardware-it, përdorimit dhe përshtatjeve, që të ndihmohet për ta bërë &brandShortName;-in më të mirë.">
+<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu te &vendorShortName; të dhëna mbi punimin, hardware-in, përdorimin dhe përshtatjet, që të ndihmohet në përmirësimin e &brandShortName;-it.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -42,6 +41,8 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "përfshihuni!">
 <!ENTITY helpus.end                 "">
+
+<!ENTITY releaseNotes.link          "Shënime versioni">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Të dhëna Lejimi">
