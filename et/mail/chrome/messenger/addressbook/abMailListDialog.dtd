@@ -4,20 +4,19 @@
 
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title        "Uus meililist">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Aadressiraamat:">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Aadressiraamat:">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Listi nimi:">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Listi hüüdnimi:">
+<!ENTITY ListNickName.accesskey         "H">
 <!ENTITY ListDescription.label          "Kirjeldus:">
+<!ENTITY ListDescription.accesskey      "k">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Meililisti lisatavad e-posti aadressid:">
+<!ENTITY AddressTitle.accesskey         "M">
 <!ENTITY UpButton.label                 "Liiguta üles">
 <!ENTITY DownButton.label               "Liiguta alla">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "H">
-<!ENTITY ListDescription.accesskey      "k">
 
