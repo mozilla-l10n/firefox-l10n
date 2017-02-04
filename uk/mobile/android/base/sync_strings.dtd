@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label 'Мітки'>
 <!ENTITY bookmarks.folder.toolbar.label 'Панель закладок'>
 <!ENTITY bookmarks.folder.other.label 'Інші закладки'>
-<!ENTITY bookmarks.folder.desktop.label 'Закладки стільниці'>
+<!ENTITY bookmarks.folder.desktop.label 'Закладки комп’ютера'>
 <!ENTITY bookmarks.folder.mobile.label 'Мобільні закладки'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Прикріплені'>
