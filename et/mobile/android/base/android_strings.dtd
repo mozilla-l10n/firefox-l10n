@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Järjehoidja on juba lisatud">
 <!ENTITY overlay_share_send_other        "Saada teise seadmesse">
 
+<!ENTITY overlay_share_open_browser_btn_label "Ava &brandShortName;is">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -280,7 +281,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs                 "Kohandatud kaardid">
-<!ENTITY pref_custom_tabs_summary         "Kolmanda osapoole äppidel lubatakse URLe avada kohandatud väljanägemise ja funktsionaalsusega.">
+<!ENTITY pref_custom_tabs_summary3        "Kolmanda osapoole äppidel lubatakse veebilehti avada kohandatud &brandShortName;i versiooniga">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream             "Tegevuste voog">
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Kuvatakse otsingu ajalugu">
 <!ENTITY pref_import_options             "Importimise valikud">
 <!ENTITY pref_import_android_summary     "järjehoidjate ja ajaloo importimine Androidi brauserist">
+<!ENTITY pref_private_data_openTabs      "Avatud kaardid">
 <!ENTITY pref_private_data_history2      "Veebilehitsemise ajalugu">
 <!ENTITY pref_private_data_searchHistory "Otsingu ajalugu">
 <!ENTITY pref_private_data_formdata2     "Vormide ajalugu">
@@ -535,6 +537,11 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3           "Mitme lingi järjestikune avamine">
 <!ENTITY pref_tab_queue_summary4         "lingid salvestatakse järgmise &brandShortName;i avamiseni">
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs               "Kompaktsed kaardid">
+<!ENTITY pref_compact_tabs_summary2      "Vertikaalasendis paigutatakse kaardid kahte tulpa">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,8 +708,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2     "Puuduta, kui soovid, et uuendus rakendataks pärast allalaadimist.">
 <!ENTITY updater_downloading_retry2      "Puuduta, kui soovid uuesti proovida.">
 
-<!ENTITY updater_apply_title2            "&brandShortName;ile on saadaval uuendus">
-<!ENTITY updater_apply_select2           "Uuendamiseks puuduta">
+<!ENTITY updater_apply_title3            "&brandShortName;ile on alla laaditud uuendus">
+<!ENTITY updater_apply_select3           "Paigaldamiseks puuduta">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -831,3 +838,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Lisa lugemisvaatesse lisatud lehed järjehoidjatesse, et lugeda neid ka võrguta režiimis.">
 <!ENTITY helper_triple_readerview_open_button "Lisa järjehoidjatesse">
 
+<!ENTITY activity_stream_topsites "Top saidid">
+<!ENTITY activity_stream_highlights "Esiletõstetud">
+
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Järjehoidjatest">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Külastatud">
+
+<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
+is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "Peida">
+<!ENTITY activity_stream_delete_history "Kustuta ajaloost">
+
+<!ENTITY activity_stream_welcome_title "Tere tulemast esiletõstetute lehele">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; tõstab nüüd sinu veebis avastatud asju esile, nii et sa leiaksid kiirelt tee tagasi artiklite, videote, järjehoidjate ja muude lehtede juurde.">
