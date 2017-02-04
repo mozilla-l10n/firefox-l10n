@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
+<!ENTITY showAsDefault.label                   "Annuaire par défaut à l’ouverture de la fenêtre du carnet d’adresses :">
+<!ENTITY showAsDefault.accesskey               "f">
+<!ENTITY showAsDefaultLast.label               "Dernier annuaire utilisé">
 
 <!ENTITY sendOptionsDescription.label          "Configuration du comportement pour l’envoi en format texte">
 <!ENTITY sendOptions.label                     "Options d’expédition…">
