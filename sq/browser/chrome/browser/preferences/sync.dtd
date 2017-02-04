@@ -52,7 +52,7 @@
 <!ENTITY prefs.ppLink.label         "Rregulla Privatësie">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Shënim Privatësie">
+<!ENTITY fxaPrivacyNotice.link.label "Shënim Mbi Privatësinë">
 <!ENTITY determiningAcctStatus.label     "Po përcaktohet gjendja e llogarisë suaj…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,

@@ -56,9 +56,9 @@
 <!ENTITY otherActionsButton.tooltip "Veprime të tjera">
 <!ENTITY otherActionsOpenConversation1.label "Hape si Bisedë">
 <!ENTITY otherActionsOpenConversation1.accesskey "B">
-<!ENTITY otherActionsOpenInNewWindow1.label "Hape Në Dritare të Re">
+<!ENTITY otherActionsOpenInNewWindow1.label "Hape në Dritare të Re">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
-<!ENTITY otherActionsOpenInNewTab1.label "Hape Në Skedë të Re">
+<!ENTITY otherActionsOpenInNewTab1.label "Hape në Skedë të Re">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "K">
 <!ENTITY markAsReadMenuItem1.label "Shënoje si të Lexuar">
 <!ENTITY markAsReadMenuItem1.accesskey "l">

@@ -55,7 +55,7 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Ngjyrë Sfondi:">
 <!ENTITY bgColor.accesskey                    "S">
-<!ENTITY restoreHTMLDefaults.label            "Rimerr Parazgjedhjet">
+<!ENTITY restoreHTMLDefaults.label            "Rikthe Parazgjedhjet">
 <!ENTITY restoreHTMLDefaults.accesskey        "i">
 <!ENTITY enterKeyCreatesNewParagraph.label    "Kur përdoret formati paragrafë, tasti Enter krijon paragraf të ri">
 <!ENTITY enterKeyCreatesNewParagraph.accesskey "p">

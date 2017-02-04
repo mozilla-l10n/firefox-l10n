@@ -48,7 +48,7 @@
 <!ENTITY hideThisAppCmdMac2.label       "Fshihe &brandShorterName;-in">
 <!ENTITY hideThisAppCmdMac2.commandkey  "F">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Fshihi Të tjerat">
+<!ENTITY hideOtherAppsCmdMac.label      "Fshihi të Tjerat">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Shfaqi Të tëra">
+<!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">

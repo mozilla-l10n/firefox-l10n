@@ -234,7 +234,7 @@
 <!ENTITY bccAddr.label "Bcc:"> 
 <!ENTITY replyAddr.label "Përgjigjiu:"> 
 <!ENTITY newsgroupsAddr.label "Grup Lajmesh:"> 
-<!ENTITY followupAddr.label "Vazhdoje-Te:"> 
+<!ENTITY followupAddr.label "Vazhdimi-Te:"> 
 <!ENTITY subject.label "Subjekt:">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

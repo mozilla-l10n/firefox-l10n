@@ -33,6 +33,11 @@
 <!ENTITY pref.systemcolors.label "Optimizo ngjyrat për përdorshmëri" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
+<!ENTITY pref.eventsandtasks.label "Veprimtari dhe Punë" >
+<!ENTITY pref.editInTab.label "Përpunoni veprimtari dhe punë te një skedë, në vend se të një dritare dialogu." >
+<!ENTITY pref.editInTab.accesskey "P">
+
+
 <!ENTITY pref.timezones.caption "Zonë kohore">
 <!ENTITY pref.timezones.label "Përzgjidhni qytetin më të afërt në zonën tuaj kohore:">
 <!ENTITY pref.timezones.accesskey "P">
