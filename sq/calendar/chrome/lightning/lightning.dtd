@@ -34,7 +34,7 @@
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Veprimtari dhe Punë">
-<!ENTITY lightning.menu.eventtask.accesskey            "N">
+<!ENTITY lightning.menu.eventtask.accesskey            "V">
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "Email:">

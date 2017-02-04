@@ -283,7 +283,7 @@
 <!ENTITY tableProperties.accesskey "v">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Shtyllë Menuje">
+<!ENTITY menuBar.tooltip "Shtyllë Menush">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
 <!ENTITY cutToolbarCmd.tooltip "Prijeni">
 <!ENTITY copyToolbarCmd.tooltip "Kopjojeni">

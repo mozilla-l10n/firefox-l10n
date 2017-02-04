@@ -45,7 +45,7 @@
 <!ENTITY  acceptThirdParty.pre.accesskey  "l">
 <!ENTITY  acceptThirdParty.always.label   "Përherë">
 <!ENTITY  acceptThirdParty.never.label    "Kurrë">
-<!ENTITY  acceptThirdParty.visited.label  "Prej të vizituarish">
+<!ENTITY  acceptThirdParty.visited.label  "Nga të vizituarit">
 
 <!ENTITY  keepUntil.label               "Mbaji:">
 <!ENTITY  keepUntil.accesskey           "a">

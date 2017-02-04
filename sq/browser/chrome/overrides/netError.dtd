@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Problem në ngarkimin e faqes">
 <!ENTITY retry.label "Riprovoni">
-<!ENTITY returnToPreviousPage.label "Shkoni Mbrapsht">
+<!ENTITY returnToPreviousPage.label "Kthehuni Mbrapsht">
 <!ENTITY advanced.label "Të mëtejshme">
 
 <!-- Specific error messages -->
@@ -73,7 +73,7 @@
 <!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
-<!ENTITY netOffline.title "Mënyrë Jashtë Linje">
+<!ENTITY netOffline.title "Mënyrë Jo Në Linjë">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Shtypni &quot;Riprovoni&quot; që të kalohet nën mënyrën në linjë dhe të ringarkohet faqja.</li>

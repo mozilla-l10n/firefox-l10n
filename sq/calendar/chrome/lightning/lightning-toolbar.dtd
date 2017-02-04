@@ -37,7 +37,7 @@
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Javë">
 <!ENTITY lightning.toolbar.week.accesskey            "J">
-<!ENTITY lightning.toolbar.multiweek.label           "Shumëjavëshe">
+<!ENTITY lightning.toolbar.multiweek.label           "Shumëjavësh">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "S">
 <!ENTITY lightning.toolbar.month.label               "Muaj">
 <!ENTITY lightning.toolbar.month.accesskey           "M">

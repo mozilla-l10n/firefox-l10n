@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Kur niset &brandShortName;-i:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupUserHomePage.label "Shfaqni faqen tuaj hyrëse">
+<!ENTITY startupUserHomePage.label "Shfaq kreun tim">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe të zbrazët">
-<!ENTITY startupPrevSession.label  "Shfaqni dritaret dhe skedat tuaja prej herës së fundit">
+<!ENTITY startupPrevSession.label  "Shfaq dritaret dhe skedat e mia të herës së fundit">
 
 <!ENTITY homepage.label            "Kreu:">
 <!ENTITY homepage.accesskey        "K">
@@ -29,7 +29,7 @@
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
 <!ENTITY chooseFolderMac.accesskey    "Z">
 <!ENTITY alwaysAskWhere.label         "Pyet përherë ku të ruhen kartelat">
-<!ENTITY alwaysAskWhere.accesskey     "P">
+<!ENTITY alwaysAskWhere.accesskey     "u">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrollo përherë për të parë nëse &brandShortName;-i është shfletuesi parazgjedhje">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">

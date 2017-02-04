@@ -6,11 +6,11 @@
 <!ENTITY  window.width                    "41em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Ngjyrat e përcaktuara nga faqja anashkaloji me përzgjedhjet e mia më sipër:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "N">
+<!ENTITY  overrideDefaultPageColors.label        "Anashkaloji ngjyrat e përcaktuara nga faqja me përzgjedhjet e mia më sipër:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "A">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Përherë">
-<!ENTITY  overrideDefaultPageColors.auto.label   "Vetëm për tema Kontrasti të Lartë">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Vetëm për tema Me Shumë Kontrast">
 <!ENTITY  overrideDefaultPageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">

@@ -28,7 +28,7 @@
 <!ENTITY certmgr.fields.label "Vlerë Fushe">
 <!ENTITY certmgr.fingerprints.label "Shenja gishtash">
 <!ENTITY certmgr.hierarchy.label "Hierarki Dëshmish">
-<!ENTITY certmgr.issuerinfo.label "Lëshuar nga">
+<!ENTITY certmgr.issuerinfo.label "Lëshuar Nga">
 <!ENTITY certmgr.mine "Keni dëshmi prej këtyre organizmave që ju identifikojnë:">
 <!ENTITY certmgr.others "Keni në kartelë dëshmi që identifikojnë këta persona:">
 <!ENTITY certmgr.serial "Numër Serie">

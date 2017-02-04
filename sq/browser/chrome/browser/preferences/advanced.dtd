@@ -13,7 +13,7 @@
 <!ENTITY searchOnStartTyping.label       "Kërko për tekst kur niset të shtypet">
 <!ENTITY searchOnStartTyping.accesskey   "t">
 <!ENTITY blockAutoReload.label           "Sinjalizo kur sajte rreken të ridrejtojnë ose ringarkojnë faqen">
-<!ENTITY blockAutoReload.accesskey       "u">
+<!ENTITY blockAutoReload.accesskey       "S">
 <!ENTITY useOnScreenKeyboard.label       "Shfaq një tastierë virtuale, kur duhet">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -26,7 +26,7 @@
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "u">
 <!ENTITY checkUserSpelling.label         "Kontrollo drejtshkrimin në shtypje e sipër">
-<!ENTITY checkUserSpelling.accesskey     "d">
+<!ENTITY checkUserSpelling.accesskey     "o">
 
 <!ENTITY dataChoicesTab.label            "Mundësi të Dhënash">
 
@@ -97,14 +97,14 @@
 <!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
 <!ENTITY useService.accesskey            "P">
 
-<!ENTITY autoUpdateOthers.label          "Përditësoje automatikisht">
+<!ENTITY autoUpdateOthers.label          "Përditësoje vetvetiu">
 <!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineStorageNotify.label               "Tregomë kur një sajt kërkon të depozitojë të dhëna për përdorim të palidhur">
-<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotify.label               "Bëma të ditur kur një sajt kërkon të depozitojë të dhëna për përdorim të palidhur">
+<!ENTITY offlineStorageNotify.accesskey           "B">
 <!ENTITY offlineStorageNotifyExceptions.label     "Përjashtime…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "a">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "P">
 
 <!ENTITY offlineAppsList2.label          "Sajteve vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -116,7 +116,7 @@
 <!ENTITY certPersonal.label              "Kërkesa">
 <!ENTITY certPersonal.description        "Kur një shërbyes kërkon dëshminë tuaj personale:">
 <!ENTITY selectCerts.auto                "Përzgjidh një vetvetiu">
-<!ENTITY selectCerts.auto.accesskey      "P">
+<!ENTITY selectCerts.auto.accesskey      "z">
 <!ENTITY selectCerts.ask                 "Pyetmë çdo herë">
 <!ENTITY selectCerts.ask.accesskey       "y">
 <!ENTITY enableOCSP.label                "Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive">

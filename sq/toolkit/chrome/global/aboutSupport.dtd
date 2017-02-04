@@ -95,7 +95,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifikoni Integritetin">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "GC Rritës">
+<!ENTITY aboutSupport.jsIncrementalGC "GH Shtues">
 
 <!ENTITY aboutSupport.a11yTitle "Përdorshmëri">
 <!ENTITY aboutSupport.a11yActivated "E aktivizuar">

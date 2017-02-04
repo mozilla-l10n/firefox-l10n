@@ -14,7 +14,7 @@
 <!ENTITY hfDateAndTime "Datë/Kohë">
 <!ENTITY hfLeft.label "Majtas:">
 <!ENTITY hfPage "Faqe #">
-<!ENTITY hfPageAndTotal "Faqe # nga #">
+<!ENTITY hfPageAndTotal "Faqja # nga #">
 <!ENTITY hfRight.label "Djathtas:">
 <!ENTITY hfTitle "Titull">
 <!ENTITY hfURL "URL">

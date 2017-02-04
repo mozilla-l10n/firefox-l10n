@@ -244,7 +244,7 @@
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Futni një emotikon">
 <!ENTITY smiley1Cmd.label "I buzëqeshur">
-<!ENTITY smiley2Cmd.label "I ngrysur">
+<!ENTITY smiley2Cmd.label "I vrenjtur">
 <!ENTITY smiley3Cmd.label "Syshkelur">
 <!ENTITY smiley4Cmd.label "Gjuhëpërjashta">
 <!ENTITY smiley5Cmd.label "I zgërdhirë">
