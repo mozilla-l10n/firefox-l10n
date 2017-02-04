@@ -90,10 +90,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ipakita ang Lahat ng Mga Tab">
 <!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY toggleReaderMode.key "R">
 
 
 
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
+<!ENTITY fullScreenClose.tooltip "Isara">
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
 <!ENTITY fullScreenAutohide.accesskey "I">
 <!ENTITY fullScreenExit.label "Itigil ang pag-gamit ng buong screen">
@@ -129,7 +131,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
@@ -153,6 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Hanapin">
 
 <!-- Toolbar items --> 
+<!ENTITY homeButton.label             "Home">
 
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -176,6 +183,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Mga Download">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Mga Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -199,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   
 <!ENTITY cutCmd.key             "X">  
  
-  
+<!ENTITY copyCmd.label            "Kopyahin">  
 <!ENTITY copyCmd.key            "C">  
  
   
@@ -249,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
 
 
@@ -476,10 +485,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buksan ang Link sa Bagong Private Window">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+
 
 
 

@@ -19,4 +19,6 @@ their language. -->
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 
+<!ENTITY searchreset.noChangeButton.access "D">
 
+<!ENTITY searchreset.changeEngineButton.access "C">

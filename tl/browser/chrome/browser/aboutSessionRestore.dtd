@@ -15,6 +15,7 @@
 <!ENTITY restorepage.tryagainButton "Ibalik">
 <!ENTITY restorepage.restore.access "I">
 <!ENTITY restorepage.closeButton    "Isara">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Ibalik">
 <!ENTITY restorepage.listHeader     "Mga Window at mga tab">
@@ -24,6 +25,7 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Tagumpay!">
 
