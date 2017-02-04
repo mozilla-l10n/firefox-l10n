@@ -52,6 +52,8 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  İş Parçacığı Takılmaları">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Yakalanan Yığınlar">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Değişkenler">
 
@@ -61,6 +63,8 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Anahtarlı Histogramlar">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Olaylar">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
 

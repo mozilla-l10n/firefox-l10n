@@ -12,9 +12,10 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Birden çok sekme açmanın &brandShortName; uygulamasını yavaşlatabileceği durumlarda beni uyar">
+<!ENTITY warnOnOpenManyTabs.accesskey   "k">
 
 <!ENTITY switchLinksToNewTabs.label        "Bir bağlantıyı yeni sekmede açtığımda hemen o sekmeye geç">
-<!ENTITY switchLinksToNewTabs.accesskey    "b">
+<!ENTITY switchLinksToNewTabs.accesskey    "B">
 
 <!ENTITY showTabsInTaskbar.label          "Sekme ön izlemelerini Windows görev çubuğunda göster">
 <!ENTITY showTabsInTaskbar.accesskey      "ö">

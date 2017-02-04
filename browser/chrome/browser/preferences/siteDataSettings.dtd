@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ayarlar - Site Verileri">
+<!ENTITY     settings.description          "Aşağıdaki web siteleri diskinizde veri depolamayı istedi. Hangi sitelerin site verilerini depolamasına izin vereceğinizi seçebilirsiniz. Varsayılan olarak site verileri geçici olarak depolanır ve kendiliğinden silinebilir.">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Depolama">
