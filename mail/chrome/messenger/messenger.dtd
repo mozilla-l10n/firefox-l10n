@@ -66,8 +66,8 @@
 <!ENTITY compactFolders.accesskey "N">
 <!ENTITY emptyTrashCmd.label "Zbrazi Hedhurinat">
 <!ENTITY emptyTrashCmd.accesskey "Z">
-<!ENTITY offlineMenu.label "I palidhur">
-<!ENTITY offlineMenu.accesskey "I">
+<!ENTITY offlineMenu.label "Jo në linjë">
+<!ENTITY offlineMenu.accesskey "J">
 <!ENTITY offlineGoOfflineCmd.label "Punoni i Palidhur">
 <!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Shkarkoni/Njëkohësoni Tani…">
@@ -542,7 +542,7 @@
 <!ENTITY undeleteButton.label "Çfshije">
 <!ENTITY markButton.label "Shënoje">
 <!ENTITY printButton.label "Shtype">
-<!ENTITY stopButton.label "Ndal">
+<!ENTITY stopButton.label "Ndale">
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
 <!ENTITY junkItem.title "E pavlerë">
 <!ENTITY junkButton.label "E pavlerë">

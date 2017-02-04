@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Të përgjithshme">
 
-<!ENTITY  warnOnAddonInstall.label        "Të sinjalizojë kur sajtet përpiqen të instalojnë shtesa">
-<!ENTITY  warnOnAddonInstall.accesskey    "s">
+<!ENTITY  warnOnAddonInstall.label        "Sinjalizo kur sajte përpiqen të instalojnë shtesa">
+<!ENTITY  warnOnAddonInstall.accesskey    "S">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,14 +17,13 @@
 <!ENTITY  blockDownloads.label            "Bllokoni shkarkime të rrezikshme">
 <!ENTITY  blockDownloads.accesskey        "z">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "Të sinjalizojë rreth software-i të padëshiruar dhe jo të zakonshëm">
+<!ENTITY  blockUncommonAndUnwanted.label     "Sinjalizo rreth software-i të padëshiruar dhe jo të zakonshëm">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "d">
 
 <!ENTITY  addonExceptions.label         "Përjashtime…">
 <!ENTITY  addonExceptions.accesskey     "a">
 
-
-<!ENTITY  logins.label                  "Hyrje">
+<!ENTITY  logins.label                  "Kredenciale Hyrjesh">
 
 <!ENTITY  rememberLogins.label          "Mba mend kredenciale hyrjesh për sajtet">
 <!ENTITY  rememberLogins.accesskey      "M">

@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Shfletimi Privat ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nuk ju bën anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " në Internet. Punëdhënësi juaj apo furnizuesi juaj i shërbimit internet mundet prapëseprapë të mësojë se cilat faqe vizitoni.">
-<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Mësoni më tepër rreth kësaj">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Shfletim Privat">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Mësoni më tepër mbi">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Shfletimin Privat">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Mbrojtje Nga Gjurmimet">

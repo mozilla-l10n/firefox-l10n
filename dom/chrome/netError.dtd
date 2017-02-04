@@ -31,7 +31,7 @@
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
 <!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre. Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
 
-<!ENTITY netOffline.title "Mënyrë Jashtë Linje">
+<!ENTITY netOffline.title "Mënyrë Jo Në Linjë">
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon nën mënyrën jashtë linje dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën në linjë dhe të ringarkoni faqen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">

@@ -23,7 +23,7 @@
 <!ENTITY newevent.status.confirmed.label          "E konfirmuar" >
 <!ENTITY newevent.status.confirmed.accesskey      "r" >
 <!ENTITY newevent.status.needsaction.label        "Lyp Veprim" >
-<!ENTITY newevent.status.inprogress.label         "Në proces" >
+<!ENTITY newevent.status.inprogress.label         "Në Proces" >
 <!ENTITY newevent.status.completed.label          "Plotësuar më" >
 
 <!-- The following entity is for New Task dialog only -->

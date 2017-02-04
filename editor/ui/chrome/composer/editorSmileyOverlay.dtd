@@ -8,7 +8,7 @@
 
 <!ENTITY smiley1Cmd.label "I buzëqeshur">
 <!ENTITY smiley1Cmd.accesskey "b">
-<!ENTITY smiley1Cmd.tooltip "Futni një fytyrë që buzëqesh">
+<!ENTITY smiley1Cmd.tooltip "Futni një emotikon">
 <!ENTITY smiley2Cmd.label "I vrenjtur">
 <!ENTITY smiley2Cmd.accesskey "V">
 <!ENTITY smiley2Cmd.tooltip "Futni një fytyrë të vrenjtur">

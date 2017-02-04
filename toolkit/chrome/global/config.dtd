@@ -16,8 +16,8 @@
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
-<!ENTITY integer.accesskey "I">
-<!ENTITY integer.label "I plotë">
+<!ENTITY integer.accesskey "p">
+<!ENTITY integer.label "Numër i plotë">
 <!ENTITY lockColumn.label "Gjendje">
 <!ENTITY modify.accesskey "N">
 <!ENTITY modify.label "Ndryshoje">

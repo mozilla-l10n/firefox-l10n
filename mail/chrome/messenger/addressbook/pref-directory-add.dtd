@@ -17,7 +17,7 @@
 <!ENTITY directoryLogin.label              "DN Lidhme: ">
 <!ENTITY directoryLogin.accesskey          "L">
 <!ENTITY General.tab                       "Të përgjithshme">
-<!ENTITY Offline.tab                       "Jashtë Linje">
+<!ENTITY Offline.tab                       "Jo në Linjë">
 <!ENTITY Advanced.tab                      "Të mëtejshme">
 <!ENTITY portNumber.label                  "Numër porte: ">
 <!ENTITY portNumber.accesskey              "N">
