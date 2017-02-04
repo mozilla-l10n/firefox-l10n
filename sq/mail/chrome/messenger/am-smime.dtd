@@ -25,8 +25,13 @@
 <!ENTITY signMessage.accesskey "N">
 <!ENTITY signingCert.message "Përdor këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
 
-<!ENTITY certificates.label     "Dëshmi">
+<!ENTITY certificates.label "Dëshmi">
 <!ENTITY manageCerts2.label "Administroni Dëshmi">
 <!ENTITY manageCerts2.accesskey "A">
 <!ENTITY manageDevices.label "Pajisje Sigurie">
 <!ENTITY manageDevices.accesskey "S">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Përzgjidhni Dëshmi">
+<!ENTITY certPicker.info  "Dëshmi:">
+<!ENTITY certPicker.detailsLabel "Hollësi të dëshmisë së përzgjedhur:">

@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Emër:">
 <!ENTITY acctName.accesskey       "E">
+<!ENTITY noModulesFound.label     "S&apos;u gjet aplikacion apo kartelë prej nga të importohen të dhëna.">
 
 <!ENTITY back.label               "&lt; Mbrapsht">
 <!ENTITY forward.label            "Pasuesi &gt;">

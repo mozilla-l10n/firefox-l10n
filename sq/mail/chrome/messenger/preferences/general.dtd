@@ -17,8 +17,11 @@
 <!ENTITY newMessagesArrive.label          "Kur mbërrijnë mesazhe të rinj:">
 <!ENTITY playSound.label                  "Luaj një tingull">
 <!ENTITY playSound1.accesskey             "L">
+<!ENTITY playSoundMac.label               "Luaj kartelën tingull vijuese:">
+<!ENTITY playSoundMac.accesskey           "i">
 <!ENTITY showAnimatedAlert.label          "Shfaq një sinjalizim">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings2.label "Sinjalizimet dhe tingulli parazgjedhje mund të çaktivizohen te pjesa Njoftime në Parapëlqime Sistemi.">
 <!ENTITY customizeMailAlert.label         "Përshtateni…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
@@ -28,8 +31,6 @@
 <!ENTITY play.label                       "Luaje">
 <!ENTITY play.accesskey                   "u">
 <!ENTITY systemsound.label                "Tingull parazgjedhje sistemi për postë të re">
-<!ENTITY systemsoundMac.label             "Tingull Sinjalizimi Sistemi">
-<!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "T">
 <!ENTITY customsound.label                "Përdor kartelën zanore vijuese">
 <!ENTITY customsound.accesskey            "o">
