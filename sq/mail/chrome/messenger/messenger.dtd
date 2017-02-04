@@ -523,7 +523,7 @@
 <!ENTITY getMsgButton1.label "Merr Mesazhet">
 <!ENTITY newMsgButton.label "Shkruani">
 <!ENTITY replyButton.label "Përgjigju">
-<!ENTITY replyAllButton.label "Përgjigjiu të Tërëve">
+<!ENTITY replyAllButton.label "Përgjigjiuni të Tërëve">
 <!ENTITY replyListButton.label "Përgjigjuni te Lista">
 <!ENTITY forwardButton.label "Përcille">
 <!ENTITY fileButton.label "Kartelë">
@@ -748,7 +748,7 @@
 <!ENTITY contextEditDraftMsg.label "Përpunoni Mesazhin Skicë">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Përgjigjiu Vetëm Dërguesit">
+<!ENTITY contextReplySender.label "Përgjigjiuni Vetëm Dërguesit">
 <!ENTITY contextReplySender.accesskey "G">
 <!ENTITY contextReplyNewsgroup2.label "Përgjigjuni te Grupi i Lajmeve">
 <!ENTITY contextReplyNewsgroup2.accesskey "L">
