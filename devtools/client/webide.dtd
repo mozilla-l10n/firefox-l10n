@@ -32,8 +32,6 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Shkëputu">
 <!ENTITY runtimeMenu_disconnect_accesskey "k">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabelë Lejesh">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "L">
 <!ENTITY runtimeMenu_takeScreenshot_label "Foto ekrani">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "F">
 <!ENTITY runtimeMenu_showDetails_label "Të dhëna Runtime">
@@ -140,10 +138,6 @@
 <!ENTITY prefs_options_keybindings_default "Parazgjedhje">
 <!ENTITY prefs_options_autosavefiles "Vetëruaji kartelat">
 <!ENTITY prefs_options_autosavefiles_tooltip "Ruajini vetvetiu kartelat e përpunuara, përpara se të xhirohet projekt">
-
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabelë Lejesh">
-<!ENTITY permissionstable_name_header "Emër">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Të dhëna Runtime">
