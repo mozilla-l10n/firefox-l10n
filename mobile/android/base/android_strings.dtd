@@ -391,11 +391,11 @@ size. -->
 <!ENTITY pref_private_data_history2 "Історія перегляду">
 <!ENTITY pref_private_data_searchHistory "Історія пошуку">
 <!ENTITY pref_private_data_formdata2 "Історія форм">
-<!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
+<!ENTITY pref_private_data_cookies2 "Куки й активні сеанси">
 <!ENTITY pref_private_data_passwords2 "Збережені логіни">
 <!ENTITY pref_private_data_cache "Кеш">
 <!ENTITY pref_private_data_offlineApps "Дані автономних веб-сайтів">
-<!ENTITY pref_private_data_siteSettings2 "Налаштування сайта">
+<!ENTITY pref_private_data_siteSettings2 "Налаштування сайтів">
 <!ENTITY pref_private_data_downloadFiles2 "Завантаження">
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
 
@@ -497,14 +497,14 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
 <!ENTITY contextmenu_open_private_tab "Відкрити в приватній вкладці">
 <!ENTITY contextmenu_remove "Вилучити">
-<!ENTITY contextmenu_add_to_launcher "Додати на домашню сторінку">
+<!ENTITY contextmenu_add_to_launcher "Додати на головний екран">
 <!ENTITY contextmenu_share "Поділитись">
 <!ENTITY contextmenu_pasteandgo "Вставити і перейти">
 <!ENTITY contextmenu_paste "Вставити">
 <!ENTITY contextmenu_copyurl "Копіювати адресу">
 <!ENTITY contextmenu_edit_bookmark "Редагувати">
 <!ENTITY contextmenu_subscribe "Підписатись на сторінку">
-<!ENTITY contextmenu_site_settings "Редагувати налаштування сайта">
+<!ENTITY contextmenu_site_settings "Змінити налаштування сайту">
 <!ENTITY contextmenu_top_sites_edit "Редагувати">
 <!ENTITY contextmenu_top_sites_pin "Прикріпити сайт">
 <!ENTITY contextmenu_top_sites_unpin "Відкріпити сайт">
@@ -555,9 +555,9 @@ size. -->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "Налаштування сайта">
+<!ENTITY site_settings_title3       "Налаштування сайту">
 <!ENTITY site_settings_cancel       "Скасувати">
-<!ENTITY site_settings_clear        "Стерти">
+<!ENTITY site_settings_clear        "Вилучити">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
