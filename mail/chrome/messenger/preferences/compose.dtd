@@ -54,9 +54,6 @@
 <!ENTITY directoriesNone.label                 "Asnjë">
 <!ENTITY editDirectories.label                 "Përpunoni Drejtori…">
 <!ENTITY editDirectories.accesskey             "P">
-<!ENTITY showAsDefault.label                   "Drejtori parazgjedhje për nisjen e dritares së librit të adresave:">
-<!ENTITY showAsDefault.accesskey               "D">
-<!ENTITY showAsDefaultLast.label               "Drejtoria e përdorur së fundit">
 
 <!ENTITY sendOptionsDescription.label          "Formësoni sjelljen lidhur me formate tekstesh">
 <!ENTITY sendOptions.label                     "Mundësi Dërgimi…">
