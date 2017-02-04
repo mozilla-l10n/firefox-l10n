@@ -23,7 +23,7 @@
 <!ENTITY  addonExceptions.label         "Përjashtime…">
 <!ENTITY  addonExceptions.accesskey     "a">
 
-<!ENTITY  logins.label                  "Hyrje">
+<!ENTITY  logins.label                  "Kredenciale Hyrjesh">
 
 <!ENTITY  rememberLogins.label          "Mba mend kredenciale hyrjesh për sajtet">
 <!ENTITY  rememberLogins.accesskey      "M">

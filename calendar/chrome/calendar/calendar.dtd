@@ -93,7 +93,7 @@
 <!ENTITY calendar.day.button.label              "Ditë" >
 <!ENTITY calendar.week.button.label             "Javë" >
 <!ENTITY calendar.month.button.label            "Muaj" >
-<!ENTITY calendar.multiweek.button.label        "Shumë Javë" >
+<!ENTITY calendar.multiweek.button.label        "Shumëjavësh" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Vetëm ditë jave pune" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "v" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Punë në Pamje" >

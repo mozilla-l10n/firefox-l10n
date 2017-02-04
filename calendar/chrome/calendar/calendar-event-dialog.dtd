@@ -9,33 +9,38 @@
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >
-<!ENTITY newevent.status.label              "Gjendje" >
-<!ENTITY newevent.status.accesskey          "G" >
+
+<!ENTITY newevent.status.label                    "Gjendje" >
+<!ENTITY newevent.status.accesskey                "G" >
 <!ENTITY newevent.eventStatus.none.label          "E papërcaktuar" >
 <!ENTITY newevent.eventStatus.none.accesskey      "p" >
 <!ENTITY newevent.todoStatus.none.label           "E papërcaktuar" >
 <!ENTITY newevent.eventStatus.cancelled.label     "E anuluar" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "a" >
 <!ENTITY newevent.todoStatus.cancelled.label      "E anuluar" >
-<!ENTITY newevent.status.tentative.label    "Përpjekje" >
-<!ENTITY newevent.status.tentative.accesskey  "P" >
-<!ENTITY newevent.status.confirmed.label    "E konfirmuar" >
-<!ENTITY newevent.status.confirmed.accesskey  "r" >
-<!ENTITY newevent.status.needsaction.label  "Lyp Veprim" >
-<!ENTITY newevent.status.inprogress.label   "Në proces" >
-<!ENTITY newevent.status.completed.label    "Plotësuar më" >
+<!ENTITY newevent.status.tentative.label          "Përpjekje" >
+<!ENTITY newevent.status.tentative.accesskey      "P" >
+<!ENTITY newevent.status.confirmed.label          "E konfirmuar" >
+<!ENTITY newevent.status.confirmed.accesskey      "r" >
+<!ENTITY newevent.status.needsaction.label        "Lyp Veprim" >
+<!ENTITY newevent.status.inprogress.label         "Në Proces" >
+<!ENTITY newevent.status.completed.label          "Plotësuar më" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; e plotësuar">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Njoftoni pjesëmarrësit">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Ndaji ftesat sipas pjesëmarrësve">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Kjo mundësi bën të dërgohet një email ftesë për pjesëmarrës. Çdo ftesë përmban vetëm pjesëmarrësin të cilit i dërgohet, kështu që identitetet e pjesëmarrësve të tjerë nuk zbulohen.">
+<!ENTITY event.attendees.notify.label                "Njoftoni pjesëmarrësit">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Ndaji ftesat sipas pjesëmarrësve">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Kjo mundësi bën të dërgohet një email ftesë për pjesëmarrës. Çdo ftesë përmban vetëm pjesëmarrësin të cilit i dërgohet, kështu që identitetet e pjesëmarrësve të tjerë nuk zbulohen.">
+<!ENTITY event.attendees.disallowcounter.label       "Çaktivizoje matjen e kohës">
+<!ENTITY event.attendees.disallowcounter.accesskey   "Ç">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Tregon se s&apos;të pranoni kundërpropozime">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -65,16 +70,32 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Mbylle">
 <!ENTITY  event.menu.item.close.accesskey                 "M">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Ruaje">
 <!ENTITY  event.menu.item.save.accesskey                  "R">
+<!ENTITY  event.menu.item.save.tab.accesskey              "s">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Ruaje dhe Mbylle">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "l">
+
 <!ENTITY  event.menu.item.delete.label                    "Fshini…">
 <!ENTITY  event.menu.item.delete.accesskey                "F">
 <!ENTITY  event.menu.item.page.setup.label                "Rregullim Faqeje">
 <!ENTITY  event.menu.item.page.setup.accesskey            "R">
 <!ENTITY  event.menu.item.print.label                     "Shtype">
 <!ENTITY  event.menu.item.print.accesskey                 "S">
+
 <!ENTITY  event.menu.edit.label                           "Përpunoni">
 <!ENTITY  event.menu.edit.accesskey                       "P">
 <!ENTITY  event.menu.edit.undo.label                      "Zhbëje">
@@ -105,8 +126,8 @@
 <!ENTITY  event.menu.options.accesskey                        "M">
 <!ENTITY  event.menu.options.attendees.label                  "Ftoni Pjesëmarrës…">
 <!ENTITY  event.menu.options.attendees.accesskey              "F">
-<!ENTITY  event.menu.options.timezone2.label                   "Shfaq Zona Kohore">
-<!ENTITY  event.menu.options.timezone2.accesskey               "Z">
+<!ENTITY  event.menu.options.timezone2.label                  "Shfaq Zona Kohore">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Përparësi">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "E papërcaktuar">
@@ -143,14 +164,15 @@
 <!ENTITY event.remove.attendee.label                      "Hiqe pjesëmarrësin">
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
-
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Ruaje dhe Mbylle">
+<!ENTITY  event.toolbar.save.label2                       "Ruaje">
+<!ENTITY  event.toolbar.saveandclose.label                "Ruaje dhe Mbylle">
 <!ENTITY  event.toolbar.delete.label                      "Fshije">
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.privacy.label                     "Privatësi">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Ruajeni dhe mbylleni">
+<!ENTITY  event.toolbar.save.tooltip2                     "Ruaje">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Ruaje dhe Mbylle">
 <!ENTITY  event.toolbar.delete.tooltip                    "Fshijeni">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.attachments.tooltip               "Shtoni Bashkëngjitje">
@@ -159,6 +181,19 @@
 <!ENTITY  event.toolbar.status.tooltip                    "Ndryshojini Gjendjen">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Nryshojini kohën I lirë/I zënë">
 
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Zbatoje propozimin">
+<!ENTITY counter.button.proposal.accesskey                "b">
+<!ENTITY counter.button.proposal.tooltip2                 "Fushat e veprimtarive do të plotësohen duke përdorur vlera prej kundëpropozimit, vetëm ruajtja me ose pa ndryshime shtesë do të shkaktojë njoftimin e pjesëmarrësve">
+<!ENTITY counter.button.original.label                    "Zbato të dhënat origjinale">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Fushat do të plotësohen me vlerat prej veprimtarisë origjinale, të kohës përpara se të bëhej kundërpropozimi origjinal">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
@@ -171,7 +206,7 @@
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "l">
 <!ENTITY event.attendees.label                            "Pjesëmarrës:" >
-<!ENTITY event.attendees.accesskey                        "m" >
+<!ENTITY event.attendees.accesskey                        "m">
 <!ENTITY event.alldayevent.label                          "Gjatë Krejt ditës" >
 <!ENTITY event.alldayevent.accesskey                      "G">
 <!ENTITY event.from.label                                 "Nisje:" >
@@ -211,7 +246,6 @@
 
 <!ENTITY event.reminder.none.label                        "Pa kujtues " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minuta para" >
-
 <!ENTITY event.reminder.5minutes.before.label             "5 minuta para" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuta para" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minuta para" >
@@ -313,7 +347,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Të enjten" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Të premten" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Të shtunën" >
-<!ENTITY event.recurrence.pattern.yearly.day.label              "ditën" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "ditën" >
 <!ENTITY event.recurrence.of.label                           "e" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "të Janarit" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "të Shkurtit" >
@@ -378,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "Ndoshta marr pjesë">
 <!ENTITY read.only.needs.action.label    "Do të vendos më vonë">
 <!ENTITY read.only.reminder.label        "Kujtues:">
+<!ENTITY read.only.attachments.label     "Bashkëngjitje:">
 <!ENTITY read.only.attendees.label       "Pjesëmarrës">
 <!ENTITY read.only.description.label     "Përshkrim">
 <!ENTITY read.only.link.label            "Lidhje e Afërt">
