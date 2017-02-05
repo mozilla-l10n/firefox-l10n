@@ -70,10 +70,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "К">
 <!ENTITY  event.menu.item.close.label                     "Закрыть">
 <!ENTITY  event.menu.item.close.accesskey                 "З">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Сохранить">
 <!ENTITY  event.menu.item.save.accesskey                  "х">
+<!ENTITY  event.menu.item.save.tab.accesskey              "н">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Сохранить и закрыть">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "р">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "а">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "и">
+
 <!ENTITY  event.menu.item.delete.label                    "Удалить…">
 <!ENTITY  event.menu.item.delete.accesskey                "У">
 <!ENTITY  event.menu.item.page.setup.label                "Параметры страницы">
@@ -150,12 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "л">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Сохранить и закрыть">
+<!ENTITY  event.toolbar.save.label2                       "Сохранить">
+<!ENTITY  event.toolbar.saveandclose.label                "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.label                      "Удалить">
 <!ENTITY  event.toolbar.attendees.label                   "Пригласить участников">
 <!ENTITY  event.toolbar.privacy.label                     "Приватность">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Сохранить и закрыть">
+<!ENTITY  event.toolbar.save.tooltip2                     "Сохранить">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.tooltip                    "Удалить">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Пригласить участников">
 <!ENTITY  event.toolbar.attachments.tooltip               "Добавить вложение">
@@ -163,6 +180,20 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Изменить приоритет">
 <!ENTITY  event.toolbar.status.tooltip                    "Изменить состояние">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Изменить время свободен/занят">
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Использовать предложение">
+<!ENTITY counter.button.proposal.accesskey                "ж">
+<!ENTITY counter.button.proposal.tooltip2                 "Поля события будут заполнены с использованием значений из встречного предложения, только сохранение с или без дополнительных изменений соответственно уведомит всех участников">
+<!ENTITY counter.button.original.label                    "Использовать оригинальные данные">
+<!ENTITY counter.button.original.accesskey                "л">
+<!ENTITY counter.button.original.tooltip2                 "Полям будут присвоены значения из исходного события, прежде чем было сделано встречное предложение">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Название:" >
@@ -381,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "Я мог бы присутствовать">
 <!ENTITY read.only.needs.action.label    "Я подтвержу позже">
 <!ENTITY read.only.reminder.label        "Напоминание:">
+<!ENTITY read.only.attachments.label     "Вложения:">
 <!ENTITY read.only.attendees.label       "Участники">
 <!ENTITY read.only.description.label     "Описание">
 <!ENTITY read.only.link.label            "Связанная ссылка">
