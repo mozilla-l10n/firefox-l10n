@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Даведка"> 
 <!ENTITY helpMenuWin.accesskey    "Д">
-
-
-
-
+<!ENTITY aboutProduct2.label      "Пра &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "П">
+<!ENTITY productHelp2.label       "Даведка &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "Д">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Клавіятурныя выклічнікі">
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "з">
 
 
-
-
-
 <!ENTITY helpTroubleshootingInfo.label      "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey  "З">
 
@@ -37,12 +34,10 @@
 <!ENTITY helpFeedbackPage.accesskey  "в">
 
 
-
 <!ENTITY preferencesCmdMac.label        "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Службы">
-
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "Схаваць іншыя">
