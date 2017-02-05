@@ -8,6 +8,7 @@
 
 
 <!ENTITY  overrideDefaultPageColors.always.label "เสมอ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "เฉพาะกับชุดตกแต่งความคมชัดสูง">
 <!ENTITY  overrideDefaultPageColors.never.label  "ไม่เลย">
 
 <!ENTITY  color                           "ตัวอักษรและพื้นหลัง">
