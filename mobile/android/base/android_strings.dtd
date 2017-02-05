@@ -541,6 +541,7 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Компактни језичци">
+<!ENTITY pref_compact_tabs_summary2 "Распореди језичке у два реда у режиму потрета">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -707,6 +708,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Притисните да примените надоградњу кад се преузимање заврши">
 <!ENTITY updater_downloading_retry2 "Притисните да поново покушате">
 
+<!ENTITY updater_apply_title3 "Надоградња за &brandShortName; је преузета">
+<!ENTITY updater_apply_select3 "Притисните да инсталирате">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
