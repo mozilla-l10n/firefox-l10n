@@ -708,6 +708,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ਡਾਊਨਲੋਡ ਹੋਣ ਦੇ ਬਾਅਦ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਛੂਹੋ">
 <!ENTITY updater_downloading_retry2 "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਛੂਹੋ">
 
+<!ENTITY updater_apply_title3 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ">
+<!ENTITY updater_apply_select3 "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਟੱਚ ਕਰੋ">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -841,6 +843,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "ਬੁੱਕਮਾਰਕ ਕੀਤਾ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ਖੋਲ੍ਹੀਆਂ">
