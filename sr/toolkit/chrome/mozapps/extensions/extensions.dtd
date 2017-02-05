@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "И">
 <!ENTITY toolsMenu.tooltip                    "Алатке за све додатке">
 
+<!ENTITY getThemes.description                "Желите да персонализујете ваш прегледач?">
+<!ENTITY getThemes.learnMore                  "Изаберите неку од хиљаду тема.">
+
 <!ENTITY cmd.back.tooltip                     "Назад за једну страну">
 <!ENTITY cmd.forward.tooltip                  "Напред за једну страну">
 
