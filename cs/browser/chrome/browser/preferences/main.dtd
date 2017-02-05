@@ -28,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Vybrat…">
 <!ENTITY chooseFolderMac.accesskey    "y">
+<!ENTITY alwaysAskWhere.label         "U každého souboru se zeptat, kam ho uložit">
+<!ENTITY alwaysAskWhere.accesskey     "k">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrolovat, zda je &brandShortName; výchozím webovým prohlížečem">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">

@@ -58,7 +58,11 @@
 <!ENTITY offlineStorage2.label           "Offline obsah a uživatelská data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Data stránek">
+<!ENTITY clearSiteData.label             "Vymazat data">
+<!ENTITY clearSiteData.accesskey         "V">
 <!ENTITY siteDataSettings.label          "Nastavení…">
+<!ENTITY siteDataSettings.accesskey      "s">
 <!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
 
 <!-- LOCALIZATION NOTE:
