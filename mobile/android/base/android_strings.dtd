@@ -855,4 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Kustuta ajaloost">
 
 <!ENTITY activity_stream_welcome_title "Tere tulemast esiletõstetute lehele">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; tõstab nüüd sinu veebis avastatud asju esile, nii et sa leiaksid kiirelt tee tagasi artiklite, videote, järjehoidjate ja muude lehtede juurde.">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; tõstab nüüd sinu veebis avastatud asju esile, et leiaksid kiirelt tee tagasi artiklite, videote, järjehoidjate ja muude lehtede juurde.">
