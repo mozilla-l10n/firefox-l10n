@@ -153,6 +153,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "Aktifkan Peta Sumber">
+<!ENTITY options.sourceMaps.tooltip    "Jika Anda mengaktifkan opsi ini, sumber akan dipetakan di Debugger dan Konsol.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -172,12 +173,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Perilaku Tangkapan Layar">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Salin tangkapan layar ke papan klip">
+<!ENTITY options.screenshot.clipboard.tooltip    "Simpan tangkapan layar langsung ke papan klip">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Bunyikan suara shutter kamera">
+<!ENTITY options.screenshot.audio.tooltip    "Aktifkan suara audio kamera saat mengambil tangkapan layar">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
