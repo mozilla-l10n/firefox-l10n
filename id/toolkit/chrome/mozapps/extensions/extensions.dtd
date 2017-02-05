@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "B">
 <!ENTITY toolsMenu.tooltip                    "Alat untuk semua pengaya">
 
+<!ENTITY getThemes.description                "Ingin mempersonalisasi peramban Anda?">
+
 <!ENTITY cmd.back.tooltip                     "Mundur satu laman">
 <!ENTITY cmd.forward.tooltip                  "Maju satu laman">
 
@@ -27,8 +29,8 @@
 <!ENTITY showAllExtensions.button.label       "Tampilkan semua ekstensi">
 <!ENTITY debugAddons.label                    "Debug Pengaya">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Semua pengaya telah dimatikan dalam mode aman.">
 <!ENTITY warning.checkcompatibility.label          "Pemeriksaan kompatibilitas pengaya telah dimatikan. Anda mungkin menggunakan pengaya yang tidak kompatibel.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktifkan">
@@ -36,14 +38,14 @@
 <!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dimatikan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktifkan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktifkan pemeriksaan keamanan pemutakhiran pengaya">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Unduh Pengaya">
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Periksa Versi Baru">
 <!ENTITY updates.checkForUpdates.accesskey    "P">
 <!ENTITY updates.viewUpdates.label            "Tampilkan Versi Baru">
@@ -71,8 +73,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Tampilkan Versi Baru yang Tersedia">
 <!ENTITY updates.updateSelected.label         "Pasang Versi Baru">
 <!ENTITY updates.updateSelected.tooltip       "Pasang versi baru yang ada pada daftar ini">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Tampilkan Informasi Lebih Lanjut">
 <!ENTITY cmd.showDetails.accesskey            "i">
 <!ENTITY cmd.findUpdates.label                "Temukan Versi Baru">
@@ -115,15 +117,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Tampilkan catatan rilis versi baru ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sembunyikan Catatan Rilis">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sembunyikan catatan rilis versi baru ini">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Apa itu Pengaya?">
 <!ENTITY discover.description2                "Pengaya adalah aplikasi dapat Anda tambahkan pada &brandShortName; untuk menambahkan fungsionalitas atau tampilan ekstra yang berbeda. Coba gunakan bilah samping hemat waktu, pemberi kabar cuaca, atau tema yang sama sekali berbeda untuk &brandShortName; Anda.">
 <!ENTITY discover.footer                      "Jika Anda tersambung ke Internet, panel ini akan menampilkan pengaya unggulan dan populer yang dapat Anda coba.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
 <!ENTITY detail.lastupdated.label             "Terakhir Diperbarui">
 <!ENTITY detail.creator.label                 "Pengembang">
@@ -152,17 +154,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Pengaturan">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Ubah pengaturan pengaya ini">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Peringkat">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tunda">
 <!ENTITY progress.cancel.tooltip              "Batalkan">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nama">
 <!ENTITY sort.name.tooltip                    "Urut berdasarkan nama">
 <!ENTITY sort.dateUpdated.label               "Terakhir Diperbarui">
@@ -215,12 +217,12 @@
 <!ENTITY eula.accept                          "Terima dan Pasang…">
 
 <!ENTITY settings.path.button.label           "Jelajahi…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Apa ini sebenarnya? Fitur Telemetri mungkin memasang dan menjalankan eksperimen dari waktu ke waktu.">
 <!ENTITY experiment.info.learnmore "Pelajari lebih lanjut">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -243,3 +245,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end " kami.">
+
+<!ENTITY pluginDeprecation.description "Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh &brandShortName;.">
