@@ -90,11 +90,13 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-
+<!ENTITY options.disableHTTPCache.tooltip   "Buni yoqib qo‘ysangiz, u asboblar paneli ochiq bo‘lgan barcha ichki oynalar uchun HTTP keshni o‘chirib qo‘yadi. Service Workers ta’minotiga ta’sir qilmaydi.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "Service Workers ta’minotini sinash xususiyatlarini yoqib qo‘yadi (asboblar paneli ochiq bo‘lganda)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Asboblar paneli bo‘lgan barcha ichki oynalar uchun HTTP ustida service workers ta’minotni yoqib qo‘yadi.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
