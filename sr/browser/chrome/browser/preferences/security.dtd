@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "Опште">
 
+<!ENTITY  warnOnAddonInstall.label        "Упозори ме ако сајтови пробају да инсталирају додатке">
+<!ENTITY  warnOnAddonInstall.accesskey    "У">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "Блокирај опасна преузимања">
 <!ENTITY  blockDownloads.accesskey        "п">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "Упозори ме о нежељеном и ретко коришћеном софтверу">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "р">
 
 <!ENTITY  addonExceptions.label         "Изузеци">
 <!ENTITY  addonExceptions.accesskey     "И">
