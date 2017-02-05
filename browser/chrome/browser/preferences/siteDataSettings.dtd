@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Поставке - подаци сајта">
+<!ENTITY     settings.description          "Веб сајт је затражио да складишти податке на диску. Можете да одредите који веб сајтови могу да складиште податке. Подразумевани подаци сајта су привремени и могу да се бришу аутоматски.">
+<!ENTITY     hostCol.label                 "Веб сајт">
+<!ENTITY     statusCol.label               "Статус">
+<!ENTITY     usageCol.label                "Складиште">
+<!ENTITY     search.label                  "Претражи:">
+<!ENTITY     search.accesskey              "П">
