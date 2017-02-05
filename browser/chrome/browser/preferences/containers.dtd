@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Додај нови контејнер">
 <!ENTITY addButton.accesskey  "Д">
+<!ENTITY preferencesButton.label "Поставке">
+<!ENTITY removeButton.label   "Уклони">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Назад на приватност">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Име:">
 <!ENTITY name.accesskey       "И">
+<!ENTITY name.placeholder     "Унесите име контејнера">
 <!ENTITY icon.label           "Иконица:">
 <!ENTITY icon.accesskey       "к">
 <!ENTITY color.label          "Боја:">
