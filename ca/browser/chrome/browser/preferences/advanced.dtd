@@ -59,8 +59,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
+<!ENTITY siteDataSettings.label          "Paràmetres…">
+<!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteDataLearnMoreLink.label     "Més informació">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
