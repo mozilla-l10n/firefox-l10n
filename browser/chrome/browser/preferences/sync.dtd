@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Синхронизуј">
 <!ENTITY engine.bookmarks.label     "Забелешке">
 <!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label2         "Отвори језичке">
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историјат">
 <!ENTITY engine.history.accesskey   "И">
