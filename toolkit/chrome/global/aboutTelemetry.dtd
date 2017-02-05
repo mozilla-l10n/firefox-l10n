@@ -52,13 +52,22 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Utas Macet">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Stack Terekam">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalar
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Skalar Berdasar Kunci">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogram Berdasar Kunci">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Acara">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Sederhana">
 
