@@ -774,6 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Otevřít vše v panelech">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "p">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
