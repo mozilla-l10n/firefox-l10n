@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Већ је забележен">
 <!ENTITY overlay_share_send_other "Пошаљи другом уређају">
 
+<!ENTITY overlay_share_open_browser_btn_label "Отвори у &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Историја претраге">
 <!ENTITY pref_import_options "Поставке увоза">
 <!ENTITY pref_import_android_summary "Увезите забелешке и историју са нативног прегледача">
+<!ENTITY pref_private_data_openTabs "Отвори језичке">
 <!ENTITY pref_private_data_history2 "Историја прегледа">
 <!ENTITY pref_private_data_searchHistory "Историја претраге">
 <!ENTITY pref_private_data_formdata2 "Историја форми">
@@ -538,6 +540,7 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Компактни језичци">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
