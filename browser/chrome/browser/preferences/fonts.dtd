@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Patkové">
 <!ENTITY  useDefaultFontSansSerif.label           "Bezpatkové">
 
+<!ENTITY  allowPagesToUseOwn.label                "Povolit stránkám používat vlastní písma namísto výše zvolených">
+<!ENTITY  allowPagesToUseOwn.accesskey            "s">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Znaková sada textu pro původní obsah">
 <!ENTITY languages.customize.Fallback2.label      "Výchozí znaková sada:">
