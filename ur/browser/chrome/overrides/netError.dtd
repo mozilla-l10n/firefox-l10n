@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> سے نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر <span id='wrongSystemTime_systemDate'/>، پر سیٹ ہے جبکے اسے <span id='wrongSystemTime_actualDate'/> پر ہونا چاہیے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; سے <span id='wrongSystemTimeWithoutReference_URL'/> نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر<span id='wrongSystemTimeWithoutReference_systemDate'/>، پر سیٹ ہے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
 
 <!ENTITY certerror.pagetitle1  "غیر مھفوظ کنکشن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP سخت ٹرانسپورٹ سیکورٹی (HSTS) کہ &brandShortName; کی وضاحت کرنے کی استعمال کرتا ہے؛ صرف محفوظ طریقے سے اس سے رابطہ قائم کر سکتا ہے۔ نتیجے کے طور پر، اسے اس کی سند کے لئے ایک رعایت شامل کرنے کے لئے ممکن نہیں ہے۔">
