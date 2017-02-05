@@ -21,6 +21,7 @@
 <!ENTITY toolsMenu.tooltip                    "Alat untuk semua pengaya">
 
 <!ENTITY getThemes.description                "Ingin mempersonalisasi peramban Anda?">
+<!ENTITY getThemes.learnMore                  "Pilih dari ribuan tema.">
 
 <!ENTITY cmd.back.tooltip                     "Mundur satu laman">
 <!ENTITY cmd.forward.tooltip                  "Maju satu laman">
@@ -247,3 +248,4 @@
 <!ENTITY disabledUnsigned.devInfo.end " kami.">
 
 <!ENTITY pluginDeprecation.description "Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Pelajari Lebih Lanjut.">
