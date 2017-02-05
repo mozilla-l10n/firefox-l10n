@@ -31,7 +31,7 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
-<!ENTITY options.collapseAttrs.label "Teasc aitreabúid DOM">
+<!ENTITY options.collapseAttrs.label "Teasc aitreabúidí DOM">
 <!ENTITY options.collapseAttrs.tooltip "Teasc aitreabúid fhada sa scrúdaitheoir">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Láimhseáil Seatanna den Scáileán">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Cóipeáil sa ghearrthaisce">
+<!ENTITY options.screenshot.clipboard.tooltip    "Sábhálfar seat den scáileán go díreach sa ghearrthaisce">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Seinn fuaim an chomhla">
+<!ENTITY options.screenshot.audio.tooltip    "Cumasaíonn seo fuaim cheamara agus seat den scáileán á thógáil">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

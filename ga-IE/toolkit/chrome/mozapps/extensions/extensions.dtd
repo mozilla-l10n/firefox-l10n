@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "S">
 <!ENTITY toolsMenu.tooltip                    "Uirlisí le haghaidh gach breiseán">
 
-
+<!ENTITY getThemes.description                "Ar mhaith leat cuma phearsanta a chur ar do bhrabhsálaí?">
+<!ENTITY getThemes.learnMore                  "Is leatsa an rogha as na mílte téama atá ar fáil.">
 
 <!ENTITY cmd.back.tooltip                     "Leathanach amháin siar">
 <!ENTITY cmd.forward.tooltip                  "Leathanach amháin ar aghaidh">
