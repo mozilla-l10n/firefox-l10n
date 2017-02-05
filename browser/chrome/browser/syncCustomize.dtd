@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "M">
 <!ENTITY engine.history.label             "Riwayat">
 <!ENTITY engine.history.accesskey         "R">
+<!ENTITY engine.tabs.label2               "Buka Tab">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Sandi">
 <!ENTITY engine.passwords.accesskey       "S">
