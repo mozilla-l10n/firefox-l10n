@@ -15,20 +15,20 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
 
-<!ENTITY appmenu.tooltip                     "Адчыніць меню">
+<!ENTITY appmenu.tooltip                     "Адкрыць меню">
 <!ENTITY navbarOverflow.label                "Іншыя прылады…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Абнавіць устаўку">
+<!ENTITY  reloadTab.label                    "Абнавіць картку">
 <!ENTITY  reloadTab.accesskey                "А">
 <!ENTITY  reloadAllTabs.label                "Перачытаць усе карткі">
 <!ENTITY  reloadAllTabs.accesskey            "Ф">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Зачыніць устаўкі справа">
+<!ENTITY  closeTabsToTheEnd.label            "Зачыніць карткі справа">
 <!ENTITY  closeTabsToTheEnd.accesskey        "с">
-<!ENTITY  closeOtherTabs.label               "Зачыніць іншыя ўстаўкі">
+<!ENTITY  closeOtherTabs.label               "Закрыць іншыя карткі">
 <!ENTITY  closeOtherTabs.accesskey           "З">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -36,9 +36,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Прышпіліць устаўку">
+<!ENTITY  pinTab.label                       "Прышпіліць картку">
 <!ENTITY  pinTab.accesskey                   "ш">
-<!ENTITY  unpinTab.label                     "Адшпіліць устаўку">
+<!ENTITY  unpinTab.label                     "Адшпіліць картку">
 <!ENTITY  unpinTab.accesskey                 "А">
 <!ENTITY  sendTabToDevice.label              "Даслаць картку на прыладу">
 <!ENTITY  sendTabToDevice.accesskey          "В">
@@ -85,13 +85,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Адзінкі паліцы прыладаў закладак">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Перачытаць усе карткі">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Ф">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закладкі на ўсе карткі…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Е">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Адкаціць закрыццё карткі">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Г">
 
-<!ENTITY pageSourceCmd.label "Зыходнік старонкі">
+<!ENTITY pageSourceCmd.label "Зыходны код старонкі">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Звесткі пра старонку">
 <!ENTITY pageInfoCmd.accesskey "З">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Адлюстраваць картку">
+<!ENTITY mirrorTabCmd.accesskey "ь">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "На поўны экран">
@@ -103,15 +111,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Паказаць усе ўстаўкі">
 <!ENTITY showAllTabsCmd.accesskey "у">
+<!ENTITY toggleReaderMode.key "К">
 
 <!ENTITY fxaSignIn.label "Увайсці ў &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Адкрыць налады &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Перазлучыцца з &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Пацвердзіце свой уліковы запіс">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
 <!ENTITY fullScreenClose.tooltip "Зачыніць">
-<!ENTITY fullScreenAutohide.label "Схаваць прыладапаліцы">
+<!ENTITY fullScreenAutohide.label "Схаваць паліцы начыння">
 <!ENTITY fullScreenAutohide.accesskey "х">
 <!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
 <!ENTITY fullScreenExit.accesskey "В">
@@ -122,10 +133,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "цяпер поўнаэкранны">
+<!ENTITY fullscreenWarning.generic.label "Гэты дакумент цяпер поўнаэкранны">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Выйсці з поўнаэкраннага рэжыму (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Выйсці з поўнаэкраннага рэжыму (esc)">
 <!ENTITY leaveDOMFullScreen.label "Закрыць поўны экран">
 <!ENTITY leaveDOMFullScreen.accesskey "З">
 
@@ -135,20 +150,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.">
+<!ENTITY pointerlockWarning.generic.label "Гэты дакумент кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.">
 
-<!ENTITY closeWindow.label "Зачыніць акно">
+<!ENTITY closeWindow.label "Закрыць акно">
 <!ENTITY closeWindow.accesskey "ч">
 
 <!ENTITY bookmarksMenu.label "Закладкі">
 <!ENTITY bookmarksMenu.accesskey "З">
-<!ENTITY bookmarkThisPageCmd.label "Дадаць закладку да старонкі">
+<!ENTITY bookmarkThisPageCmd.label "Дадаць закладку на старонку">
 <!ENTITY editThisBookmarkCmd.label "Правіць гэтую закладку">
+<!ENTITY bookmarkThisPageCmd.commandkey "в">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Шукаць больш сэрвісаў супольнага захоўвання…">
 <!ENTITY sharePageCmd.label "Падзяліцца старонкай">
+<!ENTITY sharePageCmd.commandkey "Ы">
 <!ENTITY sharePageCmd.accesskey "с">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Падзяліцца гэтай спасылкай">
+<!ENTITY shareLink.accesskey "р">
+<!ENTITY shareImage.label "Падзяліцца гэтай выявай">
+<!ENTITY shareImage.accesskey "к">
+<!ENTITY shareSelect.label "Падзяліцца вылучэннем">
+<!ENTITY shareSelect.accesskey "к">
+<!ENTITY shareVideo.label "Падзяліцца гэтым відэа">
+<!ENTITY shareVideo.accesskey "к">
+<!ENTITY feedsMenu2.label "Падпісацца на гэту старонку">
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
