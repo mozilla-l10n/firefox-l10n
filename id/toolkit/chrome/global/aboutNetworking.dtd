@@ -33,6 +33,10 @@
 <!ENTITY aboutNetworking.logTutorial           "Lihat <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Pencatatan HTTP </a> untuk instruksi menggunakan alat ini.">
 <!ENTITY aboutNetworking.currentLogFile        "Berkas Log Terkini:">
 <!ENTITY aboutNetworking.currentLogModules     "Modul Log Terkini:">
+<!ENTITY aboutNetworking.setLogFile            "Atur Berkas Log">
+<!ENTITY aboutNetworking.setLogModules         "Atur Modul Log">
+<!ENTITY aboutNetworking.startLogging          "Mulai Pencatatan">
+<!ENTITY aboutNetworking.stopLogging           "Hentikan Pencatatan">
 <!ENTITY aboutNetworking.dnsLookup             "Pencarian DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Selesaikan">
 <!ENTITY aboutNetworking.dnsDomain             "Domain">
