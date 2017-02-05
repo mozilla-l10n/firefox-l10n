@@ -194,8 +194,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Gå en side tilbage">
 <!ENTITY forwardCmd.label             "Fremad">
 <!ENTITY forwardButton.tooltip        "Gå en side fremad">
-<!ENTITY backForwardButtonMenu.tooltip "Højreklik eller træk ned for at vise historik">
-<!ENTITY backForwardButtonMenuMac.tooltip "Træk ned for at vise historik">
+<!ENTITY backForwardButtonMenu.tooltip "Højreklik eller klik og hold nede for at vise historik">
+<!ENTITY backForwardButtonMenuMac.tooltip "Klik og hold nede for at vise historik">
 <!ENTITY reloadCmd.label              "Genindlæs">
 <!ENTITY reloadButton.tooltip         "Genindlæs nuværende side">
 <!ENTITY stopCmd.label                "Stop">
@@ -668,14 +668,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Rediger indstillinger for blokering af pop op-vinduer for dette websted">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "T">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop op-vinduer…">
-<!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY editPopupSettings.accesskey "R">
+<!ENTITY dontShowMessage.accesskey "V">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Skift sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

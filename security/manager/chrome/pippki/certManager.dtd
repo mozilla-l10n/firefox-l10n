@@ -72,7 +72,7 @@
 <!ENTITY certmgr.details.label                "Certifikatfelter">
 <!ENTITY certmgr.details.accesskey            "f">
 <!ENTITY certmgr.fields.label                 "Feltværdi">
-<!ENTITY certmgr.fields.accesskey             "e">
+<!ENTITY certmgr.fields.accesskey             "v">
 <!ENTITY certmgr.hierarchy.label              "Certifikathierarki">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Tilføj undtagelse…">
