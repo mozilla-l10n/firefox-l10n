@@ -6,6 +6,7 @@
 
 <!ENTITY startupPage.label         "Al aniciase &brandShortName;:">
 <!ENTITY startupPage.accesskey     "i">
+<!ENTITY startupUserHomePage.label "Amosar la to páxina d'aniciu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina balera">
 
 <!ENTITY homepage.label            "Páxina d'aniciu:">
