@@ -29,6 +29,7 @@
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
 <!ENTITY alwaysAskWhere.label         "Tanyakan selalu tempat menyimpan berkas">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Selalu periksa apakah &brandShortName; adalah peramban baku Anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
