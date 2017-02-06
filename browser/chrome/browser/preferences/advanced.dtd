@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām">
 <!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchOnStartTyping.label       "Meklēt rakstīto tekstu, kolīdz es sāku rakstīt">
+<!ENTITY searchOnStartTyping.accesskey   "m">
+<!ENTITY blockAutoReload.label           "Brīdināt mani, ja mājas lapa mēģina pārlādēties vai pārsūtīt mani uz citu lapu">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Parādīt pieskārienu klaviatūru, kad nepieciešams">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
 <!ENTITY allowHWAccel.accesskey          "j">
+<!ENTITY checkUserSpelling.label         "Rakstot pārbaudīt pareizrakstību">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Datu izvēle">
 
@@ -52,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Nesaistes tīmekļa saturs un lietotāja dati">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Lapas dati">
+<!ENTITY clearSiteData.label             "Izdzēst visus datus">
+<!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteDataSettings.label          "Iestatījumi...">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Uzzināt vairāk">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Atjaunināt">
 
+<!ENTITY updateApplication.label         "&brandShortName; atjauninājumi">
 <!ENTITY updateAuto1.label               "Instalēt atjauninājumus automātiski (ieteicams: uzlabo drošību)">
 <!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheckChoose.label         "Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos">
+<!ENTITY updateCheckChoose.accesskey     "P">
 <!ENTITY updateManual.label              "Nepārbaudīt atjauninājumu pieejamību (nav ieteicams: drošības risks)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,6 +97,7 @@
 <!ENTITY useService.label                "Instalēt atjauninājumus fonā">
 <!ENTITY useService.accesskey            "f">
 
+<!ENTITY autoUpdateOthers.label          "Atjaunināt automātiski">
 <!ENTITY enableSearchUpdate.label        "Meklētājus">
 <!ENTITY enableSearchUpdate.accesskey    "l">
 
