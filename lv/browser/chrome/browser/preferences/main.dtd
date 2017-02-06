@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Kad &brandShortName; tiek palaista:">
 <!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupUserHomePage.label "Rādīt mājas lapu">
 <!ENTITY startupBlankPage.label    "Parādīt tukšu lapu">
+<!ENTITY startupPrevSession.label  "Parādīt manus logus un cilnes no iepriekšējās reizes">
 
 <!ENTITY homepage.label            "Mājas lapa:">
 <!ENTITY homepage.accesskey        "M">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Izvēlieties...">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Vienmēr jautāt man, kur saglabāt failus">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Vienmēr pārbaudīt vai &brandShortName; ir noklusētais pārlūks">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
