@@ -16,7 +16,7 @@
 <!ENTITY addressbookPicker.accesskey        "к">
 <!ENTITY searchContacts.label               "Претражи контакте:">
 <!ENTITY searchContacts.accesskey           "н">
-<!ENTITY SearchNameOrEmail.label            "Име или е-адреса">
+<!ENTITY SearchNameOrEmail.label            "Име или мејл">
 
 <!ENTITY addtoToFieldMenu.label             "Додај у Прима поље">
 <!ENTITY addtoToFieldMenu.accesskey         "а">

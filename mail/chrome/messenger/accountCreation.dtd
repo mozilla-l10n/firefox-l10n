@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Презиме">
 <!ENTITY name.text                       "Име које ће бити приказано другима">
-<!ENTITY email.label                     "Адреса е-поште:">
+<!ENTITY email.label                     "Мејл адреса:">
 <!ENTITY email.accesskey                 "Е">
 <!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Лозинка:">

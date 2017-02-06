@@ -38,7 +38,7 @@
 
 <!ENTITY PrimaryEmail.label             "Е-пошта:">
 <!ENTITY PrimaryEmail.accesskey         "Е">
-<!ENTITY SecondEmail.label              "Додатна е-пошта:">
+<!ENTITY SecondEmail.label              "Додатни мејл:">
 <!ENTITY SecondEmail.accesskey          "а">
 <!ENTITY PreferMailFormat.label         "Жели да прима поруке форматиране као:">
 <!ENTITY PreferMailFormat.accesskey     "ф">
@@ -123,6 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -130,6 +131,7 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ИБ:">

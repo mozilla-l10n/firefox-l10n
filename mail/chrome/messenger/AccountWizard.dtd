@@ -29,11 +29,11 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(на пример, &quot;John Smith&quot;).">
+<!ENTITY fullnameExample.label "(на пример, „Петар Перић“).">
 <!ENTITY fullnameLabel.label "Ваше име:">
 <!ENTITY fullnameLabel.accesskey "В">
 
-<!ENTITY emailLabel.label "Е-пошта:">
+<!ENTITY emailLabel.label "Мејл адреса:">
 <!ENTITY emailLabel.accesskey "Е">
 
 <!-- Entities for Incoming Server page -->
