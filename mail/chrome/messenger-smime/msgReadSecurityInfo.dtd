@@ -10,5 +10,5 @@
 
 <!ENTITY signer.name "Потписао/ла:">
 <!ENTITY recipient.name "Шифровано за:">
-<!ENTITY email.address "Е-адреса:">
+<!ENTITY email.address "Мејл адреса:">
 <!ENTITY issuer.name "Сертификат издат од:">

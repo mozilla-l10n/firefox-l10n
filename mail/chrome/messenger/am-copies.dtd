@@ -11,11 +11,11 @@
 <!ENTITY fccReplyFollowsParent.label "Смести одговоре у фасциклу где се налази порука на коју се одговара">
 <!ENTITY fccReplyFollowsParent.accesskey "С">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Коп ове е-адресе:">
+<!ENTITY ccAddress.label "Коп ове мејлове:">
 <!ENTITY ccAddress.accesskey "К">
 <!ENTITY ccAddressList.placeholder "Раздвојите адресе запетама">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "сКоп ове е-адресе:">
+<!ENTITY bccAddress.label "сКоп ове мејлове:">
 <!ENTITY bccAddress.accesskey "с">
 <!ENTITY bccAddressList.placeholder "Раздвојите адресе запетама">
 <!ENTITY saveMessageDlg.label "Прикажи дијалог потврђивања приликом чувања порука">

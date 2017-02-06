@@ -5,8 +5,8 @@
 <!ENTITY window.title "Добродошли у &brandShortName;">
 <!ENTITY header2.label "Да ли желите нову електронску адресу?">
 <!ENTITY other.languages "Приказујемо вам само провајдере који пружају адресе у вашој области.  Кликните овде да бисте видели све провајдере.">
-<!ENTITY error.line1 "Нажалост, нисмо могли наћи ниједну од предложених е-адреса.">
-<!ENTITY error.line2 "Можете пробати да потражите надимке или неки други појам да бисте нашли више е-адреса.">
+<!ENTITY error.line1 "Нажалост, нисмо могли наћи ниједну од предложених мејл адреса.">
+<!ENTITY error.line2 "Можете пробати да потражите надимке или неки други појам да бисте нашли више мејлова.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
@@ -25,7 +25,7 @@
 <!ENTITY partnership.description "У сарадњи са неколико провајдера, &brandShortName; вам може понудити нову електронску адресу. Само унесите ваше име и презиме, или неку другу реч коју желите, у поља изнад да бисмо почели прављење налога.">
 <!ENTITY existing.header "Да ли већ имате адресу коју желите да користите?">
 <!ENTITY tinyheader.title "Имате већ адресу?">
-<!ENTITY tinyheader.existing "Прескочи ово и искористи моју постојећу е-адресу">
+<!ENTITY tinyheader.existing "Прескочи ово и искористи моју постојећу мејл адресу">
 <!ENTITY content.close "Мислим да ћу подесити мој налог касније.">
 <!ENTITY successful.title "Честитамо!">
 <!ENTITY successful.successMessage "Успешно сте подесили свој налог.">
@@ -33,7 +33,7 @@
 <!ENTITY successful.write.desc "Нека ваши пријатељи и породица сазнају за вашу нову адресу.<br/> Зато сте и направили овај нови налог, зар не?">
 <!ENTITY successful.customize "Прилагодите &brandShortName; уз неке моћне додатке">
 <!ENTITY successful.customize.desc "Постоје хиљаде додатака који вам омогућавају да прилагодите &brandShortName; тако да одговара вашим специфичним потребама.">
-<!ENTITY successful.attach "Закачи лични потпис на моју е-адресу">
+<!ENTITY successful.attach "Закачи лични потпис на моју мејл адресу">
 <!ENTITY successful.attach.desc "Можете аутоматски качити цитат или неке податке о себи на крај сваке поруке коју пошаљете.">
 <!ENTITY successful.close "Затвори овај прозор.">
 <!ENTITY input.namePlaceholder "Ваше име, или надимак">
