@@ -669,7 +669,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Yeny &formatS1; pi &formatS2;">
 
 <!ENTITY searchable_description "Alama buk ki lok mukato angec">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Ngec manyen tye pi &brandShortName;">
 <!ENTITY updater_start_select2 "Gudi me gamo">
 
 <!ENTITY updater_downloading_title2 "Golo &brandShortName;">
@@ -677,6 +679,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Gud wek ket ngec ka dong gikwanyo oko">
 <!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
 
+<!ENTITY updater_apply_title3 "Kigamo ngec manyen pi &brandShortName;">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -792,6 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; tye kakare">
 
 
+<!ENTITY promotion_add_to_homescreen "Med i kio me gang">
 
 
 <!ENTITY helper_first_offline_bookmark_button "Cit i alamabuk">
