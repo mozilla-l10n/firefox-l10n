@@ -193,7 +193,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "з">
 <!ENTITY NickName.label                                 "Надимак">
 <!ENTITY NickName.accesskey                             "и">
-<!ENTITY SecondEmail.label                              "Додатна е-пошта">
+<!ENTITY SecondEmail.label                              "Додатни мејл">
 <!ENTITY SecondEmail.accesskey                          "р">
 <!ENTITY Department.label                               "Одељење">
 <!ENTITY Department.accesskey                           "д">

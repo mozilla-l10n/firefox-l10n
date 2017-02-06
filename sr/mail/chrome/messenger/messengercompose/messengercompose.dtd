@@ -227,7 +227,7 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Шаље:">
-<!ENTITY fromAddr.accesskey "e">
+<!ENTITY fromAddr.accesskey "а">
 <!ENTITY toAddr.label "Прима:">
 <!ENTITY ccAddr.label "Коп:">
 <!ENTITY bccAddr.label "сКоп:">
