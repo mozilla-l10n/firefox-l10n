@@ -706,6 +706,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "יש לגעת כדי להחיל את השינויים לאחר ההורדה">
 <!ENTITY updater_downloading_retry2 "נא לגעת כדי לנסות שוב">
 
+<!ENTITY updater_apply_title3 "הורדת העדכון עבור &brandShortName; הושלמה">
+<!ENTITY updater_apply_select3 "יש להקיש להתקנה">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
