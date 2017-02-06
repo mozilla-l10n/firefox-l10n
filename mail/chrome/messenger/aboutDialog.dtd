@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "&brandFullName;">
+<!ENTITY aboutDialog.title          "Informazioni su &brandFullName;">
 
 
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
