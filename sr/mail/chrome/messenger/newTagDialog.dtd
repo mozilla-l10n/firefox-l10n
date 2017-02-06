@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Направи нову ознаку">
+<!ENTITY newTagDialog1.title     "Нова ознака">
 <!ENTITY name.label              "Име ознаке:">
 <!ENTITY name.accesskey          "з">

@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Ништа">
 <!ENTITY editDirectories.label                 "Уреди фасцикле…">
 <!ENTITY editDirectories.accesskey             "У">
+<!ENTITY showAsDefault.label                   "Подразумевана почетна фасцикла у прозору именика:">
+<!ENTITY showAsDefault.accesskey               "з">
+<!ENTITY showAsDefaultLast.label               "Последње коришћена фасцикла">
 
 <!ENTITY sendOptionsDescription.label          "Подеси понашање форматирања текста">
 <!ENTITY sendOptions.label                     "Опције слања…">

@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Ознаке се могу користити за сврставање и приоритизацију ваших порука.">
-<!ENTITY addTagButton.label        "Додај">
-<!ENTITY addTagButton.accesskey    "Д">
-<!ENTITY editTagButton.label       "Уреди">
-<!ENTITY editTagButton.accesskey   "У">
+<!ENTITY newTagButton.label        "Нова…">
+<!ENTITY newTagButton.accesskey    "Н">
+<!ENTITY editTagButton1.label      "Уреди…">
+<!ENTITY editTagButton1.accesskey  "е">
 <!ENTITY removeTagButton.label     "Обриши">
 <!ENTITY removeTagButton.accesskey "О">
 
