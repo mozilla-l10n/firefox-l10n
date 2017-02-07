@@ -730,7 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Rukuca">
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
-
+<!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
