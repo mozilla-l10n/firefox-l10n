@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Hozzáadás a könyvjelzőkhöz">
 
 <!ENTITY activity_stream_topsites "Népszerű oldalak">
-<!ENTITY activity_stream_highlights "Fontosak">
+<!ENTITY activity_stream_highlights "Kiemelések">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 
@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Bezárás">
 <!ENTITY activity_stream_delete_history "Előzményekből törlés">
 
-
+<!ENTITY activity_stream_welcome_title "Üdvözöljük a Kiemeléseknél">
+<!ENTITY activity_stream_welcome_content1 "A &brandShortName; kiemeléseket készít a weben felfedezett tartalmakról, így könnyedén visszatalálhat a remek cikkekhez, videókhoz, könyvjelzőkhöz és más oldalakhoz.">
