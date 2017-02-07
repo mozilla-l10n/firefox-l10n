@@ -6,13 +6,17 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
 <!ENTITY closeCmd.key  "W">
+<!ENTITY toggleToolbox.key  "I">
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Памылка адкрыцця стужкі прылад браўзера:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
-<!ENTITY options.context.advancedSettings "Пашыраныя наладжванні">
+<!ENTITY options.context.advancedSettings "Дадатковыя настаўленні">
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
@@ -21,15 +25,19 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Паказаць стылі браўзера">
+<!ENTITY options.showUserAgentStyles.tooltip "Калі ўключана, будзе паказваць прадвызначаныя стылі, загружаныя браўзерам.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
+<!ENTITY options.collapseAttrs.label "Абсякаць атрыбуты DOM">
+<!ENTITY options.collapseAttrs.tooltip "Абсякаць доўгія атрыбуты ў інспектары">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "Змоўная адзінка колераў">
+<!ENTITY options.defaultColorUnit.label "Прадвызначаная адзінка колеру">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -38,6 +46,7 @@
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Як падпісана">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -59,20 +68,25 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "* Толькі для цяперашняй сэсіі, перазагружае старонку">
+<!ENTITY options.context.triggersPageRefresh  "* Толькі для бягучага сеанса, перазагружае старонку">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "Уключыць панэлі прылад для адладкі выгляду і дадаткаў браўзера">
+<!ENTITY options.enableChrome.tooltip3  "Калі ўключана, дазваляе выкарыстоўваць розныя прылады распрацоўшчыка ў кантэксце браўзера (праз Прылады > Вэб-распрацоўка > Прылады браўзера) і адладжваць дадаткі з Кіраўніка дадаткаў">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Дазволіць адлеглую наладку">
+<!ENTITY options.enableRemote.label3    "Уключыць аддаленую адладку">
+<!ENTITY options.enableRemote.tooltip2  "Калі ўключана, дазваляе прыладам распрацоўшчыка адладжваць аддаленыя экзэмпляры, такія як Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableWorkers.label    "Уключыць адладку воркераў (у распрацоўцы)">
+<!ENTITY options.enableWorkers.tooltip  "Калі ўключана, дазваляе прыладам распрацоўшчыка адладжваць воркеры">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -83,6 +97,7 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Выключыць кэш HTTP (калі панэль прылад адкрыта)">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
