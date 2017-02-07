@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
-
-
-
-
+<!ENTITY     settings.description          "پایگاه اینترنتی مقابل از شما برای ذخیره سازی اطلاعات بر روی دیسک سوال می‌کند. شما می توانید تعیین کنید چه پایگاه اینترنتی دقیقا اجازه ذخیره سازی اطلاعات دارد. اطلاعات پایگاه‌های اینترنتی پیش فرض موقتی می باشد و به صورت خودکار حذف می شود. ">
+<!ENTITY     hostCol.label                 "پایگاه اینترنتی">
+<!ENTITY     statusCol.label               "وضعیت">
+<!ENTITY     usageCol.label                "فضای ذخیره سازی">
+<!ENTITY     search.label                  "جستجو:‌">
+<!ENTITY     search.accesskey              "ج">
