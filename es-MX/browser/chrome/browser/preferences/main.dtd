@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Elegir…">
 <!ENTITY chooseFolderMac.accesskey    "E">
-<!ENTITY alwaysAskWhere.label         "Siempre pregunta dónde guardar los documentos">
+<!ENTITY alwaysAskWhere.label         "Siempre preguntarme dónde guardar archivos">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Siempre revisar si &brandShortName; es tu navegador predeterminado">
