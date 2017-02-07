@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "ن">
 <!ENTITY engine.history.label             "تاریخچه">
 <!ENTITY engine.history.accesskey         "ت">
-
-
+<!ENTITY engine.tabs.label2               "زبانه‌های باز">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "گذرواژه‌ها">
 <!ENTITY engine.passwords.accesskey       "گ">
 <!ENTITY engine.addons.label              "افزونه های نسخه دسکتاپ">
