@@ -30,7 +30,8 @@
 <!ENTITY generic.title "متأسفیم.">
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
-
+<!ENTITY captivePortal.title "ورود به شبکه">
+<!ENTITY captivePortal.longDesc "<p>ممکن است این شبکه برای اتصال به اینترنت نیاز به ورود داشته باشد.</p>">
 
 <!ENTITY openPortalLoginPage.label "باز کردن صفحه ورود">
 

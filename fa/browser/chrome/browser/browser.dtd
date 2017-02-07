@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "باز کردن پیوند در زبانه حامل جدید">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "رونوشت">
 <!ENTITY syncedTabs.context.copy.accesskey                   "ر">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "باز کردن همه زبانه‌ها">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ب">
 
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
