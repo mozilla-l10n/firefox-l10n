@@ -602,6 +602,9 @@
 
 <!ENTITY folderContextGetMessages.label "Pobierz wiadomości">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextPauseAllUpdates.label "Wstrzymaj wszystkie aktualizacje">
+<!ENTITY folderContextPauseUpdates.label "Wstrzymaj aktualizacje">
+<!ENTITY folderContextPauseUpdates.accesskey "s">
 <!ENTITY folderContextOpenInNewWindow.label "Otwórz w nowym oknie">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otwórz w nowej karcie">
