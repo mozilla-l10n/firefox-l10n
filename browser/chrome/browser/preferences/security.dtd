@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "احجب التنزيلات الخطيرة">
 <!ENTITY  blockDownloads.accesskey        "ت">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "حذرني من البرمجيات غير المرغوب فيهل و غير الشائعة">
+<!ENTITY  blockUncommonAndUnwanted.label     "حذرني من البرمجيات غير المرغوب فيها و غير الشائعة">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "غ">
 
 <!ENTITY  addonExceptions.label         "الاستثناءات…">
