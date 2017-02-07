@@ -43,7 +43,7 @@
 <!ENTITY autoSave.accesskey                   "А">
 <!ENTITY autoSaveEnd.label                    "минута">
 
-<!ENTITY emailCollectionPicker.label           "Аутоматски додај одлазне електронске адресе у моје:">
+<!ENTITY emailCollectionPicker.label           "Аутоматски додај одлазне мејл адресе у моје:">
 <!ENTITY emailCollectionPicker.accesskey       "А">
 <!ENTITY addressingTitle.label                 "Самодовршавање адреса">
 <!ENTITY autocompleteText.label                "Приликом адресирања порука, тражи одговарајуће уносе у:">

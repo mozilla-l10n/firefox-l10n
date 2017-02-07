@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Непожељно">
-<!ENTITY itemPhishing.label      "Електронске преваре">
+<!ENTITY itemPhishing.label      "Поштанске преваре">
 <!ENTITY itemPasswords.label     "Лозинке">
 <!ENTITY itemAntiVirus.label     "Антивирус">
 
@@ -26,7 +26,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; може да проучава поруке тако да тражи оне поруке које садрже честе технике којима се преваранти служе да би вас преварили.">
-<!ENTITY enablePhishingDetector1.label    "Кажи ми ако порука коју читам делује као електронска превара">
+<!ENTITY enablePhishingDetector1.label    "Кажи ми ако порука коју читам делује као поштанска превара">
 <!ENTITY enablePhishingDetector1.accesskey  "К">
 <!ENTITY useDownloadedList.label "Користи преузети списак сумњивих порука">
 <!ENTITY useDownloadedList.accesskey "и">
