@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Баптаулар - Сайт деректері">
 <!ENTITY     settings.description          "Келесі вебсайттар сізден сайт деректерін дискіңізде сақтауды сұраған. Сіз қай вебсайттарға сайт деректерін сақтауға рұқсат етілгенін көрсете аласыз. Үнсіз келісім бойынша сайт деректері уақытша және автоматты түрде өшірілуі мүмкін.">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Қалып-күйі">

@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; қосылу кезінде:">
 <!ENTITY startupPage.accesskey     "ы">
-
+<!ENTITY startupUserHomePage.label "Үй парағыңызды көрсету">
 <!ENTITY startupBlankPage.label    "Таза парақты көрсету">
-
+<!ENTITY startupPrevSession.label  "Алдында ашылған терезелер мен беттерді көрсету">
 
 <!ENTITY homepage.label            "Үй парағы:">
 <!ENTITY homepage.accesskey        "й">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ш">
 <!ENTITY chooseFolderMac.label        "Таңдау…">
 <!ENTITY chooseFolderMac.accesskey    "Т">
-
-
+<!ENTITY alwaysAskWhere.label         "Файлдар сақталатын жері туралы әрқашан сұрау">
+<!ENTITY alwaysAskWhere.accesskey     "ж">
 
 <!ENTITY alwaysCheckDefault2.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
 <!ENTITY alwaysCheckDefault2.accesskey    "н">

@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "т">
 <!ENTITY engine.history.label             "Тарих">
 <!ENTITY engine.history.accesskey         "и">
-
-
+<!ENTITY engine.tabs.label2               "Ашық беттер">
+<!ENTITY engine.tabs.accesskey            "т">
 <!ENTITY engine.passwords.label           "Парольдер">
 <!ENTITY engine.passwords.accesskey       "П">
 <!ENTITY engine.addons.label              "Жұмыс үстел нұсқасының қосымшалары">
