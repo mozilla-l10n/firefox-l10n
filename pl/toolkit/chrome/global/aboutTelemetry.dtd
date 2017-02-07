@@ -64,9 +64,8 @@
   UWAGA: Debugowanie powolnych poleceń SQL jest włączone. Pełne ciągi SQL mogą być widoczne poniżej, ale nie
   zostaną przesłane do Telemetrii.
 ">
-
-<!ENTITY aboutTelemetry.fetchSymbols "Pobierz nazwy funkcji dla stosów">
-<!ENTITY aboutTelemetry.hideSymbols "Wyświetl nieprzetworzone dane dla stosów">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Pobierz nazwy funkcji dla stosów">
+<!ENTITY aboutTelemetry.hideStackSymbols "Wyświetl nieprzetworzone dane dla stosów">
 <!ENTITY aboutTelemetry.filterText "Filtruj (tekst lub /regexp/)">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Zawartość">
 <!ENTITY aboutTelemetry.rawPayload "Nieprzetworzona zawartość">
