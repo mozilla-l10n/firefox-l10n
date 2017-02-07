@@ -29,7 +29,7 @@ sentence. -->
 <!ENTITY  completeNotification.label          "са именом пошиљаоца и прегледом поруке">
 <!ENTITY  buddyInfoOnly.label                 "само са именом пошиљаоца">
 <!ENTITY  dummyNotification.label             "без било каквог податка">
-<!ENTITY  chatSound.accesskey                 "г">
+<!ENTITY  chatSound.accesskey                 "т">
 <!ENTITY  chatSound.label                     "Пусти звук">
 <!ENTITY  play.label                          "Пусти">
 <!ENTITY  play.accesskey                      "П">
