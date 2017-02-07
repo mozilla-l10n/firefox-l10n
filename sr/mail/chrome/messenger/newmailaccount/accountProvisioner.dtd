@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Добродошли у &brandShortName;">
-<!ENTITY header2.label "Да ли желите нову електронску адресу?">
+<!ENTITY header2.label "Да ли желите нову мејл адресу?">
 <!ENTITY other.languages "Приказујемо вам само провајдере који пружају адресе у вашој области.  Кликните овде да бисте видели све провајдере.">
 <!ENTITY error.line1 "Нажалост, нисмо могли наћи ниједну од предложених мејл адреса.">
 <!ENTITY error.line2 "Можете пробати да потражите надимке или неки други појам да бисте нашли више мејлова.">
@@ -13,16 +13,16 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 <!ENTITY error.suggest.before "Такође, можете пробати један од ">
-<!ENTITY error.suggest.middle "алтернативних бесплатних електронских налога">
+<!ENTITY error.suggest.middle "алтернативних бесплатних мејл налога">
 <!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Здраво ">
-<!ENTITY success.title.after ", следеће електронске адресе су вам доступне:">
-<!ENTITY success.tip "(Такође, можете потражити надимке или неки други појам да бисте нашли више електронских адреса)">
-<!ENTITY partnership.description "У сарадњи са неколико провајдера, &brandShortName; вам може понудити нову електронску адресу. Само унесите ваше име и презиме, или неку другу реч коју желите, у поља изнад да бисмо почели прављење налога.">
+<!ENTITY success.title.after ", следеће мејл адресе су вам доступне:">
+<!ENTITY success.tip "(Такође, можете потражити надимке или неки други појам да бисте нашли више мејл адреса)">
+<!ENTITY partnership.description "У сарадњи са неколико провајдера, &brandShortName; вам може понудити нову мејл адресу. Само унесите ваше име и презиме, или неку другу реч коју желите, у поља изнад да бисмо почели прављење налога.">
 <!ENTITY existing.header "Да ли већ имате адресу коју желите да користите?">
 <!ENTITY tinyheader.title "Имате већ адресу?">
 <!ENTITY tinyheader.existing "Прескочи ово и искористи моју постојећу мејл адресу">
