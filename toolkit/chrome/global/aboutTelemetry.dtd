@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Ағын тоқталуы">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Түсірілген стектер">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Скалярлы шамалар">
 
