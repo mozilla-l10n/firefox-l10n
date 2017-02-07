@@ -18,12 +18,12 @@
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
 
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "اصل وقت کی ریکارڈنگ کے اعداد و شمار غیر کثیر عمل فائر فاکس پر غیر فعال کر دیا.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "اصل وقت کی ریکارڈنگ کے اعداد و شمار غیر کثیر عمل Firefox پر غیر فعال کر دیا۔">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
 
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "فائرفاکس میں ترجیحات میں عمل کثیر کو اہل بنائیں تاکہ کوائف کے ریکارڈ کو اصل وقت میں رینڈر کریں۔">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Firefox میں ترجیحات میں عمل کثیر کو اہل بنائیں تاکہ کوائف کے ریکارڈ کو اصل وقت میں رینڈر کریں۔">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
