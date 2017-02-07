@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "ت">
 <!ENTITY toolsMenu.tooltip                    "تمام ایڈ اون کے لیے ٹول">
 
+<!ENTITY getThemes.description                "اپنے براؤزر کو مشخص کرنا چاہ رہے ہیں؟">
 <!ENTITY getThemes.learnMore                  "ہزاروں خیالیہ سے انتخاب کریں۔">
 
 <!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
