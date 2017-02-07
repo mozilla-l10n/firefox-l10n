@@ -711,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "لتنزيل الملفات و التحديثات، اسمح ل‍&brandShortName; بالوصول إلى مساحة التخزين.">
+<!ENTITY updater_permission_text "لتنزيل الملفات و التحديثات، اسمح ل‍ &brandShortName; بالوصول إلى مساحة التخزين.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "اسمح">
 <!-- Guest mode -->    
