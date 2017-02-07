@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "در مرور صفحات همیشه از مکان‌نما استفاده شود">
 <!ENTITY useCursorNavigation.accesskey   "ص">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود">
+<!ENTITY searchOnStartTyping.accesskey   "ج">
+<!ENTITY blockAutoReload.label           "هنگامی که پایگاه‌های اینترنتی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار داده شود">
+<!ENTITY blockAutoReload.accesskey       "ا">
 <!ENTITY useOnScreenKeyboard.label       "نمایش یک صفحه‌کلید لمسی در صورت لزوم">
 <!ENTITY useOnScreenKeyboard.accesskey   "ص">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "غ">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
-
-
+<!ENTITY checkUserSpelling.label         "بررسی املاءهمزمان با نوشتن">
+<!ENTITY checkUserSpelling.accesskey     "ن">
 
 <!ENTITY dataChoicesTab.label            "انتخاب داده‌ها">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "محتوا وب و اطلاعات کاربر به صورت برون‌خط">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "اطلاعات پایگاه اینترنتی">
+<!ENTITY clearSiteData.label             "پاک کردن همه داده‌ها">
+<!ENTITY clearSiteData.accesskey         "پ">
+<!ENTITY siteDataSettings.label          "تنظیمات…">
+<!ENTITY siteDataSettings.accesskey      "ت">
+<!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "بروزرسانی">
 
+<!ENTITY updateApplication.label         "بروزرسانی‌های &brandShortName;:">
 <!ENTITY updateAuto1.label               "نصب خودکار بروزرسانی‌ها (توصیه می‌شود: بهبود امنیت)">
 <!ENTITY updateAuto1.accesskey           "ن">
-
-
+<!ENTITY updateCheckChoose.label         "بررسی برای بروزرسانی، اما به من اجازه بده اینکه نصب شوند یا خیر را انتخاب کنم">
+<!ENTITY updateCheckChoose.accesskey     "ب">
 <!ENTITY updateManual.label              "هرگز بروزرسانی‌ها بررسی نشوند (توصیه نمی‌شود: خطر امنیتی)">
 <!ENTITY updateManual.accesskey          "ه">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود">
 <!ENTITY useService.accesskey            "پ">
 
+<!ENTITY autoUpdateOthers.label          "بروزرسانی خودکار">
 <!ENTITY enableSearchUpdate.label        "موتورهای جست‌وجو">
 <!ENTITY enableSearchUpdate.accesskey    "م">
 
-
+<!ENTITY offlineStorageNotify.label               "هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند به من اطلاع بده">
+<!ENTITY offlineStorageNotify.accesskey           "ه">
 <!ENTITY offlineStorageNotifyExceptions.label     "استثناها…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "گواهینامه‌ها">
 <!ENTITY certPersonal.label              "درخواست‌ها">
-
+<!ENTITY certPersonal.description        "هنگامی که کارگزاری گواهی شخصی من را درخواست می‌کند:">
 <!ENTITY selectCerts.auto                "انتخاب‌ یکی به صورت خودکار">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "هر بار پرسیده شود">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "پرس‌وجو از کارگزار پاسخگوی OCSP جهت تصدیق اعتبار فعلی گواهینامه">
 <!ENTITY enableOCSP.accesskey            "پ">
 <!ENTITY viewCerts.label                 "نمایش‌ گواهینامه‌ها">
