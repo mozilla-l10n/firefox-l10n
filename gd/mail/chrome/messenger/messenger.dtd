@@ -108,8 +108,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Teachdaireachdan le rionnag">
 <!ENTITY selectFlaggedCmd.accesskey "T">
-<!ENTITY menuFavoriteFolder.label "Am pasgan as fhearr">
-<!ENTITY menuFavoriteFolder.accesskey "A">
+<!ENTITY menuFavoriteFolder.label "Cuir am pasgan ris na h-annsachdan">
+<!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd2.label "Roghainnean">
 <!ENTITY folderPropsFolderCmd2.label "Roghainnean a' phasgain">
 <!ENTITY folderPropsNewsgroupCmd2.label "Roghainnean a' bhuidhinn-naidheachd">
@@ -664,8 +664,8 @@
 <!ENTITY folderContextSearchForMessages.accesskey "L">
 <!ENTITY folderContextProperties2.label "Roghainnean">
 <!ENTITY folderContextProperties2.accesskey "R">
-<!ENTITY folderContextFavoriteFolder.label "Am pasgan as fhearr">
-<!ENTITY folderContextFavoriteFolder.accesskey "A">
+<!ENTITY folderContextFavoriteFolder.label "Cuir am pasgan ris na h-annsachdan">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Roghainnean">
 <!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
