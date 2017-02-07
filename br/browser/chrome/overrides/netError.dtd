@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTime_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTime_systemDate'/> eo war hoc'h urzhiataer padel e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit diskoulmañ ar gudenn-mañ, kemmit ho teiziad evit ma vefe d'an eur reizh.</p>">
+
 
 <!ENTITY certerror.pagetitle1  "Kennask arvarus">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">
