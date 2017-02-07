@@ -98,25 +98,29 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Выключыць кэш HTTP (калі панэль прылад адкрыта)">
+<!ENTITY options.disableHTTPCache.tooltip   "Калі ўключана, забараняе кэш HTTP для ўсіх картак, на якіх адкрыта панэль прылад. Гэты параметр не дзейнічае на воркеры сэрвісу.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Уключыць воркеры сэрвісу праз HTTP (калі панэль прылад адкрыта)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Калі ўключана, дазваляе воркеры сервісу праз HTTP для ўсіх картак, на якіх адкрыта панэль прылад.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Прадвызначаныя прылады распрацоўшчыка">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Прылады распрацаўніка, усталяваныя дадаткамі">
+<!ENTITY options.selectAdditionalTools.label  "Прылады распрацоўшчыка, усталяваныя дадаткамі">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-<!ENTITY options.selectEnabledToolboxButtons.label     "Даступныя кнопкі скрынкі прыладаў">
+<!ENTITY options.selectEnabledToolboxButtons.label     "Даступныя кнопкі панэлі прылад">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
@@ -126,9 +130,12 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+<!ENTITY options.selectDevToolsTheme.label2   "Тэмы">
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Выкарыстоўваць тэму браўзера ў версіі распрацоўшчыка">
+<!ENTITY options.usedeveditiontheme.tooltip "Пераключае тэму браўзера ў версіі распрацоўшчыка.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -141,14 +148,17 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Адладчык">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "Уключыць мапы зыходнага коду">
+<!ENTITY options.sourceMaps.tooltip    "Калі ўключана, зыходныя коды будуць супастаўлены ў Адладчыку і Кансолі.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "Праўнік стыляў">
+<!ENTITY options.styleeditor.label            "Рэдактар стыляў">
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
@@ -163,28 +173,35 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Паводзіны здымкаў экрану">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Здымак у буфер абмену">
+<!ENTITY options.screenshot.clipboard.tooltip    "Запісвае здымак экрану наўпрост у буфер абмену">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Прайграваць гук затвора камеры">
+<!ENTITY options.screenshot.audio.tooltip    "Уключае гук затвора камеры, калі робіцца здымак экрана">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
-<!ENTITY options.commonPrefs.label           "Угульныя перавагі">
+<!ENTITY options.commonPrefs.label           "Агульныя перавагі">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogs.label    "Уключыць пастаянныя журналы">
+<!ENTITY options.enablePersistentLogs.tooltip  "Калі ўключана, кансоль сеціва і манітор сеткі не будуць ачышчацца кожны раз, калі вы пераходзіце да новай старонкі">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Паказаць здаткі платформы Gecko">
+<!ENTITY options.showPlatformData.label    "Паказаць звесткі платформы Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Калі вы дазволіце гэтае наладжванне, справаздачы прафіляўніка JavaScript будуць уключаць сімвалы платформы Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
