@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "لائسنس معلومات">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "فائر فاکس اور فائر فاکس کی لوگو موزیلا فاونڈینشن کے تجارتی نشان ہیں۔">
+<!ENTITY aboutPage.logoTrademark                "Firefox اور Firefox کی لوگو Mozilla فاونڈینشن کے تجارتی نشان ہیں۔">

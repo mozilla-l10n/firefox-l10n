@@ -167,7 +167,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "فائر فاکس اکاؤنٹ سے جُڑے ہوئے کوئی آلات نہیں ملے">
+<!ENTITY overlay_no_synced_devices "Firefox اکاؤنٹ سے جُڑے ہوئے کوئی آلات نہیں ملے">
 
 <!ENTITY pref_category_search3 "تلاش کریں">
 <!ENTITY pref_category_search_summary2 "اضافہ کریں،سیٹ طےشدہ، تجویز دکھائیں">
