@@ -3,5 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Iestatījumi - Lapas dati">
+<!ENTITY     settings.description          "Zemāk norādītās mājas lapas ir lūgušas iespēju saglabāt datus jūsu datorā. Jūs varat izvēlēties, kurām lapām ļaut saglabāt datus jūsu datorā. Noklusētie lapas dati ir pagaidu un var tikt automātiski izdzēsti.">
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
+<!ENTITY     usageCol.label                "Krātuve">
+<!ENTITY     search.label                  "Meklēt:">
+<!ENTITY     search.accesskey              "M">

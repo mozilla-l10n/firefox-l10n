@@ -8,8 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Vērt jaunus logus jaunās cilnēs">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Brīdināt, pirms aizvērt vairākas cilnes">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "Kad es atveru saiti jaunā cilnē, pārslēgties uz šo cilni">
+<!ENTITY switchLinksToNewTabs.accesskey    "c">
 
 <!ENTITY showTabsInTaskbar.label          "Rādīt cilņu bildītes Windows palodzē">
 <!ENTITY showTabsInTaskbar.accesskey      "R">
