@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "Vēsturi">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "Atvērtās cilnes">
 <!ENTITY engine.tabs.accesskey            "C">
 <!ENTITY engine.passwords.label           "Paroles">
 <!ENTITY engine.passwords.accesskey       "P">
