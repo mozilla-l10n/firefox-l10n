@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; نمی‌تواند به<span id='wrongSystemTime_URL'/>متصل شود زیر ساعت کامپیوتر شما زمان اشتباهی را نمایش می‌دهد و این مانع ارتباط امن است.</p><p>کامپیوتر شما تنظیم شده است برای <span id='wrongSystemTime_systemDate'/> وقتی باید<span id='wrongSystemTime_actualDate'/>برای حل این مشکل،‌ تنظیمات زمان و تاریخ خود را به زمان درست تنظیم کنید</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; نمی‌تواند به <span id='wrongSystemTimeWithoutReference_URL'/> متصل شود زیرا ساعت رایانه شما زمان اشتباهی را نمایش می‌دهد و این موضوع مانع ایجاد یک ارتباط امن می‌شود</p><p>رایانه شما بر روی <span id='wrongSystemTimeWithoutReference_systemDate'/>تنظیم شده است. برای تنظیم این مشکل زمان و تاریخ خود به زمان درست تنظیم کنید.</p>">
 
 <!ENTITY certerror.pagetitle1  "ارتباط نا امن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این پایگاه از HTTP Strict Transport Security (HSTS) برای نشان دادن اینکه &brandShortName; تنها می‌تواند بصورت امن به آن متصل شود، استفاده می‌کند. در نتیجه، امکان اضافه کردن استثنا برای این گواهی‌نامه وجود ندارد.">
