@@ -116,6 +116,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; nepieslēdzās <span id='wrongSystemTime_URL'/>, jo jūsu datora pulkstenis šķietami rāda nepareizu laiku un tas liedz izveidot drošu savienojumu.</p><p>Jūsu datora pulksteņa laiks ir <span id='wrongSystemTime_systemDate'/>, taču tam vajadzētu būt <span id='wrongSystemTime_actualDate'/>. Lai novērstu šo problēmu iestatiet datorā korektu laiku.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nepieslēdzās <span id='wrongSystemTimeWithoutReference_URL'/>, jo jūsu datora pulkstenis šķietami rāda nepareizu laiku un tas liedz izveidot drošu savienojumu.</p><p>Jūsu datora pulksteņa laiks ir <span id='wrongSystemTimeWithoutReference_systemDate'/>. Lai novērstu šo problēmu iestatiet datorā korektu laiku.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nedrošs savienojums">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Šī lapa izmanto HTTP Strict Transport Security (HSTS), lai norādītu, ka &brandShortName; pieslēdzas tai tikai drošā režīmā. Šī iemesla dēļ, nav iespējams pievienot sertifikāta izņēmumu šai lapai.">
