@@ -12,7 +12,7 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Ingatkan bahwa ketika membuka banyak tab mungkin akan memperlambat &brandShortName;">
-<!ENTITY warnOnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOnOpenManyTabs.accesskey   "l">
 
 <!ENTITY switchLinksToNewTabs.label        "Saat membuka tautan di sebuah tab baru, langsung pindah ke tab tersebut">
 <!ENTITY switchLinksToNewTabs.accesskey    "h">

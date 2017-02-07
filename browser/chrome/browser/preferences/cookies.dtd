@@ -29,7 +29,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Cari">
-<!ENTITY     searchFilter.accesskey         "S">
+<!ENTITY     searchFilter.accesskey         "C">
 
 <!ENTITY     button.close.label             "Tutup">
 <!ENTITY     button.close.accesskey         "T">
