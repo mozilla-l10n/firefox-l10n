@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  فروپاشی‌های Threadها">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  پشته گرفته شده">
 
 <!ENTITY aboutTelemetry.scalarsSection "  عددی">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  نمودارهای هیستوگرام کوک شده">
 
+<!ENTITY aboutTelemetry.eventsSection "  رویدادها">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  اندازه‌گیری‌های ساده">
 
