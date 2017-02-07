@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> сайтына байланыспады, өйткені сіздің компьютеріңіздің сағаты қате уақытты көрсетіп тұрған сияқты, оның нәтижесінде қауіпсіз байланысты орнату мүмкін емес.</p> <p>Компьютеріңіздің уақыты <span id='wrongSystemTime_systemDate'/> болып, нақты уақыты <span id='wrongSystemTime_actualDate'/> болуы тиіс. Бұл мәселені шешу үшін, нақты уақытқа сай келетін компьютеріңізде күн және уақытты орнатыңыз.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> сайтына байланыспады, өйткені сіздің компьютеріңіздің сағаты қате уақытты көрсетіп тұрған сияқты, оның нәтижесінде қауіпсіз байланысты орнату мүмкін емес.</p> <p>Компьютеріңіздің уақыты <span id='wrongSystemTimeWithoutReference_systemDate'/>. Бұл мәселені шешу үшін, нақты уақытқа сай келетін компьютеріңізде күн және уақытты орнатыңыз.</p>">
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу алатынын көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
