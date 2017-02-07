@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "ن">
 <!ENTITY toolsMenu.tooltip                    "ابزارهای مخصوص همهٔ افزودنی‌ها">
 
-
+<!ENTITY getThemes.description                "مایلید مرورگر خود را شخصی سازی کنید؟">
+<!ENTITY getThemes.learnMore                  "از بین هزاران زمینه انتخاب کنید">
 
 <!ENTITY cmd.back.tooltip                     "برگشتن به یک صفحه قبل">
 <!ENTITY cmd.forward.tooltip                  "جلو رفتن به یک صفحه بعد">
@@ -246,4 +247,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "کتابچۀ راهنما">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
+<!ENTITY pluginDeprecation.description "چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط&brandShortName; پشتیبانی نمی‌شود.">
+<!ENTITY pluginDeprecation.learnMore "بیشتر بدانید.">

@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "اطلاعات بیشتر...">
 
-
+<!ENTITY defaultButton.label "باشه!">
+<!ENTITY defaultButton.accesskey "ب">
