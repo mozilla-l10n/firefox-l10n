@@ -207,3 +207,15 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.label                     "Настаўленні рэдактара">
+<!ENTITY options.sourceeditor.detectindentation.label   "Вызначаць водступы">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Вызначаць водступы па зыходнаму змесціву">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Аўта-закрыванне дужак">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Аўтаматычна ўстаўляць парныя дужкі">
+<!ENTITY options.sourceeditor.expandtab.label           "Водступы прабеламі">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Выкарыстоўваць прабелы замест сімвалаў табуляцыі">
+<!ENTITY options.sourceeditor.tabsize.label             "Шырыня табуляцыі">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "т">
+<!ENTITY options.sourceeditor.keybinding.label          "Клавіятурныя скароты">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "л">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Прадвызначана">
