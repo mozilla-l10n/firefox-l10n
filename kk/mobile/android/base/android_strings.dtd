@@ -852,4 +852,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Тарихтан өшіру">
 
 <!ENTITY activity_stream_welcome_title "Басты сайттарға қош келдіңіз">
-
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; енді сіз интернеттен тапқан нәрселердің ең қызықтыларын көрсетеді, оның көмегімен сіз пайдалы мақалалар, видеолар, бетбелгілер және т.б. парақтарға орала аласыз.">
