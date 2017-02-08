@@ -22,6 +22,7 @@
 <!ENTITY newevent.status.tentative.accesskey      "м" >
 <!ENTITY newevent.status.confirmed.label          "Потврђено" >
 <!ENTITY newevent.status.confirmed.accesskey      "в" >
+<!ENTITY newevent.status.needsaction.label        "Потребна радња" >
 <!ENTITY newevent.status.inprogress.label         "У поступку" >
 <!ENTITY newevent.status.completed.label          "Завршено у" >
 
@@ -37,22 +38,56 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Појединачна позивница по полазнику">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "л">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Ова опција шаље једну позивницу по полазнику. Свака позивница садржи само адресу полазника тако да идентитети других полазника нису одати.">
+<!ENTITY event.attendees.disallowcounter.label       "Онемогући контрирање">
+<!ENTITY event.attendees.disallowcounter.accesskey   "а">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Показује да нећете прихватати контра-предлоге">
 
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "Ново">
+<!ENTITY  event.menu.item.new.accesskey                   "Н">
+<!ENTITY  event.menu.item.new.event.label                 "Догађај">
+<!ENTITY  event.menu.item.new.event.accesskey             "г">
+<!ENTITY  event.menu.item.new.task.label                  "Задатак">
+<!ENTITY  event.menu.item.new.task.accesskey              "т">
+<!ENTITY  event.menu.item.new.message.label               "Порука">
+<!ENTITY  event.menu.item.new.message.accesskey           "к">
+<!ENTITY  event.menu.item.new.contact.label               "Контакт у именику">
+<!ENTITY  event.menu.item.new.contact.accesskey           "н">
+<!ENTITY  event.menu.item.close.label                     "Затвори">
+<!ENTITY  event.menu.item.close.accesskey                 "З">
 
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.save.label                      "Сачувај">
+<!ENTITY  event.menu.item.save.accesskey                  "С">
+<!ENTITY  event.menu.item.save.tab.accesskey              "а">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.saveandclose.label              "Сачувај и затвори">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "и">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "у">
 
 
 
