@@ -5,7 +5,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "ການຕິດຕັ້ງຊັອບແວ">
-<!ENTITY dialog.style            "ກ້ວາງ: 45 em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "ຕິດຕັ້ງ add-on ຈາກຜູ້ສ້າງ add-on ທີ່ທ່ານເຊື່ອໃຈເທົ່ານັ້ນ.">
 <!ENTITY warningSecondary.label  "Malicious ຊັອບແວສາມາດທຳລາຍຄອມພິວເຕີ ຫລື ຄວາມເປັນສ່ວນຕົວຂອງທ່ານໄດ້.">
 

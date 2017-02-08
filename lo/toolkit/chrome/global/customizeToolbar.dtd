@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "ປັບແຕ່ງແຖບເຄື່ອງມື">
-<!ENTITY dialog.dimensions        "ກວ້າງ: 92 ch; ສູງ: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "ທ່ານສາມາດເພີ່ມ ຫລື ລົບລາຍການຕ່າງໆໄດ້ໂດຍການລາກລາຍການນັ້ນເຂົ້າໄປ ຫລື ອອກຈາກແຖບເຄື່ອງມື.">
 <!ENTITY show.label               "ສະແດງ:">
 <!ENTITY iconsAndText.label       "ໄອຄອນ ແລະ ຂໍ້ຄວາມ">
