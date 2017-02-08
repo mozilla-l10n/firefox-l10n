@@ -30,6 +30,10 @@
 <!ENTITY cmd.removeFile.label "Elimina file">
 <!ENTITY cmd.chooseUnblock.label "Elimina file o consenti download">
 <!ENTITY cmd.chooseOpen.label "Apri o elimina file">
+<!ENTITY showMoreInformation.label "Visualizza ulteriori informazioni">
+<!ENTITY openFile.label "Apri file">
+<!ENTITY retryDownload.label "Riprova download">
+<!ENTITY cancelDownload.label "Annulla download">
 <!ENTITY blocked.label "BLOCCATO">
 <!ENTITY learnMore.label "Ulteriori informazioni">
 <!ENTITY downloadsHistory.label "Visualizza tutti i download">
