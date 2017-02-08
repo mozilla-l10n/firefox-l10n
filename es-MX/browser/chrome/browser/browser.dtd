@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Regresar una página">
 <!ENTITY forwardCmd.label             "Siguiente">
 <!ENTITY forwardButton.tooltip        "Avanzar una página">
-<!ENTITY backForwardButtonMenu.tooltip "Clic secundario o arrastrar para mostrar el historial">
+<!ENTITY backForwardButtonMenu.tooltip "Hacer clic secundario o arrastrar para mostrar el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastrar para mostrar el historial">
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
@@ -792,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puedes activar Servicios Compartidos desde el directorio.">
 <!ENTITY social.directory.button "¡Llévame allí!">
-<!ENTITY social.directory.introText "Clic en un servicio para añadirlo a &brandShortName;.">
+<!ENTITY social.directory.introText "Haz clic en un servicio para añadirlo a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver más">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y características adicionales">
