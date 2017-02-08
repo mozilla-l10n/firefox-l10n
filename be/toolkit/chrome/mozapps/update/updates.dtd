@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  updateWizard.title              "Абнаўленне праграмнага забеспячэння">
+<!ENTITY  updateWizard.title              "Абнаўленне праграм">
 
 <!ENTITY  checking.title                  "Праверка абнаўленняў">
 <!ENTITY  updateCheck.label               "Шукаюцца навейшыя версіі &brandShortName;…">
@@ -49,7 +49,10 @@
 <!ENTITY  finishedBackground.name         "Абнаўленне:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Абнаўленне будзе ўсталявана наступным разам, пры запуску &brandShortName;. Вы можаце перазапусціць &brandShortName; зараз ці працягнуць працаваць і перазапусціць яго пазней.">
-
+<!ENTITY  finishedBackground.moreElevated "Для гэтага абнаўлення неабходны правы адміністратара. 
+                                           Абнаўленне будзе ўсталявана падчас наступнага запуску &brandShortName;.
+                                           Вы можаце перазапусціць &brandShortName; зараз, працягнуць працу і
+                                           перазапусціць яго пазней, або адмовіцца ад гэтага абнаўлення.">
 
 <!ENTITY  update.details.label            "Падрабязнасці">
 <!ENTITY  update.installedOn.label        "Усталявана ў:">
