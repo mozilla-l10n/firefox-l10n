@@ -97,7 +97,7 @@
 <!ENTITY netReset.title "Reanicióse la conexón">
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, vuelvi a intentalo.</p>">
 
-<!ENTITY netTimeout.title "Escosóse'l tiempu de conexón">
+<!ENTITY netTimeout.title "Escosó'l tiempu de conexón">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">

@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "Llingüetes remotes disponibles:">
 <!ENTITY availableProcesses "Procesos remotos disponibles:">
 <!ENTITY connectionError "Fallu:">
-<!ENTITY errorTimeout "Fallu: escosóse'l tiempu de conexón.">
+<!ENTITY errorTimeout "Fallu: escosó'l tiempu de conexón.">
 <!ENTITY errorRefused "Fallu: refugóse la conexón.">
 <!ENTITY errorUnexpected "Fallu inesperáu.">
 
