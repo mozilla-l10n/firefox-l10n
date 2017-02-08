@@ -8,7 +8,7 @@
 <!ENTITY  language.accesskey                      "Ш">
 
 <!ENTITY  size.label                              "Големина:">
-<!ENTITY  sizeProportional.accesskey              "Р">
+<!ENTITY  sizeProportional.accesskey              "Г">
 <!ENTITY  sizeMonospace.accesskey                 "а">
 
 <!ENTITY  proportional.label                      "Пропорционален:">
@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Серифен">
 <!ENTITY  useDefaultFontSansSerif.label           "Безсерифен">
 
+<!ENTITY  allowPagesToUseOwn.label                "Страниците могат да избират собствен шрифт вместо избраните по-горе">
+<!ENTITY  allowPagesToUseOwn.accesskey            "м">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на остаряло съдържание">
 <!ENTITY languages.customize.Fallback2.label      "Резервно кодиране:">
