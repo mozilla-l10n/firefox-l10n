@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "Al iniciar &brandShortName;:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupUserHomePage.label "Muestra tu página de inicio">
+<!ENTITY startupUserHomePage.label "Mostrar tu página de inicio">
 <!ENTITY startupBlankPage.label    "Mostrar una página vacía">
 <!ENTITY startupPrevSession.label  "Muestra las ventanas y pestañas de tu última visita">
 
