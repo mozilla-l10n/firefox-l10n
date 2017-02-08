@@ -59,9 +59,9 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
-
-
-
+<!ENTITY siteDataSettings.label          "সেটিং">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +81,11 @@
 
 <!ENTITY updateTab.label                 "হালনাগাদ">
 
+<!ENTITY updateApplication.label         "&brandShortName; হালনাগাদ:">
 <!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "হালনাগাদকরণ যাচাই করুন, কিন্তু ইনস্টলের পূর্বে আপনাকে জানাবে">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,10 +95,12 @@
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "স্বয়ংক্রিয়ভাবে হালনাগাদ">
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ইঞ্জিন E">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-
+<!ENTITY offlineStorageNotify.label               "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট তথ্য সংরক্ষণের চেষ্টা করলে আপনাকে জানাবে">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -113,7 +116,7 @@
 <!ENTITY selectCerts.auto                "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 
 
-
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "সার্টিফিকেট দেখুন V">
