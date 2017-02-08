@@ -21,7 +21,7 @@
 <!ENTITY tabCrashed.requestHelpMessage "பிரச்சனைகளைக் கண்டறிந்து &brandShortName; ஐ மேம்படுத்த சிதைவறிக்கைகள் எங்களுக்கு உதவுகிறது.">
 <!ENTITY tabCrashed.requestReport "இந்தக் கீற்று குறித்து புகாரளி">
 <!ENTITY tabCrashed.sendReport2 "நீங்கள் பார்த்துகொண்டிருக்கும் கீற்றின் சிதைவு அறிக்கையை அனுப்பவும்">
-
+<!ENTITY tabCrashed.commentPlaceholder2 "விருப்புரிமை கருத்துகள் (அனைவரும் காண முடியும்)">
 <!ENTITY tabCrashed.includeURL2 "இச்சிதைவறிக்கையுடன் பக்கத்தின் URL இனைச் சேர்">
 <!ENTITY tabCrashed.emailPlaceholder "மின்னஞ்சல் முகவரியை உள்ளிடவும்">
 <!ENTITY tabCrashed.emailMe "கூடுதல் தகவல் கிடைக்கும்பொழுது எனக்கு மின்னஞ்சல் செய்யவும்">
