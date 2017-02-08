@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_start_select2 "المس لبدء التنزيل">
 
-<!ENTITY updater_downloading_title2 "تنزيل &brandShortName;">
+<!ENTITY updater_downloading_title2 "ينزّل &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "فشل التنزيل">
 <!ENTITY updater_downloading_select2 "المس لتطبيق التحديث بمجرد تنزيله">
 <!ENTITY updater_downloading_retry2 "المس لإعادة المحاولة">
