@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Szállefagyások">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Rögzített vermek">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Hisztogramok kulccsal">
 
+<!ENTITY aboutTelemetry.eventsSection "  Események">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Egyszerű mérési eszközök">
 
