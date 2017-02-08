@@ -4,7 +4,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "شما در حال حاضر در پنجره‌ی ناشناس قرار ندارید.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "یک پنجره‌ی ناشناس باز کن">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "مرور ناشناس">
 <!ENTITY privateBrowsing.title.tracking                  "مرور ناشناس با امکان محافظت در برابر ردگیری">

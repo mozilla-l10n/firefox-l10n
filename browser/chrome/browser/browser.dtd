@@ -20,16 +20,16 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
-<!ENTITY  reloadTab.accesskey                "ی">
-<!ENTITY  reloadAllTabs.label                "بازآوری همهٔ زبانه‌ها">
-<!ENTITY  reloadAllTabs.accesskey            "ه">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "بازآوری همه‌ی زبانه‌ها">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "بستن زبانه‌ها به راست">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ر">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "بستن زبانه‌های دیگر">
-<!ENTITY  closeOtherTabs.accesskey           "س">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -37,69 +37,69 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "سنجاق کردن زبانه">
-<!ENTITY  pinTab.accesskey                   "س">
+<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ارسال زبانه به دستگاه">
-<!ENTITY  sendTabToDevice.accesskey          "د">
+<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "ارسال صفحه به دستگاه">
-<!ENTITY  sendPageToDevice.accesskey         "د">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
-<!ENTITY  sendLinkToDevice.accesskey         "د">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
-<!ENTITY  moveToNewWindow.accesskey          "پ">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ز">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "برگردان بستن زبانه">
-<!ENTITY  undoCloseTab.accesskey             "ب">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "بستن زبانه">
-<!ENTITY  closeTab.accesskey                 "ب">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "فهرست کردن همهٔ زبانه‌ها">
 
 <!ENTITY tabCmd.label "زبانهٔ جدید">
-<!ENTITY tabCmd.accesskey "ز">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "بازکردن مکان…">
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
-<!ENTITY openFileCmd.accesskey "ب">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey "ت">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
-<!ENTITY printPreviewCmd.accesskey "پ">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "چاپ…">
-<!ENTITY printCmd.accesskey "چ">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "آفلاین کار کن">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "نوار منو">
-<!ENTITY menubarCmd.accesskey "م">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
-<!ENTITY personalbarCmd.accesskey "ا">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ه">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه زبانه‌ها…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ز">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگردان زبانه بسته شده">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ب">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "متن صفحه">
-<!ENTITY pageSourceCmd.accesskey "ف">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
-<!ENTITY pageInfoCmd.accesskey "ط">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "زبانه‌ی آینه">
-<!ENTITY mirrorTabCmd.accesskey "ی">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ورود به تمام‌صفحه">
@@ -107,10 +107,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "خروج از حالت تمام‌صفحه">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
-<!ENTITY fullScreenCmd.accesskey "ت">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
-<!ENTITY showAllTabsCmd.accesskey "ز">
+<!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
@@ -123,9 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
 <!ENTITY fullScreenClose.tooltip "بستن">
 <!ENTITY fullScreenAutohide.label "پنهان‌سازی نوارهای ابزار">
-<!ENTITY fullScreenAutohide.accesskey "پ">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "خروج از حالت مرور تمام‌صفحه">
-<!ENTITY fullScreenExit.accesskey "خ">
+<!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "این سند کنترل مکان‌نما شما را در دست گرفته است. برای پس گرفتن کنترل، Esc را فشار دهید.">
 
 <!ENTITY closeWindow.label "بستن پنجره">
-<!ENTITY closeWindow.accesskey "ه">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "نشانک‌ها">
 <!ENTITY bookmarksMenu.accesskey "B">
@@ -167,16 +167,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "یافتن سرویس های به اشتراک گذاری بیشتر…">
 <!ENTITY sharePageCmd.label "به‌اشتراک‌گذاری این صفحه">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "ا">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "به‌اشتراک‌گذاری این پیوند">
 <!ENTITY shareLink.accesskey "ب">
 <!ENTITY shareImage.label "به‌اشتراک‌گذاری این عکس">
-<!ENTITY shareImage.accesskey "ب">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "به‌اشتراک‌گذاری انتخاب شده">
-<!ENTITY shareSelect.accesskey "ب">
+<!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
-<!ENTITY shareVideo.accesskey "ب">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu2.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "نشانک‌‌های دیگر">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 <!ENTITY showRecentlyBookmarked.label     "نمایش اخیرا نشانک‌گذاری شده">
-<!ENTITY showRecentlyBookmarked.accesskey "ن">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "مخفی کردن نشانک‌گذاری‌های اخیر">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
@@ -260,17 +260,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ابزارها">
-<!ENTITY toolsMenu.accesskey          "ا"> 
+<!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جست‌وجو…">
-<!ENTITY keywordfield.accesskey       "ا">
+<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "بارگیری">
-<!ENTITY downloads.accesskey          "ب">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "افزودنی‌ها">
-<!ENTITY addons.accesskey             "ا">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
@@ -280,21 +280,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "فایل"> 
-<!ENTITY fileMenu.accesskey       "ف">
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "زبانه حامل جدید">
-<!ENTITY newUserContext.accesskey         "ح">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "پ">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "پنجره ناشناس جدید">
-<!ENTITY newPrivateWindow.accesskey "پ">
+<!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "پنجره جدید Non-e10s">
 
 <!ENTITY editMenu.label         "ویرایش"> 
-<!ENTITY editMenu.accesskey       "و"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "برگردان">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "گ"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "از نو">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ز"> 
