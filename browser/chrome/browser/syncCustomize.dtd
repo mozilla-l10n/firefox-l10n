@@ -6,7 +6,7 @@
 <!ENTITY syncCustomize.acceptButton.label "Пачаць">
 
 <!ENTITY syncCustomize.title              "Што вы хочаце сінхранізаваць?">
-<!ENTITY syncCustomize.description        "Вы можаце змяніць гэтыя выбары ў наладжваннях.">
+<!ENTITY syncCustomize.description        "Вы можаце змяніць гэтыя выбары ў наладах.">
 <!ENTITY syncCustomizeUnix.description    "Вы можаце змяніць гэтыя выбары ў перавагах.">
 
 <!--
@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "З">
 <!ENTITY engine.history.label             "Гісторыя">
 <!ENTITY engine.history.accesskey         "Г">
+<!ENTITY engine.tabs.label2               "Адкрытыя карткі">
 <!ENTITY engine.tabs.accesskey            "У">
 <!ENTITY engine.passwords.label           "Паролі">
 <!ENTITY engine.passwords.accesskey       "П">

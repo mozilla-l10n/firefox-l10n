@@ -4,8 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "Наладжванні злучэння">
-
-
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Наладка пасярэднікаў дзеля доступу ў Інтэрнэт">
 <!ENTITY  noProxyTypeRadio.label        "Без пасярэдніка">
@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS в5">
 <!ENTITY  socks5.accesskey              "5">
-
+<!ENTITY  socksRemoteDNS.label2         "Праксіраваць DNS-запыты пры выкарыстанні SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "д">
 <!ENTITY  port.label                    "Порт:">
 <!ENTITY  HTTPport.accesskey            "п">

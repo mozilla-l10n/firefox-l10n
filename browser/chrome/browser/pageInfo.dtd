@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Агульныя">
 <!ENTITY  generalTab.accesskey  "А">
-
+<!ENTITY  generalTitle          "Загаловак:">
 <!ENTITY  generalURL            "Адрас:">
 <!ENTITY  generalType           "Тып:">
 <!ENTITY  generalMode           "Рэжым адлюстравання:">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "Спасылальны URL:">
 <!ENTITY  generalSource         "Крыніца ў запасніку:">
 <!ENTITY  generalModified       "Зменена:">
-
+<!ENTITY  generalEncoding2      "Кадаванне тэксту:">
 <!ENTITY  generalMetaName       "Назва">
 <!ENTITY  generalMetaContent    "Змест">
 
@@ -85,3 +85,4 @@
 
 <!ENTITY  securityView.technical.header                 "Тэхнічныя падрабязнасці">
 
+<!ENTITY  helpButton.label                              "Даведка">
