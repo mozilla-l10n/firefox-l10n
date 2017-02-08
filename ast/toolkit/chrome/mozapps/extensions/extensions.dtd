@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramientes pa tolos complementos">
 
+<!ENTITY getThemes.description                "¿Tas mirando cómo personalizar el restolador?">
+<!ENTITY getThemes.learnMore                  "Escueyi ente milenta temes.">
+
 <!ENTITY cmd.back.tooltip                     "Retroceder una páxina">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una páxina">
 
