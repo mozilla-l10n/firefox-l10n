@@ -285,6 +285,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aliran Aktivitas">
+<!ENTITY pref_activity_stream_summary "Sebuah umpan balik riwayat visual yang kaya serta beranda yang dikonsep ulang untuk mempermudah Anda menemukan apa yang ingin dicari di &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
 <!ENTITY tracking_protection_prompt_text "Secara aktif memblokir elemen pelacakan sehingga Anda tidak perlu khawatir.">
@@ -527,6 +528,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Perbesar area kecil">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Memperbesar tautan dan bidang formulir ketika sekelilingnya disentuh">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -539,7 +541,7 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Ringkaskan tab">
-<!ENTITY pref_compact_tabs_summary2 "Atur tab menjadi dua kolom dalam modus potret">
+<!ENTITY pref_compact_tabs_summary2 "Atur tab menjadi dua kolom dalam mode tegak">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -595,7 +597,7 @@ size. -->
 <!ENTITY home_closed_tabs_title2 "Baru saja ditutup">
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
 <!ENTITY home_restore_all "Pulihkan semua">
-<!ENTITY home_closed_tabs_number "tab &formatD;">
+<!ENTITY home_closed_tabs_number "&formatD; tab">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
 <!ENTITY home_most_recent_empty "Situs yang sering dikunjungi terakhir akan tampil di sini.">
@@ -703,6 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Sentuh untuk menerapkan pembaruan setelah selesai diunduh">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk mencoba lagi">
 
+<!ENTITY updater_apply_title3 "Pembaruan diunduh untuk &brandShortName;">
 <!ENTITY updater_apply_select3 "Sentuh untuk memasang">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -825,9 +828,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Tambahkan ke layar beranda">
 
 <!ENTITY helper_first_offline_bookmark_title "Baca luring">
+<!ENTITY helper_first_offline_bookmark_message "Cari item Tampilan Baca Anda dalam Markah, meskipun sedang luring.">
 <!ENTITY helper_first_offline_bookmark_button "Ke Markah">
 
 <!ENTITY helper_triple_readerview_open_title "Tersedia luring">
+<!ENTITY helper_triple_readerview_open_message "Markahi Tampilan Baca item untuk membacanya secara luring.">
 <!ENTITY helper_triple_readerview_open_button "Tambahkan ke Markah">
 
 <!ENTITY activity_stream_topsites "Situs Teratas">
@@ -846,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Tutup">
 <!ENTITY activity_stream_delete_history "Hapus dari Riwayat">
 
+<!ENTITY activity_stream_welcome_title "Selamat datang di Sorotan">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; sekarang membuat sorotan dari hal-hal yang Anda temukan di web sehingga Anda dapat menemukan kembali artikel, video, markah, dan halaman lainnya.">
