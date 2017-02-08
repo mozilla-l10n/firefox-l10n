@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Нов изолатор">
 <!ENTITY addButton.accesskey  "и">
+<!ENTITY preferencesButton.label "Настройки">
+<!ENTITY removeButton.label   "Премахване">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Назад към Поверителност">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Име:">
 <!ENTITY name.accesskey       "И">
+<!ENTITY name.placeholder     "Въведете име на изолатор">
 <!ENTITY icon.label           "Пиктограма:">
 <!ENTITY icon.accesskey       "П">
 <!ENTITY color.label          "Цвят:">
