@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "নতুন উইন্ডোতে ফ্রেম খোলা হবে (W)">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "নতুন কন্টেইনার ট্যাবে লিংক খুলুন">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র এই ফ্রেমটি প্রদর্শন করা হবে (S)">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "অনুলিপি">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "ট্যাবে সব খুলুন">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "সিঙ্ক">
