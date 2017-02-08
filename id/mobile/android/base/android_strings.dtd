@@ -539,6 +539,7 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Ringkaskan tab">
+<!ENTITY pref_compact_tabs_summary2 "Atur tab menjadi dua kolom dalam modus potret">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -583,7 +584,10 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Beranda &brandShortName;">
 <!ENTITY home_history_title "Riwayat">
+<!ENTITY home_synced_devices_smartfolder "Perangkat tersinkron">
+<!ENTITY home_synced_devices_number "&formatD; perangkat">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 perangkat">
 <!ENTITY home_history_back_to2 "Kembali ke Riwayat lengkap">
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat Anda?">
@@ -591,6 +595,7 @@ size. -->
 <!ENTITY home_closed_tabs_title2 "Baru saja ditutup">
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
 <!ENTITY home_restore_all "Pulihkan semua">
+<!ENTITY home_closed_tabs_number "tab &formatD;">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
 <!ENTITY home_most_recent_empty "Situs yang sering dikunjungi terakhir akan tampil di sini.">
