@@ -8,7 +8,8 @@
 
 <!ENTITY  noupdatesfound.title            "Fann ingen oppdateringar">
 <!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringar er tilgjengelege. &brandShortName; vil sjå etter oppdateringar med jamne mellomrom.">
-<!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringar er tilgjengelege. Prøv igjen seinare, eller slå på automatisk oppdateringssøk for &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringar er tilgjengelege. Prøv igjen seinare, eller slå på
+                                           automatisk oppdateringssøk for &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Klarte ikkje å oppdatera">
 <!ENTITY  manualUpdate.desc               "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men du har ikkje tilgangsrettane som er nødvendig for å installera henne. Kontakt systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til å installera programvare på denne datamaskina.">

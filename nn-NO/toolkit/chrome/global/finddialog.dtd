@@ -11,7 +11,7 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Bryt teksten">
 <!ENTITY wrapCheckbox.accesskey "B">
-<!ENTITY findButton.label "Søk neste">
+<!ENTITY findButton.label "Søk etter neste">
 <!ENTITY findButton.accesskey "S">
 <!ENTITY cancelButton.label "Avbryt">
 <!ENTITY closeButton.label "Lukk">
