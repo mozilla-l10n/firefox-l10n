@@ -41,3 +41,6 @@
 <!ENTITY pref.systemcolors.label "Побољшај боје за већу приступачност" >
 <!ENTITY pref.systemcolors.accesskey "б">
 
+<!ENTITY pref.eventsandtasks.label "Догађаји и задаци" >
+<!ENTITY pref.editInTab.label "Уређујте задатке и догађаје у језичку, уместо у прозорчићу." >
+<!ENTITY pref.editInTab.accesskey "з">
