@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "További tudnivalók…">
 
-
+<!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.accesskey "O">
