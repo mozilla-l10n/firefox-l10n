@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "বুকমার্ক করা আছে">
 <!ENTITY overlay_share_send_other "অন্য ডিভাইসে প্রেরণ করুন">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; এ খুলুন">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "অনুসন্ধান ইতিহাস দেখাও">
 <!ENTITY pref_import_options "ইম্পোর্ট অপশন">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
-
+<!ENTITY pref_private_data_openTabs "ট্যাব খুলুন">
 <!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধান ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "ট্যাব কম্পেক্ট">
+<!ENTITY pref_compact_tabs_summary2 "পোট্রেট মোডে ট্যাব দুই কলামে সাজাও">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; এ &formatS2; এর জন্য খোঁজ করুন">
 
 <!ENTITY searchable_description "বুকমার্ক ও ইতিহাস">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; এর হালনাগাদ বিদ্যমান">
 <!ENTITY updater_start_select2 "ডাউনলোডের জন্য স্পর্শ করুন">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড করা হচ্ছে">
@@ -700,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "একবার ডাউনলোড হওয়ার পর হালনাগাদ প্রয়োগের জন্য স্পর্শ করুন">
 <!ENTITY updater_downloading_retry2 "পুনরার চেষ্টা করার জন্য স্পর্শ করুন">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; এর হালনাগাদ ডাউনলোড হয়েছে">
+<!ENTITY updater_apply_select3 "ইন্সটল করতে স্পর্শ করুন">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -845,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "বাতিল">
 <!ENTITY activity_stream_delete_history "ইতিহাস থেকে মুছে ফেলুন">
 
-
+<!ENTITY activity_stream_welcome_title "আপনার হাইলাইটে স্বাগতম">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; এখন সেসব জিনিষের হাইলাইট তৈরি করে যা আপনি ওয়েবে খুঁজে পেয়েছেন তাই এখন আপনি চমৎকার সব নিবন্ধ, ভিডিও, বুকমার্কসহ আরও অনেক পাতায় যাওয়ার উপায় খুঁজে পাবেন।">
