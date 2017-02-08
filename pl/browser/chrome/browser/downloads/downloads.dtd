@@ -32,6 +32,11 @@
 <!ENTITY cmd.chooseUnblock.label "Usuń plik lub pozwól go pobrać">
 <!ENTITY cmd.chooseOpen.label "Otwórz lub usuń plik">
 
+<!ENTITY showMoreInformation.label "Wyświetl więcej informacji">
+<!ENTITY openFile.label "Otwórz plik">
+<!ENTITY retryDownload.label "Pobierz ponownie">
+<!ENTITY cancelDownload.label "Anuluj pobieranie">
+
 <!ENTITY blocked.label "Zablokowano">
 <!ENTITY learnMore.label "więcej informacji">
 
