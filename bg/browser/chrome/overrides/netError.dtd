@@ -130,6 +130,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; не се свърза с <span id='wrongSystemTime_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTime_systemDate'/>, а трябва да бъде <span id='wrongSystemTime_actualDate'/>. За да отстраните проблема сверете часовника.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не се свърза с <span id='wrongSystemTimeWithoutReference_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTimeWithoutReference_systemDate'/>. За да отстраните проблема сверете часовника.</p>">
 
 <!ENTITY certerror.pagetitle1  "Незащитена връзка">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">

@@ -52,6 +52,8 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Зависнала нишка">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "Прихванати стекове">
+
 <!ENTITY aboutTelemetry.scalarsSection "Скалари">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "Keyed скалари
@@ -60,6 +62,8 @@
 <!ENTITY aboutTelemetry.histogramsSection "Хистограми">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Небалансирани хистограми">
+
+<!ENTITY aboutTelemetry.eventsSection "Събития">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Прости измервания">
 
