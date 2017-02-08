@@ -134,7 +134,9 @@
 <!ENTITY addon.update.postfix                 "ອັບເດດ">
 <!ENTITY addon.undoAction.label               "ເອົາກັບຄືນ">
 <!ENTITY addon.undoAction.tooltip             "ຍົກເລີກການກະທຳນີ້">
+<!ENTITY addon.install.label                  "ຕິດຕັ້ງ">
 <!ENTITY addon.checkingForUpdates.label       "ກວດສອບການອັບເດດ...">
+<!ENTITY addon.loadingReleaseNotes.label      "ກຳລັງໂຫລດ…">
 
 
 <!ENTITY eula.width                           "560px">
