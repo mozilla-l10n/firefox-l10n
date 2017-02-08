@@ -23,7 +23,7 @@
 
 <!ENTITY  evangelism.desc                 "يُنصح بشدة أن تطّبق هذا التحديث على &brandShortName; في أقرب وقت ممكن.">
 
-<!ENTITY  downloadPage.title              "تنزيل &brandShortName;">
+<!ENTITY  downloadPage.title              "ينزّل &brandShortName;">
 <!ENTITY  downloading.intro               "يُنزّل التحديثات…">
 <!ENTITY  connecting.label                "يتّصل بخادوم التحديثات…">
 <!ENTITY  verificationFailedText.label    "لم يتمكّن &brandShortName; من التّحقق من تكامل التحديث المتزايد الذي نزّله، لذلك فإنّه ينزّل تحديثا كاملا الآن.">
