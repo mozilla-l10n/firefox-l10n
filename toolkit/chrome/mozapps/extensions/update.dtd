@@ -28,7 +28,7 @@
 
 <!ENTITY  noupdates.wizard.title          "Ingen oppdateringar funne">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikkje å finna oppdateringar for dei inkompatible innlegga.">
-<!ENTITY  noupdates.error.desc            "Det oppstod nokre problem under søket etter oppdateringar.">
+<!ENTITY  noupdates.error.desc            "Problem oppstod under søket etter oppdateringar.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jamnleg etter oppdateringar, og informerer deg når kompatible oppdateringar er tilgjengelege for desse utvidingane.">
 
 <!ENTITY  finished.wizard.title           "Kompatible utvingar er installerte">
@@ -36,8 +36,10 @@
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan med jamne mellomrom sjå etter, og gje informasjon om, når oppdateringar for utvidingar er tilgjengelege.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ser jamnleg etter oppdateringar, og informera deg om oppdateringar for utvidingar.">
 
-<!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å søka etter oppdateringar">
-<!ENTITY  adminDisabled.warning.label     "Det er ikkje muleg å søka etter oppdateringar for inkompatible utvidingar fordi programvareinstallasjon for &brandShortName; er slått av. Kontakt systemansvarleg for hjelp.">
+<!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å søkja etter oppdateringar">
+<!ENTITY  adminDisabled.warning.label     "Det er ikkje muleg å søkja etter oppdateringar for inkompatible utvidingar 
+                                           fordi programvareinstallasjon for &brandShortName; er slått av. 
+                                           Kontakt systemansvarleg for vidare hjelp.">
 
 <!ENTITY  versioninfo.wizard.title        "Kontrollerer kompatibliteten til programtillegga">
 <!ENTITY  versioninfo.top.label           "Kontrollerer om utvidingane er kompatible med denne versjonen av &brandShortName;.">
@@ -45,8 +47,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Problem med å installera oppdateringar">
 <!ENTITY  installerrors.intro.label       "&brandShortName; støytte på problem under oppdateringa av nokre utvidingar.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Trykk «Fullfør» for å halda fram oppstartinga av &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Trykk «Ferdig» for å fullføra oppstartinga av &brandShortName;.">
-<!ENTITY  enableChecking.label            "Tillat &brandShortName; å søka etter oppdateringar.">
+<!ENTITY  enableChecking.label            "Tillat &brandShortName; å søkja etter oppdateringar.">
