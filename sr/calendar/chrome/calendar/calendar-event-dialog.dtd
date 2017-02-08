@@ -89,9 +89,65 @@
 <!ENTITY  event.menu.item.saveandclose.accesskey          "и">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "у">
 
+<!ENTITY  event.menu.item.delete.label                    "Обриши…">
+<!ENTITY  event.menu.item.delete.accesskey                "б">
+<!ENTITY  event.menu.item.page.setup.label                "Подешавање странице">
+<!ENTITY  event.menu.item.page.setup.accesskey            "ц">
+<!ENTITY  event.menu.item.print.label                     "Штампај">
+<!ENTITY  event.menu.item.print.accesskey                 "м">
 
+<!ENTITY  event.menu.edit.label                           "Уреди">
+<!ENTITY  event.menu.edit.accesskey                       "р">
+<!ENTITY  event.menu.edit.undo.label                      "Опозови">
+<!ENTITY  event.menu.edit.undo.accesskey                  "О">
+<!ENTITY  event.menu.edit.redo.label                      "Понови">
+<!ENTITY  event.menu.edit.redo.accesskey                  "н">
+<!ENTITY  event.menu.edit.cut.label                       "Исеци">
+<!ENTITY  event.menu.edit.cut.accesskey                   "ц">
+<!ENTITY  event.menu.edit.copy.label                      "Копирај">
+<!ENTITY  event.menu.edit.copy.accesskey                  "К">
+<!ENTITY  event.menu.edit.paste.label                     "Налепи">
+<!ENTITY  event.menu.edit.paste.accesskey                 "л">
+<!ENTITY  event.menu.edit.select.all.label                "Изабери све">
+<!ENTITY  event.menu.edit.select.all.accesskey            "б">
 
+<!ENTITY  event.menu.view.label                           "Преглед">
+<!ENTITY  event.menu.view.accesskey                       "г">
+<!ENTITY  event.menu.view.toolbars.label                  "Траке са алаткама">
+<!ENTITY  event.menu.view.toolbars.accesskey              "Т">
+<!ENTITY  event.menu.view.toolbars.event.label            "Алатна трака догађаја">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "д">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Прилагоди…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "и">
+<!ENTITY  event.menu.view.showlink.label                  "Прикажи сродну везу">
+<!ENTITY  event.menu.view.showlink.accesskey              "р">
 
+<!ENTITY  event.menu.options.label                            "Опције">
+<!ENTITY  event.menu.options.accesskey                        "О">
+<!ENTITY  event.menu.options.attendees.label                  "Позови полазнике…">
+<!ENTITY  event.menu.options.attendees.accesskey              "и">
+<!ENTITY  event.menu.options.timezone2.label                  "Прикажи временске зоне">
+<!ENTITY  event.menu.options.timezone2.accesskey              "з">
+<!ENTITY  event.menu.options.priority2.label                  "Важност">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Није наведена">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "о">
+<!ENTITY  event.menu.options.priority.low.label               "Ниска">
+<!ENTITY  event.menu.options.priority.low.accesskey           "к">
+<!ENTITY  event.menu.options.priority.normal.label            "Обична">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "б">
+<!ENTITY  event.menu.options.priority.high.label              "Висока">
+<!ENTITY  event.menu.options.priority.high.accesskey          "с">
+<!ENTITY  event.menu.options.privacy.label                    "Приватност">
+<!ENTITY  event.menu.options.privacy.accesskey                "П">
+<!ENTITY  event.menu.options.privacy.public.label             "Јавни догађај">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "а">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Прикажи само датум и време">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "с">
+<!ENTITY  event.menu.options.privacy.private.label            "Приватни догађај">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "р">
+<!ENTITY  event.menu.options.show.time.label                  "Прикажи време као">
+<!ENTITY  event.menu.options.show.time.accesskey              "в">
 
 
 <!-- Toolbar -->
