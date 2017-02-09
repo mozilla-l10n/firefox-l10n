@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Регистрации">
 
-<!ENTITY  rememberLogins.label          "Запомняне на регистрациите в сайтовете">
+<!ENTITY  rememberLogins.label          "Запомняне на регистрации в сайтовете">
 <!ENTITY  rememberLogins.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Изключения…">
 <!ENTITY  passwordExceptions.accesskey  "к">
