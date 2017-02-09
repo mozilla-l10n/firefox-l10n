@@ -818,8 +818,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care v-ar putea urmări navigarea.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care v-ar putea urmări navigarea. Ați dezactivat protecția.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care ți-ar putea urmări navigarea.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care ți-ar putea urmări navigarea. Ai dezactivat protecția.">
 <!ENTITY trackingProtection.notDetected3 "Nu s-au detectat elemente de urmărire pe această pagină.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
