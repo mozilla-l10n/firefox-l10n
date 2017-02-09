@@ -96,12 +96,6 @@
 <!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY sslv3Used.longDesc2 "Szczegóły: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Połączenie nie gwarantuje bezpieczeństwa">
-<!ENTITY weakCryptoUsed.longDesc2 "Szczegóły: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Zaawansowane">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne.">
-<!ENTITY weakCryptoAdvanced.override "(Odradzane) Wczytaj <span class='hostname'></span> używając przestarzałych zabezpieczeń">
-
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; nie połączył się z <span id='wrongSystemTime_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTime_systemDate'/>, gdy powinien mieć <span id='wrongSystemTime_actualDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nie połączył się z <span id='wrongSystemTimeWithoutReference_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTimeWithoutReference_systemDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 
