@@ -176,6 +176,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; అనేది <span id='wrongSystemTime_URL'/> కి కనెక్ట్ కాలేదు ఎందుకంటే మీ కంప్యూటర్ యొక్క గడియారం తప్పు సమయాన్ని సూచిస్తున్నది మరియు ఇది ఒక సురక్షిత కనెక్షన్ ను నివారిస్తున్నది.</p> <p>మీ కంప్యూటరు <span id='wrongSystemTime_systemDate'/> కి అమర్చి ఉన్నది, ఇది <span id='wrongSystemTime_actualDate'/> గా, ఉండాలి. ఈ సమస్యను పరిష్కరించడానికి, సరైన సమయంతో సరిపోలే విధంగా మీ తేదీ మరియు సమయమును మార్చండి.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; అనేది <span id='wrongSystemTimeWithoutReference_URL'/> కి కనెక్ట్ కాలేదు ఎందుకంటే మీ కంప్యూటర్ యొక్క గడియారం తప్పు సమయాన్ని సూచిస్తున్నది మరియు ఇది ఒక సురక్షిత కనెక్షన్ ను నివారిస్తున్నది.</p> <p>మీ కంప్యూటరు <span id='wrongSystemTimeWithoutReference_systemDate'/> కి అమర్చి ఉన్నది. ఈ సమస్యను పరిష్కరించడానికి, సరైన సమయంతో సరిపోలే విధంగా మీ తేదీ మరియు సమయమును మార్చండి.</p>">
 
 <!ENTITY certerror.pagetitle1  "అరక్షిత అనుసంధానం">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; సురక్షితంగా మాత్రమే అనుసంధానం కావాలని చెప్పడానికి HTTP కఠినమైన రవాణా సెక్యూరిటీ (HSTS)ని ఈ సైటు వాడుతూంది. ఫలితంగా, ఈ సర్టిఫికెటుకి మినహాయింపును చేర్చడం సాధ్యం కాదు.">
