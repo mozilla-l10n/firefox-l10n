@@ -26,3 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​នៅ​ទីនេះ">
 <!ENTITY tabCrashed.emailMe "ផ្ញើ​អ៊ីមែល​ឲ្យ​ខ្ញុំ​នៅ​ពេល​មាន​ព័ត៌មាន​​បន្ថែម">
 <!ENTITY tabCrashed.reportSent "បាន​ដាក់​ស្នើ​របាយការណ៍​គាំង អរគុណ​សម្រាប់​ការ​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "រាយការណ៍​ផ្ទាំង​ផ្ទៃ​ខាងក្រោយ">
