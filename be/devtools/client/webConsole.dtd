@@ -66,12 +66,15 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Add-on or Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "Сіта вываду">
+<!ENTITY filterOutput.placeholder "Фільтр вываду">
 <!ENTITY btnClear.label        "Ачысціць">
 <!ENTITY btnClear.tooltip      "Ачысціць вывад у Кансолі Сеціва">
 <!ENTITY btnClear.accesskey    "ч">
@@ -92,3 +95,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Адкрыць у праглядзе зменных">
+<!ENTITY openInVarViewCmd.accesskey "м">
+<!ENTITY storeAsGlobalVar.label "Захаваць як глабальную зменную">
+<!ENTITY storeAsGlobalVar.accesskey "З">
