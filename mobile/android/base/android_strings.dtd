@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "أضِف إلى العلامات">
 
 <!ENTITY activity_stream_topsites "المواقع الأكثر زيارة">
-<!ENTITY activity_stream_highlights "أخبار">
+<!ENTITY activity_stream_highlights "أهم الأحداث">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 
@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "أزل">
 <!ENTITY activity_stream_delete_history "احذف من التأريخ">
 
-
+<!ENTITY activity_stream_welcome_title "مرحبًا مع أهم الأحداث">
+<!ENTITY activity_stream_welcome_content1 "يسلط &brandShortName; الآن الضوء على أهم الأحداث التي تمر عليها أثناء تصفحك للوب، لتستطيع العودة إلى المقالات أو العلامات أو الصفحات المهمة الأخرى التي مررت عليها.">
