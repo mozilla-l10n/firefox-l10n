@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "థ్రెడ్ హ్యాంగులు">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "స్కేలార్ లు">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "
@@ -61,6 +62,9 @@
 <!ENTITY aboutTelemetry.histogramsSection "హిస్టోగ్రామ్స్">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "కీ ఇవ్వబడిన హిస్టోగ్రాములు">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  చర్యలు">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "మాదిరి కొలతలు">
 
