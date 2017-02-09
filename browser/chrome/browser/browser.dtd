@@ -188,7 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showRecentlyBookmarked.label     "Mostrar los marcadores agregados recientemente">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "Ocultar marcadores agregados recientemente">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
+<!ENTITY hideRecentlyBookmarked.accesskey "O">
 
 <!ENTITY backCmd.label                "Anterior">
 <!ENTITY backButton.tooltip           "Regresar una página">
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY fileMenu.label         "Archivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -580,7 +580,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.label     "Velocidad de reproducción">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lenta (0.5 ×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Rápido (1.25 ×)">
@@ -593,7 +593,7 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ultra rápido (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "Repetir">
-<!ENTITY mediaLoop.accesskey         "L">
+<!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
