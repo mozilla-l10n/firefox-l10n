@@ -103,8 +103,8 @@
 
 <!ENTITY offlineStorageNotify.label               "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
 <!ENTITY offlineStorageNotify.accesskey           "v">
-<!ENTITY offlineStorageNotifyExceptions.label     "Ayrıcalıklar…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
+<!ENTITY offlineStorageNotifyExceptions.label     "İstisnalar…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
 <!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">

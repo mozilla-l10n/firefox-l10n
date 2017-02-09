@@ -61,7 +61,7 @@
 <!ENTITY certmgr.export.accesskey             "D">
 <!ENTITY certmgr.delete2.label                "Sil…">
 <!ENTITY certmgr.delete2.accesskey            "S">
-<!ENTITY certmgr.delete_builtin.label         "Sil veya güvenme...">
+<!ENTITY certmgr.delete_builtin.label         "Sil veya güvenme…">
 <!ENTITY certmgr.delete_builtin.accesskey     "S">
 <!ENTITY certmgr.backup2.label                "Yedekle…">
 <!ENTITY certmgr.backup2.accesskey            "Y">
