@@ -49,7 +49,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync "مرحبًا في &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "لِج لمزامنة ألسنتك و علاماتك و جلسات ولوجك و غيرها المزيد.">
 <!ENTITY fxaccount_getting_started_get_started "ابدأ">
-<!ENTITY fxaccount_getting_started_old_firefox "أستخدم إصدارة أقدم من &syncBrand.shortName.label;؟">
+<!ENTITY fxaccount_getting_started_old_firefox "أتستخدم إصدارة &syncBrand.shortName.label; قديمة؟">
 
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
 <!ENTITY fxaccount_status_manage_account "أدِر الحساب">
