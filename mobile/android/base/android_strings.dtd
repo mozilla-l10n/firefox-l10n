@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "เพิ่มไปยังที่คั่นหน้า">
 
 <!ENTITY activity_stream_topsites "ไซต์เด่น">
-<!ENTITY activity_stream_highlights "เด่น">
+<!ENTITY activity_stream_highlights "รายการเด่น">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
