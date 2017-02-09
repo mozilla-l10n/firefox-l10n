@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "చరిత్ర">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "ట్యాబులను తెరువండి">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "సంకేతపదాలు">
 <!ENTITY engine.passwords.accesskey       "P">
