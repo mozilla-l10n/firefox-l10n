@@ -173,12 +173,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "స్క్రీన్షాట్ వైఖరి">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "క్లిప్బోర్డ్ కు స్క్రీన్షాట్">
+<!ENTITY options.screenshot.clipboard.tooltip    "నేరుగా క్లిప్బోర్డ్కు కి స్క్రీన్షాట్ చేయడానికి నిల్వ చేయబడుతుంది">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "కామెరా యొక్క షట్టర్ ధ్వనిని ప్లే చేయండి">
+<!ENTITY options.screenshot.audio.tooltip    "స్క్రీన్ షాట్ తీసుకొనప్పుడు కెమెరా ఆడియో సౌండ్ ప్రారంభించును">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
