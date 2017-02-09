@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncCustomize.dialog.title       "Firefox اکاؤنٹ">
+<!ENTITY syncCustomize.dialog.title       "ہمہ وقت سازی کا انتخاب">
 <!ENTITY syncCustomize.acceptButton.label "شروع کریں">
 
 <!ENTITY syncCustomize.title              "آپ کس چیر کو ہموار کرنا چاہں گے؟">
