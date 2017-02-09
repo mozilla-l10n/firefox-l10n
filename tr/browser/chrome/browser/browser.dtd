@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Daha fazla bilgi al">
 
-<!ENTITY identity.removeCertException.label "Ayrıcalığı kaldır">
+<!ENTITY identity.removeCertException.label "İstisnayı kaldır">
 <!ENTITY identity.removeCertException.accesskey "k">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">

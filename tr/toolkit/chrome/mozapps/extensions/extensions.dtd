@@ -215,7 +215,7 @@
 <!ENTITY eula.title                           "Son kullanıcı izin anlaşması">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Kabul et ve kur...">
+<!ENTITY eula.accept                          "Kabul et ve kur…">
 
 <!ENTITY settings.path.button.label           "Gözat…">
 
