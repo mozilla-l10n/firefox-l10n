@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Когато &brandShortName; стартира:">
 <!ENTITY startupPage.accesskey     "с">
+<!ENTITY startupUserHomePage.label "Показва началната страница">
 <!ENTITY startupBlankPage.label    "Показва празна страница">
+<!ENTITY startupPrevSession.label  "Показва прозорците и разделите от последния път">
 
 <!ENTITY homepage.label            "Начална страница:">
 <!ENTITY homepage.accesskey        "Н">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "Р">
 <!ENTITY chooseFolderMac.label        "Избиране…">
 <!ENTITY chooseFolderMac.accesskey    "И">
+<!ENTITY alwaysAskWhere.label         "Винаги да пита къде да бъдат запазвани файловете">
+<!ENTITY alwaysAskWhere.accesskey     "В">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният браузър">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
