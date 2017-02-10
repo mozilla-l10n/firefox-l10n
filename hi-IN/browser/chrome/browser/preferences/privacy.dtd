@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "आप भी">
 <!ENTITY  doNotTrack.settings.label     "अपनी डू नॉट ट्रैक सैटिंग्स का प्रबंधन करें">
-<!ENTITY  doNotTrack.post.label         "I">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "इतिहास">
 

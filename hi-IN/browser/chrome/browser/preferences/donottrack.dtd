@@ -4,7 +4,7 @@
 
 <!ENTITY window.title                 "पीछा न करें">
 <!ENTITY window.width                 "50em">
-<!ENTITY window.height                "40em">
+<!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "हमेशा पता नहीं लगाना लागू करें">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
