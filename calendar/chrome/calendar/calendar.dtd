@@ -199,9 +199,9 @@
 <!ENTITY progress.level.25.accesskey  "2">
 <!ENTITY progress.level.50            "50&percnt; संपूर्ण">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "50&percnt; संपूर्ण">
+<!ENTITY progress.level.75            "75&percnt; संपूर्ण">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100            "50&percnt; संपूर्ण">
+<!ENTITY progress.level.100            "100&percnt; संपूर्ण">
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "उल्लेखित नहीं">
