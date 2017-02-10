@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Díbir">
 <!ENTITY activity_stream_delete_history "Scrios ón Stair">
 
-
+<!ENTITY activity_stream_welcome_title "Fáilte go dtí Buaicphointí">
+<!ENTITY activity_stream_welcome_content1 "Anois, cruthaíonn &brandShortName; buaicphointí as a bhfuil feicthe agat ar an nGréasán, ionas go mbeidh tú in ann filleadh ar altanna, físeáin, leabharmharcanna, nó leathanaigh iontacha eile gan mórán stró.">
