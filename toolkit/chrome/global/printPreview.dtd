@@ -8,14 +8,14 @@
 <!ENTITY pageSetup.accesskey  "л">
 <!ENTITY page.label           "Старонка:">
 <!ENTITY page.accesskey       "С">
-
+<!ENTITY of.label             "з">
 <!ENTITY scale.label          "Павялічэнне:">
 <!ENTITY scale.accesskey      "П">
 <!ENTITY portrait.label       "Кніжная">
 <!ENTITY portrait.accesskey   "К">
 <!ENTITY landscape.label      "Альбомная">
 <!ENTITY landscape.accesskey  "А">
-<!ENTITY close.label          "Зачыніць">
+<!ENTITY close.label          "Закрыць">
 <!ENTITY close.accesskey      "ч">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
@@ -32,10 +32,10 @@
 <!ENTITY Custom.label         "Выбарачнае…">
 <!ENTITY ShrinkToFit.label    "Сціснуць да шырыні">
 <!ENTITY customPrompt.title   "Выбарачнае павялічэнне…">
-
-
-
-
+<!ENTITY simplifyPage.label   "Спрасціць старонку">
+<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Змяніць макет для зручнасці чытання">
+<!ENTITY simplifyPage.disabled.tooltip "Гэтую старонку нельга аўтаматычна спрасціць">
 
 <!ENTITY homearrow.tooltip    "Першая старонка">
 <!ENTITY endarrow.tooltip     "Апошняя старонка">
