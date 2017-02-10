@@ -196,6 +196,8 @@ za chvíli.</li>
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>Aplikace &brandShortName; se nemohla připojit k adrese <span id='wrongSystemTime_URL'/>, protože čas na vašem počítači je zřejmě špatně nastavený a tak brání bezpečnému spojení.</p> <p>Čas na vašem počítači je nastaven na <span id='wrongSystemTime_systemDate'/>, ale měl by být <span id='wrongSystemTime_actualDate'/>. Opravte prosím nastavení data a času na vašem počítači.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Aplikace &brandShortName; se nemohla připojit k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, protože čas na vašem počítači je zřejmě špatně nastavený a tak brání bezpečnému spojení.</p> <p>Čas na vašem počítači je nastaven na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte prosím nastavení data a času na vašem počítači.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
