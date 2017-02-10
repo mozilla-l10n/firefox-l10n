@@ -2,5 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Nastavení - Data stránek">
+<!ENTITY     settings.description          "Následující servery si vyžádaly ukládání dat na váš disk. Můžete nastavit, které servery mohou data ukládat. Běžná data stránek jsou ukládána dočasně a mohou být automaticky smazána.">
+<!ENTITY     hostCol.label                 "Server">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložiště">
+<!ENTITY     search.label                  "Hledat:">
+<!ENTITY     search.accesskey              "H">
