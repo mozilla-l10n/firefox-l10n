@@ -115,6 +115,7 @@
 <!ENTITY certificateTab.label            "Certifikáty">
 <!ENTITY certPersonal.label              "Požadavky">
 <!ENTITY certPersonal.description        "Pokud server vyžaduje váš osobní certifikát:">
+<!ENTITY selectCerts.auto                "Vybrat jeden automaticky">
 <!ENTITY selectCerts.auto.accesskey      "a">
 <!ENTITY selectCerts.ask                 "Vždy se zeptat">
 <!ENTITY selectCerts.ask.accesskey       "d">

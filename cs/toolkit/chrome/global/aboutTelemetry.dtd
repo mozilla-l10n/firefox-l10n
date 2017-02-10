@@ -96,6 +96,9 @@ Ping
   Zatuhnutí vláken
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Zachycené zásobníky
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   Skaláry">
