@@ -17,7 +17,7 @@
 <!ENTITY browserConsoleCmd.commandkey    "Ζ">
 <!ENTITY browserConsoleCmd.accesskey     "K">
 
-<!ENTITY responsiveDesignTool.label      "Režim responsivního designu">
+<!ENTITY responsiveDesignTool.label      "Režim responzivního designu">
 <!ENTITY responsiveDesignTool.accesskey  "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
