@@ -11,6 +11,8 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "เตือนคุณเมื่อการเปิดหลายแท็บอาจทำให้ &brandShortName; ช้าลง">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "เมื่อคุณเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
