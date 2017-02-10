@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "पहले ही बुकमार्क">
 <!ENTITY overlay_share_send_other "अन्य साधनों पर भेजें">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; में खोलें">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएँ">
 <!ENTITY pref_import_options "आयात विकल्प">
 <!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
-
+<!ENTITY pref_private_data_openTabs "टैब खोलें">
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
@@ -538,6 +539,8 @@ size. -->
 <!ENTITY pref_tab_queue_summary4 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते हैं">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
+<!ENTITY pref_compact_tabs "काम्पैक्ट टैब">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -804,7 +807,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "एंड्रॉयड टैबलेट्स पर प्रतिबंधित प्रोफाइल के लिए Firefox मदद और समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "वेब के बारे में सीखें: मोज़िल्ला वेबमेकर">
+<!ENTITY bookmarks_restricted_webmaker "वेब के बारे में सीखें: Mozilla वेबमेकर">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
