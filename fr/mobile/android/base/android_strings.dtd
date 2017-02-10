@@ -851,3 +851,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Retirer">
 <!ENTITY activity_stream_delete_history "Supprimer de l’historique">
 
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; met désormais en avant des éléments-clés que vous avez découverts sur le Web, afin que vous puissiez retrouver facilement des articles, vidéos, marque-pages et d’autres pages.">
