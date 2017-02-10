@@ -483,100 +483,100 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
-<!ENTITY reloadFrameCmd.accesskey     "ห">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับที่เลือก">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
-<!ENTITY viewPageSourceCmd.accesskey  "ด">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
-<!ENTITY viewFrameSourceCmd.accesskey "ด">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้า">
-<!ENTITY viewPageInfoCmd.accesskey    "ข">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ดูข้อมูลกรอบ">
-<!ENTITY viewFrameInfoCmd.accesskey   "ข">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "โหลดภาพใหม่">
-<!ENTITY reloadImageCmd.accesskey     "ห">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ดูภาพ">
-<!ENTITY viewImageCmd.accesskey       "ภ">
+<!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ดูข้อมูลภาพ">
-<!ENTITY viewImageInfoCmd.accesskey   "พ">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "ดูคำอธิบาย">
-<!ENTITY viewImageDescCmd.accesskey   "ย">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ดูวิดีโอ">
-<!ENTITY viewVideoCmd.accesskey       "ว">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
-<!ENTITY viewBGImageCmd.accesskey     "พ">
+<!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "อ">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
-<!ENTITY emailPageCmd.accesskey       "ม">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
-<!ENTITY savePageCmd.accesskey        "ป">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
-<!ENTITY saveFrameCmd.accesskey       "ก">
+<!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "พิมพ์กรอบ…">
-<!ENTITY printFrameCmd.accesskey      "พ">
+<!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "บันทึกลิงก์เป็น…">
-<!ENTITY saveLinkCmd.accesskey        "ล">
+<!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "บันทึกภาพเป็น…">
-<!ENTITY saveImageCmd.accesskey       "ท">
+<!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "บันทึกวิดีโอเป็น…">
-<!ENTITY saveVideoCmd.accesskey       "ป">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "บันทึกเสียงเป็น…">
-<!ENTITY saveAudioCmd.accesskey       "ป">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ส่งอีเมลภาพ…">
-<!ENTITY emailImageCmd.accesskey      "พ">
+<!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ส่งอีเมลวิดีโอ…">
-<!ENTITY emailVideoCmd.accesskey      "ม">
+<!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
-<!ENTITY castVideoCmd.accesskey       "ส">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ส่งอีเมลเสียง…">
-<!ENTITY emailAudioCmd.accesskey      "ม">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "เปิดใช้งานปลั๊กอินนี้">
-<!ENTITY playPluginCmd.accesskey      "ป">
+<!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "ซ่อนปลั๊กอินนี้">
-<!ENTITY hidePluginCmd.accesskey      "ซ">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
-<!ENTITY copyLinkCmd.accesskey        "ต">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
-<!ENTITY copyImageCmd.accesskey       "ด">
+<!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
-<!ENTITY copyImageContentsCmd.accesskey  "ล"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "คัดลอกที่ตั้งวิดีโอ">
-<!ENTITY copyVideoURLCmd.accesskey    "ด">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "คัดลอกที่ตั้งเสียง">
-<!ENTITY copyAudioURLCmd.accesskey    "ด">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
-<!ENTITY copyEmailCmd.accesskey       "อ">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "กรอบนี้">
-<!ENTITY thisFrameMenu.accesskey          "ก">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "เล่น">
-<!ENTITY mediaPlay.accesskey         "ล">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "หยุดชั่วคราว">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ปิดเสียง">
-<!ENTITY mediaMute.accesskey         "ป">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "เปิดเสียง">
-<!ENTITY mediaUnmute.accesskey       "ด">
+<!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "ความเร็วในการเล่น">
 <!ENTITY mediaPlaybackRate2.accesskey "ว">
 <!ENTITY mediaPlaybackRate050x2.label "ช้า (0.5×)">
