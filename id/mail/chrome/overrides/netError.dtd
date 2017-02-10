@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -22,7 +22,7 @@
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Akses terhadap berkas telah ditolak">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>">
@@ -51,7 +51,9 @@
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka alamat ini.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa pengaturan proxy, pastikan sudah benar.</li> <li>Hubungi administrator jaringan Anda untuk memastikan server proxy sudah berjalan.</li> </ul>">
@@ -66,31 +68,35 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Pastikan sistem Anda telah terpasang Pengelola Keamanan Pribadi.</li> <li>Hal ini mungkin disebabkan konfigurasi server yang tidak standar.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
-
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Laman yang Anda coba lihat tidak bisa ditampilkan karena autentikasi data yang diterima tidak dapat diverifikasi.</li>
+  <li>Mohon menghubungi pemilik situs untuk menginformasikan masalah ini.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Hal ini mungkin terjadi karena masalah pada konfigurasi server atau pihak tertentu mencoba menyamar menjadi server pada alamat di atas.</li> <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li> <li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li> <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li> </ul>">
 
-
+<!ENTITY cspBlocked.title "Diblokir oleh Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalangi laman ini untuk dimuat karena laman memiliki kebijakan keamanan konten yang melarang hal tersebut.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang Anda coba lihat tidak dapat ditampilkan karena kesalahan pada transmisi data telah terdeteksi.</p><ul><li>Mohon hubungi pemilik situs untuk menginformasikan masalah tersebut.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
