@@ -46,7 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
+<!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -478,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -547,15 +547,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "ซ่อนปลั๊กอินนี้">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
+<!ENTITY copyLinkCmd.label            "คัดลอกตำแหน่งที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "คัดลอกที่ตั้งวิดีโอ">
+<!ENTITY copyVideoURLCmd.label        "คัดลอกตำแหน่งที่ตั้งวิดีโอ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "คัดลอกที่ตั้งเสียง">
+<!ENTITY copyAudioURLCmd.label        "คัดลอกตำแหน่งที่ตั้งเสียง">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -578,39 +578,39 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "เปิดเสียง">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "ความเร็วในการเล่น">
-<!ENTITY mediaPlaybackRate2.accesskey "ว">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "ช้า (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "ช">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "ปกติ">
-<!ENTITY mediaPlaybackRate100x2.accesskey "ป">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "เร็ว (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "เ">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "เร็วขึ้น (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "ร">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "เร็วมาก (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "ว">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "วนรอบ">
-<!ENTITY mediaLoop.accesskey         "ว">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "แสดงปุ่มควบคุม">
-<!ENTITY mediaShowControls.accesskey "ส">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "ซ่อนปุ่มควบคุม">
-<!ENTITY mediaHideControls.accesskey "น">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "เต็มจอ">
-<!ENTITY videoFullScreen.accesskey   "ต">
-<!ENTITY videoSaveImage.accesskey    "า">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "แสดงสถิติ">
-<!ENTITY videoShowStats.accesskey    "ถ">
+<!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "ซ่อนสถิติ">
-<!ENTITY videoHideStats.accesskey    "ถ">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -642,12 +642,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
 
 <!ENTITY quitApplicationCmdWin2.label       "ออก">
-<!ENTITY quitApplicationCmdWin2.accesskey   "อ">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "ออกจาก &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ออก"> 
-<!ENTITY quitApplicationCmd.accesskey   "อ">
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "ออกจาก &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
@@ -683,7 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
-<!ENTITY findOnCmd.accesskey "ค">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
 <!ENTITY findAgainCmd.accesskey "ก">
