@@ -27,7 +27,7 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Zavřít panely vpravo">
-<!ENTITY  closeTabsToTheEnd.accesskey        "t">
+<!ENTITY  closeTabsToTheEnd.accesskey        "n">
 <!ENTITY  closeOtherTabs.label               "Zavřít ostatní panely">
 <!ENTITY  closeOtherTabs.accesskey           "v">
 
