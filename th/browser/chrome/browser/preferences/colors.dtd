@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "เสมอ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "เฉพาะกับชุดตกแต่งความคมชัดสูง">

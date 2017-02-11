@@ -36,6 +36,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ค่าที่ตั้งของอุปกรณ์">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
