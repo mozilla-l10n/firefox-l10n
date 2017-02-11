@@ -25,13 +25,17 @@
 
 <!ENTITY helpSafeMode.label       "Перазапусціць з забароненымі дадаткамі…">
 <!ENTITY helpSafeMode.accesskey   "з">
+<!ENTITY helpSafeMode.stop.label       "Перазапусціць з выключанымі дадаткамі">
+<!ENTITY helpSafeMode.stop.accesskey   "П">
 
+<!ENTITY healthReport2.label      "Справаздача пра стан &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "c">
 
 <!ENTITY helpTroubleshootingInfo.label      "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey  "З">
 
 <!ENTITY helpFeedbackPage.label      "Падаць водгук…">
-<!ENTITY helpFeedbackPage.accesskey  "в">
+<!ENTITY helpFeedbackPage.accesskey  "В">
 
 
 <!ENTITY preferencesCmdMac.label        "Перавагі…">
