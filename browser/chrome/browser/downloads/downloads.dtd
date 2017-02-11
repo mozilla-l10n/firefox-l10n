@@ -63,35 +63,44 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromHistory.label      "Выдаліць з гісторыі">
 <!ENTITY cmd.removeFromHistory.accesskey  "г">
+<!ENTITY cmd.clearList2.label             "Ачысціць панэль перадпаказу">
+<!ENTITY cmd.clearList2.accesskey         "ч">
 <!ENTITY cmd.clearDownloads.label         "Ачысціць сцягванні">
 <!ENTITY cmd.clearDownloads.accesskey     "ц">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Дазволіць сцягванне">
+<!ENTITY cmd.unblock2.accesskey           "ш">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
+<!ENTITY cmd.removeFile.label             "Сцерці файл">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Сцерці файл ці дазволіць сцягванне">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Адкрыць ці сцерці файл">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY blocked.label                    "ЗАБЛАКАВАНА">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY learnMore.label                  "Даведацца больш">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
@@ -101,6 +110,7 @@
 <!ENTITY downloadsHistory.label           "Паказаць усе сцягванні">
 <!ENTITY downloadsHistory.accesskey       "у">
 
+<!ENTITY openDownloadsFolder.label       "Адкрыць каталог перасыланняў">
 
 <!ENTITY clearDownloadsButton.label       "Ачысціць сцягванні">
 <!ENTITY clearDownloadsButton.tooltip     "Ачысціць скончаныя, скасованыя і няўдачныя сцягванні">
