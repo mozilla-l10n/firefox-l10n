@@ -61,11 +61,13 @@
 
 
 
-
+<!ENTITY largerFont.label             "خط أكبر">
+<!ENTITY largerFont.accesskey         "ك">
 
 <!-- + is above this key on many keyboards -->
 
-
+<!ENTITY smallerFont.label            "خط أصغر">
+<!ENTITY smallerFont.accesskey        "ص">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "الحجم العادي">
@@ -131,7 +133,8 @@
 <!ENTITY resetContext2.label          "صفّر المتغيرات">
 <!ENTITY resetContext2.accesskey      "ص">
 
-
+<!ENTITY reloadAndRun.label           "أعد التحميل ونفذ ">
+<!ENTITY reloadAndRun.accesskey       "e">
 
 
 <!ENTITY executeMenu.label            "تنفيذ">
