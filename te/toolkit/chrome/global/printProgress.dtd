@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "ముద్రించుచున్నది"> 
+<!ENTITY printWindow.title "ముద్రిస్తోంది"> 
 <!ENTITY title    "శీర్షిక:"> 
 <!ENTITY progress "పురోగతి:">
-<!ENTITY preparing "సమాయత్తమవుతోంది...">
-<!ENTITY printComplete "ముద్రణ పూర్తైనది.">
+<!ENTITY preparing "సిద్దమౌతోంది…">
+<!ENTITY printComplete "ముద్రణ పూర్తయింది.">
 
 <!ENTITY dialogCancel.label "రద్దుచేయి"> 
-<!ENTITY dialogClose.label "మూయి">
+<!ENTITY dialogClose.label "మూసివేయి">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 
