@@ -798,7 +798,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں اضافہ سے انتخاب کریں">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں ایڈ اون سے انتخاب کریں">
 <!ENTITY customizeMode.restoreDefaults "طےشدہ بحال کریں">
 <!ENTITY customizeMode.toolbars "دکھائیں / چھپائیں ٹول باریں">
 <!ENTITY customizeMode.titlebar "عنوان بار">
