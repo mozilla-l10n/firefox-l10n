@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Аднаўленне сэсіі">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "Нам вельмі сорам.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; мае праблемы з аднаўленнем вокан і ўставак. Гэта выклікана нядаўна адкрытай старонкай.">
 <!ENTITY restorepage.tryThis        "Вы можаце паспрабаваць:">
@@ -21,12 +21,21 @@
 <!ENTITY restorepage.listHeader     "Вокны і ўстаўкі">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Акно &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton  "Пачнём!">
+<!ENTITY welcomeback2.restoreButton.access "П">
 
+<!ENTITY welcomeback2.tabtitle      "Поспех!">
 
+<!ENTITY welcomeback2.pageTitle     "Поспех!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; гатовы.">
 
+<!ENTITY welcomeback2.label.restoreAll  "Аднавіць усе вокны і ўстаўкі">
+<!ENTITY welcomeback2.label.restoreSome "Аднавіць толькі тыя, якія вы хочаце">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -35,6 +44,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Вашы ўбудовы і налады былі выдалены, і налады вашага браўзера былі адноўлены. Калі гэта не дапамагло выправіць праблему, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "даведацца больш аб тым, што вы можаце зрабіць.">
 
