@@ -11,8 +11,6 @@
 <!ENTITY search.accesskey "C">
 <!ENTITY removeSelected.label "Rimuovi selezionati">
 <!ENTITY removeSelected.accesskey "R">
-<!ENTITY removeAll.label "Rimuovi tutti">
-<!ENTITY removeAll.accesskey "u">
 <!ENTITY save.label "Salva modifiche">
 <!ENTITY save.accesskey "S">
 <!ENTITY cancel.label "Annulla">
