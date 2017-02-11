@@ -187,14 +187,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дополнительная информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Ваше соединение не защищено">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Дополнительная информация: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Дополнительно">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> использует защитную технологию, которая является устаревшей и уязвимой для атаки. Злоумышленник может легко выявить информацию, которая, как вы думали, находится в безопасности.">
-<!ENTITY weakCryptoAdvanced.override "(Не защищено) Попробуйте загрузить <span class='hostname'></span>, используя устаревшую защиту">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

@@ -87,10 +87,11 @@
    (данные не собраны) ">
 <!ENTITY aboutTelemetry.fullSqlWarning "
       ПРИМЕЧАНИЕ: Включён медленный режим отладки SQL. Внизу могут быть показаны полные строки SQL, но в телеметрию они отправлены не будут. ">
-<!ENTITY aboutTelemetry.fetchSymbols "
+<!ENTITY aboutTelemetry.fetchStackSymbols "
   Загрузить имена функций для стеков">
-<!ENTITY aboutTelemetry.hideSymbols "
-  Показать сырые данные стека">
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Показать сырые данные стека
+">
 <!ENTITY aboutTelemetry.filterText "
   Фильтр (строковый или /regexp/)
 ">
