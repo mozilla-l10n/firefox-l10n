@@ -92,7 +92,7 @@
   -  in the source editor's context menu for the scripts search operation. -->
 
 <!ENTITY debuggerUI.searchFile           "رشّح السكربتات">
-<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.key       "ش">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
