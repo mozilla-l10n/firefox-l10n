@@ -78,7 +78,7 @@
 <!ENTITY runtimePanel_installsimulator "ثبّت محاكيًا">
 <!ENTITY runtimePanel_noadbhelper "ثبّت «مساعد Adb»">
 <!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
-
+<!ENTITY runtimePanel_refreshDevices_label "أنعش الأجهزة">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "صالحة">
