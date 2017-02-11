@@ -181,7 +181,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
+<!ENTITY recentBookmarks.label "Нядаўнія закладкі">
+<!ENTITY otherBookmarksCmd.label "Іншыя закладкі">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
+<!ENTITY showRecentlyBookmarked.label     "Паказаць нядаўнія закладкі">
+<!ENTITY showRecentlyBookmarked.accesskey "р">
+<!ENTITY hideRecentlyBookmarked.label     "Схаваць нядаўнія закладкі">
+<!ENTITY hideRecentlyBookmarked.accesskey "Р">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Папярэдняя старонка">
@@ -198,7 +204,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Друкаваць">
 <!ENTITY printButton.tooltip          "Друкаваць гэтую старонку">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Звесткі аб сайце">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Адкрыць панэль паведамленняў">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Адкрыць панэль запытаў месцазнаходжання">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Адкрыць панэль паведамленняў аб устанаўленні прыставак">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Адкрыць панэль паведамленняў пазасеткавага сховішча">
 
 
 

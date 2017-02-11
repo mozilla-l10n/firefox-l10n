@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "50em">
 <!ENTITY  window.macWidth                 "53em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Замяняць колеры старонкі на выбраныя вамі вышэй:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "З">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Заўсёды">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Толькі з высокакантраснымі тэмамі">
+<!ENTITY  overrideDefaultPageColors.never.label  "Ніколі">
 
 <!ENTITY  color                           "Тэкст і фон">
 <!ENTITY  textColor.label                 "Тэкст:">
