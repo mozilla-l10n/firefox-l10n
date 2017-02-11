@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are used in the about:newtab page -->
-
 <!ENTITY newtab.pageTitle "Новая ўстаўка">
-
-
-
-
-
-
-
-
+<!ENTITY newtab.customize.classic "Паказваць часта наведаныя сайты">
+<!ENTITY newtab.customize.cog.enhanced "Уключыць прапановы сайтаў">
+<!ENTITY newtab.customize.cog.title2 "КНОПКІ НОВАЙ КАРТКІ">
+<!ENTITY newtab.customize.cog.learn "Даведацца больш пра новую ўкладку">
+<!ENTITY newtab.customize.title "Наставіць вашу старонку новай укладкі">
+<!ENTITY newtab.customize.suggested "Паказваць прапанаваныя і часта наведаныя сайты">
+<!ENTITY newtab.customize.topsites "Паказваць часта наведаныя сайты">
+<!ENTITY newtab.customize.blank2 "Паказваць пустую старонку">
 <!ENTITY newtab.undo.removedLabel "Накід выдалены.">
 <!ENTITY newtab.undo.undoButton "Адмяніць.">
 <!ENTITY newtab.undo.restoreButton "Вярнуць усё.">

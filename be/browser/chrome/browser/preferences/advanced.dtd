@@ -10,6 +10,12 @@
 
 <!ENTITY useCursorNavigation.label       "Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках">
 <!ENTITY useCursorNavigation.accesskey   "с">
+<!ENTITY searchOnStartTyping.label       "Шукаць тэкст, калі вы пачынаеце набор">
+<!ENTITY searchOnStartTyping.accesskey   "ч">
+<!ENTITY blockAutoReload.label           "Папярэджваць, калі вэб-сайт спрабуе перанакіраваць ці перагрузіць старонку">
+<!ENTITY blockAutoReload.accesskey       "і">
+<!ENTITY useOnScreenKeyboard.label       "Паказваць экранную клавіятуру, калі неабходна">
+<!ENTITY useOnScreenKeyboard.accesskey   "л">
 
 <!ENTITY browsing.label                  "Азіранне">
 
@@ -19,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "л">
 <!ENTITY allowHWAccel.label              "Ужываць, калі можна, паскарэнне начыння">
 <!ENTITY allowHWAccel.accesskey          "н">
+<!ENTITY checkUserSpelling.label         "Правяраць арфаграфію пад час набору">
+<!ENTITY checkUserSpelling.accesskey     "е">
 
 <!ENTITY dataChoicesTab.label            "Выбар здаткаў">
 
@@ -28,8 +36,13 @@
 <!ENTITY healthReportLearnMore.label     "Падрабязней">
 
 <!ENTITY telemetryDesc.label             "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
+<!ENTITY enableTelemetryData.accesskey   "Е">
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
 
+<!ENTITY crashReporterDesc2.label         "Справаздачы аб памылках дапамагаюць &vendorShortName; выпраўляць праблемы і рабіць ваш браўзер больш стабільным і бяспечным">
+<!ENTITY alwaysSubmitCrashReports.label   "Дазволіць &brandShortName; адпраўляць назапашаныя справаздачы аб памылках ад вашага імя">
+<!ENTITY alwaysSubmitCrashReports.accesskey "с">
 <!ENTITY crashReporterLearnMore.label     "Падрабязней">
 
 <!ENTITY networkTab.label                "Сетка">
@@ -45,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія здаткі">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Звесткі сайта">
+<!ENTITY clearSiteData.label             "Ачысціць усе звесткі">
+<!ENTITY clearSiteData.accesskey         "д">
+<!ENTITY siteDataSettings.label          "Налады…">
+<!ENTITY siteDataSettings.accesskey      "ш">
+<!ENTITY siteDataLearnMoreLink.label     "Даведацца больш">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -64,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Абнаўленне">
 
+<!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
 <!ENTITY updateAuto1.label               "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
 <!ENTITY updateAuto1.accesskey           "С">
+<!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўстанаўліваць іх">
+<!ENTITY updateCheckChoose.accesskey     "С">
 <!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -75,9 +97,14 @@
 <!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абналенняў">
 <!ENTITY useService.accesskey            "ф">
 
+<!ENTITY autoUpdateOthers.label          "Абнаўляць аўтаматычна">
 <!ENTITY enableSearchUpdate.label        "Машыны пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "ш">
 
+<!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага ўжытку">
+<!ENTITY offlineStorageNotify.accesskey           "Е">
+<!ENTITY offlineStorageNotifyExceptions.label     "Выключэнні…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ч">
 
 <!ENTITY offlineAppsList2.label          "Наступныя пляцоўкі Сеціва маюць дазвол на захаванне здаткаў для пазасеткавага ўжывання:">
 <!ENTITY offlineAppsList.height          "8em">
@@ -86,6 +113,14 @@
 <!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя здаткі">
 
 <!ENTITY certificateTab.label            "Пасведчанні">
+<!ENTITY certPersonal.label              "Запыты">
+<!ENTITY certPersonal.description        "Калі сервер запытвае ваш асабісты сертыфікат:">
+<!ENTITY selectCerts.auto                "Выбіраць аўтаматычна">
+<!ENTITY selectCerts.auto.accesskey      "Ы">
+<!ENTITY selectCerts.ask                 "Пытацца кожны раз">
+<!ENTITY selectCerts.ask.accesskey       "Ф">
+<!ENTITY enableOCSP.label                "Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў">
+<!ENTITY enableOCSP.accesskey            "Й">
 <!ENTITY viewCerts.label                 "Прагляд пасведчанняў">
 <!ENTITY viewCerts.accesskey             "г">
 <!ENTITY viewSecurityDevices.label       "Збудовы бяспекі">

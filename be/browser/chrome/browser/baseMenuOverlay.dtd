@@ -37,12 +37,16 @@
 <!ENTITY helpFeedbackPage.label      "Падаць водгук…">
 <!ENTITY helpFeedbackPage.accesskey  "В">
 
+<!ENTITY helpShowTour2.label            "Знаёмства з &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "З">
 
 <!ENTITY preferencesCmdMac.label        "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Службы">
 
+<!ENTITY hideThisAppCmdMac2.label       "Схаваць &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "С">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Схаваць іншыя">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
