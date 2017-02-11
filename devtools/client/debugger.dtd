@@ -44,6 +44,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 <!ENTITY debuggerUI.autoPrettyPrint     "Самаўбіраць паменшаныя зыходнікі">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "У">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -60,10 +61,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions           "Прыпыняць падчас выключэнняў">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "В">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Ігнараваць злоўленыя выключэнні">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "З">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -72,7 +75,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "Паказаць скрынку сіта зменных">
+<!ENTITY debuggerUI.showVarsFilter           "Паказаць панэль фільтра зменных">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "З">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -85,6 +89,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource           "Паказаць першапачатковыя зыходнікі">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "П">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
