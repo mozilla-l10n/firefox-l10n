@@ -282,8 +282,15 @@
 <!ENTITY event.recurrence.year.label                    "годишње" >
 
 <!ENTITY event.recurrence.pattern.every.label           "На сваких" >
+<!ENTITY repeat.units.days.both                         "Дан(а)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Сваког радног дана" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "На сваких" >
+<!ENTITY repeat.units.weeks.both                        "Недеља(е)" >
+<!ENTITY event.recurrence.on.label                      "На:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Сваких" >
+<!ENTITY repeat.units.months.both                       "Месец(и)" >
 
 
 <!-- LOCALIZATON NOTE
