@@ -24,6 +24,6 @@
 <!ENTITY  paneAdvanced.title      "اعلٰی">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "ہمہ وار کریں">
+<!ENTITY  paneSync.title          "ہمہ وقت سازی ">
 
 <!ENTITY  helpButton.label        "مدد">

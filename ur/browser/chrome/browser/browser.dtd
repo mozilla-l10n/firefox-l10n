@@ -367,7 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
-<!ENTITY appMenuRemoteTabs.sidebar.label "حمہ تن ساز ٹیبس کے بغلی بار کا نظارہ کریں">
+<!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ڈ">
@@ -778,15 +778,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ک">
 
 
-<!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">
+<!ENTITY syncBrand.shortName.label    "ہمہ وقت سازی">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; میں سائن ان کریں…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "ابھی ہمہ وار کریں">
+<!ENTITY syncSyncNowItem.label        "ابھی ہمہ وقت سازی کریں">
 <!ENTITY syncSyncNowItem.accesskey    "ہ">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; سے پھر جڑیں…">
 <!ENTITY syncReAuthItem.accesskey     "پ">
-<!ENTITY syncToolbarButton.label      "ہمہ وار">
+<!ENTITY syncToolbarButton.label      "ہمہ وقت سازی ">
 
 <!ENTITY social.addons.label "خدمات سر انجام دیں">
 

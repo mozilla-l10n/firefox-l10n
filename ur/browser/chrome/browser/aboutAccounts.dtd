@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; میں خوش آمدید">
 
-<!ENTITY aboutAccountsConfig.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزیدہمہ وقت ساز بنانے کے لیے سائن ان کریں۔">
+<!ENTITY aboutAccountsConfig.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید ہمہ وقت ساز بنانے کے لیے سائن ان کریں۔">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع کریں">
 <!ENTITY aboutAccountsConfig.useOldSync.label "ہم وقت ساز کا پرانا ورژن استعمال کر رہے ہیں؟">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "ہمہ وقت ساز ترجیحات">
