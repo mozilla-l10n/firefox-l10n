@@ -11,7 +11,7 @@
 <!ENTITY gdata.migration.description "Poskićowar za Google Calendar ma wotkrył, zo maće hižo protyki, kotrež maja přistup na Google Calendar jenož w čitanskim modusu. Jeli chceće jednu abo wjacore z tych protykow aktualizować, wubjerće je deleka">
 <!ENTITY gdata.migration.upgrade.label "Aktualizować">
 <!ENTITY gdata.migration.upgrade.accesskey "A">
-<!ENTITY gdata.migration.showagain.label "Přeco přepruwować">
+<!ENTITY gdata.migration.showagain.label "Přeco přepruwować ">
 
 <!ENTITY gdata.reminder.default "Standardne dopomnjeće">
 <!ENTITY gdata.reminder.action.sms.label "Tekstowu powěsć pósłać">
