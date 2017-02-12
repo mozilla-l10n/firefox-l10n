@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "سیرف">
 <!ENTITY  useDefaultFontSansSerif.label           "سینس سیرف">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "آپکے اوپر انتخاب بجائے، صفحات کو اپنے خود کے فونٹ چننے دے">
+<!ENTITY  allowPagesToUseOwn.accesskey            "ص">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ورثہ مواد کے لیے متن کی ضابطہ بندی">
 <!ENTITY languages.customize.Fallback2.label      "فالبیک متنضابطہ بندی:">

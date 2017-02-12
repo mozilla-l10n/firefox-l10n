@@ -38,7 +38,7 @@
 <!ENTITY isDefault.label                  "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
 <!ENTITY isNotDefault.label               "&brandShortName; اس وقت آپ کا طےشدہ  براؤزر نھیں ہے">
 
-<!ENTITY separateProfileMode.label        "&brandShortName; ہونے دیں اور Firefox کو ھمہ وقت چلائیں">
+<!ENTITY separateProfileMode.label        "&brandShortName; اور Firefox کو ہم وقت چلنے کی اجازت دے">
 <!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
 <!ENTITY getStarted.label                 "ہم وقت سازی استعمال کرنا شروع کریں…">
 

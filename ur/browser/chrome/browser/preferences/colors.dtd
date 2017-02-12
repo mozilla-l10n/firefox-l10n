@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "جو رنگ اس صفحہ پر مخصوص کردہ ہیں ان کو میرے انتخاپ سے زیر کریں:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "ز">
 
 <!ENTITY  overrideDefaultPageColors.always.label "ہمیشہ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "صرف گہرا تناسب امتزاج خیالیات کے ساتھ">
