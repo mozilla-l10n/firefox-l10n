@@ -156,13 +156,15 @@ Ping
   NOTE : Le débogage des requêtes SQL lentes est activé. Des requêtes SQL complètes peuvent être affichées ci-dessous, mais elles ne seront pas envoyées par télémétrie.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Récupérer les noms de fonctions pour les piles des blocages
+
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Récupérer les noms de fonctions pour les piles
 ">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Afficher les données brutes des blocages
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Afficher les données brutes des piles
 ">
+
 
 <!ENTITY aboutTelemetry.filterText "
   Filtrer (chaîne de caractères ou expression régulière)

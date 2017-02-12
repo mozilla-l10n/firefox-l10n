@@ -184,14 +184,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informations avancées : SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "La connexion n’est pas sécurisée">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Informations avancées : SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avancé">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fait appel à des technologies de sécurité qui sont obsolètes et vulnérables aux attaques. Un attaquant pourrait facilement révéler des informations que vous pensiez être protégées.">
-<!ENTITY weakCryptoAdvanced.override "(Non sécurisé) Essayer de recharger <span class='hostname'></span> en faisant appel à des technologies de sécurité obsolètes">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
