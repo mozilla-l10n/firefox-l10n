@@ -101,6 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "Μηχανές αναζήτησης">
 <!ENTITY enableSearchUpdate.accesskey    "η">
 
+<!ENTITY offlineStorageNotify.label               "Ειδοποίηση όταν μια ιστοσελίδα ζητά να αποθηκεύσει δεδομένα για χρήση εκτός σύνδεσης">
+<!ENTITY offlineStorageNotify.accesskey           "Ε">
 <!ENTITY offlineStorageNotifyExceptions.label     "Εξαιρέσεις…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ξ">
 
@@ -112,8 +114,11 @@
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
 <!ENTITY certPersonal.label              "Αιτήματα">
+<!ENTITY certPersonal.description        "Όταν ένας διακομιστής ζητά το προσωπικό σας πιστοποιητικό:">
 <!ENTITY selectCerts.auto                "Αυτόματη επιλογή">
+<!ENTITY selectCerts.auto.accesskey      "Δ">
 <!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">
+<!ENTITY selectCerts.ask.accesskey       "Π">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ε">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
