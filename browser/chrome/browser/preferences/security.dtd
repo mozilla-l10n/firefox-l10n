@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "Γενικά">
 
+<!ENTITY  warnOnAddonInstall.label        "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να εγκαταστήσουν πρόσθετα">
+<!ENTITY  warnOnAddonInstall.accesskey    "Π">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "Φραγή επικίνδυνων λήψεων">
 <!ENTITY  blockDownloads.accesskey        "λ">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "Προειδοποίηση για ανεπιθύμητο και ασυνήθιστο λογισμικό">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "Σ">
 
 <!ENTITY  addonExceptions.label         "Εξαιρέσεις…">
 <!ENTITY  addonExceptions.accesskey     "Ε">
