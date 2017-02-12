@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "စာမှတ်လုပ်ထားပြီး">
 <!ENTITY overlay_share_send_other "အခြားဖုန်းများသို့ ပို့ပါ">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; ထဲတွင် ဖွင့်ပါ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -384,6 +385,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ရှာဖွေမှု မှတ်တမ်းကို ပြပါ">
 <!ENTITY pref_import_options "တင်သွင်းမှု ရွေးစရာများ">
 <!ENTITY pref_import_android_summary "စာအမှတ်များနှင့် မှတ်တမ်းကို စံဘယောက်ဆာမှ ဆွဲယူပါ">
+<!ENTITY pref_private_data_openTabs "တပ်ဗ်များကို ဖွင့်ပါ">
 <!ENTITY pref_private_data_history2 "ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_searchHistory "ရှာဖွေမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_formdata2 "ဖောင်ဖြည့် မှတ်တမ်း">
@@ -536,6 +538,7 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "တပ်ဗ်များကို နေရာသိုသိပ်စေရန် ပြုလုပ်ပါ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -699,6 +702,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "မွမ်းမံချက်ကို ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
 <!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
+<!ENTITY updater_apply_title3 "&brandShortName; အတွက် မွမ်းမံချက်ကို ဆွဲယူပြီးပြီ">
+<!ENTITY updater_apply_select3 "တပ်ဆင်ရန် တို့ထိပါ">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -828,13 +833,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "စာအမှတ်များထဲသို့ ထည့်ပါ">
 
 <!ENTITY activity_stream_topsites "လူကြည့်အများဆုံးဆိုဒ်များ">
+<!ENTITY activity_stream_highlights "ဦးစားပေးအကြောင်းအရာများ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "စာမှတ်ထားသော">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "ကြည့်ရှုထားသော">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "ပိတ်ပါ">
+<!ENTITY activity_stream_delete_history "မှတ်တမ်းမှ ဖျက်ပါ">
 
+<!ENTITY activity_stream_welcome_title "ဦးစားပေးအကြောင်းအရာများကနေ ကြိုဆိုပါသည်">
