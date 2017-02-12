@@ -207,3 +207,6 @@
 <!ENTITY simulator_device "Прылада">
 <!ENTITY simulator_screenSize "Экран">
 <!ENTITY simulator_pixelRatio "Суадносіны пікселяў">
+<!ENTITY simulator_tv_data "Сімуляцыя ТБ">
+<!ENTITY simulator_tv_data_open "Звесткі канфігурацыі">
+<!ENTITY simulator_tv_data_open_button "Адкрыць каталог канфігурацыі…">
