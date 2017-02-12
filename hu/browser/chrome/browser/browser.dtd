@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Keret megnyitása új ablakban">
 <!ENTITY openFrameCmd.accesskey       "a">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Hivatkozás megnyitása új konténerlapon">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -624,17 +624,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "‌">
 
 <!ENTITY fullZoomReduceCmd.label        "Kicsinyítés">
 <!ENTITY fullZoomReduceCmd.accesskey    "K">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "‌">
 
 <!ENTITY fullZoomResetCmd.label         "Visszaállítás">
 <!ENTITY fullZoomResetCmd.accesskey     "V">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‌">
 
 <!ENTITY fullZoomToggleCmd.label        "Csak a szöveg nagyítása">
 <!ENTITY fullZoomToggleCmd.accesskey    "C">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Másolás">
 <!ENTITY syncedTabs.context.copy.accesskey                   "M">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Mindegyik megnyitása külön lapon">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "m">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

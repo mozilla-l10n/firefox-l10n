@@ -41,8 +41,8 @@
 <!ENTITY setup.tosLink.label        "szolgáltatás feltételeivel">
 <!ENTITY setup.tosAgree2.label      "és az">
 <!ENTITY setup.ppLink.label         "adatvédelmi irányelvekkel">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree3.label      "‌">
+<!ENTITY setup.tosAgree2.accesskey  "‌">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "A &brandShortName; ügyel adatai védelmére">
@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Szinkronizálandó">
 <!ENTITY engine.bookmarks.label     "Könyvjelzők">
 <!ENTITY engine.bookmarks.accesskey "K">
-
-
+<!ENTITY engine.tabs.label2         "Nyitott lapok">
+<!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Előzmények">
 <!ENTITY engine.history.accesskey   "E">
 <!ENTITY engine.passwords.label     "Jelszavak">

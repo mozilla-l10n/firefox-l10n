@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "f">
 <!ENTITY toolsMenu.tooltip                    "Eszközök minden kiegészítőhöz">
 
-
+<!ENTITY getThemes.description                "Szeretné testreszabni böngészőjét?">
+<!ENTITY getThemes.learnMore                  "Válogasson több ezer téma közül.">
 
 <!ENTITY cmd.back.tooltip                     "Ugrás az előző oldalra">
 <!ENTITY cmd.forward.tooltip                  "Ugrás a következő oldalra">
