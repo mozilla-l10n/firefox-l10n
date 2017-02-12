@@ -148,13 +148,31 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "р">
 <!ENTITY  event.menu.options.show.time.label                  "Прикажи време као">
 <!ENTITY  event.menu.options.show.time.accesskey              "в">
+<!ENTITY  event.menu.options.show.time.busy.label             "Заузет">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "З">
+<!ENTITY  event.menu.options.show.time.free.label             "Слободан">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "С">
 
+<!ENTITY event.invite.attendees.label                     "Позови полазнике…">
+<!ENTITY event.invite.attendees.accesskey                 "П">
+<!ENTITY event.email.attendees.label                      "Састави мејл за све полазнике…">
+<!ENTITY event.email.attendees.accesskey                  "в">
+<!ENTITY event.email.tentative.attendees.label            "Састави мејл за неодлучене полазнике…">
+<!ENTITY event.email.tentative.attendees.accesskey        "н">
+<!ENTITY event.remove.attendees.label2                    "Уклони све полазнике">
+<!ENTITY event.remove.attendees.accesskey                 "к">
+<!ENTITY event.remove.attendee.label                      "Уклони полазника">
+<!ENTITY event.remove.attendee.accesskey                  "л">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.delete.label                      "Уклони">
+<!ENTITY  event.toolbar.save.label2                       "Сачувај">
+<!ENTITY  event.toolbar.saveandclose.label                "Сачувај и затвори">
+<!ENTITY  event.toolbar.delete.label                      "Обриши">
 <!ENTITY  event.toolbar.attendees.label                   "Позови полазнике">
 <!ENTITY  event.toolbar.privacy.label                     "Приватност">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Сачувај">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Сачувај и затвори">
 <!ENTITY  event.toolbar.delete.tooltip                    "Обриши">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Позови полазнике">
 <!ENTITY  event.toolbar.attachments.tooltip               "Додај прилоге">
@@ -170,6 +188,12 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Примени предлог">
+<!ENTITY counter.button.proposal.accesskey                "п">
+<!ENTITY counter.button.proposal.tooltip2                 "Поља догађаја ће бити попуњена вредностима из контра-предлога, само чување са или без додатних измена ће исправно обавестити све полазнике">
+<!ENTITY counter.button.original.label                    "Примени изворне податке">
+<!ENTITY counter.button.original.accesskey                "р">
+<!ENTITY counter.button.original.tooltip2                 "Поља ће бити постављена на вредности из изворног догађаја, пре настанка контра-предлога">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Наслов:" >
@@ -235,11 +259,29 @@
 
 <!ENTITY event.reminder.multiple.label                    "Више подсетника…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Време као:">
+<!ENTITY event.statusbarpanel.privacy.label               "Приватност:">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Уреди понављање">
 
+<!ENTITY event.repeat.does.not.repeat.label             "Не понавља се">
+<!ENTITY event.repeat.daily.label                       "Дневно">
+<!ENTITY event.repeat.weekly.label                      "Недељно">
+<!ENTITY event.repeat.every.weekday.label               "Сваког радног дана">
+<!ENTITY event.repeat.bi.weekly.label                   "Сваке друге недеље">
+<!ENTITY event.repeat.monthly.label                     "Месечно">
+<!ENTITY event.repeat.yearly.label                      "Годишње">
+<!ENTITY event.repeat.custom.label                      "Прилагођено…">
 
+<!ENTITY event.recurrence.pattern.label                 "Шаблон понављања">
+<!ENTITY event.recurrence.occurs.label                  "Понављај" >
+<!ENTITY event.recurrence.day.label                     "дневно" >
+<!ENTITY event.recurrence.week.label                    "недељно" >
+<!ENTITY event.recurrence.month.label                   "месечно" >
+<!ENTITY event.recurrence.year.label                    "годишње" >
 
+<!ENTITY event.recurrence.pattern.every.label           "На сваких" >
 
 
 
