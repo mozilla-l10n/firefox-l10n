@@ -112,7 +112,7 @@
 <!ENTITY mediaPlaybackRate050.accesskey "l">
 <!ENTITY mediaPlaybackRate100.label     "Vitesse normale">
 <!ENTITY mediaPlaybackRate100.accesskey "n">
-<!ENTITY mediaPlaybackRate125.label     "Vitesse rapide (×1¼)">
+<!ENTITY mediaPlaybackRate125.label     "Vitesse rapide (×1,25)">
 <!ENTITY mediaPlaybackRate125.accesskey "i">
 <!ENTITY mediaPlaybackRate150.label     "Vitesse rapide (×1,5)">
 <!ENTITY mediaPlaybackRate150.accesskey "r">
