@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Szimulátor beállításai">
 <!ENTITY simulator_remove "Szimulátor törlése">
 <!ENTITY simulator_reset "Alapértelmezések visszaállítása">
-
+<!ENTITY simulator_name "Név">
 <!ENTITY simulator_software "Szoftver">
 <!ENTITY simulator_version "Verzió">
 <!ENTITY simulator_profile "Profil">
