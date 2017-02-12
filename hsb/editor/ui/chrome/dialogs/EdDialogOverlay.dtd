@@ -5,9 +5,9 @@
 <!ENTITY AdvancedEditButton.label "Rozšěrjene wobdźěłanje…">
 <!ENTITY AdvancedEditButton.accessKey "R">
 <!ENTITY AdvancedEditButton.tooltip "HTML-atributy, stilowe atribute a JavaScript přidać abo změnić">
-<!ENTITY chooseFileButton.label "Dataju wubrać…">
+<!ENTITY chooseFileButton.label "Dataju wubrać...">
 <!ENTITY chooseFileButton.accessKey "D">
-<!ENTITY chooseFileLinkButton.label "Dataju wubrać…">
+<!ENTITY chooseFileLinkButton.label "Dataju wubrać...">
 <!ENTITY chooseFileLinkButton.accessKey "b">
 <!ENTITY makeUrlRelative.label "URL je relatiwny k adresy strony">
 <!ENTITY makeUrlRelative.accessKey "r">
