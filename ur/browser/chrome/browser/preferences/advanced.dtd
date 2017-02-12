@@ -81,7 +81,7 @@
 <!ENTITY overrideSmartCacheSize.label    "خودکار کیسہ بندوبست زیر کریں">
 <!ENTITY overrideSmartCacheSize.accesskey "ز">
 
-<!ENTITY updateTab.label                 "تازہ کاری کریں">
+<!ENTITY updateTab.label                 "تازہ کاری">
 
 <!ENTITY updateApplication.label         "&brandShortName; تازہ کاریاں:">
 <!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
