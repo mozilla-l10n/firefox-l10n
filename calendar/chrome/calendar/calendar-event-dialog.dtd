@@ -291,7 +291,26 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Сваких" >
 <!ENTITY repeat.units.months.both                       "Месец(и)" >
+<!ENTITY event.recurrence.monthly.every.label           "Сваких" >
+<!ENTITY event.recurrence.monthly.first.label           "Сваког">
+<!ENTITY event.recurrence.monthly.second.label          "Првог">
+<!ENTITY event.recurrence.monthly.third.label           "Другог">
+<!ENTITY event.recurrence.monthly.fourth.label          "Четвртог">
+<!ENTITY event.recurrence.monthly.fifth.label           "Петог">
+<!ENTITY event.recurrence.monthly.last.label            "Последњег">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Недеља" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Понедељак" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Уторак" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Среда" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Четвртак" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Петак" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Субота" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Дан у месецу">
+<!ENTITY event.recurrence.repeat.recur.label            "Понављај на дан(е)">
 
+<!ENTITY event.recurrence.every.label                        "На сваких:" >
+<!ENTITY repeat.units.years.both                             "Година(е)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "На сваких" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -300,7 +319,21 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Јануар" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Фебруар" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Март" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Април" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Мај" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Јун" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Јул" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Август" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Септембар" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Октобар" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Новембар" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Децембар" >
+<!ENTITY event.recurrence.yearly.every.label                 "На сваких">
 
 
 <!-- Attendees dialog -->
