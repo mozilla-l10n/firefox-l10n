@@ -518,10 +518,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nom d’utilisateur">
 <!ENTITY doorhanger_login_edit_password_hint "Mot de passe">
 <!ENTITY doorhanger_login_edit_toggle "Afficher le mot de passe">
-<!ENTITY doorhanger_login_edit_toast_error "Échec de l’enregistrement du nom d’utilisateur">
 <!ENTITY doorhanger_login_select_message "Copier le mot de passe depuis &formatS; ?">
 <!ENTITY doorhanger_login_select_toast_copy "Mot de passe copié dans le presse-papiers">
-<!ENTITY doorhanger_login_select_toast_copy_error "Impossible de copier le mot de passe">
 <!ENTITY doorhanger_login_select_action_text "Sélectionner un autre nom d’utilisateur">
 <!ENTITY doorhanger_login_select_title "Copier le mot de passe depuis">
 
