@@ -25,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "μ">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkUserSpelling.label         "Έλεγχος ορθογραφίας κατά την πληκτρολόγηση">
+<!ENTITY checkUserSpelling.accesskey     "π">
 
 <!ENTITY dataChoicesTab.label            "Επιλογές δεδομένων">
 
@@ -58,6 +60,7 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Δεδομένα ιστοσελίδας">
 <!ENTITY clearSiteData.label             "Εκκαθάριση όλων των δεδομένων">
+<!ENTITY clearSiteData.accesskey         "φ">
 <!ENTITY siteDataSettings.label          "Ρυθμίσεις…">
 <!ENTITY siteDataSettings.accesskey      "ι">
 <!ENTITY siteDataLearnMoreLink.label     "Μάθετε περισσότερα">
@@ -83,6 +86,8 @@
 <!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
 <!ENTITY updateAuto1.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: βελτιωμένη ασφάλεια)">
 <!ENTITY updateAuto1.accesskey           "Α">
+<!ENTITY updateCheckChoose.label         "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση">
+<!ENTITY updateCheckChoose.accesskey     "Ε">
 <!ENTITY updateManual.label              "Κανένας έλεγχος για ενημερώσεις (δεν προτείνεται: επισφαλής επιλογή)">
 <!ENTITY updateManual.accesskey          "μ">
 
