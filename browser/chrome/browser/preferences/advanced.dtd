@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Siempre usar las teclas del cursor para navegar entre páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Buscar texto al empezar a escribir">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Avisarme cuando sitios web traten de redirigir o recargar la página">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar un teclado táctil cuando sea necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "M">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkUserSpelling.label         "Verificar ortografía al escribir">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
@@ -77,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Actualizaciones">
 
+<!ENTITY updateApplication.label         "Actualizaciones de &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: seguridad mejorada)">
 <!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheckChoose.label         "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
+<!ENTITY updateCheckChoose.accesskey     "c">
 <!ENTITY updateManual.label              "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,9 +97,12 @@
 <!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey            "U">
 
+<!ENTITY autoUpdateOthers.label          "Actualizar automáticamente">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
+<!ENTITY offlineStorageNotify.label               "Avisarme cuando un sitio pida guardar datos para usar sin conexión">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepciones…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -102,6 +114,9 @@
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certPersonal.label              "Pedidos">
+<!ENTITY certPersonal.description        "Cuando un servidor solicite mi certificado personal:">
+<!ENTITY selectCerts.auto                "Seleccionar uno automáticamente">
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Preguntarme cada vez">
 <!ENTITY selectCerts.ask.accesskey       "a">
 <!ENTITY enableOCSP.label                "Solicitar a los servidores respondedores de OCSP que confirmen la validez actual de los certificados">
