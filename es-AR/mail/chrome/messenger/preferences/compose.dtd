@@ -54,6 +54,7 @@
 <!ENTITY directoriesNone.label                 "Ninguno">
 <!ENTITY editDirectories.label                 "Editar directorios…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefaultLast.label               "Último directorio usado">
 
 <!ENTITY sendOptionsDescription.label          "Configurar el comportamiento del formato de texto">
 <!ENTITY sendOptions.label                     "Opciones de envío…">
