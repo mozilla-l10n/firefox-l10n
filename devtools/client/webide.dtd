@@ -2,23 +2,104 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Праект">
+<!ENTITY projectMenu_accesskey "П">
+<!ENTITY projectMenu_newApp_label "Стварыць…">
+<!ENTITY projectMenu_newApp_accesskey "т">
+<!ENTITY projectMenu_importPackagedApp_label "Адкрыць упакаваны…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "п">
+<!ENTITY projectMenu_importHostedApp_label "Адкрыць змешчаны…">
+<!ENTITY projectMenu_importHostedApp_accesskey "з">
+<!ENTITY projectMenu_selectApp_label "Адкрыць…">
+<!ENTITY projectMenu_selectApp_accesskey "А">
+<!ENTITY projectMenu_play_label "Усталяваць і запусціць">
+<!ENTITY projectMenu_play_accesskey "з">
+<!ENTITY projectMenu_stop_label "Спыніць">
+<!ENTITY projectMenu_stop_accesskey "ы">
+<!ENTITY projectMenu_debug_label "Адладзіць">
+<!ENTITY projectMenu_debug_accesskey "д">
+<!ENTITY projectMenu_remove_label "Сцерці праект">
+<!ENTITY projectMenu_remove_accesskey "к">
+<!ENTITY projectMenu_showPrefs_label "Настаўленні">
+<!ENTITY projectMenu_showPrefs_accesskey "е">
+<!ENTITY projectMenu_manageComponents_label "Кіраваць дадатковымі кампанентамі">
+<!ENTITY projectMenu_manageComponents_accesskey "ь">
+<!ENTITY projectMenu_refreshTabs_label "Абнавіць карткі">
 
+<!ENTITY runtimeMenu_label "У часе выканання">
+<!ENTITY runtimeMenu_accesskey "к">
+<!ENTITY runtimeMenu_disconnect_label "Адлучыць">
+<!ENTITY runtimeMenu_disconnect_accesskey "д">
+<!ENTITY runtimeMenu_takeScreenshot_label "Здымак экрана">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "ы">
+<!ENTITY runtimeMenu_showDetails_label "Звесткі часу выканання">
+<!ENTITY runtimeMenu_showDetails_accesskey "у">
+<!ENTITY runtimeMenu_showMonitor_label "Манітор">
+<!ENTITY runtimeMenu_showMonitor_accesskey "М">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Настаўленні прылады">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "п">
+<!ENTITY runtimeMenu_showSettings_label "Настройкі прылады">
+<!ENTITY runtimeMenu_showSettings_accesskey "ы">
 
+<!ENTITY viewMenu_label "Прагляд">
+<!ENTITY viewMenu_accesskey "П">
+<!ENTITY viewMenu_toggleEditor_label "Пераключыць рэдактар">
+<!ENTITY viewMenu_toggleEditor_accesskey "р">
+<!ENTITY viewMenu_zoomin_label "Павялічыць">
+<!ENTITY viewMenu_zoomin_accesskey "в">
+<!ENTITY viewMenu_zoomout_label "Паменшыць">
+<!ENTITY viewMenu_zoomout_accesskey "м">
+<!ENTITY viewMenu_resetzoom_label "Скінуць павелічэнне">
+<!ENTITY viewMenu_resetzoom_accesskey "к">
 
+<!ENTITY projectButton_label "Адкрыць прыкладанне">
+<!ENTITY runtimeButton_label "Выбраць асяроддзе">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "ц">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "ў">
 <!-- reload app -->
+<!ENTITY key_play "к">
 <!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "І">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Мае праекты">
+<!ENTITY projectPanel_runtimeApps "Выконваюцца">
+<!ENTITY projectPanel_tabs "Карткі">
+<!ENTITY runtimePanel_usb "Прылады USB">
+<!ENTITY runtimePanel_wifi "Прылады Wi-Fi">
+<!ENTITY runtimePanel_simulator "Сімулятары">
+<!ENTITY runtimePanel_other "Іншае">
+<!ENTITY runtimePanel_installsimulator "Устанавіць сімулятар">
+<!ENTITY runtimePanel_noadbhelper "Усталяваць дапаможнік ADB">
+<!ENTITY runtimePanel_nousbdevice "Не бачыце сваю прыладу?">
+<!ENTITY runtimePanel_refreshDevices_label "Абнавіць прылады">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "дапушчальны">
+<!ENTITY details_warning_header "папярэджанні">
+<!ENTITY details_error_header "памылкі">
+<!ENTITY details_description "Апісанне">
+<!ENTITY details_location "Месцазнаходжанне">
+<!ENTITY details_manifestURL "Ідэнтыфікатар">
+<!ENTITY details_removeProject_button "Сцерці праект">
+<!ENTITY details_showPrepackageLog_button "Паказаць журнал перадпакавання">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "Новы">
+<!ENTITY newAppHeader "Выберыце шаблон">
+<!ENTITY newAppLoadingTemplate "Чытаюцца шаблоны…">
 
 
 <!-- Decks -->
