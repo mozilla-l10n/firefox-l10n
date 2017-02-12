@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label                "پاپ اپ">
 
-<!ENTITY  blockPopups.label           "پوپ اپ وینڈوز بلاک کیجیے">
+<!ENTITY  blockPopups.label           "پوپ اپ دریچے بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
 
 <!ENTITY  notificationsPolicy.label            "اعلانات">

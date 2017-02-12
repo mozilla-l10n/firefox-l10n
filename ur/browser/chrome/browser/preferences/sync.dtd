@@ -49,7 +49,7 @@
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "سروس کی ٹرمز">
-<!ENTITY prefs.ppLink.label         "پالیسی نجی نوعیت">
+<!ENTITY prefs.ppLink.label         "رازداری پالیسی">
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "اطلاع نامہ نجی نوعیت">
