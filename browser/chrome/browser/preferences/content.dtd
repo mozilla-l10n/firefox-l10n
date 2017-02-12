@@ -51,7 +51,7 @@
   -->
 
 <!ENTITY translation.options.attribution.beforeLogo "Fordítás:">
-<!ENTITY translation.options.attribution.afterLogo "">
+<!ENTITY translation.options.attribution.afterLogo "‌">
 
 <!ENTITY  drmContent.label             "DRM tartalom">
 

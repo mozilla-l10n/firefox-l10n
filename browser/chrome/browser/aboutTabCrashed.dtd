@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Értesítő e-mailt kérek a további információkról">
 <!ENTITY tabCrashed.reportSent "A hibajelentés már be lett küldve, köszönjük segítségét a &brandShortName; jobbá tételéhez!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Háttérben lévő lapok jelentése">
-
+<!ENTITY tabCrashed.autoSubmit2 "A beállítások módosítása, hogy a hibajelentések automatikusan elküldésre kerüljenek – a háttérben lévő lapok esetén is, ebben, illetve a jövőbeni munkamenetekben.">
