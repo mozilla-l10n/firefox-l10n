@@ -15,12 +15,12 @@
 <!ENTITY importFromEdge.accesskey       "ع">
 <!ENTITY importFromNothing.label        "کچھ درآمد نہ کریں ">
 <!ENTITY importFromNothing.accesskey    "ن">
-<!ENTITY importFromSafari.label         "سفاری ">
-<!ENTITY importFromSafari.accesskey     "س">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "کروم کینری">
 <!ENTITY importFromCanary.accesskey     "ی">
-<!ENTITY importFromChrome.label         "کروم ">
-<!ENTITY importFromChrome.accesskey     "ک">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "کرومیم">
 <!ENTITY importFromChromium.accesskey   "م">
 <!ENTITY importFromFirefox.label        "فائر فاکس ">

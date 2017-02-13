@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; بلا منافع Mozilla Foundation کی طرف سے مفت اور کھلا ماخذ سافٹ ویئر ہے۔ <a>…اپنے حقوق جانیئے</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "کتابی نشانات">
+<!ENTITY abouthome.bookmarksButton.label "نشانیاں">
 <!ENTITY abouthome.historyButton.label   "تاریخچہ">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
