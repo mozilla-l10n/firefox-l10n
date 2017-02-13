@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "Б">
 <!ENTITY closeTabCmd2.label "Бетті жабу">
 <!ENTITY closeTabCmd2.accesskey "Б">
-
-
+<!ENTITY closeOtherTabsCmd2.label "Басқа беттерді жабу">
+<!ENTITY closeOtherTabsCmd2.accesskey "с">
 <!ENTITY recentlyClosedTabsCmd.label "Жақында жабылған беттер">
 <!ENTITY recentlyClosedTabsCmd.accesskey "ы">
 
@@ -43,8 +43,8 @@
 <!ENTITY saveAsFileCmd.label "Файл">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "с">
-
-
+<!ENTITY saveAsTemplateCmd.label "Үлгі">
+<!ENTITY saveAsTemplateCmd.accesskey "л">
 
 
 
@@ -108,8 +108,8 @@
 
 
 
-
-
+<!ENTITY folderPropsCmd2.label "Қасиеттері">
+<!ENTITY folderPropsFolderCmd2.label "Бума қасиеттері">
 
 
 
@@ -271,7 +271,7 @@
 
 <!ENTITY findAgainCmd.key2 "VK_F3">
 
-
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 
 
@@ -313,8 +313,8 @@
 
 
 
-
-
+<!ENTITY folderMenu.label "Бума">
+<!ENTITY folderMenu.accesskey "м">
 <!ENTITY goRecentlyClosedTabs.label "Жақында жабылған беттер">
 <!ENTITY goRecentlyClosedTabs.accesskey "ы">
 
@@ -323,8 +323,8 @@
 
 <!ENTITY msgMenu.label "Хабарлама">
 <!ENTITY msgMenu.accesskey "Х">
-
-
+<!ENTITY newMsgCmd.label "Жаңа хабарлама">
+<!ENTITY newMsgCmd.accesskey "Ж">
 <!ENTITY newNewMsgCmd.label "Хабарлама">
 <!ENTITY newNewMsgCmd.accesskey "Х">
 <!ENTITY archiveMsgCmd.label "Архивтеу">
@@ -383,11 +383,11 @@
 
 <!ENTITY tagMenu.label "Тег">
 <!ENTITY tagMenu.accesskey "г">
-
-
-
-
-
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
 <!ENTITY tagCmd5.key "5">
 <!ENTITY tagCmd6.key "6">
 <!ENTITY tagCmd7.key "7">
@@ -420,8 +420,8 @@
 
 
 
-
-
+<!ENTITY openMessageWindowCmd.label "Хабарламаны ашу">
+<!ENTITY openMessageWindowCmd.accesskey "ш">
 
 
 
@@ -503,6 +503,8 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!-- Mail Toolbar -->
@@ -565,14 +567,14 @@
 
 
 
-
+<!ENTITY markButton.tooltip "Хабарламаларды белгілеу">
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 
 
 
 
 
-
+<!ENTITY tagButton.tooltip "Хабарламаларға тег қою">
 
 
 <!-- Toolbar Button Popup -->
@@ -672,7 +674,7 @@
 <!ENTITY sizeColumn.label "Өлшемі">
 
 
-
+<!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
 
@@ -714,8 +716,8 @@
 
 
 
-
-
+<!ENTITY contextArchive.label "Архивтеу">
+<!ENTITY contextArchive.accesskey "х">
 
 
 
@@ -837,8 +839,8 @@
 
 
 
-
-
+<!ENTITY EditContact1.label "Контактты түзету">
+<!ENTITY EditContact1.accesskey "е">
 <!ENTITY ViewContact.label "Контактты қарау">
 <!ENTITY ViewContact.accesskey "К">
 
@@ -893,7 +895,7 @@
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
 <!ENTITY preferencesCmdMac2.label       "Баптаулар">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Қызметтер">
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; жасыру">

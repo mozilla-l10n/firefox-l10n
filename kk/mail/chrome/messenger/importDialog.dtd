@@ -13,8 +13,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Импорттау">
 
 
-
-
+<!ENTITY importMail.label         "Эл. пошта">
+<!ENTITY importMail.accesskey     "п">
 
 
 <!ENTITY importAddressbook.label  "Адрес кітапшалары">
