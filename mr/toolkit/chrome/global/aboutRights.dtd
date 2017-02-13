@@ -56,12 +56,12 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "here">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
+<!ENTITY rights3.webservices-c ". इतर वैशिष्ट्ये आणि सेवा अनुप्रयोग प्राधान्यक्रमा मध्ये निष्क्रीय केले जाऊ शकतात.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
+<!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राधान्यक्रम उघडा">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
 <!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; पर्यायापुढील खुण काढा">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">

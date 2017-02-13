@@ -38,7 +38,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "साधन प्राधान्ये">
+<!ENTITY runtimeMenu_showDevicePrefs_label "साधन प्राधान्यक्रम">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "साधन सेटिंग्स">
 <!ENTITY runtimeMenu_showSettings_accesskey "S">
@@ -156,8 +156,8 @@
 <!ENTITY device_typenone "प्रकार नीवडा">
 <!-- Device Preferences -->
 
-<!ENTITY devicepreference_title "साधन प्राधान्ये">
-<!ENTITY devicepreference_search "शोध प्राधान्ये">
+<!ENTITY devicepreference_title "साधन प्राधान्यक्रम">
+<!ENTITY devicepreference_search "शोध प्राधान्यक्रम">
 <!ENTITY devicepreference_newname "नवीन प्राधान्य नाव">
 <!ENTITY devicepreference_newtext "प्राधान्यता नाव">
 <!ENTITY devicepreference_addnew "नवीन प्राधान्य जोडा">
@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "सिम्युलेटर पर्याय">
 <!ENTITY simulator_remove "सिम्युलेटर नष्ट करा">
 <!ENTITY simulator_reset "पूर्वनिर्धारित मूळस्थितित आणा">
-
+<!ENTITY simulator_name "नाव">
 <!ENTITY simulator_software "सॉफ्टवेअर">
 <!ENTITY simulator_version "आवृत्ती">
 <!ENTITY simulator_profile "प्रोफाइलर">
