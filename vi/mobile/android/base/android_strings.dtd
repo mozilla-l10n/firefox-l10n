@@ -168,13 +168,13 @@
 <!ENTITY pref_category_search3 "Tìm kiếm">
 <!ENTITY pref_category_search_summary2 "Thêm, đặt mặc định, hiển thị gợi ý">
 <!ENTITY pref_category_accessibility "Khả năng truy cập">
-
+<!ENTITY pref_category_accessibility_summary2 "Cỡ chữ, thu phóng, ngõ vào thoại">
 <!ENTITY pref_category_privacy_short "Riêng tư">
+<!ENTITY pref_category_privacy_summary4 "Theo dõi, đăng nhập, lựa chọn dữ liệu">
 
-
-
+<!ENTITY pref_category_vendor_summary2 "Liên quan tới &brandShortName;, câu hỏi thường gặp, phản hồi">
 <!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
-
+<!ENTITY pref_category_logins "Đăng nhập">
 <!ENTITY pref_learn_more "Tìm hiểu thêm">
 <!ENTITY pref_category_installed_search_engines "Công cụ tìm kiếm đã được cài đặt">
 <!ENTITY pref_category_add_search_providers "Thêm nhiều công cụ tìm kiếm">
@@ -186,7 +186,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
+<!ENTITY pref_category_advanced "Nâng cao">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
