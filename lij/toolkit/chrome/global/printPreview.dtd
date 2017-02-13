@@ -32,9 +32,12 @@
 <!ENTITY Custom.label         "Personalizza…">
 <!ENTITY ShrinkToFit.label    "Riduxi pe adatâ">
 <!ENTITY customPrompt.title   "Scaa personale…">
+<!ENTITY simplifyPage.label   "Pagina semplice">
+<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Cangia a pagina pe êse lezua megio">
+<!ENTITY simplifyPage.disabled.tooltip "Sta pagina a no peu se peu senplificâ in outomatico">
 
 <!ENTITY homearrow.tooltip    "Primma pagina">
 <!ENTITY endarrow.tooltip     "Urtima pagina">
 <!ENTITY nextarrow.tooltip    "Pròscima pagina">
 <!ENTITY previousarrow.tooltip "Pagina precedente">
-

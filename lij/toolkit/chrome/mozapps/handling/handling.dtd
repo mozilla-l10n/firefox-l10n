@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Çerni 'na Aplicaçion">
+<!ENTITY ChooseOtherApp.description "Çerni atra aplicaçion">
 <!ENTITY ChooseApp.label "Çerni…">
 <!ENTITY ChooseApp.accessKey "i">
-
+<!ENTITY accept "Arvi colegamento">
