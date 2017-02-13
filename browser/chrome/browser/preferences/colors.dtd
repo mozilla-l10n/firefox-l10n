@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "पृष्ठाद्वारे निर्दिष्ट केलेले रंग, वरील निवडीने ओव्हरराईड करा:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "नेहमी">
 <!ENTITY  overrideDefaultPageColors.auto.label   "केवळ उच्च विरोधी रंगसंगतीच्या संकल्पनांसोबत">

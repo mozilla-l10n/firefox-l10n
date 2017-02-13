@@ -23,7 +23,7 @@
 <!ENTITY tabCrashed.sendReport2 "तुम्ही पाहत असलेल्या टॅबचा क्रॅश अहवाल पाठवा">
 <!ENTITY tabCrashed.commentPlaceholder2 "पर्यायी टिपण्णी (टिपण्णी सार्वजनिकरित्या दृष्यास्पद आहे)">
 <!ENTITY tabCrashed.includeURL2 "ह्या क्रॅश अहवालासोबत पृष्ठाची URL समाविष्ट करा">
-<!ENTITY tabCrashed.emailPlaceholder "आपला ईमेल पत्ता प्रविष्ट करा">
+<!ENTITY tabCrashed.emailPlaceholder "आपला ईमेल पत्ता येथे प्रविष्ट करा">
 <!ENTITY tabCrashed.emailMe "अधिक माहिती उपलब्ध झाल्यास मला ईमेल करा">
 <!ENTITY tabCrashed.reportSent "क्रॅश अहवाल आधीच सादर केला आहे; &brandShortName; अधिक चांगले बनविण्यास मदत केल्याबद्दल आपले धन्यवाद !">
 <!ENTITY tabCrashed.requestAutoSubmit2 "पार्श्वभूमी टॅबचा अहवाल द्या">

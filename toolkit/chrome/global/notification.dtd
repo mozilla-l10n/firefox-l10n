@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "आणखी शिका…">
 
-
+<!ENTITY defaultButton.label "ठीक आहे!">
+<!ENTITY defaultButton.accesskey "O">

@@ -143,8 +143,8 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
-<!ENTITY options.timestampMessages.label      "टाइमस्टॅम्प्स सुरू करा">
-<!ENTITY options.timestampMessages.tooltip    "हे पर्याय आदेश सुरू केल्यास वेब कंसोलमधील आउटपुट टाइमस्टॅम्प दाखवेल">
+<!ENTITY options.timestampMessages.label      "टाइमस्टॅंप्स सक्रीय करा">
+<!ENTITY options.timestampMessages.tooltip    "हे पर्याय आदेश सुरू केल्यास वेब कंसोलमधील आउटपुट टाइमस्टॅंप दाखवेल">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 
