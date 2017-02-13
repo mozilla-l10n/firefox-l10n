@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "‌">
 
 <!ENTITY dnsNotFound.title "सर्व्हर आढळला नाही">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>टाइपिंग त्रुटी जसे की <strong>www</strong>.example.com च्या व्यतिरिक्त <strong>ww</strong>.example.com</li> ला आळा घालण्यासाठी पत्ता तपासा <li>कुठलेही पृष्ठ दाखल करू न शकल्यास, आपल्या संगणकाचे नेटवर्क जोडणी तपासून पहा.</li> <li>संगणक किंवा नेटवर्क फायरवॉल किंवा प्रॉक्सी संरक्षित असल्यास, &brandShortName; ला वेब प्रवेश प्राप्त होईल याची खात्री करा.</li> </ul>">
@@ -30,7 +30,8 @@
 <!ENTITY generic.title "ओह.">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणास्तव हे पृष्ठ दाखल करू शकत नाही.</p>">
 
-
+<!ENTITY captivePortal.title "नेटवर्कमध्ये लॉग इन करा">
+<!ENTITY captivePortal.longDesc "<p>ह्या नेटवर्कवर इंटरनेट वापरण्यासाठी आपणास लॉग-इन करावे लागू शकते.</p>">
 
 <!ENTITY openPortalLoginPage.label "लॉगईन पृष्ठ उघडा">
 
