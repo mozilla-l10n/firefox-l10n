@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTime_systemDate'/> या वेळेवर आहे, जो की <span id='wrongSystemTime_actualDate'/> या वेळेवर असायला हवा होता. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName;  <span id='wrongSystemTimeWithoutReference_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTimeWithoutReference_URL'/> या वेळेवर आहे. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">

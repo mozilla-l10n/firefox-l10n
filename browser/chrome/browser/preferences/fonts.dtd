@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "अलंकृत">
 <!ENTITY  useDefaultFontSansSerif.label           "निलंकृत">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "वरील आपल्या प्राधान्या ऐवजी, पृष्ठांना स्वतःचे टंक निवडण्यास परवानगी द्या">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग">
 <!ENTITY languages.customize.Fallback2.label      "फॉलबॅक मजकूर एन्कोडिंग:">

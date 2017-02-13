@@ -41,8 +41,8 @@
 <!ENTITY setup.tosLink.label        "सेवांच्या अटी">
 <!ENTITY setup.tosAgree2.label      "व ते">
 <!ENTITY setup.ppLink.label         "गोपणीयता धोरण">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree3.label      "‌">
+<!ENTITY setup.tosAgree2.accesskey  "‌">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; आपल्या गोपणीयताची आम्ही काळजी घेतो">
@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "माझे सिंक करा">
 <!ENTITY engine.bookmarks.label     "वाचनखुणा">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "टॅब्स उघडा">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "पासवर्डस्">

@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "ताळमेळ करा">
 <!ENTITY engine.bookmarks.label     "वाचनखुणा">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "टॅब्स उघडा">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "पासवर्डस्">
@@ -60,7 +60,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.beforename.label "‌">
 <!ENTITY signedInUnverified.aftername.label "चाचणी झाली नाही.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
@@ -69,7 +69,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInLoginFailure.beforename.label "पुन्हा जोडणीकरिता कृपया साइन करा">
-<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY signedInLoginFailure.aftername.label "‌">
 
 <!ENTITY notSignedIn.label           "आपण साइन इन केले नाही.">
 <!ENTITY signIn.label                "साइन इन">
