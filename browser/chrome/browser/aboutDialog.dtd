@@ -63,6 +63,7 @@
 <!ENTITY update.adminDisabled       "I agiornamenti en dizabilitæ da-o teu aministratô do scistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "Agiornamento de &brandShortName; inte n'atra istansa">
+<!ENTITY update.restarting          "Arvo torna…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

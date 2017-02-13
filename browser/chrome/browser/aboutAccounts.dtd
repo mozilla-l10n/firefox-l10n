@@ -11,3 +11,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Conescion no disponibile">
 <!ENTITY aboutAccounts.noConnection.description "Serve 'na conescion a Internet pe acede.">
 <!ENTITY aboutAccounts.noConnection.retry "Preuva torna">
+<!ENTITY aboutAccounts.badConfig.title "Configuraçion sbaliâ">
+<!ENTITY aboutAccounts.badConfig.description "No pòsso determinâ a configuraçion do teu account Firefox. Pe piaxéi preuva dòppo.">
