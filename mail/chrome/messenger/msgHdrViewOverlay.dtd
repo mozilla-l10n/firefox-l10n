@@ -2,48 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY fromField4.label "Кімнен">
+<!ENTITY senderField4.label "Жiберушi">
+
+<!ENTITY organizationField4.label "Ұйым">
+
+
+<!ENTITY subjectField4.label "Тақырыбы">
+
+
+<!ENTITY newsgroupsField4.label "Жаңалықтар топтары">
+
+<!ENTITY tagsHdr4.label "Тегтер">
+
+
+<!ENTITY referencesField4.label "Сiлтемелер">
+
+
+<!ENTITY originalWebsite4.label "Веб сайты">
+
+<!ENTITY hdrArchiveButton1.label "Архивтеу">
+<!ENTITY hdrArchiveButton1.tooltip "Бұл хабарламаны архивтеу">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY hdrReplyButton1.label "Жауап беру">
 
 <!ENTITY hdrReplyAllButton1.label "Барлығына жауап беру">
 
+<!ENTITY hdrReplyListButton1.label "Тізімге жауап беру">
 
 
 
 
-
-
+<!ENTITY hdrForwardButton1.label "Қайта бағдарлау">
 
 <!ENTITY hdrJunkButton1.label "Ескі-құсқы">
 
+<!ENTITY hdrTrashButton1.label "Өшіру">
 
 
 
 
 
-
-
-
+<!ENTITY hdrViewToolbarShowText.label "Тек мәтінді көрсету">
+<!ENTITY hdrViewToolbarShowText.accesskey "т">
 
 
 
@@ -51,34 +53,36 @@
 
 
 
-
-
+<!ENTITY otherActionsOpenInNewWindow1.label "Жаңа терезеде ашу">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "р">
 <!ENTITY otherActionsOpenInNewTab1.label "Жаңа бетте ашу">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "т">
 
 
 
 
+<!ENTITY saveAsMenuItem1.label "Қалайша сақтау…">
+<!ENTITY saveAsMenuItem1.accesskey "с">
 
 
-
-
-
-
+<!ENTITY otherActionsPrint1.label "Баспаға шығару…">
+<!ENTITY otherActionsPrint1.accesskey "п">
 <!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
 
-
-
+<!ENTITY openAttachmentCmd.label    "Ашу">
+<!ENTITY openAttachmentCmd.accesskey    "А">
+<!ENTITY saveAsAttachmentCmd.label    "Қалайша сақтау…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "с">
 
 
 <!ENTITY deleteAttachmentCmd.label    "Өшіру">
 <!ENTITY deleteAttachmentCmd.accesskey    "ш">
 
 
-
-
+<!ENTITY saveAllAttachmentsCmd.label    "Барлығын сақтау…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "с">
 
 
 
@@ -86,10 +90,13 @@
 
 <!-- Attachment toolbar items -->
 
+<!ENTITY saveAttachmentButton1.label       "Сақтау">
+
+<!ENTITY saveAllAttachmentsButton1.label   "Барлығын сақтау">
 
 
-
-
+<!ENTITY copyLinkCmd.label        "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.accesskey    "С">
 
 
 

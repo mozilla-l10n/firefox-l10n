@@ -4,5 +4,5 @@
 <!--LOCALIZATION NOTE sendProgress.dtd Main UI for Send Message Progress Dialog -->
 
 <!ENTITY sendDialog.title "Хабарламаны өңдеу">
-
-
+<!ENTITY status.label "Қалып-күйі:">
+<!ENTITY progress.label "Барысы:">

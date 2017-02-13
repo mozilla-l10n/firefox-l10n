@@ -5,8 +5,8 @@
 
 
 
-
-
+<!ENTITY subject.label                    "Тақырыбы">
+<!ENTITY subject.accesskey                "Т">
 
 
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
@@ -16,4 +16,4 @@ totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 
-
+<!ENTITY  totalOpenTimeEnd.label          "секунд">

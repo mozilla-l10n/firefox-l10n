@@ -8,15 +8,15 @@
 
 
 
+<!ENTITY radioAlwaysOnlineState.label "Желіде">
+<!ENTITY radioAlwaysOnlineState.accesskey "л">
+<!ENTITY radioAlwaysOffline.label "Желіде емес">
+<!ENTITY radioAlwaysOffline.accesskey "м">
 
-
-
-
-
-
-
-
-
+<!ENTITY radioAutoSend.label "Иә">
+<!ENTITY radioAutoSend.accesskey "И">
+<!ENTITY radioNotSend.label "Жоқ">
+<!ENTITY radioNotSend.accesskey "о">
 
 
 

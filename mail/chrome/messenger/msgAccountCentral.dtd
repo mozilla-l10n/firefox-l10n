@@ -2,14 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY emailSectionHdr.label        "Эл. пошта">
 
 
 
+<!ENTITY newsSectionHdr.label         "Жаңалықтар топтары">
 
 
+<!ENTITY feedsSectionHdr.label        "Жаңалықтар таспалары">
 
 
+<!ENTITY chat.label                   "Чат">
 
+
+<!ENTITY accountsSectionHdr.label     "Тіркелгілер">
 
 
 <!ENTITY newAcctLink.label            "Жаңа тіркелгіні жасау">

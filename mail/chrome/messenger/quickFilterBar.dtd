@@ -49,6 +49,8 @@
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+
+<!ENTITY quickFilterBar.inaddrbook.label "Контакт">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
@@ -58,6 +60,8 @@
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+
+<!ENTITY quickFilterBar.tags.label "Тегтер">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
@@ -66,6 +70,8 @@
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+
+<!ENTITY quickFilterBar.attachment.label "Салыным">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
@@ -83,6 +89,8 @@
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
+
+<!ENTITY quickFilterBar.resultsLabel.none "Нәтижелер жоқ">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
      so that a 3 or 4 digit number of messages in the results can be displayed
@@ -148,14 +156,20 @@
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.sender.label "Жiберушi">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.recipients.label "Алушылар">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.subject.label "Тақырыбы">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.

@@ -6,8 +6,10 @@
 <!ENTITY msgComposeWindow.title "Жазу: (тақырыпсыз)">
 <!-- File Menu -->
 
-
-
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY newMenu.label "Жаңа">
+<!ENTITY newMenu.accesskey "Ж">
 <!ENTITY newMessage.label "Хабарлама">
 
 
@@ -16,8 +18,8 @@
 <!ENTITY newContact.accesskey "к">
 
 
-
-
+<!ENTITY attachFileCmd.label "Файл(дар)…">
+<!ENTITY attachFileCmd.accesskey "Ф">
 
 
 
@@ -28,16 +30,16 @@
 <!ENTITY attachVCardCmd.accesskey "Ж">
 
 
-
-
-
+<!ENTITY closeCmd.label "Жабу">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Ж">
 <!ENTITY saveCmd.label "Сақтау">
-
+<!ENTITY saveCmd.key "с">
 <!ENTITY saveCmd.accesskey "С">
 <!ENTITY saveAsCmd.label "Қалайша сақтау">
 <!ENTITY saveAsCmd.accesskey "й">
-
-
+<!ENTITY saveAsFileCmd.label "Файл…">
+<!ENTITY saveAsFileCmd.accesskey "Ф">
 
 
 <!ENTITY saveAsTemplateCmd.label "Үлгі">
@@ -52,31 +54,33 @@
 <!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Алдын-ала қарау">
 <!ENTITY printPreviewCmd.accesskey "А">
-
-
-
+<!ENTITY printCmd.label "Баспаға шығару…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "п">
 <!-- Edit Menu -->
 
-
-
-
+<!ENTITY editMenu.label "Түзету">
+<!ENTITY editMenu.accesskey "Т">
+<!ENTITY undoCmd.label "Болдырмау">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Б">
 <!ENTITY redoCmd.label "Қайталау">
-
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "й">
+<!ENTITY cutCmd.label "Қиып алу">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "и">
+<!ENTITY copyCmd.label "Көшіріп алу">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Кірістіру">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "р">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY deleteCmd.label "Өшіру">
+<!ENTITY deleteCmd.accesskey "ш">
 
 
 <!ENTITY renameAttachmentCmd.label "Салынымды қайта атау...">
@@ -93,25 +97,27 @@
 <!ENTITY findAgainCmd.label "Іздеуді қайталау">
 <!ENTITY findAgainCmd.accesskey "з">
 
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Алдыңғысын табу">
+<!ENTITY findPrevCmd.accesskey "А">
 
-
-
-
-
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!-- View Menu -->
 
-
-
-
-
+<!ENTITY viewMenu.label "Түрі">
+<!ENTITY viewMenu.accesskey "р">
+<!ENTITY viewToolbarsMenuNew.label "Саймандар панельдері">
+<!ENTITY viewToolbarsMenuNew.accesskey "С">
+<!ENTITY menubarCmd.label "Мәзір жолағы">
+<!ENTITY menubarCmd.accesskey "М">
 
 
 
 
 <!ENTITY showTaskbarCmd.label "Қалып-күй жолағы">
 <!ENTITY showTaskbarCmd.accesskey "а">
-
-
+<!ENTITY customizeToolbar.label "Баптау…">
+<!ENTITY customizeToolbar.accesskey "а">
 
 
 <!-- Format Menu -->
@@ -122,7 +128,7 @@
 <!ENTITY optionsMenu.accesskey "а">
 
 
-
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
 
 
 
@@ -136,6 +142,8 @@
 
 
 
+<!ENTITY autoFormatCmd.label "Автоанықтау">
+<!ENTITY autoFormatCmd.accesskey "А">
 
 
 
@@ -149,14 +157,12 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY lowPriorityCmd.label "Төмен">
+<!ENTITY lowPriorityCmd.accesskey "м">
+<!ENTITY normalPriorityCmd.label "Қалыпты">
+<!ENTITY normalPriorityCmd.accesskey "ы">
+<!ENTITY highPriorityCmd.label "Жоғары">
+<!ENTITY highPriorityCmd.accesskey "Ж">
 
 
 
@@ -164,9 +170,11 @@
 
 <!-- Tools Menu -->
 
+<!ENTITY tasksMenu.label "Саймандар">
+<!ENTITY tasksMenu.accesskey "С">
 
 
-
+<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адрестік кітапша">
 <!ENTITY addressBookCmd.accesskey "А">
 
@@ -175,19 +183,21 @@
 
 <!ENTITY preferencesCmd2.label "Баптаулар">
 <!ENTITY preferencesCmd2.accesskey "а">
-
-
+<!ENTITY preferencesCmdUnix.label "Параметрлер">
+<!ENTITY preferencesCmdUnix.accesskey "м">
 <!--  Mac OS X Window Menu -->
 
-
-
-
+<!ENTITY bringAllToFront.label "Барлығын алдына қою">
+<!ENTITY zoomWindow.label "Масштаб">
+<!ENTITY windowMenu.label "Терезе">
 <!-- Mail Toolbar -->
 
+<!ENTITY sendButton.label "Жіберу">
+<!ENTITY quoteButton.label "Дәйексөз">
+<!ENTITY addressButton.label "Контакттар">
 
-
-
-
+<!ENTITY spellingButton.label "Емлені тексеру">
+<!ENTITY saveButton.label "Сақтау">
 <!ENTITY printButton.label "Баспаға шығару">
 <!-- Mail Toolbar Tooltips -->
 
@@ -197,9 +207,9 @@
 
 
 
-
-
-
+<!ENTITY cutButton.tooltip              "Қиып алу">
+<!ENTITY copyButton.tooltip             "Көшіріп алу">
+<!ENTITY pasteButton.tooltip            "Кірістіру">
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -238,26 +248,27 @@
 
 
 
+<!ENTITY undo.label "Болдырмау">
+<!ENTITY undo.accesskey "Б">
+<!ENTITY cut.label "Қиып алу">
+<!ENTITY cut.accesskey "и">
+<!ENTITY copy.label "Көшіріп алу">
+<!ENTITY copy.accesskey "К">
+<!ENTITY paste.label "Кірістіру">
+<!ENTITY paste.accesskey "р">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY openAttachment.label "Ашу">
+<!ENTITY openAttachment.accesskey "А">
+<!ENTITY delete.label "Өшіру">
+<!ENTITY delete.accesskey "ш">
 
 
 <!ENTITY renameAttachment.label "Атын ауыстыру…">
 <!ENTITY renameAttachment.accesskey "р">
-
-
+<!ENTITY selectAll.label "Барлығын таңдау">
+<!ENTITY selectAll.accesskey "а">
 
 
 
@@ -272,6 +283,10 @@
 
 <!-- Spell checker context menu items -->
 
+<!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
+<!ENTITY spellAddDictionaries.accesskey "С">
 <!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Контакттар">
 <!-- Identity popup customize menuitem -->
 
