@@ -5,31 +5,37 @@
 <!ENTITY firstrun_panel_title_welcome "Chào mừng">
 
 <!ENTITY firstrun_urlbar_message "Chào mừng đến với &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Tìm kiếm mọi thứ nhanh hơn với các gợi ý tìm kiếm.">
+<!ENTITY firstrun_bookmarks_title "Lược sử">
 
-
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "Lấy kết quả từ trang đánh dấu và lược sử của bạn khi bạn tìm kiếm.">
+<!ENTITY firstrun_data_title "Dữ liệu">
+<!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
 
 <!ENTITY firstrun_sync_title "Đồng bộ">
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, luôn luôn ở bên bạn">
+<!ENTITY firstrun_sync_subtext "Đồng bộ thẻ, mật khẩu, và các thành phần khác để bạn có thể dùng chúng ở bất cứ đâu.">
 
 
 <!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
+<!ENTITY firstrun_button_notnow "Không phải lúc này">
+<!ENTITY firstrun_button_next "Tiếp">
 
-
-
+<!ENTITY firstrun_tabqueue_title "Liên kết">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Bật hàng đợi thẻ">
 
 
+<!ENTITY firstrun_tabqueue_message_on "Thành công!">
 
 
+<!ENTITY firstrun_readerview_title "Bài viết">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Bạn">
+<!ENTITY firstrun_account_message "Có &brandShortName; trên thiết bị khác?">
 
 <!ENTITY  onboard_start_restricted1 "Giữ an toàn và kiểm soát với phiên bản đơn giản hoá này của &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -56,6 +62,7 @@
 
 <!ENTITY url_bar_default_text2 "Tìm kiếm hoặc nhập địa chỉ">
 
+<!ENTITY bookmark "Trang đánh dấu">
 <!ENTITY bookmark_remove "Xóa trang đánh dấu">
 <!ENTITY bookmark_added "Trang đánh dấu đã được thêm">
 <!-- Localization note (bookmark_already_added) : This string is
