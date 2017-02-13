@@ -23,6 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Лацінка">
 <!ENTITY  font.langGroup.japanese                 "Японская">
 <!ENTITY  font.langGroup.trad-chinese             "Традыцыйная Кітайская(Тайвань)">
 <!ENTITY  font.langGroup.simpl-chinese            "Спрошчаная Кітайская">
@@ -30,6 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Карэйская">
 <!ENTITY  font.langGroup.cyrillic                 "Кірыліца">
 <!ENTITY  font.langGroup.el                       "Грэцкая">
+<!ENTITY  font.langGroup.other                    "Іншыя сістэмы пісьма">
 <!ENTITY  font.langGroup.thai                     "Тайская">
 <!ENTITY  font.langGroup.hebrew                   "Габрэйская">
 <!ENTITY  font.langGroup.arabic                   "Арабская">
@@ -44,6 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмухі">
 <!ENTITY  font.langGroup.khmer                    "Кхмерская">
 <!ENTITY  font.langGroup.malayalam                "Малайяламская">
+<!ENTITY  font.langGroup.math                     "Матэматычныя">
+<!ENTITY  font.langGroup.odia                     "Орыя">
 <!ENTITY  font.langGroup.telugu                   "Тэлугу">
 <!ENTITY  font.langGroup.kannada                  "Канарызская">
 <!ENTITY  font.langGroup.sinhala                  "Сінгала">
@@ -57,7 +61,13 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Дазволіць старонкам выбіраць уласны шрыфт замест пазначаных вышэй">
+<!ENTITY  allowPagesToUseOwn.accesskey            "Д">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Кадаванне тэксту для спадчыннага змесціва">
+<!ENTITY languages.customize.Fallback2.label      "Запасное кадаванне тэксту:">
+<!ENTITY languages.customize.Fallback2.accesskey  "Г">
+<!ENTITY languages.customize.Fallback2.desc       "Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.">
 
 <!ENTITY languages.customize.Fallback.auto        "Змоўчна для гэтай мясцовасці">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
