@@ -35,6 +35,9 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Akses ke berkas ditolak">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.</li>
+</ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuat laman ini karena sejumlah alasan.</p>">
@@ -100,6 +103,14 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Laman ini mungkin tidak bersedia untuk sementara atau terlalu sibuk. Coba lagi kemudian.</li>
+  <li>Jika Anda gagal memuat halaman apa saja, cek paket data peranti atau sambungan Wi-Fi Anda.
+    <button id='wifi'>Aktifkan Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
@@ -134,3 +145,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>menggunakan teknologi keamanan yang sudah usang dan rentan terhadap serangan. Penyerang bisa dengan mudah mengungkapkan informasi yang Anda anggap aman. Administrator situs web akan perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situs.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
