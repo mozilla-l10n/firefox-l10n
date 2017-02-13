@@ -29,7 +29,7 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "पर्याय">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "प्राधान्यक्रम">
+<!ENTITY abouthome.preferencesButtonUnix.label  "प्राधान्यता">
 <!ENTITY abouthome.addonsButton.label    "ॲड-ऑन्स्">
 <!ENTITY abouthome.downloadsButton.label "डाऊनलोडस्">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

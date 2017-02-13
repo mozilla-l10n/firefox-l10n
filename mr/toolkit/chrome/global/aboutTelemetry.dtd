@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड हँग्ज">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  पकडलेले स्टॅक">
 
 <!ENTITY aboutTelemetry.scalarsSection "  स्केलर">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "भडक रंग असलेला स्तंभालेख">
 
+<!ENTITY aboutTelemetry.eventsSection "  घटना">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सोपे मापन">
 

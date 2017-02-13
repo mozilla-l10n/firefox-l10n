@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सर्व ॲड-ऑन्स् करीता साधने">
 
-
+<!ENTITY getThemes.description                "आपला ब्राउझर वैयक्तिकृत करू पाहत आहात का?">
+<!ENTITY getThemes.learnMore                  "हजारो थीम्स मधुन निवडा">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ मागे जा">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ पुढे जा">
