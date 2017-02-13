@@ -62,9 +62,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "กลับค่าเดิมของส่วนเสริมทั้งหมดให้อัปเดตโดยอัตโนมัติ">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตโดยอัตโนมัติ">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "กลับค่าเดิมของส่วนเสริมทั้งหมดให้อัปเดตด้วยตนเอง">
+<!ENTITY updates.resetUpdatesToManual.label          "กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตด้วยตนเอง">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "กำลังอัปเดตส่วนเสริม">
 <!ENTITY updates.installed.label              "อัปเดตส่วนเสริมของคุณแล้ว">
