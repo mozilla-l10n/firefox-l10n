@@ -851,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "बरखास्त">
 <!ENTITY activity_stream_delete_history "इतिहासातून नष्ट करा">
 
+<!ENTITY activity_stream_welcome_title "आपल्या ठळक मुद्द्यांमध्ये आपले स्वागत आहे">
 <!ENTITY activity_stream_welcome_content1 "आता &brandShortName; आपण वेब वर शोधलेल्या गोष्टींना ठळक करते जेणेकरुन आपण महान लेख, विडिओ, वाचनखुणा आणि इतर पृष्ठांपर्यंतचा आपला मार्ग शोधू शकता.">
