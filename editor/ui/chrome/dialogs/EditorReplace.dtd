@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from EdReplace.xul -->
+
 <!ENTITY replaceDialog.title "Najít a nahradit">
 <!ENTITY findField.label "Najít:">
 <!ENTITY findField.accesskey "N">
@@ -23,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Nahradit vše">
 <!ENTITY replaceAllButton.accesskey "v">
 <!ENTITY closeButton.label "Zavřít">
+<!ENTITY closeButton.accesskey "t">
