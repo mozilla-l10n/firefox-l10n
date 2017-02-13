@@ -72,15 +72,15 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "फोल्डर उघडा">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वाचे संपादित पसंती">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वाचे संपादित केलेले प्राधान्यक्रम">
 <!ENTITY aboutSupport.modifiedPrefsName "नाव">
 <!ENTITY aboutSupport.modifiedPrefsValue "मूल्य">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "user.js प्राधान्यक्रम">
+<!ENTITY aboutSupport.userJSDescription "आपल्या प्रोफाइल फोल्डर मध्ये <a id='prefs-user-js-link'> user.js फाइल </a> आहे, ज्यात &brandShortName; द्वारे तयार न केलेला प्राधान्यक्रम समाविष्ट करण्यात आला आहे.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वाचे कुलूपबंद पसंती">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वाचे कुलूपबंद प्राधान्यक्रम">
 <!ENTITY aboutSupport.lockedPrefsName "नाव">
 <!ENTITY aboutSupport.lockedPrefsValue "मूल्य">
 

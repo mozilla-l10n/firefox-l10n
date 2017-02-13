@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
-<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यक्रम उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
 <!ENTITY fxaUnverified.label "आपले खाते सत्यापित करा">
 
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "आत्तापर्यंत एकही टॅब सींक केलेले नाही!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "आपल्या इतर उपकरणांवरील आपले टॅब्स् येथे पाहू इच्छिता?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यता">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यक्रम">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "आपल्या इतर उपकरणांवरील टॅब्सची यादी पाहण्यासाठी साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.signin.label "सींक करण्यासाठी साइन इन करा">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ताळमेळ झालेले बाजुपट्टी बघा">
@@ -673,7 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "पॉपअप अडवनारी प्राधान्यता संपादित करा...">
+<!ENTITY editPopupSettingsUnix.label "पॉपअप अडवनारी प्राधान्यक्रम संपादित करा...">
 <!ENTITY editPopupSettings.label "पॉपअप अडवूनक पर्याय संपादित करा…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">

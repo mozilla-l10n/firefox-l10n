@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "&brandShorterName; फेरफटका">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "प्राधान्यता…">
+<!ENTITY preferencesCmdMac.label        "प्राधान्यक्रम…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "सेवा">

@@ -54,7 +54,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "कधीही ही साईट भाषांतरीत करू नका">
 <!ENTITY translation.options.neverForSite.accesskey "e">
-<!ENTITY translation.options.preferences.label  "भाषांतरन पसंती">
+<!ENTITY translation.options.preferences.label  "भाषांतरन प्राधान्यक्रम">
 <!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
