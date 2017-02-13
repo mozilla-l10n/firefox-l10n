@@ -42,7 +42,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Arama">
-<!ENTITY view.discover.label                  "Eklenti edin">
+<!ENTITY view.discover.label                  "Eklentileri edinin">
 <!ENTITY view.recentUpdates.label             "Yakın zamandaki güncellemeler">
 <!ENTITY view.availableUpdates.label          "Mevcut güncellemeler">
 

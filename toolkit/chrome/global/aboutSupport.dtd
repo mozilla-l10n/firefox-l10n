@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. &brandShortName; hakkında genel sorularla ilgili yanıt arıyorsanız <a id='supportLink'>destek sitemizi</a> ziyaret edin.">
 
 <!ENTITY aboutSupport.crashes.title "Çökme Raporları">
@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Tüm çökme raporları">
 <!ENTITY aboutSupport.crashes.noConfig "Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.">
 
-<!ENTITY aboutSupport.extensionsTitle "Eklentiler">
+<!ENTITY aboutSupport.extensionsTitle "Uzantılar">
 <!ENTITY aboutSupport.extensionName "Adı">
 <!ENTITY aboutSupport.extensionEnabled "Etkin mi?">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
 <!ENTITY aboutSupport.appBasicsBuildID "Yapı numarası">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Güncelleme kanalı">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Güncelleme geçmişi">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Güncelleme geçmişini göster">
@@ -53,8 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "İşletim sistemi">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Bellek kullanımı">
 <!ENTITY aboutSupport.appBasicsPerformance "Performans">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Kayıtlı Service Worker'lar">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profiller">
@@ -75,8 +75,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Değiştirilmiş önemli tercihler">
 <!ENTITY aboutSupport.modifiedPrefsName "Adı">
 <!ENTITY aboutSupport.modifiedPrefsValue "Değer">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js tercihleri">
 <!ENTITY aboutSupport.userJSDescription "Profil klasörünüz &brandShortName; tarafından oluşturulmamış tercihler içeren bir <a id='prefs-user-js-link'>user.js dosyası</a> içeriyor.">
 
