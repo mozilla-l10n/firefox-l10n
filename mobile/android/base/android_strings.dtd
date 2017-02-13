@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Pridať medzi záložky">
 
 <!ENTITY activity_stream_topsites "Top stránky">
-<!ENTITY activity_stream_highlights "Vybrané">
+<!ENTITY activity_stream_highlights "Vybrané stránky">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -851,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Skryť">
 <!ENTITY activity_stream_delete_history "Odstrániť z histórie">
 
+<!ENTITY activity_stream_welcome_title "Vitajte vo vybraných stránkach">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; odteraz vytvára výber vecí, ktoré ste na webe objavili. Ľahko sa tak môžete dostať naspäť k zaujímavým článkom, videám, záložkám a iným stránkam.">
