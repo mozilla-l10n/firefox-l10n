@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Žádný">
 <!ENTITY editDirectories.label                 "Upravit adresáře…">
 <!ENTITY editDirectories.accesskey             "U">
+<!ENTITY showAsDefault.label                   "Výchozí spouštěcí složka v okně adresáře:">
+<!ENTITY showAsDefault.accesskey               "c">
+<!ENTITY showAsDefaultLast.label               "Poslední používaná složka">
 
 <!ENTITY sendOptionsDescription.label          "Nastavení chování textového formátu ">
 <!ENTITY sendOptions.label                     "Předvolby odesílání…">
