@@ -149,8 +149,8 @@
 <!ENTITY runtimedetails_privilegesWarning "(Устройството ще се рестартира. Изисква административен достъп.)">
 
 <!-- Device Preferences and Settings -->
-<!ENTITY device_typeboolean "Булева">
-<!ENTITY device_typenumber "Целочислена">
+<!ENTITY device_typeboolean "Булев">
+<!ENTITY device_typenumber "Целочислен">
 <!ENTITY device_typestring "Низ">
 <!ENTITY device_typeobject "Обект">
 <!ENTITY device_typenone "Избиране на вид">
@@ -159,7 +159,7 @@
 <!ENTITY devicepreference_title "Настройки на устройството">
 <!ENTITY devicepreference_search "Настройки за търсенето">
 <!ENTITY devicepreference_newname "Ново име за настройките">
-<!ENTITY devicepreference_newtext "Референтна стойност">
+<!ENTITY devicepreference_newtext "Стойност">
 <!ENTITY devicepreference_addnew "Добавяне на настройки">
 
 <!-- Device Settings -->

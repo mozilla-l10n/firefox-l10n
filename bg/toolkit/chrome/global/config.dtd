@@ -17,7 +17,7 @@
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Референтна стойност">
+<!ENTITY prefColumn.label "Име на настройката">
 <!ENTITY lockColumn.label "Състояние">
 <!ENTITY typeColumn.label "Вид">
 <!ENTITY valueColumn.label "Стойност">
@@ -33,7 +33,7 @@
 <!ENTITY copyName.label "Копиране на името">
 <!ENTITY copyName.accesskey "и">
 <!ENTITY copyValue.label "Копиране на стойността">
-<!ENTITY copyValue.accesskey "К">
+<!ENTITY copyValue.accesskey "с">
 <!ENTITY modify.label "Промяна">
 <!ENTITY modify.accesskey "м">
 <!ENTITY toggle.label "Превключване">
@@ -46,5 +46,5 @@
 <!ENTITY string.accesskey "Н">
 <!ENTITY integer.label "Целочислен">
 <!ENTITY integer.accesskey "е">
-<!ENTITY boolean.label "Булева">
-<!ENTITY boolean.accesskey "у">
+<!ENTITY boolean.label "Булев">
+<!ENTITY boolean.accesskey "Б">
