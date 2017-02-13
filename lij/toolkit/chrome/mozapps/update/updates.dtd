@@ -63,6 +63,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'agiornamento o saiâ instalou a pròscima vòtta che ti lansi o
                                            &brandShortName;. Ti peu arvî torna &brandShortName; oua ò continoâ a louâ e arvî torna dòppo.">
+<!ENTITY  finishedBackground.moreElevated "Sto agiornamento o veu i privilegi de aministraçion. L'agiornamento saiâ
+                                           instalou a proscima vòtta che &brandShortName; o s'arve. Ti peu arvî torna
+                                           &brandShortName; oua, continoâ a travagiâ e arvî dòppo, ò refuâ sto
+                                           agiornamento.">
 
 <!ENTITY  update.details.label            "Detalli">
 <!ENTITY  update.installedOn.label        "Instalou o:">
