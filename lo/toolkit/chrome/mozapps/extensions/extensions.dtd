@@ -36,6 +36,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ຄົ້ນຫາ">
+<!ENTITY view.availableUpdates.label          "ອັບເດດທີ່ມີຢູ່">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ກວດສອບການອັບເດດ">
@@ -109,6 +110,7 @@
 
 
 <!-- ratings -->
+<!ENTITY rating2.label                        "ຄະແນນ">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ຢຸດ">
@@ -135,20 +137,26 @@
 <!ENTITY addon.undoAction.label               "ເອົາກັບຄືນ">
 <!ENTITY addon.undoAction.tooltip             "ຍົກເລີກການກະທຳນີ້">
 <!ENTITY addon.install.label                  "ຕິດຕັ້ງ">
+<!ENTITY addon.install.tooltip                "ຕິດຕັ້ງ add-on ນີ້">
+<!ENTITY addon.updateNow.label                "ອັບເດດຕອນນີ້ເລີຍ">
 <!ENTITY addon.checkingForUpdates.label       "ກວດສອບການອັບເດດ...">
 <!ENTITY addon.loadingReleaseNotes.label      "ກຳລັງໂຫລດ…">
 
+<!ENTITY addon.createdBy.label                "ໂດຍ ">
 
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 
+<!ENTITY settings.path.button.label           "ຊອກຫາ…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "ຮຽນຮູ້ເພີ່ມເຕີມ">
 <!ENTITY experiment.info.learnmore.accesskey "​L​​">
+<!ENTITY experiment.info.changetelemetry "ການຕັ້ງຄ່າ Telemetry">
 <!ENTITY experiment.info.changetelemetry.accesskey "">
 
 <!ENTITY setting.learnmore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
