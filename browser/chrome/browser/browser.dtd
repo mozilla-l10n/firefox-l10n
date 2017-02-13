@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "ח">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "הרחבה:">
-<!ENTITY urlbar.switchToTab.label     "עבור ללשונית:">
+<!ENTITY urlbar.switchToTab.label     "מעבר ללשונית:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "האם לשפר את חוויית החיפוש שלך בעזרת הצעות?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "מידע נוסף…">
