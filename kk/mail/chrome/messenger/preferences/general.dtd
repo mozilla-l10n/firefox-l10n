@@ -21,12 +21,13 @@
 
 
 
+<!ENTITY customizeMailAlert.label         "Баптау…">
+<!ENTITY customizeMailAlert.accesskey     "а">
 
 
 
-
-
-
+<!ENTITY play.label                       "Ойнату">
+<!ENTITY play.accesskey                   "О">
 
 
 

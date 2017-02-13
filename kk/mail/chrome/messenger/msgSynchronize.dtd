@@ -13,8 +13,8 @@
 
 
 
+<!ENTITY selectButton.label "Таңдау…">
+<!ENTITY selectButton.accesskey "а">
 
-
-
-
+<!ENTITY MsgSelectInd.label "Жүктеп алу">
 
