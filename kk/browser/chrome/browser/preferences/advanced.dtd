@@ -114,10 +114,10 @@
 
 <!ENTITY certificateTab.label            "Сертификаттар">
 <!ENTITY certPersonal.label              "Сұранымдар">
-<!ENTITY certPersonal.description        "Егерде сервер сенің жеке сертификатымды сұраса:">
+<!ENTITY certPersonal.description        "Егерде сервер сіздің жеке сертификатыңызды сұраса:">
 <!ENTITY selectCerts.auto                "Мені сұрамай-ақ жіберу">
 <!ENTITY selectCerts.auto.accesskey      "S">
-<!ENTITY selectCerts.ask                 "Әрбір ретте cенен сұрау">
+<!ENTITY selectCerts.ask                 "Әрбір ретте cізден сұрау">
 <!ENTITY selectCerts.ask.accesskey       "р">
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
 <!ENTITY enableOCSP.accesskey            "с">
