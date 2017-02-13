@@ -4,6 +4,7 @@
 
 <!ENTITY window.title                     "Выключэнні - Пераклад">
 <!ENTITY window.width                     "36em">
+<!ENTITY windowClose.key                  "у">
 
 <!ENTITY noTranslationForLanguages.label  "Пераклад не будзе прапанаваны для наступных моў:">
 <!ENTITY treehead.languageName.label      "Мовы">
