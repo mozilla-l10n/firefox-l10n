@@ -8,13 +8,14 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Questo o peu anulâ a teu garançia!">
 <!ENTITY aboutWarningText.label "Cangiâ ste inpostaçioin avansæ peu ese peigoso pe-a stabilitæ, seguessa e prestaçioin de sta aplicaçion. Ti doviesci continoâ solo se ti sæ ben quello che ti fæ.">
-<!ENTITY aboutWarningButton.label "Saiö atento, prometto!">
+<!ENTITY aboutWarningButton2.label "Acetto o reizego!">
 <!ENTITY aboutWarningCheckbox.label "Fanni vedde sto alarme a pròscima vòtta">
 
 <!ENTITY searchPrefs.label "Riçerca:">
 <!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
+
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nomme da preferensa">
 <!ENTITY lockColumn.label "Stato">
@@ -47,4 +48,3 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">
-
