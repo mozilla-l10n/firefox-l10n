@@ -165,7 +165,7 @@
 <!ENTITY devicepreference_title "Настройки на устройството">
 <!ENTITY devicepreference_search "Настройки за търсенето">
 <!ENTITY devicepreference_newname "Ново име за настройките">
-<!ENTITY devicepreference_newtext "Референтна стойност">
+<!ENTITY devicepreference_newtext "Стойност">
 <!ENTITY devicepreference_addnew "Добавяне на настройки">
 
 <!-- Device Settings -->
