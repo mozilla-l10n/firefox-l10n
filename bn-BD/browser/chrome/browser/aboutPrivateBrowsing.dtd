@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "একটি ব্যক্তিগত উইন্ডো খুলুন P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "একটি ব্যক্তিগত উইন্ডো খুলুন">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ব্যক্তিগত ব্রাউজিং">

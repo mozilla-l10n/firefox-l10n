@@ -19,7 +19,7 @@
 <!ENTITY navbarOverflow.label                "আরও টুল…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড R">
+<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "সব ট্যাব পুনরায় লোড করুন A">
 <!ENTITY  reloadAllTabs.accesskey            "A">
