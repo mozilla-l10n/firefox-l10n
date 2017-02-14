@@ -140,6 +140,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nieuwe lijst">
 <!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY showAsDefault.label                            "Standaard opstartmap">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Bewerken">
 <!ENTITY propertiesContext.label                        "Eigenschappen">
 <!ENTITY propertiesContext.accesskey                    "E">

@@ -4,19 +4,18 @@
 
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title        "Nieuwe mailinglijst">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Toevoegen aan: ">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Toevoegen aan: ">
+<!ENTITY addToAddressBook.accesskey     "a">
 <!ENTITY ListName.label                 "Lijstnaam: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Lijstbijnaam: ">
+<!ENTITY ListNickName.accesskey         "b">
 <!ENTITY ListDescription.label          "Beschrijving: ">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Typ e-mailadressen om deze toe te voegen aan de mailinglijst:">
+<!ENTITY AddressTitle.accesskey         "T">
 <!ENTITY UpButton.label                 "Omhoog verplaatsen">
 <!ENTITY DownButton.label               "Omlaag verplaatsen">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "T">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "b">
-<!ENTITY ListDescription.accesskey      "e">
