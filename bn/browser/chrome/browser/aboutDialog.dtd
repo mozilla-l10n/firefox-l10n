@@ -8,7 +8,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই C">
+<!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2               "হালনাগাদ করতে &brandShortName; পুনরায় শুরু করুন">
 <!ENTITY update.updateButton.accesskey            "R">
