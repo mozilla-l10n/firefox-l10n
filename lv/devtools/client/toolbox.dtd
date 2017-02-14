@@ -177,9 +177,13 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Ekrānattēls uz starpliktuvi">
+<!ENTITY options.screenshot.clipboard.tooltip    "Saglabā ekrānattēlu starpliktuvē (datora atmiņā)">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Atskaņot fotografēšanas skaņu">
+<!ENTITY options.screenshot.audio.tooltip    "Ļauj kamerai atskaņot skaņu uzņemot ekrānattēlu">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
