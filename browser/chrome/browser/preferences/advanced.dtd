@@ -58,7 +58,9 @@
 <!ENTITY offlineStorage2.label           "অফলাইন ওয়েব কনটেন্ট এবং ব্যবহারকারীর ডাটা">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "সাইট ডেটা">
+<!ENTITY clearSiteData.label             "সমস্ত ডেটা সাফ করুন">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
@@ -112,10 +114,10 @@
 
 <!ENTITY certificateTab.label            "সনদপত্র">
 <!ENTITY certPersonal.label              "অনুরোধ">
-
+<!ENTITY certPersonal.description        "কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
 <!ENTITY selectCerts.auto                "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 
-
+<!ENTITY selectCerts.ask                 "আপনাকে প্রতিবার জিজ্ঞেস করা">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">

@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "আমার সিঙ্ক">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক m">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "ওপেন ট্যাব">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ইতিহাস (r)">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "পাসওয়ার্ড (P)">
