@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "หน่วยสีปริยาย">
+<!ENTITY options.defaultColorUnit.label "หน่วยสีเริ่มต้น">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -197,4 +197,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ข">
 <!ENTITY options.sourceeditor.keybinding.label          "ปุ่มลัด">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "ป">
-<!ENTITY options.sourceeditor.keybinding.default.label  "ค่าปริยาย">
+<!ENTITY options.sourceeditor.keybinding.default.label  "ค่าเริ่มต้น">

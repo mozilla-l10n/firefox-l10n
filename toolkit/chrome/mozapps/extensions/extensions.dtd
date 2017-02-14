@@ -136,8 +136,8 @@
 <!ENTITY detail.contributions.description     "นักพัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนการพัฒนาอย่างต่อเนื่องโดยการสมทบทุนสักเล็กน้อย">
 
 <!ENTITY detail.updateType                    "การอัปเดตอัตโนมัติ">
-<!ENTITY detail.updateDefault.label           "ค่าปริยาย">
-<!ENTITY detail.updateDefault.tooltip         "ติดตั้งการอัปเดตโดยอัตโนมัติเฉพาะเมื่อเป็นค่าปริยาย">
+<!ENTITY detail.updateDefault.label           "ค่าเริ่มต้น">
+<!ENTITY detail.updateDefault.tooltip         "ติดตั้งการอัปเดตโดยอัตโนมัติเฉพาะเมื่อเป็นค่าเริ่มต้น">
 <!ENTITY detail.updateAutomatic.label         "เปิด">
 <!ENTITY detail.updateAutomatic.tooltip       "ติดตั้งการอัปเดตโดยอัตโนมัติ">
 <!ENTITY detail.updateManual.label            "ปิด">

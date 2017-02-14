@@ -16,7 +16,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "เซิร์ฟเวอร์">
-<!ENTITY serverType.default.label      "ค่าปริยาย: เซิร์ฟเวอร์ &syncBrand.fullName.label; ของ Mozilla">
+<!ENTITY serverType.default.label      "ค่าเริ่มต้น: เซิร์ฟเวอร์ &syncBrand.fullName.label; ของ Mozilla">
 <!ENTITY serverType.custom2.label   "ใช้เซิร์ฟเวอร์ที่กำหนดเอง…">
 <!ENTITY signIn.account2.label      "บัญชี">
 <!ENTITY signIn.account2.accesskey  "บ">
