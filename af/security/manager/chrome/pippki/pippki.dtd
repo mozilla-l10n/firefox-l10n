@@ -13,7 +13,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Stel terug">
 <!ENTITY resetPassword.title  "Stel meesterwagwoord terug">
-<!ENTITY resetPassword.text  "Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Is u seker dat u die meesterwagwoord wil teruglaai?">
+<!ENTITY resetPassword.text  "Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Wil u definitief die meesterwagwoord teruglaai?">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Laai tans sertifikaat af">
