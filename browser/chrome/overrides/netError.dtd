@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan vanweë 'n onbekende rede nie hierdie bladsy laai nie.</p>">
 
-
+<!ENTITY captivePortal.title "Meld aan by netwerk">
+<!ENTITY captivePortal.longDesc "<p>Dié netwerk benodig dalk dat u aanmeld vir internettoegang.</p>">
 
 <!ENTITY openPortalLoginPage.label "Open aanmeldbladsy">
 
