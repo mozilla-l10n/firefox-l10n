@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "ค้นหาในแท็บใหม่">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาปริยาย">
+<!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาเริ่มต้น">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
@@ -797,7 +797,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "เครื่องมือและคุณลักษณะเพิ่มเติม">
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
-<!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าปริยาย">
+<!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
 <!ENTITY customizeMode.toolbars "แสดง/ซ่อนแถบเครื่องมือ">
 <!ENTITY customizeMode.titlebar "แถบหัวเรื่อง">
 <!ENTITY customizeMode.lwthemes "ชุดตกแต่ง">

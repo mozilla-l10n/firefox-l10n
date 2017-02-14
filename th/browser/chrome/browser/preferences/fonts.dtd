@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback2.accesskey  "ร">
 <!ENTITY languages.customize.Fallback2.desc       "รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาเก่าที่ขัดข้องจากการกำหนดอักขระ">
 
-<!ENTITY languages.customize.Fallback.auto        "ค่าปริยายสำหรับภาษาถิ่นปัจจุบัน">
+<!ENTITY languages.customize.Fallback.auto        "ค่าเริ่มต้นสำหรับภาษาถิ่นปัจจุบัน">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "อาหรับ">
