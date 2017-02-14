@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Geen">
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "b">
+<!ENTITY showAsDefault.label                   "Standaard opstartmap in het adresboekvenster:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Laatst gebruikte map">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
 <!ENTITY sendOptions.label                     "Verzendopties…">
