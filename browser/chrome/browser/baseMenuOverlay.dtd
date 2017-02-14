@@ -8,37 +8,37 @@
 <!ENTITY zoomWindow.label         "বড় আকারে প্রদর্শন">
 <!ENTITY windowMenu.label         "উইন্ডো">
 
-<!ENTITY helpMenu.label           "সহায়তা H"> 
+<!ENTITY helpMenu.label           "সহায়তা"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "সহায়তা H"> 
+<!ENTITY helpMenuWin.label        "সহায়তা"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; সহায়তা H">
+<!ENTITY productHelp2.label       "&brandShorterName; সহায়তা">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "কীবোর্ড শর্টকাট K">
+<!ENTITY helpKeyboardShortcuts.label     "কীবোর্ড শর্টকাট">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু… R">
+<!ENTITY helpSafeMode.label       "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন R">
+<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "সমাধান করার তথ্য T">
+<!ENTITY helpTroubleshootingInfo.label      "সমাধান করার তথ্য">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "মন্তব্য প্রদান… S">
+<!ENTITY helpFeedbackPage.label      "মন্তব্য প্রদান…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; ট্যুর T">
-<!ENTITY helpShowTour2.accesskey        "T">
+<!ENTITY helpShowTour2.label            "&brandShorterName; ট্যুর">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
