@@ -21,12 +21,15 @@
 <!ENTITY     props.path.label               "Percorso:">
 <!ENTITY     props.secure.label             "Spedisci pe:">
 <!ENTITY     props.expires.label            "Scazze:">
+<!ENTITY     props.container.label          "Contegnitô:">
 
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Çerca">
+<!ENTITY     searchFilter.accesskey         "r">
 
 <!ENTITY     button.close.label             "Særa">
 <!ENTITY     button.close.accesskey         "S">
