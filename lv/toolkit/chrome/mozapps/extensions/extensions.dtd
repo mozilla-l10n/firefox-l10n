@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Visu papildinājumu rīki">
 
+<!ENTITY getThemes.description                "Gribat personalizēt savu pārlūku?">
+<!ENTITY getThemes.learnMore                  "Izvēlieties kādu no tūkstošiem tēmu.">
+
 <!ENTITY cmd.back.tooltip                     "Pāriet uz iepriekšējo lapu">
 <!ENTITY cmd.forward.tooltip                  "Pāriet uz nākamo lapu">
 
