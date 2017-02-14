@@ -142,7 +142,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "ค่าปริยายของระบบ">
+<!ENTITY locale_system_default "ค่าเริ่มต้นของระบบ">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -170,7 +170,7 @@
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-<!ENTITY pref_category_search_summary2 "เพิ่ม, ตั้งค่าปริยาย, แสดงคำแนะนำ">
+<!ENTITY pref_category_search_summary2 "เพิ่ม, ตั้งค่าเริ่มต้น, แสดงคำแนะนำ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
 <!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร, ซูม, การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
@@ -183,8 +183,8 @@
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
 <!ENTITY pref_category_add_search_providers "เพิ่มผู้ให้บริการค้นหาเพิ่มเติม">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
-<!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
-<!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
+<!ENTITY pref_search_restore_defaults "เรียกคืนค่าเริ่มต้น">
+<!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าเริ่มต้น">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -399,14 +399,14 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ซิงค์">
 
-<!ENTITY pref_default_browser "ทำให้เป็นเบราว์เซอร์ปริยาย">
+<!ENTITY pref_default_browser "ทำให้เป็นเบราว์เซอร์เริ่มต้น">
 <!ENTITY pref_default_browser_mozilla_support_tablet "เยี่ยมชมการสนับสนุนจาก Mozilla">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
 <!ENTITY pref_vendor_feedback "เสนอข้อคิดเห็น">
 
-<!ENTITY pref_dialog_set_default "ตั้งเป็นค่าปริยาย">
-<!ENTITY pref_dialog_default "ค่าปริยาย">
+<!ENTITY pref_dialog_set_default "ตั้งเป็นค่าเริ่มต้น">
+<!ENTITY pref_dialog_default "ค่าเริ่มต้น">
 <!ENTITY pref_dialog_remove "เอาออก">
 
 <!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้ายของคุณ">
