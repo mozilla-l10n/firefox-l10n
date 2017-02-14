@@ -32,11 +32,19 @@
 <!ENTITY fileNotFound.title "File no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Acesso a-o file negou">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.</li>
+</ul>
+">
 
-<!ENTITY generic.title "No ghe riescio">
+<!ENTITY generic.title "Ahi me mi!">
 <!ENTITY generic.longDesc "<p>No gh'é atre informaçioin in sciô problema.</p>">
 
+<!ENTITY captivePortal.title "Intra inta ræ">
 
+<!ENTITY openPortalLoginPage.label "Arvi pagina de Login">
 
 <!ENTITY malformedURI.title "L'indirisso o no l'é valido">
 <!ENTITY malformedURI.longDesc "<p>L'indirisso che ti me dæto o no va ben. Pe piaxei contròlla che no gh'é di eroî inta bara di indirissi e preuva torna.</p>">
@@ -96,9 +104,11 @@
   <li>Ciamma o responsabile do scito web pe informalo do problema.</li>
 </ul>">
 
+<!ENTITY certerror.longpagetitle1 "A teu conescion a no l'é segua">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "O propietaio de <span class='hostname'/> o l'à configurou o seu scito mâ.  Pe protezze e teu informaçion da l'ese aröbæ, &brandShortName; o no s'é conesso a sto scito.">
 
 <!ENTITY sharedLongDesc "<ul>
   <li>O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.</li>
@@ -110,6 +120,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocou da-i criteri in sciâ seguessa di contegnui">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina con sta modalitæ perché a gh'à di criteri de seguessa di contegnui ch'ou inpediscian.</p>  ">
 
+<!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Azonzi 'na eceçion…">
