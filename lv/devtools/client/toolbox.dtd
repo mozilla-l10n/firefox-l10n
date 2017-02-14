@@ -173,6 +173,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Ekrānattēla uzvedība">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
