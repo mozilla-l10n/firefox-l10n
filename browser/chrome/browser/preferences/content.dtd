@@ -21,7 +21,7 @@
 
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">
 
-<!ENTITY  defaultFont.label           "แบบอักษรปริยาย:">
+<!ENTITY  defaultFont.label           "แบบอักษรเริ่มต้น:">
 <!ENTITY  defaultFont.accesskey       "ป">
 <!ENTITY  defaultSize.label           "ขนาด:">
 <!ENTITY  defaultSize.accesskey       "ข">
