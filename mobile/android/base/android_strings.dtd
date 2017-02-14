@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Kirjanmerkki on jo tehty">
 <!ENTITY overlay_share_send_other "Lähetä muihin laitteisiin">
 
+<!ENTITY overlay_share_open_browser_btn_label "Avaa &brandShortName;iin">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Näytä hakuhistoria">
 <!ENTITY pref_import_options "Tuontivaihtoehdot">
 <!ENTITY pref_import_android_summary "Tuo kirjanmerkit ja sivuhistoria järjestelmäselaimesta">
+<!ENTITY pref_private_data_openTabs "Avoimet välilehdet">
 <!ENTITY pref_private_data_history2 "Selaushistoria">
 <!ENTITY pref_private_data_searchHistory "Hakuhistoria">
 <!ENTITY pref_private_data_formdata2 "Lomakehistoria">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Tiiviit välilehdet">
+<!ENTITY pref_compact_tabs_summary2 "Järjestä välilehdet kahteen palstaan pystyasennossa käytettäessä">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -590,7 +594,7 @@ size. -->
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
 <!ENTITY home_bookmarks_empty "Asetetut kirjanmerkit näkyvät tässä.">
-<!ENTITY home_closed_tabs_title2 "Viimeiseksi suljetut">
+<!ENTITY home_closed_tabs_title2 "Viimeksi suljetut">
 <!ENTITY home_last_tabs_empty "Äskettäin avoimet välilehdet näkyvät tässä.">
 <!ENTITY home_restore_all "Palauta kaikki">
 <!ENTITY home_closed_tabs_number "&formatD; välilehteä">
@@ -704,6 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Asenna päivitys koskettamalla latauksen päätyttyä">
 <!ENTITY updater_downloading_retry2 "Yritä uudestaan koskettamalla">
 
+<!ENTITY updater_apply_title3 "&brandShortName;in päivitys ladattu">
 <!ENTITY updater_apply_select3 "Asenna koskettamalla">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -849,3 +854,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Hylkää">
 <!ENTITY activity_stream_delete_history "Poista historiasta">
 
+<!ENTITY activity_stream_welcome_title "Tervetuloa nostoihin">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; nostaa nyt esille verkosta löytämiäsi asioita, jotta voit palata hienoihin artikkeleihin, videoihin, kirjanmerkkeihin ja muille sivuille.">
