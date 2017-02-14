@@ -795,3 +795,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Atre informaçioin un sce DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY syncedTabs.sidebar.label "Feuggio scincronizæ">
+<!ENTITY syncedTabs.sidebar.noclients.label "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
+<!ENTITY syncedTabs.sidebar.noclients.title "Nisciun feuggio scincronizou (pe oua)">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
+<!ENTITY syncedTabs.sidebar.notabs.label "Nisciun feuggio averto">
+<!ENTITY syncedTabs.sidebar.openprefs.label "Arvi e inpostaçioin de &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.">
+<!ENTITY syncedTabs.context.open.label "Arvi">
+<!ENTITY syncedTabs.context.open.accesskey "A">
+<!ENTITY syncedTabs.context.openInNewTab.label "Arvi inte 'n neuvo feuggio">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey "f">
+<!ENTITY syncedTabs.context.openInNewWindow.label "Arvi inte 'n neuvo barcon">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey "f">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Arvi inte 'n neuvo barcon anònimo">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Azonzi a-i segnalibbri…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
+<!ENTITY syncedTabs.context.copy.label "Còpia">
+<!ENTITY syncedTabs.context.copy.accesskey "C">
+<!ENTITY syncedTabs.context.openAllInTabs.label "Arvi tutti i feuggi">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
