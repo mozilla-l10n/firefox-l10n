@@ -18,8 +18,8 @@
 <!ENTITY profilePrompt.label            "ป้อนชื่อโพรไฟล์ใหม่:">
 <!ENTITY profilePrompt.accesskey        "ป">
 <!ENTITY profileDirectoryExplanation.text   "การตั้งค่า, ค่าที่ตั้ง และข้อมูลผู้ใช้ที่เกี่ยวข้องอื่น ๆ จะถูกจัดเก็บใน:">
-<!ENTITY profileDefaultName             "ผู้ใช้ปริยาย">
+<!ENTITY profileDefaultName             "ผู้ใช้เริ่มต้น">
 <!ENTITY button.choosefolder.label      "เลือกโฟลเดอร์…">
 <!ENTITY button.choosefolder.accesskey  "ล">
-<!ENTITY button.usedefault.label        "ใช้โฟลเดอร์ปริยาย">
+<!ENTITY button.usedefault.label        "ใช้โฟลเดอร์เริ่มต้น">
 <!ENTITY button.usedefault.accesskey    "ป">

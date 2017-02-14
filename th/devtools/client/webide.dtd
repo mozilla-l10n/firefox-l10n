@@ -113,7 +113,7 @@
 <!ENTITY prefs_title "การตั้งค่า">
 <!ENTITY prefs_editor_title "ตัวแก้ไข">
 <!ENTITY prefs_general_title "ทั่วไป">
-<!ENTITY prefs_restore "เรียกคืนค่าปริยาย">
+<!ENTITY prefs_restore "เรียกคืนค่าเริ่มต้น">
 <!ENTITY prefs_manage_components "จัดการส่วนประกอบพิเศษ">
 <!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
 <!ENTITY prefs_options_showeditor "แสดงตัวแก้ไข">
@@ -122,7 +122,7 @@
 <!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
 <!ENTITY prefs_options_autoclosebrackets "ปิดวงเล็บอัตโนมัติ">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ใส่วงเล็บปิดอัตโนมัติ">
-<!ENTITY prefs_options_keybindings_default "ค่าปริยาย">
+<!ENTITY prefs_options_keybindings_default "ค่าเริ่มต้น">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">
@@ -161,7 +161,7 @@
 <!-- Simulator Options -->
 <!ENTITY simulator_title "ตัวเลือกตัวจำลอง">
 <!ENTITY simulator_remove "ลบตัวจำลอง">
-<!ENTITY simulator_reset "เรียกคืนค่าปริยาย">
+<!ENTITY simulator_reset "เรียกคืนค่าเริ่มต้น">
 <!ENTITY simulator_name "ชื่อ">
 <!ENTITY simulator_software "ซอฟต์แวร์">
 <!ENTITY simulator_version "รุ่น">

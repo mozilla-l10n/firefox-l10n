@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "ไอคอน">
 <!ENTITY text.label               "ข้อความ">
 <!ENTITY useSmallIcons.label      "ใช้ไอคอนเล็ก">
-<!ENTITY restoreDefaultSet.label  "เรียกคืนค่าปริยาย">
+<!ENTITY restoreDefaultSet.label  "เรียกคืนค่าเริ่มต้น">
 <!ENTITY addNewToolbar.label      "เพิ่มแถบเครื่องมือใหม่">
 <!ENTITY saveChanges.label        "เสร็จสิ้น">
 <!ENTITY undoChanges.label        "เลิกทำการเปลี่ยนแปลง">
