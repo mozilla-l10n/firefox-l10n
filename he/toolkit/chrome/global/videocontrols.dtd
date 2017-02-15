@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY playButton.playLabel "ניגון">
-<!ENTITY playButton.pauseLabel "השהה">
+<!ENTITY playButton.pauseLabel "השהיה">
 <!ENTITY muteButton.muteLabel "השתק">
-<!ENTITY muteButton.unmuteLabel "בטל השתקה">
+<!ENTITY muteButton.unmuteLabel "ביטול השתקה">
 <!ENTITY fullscreenButton.enterfullscreenlabel "מסך מלא">
 <!ENTITY fullscreenButton.exitfullscreenlabel "יציאה ממסך מלא">
 <!ENTITY castingButton.castingLabel "שידור ל־Screen">
