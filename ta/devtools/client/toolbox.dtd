@@ -11,6 +11,8 @@
 <!ENTITY toggleToolboxF12.keytext          "F12">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "உலாவி கருவிப்பெட்டியைத் திறப்பதில் பிழை:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -135,6 +137,8 @@
 <!ENTITY options.debugger.label            "வழுநீக்கி">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+
+<!ENTITY options.sourceMaps.label      "மூல வரைபடங்களைச் செயற்படுத்த">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
