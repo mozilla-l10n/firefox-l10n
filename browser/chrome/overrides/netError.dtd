@@ -116,7 +116,7 @@ was trying to connect. -->
 
 
 <!ENTITY certerror.pagetitle1  "பாதுகாப்பற்ற இணைப்பு">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "இத்தளம் HTTP Strict Transport Security (HSTS) என்பதினை &brandShortName; அதனுடன் மட்டுமே பாதுகாப்பாக இணைக்கலாம் என்பதைக் குறிக்க பயன்படுத்துகிறது. இதன் விளைவாக, இந்தச் சான்றிதழுக்கு விதிவிலக்கு வழங்குவது சாத்தியமில்லை.">
 <!ENTITY certerror.copyToClipboard.label "உரையை ஒட்டுப்பலகைக்கு நகலெடு">
 
 <!ENTITY inadequateSecurityError.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">

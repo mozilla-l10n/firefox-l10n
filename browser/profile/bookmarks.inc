@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started துவங்குதல்
+#define getting_started தொடங்குதல்
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -73,7 +73,7 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 
-#define firefox_about எங்களை பற்றி
+#define firefox_about எங்களைப் பற்றி
 
 
 # LOCALIZATION NOTE (nightly_heading):
@@ -127,7 +127,7 @@
 # Nightly builds only, link title for about:crashes
 
 
-#define crashes All your crashes
+#define crashes உங்கள் அனைத்து நொறுக்கல்கள்
 
 
 # LOCALIZATION NOTE (irc):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Nightly குறித்து IRC இல் விவாதிக்கவும்
 
 
 # LOCALIZATION NOTE (planet):
