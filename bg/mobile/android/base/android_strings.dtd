@@ -170,7 +170,7 @@
 <!ENTITY overlay_no_synced_devices "Това устройство не е свързано с Firefox Account">
 
 <!ENTITY pref_category_search3 "Търсене">
-<!ENTITY pref_category_search_summary2 "Добавяне, избор на стандартна, показване на предложения">
+<!ENTITY pref_category_search_summary2 "Добавяне, настройка, предложения">
 <!ENTITY pref_category_accessibility "Достъпност">
 <!ENTITY pref_category_accessibility_summary2 "Размер на текста, мащабиране, гласово въвеждане">
 <!ENTITY pref_category_privacy_short "Поверителност">
@@ -403,10 +403,10 @@ size. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Посетете Поддръжка на Mozilla">
 <!ENTITY pref_about_firefox "Относно &brandShortName;">
 <!ENTITY pref_vendor_faqs "Въпроси и отговори">
-<!ENTITY pref_vendor_feedback "Даване на обратна връзка">
+<!ENTITY pref_vendor_feedback "Обратна връзка">
 
-<!ENTITY pref_dialog_set_default "Избиране като стандартна">
-<!ENTITY pref_dialog_default "Стандартна">
+<!ENTITY pref_dialog_set_default "Избиране по подразбиране">
+<!ENTITY pref_dialog_default "По подразбиране">
 <!ENTITY pref_dialog_remove "Премахване">
 
 <!ENTITY pref_search_last_toast "Не може да премахнете или изключите последната търсеща машина.">

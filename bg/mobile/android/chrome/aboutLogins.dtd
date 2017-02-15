@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title                       "Регистрации">
 <!ENTITY aboutLogins.update                      "Обновяване">
 <!ENTITY aboutLogins.emptyLoginText              "Пазете вашите регистрации">
-<!ENTITY aboutLogins.emptyLoginHint              "Данните за вход и идентификационните данни запазени от &brandShortName; ще бъдат показани тук.">
+<!ENTITY aboutLogins.emptyLoginHint              "Входните и идентификационни данни, запазени от &brandShortName; ще бъдат показани тук.">
