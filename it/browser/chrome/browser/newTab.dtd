@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newtab.pageTitle "Nuova scheda">
-<!ENTITY newtab.topSites.heading "Siti principali">
 <!ENTITY newtab.customize.classic "Visualizza i siti principali">
 <!ENTITY newtab.customize.cog.enhanced "Includi i siti consigliati">
 <!ENTITY newtab.customize.cog.title2 "CONTROLLI NUOVA SCHEDA">
