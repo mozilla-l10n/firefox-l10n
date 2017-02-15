@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Прыватнае агляданне)">
 
 <!ENTITY appmenu.tooltip                     "Адкрыць меню">
 <!ENTITY navbarOverflow.label                "Іншыя прылады…">
@@ -180,6 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Падпісацца на гэту старонку">
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
+<!ENTITY addCurPagesCmd.label "Закладкі на ўсе карткі…">
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
 <!ENTITY recentBookmarks.label "Нядаўнія закладкі">
 <!ENTITY otherBookmarksCmd.label "Іншыя закладкі">

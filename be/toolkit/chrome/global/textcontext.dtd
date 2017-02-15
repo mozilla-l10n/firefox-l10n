@@ -25,11 +25,13 @@
 <!ENTITY spellDictionaries.label "Мовы">
 <!ENTITY spellDictionaries.accesskey "М">
 
+<!ENTITY searchTextBox.clear.label "Ачысціць">
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "Увесці логін">
+<!ENTITY fillLoginMenu.accesskey      "У">
+<!ENTITY fillPasswordMenu.label       "Увесці пароль">
+<!ENTITY fillPasswordMenu.accesskey   "У">
+<!ENTITY fillUsernameMenu.label       "Увесці імя карыстальніка">
+<!ENTITY fillUsernameMenu.accesskey   "У">
+<!ENTITY noLoginSuggestions.label     "(Няма прапаноў для логінаў)">
+<!ENTITY viewSavedLogins.label        "Прагляд захаваных логінаў">
