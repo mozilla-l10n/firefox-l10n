@@ -52,7 +52,7 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Oscail an Fillteán Coinneála">
+<!ENTITY cmd.show.label                   "Oscail an Fillteán ina bhfuil an Comhad">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Taispeáin San Aimsitheoir">
 <!ENTITY cmd.showMac.accesskey            "A">
