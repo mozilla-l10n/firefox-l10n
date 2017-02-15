@@ -568,14 +568,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "ניגון">
 <!ENTITY mediaPlay.accesskey         "נ">
-<!ENTITY mediaPause.label            "השהה">
+<!ENTITY mediaPause.label            "השהיה">
 <!ENTITY mediaPause.accesskey        "ה">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "השתקה">
 <!ENTITY mediaMute.accesskey         "ש">
-<!ENTITY mediaUnmute.label           "בטל השתקה">
+<!ENTITY mediaUnmute.label           "ביטול השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
 <!ENTITY mediaPlaybackRate2.label     "מהירות נגינה">
 <!ENTITY mediaPlaybackRate2.accesskey "נ">
@@ -599,11 +599,11 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "הצגת פקדים">
 <!ENTITY mediaShowControls.accesskey "פ">
-<!ENTITY mediaHideControls.label     "הסתר פקדים">
+<!ENTITY mediaHideControls.label     "הסתרת פקדים">
 <!ENTITY mediaHideControls.accesskey "פ">
 <!ENTITY videoFullScreen.label       "מסך מלא">
 <!ENTITY videoFullScreen.accesskey   "מ">
-<!ENTITY videoSaveImage.label        "שמור צילום בשם…">
+<!ENTITY videoSaveImage.label        "שמירת צילום בשם…">
 <!ENTITY videoSaveImage.accesskey    "צ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
