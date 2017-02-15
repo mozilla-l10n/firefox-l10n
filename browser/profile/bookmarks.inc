@@ -31,7 +31,7 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
-#define firefox_community เข้ามามีส่วนร่วม
+#define firefox_community มีส่วนร่วม
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
