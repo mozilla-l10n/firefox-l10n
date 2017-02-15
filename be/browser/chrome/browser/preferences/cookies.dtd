@@ -4,26 +4,32 @@
 
 <!ENTITY window.width                       "41em">
 
-<!ENTITY     cookiesonsystem.label          "Наступныя біркі захоўваюцца на вашым кампутары:">
-<!ENTITY     cookiename.label               "Назва біркі">
+<!ENTITY     cookiesonsystem.label          "Наступныя кукі захоўваюцца на вашым камп'ютары:">
+<!ENTITY     cookiename.label               "Назва кукі">
 <!ENTITY     cookiedomain.label             "Пляцоўка"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
+<!ENTITY     button.removeSelectedCookies.accesskey "е">
+<!ENTITY     button.removeAllCookies.label "Сцерці ўсе">
+<!ENTITY     button.removeAllCookies.accesskey "ц">
 
 <!ENTITY     props.name.label               "Назва:">
 <!ENTITY     props.value.label              "Змесціва:">
-<!ENTITY     props.domain.label             "Трымальнік:">
+<!ENTITY     props.domain.label             "Хост:">
 <!ENTITY     props.path.label               "Шлях:">
 <!ENTITY     props.secure.label             "Дасылаецца праз:">
-<!ENTITY     props.expires.label            "Высільваецца:">
+<!ENTITY     props.expires.label            "Мінае:">
+<!ENTITY     props.container.label          "Кантэйнер:">
 
-<!ENTITY     window.title                   "Біркі">
+<!ENTITY     window.title                   "Кукі">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Пошук">
+<!ENTITY     searchFilter.accesskey         "П">
 
-<!ENTITY     button.close.label             "Зачыніць">
+<!ENTITY     button.close.label             "Закрыць">
 <!ENTITY     button.close.accesskey         "ч">

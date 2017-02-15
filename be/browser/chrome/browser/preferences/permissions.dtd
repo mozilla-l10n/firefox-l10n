@@ -15,7 +15,7 @@
 <!ENTITY address.accesskey            "А">
 <!ENTITY block.label                  "Блакаваць">
 <!ENTITY block.accesskey              "Б">
-<!ENTITY session.label                "Дазволіць на час сэсіі">
+<!ENTITY session.label                "Дазволіць на час сесіі">
 <!ENTITY session.accesskey            "с">
 <!ENTITY allow.label                  "Дазволіць">
 <!ENTITY allow.accesskey              "Д">
@@ -24,4 +24,5 @@
 <!ENTITY button.cancel.label          "Скасаваць">
 <!ENTITY button.cancel.accesskey      "С">
 <!ENTITY button.ok.label              "Захаваць змены">
+<!ENTITY button.ok.accesskey          "Ы">
 
