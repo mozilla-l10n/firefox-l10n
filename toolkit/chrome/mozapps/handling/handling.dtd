@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "28em">
 <!ENTITY window.emHeight "26em">
-
+<!ENTITY ChooseOtherApp.description "Выберыце іншую праграму">
 <!ENTITY ChooseApp.label "Выбраць…">
 <!ENTITY ChooseApp.accessKey "В">
-
+<!ENTITY accept "Адкрыць спасылку">
