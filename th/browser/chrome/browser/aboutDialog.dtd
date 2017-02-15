@@ -41,7 +41,7 @@
 <!ENTITY helpus.donateLink          "ทำการบริจาค">
 <!ENTITY helpus.middle              " หรือ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "เข้ามามีส่วนร่วมกัน!">
+<!ENTITY helpus.getInvolvedLink     "มีส่วนร่วม!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "มีอะไรใหม่">
