@@ -112,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Normale snelheid">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
-<!ENTITY mediaPlaybackRate150.label     "Hoge snelheid (1½×)">
-<!ENTITY mediaPlaybackRate150.accesskey "H">
+<!ENTITY mediaPlaybackRate125.label     "Hoge snelheid (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "H">
+<!ENTITY mediaPlaybackRate150.label     "Hogere snelheid (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "r">
 <!ENTITY mediaPlaybackRate200.label     "Dubbele snelheid">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "Herhalen">
+<!ENTITY mediaLoop.accesskey          "H">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
