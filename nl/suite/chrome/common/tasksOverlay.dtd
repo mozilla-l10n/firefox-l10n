@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label "Browser">
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Composer">
 <!ENTITY editorCmd.accesskey "C">
@@ -13,7 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "Foutconsole">
 <!ENTITY errorConsoleCmd.accesskey "F">
-<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "Browser">
 <!ENTITY taskComposer.tooltip "Composer">
