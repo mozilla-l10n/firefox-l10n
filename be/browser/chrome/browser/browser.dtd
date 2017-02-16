@@ -223,9 +223,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Скінуць маштаб">
 
 <!ENTITY searchItem.title             "Пошук">
 
@@ -275,6 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая картка кантэйнера">
 <!ENTITY newNavigatorCmd.label        "Новае акно">
+<!ENTITY newNavigatorCmd.key        "Н">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Новае акно адасаблення">
 <!ENTITY newPrivateWindow.accesskey "а">
