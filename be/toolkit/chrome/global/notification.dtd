@@ -8,3 +8,5 @@
 
 <!ENTITY learnMore "Падрабязней…">
 
+<!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.accesskey "О">
