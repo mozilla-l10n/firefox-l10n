@@ -2,12 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Пошукавая сістэма па змаўчанні">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Выберыце пошукавую сістэму па змаўчанні. &brandShortName; выкарыстоўвае яе ў панэлі адрасу, панэлі пошуку і на пачатковай старонцы.">
 
+<!ENTITY provideSearchSuggestions.label        "Адлюстроўваць пошукавыя прапановы">
+<!ENTITY provideSearchSuggestions.accesskey    "п">
 
+<!ENTITY showURLBarSuggestions.label           "Адлюстроўваць пошукавыя прапановы пры выкарыстанні панэлі адрасу">
+<!ENTITY showURLBarSuggestions.accesskey       "а">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Падчас выкарыстання панэлі адрасу пошукавыя прапановы адлюстроўвацца не будуць, бо вы наладзілі & brandShortName; ніколі не запамінаць гісторыю.">
 
+<!ENTITY oneClickSearchEngines.label           "Пошукавыя сістэмы ў адзін клік">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Праз панэль пошуку вы можаце адразу ж вырабіць пошук у іншых сістэмах. Выберыце, якія з іх трэба адлюстроўваць.">
 
+<!ENTITY engineNameColumn.label                "Пошукавая сістэма">
+<!ENTITY engineKeywordColumn.label             "Ключавое слова">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Аднавіць набор пошукавых сістэм па змаўчанні">
+<!ENTITY restoreDefaultSearchEngines.accesskey "з">
 
+<!ENTITY removeEngine.label                    "Выдаліць">
+<!ENTITY removeEngine.accesskey                "в">
 
+<!ENTITY addMoreSearchEngines.label            "Дадаць іншыя пошукавыя сістэмы…">
