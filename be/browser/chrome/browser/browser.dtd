@@ -211,8 +211,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Адкрыць панэль запытаў месцазнаходжання">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Адкрыць панэль паведамленняў аб устанаўленні прыставак">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Адкрыць панэль паведамленняў пазасеткавага сховішча">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Адкрыць панэль паведамленняў аб захаванні пароля">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць апавяшчэнні з гэтага сайта">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць дазволам на ўжыванне сайтам камеры ды/ці мікрафона">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць дазволам на ўжыванне сайтам мікрафона">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Кіраваць дазволам на прагляд сайтам экрану ці вакон">
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Перакласці гэту старонку">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 
 
 
@@ -226,9 +235,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладкі">
+<!ENTITY bookmarksMenuButton.other.label "Іншыя закладкі">
 <!ENTITY viewBookmarksSidebar2.label        "Паказаць палічку закладак">
 <!ENTITY viewBookmarksToolbar.label         "Паказаць прыладапаліцу закладак">
 
+<!ENTITY containersMenu.label "Кантэйнеры">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -237,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Гісторыя">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Прылады">
 <!ENTITY toolsMenu.accesskey          "л"> 
@@ -619,6 +631,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeLoaded "Вы адключылі абарону на гэтай старонцы.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
