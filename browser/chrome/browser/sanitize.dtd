@@ -50,7 +50,7 @@ that require it.  -->
 
 <!ENTITY itemHistoryAndDownloads.label     "ประวัติการท่องเว็บและดาวน์โหลด">
 <!ENTITY itemHistoryAndDownloads.accesskey "ป">
-<!ENTITY itemFormSearchHistory.label       "ประวัติการกรอกฟอร์มและการค้นหา">
+<!ENTITY itemFormSearchHistory.label       "ประวัติแบบฟอร์มและการค้นหา">
 <!ENTITY itemFormSearchHistory.accesskey   "ป">
 <!ENTITY itemCookies.label                 "คุกกี้">
 <!ENTITY itemCookies.accesskey             "ก">
