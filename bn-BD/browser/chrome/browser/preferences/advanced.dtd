@@ -78,7 +78,7 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "এখনই পরিষ্কার করুন N">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "স্বয়ংক্রিয় ক্যাশে ব্যবস্থাপনা উপেক্ষা (O)">
+<!ENTITY overrideSmartCacheSize.label    "স্বয়ংক্রিয় ক্যাশে ব্যবস্থা উপেক্ষা করা হবে">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "হালনাগাদ">
@@ -123,5 +123,5 @@
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "সার্টিফিকেট দেখুন V">
 <!ENTITY viewCerts.accesskey             "V">
-<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস (Y) ">
-<!ENTITY viewSecurityDevices.accesskey   "Y">
+<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
+<!ENTITY viewSecurityDevices.accesskey   "D">
