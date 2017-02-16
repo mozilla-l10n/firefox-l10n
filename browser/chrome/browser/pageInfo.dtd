@@ -6,10 +6,10 @@
 <!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "অনুলিপি (C)">
+<!ENTITY  copy.label            "অনুলিপি">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "সব নির্বাচন (A)">
+<!ENTITY  selectall.label       "সব নির্বাচন">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
