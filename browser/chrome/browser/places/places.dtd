@@ -110,11 +110,11 @@
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "তারিখ অনুসারে">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "সাইট অনুসারে (S)">
+<!ENTITY bySite.label             "সাইট অনুসারে">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "সর্বাধিক প্রদর্শিত (V)">
+<!ENTITY byMostVisited.label      "সর্বাধিক প্রদর্শিত">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "শেষবার প্রদর্শিত (L)">
+<!ENTITY byLastVisited.label      "শেষবার প্রদর্শিত">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "তারিখ ও সাইট অনুসারে (t)">
+<!ENTITY byDayAndSite.label       "তারিখ ও সাইট অনুসারে">
 <!ENTITY byDayAndSite.accesskey   "t">
