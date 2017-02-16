@@ -745,13 +745,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Абарона ад адсочвання">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць адсочваць вашы паводзіны ў Інтэрнэце.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць адсочваць вашы паводзіны ў Інтэрнэце. Вы адключылі абарону.">
+<!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента адсочвання.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Адключыць абарону для гэтага сайта">
+<!ENTITY trackingProtection.unblock.accesskey "А">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Адключыць абарону для гэтай сесіі">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "А">
+<!ENTITY trackingProtection.block2.label "Уключыць абарону">
+<!ENTITY trackingProtection.block2.accesskey "У">
 
+<!ENTITY trackingContentBlocked.message "Адсочванне">
+<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія адсочвалі вашы дзеянні ў Інтэрнэце, былі заблакаваны.">
+<!ENTITY trackingContentBlocked.learnMore "Даведацца больш">
 <!ENTITY trackingContentBlocked.unblock2.label "Адключыць абарону для гэтага сайта">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "А">
 <!ENTITY trackingContentBlocked.block.label "Уключыць абарону">
