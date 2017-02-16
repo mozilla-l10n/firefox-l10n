@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Prøv på nytt">
 <!ENTITY returnToPreviousPage.label "Gå tilbake">
 <!ENTITY advanced.label "Avansert">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -112,10 +112,12 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avansert">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brukar tryggingsteknologi som er utdatert og utsett for åtak. Ein angripar kan lett avsløra informasjon som du trudde var trygg.">
 <!ENTITY weakCryptoAdvanced.override "(Ikkje trygg) Prøv å lasta <span class='hostname'></span> med hjelp av forelda tryggleik">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; kopla seg ikkje til <span id='wrongSystemTime_URL'/> fordi datamaskinklokka ser ut til å visa feil tid og dette hindrar ei trygg tilkopling.</p> <p>Datamaskina di er innstilt på <span id='wrongSystemTime_systemDate'/>, når ho burde vera <span id='wrongSystemTime_actualDate'/>. For å retta opp dette problemet, endra dato- og tidsinnstillingar slik at rett tid vert vist.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; kopla ikkje til <span id='wrongSystemTimeWithoutReference_URL'/> fordi datamaskinklokka di ser ut til å visa feil tid, og dette hindrar ei trygg tilkopling</p> <p>Datamaskina di er innstillt på <span id='wrongSystemTimeWithoutReference_systemDate'/>. For å retta opp feilen, endrar du dato- og tidsinnstillingar slik at rett tid vert vist.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikkert samband">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisera at &brandShortName; berre skal kopla til trygt. Derfor kan ein ikkje legga til eit unntak for dette sertifikatet.">

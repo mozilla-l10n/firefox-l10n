@@ -52,6 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Trådheng">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Fanga stakkar
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalarar">
 
