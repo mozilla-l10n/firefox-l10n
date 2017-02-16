@@ -8,21 +8,21 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "ইন্টারনেট সংযোগের জন্য প্রক্সি কনফিগারেশন">
-<!ENTITY  noProxyTypeRadio.label        "কোন প্রক্সি নয় (y)">
+<!ENTITY  noProxyTypeRadio.label        "কোন প্রক্সি নয়">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "সিস্টেম প্রক্সির সেটিং ব্যবহার করা হবে (U)">
+<!ENTITY  systemTypeRadio.label         "সিস্টেম প্রক্সির সেটিং ব্যবহার করা হবে">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "এই নেটওয়ার্কের প্রক্সি সেটিং স্বয়ংক্রিয়ভাবে সনাক্ত করা হবে w">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "স্বনির্ধারিত প্রক্সি কনফিগারেশন (M):">
+<!ENTITY  manualTypeRadio.label         "স্বনির্ধারিত প্রক্সি কনফিগারেশন:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "স্বয়ংক্রিয় প্রক্সি কনফিগার করার URL (A):">
+<!ENTITY  autoTypeRadio.label           "স্বয়ংক্রিয় প্রক্সি কনফিগার করার URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "পুনরায় লোড (e)">
+<!ENTITY  reload.label                  "পুনরায় লোড">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP প্রক্সি (F):">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP প্রক্সি (x):">
+<!ENTITY  http.label                    "HTTP প্রক্সি:">
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL প্রক্সি (L):">
 <!ENTITY  ssl.accesskey                 "L">
@@ -39,10 +39,10 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "অনুপস্থিত প্রক্সি (N):">
+<!ENTITY  noproxy.label                 "অনুপস্থিত প্রক্সি:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "সব প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে (s)">
+<!ENTITY  shareproxy.label              "সব প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "পাসওয়ার্ড সংরক্ষিত থাকলে অনুমোদনের জন্য অনুরোধ করা থেকে বিরত থাকুন i">
 <!ENTITY  autologinproxy.accesskey      "i">
