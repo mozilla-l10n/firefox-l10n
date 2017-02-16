@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "r">
 <!ENTITY showAnimatedAlert.label          "Vis eit varsel">
 <!ENTITY showAnimatedAlert.accesskey      "V">
-
+<!ENTITY notificationAlertSettings2.label "Åtvaringar og standardlyden kan slåast av i varslingsfeltet i Systeminnstillingar.">
 <!ENTITY customizeMailAlert.label         "Avansert…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
