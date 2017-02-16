@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Налады - Дадзеныя сайта">
+<!ENTITY     settings.description          "Наступныя вэб-сайты папрасілі захаваць дадзеныя сайтаў на вашым дыску. Вы можаце паказаць, якія вэб-сайты могуць захоўваць дадзеныя сайтаў. Зыходныя дадзеныя сайтаў з'яўляюцца часовымі і могуць быць выдаленыя аўтаматычна.">
+<!ENTITY     hostCol.label                 "Сайт">
+<!ENTITY     statusCol.label               "Статус">
+<!ENTITY     usageCol.label                "Сховішча">
+<!ENTITY     search.label                  "Пошук:">
+<!ENTITY     search.accesskey              "П">
