@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Tia zu feuggio">
 <!ENTITY  unpinTab.accesskey                 "T">
+<!ENTITY  sendTabToDevice.label              "Manda Feuggio a-o Dispoxitivo">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "Manda Pagina a-o Dispoxitivo">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Manda Colegamento a-o Dispoxitivo">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Mescia inte 'n neuvo barcon">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Azonzi tutti i feuggi a-i segnalibbri…">
@@ -105,8 +111,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Fanni vedde tutte e schede">
 <!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "Acedi into &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Acedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconetti a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifica l’account">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.">
+<!ENTITY pointerlockWarning.generic.label "Sto documento o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.">
 
 <!ENTITY closeWindow.label "Særa o barcon">
 <!ENTITY closeWindow.accesskey "S">
@@ -167,11 +177,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Condividdi sto video">
 <!ENTITY shareVideo.accesskey "i">
+<!ENTITY feedsMenu2.label "Abon-ite a sta pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abon-ite a sta pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abon-ite a questa pagina…">
 <!ENTITY addCurPagesCmd.label "Azonzi tutti i feuggi a-i segnalibbri…">
 <!ENTITY showAllBookmarks2.label "Fanni vedde tutti i segnalibbri">
+<!ENTITY recentBookmarks.label "Segnalibbri reçenti">
+<!ENTITY otherBookmarksCmd.label "Atri Segnalibbri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fanni vedde ciù segnalibbri">
+<!ENTITY showRecentlyBookmarked.label     "Fanni vedde segnalibbri reçenti">
+<!ENTITY showRecentlyBookmarked.accesskey "v">
+<!ENTITY hideRecentlyBookmarked.label     "Ascondi segnalibbri reçenti">
+<!ENTITY hideRecentlyBookmarked.accesskey "r">
 
 <!ENTITY backCmd.label                "Inderê">
 <!ENTITY backButton.tooltip           "Vanni inderê de 'na pagina">
@@ -190,12 +207,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Fanni vedde informaçioin in sciô scito">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Arvi panello mesaggi">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Arvi o panello de domanda de l'indirisso">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Arvi o panello de instalaçion conponente azonto">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Arvi o panello de mesaggio sarvataggio feua linia">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Arvi panello de mesaggio sarvataggio paròlle segrete">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestion plugin">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Deciddi se riçeive notifiche da sto scito">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestisci a condivixon de fòtocamera e/o micròfono co-o scito">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestisci a condivixon do micròfono co-o scito">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestisci a condivixon di barcoin ò do schermo co-o scito">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Arvi o panello de mesaggio d'instalaçion">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduxi a pagina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestion traduçion da pagina">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestisci l'uzo do software DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "T'æ blocou a fòtocamera pe sto scito.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "T'æ blocou o micròfono pe sto scito.">
+<!ENTITY urlbar.screenBlocked.tooltip            "T'æ blocou a condivixon schermo pe sto scito.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "T'æ blocou e informaçioin de localizaçion pe sto scito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Repiggia o zoom">
 
 <!ENTITY searchItem.title             "Riçerca">
 
@@ -206,9 +242,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnalibbri">
+<!ENTITY bookmarksMenuButton.other.label "Atri Segnalibbri">
 <!ENTITY viewBookmarksSidebar2.label        "Veddi a bara de scianco segnalibbri">
 <!ENTITY viewBookmarksToolbar.label         "Fanni vedde a bara di Segnalibbri">
 
+<!ENTITY containersMenu.label "Contegnitoî">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -349,6 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Scrivi 'n indirisso ò iniçia 'na riçerca">
 <!ENTITY urlbar.accesskey             "S">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Vanni a-o feuggio:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Megiorâ l’esperiensa de riçerca co-i conseggi?">
@@ -678,9 +717,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Feuggi scincronizæ">
 
+<!ENTITY syncedTabs.sidebar.label              "Feuggio scincronizæ">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nisciun feuggio scincronizou (pe oua)">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nisciun feuggio averto">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "Arvi">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Arvi inte 'n neuvo feuggio">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Arvi inte 'n neuvo barcon">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "f">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Arvi inte 'n neuvo barcon anònimo">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Azonzi a-i segnalibbri…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "s">
+<!ENTITY syncedTabs.context.copy.label                       "Còpia">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Arvi tutti i feuggi">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -795,26 +861,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Atre informaçioin un sce DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-<!ENTITY syncedTabs.sidebar.label "Feuggio scincronizæ">
-<!ENTITY syncedTabs.sidebar.noclients.label "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
-<!ENTITY syncedTabs.sidebar.noclients.title "Nisciun feuggio scincronizou (pe oua)">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
-<!ENTITY syncedTabs.sidebar.notabs.label "Nisciun feuggio averto">
-<!ENTITY syncedTabs.sidebar.openprefs.label "Arvi e inpostaçioin de &syncBrand.shortName.label;">
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.">
-<!ENTITY syncedTabs.context.open.label "Arvi">
-<!ENTITY syncedTabs.context.open.accesskey "A">
-<!ENTITY syncedTabs.context.openInNewTab.label "Arvi inte 'n neuvo feuggio">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey "f">
-<!ENTITY syncedTabs.context.openInNewWindow.label "Arvi inte 'n neuvo barcon">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey "f">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Arvi inte 'n neuvo barcon anònimo">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Azonzi a-i segnalibbri…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
-<!ENTITY syncedTabs.context.copy.label "Còpia">
-<!ENTITY syncedTabs.context.copy.accesskey "C">
-<!ENTITY syncedTabs.context.openAllInTabs.label "Arvi tutti i feuggi">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
