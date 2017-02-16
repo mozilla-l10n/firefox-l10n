@@ -11,12 +11,14 @@
 <!ENTITY removeLanguage.label             "Выдаліць мову">
 <!ENTITY removeLanguage.accesskey         "В">
 <!ENTITY removeAllLanguages.label         "Выдаліць усе мовы">
+<!ENTITY removeAllLanguages.accesskey     "в">
 
 <!ENTITY noTranslationForSites.label      "Пераклад не будзе прапанаваны для наступных сайтаў:">
 <!ENTITY treehead.siteName.label          "Сайты">
 <!ENTITY removeSite.label                 "Выдаліць сайт">
 <!ENTITY removeSite.accesskey             "С">
 <!ENTITY removeAllSites.label             "Выдаліць усе сайты">
+<!ENTITY removeAllSites.accesskey         "і">
 
 <!ENTITY button.close.label               "Закрыць">
 <!ENTITY button.close.accesskey           "З">

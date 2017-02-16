@@ -5,19 +5,29 @@
 <!ENTITY  general.label                 "Агульныя">
 
 <!ENTITY  warnOnAddonInstall.label        "Папярэджваць пры спробе вэб-сайтаў усталяваць дадаткі">
+<!ENTITY  warnOnAddonInstall.accesskey    "П">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "Блакаваць небяспечнае і падманлівае змесціва">
+<!ENTITY  enableSafeBrowsing.accesskey    "Б">
 
+<!ENTITY  blockDownloads.label            "Блакаваць небяспечныя сцягванні">
+<!ENTITY  blockDownloads.accesskey        "Н">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "Папярэджваць пра непажаданыя ці незвычайныя праграмы">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "П">
 
 <!ENTITY  addonExceptions.label         "Выключэнні…">
 <!ENTITY  addonExceptions.accesskey     "В">
 
 
+<!ENTITY  logins.label                  "Лагіны">
 
+<!ENTITY  rememberLogins.label          "Запамінаць лагіны для сайтаў">
+<!ENTITY  rememberLogins.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Выключэнні…">
 <!ENTITY  passwordExceptions.accesskey  "ы">
 
@@ -26,3 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Змяніць галоўны пароль…">
 <!ENTITY  changeMasterPassword.accesskey "З">
 
+<!ENTITY  savedLogins.label              "Захаваныя лагіны…">
+<!ENTITY  savedLogins.accesskey          "З">
