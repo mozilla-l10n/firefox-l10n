@@ -511,6 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "Д">
 <!ENTITY emailVideoCmd.label          "Даслаць відэя…">
 <!ENTITY emailVideoCmd.accesskey      "д">
+<!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
 <!ENTITY emailAudioCmd.label          "Даслаць гук…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
 <!ENTITY playPluginCmd.label          "Задзейнічаць убудову">
@@ -547,9 +548,15 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "З">
 <!ENTITY mediaUnmute.label           "Уключыць гук">
 <!ENTITY mediaUnmute.accesskey       "У">
+<!ENTITY mediaPlaybackRate2.label     "Хуткасць прайгравання">
+<!ENTITY mediaPlaybackRate050x2.label "Павольна (0.5×)">
+<!ENTITY mediaPlaybackRate100x2.label "Звычайна">
+<!ENTITY mediaPlaybackRate125x2.label "Хутка (1.25×)">
+<!ENTITY mediaPlaybackRate150x2.label "Хутчэй (1.5×)">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaLoop.label             "Зацыкліць">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -598,6 +605,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Зачыніць палічку">
 
+<!ENTITY quitApplicationCmdWin2.label       "Выйсці">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Выйсці"> 
@@ -657,18 +665,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваша злучэнне з гэтым сайтам не з'яўляецца прыватным. Інфармацыя, якую вы ўводзіце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
+<!ENTITY identity.description.weakCipher2 "Іншыя людзі могуць праглядаць вашу асабістую інфармацыю або змяніць паводзіны вэб-сайта.">
+<!ENTITY identity.description.passiveLoaded "Ваша злучэнне не з'яўляецца прыватным і інфармацыя, якую вы ўводзіце, можа быць бачная для іншых.">
+<!ENTITY identity.description.activeLoaded "Гэты вэб-сайт змяшчае неабароненае змесціва (такое, як сцэнары) і ваша злучэнне з ім не з'яўляецца прыватным.">
+<!ENTITY identity.description.activeLoaded2 "Інфармацыя, якую вы ўводзіце на гэтым сайце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Уключыць абарону">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "У">
+<!ENTITY identity.disableMixedContentBlocking.label "Часова адключыць абарону">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "А">
+<!ENTITY identity.learnMore "Даведацца больш">
 
+<!ENTITY identity.removeCertException.label "Выдаліць выключэнне">
+<!ENTITY identity.removeCertException.accesskey "В">
 
+<!ENTITY identity.moreInfoLinkText2 "Падрабязней">
 
 <!ENTITY identity.permissions "Дазволы">
+<!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
+<!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку каб прымяніць змены.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Устаўкі азіральніка">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Сінхранізаваныя карткі">
 
+<!ENTITY syncedTabs.sidebar.label              "Сінхранізаваныя карткі">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Адкрыць &syncBrand.shortName.label; Налады">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
@@ -676,11 +701,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "Адкрыць">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Адкрыць у новым акне">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Адкрыць у новым прыватным акне">
 
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Увайсці ў &syncBrand.shortName.label;…">
 <!ENTITY syncSyncNowItem.label        "Сінхранізаваць зараз ">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Перазлучыцца з &syncBrand.shortName.label;…">
@@ -689,6 +718,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "Кіраванне службамі…">
 
+<!ENTITY social.directory.label "Каталог Актывацый">
+<!ENTITY social.directory.text "Вы можаце актываваць слюжбы Абмена з каталога.">
+<!ENTITY social.directory.button "Перанесці мяне туды!">
+<!ENTITY social.directory.introText "Націсніце на службу, каб дадаць яе ў &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Паказаць больш">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дадатковыя прылады і асаблівасці">
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
@@ -696,12 +730,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Аднавіць змоўчныя">
 <!ENTITY customizeMode.toolbars "Паказаць / Схаваць прыладапаліцы">
 <!ENTITY customizeMode.titlebar "Паліца загалоўка">
+<!ENTITY customizeMode.lwthemes "Тэмы">
+<!ENTITY customizeMode.lwthemes.myThemes "Мае тэмы">
+<!ENTITY customizeMode.lwthemes.recommended "Рэкамендаваныя">
+<!ENTITY customizeMode.lwthemes.menuManage "Кіраваць">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Атрымаць больш тэм">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "А">
 
 <!ENTITY getUserMedia.selectCamera.label "Здымач для падзелу:">
 <!ENTITY getUserMedia.selectCamera.accesskey "З">
 <!ENTITY getUserMedia.selectMicrophone.label "Мікрафон для падзелу:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 
+<!ENTITY trackingProtection.title "Абарона ад адсочвання">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць адсочваць вашы паводзіны ў Інтэрнэце.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -709,6 +752,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
+<!ENTITY trackingContentBlocked.unblock2.label "Адключыць абарону для гэтага сайта">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "А">
+<!ENTITY trackingContentBlocked.block.label "Уключыць абарону">
+<!ENTITY trackingContentBlocked.block.accesskey "У">
+<!ENTITY trackingContentBlocked.disabled.message "Абарона ад адсочвання адключана">
 
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
@@ -732,11 +780,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Забыцца пра апошнія:">
+<!ENTITY panicButton.view.5min                    "Пяць хвілін">
+<!ENTITY panicButton.view.2hr                     "Дзве гадзіны">
+<!ENTITY panicButton.view.day                     "24 гадзіны">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Пры гэтым будуць:">
+<!ENTITY panicButton.view.deleteCookies           "Выдалены апошнія <html:strong>Кукі</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Выдалена нядаўняя <html:strong>Гісторыя</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Зачынены ўсе <html:strong>Карткі</html:strong> і <html:strong>Вокны</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Адкрыць новае чыстае акно">
 
+<!ENTITY panicButton.view.undoWarning             "Гэта дзеянне не можа быць адменена.">
+<!ENTITY panicButton.view.forgetButton            "Забыцца!">
 
+<!ENTITY panicButton.thankyou.msg1                "Ваша нядаўняя гісторыя ачышчана.">
+<!ENTITY panicButton.thankyou.msg2                "Бяспечнае агляданне!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Дзякуй!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Даведацца больш пра DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
