@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "e">
 <!ENTITY closeTabCmd2.label "Lat att">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
 <!ENTITY deleteMsgCmd.accesskey "t">
 <!ENTITY undeleteMsgCmd.label "Angra sletting av melding">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Gjenta">
 <!ENTITY redoDefaultCmd.accesskey "G">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Menylinje">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Meldingslinje">
@@ -164,11 +164,11 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktvising">
 <!ENTITY compactVersion.accesskey "K">
-
-
+<!ENTITY folderPaneBar.label "Verktøylinje for mapper">
+<!ENTITY folderPaneBar.accesskey "m">
 <!ENTITY folderModeSelector.label "Mappevisingar">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
 <!ENTITY sortMenu.accesskey "o">
 <!ENTITY sortByDateCmd.label "Dato">
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottakar">
 <!ENTITY sortByRecipientCmd.accesskey "M">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Korrespondentar">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Lesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottekne-rekkjefølgje">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Søk">
 <!ENTITY findMenu.accesskey "S">
 <!ENTITY findCmd.label "Søk i denne meldinga…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Søk i adresser …">
 <!ENTITY searchAddressesCmd.accesskey "S">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Gå til">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "Neste">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Melding">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Ny melding">
@@ -443,11 +443,11 @@
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Byt mellom vising av nettside og oppsummering i meldingsvindauget">
 <!ENTITY openFeedWebPageInMP.accesskey "B">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Vindauge">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
@@ -493,31 +493,33 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
+
 <!-- Developer Tools Submenu -->
-
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Utviklarverktøy">
+<!ENTITY devtoolsMenu.accesskey "U">
+<!ENTITY devToolboxCmd.label "Verktøykasse for utviklarar">
+<!ENTITY devToolboxCmd.accesskey "V">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Feilsøking for utvidingar">
+<!ENTITY addonDebugCmd.accesskey "F">
+<!ENTITY tabsDebugCmd.label "Feilsøking for Debuggar">
+<!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
+<!ENTITY scratchpadCmd.label "Kladdeblokk">
+<!ENTITY scratchpadCmd.accesskey "K">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Hent meldingar">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
@@ -526,7 +528,7 @@
 <!ENTITY forwardButton.label "Vidaresend">
 <!ENTITY fileButton.label "Fil">
 <!ENTITY archiveButton.label "Arkiv">
-
+<!ENTITY openConversationButton.label "Samtale">
 <!ENTITY nextButton.label "Neste">
 <!ENTITY nextButtonToolbarItem.label "Neste ulesne">
 <!ENTITY nextMsgButton.label "Neste">
@@ -554,8 +556,8 @@
 <!ENTITY tagButton.label "Merkelapp-stikkord">
 <!ENTITY compactButton.label "Komprimer">
 <!ENTITY appmenuButton.label "AppMeny">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
 <!ENTITY getMsgButton.tooltip "Hent nye meldingar">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldingar">
@@ -569,7 +571,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Vidaresend vald melding som eit vedlegg">
 <!ENTITY fileButton.tooltip "Arkiver valt melding">
 <!ENTITY archiveButton.tooltip "Arkiver valde meldingar">
-
+<!ENTITY openConversationButton.tooltip "Vis samtale for vald melding">
 <!ENTITY nextButton.tooltip "Gå til neste ulesne melding">
 <!ENTITY nextMsgButton.tooltip "Gå til neste melding">
 <!ENTITY previousButton.tooltip "Gå til førre ulesne melding">
@@ -588,48 +590,48 @@
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Vidaresend innbunde">
 <!ENTITY buttonMenuForwardAsAttachment.label "Vidaresend som vedlegg">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhald i denne meldinga">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
 <!ENTITY editRemoteContentSettings.label "Innstillingar for eksternt innhald …">
 <!ENTITY editRemoteContentSettings.accesskey "n">
 <!ENTITY editRemoteContentSettingsUnix.label "Innstillingar for eksternt innhald …">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "n">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer åtvaring for denne meldinga">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Rediger svindeloppdagings-innstillingar…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Rediger svindeloppdagings-innstillingar…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
 <!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appmenuSelectThread.label "Vel tråd">
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nytt merkelapp-stikkord…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Handsam merkelapp-stikkord…">
 <!ENTITY manageTags.accesskey "H">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Namn">
 <!ENTITY folderUnreadColumn.label "Ulesne">
 <!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Storleik">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meldingar">
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextOpenInNewWindow.label "Opna i nytt vindauge">
@@ -666,15 +668,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
 <!ENTITY folderContextSettings2.label "Innstillingar">
 <!ENTITY folderContextSettings2.accesskey "n">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller e-postadresse inneheld:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Søk i meldingar…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Emne">
 <!ENTITY searchFromMenu.label "Frå">
 <!ENTITY searchSubjectOrFromMenu.label "Emne eller Frå">
@@ -682,8 +684,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Emne, Til eller Cc">
 <!ENTITY searchMessageBody.label "Meldingskropp">
 <!ENTITY saveAsVirtualFolderMenu.label "Lagra søk som mappe …">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Frå">
 <!ENTITY recipientColumn.label "Mottakar">
@@ -704,8 +706,8 @@
 <!ENTITY locationColumn.label "Plassering">
 <!ENTITY idColumn.label "Motteke-rekkjefølgje">
 <!ENTITY attachmentColumn.label "Vedlegg">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vel kolonner du vil vise">
 <!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
 <!ENTITY fromColumn2.tooltip "Sorter etter: Frå">
@@ -727,8 +729,8 @@
 <!ENTITY locationColumn2.tooltip "Sorter etter: Plassering">
 <!ENTITY idColumn2.tooltip "Sorter etter: Mottaksrekkjefølgje">
 <!ENTITY attachmentColumn2.tooltip "Sorter etter: Vedlegg">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna melding i nytt vindauge">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
@@ -786,12 +788,12 @@
 <!ENTITY contextPrint.accesskey "u">
 <!ENTITY contextPrintPreview.label "Førehandsvising">
 <!ENTITY contextPrintPreview.accesskey "r">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Tilbakestill kolonnar til standard">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -832,9 +834,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Denne mappa">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Spel av">
 <!ENTITY contextPlay.accesskey "S">
 <!ENTITY contextPause.label "Pause">
@@ -843,12 +845,12 @@
 <!ENTITY contextMute.accesskey "a">
 <!ENTITY contextUnmute.label "Slå på lyd">
 <!ENTITY contextUnmute.accesskey "å">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -872,8 +874,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Legg til i adressebok">
@@ -898,12 +900,12 @@
 <!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagra lenkemål som …">
 <!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Lagra bilde som …">
@@ -922,17 +924,17 @@
 <!ENTITY openInBrowser.accesskey "n">
 <!ENTITY openLinkInBrowser.label "Opna lenke i nettlesar">
 <!ENTITY openLinkInBrowser.accesskey "e">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Ferdig">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Send alle til framgrunnen">
 <!ENTITY zoomWindow.label "Skalering">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Innstillingar">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -944,6 +946,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Vis alle">
-<!-- Mac OS X Dock Icon pop-up menu -->
 
+<!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Innstillingar for app-ikon …">
