@@ -30,6 +30,8 @@
 <!ENTITY manageCerts2.accesskey "H">
 <!ENTITY manageDevices.label "Tryggingseiningar">
 <!ENTITY manageDevices.accesskey "T">
-<!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.info  "Sertifikat:">
 
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Vel sertifikat">
+<!ENTITY certPicker.info  "Sertifikat:">
+<!ENTITY certPicker.detailsLabel "Detaljar om valt sertifikat:">

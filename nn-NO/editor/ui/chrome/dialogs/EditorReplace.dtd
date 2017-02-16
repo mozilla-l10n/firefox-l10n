@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Søk og erstatt">
 <!ENTITY findField.label "Søk etter:">
@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Erstatt alle">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Lukk">
+<!ENTITY closeButton.accesskey "L">
