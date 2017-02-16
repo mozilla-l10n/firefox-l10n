@@ -224,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
 
 
 <!ENTITY searchItem.title             "Пошук">
@@ -272,10 +273,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
+<!ENTITY newUserContext.label             "Новая картка кантэйнера">
 <!ENTITY newNavigatorCmd.label        "Новае акно">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Новае акно адасаблення">
 <!ENTITY newPrivateWindow.accesskey "а">
+<!ENTITY newNonRemoteWindow.label   "Новае не-e10s акно">
 
 <!ENTITY editMenu.label         "Праўка"> 
 <!ENTITY editMenu.accesskey       "р"> 
@@ -288,9 +291,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Выразаць">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "р"> 
-  
-  
- 
+<!ENTITY copyCmd.label            "Капіяваць">  
+<!ENTITY copyCmd.key            "С">  
+<!ENTITY copyCmd.accesskey          "С"> 
 <!ENTITY pasteCmd.label           "Уставіць">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "У"> 
@@ -307,6 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Ачысціць нядаўнюю гісторыю…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "А">
 
 <!ENTITY viewMenu.label         "Прагляд"> 
 <!ENTITY viewMenu.accesskey       "П"> 
@@ -325,6 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сэсію">
 
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
+<!ENTITY showAllHistoryCmd.commandkey "Г">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY appMenuCustomize.tooltip "Уладкаваць меню і прыладапаліцы">
@@ -337,13 +342,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Пабачыць палічку гісторыі">
 <!ENTITY appMenuHelp.tooltip "Адчыніць меню даведкі">
 
+<!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Няма адкрытых картак">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 
 <!ENTITY customizeMenu.addToToolbar.label "Дадаць на прыладапаліцу">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -369,8 +378,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Шукаць ці ўвесці адрас">
 <!ENTITY urlbar.accesskey             "а">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Пашырэнне:">
 <!ENTITY urlbar.switchToTab.label     "Пераключыцца ў устаўку:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Даведацца больш…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "д">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "н">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Так">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "т">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -393,15 +409,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Пошукавы запыт">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Шукаць ">
+<!ENTITY searchWith.label             " з:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -631,9 +651,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
 <!ENTITY identity.activeLoaded "Вы адключылі абарону на гэтай старонцы.">
+<!ENTITY identity.weakEncryption "Гэта старонка ўжывае слабы тып шыфравання.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Ваша злучэнне з гэтым сайтам не з'яўляецца прыватным. Інфармацыя, якую вы ўводзіце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
 
 
 
