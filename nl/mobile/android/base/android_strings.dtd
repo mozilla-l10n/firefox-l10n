@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Bladwijzer al gemaakt">
 <!ENTITY overlay_share_send_other "Verzenden naar andere apparaten">
 
+<!ENTITY overlay_share_open_browser_btn_label "Openen in &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Zoekgeschiedenis tonen">
 <!ENTITY pref_import_options "Importeeropties">
 <!ENTITY pref_import_android_summary "Bladwijzers en geschiedenis vanuit de systeemeigen browser importeren">
+<!ENTITY pref_private_data_openTabs "Open tabbladen">
 <!ENTITY pref_private_data_history2 "Navigatiegeschiedenis">
 <!ENTITY pref_private_data_searchHistory "Zoekgeschiedenis">
 <!ENTITY pref_private_data_formdata2 "Formuliergeschiedenis">
@@ -535,6 +537,11 @@ size. -->
 
 <!ENTITY pref_tab_queue_title3 "Tabbladwachtrij">
 <!ENTITY pref_tab_queue_summary4 "Koppelingen opslaan voor de volgende keer dat u &brandShortName; opent">
+
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Compacte tabbladen">
+<!ENTITY pref_compact_tabs_summary2 "Tabbladen in twee kolommen schikken in staande modus">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,8 +708,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Raak aan om update na downloaden toe te passen">
 <!ENTITY updater_downloading_retry2 "Raak aan om opnieuw te proberen">
 
-<!ENTITY updater_apply_title2 "Update voor &brandShortName; beschikbaar">
-<!ENTITY updater_apply_select2 "Raak aan om bij te werken">
+<!ENTITY updater_apply_title3 "Update voor &brandShortName; gedownload">
+<!ENTITY updater_apply_select3 "Raak aan om te installeren">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -846,3 +853,6 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Verwijderen">
 <!ENTITY activity_stream_delete_history "Verwijderen uit geschiedenis">
+
+<!ENTITY activity_stream_welcome_title "Welkom bij uw Highlights">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; maakt nu highlights aan van dingen die u op het web hebt ontdekt, zodat u interessante artikelen, video’s, bladwijzers en andere pagina’s makkelijk kunt terugvinden.">
