@@ -21,21 +21,21 @@
 <!ENTITY quotedTextColor.accesskey        "F">
 <!ENTITY displayWidth.label               "Meldingar i normal tekst">
 <!ENTITY displayText.label                "Når ein viser sitat i tekstmeldingar:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Vis smilefjes som bilde">
 <!ENTITY convertEmoticons.accesskey    "V">
+
 <!-- labels -->
-
 <!ENTITY displayTagsText.label     "Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.">
-
-
+<!ENTITY newTagButton.label        "Ny…">
+<!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Rediger…">
 <!ENTITY editTagButton1.accesskey  "R">
 <!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Skrifttypar og fargar">
 <!ENTITY defaultFont.label       "Standard skrifttype:">
 <!ENTITY defaultFont.accesskey   "t">
@@ -45,8 +45,8 @@
 <!ENTITY fontOptions.label       "Skrifttypar …">
 <!ENTITY colorButton.label       "Fargar…">
 <!ENTITY colorButton.accesskey   "F">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Lesar">
 <!ENTITY display.caption                  "Vising">
 <!ENTITY showCondensedAddresses.label     "Vis berre visings-namnet for personar i adresseboka">

@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "u">
 <!ENTITY  monospace.label                         "Fast teiknavstand:">
 <!ENTITY  monospace.accesskey                     "F">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Vestleg">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjonell kinesisk (Taiwan)">
@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Mathematics">
-
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Minste skriftstørrelse:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Ingen">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Seriffskrift">
 <!ENTITY  useDefaultFontSansSerif.label           "Serifflaus skrift">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Skrifttypekontroll">
 <!ENTITY  useFixedWidthForPlainText.label         "Bruk skrifttype med fast teiknavstand for meldingar i rein tekst">
 <!ENTITY  fixedWidth.accesskey                    "B">
 <!ENTITY  useDocumentFonts.label                  "La meldingar bruke andre skrifttypar">
 <!ENTITY  useDocumentFonts.accesskey              "L">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Utgåande e-post:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
 <!ENTITY languagesTitle2.label            "Tekstkoding">

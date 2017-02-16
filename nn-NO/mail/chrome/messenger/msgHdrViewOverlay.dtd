@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Til">
 <!ENTITY fromField4.label "Frå">
 <!ENTITY senderField4.label "Avsendar">
-
+<!ENTITY author.label "Forfattar">
 <!ENTITY organizationField4.label "Organisasjon">
 <!ENTITY replyToField4.label "Svar til">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldinga">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Samtale">
+<!ENTITY hdrOpenConversationButton1.tooltip "Vis samtalen for denne meldinga">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
 <!ENTITY hdrReplyButton1.label "Svar">
 <!ENTITY hdrReplyButton2.tooltip "Svar til avsendaren av denne meldinga">
@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Skriv ut …">
 <!ENTITY otherActionsPrint1.accesskey "S">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Vis vedleggspanelet initielt">
 <!ENTITY startExpandedCmd.accesskey    "V">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Opna">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Lagra som…">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Opna vedlagde fil">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lagra">
 <!ENTITY saveAttachmentButton1.tooltip     "Lagra vedlagde fil">
 <!ENTITY saveAllAttachmentsButton1.label   "Lagra alle">

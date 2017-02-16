@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger katalogar …">
 <!ENTITY editDirectories.accesskey             "R">
+<!ENTITY showAsDefault.label                   "Standard startkatalog i adressbokvindauget:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Siste brukte ordbok">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
 <!ENTITY sendOptions.label                     "Sende-innstillingar …">
