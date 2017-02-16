@@ -9,13 +9,13 @@
 <!ENTITY importFromUnix.label           "উল্লেখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
 <!ENTITY importFromBookmarks.label      "উল্লেখিত স্থান থেকে বুকমার্ক ইমপোর্ট করা হবে:">
 
-<!ENTITY importFromIE.label             "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার (M)">
+<!ENTITY importFromIE.label             "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "মাইক্রোসফট Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "কিছুই ইমপোর্ট করা হবে না (D)">
+<!ENTITY importFromNothing.label        "কিছুই ইমপোর্ট করা হবে না">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "সাফারি (S)">
+<!ENTITY importFromSafari.label         "সাফারি">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "ক্রোম ক্যানারি ">
 <!ENTITY importFromCanary.accesskey     "ন">
