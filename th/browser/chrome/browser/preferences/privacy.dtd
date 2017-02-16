@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "ใช้การตั้งค่าที่กำหนดเองสำหรับประวัติ">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; จะจดจำประวัติการท่องเว็บ, การดาวน์โหลด, การกรอกฟอร์ม และการค้นหาของคุณ รวมทั้งเก็บคุกกี้จากเว็บไซต์ที่คุณเยี่ยมชม">
+<!ENTITY  rememberDescription.label      "&brandShortName; จะจดจำประวัติการท่องเว็บ, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ รวมทั้งเก็บคุกกี้จากเว็บไซต์ที่คุณเยี่ยมชม">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -96,7 +96,7 @@
 <!ENTITY  rememberHistory2.label      "จดจำประวัติการท่องเว็บและการดาวน์โหลดของฉัน">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "จดจำประวัติการค้นหาและการกรอกฟอร์ม">
+<!ENTITY  rememberSearchForm.label       "จดจำประวัติการค้นหาและแบบฟอร์ม">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "ล้างประวัติเมื่อปิด &brandShortName;">
