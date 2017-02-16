@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "s">
 <!ENTITY toolsMenu.tooltip                    "Hulpmiddelen voor alle add-ons">
 
+<!ENTITY getThemes.description                "Zoekt u een manier om uw browser te personaliseren?">
+<!ENTITY getThemes.learnMore                  "Maak een keuze uit duizenden thema’s.">
+
 <!ENTITY cmd.back.tooltip                     "Een pagina terug gaan">
 <!ENTITY cmd.forward.tooltip                  "Een pagina vooruit gaan">
 
