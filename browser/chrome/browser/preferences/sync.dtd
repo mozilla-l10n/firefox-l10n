@@ -25,7 +25,8 @@
 <!ENTITY syncMy.label               "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label     "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
-<!ENTITY engine.tabs.accesskey      "У">
+<!ENTITY engine.tabs.label2         "Адкрытыя карткі">
+<!ENTITY engine.tabs.accesskey      "К">
 <!ENTITY engine.history.label       "Гісторыя">
 <!ENTITY engine.history.accesskey   "Г">
 <!ENTITY engine.passwords.label     "Паролі">
@@ -37,6 +38,7 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Назва збудовы:">
+<!ENTITY cancelChangeSyncDeviceName.label "Скасаваць">
 <!ENTITY unlinkDevice.label           "Разлучыцца з гэтай збудовай">
 
 <!-- Footer stuff -->
@@ -64,6 +66,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Вы не ўвайшлі.">
+<!ENTITY signIn.label                "Увайсці">
 
 <!ENTITY welcome.description "Доступа да вашых уставак, пароляў і іншага, што ўжываецца вамі на &brandShortName;.">
 <!ENTITY welcome.signIn.label "Увайсці">
@@ -71,6 +74,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Ужываеце старэйшую версію Sync?">
 
+<!ENTITY signedOut.accountBox.signin  "Увайсці">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
@@ -79,7 +83,10 @@ both, to better adapt this sentence to their language.
      Android or iOS to sync with your mobile device." -->
 
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " або ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 

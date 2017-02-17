@@ -2,38 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY  trackingProtectionAlways.label       "Заўсёды">
+<!ENTITY  trackingProtectionPrivate.label      "Толькі ў прыватных вокнах">
+<!ENTITY  trackingProtectionNever.label        "Ніколі">
+<!ENTITY  trackingProtectionExceptions.label   "Выключэнні…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ч">
 
 <!ENTITY tracking.label                 "Высочванне">
 
-
-
-
-
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "Вы таксама можаце ">
+<!ENTITY  doNotTrack.post.label         ".">
 
-
-
+<!ENTITY  history.label                 "Гісторыя">
 
 <!ENTITY  locationBar.label             "Паліца месцазнаходжання">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Пры выкарыстанні адраснага радка, прапаноўваць:">
+<!ENTITY  locbar.history.label          "Гісторыю">
+<!ENTITY  locbar.history.accesskey      "Г">
+<!ENTITY  locbar.bookmarks.label        "Закладкі">
+<!ENTITY  locbar.openpage.label         "Адкрытыя карткі">
 
 
 <!ENTITY  acceptCookies.label           "Набываць біркі з пляцовак">
@@ -41,8 +31,8 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Набываць пабочныя біркі:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "п">
-
-
+<!ENTITY  acceptThirdParty.always.label   "Заўсёды">
+<!ENTITY  acceptThirdParty.never.label    "Ніколі">
 <!ENTITY  acceptThirdParty.visited.label  "З наведаных">
 
 <!ENTITY  keepUntil.label               "Трымаць пакуль:">
@@ -65,10 +55,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; будзе памятаць гісторыю вашых азірання, загрузак, запаўнення формаў і пошуку і будзе трымаць біркі з наведаных пляцовак Сеціва.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Вы можаце">
 <!ENTITY  rememberActions.clearHistory.label  "ачысціць нядаўнюю гісторыю">
 <!ENTITY  rememberActions.middle.label        "або">
@@ -76,9 +66,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; будзе ўжываць наладжванні, аднолькавыя наладжванням адасобленага азірання, і не будзе запамінаць гісторыю вашага азірання Сеціва.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Ці вы можаце">
 <!ENTITY  dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -98,8 +88,4 @@
 <!ENTITY  clearOnCloseSettings.label     "Наладжванні…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
-
-
-
-
-
+<!ENTITY  browserContainersHeader.label         "Карткі кантэйнераў">
