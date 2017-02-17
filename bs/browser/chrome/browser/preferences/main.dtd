@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Kada se &brandShortName; pokrene:">
 <!ENTITY startupPage.accesskey     "s">
-
+<!ENTITY startupUserHomePage.label "Prikazati vašu početnu stranicu">
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
-
+<!ENTITY startupPrevSession.label  "Prikazati vaše prozore i tabove od zadnjeg puta">
 
 <!ENTITY homepage.label            "Početna stranica:">
 <!ENTITY homepage.accesskey        "č">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Izaberi…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "Uvijek vas pitati gdje želite spasiti fajl">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Uvijek provjeravaj da li je &brandShortName; glavni browser">
 <!ENTITY alwaysCheckDefault2.accesskey    "g">

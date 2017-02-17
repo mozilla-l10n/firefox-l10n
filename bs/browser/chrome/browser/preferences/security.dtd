@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Opće">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Upozoriti vas kada stranice pokušaju instalirati add-one">
+<!ENTITY  warnOnAddonInstall.accesskey    "U">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Blokiraj opasna preuzimanja">
 <!ENTITY  blockDownloads.accesskey        "o">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Upozoriti vas na neželjene ili neobične programe">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "g">
 
 <!ENTITY  addonExceptions.label         "Izuzeci…">
 <!ENTITY  addonExceptions.accesskey     "e">

@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Dozvolite stranicama da biraju svoje fontove, umjesto vašeg izbora iznad">
+<!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kodna stranica za zastarjeli sadržaj">
 <!ENTITY languages.customize.Fallback2.label      "Pomoćna kodna stranica:">

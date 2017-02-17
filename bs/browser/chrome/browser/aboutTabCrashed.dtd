@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Pošalji mi email kada više informacija bude dostupno">
 <!ENTITY tabCrashed.reportSent "Izvještaj o rušenju je već poslan; hvala vam što pomažete da unaprijedimo &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Prijavi pozadinske tabove">
-
+<!ENTITY tabCrashed.autoSubmit2 "Ažurirajte postavke da automatski šalju izvještaje o rušenju, uključujući i izvještaje o srušenim pozadinskim tabova iz ove, ali i budućih sesija">
