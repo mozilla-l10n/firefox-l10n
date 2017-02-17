@@ -219,12 +219,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць дазволам на ўжыванне сайтам мікрафона">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Кіраваць дазволам на прагляд сайтам экрану ці вакон">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Адкрыць панэль паведамленняў усталявання">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Перакласці гэту старонку">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
@@ -311,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Вылучыць усё">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ё"> 
-<!ENTITY preferencesCmd2.label       "Наладжванні">
+<!ENTITY preferencesCmd2.label       "Налады">
 <!ENTITY preferencesCmd2.accesskey     "Н">
 <!ENTITY preferencesCmdUnix.label       "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey     "П"> 
@@ -322,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Прагляд"> 
 <!ENTITY viewMenu.accesskey       "П"> 
-<!ENTITY viewToolbarsMenu.label       "Паліцы прыладаў"> 
+<!ENTITY viewToolbarsMenu.label       "Панэлі прыладаў"> 
 <!ENTITY viewToolbarsMenu.accesskey     "л"> 
 <!ENTITY viewSidebarMenu.label "Палічка">
 <!ENTITY viewSidebarMenu.accesskey "П">
@@ -331,10 +333,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Гісторыя">
 <!ENTITY historyMenu.accesskey "Г">
-<!ENTITY historyUndoMenu.label "Нядаўна зачыненыя ўстаўкі">
+<!ENTITY historyUndoMenu.label "Нядаўна закрытыя карткі">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Нядаўна зачыненыя вокны">
-<!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сэсію">
+<!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сесію">
 
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "Г">
@@ -348,7 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэднюю сэсію">
 <!ENTITY appMenuHistory.viewSidebar.label "Пабачыць палічку гісторыі">
-<!ENTITY appMenuHelp.tooltip "Адчыніць меню даведкі">
+<!ENTITY appMenuHelp.tooltip "Адкрыць меню даведкі">
 
 <!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -430,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Пошукавы запыт">
+<!ENTITY contentSearchSubmit.tooltip  "Даслаць запыт">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -443,6 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Шукаць на ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
@@ -457,22 +461,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Змяніць настройкі пошуку">
 
 <!ENTITY searchInNewTab.label         "Шукаць у новай картцы">
+<!ENTITY searchInNewTab.accesskey     "Е">
+<!ENTITY searchSetAsDefault.label     "Зрабіць прадвызначаным пашукавіком">
+<!ENTITY searchSetAsDefault.accesskey "В">
 
-<!ENTITY openLinkCmdInTab.label       "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY openLinkCmdInTab.label       "Адкрыць спасылку ў новай картцы">
 <!ENTITY openLinkCmdInTab.accesskey   "й">
-<!ENTITY openLinkCmd.label            "Адчыніць спасылку ў новым акне">
+<!ENTITY openLinkCmd.label            "Адкрыць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey        "п">
-<!ENTITY openLinkInPrivateWindowCmd.label "Адчыніць спасылку ў новым адасобленым акне">
+<!ENTITY openLinkInPrivateWindowCmd.label "Адкрыць спасылку ў новым прыватным акне">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "а">
 <!ENTITY openLinkCmdInCurrent.label     "Адкрыць спасылку">
 <!ENTITY openLinkCmdInCurrent.accesskey "А">
-<!ENTITY openFrameCmdInTab.label      "Адчыніць рамку ў новай устаўцы">
+<!ENTITY openFrameCmdInTab.label      "Адкрыць рамку ў новай картцы">
 <!ENTITY openFrameCmdInTab.accesskey  "ў">
-<!ENTITY openFrameCmd.label           "Адчыніць рамку ў новым акне">
+<!ENTITY openFrameCmd.label           "Адкрыць рамку ў новым акне">
 <!ENTITY openFrameCmd.accesskey       "ч">
 <!ENTITY openLinkCmdInContainerTab.label "Адкрыць спасылку ў новай картцы кантэйнера">
+<!ENTITY openLinkCmdInContainerTab.accesskey "і">
 <!ENTITY showOnlyThisFrameCmd.label     "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
+<!ENTITY reloadCmd.commandkey         "к">
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
 <!ENTITY reloadFrameCmd.accesskey     "ь">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
@@ -531,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "Даслаць відэя…">
 <!ENTITY emailVideoCmd.accesskey      "д">
 <!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
+<!ENTITY castVideoCmd.accesskey       "у">
 <!ENTITY emailAudioCmd.label          "Даслаць гук…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
 <!ENTITY playPluginCmd.label          "Задзейнічаць убудову">
@@ -568,14 +578,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Уключыць гук">
 <!ENTITY mediaUnmute.accesskey       "У">
 <!ENTITY mediaPlaybackRate2.label     "Хуткасць прайгравання">
+<!ENTITY mediaPlaybackRate2.accesskey "в">
 <!ENTITY mediaPlaybackRate050x2.label "Павольна (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "Ы">
 <!ENTITY mediaPlaybackRate100x2.label "Звычайна">
+<!ENTITY mediaPlaybackRate100x2.accesskey "Т">
 <!ENTITY mediaPlaybackRate125x2.label "Хутка (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "А">
 <!ENTITY mediaPlaybackRate150x2.label "Хутчэй (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ф">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Бязглузда (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "Д">
 <!ENTITY mediaLoop.label             "Зацыкліць">
+<!ENTITY mediaLoop.accesskey         "Д">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -622,13 +640,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Павялічэнне">
 <!ENTITY fullZoom.accesskey             "П">
 
-<!ENTITY sidebarCloseButton.tooltip     "Зачыніць палічку">
+<!ENTITY sidebarCloseButton.tooltip     "Закрыць панэль">
 
 <!ENTITY quitApplicationCmdWin2.label       "Выйсці">
+<!ENTITY quitApplicationCmdWin2.accesskey   "ч">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Выйсці з &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Выйсці"> 
 <!ENTITY quitApplicationCmd.accesskey   "В">
+<!ENTITY quitApplicationCmdMac2.label   "Выйсці з &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -636,6 +657,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ч">
 
+<!ENTITY toggleMuteCmd.key              "Ь">
 
 <!ENTITY pageStyleMenu.label "Стыль старонкі">
 <!ENTITY pageStyleMenu.accesskey "С">
@@ -677,16 +699,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
+<!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
+<!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
+<!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
+<!ENTITY identity.connectionInternal "Гэта бяспечная &brandShortName; старонка.">
+<!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
-<!ENTITY identity.activeLoaded "Вы адключылі абарону на гэтай старонцы.">
+<!ENTITY identity.passiveLoaded "Некаторыя часткі гэтай старонкі небяспечныя (напрыклад, выявы).">
+<!ENTITY identity.activeLoaded "Вы адключылі ахову на гэтай старонцы.">
 <!ENTITY identity.weakEncryption "Гэта старонка ўжывае слабы тып шыфравання.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваша злучэнне з гэтым сайтам не з'яўляецца прыватным. Інфармацыя, якую вы ўводзіце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
+<!ENTITY identity.description.insecureLoginForms "Ідэнтыфікацыйная інфармацыя, уведзеная на гэтай старонцы, можа быць скампраметавана.">
+<!ENTITY identity.description.weakCipher "Вашае злучэнне з гэтым сайтам ўжывае слабы тып шыфравання і не з'яўляецца прыватным.">
 <!ENTITY identity.description.weakCipher2 "Іншыя людзі могуць праглядаць вашу асабістую інфармацыю або змяніць паводзіны вэб-сайта.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
 <!ENTITY identity.description.passiveLoaded "Ваша злучэнне не з'яўляецца прыватным і інфармацыя, якую вы ўводзіце, можа быць бачная для іншых.">
+<!ENTITY identity.description.passiveLoaded2 "Гэты сайт мае небяспечны змест (напрыклад, выявы).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; заблакаваў некаторае змесціва, але яно яшчэ застаецца на гэтай старонцы (напрыклад, выявы).">
 <!ENTITY identity.description.activeLoaded "Гэты вэб-сайт змяшчае неабароненае змесціва (такое, як сцэнары) і ваша злучэнне з ім не з'яўляецца прыватным.">
 <!ENTITY identity.description.activeLoaded2 "Інфармацыя, якую вы ўводзіце на гэтым сайце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
 
