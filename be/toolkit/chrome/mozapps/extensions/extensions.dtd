@@ -239,8 +239,13 @@
 <!ENTITY disabledUnsigned.description.start "Праца наступных дадаткаў у &brandShortName; не была праверана. Вы можаце ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "знайсці ім замену">
 <!ENTITY disabledUnsigned.description.end " або папрасіць распрацоўшчыка правесці іх праверку.">
+<!ENTITY disabledUnsigned.learnMore "Даведайцеся больш пра нашы намаганні ў забеспячэнні вашай бяспекі ў інтэрнэце.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Распрацоўшчыкі, зацікаўленыя ў праверцы сваіх дадаткаў, могуць прачытаць наш ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "дапаможнік">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Нешта адсутнічае? &brandShortName; больш не падтрымлівае некаторыя ўбудовы.">
 <!ENTITY pluginDeprecation.learnMore "Падрабязней.">
