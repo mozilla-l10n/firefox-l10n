@@ -280,6 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая картка кантэйнера">
+<!ENTITY newUserContext.accesskey         "К">
 <!ENTITY newNavigatorCmd.label        "Новае акно">
 <!ENTITY newNavigatorCmd.key        "Н">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -355,9 +356,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма адкрытых картак">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Уключыце сінхранізацыю картак, каб пабачыць спіс картак з вашых іншых прылад.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Няма сінхранізаваных картак… пакуль!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Настройкі сінхранізацыі">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з сваіх іншых прылад.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 
@@ -388,6 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Пашырэнне:">
 <!ENTITY urlbar.switchToTab.label     "Пераключыцца ў устаўку:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Не хочаце пашырыць свой досвед пошуку з дапамогай падказак?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Даведацца больш…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "д">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
@@ -442,10 +449,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Шукаць з:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Змяніць настройкі пошуку">
+<!ENTITY changeSearchSettings.tooltip "Змяніць настройкі пошуку">
 
+<!ENTITY searchInNewTab.label         "Шукаць у новай картцы">
 
 <!ENTITY openLinkCmdInTab.label       "Адчыніць спасылку ў новай устаўцы">
 <!ENTITY openLinkCmdInTab.accesskey   "й">
@@ -459,6 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ў">
 <!ENTITY openFrameCmd.label           "Адчыніць рамку ў новым акне">
 <!ENTITY openFrameCmd.accesskey       "ч">
+<!ENTITY openLinkCmdInContainerTab.label "Адкрыць спасылку ў новай картцы кантэйнера">
 <!ENTITY showOnlyThisFrameCmd.label     "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
@@ -664,6 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Гатова">
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
+<!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
