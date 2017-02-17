@@ -29,6 +29,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "Некаторыя пашырэнні не могуць быць правераны">
 <!ENTITY showAllExtensions.button.label       "Паказаць усе пашырэнні">
 <!ENTITY debugAddons.label                    "Адладка дадаткаў">
+<!ENTITY debugAddons.accesskey                "А">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Усе дадаткі забаронены бяспечным рэжымам.">
@@ -231,10 +232,15 @@
 
 <!ENTITY setting.learnmore "Падрабязней…">
 
+<!ENTITY disabledUnsigned.heading "Некаторыя дадаткі былі адключаны">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Праца наступных дадаткаў у &brandShortName; не была праверана. Вы можаце ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "знайсці ім замену">
+<!ENTITY disabledUnsigned.description.end " або папрасіць распрацоўшчыка правесці іх праверку.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 
+<!ENTITY pluginDeprecation.learnMore "Падрабязней.">
