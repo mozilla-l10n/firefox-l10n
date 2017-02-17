@@ -20,8 +20,8 @@
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Kratice na tastaturi">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.label     "Shortcuti na tastaturi">
+<!ENTITY helpKeyboardShortcuts.accesskey "o">
 
 <!ENTITY helpSafeMode.label       "Restartuj sa onemogućenim add-onima…">
 <!ENTITY helpSafeMode.accesskey   "R">
