@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Памылка загрузкі старонкі">
 <!ENTITY retry.label "Паспрабуйце зноў">
+<!ENTITY returnToPreviousPage.label "Вярнуцца">
+<!ENTITY advanced.label "Дадаткова">
 
 <!-- Specific error messages -->
 
@@ -22,11 +24,13 @@
 <!ENTITY fileNotFound.title "Файл не знойдзены">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.</li> <li>Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Доступ да файла забаронены">
 
 <!ENTITY generic.title "Ух?!">
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
 
 
+<!ENTITY openPortalLoginPage.label "Адкрыць старонку ўваходу">
 
 <!ENTITY malformedURI.title "Несапраўдны адрас">
 <!ENTITY malformedURI.longDesc "<ul> <li>Адрас Сеціва звычайна пішацца, як <strong>http://www.example.com/</strong></li> <li>Упэўніцеся, што вы ўжываеце простыя косыя рыскі (г.зн. <strong>/</strong>).</li> </ul>">
