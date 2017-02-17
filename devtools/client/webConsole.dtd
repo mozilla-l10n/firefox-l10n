@@ -83,7 +83,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "คัดลอกที่ตั้งลิงก์">
+<!ENTITY copyURLCmd.label     "คัดลอกตำแหน่งที่ตั้งลิงก์">
 <!ENTITY copyURLCmd.accesskey "ค">
 
 <!ENTITY closeCmd.key         "W">
