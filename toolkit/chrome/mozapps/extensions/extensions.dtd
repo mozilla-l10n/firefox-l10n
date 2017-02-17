@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "N">
 <!ENTITY toolsMenu.tooltip                    "Nástroje pre všetky doplnky">
 
+<!ENTITY getThemes.description                "Chcete si prispôsobiť svoj prehliadač?">
+
 <!ENTITY cmd.back.tooltip                     "Prejsť naspäť o jednu stránku">
 <!ENTITY cmd.forward.tooltip                  "Prejsť dopredu o jednu stránku">
 
