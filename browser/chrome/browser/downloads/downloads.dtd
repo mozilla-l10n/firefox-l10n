@@ -66,7 +66,7 @@
 <!ENTITY cmd.clearList2.label             "ล้างแผงแสดงตัวอย่าง">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ล้างการดาวน์โหลด">
-<!ENTITY cmd.clearDownloads.accesskey     "ด">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
@@ -108,7 +108,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "แสดงการดาวน์โหลดทั้งหมด">
-<!ENTITY downloadsHistory.accesskey       "แ">
+<!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY openDownloadsFolder.label       "เปิดโฟลเดอร์ดาวน์โหลด">
 
