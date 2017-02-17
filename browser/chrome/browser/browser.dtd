@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Razširitev:">
 <!ENTITY urlbar.switchToTab.label     "Preklopi na zavihek:">
 
@@ -506,7 +507,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "S">
 <!ENTITY viewVideoCmd.label           "Pokaži video">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "Pokaži sliko za ozadje">
+<!ENTITY viewBGImageCmd.label         "Pokaži sliko ozadja">
 <!ENTITY viewBGImageCmd.accesskey     "o">
 <!ENTITY setDesktopBackgroundCmd.label      "Nastavi za sliko ozadja namizja">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
@@ -755,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Odpri">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Odpri v novem zavihku">
@@ -767,6 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "D">
 <!ENTITY syncedTabs.context.copy.label                       "Kopiraj">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
